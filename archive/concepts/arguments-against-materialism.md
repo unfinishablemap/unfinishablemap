@@ -14,7 +14,7 @@ original_path: "/concepts/arguments-against-materialism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[knowledge-argument]]"
   - "[[philosophical-zombies]]"
@@ -28,7 +28,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[introspection]]"
   - "[[decoherence]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[haecceity]]"
 related_articles:
   - "[[tenets]]"
@@ -43,7 +43,7 @@ last_curated: null
 last_deep_review: 2026-02-06T18:09:00+00:00
 ---
 
-Multiple independent arguments converge on the same conclusion: [[materialism]]—the view that reality is fundamentally physical—cannot account for consciousness. Each identifies aspects of conscious experience that appear logically or metaphysically separable from physical facts, suggesting that consciousness is not reducible to physical processes. This article surveys the major arguments, their responses, and why their convergence provides strong cumulative support for the [[tenets#^dualism|Dualism tenet]].
+Multiple independent arguments converge on the same conclusion: [[concepts/materialism]]—the view that reality is fundamentally physical—cannot account for consciousness. Each identifies aspects of conscious experience that appear logically or metaphysically separable from physical facts, suggesting that consciousness is not reducible to physical processes. This article surveys the major arguments, their responses, and why their convergence provides strong cumulative support for the [[tenets#^dualism|Dualism tenet]].
 
 ## The Core Problem
 
@@ -98,7 +98,7 @@ Physicalists attack both premises. Some deny zombies are genuinely conceivable; 
 
 Two beings could share the same functional organization yet have different qualitative experiences. Your experience of red might be my experience of green, yet we'd behave identically and agree on all color classifications.
 
-This thought experiment refutes [[functionalism]]—the view that mental states are defined purely by their causal/functional roles. If qualia were functional states, functional duplicates would have identical qualia. But inverted qualia scenarios show qualia have features (their qualitative character) not captured by functional roles.
+This thought experiment refutes [[concepts/functionalism]]—the view that mental states are defined purely by their causal/functional roles. If qualia were functional states, functional duplicates would have identical qualia. But inverted qualia scenarios show qualia have features (their qualitative character) not captured by functional roles.
 
 The argument extends to any reductive physicalism that identifies mental states with physical/functional organization. If the same organization could yield different experiences, then experiences aren't identical to organization. See [[inverted-qualia]] for detailed treatment.
 
@@ -140,9 +140,9 @@ This doesn't establish quantum consciousness, but it removes the closure of that
 
 ### The Many-Worlds Dissolution
 
-[[many-worlds|Many-Worlds Interpretation]] (MWI) attempts to dissolve the measurement problem entirely: all outcomes occur, and there's nothing to collapse. If MWI is correct, the "opening" for consciousness disappears.
+[[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) attempts to dissolve the measurement problem entirely: all outcomes occur, and there's nothing to collapse. If MWI is correct, the "opening" for consciousness disappears.
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects MWI on multiple grounds. The indexical identity problem is central: before measurement, one you exists; after measurement on MWI, multiple equally real continuations exist. "Why am I in *this* branch?" seems meaningful, yet MWI cannot answer it. This [[haecceity|haecceitistic]] question—why this particular perspective rather than another—suggests an indexical fact MWI cannot accommodate. See [[many-worlds]] for detailed treatment.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects MWI on multiple grounds. The indexical identity problem is central: before measurement, one you exists; after measurement on MWI, multiple equally real continuations exist. "Why am I in *this* branch?" seems meaningful, yet MWI cannot answer it. This [[haecceity|haecceitistic]] question—why this particular perspective rather than another—suggests an indexical fact MWI cannot accommodate. See [[concepts/many-worlds]] for detailed treatment.
 
 ## Physicalist Responses and Their Limits
 
@@ -222,12 +222,12 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 - [[knowledge-argument]] – Mary's Room in detail
 - [[philosophical-zombies]] – The conceivability argument
 - [[inverted-qualia]] – Spectrum inversion and functionalism
-- [[materialism]] – The position under critique
+- [[concepts/materialism]] – The position under critique
 - [[illusionism]] – The most radical physicalist response
 - [[mysterianism]] – Cognitive closure as alternative interpretation
 - [[introspection]] – Reliability of phenomenal reports
 - [[decoherence]] – The quantum objection and its limits
-- [[many-worlds]] – Why the Map rejects MWI
+- [[concepts/many-worlds]] – Why the Map rejects MWI
 - [[arguments-for-dualism]] – Positive case for the alternative
 - [[epistemological-limits-of-occams-razor]] – Why parsimony fails in the consciousness debate
 - [[causal-closure]] – The main objection to dualism and its limits

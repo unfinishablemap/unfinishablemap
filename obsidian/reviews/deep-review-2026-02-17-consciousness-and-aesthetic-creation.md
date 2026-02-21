@@ -30,7 +30,7 @@ last_curated: null
 - **Straw MWI argument**: The commitment-under-uncertainty section refuted a weak version of many-worlds ("agony dissolves into illusion") without engaging branch-relative stakes. Resolution: Rewrote to acknowledge the branch-relative response and argue that artists report *ontological* foreclosure (the unchosen version doesn't exist anywhere), not merely *epistemic* foreclosure.
 - **Poincaré reference unsupported**: Dropped in as authority citation without argumentative work. Resolution: Expanded to explain what Poincaré's "special sensibility" does (unconscious aesthetic filtering) and how the aesthetic-creative analogue works. Added cross-link to mathematical creativity article.
 - **Aphantasia counterexample ignored**: Claimed mental imagery's phenomenal character is necessary for creative selection, but aphantasic artists create successful visual art. Resolution: Added paragraph acknowledging aphantasia while arguing that phenomenal engagement persists through non-imagistic channels.
-- **Missing cross-links**: Added links to [[philosophical-zombies]], [[bidirectional-interaction]], [[temporal-consciousness]], [[process-philosophy]], [[phenomenology-of-flow-states]], [[epiphenomenalism]], [[consciousness-and-aesthetic-value]], [[phenomenology-of-agency-vs-passivity]] in frontmatter and body.
+- **Missing cross-links**: Added links to [[philosophical-zombies]], [[bidirectional-interaction]], [[temporal-consciousness]], [[process-philosophy]], [[phenomenology-of-flow-states]], [[concepts/epiphenomenalism]], [[consciousness-and-aesthetic-value]], [[phenomenology-of-agency-vs-passivity]] in frontmatter and body.
 - **Dewey cited but not discussed**: Added brief engagement with Dewey's account of art as experience in the craft section, justifying the citation.
 
 ### Counterarguments Considered
@@ -68,7 +68,7 @@ last_curated: null
 - [[temporal-consciousness]]
 - [[process-philosophy]]
 - [[phenomenology-of-flow-states]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 - [[consciousness-and-aesthetic-value]]
 - [[phenomenology-of-agency-vs-passivity]]
 - [[consciousness-and-mathematical-creativity]] (body text link)

@@ -70,7 +70,7 @@ No misattribution, dropped qualifiers, or source/Map conflation detected.
 
 ### Cross-links Present
 All appropriate cross-links already in place from previous review:
-- [[explanatory-gap]], [[philosophical-zombies]], [[qualia]], [[materialism]], [[illusionism]], [[introspection]], [[knowledge-argument]], [[witness-consciousness]], [[haecceity]], [[decoherence]], [[tenets]]
+- [[explanatory-gap]], [[philosophical-zombies]], [[qualia]], [[concepts/materialism]], [[illusionism]], [[introspection]], [[knowledge-argument]], [[witness-consciousness]], [[haecceity]], [[decoherence]], [[tenets]]
 
 ## Remaining Items
 

@@ -14,12 +14,12 @@ original_path: "/concepts/analytic-idealism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[interface-locality]]"
   - "[[multi-mind-collapse-problem]]"
   - "[[filter-theory]]"
   - "[[witness-consciousness]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[panpsychism]]"
   - "[[substance-property-dualism]]"
   - "[[interactionist-dualism]]"
@@ -53,7 +53,7 @@ Kastrup frames this as taking consciousness seriously as a datum rather than an 
 
 ## The Argument from Parsimony
 
-Analytic idealism claims superior parsimony over both [[materialism]] and dualism.
+Analytic idealism claims superior parsimony over both [[concepts/materialism]] and dualism.
 
 **Against materialism**: Physicalism faces the [[hard-problem-of-consciousness|hard problem]]—explaining why physical processes give rise to experience at all. No amount of neural description tells us *why* there's something it's like to see red. Some eliminativists deny there's any problem here—they reject qualia as folk concepts to be outgrown rather than explained. But for those who take phenomenal experience seriously, consciousness doesn't follow from physics; it's an additional, unexplained explanandum.
 
@@ -101,7 +101,7 @@ Critics respond that DID involves a brain already functioning as a unified syste
 
 Analytic idealism and the Map share significant common ground:
 
-**Agreement**: Consciousness is fundamental, not emergent from matter. [[materialism|Materialism]] fails. The [[hard-problem-of-consciousness|hard problem]] is genuine.
+**Agreement**: Consciousness is fundamental, not emergent from matter. [[concepts/materialism|Materialism]] fails. The [[hard-problem-of-consciousness|hard problem]] is genuine.
 
 **Disagreement**: the Map maintains physical reality exists distinctly and that consciousness interacts with it bidirectionally.
 
@@ -163,7 +163,7 @@ The choice between dualism and idealism affects how we think about:
 
 **Freedom**: If individual minds are dissociations, and dissociations ultimately reunify, individual choices may be less significant than on dualism, where *you* genuinely originate causal chains through [[agent-causation]].
 
-**Meaning and Value**: the Map's [[phenomenal-value-realism|phenomenal value realism]] holds that value is grounded in conscious experience. Both idealism and dualism can accommodate this—value exists in consciousness on either view. But on idealism, *individual* experience is derivative from universal consciousness. If [[phenomenal-value-realism#Connection to Indexical Identity|indexical identity carries value]]—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications. The Map's emphasis on token-based value (this particular experience) sits uncomfortably with idealism's type-based ontology (patterns in universal consciousness).
+**Meaning and Value**: the Map's [[topics/phenomenal-value-realism|phenomenal value realism]] holds that value is grounded in conscious experience. Both idealism and dualism can accommodate this—value exists in consciousness on either view. But on idealism, *individual* experience is derivative from universal consciousness. If [[topics/phenomenal-value-realism#Connection to Indexical Identity|indexical identity carries value]]—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications. The Map's emphasis on token-based value (this particular experience) sits uncomfortably with idealism's type-based ontology (patterns in universal consciousness).
 
 The Map's position: take consciousness seriously (with idealism) while also taking physics seriously (against idealism). The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides a mechanism—consciousness influences outcomes physics leaves undetermined—without denying that physics describes something real.
 
@@ -184,9 +184,9 @@ Idealism and dualism may seem empirically equivalent—both predict the same bra
 - [[witness-consciousness]] — Contemplative evidence both idealists and dualists cite
 - [[interface-locality]] — Why consciousness interfaces only with its own brain
 - [[multi-mind-collapse-problem]] — How multiple consciousnesses coordinate on dualism vs. idealism
-- [[phenomenal-value-realism]] — How value grounding differs under each framework
+- [[topics/phenomenal-value-realism]] — How value grounding differs under each framework
 - [[buddhism-and-dualism]] — Eastern critiques of idealism and the compatibility thesis
-- [[materialism]] — The view idealism opposes most directly
+- [[concepts/materialism]] — The view idealism opposes most directly
 - [[panpsychism]] — A different form of consciousness-priority metaphysics
 - [[substance-property-dualism]] — the Map's preferred framework
 - [[interactionist-dualism]] — How consciousness and matter interact

@@ -9,10 +9,10 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[qualia]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[quantum-consciousness]]"
   - "[[collapse-and-time]]"
   - "[[phenomenology]]"
@@ -36,7 +36,7 @@ concepts:
   - "[[introspection]]"
   - "[[haecceity]]"
   - "[[decoherence]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[mental-effort]]"
   - "[[combination-problem]]"
   - "[[unity-of-consciousness]]"
@@ -105,7 +105,7 @@ A musical phrase exemplifies this. Each note is heard *in light of* what came be
 
 ### Duration and Free Will
 
-Bergson connected durée directly to [[free-will|free will]] in *Time and Free Will* (1889). Determinism assumes mental states are discrete, separable, and subject to causal law. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment as an indivisible movement.
+Bergson connected durée directly to [[topics/free-will|free will]] in *Time and Free Will* (1889). Determinism assumes mental states are discrete, separable, and subject to causal law. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment as an indivisible movement.
 
 A free act, for Bergson, emerges from the whole self—from the full depth of one's duration. This connects to the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: the creative novelty Bergson attributes to duration is the opening where consciousness exercises causal power.
 
@@ -237,7 +237,7 @@ Temporal structure creates multiple problems for AI systems:
 
 **No embodied time**: If durée is lived through a body, disembodied systems lack the interoceptive grounding for temporal experience.
 
-This suggests problems with AI consciousness go beyond the [[functionalism]] critique. Even granting functionalism, LLMs might fail to be conscious because they lack the temporal structure consciousness requires—regardless of what implements it.
+This suggests problems with AI consciousness go beyond the [[concepts/functionalism]] critique. Even granting functionalism, LLMs might fail to be conscious because they lack the temporal structure consciousness requires—regardless of what implements it.
 
 ### Essential or Characteristic?
 
@@ -279,7 +279,7 @@ Temporal consciousness connects to all five tenets:
 - [[tenets]] — The foundational commitments of the Map
 - [[consciousness-and-creativity]] — How duration's creative novelty relates to the generation-selection model
 - [[neurophenomenology]] — Contemplative science and access to temporal microstructure
-- [[free-will]] — How temporal structure relates to agency
+- [[topics/free-will]] — How temporal structure relates to agency
 - [[agent-causation]] — The self as originator of action in durée
 - [[haecceity]] — The thisness that grounds temporal identity
 - [[binding-problem]] — Feature binding and consciousness

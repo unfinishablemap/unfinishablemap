@@ -6,7 +6,7 @@ human_modified: null
 ai_modified: 2026-01-16T22:30:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[quantum-consciousness]]"

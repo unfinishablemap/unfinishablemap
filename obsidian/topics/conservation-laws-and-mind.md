@@ -8,11 +8,11 @@ ai_modified: 2026-02-05T18:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[stapp-quantum-mind]]"
   - "[[bidirectional-interaction]]"
@@ -124,13 +124,13 @@ One might argue that whatever selects among quantum outcomes must interact with 
 
 *Response*: This objection has force, and the response must be honest about its limits. If consciousness biases quantum outcomes, it operates where physics leaves outcomes undetermined—at measurement. Detection requires identifying a systematic pattern that deviates from quantum mechanical predictions. If consciousness selects among outcomes in ways that are (1) rare, (2) small in magnitude, or (3) variable across individuals and contexts, the effect might fall below experimental sensitivity.
 
-This is not fully satisfying. A theory that predicts undetectable effects risks being unfalsifiable. The appropriate response is epistemic humility: the selection framework shows that mental causation is *compatible with* conservation laws, not that it is *proven by* them. The positive case for consciousness affecting brain states comes from philosophical arguments—the self-stultification of [[epiphenomenalism]], the [[explanatory-gap]], the cognitive differences between conscious and unconscious processing—not from physics.
+This is not fully satisfying. A theory that predicts undetectable effects risks being unfalsifiable. The appropriate response is epistemic humility: the selection framework shows that mental causation is *compatible with* conservation laws, not that it is *proven by* them. The positive case for consciousness affecting brain states comes from philosophical arguments—the self-stultification of [[concepts/epiphenomenalism]], the [[explanatory-gap]], the cognitive differences between conscious and unconscious processing—not from physics.
 
 ### "This Is Just God-of-the-Gaps Reasoning"
 
 Critics might see "consciousness selects at quantum indeterminacies" as inserting consciousness wherever physics is incomplete.
 
-*Response*: The proposal isn't that consciousness explains quantum mechanics. Rather, quantum indeterminacy provides a *location* where consciousness could act without contradicting physics. The positive case for consciousness acting there comes from the philosophical arguments for dualism and against [[epiphenomenalism]]—particularly the [[bidirectional-interaction|self-stultification argument]] that our very discussion of consciousness implies it's causally efficacious.
+*Response*: The proposal isn't that consciousness explains quantum mechanics. Rather, quantum indeterminacy provides a *location* where consciousness could act without contradicting physics. The positive case for consciousness acting there comes from the philosophical arguments for dualism and against [[concepts/epiphenomenalism]]—particularly the [[bidirectional-interaction|self-stultification argument]] that our very discussion of consciousness implies it's causally efficacious.
 
 ### "Decoherence Closes the Gap"
 
@@ -170,7 +170,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—
 
 This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [[explanatory-gap]], the [[knowledge-argument]], the self-stultification of epiphenomenalism, and the [[baseline-cognition|empirical evidence]] that consciousness enables cognitive functions the unconscious baseline cannot achieve.
 
-The selection framework also has implications for [[free-will]]. If consciousness can select among quantum-permitted neural outcomes, this provides a mechanism for agent causation that libertarians about free will require—a locus where mind genuinely determines what happens rather than merely accompanying physical processes.
+The selection framework also has implications for [[topics/free-will]]. If consciousness can select among quantum-permitted neural outcomes, this provides a mechanism for agent causation that libertarians about free will require—a locus where mind genuinely determines what happens rather than merely accompanying physical processes.
 
 ## Further Reading
 

@@ -15,8 +15,8 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
-  - "[[functionalism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/functionalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[global-workspace-theory]]"
   - "[[heterophenomenology]]"
   - "[[decoherence]]"
@@ -74,7 +74,7 @@ The independence thesis underlies much AI optimism: if intelligence is just info
 
 On this view, genuine intelligence—as opposed to mere behavioural mimicry—requires consciousness. Several arguments support this:
 
-**The understanding argument**: John Searle's [[functionalism#The Chinese Room|Chinese Room]] suggests that processing symbols according to rules doesn't constitute understanding. The room operator manipulates Chinese characters without understanding Chinese. Understanding requires something more than correct input-output behaviour—perhaps the presence of conscious comprehension.
+**The understanding argument**: John Searle's [[concepts/functionalism#The Chinese Room|Chinese Room]] suggests that processing symbols according to rules doesn't constitute understanding. The room operator manipulates Chinese characters without understanding Chinese. Understanding requires something more than correct input-output behaviour—perhaps the presence of conscious comprehension.
 
 **The flexibility argument**: Human intelligence involves flexible, context-sensitive responses to genuinely novel situations. This flexibility may require [[consciousness-as-amplifier|conscious access]]—the capacity to bring information into awareness for deliberate manipulation. Unconscious processing, however sophisticated, remains domain-bound and stimulus-driven.
 
@@ -128,9 +128,9 @@ If the Map is right, the path to human-level AI runs through consciousness. Not 
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious because it evolved. Evolution selects for traits that improve survival; if consciousness has no effects, it couldn't be selected. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [[epiphenomenalism]].
+William James argued in 1890 that consciousness must be causally efficacious because it evolved. Evolution selects for traits that improve survival; if consciousness has no effects, it couldn't be selected. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [[concepts/epiphenomenalism]].
 
-The amplification hypothesis strengthens this argument. If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert—then:
+The amplification hypothesis strengthens this argument. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—then:
 
 1. Human-level intelligence should be achievable through neural complexity alone.
 2. Great apes should show no systematic gap in consciousness-requiring capacities.
@@ -171,8 +171,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against di
 - [[baseline-cognition]] — What neurons achieve without conscious contribution
 - [[machine-consciousness]] — Whether artificial systems can be conscious
 - [[ai-consciousness]] — Consciousness and AI prospects
-- [[functionalism]] — The view that mental states are functional states
-- [[epiphenomenalism]] — The view that consciousness is causally inert
+- [[concepts/functionalism]] — The view that mental states are functional states
+- [[concepts/epiphenomenalism]] — The view that consciousness is causally inert
 - [[global-workspace-theory]] — Access consciousness as information broadcast
 - [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation
 - [[tenets]] — The Map's foundational commitments

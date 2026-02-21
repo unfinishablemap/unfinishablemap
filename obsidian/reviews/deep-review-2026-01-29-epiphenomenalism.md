@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-29
-**Article**: [[epiphenomenalism|Epiphenomenalism]]
+**Article**: [[concepts/epiphenomenalism|Epiphenomenalism]]
 **Previous review**: [[deep-review-2026-01-28-epiphenomenalism|2026-01-28]]
 **Cross-review context**: consciousness-and-intelligence.md
 

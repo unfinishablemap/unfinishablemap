@@ -7,12 +7,12 @@ ai_modified: 2026-01-16T13:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[measurement-problem]]"
   - "[[retrocausality]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
 related_articles:
   - "[[tenets]]"
   - "[[collapse-and-time]]"
@@ -25,7 +25,7 @@ last_curated: null
 
 ## Executive Summary
 
-The Unfinishable Map explicitly rejects [[many-worlds|Many-Worlds Interpretation]] (MWI) but should engage more thoroughly with alternative QM interpretations. This research surveys Bohmian mechanics, QBism, relational QM, transactional/TSVF interpretations, and objective collapse theories (GRW/CSL)—clarifying which leave room for consciousness-as-selector, which treat collapse as physical law, and which treat it as epistemic.
+The Unfinishable Map explicitly rejects [[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) but should engage more thoroughly with alternative QM interpretations. This research surveys Bohmian mechanics, QBism, relational QM, transactional/TSVF interpretations, and objective collapse theories (GRW/CSL)—clarifying which leave room for consciousness-as-selector, which treat collapse as physical law, and which treat it as epistemic.
 
 A 2025 Nature survey found that only 36% of physicists favor Copenhagen, with no interpretation commanding majority support. The interpretive landscape remains genuinely open.
 

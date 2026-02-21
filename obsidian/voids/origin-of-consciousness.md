@@ -149,7 +149,7 @@ The origin void connects directly to the Map's [[tenets|foundational commitments
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** matters for indexical reasons. The origin question is asked by *this* consciousness, here, now. Many-worlds doesn't dissolve the question—it remains puzzling why consciousness exists in any branch—but it does proliferate instances without explaining their existence. The rejection of many-worlds keeps focus on singular existence rather than endless multiplication.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** makes consciousness causally efficacious—it does something. This gives consciousness a functional role, making its existence less arbitrary than pure [[epiphenomenalism]] would allow. But causal efficacy deepens rather than resolves the origin question: why does causally efficacious consciousness exist rather than none?
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** makes consciousness causally efficacious—it does something. This gives consciousness a functional role, making its existence less arbitrary than pure [[concepts/epiphenomenalism]] would allow. But causal efficacy deepens rather than resolves the origin question: why does causally efficacious consciousness exist rather than none?
 
 The origin void exemplifies the Map's method: taking consciousness seriously leads to voids that resist current conceptual resources. This is not failure but [[limits-reveal-structure|revelation]]—the shape of the difficulty tells us something about what consciousness must be to so persistently resist origin-explanation.
 

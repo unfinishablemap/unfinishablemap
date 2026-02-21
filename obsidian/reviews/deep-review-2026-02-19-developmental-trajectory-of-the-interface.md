@@ -30,9 +30,9 @@ last_curated: null
 ### Medium Issues Found
 - **"Inexplicable" too strong**: Terminal lucidity described as "inexplicable" under identity theory. Resolution: Changed to "difficult to explain" and acknowledged materialist proposals (transient neurotransmitter release, neuroinflammation reduction).
 - **No engagement with identity-theory parity**: The strongest materialist objection — that all observations are equally predicted by identity theory — was unaddressed. Resolution: Added "A note on explanatory parity" paragraph in Implications section, acknowledging the developmental trajectory doesn't discriminate between models but generates distinctive framings.
-- **"Quantum selection sites" undefined**: Used without definition or link. Resolution: Added inline definition and wikilink to [[consciousness-selecting-neural-patterns]].
+- **"Quantum selection sites" undefined**: Used without definition or link. Resolution: Added inline definition and wikilink to [[concepts/consciousness-selecting-neural-patterns]].
 - **"Same consciousness" asserted without argument**: Claim that it is the "same irreducible subject" across the lifespan was presented as observation. Resolution: Framed as "On the Map's dualist framework" and acknowledged that an identity theorist would read the evidence differently.
-- **Missing cross-links**: Dopaminergic signalling and other terms lacked wikilinks. Resolution: Added links to [[dopamine-and-the-unified-interface]], [[neuroplasticity]], [[contemplative-neuroscience]], [[consciousness-selecting-neural-patterns]].
+- **Missing cross-links**: Dopaminergic signalling and other terms lacked wikilinks. Resolution: Added links to [[dopamine-and-the-unified-interface]], [[neuroplasticity]], [[contemplative-neuroscience]], [[concepts/consciousness-selecting-neural-patterns]].
 - **HAROLD bilateral recruitment lacked nuance**: Map's speculative interpretation presented as equally plausible to mainstream compensatory account. Resolution: Explicitly noted Cabeza (2002) and mainstream compensatory interpretation before presenting the Map's additional possibility.
 
 ### Counterarguments Considered
@@ -58,7 +58,7 @@ last_curated: null
 - Added explanatory parity acknowledgment strengthening intellectual honesty
 
 ### Cross-links Added
-- [[consciousness-selecting-neural-patterns]] (quantum selection sites)
+- [[concepts/consciousness-selecting-neural-patterns]] (quantum selection sites)
 - [[dopamine-and-the-unified-interface]] (dopaminergic signalling)
 - [[neuroplasticity]] (explore-exploit)
 - [[contemplative-neuroscience]] (partial reversal of narrowing)

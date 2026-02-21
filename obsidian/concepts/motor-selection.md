@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-15T11:08:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[stapp-quantum-mind]]"
@@ -228,7 +228,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [[phenomenology-of-choice]] — The experiential structure of choosing
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments
 - [[decoherence]] — The decoherence challenge and responses
-- [[free-will]] — The topic page on free will and determinism
+- [[topics/free-will]] — The topic page on free will and determinism
 
 ## References
 

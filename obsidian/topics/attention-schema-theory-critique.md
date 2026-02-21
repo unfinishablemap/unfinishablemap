@@ -18,8 +18,8 @@ concepts:
   - "[[qualia]]"
   - "[[mental-effort]]"
   - "[[witness-consciousness]]"
-  - "[[functionalism]]"
-  - "[[materialism]]"
+  - "[[concepts/functionalism]]"
+  - "[[concepts/materialism]]"
 related_articles:
   - "[[tenets]]"
   - "[[structure-of-attention]]"

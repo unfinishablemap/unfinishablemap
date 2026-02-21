@@ -14,7 +14,7 @@ archive_reason: "Coalesced into The Phenomenology of Skill, Habit, and the Lived
 original_path: "/topics/phenomenology-of-habit-and-skill-acquisition/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[implicit-memory]]"
@@ -76,7 +76,7 @@ The withdrawal of consciousness from skilled performance is not passive. Conscio
 
 The Map interprets this transition as evidence for several of its core commitments.
 
-**Consciousness as causal architect.** If consciousness were [[epiphenomenalism|epiphenomenal]]—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. The novice's conscious rule-following produces lasting changes in neural organisation. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition. The causal efficacy of consciousness during learning is difficult to deny: attention shapes what gets encoded, effort determines the quality of encoding, and conscious correction prevents the consolidation of errors.
+**Consciousness as causal architect.** If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. The novice's conscious rule-following produces lasting changes in neural organisation. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition. The causal efficacy of consciousness during learning is difficult to deny: attention shapes what gets encoded, effort determines the quality of encoding, and conscious correction prevents the consolidation of errors.
 
 **The interface model.** Skill acquisition illustrates the Map's model of consciousness as an [[attention-as-interface|interface]] between the non-physical and the physical. During early learning, the interface is heavily engaged—consciousness actively selects among neural possibilities, biasing outcomes toward correct execution. As skill develops, the interface gradually withdraws from direct control, having configured the system to produce appropriate outputs autonomously. This is consistent with the [[tenets#^minimal-quantum-interaction|minimal interaction tenet]]: consciousness intervenes where intervention is needed and withdraws when the physical system can manage independently.
 

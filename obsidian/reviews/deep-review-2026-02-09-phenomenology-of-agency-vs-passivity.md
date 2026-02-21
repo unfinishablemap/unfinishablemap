@@ -67,7 +67,7 @@ last_curated:
 - [[conscious-vs-unconscious-processing]] (in habitual action section and concepts)
 - [[choking-phenomenon-mental-causation]] (added to related_articles)
 - [[meditation-and-consciousness-modes]] (in anti-illusionism argument)
-- [[illusionism]] and [[epiphenomenalism]] (added to concepts)
+- [[illusionism]] and [[concepts/epiphenomenalism]] (added to concepts)
 
 ## Remaining Items
 

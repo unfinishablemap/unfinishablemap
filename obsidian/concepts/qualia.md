@@ -15,7 +15,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[minimal-consciousness]]"
   - "[[existentialism]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[philosophical-zombies]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[illusionism]]"
@@ -35,8 +35,8 @@ concepts:
   - "[[pre-conceptual-knowing]]"
 related_articles:
   - "[[tenets]]"
-  - "[[materialism]]"
-  - "[[functionalism]]"
+  - "[[concepts/materialism]]"
+  - "[[concepts/functionalism]]"
   - "[[emotional-consciousness]]"
 ai_contribution: 100
 author:
@@ -126,7 +126,7 @@ A [[philosophical-zombies|philosophical zombie]] is physically identical to you 
 
 Qualia present a fundamental challenge to materialist views of consciousness. If qualia are intrinsic, private, and ineffable, they resist the standard moves that physicalism makes for other phenomena.
 
-The [[materialism|materialist]] faces a dilemma:
+The [[concepts/materialism|materialist]] faces a dilemma:
 - **Deny qualia exist**: Eliminativism claims there are no qualia—our introspective reports are systematically mistaken. But this seems to deny the obvious: the redness is right there, being experienced.
 - **Reduce qualia to physical properties**: But how? Identifying a quale with a brain state leaves unexplained why that state has any experiential character at all.
 - **Accept qualia as emerging from complexity**: But mere complexity doesn't explain why there's something it's like. A billion neurons interacting is still just neurons interacting—where does the felt quality come from?
@@ -143,9 +143,9 @@ Galen Strawson called illusionism "the silliest claim ever made" in philosophy. 
 
 ## The Functionalist Challenge
 
-[[functionalism|Functionalism]] defines mental states by their causal roles. Pain is whatever state is caused by tissue damage and causes avoidance behaviour. This explains multiple realizability and makes consciousness scientifically tractable.
+[[concepts/functionalism|Functionalism]] defines mental states by their causal roles. Pain is whatever state is caused by tissue damage and causes avoidance behaviour. This explains multiple realizability and makes consciousness scientifically tractable.
 
-But functionalism struggles with inverted qualia: if two beings can be functionally identical yet have different qualitative experiences, qualia are not captured by functional role. Block's "absent qualia" objection sharpens the point: imagine China's population organized to replicate a brain's functional organization, each person playing a neuron's role. Would there be something it's like to be China? The intuition that there would not—that the system would lack inner life—suggests consciousness requires more than functional structure. See [[functionalism]] for detailed treatment.
+But functionalism struggles with inverted qualia: if two beings can be functionally identical yet have different qualitative experiences, qualia are not captured by functional role. Block's "absent qualia" objection sharpens the point: imagine China's population organized to replicate a brain's functional organization, each person playing a neuron's role. Would there be something it's like to be China? The intuition that there would not—that the system would lack inner life—suggests consciousness requires more than functional structure. See [[concepts/functionalism]] for detailed treatment.
 
 ## The Phenomenal Concepts Strategy
 
@@ -209,7 +209,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[philosophical-zombies]] - Why conceivability of absent qualia challenges physicalism
 
 **Physicalist responses:**
-- [[functionalism]] - Mental states as functional roles
+- [[concepts/functionalism]] - Mental states as functional roles
 - [[phenomenal-concepts-strategy]] - Locating the gap in concepts
 - [[illusionism]] - The radical denial of phenomenal properties
 

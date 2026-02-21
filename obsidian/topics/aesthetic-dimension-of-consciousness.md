@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[emotional-consciousness]]"
   - "[[illusionism]]"
   - "[[introspection]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[phenomenal-unity]]"
   - "[[inverted-qualia]]"
   - "[[phenomenal-binding-and-holism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[explanatory-gap]]"
   - "[[the-case-for-dualism]]"
   - "[[phenomenal-consciousness]]"
@@ -137,7 +137,7 @@ In aesthetic experience, these are inseparable. The specific quality of beauty i
 
 This entanglement matters because physicalist strategies for handling qualia and physicalist strategies for handling normativity are different—and potentially incompatible. Qualia are typically approached through identity theory or functionalism: the phenomenal character *is* a neural or functional state. Normativity is typically approached through evolutionary debunking or constructivism: values are projections, not discoveries. But in aesthetic experience, the qualitative character and the normative force are the same thing. A theory that identifies qualia with neural states while debunking normativity must explain how the same phenomenon can be simultaneously constituted by neural activity (as qualitative character) and illusory (as normative force). The strategies pull in opposite directions.
 
-[[phenomenal-value-realism|Phenomenal value realism]] takes the entanglement seriously: aesthetic normativity is intrinsic to phenomenal character, not projected onto it. If correct, aesthetic experience reveals that consciousness is inherently value-laden, not value-neutral. Physical description is value-neutral by construction. A value-laden phenomenon that is intrinsically qualitative cannot be identical to a value-neutral substrate.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] takes the entanglement seriously: aesthetic normativity is intrinsic to phenomenal character, not projected onto it. If correct, aesthetic experience reveals that consciousness is inherently value-laden, not value-neutral. Physical description is value-neutral by construction. A value-laden phenomenon that is intrinsically qualitative cannot be identical to a value-neutral substrate.
 
 ### Gestalt Dependence
 
@@ -177,7 +177,7 @@ The Buddhist concept of *samvega*—aesthetic shock at impermanence—and Indian
 
 ## The Asymmetry Between Aesthetic and Moral Value
 
-Both aesthetic and moral value depend on consciousness, but differently. Moral value, as [[phenomenal-value-realism]] argues, is intrinsic to certain conscious states—suffering is bad *in itself*. Aesthetic value is relational, arising between subject and object. Remove the suffering and the moral badness vanishes. Remove the sunset and *this particular* beauty vanishes, though the subject's capacity for beauty remains. Remove the subject and all beauty vanishes, though the sunset's physical properties remain.
+Both aesthetic and moral value depend on consciousness, but differently. Moral value, as [[topics/phenomenal-value-realism]] argues, is intrinsic to certain conscious states—suffering is bad *in itself*. Aesthetic value is relational, arising between subject and object. Remove the suffering and the moral badness vanishes. Remove the sunset and *this particular* beauty vanishes, though the subject's capacity for beauty remains. Remove the subject and all beauty vanishes, though the sunset's physical properties remain.
 
 This asymmetry matters. Moral value reveals that consciousness has intrinsic axiological properties. Aesthetic value reveals that consciousness has axiological *capacities*—the ability to constitute value through encounter with the world. Together they suggest that consciousness is the condition for value's existence in reality, both the kind that inheres in experience itself and the kind that emerges from experience's engagement with what lies beyond it.
 
@@ -203,7 +203,7 @@ The aesthetic dimension of consciousness supports the Map's [[tenets|foundationa
 
 **[[tenets#^dualism|Dualism]]**: Aesthetic for-ness reveals a structural feature of consciousness—evaluative receptivity—that physical description cannot capture. Physics describes what exists; aesthetic consciousness discloses what *matters*. The convergence of qualitative, normative, holistic, temporal, and meaning-laden features in aesthetic experience provides the strongest single case that consciousness exceeds physical description. Each feature independently troubles physicalism; their inseparable fusion in a single phenomenon makes the trouble compounding rather than merely additive. The aesthetic knowledge argument, conceivability, the normative-qualitative entanglement, and the normative gap each provide independent lines of evidence that compound the standard difficulties for physicalism.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Aesthetic value motivates action. We preserve beautiful landscapes, create beautiful objects, arrange our environments for aesthetic quality. Artists reshape matter in response to aesthetic value that exists only because consciousness encounters matter aesthetically. If aesthetic experience were [[epiphenomenalism|epiphenomenal]], the systematic relationship between what we find beautiful and how we act would be an extraordinary coincidence. The causal efficacy of beauty—particularly in cases where aesthetic judgment overrides functional considerations—provides evidence that consciousness does work in the world. (The [[consciousness-and-aesthetic-creation|aesthetic creation]] article examines this in detail.)
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Aesthetic value motivates action. We preserve beautiful landscapes, create beautiful objects, arrange our environments for aesthetic quality. Artists reshape matter in response to aesthetic value that exists only because consciousness encounters matter aesthetically. If aesthetic experience were [[concepts/epiphenomenalism|epiphenomenal]], the systematic relationship between what we find beautiful and how we act would be an extraordinary coincidence. The causal efficacy of beauty—particularly in cases where aesthetic judgment overrides functional considerations—provides evidence that consciousness does work in the world. (The [[consciousness-and-aesthetic-creation|aesthetic creation]] article examines this in detail.)
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Beauty's capacity to command sustained, focused attention—the normative "pull"—is precisely the kind of attentional concentration that models like [[stapp-quantum-mind|Stapp's quantum mind theory]] require for consciousness to influence neural outcomes. The connection remains speculative, and the Map's phenomenological arguments stand independently.
 
@@ -216,7 +216,7 @@ The aesthetic dimension of consciousness supports the Map's [[tenets|foundationa
 - [[consciousness-and-aesthetic-creation]] — Making art as evidence for bidirectional interaction
 - [[binding-and-beauty]] — The aesthetic unity problem as a harder form of phenomenal binding
 - [[aesthetic-void]] — Where articulation fails at beauty and sublimity
-- [[phenomenal-value-realism]] — Value as intrinsic to experience
+- [[topics/phenomenal-value-realism]] — Value as intrinsic to experience
 - [[phenomenology-of-moral-experience]] — Parallel analysis for moral value
 - [[the-case-for-dualism]] — The standard philosophical case, which aesthetic evidence supplements
 - [[knowledge-argument]] — Mary's Room and what physical information leaves out

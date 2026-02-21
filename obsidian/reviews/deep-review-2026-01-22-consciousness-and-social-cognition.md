@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-22
-**Article**: [[consciousness-and-social-cognition|Consciousness and Social Cognition]]
+**Article**: [[topics/consciousness-and-social-cognition|Consciousness and Social Cognition]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

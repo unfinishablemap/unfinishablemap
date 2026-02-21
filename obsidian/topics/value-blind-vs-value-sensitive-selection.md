@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-19T10:36:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[ethics-of-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -18,8 +18,8 @@ concepts:
   - "[[agent-teleology]]"
   - "[[attention-as-interface]]"
   - "[[psychophysical-coupling]]"
-  - "[[epiphenomenalism]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[concepts/epiphenomenalism]]"
+  - "[[topics/phenomenal-value-realism]]"
 related_articles:
   - "[[tenets]]"
   - "[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]"
@@ -42,7 +42,7 @@ The fork arises from the intersection of three commitments, each well-developed 
 
 **Selection exists.** The [[selection-laws]] framework specifies that consciousness selects among quantum-mechanically underdetermined neural outcomes. [[Control-theoretic-will|Control-theoretic will]] formalises this: consciousness is a low-bandwidth controller (~10 bits/second) that gates, stabilises, vetoes, and steers neural dynamics.
 
-**Value is phenomenal.** The [[consciousness-value-connection]] holds that value requires consciousness. [[Phenomenal-value-realism|Phenomenal value realism]] goes further: some phenomenal properties just *are* value properties. The felt badness of pain constitutes badness; it is not a representation of badness.
+**Value is phenomenal.** The [[consciousness-value-connection]] holds that value requires consciousness. [[topics/phenomenal-value-realism|Phenomenal value realism]] goes further: some phenomenal properties just *are* value properties. The felt badness of pain constitutes badness; it is not a representation of badness.
 
 **Valence is listed as a candidate mental variable.** The [[selection-laws#What Selection Laws Must Specify|selection laws article]] lists valence alongside attention, intention, and effort as candidates for the mental side of the selection law. But it also notes that valence "lacks a developed mechanism specifying how the mental variable connects to physical selection." This is precisely the gap the fork exposes.
 
@@ -60,7 +60,7 @@ Stapp's quantum Zeno model illustrates this cleanly. Attention increases the obs
 
 ### The Problem: Value Becomes Epiphenomenal to Selection
 
-If valence is real and causally inert in selection, the Map faces an internal tension. It holds that consciousness does genuine causal work ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]) and that value is phenomenal ([[phenomenal-value-realism]]). But if the causal work is done by attention—a value-neutral pointer—while value sits in the feedback channel doing no selective work, then the *value* dimension of consciousness is along for the ride.
+If valence is real and causally inert in selection, the Map faces an internal tension. It holds that consciousness does genuine causal work ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]) and that value is phenomenal ([[topics/phenomenal-value-realism]]). But if the causal work is done by attention—a value-neutral pointer—while value sits in the feedback channel doing no selective work, then the *value* dimension of consciousness is along for the ride.
 
 This is not full epiphenomenalism. Consciousness remains causally efficacious through attention. But the specifically *evaluative* dimension of consciousness—the dimension the Map claims grounds all value—becomes causally idle in the one mechanism the Map assigns to consciousness. The Map would be saying: consciousness matters because it acts, and value matters because it is felt, but value doesn't matter *in the way consciousness acts*.
 
@@ -87,7 +87,7 @@ This connects to the control-theoretic framing. In [[control-theoretic-will]], t
 
 ### Value-Sensitive Selection and Phenomenal Value Realism
 
-The value-sensitive horn strengthens [[phenomenal-value-realism]] considerably. If valence not only constitutes value (a metaphysical claim) but also participates in selection (a causal claim), then value is doubly non-epiphenomenal: it is real as experienced *and* efficacious as selector. The consciousness-value connection becomes not just that consciousness is necessary for value to exist, but that value is necessary for consciousness to function as it does. Selection without valence would be directionless; valence provides the criterion that makes selection purposive rather than arbitrary.
+The value-sensitive horn strengthens [[topics/phenomenal-value-realism]] considerably. If valence not only constitutes value (a metaphysical claim) but also participates in selection (a causal claim), then value is doubly non-epiphenomenal: it is real as experienced *and* efficacious as selector. The consciousness-value connection becomes not just that consciousness is necessary for value to exist, but that value is necessary for consciousness to function as it does. Selection without valence would be directionless; valence provides the criterion that makes selection purposive rather than arbitrary.
 
 ### The Problem: Local Teleological Physics
 
@@ -148,9 +148,9 @@ The Map should eventually take a position on this fork. The graduated middle pat
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
 - [[control-theoretic-will]] — Will as a low-bandwidth control signal
 - [[agent-teleology]] — Genuine purpose through conscious causation
-- [[phenomenal-value-realism]] — Values grounded in phenomenal properties
+- [[topics/phenomenal-value-realism]] — Values grounded in phenomenal properties
 - [[psychophysical-coupling]] — Candidate mechanisms for mind-brain interaction
-- [[epiphenomenalism]] — The view this fork partially threatens to resurrect
+- [[concepts/epiphenomenalism]] — The view this fork partially threatens to resurrect
 - [[attention-as-interface]] — The interface through which consciousness acts
 
 ## References

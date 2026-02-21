@@ -68,7 +68,7 @@ last_curated: null
 - [[introspection]]
 - [[witness-consciousness]]
 - [[haecceity]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 - [[philosophical-zombies]]
 - [[continual-learning-argument]]
 - [[mental-effort]]

@@ -73,7 +73,7 @@ last_curated: null
 
 ### Cross-links Added
 
-- [[free-will]] — New section on implications for libertarian free will
+- [[topics/free-will]] — New section on implications for libertarian free will
 - [[introspection]] — Connected to experiencing vs experiencing that you experience
 
 ## Remaining Items

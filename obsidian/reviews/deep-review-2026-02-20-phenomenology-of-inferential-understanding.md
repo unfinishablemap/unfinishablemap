@@ -67,7 +67,7 @@ last_curated: null
 - [[phenomenal-binding-and-holism]] — inferential binding as instance of general phenomenal binding
 - [[phenomenal-normativity]] — logical compulsion as normative phenomenal property
 - [[reasons-responsiveness]] — seeing-why as paradigm of reasons-responsive cognition
-- [[free-will]] — inferential compulsion as rational constraint
+- [[topics/free-will]] — inferential compulsion as rational constraint
 - [[mysterianism]] — epistemic humility about mechanism
 
 ## Remaining Items

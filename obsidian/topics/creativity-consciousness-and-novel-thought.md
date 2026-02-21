@@ -8,13 +8,13 @@ ai_modified: 2026-02-05T13:04:00+00:00
 last_deep_review: 2026-02-05T06:02:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[animal-consciousness]]"
 concepts:
   - "[[consciousness-and-creativity]]"
   - "[[attention-as-interface]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[baseline-cognition]]"
   - "[[conscious-vs-unconscious-processing]]"
   - "[[working-memory]]"
@@ -84,7 +84,7 @@ Creative generation requires initiating action from internal states alone—imag
 
 ## The Selection Mechanism: Quantum Zeno
 
-The [[consciousness-selecting-neural-patterns|quantum selection framework]] provides a candidate mechanism for how consciousness selects among creative possibilities. Through the quantum Zeno effect, rapid repeated observation holds quantum states from decohering, effectively "freezing" certain outcomes in place. Whether quantum coherence persists long enough at neural scales remains debated—critics cite rapid decoherence, while proponents point to biological systems that maintain coherence (see [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]). If the mechanism operates, it would work as follows:
+The [[concepts/consciousness-selecting-neural-patterns|quantum selection framework]] provides a candidate mechanism for how consciousness selects among creative possibilities. Through the quantum Zeno effect, rapid repeated observation holds quantum states from decohering, effectively "freezing" certain outcomes in place. Whether quantum coherence persists long enough at neural scales remains debated—critics cite rapid decoherence, while proponents point to biological systems that maintain coherence (see [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]). If the mechanism operates, it would work as follows:
 
 1. The brain presents quantum-superposed possibilities—multiple neural firing patterns exist in superposition
 2. Conscious attention constitutes rapid observation of these patterns
@@ -306,7 +306,7 @@ Current evidence doesn't support any of these conditions.
 
 - [[consciousness-and-creativity]] — The generation-selection synthesis in conceptual overview
 - [[attention-as-interface]] — Attention's role as the interface between consciousness and matter
-- [[consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
+- [[concepts/consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
 - [[baseline-cognition]] — What cognition achieves without consciousness
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
 - [[metarepresentation]] — The capacity to represent representations
@@ -318,7 +318,7 @@ Current evidence doesn't support any of these conditions.
 - [[agent-causation]] — Philosophical framework for mental causation including creative generation
 - [[mental-effort]] — The phenomenology of effort and its neural correlates
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR
-- [[free-will]] — How creative agency connects to libertarian free will
+- [[topics/free-will]] — How creative agency connects to libertarian free will
 - [[creativity-void]] — Why the creative source remains phenomenologically hidden
 
 ## References

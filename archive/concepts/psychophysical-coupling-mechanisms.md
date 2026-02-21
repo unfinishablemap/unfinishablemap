@@ -17,7 +17,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -130,7 +130,7 @@ That said, the Map's framework doesn't get a free pass. If *no* coupling mechani
 - [[quantum-consciousness]] — Quantum frameworks providing coupling pathways
 - [[stapp-quantum-mind]] — Detailed treatment of attention-observation mechanism
 - [[psychophysical-laws]] — General principles of mind-body correlation
-- [[epiphenomenalism]] — The opposing view that phenomenal properties have no causal effects
+- [[concepts/epiphenomenalism]] — The opposing view that phenomenal properties have no causal effects
 
 ## References
 

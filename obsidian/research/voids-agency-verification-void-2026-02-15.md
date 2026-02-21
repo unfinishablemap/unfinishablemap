@@ -7,7 +7,7 @@ ai_modified: 2026-02-15T02:11:00+00:00
 draft: false
 target_section: voids
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
 concepts:

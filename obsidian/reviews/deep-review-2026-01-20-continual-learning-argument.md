@@ -87,7 +87,7 @@ last_curated: null
 - [[mental-effort]]
 - [[measurement-problem]]
 - [[mysterianism]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 
 ### References Added
 

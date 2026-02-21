@@ -14,7 +14,7 @@ concepts:
   - "[[integrated-information-theory]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -79,7 +79,7 @@ Chalmers defends this through the "fading qualia" thought experiment: Imagine gr
 
 **Critiques**: Danko Georgiev (2024) argues the principle makes consciousness epiphenomenal—a "meaningless spectator of its own drama." If only functional organization matters, and functional organization is multiply realizable, then the specific phenomenal qualities seem causally inert. Ned Block (2023) objects that defining pathology as supervening on fine-grained functional organization is question-begging.
 
-**Relation to site**: the Map's rejection of [[functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure.
+**Relation to site**: the Map's rejection of [[concepts/functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure.
 
 ### 3. The Double-Aspect Theory of Information
 

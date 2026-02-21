@@ -10,7 +10,7 @@ topics:
 concepts:
   - "[[quantum-consciousness]]"
   - "[[measurement-problem]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[locality]]"
 related_articles:
   - "[[tenets]]"

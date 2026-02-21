@@ -70,7 +70,7 @@ Applied six sympathetic personas: Property Dualist, Quantum Mind Theorist, Pheno
 Frontmatter concepts:
 - [[illusionism]]
 - [[mysterianism]]
-- [[free-will]]
+- [[topics/free-will]]
 - [[agent-causation]]
 - [[explanatory-gap]]
 - [[prebiotic-collapse]]
@@ -80,7 +80,7 @@ Related articles:
 
 Further Reading additions:
 - [[prebiotic-collapse]]
-- [[free-will]]
+- [[topics/free-will]]
 - [[illusionism]]
 - [[mysterianism]]
 - [[argument-from-reason]]

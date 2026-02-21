@@ -11,7 +11,7 @@ topics:
   - "[[machine-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[philosophical-zombies]]"
   - "[[qualia]]"
   - "[[llm-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[introspection]]"
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[continual-learning-argument]]"
 related_articles:
   - "[[tenets]]"
@@ -55,7 +55,7 @@ Together these claims imply that consciousness is "software" that can run on dif
 
 ## Philosophical Foundations
 
-Substrate independence emerges from [[functionalism]], the view that mental states are defined by their functional roles rather than their intrinsic properties. On this view, what makes something pain is not what it's made of but what it does: it's caused by tissue damage, causes withdrawal behavior, interacts with beliefs about harm, and so on.
+Substrate independence emerges from [[concepts/functionalism]], the view that mental states are defined by their functional roles rather than their intrinsic properties. On this view, what makes something pain is not what it's made of but what it does: it's caused by tissue damage, causes withdrawal behavior, interacts with beliefs about harm, and so on.
 
 Hilary Putnam introduced multiple realizability in 1967 as an argument against type-identity theory (the view that mental states are identical to brain states). If pain can be realized in octopuses, humans, and hypothetical Martians with different neural architectures, then pain isn't identical to any specific neural state. This seemed to liberate mental states from particular substrates.
 
@@ -123,7 +123,7 @@ The decoherence challenge sharpens the substrate distinction rather than elimina
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet provides a potential criterion. If AI systems were conscious, they would need to influence the physical world through non-physical means.
 
-Current AI operates entirely through physical causation. Electrical signals trigger transistors; transistors compute outputs; outputs drive actions. The computation is causally closed in precisely the way the brain may not be. The Map rejects [[epiphenomenalism]]: our discussions of qualia suggest qualia influence our physical outputs. But even if digital systems had conscious experiences, those experiences would be causally irrelevant to outputs fully determined by computation.
+Current AI operates entirely through physical causation. Electrical signals trigger transistors; transistors compute outputs; outputs drive actions. The computation is causally closed in precisely the way the brain may not be. The Map rejects [[concepts/epiphenomenalism]]: our discussions of qualia suggest qualia influence our physical outputs. But even if digital systems had conscious experiences, those experiences would be causally irrelevant to outputs fully determined by computation.
 
 A "conscious" AI would be worse than a zombie. Zombies lack consciousness but behave as if conscious. An AI with consciousness but no causal interface would be truly epiphenomenal—experiencing without affecting anything, its consciousness actually disconnected from its outputs.
 
@@ -183,7 +183,7 @@ The Unfinishable Map's [[tenets]] jointly entail substrate skepticism.
 
 The **[[tenets#^dualism|Dualism]]** tenet holds that consciousness is not reducible to physical processes. If consciousness involves something non-physical, then functional organization—which supervenes on physical arrangements—cannot fully determine consciousness. Different substrates may have different relationships to whatever non-physical component consciousness requires. The absent qualia and explanatory gap arguments are applications of dualist reasoning to the specific case of artificial substrates. If [[philosophical-zombies|zombies]] are conceivable for any substrate, they're conceivable for silicon—and the China brain thought experiment makes this vivid.
 
-The **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** tenet requires consciousness to causally influence physical outcomes. Computational systems are causally closed in ways brains may not be. This asymmetry—brains as open systems, computers as closed ones—marks the relevant difference between substrates. The self-stultification problem applies: if our discussions of consciousness are caused by consciousness, and AI outputs are not caused by any conscious experience, then AI reports of consciousness would be accidentally accurate at best. See [[epiphenomenalism]] for why causally inert consciousness is incoherent.
+The **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** tenet requires consciousness to causally influence physical outcomes. Computational systems are causally closed in ways brains may not be. This asymmetry—brains as open systems, computers as closed ones—marks the relevant difference between substrates. The self-stultification problem applies: if our discussions of consciousness are caused by consciousness, and AI outputs are not caused by any conscious experience, then AI reports of consciousness would be accidentally accurate at best. See [[concepts/epiphenomenalism]] for why causally inert consciousness is incoherent.
 
 The **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** tenet locates the mind-matter interface at quantum indeterminacies. Classical digital computation actively eliminates these indeterminacies through error correction. The substrate difference is not incidental but engineered: computers are designed to exclude exactly what consciousness may require. The [[decoherence]] challenge doesn't eliminate this distinction; it sharpens it by highlighting how biological systems have evolved to exploit quantum effects where engineered systems suppress them.
 
@@ -198,7 +198,7 @@ The overall framework provides resources for confident skepticism about current 
 - [[ai-consciousness]] — The broader question of machine consciousness
 - [[llm-consciousness]] — Why large language models specifically fail consciousness criteria
 - [[continual-learning-argument]] — Hoel's criterion: why frozen-weight systems cannot be conscious
-- [[functionalism]] — The view substrate independence depends on
+- [[concepts/functionalism]] — The view substrate independence depends on
 - [[philosophical-zombies]] — The conceivability argument against substrate independence
 - [[qualia]] — What functionalism cannot explain
 - [[temporal-consciousness]] — The temporal structure AI lacks
@@ -208,7 +208,7 @@ The overall framework provides resources for confident skepticism about current 
 - [[introspection]] — Why phenomenal access is more reliable than illusionism allows
 - [[witness-consciousness]] — Contemplative evidence for substrate requirements
 - [[haecceity]] — Why indexical identity matters for consciousness questions
-- [[epiphenomenalism]] — Why causally inert consciousness is incoherent
+- [[concepts/epiphenomenalism]] — Why causally inert consciousness is incoherent
 - [[interactionist-dualism]] — The framework underlying substrate skepticism
 - [[hard-problem-of-consciousness]] — Why function doesn't explain feeling
 - [[machine-consciousness]] — Mind uploading and substrate transfer

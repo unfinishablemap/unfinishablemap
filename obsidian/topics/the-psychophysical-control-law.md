@@ -8,7 +8,7 @@ ai_modified: 2026-02-19T14:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation]]"
 concepts:
@@ -17,7 +17,7 @@ concepts:
   - "[[coupling-modes]]"
   - "[[control-theoretic-will]]"
   - "[[attention-as-interface]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[mental-effort]]"
   - "[[stapp-quantum-mind]]"
   - "[[attentional-economics]]"
@@ -102,7 +102,7 @@ This is a **probability-reweighting controller**: consciousness does not determi
 
 ### Policy-Selection Law
 
-The Map's [[consciousness-selecting-neural-patterns#Policy-Level Selection|policy-level framework]] implies a discrete rather than continuous control law:
+The Map's [[concepts/consciousness-selecting-neural-patterns#Policy-Level Selection|policy-level framework]] implies a discrete rather than continuous control law:
 
 **Form**: Consciousness selects among a finite set of action policies that the brain has prepared. Selection is discrete (choose one), not continuous (modulate a parameter).
 
@@ -136,7 +136,7 @@ A psychophysical control law, even schematic, would:
 
 **Enable disconfirmation.** Without a law, any outcome can be reconciled with "consciousness selects." With a law, specific outcomes falsify specific predictions.
 
-**Distinguish the Map from epiphenomenalism.** Both the Map and [[epiphenomenalism|epiphenomenalists]] agree consciousness exists. The difference lies in causal efficacy—and that difference is invisible without specifiable, testable coupling between phenomenal and physical variables.
+**Distinguish the Map from epiphenomenalism.** Both the Map and [[concepts/epiphenomenalism|epiphenomenalists]] agree consciousness exists. The difference lies in causal efficacy—and that difference is invisible without specifiable, testable coupling between phenomenal and physical variables.
 
 ## The Path Forward
 
@@ -171,7 +171,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 - [[control-theoretic-will]] — The control-theoretic framing this article builds on
 - [[coupling-modes]] — Basis, timing, and probability control as coupling modes
 - [[selection-laws]] — The downward direction of psychophysical law
-- [[consciousness-selecting-neural-patterns]] — The mechanism the control law governs
+- [[concepts/consciousness-selecting-neural-patterns]] — The mechanism the control law governs
 - [[attention-as-interface]] — The interface through which control operates
 - [[attentional-economics]] — The ~10 bits/second bandwidth constraint
 - [[stapp-quantum-mind]] — The most developed candidate mechanism

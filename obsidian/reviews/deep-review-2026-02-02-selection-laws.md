@@ -52,7 +52,7 @@ None. The article is internally consistent, well-structured, and contains no fac
 - Added connection to free will and agent causation (new cross-links)
 
 ### Cross-links Added
-- [[free-will]]
+- [[topics/free-will]]
 - [[agent-causation]]
 
 ## Remaining Items

@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-19T10:06:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[ethics-of-consciousness]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
   - "[[phenomenology-of-moral-experience]]"
@@ -165,7 +165,7 @@ The gradient occupies the space between these extremes. Agents are genuine autho
 - [[attention-as-interface]] — Why attention serves as consciousness's interface with matter
 - [[attention-disorders-and-quantum-interface]] — What attentional impairments reveal about the interface
 - [[reasons-responsiveness]] — Responsiveness to reasons as a condition for responsibility
-- [[free-will]] — The broader framework of agency and determinism
+- [[topics/free-will]] — The broader framework of agency and determinism
 
 ## References
 

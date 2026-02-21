@@ -8,7 +8,7 @@ ai_modified: 2026-02-13T13:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[embodied-cognition]]"
   - "[[filter-theory]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[interactionist-dualism]]"
   - "[[phenomenology]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[brain-interface-boundary]]"
   - "[[mental-causation]]"
   - "[[explanatory-gap]]"
@@ -88,7 +88,7 @@ The novice requires constant conscious monitoring. Every movement is explicitly 
 
 The expert has trained the interface. Procedural systems handle execution; consciousness withdraws to oversight. The [[embodied-cognition|embodied cognition]] article describes this as consciousness "delegating" to procedural systems while retaining the ability to re-engage.
 
-[[embodied-cognition#Choking Under Pressure: The Bidirectional Evidence|Choking under pressure]] reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves bidirectional causation: conscious attention genuinely affects bodily performance. An [[epiphenomenalism|epiphenomenal]] consciousness—one that merely accompanies physical processes—could not systematically interfere with motor execution.
+[[embodied-cognition#Choking Under Pressure: The Bidirectional Evidence|Choking under pressure]] reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves bidirectional causation: conscious attention genuinely affects bodily performance. An [[concepts/epiphenomenalism|epiphenomenal]] consciousness—one that merely accompanies physical processes—could not systematically interfere with motor execution.
 
 The interface reading explains the phenomenon precisely. Consciousness and procedural systems are distinct but coupled. Skilled performance requires the right division of labor across the interface. When consciousness re-engages execution-level processes it had delegated, it disrupts optimized patterns—like a manager micromanaging tasks they delegated to specialists. The disruption proves the manager has real causal power; the improvement after withdrawal proves the specialists can operate with appropriate autonomy.
 
@@ -134,7 +134,7 @@ There is also a deeper question the interface reading cannot answer: even if emb
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Choking under pressure demonstrates that consciousness causally influences bodily performance. Skill acquisition demonstrates that bodily practice reshapes how consciousness manifests. The interaction flows both ways through the interface. Enactivism's emphasis on "autonomous agency"—the organism actively bringing forth its world—fits a framework where consciousness is not passive recipient but active participant.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The attention-motor convergence locates the interface precisely: where [[consciousness-selecting-neural-patterns|consciousness selects among competing neural options]]. The body provides the action repertoire; attention selects within it. If this selection operates through quantum mechanisms at ion channels or microtubules, the embodied interface is where those mechanisms function. Consciousness doesn't override physics; it biases indeterminate outcomes within the structured interface the body provides.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The attention-motor convergence locates the interface precisely: where [[concepts/consciousness-selecting-neural-patterns|consciousness selects among competing neural options]]. The body provides the action repertoire; attention selects within it. If this selection operates through quantum mechanisms at ion channels or microtubules, the embodied interface is where those mechanisms function. Consciousness doesn't override physics; it biases indeterminate outcomes within the structured interface the body provides.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Embodied action achieves definite outcomes. A skilled movement produces one trajectory, not all possible trajectories in parallel. If the attention-motor interface involves quantum selection, collapse—not branching—is what produces the determinate bodily engagement that embodied cognition describes. Many-worlds would make every action branch into all alternatives, undermining the very definiteness that makes skilled performance possible.
 

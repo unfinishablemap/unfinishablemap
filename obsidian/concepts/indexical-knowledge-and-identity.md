@@ -16,7 +16,7 @@ concepts:
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
   - "[[knowledge-argument]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
@@ -117,7 +117,7 @@ The disagreement reveals something about self-locating uncertainty. Beauty doesn
 
 ## Implications for Many-Worlds
 
-The [[many-worlds]] interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel, each equally real. Indexical knowledge creates problems for this picture, connecting to the [[the-measurement-problem-as-philosophical-problem|measurement problem]] at its core.
+The [[concepts/many-worlds]] interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel, each equally real. Indexical knowledge creates problems for this picture, connecting to the [[the-measurement-problem-as-philosophical-problem|measurement problem]] at its core.
 
 Before measurement, there is one observer. After branching, there are multiple successors in different branches. Everettians propose that pre-measurement uncertainty about which outcome you'll see is "self-locating uncertainty"—uncertainty about which branch you're in, analogous to Beauty's uncertainty about which awakening she's experiencing.
 
@@ -150,7 +150,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [[tenets]] ac
 - [[knowledge-argument]] — Mary's Room and what physical knowledge misses
 - [[consciousness-only-territories]] — Epistemic territories accessible only through experience
 - [[personal-identity]] — What makes you the same person over time
-- [[many-worlds]] — Why indexical identity poses problems for branching interpretations
+- [[concepts/many-worlds]] — Why indexical identity poses problems for branching interpretations
 - [[indexical-identity-quantum-measurement]] — The indexical gap in quantum physics
 
 ## References

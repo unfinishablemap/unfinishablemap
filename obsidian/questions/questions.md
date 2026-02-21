@@ -31,5 +31,5 @@ The bidirectional interaction tenet proposes that consciousness "chooses" which 
 - How would consciousness access or influence quantum states in warm, wet brains?
 - Does this avoid the problems of epiphenomenalism, or merely relocate them?
 
-**Discussion:** [[consciousness-selecting-neural-patterns|Does Consciousness Actually Select Neural Patterns?]]
+**Discussion:** [[concepts/consciousness-selecting-neural-patterns|Does Consciousness Actually Select Neural Patterns?]]
 

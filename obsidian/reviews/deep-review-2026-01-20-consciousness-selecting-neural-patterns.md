@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-20
-**Article**: [[consciousness-selecting-neural-patterns|Consciousness-Selecting Neural Patterns]]
+**Article**: [[concepts/consciousness-selecting-neural-patterns|Consciousness-Selecting Neural Patterns]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

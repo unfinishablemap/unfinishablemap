@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[mysterianism]]"
   - "[[phenomenology]]"
@@ -147,7 +147,7 @@ None of these conditions has been met. Four centuries of philosophy, decades of 
 - [[introspective-opacity|Introspective Opacity]] — Why we cannot observe cognitive processes in general
 - [[the-unobservable-self|The Unobservable Self]] — The observer that eludes observation
 - [[three-kinds-of-void|Three Kinds of Void]] — Unexplored, unexplorable, and occluded
-- [[free-will|Free Will]] — The broader context for questions of agency
+- [[topics/free-will|Free Will]] — The broader context for questions of agency
 - [[agent-causation|Agent Causation]] — The philosophical concept of the self as cause
 - [[phenomenology-of-choice|The Phenomenology of Choice]] — What choosing feels like
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture

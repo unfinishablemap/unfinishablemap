@@ -8,11 +8,11 @@ ai_modified: 2026-02-15T01:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[consciousness-and-creativity]]"
   - "[[cognitive-phenomenology]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[attention-as-interface]]"
   - "[[duration]]"
   - "[[agent-causation]]"

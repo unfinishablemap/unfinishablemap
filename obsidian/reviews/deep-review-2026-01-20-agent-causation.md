@@ -53,7 +53,7 @@ last_curated: null
 5. **New pairing problem connection**: Links agent causation to spatial location at interface
 
 ### Cross-links Added
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 - [[pairing-problem]]
 - [[downward-causation]]
 - [[mental-causation]]

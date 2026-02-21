@@ -70,7 +70,7 @@ last_curated:
 - [[mysterianism]]
 - [[process-philosophy]]
 - [[stapp-quantum-mind]]
-- [[free-will]]
+- [[topics/free-will]]
 - [[consciousness-in-smeared-quantum-states]]
 - [[agent-causation]]
 

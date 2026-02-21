@@ -20,7 +20,7 @@ concepts:
   - "[[working-memory]]"
   - "[[illusionism]]"
   - "[[global-workspace-theory]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -221,7 +221,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
 - [[working-memory]] — The capacity constraints on teaching
 - [[global-workspace-theory]] — How conscious access enables cognitive integration
-- [[free-will]] — The deliberate choices teaching requires
+- [[topics/free-will]] — The deliberate choices teaching requires
 - [[animal-consciousness]] — The great ape comparison
 
 ## References

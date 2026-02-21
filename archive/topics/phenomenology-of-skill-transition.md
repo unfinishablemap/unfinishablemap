@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Consciousness and Skilled Performance"
 original_path: "/topics/phenomenology-of-skill-transition/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[attention]]"
@@ -86,7 +86,7 @@ Skill transition provides unusually clear evidence for the causal efficacy of co
 
 A physicalist might respond that prefrontal executive systems, error-prediction networks, and basal ganglia gating mechanisms provide the physical machinery for goal-directed restructuring. These systems are real and well-documented. But the physicalist account faces a difficulty: procedural memory systems, left to their own dynamics, tend toward stability rather than reorganisation. Executive override is precisely the kind of top-down, evaluative, goal-directed process that the Map identifies as consciousness acting through neural systems. Relabelling it as "merely prefrontal activity" does not explain *why* this particular neural activity has the phenomenal character it does—the felt effort, the experienced temptation to revert, the conscious commitment sustained across weeks of degraded performance.
 
-The decision to restructure originates in conscious evaluation: "This technique limits me. I need to change it." The sustained effort of transition—overriding the old, reinforcing the new, enduring the performance valley—requires ongoing conscious commitment. If consciousness were [[epiphenomenalism|epiphenomenal]], the transition should not differ whether the person is consciously engaged in restructuring or merely going through the motions. But practitioners consistently report that the quality and focus of conscious attention during practice directly affects the rate of successful restructuring.
+The decision to restructure originates in conscious evaluation: "This technique limits me. I need to change it." The sustained effort of transition—overriding the old, reinforcing the new, enduring the performance valley—requires ongoing conscious commitment. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the transition should not differ whether the person is consciously engaged in restructuring or merely going through the motions. But practitioners consistently report that the quality and focus of conscious attention during practice directly affects the rate of successful restructuring.
 
 The transition valley itself creates a distinctive challenge for eliminative accounts. Computational systems can accept temporary performance degradation when exploring new strategies—reinforcement learning agents do this routinely. But the human experience of the transition valley involves something these systems lack: a *felt* sacrifice, a conscious weighing of present pain against future competence, and an ongoing temptation to abandon the project that must be actively resisted. The phenomenology of the valley—not just the performance curve—is what demands explanation, and it points toward the kind of [[agent-causation|agent causation]] the Map's framework describes.
 

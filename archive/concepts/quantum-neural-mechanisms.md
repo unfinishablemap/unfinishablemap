@@ -21,7 +21,7 @@ concepts:
   - "[[illusionism]]"
   - "[[mysterianism]]"
   - "[[spontaneous-collapse-theories]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
@@ -292,7 +292,7 @@ The Unfinishable Map's interest in quantum neural mechanisms connects to all fiv
 - [[spontaneous-collapse-theories]] — GRW, CSL, and objective collapse as consciousness-independent baseline
 - [[illusionism]] — The challenge that phenomenal consciousness may be illusory
 - [[mysterianism]] — Cognitive closure and limits of human understanding
-- [[free-will]] — How quantum indeterminacy relates to libertarian free will
+- [[topics/free-will]] — How quantum indeterminacy relates to libertarian free will
 - [[agent-causation]] — Consciousness as cause at the quantum level
 
 ## References

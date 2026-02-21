@@ -9,11 +9,11 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[qualia]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[integrated-information-theory]]"
   - "[[global-workspace-theory]]"
   - "[[specious-present]]"
@@ -188,7 +188,7 @@ This analysis connects to all five of the Map's [[tenets|foundational commitment
 
 ### Agency and Interaction
 - [[phenomenology-of-choice]]—how temporal structure enables genuine choosing
-- [[free-will]]—temporal agency and the determination question
+- [[topics/free-will]]—temporal agency and the determination question
 - [[agent-causation]]—the self as originator of action in time
 
 ### Methods

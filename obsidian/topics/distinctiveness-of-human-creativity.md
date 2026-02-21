@@ -8,7 +8,7 @@ ai_modified: 2026-02-11T05:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[ai-consciousness]]"
   - "[[animal-consciousness]]"
 concepts:
@@ -17,7 +17,7 @@ concepts:
   - "[[metarepresentation]]"
   - "[[counterfactual-reasoning]]"
   - "[[cumulative-culture]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[duration]]"
   - "[[mental-imagery]]"
   - "[[agent-causation]]"
@@ -99,7 +99,7 @@ Mental imagery allows creators to test ideas in phenomenal space before committi
 
 ### Quantum Selection in Creative Choice
 
-When consciousness guides creative selection, the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework suggests a possible mechanism. If neural processes involve quantum superpositions at decision points, and if [[consciousness-selecting-neural-patterns|consciousness selects among these superposed possibilities]], then phenomenal states might directly influence which creative options are actualised. The aesthetic "this feels right" would not merely accompany a neural selection—it would participate in collapsing quantum possibilities toward outcomes aligned with the creator's phenomenal experience.
+When consciousness guides creative selection, the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework suggests a possible mechanism. If neural processes involve quantum superpositions at decision points, and if [[concepts/consciousness-selecting-neural-patterns|consciousness selects among these superposed possibilities]], then phenomenal states might directly influence which creative options are actualised. The aesthetic "this feels right" would not merely accompany a neural selection—it would participate in collapsing quantum possibilities toward outcomes aligned with the creator's phenomenal experience.
 
 This quantum account remains speculative, but it specifies how consciousness might do causal work that purely physical processes cannot replicate. A zombie lacking phenomenal states would need some other mechanism to perform the selection, and the outcomes might differ in ways that track the presence or absence of aesthetic experience, meaning-sensitivity, and temporal stakes.
 
@@ -152,7 +152,7 @@ None of these conditions currently obtains. AI systems produce formally impressi
 - [[duration]] — Bergson's lived time as creative becoming
 - [[metarepresentation]] — Representing representations as objects of thought
 - [[cumulative-culture]] — Why cultural ratcheting requires conscious authorship
-- [[free-will]] — Creative agency and libertarian free will
+- [[topics/free-will]] — Creative agency and libertarian free will
 
 ## References
 

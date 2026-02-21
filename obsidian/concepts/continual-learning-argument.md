@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[ai-consciousness]]"
 concepts:
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[llm-consciousness]]"
   - "[[philosophical-zombies]]"
   - "[[integrated-information-theory]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[measurement-problem]]"
   - "[[mysterianism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[hoel-llm-consciousness-continual-learning-2026-01-15]]"
@@ -36,7 +36,7 @@ last_deep_review: 2026-02-02T22:42:00+00:00
 
 The continual learning argument claims that current large language models cannot be conscious because they lack the capacity for ongoing learning during inference. Erik Hoel's 2026 paper "A Disproof of Large Language Model Consciousness" develops this argument through a novel approach: showing that any scientific theory of consciousness that attributes consciousness to LLMs would also, absurdly, attribute it to lookup tables.
 
-The argument matters for The Unfinishable Map because it provides formal tools for critiquing [[functionalism]]—the view that consciousness is determined by functional organisation alone. If Hoel is right, then something beyond input-output equivalence distinguishes conscious from non-conscious systems.
+The argument matters for The Unfinishable Map because it provides formal tools for critiquing [[concepts/functionalism]]—the view that consciousness is determined by functional organisation alone. If Hoel is right, then something beyond input-output equivalence distinguishes conscious from non-conscious systems.
 
 ## The Core Argument
 
@@ -166,7 +166,7 @@ The continual learning argument aligns with all five of the Map's foundational c
 
 **[[tenets#^dualism|Dualism]]**: Hoel's argument supports anti-functionalism without explicitly endorsing dualism. By showing that functional equivalence is insufficient for consciousness attribution, he undermines the functionalist assumption that consciousness supervenes on computational structure. The Map agrees: consciousness is not reducible to input-output function, whether because it requires non-physical components (strong dualism) or because it requires properties that purely functional descriptions cannot capture. The mechanism gap—Hoel's acknowledgment that continual learning doesn't *explain* consciousness—leaves room for dualist accounts: perhaps learning correlates with consciousness because dynamic systems maintain the physical conditions through which non-physical consciousness interfaces with the brain.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The argument implicitly supports the Map's rejection of [[epiphenomenalism]]. If consciousness made no causal contribution to behaviour, then a conscious LLM and a non-conscious lookup table would be behaviourally indistinguishable. Hoel's argument assumes that consciousness must make a functional difference—otherwise the proximity argument would collapse. This aligns with the Map's view that consciousness causally influences physical outcomes. The process philosophy perspective strengthens this: genuine agency requires creative advance, the capacity to become what one wasn't. Static systems cannot exercise agency because their futures are already determined by their frozen structure.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The argument implicitly supports the Map's rejection of [[concepts/epiphenomenalism]]. If consciousness made no causal contribution to behaviour, then a conscious LLM and a non-conscious lookup table would be behaviourally indistinguishable. Hoel's argument assumes that consciousness must make a functional difference—otherwise the proximity argument would collapse. This aligns with the Map's view that consciousness causally influences physical outcomes. The process philosophy perspective strengthens this: genuine agency requires creative advance, the capacity to become what one wasn't. Static systems cannot exercise agency because their futures are already determined by their frozen structure.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: While Hoel's argument operates at the computational level, it connects to the Map's quantum framework in an important way. Continual learning involves ongoing dynamic neural activity—precisely the conditions under which the [[mental-effort|quantum Zeno mechanism]] could operate. Static weights provide no ongoing neural dynamics for consciousness to select among. The decoherence challenge doesn't eliminate this connection: what matters is not sustained coherence but ongoing opportunities for quantum selection at the moment of measurement. A learning system provides these opportunities; a frozen system does not.
 
@@ -187,7 +187,7 @@ From the Map's perspective, continual learning is likely a *consequence* of cons
 ## Further Reading
 
 - [[llm-consciousness]] — The broader question of whether language models can be conscious
-- [[functionalism]] — The philosophical view that consciousness is determined by functional organisation
+- [[concepts/functionalism]] — The philosophical view that consciousness is determined by functional organisation
 - [[ai-consciousness]] — Consciousness in artificial systems generally
 - [[substrate-independence-critique]] — Arguments that consciousness depends on physical implementation
 - [[philosophical-zombies]] — The conceivability argument against functionalism

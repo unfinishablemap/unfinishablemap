@@ -9,7 +9,7 @@ last_deep_review: 2026-02-09T17:01:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[autonoetic-consciousness]]"
@@ -38,7 +38,7 @@ A single momentary choice does not make a life. Agency worth the name extends ac
 
 ## Synchronic and Diachronic Agency
 
-Most philosophical work on [[free-will|free will]] focuses on what might be called *synchronic agency*—the capacity to choose at a moment. Can you select among alternatives right now? Are your current decisions genuinely yours? The [[phenomenology-of-agency-vs-passivity|phenomenology of agency]] confirms that individual moments of choosing have a distinctive experiential character: effort, authorship, the [[phenomenology-of-choice|felt narrowing]] of open possibilities to one.
+Most philosophical work on [[topics/free-will|free will]] focuses on what might be called *synchronic agency*—the capacity to choose at a moment. Can you select among alternatives right now? Are your current decisions genuinely yours? The [[phenomenology-of-agency-vs-passivity|phenomenology of agency]] confirms that individual moments of choosing have a distinctive experiential character: effort, authorship, the [[phenomenology-of-choice|felt narrowing]] of open possibilities to one.
 
 But human agency is not merely momentary. Consider what it takes to write a book. No single decision—choosing a topic, drafting a chapter, revising a paragraph—constitutes the act. The book emerges from thousands of coordinated choices spread across months or years, held together by a sustained intention that persists through interruptions, doubts, and competing demands. The agent who finishes the book must be the same agent who started it, and must maintain something like a plan connecting early choices to later ones.
 
@@ -126,7 +126,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 - [[time-collapse-and-agency]] — Temporal metaphysics underlying the framework
 - [[autonoetic-consciousness]] — Mental time travel as the mechanism of temporal self-projection
 - [[agent-causation]] — Why genuine agency requires agent-causation
-- [[free-will]] — The broader context of libertarian agency
+- [[topics/free-will]] — The broader context of libertarian agency
 - [[moral-responsibility]] — How agency grounds responsibility
 - [[parfit-reductionism]] — The reductionist challenge to narrative identity
 - [[duration]] — Bergson's qualitative time and lived temporal structure

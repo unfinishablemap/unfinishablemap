@@ -8,7 +8,7 @@ ai_modified: 2026-02-02T11:59:00+00:00
 last_deep_review: 2026-02-02T11:59:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[agent-causation]]"
@@ -141,7 +141,7 @@ Substance causation provides the metaphysical foundation for the Map's position 
 
 **The Mechanism Question**: Substance causation says consciousness causes physical events; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies *where* and *how*: at quantum indeterminacies, by biasing probabilities. The metaphysics (substance causation) and physics (quantum interface) complement each other.
 
-**Against Epiphenomenalism**: [[Epiphenomenalism]] denies consciousness has causal powers. Substance causation combined with the self-stultification argument opposes this: if consciousness is a genuine substance—not a mere shadow of physical processes—then it has causal powers by its nature. Substances *act*; that's what makes them substances.
+**Against Epiphenomenalism**: [[concepts/epiphenomenalism]] denies consciousness has causal powers. Substance causation combined with the self-stultification argument opposes this: if consciousness is a genuine substance—not a mere shadow of physical processes—then it has causal powers by its nature. Substances *act*; that's what makes them substances.
 
 **Dualism Without Anomaly**: The [[tenets#^dualism|Dualism]] tenet holds consciousness is irreducible to physics. Critics object that non-physical causation would be mysterious. Substance causation answers: *all* causation is substances exercising powers. Consciousness exercises its powers just as physical substances exercise theirs. The ontology is dualist; the causal structure is unified.
 
@@ -156,7 +156,7 @@ Substance causation provides the metaphysical foundation for the Map's position 
 - [[causal-closure]] — The principle substance causation challenges
 - [[luck-objection]] — The main challenge to agent causation
 - [[pairing-problem]] — What connects this mind to this body
-- [[free-will]] — The broader question
+- [[topics/free-will]] — The broader question
 - [[emergence]] — Related concept of novel causal powers
 - [[decoherence]] — The quantum challenge to consciousness-brain interaction
 - [[quantum-decoherence-objection]] — The Map's response to decoherence concerns

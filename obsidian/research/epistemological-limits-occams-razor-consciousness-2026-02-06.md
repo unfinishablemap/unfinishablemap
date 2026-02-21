@@ -6,7 +6,7 @@ human_modified: null
 ai_modified: 2026-02-06T11:13:00+00:00
 draft: false
 topics:
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
 concepts:
   - "[[arguments-for-dualism]]"
 related_articles:

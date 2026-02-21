@@ -15,7 +15,7 @@ concepts:
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[quantum-decoherence-objection-responses-2026-01-15]]"
 ai_contribution: 90
 author: Andy Southgate

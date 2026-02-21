@@ -25,7 +25,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[decoherence]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
@@ -182,7 +182,7 @@ The Map's openness to survival would face serious difficulty if:
 
 **Minimal Quantum Interaction**: If consciousness operates at the quantum level, quantum conservation laws might preserve something. The [[decoherence|decoherence objection]] applies more strongly post-mortem—no biological system maintains coherence—but the hypothesis that consciousness acts at collapse rather than requiring sustained coherence remains relevant. If [[quantum-consciousness|quantum information]] encodes something about conscious states, its conservation might preserve something. A significant caveat: consciousness-selection within Born probabilities is empirically indistinguishable from random collapse, making this framework philosophical rather than testable (see the [[measurement-problem]] article). Highly speculative, but the framework identifies where to look.
 
-**Bidirectional Interaction**: If consciousness causally influences matter rather than merely observing it, it has genuine efficacy—agency that makes choices matter. The question becomes: can this efficacy persist without a physical interface? The [[epiphenomenalism|epiphenomenalism]] this tenet rejects would make the question moot (an epiphenomenal consciousness has nothing causal to lose), but interactive consciousness has something substantial at stake. Death would end not just experience but genuine causal participation in reality.
+**Bidirectional Interaction**: If consciousness causally influences matter rather than merely observing it, it has genuine efficacy—agency that makes choices matter. The question becomes: can this efficacy persist without a physical interface? The [[concepts/epiphenomenalism|epiphenomenalism]] this tenet rejects would make the question moot (an epiphenomenal consciousness has nothing causal to lose), but interactive consciousness has something substantial at stake. Death would end not just experience but genuine causal participation in reality.
 
 **No Many Worlds**: Survival questions have determinate answers. Either *this* consciousness continues or it doesn't—there's no merely statistical or pattern-based survival. This rules out Parfit-style views where replicas preserve "what matters." [[haecceity|Haecceity]]—your irreducible thisness—is what might or might not survive, not a pattern that could be reinstantiated. Many-worlds sidesteps death's significance by treating all branches as equally real; the Map takes death seriously as the potential end of a particular unrepeatable perspective. [[witness-consciousness|Witness consciousness]] phenomenology supports this: being *this* awareness is the most immediate fact of experience.
 

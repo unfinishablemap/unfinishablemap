@@ -25,7 +25,7 @@ concepts:
   - "[[combination-problem]]"
 related_articles:
   - "[[tenets]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[contemplative-path]]"

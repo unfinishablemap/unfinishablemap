@@ -8,13 +8,13 @@ ai_modified: 2026-02-10T19:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[attentional-economics]]"
   - "[[psychophysical-coupling]]"
   - "[[filter-theory]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[working-memory]]"
   - "[[mental-effort]]"
   - "[[voluntary-attention]]"
@@ -167,7 +167,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [[working-memory]] — Working memory as the workspace where the interface operates
 - [[quantum-neural-timing-constraints]] — Timing constraints on quantum consciousness mechanisms
 - [[baseline-cognition]] — What the brain achieves without conscious involvement
-- [[consciousness-selecting-neural-patterns]] — The selection mechanism in detail
+- [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism in detail
 - [[global-workspace-theory]] — The materialist account of serial broadcasting and its limitations
 - [[libet-experiments]] — The neural preparation findings and why they don't defeat free will
 - [[access-consciousness]] — The distinction between phenomenal and access consciousness

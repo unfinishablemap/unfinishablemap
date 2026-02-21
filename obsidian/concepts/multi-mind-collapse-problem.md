@@ -60,7 +60,7 @@ On this view, one consciousness's collapse creates facts for all observers insta
 
 Carlo Rovelli's [[relational-quantum-mechanics-2026-01-18|relational quantum mechanics]] dissolves the problem by denying absolute facts. Quantum states are relative to observers; Alice's and Bob's collapses need not agree until they interact.
 
-Elegant, but at a price the Map cannot pay. Rovelli removes any special role for consciousness: "observer" means any physical system—a rock counts as much as a mind. This trades the multi-mind problem for [[epiphenomenalism]]—the very position the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects.
+Elegant, but at a price the Map cannot pay. Rovelli removes any special role for consciousness: "observer" means any physical system—a rock counts as much as a mind. This trades the multi-mind problem for [[concepts/epiphenomenalism]]—the very position the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects.
 
 ### 3. Interface Locality
 
@@ -131,7 +131,7 @@ See [[brain-interface-boundary#What Would Challenge This View?]] for detailed tr
 
 **"Doesn't this make consciousness's role trivially small?"**
 
-The scope is limited—one brain—but not the significance. Consciousness modulating neural patterns is the mechanism for [[mental-causation]] and [[free-will|free will]]. The alternative (epiphenomenalism) makes consciousness do nothing at all. Doing something in one brain is infinitely more than doing nothing anywhere.
+The scope is limited—one brain—but not the significance. Consciousness modulating neural patterns is the mechanism for [[mental-causation]] and [[topics/free-will|free will]]. The alternative (epiphenomenalism) makes consciousness do nothing at all. Doing something in one brain is infinitely more than doing nothing anywhere.
 
 **"Doesn't relativity still create problems?"**
 

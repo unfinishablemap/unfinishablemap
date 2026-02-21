@@ -80,7 +80,7 @@ Already comprehensive—no additions needed:
 - [[attention-as-interface]]
 - [[haecceity]]
 - [[combination-problem]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 
 ### Enhancement Opportunities Deferred
 The following were identified but not implemented due to length constraints (article at 114% of soft threshold):

@@ -13,14 +13,14 @@ topics:
   - "[[emotional-consciousness]]"
 concepts:
   - "[[qualia]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[phenomenal-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[explanatory-gap]]"
   - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-and-causal-powers]]"
 ai_contribution: 100
 author:
@@ -95,7 +95,7 @@ Third, suffering varies with meaning in ways that track consciousness rather tha
 - [[phenomenology-of-pain]] — Pain's phenomenal character and resistance to reduction
 - [[consciousness-and-pain]] — Pain as the paradigm case for mental causation
 - [[emotional-consciousness]] — Valence as an intrinsic property of experience
-- [[phenomenal-value-realism]] — How phenomenal properties ground objective value
+- [[topics/phenomenal-value-realism]] — How phenomenal properties ground objective value
 - [[consciousness-and-causal-powers]] — The nature and scope of consciousness's causal role
 - [[explanatory-gap]] — The gap between physical description and phenomenal reality
 

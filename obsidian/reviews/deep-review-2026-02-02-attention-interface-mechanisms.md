@@ -58,7 +58,7 @@ None. The article is well-constructed and appropriately hedged for its claims.
 4. Strengthened the MWI response with more nuanced engagement
 
 ### Cross-links Added
-- [[free-will]] — at timing constraints section and Further Reading
+- [[topics/free-will]] — at timing constraints section and Further Reading
 - [[agent-causation]] — at timing constraints section and Further Reading
 
 ## Remaining Items

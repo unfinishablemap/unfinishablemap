@@ -67,7 +67,7 @@ All attributions verified:
 
 ### Cross-links Added
 Added inbound links from 6 existing articles to integrate the orphaned apex article:
-- [[free-will]] - Added reference in "The Temporal Problem" section
+- [[topics/free-will]] - Added reference in "The Temporal Problem" section
 - [[hard-problem-of-consciousness]] - Added reference in "Temporal Phenomenology" section
 - [[ai-consciousness]] - Added reference in "The Temporal Problem" section
 - [[agent-causation]] - Added reference in "Agent Causation and Sourcehood" section

@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-05T01:09:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[psychophysical-coupling]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[decoherence]]"
   - "[[measurement-problem]]"
   - "[[causal-closure]]"
@@ -75,7 +75,7 @@ Jeffrey Schwartz developed a cognitive therapy for OCD based on directed attenti
 
 Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken.
 
-The findings don't definitively prove the quantum Zeno mechanism—a materialist could invoke classical neural self-modification. But they establish that mental effort has physical consequences. Whatever the mechanism, something patients do with their minds changes their brains. This is harder to explain under [[epiphenomenalism]] than under [[interactionist-dualism]].
+The findings don't definitively prove the quantum Zeno mechanism—a materialist could invoke classical neural self-modification. But they establish that mental effort has physical consequences. Whatever the mechanism, something patients do with their minds changes their brains. This is harder to explain under [[concepts/epiphenomenalism]] than under [[interactionist-dualism]].
 
 ## The Attention-as-Interface Extension
 

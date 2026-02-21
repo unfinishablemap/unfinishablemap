@@ -8,7 +8,7 @@ ai_modified: 2026-02-03T02:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[collapse-and-time]]"
   - "[[retrocausality]]"
@@ -172,7 +172,7 @@ Each actual occasion has both a *physical pole* (receiving causal influences fro
 
 ## Implications for Free Will
 
-This metaphysics strengthens the [[free-will|free will]] position:
+This metaphysics strengthens the [[topics/free-will|free will]] position:
 
 **Sourcehood without prior causes**: [[agent-causation|Agent causation]] holds that the agent is the ultimate source of action, not prior events. If consciousness constitutes temporal structure, there's no temporal chain of prior causes to trace back through. The agent doesn't inherit causation from the past; the agent's selection determines what the past is.
 
@@ -234,7 +234,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [[duration]] — Bergson's qualitative time and the phenomenology of flow
 - [[temporal-consciousness]] — Broader treatment of time in consciousness
 - [[specious-present]] — The experienced duration of "now" and the extensionalism debate
-- [[free-will]] — the Map's account of libertarian agency
+- [[topics/free-will]] — the Map's account of libertarian agency
 - [[agent-causation]] — The agent as ultimate source of action
 - [[measurement-problem]] — Why collapse remains unexplained
 - [[decoherence]] — The decoherence objection and biological quantum effects

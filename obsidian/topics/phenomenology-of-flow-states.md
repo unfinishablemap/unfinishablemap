@@ -8,7 +8,7 @@ ai_modified: 2026-02-15T02:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[attention]]"
@@ -120,7 +120,7 @@ For the Map's framework, this supports a layered model: minimal self-awareness i
 
 ### Against Epiphenomenalism
 
-If consciousness were [[epiphenomenalism|epiphenomenal]], flow and non-flow should produce identical performance for identical tasks — the presence or absence of conscious engagement would make no difference. Instead, performance depends on the *mode* of consciousness. The same pianist playing the same passage performs differently when absorbed (flow), when self-monitoring (choking), and when bored (disengagement). The epiphenomenalist can reply that a common neural cause produces both the performance difference and the phenomenal difference — the subjective mode is a side effect of whatever neural configuration drives the performance. But this reply must explain why the phenomenal modes are so precisely and specifically correlated with performance profiles across vastly different domains — motor, cognitive, creative. If the subjective states are causally inert epiphenomena, their tight, domain-general correlation with behavioural outcomes is a coincidence that demands explanation. The Map's framework provides one: the mode of consciousness shapes physical outcomes because consciousness genuinely selects among neural options, and the mode determines how that selection proceeds.
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], flow and non-flow should produce identical performance for identical tasks — the presence or absence of conscious engagement would make no difference. Instead, performance depends on the *mode* of consciousness. The same pianist playing the same passage performs differently when absorbed (flow), when self-monitoring (choking), and when bored (disengagement). The epiphenomenalist can reply that a common neural cause produces both the performance difference and the phenomenal difference — the subjective mode is a side effect of whatever neural configuration drives the performance. But this reply must explain why the phenomenal modes are so precisely and specifically correlated with performance profiles across vastly different domains — motor, cognitive, creative. If the subjective states are causally inert epiphenomena, their tight, domain-general correlation with behavioural outcomes is a coincidence that demands explanation. The Map's framework provides one: the mode of consciousness shapes physical outcomes because consciousness genuinely selects among neural options, and the mode determines how that selection proceeds.
 
 ### Against Simple Functionalism
 

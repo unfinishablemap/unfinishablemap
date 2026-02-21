@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[interactionist-dualism]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[psychophysical-coupling]]"
@@ -19,8 +19,8 @@ concepts:
   - "[[coupling-modes]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
-  - "[[epiphenomenalism]]"
-  - "[[functionalism]]"
+  - "[[concepts/epiphenomenalism]]"
+  - "[[concepts/functionalism]]"
   - "[[haecceity]]"
   - "[[integrated-information-theory]]"
   - "[[stapp-quantum-mind]]"
@@ -63,7 +63,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 **Organizational invariance.** Any two systems with identical fine-grained functional organization have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical artificial components should not cause experience to fade, since the system couldn't detect such fading (its functional states remain unchanged). Consciousness systematically deceiving itself about its own existence seems deeply implausible.
 
-**The Map's divergence**: The Map rejects strong [[functionalism]]—the view that mental states are exhausted by their functional roles. The zombie argument demonstrates that functional organization doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. [[haecceity|Haecceity]]—the primitive "thisness" of a particular conscious subject—may matter beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them. This isn't a minor disagreement: if organizational invariance holds, psychophysical laws can be expressed purely functionally. If the Map is right, they must reference the particular subject.
+**The Map's divergence**: The Map rejects strong [[concepts/functionalism]]—the view that mental states are exhausted by their functional roles. The zombie argument demonstrates that functional organization doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. [[haecceity|Haecceity]]—the primitive "thisness" of a particular conscious subject—may matter beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them. This isn't a minor disagreement: if organizational invariance holds, psychophysical laws can be expressed purely functionally. If the Map is right, they must reference the particular subject.
 
 **Double-aspect information.** Chalmers' most speculative principle: information—or at least some information—has two aspects, physical and phenomenal. He explicitly treats the scope as open: does *all* information have a phenomenal aspect, or only some? If all, even thermostats might have simple experiences—approaching panpsychism through information theory. This anticipates [[integrated-information-theory|Integrated Information Theory]], though the Map is skeptical of IIT's specific measures.
 
@@ -81,7 +81,7 @@ The Map is skeptical of constraint 5, preferring: "Ensure phenomenology superven
 
 ## The Upward-Downward Asymmetry
 
-Most philosophical development has focused on upward laws. Chalmers himself tends toward [[epiphenomenalism|epiphenomenalism]]—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are supervenience laws, not causal laws.
+Most philosophical development has focused on upward laws. Chalmers himself tends toward [[concepts/epiphenomenalism|epiphenomenalism]]—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are supervenience laws, not causal laws.
 
 The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities. This is the problem of [[downward-causation]].
 
@@ -229,8 +229,8 @@ The framework would face serious difficulty if:
 - [[attention-interface-mechanisms]] — Where in the brain coupling might occur
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism in detail
 - [[integrated-information-theory]] — IIT's role in Chalmers' quantum proposal
-- [[functionalism]] — The view Chalmers tends toward, the Map rejects
-- [[epiphenomenalism]] — Chalmers' tendency, the Map's rejection
+- [[concepts/functionalism]] — The view Chalmers tends toward, the Map rejects
+- [[concepts/epiphenomenalism]] — Chalmers' tendency, the Map's rejection
 - [[haecceity]] — Why organizational invariance may fail
 - [[mental-causation]] — How consciousness affects physical outcomes
 - [[interactionist-dualism]] — The philosophical position requiring bidirectional laws

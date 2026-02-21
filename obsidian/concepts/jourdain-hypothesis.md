@@ -18,7 +18,7 @@ concepts:
   - "[[working-memory]]"
   - "[[illusionism]]"
   - "[[cognitive-phenomenology]]"
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
   - "[[quantum-coherence-and-binding-evidence]]"
   - "[[phenomenal-unity]]"
 related_articles:
@@ -77,7 +77,7 @@ Great apes understand that others have goals, perceptions, and some knowledge st
 
 ## Social Cognition: Where the Jourdain Distinction Is Clearest
 
-[[Consciousness-and-social-cognition|Social cognition]] provides the sharpest evidence for the procedural/declarative divide. The 4-level theory of mind hierarchy maps directly onto the Jourdain distinction:
+[[topics/consciousness-and-social-cognition|Social cognition]] provides the sharpest evidence for the procedural/declarative divide. The 4-level theory of mind hierarchy maps directly onto the Jourdain distinction:
 
 | Level | Description | Requires Metarepresentation? | Great Apes |
 |-------|-------------|------------------------------|------------|
@@ -198,7 +198,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 
 ## Further Reading
 
-- [[consciousness-and-social-cognition]] — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
+- [[topics/consciousness-and-social-cognition]] — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
 - [[metarepresentation]] — The capacity to represent representations as representations
 - [[baseline-cognition]] — What cognition achieves without metarepresentation
 - [[cumulative-culture]] — Why cultural ratcheting requires the Jourdain transition

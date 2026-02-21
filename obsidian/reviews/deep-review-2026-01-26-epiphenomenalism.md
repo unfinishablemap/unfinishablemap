@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-26
-**Article**: [[epiphenomenalism|Epiphenomenalism]]
+**Article**: [[concepts/epiphenomenalism|Epiphenomenalism]]
 **Previous review**: [[deep-review-2026-01-19-epiphenomenalism|2026-01-19 (note: an earlier review on 2026-01-21 was for a different file path—obsidian/arguments/epiphenomenalism.md)]]
 
 ## Pessimistic Analysis Summary

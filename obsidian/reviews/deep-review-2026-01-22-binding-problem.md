@@ -100,7 +100,7 @@ last_curated: null
 ### Cross-Links Added
 
 - [[stapp-quantum-mind]] — Dedicated treatment now prominent
-- [[free-will]] — Connection to agent-causation and quantum selection
+- [[topics/free-will]] — Connection to agent-causation and quantum selection
 
 ## Metrics
 

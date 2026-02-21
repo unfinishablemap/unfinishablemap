@@ -68,7 +68,7 @@ last_curated: null
 - [[consciousness-and-interpersonal-understanding]]
 - [[consciousness-and-semantic-understanding]]
 - [[consciousness-and-language-interface]]
-- [[consciousness-and-social-cognition]]
+- [[topics/consciousness-and-social-cognition]]
 - [[cognitive-phenomenology]]
 - [[cumulative-culture]]
 

@@ -25,8 +25,8 @@ related_articles:
   - "[[bidirectional-interaction]]"
   - "[[witness-consciousness]]"
   - "[[voluntary-attention]]"
-  - "[[free-will]]"
-  - "[[epiphenomenalism]]"
+  - "[[topics/free-will]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mental-effort]]"
   - "[[mysterianism]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
@@ -92,7 +92,7 @@ Focused attention meditation implicates default-mode, control (dlPFC, lateral pa
 
 These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [[attention]] isn't purely bottom-up. [[Voluntary-attention-control]] can be systematically developed through conscious training.
 
-Connection to [[free-will]]: If [[phenomenal-consciousness]] were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
+Connection to [[topics/free-will]]: If [[phenomenal-consciousness]] were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
 
 ### The Meditation Modes Distinction
 
@@ -118,7 +118,7 @@ Brain activity continues during cessation, reorganized but not silent. The duali
 
 ## Top-Down Causation and Epiphenomenalism
 
-Contemplative neuroscience provides empirical evidence against [[epiphenomenalism]]:
+Contemplative neuroscience provides empirical evidence against [[concepts/epiphenomenalism]]:
 
 1. Meditation involves conscious intention to direct [[attention]] and cultivate specific mental states
 2. Practice produces measurable neural changes
@@ -196,9 +196,9 @@ The more sophisticated our phenomenological categories and neural correlates bec
 - [[Witness-consciousness]]: Eastern contemplative traditions' phenomenological framework that meditation cultivates
 - [[Voluntary-attention-control]]: Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [[meditation-and-consciousness-modes]]: The two modes: active selection and passive witnessing
-- [[Free-will]]: How meditation evidence connects to agent causation and libertarian accounts
+- [[topics/free-will]]: How meditation evidence connects to agent causation and libertarian accounts
 - [[Emotional-consciousness]]: Phenomenal character of emotions and their role in consciousness
-- [[Epiphenomenalism]]: Why contemplative neuroscience challenges the view that consciousness is causally inert
+- [[concepts/epiphenomenalism]]: Why contemplative neuroscience challenges the view that consciousness is causally inert
 - [[Bidirectional-interaction]]: The central tenet that contemplative neuroscience supports empirically
 - [[mysterianism]]: Why the explanatory gap persists even with refined phenomenological and neuroscientific methods
 

@@ -67,7 +67,7 @@ For the voids project, McGinn's work suggests that some voids are not merely une
 
 How do we use these methods practically? The apophatic traditions suggest several indirect approaches:
 
-**Systematic negation.** What is consciousness *not*? It is not identical to neural activity (identity theory fails the explanatory gap). It is not an illusion (eliminativism is self-refuting). It is not functional organisation alone ([[functionalism]] cannot account for qualia). Each negation rules out territory, gradually outlining the shape of what remains.
+**Systematic negation.** What is consciousness *not*? It is not identical to neural activity (identity theory fails the explanatory gap). It is not an illusion (eliminativism is self-refuting). It is not functional organisation alone ([[concepts/functionalism]] cannot account for qualia). Each negation rules out territory, gradually outlining the shape of what remains.
 
 **Attending to failure.** Where does explanation break down? The [[hard-problem-of-consciousness|hard problem]] is precisely an account of where third-person physical description fails to capture first-person experience. The failure is informative. The shape of what cannot be explained reveals something about what consciousness is.
 

@@ -16,7 +16,7 @@ concepts:
   - "[[introspection]]"
   - "[[phenomenology]]"
   - "[[qualia]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-understanding]]"
@@ -88,7 +88,7 @@ The Map observes that this achievement has phenomenology. The skilled archer *fe
 
 ### Against Epiphenomenalism
 
-If the phenomenology of epistemic achievement were epiphenomenal—causally inert decoration on underlying computation—then the felt difference between knowing and guessing would be an illusion that happens to correlate with a genuine cognitive distinction. This faces the same difficulties as [[epiphenomenalism]] generally: it makes the correlation miraculous and the phenomenal reports accidentally accurate.
+If the phenomenology of epistemic achievement were epiphenomenal—causally inert decoration on underlying computation—then the felt difference between knowing and guessing would be an illusion that happens to correlate with a genuine cognitive distinction. This faces the same difficulties as [[concepts/epiphenomenalism]] generally: it makes the correlation miraculous and the phenomenal reports accidentally accurate.
 
 The more parsimonious view: the phenomenology of epistemic achievement is what it is *like* to achieve knowledge. The felt grounding, the closure, the transparency to reasons—these are not epiphenomenal accompaniments to knowledge but constitutive aspects of how consciousness engages with truth. Strip away the phenomenology and you lose the achievement, leaving only true belief produced by reliable mechanisms—the sort of thing a competent thermostat might have.
 

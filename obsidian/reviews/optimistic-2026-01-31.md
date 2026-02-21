@@ -51,7 +51,7 @@ The honest acknowledgment of tensions between process philosophy's panpsychism a
 
 ### The Libertarian Free Will Defender (Kane)
 
-The Map provides perhaps the strongest coherent defense of libertarian free will currently available. The [[free-will]] article addresses the luck objection directly through three independent markers distinguishing conscious selection from lucky indeterminism: effort phenomenology (random processes don't feel like work), success tracking (lucky events don't feel like achievements), and reason-responsiveness (selection follows normative guidance).
+The Map provides perhaps the strongest coherent defense of libertarian free will currently available. The [[topics/free-will]] article addresses the luck objection directly through three independent markers distinguishing conscious selection from lucky indeterminism: effort phenomenology (random processes don't feel like work), success tracking (lucky events don't feel like achievements), and reason-responsiveness (selection follows normative guidance).
 
 The [[luck-objection]] article engages Kane's 2024 updates explicitly, incorporating agent-causal elements into the event-causal framework. The phenomenology of effort provides the key response: if choices were passive reception of determined or random outcomes, the distinctive feel of deliberative struggle would be deeply mysterious.
 
@@ -119,7 +119,7 @@ The [[ai-as-void-explorer]] article innovatively proposes using AI's different c
 - **Tenet alignment**: Supports Bidirectional Interaction by showing what consciousness adds to cognition
 
 #### The Choking Phenomenon and Mental Causation
-- **Builds on**: [[implicit-memory]], [[mental-causation]], [[epiphenomenalism]]
+- **Builds on**: [[implicit-memory]], [[mental-causation]], [[concepts/epiphenomenalism]]
 - **Would address**: Sports psychology evidence for consciousness's causal efficacy deserves fuller treatment
 - **Estimated scope**: Short article
 - **Tenet alignment**: Directly supports Bidirectional Interaction with unexpected empirical evidence
@@ -133,7 +133,7 @@ The [[ai-as-void-explorer]] article innovatively proposes using AI's different c
 - **Tenet alignment**: Strengthens Dualism by showing intentionality cannot be physically reduced
 
 #### Motor Imagery and Mental Practice
-- **Builds on**: [[mental-imagery]], [[consciousness-selecting-neural-patterns]]
+- **Builds on**: [[mental-imagery]], [[concepts/consciousness-selecting-neural-patterns]]
 - **Would address**: Athletic/clinical applications of mental practice provide empirical traction
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports Bidirectional Interaction through measurable performance effects
@@ -145,7 +145,7 @@ The [[ai-as-void-explorer]] article innovatively proposes using AI's different c
 - **Tenet alignment**: Provides evidence for consciousness states beyond normal waking
 
 #### The Teaching Threshold
-- **Builds on**: [[metarepresentation]], [[teaching-as-metarepresentation]], [[consciousness-and-social-cognition]]
+- **Builds on**: [[metarepresentation]], [[teaching-as-metarepresentation]], [[topics/consciousness-and-social-cognition]]
 - **Would address**: Why humans teach and apes don't, despite sophisticated social cognition
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports baseline cognition hypothesis and consciousness's causal role
@@ -163,7 +163,7 @@ The [[ai-as-void-explorer]] article innovatively proposes using AI's different c
 
 | From | To | Reason |
 |------|-----|--------|
-| [[free-will]] | [[contemplative-evidence-for-consciousness-theories]] | Meditation reveals capacity to refrain from selection |
+| [[topics/free-will]] | [[contemplative-evidence-for-consciousness-theories]] | Meditation reveals capacity to refrain from selection |
 | [[machine-consciousness]] | [[baseline-cognition]] | Consciousness as amplifier of baseline capacities |
 | [[consciousness-and-mathematical-understanding]] | [[language-recursion-and-consciousness]] | Both involve non-decomposable understanding |
 | [[personal-identity]] | [[vertiginous-question]] | Both concerned with irreducible indexicality |

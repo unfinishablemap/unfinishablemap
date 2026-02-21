@@ -11,9 +11,9 @@ topics:
 concepts:
   - "[[qualia]]"
   - "[[explanatory-gap]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[phenomenal-concepts-strategy]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[attention-schema-theory]]"
   - "[[attention]]"
   - "[[introspection]]"
@@ -151,7 +151,7 @@ Illusionism would be undermined if:
 Illusionism remains a minority position. The 2020 PhilPapers survey found that only a small fraction of philosophers endorse eliminativism about phenomenal consciousness. (The survey's finding that 62% consider the hard problem genuine is less telling—many physicalists consider it genuine but solvable, which is different from accepting illusionism's dissolution of it.) Illusionism has nonetheless gained attention as physicalism's most uncompromising option—the fallback when other strategies fail.
 
 Recent work has focused on several questions:
-- Whether illusionism can be empirically distinguished from ordinary [[materialism]]
+- Whether illusionism can be empirically distinguished from ordinary [[concepts/materialism]]
 - The "hardest aspect" of the illusion problem: why the illusion resists dissolution
 - Whether illusionism is self-refuting (if our beliefs about consciousness are illusions, why trust our belief in illusionism?)
 - How illusionism handles the [[the-case-for-dualism|convergence argument]]—multiple independent routes to the same anti-materialist conclusion
@@ -180,7 +180,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - [[mysterianism]] — Cognitive closure as alternative explanation for illusionism's appeal
 - [[phenomenal-concepts-strategy]] — A less radical physicalist approach
 - [[qualia]] — The properties illusionism denies
-- [[materialism]] — The view illusionism radically defends
+- [[concepts/materialism]] — The view illusionism radically defends
 - [[hard-problem-of-consciousness]] — What illusionism claims to dissolve
 
 ### External Sources

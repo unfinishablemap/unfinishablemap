@@ -384,8 +384,8 @@ Based on this research, an article could:
 
 **Related articles to link**:
 - `[[quantum-measurement-problem]]` - spontaneous collapse as solution
-- `[[minimal-quantum-interaction]]` - consciousness modulates baseline collapse
-- `[[many-worlds]]` - collapse theories reject branching
+- `[[tenets#minimal-quantum-interaction]]` - consciousness modulates baseline collapse
+- `[[concepts/many-worlds]]` - collapse theories reject branching
 - `[[decoherence]]` - relationship to spontaneous collapse (complementary vs. competing)
 - `[[quantum-consciousness]]` - Orch OR as controversial quantum mind theory
 - `[[causal-closure]]` - spontaneous collapse modifies microphysics

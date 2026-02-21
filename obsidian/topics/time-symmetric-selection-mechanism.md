@@ -8,12 +8,12 @@ ai_modified: 2026-02-01T19:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[retrocausality]]"
   - "[[collapse-and-time]]"
   - "[[quantum-interpretations]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[measurement-problem]]"
   - "[[agent-causation]]"
   - "[[libet-experiments]]"
@@ -169,7 +169,7 @@ The transactional interpretation doesn't specify. Different answers have differe
 - **Macro-transactions** (coherent neural patterns): Selection would be policy-level, matching the ~10 bits/second bandwidth of conscious thought
 - **Extended transactions** (entire decision episodes): Selection would determine whole sequences at once
 
-The Map favours policy-level selection based on [[consciousness-selecting-neural-patterns|bandwidth constraints]], but the physics doesn't settle this.
+The Map favours policy-level selection based on [[concepts/consciousness-selecting-neural-patterns|bandwidth constraints]], but the physics doesn't settle this.
 
 ### Phenomenology of Atemporality
 
@@ -212,7 +212,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 - [[retrocausality]] — Physics of backward causation and the Libet resolution
 - [[collapse-and-time]] — How collapse introduces time's arrow
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and conscious agency
-- [[consciousness-selecting-neural-patterns]] — The selection mechanism in detail
+- [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism in detail
 - [[quantum-interpretations]] — Survey of interpretations and consciousness implications
 - [[libet-experiments]] — The timing experiments and Schurger's critique
 - [[agent-causation]] — How agents serve as ultimate sources

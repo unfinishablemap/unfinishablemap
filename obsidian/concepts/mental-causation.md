@@ -8,14 +8,14 @@ ai_modified: 2026-02-05T06:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-coupling]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[selection-laws]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[emergence]]"
   - "[[quantum-consciousness]]"
   - "[[agent-causation]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[reductionism]]"
   - "[[illusionism]]"
   - "[[interface-locality]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[pairing-problem]]"
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
@@ -62,7 +62,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary formulatio
 3. **No systematic overdetermination**: Mental causes don't overdetermine effects alongside physical causes
 4. **Non-reductionism**: Mental properties are not identical to physical properties
 
-From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([[epiphenomenalism]]), or mental properties just *are* physical properties ([[reductionism|reductionism]]). See [[reductionism#Kim's Challenge]] for the fuller argument that non-reductive views face a fundamental dilemma.
+From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([[concepts/epiphenomenalism]]), or mental properties just *are* physical properties ([[reductionism|reductionism]]). See [[reductionism#Kim's Challenge]] for the fuller argument that non-reductive views face a fundamental dilemma.
 
 The dilemma seems stark: deny that consciousness causes anything, or deny that consciousness is anything other than physics.
 
@@ -146,7 +146,7 @@ Only the first two mechanisms meet basic adequacy standards—specifying which p
 
 ### Why Not Many Worlds?
 
-If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. The Map's [[many-worlds|rejection of Many-Worlds]] is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
+If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. The Map's [[concepts/many-worlds|rejection of Many-Worlds]] is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet isn't incidental to the framework—it's required for mental causation to be possible.
 
@@ -202,13 +202,13 @@ Mental causation is central to the Map's framework.
 
 **Strong Emergence**: the Map's position can be understood as strong [[emergence|emergentism]] with a mechanism. Classical emergentists affirmed mental causation but couldn't explain it. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
 
-**Against Epiphenomenalism**: The [[epiphenomenalism|self-stultification argument]] shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. The Map takes this seriously: mental causation isn't optional.
+**Against Epiphenomenalism**: The [[concepts/epiphenomenalism|self-stultification argument]] shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. The Map takes this seriously: mental causation isn't optional.
 
 **Agent Causation**: The [[agent-causation|agent-causal framework]] provides the metaphysics. Mental causation isn't event→event but agent→event. The conscious subject exercises causal powers at quantum openings. This addresses Kim's exclusion argument by rejecting its event-causal assumptions.
 
 ## Why This Matters
 
-Mental causation bears directly on [[free-will|free will]] (consciousness must cause choices for agency to be real), moral responsibility (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge). The Map affirms mental causation because denying it undermines everything we think we know about ourselves.
+Mental causation bears directly on [[topics/free-will|free will]] (consciousness must cause choices for agency to be real), moral responsibility (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge). The Map affirms mental causation because denying it undermines everything we think we know about ourselves.
 
 ## What Would Challenge This View?
 
@@ -222,7 +222,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 **Dissociation of reports from experiences**: If manipulation could reliably make people report experiences they genuinely weren't having—accurate reports without corresponding experiences, or experiences without any reportability—this would challenge the causal connection the self-stultification argument depends on. Current evidence from blindsight and inattentional blindness show dissociations, but these are better interpreted as access consciousness/phenomenal consciousness distinctions than as breaks in the causal chain.
 
-**Confirmation of Many-Worlds**: If the [[many-worlds|many-worlds interpretation]] were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
+**Confirmation of Many-Worlds**: If the [[concepts/many-worlds|many-worlds interpretation]] were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
 
 ## Further Reading
 
@@ -235,11 +235,11 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[choking-phenomenon-mental-causation]] — Empirical evidence: conscious interference with automatized skills demonstrates causation
 - [[bidirectional-interaction]] — The Map's foundational commitment to consciousness causally influencing the physical world
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
-- [[many-worlds]] — Why the Map rejects MWI (and why it matters for mental causation)
+- [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters for mental causation)
 - [[arguments/epiphenomenalism]] — The cumulative case against epiphenomenalism (five arguments)
 - [[causal-closure]] — The principle mental causation challenges
 - [[interactionist-dualism]] — The framework that accommodates mental causation
-- [[epiphenomenalism]] — The view denying mental causation
+- [[concepts/epiphenomenalism]] — The view denying mental causation
 - [[emergence]] — Mental causation as strong emergence with mechanism
 - [[agent-causation]] — Agent causation as substance causation applied to free action
 - [[agent-causation#The Metaphysical Foundation: Substance Causation|Substance causation]] — The metaphysical thesis that substances, not events, are fundamental causal agents
@@ -247,7 +247,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[interface-locality]] — Why consciousness affects only its own brain
 - [[attention-as-interface]] — How attention implements the consciousness-physics interface
-- [[free-will]] — The implications for agency
+- [[topics/free-will]] — The implications for agency
 
 ## References
 

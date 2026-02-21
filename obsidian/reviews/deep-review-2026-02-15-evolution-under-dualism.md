@@ -83,7 +83,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 - [[causal-closure]] — physics leaving space for consciousness
 - [[filter-theory]] — the transmission/filter model grounding the interface story
 - [[agent-causation]] — metaphysics of agency
-- [[free-will]] — agent teleology and libertarian agency
+- [[topics/free-will]] — agent teleology and libertarian agency
 - [[quantum-coherence-in-neural-systems]] — evidence for neural quantum effects
 - [[quantum-decoherence-objection]] — primary scientific challenge
 - [[quantum-biology]] — biological precedents for warm quantum effects

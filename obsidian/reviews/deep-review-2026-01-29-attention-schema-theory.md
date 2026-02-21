@@ -81,7 +81,7 @@ All relevant cross-links from previous review are intact:
 - [[mental-effort]]
 - [[decoherence]]
 - [[global-workspace-theory]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 
 ## Remaining Items
 

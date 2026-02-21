@@ -204,7 +204,7 @@ Quantum binding provides a mechanism for consciousness to influence physical out
 
 ### No Many Worlds
 
-Quantum binding only explains phenomenal unity if collapse is real. In the [[many-worlds|many-worlds interpretation]], all possible bindings occur in branching universes. There is no genuine selection, no *this* binding becoming actual while others remain merely possible.
+Quantum binding only explains phenomenal unity if collapse is real. In the [[concepts/many-worlds|many-worlds interpretation]], all possible bindings occur in branching universes. There is no genuine selection, no *this* binding becoming actual while others remain merely possible.
 
 Many-worlds defenders might respond that decoherence alone—without collapse—explains why we don't observe superpositions: each branch sees a definite outcome because interference between branches is suppressed. But this "decoherence-only" interpretation faces the same problem: it cannot explain why *I* am in *this* branch rather than another. Decoherence makes branches effectively independent; it doesn't explain which branch contains my continued experience.
 

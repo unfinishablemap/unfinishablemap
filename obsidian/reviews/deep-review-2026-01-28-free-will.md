@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-28
-**Article**: [[free-will|Free Will and Determinism]]
+**Article**: [[topics/free-will|Free Will and Determinism]]
 **Previous review**: [[deep-review-2026-01-27-free-will|2026-01-27]]
 **Cross-review context**: motor-selection.md
 

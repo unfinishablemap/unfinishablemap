@@ -12,7 +12,7 @@ topics:
   - "[[phenomenal-consciousness]]"
 concepts:
   - "[[qualia]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[knowledge-argument]]"
   - "[[introspection]]"
   - "[[explanatory-gap]]"
@@ -86,11 +86,11 @@ The Map's tenets converge on pain as a central case.
 
 **Dualism** finds its most intuitive support in pain experience. The felt awfulness of suffering is the paradigm example of something that physical description leaves out. Pain is where the explanatory gap feels least like an academic puzzle and most like a chasm that no amount of neuroscience will bridge.
 
-**Bidirectional interaction** gains evidence from pain's causal role. Pain does not merely accompany tissue damage—it reorganises behaviour, redirects attention, and motivates action. If [[epiphenomenalism]] were true and pain experience were causally inert, it would be a staggering coincidence that evolution produced such elaborate phenomenal suffering to accompany injury responses that supposedly operate entirely on their own. The epiphenomenalist may reply that consciousness necessarily supervenes on the functional states evolution selects for, so no coincidence arises. But this reply concedes that pain experience *systematically tracks* biological significance—the graded awfulness of pain matches the severity of tissue damage with remarkable precision. If supervenience explains the tracking, the supervenience relation itself demands explanation: why should these particular physical configurations give rise to these particular phenomenal qualities? The Map holds that the simplest account is causal: the hurtfulness *matters* because it drives the response.
+**Bidirectional interaction** gains evidence from pain's causal role. Pain does not merely accompany tissue damage—it reorganises behaviour, redirects attention, and motivates action. If [[concepts/epiphenomenalism]] were true and pain experience were causally inert, it would be a staggering coincidence that evolution produced such elaborate phenomenal suffering to accompany injury responses that supposedly operate entirely on their own. The epiphenomenalist may reply that consciousness necessarily supervenes on the functional states evolution selects for, so no coincidence arises. But this reply concedes that pain experience *systematically tracks* biological significance—the graded awfulness of pain matches the severity of tissue damage with remarkable precision. If supervenience explains the tracking, the supervenience relation itself demands explanation: why should these particular physical configurations give rise to these particular phenomenal qualities? The Map holds that the simplest account is causal: the hurtfulness *matters* because it drives the response.
 
 **Minimal quantum interaction** connects to pain through the attention structure discussed above. Pain's phenomenal urgency—its capacity to commandeer consciousness and restructure behaviour—may represent the channel through which non-physical influence operates at its most intense, while remaining minimal at the quantum level. If consciousness biases physical outcomes through the smallest possible intervention, pain illustrates what that intervention looks like from the inside: overwhelming and total.
 
-**No Many Worlds** matters because the evolutionary argument against [[epiphenomenalism]] depends on it. Under the Many-Worlds Interpretation, every possible configuration is realised across branches, and the apparent coincidence of phenomenal suffering tracking biological damage dissolves—we simply find ourselves in branches where both obtain. The Map's rejection of MWI preserves the force of the evolutionary argument: in a single-history universe, the systematic alignment of suffering with survival-relevant injury demands causal explanation, and epiphenomenalism cannot provide one.
+**No Many Worlds** matters because the evolutionary argument against [[concepts/epiphenomenalism]] depends on it. Under the Many-Worlds Interpretation, every possible configuration is realised across branches, and the apparent coincidence of phenomenal suffering tracking biological damage dissolves—we simply find ourselves in branches where both obtain. The Map's rejection of MWI preserves the force of the evolutionary argument: in a single-history universe, the systematic alignment of suffering with survival-relevant injury demands causal explanation, and epiphenomenalism cannot provide one.
 
 **Occam's Razor has limits** applies directly. The materialist claims that explaining pain requires only neural mechanisms—no phenomenal residue. This appears simpler. But apparent simplicity is misleading when the explanandum is the very thing being explained away. Reducing pain to C-fibre firing achieves simplicity by changing the subject. The phenomenon to be explained is suffering, and no degree of neural detail addresses why anything suffers at all.
 
@@ -103,7 +103,7 @@ The Map's tenets converge on pain as a central case.
 - [[phenomenal-concepts-strategy]]
 - [[explanatory-gap]]
 - [[introspection]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 - [[inverted-qualia]]
 - [[philosophical-zombies]]
 - [[phenomenal-conservatism-and-introspective-evidence]]

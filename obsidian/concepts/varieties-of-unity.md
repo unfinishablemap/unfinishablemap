@@ -149,7 +149,7 @@ The [[tenets#^minimal-quantum-interaction|quantum interaction tenet]] gains supp
 
 ### No Many Worlds
 
-Subject unity matters for rejecting [[many-worlds|many-worlds]]. MWI says "you" exist in all branches, but subject unity insists *this* subject has *this* experience. When I report all my experiences belong to one subject, I'm reporting a phenomenological fact, not that some physical system exhibits functional coherence. [[haecceity|Indexical identity]] across time makes this non-trivial—if all branches are equally real and all copies equally "me," first-person unity claims become systematically false. But they seem true with maximal certainty.
+Subject unity matters for rejecting [[concepts/many-worlds|many-worlds]]. MWI says "you" exist in all branches, but subject unity insists *this* subject has *this* experience. When I report all my experiences belong to one subject, I'm reporting a phenomenological fact, not that some physical system exhibits functional coherence. [[haecceity|Indexical identity]] across time makes this non-trivial—if all branches are equally real and all copies equally "me," first-person unity claims become systematically false. But they seem true with maximal certainty.
 
 ### Bidirectional Interaction
 

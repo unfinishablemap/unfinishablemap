@@ -51,12 +51,12 @@ last_curated: null
 - Strengthened zombie argument with engagement of the functionalist reply and its epiphenomenalist consequences
 - Added References section with four citations supporting factual claims
 - Added [[mysterianism]] to Further Reading and frontmatter concepts
-- Added [[panpsychism]] and [[epiphenomenalism]] to frontmatter concepts
+- Added [[panpsychism]] and [[concepts/epiphenomenalism]] to frontmatter concepts
 
 ### Cross-links Added
 - [[mysterianism]]
 - [[panpsychism]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 
 ## Remaining Items
 

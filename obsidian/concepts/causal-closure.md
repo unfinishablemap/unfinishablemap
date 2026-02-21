@@ -8,14 +8,14 @@ ai_modified: 2026-02-15T15:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[luck-objection]]"
   - "[[mysterianism]]"
   - "[[explanatory-gap]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[interactionist-dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[quantum-consciousness]]"
   - "[[stapp-quantum-mind]]"
   - "[[emergence]]"
@@ -63,7 +63,7 @@ Jaegwon Kim's exclusion argument deploys causal closure against non-reductive ph
 3. Mental causes don't overdetermine physical events alongside physical causes (no systematic overdetermination)
 4. Therefore, mental causes just *are* physical causes (identity theory)
 
-For dualists who reject identity, the argument forces a choice: deny that mental events cause anything ([[epiphenomenalism]]), or deny causal closure.
+For dualists who reject identity, the argument forces a choice: deny that mental events cause anything ([[concepts/epiphenomenalism]]), or deny causal closure.
 
 The Map denies causal closure.
 
@@ -209,7 +209,7 @@ This argument is contested but highlights reflexivity: if the belief in causal c
 
 ## Causal Closure and Free Will
 
-The connection to [[free-will]] is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference—the outcome was physically determined (or randomly fluctuated within fixed probabilities).
+The connection to [[topics/free-will]] is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference—the outcome was physically determined (or randomly fluctuated within fixed probabilities).
 
 The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this: free will emerges at indeterministic moments where the agent's effort influences which outcome occurs. The Map provides the *mechanism* Kane leaves underspecified.
 
@@ -225,7 +225,7 @@ This rejection is not arbitrary but principled:
 
 2. **Consciousness reporting** shows that mental states influence physical behavior. When you report seeing red, information about your experience enters your verbal behavior. This requires mental→physical causation. Physicalists must either deny the information is about phenomenal experience (implausible—what else are you reporting?) or explain how phenomenal experience causes the report (conceding mental causation).
 
-3. **Self-stultification** shows that denying mental causation undermines rational thought. If consciousness causes nothing, our beliefs about consciousness are causally disconnected from actual experiences. If you accept [[epiphenomenalism]]—the view that causal closure forces—then your belief in epiphenomenalism isn't caused by the experiences that supposedly motivate it. The belief and the experiences are causally unrelated. This makes epiphenomenalism self-undermining: if true, we have no reason to believe it (since reasons are mental states that would have to cause belief-formation to justify beliefs).
+3. **Self-stultification** shows that denying mental causation undermines rational thought. If consciousness causes nothing, our beliefs about consciousness are causally disconnected from actual experiences. If you accept [[concepts/epiphenomenalism]]—the view that causal closure forces—then your belief in epiphenomenalism isn't caused by the experiences that supposedly motivate it. The belief and the experiences are causally unrelated. This makes epiphenomenalism self-undermining: if true, we have no reason to believe it (since reasons are mental states that would have to cause belief-formation to justify beliefs).
 
 The Map doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open empirical question addressed by [[quantum-consciousness|quantum consciousness research]] and detailed in [[stapp-quantum-mind|Stapp's quantum Zeno framework]]. But it holds that such interface is possible because causal closure fails where physics is fundamentally indeterminate.
 
@@ -257,10 +257,10 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 - [[emergence]] — The emergentist response to causal closure
 - [[interactionist-dualism]] — The position that mental causation enables
 - [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction; includes decoherence response
-- [[epiphenomenalism]] — The view accepting closure forces
+- [[concepts/epiphenomenalism]] — The view accepting closure forces
 - [[mysterianism|cognitive closure]] — McGinn's epistemic closure; distinct from but related to observational closure
-- [[free-will]] — Implications for agency
-- [[materialism]] — The worldview closure supports
+- [[topics/free-will]] — Implications for agency
+- [[concepts/materialism]] — The worldview closure supports
 - [[explanatory-gap]] — Why physical knowledge leaves phenomenal experience unexplained
 
 ## References

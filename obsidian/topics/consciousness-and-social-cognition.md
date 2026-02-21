@@ -13,7 +13,7 @@ topics:
   - "[[social-construction-of-self-vs-phenomenal-self]]"
   - "[[emotional-consciousness]]"
 concepts:
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
   - "[[theory-of-mind]]"
   - "[[intersubjectivity]]"
   - "[[problem-of-other-minds]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[jourdain-hypothesis]]"
   - "[[phenomenal-intentionality]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-moral-experience]]"
@@ -56,7 +56,7 @@ These are not mutually exclusive. The Map's position is that working memory and 
 
 ## Metarepresentation and the Social Threshold
 
-The concept page on [[consciousness-and-social-cognition|consciousness and social cognition]] develops the technical argument: [[metarepresentation]] — representing mental states *as* mental states — marks the threshold where consciousness becomes necessary. This section draws out what that threshold means for social life.
+The concept page on [[topics/consciousness-and-social-cognition|consciousness and social cognition]] develops the technical argument: [[metarepresentation]] — representing mental states *as* mental states — marks the threshold where consciousness becomes necessary. This section draws out what that threshold means for social life.
 
 Consider the difference between two kinds of social competence:
 
@@ -118,13 +118,13 @@ The claim that consciousness is constitutive of social cognition would be seriou
 
 The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. Social cognition provides an arena where this irreducibility has practical consequences. The difference between understanding another mind and processing information about behaviour is not merely semantic — it grounds the possibility of moral communities, institutional reality, and genuine intersubjective connection. If consciousness were reducible to function, the difference would collapse, and with it the distinction between a society of persons and a network of sophisticated automata.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Social cognition provides supporting evidence: the human capacities that consciousness apparently enables — recursive mindreading, shared intentionality, moral accountability — have real-world effects. Institutions exist, cultures accumulate, moral systems operate. If consciousness were [[epiphenomenalism|epiphenomenal]], the systematic correlation between expanded consciousness and expanded social complexity across species would be coincidental. The Map finds this implausible.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Social cognition provides supporting evidence: the human capacities that consciousness apparently enables — recursive mindreading, shared intentionality, moral accountability — have real-world effects. Institutions exist, cultures accumulate, moral systems operate. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the systematic correlation between expanded consciousness and expanded social complexity across species would be coincidental. The Map finds this implausible.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. The simpler hypothesis — social cognition is sophisticated information processing, consciousness is incidental — faces a challenge: across the range of social complexity observed in primates and other social species, increasing social sophistication tracks with increasing neural architecture associated with phenomenal consciousness. This is suggestive rather than decisive — the sample is limited and confounds abound — but dismissing the pattern on grounds of parsimony requires more confidence in our understanding than the evidence warrants.
 
 ## Further Reading
 
-- [[consciousness-and-social-cognition|Consciousness and Social Cognition (concept)]] — Technical treatment of metarepresentation, theory of mind levels, and the human-ape gap
+- [[topics/consciousness-and-social-cognition|Consciousness and Social Cognition (concept)]] — Technical treatment of metarepresentation, theory of mind levels, and the human-ape gap
 - [[theory-of-mind]] — The levels of mental state attribution and where consciousness enters
 - [[intersubjectivity]] — The shared space between minds and how first-person experience can be communicated
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires the phenomenal self to already be in place

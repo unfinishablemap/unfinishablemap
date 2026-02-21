@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-05T03:24:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-motor-quantum-interface]]"
@@ -208,7 +208,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [[dopamine-selection-interface]] — Technical details on dopamine's role in selection
 - [[motor-selection]] — Motor selection mechanisms
 - [[voluntary-attention]] — The neural basis of willed attention
-- [[free-will]] — The broader philosophical question
+- [[topics/free-will]] — The broader philosophical question
 - [[mental-effort]] — Why selection feels effortful
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
 

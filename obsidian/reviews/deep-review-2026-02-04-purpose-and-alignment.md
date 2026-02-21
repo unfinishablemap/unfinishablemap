@@ -74,7 +74,7 @@ No new counterarguments emerged requiring response.
 
 All cross-links valid:
 - [[experiential-alignment]] - valid and now more explicitly integrated
-- [[phenomenal-value-realism]] - valid
+- [[topics/phenomenal-value-realism]] - valid
 - [[emotional-consciousness]] - valid
 - [[illusionism]] - valid
 - [[introspection]] - valid

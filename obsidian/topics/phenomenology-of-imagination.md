@@ -8,7 +8,7 @@ ai_modified: 2026-02-18T17:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[creativity-consciousness-and-novel-thought]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
   - "[[emotional-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[agent-causation]]"
   - "[[mysterianism]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-recursive-thought]]"
@@ -61,7 +61,7 @@ Imagined experience differs from perceived experience along several phenomenal d
 
 ## Imagination and the Limits of Functionalism
 
-The phenomenology of imagination creates problems for [[functionalism]]. Functionalist accounts define mental states by their causal roles: imagination is whatever plays the functional role of generating novel representations for planning, creative problem-solving, or counterfactual evaluation. Computational theories of imagery (Kosslyn, 1994) and predictive processing accounts explain imagination as top-down prediction operating without sensory constraint. These frameworks capture much of imagination's functional structure. What they miss are the phenomenal facts.
+The phenomenology of imagination creates problems for [[concepts/functionalism]]. Functionalist accounts define mental states by their causal roles: imagination is whatever plays the functional role of generating novel representations for planning, creative problem-solving, or counterfactual evaluation. Computational theories of imagery (Kosslyn, 1994) and predictive processing accounts explain imagination as top-down prediction operating without sensory constraint. These frameworks capture much of imagination's functional structure. What they miss are the phenomenal facts.
 
 Consider the difference between imagining a sunset and imagining a mathematical proof. Both involve generating novel content. Both can serve planning functions. Yet the phenomenal character differs radically—one is saturated with quasi-visual [[qualia]], the other is an instance of [[cognitive-phenomenology]] that may involve no imagery at all. Aphantasics who cannot voluntarily generate visual imagery can still imagine scenarios, plan, and create—but their imagination has a fundamentally different phenomenal texture. If two states serve identical functional roles yet feel completely different, phenomenal character is not captured by functional role.
 
@@ -73,7 +73,7 @@ The deepest philosophical significance of imagination lies in its capacity for [
 
 When you imagine what it would be like to live in a different era, you do not merely compute facts about that era. You adopt a perspective within the imagined scenario. You feel the contours of an alternative existence from the inside. This capacity to inhabit non-actualities from a first-person perspective is central to moral reasoning (imagining another's suffering), to planning (inhabiting a future scenario to evaluate it), and to creativity (dwelling in a possibility space where novel combinations can be experienced rather than merely calculated).
 
-This capacity also bears on [[free-will]]. Genuine deliberation requires more than computing outcomes—it requires *inhabiting* alternatives from the inside, feeling their contours well enough to choose between them. Imagination provides the experiential substrate for the [[phenomenology-of-choice|open alternatives]] that meaningful choice requires.
+This capacity also bears on [[topics/free-will]]. Genuine deliberation requires more than computing outcomes—it requires *inhabiting* alternatives from the inside, feeling their contours well enough to choose between them. Imagination provides the experiential substrate for the [[phenomenology-of-choice|open alternatives]] that meaningful choice requires.
 
 This phenomenal inhabitation distinguishes conscious imagination from computational simulation. A weather model simulates future states without inhabiting them. An AI generates novel text without experiencing the semantic landscape from within. The conscious imaginer does something these systems do not: they bring [[phenomenal-consciousness]] to bear on non-actual content, experiencing what-if from the inside. The Map's [[consciousness-and-counterfactual-reasoning|treatment of counterfactual reasoning]] argues that representing non-actuality requires irreducible consciousness precisely because non-actual scenarios have no external referent to anchor representation—the mind must generate both the content and its experiential framework.
 

@@ -8,7 +8,7 @@ ai_modified: 2026-02-14T04:38:00+00:00
 last_deep_review: 2026-01-30T14:14:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[argument-from-reason]]"
   - "[[time-collapse-and-agency]]"
 concepts:
@@ -155,7 +155,7 @@ This article draws on all five tenets. **[[tenets#^dualism|Dualism]]**: Agent ca
 ## Source Articles
 
 This apex article synthesizes:
-- [[free-will|Free Will and Determinism]] — The comprehensive treatment of libertarian free will, quantum selection, and the Map's position
+- [[topics/free-will|Free Will and Determinism]] — The comprehensive treatment of libertarian free will, quantum selection, and the Map's position
 - [[agent-causation|Agent Causation]] — The metaphysics of agents as irreducible sources of action
 - [[mental-causation|Mental Causation]] — How consciousness causes physical effects through quantum selection
 - [[argument-from-reason|The Argument from Reason]] — The self-defeat of physicalism and non-phenomenological route to mental causation

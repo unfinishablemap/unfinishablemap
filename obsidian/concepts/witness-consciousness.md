@@ -8,7 +8,7 @@ ai_modified: 2026-02-04T14:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[the-unobservable-self]]"
   - "[[buddhism-and-dualism]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[decoherence]]"
   - "[[haecceity]]"
   - "[[mysterianism]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
@@ -148,7 +148,7 @@ The Map's position would face serious difficulty if: (1) contemplative tradition
 
 **The Regress Objection**: If the witness observes thoughts, what observes the witness? *Response*: The witness is self-luminous (*svayam-prakasha*)—it is the knowing itself. Just as light illuminates without needing a second light, awareness is aware without requiring awareness of that awareness.
 
-**The Epiphenomenalism Worry**: If the witness only observes, isn't it causally inert? *Response*: The witness mode is one mode among others. Consciousness can witness without intervening, but it need not always do so. Neither mode alone exhausts what consciousness is. Indeed, the capacity to refrain from acting—to witness rather than select—is itself significant for [[free-will|libertarian free will]]. The ability to hold back, to observe without intervention, is as important to genuine agency as the ability to initiate action.
+**The Epiphenomenalism Worry**: If the witness only observes, isn't it causally inert? *Response*: The witness mode is one mode among others. Consciousness can witness without intervening, but it need not always do so. Neither mode alone exhausts what consciousness is. Indeed, the capacity to refrain from acting—to witness rather than select—is itself significant for [[topics/free-will|libertarian free will]]. The ability to hold back, to observe without intervention, is as important to genuine agency as the ability to initiate action.
 
 **The Reification Concern**: Making the witness an identity recreates the ego. *Response*: The distinction is between *being* a witness and *identifying as* a witness. Witness consciousness is not identity but structure—the irreducible subject-side of experience.
 

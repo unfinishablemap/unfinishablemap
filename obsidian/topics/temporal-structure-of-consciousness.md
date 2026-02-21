@@ -8,7 +8,7 @@ ai_modified: 2026-02-04T15:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[ai-consciousness]]"
 concepts:
   - "[[temporal-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[retrocausality]]"
   - "[[integrated-information-theory]]"
   - "[[global-workspace-theory]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
@@ -178,7 +178,7 @@ The temporal structure of consciousness connects to all five [[tenets]]:
 - [[duration]] — Bergson's durée and qualitative lived time
 - [[specious-present]] — The experienced duration of the present moment
 - [[collapse-and-time]] — How quantum collapse may constitute time's arrow
-- [[free-will]] — Temporal agency and the determination question
+- [[topics/free-will]] — Temporal agency and the determination question
 - [[hard-problem-of-consciousness]] — The broader challenge of explaining experience
 - [[phenomenology-of-choice]] — What it's like to choose, including temporal aspects
 - [[neurophenomenology]] — Integrating first-person methods with neuroscience

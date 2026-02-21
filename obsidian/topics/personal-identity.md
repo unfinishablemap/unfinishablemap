@@ -8,14 +8,14 @@ ai_modified: 2026-02-17T05:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[qualia]]"
   - "[[death-and-consciousness]]"
   - "[[split-brain-consciousness]]"
   - "[[self-and-consciousness]]"
   - "[[autonoetic-consciousness]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[parfit-reductionism]]"
   - "[[haecceity]]"
   - "[[illusionism]]"
@@ -69,7 +69,7 @@ The Map cannot accept Parfit's reductionism. The tenets commit us to a stronger 
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the Many-Worlds interpretation of quantum mechanics partly because it creates "unanswerable indexical questions: why am I *this* instance and not another?" This presupposes that indexical identity is meaningful—that there's a real question about which conscious being you are.
 
-The [[many-worlds|argument against many-worlds]] develops this concern formally. When a quantum measurement occurs, many-worlds says you split into branches—one where you see spin-up, another spin-down. But you only experience one outcome. Which you? The many-worlds theorist dissolves the question: both branches are equally real, both contain persons derived from you, and there is no fact about which is "really" you.
+The [[concepts/many-worlds|argument against many-worlds]] develops this concern formally. When a quantum measurement occurs, many-worlds says you split into branches—one where you see spin-up, another spin-down. But you only experience one outcome. Which you? The many-worlds theorist dissolves the question: both branches are equally real, both contain persons derived from you, and there is no fact about which is "really" you.
 
 This dissolution is what the Map rejects. Before measurement, one you; after, many-worlds posits two equally real continuations. Yet you find yourself in exactly one. The experience of being *this* one rather than *that* one seems factual—but many-worlds says it's not. If identity fragments across infinite branches with no answer about which is "really" you, identity becomes incoherent.
 
@@ -207,7 +207,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 - [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through split-brain division, anesthesia, altered states, and death
 - [[parfit-reductionism]] — The Map's detailed critique of Parfit's view
-- [[many-worlds]] — Why the Map rejects many-worlds (the indexical problem is central)
+- [[concepts/many-worlds]] — Why the Map rejects many-worlds (the indexical problem is central)
 - [[haecceity]] — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
 - [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
 - [[autonoetic-consciousness]] — Mental time travel and the temporal self

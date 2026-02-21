@@ -68,7 +68,7 @@ None. Article has reached stable maturity. Previous reviews (2026-01-25, 2026-01
 - [[haecceity]] — appropriate, central to argument
 - [[quantum-probability-consciousness]] — companion concept article
 - [[quantum-measurement-interpretations-beyond-mwi]] — interpretation survey
-- [[free-will]] — libertarian free will connection in Further Reading
+- [[topics/free-will]] — libertarian free will connection in Further Reading
 - All frontmatter links appropriate
 
 ## Word Count

@@ -68,7 +68,7 @@ last_curated: null
 - [[agent-causation]] (frontmatter and Further Reading)
 - [[temporal-consciousness]] (frontmatter and Further Reading)
 - [[time-collapse-and-agency]] (Further Reading, inline)
-- [[many-worlds]] (Further Reading)
+- [[concepts/many-worlds]] (Further Reading)
 - [[mental-effort]] (inline in falsifiability)
 
 ## Remaining Items

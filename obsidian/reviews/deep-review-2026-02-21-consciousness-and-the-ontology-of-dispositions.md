@@ -63,14 +63,14 @@ None that rise to high priority. All factual claims about Bird, Martin, Heil, Sh
 ### Enhancements Made
 
 - Added [[explanatory-gap]] cross-link in the pandispositionalism section, connecting the dispositional dilemma to the broader explanatory gap literature
-- Added [[free-will]] cross-link in Further Reading, connecting dispositional powers of consciousness to libertarian agency
+- Added [[topics/free-will]] cross-link in Further Reading, connecting dispositional powers of consciousness to libertarian agency
 - Added brief physicalist contestation of knowledge argument to strengthen intellectual honesty
 - Clarified Bird extrapolation to psychophysical laws as the Map's own move
 
 ### Cross-links Added
 
 - [[explanatory-gap]] — in pandispositionalism dilemma
-- [[free-will]] — in Further Reading and related_articles
+- [[topics/free-will]] — in Further Reading and related_articles
 
 ## Remaining Items
 

@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-09
-**Article**: [[phenomenal-value-realism|Phenomenal Value Realism]]
+**Article**: [[topics/phenomenal-value-realism|Phenomenal Value Realism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -76,7 +76,7 @@ last_curated: null
 ### Cross-links Added
 
 - [[philosophical-zombies]] — in "Why Dualism Matters Here" section
-- [[free-will]] — in "Beyond Hedonism" (agency discussion)
+- [[topics/free-will]] — in "Beyond Hedonism" (agency discussion)
 - [[agent-causation]] — in "Beyond Hedonism" (agency discussion)
 - [[phenomenology-of-understanding]] — in "Beyond Hedonism" (understanding discussion)
 - [[contemplative-evidence-for-consciousness-theories]] — in "The Hardest Objection" (contemplative response)

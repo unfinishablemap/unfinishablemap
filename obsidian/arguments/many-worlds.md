@@ -140,7 +140,7 @@ Many-worlds proponents sometimes suggest the interpretation dissolves the measur
 
 Neither question was "why do we experience outcomes?" The hard problem remains untouched. Indeed, many-worlds sharpens it: if there are infinitely many versions of you having infinitely many experiences, why is your experience this one? The unity of consciousness—your experience of being a single subject—finds no explanation in a theory that fragments subjects across branches.
 
-The Map's framework proposes that consciousness plays a role at quantum measurement—selecting among outcomes physics leaves undetermined. Many-worlds eliminates this role entirely: there is nothing for consciousness to select because everything happens. But if consciousness has no role in physics, how does it report on physics? The [[epiphenomenalism]] worry resurfaces in new form.
+The Map's framework proposes that consciousness plays a role at quantum measurement—selecting among outcomes physics leaves undetermined. Many-worlds eliminates this role entirely: there is nothing for consciousness to select because everything happens. But if consciousness has no role in physics, how does it report on physics? The [[concepts/epiphenomenalism]] worry resurfaces in new form.
 
 ## The Illusionist Challenge
 

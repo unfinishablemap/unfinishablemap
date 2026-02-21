@@ -7,9 +7,9 @@ human_modified:
 ai_modified: 2026-02-20T09:21:00+00:00
 draft: false
 topics:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[ethics-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[moral-phenomenology]]"
@@ -129,9 +129,9 @@ If consciousness is irreducible, as the Map holds, then normative integration as
 - [[consciousness-and-normative-authority]] — How consciousness makes normative claims authoritative
 - [[phenomenology-of-moral-experience]] — Moral experience from the inside
 - [[phenomenology-of-deliberation-under-uncertainty]] — The phenomenology of deliberative processes
-- [[phenomenal-value-realism]] — Value as constituted by conscious experience
+- [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
 - [[normative-void]] — Where normative perception reaches its limits
-- [[free-will]] — Genuine choice at the site of normative conflict
+- [[topics/free-will]] — Genuine choice at the site of normative conflict
 
 ## References
 

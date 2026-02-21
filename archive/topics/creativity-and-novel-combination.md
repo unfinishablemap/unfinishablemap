@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-01T18:05:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[animal-consciousness]]"
 concepts:
@@ -201,7 +201,7 @@ None of these conditions currently obtains.
 - [[working-memory]] — The workspace where combination occurs
 - [[global-workspace-theory]] — Broadcasting account of conscious access
 - [[duration]] — Bergson's lived time as creative becoming
-- [[free-will]] — How creative agency connects to libertarian free will
+- [[topics/free-will]] — How creative agency connects to libertarian free will
 - [[creativity-void]] — Why the creative process is phenomenologically hidden
 
 ## References

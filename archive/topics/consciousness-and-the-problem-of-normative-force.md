@@ -7,21 +7,21 @@ human_modified:
 ai_modified: 2026-02-18T07:02:00+00:00
 draft: false
 topics:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-and-normative-authority]]"
   - "[[ethics-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[moral-phenomenology]]"
   - "[[consciousness-value-connection]]"
   - "[[qualia]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[agent-causation]]"
 related_articles:
   - "[[normative-void]]"
   - "[[phenomenology-of-moral-experience]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[moral-responsibility]]"
   - "[[moral-perception]]"
 ai_contribution: 100
@@ -94,13 +94,13 @@ Compare this with a surveillance system that detects a child in danger. It can "
 
 Pain and pleasure provide clear cases of felt normativity, but normative force extends beyond hedonic experience. The felt weight of a broken promise, the phenomenal pull of an unfinished argument, the experiential demand of beauty — these carry normative force that is not straightforwardly hedonic.
 
-The Map's [[phenomenal-value-realism#Beyond Hedonism|phenomenal value pluralism]] addresses this. Multiple features of experience — meaning, agency, understanding, connection, aesthetic quality — carry intrinsic normative force. The felt significance of meaningful work is not reducible to its pleasantness. The phenomenal character of genuine understanding includes a normative dimension: truth *matters*, and you experience it mattering.
+The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value pluralism]] addresses this. Multiple features of experience — meaning, agency, understanding, connection, aesthetic quality — carry intrinsic normative force. The felt significance of meaningful work is not reducible to its pleasantness. The phenomenal character of genuine understanding includes a normative dimension: truth *matters*, and you experience it mattering.
 
 This pluralism faces a challenge: if normative force is built into many kinds of experience, what unifies them? The answer may be that consciousness itself — the condition of there being something it is like — is what makes any experience capable of carrying normative weight. Normative force is a property of experience as such, diversified across hedonic, epistemic, aesthetic, and moral domains but unified by requiring a conscious subject.
 
 ## The Epiphenomenalist Threat
 
-If normative force lives in consciousness, consciousness must be able to *do something* about it. Pain's demand for avoidance is empty if conscious experience cannot influence behaviour. This is why [[epiphenomenalism]] — the view that consciousness is causally inert — threatens normative force directly.
+If normative force lives in consciousness, consciousness must be able to *do something* about it. Pain's demand for avoidance is empty if conscious experience cannot influence behaviour. This is why [[concepts/epiphenomenalism]] — the view that consciousness is causally inert — threatens normative force directly.
 
 An epiphenomenal consciousness could experience pain's badness but could not act on it. The felt demand would be entirely disconnected from behaviour. You would avoid pain, but not because it felt bad — your physical brain states would handle avoidance independently, with the phenomenal demand as an idle accompaniment.
 
@@ -142,7 +142,7 @@ The consciousness-based account of normative force would face pressure if:
 
 - [[consciousness-and-normative-authority]] — How consciousness grounds normative authority across domains
 - [[phenomenal-normativity]] — Normativity as intrinsic to phenomenal character
-- [[phenomenal-value-realism]] — Intrinsic value as grounded in conscious experience
+- [[topics/phenomenal-value-realism]] — Intrinsic value as grounded in conscious experience
 - [[normative-void]] — Cognitive limits on moral knowledge
 - [[phenomenology-of-moral-experience]] — What moral perception feels like
 - [[moral-responsibility]] — How agent causation grounds desert

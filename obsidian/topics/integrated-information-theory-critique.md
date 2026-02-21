@@ -12,12 +12,12 @@ topics:
 concepts:
   - "[[integrated-information-theory]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[panpsychism]]"
   - "[[temporal-consciousness]]"
   - "[[explanatory-gap]]"
   - "[[causal-closure]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-structure-of-consciousness]]"
@@ -36,7 +36,7 @@ IIT's central claim is an identity thesis: consciousness *is* integrated informa
 
 If consciousness is identical to certain physical arrangements, then consciousness doesn't *do* anything over and above what physics does. The integrated information just *is* the conscious experience; it doesn't additionally influence subsequent states. Your feeling of choosing is real—it's part of the phi-structure—but the choice itself is determined by the same causal chains that would operate in any purely physical system.
 
-This is [[epiphenomenalism]] by another name. Classical epiphenomenalism says consciousness is caused by but doesn't cause physical events. IIT says consciousness *is* certain physical events. Either way, consciousness doesn't influence what happens next except through its physical constitution—which means physics alone does all the causal work.
+This is [[concepts/epiphenomenalism]] by another name. Classical epiphenomenalism says consciousness is caused by but doesn't cause physical events. IIT says consciousness *is* certain physical events. Either way, consciousness doesn't influence what happens next except through its physical constitution—which means physics alone does all the causal work.
 
 ### Does Quantum Selection Escape This Charge?
 
@@ -84,7 +84,7 @@ These objections shouldn't obscure IIT's genuine contributions:
 
 **Taking phenomenology seriously.** IIT begins with what experience is like—unified, specific, definite—and asks what physical systems could support such experience. This is the right methodological direction, moving from the undeniable (experience) to the theoretical (physical mechanisms).
 
-**Rejecting [[functionalism]].** IIT holds that substrate matters. Two systems performing identical functions might have different consciousness depending on architecture. This aligns with the Map's view that consciousness isn't computation.
+**Rejecting [[concepts/functionalism]].** IIT holds that substrate matters. Two systems performing identical functions might have different consciousness depending on architecture. This aligns with the Map's view that consciousness isn't computation.
 
 **Embracing counterintuitive implications.** Rather than retreating from [[panpsychism]], Tononi accepts it. This intellectual honesty is admirable even if the conclusion is wrong. Theories that bend to intuition at every point often lack the courage to follow their logic.
 
@@ -112,7 +112,7 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 ## Further Reading
 
 - [[integrated-information-theory]] — The concept page explaining IIT in detail
-- [[epiphenomenalism]] — The passive consciousness view IIT resembles
+- [[concepts/epiphenomenalism]] — The passive consciousness view IIT resembles
 - [[interactionist-dualism]] — The Map's alternative framework
 - [[temporal-structure-of-consciousness]] — Why temporal consciousness matters
 - [[hard-problem-of-consciousness]] — The puzzle both IIT and the Map address

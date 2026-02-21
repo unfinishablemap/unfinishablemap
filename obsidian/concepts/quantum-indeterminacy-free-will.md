@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-01-29T12:00:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[quantum-consciousness]]"
@@ -25,7 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-mechanics-free-will-2026-01-16]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -178,7 +178,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 ## Many-Worlds: The Alternative Rejected
 
-The [[many-worlds|many-worlds interpretation]] offers escape from the measurement problem by denying collapse occurs at all. Every quantum possibility actualizes in branching universes; we find ourselves in one branch.
+The [[concepts/many-worlds|many-worlds interpretation]] offers escape from the measurement problem by denying collapse occurs at all. Every quantum possibility actualizes in branching universes; we find ourselves in one branch.
 
 The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this for several reasons:
 
@@ -233,7 +233,7 @@ The framework is falsifiable. Findings that would undermine it:
 
 **Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for dualism—and thus for consciousness as a separate causal factor—would weaken.
 
-**Many-worlds empirical confirmation**: If the [[many-worlds|many-worlds interpretation]] were empirically confirmed, there would be no collapse for consciousness to influence—all outcomes occur in branching universes. The Map's [[tenets#^no-many-worlds|No Many Worlds]] rejection is foundational to this picture.
+**Many-worlds empirical confirmation**: If the [[concepts/many-worlds|many-worlds interpretation]] were empirically confirmed, there would be no collapse for consciousness to influence—all outcomes occur in branching universes. The Map's [[tenets#^no-many-worlds|No Many Worlds]] rejection is foundational to this picture.
 
 **Selection indistinguishable from randomness**: If choices at quantum indeterminacies were genuinely random rather than guided by consciousness—showing no correlation with reasons, values, or phenomenal effort—the selection model collapses into the luck objection it claims to escape.
 
@@ -266,7 +266,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 
 ## Further Reading
 
-- [[free-will]] — The broader free will question and the Map's position
+- [[topics/free-will]] — The broader free will question and the Map's position
 - [[luck-objection]] — Detailed treatment of the central challenge to libertarian free will
 - [[agent-causation]] — Agent vs event causation and why the Map's framework is agent-causal
 - [[quantum-consciousness]] — Specific quantum mechanisms (Stapp, Penrose-Hameroff)
@@ -274,7 +274,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 - [[mental-effort]] — The phenomenology supporting genuine causal engagement
 - [[causal-closure]] — How quantum indeterminacy challenges physical completeness
 - [[retrocausality]] — Atemporal selection and the timing problem resolution
-- [[many-worlds]] — Why the Map rejects the many-worlds interpretation
+- [[concepts/many-worlds]] — Why the Map rejects the many-worlds interpretation
 - [[motor-selection]] — Motor control as a second selection domain
 - [[libet-experiments]] — The Libet experiments and their reinterpretation
 - [[illusionism]] — The eliminativist challenge and its self-undermining character

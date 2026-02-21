@@ -8,10 +8,10 @@ ai_modified: 2026-01-31T23:08:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[qualia]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[moral-responsibility]]"
   - "[[buddhism-and-dualism]]"
   - "[[personal-identity]]"
@@ -65,7 +65,7 @@ The recognition that life lacks cosmic meaning admits of different responses.
 
 **Optimistic nihilism** accepts the absence of cosmic meaning but treats this as freedom rather than tragedy. If nothing matters inherently, then nothing *prevents* us from mattering to ourselves. The universe's indifference is not an insult but an open invitation.
 
-This optimistic response is close to existentialism—though existentialists typically resist the "nihilist" label. Crucially, optimistic nihilism requires [[free-will]]: if choices are illusory or determined, the freedom it celebrates would itself be a comforting fiction.
+This optimistic response is close to existentialism—though existentialists typically resist the "nihilist" label. Crucially, optimistic nihilism requires [[topics/free-will]]: if choices are illusory or determined, the freedom it celebrates would itself be a comforting fiction.
 
 ### Nietzsche's Diagnosis
 
@@ -135,7 +135,7 @@ The Map's [[tenets]] take positions that bear directly on both nihilism and exis
 
 ### Against Moral Nihilism
 
-If [[qualia]] are real—if there is genuinely something it is like to experience—then some states are intrinsically better or worse than others. The agony of severe pain is not merely *dispreferred*; it is bad in itself. [[Phenomenal-value-realism|Phenomenal value realism]] suggests that conscious experience provides the grounding for objective value that moral nihilism claims doesn't exist.
+If [[qualia]] are real—if there is genuinely something it is like to experience—then some states are intrinsically better or worse than others. The agony of severe pain is not merely *dispreferred*; it is bad in itself. [[topics/phenomenal-value-realism|Phenomenal value realism]] suggests that conscious experience provides the grounding for objective value that moral nihilism claims doesn't exist.
 
 ### Dualism and Existentialist Freedom
 
@@ -180,8 +180,8 @@ The existentialist-dualist synthesis would face difficulty if:
 - [[existentialism]] — Existentialist philosophy's contributions to consciousness studies: Sartre's pour-soi and Heidegger's Dasein
 - [[meaning-of-life]] — The positive case for consciousness-grounded meaning
 - [[eastern-philosophy-consciousness]] — Buddhist approaches to meaning and consciousness
-- [[phenomenal-value-realism]] — Why conscious experience grounds objective value
-- [[free-will]] — The metaphysics of choice and agency
+- [[topics/phenomenal-value-realism]] — Why conscious experience grounds objective value
+- [[topics/free-will]] — The metaphysics of choice and agency
 - [[personal-identity]] — What constitutes the self across time
 - [[buddhism-and-dualism]] — The compatibility thesis: irreducibility without permanence
 - [[agent-causation]] — Libertarian accounts of free agency

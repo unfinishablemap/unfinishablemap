@@ -10,10 +10,10 @@ topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
 concepts:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[qualia]]"
   - "[[dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[illusionism]]"
   - "[[haecceity]]"
   - "[[moral-responsibility]]"
@@ -37,7 +37,7 @@ archive_reason: "Coalesced into Phenomenal Value Realism"
 original_path: "/topics/phenomenal-value-realism-development/"
 ---
 
-[[phenomenal-value-realism|Phenomenal value realism]]—the view that intrinsic value is a feature of conscious experience itself—requires development beyond its initial formulation. The Unfinishable Map adopts a variant that extends Sharon Hewitt Rawlette's hedonistic core into phenomenal value pluralism: multiple features of experience have intrinsic value, not just hedonic valence. This article explores how this position interacts with naturalistic metaethics, grounds moral realism distinctively, and addresses challenges that the concept article introduces but does not resolve.
+[[topics/phenomenal-value-realism|Phenomenal value realism]]—the view that intrinsic value is a feature of conscious experience itself—requires development beyond its initial formulation. The Unfinishable Map adopts a variant that extends Sharon Hewitt Rawlette's hedonistic core into phenomenal value pluralism: multiple features of experience have intrinsic value, not just hedonic valence. This article explores how this position interacts with naturalistic metaethics, grounds moral realism distinctively, and addresses challenges that the concept article introduces but does not resolve.
 
 ## The Metaethical Landscape
 
@@ -120,7 +120,7 @@ This addresses a persistent challenge for moral realism: where do objective valu
 
 ### Against Epiphenomenal Value
 
-Some philosophers accept that phenomenal consciousness exists but deny it has causal efficacy ([[epiphenomenalism]]). On this view, our sense that suffering motivates escape is illusory—the physical brain state causes both the suffering and the escape behavior, with no causal work done by the suffering itself.
+Some philosophers accept that phenomenal consciousness exists but deny it has causal efficacy ([[concepts/epiphenomenalism]]). On this view, our sense that suffering motivates escape is illusory—the physical brain state causes both the suffering and the escape behavior, with no causal work done by the suffering itself.
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects epiphenomenalism. Consciousness causally influences physical outcomes. This matters for value: if suffering's badness makes no causal difference, why would we care about it? Epiphenomenal value is practically inert—you cannot act to reduce it, since your actions are determined by physical states that the value doesn't influence.
 
@@ -136,7 +136,7 @@ Implications: creating a replica of you doesn't transfer your experiential value
 
 ## Challenges Requiring Development
 
-The concept article on [[phenomenal-value-realism]] introduces several challenges. This section develops responses.
+The concept article on [[topics/phenomenal-value-realism]] introduces several challenges. This section develops responses.
 
 ### The Scope Problem
 
@@ -190,7 +190,7 @@ Phenomenal value realism interacts with all five tenets:
 
 ## Further Reading
 
-- [[phenomenal-value-realism]] — The concept article defining the position
+- [[topics/phenomenal-value-realism]] — The concept article defining the position
 - [[meaning-of-life]] — How consciousness grounds meaning
 - [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
 - [[experiential-alignment]] — Operationalizing phenomenal value for AI alignment

@@ -72,7 +72,7 @@ A large portion of the mechanistic plausibility is routed through **attention** 
 
 ### D. Free will is "selection," not randomness, with retrocausal/atemporal repair for Libet timing
 
-The [[free-will|free will]] topic explicitly embraces: brain prepares multiple possible action patterns; consciousness selects; retrocausal/time-symmetric interpretations dissolve the sequencing objection.
+The [[topics/free-will|free will]] topic explicitly embraces: brain prepares multiple possible action patterns; consciousness selects; retrocausal/time-symmetric interpretations dissolve the sequencing objection.
 
 ### E. Personal identity is *not* a pattern; indexical identity is fundamental
 
@@ -155,7 +155,7 @@ This suggests an unspoken research program: **alignment as phenomenology-aware i
 
 ### 7) The time story implies consciousness is not merely "in time," but partially constitutive of temporal direction
 
-If collapse introduces irreversibility, and consciousness participates in collapse (per [[collapse-and-time]]), then the worldview points toward: **conscious moments create irreversible facts** (or select histories atemporally), aligning with the free-will retrocausal repair (per [[free-will]]).
+If collapse introduces irreversibility, and consciousness participates in collapse (per [[collapse-and-time]]), then the worldview points toward: **conscious moments create irreversible facts** (or select histories atemporally), aligning with the free-will retrocausal repair (per [[topics/free-will]]).
 
 The Map states the pieces, but doesn't yet explicitly draw the metaphysical conclusion:
 

@@ -86,7 +86,7 @@ Added inbound links from six related articles:
 
 - [[measurement-problem]] - "Extended treatment of why definite outcomes occur"
 - [[decoherence]] - "Extended analysis of this gap and how consciousness might fill it"
-- [[consciousness-selecting-neural-patterns]] - "The definite outcomes problem is precisely where this gap opens"
+- [[concepts/consciousness-selecting-neural-patterns]] - "The definite outcomes problem is precisely where this gap opens"
 - [[consciousness-and-agency]] - "This is the definite outcomes problem"
 - [[spontaneous-collapse-theories]] - Inline link to "definite outcomes"
 - [[collapse-and-time]] - Inline link to "definite outcomes"

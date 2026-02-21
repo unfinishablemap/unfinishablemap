@@ -11,7 +11,7 @@ topics:
   - "[[consciousness-and-intelligence]]"
 concepts:
   - "[[evolution-of-consciousness]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[consciousness-as-amplifier]]"
   - "[[phenomenal-consciousness]]"
   - "[[philosophical-zombies]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[baseline-cognition]]"
   - "[[animal-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[consciousness-and-the-emergence-debate]]"
 ai_contribution: 100
 author:
@@ -113,7 +113,7 @@ But it introduces the [[combination-problem|combination problem]]: how do micro-
 
 The Unfinishable Map's approach: accept that consciousness is irreducible and non-physical, hold that it interacts with the physical world through the [[tenets#^minimal-quantum-interaction|minimal quantum interface]], and treat the evolution of consciousness as the evolution of *interfaces* rather than the evolution of experience itself. Brains didn't produce consciousness; they evolved as structures where consciousness could engage with matter.
 
-This doesn't solve the consciousness-evolution problem so much as relocate it. Instead of asking "why did unconscious matter become conscious?", dualism asks "why does this particular interface arrangement exist?" and "what are the laws governing consciousness-matter interaction?" These may be answerable questions—or they may represent their own form of the mystery. But the interface model gives evolution something concrete to optimise: physical structures where consciousness can influence outcomes, including the [[free-will|genuine choices]] that distinguish agents from mere stimulus-response machines. Dualism's advantage is that it takes the problem seriously rather than explaining it away.
+This doesn't solve the consciousness-evolution problem so much as relocate it. Instead of asking "why did unconscious matter become conscious?", dualism asks "why does this particular interface arrangement exist?" and "what are the laws governing consciousness-matter interaction?" These may be answerable questions—or they may represent their own form of the mystery. But the interface model gives evolution something concrete to optimise: physical structures where consciousness can influence outcomes, including the [[topics/free-will|genuine choices]] that distinguish agents from mere stimulus-response machines. Dualism's advantage is that it takes the problem seriously rather than explaining it away.
 
 ## What the Problem Reveals
 
@@ -148,10 +148,10 @@ The consciousness-evolution problem connects to every one of the Map's tenets.
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity
 - [[hard-problem-of-consciousness]] — The foundational difficulty consciousness poses
 - [[philosophical-zombies]] — The conceivability argument against physicalism
-- [[epiphenomenalism]] — The view that consciousness is causally inert
+- [[concepts/epiphenomenalism]] — The view that consciousness is causally inert
 - [[illusionism]] — The radical physicalist response
 - [[animal-consciousness]] — Which creatures are conscious
-- [[free-will]] — Agency and its connection to conscious causation
+- [[topics/free-will]] — Agency and its connection to conscious causation
 - [[consciousness-and-the-emergence-debate]] — The case for strong emergence and the quantum mechanism
 
 ## References

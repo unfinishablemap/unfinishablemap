@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
   - "[[jourdain-hypothesis]]"
   - "[[higher-order-theories]]"
   - "[[introspection]]"
@@ -115,7 +115,7 @@ Great apes' limited working memory capacity—roughly two items (Read 2008) comp
 
 Great apes demonstrate Level 1 social metacognition, but Level 3 recursive mindreading ("she thinks that I think the food is hidden") appears uniquely human. This mirrors the procedural/declarative divide: monitoring is widespread; declarative metarepresentation requires consciousness.
 
-Recursive social cognition makes explicit why higher-level metacognition requires consciousness. Representing "she thinks that I think X" requires holding multiple nested levels simultaneously, bound into [[phenomenal-unity|unified conscious awareness]]. Consciousness provides the phenomenal workspace where nested representations can be bound and manipulated—though the [[recursion-void]] demonstrates this workspace has a remarkably shallow depth limit, terminating around fifth-order intentionality. See [[consciousness-and-social-cognition]] for details.
+Recursive social cognition makes explicit why higher-level metacognition requires consciousness. Representing "she thinks that I think X" requires holding multiple nested levels simultaneously, bound into [[phenomenal-unity|unified conscious awareness]]. Consciousness provides the phenomenal workspace where nested representations can be bound and manipulated—though the [[recursion-void]] demonstrates this workspace has a remarkably shallow depth limit, terminating around fifth-order intentionality. See [[topics/consciousness-and-social-cognition]] for details.
 
 ## The Jourdain Hypothesis: Procedural vs. Declarative
 
@@ -201,7 +201,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 - [[consciousness-as-amplifier]] — How consciousness enables metacognitive monitoring
 - [[lucid-dreaming-and-consciousness]] — Metacognition in altered states
 - [[introspection]] — Metacognition's role in first-person methods
-- [[consciousness-and-social-cognition]] — Theory of mind as social metacognition
+- [[topics/consciousness-and-social-cognition]] — Theory of mind as social metacognition
 - [[teaching-as-metarepresentation]] — Teaching as the paradigm case of metarepresentation
 - [[baseline-cognition]] — What cognition achieves without metarepresentation
 - [[cognitive-phenomenology]] — The phenomenal character of thinking

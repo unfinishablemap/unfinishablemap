@@ -81,7 +81,7 @@ All 9 concept links added in previous review confirmed to exist:
 - [[mental-effort]]
 - [[measurement-problem]]
 - [[mysterianism]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 
 ## Length Assessment
 

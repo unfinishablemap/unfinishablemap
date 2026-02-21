@@ -58,7 +58,7 @@ last_curated: null
 - Reorganized Further Reading into thematic subsections
 
 ### Cross-links Added
-- [[phenomenal-value-realism]] - core metaethical grounding
+- [[topics/phenomenal-value-realism]] - core metaethical grounding
 - [[witness-consciousness]] - contemplative evidence
 - [[introspection]] - first-person methods
 - [[haecceity]] - indexical identity and unrepeatability

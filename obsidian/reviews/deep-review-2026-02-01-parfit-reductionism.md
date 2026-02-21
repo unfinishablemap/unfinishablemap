@@ -71,7 +71,7 @@ All concerns represent bedrock philosophical disagreements, not fixable flaws.
 ### Cross-links Present
 
 Extensive cross-linking already in place:
-- [[personal-identity]], [[haecceity]], [[philosophical-zombies]], [[many-worlds]], [[agent-causation]], [[death-and-consciousness]], [[illusionism]], [[introspection]], [[witness-consciousness]], [[decoherence]], [[buddhism-and-dualism]]
+- [[personal-identity]], [[haecceity]], [[philosophical-zombies]], [[concepts/many-worlds]], [[agent-causation]], [[death-and-consciousness]], [[illusionism]], [[introspection]], [[witness-consciousness]], [[decoherence]], [[buddhism-and-dualism]]
 
 ## Remaining Items
 

@@ -17,7 +17,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
@@ -209,7 +209,7 @@ The psychophysical laws framework would face serious difficulty if:
 - [[mental-causation]] — How consciousness affects physical outcomes
 - [[quantum-consciousness]] — Quantum frameworks providing selection pathways
 - [[decoherence]] — The physics objection and biological quantum effects
-- [[epiphenomenalism]] — The view that consciousness is causally inert
+- [[concepts/epiphenomenalism]] — The view that consciousness is causally inert
 - [[tenets]] — The Map's foundational commitments
 
 ## References

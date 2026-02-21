@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-20
-**Article**: [[free-will|Free Will and Determinism]]
+**Article**: [[topics/free-will|Free Will and Determinism]]
 **Previous review**: [[deep-review-2026-01-15-free-will|2026-01-15]]
 
 ## Pessimistic Analysis Summary
@@ -58,7 +58,7 @@ last_curated: null
 - [[introspection]] - for introspective trust argument against illusionism
 - [[haecceity]] - for indexical identity in personal identity section
 - [[illusionism]] - prominent linking in expanded section
-- [[epiphenomenalism]] - added to frontmatter concepts
+- [[concepts/epiphenomenalism]] - added to frontmatter concepts
 
 ## Remaining Items
 

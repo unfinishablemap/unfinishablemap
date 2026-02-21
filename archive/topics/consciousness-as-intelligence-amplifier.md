@@ -10,7 +10,7 @@ topics: []
 concepts: []
 related_articles:
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[metacognition]]"
   - "[[global-workspace-theory]]"
   - "[[phenomenal-consciousness]]"
@@ -66,7 +66,7 @@ Physicalist responses face difficulties. Identity theory struggles with multiple
 
 Granted that phenomenal consciousness is ontologically distinct from neural activity, evolution provides a powerful argument for its causal efficacy.
 
-William James formulated the core point in 1890: natural selection cannot favor features that make no difference to survival or reproduction. If phenomenal consciousness were truly [[epiphenomenalism|epiphenomenal]]—a causally inert byproduct of neural activity—then evolution would have no reason to produce or maintain it. The metabolic cost of complex neural architecture is substantial; why would selection preserve costly features that provide no functional advantage?
+William James formulated the core point in 1890: natural selection cannot favor features that make no difference to survival or reproduction. If phenomenal consciousness were truly [[concepts/epiphenomenalism|epiphenomenal]]—a causally inert byproduct of neural activity—then evolution would have no reason to produce or maintain it. The metabolic cost of complex neural architecture is substantial; why would selection preserve costly features that provide no functional advantage?
 
 Yet phenomenal consciousness correlates remarkably with adaptive significance. Pleasure accompanies beneficial stimuli (food, sex, warmth); pain accompanies harmful ones (injury, toxins, extreme temperatures). Subtle distinctions in phenomenal character track subtle distinctions in biological relevance: the discomfort of mild hunger differs qualitatively from the agony of severe injury, and these differences align with urgency of response. This systematic correlation demands explanation.
 
@@ -163,7 +163,7 @@ Finally, the [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] applies. E
 ## Further Reading
 
 - [[interactionist-dualism]] — The framework for how consciousness influences brain states
-- [[epiphenomenalism]] — The opposing view that consciousness is causally inert
+- [[concepts/epiphenomenalism]] — The opposing view that consciousness is causally inert
 - [[global-workspace-theory]] — How conscious access enables information broadcast
 - [[metacognition]] — Thinking about thinking, enabled by consciousness
 - [[phenomenal-consciousness]] — The "what it's like" aspect that resists physical explanation

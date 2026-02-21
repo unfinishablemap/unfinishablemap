@@ -31,7 +31,7 @@ None. The article has:
 ### Medium Issues Found
 - **Identity thesis response underdeveloped**: "This trades explanation for assertion" needed more development to show why identity theses are explanatorily unsatisfying
   - **Resolution**: Added explicit reference to Levine's explanatory gap and the contrast with satisfying identities like water = H2O
-- **Missing cross-links**: Article lacked connections to [[causal-closure]], [[functionalism]], and [[explanatory-gap]] despite discussing these concepts
+- **Missing cross-links**: Article lacked connections to [[causal-closure]], [[concepts/functionalism]], and [[explanatory-gap]] despite discussing these concepts
   - **Resolution**: Added all three to concepts list and inline links where relevant
 - **Aaronson reference ambiguous**: The 2014 Aaronson reference is a blog post, not a peer-reviewed paper
   - **Resolution**: Clarified as "(blog post)" in References section
@@ -52,14 +52,14 @@ None. The article has:
 ### Enhancements Made
 - Strengthened identity thesis response with explanatory gap reference and water = H2O contrast
 - Added cross-link to [[causal-closure]] in the Passivity Problem section
-- Added cross-link to [[functionalism]] in "What IIT Gets Right" section
-- Added [[explanatory-gap]], [[causal-closure]], and [[functionalism]] to concepts frontmatter
+- Added cross-link to [[concepts/functionalism]] in "What IIT Gets Right" section
+- Added [[explanatory-gap]], [[causal-closure]], and [[concepts/functionalism]] to concepts frontmatter
 - Clarified Aaronson reference as blog post
 
 ### Cross-links Added
 - [[explanatory-gap]]
 - [[causal-closure]]
-- [[functionalism]]
+- [[concepts/functionalism]]
 
 ## Remaining Items
 

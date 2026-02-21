@@ -10,7 +10,7 @@ topics:
 concepts:
   - "[[qualia]]"
   - "[[explanatory-gap]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"

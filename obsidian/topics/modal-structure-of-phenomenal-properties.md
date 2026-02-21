@@ -17,8 +17,8 @@ concepts:
   - "[[phenomenal-concepts-strategy]]"
   - "[[haecceity]]"
   - "[[explanatory-gap]]"
-  - "[[materialism]]"
-  - "[[functionalism]]"
+  - "[[concepts/materialism]]"
+  - "[[concepts/functionalism]]"
   - "[[the-case-for-dualism]]"
   - "[[conceivability-possibility-inference]]"
 related_articles:

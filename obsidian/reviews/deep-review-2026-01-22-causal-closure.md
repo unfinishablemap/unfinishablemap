@@ -86,7 +86,7 @@ last_curated: null
 - [[stapp-quantum-mind]] in "Relation to the Map's Perspective"
 - [[downward-causation]] in emergentist response (not just Further Reading)
 - [[mysterianism]] in coherence section
-- [[epiphenomenalism]] in self-stultification argument
+- [[concepts/epiphenomenalism]] in self-stultification argument
 - [[tenets#^no-many-worlds]] in Many-Worlds note
 
 ### Effective Patterns Identified

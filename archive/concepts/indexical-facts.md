@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -91,7 +91,7 @@ Spatial indexicality connects to embodiment. Your body is *here*—not merely at
 
 ## Implications for the Many-Worlds Interpretation
 
-The [[many-worlds]] interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel branches, each equally real. This creates a problem for indexical facts.
+The [[concepts/many-worlds]] interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel branches, each equally real. This creates a problem for indexical facts.
 
 Before measurement, there's one observer. After measurement, there are multiple observers in different branches. Which one is "really" you? Many-worlds provides no answer—all branches are equally real, all successors are equally continuous with your pre-measurement self. But you will experience one definite outcome, not all of them. The indexical fact "I am in this branch" seems meaningful, yet MWI gives it no grounding.
 
@@ -129,7 +129,7 @@ Indexical facts connect to The Unfinishable Map's [[tenets]] in several ways.
 - [[haecceity]] — Primitive thisness as metaphysical ground for indexical identity
 - [[personal-identity]] — What makes you the same person, and which person you are
 - [[qualia]] — Subjective qualitative character, often indexically experienced
-- [[many-worlds]] — Why indexical identity poses problems for branching interpretations
+- [[concepts/many-worlds]] — Why indexical identity poses problems for branching interpretations
 - [[indexical-identity-quantum-measurement]] — How indexical facts apply to quantum measurement
 
 ## References

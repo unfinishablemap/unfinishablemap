@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-intelligence]]"
 concepts:
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[intentionality]]"
   - "[[temporal-consciousness]]"
   - "[[metacognition]]"
@@ -57,9 +57,9 @@ The Map finds the Chinese Room illuminating but not decisive. It captures a genu
 
 ## Functionalism's Failure
 
-[[functionalism|Functionalism]]—the view that mental states are defined by causal roles—is the philosophical foundation for AI consciousness claims. If consciousness is just information processing, sufficiently sophisticated AI might already be conscious.
+[[concepts/functionalism|Functionalism]]—the view that mental states are defined by causal roles—is the philosophical foundation for AI consciousness claims. If consciousness is just information processing, sufficiently sophisticated AI might already be conscious.
 
-But functionalism has not explained why any functional organization should involve subjective experience. The absent qualia objection (Block 1978) and the proximity argument (Hoel 2025) show that functionalism would attribute consciousness to systems—like lookup tables—that intuitively lack it. These arguments do not definitively refute functionalism, but they expose a deep explanatory gap that no functionalist account has closed. For the complete critique, including the inverted qualia objection and the substrate independence problem, see [[functionalism]] and [[substrate-independence-critique]].
+But functionalism has not explained why any functional organization should involve subjective experience. The absent qualia objection (Block 1978) and the proximity argument (Hoel 2025) show that functionalism would attribute consciousness to systems—like lookup tables—that intuitively lack it. These arguments do not definitively refute functionalism, but they expose a deep explanatory gap that no functionalist account has closed. For the complete critique, including the inverted qualia objection and the substrate independence problem, see [[concepts/functionalism]] and [[substrate-independence-critique]].
 
 ## The Temporal Problem
 
@@ -164,7 +164,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Bu
 - [[symbol-grounding-problem]] — Why computational symbols lack intrinsic meaning
 - [[llm-consciousness]] — Focused LLM analysis
 - [[continual-learning-argument]] — Formal framework for why static systems cannot be conscious
-- [[functionalism]] — Complete critique of functionalism
+- [[concepts/functionalism]] — Complete critique of functionalism
 - [[temporal-consciousness]] — Temporal structure requirements
 - [[metacognition]] — Why AI self-monitoring doesn't indicate consciousness
 - [[phenomenal-intentionality]] — Why AI lacks genuine intentionality

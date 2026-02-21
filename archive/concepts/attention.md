@@ -13,13 +13,13 @@ archive_reason: "Coalesced into Attention as Interface"
 original_path: "/concepts/attention/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[voluntary-attention]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[mental-imagery]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[illusionism]]"
   - "[[integrated-information-theory]]"
   - "[[attention-schema-theory]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[pairing-problem]]"
   - "[[agent-causation]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-consciousness-relationship-2026-01-15]]"
@@ -68,7 +68,7 @@ If attention operates without consciousness and vice versa, they are distinct pr
 
 ### Against Functionalism
 
-The [[functionalism|functionalist]] equation of consciousness with a functional role stumbles on dissociation evidence. Prinz's AIR theory claims consciousness arises when and only when attention modulates intermediate representations—but peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Consciousness seems to be something over and above the function.
+The [[concepts/functionalism|functionalist]] equation of consciousness with a functional role stumbles on dissociation evidence. Prinz's AIR theory claims consciousness arises when and only when attention modulates intermediate representations—but peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Consciousness seems to be something over and above the function.
 
 ### The Methodological Challenge
 
@@ -182,7 +182,7 @@ The Map's position would face serious difficulty if:
 
 4. **Illusionism succeeds**: If "seeming" can occur without a subject. Current illusionist accounts face the regress problem.
 
-5. **Many-worlds is confirmed**: If all outcomes occur in different branches rather than being selected. The interface hypothesis requires real collapse; [[many-worlds]] eliminates it.
+5. **Many-worlds is confirmed**: If all outcomes occur in different branches rather than being selected. The interface hypothesis requires real collapse; [[concepts/many-worlds]] eliminates it.
 
 ## Relation to the Map's Perspective
 

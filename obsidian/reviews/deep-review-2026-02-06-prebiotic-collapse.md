@@ -67,11 +67,11 @@ All checks pass. No misattribution, dropped qualifiers, overstated positions, so
 Inbound links added from these articles to [[prebiotic-collapse]]:
 
 1. **[[quantum-interpretations]]** — In the Objective Collapse Theories section, added note that these theories resolve the prebiotic collapse problem
-2. **[[many-worlds]]** — In the Viable Alternatives section, added paragraph noting MWI claims to dissolve the prebiotic problem, with the Map's conservative alternative
+2. **[[concepts/many-worlds]]** — In the Viable Alternatives section, added paragraph noting MWI claims to dissolve the prebiotic problem, with the Map's conservative alternative
 3. **[[decoherence]]** — In the Relation to the Map's Perspective section, added note connecting objective reduction and the prebiotic timeline
 4. **[[causal-closure]]** — In the Emergentist Response section, converted existing "prebiotic cosmology" phrase to a wikilink
 5. **[[hard-problem-of-consciousness]]** — In the Panpsychism subsection, added note about the temporal constraint prebiotic collapse places on consciousness-collapse frameworks
-6. **[[free-will]]** — In the Physical Mechanism Question section, converted existing "prebiotic problem" phrase to a wikilink
+6. **[[topics/free-will]]** — In the Physical Mechanism Question section, converted existing "prebiotic problem" phrase to a wikilink
 7. **[[mental-causation]]** — In the Quantum Opening section, added note about cosmological consistency of the framework
 8. **[[qbism]]** — In the Versus Consciousness-Collapse section, added note about how QBism sidesteps the prebiotic problem
 9. **[[relational-quantum-mechanics]]** — In the What RQM Removes section, added note about how RQM avoids the prebiotic problem

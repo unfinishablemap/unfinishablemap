@@ -16,9 +16,9 @@ topics:
 concepts:
   - "[[minimal-consciousness]]"
   - "[[qualia]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[higher-order-theories]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[self-and-consciousness]]"
   - "[[agent-causation]]"
 related_articles:
@@ -117,7 +117,7 @@ Chalmers' "philosophical Vulcan" thought experiment tests the distinction: imagi
 
 Valence sentientists say no: without the capacity for suffering, there's nothing to protect and no interests to consider. Broad sentientists say yes: the mere fact of experience creates moral significance, even absent pleasure or pain.
 
-The Map's [[phenomenal-value-realism]] aligns with valence sentientism while extending it: not just valenced experience, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of conscious experience. There is no value outside of consciousness.
+The Map's [[topics/phenomenal-value-realism]] aligns with valence sentientism while extending it: not just valenced experience, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of conscious experience. There is no value outside of consciousness.
 
 ### Simple Organisms and Valence
 
@@ -151,11 +151,11 @@ This connects to [[attention-as-interface]] and [[mental-effort]]: attention is 
 
 - [[minimal-consciousness]] — Boundary cases testing where valenced experience begins
 - [[qualia]] — The broader category of phenomenal properties, of which valence is a key instance
-- [[phenomenal-value-realism]] — The metaethical view that value is grounded in conscious experience
+- [[topics/phenomenal-value-realism]] — The metaethical view that value is grounded in conscious experience
 - [[ethics-of-consciousness]] — Why consciousness grounds moral consideration
 - [[agent-causation]] — How consciousness exercises causal influence through valenced assessment
 - [[higher-order-theories]] — The view that conscious emotions require higher-order representation
-- [[functionalism]] — The view that mental states are functional roles, challenged by affective qualia
+- [[concepts/functionalism]] — The view that mental states are functional roles, challenged by affective qualia
 - [[attention-as-interface]] — How attention operates as the consciousness-brain interface
 - [[hard-problem-of-consciousness]] — The broader explanatory gap that emotional consciousness exemplifies
 

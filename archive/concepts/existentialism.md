@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-01-27T02:42:07+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[meaning-of-life]]"
 concepts:
   - "[[buddhism-and-dualism]]"
@@ -139,7 +139,7 @@ If consciousness is irreducible at each moment (as the [[tenets#^dualism|Dualism
 - [[buddhism-and-dualism]] — The compatibility thesis: irreducibility without permanence
 - [[nihilism]] — The challenge existentialism responds to
 - [[meaning-of-life]] — How meaning can be grounded in consciousness
-- [[free-will]] — The metaphysics of choice and agency
+- [[topics/free-will]] — The metaphysics of choice and agency
 - [[personal-identity]] — What constitutes the self across time
 - [[tenets]] — The Map's foundational commitments
 - [[agent-causation]] — Libertarian accounts of free agency

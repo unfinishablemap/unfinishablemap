@@ -62,7 +62,7 @@ last_curated: null
 - [[causal-closure]]
 - [[agent-causation]]
 - [[objections-to-interactionism]]
-- [[free-will]]
+- [[topics/free-will]]
 - [[consciousness-and-causal-powers]] (in Further Reading, replacing broken links)
 
 ## Remaining Items

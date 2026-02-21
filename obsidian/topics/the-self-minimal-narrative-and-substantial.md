@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[self-and-consciousness]]"
   - "[[haecceity]]"
@@ -38,7 +38,7 @@ last_curated:
 last_deep_review: 2026-02-08T22:14:00+00:00
 ---
 
-What kind of thing are you? Not what makes you persist over time—that is the question of [[personal-identity]]—but what you *are*, right now, at this moment. Three philosophical traditions offer competing answers. The **minimal self** says you are a bare first-person perspective, the structural "for-me-ness" that makes experience somebody's rather than nobody's. The **narrative self** says you are a story—an autobiographical construction woven from memory, intention, and cultural context. The **substantial self** says you are a genuine entity, an irreducible particular whose existence is not exhausted by perspective or story. This question matters because whatever the self turns out to be determines what [[free-will|free will]] requires, what [[death-and-consciousness|death]] threatens, and whether the [[hard-problem-of-consciousness|hard problem of consciousness]] has a subject or only a puzzle.
+What kind of thing are you? Not what makes you persist over time—that is the question of [[personal-identity]]—but what you *are*, right now, at this moment. Three philosophical traditions offer competing answers. The **minimal self** says you are a bare first-person perspective, the structural "for-me-ness" that makes experience somebody's rather than nobody's. The **narrative self** says you are a story—an autobiographical construction woven from memory, intention, and cultural context. The **substantial self** says you are a genuine entity, an irreducible particular whose existence is not exhausted by perspective or story. This question matters because whatever the self turns out to be determines what [[topics/free-will|free will]] requires, what [[death-and-consciousness|death]] threatens, and whether the [[hard-problem-of-consciousness|hard problem of consciousness]] has a subject or only a puzzle.
 
 The Unfinishable Map argues that all three are real, but they are not equal. The minimal self is the form consciousness takes. The narrative self is a cognitive construction built upon it. The substantial self—the irreducible conscious particular that grounds both—is what you fundamentally are.
 
@@ -140,7 +140,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 
 **[[tenets#^dualism|Dualism]]**: The substantial self is the dualist's strongest exhibit. If the self were merely a narrative construction or a self-model, it could in principle be explained by neuroscience—a product of brain processes, nothing more. But the substantial self—*this* irreducible conscious particular—resists physicalist reduction in the same way consciousness itself does. The [[the-case-for-dualism|case against materialism]] gains force here: the hard problem is hard precisely because the subject investigating it cannot be captured by the investigation's third-person methods.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Only a substantial self can be a genuine causal agent. Perspectives do not cause events; stories do not move matter. If consciousness causally influences quantum outcomes, there must be an entity doing the influencing—not merely a viewpoint or a narrative but a substantial particular whose choices are real. This is also the foundation for the Map's account of [[free-will]]: genuine agency requires a substantial agent.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Only a substantial self can be a genuine causal agent. Perspectives do not cause events; stories do not move matter. If consciousness causally influences quantum outcomes, there must be an entity doing the influencing—not merely a viewpoint or a narrative but a substantial particular whose choices are real. This is also the foundation for the Map's account of [[topics/free-will]]: genuine agency requires a substantial agent.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The substantial self grounds the Map's rejection of many-worlds. If "you" were merely a perspective or a story, the many-worlds dissolution of indexical identity might be tolerable—perspectives and stories are pattern-like and replicable. But if you are a substantial self—an irreducible particular—then the question "which branch am I in?" has a determinate answer, and many-worlds' inability to provide one counts against it.
 
@@ -157,7 +157,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 - [[autonoetic-consciousness]] — Mental time travel and the temporally extended self
 - [[buddhism-and-dualism]] — Buddhist no-self and the Map's irreducibility thesis
 - [[death-and-consciousness]] — What survival requires for the substantial self
-- [[free-will]] — Why genuine agency requires a substantial self
+- [[topics/free-will]] — Why genuine agency requires a substantial self
 - [[identity-across-transformations]] — How the substantial self persists through radical change
 
 ## References

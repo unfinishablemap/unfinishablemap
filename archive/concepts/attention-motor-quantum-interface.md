@@ -12,7 +12,7 @@ superseded_by: "/concepts/attention-as-interface/"
 archive_reason: "Coalesced into Attention as Interface"
 original_path: "/concepts/attention-motor-quantum-interface/"
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[voluntary-attention]]"

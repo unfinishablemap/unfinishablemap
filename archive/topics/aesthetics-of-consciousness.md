@@ -17,7 +17,7 @@ topics:
 concepts:
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[introspection]]"
   - "[[intentionality]]"
   - "[[phenomenal-unity]]"
@@ -91,7 +91,7 @@ This vulnerability is not a weakness of consciousness but a capacity. It reveals
 
 A crucial phenomenological point: beauty feels *found*, not *created*. The experience of the beautiful presents itself as discovery—as encountering something that was there to be encountered. This is why aesthetic experience carries what William James called "noetic quality": it feels like knowledge, not preference.
 
-[[phenomenal-value-realism|Phenomenal value realism]] takes this disclosure seriously. If beauty is genuinely discovered rather than projected, then aesthetic value is a real feature of experience—not an overlay added by judgment. The for-ness of beauty would then be structural: consciousness is the kind of thing that can disclose values that exist in the relation between subject and object. Without consciousness, these values do not merely go unnoticed—they do not exist, because they are constituted by the subject-object relation that consciousness makes possible.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] takes this disclosure seriously. If beauty is genuinely discovered rather than projected, then aesthetic value is a real feature of experience—not an overlay added by judgment. The for-ness of beauty would then be structural: consciousness is the kind of thing that can disclose values that exist in the relation between subject and object. Without consciousness, these values do not merely go unnoticed—they do not exist, because they are constituted by the subject-object relation that consciousness makes possible.
 
 ## The Aesthetic Argument Against Functionalism
 
@@ -119,7 +119,7 @@ The for-ness of aesthetic value connects to the Map's [[tenets|foundational comm
 - [[consciousness-and-aesthetic-experience-as-philosophical-evidence]] — Aesthetic experience as evidence for dualism
 - [[consciousness-and-aesthetic-creation]] — Making art as evidence for bidirectional interaction
 - [[aesthetic-void]] — Where articulation fails at beauty and sublimity
-- [[phenomenal-value-realism]] — Value as intrinsic to experience
+- [[topics/phenomenal-value-realism]] — Value as intrinsic to experience
 - [[phenomenology-of-moral-experience]] — Parallel analysis for moral value
 - [[phenomenal-unity]] — The binding problem and aesthetic wholes
 

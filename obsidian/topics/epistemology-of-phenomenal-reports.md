@@ -16,7 +16,7 @@ concepts:
   - "[[heterophenomenology]]"
   - "[[explanatory-gap]]"
   - "[[phenomenal-consciousness]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[intersubjectivity]]"
   - "[[neurophenomenology]]"
   - "[[phenomenology]]"
@@ -78,7 +78,7 @@ The [[neurophenomenology|neurophenomenological]] framework formalises this throu
 
 ## The Self-Stultification of Eliminativism
 
-Attempts to eliminate phenomenal reports from science face a problem beyond methodological inconvenience. As the Map's treatment of [[epiphenomenalism]] argues, if consciousness were causally inert—if phenomenal states played no role in producing reports—then the reports would be causally disconnected from the experiences they purport to describe. They would be accidentally right at best.
+Attempts to eliminate phenomenal reports from science face a problem beyond methodological inconvenience. As the Map's treatment of [[concepts/epiphenomenalism]] argues, if consciousness were causally inert—if phenomenal states played no role in producing reports—then the reports would be causally disconnected from the experiences they purport to describe. They would be accidentally right at best.
 
 This [[self-stultification]] extends to eliminativism about phenomenal reports themselves. If a theorist argues that phenomenal reports do not reliably indicate phenomenal states, their argument depends on their own phenomenal awareness of what arguments seem compelling, what evidence seems relevant, and what conclusions seem warranted. The theorist must trust their own phenomenal access to the evidential landscape while denying that such access is trustworthy in general. This is a special case of the broader [[argument-from-reason]]: rational evaluation of evidence presupposes the causal efficacy of conscious states.
 
@@ -124,7 +124,7 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [[phenomenal-consciousness]]
 - [[explanatory-gap]]
 - [[knowledge-argument]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 - [[galilean-exclusion]]
 - [[self-stultification]]
 - [[argument-from-reason]]

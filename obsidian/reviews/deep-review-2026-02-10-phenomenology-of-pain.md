@@ -77,7 +77,7 @@ last_curated: null
 - [[philosophical-zombies]] (Further Reading)
 - [[inverted-qualia]] (Further Reading)
 - [[phenomenal-conservatism-and-introspective-evidence]] (Further Reading)
-- Additional inline links to [[knowledge-argument]], [[explanatory-gap]], [[interactionist-dualism]], [[epiphenomenalism]]
+- Additional inline links to [[knowledge-argument]], [[explanatory-gap]], [[interactionist-dualism]], [[concepts/epiphenomenalism]]
 
 ## Remaining Items
 

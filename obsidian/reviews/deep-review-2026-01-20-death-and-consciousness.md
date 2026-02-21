@@ -70,7 +70,7 @@ last_curated: null
 - [[witness-consciousness]] — Consciousness as observer distinct from contents
 - [[haecceity]] — Irreducible thisness
 - [[decoherence]] — Challenge to quantum mechanisms
-- [[epiphenomenalism]] — What bidirectional interaction rejects
+- [[concepts/epiphenomenalism]] — What bidirectional interaction rejects
 
 ## Remaining Items
 

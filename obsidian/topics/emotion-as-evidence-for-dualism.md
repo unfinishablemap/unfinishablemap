@@ -11,9 +11,9 @@ topics:
   - "[[emotional-consciousness]]"
 concepts:
   - "[[qualia]]"
-  - "[[phenomenal-value-realism]]"
-  - "[[functionalism]]"
-  - "[[epiphenomenalism]]"
+  - "[[topics/phenomenal-value-realism]]"
+  - "[[concepts/functionalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[explanatory-gap]]"
   - "[[agent-causation]]"
   - "[[the-case-for-dualism]]"
@@ -53,7 +53,7 @@ The asymbolia case supports a specific conclusion: valence is an intrinsic pheno
 
 ## From Irreducibility to Causal Efficacy
 
-Standard arguments for dualism—the conceivability argument, the knowledge argument, the explanatory gap—establish that phenomenal properties are not *reducible* to physical properties. But a common materialist response accepts irreducibility while denying causal relevance: perhaps phenomenal properties are real but [[epiphenomenalism|epiphenomenal]], riding atop physical processes without influencing them.
+Standard arguments for dualism—the conceivability argument, the knowledge argument, the explanatory gap—establish that phenomenal properties are not *reducible* to physical properties. But a common materialist response accepts irreducibility while denying causal relevance: perhaps phenomenal properties are real but [[concepts/epiphenomenalism|epiphenomenal]], riding atop physical processes without influencing them.
 
 Emotion blocks this retreat. Pain asymbolia shows that the felt quality of pain is not causally idle. When it is present, subjects are motivated to avoid painful stimuli with urgency and consistency. When it is absent—despite identical functional pain processing—motivation deteriorates. The phenomenal property makes a causal difference.
 
@@ -116,10 +116,10 @@ The moral and motivational significance of valence depends on indexical identity
 - [[hard-problem-of-consciousness]] — Why physical explanations leave phenomenal experience unexplained
 - [[qualia]] — Intrinsic properties of experience that resist functional reduction
 - [[explanatory-gap]] — The gap between physical description and phenomenal character
-- [[epiphenomenalism]] — The view that consciousness has no causal efficacy, and why it fails
-- [[phenomenal-value-realism]] — How phenomenal properties ground objective value
+- [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy, and why it fails
+- [[topics/phenomenal-value-realism]] — How phenomenal properties ground objective value
 - [[agent-causation]] — How consciousness exercises causal influence
-- [[functionalism]] — The view that mental states are defined by functional roles
+- [[concepts/functionalism]] — The view that mental states are defined by functional roles
 
 ## References
 

@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-09T12:36:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[authentic-vs-inauthentic-choice]]"
 concepts:
   - "[[phenomenology-of-choice]]"
@@ -25,7 +25,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[conscious-vs-unconscious-processing]]"
   - "[[illusionism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-agency]]"
@@ -105,7 +105,7 @@ This matters because it reveals that the sense of agency is not simply body-owne
 
 ### Against Epiphenomenalism
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert, merely along for the ride—the agency-passivity distinction should not exist. An epiphenomenal consciousness would be purely passive in every case. The fact that experience systematically distinguishes doing from undergoing, and that this distinction correlates with measurable neural differences in [[voluntary-attention|willed versus automatic attention]], suggests consciousness tracks its own causal contribution.
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert, merely along for the ride—the agency-passivity distinction should not exist. An epiphenomenal consciousness would be purely passive in every case. The fact that experience systematically distinguishes doing from undergoing, and that this distinction correlates with measurable neural differences in [[voluntary-attention|willed versus automatic attention]], suggests consciousness tracks its own causal contribution.
 
 The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [[voluntary-attention|willed attention signature]] (frontal theta in Bengson 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
 
@@ -153,7 +153,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[motor-selection]] — The agency-passivity contrast in movement
 - [[authentic-vs-inauthentic-choice]] — Phenomenological layers of ownership in choice
 - [[volitional-opacity]] — Why the mechanism connecting will to action is invisible
-- [[free-will]] — The broader philosophical context
+- [[topics/free-will]] — The broader philosophical context
 - [[consciousness-and-agency]] — Apex synthesis of agency across the Map
 
 ## References

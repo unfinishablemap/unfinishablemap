@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-20T01:06:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[meaning-of-life]]"
 concepts:
   - "[[existentialism]]"
@@ -31,7 +31,7 @@ last_deep_review: 2026-01-30T21:35:00+00:00
 
 Some choices feel like they come from deep within—expressions of who you really are. Others feel like going through motions, following scripts you never wrote, doing what "one does." The Unfinishable Map proposes that this phenomenological distinction tracks something metaphysically significant: authentic choice engages consciousness's genuine selection function, while inauthentic choice runs on automatic processing that merely simulates decision.
 
-The existentialist tradition—particularly Heidegger and Sartre—analysed this distinction with philosophical precision. Their insights, combined with the Map's framework on [[free-will|free will]] and [[agent-causation]], suggest that authenticity isn't merely a lifestyle ideal but a condition for genuine agency.
+The existentialist tradition—particularly Heidegger and Sartre—analysed this distinction with philosophical precision. Their insights, combined with the Map's framework on [[topics/free-will|free will]] and [[agent-causation]], suggest that authenticity isn't merely a lifestyle ideal but a condition for genuine agency.
 
 ## The Phenomenology of Authentic Choice
 
@@ -216,7 +216,7 @@ The authentic-inauthentic framework would face difficulty if:
 
 ## Further Reading
 
-- [[free-will]] — The broader framework for libertarian agency
+- [[topics/free-will]] — The broader framework for libertarian agency
 - [[existentialism]] — Sartre and Heidegger on consciousness and freedom
 - [[phenomenology-of-choice]] — The experiential structure of decision-making
 - [[agent-causation]] — Why genuine choice requires agent causation

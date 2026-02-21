@@ -68,7 +68,7 @@ Copenhagen also treats measurement pragmatically but retains some commitment to 
 
 ### Versus Many-Worlds
 
-[[many-worlds|Many-Worlds]] eliminates collapse by positing that all outcomes occur. QBism eliminates collapse by denying objective states. Both avoid the measurement problem, but differently: MWI multiplies reality; QBism deflates it. For the Map, both leave consciousness unexplained—MWI by making all branches equally real (so why do I experience *this* one?), QBism by presupposing experience without explaining it.
+[[concepts/many-worlds|Many-Worlds]] eliminates collapse by positing that all outcomes occur. QBism eliminates collapse by denying objective states. Both avoid the measurement problem, but differently: MWI multiplies reality; QBism deflates it. For the Map, both leave consciousness unexplained—MWI by making all branches equally real (so why do I experience *this* one?), QBism by presupposing experience without explaining it.
 
 MWI defenders respond that the indexical question is no more mysterious than asking "why am I this person rather than another?"—both are selection effects, not metaphysical puzzles. But the Map holds that indexical identity is precisely what requires explanation (see [[haecceity]]), not what explains things away. The question "why this branch?" is meaningful whether or not we can answer it.
 

@@ -16,7 +16,7 @@ concepts:
   - "[[contemplative-epistemology]]"
   - "[[introspection]]"
   - "[[witness-consciousness]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[phenomenal-consciousness]]"
   - "[[qualia]]"
   - "[[neuroplasticity]]"
@@ -28,7 +28,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[first-person-third-person-methodology]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[the-observer-witness-in-meditation]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[paradox-of-effortless-mastery]]"
@@ -260,14 +260,14 @@ The causal efficacy argument depends on a collapse interpretation—consciousnes
 
 ### Free Will
 
-The distinction between willed attention and exogenous attention in contemplative neuroscience bears on [[free-will]]. If willed mental practice produces different outcomes than passive exposure—and the evidence suggests it does—then deliberate intention is genuine authorship, not epiphenomenal accompaniment. The meditator's choice to practise matters causally, supporting libertarian intuitions about freedom.
+The distinction between willed attention and exogenous attention in contemplative neuroscience bears on [[topics/free-will]]. If willed mental practice produces different outcomes than passive exposure—and the evidence suggests it does—then deliberate intention is genuine authorship, not epiphenomenal accompaniment. The meditator's choice to practise matters causally, supporting libertarian intuitions about freedom.
 
 ## Further Reading
 
 - [[contemplative-neuroscience]] — The neuroplasticity evidence in detail
 - [[contemplative-epistemology]] — The epistemological framework for first-person methods as knowledge sources
 - [[neurophenomenology]] — Varela's methodology integrating first-person and third-person approaches
-- [[epiphenomenalism]] — The view that contemplative evidence challenges
+- [[concepts/epiphenomenalism]] — The view that contemplative evidence challenges
 - [[witness-consciousness]] — The phenomenology of observing awareness itself
 - [[the-observer-witness-in-meditation]] — Evidence that awareness can exist without doing
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing as dual modes

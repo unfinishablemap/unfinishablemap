@@ -62,7 +62,7 @@ last_curated: null
 - [[attention-as-interface]] — Quantum Zeno mechanism
 - [[mysterianism]] — Cognitive closure
 - [[neural-quantum-coherence]] — Detailed coherence evidence
-- [[many-worlds]] — Why site rejects MWI
+- [[concepts/many-worlds]] — Why site rejects MWI
 
 ## Remaining Items
 

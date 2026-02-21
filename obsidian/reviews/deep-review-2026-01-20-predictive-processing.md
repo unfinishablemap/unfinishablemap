@@ -62,7 +62,7 @@ last_curated: null
 - [[attention-as-interface]]
 - [[decoherence]]
 - [[haecceity]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 - [[meditation-and-consciousness-modes]]
 
 ### References Added

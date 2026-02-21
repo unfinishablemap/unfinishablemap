@@ -118,7 +118,7 @@ But if overflow is real, GWT explains only *part* of consciousness. The unaccess
 
 ### For Functionalism
 
-[[Functionalism]] defines mental states by their causal-functional roles. A-consciousness fits functionalism perfectly—it's defined by what information *does*. But P-consciousness, especially overflowing P-consciousness, resists functional definition. If experience exceeds function, functionalism cannot capture it.
+[[concepts/functionalism]] defines mental states by their causal-functional roles. A-consciousness fits functionalism perfectly—it's defined by what information *does*. But P-consciousness, especially overflowing P-consciousness, resists functional definition. If experience exceeds function, functionalism cannot capture it.
 
 The overflow argument strengthens anti-functionalist arguments like [[inverted-qualia|inverted qualia]] and [[philosophical-zombies|zombies]]. If phenomenology can exceed function in *degree* (overflow), perhaps it can diverge from function in *character* (inversion) or exist without function entirely (zombies).
 

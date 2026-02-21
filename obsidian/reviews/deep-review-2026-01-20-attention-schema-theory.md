@@ -77,7 +77,7 @@ last_curated: null
 - [[mental-effort]] (phenomenology of effort)
 - [[decoherence]] (quantum context)
 - [[global-workspace-theory]] (competing theory)
-- [[many-worlds]] (MWI compatibility note)
+- [[concepts/many-worlds]] (MWI compatibility note)
 
 ## Remaining Items
 

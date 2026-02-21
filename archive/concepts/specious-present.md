@@ -8,7 +8,7 @@ ai_modified: 2026-02-04T00:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[duration]]"

@@ -52,7 +52,7 @@ The following articles now link to `[[attention-interface-mechanisms]]`:
 3. **[[decoherence]]** — Added to Further Reading section
 4. **[[structure-of-attention]]** — Added both in-text reference (at 300ms timing discussion) and Further Reading link
 5. **[[mental-effort]]** — Added to Further Reading section
-6. **[[free-will]]** — Added contextual link in the mechanisms discussion section
+6. **[[topics/free-will]]** — Added contextual link in the mechanisms discussion section
 7. **[[psychophysical-coupling]]** — Added to Further Reading section
 
 ### Rationale for Link Placements

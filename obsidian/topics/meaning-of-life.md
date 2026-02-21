@@ -12,12 +12,12 @@ concepts:
   - "[[nihilism]]"
   - "[[existentialism]]"
   - "[[purpose-and-alignment]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[phenomenology]]"
   - "[[mysterianism]]"
   - "[[illusionism]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[witness-consciousness]]"
   - "[[introspection]]"
   - "[[haecceity]]"
@@ -89,7 +89,7 @@ Nihilism assumes that without cosmic purpose, existence is valueless. But why sh
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. We're not passive observers of a predetermined show; our choices shape what happens.
 
-This connects to the [[free-will]] discussion and [[agent-causation]]. The Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding existentialists assume but never explain.
+This connects to the [[topics/free-will]] discussion and [[agent-causation]]. The Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding existentialists assume but never explain.
 
 What you do matters because it has real consequences mediated by irreducible consciousness. Your choices aren't epiphenomenal froth; they're causally efficacious interventions in reality. If consciousness shapes physical outcomes, we're constitutive participants, not negligible spectators.
 
@@ -159,7 +159,7 @@ Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: c
 
 ### The Functional Asymmetry
 
-Even granting illusionism, a practical asymmetry remains. If consciousness is real, grounding meaning in behaviour misses what ultimately matters. If illusionism is correct, attending to "illusory" phenomenal quality still tracks the functional states generating reports of significance. The downside of consciousness being real while we ignore it is worse than attending to illusions. [[Phenomenal-value-realism|Phenomenal value realism]] provides the theoretical framework for this asymmetry.
+Even granting illusionism, a practical asymmetry remains. If consciousness is real, grounding meaning in behaviour misses what ultimately matters. If illusionism is correct, attending to "illusory" phenomenal quality still tracks the functional states generating reports of significance. The downside of consciousness being real while we ignore it is worse than attending to illusions. [[topics/phenomenal-value-realism|Phenomenal value realism]] provides the theoretical framework for this asymmetry.
 
 ## Contemplative Evidence
 
@@ -259,13 +259,13 @@ The position takes seriously what we actually know: consciousness exists, it's r
 - [[consciousness-and-semantic-understanding]] — How consciousness weaves meanings into unified understanding and life trajectory
 - [[nihilism]] — The case for meaninglessness and responses to it
 - [[existentialism]] — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
-- [[phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
-- [[phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — Extending phenomenal value realism to address metaethical challenges and value pluralism
+- [[topics/phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
+- [[topics/phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — Extending phenomenal value realism to address metaethical challenges and value pluralism
 - [[purpose-and-alignment]] — How AI alignment depends on unresolved questions about meaning
 
 ### Consciousness and Experience
 - [[witness-consciousness]] — Pure awareness and its significance for meaning
-- [[free-will]] — The metaphysics of choice and why choices matter
+- [[topics/free-will]] — The metaphysics of choice and why choices matter
 - [[haecceity]] — Indexical identity and the unrepeatability of conscious perspectives
 
 ### Perspectives and Limits

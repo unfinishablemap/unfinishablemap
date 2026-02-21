@@ -77,9 +77,9 @@ None. The article was well-structured and philosophically sound.
 
 - [[meaning-of-life]] - Added to topics and Further Reading
 - [[qualia]] - Added to concepts and in-text
-- [[phenomenal-value-realism]] - Added to concepts, in-text, and Further Reading
+- [[topics/phenomenal-value-realism]] - Added to concepts, in-text, and Further Reading
 - [[moral-responsibility]] - Added to concepts and in-text
-- [[free-will]] - Added to concepts, in-text, and Further Reading
+- [[topics/free-will]] - Added to concepts, in-text, and Further Reading
 - [[mysterianism]] - Added to concepts and in-text
 - [[emergence]] - Added in-text connection
 

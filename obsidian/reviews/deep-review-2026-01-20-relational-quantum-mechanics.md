@@ -60,9 +60,9 @@ last_curated: null
 - [[decoherence]]
 - [[haecceity]]
 - [[witness-consciousness]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 - [[combination-problem]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 
 ### References Added
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness

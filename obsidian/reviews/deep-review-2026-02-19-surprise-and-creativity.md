@@ -72,7 +72,7 @@ last_curated: null
 - Added functionalist engagement paragraph after the LLM discussion
 - Added cross-link to `[[attention-as-interface]]` in anti-epiphenomenalism section
 - Added cross-link to `[[consciousness-and-mathematical-creativity]]` in Further Reading and frontmatter
-- Added `[[epiphenomenalism]]` to frontmatter concepts
+- Added `[[concepts/epiphenomenalism]]` to frontmatter concepts
 - Replaced broken `[[metarepresentation]]` link with link to `[[phenomenal-consciousness]]`
 
 ### Cross-links Added
@@ -81,7 +81,7 @@ last_curated: null
 - [[epistemic-emotions]]
 - [[attention-as-interface]]
 - [[phenomenal-consciousness]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 
 ## Remaining Items
 

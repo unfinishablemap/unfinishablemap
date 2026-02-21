@@ -79,7 +79,7 @@ last_curated: null
 - [[mysterianism]]
 - [[introspection]]
 - [[decoherence]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 - [[haecceity]]
 - [[combination-problem]]
 - [[measurement-problem]]

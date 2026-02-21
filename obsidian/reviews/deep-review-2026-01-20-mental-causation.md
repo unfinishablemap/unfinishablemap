@@ -57,7 +57,7 @@ last_curated: null
 ### Cross-links Added
 - [[illusionism]]
 - [[interface-locality]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 - [[pairing-problem]]
 - [[decoherence]]
 - [[attention-as-interface]]

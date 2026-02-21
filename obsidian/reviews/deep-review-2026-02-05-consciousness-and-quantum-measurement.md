@@ -42,7 +42,7 @@ The six adversarial personas raised expected philosophical objections:
 - **Eliminative Materialist**: Rejects hard problem as genuine—tenet disagreement
 - **Hard-Nosed Physicalist**: Heterophenomenology could capture first-person reports—tenet disagreement
 - **Quantum Skeptic**: Decoherence timescales remain challenging—addressed in article
-- **Many-Worlds Defender**: Indexical objection applies to any theory—acknowledged, linked to [[many-worlds]]
+- **Many-Worlds Defender**: Indexical objection applies to any theory—acknowledged, linked to [[concepts/many-worlds]]
 - **Empiricist**: Unfalsifiability—article honestly acknowledges this
 - **Buddhist Philosopher**: Substantial self assumed—beyond article scope
 

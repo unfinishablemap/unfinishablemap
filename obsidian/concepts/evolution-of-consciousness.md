@@ -69,7 +69,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 ### The Epiphenomenalist Challenge
 
-[[Epiphenomenalism]] holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
+[[concepts/epiphenomenalism]] holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
 
 This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose felt valence guides behaviour. If consciousness does nothing, this apparent design is illusory.
 

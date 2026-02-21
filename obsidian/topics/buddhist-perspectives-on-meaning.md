@@ -97,7 +97,7 @@ These aren't commands from a meaning-giving deity. They're practical prescriptio
 
 The doctrine of *karma* adds a causal dimension: actions have consequences, and intentional actions shape future experience. But karma isn't cosmic justice dispensed by a moral overseer. It's the natural unfolding of cause and effect. Compassionate action doesn't gain meaning from external validation; it expresses wisdom about the interconnectedness of beings.
 
-This aligns with the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Buddhist karma presupposes that mental states—intentions—have real causal consequences. If consciousness were [[epiphenomenalism|epiphenomenal]], karma would be incoherent. Both Buddhism and the Map hold that consciousness *does something*; the question is how to characterize what it does.
+This aligns with the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Buddhist karma presupposes that mental states—intentions—have real causal consequences. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], karma would be incoherent. Both Buddhism and the Map hold that consciousness *does something*; the question is how to characterize what it does.
 
 ## Contemplative Practice and Meaningful Living
 

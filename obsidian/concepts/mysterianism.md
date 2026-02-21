@@ -11,7 +11,7 @@ topics:
 concepts:
   - "[[minimal-consciousness]]"
   - "[[qualia]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[illusionism]]"

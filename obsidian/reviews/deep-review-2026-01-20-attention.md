@@ -56,7 +56,7 @@ last_curated: null
 - [[mysterianism]] — Cognitive closure and limits of understanding
 - [[agent-causation]] — Philosophical framework for conscious initiation
 - [[pairing-problem]] — How non-physical consciousness connects to matter
-- [[many-worlds]] — The interpretation that would eliminate selection
+- [[concepts/many-worlds]] — The interpretation that would eliminate selection
 
 ### New References Added
 - Brewer, J.A. et al. (2011) for PCC deactivation in meditation

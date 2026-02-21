@@ -20,7 +20,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[mental-effort]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[decoherence]]"
   - "[[stapp-quantum-mind]]"
   - "[[phenomenal-unity]]"
@@ -158,7 +158,7 @@ A study of 106 monozygotic twin pairs found that entanglement of qubits in stimu
 
 None of this proves quantum consciousness is correct. But it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up.
 
-Wiest (2025) argues these findings have implications beyond correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not [[epiphenomenalism|epiphenomenal]] but physically efficacious.
+Wiest (2025) argues these findings have implications beyond correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not [[concepts/epiphenomenalism|epiphenomenal]] but physically efficacious.
 
 ## The Illusionist Challenge
 

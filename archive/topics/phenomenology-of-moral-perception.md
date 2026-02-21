@@ -23,7 +23,7 @@ concepts:
   - "[[introspection]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-value-connection]]"
   - "[[normative-void]]"
   - "[[moral-phenomenology]]"
@@ -108,7 +108,7 @@ The phenomenology of moral perception connects to the Map's [[tenets|foundationa
 - [[moral-phenomenology]] — The philosophical study of moral experience's felt character
 - [[phenomenal-normativity]] — The thesis that phenomenal states carry intrinsic normative force
 - [[normative-phenomenology]] — First-person investigation of normative experience broadly
-- [[phenomenal-value-realism]] — The metaethical position grounding value in phenomenal properties
+- [[topics/phenomenal-value-realism]] — The metaethical position grounding value in phenomenal properties
 - [[normative-void]] — Where moral perception reaches its limits
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
 - [[contemplative-evidence-for-consciousness-theories]] — The epistemological role of contemplative practice

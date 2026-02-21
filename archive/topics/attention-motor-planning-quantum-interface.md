@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-06T11:22:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-motor-quantum-interface]]"
@@ -153,7 +153,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [[voluntary-attention]] — Neural signatures of willed attention
 - [[libet-experiments]] — The Libet experiments and their interpretation
 - [[agent-causation]] — Agent causation and the metaphysics of selection
-- [[free-will]] — The mind-body problem applied to choice
+- [[topics/free-will]] — The mind-body problem applied to choice
 
 ## References
 

@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-30
-**Article**: [[phenomenal-value-realism|Phenomenal Value Realism]]
+**Article**: [[topics/phenomenal-value-realism|Phenomenal Value Realism]]
 **Previous review**: [[deep-review-2026-01-20-phenomenal-value-realism|2026-01-20]]
 **Cross-review context**: experiential-alignment.md
 

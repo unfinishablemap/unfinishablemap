@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
@@ -27,7 +27,7 @@ ai_generated_date: 2026-02-02
 last_curated:
 ---
 
-A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [[epiphenomenalism]] and certain forms of [[materialism]] holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. This is not a logical contradiction but an epistemic self-defeat: the position may be true, but it cannot be rationally held.
+A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [[concepts/epiphenomenalism]] and certain forms of [[concepts/materialism]] holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. This is not a logical contradiction but an epistemic self-defeat: the position may be true, but it cannot be rationally held.
 
 ## The Argument Structure
 
@@ -53,7 +53,7 @@ The classic formulation against epiphenomenalism proceeds:
 
 ## Application to Epiphenomenalism
 
-The [[epiphenomenalism|epiphenomenalist]] holds that consciousness is a byproduct of brain activity—real, but causally inert. Brain states cause both behavior and consciousness, but consciousness itself causes nothing.
+The [[concepts/epiphenomenalism|epiphenomenalist]] holds that consciousness is a byproduct of brain activity—real, but causally inert. Brain states cause both behavior and consciousness, but consciousness itself causes nothing.
 
 Consider what this means for introspective reports. When you say "I'm in pain," the epiphenomenalist claims the pain experience doesn't cause the utterance. Brain states cause both the pain and the statement about pain, but the statement isn't *about* the pain in any causally grounded sense—it's about whatever the brain states happen to represent, and the pain is merely a correlated byproduct.
 
@@ -133,14 +133,14 @@ The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]
 
 ## Further Reading
 
-- [[epiphenomenalism]] — The position most directly challenged by self-stultification
+- [[concepts/epiphenomenalism]] — The position most directly challenged by self-stultification
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
 - [[mental-causation]] — The problem of how mind affects matter
 - [[causal-closure]] — The physicalist principle that motivates epiphenomenalism
 - [[introspection]] — Whether self-knowledge requires causal connection
 - [[bidirectional-interaction]] — The Map's tenet that consciousness causes things
 - [[interactionist-dualism]] — The framework that escapes self-stultification
-- [[free-will]] — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
+- [[topics/free-will]] — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
 - [[the-case-for-dualism]] — Multiple arguments converging on irreducibility
 
 ## References

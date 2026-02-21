@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[qualia]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[phenomenal-concepts-strategy]]"
 related_articles:

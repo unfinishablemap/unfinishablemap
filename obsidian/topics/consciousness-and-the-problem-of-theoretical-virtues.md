@@ -12,7 +12,7 @@ topics:
   - "[[phenomenology-of-theoretical-commitment]]"
 concepts:
   - "[[explanatory-gap]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[dualism]]"
   - "[[mysterianism]]"
   - "[[epistemic-emotions]]"

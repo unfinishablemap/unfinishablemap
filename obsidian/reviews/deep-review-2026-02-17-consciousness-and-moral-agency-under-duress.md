@@ -70,7 +70,7 @@ last_curated: null
 ### Cross-links Added
 
 - [[reasons-responsiveness]] (in Standard Debate section)
-- [[consciousness-selecting-neural-patterns]] (in Coercion and the Veto Power section)
+- [[concepts/consciousness-selecting-neural-patterns]] (in Coercion and the Veto Power section)
 - [[luck-objection]] (in Why Not a Physicalist Account section)
 - [[suffering-versus-pain]] (in Further Reading)
 - [[spontaneous-intentional-action]] (in Further Reading)

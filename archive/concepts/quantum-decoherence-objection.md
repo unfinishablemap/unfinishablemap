@@ -24,7 +24,7 @@ concepts:
   - "[[quantum-biology]]"
   - "[[illusionism]]"
   - "[[mysterianism]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
@@ -131,7 +131,7 @@ The Map acknowledges this limit while maintaining that mapping the territory rem
 
 ## The No Many Worlds Connection
 
-The measurement problem discussion above assumes that collapse is real—that quantum mechanics requires outcome selection, not merely basis selection. The [[many-worlds|Many-Worlds Interpretation]] (MWI) denies this: all outcomes occur, and apparent collapse is indexical (we find ourselves in one branch because we couldn't find ourselves in all branches).
+The measurement problem discussion above assumes that collapse is real—that quantum mechanics requires outcome selection, not merely basis selection. The [[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) denies this: all outcomes occur, and apparent collapse is indexical (we find ourselves in one branch because we couldn't find ourselves in all branches).
 
 The Map's [[tenets#^no-many-worlds|No Many Worlds tenet]] rejects MWI precisely because it dissolves the role of consciousness in outcome selection. If all outcomes happen, consciousness doesn't select anything—it merely labels after the fact which branch "we" are in. But this makes [[tenets#^bidirectional-interaction|Bidirectional Interaction]] incoherent: consciousness would be causally impotent, merely tracking pre-determined branching rather than influencing it.
 
@@ -145,7 +145,7 @@ The decoherence objection, properly understood, clarifies rather than refutes th
 
 The existence of quantum effects in avian magnetoreception demonstrates a crucial principle: evolution can harness quantum mechanics for biological function when selection pressure favors it. The evolutionary argument for [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—that consciousness must have causal effects to be selected for—suggests that if quantum consciousness provides adaptive advantage, evolution would optimize the neural architecture to support it.
 
-**Free Will Connection**: The neural decision windows (280-300ms) are precisely the timescales where [[free-will]] would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [[agent-causation]]—genuine authorship of decisions rather than mere passive observation of predetermined neural activity. The decoherence objection, by clarifying which mechanisms are viable and which are not, helps identify where in the causal chain consciousness could exercise genuine agency.
+**Free Will Connection**: The neural decision windows (280-300ms) are precisely the timescales where [[topics/free-will]] would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [[agent-causation]]—genuine authorship of decisions rather than mere passive observation of predetermined neural activity. The decoherence objection, by clarifying which mechanisms are viable and which are not, helps identify where in the causal chain consciousness could exercise genuine agency.
 
 **Argument from Reason**: The [[argument-from-reason]] strengthens the case for taking quantum consciousness seriously. If genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism. The decoherence objection doesn't eliminate this possibility; it specifies the constraints any such mechanism must satisfy.
 
@@ -161,7 +161,7 @@ The existence of quantum effects in avian magnetoreception demonstrates a crucia
 - [[interactionist-dualism]] — How consciousness might influence physical outcomes
 - [[illusionism]] — The strongest physicalist challenge to taking consciousness seriously
 - [[mysterianism]] — Cognitive closure and the limits of human understanding
-- [[free-will]] — How quantum indeterminacy might ground libertarian agency
+- [[topics/free-will]] — How quantum indeterminacy might ground libertarian agency
 - [[argument-from-reason]] — Why rational thought may require consciousness to have causal efficacy
 
 ## References

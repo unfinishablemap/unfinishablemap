@@ -14,7 +14,7 @@ concepts:
   - "[[psychophysical-coupling]]"
   - "[[mental-causation]]"
   - "[[quantum-consciousness]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[attention]]"
 related_articles:
   - "[[tenets]]"
@@ -35,7 +35,7 @@ The distinction matters because most philosophical work on psychophysical laws h
 
 David Chalmers developed the canonical framework for [[psychophysical-laws]], arguing that consciousness requires new fundamental laws bridging phenomenal and physical domains. His three principles—structural coherence, organizational invariance, and double-aspect information—primarily address how physical configurations produce experiences.
 
-This creates an asymmetry. Chalmers' naturalistic dualism can accommodate [[epiphenomenalism]]—the view that experience accompanies physical processes without causally affecting them. Supervenience laws alone don't require that consciousness makes a difference.
+This creates an asymmetry. Chalmers' naturalistic dualism can accommodate [[concepts/epiphenomenalism]]—the view that experience accompanies physical processes without causally affecting them. Supervenience laws alone don't require that consciousness makes a difference.
 
 The Map cannot accept this asymmetry. If consciousness is causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself. We'd be accidentally right about our experiences at best. The Bidirectional Interaction tenet commits the Map to genuine downward causation—and selection laws are what make that causation precise.
 
@@ -127,7 +127,7 @@ Selection laws are where the Map's tenets become operationally precise.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** justifies the ontological commitment. Adding selection laws seems less parsimonious than physicalism. But a theory that ignores robust data isn't genuinely simpler—it's inadequate. If consciousness is causally efficacious, selection laws are necessary completions of our picture.
 
-Selection laws also bear on [[free-will]]. If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [[agent-causation]]—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
+Selection laws also bear on [[topics/free-will]]. If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [[agent-causation]]—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
 
 ## What Would Challenge This View?
 
@@ -153,8 +153,8 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [[mental-causation]] — How consciousness affects physical outcomes
 - [[quantum-consciousness]] — Quantum mechanisms for selection
 - [[stapp-quantum-mind]] — The attention-observation mechanism in detail
-- [[epiphenomenalism]] — The view selection laws are designed to avoid
-- [[free-will]] — How selection laws provide a mechanism for libertarian free will
+- [[concepts/epiphenomenalism]] — The view selection laws are designed to avoid
+- [[topics/free-will]] — How selection laws provide a mechanism for libertarian free will
 - [[agent-causation]] — Genuine authorship through mental selection
 - [[tenets]] — The Map's foundational commitments
 

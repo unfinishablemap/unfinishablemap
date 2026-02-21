@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[qualia]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
 related_articles:

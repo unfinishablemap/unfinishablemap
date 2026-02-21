@@ -12,7 +12,7 @@ topics:
   - "[[suffering-versus-pain]]"
 concepts:
   - "[[qualia]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mental-causation]]"
   - "[[phenomenal-consciousness]]"
   - "[[explanatory-gap]]"
@@ -55,7 +55,7 @@ The dissociation is not a graded reduction. Asymbolia patients do not report mil
 
 ### Against Functionalist Reduction
 
-[[functionalism|Functionalism]] holds that mental states are defined by their causal roles—pain *is* whatever state plays the functional role of detecting damage, motivating withdrawal, and producing avoidance learning. Asymbolia challenges this directly. The sensory detection persists. What vanishes is the phenomenal quality—the felt awfulness—and with it, the entire motivational structure.
+[[concepts/functionalism|Functionalism]] holds that mental states are defined by their causal roles—pain *is* whatever state plays the functional role of detecting damage, motivating withdrawal, and producing avoidance learning. Asymbolia challenges this directly. The sensory detection persists. What vanishes is the phenomenal quality—the felt awfulness—and with it, the entire motivational structure.
 
 A sophisticated functionalist can respond that asymbolia patients are simply *not in pain*: the functional role has been disrupted, so the state no longer counts as pain. But this concedes the central point. Patients correctly identify nociceptive stimuli—they report that a pinprick is painful in a sensory sense, localise it accurately, and describe its quality. Something pain-like persists that they recognise and label. If the functionalist must deny this is pain because the affective-motivational component is missing, then functionalism acknowledges that the [[qualia|quale]] of pain is not exhausted by nociceptive detection. The felt awfulness is doing explanatory work that functional role alone cannot replace—which is what the dualist claims.
 
@@ -103,7 +103,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [[mental-causation]] — How mind influences matter
 - [[placebo-effect-and-mental-causation]] — Another route to dissociating pain's dimensions
 - [[blindsight]] — A parallel clinical dissociation supporting dualism
-- [[epiphenomenalism]] — The view that consciousness has no causal efficacy
+- [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
 
 ## References
 

@@ -21,7 +21,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[illusionism]]"
   - "[[decoherence]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[witness-consciousness]]"
   - "[[phenomenology-of-choice]]"
   - "[[metarepresentation]]"
@@ -42,7 +42,7 @@ coalesced_from:
   - "/topics/consciousness-as-intelligence-amplifier/"
 ---
 
-Consciousness amplifies intelligence. Not by adding computational power—neurons handle computation—but by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The great ape-human intelligence gap, approximately ten-fold despite only 1-2% genetic difference, may reflect this amplification: great apes possess sophisticated neural systems, yet lack the conscious access that transforms raw processing into human-level cognition. If consciousness is [[epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural activity—this gap is inexplicable. If consciousness causally amplifies what neural systems can achieve, the gap makes sense.
+Consciousness amplifies intelligence. Not by adding computational power—neurons handle computation—but by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The great ape-human intelligence gap, approximately ten-fold despite only 1-2% genetic difference, may reflect this amplification: great apes possess sophisticated neural systems, yet lack the conscious access that transforms raw processing into human-level cognition. If consciousness is [[concepts/epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural activity—this gap is inexplicable. If consciousness causally amplifies what neural systems can achieve, the gap makes sense.
 
 The Unfinishable Map proposes that consciousness interfaces with neural systems through [[attention-as-interface|attention]], enabling selection among neural patterns. This interface doesn't replace neural processing but amplifies its reach—making stored knowledge flexibly accessible, enabling manipulation of representations, and supporting the kind of reasoning that cumulative culture requires.
 
@@ -110,7 +110,7 @@ The Bischof-Köhler hypothesis suggests animals cannot act on drive states they 
 
 William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this argument formally; the amplification hypothesis strengthens it with empirical evidence.
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert—then:
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—then:
 1. Human-level intelligence should be achievable through neural complexity alone
 2. Great apes should show no systematic gap in capacities tied to conscious processing
 3. The correlation between expanded consciousness and expanded intelligence would be coincidental
@@ -226,7 +226,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [[phenomenology-of-choice]] — The felt structure of deliberate selection
 - [[metarepresentation]] — Representing representations as representations
 - [[global-workspace-theory]] — The broadcasting account of conscious access
-- [[epiphenomenalism]] — The position the amplification evidence contradicts
+- [[concepts/epiphenomenalism]] — The position the amplification evidence contradicts
 - [[interactionist-dualism]] — How consciousness influences brain states
 
 ## References

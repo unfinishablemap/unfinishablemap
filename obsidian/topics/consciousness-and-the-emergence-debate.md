@@ -16,11 +16,11 @@ concepts:
   - "[[downward-causation]]"
   - "[[mental-causation]]"
   - "[[reductionism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[panpsychism]]"
   - "[[combination-problem]]"
   - "[[interactionist-dualism]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[quantum-consciousness]]"
 related_articles:
   - "[[tenets]]"
@@ -48,7 +48,7 @@ The debate over consciousness maps onto three fundamentally different claims abo
 
 If consciousness is only weakly emergent, it is in principle derivable from a complete physical description. Temperature is weakly emergent from molecular motion—surprising to observers, but calculable in principle from microphysics. Weak emergentists say consciousness is like this: astonishingly complex, but ultimately just what sophisticated information processing *is* when viewed from the inside.
 
-This position is [[functionalism]] applied to the emergence question. Consciousness is defined by its functional role—the pattern of inputs, outputs, and internal states—rather than by the substrate implementing it. A silicon computer running the right programme would be conscious for the same reason a brain is: the computation is what matters, not the material.
+This position is [[concepts/functionalism]] applied to the emergence question. Consciousness is defined by its functional role—the pattern of inputs, outputs, and internal states—rather than by the substrate implementing it. A silicon computer running the right programme would be conscious for the same reason a brain is: the computation is what matters, not the material.
 
 The appeal is parsimony. Only physics exists; consciousness is physics doing something intricate. No new ontological categories, no mysterious interfaces, no violation of [[causal-closure|causal closure]]. The cost is the [[hard-problem-of-consciousness|hard problem]]. If consciousness is derivable from physics, then a hypothetical being with complete knowledge of every particle's behaviour could deduce what red looks like, what pain feels like, what it is to wonder about emergence. No one has shown how such a derivation could work, or even what it would look like. The "derivation in principle" remains a promissory note.
 
@@ -60,7 +60,7 @@ If consciousness is strongly emergent, it possesses properties not deducible eve
 
 This is the Map's position. Strong emergence says the universe contains real novelty: properties that are not implicit in the fundamental physical inventory but arise when matter organises in certain ways. C.D. Broad stated the criterion in 1925: emergent properties are those whose "characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties. David Chalmers sharpened the point: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" (Chalmers, 2006).
 
-Strong emergence demands a mechanism for [[downward-causation]]—how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [[epiphenomenalism|epiphenomenal]]: real but causally inert, a metaphysical spectator. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies. This answers Jaegwon Kim's [[emergence#Kim's Exclusion Argument|exclusion argument]] by targeting causal closure where physics is genuinely incomplete.
+Strong emergence demands a mechanism for [[downward-causation]]—how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [[concepts/epiphenomenalism|epiphenomenal]]: real but causally inert, a metaphysical spectator. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies. This answers Jaegwon Kim's [[emergence#Kim's Exclusion Argument|exclusion argument]] by targeting causal closure where physics is genuinely incomplete.
 
 The cost of strong emergence is accepting that reality contains more than physics describes. For many philosophers, this is too high a price. For the Map, it is an honest acknowledgment that the simplest ontology is not always the correct one—which is what the [[tenets#^occams-limits|fifth tenet]] asserts.
 

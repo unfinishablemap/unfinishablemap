@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-01T18:08:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[temporal-consciousness]]"
@@ -179,7 +179,7 @@ The phenomenology of temporal agency connects to all five tenets:
 - [[time-collapse-and-agency]] — The Map's metaphysical framework connecting time, collapse, and agency
 - [[temporal-consciousness]] — Broader treatment of temporal structure in consciousness
 - [[phenomenology-of-choice]] — What it's like to choose, including temporal aspects
-- [[free-will]] — The Map's account of libertarian agency
+- [[topics/free-will]] — The Map's account of libertarian agency
 - [[duration]] — Bergson's concept of lived time
 - [[specious-present]] — The experienced duration of the present moment
 - [[mental-effort]] — The phenomenology of cognitive effort and possible mechanisms

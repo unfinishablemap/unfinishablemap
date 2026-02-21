@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[haecceity]]"
   - "[[self-and-consciousness]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[philosophical-zombies]]"
   - "[[qualia]]"
   - "[[interactionist-dualism]]"
@@ -102,7 +102,7 @@ The vertiginous question intersects several philosophical problems:
 
 **[[moral-responsibility|Moral responsibility]]**: If haecceity grounds personal identity, it also grounds responsibility. I am responsible for *my* actions because I am this particular subject who performed them—not merely someone qualitatively similar. Pattern-identity theories that allow for branching or fusing selves face difficulties with desert and punishment: which branch is guilty? The vertiginous question connects to ethics: the indexical fact that *I* did this grounds the normative fact that *I* am accountable.
 
-**Many-worlds branching**: After a quantum measurement in [[many-worlds]] interpretation, there are multiple branches with multiple observers. Which is you? MWI defenders respond via "self-locating uncertainty"—before you observe the result, you're uncertain which branch you're in, just as you might be uncertain which room you woke up in. Both branches contain persons continuous with your pre-measurement self; asking which is "really" you is like asking which of two identical hotel rooms is "really" yours.
+**Many-worlds branching**: After a quantum measurement in [[concepts/many-worlds]] interpretation, there are multiple branches with multiple observers. Which is you? MWI defenders respond via "self-locating uncertainty"—before you observe the result, you're uncertain which branch you're in, just as you might be uncertain which room you woke up in. Both branches contain persons continuous with your pre-measurement self; asking which is "really" you is like asking which of two identical hotel rooms is "really" yours.
 
 The Map's response: self-locating uncertainty normally presupposes a single world with indexically uncertain facts—you're in one room, you just don't know which. On MWI, there's no such fact; both outcomes are equally real and "you" end up in both. The uncertainty framework seems inapplicable when all outcomes occur. Moreover, you will experience one definite sequence of outcomes, not all of them. The felt reality of anticipating one future—not multiple incompatible ones—suggests an indexical fact that MWI cannot accommodate.
 
@@ -144,7 +144,7 @@ The vertiginous question connects to all five tenets:
 - [[indexical-identity-quantum-measurement]] — How indexical identity applies to quantum interpretations
 - [[personal-identity]] — What makes you the same person over time
 - [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
-- [[many-worlds]] — Why indexical identity problems challenge many-worlds
+- [[concepts/many-worlds]] — Why indexical identity problems challenge many-worlds
 - [[philosophical-zombies]] — Why qualitative identity doesn't guarantee conscious identity
 - [[hard-problem-of-consciousness]] — The broader context for consciousness problems
 

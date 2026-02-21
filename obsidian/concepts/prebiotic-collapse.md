@@ -22,7 +22,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[haecceity]]"
   - "[[spontaneous-collapse-theories]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[combination-problem]]"
   - "[[mental-causation]]"
 related_articles:
@@ -98,7 +98,7 @@ But decoherence alone doesn't solve the [[measurement-problem|measurement proble
 
 ### 5. The Many-Worlds Dissolution
 
-The [[many-worlds|Many-Worlds Interpretation]] claims to dissolve the prebiotic problem entirely: there was no collapse before minds because there is never any collapse. All outcomes occur in branching universes; conscious observers simply find themselves in one branch among infinitely many.
+The [[concepts/many-worlds|Many-Worlds Interpretation]] claims to dissolve the prebiotic problem entirely: there was no collapse before minds because there is never any collapse. All outcomes occur in branching universes; conscious observers simply find themselves in one branch among infinitely many.
 
 This is not a solution but a different problem. MWI trades the prebiotic collapse question for the [[haecceity|indexical identity question]]: why am I *this* observer in *this* branch? If all branches are equally real and all observers equally exist, the question of "which outcome" merely relocates to "which me." The explanatory burden shifts from physics to metaphysics without genuine progress.
 
@@ -122,7 +122,7 @@ The Map separates two claims that often get conflated:
 
 But (2) does not entail that consciousness is *universally required* for collapse. Objective reduction (Penrose-style gravity-induced collapse, GRW spontaneous localization, or some yet-unknown mechanism) provides the baseline. Collapse happens throughout the universe, before and beyond minds, through physical processes.
 
-What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing—particularly where the [[consciousness-selecting-neural-patterns|selection of neural patterns]] matters for behavior—consciousness biases which outcomes become actual. The quantum Zeno effect (via [[attention-as-interface|attention]]) allows consciousness to prolong certain superpositions, effectively selecting among possibilities. But this selection occurs *within* an already-collapsing physics, not as the sole source of collapse.
+What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing—particularly where the [[concepts/consciousness-selecting-neural-patterns|selection of neural patterns]] matters for behavior—consciousness biases which outcomes become actual. The quantum Zeno effect (via [[attention-as-interface|attention]]) allows consciousness to prolong certain superpositions, effectively selecting among possibilities. But this selection occurs *within* an already-collapsing physics, not as the sole source of collapse.
 
 ### The Decoherence Challenge
 
@@ -223,7 +223,7 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 - [[attention-as-interface]] — How consciousness interfaces with neural systems
 - [[haecceity]] — Why indexical identity matters for rejecting Many Worlds
 - [[combination-problem]] — The challenge facing panpsychist responses
-- [[many-worlds]] — Detailed arguments against the many-worlds interpretation
+- [[concepts/many-worlds]] — Detailed arguments against the many-worlds interpretation
 
 ## References
 

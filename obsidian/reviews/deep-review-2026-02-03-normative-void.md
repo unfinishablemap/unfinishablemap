@@ -53,12 +53,12 @@ last_curated: null
 The article had no inbound links. Added cross-references from:
 - [[voids]] — Listed in "Specific Voids" section
 - [[mysterianism]] — Added to Further Reading as extension of cognitive closure to ethics
-- [[phenomenal-value-realism]] — Added connection (if consciousness grounds value, what moral truths lie beyond reach?)
+- [[topics/phenomenal-value-realism]] — Added connection (if consciousness grounds value, what moral truths lie beyond reach?)
 - [[ethics-of-consciousness]] — Added in Further Reading
 - [[affective-void]] — Added as sibling void article
 
 Also added to normative-void's related_articles:
-- [[phenomenal-value-realism]]
+- [[topics/phenomenal-value-realism]]
 - [[moral-responsibility]]
 - [[ethics-of-consciousness]]
 

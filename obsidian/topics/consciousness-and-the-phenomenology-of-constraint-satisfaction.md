@@ -84,7 +84,7 @@ This asymmetry has implications for the Map's framework. If consciousness were m
 
 The phenomenology of constraint satisfaction illuminates several of the Map's [[tenets]].
 
-The Map's commitment to [[interactionist-dualism]] gains support from the asymmetric automatisation pattern. If consciousness were [[epiphenomenalism|epiphenomenal]], it could neither usefully engage with novel constraints nor disruptively re-engage with automatised ones. Both directions of causal influence — helpful engagement and harmful choking — require consciousness to be doing genuine work.
+The Map's commitment to [[interactionist-dualism]] gains support from the asymmetric automatisation pattern. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], it could neither usefully engage with novel constraints nor disruptively re-engage with automatised ones. Both directions of causal influence — helpful engagement and harmful choking — require consciousness to be doing genuine work.
 
 The Map's tenet of [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] finds a natural phenomenal expression in constraint satisfaction. The felt experience of constraints narrowing possibility space mirrors what the Map proposes physically: consciousness selects among options that physical processes prepare, biasing quantum indeterminacies toward outcomes that satisfy the agent's evaluative priorities. The phenomenology of resolution — when a satisfying solution "clicks" — may be the experiential signature of this selection event.
 

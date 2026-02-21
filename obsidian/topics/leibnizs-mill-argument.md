@@ -14,7 +14,7 @@ concepts:
   - "[[the-case-for-dualism]]"
   - "[[explanatory-gap]]"
   - "[[qualia]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[phenomenal-unity]]"
 related_articles:
   - "[[tenets]]"
@@ -33,7 +33,7 @@ Gottfried Wilhelm Leibniz presented the argument in section 17 of his *Monadolog
 
 > "Moreover, it must be confessed that perception and that which depends upon it are inexplicable on mechanical grounds, that is to say, by means of figures and motions. And supposing there were a machine, so constructed as to think, feel, and have perception, it might be conceived as increased in size, while keeping the same proportions, so that one might go into it as into a mill. That being so, we should, on examining its interior, find only parts which work one upon another, and never anything by which to explain a perception."
 
-The argument strikes at the heart of [[materialism]]. No matter how closely we examine the physical substrate—be it seventeenth-century clockwork or twenty-first-century neurons—we find only mechanisms, interactions, pushes and pulls. Perception itself, the felt quality of experience, seems absent from any such inventory.
+The argument strikes at the heart of [[concepts/materialism]]. No matter how closely we examine the physical substrate—be it seventeenth-century clockwork or twenty-first-century neurons—we find only mechanisms, interactions, pushes and pulls. Perception itself, the felt quality of experience, seems absent from any such inventory.
 
 ## The Argument's Structure
 
@@ -87,7 +87,7 @@ This is possible in principle but amounts to promissory materialism. Until the e
 
 ## The Argument and Functionalism
 
-Modern [[functionalism|functionalism]]—the view that mental states are defined by their causal roles rather than their physical substrate—might seem to escape Leibniz's objection. If perception is a functional state (a certain pattern of inputs, outputs, and internal transitions), then inspection of the mill *would* reveal it: the functional organization would be visible in the parts' arrangements and interactions.
+Modern [[concepts/functionalism|functionalism]]—the view that mental states are defined by their causal roles rather than their physical substrate—might seem to escape Leibniz's objection. If perception is a functional state (a certain pattern of inputs, outputs, and internal transitions), then inspection of the mill *would* reveal it: the functional organization would be visible in the parts' arrangements and interactions.
 
 But this response changes the subject. Functionalism accounts for the *role* perception plays, not for its *felt quality*. A perfect functional duplicate of a perceiving system (a [[philosophical-zombies|zombie]]) would have all the right causal structure but—by hypothesis—no phenomenal experience. Leibniz's point is that inspection reveals only the causal structure. The question remains: where is the experience?
 
@@ -121,8 +121,8 @@ The mill argument stands alongside the [[knowledge-argument]], the [[philosophic
 - [[philosophical-zombies]] — Conceivability arguments for dualism
 - [[explanatory-gap]] — Why physical explanation seems to miss experience
 - [[panpsychism]] — One response to the mill that Leibniz himself endorsed
-- [[functionalism]] — The view that mental states are causal roles, and why it doesn't escape the mill
-- [[free-will]] — How the mill argument supports the reality of conscious choice
+- [[concepts/functionalism]] — The view that mental states are causal roles, and why it doesn't escape the mill
+- [[topics/free-will]] — How the mill argument supports the reality of conscious choice
 
 ## References
 

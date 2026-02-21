@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-20
-**Article**: [[phenomenal-value-realism|Phenomenal Value Realism]]
+**Article**: [[topics/phenomenal-value-realism|Phenomenal Value Realism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -85,7 +85,7 @@ last_curated: null
 - [[decoherence]] (frontmatter + inline)
 - [[haecceity]] (frontmatter, already linked inline)
 - [[buddhism-and-dualism]] (frontmatter + Further Reading)
-- [[epiphenomenalism]] (inline in Relation to Site Perspective)
+- [[concepts/epiphenomenalism]] (inline in Relation to Site Perspective)
 
 ## Remaining Items
 

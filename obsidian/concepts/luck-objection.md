@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-03T13:52:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[agent-causation]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[decoherence]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[buddhism-and-dualism]]"
 related_articles:
   - "[[tenets]]"
@@ -143,12 +143,12 @@ The luck objection directly challenges the Map's [[tenets#^bidirectional-interac
 ## Further Reading
 
 - [[quantum-indeterminacy-free-will]] — Comprehensive systematization including Kane's 2024 convergence and motor selection evidence
-- [[free-will]] — Broader treatment of free will and determinism
+- [[topics/free-will]] — Broader treatment of free will and determinism
 - [[agent-causation]] — How agents cause actions as substances
 - [[mental-effort]] — The phenomenology of effort and quantum Zeno mechanism
 - [[quantum-consciousness]] — The broader framework for consciousness-physics interaction
 - [[decoherence]] — The physics-based objection and quantum biology responses
-- [[many-worlds]] — Why MWI undermines the selection picture entirely
+- [[concepts/many-worlds]] — Why MWI undermines the selection picture entirely
 
 ## References
 

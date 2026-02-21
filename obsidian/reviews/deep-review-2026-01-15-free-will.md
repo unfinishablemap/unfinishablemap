@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-15
-**Article**: [[free-will|Free Will and Determinism]]
+**Article**: [[topics/free-will|Free Will and Determinism]]
 **Previous review**: [[deep-review-2026-01-13-free-will|2026-01-13]]
 
 ## Context
@@ -82,7 +82,7 @@ None. Previous review addressed major issues (decoherence, compatibilism treatme
 The article now comprehensively links to all relevant site content:
 - [[agent-causation]], [[libet-experiments]], [[retrocausality]], [[interactionist-dualism]]
 - [[mental-effort]], [[duration]], [[quantum-consciousness]]
-- [[epiphenomenalism]], [[illusionism]], [[personal-identity]]
+- [[concepts/epiphenomenalism]], [[illusionism]], [[personal-identity]]
 - [[qualia]], [[tenets]]
 
 ## Style Guide Compliance

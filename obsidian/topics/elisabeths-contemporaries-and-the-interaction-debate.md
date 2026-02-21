@@ -15,7 +15,7 @@ concepts:
   - "[[dualism]]"
   - "[[causal-closure]]"
   - "[[mental-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[occasionalism]]"
 related_articles:
   - "[[tenets]]"

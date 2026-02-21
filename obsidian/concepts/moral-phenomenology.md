@@ -20,7 +20,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-value-connection]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[normative-void]]"
   - "[[moral-responsibility]]"
   - "[[phenomenological-evidence]]"
@@ -117,7 +117,7 @@ None of these findings currently obtains. The challenge for sceptics is to produ
 - [[moral-perception]] — The capacity to directly perceive ethical properties
 - [[phenomenal-normativity]] — The thesis that phenomenal states carry intrinsic normative force
 - [[normative-phenomenology]] — The broader method for investigating normative experience
-- [[phenomenal-value-realism]] — The metaethical position grounding value in phenomenal properties
+- [[topics/phenomenal-value-realism]] — The metaethical position grounding value in phenomenal properties
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
 - [[phenomenological-evidence]] — How first-person reports count as evidence
 - [[normative-void]] — Where moral perception reaches its limits

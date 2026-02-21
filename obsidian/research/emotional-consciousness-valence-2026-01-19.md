@@ -10,9 +10,9 @@ topics:
   - "[[ethics-of-consciousness]]"
 concepts:
   - "[[qualia]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[higher-order-theories]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -101,7 +101,7 @@ Emotional consciousness—the felt quality of emotions—is a contested topic at
   - Chalmers' Vulcan thought experiment: a being with phenomenal consciousness but no valence (no suffering/pleasure) still has moral status
   - Bentham's position was "narrow sentientism"—suffering capacity specifically grounds moral consideration
   - Debate: is phenomenal consciousness without valence enough for moral status?
-- **Tenet alignment**: Supports [[phenomenal-value-realism]]. If valence grounds intrinsic value/disvalue, and this is not reducible to functional properties, moral realism requires phenomenal realism.
+- **Tenet alignment**: Supports [[topics/phenomenal-value-realism]]. If valence grounds intrinsic value/disvalue, and this is not reducible to functional properties, moral realism requires phenomenal realism.
 - **Quote**: "Many think that a specific aspect of phenomenal consciousness—valenced or affective experience—is essential to consciousness's moral significance."
 
 ### Consciousness Matters: Phenomenal Experience Has Functional Value
@@ -261,7 +261,7 @@ The debate about emotional consciousness maps directly onto the hard problem. If
 If phenomenal experience has "intrinsic value" that explains motivated behavior (as the "Consciousness Matters" paper argues), then consciousness does causal work. Valenced states don't merely correlate with approach/avoidance—they *motivate* it. This aligns with agent causation: the conscious subject evaluates options via valence and selects accordingly. The quantum selection mechanism may operate through valenced assessment—attention is drawn to valued targets.
 
 ### Connection to Phenomenal Value Realism
-The moral significance of valence connects directly to [[phenomenal-value-realism]]. If the badness of suffering is objective and intrinsic (not just represented), and if this objective badness grounds moral reasons, then moral facts depend on phenomenal facts. This supports the Map's ethics framework: consciousness isn't just morally relevant—its valenced character is the ground of value itself.
+The moral significance of valence connects directly to [[topics/phenomenal-value-realism]]. If the badness of suffering is objective and intrinsic (not just represented), and if this objective badness grounds moral reasons, then moral facts depend on phenomenal facts. This supports the Map's ethics framework: consciousness isn't just morally relevant—its valenced character is the ground of value itself.
 
 ### Potential Challenge: LeDoux's HOTEC
 LeDoux's higher-order theory could complicate the Map's framework if it implies basic subcortical affects are not genuinely conscious. However, the Map can accommodate this by distinguishing:

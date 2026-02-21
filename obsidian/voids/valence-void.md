@@ -14,7 +14,7 @@ concepts:
   - "[[valence]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"

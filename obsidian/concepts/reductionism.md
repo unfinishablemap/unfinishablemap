@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[minimal-consciousness]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[emergence]]"
   - "[[explanatory-gap]]"
   - "[[downward-causation]]"
@@ -37,7 +37,7 @@ Reductionism is the philosophical thesis that complex phenomena can be explained
 
 The claim that reality ultimately consists of fundamental physical entities—atoms, particles, fields. Higher-level objects like tables, organisms, and minds exist only as arrangements of fundamental stuff. There are no irreducibly "mental" substances or properties.
 
-This is the metaphysical core of [[materialism]]. If ontological reductionism about mind is true, consciousness just *is* a complex physical process. The [[tenets#^dualism|Dualism tenet]] denies precisely this—consciousness is not reducible to physical processes.
+This is the metaphysical core of [[concepts/materialism]]. If ontological reductionism about mind is true, consciousness just *is* a complex physical process. The [[tenets#^dualism|Dualism tenet]] denies precisely this—consciousness is not reducible to physical processes.
 
 ### Methodological Reductionism
 
@@ -141,7 +141,7 @@ The [[buddhism-and-dualism|Buddhist tradition]] raises its own challenges to red
 - [[minimal-consciousness]] — Complete physical knowledge of simple organisms fails to resolve phenomenal questions
 - [[emergence]] — The philosophical framework for non-reductive properties
 - [[explanatory-gap]] — Why physical explanations leave consciousness unexplained
-- [[materialism]] — The view that reductionism about consciousness underwrites
+- [[concepts/materialism]] — The view that reductionism about consciousness underwrites
 - [[downward-causation]] — What reduction denies and the Map affirms
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
 - [[mysterianism]] — Cognitive closure and why the hard problem may resist solution

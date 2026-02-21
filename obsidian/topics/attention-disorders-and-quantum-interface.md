@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-05T03:24:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-as-interface]]"
@@ -115,7 +115,7 @@ With practice, several capacities develop:
 
 **Effort requirements decrease.** Advanced meditators report that sustained attention becomes easier—the interface operates more efficiently.
 
-These changes have neural correlates. Long-term meditators show structural and functional differences in attention networks, including increased cortical thickness in areas associated with attention control. This is consistent with [[consciousness-selecting-neural-patterns|Schwartz's OCD neuroplasticity evidence]]: directed attention produces lasting brain changes.
+These changes have neural correlates. Long-term meditators show structural and functional differences in attention networks, including increased cortical thickness in areas associated with attention control. This is consistent with [[concepts/consciousness-selecting-neural-patterns|Schwartz's OCD neuroplasticity evidence]]: directed attention produces lasting brain changes.
 
 ### The Witness State
 
@@ -199,7 +199,7 @@ The materialist might argue that attention disorders show attention is "just" ne
 - [[mental-effort]] — Why attention feels effortful and what effort signifies
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation
 - [[dopamine-and-the-unified-interface]] — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface
-- [[consciousness-selecting-neural-patterns]] — How consciousness might select among neural options
+- [[concepts/consciousness-selecting-neural-patterns]] — How consciousness might select among neural options
 
 ## References
 

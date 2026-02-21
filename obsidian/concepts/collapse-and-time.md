@@ -111,7 +111,7 @@ The Map rejects this for several reasons. First, the "discovery" model treats te
 
 Second, the branching structure presupposes what it purports to explain. Why do branches increase rather than decrease? The answer traces to the Past Hypothesis (low-entropy initial conditions), which MWI inherits from thermodynamics rather than explaining. The quantum arrow doesn't reduce to branching; it's assumed in setting up the branches.
 
-Third, as detailed in the [[many-worlds|Against Many-Worlds]] page, MWI faces the indexical identity problem: if all outcomes occur, what determines which outcome *I* experience? Carroll's "self-locating uncertainty" answer treats branch-identity as primitive—but this is exactly what needs explaining. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that indexical identity matters because consciousness is what makes *this* outcome actual, not merely observed.
+Third, as detailed in the [[concepts/many-worlds|Against Many-Worlds]] page, MWI faces the indexical identity problem: if all outcomes occur, what determines which outcome *I* experience? Carroll's "self-locating uncertainty" answer treats branch-identity as primitive—but this is exactly what needs explaining. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that indexical identity matters because consciousness is what makes *this* outcome actual, not merely observed.
 
 Only if collapse is real does consciousness have a role. Only if collapse introduces asymmetry does that role connect to temporal experience.
 
@@ -160,7 +160,7 @@ The connection between collapse and time strengthens multiple tenets:
 - [[decoherence]] — What environmental interaction does and doesn't do
 - [[agent-causation]] — How agents serve as ultimate sources of action
 - [[temporal-consciousness]] — Broader treatment of time in consciousness
-- [[many-worlds]] — Detailed arguments against the Many-Worlds interpretation
+- [[concepts/many-worlds]] — Detailed arguments against the Many-Worlds interpretation
 
 ## References
 

@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-06T14:37:00+00:00
 draft: false
 topics:
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[the-case-for-dualism]]"

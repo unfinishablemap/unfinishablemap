@@ -16,13 +16,13 @@ concepts:
   - "[[argument-from-reason]]"
   - "[[illusionism]]"
   - "[[mysterianism]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[voluntary-attention]]"
   - "[[conscious-vs-unconscious-processing]]"
 related_articles:
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[binding-problem]]"
   - "[[global-workspace-theory]]"
   - "[[explanatory-gap]]"
@@ -40,7 +40,7 @@ original_path: "/topics/baseline-cognition/"
 
 If consciousness were removed from human cognition—or had never emerged—what would remain? Great ape intelligence may answer this question. Chimpanzees and bonobos show sophisticated problem-solving, tool use, social cognition, and even [[metacognition|metacognitive]] monitoring of their own uncertainty. Yet they cannot engage in cumulative culture, logical reasoning, or explicit counterfactual thinking. The pattern suggests a hypothesis: great ape cognition represents a "baseline" of what neurons can achieve without conscious elaboration, while human intelligence requires consciousness as a causally necessary amplifier.
 
-This hypothesis has direct implications for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If the leap from baseline to human cognition requires conscious contribution—not merely correlates with it—then consciousness is causally efficacious, not [[epiphenomenalism|epiphenomenal]].
+This hypothesis has direct implications for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If the leap from baseline to human cognition requires conscious contribution—not merely correlates with it—then consciousness is causally efficacious, not [[concepts/epiphenomenalism|epiphenomenal]].
 
 ## The Great Ape Cognitive Profile
 
@@ -102,7 +102,7 @@ This caveat doesn't undermine the hypothesis—it locates the remaining mystery.
 
 The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet asserts that consciousness causally influences the physical world. The baseline cognition hypothesis provides supporting evidence: if great apes represent what neurons can do alone, and the transition to human cognition requires consciousness, then consciousness is causally necessary for human-level intelligence.
 
-This challenges [[epiphenomenalism]]—the view that consciousness is a causally inert byproduct. If the human cognitive leap from procedural to declarative metacognition, from automatic to flexible reasoning, from latent-solutions culture to cumulative culture, all require conscious processing, then consciousness has downstream causal effects. The very existence of logical reasoning and cumulative culture in humans but not apes suggests consciousness is doing explanatory work.
+This challenges [[concepts/epiphenomenalism]]—the view that consciousness is a causally inert byproduct. If the human cognitive leap from procedural to declarative metacognition, from automatic to flexible reasoning, from latent-solutions culture to cumulative culture, all require conscious processing, then consciousness has downstream causal effects. The very existence of logical reasoning and cumulative culture in humans but not apes suggests consciousness is doing explanatory work.
 
 ### Dualism
 
@@ -118,7 +118,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to the baseline hyp
 
 ### Free Will and Agent Causation
 
-The metarepresentational threshold connects to [[free-will]] and [[agent-causation]]. Humans don't merely respond to stimuli through fixed mappings; we deliberate, consider alternatives, and choose based on reasons. This deliberative capacity—absent in great apes—may be where consciousness exercises agent causation. The ability to hold multiple options in mind (expanded working memory), evaluate them against criteria (logical reasoning), and select based on that evaluation (flexible response) constitutes the phenomenology of free choice. If this capacity requires consciousness and cannot be achieved by unconscious processing alone, free will is not illusory but functionally essential.
+The metarepresentational threshold connects to [[topics/free-will]] and [[agent-causation]]. Humans don't merely respond to stimuli through fixed mappings; we deliberate, consider alternatives, and choose based on reasons. This deliberative capacity—absent in great apes—may be where consciousness exercises agent causation. The ability to hold multiple options in mind (expanded working memory), evaluate them against criteria (logical reasoning), and select based on that evaluation (flexible response) constitutes the phenomenology of free choice. If this capacity requires consciousness and cannot be achieved by unconscious processing alone, free will is not illusory but functionally essential.
 
 ### Occam's Razor Has Limits
 
@@ -127,7 +127,7 @@ The hypothesis illustrates the [[tenets#^occams-limits|limits of Occam's Razor]]
 ## Further Reading
 
 - [[interactionist-dualism]] — How consciousness and brain interact without violating physics
-- [[epiphenomenalism]] — The competing view that consciousness is causally inert
+- [[concepts/epiphenomenalism]] — The competing view that consciousness is causally inert
 - [[global-workspace-theory]] — Theory of how consciousness integrates information
 - [[access-consciousness]] — Block's distinction between access and phenomenal consciousness
 - [[binding-problem]] — How unified experience arises from distributed processing
@@ -136,7 +136,7 @@ The hypothesis illustrates the [[tenets#^occams-limits|limits of Occam's Razor]]
 - [[conscious-vs-unconscious-processing]] — Detailed analysis of what consciousness enables vs. what unconscious processing achieves
 - [[illusionism]] — The radical physicalist view that phenomenal consciousness doesn't exist
 - [[mysterianism]] — Whether the consciousness-cognition link may be cognitively closed
-- [[free-will]] — How deliberation and choice connect to conscious amplification
+- [[topics/free-will]] — How deliberation and choice connect to conscious amplification
 - [[voluntary-attention]] — Attention control as the mechanism for conscious selection
 
 ## References

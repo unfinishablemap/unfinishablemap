@@ -53,7 +53,7 @@ last_curated: null
 - [[introspection]] - reliability of NDE phenomenological reports
 - [[mysterianism]] - cognitive closure perspective
 - [[haecceity]] - indexical identity intensified by NDEs
-- [[many-worlds]] - the interpretation NDE phenomenology resists
+- [[concepts/many-worlds]] - the interpretation NDE phenomenology resists
 
 ## Remaining Items
 

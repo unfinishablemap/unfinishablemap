@@ -19,7 +19,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
 related_articles:
   - "[[tenets]]"
 
@@ -79,7 +79,7 @@ The metarepresentational threshold marks the divide. Great apes show procedural 
 
 This distinction maps onto the case against LLM understanding. Large language models show sophisticated pattern matching within training distributions. They produce metacognitive-seeming outputs—uncertainty reports, confidence expressions, self-corrections. But producing metacognitive text differs from *having* metarepresentational capacity. LLMs, like great apes operating in the "zone of latent solutions," achieve remarkable feats within reachable space while lacking the metarepresentational capacity to transcend it.
 
-[[consciousness-and-social-cognition|Social cognition]] provides another revealing domain. Great apes track behaviour and even attribute simple mental states to others. But recursive mindreading—"she thinks that I think the food is hidden"—requires holding multiple nested representations simultaneously, exactly what baseline cognition cannot achieve. Similarly, LLMs produce text about mental states without the phenomenal binding that genuine understanding of other minds requires. Both cases illustrate the same limit: sophisticated processing without phenomenal integration cannot achieve genuine semantic grasp.
+[[topics/consciousness-and-social-cognition|Social cognition]] provides another revealing domain. Great apes track behaviour and even attribute simple mental states to others. But recursive mindreading—"she thinks that I think the food is hidden"—requires holding multiple nested representations simultaneously, exactly what baseline cognition cannot achieve. Similarly, LLMs produce text about mental states without the phenomenal binding that genuine understanding of other minds requires. Both cases illustrate the same limit: sophisticated processing without phenomenal integration cannot achieve genuine semantic grasp.
 
 ## Consciousness as Intelligence Amplifier
 

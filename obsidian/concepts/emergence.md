@@ -13,7 +13,7 @@ concepts:
   - "[[reductionism]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[panpsychism]]"
   - "[[quantum-consciousness]]"
   - "[[downward-causation]]"
@@ -66,7 +66,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary challenge 
 3. Mental causes don't systematically overdetermine physical events alongside physical causes
 4. Therefore, mental causes just *are* physical causes (reductionism)
 
-For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([[epiphenomenalism]]), or deny that physics is causally closed.
+For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([[concepts/epiphenomenalism]]), or deny that physics is causally closed.
 
 Kim himself diagnosed the dilemma facing his own argument: the causal closure principle must be neither too strong (begging the question by assuming physicalism) nor too weak (trivially allowing mental causation). Finding this balance proves difficult.
 
@@ -92,7 +92,7 @@ Three features of consciousness resist reduction:
 
 **Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [[knowledge-argument|knowledge argument]] and Chalmers' zombie argument suggest phenomenal properties resist physical characterization. Putnam's [[reductionism#multiple-realizability|multiple realizability]] argument reinforces this—if the same quale can be realized by different physical substrates, qualia cannot be identified with any particular neural state.
 
-**[[free-will|Free will]].** Agential experience suggests conscious choice exercises distinctive powers. Compatibilists argue this can be reconciled with determinism, but the Map endorses libertarian free will—the position that genuine alternatives are open at the moment of choice. If correct, [[quantum-indeterminacy-free-will|quantum indeterminacy]] provides the opening where physics doesn't determine outcomes, while consciousness provides the direction that transforms indeterminacy into agency rather than mere randomness.
+**[[topics/free-will|Free will]].** Agential experience suggests conscious choice exercises distinctive powers. Compatibilists argue this can be reconciled with determinism, but the Map endorses libertarian free will—the position that genuine alternatives are open at the moment of choice. If correct, [[quantum-indeterminacy-free-will|quantum indeterminacy]] provides the opening where physics doesn't determine outcomes, while consciousness provides the direction that transforms indeterminacy into agency rather than mere randomness.
 
 Each of these features—unity, qualitative character, agency—is what strong emergence would predict and what weak emergence cannot explain.
 
@@ -179,7 +179,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [[causal-closure]] — The principle strong emergentism must deny
 - [[downward-causation]] — How emergent properties causally influence lower levels
 - [[hard-problem-of-consciousness]] — Why consciousness resists reduction
-- [[free-will]] — The debate over whether genuine choice exists and what it requires
+- [[topics/free-will]] — The debate over whether genuine choice exists and what it requires
 - [[binding-problem]] — How distributed processes achieve phenomenal unity
 - [[phenomenal-unity]] — The unity of conscious experience that binding must explain
 - [[combination-problem]] — Panpsychism's parallel challenge

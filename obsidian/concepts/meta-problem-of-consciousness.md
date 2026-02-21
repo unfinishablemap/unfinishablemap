@@ -23,7 +23,7 @@ concepts:
   - "[[causal-closure]]"
 related_articles:
   - "[[tenets]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[mysterianism]]"
   - "[[substance-property-dualism]]"
 ai_contribution: 100

@@ -8,7 +8,7 @@ ai_modified: 2026-02-03T06:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[autonoetic-consciousness]]"
   - "[[temporal-consciousness]]"
@@ -173,7 +173,7 @@ Prospective memory and future-oriented consciousness support all five foundation
 - [[working-memory]] — The cognitive workspace for future simulation
 - [[temporal-consciousness]] — The specious present and temporal structure
 - [[specious-present]] — The experienced duration of "now"
-- [[free-will]] — How consciousness shapes action
+- [[topics/free-will]] — How consciousness shapes action
 - [[agent-causation]] — The metaphysics of intention formation
 - [[motor-selection]] — Willed movement and the attention-selection interface
 - [[mental-effort]] — The quantum Zeno mechanism for sustained attention

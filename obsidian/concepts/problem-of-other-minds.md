@@ -14,7 +14,7 @@ concepts:
   - "[[theory-of-mind]]"
   - "[[metarepresentation]]"
   - "[[qualia]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[mysterianism]]"
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
@@ -120,7 +120,7 @@ The problem of other minds frames debates about [[animal-consciousness|animal]] 
 
 For animals, the 2024 New York Declaration recognized "strong scientific support" for consciousness in mammals and birds. Biological similarity strengthens inference—shared evolutionary history, neural architecture, behavioral patterns. The [[consciousness-as-amplifier|consciousness as amplifier]] hypothesis provides additional grounds: animals' systematic pattern of cognitive capacities (strong procedural learning, weak metarepresentation) maps onto the distinction between consciousness-dependent and consciousness-independent processing.
 
-For AI, the Map's rejection of [[functionalism]] complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker.
+For AI, the Map's rejection of [[concepts/functionalism]] complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker.
 
 ## The Illusionist Challenge
 

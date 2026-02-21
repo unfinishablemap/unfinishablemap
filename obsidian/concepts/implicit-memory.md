@@ -24,7 +24,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[decoherence]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[tenets]]"
   - "[[implicit-memory-consciousness-2026-01-18]]"
@@ -97,7 +97,7 @@ Choking provides direct evidence for [[mental-causation|consciousness causally a
 2. Procedural execution is disrupted
 3. Performance degrades
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—a mere byproduct with no causal power—step 2 couldn't follow from step 1. The fact that *attending to skills interferes with them* shows consciousness isn't causally inert. The attention has effects.
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—a mere byproduct with no causal power—step 2 couldn't follow from step 1. The fact that *attending to skills interferes with them* shows consciousness isn't causally inert. The attention has effects.
 
 This evidence is particularly strong because the effect is *negative*. One might explain away reports of conscious agency as post-hoc confabulation. But why would a causally inert consciousness generate systematic *interference*? The choking phenomenon requires that conscious attention genuinely does something—something the procedural system would rather it didn't do.
 
@@ -181,17 +181,17 @@ Implicit memory illuminates all five tenets.
 Even Tulving's anoetic consciousness has phenomenal character—"non-reflective qualia." There is something it is like to perform automatized skills, however different from reflective experience. Consciousness isn't identical to self-aware cognition; it includes unreflective modes that procedural memory operates within.
 
 ### Minimal Quantum Interaction
-The [[attention-as-interface|attention interface]] explains why consciousness can delegate: once skills are calibrated, the low-bandwidth interface need not continuously engage. Procedural systems run on trained patterns; consciousness intervenes only when [[consciousness-selecting-neural-patterns|selection among alternatives]] is required.
+The [[attention-as-interface|attention interface]] explains why consciousness can delegate: once skills are calibrated, the low-bandwidth interface need not continuously engage. Procedural systems run on trained patterns; consciousness intervenes only when [[concepts/consciousness-selecting-neural-patterns|selection among alternatives]] is required.
 
 The [[decoherence]] objection—that quantum coherence cannot survive in warm biological tissue—doesn't undermine this application. The attention interface operates at the level of pattern selection, not continuous microtubule coherence. Stapp's quantum Zeno mechanism requires only momentary quantum involvement when attention shifts, not sustained superposition during automatic execution.
 
 ### Bidirectional Interaction
-Choking provides the clearest evidence. Conscious attention to automatized skills disrupts execution. This causal interference—consciousness affecting procedural processing—couldn't occur if consciousness were [[epiphenomenalism|epiphenomenal]].
+Choking provides the clearest evidence. Conscious attention to automatized skills disrupts execution. This causal interference—consciousness affecting procedural processing—couldn't occur if consciousness were [[concepts/epiphenomenalism|epiphenomenal]].
 
 The negative character of this evidence is particularly telling. Positive effects might be explained as confabulation—the brain doing the work while consciousness merely observes. But *interference* requires that consciousness actually does something. The choking phenomenon is what genuine mental causation predicts and what epiphenomenalism cannot explain.
 
 ### No Many Worlds
-Skill execution involves selecting among action possibilities. Each moment of expert performance actualises one trajectory from many physically possible alternatives. If [[many-worlds|all possibilities actualised]] in branching universes, there would be branches where the expert misses every shot, drops every catch, flubs every note—yet from any observer's perspective, skilled performance succeeds reliably.
+Skill execution involves selecting among action possibilities. Each moment of expert performance actualises one trajectory from many physically possible alternatives. If [[concepts/many-worlds|all possibilities actualised]] in branching universes, there would be branches where the expert misses every shot, drops every catch, flubs every note—yet from any observer's perspective, skilled performance succeeds reliably.
 
 The indexical problem sharpens here. Even granting that *some* branch-observer sees coherent performance, why is *I*—this [[haecceity|particular consciousness]]—reliably the one experiencing skilled execution? The statistical regularity of expert performance suggests genuine selection, not mere observation of whichever branch happens to look successful.
 
@@ -211,7 +211,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 - [[agent-causation]] - How consciousness's causal efficacy grounds genuine agency
 - [[embodied-cognition]] - The challenge from embodied approaches and the interface response
 - [[illusionism]] - The eliminativist challenge to phenomenal consciousness and why the choking evidence resists it
-- [[consciousness-selecting-neural-patterns]] - The mechanism by which consciousness selects among neural possibilities
+- [[concepts/consciousness-selecting-neural-patterns]] - The mechanism by which consciousness selects among neural possibilities
 - [[witness-consciousness]] - The contemplative parallel to anoetic awareness
 
 ## References

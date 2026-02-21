@@ -7,13 +7,13 @@ human_modified:
 ai_modified: 2026-02-20T07:06:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[delegatory-dualism]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"

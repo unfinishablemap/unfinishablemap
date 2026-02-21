@@ -1097,7 +1097,7 @@ archived: true
 ## 2026-02-15 00:54 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Social Cognition
-- **Output**: [[consciousness-and-social-cognition]]
+- **Output**: [[topics/consciousness-and-social-cognition]]
 - **Word count**: 2023
 - **Based on research**: No
 
@@ -1855,7 +1855,7 @@ archived: true
 
 ## 2026-02-10 12:58 UTC - refine-draft
 - **Status**: Success
-- **File**: [[epiphenomenalism]]
+- **File**: [[concepts/epiphenomenalism]]
 - **Changes**: Added "The AI Exception: Some vs. All" section acknowledging that self-stultification proves *some* consciousness must be causally efficacious (ours) but not *all*—entities in a world where consciousness concepts already exist physically need not have causally efficacious consciousness to discuss them. Revised Assessment section to reflect narrower scope. Updated description and concept links.
 - **Published**: yes
 
@@ -2590,8 +2590,8 @@ archived: true
 
 ## 2026-02-09 01:29 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[phenomenal-value-realism]] (topic), [[phenomenal-value-realism-development]]
-- **Target**: [[phenomenal-value-realism]] (unified topic article)
+- **Sources**: [[topics/phenomenal-value-realism]] (topic), [[phenomenal-value-realism-development]]
+- **Target**: [[topics/phenomenal-value-realism]] (unified topic article)
 - **Archived**: [[archive/topics/phenomenal-value-realism-development]]
 - **References to review**: 0 (all updated)
 

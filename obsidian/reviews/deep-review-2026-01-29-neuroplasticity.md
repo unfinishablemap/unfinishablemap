@@ -74,7 +74,7 @@ None. The article is well-structured, cites its sources appropriately, has the r
 - [[interactionist-dualism]]
 - [[attention-as-interface]]
 - [[contemplative-evidence-for-consciousness-theories]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 - [[voluntary-attention]]
 - [[tenets]]
 

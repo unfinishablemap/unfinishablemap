@@ -8,7 +8,7 @@ ai_modified: 2026-02-15T04:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
@@ -70,7 +70,7 @@ This response shifts the question from "How long does coherence last?" to "What 
 
 The timing gap problem disciplines quantum consciousness theorising. It prevents vague appeals to "quantum effects in the brain" by demanding specific mechanisms with specific timing requirements. Any proposal must specify: What quantum states are involved? How long must they persist? What neural process do they influence? At what timescale does the interaction occur?
 
-The gap also bears on [[free-will|free will]]. The Map's preferred grounding for [[agent-causation]] runs through quantum indeterminacy—consciousness biasing which outcome becomes actual at moments of genuine choice (see [[quantum-indeterminacy-free-will]]). If the timing gap eliminates quantum consciousness mechanisms, it eliminates this grounding for libertarian free will with them. Conversely, frameworks that survive the gap (post-decoherence selection, the Zeno approach) preserve the quantum opening for genuine agency.
+The gap also bears on [[topics/free-will|free will]]. The Map's preferred grounding for [[agent-causation]] runs through quantum indeterminacy—consciousness biasing which outcome becomes actual at moments of genuine choice (see [[quantum-indeterminacy-free-will]]). If the timing gap eliminates quantum consciousness mechanisms, it eliminates this grounding for libertarian free will with them. Conversely, frameworks that survive the gap (post-decoherence selection, the Zeno approach) preserve the quantum opening for genuine agency.
 
 The gap illustrates a general methodological point. The Map takes empirical constraints seriously even when they challenge its own commitments. If quantum consciousness theories cannot address the timing gap, the Map must either identify mechanisms that survive the objection or acknowledge that the quantum interface remains undemonstrated.
 

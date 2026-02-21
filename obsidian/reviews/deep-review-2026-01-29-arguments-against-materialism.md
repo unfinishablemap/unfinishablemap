@@ -74,10 +74,10 @@ All major counterarguments were addressed in the previous review and remain adeq
 ### Cross-links Present
 
 Extensive cross-linking already in place:
-- [[materialism]], [[explanatory-gap]], [[knowledge-argument]], [[philosophical-zombies]]
+- [[concepts/materialism]], [[explanatory-gap]], [[knowledge-argument]], [[philosophical-zombies]]
 - [[inverted-qualia]], [[qualia]], [[dualism]], [[interactionist-dualism]]
 - [[quantum-consciousness]], [[causal-closure]], [[illusionism]], [[mysterianism]]
-- [[introspection]], [[decoherence]], [[many-worlds]], [[haecceity]]
+- [[introspection]], [[decoherence]], [[concepts/many-worlds]], [[haecceity]]
 
 No additional cross-links needed.
 

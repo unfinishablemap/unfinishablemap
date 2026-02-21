@@ -27,7 +27,7 @@ related_articles:
   - "[[phenomenology-of-belief-revision]]"
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -142,7 +142,7 @@ It is worth noting, in the spirit of [[mysterianism|mysterian]] honesty, that ev
 - [[phenomenal-binding-and-holism]] — How discrete conscious states combine into structured wholes
 - [[phenomenal-normativity]] — Logical compulsion as one species of normative phenomenal property
 - [[reasons-responsiveness]] — Seeing-why as the paradigm of reasons-responsive cognition
-- [[free-will]] — Inferential compulsion as rational constraint, not external determination
+- [[topics/free-will]] — Inferential compulsion as rational constraint, not external determination
 
 ## References
 

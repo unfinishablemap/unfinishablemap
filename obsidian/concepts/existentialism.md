@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-02T04:46:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[meaning-of-life]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -167,7 +167,7 @@ The existentialist-dualist alignment would face difficulty if:
 - [[nihilism-and-existentialism]] — The relationship between existentialism and nihilism, including the problem of meaning
 - [[phenomenology]] — The broader phenomenological tradition existentialism develops
 - [[illusionism]] — The position existentialist analysis undermines
-- [[free-will]] — The metaphysics of choice and agency
+- [[topics/free-will]] — The metaphysics of choice and agency
 - [[personal-identity]] — The problem of what constitutes the self across time
 - [[haecceity]] — The unrepeatable thisness of conscious subjects
 - [[witness-consciousness]] — Contemplative cultivation of non-identified awareness

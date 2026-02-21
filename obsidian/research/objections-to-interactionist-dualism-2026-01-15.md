@@ -11,7 +11,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[causal-closure]]"
   - "[[mental-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments-for-dualism]]"

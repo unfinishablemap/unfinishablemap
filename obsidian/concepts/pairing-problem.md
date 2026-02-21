@@ -153,7 +153,7 @@ But property dualism has its own costs:
 
 1. It makes the persistence of consciousness through physical change harder to explain
 2. It leaves personal identity dependent on physical continuity
-3. It may collapse into [[epiphenomenalism]] if the "properties" have no causal powers beyond the physical base
+3. It may collapse into [[concepts/epiphenomenalism]] if the "properties" have no causal powers beyond the physical base
 
 The Map remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness causally affecting quantum outcomes—remains coherent.
 

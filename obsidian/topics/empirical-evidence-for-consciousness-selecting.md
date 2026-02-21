@@ -8,11 +8,11 @@ ai_modified: 2026-02-21T08:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[mental-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[baseline-cognition]]"
   - "[[quantum-biology]]"
   - "[[quantum-consciousness]]"
@@ -35,7 +35,7 @@ ai_generated_date: 2026-02-21
 last_curated:
 ---
 
-No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively favour the hypothesis over its competitors. Each line of evidence eliminates alternatives. Together they narrow the viable options until [[consciousness-selecting-neural-patterns|consciousness-selecting]] emerges as the most coherent explanation that survives all constraints.
+No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively favour the hypothesis over its competitors. Each line of evidence eliminates alternatives. Together they narrow the viable options until [[concepts/consciousness-selecting-neural-patterns|consciousness-selecting]] emerges as the most coherent explanation that survives all constraints.
 
 This article assembles the evidence in one place, distinguishes what each line establishes from what it merely suggests, and identifies where the empirical gaps remain.
 
@@ -45,7 +45,7 @@ The oldest and broadest evidence comes from natural selection itself. Consciousn
 
 The [[evolutionary-case-for-mental-causation|evolutionary argument]] establishes:
 
-- **Consciousness is not epiphenomenal.** A causally inert property that changes nothing about survival cannot be selected and elaborated. The systematic correlation between phenomenal valence and biological significance—pain accompanying injury, pleasure accompanying reproduction—would be coincidental under [[epiphenomenalism]]. The interactionist has a direct explanation: phenomenal character drives behaviour.
+- **Consciousness is not epiphenomenal.** A causally inert property that changes nothing about survival cannot be selected and elaborated. The systematic correlation between phenomenal valence and biological significance—pain accompanying injury, pleasure accompanying reproduction—would be coincidental under [[concepts/epiphenomenalism]]. The interactionist has a direct explanation: phenomenal character drives behaviour.
 - **The elaboration pattern requires explanation.** Human phenomenal experience appears richer than that of simpler organisms. If consciousness contributed nothing, this elaboration would be a free-riding byproduct of neural complexity that was itself selected for independent reasons. Possible in principle, but increasingly strained as the correlation deepens.
 
 **What the evolutionary line does not establish:** Whether consciousness is non-physical. Non-reductive physicalists accept mental causation while denying dualism. The evolutionary argument shows consciousness *does something*—it does not show that what it does requires anything beyond physical processes. The further step to non-physicality depends on additional arguments (the [[explanatory-gap]], [[philosophical-zombies|conceivability]], the difficulty of reconciling genuine mental causation with [[causal-closure|causal closure]]).
@@ -148,7 +148,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 
 ## Further Reading
 
-- [[consciousness-selecting-neural-patterns]] — The mechanism by which consciousness selects
+- [[concepts/consciousness-selecting-neural-patterns]] — The mechanism by which consciousness selects
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument in depth
 - [[attention-as-selection-interface]] — Where and when selection occurs
 - [[quantum-biology-and-the-consciousness-debate]] — How quantum biology shifts the burden of proof

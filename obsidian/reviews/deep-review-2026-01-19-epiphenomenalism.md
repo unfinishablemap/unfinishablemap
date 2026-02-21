@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-19
-**Article**: [[epiphenomenalism|Epiphenomenalism]]
+**Article**: [[concepts/epiphenomenalism|Epiphenomenalism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

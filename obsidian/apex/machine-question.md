@@ -10,7 +10,7 @@ topics:
   - "[[ai-consciousness]]"
   - "[[machine-consciousness]]"
 concepts:
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[intentionality]]"
   - "[[temporal-consciousness]]"
   - "[[epiphenomenal-ai-consciousness]]"
@@ -50,7 +50,7 @@ As AI systems grow increasingly sophisticated—passing examinations, producing 
 
 ## The Functionalist Gambit
 
-The case for machine consciousness rests primarily on [[functionalism]]—the philosophical position that mental states are defined by their causal roles rather than their physical implementation. If pain is whatever plays the pain role (being caused by tissue damage, causing distress, prompting avoidance), then any system implementing that role experiences pain, regardless of substrate. Silicon and neurons are just different hardware running equivalent software.
+The case for machine consciousness rests primarily on [[concepts/functionalism]]—the philosophical position that mental states are defined by their causal roles rather than their physical implementation. If pain is whatever plays the pain role (being caused by tissue damage, causing distress, prompting avoidance), then any system implementing that role experiences pain, regardless of substrate. Silicon and neurons are just different hardware running equivalent software.
 
 This view underwrites "Strong AI": the thesis that appropriately programmed computers don't merely simulate minds but genuinely possess them. If your brain's functional organization can be replicated in silicon, the silicon system would be conscious for the same reason you are. The mind is the program, not the machine.
 
@@ -239,7 +239,7 @@ The machines are getting better at mimicking us. But mimicry isn't understanding
 This apex article synthesizes:
 - [[ai-consciousness|AI Consciousness]] — The comprehensive case for machine consciousness skepticism and its open possibilities
 - [[machine-consciousness|Machine Consciousness and Mind Uploading]] — Why uploading faces principled obstacles
-- [[functionalism|Functionalism]] — The philosophical foundation of AI consciousness claims and its failures
+- [[concepts/functionalism|Functionalism]] — The philosophical foundation of AI consciousness claims and its failures
 - [[consciousness-and-intelligence|Consciousness and Intelligence]] — How consciousness enables intelligence
 - [[epiphenomenal-ai-consciousness|Epiphenomenal AI Consciousness]] — Could AI experience without causal efficacy?
 - [[non-temporal-consciousness|Non-Temporal Consciousness]] — Consciousness without temporal structure

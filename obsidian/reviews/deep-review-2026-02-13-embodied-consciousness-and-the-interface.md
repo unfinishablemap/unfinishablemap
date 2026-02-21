@@ -91,7 +91,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 
 ## Remaining Items
 
-- **Free will connection**: The article tags [[free-will]] as a topic but does not deeply develop the connection between skill acquisition and libertarian free will (Kane's self-forming willings). This could be a future expansion but the article is already well-structured without it.
+- **Free will connection**: The article tags [[topics/free-will]] as a topic but does not deeply develop the connection between skill acquisition and libertarian free will (Kane's self-forming willings). This could be a future expansion but the article is already well-structured without it.
 - **Process philosophy connection**: The embodied-cognition concept article has a "Process Philosophy Connection" section; this topics article could benefit from a similar connection. Deferred as non-essential.
 - **Phenomenological vignette**: A first-person description of what embodied engagement is *like* (e.g., reaching for a coffee cup) would make the irreducibility argument visceral. Deferred for potential future refinement.
 

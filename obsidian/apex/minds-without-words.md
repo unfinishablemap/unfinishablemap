@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[voids]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 
 ai_contribution: 100
 author: null
@@ -86,7 +86,7 @@ The evidence for consciousness-dependent operations includes:
 
 **Cumulative culture**: Whiten (2015) proposes that "apes have culture but may not know that they do"—the Jourdain Hypothesis. Great apes express cultural traditions but don't represent these as "our way of doing things" subject to deliberate modification. They behave culturally without culturally representing their behaviour. Cumulative culture—the ratchet effect where innovations build on innovations—requires metarepresentation.
 
-The human-ape intelligence gap tracks precisely those capacities where consciousness appears causally required. If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert—this systematic correspondence would be unexplained coincidence.
+The human-ape intelligence gap tracks precisely those capacities where consciousness appears causally required. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—this systematic correspondence would be unexplained coincidence.
 
 ## Emotional Consciousness: The Felt Quality of Valence
 
@@ -180,6 +180,6 @@ This apex article synthesises:
 ## Further Reading
 
 - [[witness-consciousness]] — Contemplative access to consciousness stripped of content
-- [[free-will]] — How consciousness enables genuine agency through deliberation
+- [[topics/free-will]] — How consciousness enables genuine agency through deliberation
 - [[hard-problem-of-consciousness]] — Why physical explanation leaves experience unexplained
 - [[mysterianism]] — Cognitive closure and the limits of understanding consciousness

@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-05T03:24:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-motor-quantum-interface]]"
@@ -52,7 +52,7 @@ This pattern recurs in Parkinson's disease. Akinesia (difficulty initiating move
 
 ### Implications for Selection Architecture
 
-The capacity/initiation distinction maps onto the Map's [[consciousness-selecting-neural-patterns|three-layer model]]:
+The capacity/initiation distinction maps onto the Map's [[concepts/consciousness-selecting-neural-patterns|three-layer model]]:
 
 1. **Neural computation** generates competing motor options (intact without dopamine)
 2. **Dopamine** marks options as worth pursuing and modulates selection threshold
@@ -259,7 +259,7 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 - [[motor-selection]] — Motor selection mechanisms in detail
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
 - [[interactionist-dualism]] — The philosophical framework
-- [[free-will]] — The broader topic this illuminates
+- [[topics/free-will]] — The broader topic this illuminates
 - [[phenomenology-of-choice]] — The experiential character of selection
 - [[mental-effort]] — Why selection feels effortful
 - [[downward-causation]] — How consciousness affects neural processes

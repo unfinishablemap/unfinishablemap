@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-19T13:36:00+00:00
 draft: false
 topics:
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
   - "[[phenomenology-of-understanding]]"
   - "[[emotional-consciousness]]"
   - "[[first-person-third-person-methodology]]"
@@ -40,7 +40,7 @@ last_deep_review: 2026-02-19T13:36:00+00:00
 
 Knowing everything about someone is not the same as understanding them. You could possess a complete neural map of another person's brain, a transcript of every word they have spoken, a full behavioural history — and still lack something essential. What you lack is the phenomenal grasp of what their experience is like from the inside. The Unfinishable Map argues that genuine interpersonal understanding — the kind that matters in love, friendship, grief, and moral life — depends on phenomenal consciousness in ways that information processing alone cannot replicate.
 
-The [[consciousness-and-social-cognition|social cognition article]] examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [[consciousness-and-semantic-understanding|semantic understanding article]] explores whether genuine comprehension of meaning requires consciousness. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
+The [[topics/consciousness-and-social-cognition|social cognition article]] examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [[consciousness-and-semantic-understanding|semantic understanding article]] explores whether genuine comprehension of meaning requires consciousness. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
 
 ## The Gap Between Knowledge and Understanding
 
@@ -114,7 +114,7 @@ None of these would refute dualism directly, but they would weaken the case that
 
 ## Further Reading
 
-- [[consciousness-and-social-cognition]] — The cognitive machinery enabling social life: metarepresentation, theory of mind, institutional reality
+- [[topics/consciousness-and-social-cognition]] — The cognitive machinery enabling social life: metarepresentation, theory of mind, institutional reality
 - [[consciousness-and-semantic-understanding]] — Whether genuine comprehension of meaning requires consciousness
 - [[phenomenology-of-understanding]] — The phenomenal character of understanding in cognitive contexts
 - [[other-minds-void]] — The structural privacy of consciousness and how we navigate it

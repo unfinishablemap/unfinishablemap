@@ -17,9 +17,9 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[unity-of-consciousness]]"
   - "[[interactionist-dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[illusionism]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[mysterianism]]"
   - "[[panpsychism]]"
   - "[[philosophical-zombies]]"
@@ -96,7 +96,7 @@ Over 200 theories of consciousness exist. The Map engages with the most prominen
 
 ### Physicalist Theories
 
-**[[Functionalism]]** identifies consciousness with functional roles—inputs, outputs, and internal state transitions. On this view, consciousness is what brains do, not what they are made of. The Map rejects functionalism: [[philosophical-zombies|zombies]] (functional duplicates without consciousness) are conceivable, and [[inverted-qualia|inverted qualia]] (same function, different phenomenology) seem possible. Function doesn't determine phenomenology.
+**[[concepts/functionalism]]** identifies consciousness with functional roles—inputs, outputs, and internal state transitions. On this view, consciousness is what brains do, not what they are made of. The Map rejects functionalism: [[philosophical-zombies|zombies]] (functional duplicates without consciousness) are conceivable, and [[inverted-qualia|inverted qualia]] (same function, different phenomenology) seem possible. Function doesn't determine phenomenology.
 
 **[[Global-workspace-theory|Global Workspace Theory]]** (Baars, Dehaene) explains access consciousness via information broadcast to multiple cognitive systems. When information enters the "global workspace," it becomes available for report, reasoning, and action. This explains access but not phenomenology—why does global broadcast feel like anything?
 
@@ -110,7 +110,7 @@ The Map rejects illusionism but takes it seriously as the strongest physicalist 
 
 **[[Interactionist-dualism|Interactionist Dualism]]** holds that consciousness is distinct from physical processes yet causally connected to them. This is the Map's position. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] specifies the interface: consciousness influences quantum indeterminacies without injecting energy.
 
-**[[Epiphenomenalism]]** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: the very fact that we discuss consciousness shows that information about consciousness enters the physical domain, influencing speech and behaviour.
+**[[concepts/epiphenomenalism]]** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: the very fact that we discuss consciousness shows that information about consciousness enters the physical domain, influencing speech and behaviour.
 
 **[[Panpsychism]]** holds that consciousness is fundamental and ubiquitous—even simple physical systems have experiential aspects. This avoids the "emergence problem" (how does experience arise from non-experience?) but faces the [[combination-problem]] (how do micro-experiences combine into unified macro-experience?).
 

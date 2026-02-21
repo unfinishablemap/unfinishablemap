@@ -14,7 +14,7 @@ topics:
 concepts:
   - "[[consciousness]]"
   - "[[the-case-for-dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[interactionist-dualism]]"
   - "[[philosophical-zombies]]"
   - "[[mental-causation]]"

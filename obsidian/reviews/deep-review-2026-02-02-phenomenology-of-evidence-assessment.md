@@ -55,10 +55,10 @@ None.
 1. Added engagement with eliminativist and functionalist challenges
 2. Strengthened neurophenomenology mutual constraints explanation
 3. Added constructed evaluator acknowledgment in Limits section
-4. Fixed [[free-will]] link formatting in body text
+4. Fixed [[topics/free-will]] link formatting in body text
 
 ### Cross-links Added
-- [[free-will]] link properly formatted in Evidence Assessment and Free Will section
+- [[topics/free-will]] link properly formatted in Evidence Assessment and Free Will section
 
 ## Word Count
 - Before: 2106 words

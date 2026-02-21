@@ -105,7 +105,7 @@ Six sympathetic personas reviewed the document:
 - [[argument-from-reason]]
 - [[illusionism]]
 - [[mysterianism]]
-- [[free-will]]
+- [[topics/free-will]]
 - [[agent-causation]]
 - [[voluntary-attention]]
 - [[conscious-vs-unconscious-processing]]

@@ -62,7 +62,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 
 All cross-links valid:
 - [[experiential-alignment]] - exists
-- [[phenomenal-value-realism]] - exists
+- [[topics/phenomenal-value-realism]] - exists
 - [[qualia]] - standard concept
 - [[neurophenomenology]] - exists
 - [[tenets]] anchors - verified

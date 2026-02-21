@@ -89,7 +89,7 @@ last_curated: null
 - [[witness-consciousness]]
 - [[haecceity]]
 - [[buddhism-and-dualism]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 
 ## Remaining Items
 

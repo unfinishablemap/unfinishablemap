@@ -37,7 +37,7 @@ last_curated: null
 
 6. **"Verification, not merely evidence" overclaimed**: Softened to "strong evidence—approaching verification" and added explicit acknowledgment of the physicalist reinterpretation.
 
-7. **Missing cross-links**: Added inline links to [[epiphenomenalism]], [[explanatory-gap]], [[witness-consciousness]], [[eastern-philosophy-consciousness]], [[hard-problem-of-consciousness]], [[free-will]].
+7. **Missing cross-links**: Added inline links to [[concepts/epiphenomenalism]], [[explanatory-gap]], [[witness-consciousness]], [[eastern-philosophy-consciousness]], [[hard-problem-of-consciousness]], [[topics/free-will]].
 
 ### Counterarguments Considered
 
@@ -70,11 +70,11 @@ last_curated: null
 ### Cross-links Added
 
 - [[explanatory-gap]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 - [[witness-consciousness]]
 - [[eastern-philosophy-consciousness]]
 - [[hard-problem-of-consciousness]]
-- [[free-will]]
+- [[topics/free-will]]
 
 ## Remaining Items
 

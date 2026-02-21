@@ -32,7 +32,7 @@ last_curated: null
 - **Eliminative materialist**: Phenomenology of effort argument presupposes dualism. Response: Article already distinguishes correlation from identity; this is expected philosophical disagreement.
 - **Dennett's heterophenomenology**: AST regress objection is question-begging. Response: Article links to illusionism for broader engagement; the regress problem is a standard objection.
 - **Tegmark's decoherence calculation**: Hameroff rebuttals are contested. Response: Article acknowledges the objection is "serious" and links to decoherence.md for full treatment.
-- **MWI defender**: Collapse not required for apparent selection. Response: Site's No Many Worlds tenet addresses this; article links to [[many-worlds]].
+- **MWI defender**: Collapse not required for apparent selection. Response: Site's No Many Worlds tenet addresses this; article links to [[concepts/many-worlds]].
 
 ## Optimistic Analysis Summary
 
@@ -57,7 +57,7 @@ All cross-links from previous review remain functional:
 - [[mysterianism]]
 - [[agent-causation]]
 - [[pairing-problem]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 - [[voluntary-attention]]
 
 ## Remaining Items

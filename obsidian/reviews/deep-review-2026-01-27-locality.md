@@ -44,12 +44,12 @@ last_curated: null
 ### Enhancements Made
 - Updated all broken links from `[[interface-locality]]`/`[[brain-specialness]]` to `[[brain-interface-boundary]]`
 - Consolidated duplicate Further Reading entries into single entry for coalesced article
-- Added cross-link to `[[free-will]]` (quantum selection relates to libertarian free will)
+- Added cross-link to `[[topics/free-will]]` (quantum selection relates to libertarian free will)
 - Updated concepts frontmatter to reference the new coalesced article
 
 ### Cross-links Updated
 - `[[brain-interface-boundary]]` (replacing `[[interface-locality]]` and `[[brain-specialness]]`)
-- `[[free-will]]` (new)
+- `[[topics/free-will]]` (new)
 
 ## Remaining Items
 

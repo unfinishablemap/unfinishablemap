@@ -58,7 +58,7 @@ None critical—the article was competent but incomplete in its tenet engagement
 6. **Expanded Further Reading**: Added meaning-of-life, free-will, personal-identity, eastern-philosophy-consciousness
 
 ### Cross-links Added
-- [[free-will]] (topics)
+- [[topics/free-will]] (topics)
 - [[meaning-of-life]] (topics)
 - [[personal-identity]] (concepts)
 - [[eastern-philosophy-consciousness]] (related articles, Further Reading)

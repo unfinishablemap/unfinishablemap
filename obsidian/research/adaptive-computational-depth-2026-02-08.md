@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[simulation]]"
   - "[[tenets]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[prebiotic-collapse]]"
 ai_contribution: 100
 author: null
@@ -217,7 +217,7 @@ The idea of "adaptive computational depth" proposes that a simulated universe ne
 
 Based on this research, an article could:
 
-1. **Adaptive computational depth as a thought experiment for dualism** — Use the concept not as a literal claim about simulation, but as a framework for understanding how consciousness might drive which aspects of reality become determinate. The Map's existing simulation article already uses the simulation hypothesis as a "diagnostic tool for revealing hidden assumptions." Adaptive depth extends this: if reality computes adaptively, consciousness is the allocator, which mirrors bidirectional interaction. The article would need to clearly distinguish this thought-experiment use from literal simulation claims, especially given the Faizal 2025 impossibility argument. Connects strongly to existing concepts: [[measurement-problem]], [[consciousness-selecting-neural-patterns]], [[prebiotic-collapse]].
+1. **Adaptive computational depth as a thought experiment for dualism** — Use the concept not as a literal claim about simulation, but as a framework for understanding how consciousness might drive which aspects of reality become determinate. The Map's existing simulation article already uses the simulation hypothesis as a "diagnostic tool for revealing hidden assumptions." Adaptive depth extends this: if reality computes adaptively, consciousness is the allocator, which mirrors bidirectional interaction. The article would need to clearly distinguish this thought-experiment use from literal simulation claims, especially given the Faizal 2025 impossibility argument. Connects strongly to existing concepts: [[measurement-problem]], [[concepts/consciousness-selecting-neural-patterns]], [[prebiotic-collapse]].
 
 2. **The computational economy of observation** — Focus on the convergence between Wheeler's participatory universe, quantum measurement's observer-dependence, and the adaptive depth idea. The argument: reality has a "computational budget" and consciousness determines where that budget is spent. This isn't necessarily a simulation claim—it's an information-theoretic framing of why physics looks observer-dependent. Would need careful navigation of the lazy-evaluation analogy (popular but misleading if taken literally). Connects to [[quantum-consciousness]], [[bidirectional-interaction]].
 

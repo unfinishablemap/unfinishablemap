@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-03T02:43:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[retrocausality]]"

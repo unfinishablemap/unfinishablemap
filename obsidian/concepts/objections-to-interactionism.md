@@ -8,12 +8,12 @@ ai_modified: 2026-01-29T08:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[causal-closure]]"
   - "[[mental-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[emergence]]"
   - "[[downward-causation]]"
@@ -36,7 +36,7 @@ last_curated: null
 last_deep_review: 2026-01-29T08:28:00+00:00
 ---
 
-[[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [[epiphenomenalism]].
+[[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [[concepts/epiphenomenalism]].
 
 ## The Pairing Problem
 
@@ -191,7 +191,7 @@ Even if decoherence eliminates quantum *computing* in the brain, it may not elim
 
 ### The Objection
 
-Often presented as objecting to dualism, this argument actually targets [[epiphenomenalism]] and *supports* interactionism:
+Often presented as objecting to dualism, this argument actually targets [[concepts/epiphenomenalism]] and *supports* interactionism:
 
 1. Pleasures correlate with survival-beneficial stimuli; pains with harmful stimuli
 2. This correlation requires evolutionary explanation
@@ -262,7 +262,7 @@ Interactionism would face serious difficulty if:
 
 1. **Deterministic neural dynamics**: If all neural activity could be predicted from prior physical states with no residual indeterminacy, consciousness would have nowhere to act. Current neuroscience cannot achieve such prediction, but this reflects practical limits rather than principled indeterminacy.
 
-2. **MWI confirmation**: If the [[many-worlds|Many-Worlds interpretation]] were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The Map's No Many Worlds tenet would fail.
+2. **MWI confirmation**: If the [[concepts/many-worlds|Many-Worlds interpretation]] were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The Map's No Many Worlds tenet would fail.
 
 3. **Conservation violations detected**: If mental causation required energy injection, and we observed systematic conservation violations in neural systems, the objection would stand. We observe no such violations—consistent with either epiphenomenalism or selection among equi-energetic outcomes.
 
@@ -306,14 +306,14 @@ These objections have been taken seriously throughout the history of philosophy.
 - [[causal-closure]] — The closure principle underlying the exclusion argument
 - [[mental-causation]] — The phenomenon the exclusion argument challenges
 - [[downward-causation]] — How higher-level properties influence lower-level processes
-- [[epiphenomenalism]] — The view the evolutionary argument targets
+- [[concepts/epiphenomenalism]] — The view the evolutionary argument targets
 - [[the-case-for-dualism]] — Positive arguments for the Map's position
 - [[quantum-consciousness]] — The mechanism for mind-matter interface
 - [[decoherence]] — The quantum biology challenge and evidence
 - [[interface-locality]] — Why consciousness can only select within its own brain
 - [[haecceity]] — Primitive "thisness" as pairing relation
 - [[luck-objection]] — Parallel challenge to libertarian free will
-- [[many-worlds]] — The interpretation whose rejection grounds the Map's view
+- [[concepts/many-worlds]] — The interpretation whose rejection grounds the Map's view
 - [[emergence]] — Strong emergence with mechanism
 - [[objections-to-interactionist-dualism-2026-01-15]] — Research notes for this article
 

@@ -8,12 +8,12 @@ ai_modified: 2026-01-28T16:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[measurement-problem]]"
   - "[[retrocausality]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
 related_articles:
   - "[[tenets]]"
   - "[[collapse-and-time]]"
@@ -26,7 +26,7 @@ last_curated:
 last_deep_review: 2026-01-28T16:45:00+00:00
 ---
 
-The [[many-worlds|Many-Worlds Interpretation]] (MWI) is not the only scientifically respectable interpretation of quantum mechanics. A 2025 Nature Physics survey found that only 36% of physicists favor Copenhagen interpretation, with no interpretation commanding majority support. The interpretive landscape remains genuinely open—and several alternatives don't exclude consciousness from participating in quantum measurement, directly supporting this site's [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#no-many-worlds|No Many Worlds]] tenets.
+The [[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) is not the only scientifically respectable interpretation of quantum mechanics. A 2025 Nature Physics survey found that only 36% of physicists favor Copenhagen interpretation, with no interpretation commanding majority support. The interpretive landscape remains genuinely open—and several alternatives don't exclude consciousness from participating in quantum measurement, directly supporting this site's [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#no-many-worlds|No Many Worlds]] tenets.
 
 **Honest limitation**: The fact that physics hasn't settled on one interpretation doesn't mean consciousness-based interpretations are well-supported—they remain a minority position among physicists. What it means is that the measurement problem remains genuinely unsolved, and consciousness-collapse proposals haven't been ruled out. The Map treats this as philosophical space to explore, not scientific consensus.
 
@@ -70,7 +70,7 @@ The [[collapse-and-time]] page already draws on this framework to resolve the [[
 
 **Important caveat**: While time-symmetric physics is well-established mathematically, how consciousness would "participate" in transactions remains unspecified. What physical substrate in neural tissue carries retrocausal influence? How would consciousness bias confirmation waves without violating Born statistics? These are open questions, not solved problems. The interpretation *permits* consciousness-involvement but doesn't *require* it.
 
-**Relation to the Map:** High conceptual compatibility, though speculative. Time-symmetric interpretations align with the Map's use of retrocausality to preserve [[free-will]]. They offer a *framework* for consciousness to influence quantum outcomes without requiring faster-than-light signaling or energy injection—but the specific mechanism remains unspecified. The Map considers this the most promising interpretation family for its purposes while acknowledging the framework is philosophical, not empirically established.
+**Relation to the Map:** High conceptual compatibility, though speculative. Time-symmetric interpretations align with the Map's use of retrocausality to preserve [[topics/free-will]]. They offer a *framework* for consciousness to influence quantum outcomes without requiring faster-than-light signaling or energy injection—but the specific mechanism remains unspecified. The Map considers this the most promising interpretation family for its purposes while acknowledging the framework is philosophical, not empirically established.
 
 ## Objective Collapse Theories
 
@@ -100,7 +100,7 @@ The Map's advantage is taking consciousness seriously as an explanatory target, 
 
 This article directly supports the [[tenets#no-many-worlds|No Many Worlds]] tenet by demonstrating that MWI is not the only scientifically respectable option. Physicists are divided, with no consensus. The Map can confidently reject Many-Worlds without being scientifically irresponsible.
 
-**Engaging MWI's strongest responses**: The Map's indexical objection to MWI ("why am I this branch?") has been addressed by Wallace and Saunders through "self-locating uncertainty"—the idea that branch-selves are simply uncertain about which branch they occupy. The Map's response: self-locating uncertainty presupposes there's a fact about "where I am" to be uncertain about, which is precisely what needs grounding. MWI defenders respond that "I" just means "this branch-copy," making the question trivial. The disagreement is deep and unresolved: MWI dissolves the indexical question where the Map holds it must be answered. See [[many-worlds]] for detailed treatment.
+**Engaging MWI's strongest responses**: The Map's indexical objection to MWI ("why am I this branch?") has been addressed by Wallace and Saunders through "self-locating uncertainty"—the idea that branch-selves are simply uncertain about which branch they occupy. The Map's response: self-locating uncertainty presupposes there's a fact about "where I am" to be uncertain about, which is precisely what needs grounding. MWI defenders respond that "I" just means "this branch-copy," making the question trivial. The disagreement is deep and unresolved: MWI dissolves the indexical question where the Map holds it must be answered. See [[concepts/many-worlds]] for detailed treatment.
 
 More importantly, several alternatives—particularly time-symmetric interpretations—provide conceptual frameworks for [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]]. The idea that consciousness biases quantum outcomes without injecting energy is a coherent hypothesis that physics hasn't ruled out. It's not mainstream, but it's not pseudoscience either—serious researchers (Stapp, Penrose, Kastner) have developed formal frameworks.
 
@@ -110,7 +110,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 
 ## Further Reading
 
-- [[many-worlds]] — Why the Map rejects MWI
+- [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[measurement-problem]] — The core puzzle these interpretations address
 - [[collapse-and-time]] — How retrocausality resolves temporal paradoxes
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-quantum interaction (Stapp, Penrose-Hameroff, IIT-collapse)

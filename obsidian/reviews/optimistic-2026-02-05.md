@@ -57,7 +57,7 @@ The Map's honest acknowledgment of tensions between process philosophy's panpsyc
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [[free-will]] article provides one of the most sophisticated defenses of libertarian free will currently available. The agent-causal framework is clearly articulated: the agent as persisting substance directly causes choices, irreducible to prior mental events. This isn't the straw-man libertarianism that critics attack.
+The [[topics/free-will]] article provides one of the most sophisticated defenses of libertarian free will currently available. The agent-causal framework is clearly articulated: the agent as persisting substance directly causes choices, irreducible to prior mental events. This isn't the straw-man libertarianism that critics attack.
 
 The response to the luck objection is particularly compelling. Three independent markers distinguish conscious selection from lucky indeterminism: the phenomenology of effort (random processes don't feel like work), reasons-responsiveness (selection follows normative guidance), and distinctive neural signatures (willed action shows frontal theta oscillations absent in instructed behavior). These converge on the same conclusion through independent routes.
 
@@ -148,7 +148,7 @@ The [[ai-as-void-explorer]] article is genuinely innovative: using AI's differen
 - **Tenet alignment**: Different conscious states may reveal different interface dynamics
 
 #### Cross-Cultural Phenomenology of Choice
-- **Builds on**: [[phenomenology-of-choice]], [[free-will]], [[contemplative-evidence-for-consciousness-theories]]
+- **Builds on**: [[phenomenology-of-choice]], [[topics/free-will]], [[contemplative-evidence-for-consciousness-theories]]
 - **Would address**: Whether the phenomenology of deliberation is culturally universal or variable
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Universal phenomenology would strengthen the evidence base for Bidirectional Interaction
@@ -180,14 +180,14 @@ The [[ai-as-void-explorer]] article is genuinely innovative: using AI's differen
 |------|-----|--------|
 | [[collapse-before-minds]] | [[spontaneous-collapse-theories]] | Direct treatment of the mechanisms |
 | [[consciousness-and-quantum-measurement]] | [[indexical-identity-quantum-measurement]] | Both address first-person dimension |
-| [[free-will]] | [[creativity-consciousness-and-novel-thought]] | Both involve consciousness generating possibilities |
+| [[topics/free-will]] | [[creativity-consciousness-and-novel-thought]] | Both involve consciousness generating possibilities |
 | [[ai-consciousness]] | [[continual-learning-argument]] | Core argument deserves prominent linking |
 | [[meaning-of-life]] | [[consciousness-value-connection]] | Both ground value in consciousness |
 | [[philosophical-zombies]] | [[illusionism]] | Detailed treatment of the illusionist response |
 | [[qualia]] | [[aesthetic-dimension-of-consciousness]] | Aesthetic qualia as resistant to reduction |
 | [[interactionist-dualism]] | [[delegatory-dualism]] | Saad 2025 as alternative to quantum response |
 | [[hard-problem-of-consciousness]] | [[temporal-consciousness]] | Temporal dimension of the gap |
-| [[free-will]] | [[volitional-opacity]] | Why we can't observe our own willing |
+| [[topics/free-will]] | [[volitional-opacity]] | Why we can't observe our own willing |
 
 ## New Concept Pages Needed
 

@@ -76,21 +76,21 @@ Applied six sympathetic philosopher personas (Property Dualist, Quantum Mind The
 - [[spontaneous-collapse-theories]]
 
 **Frontmatter related_articles:**
-- [[free-will]]
+- [[topics/free-will]]
 
 **Further Reading:**
 - [[spontaneous-collapse-theories]] — Physical mechanisms for objective collapse (GRW, Penrose)
-- [[free-will]] — How quantum indeterminacy relates to agent causation
+- [[topics/free-will]] — How quantum indeterminacy relates to agent causation
 
 **Inline links:**
 - [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]
 - [[spontaneous-collapse-theories|Spontaneous collapse theories]]
-- [[free-will|Free Will tenet]]
+- [[topics/free-will|Free Will tenet]]
 
 ## Changes Made
 
 1. Added [[spontaneous-collapse-theories]] to frontmatter concepts
-2. Added [[free-will]] to frontmatter related_articles
+2. Added [[topics/free-will]] to frontmatter related_articles
 3. Attributed hot cat states quote to Michel Devoret specifically
 4. Expanded hot cat states section to explicitly acknowledge lab-to-biology gap (~60 words added)
 5. Added "Two distinct hypotheses" paragraph distinguishing coherence-based from measurement-based claims (~120 words)

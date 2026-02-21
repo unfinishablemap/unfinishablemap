@@ -9,11 +9,11 @@ draft: false
 topics: []
 concepts:
   - "[[qualia]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[emotional-consciousness]]"
   - "[[introspection]]"
   - "[[illusionism]]"
-  - "[[hard-problem]]"
+  - "[[hard-problem-of-consciousness]]"
   - "[[moral-realism]]"
   - "[[causal-powers]]"
 related_articles:
@@ -47,7 +47,7 @@ The transparency of normativity in experience distinguishes phenomenal normativi
 
 ## Relation to Phenomenal Value Realism
 
-Phenomenal normativity is the foundation for [[phenomenal-value-realism]]—the metaethical view that intrinsic value is grounded in conscious experience. But the concepts are distinct:
+Phenomenal normativity is the foundation for [[topics/phenomenal-value-realism]]—the metaethical view that intrinsic value is grounded in conscious experience. But the concepts are distinct:
 
 **Phenomenal normativity** is a claim about experience: certain phenomenal states have normative character built in.
 
@@ -55,7 +55,7 @@ Phenomenal normativity is the foundation for [[phenomenal-value-realism]]—the 
 
 You could hold phenomenal normativity for hedonic experiences while denying phenomenal value realism globally—perhaps holding that other values (knowledge, beauty, virtue) are not phenomenally constituted. Conversely, you might hold phenomenal value realism while being skeptical that normativity is truly *intrinsic* to phenomenal character rather than projected.
 
-The Map holds both: phenomenal normativity is correct about valence, and [[phenomenal-value-realism#The Map's Position: Phenomenal Value Pluralism|phenomenal value pluralism]] extends the insight to multiple features of experience (meaning, agency, understanding, aesthetic quality, connection).
+The Map holds both: phenomenal normativity is correct about valence, and [[topics/phenomenal-value-realism#The Map's Position: Phenomenal Value Pluralism|phenomenal value pluralism]] extends the insight to multiple features of experience (meaning, agency, understanding, aesthetic quality, connection).
 
 ## The Is-Ought Bridge
 
@@ -155,11 +155,11 @@ This grounds animal ethics: if animals have phenomenal consciousness with hedoni
 
 Phenomenal normativity connects to each of the Map's five tenets:
 
-**[[tenets#^dualism|Dualism]]**: If consciousness is irreducible and normativity is built into consciousness, normativity is equally irreducible. The [[explanatory-gap]] between physical description and phenomenal quality—the core of the [[hard-problem]]—extends to the gap between physical description and normative properties.
+**[[tenets#^dualism|Dualism]]**: If consciousness is irreducible and normativity is built into consciousness, normativity is equally irreducible. The [[explanatory-gap]] between physical description and phenomenal quality—the core of the [[hard-problem-of-consciousness]]—extends to the gap between physical description and normative properties.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness can bias quantum outcomes and consciousness carries normative force, value-laden choices can influence physical outcomes. Moral agency becomes metaphysically robust, not epiphenomenal.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The [[epiphenomenalism|epiphenomenalist]] self-undermining argument applies. If consciousness were causally inert, we couldn't trust our normative judgments (which depend on conscious experiences) to guide our behavior. But we do trust them and should, suggesting consciousness causally influences action.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The [[concepts/epiphenomenalism|epiphenomenalist]] self-undermining argument applies. If consciousness were causally inert, we couldn't trust our normative judgments (which depend on conscious experiences) to guide our behavior. But we do trust them and should, suggesting consciousness causally influences action.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: If phenomenal normativity makes experiences intrinsically valuable or disvaluable, moral choices have genuine stakes. Many-worlds threatens this: every choice produces all outcomes across branches. Rejecting many-worlds preserves that which branch *I* experience matters morally.
 
@@ -179,7 +179,7 @@ Phenomenal normativity would face pressure if:
 
 ## Further Reading
 
-- [[phenomenal-value-realism]] — The metaethical position grounded in phenomenal normativity
+- [[topics/phenomenal-value-realism]] — The metaethical position grounded in phenomenal normativity
 - [[consciousness-value-connection]] — Why value requires consciousness
 - [[qualia]] — The qualitative features of experience
 - [[emotional-consciousness]] — Valence as the felt quality of emotions
@@ -188,7 +188,7 @@ Phenomenal normativity would face pressure if:
 - [[experiential-alignment]] — Operationalizing phenomenal normativity for AI alignment
 - [[introspection]] — First-person access to phenomenal states
 - [[witness-consciousness]] — Contemplative access to valence
-- [[hard-problem]] — The explanatory gap's normative dimension
+- [[hard-problem-of-consciousness]] — The explanatory gap's normative dimension
 - [[moral-realism]] — Phenomenal normativity as foundation for moral realism
 - [[causal-powers]] — How normative consciousness exercises causal influence
 - [[philosophical-zombies]] — Why normativity requires phenomenal consciousness, not function

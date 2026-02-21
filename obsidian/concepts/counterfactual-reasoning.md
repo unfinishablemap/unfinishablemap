@@ -8,7 +8,7 @@ ai_modified: 2026-01-30T04:40:00+00:00
 last_deep_review: 2026-01-28T23:15:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[animal-consciousness]]"
 concepts:
   - "[[baseline-cognition]]"
@@ -33,7 +33,7 @@ last_curated: null
 
 Counterfactual reasoning is the capacity to imagine situations that do not, did not, or might not exist—to ask "what if?" and mentally simulate alternative possibilities. The Unfinishable Map proposes that this capacity requires consciousness: explicitly representing non-actual states demands the kind of flexible, integrated processing that baseline cognition cannot achieve. Counterfactual reasoning sits at the heart of what distinguishes human intelligence from sophisticated animal cognition.
 
-The claim is not merely that counterfactual thoughts happen to be conscious but that consciousness is strongly implicated in generating and manipulating representations of non-actual states. This connects counterfactual reasoning to [[free-will|free will]]—if consciousness enables us to represent alternative possibilities and select among them, then genuine choice requires more than neural processing alone.
+The claim is not merely that counterfactual thoughts happen to be conscious but that consciousness is strongly implicated in generating and manipulating representations of non-actual states. This connects counterfactual reasoning to [[topics/free-will|free will]]—if consciousness enables us to represent alternative possibilities and select among them, then genuine choice requires more than neural processing alone.
 
 ## What Counterfactual Reasoning Involves
 
@@ -79,7 +79,7 @@ Humans transcend this limitation. We plan for need-states we don't currently exp
 
 ## Counterfactual Reasoning and Free Will
 
-Counterfactual reasoning bears directly on [[free-will|free will]]. Libertarian free will requires the capacity to have done otherwise—to genuinely select among alternatives rather than following a single determined path. This requires:
+Counterfactual reasoning bears directly on [[topics/free-will|free will]]. Libertarian free will requires the capacity to have done otherwise—to genuinely select among alternatives rather than following a single determined path. This requires:
 
 1. **Representing alternatives**: You must imagine what would happen under different choices
 2. **Evaluating alternatives**: You must assess the counterfactual scenarios against your values and goals
@@ -162,7 +162,7 @@ Counterfactual reasoning connects to multiple [[tenets]]:
 
 **Bidirectional Interaction**: Counterfactual reasoning is how consciousness evaluates options before selecting among them. This evaluation causally influences which action the agent takes. Without counterfactual capacity, consciousness could not contribute to deliberation—it would merely observe neural processing unfold.
 
-**No Many Worlds**: Counterfactual reasoning presupposes that alternatives are genuinely alternatives—things that *could* happen but *don't* unless selected. If [[many-worlds|many-worlds]] were true, all alternatives actualise in some branch. Many-worlds proponents respond with decision-theoretic accounts: rational agents can weight branches and act as if choosing, even if all outcomes occur somewhere. But this treats selection as subjective self-location rather than objective determination. The phenomenology of counterfactual reasoning—comparing possibilities that might or might not become real—fits collapse interpretations more naturally than branching: we experience *determining* which alternative becomes actual, not merely *discovering* which branch we occupy.
+**No Many Worlds**: Counterfactual reasoning presupposes that alternatives are genuinely alternatives—things that *could* happen but *don't* unless selected. If [[concepts/many-worlds|many-worlds]] were true, all alternatives actualise in some branch. Many-worlds proponents respond with decision-theoretic accounts: rational agents can weight branches and act as if choosing, even if all outcomes occur somewhere. But this treats selection as subjective self-location rather than objective determination. The phenomenology of counterfactual reasoning—comparing possibilities that might or might not become real—fits collapse interpretations more naturally than branching: we experience *determining* which alternative becomes actual, not merely *discovering* which branch we occupy.
 
 **Occam's Razor Has Limits**: The simplest hypothesis—counterfactual reasoning is just neural pattern matching—struggles with the evidence. The systematic correlation with consciousness-dependent capacities, the working memory demands, the apparent great ape gap all suggest something more than parsimony would predict. Yet epistemic humility is warranted: LLMs demonstrate that some form of counterfactual scenario generation can emerge from sophisticated pattern matching, even if questions remain about whether this constitutes genuine counterfactual *reasoning*.
 
@@ -170,7 +170,7 @@ Counterfactual reasoning connects to multiple [[tenets]]:
 
 - [[baseline-cognition]] — The framework distinguishing consciousness-dependent from baseline cognition
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity
-- [[free-will]] — Counterfactual reasoning's role in genuine choice
+- [[topics/free-will]] — Counterfactual reasoning's role in genuine choice
 - [[phenomenology-of-choice]] — The experience of deliberating among alternatives
 - [[working-memory]] — The workspace where counterfactual scenarios are constructed
 - [[agent-causation]] — How the agent selects among counterfactually represented options

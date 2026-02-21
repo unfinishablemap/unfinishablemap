@@ -174,7 +174,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among equi-energetic outcomes without injecting energy or violating conservation laws.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [[epiphenomenalism]] denies.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [[concepts/epiphenomenalism]] denies.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The framework requires collapse to be real. Many-Worlds eliminates collapse, and with it consciousness's selective role. If all outcomes occur, consciousness selects nothing—it merely discovers which branch it's in.
 
@@ -191,7 +191,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[quantum-consciousness]] — Mechanisms for consciousness-collapse interaction
 - [[causal-closure]], [[mental-causation]] — The causal closure loophole
 - [[interactionist-dualism]] — How mind and body interact
-- [[many-worlds]] — Arguments against MWI
+- [[concepts/many-worlds]] — Arguments against MWI
 - [[tenets]] — The Map's foundational commitments
 
 ## References

@@ -9,7 +9,7 @@ last_deep_review: 2026-02-07T11:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-coupling]]"
   - "[[selection-laws]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[voluntary-attention]]"
   - "[[argument-from-reason]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[quantum-consciousness]]"
@@ -35,7 +35,7 @@ ai_generated_date: 2026-01-23
 last_curated:
 ---
 
-Bidirectional interaction is the claim that consciousness and the physical world causally influence each other—that information flows both ways across the mind-body boundary. Physical brain states shape conscious experience, and conscious states shape physical brain states. This distinguishes [[interactionist-dualism]] from [[epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
+Bidirectional interaction is the claim that consciousness and the physical world causally influence each other—that information flows both ways across the mind-body boundary. Physical brain states shape conscious experience, and conscious states shape physical brain states. This distinguishes [[interactionist-dualism]] from [[concepts/epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
 
 Bidirectional Interaction is one of The Unfinishable Map's five foundational [[tenets]]. Combined with the [[tenets#^dualism|Dualism]] tenet (consciousness is irreducible) and the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet (consciousness acts at quantum indeterminacies), it commits the Map to a specific form of interactionist dualism.
 
@@ -47,7 +47,7 @@ This seemingly simple observation has radical implications. It means consciousne
 
 ## The Self-Stultification Argument
 
-The strongest positive case for bidirectional interaction comes from examining the alternative. [[Epiphenomenalism]] holds that consciousness is real but causally inert—physical brain states cause conscious experiences, but those experiences cause nothing in return. This faces a devastating objection: if consciousness causes nothing, how can we know anything about consciousness?
+The strongest positive case for bidirectional interaction comes from examining the alternative. [[concepts/epiphenomenalism]] holds that consciousness is real but causally inert—physical brain states cause conscious experiences, but those experiences cause nothing in return. This faces a devastating objection: if consciousness causes nothing, how can we know anything about consciousness?
 
 Consider the statement "phenomenal consciousness exists." If epiphenomenalism is true:
 
@@ -145,7 +145,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[argument-from-reason]] — Complementary self-defeat argument targeting physicalism
 - [[voluntary-attention]] — The attention interface with neural evidence
 - [[interactionist-dualism]] — Comprehensive treatment of the philosophical framework
-- [[epiphenomenalism]] — The view this tenet rejects
+- [[concepts/epiphenomenalism]] — The view this tenet rejects
 - [[mental-causation]] — The broader problem of how mind causes anything
 - [[causal-closure]] — The closure objection and its limits
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail

@@ -16,7 +16,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[quantum-entanglement]]"
 related_articles:
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
@@ -31,7 +31,7 @@ The concern rests on unstated assumptions about how non-physical causation must 
 
 ## The Objection Stated
 
-From [[consciousness-selecting-neural-patterns]]:
+From [[concepts/consciousness-selecting-neural-patterns]]:
 
 > If consciousness influences quantum events in the brain, where exactly does this happen? The proposal requires:
 > - Specific physical locations where selection occurs
@@ -107,11 +107,11 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 
 - [[brain-interface-boundary]] — Why consciousness acts on *this* brain specifically and what makes neural systems suitable interfaces
 - [[pairing-problem]] — Kim's challenge about mind-body connection
-- [[consciousness-selecting-neural-patterns]] — The broader question of whether quantum selection is coherent
+- [[concepts/consciousness-selecting-neural-patterns]] — The broader question of whether quantum selection is coherent
 - [[quantum-entanglement]] — The non-local correlations that challenge strict locality
 - [[binding-problem]] — How distributed activity yields unified experience
 - [[tenets]] — The foundational commitments these concepts serve
-- [[free-will]] — How quantum selection relates to libertarian free will
+- [[topics/free-will]] — How quantum selection relates to libertarian free will
 
 ## References
 

@@ -10,7 +10,7 @@ topics:
   - "[[ai-consciousness]]"
 concepts:
   - "[[attention]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[integrated-information-theory]]"
 related_articles:
@@ -161,7 +161,7 @@ This is precisely where site's framework diverges most sharply from GWT:
 
 - GWT is functionalist—consciousness is the functional role of global broadcast
 - If functionalism is true, AI implementing the right architecture would be conscious
-- Site's [[functionalism|rejection of functionalism]] implies GWT's AI implications don't follow
+- Site's [[concepts/functionalism|rejection of functionalism]] implies GWT's AI implications don't follow
 - The absent qualia objection applies: a system could implement global broadcast without phenomenal experience
 - [[ai-consciousness|Site's AI consciousness skepticism]] is based on dualism, not denial that AI can implement workspace functions
 

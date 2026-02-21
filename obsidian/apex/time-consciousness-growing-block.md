@@ -9,7 +9,7 @@ last_deep_review: 2026-02-02T04:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[duration]]"
@@ -123,7 +123,7 @@ This doesn't prove dualism. But it suggests that the relationship between consci
 
 ## Free Will Reconsidered
 
-The temporal framework reshapes the [[free-will|free will debate]]. If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [[agent-causation|Agent causation]] isn't action within pre-existing time but participation in time's constitution.
+The temporal framework reshapes the [[topics/free-will|free will debate]]. If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [[agent-causation|Agent causation]] isn't action within pre-existing time but participation in time's constitution.
 
 The Libet objection loses force. If selection is atemporal, it needn't temporally precede neural activity. The neural activity "preceding" awareness and the awareness itself are both parts of the selected transaction. The apparent temporal gap between readiness potential and conscious decision reflects our perspective from within the selected transaction, not evidence that consciousness arrives too late to matter.
 

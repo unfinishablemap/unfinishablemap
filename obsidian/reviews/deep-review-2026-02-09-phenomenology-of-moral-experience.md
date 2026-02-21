@@ -37,7 +37,7 @@ None. The article contains no factual errors, misattributions, internal contradi
 
 - **Quantum interaction tenet connection too assertive**: The original presented moral experience influencing physical outcomes as if this were a developed claim rather than speculative. **Resolution**: Softened to "could in principle" with explicit acknowledgment that this remains speculative.
 
-- **Missing cross-links**: Several relevant existing articles were not linked. **Resolution**: Added cross-links to [[free-will]], [[contemplative-evidence-for-consciousness-theories]], [[eastern-philosophy-consciousness]], [[phenomenology-of-understanding]], [[phenomenology-of-belief-revision]].
+- **Missing cross-links**: Several relevant existing articles were not linked. **Resolution**: Added cross-links to [[topics/free-will]], [[contemplative-evidence-for-consciousness-theories]], [[eastern-philosophy-consciousness]], [[phenomenology-of-understanding]], [[phenomenology-of-belief-revision]].
 
 ### Counterarguments Considered
 
@@ -71,7 +71,7 @@ None. The article contains no factual errors, misattributions, internal contradi
 
 ### Cross-links Added
 
-- [[free-will]] (inline and Further Reading)
+- [[topics/free-will]] (inline and Further Reading)
 - [[contemplative-evidence-for-consciousness-theories]] (inline and Further Reading)
 - [[eastern-philosophy-consciousness]] (inline and Further Reading)
 - [[phenomenology-of-understanding]] (Further Reading)

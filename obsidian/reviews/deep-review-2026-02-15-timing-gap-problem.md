@@ -72,7 +72,7 @@ last_curated:
 
 - **Stapp section expanded**: Added observation frequency estimate (~1,000 per 300ms window), biological Zeno precedent (Atkins et al. 2024 cryptochrome), and phenomenological prediction (effort as signature of repetitive observation). Cross-linked to [[mental-effort]].
 
-- **Free will connection developed**: Added paragraph connecting the timing gap to the Map's grounding for libertarian free will through quantum indeterminacy. Cross-linked to [[agent-causation]], [[quantum-indeterminacy-free-will]], [[free-will]].
+- **Free will connection developed**: Added paragraph connecting the timing gap to the Map's grounding for libertarian free will through quantum indeterminacy. Cross-linked to [[agent-causation]], [[quantum-indeterminacy-free-will]], [[topics/free-will]].
 
 - **No Many Worlds connection added**: New paragraph in Relation to Site Perspective explaining why MWI dissolves both the problem and the proposed responses.
 
@@ -82,7 +82,7 @@ last_curated:
 
 - [[stapp-quantum-mind]] (inline link on Stapp's quantum Zeno approach)
 - [[mental-effort]] (Zeno phenomenological prediction)
-- [[free-will]] (gap's implications for free will)
+- [[topics/free-will]] (gap's implications for free will)
 - [[agent-causation]] (Map's grounding for libertarian agency)
 - [[quantum-indeterminacy-free-will]] (detailed treatment of the quantum-free-will connection)
 - [[measurement-problem]] (independent motivation for outcome selection question)

@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[knowledge-argument]]"
   - "[[philosophical-zombies]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[introspection]]"
   - "[[decoherence]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[haecceity]]"
   - "[[intentionality]]"
   - "[[binding-problem]]"
@@ -37,14 +37,14 @@ concepts:
   - "[[process-philosophy]]"
   - "[[prehension]]"
   - "[[stapp-quantum-mind]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[meta-problem-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[epistemological-limits-of-occams-razor]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[cognitive-science-of-dualism]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -56,7 +56,7 @@ coalesced_from:
   - "/concepts/arguments-for-dualism/"
 ---
 
-Multiple independent arguments converge on the same conclusion: [[materialism]]—the view that reality is fundamentally physical—cannot account for consciousness, and [[dualism]] provides a better framework for understanding the mind. Each argument identifies aspects of conscious experience that appear logically or metaphysically separable from physical facts. (See [[dualism|the dualism overview]] for what dualism claims and its main varieties; this article focuses on the detailed *arguments*.) Their convergence from independent starting points provides strong cumulative support for the [[tenets#^dualism|Dualism tenet]].
+Multiple independent arguments converge on the same conclusion: [[concepts/materialism]]—the view that reality is fundamentally physical—cannot account for consciousness, and [[dualism]] provides a better framework for understanding the mind. Each argument identifies aspects of conscious experience that appear logically or metaphysically separable from physical facts. (See [[dualism|the dualism overview]] for what dualism claims and its main varieties; this article focuses on the detailed *arguments*.) Their convergence from independent starting points provides strong cumulative support for the [[tenets#^dualism|Dualism tenet]].
 
 The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question, and the arguments supporting it continue to develop alongside renewed attention to the limits of physicalism.
 
@@ -111,7 +111,7 @@ Philosophers remain divided: the 2020 survey found 37% think zombies are "concei
 
 [[Qualia]]—the qualitative, felt aspects of experience—generate multiple arguments for dualism:
 
-**[[Inverted-qualia|Inverted Qualia]]**: Two beings could share the same functional organization yet have different qualitative experiences. Your experience of red might be my experience of green, yet we'd behave identically and agree on all color classifications. This refutes [[functionalism]]—the view that mental states are defined purely by their causal/functional roles. If the same organization could yield different experiences, then experiences aren't identical to organization. See [[inverted-qualia]] for detailed treatment.
+**[[Inverted-qualia|Inverted Qualia]]**: Two beings could share the same functional organization yet have different qualitative experiences. Your experience of red might be my experience of green, yet we'd behave identically and agree on all color classifications. This refutes [[concepts/functionalism]]—the view that mental states are defined purely by their causal/functional roles. If the same organization could yield different experiences, then experiences aren't identical to organization. See [[inverted-qualia]] for detailed treatment.
 
 **The Intrinsic Nature Argument**: Physical science describes only relational and dispositional properties—how things relate to other things, how they're disposed to behave. But qualia are intrinsic: there is something it is like to experience red *in itself*, not just in relation to other experiences. If physics captures only relations, it misses intrinsic phenomenal properties.
 
@@ -170,9 +170,9 @@ This doesn't establish quantum consciousness, but it removes the closure of that
 
 ### The Many-Worlds Dissolution
 
-[[many-worlds|Many-Worlds Interpretation]] (MWI) attempts to dissolve the measurement problem entirely: all outcomes occur, and there's nothing to collapse. If MWI is correct, the "opening" for consciousness disappears.
+[[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) attempts to dissolve the measurement problem entirely: all outcomes occur, and there's nothing to collapse. If MWI is correct, the "opening" for consciousness disappears.
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects MWI on multiple grounds. The indexical identity problem is central: before measurement, one you exists; after measurement on MWI, multiple equally real continuations exist. "Why am I in *this* branch?" seems meaningful, yet MWI cannot answer it. This [[haecceity|haecceitistic]] question suggests an indexical fact MWI cannot accommodate. See [[many-worlds]] for detailed treatment.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects MWI on multiple grounds. The indexical identity problem is central: before measurement, one you exists; after measurement on MWI, multiple equally real continuations exist. "Why am I in *this* branch?" seems meaningful, yet MWI cannot answer it. This [[haecceity|haecceitistic]] question suggests an indexical fact MWI cannot accommodate. See [[concepts/many-worlds]] for detailed treatment.
 
 ## Physicalist Responses and Their Limits
 
@@ -230,7 +230,7 @@ Kim's [[causal-closure|causal exclusion]] argument claims that even if physics i
 
 William James observed that pleasures correlate precisely with survival benefits and pains with harms. Natural selection could produce such correlations only if consciousness causes behavior.
 
-This objection actually *supports* interactionism. It targets [[epiphenomenalism]], not interactionist dualism. If consciousness has causal effects—as the Map maintains—the evolutionary correlations are explicable.
+This objection actually *supports* interactionism. It targets [[concepts/epiphenomenalism]], not interactionist dualism. If consciousness has causal effects—as the Map maintains—the evolutionary correlations are explicable.
 
 | Objection | Response | Assessment |
 |-----------|----------|------------|
@@ -310,11 +310,11 @@ The Unfinishable Map doesn't rest on dismissing materialist responses but on the
 
 **Core arguments:** [[explanatory-gap]], [[knowledge-argument]], [[philosophical-zombies]], [[inverted-qualia]], [[intentionality]], [[binding-problem]]
 
-**Materialist responses:** [[materialism]], [[illusionism]], [[phenomenal-concepts-strategy]], [[heterophenomenology]], [[mysterianism]]
+**Materialist responses:** [[concepts/materialism]], [[illusionism]], [[phenomenal-concepts-strategy]], [[heterophenomenology]], [[mysterianism]]
 
-**The Map's framework:** [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-of-occams-razor]], [[causal-closure]], [[mental-causation]], [[free-will]]
+**The Map's framework:** [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-of-occams-razor]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
 
-**Background:** [[dualism]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[introspection]], [[decoherence]], [[many-worlds]], [[process-philosophy]], [[combination-problem]]
+**Background:** [[dualism]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[introspection]], [[decoherence]], [[concepts/many-worlds]], [[process-philosophy]], [[combination-problem]]
 
 ## References
 

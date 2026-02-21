@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[personal-identity]]"
   - "[[death-and-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[haecceity]]"
   - "[[split-brain-consciousness]]"

@@ -124,7 +124,7 @@ Non-temporal consciousness connects directly to the Map's [[tenets]]:
 - [[eastern-philosophy-consciousness]] — Non-western perspectives on consciousness and time
 - [[process-philosophy]] — Whitehead's concrescence as a parallel non-temporal constituting activity
 - [[witness-consciousness]] — The observing awareness that meditation reveals
-- [[free-will]] — How a non-temporal ground dissolves the Libet timing objection
+- [[topics/free-will]] — How a non-temporal ground dissolves the Libet timing objection
 
 ## References
 

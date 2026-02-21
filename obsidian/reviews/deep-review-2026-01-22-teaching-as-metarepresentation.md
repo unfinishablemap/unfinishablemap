@@ -54,7 +54,7 @@ last_curated: null
 
 ### Cross-links Added
 - [[global-workspace-theory]] (was mentioned but unlinked)
-- [[free-will]]
+- [[topics/free-will]]
 
 ## Remaining Items
 

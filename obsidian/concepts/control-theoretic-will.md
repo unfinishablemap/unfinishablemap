@@ -7,11 +7,11 @@ human_modified:
 ai_modified: 2026-02-20T13:06:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-as-interface]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[attentional-economics]]"
   - "[[motor-selection]]"
   - "[[mental-effort]]"
@@ -36,7 +36,7 @@ This reframing matters because it specifies what consciousness *can* and *cannot
 
 Computational models of mind treat consciousness as a processing system—one that represents, reasons, plans, and decides through something analogous to computation. The Map rejects this framing. Multiple existing articles converge on a different picture:
 
-- [[consciousness-selecting-neural-patterns|Consciousness selects]] among quantum possibilities rather than computing outcomes
+- [[concepts/consciousness-selecting-neural-patterns|Consciousness selects]] among quantum possibilities rather than computing outcomes
 - [[attention-as-interface|Attention serves as the interface]]—a narrow channel, not a general-purpose processor
 - [[attentional-economics|Attentional economics]] describes how a scarce resource (~10 bits/second) gets allocated among competing demands
 - [[motor-selection|Motor selection]] shows the brain generating multiple action plans in parallel, with consciousness biasing which one reaches threshold
@@ -73,7 +73,7 @@ The Zeno mechanism (however it physically operates) functions as a stabilising f
 
 ### Veto
 
-The [[consciousness-selecting-neural-patterns#Policy-Level Selection|policy-level selection]] framework includes veto—blocking an action the brain has prepared. Libet himself suggested this: even if the readiness potential begins before conscious awareness, consciousness can veto the action within a ~200ms window. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
+The [[concepts/consciousness-selecting-neural-patterns#Policy-Level Selection|policy-level selection]] framework includes veto—blocking an action the brain has prepared. Libet himself suggested this: even if the readiness potential begins before conscious awareness, consciousness can veto the action within a ~200ms window. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
 
 Veto requires minimal bandwidth. A single bit ("stop/go") suffices for the basic operation. This makes it perhaps the most plausible form of conscious control—even a ~10 bits/second channel can issue many veto signals per second.
 
@@ -93,7 +93,7 @@ Resource allocation connects to the [[attentional-economics#Working Memory and A
 
 Framing will as control clarifies several aspects of the Map's position that remain ambiguous when described in purely philosophical terms.
 
-**Precision about limits.** Control theory distinguishes between what a controller *can* influence (observability and controllability) and what it *cannot*. The brain boundary problem—why consciousness influences its own brain but not external objects—becomes a controllability constraint: only systems within the attention loop are controllable. [[consciousness-selecting-neural-patterns#The Brain Boundary|Interface locality]] is a standard control-theoretic requirement, not an ad hoc restriction.
+**Precision about limits.** Control theory distinguishes between what a controller *can* influence (observability and controllability) and what it *cannot*. The brain boundary problem—why consciousness influences its own brain but not external objects—becomes a controllability constraint: only systems within the attention loop are controllable. [[concepts/consciousness-selecting-neural-patterns#The Brain Boundary|Interface locality]] is a standard control-theoretic requirement, not an ad hoc restriction.
 
 **Bandwidth as design constraint, not deficiency.** A ~10 bits/second channel seems absurdly narrow. But control systems routinely use low-bandwidth signals to govern high-bandwidth plants. A thermostat outputs one bit (heat on/off) to control a complex thermal system. A pilot uses a few control inputs to manage an aircraft with millions of interacting parts. Low bandwidth is not a failure of the controller; it reflects appropriate abstraction—controlling at the right level.
 
@@ -148,7 +148,7 @@ Conflating the model with the ontology would be a category error—treating a us
 ## Further Reading
 
 - [[attention-as-interface]] — The interface hypothesis that grounds the controller's output channel
-- [[consciousness-selecting-neural-patterns]] — The selection mechanism the controller employs
+- [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism the controller employs
 - [[attentional-economics]] — The economics of the controller's scarce bandwidth
 - [[motor-selection]] — How the unified attention-motor system implements control
 - [[mental-effort]] — The phenomenology of control effort

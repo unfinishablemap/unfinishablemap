@@ -10,7 +10,7 @@ topics:
 concepts:
   - "[[qualia]]"
   - "[[explanatory-gap]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[phenomenal-concepts-strategy]]"
 related_articles:
   - "[[tenets]]"

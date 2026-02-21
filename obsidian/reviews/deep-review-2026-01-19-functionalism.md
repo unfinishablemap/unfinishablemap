@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-19
-**Article**: [[functionalism|Functionalism]]
+**Article**: [[concepts/functionalism|Functionalism]]
 **Previous review**: [[deep-review-2026-01-19-functionalism|2026-01-19 (earlier pass added minimal-consciousness content)]]
 
 ## Review Session 2 (21:15 UTC)

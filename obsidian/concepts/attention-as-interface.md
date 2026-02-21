@@ -8,11 +8,11 @@ ai_modified: 2026-02-16T15:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-coupling]]"
   - "[[interface-locality]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -24,11 +24,11 @@ concepts:
   - "[[mysterianism]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[introspection]]"
   - "[[attention-interface-mechanisms]]"
   - "[[attention-schema-theory]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[integrated-information-theory]]"
   - "[[stapp-quantum-mind]]"
   - "[[dopamine-selection-interface]]"
@@ -67,7 +67,7 @@ The interface hypothesis rests on a key distinction: attention and consciousness
 
 Koch and Tsuchiya (2007) documented the evidence. Ned Block's iconic memory experiments showed subjects seeing all letters in a display though they could report only 3-4—consciousness "overflowing" attentional access. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
 
-If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The [[functionalism|functionalist]] equation of consciousness with a functional role stumbles here: peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Something else is going on. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
+If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The [[concepts/functionalism|functionalist]] equation of consciousness with a functional role stumbles here: peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Something else is going on. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
 
 ## The Hypothesis Stated
 
@@ -81,7 +81,7 @@ Attention functions as the **interface layer** between consciousness and neural 
 | Attention has bandwidth limits (~10 bits/second) | Constrains what consciousness can select |
 | A candidate mechanism exists (quantum Zeno effect) | Rapid observation holds desired neural patterns (alternatives possible) |
 
-If consciousness can influence matter, why not everywhere? The [[interface-locality]] article develops why: attention requires neural infrastructure, the candidate mechanisms require rapid observation achievable only within neural systems, and [[consciousness-selecting-neural-patterns|selection]] works by biasing ongoing neural competition that external systems are not part of.
+If consciousness can influence matter, why not everywhere? The [[interface-locality]] article develops why: attention requires neural infrastructure, the candidate mechanisms require rapid observation achievable only within neural systems, and [[concepts/consciousness-selecting-neural-patterns|selection]] works by biasing ongoing neural competition that external systems are not part of.
 
 ## The Willed Attention Distinction
 
@@ -194,13 +194,13 @@ The hypothesis would fail if:
 
 ## Further Reading
 
-**Core concepts**: [[mental-effort]], [[consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[interface-locality]], [[coupling-modes]], [[attentional-economics]], [[attention-disorders-and-quantum-interface|Attention Disorders and the Interface]]
+**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[interface-locality]], [[coupling-modes]], [[attentional-economics]], [[attention-disorders-and-quantum-interface|Attention Disorders and the Interface]]
 
 **Motor convergence**: [[motor-selection]], [[dopamine-selection-interface]], [[dopamine-and-the-unified-interface]]
 
 **Mechanisms**: [[attention-interface-mechanisms]] — candidate neural sites, timing constraints, and testable predictions
 
-**Quantum approaches**: [[quantum-consciousness]], [[stapp-quantum-mind]], [[decoherence]], [[quantum-neural-timing-constraints]], [[many-worlds]]
+**Quantum approaches**: [[quantum-consciousness]], [[stapp-quantum-mind]], [[decoherence]], [[quantum-neural-timing-constraints]], [[concepts/many-worlds]]
 
 **Related domains**: [[meditation-and-consciousness-modes]], [[emotional-consciousness]], [[consciousness-and-creativity]]
 

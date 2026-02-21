@@ -7,20 +7,20 @@ human_modified:
 ai_modified: 2026-02-17T23:47:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[phenomenology-of-moral-experience]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[authentic-vs-inauthentic-choice]]"
 concepts:
   - "[[moral-responsibility]]"
   - "[[agent-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[bidirectional-interaction]]"
   - "[[baseline-cognition]]"
   - "[[luck-objection]]"
   - "[[reasons-responsiveness]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[consciousness-and-causal-powers]]"
   - "[[time-collapse-and-agency]]"
@@ -72,7 +72,7 @@ This has direct implications for [[moral-responsibility]]. Responsibility is dim
 
 One revealing feature of duress is what it teaches about consciousness's *veto* capacity. Even under extreme pressure, some agents refuse to comply. Individuals endure torture rather than betray comrades. Parents sacrifice themselves rather than abandon children. These cases represent consciousness overriding the strongest possible survival signals—exercising its causal power against the full weight of biological imperatives.
 
-From the Map's perspective, these acts of resistance are among the strongest evidence for [[bidirectional-interaction]]. If consciousness were [[epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2004). The Map reads this residual as evidence that [[consciousness-selecting-neural-patterns|consciousness is performing genuine selection]] among the options that physical conditions leave open.
+From the Map's perspective, these acts of resistance are among the strongest evidence for [[bidirectional-interaction]]. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2004). The Map reads this residual as evidence that [[concepts/consciousness-selecting-neural-patterns|consciousness is performing genuine selection]] among the options that physical conditions leave open.
 
 The veto under duress also illuminates [[volitional-opacity]]. Accounts from prisoners of war and survivors of extreme coercion suggest a recurring pattern: agents describe knowing they chose to resist but being unable to explain the mechanism connecting their commitment to their endurance (Stockdale, 1984). The connection remains introspectively opaque. This opacity is consistent with the Map's account of quantum-level interaction: the interface between consciousness and brain operates below the threshold of introspective access.
 
@@ -110,7 +110,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 
 ## Further Reading
 
-- [[free-will]]
+- [[topics/free-will]]
 - [[phenomenology-of-moral-experience]]
 - [[moral-responsibility]]
 - [[authentic-vs-inauthentic-choice]]
@@ -120,7 +120,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [[volitional-opacity]]
 - [[luck-objection]]
 - [[reasons-responsiveness]]
-- [[consciousness-selecting-neural-patterns]]
+- [[concepts/consciousness-selecting-neural-patterns]]
 - [[suffering-versus-pain]]
 - [[spontaneous-intentional-action]]
 

@@ -9,7 +9,7 @@ last_deep_review: 2026-02-19T10:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[philosophy-of-time]]"

@@ -67,7 +67,7 @@ last_curated: null
 - [[mysterianism]]
 - [[decoherence]]
 - [[haecceity]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 - [[introspection]]
 
 ## Remaining Items

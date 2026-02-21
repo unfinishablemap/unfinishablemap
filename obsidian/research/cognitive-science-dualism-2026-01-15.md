@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[arguments-for-dualism]]"
 related_articles:
   - "[[tenets]]"

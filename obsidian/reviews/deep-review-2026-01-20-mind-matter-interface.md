@@ -79,7 +79,7 @@ last_curated: null
 - [[witness-consciousness]] — Contemplative evidence for observer
 - [[mental-effort]] — Phenomenology supporting selection
 - [[measurement-problem]] — Why decoherence doesn't solve collapse
-- [[many-worlds]] — MWI rejection and implications
+- [[concepts/many-worlds]] — MWI rejection and implications
 - [[introspection]] — Added to frontmatter concepts
 
 ### References Added

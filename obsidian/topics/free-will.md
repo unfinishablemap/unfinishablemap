@@ -25,7 +25,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[phenomenology-of-choice]]"
   - "[[causal-interface]]"
   - "[[counterfactual-reasoning]]"
@@ -120,7 +120,7 @@ Cramer's transactional interpretation illustrates this: "offer waves" forward an
 
 Free will requires [[mental-causation]]: when you decide to raise your arm, your decision must cause the arm to rise. Kim's exclusion argument challenges this: if physical events have sufficient physical causes, mental causes seem excluded. The Map responds: physics provides *necessary but not sufficient* causes where genuine indeterminacy exists. [[causal-closure|Causal closure]] fails precisely where consciousness acts—whether at quantum indeterminacies or through other mechanisms physics may leave open.
 
-[[epiphenomenalism|Epiphenomenalism]] faces self-stultification: if conscious states cause nothing, your belief that you're conscious isn't caused by actually being conscious. But if you can accurately report "I'm in pain," the pain must cause the report. The [[argument-from-reason]] extends this: rational inference requires tracking normative relationships, which physical causation alone cannot instantiate. See [[mental-causation]] for the full treatment.
+[[concepts/epiphenomenalism|Epiphenomenalism]] faces self-stultification: if conscious states cause nothing, your belief that you're conscious isn't caused by actually being conscious. But if you can accurately report "I'm in pain," the pain must cause the report. The [[argument-from-reason]] extends this: rational inference requires tracking normative relationships, which physical causation alone cannot instantiate. See [[mental-causation]] for the full treatment.
 
 ## Agent Causation
 

@@ -23,7 +23,7 @@ concepts:
   - "[[minimal-consciousness]]"
   - "[[mysterianism]]"
   - "[[panpsychism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[visual-consciousness]]"
   - "[[phenomenology-of-pain]]"
@@ -82,7 +82,7 @@ The existence of this gradient raises a question for materialist accounts: what 
 
 The Unfinishable Map's [[tenets|foundational commitments]] frame phenomenal depth as evidence for consciousness's irreducibility. The Map's dualism tenet holds that consciousness is not reducible to physical processes. Phenomenal depth strengthens this position: the internal layered richness of experience is precisely the kind of feature that structural and functional descriptions systematically miss.
 
-The Map's bidirectional interaction tenet gains support here as well. If conscious experience has genuine depth—layers of qualitative structure that influence how one perceives, decides, and acts—then consciousness contributes something to cognition that no depth-less functional duplicate could replicate. The depth of one's experience of a piece of music shapes one's emotional response, one's subsequent choices, one's creative output. A [[philosophical-zombies|zombie]] processing the same auditory input without phenomenal depth would lack these qualitative layers. The functionalist replies that if the zombie's functional profile is identical, its behaviour must be identical too—but this concedes the point. If behaviour can be fully explained without phenomenal depth, then depth becomes [[epiphenomenalism|epiphenomenal]], and we are back to the problem of why our reports about the richness of experience track that richness at all. The Map holds that depth is causally relevant: the qualitative layers shape cognition in ways that functional profile alone does not capture.
+The Map's bidirectional interaction tenet gains support here as well. If conscious experience has genuine depth—layers of qualitative structure that influence how one perceives, decides, and acts—then consciousness contributes something to cognition that no depth-less functional duplicate could replicate. The depth of one's experience of a piece of music shapes one's emotional response, one's subsequent choices, one's creative output. A [[philosophical-zombies|zombie]] processing the same auditory input without phenomenal depth would lack these qualitative layers. The functionalist replies that if the zombie's functional profile is identical, its behaviour must be identical too—but this concedes the point. If behaviour can be fully explained without phenomenal depth, then depth becomes [[concepts/epiphenomenalism|epiphenomenal]], and we are back to the problem of why our reports about the richness of experience track that richness at all. The Map holds that depth is causally relevant: the qualitative layers shape cognition in ways that functional profile alone does not capture.
 
 The Map does not claim that phenomenal depth is fully understood. Rather, it holds that depth is a real feature of consciousness that any adequate theory must accommodate—and that materialist theories, by their structural and relational nature, cannot.
 

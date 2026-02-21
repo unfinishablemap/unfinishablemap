@@ -10,17 +10,17 @@ draft: false
 topics:
   - "[[consciousness-and-surprise]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[consciousness-and-creativity]]"
   - "[[predictive-processing]]"
   - "[[epistemic-emotions]]"
   - "[[phenomenal-consciousness]]"
   - "[[attention-as-interface]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[counterfactual-reasoning]]"
   - "[[agent-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[creativity-consciousness-and-novel-thought]]"
@@ -76,13 +76,13 @@ This temporal structure requires a mind that maintains expectations about its ow
 
 ## Surprise as Evidence Against Epiphenomenalism
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—merely accompanying physical processes without influencing them—then creative self-surprise would be a strange accident. The brain would generate novel outputs through purely physical processes, and consciousness would observe these outputs with surprise but contribute nothing to their production.
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—merely accompanying physical processes without influencing them—then creative self-surprise would be a strange accident. The brain would generate novel outputs through purely physical processes, and consciousness would observe these outputs with surprise but contribute nothing to their production.
 
 This picture has problems. If consciousness plays no causal role in creativity, then the surprise serves no function. But creative surprise demonstrably shapes what happens next. The mathematician who is surprised by a proof technique applies it in new contexts. The novelist surprised by a character's development follows the character rather than the outline. The surprise *redirects* the creative process—which means it has causal consequences.
 
 The epiphenomenalist might respond that the brain's physical processes redirect themselves and consciousness merely tracks the redirection. But this requires that the brain independently replicates exactly the same pattern that surprise would produce: a disruption of the current trajectory, reorientation toward the unexpected element, and systematic exploration of its implications. If the physical brain does all this without input from the felt surprise, the correlation between phenomenal surprise and creative redirection becomes an unexplained coincidence.
 
-The Map's alternative: surprise is part of the causal mechanism of creativity. The felt jolt of the unexpected disrupts habitual processing, forces [[attention-as-interface|attention]] toward novel elements, and initiates the evaluation that determines whether the unexpected output is genuinely valuable. This is consistent with consciousness [[consciousness-selecting-neural-patterns|selecting among neural patterns]]—surprise functions as a signal that shifts selection from routine patterns to novel ones.
+The Map's alternative: surprise is part of the causal mechanism of creativity. The felt jolt of the unexpected disrupts habitual processing, forces [[attention-as-interface|attention]] toward novel elements, and initiates the evaluation that determines whether the unexpected output is genuinely valuable. This is consistent with consciousness [[concepts/consciousness-selecting-neural-patterns|selecting among neural patterns]]—surprise functions as a signal that shifts selection from routine patterns to novel ones.
 
 ## The Gradient of Creative Surprise
 

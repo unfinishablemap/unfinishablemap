@@ -64,7 +64,7 @@ last_curated: null
 - [[haecceity]] — strengthened existing mention
 - [[pairing-problem]] — added to frontmatter and opening
 - [[luck-objection]] — new subsection connection
-- [[many-worlds]] — added to Further Reading
+- [[concepts/many-worlds]] — added to Further Reading
 - [[measurement-problem]] — cross-linked in decoherence section
 
 ## Remaining Items

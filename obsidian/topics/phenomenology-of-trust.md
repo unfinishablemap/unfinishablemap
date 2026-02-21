@@ -8,7 +8,7 @@ ai_modified: 2026-02-18T05:47:00+00:00
 last_deep_review: 2026-02-18T05:47:00+00:00
 draft: false
 topics:
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
   - "[[consciousness-and-interpersonal-understanding]]"
   - "[[phenomenology-of-belief-revision]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
@@ -112,7 +112,7 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 
 ## Further Reading
 
-- [[consciousness-and-social-cognition]]
+- [[topics/consciousness-and-social-cognition]]
 - [[consciousness-and-interpersonal-understanding]]
 - [[problem-of-other-minds]]
 - [[intersubjectivity]]

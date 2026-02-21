@@ -15,10 +15,10 @@ concepts:
   - "[[phenomenology]]"
   - "[[phenomenal-unity]]"
   - "[[cognitive-phenomenology]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[consciousness-and-semantic-understanding]]"
   - "[[temporal-structure-of-understanding]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
 related_articles:
   - "[[tenets]]"
   - "[[emotional-consciousness]]"
@@ -73,7 +73,7 @@ This poses a problem for evaluativist accounts of emotion that define emotional 
 
 The hedonic account handles this naturally: musical emotion has intrinsic valence and qualitative character that is not *about* anything external. The sadness of a minor passage is a phenomenal property of the experience itself, as immediate and non-representational as the painfulness of pain.
 
-This matters for the Map's framework because it demonstrates that [[phenomenal-value-realism|phenomenal value]]—the intrinsic goodness or badness of experience—operates independently of representational content. Consciousness carries evaluative weight that cannot be captured by describing what experience *represents*.
+This matters for the Map's framework because it demonstrates that [[topics/phenomenal-value-realism|phenomenal value]]—the intrinsic goodness or badness of experience—operates independently of representational content. Consciousness carries evaluative weight that cannot be captured by describing what experience *represents*.
 
 ## The Binding Achievement
 
@@ -118,7 +118,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [[emotional-consciousness]] — Valence, felt quality, and non-propositional emotion
 - [[cognitive-phenomenology]] — The felt quality of understanding and thought
 - [[temporal-structure-of-understanding]] — How understanding unfolds temporally
-- [[phenomenal-value-realism]] — Intrinsic value in conscious experience
+- [[topics/phenomenal-value-realism]] — Intrinsic value in conscious experience
 - [[consciousness-and-semantic-understanding]] — Phenomenal consciousness and meaning
 - [[phenomenal-unity]] — The binding of experience into unified wholes
 

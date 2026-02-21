@@ -30,7 +30,7 @@ Four sources modified after last synthesis:
    - Added section on valence-weighted experiential alignment
    - Strengthened process philosophy integration
 
-4. **[[phenomenal-value-realism]]** (modified 2026-02-02T20:46:00+00:00)
+4. **[[topics/phenomenal-value-realism]]** (modified 2026-02-02T20:46:00+00:00)
    - Expanded phenomenal value pluralism (aesthetic quality, meaning, agency, understanding, connection, attention)
    - Added aesthetic value as distinct category
 

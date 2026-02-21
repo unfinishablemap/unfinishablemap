@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Consciousness and Skilled Performance"
 original_path: "/topics/paradox-of-effortless-mastery/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[mental-effort]]"
   - "[[implicit-memory]]"
@@ -60,7 +60,7 @@ The paradox is sharpest in the transition from phase one to phase three. The ver
 
 ### Against Epiphenomenalism
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—a causally inert shadow of neural processes—the paradox dissolves but at an unacceptable cost. On the epiphenomenalist reading, consciousness never built anything. Neural processes created other neural processes; the feeling of effort was a decorative accompaniment. But this account faces a specific difficulty: structured, feedback-driven practice produces better skills than unstructured repetition. Ericsson's research (1993) established that the *quality* of engagement during practice—attentional focus, error monitoring, working memory recruitment—not just hours accumulated, predicts expertise development.
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—a causally inert shadow of neural processes—the paradox dissolves but at an unacceptable cost. On the epiphenomenalist reading, consciousness never built anything. Neural processes created other neural processes; the feeling of effort was a decorative accompaniment. But this account faces a specific difficulty: structured, feedback-driven practice produces better skills than unstructured repetition. Ericsson's research (1993) established that the *quality* of engagement during practice—attentional focus, error monitoring, working memory recruitment—not just hours accumulated, predicts expertise development.
 
 A materialist can respond that "quality of engagement" refers to functional properties — attentional focus and error monitoring are computationally characterisable without invoking phenomenal consciousness as an additional causal variable. The Map acknowledges this response but notes the tight correlation between the *phenomenal* quality of engagement (how effortful practice *feels*) and the quality of acquired skill. If consciousness is epiphenomenal, this correlation is coincidental — the feeling of effort tracks the functional properties without contributing anything. The Map finds this implausible but acknowledges that the argument supports dualism rather than proving it; the correlation is *compatible with* consciousness being causal, not conclusive evidence.
 

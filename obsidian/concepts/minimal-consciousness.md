@@ -122,7 +122,7 @@ The concept matters for several reasons:
 
 ## Relation to Site Perspective
 
-**Dualism**: Minimal consciousness exemplifies why the Map rejects [[materialism|emergentist materialism]]. If consciousness emerged from complexity, we should be able to say what complexity level creates it. The impossibility of identifying such a threshold suggests consciousness is fundamental rather than derived.
+**Dualism**: Minimal consciousness exemplifies why the Map rejects [[concepts/materialism|emergentist materialism]]. If consciousness emerged from complexity, we should be able to say what complexity level creates it. The impossibility of identifying such a threshold suggests consciousness is fundamental rather than derived.
 
 **Minimal Quantum Interaction**: The interface between consciousness and matter (hypothetically via quantum indeterminacy) doesn't require complex neural architectures. Simple systems with neurons—even 302 like *C. elegans*—possess structures where quantum effects might, in principle, occur. Whether quantum coherence can persist long enough in warm biological tissue remains contested (the decoherence objection), but minimal consciousness may require only minimal interface conditions—whatever those turn out to be.
 

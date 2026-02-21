@@ -15,7 +15,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[symbol-grounding-problem]]"
   - "[[explanatory-gap]]"
 related_articles:

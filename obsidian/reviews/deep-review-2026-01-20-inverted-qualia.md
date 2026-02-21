@@ -100,7 +100,7 @@ last_curated: null
 - [[witness-consciousness]]
 - [[haecceity]]
 - [[decoherence]]
-- [[epiphenomenalism]]
+- [[concepts/epiphenomenalism]]
 - [[phenomenal-concepts-strategy]]
 
 ## Remaining Items

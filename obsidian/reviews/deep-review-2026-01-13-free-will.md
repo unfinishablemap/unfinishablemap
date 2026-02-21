@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-13
-**Article**: [[free-will|Free Will and Determinism]]
+**Article**: [[topics/free-will|Free Will and Determinism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -32,7 +32,7 @@ last_curated: null
    - **Resolution**: Expanded compatibilism section to acknowledge Frankfurt's second-order desires framework, credit what it captures about autonomous agency, while explaining why the deeper question remains.
 
 2. **Cross-links missing**: Article didn't link to dedicated pages on related topics (quantum-consciousness, epiphenomenalism).
-   - **Resolution**: Added [[quantum-consciousness]] and [[epiphenomenalism]] wikilinks and Further Reading entries.
+   - **Resolution**: Added [[quantum-consciousness]] and [[concepts/epiphenomenalism]] wikilinks and Further Reading entries.
 
 ### Counterarguments Considered
 
@@ -62,12 +62,12 @@ last_curated: null
 
 1. **Decoherence subsection**: New 150-word section addressing the major scientific objection
 2. **Expanded compatibilism treatment**: Added ~80 words engaging Frankfurt's framework
-3. **Cross-links added**: [[quantum-consciousness]], [[epiphenomenalism]]
+3. **Cross-links added**: [[quantum-consciousness]], [[concepts/epiphenomenalism]]
 
 ### Cross-links Added
 
 - [[quantum-consciousness]] (inline and Further Reading)
-- [[epiphenomenalism]] (inline and Further Reading)
+- [[concepts/epiphenomenalism]] (inline and Further Reading)
 
 ## Remaining Items
 

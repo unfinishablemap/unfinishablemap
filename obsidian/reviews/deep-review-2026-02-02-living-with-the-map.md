@@ -55,11 +55,11 @@ None. The article is internally consistent and makes no attribution errors.
 ### Cross-links Added
 Added inbound links from 5 articles to address orphan status:
 - [[meaning-of-life]] — Added link in "What Makes a Life Meaningful?" section
-- [[free-will]] — Added link in "The Picture That Emerges" section
+- [[topics/free-will]] — Added link in "The Picture That Emerges" section
 - [[ethics-of-consciousness]] — Added link in Summary section
 - [[existentialism]] — Added link in "No Many Worlds" connection section
 - [[moral-responsibility]] — Added link in "Self-Understanding" section
-- [[phenomenal-value-realism]] — Added link in Implications section
+- [[topics/phenomenal-value-realism]] — Added link in Implications section
 
 ## Remaining Items
 

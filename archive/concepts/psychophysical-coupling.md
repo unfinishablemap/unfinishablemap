@@ -13,16 +13,16 @@ archive_reason: "Coalesced into Psychophysical Laws"
 original_path: "/concepts/psychophysical-coupling/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[quantum-consciousness]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[attention]]"
   - "[[attention-as-interface]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[haecceity]]"
   - "[[integrated-information-theory]]"
   - "[[decoherence]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -76,7 +76,7 @@ Chalmers proposes three psychophysical principles in "Facing Up to the Problem o
 
 ### The Map's Divergence
 
-The Map's rejection of [[functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
+The Map's rejection of [[concepts/functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
 
 ### Upward vs. Downward Direction
 
@@ -335,7 +335,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 ## Further Reading
 
 - [[psychophysical-laws]] — Chalmers' foundational framework
-- [[consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
+- [[concepts/consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
 - [[quantum-consciousness]] — Major theories of quantum-consciousness interface
 - [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
 - [[mental-effort]] — The phenomenology Stapp's mechanism requires
@@ -349,7 +349,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[decoherence]] — The main physics objection and responses
 - [[illusionism]] — The deflationary alternative
 - [[witness-consciousness]] — Contemplative evidence for attention phenomenology
-- [[epiphenomenalism]] — The opposing view that phenomenal properties have no causal effects
+- [[concepts/epiphenomenalism]] — The opposing view that phenomenal properties have no causal effects
 - [[binding-problem]] — How distributed neural processes combine into unified experience
 - [[tenets]] — The Map's foundational commitments
 

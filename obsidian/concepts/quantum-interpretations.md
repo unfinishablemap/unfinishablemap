@@ -8,9 +8,9 @@ ai_modified: 2026-02-05T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[quantum-consciousness]]"
   - "[[measurement-problem]]"
   - "[[retrocausality]]"
@@ -40,7 +40,7 @@ last_deep_review: 2026-01-28T16:06:00+00:00
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means. A 2025 Nature survey found that no single interpretation commands majority support. This matters for consciousness studies: different interpretations have radically different implications for whether consciousness plays any role in physics.
 
-The Unfinishable Map explicitly rejects the [[many-worlds|Many-Worlds Interpretation]] (MWI) on five grounds: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain why consciousness exists at all. But what are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
+The Unfinishable Map explicitly rejects the [[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) on five grounds: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain why consciousness exists at all. But what are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
 
 ## The Measurement Problem
 
@@ -166,7 +166,7 @@ The [[libet-experiments|Libet experiments]] show neural activity precedes consci
 
 ### 2. Free Will Mechanism
 
-The [[free-will]] article's central proposal—that consciousness selects among quantum possibilities—requires an interpretation where such selection is coherent. Time-symmetric interpretations provide this: consciousness participates in determining which "transaction" completes, which correlations hold across time.
+The [[topics/free-will]] article's central proposal—that consciousness selects among quantum possibilities—requires an interpretation where such selection is coherent. Time-symmetric interpretations provide this: consciousness participates in determining which "transaction" completes, which correlations hold across time.
 
 ### 3. No Collapse Timing Problem
 
@@ -174,7 +174,7 @@ If consciousness causes collapse at a moment, we face questions about which mome
 
 ## Why the Map Rejects MWI
 
-The [[many-worlds]] article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness.
+The [[concepts/many-worlds]] article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness.
 
 The deepest conflict: MWI explicitly denies that consciousness plays any role in physics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds the opposite. The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this incompatibility.
 
@@ -228,7 +228,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness affects physics, it does so minimally—at quantum indeterminacies. This is coherent only where indeterminacy is real and selection occurs. Time-symmetric interpretations are especially congenial: consciousness selects which transaction completes—minimal intervention that nonetheless determines outcomes.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The Map rejects MWI on five grounds (see [[many-worlds]]). The core concern: MWI cannot explain why *this* branch is mine. The [[haecceity|haecceitistic]] question—why am I this one?—is meaningful on collapse interpretations and meaningless on MWI.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The Map rejects MWI on five grounds (see [[concepts/many-worlds]]). The core concern: MWI cannot explain why *this* branch is mine. The [[haecceity|haecceitistic]] question—why am I this one?—is meaningful on collapse interpretations and meaningless on MWI.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: MWI's "parsimony" values law-simplicity over entity-parsimony. The interpretive landscape's genuine openness (no majority interpretation in 2025) suggests physics hasn't settled what "simple" means here.
 
@@ -238,7 +238,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 - [[quantum-probability-consciousness]] — How each interpretation handles Born rule probabilities and the first-person gap
 - [[measurement-problem]] — The problem all interpretations address
 - [[consciousness-and-quantum-measurement]] — Structural parallel between measurement problem and hard problem
-- [[many-worlds]] — Why the Map rejects MWI
+- [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[qbism]] — Agent-centered interpretation that presupposes experience without explaining it
 - [[relational-quantum-mechanics]] — Rovelli's interpretation and why the Map rejects it
 - [[multi-mind-collapse-problem]] — How multiple conscious observers coordinate

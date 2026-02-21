@@ -15,7 +15,7 @@ concepts:
   - "[[measurement-problem]]"
   - "[[retrocausality]]"
   - "[[panpsychism]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
   - "[[mental-causation]]"
@@ -122,7 +122,7 @@ This preserves what matters:
 - **Early-universe collapse**: Objective reduction handled the cosmological timeline
 - **Consciousness causation**: Consciousness influences outcomes in brains
 - **Minimal interaction**: No cosmic consciousness required; modulation is local
-- **Real collapse**: One outcome becomes actual; [[many-worlds]] is rejected
+- **Real collapse**: One outcome becomes actual; [[concepts/many-worlds]] is rejected
 
 ### The Decoherence Challenge
 
@@ -148,7 +148,7 @@ Similarly, stellar nucleosynthesis—the quantum processes that created carbon, 
 
 ## The Many-Worlds Alternative
 
-The [[many-worlds|Many-Worlds Interpretation]] claims to dissolve the prebiotic problem: there was no collapse before minds because there is never any collapse. All outcomes occur in branching universes; observers find themselves in one branch among infinitely many.
+The [[concepts/many-worlds|Many-Worlds Interpretation]] claims to dissolve the prebiotic problem: there was no collapse before minds because there is never any collapse. All outcomes occur in branching universes; observers find themselves in one branch among infinitely many.
 
 This is not a solution but a different framework with its own difficulties:
 
@@ -190,7 +190,7 @@ The Map's commitment is to the *framework*—real collapse plus consciousness mo
 - [[retrocausality]] — Time-symmetric physics and backward causation
 - [[measurement-problem]] — Why collapse remains unexplained
 - [[panpsychism]] — The alternative where experience is fundamental
-- [[many-worlds]] — Arguments against the many-worlds interpretation
+- [[concepts/many-worlds]] — Arguments against the many-worlds interpretation
 
 ## References
 

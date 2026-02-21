@@ -66,7 +66,7 @@ None - the document was well-structured and aligned with site tenets.
 - [[illusionism]] — eliminativist challenge
 - [[attention-as-interface]] — Zeno mechanism elaboration
 - [[attention]] — connection to Stapp's framework
-- [[many-worlds]] — contrasting interpretation
+- [[concepts/many-worlds]] — contrasting interpretation
 
 ## Remaining Items
 

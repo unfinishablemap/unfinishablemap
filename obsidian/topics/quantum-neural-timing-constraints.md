@@ -8,7 +8,7 @@ ai_modified: 2026-02-08T18:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-consciousness]]"

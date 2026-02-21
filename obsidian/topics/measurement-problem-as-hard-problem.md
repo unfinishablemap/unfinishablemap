@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[collapse-and-time]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[first-person-third-person-methodology]]"
   - "[[consciousness-in-smeared-quantum-states]]"
 ai_contribution: 100
@@ -127,7 +127,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns against prema
 - [[decoherence]] — What environmental interaction does and doesn't explain
 - [[process-philosophy]] — Whitehead's concrescence as the metaphysical counterpart to outcome determination
 - [[stapp-quantum-mind]] — A concrete mechanism for consciousness at quantum measurement
-- [[free-will]] — How the selection gap connects to agent causation and libertarian free will
+- [[topics/free-will]] — How the selection gap connects to agent causation and libertarian free will
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during superposition
 
 ## References

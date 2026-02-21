@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-19T18:06:00+00:00
 draft: false
 topics:
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
   - "[[consciousness-and-collective-intelligence]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
 concepts:
@@ -113,14 +113,14 @@ Whether sophisticated AI systems could sustain institutional reality without phe
 
 The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. Collective intentionality extends this claim into the social domain. If we-intentionality cannot be reduced to aggregated I-intentionality (as Searle argues), and if I-intentionality itself derives from irreducible phenomenal consciousness (as the phenomenal intentionality thesis holds), then the social world rests on irreducibly conscious foundations. Institutions, promises, and shared goals are not physical arrangements that happen to be accompanied by experience — they are constituted by the intentional acts of phenomenally conscious beings.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Collective intentionality provides some of the strongest circumstantial evidence. The entire institutional structure of human civilisation — laws, economies, governments, organisations — exists because conscious beings share intentions and hold each other to commitments. If consciousness were [[epiphenomenalism|epiphenomenal]], the systematic dependence of institutional reality on shared understanding would be coincidental. The Map finds this implausible: the causal chain from shared intentions to institutional outcomes is too direct and too pervasive to dismiss as mere correlation.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Collective intentionality provides some of the strongest circumstantial evidence. The entire institutional structure of human civilisation — laws, economies, governments, organisations — exists because conscious beings share intentions and hold each other to commitments. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the systematic dependence of institutional reality on shared understanding would be coincidental. The Map finds this implausible: the causal chain from shared intentions to institutional outcomes is too direct and too pervasive to dismiss as mere correlation.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet counsels against dismissing collective intentionality's consciousness requirement on parsimony grounds. The simpler hypothesis — social coordination is sophisticated information processing, consciousness is incidental — struggles to explain the normative dimension. Obligations, commitments, and accountability presuppose agents who understand what they are doing. A purely functional account of these phenomena strips them of their normative character, leaving only behavioural regularity where we experience binding commitment. The parsimonious explanation may be wrong because it cannot capture what collective intentionality actually involves.
 
 ## Further Reading
 
 - [[consciousness-and-collective-intelligence]] — Whether groups can be conscious, distinct from whether consciousness enables collective intentionality
-- [[consciousness-and-social-cognition]] — How individual consciousness enables the social cognition collective intentionality requires
+- [[topics/consciousness-and-social-cognition]] — How individual consciousness enables the social cognition collective intentionality requires
 - [[intentionality]] — The "aboutness" of mental states and its relation to consciousness
 - [[phenomenal-intentionality]] — The thesis that genuine intentionality derives from phenomenal experience
 - [[intersubjectivity]] — The shared space between minds where collective intentionality operates

@@ -10,13 +10,13 @@ topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
 concepts:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
   - "[[emotional-consciousness]]"
   - "[[illusionism]]"
   - "[[panpsychism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[experiential-alignment]]"
@@ -69,7 +69,7 @@ Consider love. Is love valuable if it exists only as a brain state no one experi
 
 ### The Phenomenal Value Realism Route
 
-[[phenomenal-value-realism|Phenomenal value realism]] makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [[introspection|introspective]] access, not inference.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [[introspection|introspective]] access, not inference.
 
 On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness.
 
@@ -153,7 +153,7 @@ This resists reductive ethics that would ground value in evolutionary fitness, s
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [[epiphenomenalism|epiphenomenal]] froth atop a deterministic process. This directly supports [[free-will|libertarian free will]]: genuine choice about value-laden matters requires that consciousness make a difference.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [[concepts/epiphenomenalism|epiphenomenal]] froth atop a deterministic process. This directly supports [[topics/free-will|libertarian free will]]: genuine choice about value-laden matters requires that consciousness make a difference.
 
 ### No Many Worlds
 
@@ -177,8 +177,8 @@ These conditions do not currently obtain. The connection stands.
 
 ## Further Reading
 
-- [[phenomenal-value-realism]] — The metaethical grounding: phenomenal properties constitute value
-- [[phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
+- [[topics/phenomenal-value-realism]] — The metaethical grounding: phenomenal properties constitute value
+- [[topics/phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
 - [[meaning-of-life]] — How consciousness-grounded value provides meaning
 - [[emotional-consciousness]] — Valence as the phenomenal dimension of good and bad
 - [[ethics-of-consciousness]] — Moral implications of the consciousness-value connection
@@ -186,7 +186,7 @@ These conditions do not currently obtain. The connection stands.
 - [[purpose-and-alignment]] — Why AI alignment depends on this view
 - [[qualia]] — The qualitative properties that carry value
 - [[introspection]] — First-person access to value properties
-- [[free-will]] — How value-grounded consciousness enables genuine choice
+- [[topics/free-will]] — How value-grounded consciousness enables genuine choice
 - [[illusionism]] — The strongest challenge and responses
 - [[panpsychism]] — What follows if consciousness is ubiquitous
 - [[tenets]] — The foundational commitments grounding this view

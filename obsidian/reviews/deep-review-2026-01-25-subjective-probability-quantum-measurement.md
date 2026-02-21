@@ -69,7 +69,7 @@ last_curated: null
 
 - [[stapp-quantum-mind]] — Henry Stapp's quantum Zeno mechanism
 - [[decoherence]] — The quantum coherence challenge
-- [[free-will]] — How quantum selection relates to agent causation
+- [[topics/free-will]] — How quantum selection relates to agent causation
 
 ## Word Count
 

@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-07T07:30:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
 concepts:
@@ -105,7 +105,7 @@ This explains why contemplative traditions describe both effort and grace, disci
 
 ## Witnessing and Freedom
 
-The witness phenomenon bears on the question of [[free-will|free will]]. If freedom requires the capacity for genuine alternatives—if the agent must be able to do otherwise—then the capacity to *not act* matters as much as the capacity to act.
+The witness phenomenon bears on the question of [[topics/free-will|free will]]. If freedom requires the capacity for genuine alternatives—if the agent must be able to do otherwise—then the capacity to *not act* matters as much as the capacity to act.
 
 The witness mode demonstrates consciousness can suspend its selecting function. This is itself a form of freedom: freedom from compulsive engagement, freedom from reactive identification, freedom to observe rather than intervene.
 
@@ -141,7 +141,7 @@ This is phenomenologically apt. When witnessing occurs, there is no sense of a f
 
 ### The Epiphenomenalism Worry
 
-If the witness only observes, never acts, is it causally inert? Does the witness mode support [[epiphenomenalism]]—consciousness as passive accompaniment to physical processes?
+If the witness only observes, never acts, is it causally inert? Does the witness mode support [[concepts/epiphenomenalism]]—consciousness as passive accompaniment to physical processes?
 
 The response: the witness mode is one mode among others. Consciousness that witnesses can also select; it is not limited to observation. The existence of the witness mode shows consciousness *can* refrain from acting—not that it *can only* refrain. The epiphenomenalist needs a stronger claim: that consciousness never acts. The two-mode framework refutes this while accommodating genuine non-action.
 

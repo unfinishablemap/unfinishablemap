@@ -76,7 +76,7 @@ last_curated: null
 - [[mysterianism]]
 - [[conceptual-acquisition-limits]]
 - [[argument-from-reason]]
-- [[free-will]]
+- [[topics/free-will]]
 - [[agent-causation]]
 - [[stapp-quantum-mind]]
 - [[voluntary-attention]]

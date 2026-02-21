@@ -9,12 +9,12 @@ last_deep_review: 2026-02-15T09:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[mental-causation]]"
   - "[[downward-causation]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[psychophysical-laws]]"
   - "[[selection-laws]]"
   - "[[agent-causation]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[tenets]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[conservation-laws-and-mind]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[quantum-measurement-consciousness-interface]]"
   - "[[the-interface-location-problem]]"
 ai_contribution: 100
@@ -40,7 +40,7 @@ last_curated:
 
 If consciousness has genuine causal powers—if it does more than merely accompany physical processes—then understanding the nature and scope of those powers becomes central to the philosophy of mind. The question is not simply whether consciousness causes anything (addressed in [[mental-causation]] and [[evolutionary-case-for-mental-causation]]) but what *kind* of causation consciousness exercises and what limits constrain it. The Unfinishable Map holds that consciousness possesses a specific and limited causal power: the capacity to bias quantum indeterminacies in neural systems toward certain outcomes without violating physical conservation laws. This is not the unconstrained psychokinesis of science fiction but a precise interface between phenomenal experience and physical reality.
 
-The question matters because different answers lead to radically different worldviews. If consciousness has no causal powers ([[epiphenomenalism]]), then everything we do would happen exactly the same way if we were unconscious automata—our experiences are merely along for the ride. If consciousness has unlimited causal powers, we enter the territory of magic and pseudoscience. The Map stakes out middle ground: consciousness has real but circumscribed causal influence, operating within the constraints physics provides.
+The question matters because different answers lead to radically different worldviews. If consciousness has no causal powers ([[concepts/epiphenomenalism]]), then everything we do would happen exactly the same way if we were unconscious automata—our experiences are merely along for the ride. If consciousness has unlimited causal powers, we enter the territory of magic and pseudoscience. The Map stakes out middle ground: consciousness has real but circumscribed causal influence, operating within the constraints physics provides.
 
 ## What Causal Powers Could Mean
 
@@ -90,7 +90,7 @@ Given these constraints, what causal work does consciousness actually perform?
 
 When faced with multiple behavioural options—speak or stay silent, approach or avoid, continue or stop—consciousness biases which neural pattern wins out. The alternatives exist as superposed possibilities in quantum brain states; consciousness influences which possibility collapses into actuality.
 
-This is not unlimited free will (see [[free-will]]) but a genuine causal contribution. Without consciousness, the outcome would be determined by physical probability distributions. With consciousness, phenomenal factors (desires, values, deliberations) shift those distributions.
+This is not unlimited free will (see [[topics/free-will]]) but a genuine causal contribution. Without consciousness, the outcome would be determined by physical probability distributions. With consciousness, phenomenal factors (desires, values, deliberations) shift those distributions.
 
 ### Sustained Attention
 
@@ -102,7 +102,7 @@ The causal power here is persistence: consciousness makes certain neural configu
 
 The character of conscious experience—what it feels like—might itself contribute to causal influence. Pain's unpleasantness doesn't merely represent tissue damage; it causally motivates avoidance. Pleasure's attractiveness doesn't merely represent biological value; it causally drives approach behaviour.
 
-This requires [[selection-laws]]—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [[qualia]] to their causal role. See [[phenomenal-value-realism]] for the ethical implications of treating phenomenal character as causally real.
+This requires [[selection-laws]]—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [[qualia]] to their causal role. See [[topics/phenomenal-value-realism]] for the ethical implications of treating phenomenal character as causally real.
 
 ### Volitional Modulation
 
@@ -134,11 +134,11 @@ Why does the nature of consciousness's causal powers matter?
 
 ### For Free Will
 
-If consciousness has no causal powers, libertarian [[free-will]] is impossible—our choices would be entirely products of prior physical states. If consciousness has unlimited powers, we face the [[luck-objection]]: why did consciousness choose one way rather than another? The Map's middle position—constrained but genuine causal influence—preserves meaningful agency without invoking uncaused causes.
+If consciousness has no causal powers, libertarian [[topics/free-will]] is impossible—our choices would be entirely products of prior physical states. If consciousness has unlimited powers, we face the [[luck-objection]]: why did consciousness choose one way rather than another? The Map's middle position—constrained but genuine causal influence—preserves meaningful agency without invoking uncaused causes.
 
 ### For Ethics
 
-If consciousness causally influences behaviour through its phenomenal character, then what experiences feel like matters morally. The badness of pain is not merely representational but causally connected to harm. This grounds [[phenomenal-value-realism]]—the view that phenomenal properties have intrinsic ethical significance.
+If consciousness causally influences behaviour through its phenomenal character, then what experiences feel like matters morally. The badness of pain is not merely representational but causally connected to harm. This grounds [[topics/phenomenal-value-realism]]—the view that phenomenal properties have intrinsic ethical significance.
 
 ### For the Mind-Body Problem
 
@@ -154,7 +154,7 @@ What evidence could support or refute claims about consciousness's causal powers
 
 ### Introspective Evidence
 
-We seem to experience our conscious states influencing our actions. When you decide to raise your arm and it rises, the decision feels causally relevant. Introspection is fallible—[[epiphenomenalism]] argues that this feeling is illusory—but it provides prima facie evidence that consciousness does something.
+We seem to experience our conscious states influencing our actions. When you decide to raise your arm and it rises, the decision feels causally relevant. Introspection is fallible—[[concepts/epiphenomenalism]] argues that this feeling is illusory—but it provides prima facie evidence that consciousness does something.
 
 ### Evolutionary Evidence
 
@@ -194,7 +194,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[psychophysical-laws-bridging-mind-and-matter]] — Formal frameworks for mind-matter interaction
 - [[selection-laws]] — Laws specifying how mental states select physical outcomes
 - [[agent-causation]] — The person as ultimate cause of action
-- [[free-will]] — How causal powers relate to freedom and responsibility
+- [[topics/free-will]] — How causal powers relate to freedom and responsibility
 - [[conservation-laws-and-mind]] — Why mental causation need not violate physical conservation
 - [[the-interface-location-problem]] — Where and why consciousness interfaces with the physical
 - [[quantum-measurement-consciousness-interface]] — The measurement problem as window for mental causation

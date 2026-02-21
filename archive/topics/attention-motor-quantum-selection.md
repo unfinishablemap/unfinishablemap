@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-01T21:54:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-motor-quantum-interface]]"
@@ -234,7 +234,7 @@ This honest gap distinguishes the Map's position from eliminativism (which denie
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism
 - [[structure-of-attention]] — The three-mode architecture of attention
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation
-- [[free-will]] — The broader topic of free will and determinism
+- [[topics/free-will]] — The broader topic of free will and determinism
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments
 
 ## References

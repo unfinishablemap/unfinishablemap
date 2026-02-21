@@ -8,13 +8,13 @@ ai_modified: 2026-02-02T10:57:00+00:00
 last_deep_review: 2026-01-29T18:30:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[mental-effort]]"
   - "[[stapp-quantum-mind]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[bidirectional-causation]]"
   - "[[attention-as-interface]]"
   - "[[voluntary-attention]]"
@@ -29,7 +29,7 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-Neuroplasticity—the brain's capacity to reorganise its structure and function in response to experience—demonstrates that mental states can reshape neural architecture. This empirical finding creates problems for [[epiphenomenalism]], the view that consciousness merely accompanies physical processes without influencing them. If directed mental attention produces lasting brain changes, information flows from mind to matter.
+Neuroplasticity—the brain's capacity to reorganise its structure and function in response to experience—demonstrates that mental states can reshape neural architecture. This empirical finding creates problems for [[concepts/epiphenomenalism]], the view that consciousness merely accompanies physical processes without influencing them. If directed mental attention produces lasting brain changes, information flows from mind to matter.
 
 The Unfinishable Map treats neuroplasticity as key evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Jeffrey Schwartz's research on obsessive-compulsive disorder provides the clearest case: patients who learned to redirect attention away from obsessive thoughts showed measurable changes in brain metabolism—they *thought* their way to altered neural structure.
 
@@ -154,7 +154,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 - [[interactionist-dualism]] — The philosophical framework for consciousness-matter causation
 - [[attention-as-interface]] — How attention mediates between consciousness and neural systems
 - [[contemplative-evidence-for-consciousness-theories]] — Meditation research as evidence for consciousness theories
-- [[epiphenomenalism]] — The view that consciousness doesn't cause anything
+- [[concepts/epiphenomenalism]] — The view that consciousness doesn't cause anything
 
 ## References
 

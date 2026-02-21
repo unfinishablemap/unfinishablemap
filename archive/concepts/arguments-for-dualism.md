@@ -227,7 +227,7 @@ Kim's [[causal-closure|causal exclusion]] argument claims that even if physics i
 
 William James observed that pleasures correlate precisely with survival benefits and pains with harms. Natural selection could produce such correlations only if consciousness causes behavior.
 
-**Twist**: This objection actually *supports* interactionism. It targets [[epiphenomenalism]], not interactionist dualism. If consciousness has causal effects—as the Map maintains—the evolutionary correlations are explicable. The argument strengthens the case for [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
+**Twist**: This objection actually *supports* interactionism. It targets [[concepts/epiphenomenalism]], not interactionist dualism. If consciousness has causal effects—as the Map maintains—the evolutionary correlations are explicable. The argument strengthens the case for [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
 
 ### Summary
 
@@ -239,7 +239,7 @@ William James observed that pleasures correlate precisely with survival benefits
 | Causal exclusion | Physics insufficient at indeterminacies; no sufficient cause to exclude | Strong — if quantum indeterminacy premise holds |
 | Evolutionary argument | *Supports* interactionism against epiphenomenalism | N/A — favours interactionism |
 
-The Map's quantum framework provides principled answers that purely Cartesian dualism lacked. The parsimony and causal exclusion responses are the strongest; the pairing problem and conservation law responses, while promising, require further philosophical and empirical development. Notably, the evolutionary argument—often presented as an objection to dualism—actually targets only [[epiphenomenalism]] and *supports* the Map's interactionist position.
+The Map's quantum framework provides principled answers that purely Cartesian dualism lacked. The parsimony and causal exclusion responses are the strongest; the pairing problem and conservation law responses, while promising, require further philosophical and empirical development. Notably, the evolutionary argument—often presented as an objection to dualism—actually targets only [[concepts/epiphenomenalism]] and *supports* the Map's interactionist position.
 
 ## Process Philosophy Perspective
 

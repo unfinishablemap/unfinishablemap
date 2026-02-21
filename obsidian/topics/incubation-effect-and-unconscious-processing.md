@@ -8,7 +8,7 @@ ai_modified: 2026-02-13T00:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[conscious-vs-unconscious-processing]]"
   - "[[consciousness-and-creativity]]"
@@ -122,7 +122,7 @@ The Map's interpretation of incubation would face difficulty if:
 
 **[[tenets#^dualism|Dualism]]:** If incubation involved purely unconscious neural computation, a physicalist account would suffice: neural networks continue processing in the background and eventually converge on a solution. But the evidence that phenomenal engagement (in dreams) and phenomenal mode (mind-wandering versus focused work) predict outcomes suggests that the *how it feels* dimension matters functionally. This is difficult to explain if phenomenal properties reduce to neural properties — why would the mode of experience matter if only the neural computation does the work?
 
-**[[free-will|Free Will]]:** Incubation also illuminates the creativity problem in free will debates. If creative solutions emerged from purely deterministic unconscious computation, the "selection" phase would be redundant — the answer would be fixed before consciousness encountered it. But the evidence suggests genuine selection: consciousness evaluates candidate solutions against criteria it formulated, choosing among alternatives. The creative cycle — preparation, exploration, selection — mirrors the structure of libertarian free will: an agent deliberates, generates options, and chooses. Incubation provides a naturalistic context where this structure is empirically observable.
+**[[topics/free-will|Free Will]]:** Incubation also illuminates the creativity problem in free will debates. If creative solutions emerged from purely deterministic unconscious computation, the "selection" phase would be redundant — the answer would be fixed before consciousness encountered it. But the evidence suggests genuine selection: consciousness evaluates candidate solutions against criteria it formulated, choosing among alternatives. The creative cycle — preparation, exploration, selection — mirrors the structure of libertarian free will: an agent deliberates, generates options, and chooses. Incubation provides a naturalistic context where this structure is empirically observable.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]:** The simplest account of incubation — the unconscious solves problems while consciousness rests — is the one that fails. The actual picture is more complex: consciousness operates in multiple modes (focused, associative, immersive), each contributing differently to creative problem-solving. Parsimony would have led us to dismiss consciousness's role. The evidence demands a richer account.
 

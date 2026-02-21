@@ -8,15 +8,15 @@ ai_modified: 2026-01-21T01:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[quantum-consciousness]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[mental-causation]]"
   - "[[attention]]"
   - "[[interactionist-dualism]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[haecceity]]"
   - "[[integrated-information-theory]]"
   - "[[decoherence]]"
@@ -73,7 +73,7 @@ Chalmers proposes three psychophysical principles in "Facing Up to the Problem o
 
 ### The Map's Divergence from Organizational Invariance
 
-The Map's rejection of [[functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
+The Map's rejection of [[concepts/functionalism]] creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [[haecceity|haecceity]], not merely on abstract patterns.
 
 ### Upward vs. Downward Direction
 
@@ -316,7 +316,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 ## Further Reading
 
 - [[psychophysical-laws]] — Chalmers' foundational framework for psychophysical laws (supervenience vs causal laws, naturalistic dualism)
-- [[consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
+- [[concepts/consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
 - [[quantum-consciousness]] — Major theories of quantum-consciousness interface
 - [[mental-effort]] — The phenomenology Stapp's mechanism requires
 - [[attention]] — The attention-consciousness relationship

@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-22
-**Article**: [[many-worlds|Against Many-Worlds]]
+**Article**: [[concepts/many-worlds|Against Many-Worlds]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

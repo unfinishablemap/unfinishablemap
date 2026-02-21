@@ -134,9 +134,9 @@ Phenomenal binding illuminates why the Map's [[tenets]] take the positions they 
 
 **Minimal Quantum Interaction**: If phenomenal unity requires quantum entanglement, consciousness operates at the quantum level. Quantum collapse provides a mechanism for BP2—binding disparate streams through non-local correlation rather than classical composition. The thalamus may serve as the quantum selection interface.
 
-**No Many Worlds**: Quantum unity only generates phenomenal unity if collapse is real. In many-worlds, all binding possibilities occur in separate branches. Within each branch, an observer has a definite experience—but the Map's [[indexical-identity|indexical argument]] holds that *this* definite experience, the fact of being in *this* branch, requires genuine collapse rather than branch-relative definiteness. Multimodal binding requires actual outcomes, not merely branch-indexed ones.
+**No Many Worlds**: Quantum unity only generates phenomenal unity if collapse is real. In many-worlds, all binding possibilities occur in separate branches. Within each branch, an observer has a definite experience—but the Map's [[indexical-identity-quantum-measurement|indexical argument]] holds that *this* definite experience, the fact of being in *this* branch, requires genuine collapse rather than branch-relative definiteness. Multimodal binding requires actual outcomes, not merely branch-indexed ones.
 
-**Bidirectional Interaction**: Unified consciousness selects, not merely observes. The unity of experience enables agency: a single subject choosing among quantum alternatives. Fragmentary consciousness could not exercise coherent causal power (see [[agent-causation]], [[free-will]]).
+**Bidirectional Interaction**: Unified consciousness selects, not merely observes. The unity of experience enables agency: a single subject choosing among quantum alternatives. Fragmentary consciousness could not exercise coherent causal power (see [[agent-causation]], [[topics/free-will]]).
 
 **Occam's Razor Has Limits**: Computational binding theories seem parsimonious because they ignore BP2. Once phenomenal unity is recognized as an additional explanatory target, the "simpler" materialist explanation is revealed as incomplete.
 

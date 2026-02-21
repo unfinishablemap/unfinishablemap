@@ -11,10 +11,10 @@ topics:
 concepts:
   - "[[argument-from-reason]]"
   - "[[stapp-quantum-mind]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[interactionist-dualism]]"
   - "[[substance-property-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[qualia]]"
   - "[[the-case-for-dualism]]"
   - "[[explanatory-gap]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[knowledge-argument]]"
   - "[[intuitive-dualism]]"
   - "[[buddhism-and-dualism]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -103,7 +103,7 @@ A crucial question for dualism: if mind and matter are distinct, how do they rel
 
 **[[Interactionist-dualism|Interactionism]]**: Mind and body causally interact. Consciousness influences physical outcomes, and physical events influence consciousness. This is the Map's position, specified in the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
-**[[Epiphenomenalism]]**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. The Map rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
+**[[concepts/epiphenomenalism]]**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. The Map rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
 
 **Parallelism**: Mind and body don't interact at all—they run in parallel without causal connection. This faces similar problems to epiphenomenalism and adds unexplained coordination.
 
@@ -139,7 +139,7 @@ But this strategy is self-undermining in a way eliminative materialism about oth
 
 Dualism is the Map's first foundational commitment—the [[tenets#^dualism|Dualism tenet]] states that consciousness is not reducible to physical processes.
 
-This commitment is not arbitrary but grounded in the convergence of arguments: the explanatory gap, conceivability arguments, the knowledge argument, and the intrinsic character of qualia all point the same direction. [[Materialism]] in all its forms—reductive physicalism, functionalism, eliminativism—fails to bridge the gap between physical description and subjective experience.
+This commitment is not arbitrary but grounded in the convergence of arguments: the explanatory gap, conceivability arguments, the knowledge argument, and the intrinsic character of qualia all point the same direction. [[concepts/materialism]] in all its forms—reductive physicalism, functionalism, eliminativism—fails to bridge the gap between physical description and subjective experience.
 
 Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, the Map holds [[interactionist-dualism]]—consciousness is distinct *and* causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined. This combination preserves what matters for human agency and moral responsibility—our choices genuinely influence outcomes, not just in appearance but in reality.
 
@@ -156,13 +156,13 @@ What would count as evidence against dualism? If future neuroscience provided a 
 - [[the-case-for-dualism]] — Comprehensive treatment of the positive case
 - [[objections-to-interactionism]] — Major objections and detailed responses
 - [[intuitive-dualism]] — Cognitive science debate on whether dualism is innate or learned
-- [[materialism]] — The view dualism rejects and why
-- [[epiphenomenalism]] — Dualism without interaction (rejected by the Map)
+- [[concepts/materialism]] — The view dualism rejects and why
+- [[concepts/epiphenomenalism]] — Dualism without interaction (rejected by the Map)
 - [[explanatory-gap]] — The structural problem physical description faces
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[knowledge-argument]] — Mary's Room explained
 - [[qualia]] — The phenomenal properties dualism holds are irreducible
-- [[free-will]] — Why interactionist dualism matters for genuine agency
+- [[topics/free-will]] — Why interactionist dualism matters for genuine agency
 - [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
 - [[tenets]] — the Map's five foundational commitments
 

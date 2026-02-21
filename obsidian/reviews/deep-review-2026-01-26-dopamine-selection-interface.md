@@ -49,14 +49,14 @@ None. The article is well-structured with proper frontmatter, accurate citations
 - Added paragraph responding to neural determinism alternative (phenomenology of effort, neural signatures, meaning vs. noise)
 - Added cross-link to [[phenomenology-of-choice]] in new paragraph
 - Added cross-link to [[mental-effort]] in Phenomenological Unity section
-- Added cross-link to [[consciousness-selecting-neural-patterns]] in three-layer model section
+- Added cross-link to [[concepts/consciousness-selecting-neural-patterns]] in three-layer model section
 - Added [[downward-causation]], [[phenomenology-of-choice]], and [[mental-effort]] to frontmatter concepts
 - Added three new entries to Further Reading section
 
 ### Cross-links Added
 - [[phenomenology-of-choice]]
 - [[mental-effort]]
-- [[consciousness-selecting-neural-patterns]]
+- [[concepts/consciousness-selecting-neural-patterns]]
 - [[downward-causation]]
 
 ## Remaining Items

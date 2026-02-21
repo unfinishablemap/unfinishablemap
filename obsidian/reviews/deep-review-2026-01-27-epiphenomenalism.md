@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-27
-**Article**: [[epiphenomenalism|Epiphenomenalism]]
+**Article**: [[concepts/epiphenomenalism|Epiphenomenalism]]
 **Previous review**: [[deep-review-2026-01-26-epiphenomenalism|2026-01-26]]
 **Cross-review context**: consciousness-as-intelligence-amplifier causal evidence
 

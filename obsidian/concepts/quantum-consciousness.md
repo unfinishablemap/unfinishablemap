@@ -8,7 +8,7 @@ ai_modified: 2026-02-05T12:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-neural-timing-constraints]]"
   - "[[attention-motor-quantum-interface]]"
@@ -28,7 +28,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[decoherence]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[prebiotic-collapse]]"
   - "[[multi-mind-collapse-problem]]"
   - "[[illusionism]]"
@@ -51,7 +51,7 @@ The quantum opening addresses [[mental-causation|mental causation]]. Kim's exclu
 
 The [[measurement-problem|measurement problem]] asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [[causal-closure|causal closure]] fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [[consciousness-and-quantum-measurement|structural parallel between the measurement problem and the hard problem]]—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface.
 
-The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative where all outcomes occur in branching universes. See [[many-worlds]] for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
+The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative where all outcomes occur in branching universes. See [[concepts/many-worlds]] for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
 
 ## Orchestrated Objective Reduction (Orch OR)
 
@@ -218,7 +218,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [[mysterianism]] — Cognitive closure on the consciousness-physics interface
 
 **Background:**
-- [[many-worlds]] — Why the Map rejects MWI
+- [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[mental-causation]] — The exclusion problem
 - [[measurement-problem]] — Why collapse creates the quantum opening
 - [[quantum-biology]] — Evolution exploiting quantum effects

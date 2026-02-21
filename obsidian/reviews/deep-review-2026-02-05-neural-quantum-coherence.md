@@ -63,7 +63,7 @@ All attributions verified:
 - Added epiphenomenalism to concepts frontmatter
 
 ### Cross-links Added
-- [[epiphenomenalism]] (new concept link in text and frontmatter)
+- [[concepts/epiphenomenalism]] (new concept link in text and frontmatter)
 
 ## Word Count
 - Before: 1932 words

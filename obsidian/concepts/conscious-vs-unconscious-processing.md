@@ -8,7 +8,7 @@ ai_modified: 2026-02-02T08:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-neural-timing-constraints]]"
   - "[[argument-from-reason]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[consciousness-and-intelligence]]"
   - "[[neural-correlates-conscious-unconscious-processing-2026-01-23]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -102,7 +102,7 @@ Evidence:
 
 ### 3. Spontaneous Intentional Action
 
-The spontaneous generation of goal-directed behavior—acting without external triggers—requires consciousness. Unconscious processing can respond to stimuli but cannot initiate action from internal states alone. This has implications for [[free-will|free will]]: if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
+The spontaneous generation of goal-directed behavior—acting without external triggers—requires consciousness. Unconscious processing can respond to stimuli but cannot initiate action from internal states alone. This has implications for [[topics/free-will|free will]]: if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
 
 The mechanism: voluntary action requires maintaining future goals while selecting appropriate motor programs. This temporal bridging between current state and desired outcome requires the sustained, flexible representations that only conscious access provides.
 
@@ -203,7 +203,7 @@ The lesson: identifying reliable neural signatures of consciousness requires car
 
 ## Implications for Dualism
 
-These findings are neutral on whether consciousness is physical or non-physical. But they strongly challenge [[epiphenomenalism]]—the view that consciousness has no causal effects.
+These findings are neutral on whether consciousness is physical or non-physical. But they strongly challenge [[concepts/epiphenomenalism]]—the view that consciousness has no causal effects.
 
 ### What the Evidence Shows
 
@@ -316,7 +316,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [[voluntary-attention]] — How consciousness directs attention
 - [[global-workspace-theory]] — The theoretical framework for consciousness as broadcast
 - [[stapp-quantum-mind]] — Quantum mechanism for consciousness-attention interface
-- [[epiphenomenalism]] — The view that consciousness is causally inert and why it fails
+- [[concepts/epiphenomenalism]] — The view that consciousness is causally inert and why it fails
 - [[interactionist-dualism]] — The Map's position on mind-body causation
 
 ## References

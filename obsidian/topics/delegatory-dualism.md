@@ -8,15 +8,15 @@ ai_modified: 2026-01-29T10:21:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[psychophysical-laws]]"
   - "[[illusionism]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[observational-closure]]"
 related_articles:
   - "[[tenets]]"
@@ -40,7 +40,7 @@ This article first presents Saad's theory on its own terms, then explores how th
 
 ## The Problem Saad Addresses
 
-[[interactionist-dualism|Interactionist dualism]] faces a coordination challenge. If every physical event has a sufficient physical cause ([[causal-closure|causal closure]]), and conscious experiences also cause physical effects ([[mental-causation]]), then physical effects seem overdetermined—they have two sufficient causes where one would do. Kim's exclusion argument concludes that mental properties must be either physical (reduction) or inert ([[epiphenomenalism]]).
+[[interactionist-dualism|Interactionist dualism]] faces a coordination challenge. If every physical event has a sufficient physical cause ([[causal-closure|causal closure]]), and conscious experiences also cause physical effects ([[mental-causation]]), then physical effects seem overdetermined—they have two sufficient causes where one would do. Kim's exclusion argument concludes that mental properties must be either physical (reduction) or inert ([[concepts/epiphenomenalism]]).
 
 Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
@@ -237,9 +237,9 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - [[interactionist-dualism]] — The Map's core position on mind-body interaction
 - [[mental-causation]] — How consciousness causes physical effects
 - [[causal-closure]] — The closure objection and responses
-- [[epiphenomenalism]] — The view delegatory dualism rejects
+- [[concepts/epiphenomenalism]] — The view delegatory dualism rejects
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
-- [[many-worlds]] — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
+- [[concepts/many-worlds]] — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws
 - [[conservation-laws-and-mind]] — Why conservation doesn't block mental causation
 - [[bradford-saad-delegatory-dualism-2026-01-28]] — Research notes on Saad's work

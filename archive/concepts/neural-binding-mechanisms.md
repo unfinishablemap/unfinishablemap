@@ -20,7 +20,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[decoherence]]"
   - "[[explanatory-gap]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[measurement-problem]]"
   - "[[phenomenal-consciousness]]"
@@ -153,7 +153,7 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 - [[decoherence]] — Why quantum effects might persist in biological systems
 - [[global-workspace-theory]] — Classical alternative (information broadcasting)
 - [[integrated-information-theory]] — Classical alternative (Φ as consciousness)
-- [[free-will]] — How quantum binding enables genuine choice
+- [[topics/free-will]] — How quantum binding enables genuine choice
 - [[agent-causation]] — Consciousness as causal participant
 
 ## References

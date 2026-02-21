@@ -67,7 +67,7 @@ Bergson captured this in his account of *durée*: lived time is an interpenetrat
 
 ## Protention, Choice, and Agency
 
-Protention connects to the [[phenomenology-of-choice|phenomenology of choice]]. Deliberation requires more than retaining options considered — it requires protentional inhabitation of possible futures. When deliberating, you lean into each possibility, feeling its character from the anticipatory stance. The [[free-will|phenomenology of deciding]] involves moving between different protentional orientations.
+Protention connects to the [[phenomenology-of-choice|phenomenology of choice]]. Deliberation requires more than retaining options considered — it requires protentional inhabitation of possible futures. When deliberating, you lean into each possibility, feeling its character from the anticipatory stance. The [[topics/free-will|phenomenology of deciding]] involves moving between different protentional orientations.
 
 Husserl described protention as passive synthesis — something that happens to consciousness at the most basic level of temporal constitution. Deliberation involves higher-order active acts (imagination, evaluation, volition) that operate *upon* the passive protentional flow, redirecting attention across possible continuations. Whether this active redirection modifies protention itself or merely exploits it remains debated in Husserl scholarship, but either way, the result is that consciousness orients toward one possible future over another. This active orientation connects protention to [[agent-causation|agent-causal]] accounts of free will and to the Map's claim that consciousness selects among quantum possibilities in neural systems.
 

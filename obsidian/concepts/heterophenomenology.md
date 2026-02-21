@@ -89,7 +89,7 @@ The position functions like metaphysical naturalism disguised as methodological 
 
 ## The Self-Stultification Problem
 
-Heterophenomenology faces a version of the [[epiphenomenalism|epiphenomenalist self-stultification]] problem. The issue is not merely that the method might undermine itself—it's that heterophenomenology cannot explain why we should trust it as a method without relying on the very phenomenological capacities it brackets.
+Heterophenomenology faces a version of the [[concepts/epiphenomenalism|epiphenomenalist self-stultification]] problem. The issue is not merely that the method might undermine itself—it's that heterophenomenology cannot explain why we should trust it as a method without relying on the very phenomenological capacities it brackets.
 
 Consider: Dennett develops heterophenomenology through philosophical reflection. This reflection involves his experiencing arguments as compelling, noticing apparent contradictions, and finding some positions more intuitively plausible than others. These are phenomenological facts—there is something it's like to find an argument convincing. If heterophenomenology brackets phenomenology's reality, it brackets the epistemic processes by which Dennett arrived at heterophenomenology.
 

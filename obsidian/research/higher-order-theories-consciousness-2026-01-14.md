@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[qualia]]"
   - "[[self-reference-paradox]]"
 related_articles:
@@ -168,7 +168,7 @@ HOT theory has direct implications for AI:
 
 HOT's AI implications reveal the same problem as with GWT:
 - HOT is functionalist—if consciousness IS having higher-order representations, then AI with such representations would be conscious
-- Site's [[functionalism|rejection of functionalism]] blocks this inference
+- Site's [[concepts/functionalism|rejection of functionalism]] blocks this inference
 - The absent qualia objection applies: a system could have higher-order representations without phenomenal consciousness
 - [[ai-consciousness|Site's AI consciousness skepticism]] holds that computational metacognition is not sufficient for genuine consciousness
 
@@ -197,7 +197,7 @@ Interestingly, HOT connects to the Map's [[self-reference-paradox]] concept:
 
 **Potential Conflict**: HOT is typically read as bottom-up: first-order states generate higher-order representations through cognitive mechanisms. Site's framework holds consciousness *selects* among physical states. These could be compatible if consciousness biases which HOTs occur, but HOT proponents don't typically frame it this way.
 
-**The self-stultification argument applies**: If HOT is true and consciousness is "just" having higher-order thoughts, then the thoughts claiming HOT is true were caused by the same cognitive mechanisms that produce any thought—there's no privileged access to truth. Site's epiphenomenalism critique (from [[epiphenomenalism]]) applies similarly to HOT.
+**The self-stultification argument applies**: If HOT is true and consciousness is "just" having higher-order thoughts, then the thoughts claiming HOT is true were caused by the same cognitive mechanisms that produce any thought—there's no privileged access to truth. Site's epiphenomenalism critique (from [[concepts/epiphenomenalism]]) applies similarly to HOT.
 
 ### No Many Worlds Tenet
 

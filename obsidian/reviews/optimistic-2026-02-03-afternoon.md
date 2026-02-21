@@ -35,7 +35,7 @@ The recent empirical integration is impressive: Kerskens-Pérez MRI entanglement
 
 ### The Phenomenologist (Nagel)
 
-[[free-will]] centers first-person experience appropriately: "The core evidence is phenomenological—the felt difference between choosing and observing, the effort of deliberation, the distinctive neural signatures of willed action. These phenomena survive regardless of which physical mechanism enables consciousness-brain interaction."
+[[topics/free-will]] centers first-person experience appropriately: "The core evidence is phenomenological—the felt difference between choosing and observing, the effort of deliberation, the distinctive neural signatures of willed action. These phenomena survive regardless of which physical mechanism enables consciousness-brain interaction."
 
 The treatment of Libet experiments is exemplary. Rather than dismissing or accepting the "consciousness arrives too late" narrative, the Map presents Schurger's stochastic reinterpretation and Sjöberg's dramatic surgical finding: patients with SMA resection retain their sense of voluntary action. If the readiness potential reflected genuine volition, removing its neural source should impair the sense of willing. It doesn't.
 
@@ -51,7 +51,7 @@ The quantum selection framework resonates with process thinking: if consciousnes
 
 ### The Libertarian Free Will Defender (Kane)
 
-[[free-will]] defends agent-causal libertarianism with remarkable coherence. The article distinguishes agent causation from event-causal libertarianism: "The agent *as persisting substance* directly causes choices. This differs from event-causal accounts (where mental events cause actions nondeterministically) because the agent is ontologically prior to the events."
+[[topics/free-will]] defends agent-causal libertarianism with remarkable coherence. The article distinguishes agent causation from event-causal libertarianism: "The agent *as persisting substance* directly causes choices. This differs from event-causal accounts (where mental events cause actions nondeterministically) because the agent is ontologically prior to the events."
 
 Three lines of evidence support genuine agent causation:
 1. Phenomenology of effort—choosing feels effortful in ways random selection wouldn't
@@ -80,7 +80,7 @@ This combination of rigorous philosophical argument with humility about limits i
 - **Notable quote**: "Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies. Whether correct is open; that it is *coherent* reopens possibilities that seemed closed for centuries."
 - **Why it works**: Transforms the interaction problem from fatal objection to tractable research program
 
-### [[free-will]]
+### [[topics/free-will]]
 - **Strongest point**: Integration of phenomenology (effort, authorship), neuroscience (willed vs. automatic signatures), and metaphysics (agent causation) into unified framework; the three-level agency structure (select, refrain, meta-select)
 - **Notable quote**: "The phenomenological distinction maps onto neural reality: willed actions show frontal theta oscillations and bidirectional frontoparietal coherence—signatures absent in merely instructed behaviour."
 - **Why it works**: Shows how phenomenological evidence and neuroscientific evidence can reinforce rather than undermine each other
@@ -90,7 +90,7 @@ This combination of rigorous philosophical argument with humility about limits i
 - **Notable quote**: "These are the foundational commitments that constrain all content on The Unfinishable Map. They are not proven—they are chosen starting points that shape the exploration."
 - **Why it works**: Intellectual honesty about what is being assumed versus what is being argued, combined with serious engagement with objections to each tenet
 
-### [[materialism]]
+### [[concepts/materialism]]
 - **Strongest point**: Fair-minded treatment that acknowledges materialism's appeal (ontological simplicity, alignment with science) before demonstrating its failures across multiple fronts
 - **Notable quote**: "No amount of neurological detail tells us *why* there is something it is like to be conscious."
 - **Why it works**: Engages the strongest versions of materialism rather than straw men; the critique lands because the target is presented fairly
@@ -106,7 +106,7 @@ This combination of rigorous philosophical argument with humility about limits i
 - **Tenet alignment**: Supports Bidirectional Interaction by showing conscious practice reshapes neural patterns; undermines illusionism by showing phenomenal access improves with training
 
 #### Counterfactual Reasoning and Consciousness
-- **Builds on**: [[counterfactual-reasoning]], [[consciousness-and-intelligence]], [[free-will]]
+- **Builds on**: [[counterfactual-reasoning]], [[consciousness-and-intelligence]], [[topics/free-will]]
 - **Would address**: Full treatment of why genuine deliberation requires consciousness—the Bischof-Köhler hypothesis, working memory constraints, great ape comparative evidence
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing consciousness enables cognitive capacities unconscious processing cannot achieve
@@ -150,7 +150,7 @@ This combination of rigorous philosophical argument with humility about limits i
 | From | To | Reason |
 |------|-----|--------|
 | [[binding-problem]] | [[temporal-consciousness]] | Binding operates across time in episodic memory, not just space |
-| [[quantum-consciousness]] | [[free-will]] | Both depend on quantum indeterminacy; deepen the connection |
+| [[quantum-consciousness]] | [[topics/free-will]] | Both depend on quantum indeterminacy; deepen the connection |
 | [[consciousness-and-intelligence]] | [[consciousness-as-amplifier]] | Great ape gap evidence supports amplifier framework |
 | [[contemplative-neuroscience-integration]] | [[illusionism]] | Meditation evidence undermines illusionism |
 | [[filter-theory]] | [[evolution-of-consciousness]] | Evolution favours consciousness if it filters/configures neural activity |

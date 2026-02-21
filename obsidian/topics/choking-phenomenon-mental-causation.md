@@ -8,13 +8,13 @@ ai_modified: 2026-02-02T05:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[mental-causation]]"
   - "[[implicit-memory]]"
   - "[[embodied-cognition]]"
   - "[[attention-as-interface]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[agent-causation]]"
   - "[[illusionism]]"
   - "[[voluntary-attention]]"
@@ -33,7 +33,7 @@ last_deep_review: 2026-02-02T05:59:00+00:00
 
 When expert golfers think about their swing, they miss putts they would normally make. When concert pianists monitor their finger placement, they stumble over passages they've played flawlessly a thousand times. When skilled speakers attend to their pronunciation, they stammer. This is the choking phenomenon—the counterintuitive degradation of skilled performance when conscious attention focuses on automatized actions.
 
-Choking provides unusually strong evidence for [[mental-causation|mental causation]]. If consciousness were [[epiphenomenalism|epiphenomenal]]—a causally inert byproduct of neural activity—it could not interfere with procedural execution. The fact that attending to skills *disrupts* them demonstrates that consciousness genuinely does something. The disruption is the evidence.
+Choking provides unusually strong evidence for [[mental-causation|mental causation]]. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—a causally inert byproduct of neural activity—it could not interfere with procedural execution. The fact that attending to skills *disrupts* them demonstrates that consciousness genuinely does something. The disruption is the evidence.
 
 ## The Structure of Choking
 
@@ -135,7 +135,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [[embodied-cognition]] — Body memory and the interface response to Merleau-Ponty
 - [[attention-as-interface]] — How attention mediates consciousness-brain interaction
 - [[agent-causation]] — Substance causation as an alternative to event causation
-- [[epiphenomenalism]] — The view choking evidence refutes
+- [[concepts/epiphenomenalism]] — The view choking evidence refutes
 - [[illusionism]] — The eliminativist challenge and why choking resists it
 - [[voluntary-attention]] — The neural signatures of willed versus stimulus-driven attention
 - [[mental-effort]] — The phenomenology of effortful attention

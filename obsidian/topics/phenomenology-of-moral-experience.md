@@ -10,7 +10,7 @@ topics:
   - "[[ethics-of-consciousness]]"
   - "[[meaning-of-life]]"
 concepts:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[qualia]]"
   - "[[emotional-consciousness]]"
   - "[[moral-responsibility]]"
@@ -24,10 +24,10 @@ concepts:
   - "[[normative-phenomenology]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-value-connection]]"
   - "[[normative-void]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[moral-phenomenology]]"
@@ -42,9 +42,9 @@ coalesced_from:
   - "/topics/phenomenology-of-moral-perception/"
 ---
 
-Moral experience has a distinctive phenomenal character. Witnessing cruelty doesn't merely trigger a belief that cruelty is wrong—it presents wrongness as a perceived quality of the situation, as directly as colour or pain. The wrongness is *there*, in the experience, not added by subsequent judgment. If [[phenomenal-value-realism]] is correct—if intrinsic value is a feature of conscious experience itself—then this phenomenology is not incidental decoration on top of moral reasoning. It is where moral facts live.
+Moral experience has a distinctive phenomenal character. Witnessing cruelty doesn't merely trigger a belief that cruelty is wrong—it presents wrongness as a perceived quality of the situation, as directly as colour or pain. The wrongness is *there*, in the experience, not added by subsequent judgment. If [[topics/phenomenal-value-realism]] is correct—if intrinsic value is a feature of conscious experience itself—then this phenomenology is not incidental decoration on top of moral reasoning. It is where moral facts live.
 
-The Unfinishable Map's [[phenomenal-value-realism|phenomenal value pluralism]] holds that multiple features of conscious experience carry intrinsic value: hedonic valence, aesthetic quality, meaning, agency, understanding, connection. This article examines what moral perception itself feels like and how it works—its phenomenal character, temporal structure, attentional demands, and the specific mode of intentionality through which moral properties become present in consciousness.
+The Unfinishable Map's [[topics/phenomenal-value-realism|phenomenal value pluralism]] holds that multiple features of conscious experience carry intrinsic value: hedonic valence, aesthetic quality, meaning, agency, understanding, connection. This article examines what moral perception itself feels like and how it works—its phenomenal character, temporal structure, attentional demands, and the specific mode of intentionality through which moral properties become present in consciousness.
 
 ## Moral Seeing as Gestalt Apprehension
 
@@ -176,7 +176,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 
 **[[tenets#^dualism|Dualism]]**: The gestalt character of moral perception—the way wrongness organises an entire perceptual field rather than being assembled from neutral components—resists functional reduction. A system that processes neutral inputs and outputs a "wrong" label does not replicate the phenomenology of perceiving a situation *as wrong*. The explanatory gap between brain states and subjective experience extends specifically to the gap between neural activity during moral perception and what it is like to perceive wrongness. No description of amygdala activation or prefrontal cortex engagement captures the moral character of the experience.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Moral perception's dependence on attentional quality suggests that consciousness is not passively receiving moral data but actively constituting the perceptual conditions under which moral properties appear. The sustained, receptive, ego-diminished attention that reveals moral properties is itself a conscious act. If consciousness were epiphenomenal, the quality of attention should not affect what moral properties are perceived—yet it manifestly does. Moral experience's motivational power presupposes that consciousness causally influences action: if the felt wrongness of injustice didn't contribute to the actions of those who fight injustice, moral experience would be epiphenomenal decoration. This connects to [[free-will|the broader case for libertarian agency]]—moral responsibility requires that agents could have done otherwise.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Moral perception's dependence on attentional quality suggests that consciousness is not passively receiving moral data but actively constituting the perceptual conditions under which moral properties appear. The sustained, receptive, ego-diminished attention that reveals moral properties is itself a conscious act. If consciousness were epiphenomenal, the quality of attention should not affect what moral properties are perceived—yet it manifestly does. Moral experience's motivational power presupposes that consciousness causally influences action: if the felt wrongness of injustice didn't contribute to the actions of those who fight injustice, moral experience would be epiphenomenal decoration. This connects to [[topics/free-will|the broader case for libertarian agency]]—moral responsibility requires that agents could have done otherwise.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness acts at quantum indeterminacies, moral experience—as a form of consciousness—could in principle influence physical outcomes when agents make moral choices. This remains speculative, but the phenomenology is suggestive: the felt pull of obligation does not present itself as tracking a decision already made by neural computation. It presents itself as participating in the decision.
 
@@ -186,7 +186,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 
 ## Further Reading
 
-- [[phenomenal-value-realism]] — The metaethical framework: phenomenal properties constitute value
+- [[topics/phenomenal-value-realism]] — The metaethical framework: phenomenal properties constitute value
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
 - [[moral-perception]] — The capacity to perceive ethical properties directly
@@ -200,7 +200,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 - [[introspection]] — First-person access to phenomenal states
 - [[witness-consciousness]] — Contemplative access to moral and phenomenal properties
 - [[illusionism]] — The strongest challenge to phenomenal consciousness
-- [[free-will]] — Why moral agency requires libertarian alternatives
+- [[topics/free-will]] — Why moral agency requires libertarian alternatives
 - [[contemplative-evidence-for-consciousness-theories]] — The epistemological role of meditative evidence
 - [[eastern-philosophy-consciousness]] — Buddhist and Hindu perspectives on consciousness and value
 - [[phenomenology-of-understanding]] — What insight and comprehension feel like from the inside

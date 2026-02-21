@@ -11,7 +11,7 @@ topics:
   - "[[ai-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[substrate-independence-critique]]"
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
@@ -212,7 +212,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 
 - [[substrate-independence-critique]] — Why substrate matters for consciousness
 - [[ai-consciousness]] — The broader machine consciousness question
-- [[functionalism]] — The view substrate independence depends on
+- [[concepts/functionalism]] — The view substrate independence depends on
 - [[haecceity]] — The thisness that uploading threatens
 - [[personal-identity]] — What makes a future consciousness count as you
 - [[quantum-consciousness]] — Candidate mechanisms for consciousness-matter interface

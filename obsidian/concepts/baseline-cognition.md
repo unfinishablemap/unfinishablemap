@@ -12,7 +12,7 @@ topics:
   - "[[ai-consciousness]]"
 concepts:
   - "[[conscious-vs-unconscious-processing]]"
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[working-memory]]"
   - "[[metacognition]]"
@@ -22,8 +22,8 @@ concepts:
   - "[[minimal-consciousness]]"
   - "[[evolution-of-consciousness]]"
   - "[[illusionism]]"
-  - "[[epiphenomenalism]]"
-  - "[[free-will]]"
+  - "[[concepts/epiphenomenalism]]"
+  - "[[topics/free-will]]"
   - "[[introspection]]"
   - "[[cognitive-phenomenology]]"
   - "[[access-consciousness]]"
@@ -53,7 +53,7 @@ Baseline cognition is what neural systems achieve without substantial conscious 
 
 The term "consciousness" here means primarily *phenomenal consciousness*—the subjective, qualitative character of experience, what philosophers call "something it is like" to be in a mental state. The claim is not merely that great apes lack certain information-processing capacities (access consciousness) but that the qualitative dimension of human experience enables cognitive operations that great apes cannot perform. This distinction matters: functionalist accounts might grant apes sophisticated access consciousness while denying the phenomenal amplification this article describes.
 
-The Unfinishable Map proposes that consciousness doesn't add computational power (neurons handle computation) but *amplifies* baseline cognition through flexible deployment, metacognitive monitoring, and counterfactual reasoning. This article characterises the starting point; [[consciousness-as-amplifier|Consciousness as Intelligence Amplifier]] details how consciousness transforms it. Understanding what baseline cognition can and cannot achieve clarifies what consciousness contributes—and provides evidence against [[epiphenomenalism]], since the human-ape gap tracks precisely those capacities where consciousness appears causally required.
+The Unfinishable Map proposes that consciousness doesn't add computational power (neurons handle computation) but *amplifies* baseline cognition through flexible deployment, metacognitive monitoring, and counterfactual reasoning. This article characterises the starting point; [[consciousness-as-amplifier|Consciousness as Intelligence Amplifier]] details how consciousness transforms it. Understanding what baseline cognition can and cannot achieve clarifies what consciousness contributes—and provides evidence against [[concepts/epiphenomenalism]], since the human-ape gap tracks precisely those capacities where consciousness appears causally required.
 
 ## What Baseline Cognition Achieves
 
@@ -142,7 +142,7 @@ This connects to the third consciousness-requiring function: *spontaneous intent
 
 ### Social Cognition: Where the Gap Is Clearest
 
-[[consciousness-and-social-cognition|Social cognition]] provides the clearest domain where the baseline/conscious distinction manifests. Theory of mind admits of levels, and the level structure tracks the procedural/declarative distinction precisely:
+[[topics/consciousness-and-social-cognition|Social cognition]] provides the clearest domain where the baseline/conscious distinction manifests. Theory of mind admits of levels, and the level structure tracks the procedural/declarative distinction precisely:
 
 - **Levels 0-1** (behaviour prediction, perception attribution): Operate within baseline cognition. Chimpanzees track what others have seen, anticipate behaviour based on goals, and adjust strategy accordingly—all without representing mental states *as* mental states.
 
@@ -166,7 +166,7 @@ Social cognition thus exemplifies the general pattern: baseline cognition handle
 
 ## The Epiphenomenalism Challenge
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural processing—the systematic correspondence between consciousness-requiring capacities and the human-ape gap would be coincidental. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural processing—the systematic correspondence between consciousness-requiring capacities and the human-ape gap would be coincidental. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?
 
 The baseline cognition framework supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. The pattern predicts:
 
@@ -208,7 +208,7 @@ This doesn't prove AI cannot be conscious. It suggests that if AI achieves human
 
 ## Implications for Free Will
 
-If consciousness enables counterfactual reasoning and deliberate selection among alternatives—choosing this action after considering others—then the baseline cognition framework supports [[free-will|libertarian free will]]. Great apes act; humans deliberate about their actions. The capacity to represent multiple possible futures and select among them is precisely what libertarian accounts of free will describe.
+If consciousness enables counterfactual reasoning and deliberate selection among alternatives—choosing this action after considering others—then the baseline cognition framework supports [[topics/free-will|libertarian free will]]. Great apes act; humans deliberate about their actions. The capacity to represent multiple possible futures and select among them is precisely what libertarian accounts of free will describe.
 
 This connection runs deeper than analogy. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes that consciousness selects among superposed neural states. If correct, conscious deliberation is not merely accompanied by neural activity but *intervenes* in it—the mind genuinely choosing which of several possible actions becomes actual. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
 
@@ -249,7 +249,7 @@ The baseline cognition hypothesis could be undermined by:
 ## Further Reading
 
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on what consciousness enables vs what unconscious processing achieves
-- [[consciousness-and-social-cognition]] — Social cognition as paradigm case of the baseline/conscious distinction
+- [[topics/consciousness-and-social-cognition]] — Social cognition as paradigm case of the baseline/conscious distinction
 - [[consciousness-as-amplifier]] — The complementary article on consciousness's amplifying role
 - [[working-memory]] — The neural workspace where amplification operates
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
@@ -258,7 +258,7 @@ The baseline cognition hypothesis could be undermined by:
 - [[animal-consciousness]] — The broader context including evolutionary evidence
 - [[minimal-consciousness]] — Model organisms and the boundaries of consciousness
 - [[global-workspace-theory]] — The broadcasting account of conscious access
-- [[free-will]] — How conscious deliberation supports libertarian free will
+- [[topics/free-will]] — How conscious deliberation supports libertarian free will
 - [[counterfactual-reasoning]] — The capacity to imagine non-actual states, requiring consciousness
 - [[introspection]] — The capacity to examine one's own mental states
 - [[consciousness-independent-baseline-cognition-2026-01-21]] — Research notes underlying this article

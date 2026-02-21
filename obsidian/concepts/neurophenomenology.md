@@ -22,7 +22,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[attention-as-interface]]"
   - "[[decoherence]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[contemplative-neuroscience]]"
 related_articles:
   - "[[tenets]]"
@@ -48,7 +48,7 @@ Varela (1946-2001) proposed neurophenomenology as "a methodological remedy for t
 2. **Neural measurement**: Brain activity recorded during specific experiential states
 3. **Mutual constraint**: First-person reports and neural data inform each other; neither reduces to the other
 
-[[Contemplative-neuroscience]] has empirically validated this framework. The Shamatha Project demonstrated that phenomenological training produces measurable improvements in attention and discrimination. Crucially, phenomenological reports predict neural signatures, while neural findings validate phenomenological categories—top-down causation that challenges [[epiphenomenalism]].
+[[Contemplative-neuroscience]] has empirically validated this framework. The Shamatha Project demonstrated that phenomenological training produces measurable improvements in attention and discrimination. Crucially, phenomenological reports predict neural signatures, while neural findings validate phenomenological categories—top-down causation that challenges [[concepts/epiphenomenalism]].
 
 ## Contemplative Science
 
@@ -140,7 +140,7 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Meditation demonstrates consciousness's active capacity. [[Contemplative-neuroscience]] distinguishes willed attention (distinct frontal theta), instructed attention, and exogenous attention. The *content* of conscious intention matters causally: cultivating compassion produces different neural changes than sustaining breath attention.
 
-Meditation exhibits the structure of [[free-will|self-forming actions]]: the meditator sustains attention against competing impulses, and through effort, neural infrastructure reorganizes. The [[meditation-and-consciousness-modes|two modes]]—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy.
+Meditation exhibits the structure of [[topics/free-will|self-forming actions]]: the meditator sustains attention against competing impulses, and through effort, neural infrastructure reorganizes. The [[meditation-and-consciousness-modes|two modes]]—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy.
 
 **[[tenets#^minimal-quantum|Minimal Quantum Interaction]]**: The [[attention-as-interface|attention-as-interface]] hypothesis receives support. [[Stapp-quantum-mind|Stapp's quantum Zeno mechanism]] doesn't require sustained coherence; *repeated* observations can hold quantum systems in specific states despite decoherence between observations. Meditation trains exactly this: the ability to return focus rapidly and repeatedly. The temporal microstructure (~25-35ms gamma cycles) operates at scales where Zeno dynamics could accumulate effects.
 
@@ -165,7 +165,7 @@ Meditation exhibits the structure of [[free-will|self-forming actions]]: the med
 - [[qualia]] — The qualitative features that contemplative training discloses
 - [[illusionism]] — The challenge that phenomenal consciousness is an illusion
 - [[decoherence]] — The quantum objection and biological responses
-- [[free-will]] — Self-forming actions and meditation practice
+- [[topics/free-will]] — Self-forming actions and meditation practice
 - [[eastern-philosophy-consciousness]] — The contemplative traditions informing this research
 - [[mysterianism]] — Cognitive limits that neurophenomenology respects
 - [[neurophenomenology-meditation-studies-2026-01-14]] — Research notes on this topic

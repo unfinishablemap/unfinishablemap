@@ -8,20 +8,20 @@ ai_modified: 2026-02-16T15:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation]]"
 concepts:
   - "[[selection-laws]]"
   - "[[quantum-consciousness]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[attention]]"
   - "[[attention-as-interface]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[haecceity]]"
   - "[[integrated-information-theory]]"
   - "[[emergence]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[decoherence]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -86,7 +86,7 @@ Supervenience laws specify which physical states are accompanied by which mental
 
 Chalmers primarily discusses supervenience laws. On his framework, once you fix all the physical facts about a system, the psychophysical laws determine what (if any) experience the system has. The laws run *upward*: from physics to phenomenology.
 
-This leaves open whether the mental can causally influence the physical. Chalmers himself tends toward [[epiphenomenalism|epiphenomenalism]]—the view that mental states are caused by physical states but don't cause physical states in return.
+This leaves open whether the mental can causally influence the physical. Chalmers himself tends toward [[concepts/epiphenomenalism|epiphenomenalism]]—the view that mental states are caused by physical states but don't cause physical states in return.
 
 ### Causal Laws
 
@@ -112,7 +112,7 @@ Any two systems with identical fine-grained functional organization have qualita
 
 Chalmers defends this through the "fading qualia" thought experiment: gradually replace neurons with functionally identical components. If experience depended on substrate rather than organization, experience could fade while behaviour remained constant—but we couldn't detect this fading. This seems implausible.
 
-**The Map's tension with this principle**: the Map rejects [[functionalism]]—the view that mental states are defined by their functional roles. The zombie argument—central to the hard problem—demonstrates that functional organisation doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. The [[haecceity]] of the particular conscious subject may matter, not just abstract patterns.
+**The Map's tension with this principle**: the Map rejects [[concepts/functionalism]]—the view that mental states are defined by their functional roles. The zombie argument—central to the hard problem—demonstrates that functional organisation doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. The [[haecceity]] of the particular conscious subject may matter, not just abstract patterns.
 
 ### The Double-Aspect Theory of Information
 
@@ -342,7 +342,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 
 - [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview: Chalmers' framework, the upward-downward asymmetry, and coupling mechanisms
 - [[selection-laws]] — The downward direction: how conscious states select physical outcomes
-- [[consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
+- [[concepts/consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
 - [[coupling-modes]] — Taxonomy of how consciousness might couple: basis, timing, or probability control
 - [[interactionist-dualism]] — The framework requiring bidirectional laws
 - [[mental-causation]] — How consciousness causes physical effects
@@ -356,8 +356,8 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[haecceity]] — Why organizational invariance is rejected
 - [[witness-consciousness]] — Contemplative evidence for the subject-object structure
 - [[emergence]] — Why emergentism doesn't solve the hard problem
-- [[functionalism]] — The view the Map rejects
-- [[epiphenomenalism]] — The view Chalmers tends toward (and the Map rejects)
+- [[concepts/functionalism]] — The view the Map rejects
+- [[concepts/epiphenomenalism]] — The view Chalmers tends toward (and the Map rejects)
 - [[binding-problem]] — How distributed neural processes combine into unified experience
 - [[chalmers-psychophysical-laws-2026-01-17]] — Research notes on Chalmers' framework
 - [[psychophysical-coupling-problem-2026-01-15]] — Research notes on the coupling problem

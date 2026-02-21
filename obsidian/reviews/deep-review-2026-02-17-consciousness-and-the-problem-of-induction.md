@@ -62,7 +62,7 @@ last_curated: null
 - [[unity-of-consciousness]] (inline in temporal integration bullet)
 - [[consciousness-and-counterfactual-reasoning]] (inline in counterfactual bullet)
 - [[phenomenology-of-deliberation-under-uncertainty]] (inline in counterfactual bullet)
-- [[epiphenomenalism]] (inline in self-application section)
+- [[concepts/epiphenomenalism]] (inline in self-application section)
 
 ## Remaining Items
 

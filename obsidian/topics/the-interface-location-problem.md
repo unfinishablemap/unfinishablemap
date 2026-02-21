@@ -9,12 +9,12 @@ draft: false
 last_deep_review: 2026-02-11T00:10:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[attention-as-selection-interface]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[attention-as-interface]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[brain-interface-boundary]]"
   - "[[decoherence]]"
   - "[[coupling-modes]]"
@@ -199,7 +199,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hier
 - [[developmental-trajectory-of-the-interface]] — How the interface transforms across the lifespan
 - [[mind-matter-interface]] — The two-layer architecture unifying filter theory and quantum selection
 - [[brain-interface-boundary]] — Why consciousness acts only in brains (the five criteria)
-- [[consciousness-selecting-neural-patterns]] — The proposed selection mechanism in detail
+- [[concepts/consciousness-selecting-neural-patterns]] — The proposed selection mechanism in detail
 - [[quantum-consciousness]] — Quantum selection mechanisms (Stapp, Orch OR)
 - [[decoherence]] — The quantum coherence challenge in biological systems
 - [[psychophysical-coupling]] — Bandwidth constraints on the mind-brain connection

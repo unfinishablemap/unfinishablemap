@@ -73,7 +73,7 @@ last_curated: null
 - [[illusionism]]
 - [[mysterianism]]
 - [[spontaneous-collapse-theories]]
-- [[free-will]]
+- [[topics/free-will]]
 - [[agent-causation]]
 - [[argument-from-reason]]
 - [[explanatory-gap]]

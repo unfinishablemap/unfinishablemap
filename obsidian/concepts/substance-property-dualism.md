@@ -10,9 +10,9 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[qualia]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[russellian-monism]]"
   - "[[pairing-problem]]"
   - "[[quantum-consciousness]]"
@@ -32,7 +32,7 @@ last_curated: null
 last_deep_review: 2026-02-03T10:37:00+00:00
 ---
 
-Dualism comes in two main varieties: substance dualism and property dualism. The first holds that mind and body are different *kinds of thing*—distinct substances. The second holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[materialism|materialism's]] claim that everything is ultimately physical, but they disagree about the underlying metaphysical structure.
+Dualism comes in two main varieties: substance dualism and property dualism. The first holds that mind and body are different *kinds of thing*—distinct substances. The second holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[concepts/materialism|materialism's]] claim that everything is ultimately physical, but they disagree about the underlying metaphysical structure.
 
 The Unfinishable Map's [[tenets#^dualism|Dualism]] tenet is compatible with either formulation. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility.
 
@@ -50,7 +50,7 @@ Princess Elizabeth of Bohemia pressed Descartes on a crucial difficulty: how can
 
 Leibniz sharpened the objection by invoking conservation of momentum. If mind could push matter, it would have to inject energy. But physics says energy is conserved. The interaction seems to require either abandoning conservation laws or abandoning causal efficacy.
 
-These objections pushed many philosophers toward alternatives: parallelism, [[epiphenomenalism]], or materialism. See [[history-of-interactionist-dualism]] for how quantum mechanics later reopened possibilities that Leibniz thought closed.
+These objections pushed many philosophers toward alternatives: parallelism, [[concepts/epiphenomenalism]], or materialism. See [[history-of-interactionist-dualism]] for how quantum mechanics later reopened possibilities that Leibniz thought closed.
 
 ### Contemporary Substance Dualism
 
@@ -90,7 +90,7 @@ It also preserves the intuition that consciousness is closely tied to brains. A 
 
 ### Where They Agree
 
-Both substance and property dualism share the central insight: [[materialism]] fails to account for consciousness. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of qualia all point toward something beyond physics. Whether you package this as separate substances or irreducible properties, you're affirming that the physical story leaves something out.
+Both substance and property dualism share the central insight: [[concepts/materialism]] fails to account for consciousness. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of qualia all point toward something beyond physics. Whether you package this as separate substances or irreducible properties, you're affirming that the physical story leaves something out.
 
 Both views are compatible with [[interactionist-dualism|interactionism]]—though historically, property dualists have sometimes been attracted to epiphenomenalism (mental properties are real but causally inert). The Map's framework requires causal efficacy, which either ontology can accommodate.
 
@@ -229,8 +229,8 @@ The substance/property distinction matters less than it might seem for the Map's
 - [[russellian-monism]] — A sophisticated middle position that may be dualism under another name
 - [[interactionist-dualism]] — the Map's position combining dualism with causal interaction
 - [[pairing-problem]] — Kim's challenge to substance dualism that property dualism avoids
-- [[materialism]] — The view both dualist positions reject
-- [[epiphenomenalism]] — Property dualism's temptation that the Map refuses
+- [[concepts/materialism]] — The view both dualist positions reject
+- [[concepts/epiphenomenalism]] — Property dualism's temptation that the Map refuses
 - [[qualia]] — The phenomenal properties that dualism holds are irreducible
 - [[hard-problem-of-consciousness]] — The problem that motivates dualism in both forms
 - [[illusionism]] — The radical challenge that questions whether qualia exist at all

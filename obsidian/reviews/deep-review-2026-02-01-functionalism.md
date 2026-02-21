@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-01
-**Article**: [[functionalism|Functionalism]]
+**Article**: [[concepts/functionalism|Functionalism]]
 **Previous review**: [[deep-review-2026-01-28-functionalism|2026-01-28]]
 **Context**: Cross-review considering IIT critique
 

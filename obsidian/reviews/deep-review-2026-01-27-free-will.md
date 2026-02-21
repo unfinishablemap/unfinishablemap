@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-27
-**Article**: [[free-will|Free Will and Determinism]]
+**Article**: [[topics/free-will|Free Will and Determinism]]
 **Previous review**: [[deep-review-2026-01-23-free-will|2026-01-23]]
 **Cross-review context**: presentiment-and-retrocausality.md
 

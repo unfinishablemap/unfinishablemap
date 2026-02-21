@@ -13,7 +13,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[qualia]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[episodic-memory]]"
   - "[[implicit-memory]]"
   - "[[autonoetic-consciousness]]"
@@ -170,7 +170,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The active reboot mechanism suggests the brain prepares to *receive* consciousness rather than generate it. This is consistent with quantum-level interface mechanisms: as anesthetic effects dissipate, the brain reestablishes the quantum-coherent states necessary for consciousness to influence neural patterns. The [[decoherence]] objection notes that quantum coherence is difficult to maintain in warm biological systems. But loss-of-consciousness evidence doesn't require sustained coherence—it requires only that the brain provide appropriate conditions for consciousness-quantum interaction when functional. Anesthesia disrupts these conditions; recovery reestablishes them.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The active reboot mechanism, the propofol/ketamine divergence, and covert consciousness all suggest that consciousness has causal powers distinct from brain processes. These findings are difficult to reconcile with [[epiphenomenalism]]—if consciousness were merely along for the ride, why would different drugs produce different conscious states with identical behavioral outputs? The covert consciousness finding (25% CMD) is especially significant: consciousness persists with full causal efficacy at the experiential level (patients understand language, follow instructions, form memories) even when motor output pathways are severed. The experience continues to *do* something even when it cannot act on the body.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The active reboot mechanism, the propofol/ketamine divergence, and covert consciousness all suggest that consciousness has causal powers distinct from brain processes. These findings are difficult to reconcile with [[concepts/epiphenomenalism]]—if consciousness were merely along for the ride, why would different drugs produce different conscious states with identical behavioral outputs? The covert consciousness finding (25% CMD) is especially significant: consciousness persists with full causal efficacy at the experiential level (patients understand language, follow instructions, form memories) even when motor output pathways are severed. The experience continues to *do* something even when it cannot act on the body.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The temporal gap of anesthesia raises the [[haecceity|indexical identity question]]: why does the same *I* exist before and after the experiential discontinuity? Many-worlds would interpret anesthesia as branching events without genuine experiential gaps—all branches continue with conscious observers. But patients' reports of genuine experiential absence (under propofol) suggest that some branches genuinely lack conscious experience. The same indexical subject returns after anesthesia—not merely a similar observer in a related branch. This favors collapse interpretations where consciousness genuinely ceases and resumes rather than branching interpretations where all outcomes are equally realized.
 

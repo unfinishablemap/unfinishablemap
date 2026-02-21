@@ -8,7 +8,7 @@ ai_modified: 2026-02-06T12:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[attention]]"
   - "[[attention-as-interface]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[mental-effort]]"
   - "[[decoherence]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-coupling]]"
   - "[[interface-locality]]"
   - "[[attention-motor-quantum-interface]]"
@@ -205,7 +205,7 @@ Different timescales interact at the interface:
 | ~300 ms | Willed attention deployment (Rajan et al.) | Full interface engagement |
 | Sustained | Maintained willed attention | Where Zeno effects accumulate |
 
-The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism, this shared timescale marks where consciousness engages. This timing window is directly relevant to [[free-will]] debates: it identifies when deliberation resolves into commitment—the locus where [[agent-causation]] could operate.
+The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism, this shared timescale marks where consciousness engages. This timing window is directly relevant to [[topics/free-will]] debates: it identifies when deliberation resolves into commitment—the locus where [[agent-causation]] could operate.
 
 For quantum mechanisms to work, decoherence must be slow enough to permit meaningful influence before quantum effects dissipate. Tegmark's original calculations ruled this out; revised estimates (supported by 2025 research on biological quantum effects) may permit it.
 
@@ -397,7 +397,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 - [[structure-of-attention]] — Willed, instructed, and exogenous attention
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation
 - [[psychophysical-coupling]] — Constraints on what consciousness can influence
-- [[free-will]] — How the timing constraints relate to libertarian free will
+- [[topics/free-will]] — How the timing constraints relate to libertarian free will
 - [[agent-causation]] — The selection model as agent causation
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments
 

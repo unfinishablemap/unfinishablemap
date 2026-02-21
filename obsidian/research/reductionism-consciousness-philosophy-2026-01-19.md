@@ -217,7 +217,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 This research directly supports:
 
 - **[[emergence]]** — Already covers strong vs weak emergence; reductionism article would be the contrasting concept
-- **[[materialism]]** — Reductionism is the explanatory commitment of materialism
+- **[[concepts/materialism]]** — Reductionism is the explanatory commitment of materialism
 - **[[explanatory-gap]]** — If exists, central to anti-reductionist case
 - **[[downward-causation]]** — What reductionism denies and the Map affirms
 - **[[causal-closure]]** — The principle reductionists defend and site denies at quantum level

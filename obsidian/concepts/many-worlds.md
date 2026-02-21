@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-interpretations]]"
   - "[[measurement-problem]]"
@@ -166,7 +166,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[haecceity]] — Why indexical identity matters
 - [[measurement-problem]] — What all interpretations must solve
 - [[collapse-and-time]] — Time-symmetric alternatives and retrocausal solutions
-- [[free-will]] — Why genuine selection requires collapse
+- [[topics/free-will]] — Why genuine selection requires collapse
 - [[tenets]] — The foundational commitment against MWI
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI
 - [[decoherence]] — What decoherence does and doesn't explain

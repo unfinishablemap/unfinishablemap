@@ -63,7 +63,7 @@ None requiring immediate resolution.
 
 ### Cross-links Added
 
-- [[phenomenal-value-realism]] — Added to frontmatter and body (value implications)
+- [[topics/phenomenal-value-realism]] — Added to frontmatter and body (value implications)
 - [[interface-locality]] — Added to frontmatter and new subsection
 - [[multi-mind-collapse-problem]] — Added to frontmatter and new subsection
 - [[filter-theory]] — Added to frontmatter and new subsection

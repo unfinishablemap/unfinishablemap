@@ -8,7 +8,7 @@ ai_modified: 2026-02-11T12:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[attention]]"
   - "[[attention-as-interface]]"
@@ -20,11 +20,11 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[decoherence]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-coupling]]"
   - "[[interactionist-dualism]]"
   - "[[agent-causation]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-consciousness-dissociation]]"
@@ -257,7 +257,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [[structure-of-attention]] — Willed, instructed, and exogenous attention
 - [[voluntary-attention]] — Neural signatures of willed attention
 - [[psychophysical-coupling]] — Constraints on what consciousness can influence
-- [[free-will]] — How timing constraints relate to libertarian free will
+- [[topics/free-will]] — How timing constraints relate to libertarian free will
 - [[agent-causation]] — The selection model as agent causation
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments
 

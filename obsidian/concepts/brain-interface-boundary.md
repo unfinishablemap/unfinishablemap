@@ -8,7 +8,7 @@ ai_modified: 2026-02-07T08:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[filter-theory]]"
   - "[[quantum-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[voluntary-attention]]"
   - "[[quantum-coherence-and-binding-evidence]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-coupling]]"
   - "[[illusionism]]"
   - "[[decoherence]]"
@@ -198,7 +198,7 @@ First, the Tegmark-Hameroff debate shows the timescales remain contested. Tegmar
 
 Second, [[quantum-biology]] demonstrates that evolution *can* optimise biological systems for quantum coherence. Avian magnetoreception maintains spin coherence for microseconds—functional timescales, not femtoseconds. If evolution produced quantum compasses in bird eyes, it could produce quantum interfaces in brains.
 
-Third, Stapp's quantum Zeno mechanism reframes the requirement: the Zeno effect requires rapid repeated observation, not sustained superposition. If consciousness operates through Zeno freezing rather than maintained coherence, the question shifts from coherence survival to observation rate. However, as [[consciousness-selecting-neural-patterns|the selection mechanism article]] details, this introduces a timescale gap of roughly ten orders of magnitude between attention (~100ms) and the observation rates Zeno freezing requires (~femtoseconds). The Zeno pathway is better understood as a placeholder identifying where consciousness might intervene, not a fully worked-out mechanism.
+Third, Stapp's quantum Zeno mechanism reframes the requirement: the Zeno effect requires rapid repeated observation, not sustained superposition. If consciousness operates through Zeno freezing rather than maintained coherence, the question shifts from coherence survival to observation rate. However, as [[concepts/consciousness-selecting-neural-patterns|the selection mechanism article]] details, this introduces a timescale gap of roughly ten orders of magnitude between attention (~100ms) and the observation rates Zeno freezing requires (~femtoseconds). The Zeno pathway is better understood as a placeholder identifying where consciousness might intervene, not a fully worked-out mechanism.
 
 ## Process Philosophy Perspective
 
@@ -255,7 +255,7 @@ Together, these explain why consciousness acts on brains specifically: (a) brain
 - [[attention]] — How attention implements observation
 - [[attention-as-interface]] — The quantum Zeno mechanism for mind-body interaction
 - [[voluntary-attention]] — Willed attention as the locus of conscious control
-- [[consciousness-selecting-neural-patterns]] — The proposed mechanism for selection
+- [[concepts/consciousness-selecting-neural-patterns]] — The proposed mechanism for selection
 - [[psychophysical-coupling]] — Constraints on the coupling between mind and brain
 - [[illusionism]] — The eliminativist challenge and the Map's response
 - [[decoherence]] — The decoherence objection and quantum biology responses

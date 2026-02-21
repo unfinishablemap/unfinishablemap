@@ -63,7 +63,7 @@ last_curated: null
 
 - [[qualia]] (in new physicalist response section)
 - [[knowledge-argument]] (in new physicalist response section)
-- [[free-will]] (in voluntary action section and related_articles)
+- [[topics/free-will]] (in voluntary action section and related_articles)
 
 ## Word Count
 

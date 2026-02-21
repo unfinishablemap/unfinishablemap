@@ -60,7 +60,7 @@ last_curated: null
 - [[binding-problem]] (in substrate section and Further Reading)
 - [[illusionism]] (new section and Further Reading)
 - [[emergence]] (Further Reading)
-- [[functionalism]] (in substrate section and Further Reading)
+- [[concepts/functionalism]] (in substrate section and Further Reading)
 
 ## Remaining Items
 

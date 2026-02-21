@@ -14,7 +14,7 @@ topics:
   - "[[machine-consciousness]]"
 concepts:
   - "[[intentionality]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[embodied-cognition]]"
   - "[[llm-consciousness]]"
   - "[[cognitive-phenomenology]]"
@@ -145,7 +145,7 @@ The symbol grounding problem connects to all five tenets:
 - [[consciousness-and-semantic-understanding]] — Why meaning is constitutively phenomenal
 - [[language-recursion-and-consciousness]] — How recursive language requires conscious processing
 - [[working-memory]] — The maintenance/manipulation distinction and conscious access
-- [[functionalism]] — The view that mental states are defined by functional roles
+- [[concepts/functionalism]] — The view that mental states are defined by functional roles
 - [[embodied-cognition]] — Cognition through bodily experience
 - [[baseline-cognition]] — What cognition achieves without consciousness
 - [[continual-learning-argument]] — Why static systems cannot be conscious (and thus lack thick grounding)

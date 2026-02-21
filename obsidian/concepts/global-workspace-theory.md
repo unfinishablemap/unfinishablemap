@@ -14,7 +14,7 @@ concepts:
   - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[voluntary-attention]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[integrated-information-theory]]"
   - "[[higher-order-theories]]"
@@ -124,7 +124,7 @@ AST complements GWT: the attention schema might determine *which* information en
 
 GWT has direct implications for machine consciousness. If consciousness *is* global broadcast—the functional role of making information widely available—then AI systems implementing this architecture could be conscious. Some researchers have argued that Large Language Agents, with their ability to integrate information across many modules, might satisfy GWT's criteria.
 
-This is precisely where the Map's framework diverges most sharply. The [[functionalism|absent qualia objection]] applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
+This is precisely where the Map's framework diverges most sharply. The [[concepts/functionalism|absent qualia objection]] applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
 
 Site's [[ai-consciousness|AI consciousness skepticism]] rests on dualism, not denial that AI can implement workspace functions. The question is whether functional implementation suffices for experience.
 
@@ -263,7 +263,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[neural-correlates-of-consciousness]] — The broader research program GWT contributes to
 - [[attention]] — The gateway to the workspace
 - [[voluntary-attention]] — Endogenous attention control and workspace access
-- [[functionalism]] — The philosophical framework underlying GWT
+- [[concepts/functionalism]] — The philosophical framework underlying GWT
 - [[phenomenal-concepts-strategy]] — Explaining away phenomenal intuitions
 - [[dreams-and-consciousness]] — Dreaming without full workspace engagement
 - [[metacognition]] — Self-reflective processes and workspace engagement

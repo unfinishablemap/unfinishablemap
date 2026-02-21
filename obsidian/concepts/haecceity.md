@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[pairing-problem]]"
   - "[[self-and-consciousness]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
   - "[[buddhism-and-dualism]]"
@@ -33,7 +33,7 @@ last_curated: null
 last_deep_review: 2026-02-01T05:48:00+00:00
 ---
 
-Haecceity (from Latin *haec*, "this") is the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with your exact properties—a distinction pattern-based theories cannot capture. This concept is central to The Unfinishable Map's rejection of [[many-worlds|many-worlds interpretation]], its treatment of [[personal-identity]], and its response to the [[pairing-problem]].
+Haecceity (from Latin *haec*, "this") is the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with your exact properties—a distinction pattern-based theories cannot capture. This concept is central to The Unfinishable Map's rejection of [[concepts/many-worlds|many-worlds interpretation]], its treatment of [[personal-identity]], and its response to the [[pairing-problem]].
 
 ## The Concept
 
@@ -85,7 +85,7 @@ This presupposes haecceitism. If anti-haecceitism were true, there would be no f
 
 But the question doesn't seem confused. You will have one sequence of experiences, not two. The felt reality of being *this* observer in *this* branch suggests a haecceitistic fact—that indexical identity is not reducible to qualitative continuity.
 
-The [[many-worlds|dedicated MWI critique]] develops five arguments against many-worlds, but the indexical identity problem is the one that most directly invokes haecceity. MWI defenders (Deutsch, Carroll) respond via "self-locating uncertainty"—treating pre-measurement uncertainty about which branch you'll find yourself in as analogous to uncertainty about which room you woke up in. But self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both. The uncertainty framework seems inapplicable when all outcomes occur.
+The [[concepts/many-worlds|dedicated MWI critique]] develops five arguments against many-worlds, but the indexical identity problem is the one that most directly invokes haecceity. MWI defenders (Deutsch, Carroll) respond via "self-locating uncertainty"—treating pre-measurement uncertainty about which branch you'll find yourself in as analogous to uncertainty about which room you woke up in. But self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both. The uncertainty framework seems inapplicable when all outcomes occur.
 
 ## Self-Locating Beliefs
 
@@ -129,7 +129,7 @@ This may seem to explain little. But the criticism applies to any theory of indi
 
 ## MWI and the Probability Problem
 
-The [[many-worlds#3. The Probability Problem|probability problem]] for many-worlds connects to haecceity. In many-worlds, after a spin measurement, there are branches with spin-up and branches with spin-down. All exist equally. Why do we observe Born-rule statistics?
+The [[concepts/many-worlds#3. The Probability Problem|probability problem]] for many-worlds connects to haecceity. In many-worlds, after a spin measurement, there are branches with spin-up and branches with spin-down. All exist equally. Why do we observe Born-rule statistics?
 
 Proposed solutions invoke self-locating uncertainty: before looking at the result, you're uncertain which branch you're in. Decision theory allegedly recovers the Born rule from rational constraints on such uncertainty.
 
@@ -143,7 +143,7 @@ Many-worlds theorists who embrace anti-haecceitism must find another route to th
 
 Wallace (2012) and Greaves (2007) argue that decision theory can derive the Born rule without haecceitistic assumptions—rational agents should weight branches by squared amplitude due to constraints on preferences, not facts about "which branch I'm in."
 
-**Response**: The question "What should I care about?" presupposes an "I" whose interests are at stake. If both post-measurement branches equally contain my continuers, why weight one more than another? The caring itself requires indexical identity. The broader [[many-worlds|MWI critique]] identifies additional problems—ontological extravagance, the preferred basis problem—but indexical identity is fundamental. If "you" genuinely end up in multiple branches, betting on outcomes becomes incoherent.
+**Response**: The question "What should I care about?" presupposes an "I" whose interests are at stake. If both post-measurement branches equally contain my continuers, why weight one more than another? The caring itself requires indexical identity. The broader [[concepts/many-worlds|MWI critique]] identifies additional problems—ontological extravagance, the preferred basis problem—but indexical identity is fundamental. If "you" genuinely end up in multiple branches, betting on outcomes becomes incoherent.
 
 ## Objections to Haecceity
 
@@ -229,7 +229,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 - [[indexical-facts]] — The irreducible first-person facts that haecceity grounds
 - [[vertiginous-question]] — Why am I *this* conscious being rather than another?
 - [[personal-identity]] — How haecceity grounds personal identity
-- [[many-worlds]] — Why indexical identity problems doom many-worlds
+- [[concepts/many-worlds]] — Why indexical identity problems doom many-worlds
 - [[indexical-identity-quantum-measurement]] — How haecceity grounds which outcome *this* consciousness experiences
 - [[pairing-problem]] — The haecceity response to Kim's challenge
 - [[self-and-consciousness]] — The minimal self and phenomenology of thisness

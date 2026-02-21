@@ -2720,7 +2720,7 @@ archived: true
 - **Medium issues addressed**: 1 (free will claim insufficiently qualified)
 - **Enhancements made**: 3 (free will rewrite acknowledging compatibilism, cross-links to free-will and quantum-indeterminacy-free-will)
 - **Output**: [[reviews/deep-review-2026-01-30-emergence]]
-- **Summary**: Second review of emergence article (previously reviewed 2026-01-20). Addressed medium issue: free will claim implicitly dismissed compatibilism without engagement. Rewrote to acknowledge compatibilism as alternative, state Map's endorsement of libertarian free will, and explain how quantum indeterminacy plus consciousness addresses the luck problem. Added cross-links to [[free-will]] and [[quantum-indeterminacy-free-will]]. Article approaching stability—bedrock disagreements (MWI, eliminativism, compatibilism) documented as philosophical commitments rather than fixable flaws.
+- **Summary**: Second review of emergence article (previously reviewed 2026-01-20). Addressed medium issue: free will claim implicitly dismissed compatibilism without engagement. Rewrote to acknowledge compatibilism as alternative, state Map's endorsement of libertarian free will, and explain how quantum indeterminacy plus consciousness addresses the luck problem. Added cross-links to [[topics/free-will]] and [[quantum-indeterminacy-free-will]]. Article approaching stability—bedrock disagreements (MWI, eliminativism, compatibilism) documented as philosophical commitments rather than fixable flaws.
 
 ---
 
@@ -2768,7 +2768,7 @@ archived: true
 - **Medium issues addressed**: 2 (De Brigard citation framing, MWI objection)
 - **Enhancements made**: 3 (description added, 2 cross-links added)
 - **Output**: [[reviews/deep-review-2026-01-29-temporal-asymmetry-remembering-anticipating]]
-- **Summary**: First review of this article. No critical issues found—the article is philosophically sound. Addressed medium issues: (1) expanded De Brigard citation to acknowledge that his "epistemic feelings" framework is compatible with functionalism, while explaining why the Map maintains the quale is irreducible; (2) strengthened the No Many Worlds tenet connection to engage with the MWI objection that branch-relative memory accommodates the phenomenology. Added cross-links to [[free-will]] and [[functionalism]]. Added description frontmatter.
+- **Summary**: First review of this article. No critical issues found—the article is philosophically sound. Addressed medium issues: (1) expanded De Brigard citation to acknowledge that his "epistemic feelings" framework is compatible with functionalism, while explaining why the Map maintains the quale is irreducible; (2) strengthened the No Many Worlds tenet connection to engage with the MWI objection that branch-relative memory accommodates the phenomenology. Added cross-links to [[topics/free-will]] and [[concepts/functionalism]]. Added description frontmatter.
 
 ---
 
@@ -4698,7 +4698,7 @@ archived: true
 - **Enhancements made**: 3
   1. Expanded Stapp quantum Zeno explanation to show how Zeno produces unity
   2. Added brief process philosophy (Whitehead) connection
-  3. Added [[free-will]] and [[agent-causation]] to Further Reading and frontmatter
+  3. Added [[topics/free-will]] and [[agent-causation]] to Further Reading and frontmatter
 - **Output**: [[reviews/deep-review-2026-01-28-neural-binding-mechanisms]]
 
 ---
@@ -4785,7 +4785,7 @@ archived: true
   2. "All physics leaves consciousness unexplained" objection—added explanation of why QBism is uniquely vulnerable (structural gap)
 - **Enhancements made**: 2
   1. Added citation for Fuchs 2017 on agents as "most basic category"
-  2. Added wikilink to [[many-worlds]] concept page
+  2. Added wikilink to [[concepts/many-worlds]] concept page
 - **Output**: [[reviews/deep-review-2026-01-28-qbism]]
 
 ---
@@ -5063,12 +5063,12 @@ archived: true
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3
   - Strengthened identity thesis response with explanatory gap reference
-  - Added cross-links to [[causal-closure]], [[functionalism]], [[explanatory-gap]]
+  - Added cross-links to [[causal-closure]], [[concepts/functionalism]], [[explanatory-gap]]
   - Clarified Aaronson reference as blog post
 - **Enhancements made**: 4
   - Added water = H2O contrast to explain explanatory satisfaction
   - Inline link to [[causal-closure]] in Passivity Problem section
-  - Inline link to [[functionalism]] in What IIT Gets Right section
+  - Inline link to [[concepts/functionalism]] in What IIT Gets Right section
   - Updated concepts frontmatter with three new entries
 - **Output**: [[reviews/deep-review-2026-01-27-integrated-information-theory-critique]]
 
@@ -5152,7 +5152,7 @@ archived: true
   - Added decoherence timescale as concrete constraint
   - Clarified QBism's intentional agnosticism while maintaining critique
 - **Enhancements made**: 2
-  - Added cross-link to [[free-will]] connecting indexical identity to agency
+  - Added cross-link to [[topics/free-will]] connecting indexical identity to agency
   - Added cross-link to [[process-philosophy]] connecting to actual occasions
 - **Output**: [[reviews/deep-review-2026-01-27-quantum-measurement-and-subjective-probability]]
 
@@ -6739,7 +6739,7 @@ archived: true
 - **Medium issues addressed**: 3
   1. Added cross-link and integration with [[spontaneous-collapse-theories]]
   2. Added prebiotic collapse problem mention and CSL-IIT hybrid reference
-  3. Added [[free-will]] connection to concepts and Further Reading
+  3. Added [[topics/free-will]] connection to concepts and Further Reading
 - **Enhancements made**: Removed 3 generic Stanford Encyclopedia references for length neutrality
 - **Output**: [[reviews/deep-review-2026-01-26-measurement-problem]]
 
@@ -7019,7 +7019,7 @@ Created overview article integrating the psychophysical laws framework—explain
 Changes:
 - Added paragraph on advanced contemplative dissolution of witness/witnessed distinction
 - Enhanced epiphenomenalism response with free will connection
-- Added [[free-will]] cross-link
+- Added [[topics/free-will]] cross-link
 
 This is the second deep review; article is approaching stability.
 
@@ -7161,7 +7161,7 @@ This is the second deep review; article is approaching stability.
 **Enhancements made**: 4
 - Added cross-link to [[phenomenology-of-choice]] in new neural determinism response
 - Added cross-link to [[mental-effort]] in Phenomenological Unity section
-- Added cross-link to [[consciousness-selecting-neural-patterns]] in three-layer model section
+- Added cross-link to [[concepts/consciousness-selecting-neural-patterns]] in three-layer model section
 - Added [[downward-causation]], [[phenomenology-of-choice]], [[mental-effort]] to frontmatter and Further Reading
 **Output**: reviews/deep-review-2026-01-26-dopamine-selection-interface.md
 **Notes**: First review. Article is well-structured with strong empirical grounding. Main philosophical challenge (neural determinism as alternative to consciousness) now addressed. MWI objection acknowledged as bedrock disagreement.

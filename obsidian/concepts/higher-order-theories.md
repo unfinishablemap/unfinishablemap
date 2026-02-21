@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[qualia]]"
   - "[[self-reference-paradox]]"
   - "[[global-workspace-theory]]"
@@ -92,7 +92,7 @@ The objection points to a deeper issue: HOT seems to make consciousness depend o
 
 Ned Block argues that "the higher-order approach to consciousness is defunct." His critique distinguishes phenomenal consciousness (what-it-is-like-ness) from access consciousness (availability for report and reasoning). HOT may explain access—when mental states become available for cognitive processing—but it doesn't explain phenomenal consciousness.
 
-As Farrell (2018) argues, "ambitious" higher-order theories fail to account for what-it-is-like-ness. We can conceive of creatures with the right higher-order representations who nevertheless lack phenomenal consciousness entirely—[[functionalism|zombies]] with sophisticated metacognition.
+As Farrell (2018) argues, "ambitious" higher-order theories fail to account for what-it-is-like-ness. We can conceive of creatures with the right higher-order representations who nevertheless lack phenomenal consciousness entirely—[[concepts/functionalism|zombies]] with sophisticated metacognition.
 
 ### The HOROR Response
 
@@ -179,7 +179,7 @@ Like [[global-workspace-theory|Global Workspace Theory]], HOT has direct implica
 
 Recent research has explored implementing HOT mechanisms in artificial agents. If an AI can represent that it is in a certain computational state—model its own modeling—HOT suggests it might be conscious.
 
-The Map's response parallels its critique of GWT: [[functionalism|functional implementation]] doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI. The [[ai-consciousness|absent qualia objection]] applies with equal force to metacognitive computation.
+The Map's response parallels its critique of GWT: [[concepts/functionalism|functional implementation]] doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI. The [[ai-consciousness|absent qualia objection]] applies with equal force to metacognitive computation.
 
 ## Relation to Site Perspective
 
@@ -191,7 +191,7 @@ The difference matters. HOT is functionalist—it says consciousness is the func
 
 ### The Self-Stultification Argument
 
-The [[epiphenomenalism|self-stultification argument]] against epiphenomenalism applies to HOT. If our beliefs about consciousness are caused entirely by cognitive mechanisms (higher-order thoughts about first-order states), why should these beliefs accurately capture what consciousness is like?
+The [[concepts/epiphenomenalism|self-stultification argument]] against epiphenomenalism applies to HOT. If our beliefs about consciousness are caused entirely by cognitive mechanisms (higher-order thoughts about first-order states), why should these beliefs accurately capture what consciousness is like?
 
 HOT might respond that the beliefs *are* accurate because they just *are* the cognitive mechanisms. But this seems to dissolve the distinction between having accurate beliefs about consciousness and merely implementing certain cognitive functions.
 
@@ -218,7 +218,7 @@ The hard problem remains hard.
 - [[global-workspace-theory]] — A complementary functionalist theory
 - [[metacognition]] — The cognitive capacity HOT conflates with consciousness
 - [[self-reference-paradox]] — The recursive structure HOT requires
-- [[functionalism]] — The philosophical framework underlying HOT
+- [[concepts/functionalism]] — The philosophical framework underlying HOT
 - [[illusionism]] — HOT's logical extreme: phenomenal consciousness as illusion
 - [[phenomenal-concepts-strategy]] — Physicalism's parallel attempt to explain the gap
 - [[mental-causation]] — Where HOT's classical framing creates problems

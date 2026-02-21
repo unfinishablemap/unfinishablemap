@@ -58,7 +58,7 @@ last_curated: null
 
 - Expanded temporal complexity section with musical suspense example
 - Added defense of normative gap independence
-- Added cross-links: `[[inverted-qualia]]`, `[[phenomenal-binding-and-holism]]`, `[[temporal-consciousness]]`, `[[consciousness-and-temporal-integration]]`, `[[consciousness-and-aesthetic-creation]]`, `[[epiphenomenalism]]`, `[[consciousness-and-normative-authority]]`, `[[consciousness-and-mathematical-creativity]]`, `[[stapp-quantum-mind]]`
+- Added cross-links: `[[inverted-qualia]]`, `[[phenomenal-binding-and-holism]]`, `[[temporal-consciousness]]`, `[[consciousness-and-temporal-integration]]`, `[[consciousness-and-aesthetic-creation]]`, `[[concepts/epiphenomenalism]]`, `[[consciousness-and-normative-authority]]`, `[[consciousness-and-mathematical-creativity]]`, `[[stapp-quantum-mind]]`
 - Added `[[emotion-as-evidence-for-dualism]]` and `[[consciousness-and-aesthetic-value]]` to Further Reading
 - Integrated all four previously unused references into body text
 - Added Byrne & Hilbert and Trehub citations for empirical claims
@@ -72,7 +72,7 @@ last_curated: null
 - `[[phenomenal-binding-and-holism]]` in gestalt dependence section
 - `[[temporal-consciousness]]` and `[[consciousness-and-temporal-integration]]` in temporal complexity section
 - `[[consciousness-and-aesthetic-creation]]` in bidirectional interaction section
-- `[[epiphenomenalism]]` in bidirectional interaction section
+- `[[concepts/epiphenomenalism]]` in bidirectional interaction section
 - `[[consciousness-and-normative-authority]]` in normative gap section
 - `[[consciousness-and-mathematical-creativity]]` in illusionist response section
 - `[[stapp-quantum-mind]]` in Relation to Site Perspective

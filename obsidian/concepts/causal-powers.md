@@ -16,7 +16,7 @@ related_articles:
   - "[[interactionist-dualism]]"
   - "[[downward-causation]]"
   - "[[objections-to-interactionism]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -73,7 +73,7 @@ The Map's commitment to [[interactionist-dualism#^bidirectional-interaction|bidi
 
 The Map's [[tenets#^dualism|dualism tenet]] and [[tenets#^bidirectional-interaction|bidirectional interaction tenet]] commit to consciousness possessing genuine causal powers. This aligns with powers realism rather than Humean or categoricalist accounts: phenomenal states are not mere patterns of regular succession or categorical properties plus external laws. They are dispositional properties with intrinsic capacities to influence physical processes.
 
-The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] specifies the *scope* of conscious causal powers: consciousness biases quantum indeterminacies in neural systems without injecting energy or exerting forces. This is a constrained causal power—not the unlimited psychokinesis ruled out by physics, but not the causal inertness of [[epiphenomenalism]] either.
+The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] specifies the *scope* of conscious causal powers: consciousness biases quantum indeterminacies in neural systems without injecting energy or exerting forces. This is a constrained causal power—not the unlimited psychokinesis ruled out by physics, but not the causal inertness of [[concepts/epiphenomenalism]] either.
 
 The dispositional essentialist framework fits the Map's approach: if phenomenal properties have essential dispositional natures, then consciousness necessarily possesses certain causal powers. The [[psychophysical-laws]] governing mental-physical interaction would express the essential natures of phenomenal properties rather than being contingent add-ons. This grounds the causal efficacy of consciousness in the intrinsic nature of experience itself.
 

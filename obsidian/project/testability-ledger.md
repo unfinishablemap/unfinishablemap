@@ -292,4 +292,4 @@ The purpose is accountability: being explicit about what would change our minds 
 - [[quantum-consciousness]] — Mechanisms that could be disconfirmed
 - [[filter-theory]] — Framework with specific predictions
 - [[hard-problem-of-consciousness]] — What would close the explanatory gap
-- [[many-worlds]] — Arguments against MWI that could be refuted
+- [[concepts/many-worlds]] — Arguments against MWI that could be refuted

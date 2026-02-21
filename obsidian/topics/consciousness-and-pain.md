@@ -12,7 +12,7 @@ topics:
   - "[[emotional-consciousness]]"
 concepts:
   - "[[mental-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[evolutionary-case-for-mental-causation]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[placebo-effect-and-mental-causation]]"
 ai_contribution: 100
 author:
@@ -53,7 +53,7 @@ A functionalist might object that if phenomenal character and causal role are in
 
 Pain's causal role extends beyond the moment of injury. The *anticipation* of pain—conscious dread of a future painful event—motivates behaviour before any nociceptive signal exists. A patient dreading a dental procedure changes behaviour for days or weeks in advance: cancelling appointments, losing sleep, altering plans. No tissue damage has occurred. No C-fibres are firing. What drives the avoidance is a phenomenal state—the imagined awfulness of future pain.
 
-This anticipatory dimension is difficult for [[epiphenomenalism]] to accommodate. If phenomenal consciousness merely accompanies physical processes without influencing them, then the dread of future pain must be doing its causal work entirely through subpersonal neural mechanisms that happen to correlate with the felt anxiety. But the content-specificity of anticipatory pain undermines this: people dread *specific* types of pain (dental drilling, not stubbing a toe), and their avoidance tracks the *imagined phenomenal quality* of the anticipated experience, not merely a generic threat assessment.
+This anticipatory dimension is difficult for [[concepts/epiphenomenalism]] to accommodate. If phenomenal consciousness merely accompanies physical processes without influencing them, then the dread of future pain must be doing its causal work entirely through subpersonal neural mechanisms that happen to correlate with the felt anxiety. But the content-specificity of anticipatory pain undermines this: people dread *specific* types of pain (dental drilling, not stubbing a toe), and their avoidance tracks the *imagined phenomenal quality* of the anticipated experience, not merely a generic threat assessment.
 
 The [[placebo-effect-and-mental-causation|placebo effect]] demonstrates a related point from the opposite direction. Expecting pain relief—a conscious belief about future phenomenal states—can produce measurable opioid release and genuine analgesia (though not all placebo analgesia is opioid-mediated). The *expectation of how things will feel* causally influences physiology. What a person consciously anticipates about their pain experience partly determines their pain experience. This closed loop between phenomenal expectation and phenomenal outcome is exactly what interactionist dualism predicts and epiphenomenalism struggles to explain.
 
@@ -106,9 +106,9 @@ The Map holds that the simpler explanation is correct: pain hurts *because* the 
 - [[consciousness-and-causal-powers]] — The nature and scope of consciousness's causal role
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires mental causation
 - [[placebo-effect-and-mental-causation]] — Content-specific beliefs causing physiological change
-- [[phenomenal-value-realism]] — How phenomenal properties ground objective value
+- [[topics/phenomenal-value-realism]] — How phenomenal properties ground objective value
 - [[mental-causation]] — The problem of how mind influences matter
-- [[epiphenomenalism]] — The view that consciousness has no causal efficacy
+- [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
 
 ## References
 

@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-20
-**Article**: [[many-worlds|The Many-Worlds Interpretation]]
+**Article**: [[concepts/many-worlds|The Many-Worlds Interpretation]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

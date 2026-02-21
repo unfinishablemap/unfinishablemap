@@ -10,7 +10,7 @@ topics:
 concepts:
   - "[[global-workspace-theory]]"
   - "[[attention]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100

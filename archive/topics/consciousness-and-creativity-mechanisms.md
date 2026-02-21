@@ -7,12 +7,12 @@ human_modified: null
 ai_modified: 2026-02-05T04:24:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[consciousness-and-creativity]]"
   - "[[attention-as-interface]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[duration]]"
   - "[[mental-causation]]"
   - "[[agent-causation]]"
@@ -39,7 +39,7 @@ The question matters because creativity presents a test case for the [[tenets#^b
 
 ## The Selection Mechanism: Quantum Zeno
 
-The [[consciousness-selecting-neural-patterns|quantum selection framework]] provides a candidate mechanism for how consciousness selects among creative possibilities. Through the quantum Zeno effect, rapid repeated observation holds quantum states from decohering, effectively "freezing" certain outcomes in place. Applied to neural systems:
+The [[concepts/consciousness-selecting-neural-patterns|quantum selection framework]] provides a candidate mechanism for how consciousness selects among creative possibilities. Through the quantum Zeno effect, rapid repeated observation holds quantum states from decohering, effectively "freezing" certain outcomes in place. Applied to neural systems:
 
 1. The brain presents quantum-superposed possibilities—multiple neural firing patterns exist in superposition
 2. Conscious attention constitutes rapid observation of these patterns
@@ -174,14 +174,14 @@ Current evidence doesn't support any of these conditions.
 
 **[[tenets#^dualism|Dualism]]:** Bergson's creative duration names what physical description cannot capture: the qualitative novelty of each conscious moment. If creative thought generates what didn't exist before—not merely rearranges pre-existing elements—then creativity has features irreducible to physical process. The mechanisms of generation may operate through neural substrates, but the generation itself is consciousness's contribution.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]:** The selection mechanism presupposes genuine collapse. If all quantum outcomes actualize in separate branches (as [[many-worlds]] holds), there's nothing for consciousness to select—every creative possibility is realized somewhere. The phenomenology of creative insight—this solution rather than that one—requires definite outcomes. Many-worlds makes creativity's felt selectivity an illusion of branch-locating rather than genuine choice.
+**[[tenets#^no-many-worlds|No Many Worlds]]:** The selection mechanism presupposes genuine collapse. If all quantum outcomes actualize in separate branches (as [[concepts/many-worlds]] holds), there's nothing for consciousness to select—every creative possibility is realized somewhere. The phenomenology of creative insight—this solution rather than that one—requires definite outcomes. Many-worlds makes creativity's felt selectivity an illusion of branch-locating rather than genuine choice.
 
 ## Further Reading
 
 - [[consciousness-and-creativity]] — The generation-selection synthesis in conceptual overview
 - [[creativity-and-novel-combination]] — How consciousness enables escaping the zone of latent solutions
 - [[attention-as-interface]] — Attention's role as the interface between consciousness and matter
-- [[consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
+- [[concepts/consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
 - [[duration]] — Bergson's lived time as inherently creative
 - [[agent-causation]] — Philosophical framework for mental causation including creative generation
 - [[mental-effort]] — The phenomenology of effort and its neural correlates

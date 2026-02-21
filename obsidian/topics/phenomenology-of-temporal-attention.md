@@ -74,7 +74,7 @@ The Map proposes that [[attention-as-interface|attention serves as the interface
 
 This temporal selection has consequences for how the interface might work. One speculative possibility—[[stapp-quantum-mind|Stapp's quantum Zeno framework]]—suggests that sustained attention stabilises desired neural patterns through repeated observation, with the *duration* of attention determining stabilisation strength. But regardless of the specific mechanism, the phenomenology of [[mental-effort|mental effort]] is clear: maintaining focus feels like work. Consciousness sustains its temporal engagement against the tendency of neural activity to shift—and the longer the sustaining, the greater the felt effort. This phenomenological datum stands independently of any particular physical mechanism proposed to explain it.
 
-The [[structure-of-attention|three modes of attention]]—exogenous (captured), instructed (cued), and willed (self-generated)—differ in their temporal reach. Exogenous attention is brief and reactive. Willed attention can be sustained indefinitely through effort. If consciousness operates through temporal selection, the willed mode—where duration is under conscious control—is where the interface is most active. This connects temporal attention to [[free-will|libertarian free will]]: the question of *how long* to persist with a course of action is itself a form of agentive determination not reducible to prior causes.
+The [[structure-of-attention|three modes of attention]]—exogenous (captured), instructed (cued), and willed (self-generated)—differ in their temporal reach. Exogenous attention is brief and reactive. Willed attention can be sustained indefinitely through effort. If consciousness operates through temporal selection, the willed mode—where duration is under conscious control—is where the interface is most active. This connects temporal attention to [[topics/free-will|libertarian free will]]: the question of *how long* to persist with a course of action is itself a form of agentive determination not reducible to prior causes.
 
 ## What Returning Attention Reveals
 
@@ -119,7 +119,7 @@ The phenomenology of temporal attention aligns with several of the Map's [[tenet
 - [[growing-block-universe-and-consciousness]]
 - [[phenomenology-of-anticipation]]
 - [[contemplative-evidence-for-consciousness-theories]]
-- [[free-will]]
+- [[topics/free-will]]
 
 ## References
 

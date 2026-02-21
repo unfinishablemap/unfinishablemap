@@ -51,7 +51,7 @@ The Map avoids crude substance dualism by treating the consciousness-brain inter
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [[free-will]] article provides the most philosophically careful treatment of libertarian free will I've encountered in popular consciousness studies. The distinction between agent-causal and event-causal libertarianism is preserved: "The agent as persisting substance directly causes choices, irreducible to prior mental events."
+The [[topics/free-will]] article provides the most philosophically careful treatment of libertarian free will I've encountered in popular consciousness studies. The distinction between agent-causal and event-causal libertarianism is preserved: "The agent as persisting substance directly causes choices, irreducible to prior mental events."
 
 The engagement with the luck objection is direct and serious. The response through agent causation—"The agent's exercise of causal power *is* the explanation"—respects the philosophical difficulty while providing a coherent framework.
 
@@ -91,7 +91,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 - **Notable quote**: "The witness concept points to what Dualism asserts: something beyond physical description. The witnessing perspective is not one more object in the physical world—it is the condition for there being objects of experience at all."
 - **Why it works**: Shows how millennia of contemplative investigation converge with contemporary philosophy and neuroscience.
 
-### [[free-will]]
+### [[topics/free-will]]
 
 - **Strongest point**: The phenomenological grounding of agent causation—the felt difference between choosing and observing is treated as evidence, not illusion.
 - **Notable quote**: "The philosophical core is agent causation: you (the persisting conscious subject) cause your choices. The physical implementation—how this causation interfaces with the brain—is a separate question."
@@ -139,7 +139,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 
 #### The Phenomenology of Aesthetic Appreciation
 
-- **Builds on**: [[aesthetic-dimension-of-consciousness]], [[qualia]], [[phenomenal-value-realism]]
+- **Builds on**: [[aesthetic-dimension-of-consciousness]], [[qualia]], [[topics/phenomenal-value-realism]]
 - **Would address**: What is it like to find something beautiful? Aesthetic experience has distinctive phenomenology—the appreciation of form, the resonance with meaning, the felt sense of rightness. Connects to phenomenal value realism: beauty may be intrinsically valuable because phenomenally real. Also relevant to consciousness-creativity connection.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (aesthetic qualia irreducible), connections to value theory
@@ -170,7 +170,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 | [[existentialism]] | [[phenomenology-of-choice]] | Sartre's analysis of choice directly relevant |
 | [[specious-present]] | [[temporal-consciousness]] | Currently separate—should explicitly connect |
 | [[semantic-memory]] | [[autonoetic-consciousness]] | Memory types and conscious awareness |
-| [[counterfactual-reasoning]] | [[free-will]] | Already connected but could be stronger |
+| [[counterfactual-reasoning]] | [[topics/free-will]] | Already connected but could be stronger |
 
 ## New Concept Pages Needed
 

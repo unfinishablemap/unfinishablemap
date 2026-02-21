@@ -24,7 +24,7 @@ concepts:
   - "[[natural-vs-designed-limits]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -273,7 +273,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [[phenomenology-of-choice]] — How choice phenomenology aligns with simulation over many-worlds
 - [[consciousness-as-amplifier]] — The interface between consciousness and neural processing
 - [[locality]] — How simulation reframes spatial coordination concerns
-- [[consciousness-selecting-neural-patterns]] — The broader question of quantum selection
+- [[concepts/consciousness-selecting-neural-patterns]] — The broader question of quantum selection
 - [[quantum-consciousness]] — Mechanisms for consciousness-physics interaction
 - [[quantum-interpretations]] — Why the Map favours single-outcome interpretations
 - [[measurement-problem]] — Where quantum indeterminacy meets observation

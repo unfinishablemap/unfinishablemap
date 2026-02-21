@@ -8,7 +8,7 @@ ai_modified: 2026-02-17T19:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[retrocausality]]"
   - "[[collapse-and-time]]"

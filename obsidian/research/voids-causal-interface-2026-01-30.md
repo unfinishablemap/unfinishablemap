@@ -8,7 +8,7 @@ draft: false
 target_section: voids
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"

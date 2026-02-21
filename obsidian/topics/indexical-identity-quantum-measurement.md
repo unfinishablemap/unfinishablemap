@@ -8,12 +8,12 @@ ai_modified: 2026-02-02T00:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[haecceity]]"
   - "[[quantum-consciousness]]"
   - "[[measurement-problem]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[mind-matter-interface]]"
   - "[[interactionist-dualism]]"
   - "[[quantum-probability-consciousness]]"
@@ -31,7 +31,7 @@ last_deep_review: 2026-01-31T01:00:00+00:00
 
 Every interpretation of quantum mechanics faces the same unresolved question: why does *this* particular consciousness experience *this* particular measurement outcome? The [[measurement-problem]] asks why we observe definite outcomes rather than superpositions. But even granting that definite outcomes occur, a deeper problem remains—what determines which outcome *I* experience, and why am *I* experiencing any outcome at all? This is the indexical gap, and it connects quantum mechanics directly to the [[hard-problem-of-consciousness]].
 
-The indexical gap reveals a blind spot across all major interpretations. [[#qbism|QBism]] treats probabilities as subjective beliefs but cannot explain why consciousness has determinate content to begin with. Consciousness-collapse theories explain how collapse happens but not why *this* consciousness exists to trigger it. [[many-worlds|Many-Worlds]] makes every outcome equally real yet requires an inexplicable primitive fact about which branch "I" occupy. [[#relational|Relational quantum mechanics]] denies consciousness any privileged role, treating "observer" as synonymous with "physical system." Each interpretation addresses the measurement problem while leaving the indexical problem untouched.
+The indexical gap reveals a blind spot across all major interpretations. [[#qbism|QBism]] treats probabilities as subjective beliefs but cannot explain why consciousness has determinate content to begin with. Consciousness-collapse theories explain how collapse happens but not why *this* consciousness exists to trigger it. [[concepts/many-worlds|Many-Worlds]] makes every outcome equally real yet requires an inexplicable primitive fact about which branch "I" occupy. [[#relational|Relational quantum mechanics]] denies consciousness any privileged role, treating "observer" as synonymous with "physical system." Each interpretation addresses the measurement problem while leaving the indexical problem untouched.
 
 ## The Indexical Problem Stated
 
@@ -168,7 +168,7 @@ This topic intersects all five tenets:
 - [[measurement-problem]] - Why definite outcomes occur
 - [[mind-matter-interface]] - How consciousness meets matter
 - [[interactionist-dualism]] - Causal connection between mind and body
-- [[free-will]] - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
+- [[topics/free-will]] - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 
 ## References
 

@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-01
-**Article**: [[materialism|Materialism]]
+**Article**: [[concepts/materialism|Materialism]]
 **Previous review**: [[deep-review-2026-01-22-materialism|2026-01-22]]
 
 ## Pessimistic Analysis Summary

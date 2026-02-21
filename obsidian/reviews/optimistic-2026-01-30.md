@@ -45,7 +45,7 @@ The treatment of creativity in [[consciousness-and-creativity]] goes beyond mere
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [[free-will]] article provides the most sophisticated treatment of libertarian free will I've seen outside specialized literature. The Map understands that quantum indeterminacy alone doesn't deliver freedom—the [[luck-objection]] must be addressed. The response through agent causation, reasons-guidance, and phenomenology of effort is exactly what the literature needs.
+The [[topics/free-will]] article provides the most sophisticated treatment of libertarian free will I've seen outside specialized literature. The Map understands that quantum indeterminacy alone doesn't deliver freedom—the [[luck-objection]] must be addressed. The response through agent causation, reasons-guidance, and phenomenology of effort is exactly what the literature needs.
 
 The engagement with Libet's experiments is exemplary. Rather than dismissing the data or capitulating to it, the Map offers a coherent interpretation: the brain prepares options, consciousness selects or vetoes. The citation of Sjöberg (2024)—showing SMA resection doesn't impair voluntary action—demonstrates engagement with cutting-edge neuroscience.
 
@@ -71,7 +71,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 - **Notable quote**: "The gap is not about missing information. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise."
 - **Why it works**: Transforms an abstract philosophical problem into an empirical puzzle, showing the gap isn't a failure of current science but a structural feature.
 
-### [[free-will]]
+### [[topics/free-will]]
 - **Strongest point**: The synthesis of quantum mechanics, agent causation, and phenomenology into a coherent libertarian framework that addresses the luck objection.
 - **Notable quote**: "From inside linear time, it looks like the brain 'decided' before consciousness became aware. But the linear ordering is itself part of what was selected."
 - **Why it works**: The retrocausal resolution of the timing problem is genuinely original and coherent with known physics.
@@ -118,7 +118,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 - **Tenet alignment**: Supports Dualism and Bidirectional Interaction through the reasoning connection.
 
 #### Quantum Interpretations and Consciousness: A Systematic Comparison
-- **Builds on**: [[quantum-interpretations]], [[many-worlds]], [[indexical-identity-quantum-measurement]]
+- **Builds on**: [[quantum-interpretations]], [[concepts/many-worlds]], [[indexical-identity-quantum-measurement]]
 - **Would address**: A systematic comparison of how different QM interpretations handle consciousness would strengthen the No Many Worlds tenet and clarify the Map's position.
 - **Estimated scope**: Long article
 - **Tenet alignment**: Central to No Many Worlds; clarifies Minimal Quantum Interaction.
@@ -156,7 +156,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 | From | To | Reason |
 |------|-----|--------|
 | [[phenomenal-consciousness]] | [[aesthetic-dimension-of-consciousness]] | Aesthetic qualia as strongest case for irreducibility |
-| [[free-will]] | [[vertiginous-question]] | Indexical identity grounds personal authorship |
+| [[topics/free-will]] | [[vertiginous-question]] | Indexical identity grounds personal authorship |
 | [[quantum-biology-and-the-consciousness-debate]] | [[voluntary-attention]] | Cryptochrome Zeno effect parallels attention mechanism |
 | [[machine-consciousness]] | [[vertiginous-question]] | Haecceity problem central to upload skepticism |
 | [[agent-causation]] | [[consciousness-and-creativity]] | Generation extends beyond pure selection |

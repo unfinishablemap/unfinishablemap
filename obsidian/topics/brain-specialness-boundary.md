@@ -8,7 +8,7 @@ ai_modified: 2026-02-05T15:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
@@ -112,7 +112,7 @@ Three responses:
 
 The brain specialness boundary isn't a minor technical point. It addresses a fundamental challenge to [[interactionist-dualism]]:
 
-If consciousness affects nothing, [[epiphenomenalism]] follows—but epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness).
+If consciousness affects nothing, [[concepts/epiphenomenalism]] follows—but epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness).
 
 If consciousness affects everything, parapsychology follows—but parapsychological effects aren't reliably demonstrated.
 

@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-03T12:10:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[mental-effort]]"
@@ -193,7 +193,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 
 ## Further Reading
 
-- [[free-will]] — The broader debate and the Map's position
+- [[topics/free-will]] — The broader debate and the Map's position
 - [[agent-causation]] — Why choice requires agents, not just events
 - [[mental-effort]] — The quantum Zeno mechanism and why effort should feel like work
 - [[voluntary-attention]] — Neural signatures of genuine choosing

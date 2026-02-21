@@ -8,13 +8,13 @@ ai_modified: 2026-02-03T13:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-coupling]]"
   - "[[psychophysical-laws]]"
   - "[[evolution-of-consciousness]]"
   - "[[dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[qualia]]"
   - "[[neural-correlates-of-consciousness]]"
@@ -43,7 +43,7 @@ related_articles:
   - "[[conservation-laws-and-mind]]"
   - "[[interactionist-dualism-2026-01-06]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -54,7 +54,7 @@ coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
 
-Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This is a variant of [[dualism]] that distinguishes it from [[epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
+Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This is a variant of [[dualism]] that distinguishes it from [[concepts/epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
 
 This position forms the core of The Unfinishable Map's [[tenets|philosophical framework]]. The [[tenets#^dualism|Dualism]] tenet affirms irreducibility; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms causal efficacy; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies where such causation could occur.
 
@@ -84,7 +84,7 @@ René Descartes established the classic formulation: mind (res cogitans) and bod
 
 Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. See [[conservation-laws-and-mind]] for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
 
-Meanwhile, [[epiphenomenalism]] faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [[mental-causation|self-stultification argument]] shows that denying mental causation is epistemically self-defeating—your belief that you're in pain must be caused by your pain.
+Meanwhile, [[concepts/epiphenomenalism]] faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [[mental-causation|self-stultification argument]] shows that denying mental causation is epistemically self-defeating—your belief that you're in pain must be caused by your pain.
 
 ## The Cumulative Case for Interactionism
 
@@ -106,7 +106,7 @@ Seven arguments converge on the interactionist conclusion. Each has its own dedi
 
 ## The Causal Closure Argument
 
-The contemporary interaction problem centers on [[causal-closure|causal closure]]. Kim's exclusion argument: (1) every physical event has a sufficient physical cause; (2) mental events cause physical effects; (3) no systematic overdetermination; (4) mental properties aren't physical. These premises are inconsistent—Kim concludes mental properties must be either physical (reductionism) or inert ([[epiphenomenalism]]).
+The contemporary interaction problem centers on [[causal-closure|causal closure]]. Kim's exclusion argument: (1) every physical event has a sufficient physical cause; (2) mental events cause physical effects; (3) no systematic overdetermination; (4) mental properties aren't physical. These premises are inconsistent—Kim concludes mental properties must be either physical (reductionism) or inert ([[concepts/epiphenomenalism]]).
 
 Two responses address the exclusion argument:
 
@@ -164,7 +164,7 @@ Interactionism is compatible with different dualist ontologies (see [[substance-
 
 **Substance dualism**: Mind and body are different *kinds of thing*—distinct substances. Modern defenders argue quantum mechanics resolves the classical interaction problem.
 
-**Property dualism**: Mental properties are distinct from physical properties, but don't require separate substances. However, property dualism risks sliding toward [[epiphenomenalism]]—if mental properties are merely properties of physical systems, they may seem causally redundant.
+**Property dualism**: Mental properties are distinct from physical properties, but don't require separate substances. However, property dualism risks sliding toward [[concepts/epiphenomenalism]]—if mental properties are merely properties of physical systems, they may seem causally redundant.
 
 The Map is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
 
@@ -198,7 +198,7 @@ The [[evolution-of-consciousness|evolution of consciousness]] poses no special p
 
 Interactionist dualism faces real challenges: the decoherence objection is empirical, and the mechanism remains partly speculative.
 
-But alternatives face worse problems. [[epiphenomenalism|Epiphenomenalism]] is self-undermining. Identity theory cannot explain why there is something it is like to see red. [[functionalism|Functionalism]] struggles with absent [[qualia]]. Interactionism's puzzles are empirical and may yield to investigation; physicalist puzzles are conceptual and show no sign of resolution.
+But alternatives face worse problems. [[concepts/epiphenomenalism|Epiphenomenalism]] is self-undermining. Identity theory cannot explain why there is something it is like to see red. [[concepts/functionalism|Functionalism]] struggles with absent [[qualia]]. Interactionism's puzzles are empirical and may yield to investigation; physicalist puzzles are conceptual and show no sign of resolution.
 
 Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies. Whether correct is open; that it is *coherent* reopens possibilities that seemed closed for centuries.
 
@@ -220,7 +220,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[causal-closure]] — The closure objection and responses
 
 **Related topics:**
-- [[mental-causation]], [[agent-causation]], [[emergence]], [[epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]]
+- [[mental-causation]], [[agent-causation]], [[emergence]], [[concepts/epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]]
 
 ## References
 

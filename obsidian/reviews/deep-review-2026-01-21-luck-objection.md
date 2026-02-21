@@ -75,7 +75,7 @@ last_curated: null
 - [[witness-consciousness]]
 - [[haecceity]]
 - [[decoherence]]
-- [[many-worlds]]
+- [[concepts/many-worlds]]
 - [[buddhism-and-dualism]]
 
 ## Remaining Items

@@ -9,12 +9,12 @@ last_deep_review: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[dualism]]"
   - "[[causal-closure]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[emergence]]"
   - "[[mental-causation]]"
@@ -80,7 +80,7 @@ Jaegwon Kim's causal exclusion argument crystallized the problem for any view ac
 3. Mental causes don't systematically overdetermine effects
 4. Therefore mental causes must be physical causes
 
-Dualists faced a dilemma: either mental causation is illusory ([[epiphenomenalism]]), or causal closure is false. Neither option seemed viable. Epiphenomenalism makes consciousness a useless passenger; denying causal closure seems to conflict with physics.
+Dualists faced a dilemma: either mental causation is illusory ([[concepts/epiphenomenalism]]), or causal closure is false. Neither option seemed viable. Epiphenomenalism makes consciousness a useless passenger; denying causal closure seems to conflict with physics.
 
 ## The Quantum Opening (1930s–Present)
 
@@ -136,7 +136,7 @@ The Unfinishable Map's [[tenets]] embody the interactionist position as it stand
 
 The **Dualism tenet** affirms what Descartes established: consciousness is not reducible to physical processes. The arguments for this—the [[explanatory-gap]], the [[knowledge-argument]], the conceivability of [[philosophical-zombies]]—have only strengthened as neuroscience advances without dissolving the hard problem.
 
-The **Bidirectional Interaction tenet** affirms what Elizabeth questioned: consciousness causally influences the physical world. The [[epiphenomenalism|self-stultification argument]] shows that denying this leads to incoherence—we could not reliably discuss consciousness if consciousness caused nothing.
+The **Bidirectional Interaction tenet** affirms what Elizabeth questioned: consciousness causally influences the physical world. The [[concepts/epiphenomenalism|self-stultification argument]] shows that denying this leads to incoherence—we could not reliably discuss consciousness if consciousness caused nothing.
 
 The **Minimal Quantum Interaction tenet** specifies how interaction might occur in light of what quantum mechanics revealed: by biasing otherwise indeterminate outcomes, not by injecting energy. This answers Leibniz's objection while preserving everything physics has established about conservation.
 

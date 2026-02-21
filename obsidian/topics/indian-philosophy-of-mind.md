@@ -15,7 +15,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[substance-property-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[filter-theory]]"
   - "[[agent-causation]]"
   - "[[process-philosophy]]"

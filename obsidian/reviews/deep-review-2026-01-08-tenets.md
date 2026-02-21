@@ -118,7 +118,7 @@ In Minimal Quantum Interaction section:
 - Link to interactionist-dualism research notes
 
 In Bidirectional Interaction section:
-- Link to [[free-will]] (new topic)
+- Link to [[topics/free-will]] (new topic)
 
 ### Enhancement 2: Brief Decoherence Mention
 Add to Minimal Quantum Interaction:

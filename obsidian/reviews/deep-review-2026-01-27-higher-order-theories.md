@@ -60,7 +60,7 @@ last_curated: null
 - [[illusionism]] — Logical extreme of HOT
 - [[phenomenal-concepts-strategy]] — Parallel physicalist strategy
 - [[mental-causation]] — Where classical framing fails
-- [[functionalism]], [[qualia]], [[self-reference-paradox]], [[global-workspace-theory]], [[metacognition]]
+- [[concepts/functionalism]], [[qualia]], [[self-reference-paradox]], [[global-workspace-theory]], [[metacognition]]
 
 ## Remaining Items
 

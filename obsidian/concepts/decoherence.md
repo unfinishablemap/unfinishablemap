@@ -24,7 +24,7 @@ concepts:
   - "[[quantum-neural-mechanisms]]"
   - "[[quantum-biology]]"
   - "[[mysterianism]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
@@ -209,7 +209,7 @@ The Map's position on decoherence would face serious difficulty if:
 
 3. **Neural quantum effects are conclusively ruled out**: If experiments definitively demonstrate that no quantum effects survive in neural tissue—not in microtubules, not in nuclear spins, not anywhere—the physical basis for quantum consciousness collapses. Current evidence is mixed but increasingly favourable; a decisive negative result would require major revision.
 
-4. **Many-Worlds becomes the consensus interpretation**: While MWI and Copenhagen are empirically equivalent under standard formulations, if physicists converged on MWI as the correct interpretation—perhaps through theoretical parsimony or derivation of the Born rule—then all outcomes occur and "selection" becomes illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet would fail. The [[many-worlds|Many-Worlds Interpretation]] dissolves the role of consciousness in outcome selection: if all outcomes happen, consciousness doesn't select anything—it merely labels after the fact which branch "we" are in. This makes [[tenets#^bidirectional-interaction|Bidirectional Interaction]] incoherent.
+4. **Many-Worlds becomes the consensus interpretation**: While MWI and Copenhagen are empirically equivalent under standard formulations, if physicists converged on MWI as the correct interpretation—perhaps through theoretical parsimony or derivation of the Born rule—then all outcomes occur and "selection" becomes illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet would fail. The [[concepts/many-worlds|Many-Worlds Interpretation]] dissolves the role of consciousness in outcome selection: if all outcomes happen, consciousness doesn't select anything—it merely labels after the fact which branch "we" are in. This makes [[tenets#^bidirectional-interaction|Bidirectional Interaction]] incoherent.
 
 5. **Decoherence solves the measurement problem**: If a fully satisfactory account of definite outcomes emerges that requires only decoherence (no consciousness, no objective collapse, no hidden variables), the logical opening for consciousness at collapse closes. Current physics doesn't provide this—decoherence selects bases, not outcomes—but future developments could change the landscape.
 
@@ -227,7 +227,7 @@ This article surveys four responses:
 
 **Fourth**, corrected calculations and revised timescale requirements substantially narrow the gap. Tegmark's original critique rested on parameters that Orch OR does not assume, and Bandyopadhyay's discovery of higher-frequency microtubule oscillations reduces required coherence times to ranges approaching experimental feasibility.
 
-The neural decision windows (280–300ms) are precisely the timescales where [[free-will]] would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [[agent-causation]]—genuine authorship of decisions rather than passive observation of predetermined neural activity. The [[argument-from-reason]] strengthens the case: if genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism.
+The neural decision windows (280–300ms) are precisely the timescales where [[topics/free-will]] would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [[agent-causation]]—genuine authorship of decisions rather than passive observation of predetermined neural activity. The [[argument-from-reason]] strengthens the case: if genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism.
 
 The decoherence objection is a serious empirical challenge, not a philosophical refutation. Recent experiments have weakened it considerably. The quantum-classical boundary keeps receding, and no principled barrier has been found. The Map's tenets remain defensible: consciousness operating at quantum indeterminacies is not ruled out by current physics.
 
@@ -246,8 +246,8 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is releva
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort
 - [[illusionism]] — The eliminativist challenge to consciousness studies
 - [[mysterianism]] — Cognitive closure and the limits of human understanding
-- [[many-worlds]] — Arguments against the interpretation that dissolves the measurement problem differently
-- [[free-will]] — How quantum indeterminacy might ground libertarian agency
+- [[concepts/many-worlds]] — Arguments against the interpretation that dissolves the measurement problem differently
+- [[topics/free-will]] — How quantum indeterminacy might ground libertarian agency
 - [[argument-from-reason]] — Why rational thought may require consciousness to have causal efficacy
 - [[interactionist-dualism]] — The broader framework
 - [[tenets]] — the Map's foundational commitments

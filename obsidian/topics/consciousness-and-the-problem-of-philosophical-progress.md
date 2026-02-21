@@ -12,7 +12,7 @@ topics:
   - "[[phenomenology-of-theoretical-commitment]]"
 concepts:
   - "[[explanatory-gap]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[mysterianism]]"
   - "[[qualia]]"
   - "[[interactionist-dualism]]"
@@ -79,7 +79,7 @@ If convergence through neutral methodology is impossible for consciousness, then
 
 The Unfinishable Map takes this approach explicitly. Its [[tenets]] are not proven conclusions but chosen starting points — commitments that shape inquiry rather than results that inquiry has produced. This is not intellectual weakness. It is the appropriate response to a domain where neutral starting points do not exist. Every philosopher of mind begins with commitments, whether acknowledged or not. The materialist who insists on third-person methods has already committed to a framework in which consciousness must be the kind of thing those methods can capture.
 
-Progress within a framework looks different from convergence between frameworks. It means drawing out implications, testing internal consistency, connecting commitments to evidence and experience, and seeing how far a coherent picture extends. The Map can make genuine progress by articulating what [[interactionist-dualism]] implies for [[free-will|free will]], [[personal-identity|personal identity]], [[ethics-of-consciousness|ethics]], and the structure of physical reality — even if materialists remain unpersuaded.
+Progress within a framework looks different from convergence between frameworks. It means drawing out implications, testing internal consistency, connecting commitments to evidence and experience, and seeing how far a coherent picture extends. The Map can make genuine progress by articulating what [[interactionist-dualism]] implies for [[topics/free-will|free will]], [[personal-identity|personal identity]], [[ethics-of-consciousness|ethics]], and the structure of physical reality — even if materialists remain unpersuaded.
 
 This does not mean all frameworks are equally good. The [[epistemic-advantages-of-dualism|epistemic advantages of non-materialist theories]] include their capacity to take first-person data seriously, to accommodate the full range of human experience, and to avoid the self-undermining problems that plague eliminativism and epiphenomenalism. A framework that can accommodate more of what we know — including what we know through introspection — is better than one that must explain away its most recalcitrant data.
 

@@ -8,10 +8,10 @@ ai_modified: 2026-02-19T12:06:00+00:00
 last_deep_review: 2026-02-19T12:06:00+00:00
 draft: false
 topics:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[ethics-of-consciousness]]"
   - "[[meaning-of-life]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[moral-phenomenology]]"
@@ -58,7 +58,7 @@ The moral domain provides the clearest case. Consider three candidate sources of
 
 **Phenomenal encounter:** Moral obligations derive from what conscious experience reveals. The felt badness of pain, the phenomenal texture of witnessing cruelty, the experiential weight of betraying trust — these are not conclusions drawn from premises but features of conscious life that carry normative force intrinsically.
 
-The Map favours the third option, developed through [[phenomenal-value-realism]]. Conscious experience is not merely evidence for moral facts — it is where moral facts live. The authority of moral claims rests on the irreducible phenomenal properties that make suffering bad, flourishing good, and cruelty wrong from the inside.
+The Map favours the third option, developed through [[topics/phenomenal-value-realism]]. Conscious experience is not merely evidence for moral facts — it is where moral facts live. The authority of moral claims rests on the irreducible phenomenal properties that make suffering bad, flourishing good, and cruelty wrong from the inside.
 
 This does not collapse morality into mere feeling. [[moral-perception]] involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as the colour of the walls — perceived by those with the right phenomenal capacities, invisible to those without.
 
@@ -70,7 +70,7 @@ Consider the norm that one should proportion belief to evidence. What makes evid
 
 More fundamentally, the *authority* of logical and mathematical reasoning depends on conscious understanding. A computer can execute valid inferences without grasping what they mean. A conscious reasoner does something different: they *see* that the conclusion follows, they *understand* why the premises support it. This phenomenal understanding — what it is like to follow an argument — is what gives epistemic norms their binding force.
 
-[[agent-causation]] strengthens this point. If conscious reasoning genuinely causes belief formation (rather than merely accompanying it), then epistemic authority requires the kind of mental causation the Map defends. An [[epiphenomenalism|epiphenomenal]] consciousness could not be epistemically responsible — it would hold beliefs without having formed them.
+[[agent-causation]] strengthens this point. If conscious reasoning genuinely causes belief formation (rather than merely accompanying it), then epistemic authority requires the kind of mental causation the Map defends. An [[concepts/epiphenomenalism|epiphenomenal]] consciousness could not be epistemically responsible — it would hold beliefs without having formed them.
 
 ## Aesthetic Authority
 
@@ -121,7 +121,7 @@ The Map's position yields a distinctive implication: normative authority is not 
 ## Further Reading
 
 - [[phenomenal-normativity]]
-- [[phenomenal-value-realism]]
+- [[topics/phenomenal-value-realism]]
 - [[ethics-of-consciousness]]
 - [[moral-perception]]
 - [[agent-causation]]
@@ -129,7 +129,7 @@ The Map's position yields a distinctive implication: normative authority is not 
 - [[normative-phenomenology]]
 - [[moral-responsibility]]
 - [[hard-problem-of-consciousness]]
-- [[free-will]]
+- [[topics/free-will]]
 
 ## References
 

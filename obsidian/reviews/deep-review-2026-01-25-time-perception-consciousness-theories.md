@@ -73,7 +73,7 @@ last_curated: null
 ### Cross-links Added
 
 - [[phenomenology-of-choice]] - agency and temporal structure
-- [[free-will]] - temporal agency
+- [[topics/free-will]] - temporal agency
 - [[agent-causation]] - self as originator in time
 - [[illusionism]] - challenge to temporal phenomenology
 - [[philosophy-of-time]] - A-theory, B-theory

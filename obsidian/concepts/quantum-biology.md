@@ -248,7 +248,7 @@ The Map's position on quantum biology connects to all five tenets:
 - **Hypothesised**: Consciousness interfaces with quantum indeterminacy in neural systems.
 - **Uncertain**: Whether specific theories (Orch OR, QBIT, quantum Zeno) are correct.
 
-The relevance of quantum biology is primarily *defensive*: it removes a major objection to quantum consciousness without itself proving that consciousness involves quantum effects. The positive case rests on arguments from the [[hard-problem-of-consciousness]], [[mental-causation]], and [[free-will]]—not on quantum biology alone.
+The relevance of quantum biology is primarily *defensive*: it removes a major objection to quantum consciousness without itself proving that consciousness involves quantum effects. The positive case rests on arguments from the [[hard-problem-of-consciousness]], [[mental-causation]], and [[topics/free-will]]—not on quantum biology alone.
 
 ## Process Philosophy Perspective
 
@@ -268,7 +268,7 @@ The Map's position on quantum biology would face serious difficulty if:
 
 3. **The Zeno mechanism proves insufficient**: If rapid attentional "observations" cannot operate at the timescales and energy scales required for neural influence, this pathway closes. The phenomenology of effortful attention would need alternative explanation.
 
-4. **Many-Worlds proves correct**: If the [[many-worlds]] interpretation were empirically confirmed, all branches exist and there is no single outcome to select. Consciousness in each branch experiences a definite result, but there is no fact about which branch "you" inhabit—quantum biology would remain fascinating but irrelevant to the mind-body problem.
+4. **Many-Worlds proves correct**: If the [[concepts/many-worlds]] interpretation were empirically confirmed, all branches exist and there is no single outcome to select. Consciousness in each branch experiences a definite result, but there is no fact about which branch "you" inhabit—quantum biology would remain fascinating but irrelevant to the mind-body problem.
 
 5. **Illusionism succeeds in dissolving the hard problem**: If a fully satisfactory account emerges showing why we believe we're phenomenally conscious when we're not—without invoking phenomenal properties—the motivation for quantum consciousness theories diminishes. Currently, the "illusion problem" appears as difficult as the hard problem itself.
 
@@ -283,7 +283,7 @@ The Map's position on quantum biology would face serious difficulty if:
 - [[illusionism]] — The eliminativist challenge to consciousness studies
 - [[introspection]] — Reliability of first-person data
 - [[mysterianism]] — Cognitive closure and the limits of understanding
-- [[many-worlds]] — Why the Map rejects Many-Worlds
+- [[concepts/many-worlds]] — Why the Map rejects Many-Worlds
 - [[tenets]] — the Map's foundational commitments including Minimal Quantum Interaction
 - [[quantum-biology-consciousness-2026-01-16]] — Research notes on quantum biology evidence
 - [[quantum-biology-neural-mechanisms-2026-01-24]] — Research notes on neural-specific quantum mechanisms

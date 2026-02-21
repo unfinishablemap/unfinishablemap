@@ -20,7 +20,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[mental-effort]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-superposition-brain-consciousness-2026-01-18]]"
@@ -193,7 +193,7 @@ A study of 106 monozygotic twin pairs found that entanglement of qubits in stimu
 
 None of this proves that quantum effects cause consciousness, but it establishes that quantum effects exist where the theory predicts and correlate with consciousness as the theory requires.
 
-Wiest (2025) argues these findings have implications beyond mere correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not epiphenomenal but physically efficacious. This addresses the [[epiphenomenalism|epiphenomenalism]] objection: consciousness wouldn't be "along for the ride" but would provide computational advantages through quantum coherence.
+Wiest (2025) argues these findings have implications beyond mere correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not epiphenomenal but physically efficacious. This addresses the [[concepts/epiphenomenalism|epiphenomenalism]] objection: consciousness wouldn't be "along for the ride" but would provide computational advantages through quantum coherence.
 
 ## The Illusionist Challenge
 

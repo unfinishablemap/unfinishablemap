@@ -7,14 +7,14 @@ human_modified:
 ai_modified: 2026-02-03T15:07:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[voluntary-attention]]"
   - "[[mental-effort]]"
   - "[[agent-causation]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[phenomenology-of-choice]]"
   - "[[working-memory]]"
@@ -209,9 +209,9 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 - [[voluntary-attention]] — The neural signatures of willed versus automatic attention
 - [[mental-effort]] — The phenomenology of attentional work
 - [[meditation-and-consciousness-modes]] — How contemplative practice trains attentional capacities
-- [[consciousness-selecting-neural-patterns]] — The mechanism by which attention shapes neural outcomes
+- [[concepts/consciousness-selecting-neural-patterns]] — The mechanism by which attention shapes neural outcomes
 - [[working-memory]] — The "liquid assets" of attentional capital
-- [[free-will]] — The broader framework of agency and determinism
+- [[topics/free-will]] — The broader framework of agency and determinism
 
 ## References
 

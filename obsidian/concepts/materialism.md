@@ -23,13 +23,13 @@ concepts:
   - "[[introspection]]"
   - "[[combination-problem]]"
   - "[[panpsychism]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[argument-from-reason]]"
   - "[[phenomenology]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epiphenomenalism]]"
-  - "[[functionalism]]"
+  - "[[concepts/epiphenomenalism]]"
+  - "[[concepts/functionalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -68,7 +68,7 @@ The radical option: consciousness as we conceive it doesn't exist. Our folk-psyc
 
 The appeal: no hard problem if there's no consciousness to explain. The problem vanishes because its subject matter vanishes.
 
-The problem: eliminativism seems to deny the obvious. There is [[phenomenology|something it is like]] to read these words. Eliminativists respond that functional states can be acknowledged without the folk psychological framework of "experiences" and "qualia"—but this response merely pushes back the question: what explains the differential processing that constitutes the illusion of rich qualitative character? The position risks self-undermining in a way similar to [[epiphenomenalism]].
+The problem: eliminativism seems to deny the obvious. There is [[phenomenology|something it is like]] to read these words. Eliminativists respond that functional states can be acknowledged without the folk psychological framework of "experiences" and "qualia"—but this response merely pushes back the question: what explains the differential processing that constitutes the illusion of rich qualitative character? The position risks self-undermining in a way similar to [[concepts/epiphenomenalism]].
 
 ### Illusionism
 
@@ -169,13 +169,13 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 **[[Dualism]]** is accepted because materialism fails. Physical descriptions leave the [[explanatory-gap|explanatory gap]]; physical facts don't entail experiential facts; [[qualia]] resist physical characterization. Consciousness must be something beyond the physical. See [[dualism]] for the positive case.
 
-**Bidirectional Interaction** is needed because rejecting materialism could lead to [[epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
+**Bidirectional Interaction** is needed because rejecting materialism could lead to [[concepts/epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 
 **Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
 
 **Occam's Razor Has Limits** explains why materialism's apparent simplicity is misleading. Materialism seems simpler because it ignores what it cannot explain. True simplicity is not achieved by denying recalcitrant phenomena.
 
-**No Many Worlds** matters here because the [[many-worlds|many-worlds interpretation]] of quantum mechanics is often presented as supporting materialism by eliminating the need for consciousness at collapse. If all outcomes occur in branching universes, no selection is needed—and thus no role for consciousness. But this "solution" merely relocates the hard problem: why am I experiencing *this* branch and not another? The indexical question about which branch I find myself in is as mysterious as the original question about why there is experience at all. Materialism gains nothing by trading the hard problem for the indexical problem.
+**No Many Worlds** matters here because the [[concepts/many-worlds|many-worlds interpretation]] of quantum mechanics is often presented as supporting materialism by eliminating the need for consciousness at collapse. If all outcomes occur in branching universes, no selection is needed—and thus no role for consciousness. But this "solution" merely relocates the hard problem: why am I experiencing *this* branch and not another? The indexical question about which branch I find myself in is as mysterious as the original question about why there is experience at all. Materialism gains nothing by trading the hard problem for the indexical problem.
 
 ## What Would Challenge This View?
 
@@ -194,13 +194,13 @@ None currently obtains, and each faces significant challenges. Materialism remai
 - [[philosophical-zombies]] — The zombie argument against materialism in detail
 - [[hard-problem-of-consciousness]] — The problem materialism cannot solve
 - [[idealism]] — Idealism's challenge to both materialism and dualism
-- [[epiphenomenalism]] — What happens if you accept the gap but deny mental causation
+- [[concepts/epiphenomenalism]] — What happens if you accept the gap but deny mental causation
 - [[illusionism]] — Materialism's most radical response to the hard problem
-- [[functionalism]] — A materialist theory the Map rejects
+- [[concepts/functionalism]] — A materialist theory the Map rejects
 - [[mysterianism]] — The cognitive closure hypothesis and its implications
 - [[introspection]] — The reliability debate about first-person access
 - [[panpsychism]] — An alternative that avoids the emergence problem
-- [[many-worlds]] — Why MWI doesn't rescue materialism from the hard problem
+- [[concepts/many-worlds]] — Why MWI doesn't rescue materialism from the hard problem
 - [[tenets]] — the Map's alternative framework
 
 ## References

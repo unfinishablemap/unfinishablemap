@@ -10,7 +10,7 @@ topics:
 concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100

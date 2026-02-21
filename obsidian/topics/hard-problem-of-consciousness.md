@@ -11,13 +11,13 @@ concepts:
   - "[[minimal-consciousness]]"
   - "[[dualism]]"
   - "[[qualia]]"
-  - "[[epiphenomenalism]]"
-  - "[[functionalism]]"
+  - "[[concepts/epiphenomenalism]]"
+  - "[[concepts/functionalism]]"
   - "[[apophatic-approaches]]"
   - "[[thoughts-that-slip-away]]"
   - "[[explanatory-gap]]"
   - "[[reductionism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[binding-problem]]"
@@ -51,7 +51,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[integrated-information-theory]]"
   - "[[integrated-information-theory-critique]]"
   - "[[quantum-consciousness]]"
@@ -191,7 +191,7 @@ Research on [[neural-correlates-of-consciousness|neural correlates of consciousn
 
 ### Materialist Responses
 
-[[materialism|Materialism]] offers several responses, none satisfying:
+[[concepts/materialism|Materialism]] offers several responses, none satisfying:
 
 **Eliminativism** denies the explanandum—but this denies what is most evident: that there is something it is like to read these words.
 
@@ -201,7 +201,7 @@ Research on [[neural-correlates-of-consciousness|neural correlates of consciousn
 
 **[[predictive-processing|Predictive processing]]** explains much about cognitive mechanisms, yet even proponents acknowledge it "makes no claims about subjective experience." Explaining that perception is predictive doesn't explain why prediction feels like anything.
 
-See [[materialism]] for detailed treatment of each position.
+See [[concepts/materialism]] for detailed treatment of each position.
 
 ### Substrate Independence Fails
 
@@ -211,7 +211,7 @@ Block's China brain illustrates: the entire population implementing a brain's fu
 
 ### Epiphenomenalism
 
-[[epiphenomenalism|Epiphenomenalism]] accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. See the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
+[[concepts/epiphenomenalism|Epiphenomenalism]] accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. See the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
 ### Integrated Information Theory
 
@@ -275,7 +275,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 ### On the Map
 - [[dualism]] — Foundational overview: what dualism claims, main varieties, and converging arguments
 - [[explanatory-gap]] — Levine's formulation and physicalist responses
-- [[materialism]] — Why physicalist explanations fail
+- [[concepts/materialism]] — Why physicalist explanations fail
 - [[substrate-independence-critique]] — Why the hard problem entails substrate skepticism
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[mysterianism]] — McGinn's cognitive closure thesis

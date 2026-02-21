@@ -9,10 +9,10 @@ draft: false
 last_deep_review: 2026-02-02T17:57:00+00:00
 topics:
   - "[[dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
 concepts:
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[causal-closure]]"
   - "[[the-case-for-dualism]]"
   - "[[explanatory-gap]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[self-stultification]]"
   - "[[reasons-responsiveness]]"
 related_articles:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[bidirectional-interaction]]"
   - "[[objectivity-and-consciousness]]"
@@ -100,7 +100,7 @@ The critique identifies an important distinction: *irrational* causes (wishful t
 
 But this response misses the deeper problem. The issue isn't whether causal and rational explanations can coexist—of course a belief can have both a causal history and rational justification. The issue is whether physical causation *alone* can account for rational justification. If neural activity fully explains the belief, what additional work does rational justification do? How can logical relationships causally influence which beliefs form if physical causation is already sufficient?
 
-The [[causal-closure]] principle central to physicalism holds that every physical event has a sufficient physical cause. If my neurons firing fully explains my belief, then appeals to "good reasons" become explanatorily idle—[[epiphenomenalism|epiphenomenal]] danglers that play no causal role. But if good reasons *do* play a causal role (as any non-epiphenomenalist position requires), then physical causation isn't complete. Anscombe's reconciliation works only if we abandon causal closure—which is to abandon physicalism.
+The [[causal-closure]] principle central to physicalism holds that every physical event has a sufficient physical cause. If my neurons firing fully explains my belief, then appeals to "good reasons" become explanatorily idle—[[concepts/epiphenomenalism|epiphenomenal]] danglers that play no causal role. But if good reasons *do* play a causal role (as any non-epiphenomenalist position requires), then physical causation isn't complete. Anscombe's reconciliation works only if we abandon causal closure—which is to abandon physicalism.
 
 ## Contemporary Formulations: Reppert and Hasker
 
@@ -148,8 +148,8 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [[causal-closure]] - The physicalist principle that the argument from reason challenges
 - [[explanatory-gap]] - The conceptual distinction between physical and phenomenal that the argument exploits
 - [[agent-causation]] - How rational agents causally influence beliefs through recognizing reasons
-- [[epiphenomenalism]] - The self-defeating position that denies mental causation
-- [[free-will]] - Rational choice as paradigm case of consciousness selecting among neural patterns
+- [[concepts/epiphenomenalism]] - The self-defeating position that denies mental causation
+- [[topics/free-will]] - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [[interactionist-dualism]] - The Map's framework for mind-body causation
 - [[stapp-quantum-mind]] - A candidate mechanism for consciousness influencing neural states
 - [[voluntary-attention]] - The phenomenology of intellectual effort and its role in reasoning

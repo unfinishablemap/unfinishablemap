@@ -9,7 +9,7 @@ last_deep_review: 2026-02-08T19:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[process-philosophy]]"
   - "[[duration]]"
@@ -170,4 +170,4 @@ This apex article synthesizes:
 - [[panpsychism|Panpsychism]] — The view that experience is ubiquitous, and its combination problem
 - [[combination-problem|The Combination Problem]] — How micro-experiences might combine into unified consciousness
 - [[phenomenal-unity|Phenomenal Unity]] — What makes experience unified rather than fragmented
-- [[free-will|Free Will]] — How process thought illuminates libertarian agency
+- [[topics/free-will|Free Will]] — How process thought illuminates libertarian agency

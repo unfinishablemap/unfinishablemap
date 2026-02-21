@@ -8,7 +8,7 @@ ai_modified: 2026-02-04T09:29:00+00:00
 last_deep_review: 2026-02-04T09:29:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[argument-from-reason]]"
 concepts:
   - "[[agent-causation]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[counterfactual-reasoning]]"
   - "[[voluntary-attention]]"
   - "[[causal-closure]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[self-stultification]]"
   - "[[phenomenal-consciousness]]"
 related_articles:
@@ -30,7 +30,7 @@ ai_generated_date: 2026-02-01
 last_curated: null
 ---
 
-Reasons-responsiveness is the capacity to recognize normative relationships—that conclusions *follow from* premises, that some considerations *count in favour* of certain actions—and to be guided by that recognition. The Unfinishable Map holds that reasons-responsiveness requires consciousness: tracking normative relationships demands more than causal regularity. A system merely caused to produce outputs matching valid inferences differs fundamentally from one that *grasps* why conclusions follow. This distinction bears on [[free-will|free will]] (selection guided by reasons is not luck) and the [[argument-from-reason|argument from reason]] (physicalism cannot account for genuine rational inference).
+Reasons-responsiveness is the capacity to recognize normative relationships—that conclusions *follow from* premises, that some considerations *count in favour* of certain actions—and to be guided by that recognition. The Unfinishable Map holds that reasons-responsiveness requires consciousness: tracking normative relationships demands more than causal regularity. A system merely caused to produce outputs matching valid inferences differs fundamentally from one that *grasps* why conclusions follow. This distinction bears on [[topics/free-will|free will]] (selection guided by reasons is not luck) and the [[argument-from-reason|argument from reason]] (physicalism cannot account for genuine rational inference).
 
 ## The Space of Reasons
 
@@ -114,7 +114,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]**: If reasons-responsiveness requires grasping normative relationships as such, and normative properties are irreducible to physical properties, then reasons-responsiveness requires something beyond physical processes. The conceptual irreducibility of the space of reasons reflects ontological irreducibility. Consciousness must involve properties that physical description cannot capture.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reasons-responsiveness is how consciousness causally contributes to outcomes. Selection guided by reasons influences which neural patterns become actual. Without reasons-responsiveness, consciousness could observe deliberation but not participate in it—[[epiphenomenalism|epiphenomenalism]] rather than genuine agency.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reasons-responsiveness is how consciousness causally contributes to outcomes. Selection guided by reasons influences which neural patterns become actual. Without reasons-responsiveness, consciousness could observe deliberation but not participate in it—[[concepts/epiphenomenalism|epiphenomenalism]] rather than genuine agency.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map proposes that consciousness operates where physics leaves outcomes undetermined. Reasons-responsiveness specifies *what* guides selection at these junctures: not random fluctuation but sensitivity to normative considerations. The [[quantum-consciousness|quantum framework]] provides the *how*; reasons-responsiveness provides the *what*.
 
@@ -126,7 +126,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 - [[self-stultification]] — How the argument from reason renders physicalism self-undermining
 - [[luck-objection]] — Why reasons-guidance distinguishes selection from luck
 - [[agent-causation]] — How agents exercise causal power through reasons-responsive selection
-- [[free-will]] — The broader framework connecting reasons-responsiveness to genuine choice
+- [[topics/free-will]] — The broader framework connecting reasons-responsiveness to genuine choice
 - [[phenomenology-of-choice]] — The experiential structure of reasons-responsive deliberation
 - [[counterfactual-reasoning]] — The representational capacity enabling evaluation of reasons
 - [[mental-effort]] — Why reasoning feels effortful and what this suggests

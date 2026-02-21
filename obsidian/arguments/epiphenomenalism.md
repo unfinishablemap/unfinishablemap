@@ -7,9 +7,9 @@ ai_modified: 2026-01-21T00:57:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
@@ -21,11 +21,11 @@ concepts:
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -254,7 +254,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 
 **[[tenets#^dualism|Dualism]]**: The Map accepts that consciousness is irreducible to physics—a point epiphenomenalism also accepts. But the arguments here show that dualism must be *interactionist* dualism. A dualism where consciousness exists but does nothing faces the self-stultification problem: we could never have rational beliefs about the non-physical if the non-physical cannot cause beliefs.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates precisely where [[causal-closure]] doesn't apply—at quantum indeterminacies. The [[consciousness-selecting-neural-patterns|selection mechanism]] biases which of physically permitted outcomes becomes actual.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates precisely where [[causal-closure]] doesn't apply—at quantum indeterminacies. The [[concepts/consciousness-selecting-neural-patterns|selection mechanism]] biases which of physically permitted outcomes becomes actual.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The self-stultification argument shows consciousness must cause behavior. Our reports about consciousness must be caused by consciousness, or they cannot be trusted. The tenet that consciousness "selects among superposed neural states" is not optional decoration on dualism—it is required to avoid epiphenomenalism's epistemic collapse.
 
@@ -264,12 +264,12 @@ The arguments against epiphenomenalism directly support the Map's framework:
 
 ## Further Reading
 
-- [[epiphenomenalism]] — The view examined in detail
+- [[concepts/epiphenomenalism]] — The view examined in detail
 - [[mental-causation]] — Kim's exclusion argument and responses
 - [[causal-closure]] — The principle motivating epiphenomenalism
 - [[interactionist-dualism]] — The positive case for interaction
 - [[quantum-consciousness]] — How mental causation could work
-- [[consciousness-selecting-neural-patterns]] — The proposed mechanism for mental causation
+- [[concepts/consciousness-selecting-neural-patterns]] — The proposed mechanism for mental causation
 - [[knowledge-argument]] — Mary's Room and what it shows
 - [[illusionism]] — The strongest materialist response
 - [[witness-consciousness]] — Contemplative evidence for consciousness

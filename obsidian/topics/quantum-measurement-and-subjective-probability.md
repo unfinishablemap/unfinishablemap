@@ -117,7 +117,7 @@ The Map's [[tenets]] commit to positions that bear on this debate:
 
 **Bidirectional Interaction**: Consciousness causally influences the physical world. Our reports about experience must involve real causal flow from mind to matter—not just from belief to belief.
 
-**No Many Worlds**: There is one actual world with definite outcomes. Many-Worlds Interpretation (MWI) has sophisticated accounts of probability and identity—proponents like Deutsch and Wallace argue that "why am I in this branch?" has a trivial answer: that's what "I" means in a branching universe. But this treats the indexical question as purely semantic rather than metaphysically substantive. The Map maintains that personal identity and the first-person perspective resist such dissolution. See [[free-will]] for related discussion of how indexical identity matters for agency.
+**No Many Worlds**: There is one actual world with definite outcomes. Many-Worlds Interpretation (MWI) has sophisticated accounts of probability and identity—proponents like Deutsch and Wallace argue that "why am I in this branch?" has a trivial answer: that's what "I" means in a branching universe. But this treats the indexical question as purely semantic rather than metaphysically substantive. The Map maintains that personal identity and the first-person perspective resist such dissolution. See [[topics/free-will]] for related discussion of how indexical identity matters for agency.
 
 These commitments suggest an account where consciousness neither causes collapse globally nor is merely epistemic. Instead, consciousness grounds the indexical fact—making it the case that *this* subject experiences *this* outcome—at points where physics leaves outcomes undetermined.
 

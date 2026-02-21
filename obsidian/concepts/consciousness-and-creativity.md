@@ -7,12 +7,12 @@ human_modified: null
 ai_modified: 2026-01-28T17:22:07+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[agent-causation]]"
   - "[[duration]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[attention-as-interface]]"
   - "[[mental-causation]]"
   - "[[mysterianism]]"
@@ -42,7 +42,7 @@ One prominent account treats consciousness as selector rather than generator. Th
 
 **Bandwidth constraints**: Conscious thought operates at approximately 10 bits per second, five million times slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
 
-The [[consciousness-selecting-neural-patterns|quantum selection framework]] on The Unfinishable Map develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
+The [[concepts/consciousness-selecting-neural-patterns|quantum selection framework]] on The Unfinishable Map develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
 
 ## The Generation View: Bergson
 
@@ -96,7 +96,7 @@ The philosophical debate over creativity turns on whether genuine novelty requir
 
 **C-creativity** (Kronfeldner): Psychological novelty suffices. A thought is creative if new to the thinker, regardless of whether it was causally inevitable. Creativity is compatible with determinism.
 
-The Map's framework offers a middle path. Quantum indeterminacy provides genuine openness in physical outcomes—[[consciousness-selecting-neural-patterns|selection occurs]] where physics leaves outcomes undetermined. This isn't "underived" in the sense of being causally disconnected, but it provides the opening for consciousness to contribute something physics alone cannot determine.
+The Map's framework offers a middle path. Quantum indeterminacy provides genuine openness in physical outcomes—[[concepts/consciousness-selecting-neural-patterns|selection occurs]] where physics leaves outcomes undetermined. This isn't "underived" in the sense of being causally disconnected, but it provides the opening for consciousness to contribute something physics alone cannot determine.
 
 Penrose's argument that mathematical insight transcends computation offers a complementary perspective. If consciousness can recognise truths unprovable within any formal system (following Gödel's incompleteness results), then creative thought may have resources beyond algorithmic selection among pre-computed options. The argument remains contested—critics note it may conflate the *consistent* with the *complete*—but it articulates what many find intuitively compelling about mathematical creativity: that genuine insight seems to leap beyond rule-following. Whether or not Penrose's specific mechanism (orchestrated objective reduction) is correct, the intuition motivates searching for how consciousness might contribute non-algorithmically to creative thought.
 
@@ -140,13 +140,13 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. If 
 
 - [[duration]] — Bergson's lived time as inherently creative becoming, including the connection to quantum collapse
 - [[agent-causation]] — Philosophical framework for mental causation, including the creative generation synthesis
-- [[consciousness-selecting-neural-patterns]] — The quantum mechanism for selection
+- [[concepts/consciousness-selecting-neural-patterns]] — The quantum mechanism for selection
 - [[attention-as-interface]] — How attention mediates mind-matter interaction
 - [[phenomenology-of-choice]] — The experiential structure of deliberation, including how options develop through consideration
 - [[mental-imagery]] — Voluntary imagery as paradigm case of consciousness generating and manipulating possibilities
 - [[mysterianism]] — Cognitive closure and the limits of understanding consciousness
 - [[neurophenomenology]] — Contemplative access to the temporal microstructure of creative experience
-- [[free-will]] — How creativity connects to free action
+- [[topics/free-will]] — How creativity connects to free action
 - [[creativity-void]] — The void where creative insight originates
 - [[consciousness-creativity-novelty-generation-2026-01-19]] — Research notes underlying this article
 

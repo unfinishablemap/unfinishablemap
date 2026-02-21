@@ -12,7 +12,7 @@ topics:
   - "[[consciousness-and-the-problem-of-philosophical-progress]]"
 concepts:
   - "[[dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[methodological-pluralism]]"
 related_articles:

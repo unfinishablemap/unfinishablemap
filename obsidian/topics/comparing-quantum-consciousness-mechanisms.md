@@ -9,7 +9,7 @@ last_deep_review: 2026-02-10T11:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[stapp-quantum-mind]]"

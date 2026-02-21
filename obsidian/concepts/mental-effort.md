@@ -7,13 +7,13 @@ human_modified: null
 ai_modified: 2026-02-16T19:13:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-consciousness]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[attention]]"
   - "[[voluntary-attention]]"
   - "[[attention-as-interface]]"
@@ -74,7 +74,7 @@ Kahneman's *Attention and Effort* (1973) confirmed that effort is measurable (pu
 
 ## The Materialist Problem
 
-If the brain is purely deterministic, the "feeling" of effort becomes puzzling. On the [[epiphenomenalism|epiphenomenalist]] view, consciousness observes but doesn't contribute—effort is illusory, mere phenomenal decoration on mechanical processes.
+If the brain is purely deterministic, the "feeling" of effort becomes puzzling. On the [[concepts/epiphenomenalism|epiphenomenalist]] view, consciousness observes but doesn't contribute—effort is illusory, mere phenomenal decoration on mechanical processes.
 
 Yet this position is unstable. If the *feeling* of effort is causally disconnected from actual effort-allocation, why should the feeling track genuine difficulty? Why would evolution produce accurate phenomenology of cognitive load if that phenomenology does nothing?
 
@@ -100,7 +100,7 @@ The crucial point for phenomenology: effort *feels* different when you're genuin
 
 Contemplative evidence extends the pattern. Long-term meditators show structural brain changes (increased cortical thickness in attention-related regions) that track their practice. Even brief meditation training produces measurable neural effects. The phenomenology of sustained attention—effortful at first, gradually easing with mastery—corresponds to the neural trajectory.
 
-What neuroplasticity doesn't prove: the quantum Zeno mechanism specifically, that consciousness is non-physical, or that classical neural explanations are insufficient. A materialist could interpret the same data as complex neural self-modification. But what it does establish: mental effort has physical consequences. This is harder to square with [[epiphenomenalism]] than with [[interactionist-dualism]].
+What neuroplasticity doesn't prove: the quantum Zeno mechanism specifically, that consciousness is non-physical, or that classical neural explanations are insufficient. A materialist could interpret the same data as complex neural self-modification. But what it does establish: mental effort has physical consequences. This is harder to square with [[concepts/epiphenomenalism]] than with [[interactionist-dualism]].
 
 ## Objections and Responses
 

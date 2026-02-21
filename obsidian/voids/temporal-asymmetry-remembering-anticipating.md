@@ -27,8 +27,8 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[thoughts-that-slip-away]]"
   - "[[apophatic-approaches]]"
-  - "[[free-will]]"
-  - "[[functionalism]]"
+  - "[[topics/free-will]]"
+  - "[[concepts/functionalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -77,7 +77,7 @@ This void reveals that **consciousness operates through traces**—we are aware 
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] and [[functionalism|functionalists]] might argue that the "pastness quale" is a functional marker rather than a genuine phenomenal property. Three responses preserve the void framework:
+[[illusionism|Illusionists]] and [[concepts/functionalism|functionalists]] might argue that the "pastness quale" is a functional marker rather than a genuine phenomenal property. Three responses preserve the void framework:
 
 First, to experience the illusion of pastness, something must experience it. The illusionist relocates the quale from "pastness itself" to "seeming pastness," but seeming is still experiencing.
 
@@ -109,7 +109,7 @@ This void connects to all five [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:** Consciousness selecting among quantum possibilities operates from present toward future, not future toward present. The void reflects the direction in which selection can work.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** Consciousness can act toward futures but can only know pasts. We remember what has caused us; we act toward what we will cause. This connects to [[free-will]]: we deliberate about futures precisely because our causal influence runs futureward, while we have only epistemic access to the past. The impossibility of pre-experience is the impossibility of epistemic access running futureward.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** Consciousness can act toward futures but can only know pasts. We remember what has caused us; we act toward what we will cause. This connects to [[topics/free-will]]: we deliberate about futures precisely because our causal influence runs futureward, while we have only epistemic access to the past. The impossibility of pre-experience is the impossibility of epistemic access running futureward.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]:** Memory presupposes a single actual past—when you remember your wedding, you remember it as having actually occurred, not as one branch among many. An MWI defender might reply that branch-relative memory works fine: in your branch, your wedding did actually occur. The Map responds that the *feeling of actuality* built into the pastness quale points to genuine metaphysical uniqueness, not mere indexical location within a branching structure. The Map's single-history metaphysics makes the asymmetry comprehensible: we can't pre-experience the future because it doesn't exist yet.
 

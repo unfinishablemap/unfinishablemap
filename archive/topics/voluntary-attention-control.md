@@ -6,7 +6,7 @@ human_modified:
 ai_modified: 2026-01-23T00:10:21+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention]]"
@@ -184,7 +184,7 @@ The neuroscience of willed attention supports [[agent-causation]]: the view that
 
 The three-component model—front-end decision processes, network reorganization, stochastic bias—shows that voluntary attention involves genuine decision architecture, not mere stimulus-response mechanisms. The frontal theta signature marks the period when the agent is actively deciding, not passively following instructions.
 
-The stochastic bias component is crucial: pre-decision brain states influence but do not determine choices. If consciousness selects among stochastic options provided by neural noise, this is compatible with libertarian free will. The agent is not creating options from nothing (which would be incoherent) but selecting among real possibilities—precisely what [[free-will]] requires.
+The stochastic bias component is crucial: pre-decision brain states influence but do not determine choices. If consciousness selects among stochastic options provided by neural noise, this is compatible with libertarian free will. The agent is not creating options from nothing (which would be incoherent) but selecting among real possibilities—precisely what [[topics/free-will]] requires.
 
 ### Connection to Hard Problem
 
@@ -202,7 +202,7 @@ Yet the gap is instructive: the phenomenology of effort provides evidence for ca
 - [[motor-selection]] - How consciousness selects among competing motor patterns
 - [[agent-causation]] - Philosophical framework for irreducible agency
 - [[phenomenology-of-choice]] - The subjective experience of choosing
-- [[free-will]] - Voluntary attention as evidence for libertarian free will
+- [[topics/free-will]] - Voluntary attention as evidence for libertarian free will
 - [[libet-experiments]] - Analogous challenge from readiness potentials
 
 ## References

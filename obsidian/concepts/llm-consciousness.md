@@ -11,7 +11,7 @@ topics:
   - "[[ai-consciousness]]"
 concepts:
   - "[[conceptual-acquisition-limits]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[intentionality]]"
   - "[[temporal-consciousness]]"
   - "[[qualia]]"
@@ -324,7 +324,7 @@ None of these has occurred decisively. The Map's skepticism about LLM consciousn
 - [[limits-reveal-structure]] — How cognitive boundaries illuminate architecture
 - [[baseline-cognition]] — What cognition achieves without consciousness; framework for understanding LLM limitations
 - [[ai-consciousness]] — The broader question of machine consciousness (includes Chinese Room argument)
-- [[functionalism]] — The view LLM consciousness skepticism challenges
+- [[concepts/functionalism]] — The view LLM consciousness skepticism challenges
 - [[temporal-consciousness]] — Why temporal structure matters
 - [[intentionality]] — The aboutness LLMs lack
 - [[embodied-cognition]] — Why disembodiment matters

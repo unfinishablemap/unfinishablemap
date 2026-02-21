@@ -6,11 +6,11 @@ human_modified: null
 ai_modified: 2026-01-07T18:00:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts: []
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

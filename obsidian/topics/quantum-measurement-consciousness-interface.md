@@ -102,7 +102,7 @@ Physics has produced three broad strategies for handling the definite outcomes p
 
 ### Deny the Gap: Many-Worlds
 
-The [[many-worlds|Many-Worlds Interpretation]] denies that one outcome becomes actual. All outcomes occur in branching universes; the appearance of single outcomes is perspectival, not ontological. There is no selection because there is nothing to select—every possibility is realized somewhere.
+The [[concepts/many-worlds|Many-Worlds Interpretation]] denies that one outcome becomes actual. All outcomes occur in branching universes; the appearance of single outcomes is perspectival, not ontological. There is no selection because there is nothing to select—every possibility is realized somewhere.
 
 The Map [[tenets#^no-many-worlds|rejects Many-Worlds]] for several reasons. The interpretation faces the **[[indexical-identity-quantum-measurement|indexical problem]]**: why am I experiencing *this* branch rather than another? MWI defenders respond that all branch-selves exist equally, and "I" simply picks out this one. But this treats as semantic what seems metaphysically substantive—the fact that *something it is like* exists for this particular experiencer.
 
@@ -201,7 +201,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among undetermined outcomes without violating [[conservation-laws-and-mind|conservation laws]].
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [[epiphenomenalism]] denies. This is central to [[free-will]]: genuine agency requires that our conscious choices make a difference to what happens.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [[concepts/epiphenomenalism]] denies. This is central to [[topics/free-will]]: genuine agency requires that our conscious choices make a difference to what happens.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The framework requires collapse to be real. Many-Worlds eliminates collapse, and with it consciousness's selective role. If all outcomes occur, consciousness selects nothing—it merely discovers which branch it's in. The phenomenology of single experienced outcomes is not systematically misleading.
 

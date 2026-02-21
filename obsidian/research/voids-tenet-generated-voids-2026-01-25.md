@@ -11,7 +11,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
   - "[[mysterianism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"

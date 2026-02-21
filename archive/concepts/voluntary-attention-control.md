@@ -6,7 +6,7 @@ human_modified: null
 ai_modified: 2026-01-23T23:20:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-motor-quantum-interface]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[phenomenology-of-choice]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
@@ -190,7 +190,7 @@ The evidence is striking: the willed-instructed distinction shows that internall
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet gains support from the temporal profile of voluntary attention. The ~300ms deployment time and sustained maintenance match the timescales relevant for quantum Zeno effects. Voluntary attention control may be where consciousness's quantum-level influence becomes observable at the neural level.
 
-Against [[epiphenomenalism]]: if voluntary attention control were merely the *feeling* of controlling attention (while the real control happened through purely neural mechanisms), the willed-instructed distinction would be puzzling. Why would the feeling of effort track a real neural distinction if the feeling has no causal role? The simpler explanation: effort feels real because it *is* real—consciousness engaging with neural systems to direct attention.
+Against [[concepts/epiphenomenalism]]: if voluntary attention control were merely the *feeling* of controlling attention (while the real control happened through purely neural mechanisms), the willed-instructed distinction would be puzzling. Why would the feeling of effort track a real neural distinction if the feeling has no causal role? The simpler explanation: effort feels real because it *is* real—consciousness engaging with neural systems to direct attention.
 
 ## Further Reading
 

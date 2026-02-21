@@ -13,7 +13,7 @@ archive_reason: "Coalesced into Consciousness and Skilled Performance"
 original_path: "/topics/phenomenology-of-skill-and-the-lived-body/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[embodied-cognition]]"
@@ -76,7 +76,7 @@ As competence develops, this scaffolding is progressively dismantled. Skills tha
 
 The withdrawal of consciousness from skilled performance is not passive. Consciousness *delegates*. There is a phenomenological moment—often repeated many times during learning—where the learner deliberately releases conscious control over a component, trusting the emerging automaticity to handle it. Learning to ride a bicycle involves a moment where you stop thinking about balance and let it happen. This delegation is itself a conscious act, requiring confidence that the procedural system is ready.
 
-The Map interprets this transition as evidence for several commitments. If consciousness were [[epiphenomenalism|epiphenomenal]]—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition. The causal efficacy of consciousness during learning is difficult to deny: attention shapes what gets encoded, effort determines the quality of encoding, and conscious correction prevents the consolidation of errors.
+The Map interprets this transition as evidence for several commitments. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition. The causal efficacy of consciousness during learning is difficult to deny: attention shapes what gets encoded, effort determines the quality of encoding, and conscious correction prevents the consolidation of errors.
 
 The asymmetry of acquisition and loss reinforces this. Skills are acquired through conscious effort but lost through disuse or injury to procedural systems. Classic amnestic cases demonstrate this starkly—patients with severe hippocampal damage retain motor skills they can no longer remember learning (Milner, 1962). Consciousness is necessary for building but not for maintaining skilled performance. This asymmetry maps onto the distinction between [[anoetic-noetic-autonoetic-consciousness|anoetic and autonoetic consciousness]]—between the bare awareness that accompanies procedural execution and the self-reflective awareness that deliberate learning requires.
 

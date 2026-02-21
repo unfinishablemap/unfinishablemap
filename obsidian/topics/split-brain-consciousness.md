@@ -14,7 +14,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[qualia]]"
   - "[[haecceity]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[phenomenal-unity]]"
   - "[[illusionism]]"
   - "[[introspection]]"
@@ -199,7 +199,7 @@ If consciousness can divide within one body, does this support the kind of subje
 
 ### Bidirectional Interaction Tenet
 
-If consciousness influences physical outcomes through mechanisms like the [[mental-effort|quantum Zeno effect]], what happens when the brain divides? Would two independent conscious streams each influence their hemisphere? The [[consciousness-selecting-neural-patterns|selection mechanism]] operates through attention, which is neurally implemented. In split-brain patients, attention networks in each hemisphere might operate semi-independently, yet the persistence of response unity suggests something coordinates selection across the divide.
+If consciousness influences physical outcomes through mechanisms like the [[mental-effort|quantum Zeno effect]], what happens when the brain divides? Would two independent conscious streams each influence their hemisphere? The [[concepts/consciousness-selecting-neural-patterns|selection mechanism]] operates through attention, which is neurally implemented. In split-brain patients, attention networks in each hemisphere might operate semi-independently, yet the persistence of response unity suggests something coordinates selection across the divide.
 
 The resilience of unity—even with minimal connections—suggests consciousness may naturally tend toward integration rather than fragmentation. Perhaps the non-physical aspect of mind maintains unity even when physical connections are severed. If consciousness selects among neural patterns, the "selector" may be singular even when the patterns being selected are divided across hemispheres.
 
@@ -245,7 +245,7 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 - [[binding-problem]] — How distributed processes combine into unified experience
 - [[personal-identity]] — What makes you *you* across time
 - [[haecceity]] — The "thisness" that individuates subjects
-- [[consciousness-selecting-neural-patterns]] — How consciousness selects among neural possibilities
+- [[concepts/consciousness-selecting-neural-patterns]] — How consciousness selects among neural possibilities
 - [[hard-problem-of-consciousness]] — Why physical explanation seems to leave consciousness unexplained
 - [[neural-correlates-of-consciousness]] — What neuroscience reveals about consciousness
 - [[illusionism]] — The radical view that phenomenal consciousness is an illusion

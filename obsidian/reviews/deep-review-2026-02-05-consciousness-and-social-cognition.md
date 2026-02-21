@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-05
-**Article**: [[consciousness-and-social-cognition|Consciousness and Social Cognition]]
+**Article**: [[topics/consciousness-and-social-cognition|Consciousness and Social Cognition]]
 **Previous review**: [[deep-review-2026-01-22-consciousness-and-social-cognition|2026-01-22]]
 
 ## Summary

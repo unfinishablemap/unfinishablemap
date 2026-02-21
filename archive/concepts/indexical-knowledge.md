@@ -83,7 +83,7 @@ The [[vertiginous-question]]—why am I *this* consciousness rather than some ot
 
 The question is not about identity criteria (what makes me the same person over time) but about indexical location (what makes me *this* person right now). Pattern-identity theories—which reduce personal identity to psychological continuity—cannot answer it. Two qualitatively identical subjects would share all patterns yet differ in which one each is. The indexical residue—the fact that I am *this* one—is precisely what [[haecceity]] (primitive thisness) is meant to capture.
 
-The vertiginous question acquires particular force against [[many-worlds]]. If every quantum outcome occurs in some branch, the question "why do I experience *this* outcome?" has no answer within the theory. All branches are equally real; no indexical fact picks one out as "mine." The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet reflects this: indexical knowledge of which outcome is experienced presupposes that one outcome genuinely occurs, not that all outcomes occur in parallel.
+The vertiginous question acquires particular force against [[concepts/many-worlds]]. If every quantum outcome occurs in some branch, the question "why do I experience *this* outcome?" has no answer within the theory. All branches are equally real; no indexical fact picks one out as "mine." The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet reflects this: indexical knowledge of which outcome is experienced presupposes that one outcome genuinely occurs, not that all outcomes occur in parallel.
 
 ## Limits of Third-Person Description
 

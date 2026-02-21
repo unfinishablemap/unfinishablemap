@@ -10,9 +10,9 @@ draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[phenomenal-normativity]]"
   - "[[moral-responsibility]]"
   - "[[existentialism]]"
@@ -54,7 +54,7 @@ The Map's [[tenets#^dualism|Dualism tenet]] asserts that consciousness is not re
 
 This matters practically because it grounds the significance of your experience. If [[illusionism|illusionism]] were correct—if phenomenal consciousness were merely a representational fiction—then what seems to matter about your life wouldn't really matter. The joy you feel, the suffering you endure, the meaning you discover: all would be shadows cast by neural activity signifying nothing.
 
-[[phenomenal-value-realism|Phenomenal value realism]] offers the opposite view: the goodness of pleasure and the badness of suffering are features of conscious experience itself. But why think value lives in experience rather than being projected onto it? [[phenomenal-normativity|Phenomenal normativity]] provides the answer: when you attend to what pain feels like—not abstractly, but in lived experience—you are directly acquainted with something bad. The badness is not inferred from the pain, added by judgment, or projected onto neutral sensation. It is constitutive of pain's phenomenal character. Pleasure works the same way: the goodness is what you're experiencing, not a separate evaluation attached from outside. This closes Hume's is-ought gap for experience—the phenomenal "is" already contains normativity.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] offers the opposite view: the goodness of pleasure and the badness of suffering are features of conscious experience itself. But why think value lives in experience rather than being projected onto it? [[phenomenal-normativity|Phenomenal normativity]] provides the answer: when you attend to what pain feels like—not abstractly, but in lived experience—you are directly acquainted with something bad. The badness is not inferred from the pain, added by judgment, or projected onto neutral sensation. It is constitutive of pain's phenomenal character. Pleasure works the same way: the goodness is what you're experiencing, not a separate evaluation attached from outside. This closes Hume's is-ought gap for experience—the phenomenal "is" already contains normativity.
 
 This grounding goes beyond simple hedonism. Multiple features of conscious experience carry intrinsic value: hedonic valence, aesthetic quality, meaning, agency, understanding, and connection. This *phenomenal value pluralism* means a good life isn't simply maximising pleasure—it's cultivating richness across multiple dimensions of experience.
 
@@ -64,7 +64,7 @@ The practical implication follows: *attend to the quality of your conscious expe
 
 The Map's framework is not merely about what you are but about what you do. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences physical outcomes. Your choices are not epiphenomenal afterthoughts; they shape what happens.
 
-[[free-will|Free will]], on this picture, operates through [[agent-causation|agent causation]]. You—as a conscious being, not as a collection of prior causes—originate actions. When you choose kindness over cruelty, that choice isn't merely the output of deterministic neural processes; it's something you did. Genuine choice requires [[counterfactual-reasoning|counterfactual reasoning]]—the capacity to imagine alternatives and evaluate what would follow from each—and consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. You are an author, not a spectator, contributing both which options become actual and which options exist to begin with.
+[[topics/free-will|Free will]], on this picture, operates through [[agent-causation|agent causation]]. You—as a conscious being, not as a collection of prior causes—originate actions. When you choose kindness over cruelty, that choice isn't merely the output of deterministic neural processes; it's something you did. Genuine choice requires [[counterfactual-reasoning|counterfactual reasoning]]—the capacity to imagine alternatives and evaluate what would follow from each—and consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. You are an author, not a spectator, contributing both which options become actual and which options exist to begin with.
 
 This transforms how choices feel. The hesitation before a difficult decision, the sense of genuinely open alternatives, the resolution when you commit—these phenomenological features track something real. [[existentialism|Existentialist philosophy]] captures this: Sartre's "condemned to be free" describes the structural fact that consciousness is always able to take a stance toward its situation. You cannot escape choosing. Even not-choosing is a choice.
 
@@ -198,8 +198,8 @@ This apex article synthesizes:
 - [[meaning-of-life|The Meaning of Life]] — Meaning grounded in consciousness itself, with contemplative evidence and process philosophy perspective
 - [[ethics-of-consciousness|Ethics of Consciousness]] — How consciousness creates moral status and extends consideration to all sentient beings
 - [[purpose-and-alignment|Purpose and AI Alignment]] — Why AI alignment faces the meaning problem and requires human judgment
-- [[phenomenal-value-realism|Phenomenal Value Realism]] — Value as a feature of experience, extended to phenomenal value pluralism
+- [[topics/phenomenal-value-realism|Phenomenal Value Realism]] — Value as a feature of experience, extended to phenomenal value pluralism
 - [[phenomenal-normativity|Phenomenal Normativity]] — Why experience carries intrinsic normative force, grounding the is-ought bridge
 - [[moral-responsibility|Moral Responsibility]] — How agent causation grounds desert
 - [[existentialism|Existentialism]] — Sartre's pour-soi and the structure of freedom
-- [[free-will|Free Will and Determinism]] — The libertarian framework grounding genuine authorship
+- [[topics/free-will|Free Will and Determinism]] — The libertarian framework grounding genuine authorship

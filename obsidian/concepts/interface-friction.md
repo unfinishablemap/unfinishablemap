@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-02-20T09:06:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[mind-matter-interface]]"
   - "[[brain-interface-boundary]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[filter-theory]]"
   - "[[mental-effort]]"
   - "[[decoherence]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[working-memory]]"
   - "[[attentional-economics]]"
 related_articles:

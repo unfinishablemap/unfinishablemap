@@ -24,7 +24,7 @@ related_articles:
   - "[[consciousness-and-strong-emergence]]"
   - "[[substance-property-dualism]]"
   - "[[causal-closure]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -130,7 +130,7 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 - [[psychophysical-laws]] — Principles governing mind-matter interaction
 - [[consciousness-and-strong-emergence]] — Whether consciousness is genuinely strongly emergent
 - [[substance-property-dualism]] — The Map's preferred ontological framework
-- [[free-will]] — How dispositional powers of consciousness connect to libertarian agency
+- [[topics/free-will]] — How dispositional powers of consciousness connect to libertarian agency
 
 ## References
 

@@ -8,14 +8,14 @@ ai_modified: 2026-02-18T13:02:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-normative-properties]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[ethics-of-consciousness]]"
 concepts:
   - "[[phenomenology-of-choice]]"
   - "[[agent-causation]]"
   - "[[mental-effort]]"
   - "[[phenomenal-normativity]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[moral-responsibility]]"
   - "[[phenomenology]]"
   - "[[moral-perception]]"
@@ -82,7 +82,7 @@ Williams's observation about moral residue applies beyond tragic dilemmas. Even 
 
 This residue is philosophically significant. A computational aggregation function that outputs a single "winning" option should produce no residue—the calculation is complete, the answer determined. But normative conflict routinely produces residue because the losing demand doesn't vanish. It persists in experience as a genuine normative claim that was acknowledged but could not be satisfied. The phenomenology is of *sacrifice*, not of error correction.
 
-If [[phenomenal-value-realism]] is correct—if value is constituted by conscious experience—then moral residue is not merely a psychological quirk. It is the felt presence of a real value that was not, and could not be, realised. The residue tracks something genuine: the cost of living in a world where legitimate demands sometimes conflict irreconcilably.
+If [[topics/phenomenal-value-realism]] is correct—if value is constituted by conscious experience—then moral residue is not merely a psychological quirk. It is the felt presence of a real value that was not, and could not be, realised. The residue tracks something genuine: the cost of living in a world where legitimate demands sometimes conflict irreconcilably.
 
 ## The Temporal Structure of Conflict
 
@@ -120,12 +120,12 @@ The phenomenology of normative conflict connects to the Map's [[tenets|foundatio
 
 - [[phenomenology-of-normative-properties]] — The shared phenomenal structure across normative domains
 - [[phenomenology-of-moral-experience]] — What moral perception feels like from the inside
-- [[free-will]] — Normative conflict as a site of genuine agency
+- [[topics/free-will]] — Normative conflict as a site of genuine agency
 - [[authentic-vs-inauthentic-choice]] — When choice engages consciousness's selection function
 - [[phenomenology-of-deliberation-under-uncertainty]] — The felt character of deciding without full information
 - [[normative-void]] — Where normative perception reaches its limits
 - [[consciousness-and-the-grounds-of-normative-authority]] — How consciousness grounds normative authority
-- [[phenomenal-value-realism]] — Value as constituted by conscious experience
+- [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
 
 ## References
 

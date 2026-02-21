@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-06
-**Article**: [[free-will|Free Will and Determinism]]
+**Article**: [[topics/free-will|Free Will and Determinism]]
 **Previous review**: [[deep-review-2026-02-05-free-will|2026-02-05]]
 **Context**: Cross-review considering dreams-problem-solving insights
 

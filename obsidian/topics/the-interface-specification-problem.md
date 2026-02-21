@@ -8,7 +8,7 @@ ai_modified: 2026-02-20T21:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[mental-causation]]"
   - "[[selection-laws]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[attention-as-interface]]"
   - "[[causal-closure]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[pairing-problem]]"
   - "[[coupling-modes]]"
   - "[[valence]]"
@@ -141,7 +141,7 @@ This is a serious argument. The Map's responses:
 
 **Partial progress is real**: Stapp's model and Eccles' model, whatever their limitations, demonstrate that specification is possible in principle. They map specific phenomenal properties to specific physical parameters through identified mechanisms. The existence of candidate specifications refutes the claim that specification is *impossible*—even if no current candidate is confirmed.
 
-**The alternative is worse**: If consciousness does not influence physical outcomes ([[epiphenomenalism]]), our beliefs about consciousness are causally disconnected from consciousness itself. The self-stultification problem makes epiphenomenalism epistemically self-defeating. An incomplete specification of a real phenomenon is preferable to a complete account that undermines its own rational basis.
+**The alternative is worse**: If consciousness does not influence physical outcomes ([[concepts/epiphenomenalism]]), our beliefs about consciousness are causally disconnected from consciousness itself. The self-stultification problem makes epiphenomenalism epistemically self-defeating. An incomplete specification of a real phenomenon is preferable to a complete account that undermines its own rational basis.
 
 **Difficulty is not evidence of absence**: Many real phenomena resist easy specification. Turbulence in fluid dynamics, protein folding, and the genotype-phenotype map are all real and all resist compact formulation. Specification difficulty is evidence of complexity, not nonexistence.
 

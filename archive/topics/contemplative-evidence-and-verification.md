@@ -14,7 +14,7 @@ concepts:
   - "[[contemplative-neuroscience]]"
   - "[[introspection]]"
   - "[[witness-consciousness]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[phenomenal-consciousness]]"
   - "[[qualia]]"
   - "[[neuroplasticity]]"
@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[first-person-third-person-methodology]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[the-observer-witness-in-meditation]]"
   - "[[introspection-rehabilitation]]"
 ai_contribution: 100
@@ -231,7 +231,7 @@ Contemplative evidence is first-person evidence generalised across trained obser
 
 ### Bidirectional Interaction
 
-Contemplative evidence provides the strongest empirical support for this tenet. The neuroplasticity findings show consciousness causally influencing brain states; the phenomenological training effects show brain states influencing phenomenological access. Neither direction is eliminable; both are necessary. The verification meets all three conditions (specificity, independence, replicability) and provides strong evidence against [[epiphenomenalism]] — a finding that also bears on [[free-will|the free will debate]], since it demonstrates empirically the kind of mental causation that libertarian theories require.
+Contemplative evidence provides the strongest empirical support for this tenet. The neuroplasticity findings show consciousness causally influencing brain states; the phenomenological training effects show brain states influencing phenomenological access. Neither direction is eliminable; both are necessary. The verification meets all three conditions (specificity, independence, replicability) and provides strong evidence against [[concepts/epiphenomenalism]] — a finding that also bears on [[topics/free-will|the free will debate]], since it demonstrates empirically the kind of mental causation that libertarian theories require.
 
 ### Dualism
 
@@ -255,7 +255,7 @@ The causal efficacy argument depends on a collapse interpretation of quantum mec
 
 - [[contemplative-neuroscience]] — The neuroplasticity evidence in detail
 - [[neurophenomenology]] — Varela's methodology integrating first-person and third-person approaches
-- [[epiphenomenalism]] — The view that contemplative evidence challenges
+- [[concepts/epiphenomenalism]] — The view that contemplative evidence challenges
 - [[witness-consciousness]] — The phenomenology of observing awareness itself
 - [[the-observer-witness-in-meditation]] — Evidence that awareness can exist without doing
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing as dual modes

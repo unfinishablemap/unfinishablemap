@@ -17,7 +17,7 @@ topics:
   - "[[aesthetic-dimension-of-consciousness]]"
 concepts:
   - "[[qualia]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[the-case-for-dualism]]"
   - "[[explanatory-gap]]"
   - "[[illusionism]]"
@@ -27,7 +27,7 @@ concepts:
   - "[[inverted-qualia]]"
   - "[[phenomenal-binding-and-holism]]"
   - "[[temporal-consciousness]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[aesthetic-dimension-of-consciousness]]"
@@ -73,7 +73,7 @@ This creates what might be called the *normative gap*, distinct from the standar
 
 One might object that the normative gap collapses into the standard explanatory gap: if we could explain why neural states produce qualia, we could explain why some qualia carry normative weight. But this assumes normativity is a *feature* of particular qualia rather than a *dimension* of phenomenal experience that crosscuts qualitative character. The same music can sound beautiful to one listener and merely pleasant to another—same qualitative experience of the tones, different normative pull. This suggests the normative dimension is not entailed by qualitative character alone and would require independent explanation.
 
-[[phenomenal-value-realism|Phenomenal value realism]] takes this seriously: the normativity of aesthetic experience is intrinsic to the experience, not projected onto it. The [[consciousness-and-normative-authority|broader question of normative authority]] in consciousness extends across moral, epistemic, and aesthetic domains. If this is right, aesthetic experience provides evidence for an ontological category—intrinsically normative phenomenal states—that physicalism cannot accommodate.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] takes this seriously: the normativity of aesthetic experience is intrinsic to the experience, not projected onto it. The [[consciousness-and-normative-authority|broader question of normative authority]] in consciousness extends across moral, epistemic, and aesthetic domains. If this is right, aesthetic experience provides evidence for an ontological category—intrinsically normative phenomenal states—that physicalism cannot accommodate.
 
 ## Why Aesthetic Evidence Exceeds Standard Qualia Arguments
 
@@ -111,7 +111,7 @@ Aesthetic experience compounds this problem because it is *functionally creative
 
 The [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet holds that consciousness causally influences the physical world. Aesthetic experience provides suggestive evidence.
 
-Artists report that aesthetic perception guides their creative decisions—a painter adjusts a brushstroke because the canvas *looks wrong*, a composer revises a passage because it *sounds flat* (see [[consciousness-and-aesthetic-creation|aesthetic creation]]). The [[epiphenomenalism|epiphenomenalist]] would respond that the same neural states producing the aesthetic experience also produce the motor output—the experience accompanies but does not cause the action. But the *systematic correspondence* between aesthetic quality and creative output is what demands explanation. If aesthetic qualia were causally inert accompaniments to neural processing, the tight correlation between what artists experience and what they produce would be a cosmic coincidence—phenomenal beauty would track creative excellence without causing it.
+Artists report that aesthetic perception guides their creative decisions—a painter adjusts a brushstroke because the canvas *looks wrong*, a composer revises a passage because it *sounds flat* (see [[consciousness-and-aesthetic-creation|aesthetic creation]]). The [[concepts/epiphenomenalism|epiphenomenalist]] would respond that the same neural states producing the aesthetic experience also produce the motor output—the experience accompanies but does not cause the action. But the *systematic correspondence* between aesthetic quality and creative output is what demands explanation. If aesthetic qualia were causally inert accompaniments to neural processing, the tight correlation between what artists experience and what they produce would be a cosmic coincidence—phenomenal beauty would track creative excellence without causing it.
 
 The causal efficacy of aesthetic experience is particularly clear in cases where aesthetic judgment overrides functional considerations. An architect chooses a structurally equivalent but more expensive design because it is more beautiful. A mathematician pursues one proof strategy over another because it feels more elegant. These choices show consciousness steering physical outcomes on the basis of aesthetic character specifically—not hedonic reward, not functional advantage, but the qualitative feel of beauty.
 
@@ -149,7 +149,7 @@ Aesthetic experience strengthens the Map's case across multiple tenets.
 - [[the-case-for-dualism]] — The standard philosophical case, which aesthetic evidence supplements
 - [[knowledge-argument]] — Mary's Room and what physical information leaves out
 - [[philosophical-zombies]] — Conceivability arguments for dualism
-- [[phenomenal-value-realism]] — Intrinsic normativity in experience
+- [[topics/phenomenal-value-realism]] — Intrinsic normativity in experience
 - [[explanatory-gap]] — The gap between physical description and phenomenal character
 - [[contemplative-evidence-for-consciousness-theories]] — Other experiential evidence for consciousness theories
 - [[cognitive-phenomenology]] — The felt quality of thought, including aesthetic judgment

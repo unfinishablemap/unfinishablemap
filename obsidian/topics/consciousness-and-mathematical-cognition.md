@@ -9,11 +9,11 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[consciousness-and-creativity]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[consciousness-as-amplifier]]"
   - "[[mysterianism]]"
   - "[[qualia]]"

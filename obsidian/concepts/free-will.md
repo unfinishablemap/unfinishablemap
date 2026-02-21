@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-20T20:36:00+00:00
 draft: false
 topics:
-  - "[[free-will|Free Will and Determinism]]"
+  - "[[topics/free-will|Free Will and Determinism]]"
   - "[[personal-identity]]"
 concepts:
   - "[[agent-causation]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[moral-responsibility]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mental-effort]]"
   - "[[luck-objection]]"
   - "[[interactionist-dualism]]"
@@ -33,7 +33,7 @@ ai_generated_date: 2026-02-20
 last_curated:
 ---
 
-Free will is the capacity to genuinely author one's choices — to have been able to do otherwise in a way that reflects one's own agency rather than the unfolding of predetermined causes. The Unfinishable Map defends [[agent-causation|agent-causal]] libertarian free will: the view that conscious agents, as persisting substances, directly cause their actions through a power irreducible to prior physical events. This stands against both hard determinism (choices are fixed by prior causes) and compatibilism (freedom is merely acting from endorsed desires without coercion). For the Map's full treatment of free will including neuroscientific evidence, the luck objection, and the temporal problem, see [[free-will|Free Will and Determinism]].
+Free will is the capacity to genuinely author one's choices — to have been able to do otherwise in a way that reflects one's own agency rather than the unfolding of predetermined causes. The Unfinishable Map defends [[agent-causation|agent-causal]] libertarian free will: the view that conscious agents, as persisting substances, directly cause their actions through a power irreducible to prior physical events. This stands against both hard determinism (choices are fixed by prior causes) and compatibilism (freedom is merely acting from endorsed desires without coercion). For the Map's full treatment of free will including neuroscientific evidence, the luck objection, and the temporal problem, see [[topics/free-will|Free Will and Determinism]].
 
 ## The Three Positions
 
@@ -71,11 +71,11 @@ The Map does not commit to any single mechanism. Quantum indeterminacy, [[retroc
 
 ## Key Challenges
 
-**The [[luck-objection|luck objection]]**: If choices aren't determined, what makes them the agent's rather than random? The Map responds: consciousness *selects* rather than receives outcomes. Selection based on reasons is neither determined nor lucky. See [[free-will#The Agent-Causal Response to Luck|the luck objection response]] for the full treatment.
+**The [[luck-objection|luck objection]]**: If choices aren't determined, what makes them the agent's rather than random? The Map responds: consciousness *selects* rather than receives outcomes. Selection based on reasons is neither determined nor lucky. See [[topics/free-will#The Agent-Causal Response to Luck|the luck objection response]] for the full treatment.
 
 **[[libet-experiments|Libet's timing problem]]**: Neural readiness potentials precede conscious awareness of deciding. But Schurger et al. (2012) showed the readiness potential likely reflects neural noise rather than decision preparation. And if agent causation operates atemporally — as [[retrocausality|retrocausal]] interpretations suggest — the apparent temporal ordering is part of what was selected.
 
-**[[epiphenomenalism|Epiphenomenalism]]**: If consciousness causes nothing, your belief that you're conscious isn't caused by actually being conscious. The position is [[self-stultification|self-stultifying]] — it cannot be rationally held by someone who arrived at it through introspection.
+**[[concepts/epiphenomenalism|Epiphenomenalism]]**: If consciousness causes nothing, your belief that you're conscious isn't caused by actually being conscious. The position is [[self-stultification|self-stultifying]] — it cannot be rationally held by someone who arrived at it through introspection.
 
 ## Relation to Site Perspective
 
@@ -104,7 +104,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 
 ## Further Reading
 
-- [[free-will|Free Will and Determinism]] — The Map's full treatment including neuroscience, luck objection, and temporal problem
+- [[topics/free-will|Free Will and Determinism]] — The Map's full treatment including neuroscience, luck objection, and temporal problem
 - [[agent-causation]] — Why the framework is agent-causal and the metaphysics of substance causation
 - [[phenomenology-of-choice]] — The experiential structure of deliberation and decision
 - [[mental-causation]] — How consciousness causes physical outcomes; response to Kim's exclusion argument

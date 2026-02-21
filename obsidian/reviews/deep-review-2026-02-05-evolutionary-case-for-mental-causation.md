@@ -50,7 +50,7 @@ All major counterarguments were addressed in the first review pass. No new issue
 Added cross-references from related articles to integrate this orphan:
 
 ### Cross-links Added (from other articles to this one)
-- [[epiphenomenalism]] — Added link in "The Evolutionary Objection" section and Further Reading
+- [[concepts/epiphenomenalism]] — Added link in "The Evolutionary Objection" section and Further Reading
 - [[mental-causation]] — Added link in "The Self-Stultification Argument" section and Further Reading
 - [[consciousness-and-intelligence]] — Added link in "The Evolutionary Argument" section and Further Reading
 - [[evolution-of-consciousness]] — Added link in "The Epiphenomenalist Challenge" section and Further Reading

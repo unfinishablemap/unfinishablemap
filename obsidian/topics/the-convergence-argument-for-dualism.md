@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[the-case-for-dualism]]"
   - "[[explanatory-gap]]"
   - "[[knowledge-argument]]"

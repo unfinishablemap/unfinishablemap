@@ -11,7 +11,7 @@ topics:
   - "[[explanatory-gap]]"
 concepts:
   - "[[qualia]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[dualism]]"
 related_articles:
   - "[[voids]]"
@@ -33,7 +33,7 @@ original_path: "/topics/mysterianism-cognitive-closure/"
 
 Human minds may be constitutionally incapable of solving the [[hard-problem-of-consciousness|hard problem of consciousness]]—not because consciousness is supernatural, but because our cognitive architecture lacks the conceptual tools. This position, called **mysterianism** or "new mysterianism," argues that certain problems may be permanently closed to minds like ours, just as calculus is closed to rats or quantum field theory is closed to chimpanzees. Colin McGinn formalized this view in 1989 through the concept of **cognitive closure**: the idea that particular properties can be inaccessible to particular cognitive systems, regardless of effort or time.
 
-Mysterianism occupies unusual philosophical territory. Unlike [[materialism|materialists]], mysterians take [[phenomenal-consciousness|phenomenal consciousness]] seriously as something real that demands explanation. Unlike dualists, they remain officially neutral on whether consciousness is physical or non-physical. Their claim is epistemological rather than ontological: we cannot know the answer because the answer—whatever it is—lies beyond our conceptual reach.
+Mysterianism occupies unusual philosophical territory. Unlike [[concepts/materialism|materialists]], mysterians take [[phenomenal-consciousness|phenomenal consciousness]] seriously as something real that demands explanation. Unlike dualists, they remain officially neutral on whether consciousness is physical or non-physical. Their claim is epistemological rather than ontological: we cannot know the answer because the answer—whatever it is—lies beyond our conceptual reach.
 
 ## McGinn's Cognitive Closure Thesis
 
@@ -93,7 +93,7 @@ McGinn distinguishes conceiving *that* there's a solution from conceiving *what*
 
 ## Relation to Site Perspective
 
-Mysterianism aligns strongly with the Map's [[tenets#Occam's Razor Has Limits|Occam's Razor Has Limits tenet]]. McGinn's central insight is that our sense of what's "simple" or "solvable" may be cognitively bounded. When [[materialism]] appears simpler than [[dualism]], this might reflect our conceptual limitations rather than ontological truth. We're like the squirrel for whom "particles in space" is simpler than quantum field theory—simpler because we can grasp it, not because it's actually correct.
+Mysterianism aligns strongly with the Map's [[tenets#Occam's Razor Has Limits|Occam's Razor Has Limits tenet]]. McGinn's central insight is that our sense of what's "simple" or "solvable" may be cognitively bounded. When [[concepts/materialism]] appears simpler than [[dualism]], this might reflect our conceptual limitations rather than ontological truth. We're like the squirrel for whom "particles in space" is simpler than quantum field theory—simpler because we can grasp it, not because it's actually correct.
 
 The Map goes beyond mysterianism in two key ways. First, where McGinn remains officially neutral on the mind-body problem, the Map commits to [[dualism]]—consciousness is irreducible whether or not we can explain the connection. Second, where mysterianism is purely epistemological (about knowledge), the Map makes the stronger ontological claim through the [[tenets#Bidirectional Interaction|Bidirectional Interaction tenet]]: consciousness causally influences the physical world. This requires a mechanism, which the Map proposes via [[quantum-consciousness|quantum selection]].
 

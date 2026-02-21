@@ -25,7 +25,7 @@ last_curated: null
 - **Missing description in frontmatter**: Required for SEO/social per style guide. Resolution: Added description capturing the section's purpose.
 
 ### Medium Issues Found
-- **Ambiguous wikilink**: `[[consciousness-selecting-neural-patterns]]` could resolve to either concepts/ or questions/ versions. Resolution: Added display text to clarify link intent.
+- **Ambiguous wikilink**: `[[concepts/consciousness-selecting-neural-patterns]]` could resolve to either concepts/ or questions/ versions. Resolution: Added display text to clarify link intent.
 - **Section appears underdeveloped**: Only one question listed. Deferred: Expanding section requires creating new discussion pages (out of scope for this review).
 - **No link to tenets**: Opening mentions "foundational tenets" without linking. Resolution: Added `[[tenets]]` link.
 

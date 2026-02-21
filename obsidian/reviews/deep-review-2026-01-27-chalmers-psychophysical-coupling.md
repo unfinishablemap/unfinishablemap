@@ -55,7 +55,7 @@ None. The article has all required sections, no factual errors, no internal cont
 - **Empirical predictions specified**: Super-resistance makes testable claims about decoherence rates
 
 ### Cross-links Added
-- [[epiphenomenalism]] inline link clarified (was already present in Further Reading)
+- [[concepts/epiphenomenalism]] inline link clarified (was already present in Further Reading)
 
 ## Remaining Items
 

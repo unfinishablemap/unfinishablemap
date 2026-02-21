@@ -8,7 +8,7 @@ ai_modified: 2026-02-03T08:56:00+00:00
 draft: false
 topics:
   - "[[mental-causation]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-coupling]]"
   - "[[quantum-consciousness]]"
@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-probability-consciousness]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -114,7 +114,7 @@ Probability control directly changes outcome likelihoods. If consciousness can m
 
 Random number generator (RNG) experiments have attempted to detect such deviations. Results are mixed—some meta-analyses find small effects, others attribute these to publication bias. No consensus exists that consciousness reliably biases external quantum systems.
 
-**Limitation:** Probability control faces a stealth problem. If it occurs only in brains, why? What makes neural quantum events susceptible to mental influence while laboratory quantum events are not? The "brain specialness" boundary—[[consciousness-selecting-neural-patterns#Brain Specialness|why consciousness only affects integrated neural systems]]—provides a principled answer, but probability control within brains still risks in-principle detectability via careful measurement.
+**Limitation:** Probability control faces a stealth problem. If it occurs only in brains, why? What makes neural quantum events susceptible to mental influence while laboratory quantum events are not? The "brain specialness" boundary—[[concepts/consciousness-selecting-neural-patterns#Brain Specialness|why consciousness only affects integrated neural systems]]—provides a principled answer, but probability control within brains still risks in-principle detectability via careful measurement.
 
 ## The Map's Position
 
@@ -162,7 +162,7 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [[stapp-quantum-mind]] — Detailed treatment of basis and timing control
 - [[quantum-consciousness]] — Overview of quantum-mind theories
 - [[measurement-problem]] — Why outcomes need explanation
-- [[consciousness-selecting-neural-patterns]] — What selection actually selects
+- [[concepts/consciousness-selecting-neural-patterns]] — What selection actually selects
 - [[quantum-probability-consciousness]] — How Born probabilities relate to consciousness
 - [[attention]] — The phenomenal variable most tied to coupling
 - [[mental-effort]] — Effort as timing/observation rate control

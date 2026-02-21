@@ -8,14 +8,14 @@ ai_modified: 2026-02-21T08:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[philosophy-of-time]]"
   - "[[temporal-consciousness]]"
   - "[[duration]]"
   - "[[collapse-and-time]]"
   - "[[process-philosophy]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[specious-present]]"
   - "[[illusionism]]"
 related_articles:
@@ -48,7 +48,7 @@ Eternalism is the default assumption in modern physics. Relativity treats time a
 
 If all times are equally real, temporal flow is illusory. The experience of "now" moving from past to future is a subjective overlay on a static four-dimensional structure. This forces a choice. Either consciousness is a real feature of the block—in which case, why does it systematically misrepresent reality by producing an illusion of flow? Or temporal experience accurately tracks something real—in which case, eternalism is incomplete.
 
-The natural pairing is eternalism with [[functionalism|functionalism]] or [[illusionism|illusionism]]. If consciousness is functional—if what matters is the computational pattern, not the substrate—then temporal experience is whatever the neural/computational pattern produces, and its accuracy about time's nature is irrelevant. Illusionism goes further: the seeming of temporal flow is a representational artefact, and there is nothing it is like beyond the functional state that misrepresents stasis as passage.
+The natural pairing is eternalism with [[concepts/functionalism|functionalism]] or [[illusionism|illusionism]]. If consciousness is functional—if what matters is the computational pattern, not the substrate—then temporal experience is whatever the neural/computational pattern produces, and its accuracy about time's nature is irrelevant. Illusionism goes further: the seeming of temporal flow is a representational artefact, and there is nothing it is like beyond the functional state that misrepresents stasis as passage.
 
 This pairing is coherent but costly. The cost is Bergson's [[duration|durée]]—the qualitative, interpenetrating, irreducible flow of lived time. If temporal experience is illusory or merely functional, durée is an error. The melody you hear as unified flow is really a sequence of discrete states, each statically existing at its spacetime location, with "flow" injected by the brain's representational machinery. Every moment of experienced passage is a kind of mistake.
 

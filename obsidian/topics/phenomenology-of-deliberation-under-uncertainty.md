@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-02-14T00:34:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[phenomenology-of-belief-revision]]"
   - "[[phenomenology-of-evidence-assessment]]"
 concepts:

@@ -25,7 +25,7 @@ last_curated: null
 
 ### Topics (4)
 1. [[hard-problem-of-consciousness]] - Central to site's concerns ✓
-2. [[free-will]] - Connects to bidirectional interaction ✓ (NEW)
+2. [[topics/free-will]] - Connects to bidirectional interaction ✓ (NEW)
 3. [[meaning-of-life]] - Philosophical implications ✓ (NEW)
 4. [[ai-consciousness]] - Contemporary relevance ✓ (NEW)
 
@@ -41,10 +41,10 @@ last_curated: null
 9. (concepts index exists but is sparse)
 
 ### Arguments (1)
-1. [[materialism]] - Case against physicalism ✓
+1. [[concepts/materialism]] - Case against physicalism ✓
 
 ### Questions (1)
-1. [[consciousness-selecting-neural-patterns]] - Open question ✓
+1. [[concepts/consciousness-selecting-neural-patterns]] - Open question ✓
 
 ### Research Notes (9)
 1. arguments-against-materialism-2026-01-06

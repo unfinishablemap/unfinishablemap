@@ -16,7 +16,7 @@ topics:
   - "[[phenomenology-of-anticipation]]"
 concepts:
   - "[[predictive-processing]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[consciousness-as-amplifier]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
@@ -94,7 +94,7 @@ If surprise were merely a precision-weighted error signal, it would update the m
 
 ## Surprise and the Case Against Epiphenomenalism
 
-Surprise provides evidence against [[epiphenomenalism]]—the view that consciousness observes but does not influence physical processes.
+Surprise provides evidence against [[concepts/epiphenomenalism]]—the view that consciousness observes but does not influence physical processes.
 
 If the felt quality of surprise is epiphenomenal, then the qualitative jolt of the unexpected does no causal work. The prediction error alone handles the model updating; the somatic startle is a reflex; the attentional reorientation is explained by precision weighting. The phenomenal character of surprise is, on this view, along for the ride.
 
@@ -147,7 +147,7 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - [[phenomenology-of-surprise-and-prediction-error]] — The prediction error spectrum and its phenomenological dimensions
 - [[predictive-processing]] — The computational framework for prediction and error
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive function
-- [[epiphenomenalism]] — The view that consciousness doesn't cause anything
+- [[concepts/epiphenomenalism]] — The view that consciousness doesn't cause anything
 - [[evolutionary-case-for-mental-causation]] — Why natural selection implies mental causation
 - [[choking-phenomenon-mental-causation]] — Another case against epiphenomenalism from a different angle
 - [[creativity-consciousness-and-novel-thought]] — Creative insight and the encounter with genuine novelty

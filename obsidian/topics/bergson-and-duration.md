@@ -8,7 +8,7 @@ ai_modified: 2026-02-20T20:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[process-philosophy]]"
@@ -126,7 +126,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [[temporal-consciousness]] — The specious present, Bergson's durée, and the phenomenology of lived time
 - [[process-philosophy]] — Whitehead's systematisation of themes Bergson anticipated
 - [[philosophy-of-time]] — A-theory, B-theory, and the Map's growing block position
-- [[free-will]] — The Map's defence of agent-causal libertarian free will
+- [[topics/free-will]] — The Map's defence of agent-causal libertarian free will
 - [[agent-causation]] — The self as originator of action in durée
 - [[phenomenology-of-choice]] — The lived experience of deliberation and decision
 - [[temporal-thickness]] — How much of one's past enters each present moment

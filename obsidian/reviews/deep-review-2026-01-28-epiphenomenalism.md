@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-28
-**Article**: [[epiphenomenalism|Epiphenomenalism]]
+**Article**: [[concepts/epiphenomenalism|Epiphenomenalism]]
 **Previous review**: [[deep-review-2026-01-27-epiphenomenalism|2026-01-27]]
 **Cross-review context**: contemplative evidence for consciousness theories
 

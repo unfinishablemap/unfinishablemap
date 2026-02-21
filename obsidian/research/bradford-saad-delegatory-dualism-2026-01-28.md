@@ -8,7 +8,7 @@ draft: false
 topics: []
 concepts:
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[arguments-for-dualism]]"
 related_articles:
   - "[[interactionist-dualism-2026-01-06]]"

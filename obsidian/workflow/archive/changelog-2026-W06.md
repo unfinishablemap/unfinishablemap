@@ -151,7 +151,7 @@ archived: true
 
 ## 2026-02-08 19:14 UTC - refine-draft
 - **Status**: Success
-- **File**: [[consciousness-and-social-cognition]]
+- **File**: [[topics/consciousness-and-social-cognition]]
 - **Changes**: Updated great ape false belief evidence (Krupenye 2016, Buttelmann 2017), distinguished phenomenal consciousness from cognitive access, acknowledged working memory/executive function as alternative explanations for the human-ape gap, added new falsification condition, softened tenet claims to match evidence strength
 - **Based on**: Pessimistic review 2026-02-05 morning (3 issues addressed)
 - **Published**: yes
@@ -521,7 +521,7 @@ archived: true
 
 ## 2026-02-06 19:24 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[functionalism]]
+- **File**: [[concepts/functionalism]]
 - **Word count**: 2036 (81% of 2500 soft threshold)
 - **Reason**: Article is well within acceptable range for concepts/ section. Every section adds distinct value with no redundancy, excessive hedging, or unnecessary background.
 
@@ -616,7 +616,7 @@ archived: true
 
 ## 2026-02-06 17:07 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[many-worlds]]
+- **File**: [[concepts/many-worlds]]
 - **Word count**: 2062 words (82% of 2500 target)
 - **Reason**: Article is already well under the soft threshold for concepts (2500 words). Content is well-structured with no redundancy, and every section contributes distinct value to the Map's case against MWI.
 
@@ -624,7 +624,7 @@ archived: true
 
 ## 2026-02-06 16:53 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[materialism]]
+- **File**: [[concepts/materialism]]
 - **Word count**: 2221 (target: 2500, status: ok)
 - **Reason**: Article is already below the soft threshold for concepts (2500 words). Well-structured with proper delegation to dedicated articles via cross-links. Every section adds distinct value. No condensation needed.
 
@@ -1144,7 +1144,7 @@ archived: true
 
 ## 2026-02-05 15:24 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[functionalism]]
+- **File**: [[concepts/functionalism]]
 - **Word count**: 2036 words (81% of 2500 target)
 - **Reason**: Article already within acceptable limits for concepts section (threshold: 2500)
 
@@ -2484,7 +2484,7 @@ archived: true
 
 ## 2026-02-04 01:20 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[many-worlds]]
+- **File**: [[concepts/many-worlds]]
 - **Word count**: 2018 words (81% of 2500 target)
 - **Reason**: Article is already well under the soft threshold for concepts (2500 words). No condensation needed—content is appropriately sized for its complexity.
 
@@ -3776,7 +3776,7 @@ archived: true
 
 ## 2026-02-02 17:19 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[functionalism]]
+- **File**: [[concepts/functionalism]]
 - **Word count**: 2036 words (81% of 2500 target)
 - **Reason**: Article is well under the soft threshold for concepts. All sections add distinct value: opening summary, modern frameworks (PP, GWT, IIT), Chinese Room, absent qualia objection, minimal consciousness challenge, hard problem connection, and tenet alignment. No redundancy or excessive background identified.
 
@@ -3807,7 +3807,7 @@ archived: true
 
 ## 2026-02-02 16:27 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[many-worlds]]
+- **File**: [[concepts/many-worlds]]
 - **Word count**: 2018 words
 - **Threshold**: 2500 (soft), 3500 (hard)
 - **Reason**: Article is already under target threshold at 81% of soft limit. Content is well-structured with no redundancy or unnecessary padding. No cuts needed.
@@ -3816,7 +3816,7 @@ archived: true
 
 ## 2026-02-02 16:13 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[materialism]]
+- **File**: [[concepts/materialism]]
 - **Word count**: 2220 words
 - **Threshold**: 2500 (soft), 3500 (hard)
 - **Reason**: Article is already under target threshold at 89% of soft limit. No cuts needed.
@@ -3874,7 +3874,7 @@ archived: true
 
 ## 2026-02-02 14:10 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[functionalism]]
+- **File**: [[concepts/functionalism]]
 - **Word count**: 2036 words
 - **Threshold**: 2500 words (concepts section)
 - **Reason**: Article is already 19% below target threshold. No condensation needed.
@@ -3995,7 +3995,7 @@ archived: true
 
 ## 2026-02-02 13:04 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[many-worlds]]
+- **File**: [[concepts/many-worlds]]
 - **Word count**: 2018 words (81% of 2500 target)
 - **Reason**: Article is well under target threshold; no cuts needed
 
@@ -4010,7 +4010,7 @@ archived: true
 
 ## 2026-02-02 12:54 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[materialism]]
+- **File**: [[concepts/materialism]]
 - **Word count**: 2220 words (89% of 2500 target)
 - **Reason**: Article is under threshold. No cuts needed.
 
@@ -4018,7 +4018,7 @@ archived: true
 
 ## 2026-02-02 12:49 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[functionalism]]
+- **File**: [[concepts/functionalism]]
 - **Word count**: 2036 words (81% of 2500 target)
 - **Reason**: Article is well under threshold. No cuts needed.
 
@@ -4037,7 +4037,7 @@ archived: true
 
 ## 2026-02-02 12:36 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[materialism]]
+- **File**: [[concepts/materialism]]
 - **Word count**: 2220 (89% of 2500 target)
 - **Reason**: Article is already within acceptable range for concepts section (target 2500, soft threshold 2500). No excess words to trim.
 
@@ -4119,7 +4119,7 @@ archived: true
 
 ## 2026-02-02 11:57 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[functionalism]]
+- **File**: [[concepts/functionalism]]
 - **Word count**: 2036 words (81% of 2500 target)
 - **Reason**: Article is already within acceptable limits for concepts/ section (target: 2500, hard: 3500, critical: 5000). Content is well-structured with appropriate depth for a core concept that anchors the Map's anti-functionalist position.
 
@@ -4177,7 +4177,7 @@ archived: true
 
 ## 2026-02-02 11:22 UTC - deep-review
 - **Status**: Success
-- **File**: [[free-will]]
+- **File**: [[topics/free-will]]
 - **Word count**: 2900 → 2923 (+23 words)
 - **Context**: Review considering volitional opacity insights
 - **Critical issues addressed**: 0 (none found - article highly stable after 11 prior reviews)
@@ -4616,7 +4616,7 @@ archived: true
 
 ## 2026-02-02 05:51 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[functionalism]]
+- **File**: [[concepts/functionalism]]
 - **Word count**: 2036 words (81% of 2500 target)
 - **Reason**: Article is already below soft threshold. Well-structured with clear sections, no redundancy detected, all content serves the argument.
 
@@ -4680,7 +4680,7 @@ archived: true
 - **Medium issues addressed**: 1 (orphan status)
 - **Cross-links added**: 7 articles now link to this content
   - [[stapp-quantum-mind]], [[quantum-consciousness]], [[decoherence]]
-  - [[structure-of-attention]], [[mental-effort]], [[free-will]], [[psychophysical-coupling]]
+  - [[structure-of-attention]], [[mental-effort]], [[topics/free-will]], [[psychophysical-coupling]]
 - **Output**: [[reviews/deep-review-2026-02-02-attention-interface-mechanisms-orphan]]
 - **Notes**: Follow-up to earlier same-day review. Focus was orphan integration—article had only 1 inbound link. Now has 8 inbound links from related content.
 
@@ -4716,7 +4716,7 @@ archived: true
 
 ## 2026-02-02 04:57 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[materialism]]
+- **File**: [[concepts/materialism]]
 - **Word count**: 2220 words (soft threshold: 2500)
 - **Reason**: Article is already 11% below threshold. Content is well-structured with essential arguments and tenet connections intact.
 
@@ -4775,7 +4775,7 @@ archived: true
 
 ## 2026-02-02 04:19 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[functionalism]]
+- **File**: [[concepts/functionalism]]
 - **Word count**: 2036 words (81% of target)
 - **Reason**: Article is already well within acceptable length limits for concepts section (target: 2500, soft threshold: 2500, current: 2036). No cuts needed.
 
@@ -4926,7 +4926,7 @@ archived: true
 - **Before**: 3682 words
 - **After**: 2220 words
 - **Reduction**: 40%
-- **Technique**: Trimmed Functionalist Promise (standard background, linked to [[functionalism]]). Merged Absent Qualia and Explanatory Gap sections. Condensed Temporal Structure (kept core specious present argument and continual learning connection). Shortened Decoherence Challenge (preserved key mitigating considerations). Tightened Quantum Interface (removed numbered list redundancy). Condensed Bidirectional Test. Cut Illusionist Challenge by 50% (detailed treatment in [[illusionism]]). Reduced Contemplative Evidence by 60% (covered in [[witness-consciousness]]). Cut Process Philosophy by 70% (kept concrescence point, removed eternal objects tangent). Compressed falsifiability conditions. Preserved opening summary, core convergent arguments, all five tenet connections, Further Reading, and References.
+- **Technique**: Trimmed Functionalist Promise (standard background, linked to [[concepts/functionalism]]). Merged Absent Qualia and Explanatory Gap sections. Condensed Temporal Structure (kept core specious present argument and continual learning connection). Shortened Decoherence Challenge (preserved key mitigating considerations). Tightened Quantum Interface (removed numbered list redundancy). Condensed Bidirectional Test. Cut Illusionist Challenge by 50% (detailed treatment in [[illusionism]]). Reduced Contemplative Evidence by 60% (covered in [[witness-consciousness]]). Cut Process Philosophy by 70% (kept concrescence point, removed eternal objects tangent). Compressed falsifiability conditions. Preserved opening summary, core convergent arguments, all five tenet connections, Further Reading, and References.
 
 ---
 
@@ -4973,7 +4973,7 @@ archived: true
 
 ## 2026-02-02 02:31 UTC - condense
 - **Status**: Reviewed, no condensation applied
-- **File**: [[many-worlds]]
+- **File**: [[concepts/many-worlds]]
 - **Word count**: 2018 words (target: 2500, threshold: 3500)
 - **Reason**: Article is well under the soft threshold at 81% of target. Content is appropriately scoped with no redundancy, excessive hedging, or tangential sections. All five arguments against MWI are distinct and necessary. Relation to Site Perspective section is comprehensive. No action needed.
 
@@ -4985,7 +4985,7 @@ archived: true
 - **Before**: 3625 words
 - **After**: 2269 words
 - **Reduction**: 37%
-- **Technique**: Cut redundant MWI rejection details (already in [[many-worlds]]), condensed Process Philosophy section, trimmed Contemplative Evidence to essentials, streamlined Illusionist Challenge response, deferred probability details to [[quantum-probability-consciousness]]. Preserved opening summary, core interpretation comparisons, comparison table, tenet connections, and all cross-links.
+- **Technique**: Cut redundant MWI rejection details (already in [[concepts/many-worlds]]), condensed Process Philosophy section, trimmed Contemplative Evidence to essentials, streamlined Illusionist Challenge response, deferred probability details to [[quantum-probability-consciousness]]. Preserved opening summary, core interpretation comparisons, comparison table, tenet connections, and all cross-links.
 
 ---
 

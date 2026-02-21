@@ -41,7 +41,7 @@ All strengths identified in earlier review remain intact.
 
 The following articles now link to [[phenomenal-value-realism-development]]:
 
-1. **[[phenomenal-value-realism]]** (concept article)
+1. **[[topics/phenomenal-value-realism]]** (concept article)
    - Added to Further Reading section
    - Context: "Developing the metaethical foundations: how the view addresses queerness objections, the is-ought gap, and extends to phenomenal value pluralism"
 

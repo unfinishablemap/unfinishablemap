@@ -8,10 +8,10 @@ ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-coupling-law]]"
   - "[[interactionist-dualism]]"
   - "[[attention]]"
@@ -234,7 +234,7 @@ This article addresses why consciousness *doesn't* act externally. The complemen
 ## Further Reading
 
 - [[brain-specialness]] - What makes neural systems suitable interfaces (the positive account)
-- [[consciousness-selecting-neural-patterns]] - The proposed mechanism for selection
+- [[concepts/consciousness-selecting-neural-patterns]] - The proposed mechanism for selection
 - [[psychophysical-coupling-law]] - Constraints on the coupling between mind and brain
 - [[attention]] - How attention implements quantum observation
 - [[attention-as-interface]] - Why attention specifically serves as the interface

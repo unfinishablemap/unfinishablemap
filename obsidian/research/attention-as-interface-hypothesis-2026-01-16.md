@@ -7,12 +7,12 @@ ai_modified: 2026-01-16T22:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[attention]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[tenets]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"

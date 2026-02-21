@@ -49,7 +49,7 @@ last_curated: null
 
 ### Cross-links Preserved
 - [[phenomenal-unity]], [[binding-problem]], [[personal-identity]], [[haecceity]]
-- [[consciousness-selecting-neural-patterns]], [[hard-problem-of-consciousness]]
+- [[concepts/consciousness-selecting-neural-patterns]], [[hard-problem-of-consciousness]]
 - [[illusionism]], [[introspection]], [[witness-consciousness]], [[decoherence]]
 - [[neural-correlates-of-consciousness]], [[tenets]]
 

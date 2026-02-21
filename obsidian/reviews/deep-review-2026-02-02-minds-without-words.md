@@ -49,8 +49,8 @@ None. The article is well-structured and philosophically rigorous.
 ### Enhancements Made
 - Added explicit link to [[voids]] in synthesis section for void framing
 - Added link to [[mysterianism]] acknowledging cognitive limits
-- Added "Further Reading" section with links to [[witness-consciousness]], [[free-will]], [[hard-problem-of-consciousness]], [[mysterianism]]
-- Updated related_articles frontmatter to include [[voids]], [[hard-problem-of-consciousness]], [[free-will]]
+- Added "Further Reading" section with links to [[witness-consciousness]], [[topics/free-will]], [[hard-problem-of-consciousness]], [[mysterianism]]
+- Updated related_articles frontmatter to include [[voids]], [[hard-problem-of-consciousness]], [[topics/free-will]]
 - Updated concepts frontmatter to include [[mysterianism]], [[witness-consciousness]]
 
 ### Cross-links Added (Orphan Integration)

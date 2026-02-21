@@ -8,7 +8,7 @@ ai_modified: 2026-02-02T21:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[reductionism]]"
   - "[[mental-causation]]"
@@ -16,10 +16,10 @@ concepts:
   - "[[causal-closure]]"
   - "[[emergence]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[agent-causation]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
   - "[[illusionism]]"
   - "[[attention-as-interface]]"
   - "[[luck-objection]]"
@@ -58,7 +58,7 @@ These premises are jointly inconsistent. If physical causes are sufficient (prem
 - Overdetermines effects (violating premise 3), or
 - Doesn't occur at all (denying premise 2)
 
-Kim concludes that higher-level properties—including mental properties—are causally excluded by their physical realizers. Either consciousness causes nothing ([[epiphenomenalism]]), or consciousness just *is* its physical realizer (reductionism).
+Kim concludes that higher-level properties—including mental properties—are causally excluded by their physical realizers. Either consciousness causes nothing ([[concepts/epiphenomenalism]]), or consciousness just *is* its physical realizer (reductionism).
 
 ## The Drainage Problem
 
@@ -120,7 +120,7 @@ The decoherence objection is a serious empirical challenge, not a philosophical 
 
 ### Why Not Many Worlds?
 
-If the [[many-worlds|many-worlds interpretation]] is correct, all quantum outcomes occur in branching universes. There's no "selection" for consciousness to perform—every possibility actualises somewhere.
+If the [[concepts/many-worlds|many-worlds interpretation]] is correct, all quantum outcomes occur in branching universes. There's no "selection" for consciousness to perform—every possibility actualises somewhere.
 
 This matters critically for downward causation. The mechanism proposed here requires that consciousness *selects* among quantum possibilities. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
 
@@ -164,7 +164,7 @@ Downward causation, as defended here, is falsifiable. Findings that would underm
 
 **Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue—not just challenging but excluded by physics—the proposed interface mechanism fails. Current evidence from quantum biology (avian magnetoreception, enzyme catalysis, photosynthesis) suggests biological quantum effects are more robust than expected, but definitive evidence against neural quantum effects would be significant.
 
-**Confirmation of Many-Worlds**: If the [[many-worlds|many-worlds interpretation]] were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
+**Confirmation of Many-Worlds**: If the [[concepts/many-worlds|many-worlds interpretation]] were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
 
 **Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for downward causation. Current illusionist proposals face the regress problem, but a proposal that genuinely avoided it would challenge the Map's position.
 
@@ -178,7 +178,7 @@ Downward causation is central to the Map's framework.
 
 **The Quantum Mechanism**: The Minimal Quantum Interaction tenet specifies *where* downward causation works: at quantum indeterminacies where physics is incomplete. This provides what classical defences lacked—a framework respecting conservation laws while allowing genuine higher-level influence. The precise mechanism translating conscious intention into quantum-level effects remains a research program with candidate proposals (quantum Zeno, Orch OR), not a completed theory.
 
-**Against Epiphenomenalism**: If downward causation fails, we have [[epiphenomenalism]]—but this is self-undermining. If consciousness causes nothing, our reports and beliefs about experience are causally disconnected from actual experiences. Downward causation must occur or we lose epistemic access to our own minds.
+**Against Epiphenomenalism**: If downward causation fails, we have [[concepts/epiphenomenalism]]—but this is self-undermining. If consciousness causes nothing, our reports and beliefs about experience are causally disconnected from actual experiences. Downward causation must occur or we lose epistemic access to our own minds.
 
 **The Interface Mechanism**: [[Attention-as-interface|Attention]] is the proposed mechanism through which consciousness exercises downward causation. The phenomenology of [[mental-effort|mental effort]] is consistent with genuine downward causation at the neural level. How coarse-grained conscious intention (~10 bits/second) translates into fine-grained quantum observations remains an open question—see [[quantum-consciousness]].
 
@@ -191,11 +191,11 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [[causal-closure]] — The principle downward causation challenges
 - [[emergence]] — Strong emergence requires downward causation
 - [[interactionist-dualism]] — the Map's framework defending downward causation
-- [[epiphenomenalism]] — The view denying downward causation
+- [[concepts/epiphenomenalism]] — The view denying downward causation
 - [[quantum-consciousness]] — The mechanism for consciousness-brain interaction
 - [[agent-causation]] — Agent causation as substance causation applied to free action
 - [[agent-causation#The Metaphysical Foundation: Substance Causation|Substance causation]] — The metaphysical thesis that substances, not events, are fundamental causal agents
-- [[many-worlds]] — Why the Map rejects MWI (and why it matters for downward causation)
+- [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters for downward causation)
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[attention-as-interface]] — How attention implements downward causation

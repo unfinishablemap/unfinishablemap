@@ -78,7 +78,7 @@ last_curated: null
 - [[witness-consciousness]]
 - [[haecceity]]
 - [[decoherence]]
-- [[consciousness-selecting-neural-patterns]]
+- [[concepts/consciousness-selecting-neural-patterns]]
 - [[meditation-and-consciousness-modes]]
 
 ## Remaining Items

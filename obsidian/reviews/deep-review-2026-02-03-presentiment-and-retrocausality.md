@@ -69,7 +69,7 @@ Added inbound links from related articles to address orphan status:
 The article already had 4 inbound links from:
 - [[retrocausality]]
 - [[time-symmetric-physics]]
-- [[free-will]]
+- [[topics/free-will]]
 - [[time-symmetric-selection-mechanism]]
 
 ## Word Count

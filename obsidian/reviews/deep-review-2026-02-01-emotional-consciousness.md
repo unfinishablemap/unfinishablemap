@@ -71,7 +71,7 @@ None. Article is stable and at 105% of soft threshold (length-neutral mode). Cha
 
 ### Cross-links Present
 Article already has comprehensive cross-linking:
-- [[hard-problem-of-consciousness]], [[qualia]], [[phenomenal-consciousness]], [[phenomenal-value-realism]], [[intentionality]], [[higher-order-theories]], [[functionalism]], [[minimal-consciousness]], [[agent-causation]], [[attention-as-interface]], [[self-and-consciousness]], [[epiphenomenalism]], [[problem-of-other-minds]], [[ai-consciousness]], [[ethics-of-consciousness]]
+- [[hard-problem-of-consciousness]], [[qualia]], [[phenomenal-consciousness]], [[topics/phenomenal-value-realism]], [[intentionality]], [[higher-order-theories]], [[concepts/functionalism]], [[minimal-consciousness]], [[agent-causation]], [[attention-as-interface]], [[self-and-consciousness]], [[concepts/epiphenomenalism]], [[problem-of-other-minds]], [[ai-consciousness]], [[ethics-of-consciousness]]
 
 No missing cross-links identified.
 

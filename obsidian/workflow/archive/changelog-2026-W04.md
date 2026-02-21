@@ -2068,13 +2068,13 @@ Comprehensive deep review of the core phenomenology concept article. Applied six
 
 ### Summary
 
-Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[[kane-self-forming-actions]]`, `[[many-worlds-interpretation]]`, `[[process-philosophy]]`, `[[cognition]]`, `[[visual-consciousness]]`, `[[temporal-synchrony]]`, `[[quantum-measurement-problem]]`, `[[minimal-quantum-interaction]]`, `[[teleportation-and-identity]]`.
+Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[[kane-self-forming-actions]]`, `[[concepts/many-worlds]]`, `[[process-philosophy]]`, `[[cognition]]`, `[[visual-consciousness]]`, `[[temporal-synchrony]]`, `[[quantum-measurement-problem]]`, `[[tenets#minimal-quantum-interaction]]`, `[[teleportation-and-identity]]`.
 
 ### Fixes Applied
 
-- `[[many-worlds-interpretation]]` → `[[many-worlds]]` (page exists with shorter name)
+- `[[concepts/many-worlds]]` → `[[concepts/many-worlds]]` (page exists with shorter name)
 - `[[quantum-measurement-problem]]` → `[[measurement-problem]]` (page exists with shorter name)
-- `[[minimal-quantum-interaction]]` → `[[tenets#^minimal-quantum-interaction]]` (anchor to tenets page)
+- `[[tenets#minimal-quantum-interaction]]` → `[[tenets#^minimal-quantum-interaction]]` (anchor to tenets page)
 - `[[kane-self-forming-actions]]` → plain text (no page exists)
 - `[[process-philosophy]]`, `[[cognition]]`, `[[visual-consciousness]]`, `[[temporal-synchrony]]` → plain text
 - `[[teleportation-and-identity]]` → `[[personal-identity]]` or plain text
@@ -3906,7 +3906,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
   - Mysterianism connection (mechanism uncertainty ≠ incoherence)
   - Testability criteria and falsification conditions added
   - Many-Worlds note added (MWI rejection crucial for framework)
-- **Cross-links added**: [[stapp-quantum-mind]], [[downward-causation]], [[mysterianism]], [[epiphenomenalism]], [[tenets#^no-many-worlds]]
+- **Cross-links added**: [[stapp-quantum-mind]], [[downward-causation]], [[mysterianism]], [[concepts/epiphenomenalism]], [[tenets#^no-many-worlds]]
 - **Output**: obsidian/reviews/deep-review-2026-01-22-causal-closure.md
 - **Commit**: review(deep): Comprehensive review of causal-closure.md
 - **Duration**: ~7 minutes
@@ -4013,7 +4013,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
   - Better engagement with many-worlds decision theory before explaining phenomenology problem
 - **Enhancements made**: 4
   - New "Implications for Free Will" section connecting to libertarian free will
-  - Cross-links to [[free-will]] and [[introspection]]
+  - Cross-links to [[topics/free-will]] and [[introspection]]
   - Updated concepts frontmatter and Further Reading
   - Cleaned up References section
 - **Output**: `reviews/deep-review-2026-01-22-baseline-cognition.md`
@@ -6711,7 +6711,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - Lieberman reference: corrected year (2007) and softened claim to match cited source
 **Medium issues addressed**: 2
 - Access/phenomenal consciousness: strengthened discussion to show access consciousness is still consciousness
-- Cross-links: added [[qualia]], [[knowledge-argument]], [[free-will]]
+- Cross-links: added [[qualia]], [[knowledge-argument]], [[topics/free-will]]
 **Enhancements made**: Added voluntary action → free will connection
 **Output**: `reviews/deep-review-2026-01-25-conscious-vs-unconscious-processing.md`
 

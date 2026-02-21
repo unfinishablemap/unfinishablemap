@@ -90,7 +90,7 @@ last_curated: null
 ### Cross-links Added
 
 - [[stapp-quantum-mind]] (to concepts frontmatter and Further Reading top position)
-- [[free-will]] (to concepts frontmatter and Further Reading)
+- [[topics/free-will]] (to concepts frontmatter and Further Reading)
 
 ## Word Count
 

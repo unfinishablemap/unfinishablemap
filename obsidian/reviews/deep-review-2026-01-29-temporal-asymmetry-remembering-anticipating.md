@@ -68,9 +68,9 @@ None. The article is well-structured and philosophically sound.
 
 ### Cross-links Added
 
-- [[free-will]] (in bidirectional interaction tenet connection)
-- [[functionalism]] (in illusionist challenge section)
-- Added to related_articles frontmatter: [[free-will]], [[functionalism]]
+- [[topics/free-will]] (in bidirectional interaction tenet connection)
+- [[concepts/functionalism]] (in illusionist challenge section)
+- Added to related_articles frontmatter: [[topics/free-will]], [[concepts/functionalism]]
 
 ## Word Count
 

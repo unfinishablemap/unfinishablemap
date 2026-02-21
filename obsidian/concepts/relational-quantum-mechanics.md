@@ -162,7 +162,7 @@ Note, however, that RQM faces its own version of the "how does collapse happen?"
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** **Direct conflict.** RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms. The Map's central claim—that consciousness participates in determining quantum outcomes—fails.
 
-The [[epiphenomenalism|epiphenomenalism concern]] cuts both ways, however. RQM makes consciousness epiphenomenal by default—experience accompanies physical interactions (if it exists at all) but plays no causal role. The same considerations that make epiphenomenalism problematic for dualists apply here: why do we talk about consciousness if it does nothing? The bidirectional interaction tenet addresses this by giving consciousness genuine causal work. RQM leaves the explanatory gap unexplained.
+The [[concepts/epiphenomenalism|epiphenomenalism concern]] cuts both ways, however. RQM makes consciousness epiphenomenal by default—experience accompanies physical interactions (if it exists at all) but plays no causal role. The same considerations that make epiphenomenalism problematic for dualists apply here: why do we talk about consciousness if it does nothing? The bidirectional interaction tenet addresses this by giving consciousness genuine causal work. RQM leaves the explanatory gap unexplained.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]:** RQM also rejects many-worlds, treating collapse (relative to each observer) as real. Here the Map and RQM agree: we don't branch into multiple copies.
 
@@ -181,7 +181,7 @@ The Map rejects this trade-off. Understanding consciousness as causally efficaci
 ## Further Reading
 
 - [[quantum-interpretations]] — Survey of interpretations and their consciousness implications
-- [[many-worlds]] — The interpretation both RQM and the Map reject, for different reasons
+- [[concepts/many-worlds]] — The interpretation both RQM and the Map reject, for different reasons
 - [[multi-mind-collapse-problem]] — How the Map handles multiple conscious observers
 - [[interface-locality]] — Why consciousness can only affect its own brain
 - [[measurement-problem]] — The puzzle RQM dissolves

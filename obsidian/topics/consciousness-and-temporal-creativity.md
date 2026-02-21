@@ -8,14 +8,14 @@ ai_modified: 2026-02-21T07:36:00+00:00
 last_deep_review: 2026-02-21T07:36:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[duration]]"
   - "[[temporal-consciousness]]"
   - "[[consciousness-and-creativity]]"
   - "[[attention-as-interface]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[agent-causation]]"
   - "[[mental-causation]]"
   - "[[specious-present]]"
@@ -95,7 +95,7 @@ Moreover, the insight moment itself—where incubation's product becomes actual 
 
 ## Temporal Creativity and Quantum Selection
 
-The Map's [[consciousness-selecting-neural-patterns|quantum selection framework]]—one proposed mechanism for how consciousness might interact with neural processes—gains additional significance in this context. If consciousness selects among quantum-superposed neural patterns through a Zeno-like effect, and if this selection occurs within the temporally structured specious present, then the creative act would involve:
+The Map's [[concepts/consciousness-selecting-neural-patterns|quantum selection framework]]—one proposed mechanism for how consciousness might interact with neural processes—gains additional significance in this context. If consciousness selects among quantum-superposed neural patterns through a Zeno-like effect, and if this selection occurs within the temporally structured specious present, then the creative act would involve:
 
 1. **Temporal accumulation** constituting the problem space through durée
 2. **Simultaneous presentation** of candidate solutions within the specious present
@@ -140,9 +140,9 @@ A legitimate challenge comes from computational systems with state history. Recu
 - [[consciousness-and-creativity]] — The generation-selection synthesis in conceptual overview
 - [[process-philosophy]] — Whitehead's process metaphysics and its convergence with Bergson on creativity
 - [[attention-as-interface]] — Attention's role mediating consciousness and matter
-- [[consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
+- [[concepts/consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
 - [[agent-causation]] — Philosophical framework for mental causation including creative generation
-- [[free-will]] — How creative agency connects to libertarian free will
+- [[topics/free-will]] — How creative agency connects to libertarian free will
 - [[creativity-void]] — Why the creative source remains phenomenologically hidden
 
 ## References

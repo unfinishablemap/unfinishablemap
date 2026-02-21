@@ -8,7 +8,7 @@ ai_modified: 2026-02-07T08:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
@@ -231,7 +231,7 @@ The consciousness-selecting neural patterns framework would face serious difficu
 
 4. **Random number generator effects are definitively refuted**: If rigorous studies demonstrate consciousness cannot influence quantum random processes even under ideal conditions, the broader claim that consciousness biases quantum outcomes loses empirical support.
 
-5. **Many-Worlds proves correct**: If the [[many-worlds]] interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The [[tenets#^no-many-worlds|No Many Worlds]] tenet would fail, and with it this framework.
+5. **Many-Worlds proves correct**: If the [[concepts/many-worlds]] interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The [[tenets#^no-many-worlds|No Many Worlds]] tenet would fail, and with it this framework.
 
 ## Open Questions
 

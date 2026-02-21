@@ -271,6 +271,9 @@ def convert_file(
         from .wikilinks import slugify
 
         def link_resolver(target: str) -> str:
+            # Empty target means same-page anchor (e.g. [[#heading]])
+            if not target:
+                return ""
             # Handle path-based targets like "arguments/epiphenomenalism"
             if "/" in target:
                 parts = target.split("/")

@@ -18,9 +18,9 @@ topics:
 concepts:
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[intentionality]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[aesthetic-void]]"
@@ -101,7 +101,7 @@ The Map holds that option one is most coherent. Aesthetic value is real, conscio
 
 Aesthetic value and moral value both depend on consciousness but in different ways that illuminate each other.
 
-Moral value, as [[phenomenal-value-realism]] argues, is intrinsic to certain conscious states. Suffering is bad *in itself*—its badness is constituted by how it feels, not by any external evaluation. Moral value is consciousness-dependent because it *is* a feature of consciousness.
+Moral value, as [[topics/phenomenal-value-realism]] argues, is intrinsic to certain conscious states. Suffering is bad *in itself*—its badness is constituted by how it feels, not by any external evaluation. Moral value is consciousness-dependent because it *is* a feature of consciousness.
 
 Aesthetic value is consciousness-dependent differently. The beauty of a sunset is not a feature of consciousness alone—it requires both the sunset and the conscious observer. Moral value is intrinsic to experience; aesthetic value is relational, arising between subject and object. Remove the suffering and you remove the moral badness. Remove the sunset and you remove *this particular* beauty, though the subject's capacity for beauty remains. Remove the subject and you remove all beauty, though the sunset's physical properties remain.
 
@@ -124,7 +124,7 @@ The ontological dependence of aesthetic value on consciousness connects directly
 - [[consciousness-and-aesthetic-experience-as-philosophical-evidence]] — Beauty as evidence for dualism
 - [[consciousness-and-aesthetic-creation]] — Art-making and bidirectional interaction
 - [[aesthetic-void]] — Cognitive limits beauty reveals
-- [[phenomenal-value-realism]] — Value as intrinsic to experience
+- [[topics/phenomenal-value-realism]] — Value as intrinsic to experience
 - [[phenomenology-of-moral-experience]] — Parallel analysis for moral value
 - [[ethics-of-consciousness]] — The moral implications of conscious experience
 

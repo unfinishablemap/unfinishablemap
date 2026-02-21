@@ -181,7 +181,7 @@ This topic connects to all five tenets:
 - [[conservation-laws-and-mind]] — Why selection respects conservation laws
 - [[stapp-quantum-mind]] — Henry Stapp's quantum Zeno mechanism
 - [[decoherence]] — The quantum coherence challenge
-- [[free-will]] — How quantum selection relates to agent causation
+- [[topics/free-will]] — How quantum selection relates to agent causation
 
 ## References
 

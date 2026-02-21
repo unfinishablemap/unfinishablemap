@@ -8,14 +8,14 @@ ai_modified: 2026-02-17T11:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[process-philosophy]]"
   - "[[prehension]]"
   - "[[agent-causation]]"
   - "[[experiential-alignment]]"
-  - "[[consciousness-selecting-neural-patterns]]"
-  - "[[phenomenal-value-realism]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[combination-problem]]"
   - "[[panpsychism]]"
   - "[[agent-teleology]]"
@@ -34,7 +34,7 @@ last_deep_review: 2026-02-17T11:42:00+00:00
 
 Subjective aim is Alfred North Whitehead's term for the inherent directedness of each actual occasion toward its own completion. Every moment of reality, in Whitehead's [[process-philosophy|process philosophy]], is not passive matter awaiting external forces but an event actively steering itself toward a definite outcome—what Whitehead called "satisfaction." Subjective aim is what makes each occasion *for itself* rather than merely *there*: it introduces teleology at the most fundamental level of reality.
 
-The Unfinishable Map does not adopt Whitehead's panpsychism—the Map holds that consciousness is distinct from physical processes, while Whitehead attributes proto-experiential qualities to all actuality. But the Map engages with subjective aim because Whitehead's framework illuminates the *structure* of directed selection. If metaphysics can coherently describe events steering their own becoming, then [[consciousness-selecting-neural-patterns|consciousness selecting among quantum outcomes]] in the brain is not a miraculous exception requiring ad hoc explanation. It is the most sophisticated instance of a structure Whitehead argued pervades reality.
+The Unfinishable Map does not adopt Whitehead's panpsychism—the Map holds that consciousness is distinct from physical processes, while Whitehead attributes proto-experiential qualities to all actuality. But the Map engages with subjective aim because Whitehead's framework illuminates the *structure* of directed selection. If metaphysics can coherently describe events steering their own becoming, then [[concepts/consciousness-selecting-neural-patterns|consciousness selecting among quantum outcomes]] in the brain is not a miraculous exception requiring ad hoc explanation. It is the most sophisticated instance of a structure Whitehead argued pervades reality.
 
 ## What Subjective Aim Is
 
@@ -50,7 +50,7 @@ Whitehead held that subjective aim is always aim toward *intensity of experience
 
 This has consequences for understanding purpose. As the Map's [[purpose-and-alignment|purpose and alignment]] article develops: human purpose is not an external goal to be discovered or constructed but the ongoing subjective aim of each moment of experience toward maximal intensity and harmony. Purpose is *in* experience, not something experience serves.
 
-The [[experiential-alignment]] concept draws on this insight. If each occasion aims at experiential intensity—integrating hedonic, aesthetic, meaning, agency, and other value dimensions—then alignment is not arbitrary preference but reflects the deep structure of experiential becoming. The [[phenomenal-value-realism|phenomenal value realism]] framework extends this further: values are grounded in phenomenal experience itself, not projected onto a value-neutral world.
+The [[experiential-alignment]] concept draws on this insight. If each occasion aims at experiential intensity—integrating hedonic, aesthetic, meaning, agency, and other value dimensions—then alignment is not arbitrary preference but reflects the deep structure of experiential becoming. The [[topics/phenomenal-value-realism|phenomenal value realism]] framework extends this further: values are grounded in phenomenal experience itself, not projected onto a value-neutral world.
 
 ## Subjective Aim and Selection
 
@@ -58,7 +58,7 @@ The concept most directly relevant to the Map's framework is the connection betw
 
 For Whitehead, each actual occasion involves "decision"—literally a cutting-off (*de-cidere*) of alternatives. The occasion begins with multiple possibilities inherited from its predecessors and entertained through conceptual prehension. Subjective aim determines which possibilities are actualised and which are negatively prehended (excluded). This is selection at the metaphysical level: not random resolution of indeterminacy but directed self-determination.
 
-The parallel to [[consciousness-selecting-neural-patterns]] is structural. In the Map's framework, the brain presents superposed quantum possibilities; consciousness selects which becomes actual. In Whitehead's framework, each occasion inherits data and possibilities; subjective aim determines which achieve satisfaction. Both involve directed selection where prior conditions are necessary but not sufficient to determine the outcome.
+The parallel to [[concepts/consciousness-selecting-neural-patterns]] is structural. In the Map's framework, the brain presents superposed quantum possibilities; consciousness selects which becomes actual. In Whitehead's framework, each occasion inherits data and possibilities; subjective aim determines which achieve satisfaction. Both involve directed selection where prior conditions are necessary but not sufficient to determine the outcome.
 
 Henry Stapp developed the connection between Whitehead's event ontology and quantum mechanics over several decades. In early work, Stapp focused on the structural correspondence between actual occasions and quantum events, while later works—particularly *Mindful Universe* (2011)—argued for completing Heisenberg's ontology with Whitehead's core ideas. Stapp's framework distinguishes the "Heisenberg choice" (which observable to measure, associated with mental causation) from the "Dirac choice" (which outcome nature returns). The structural parallel to Whitehead's concrescence is suggestive: the initial phase of an occasion, guided by subjective aim, resembles the probing question of the Heisenberg choice, while the definite satisfaction achieved resembles the Dirac outcome. Whether Stapp himself intended this tight a mapping is debated, but the convergence between his quantum ontology and Whitehead's process ontology supports the broader point: reality may involve irreducible moments of self-determination that neither randomness nor determinism can capture.
 
@@ -101,9 +101,9 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 - [[process-philosophy]] — Whitehead's broader framework of actual occasions, concrescence, and creativity
 - [[prehension]] — How occasions inherit from predecessors; the data subjective aim synthesises
 - [[agent-causation]] — The philosophical framework subjective aim grounds
-- [[consciousness-selecting-neural-patterns]] — The Map's quantum selection mechanism
+- [[concepts/consciousness-selecting-neural-patterns]] — The Map's quantum selection mechanism
 - [[experiential-alignment]] — Value-directedness as structural feature of consciousness
-- [[phenomenal-value-realism]] — Values grounded in phenomenal experience
+- [[topics/phenomenal-value-realism]] — Values grounded in phenomenal experience
 - [[combination-problem]] — How simple aims might compose into complex consciousness
 - [[purpose-and-alignment]] — Purpose as ongoing subjective aim toward experiential richness
 - [[agent-teleology]] — How conscious beings introduce genuine purpose; subjective aim as metaphysical grounding

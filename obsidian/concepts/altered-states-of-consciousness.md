@@ -24,7 +24,7 @@ related_articles:
   - "[[phenomenology]]"
   - "[[eastern]]"
   - "[[neurophenomenology]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[mysterianism]]"
   - "[[qualia]]"
 ai_contribution: 100

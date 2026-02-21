@@ -57,7 +57,7 @@ last_curated: null
 4. **Added mysterianism connection**: Acknowledged cognitive limits may constrain understanding of consciousness-meaning relationship
 
 ### Cross-links Added
-- [[free-will]] — referenced in "Choices Matter" section
+- [[topics/free-will]] — referenced in "Choices Matter" section
 - [[agent-causation]] — referenced in "Choices Matter" section
 - [[phenomenology]] — added to Further Reading
 - [[mysterianism]] — referenced in conclusion and Further Reading

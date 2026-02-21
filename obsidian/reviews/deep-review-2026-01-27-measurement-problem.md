@@ -70,7 +70,7 @@ All six adversarial personas engaged with the content:
 Already well cross-linked from previous reviews:
 - [[prebiotic-collapse]] — in concepts frontmatter and multi-observer section
 - [[spontaneous-collapse-theories]] — in objective collapse section and Further Reading
-- [[free-will]] — in concepts frontmatter and Further Reading
+- [[topics/free-will]] — in concepts frontmatter and Further Reading
 
 ## Length Management
 

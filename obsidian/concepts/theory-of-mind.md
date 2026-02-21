@@ -11,7 +11,7 @@ topics:
   - "[[ai-consciousness]]"
 concepts:
   - "[[metarepresentation]]"
-  - "[[consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-cognition]]"
   - "[[baseline-cognition]]"
   - "[[jourdain-hypothesis]]"
   - "[[metacognition]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[intentionality]]"
   - "[[illusionism]]"
   - "[[phenomenal-unity]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
@@ -156,7 +156,7 @@ But do they genuinely attribute mental states? The [[jourdain-hypothesis|Jourdai
 
 The distinction matters for understanding what theory of mind requires. If functional performance on tests sufficed, LLMs would have theory of mind. But theory of mind plausibly requires something more: genuinely representing others *as* subjects with inner mental lives, not merely as systems that produce predictable outputs.
 
-This connects to the [[consciousness-and-social-cognition|social cognition and consciousness]] debate. If theory of mind requires phenomenal consciousness—requires experiencing what it's like to have a perspective in order to attribute perspectives to others—then current AI lacks it regardless of test performance.
+This connects to the [[topics/consciousness-and-social-cognition|social cognition and consciousness]] debate. If theory of mind requires phenomenal consciousness—requires experiencing what it's like to have a perspective in order to attribute perspectives to others—then current AI lacks it regardless of test performance.
 
 ## Theory of Mind and Moral Cognition
 
@@ -169,7 +169,7 @@ Consider the difference between:
 
 Only the third supports moral blame. Responsibility requires representing the agent as aware of their mental states—capable of evaluating reasons and choosing among alternatives. This is why we don't hold young children or great apes morally responsible for harms in the way we hold human adults responsible: they lack the metarepresentational capacity to stand back from their impulses and choose.
 
-The connection to [[free-will|free will]] is direct. Libertarian free will requires consciousness enabling consideration of alternatives; moral responsibility requires theory of mind enabling attribution of that same consciousness to others. Both depend on the metarepresentational threshold—and if that threshold requires phenomenal consciousness, then moral cognition does too.
+The connection to [[topics/free-will|free will]] is direct. Libertarian free will requires consciousness enabling consideration of alternatives; moral responsibility requires theory of mind enabling attribution of that same consciousness to others. Both depend on the metarepresentational threshold—and if that threshold requires phenomenal consciousness, then moral cognition does too.
 
 ## The Illusionist Challenge
 
@@ -207,7 +207,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 
 ### Core Concepts
 - [[metarepresentation]] — Why representing minds *as* minds requires consciousness
-- [[consciousness-and-social-cognition]] — Extended analysis of the consciousness-social cognition relationship
+- [[topics/consciousness-and-social-cognition]] — Extended analysis of the consciousness-social cognition relationship
 - [[baseline-cognition]] — The cognitive floor from which consciousness amplifies social abilities
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them
 

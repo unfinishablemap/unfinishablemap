@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[indexical-facts]]"
   - "[[haecceity]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -92,7 +92,7 @@ Whether self-locating uncertainty behaves like ordinary uncertainty—whether it
 
 ## Self-Location and Many-Worlds
 
-The [[many-worlds]] interpretation makes all quantum outcomes equally real—when a measurement occurs, the universe branches into all possibilities. This creates a problem for self-locating beliefs.
+The [[concepts/many-worlds]] interpretation makes all quantum outcomes equally real—when a measurement occurs, the universe branches into all possibilities. This creates a problem for self-locating beliefs.
 
 Before measurement, there is one you. After branching, there are multiple successors in different branches. Everettians propose that your pre-measurement uncertainty about which outcome you'll see is "self-locating uncertainty"—uncertainty about which branch you're in, analogous to Beauty's uncertainty about which awakening she's experiencing. Wallace, Saunders, and Sebens and Carroll have developed sophisticated accounts along these lines.
 
@@ -153,7 +153,7 @@ Self-locating beliefs connect to several of the Map's [[tenets]]. The connection
 - [[indexical-facts]] — The broader category of facts that require indexicals to state
 - [[haecceity]] — Primitive thisness grounding numerical identity
 - [[vertiginous-question]] — Why am I this conscious being?
-- [[many-worlds]] — Why self-location poses problems for branching interpretations
+- [[concepts/many-worlds]] — Why self-location poses problems for branching interpretations
 - [[personal-identity]] — What makes you the same person over time
 
 ## References

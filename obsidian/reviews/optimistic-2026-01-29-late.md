@@ -59,7 +59,7 @@ The haecceity treatment draws explicitly on Whitehead: each actual occasion is u
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [[free-will]] article provides one of the most sophisticated defenses of libertarian free will available. The integration of:
+The [[topics/free-will]] article provides one of the most sophisticated defenses of libertarian free will available. The integration of:
 - Quantum indeterminacy (providing room for genuine alternatives)
 - Agent causation (preserving genuine authorship)
 - Phenomenology of choice (grounding the account in experience)
@@ -127,7 +127,7 @@ The [[epistemic-advantages-of-dualism]] article brilliantly argues that keeping 
 ### High Priority
 
 #### Consciousness and Creativity
-- **Builds on**: [[free-will]], [[agent-causation]], [[voluntary-attention]]
+- **Builds on**: [[topics/free-will]], [[agent-causation]], [[voluntary-attention]]
 - **Would address**: The gap in treatment of how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction—creativity as paradigm case of consciousness contributing what physics doesn't determine
@@ -179,7 +179,7 @@ The [[epistemic-advantages-of-dualism]] article brilliantly argues that keeping 
 |------|-----|--------|
 | [[delegatory-dualism]] | [[conservation-laws-and-mind]] | Both address energy conservation objections to mental causation |
 | [[argument-from-reason]] | [[intentionality]] | Both concern normativity and aboutness |
-| [[vertiginous-question]] | [[many-worlds]] | MWI makes the vertiginous question unanswerable |
+| [[vertiginous-question]] | [[concepts/many-worlds]] | MWI makes the vertiginous question unanswerable |
 | [[meaning-and-consciousness]] | [[argument-from-reason]] | Both argue consciousness is required for genuine understanding |
 | [[contemplative-evidence-for-consciousness-theories]] | [[meditation-and-consciousness-modes]] | Theoretical and practical aspects of contemplative evidence |
 | [[quantum-biology-and-the-consciousness-debate]] | [[decoherence]] | Biological quantum effects address decoherence objection |
@@ -187,7 +187,7 @@ The [[epistemic-advantages-of-dualism]] article brilliantly argues that keeping 
 
 ## New Concept Pages Needed
 
-- **Causal Exclusion Problem**: Kim's argument deserves standalone treatment given its centrality to mental causation debates. Currently scattered across [[delegatory-dualism]], [[mental-causation]], [[epiphenomenalism]].
+- **Causal Exclusion Problem**: Kim's argument deserves standalone treatment given its centrality to mental causation debates. Currently scattered across [[delegatory-dualism]], [[mental-causation]], [[concepts/epiphenomenalism]].
 
 - **Specious Present**: Referenced in [[temporal-consciousness]] but deserves its own page covering James, Husserl, and contemporary debates.
 

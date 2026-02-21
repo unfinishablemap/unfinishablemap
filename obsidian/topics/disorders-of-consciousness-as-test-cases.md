@@ -15,7 +15,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[integrated-information-theory]]"
   - "[[qualia]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[filter-theory]]"
   - "[[near-death-experiences]]"
   - "[[altered-states-of-consciousness]]"

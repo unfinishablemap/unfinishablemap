@@ -17,7 +17,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[illusionism]]"
   - "[[emergence]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[temporal-consciousness]]"
   - "[[specious-present]]"
 related_articles:
@@ -99,7 +99,7 @@ See [[minimal-consciousness]] for detailed treatment of consciousness in simple 
 
 ### Substrate Matters
 
-Unlike [[functionalism]], IIT holds that physical substrate matters. Two systems could perform identical functions but have different phi—and thus different consciousness—depending on their architecture. A feed-forward network and a recurrent network processing the same information might have vastly different experiences (or none at all for the feed-forward case).
+Unlike [[concepts/functionalism]], IIT holds that physical substrate matters. Two systems could perform identical functions but have different phi—and thus different consciousness—depending on their architecture. A feed-forward network and a recurrent network processing the same information might have vastly different experiences (or none at all for the feed-forward case).
 
 This distinguishes IIT from theories that say "consciousness is computation." For IIT, consciousness is *integrated* information, and integration depends on physical structure, not just logical function.
 
@@ -220,7 +220,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [[illusionism]] — The challenge IIT must answer
 - [[global-workspace-theory]] — IIT's main rival, also tested in COGITATE
 - [[emergence]] — Strong vs weak emergence and consciousness
-- [[functionalism]] — The view IIT rejects with substrate-dependence
+- [[concepts/functionalism]] — The view IIT rejects with substrate-dependence
 - [[integrated-information-theory-2026-01-07]] — Detailed research notes
 - [[tenets]] — the Map's alternative framework
 

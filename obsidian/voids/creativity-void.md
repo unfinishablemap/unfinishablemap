@@ -27,7 +27,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[conceptual-acquisition-limits]]"
   - "[[creativity-consciousness-and-novel-thought]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[process-and-consciousness]]"
 ai_contribution: 100
 author:
@@ -142,7 +142,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to the haecceity of
 - [[defended-territory|Defended Territory]] — Thoughts blocked by commitment rather than impossibility
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
-- [[free-will|Free Will and Determinism]] — How creative selection connects to agent causation
+- [[topics/free-will|Free Will and Determinism]] — How creative selection connects to agent causation
 - [[agent-causation]] — The framework for consciousness as cause
 
 ## References

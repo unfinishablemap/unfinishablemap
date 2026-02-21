@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-31
-**Article**: [[consciousness-selecting-neural-patterns|Consciousness-Selecting Neural Patterns]]
+**Article**: [[concepts/consciousness-selecting-neural-patterns|Consciousness-Selecting Neural Patterns]]
 **Previous review**: [[deep-review-2026-01-20-consciousness-selecting-neural-patterns|2026-01-20]]
 **Word count**: 2861 words (114% of 2500 soft threshold)
 

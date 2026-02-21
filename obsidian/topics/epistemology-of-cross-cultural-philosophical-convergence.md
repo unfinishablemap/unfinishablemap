@@ -11,7 +11,7 @@ topics:
   - "[[eastern-philosophy-consciousness]]"
 concepts:
   - "[[dualism]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
   - "[[intuitive-dualism]]"
   - "[[mysterianism]]"
   - "[[explanatory-gap]]"

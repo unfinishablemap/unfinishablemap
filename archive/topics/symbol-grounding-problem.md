@@ -16,7 +16,7 @@ topics:
 concepts:
   - "[[phenomenal-intentionality]]"
   - "[[intentionality]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[qualia]]"
   - "[[working-memory]]"
 related_articles:
@@ -71,7 +71,7 @@ Yet embodiment faces a crucial objection: grounding may be necessary but insuffi
 
 Harnad himself notes the distinction: "Grounding is a functional matter; feeling is a felt matter." A system might respond differentially to apples, adjust its behaviour based on apple-presence, update its apple-beliefs—all without understanding anything about apples. The functional grounding creates appropriate causal relations without generating the phenomenal dimension of understanding.
 
-This echoes the broader point against [[functionalism]]: functional organisation may be necessary for mind but cannot be sufficient. The same functional relations could be implemented without any accompanying experience. A system functionally identical to a human apple-understander might lack anything it's like to understand "apple."
+This echoes the broader point against [[concepts/functionalism]]: functional organisation may be necessary for mind but cannot be sufficient. The same functional relations could be implemented without any accompanying experience. A system functionally identical to a human apple-understander might lack anything it's like to understand "apple."
 
 ## The Hard Grounding Problem
 
@@ -125,7 +125,7 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 - [[phenomenal-intentionality]] — The thesis that original intentionality requires phenomenal consciousness
 - [[meaning-and-consciousness]] — The phenomenal constitution of semantic content
 - [[intentionality]] — The aboutness of mental states
-- [[functionalism]] — Why functional organisation is insufficient for mind
+- [[concepts/functionalism]] — Why functional organisation is insufficient for mind
 - [[ai-consciousness]] — Whether artificial systems can have genuine understanding
 - [[machine-consciousness]] — The broader question of machine minds
 - [[hard-problem-of-consciousness]] — The fundamental challenge the grounding problem parallels

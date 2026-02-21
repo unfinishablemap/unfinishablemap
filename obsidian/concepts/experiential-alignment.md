@@ -11,7 +11,7 @@ topics:
   - "[[ai-consciousness]]"
   - "[[ethics-of-consciousness]]"
 concepts:
-  - "[[phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism]]"
   - "[[qualia]]"
   - "[[neurophenomenology]]"
   - "[[phenomenology]]"
@@ -276,7 +276,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 ## Further Reading
 
 - [[purpose-and-alignment]] — The broader context connecting alignment to life's purpose
-- [[phenomenal-value-realism]] — The metaethical position grounding experiential value
+- [[topics/phenomenal-value-realism]] — The metaethical position grounding experiential value
 - [[ethics-of-consciousness]] — How consciousness grounds both moral patienthood and agency
 - [[neurophenomenology]] — First-person methods for investigating experience
 - [[ai-consciousness]] — Why AI may lack the consciousness to understand preferences from inside

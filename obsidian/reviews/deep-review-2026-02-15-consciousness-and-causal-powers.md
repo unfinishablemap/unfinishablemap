@@ -63,7 +63,7 @@ last_curated: null
 - [[phenomenology-of-intellectual-effort]] — effort phenomenology
 - [[quantum-measurement-consciousness-interface]] — in Further Reading
 - [[brain-interface-boundary]] — added to frontmatter concepts
-- [[phenomenal-value-realism]] — added to frontmatter related articles
+- [[topics/phenomenal-value-realism]] — added to frontmatter related articles
 
 ## Remaining Items
 

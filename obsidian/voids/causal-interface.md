@@ -9,7 +9,7 @@ last_deep_review: 2026-02-08T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
@@ -163,7 +163,7 @@ This void appears in the [[tenet-generated-voids|tenet-generated voids]] framewo
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — Physics describes what matter does, not what it is
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[mysterianism|Mysterianism and Cognitive Closure]] — The causal interface as a specific instance of cognitive closure
-- [[free-will|Free Will]] — The broader context for questions of agency
+- [[topics/free-will|Free Will]] — The broader context for questions of agency
 - [[agent-causation|Agent Causation]] — The philosophical concept of the self as cause
 
 ## References

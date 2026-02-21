@@ -76,7 +76,7 @@ Applied six sympathetic philosopher personas: Property Dualist (Chalmers), Quant
 
 ### Cross-links Added
 
-None new—existing cross-links ([[vertiginous-question]], [[haecceity]], [[qualia]], [[many-worlds]], etc.) are comprehensive.
+None new—existing cross-links ([[vertiginous-question]], [[haecceity]], [[qualia]], [[concepts/many-worlds]], etc.) are comprehensive.
 
 ## Remaining Items
 

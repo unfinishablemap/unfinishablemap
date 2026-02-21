@@ -71,7 +71,7 @@ last_curated: null
 
 ### Cross-links Added
 
-- [[free-will]]
+- [[topics/free-will]]
 - [[quantum-indeterminacy-free-will]]
 - [[consciousness-and-agency]]
 - [[knowledge-argument]]

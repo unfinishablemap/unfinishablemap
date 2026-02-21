@@ -8,12 +8,12 @@ ai_modified: 2026-02-20T03:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[attention-as-selection-interface]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[attention-as-interface]]"
-  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[brain-interface-boundary]]"
   - "[[decoherence]]"
   - "[[coupling-modes]]"

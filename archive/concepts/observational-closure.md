@@ -13,7 +13,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[delegatory-dualism]]"
   - "[[mental-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[stapp-quantum-mind]]"
   - "[[quantum-indeterminacy-free-will]]"
@@ -59,7 +59,7 @@ The causal closure argument against [[mental-causation]] runs:
 2. Therefore, mental events cannot add anything—physical causes already suffice
 3. Therefore, if mental events cause physical effects, they overdetermine outcomes already physically determined
 
-If this argument worked, interactionist dualism would require either accepting [[epiphenomenalism]] (consciousness causes nothing) or accepting systematic overdetermination (two sufficient causes for every conscious action).
+If this argument worked, interactionist dualism would require either accepting [[concepts/epiphenomenalism]] (consciousness causes nothing) or accepting systematic overdetermination (two sufficient causes for every conscious action).
 
 The observational/universal distinction reveals a gap in the argument. Premise (1) claims universal closure, but the evidence only supports observational closure. The argument equivocates between what physics has established empirically (no observable violations) and what the argument requires metaphysically (no violations anywhere).
 
@@ -143,7 +143,7 @@ The distinction between observational and universal closure is a key dialectical
 - [[mental-causation]] — What observational closure allows
 - [[quantum-consciousness]] — One mechanism satisfying observational closure
 - [[cognitive-closure]] — A distinct epistemic concept
-- [[epiphenomenalism]] — The view observational closure is not
+- [[concepts/epiphenomenalism]] — The view observational closure is not
 
 ## References
 

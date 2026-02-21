@@ -10,7 +10,7 @@ concepts:
   - "[[consciousness]]"
   - "[[cognition]]"
   - "[[interactionist-dualism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[bidirectional-interaction]]"
   - "[[blindsight]]"
@@ -104,7 +104,7 @@ The baseline cognition hypothesis provides a framework for investigating these q
 - [[metacognition]] — Knowing about knowing
 - [[working-memory]] — The cognitive bottleneck
 - [[interactionist-dualism]] — How mind and matter interact
-- [[epiphenomenalism]] — The view that consciousness is causally inert
+- [[concepts/epiphenomenalism]] — The view that consciousness is causally inert
 - [[bidirectional-interaction]] — Why consciousness must influence the physical
 
 ## References

@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[qualia]]"
   - "[[philosophical-zombies]]"
   - "[[inverted-qualia]]"
@@ -23,10 +23,10 @@ concepts:
   - "[[continual-learning-argument]]"
   - "[[mental-effort]]"
   - "[[mysterianism]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[materialism]]"
+  - "[[concepts/materialism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -333,12 +333,12 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 ## Further Reading
 
 ### Site Content
-- [[functionalism]] — The view under attack, with fuller exposition
+- [[concepts/functionalism]] — The view under attack, with fuller exposition
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[inverted-qualia]] — The spectrum inversion argument
 - [[qualia]] — What functionalism leaves out
 - [[ai-consciousness]] — Why computers probably aren't conscious
-- [[materialism]] — The broader argument against physicalism
+- [[concepts/materialism]] — The broader argument against physicalism
 - [[illusionism]] — The most radical physicalist response, and why it fails
 - [[introspection]] — The reliability of phenomenal access
 - [[witness-consciousness]] — Contemplative evidence for irreducibility

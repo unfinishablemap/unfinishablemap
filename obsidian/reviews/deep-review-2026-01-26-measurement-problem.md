@@ -36,7 +36,7 @@ None. Previous review (2026-01-25) resolved critical issues which remain address
    - *Resolution*: Added brief mention: "McQueen's CSL-IIT hybrid—where integrated information (Φ) amplifies collapse strength—exemplifies how the Map's framework might be implemented."
 
 3. **Missing free-will connection**: The spontaneous-collapse article explicitly connects quantum indeterminacy to libertarian free will; measurement-problem should reference this.
-   - *Resolution*: Added [[free-will]] to concepts frontmatter and Further Reading section.
+   - *Resolution*: Added [[topics/free-will]] to concepts frontmatter and Further Reading section.
 
 ### Counterarguments Considered
 
@@ -59,13 +59,13 @@ None. Previous review (2026-01-25) resolved critical issues which remain address
 ### Enhancements Made
 
 1. **Objective collapse section expanded**: Now mentions prebiotic collapse problem, baseline collapse concept, and CSL-IIT hybrid
-2. **Cross-linking improved**: Added [[spontaneous-collapse-theories]] and [[free-will]] to frontmatter and Further Reading
+2. **Cross-linking improved**: Added [[spontaneous-collapse-theories]] and [[topics/free-will]] to frontmatter and Further Reading
 3. **Better integration**: Article now connects to the Map's fuller treatment of objective collapse theories
 
 ### Cross-links Added
 
 - [[spontaneous-collapse-theories]] — primary cross-reference (concepts list and Further Reading)
-- [[free-will]] — connection to libertarian free will via quantum indeterminacy
+- [[topics/free-will]] — connection to libertarian free will via quantum indeterminacy
 
 ## Length Management
 

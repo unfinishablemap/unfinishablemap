@@ -16,7 +16,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[downward-causation]]"
   - "[[mental-causation]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"

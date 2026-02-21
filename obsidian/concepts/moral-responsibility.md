@@ -7,7 +7,7 @@ human_modified: null
 ai_modified: 2026-02-18T00:02:00+00:00
 draft: false
 topics:
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[ethics-of-consciousness]]"
 concepts:
   - "[[agent-causation]]"
@@ -51,7 +51,7 @@ The agent is the ultimate source of the action. Prior factors influenced but did
 
 ### The Luck Objection
 
-If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [[quantum-indeterminacy-free-will]] for the full treatment of this challenge. The Map's [[free-will#Why the Map's Framework Escapes Luck|response]]: consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
+If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [[quantum-indeterminacy-free-will]] for the full treatment of this challenge. The Map's [[topics/free-will#Why the Map's Framework Escapes Luck|response]]: consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
 
 ### How Agent Causation Grounds Control
 
@@ -175,7 +175,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 ## Further Reading
 
 - [[quantum-indeterminacy-free-will]] — How quantum indeterminacy supports libertarian free will and responds to luck
-- [[free-will]] — The broader free will question and the Map's position
+- [[topics/free-will]] — The broader free will question and the Map's position
 - [[agent-causation]] — Agent vs. event causation in detail
 - [[ethics-of-consciousness]] — Consciousness as the foundation of moral status
 - [[mental-causation]] — How consciousness can cause physical effects

@@ -20,7 +20,7 @@ concepts:
   - "[[illusionism]]"
   - "[[mysterianism]]"
   - "[[spontaneous-collapse-theories]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
@@ -30,7 +30,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[mental-effort]]"
-  - "[[epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
   - "[[phenomenal-unity]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[unity-of-consciousness]]"
@@ -208,7 +208,7 @@ A study of 106 monozygotic twin pairs found that entanglement of qubits in stimu
 
 ### What the Evidence Shows Together
 
-None of this proves quantum consciousness is correct. But it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up. Wiest (2025) argues that if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power—not [[epiphenomenalism|epiphenomenal]] but physically efficacious.
+None of this proves quantum consciousness is correct. But it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up. Wiest (2025) argues that if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power—not [[concepts/epiphenomenalism|epiphenomenal]] but physically efficacious.
 
 ## The Illusionist Challenge
 
@@ -285,7 +285,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - [[phenomenal-unity]] — What quantum binding aims to explain
 - [[illusionism]] — The challenge that phenomenal consciousness may be illusory
 - [[mysterianism]] — Cognitive closure and limits of human understanding
-- [[free-will]] — How quantum indeterminacy relates to libertarian free will
+- [[topics/free-will]] — How quantum indeterminacy relates to libertarian free will
 - [[agent-causation]] — Consciousness as cause at the quantum level
 
 ## References

@@ -67,7 +67,7 @@ last_curated: null
 - [[downward-causation]]
 - [[conscious-vs-unconscious-processing]]
 - [[stapp-quantum-mind]]
-- [[consciousness-selecting-neural-patterns]]
+- [[concepts/consciousness-selecting-neural-patterns]]
 - [[surprise-prediction-error-and-consciousness]]
 - [[binding-problem]]
 - [[phenomenal-transparency]]

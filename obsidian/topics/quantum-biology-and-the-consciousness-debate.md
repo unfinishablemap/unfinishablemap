@@ -115,7 +115,7 @@ The Map's position would face serious difficulty if:
 
 **Classical computation explains consciousness.** If a purely classical neural account fully explains the features that motivated quantum approaches—the binding problem, the unity of consciousness, the timing of decisions—parsimony favours the classical account. No such account currently exists.
 
-**Many-Worlds proves correct.** Under the [[many-worlds|many-worlds interpretation]], all quantum outcomes occur in different branches. The concept of "selection" loses meaning—not because it becomes illusory, but because the question "which outcome became actual?" presupposes a single outcome that MWI denies. Consciousness would have no role in determining outcomes because all outcomes occur. The quantum biology findings would remain scientifically interesting but irrelevant to the mind-body problem. The Map rejects MWI partly because the indexical question—why am I experiencing *this* branch rather than another?—seems meaningful even if MWI provides no resources to answer it.
+**Many-Worlds proves correct.** Under the [[concepts/many-worlds|many-worlds interpretation]], all quantum outcomes occur in different branches. The concept of "selection" loses meaning—not because it becomes illusory, but because the question "which outcome became actual?" presupposes a single outcome that MWI denies. Consciousness would have no role in determining outcomes because all outcomes occur. The quantum biology findings would remain scientifically interesting but irrelevant to the mind-body problem. The Map rejects MWI partly because the indexical question—why am I experiencing *this* branch rather than another?—seems meaningful even if MWI provides no resources to answer it.
 
 ## Relation to Site Perspective
 

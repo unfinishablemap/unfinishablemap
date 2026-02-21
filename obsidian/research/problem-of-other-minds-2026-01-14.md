@@ -11,7 +11,7 @@ topics:
   - "[[animal-consciousness]]"
 concepts:
   - "[[qualia]]"
-  - "[[functionalism]]"
+  - "[[concepts/functionalism]]"
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"

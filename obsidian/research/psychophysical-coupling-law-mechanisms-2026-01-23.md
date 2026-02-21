@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[bidirectional-interaction]]"
-  - "[[minimal-quantum-interaction]]"
+  - "[[tenets#minimal-quantum-interaction]]"
 ai_contribution: 100
 author: null
 ai_system: claude-sonnet-4-5-20250929

@@ -24,7 +24,7 @@ concepts:
   - "[[the-case-for-dualism]]"
   - "[[qualia]]"
   - "[[spontaneous-collapse-theories]]"
-  - "[[free-will]]"
+  - "[[topics/free-will]]"
   - "[[qbism]]"
 related_articles:
   - "[[tenets]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[quantum-probability-consciousness]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
-  - "[[many-worlds]]"
+  - "[[concepts/many-worlds]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -103,7 +103,7 @@ The original pragmatic approach: collapse is a rule for predictions, not a physi
 
 All outcomes occur. The universe branches at every quantum event; all branches are equally real. There is no collapse—just the appearance of collapse from within each branch.
 
-**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See [[many-worlds]] for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation]] entirely—consciousness makes no causal difference if all outcomes occur regardless.
+**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See [[concepts/many-worlds]] for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation]] entirely—consciousness makes no causal difference if all outcomes occur regardless.
 
 MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence: rational agents must weight outcomes by squared amplitudes. This shows what rational betting requires, not what probabilities mean when all outcomes occur.
 
@@ -186,14 +186,14 @@ The measurement problem is central to the Map's framework. It creates the logica
 - [[quantum-measurement-and-definite-outcomes]] — Extended treatment of why definite outcomes occur and where consciousness might participate
 - [[indexical-identity-quantum-measurement]] — The indexical gap all interpretations leave untreated
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure
-- [[many-worlds]] — Arguments against MWI
+- [[concepts/many-worlds]] — Arguments against MWI
 - [[quantum-consciousness]] — Mechanisms for mind-matter interaction
 - [[coupling-modes]] — Basis, timing, and probability control: how consciousness couples to physics
 - [[decoherence]] — What decoherence does and doesn't explain
 - [[spontaneous-collapse-theories]] — GRW, CSL, and consciousness-modulated collapse
 - [[interactionist-dualism]], [[causal-closure]], [[mental-causation]] — The broader framework
 - [[multi-mind-collapse-problem]], [[interface-locality]], [[prebiotic-collapse]] — How the Map resolves coordination puzzles
-- [[free-will]] — How quantum indeterminacy enables libertarian free will
+- [[topics/free-will]] — How quantum indeterminacy enables libertarian free will
 - [[haecceity]] — The "thisness" grounding indexical identity
 - [[mysterianism]] — Why some explanatory gaps may be unclosable
 - [[tenets]] — The Map's foundational commitments
