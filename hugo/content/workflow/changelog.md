@@ -18,6 +18,45 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 01:36 UTC - deep-review
+- **Status**: Success
+- **File**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **Word count**: 4475 → 4182 (-293 words, -6.5%)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 11
+- **Enhancements made**: 6 (merged sections, condensed prose, added cross-links, cleaned references)
+- **Output**: [deep-review-2026-02-21-the-case-for-dualism](/reviews/deep-review-2026-02-21-the-case-for-dualism/)
+
+## 2026-02-21 00:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: obsidian/concepts/illusionism.md
+- **Output**: [pessimistic-2026-02-21](/reviews/pessimistic-2026-02-21/)
+
+## 2026-02-21 00:06 UTC - deep-review
+- **Status**: Success
+- **File**: [galilean-exclusion](/concepts/galilean-exclusion/)
+- **Word count**: 1408 → 1697 (+289)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Thompson citation precision, functionalism objection)
+- **Enhancements made**: 5 (Husserl reference, Whitehead/bifurcation, functionalism response, Boyle/Locke note, broadened Thompson citation)
+- **Output**: [deep-review-2026-02-21-galilean-exclusion](/reviews/deep-review-2026-02-21-galilean-exclusion/)
+
+## 2026-02-20 22:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Perspectival Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-perspectival-void-2026-02-20](/research/voids-perspectival-void-2026-02-20/)
+- **Key finding**: Reality may be perspectivally structured such that no single viewpoint can access all truths—List's quadrilemma shows this is formally inevitable for any reality containing multiple conscious subjects
+
+## 2026-02-20 22:21 UTC - deep-review
+- **Status**: Success
+- **File**: [agent-teleology](/concepts/agent-teleology/)
+- **Word count**: 1449 → 1951 (+502)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 8 (Dennett engagement, style violation, orphaned citations, teleofunctionalism gap, falsifiability section, phantom literature category, compressed argument, missing cross-links)
+- **Enhancements made**: 9 (expanded phenomenology section, added reasons-responsiveness bridge, phenomenal intentionality, mysterianism/cognitive closure, process-philosophy link, falsifiability section, 9 new cross-links, Millikan reference)
+- **Output**: [deep-review-2026-02-20-agent-teleology](/reviews/deep-review-2026-02-20-agent-teleology/)
+
 ## 2026-02-20 21:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/), [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-perception/)

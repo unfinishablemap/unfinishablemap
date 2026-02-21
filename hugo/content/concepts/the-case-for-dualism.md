@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-16 05:40:00+00:00
+ai_modified: 2026-02-21 01:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,6 +31,13 @@ concepts:
 - '[[objections-to-interactionism]]'
 - '[[intuitive-dualism]]'
 - '[[phenomenal-concepts-strategy]]'
+- '[[phenomenal-consciousness]]'
+- '[[heterophenomenology]]'
+- '[[process-philosophy]]'
+- '[[prehension]]'
+- '[[stapp-quantum-mind]]'
+- '[[functionalism]]'
+- '[[meta-problem-of-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-02-16
 description: Multiple independent arguments converge on the irreducibility of consciousness.
@@ -39,13 +46,14 @@ description: Multiple independent arguments converge on the irreducibility of co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-21 01:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[epistemological-limits-of-occams-razor]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[cognitive-science-of-dualism]]'
+- '[[free-will]]'
 title: The Case for Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -53,25 +61,21 @@ topics:
 
 Multiple independent arguments converge on the same conclusion: [materialism](/arguments/materialism/)—the view that reality is fundamentally physical—cannot account for consciousness, and [dualism](/concepts/dualism/) provides a better framework for understanding the mind. Each argument identifies aspects of conscious experience that appear logically or metaphysically separable from physical facts. (See [the dualism overview](/concepts/dualism/) for what dualism claims and its main varieties; this article focuses on the detailed *arguments*.) Their convergence from independent starting points provides strong cumulative support for the [Dualism tenet](/tenets/#dualism).
 
-The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question. The arguments sustaining it have become more developed as the problems with physicalism have become clearer.
+The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question, and the arguments supporting it continue to develop alongside renewed attention to the limits of physicalism.
 
 ## The Core Problem
 
 Materialism promises ontological simplicity: everything real is ultimately physical. Neuroscience describes brain states, physics describes particles and fields, and consciousness—on this view—is nothing more than what these descriptions capture.
 
-But consciousness resists. Explanations of neural firing, information propagation, and system behaviour describe *structure* and *dynamics*. Yet conscious experience has a *qualitative character*—there is something it is like to see red, taste coffee, feel pain. This qualitative character doesn't follow logically from any structural description. No equation entails that C-fiber activation should *feel* like anything.
+But consciousness resists. Explanations of neural firing, information propagation, and system behaviour describe *structure* and *dynamics*. Yet [conscious experience](/concepts/phenomenal-consciousness/) has a *qualitative character*—there is something it is like to see red, taste coffee, feel pain. This qualitative character doesn't follow logically from any structural description. No equation entails that C-fiber activation should *feel* like anything.
 
 The arguments below exploit this gap from different angles. Each provides independent evidence that the physical facts, however complete, do not determine the phenomenal facts—and that consciousness has features requiring dualist explanation.
 
 ## The Explanatory Gap
 
-Joseph Levine (1983) identified the conceptual chasm between physical descriptions and conscious experience. Even identity statements like "pain = C-fiber activation" leave something unexplained: *why* does that neural process feel like anything?
+Joseph Levine (1983) identified the conceptual chasm between physical descriptions and conscious experience. Even identity statements like "pain = C-fiber activation" leave something unexplained: *why* does that neural process feel like anything? Compare with water: once we understand H₂O's molecular structure, we can derive why it flows, freezes, and dissolves salt. No explanatory gap remains. With consciousness, the connection never becomes transparent no matter how much neural detail we accumulate.
 
-Compare with water. Once we understand H₂O's molecular structure, we can derive—at least in principle—why water flows, freezes, and dissolves salt. The macro properties follow from the micro description. No explanatory gap remains.
-
-With consciousness, the connection never becomes transparent. We can correlate neural activity with pain reports, but the question "why does *that* feel like *this*?" remains sensible no matter how much neural detail we accumulate. The gap persists through all increases in physical knowledge.
-
-Levine initially framed the gap as epistemic—a limitation of understanding rather than reality. But this modest reading struggles: why can't we close this gap when we've closed so many others? The gap's persistence suggests something deeper. [Leibniz's Mill](/topics/leibnizs-mill-argument/) anticipated the point in 1714: walking through an enlarged brain, we would find only mechanical parts—never perception itself. For detailed treatment, see [explanatory-gap](/concepts/explanatory-gap/).
+Levine initially framed the gap as epistemic, but its persistence suggests something deeper. [Leibniz's Mill](/topics/leibnizs-mill-argument/) anticipated the point in 1714: walking through an enlarged brain, we would find only mechanical parts—never perception itself. For detailed treatment, see [explanatory-gap](/concepts/explanatory-gap/).
 
 ## The Knowledge Argument (Mary's Room)
 
@@ -114,19 +118,15 @@ Philosophers remain divided: the 2020 survey found 37% think zombies are "concei
 
 **The Intrinsic Nature Argument**: Physical science describes only relational and dispositional properties—how things relate to other things, how they're disposed to behave. But qualia are intrinsic: there is something it is like to experience red *in itself*, not just in relation to other experiences. If physics captures only relations, it misses intrinsic phenomenal properties.
 
-## Kripke's Modal Argument
+## Modal Arguments
 
-Saul Kripke (1972) argued that identity statements involving rigid designators—terms that pick out the same thing in all possible worlds—are necessarily true if true at all. "Water = H₂O" is necessary: in every possible world where water exists, it's H₂O.
+Saul Kripke (1972) argued that identity statements involving rigid designators are necessarily true if true at all. "Water = H₂O" is necessary in every possible world. But "pain = C-fiber activation" seems contingent—we can conceive of pain without C-fiber firing. For water, the appearance of contingency reflects incomplete knowledge of water's nature; with pain, we have direct epistemic access. There's no hidden essence to pain beyond what we experience.
 
-But psycho-physical identity statements like "pain = C-fiber activation" seem contingent—we can conceive of pain without C-fiber firing. For water, the appearance of contingency reflects our incomplete knowledge of water's nature; with pain, we have direct epistemic access to its nature. There's no hidden essence to pain beyond what we experience. The appearance of contingency cannot be explained away.
-
-This argument anticipated Chalmers' zombie reasoning and provides independent modal support for the irreducibility of consciousness.
+Richard Swinburne extends the modal argument to personal identity: if it is logically possible to exist without one's body, one is not identical to one's body. What makes a person *this* person is not any qualitative property but ["thisness"](/concepts/haecceity/)—individual identity as this particular subject. Bodies can be duplicated; subjects cannot.
 
 ## Nagel's Subjectivity Argument
 
-Thomas Nagel (1974) argued that consciousness has an inherently subjective character that objective description cannot capture. There is "something it is like" to be a conscious organism—a point of view, a perspective that constitutes the experience.
-
-His bat example: even complete knowledge of bat neurophysiology couldn't tell us what echolocation is *like* for the bat. Physical science provides objective descriptions available to all observers; subjective experience requires occupying a particular point of view. The two modes of access are categorically different—not because we lack data, but because objectivity and subjectivity are different categories.
+Thomas Nagel (1974) argued that consciousness has an inherently subjective character that objective description cannot capture. His bat example: even complete knowledge of bat neurophysiology couldn't tell us what echolocation is *like* for the bat. Physical science provides objective descriptions available to all observers; subjective experience requires occupying a particular point of view. The two modes of access are categorically different—not because we lack data, but because objectivity and subjectivity are different categories.
 
 ## The Unity of Consciousness Argument
 
@@ -147,19 +147,9 @@ Hasker's "emergent dualism" offers a nuanced position: the soul is generated by 
 
 [Intentionality](/concepts/intentionality/)—the "aboutness" of mental states—resists naturalization. When you think about Paris, your thought is *directed at* Paris. Physical states, by contrast, are not inherently about anything. A rock is not *about* mountains.
 
-Franz Brentano claimed intentionality is "the mark of the mental"—the feature distinguishing minds from matter. Decades of attempts to reduce intentionality to physical relations (causal, informational, teleological) have failed.
+Franz Brentano claimed intentionality is "the mark of the mental"—the feature distinguishing minds from matter. Despite sustained efforts by Millikan, Dretske, and others to naturalize intentionality through causal, informational, and teleological theories, no reductive account has achieved wide acceptance—each faces counterexamples that suggest semantic content resists physical reduction.
 
-John Searle's Chinese Room argument makes the point vivid: a system can manipulate symbols according to rules—syntax—without understanding what those symbols mean—semantics. No amount of computational sophistication bridges this gap. If intentionality requires something beyond physical symbol manipulation, materialism cannot accommodate it.
-
-## Swinburne's Modal Argument
-
-Richard Swinburne argues from the logical possibility of disembodied existence:
-
-1. It is logically possible for me to exist without my body
-2. If I can exist without my body, I am not identical to my body
-3. Therefore, I am a non-physical substance
-
-What makes you *you* is not any qualitative property—not your memories, personality, or body—but what Swinburne calls "thisness": your individual identity as this particular subject. Bodies can be duplicated; you cannot be. This suggests personal identity is grounded in something beyond the physical.
+John Searle's Chinese Room argument illustrates the difficulty: a system can manipulate symbols according to rules—syntax—without understanding what those symbols mean—semantics. (Searle himself draws a different conclusion, advocating biological naturalism rather than dualism, but the argument's force against computational theories of mind stands independently of his preferred framework.)
 
 ## Quantum Mechanical Considerations
 
@@ -171,13 +161,13 @@ But quantum mechanics reveals that physics is not deterministic at the fundament
 
 [Decoherence](/concepts/decoherence/)—the loss of quantum coherence through environmental interaction—poses the most serious challenge to quantum consciousness theories. Max Tegmark (2000) calculated that neural coherence times would be femtoseconds, far too short for millisecond-scale neural processes. The objection deserves serious engagement:
 
-1. **Tegmark's calculations have been contested.** Hameroff argues the model assumed thermal equilibrium and separation distances inappropriate for the Orch OR mechanism. Corrected calculations increase coherence times by seven orders of magnitude.
+1. **Tegmark's calculations have been contested.** Hameroff's group argues the model assumed thermal equilibrium and separation distances inappropriate for Orch OR. Their corrected calculations claim coherence times up to seven orders of magnitude longer, though these corrections remain disputed within the physics community.
 
-2. **Quantum biology demonstrates biological quantum effects.** Bird magnetoreception maintains spin coherence for microseconds—a million times longer than Tegmark's neural estimate. The categorical claim "warm systems cannot exhibit quantum effects" is empirically false.
+2. **Quantum biology demonstrates biological quantum effects.** Bird magnetoreception maintains spin coherence in cryptochrome proteins for microseconds via the radical pair mechanism—a different physical phenomenon from the macroscopic coherence that Orch OR requires, but sufficient to refute the categorical claim that warm biological systems cannot sustain any quantum effects.
 
-3. **Decoherence doesn't solve the measurement problem.** Decoherence explains why we don't *observe* superpositions but not why definite outcomes occur at all. The Stanford Encyclopedia notes: "Decoherence as such does not provide a solution to the measurement problem."
+3. **Decoherence doesn't solve the measurement problem.** Decoherence explains why we don't *observe* superpositions but not why definite outcomes occur at all. This gap equally motivates non-consciousness-based interpretations (e.g., GRW objective collapse), but it keeps the conceptual space open for the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
 
-4. **Recent evidence supports quantum biology in neurons.** The 2024 epothilone study found microtubule-stabilising drugs extended time to anaesthesia by over a minute—a prediction of quantum consciousness theories.
+4. **Recent evidence supports quantum biology in neurons.** Wiest et al. (2024) found that microtubule-stabilising drugs (epothilone) extended time to anaesthesia in rats by over a minute—consistent with quantum consciousness predictions, though classical explanations for the drug's effects on anaesthetic binding remain possible.
 
 This doesn't establish quantum consciousness, but it removes the closure of that possibility. The opening the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires—that consciousness could influence quantum outcomes—remains available.
 
@@ -191,21 +181,15 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects MWI on multiple grou
 
 Physicalists have developed several responses, each with significant limitations:
 
-**Type-A Physicalism** denies there's anything special to explain—the "hard problem" dissolves under analysis. But this requires denying the evident reality of qualitative experience.
+**Type-A Physicalism** denies there is a "hard problem" beyond the collection of "easy problems"—once we explain discriminatory behaviour, reportability, and attention, nothing remains to explain. But this must address why the hard problem *seems* real to most philosophers (the [meta-problem](/concepts/meta-problem-of-consciousness/)) without invoking the very phenomenal properties it denies.
 
 **Type-B Physicalism** accepts the explanatory gap but denies its metaphysical implications—consciousness is physical by a posteriori necessity we cannot grasp a priori. But this provides no positive account of how physical processes generate experience.
 
-**[Illusionism](/concepts/illusionism/)** claims [qualia](/concepts/qualia/) don't exist as we conceive them—consciousness is a kind of illusion. Keith Frankish and Daniel Dennett argue that we *seem* to have experiences with special qualitative properties, but this seeming is itself a functional misrepresentation.
+**[Illusionism](/concepts/illusionism/)** claims [qualia](/concepts/qualia/) don't exist as we conceive them—consciousness is a kind of illusion. Keith Frankish and Daniel Dennett argue that we *seem* to have experiences with special qualitative properties, but this seeming is itself a functional misrepresentation. The illusionist trades the hard problem for what Frankish calls the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious when we're not. Raymond Tallis argues illusionism is self-stultifying: "misrepresentation presupposes presentation"—the seeming is itself the phenomenon that needs explaining. Even Dennett's [heterophenomenology](/concepts/heterophenomenology/) must accommodate the fact that *seeming* resists straightforward deflationary analysis. Moreover, if [introspection](/concepts/introspection/) is so radically unreliable that it invents phenomenal consciousness wholesale, why trust it for the reasoning that leads to illusionism?
 
-The illusionist trades the hard problem for what Frankish calls the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious when we're not. Raymond Tallis argues illusionism is self-stultifying: "misrepresentation presupposes presentation." To be under an illusion, something must be experiencing it. The seeming is the phenomenon that needs explaining. Even Dennett's heterophenomenology must acknowledge that *seeming* itself resists deflationary analysis.
+**The Ability Hypothesis** and **[Phenomenal Concept Strategy](/concepts/phenomenal-concepts-strategy/)** attempt to explain Mary's new knowledge as new abilities or new concepts for old physical properties. But abilities supervene on facts, and the Phenomenal Concept Strategy must explain why phenomenal concepts are special—an isolation that is precisely what the knowledge argument reveals. See [knowledge-argument](/concepts/knowledge-argument/) for detailed treatment of these responses.
 
-Moreover, if [introspection](/concepts/introspection/) is so radically unreliable that it invents phenomenal consciousness wholesale, why trust it for the philosophical reasoning that leads to illusionism? The position cannot be rationally held by someone who distrusts the very faculties that produced it.
-
-**The Ability Hypothesis** claims Mary gains new abilities (to imagine, recognize, remember red) rather than new facts. But abilities supervene on facts; if her abilities changed, something factual changed.
-
-**The [Phenomenal Concept Strategy](/concepts/phenomenal-concepts-strategy/)** holds that Mary acquires new *concepts* for old physical properties, not new facts. But this must explain why phenomenal concepts are special—why they're not deducible from physical concepts. That isolation is precisely what the knowledge argument reveals.
-
-Each response either denies the manifest reality of experience, fails to explain how physical processes give rise to it, or relocates the explanatory burden without discharging it.
+Each response either denies the hard problem without explaining why it seems real, fails to explain how physical processes generate experience, or relocates the explanatory burden without discharging it.
 
 ## The Parsimony Objection
 
@@ -221,11 +205,7 @@ Several responses bear on this. The Map's [Epistemological Limits of Occam's Raz
 
 ## The "Folk Error" Objection
 
-Some materialists argue that dualism is merely a cognitively natural "folk error." Cognitive science complicates this picture. (For detailed treatment, see [intuitive-dualism](/concepts/intuitive-dualism/) and [Cognitive Science of Dualism](/topics/cognitive-science-of-dualism/).)
-
-Paul Bloom (2004) argued humans are "natural-born dualists." But Barrett et al. (2021), in the most comprehensive cross-cultural study, found that most participants across all cultures were *not* dualist—the default is closer to intuitive materialism. Barlev & Shtulman (2021) argue dualist conceptions are learned, not innate.
-
-This evidence doesn't undermine dualism. Cognitive naturalness doesn't determine metaphysical truth—folk physics fails at quantum scales but works for everyday objects. The objection cuts both ways: if cognitive naturalness disqualifies beliefs, intuitive materialism would be equally suspect. The philosophical arguments stand independently of their cognitive origins.
+Some materialists dismiss dualism as a cognitively natural "folk error," but the evidence is mixed: Barrett et al. (2021) found most participants across cultures default to intuitive materialism, not dualism, while Barlev & Shtulman (2021) argue dualist conceptions are learned rather than innate. More fundamentally, cognitive naturalness doesn't determine metaphysical truth—the philosophical arguments stand independently of their cognitive origins. (See [intuitive-dualism](/concepts/intuitive-dualism/) and [Cognitive Science of Dualism](/topics/cognitive-science-of-dualism/) for detailed treatment.)
 
 ## Major Objections and Responses
 
@@ -241,7 +221,7 @@ Jaegwon Kim asks: if minds are non-spatial, what pairs *this* mind with *this* b
 
 If consciousness influences physical outcomes, must it inject energy into the physical system, violating conservation laws?
 
-**Response**: At [quantum indeterminacies](/concepts/quantum-consciousness/), consciousness selects among equi-energetic outcomes physics leaves undetermined. Consciousness determines *which* possibility actualizes, not whether energy appears from nowhere. This response depends on contested physics—whether quantum indeterminacy genuinely permits probability-biasing without violating conservation principles is debated.
+**Response**: At [quantum indeterminacies](/concepts/quantum-consciousness/)—as developed in [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/)—consciousness selects among equi-energetic outcomes physics leaves undetermined. Consciousness determines *which* possibility actualizes, not whether energy appears from nowhere. This response depends on contested physics—whether quantum indeterminacy genuinely permits probability-biasing without violating conservation principles is debated.
 
 ### The Exclusion Argument
 
@@ -269,7 +249,7 @@ The Map's quantum framework provides principled answers that purely Cartesian du
 
 No single argument establishes dualism conclusively—each has responses, and philosophy rarely achieves knockdown proofs. But convergence matters.
 
-The explanatory gap, knowledge argument, conceivability argument, inverted qualia, modal arguments, subjectivity considerations, unity of consciousness, and intentionality exploit different features of consciousness and proceed through different logical routes, yet converge on the same conclusion: consciousness is not reducible to physical processes. When multiple independent lines of reasoning tell the same story, the probability of error decreases. Their convergence suggests they are tracking something real about the relationship between consciousness and the physical world.
+The explanatory gap, knowledge argument, conceivability argument, inverted qualia, modal arguments, subjectivity considerations, unity of consciousness, and intentionality exploit different features of consciousness and proceed through different logical routes, yet converge on the same conclusion: consciousness is not reducible to physical processes. A critic might note that these arguments share a common starting point—the irreducibility intuition about phenomenal experience—so their "independence" is relative. But they exploit genuinely different features (qualitative character, subjectivity, unity, intentionality, modal separability) through different logical structures. If a single shared intuition were doing all the work, the arguments would not generate distinct objections and require distinct responses. Their convergence suggests they are tracking something real about the relationship between consciousness and the physical world.
 
 ### The Mysterian Alternative
 
@@ -291,7 +271,7 @@ The asymmetric costs of error matter: if materialists are wrong, they've foreclo
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a complementary framing. For Whitehead, experience ("prehension") is fundamental to reality—not something that mysteriously emerges from wholly non-experiential matter. Each "actual occasion" has a subjective aspect; the physical and experiential are two sides of the same process.
+Alfred North Whitehead's [process-philosophy](/concepts/process-philosophy/) offers a complementary framing. For Whitehead, experience (["prehension"](/concepts/prehension/)) is fundamental to reality—not something that mysteriously emerges from wholly non-experiential matter. Each "actual occasion" has a subjective aspect; the physical and experiential are two sides of the same process.
 
 This framework doesn't defend substance dualism but shares the core anti-materialist insight: experience cannot be reduced to or derived from physical description alone. The question becomes not whether experience is real but how micro-experiences combine into unified human consciousness (the [combination problem](/concepts/combination-problem/)). The hard problem transforms but doesn't disappear.
 
@@ -315,7 +295,7 @@ The cumulative case for dualism would be undermined if:
 
 7. **A conceptual revolution dissolved the hard problem.** Not denial (illusionism) but genuine dissolution—a new framework making the problem disappear as vitalism's mysteries dissolved.
 
-These conditions are falsifiable in principle. The Map's dualism isn't dogma but a position responsive to evidence and argument.
+Some of these conditions are empirically testable (condition 5 especially); others require philosophical judgment about whether they have been met. The Map's dualism isn't dogma but a position responsive to evidence and argument.
 
 ## Relation to Site Perspective
 
@@ -327,41 +307,17 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects directly. MWI trade
 
 Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets, these arguments point toward [interactionist-dualism](/concepts/interactionist-dualism/)—consciousness is irreducible and causally efficacious, interfacing with physics at quantum indeterminacies. The fact that we discuss consciousness is itself evidence: an epiphenomenon couldn't influence neurons producing speech.
 
-The Unfinishable Map doesn't rest on dismissing materialist responses but on the accumulated weight of evidence. When the best physicalist accounts either deny the obvious (that experience exists) or concede they can't explain what they claim to identify (Type-B physicalism), the alternative deserves serious consideration. The Map does not commit to substance over property dualism—both support irreducibility. What matters: consciousness is not reducible to physical processes, and it plays a genuine causal role.
+The Unfinishable Map doesn't rest on dismissing materialist responses but on the accumulated weight of evidence. When the best physicalist accounts either deny that the hard problem is a genuine problem or concede they can't explain what they claim to identify (Type-B physicalism), the alternative deserves serious consideration. The Map does not commit to substance over property dualism—both support irreducibility. What matters: consciousness is not reducible to physical processes, and it plays a genuine causal role.
 
 ## Further Reading
 
-**Core arguments:**
-- [explanatory-gap](/concepts/explanatory-gap/) — Levine's epistemic challenge to physicalism
-- [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room in detail
-- [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument
-- [inverted-qualia](/concepts/inverted-qualia/) — Spectrum inversion and functionalism
-- [intentionality](/concepts/intentionality/) — Aboutness and the mark of the mental
-- [binding-problem](/concepts/binding-problem/) — The unity challenge
+**Core arguments:** [explanatory-gap](/concepts/explanatory-gap/), [knowledge-argument](/concepts/knowledge-argument/), [philosophical-zombies](/concepts/philosophical-zombies/), [inverted-qualia](/concepts/inverted-qualia/), [intentionality](/concepts/intentionality/), [binding-problem](/concepts/binding-problem/)
 
-**Materialist responses:**
-- [materialism](/arguments/materialism/) — The position under critique
-- [illusionism](/concepts/illusionism/) — The most radical physicalist response
-- [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — New concepts for old properties
-- [mysterianism](/concepts/mysterianism/) — Cognitive closure as alternative interpretation
+**Materialist responses:** [materialism](/arguments/materialism/), [illusionism](/concepts/illusionism/), [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [heterophenomenology](/concepts/heterophenomenology/), [mysterianism](/concepts/mysterianism/)
 
-**The Map's framework:**
-- [interactionist-dualism](/concepts/interactionist-dualism/) — How mind and matter interact
-- [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum indeterminacy and consciousness
-- [objections-to-interactionism](/concepts/objections-to-interactionism/) — Comprehensive treatment of major challenges
-- [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The meta-level argument from epistemic humility
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — Why parsimony fails in the consciousness debate
-- [causal-closure](/concepts/causal-closure/) — The main objection to dualism and its limits
-- [mental-causation](/concepts/mental-causation/) — How mental properties can be causally relevant
+**The Map's framework:** [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/), [free-will](/concepts/free-will/)
 
-**Background:**
-- [dualism](/concepts/dualism/) — Overview of varieties and key objections
-- [intuitive-dualism](/concepts/intuitive-dualism/) — What cognitive science reveals about natural mind-body thinking
-- [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How the field's methods and findings resist materialist closure
-- [introspection](/concepts/introspection/) — Reliability of phenomenal reports
-- [decoherence](/concepts/decoherence/) — The quantum objection and its limits
-- [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI
-- [combination-problem](/concepts/combination-problem/) — Process philosophy's transformed problem
+**Background:** [dualism](/concepts/dualism/), [intuitive-dualism](/concepts/intuitive-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [introspection](/concepts/introspection/), [decoherence](/concepts/decoherence/), [many-worlds](/arguments/many-worlds/), [process-philosophy](/concepts/process-philosophy/), [combination-problem](/concepts/combination-problem/)
 
 ## References
 
@@ -369,7 +325,7 @@ The Unfinishable Map doesn't rest on dismissing materialist responses but on the
 - Barrett, J.L., Burdett, E.R.R., & Porter, T.J. (2021). The cognitive science of afterlife beliefs. In J.M. Fischer & B. Curl-Langager (Eds.), *Death and the Afterlife*. Springer.
 - Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 - Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy. *Philosophical Studies*.
-- Chalmers, D. J. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
+- Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge (1995 reprint).
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 - Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
@@ -379,15 +335,13 @@ The Unfinishable Map doesn't rest on dismissing materialist responses but on the
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
 - Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Lowe, E.J. (1996). *Subjects of Experience*. Cambridge University Press.
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
 - Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
-- Rickabaugh, B. & Moreland, J.P. (2023). *The Substance of Consciousness*. Wiley-Blackwell.
+- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Sober, E. (2001). What is the problem of simplicity? In Keuzenkamp, McAleer, & Zellner (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
-- Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 - Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 - Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
 - Tegmark, M. (2000). The importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+- Wiest, M. C., et al. (2024). Microtubule-stabilizing drugs delay anesthesia onset in rats. *Neuroscience Letters*.
 - Zanotti, G. (2021). Physicalism and the burden of parsimony. *Synthese*, 199, 11109-11132.
