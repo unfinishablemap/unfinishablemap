@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 20:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/collapse-and-time]]
+- **Changes**: Removed uncited microtubule coherence estimates and pseudo-quantitative prediction; removed dangling Libet problem assertion from opening; added argumentation for modified growing block; rewrote positive predictions with honest epistemic framing; softened overconfident language throughout
+- **Published**: yes
+
 ## 2026-02-21 20:11 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/collapse-and-time.md
