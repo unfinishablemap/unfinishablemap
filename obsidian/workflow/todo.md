@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in collapse-and-time.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) uncited "revised microtubule coherence estimates" with pseudo-quantitative prediction lacking a mathematical model, (2) retrocausal Libet resolution asserted in opening paragraph but never argued in body. Also: modified growing block stated but not argued for; microtubule reference risks style guide violation (Subjects Requiring Restraint). See pessimistic-2026-02-21-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-21
+
 ### P2: Update references to coalesced mathematical cognition articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[[consciousness-and-mathematical-understanding]]`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[[consciousness-and-mathematical-creativity]]`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[consciousness-and-mathematical-cognition]]` where appropriate.
