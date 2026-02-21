@@ -329,8 +329,8 @@ What is not acceptable: Content that contradicts tenets without acknowledgment, 
 ### Links and References
 
 **Internal links** use Obsidian wikilink syntax:
-- Basic: `[[article-name]]`
-- With display text: `[[article-name|display text]]`
+- Basic: `[[hard-problem-of-consciousness]]`
+- With display text: `[[hard-problem-of-consciousness|the hard problem]]`
 - With section anchor: `[[tenets#^dualism|Dualism tenet]]`
 
 **External references** go in a dedicated References section using academic citation format:

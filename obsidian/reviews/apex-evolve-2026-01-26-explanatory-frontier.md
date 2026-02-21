@@ -8,7 +8,7 @@ draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[explanatory-frontier]]"
+  - "explanatory-frontier"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -19,7 +19,7 @@ last_curated: null
 # Apex Evolve Review: The Explanatory Frontier
 
 **Date**: 2026-01-26
-**Article**: [[explanatory-frontier|The Explanatory Frontier]]
+**Article**: The Explanatory Frontier
 **Previous Synthesis**: 2026-01-24T12:00:00+00:00
 
 ## Changed Sources Identified

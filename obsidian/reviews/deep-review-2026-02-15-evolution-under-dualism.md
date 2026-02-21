@@ -35,7 +35,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 
 4. **Underdeveloped Many Worlds tenet connection**: The original asserted that Many Worlds undermines evolutionary significance without engaging the standard response. **Resolution**: Acknowledged that branch-internal selection functions normally, then explained why the Map's interface story specifically depends on collapse — consciousness biasing quantum outcomes is irrelevant if the unbiased branch also exists.
 
-5. **Broken wikilink [[teleology]]**: No such file exists in the vault. **Resolution**: Removed from Further Reading.
+5. **Broken wikilink teleology**: No such file exists in the vault. **Resolution**: Removed from Further Reading.
 
 6. **Uncited references**: Godfrey-Smith, James, and Kim were listed in References but never cited in text. **Resolution**: Added Godfrey-Smith citation in convergent evolution section. Removed James (more relevant to sibling article). Added Miller (1956) and Inoue & Matsuzawa (2007) for working memory claims. Kim retained as implicitly relevant to causal exclusion discussion.
 

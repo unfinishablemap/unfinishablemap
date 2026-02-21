@@ -14,7 +14,7 @@ concepts:
   - "[[introspection]]"
   - "[[illusionism]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[moral-realism]]"
+  - "moral-realism"
   - "[[causal-powers]]"
 related_articles:
   - "[[consciousness-value-connection]]"
@@ -137,7 +137,7 @@ If phenomenal normativity is correct, several metaethical positions face pressur
 
 **Constructivism** (value is constructed through reason or social practice) must deny that pain was bad before humans developed moral frameworks.
 
-Each faces the challenge: explain how "pain is bad" could be false, non-factual, or constructed when badness appears constitutive of pain's phenomenal character. If phenomenal normativity is correct, it provides one of the strongest foundations for [[moral-realism]]—at minimum, hedonic value facts are directly accessible rather than constructed or projected.
+Each faces the challenge: explain how "pain is bad" could be false, non-factual, or constructed when badness appears constitutive of pain's phenomenal character. If phenomenal normativity is correct, it provides one of the strongest foundations for moral-realism—at minimum, hedonic value facts are directly accessible rather than constructed or projected.
 
 ### For AI Alignment
 
@@ -189,7 +189,7 @@ Phenomenal normativity would face pressure if:
 - [[introspection]] — First-person access to phenomenal states
 - [[witness-consciousness]] — Contemplative access to valence
 - [[hard-problem-of-consciousness]] — The explanatory gap's normative dimension
-- [[moral-realism]] — Phenomenal normativity as foundation for moral realism
+- moral-realism — Phenomenal normativity as foundation for moral realism
 - [[causal-powers]] — How normative consciousness exercises causal influence
 - [[philosophical-zombies]] — Why normativity requires phenomenal consciousness, not function
 - [[illusionism]] — The challenge that phenomenal consciousness is illusory

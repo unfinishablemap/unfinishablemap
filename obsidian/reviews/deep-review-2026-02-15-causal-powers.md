@@ -23,7 +23,7 @@ last_curated: null
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilinks**: `[[dispositions]]` and `[[powers-metaphysics]]` referenced files that do not exist. Resolution: Removed from frontmatter concepts and Further Reading; replaced with links to existing articles (`[[causal-closure]]`, `[[agent-causation]]`, `[[consciousness-and-causal-powers]]`, `[[objections-to-interactionism]]`).
+- **Broken wikilinks**: `dispositions` and `powers-metaphysics` referenced files that do not exist. Resolution: Removed from frontmatter concepts and Further Reading; replaced with links to existing articles (`[[causal-closure]]`, `[[agent-causation]]`, `[[consciousness-and-causal-powers]]`, `[[objections-to-interactionism]]`).
 - **Missing full site name**: All references used "The Map's" without ever introducing "The Unfinishable Map" as required by the writing style guide. Resolution: Changed first mention (line 42) to "The Unfinishable Map's".
 - **Description field described process, not content**: Original description ("iterative refinement, collaborative human-AI dialogue") was meaningless to readers. Resolution: Rewritten to describe the article's actual argument.
 

@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-30
-**Article**: [[explanatory-frontier|Explanatory Frontier]]
+**Article**: Explanatory Frontier
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

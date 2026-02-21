@@ -2068,16 +2068,16 @@ Comprehensive deep review of the core phenomenology concept article. Applied six
 
 ### Summary
 
-Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[[kane-self-forming-actions]]`, `[[concepts/many-worlds]]`, `[[process-philosophy]]`, `[[cognition]]`, `[[visual-consciousness]]`, `[[temporal-synchrony]]`, `[[quantum-measurement-problem]]`, `[[tenets#minimal-quantum-interaction]]`, `[[teleportation-and-identity]]`.
+Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `kane-self-forming-actions`, `[[concepts/many-worlds]]`, `[[process-philosophy]]`, `cognition`, `[[visual-consciousness]]`, `temporal-synchrony`, `quantum-measurement-problem`, `[[tenets#minimal-quantum-interaction]]`, `teleportation-and-identity`.
 
 ### Fixes Applied
 
 - `[[concepts/many-worlds]]` → `[[concepts/many-worlds]]` (page exists with shorter name)
-- `[[quantum-measurement-problem]]` → `[[measurement-problem]]` (page exists with shorter name)
+- `quantum-measurement-problem` → `[[measurement-problem]]` (page exists with shorter name)
 - `[[tenets#minimal-quantum-interaction]]` → `[[tenets#^minimal-quantum-interaction]]` (anchor to tenets page)
-- `[[kane-self-forming-actions]]` → plain text (no page exists)
-- `[[process-philosophy]]`, `[[cognition]]`, `[[visual-consciousness]]`, `[[temporal-synchrony]]` → plain text
-- `[[teleportation-and-identity]]` → `[[personal-identity]]` or plain text
+- `kane-self-forming-actions` → plain text (no page exists)
+- `[[process-philosophy]]`, `cognition`, `[[visual-consciousness]]`, `temporal-synchrony` → plain text
+- `teleportation-and-identity` → `[[personal-identity]]` or plain text
 
 ### Output
 

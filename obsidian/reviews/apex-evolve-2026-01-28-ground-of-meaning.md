@@ -8,7 +8,7 @@ draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[ground-of-meaning]]"
+  - "ground-of-meaning"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

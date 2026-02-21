@@ -52,10 +52,10 @@ last_curated: null
 - Closing paragraph of knowledge argument section replaced with structural diagnosis
 - Harnad attribution corrected with full citation
 - McDowell citation added
-- Added [[symbol-grounding]] to frontmatter concepts
+- Added symbol-grounding to frontmatter concepts
 
 ### Cross-links Added
-- [[symbol-grounding]] added to frontmatter concepts
+- symbol-grounding added to frontmatter concepts
 
 ## Remaining Items
 

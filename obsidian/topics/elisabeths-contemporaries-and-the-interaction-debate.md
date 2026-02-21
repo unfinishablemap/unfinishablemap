@@ -16,7 +16,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[mental-causation]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[occasionalism]]"
+  - "occasionalism"
 related_articles:
   - "[[tenets]]"
   - "[[conservation-laws-and-mind]]"

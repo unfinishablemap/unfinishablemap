@@ -14,7 +14,7 @@ concepts:
   - "[[brain-interface-boundary]]"
   - "[[pairing-problem]]"
   - "[[binding-problem]]"
-  - "[[quantum-entanglement]]"
+  - "quantum-entanglement"
 related_articles:
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[tenets]]"
@@ -108,7 +108,7 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 - [[brain-interface-boundary]] — Why consciousness acts on *this* brain specifically and what makes neural systems suitable interfaces
 - [[pairing-problem]] — Kim's challenge about mind-body connection
 - [[concepts/consciousness-selecting-neural-patterns]] — The broader question of whether quantum selection is coherent
-- [[quantum-entanglement]] — The non-local correlations that challenge strict locality
+- quantum-entanglement — The non-local correlations that challenge strict locality
 - [[binding-problem]] — How distributed activity yields unified experience
 - [[tenets]] — The foundational commitments these concepts serve
 - [[topics/free-will]] — How quantum selection relates to libertarian free will

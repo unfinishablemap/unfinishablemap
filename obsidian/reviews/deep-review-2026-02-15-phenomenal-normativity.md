@@ -35,7 +35,7 @@ last_curated: null
 
 - **Missing genealogical debunking engagement**: The article didn't address how phenomenal normativity survives evolutionary debunking arguments. Resolution: Added new "Genealogical Debunking Challenge" subsection to Challenges with response that debunking proves too much (evolution explains why we track fire's heat, but fire is still hot) and that direct acquaintance differs from inference-based belief.
 
-- **Missing cross-links**: Article lacked connections to [[hard-problem-of-consciousness]], [[moral-realism]], [[causal-powers]], [[philosophical-zombies]]. Resolution: Added cross-links in natural contexts throughout the article and in Further Reading section.
+- **Missing cross-links**: Article lacked connections to [[hard-problem-of-consciousness]], moral-realism, [[causal-powers]], [[philosophical-zombies]]. Resolution: Added cross-links in natural contexts throughout the article and in Further Reading section.
 
 ### Counterarguments Considered
 
@@ -63,7 +63,7 @@ last_curated: null
 - Rewrote projection response to avoid circularity and engage functional role
 - Added balanced Buddhist phenomenology treatment (dependent origination)
 - Added genealogical debunking challenge and response
-- Added [[moral-realism]] connection in metaethics implications
+- Added moral-realism connection in metaethics implications
 - Added [[causal-powers]] link in Relation to Dualism section
 - Added [[philosophical-zombies]] analogy in AI Alignment section
 - Added [[hard-problem-of-consciousness]] link in Relation to Site Perspective
@@ -73,7 +73,7 @@ last_curated: null
 ### Cross-links Added
 
 - [[hard-problem-of-consciousness]]
-- [[moral-realism]]
+- moral-realism
 - [[causal-powers]]
 - [[philosophical-zombies]]
 

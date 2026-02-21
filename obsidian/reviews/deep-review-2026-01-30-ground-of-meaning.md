@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-30
-**Article**: [[ground-of-meaning|Ground Of Meaning]]
+**Article**: Ground Of Meaning
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

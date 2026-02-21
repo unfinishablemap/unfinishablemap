@@ -383,7 +383,7 @@ Based on this research, an article could:
 **Primary article recommendation**: Create concept page `spontaneous-collapse-theories.md` covering GRW, CSL, and prebiotic collapse problem as solution for Minimal Quantum Interaction tenet.
 
 **Related articles to link**:
-- `[[quantum-measurement-problem]]` - spontaneous collapse as solution
+- `quantum-measurement-problem` - spontaneous collapse as solution
 - `[[tenets#minimal-quantum-interaction]]` - consciousness modulates baseline collapse
 - `[[concepts/many-worlds]]` - collapse theories reject branching
 - `[[decoherence]]` - relationship to spontaneous collapse (complementary vs. competing)

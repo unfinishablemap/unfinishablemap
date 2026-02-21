@@ -15,7 +15,7 @@ concepts:
   - "[[indexical-knowledge]]"
   - "[[introspection]]"
   - "[[explanatory-gap]]"
-  - "[[symbol-grounding]]"
+  - "symbol-grounding"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-only-territories]]"

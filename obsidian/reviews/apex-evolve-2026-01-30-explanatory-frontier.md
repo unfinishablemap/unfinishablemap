@@ -8,7 +8,7 @@ draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[explanatory-frontier]]"
+  - "explanatory-frontier"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

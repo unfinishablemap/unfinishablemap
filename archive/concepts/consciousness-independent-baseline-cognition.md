@@ -8,7 +8,7 @@ draft: false
 topics: []
 concepts:
   - "[[consciousness]]"
-  - "[[cognition]]"
+  - "cognition"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
 related_articles:

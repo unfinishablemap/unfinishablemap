@@ -22,7 +22,7 @@ last_curated: null
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link**: `[[the-phenomenology-of-moral-experience]]` pointed to a non-existent file (correct slug is `phenomenology-of-moral-experience` without the "the-" prefix). Fixed in both frontmatter and Further Reading.
+- **Broken link**: `the-phenomenology-of-moral-experience` pointed to a non-existent file (correct slug is `phenomenology-of-moral-experience` without the "the-" prefix). Fixed in both frontmatter and Further Reading.
 
 ### Medium Issues Found
 - **n=1 correlation overreach**: The Relation to Site Perspective section claimed "every species with human-level social cognition also has the neural architecture associated with expanded phenomenal consciousness" — this was essentially unfalsifiable since only humans have "human-level social cognition." Reworded to acknowledge the pattern across the range of primate social complexity is "suggestive rather than decisive" with limited sample and confounds.
