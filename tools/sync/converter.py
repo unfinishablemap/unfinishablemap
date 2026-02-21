@@ -10,7 +10,7 @@ from typing import Optional
 import frontmatter
 
 from .errors import BrokenWikilink, SlugCollision, SyncReport, SyncValidationError
-from .wikilinks import convert_wikilinks, convert_block_references
+from .wikilinks import SYNC_DIRS, convert_wikilinks, convert_block_references
 
 log = logging.getLogger(__name__)
 
@@ -37,20 +37,7 @@ def convert_obsidian_to_hugo(
     report = SyncReport()
 
     # Directories to sync (exclude .obsidian, drafts if configured)
-    sync_dirs = [
-        "apex",
-        "authors",
-        "topics",
-        "concepts",
-        "project",
-        "tenets",
-        "questions",
-        "arguments",
-        "workflow",
-        "research",
-        "reviews",
-        "voids",
-    ]
+    sync_dirs = list(SYNC_DIRS)
 
     # Build content index for wikilink resolution
     content_index, collisions = build_content_index(obsidian_path, sync_dirs, exclude_drafts)

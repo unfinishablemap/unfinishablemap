@@ -1,7 +1,24 @@
 """Convert Obsidian wikilinks to Hugo-compatible markdown links."""
 
 import re
+from pathlib import Path
 from typing import Callable, Optional
+
+# Directories that sync scans for content (must match converter.py sync_dirs)
+SYNC_DIRS = [
+    "apex",
+    "authors",
+    "topics",
+    "concepts",
+    "project",
+    "tenets",
+    "questions",
+    "arguments",
+    "workflow",
+    "research",
+    "reviews",
+    "voids",
+]
 
 
 def convert_wikilinks(
@@ -157,6 +174,46 @@ def slugify(text: str) -> str:
     slug = slug.strip("-")
 
     return slug
+
+
+def check_slug_available(
+    proposed_name: str,
+    target_section: str,
+    obsidian_path: Path,
+) -> str | None:
+    """Check whether a proposed filename would create a slug collision.
+
+    Scans all sync directories for existing .md files and checks if the
+    proposed slug already exists in any *other* section.
+
+    Args:
+        proposed_name: Proposed filename stem or slug (e.g. "free-will")
+        target_section: Section the file will be created in (e.g. "topics")
+        obsidian_path: Path to the Obsidian vault root
+
+    Returns:
+        None if the slug is available, or an error message describing the collision.
+    """
+    proposed_slug = slugify(proposed_name)
+
+    # Collect all existing slugs across sections
+    collisions: list[str] = []
+    for section in SYNC_DIRS:
+        source_dir = obsidian_path / section
+        if not source_dir.exists():
+            continue
+        for md_file in source_dir.rglob("*.md"):
+            if slugify(md_file.stem) == proposed_slug and section != target_section:
+                collisions.append(f"/{section}/{md_file.stem}/")
+
+    if collisions:
+        locations = ", ".join(collisions)
+        return (
+            f"Slug '{proposed_slug}' already exists in: {locations}. "
+            f"Creating /{target_section}/{proposed_slug}/ would cause a collision. "
+            f"Choose a different filename."
+        )
+    return None
 
 
 def extract_wikilinks(content: str) -> list[dict]:

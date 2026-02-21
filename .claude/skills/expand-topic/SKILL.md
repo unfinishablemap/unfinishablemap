@@ -58,6 +58,14 @@ Otherwise, apply this priority order (favour voids and topics over concepts):
 
 Use kebab-case for filenames (e.g., `hard-problem-of-consciousness.md`).
 
+**Before creating the file**, verify the slug is available:
+
+```bash
+uv run python scripts/check_slug.py <proposed-slug> <section>
+```
+
+If the check reports a collision, choose a different filename that won't collide. Do NOT proceed with a colliding slug.
+
 **Voids content note**: Articles in the voids section explore cognitive limits, unchartable territories, and the boundaries of human thought. They should:
 - Maintain intellectual honesty about what is speculation vs. established
 - Acknowledge uncertainty about whether limits are real or merely difficult

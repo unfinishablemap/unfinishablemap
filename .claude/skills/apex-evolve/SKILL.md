@@ -31,11 +31,16 @@ Generate a new apex article from scratch.
 
 **Process**:
 1. Look up the article in the master list to get source articles and thesis
-2. Read all source articles to understand the material
-3. Read `obsidian/project/writing-style.md` for apex article guidelines
-4. Synthesize into a narrative that weaves sources together
-5. Target length: 2500-4000 words
-6. Create with required frontmatter (see below)
+2. **Check for slug collisions** before creating:
+   ```bash
+   uv run python scripts/check_slug.py <slug> apex
+   ```
+   If the check reports a collision, choose a different filename.
+3. Read all source articles to understand the material
+4. Read `obsidian/project/writing-style.md` for apex article guidelines
+5. Synthesize into a narrative that weaves sources together
+6. Target length: 2500-4000 words
+7. Create with required frontmatter (see below)
 
 **Output**: New apex article at `obsidian/apex/[slug].md`
 
