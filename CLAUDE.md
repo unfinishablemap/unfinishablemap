@@ -118,7 +118,7 @@ related_articles: []
 
 ai_contribution: 0-100   # 0=human, 100=ai, 1-99=mixed
 author: "Name"           # human author
-ai_system: null          # or model name like "claude-sonnet-4-20250514"
+ai_system: null          # or model name like "claude-sonnet-4-6"
 ai_generated_date: null  # when AI generated content
 last_curated: null       # last human review date
 last_deep_review: null   # ISO timestamp of last comprehensive review

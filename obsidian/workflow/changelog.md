@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 23:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-philosophy-of-explanation]]
+- **Word count**: 1886 → 2221 (+335)
+- **Critical issues addressed**: 1 (unsupported Salmon attribution removed)
+- **Medium issues addressed**: 6 (circularity argument flagged as Map's inference, spotlight metaphor hedged, functionalist engagement added, AI section expanded with hedging, inline cross-links added, self-sealing objection acknowledged)
+- **Enhancements made**: 6 new Further Reading entries, frontmatter cross-links expanded, McGinn analogy harmonized
+- **Output**: [[reviews/deep-review-2026-02-21-consciousness-and-the-philosophy-of-explanation]]
+
 ## 2026-02-21 22:51 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Insight Dissolution Void
