@@ -1059,6 +1059,11 @@ Examples:
             # Save state after each session
             save_state(state, STATE_PATH)
 
+            # Check max-iterations before sleeping
+            if args.max_iterations and iterations >= args.max_iterations:
+                log.info(f"Reached max iterations ({args.max_iterations})")
+                break
+
             # Sleep until next session
             session_duration = time.time() - session_start
             sleep_seconds = max(0, args.interval - session_duration)
