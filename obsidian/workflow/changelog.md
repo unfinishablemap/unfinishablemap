@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 16:54 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Complementarity Void
+- **Category**: Unexplorable (structural)
+- **Output**: [[research/voids-complementarity-void-2026-02-21]]
+- **Key finding**: Consciousness exhibits structural trade-offs analogous to quantum complementarity — accessing one phenomenal aspect (e.g., introspecting on experience) necessitates losing access to the complementary aspect (e.g., the unreflective experience itself), as documented independently across phenomenology, empirical psychology, contemplative traditions, and quantum cognition research.
+
 ## 2026-02-21 16:24 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-problem-of-other-properties]]
