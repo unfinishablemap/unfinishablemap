@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-02-17 12:42:00+00:00
+ai_modified: 2026-02-21 13:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,6 @@ concepts:
 - '[[introspection]]'
 - '[[temporal-structure-of-understanding]]'
 - '[[metacognition]]'
-- '[[working-memory]]'
 created: 2026-02-17
 date: &id001 2026-02-17
 description: What does it feel like when the categories through which you understand
@@ -20,6 +19,7 @@ description: What does it feel like when the categories through which you unders
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-21 13:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -27,7 +27,6 @@ related_articles:
 - '[[phenomenology-of-error-recognition]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[phenomenology-of-skill-and-the-lived-body]]'
 - '[[phenomenology-of-inferential-understanding]]'
 title: The Phenomenology of Conceptual Change
 topics:
@@ -54,9 +53,9 @@ Conceptual change unfolds through distinctive phenomenal phases, each with quali
 
 Before a conceptual framework shifts, anomalies accumulate — experiences that resist assimilation into existing categories. This accumulation has a specific phenomenology. The anomaly does not present itself as a counterexample demanding framework revision. It presents itself as puzzlement: something that *should* make sense but doesn't, a stubborn residue that categorisation cannot absorb.
 
-The felt quality is a low-grade cognitive discomfort distinct from ordinary confusion. Confusion about a difficult problem carries the expectation that effort will resolve it. Anomaly-discomfort carries a different signature — the sense that something is wrong with the *tools* rather than the task. A physics student struggling with blackbody radiation in the late 1890s would not have experienced the anomaly as "Newtonian mechanics is wrong." The experience would have been more diffuse: a persistent unease, a feeling that the familiar framework was generating answers that didn't quite *fit*, without any clear account of why.
+The felt quality is a low-grade cognitive discomfort distinct from ordinary confusion. Confusion about a difficult problem carries the expectation that effort will resolve it. Anomaly-discomfort carries a different signature — the sense that something is wrong with the *tools* rather than the task. A physicist struggling with blackbody radiation in the late 1890s would not have experienced the anomaly as "classical physics is wrong." The experience would have been more diffuse: a persistent unease, a feeling that the familiar framework was generating answers that didn't quite *fit*, without any clear account of why.
 
-The [epistemic-emotions](/concepts/epistemic-emotions/) involved — the particular texture of this unease — differ from the doubt that attends ordinary uncertainty. Ordinary doubt asks "is this true?" Anomaly-unease asks something harder to articulate: "am I thinking about this the right way?" This second-order quality — doubt directed at one's own cognitive apparatus rather than at propositions — is phenomenally distinctive and provides evidence that [metacognition](/concepts/metacognition/) involves irreducible phenomenal character.
+The [epistemic-emotions](/concepts/epistemic-emotions/) involved — the particular texture of this unease — differ from the doubt that attends ordinary uncertainty. Ordinary doubt asks "is this true?" Anomaly-unease asks something harder to articulate: "am I thinking about this the right way?" This second-order quality — doubt directed at one's own cognitive apparatus rather than at propositions — is phenomenally distinctive and provides evidence that [metacognition](/concepts/metacognition/) involves irreducible phenomenal character. The access here is not theoretical but [introspective](/concepts/introspection/): the anomaly-unease is given directly in experience, and no third-person redescription captures the felt difference between "this problem is hard" and "my tools are wrong."
 
 ### The Crisis of Incommensurability
 
@@ -87,7 +86,7 @@ After the shift, a period of consolidation follows. The new framework must be te
 
 Residual dissonance deserves attention. Even after a genuine conceptual shift, traces of the old framework persist as phenomenal tendencies — moments when the old categories spontaneously organise experience before the new ones can assert themselves. The physicist who has absorbed general relativity still *feels* gravity as a force pulling downward, even while understanding it as spacetime curvature. This persistence of old phenomenal habits shows that conceptual change is not merely propositional — it reaches into the structure of perceptual experience, where old patterns have been laid down through years of use.
 
-This connects to what the Map explores as the [phenomenology of habit](/topics/consciousness-and-skilled-performance/) — the way consciousness scaffolds learning and then withdraws. Conceptual habits operate similarly: the old framework once required conscious effort to apply, became automatic, and now must be consciously overridden by the new framework, which itself will eventually become automatic.
+This reveals a phenomenology of habit: consciousness scaffolds learning and then withdraws. Conceptual habits operate similarly — the old framework once required conscious effort to apply, became automatic, and now must be consciously overridden by the new framework, which itself will eventually become automatic. The pattern mirrors what [philosophical disagreement](/topics/phenomenology-of-philosophical-disagreement/) reveals about framework-dependence: after a conceptual shift, the old framework becomes something one can remember inhabiting but cannot fully re-enter.
 
 ## What Conceptual Change Reveals About Consciousness
 
@@ -95,17 +94,17 @@ This connects to what the Map explores as the [phenomenology of habit](/topics/c
 
 If conceptual change were merely information reorganisation — rearranging data structures — it would have no phenomenal character. A database can be restructured without anything happening experientially. But conceptual change is drenched in phenomenal character: the unease of anomaly accumulation, the vertigo of framework dissolution, the totality of the gestalt shift, the cautious pleasure of consolidation. Each phase has qualitative texture that goes beyond the functional transitions occurring.
 
-A functionalist might respond that the phenomenal character *is* the functional reorganisation, experienced from the inside. The Map acknowledges this move but finds it explanatorily empty for the specific case of conceptual change. The question is not whether phenomenal states track functional transitions — they clearly do — but why framework reorganisation *feels like something* at all, and why it feels like *this* rather than some other way. The felt totality of the gestalt shift, the experienced irreversibility, the retroactive reinterpretation of the past — each requires explanation that functional description alone does not provide.
+A functionalist might respond that the phenomenal character *is* the functional reorganisation, experienced from the inside — that the felt totality of the gestalt shift simply *is* the functional property of simultaneous category reorganisation. The Map acknowledges this move but finds it explanatorily incomplete for conceptual change specifically. Functional reorganisation can proceed piecemeal or holistically, gradually or suddenly, and nothing in functional description alone predicts which pattern a given reorganisation will follow. Yet the phenomenology is highly specific: the gestalt shift is experienced as total, irreversible, and retroactively illuminating. Chi (1992) has shown that conceptual changes crossing ontological categories — from "matter" to "process," for instance — are qualitatively harder and phenomenally different from within-category changes. The felt difficulty tracks the ontological boundary, not the quantity of information revised. This specificity is a phenomenal fact that functional redescription notes but does not explain.
 
 ### Consciousness as Participant, Not Observer
 
 The phenomenology of conceptual change suggests that consciousness does not merely witness framework transitions but participates in them. During the crisis phase, conscious attention to anomalies — the sustained experience of something-not-fitting — generates the conditions for framework dissolution. During the gestalt shift, the felt quality of the new framework's coherence appears to guide its crystallisation. During consolidation, conscious detection of residual dissonance drives integration of the new framework with existing knowledge.
 
-If these phenomenal states were epiphenomenal — present but causally idle — conceptual change would proceed identically without them. But the phenomenology suggests otherwise. The felt quality of anomaly-unease is what distinguishes genuine anomaly detection from mere processing failure. The experienced coherence of the new framework is what makes the gestalt shift stick rather than oscillating between frameworks. Consciousness is not watching conceptual change happen; it is part of how conceptual change works.
+If these phenomenal states were epiphenomenal — present but causally idle — the prediction would be that conceptual change should look the same with or without them. But the phenomenology reveals specific causal signatures that track phenomenal character too precisely for coincidence. The attention to anomalies is selective: among many possible discomforts, consciousness dwells on the ones that matter. The experienced coherence of the new framework is what makes the shift stick rather than oscillating between alternatives — not mere pattern-matching but a felt sense of *rightness* that guides selection. An epiphenomenalist can grant that phenomenal states accompany these transitions, but the transitions' distinctive features — their holistic simultaneity, their selectivity, their irreversibility — map onto the phenomenology's contours with a precision that demands explanation. Consciousness is not watching conceptual change happen; it is part of how conceptual change works.
 
 ### The Limits of Computational Models
 
-Computational models of conceptual change — connectionist retraining, Bayesian model selection, theory revision in AI systems — capture structural aspects but miss the phenomenology entirely. A neural network can be retrained to categorise differently. A Bayesian agent can shift between models when evidence warrants. Neither undergoes the phenomenology described here: the existential unease of anomaly accumulation, the vertigo of framework loss, the felt totality of reorganisation.
+Computational models of conceptual change — Thagard's (1992) explanatory coherence networks, connectionist retraining, Bayesian model selection — capture structural aspects but miss the phenomenology. Thagard models conceptual revolutions as shifts between competing explanatory networks, and his framework successfully predicts *which* framework wins. What it cannot model is why the transition feels like anything, or why crossing what Chi (1992) calls ontological category boundaries feels qualitatively different from within-category revision. Carey (2009) documents how children's conceptual development involves genuine framework changes — the child who reconstructs "alive" from an animacy concept to a biological one — and her developmental evidence shows that these changes have a distinctive developmental signature irreducible to incremental learning. But even Carey's rich account describes the process from outside. What the computational models and developmental accounts share is an inability to capture the [felt sense](/topics/phenomenology-of-inferential-understanding/) of the shift itself.
 
 This gap matters beyond philosophical interest. If conceptual change requires phenomenal character — if the felt quality of the process is what enables the distinctively holistic, simultaneous, irreversible character of genuine framework shifts — then systems without phenomenal experience may be incapable of genuine conceptual change, however sophisticated their model-switching. They can approximate the outcome without undergoing the process.
 
@@ -121,7 +120,9 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Conceptual change is itself a demonstration that simpler frameworks can be wrong. Every genuine framework shift involves abandoning a simpler organising principle for a more adequate but more complex one. The child's concept of "alive" (= moves on its own) is simpler than the biologist's concept (= metabolises, reproduces, maintains homeostasis). The shift from Newtonian to relativistic mechanics replaces elegant simplicity with counterintuitive complexity. The history of conceptual change suggests that Occam's Razor, applied to conceptual frameworks themselves, would have blocked most genuine advances.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of conceptual change is singular and irreversible. After a genuine gestalt shift, you inhabit *this* framework, not multiple frameworks simultaneously. The experienced irreversibility — the inability to fully re-inhabit the old framework — presupposes that conceptual change is a real transition from one state to another, not a branching into parallel versions of oneself. Many-worlds would imply that all framework-states coexist across branches; the phenomenology insists that one has been left behind.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The gestalt shift's totality — the entire framework reorganising simultaneously rather than concept by concept — is structurally compatible with quantum selection models. If consciousness biases otherwise indeterminate neural states, the holistic character of the shift may reflect a single selection event across a superposed landscape of possible frameworks, rather than an incremental computational process. This remains speculative, but the phenomenology's all-at-once character fits quantum collapse better than it fits sequential computation.
+
+**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of conceptual change is singular and irreversible. After a genuine gestalt shift, you inhabit *this* framework, not multiple frameworks simultaneously. The experienced irreversibility — the inability to fully re-inhabit the old framework — presupposes that conceptual change is a real transition from one state to another, not a branching into parallel versions of oneself. A many-worlds defender might respond that each branch contains a single, irreversible shift — but this concedes that *indexical identity* matters. The question "which framework do *I* now inhabit?" is meaningful, and the answer is determinate. The Map maintains that this determinacy reflects real collapse, not the illusion of collapse within one branch of an infinitely branching tree.
 
 ## Further Reading
 
@@ -134,7 +135,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
-- [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/)
+- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)
 
 ## References

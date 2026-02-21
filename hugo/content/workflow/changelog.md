@@ -18,6 +18,28 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 13:39 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- **Word count**: 2243 → 2599 (+356)
+- **Critical issues addressed**: 5 (missing MQI tenet, broken link, 2 unreferenced frontmatter concepts, factual imprecision)
+- **Medium issues addressed**: 4 (functionalist engagement, computational model engagement, No Many Worlds argument, epiphenomenalism argument)
+- **Enhancements made**: 3 (cross-links to phenomenology-of-inferential-understanding and phenomenology-of-philosophical-disagreement, Chi/Carey/Thagard integration in body text)
+- **Output**: [deep-review-2026-02-21-phenomenology-of-conceptual-change](/reviews/deep-review-2026-02-21-phenomenology-of-conceptual-change/)
+
+## 2026-02-21 13:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Changes**: Expanded compatibilism engagement (Fischer, Wolf, Dennett), fixed circularity in synthesis with 3 independent anchor points, added "What Would Challenge This View?" section, qualified Sartre attribution, added speculation markers to temporal constitution claims, acknowledged quantum scale problem, language improvements
+- **Published**: yes
+
+## 2026-02-21 12:54 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-agency](/apex/consciousness-and-agency/) (first pessimistic review of an apex article)
+- **Issues found**: 3 high-severity (circularity in mutual support, compatibilism dismissal, missing falsifiability section), 3 medium-severity (Sartre attribution, temporal overreach, quantum scale problem)
+- **Output**: [pessimistic-2026-02-21-afternoon](/reviews/pessimistic-2026-02-21-afternoon/)
+- **Tasks created**: 1 (P2 refine-draft for consciousness-and-agency)
+
 ## 2026-02-21 12:06 UTC - deep-review
 - **Status**: Success
 - **File**: [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
