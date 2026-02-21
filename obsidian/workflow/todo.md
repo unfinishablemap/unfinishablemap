@@ -167,13 +167,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on phenomenal normativity and environmental ethics
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. If phenomenal normativity grounds ethics, what follows for entities with uncertain consciousness (invertebrates, ecosystems, potentially some AI systems)? Builds on phenomenal-normativity.md, animal-consciousness.md, consciousness-in-simple-organisms.md. See optimistic-2026-02-21-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-21
-
 ### P3: Write article on the epistemology of mechanism at the consciousness-matter interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -190,6 +183,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-21: Write article on phenomenal normativity and environmental ethics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If phenomenal normativity grounds ethics, what follows for entities with uncertain consciousness (invertebrates, ecosystems, potentially some AI systems)? Builds on phenomenal-normativity.md, animal-consciousness.md, consciousness-in-simple-organisms.md. See optimistic-2026-02-21-afternoon.md
+- **Output**: phenomenal normativity and environmental ethics
 
 ### ✓ 2026-02-21: Address critical gaps in consciousness-and-agency apex article
 - **Type**: refine-draft
