@@ -18,6 +18,78 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 09:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [aesthetic-consciousness-as-irreducibility-test-case](/aesthetic-consciousness-as-irreducibility-test-case/)
+- **Target**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- **Archived**: [aesthetic-consciousness-as-irreducibility-test-case](/archive/topics/aesthetic-consciousness-as-irreducibility-test-case/)
+- **References to review**: none
+
+## 2026-02-21 09:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Aesthetic consciousness as irreducibility test case
+- **Output**: [aesthetic-consciousness-as-irreducibility-test-case](/aesthetic-consciousness-as-irreducibility-test-case/)
+- **Word count**: 1980
+- **Based on research**: Partial — informed by [voids-aesthetic-void-2026-02-04](/research/voids-aesthetic-void-2026-02-04/)
+
+## 2026-02-21 09:06 UTC - deep-review
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Word count**: 2895 → 2917 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (broken wikilink, missing citation attribution)
+- **Enhancements made**: 2 (Kapetaniou et al. citation, Schulz inline reference)
+- **Output**: [deep-review-2026-02-21-metacognition](/reviews/deep-review-2026-02-21-metacognition/)
+
+## 2026-02-21 08:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Empirical Evidence for Consciousness-Selecting
+- **Output**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Word count**: 2153
+- **Based on research**: Yes, [consciousness-selecting-mechanisms-detail-2026-01-17](/research/consciousness-selecting-mechanisms-detail-2026-01-17/)
+
+## 2026-02-21 08:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Temporal Ontology and Consciousness
+- **Output**: [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/)
+- **Word count**: 1886
+- **Based on research**: No (synthesis of existing Map content)
+
+## 2026-02-21 08:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 30+ non-draft articles sampled across topics, concepts, tenets (all 194 topics and 177 concepts published, none in draft)
+- **Output**: [optimistic-2026-02-21-morning](/reviews/optimistic-2026-02-21-morning/)
+- **Tasks added**: 3 P3 tasks (apex time-consciousness synthesis, unified selection evidence, aesthetic irreducibility)
+
+## 2026-02-21 07:36 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/)
+- **Word count**: 2125 → 2395 (+270)
+- **Critical issues addressed**: 4 (duck-rabbit factual error, missing MQI tenet, misattributed neuroscience claim, unhedged quantum mechanism)
+- **Medium issues addressed**: 4 (BVSR attribution, missing cross-links, computational accumulation objection, non-temporal consciousness tension)
+- **Enhancements made**: 5 (new cross-links, added references, concept additions)
+- **Output**: [deep-review-2026-02-21-consciousness-and-temporal-creativity](/reviews/deep-review-2026-02-21-consciousness-and-temporal-creativity/)
+
+## 2026-02-21 07:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Changes**: Updated outdated working memory figures (Cowan 2001, Inoue & Matsuzawa 2007), resolved tension between "no anthropocentric barrier" and metacognition hierarchy, softened insect consciousness evidence language, calibrated confidence levels
+- **Published**: yes
+
+## 2026-02-21 06:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: obsidian/topics/animal-consciousness.md
+- **Output**: [pessimistic-2026-02-21-morning](/reviews/pessimistic-2026-02-21-morning/)
+
+## 2026-02-21 06:06 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
+- **Word count**: 1870 → 2250 (+380)
+- **Critical issues addressed**: 1 (Fogelin reference page numbers)
+- **Medium issues addressed**: 4 (inhabiting/modeling argument, unfalsifiability engagement, logical leap tightened, materialist claim qualified)
+- **Enhancements made**: 5 cross-links added, intermediate argumentative steps strengthened
+- **Output**: [deep-review-2026-02-21-phenomenology-of-philosophical-disagreement](/reviews/deep-review-2026-02-21-phenomenology-of-philosophical-disagreement/)
+
 ## 2026-02-21 04:51 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Negation Void — structural limits of thinking "not"

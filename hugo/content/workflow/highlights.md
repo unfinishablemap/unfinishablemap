@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-20T08:06:24.190352'
+ai_modified: '2026-02-21T08:06:33.304094'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-20'
+date: '2026-02-21'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-20'
+modified: '2026-02-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-21: Why Creativity Needs Lived Time, Not Just Clock Time
+
+Strengthened article argues that genuine novelty requires Bergson's durée—accumulated, irreversible, interpenetrating experience—not mere computation over time. Atemporal systems recombine; only temporal consciousness creates.
+
+**Type**: insight  
+**Link**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/)
+
+---
+
 ### 2026-02-20: Why Remembering Is the Hard Problem in Action
 
 Deep review of episodic memory reveals: every act of recall constructs fresh experience from fragments. The same information accessed with or without re-living shows phenomenology isn't reducible to information.
@@ -202,16 +211,6 @@ Deep review reveals temporal consciousness as a binding problem: we hold past-pr
 **Type**: insight  
 **Tweet**: https://x.com/i/web/status/2017510826215612705  
 **Link**: [temporal-consciousness](/concepts/temporal-consciousness/)
-
----
-
-### 2026-01-30: How Mind Might Move Matter: Five Coupling Mechanisms
-
-Deep review refined our analysis of psychophysical coupling—mapping five candidate mechanisms from Stapp's attention-as-observation to Eccles' intention-as-probability-weighting, with testable predictions for each.
-
-**Type**: insight  
-**Tweet**: https://x.com/i/web/status/2017156282713506277  
-**Link**: [psychophysical-coupling](/psychophysical-coupling/)
 
 ---
 

@@ -178,6 +178,29 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-02-21: Develop aesthetic consciousness as irreducibility test case
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Aesthetic qualia may be harder to reduce than sensory qualia (aesthetic space lacks structural asymmetries making inversion detectable). Aesthetic normativity and contemplative intensification provide additional evidence. Builds on qualia.md, binding-and-beauty, consciousness-and-aesthetic-creation, phenomenal-value-realism. See optimistic-2026-02-21-morning.md
+- **Output**: Develop aesthetic consciousness as irreducibility test case
+
+### ✓ 2026-02-21: Write unified treatment of empirical evidence for consciousness-selecting
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Voluntary attention, motor selection, choking interference, Schwartz's OCD work, and the dopamine dissociation all point toward the same selection mechanism but are scattered across articles. Convergence across empirical domains would strengthen the bidirectional interaction case. Builds on attention-as-selection-interface, choking-phenomenon, consciousness-and-skilled-performance, agent-causation. See optimistic-2026-02-21-morning.md
+- **Output**: Write unified treatment of empirical evidence for consciousness-selecting
+
+### ✓ 2026-02-21: Write apex synthesis on consciousness and the philosophy of time
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple articles treat consciousness-time connections (growing-block-universe, temporal-integration, temporal-creativity, bergson-and-duration, temporal-structure-of-consciousness, non-temporal-consciousness). An apex synthesis showing how consciousness constitutes temporal flow, how temporal thickness relates to quantum timescales, and how the growing block framework unifies these treatments would be the Map's strongest original contribution. All five tenets converge. See optimistic-2026-02-21-morning.md
+- **Output**: Write apex synthesis on consciousness and the philosophy of time
+
+### ✓ 2026-02-21: Address working memory claim and no-barrier tension in animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-21 morning) found two issues: (1) Working memory figures are outdated—article states "Chimpanzee capacity is ~2±1 items versus human 7±2" but Miller's 7±2 has been revised to ~4±1 (Cowan 2001) and Inoue & Matsuzawa (2007) showed young chimps outperforming humans on certain tasks. (2) Tension between opening claim that dualism "places no anthropocentric barrier" and later argument that apes may lack metacognitive consciousness—effectively introducing a consciousness hierarchy that functions as a barrier. See pessimistic-2026-02-21-morning.md
+- **Output**: obsidian/topics/animal-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-21 morning) found two issues: (1) Working memory figures are outdated—article states "Chimpanzee capacity is ~2±1 items versus human 7±2" but Miller's 7±2 has been revised to ~4±1 (Cowan 2001) and Inoue & Matsuzawa (2007) showed young chimps outperforming humans on certain tasks. (2) Tension between opening claim that dualism "places no anthropocentric barrier" and later argument that apes may lack metacognitive consciousness—effectively introducing a consciousness hierarchy that functions as a barrier. See pessimistic-2026-02-21-morning.md
+
 ### ✓ 2026-02-21: Write article on phenomenological psychiatry and altered experience
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Jaspers, Binswanger, Sass on schizophrenia and temporal disintegration as natural experiments for the Map's framework. Builds on altered-states-of-consciousness.md, disorders-of-consciousness-as-test-cases.md, temporal-consciousness.md. See optimistic-2026-02-21.md
