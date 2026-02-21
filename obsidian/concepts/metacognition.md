@@ -2,9 +2,9 @@
 title: "Metacognition, Metarepresentation, and Consciousness"
 description: "Metacognition and metarepresentation are cognitive tools consciousness enables, not what consciousness is. Dissociation evidence and comparative cognition reveal their distinct but interrelated roles."
 created: 2026-01-18
-modified: 2026-02-17
+modified: 2026-02-21
 human_modified: null
-ai_modified: 2026-02-17T07:42:00+00:00
+ai_modified: 2026-02-21T09:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,6 @@ concepts:
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
   - "[[witness-consciousness]]"
-  - "[[phenomenology-of-error-recognition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[baseline-cognition]]"
   - "[[cumulative-culture]]"
@@ -48,7 +47,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-21T09:06:00+00:00
 coalesced_from:
   - "/concepts/metacognition/"
   - "/concepts/metarepresentation/"
@@ -82,7 +81,7 @@ The [[phenomenology-of-choice|phenomenology of deliberate choice]] illustrates t
 
 ## Neural Substrate and Trainability
 
-Metacognitive judgments converge on the anterior prefrontal cortex (aPFC). A 2025 study demonstrated causally that tACS over aPFC impairs metacognitive accuracy while leaving first-order performance intact—reinforcing the dissociation at neural level.
+Metacognitive judgments converge on the anterior prefrontal cortex (aPFC). Kapetaniou et al. (2025) demonstrated causally that transcranial alternating current stimulation (tACS) over frontopolar cortex impairs metacognitive accuracy while leaving first-order performance intact—reinforcing the dissociation at neural level.
 
 The aPFC connection illuminates [[lucid-dreaming-and-consciousness|lucid dreaming]]. Frequent lucid dreamers show larger aPFC volume and enhanced connectivity (Baird et al. 2018). Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while still dreaming. The 2025 Demirel findings identify lucid dreaming as a [[lucid-dreaming-and-consciousness#The Distinct State Hypothesis|distinct consciousness state]], proving metacognition can activate within an already-conscious altered state. The dream was conscious before becoming lucid; lucidity adds metacognitive access without adding consciousness *per se*. This **state-independence** shows metacognition operates within whatever consciousness mode is active—it does not create the mode.
 
@@ -135,7 +134,7 @@ This dissociation—metacognition without metarepresentation—reinforces the Ma
 
 ## Error-Blindness: A Structural Limit
 
-Even trained metacognition faces a fundamental limit: it cannot detect current errors. As Kathryn Schulz identifies in [[phenomenology-of-error-recognition|the phenomenology of error recognition]]: "Being wrong doesn't feel like anything." We have no distinctive quale for error. The experience of being confidently wrong is indistinguishable from being confidently right.
+Even trained metacognition faces a fundamental limit: it cannot detect current errors. As Kathryn Schulz identifies: "Being wrong doesn't feel like anything" (Schulz 2010). We have no distinctive quale for error. The experience of being confidently wrong is indistinguishable from being confidently right.
 
 This is structural, not a training failure. Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. Metacognitive training helps you know *what* you believe—phenomenal content that can be attended to—but not *whether* you believe correctly. Even expert meditators remain error-blind. The limit is not overcome through practice.
 
@@ -203,7 +202,6 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 - [[lucid-dreaming-and-consciousness]] — Metacognition in altered states
 - [[introspection]] — Metacognition's role in first-person methods
 - [[consciousness-and-social-cognition]] — Theory of mind as social metacognition
-- [[phenomenology-of-error-recognition]] — Why metacognition cannot detect current errors
 - [[teaching-as-metarepresentation]] — Teaching as the paradigm case of metarepresentation
 - [[baseline-cognition]] — What cognition achieves without metarepresentation
 - [[cognitive-phenomenology]] — The phenomenal character of thinking
@@ -224,6 +222,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 - Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. Sage Publications.
 - Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+- Kapetaniou, G.E., Moisa, M., Ruff, C.C., Tobler, P.N., & Soutschek, A. (2025). Frontopolar cortex interacts with dorsolateral prefrontal cortex to causally guide metacognition. *Human Brain Mapping*, 46(2), e70146.
 - Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.
 - Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 - Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
