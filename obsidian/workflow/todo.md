@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address critical gaps in consciousness-and-agency apex article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-21 afternoon) found three high-severity issues: (1) circularity in mutual support structure—needs independent anchor points identified, (2) compatibilism dismissed in one sentence rather than genuinely engaged—Fischer, Wolf, Dennett need substantive treatment, (3) missing "What Would Challenge This View?" section despite being standard in all source articles. Also: Sartre attribution needs qualification, temporal constitution claims need explicit speculation markers, quantum scale problem unaddressed. See pessimistic-2026-02-21-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-21
+
 ### P2: Update references to coalesced mathematical cognition articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[[consciousness-and-mathematical-understanding]]`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[[consciousness-and-mathematical-creativity]]`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[consciousness-and-mathematical-cognition]]` where appropriate.
