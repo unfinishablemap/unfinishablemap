@@ -6,6 +6,11 @@ modified: 2026-02-21
 human_modified:
 ai_modified: 2026-02-21T09:21:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-21T09:36:00+00:00
+superseded_by: "/topics/aesthetic-dimension-of-consciousness/"
+archive_reason: "Coalesced into The Aesthetic Dimension of Consciousness"
+original_path: "/topics/aesthetic-consciousness-as-irreducibility-test-case/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
