@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-02-02'
+date: '2026-02-21'
 draft: false
 related_articles: []
 target_section: concepts/motor-selection
@@ -227,7 +227,7 @@ This research directly extends:
 
 - **[attention-as-interface](/concepts/attention-as-interface/)** — Motor control is a parallel interface domain with similar neural signatures
 - **[mental-effort](/concepts/mental-effort/)** — Motor effort should show same Zeno phenomenology as attentional effort
-- **[free-will](/concepts/free-will/)** — Strengthens defense against Libet challenge
+- **[free-will](/topics/free-will/)** — Strengthens defense against Libet challenge
 - **[agent-causation](/concepts/agent-causation/)** — Desmurget's parietal findings support agent → action model
 - **[voluntary-attention-control-mechanisms-2026-01-17](/research/voluntary-attention-control-mechanisms-2026-01-17/)** — Direct parallel: frontal theta, ~300ms timing, willed vs instructed distinction
 

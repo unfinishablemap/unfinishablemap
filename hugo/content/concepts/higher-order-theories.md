@@ -5,7 +5,7 @@ ai_modified: 2026-02-04 14:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[qualia]]'
 - '[[self-reference-paradox]]'
 - '[[global-workspace-theory]]'
@@ -58,7 +58,7 @@ Lycan has since retreated from HOP, now favoring attention-based accounts. But t
 
 ## The Metarepresentational Distinction
 
-[Recent analysis](/metarepresentation/) distinguishes three levels of mental representation:
+[Recent analysis](/concepts/metacognition/) distinguishes three levels of mental representation:
 
 1. **First-order**: Representing the world (seeing a tree)
 2. **Second-order**: Representing one's representations (believing you see a tree)
@@ -86,7 +86,7 @@ What happens when a higher-order thought targets a mental state that doesn't exi
 
 Animals and infants likely lack the metacognitive sophistication to have genuine higher-order thoughts about their mental states. Yet they seem clearly conscious. If HOT is right, we face an uncomfortable choice: deny consciousness to babies and dogs, or stretch "thought" beyond recognition.
 
-Recent defenders argue that many animals possess the relevant metacognitive capacities. But the [metarepresentational distinction](/metarepresentation/) complicates this response. Great apes demonstrate sophisticated second-order cognition—uncertainty monitoring, strategic information-seeking—without apparent metarepresentation. They don't seem to represent their beliefs *as* beliefs. If HOT requires genuine metarepresentation (understanding that mental states are mental states), great apes lack it despite having consciousness. If HOT requires only second-order states (functionally monitoring one's cognitive states), it becomes unclear why such monitoring should constitute phenomenal experience rather than merely accompany it.
+Recent defenders argue that many animals possess the relevant metacognitive capacities. But the [metarepresentational distinction](/concepts/metacognition/) complicates this response. Great apes demonstrate sophisticated second-order cognition—uncertainty monitoring, strategic information-seeking—without apparent metarepresentation. They don't seem to represent their beliefs *as* beliefs. If HOT requires genuine metarepresentation (understanding that mental states are mental states), great apes lack it despite having consciousness. If HOT requires only second-order states (functionally monitoring one's cognitive states), it becomes unclear why such monitoring should constitute phenomenal experience rather than merely accompany it.
 
 The objection points to a deeper issue: HOT seems to make consciousness depend on cognitive sophistication rather than being a more fundamental feature of mental life.
 
@@ -94,7 +94,7 @@ The objection points to a deeper issue: HOT seems to make consciousness depend o
 
 Ned Block argues that "the higher-order approach to consciousness is defunct." His critique distinguishes phenomenal consciousness (what-it-is-like-ness) from access consciousness (availability for report and reasoning). HOT may explain access—when mental states become available for cognitive processing—but it doesn't explain phenomenal consciousness.
 
-As Farrell (2018) argues, "ambitious" higher-order theories fail to account for what-it-is-like-ness. We can conceive of creatures with the right higher-order representations who nevertheless lack phenomenal consciousness entirely—[zombies](/arguments/functionalism/) with sophisticated metacognition.
+As Farrell (2018) argues, "ambitious" higher-order theories fail to account for what-it-is-like-ness. We can conceive of creatures with the right higher-order representations who nevertheless lack phenomenal consciousness entirely—[zombies](/concepts/functionalism/) with sophisticated metacognition.
 
 ### The HOROR Response
 
@@ -181,7 +181,7 @@ Like [Global Workspace Theory](/concepts/global-workspace-theory/), HOT has dire
 
 Recent research has explored implementing HOT mechanisms in artificial agents. If an AI can represent that it is in a certain computational state—model its own modeling—HOT suggests it might be conscious.
 
-The Map's response parallels its critique of GWT: [functional implementation](/arguments/functionalism/) doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI. The [absent qualia objection](/topics/ai-consciousness/) applies with equal force to metacognitive computation.
+The Map's response parallels its critique of GWT: [functional implementation](/concepts/functionalism/) doesn't guarantee phenomenal consciousness. An AI could have sophisticated self-models without there being anything it's like to be that AI. The [absent qualia objection](/topics/ai-consciousness/) applies with equal force to metacognitive computation.
 
 ## Relation to Site Perspective
 
@@ -193,7 +193,7 @@ The difference matters. HOT is functionalist—it says consciousness is the func
 
 ### The Self-Stultification Argument
 
-The [self-stultification argument](/arguments/epiphenomenalism/) against epiphenomenalism applies to HOT. If our beliefs about consciousness are caused entirely by cognitive mechanisms (higher-order thoughts about first-order states), why should these beliefs accurately capture what consciousness is like?
+The [self-stultification argument](/concepts/epiphenomenalism/) against epiphenomenalism applies to HOT. If our beliefs about consciousness are caused entirely by cognitive mechanisms (higher-order thoughts about first-order states), why should these beliefs accurately capture what consciousness is like?
 
 HOT might respond that the beliefs *are* accurate because they just *are* the cognitive mechanisms. But this seems to dissolve the distinction between having accurate beliefs about consciousness and merely implementing certain cognitive functions.
 
@@ -215,12 +215,12 @@ The hard problem remains hard.
 
 ## Further Reading
 
-- [metarepresentation](/metarepresentation/) — The three-level distinction HOT may conflate
+- [metarepresentation](/concepts/metacognition/) — The three-level distinction HOT may conflate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
 - [metacognition](/concepts/metacognition/) — The cognitive capacity HOT conflates with consciousness
 - [self-reference-paradox](/voids/self-reference-paradox/) — The recursive structure HOT requires
-- [functionalism](/arguments/functionalism/) — The philosophical framework underlying HOT
+- [functionalism](/concepts/functionalism/) — The philosophical framework underlying HOT
 - [illusionism](/concepts/illusionism/) — HOT's logical extreme: phenomenal consciousness as illusion
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's parallel attempt to explain the gap
 - [mental-causation](/concepts/mental-causation/) — Where HOT's classical framing creates problems

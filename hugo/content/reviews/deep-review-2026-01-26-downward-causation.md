@@ -69,13 +69,13 @@ All six adversarial personas engaged. No new critical issues identified; previou
 1. Added selection laws terminology and link to psychophysical-laws-framework in opening paragraph
 2. Revised quantum mechanism section to acknowledge multiple proposals (Stapp, Eccles, valence)
 3. Replaced quantum Zeno decoherence response with bandwidth constraint argument
-4. Added [psychophysical-laws-framework](/psychophysical-laws-framework/) to Further Reading
+4. Added [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/) to Further Reading
 5. Added [psychophysical-laws](/concepts/psychophysical-laws/) to concepts frontmatter
 6. Tightened prose in Kim's argument section and overdetermination section for length neutrality
 
 ### Cross-links Added
 
-- [psychophysical-laws-framework](/psychophysical-laws-framework/) — The comprehensive framework for specifying mind-matter laws
+- [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/) — The comprehensive framework for specifying mind-matter laws
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Added to concepts frontmatter
 
 ## Length Analysis

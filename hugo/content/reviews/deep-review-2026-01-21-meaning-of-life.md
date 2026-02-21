@@ -59,13 +59,13 @@ topics: []
 - Reorganized Further Reading into thematic subsections
 
 ### Cross-links Added
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - core metaethical grounding
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) - core metaethical grounding
 - [witness-consciousness](/concepts/witness-consciousness/) - contemplative evidence
 - [introspection](/concepts/introspection/) - first-person methods
 - [haecceity](/concepts/haecceity/) - indexical identity and unrepeatability
 - [decoherence](/concepts/decoherence/) - quantum objection
 - [emotional-consciousness](/topics/emotional-consciousness/) - valence and felt quality
-- [duration](/duration/) - Bergson's lived time
+- [duration](/concepts/temporal-consciousness/) - Bergson's lived time
 - [illusionism](/concepts/illusionism/) - strengthened existing link with substantive engagement
 
 ## Word Count Change

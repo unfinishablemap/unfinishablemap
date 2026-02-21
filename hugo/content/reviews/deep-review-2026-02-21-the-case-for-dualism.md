@@ -43,7 +43,7 @@ topics: []
 - **Eliminative materialist**: Qualia as folk-psychology category; intentionality naturalization programs. Addressed via qualifier on intentionality claim.
 - **Dennett/heterophenomenology**: Added cross-link to [heterophenomenology](/concepts/heterophenomenology/) and acknowledged the position more fairly.
 - **Quantum skeptic**: Decoherence objection responses now include appropriate caveats on all four points.
-- **MWI defender**: Section is brief but correctly defers to [many-worlds](/arguments/many-worlds/) for full treatment. Left as-is given length constraints.
+- **MWI defender**: Section is brief but correctly defers to [many-worlds](/concepts/many-worlds/) for full treatment. Left as-is given length constraints.
 - **Empiricist**: Falsifiability claim corrected; convergence argument qualified.
 - **Buddhist/no-self**: Unity of consciousness argument's assumption of fixed self noted as a tension but not changed—this is a bedrock philosophical commitment of the article.
 
@@ -73,12 +73,12 @@ topics: []
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) (Type-A physicalism discussion)
 - [process-philosophy](/concepts/process-philosophy/) and [prehension](/concepts/prehension/) (Process Philosophy section)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (Conservation Laws response)
-- [free-will](/concepts/free-will/) (Further Reading, related_articles)
+- [free-will](/topics/free-will/) (Further Reading, related_articles)
 
 ## Remaining Items
 
 - **Word count still above hard threshold (4182 vs 3500)**: This is a coalesced article covering the entire case for dualism. Further cuts would require removing entire argument sections, which would undermine the convergence structure. The length is justified by scope.
-- **MWI section brief**: The five-line treatment doesn't engage strongest MWI responses (self-locating uncertainty, decision theory). Deferred to the dedicated [many-worlds](/arguments/many-worlds/) article.
+- **MWI section brief**: The five-line treatment doesn't engage strongest MWI responses (self-locating uncertainty, decision theory). Deferred to the dedicated [many-worlds](/concepts/many-worlds/) article.
 - **Unity of consciousness assumes fixed self**: Buddhist and Parfitian challenges to premise 1 not engaged. This is a bedrock commitment rather than an oversight.
 - **Nagel section is shortest major argument**: Could be expanded, but length constraints prevent this.
 

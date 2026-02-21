@@ -35,7 +35,7 @@ related_articles:
 - '[[tenets]]'
 title: Consciousness and Agency
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[argument-from-reason]]'
 - '[[time-collapse-and-agency]]'
 ---
@@ -52,7 +52,7 @@ The classical picture of physics suggested a clockwork universe. Given initial c
 
 Three traditional responses emerge. Hard determinism accepts the implication: free will is an illusion. Compatibilism redefines freedom: "could have done otherwise" means only "would have acted differently if desires had been different." Sophisticated compatibilists argue this captures what matters practically—responsiveness to reasons, choices flowing from endorsed values—and that libertarian metaphysics is beside the point. Libertarianism insists on genuine alternatives but then faces the challenge of explaining how undetermined choices avoid being merely random.
 
-The Map's framework is libertarian, but with a specific mechanism: consciousness selects among quantum possibilities. Quantum mechanics introduces genuine indeterminacy—physics specifies probabilities but not which outcome occurs. This is the [definite outcomes problem](/quantum-measurement-and-definite-outcomes/)—a gap in the causal order that determinism cannot close. But critics rightly object: quantum randomness doesn't give us free will. A random choice is no more *mine* than a determined one. This is the [luck objection](/concepts/agent-causation/#the-luck-objection)—the central challenge any libertarian position must answer.
+The Map's framework is libertarian, but with a specific mechanism: consciousness selects among quantum possibilities. Quantum mechanics introduces genuine indeterminacy—physics specifies probabilities but not which outcome occurs. This is the [definite outcomes problem](/topics/quantum-measurement-consciousness-interface/)—a gap in the causal order that determinism cannot close. But critics rightly object: quantum randomness doesn't give us free will. A random choice is no more *mine* than a determined one. This is the [luck objection](/concepts/agent-causation/#the-luck-objection)—the central challenge any libertarian position must answer.
 
 The Map's answer unfolds across several interlocking ideas: a model of how consciousness operates, an account of what kind of cause the agent is, and an explanation of why this selection isn't arbitrary. Each piece supports the others.
 
@@ -110,7 +110,7 @@ Agent causation requires that mental states actually cause physical effects. But
 
 The Map offers two independent responses. The first denies causal closure at quantum indeterminacies. Physics provides necessary but not sufficient causes at these points. Consciousness selects among outcomes physics leaves undetermined, causing physical events without competing with physical causes. No overdetermination occurs because physics doesn't determine everything.
 
-The second draws on Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025): experiences *preempt* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[observational closure](/observational-closure/)* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
+The second draws on Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025): experiences *preempt* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[observational closure](/concepts/causal-closure/)* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
 
 The [argument from reason](/topics/argument-from-reason/) provides an entirely independent route to mental causation—one that doesn't depend on phenomenological evidence at all. Rational inference requires tracking normative relationships—what follows from what, what counts as good evidence. Neurons fire because of electrochemical gradients, not because firing would be *justified*. If all beliefs are fully explained by nonrational physical causes, no belief is rationally justified—including physicalism. This self-defeat structure shows that rationality requires mental causation. The argument serves as the framework's failsafe: even if someone doubted the phenomenology of effort or contested the neural signatures of willed action, rationality itself would still demand that consciousness causes something.
 
@@ -157,7 +157,7 @@ This article draws on all five tenets. **[Dualism](/tenets/#dualism)**: Agent ca
 ## Source Articles
 
 This apex article synthesizes:
-- [Free Will and Determinism](/concepts/free-will/) — The comprehensive treatment of libertarian free will, quantum selection, and the Map's position
+- [Free Will and Determinism](/topics/free-will/) — The comprehensive treatment of libertarian free will, quantum selection, and the Map's position
 - [Agent Causation](/concepts/agent-causation/) — The metaphysics of agents as irreducible sources of action
 - [Mental Causation](/concepts/mental-causation/) — How consciousness causes physical effects through quantum selection
 - [The Argument from Reason](/topics/argument-from-reason/) — The self-defeat of physicalism and non-phenomenological route to mental causation

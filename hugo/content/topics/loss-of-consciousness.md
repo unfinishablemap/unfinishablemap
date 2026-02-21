@@ -8,7 +8,7 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[qualia]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[episodic-memory]]'
 - '[[implicit-memory]]'
 - '[[autonoetic-consciousness]]'
@@ -100,7 +100,7 @@ This finding has profound implications. If one quarter of "unconscious" patients
 
 ## Memory Systems and Loss of Consciousness
 
-Different memory systems show strikingly different vulnerabilities to consciousness disruption. See [episodic-memory](/concepts/episodic-memory/), [implicit-memory](/concepts/implicit-memory/), and [autonoetic-consciousness](/autonoetic-consciousness/) for detailed treatments.
+Different memory systems show strikingly different vulnerabilities to consciousness disruption. See [episodic-memory](/concepts/episodic-memory/), [implicit-memory](/concepts/implicit-memory/), and [autonoetic-consciousness](/concepts/episodic-memory/) for detailed treatments.
 
 [Episodic memory](/concepts/episodic-memory/) is exquisitely sensitive—anesthesia reliably produces anterograde amnesia. Existing memories remain accessible after recovery; the anesthetic only prevented new encoding. [Implicit memory](/concepts/implicit-memory/) shows remarkable resilience: patients under adequate anesthesia can still form conditioned associations and learn motor patterns without explicit awareness.
 
@@ -172,7 +172,7 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The active reboot mechanism suggests the brain prepares to *receive* consciousness rather than generate it. This is consistent with quantum-level interface mechanisms: as anesthetic effects dissipate, the brain reestablishes the quantum-coherent states necessary for consciousness to influence neural patterns. The [decoherence](/concepts/decoherence/) objection notes that quantum coherence is difficult to maintain in warm biological systems. But loss-of-consciousness evidence doesn't require sustained coherence—it requires only that the brain provide appropriate conditions for consciousness-quantum interaction when functional. Anesthesia disrupts these conditions; recovery reestablishes them.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot mechanism, the propofol/ketamine divergence, and covert consciousness all suggest that consciousness has causal powers distinct from brain processes. These findings are difficult to reconcile with [epiphenomenalism](/arguments/epiphenomenalism/)—if consciousness were merely along for the ride, why would different drugs produce different conscious states with identical behavioral outputs? The covert consciousness finding (25% CMD) is especially significant: consciousness persists with full causal efficacy at the experiential level (patients understand language, follow instructions, form memories) even when motor output pathways are severed. The experience continues to *do* something even when it cannot act on the body.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot mechanism, the propofol/ketamine divergence, and covert consciousness all suggest that consciousness has causal powers distinct from brain processes. These findings are difficult to reconcile with [epiphenomenalism](/concepts/epiphenomenalism/)—if consciousness were merely along for the ride, why would different drugs produce different conscious states with identical behavioral outputs? The covert consciousness finding (25% CMD) is especially significant: consciousness persists with full causal efficacy at the experiential level (patients understand language, follow instructions, form memories) even when motor output pathways are severed. The experience continues to *do* something even when it cannot act on the body.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The temporal gap of anesthesia raises the [indexical identity question](/concepts/haecceity/): why does the same *I* exist before and after the experiential discontinuity? Many-worlds would interpret anesthesia as branching events without genuine experiential gaps—all branches continue with conscious observers. But patients' reports of genuine experiential absence (under propofol) suggest that some branches genuinely lack conscious experience. The same indexical subject returns after anesthesia—not merely a similar observer in a related branch. This favors collapse interpretations where consciousness genuinely ceases and resumes rather than branching interpretations where all outcomes are equally realized.
 
@@ -189,7 +189,7 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — The evolved mechanism of consciousness reduction and its distinct neural dynamics
 - [episodic-memory](/concepts/episodic-memory/) — Autobiographical memory and its vulnerability to consciousness disruption
 - [implicit-memory](/concepts/implicit-memory/) — Procedural memory and anoetic consciousness that persists through altered states
-- [autonoetic-consciousness](/autonoetic-consciousness/) — The form of consciousness required for episodic encoding
+- [autonoetic-consciousness](/concepts/episodic-memory/) — The form of consciousness required for episodic encoding
 - [binding-problem](/concepts/binding-problem/) — How binding operates differently during sleep versus waking
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it fails to explain loss of consciousness
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation

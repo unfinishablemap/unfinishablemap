@@ -36,7 +36,7 @@ topics: []
 
 - **Missing genealogical debunking engagement**: The article didn't address how phenomenal normativity survives evolutionary debunking arguments. Resolution: Added new "Genealogical Debunking Challenge" subsection to Challenges with response that debunking proves too much (evolution explains why we track fire's heat, but fire is still hot) and that direct acquaintance differs from inference-based belief.
 
-- **Missing cross-links**: Article lacked connections to [hard-problem](/hard-problem/), [moral-realism](/moral-realism/), [causal-powers](/concepts/causal-powers/), [philosophical-zombies](/concepts/philosophical-zombies/). Resolution: Added cross-links in natural contexts throughout the article and in Further Reading section.
+- **Missing cross-links**: Article lacked connections to [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), moral-realism, [causal-powers](/concepts/causal-powers/), [philosophical-zombies](/concepts/philosophical-zombies/). Resolution: Added cross-links in natural contexts throughout the article and in Further Reading section.
 
 ### Counterarguments Considered
 
@@ -64,23 +64,23 @@ topics: []
 - Rewrote projection response to avoid circularity and engage functional role
 - Added balanced Buddhist phenomenology treatment (dependent origination)
 - Added genealogical debunking challenge and response
-- Added [moral-realism](/moral-realism/) connection in metaethics implications
+- Added moral-realism connection in metaethics implications
 - Added [causal-powers](/concepts/causal-powers/) link in Relation to Dualism section
 - Added [philosophical-zombies](/concepts/philosophical-zombies/) analogy in AI Alignment section
-- Added [hard-problem](/hard-problem/) link in Relation to Site Perspective
+- Added [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) link in Relation to Site Perspective
 - Added 4 new entries to Further Reading section
 - Updated concepts and related_articles frontmatter
 
 ### Cross-links Added
 
-- [hard-problem](/hard-problem/)
-- [moral-realism](/moral-realism/)
+- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- moral-realism
 - [causal-powers](/concepts/causal-powers/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 
 ## Remaining Items
 
-- The connection to [free-will](/concepts/free-will/) (phenomenal normativity supports robust moral agency through direct normative apprehension) remains unexplored. Natural expansion point for future review.
+- The connection to [free-will](/topics/free-will/) (phenomenal normativity supports robust moral agency through direct normative apprehension) remains unexplored. Natural expansion point for future review.
 - Mackie's argument from queerness is referenced but not fully engaged. The "Relation to Dualism" section notes that dualism defuses queerness, but a more direct engagement with the argument could strengthen the article.
 - The Relation to Phenomenal Value Realism section could more precisely explain the independence of the two views.
 

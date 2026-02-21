@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken links to coalesced articles**: The previous review added links to `[interface-locality](/interface-locality/)` and `[brain-specialness](/brain-specialness/)`, but these articles were subsequently coalesced into `[brain-interface-boundary](/concepts/brain-interface-boundary/)`. All six references (two in body text, two in frontmatter, two in Further Reading) were broken. → Updated all links to point to the new coalesced article.
+- **Broken links to coalesced articles**: The previous review added links to `[interface-locality](/concepts/brain-interface-boundary/)` and `[brain-specialness](/concepts/brain-interface-boundary/)`, but these articles were subsequently coalesced into `[brain-interface-boundary](/concepts/brain-interface-boundary/)`. All six references (two in body text, two in frontmatter, two in Further Reading) were broken. → Updated all links to point to the new coalesced article.
 
 ### Medium Issues Found
 - **Response 3 (Simulation) remains tangential**: The simulation argument essentially says "if we're in a simulation, locality isn't a problem." The article correctly notes this "doesn't require believing we *are* simulated," but the argument's force depends on the simulation hypothesis being plausible. → Left unchanged; the section correctly functions as a perspective-shift argument showing the objection is metaphysics-dependent.
@@ -43,14 +43,14 @@ topics: []
 - Epistemic humility about mechanism details
 
 ### Enhancements Made
-- Updated all broken links from `[interface-locality](/interface-locality/)`/`[brain-specialness](/brain-specialness/)` to `[brain-interface-boundary](/concepts/brain-interface-boundary/)`
+- Updated all broken links from `[interface-locality](/concepts/brain-interface-boundary/)`/`[brain-specialness](/concepts/brain-interface-boundary/)` to `[brain-interface-boundary](/concepts/brain-interface-boundary/)`
 - Consolidated duplicate Further Reading entries into single entry for coalesced article
-- Added cross-link to `[free-will](/concepts/free-will/)` (quantum selection relates to libertarian free will)
+- Added cross-link to `[free-will](/topics/free-will/)` (quantum selection relates to libertarian free will)
 - Updated concepts frontmatter to reference the new coalesced article
 
 ### Cross-links Updated
-- `[brain-interface-boundary](/concepts/brain-interface-boundary/)` (replacing `[interface-locality](/interface-locality/)` and `[brain-specialness](/brain-specialness/)`)
-- `[free-will](/concepts/free-will/)` (new)
+- `[brain-interface-boundary](/concepts/brain-interface-boundary/)` (replacing `[interface-locality](/concepts/brain-interface-boundary/)` and `[brain-specialness](/concepts/brain-interface-boundary/)`)
+- `[free-will](/topics/free-will/)` (new)
 
 ## Remaining Items
 

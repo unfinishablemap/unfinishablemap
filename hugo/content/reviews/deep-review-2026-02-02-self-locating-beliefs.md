@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Self-Locating Beliefs](/self-locating-beliefs/)
+**Article**: [Self-Locating Beliefs](/concepts/indexical-knowledge-and-identity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -64,6 +64,6 @@ This article has reached a stable state. Key philosophical disagreements that wi
 
 - **MWI proponents** will continue to find the anti-branching arguments question-begging, since they reject the premise that there must be a fact about "which branch you're in." This is a framework clash, not a fixable flaw.
 - **Eliminative materialists** will reject the metaphysical thesis and view the three supporting arguments as circular. The article acknowledges these are "prima facie reasons" rather than proofs—this is appropriate epistemic humility, not a weakness.
-- **Buddhist philosophers** will deny the self that indexical facts are supposed to be about. This is engaged in the related [indexical-facts](/indexical-facts/) article and need not be duplicated here.
+- **Buddhist philosophers** will deny the self that indexical facts are supposed to be about. This is engaged in the related [indexical-facts](/concepts/indexical-knowledge-and-identity/) article and need not be duplicated here.
 
 Future reviews should NOT re-flag these as critical issues—they represent bedrock philosophical disagreements that the Map explicitly sides with against mainstream physicalism.

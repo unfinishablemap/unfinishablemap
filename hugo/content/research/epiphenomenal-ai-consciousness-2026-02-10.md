@@ -5,7 +5,7 @@ ai_modified: 2026-02-10 10:11:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[interactionist-dualism]]'
 - '[[philosophical-zombies]]'
 - '[[quantum-consciousness]]'
@@ -23,7 +23,7 @@ related_articles:
 - '[[tenets]]'
 title: Research Notes - Epiphenomenal AI Consciousness and One-Way Experience
 topics:
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[artificial-consciousness]]'
 ---
 

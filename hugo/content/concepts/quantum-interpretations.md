@@ -5,7 +5,7 @@ ai_modified: 2026-02-05 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[quantum-consciousness]]'
 - '[[measurement-problem]]'
 - '[[retrocausality]]'
@@ -37,12 +37,12 @@ related_articles:
 title: Interpretations of Quantum Mechanics
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means. A 2025 Nature survey found that no single interpretation commands majority support. This matters for consciousness studies: different interpretations have radically different implications for whether consciousness plays any role in physics.
 
-The Unfinishable Map explicitly rejects the [Many-Worlds Interpretation](/arguments/many-worlds/) (MWI) on five grounds: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain why consciousness exists at all. But what are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
+The Unfinishable Map explicitly rejects the [Many-Worlds Interpretation](/concepts/many-worlds/) (MWI) on five grounds: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain why consciousness exists at all. But what are the alternatives, and which best aligns with the framework that consciousness participates in physical reality?
 
 ## The Measurement Problem
 
@@ -168,7 +168,7 @@ The [Libet experiments](/concepts/libet-experiments/) show neural activity prece
 
 ### 2. Free Will Mechanism
 
-The [free-will](/concepts/free-will/) article's central proposal—that consciousness selects among quantum possibilities—requires an interpretation where such selection is coherent. Time-symmetric interpretations provide this: consciousness participates in determining which "transaction" completes, which correlations hold across time.
+The [free-will](/topics/free-will/) article's central proposal—that consciousness selects among quantum possibilities—requires an interpretation where such selection is coherent. Time-symmetric interpretations provide this: consciousness participates in determining which "transaction" completes, which correlations hold across time.
 
 ### 3. No Collapse Timing Problem
 
@@ -176,7 +176,7 @@ If consciousness causes collapse at a moment, we face questions about which mome
 
 ## Why the Map Rejects MWI
 
-The [many-worlds](/arguments/many-worlds/) article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness.
+The [many-worlds](/concepts/many-worlds/) article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness.
 
 The deepest conflict: MWI explicitly denies that consciousness plays any role in physics. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds the opposite. The [No Many Worlds](/tenets/#no-many-worlds) tenet encodes this incompatibility.
 
@@ -216,7 +216,7 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 2. **Consciousness-physics interaction is experimentally refuted.** If well-designed experiments consistently found conscious observation produces identical results to unconscious measurement, the consciousness-collapse hypothesis would weaken.
 
-3. **Decoherence timescales prove insurmountable.** If neural decoherence occurs at Tegmark's original timescales (10⁻¹³ seconds) rather than revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. Current evidence ([quantum coherence protection](/quantum-coherence-and-binding-evidence/)) suggests revised estimates are more accurate.
+3. **Decoherence timescales prove insurmountable.** If neural decoherence occurs at Tegmark's original timescales (10⁻¹³ seconds) rather than revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. Current evidence ([quantum coherence protection](/concepts/quantum-neural-mechanisms-and-coherence/)) suggests revised estimates are more accurate.
 
 4. **A new interpretation emerges that explains consciousness while eliminating selection.** Such an interpretation would challenge the Map by showing consciousness-exclusion needn't mean consciousness-inexplicability.
 
@@ -230,7 +230,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness affects physics, it does so minimally—at quantum indeterminacies. This is coherent only where indeterminacy is real and selection occurs. Time-symmetric interpretations are especially congenial: consciousness selects which transaction completes—minimal intervention that nonetheless determines outcomes.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The Map rejects MWI on five grounds (see [many-worlds](/arguments/many-worlds/)). The core concern: MWI cannot explain why *this* branch is mine. The [haecceitistic](/concepts/haecceity/) question—why am I this one?—is meaningful on collapse interpretations and meaningless on MWI.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The Map rejects MWI on five grounds (see [many-worlds](/concepts/many-worlds/)). The core concern: MWI cannot explain why *this* branch is mine. The [haecceitistic](/concepts/haecceity/) question—why am I this one?—is meaningful on collapse interpretations and meaningless on MWI.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: MWI's "parsimony" values law-simplicity over entity-parsimony. The interpretive landscape's genuine openness (no majority interpretation in 2025) suggests physics hasn't settled what "simple" means here.
 
@@ -239,8 +239,8 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 ### Interpretations and Physics
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How each interpretation handles Born rule probabilities and the first-person gap
 - [measurement-problem](/concepts/measurement-problem/) — The problem all interpretations address
-- [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) — Structural parallel between measurement problem and hard problem
-- [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI
+- [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/) — Structural parallel between measurement problem and hard problem
+- [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [qbism](/concepts/qbism/) — Agent-centered interpretation that presupposes experience without explaining it
 - [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) — Rovelli's interpretation and why the Map rejects it
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How multiple conscious observers coordinate
@@ -248,7 +248,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 
 ### Consciousness-Physics Interface
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
-- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — How quantum effects may survive in warm biology
+- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — How quantum effects may survive in warm biology
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric causation and free will
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse relates to temporal experience
 

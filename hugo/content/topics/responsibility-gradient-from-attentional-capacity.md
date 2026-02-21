@@ -30,7 +30,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 title: 'The Responsibility Gradient: From Attentional Capacity to Moral Desert'
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[ethics-of-consciousness]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
 - '[[phenomenology-of-moral-experience]]'
@@ -60,7 +60,7 @@ This dimension affects the *knowledge* requirement most directly. You cannot be 
 
 ### Stability
 
-The ability to sustain attention on a chosen focus—what [mental effort](/concepts/mental-effort/) phenomenology tracks—determines whether an agent can follow through on moral reasoning. An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can. [Voluntary attention](/voluntary-attention/) research distinguishes willed from automatic attentional control; the stability dimension captures how effectively the agent exercises the willed variety.
+The ability to sustain attention on a chosen focus—what [mental effort](/concepts/mental-effort/) phenomenology tracks—determines whether an agent can follow through on moral reasoning. An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can. [Voluntary attention](/concepts/attention-as-interface/) research distinguishes willed from automatic attentional control; the stability dimension captures how effectively the agent exercises the willed variety.
 
 Conditions like ADHD, acute stress, sleep deprivation, and addiction all reduce attentional stability. The agent can initiate moral deliberation but cannot sustain it against distraction or impulse. Their control is intermittent rather than continuous.
 
@@ -168,7 +168,7 @@ The gradient occupies the space between these extremes. Agents are genuine autho
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention serves as consciousness's interface with matter
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — What attentional impairments reveal about the interface
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Responsiveness to reasons as a condition for responsibility
-- [free-will](/concepts/free-will/) — The broader framework of agency and determinism
+- [free-will](/topics/free-will/) — The broader framework of agency and determinism
 
 ## References
 

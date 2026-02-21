@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Collapse Before Minds: Early-Universe Quantum Selection](/collapse-before-minds/)
+**Article**: [Collapse Before Minds: Early-Universe Quantum Selection](/concepts/prebiotic-collapse/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -70,7 +70,7 @@ Added inbound links from related articles to address orphan status:
 The article already had 4 inbound links from:
 - [retrocausality](/concepts/retrocausality/)
 - [time-symmetric-physics](/concepts/time-symmetric-physics/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
 
 ## Word Count

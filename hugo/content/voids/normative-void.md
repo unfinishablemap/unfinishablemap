@@ -27,7 +27,7 @@ related_articles:
 - '[[conceptual-impossibility]]'
 - '[[apophatic-approaches]]'
 - '[[affective-void]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[moral-responsibility]]'
 - '[[ethics-of-consciousness]]'
 title: The Normative Void

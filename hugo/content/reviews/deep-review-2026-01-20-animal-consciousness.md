@@ -90,7 +90,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 
 ## Remaining Items
 

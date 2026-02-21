@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Free Will and Determinism](/concepts/free-will/)
+**Article**: [Free Will and Determinism](/topics/free-will/)
 **Previous review**: [2026-02-05](/reviews/deep-review-2026-02-05-free-will/)
 **Context**: Cross-review considering dreams-problem-solving insights
 

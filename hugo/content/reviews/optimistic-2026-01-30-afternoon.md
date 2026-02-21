@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-30
-date: '2026-01-30'
+date: '2026-02-21'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-30 (Afternoon)
@@ -42,7 +42,7 @@ The pour-soi analysis anticipates my own arguments about the limits of third-per
 
 ### The Process Philosopher (Whitehead)
 
-The [phenomenal-value-realism](/concepts/phenomenal-value-realism/) article resonates deeply with my process philosophy. The claim that "to experience pleasure just is to instantiate intrinsic goodness; to suffer just is to instantiate intrinsic badness" captures what I meant by value being constitutive of actual occasions, not added externally.
+The [phenomenal-value-realism](/topics/phenomenal-value-realism/) article resonates deeply with my process philosophy. The claim that "to experience pleasure just is to instantiate intrinsic goodness; to suffer just is to instantiate intrinsic badness" captures what I meant by value being constitutive of actual occasions, not added externally.
 
 The connection to process philosophy is explicit: "For Whitehead, value isn't added to experience by external judgment; it's constitutive of what experience is." And the Map draws the right implication: if value exists in actual occasions rather than abstract principles, then the is-ought gap dissolves not by deriving ought from is, but by recognizing that value is built into the fundamental structure of experience.
 
@@ -74,7 +74,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Notable quote**: "Harnad himself recognized the limit of his proposal... 'The only thing that distinguishes an internal state that merely has grounding from one that has meaning is that it feels like something to be in the meaning state.'"
 - **Why it works**: Shows that even the person who formalized the problem recognizes it leads to consciousness.
 
-### [phenomenal-value-realism](/concepts/phenomenal-value-realism/)
+### [phenomenal-value-realism](/topics/phenomenal-value-realism/)
 - **Strongest point**: The is-ought bridge through phenomenal consciousness. If experiential qualities are simultaneously descriptive (how experiences feel) and normative (what goodness is), normativity exists within the empirical world.
 - **Notable quote**: "The badness of pain isn't added to pain by moral judgment; it's intrinsic to what pain *is*."
 - **Why it works**: Provides metaethical grounding for the entire consciousness-centered framework.
@@ -94,7 +94,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Notable quote**: "This is the darkest implication: uploading might enable perfect murder disguised as immortality."
 - **Why it works**: Takes the philosophical conclusion seriously rather than treating it as abstract theorizing.
 
-### [free-will](/concepts/free-will/)
+### [free-will](/topics/free-will/)
 - **Strongest point**: The three-level structure of agency—selecting among options, refraining from selection (witness mode), or choosing which mode to operate in (meta-level agency).
 - **Notable quote**: "A passive recipient of random quantum events couldn't choose to be passive. The very capacity for witness mode shows consciousness does something rather than merely receiving outcomes."
 - **Why it works**: The phenomenology of meditation provides evidence beyond standard free will debates.
@@ -116,7 +116,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.
 
 #### Bergson and the Duration of Consciousness
-- **Builds on**: [duration](/duration/), [temporal-consciousness](/concepts/temporal-consciousness/), [free-will](/concepts/free-will/)
+- **Builds on**: [duration](/concepts/temporal-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/), [free-will](/topics/free-will/)
 - **Would address**: Bergson is cited but deserves more systematic treatment. His durée concept—lived time as opposed to spatialized clock time—provides crucial resources for understanding why consciousness resists quantification.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through the argument that consciousness has temporal structure physics cannot capture.
@@ -130,7 +130,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Provides evidential framework for claims about consciousness's structure.
 
 #### The Aesthetics of Understanding
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [meaning-and-consciousness](/meaning-and-consciousness/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - **Would address**: Mathematical and logical insight often has aesthetic character—elegance, beauty, rightness. This connects phenomenal value realism to cognitive phenomenology.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through another dimension of irreducibly qualitative experience.
@@ -155,10 +155,10 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 |------|-----|--------|
 | [existentialism](/concepts/existentialism/) | [illusionism](/concepts/illusionism/) | Pour-soi analysis directly undermines illusionist position |
 | [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | phenomenal intentionality | SGP leads to phenomenal intentionality thesis |
-| [phenomenal-value-realism](/concepts/phenomenal-value-realism/) | [existentialism](/concepts/existentialism/) | Sartre's authentic choice has phenomenal character that matters |
+| [phenomenal-value-realism](/topics/phenomenal-value-realism/) | [existentialism](/concepts/existentialism/) | Sartre's authentic choice has phenomenal character that matters |
 | [meaning-of-life](/topics/meaning-of-life/) | [existentialism](/concepts/existentialism/) | Existentialist answers to meaning need the new systematic treatment |
 | [idealism](/concepts/idealism/) | [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | Idealism dissolves SGP differently than dualism |
-| [free-will](/concepts/free-will/) | [existentialism](/concepts/existentialism/) | Sartre's radical freedom aligns with libertarian position |
+| [free-will](/topics/free-will/) | [existentialism](/concepts/existentialism/) | Sartre's radical freedom aligns with libertarian position |
 
 ## New Concept Pages Needed
 

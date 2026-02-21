@@ -12,7 +12,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[motor-selection]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[decoherence]]'
 - '[[measurement-problem]]'
 - '[[causal-closure]]'
@@ -36,13 +36,13 @@ related_articles:
 - '[[attention-motor-quantum-interface]]'
 title: Stapp's Quantum Mind Model
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
 Henry Stapp's quantum mind model proposes that consciousness influences the brain through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework, mental effort acts like repeated observation, "holding" desired neural patterns in place against their natural tendency to dissipate. This provides a mechanism for mind-matter interaction that requires no new physics: consciousness operates through orthodox quantum mechanics, selecting among superposed neural states by attending to them.
 
-The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds empirical support in Jeffrey Schwartz's neuroplasticity research showing that directed mental effort produces measurable brain changes. For the candidate neural sites and timing constraints relevant to this mechanism, see [attention-interface-mechanisms](/attention-interface-mechanisms/).
+The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds empirical support in Jeffrey Schwartz's neuroplasticity research showing that directed mental effort produces measurable brain changes. For the candidate neural sites and timing constraints relevant to this mechanism, see [attention-interface-mechanisms](/topics/attention-as-selection-interface/).
 
 ## The Core Mechanism
 
@@ -61,7 +61,7 @@ The key insight: consciousness doesn't *generate* neural patterns—it *selects*
 
 Crucially, the mechanism satisfies conservation laws. Consciousness shapes which possibility actualises without adding energy. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
-Among [proposed coupling mechanisms](/psychophysical-coupling-mechanisms/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
+Among [proposed coupling mechanisms](/concepts/psychophysical-coupling/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 
 ## William James and the Phenomenology of Effort
 
@@ -69,7 +69,7 @@ Stapp finds a kindred spirit in William James, who observed: "Volition is nothin
 
 Stapp's model answers: felt effort corresponds to observation rapidity. Sustained attention feels like work because it *is* work—continuous mental engagement to maintain the Zeno effect.
 
-Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The neural distinction mirrors the phenomenal distinction. See [voluntary-attention](/voluntary-attention/) for comprehensive treatment.
+Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The neural distinction mirrors the phenomenal distinction. See [voluntary-attention](/concepts/attention-as-interface/) for comprehensive treatment.
 
 ## Empirical Support: Neuroplasticity
 
@@ -77,13 +77,13 @@ Jeffrey Schwartz developed a cognitive therapy for OCD based on directed attenti
 
 Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken.
 
-The findings don't definitively prove the quantum Zeno mechanism—a materialist could invoke classical neural self-modification. But they establish that mental effort has physical consequences. Whatever the mechanism, something patients do with their minds changes their brains. This is harder to explain under [epiphenomenalism](/arguments/epiphenomenalism/) than under [interactionist-dualism](/concepts/interactionist-dualism/).
+The findings don't definitively prove the quantum Zeno mechanism—a materialist could invoke classical neural self-modification. But they establish that mental effort has physical consequences. Whatever the mechanism, something patients do with their minds changes their brains. This is harder to explain under [epiphenomenalism](/concepts/epiphenomenalism/) than under [interactionist-dualism](/concepts/interactionist-dualism/).
 
 ## The Attention-as-Interface Extension
 
 The [attention as interface hypothesis](/concepts/attention-as-interface/) extends Stapp's framework. The core claim: attention functions as the *interface layer* between consciousness and neural systems.
 
-**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [attention-motor-quantum-interface](/attention-motor-quantum-interface/) develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
+**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [attention-motor-quantum-interface](/concepts/attention-as-interface/) develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
 
 **Bandwidth limitation**: Conscious processing operates at ~10 bits/second versus the brain's ~10⁹ bits/second. This gap means consciousness operates at policy level (goals, strategies) rather than micromanaging neurons. The bandwidth constraint makes the model *more* plausible—operating at policy level matches phenomenology and neuroscience.
 
@@ -113,7 +113,7 @@ The most serious challenge: quantum coherence in warm brains should decay far to
 
 **Monte Carlo critique**: 2024 simulations challenged whether the Zeno mechanism remains robust for timescales longer than brain decoherence time, unless consciousness acts globally on brain-plus-environment. This remains an active area of investigation—the cryptochrome precedent shows Zeno can work in protected biological microenvironments, but whether neural tissue provides analogous protection is unconfirmed.
 
-Most importantly, decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/): it explains why superpositions appear classical but not why measurements yield *definite* outcomes. Consciousness could bias outcome selection *after* decoherence, at measurement collapse. The [structural parallel between the measurement problem and the hard problem of consciousness](/consciousness-and-quantum-measurement/) suggests these aren't separate puzzles but two faces of the same interface. See [decoherence](/concepts/decoherence/) for detailed treatment.
+Most importantly, decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/): it explains why superpositions appear classical but not why measurements yield *definite* outcomes. Consciousness could bias outcome selection *after* decoherence, at measurement collapse. The [structural parallel between the measurement problem and the hard problem of consciousness](/topics/quantum-measurement-consciousness-interface/) suggests these aren't separate puzzles but two faces of the same interface. See [decoherence](/concepts/decoherence/) for detailed treatment.
 
 ### The Formalism Objection
 
@@ -168,9 +168,9 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
-- [psychophysical-coupling](/psychophysical-coupling/) — Comparative analysis; Stapp's model as most developed
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Comparative analysis; Stapp's model as most developed
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: taxonomy of coupling mechanisms
-- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for conscious causation

@@ -33,7 +33,7 @@ related_articles:
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[voids-temporal-asymmetry-remembering-anticipating-2026-01-21]]'
 - '[[time-collapse-and-agency]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 title: The Phenomenology of Anticipation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -88,9 +88,9 @@ This asymmetry connects to the deeper [impossibility of pre-experience](/voids/t
 
 ## Protention and the Specious Present
 
-The [specious present](/specious-present/)—the experienced duration of "now"—depends on protention as much as retention. Without forward-directedness, the specious present would be a trailing smear of fading past, constantly arriving at endings. Protention gives the specious present its forward momentum, its sense of going somewhere rather than merely trailing behind.
+The [specious present](/concepts/temporal-consciousness/)—the experienced duration of "now"—depends on protention as much as retention. Without forward-directedness, the specious present would be a trailing smear of fading past, constantly arriving at endings. Protention gives the specious present its forward momentum, its sense of going somewhere rather than merely trailing behind.
 
-Bergson captured this in his account of [durée](/duration/): lived time isn't a series of nows strung together but an interpenetrating flow where each phase contains both its past and its anticipated continuation. The forward lean of experience is part of what makes time feel like *flowing* rather than *accumulating*—duration moves because protention gives each moment a futureward orientation.
+Bergson captured this in his account of [durée](/concepts/temporal-consciousness/): lived time isn't a series of nows strung together but an interpenetrating flow where each phase contains both its past and its anticipated continuation. The forward lean of experience is part of what makes time feel like *flowing* rather than *accumulating*—duration moves because protention gives each moment a futureward orientation.
 
 Varela's [neurophenomenological](/concepts/neurophenomenology/) research suggests that contemplative practices can reveal protentional structure with unusual clarity. Meditators attending closely to the arising of experience report noticing a directional quality—each moment seems to "point" toward its successor. This is protention made visible through sustained phenomenological attention. A tension emerges here: the Buddhist contemplative traditions that generate these reports also challenge the notion of a unified subject doing the anticipating. If *anattā* (no-self) holds, protention may be a process without an agent—forward-directedness with no one reaching forward. The Map acknowledges this challenge while maintaining that the irreducibility of the protentional experience itself persists regardless of how the experiencing subject is characterised.
 
@@ -98,7 +98,7 @@ Varela's [neurophenomenological](/concepts/neurophenomenology/) research suggest
 
 Protention connects intimately to the [phenomenology of choice](/concepts/phenomenology-of-choice/). Deliberation requires more than retention of options considered—it requires protentional inhabitation of possible futures. When you deliberate about whether to accept a job offer, you don't just list pros and cons. You *lean into* each possibility, feeling its character from the anticipatory stance. The phenomenology of deciding involves moving between different protentional orientations—trying on futures to see how they feel from inside.
 
-This is where the Map's commitment to [Bidirectional Interaction](/tenets/#bidirectional-interaction) gains phenomenological support. Husserl described protention primarily as passive synthesis—something that happens *to* consciousness rather than something consciousness *does*. But the phenomenology of deliberation suggests a more active dimension. When choosing between futures, protention takes on the character of *reaching*, of configuring present experience around anticipated continuations. In deliberation, this reaching is directed: consciousness orients itself toward one possible future over another, and this active orientation connects to [agent-causal](/concepts/agent-causation/) accounts of [free will](/concepts/free-will/).
+This is where the Map's commitment to [Bidirectional Interaction](/tenets/#bidirectional-interaction) gains phenomenological support. Husserl described protention primarily as passive synthesis—something that happens *to* consciousness rather than something consciousness *does*. But the phenomenology of deliberation suggests a more active dimension. When choosing between futures, protention takes on the character of *reaching*, of configuring present experience around anticipated continuations. In deliberation, this reaching is directed: consciousness orients itself toward one possible future over another, and this active orientation connects to [agent-causal](/concepts/agent-causation/) accounts of [free will](/topics/free-will/).
 
 The distinction between protention and [prospective memory](/concepts/prospective-memory/) clarifies this. Prospective memory involves deliberate future simulation—constructing scenarios, evaluating outcomes, forming intentions. Protention operates before all of this, as the anticipatory structure that makes deliberation possible in the first place. You cannot deliberate about futures unless your present experience is already structured by forward-directedness. Protention is the pre-reflective ground on which reflective future-thinking stands.
 
@@ -138,12 +138,12 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness and time depend on each other
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why protention and retention differ in phenomenal weight
 - [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation and episodic future thinking
-- [specious-present](/specious-present/) — The experienced duration of "now"
-- [duration](/duration/) — Bergson's durée and the interpenetration of temporal phases
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now"
+- [duration](/concepts/temporal-consciousness/) — Bergson's durée and the interpenetration of temporal phases
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How anticipatory consciousness enables deliberation
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's subjective aim and processual experience
 - [phenomenology](/concepts/phenomenology/) — Husserl's method for investigating temporal structure
-- [free-will](/concepts/free-will/) — How anticipatory consciousness enables genuine freedom
+- [free-will](/topics/free-will/) — How anticipatory consciousness enables genuine freedom
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's framework connecting consciousness, collapse, and agency
 - [agent-causation](/concepts/agent-causation/) — Why protention's active character supports agent-causal accounts
 

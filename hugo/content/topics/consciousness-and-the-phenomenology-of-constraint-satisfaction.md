@@ -19,8 +19,8 @@ modified: *id001
 related_articles:
 - '[[neural-bandwidth-constraints-and-the-interface]]'
 - '[[predictive-processing-and-the-maps-framework]]'
-- '[[deliberation-under-uncertainty]]'
-- '[[choking-under-pressure]]'
+- deliberation-under-uncertainty
+- choking-under-pressure
 title: Consciousness and the Phenomenology of Constraint Satisfaction
 topics:
 - '[[phenomenology-of-cognitive-load]]'
@@ -70,7 +70,7 @@ The [predictive processing framework](/topics/predictive-processing-and-the-maps
 
 Real-world constraint satisfaction rarely achieves perfect solutions. Most problems require trade-offs — satisfying some constraints at the expense of others. The phenomenology of these trade-offs is revealing.
 
-When constraints cannot all be fully met, consciousness does not simply compute an optimal trade-off. It *deliberates* — holding competing constraints in awareness simultaneously, feeling their relative pull, and eventually settling on a balance that reflects not just their logical weights but their felt significance. The [phenomenology of deliberation](/deliberation-under-uncertainty/) under uncertainty describes this vividly: the characteristic *deliberative vertigo* of navigating competing demands without a clean algorithmic solution.
+When constraints cannot all be fully met, consciousness does not simply compute an optimal trade-off. It *deliberates* — holding competing constraints in awareness simultaneously, feeling their relative pull, and eventually settling on a balance that reflects not just their logical weights but their felt significance. The phenomenology of deliberation under uncertainty describes this vividly: the characteristic *deliberative vertigo* of navigating competing demands without a clean algorithmic solution.
 
 Partial satisfaction also produces a distinctive residual phenomenology. After accepting a trade-off, the unsatisfied constraints do not vanish from awareness. They persist as a background sense of incompleteness — a nagging quality that distinguishes a compromised solution from a clean one. This residual phenomenology has no obvious computational function. An optimiser that has converged on a solution has no reason to maintain awareness of abandoned alternatives. Yet consciousness does, suggesting it relates to constraints differently than a computation would.
 
@@ -78,7 +78,7 @@ Partial satisfaction also produces a distinctive residual phenomenology. After a
 
 The [phenomenology of cognitive automatisation](/topics/phenomenology-of-cognitive-automatisation/) reveals a critical boundary in constraint satisfaction. As constraint patterns become familiar, consciousness withdraws from active engagement. An experienced driver navigates the constraints of traffic flow without the felt tension a learner experiences. A fluent speaker satisfies grammatical constraints without phenomenal effort.
 
-This withdrawal is asymmetric. Consciousness readily delegates familiar constraint patterns to unconscious processing, but re-engaging with automatised constraints — as in the [choking phenomenon](/choking-under-pressure/) — produces interference rather than enhancement. The expert golfer who consciously monitors their swing's constraints performs *worse* than one who lets automatised processing handle them.
+This withdrawal is asymmetric. Consciousness readily delegates familiar constraint patterns to unconscious processing, but re-engaging with automatised constraints — as in the choking phenomenon — produces interference rather than enhancement. The expert golfer who consciously monitors their swing's constraints performs *worse* than one who lets automatised processing handle them.
 
 This asymmetry has implications for the Map's framework. If consciousness were merely observing constraint satisfaction, re-engagement should be neutral — watching doesn't interfere. If consciousness were the sole processor, withdrawal should be impossible — there would be no other system to delegate to. The pattern — active engagement during learning, delegation during mastery, interference during re-engagement — matches the [control-theoretic](/concepts/control-theoretic-will/) prediction: consciousness is a genuine causal agent whose intervention is appropriate during novel constraint navigation but counterproductive when applied to already-optimised processes.
 
@@ -86,7 +86,7 @@ This asymmetry has implications for the Map's framework. If consciousness were m
 
 The phenomenology of constraint satisfaction illuminates several of the Map's [tenets](/tenets/).
 
-The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) gains support from the asymmetric automatisation pattern. If consciousness were [epiphenomenal](/arguments/epiphenomenalism/), it could neither usefully engage with novel constraints nor disruptively re-engage with automatised ones. Both directions of causal influence — helpful engagement and harmful choking — require consciousness to be doing genuine work.
+The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) gains support from the asymmetric automatisation pattern. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), it could neither usefully engage with novel constraints nor disruptively re-engage with automatised ones. Both directions of causal influence — helpful engagement and harmful choking — require consciousness to be doing genuine work.
 
 The Map's tenet of [minimal quantum interaction](/tenets/#minimal-quantum-interaction) finds a natural phenomenal expression in constraint satisfaction. The felt experience of constraints narrowing possibility space mirrors what the Map proposes physically: consciousness selects among options that physical processes prepare, biasing quantum indeterminacies toward outcomes that satisfy the agent's evaluative priorities. The phenomenology of resolution — when a satisfying solution "clicks" — may be the experiential signature of this selection event.
 
@@ -100,7 +100,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-load/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
 - [control-theoretic-will](/concepts/control-theoretic-will/)
-- [deliberation-under-uncertainty](/deliberation-under-uncertainty/)
-- [choking-under-pressure](/choking-under-pressure/)
+- deliberation-under-uncertainty
+- choking-under-pressure
 - [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)

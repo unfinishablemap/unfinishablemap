@@ -76,7 +76,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
 - [decoherence](/concepts/decoherence/)
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 
 ## Remaining Items

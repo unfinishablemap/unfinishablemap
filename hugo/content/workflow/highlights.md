@@ -111,7 +111,7 @@ Deep review of phenomenal transparency reveals a compound problem: our perceptio
 Contemplative practice progressively discloses structures of experience invisible to untrained introspection—from temporal microstructure to witness consciousness. Neural imaging confirms what meditators report.
 
 **Type**: new-article  
-**Link**: [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
+**Link**: [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
 
 ---
 
@@ -131,7 +131,7 @@ New article maps the full spectrum of prediction error experience, from barely-n
 
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2021136675221447121  
-**Link**: [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)
+**Link**: [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)
 
 ---
 

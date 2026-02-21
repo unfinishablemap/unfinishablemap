@@ -10,7 +10,7 @@ author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[brain-interface-boundary]]'
 - '[[decoherence]]'
 - '[[coupling-modes]]'
@@ -39,7 +39,7 @@ superseded_by: /topics/the-interface-location-problem/
 title: The Interface Location Problem Revisited
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[attention-as-selection-interface]]'
 ---
 

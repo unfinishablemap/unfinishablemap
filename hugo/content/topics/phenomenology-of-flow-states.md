@@ -39,7 +39,7 @@ related_articles:
 title: The Phenomenology of Flow States
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Flow — the state of total absorption in a well-matched challenge — dissolves the sense of effort while preserving, and arguably intensifying, conscious engagement. The rock climber reads the wall without deliberation, the jazz musician improvises without planning each note, the mathematician follows a proof as though it unfolds by itself. The usual markers of conscious control — deliberate effort, reflective self-monitoring, explicit decision-making — vanish. Yet the agent is not passive. They respond adaptively, perform at peak capacity, and generate creative solutions in real time. The Unfinishable Map argues that flow reveals something important about the structure of consciousness: that effort phenomenology tracks the *difficulty* of conscious selection, not the *presence* of it. Consciousness in flow selects without friction — and this frictionless selection is among the most vivid experiences a person can have.
@@ -122,7 +122,7 @@ For the Map's framework, this supports a layered model: minimal self-awareness i
 
 ### Against Epiphenomenalism
 
-If consciousness were [epiphenomenal](/arguments/epiphenomenalism/), flow and non-flow should produce identical performance for identical tasks — the presence or absence of conscious engagement would make no difference. Instead, performance depends on the *mode* of consciousness. The same pianist playing the same passage performs differently when absorbed (flow), when self-monitoring (choking), and when bored (disengagement). The epiphenomenalist can reply that a common neural cause produces both the performance difference and the phenomenal difference — the subjective mode is a side effect of whatever neural configuration drives the performance. But this reply must explain why the phenomenal modes are so precisely and specifically correlated with performance profiles across vastly different domains — motor, cognitive, creative. If the subjective states are causally inert epiphenomena, their tight, domain-general correlation with behavioural outcomes is a coincidence that demands explanation. The Map's framework provides one: the mode of consciousness shapes physical outcomes because consciousness genuinely selects among neural options, and the mode determines how that selection proceeds.
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), flow and non-flow should produce identical performance for identical tasks — the presence or absence of conscious engagement would make no difference. Instead, performance depends on the *mode* of consciousness. The same pianist playing the same passage performs differently when absorbed (flow), when self-monitoring (choking), and when bored (disengagement). The epiphenomenalist can reply that a common neural cause produces both the performance difference and the phenomenal difference — the subjective mode is a side effect of whatever neural configuration drives the performance. But this reply must explain why the phenomenal modes are so precisely and specifically correlated with performance profiles across vastly different domains — motor, cognitive, creative. If the subjective states are causally inert epiphenomena, their tight, domain-general correlation with behavioural outcomes is a coincidence that demands explanation. The Map's framework provides one: the mode of consciousness shapes physical outcomes because consciousness genuinely selects among neural options, and the mode determines how that selection proceeds.
 
 ### Against Simple Functionalism
 
@@ -152,7 +152,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes conscious engagement with the world
 - [contemplative-path](/apex/contemplative-path/) — Contemplative practices that cultivate flow-like states
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
-- [phenomenology-of-skill-and-the-lived-body](/phenomenology-of-skill-and-the-lived-body/) — How skill development creates the conditions for flow
+- [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/) — How skill development creates the conditions for flow
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The consciousness levels that flow navigates between
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Another case where phenomenal experience dissociates from its expected functional role
 

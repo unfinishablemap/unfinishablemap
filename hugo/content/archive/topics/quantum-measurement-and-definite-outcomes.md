@@ -75,11 +75,11 @@ Physics has produced three broad strategies for handling the definite outcomes p
 
 ### Deny the Gap: Many-Worlds
 
-The [Many-Worlds Interpretation](/arguments/many-worlds/) denies that one outcome becomes actual. All outcomes occur in branching universes; the appearance of single outcomes is perspectival, not ontological. There is no selection because there is nothing to select—every possibility is realized somewhere.
+The [Many-Worlds Interpretation](/concepts/many-worlds/) denies that one outcome becomes actual. All outcomes occur in branching universes; the appearance of single outcomes is perspectival, not ontological. There is no selection because there is nothing to select—every possibility is realized somewhere.
 
 The Map [rejects Many-Worlds](/tenets/#no-many-worlds) for several reasons. The interpretation faces the **indexical problem**: why am I experiencing *this* branch rather than another? MWI defenders respond that all branch-selves exist equally, and "I" simply picks out this one. But this treats as semantic what seems metaphysically substantive—the fact that *something it is like* exists for this particular experiencer.
 
-To be fair: each branch-observer in MWI genuinely experiences a single definite outcome—phenomenology is not "wrong" from within a branch. The problem is that from the global view, no outcome is selected over any other. Everything happens; nothing is chosen. The phenomenology of *choice*—the sense that our decisions determine which outcome becomes actual rather than merely which branch we find ourselves in—becomes a perspective artifact rather than a causal fact. The Map takes this phenomenology of agency seriously. See [free-will](/concepts/free-will/) and [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for the connection to free will.
+To be fair: each branch-observer in MWI genuinely experiences a single definite outcome—phenomenology is not "wrong" from within a branch. The problem is that from the global view, no outcome is selected over any other. Everything happens; nothing is chosen. The phenomenology of *choice*—the sense that our decisions determine which outcome becomes actual rather than merely which branch we find ourselves in—becomes a perspective artifact rather than a causal fact. The Map takes this phenomenology of agency seriously. See [free-will](/topics/free-will/) and [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for the connection to free will.
 
 ### Accept the Gap: Objective Collapse
 
@@ -101,7 +101,7 @@ The strength: this explains why consciousness exists at all. If consciousness se
 
 Even granting that *some* outcome occurs, a deeper question remains: why does *this* consciousness experience *this* particular result?
 
-This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both involve first-person facts that third-person descriptions fail to capture. Physics describes outcomes; it doesn't address *what it is like* to experience a particular outcome as a particular subject. The [structural parallel between these problems](/consciousness-and-quantum-measurement/)—where first-person facts enter third-person descriptions—suggests they may be two aspects of the same underlying issue rather than separate puzzles.
+This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both involve first-person facts that third-person descriptions fail to capture. Physics describes outcomes; it doesn't address *what it is like* to experience a particular outcome as a particular subject. The [structural parallel between these problems](/topics/quantum-measurement-consciousness-interface/)—where first-person facts enter third-person descriptions—suggests they may be two aspects of the same underlying issue rather than separate puzzles.
 
 [QBism](/concepts/qbism/) dissolves the measurement problem by treating quantum states as subjective beliefs—collapse is merely belief updating. But QBism presupposes agents with determinate experiences. Where do those experiences come from? Treating consciousness as fundamental while refusing to explain it is philosophically modest, but it leaves the hard problem untouched.
 
@@ -125,7 +125,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Physics leaves outcomes undetermined; consciousness could determine them without violating physical law.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness selects outcomes, then mind causally influences matter—preserving the efficacy that [epiphenomenalism](/arguments/epiphenomenalism/) denies. This is central to [free-will](/concepts/free-will/): genuine agency requires that our conscious choices make a difference to what happens.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness selects outcomes, then mind causally influences matter—preserving the efficacy that [epiphenomenalism](/concepts/epiphenomenalism/) denies. This is central to [free-will](/topics/free-will/): genuine agency requires that our conscious choices make a difference to what happens.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The gap is real; one outcome becomes actual. The phenomenology of single experienced outcomes is not systematically misleading.
 
@@ -135,7 +135,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 
 ## Further Reading
 
-- [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) — How the measurement problem and hard problem share structural features
+- [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/) — How the measurement problem and hard problem share structural features
 - [measurement-problem](/concepts/measurement-problem/) — Comprehensive treatment of the problem and interpretations
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective interpretations fail phenomenologically
@@ -143,7 +143,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The first-person dimension of measurement
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
-- [free-will](/concepts/free-will/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The connection to agency
+- [free-will](/topics/free-will/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The connection to agency
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of consciousness and causal efficacy
 - [knowledge-argument](/concepts/knowledge-argument/) — Why physics doesn't capture phenomenal facts
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework

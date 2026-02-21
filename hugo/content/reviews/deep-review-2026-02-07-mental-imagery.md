@@ -83,7 +83,7 @@ topics: []
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — evolutionary support for imagery's causal role
 - [motor-selection](/concepts/motor-selection/) — motor execution systems shaped by imagery rehearsal
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — inline link in cognitive phenomenology section
-- [self-stultification problem](/arguments/epiphenomenalism/) — in strengthened physicalist rebuttal
+- [self-stultification problem](/concepts/epiphenomenalism/) — in strengthened physicalist rebuttal
 
 ## Remaining Items
 

@@ -36,7 +36,7 @@ None. The article has all required sections, no factual errors detected, no inte
    - **Resolution**: Added acknowledgment that skeptics object phenomenology might be confabulation, with the Map's response that discounting first-person evidence about consciousness is self-undermining.
 
 3. **Missing cross-reference to framework article**: The two articles (concept vs. topic) should clearly reference each other to help readers navigate.
-   - **Resolution**: Added cross-reference to [psychophysical-laws-framework](/psychophysical-laws-framework/) in opening paragraph, related_articles, and Further Reading.
+   - **Resolution**: Added cross-reference to [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/) in opening paragraph, related_articles, and Further Reading.
 
 4. **Redundancy with framework article**: Both articles had similar "What Would Challenge This View?" sections after the framework article's deep review added one.
    - **Resolution**: Condensed the concept article's falsifiability section to a brief summary with pointer to the framework article's extended discussion.
@@ -59,13 +59,13 @@ Six sympathetic personas evaluated the article's strengths and opportunities.
 - Haecceity connection to organizational invariance rejection
 
 ### Enhancements Made
-1. **Added framework article cross-reference**: Opening now directs readers to [psychophysical-laws-framework](/psychophysical-laws-framework/) for integrated overview
+1. **Added framework article cross-reference**: Opening now directs readers to [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/) for integrated overview
 2. **Balanced decoherence presentation**: More accurately represents physics consensus while noting open questions
 3. **Strengthened contemplative evidence**: Acknowledged phenomenology skepticism with principled response
 4. **Condensed falsifiability section**: Reduced redundancy with framework article by summarizing and linking
 
 ### Cross-links Added
-- [psychophysical-laws-framework](/psychophysical-laws-framework/) (in opening, related_articles, and Further Reading)
+- [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/) (in opening, related_articles, and Further Reading)
 
 ## Remaining Items
 

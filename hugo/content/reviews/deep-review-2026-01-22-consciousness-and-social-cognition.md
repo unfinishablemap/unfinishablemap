@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Consciousness and Social Cognition](/concepts/consciousness-and-social-cognition/)
+**Article**: [Consciousness and Social Cognition](/topics/consciousness-and-social-cognition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -50,7 +50,7 @@ topics: []
 2. Strengthened Minimal Quantum Interaction tenet connection with Stapp-style quantum Zeno mechanism
 
 ### Cross-links Added
-- [phenomenal-unity](/phenomenal-unity/) - added to concepts frontmatter and inline discussion
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) - added to concepts frontmatter and inline discussion
 
 ## Remaining Items
 

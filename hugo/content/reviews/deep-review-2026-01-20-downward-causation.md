@@ -79,7 +79,7 @@ topics: []
 
 ### Cross-links Added
 
-- [many-worlds](/arguments/many-worlds/) — Why MWI rejection matters for downward causation
+- [many-worlds](/concepts/many-worlds/) — Why MWI rejection matters for downward causation
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements downward causation

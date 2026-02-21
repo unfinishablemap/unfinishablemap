@@ -27,13 +27,13 @@ original_path: /topics/conscious-vs-unconscious-processing/
 related_articles:
 - '[[tenets]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
-- '[[free-will]]'
+- '[[concepts/epiphenomenalism]]'
+- '[[topics/free-will]]'
 superseded_by: /concepts/conscious-vs-unconscious-processing/
 title: Conscious vs Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 If consciousness were merely an epiphenomenal byproduct of neural activity—along for the ride but making no functional difference—then unconscious processes should achieve everything conscious ones can. Yet the empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Consciousness is not a passive observer. It enables specific cognitive functions that unconscious processing cannot achieve: maintaining information in [working memory](/concepts/working-memory/) across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.
@@ -50,7 +50,7 @@ But unconscious processing has functional limits. It operates within established
 
 ### Working Memory and Temporal Maintenance
 
-Dehaene's [Global Neuronal Workspace theory](//#global-workspace-theory) (explained below) identifies three functions requiring consciousness. First: durable information maintenance. Unconscious processing is fleeting—subliminal priming effects decay within seconds. To hold information across time—remembering a phone number while dialling, maintaining context across sentences, keeping your place in a multi-step task—requires consciousness.
+Dehaene's [Global Neuronal Workspace theory](#global-workspace-theory) (explained below) identifies three functions requiring consciousness. First: durable information maintenance. Unconscious processing is fleeting—subliminal priming effects decay within seconds. To hold information across time—remembering a phone number while dialling, maintaining context across sentences, keeping your place in a multi-step task—requires consciousness.
 
 The neural signature: conscious access correlates with sustained recurrent processing and late cortical amplification (beyond 300ms). Unconscious processing shows early feedforward activation that fades quickly. Working memory depends on sustained firing in prefrontal and parietal networks—activity that requires the global ignition associated with consciousness.
 
@@ -62,7 +62,7 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides comp
 
 ### Voluntary Action Generation
 
-Third: the spontaneous generation of intentional behaviour. Unconscious processing is reactive—responding to stimuli, executing habits, following learned scripts. Voluntary action—deciding to start a new task, redirecting [attention](/attention/) based on goals, initiating behaviour without external trigger—requires consciousness. This has implications for [free will](/concepts/free-will/): if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
+Third: the spontaneous generation of intentional behaviour. Unconscious processing is reactive—responding to stimuli, executing habits, following learned scripts. Voluntary action—deciding to start a new task, redirecting [attention](/concepts/attention-as-interface/) based on goals, initiating behaviour without external trigger—requires consciousness. This has implications for [free will](/topics/free-will/): if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
 
 The evidence from subliminal perception: masked stimuli can prime compatible responses but cannot initiate complex action sequences. You cannot subliminally instruct someone to write a paragraph or solve a novel problem. Voluntary action requires the agent to consciously represent goals and means.
 
@@ -72,7 +72,7 @@ Randeniya (2025) applied extended sensitivity analysis to neuroimaging studies o
 
 Result: only 8 of 80 experimental conditions met this criterion. Most claimed demonstrations of unconscious processing reflected either weak conscious processing or methodological confounds. The finding suggests consciousness is functionally necessary for far more cognitive operations than earlier literature implied.
 
-The implications for the mind-body problem: if consciousness enables functions that unconscious processing cannot achieve, [epiphenomenalism](/arguments/epiphenomenalism/) is empirically undermined. The fact that humans engage in logical reasoning and cumulative culture—functions requiring conscious processing—suggests consciousness makes a causal difference to behaviour.
+The implications for the mind-body problem: if consciousness enables functions that unconscious processing cannot achieve, [epiphenomenalism](/concepts/epiphenomenalism/) is empirically undermined. The fact that humans engage in logical reasoning and cumulative culture—functions requiring conscious processing—suggests consciousness makes a causal difference to behaviour.
 
 ## Global Workspace Theory {#global-workspace-theory}
 
@@ -109,7 +109,7 @@ The lesson: identifying reliable neural signatures of consciousness requires car
 
 ## Relation to Site Perspective
 
-The functional necessity of consciousness directly supports the Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction). If consciousness enables cognitive functions that unconscious processing cannot achieve—working memory maintenance, novel combinations, voluntary action—then consciousness causally influences behaviour. This undermines [epiphenomenalism](/arguments/epiphenomenalism/), which holds consciousness is causally inert.
+The functional necessity of consciousness directly supports the Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction). If consciousness enables cognitive functions that unconscious processing cannot achieve—working memory maintenance, novel combinations, voluntary action—then consciousness causally influences behaviour. This undermines [epiphenomenalism](/concepts/epiphenomenalism/), which holds consciousness is causally inert.
 
 The evidence also aligns with the Map's [Dualism tenet](/tenets/#dualism). If consciousness were reducible to neural processing, we would expect unconscious neural processing to achieve the same functions. But the functional dissociation—consciousness enabling what unconscious processing cannot—suggests consciousness adds something beyond neural activity. Note that Dehaene's Global Neuronal Workspace theory, cited above, is itself a physicalist theory—it proposes that consciousness *is* global broadcasting. The Map accepts the empirical findings while rejecting the reductive conclusion. The neural correlates reveal *where* consciousness operates without explaining *why* those correlates are conscious at all.
 
@@ -123,7 +123,7 @@ Finally, the 2025 reanalysis showing that most claimed unconscious processing ef
 - [baseline-cognition](/concepts/baseline-cognition/) — Evidence from comparative cognition showing what neurons achieve without consciousness
 - [blindsight](/concepts/blindsight/) — Case study of unconscious visual processing and its functional limits
 - [access-consciousness](/concepts/access-consciousness/) — Ned Block's distinction between access and phenomenal consciousness
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert and why it fails
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert and why it fails
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's position on mind-body causation
 
 ## References

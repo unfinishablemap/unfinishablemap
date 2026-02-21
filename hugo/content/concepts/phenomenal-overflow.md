@@ -121,7 +121,7 @@ But if overflow is real, GWT explains only *part* of consciousness. The unaccess
 
 ### For Functionalism
 
-[Functionalism](/arguments/functionalism/) defines mental states by their causal-functional roles. A-consciousness fits functionalism perfectly—it's defined by what information *does*. But P-consciousness, especially overflowing P-consciousness, resists functional definition. If experience exceeds function, functionalism cannot capture it.
+[functionalism](/concepts/functionalism/) defines mental states by their causal-functional roles. A-consciousness fits functionalism perfectly—it's defined by what information *does*. But P-consciousness, especially overflowing P-consciousness, resists functional definition. If experience exceeds function, functionalism cannot capture it.
 
 The overflow argument strengthens anti-functionalist arguments like [inverted qualia](/concepts/inverted-qualia/) and [zombies](/concepts/philosophical-zombies/). If phenomenology can exceed function in *degree* (overflow), perhaps it can diverge from function in *character* (inversion) or exist without function entirely (zombies).
 
@@ -178,7 +178,7 @@ This connects to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)—the 
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)—the "what it's like" that may overflow
 - [global-workspace-theory](/concepts/global-workspace-theory/)—theory of access that may not capture full phenomenology
 - [introspection](/concepts/introspection/)—the method by which we access (and possibly miss) experience
-- [attention](/attention/)—the selective mechanism between phenomenal field and access
+- [attention](/concepts/attention-as-interface/)—the selective mechanism between phenomenal field and access
 - [attention-as-interface](/concepts/attention-as-interface/)—how attention might mediate conscious selection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)—a proposed mechanism for conscious selection from phenomenal overflow
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)—the broader void of experience beyond concepts

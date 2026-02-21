@@ -25,7 +25,7 @@ topics: []
 Six adversarial personas engaged with the article:
 
 ### Critical Issues Found
-- **Broken link**: `[substrate-independence-critique](/substrate-independence-critique/)` pointed to non-existent file — Fixed by changing to `[substrate-independence](/concepts/substrate-independence/)`
+- **Broken link**: `[substrate-independence-critique](/concepts/substrate-independence/)` pointed to non-existent file — Fixed by changing to `[substrate-independence](/concepts/substrate-independence/)`
 
 ### Medium Issues Found
 - **Harnad quote attribution**: The phrase "grounding is a functional matter; feeling is a felt matter" was presented as a direct quote but may not be verbatim from the 1990 paper — Resolved by reframing as a paraphrase of Harnad's analysis

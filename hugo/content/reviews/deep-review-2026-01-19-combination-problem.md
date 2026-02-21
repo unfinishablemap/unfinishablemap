@@ -64,7 +64,7 @@ None identified.
 
 ### Cross-links Added
 
-- [phenomenal-unity](/phenomenal-unity/) — Why experience is unified (directly relevant to subject-summing)
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Why experience is unified (directly relevant to subject-summing)
 - [binding-problem](/concepts/binding-problem/) — Neural coordination challenge (related mechanism)
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical testing ground (C. elegans, Hydra)
 

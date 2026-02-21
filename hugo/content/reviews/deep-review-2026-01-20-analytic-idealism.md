@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Analytic Idealism](/analytic-idealism/)
+**Article**: [Analytic Idealism](/concepts/idealism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -64,8 +64,8 @@ None requiring immediate resolution.
 
 ### Cross-links Added
 
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Added to frontmatter and body (value implications)
-- [interface-locality](/interface-locality/) — Added to frontmatter and new subsection
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Added to frontmatter and body (value implications)
+- [interface-locality](/concepts/brain-interface-boundary/) — Added to frontmatter and new subsection
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — Added to frontmatter and new subsection
 - [filter-theory](/concepts/filter-theory/) — Added to frontmatter and new subsection
 - [witness-consciousness](/concepts/witness-consciousness/) — Added to frontmatter and new subsection

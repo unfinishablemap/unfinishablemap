@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Time Perception and Consciousness Theories](/time-perception-consciousness-theories/)
+**Article**: [Time Perception and Consciousness Theories](/topics/temporal-structure-of-consciousness/)
 **Previous review**: Never
 **Word count**: 2108 → 2722 (+614 words, +29%)
 
@@ -74,7 +74,7 @@ topics: []
 ### Cross-links Added
 
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) - agency and temporal structure
-- [free-will](/concepts/free-will/) - temporal agency
+- [free-will](/topics/free-will/) - temporal agency
 - [agent-causation](/concepts/agent-causation/) - self as originator in time
 - [illusionism](/concepts/illusionism/) - challenge to temporal phenomenology
 - [philosophy-of-time](/concepts/philosophy-of-time/) - A-theory, B-theory

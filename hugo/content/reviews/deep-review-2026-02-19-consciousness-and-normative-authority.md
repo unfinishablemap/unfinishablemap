@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Consciousness and Normative Authority](/consciousness-and-normative-authority/)
+**Article**: [Consciousness and Normative Authority](/topics/consciousness-and-the-grounds-of-normative-authority/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -40,7 +40,7 @@ topics: []
 
 7. **Missing cross-link to consciousness-value-connection**: This concept appeared in frontmatter but never in the body. Resolution: Added natural inline link in the Authority Problem section.
 
-8. **Missing cross-links**: Resolution: Added links to [epiphenomenalism](/arguments/epiphenomenalism/), [qualia](/concepts/qualia/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), and [free-will](/concepts/free-will/).
+8. **Missing cross-links**: Resolution: Added links to [epiphenomenalism](/concepts/epiphenomenalism/), [qualia](/concepts/qualia/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), and [free-will](/topics/free-will/).
 
 ### Counterarguments Considered
 
@@ -81,9 +81,9 @@ topics: []
 
 - [consciousness-value-connection](/concepts/consciousness-value-connection/)
 - [qualia](/concepts/qualia/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 
 ## Remaining Items
 

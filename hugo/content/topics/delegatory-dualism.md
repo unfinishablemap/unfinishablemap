@@ -6,12 +6,12 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[psychophysical-laws]]'
 - '[[illusionism]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[observational-closure]]'
 created: 2026-01-29
 date: &id001 2026-01-29
@@ -29,7 +29,7 @@ related_articles:
 title: Delegatory Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Delegatory dualism is Bradford Saad's 2025 solution to the causal exclusion problem—the challenge of how consciousness can cause physical effects without overdetermining outcomes that already have sufficient physical causes. The core insight: physical brain states *delegate* their causal responsibilities to conscious experiences that share their causal profiles. When you wince from pain, the pain causes the wince by taking over causal work the physical state would otherwise perform. No overdetermination occurs because the physical state's contribution is preempted, not duplicated.
@@ -42,7 +42,7 @@ This article first presents Saad's theory on its own terms, then explores how th
 
 ## The Problem Saad Addresses
 
-[Interactionist dualism](/concepts/interactionist-dualism/) faces a coordination challenge. If every physical event has a sufficient physical cause ([causal closure](/concepts/causal-closure/)), and conscious experiences also cause physical effects ([mental-causation](/concepts/mental-causation/)), then physical effects seem overdetermined—they have two sufficient causes where one would do. Kim's exclusion argument concludes that mental properties must be either physical (reduction) or inert ([epiphenomenalism](/arguments/epiphenomenalism/)).
+[Interactionist dualism](/concepts/interactionist-dualism/) faces a coordination challenge. If every physical event has a sufficient physical cause ([causal closure](/concepts/causal-closure/)), and conscious experiences also cause physical effects ([mental-causation](/concepts/mental-causation/)), then physical effects seem overdetermined—they have two sufficient causes where one would do. Kim's exclusion argument concludes that mental properties must be either physical (reduction) or inert ([epiphenomenalism](/concepts/epiphenomenalism/)).
 
 Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
@@ -64,7 +64,7 @@ Physical effects caused by experience should not *also* have concurrent sufficie
 
 ### 3. Observational Closure
 
-Experiences should not cause *observable* violations of physical causal patterns. This is weaker than strict causal closure. Saad's key distinction: dualists need not accept that physics is complete everywhere—only that mental causation doesn't produce empirically detectable anomalies in laboratory experiments. The [observational-closure](/observational-closure/) concept page develops this distinction in depth.
+Experiences should not cause *observable* violations of physical causal patterns. This is weaker than strict causal closure. Saad's key distinction: dualists need not accept that physics is complete everywhere—only that mental causation doesn't produce empirically detectable anomalies in laboratory experiments. The [observational-closure](/concepts/causal-closure/) concept page develops this distinction in depth.
 
 > **Observational Closure**: "There are no observable violations of Closure." (Saad 2025)
 
@@ -114,7 +114,7 @@ This is analogous to how we understand preemption in ordinary causation. If assa
 
 ## Observational Closure Without Universal Closure
 
-A crucial contribution is Saad's distinction between *universal* causal closure and *[observational](/observational-closure/) closure*:
+A crucial contribution is Saad's distinction between *universal* causal closure and *[observational](/concepts/causal-closure/) closure*:
 
 **Universal closure**: Every physical event has a sufficient physical cause. No exceptions.
 
@@ -239,9 +239,9 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view delegatory dualism rejects
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view delegatory dualism rejects
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
-- [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
+- [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework for mind-body laws
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why conservation doesn't block mental causation
 - [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/) — Research notes on Saad's work

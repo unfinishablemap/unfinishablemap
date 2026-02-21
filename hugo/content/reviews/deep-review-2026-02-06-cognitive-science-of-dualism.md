@@ -57,11 +57,11 @@ No new counterarguments beyond those already addressed in the previous review. T
 
 This was the primary focus of the review. Nine inbound cross-references added:
 
-1. **[arguments-for-dualism](/arguments-for-dualism/)** — In "The Folk Error Objection" section, added link alongside [intuitive-dualism](/concepts/intuitive-dualism/)
+1. **[arguments-for-dualism](/concepts/the-case-for-dualism/)** — In "The Folk Error Objection" section, added link alongside [intuitive-dualism](/concepts/intuitive-dualism/)
 2. **[first-person-third-person-methodology](/topics/first-person-third-person-methodology/)** — In "The Methodological Problem" section, referencing the methodological circle argument
 3. **[phenomenology](/concepts/phenomenology/)** — In "First-Person Irreducibility" section, linking the mention of empirically widespread intuitive dualism
 4. **[explanatory-gap](/concepts/explanatory-gap/)** — In "From Epistemic to Ontological" section, connecting the methodological circle to the gap's persistence
-5. **[cognitive-closure](/cognitive-closure/)** — In "Why the Mind-Body Problem?" section, noting how asymmetric access shapes cognitive science
+5. **[cognitive-closure](/concepts/mysterianism/)** — In "Why the Mind-Body Problem?" section, noting how asymmetric access shapes cognitive science
 6. **[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)** — In "Relation to the Map's Perspective" section, adding empirical support
 7. **[neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)** — In "The Philosophical Boundary" section, noting the first-person report dependency
 8. **[predictive-processing](/concepts/predictive-processing/)** — In "Does PP Solve the Hard Problem?" section, connecting to the broader cognitive science limitation

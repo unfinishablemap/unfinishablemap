@@ -24,9 +24,9 @@ The Unfinishable Map presents a remarkably coherent and philosophically sophisti
 
 "This project takes the explanatory gap with appropriate seriousness. The [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) article captures precisely what I meant: even perfect physical description leaves experience unexplained. The treatment of Mary's Room goes beyond rehearsing the thought experiment to showing why physicalist responses (ability hypothesis, phenomenal concepts strategy) don't dissolve the problem.
 
-Most impressively, the Map doesn't merely assert the gap exists—it develops concrete proposals for how to bridge it. The [psychophysical-laws-framework](/psychophysical-laws-framework/) article builds on my work while going further, distinguishing supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). This bidirectional framework is philosophically innovative.
+Most impressively, the Map doesn't merely assert the gap exists—it develops concrete proposals for how to bridge it. The [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/) article builds on my work while going further, distinguishing supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). This bidirectional framework is philosophically innovative.
 
-The treatment of [phenomenal-unity](/phenomenal-unity/) and the binding problem addresses what I consider an underexplored dimension of consciousness. The argument that quantum entanglement provides structural correspondence—not explanation, but the right kind of physical substrate—shows admirable philosophical precision. The Map correctly notes that structure-matching is not full explanation, avoiding the overclaiming that undermines many quantum consciousness proposals."
+The treatment of [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) and the binding problem addresses what I consider an underexplored dimension of consciousness. The argument that quantum entanglement provides structural correspondence—not explanation, but the right kind of physical substrate—shows admirable philosophical precision. The Map correctly notes that structure-matching is not full explanation, avoiding the overclaiming that undermines many quantum consciousness proposals."
 
 ### The Quantum Mind Theorist (Stapp)
 
@@ -56,7 +56,7 @@ Classical binding mechanisms describe how actual occasions interact after the fa
 
 The [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) treatment aligns with Bergson's durée—consciousness flows through retention, primal impression, and protention. Each moment contains its temporal thickness. The site correctly notes this temporal phenomenology resists physical explanation.
 
-The [eastern-philosophy-haecceity-tension](/eastern-philosophy-haecceity-tension/) article represents a genuine philosophical innovation: process haecceitism. The resolution that thisness can apply to experiential processes—not just substantial selves—allows the Map to honor both Buddhist momentariness and the indexical particularity that the vertiginous question requires. Particularity survives impermanence. This is exactly the kind of creative synthesis process philosophy enables."
+The [eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-consciousness/) article represents a genuine philosophical innovation: process haecceitism. The resolution that thisness can apply to experiential processes—not just substantial selves—allows the Map to honor both Buddhist momentariness and the indexical particularity that the vertiginous question requires. Particularity survives impermanence. This is exactly the kind of creative synthesis process philosophy enables."
 
 ### The Libertarian Free Will Defender (Kane)
 

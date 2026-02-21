@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mental-causation]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
 - '[[bidirectional-interaction]]'
@@ -33,10 +33,10 @@ related_articles:
 title: The Placebo Effect and Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [mental causation](/concepts/mental-causation/). When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [epiphenomenalism](/arguments/epiphenomenalism/) because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.
+The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [mental causation](/concepts/mental-causation/). When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [epiphenomenalism](/concepts/epiphenomenalism/) because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.
 
 ## Beyond the Folk Understanding
 
@@ -68,7 +68,7 @@ The nocebo effect sharpens this point. When patients are warned about side effec
 
 ## The Epiphenomenalist Challenge
 
-[Epiphenomenalism](/arguments/epiphenomenalism/) holds that conscious experiences are caused by physical processes but cause nothing themselves. Placebo effects challenge this directly.
+[epiphenomenalism](/concepts/epiphenomenalism/) holds that conscious experiences are caused by physical processes but cause nothing themselves. Placebo effects challenge this directly.
 
 The epiphenomenalist must explain how a belief about a treatment — a mental state with specific propositional content — produces targeted physiological changes without the belief itself doing any causal work. The standard move is to say that the neural correlate of the belief does the causing, and the conscious belief is a causally inert byproduct.
 
@@ -115,7 +115,7 @@ The Map interprets placebo effects not as anomalies requiring special explanatio
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem and the Map's quantum framework response
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Complementary evidence: conscious interference with automatised performance
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness causes nothing, and why it fails
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness causes nothing, and why it fails
 - [causal-closure](/concepts/causal-closure/) — The principle placebo effects challenge
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's commitment to consciousness influencing the physical
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine intentionality may require phenomenal character

@@ -61,9 +61,9 @@ topics: []
 - [decoherence](/concepts/decoherence/)
 - [haecceity](/concepts/haecceity/)
 - [witness-consciousness](/concepts/witness-consciousness/)
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 - [combination-problem](/concepts/combination-problem/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 
 ### References Added
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness

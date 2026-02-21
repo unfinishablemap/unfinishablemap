@@ -73,11 +73,11 @@ All strengths from previous reviews intact:
 ### Cross-links Status
 
 Verified 6 inbound links exist:
-1. [attention-motor-quantum-interface](/attention-motor-quantum-interface/)
-2. [dopamine-selection-interface](/dopamine-selection-interface/)
+1. [attention-motor-quantum-interface](/concepts/attention-as-interface/)
+2. [dopamine-selection-interface](/concepts/motor-selection/)
 3. [motor-selection](/concepts/motor-selection/)
 4. [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)
-5. [voluntary-attention](/voluntary-attention/)
+5. [voluntary-attention](/concepts/attention-as-interface/)
 6. [mental-effort](/concepts/mental-effort/)
 
 The article is fully integrated into the dopamine/attention-motor content cluster.

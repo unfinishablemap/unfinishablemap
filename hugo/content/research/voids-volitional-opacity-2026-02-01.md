@@ -27,7 +27,7 @@ title: 'Research Notes - Voids: Volitional Opacity'
 topics:
 - '[[philosophy-of-mind]]'
 - '[[consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 # Research: Voids - Volitional Opacity

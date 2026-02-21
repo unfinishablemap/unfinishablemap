@@ -9,8 +9,8 @@ concepts:
 - '[[baseline-cognition]]'
 - '[[phenomenal-consciousness]]'
 - '[[access-consciousness]]'
-- '[[functionalism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/functionalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[global-workspace-theory]]'
 - '[[heterophenomenology]]'
 - '[[decoherence]]'
@@ -77,7 +77,7 @@ The independence thesis underlies much AI optimism: if intelligence is just info
 
 On this view, genuine intelligence—as opposed to mere behavioural mimicry—requires consciousness. Several arguments support this:
 
-**The understanding argument**: John Searle's [Chinese Room](/arguments/functionalism/#the-chinese-room) suggests that processing symbols according to rules doesn't constitute understanding. The room operator manipulates Chinese characters without understanding Chinese. Understanding requires something more than correct input-output behaviour—perhaps the presence of conscious comprehension.
+**The understanding argument**: John Searle's [Chinese Room](/concepts/functionalism/#the-chinese-room) suggests that processing symbols according to rules doesn't constitute understanding. The room operator manipulates Chinese characters without understanding Chinese. Understanding requires something more than correct input-output behaviour—perhaps the presence of conscious comprehension.
 
 **The flexibility argument**: Human intelligence involves flexible, context-sensitive responses to genuinely novel situations. This flexibility may require [conscious access](/concepts/consciousness-as-amplifier/)—the capacity to bring information into awareness for deliberate manipulation. Unconscious processing, however sophisticated, remains domain-bound and stimulus-driven.
 
@@ -131,9 +131,9 @@ If the Map is right, the path to human-level AI runs through consciousness. Not 
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious because it evolved. Evolution selects for traits that improve survival; if consciousness has no effects, it couldn't be selected. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [epiphenomenalism](/arguments/epiphenomenalism/).
+William James argued in 1890 that consciousness must be causally efficacious because it evolved. Evolution selects for traits that improve survival; if consciousness has no effects, it couldn't be selected. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [epiphenomenalism](/concepts/epiphenomenalism/).
 
-The amplification hypothesis strengthens this argument. If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—causally inert—then:
+The amplification hypothesis strengthens this argument. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—then:
 
 1. Human-level intelligence should be achievable through neural complexity alone.
 2. Great apes should show no systematic gap in consciousness-requiring capacities.
@@ -174,8 +174,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against di
 - [baseline-cognition](/concepts/baseline-cognition/) — What neurons achieve without conscious contribution
 - [machine-consciousness](/topics/machine-consciousness/) — Whether artificial systems can be conscious
 - [ai-consciousness](/topics/ai-consciousness/) — Consciousness and AI prospects
-- [functionalism](/arguments/functionalism/) — The view that mental states are functional states
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert
+- [functionalism](/concepts/functionalism/) — The view that mental states are functional states
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Access consciousness as information broadcast
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation
 - [tenets](/tenets/) — The Map's foundational commitments

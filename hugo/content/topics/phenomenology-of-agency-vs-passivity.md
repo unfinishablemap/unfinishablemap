@@ -20,7 +20,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[conscious-vs-unconscious-processing]]'
 - '[[illusionism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-02-09
 date: &id001 2026-02-09
 description: The felt contrast between doing and undergoing reveals a fundamental
@@ -38,7 +38,7 @@ related_articles:
 - '[[choking-phenomenon-mental-causation]]'
 title: Phenomenology of Agency vs Passivity
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[authentic-vs-inauthentic-choice]]'
 ---
 
@@ -84,7 +84,7 @@ The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals w
 
 Flow—total absorption in a challenging activity—is phenomenologically paradoxical. The agent is highly engaged and performing at peak capacity, yet the experience feels effortless. There is doing without the feeling of doing. The usual markers of agency (effort, deliberate control) are absent, yet the activity is clearly not passive—it is responsive, adaptive, skilled.
 
-Flow suggests the agency-passivity axis is not a single dimension but involves at least two: *causal contribution* (whether consciousness is shaping outcomes) and *phenomenal effort* (whether the contribution feels like work). In flow, causal contribution may remain high while phenomenal effort drops. The [attention interface](/voluntary-attention/) operates smoothly, without the friction that generates effort phenomenology.
+Flow suggests the agency-passivity axis is not a single dimension but involves at least two: *causal contribution* (whether consciousness is shaping outcomes) and *phenomenal effort* (whether the contribution feels like work). In flow, causal contribution may remain high while phenomenal effort drops. The [attention interface](/concepts/attention-as-interface/) operates smoothly, without the friction that generates effort phenomenology.
 
 This creates a genuine tension for the article's core argument. If phenomenal effort can dissociate from causal contribution, then the feeling of agency is not a perfectly reliable indicator of conscious causal engagement. The Map's response: effort phenomenology tracks the *difficulty* of selection, not its presence. Just as a well-oiled hinge still connects two surfaces even when it turns without friction, consciousness in flow still selects—it simply selects without resistance. The broader agency-passivity axis remains informative even if effort is not its only marker.
 
@@ -108,13 +108,13 @@ This matters because it reveals that the sense of agency is not simply body-owne
 
 ### Against Epiphenomenalism
 
-If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—causally inert, merely along for the ride—the agency-passivity distinction should not exist. An epiphenomenal consciousness would be purely passive in every case. The fact that experience systematically distinguishes doing from undergoing, and that this distinction correlates with measurable neural differences in [willed versus automatic attention](/voluntary-attention/), suggests consciousness tracks its own causal contribution.
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert, merely along for the ride—the agency-passivity distinction should not exist. An epiphenomenal consciousness would be purely passive in every case. The fact that experience systematically distinguishes doing from undergoing, and that this distinction correlates with measurable neural differences in [willed versus automatic attention](/concepts/attention-as-interface/), suggests consciousness tracks its own causal contribution.
 
-The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [willed attention signature](/voluntary-attention/) (frontal theta in Bengson 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
+The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [willed attention signature](/concepts/attention-as-interface/) (frontal theta in Bengson 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
 
 ### Against Illusionism
 
-The [illusionist](/concepts/illusionism/) holds that the phenomenal contrast between agency and passivity is a functional distinction the brain represents, not a genuine difference in conscious contribution. The contrast is "real" as a representation but does not track what it seems to track—actual causal efficacy. Yet the phenomenology resists this deflationary reading. Contemplative traditions in [Buddhist samatha and vipassana practice](/concepts/meditation-and-consciousness-modes/) refine phenomenological discrimination through sustained training, and experienced meditators report that the agency-passivity distinction becomes *sharper*, not less distinct (Lutz et al., 2008). Practitioners distinguish ever finer gradations—subtle intentions, micro-decisions about [attention](/voluntary-attention/), passive reception during open awareness. Unlike perceptual illusions that persist because we cannot access the underlying mechanism, agency phenomenology is refined precisely *by* attending to it more carefully. The deepening of the contrast under scrutiny is better explained by its tracking a real distinction than by its being an adaptive misrepresentation.
+The [illusionist](/concepts/illusionism/) holds that the phenomenal contrast between agency and passivity is a functional distinction the brain represents, not a genuine difference in conscious contribution. The contrast is "real" as a representation but does not track what it seems to track—actual causal efficacy. Yet the phenomenology resists this deflationary reading. Contemplative traditions in [Buddhist samatha and vipassana practice](/concepts/meditation-and-consciousness-modes/) refine phenomenological discrimination through sustained training, and experienced meditators report that the agency-passivity distinction becomes *sharper*, not less distinct (Lutz et al., 2008). Practitioners distinguish ever finer gradations—subtle intentions, micro-decisions about [attention](/concepts/attention-as-interface/), passive reception during open awareness. Unlike perceptual illusions that persist because we cannot access the underlying mechanism, agency phenomenology is refined precisely *by* attending to it more carefully. The deepening of the contrast under scrutiny is better explained by its tracking a real distinction than by its being an adaptive misrepresentation.
 
 ### For the Selection Framework
 
@@ -151,12 +151,12 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The detailed structure of choosing
 - [witness-consciousness](/concepts/witness-consciousness/) — The passive pole explored through contemplative traditions
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation, not event-causation
-- [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from automatic processing
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic processing
 - [mental-effort](/concepts/mental-effort/) — Why effort phenomenology supports conscious causal contribution
 - [motor-selection](/concepts/motor-selection/) — The agency-passivity contrast in movement
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
 - [volitional-opacity](/voids/volitional-opacity/) — Why the mechanism connecting will to action is invisible
-- [free-will](/concepts/free-will/) — The broader philosophical context
+- [free-will](/topics/free-will/) — The broader philosophical context
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of agency across the Map
 
 ## References

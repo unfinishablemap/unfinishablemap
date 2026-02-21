@@ -9,7 +9,7 @@ concepts:
 - '[[voluntary-attention]]'
 - '[[mental-effort]]'
 - '[[agent-causation]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[phenomenology-of-choice]]'
 - '[[working-memory]]'
@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 title: Attentional Economics
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -208,12 +208,12 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention serves as consciousness's interface with matter
-- [voluntary-attention](/voluntary-attention/) — The neural signatures of willed versus automatic attention
+- [voluntary-attention](/concepts/attention-as-interface/) — The neural signatures of willed versus automatic attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of attentional work
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — How contemplative practice trains attentional capacities
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism by which attention shapes neural outcomes
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The mechanism by which attention shapes neural outcomes
 - [working-memory](/concepts/working-memory/) — The "liquid assets" of attentional capital
-- [free-will](/concepts/free-will/) — The broader framework of agency and determinism
+- [free-will](/topics/free-will/) — The broader framework of agency and determinism
 
 ## References
 

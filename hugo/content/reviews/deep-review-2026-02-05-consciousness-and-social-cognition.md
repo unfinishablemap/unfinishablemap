@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Consciousness and Social Cognition](/concepts/consciousness-and-social-cognition/)
+**Article**: [Consciousness and Social Cognition](/topics/consciousness-and-social-cognition/)
 **Previous review**: [2026-01-22](/reviews/deep-review-2026-01-22-consciousness-and-social-cognition/)
 
 ## Summary
@@ -64,8 +64,8 @@ All attributions verified:
 - None (stability confirmation - no changes needed)
 
 ### Cross-links Verified
-- [phenomenal-unity](/phenomenal-unity/) - properly linked in frontmatter and inline discussion
-- [baseline-cognition](/concepts/baseline-cognition/), [jourdain-hypothesis](/concepts/jourdain-hypothesis/), [metarepresentation](/metarepresentation/), etc. - all appropriate
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) - properly linked in frontmatter and inline discussion
+- [baseline-cognition](/concepts/baseline-cognition/), [jourdain-hypothesis](/concepts/jourdain-hypothesis/), [metarepresentation](/concepts/metacognition/), etc. - all appropriate
 
 ## Remaining Items
 

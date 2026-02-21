@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-19
-**Article**: [Functionalism](/arguments/functionalism/)
+**Article**: [Functionalism](/concepts/functionalism/)
 **Previous review**: [2026-01-19 (earlier pass added minimal-consciousness content)](/reviews/deep-review-2026-01-19-functionalism/)
 
 ## Review Session 2 (21:15 UTC)
@@ -60,7 +60,7 @@ This second review addresses issues remaining after the earlier session, particu
 7. Updated Melloni et al. citation with journal details
 
 ### Cross-links Added
-- [arguments-against-materialism](/arguments-against-materialism/) (frontmatter + body + Further Reading)
+- [arguments-against-materialism](/concepts/the-case-for-dualism/) (frontmatter + body + Further Reading)
 - [mental-causation](/concepts/mental-causation/) (frontmatter + body + Further Reading)
 - [illusionism](/concepts/illusionism/) (frontmatter + Further Reading)
 

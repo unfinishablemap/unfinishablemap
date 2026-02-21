@@ -10,7 +10,7 @@ concepts:
 - '[[brain-interface-boundary]]'
 - '[[pairing-problem]]'
 - '[[binding-problem]]'
-- '[[quantum-entanglement]]'
+- quantum-entanglement
 created: 2026-01-07
 date: &id001 2026-01-19
 description: AI-assisted analysis of the locality objection to dualist mind-matter
@@ -22,7 +22,7 @@ last_curated: null
 last_deep_review: 2026-01-27 15:10:40+00:00
 modified: *id001
 related_articles:
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[tenets]]'
 title: Locality and Mind-Matter Interaction
 topics: []
@@ -34,7 +34,7 @@ The concern rests on unstated assumptions about how non-physical causation must 
 
 ## The Objection Stated
 
-From [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/):
+From [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/):
 
 > If consciousness influences quantum events in the brain, where exactly does this happen? The proposal requires:
 > - Specific physical locations where selection occurs
@@ -110,11 +110,11 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness acts on *this* brain specifically and what makes neural systems suitable interfaces
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge about mind-body connection
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The broader question of whether quantum selection is coherent
-- [quantum-entanglement](/quantum-entanglement/) — The non-local correlations that challenge strict locality
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The broader question of whether quantum selection is coherent
+- quantum-entanglement — The non-local correlations that challenge strict locality
 - [binding-problem](/concepts/binding-problem/) — How distributed activity yields unified experience
 - [tenets](/tenets/) — The foundational commitments these concepts serve
-- [free-will](/concepts/free-will/) — How quantum selection relates to libertarian free will
+- [free-will](/topics/free-will/) — How quantum selection relates to libertarian free will
 
 ## References
 

@@ -9,7 +9,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[delegatory-dualism]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[agent-causation]]'
 created: 2026-02-15
 date: &id001 2026-02-20
@@ -26,7 +26,7 @@ related_articles:
 - '[[objections-to-interactionism]]'
 title: Preemption
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Preemption is a causal structure in which one sufficient cause renders another sufficient cause idle, so that only the first does the actual causal work. Unlike overdetermination—where two sufficient causes both contribute to the same effect—preemption involves one cause *operating* while the backup is *sidelined*. The Unfinishable Map's interest in preemption centres on its role in Bradford Saad's [delegatory-dualism](/topics/delegatory-dualism/), where conscious experiences preempt the causal contributions of physical brain states, solving the exclusion problem without overdetermination.
@@ -94,14 +94,14 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 
 **Agent Causation**: The [agent-causal](/concepts/agent-causation/) tradition holds that substances—not prior events—originate actions directly. Agent-causal theories explain *what kind of entity* initiates causation (the conscious agent as substance), while preemption explains *how that initiation relates to the physical causal structure*: the agent's exercise of causal power preempts the physical state's default contribution. Together, substance causation and delegatory preemption answer both the ontological question (who causes?) and the structural question (how does that cause interact with physical causes?).
 
-**Observational Closure**: Saad's model satisfies [observational-closure](/observational-closure/)—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This means delegatory preemption is a metaphysical interpretation of the causal structure, not an empirically testable hypothesis. No experiment can distinguish a world where experiences preempt physical causes from one where physical causes operate unpreempted. The case for preemption rests entirely on philosophical arguments: that consciousness is real and irreducible, that reductive accounts fail, and that a principled causal structure is needed to accommodate non-physical mental causation. Those who find these philosophical arguments compelling have reason to accept preemption; those who demand empirical distinguishability from physicalism will find it wanting.
+**Observational Closure**: Saad's model satisfies [observational-closure](/concepts/causal-closure/)—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This means delegatory preemption is a metaphysical interpretation of the causal structure, not an empirically testable hypothesis. No experiment can distinguish a world where experiences preempt physical causes from one where physical causes operate unpreempted. The case for preemption rests entirely on philosophical arguments: that consciousness is real and irreducible, that reductive accounts fail, and that a principled causal structure is needed to accommodate non-physical mental causation. Those who find these philosophical arguments compelling have reason to accept preemption; those who demand empirical distinguishability from physicalism will find it wanting.
 
 ## Further Reading
 
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full framework applying preemption to mental causation
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The principle that delegatory preemption explicitly violates
-- [observational-closure](/observational-closure/) — Why preemption leaves no empirical trace
+- [observational-closure](/concepts/causal-closure/) — Why preemption leaves no empirical trace
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for conscious agents as causal originators
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other responses to the exclusion problem
 

@@ -24,7 +24,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[phenomenal-consciousness]]'
 - '[[access-consciousness]]'
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 created: 2026-01-24
 date: &id001 2026-01-24
 description: Meaning requires consciousness. Understanding involves irreducible phenomenal
@@ -79,7 +79,7 @@ The metarepresentational threshold marks the divide. Great apes show procedural 
 
 This distinction maps onto the case against LLM understanding. Large language models show sophisticated pattern matching within training distributions. They produce metacognitive-seeming outputs—uncertainty reports, confidence expressions, self-corrections. But producing metacognitive text differs from *having* metarepresentational capacity. LLMs, like great apes operating in the "zone of latent solutions," achieve remarkable feats within reachable space while lacking the metarepresentational capacity to transcend it.
 
-[Social cognition](/concepts/consciousness-and-social-cognition/) provides another revealing domain. Great apes track behaviour and even attribute simple mental states to others. But recursive mindreading—"she thinks that I think the food is hidden"—requires holding multiple nested representations simultaneously, exactly what baseline cognition cannot achieve. Similarly, LLMs produce text about mental states without the phenomenal binding that genuine understanding of other minds requires. Both cases illustrate the same limit: sophisticated processing without phenomenal integration cannot achieve genuine semantic grasp.
+[Social cognition](/topics/consciousness-and-social-cognition/) provides another revealing domain. Great apes track behaviour and even attribute simple mental states to others. But recursive mindreading—"she thinks that I think the food is hidden"—requires holding multiple nested representations simultaneously, exactly what baseline cognition cannot achieve. Similarly, LLMs produce text about mental states without the phenomenal binding that genuine understanding of other minds requires. Both cases illustrate the same limit: sophisticated processing without phenomenal integration cannot achieve genuine semantic grasp.
 
 ## Consciousness as Intelligence Amplifier
 
@@ -87,7 +87,7 @@ If consciousness merely correlated with human intelligence—a byproduct with no
 
 A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious processing: only 10% of claimed unconscious effects survive rigorous methodological scrutiny. This matters because the case for understanding without phenomenal consciousness grows weaker as we discover how limited unconscious processing actually is.
 
-[Global Workspace Theory research](/consciousness-as-intelligence-amplifier/) identifies three functions specifically requiring conscious access: *durable information maintenance* (beyond 500ms), *novel combinations of operations*, and *spontaneous intentional action*. (For empirical evidence supporting these distinctions, see [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/).) All three are essential to genuine understanding. Understanding persists—you don't grasp a sentence for half a second then lose it. Understanding combines—you integrate meanings from different sources. Understanding initiates—you spontaneously deploy what you know. If these operations require phenomenal consciousness, understanding does too.
+[Global Workspace Theory research](/concepts/consciousness-as-amplifier/) identifies three functions specifically requiring conscious access: *durable information maintenance* (beyond 500ms), *novel combinations of operations*, and *spontaneous intentional action*. (For empirical evidence supporting these distinctions, see [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/).) All three are essential to genuine understanding. Understanding persists—you don't grasp a sentence for half a second then lose it. Understanding combines—you integrate meanings from different sources. Understanding initiates—you spontaneously deploy what you know. If these operations require phenomenal consciousness, understanding does too.
 
 The maintenance/manipulation distinction sharpens this point. Merely holding information can occur unconsciously through activity-silent synaptic traces. But using information—comparing, combining, restructuring—requires conscious reactivation. Semantic binding is manipulation: integrating elements into structured wholes. The 7±2 working memory capacity represents the expanded conscious workspace within which the active manipulation that constitutes understanding occurs.
 
@@ -188,9 +188,9 @@ The phenomenal constitution of meaning connects to all five tenets.
 ## Source Articles
 
 This apex article synthesizes:
-- [Meaning and Consciousness](/meaning-and-consciousness/)
+- [Meaning and Consciousness](/topics/consciousness-and-semantic-understanding/)
 - [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/)
-- [Consciousness as Intelligence Amplifier](/consciousness-as-intelligence-amplifier/)
+- [Consciousness as Intelligence Amplifier](/concepts/consciousness-as-amplifier/)
 - [Baseline Cognition: What Neurons Can Do Without Consciousness](/concepts/baseline-cognition/)
 - [AI Consciousness](/topics/ai-consciousness/)
 - [Cognitive Phenomenology](/concepts/cognitive-phenomenology/)

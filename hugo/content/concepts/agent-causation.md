@@ -18,7 +18,7 @@ concepts:
 - '[[consciousness-and-creativity]]'
 - '[[duration]]'
 - '[[quantum-indeterminacy-free-will]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[pairing-problem]]'
 - '[[causal-interface]]'
 - '[[downward-causation]]'
@@ -45,7 +45,7 @@ related_articles:
 - '[[motor-control-quantum-zeno-2026-01-18]]'
 title: Agent Causation
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -188,7 +188,7 @@ Agent causation traditionally focuses on selection, but [recent work](/concepts/
 
 This strengthens agent causation against the critic who asks what about the agent explains the choice. If agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
 
-Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [duration](/duration/) develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
+Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [duration](/concepts/temporal-consciousness/) develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
 
 Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally rather than metaphysically exceptional. This reframes the objection: the question is not "How can consciousness possibly cause anything?" but "Why did we think it couldn't?" The [Process and Consciousness](/apex/process-and-consciousness/) apex develops this connection in depth.
 
@@ -201,7 +201,7 @@ Agent causation is falsifiable. Key challenges:
 - **Dissociation of effort and outcome**: If effort didn't correlate with decision difficulty, phenomenological support collapses. Current evidence shows correlation.
 - **No willed/instructed distinction**: If neural signatures were identical, the claim consciousness adds something would weaken. Research robustly distinguishes them.
 - **Solving the hard problem materialistically**: A compelling materialist account of subjective experience would reduce motivation for treating consciousness as separate causal factor.
-- **[Many-worlds](/arguments/many-worlds/) confirmation**: If MWI were empirically confirmed, there would be no collapse to influence—all outcomes occur in branching universes.
+- **[Many-worlds](/concepts/many-worlds/) confirmation**: If MWI were empirically confirmed, there would be no collapse to influence—all outcomes occur in branching universes.
 
 ## Relation to Site Perspective
 
@@ -213,7 +213,7 @@ The [Dualism](/tenets/#dualism) tenet is also essential. Agent causation require
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main objection to agent causation: that it's metaphysically extravagant, positing a primitive relation unlike anything else in nature. But substance causation answers this directly: if all causation is substances exercising powers, then agent causation posits fewer primitive relations than event causation, which needs events, laws, and the mysterious relation between them. The apparent simplicity of event causation may mask unresolved problems about what laws *do*. Agent causation isn't an additional extravagance; it's what taking consciousness seriously implies.
 
-Against [epiphenomenalism](/arguments/epiphenomenalism/): substance causation combined with the self-stultification argument opposes the view that consciousness lacks causal powers. If consciousness is a genuine substance, then it has causal powers by its nature. Substances *act*; that's what makes them substances.
+Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation combined with the self-stultification argument opposes the view that consciousness lacks causal powers. If consciousness is a genuine substance, then it has causal powers by its nature. Substances *act*; that's what makes them substances.
 
 ## Further Reading
 
@@ -221,7 +221,7 @@ Against [epiphenomenalism](/arguments/epiphenomenalism/): substance causation co
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment including Kane's 2024 convergence
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Deliberation, decision, authorship
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Generation beyond selection
-- [free-will](/concepts/free-will/) — The broader question and Map's position
+- [free-will](/topics/free-will/) — The broader question and Map's position
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Mind-body interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interface
 - [luck-objection](/concepts/luck-objection/) — Full response to the luck challenge

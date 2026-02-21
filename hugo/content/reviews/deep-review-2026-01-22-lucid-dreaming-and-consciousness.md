@@ -39,7 +39,7 @@ topics: []
    - **Resolution**: Rewrote to focus on phenomenology of foreclosure—choosing feels like elimination rather than bifurcation, which collapse interpretations explain but MWI cannot.
 
 2. **Missing cross-links**: Article didn't connect to autonoetic-consciousness (relevant for self-aware dreaming) or phenomenology-of-choice (relevant for dream control).
-   - **Resolution**: Added [autonoetic-consciousness](/autonoetic-consciousness/) and [phenomenology-of-choice](/concepts/phenomenology-of-choice/) to frontmatter concepts, added inline cross-links in text, added to Further Reading section.
+   - **Resolution**: Added [autonoetic-consciousness](/concepts/episodic-memory/) and [phenomenology-of-choice](/concepts/phenomenology-of-choice/) to frontmatter concepts, added inline cross-links in text, added to Further Reading section.
 
 ### Counterarguments Considered
 
@@ -70,7 +70,7 @@ topics: []
 
 ### Cross-links Added
 
-- [autonoetic-consciousness](/autonoetic-consciousness/) — in Metacognition section
+- [autonoetic-consciousness](/concepts/episodic-memory/) — in Metacognition section
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — in Voluntary Control section
 - [interactionist-dualism](/concepts/interactionist-dualism/) — in Relation to Site Perspective (Minimal Quantum Interaction)
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-28
-**Article**: [Phenomenal Unity](/phenomenal-unity/)
+**Article**: [Phenomenal Unity](/concepts/phenomenal-binding-and-holism/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-phenomenal-unity/)
 **Context**: Cross-review considering neural-binding-mechanisms.md
 
@@ -29,7 +29,7 @@ None. The article is well-structured with comprehensive tenet coverage, strong p
 ### Medium Issues Found
 
 1. **Missing cross-link to neural-binding-mechanisms.md**: The new article covers similar ground (gamma synchrony, Baum's argument, experimental evidence) but phenomenal-unity.md didn't link to it.
-   - *Resolution*: Added [neural-binding-mechanisms](/neural-binding-mechanisms/) to Further Reading with description. Added to concepts frontmatter.
+   - *Resolution*: Added [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) to Further Reading with description. Added to concepts frontmatter.
 
 2. **Stapp's quantum Zeno mechanism unmentioned**: The article relied solely on Orch OR for the quantum case. neural-binding-mechanisms.md presents Stapp's alternative, which doesn't require sustained coherence.
    - *Resolution*: Added paragraph mentioning Stapp's approach as alternative that strengthens the quantum case.
@@ -76,7 +76,7 @@ All six adversarial personas found philosophical disagreements rather than error
 
 ### Cross-links Added
 
-- [neural-binding-mechanisms](/neural-binding-mechanisms/) — in Further Reading and concepts frontmatter
+- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — in Further Reading and concepts frontmatter
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — in Further Reading and concepts frontmatter
 
 ## Word Count

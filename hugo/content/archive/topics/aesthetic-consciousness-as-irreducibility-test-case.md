@@ -34,7 +34,7 @@ related_articles:
 - '[[consciousness-and-aesthetic-creation]]'
 - '[[knowledge-argument]]'
 - '[[philosophical-zombies]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[consciousness-value-connection]]'
 - '[[acquaintance-knowledge]]'
@@ -104,7 +104,7 @@ In aesthetic experience, these are inseparable. The specific quality of beauty i
 
 This entanglement matters because physicalist strategies for handling qualia and physicalist strategies for handling normativity are different—and potentially incompatible. Qualia are typically approached through identity theory or functionalism: the phenomenal character *is* a neural or functional state. Normativity is typically approached through evolutionary debunking or constructivism: values are projections, not discoveries. But in aesthetic experience, the qualitative character and the normative force are the same thing. A theory that identifies qualia with neural states while debunking normativity must explain how the same phenomenon can be simultaneously constituted by neural activity (as qualitative character) and illusory (as normative force). The strategies pull in opposite directions.
 
-[Phenomenal value realism](/concepts/phenomenal-value-realism/) takes the entanglement seriously: aesthetic normativity is intrinsic to phenomenal character, not projected onto it. If correct, this means aesthetic experience reveals something about the ontological structure of consciousness—that it is inherently value-laden, not value-neutral. Physical description is value-neutral by construction. A value-laden phenomenon that is intrinsically qualitative cannot be identical to a value-neutral substrate.
+[Phenomenal value realism](/topics/phenomenal-value-realism/) takes the entanglement seriously: aesthetic normativity is intrinsic to phenomenal character, not projected onto it. If correct, this means aesthetic experience reveals something about the ontological structure of consciousness—that it is inherently value-laden, not value-neutral. Physical description is value-neutral by construction. A value-laden phenomenon that is intrinsically qualitative cannot be identical to a value-neutral substrate.
 
 ## What Makes This a Test Case, Not Just Another Argument
 
@@ -131,7 +131,7 @@ The Unfinishable Map's [foundational commitments](/tenets/) are illuminated by t
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Making art as evidence for bidirectional interaction
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the limits of physical information
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability and the zombie argument
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Value as intrinsic to phenomenal character
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to phenomenal character
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience

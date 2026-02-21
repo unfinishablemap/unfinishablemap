@@ -8,7 +8,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[causal-closure]]'
 - '[[mental-causation]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 - '[[emergence]]'
 - '[[downward-causation]]'
@@ -35,10 +35,10 @@ related_articles:
 title: Objections to Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-[Interactionist dualism](/concepts/interactionist-dualism/) faces six major philosophical objections: the [pairing problem](/concepts/pairing-problem/), conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [quantum framework](/concepts/quantum-consciousness/) The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [epiphenomenalism](/arguments/epiphenomenalism/).
+[Interactionist dualism](/concepts/interactionist-dualism/) faces six major philosophical objections: the [pairing problem](/concepts/pairing-problem/), conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [quantum framework](/concepts/quantum-consciousness/) The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [epiphenomenalism](/concepts/epiphenomenalism/).
 
 ## The Pairing Problem
 
@@ -70,7 +70,7 @@ If haecceities don't exist, the pairing problem generalizes to all causation. Wh
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
 
-[Interface locality](/interface-locality/) reinforces this: each consciousness can only interface with its own brain because the quantum Zeno mechanism requires the observer-system coupling that exists only within one's neural substrate. You cannot attend to distant quantum systems the way you attend to your own neural states. The pairing is built into the mechanism.
+[Interface locality](/concepts/brain-interface-boundary/) reinforces this: each consciousness can only interface with its own brain because the quantum Zeno mechanism requires the observer-system coupling that exists only within one's neural substrate. You cannot attend to distant quantum systems the way you attend to your own neural states. The pairing is built into the mechanism.
 
 ## Conservation Laws
 
@@ -193,7 +193,7 @@ Even if decoherence eliminates quantum *computing* in the brain, it may not elim
 
 ### The Objection
 
-Often presented as objecting to dualism, this argument actually targets [epiphenomenalism](/arguments/epiphenomenalism/) and *supports* interactionism:
+Often presented as objecting to dualism, this argument actually targets [epiphenomenalism](/concepts/epiphenomenalism/) and *supports* interactionism:
 
 1. Pleasures correlate with survival-beneficial stimuli; pains with harmful stimuli
 2. This correlation requires evolutionary explanation
@@ -252,7 +252,7 @@ This transforms the exclusion argument from a dilemma into a false premise: clos
 
 This avoids overdetermination because only one cause operates: the experience does the causal work while the physical state is sidelined. Preemption differs from overdetermination the way an assassin's successful shot differs from a backup shooter's bullet arriving simultaneously—one cause acts, the other is rendered idle.
 
-Saad's framework also distinguishes *[observational closure](/observational-closure/)* from *universal closure*: mental causation need not violate what physics experiments can detect, only what physics would accomplish if consciousness weren't present. This distinction strengthens the falsifiability conditions discussed below.
+Saad's framework also distinguishes *[observational closure](/concepts/causal-closure/)* from *universal closure*: mental causation need not violate what physics experiments can detect, only what physics would accomplish if consciousness weren't present. This distinction strengthens the falsifiability conditions discussed below.
 
 ### Connection to the Luck Objection
 
@@ -264,7 +264,7 @@ Interactionism would face serious difficulty if:
 
 1. **Deterministic neural dynamics**: If all neural activity could be predicted from prior physical states with no residual indeterminacy, consciousness would have nowhere to act. Current neuroscience cannot achieve such prediction, but this reflects practical limits rather than principled indeterminacy.
 
-2. **MWI confirmation**: If the [Many-Worlds interpretation](/arguments/many-worlds/) were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The Map's No Many Worlds tenet would fail.
+2. **MWI confirmation**: If the [Many-Worlds interpretation](/concepts/many-worlds/) were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The Map's No Many Worlds tenet would fail.
 
 3. **Conservation violations detected**: If mental causation required energy injection, and we observed systematic conservation violations in neural systems, the objection would stand. We observe no such violations—consistent with either epiphenomenalism or selection among equi-energetic outcomes.
 
@@ -276,7 +276,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); [interface-locality](/interface-locality/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [interface-locality](/concepts/brain-interface-boundary/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
 | Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) | Strong |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Revised calculations, quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
@@ -308,14 +308,14 @@ These objections have been taken seriously throughout the history of philosophy.
 - [causal-closure](/concepts/causal-closure/) — The closure principle underlying the exclusion argument
 - [mental-causation](/concepts/mental-causation/) — The phenomenon the exclusion argument challenges
 - [downward-causation](/concepts/downward-causation/) — How higher-level properties influence lower-level processes
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view the evolutionary argument targets
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view the evolutionary argument targets
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — Positive arguments for the Map's position
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for mind-matter interface
 - [decoherence](/concepts/decoherence/) — The quantum biology challenge and evidence
-- [interface-locality](/interface-locality/) — Why consciousness can only select within its own brain
+- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness can only select within its own brain
 - [haecceity](/concepts/haecceity/) — Primitive "thisness" as pairing relation
 - [luck-objection](/concepts/luck-objection/) — Parallel challenge to libertarian free will
-- [many-worlds](/arguments/many-worlds/) — The interpretation whose rejection grounds the Map's view
+- [many-worlds](/concepts/many-worlds/) — The interpretation whose rejection grounds the Map's view
 - [emergence](/concepts/emergence/) — Strong emergence with mechanism
 - [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/) — Research notes for this article
 

@@ -40,7 +40,7 @@ topics:
 
 Understanding unfolds in time. The "click" when a proof resolves, the gradual emergence of meaning as a complex sentence is parsed, the sudden insight after incubation—all have distinctive temporal phenomenology. This temporal structure is not incidental to understanding but may be constitutive of it. If understanding has a characteristic temporal shape, and if that shape requires phenomenal consciousness, then systems lacking temporal phenomenology may manipulate symbols without genuinely understanding them.
 
-The Unfinishable Map proposes that the temporal structure of understanding provides evidence for [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—the view that thinking itself has irreducible phenomenal character. The phenomenology of understanding is inherently temporal: we experience understanding *happening*, unfolding across the [specious present](/specious-present/) in ways that mere information processing cannot capture.
+The Unfinishable Map proposes that the temporal structure of understanding provides evidence for [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—the view that thinking itself has irreducible phenomenal character. The phenomenology of understanding is inherently temporal: we experience understanding *happening*, unfolding across the [specious present](/concepts/temporal-consciousness/) in ways that mere information processing cannot capture.
 
 ## The Temporal Phenomenology of Understanding
 
@@ -64,7 +64,7 @@ Gradual understanding has its own temporal phenomenology:
 - **Anticipation**: Incomplete understanding carries forward-directed expectation. You sense where the sentence is heading, what resolution might look like.
 - **Maintenance effort**: The phenomenal character of holding incomplete structure is effortful—the felt work of keeping elements accessible while processing continues.
 
-Bergson's concept of [durée](/duration/) illuminates gradual understanding. Durée is lived time as interpenetrating flow, where past, present, and future aren't separate moments but aspects of a single experiential whole. Understanding a sentence involves durée: earlier words echo in present processing, while anticipated completion shapes current comprehension. The meaning emerges from this interpenetration, not from isolated snapshots combined mechanically.
+Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates gradual understanding. Durée is lived time as interpenetrating flow, where past, present, and future aren't separate moments but aspects of a single experiential whole. Understanding a sentence involves durée: earlier words echo in present processing, while anticipated completion shapes current comprehension. The meaning emerges from this interpenetration, not from isolated snapshots combined mechanically.
 
 ### Incubation and Insight
 
@@ -79,7 +79,7 @@ The incubation-insight pattern raises questions about consciousness's role. If s
 
 ## Temporal Binding and Working Memory
 
-Understanding requires holding elements together across time. The [specious present](/specious-present/)—the 100-750ms window within which we experience succession as unified—provides the temporal workspace for binding.
+Understanding requires holding elements together across time. The [specious present](/concepts/temporal-consciousness/)—the 100-750ms window within which we experience succession as unified—provides the temporal workspace for binding.
 
 ### The Maintenance/Manipulation Distinction
 
@@ -142,7 +142,7 @@ These contemplative reports align with the philosophical claim that understandin
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's [process philosophy](/duration/) offers a framework for understanding's temporal structure. For Whitehead, experience consists of "actual occasions"—moments of experience that arise, achieve satisfaction, and perish. Each occasion prehends (grasps, integrates) the outcomes of previous occasions.
+Alfred North Whitehead's [process philosophy](/concepts/temporal-consciousness/) offers a framework for understanding's temporal structure. For Whitehead, experience consists of "actual occasions"—moments of experience that arise, achieve satisfaction, and perish. Each occasion prehends (grasps, integrates) the outcomes of previous occasions.
 
 Understanding, on this view, involves a sequence of occasions of increasing complexity. Early occasions prehend the elements to be understood. Later occasions prehend these earlier prehensions plus the relationships emerging between them. The click of understanding would be an occasion that successfully integrates—prehends as unified—what previous occasions held separately.
 
@@ -190,12 +190,12 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader debate about whether thinking has phenomenal character
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How consciousness structures time experience more generally
-- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case of understanding
-- [specious-present](/specious-present/) — The temporal window within which binding occurs
+- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case of understanding
+- [specious-present](/concepts/temporal-consciousness/) — The temporal window within which binding occurs
 - [working-memory](/concepts/working-memory/) — The cognitive system supporting temporal manipulation
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive structure processing reveals temporal phenomenology
-- [duration](/duration/) — Bergson's concept of lived time as interpenetrating flow
+- [duration](/concepts/temporal-consciousness/) — Bergson's concept of lived time as interpenetrating flow
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Related argument that meaning is constitutively phenomenal
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Parallels between the phenomenology of choosing and the phenomenology of understanding
 - [agent-causation](/concepts/agent-causation/) — Understanding as a case of conscious agency in cognition

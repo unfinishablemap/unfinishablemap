@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [Consciousness and Quantum Measurement](/consciousness-and-quantum-measurement/)
+**Article**: [Consciousness and Quantum Measurement](/topics/quantum-measurement-consciousness-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

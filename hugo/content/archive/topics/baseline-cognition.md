@@ -16,7 +16,7 @@ concepts:
 - '[[argument-from-reason]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[voluntary-attention]]'
 - '[[conscious-vs-unconscious-processing]]'
@@ -30,7 +30,7 @@ modified: *id001
 original_path: /topics/baseline-cognition/
 related_articles:
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[binding-problem]]'
 - '[[global-workspace-theory]]'
 - '[[explanatory-gap]]'
@@ -41,7 +41,7 @@ topics: []
 
 If consciousness were removed from human cognition—or had never emerged—what would remain? Great ape intelligence may answer this question. Chimpanzees and bonobos show sophisticated problem-solving, tool use, social cognition, and even [metacognitive](/concepts/metacognition/) monitoring of their own uncertainty. Yet they cannot engage in cumulative culture, logical reasoning, or explicit counterfactual thinking. The pattern suggests a hypothesis: great ape cognition represents a "baseline" of what neurons can achieve without conscious elaboration, while human intelligence requires consciousness as a causally necessary amplifier.
 
-This hypothesis has direct implications for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If the leap from baseline to human cognition requires conscious contribution—not merely correlates with it—then consciousness is causally efficacious, not [epiphenomenal](/arguments/epiphenomenalism/).
+This hypothesis has direct implications for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If the leap from baseline to human cognition requires conscious contribution—not merely correlates with it—then consciousness is causally efficacious, not [epiphenomenal](/concepts/epiphenomenalism/).
 
 ## The Great Ape Cognitive Profile
 
@@ -49,7 +49,7 @@ Great apes demonstrate remarkable cognitive abilities that once seemed uniquely 
 
 Yet clear limits emerge. The most striking is [working-memory](/concepts/working-memory/) capacity: chimpanzees maintain 2±1 items versus humans' 7±2 items (Miller's famous number). This quantitative gap enables qualitative differences. Complex logical reasoning, holding multiple premises in mind while deriving conclusions, exceeds the 2±1 limit. Similarly, counterfactual simulation—imagining "what if I had done X instead of Y"—requires maintaining both actual and imagined scenarios simultaneously.
 
-The cultural dimension is equally revealing. Great apes have behavioral traditions that vary by group—what anthropologists recognize as culture. Yet these traditions stay within what researchers call the "zone of latent solutions": behaviors the species can already perform. Human culture exhibits a "ratchet effect": modifications accumulate across generations with little backward slippage. Ape culture lacks this cumulative quality. The difference, as Tomasello and others argue, involves [metarepresentation](//#metarepresentation) (explained below): humans can represent that they and others hold beliefs about cultural practices, enabling deliberate modification and teaching of group norms.
+The cultural dimension is equally revealing. Great apes have behavioral traditions that vary by group—what anthropologists recognize as culture. Yet these traditions stay within what researchers call the "zone of latent solutions": behaviors the species can already perform. Human culture exhibits a "ratchet effect": modifications accumulate across generations with little backward slippage. Ape culture lacks this cumulative quality. The difference, as Tomasello and others argue, involves [metarepresentation](#metarepresentation) (explained below): humans can represent that they and others hold beliefs about cultural practices, enabling deliberate modification and teaching of group norms.
 
 ## The Metarepresentation Threshold {#metarepresentation}
 
@@ -57,7 +57,7 @@ A 2015 paper by Whiten introduced what he called the "Jourdain hypothesis" (afte
 
 This absence has cascading effects. Teaching in the full human sense requires understanding what the learner doesn't know. Conformity to group norms requires recognizing norms as norms, not just as "what everyone does." Innovation in cumulative culture requires seeing current practices as contingent options that could be improved. All of these require stepping back from immediate procedural knowledge to reflect on knowledge itself.
 
-Metarepresentation may be the cognitive function that [requires consciousness](//#consciousness-requirement) (addressed in the next section). Great apes show procedural metacognition—feelings of knowing, uncertainty monitoring—but not declarative metacognition: explicit representation of what they know. This distinction maps onto the [access versus phenomenal consciousness](/concepts/access-consciousness/) divide. Procedural feelings might not require phenomenal consciousness; explicit representation might.
+Metarepresentation may be the cognitive function that [requires consciousness](#consciousness-requirement) (addressed in the next section). Great apes show procedural metacognition—feelings of knowing, uncertainty monitoring—but not declarative metacognition: explicit representation of what they know. This distinction maps onto the [access versus phenomenal consciousness](/concepts/access-consciousness/) divide. Procedural feelings might not require phenomenal consciousness; explicit representation might.
 
 ## Evidence That Consciousness Amplifies Cognition {#consciousness-requirement}
 
@@ -103,7 +103,7 @@ This caveat doesn't undermine the hypothesis—it locates the remaining mystery.
 
 The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet asserts that consciousness causally influences the physical world. The baseline cognition hypothesis provides supporting evidence: if great apes represent what neurons can do alone, and the transition to human cognition requires consciousness, then consciousness is causally necessary for human-level intelligence.
 
-This challenges [epiphenomenalism](/arguments/epiphenomenalism/)—the view that consciousness is a causally inert byproduct. If the human cognitive leap from procedural to declarative metacognition, from automatic to flexible reasoning, from latent-solutions culture to cumulative culture, all require conscious processing, then consciousness has downstream causal effects. The very existence of logical reasoning and cumulative culture in humans but not apes suggests consciousness is doing explanatory work.
+This challenges [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness is a causally inert byproduct. If the human cognitive leap from procedural to declarative metacognition, from automatic to flexible reasoning, from latent-solutions culture to cumulative culture, all require conscious processing, then consciousness has downstream causal effects. The very existence of logical reasoning and cumulative culture in humans but not apes suggests consciousness is doing explanatory work.
 
 ### Dualism
 
@@ -111,7 +111,7 @@ The [Dualism](/tenets/#dualism) tenet gains support if metarepresentation—the 
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests a mechanism: if consciousness biases quantum outcomes in neural systems, expanded working memory and flexible reasoning might reflect consciousness selecting among superposed neural patterns. [Voluntary attention control](/voluntary-attention/)—a distinctively human capacity—could be where this selection operates. The quantum Zeno effect, as developed by [Stapp](/concepts/stapp-quantum-mind/), proposes that mental attention acts like repeated observation, holding desired neural patterns in place. Ape brains may provide insufficient interface for this selection, limiting them to the baseline.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests a mechanism: if consciousness biases quantum outcomes in neural systems, expanded working memory and flexible reasoning might reflect consciousness selecting among superposed neural patterns. [Voluntary attention control](/concepts/attention-as-interface/)—a distinctively human capacity—could be where this selection operates. The quantum Zeno effect, as developed by [Stapp](/concepts/stapp-quantum-mind/), proposes that mental attention acts like repeated observation, holding desired neural patterns in place. Ape brains may provide insufficient interface for this selection, limiting them to the baseline.
 
 ### No Many Worlds
 
@@ -119,7 +119,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the baseline hyp
 
 ### Free Will and Agent Causation
 
-The metarepresentational threshold connects to [free-will](/concepts/free-will/) and [agent-causation](/concepts/agent-causation/). Humans don't merely respond to stimuli through fixed mappings; we deliberate, consider alternatives, and choose based on reasons. This deliberative capacity—absent in great apes—may be where consciousness exercises agent causation. The ability to hold multiple options in mind (expanded working memory), evaluate them against criteria (logical reasoning), and select based on that evaluation (flexible response) constitutes the phenomenology of free choice. If this capacity requires consciousness and cannot be achieved by unconscious processing alone, free will is not illusory but functionally essential.
+The metarepresentational threshold connects to [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/). Humans don't merely respond to stimuli through fixed mappings; we deliberate, consider alternatives, and choose based on reasons. This deliberative capacity—absent in great apes—may be where consciousness exercises agent causation. The ability to hold multiple options in mind (expanded working memory), evaluate them against criteria (logical reasoning), and select based on that evaluation (flexible response) constitutes the phenomenology of free choice. If this capacity requires consciousness and cannot be achieved by unconscious processing alone, free will is not illusory but functionally essential.
 
 ### Occam's Razor Has Limits
 
@@ -128,7 +128,7 @@ The hypothesis illustrates the [limits of Occam's Razor](/tenets/#occams-limits)
 ## Further Reading
 
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness and brain interact without violating physics
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The competing view that consciousness is causally inert
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The competing view that consciousness is causally inert
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Theory of how consciousness integrates information
 - [access-consciousness](/concepts/access-consciousness/) — Block's distinction between access and phenomenal consciousness
 - [binding-problem](/concepts/binding-problem/) — How unified experience arises from distributed processing
@@ -137,8 +137,8 @@ The hypothesis illustrates the [limits of Occam's Razor](/tenets/#occams-limits)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Detailed analysis of what consciousness enables vs. what unconscious processing achieves
 - [illusionism](/concepts/illusionism/) — The radical physicalist view that phenomenal consciousness doesn't exist
 - [mysterianism](/concepts/mysterianism/) — Whether the consciousness-cognition link may be cognitively closed
-- [free-will](/concepts/free-will/) — How deliberation and choice connect to conscious amplification
-- [voluntary-attention](/voluntary-attention/) — Attention control as the mechanism for conscious selection
+- [free-will](/topics/free-will/) — How deliberation and choice connect to conscious amplification
+- [voluntary-attention](/concepts/attention-as-interface/) — Attention control as the mechanism for conscious selection
 
 ## References
 

@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[attention]]'
 - '[[attention-as-interface]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[illusionism]]'
 - '[[heterophenomenology]]'
 - '[[integrated-information-theory]]'
@@ -31,7 +31,7 @@ related_articles:
 title: The Attention-Consciousness Dissociation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Attention and consciousness can come apart. Blindsight patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. This empirical dissociation carries philosophical weight: if consciousness were identical to attention, or if attention were necessary and sufficient for consciousness, these splits would be impossible. In standard cognitive neuroscience, double dissociations identify distinct physical processes—but the consciousness-attention case is uniquely significant because one side of the dissociation is the very phenomenon whose relationship to physical processes is in question. This article examines both the physicalist and dualist readings of the evidence, arguing that the [hard problem](/topics/hard-problem-of-consciousness/) makes this dissociation more theoretically consequential than other double dissociations in cognitive science.
@@ -69,7 +69,7 @@ The 2024 debate continues. Kim and Chong propose visual experience is "not rich,
 
 ### Why It Matters
 
-If Block is right, consciousness has a scope that exceeds any functional mechanism. You can be conscious of more than you can think about, report, or act on. This creates severe problems for [functionalist](/arguments/functionalism/) theories that identify consciousness with functional roles like reportability or workspace access.
+If Block is right, consciousness has a scope that exceeds any functional mechanism. You can be conscious of more than you can think about, report, or act on. This creates severe problems for [functionalist](/concepts/functionalism/) theories that identify consciousness with functional roles like reportability or workspace access.
 
 If Block is wrong, and consciousness equals what's cognitively accessed, functionalism survives—but the "seeming" of rich experience still requires explanation. Why does it *seem* like we see all 12 letters if we only consciously see 3-4? The seeming itself is a phenomenon requiring account.
 
@@ -145,7 +145,7 @@ The interface model treats dissociation as expected rather than problematic. Con
 
 ### Against Functionalism
 
-[Functionalism](/arguments/functionalism/) holds that mental states are defined by their functional roles—what they do, not what they're made of. Consciousness, on this view, is the functional role of integrating information, enabling report, guiding action.
+[functionalism](/concepts/functionalism/) holds that mental states are defined by their functional roles—what they do, not what they're made of. Consciousness, on this view, is the functional role of integrating information, enabling report, guiding action.
 
 Dissociation evidence challenges this. If consciousness can occur without the functional role (peripheral awareness exists but doesn't guide action until attended) and the functional role can occur without consciousness (blindsight guides action without awareness), then consciousness isn't identical to the function. Consciousness seems to be *something else* that typically accompanies functional integration but can come apart from it.
 
@@ -171,7 +171,7 @@ When you sustain focus against distraction, something works. The experience of e
 
 The [attention-as-interface](/concepts/attention-as-interface/) hypothesis offers an interpretation: effort feels real because it *is* real work. On Stapp's quantum Zeno mechanism, sustained attention requires continuous engagement to hold neural patterns stable through repeated observation. The phenomenology of effort corresponds to actual engagement.
 
-This connects dissociation to [free-will](/concepts/free-will/). If attention can be effortful, and if that effort produces differential outcomes (neuroplastic change under sustained attention but not passive observation), then the felt sense of striving has genuine causal consequences. Dissociation evidence locates where this causation operates: through attention, not identically with it.
+This connects dissociation to [free-will](/topics/free-will/). If attention can be effortful, and if that effort produces differential outcomes (neuroplastic change under sustained attention but not passive observation), then the felt sense of striving has genuine causal consequences. Dissociation evidence locates where this causation operates: through attention, not identically with it.
 
 ## Relation to Site Perspective
 
@@ -187,11 +187,11 @@ The attention-consciousness dissociation illuminates The Unfinishable Map's fram
 
 ## Further Reading
 
-- [attention](/attention/) — The concept article covering attention-consciousness mechanisms
+- [attention](/concepts/attention-as-interface/) — The concept article covering attention-consciousness mechanisms
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis in detail
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The unified selection interface: convergence, mechanisms, and predictions
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why explaining consciousness is hard
-- [functionalism](/arguments/functionalism/) — The view dissociation evidence challenges
+- [functionalism](/concepts/functionalism/) — The view dissociation evidence challenges
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What the overflow debate concerns
 - [mysterianism](/concepts/mysterianism/) — Why some questions may resist resolution
 

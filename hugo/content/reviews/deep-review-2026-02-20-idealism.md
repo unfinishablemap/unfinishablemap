@@ -72,7 +72,7 @@ Verified against source articles and research notes:
 3. **Updated metadata** — Set `last_deep_review` timestamp (was null despite previous reviews, likely reset by coalesce operation)
 
 ### Cross-links Verified
-All wikilinks verified as existing articles (including `[interface-locality](/interface-locality/)` which exists in archive with preserved URL).
+All wikilinks verified as existing articles (including `[interface-locality](/concepts/brain-interface-boundary/)` which exists in archive with preserved URL).
 
 ## Remaining Items
 

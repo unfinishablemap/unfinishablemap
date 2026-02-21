@@ -51,7 +51,7 @@ Not all indexical knowledge is alike. Three grades can be distinguished, each wi
 
 **Perspectival knowledge** is the weakest grade. Knowing "it is raining here" rather than "it is raining in London" involves an indexical, but the content is readily translatable. If you know where "here" is, the indexical adds convenience, not irreducible content. Most spatial and temporal indexicals fall into this category.
 
-**Self-locating knowledge** is stronger. David Lewis's Two Gods each know every impersonal fact about the universe yet cannot determine which god they are. The mountain god's knowledge "I am the mountain god" cannot be derived from the complete impersonal description. As [self-locating-beliefs](/self-locating-beliefs/) explores, this raises the question of whether self-locating knowledge tracks genuine [indexical-facts](/indexical-facts/) or merely represents impersonal facts in a distinctive cognitive mode.
+**Self-locating knowledge** is stronger. David Lewis's Two Gods each know every impersonal fact about the universe yet cannot determine which god they are. The mountain god's knowledge "I am the mountain god" cannot be derived from the complete impersonal description. As [self-locating-beliefs](/concepts/indexical-knowledge-and-identity/) explores, this raises the question of whether self-locating knowledge tracks genuine [indexical-facts](/concepts/indexical-knowledge-and-identity/) or merely represents impersonal facts in a distinctive cognitive mode.
 
 **Phenomenal indexical knowledge** is the strongest grade. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [knowledge-argument](/concepts/knowledge-argument/). Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of qualitative experience. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience.
 
@@ -59,7 +59,7 @@ These grades are cumulative. Phenomenal indexical knowledge includes self-locati
 
 ## The Epistemic and Metaphysical Dimensions
 
-The philosophical significance of indexical knowledge turns on a distinction developed in [indexical-facts](/indexical-facts/) and [self-locating-beliefs](/self-locating-beliefs/):
+The philosophical significance of indexical knowledge turns on a distinction developed in [indexical-facts](/concepts/indexical-knowledge-and-identity/) and [self-locating-beliefs](/concepts/indexical-knowledge-and-identity/):
 
 **The epistemic thesis**: Indexical knowledge is cognitively irreducible. No amount of impersonal information generates the belief "I am this person." Perry's case and Lewis's Two Gods establish this convincingly. Even philosophers sceptical of indexical *facts* generally accept that indexical *knowledge* has distinctive cognitive and motivational properties.
 
@@ -67,7 +67,7 @@ The philosophical significance of indexical knowledge turns on a distinction dev
 
 The difference matters for consciousness. If only the epistemic thesis holds, indexical knowledge is a feature of how certain physical systems represent information—interesting for cognitive science but no threat to physicalism. If the metaphysical thesis also holds, then reality contains more than physics describes, supporting the case for [dualism](/tenets/#dualism).
 
-The Unfinishable Map's position requires the metaphysical thesis. The arguments for it—from the explanatory gap, from phenomenology, from counterfactual reasoning—are developed in [self-locating-beliefs](/self-locating-beliefs/#from-epistemic-to-metaphysical-the-case-for-indexical-facts).
+The Unfinishable Map's position requires the metaphysical thesis. The arguments for it—from the explanatory gap, from phenomenology, from counterfactual reasoning—are developed in [self-locating-beliefs](/concepts/indexical-knowledge-and-identity/#from-epistemic-to-metaphysical-the-case-for-indexical-facts).
 
 ## Indexical Knowledge and the Knowledge Argument
 
@@ -85,7 +85,7 @@ The [vertiginous-question](/topics/vertiginous-question/)—why am I *this* cons
 
 The question is not about identity criteria (what makes me the same person over time) but about indexical location (what makes me *this* person right now). Pattern-identity theories—which reduce personal identity to psychological continuity—cannot answer it. Two qualitatively identical subjects would share all patterns yet differ in which one each is. The indexical residue—the fact that I am *this* one—is precisely what [haecceity](/concepts/haecceity/) (primitive thisness) is meant to capture.
 
-The vertiginous question acquires particular force against [many-worlds](/arguments/many-worlds/). If every quantum outcome occurs in some branch, the question "why do I experience *this* outcome?" has no answer within the theory. All branches are equally real; no indexical fact picks one out as "mine." The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet reflects this: indexical knowledge of which outcome is experienced presupposes that one outcome genuinely occurs, not that all outcomes occur in parallel.
+The vertiginous question acquires particular force against [many-worlds](/concepts/many-worlds/). If every quantum outcome occurs in some branch, the question "why do I experience *this* outcome?" has no answer within the theory. All branches are equally real; no indexical fact picks one out as "mine." The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet reflects this: indexical knowledge of which outcome is experienced presupposes that one outcome genuinely occurs, not that all outcomes occur in parallel.
 
 ## Limits of Third-Person Description
 
@@ -109,8 +109,8 @@ Indexical knowledge connects to The Unfinishable Map's [tenets](/tenets/) across
 
 ## Further Reading
 
-- [indexical-facts](/indexical-facts/) — The ontological status of facts requiring indexicals
-- [self-locating-beliefs](/self-locating-beliefs/) — Beliefs about where and who you are in the world
+- [indexical-facts](/concepts/indexical-knowledge-and-identity/) — The ontological status of facts requiring indexicals
+- [self-locating-beliefs](/concepts/indexical-knowledge-and-identity/) — Beliefs about where and who you are in the world
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical knowledge misses
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience
 - [haecceity](/concepts/haecceity/) — Primitive thisness grounding indexical identity

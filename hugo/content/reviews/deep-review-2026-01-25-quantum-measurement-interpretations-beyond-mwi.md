@@ -71,14 +71,14 @@ topics: []
 ### Enhancements Made
 
 - Added link to [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) in QBism and "Why This Matters" sections
-- Added link to [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) in Further Reading
+- Added link to [mysterianism-cognitive-closure](/concepts/mysterianism/) in Further Reading
 - Expanded QBism discussion on agent-centrality and consciousness
 - Added Wallace (2012) and Stapp (2007) to References
 
 ### Cross-links Added
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
+- [mysterianism-cognitive-closure](/concepts/mysterianism/)
 
 ## Word Count
 

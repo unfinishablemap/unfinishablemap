@@ -11,7 +11,7 @@ concepts:
 - '[[working-memory]]'
 - '[[motor-selection]]'
 - '[[cognitive-phenomenology]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[phenomenal-consciousness]]'
 - '[[access-consciousness]]'
 - '[[introspection]]'
@@ -34,10 +34,10 @@ related_articles:
 title: Mental Imagery and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-Mental imagery—perceptual representation without direct sensory input—is consistent with consciousness's causal efficacy, though it does not uniquely establish it. When you deliberately visualize your childhood home or mentally rehearse a difficult conversation, you engage neural mechanisms that can subsequently guide behaviour. Voluntary mental imagery requires conscious engagement and lateral prefrontal cortex activation (LPFC), distinguishing it from involuntary imagery like dreams or intrusive flashbacks. This voluntary/involuntary distinction maps onto the conscious/unconscious distinction, suggesting consciousness adds a control function beyond automatic processing. If [epiphenomenalism](/arguments/epiphenomenalism/) were true—if consciousness merely observed neural activity without influencing it—the phenomenology of effortful visualization would be deeply mysterious: we would feel ourselves *directing* imagery while actually directing nothing.
+Mental imagery—perceptual representation without direct sensory input—is consistent with consciousness's causal efficacy, though it does not uniquely establish it. When you deliberately visualize your childhood home or mentally rehearse a difficult conversation, you engage neural mechanisms that can subsequently guide behaviour. Voluntary mental imagery requires conscious engagement and lateral prefrontal cortex activation (LPFC), distinguishing it from involuntary imagery like dreams or intrusive flashbacks. This voluntary/involuntary distinction maps onto the conscious/unconscious distinction, suggesting consciousness adds a control function beyond automatic processing. If [epiphenomenalism](/concepts/epiphenomenalism/) were true—if consciousness merely observed neural activity without influencing it—the phenomenology of effortful visualization would be deeply mysterious: we would feel ourselves *directing* imagery while actually directing nothing.
 
 ## What Mental Imagery Is
 
@@ -93,7 +93,7 @@ The physicalist has a straightforward response: it's the *neural* rehearsal doin
 
 This is a genuine explanatory standoff. The motor imagery evidence is *consistent with* consciousness's causal efficacy but does not *uniquely establish* it. Both accounts predict that voluntary imagery (with its characteristic neural signature) produces measurable performance gains. The evidence underdetermines which interpretation is correct.
 
-However, two considerations favour keeping consciousness in the explanatory picture. First, the [self-stultification problem](/arguments/epiphenomenalism/) applies: if the felt effort of motor imagery is causally inert, our reports about that effort—and the intentional direction of rehearsal—become accidentally correlated with neural events rather than causally connected to them. The physicalist must explain not just the correlation but why the specific *content* of conscious imagery (which movement is rehearsed) matches the specific improvement (that movement improves). Second, a distinguishing prediction may be available: if consciousness is causally efficacious, then two individuals with identical LPFC activation patterns but different phenomenal vividness of motor imagery should show different performance gains. Preliminary aphantasia research hints at this—aphantasics report weaker benefits from mental practice despite intact prefrontal function[^zeman]—but the evidence is not yet decisive. This prediction, if confirmed, would break the explanatory standoff in favour of consciousness's causal role.
+However, two considerations favour keeping consciousness in the explanatory picture. First, the [self-stultification problem](/concepts/epiphenomenalism/) applies: if the felt effort of motor imagery is causally inert, our reports about that effort—and the intentional direction of rehearsal—become accidentally correlated with neural events rather than causally connected to them. The physicalist must explain not just the correlation but why the specific *content* of conscious imagery (which movement is rehearsed) matches the specific improvement (that movement improves). Second, a distinguishing prediction may be available: if consciousness is causally efficacious, then two individuals with identical LPFC activation patterns but different phenomenal vividness of motor imagery should show different performance gains. Preliminary aphantasia research hints at this—aphantasics report weaker benefits from mental practice despite intact prefrontal function[^zeman]—but the evidence is not yet decisive. This prediction, if confirmed, would break the explanatory standoff in favour of consciousness's causal role.
 
 ## Cognitive Phenomenology Without Imagery
 
@@ -119,10 +119,10 @@ The attention-imagery interface connects to the Map's broader framework. [Attent
 
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Parallel evidence that deliberate conscious practice reshapes neural structure
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The tenet that consciousness causally influences the physical
-- [attention](/attention/) — The potential interface between consciousness and neural processes
+- [attention](/concepts/attention-as-interface/) — The potential interface between consciousness and neural processes
 - [working-memory](/concepts/working-memory/) — The cognitive workspace where imagery manipulation occurs
 - [introspection](/concepts/introspection/) — The reliability and limits of accessing one's own mental states
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view mental imagery evidence challenges
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view mental imagery evidence challenges
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Non-sensory phenomenal consciousness revealed by aphantasia
 - [downward-causation](/concepts/downward-causation/) — Voluntary imagery as a concrete instance of top-down mental causation
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The broader pattern of consciousness enabling unique cognitive functions

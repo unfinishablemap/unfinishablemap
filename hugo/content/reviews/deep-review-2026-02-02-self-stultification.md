@@ -55,7 +55,7 @@ None. The article is well-structured with no factual errors, attribution problem
 - [argument-from-reason](/topics/argument-from-reason/) in reliabilist section
 - [knowledge-argument](/concepts/knowledge-argument/) in functionalist section
 - [philosophical-zombies](/concepts/philosophical-zombies/) in functionalist section
-- [free-will](/concepts/free-will/) in Further Reading
+- [free-will](/topics/free-will/) in Further Reading
 
 ## Remaining Items
 

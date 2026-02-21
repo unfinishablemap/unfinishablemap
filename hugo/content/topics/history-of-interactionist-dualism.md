@@ -8,7 +8,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[dualism]]'
 - '[[causal-closure]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 - '[[emergence]]'
 - '[[mental-causation]]'
@@ -30,7 +30,7 @@ related_articles:
 title: History of Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Interactionist dualism—the view that mind and body are distinct yet causally connected—has evolved through three centuries of philosophical challenge and response. Descartes established the position in the 1640s; Princess Elizabeth immediately identified its central difficulty; Leibniz seemingly closed the case with conservation arguments in the 1690s. The view entered eclipse in the twentieth century, abandoned by most philosophers as incompatible with physics. Yet quantum mechanics has reopened possibilities that Leibniz thought definitively closed. The history of this debate reveals how scientific developments can transform philosophical problems rather than simply settling them.
@@ -82,13 +82,13 @@ Jaegwon Kim's causal exclusion argument crystallized the problem for any view ac
 3. Mental causes don't systematically overdetermine effects
 4. Therefore mental causes must be physical causes
 
-Dualists faced a dilemma: either mental causation is illusory ([epiphenomenalism](/arguments/epiphenomenalism/)), or causal closure is false. Neither option seemed viable. Epiphenomenalism makes consciousness a useless passenger; denying causal closure seems to conflict with physics.
+Dualists faced a dilemma: either mental causation is illusory ([epiphenomenalism](/concepts/epiphenomenalism/)), or causal closure is false. Neither option seemed viable. Epiphenomenalism makes consciousness a useless passenger; denying causal closure seems to conflict with physics.
 
 ## The Quantum Opening (1930s–Present)
 
 Quantum mechanics disrupted the assumptions underlying Leibniz's objection. The theory, developed in the 1920s–1930s, describes physical systems in superposition—simultaneously in multiple states—until measurement collapses them to definite outcomes. Crucially, quantum mechanics specifies probabilities for outcomes but not which outcome occurs. Physics is fundamentally indeterministic.
 
-John von Neumann's *Mathematical Foundations of Quantum Mechanics* (1932) gave the observer a special role. His formalism distinguished between continuous unitary evolution (the Schrödinger equation) and discontinuous collapse upon measurement. But what constitutes a "measurement"? What causes collapse? Orthodox quantum mechanics left this open—the [measurement-problem](/concepts/measurement-problem/) remains unsolved. The [structural parallel between the measurement problem and the hard problem of consciousness](/consciousness-and-quantum-measurement/) suggests both problems may share the same root: both concern where first-person facts enter third-person descriptions.
+John von Neumann's *Mathematical Foundations of Quantum Mechanics* (1932) gave the observer a special role. His formalism distinguished between continuous unitary evolution (the Schrödinger equation) and discontinuous collapse upon measurement. But what constitutes a "measurement"? What causes collapse? Orthodox quantum mechanics left this open—the [measurement-problem](/concepts/measurement-problem/) remains unsolved. The [structural parallel between the measurement problem and the hard problem of consciousness](/topics/quantum-measurement-consciousness-interface/) suggests both problems may share the same root: both concern where first-person facts enter third-person descriptions.
 
 Eugene Wigner explored the implications in "Remarks on the Mind-Body Question" (1961). He suggested consciousness itself might cause collapse. This was speculative, but it identified a specific locus where physics leaves room for non-physical causation. If consciousness determines which quantum outcome actualizes, mental causation operates not by injecting energy but by selecting among possibilities physics leaves undetermined.
 
@@ -138,7 +138,7 @@ The Unfinishable Map's [tenets](/tenets/) embody the interactionist position as 
 
 The **Dualism tenet** affirms what Descartes established: consciousness is not reducible to physical processes. The arguments for this—the [explanatory-gap](/concepts/explanatory-gap/), the [knowledge-argument](/concepts/knowledge-argument/), the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/)—have only strengthened as neuroscience advances without dissolving the hard problem.
 
-The **Bidirectional Interaction tenet** affirms what Elizabeth questioned: consciousness causally influences the physical world. The [self-stultification argument](/arguments/epiphenomenalism/) shows that denying this leads to incoherence—we could not reliably discuss consciousness if consciousness caused nothing.
+The **Bidirectional Interaction tenet** affirms what Elizabeth questioned: consciousness causally influences the physical world. The [self-stultification argument](/concepts/epiphenomenalism/) shows that denying this leads to incoherence—we could not reliably discuss consciousness if consciousness caused nothing.
 
 The **Minimal Quantum Interaction tenet** specifies how interaction might occur in light of what quantum mechanics revealed: by biasing otherwise indeterminate outcomes, not by injecting energy. This answers Leibniz's objection while preserving everything physics has established about conservation.
 

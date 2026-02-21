@@ -28,7 +28,7 @@ related_articles:
 title: 'The Brain Specialness Problem: Why Not Psychokinesis?'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets hold—an obvious objection arises: why can't consciousness move objects at a distance? Why can't minds bias external random number generators, influence other people's thoughts, or bend spoons? If mind affects matter in the brain, what stops it from affecting matter everywhere?
@@ -79,7 +79,7 @@ The interface with your brain exists because development and evolution built it.
 
 ### Attention Scope
 
-[Attention](/attention/) is neurally implemented through frontoparietal network activation, increased gain on specific neural populations, and inhibition of competitors. The quantum Zeno mechanism operates through attention—repeated observation stabilising quantum states.
+[Attention](/concepts/attention-as-interface/) is neurally implemented through frontoparietal network activation, increased gain on specific neural populations, and inhibition of competitors. The quantum Zeno mechanism operates through attention—repeated observation stabilising quantum states.
 
 But attention has scope. You can attend to your motor planning, your perceptual representations, your inner speech. You cannot attend, in the neural sense, to a random number generator in another building. There's no neural pathway for such attention to travel.
 
@@ -114,7 +114,7 @@ Three responses:
 
 The brain specialness boundary isn't a minor technical point. It addresses a fundamental challenge to [interactionist-dualism](/concepts/interactionist-dualism/):
 
-If consciousness affects nothing, [epiphenomenalism](/arguments/epiphenomenalism/) follows—but epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness).
+If consciousness affects nothing, [epiphenomenalism](/concepts/epiphenomenalism/) follows—but epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness).
 
 If consciousness affects everything, parapsychology follows—but parapsychological effects aren't reliably demonstrated.
 
@@ -154,7 +154,7 @@ None of these has occurred. The current framework remains consistent with availa
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
-- [attention](/attention/) — How attention implements observation
+- [attention](/concepts/attention-as-interface/) — How attention implements observation
 - [filter-theory](/concepts/filter-theory/) — Consciousness as filtered through the brain
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why consciousness doesn't violate conservation laws
 - [embodied-cognition](/concepts/embodied-cognition/) — The role of embodiment in consciousness

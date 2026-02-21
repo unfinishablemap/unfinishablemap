@@ -8,13 +8,13 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[dualism]]'
 - '[[qualia]]'
-- '[[epiphenomenalism]]'
-- '[[functionalism]]'
+- '[[concepts/epiphenomenalism]]'
+- '[[concepts/functionalism]]'
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
 - '[[explanatory-gap]]'
 - '[[reductionism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[binding-problem]]'
@@ -57,7 +57,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[mysterianism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[integrated-information-theory]]'
 - '[[integrated-information-theory-critique]]'
 - '[[quantum-consciousness]]'
@@ -140,7 +140,7 @@ The [binding problem](/concepts/binding-problem/) presents another dimension of 
 
 Classical approaches—neural synchrony, global workspace broadcasting—propose mechanisms where separate processes interact. But interaction doesn't explain unity. Synchronized firing is still firing in separate neurons. The phenomenal question remains: why does combination *feel* unified?
 
-This may be where [quantum approaches](/concepts/quantum-consciousness/) become relevant, since quantum entanglement produces genuine physical holism. The [structural parallel between the hard problem and the measurement problem](/consciousness-and-quantum-measurement/)—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [binding-problem](/concepts/binding-problem/) for detailed treatment and [decoherence](/concepts/decoherence/) for the quantum biology evidence.
+This may be where [quantum approaches](/concepts/quantum-consciousness/) become relevant, since quantum entanglement produces genuine physical holism. The [structural parallel between the hard problem and the measurement problem](/topics/quantum-measurement-consciousness-interface/)—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [binding-problem](/concepts/binding-problem/) for detailed treatment and [decoherence](/concepts/decoherence/) for the quantum biology evidence.
 
 ## The Pairing Problem: Why This Mind with This Body?
 
@@ -193,7 +193,7 @@ Research on [neural correlates of consciousness (NCC)](/concepts/neural-correlat
 
 ### Materialist Responses
 
-[Materialism](/arguments/materialism/) offers several responses, none satisfying:
+[Materialism](/concepts/materialism/) offers several responses, none satisfying:
 
 **Eliminativism** denies the explanandum—but this denies what is most evident: that there is something it is like to read these words.
 
@@ -203,17 +203,17 @@ Research on [neural correlates of consciousness (NCC)](/concepts/neural-correlat
 
 **[Predictive processing](/concepts/predictive-processing/)** explains much about cognitive mechanisms, yet even proponents acknowledge it "makes no claims about subjective experience." Explaining that perception is predictive doesn't explain why prediction feels like anything.
 
-See [materialism](/arguments/materialism/) for detailed treatment of each position.
+See [materialism](/concepts/materialism/) for detailed treatment of each position.
 
 ### Substrate Independence Fails
 
-If the explanatory gap is real, [substrate independence](/substrate-independence-critique/) is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
+If the explanatory gap is real, [substrate independence](/concepts/substrate-independence/) is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
 
-Block's China brain illustrates: the entire population implementing a brain's functional organization. Is China conscious? If implementing causal structure doesn't suffice for the China brain, why should it suffice for silicon? See [substrate-independence-critique](/substrate-independence-critique/) for the full argument.
+Block's China brain illustrates: the entire population implementing a brain's functional organization. Is China conscious? If implementing causal structure doesn't suffice for the China brain, why should it suffice for silicon? See [substrate-independence-critique](/concepts/substrate-independence/) for the full argument.
 
 ### Epiphenomenalism
 
-[Epiphenomenalism](/arguments/epiphenomenalism/) accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. See the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+[Epiphenomenalism](/concepts/epiphenomenalism/) accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. See the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
 ### Integrated Information Theory
 
@@ -221,11 +221,11 @@ Block's China brain illustrates: the entire population implementing a brain's fu
 
 Does this solve the hard problem? Critics argue it merely relocates the mystery: instead of asking "why does this physical process produce experience?" we ask "why is integrated information identical to experience?" The explanatory gap reappears at a different level.
 
-The [Map's critique of IIT](/topics/integrated-information-theory-critique/) identifies deeper problems. First, identity makes consciousness passive—if consciousness *is* integrated information rather than something that *acts on* physical systems, it faces the same self-undermining objection as epiphenomenalism: our beliefs about experience are caused entirely by physics, with no input from experience itself. Second, IIT calculates Φ at instants, yet consciousness extends through time—the specious present spans 1-3 seconds. This temporal gap means IIT cannot explain the phenomenology this article's own [temporal section](//#temporal-phenomenology) describes.
+The [Map's critique of IIT](/topics/integrated-information-theory-critique/) identifies deeper problems. First, identity makes consciousness passive—if consciousness *is* integrated information rather than something that *acts on* physical systems, it faces the same self-undermining objection as epiphenomenalism: our beliefs about experience are caused entirely by physics, with no input from experience itself. Second, IIT calculates Φ at instants, yet consciousness extends through time—the specious present spans 1-3 seconds. This temporal gap means IIT cannot explain the phenomenology this article's own [temporal section](#temporal-phenomenology) describes.
 
 ### Chalmers' Psychophysical Framework
 
-Chalmers proposes that consciousness requires new *fundamental laws*—psychophysical principles bridging phenomenal and physical domains. His three principles (Structural Coherence, Organizational Invariance, Double-Aspect Information) specify constraints on what a solution would look like. In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and McQueen develop a quantum version where consciousness resists superposition. The Map's [psychophysical-coupling](/psychophysical-coupling/) builds on this framework.
+Chalmers proposes that consciousness requires new *fundamental laws*—psychophysical principles bridging phenomenal and physical domains. His three principles (Structural Coherence, Organizational Invariance, Double-Aspect Information) specify constraints on what a solution would look like. In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and McQueen develop a quantum version where consciousness resists superposition. The Map's [psychophysical-coupling](/concepts/psychophysical-laws/) builds on this framework.
 
 ### Russellian Monism
 
@@ -277,8 +277,8 @@ If consciousness is not reducible to physics, how might mind and matter interact
 ### On the Map
 - [dualism](/concepts/dualism/) — Foundational overview: what dualism claims, main varieties, and converging arguments
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
-- [materialism](/arguments/materialism/) — Why physicalist explanations fail
-- [substrate-independence-critique](/substrate-independence-critique/) — Why the hard problem entails substrate skepticism
+- [materialism](/concepts/materialism/) — Why physicalist explanations fail
+- [substrate-independence-critique](/concepts/substrate-independence/) — Why the hard problem entails substrate skepticism
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes only structure, leaving intrinsic nature unknowable

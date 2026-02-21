@@ -27,7 +27,7 @@ None. The article had no factual errors, attribution errors, internal contradict
 
 ### Medium Issues Found and Addressed
 
-1. **Underdeveloped quantum selection claim** (Quantum Skeptic): The original text mentioned consciousness selecting among superposed neural possibilities (line 65) only once in the zombie section, without explanation or integration. **Resolution**: Added dedicated subsection "Quantum Selection in Creative Choice" that explains the mechanism, links to [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), and clarifies this is speculative but provides a specific account of how phenomenal states might do causal work.
+1. **Underdeveloped quantum selection claim** (Quantum Skeptic): The original text mentioned consciousness selecting among superposed neural possibilities (line 65) only once in the zombie section, without explanation or integration. **Resolution**: Added dedicated subsection "Quantum Selection in Creative Choice" that explains the mechanism, links to [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), and clarifies this is speculative but provides a specific account of how phenomenal states might do causal work.
 
 2. **MWI characterisation needed correction** (MWI Defender): Original text (lines 127-128) claimed Many-Worlds "eliminates genuine selection" and makes creative choice "an illusion." This mischaracterises MWI—selection does happen in each branch. **Resolution**: Revised to acknowledge MWI defenders' position while clarifying the Map's different perspective: that the phenomenology of creative choice presupposes unchosen possibilities genuinely don't actualise, not just that they actualise in other branches.
 

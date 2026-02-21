@@ -12,7 +12,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[delegatory-dualism]]'
 - '[[mental-causation]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 - '[[stapp-quantum-mind]]'
 - '[[quantum-indeterminacy-free-will]]'
@@ -61,7 +61,7 @@ The causal closure argument against [mental-causation](/concepts/mental-causatio
 2. Therefore, mental events cannot add anything—physical causes already suffice
 3. Therefore, if mental events cause physical effects, they overdetermine outcomes already physically determined
 
-If this argument worked, interactionist dualism would require either accepting [epiphenomenalism](/arguments/epiphenomenalism/) (consciousness causes nothing) or accepting systematic overdetermination (two sufficient causes for every conscious action).
+If this argument worked, interactionist dualism would require either accepting [epiphenomenalism](/concepts/epiphenomenalism/) (consciousness causes nothing) or accepting systematic overdetermination (two sufficient causes for every conscious action).
 
 The observational/universal distinction reveals a gap in the argument. Premise (1) claims universal closure, but the evidence only supports observational closure. The argument equivocates between what physics has established empirically (no observable violations) and what the argument requires metaphysically (no violations anywhere).
 
@@ -119,7 +119,7 @@ Observational closure delineates the domain where causal closure applies (observ
 
 ## Relation to Cognitive Closure
 
-[Cognitive closure](/cognitive-closure/) (McGinn) is a distinct concept: the thesis that certain properties lie permanently beyond human conceptual reach. McGinn's closure is *epistemic*—about what we can know or conceive. Saad's observational closure is *methodological*—about what experiments can detect.
+[Cognitive closure](/concepts/mysterianism/) (McGinn) is a distinct concept: the thesis that certain properties lie permanently beyond human conceptual reach. McGinn's closure is *epistemic*—about what we can know or conceive. Saad's observational closure is *methodological*—about what experiments can detect.
 
 The two closures may interact. If consciousness-physics interface involves properties we are cognitively closed to (McGinn's property P), we might be unable even to formulate tests that would reveal observational violations. Our experimental paradigms might be structured by our cognitive limitations in ways that preclude detecting mental causation.
 
@@ -144,8 +144,8 @@ The distinction between observational and universal closure is a key dialectical
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The view observational closure makes defensible
 - [mental-causation](/concepts/mental-causation/) — What observational closure allows
 - [quantum-consciousness](/concepts/quantum-consciousness/) — One mechanism satisfying observational closure
-- [cognitive-closure](/cognitive-closure/) — A distinct epistemic concept
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view observational closure is not
+- [cognitive-closure](/concepts/mysterianism/) — A distinct epistemic concept
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view observational closure is not
 
 ## References
 

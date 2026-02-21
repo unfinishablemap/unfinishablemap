@@ -22,7 +22,7 @@ concepts:
 - '[[quantum-neural-mechanisms]]'
 - '[[quantum-biology]]'
 - '[[mysterianism]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[argument-from-reason]]'
 - '[[explanatory-gap]]'
@@ -71,7 +71,7 @@ Decoherence explains why we don't observe superpositions—interference effects 
 
 As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach." The dedicated [measurement problem article](/concepts/measurement-problem/) explores the various interpretations (Copenhagen, Many-Worlds, GRW, Bohmian, consciousness-based) and why The Unfinishable Map rejects Many-Worlds while remaining open to consciousness-based approaches.
 
-This distinction—between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes)—is crucial and often missed. Decoherence explains why we observe position eigenstates rather than momentum eigenstates, for instance, but it does not explain why we observe *this particular position* rather than that one. The measurement problem persists after decoherence. See [quantum-measurement-and-definite-outcomes](/quantum-measurement-and-definite-outcomes/) for extended analysis of this gap and how consciousness might fill it. The [synthesis of the measurement problem and hard problem](/consciousness-and-quantum-measurement/) develops this further: both concern where first-person facts enter third-person descriptions.
+This distinction—between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes)—is crucial and often missed. Decoherence explains why we observe position eigenstates rather than momentum eigenstates, for instance, but it does not explain why we observe *this particular position* rather than that one. The measurement problem persists after decoherence. See [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/) for extended analysis of this gap and how consciousness might fill it. The [synthesis of the measurement problem and hard problem](/topics/quantum-measurement-consciousness-interface/) develops this further: both concern where first-person facts enter third-person descriptions.
 
 This matters for the Map's perspective. If decoherence fully explained measurements, consciousness would have no role. But decoherence merely establishes preferred bases—it doesn't collapse them. Something must select which outcome occurs. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting.
 
@@ -83,7 +83,7 @@ In 2000, physicist Max Tegmark published an influential calculation claiming tha
 
 Hameroff and colleagues challenged Tegmark's analysis on multiple grounds (Hagan et al., 2002). Tegmark addressed a hybrid model rather than actual Orch OR, assumed superposition separations of 24 nanometers instead of the smaller distances the theory specifies, and made questionable assumptions about charge interactions and dielectric constants.
 
-After correcting these parameters, Hameroff's group obtained decoherence times of **10⁻⁵ to 10⁻⁴ seconds** (tens to hundreds of microseconds)—**seven orders of magnitude longer** than Tegmark calculated. Several protective mechanisms may extend coherence further: Debye layer screening from counterions, actin gel ordering that enhances water structure, hydrophobic interior environments, and potential quantum error correction from microtubule lattice geometry. The [four proposed protection mechanisms](/quantum-coherence-and-binding-evidence/) may work cumulatively.
+After correcting these parameters, Hameroff's group obtained decoherence times of **10⁻⁵ to 10⁻⁴ seconds** (tens to hundreds of microseconds)—**seven orders of magnitude longer** than Tegmark calculated. Several protective mechanisms may extend coherence further: Debye layer screening from counterions, actin gel ordering that enhances water structure, hydrophobic interior environments, and potential quantum error correction from microtubule lattice geometry. The [four proposed protection mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) may work cumulatively.
 
 ### Revised Timescale Requirements
 
@@ -212,7 +212,7 @@ The Map's position on decoherence would face serious difficulty if:
 
 3. **Neural quantum effects are conclusively ruled out**: If experiments definitively demonstrate that no quantum effects survive in neural tissue—not in microtubules, not in nuclear spins, not anywhere—the physical basis for quantum consciousness collapses. Current evidence is mixed but increasingly favourable; a decisive negative result would require major revision.
 
-4. **Many-Worlds becomes the consensus interpretation**: While MWI and Copenhagen are empirically equivalent under standard formulations, if physicists converged on MWI as the correct interpretation—perhaps through theoretical parsimony or derivation of the Born rule—then all outcomes occur and "selection" becomes illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would fail. The [Many-Worlds Interpretation](/arguments/many-worlds/) dissolves the role of consciousness in outcome selection: if all outcomes happen, consciousness doesn't select anything—it merely labels after the fact which branch "we" are in. This makes [Bidirectional Interaction](/tenets/#bidirectional-interaction) incoherent.
+4. **Many-Worlds becomes the consensus interpretation**: While MWI and Copenhagen are empirically equivalent under standard formulations, if physicists converged on MWI as the correct interpretation—perhaps through theoretical parsimony or derivation of the Born rule—then all outcomes occur and "selection" becomes illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would fail. The [Many-Worlds Interpretation](/concepts/many-worlds/) dissolves the role of consciousness in outcome selection: if all outcomes happen, consciousness doesn't select anything—it merely labels after the fact which branch "we" are in. This makes [Bidirectional Interaction](/tenets/#bidirectional-interaction) incoherent.
 
 5. **Decoherence solves the measurement problem**: If a fully satisfactory account of definite outcomes emerges that requires only decoherence (no consciousness, no objective collapse, no hidden variables), the logical opening for consciousness at collapse closes. Current physics doesn't provide this—decoherence selects bases, not outcomes—but future developments could change the landscape.
 
@@ -230,7 +230,7 @@ This article surveys four responses:
 
 **Fourth**, corrected calculations and revised timescale requirements substantially narrow the gap. Tegmark's original critique rested on parameters that Orch OR does not assume, and Bandyopadhyay's discovery of higher-frequency microtubule oscillations reduces required coherence times to ranges approaching experimental feasibility.
 
-The neural decision windows (280–300ms) are precisely the timescales where [free-will](/concepts/free-will/) would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [agent-causation](/concepts/agent-causation/)—genuine authorship of decisions rather than passive observation of predetermined neural activity. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism.
+The neural decision windows (280–300ms) are precisely the timescales where [free-will](/topics/free-will/) would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [agent-causation](/concepts/agent-causation/)—genuine authorship of decisions rather than passive observation of predetermined neural activity. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism.
 
 The decoherence objection is a serious empirical challenge, not a philosophical refutation. Recent experiments have weakened it considerably. The quantum-classical boundary keeps receding, and no principled barrier has been found. The Map's tenets remain defensible: consciousness operating at quantum indeterminacies is not ruled out by current physics.
 
@@ -238,19 +238,19 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 
 ## Further Reading
 
-- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions for the interface
+- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions for the interface
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Full analysis of timing hierarchy from femtosecond decoherence to 300ms decision windows
-- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Five proposed neural quantum mechanisms and their current evidence status
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed neural quantum mechanisms and their current evidence status
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
-- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Protection mechanisms, coherence evidence, and cumulative effects
+- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Protection mechanisms, coherence evidence, and cumulative effects
 - [quantum-biology](/concepts/quantum-biology/) — Comprehensive coverage of biological quantum effects
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention relates to the quantum Zeno mechanism
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to consciousness studies
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of human understanding
-- [many-worlds](/arguments/many-worlds/) — Arguments against the interpretation that dissolves the measurement problem differently
-- [free-will](/concepts/free-will/) — How quantum indeterminacy might ground libertarian agency
+- [many-worlds](/concepts/many-worlds/) — Arguments against the interpretation that dissolves the measurement problem differently
+- [free-will](/topics/free-will/) — How quantum indeterminacy might ground libertarian agency
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought may require consciousness to have causal efficacy
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
 - [tenets](/tenets/) — the Map's foundational commitments

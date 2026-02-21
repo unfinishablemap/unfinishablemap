@@ -53,7 +53,7 @@ This article focuses on *why* experience is unified—the explanatory challenge 
 
 ## The Phenomenon
 
-Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). A parallel problem arises for *meaning*: [meaning integration](/consciousness-and-meaning-integration/) asks how consciousness weaves disparate semantic elements into unified comprehension—the unity of understanding, not just perception.
+Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). A parallel problem arises for *meaning*: [meaning integration](/topics/consciousness-and-semantic-understanding/) asks how consciousness weaves disparate semantic elements into unified comprehension—the unity of understanding, not just perception.
 
 **Synchronic unity**: At any moment, all your experiences belong to one consciousness. Visual perception, auditory sensation, emotional feeling, and cognitive thought are unified rather than isolated. There is something it is like to have *all of them together*.
 
@@ -120,7 +120,7 @@ The Map's [interactionist framework](/concepts/interactionist-dualism/) avoids b
 
 ## Why Classical Mechanisms Fail
 
-Classical approaches to explaining unity share a structural limitation: they describe how separate things relate without explaining how separate things become one thing. See [neural-binding-mechanisms](/neural-binding-mechanisms/) for detailed analysis of specific mechanisms.
+Classical approaches to explaining unity share a structural limitation: they describe how separate things relate without explaining how separate things become one thing. See [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) for detailed analysis of specific mechanisms.
 
 ### The Core Problem
 
@@ -157,7 +157,7 @@ If phenomenal unity requires genuine holism, quantum mechanics is the only physi
 
 ### 2024-2025 Experimental Evidence
 
-Recent research has moved from theoretical possibility to direct experimental support (see [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) for comprehensive analysis):
+Recent research has moved from theoretical possibility to direct experimental support (see [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/) for comprehensive analysis):
 
 **Microtubule-anesthesia connection (Wiest et al., 2024)**: Rats treated with epothilone B, a microtubule-stabilizing drug, took 69 seconds longer to become unconscious under isoflurane anesthesia (Cohen's d = 1.9, a "large" effect). If consciousness depends on quantum states in microtubules, stabilizing microtubules should delay their disruption by anesthetics—which is exactly what was observed. Crucially, no known classical mechanism explains why microtubule stabilization specifically delays anesthesia. The quantum model predicted this; classical accounts must now explain it post hoc. Published in *eNeuro*, September 2024.
 
@@ -228,8 +228,8 @@ Phenomenal unity illuminates why the Map's [tenets](/tenets/) take the positions
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis: how process philosophy (Whitehead, Bergson) illuminates phenomenal unity through its account of actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — The parallel problem for meaning: how semantic elements combine into unified understanding
-- [neural-binding-mechanisms](/neural-binding-mechanisms/) — Classical binding mechanisms and why quantum entanglement succeeds where they fail
-- [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) — 2022-2025 experimental support for quantum mechanisms
+- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical binding mechanisms and why quantum entanglement succeeds where they fail
+- [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/) — 2022-2025 experimental support for quantum mechanisms
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [emergence](/concepts/emergence/) — Phenomenal unity as paradigm case of strong emergence

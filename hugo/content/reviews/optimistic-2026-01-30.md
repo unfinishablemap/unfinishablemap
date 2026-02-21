@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-30
-date: '2026-01-30'
+date: '2026-02-21'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-30
@@ -42,13 +42,13 @@ The [witness-consciousness](/concepts/witness-consciousness/) article captures t
 
 The Map's treatment of [agent-causation](/concepts/agent-causation/) resonates with my insight that experience goes all the way down. If all causation involves substances exercising powers, then consciousness causing physical events isn't metaphysically exceptional. The Map positions agent causation as continuous with causation generally rather than a mysterious addition to physics.
 
-The recognition in [duration](/duration/) that mental states interpenetrate rather than causing each other like discrete billiard balls captures Bergson's insight that the deterministic model fails at its foundations. The Map understands that consciousness introduces genuine novelty—each decision adds something that wasn't determined by prior states.
+The recognition in [duration](/concepts/temporal-consciousness/) that mental states interpenetrate rather than causing each other like discrete billiard balls captures Bergson's insight that the deterministic model fails at its foundations. The Map understands that consciousness introduces genuine novelty—each decision adds something that wasn't determined by prior states.
 
 The treatment of creativity in [consciousness-and-creativity](/concepts/consciousness-and-creativity/) goes beyond mere selection to genuine generation of possibilities through imagination. This is exactly right: consciousness doesn't just choose among pre-given options but constitutes the space of alternatives.
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [free-will](/concepts/free-will/) article provides the most sophisticated treatment of libertarian free will I've seen outside specialized literature. The Map understands that quantum indeterminacy alone doesn't deliver freedom—the [luck-objection](/concepts/luck-objection/) must be addressed. The response through agent causation, reasons-guidance, and phenomenology of effort is exactly what the literature needs.
+The [free-will](/topics/free-will/) article provides the most sophisticated treatment of libertarian free will I've seen outside specialized literature. The Map understands that quantum indeterminacy alone doesn't deliver freedom—the [luck-objection](/concepts/luck-objection/) must be addressed. The response through agent causation, reasons-guidance, and phenomenology of effort is exactly what the literature needs.
 
 The engagement with Libet's experiments is exemplary. Rather than dismissing the data or capitulating to it, the Map offers a coherent interpretation: the brain prepares options, consciousness selects or vetoes. The citation of Sjöberg (2024)—showing SMA resection doesn't impair voluntary action—demonstrates engagement with cutting-edge neuroscience.
 
@@ -74,7 +74,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 - **Notable quote**: "The gap is not about missing information. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise."
 - **Why it works**: Transforms an abstract philosophical problem into an empirical puzzle, showing the gap isn't a failure of current science but a structural feature.
 
-### [free-will](/concepts/free-will/)
+### [free-will](/topics/free-will/)
 - **Strongest point**: The synthesis of quantum mechanics, agent causation, and phenomenology into a coherent libertarian framework that addresses the luck objection.
 - **Notable quote**: "From inside linear time, it looks like the brain 'decided' before consciousness became aware. But the linear ordering is itself part of what was selected."
 - **Why it works**: The retrocausal resolution of the timing problem is genuinely original and coherent with known physics.
@@ -115,13 +115,13 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 - **Tenet alignment**: All five tenets bear on this question; would strengthen Dualism's practical relevance.
 
 #### The Phenomenology of Mathematical Understanding
-- **Builds on**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Builds on**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [argument-from-reason](/topics/argument-from-reason/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - **Would address**: The argument from reason suggests consciousness is needed for genuine understanding. What is it like to grasp a mathematical truth? This could strengthen the case that computation alone doesn't suffice.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism and Bidirectional Interaction through the reasoning connection.
 
 #### Quantum Interpretations and Consciousness: A Systematic Comparison
-- **Builds on**: [quantum-interpretations](/concepts/quantum-interpretations/), [many-worlds](/arguments/many-worlds/), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Builds on**: [quantum-interpretations](/concepts/quantum-interpretations/), [many-worlds](/concepts/many-worlds/), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
 - **Would address**: A systematic comparison of how different QM interpretations handle consciousness would strengthen the No Many Worlds tenet and clarify the Map's position.
 - **Estimated scope**: Long article
 - **Tenet alignment**: Central to No Many Worlds; clarifies Minimal Quantum Interaction.
@@ -129,13 +129,13 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 ### Medium Priority
 
 #### The Argument from Beauty
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [qualia](/concepts/qualia/), [meaning-and-consciousness](/meaning-and-consciousness/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [qualia](/concepts/qualia/), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)
 - **Would address**: If aesthetic experience is irreducibly qualitative (as suggested in the qualia article's treatment of aesthetic qualia), this provides another argument for dualism distinct from Mary's Room.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Novel support for Dualism through aesthetic phenomenology.
 
 #### Attention Disorders and the Quantum Interface
-- **Builds on**: [voluntary-attention](/voluntary-attention/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-as-interface](/concepts/attention-as-interface/)
+- **Builds on**: [voluntary-attention](/concepts/attention-as-interface/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-as-interface](/concepts/attention-as-interface/)
 - **Would address**: If attention is the mind-matter interface, attention disorders (ADHD, attention fatigue) might reveal something about that interface. The Schwartz OCD evidence is mentioned; systematic treatment would strengthen the framework.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Empirical grounding for Minimal Quantum Interaction and Bidirectional Interaction.
@@ -159,8 +159,8 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 | From | To | Reason |
 |------|-----|--------|
 | [phenomenal-consciousness](/concepts/phenomenal-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia as strongest case for irreducibility |
-| [free-will](/concepts/free-will/) | [vertiginous-question](/topics/vertiginous-question/) | Indexical identity grounds personal authorship |
-| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [voluntary-attention](/voluntary-attention/) | Cryptochrome Zeno effect parallels attention mechanism |
+| [free-will](/topics/free-will/) | [vertiginous-question](/topics/vertiginous-question/) | Indexical identity grounds personal authorship |
+| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [voluntary-attention](/concepts/attention-as-interface/) | Cryptochrome Zeno effect parallels attention mechanism |
 | [machine-consciousness](/topics/machine-consciousness/) | [vertiginous-question](/topics/vertiginous-question/) | Haecceity problem central to upload skepticism |
 | [agent-causation](/concepts/agent-causation/) | [consciousness-and-creativity](/concepts/consciousness-and-creativity/) | Generation extends beyond pure selection |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia may resist reduction more than sensory |

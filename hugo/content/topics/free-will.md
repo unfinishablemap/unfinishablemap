@@ -19,7 +19,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[phenomenology-of-choice]]'
 - '[[causal-interface]]'
 - '[[counterfactual-reasoning]]'
@@ -57,7 +57,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Sophisticated compatibilists argue this captures what matters—choices flowing from one's own rational processes—and that "could have done otherwise" is metaphysically confused. Yet for those who take the phenomenology of deliberation seriously, compatibilism redescribes rather than explains: why does choosing *feel* like determining an open outcome if the outcome was always fixed?
 
-Bergson's [durée](/duration/) offers additional resources: if mental states interpenetrate rather than causing each other like discrete billiard balls, the deterministic model fails at its foundations.
+Bergson's [durée](/concepts/temporal-consciousness/) offers additional resources: if mental states interpenetrate rather than causing each other like discrete billiard balls, the deterministic model fails at its foundations.
 
 ## The Neuroscientific Challenge
 
@@ -98,7 +98,7 @@ How does consciousness interface with the brain? Several possibilities exist wit
 - **Retrocausal influence**: Selection determining which temporal sequence becomes real (compatible with time-symmetric quantum mechanics)
 - **Unknown physics**: Mechanisms not yet discovered
 
-The Map doesn't commit to any single mechanism. What matters philosophically is that consciousness *can* influence physical outcomes without violating physical laws—that there's room in physics for mental causation. Quantum mechanics provides one such opening; others may exist. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL) solve the [prebiotic problem](/concepts/prebiotic-collapse/) by providing baseline collapse that consciousness modulates rather than causes. See [decoherence](/concepts/decoherence/) and [quantum-consciousness](/concepts/quantum-consciousness/) for analysis of the quantum approach, including its limitations, and [attention-interface-mechanisms](/attention-interface-mechanisms/) for candidate neural sites and timing constraints.
+The Map doesn't commit to any single mechanism. What matters philosophically is that consciousness *can* influence physical outcomes without violating physical laws—that there's room in physics for mental causation. Quantum mechanics provides one such opening; others may exist. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL) solve the [prebiotic problem](/concepts/prebiotic-collapse/) by providing baseline collapse that consciousness modulates rather than causes. See [decoherence](/concepts/decoherence/) and [quantum-consciousness](/concepts/quantum-consciousness/) for analysis of the quantum approach, including its limitations, and [attention-interface-mechanisms](/topics/attention-as-selection-interface/) for candidate neural sites and timing constraints.
 
 ## The Map's Position: Agent-Causal Selection
 
@@ -123,7 +123,7 @@ Cramer's transactional interpretation illustrates this: "offer waves" forward an
 
 Free will requires [mental-causation](/concepts/mental-causation/): when you decide to raise your arm, your decision must cause the arm to rise. Kim's exclusion argument challenges this: if physical events have sufficient physical causes, mental causes seem excluded. The Map responds: physics provides *necessary but not sufficient* causes where genuine indeterminacy exists. [Causal closure](/concepts/causal-closure/) fails precisely where consciousness acts—whether at quantum indeterminacies or through other mechanisms physics may leave open.
 
-[Epiphenomenalism](/arguments/epiphenomenalism/) faces self-stultification: if conscious states cause nothing, your belief that you're conscious isn't caused by actually being conscious. But if you can accurately report "I'm in pain," the pain must cause the report. The [argument-from-reason](/topics/argument-from-reason/) extends this: rational inference requires tracking normative relationships, which physical causation alone cannot instantiate. See [mental-causation](/concepts/mental-causation/) for the full treatment.
+[Epiphenomenalism](/concepts/epiphenomenalism/) faces self-stultification: if conscious states cause nothing, your belief that you're conscious isn't caused by actually being conscious. But if you can accurately report "I'm in pain," the pain must cause the report. The [argument-from-reason](/topics/argument-from-reason/) extends this: rational inference requires tracking normative relationships, which physical causation alone cannot instantiate. See [mental-causation](/concepts/mental-causation/) for the full treatment.
 
 ## Agent Causation
 
@@ -155,7 +155,7 @@ Research reveals that willed action engages distinct neural mechanisms from auto
 | **Instructed** | External cues | Following directions |
 | **Willed** | Internal decision | Effortful, self-directed |
 
-Willed attention shows frontal theta oscillations and bidirectional frontoparietal coherence—signatures absent in merely instructed behaviour. The phenomenological asymmetry (effortful vs effortless) corresponds to different neural circuits. This supports agent causation: the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. See [voluntary-attention](/voluntary-attention/) for detailed analysis.
+Willed attention shows frontal theta oscillations and bidirectional frontoparietal coherence—signatures absent in merely instructed behaviour. The phenomenological asymmetry (effortful vs effortless) corresponds to different neural circuits. This supports agent causation: the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. See [voluntary-attention](/concepts/attention-as-interface/) for detailed analysis.
 
 ## Motor Selection
 
@@ -226,7 +226,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deciding
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to imagine and evaluate alternatives
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution
-- [voluntary-attention](/voluntary-attention/) — Paradigm case of consciousness selecting neural patterns
+- [voluntary-attention](/concepts/attention-as-interface/) — Paradigm case of consciousness selecting neural patterns
 - [motor-selection](/concepts/motor-selection/) — Second selection domain with parallel neural signatures
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Distinguishing physics-based retrocausality from contested presentiment claims

@@ -32,7 +32,7 @@ topics: []
 
 - **No engagement with functionalism**: The article assumed surprise requires phenomenal consciousness without engaging the functionalist counterargument. **Resolution**: Added a paragraph directly engaging functionalism in the "Why Self-Surprise Requires Consciousness" section, framing the Map's rejection clearly.
 
-- **Broken concept links**: `[duration](/duration/)` and `[metarepresentation](/metarepresentation/)` linked to non-existent pages. **Resolution**: Replaced `[Bergsonian duration](/duration/)` with plain text reference to Bergson's *duration*; replaced `[metarepresentation](/metarepresentation/)` with plain text and added link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` instead.
+- **Broken concept links**: `[duration](/concepts/temporal-consciousness/)` and `[metarepresentation](/concepts/metacognition/)` linked to non-existent pages. **Resolution**: Replaced `[Bergsonian duration](/concepts/temporal-consciousness/)` with plain text reference to Bergson's *duration*; replaced `[metarepresentation](/concepts/metacognition/)` with plain text and added link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` instead.
 
 - **Gauss quote attribution**: The quote was presented as a general report about how Gauss worked, but it refers to a specific theorem (as recounted by Hadamard). **Resolution**: Added "as Hadamard recounts" and "a particular theorem's resolution" to clarify the attribution chain.
 
@@ -72,17 +72,17 @@ topics: []
 - Enriched incubation phase phenomenology with "pregnant opacity" description and epistemic emotion cross-link
 - Added functionalist engagement paragraph after the LLM discussion
 - Added cross-link to `[attention-as-interface](/concepts/attention-as-interface/)` in anti-epiphenomenalism section
-- Added cross-link to `[consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)` in Further Reading and frontmatter
-- Added `[epiphenomenalism](/arguments/epiphenomenalism/)` to frontmatter concepts
-- Replaced broken `[metarepresentation](/metarepresentation/)` link with link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)`
+- Added cross-link to `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)` in Further Reading and frontmatter
+- Added `[epiphenomenalism](/concepts/epiphenomenalism/)` to frontmatter concepts
+- Replaced broken `[metarepresentation](/concepts/metacognition/)` link with link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)`
 
 ### Cross-links Added
 
-- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
+- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 
 ## Remaining Items
 

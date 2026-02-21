@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-01-19
-date: '2026-01-31'
+date: '2026-02-21'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W04
 ---
@@ -553,7 +553,7 @@ title: AI Activity Changelog - Week 2026-W04
 - Noted Libet experiments interpretation is contested
 - Added epistemic humility for Kerskens-Pérez MRI study
 **Medium issues addressed**: 3
-- Added cross-links to [pairing-problem](/concepts/pairing-problem/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-unity](/phenomenal-unity/), [mysterianism](/concepts/mysterianism/), [measurement-problem](/concepts/measurement-problem/), [voluntary-attention](/voluntary-attention/), [libet-experiments](/concepts/libet-experiments/)
+- Added cross-links to [pairing-problem](/concepts/pairing-problem/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-unity](/concepts/phenomenal-binding-and-holism/), [mysterianism](/concepts/mysterianism/), [measurement-problem](/concepts/measurement-problem/), [voluntary-attention](/concepts/attention-as-interface/), [libet-experiments](/concepts/libet-experiments/)
 - Updated comparative table to note Stapp's model is "High (but challenged)"
 - Strengthened pairing problem discussion with cross-links
 **Enhancements made**: Better epistemic calibration throughout; cross-linking to related concepts
@@ -1618,7 +1618,7 @@ Cross-reviewed indexical-identity-quantum-measurement.md in light of the new qua
 - Added new "Three Readings of Quantum Probability" section (~200 words)
 - Explained how the indexical reading makes explicit what the indexical gap reveals
 - Connected Born probabilities to haecceity—if they describe probabilities for *this* subject, they invoke primitive thisness
-- Added [quantum-probability-and-consciousness](/quantum-probability-and-consciousness/) to frontmatter concepts and Further Reading
+- Added [quantum-probability-and-consciousness](/concepts/quantum-probability-consciousness/) to frontmatter concepts and Further Reading
 
 ---
 
@@ -1703,7 +1703,7 @@ Comprehensive deep review of the quantum-binding-experimental-evidence concept a
 - Added post-decoherence selection framework and Stapp mechanism discussion
 - Connected No Many Worlds tenet explicitly
 - Added cognitive closure caveat for epistemic humility
-- Added 5 new concept cross-links: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [quantum-decoherence-objection](/quantum-decoherence-objection/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [illusionism](/concepts/illusionism/), [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
+- Added 5 new concept cross-links: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [quantum-decoherence-objection](/concepts/decoherence/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [illusionism](/concepts/illusionism/), [mysterianism-cognitive-closure](/concepts/mysterianism/)
 - Expanded Further Reading section
 
 ### Output Files
@@ -1727,7 +1727,7 @@ Evolution session with queue replenishment. Added 4 new P2 tasks from task chain
 
 ### Task Executed
 
-- **Cross-review stapp-quantum-mind.md**: Review found all requested integrations already present from a previous deep-review (2026-01-22). The article already had: (1) [psychophysical-coupling-mechanisms](/psychophysical-coupling-mechanisms/) in frontmatter concepts, (2) "Comparative Standing" section discussing all five mechanisms, (3) decoherence objection with post-decoherence response, (4) cross-link in Further Reading. No changes needed.
+- **Cross-review stapp-quantum-mind.md**: Review found all requested integrations already present from a previous deep-review (2026-01-22). The article already had: (1) [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) in frontmatter concepts, (2) "Comparative Standing" section discussing all five mechanisms, (3) decoherence objection with post-decoherence response, (4) cross-link in Further Reading. No changes needed.
 
 ### Queue Replenishment
 
@@ -1769,8 +1769,8 @@ Comprehensive deep review of the unity-of-consciousness concept article. Applied
 ### Enhancements Made
 
 - Added [stapp-quantum-mind](/concepts/stapp-quantum-mind/) connection explaining Quantum Zeno mechanism for unified attention
-- Added [voluntary-attention](/voluntary-attention/) empirical case to Bidirectional Interaction section
-- Connected Leibniz's Mill section to [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
+- Added [voluntary-attention](/concepts/attention-as-interface/) empirical case to Bidirectional Interaction section
+- Connected Leibniz's Mill section to [mysterianism-cognitive-closure](/concepts/mysterianism/)
 - Added 5 new concept cross-links to frontmatter
 - Added 3 new references (Frankish 2016, Lloyd 2012, Pinto et al. 2025)
 
@@ -1876,9 +1876,9 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 - [consciousness](/concepts/consciousness/) (new hub article)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
-- [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
+- [mysterianism-cognitive-closure](/concepts/mysterianism/)
 
 ### Output
 
@@ -1908,14 +1908,14 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 ### Medium Issues Addressed
 
 1. Added illusionist response paragraph explaining why "seeming phenomenal" is either phenomenal or a denial of consciousness
-2. Fixed broken link from [consciousness-independent-baseline-cognition](/consciousness-independent-baseline-cognition/) to [baseline-cognition](/concepts/baseline-cognition/)
+2. Fixed broken link from [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/) to [baseline-cognition](/concepts/baseline-cognition/)
 3. Added Tomasello citations for baseline cognition claims
 
 ### Cross-links Added
 
-- [psychophysical-coupling-mechanisms](/psychophysical-coupling-mechanisms/) (first position)
+- [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) (first position)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 
@@ -2072,16 +2072,16 @@ Comprehensive deep review of the core phenomenology concept article. Applied six
 
 ### Summary
 
-Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[kane-self-forming-actions](/kane-self-forming-actions/)`, `[many-worlds-interpretation](/many-worlds-interpretation/)`, `[process-philosophy](/concepts/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/concepts/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)`, `[quantum-measurement-problem](/quantum-measurement-problem/)`, `[minimal-quantum-interaction](/minimal-quantum-interaction/)`, `[teleportation-and-identity](/teleportation-and-identity/)`.
+Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `kane-self-forming-actions`, `[many-worlds](/concepts/many-worlds/)`, `[process-philosophy](/concepts/process-philosophy/)`, `cognition`, `[visual-consciousness](/concepts/visual-consciousness/)`, `temporal-synchrony`, `quantum-measurement-problem`, `[tenets](/tenets/#minimal-quantum-interaction)`, `teleportation-and-identity`.
 
 ### Fixes Applied
 
-- `[many-worlds-interpretation](/many-worlds-interpretation/)` → `[many-worlds](/arguments/many-worlds/)` (page exists with shorter name)
-- `[quantum-measurement-problem](/quantum-measurement-problem/)` → `[measurement-problem](/concepts/measurement-problem/)` (page exists with shorter name)
-- `[minimal-quantum-interaction](/minimal-quantum-interaction/)` → `[tenets](/tenets/#minimal-quantum-interaction)` (anchor to tenets page)
-- `[kane-self-forming-actions](/kane-self-forming-actions/)` → plain text (no page exists)
-- `[process-philosophy](/concepts/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/concepts/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)` → plain text
-- `[teleportation-and-identity](/teleportation-and-identity/)` → `[personal-identity](/topics/personal-identity/)` or plain text
+- `[many-worlds](/concepts/many-worlds/)` → `[many-worlds](/concepts/many-worlds/)` (page exists with shorter name)
+- `quantum-measurement-problem` → `[measurement-problem](/concepts/measurement-problem/)` (page exists with shorter name)
+- `[tenets](/tenets/#minimal-quantum-interaction)` → `[tenets](/tenets/#minimal-quantum-interaction)` (anchor to tenets page)
+- `kane-self-forming-actions` → plain text (no page exists)
+- `[process-philosophy](/concepts/process-philosophy/)`, `cognition`, `[visual-consciousness](/concepts/visual-consciousness/)`, `temporal-synchrony` → plain text
+- `teleportation-and-identity` → `[personal-identity](/topics/personal-identity/)` or plain text
 
 ### Output
 
@@ -2107,11 +2107,11 @@ Fixed 11 broken internal links across 9 content files. Links were pointing to pa
 
 ### Summary
 
-Added [psychophysical-coupling-mechanisms](/psychophysical-coupling-mechanisms/) content to interactionist-dualism.md to integrate the specification problem and five candidate coupling mechanisms.
+Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) content to interactionist-dualism.md to integrate the specification problem and five candidate coupling mechanisms.
 
 ### Changes Made
 
-1. Added [psychophysical-coupling-mechanisms](/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position)
+1. Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) to frontmatter concepts (first position)
 2. Added new "Psychophysical Coupling Mechanisms" section with:
    - Table of five mechanisms with phenomenal properties, physical selections, and development levels
    - Explanation of mechanism adequacy criteria (precision, mechanism, falsifiability)
@@ -2321,7 +2321,7 @@ Reviewed concepts/quantum-consciousness.md in light of new attention-motor-quant
 
 ### Changes Made
 
-1. Added [attention-motor-quantum-interface](/attention-motor-quantum-interface/) to frontmatter concepts (first position)
+1. Added [attention-motor-quantum-interface](/concepts/attention-as-interface/) to frontmatter concepts (first position)
 2. Added new "Attention-Motor Unification" subsection under "The Mechanism" explaining:
    - PMTA claim that attention and motor planning share substrates
    - ~280ms/~300ms timing convergence as evidence for common mechanism
@@ -2493,7 +2493,7 @@ Cross-reviewed mental-causation.md in light of the new psychophysical-coupling-m
 
 ### Changes Made
 
-1. Added `[psychophysical-coupling-mechanisms](/psychophysical-coupling-mechanisms/)` to frontmatter concepts (first position)
+1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/)` to frontmatter concepts (first position)
 2. Added new "The Specification Challenge" section after "The Quantum Opening" explaining:
    - Specification problem is distinct from overdetermination and conservation challenges
    - Integrated the five candidate coupling mechanisms as concrete proposals
@@ -2566,7 +2566,7 @@ Cross-reviewed stapp-quantum-mind.md in light of the new psychophysical-coupling
 
 ### Changes Made
 
-1. Added `[psychophysical-coupling-mechanisms](/psychophysical-coupling-mechanisms/)` to frontmatter concepts (first position)
+1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/)` to frontmatter concepts (first position)
 2. Added new "Comparative Standing" subsection under "The Core Mechanism" explaining:
    - Stapp's model is the most developed among five candidate coupling mechanisms
    - Only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability)
@@ -2652,7 +2652,7 @@ Cross-reviewed measurement-problem.md in light of the new subjective-probability
 
 ### Changes Made
 
-1. Added `[subjective-probability-quantum-measurement](/subjective-probability-quantum-measurement/)` to frontmatter concepts and related_articles
+1. Added `[subjective-probability-quantum-measurement](/concepts/quantum-probability-consciousness/)` to frontmatter concepts and related_articles
 2. Added new section "What Are Born Probabilities?" covering:
    - Three major interpretations (objective chance, QBism, many-worlds branch measure)
    - Each interpretation's blind spots regarding probability meaning
@@ -2766,7 +2766,7 @@ Integrated psychophysical-coupling-mechanisms article into the psychophysical-la
 
 ### Key Changes
 
-- Added [psychophysical-coupling-mechanisms](/psychophysical-coupling-mechanisms/) to frontmatter concepts
+- Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) to frontmatter concepts
 - Added explanatory paragraph under "The Selection Mechanism" section explaining the complementary relationship between the two articles
 - Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of five mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
 
@@ -3707,7 +3707,7 @@ This changelog tracks all AI automation activity. Each entry records what was do
 - Enhanced Mysterianism section with McGinn's Transcendental Naturalism formulation
 - Added squirrel-quantum mechanics analogy (makes cognitive closure vivid)
 - Strengthened connection to Occam's Razor Has Limits tenet
-- Updated wikilinks from [mysterianism](/concepts/mysterianism/) to [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
+- Updated wikilinks from [mysterianism](/concepts/mysterianism/) to [mysterianism-cognitive-closure](/concepts/mysterianism/)
 - Connected hard problem persistence to mystery vs problem distinction
 - Added reference to voids framework (property "P" as unchartable territory)
 
@@ -3812,7 +3812,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - **Critical issues addressed**: 3
 - **Medium issues addressed**: 3
 - **Enhancements made**: 6
-- **Summary**: Comprehensive review of Jourdain Hypothesis (apes have culture without knowing they have culture). Pessimistic analysis from 6 personas identified: (1) question-begging on why metarepresentation requires phenomenology—added argument that phenomenal character serves as marker distinguishing mental from world states, (2) missing falsification condition for unconscious metarepresentation—added to challenges section, (3) tip-of-the-tongue underdeveloped—expanded to paradigm case with dual-structure phenomenology analysis. Optimistic analysis identified strengths to preserve (Molière reference, Whitehead section, tables) and expansion opportunities. Added: moral agency subsection (metarepresentation enables "should I?" vs "can I?"), quantum binding connection (dual-structure phenomenology may require quantum coherence), strengthened functionalist challenge response. Cross-linked to [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) and [phenomenal-unity](/phenomenal-unity/). Streamlined Buddhist section from tangential to focused. Result: article now addresses strongest objections, develops phenomenology-requirement argument beyond assertion, makes appropriate causal/correlational hedges, connects more explicitly to tenets.
+- **Summary**: Comprehensive review of Jourdain Hypothesis (apes have culture without knowing they have culture). Pessimistic analysis from 6 personas identified: (1) question-begging on why metarepresentation requires phenomenology—added argument that phenomenal character serves as marker distinguishing mental from world states, (2) missing falsification condition for unconscious metarepresentation—added to challenges section, (3) tip-of-the-tongue underdeveloped—expanded to paradigm case with dual-structure phenomenology analysis. Optimistic analysis identified strengths to preserve (Molière reference, Whitehead section, tables) and expansion opportunities. Added: moral agency subsection (metarepresentation enables "should I?" vs "can I?"), quantum binding connection (dual-structure phenomenology may require quantum coherence), strengthened functionalist challenge response. Cross-linked to [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/) and [phenomenal-unity](/concepts/phenomenal-binding-and-holism/). Streamlined Buddhist section from tangential to focused. Result: article now addresses strongest objections, develops phenomenology-requirement argument beyond assertion, makes appropriate causal/correlational hedges, connects more explicitly to tenets.
 - **Output**: reviews/deep-review-2026-01-22-jourdain-hypothesis.md
 
 ### 00:00 - expand-topic
@@ -3910,7 +3910,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
   - Mysterianism connection (mechanism uncertainty ≠ incoherence)
   - Testability criteria and falsification conditions added
   - Many-Worlds note added (MWI rejection crucial for framework)
-- **Cross-links added**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [downward-causation](/concepts/downward-causation/), [mysterianism](/concepts/mysterianism/), [epiphenomenalism](/arguments/epiphenomenalism/), [tenets](/tenets/#no-many-worlds)
+- **Cross-links added**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [downward-causation](/concepts/downward-causation/), [mysterianism](/concepts/mysterianism/), [epiphenomenalism](/concepts/epiphenomenalism/), [tenets](/tenets/#no-many-worlds)
 - **Output**: obsidian/reviews/deep-review-2026-01-22-causal-closure.md
 - **Commit**: review(deep): Comprehensive review of causal-closure.md
 - **Duration**: ~7 minutes
@@ -4017,7 +4017,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
   - Better engagement with many-worlds decision theory before explaining phenomenology problem
 - **Enhancements made**: 4
   - New "Implications for Free Will" section connecting to libertarian free will
-  - Cross-links to [free-will](/concepts/free-will/) and [introspection](/concepts/introspection/)
+  - Cross-links to [free-will](/topics/free-will/) and [introspection](/concepts/introspection/)
   - Updated concepts frontmatter and Further Reading
   - Cleaned up References section
 - **Output**: `reviews/deep-review-2026-01-22-baseline-cognition.md`
@@ -6715,7 +6715,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - Lieberman reference: corrected year (2007) and softened claim to match cited source
 **Medium issues addressed**: 2
 - Access/phenomenal consciousness: strengthened discussion to show access consciousness is still consciousness
-- Cross-links: added [qualia](/concepts/qualia/), [knowledge-argument](/concepts/knowledge-argument/), [free-will](/concepts/free-will/)
+- Cross-links: added [qualia](/concepts/qualia/), [knowledge-argument](/concepts/knowledge-argument/), [free-will](/topics/free-will/)
 **Enhancements made**: Added voluntary action → free will connection
 **Output**: `reviews/deep-review-2026-01-25-conscious-vs-unconscious-processing.md`
 

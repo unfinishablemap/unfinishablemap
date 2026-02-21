@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-18 01:02:00+00:00
+ai_modified: 2026-02-21 10:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: If all properties are powers, where does consciousness fit? Explori
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-21 10:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -26,6 +27,7 @@ related_articles:
 - '[[consciousness-and-strong-emergence]]'
 - '[[substance-property-dualism]]'
 - '[[causal-closure]]'
+- '[[topics/free-will]]'
 title: Consciousness and the Ontology of Dispositions
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -54,9 +56,9 @@ If properties are exhausted by their causal profiles, then consciousness must be
 
 Consider what it would mean for phenomenal redness—the subjective experience of seeing red—to be a disposition. A disposition toward *what*? Dispositions point toward their manifestations: fragility points toward breaking, solubility toward dissolving. If phenomenal redness is a disposition, it must be essentially directed toward some effect. Perhaps toward red-related behaviour, toward certain neural responses, toward specific reports.
 
-The problem is immediate. Phenomenal redness seems to have an intrinsic qualitative character—a "what it's like"—that is not exhausted by any behavioural or functional profile. This is precisely the insight behind the [knowledge argument](/concepts/knowledge-argument/): Mary learns something new when she sees red for the first time, even though she already knew every dispositional fact about colour experience. If [qualia](/concepts/qualia/) were pure dispositions, there would be nothing left for Mary to learn.
+The problem is immediate. Phenomenal redness seems to have an intrinsic qualitative character—a "what it's like"—that is not exhausted by any behavioural or functional profile. This is the insight behind the [knowledge argument](/concepts/knowledge-argument/): Mary learns something new when she sees red for the first time, even though she already knew every dispositional fact about colour experience. Physicalists contest this—some argue Mary gains a new *ability* rather than a new *fact*—but the Map holds that what she encounters is the qualitative aspect of a property that dispositional description cannot capture. If [qualia](/concepts/qualia/) were pure dispositions, there would be nothing left for Mary to learn.
 
-Pandispositionalism thus faces a dilemma regarding consciousness. Either phenomenal properties are dispositions (in which case the qualitative character of experience collapses into causal role, and the hard problem dissolves into functionalism), or phenomenal properties are not dispositions (in which case pandispositionalism is false—not all properties are dispositional). The first horn abandons the hard problem; the second abandons the metaphysical thesis.
+Pandispositionalism thus faces a dilemma regarding consciousness. Either phenomenal properties are dispositions (in which case the qualitative character of experience collapses into causal role, and the hard problem dissolves into functionalism), or phenomenal properties are not dispositions (in which case pandispositionalism is false—not all properties are dispositional). The first horn abandons the hard problem; the second abandons the metaphysical thesis. This is the dispositional version of the [explanatory-gap](/concepts/explanatory-gap/): no catalogue of causal roles entails qualitative character.
 
 Some pandispositionalists bite the first bullet, accepting that qualia are functional properties fully captured by their causal roles. But this amounts to functionalism about consciousness, which faces well-known objections: inverted qualia scenarios, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), and the explanatory gap between functional description and phenomenal experience.
 
@@ -94,7 +96,7 @@ If consciousness has genuine causal powers (as the Map's [Bidirectional Interact
 
 This gives consciousness a specific dispositional profile while preserving its qualitative character. Consciousness is not *merely* its disposition to bias neural processes—that would collapse into pandispositionalism. Consciousness has a qualitative character (the felt quality of experience) that is inseparable from its dispositional power (the capacity to influence physical outcomes). The quality and the power are one.
 
-The dispositional essentialist framework (Bird 2007) suggests that if phenomenal properties have essential dispositional natures, then [psychophysical-laws](/concepts/psychophysical-laws/) are metaphysically necessary—they express what phenomenal properties essentially are. This would mean that the laws governing how consciousness influences neural activity are not contingent additions to physics but follow from the nature of consciousness itself.
+The dispositional essentialist framework (Bird 2007) argues that if properties have essential dispositional natures, then the laws governing those properties are metaphysically necessary. Bird develops this for physical laws, but the Map extends the reasoning to psychophysical laws: if phenomenal properties have essential dispositional natures, then [psychophysical-laws](/concepts/psychophysical-laws/) governing how consciousness influences neural activity follow from the nature of consciousness itself rather than being contingent additions to physics.
 
 Alternatively, if psychophysical laws are contingent (as governing-law theorists hold), then consciousness has its causal powers not from its intrinsic nature but from external lawlike regularities. The Map finds the essentialist picture more satisfying: it grounds mental causation in the nature of experience rather than in brute, unexplained regularities.
 
@@ -102,7 +104,7 @@ Alternatively, if psychophysical laws are contingent (as governing-law theorists
 
 A deeper puzzle emerges when we consider what dispositions *point toward*. Standard dispositions have clear manifestation conditions: fragility manifests as breaking when struck; solubility manifests as dissolving when immersed. The manifestation is a distinct event from the disposition itself.
 
-But consciousness has a peculiar relationship with its own manifestations. When pain disposes you to withdraw your hand, the pain experience is not separate from its causal role in the way that salt's molecular structure is separate from its dissolving. The phenomenal quality of pain—its hurting—seems constitutively connected to its motivational power. Change the felt quality and you change the disposition (as [pain-asymbolia](/concepts/pain-asymbolia/) demonstrates: patients who feel pain but lack its dispositional aversiveness exhibit altered behaviour precisely because the qualitative-dispositional link is disrupted).
+But consciousness has a peculiar relationship with its own manifestations. When pain disposes you to withdraw your hand, the pain experience is not separate from its causal role in the way that salt's molecular structure is separate from its dissolving. The phenomenal quality of pain—its hurting—seems constitutively connected to its motivational power. Change the felt quality and you change the disposition. The condition of [pain-asymbolia](/concepts/pain-asymbolia/)—where patients report feeling pain but lack its characteristic aversiveness—is consistent with this picture: the dissociation of quality from motivational power produces exactly the behavioural changes that the powerful-qualities framework would predict.
 
 This suggests that phenomenal dispositions have a unique modal character. Physical dispositions point outward—toward effects in other things. Phenomenal dispositions also point inward—toward the subject's own experiential states, motivations, and deliberative processes. The bidirectionality of phenomenal dispositions (outward toward neural effects, inward toward experiential meaning) may be what distinguishes conscious powers from mere physical powers.
 
@@ -130,6 +132,7 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Principles governing mind-matter interaction
 - [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/) — Whether consciousness is genuinely strongly emergent
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The Map's preferred ontological framework
+- [free-will](/topics/free-will/) — How dispositional powers of consciousness connect to libertarian agency
 
 ## References
 

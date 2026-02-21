@@ -58,7 +58,7 @@ topics: []
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure
 - [decoherence](/concepts/decoherence/) — Quantum mechanism viability
 - [haecceity](/concepts/haecceity/) — Personal identity presupposition
-- [arguments-for-dualism](/arguments-for-dualism/) — The broader case
+- [arguments-for-dualism](/concepts/the-case-for-dualism/) — The broader case
 
 ### References Added
 - Chalmers, "Does Conceivability Entail Possibility?" (2002)

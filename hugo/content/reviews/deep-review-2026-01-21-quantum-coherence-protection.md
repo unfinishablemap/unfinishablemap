@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Quantum Coherence Protection in Neural Systems](/quantum-coherence-protection/)
+**Article**: [Quantum Coherence Protection in Neural Systems](/concepts/quantum-coherence-in-neural-systems/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

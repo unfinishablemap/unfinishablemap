@@ -9,8 +9,8 @@ concepts:
 - '[[dualism]]'
 - '[[causal-closure]]'
 - '[[mental-causation]]'
-- '[[epiphenomenalism]]'
-- '[[occasionalism]]'
+- '[[concepts/epiphenomenalism]]'
+- occasionalism
 created: 2026-02-15
 date: &id001 2026-02-15
 description: The 17th-century explosion of responses to the interaction problem—occasionalism,

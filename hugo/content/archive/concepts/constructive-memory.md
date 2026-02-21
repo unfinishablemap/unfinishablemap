@@ -46,7 +46,7 @@ Constructive memory is the principle that remembering is an act of building, not
 
 Schacter and Addis (2007) proposed that [episodic memory](/concepts/episodic-memory/) and [episodic future thinking](/concepts/prospective-memory/) share a common constructive system. Both involve flexibly retrieving and recombining elements from past experience into coherent scenes. The same core neural network—hippocampus, medial prefrontal cortex, posterior cingulate—activates for both remembering and imagining, though the hippocampus shows greater activation during future simulation, reflecting additional constructive demands.
 
-The critical evidence: patients who lose episodic memory also lose the ability to imagine personal futures. [Patient KC](/autonoetic-consciousness/#clinical-evidence), studied extensively by Tulving, could not mentally travel in either temporal direction. This double deficit suggests that memory and imagination are not separate faculties but two applications of a single constructive capacity—mental time travel.
+The critical evidence: patients who lose episodic memory also lose the ability to imagine personal futures. [Patient KC](/concepts/episodic-memory/#clinical-evidence), studied extensively by Tulving, could not mentally travel in either temporal direction. This double deficit suggests that memory and imagination are not separate faculties but two applications of a single constructive capacity—mental time travel.
 
 If remembering and imagining use the same machinery, then remembering is a form of constrained imagination. The past provides fragments that anchor and limit construction, but the constructive process itself is the same one that builds fictional scenarios. Memory is imagination tethered to causal traces.
 
@@ -72,11 +72,11 @@ This matters philosophically because it dissolves the intuitive distinction betw
 
 ## The Hard Problem in Memorial Form
 
-Constructive memory sharpens the [hard problem](/topics/hard-problem-of-consciousness/) in a distinctive way. If memories were stored recordings played back during retrieval, one could at least imagine that the phenomenal character of remembering somehow inheres in the stored representation. But if memories are constructed anew at each retrieval, then the phenomenal experience—the [autonoetic](/autonoetic-consciousness/) sense of re-living, the [pastness quale](/concepts/episodic-memory/#the-pastness-quale), the felt ownership—is generated fresh each time.
+Constructive memory sharpens the [hard problem](/topics/hard-problem-of-consciousness/) in a distinctive way. If memories were stored recordings played back during retrieval, one could at least imagine that the phenomenal character of remembering somehow inheres in the stored representation. But if memories are constructed anew at each retrieval, then the phenomenal experience—the [autonoetic](/concepts/episodic-memory/) sense of re-living, the [pastness quale](/concepts/episodic-memory/#the-pastness-quale), the felt ownership—is generated fresh each time.
 
 Why should construction generate experience? The neural operations involved—pattern completion, schema-driven inference, binding of disparate elements—are the kind of computations that could in principle proceed without any accompanying phenomenology. The [noetic](/concepts/semantic-memory/) access to the same information demonstrates this: you can know that you graduated in 2015 without any re-experiencing. The information is accessed; the phenomenal character is absent.
 
-The remember/know paradigm operationalises this distinction experimentally. Identical information can be accessed with vivid re-experiencing ("remember") or mere recognition without phenomenology ("know"). If the same content can appear with or without experiential accompaniment, then the experience is not an inevitable consequence of the content. Something additional occurs when construction produces [autonoetic-consciousness](/autonoetic-consciousness/)—something that resists computational explanation.
+The remember/know paradigm operationalises this distinction experimentally. Identical information can be accessed with vivid re-experiencing ("remember") or mere recognition without phenomenology ("know"). If the same content can appear with or without experiential accompaniment, then the experience is not an inevitable consequence of the content. Something additional occurs when construction produces [autonoetic-consciousness](/concepts/episodic-memory/)—something that resists computational explanation.
 
 ## Relation to Site Perspective
 
@@ -91,7 +91,7 @@ Constructive memory connects to the Map's foundational commitments at several po
 ## Further Reading
 
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that constructive processes operate on
-- [autonoetic-consciousness](/autonoetic-consciousness/) — The distinctive phenomenology that accompanies constructive retrieval
+- [autonoetic-consciousness](/concepts/episodic-memory/) — The distinctive phenomenology that accompanies constructive retrieval
 - [past-self-void](/voids/past-self-void/) — Why the original experience is structurally irrecoverable
 - [memory-void](/voids/memory-void/) — Whether past qualia persist or are lost forever
 - [prospective-memory](/concepts/prospective-memory/) — Future-directed construction using the same system

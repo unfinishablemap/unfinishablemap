@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [Consciousness and Mathematical Creativity](/consciousness-and-mathematical-creativity/)
+**Article**: [Consciousness and Mathematical Creativity](/topics/consciousness-and-mathematical-cognition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -78,7 +78,7 @@ topics: []
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
 - [incompleteness-void](/voids/incompleteness-void/)
 - [illusionism](/concepts/illusionism/)
-- [metarepresentation](/metarepresentation/) (frontmatter)
+- [metarepresentation](/concepts/metacognition/) (frontmatter)
 
 ## Remaining Items
 

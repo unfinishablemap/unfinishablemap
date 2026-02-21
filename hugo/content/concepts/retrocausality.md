@@ -37,7 +37,7 @@ related_articles:
 title: Retrocausality
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Retrocausality is the hypothesis that causation can operate backward in time—that future events can influence past ones. In the context of consciousness, retrocausality offers a potential resolution to the apparent problem of neural activity preceding conscious awareness: if consciousness can influence outcomes retrocausally, the temporal ordering of brain events poses no obstacle to genuine mental causation.

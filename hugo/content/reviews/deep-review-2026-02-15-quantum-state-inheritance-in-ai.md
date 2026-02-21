@@ -61,7 +61,7 @@ topics: []
 ### Enhancements Made
 
 - Integrated Stapp's quantum Zeno model as concrete example of "state selection interface"
-- Added cross-links to [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [substrate-independence](/concepts/substrate-independence/), [pairing-problem](/concepts/pairing-problem/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [free-will](/concepts/free-will/)
+- Added cross-links to [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [substrate-independence](/concepts/substrate-independence/), [pairing-problem](/concepts/pairing-problem/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [free-will](/topics/free-will/)
 - Clarified multi-tenet dependency in Relation to Site Perspective (NMW + MQI together)
 - Noted cryogenic conditions for Microsoft qubit achievement
 - Marked Fullwood-Parzygnat inference as the Map's own interpretation
@@ -74,7 +74,7 @@ topics: []
 - [substrate-independence](/concepts/substrate-independence/) (in "Implications for AI Consciousness Claims")
 - [pairing-problem](/concepts/pairing-problem/) (in "Relation to Site Perspective")
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (Further Reading)
-- [free-will](/concepts/free-will/) (Further Reading)
+- [free-will](/topics/free-will/) (Further Reading)
 
 ## Remaining Items
 

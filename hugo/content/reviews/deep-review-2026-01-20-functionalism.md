@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Against Functionalism](/arguments/functionalism/)
+**Article**: [Against Functionalism](/concepts/functionalism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -80,7 +80,7 @@ New wikilinks to:
 - [continual-learning-argument](/concepts/continual-learning-argument/) — AI consciousness criterion
 - [mental-effort](/concepts/mental-effort/) — phenomenology functionalism misses
 - [mysterianism](/concepts/mysterianism/) — cognitive closure alternative
-- [epiphenomenalism](/arguments/epiphenomenalism/) — rejected by Map's framework
+- [epiphenomenalism](/concepts/epiphenomenalism/) — rejected by Map's framework
 
 ## Remaining Items
 

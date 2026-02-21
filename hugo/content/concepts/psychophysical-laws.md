@@ -10,14 +10,14 @@ coalesced_from:
 concepts:
 - '[[selection-laws]]'
 - '[[quantum-consciousness]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention]]'
 - '[[attention-as-interface]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[haecceity]]'
 - '[[integrated-information-theory]]'
 - '[[emergence]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[decoherence]]'
@@ -44,11 +44,11 @@ related_articles:
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
 - '[[psychophysical-coupling-problem-2026-01-15]]'
 - '[[brain-specialness-boundary-2026-01-15]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 title: Psychophysical Laws
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation]]'
 ---
@@ -89,7 +89,7 @@ Supervenience laws specify which physical states are accompanied by which mental
 
 Chalmers primarily discusses supervenience laws. On his framework, once you fix all the physical facts about a system, the psychophysical laws determine what (if any) experience the system has. The laws run *upward*: from physics to phenomenology.
 
-This leaves open whether the mental can causally influence the physical. Chalmers himself tends toward [epiphenomenalism](/arguments/epiphenomenalism/)—the view that mental states are caused by physical states but don't cause physical states in return.
+This leaves open whether the mental can causally influence the physical. Chalmers himself tends toward [epiphenomenalism](/concepts/epiphenomenalism/)—the view that mental states are caused by physical states but don't cause physical states in return.
 
 ### Causal Laws
 
@@ -115,7 +115,7 @@ Any two systems with identical fine-grained functional organization have qualita
 
 Chalmers defends this through the "fading qualia" thought experiment: gradually replace neurons with functionally identical components. If experience depended on substrate rather than organization, experience could fade while behaviour remained constant—but we couldn't detect this fading. This seems implausible.
 
-**The Map's tension with this principle**: the Map rejects [functionalism](/arguments/functionalism/)—the view that mental states are defined by their functional roles. The zombie argument—central to the hard problem—demonstrates that functional organisation doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. The [haecceity](/concepts/haecceity/) of the particular conscious subject may matter, not just abstract patterns.
+**The Map's tension with this principle**: the Map rejects [functionalism](/concepts/functionalism/)—the view that mental states are defined by their functional roles. The zombie argument—central to the hard problem—demonstrates that functional organisation doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. The [haecceity](/concepts/haecceity/) of the particular conscious subject may matter, not just abstract patterns.
 
 ### The Double-Aspect Theory of Information
 
@@ -249,7 +249,7 @@ John Eccles' psychon-dendron theory proposes that **mental intention acts as a q
 
 ### 5. Unity as Sustained Entanglement {#unity}
 
-**Phenomenal property**: [phenomenal unity](/phenomenal-unity/)—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement. Kerskens and Pérez (2022) reported possible entanglement signatures in human brain activity using MRI—though this requires replication.
+**Phenomenal property**: [phenomenal unity](/concepts/phenomenal-binding-and-holism/)—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement. Kerskens and Pérez (2022) reported possible entanglement signatures in human brain activity using MRI—though this requires replication.
 
 **Gap**: Correlation versus causation. Even if phenomenal unity correlates with entanglement, this doesn't establish that consciousness *causes* or *sustains* entanglement.
 
@@ -345,12 +345,12 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview: Chalmers' framework, the upward-downward asymmetry, and coupling mechanisms
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness might couple: basis, timing, or probability control
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring bidirectional laws
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
-- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
+- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
@@ -359,8 +359,8 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [haecceity](/concepts/haecceity/) — Why organizational invariance is rejected
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for the subject-object structure
 - [emergence](/concepts/emergence/) — Why emergentism doesn't solve the hard problem
-- [functionalism](/arguments/functionalism/) — The view the Map rejects
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view Chalmers tends toward (and the Map rejects)
+- [functionalism](/concepts/functionalism/) — The view the Map rejects
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view Chalmers tends toward (and the Map rejects)
 - [binding-problem](/concepts/binding-problem/) — How distributed neural processes combine into unified experience
 - [chalmers-psychophysical-laws-2026-01-17](/research/chalmers-psychophysical-laws-2026-01-17/) — Research notes on Chalmers' framework
 - [psychophysical-coupling-problem-2026-01-15](/research/psychophysical-coupling-problem-2026-01-15/) — Research notes on the coupling problem

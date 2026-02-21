@@ -41,7 +41,7 @@ This matters because memory is how we preserve our conscious lives. If memory pr
 
 Bergson argued that "the past preserves itself automatically." On this view, the question is not how we remember but how we forget—the past doesn't need to be stored because it simply *is*. Husserl distinguished "primary memory" (retention, the immediate grasp of the just-past held in [working-memory](/concepts/working-memory/)) from "secondary memory" (recollection, reaching across forgetfulness). Retentions "sink into the unconscious" but remain "unchanged in content." If this is right, the void may be merely practical: we often fail to remember, but genuine contact with preserved qualia is possible in principle.
 
-Tulving's concept of [autonoetic consciousness](/autonoetic-consciousness/)—the awareness accompanying episodic memory—supports this interpretation. In episodic memory, one does not merely know that the represented event occurred in one's past; one in some sense relives it. The phenomenology of vivid memory feels like re-entering, not constructing. The Proustian moment—when a sensory trigger brings back not just information but experiential texture—seems to punch through to actual past experience.
+Tulving's concept of [autonoetic consciousness](/concepts/episodic-memory/)—the awareness accompanying episodic memory—supports this interpretation. In episodic memory, one does not merely know that the represented event occurred in one's past; one in some sense relives it. The phenomenology of vivid memory feels like re-entering, not constructing. The Proustian moment—when a sensory trigger brings back not just information but experiential texture—seems to punch through to actual past experience.
 
 ### The Simulationist Challenge
 
@@ -141,7 +141,7 @@ None of these conditions has been met. Current evidence supports the reconstruct
 - [other-minds-void](/voids/other-minds-void/) — The structural inaccessibility of other present minds
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
-- [autonoetic-consciousness](/autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
+- [autonoetic-consciousness](/concepts/episodic-memory/) — The self-knowing awareness that enables "mental time travel"
 
 ## References
 

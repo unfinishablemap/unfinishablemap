@@ -8,12 +8,12 @@ archived: true
 archived_date: 2026-02-15 13:26:00+00:00
 author: null
 concepts:
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[interface-locality]]'
 - '[[multi-mind-collapse-problem]]'
 - '[[filter-theory]]'
 - '[[witness-consciousness]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[panpsychism]]'
 - '[[substance-property-dualism]]'
 - '[[interactionist-dualism]]'
@@ -55,7 +55,7 @@ Kastrup frames this as taking consciousness seriously as a datum rather than an 
 
 ## The Argument from Parsimony
 
-Analytic idealism claims superior parsimony over both [materialism](/arguments/materialism/) and dualism.
+Analytic idealism claims superior parsimony over both [materialism](/concepts/materialism/) and dualism.
 
 **Against materialism**: Physicalism faces the [hard problem](/topics/hard-problem-of-consciousness/)—explaining why physical processes give rise to experience at all. No amount of neural description tells us *why* there's something it's like to see red. Some eliminativists deny there's any problem here—they reject qualia as folk concepts to be outgrown rather than explained. But for those who take phenomenal experience seriously, consciousness doesn't follow from physics; it's an additional, unexplained explanandum.
 
@@ -103,7 +103,7 @@ Critics respond that DID involves a brain already functioning as a unified syste
 
 Analytic idealism and the Map share significant common ground:
 
-**Agreement**: Consciousness is fundamental, not emergent from matter. [Materialism](/arguments/materialism/) fails. The [hard problem](/topics/hard-problem-of-consciousness/) is genuine.
+**Agreement**: Consciousness is fundamental, not emergent from matter. [Materialism](/concepts/materialism/) fails. The [hard problem](/topics/hard-problem-of-consciousness/) is genuine.
 
 **Disagreement**: the Map maintains physical reality exists distinctly and that consciousness interacts with it bidirectionally.
 
@@ -117,7 +117,7 @@ The regularity of physical law becomes puzzling on idealism. If matter is just a
 
 ### The Interface Question
 
-The Map's [interface-locality](/interface-locality/) concept specifies *where* consciousness interacts with matter: in the brain, through quantum-level processes, bounded by attention and embodiment. This framework requires genuine physical systems with which consciousness interfaces. The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) addresses how multiple consciousnesses coordinate—or rather, don't need to, because each interfaces only with its own brain.
+The Map's [interface-locality](/concepts/brain-interface-boundary/) concept specifies *where* consciousness interacts with matter: in the brain, through quantum-level processes, bounded by attention and embodiment. This framework requires genuine physical systems with which consciousness interfaces. The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) addresses how multiple consciousnesses coordinate—or rather, don't need to, because each interfaces only with its own brain.
 
 On idealism, these questions transform. If there is no physical substrate, what makes the brain a privileged "appearance"? Why does consciousness interface specifically here rather than universally? Idealism must either (a) explain why certain appearances function as interfaces while others don't, or (b) deny that any localized interface exists. Option (a) seems to smuggle physical realism back in; option (b) conflicts with the phenomenology of embodiment—my consciousness accesses this body's experiences, not yours.
 
@@ -165,7 +165,7 @@ The choice between dualism and idealism affects how we think about:
 
 **Freedom**: If individual minds are dissociations, and dissociations ultimately reunify, individual choices may be less significant than on dualism, where *you* genuinely originate causal chains through [agent-causation](/concepts/agent-causation/).
 
-**Meaning and Value**: the Map's [phenomenal value realism](/concepts/phenomenal-value-realism/) holds that value is grounded in conscious experience. Both idealism and dualism can accommodate this—value exists in consciousness on either view. But on idealism, *individual* experience is derivative from universal consciousness. If [indexical identity carries value](/concepts/phenomenal-value-realism/#connection-to-indexical-identity)—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications. The Map's emphasis on token-based value (this particular experience) sits uncomfortably with idealism's type-based ontology (patterns in universal consciousness).
+**Meaning and Value**: the Map's [phenomenal value realism](/topics/phenomenal-value-realism/) holds that value is grounded in conscious experience. Both idealism and dualism can accommodate this—value exists in consciousness on either view. But on idealism, *individual* experience is derivative from universal consciousness. If [indexical identity carries value](/topics/phenomenal-value-realism/#connection-to-indexical-identity)—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications. The Map's emphasis on token-based value (this particular experience) sits uncomfortably with idealism's type-based ontology (patterns in universal consciousness).
 
 The Map's position: take consciousness seriously (with idealism) while also taking physics seriously (against idealism). The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides a mechanism—consciousness influences outcomes physics leaves undetermined—without denying that physics describes something real.
 
@@ -173,7 +173,7 @@ The Map's position: take consciousness seriously (with idealism) while also taki
 
 Idealism and dualism may seem empirically equivalent—both predict the same brain-consciousness correlations. But several considerations suggest possible distinguishing evidence:
 
-**Interface specificity**: Dualism predicts consciousness interfaces with matter at specific sites (brains, through [quantum mechanisms](/concepts/quantum-consciousness/)). Idealism, with no genuine physical substrate, must explain why certain "appearances" function as interfaces while others don't. If [interface-locality](/interface-locality/) proves empirically robust—if consciousness really is bounded by embodiment—this supports a genuine physical interface rather than patterns in universal mind.
+**Interface specificity**: Dualism predicts consciousness interfaces with matter at specific sites (brains, through [quantum mechanisms](/concepts/quantum-consciousness/)). Idealism, with no genuine physical substrate, must explain why certain "appearances" function as interfaces while others don't. If [interface-locality](/concepts/brain-interface-boundary/) proves empirically robust—if consciousness really is bounded by embodiment—this supports a genuine physical interface rather than patterns in universal mind.
 
 **Multiple observer scenarios**: The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) asks how multiple consciousnesses coordinate. Dualism answers: they don't need to, because each interfaces only with its own brain, while objective physical processes determine shared facts. Idealism must explain intersubjective agreement differently—perhaps as universal consciousness maintaining consistency across its dissociations. A decisive experiment would require scenarios where dualism and idealism make different predictions about intersubjective coordination—difficult to construct, but not obviously impossible.
 
@@ -184,11 +184,11 @@ Idealism and dualism may seem empirically equivalent—both predict the same bra
 - [idealism](/concepts/idealism/) — Broader treatment of idealist positions including comparison to site's dualism
 - [filter-theory](/concepts/filter-theory/) — How dualism accommodates brain-consciousness correlation without production
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence both idealists and dualists cite
-- [interface-locality](/interface-locality/) — Why consciousness interfaces only with its own brain
+- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness interfaces only with its own brain
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How multiple consciousnesses coordinate on dualism vs. idealism
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — How value grounding differs under each framework
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How value grounding differs under each framework
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Eastern critiques of idealism and the compatibility thesis
-- [materialism](/arguments/materialism/) — The view idealism opposes most directly
+- [materialism](/concepts/materialism/) — The view idealism opposes most directly
 - [panpsychism](/concepts/panpsychism/) — A different form of consciousness-priority metaphysics
 - [substance-property-dualism](/concepts/substance-property-dualism/) — the Map's preferred framework
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness and matter interact

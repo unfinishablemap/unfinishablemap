@@ -37,7 +37,7 @@ title: Identity Across Transformations
 topics:
 - '[[personal-identity]]'
 - '[[death-and-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 What makes you *you* across radical change? You are not the same collection of atoms you were a decade ago. Your memories have been rewritten, your personality has shifted, your body has transformed. Under anesthesia, your consciousness vanishes entirely—no experience, no passage of time, nothing—yet you wake up as *you*. In split-brain cases, a single consciousness becomes neither clearly one nor two. And at death, the physical substrate that correlates with your experience ceases altogether. Through all these transformations, something is supposed to persist. But what?

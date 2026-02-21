@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Autonoetic Consciousness](/autonoetic-consciousness/)
+**Article**: [Autonoetic Consciousness](/concepts/episodic-memory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

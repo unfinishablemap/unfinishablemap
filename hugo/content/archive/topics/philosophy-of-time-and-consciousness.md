@@ -34,7 +34,7 @@ superseded_by: /topics/temporal-structure-of-consciousness/
 title: Philosophy of Time and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Consciousness and time depend on each other in ways that resist simple explanation. Consciousness requires temporal structure—experience flows, moments connect, the present has duration. But time's direction may require consciousness—the arrow distinguishing past from future may emerge through conscious observation. The Unfinishable Map explores both directions of this relationship, finding that neither consciousness nor time can be understood without the other.
@@ -45,7 +45,7 @@ This bidirectional dependence has profound implications. If consciousness needs 
 
 ### The Specious Present
 
-Consciousness doesn't occur in durationless instants. William James identified what he called the [specious present](/specious-present/)—a brief interval (roughly 100-750 milliseconds) within which we experience succession and change as unified wholes. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected. Pure instants, however closely packed, never add up to experienced flow.
+Consciousness doesn't occur in durationless instants. William James identified what he called the [specious present](/concepts/temporal-consciousness/)—a brief interval (roughly 100-750 milliseconds) within which we experience succession and change as unified wholes. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected. Pure instants, however closely packed, never add up to experienced flow.
 
 Edmund Husserl's phenomenological analysis revealed the tripartite structure of temporal experience:
 - **Retention**: the immediate past echoing in the present
@@ -56,7 +56,7 @@ These aren't separate mental acts but an inseparable unity. Each moment carries 
 
 ### Durée and Lived Time
 
-Henri Bergson's concept of [durée](/duration/) captures what physical descriptions miss. Clock time treats moments as positions on a line—3:00 distinct from 3:01, each externally related to the next. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other.
+Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) captures what physical descriptions miss. Clock time treats moments as positions on a line—3:00 distinct from 3:01, each externally related to the next. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other.
 
 The melody example clarifies this. You don't experience notes as discrete units arranged sequentially. You hear the phrase as a unified flow where each note gains meaning from what preceded and what follows. Cut the melody into separate notes and you have frequencies, not music. Duration cannot be measured because it cannot be divided without destroying what it is.
 
@@ -112,7 +112,7 @@ Neither contains the other. Consciousness isn't merely a process happening in ti
 
 ### The Phenomenology
 
-What does this feel like from inside? The Map proposes: [durée](/duration/) is what time-constitution feels like from within. We experience duration because we create duration. The flow of time isn't observed; it's lived through, and living through it is participating in its creation.
+What does this feel like from inside? The Map proposes: [durée](/concepts/temporal-consciousness/) is what time-constitution feels like from within. We experience duration because we create duration. The flow of time isn't observed; it's lived through, and living through it is participating in its creation.
 
 The specious present isn't a window onto pre-existing temporal structure. It may be the phenomenology of collapse-constitutive activity—the experiential signature of consciousness participating in time's creation. Husserl's retention-protention structure reflects the constraints that collapse satisfies: the past echoes because past collapses constrain current ones; the future is anticipated because expected future collapses influence present selection.
 
@@ -130,7 +130,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) asks why physical pro
 
 ### For Free Will
 
-The [free will](/concepts/free-will/) debate gains new dimensions. If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [Agent causation](/concepts/agent-causation/) isn't action within pre-existing time but participation in time's constitution.
+The [free will](/topics/free-will/) debate gains new dimensions. If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [Agent causation](/concepts/agent-causation/) isn't action within pre-existing time but participation in time's constitution.
 
 The Libet experiments—showing neural activity preceding conscious awareness—lose their force. If selection is atemporal, it needn't temporally precede neural activity. Consider the analogy: a mathematical function determines which curve appears on a graph without being located at any point on the graph. Similarly, consciousness's selection determines which temporal ordering becomes actual without itself occurring at a time within that ordering. The neural activity "preceding" awareness and the awareness itself are both parts of the selected transaction. The apparent temporal gap between neural readiness potential and conscious decision may reflect our perspective from within the selected transaction, not a causal sequence consciousness must fit into.
 
@@ -157,11 +157,11 @@ The bidirectional relationship between time and consciousness connects to all fi
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, temporal binding, and AI implications
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, presentism, eternalism, growing block
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full framework on time, collapse, and agency
-- [time-perception-consciousness-theories](/time-perception-consciousness-theories/) — How consciousness theories fail on temporal phenomenology
-- [duration](/duration/) — Bergson's durée and qualitative lived time
-- [specious-present](/specious-present/) — The experienced duration of the present moment
+- [time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/) — How consciousness theories fail on temporal phenomenology
+- [duration](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [free-will](/concepts/free-will/) — Temporal agency and the determination question
+- [free-will](/topics/free-will/) — Temporal agency and the determination question
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 
 ## References

@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 - '[[stapp-quantum-mind]]'
 - '[[bidirectional-interaction]]'
@@ -34,7 +34,7 @@ related_articles:
 title: Conservation Laws and Mind-Brain Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The energy conservation objection to [interactionist-dualism](/concepts/interactionist-dualism/) claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s (see [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) for the full historical development), has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
@@ -126,13 +126,13 @@ One might argue that whatever selects among quantum outcomes must interact with 
 
 *Response*: This objection has force, and the response must be honest about its limits. If consciousness biases quantum outcomes, it operates where physics leaves outcomes undetermined—at measurement. Detection requires identifying a systematic pattern that deviates from quantum mechanical predictions. If consciousness selects among outcomes in ways that are (1) rare, (2) small in magnitude, or (3) variable across individuals and contexts, the effect might fall below experimental sensitivity.
 
-This is not fully satisfying. A theory that predicts undetectable effects risks being unfalsifiable. The appropriate response is epistemic humility: the selection framework shows that mental causation is *compatible with* conservation laws, not that it is *proven by* them. The positive case for consciousness affecting brain states comes from philosophical arguments—the self-stultification of [epiphenomenalism](/arguments/epiphenomenalism/), the [explanatory-gap](/concepts/explanatory-gap/), the cognitive differences between conscious and unconscious processing—not from physics.
+This is not fully satisfying. A theory that predicts undetectable effects risks being unfalsifiable. The appropriate response is epistemic humility: the selection framework shows that mental causation is *compatible with* conservation laws, not that it is *proven by* them. The positive case for consciousness affecting brain states comes from philosophical arguments—the self-stultification of [epiphenomenalism](/concepts/epiphenomenalism/), the [explanatory-gap](/concepts/explanatory-gap/), the cognitive differences between conscious and unconscious processing—not from physics.
 
 ### "This Is Just God-of-the-Gaps Reasoning"
 
 Critics might see "consciousness selects at quantum indeterminacies" as inserting consciousness wherever physics is incomplete.
 
-*Response*: The proposal isn't that consciousness explains quantum mechanics. Rather, quantum indeterminacy provides a *location* where consciousness could act without contradicting physics. The positive case for consciousness acting there comes from the philosophical arguments for dualism and against [epiphenomenalism](/arguments/epiphenomenalism/)—particularly the [self-stultification argument](/concepts/bidirectional-interaction/) that our very discussion of consciousness implies it's causally efficacious.
+*Response*: The proposal isn't that consciousness explains quantum mechanics. Rather, quantum indeterminacy provides a *location* where consciousness could act without contradicting physics. The positive case for consciousness acting there comes from the philosophical arguments for dualism and against [epiphenomenalism](/concepts/epiphenomenalism/)—particularly the [self-stultification argument](/concepts/bidirectional-interaction/) that our very discussion of consciousness implies it's causally efficacious.
 
 ### "Decoherence Closes the Gap"
 
@@ -172,7 +172,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—
 
 This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [explanatory-gap](/concepts/explanatory-gap/), the [knowledge-argument](/concepts/knowledge-argument/), the self-stultification of epiphenomenalism, and the [empirical evidence](/concepts/baseline-cognition/) that consciousness enables cognitive functions the unconscious baseline cannot achieve.
 
-The selection framework also has implications for [free-will](/concepts/free-will/). If consciousness can select among quantum-permitted neural outcomes, this provides a mechanism for agent causation that libertarians about free will require—a locus where mind genuinely determines what happens rather than merely accompanying physical processes.
+The selection framework also has implications for [free-will](/topics/free-will/). If consciousness can select among quantum-permitted neural outcomes, this provides a mechanism for agent causation that libertarians about free will require—a locus where mind genuinely determines what happens rather than merely accompanying physical processes.
 
 ## Further Reading
 

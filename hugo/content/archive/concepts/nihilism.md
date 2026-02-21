@@ -9,9 +9,9 @@ archived_date: 2026-01-27 07:00:00+00:00
 author: null
 concepts:
 - '[[qualia]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[moral-responsibility]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[mysterianism]]'
 created: 2026-01-06
 date: &id001 2026-01-06
@@ -87,7 +87,7 @@ Optimistic nihilism (sometimes called "positive nihilism" or "liberating nihilis
 
 If nothing matters inherently, then nothing *prevents* us from mattering to ourselves. The absence of a script means we can write our own. The universe's indifference is not an insult but an open invitation.
 
-This is close to existentialism, though existentialists typically resist the "nihilist" label. The distinction may be largely rhetorical. Crucially, optimistic nihilism requires [free-will](/concepts/free-will/)—the ability to genuinely choose one's own meaning. If choices are illusory or determined, the freedom celebrated by optimistic nihilists would itself be a comforting fiction.
+This is close to existentialism, though existentialists typically resist the "nihilist" label. The distinction may be largely rhetorical. Crucially, optimistic nihilism requires [free-will](/topics/free-will/)—the ability to genuinely choose one's own meaning. If choices are illusory or determined, the freedom celebrated by optimistic nihilists would itself be a comforting fiction.
 
 ## Nietzsche and the Crisis of Nihilism
 
@@ -123,7 +123,7 @@ Popular culture oscillates between pessimistic nihilism (the sense that everythi
 
 The Map's [tenets](/tenets/) take positions that resist at least some forms of nihilism.
 
-**Against moral nihilism**: The tenets express commitments—chosen starting points that shape exploration. While they are "not proven," they are also not arbitrary. The Map treats questions of consciousness, meaning, and value as genuinely important, not as mere preferences. More substantively, if [qualia](/concepts/qualia/) are real—if there is genuinely something it is like to experience—then some states are intrinsically better or worse than others. The agony of severe pain is not merely *dispreferred*; it is bad in itself. [Phenomenal value realism](/concepts/phenomenal-value-realism/) suggests that conscious experience provides the grounding for objective value that moral nihilism claims doesn't exist.
+**Against moral nihilism**: The tenets express commitments—chosen starting points that shape exploration. While they are "not proven," they are also not arbitrary. The Map treats questions of consciousness, meaning, and value as genuinely important, not as mere preferences. More substantively, if [qualia](/concepts/qualia/) are real—if there is genuinely something it is like to experience—then some states are intrinsically better or worse than others. The agony of severe pain is not merely *dispreferred*; it is bad in itself. [Phenomenal value realism](/topics/phenomenal-value-realism/) suggests that conscious experience provides the grounding for objective value that moral nihilism claims doesn't exist.
 
 **Against epistemological nihilism**: The tenets assume we can know things, including things about consciousness and its relationship to the physical world. The discussions of dualism, quantum mechanics, and philosophy of mind presuppose that inquiry can make progress.
 
@@ -142,8 +142,8 @@ The [mysterian](/concepts/mysterianism/) position adds a note of humility here. 
 - [meaning-of-life](/topics/meaning-of-life/) - The positive case for consciousness-grounded meaning
 - [existentialism](/concepts/existentialism/) - The philosophical response to nihilism
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) - Buddhist approaches to meaning and consciousness
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - Why conscious experience grounds objective value
-- [free-will](/concepts/free-will/) - The metaphysics of choice and why choices matter
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) - Why conscious experience grounds objective value
+- [free-will](/topics/free-will/) - The metaphysics of choice and why choices matter
 - [tenets](/tenets/) - the Map's foundational commitments
 
 ## References

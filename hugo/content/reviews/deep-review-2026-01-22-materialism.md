@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Against Materialism](/arguments/materialism/)
+**Article**: [Against Materialism](/concepts/materialism/)
 **Previous review**: [2026-01-07](/reviews/deep-review-2026-01-07-materialism/)
 
 ## Pessimistic Analysis Summary

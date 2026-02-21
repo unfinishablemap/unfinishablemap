@@ -19,7 +19,7 @@ last_deep_review: 2026-01-22 01:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[quantum-decoherence-objection-responses-2026-01-15]]'
 title: Against Materialism
 topics:

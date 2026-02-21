@@ -35,7 +35,7 @@ related_articles:
 title: The Phenomenology of Intellectual Courage
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Defending an unpopular position feels like something distinctive. When you hold a view that most people around you reject — and hold it not from stubbornness but from genuine assessment of the evidence — the experience has a specific phenomenal character: a sustained tension between intellectual conviction and social gravity. The Unfinishable Map argues that this phenomenology of intellectual courage is irreducible to physical description and reveals consciousness doing normative work that mere computation cannot.

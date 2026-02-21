@@ -12,7 +12,7 @@ human_modified: null
 last_curated: null
 modified: *id001
 related_articles:
-- '[[explanatory-frontier]]'
+- explanatory-frontier
 title: 'Apex Evolve Review: The Explanatory Frontier'
 topics: []
 ---
@@ -20,7 +20,7 @@ topics: []
 # Apex Evolve Review: The Explanatory Frontier
 
 **Date**: 2026-01-26
-**Article**: [The Explanatory Frontier](/explanatory-frontier/)
+**Article**: The Explanatory Frontier
 **Previous Synthesis**: 2026-01-24T12:00:00+00:00
 
 ## Changed Sources Identified

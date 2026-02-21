@@ -9,7 +9,7 @@ concepts:
 - '[[reductionism]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[panpsychism]]'
 - '[[quantum-consciousness]]'
 - '[[downward-causation]]'
@@ -68,7 +68,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary challenge 
 3. Mental causes don't systematically overdetermine physical events alongside physical causes
 4. Therefore, mental causes just *are* physical causes (reductionism)
 
-For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([epiphenomenalism](/arguments/epiphenomenalism/)), or deny that physics is causally closed.
+For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([epiphenomenalism](/concepts/epiphenomenalism/)), or deny that physics is causally closed.
 
 Kim himself diagnosed the dilemma facing his own argument: the causal closure principle must be neither too strong (begging the question by assuming physicalism) nor too weak (trivially allowing mental causation). Finding this balance proves difficult.
 
@@ -90,11 +90,11 @@ This is precisely what the Map's [Bidirectional Interaction](/tenets/#bidirectio
 
 Three features of consciousness resist reduction:
 
-**[Unified awareness](/phenomenal-unity/).** Physically separated neural networks somehow constitute a single conscious state. The [binding problem](/concepts/binding-problem/)—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity.
+**[Unified awareness](/concepts/phenomenal-binding-and-holism/).** Physically separated neural networks somehow constitute a single conscious state. The [binding problem](/concepts/binding-problem/)—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity.
 
 **Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [knowledge argument](/concepts/knowledge-argument/) and Chalmers' zombie argument suggest phenomenal properties resist physical characterization. Putnam's [multiple realizability](/concepts/reductionism/#multiple-realizability) argument reinforces this—if the same quale can be realized by different physical substrates, qualia cannot be identified with any particular neural state.
 
-**[Free will](/concepts/free-will/).** Agential experience suggests conscious choice exercises distinctive powers. Compatibilists argue this can be reconciled with determinism, but the Map endorses libertarian free will—the position that genuine alternatives are open at the moment of choice. If correct, [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/) provides the opening where physics doesn't determine outcomes, while consciousness provides the direction that transforms indeterminacy into agency rather than mere randomness.
+**[Free will](/topics/free-will/).** Agential experience suggests conscious choice exercises distinctive powers. Compatibilists argue this can be reconciled with determinism, but the Map endorses libertarian free will—the position that genuine alternatives are open at the moment of choice. If correct, [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/) provides the opening where physics doesn't determine outcomes, while consciousness provides the direction that transforms indeterminacy into agency rather than mere randomness.
 
 Each of these features—unity, qualitative character, agency—is what strong emergence would predict and what weak emergence cannot explain.
 
@@ -181,9 +181,9 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
-- [free-will](/concepts/free-will/) — The debate over whether genuine choice exists and what it requires
+- [free-will](/topics/free-will/) — The debate over whether genuine choice exists and what it requires
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity
-- [phenomenal-unity](/phenomenal-unity/) — The unity of conscious experience that binding must explain
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — The unity of conscious experience that binding must explain
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical constraints from simple organisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum theories of consciousness and downward causation

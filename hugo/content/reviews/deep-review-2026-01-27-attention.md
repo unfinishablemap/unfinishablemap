@@ -17,14 +17,14 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Attention and Consciousness](/attention/)
+**Article**: [Attention and Consciousness](/concepts/attention-as-interface/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-attention/)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken internal link**: `[Recent neuroscience](/voluntary-attention-control/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/voluntary-attention/)`.
-- **Duplicate frontmatter entry**: `[voluntary-attention](/voluntary-attention/)` appeared twice in concepts list. Resolved by removing duplicate.
+- **Broken internal link**: `[Recent neuroscience](/concepts/voluntary-attention/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/concepts/attention-as-interface/)`.
+- **Duplicate frontmatter entry**: `[voluntary-attention](/concepts/attention-as-interface/)` appeared twice in concepts list. Resolved by removing duplicate.
 
 ### Medium Issues Found
 - None requiring changes. The decoherence treatment, while brief, already includes appropriate hedging ("The objection remains serious but not categorical") and links to the full treatment.
@@ -33,7 +33,7 @@ topics: []
 - **Eliminative materialist**: Phenomenology of effort argument presupposes dualism. Response: Article already distinguishes correlation from identity; this is expected philosophical disagreement.
 - **Dennett's heterophenomenology**: AST regress objection is question-begging. Response: Article links to illusionism for broader engagement; the regress problem is a standard objection.
 - **Tegmark's decoherence calculation**: Hameroff rebuttals are contested. Response: Article acknowledges the objection is "serious" and links to decoherence.md for full treatment.
-- **MWI defender**: Collapse not required for apparent selection. Response: Site's No Many Worlds tenet addresses this; article links to [many-worlds](/arguments/many-worlds/).
+- **MWI defender**: Collapse not required for apparent selection. Response: Site's No Many Worlds tenet addresses this; article links to [many-worlds](/concepts/many-worlds/).
 
 ## Optimistic Analysis Summary
 
@@ -58,8 +58,8 @@ All cross-links from previous review remain functional:
 - [mysterianism](/concepts/mysterianism/)
 - [agent-causation](/concepts/agent-causation/)
 - [pairing-problem](/concepts/pairing-problem/)
-- [many-worlds](/arguments/many-worlds/)
-- [voluntary-attention](/voluntary-attention/)
+- [many-worlds](/concepts/many-worlds/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 
 ## Remaining Items
 

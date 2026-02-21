@@ -28,7 +28,7 @@ last_deep_review: 2026-02-15 01:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[mysterianism]]'
 - '[[substance-property-dualism]]'
 title: The Meta-Problem of Consciousness

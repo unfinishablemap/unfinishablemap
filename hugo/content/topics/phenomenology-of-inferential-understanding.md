@@ -33,7 +33,7 @@ related_articles:
 - '[[phenomenology-of-belief-revision]]'
 - '[[argument-from-reason]]'
 - '[[explanatory-gap]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 title: The Phenomenology of Inferential Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -145,7 +145,7 @@ It is worth noting, in the spirit of [mysterian](/concepts/mysterianism/) honest
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — How discrete conscious states combine into structured wholes
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Seeing-why as the paradigm of reasons-responsive cognition
-- [free-will](/concepts/free-will/) — Inferential compulsion as rational constraint, not external determination
+- [free-will](/topics/free-will/) — Inferential compulsion as rational constraint, not external determination
 
 ## References
 

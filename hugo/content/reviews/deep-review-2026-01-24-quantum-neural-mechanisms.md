@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Quantum Neural Mechanisms](/quantum-neural-mechanisms/)
+**Article**: [Quantum Neural Mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -74,7 +74,7 @@ topics: []
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 - [agent-causation](/concepts/agent-causation/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [explanatory-gap](/concepts/explanatory-gap/)

@@ -81,7 +81,7 @@ Already comprehensive—no additions needed:
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [haecceity](/concepts/haecceity/)
 - [combination-problem](/concepts/combination-problem/)
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 
 ### Enhancement Opportunities Deferred
 The following were identified but not implemented due to length constraints (article at 114% of soft threshold):

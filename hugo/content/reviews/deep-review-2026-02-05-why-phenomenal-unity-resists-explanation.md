@@ -65,9 +65,9 @@ Primary focus was orphan integration:
 
 ### Cross-links Added
 The article now has inbound links from:
-- [phenomenal-unity](/phenomenal-unity/)
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
 - [binding-problem](/concepts/binding-problem/)
-- [neural-binding-mechanisms](/neural-binding-mechanisms/)
+- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 
 ## Remaining Items

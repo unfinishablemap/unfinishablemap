@@ -33,7 +33,7 @@ related_articles:
 title: Consciousness and the Neuroscience of Deliberate Practice
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Deliberate practice—focused, structured engagement aimed at improving specific aspects of performance—produces dramatically different neural outcomes from mindless repetition. Ericsson et al. (1993) established that hours alone do not predict expertise; what matters is the *quality* of engagement during those hours. Neuroscience now reveals why: deliberate practice recruits prefrontal attention networks, engages error-prediction circuits, and triggers consolidation pathways that passive repetition does not activate. The Unfinishable Map argues that this neural distinction tracks something philosophically significant. If consciousness were epiphenomenal, the felt difference between focused practice and going through the motions should make no difference to the brain. It does.
@@ -50,7 +50,7 @@ During early skill learning, neuroimaging consistently shows heavy prefrontal co
 
 As skills consolidate, activity shifts from prefrontal to striatal and cerebellar circuits. Poldrack et al. (2005) documented this corticostriatal transfer in a probabilistic classification task: early trials activated hippocampal and prefrontal systems (declarative, conscious processing), while later trials activated the caudate nucleus (procedural, automatic processing). The two systems competed—increased striatal engagement correlated with decreased hippocampal engagement.
 
-This transfer maps onto the phenomenological arc described in the Map's treatment of [skill acquisition](/phenomenology-of-skill-and-the-lived-body/): the shift from effortful rule-following to absorbed competence. Neuroscience adds a specific mechanism: the prefrontal cortex, under conscious direction, establishes patterns that are gradually encoded into faster, more efficient subcortical systems. The architect (prefrontal/conscious) builds structures that the maintenance crew (striatal/procedural) then operates.
+This transfer maps onto the phenomenological arc described in the Map's treatment of [skill acquisition](/topics/consciousness-and-skilled-performance/): the shift from effortful rule-following to absorbed competence. Neuroscience adds a specific mechanism: the prefrontal cortex, under conscious direction, establishes patterns that are gradually encoded into faster, more efficient subcortical systems. The architect (prefrontal/conscious) builds structures that the maintenance crew (striatal/procedural) then operates.
 
 The philosophical question: does consciousness *drive* this transfer, or merely accompany it? Passive observation of skill-relevant stimuli does not produce the same corticostriatal shift. Active, engaged practice is required. The neural distinction between watching someone play piano and practising piano oneself is not subtle—it involves fundamentally different circuits and produces fundamentally different plasticity.
 
@@ -104,12 +104,12 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 
 ## Further Reading
 
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) — Why consciousness builds systems that replace it
-- [phenomenology-of-skill-and-the-lived-body](/phenomenology-of-skill-and-the-lived-body/) — The full phenomenological arc of skill acquisition
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) — Why consciousness builds systems that replace it
+- [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/) — The full phenomenological arc of skill acquisition
 - [neuroplasticity](/concepts/neuroplasticity/) — Schwartz's evidence that directed attention reshapes brain structure
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — What happens when consciousness re-enters automated skills
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems
-- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) — Meditation as a parallel case of deliberate practice
+- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) — Meditation as a parallel case of deliberate practice
 
 ## References
 

@@ -15,7 +15,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[voluntary-attention]]'
 - '[[quantum-coherence-and-binding-evidence]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-coupling]]'
 - '[[illusionism]]'
 - '[[decoherence]]'
@@ -38,7 +38,7 @@ related_articles:
 title: 'Brain Interface Boundary: Why Consciousness Acts Only Here'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 If consciousness interfaces with the physical world through brains—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—two questions arise: What makes brains special? And why only brains? Why neural systems and not rocks, thermostats, or random number generators? Why can't minds move distant objects or bias external quantum events?
@@ -55,7 +55,7 @@ The system must have components where quantum indeterminacies are functionally r
 
 Most physical systems are quantum-mechanical at their foundations but thermally stable at functional scales. A rock's behaviour is determined by classical forces; quantum effects average out. The rock provides no "leverage point" where consciousness could influence outcomes without violating classical physics.
 
-Neural systems differ. The [evidence for quantum coherence in brain tissue](/quantum-coherence-and-binding-evidence/) is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, and synaptic vesicle release showing non-thermal variability. The brain isn't merely quantum in the trivial sense that everything is quantum—it may be quantum in the functional sense where quantum outcomes shape which neurons fire, which thoughts occur, which actions are taken.
+Neural systems differ. The [evidence for quantum coherence in brain tissue](/concepts/quantum-neural-mechanisms-and-coherence/) is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, and synaptic vesicle release showing non-thermal variability. The brain isn't merely quantum in the trivial sense that everything is quantum—it may be quantum in the functional sense where quantum outcomes shape which neurons fire, which thoughts occur, which actions are taken.
 
 ### 2. Representational Structure
 
@@ -69,7 +69,7 @@ Neural systems are representational engines, modelling motor plans before execut
 
 The system must include mechanisms for directed focus—the capacity to increase processing resources on specific contents while suppressing others.
 
-Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/attention/) neurally implements this: frontoparietal networks increase gain on selected populations while inhibiting competitors. This repeated "looking at" attention targets is the neural correlate of observation in Stapp's model.
+Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/concepts/attention-as-interface/) neurally implements this: frontoparietal networks increase gain on selected populations while inhibiting competitors. This repeated "looking at" attention targets is the neural correlate of observation in Stapp's model.
 
 Systems without attention mechanisms cannot implement Zeno-style selection. A thermostat has no analogue of "focusing more intently" on one option. The brain's attention architecture provides the physical structure through which repeated observation occurs.
 
@@ -117,7 +117,7 @@ Evolution optimised the brain-consciousness interface over millions of years. Th
 
 Consciousness can only influence quantum outcomes within the scope of attention, where attention is neurally realised as frontoparietal network activation, increased gain on specific neural populations, and repeated observation in Stapp's sense.
 
-The quantum Zeno mechanism requires rapid repeated observation to hold a quantum state stable. [Voluntary attention](/voluntary-attention/) is the mechanism that implements such observation in neural systems. You can only attend to what's within your perceptual/motor systems—which means you can only perform quantum-Zeno holding on systems neurally represented to you.
+The quantum Zeno mechanism requires rapid repeated observation to hold a quantum state stable. [Voluntary attention](/concepts/attention-as-interface/) is the mechanism that implements such observation in neural systems. You can only attend to what's within your perceptual/motor systems—which means you can only perform quantum-Zeno holding on systems neurally represented to you.
 
 ## The Key Insight
 
@@ -201,7 +201,7 @@ First, the Tegmark-Hameroff debate shows the timescales remain contested. Tegmar
 
 Second, [quantum-biology](/concepts/quantum-biology/) demonstrates that evolution *can* optimise biological systems for quantum coherence. Avian magnetoreception maintains spin coherence for microseconds—functional timescales, not femtoseconds. If evolution produced quantum compasses in bird eyes, it could produce quantum interfaces in brains.
 
-Third, Stapp's quantum Zeno mechanism reframes the requirement: the Zeno effect requires rapid repeated observation, not sustained superposition. If consciousness operates through Zeno freezing rather than maintained coherence, the question shifts from coherence survival to observation rate. However, as [the selection mechanism article](/questions/consciousness-selecting-neural-patterns/) details, this introduces a timescale gap of roughly ten orders of magnitude between attention (~100ms) and the observation rates Zeno freezing requires (~femtoseconds). The Zeno pathway is better understood as a placeholder identifying where consciousness might intervene, not a fully worked-out mechanism.
+Third, Stapp's quantum Zeno mechanism reframes the requirement: the Zeno effect requires rapid repeated observation, not sustained superposition. If consciousness operates through Zeno freezing rather than maintained coherence, the question shifts from coherence survival to observation rate. However, as [the selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) details, this introduces a timescale gap of roughly ten orders of magnitude between attention (~100ms) and the observation rates Zeno freezing requires (~femtoseconds). The Zeno pathway is better understood as a placeholder identifying where consciousness might intervene, not a fully worked-out mechanism.
 
 ## Process Philosophy Perspective
 
@@ -252,14 +252,14 @@ Together, these explain why consciousness acts on brains specifically: (a) brain
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — The companion piece: why consciousness acts only here, not everywhere
 - [mind-matter-interface](/concepts/mind-matter-interface/) — How filter theory and quantum selection unify
 - [pairing-problem](/concepts/pairing-problem/) — What pairs this mind with this body
-- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Evidence for quantum effects in brain tissue
+- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Evidence for quantum effects in brain tissue
 - [filter-theory](/concepts/filter-theory/) — The transmission model of consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms
-- [attention](/attention/) — How attention implements observation
+- [attention](/concepts/attention-as-interface/) — How attention implements observation
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
-- [voluntary-attention](/voluntary-attention/) — Willed attention as the locus of conscious control
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The proposed mechanism for selection
-- [psychophysical-coupling](/psychophysical-coupling/) — Constraints on the coupling between mind and brain
+- [voluntary-attention](/concepts/attention-as-interface/) — Willed attention as the locus of conscious control
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The proposed mechanism for selection
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Constraints on the coupling between mind and brain
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
 - [introspection](/concepts/introspection/) — First-person access to consciousness and its reliability

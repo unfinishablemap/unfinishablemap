@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Mechanisms of the Attention-Consciousness Interface](/attention-interface-mechanisms/)
+**Article**: [Mechanisms of the Attention-Consciousness Interface](/topics/attention-as-selection-interface/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-attention-interface-mechanisms/) (earlier same day)
 **Focus**: Orphan integration (file had no inbound links)
 
@@ -46,15 +46,15 @@ All strengths identified in the earlier review remain intact:
 
 ### Cross-links Added
 
-The following articles now link to `[attention-interface-mechanisms](/attention-interface-mechanisms/)`:
+The following articles now link to `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`:
 
 1. **[stapp-quantum-mind](/concepts/stapp-quantum-mind/)** — Added contextual link in the opening section pointing to candidate sites and timing constraints
 2. **[quantum-consciousness](/concepts/quantum-consciousness/)** — Added to "Mechanisms and timing" Further Reading section
 3. **[decoherence](/concepts/decoherence/)** — Added to Further Reading section
 4. **[structure-of-attention](/topics/structure-of-attention/)** — Added both in-text reference (at 300ms timing discussion) and Further Reading link
 5. **[mental-effort](/concepts/mental-effort/)** — Added to Further Reading section
-6. **[free-will](/concepts/free-will/)** — Added contextual link in the mechanisms discussion section
-7. **[psychophysical-coupling](/psychophysical-coupling/)** — Added to Further Reading section
+6. **[free-will](/topics/free-will/)** — Added contextual link in the mechanisms discussion section
+7. **[psychophysical-coupling](/concepts/psychophysical-laws/)** — Added to Further Reading section
 
 ### Rationale for Link Placements
 

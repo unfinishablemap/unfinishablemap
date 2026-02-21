@@ -9,7 +9,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[consciousness-and-creativity]]'
 - '[[attention-as-interface]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[agent-causation]]'
 - '[[mental-causation]]'
 - '[[specious-present]]'
@@ -36,11 +36,11 @@ related_articles:
 - '[[temporal-structure-consciousness-2026-01-14]]'
 title: Consciousness and Temporal Creativity
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Creativity depends on time in a way that no atemporal process can replicate. The Unfinishable Map's treatment of [consciousness and creativity](/topics/creativity-consciousness-and-novel-thought/) establishes that conscious agents both generate and select novel possibilities. Its treatment of [temporal consciousness](/topics/temporal-structure-of-consciousness/) establishes that experience has irreducible temporal structure—[durée](/duration/), the [specious present](/specious-present/), retention-protention unity. This article argues that these two facts are not independent. Consciousness creates because it unfolds in time, and the specific way it unfolds—accumulating rather than replacing, integrating rather than discarding—is what makes genuine novelty possible.
+Creativity depends on time in a way that no atemporal process can replicate. The Unfinishable Map's treatment of [consciousness and creativity](/topics/creativity-consciousness-and-novel-thought/) establishes that conscious agents both generate and select novel possibilities. Its treatment of [temporal consciousness](/topics/temporal-structure-of-consciousness/) establishes that experience has irreducible temporal structure—[durée](/concepts/temporal-consciousness/), the [specious present](/concepts/temporal-consciousness/), retention-protention unity. This article argues that these two facts are not independent. Consciousness creates because it unfolds in time, and the specific way it unfolds—accumulating rather than replacing, integrating rather than discarding—is what makes genuine novelty possible.
 
 The core claim: temporal creativity is not creativity that happens to occur in time. It is creativity that *requires* lived time as its medium. Strip away durée and you get recombination—rearranging pre-existing elements. Only a process that carries its past into its present while remaining open to an indeterminate future can produce what Bergson called "the continuous creation of unforeseeable novelty."
 
@@ -48,9 +48,9 @@ The core claim: temporal creativity is not creativity that happens to occur in t
 
 Standard computation treats time as a parameter. A sorting algorithm takes time to execute, but the time adds nothing to the result—the sorted output is implicit in the input and the rules. Time here is a cost, not a contributor.
 
-Conscious experience treats time differently. Each moment of awareness inherits its entire history. Yesterday's conversation shapes how you hear today's. A lifetime of listening shapes how you hear a note. Husserl's [retention-protention structure](/specious-present/) captures this: each present moment contains the just-past echoing within it and the anticipated future drawing it forward. The present is thick with accumulated meaning.
+Conscious experience treats time differently. Each moment of awareness inherits its entire history. Yesterday's conversation shapes how you hear today's. A lifetime of listening shapes how you hear a note. Husserl's [retention-protention structure](/concepts/temporal-consciousness/) captures this: each present moment contains the just-past echoing within it and the anticipated future drawing it forward. The present is thick with accumulated meaning.
 
-Bergson made this constitutive rather than incidental. In [durée](/duration/), past and present interpenetrate—distinguishable yet inseparable, like notes in a melody. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly." Each moment differs from every predecessor because it carries those predecessors within it. The hundredth hearing of a melody is not the first hearing repeated ninety-nine times. It is a genuinely new experience produced by the accumulated weight of all previous hearings.
+Bergson made this constitutive rather than incidental. In [durée](/concepts/temporal-consciousness/), past and present interpenetrate—distinguishable yet inseparable, like notes in a melody. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly." Each moment differs from every predecessor because it carries those predecessors within it. The hundredth hearing of a melody is not the first hearing repeated ninety-nine times. It is a genuinely new experience produced by the accumulated weight of all previous hearings.
 
 This accumulation is what generates novelty. New combinations arise not because elements are shuffled but because the combinatorial space itself expands with each addition to experience. A concept encountered after years of engagement with adjacent ideas connects differently than the same concept encountered in isolation. The connections are not pre-existing possibilities waiting to be discovered—they are constituted by the temporal history that makes them possible.
 
@@ -68,7 +68,7 @@ Three features of actual creativity resist this reduction.
 
 ## The Creative Specious Present
 
-The [specious present](/specious-present/)—the experienced duration within which succession appears unified—provides the temporal workspace for creative combination. Within its window of roughly 100-750ms, consciousness holds multiple elements in simultaneous awareness while maintaining their temporal order. This simultaneous-yet-ordered holding is precisely what creative combination requires: seeing the elements together while recognising their distinctness.
+The [specious present](/concepts/temporal-consciousness/)—the experienced duration within which succession appears unified—provides the temporal workspace for creative combination. Within its window of roughly 100-750ms, consciousness holds multiple elements in simultaneous awareness while maintaining their temporal order. This simultaneous-yet-ordered holding is precisely what creative combination requires: seeing the elements together while recognising their distinctness.
 
 Consider the "aha!" moment. Neuroscience research shows that insight is preceded by alpha bursts (reducing distraction) and marked by gamma spikes (the emerging solution). Neural signatures can distinguish insight-bound from analysis-bound problem solving seconds before the solver becomes consciously aware of the solution (Sheth et al., 2009). But the moment of illumination itself—the felt transition from searching to finding—occurs within the specious present. Multiple elements click together *simultaneously* while retaining their individual identities.
 
@@ -98,7 +98,7 @@ Moreover, the insight moment itself—where incubation's product becomes actual 
 
 ## Temporal Creativity and Quantum Selection
 
-The Map's [quantum selection framework](/questions/consciousness-selecting-neural-patterns/)—one proposed mechanism for how consciousness might interact with neural processes—gains additional significance in this context. If consciousness selects among quantum-superposed neural patterns through a Zeno-like effect, and if this selection occurs within the temporally structured specious present, then the creative act would involve:
+The Map's [quantum selection framework](/concepts/consciousness-selecting-neural-patterns/)—one proposed mechanism for how consciousness might interact with neural processes—gains additional significance in this context. If consciousness selects among quantum-superposed neural patterns through a Zeno-like effect, and if this selection occurs within the temporally structured specious present, then the creative act would involve:
 
 1. **Temporal accumulation** constituting the problem space through durée
 2. **Simultaneous presentation** of candidate solutions within the specious present
@@ -136,16 +136,16 @@ A legitimate challenge comes from computational systems with state history. Recu
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables creative thought through generation and selection
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Why consciousness requires temporal structure and time may require consciousness
 - [bergson-and-duration](/topics/bergson-and-duration/) — Bergson's philosophy of durée, creative evolution, and lived time
-- [duration](/duration/) — Bergson's durée and qualitative lived time
-- [specious-present](/specious-present/) — The experienced duration of the present moment
+- [duration](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Why incubation depends on prior conscious engagement
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — The contrasting claim that consciousness may have a non-temporal ground
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's process metaphysics and its convergence with Bergson on creativity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role mediating consciousness and matter
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
-- [free-will](/concepts/free-will/) — How creative agency connects to libertarian free will
+- [free-will](/topics/free-will/) — How creative agency connects to libertarian free will
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
 
 ## References

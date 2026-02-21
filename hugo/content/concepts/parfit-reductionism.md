@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[haecceity]]'
 - '[[philosophical-zombies]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[witness-consciousness]]'
@@ -86,7 +86,7 @@ Parfit might respond that zombies are impossible. But even if they are, the conc
 
 ### Many-Worlds Convergence
 
-Parfit's view converges troublingly with the [many-worlds](/arguments/many-worlds/) interpretation of quantum mechanics. Both treat identity as pattern-instantiation rather than particular:
+Parfit's view converges troublingly with the [many-worlds](/concepts/many-worlds/) interpretation of quantum mechanics. Both treat identity as pattern-instantiation rather than particular:
 
 | Thesis | Parfit | Many-Worlds |
 |--------|--------|-------------|
@@ -259,7 +259,7 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 - [personal-identity](/topics/personal-identity/) — The broader question of what makes you you
 - [haecceity](/concepts/haecceity/) — Indexical identity and why *this* being matters
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why consciousness isn't reducible
-- [many-worlds](/arguments/many-worlds/) — Why the Map rejects many-worlds (parallel concerns)
+- [many-worlds](/concepts/many-worlds/) — Why the Map rejects many-worlds (parallel concerns)
 - [agent-causation](/concepts/agent-causation/) — Why agents, not patterns, cause actions
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival requires
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory

@@ -24,7 +24,7 @@ related_articles:
 - '[[introspective-opacity]]'
 - '[[habituation-void]]'
 - '[[other-minds-void]]'
-- '[[binding-void]]'
+- binding-void
 - '[[topology-of-cognitive-failure]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'

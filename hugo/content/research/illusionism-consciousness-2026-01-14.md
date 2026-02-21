@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[qualia]]'
 - '[[explanatory-gap]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-01-14
 date: &id001 2026-01-14

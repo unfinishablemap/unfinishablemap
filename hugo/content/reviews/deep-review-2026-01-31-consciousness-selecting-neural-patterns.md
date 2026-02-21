@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [Consciousness-Selecting Neural Patterns](/questions/consciousness-selecting-neural-patterns/)
+**Article**: [Consciousness-Selecting Neural Patterns](/concepts/consciousness-selecting-neural-patterns/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-consciousness-selecting-neural-patterns/)
 **Word count**: 2861 words (114% of 2500 soft threshold)
 
@@ -61,7 +61,7 @@ All major counterarguments from six adversarial personas were reviewed:
 
 ### Cross-links Present
 The article already has comprehensive cross-linking from the previous review:
-- [decoherence](/concepts/decoherence/), [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [voluntary-attention](/voluntary-attention/), [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [psychophysical-coupling](/psychophysical-coupling/), [quantum-consciousness](/concepts/quantum-consciousness/), [mental-effort](/concepts/mental-effort/), [attention](/attention/), [mental-causation](/concepts/mental-causation/), [causal-closure](/concepts/causal-closure/), [measurement-problem](/concepts/measurement-problem/), [interactionist-dualism](/concepts/interactionist-dualism/), [tenets](/tenets/)
+- [decoherence](/concepts/decoherence/), [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [voluntary-attention](/concepts/attention-as-interface/), [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [psychophysical-coupling](/concepts/psychophysical-laws/), [quantum-consciousness](/concepts/quantum-consciousness/), [mental-effort](/concepts/mental-effort/), [attention](/concepts/attention-as-interface/), [mental-causation](/concepts/mental-causation/), [causal-closure](/concepts/causal-closure/), [measurement-problem](/concepts/measurement-problem/), [interactionist-dualism](/concepts/interactionist-dualism/), [tenets](/tenets/)
 
 ## Remaining Items
 

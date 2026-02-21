@@ -64,7 +64,7 @@ topics: []
 - [haecceity](/concepts/haecceity/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [combination-problem](/concepts/combination-problem/)
-- [substrate-independence-critique](/substrate-independence-critique/)
+- [substrate-independence-critique](/concepts/substrate-independence/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 
 ## Remaining Items

@@ -28,7 +28,7 @@ related_articles:
 title: Time-Symmetric Physics
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.

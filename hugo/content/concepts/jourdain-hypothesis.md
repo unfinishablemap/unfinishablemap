@@ -13,7 +13,7 @@ concepts:
 - '[[working-memory]]'
 - '[[illusionism]]'
 - '[[cognitive-phenomenology]]'
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 - '[[quantum-coherence-and-binding-evidence]]'
 - '[[phenomenal-unity]]'
 created: 2026-01-22
@@ -79,7 +79,7 @@ Great apes understand that others have goals, perceptions, and some knowledge st
 
 ## Social Cognition: Where the Jourdain Distinction Is Clearest
 
-[Social cognition](/concepts/consciousness-and-social-cognition/) provides the sharpest evidence for the procedural/declarative divide. The 4-level theory of mind hierarchy maps directly onto the Jourdain distinction:
+[Social cognition](/topics/consciousness-and-social-cognition/) provides the sharpest evidence for the procedural/declarative divide. The 4-level theory of mind hierarchy maps directly onto the Jourdain distinction:
 
 | Level | Description | Requires Metarepresentation? | Great Apes |
 |-------|-------------|------------------------------|------------|
@@ -90,7 +90,7 @@ Great apes understand that others have goals, perceptions, and some knowledge st
 
 **Level 3**—representing another's beliefs about your beliefs about their intentions—requires holding nested representations simultaneously in [working-memory](/concepts/working-memory/) while manipulating their relationships. This is the cognitive operation the Jourdain transition describes: not just having representations, but representing them *as* representations subject to deliberate comparison and inference.
 
-Metarepresentation requires holding a mental state and a representation of that state in unified awareness—experiencing both simultaneously as aspects of a single "this is how my mind is" thought. This dual-structure phenomenology connects to [phenomenal unity](/phenomenal-unity/): the capacity to experience multiple mental contents as aspects of one conscious state. Whether [quantum binding](/quantum-coherence-and-binding-evidence/) provides the physical mechanism for such unity remains speculative, but if it does, quantum effects might bear on the Jourdain transition itself—a connection to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet worth noting, though not established.
+Metarepresentation requires holding a mental state and a representation of that state in unified awareness—experiencing both simultaneously as aspects of a single "this is how my mind is" thought. This dual-structure phenomenology connects to [phenomenal unity](/concepts/phenomenal-binding-and-holism/): the capacity to experience multiple mental contents as aspects of one conscious state. Whether [quantum binding](/concepts/quantum-neural-mechanisms-and-coherence/) provides the physical mechanism for such unity remains speculative, but if it does, quantum effects might bear on the Jourdain transition itself—a connection to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet worth noting, though not established.
 
 ### Shared Intentionality
 
@@ -200,8 +200,8 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 
 ## Further Reading
 
-- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
-- [metarepresentation](/metarepresentation/) — The capacity to represent representations as representations
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
+- [metarepresentation](/concepts/metacognition/) — The capacity to represent representations as representations
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires the Jourdain transition
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring

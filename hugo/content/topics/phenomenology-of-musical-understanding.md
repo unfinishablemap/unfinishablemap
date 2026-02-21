@@ -10,10 +10,10 @@ concepts:
 - '[[phenomenology]]'
 - '[[phenomenal-unity]]'
 - '[[cognitive-phenomenology]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[consciousness-and-semantic-understanding]]'
 - '[[temporal-structure-of-understanding]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 created: 2026-02-18
 date: &id001 2026-02-18
 description: Musical understanding reveals consciousness as irreducibly temporal,
@@ -76,7 +76,7 @@ This poses a problem for evaluativist accounts of emotion that define emotional 
 
 The hedonic account handles this naturally: musical emotion has intrinsic valence and qualitative character that is not *about* anything external. The sadness of a minor passage is a phenomenal property of the experience itself, as immediate and non-representational as the painfulness of pain.
 
-This matters for the Map's framework because it demonstrates that [phenomenal value](/concepts/phenomenal-value-realism/)—the intrinsic goodness or badness of experience—operates independently of representational content. Consciousness carries evaluative weight that cannot be captured by describing what experience *represents*.
+This matters for the Map's framework because it demonstrates that [phenomenal value](/topics/phenomenal-value-realism/)—the intrinsic goodness or badness of experience—operates independently of representational content. Consciousness carries evaluative weight that cannot be captured by describing what experience *represents*.
 
 ## The Binding Achievement
 
@@ -88,7 +88,7 @@ Musical understanding requires binding across multiple dimensions simultaneously
 - **Dynamic contour** — loudness and its changes
 - **Emotional trajectory** — the affective arc of the passage
 
-These dimensions are not experienced separately and then combined. The experience of a cello playing a descending minor phrase *piano* with a slight *ritardando* is a unified quale—a single quality of experience in which pitch, timbre, dynamics, rhythm, and emotion are inseparable. This is [phenomenal-unity](/phenomenal-unity/) in action: the binding is not computational aggregation but experiential unity.
+These dimensions are not experienced separately and then combined. The experience of a cello playing a descending minor phrase *piano* with a slight *ritardando* is a unified quale—a single quality of experience in which pitch, timbre, dynamics, rhythm, and emotion are inseparable. This is [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) in action: the binding is not computational aggregation but experiential unity.
 
 The binding achievement in music is particularly revealing because it operates across time. The unity of a four-bar phrase is not the synchronic binding of simultaneous features (as in visual binding) but the diachronic binding of successive events into a felt whole. This diachronic binding is precisely what Bergson described as durée and what the Map connects to consciousness's constitutive role in temporal experience.
 
@@ -121,9 +121,9 @@ Musical understanding connects to the Map's framework through several tenets.
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence, felt quality, and non-propositional emotion
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of understanding and thought
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How understanding unfolds temporally
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Intrinsic value in conscious experience
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value in conscious experience
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Phenomenal consciousness and meaning
-- [phenomenal-unity](/phenomenal-unity/) — The binding of experience into unified wholes
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
 
 ## References
 

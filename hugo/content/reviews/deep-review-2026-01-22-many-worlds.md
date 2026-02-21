@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Against Many-Worlds](/arguments/many-worlds/)
+**Article**: [Against Many-Worlds](/concepts/many-worlds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

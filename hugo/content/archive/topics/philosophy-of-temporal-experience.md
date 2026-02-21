@@ -45,7 +45,7 @@ The Unfinishable Map takes this seriously. If the [explanatory gap](/concepts/ex
 
 ## The Specious Present
 
-The [specious present](/specious-present/), named by E.R. Clay and developed by William James, denotes the experienced duration of "now." The mathematical present is durationless—an instant with no extent. But the experiential present has duration. When you hear a melody, you don't perceive isolated tones; you hear phrases, progressions, tension and resolution. This requires holding successive moments together in a unified experience.
+The [specious present](/concepts/temporal-consciousness/), named by E.R. Clay and developed by William James, denotes the experienced duration of "now." The mathematical present is durationless—an instant with no extent. But the experiential present has duration. When you hear a melody, you don't perceive isolated tones; you hear phrases, progressions, tension and resolution. This requires holding successive moments together in a unified experience.
 
 James wrote: "The unit of composition of our perception of time is a duration, with a bow and a stern, as it were—a rearward- and a forward-looking end." The specious present isn't a point but an interval—roughly 100 to 750 milliseconds according to various experimental estimates, with some researchers extending the "extended present" to 2-3 seconds for certain phenomena.
 
@@ -147,7 +147,7 @@ The philosophy of temporal experience connects to the Map's framework at multipl
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specious present's duration (~100-750ms) may reflect accumulated collapse events—each individually minimal but collectively constituting the experienced duration-block. The quantum Zeno mechanism (rapid observation holding neural patterns) provides a candidate mechanism for temporal binding without requiring sustained coherence.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal experience provides the substrate for agency. Choice requires retention of options considered and protention toward outcomes anticipated. The [phenomenology of deliberation](/phenomenology-of-temporal-agency/)—holding possibilities open, then narrowing to decision—presupposes temporal structure. If consciousness merely observed predetermined outcomes, the temporal dynamics of choosing would be inexplicable.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal experience provides the substrate for agency. Choice requires retention of options considered and protention toward outcomes anticipated. The [phenomenology of deliberation](/topics/temporal-structure-of-consciousness/)—holding possibilities open, then narrowing to decision—presupposes temporal structure. If consciousness merely observed predetermined outcomes, the temporal dynamics of choosing would be inexplicable.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The experience of succession—possibilities narrowing to actualities—assumes real collapse. In many-worlds, all possibilities are realized; we merely discover which branch we're on. But temporal experience doesn't feel like discovery; it feels like creation. The qualitative difference between open future and fixed past makes sense under collapse realism, not under eternal branching.
 
@@ -156,9 +156,9 @@ The philosophy of temporal experience connects to the Map's framework at multipl
 ## Further Reading
 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and its implications for AI consciousness
-- [phenomenology-of-temporal-agency](/phenomenology-of-temporal-agency/) — What choosing feels like through time
-- [duration](/duration/) — Bergson's concept of lived time
-- [specious-present](/specious-present/) — The experienced duration of "now"
+- [phenomenology-of-temporal-agency](/topics/temporal-structure-of-consciousness/) — What choosing feels like through time
+- [duration](/concepts/temporal-consciousness/) — Bergson's concept of lived time
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now"
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the growing block
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full treatment of time and conscious agency

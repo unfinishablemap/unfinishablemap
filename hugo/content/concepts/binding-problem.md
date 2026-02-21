@@ -28,7 +28,7 @@ concepts:
 - '[[working-memory]]'
 - '[[cognitive-phenomenology]]'
 - '[[stapp-quantum-mind]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[multimodal-binding]]'
 - '[[mysterianism]]'
 - '[[illusionism]]'
@@ -70,7 +70,7 @@ William James coined the "combination problem" in the 19th century: if conscious
 
 BP2 is the "hard" aspect of binding. As researchers note, "A unified conscious moment with several bits of information presents an apparent physical paradox since it implies that several spatially separate objects exert causal power simultaneously." The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/multimodal-binding/)** concerns features from different senses. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/concepts/phenomenal-binding-and-holism/)** concerns features from different senses. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
 
 ### The Illusionist Challenge
 
@@ -80,7 +80,7 @@ The Map rejects this. First, the illusionist faces infinite regress: to experien
 
 ## Classical Proposed Solutions
 
-Several mechanisms have been proposed for computational binding (BP1). See [neural-binding-mechanisms](/neural-binding-mechanisms/) for detailed treatment.
+Several mechanisms have been proposed for computational binding (BP1). See [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) for detailed treatment.
 
 **Binding by synchrony**: Features belonging to the same object bind through synchronized gamma-band oscillations (30-100 Hz). But synchronized firing consists of separate events in separate neurons. Why does correlation feel like unity? Classical coordination does not produce ontological holism—the whole remains reducible to coordinated parts.
 
@@ -112,7 +112,7 @@ Binding operates across time and cognitive domains, not just within a moment.
 
 ### Temporal Binding and Memory
 
-[Autonoetic consciousness](/autonoetic-consciousness/) reveals temporal binding: when you remember an event, "pastness" is phenomenally bound to the content. Episodic memory involves being simultaneously present as rememberer (now) and protagonist (then)—binding across temporal perspectives. The hippocampus performs binding essential to both perception and memory, suggesting consciousness participates constitutively in binding across cognitive domains.
+[Autonoetic consciousness](/concepts/episodic-memory/) reveals temporal binding: when you remember an event, "pastness" is phenomenally bound to the content. Episodic memory involves being simultaneously present as rememberer (now) and protagonist (then)—binding across temporal perspectives. The hippocampus performs binding essential to both perception and memory, suggesting consciousness participates constitutively in binding across cognitive domains.
 
 ### Sleep: BP1 Without BP2
 
@@ -136,7 +136,7 @@ Classical approaches propose mechanisms where separate processes *interact* or *
 
 Several quantum binding theories exist. The [Orch OR theory](/concepts/quantum-consciousness/) proposes microtubule quantum coherence across neurons; [Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/) proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness selecting among superposed states, differing on substrate. For detailed treatment, see [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/).
 
-Early experimental results are suggestive but preliminary. Microtubule-stabilising drugs delayed anesthetic-induced unconsciousness in rats (Wiest et al., 2024), and MRI signals consistent with entanglement correlated with waking consciousness (Kerskens & Pérez, 2022). However, both findings have alternative classical explanations, and the Kerskens-Pérez result awaits independent replication. The standard [decoherence](/concepts/decoherence/) objection—that quantum effects are destroyed too fast in warm biological systems—remains contested, with estimates varying by orders of magnitude. See [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) for comprehensive treatment.
+Early experimental results are suggestive but preliminary. Microtubule-stabilising drugs delayed anesthetic-induced unconsciousness in rats (Wiest et al., 2024), and MRI signals consistent with entanglement correlated with waking consciousness (Kerskens & Pérez, 2022). However, both findings have alternative classical explanations, and the Kerskens-Pérez result awaits independent replication. The standard [decoherence](/concepts/decoherence/) objection—that quantum effects are destroyed too fast in warm biological systems—remains contested, with estimates varying by orders of magnitude. See [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) for comprehensive treatment.
 
 The quantum hypothesis is the Map's preferred approach to BP2 because it offers genuine physical holism rather than mere coordination. But it remains speculative, and the Map's core claim—that BP2 is not solved by classical mechanisms—does not depend on any particular quantum theory being correct.
 
@@ -180,7 +180,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If quantum coherence plays a role in binding, consciousness may operate at the quantum level as the tenet proposes. The binding problem's resistance to classical solution is at least consistent with unity being a quantum phenomenon. On this speculative but testable hypothesis, consciousness could bias which coherent states collapse into unified moments without violating physical law.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Attention influences what gets bound into unified experience. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely passively reflected neural binding, we couldn't voluntarily control which streams unify. The fact that attention shapes binding suggests top-down causation from phenomenal states to neural coordination. This connects to [free will](/concepts/free-will/) and [agent causation](/concepts/agent-causation/): if phenomenal binding is partly under voluntary control, consciousness isn't merely registering what the brain presents—it's actively selecting among possible unified experiences.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Attention influences what gets bound into unified experience. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely passively reflected neural binding, we couldn't voluntarily control which streams unify. The fact that attention shapes binding suggests top-down causation from phenomenal states to neural coordination. This connects to [free will](/topics/free-will/) and [agent causation](/concepts/agent-causation/): if phenomenal binding is partly under voluntary control, consciousness isn't merely registering what the brain presents—it's actively selecting among possible unified experiences.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If quantum binding is correct, it requires real collapse. In many-worlds, all possible bindings occur in branching universes. The Map responds: phenomenal unity appears *globally* definite, not branch-relative. The indexical claim "I am experiencing *this* unified configuration" requires one configuration was selected as actual. On MWI, every superposition branches into parallel realities—there's no collapse and no selection. This removes any role for consciousness in determining which neural patterns become actual. The unified experience *you* have would be just one branch among infinitely many, raising unanswerable indexical questions about why you're experiencing *this* unified moment rather than another.
 
@@ -188,12 +188,12 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 
 ## Further Reading
 
-- [neural-binding-mechanisms](/neural-binding-mechanisms/) — Classical and quantum binding mechanisms
+- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical and quantum binding mechanisms
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem; binding is the synchronic dimension
-- [phenomenal-unity](/phenomenal-unity/) — Phenomenal unity as metaphysical question
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Phenomenal unity as metaphysical question
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement as the basis for unity
-- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Recent experimental evidence
+- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Recent experimental evidence
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Sleep as dissociation between BP1 and BP2
 - [illusionism](/concepts/illusionism/) — The view that phenomenal unity is illusory

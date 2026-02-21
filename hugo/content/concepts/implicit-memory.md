@@ -20,7 +20,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
 - '[[decoherence]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 created: 2026-01-17
 date: &id001 2026-01-17
 description: Knowledge that shows in action without conscious recollection. Choking
@@ -51,7 +51,7 @@ Endel Tulving (1927-2023) distinguished three forms of consciousness associated 
 
 **Noetic consciousness** ("knowing") accompanies [semantic memory](/concepts/semantic-memory/). You are aware of knowing—you know that Paris is in France—but without re-experiencing when you learned it. The fact is simply available.
 
-**Autonoetic consciousness** ("self-knowing") accompanies [episodic memory](/autonoetic-consciousness/). You don't merely know facts about your past; you mentally travel back and re-experience events, phenomenally present as both current rememberer and past protagonist.
+**Autonoetic consciousness** ("self-knowing") accompanies [episodic memory](/concepts/episodic-memory/). You don't merely know facts about your past; you mentally travel back and re-experience events, phenomenally present as both current rememberer and past protagonist.
 
 The hierarchy matters: anoetic consciousness provides the phenomenal foundation that higher forms build upon. Even the most automatic action has experiential character, however unreflective. The question is not whether there is experience, but what *kind* of experience accompanies different cognitive modes.
 
@@ -83,7 +83,7 @@ When skilled performers face high-pressure situations, a counterintuitive breakd
 
 ### The Explicit Monitoring Theory
 
-Baumeister and Beilock's explicit monitoring theory explains choking: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [willed attention](/voluntary-attention/)—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
+Baumeister and Beilock's explicit monitoring theory explains choking: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [willed attention](/concepts/attention-as-interface/)—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
 
 Research confirms this pattern:
 - Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
@@ -99,7 +99,7 @@ Choking provides direct evidence for [consciousness causally affecting](/concept
 2. Procedural execution is disrupted
 3. Performance degrades
 
-If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—a mere byproduct with no causal power—step 2 couldn't follow from step 1. The fact that *attending to skills interferes with them* shows consciousness isn't causally inert. The attention has effects.
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—a mere byproduct with no causal power—step 2 couldn't follow from step 1. The fact that *attending to skills interferes with them* shows consciousness isn't causally inert. The attention has effects.
 
 This evidence is particularly strong because the effect is *negative*. One might explain away reports of conscious agency as post-hoc confabulation. But why would a causally inert consciousness generate systematic *interference*? The choking phenomenon requires that conscious attention genuinely does something—something the procedural system would rather it didn't do.
 
@@ -183,17 +183,17 @@ Implicit memory illuminates all five tenets.
 Even Tulving's anoetic consciousness has phenomenal character—"non-reflective qualia." There is something it is like to perform automatized skills, however different from reflective experience. Consciousness isn't identical to self-aware cognition; it includes unreflective modes that procedural memory operates within.
 
 ### Minimal Quantum Interaction
-The [attention interface](/concepts/attention-as-interface/) explains why consciousness can delegate: once skills are calibrated, the low-bandwidth interface need not continuously engage. Procedural systems run on trained patterns; consciousness intervenes only when [selection among alternatives](/questions/consciousness-selecting-neural-patterns/) is required.
+The [attention interface](/concepts/attention-as-interface/) explains why consciousness can delegate: once skills are calibrated, the low-bandwidth interface need not continuously engage. Procedural systems run on trained patterns; consciousness intervenes only when [selection among alternatives](/concepts/consciousness-selecting-neural-patterns/) is required.
 
 The [decoherence](/concepts/decoherence/) objection—that quantum coherence cannot survive in warm biological tissue—doesn't undermine this application. The attention interface operates at the level of pattern selection, not continuous microtubule coherence. Stapp's quantum Zeno mechanism requires only momentary quantum involvement when attention shifts, not sustained superposition during automatic execution.
 
 ### Bidirectional Interaction
-Choking provides the clearest evidence. Conscious attention to automatized skills disrupts execution. This causal interference—consciousness affecting procedural processing—couldn't occur if consciousness were [epiphenomenal](/arguments/epiphenomenalism/).
+Choking provides the clearest evidence. Conscious attention to automatized skills disrupts execution. This causal interference—consciousness affecting procedural processing—couldn't occur if consciousness were [epiphenomenal](/concepts/epiphenomenalism/).
 
 The negative character of this evidence is particularly telling. Positive effects might be explained as confabulation—the brain doing the work while consciousness merely observes. But *interference* requires that consciousness actually does something. The choking phenomenon is what genuine mental causation predicts and what epiphenomenalism cannot explain.
 
 ### No Many Worlds
-Skill execution involves selecting among action possibilities. Each moment of expert performance actualises one trajectory from many physically possible alternatives. If [all possibilities actualised](/arguments/many-worlds/) in branching universes, there would be branches where the expert misses every shot, drops every catch, flubs every note—yet from any observer's perspective, skilled performance succeeds reliably.
+Skill execution involves selecting among action possibilities. Each moment of expert performance actualises one trajectory from many physically possible alternatives. If [all possibilities actualised](/concepts/many-worlds/) in branching universes, there would be branches where the expert misses every shot, drops every catch, flubs every note—yet from any observer's perspective, skilled performance succeeds reliably.
 
 The indexical problem sharpens here. Even granting that *some* branch-observer sees coherent performance, why is *I*—this [particular consciousness](/concepts/haecceity/)—reliably the one experiencing skilled execution? The statistical regularity of expert performance suggests genuine selection, not mere observation of whichever branch happens to look successful.
 
@@ -203,8 +203,8 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 ## Further Reading
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) - Extended analysis of choking as evidence for mental causation
-- [voluntary-attention](/voluntary-attention/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
-- [autonoetic-consciousness](/autonoetic-consciousness/) - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
+- [voluntary-attention](/concepts/attention-as-interface/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
+- [autonoetic-consciousness](/concepts/episodic-memory/) - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
 - [semantic-memory](/concepts/semantic-memory/) - Noetic consciousness and the phenomenology of knowing without re-experiencing
 - [episodic-memory](/concepts/episodic-memory/) - How episodic memory contrasts with implicit memory in Tulving's framework
 - [working-memory](/concepts/working-memory/) - The conscious workspace that interacts with implicit systems
@@ -213,7 +213,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 - [agent-causation](/concepts/agent-causation/) - How consciousness's causal efficacy grounds genuine agency
 - [embodied-cognition](/concepts/embodied-cognition/) - The challenge from embodied approaches and the interface response
 - [illusionism](/concepts/illusionism/) - The eliminativist challenge to phenomenal consciousness and why the choking evidence resists it
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) - The mechanism by which consciousness selects among neural possibilities
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) - The mechanism by which consciousness selects among neural possibilities
 - [witness-consciousness](/concepts/witness-consciousness/) - The contemplative parallel to anoetic awareness
 
 ## References

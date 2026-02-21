@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false

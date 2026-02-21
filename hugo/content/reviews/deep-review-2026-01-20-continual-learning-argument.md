@@ -88,7 +88,7 @@ topics: []
 - [mental-effort](/concepts/mental-effort/)
 - [measurement-problem](/concepts/measurement-problem/)
 - [mysterianism](/concepts/mysterianism/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 
 ### References Added
 

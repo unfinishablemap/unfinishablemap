@@ -6,13 +6,13 @@ ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[measurement-problem]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[decoherence]]'
 - '[[quantum-consciousness]]'
 - '[[quantum-neural-mechanisms]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[explanatory-gap]]'
 - '[[prebiotic-collapse]]'
@@ -108,7 +108,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/quantum-neural-mechanisms/).
+Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/).
 
 ## Experimental Status (2020-2025)
 
@@ -144,7 +144,7 @@ This is not a defeat. Science routinely works with effective theories whose ulti
 - **Decoherence**: Environmental interaction destroys quantum coherence *in practice*, creating *appearance* of collapse. Wave function still exists in superposition; we just can't access it. No modification of quantum mechanics.
 - **Spontaneous collapse**: Wave function *actually collapses* as objective physical process. Modifies quantum mechanics with nonlinear/stochastic terms.
 
-Decoherence explains why macroscopic systems look classical but doesn't solve the [measurement problem](/concepts/measurement-problem/)—it doesn't select [definite outcomes](/quantum-measurement-and-definite-outcomes/). Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [decoherence](/concepts/decoherence/) for detailed analysis.
+Decoherence explains why macroscopic systems look classical but doesn't solve the [measurement problem](/concepts/measurement-problem/)—it doesn't select [definite outcomes](/topics/quantum-measurement-consciousness-interface/). Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [decoherence](/concepts/decoherence/) for detailed analysis.
 
 ## Comparison of Major Theories
 
@@ -168,7 +168,7 @@ Spontaneous collapse theories provide the foundation for the Map's [Minimal Quan
 4. **Falsifiable framework**: Experimental tests constrain models, maintaining scientific rigor
 5. **Avoids Many Worlds**: Collapse is objective and real, not observer-dependent branching ([No Many Worlds](/tenets/#no-many-worlds))
 
-The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best instantiates this framework. It preserves [Dualism](/tenets/#dualism) (consciousness ontologically distinct), enables [Bidirectional Interaction](/tenets/#bidirectional-interaction) (consciousness causally influences outcomes), maintains minimal quantum scale (consciousness modulates, doesn't wholly cause), rejects [many-worlds](/arguments/many-worlds/) (collapse is real), and demonstrates [Occam's Razor's limits](/tenets/#occams-limits) (solving measurement problem justifies modifying QM).
+The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best instantiates this framework. It preserves [Dualism](/tenets/#dualism) (consciousness ontologically distinct), enables [Bidirectional Interaction](/tenets/#bidirectional-interaction) (consciousness causally influences outcomes), maintains minimal quantum scale (consciousness modulates, doesn't wholly cause), rejects [many-worlds](/concepts/many-worlds/) (collapse is real), and demonstrates [Occam's Razor's limits](/tenets/#occams-limits) (solving measurement problem justifies modifying QM).
 
 ## Relation to Site Perspective
 
@@ -176,28 +176,28 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet *requires* spontaneous collapse theories. Without baseline physical collapse, consciousness would need to collapse every quantum event in the universe (panpsychism) or solve the prebiotic collapse problem. GRW/CSL provide the minimal design: consciousness modulates existing stochastic processes.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [psychophysical-coupling](/psychophysical-coupling/) for specification of coupling laws.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [psychophysical-coupling](/concepts/psychophysical-laws/) for specification of coupling laws.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Objective collapse theories explicitly reject branching. Wave function collapse is real, non-reversible, and creates definite outcomes. Indexical identity matters.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The measurement problem cannot be solved by simplicity-worship. Spontaneous collapse theories modify quantum mechanics, adding complexity, but gain falsifiability and explanatory power. Experimental accountability demonstrates this is science, not metaphysical speculation.
 
-**Connection to Free Will**: Spontaneous collapse provides a physical locus for [libertarian free will](/concepts/free-will/). If consciousness can modulate collapse outcomes within the Born rule probabilities, choices are neither determined (consciousness makes a difference) nor random (modulation is guided by reasons and intentions). This is precisely what [agent causation](/concepts/agent-causation/) requires: a causal power that is neither reducible to prior physical causes nor arbitrary. The baseline stochasticity of GRW/CSL provides the "openness" libertarianism needs; consciousness modulation provides the "control" that distinguishes free action from mere chance. See also the [luck-objection](/concepts/luck-objection/) for how this framework addresses the concern that quantum randomness doesn't constitute genuine freedom.
+**Connection to Free Will**: Spontaneous collapse provides a physical locus for [libertarian free will](/topics/free-will/). If consciousness can modulate collapse outcomes within the Born rule probabilities, choices are neither determined (consciousness makes a difference) nor random (modulation is guided by reasons and intentions). This is precisely what [agent causation](/concepts/agent-causation/) requires: a causal power that is neither reducible to prior physical causes nor arbitrary. The baseline stochasticity of GRW/CSL provides the "openness" libertarianism needs; consciousness modulation provides the "control" that distinguishes free action from mere chance. See also the [luck-objection](/concepts/luck-objection/) for how this framework addresses the concern that quantum randomness doesn't constitute genuine freedom.
 
 ## Further Reading
 
 - [measurement-problem](/concepts/measurement-problem/) - the crisis spontaneous collapse theories address
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) - dedicated treatment of what collapsed before consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) - how consciousness modulates baseline collapse
-- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
-- [psychophysical-coupling](/psychophysical-coupling/) - how phenomenal properties map to physical parameters
+- [psychophysical-coupling](/concepts/psychophysical-laws/) - how phenomenal properties map to physical parameters
 - [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse
 - [decoherence](/concepts/decoherence/) - basis selection vs. outcome selection distinction
-- [many-worlds](/arguments/many-worlds/) - the Map's rejection of branching interpretations
+- [many-worlds](/concepts/many-worlds/) - the Map's rejection of branching interpretations
 - [integrated-information-theory](/concepts/integrated-information-theory/) - Φ as potential collapse operator in hybrid models
 - [causal-closure](/concepts/causal-closure/) - how spontaneous collapse modifies microphysics without violating conservation laws
-- [free-will](/concepts/free-will/) - how spontaneous collapse enables libertarian free will
+- [free-will](/topics/free-will/) - how spontaneous collapse enables libertarian free will
 - [illusionism](/concepts/illusionism/) - the eliminativist challenge this framework must address
 - [mysterianism](/concepts/mysterianism/) - cognitive limits on understanding the consciousness-collapse interface
 - [argument-from-reason](/topics/argument-from-reason/) - why consciousness must be causally efficacious

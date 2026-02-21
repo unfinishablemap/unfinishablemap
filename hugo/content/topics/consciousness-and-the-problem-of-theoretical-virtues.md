@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[explanatory-gap]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[dualism]]'
 - '[[mysterianism]]'
 - '[[epistemic-emotions]]'

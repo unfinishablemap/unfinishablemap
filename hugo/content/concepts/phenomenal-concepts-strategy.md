@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[qualia]]'
 - '[[explanatory-gap]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[philosophical-zombies]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -169,7 +169,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap PCS tries to explain away
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Chalmers's conceivability argument
 - [qualia](/concepts/qualia/) — The experiential properties at issue
-- [materialism](/arguments/materialism/) — The view PCS defends
+- [materialism](/concepts/materialism/) — The view PCS defends
 - [illusionism](/concepts/illusionism/) — The radical alternative that denies phenomenal properties
 - [introspection](/concepts/introspection/) — The access mechanism PCS relies upon
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room in full detail

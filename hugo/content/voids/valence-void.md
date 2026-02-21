@@ -8,7 +8,7 @@ concepts:
 - '[[valence]]'
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 created: 2026-02-18
 date: &id001 2026-02-18
 description: Why does experience come sorted into good and bad? Human+AI exploration

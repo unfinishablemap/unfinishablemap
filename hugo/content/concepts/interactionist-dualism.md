@@ -11,7 +11,7 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[evolution-of-consciousness]]'
 - '[[dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 - '[[qualia]]'
 - '[[neural-correlates-of-consciousness]]'
@@ -49,14 +49,14 @@ related_articles:
 - '[[conservation-laws-and-mind]]'
 - '[[interactionist-dualism-2026-01-06]]'
 - '[[objections-to-interactionist-dualism-2026-01-15]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 title: Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This is a variant of [dualism](/concepts/dualism/) that distinguishes it from [epiphenomenalism](/arguments/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
+Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This is a variant of [dualism](/concepts/dualism/) that distinguishes it from [epiphenomenalism](/concepts/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
 
 This position forms the core of The Unfinishable Map's [philosophical framework](/tenets/). The [Dualism](/tenets/#dualism) tenet affirms irreducibility; the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms causal efficacy; the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies where such causation could occur.
 
@@ -86,7 +86,7 @@ René Descartes established the classic formulation: mind (res cogitans) and bod
 
 Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. See [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
 
-Meanwhile, [epiphenomenalism](/arguments/epiphenomenalism/) faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [self-stultification argument](/concepts/mental-causation/) shows that denying mental causation is epistemically self-defeating—your belief that you're in pain must be caused by your pain.
+Meanwhile, [epiphenomenalism](/concepts/epiphenomenalism/) faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [self-stultification argument](/concepts/mental-causation/) shows that denying mental causation is epistemically self-defeating—your belief that you're in pain must be caused by your pain.
 
 ## The Cumulative Case for Interactionism
 
@@ -102,19 +102,19 @@ Seven arguments converge on the interactionist conclusion. Each has its own dedi
 
 5. **[Intentionality](/concepts/intentionality/)**: Mental states are *about* things; physical states are not intrinsically about anything. No physical account successfully reduces aboutness.
 
-6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [evolutionary evidence](/consciousness-as-intelligence-amplifier/) reinforces this: phenomenal valence tracks fitness too precisely to be causally inert.
+6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [evolutionary evidence](/concepts/consciousness-as-amplifier/) reinforces this: phenomenal valence tracks fitness too precisely to be causally inert.
 
 7. **Quantum Indeterminacy**: Classical physics was deterministic, leaving no room for mental causation. Quantum mechanics is indeterministic—collapse into definite outcomes remains unexplained. Consciousness selecting among undetermined outcomes requires no energy injection and directly addresses the conservation objection.
 
 ## The Causal Closure Argument
 
-The contemporary interaction problem centers on [causal closure](/concepts/causal-closure/). Kim's exclusion argument: (1) every physical event has a sufficient physical cause; (2) mental events cause physical effects; (3) no systematic overdetermination; (4) mental properties aren't physical. These premises are inconsistent—Kim concludes mental properties must be either physical (reductionism) or inert ([epiphenomenalism](/arguments/epiphenomenalism/)).
+The contemporary interaction problem centers on [causal closure](/concepts/causal-closure/). Kim's exclusion argument: (1) every physical event has a sufficient physical cause; (2) mental events cause physical effects; (3) no systematic overdetermination; (4) mental properties aren't physical. These premises are inconsistent—Kim concludes mental properties must be either physical (reductionism) or inert ([epiphenomenalism](/concepts/epiphenomenalism/)).
 
 Two responses address the exclusion argument:
 
 **Quantum response**: The Map rejects premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. The [Stapp model](/concepts/stapp-quantum-mind/) articulates this: consciousness operates through rapid observation (quantum Zeno effect), holding desired neural patterns in place. The exclusion argument fails because at quantum indeterminacies, physics is "silent" about outcomes.
 
-**Delegation response**: [Delegatory dualism](/topics/delegatory-dualism/) (Saad 2025) rejects premise 3 without accepting overdetermination. Physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's causal role is preempted, not duplicated. Saad's crucial distinction between universal closure and [observational closure](/observational-closure/) shows that dualists need only respect empirical constraints, not the stronger metaphysical claim. This provides theoretical grounding for the Bidirectional Interaction tenet independent of quantum mechanics.
+**Delegation response**: [Delegatory dualism](/topics/delegatory-dualism/) (Saad 2025) rejects premise 3 without accepting overdetermination. Physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's causal role is preempted, not duplicated. Saad's crucial distinction between universal closure and [observational closure](/concepts/causal-closure/) shows that dualists need only respect empirical constraints, not the stronger metaphysical claim. This provides theoretical grounding for the Bidirectional Interaction tenet independent of quantum mechanics.
 
 ## The Pairing Problem
 
@@ -122,7 +122,7 @@ Kim asks: what pairs a particular mind with a particular body? If minds are non-
 
 ## The Multi-Mind Collapse Problem
 
-If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [solution](/concepts/multi-mind-collapse-problem/) combines [interface-locality](/interface-locality/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
+If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [solution](/concepts/multi-mind-collapse-problem/) combines [interface-locality](/concepts/brain-interface-boundary/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
 
 ## Quantum Interactionism
 
@@ -142,7 +142,7 @@ What would falsify quantum interactionism? (1) Proving quantum indeterminacy is 
 
 ## Psychophysical Coupling Mechanisms
 
-Beyond *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [mechanisms](/psychophysical-coupling/) have been proposed, from attention→observation (most developed) to qualia→basis (speculative). Only attention and intention mechanisms meet basic scientific adequacy criteria. This specification challenge remains central to interactionism's scientific status.
+Beyond *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [mechanisms](/concepts/psychophysical-laws/) have been proposed, from attention→observation (most developed) to qualia→basis (speculative). Only attention and intention mechanisms meet basic scientific adequacy criteria. This specification challenge remains central to interactionism's scientific status.
 
 ## The Decoherence Objection
 
@@ -166,7 +166,7 @@ Interactionism is compatible with different dualist ontologies (see [substance-p
 
 **Substance dualism**: Mind and body are different *kinds of thing*—distinct substances. Modern defenders argue quantum mechanics resolves the classical interaction problem.
 
-**Property dualism**: Mental properties are distinct from physical properties, but don't require separate substances. However, property dualism risks sliding toward [epiphenomenalism](/arguments/epiphenomenalism/)—if mental properties are merely properties of physical systems, they may seem causally redundant.
+**Property dualism**: Mental properties are distinct from physical properties, but don't require separate substances. However, property dualism risks sliding toward [epiphenomenalism](/concepts/epiphenomenalism/)—if mental properties are merely properties of physical systems, they may seem causally redundant.
 
 The Map is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
 
@@ -200,7 +200,7 @@ The [evolution of consciousness](/concepts/evolution-of-consciousness/) poses no
 
 Interactionist dualism faces real challenges: the decoherence objection is empirical, and the mechanism remains partly speculative.
 
-But alternatives face worse problems. [Epiphenomenalism](/arguments/epiphenomenalism/) is self-undermining. Identity theory cannot explain why there is something it is like to see red. [Functionalism](/arguments/functionalism/) struggles with absent [qualia](/concepts/qualia/). Interactionism's puzzles are empirical and may yield to investigation; physicalist puzzles are conceptual and show no sign of resolution.
+But alternatives face worse problems. [Epiphenomenalism](/concepts/epiphenomenalism/) is self-undermining. Identity theory cannot explain why there is something it is like to see red. [Functionalism](/concepts/functionalism/) struggles with absent [qualia](/concepts/qualia/). Interactionism's puzzles are empirical and may yield to investigation; physicalist puzzles are conceptual and show no sign of resolution.
 
 Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies. Whether correct is open; that it is *coherent* reopens possibilities that seemed closed for centuries.
 
@@ -213,7 +213,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Mechanisms:**
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-brain interaction
-- [psychophysical-coupling](/psychophysical-coupling/) — How phenomenal properties map to physical selections
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — How phenomenal properties map to physical selections
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal interface
 
 **Objections and responses:**
@@ -222,7 +222,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 
 **Related topics:**
-- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/arguments/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/), [causal-interface](/voids/causal-interface/)
+- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/concepts/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/), [causal-interface](/voids/causal-interface/)
 
 ## References
 

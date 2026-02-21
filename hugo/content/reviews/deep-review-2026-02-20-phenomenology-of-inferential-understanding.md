@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link**: `[consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/)` pointed to a non-existent file. Corrected to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)` in both frontmatter and Further Reading.
+- **Broken link**: `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)` pointed to a non-existent file. Corrected to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)` in both frontmatter and Further Reading.
 
 ### Medium Issues Found
 - **Strawman associationism** (Churchland): The critique attacked a crude Humean version of association (symmetric, contingent) rather than modern connectionism. **Resolution**: Rewrote the associationism critique to acknowledge modern connectionist capabilities while maintaining the phenomenological distinction between reliable correlation and felt necessity.
@@ -68,7 +68,7 @@ topics: []
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — inferential binding as instance of general phenomenal binding
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — logical compulsion as normative phenomenal property
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — seeing-why as paradigm of reasons-responsive cognition
-- [free-will](/concepts/free-will/) — inferential compulsion as rational constraint
+- [free-will](/topics/free-will/) — inferential compulsion as rational constraint
 - [mysterianism](/concepts/mysterianism/) — epistemic humility about mechanism
 
 ## Remaining Items

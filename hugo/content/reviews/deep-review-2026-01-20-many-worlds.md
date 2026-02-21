@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [The Many-Worlds Interpretation](/arguments/many-worlds/)
+**Article**: [The Many-Worlds Interpretation](/concepts/many-worlds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

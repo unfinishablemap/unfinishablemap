@@ -13,7 +13,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[illusionism]]'
 - '[[emergence]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[temporal-consciousness]]'
 - '[[specious-present]]'
 created: 2026-01-09
@@ -50,7 +50,7 @@ IIT begins with axioms—self-evident truths about experience that anyone can ve
 1. **Existence**: Consciousness exists. Each experience is actual.
 2. **Composition**: Experience is structured—it contains distinctions, relations, multiple components.
 3. **Information**: Each experience is specific—it is *this* experience and not any of the countless others it could have been.
-4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [phenomenal unity](/phenomenal-unity/) question.
+4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [phenomenal unity](/concepts/phenomenal-binding-and-holism/) question.
 5. **Exclusion**: Experience is definite—it has particular borders, a specific content.
 
 IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [Kent and Wittmann (2021)](/topics/temporal-structure-of-consciousness/) note, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
@@ -75,7 +75,7 @@ IIT provides formulas for calculating phi. Roughly: take a system, partition it 
 
 The system with the highest phi is the "maximally irreducible conceptual structure" (MICS)—and this, IIT claims, *is* the conscious experience.
 
-**The temporal problem**: IIT calculates Φ for a system at time *t*—an instantaneous snapshot. But consciousness isn't experienced as instantaneous. The [specious present](/time-perception-consciousness-theories/#experienced-duration) extends across 1-3 seconds. You hear a melody as a unified whole spanning seconds, not as isolated tones. IIT has no temporal dimension to explain how separate states at t, t+1, t+2 combine into the continuous flow we actually experience. Even accepting that high Φ produces phenomenal character, why would that character have temporal extension? The theory is silent on experienced duration.
+**The temporal problem**: IIT calculates Φ for a system at time *t*—an instantaneous snapshot. But consciousness isn't experienced as instantaneous. The [specious present](/topics/temporal-structure-of-consciousness/#experienced-duration) extends across 1-3 seconds. You hear a melody as a unified whole spanning seconds, not as isolated tones. IIT has no temporal dimension to explain how separate states at t, t+1, t+2 combine into the continuous flow we actually experience. Even accepting that high Φ produces phenomenal character, why would that character have temporal extension? The theory is silent on experienced duration.
 
 ## What IIT Implies
 
@@ -101,7 +101,7 @@ See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treat
 
 ### Substrate Matters
 
-Unlike [functionalism](/arguments/functionalism/), IIT holds that physical substrate matters. Two systems could perform identical functions but have different phi—and thus different consciousness—depending on their architecture. A feed-forward network and a recurrent network processing the same information might have vastly different experiences (or none at all for the feed-forward case).
+Unlike [functionalism](/concepts/functionalism/), IIT holds that physical substrate matters. Two systems could perform identical functions but have different phi—and thus different consciousness—depending on their architecture. A feed-forward network and a recurrent network processing the same information might have vastly different experiences (or none at all for the feed-forward case).
 
 This distinguishes IIT from theories that say "consciousness is computation." For IIT, consciousness is *integrated* information, and integration depends on physical structure, not just logical function.
 
@@ -214,7 +214,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
-- [phenomenal-unity](/phenomenal-unity/) — The unity IIT claims to explain via integration
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — The unity IIT claims to explain via integration
 - [binding-problem](/concepts/binding-problem/) — The related puzzle of how features combine
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical tests of IIT in simple organisms
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle IIT addresses
@@ -222,7 +222,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [illusionism](/concepts/illusionism/) — The challenge IIT must answer
 - [global-workspace-theory](/concepts/global-workspace-theory/) — IIT's main rival, also tested in COGITATE
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
-- [functionalism](/arguments/functionalism/) — The view IIT rejects with substrate-dependence
+- [functionalism](/concepts/functionalism/) — The view IIT rejects with substrate-dependence
 - [integrated-information-theory-2026-01-07](/research/integrated-information-theory-2026-01-07/) — Detailed research notes
 - [tenets](/tenets/) — the Map's alternative framework
 

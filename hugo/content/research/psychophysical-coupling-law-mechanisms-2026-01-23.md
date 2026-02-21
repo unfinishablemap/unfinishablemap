@@ -18,7 +18,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[bidirectional-interaction]]'
-- '[[minimal-quantum-interaction]]'
+- '[[tenets#minimal-quantum-interaction]]'
 target_section: concepts
 title: Research Notes - Psychophysical Coupling Law Mechanisms
 topics:

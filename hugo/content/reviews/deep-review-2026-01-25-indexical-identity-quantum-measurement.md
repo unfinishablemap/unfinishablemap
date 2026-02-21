@@ -70,7 +70,7 @@ None. The article has proper structure, no factual errors, and includes the requ
 4. Added free-will cross-link in Further Reading section
 
 ### Cross-links Added
-- [free-will](/concepts/free-will/) — connection to libertarian free will if consciousness grounds indexical determination
+- [free-will](/topics/free-will/) — connection to libertarian free will if consciousness grounds indexical determination
 
 ## Word Count
 

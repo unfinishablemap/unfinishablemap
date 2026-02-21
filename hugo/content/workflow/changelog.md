@@ -18,9 +18,34 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 12:06 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- **Word count**: 1478 → 2089 (+611)
+- **Critical issues addressed**: 3 (missing Fox et al. reference, wrong Nagel work cited, unsupported neurophenomenology claim)
+- **Medium issues addressed**: 5 (heterophenomenology characterization, self-stultification rhetoric, convergence argument, electron analogy, missing cross-links)
+- **Enhancements made**: 2 new sections (Galilean Exclusion, Limits of Reportability), 6 cross-links added, references expanded
+- **Output**: [deep-review-2026-02-21-epistemology-of-phenomenal-reports](/reviews/deep-review-2026-02-21-epistemology-of-phenomenal-reports/)
+
+## 2026-02-21 10:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Comparative Phenomenology Void
+- **Category**: Mixed (Unexplorable with Occluded elements)
+- **Output**: [voids-comparative-phenomenology-void-2026-02-21](/research/voids-comparative-phenomenology-void-2026-02-21/)
+- **Key finding**: No unit of phenomenal measurement exists; under dualism, the impossibility of calibrating qualitative experience across persons or across time is a predicted consequence of consciousness being non-physical, with structural parallels to the impossibility of interpersonal utility comparison in welfare economics.
+
+## 2026-02-21 10:21 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/)
+- **Word count**: 2041 → 2129 (+88)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-21-consciousness-and-the-ontology-of-dispositions](/reviews/deep-review-2026-02-21-consciousness-and-the-ontology-of-dispositions/)
+
 ## 2026-02-21 09:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [aesthetic-consciousness-as-irreducibility-test-case](/aesthetic-consciousness-as-irreducibility-test-case/)
+- **Sources**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [aesthetic-consciousness-as-irreducibility-test-case](/topics/aesthetic-dimension-of-consciousness/)
 - **Target**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
 - **Archived**: [aesthetic-consciousness-as-irreducibility-test-case](/archive/topics/aesthetic-consciousness-as-irreducibility-test-case/)
 - **References to review**: none
@@ -28,7 +53,7 @@ topics: []
 ## 2026-02-21 09:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Aesthetic consciousness as irreducibility test case
-- **Output**: [aesthetic-consciousness-as-irreducibility-test-case](/aesthetic-consciousness-as-irreducibility-test-case/)
+- **Output**: [aesthetic-consciousness-as-irreducibility-test-case](/topics/aesthetic-dimension-of-consciousness/)
 - **Word count**: 1980
 - **Based on research**: Partial — informed by [voids-aesthetic-void-2026-02-04](/research/voids-aesthetic-void-2026-02-04/)
 
@@ -369,7 +394,7 @@ topics: []
 
 ## 2026-02-20 09:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
+- **Sources**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)
 - **Target**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
 - **Archived**: [consciousness-and-mathematical-understanding](/archive/topics/consciousness-and-mathematical-understanding/), [consciousness-and-mathematical-creativity](/archive/topics/consciousness-and-mathematical-creativity/)
 - **References to review**: 12 active content files
@@ -377,7 +402,7 @@ topics: []
 ## 2026-02-20 09:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Problem of Normative Integration
-- **Output**: [consciousness-and-the-problem-of-normative-integration](/consciousness-and-the-problem-of-normative-integration/)
+- **Output**: [consciousness-and-the-problem-of-normative-integration](/topics/consciousness-and-the-grounds-of-normative-authority/)
 - **Word count**: 2068
 - **Based on research**: Partially (drew on [voids-normative-void-2026-02-02](/research/voids-normative-void-2026-02-02/))
 
@@ -569,7 +594,7 @@ topics: []
 
 ## 2026-02-19 21:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenology-of-skill-and-the-lived-body](/phenomenology-of-skill-and-the-lived-body/), [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/), [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/)
+- **Sources**: [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/), [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/), [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/)
 - **Target**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
 - **Archived**: archive/topics/phenomenology-of-skill-and-the-lived-body.md, archive/topics/paradox-of-effortless-mastery.md, archive/topics/phenomenology-of-skill-transition.md
 - **References to review**: 16 across 6 active content files
@@ -583,7 +608,7 @@ topics: []
 
 ## 2026-02-19 21:06 UTC - deep-review
 - **Status**: Success
-- **File**: [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
+- **File**: [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 - **Word count**: 1726 → 1936 (+210)
 - **Critical issues addressed**: 3 (broken wikilink, broken Further Reading link, uncited references)
 - **Medium issues addressed**: 4 (Friction Model hedging, tenet section hedging, phase two agency claim, Macnamara engagement)
@@ -638,7 +663,7 @@ topics: []
 - **Status**: Success
 - **File**: [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/)
 - **Word count**: 2156 → 2323 (+167)
-- **Critical issues addressed**: 1 (broken `[metarepresentation](/metarepresentation/)` wikilinks)
+- **Critical issues addressed**: 1 (broken `[metarepresentation](/concepts/metacognition/)` wikilinks)
 - **Medium issues addressed**: 4 (Bratman formulation, functionalist engagement, frontmatter hygiene, cross-link)
 - **Enhancements made**: 3 (functionalist response paragraph, interpersonal understanding cross-link, theory-of-mind link)
 - **Output**: [deep-review-2026-02-19-consciousness-and-collective-intentionality](/reviews/deep-review-2026-02-19-consciousness-and-collective-intentionality/)
@@ -661,7 +686,7 @@ topics: []
 
 ## 2026-02-19 15:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [contemplative-verification-of-consciousness-theories](/contemplative-verification-of-consciousness-theories/), [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
+- **Sources**: [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/), [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
 - **Target**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
 - **Archived**: archive/topics/contemplative-verification-of-consciousness-theories.md, archive/topics/contemplative-training-and-phenomenal-access.md
 - **References to review**: 9 active content files
@@ -787,8 +812,8 @@ topics: []
 
 ## 2026-02-19 09:34 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenology-of-habit-and-skill-acquisition](/phenomenology-of-habit-and-skill-acquisition/), [phenomenology-of-embodied-skill-and-habit](/phenomenology-of-embodied-skill-and-habit/)
-- **Target**: [phenomenology-of-skill-and-the-lived-body](/phenomenology-of-skill-and-the-lived-body/)
+- **Sources**: [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-skill-and-the-lived-body/), [phenomenology-of-embodied-skill-and-habit](/topics/phenomenology-of-skill-and-the-lived-body/)
+- **Target**: [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/)
 - **Archived**: archive/topics/phenomenology-of-habit-and-skill-acquisition.md, archive/topics/phenomenology-of-embodied-skill-and-habit.md
 - **References updated**: 5 files (phenomenology-of-conceptual-change, paradox-of-effortless-mastery, phenomenology-of-flow-states, phenomenology-of-skill-transition, cross-cultural-phenomenology-of-agency)
 
@@ -811,7 +836,7 @@ topics: []
 ## 2026-02-19 08:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Embodied Skill and Habit
-- **Output**: [phenomenology-of-embodied-skill-and-habit](/phenomenology-of-embodied-skill-and-habit/)
+- **Output**: [phenomenology-of-embodied-skill-and-habit](/topics/phenomenology-of-skill-and-the-lived-body/)
 - **Word count**: 2396
 - **Based on research**: Yes — [embodied-cognition-extended-mind-2026-01-14](/research/embodied-cognition-extended-mind-2026-01-14/)
 
@@ -1073,7 +1098,7 @@ topics: []
 
 ## 2026-02-18 13:47 UTC - coalesce
 - **Status**: Success
-- **Sources**: [aesthetics-of-consciousness](/aesthetics-of-consciousness/), [consciousness-and-aesthetic-experience-as-philosophical-evidence](/consciousness-and-aesthetic-experience-as-philosophical-evidence/), [consciousness-and-aesthetic-value](/consciousness-and-aesthetic-value/)
+- **Sources**: [aesthetics-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-aesthetic-experience-as-philosophical-evidence](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/)
 - **Target**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
 - **Archived**: archive/topics/aesthetics-of-consciousness.md, archive/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence.md, archive/topics/consciousness-and-aesthetic-value.md
 - **References updated**: consciousness-and-aesthetic-creation.md, binding-and-beauty.md
@@ -1249,7 +1274,7 @@ topics: []
 
 ## 2026-02-18 01:47 UTC - coalesce
 - **Status**: Success
-- **Sources**: [quantum-neural-mechanisms](/quantum-neural-mechanisms/), [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/)
+- **Sources**: [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/), [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/)
 - **Target**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 - **Archived**: archive/concepts/quantum-neural-mechanisms.md, archive/concepts/quantum-coherence-and-binding-evidence.md
 - **References to review**: 18 active content files
@@ -1353,7 +1378,7 @@ topics: []
 
 ## 2026-02-17 19:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [temporal-unity](/temporal-unity/)
+- **Sources**: [temporal-unity](/concepts/temporal-consciousness/)
 - **Target**: [temporal-consciousness](/concepts/temporal-consciousness/)
 - **Archived**: [temporal-unity](/archive/concepts/temporal-unity/)
 - **References to review**: 2 (narrative-coherence.md, phenomenology-of-temporal-attention.md — updated in-session)
@@ -1523,10 +1548,10 @@ topics: []
 
 ## 2026-02-17 07:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [metacognition](/concepts/metacognition/), [metarepresentation](/metarepresentation/)
+- **Sources**: [metacognition](/concepts/metacognition/), [metarepresentation](/concepts/metacognition/)
 - **Target**: [Metacognition, Metarepresentation, and Consciousness](/concepts/metacognition/)
 - **Archived**: [metarepresentation](/archive/concepts/metarepresentation/)
-- **References to review**: 32 files reference `[metarepresentation](/metarepresentation/)`
+- **References to review**: 32 files reference `[metarepresentation](/concepts/metacognition/)`
 
 ## 2026-02-17 07:27 UTC - expand-topic
 - **Status**: Success
@@ -1554,7 +1579,7 @@ topics: []
 ## 2026-02-17 06:42 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Aesthetic Value
-- **Output**: [consciousness-and-aesthetic-value](/consciousness-and-aesthetic-value/)
+- **Output**: [consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/)
 - **Word count**: 1920
 - **Based on research**: No (general knowledge; related research at [voids-aesthetic-void-2026-02-04](/research/voids-aesthetic-void-2026-02-04/))
 
@@ -1701,7 +1726,7 @@ topics: []
 
 ## 2026-02-16 15:44 UTC - coalesce
 - **Status**: Success
-- **Sources**: [psychophysical-laws](/concepts/psychophysical-laws/), [psychophysical-coupling](/psychophysical-coupling/)
+- **Sources**: [psychophysical-laws](/concepts/psychophysical-laws/), [psychophysical-coupling](/concepts/psychophysical-laws/)
 - **Target**: [psychophysical-laws](/concepts/psychophysical-laws/)
 - **Archived**: [psychophysical-coupling](/archive/concepts/psychophysical-coupling/)
 - **References to review**: ~27 active content files (follow-up task created in todo.md)
@@ -1789,7 +1814,7 @@ topics: []
 
 ## 2026-02-16 05:40 UTC - coalesce
 - **Status**: Success
-- **Sources**: [arguments-against-materialism](/arguments-against-materialism/), [arguments-for-dualism](/arguments-for-dualism/)
+- **Sources**: [arguments-against-materialism](/concepts/the-case-for-dualism/), [arguments-for-dualism](/concepts/the-case-for-dualism/)
 - **Target**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
 - **Archived**: archive/concepts/arguments-against-materialism.md, archive/concepts/arguments-for-dualism.md
 - **References updated**: 34 files (23 for arguments-for-dualism, 11 for arguments-against-materialism)

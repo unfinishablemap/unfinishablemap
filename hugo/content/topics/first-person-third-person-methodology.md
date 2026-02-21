@@ -37,7 +37,7 @@ topics:
 
 The methodological divide between first-person phenomenology and third-person neuroscience in consciousness studies is best explained by ontological dualism. Phenomenal consciousness resists objective description not because neuroscience is immature, but because subjective experience has an irreducibly first-person character that third-person methods systematically miss. This epistemic asymmetry—we access consciousness in fundamentally different ways from the inside versus the outside—reflects a genuine ontological asymmetry between phenomenal properties and physical properties.
 
-The persistence of this methodological gap despite decades of neuroscientific progress constitutes strong evidence for the Dualism tenet. If consciousness were reducible to physical processes, we would expect third-person neuroscience to eventually capture first-person phenomenology. Instead, the [explanatory gap](//#explanatory-gap) (explained below) remains unbridged, suggesting that the methodological distinction tracks a real distinction in nature.
+The persistence of this methodological gap despite decades of neuroscientific progress constitutes strong evidence for the Dualism tenet. If consciousness were reducible to physical processes, we would expect third-person neuroscience to eventually capture first-person phenomenology. Instead, the [explanatory gap](#explanatory-gap) (explained below) remains unbridged, suggesting that the methodological distinction tracks a real distinction in nature.
 
 ## The Methodological Problem
 
@@ -53,7 +53,7 @@ Three major methodological approaches have emerged, each with different ontologi
 
 ## Heterophenomenology: The Third-Person Only Approach
 
-Daniel Dennett's [heterophenomenology](//#heterophenomenology) (detailed below) proposes treating consciousness as a purely third-person scientific question. First-person reports about experience are data—what subjects say they experience—but carry no special epistemic authority about whether those experiences are real.
+Daniel Dennett's [heterophenomenology](#heterophenomenology) (detailed below) proposes treating consciousness as a purely third-person scientific question. First-person reports about experience are data—what subjects say they experience—but carry no special epistemic authority about whether those experiences are real.
 
 Dennett analogizes introspective reports to fiction: "Just as it can be an objective fact that Sherlock Holmes resided at 221B Baker St., despite the great detective's fictitious nature, we can treat the subject's introspective report as establishing a set of objective facts about a fictional world." First-person authority establishes what the subject *claims* to experience (the "heterophenomenological world"), which science can study objectively without committing to phenomenology's reality.
 

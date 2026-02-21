@@ -60,7 +60,7 @@ The dominant view in contemporary physics treats apparent collapse as [decoheren
 
 Decoherence is technically reversible—it follows unitary evolution at the system-plus-environment level. The irreversibility is thermodynamic: like unscrambling an egg, reversal requires precise coordination of vastly many particles. The quantum "arrow" would then reduce to the entropic arrow, which traces to the Past Hypothesis (the universe's low-entropy initial state).
 
-But decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/). It explains why we don't observe superpositions of macroscopic objects, but not why we observe [definite outcomes](/quantum-measurement-and-definite-outcomes/) rather than superpositions of *us* observing different outcomes. The selector problem remains—and consciousness remains a candidate selector.
+But decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/). It explains why we don't observe superpositions of macroscopic objects, but not why we observe [definite outcomes](/topics/quantum-measurement-consciousness-interface/) rather than superpositions of *us* observing different outcomes. The selector problem remains—and consciousness remains a candidate selector.
 
 ### Time-Symmetric Interpretations: Atemporal Collapse
 
@@ -82,7 +82,7 @@ The debate over collapse maps onto traditional [philosophy of time](/concepts/ph
 
 The Map's framework proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" of the block *is* collapse—the resolution of quantum superposition into definite history. Consciousness participates in this growth through its role in collapse. The present is where superpositions resolve; the past is accumulated collapsed structure; the future awaits selection.
 
-This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [specious present](/specious-present/)—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time.
+This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [specious present](/concepts/temporal-consciousness/)—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time.
 
 ### Agent Identity Across Collapse
 
@@ -114,7 +114,7 @@ The Map rejects this for several reasons. First, the "discovery" model treats te
 
 Second, the branching structure presupposes what it purports to explain. Why do branches increase rather than decrease? The answer traces to the Past Hypothesis (low-entropy initial conditions), which MWI inherits from thermodynamics rather than explaining. The quantum arrow doesn't reduce to branching; it's assumed in setting up the branches.
 
-Third, as detailed in the [Against Many-Worlds](/arguments/many-worlds/) page, MWI faces the indexical identity problem: if all outcomes occur, what determines which outcome *I* experience? Carroll's "self-locating uncertainty" answer treats branch-identity as primitive—but this is exactly what needs explaining. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that indexical identity matters because consciousness is what makes *this* outcome actual, not merely observed.
+Third, as detailed in the [Against Many-Worlds](/concepts/many-worlds/) page, MWI faces the indexical identity problem: if all outcomes occur, what determines which outcome *I* experience? Carroll's "self-locating uncertainty" answer treats branch-identity as primitive—but this is exactly what needs explaining. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that indexical identity matters because consciousness is what makes *this* outcome actual, not merely observed.
 
 Only if collapse is real does consciousness have a role. Only if collapse introduces asymmetry does that role connect to temporal experience.
 
@@ -131,7 +131,7 @@ The framework makes testable predictions:
 - If neural determinism is demonstrated—brain states fully determining subsequent states with no quantum openness—the mechanism disappears.
 
 **Positive predictions:**
-- The [specious present](/specious-present/) should show structure consistent with collapse timing. Revised microtubule coherence estimates (10-100 microseconds) multiplied across collapse events could produce the ~100-750ms specious present.
+- The [specious present](/concepts/temporal-consciousness/) should show structure consistent with collapse timing. Revised microtubule coherence estimates (10-100 microseconds) multiplied across collapse events could produce the ~100-750ms specious present.
 - Contemplative practices that alter collapse involvement should alter temporal phenomenology. Advanced meditation states like cessation—where temporal experience reportedly stops—may reflect voluntary withdrawal from collapse participation.
 - The phenomenology of [effort](/concepts/mental-effort/) should correlate with active collapse selection; effortless awareness (as in open monitoring meditation) should correlate with suspended selection.
 
@@ -154,8 +154,8 @@ The connection between collapse and time strengthens multiple tenets:
 ## Further Reading
 
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
-- [specious-present](/specious-present/) — The experienced duration of "now" and its connection to collapse timing
-- [duration](/duration/) — Bergson's qualitative time and the creative advance of durée
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now" and its connection to collapse timing
+- [duration](/concepts/temporal-consciousness/) — Bergson's qualitative time and the creative advance of durée
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
 - [retrocausality](/concepts/retrocausality/) — How time-symmetric physics grounds backward causation
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained
@@ -163,7 +163,7 @@ The connection between collapse and time strengthens multiple tenets:
 - [decoherence](/concepts/decoherence/) — What environmental interaction does and doesn't do
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate sources of action
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
-- [many-worlds](/arguments/many-worlds/) — Detailed arguments against the Many-Worlds interpretation
+- [many-worlds](/concepts/many-worlds/) — Detailed arguments against the Many-Worlds interpretation
 
 ## References
 

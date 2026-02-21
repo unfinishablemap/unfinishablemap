@@ -66,9 +66,9 @@ None. Previous review's critical issues (missing illusionism section, missing pr
 
 ### Cross-links Added
 
-- [dopamine-selection-interface](/dopamine-selection-interface/) (frontmatter concepts)
-- [dopamine-selection-interface](/dopamine-selection-interface/) (Further Reading)
-- [dopamine-selection-interface](/dopamine-selection-interface/) (inline in new subsection)
+- [dopamine-selection-interface](/concepts/motor-selection/) (frontmatter concepts)
+- [dopamine-selection-interface](/concepts/motor-selection/) (Further Reading)
+- [dopamine-selection-interface](/concepts/motor-selection/) (inline in new subsection)
 
 ## Word Count Change
 

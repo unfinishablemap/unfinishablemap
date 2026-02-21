@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken link `[consciousness-and-surprise](/consciousness-and-surprise/)`**: This article no longer exists (likely coalesced). Fixed by replacing with `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` in both frontmatter topics and Further Reading section.
+- **Broken link `[consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/)`**: This article no longer exists (likely coalesced). Fixed by replacing with `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` in both frontmatter topics and Further Reading section.
 - **Unsupported formal claims**: "It echoes formal results about self-referential systems" cited no specific theorem. Fixed by explicitly citing Tarski's undefinability theorem and Gödel's incompleteness theorems, with references added.
 - **Missing tenet coverage (borderline)**: Relation to Site Perspective omitted Minimal Quantum Interaction despite its direct relevance to framework transcendence. Fixed by adding a paragraph connecting categorical surprise to the quantum interaction model.
 

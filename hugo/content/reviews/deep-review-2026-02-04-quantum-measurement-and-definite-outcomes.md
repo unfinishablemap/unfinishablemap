@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/quantum-measurement-and-definite-outcomes/)
+**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/topics/quantum-measurement-consciousness-interface/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-quantum-measurement-and-definite-outcomes/)
 
 ## Context
@@ -87,7 +87,7 @@ Added inbound links from six related articles:
 
 - [measurement-problem](/concepts/measurement-problem/) - "Extended treatment of why definite outcomes occur"
 - [decoherence](/concepts/decoherence/) - "Extended analysis of this gap and how consciousness might fill it"
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) - "The definite outcomes problem is precisely where this gap opens"
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) - "The definite outcomes problem is precisely where this gap opens"
 - [consciousness-and-agency](/apex/consciousness-and-agency/) - "This is the definite outcomes problem"
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) - Inline link to "definite outcomes"
 - [collapse-and-time](/concepts/collapse-and-time/) - Inline link to "definite outcomes"

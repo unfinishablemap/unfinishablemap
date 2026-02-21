@@ -29,10 +29,10 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-mechanics-free-will-2026-01-16]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 title: Quantum Indeterminacy and Free Will
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -141,7 +141,7 @@ Key features supporting free will:
 
 **The [attention-consciousness relationship](/concepts/attention-as-interface/)**: Koch and Tsuchiya documented that attention and consciousness are dissociable—blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. This dissociation matters: attention is the *mechanism* consciousness uses, not consciousness itself. A non-physical subject (consciousness) deploys a physical mechanism (attention) to influence quantum outcomes.
 
-**Neuroimaging support**: Research shows willed attention has distinct neural signatures from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, ~300ms deployment time. The brain distinguishes between doing what you're told and doing what you choose. See [voluntary attention research](/attention/) for details.
+**Neuroimaging support**: Research shows willed attention has distinct neural signatures from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, ~300ms deployment time. The brain distinguishes between doing what you're told and doing what you choose. See [voluntary attention research](/concepts/attention-as-interface/) for details.
 
 ## Two Domains: Attention and Motor Selection
 
@@ -180,7 +180,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 ## Many-Worlds: The Alternative Rejected
 
-The [many-worlds interpretation](/arguments/many-worlds/) offers escape from the measurement problem by denying collapse occurs at all. Every quantum possibility actualizes in branching universes; we find ourselves in one branch.
+The [many-worlds interpretation](/concepts/many-worlds/) offers escape from the measurement problem by denying collapse occurs at all. Every quantum possibility actualizes in branching universes; we find ourselves in one branch.
 
 The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this for several reasons:
 
@@ -235,7 +235,7 @@ The framework is falsifiable. Findings that would undermine it:
 
 **Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for dualism—and thus for consciousness as a separate causal factor—would weaken.
 
-**Many-worlds empirical confirmation**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed, there would be no collapse for consciousness to influence—all outcomes occur in branching universes. The Map's [No Many Worlds](/tenets/#no-many-worlds) rejection is foundational to this picture.
+**Many-worlds empirical confirmation**: If the [many-worlds interpretation](/concepts/many-worlds/) were empirically confirmed, there would be no collapse for consciousness to influence—all outcomes occur in branching universes. The Map's [No Many Worlds](/tenets/#no-many-worlds) rejection is foundational to this picture.
 
 **Selection indistinguishable from randomness**: If choices at quantum indeterminacies were genuinely random rather than guided by consciousness—showing no correlation with reasons, values, or phenomenal effort—the selection model collapses into the luck objection it claims to escape.
 
@@ -268,7 +268,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 
 ## Further Reading
 
-- [free-will](/concepts/free-will/) — The broader free will question and the Map's position
+- [free-will](/topics/free-will/) — The broader free will question and the Map's position
 - [luck-objection](/concepts/luck-objection/) — Detailed treatment of the central challenge to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — Agent vs event causation and why the Map's framework is agent-causal
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Stapp, Penrose-Hameroff)
@@ -276,13 +276,13 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 - [mental-effort](/concepts/mental-effort/) — The phenomenology supporting genuine causal engagement
 - [causal-closure](/concepts/causal-closure/) — How quantum indeterminacy challenges physical completeness
 - [retrocausality](/concepts/retrocausality/) — Atemporal selection and the timing problem resolution
-- [many-worlds](/arguments/many-worlds/) — Why the Map rejects the many-worlds interpretation
+- [many-worlds](/concepts/many-worlds/) — Why the Map rejects the many-worlds interpretation
 - [motor-selection](/concepts/motor-selection/) — Motor control as a second selection domain
 - [libet-experiments](/concepts/libet-experiments/) — The Libet experiments and their reinterpretation
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and its self-undermining character
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
-- [phenomenal-unity](/phenomenal-unity/) — Unified experience as evidence for non-reductive consciousness
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Unified experience as evidence for non-reductive consciousness
 - [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/) — Research notes underlying this article
 
 ## References

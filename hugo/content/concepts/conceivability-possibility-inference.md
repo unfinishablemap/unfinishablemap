@@ -44,7 +44,7 @@ The inference matters because conceivability is epistemically accessible—we ca
 1. I can coherently conceive of a being physically identical to me but lacking consciousness
 2. If such a being is coherently conceivable, it is metaphysically possible
 3. Therefore, [philosophical-zombies](/concepts/philosophical-zombies/) are metaphysically possible
-4. If zombies are possible, [physicalism](/arguments/materialism/) is false (consciousness is not entailed by physical facts)
+4. If zombies are possible, [physicalism](/concepts/materialism/) is false (consciousness is not entailed by physical facts)
 
 The inference transforms a first-person imaginative act into a claim about the fundamental structure of reality.
 

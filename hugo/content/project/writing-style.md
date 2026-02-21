@@ -59,7 +59,7 @@ Every article follows this structure:
 **Solution:** When introducing a concept before defining it, mark it explicitly:
 
 ```markdown
-The [decoherence process](//#decoherence) (explained below) destroys
+The [decoherence process](#decoherence) (explained below) destroys
 quantum superpositions almost instantly in warm biological systems.
 ```
 
@@ -330,8 +330,8 @@ What is not acceptable: Content that contradicts tenets without acknowledgment, 
 ### Links and References
 
 **Internal links** use Obsidian wikilink syntax:
-- Basic: `[article-name](/article-name/)`
-- With display text: `[display text](/article-name/)`
+- Basic: `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`
+- With display text: `[the hard problem](/topics/hard-problem-of-consciousness/)`
 - With section anchor: `[Dualism tenet](/tenets/#dualism)`
 
 **External references** go in a dedicated References section using academic citation format:
@@ -421,7 +421,7 @@ From the Against Materialism article:
 
 ### Named-Anchor Summary Example
 
-> The [quantum Zeno effect](//#quantum-zeno) (explained in the mechanism section below) might allow consciousness to influence brain states without violating energy conservation. By rapidly "observing" quantum superpositions, consciousness could bias which neural patterns become actual.
+> The [quantum Zeno effect](#quantum-zeno) (explained in the mechanism section below) might allow consciousness to influence brain states without violating energy conservation. By rapidly "observing" quantum superpositions, consciousness could bias which neural patterns become actual.
 
 ## Checklist for Content Creation
 

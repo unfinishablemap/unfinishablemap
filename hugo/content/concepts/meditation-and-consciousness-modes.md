@@ -31,7 +31,7 @@ related_articles:
 - '[[meditation-observer-witness-phenomenon-2026-01-18]]'
 title: Meditation and Consciousness Modes
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -275,7 +275,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and mechanism of effortful attention
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The quantum Zeno mechanism for selection
 - [phenomenology](/concepts/phenomenology/) — First-person methods for investigating experience
-- [attention](/attention/) — General treatment of attention and consciousness
+- [attention](/concepts/attention-as-interface/) — General treatment of attention and consciousness
 - [Voluntary attention research](/research/voluntary-attention-control-mechanisms-2026-01-17/) — Research on willed vs. automatic attention
 - [meditation-observer-witness-phenomenon-2026-01-18](/research/meditation-observer-witness-phenomenon-2026-01-18/) — Research notes for this article
 

@@ -30,7 +30,7 @@ None.
 - **No acknowledgment that methodology has evolved**: The article implied the Galilean framework is static, ignoring that cognitive neuroscience incorporates subjective reports. Resolution: Added a paragraph addressing the functionalist/cognitive science objection and explaining why it operates within, rather than transcends, the Galilean framework.
 
 ### Low Issues Found
-- Functionalist could argue the exclusion succeeded because secondary qualities *are* higher-level descriptions of physical facts. Deferred — the article now links to [functionalism](/arguments/functionalism/) and addresses the objection briefly. A full response belongs in the functionalism article.
+- Functionalist could argue the exclusion succeeded because secondary qualities *are* higher-level descriptions of physical facts. Deferred — the article now links to [functionalism](/concepts/functionalism/) and addresses the objection briefly. A full response belongs in the functionalism article.
 - Empiricist could charge the thesis with unfalsifiability (what would count as materialist success?). Deferred — the article's balanced conclusion already acknowledges the hard problem is "no less real" regardless of its source.
 
 ### Counterarguments Considered
@@ -63,7 +63,7 @@ None.
 - Broadened Thompson citation for accuracy
 
 ### Cross-links Added
-- [functionalism](/arguments/functionalism/) — added to body text, frontmatter, and Further Reading
+- [functionalism](/concepts/functionalism/) — added to body text, frontmatter, and Further Reading
 - [process-philosophy](/concepts/process-philosophy/) — added to body text, frontmatter, and Further Reading
 
 ### New References Added

@@ -61,7 +61,7 @@ In an entangled quantum state:
 
 Consider two entangled particles. Before measurement, neither particle has a definite spin state—only the *pair* has a definite relational state. This is not correlation between pre-existing properties; the particles lack individual states to be correlated. Unity is prior to parts.
 
-Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If [phenomenal unity](/phenomenal-unity/) requires ontological unity at the physical level, only entanglement can provide it.
+Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If [phenomenal unity](/concepts/phenomenal-binding-and-holism/) requires ontological unity at the physical level, only entanglement can provide it.
 
 ## Structural Correspondence
 
@@ -124,7 +124,7 @@ Tegmark (2000) calculated microtubule decoherence times of 10⁻¹³ to 10⁻²�
 
 Biological quantum effects demonstrate evolutionary precedent. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins at physiological temperatures. If evolution harnessed quantum effects for navigation, neural systems are not categorically different.
 
-See [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) for comprehensive treatment.
+See [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/) for comprehensive treatment.
 
 ## Classical Mechanisms Remain Necessary
 
@@ -194,10 +194,10 @@ The hypothesis makes specific predictions that distinguish it from classical alt
 ## Further Reading
 
 - [binding-problem](/concepts/binding-problem/) — The full binding problem including classical approaches
-- [neural-binding-mechanisms](/neural-binding-mechanisms/) — Classical vs quantum mechanisms in detail
+- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical vs quantum mechanisms in detail
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Philosophical argument that entanglement matches unity
-- [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) — Detailed experimental support
-- [phenomenal-unity](/phenomenal-unity/) — What the binding problem aims to explain
+- [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/) — Detailed experimental support
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — What the binding problem aims to explain
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and Stapp's quantum approaches
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for attention
 - [decoherence](/concepts/decoherence/) — Why quantum effects might survive in biological systems

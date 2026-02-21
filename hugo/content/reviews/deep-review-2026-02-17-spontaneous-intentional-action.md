@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken links to archived articles**: `[voluntary-attention](/voluntary-attention/)` and `[duration](/duration/)` both archived (replaced by `[attention-as-interface](/concepts/attention-as-interface/)` and `[temporal-consciousness](/concepts/temporal-consciousness/)`). Updated all frontmatter and body links.
+- **Broken links to archived articles**: `[voluntary-attention](/concepts/attention-as-interface/)` and `[duration](/concepts/temporal-consciousness/)` both archived (replaced by `[attention-as-interface](/concepts/attention-as-interface/)` and `[temporal-consciousness](/concepts/temporal-consciousness/)`). Updated all frontmatter and body links.
 - **Missing `last_deep_review` field**: Added to frontmatter.
 - **`[volitional-opacity](/voids/volitional-opacity/)` categorisation**: Listed under `concepts:` in frontmatter but exists as a void. Kept in `concepts:` list since the frontmatter schema doesn't have a `voids:` field and wikilinks resolve regardless of path. Noted for potential schema improvement.
 
@@ -58,7 +58,7 @@ topics: []
 - "What Would Challenge This View?" section — intellectual honesty
 
 ### Enhancements Made
-- Added cross-links to [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/), [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/), [interface-friction](/concepts/interface-friction/), [libet-experiments](/concepts/libet-experiments/), [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- Added cross-links to [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/), [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/), [interface-friction](/concepts/interface-friction/), [libet-experiments](/concepts/libet-experiments/), [reasons-responsiveness](/concepts/reasons-responsiveness/)
 - Strengthened "Against Determinism" with Libet/Wegner engagement
 - Added luck objection engagement with cross-reference to agent-causation
 - Added motor-selection reference grounding the neural mechanism
@@ -70,12 +70,12 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 - [interface-friction](/concepts/interface-friction/)
 - [libet-experiments](/concepts/libet-experiments/)
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)
-- [attention-as-interface](/concepts/attention-as-interface/) (replacing archived [voluntary-attention](/voluntary-attention/))
-- [temporal-consciousness](/concepts/temporal-consciousness/) (replacing archived [duration](/duration/))
+- [attention-as-interface](/concepts/attention-as-interface/) (replacing archived [voluntary-attention](/concepts/attention-as-interface/))
+- [temporal-consciousness](/concepts/temporal-consciousness/) (replacing archived [duration](/concepts/temporal-consciousness/))
 - [motor-selection](/concepts/motor-selection/) (was in frontmatter only, now in body)
 
 ## Remaining Items

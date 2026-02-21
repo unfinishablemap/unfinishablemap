@@ -8,7 +8,7 @@ concepts:
 - '[[attention]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 created: 2026-01-16
 date: &id001 2026-01-16
 draft: false
@@ -23,7 +23,7 @@ related_articles:
 title: 'Research: Attention as Interface Hypothesis - Mechanistic Research Agenda'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 ## Executive Summary

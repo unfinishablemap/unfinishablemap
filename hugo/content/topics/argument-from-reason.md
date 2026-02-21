@@ -6,7 +6,7 @@ ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[causal-closure]]'
 - '[[the-case-for-dualism]]'
 - '[[explanatory-gap]]'
@@ -25,7 +25,7 @@ last_curated: null
 last_deep_review: 2026-02-02 17:57:00+00:00
 modified: *id001
 related_articles:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[bidirectional-interaction]]'
 - '[[objectivity-and-consciousness]]'
@@ -33,7 +33,7 @@ related_articles:
 title: The Argument from Reason
 topics:
 - '[[dualism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 ---
 
 If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including the belief in physicalism itself. The argument from reason claims that rational inference requires tracking normative relationships (what follows from what, what counts as good evidence), but physical causation operates via efficient causes that cannot instantiate these normative relationships. This self-defeat structure provides one of the strongest cases for [dualism](/concepts/dualism/): consciousness must involve irreducible normative properties that physical processes cannot capture.
@@ -92,7 +92,7 @@ Consider: I could survive by fleeing predators because I truly believe "that's a
 
 Plantinga concludes that the combination of naturalism and evolution gives us no reason to trust our cognitive faculties. If our faculties are products of blind selection for adaptive behavior, their reliability at producing *true* beliefs (especially about abstract matters like philosophy) is dubious. This provides a defeater for all beliefs produced by those faculties—including naturalism itself.
 
-The Map's framework addresses this challenge: if consciousness involves selection guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers one candidate for how this might work—[attention](/voluntary-attention/) selects among neural states in ways sensitive to normative constraints—though the argument from reason stands independently of any particular mechanism.
+The Map's framework addresses this challenge: if consciousness involves selection guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers one candidate for how this might work—[attention](/concepts/attention-as-interface/) selects among neural states in ways sensitive to normative constraints—though the argument from reason stands independently of any particular mechanism.
 
 ## Anscombe's Critique: Causes and Reasons Are Compatible
 
@@ -102,7 +102,7 @@ The critique identifies an important distinction: *irrational* causes (wishful t
 
 But this response misses the deeper problem. The issue isn't whether causal and rational explanations can coexist—of course a belief can have both a causal history and rational justification. The issue is whether physical causation *alone* can account for rational justification. If neural activity fully explains the belief, what additional work does rational justification do? How can logical relationships causally influence which beliefs form if physical causation is already sufficient?
 
-The [causal-closure](/concepts/causal-closure/) principle central to physicalism holds that every physical event has a sufficient physical cause. If my neurons firing fully explains my belief, then appeals to "good reasons" become explanatorily idle—[epiphenomenal](/arguments/epiphenomenalism/) danglers that play no causal role. But if good reasons *do* play a causal role (as any non-epiphenomenalist position requires), then physical causation isn't complete. Anscombe's reconciliation works only if we abandon causal closure—which is to abandon physicalism.
+The [causal-closure](/concepts/causal-closure/) principle central to physicalism holds that every physical event has a sufficient physical cause. If my neurons firing fully explains my belief, then appeals to "good reasons" become explanatorily idle—[epiphenomenal](/concepts/epiphenomenalism/) danglers that play no causal role. But if good reasons *do* play a causal role (as any non-epiphenomenalist position requires), then physical causation isn't complete. Anscombe's reconciliation works only if we abandon causal closure—which is to abandon physicalism.
 
 ## Contemporary Formulations: Reppert and Hasker
 
@@ -114,7 +114,7 @@ Victor Reppert's *C.S. Lewis's Dangerous Idea* (2003) provides the most comprehe
 
 Each version converges on the same conclusion: rational inference requires properties that resist physical reduction.
 
-William Hasker emphasizes the unity required for rational inference. Grasping an argument requires holding multiple propositions in mind simultaneously, seeing how they fit together, recognizing entailment relationships. This requires [phenomenal-unity](/phenomenal-unity/)—the kind of integrated conscious awareness that [distributed neural activity](/concepts/binding-problem/) cannot explain. Hasker's emergent dualism posits that a unified conscious subject emerges from brain activity but cannot be reduced to it.
+William Hasker emphasizes the unity required for rational inference. Grasping an argument requires holding multiple propositions in mind simultaneously, seeing how they fit together, recognizing entailment relationships. This requires [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)—the kind of integrated conscious awareness that [distributed neural activity](/concepts/binding-problem/) cannot explain. Hasker's emergent dualism posits that a unified conscious subject emerges from brain activity but cannot be reduced to it.
 
 ## Relation to Site Perspective
 
@@ -126,7 +126,7 @@ The argument from reason provides decisive support for three of the Map's five t
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalism appears simpler—one ontological category instead of two. But this apparent simplicity is self-stultifying. A metaphysics that cannot account for rational justification cannot be *rationally accepted*. The simplicity is illusory when it eliminates the conditions for rational belief. This exemplifies how Occam's Razor misleads when knowledge is incomplete: the "simpler" theory undermines the very reasoning that might justify it.
 
-The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it complements the Map's framework by establishing that consciousness must have causal efficacy—which the [quantum interface](/concepts/stapp-quantum-mind/) explains *how* that efficacy operates without violating conservation laws. The [attention mechanism](/voluntary-attention/) provides the phenomenological correlate: what we experience as intellectual effort—focusing on an argument, tracing implications, evaluating evidence—may be the felt character of consciousness selecting among neural states in ways responsive to normative constraints.
+The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it complements the Map's framework by establishing that consciousness must have causal efficacy—which the [quantum interface](/concepts/stapp-quantum-mind/) explains *how* that efficacy operates without violating conservation laws. The [attention mechanism](/concepts/attention-as-interface/) provides the phenomenological correlate: what we experience as intellectual effort—focusing on an argument, tracing implications, evaluating evidence—may be the felt character of consciousness selecting among neural states in ways responsive to normative constraints.
 
 ## Objections and Responses
 
@@ -142,7 +142,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 
 **"We simply don't understand how consciousness tracks normative relationships."** This objection has force—and the Map acknowledges it. [Colin McGinn](/concepts/mysterianism/) argues that certain aspects of the mind-body relationship may exceed human cognitive capacities. The *mechanism* by which phenomenal consciousness grasps logical necessity may be naturally mysterious—not because it doesn't exist, but because understanding it requires concepts we cannot acquire. The argument from reason establishes *that* consciousness must track normative relationships (on pain of self-defeat), even if *how* it does so remains beyond our comprehension. This distinguishes the epistemic modesty of mysterianism from the eliminative move of denying that normative tracking occurs.
 
-**"The unified self that 'grasps' reasons may itself be constructed."** Buddhist philosophy and certain cognitive science approaches deny the substantial self that the argument seems to presuppose. If there is no unified rational agent persisting through an inference, what does the "tracking"? This objection has force against naive homuncular pictures, but the argument requires only phenomenal unity—the experienced integration of premises into a conclusion—not a metaphysically substantial self. Hasker's point about the unity required for grasping arguments targets this experiential integration, which remains even if the "self" is understood as process rather than substance. The question becomes whether phenomenal unity can be explained physically—and this leads back to the [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/phenomenal-unity/), where the same explanatory challenges arise.
+**"The unified self that 'grasps' reasons may itself be constructed."** Buddhist philosophy and certain cognitive science approaches deny the substantial self that the argument seems to presuppose. If there is no unified rational agent persisting through an inference, what does the "tracking"? This objection has force against naive homuncular pictures, but the argument requires only phenomenal unity—the experienced integration of premises into a conclusion—not a metaphysically substantial self. Hasker's point about the unity required for grasping arguments targets this experiential integration, which remains even if the "self" is understood as process rather than substance. The question becomes whether phenomenal unity can be explained physically—and this leads back to the [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/concepts/phenomenal-binding-and-holism/), where the same explanatory challenges arise.
 
 ## Further Reading
 
@@ -150,11 +150,11 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [causal-closure](/concepts/causal-closure/) - The physicalist principle that the argument from reason challenges
 - [explanatory-gap](/concepts/explanatory-gap/) - The conceptual distinction between physical and phenomenal that the argument exploits
 - [agent-causation](/concepts/agent-causation/) - How rational agents causally influence beliefs through recognizing reasons
-- [epiphenomenalism](/arguments/epiphenomenalism/) - The self-defeating position that denies mental causation
-- [free-will](/concepts/free-will/) - Rational choice as paradigm case of consciousness selecting among neural patterns
+- [epiphenomenalism](/concepts/epiphenomenalism/) - The self-defeating position that denies mental causation
+- [free-will](/topics/free-will/) - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [interactionist-dualism](/concepts/interactionist-dualism/) - The Map's framework for mind-body causation
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - A candidate mechanism for consciousness influencing neural states
-- [voluntary-attention](/voluntary-attention/) - The phenomenology of intellectual effort and its role in reasoning
+- [voluntary-attention](/concepts/attention-as-interface/) - The phenomenology of intellectual effort and its role in reasoning
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - Nagel's analysis of how subjectivity enables objectivity
 - [introspection](/concepts/introspection/) - The reliability of self-knowledge and its connection to self-stultification

@@ -89,11 +89,11 @@ Representing others' mental states about mental states. "She thinks that I think
 
 ## The Metarepresentational Threshold
 
-[Metarepresentation](/metarepresentation/)—representing representations as representations—marks the boundary where consciousness becomes necessary for social cognition. Here's why:
+[Metarepresentation](/concepts/metacognition/)—representing representations as representations—marks the boundary where consciousness becomes necessary for social cognition. Here's why:
 
 ### The Nested Structure Problem
 
-Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. This isn't just complex—it's *reflexively* complex. Each level must be available for manipulation while tracking its relationship to other levels. The nested representations must be bound into a [unified conscious experience](/phenomenal-unity/)—you must experience the whole structure at once, not merely store its parts separately.
+Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. This isn't just complex—it's *reflexively* complex. Each level must be available for manipulation while tracking its relationship to other levels. The nested representations must be bound into a [unified conscious experience](/concepts/phenomenal-binding-and-holism/)—you must experience the whole structure at once, not merely store its parts separately.
 
 Consider: "I want her to believe that I don't know that she plans to take the food."
 
@@ -253,7 +253,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 ### Core Concepts
 - [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them: the procedural/declarative distinction
-- [metarepresentation](/metarepresentation/) — Why representing minds *as* minds requires consciousness
+- [metarepresentation](/concepts/metacognition/) — Why representing minds *as* minds requires consciousness
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Social transmission as paradigm case of consciousness-dependent cognition
 - [working-memory](/concepts/working-memory/) — The workspace enabling recursive mental operations
 

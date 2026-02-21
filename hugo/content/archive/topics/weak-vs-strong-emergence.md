@@ -13,7 +13,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[downward-causation]]'
 - '[[mental-causation]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[interactionist-dualism]]'
 created: 2026-02-09
 date: &id001 2026-02-09
@@ -105,8 +105,8 @@ The weak/strong boundary connects to the Map's tenets at multiple points.
 ## Further Reading
 
 - [emergence](/concepts/emergence/) — The technical concept: weak vs. strong emergence, Kim's argument
-- [emergence-and-strong-emergence](/emergence-and-strong-emergence/) — Why consciousness forces acceptance of strong emergence
-- [consciousness-and-emergence](/consciousness-and-emergence/) — How emergence type determines what consciousness can be
+- [emergence-and-strong-emergence](/topics/consciousness-and-the-emergence-debate/) — Why consciousness forces acceptance of strong emergence
+- [consciousness-and-emergence](/topics/consciousness-and-the-emergence-debate/) — How emergence type determines what consciousness can be
 - [emergence-void](/voids/emergence-void/) — The cognitive limit surrounding how arrangement produces novelty
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The deepest instance of the emergence question
 - [reductionism](/concepts/reductionism/) — The three types and why consciousness resists each

@@ -36,7 +36,7 @@ Buddhism rejects a permanent self while taking consciousness seriously. The Unfi
 
 Buddhism's *anattā* (no-self) doctrine targets a specific conception: the Hindu *ātman*, an eternal soul-substance that persists unchanged through rebirth. Buddhism denies this. But denying a permanent soul-substance is not the same as denying that consciousness exists, that experience is real, or that phenomenal properties resist reduction to physical processes. The Map's [Dualism](/tenets/#dualism) tenet requires consciousness to be irreducible—it does not explicitly require consciousness to be permanent.
 
-Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [emptiness challenge](//#emptiness-challenge) (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position. For a detailed treatment of how Buddhist no-self relates to the Map's commitment to [indexical identity](/concepts/haecceity/), see [The Eastern Philosophy–Haecceity Tension](/eastern-philosophy-haecceity-tension/).
+Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [emptiness challenge](#emptiness-challenge) (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position. For a detailed treatment of how Buddhist no-self relates to the Map's commitment to [indexical identity](/concepts/haecceity/), see [The Eastern Philosophy–Haecceity Tension](/topics/eastern-philosophy-consciousness/).
 
 ## What Buddhism Actually Denies
 
@@ -60,7 +60,7 @@ The Dualism tenet states: "Consciousness is not reducible to physical processes.
 
 **the Map does not require a permanent soul**: The tenet doesn't specify whether consciousness persists eternally, changes moment to moment, or ceases at death. It makes a claim about the relationship between consciousness and physics, not about temporal duration.
 
-**the Map does not require a unified self**: The tenet is compatible with consciousness being fragmented, multiple, or constantly reconstructed. [phenomenal-unity](/phenomenal-unity/) is addressed separately.
+**the Map does not require a unified self**: The tenet is compatible with consciousness being fragmented, multiple, or constantly reconstructed. [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) is addressed separately.
 
 What the Map requires is *irreducibility*: at any given moment, conscious experience has properties that no physical description captures. This is the [hard problem](/topics/hard-problem-of-consciousness/)—why there is something it is like to undergo certain physical processes.
 

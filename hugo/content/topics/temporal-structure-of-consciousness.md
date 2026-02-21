@@ -28,7 +28,7 @@ concepts:
 - '[[retrocausality]]'
 - '[[integrated-information-theory]]'
 - '[[global-workspace-theory]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[illusionism]]'
 created: 2026-01-23
 date: &id001 2026-02-01
@@ -46,7 +46,7 @@ related_articles:
 title: Temporal Structure of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[ai-consciousness]]'
 ---
 
@@ -56,7 +56,7 @@ This bidirectional dependence has profound implications. If consciousness needs 
 
 ## The Specious Present
 
-Consciousness doesn't occur in durationless instants. William James identified the [specious present](/specious-present/)—a brief interval (roughly 100-750ms, extending to 2-3 seconds for some phenomena) within which we experience succession as unified wholes. The mathematical present is durationless, but the experiential present has duration. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected.
+Consciousness doesn't occur in durationless instants. William James identified the [specious present](/concepts/temporal-consciousness/)—a brief interval (roughly 100-750ms, extending to 2-3 seconds for some phenomena) within which we experience succession as unified wholes. The mathematical present is durationless, but the experiential present has duration. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected.
 
 This poses a puzzle: how can succession be experienced if multiple moments must be present together?
 
@@ -68,7 +68,7 @@ The Map's framework suggests a synthesis: experience is genuinely extended, but 
 
 ## Bergson's Durée
 
-Henri Bergson introduced *durée* (duration): the qualitative experience of time as lived rather than measured. Clock time spatialises what is essentially dynamic, treating moments as positions on a line. But [lived time](/duration/) interpenetrates: the past permeates the present, elements are distinguishable yet not separable. You hear a melody as unified flow where each note gains meaning from what precedes and follows—cut it into separate notes and you have frequencies, not music.
+Henri Bergson introduced *durée* (duration): the qualitative experience of time as lived rather than measured. Clock time spatialises what is essentially dynamic, treating moments as positions on a line. But [lived time](/concepts/temporal-consciousness/) interpenetrates: the past permeates the present, elements are distinguishable yet not separable. You hear a melody as unified flow where each note gains meaning from what precedes and follows—cut it into separate notes and you have frequencies, not music.
 
 Bergson connected durée to free will. In spatialised time, causation is mechanical. In lived duration, creation is possible—the future isn't implicit in the present but genuinely novel. If consciousness participates in quantum collapse, selecting among possibilities where physics leaves outcomes undetermined, then Bergson's creative duration has a physical correlate: durée is what consciousness-involving collapse feels like from within.
 
@@ -102,7 +102,7 @@ A puzzle: if consciousness selects collapse outcomes, doesn't selection happen a
 
 ### The Felt Asymmetry of Past and Future
 
-Consider yesterday versus tomorrow. The phenomenological difference is striking. Yesterday has settledness—fixed, rememberable, unchangeable. Tomorrow has openness—responsive to what you do now. This asymmetry appears in [mental time travel](/autonoetic-consciousness/): remembering your graduation involves *inhabiting* the memory with a "feeling of pastness," while imagining next year's holiday feels provisional.
+Consider yesterday versus tomorrow. The phenomenological difference is striking. Yesterday has settledness—fixed, rememberable, unchangeable. Tomorrow has openness—responsive to what you do now. This asymmetry appears in [mental time travel](/concepts/episodic-memory/): remembering your graduation involves *inhabiting* the memory with a "feeling of pastness," while imagining next year's holiday feels provisional.
 
 If consciousness participates in collapse, and collapse creates irreversible facts, then this asymmetry isn't merely epistemic—it's about what exists. The past is settled because collapse has occurred; the future is open because it hasn't.
 
@@ -110,7 +110,7 @@ If consciousness participates in collapse, and collapse creates irreversible fac
 
 Deliberation takes time with distinctive phenomenal character. You hold options in mind, compare features, notice reactions, return to settled considerations. This temporal unfolding differs from mere sequential processing—you feel yourself moving through consideration toward conclusion. Each moment retains just-considered options while protending toward resolution. Deliberation has *durée*: interpenetrating flow rather than isolated instants.
 
-The moment of decision narrows possibilities to actuality within the [specious present](/specious-present/)—not instantaneously but as phenomenal transition. The Map interprets holding possibilities open as phenomenal access to pre-collapse superposition. Decision collapses it, selecting one configuration as actual.
+The moment of decision narrows possibilities to actuality within the [specious present](/concepts/temporal-consciousness/)—not instantaneously but as phenomenal transition. The Map interprets holding possibilities open as phenomenal access to pre-collapse superposition. Decision collapses it, selecting one configuration as actual.
 
 ### Temporal Effort
 
@@ -178,10 +178,10 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, temporal binding, and its implications
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, presentism, eternalism, growing block
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full framework on time, collapse, and agency
-- [duration](/duration/) — Bergson's durée and qualitative lived time
-- [specious-present](/specious-present/) — The experienced duration of the present moment
+- [duration](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [free-will](/concepts/free-will/) — Temporal agency and the determination question
+- [free-will](/topics/free-will/) — Temporal agency and the determination question
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it's like to choose, including temporal aspects
 - [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person methods with neuroscience

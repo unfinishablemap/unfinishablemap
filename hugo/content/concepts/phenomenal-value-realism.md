@@ -8,7 +8,7 @@ concepts:
 - '[[qualia]]'
 - '[[emotional-consciousness]]'
 - '[[panpsychism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[dualism]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -171,7 +171,7 @@ Phenomenal value realism connects to each of the Map's five tenets.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness can bias quantum outcomes, and consciousness grounds value, then value-laden choices can influence physical outcomes. This makes moral agency metaphysically robust.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The [epiphenomenalism](/arguments/epiphenomenalism/) article's self-undermining argument applies: we couldn't trust our judgments about value if causally disconnected from values themselves.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The [epiphenomenalism](/concepts/epiphenomenalism/) article's self-undermining argument applies: we couldn't trust our judgments about value if causally disconnected from values themselves.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If value is token-based—*this* experience matters—then many-worlds threatens moral coherence. Every choice would produce both good and bad outcomes. Rejecting many-worlds preserves the intuition that which branch *I* end up in matters.
 
@@ -189,11 +189,11 @@ Phenomenal value realism connects to each of the Map's five tenets.
 
 ## Why This Matters
 
-If value is grounded in consciousness: the [hard problem](/topics/hard-problem-of-consciousness/) is about explaining the ground of value, [AI consciousness](/topics/ai-consciousness/) determines whether AI matters morally, and rejecting [Many Worlds](/arguments/many-worlds/) has ethical weight. Phenomenal value realism unifies the Map's concerns: consciousness, identity, AI ethics, and meaning all converge on the thesis that conscious experience is what ultimately matters.
+If value is grounded in consciousness: the [hard problem](/topics/hard-problem-of-consciousness/) is about explaining the ground of value, [AI consciousness](/topics/ai-consciousness/) determines whether AI matters morally, and rejecting [Many Worlds](/concepts/many-worlds/) has ethical weight. Phenomenal value realism unifies the Map's concerns: consciousness, identity, AI ethics, and meaning all converge on the thesis that conscious experience is what ultimately matters.
 
 ## Further Reading
 
-- [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — Comprehensive treatment: queerness objections, the is-ought gap, pluralist extension, and the case for consciousness-grounded value
+- [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — Comprehensive treatment: queerness objections, the is-ought gap, pluralist extension, and the case for consciousness-grounded value
 - [experiential-alignment](/concepts/experiential-alignment/) — The operationalization of phenomenal value realism for AI alignment
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why experience has aesthetic quality, and why this resists reduction
 - [meaning-of-life](/topics/meaning-of-life/) — The case that consciousness grounds meaning

@@ -33,7 +33,7 @@ None. The previous review (2026-01-20) addressed the major structural gaps—add
    - **Resolution**: Added "Attention-Produced Slippage" subsection integrating James's fringes, Gurwitsch's field theory, and penumbral suppression research.
 
 2. **Missing attention concept link**: The article discussed attention-related mechanisms without linking to the attention concept.
-   - **Resolution**: Added [attention](/attention/) to concepts in frontmatter.
+   - **Resolution**: Added [attention](/concepts/attention-as-interface/) to concepts in frontmatter.
 
 ### Low Issues Found
 
@@ -72,7 +72,7 @@ None. The previous review (2026-01-20) addressed the major structural gaps—add
 
 ### Cross-links Added
 
-- [attention](/attention/) (new concept link)
+- [attention](/concepts/attention-as-interface/) (new concept link)
 
 ## Word Count
 

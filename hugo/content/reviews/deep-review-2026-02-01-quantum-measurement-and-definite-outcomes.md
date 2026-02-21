@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/quantum-measurement-and-definite-outcomes/)
+**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/topics/quantum-measurement-consciousness-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -72,7 +72,7 @@ topics: []
 
 ### Cross-links Added
 
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
 - [knowledge-argument](/concepts/knowledge-argument/)

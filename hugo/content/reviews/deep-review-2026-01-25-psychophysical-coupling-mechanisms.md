@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Psychophysical Coupling Mechanisms](/psychophysical-coupling-mechanisms/)
+**Article**: [Psychophysical Coupling Mechanisms](/concepts/psychophysical-coupling/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -71,11 +71,11 @@ Six supportive philosopher personas identified:
 ### Cross-links Added
 
 - [measurement-problem](/concepts/measurement-problem/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [libet-experiments](/concepts/libet-experiments/)
 - [pairing-problem](/concepts/pairing-problem/) (multiple instances)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
-- [phenomenal-unity](/phenomenal-unity/)
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
 - [mysterianism](/concepts/mysterianism/)
 
 ## Word Count

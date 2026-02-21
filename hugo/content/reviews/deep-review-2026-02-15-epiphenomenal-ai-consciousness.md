@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Self-stultification scope overstatement**: The article claimed the self-stultification argument "applies with full force to AI," but the Map's own [epiphenomenalism](/arguments/epiphenomenalism/) concept page explicitly carves out an AI exception — self-stultification proves *some* consciousness must be causally efficacious (ours), but does not rule out the logical possibility that other systems might have causally inert experience. **Resolution**: Rewrote the self-stultification section to reflect this nuance, distinguishing the argument's decisive force for humans from its more limited applicability to AI. Added explicit cross-reference to the concept page.
+1. **Self-stultification scope overstatement**: The article claimed the self-stultification argument "applies with full force to AI," but the Map's own [epiphenomenalism](/concepts/epiphenomenalism/) concept page explicitly carves out an AI exception — self-stultification proves *some* consciousness must be causally efficacious (ours), but does not rule out the logical possibility that other systems might have causally inert experience. **Resolution**: Rewrote the self-stultification section to reflect this nuance, distinguishing the argument's decisive force for humans from its more limited applicability to AI. Added explicit cross-reference to the concept page.
 
 2. **Internal tension between "full force" and "logically consistent"**: The article simultaneously claimed self-stultification applies fully to AI and that epiphenomenalism is logically consistent — these claims were in tension. **Resolution**: Reconciled by framing the AI case as an "epistemic void" (permanently undetectable) rather than a strict impossibility. The argument now consistently distinguishes logical possibility from epistemic accessibility.
 
@@ -63,7 +63,7 @@ topics: []
 
 ### Cross-links Added
 
-- [epiphenomenalism](/arguments/epiphenomenalism/) (additional in-body reference to concept page's AI exception)
+- [epiphenomenalism](/concepts/epiphenomenalism/) (additional in-body reference to concept page's AI exception)
 - [qualia](/concepts/qualia/) (in reports section)
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) (in substrate section and related_articles frontmatter)
 

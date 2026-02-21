@@ -11,7 +11,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[prebiotic-collapse]]'
 - '[[decoherence]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[attention-as-interface]]'
 created: 2026-02-15
 date: &id001 2026-02-18
@@ -99,7 +99,7 @@ The black hole information paradox—the conflict between quantum mechanics (whi
 
 This commitment has implications for consciousness. If information cannot be destroyed, what happens to the information constituting a conscious experience? This is not the same as asking whether consciousness survives death—the information in a brain is physical information, and the Map holds that consciousness is not identical to that information. But it raises the question of whether the *interface* between consciousness and physical information leaves traces. If consciousness biases quantum outcomes, those biased outcomes carry information about the act of biasing. That information, according to physics' deepest commitments, is never lost.
 
-The Map treats this as a suggestive observation, not a load-bearing argument. The more modest point: physics' commitment to information conservation creates a diagnostic for [epiphenomenalism](/arguments/epiphenomenalism/). If consciousness leaves no informational trace, it is invisible to physics—consistent with epiphenomenalism but hard to reconcile with our ability to discuss consciousness at all. If it does leave a trace, physics demands that trace be conserved. Either consciousness participates in the physical information economy, or it stands entirely outside it.
+The Map treats this as a suggestive observation, not a load-bearing argument. The more modest point: physics' commitment to information conservation creates a diagnostic for [epiphenomenalism](/concepts/epiphenomenalism/). If consciousness leaves no informational trace, it is invisible to physics—consistent with epiphenomenalism but hard to reconcile with our ability to discuss consciousness at all. If it does leave a trace, physics demands that trace be conserved. Either consciousness participates in the physical information economy, or it stands entirely outside it.
 
 ## Relation to Site Perspective
 

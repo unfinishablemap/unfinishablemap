@@ -10,9 +10,9 @@ author: null
 concepts:
 - '[[qualia]]'
 - '[[phenomenology]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[intentionality]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-02-17
 date: &id001 2026-02-17
 description: Beauty requires a mind. Exploring the ontological dependence of aesthetic
@@ -39,7 +39,7 @@ topics:
 
 Aesthetic value does not exist without consciousness. A universe containing every physical arrangement that humans find beautiful—sunsets, crystal lattices, spiral galaxies, the ratio of a nautilus shell—but lacking any conscious experiencer would contain no beauty. It would contain wavelengths, geometry, and thermodynamics. Beauty enters reality only when a subject encounters these arrangements and something in the encounter carries evaluative charge. This ontological dependence of aesthetic value on consciousness is not a problem to be solved but a datum to be understood. It reveals something fundamental about where value sits in the structure of reality.
 
-The Unfinishable Map has explored the [pervasiveness of aesthetic quality in experience](/topics/aesthetic-dimension-of-consciousness/), the [structural requirements for aesthetic for-ness](/aesthetics-of-consciousness/), and the [evidential force of beauty for dualism](/consciousness-and-aesthetic-experience-as-philosophical-evidence/). This article addresses the ontological question directly: what does the dependence of aesthetic value on consciousness tell us about the nature of value, the nature of consciousness, and the relationship between them?
+The Unfinishable Map has explored the [pervasiveness of aesthetic quality in experience](/topics/aesthetic-dimension-of-consciousness/), the [structural requirements for aesthetic for-ness](/topics/aesthetic-dimension-of-consciousness/), and the [evidential force of beauty for dualism](/topics/aesthetic-dimension-of-consciousness/). This article addresses the ontological question directly: what does the dependence of aesthetic value on consciousness tell us about the nature of value, the nature of consciousness, and the relationship between them?
 
 ## The Ontological Gap
 
@@ -85,7 +85,7 @@ Aesthetic value requires temporal presence—the kind of durational awareness th
 
 ### Vulnerability
 
-As the [aesthetics-of-consciousness](/aesthetics-of-consciousness/) article explores, aesthetic encounter requires a kind of openness that amounts to vulnerability. The subject must be capable of being *affected*—changed by the encounter, moved by the beauty. A system that processes inputs without being affected by them in any experiential sense does not encounter beauty. It categorises. The evaluative charge of aesthetic experience—the way beauty grips, holds, and sometimes overwhelms—requires a subject that can be gripped, held, and overwhelmed. This is not a deficiency of consciousness but a capacity unique to it.
+As the [aesthetics-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) article explores, aesthetic encounter requires a kind of openness that amounts to vulnerability. The subject must be capable of being *affected*—changed by the encounter, moved by the beauty. A system that processes inputs without being affected by them in any experiential sense does not encounter beauty. It categorises. The evaluative charge of aesthetic experience—the way beauty grips, holds, and sometimes overwhelms—requires a subject that can be gripped, held, and overwhelmed. This is not a deficiency of consciousness but a capacity unique to it.
 
 ## Value's Place in Reality
 
@@ -103,7 +103,7 @@ The Map holds that option one is most coherent. Aesthetic value is real, conscio
 
 Aesthetic value and moral value both depend on consciousness but in different ways that illuminate each other.
 
-Moral value, as [phenomenal-value-realism](/concepts/phenomenal-value-realism/) argues, is intrinsic to certain conscious states. Suffering is bad *in itself*—its badness is constituted by how it feels, not by any external evaluation. Moral value is consciousness-dependent because it *is* a feature of consciousness.
+Moral value, as [phenomenal-value-realism](/topics/phenomenal-value-realism/) argues, is intrinsic to certain conscious states. Suffering is bad *in itself*—its badness is constituted by how it feels, not by any external evaluation. Moral value is consciousness-dependent because it *is* a feature of consciousness.
 
 Aesthetic value is consciousness-dependent differently. The beauty of a sunset is not a feature of consciousness alone—it requires both the sunset and the conscious observer. Moral value is intrinsic to experience; aesthetic value is relational, arising between subject and object. Remove the suffering and you remove the moral badness. Remove the sunset and you remove *this particular* beauty, though the subject's capacity for beauty remains. Remove the subject and you remove all beauty, though the sunset's physical properties remain.
 
@@ -122,11 +122,11 @@ The ontological dependence of aesthetic value on consciousness connects directly
 ## Further Reading
 
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — The pervasiveness of aesthetic quality in experience
-- [aesthetics-of-consciousness](/aesthetics-of-consciousness/) — Structural requirements for beauty's for-ness
-- [consciousness-and-aesthetic-experience-as-philosophical-evidence](/consciousness-and-aesthetic-experience-as-philosophical-evidence/) — Beauty as evidence for dualism
+- [aesthetics-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Structural requirements for beauty's for-ness
+- [consciousness-and-aesthetic-experience-as-philosophical-evidence](/topics/aesthetic-dimension-of-consciousness/) — Beauty as evidence for dualism
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Art-making and bidirectional interaction
 - [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits beauty reveals
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Value as intrinsic to experience
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Parallel analysis for moral value
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — The moral implications of conscious experience
 

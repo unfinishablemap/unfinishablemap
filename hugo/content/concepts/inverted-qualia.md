@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
 - '[[problem-of-other-minds]]'
@@ -15,7 +15,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
 - '[[decoherence]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-01-15
@@ -37,7 +37,7 @@ topics:
 
 The inverted spectrum thought experiment asks: what if your experience of red is qualitatively identical to my experience of green? Two people might perceive the same objects, respond identically to color tests, and agree on all color terms—yet experience the world in systematically different ways. Where you see a warm red sunset, I might see something that, were you to experience it, you'd call a cool green glow.
 
-First suggested by John Locke in 1689, the scenario was developed into a rigorous argument against [functionalism](/arguments/functionalism/) by Ned Block, Jerry Fodor, and Sydney Shoemaker. If functionally identical beings can differ in their [qualia](/concepts/qualia/), then qualia aren't determined by functional organization. Something beyond function matters to the character of experience.
+First suggested by John Locke in 1689, the scenario was developed into a rigorous argument against [functionalism](/concepts/functionalism/) by Ned Block, Jerry Fodor, and Sydney Shoemaker. If functionally identical beings can differ in their [qualia](/concepts/qualia/), then qualia aren't determined by functional organization. Something beyond function matters to the character of experience.
 
 ## The Core Scenario
 
@@ -56,7 +56,7 @@ Neither is wrong about the apple. Both correctly perceive that the apple is red�
 
 ## Why This Challenges Functionalism
 
-[Functionalism](/arguments/functionalism/) holds that mental states are defined by their functional roles—by how they're caused by inputs, how they cause behavior, and how they relate to other mental states. A pain state, on this view, just *is* whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating beliefs like "something hurts."
+[functionalism](/concepts/functionalism/) holds that mental states are defined by their functional roles—by how they're caused by inputs, how they cause behavior, and how they relate to other mental states. A pain state, on this view, just *is* whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating beliefs like "something hurts."
 
 The inverted spectrum scenario suggests this can't be right for qualitative states:
 
@@ -221,7 +221,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet raises
 
 The Map's answer is yes—but the effects may be subtle, showing up in aesthetic preferences, emotional valences, or [introspective](/concepts/introspection/) reports that resist precise behavioral matching. More fundamentally, if consciousness participates in quantum selection (as the Minimal Quantum Interaction tenet proposes), different qualia might influence selection differently even when the observable behavioral outputs converge. The point where physics leaves outcomes undetermined is also the point where qualitative differences could matter causally.
 
-The epiphenomenalist alternative—that qualia differ without differing causally—faces the self-stultification objection. If my "phenomenal red" never affected any neuron, how did neurons come to produce accurate reports about phenomenal redness? The fact that we discuss inverted qualia at all suggests qualia have causal efficacy. See [epiphenomenalism](/arguments/epiphenomenalism/) for the full treatment.
+The epiphenomenalist alternative—that qualia differ without differing causally—faces the self-stultification objection. If my "phenomenal red" never affected any neuron, how did neurons come to produce accurate reports about phenomenal redness? The fact that we discuss inverted qualia at all suggests qualia have causal efficacy. See [epiphenomenalism](/concepts/epiphenomenalism/) for the full treatment.
 
 ### Minimal Quantum Interaction
 
@@ -248,7 +248,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 ### Site Content
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The parallel argument varying qualia's presence rather than character
 - [qualia](/concepts/qualia/) — The phenomenal properties that resist functional analysis
-- [functionalism](/arguments/functionalism/) — The primary target of the inverted spectrum argument
+- [functionalism](/concepts/functionalism/) — The primary target of the inverted spectrum argument
 - [knowledge-argument](/concepts/knowledge-argument/) — Another route to the same dualist conclusion
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic implications of qualia's privacy
 - [explanatory-gap](/concepts/explanatory-gap/) — Why structural descriptions leave phenomenal character unexplained
@@ -257,7 +257,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to awareness itself
 - [haecceity](/concepts/haecceity/) — The "thisness" of individual experience
 - [decoherence](/concepts/decoherence/) — Why quantum mechanics doesn't eliminate the role for consciousness
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that qualia are causally inert
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that qualia are causally inert
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The sophisticated physicalist response
 
 ### External Sources

@@ -29,7 +29,7 @@ related_articles:
 title: The Growing Block Universe and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The growing block theory of time holds that past and present exist but the future does not yet. Unlike eternalism's frozen four-dimensional block where all moments are equally real, and unlike presentism's razor-thin slice of existence, the growing block accumulates reality as time passes. C.D. Broad introduced this view in 1923, and it has a distinctive virtue for The Unfinishable Map's concerns: it takes consciousness seriously as marking something ontologically significant about the present moment. The growing block is the temporal ontology most naturally aligned with the reality of conscious experience—and consciousness, in turn, may provide the growing block with exactly what it needs to answer its deepest objections.
@@ -48,7 +48,7 @@ Eternalism faces a distinctive difficulty when confronting consciousness. If all
 
 But spatial indexicality and temporal indexicality are not symmetric. "Here" doesn't feel ontologically privileged—few people believe their location is metaphysically special. "Now" does feel privileged. Conscious experience seems to *happen*—to have a dynamic, present-tense character that passive existence lacks. The eternalist must either deny this phenomenology or explain it as a universal cognitive error.
 
-The challenge deepens with [temporal consciousness](/concepts/temporal-consciousness/). Experience doesn't consist of frozen snapshots arranged along a timeline. It flows. The [specious-present](/specious-present/) has [duration](/duration/)—roughly 100 to 750 milliseconds of felt temporal extent. Within this window, change is directly experienced, not inferred from comparison of static states. Husserl's retention-protention structure reveals that each moment of consciousness carries the immediate past and anticipates the near future as intrinsic features, not external relations.
+The challenge deepens with [temporal consciousness](/concepts/temporal-consciousness/). Experience doesn't consist of frozen snapshots arranged along a timeline. It flows. The [specious-present](/concepts/temporal-consciousness/) has [duration](/concepts/temporal-consciousness/)—roughly 100 to 750 milliseconds of felt temporal extent. Within this window, change is directly experienced, not inferred from comparison of static states. Husserl's retention-protention structure reveals that each moment of consciousness carries the immediate past and anticipates the near future as intrinsic features, not external relations.
 
 Eternalism can accommodate this by treating temporal experience as the content of time-slices—each slice encodes the *representation* of flow without flow actually occurring. But this makes the most intimate feature of consciousness—its dynamic, present-tense character—a systematic misrepresentation. The hard problem already asks why physical processes should give rise to experience at all. Adding that the experience fundamentally misrepresents reality's temporal character compounds the difficulty.
 
@@ -66,7 +66,7 @@ The growing block offers consciousness something neither rival provides: a tempo
 
 This isn't merely a matter of phenomenological comfort. The growing block provides structural resources for understanding consciousness:
 
-**Genuine openness of the future.** Because the future doesn't exist, conscious deliberation and choice engage with real indeterminacy. [Free will](/concepts/free-will/) doesn't require overcoming a fixed future (as on eternalism) or operating without a stable past (as on presentism). The agent stands at the leading edge, with accumulated reality behind and genuine possibility ahead.
+**Genuine openness of the future.** Because the future doesn't exist, conscious deliberation and choice engage with real indeterminacy. [Free will](/topics/free-will/) doesn't require overcoming a fixed future (as on eternalism) or operating without a stable past (as on presentism). The agent stands at the leading edge, with accumulated reality behind and genuine possibility ahead.
 
 **Objective present.** The present isn't merely where an observer happens to be located (eternalism's indexical "now"). It's the ontological frontier—where reality is being constituted. If consciousness marks this frontier, its specialness isn't a cognitive error but a reflection of temporal structure.
 
@@ -86,7 +86,7 @@ A second objection asks: at what rate does the block grow? "One second per secon
 
 But this objection may assume what it targets. If growth *is* temporal passage rather than something occurring within time, asking for its rate commits a category error—like asking how fast space extends spatially. The growth of the block and the passage of time are the same phenomenon, not one occurring within the other.
 
-Bergson's [durée](/duration/) offers a complementary response. Lived time has no rate because it isn't measured against an external standard. Duration is qualitative, not quantitative. Asking "how fast does time pass?" spatialises time—treats it as movement through a container—which is precisely what the growing block denies. Time doesn't pass through anything. Reality simply accumulates.
+Bergson's [durée](/concepts/temporal-consciousness/) offers a complementary response. Lived time has no rate because it isn't measured against an external standard. Duration is qualitative, not quantitative. Asking "how fast does time pass?" spatialises time—treats it as movement through a container—which is precisely what the growing block denies. Time doesn't pass through anything. Reality simply accumulates.
 
 ## The Map's Modified Growing Block
 
@@ -118,8 +118,8 @@ The growing block connects to all five of the Map's [tenets](/tenets/):
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may introduce time's arrow
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Why consciousness requires temporal structure
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Connecting collapse, time, and free will
-- [specious-present](/specious-present/) — The experienced duration of the present moment
-- [duration](/duration/) — Bergson's qualitative lived time
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
+- [duration](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's actual occasions and concrescence
 - [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/) — Why consciousness constitutes time's felt direction
 - [retrocausality](/concepts/retrocausality/) — How consciousness might select outcomes atemporally at collapse

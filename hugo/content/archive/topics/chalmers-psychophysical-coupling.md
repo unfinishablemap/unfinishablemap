@@ -12,8 +12,8 @@ concepts:
 - '[[psychophysical-coupling]]'
 - '[[psychophysical-coupling]]'
 - '[[integrated-information-theory]]'
-- '[[functionalism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/functionalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[haecceity]]'
 - '[[mental-causation]]'
 - '[[quantum-consciousness]]'
@@ -65,7 +65,7 @@ Any two systems with identical fine-grained functional organisation have qualita
 
 Chalmers defends this through the "fading qualia" thought experiment: imagine gradually replacing neurons with functionally identical artificial components. If experience depended on biological substrate rather than functional organisation, experience could fade while behaviour remained constant. But the system couldn't detect this fading (its functional states remain unchanged). Such "fading qualia" seem deeply implausible—consciousness systematically deceiving itself about its own existence. Therefore, organisation, not substrate, determines experience.
 
-**The Map's divergence**: The Map rejects strong [functionalism](/arguments/functionalism/)—the view that mental states are exhausted by their functional roles. If consciousness involves more than functional organisation (as the [hard problem](/topics/hard-problem-of-consciousness/) suggests), then identical organisation doesn't guarantee identical experience. The Map holds that [haecceity](/concepts/haecceity/)—the primitive "thisness" of the particular conscious subject—matters beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them.
+**The Map's divergence**: The Map rejects strong [functionalism](/concepts/functionalism/)—the view that mental states are exhausted by their functional roles. If consciousness involves more than functional organisation (as the [hard problem](/topics/hard-problem-of-consciousness/) suggests), then identical organisation doesn't guarantee identical experience. The Map holds that [haecceity](/concepts/haecceity/)—the primitive "thisness" of the particular conscious subject—matters beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them.
 
 Why take haecceity seriously? The zombie argument—central to the hard problem—demonstrates that functional organisation doesn't logically entail experience. If zombies are conceivable, then something beyond functional structure determines whether a system is conscious. This "something" cannot itself be functional (or the argument would fail). The remaining candidates are: substrate (biological vs silicon), history (how the system came to be), or haecceity (which particular subject, if any, is instantiated). The Map's position: we cannot rule out that which consciousness accompanies a system depends on factors functional description cannot capture.
 
@@ -83,7 +83,7 @@ Chalmers explicitly treats the scope as an open question: does *all* information
 
 A critical feature of Chalmers' framework: his laws run primarily *upward*. They specify which physical states produce which experiences—given the physics, the phenomenology follows. The physical is input; the phenomenal is output.
 
-This is compatible with [epiphenomenalism](/arguments/epiphenomenalism/)—the view that mental states are caused by physical states but don't cause physical states in return. Chalmers himself tends toward this position. In his framework, consciousness *accompanies* physical processes without necessarily *affecting* them. Psychophysical laws are supervenience laws, not causal laws.
+This is compatible with [epiphenomenalism](/concepts/epiphenomenalism/)—the view that mental states are caused by physical states but don't cause physical states in return. Chalmers himself tends toward this position. In his framework, consciousness *accompanies* physical processes without necessarily *affecting* them. Psychophysical laws are supervenience laws, not causal laws.
 
 **The Map's requirement**: The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet demands more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities.
 
@@ -91,7 +91,7 @@ The asymmetry reveals different philosophical commitments:
 - **Chalmers**: Consciousness is real and irreducible, but may be causally inert (epiphenomenalism is acceptable)
 - **The Map**: Consciousness is real, irreducible, *and* causally efficacious (epiphenomenalism is rejected)
 
-The [psychophysical-coupling](/psychophysical-coupling/) page develops what downward selection laws might look like—attention as observation rate, intention as probability weighting, and other candidate mechanisms. Chalmers provides the philosophical framework; the Map supplies the operational specification for the direction Chalmers leaves open.
+The [psychophysical-coupling](/concepts/psychophysical-laws/) page develops what downward selection laws might look like—attention as observation rate, intention as probability weighting, and other candidate mechanisms. Chalmers provides the philosophical framework; the Map supplies the operational specification for the direction Chalmers leaves open.
 
 ## Five Constraints on Dualist Laws
 
@@ -170,12 +170,12 @@ Chalmers provides the philosophical framework the Map requires. His naturalistic
 ## Further Reading
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Deep treatment of Chalmers' foundational framework
-- [psychophysical-coupling](/psychophysical-coupling/) — The Map's development of selection laws
-- [psychophysical-coupling](/psychophysical-coupling/) — Five candidate mechanisms for coupling
-- [psychophysical-laws-framework](/psychophysical-laws-framework/) — Integrated overview of the full framework
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — The Map's development of selection laws
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Five candidate mechanisms for coupling
+- [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of the full framework
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's role in Chalmers' quantum proposal
-- [functionalism](/arguments/functionalism/) — The view Chalmers tends toward, the Map rejects
-- [epiphenomenalism](/arguments/epiphenomenalism/) — Chalmers' tendency, the Map's rejection
+- [functionalism](/concepts/functionalism/) — The view Chalmers tends toward, the Map rejects
+- [epiphenomenalism](/concepts/epiphenomenalism/) — Chalmers' tendency, the Map's rejection
 - [haecceity](/concepts/haecceity/) — Why organisational invariance may fail
 - [mental-causation](/concepts/mental-causation/) — The downward direction Chalmers underspecifies
 - [tenets](/tenets/) — The Map's foundational commitments

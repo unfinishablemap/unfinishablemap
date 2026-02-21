@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Critique of Substrate Independence](/substrate-independence-critique/)
+**Article**: [Critique of Substrate Independence](/concepts/substrate-independence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -69,7 +69,7 @@ topics: []
 - [introspection](/concepts/introspection/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 - [continual-learning-argument](/concepts/continual-learning-argument/)
 - [mental-effort](/concepts/mental-effort/)

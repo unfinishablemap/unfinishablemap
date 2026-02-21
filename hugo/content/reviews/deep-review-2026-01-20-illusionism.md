@@ -59,7 +59,7 @@ topics: []
 - `[introspection](/concepts/introspection/)` — reliability of phenomenal reports
 - `[mysterianism](/concepts/mysterianism/)` — cognitive closure as alternative explanation
 - `[knowledge-argument](/concepts/knowledge-argument/)` — Mary's Room and learning
-- `[arguments-against-materialism](/arguments-against-materialism/)` — illusionism as physicalist response
+- `[arguments-against-materialism](/concepts/the-case-for-dualism/)` — illusionism as physicalist response
 
 ## Remaining Items
 

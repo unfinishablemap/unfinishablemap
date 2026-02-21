@@ -62,7 +62,7 @@ On this view, one consciousness's collapse creates facts for all observers insta
 
 Carlo Rovelli's [relational quantum mechanics](/research/relational-quantum-mechanics-2026-01-18/) dissolves the problem by denying absolute facts. Quantum states are relative to observers; Alice's and Bob's collapses need not agree until they interact.
 
-Elegant, but at a price the Map cannot pay. Rovelli removes any special role for consciousness: "observer" means any physical system—a rock counts as much as a mind. This trades the multi-mind problem for [epiphenomenalism](/arguments/epiphenomenalism/)—the very position the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects.
+Elegant, but at a price the Map cannot pay. Rovelli removes any special role for consciousness: "observer" means any physical system—a rock counts as much as a mind. This trades the multi-mind problem for [epiphenomenalism](/concepts/epiphenomenalism/)—the very position the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects.
 
 ### 3. Interface Locality
 
@@ -133,7 +133,7 @@ See [brain-interface-boundary](/concepts/brain-interface-boundary/#what-would-ch
 
 **"Doesn't this make consciousness's role trivially small?"**
 
-The scope is limited—one brain—but not the significance. Consciousness modulating neural patterns is the mechanism for [mental-causation](/concepts/mental-causation/) and [free will](/concepts/free-will/). The alternative (epiphenomenalism) makes consciousness do nothing at all. Doing something in one brain is infinitely more than doing nothing anywhere.
+The scope is limited—one brain—but not the significance. Consciousness modulating neural patterns is the mechanism for [mental-causation](/concepts/mental-causation/) and [free will](/topics/free-will/). The alternative (epiphenomenalism) makes consciousness do nothing at all. Doing something in one brain is infinitely more than doing nothing anywhere.
 
 **"Doesn't relativity still create problems?"**
 
@@ -167,7 +167,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness can only select within its own brain
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed outcomes before minds existed
-- [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) — How the measurement problem and hard problem share structural features
+- [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/) — How the measurement problem and hard problem share structural features
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
 - [decoherence](/concepts/decoherence/) — The coherence timescale objection and quantum biology responses
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for multi-mind questions

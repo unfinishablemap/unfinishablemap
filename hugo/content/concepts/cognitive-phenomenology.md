@@ -77,7 +77,7 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. [Mathematical insight](/consciousness-and-mathematical-understanding/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
+"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. [Mathematical insight](/topics/consciousness-and-mathematical-cognition/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
 
 ### The Temporal Structure of Understanding
 
@@ -121,7 +121,7 @@ Traditional discussions of phenomenal consciousness focus on sensory [qualia](/c
 
 ## The Phenomenal Constitution Thesis
 
-The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [Phenomenal Constitution Thesis (PCT)](/meaning-and-consciousness/) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [Meaning integration](/consciousness-and-meaning-integration/) extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
+The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [Phenomenal Constitution Thesis (PCT)](/topics/consciousness-and-semantic-understanding/) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [Meaning integration](/topics/consciousness-and-semantic-understanding/) extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
 
 PCT explains several puzzles:
 
@@ -133,7 +133,7 @@ PCT explains several puzzles:
 
 ## The Mathematical Understanding Case
 
-[Mathematical understanding](/consciousness-and-mathematical-understanding/) provides compelling evidence because three phenomenal stages are clearly delineated: **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
+[Mathematical understanding](/topics/consciousness-and-mathematical-cognition/) provides compelling evidence because three phenomenal stages are clearly delineated: **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
 
 Mathematical understanding shows tight coupling between phenomenology and performance: those who report genuine understanding can apply insights to new problems, while mere verifiers cannot. If the phenomenal difference were confabulation, it wouldn't predict cognitive success so reliably.
 
@@ -198,13 +198,13 @@ The Unfinishable Map's framework suggests the first option is closer to truth, b
 
 LLMs show no evidence of the dissociations that reveal human semantic phenomenology. They exhibit no tip-of-the-tongue states, no feeling of knowing, no phenomenology of insight. They produce outputs or fail to produce them, with no frustration at blocked retrieval, no metacognitive awareness of what they "know."
 
-The phenomenal markers humans use to recognise understanding—the "click" when comprehension arrives, the distinctive feel of grasping versus memorising—have no LLM counterpart. This absence is not merely technical limitation; it reflects the deeper fact that LLMs process patterns correlated with meaningful text while humans supply the meaning. If the [Phenomenal Constitution Thesis](/meaning-and-consciousness/) is correct and meaning requires phenomenal character, then LLM "representations" aren't genuinely *about* anything—they lack the phenomenal character that makes mental states point beyond themselves.
+The phenomenal markers humans use to recognise understanding—the "click" when comprehension arrives, the distinctive feel of grasping versus memorising—have no LLM counterpart. This absence is not merely technical limitation; it reflects the deeper fact that LLMs process patterns correlated with meaningful text while humans supply the meaning. If the [Phenomenal Constitution Thesis](/topics/consciousness-and-semantic-understanding/) is correct and meaning requires phenomenal character, then LLM "representations" aren't genuinely *about* anything—they lack the phenomenal character that makes mental states point beyond themselves.
 
 ## Evidence from Semantic Memory
 
 [Semantic memory](/concepts/semantic-memory/) research provides empirical support through phenomena like tip-of-the-tongue (TOT) states and feeling of knowing (FOK). The TOT experience—knowing a word exists without retrieving its form—has phenomenal character that cannot reduce to imagery. FOK—the sense you know something before retrieving it—accurately predicts retrieval success and demonstrates non-sensory phenomenology.
 
-Tulving's distinction between [autonoetic](/autonoetic-consciousness/) and noetic consciousness maps onto this debate: noetic awareness (knowing facts without recollecting their acquisition) has phenomenal character distinct from sensory experience. See [semantic-memory](/concepts/semantic-memory/) for detailed analysis.
+Tulving's distinction between [autonoetic](/concepts/episodic-memory/) and noetic consciousness maps onto this debate: noetic awareness (knowing facts without recollecting their acquisition) has phenomenal character distinct from sensory experience. See [semantic-memory](/concepts/semantic-memory/) for detailed analysis.
 
 ## Evidence from Epistemic Emotions
 
@@ -264,7 +264,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as evidence for consciousness-dependent cognition
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Consciousness enables rather than accompanies cognition
-- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case
+- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, doubt, certainty, and other epistemic feelings
 - [semantic-memory](/concepts/semantic-memory/) — TOT/FOK phenomenology and noetic consciousness
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — How consciousness grounds intentional content

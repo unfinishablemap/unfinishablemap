@@ -20,7 +20,7 @@ modified: *id001
 original_path: /topics/consciousness-as-intelligence-amplifier/
 related_articles:
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[metacognition]]'
 - '[[global-workspace-theory]]'
 - '[[phenomenal-consciousness]]'
@@ -68,7 +68,7 @@ Physicalist responses face difficulties. Identity theory struggles with multiple
 
 Granted that phenomenal consciousness is ontologically distinct from neural activity, evolution provides a powerful argument for its causal efficacy.
 
-William James formulated the core point in 1890: natural selection cannot favor features that make no difference to survival or reproduction. If phenomenal consciousness were truly [epiphenomenal](/arguments/epiphenomenalism/)—a causally inert byproduct of neural activity—then evolution would have no reason to produce or maintain it. The metabolic cost of complex neural architecture is substantial; why would selection preserve costly features that provide no functional advantage?
+William James formulated the core point in 1890: natural selection cannot favor features that make no difference to survival or reproduction. If phenomenal consciousness were truly [epiphenomenal](/concepts/epiphenomenalism/)—a causally inert byproduct of neural activity—then evolution would have no reason to produce or maintain it. The metabolic cost of complex neural architecture is substantial; why would selection preserve costly features that provide no functional advantage?
 
 Yet phenomenal consciousness correlates remarkably with adaptive significance. Pleasure accompanies beneficial stimuli (food, sex, warmth); pain accompanies harmful ones (injury, toxins, extreme temperatures). Subtle distinctions in phenomenal character track subtle distinctions in biological relevance: the discomfort of mild hunger differs qualitatively from the agony of severe injury, and these differences align with urgency of response. This systematic correlation demands explanation.
 
@@ -114,7 +114,7 @@ If cumulative culture depends on explicit metacognition, then consciousness expa
 
 ## Counterfactual Thinking and Planning
 
-Consciousness enables [counterfactual thinking](//#counterfactual-thinking) {#counterfactual-thinking}—imagining alternatives, planning future actions, and reasoning about hypothetical scenarios. Deciding whether to take an umbrella requires imagining a future where it rains; troubleshooting requires considering what would happen if different components failed. All involve conscious simulation of non-actual scenarios.
+Consciousness enables [counterfactual thinking](#counterfactual-thinking) {#counterfactual-thinking}—imagining alternatives, planning future actions, and reasoning about hypothetical scenarios. Deciding whether to take an umbrella requires imagining a future where it rains; troubleshooting requires considering what would happen if different components failed. All involve conscious simulation of non-actual scenarios.
 
 Unconscious processing excels at pattern recognition in present stimuli, but recognizing what *is* differs from imagining what *could be*. The latter requires holding representations that conflict with current perception—a capacity that seems to require conscious attention.
 
@@ -165,11 +165,11 @@ Finally, the [Occam's Razor Has Limits tenet](/tenets/#occams-limits) applies. E
 ## Further Reading
 
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework for how consciousness influences brain states
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The opposing view that consciousness is causally inert
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The opposing view that consciousness is causally inert
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How conscious access enables information broadcast
 - [metacognition](/concepts/metacognition/) — Thinking about thinking, enabled by consciousness
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" aspect that resists physical explanation
-- [arguments-for-dualism](/arguments-for-dualism/) — Multiple independent arguments that consciousness is irreducible
+- [arguments-for-dualism](/concepts/the-case-for-dualism/) — Multiple independent arguments that consciousness is irreducible
 
 ## References
 

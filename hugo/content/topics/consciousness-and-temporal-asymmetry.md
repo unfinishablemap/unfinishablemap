@@ -38,7 +38,7 @@ related_articles:
 title: Consciousness and Temporal Asymmetry
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Physics is largely time-symmetric. Run Newton's equations backward, and they still hold. Reverse the Schrödinger equation, and it remains valid. Yet conscious experience divides time absolutely: the past is settled, the future open; memory reaches backward while anticipation constructs forward; the present slides irreversibly from possibility to fact. The Unfinishable Map proposes that this experienced directedness — the phenomenological arrow — is not incidental to consciousness but partly constituted by it. Physical processes including [quantum collapse](/concepts/collapse-and-time/) provide a basic physical asymmetry whether or not conscious beings are present. But the felt directionality of time — becoming, flow, the passage from open future to settled past — requires consciousness and cannot be reduced to the physical asymmetry alone.
@@ -137,7 +137,7 @@ Temporal asymmetry connects to all five [tenets](/tenets/):
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Whether the deepest level of mind transcends time
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — The growing block as temporal metaphysics
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces irreversibility
-- [duration](/duration/) — Bergson's qualitative lived time
+- [duration](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The phenomenological structure of future-directed experience
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — How remembering constitutes the temporally extended self
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and temporal ontology

@@ -68,7 +68,7 @@ topics: []
 - [downward-causation](/concepts/downward-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/)
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)

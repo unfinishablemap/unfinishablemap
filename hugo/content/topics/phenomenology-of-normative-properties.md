@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenal-normativity]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[moral-perception]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
@@ -29,14 +29,14 @@ related_articles:
 - '[[contemplative-evidence-for-consciousness-theories]]'
 - '[[aesthetic-dimension-of-consciousness]]'
 - '[[consciousness-and-the-grounds-of-normative-authority]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 title: The Phenomenology of Normative Properties
 topics:
 - '[[phenomenology-of-moral-experience]]'
 - '[[ethics-of-consciousness]]'
 ---
 
-Normative properties—wrongness, rational compellingness, beauty, prudential weight—do not merely exist as abstract features of situations. They show up in consciousness with distinctive phenomenal character. The wrongness of cruelty feels different from the logical compellingness of a valid argument, which feels different from the beauty of a sonata, which feels different from the prudential pull of self-preservation. Yet all share a common structure: they present themselves as demands, as features of the world that call for response. The Unfinishable Map's [phenomenal value realism](/concepts/phenomenal-value-realism/) holds that value is constituted by conscious experience. This article examines what that thesis looks like when applied across the full range of normative domains—moral, epistemic, aesthetic, and prudential—and argues that the phenomenal unity underlying these diverse demands provides evidence that normativity is a fundamental feature of consciousness, not a projection onto it.
+Normative properties—wrongness, rational compellingness, beauty, prudential weight—do not merely exist as abstract features of situations. They show up in consciousness with distinctive phenomenal character. The wrongness of cruelty feels different from the logical compellingness of a valid argument, which feels different from the beauty of a sonata, which feels different from the prudential pull of self-preservation. Yet all share a common structure: they present themselves as demands, as features of the world that call for response. The Unfinishable Map's [phenomenal value realism](/topics/phenomenal-value-realism/) holds that value is constituted by conscious experience. This article examines what that thesis looks like when applied across the full range of normative domains—moral, epistemic, aesthetic, and prudential—and argues that the phenomenal unity underlying these diverse demands provides evidence that normativity is a fundamental feature of consciousness, not a projection onto it.
 
 ## The Diversity of Normative Experience
 
@@ -66,7 +66,7 @@ Aesthetic experience also displays what Kant called disinterestedness—a qualit
 
 Prudential normativity—the demands of one's own wellbeing—is phenomenologically distinct from the other three. The pull of self-interest has a gravitational quality: familiar, constant, pulling toward comfort and away from threat. It lacks the urgency of moral demands, the rigidity of epistemic demands, and the invitational quality of aesthetic demands.
 
-What prudential normativity has instead is intimacy. It concerns *this* body, *this* life, *this* future. Its phenomenal character is suffused with indexicality—the felt sense that one's own wellbeing matters because it is *one's own*. When moral and prudential demands conflict (risking safety to help a stranger), the conflict registers as a pull between two phenomenally distinct normative forces: the moral demand outward and the prudential demand inward. Such conflicts—where the agent must resolve competing normative demands through effort—are central to the [phenomenology of choice](/concepts/phenomenology-of-choice/) and to accounts of [free will](/concepts/free-will/) that take genuine normative conflict as the site of self-forming action.
+What prudential normativity has instead is intimacy. It concerns *this* body, *this* life, *this* future. Its phenomenal character is suffused with indexicality—the felt sense that one's own wellbeing matters because it is *one's own*. When moral and prudential demands conflict (risking safety to help a stranger), the conflict registers as a pull between two phenomenally distinct normative forces: the moral demand outward and the prudential demand inward. Such conflicts—where the agent must resolve competing normative demands through effort—are central to the [phenomenology of choice](/concepts/phenomenology-of-choice/) and to accounts of [free will](/topics/free-will/) that take genuine normative conflict as the site of self-forming action.
 
 ## The Shared Phenomenal Structure
 
@@ -132,7 +132,7 @@ The phenomenology of normative properties connects to the Map's [foundational co
 
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral experience feels like from the inside
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Intrinsic normative force built into phenomenal character
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Value as constituted by conscious experience
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of ethical properties
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty and ugliness as irreducible phenomenal features
@@ -141,7 +141,7 @@ The phenomenology of normative properties connects to the Map's [foundational co
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Contemplative deepening of normative perception
 - [phenomenal-depth](/concepts/phenomenal-depth/) — Layers of phenomenal experience accessible through attention
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — How consciousness grounds normative authority
-- [free-will](/concepts/free-will/) — Normative conflict as the site of genuine choice
+- [free-will](/topics/free-will/) — Normative conflict as the site of genuine choice
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 
 ## References

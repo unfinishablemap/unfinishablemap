@@ -101,7 +101,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
 - [decoherence](/concepts/decoherence/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
 
 ## Remaining Items

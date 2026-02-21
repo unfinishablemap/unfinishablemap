@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-01-14

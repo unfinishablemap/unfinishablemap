@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[self-and-consciousness]]'
 - '[[intersubjectivity]]'
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 - '[[theory-of-mind]]'
 - '[[autonoetic-consciousness]]'
 - '[[haecceity]]'
@@ -76,13 +76,13 @@ This is the constructionist's strongest point: phenomenal experience is not raw 
 
 But the overlap has a boundary. Social construction shapes the *content* of self-experience—what you experience yourself as. It does not generate the *structure*—that there is a subject having the experience. The distinction between content and structure maps onto the [three-layered model of selfhood](/topics/the-self-minimal-narrative-and-substantial/): social construction operates at the narrative layer, modifying how the self is understood and expressed. The minimal and substantial layers—the phenomenological bedrock—remain untouched by cultural variation.
 
-Consider [autonoetic consciousness](/autonoetic-consciousness/)—the capacity to mentally travel through time and experience past and future events from a first-person perspective. Social construction deeply shapes *what* you remember and *how* you narrate your past. But the phenomenal capacity for temporal self-projection—the fact that remembering involves re-experiencing rather than mere data retrieval—is not culturally contingent. It is a feature of consciousness itself.
+Consider [autonoetic consciousness](/concepts/episodic-memory/)—the capacity to mentally travel through time and experience past and future events from a first-person perspective. Social construction deeply shapes *what* you remember and *how* you narrate your past. But the phenomenal capacity for temporal self-projection—the fact that remembering involves re-experiencing rather than mere data retrieval—is not culturally contingent. It is a feature of consciousness itself.
 
 ## The Dependence Runs One Way
 
 The critical asymmetry: social construction of self depends on phenomenal selfhood, but not vice versa.
 
-Social construction requires subjects who can recognise each other, interpret each other's behaviour, and internalise each other's perspectives. [These capacities](/concepts/consciousness-and-social-cognition/) require phenomenal consciousness. Mead's "taking the attitude of the other" presupposes something it is like to take that attitude—a phenomenal subject who experiences the perspective-shift. Butler's performative constitution presupposes an experiential arena in which performances occur and are registered.
+Social construction requires subjects who can recognise each other, interpret each other's behaviour, and internalise each other's perspectives. [These capacities](/topics/consciousness-and-social-cognition/) require phenomenal consciousness. Mead's "taking the attitude of the other" presupposes something it is like to take that attitude—a phenomenal subject who experiences the perspective-shift. Butler's performative constitution presupposes an experiential arena in which performances occur and are registered.
 
 A community of [philosophical zombies](/concepts/philosophical-zombies/)—functionally identical to humans but lacking phenomenal consciousness—could not socially construct selves in any meaningful sense. They might produce the same behaviours, use the same language, follow the same social norms. But there would be no one for whom the social identity is an identity. The construction would lack a site. Performance without experience is mechanism without meaning.
 
@@ -119,7 +119,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and why the substantial self grounds the others
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as structural feature of experience
 - [intersubjectivity](/concepts/intersubjectivity/) — How phenomenal experience can be shared between minds
-- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — The role of consciousness in enabling social self-models
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The role of consciousness in enabling social self-models
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — How narrative shapes agency across time
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the phenomenal self resists its own introspective gaze
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity is insufficient

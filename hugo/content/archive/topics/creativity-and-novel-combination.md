@@ -33,14 +33,14 @@ related_articles:
 superseded_by: /topics/creativity-consciousness-and-novel-thought/
 title: Creativity and Novel Combination
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[animal-consciousness]]'
 ---
 
 Consciousness enables a form of creativity that escapes the constraints of [baseline cognition](/concepts/baseline-cognition/). Great apes innovate within what Tomasello calls the "zone of latent solutions"—recombinations accessible through trial-and-error exploration of existing cognitive resources. Humans generate genuinely novel combinations by explicitly representing problems, considering multiple approaches simultaneously, and systematically modifying existing methods. This creative leap requires the kind of global information integration that [only conscious processing provides](/concepts/conscious-vs-unconscious-processing/).
 
-The difference is not merely quantitative. Apes can discover uses for tools their species hasn't discovered before, but only when those uses are reachable by incremental exploration without transcending current representations. Human creativity changes the representation itself—what Margaret Boden calls "transformational creativity." This requires [metarepresentation](/metarepresentation/): taking your existing solutions as objects of thought to evaluate, critique, and fundamentally revise.
+The difference is not merely quantitative. Apes can discover uses for tools their species hasn't discovered before, but only when those uses are reachable by incremental exploration without transcending current representations. Human creativity changes the representation itself—what Margaret Boden calls "transformational creativity." This requires [metarepresentation](/concepts/metacognition/): taking your existing solutions as objects of thought to evaluate, critique, and fundamentally revise.
 
 ## The Zone of Latent Solutions
 
@@ -110,7 +110,7 @@ Great apes show no transformational creativity. Their innovations stay within es
 
 ## Why Metarepresentation Requires Consciousness
 
-[Metarepresentation](/metarepresentation/)—representing your own representations as objects of thought—seems necessary for escaping the zone. But why should metarepresentation require consciousness?
+[Metarepresentation](/concepts/metacognition/)—representing your own representations as objects of thought—seems necessary for escaping the zone. But why should metarepresentation require consciousness?
 
 The [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction) is key. Maintaining information can proceed unconsciously (activity-silent short-term memory). But *manipulating* information—using it flexibly—requires conscious reactivation. Metarepresentation is manipulation of mental states: taking your beliefs and methods as objects of thought to evaluate and modify.
 
@@ -155,7 +155,7 @@ Each requires explicitly representing non-actual states while manipulating those
 
 ## The Bergson Connection
 
-Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/duration/)—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
+Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/concepts/temporal-consciousness/)—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
 
 This framework suggests that the options consciousness "combines" don't fully pre-exist the combination. Imagination actively constitutes what's possible by exploring it. The zone of latent solutions appears as a boundary from outside—from where consciousness can represent the zone as a zone and ask what lies beyond.
 
@@ -198,13 +198,13 @@ None of these conditions currently obtains.
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in consciousness studies
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
-- [metarepresentation](/metarepresentation/) — The capacity to represent representations
+- [metarepresentation](/concepts/metacognition/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — Cultural ratcheting and why it requires metarepresentation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
-- [duration](/duration/) — Bergson's lived time as creative becoming
-- [free-will](/concepts/free-will/) — How creative agency connects to libertarian free will
+- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
+- [free-will](/topics/free-will/) — How creative agency connects to libertarian free will
 - [creativity-void](/voids/creativity-void/) — Why the creative process is phenomenologically hidden
 
 ## References

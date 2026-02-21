@@ -38,11 +38,11 @@ related_articles:
 - '[[consciousness-and-intelligence]]'
 - '[[neural-correlates-conscious-unconscious-processing-2026-01-23]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 title: Conscious vs Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 If consciousness were merely an epiphenomenal byproduct of neural activity—along for the ride but making no functional difference—then unconscious processes should achieve everything conscious ones can. Yet the empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Consciousness is not a passive observer. It enables specific cognitive functions that unconscious processing cannot achieve: maintaining information in [working memory](/concepts/working-memory/) across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.
@@ -104,7 +104,7 @@ Evidence:
 
 ### 3. Spontaneous Intentional Action
 
-The spontaneous generation of goal-directed behavior—acting without external triggers—requires consciousness. Unconscious processing can respond to stimuli but cannot initiate action from internal states alone. This has implications for [free will](/concepts/free-will/): if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
+The spontaneous generation of goal-directed behavior—acting without external triggers—requires consciousness. Unconscious processing can respond to stimuli but cannot initiate action from internal states alone. This has implications for [free will](/topics/free-will/): if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
 
 The mechanism: voluntary action requires maintaining future goals while selecting appropriate motor programs. This temporal bridging between current state and desired outcome requires the sustained, flexible representations that only conscious access provides.
 
@@ -180,9 +180,9 @@ This functionality gap supports [Bidirectional Interaction](/tenets/#bidirection
 
 ## Attention as Gatekeeper
 
-[Attention](/attention/) gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
+[Attention](/concepts/attention-as-interface/) gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
 
-Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [voluntary-attention](/voluntary-attention/): voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
+Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [voluntary-attention](/concepts/attention-as-interface/): voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
 
 ## Connection to Baseline Cognition
 
@@ -205,7 +205,7 @@ The lesson: identifying reliable neural signatures of consciousness requires car
 
 ## Implications for Dualism
 
-These findings are neutral on whether consciousness is physical or non-physical. But they strongly challenge [epiphenomenalism](/arguments/epiphenomenalism/)—the view that consciousness has no causal effects.
+These findings are neutral on whether consciousness is physical or non-physical. But they strongly challenge [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness has no causal effects.
 
 ### What the Evidence Shows
 
@@ -250,7 +250,7 @@ If [phenomenal consciousness can exceed access consciousness](/concepts/phenomen
 
 No-report paradigms attempt to identify consciousness without requiring behavioral reports. Initial results suggest consciousness-related neural activity in posterior regions even without frontal access/report involvement. But whether this represents genuine phenomenal consciousness without access, or merely neural correlates that usually accompany consciousness, remains contested.
 
-This methodological impasse is itself philosophically significant. Third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by purely neural evidence—but this unfalsifiability might itself be evidence: it's exactly what we'd expect if phenomenology genuinely transcends functional access. [Mysterian](/mysterianism-cognitive-closure/) positions suggest some consciousness questions may be cognitively closed to us.
+This methodological impasse is itself philosophically significant. Third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by purely neural evidence—but this unfalsifiability might itself be evidence: it's exactly what we'd expect if phenomenology genuinely transcends functional access. [Mysterian](/concepts/mysterianism/) positions suggest some consciousness questions may be cognitively closed to us.
 
 ### Content vs Enabling NCCs
 
@@ -288,7 +288,7 @@ The specific functions—working memory maintenance, novel combinations, spontan
 
 ### Minimal Quantum Interaction
 
-If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention](/voluntary-attention/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
+If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention](/concepts/attention-as-interface/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
 
 The timing works: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence but operates through discrete observation events (~1000 per 300ms window), making the mechanism compatible with established neural timing.
 
@@ -314,11 +314,11 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — Consciousness as subjective experience
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — The contested hypothesis that phenomenology exceeds access
 - [working-memory](/concepts/working-memory/) — The maintenance function requiring consciousness
-- [attention](/attention/) — The gatekeeper for conscious access
-- [voluntary-attention](/voluntary-attention/) — How consciousness directs attention
+- [attention](/concepts/attention-as-interface/) — The gatekeeper for conscious access
+- [voluntary-attention](/concepts/attention-as-interface/) — How consciousness directs attention
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The theoretical framework for consciousness as broadcast
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum mechanism for consciousness-attention interface
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert and why it fails
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert and why it fails
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's position on mind-body causation
 
 ## References

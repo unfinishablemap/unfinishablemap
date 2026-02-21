@@ -87,7 +87,7 @@ After the shift, a period of consolidation follows. The new framework must be te
 
 Residual dissonance deserves attention. Even after a genuine conceptual shift, traces of the old framework persist as phenomenal tendencies — moments when the old categories spontaneously organise experience before the new ones can assert themselves. The physicist who has absorbed general relativity still *feels* gravity as a force pulling downward, even while understanding it as spacetime curvature. This persistence of old phenomenal habits shows that conceptual change is not merely propositional — it reaches into the structure of perceptual experience, where old patterns have been laid down through years of use.
 
-This connects to what the Map explores as the [phenomenology of habit](/phenomenology-of-skill-and-the-lived-body/) — the way consciousness scaffolds learning and then withdraws. Conceptual habits operate similarly: the old framework once required conscious effort to apply, became automatic, and now must be consciously overridden by the new framework, which itself will eventually become automatic.
+This connects to what the Map explores as the [phenomenology of habit](/topics/consciousness-and-skilled-performance/) — the way consciousness scaffolds learning and then withdraws. Conceptual habits operate similarly: the old framework once required conscious effort to apply, became automatic, and now must be consciously overridden by the new framework, which itself will eventually become automatic.
 
 ## What Conceptual Change Reveals About Consciousness
 
@@ -134,7 +134,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
-- [phenomenology-of-skill-and-the-lived-body](/phenomenology-of-skill-and-the-lived-body/)
+- [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)
 
 ## References

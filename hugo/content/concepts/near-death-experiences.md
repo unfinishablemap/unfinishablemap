@@ -14,7 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[mysterianism]]'
 - '[[haecceity]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[process-philosophy]]'
 created: 2026-01-15
 date: &id001 2026-01-15
@@ -184,7 +184,7 @@ NDEs align with multiple site tenets:
 
 **No Many Worlds**: The personal transformation following NDEs—reduced fear of death, changed values, sometimes radical personality shifts—reinforces that *this* consciousness, *this* experiencer, is what matters. The changes persist in the specific individual who had the experience, not in some general pattern. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that indexical identity—being *this* specific experiencer—is genuine, not an illusion of perspective within a branching multiverse.
 
-The [many-worlds interpretation](/arguments/many-worlds/) would say all possible NDE outcomes occur: you survive with an NDE in some branches, survive without one in others, and die in others still. The profound sense of uniqueness and transformation NDE experiencers report—the feeling that *they* specifically faced death and returned changed—becomes observer-selection bias rather than genuine singular experience. But the phenomenology resists this dissolution. NDEs produce [haecceitistic](/concepts/haecceity/) certainty: "I was there. I experienced this. I came back." This isn't easily reinterpreted as "some me-copy in some branch experienced this." The transformation follows the specific experiencer through their specific life.
+The [many-worlds interpretation](/concepts/many-worlds/) would say all possible NDE outcomes occur: you survive with an NDE in some branches, survive without one in others, and die in others still. The profound sense of uniqueness and transformation NDE experiencers report—the feeling that *they* specifically faced death and returned changed—becomes observer-selection bias rather than genuine singular experience. But the phenomenology resists this dissolution. NDEs produce [haecceitistic](/concepts/haecceity/) certainty: "I was there. I experienced this. I came back." This isn't easily reinterpreted as "some me-copy in some branch experienced this." The transformation follows the specific experiencer through their specific life.
 
 **Minimal Quantum Interaction**: If consciousness interfaces with the brain at quantum indeterminacies, what happens when brain function is severely compromised? One possibility: the quantum interface becomes more fluid as normal neural constraints dissolve, allowing consciousness greater range of engagement. The gamma surges observed during dying might represent consciousness-physics interaction freed from ordinary filtering. This remains speculative, but the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides a framework for thinking about how consciousness might operate during brain compromise—not as something dependent on neural function but as something that normally engages *through* neural quantum states.
 
@@ -218,7 +218,7 @@ None of these would definitively refute dualism, but they would significantly we
 - [introspection](/concepts/introspection/) — Can we trust NDE phenomenological reports?
 - [mysterianism](/concepts/mysterianism/) — Why the NDE puzzle may exceed human comprehension
 - [haecceity](/concepts/haecceity/) — The indexical "thisness" that NDEs intensify
-- [many-worlds](/arguments/many-worlds/) — The interpretation NDEs seem to resist
+- [many-worlds](/concepts/many-worlds/) — The interpretation NDEs seem to resist
 - [tenets](/tenets/) — The framework these findings support
 
 ## References

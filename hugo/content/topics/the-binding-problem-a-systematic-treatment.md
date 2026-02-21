@@ -22,7 +22,7 @@ concepts:
 - '[[language-recursion-and-consciousness]]'
 - '[[working-memory]]'
 - '[[self-and-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[sleep-and-consciousness]]'
 - '[[mental-effort]]'
@@ -170,7 +170,7 @@ The binding problem — treated systematically as a family rather than a single 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If quantum entanglement is the only physics providing genuine holism, the binding problem motivates the tenet directly. Classical physics can coordinate separates; only quantum mechanics can produce genuine wholes. The binding problem's resistance to classical solution is consistent with consciousness operating at the quantum level.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Binding is not passive. Attention shapes what gets bound — you can attend to visual features and ignore auditory input, or vice versa. If consciousness merely reflected neural binding passively, voluntary control of binding would be inexplicable. The fact that [effortful attention](/concepts/mental-effort/) shapes which streams unify suggests top-down causation from phenomenal states to neural coordination. This connects to [free will](/concepts/free-will/): if phenomenal binding is partly under voluntary control, consciousness actively selects among possible unified experiences rather than passively registering whatever the brain presents.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Binding is not passive. Attention shapes what gets bound — you can attend to visual features and ignore auditory input, or vice versa. If consciousness merely reflected neural binding passively, voluntary control of binding would be inexplicable. The fact that [effortful attention](/concepts/mental-effort/) shapes which streams unify suggests top-down causation from phenomenal states to neural coordination. This connects to [free will](/topics/free-will/): if phenomenal binding is partly under voluntary control, consciousness actively selects among possible unified experiences rather than passively registering whatever the brain presents.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The systematicity of binding — the fact that *this* particular configuration of contents is unified in *this* particular way — requires real collapse. In many-worlds, every possible binding occurs in parallel branches. The phenomenological fact that I am experiencing *this* unified configuration, and not another, requires that one configuration was selected as actual. Many-worlds removes the selection that binding seems to require.
 

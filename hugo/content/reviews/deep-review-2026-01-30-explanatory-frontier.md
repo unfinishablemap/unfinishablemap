@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [Explanatory Frontier](/explanatory-frontier/)
+**Article**: Explanatory Frontier
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

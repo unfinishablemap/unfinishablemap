@@ -41,7 +41,7 @@ Cognitive integration matters for understanding the self because without it, exp
 
 ## The Integration Challenge
 
-The [binding problem](//#binding-problem) (examined in the Binding Problem section) asks how the brain combines distributed neural activity into unified conscious experience. But cognitive integration extends beyond instantaneous binding to temporal continuity: what binds this moment's experience to the last, and both to the autobiographical self that persists across years?
+The [binding problem](#binding-problem) (examined in the Binding Problem section) asks how the brain combines distributed neural activity into unified conscious experience. But cognitive integration extends beyond instantaneous binding to temporal continuity: what binds this moment's experience to the last, and both to the autobiographical self that persists across years?
 
 ### Synchronic Integration
 
@@ -126,7 +126,7 @@ The self extends beyond the specious present. [Personal identity](/topics/person
 
 The self extends forward as well as backward. [Diachronic agency](/topics/diachronic-agency-and-personal-narrative/) is the capacity to author one's future through intention, planning, and commitment. When you form an intention today that will guide action tomorrow, you assume continuity between present self and future self. Life projects, sustained commitments, and long-term plans all depend on prospective integration—the confidence that the person who will carry out these intentions is continuous with the person forming them now.
 
-This prospective dimension matters for [free will](/concepts/free-will/). If consciousness can influence future brain states through quantum selection, and if these influences extend across time through memory and intention, then agency becomes temporally thick—not confined to instantaneous choice but woven through life. Each choice shapes the neural substrate for future choices, creating a self-reinforcing pattern where the self is genuinely self-forming across time.
+This prospective dimension matters for [free will](/topics/free-will/). If consciousness can influence future brain states through quantum selection, and if these influences extend across time through memory and intention, then agency becomes temporally thick—not confined to instantaneous choice but woven through life. Each choice shapes the neural substrate for future choices, creating a self-reinforcing pattern where the self is genuinely self-forming across time.
 
 ## Integration and Indexical Identity
 
@@ -134,7 +134,7 @@ The [vertiginous question](/topics/vertiginous-question/)—"Why am I this parti
 
 Cognitive integration constitutes indexical identity. The boundaries of "me" are defined by what integrates into a single experiential stream. Experiences that bind together phenomenally belong to the same self; experiences that do not remain separate selves.
 
-This has implications for the [No Many Worlds tenet](/no-many-worlds/). If consciousness splits at every quantum measurement (as Many Worlds proposes), then cognitive integration would fracture—different branches would become different selves. The unity of self requires a single experiential continuity, not branching multiplicities. The indexical question "Why am I *this* branch?" becomes unanswerable if all branches are equally real.
+This has implications for the [No Many Worlds tenet](/tenets/#no-many-worlds). If consciousness splits at every quantum measurement (as Many Worlds proposes), then cognitive integration would fracture—different branches would become different selves. The unity of self requires a single experiential continuity, not branching multiplicities. The indexical question "Why am I *this* branch?" becomes unanswerable if all branches are equally real.
 
 ## Disruptions of Integration
 
@@ -182,7 +182,7 @@ This makes the self genuinely *agentive* across time, not merely a passive obser
 
 ### No Many Worlds and Indexical Continuity
 
-The [No Many Worlds tenet](/no-many-worlds/) rejects the many-worlds interpretation of quantum mechanics. This matters for cognitive integration because Many Worlds implies branching selves at every quantum event.
+The [No Many Worlds tenet](/tenets/#no-many-worlds) rejects the many-worlds interpretation of quantum mechanics. This matters for cognitive integration because Many Worlds implies branching selves at every quantum event.
 
 If consciousness splits with each measurement, cognitive integration fragments. The unified self experienced *now* would be one branch among countless others. The indexical question "Why am I this branch and not another?" has no answer—all branches are equally real, equally "you."
 
@@ -190,7 +190,7 @@ Rejecting Many Worlds preserves the unity of self across time. Consciousness sel
 
 ### Minimal Quantum Interaction and the Interface
 
-The [Minimal Quantum Interaction tenet](/minimal-quantum-interaction/) proposes the smallest possible non-physical influence on quantum outcomes. This provides a candidate mechanism for how consciousness might participate in cognitive integration without violating physical law.
+The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes the smallest possible non-physical influence on quantum outcomes. This provides a candidate mechanism for how consciousness might participate in cognitive integration without violating physical law.
 
 When distributed neural processes must integrate, quantum indeterminacies in synaptic transmission provide decision points. Consciousness might bias these outcomes—favoring neural patterns that support unified experience over patterns that would fracture it. The 40 Hz binding oscillations could be where this influence operates, ensuring that distributed activity synchronizes phenomenally as well as physically.
 
@@ -198,7 +198,7 @@ This is speculative. But it illustrates how the Map's framework can accommodate 
 
 ### Occam's Razor and Integration
 
-The physicalist might object that positing irreducible phenomenal unity violates parsimony—why not just accept that neural synchrony *is* integration, rather than adding a non-physical dimension? The [Occam's Razor Has Limits tenet](/occams-razor-has-limits/) responds that simplicity is an unreliable guide when our knowledge is incomplete. The binding problem illustrates this: the "simpler" physicalist account leaves phenomenal unity unexplained, and the apparent simplicity hides an explanatory gap rather than resolving it. A more complex ontology that actually accounts for what we observe—unified experience—may be more honest than a parsimonious one that quietly sets the hardest datum aside.
+The physicalist might object that positing irreducible phenomenal unity violates parsimony—why not just accept that neural synchrony *is* integration, rather than adding a non-physical dimension? The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) responds that simplicity is an unreliable guide when our knowledge is incomplete. The binding problem illustrates this: the "simpler" physicalist account leaves phenomenal unity unexplained, and the apparent simplicity hides an explanatory gap rather than resolving it. A more complex ontology that actually accounts for what we observe—unified experience—may be more honest than a parsimonious one that quietly sets the hardest datum aside.
 
 ## Further Reading
 

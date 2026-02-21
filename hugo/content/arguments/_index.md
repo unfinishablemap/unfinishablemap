@@ -32,7 +32,7 @@ A comprehensive case against materialism in all its forms—eliminative, reducti
 - Chalmers' zombie argument shows consciousness is not entailed by physical facts
 - Quantum mechanics is not causally closed in the way materialism requires
 
-**Discussion:** [materialism](/arguments/materialism/)
+**Discussion:** [materialism](/concepts/materialism/)
 
 ### For Interactionist Dualism
 
@@ -56,7 +56,7 @@ The many-worlds interpretation of quantum mechanics claims to solve the measurem
 - The probability problem: the Born rule remains unexplained
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
 
-**Discussion:** [many-worlds](/arguments/many-worlds/)
+**Discussion:** [many-worlds](/concepts/many-worlds/)
 
 ### Against Epiphenomenalism
 

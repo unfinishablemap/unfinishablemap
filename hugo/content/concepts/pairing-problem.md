@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [mind-body interaction](/concepts/interactionist-dualism/) unintelligible. This is distinct from the [causal-closure](/concepts/causal-closure/) objection and potentially more fundamental. The Unfinishable Map's [interface-locality](/interface-locality/) framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
+The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [mind-body interaction](/concepts/interactionist-dualism/) unintelligible. This is distinct from the [causal-closure](/concepts/causal-closure/) objection and potentially more fundamental. The Unfinishable Map's [interface-locality](/concepts/brain-interface-boundary/) framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
 
 ## The Problem Stated
 
@@ -74,7 +74,7 @@ This dissolves the pairing problem while maintaining dualism's core claim: that 
 
 **Response to Kim**: The dualist can posit that souls, like matter, cannot overlap—or that souls are individuated by their essential causal connections to particular bodies, making overlap incoherent. Neither move introduces more mystery than physics already contains (consider: what makes this electron distinct from that one?).
 
-**The developmental refinement**: A stronger response appeals to [interface locality](/interface-locality/): the mind-brain pairing is *constructed* through neural development, not arbitrarily assigned at some moment. The growing nervous system and the consciousness that interfaces with it co-develop, creating a specific coupling. Two consciousnesses couldn't occupy the same brain because the interface is built for one—like asking why two drivers can't simultaneously use the same steering wheel.
+**The developmental refinement**: A stronger response appeals to [interface locality](/concepts/brain-interface-boundary/): the mind-brain pairing is *constructed* through neural development, not arbitrarily assigned at some moment. The growing nervous system and the consciousness that interfaces with it co-develop, creating a specific coupling. Two consciousnesses couldn't occupy the same brain because the interface is built for one—like asking why two drivers can't simultaneously use the same steering wheel.
 
 ## Response 2: The Haecceity Response
 
@@ -156,7 +156,7 @@ But property dualism has its own costs:
 
 1. It makes the persistence of consciousness through physical change harder to explain
 2. It leaves personal identity dependent on physical continuity
-3. It may collapse into [epiphenomenalism](/arguments/epiphenomenalism/) if the "properties" have no causal powers beyond the physical base
+3. It may collapse into [epiphenomenalism](/concepts/epiphenomenalism/) if the "properties" have no causal powers beyond the physical base
 
 The Map remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness causally affecting quantum outcomes—remains coherent.
 
@@ -174,9 +174,9 @@ The [objections-to-interactionism](/concepts/objections-to-interactionism/) arti
 
 ## Further Reading
 
-- [interface-locality](/interface-locality/) - Why consciousness can only select within its own brain (critical companion)
+- [interface-locality](/concepts/brain-interface-boundary/) - Why consciousness can only select within its own brain (critical companion)
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) - Comprehensive treatment of all six objections including pairing
-- [brain-specialness](/brain-specialness/) - What makes neural systems suitable interfaces
+- [brain-specialness](/concepts/brain-interface-boundary/) - What makes neural systems suitable interfaces
 - [haecceity](/concepts/haecceity/) - Primitive "thisness" as individuating principle
 - [interactionist-dualism](/concepts/interactionist-dualism/) - The position the pairing problem challenges
 - [causal-closure](/concepts/causal-closure/) - The distinct (but related) closure objection

@@ -13,10 +13,10 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 title: Research Notes - Libet Experiments and Neural Predictors of Decision
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 # Research: Libet Experiments and Neural Predictors of Decision

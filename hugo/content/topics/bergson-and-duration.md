@@ -31,7 +31,7 @@ related_articles:
 title: Bergson and Duration
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Henri Bergson argued that Western philosophy systematically misunderstands time by treating it as a spatial medium—moments arrayed like points on a line, measurable, divisible, inert. His concept of *durée* (duration) names what this spatialization obscures: the qualitative, interpenetrating flow of lived experience where past permeates present and each moment carries the whole of what came before. For The Unfinishable Map, Bergson matters because his critique targets the same assumption that makes materialism seem plausible—the assumption that reality can be exhaustively described in quantitative, third-person terms. If Bergson is right that lived time resists spatial representation, then consciousness does something physics cannot capture, and the Map's [dualism](/tenets/#dualism) gains independent philosophical support.
@@ -129,7 +129,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, Bergson's durée, and the phenomenology of lived time
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's systematisation of themes Bergson anticipated
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
-- [free-will](/concepts/free-will/) — The Map's defence of agent-causal libertarian free will
+- [free-will](/topics/free-will/) — The Map's defence of agent-causal libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The lived experience of deliberation and decision
 - [temporal-thickness](/concepts/temporal-thickness/) — How much of one's past enters each present moment

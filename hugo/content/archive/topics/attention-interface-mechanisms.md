@@ -17,7 +17,7 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[mental-effort]]'
 - '[[decoherence]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-coupling]]'
 - '[[interface-locality]]'
 - '[[attention-motor-quantum-interface]]'
@@ -47,7 +47,7 @@ superseded_by: /topics/attention-as-selection-interface/
 title: Mechanisms of the Attention-Consciousness Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes that attention mediates consciousness's influence on brain states. But *where* in the brain does this interface operate, and *how* might consciousness bias neural outcomes? A key insight: attention and motor planning share neural substrates—the premotor theory of attention suggests these are not separate systems. If consciousness operates through attention, and attention is motor planning, then consciousness engages through a unified selection mechanism connecting perception to action.
@@ -208,7 +208,7 @@ Different timescales interact at the interface:
 | ~300 ms | Willed attention deployment (Rajan et al.) | Full interface engagement |
 | Sustained | Maintained willed attention | Where Zeno effects accumulate |
 
-The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism, this shared timescale marks where consciousness engages. This timing window is directly relevant to [free-will](/concepts/free-will/) debates: it identifies when deliberation resolves into commitment—the locus where [agent-causation](/concepts/agent-causation/) could operate.
+The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism, this shared timescale marks where consciousness engages. This timing window is directly relevant to [free-will](/topics/free-will/) debates: it identifies when deliberation resolves into commitment—the locus where [agent-causation](/concepts/agent-causation/) could operate.
 
 For quantum mechanisms to work, decoherence must be slow enough to permit meaningful influence before quantum effects dissipate. Tegmark's original calculations ruled this out; revised estimates (supported by 2025 research on biological quantum effects) may permit it.
 
@@ -329,7 +329,7 @@ The interface framework would face serious challenge if:
 
 4. **Many-worlds interpretation is confirmed.** If all quantum outcomes occur in different branches, "selection" is illusory—consciousness merely finds itself in branches rather than choosing them.
 
-5. **External random number generator effects replicate.** If consciousness reliably biases external quantum systems (not just neural ones), the [brain specialness](/interface-locality/) claim fails.
+5. **External random number generator effects replicate.** If consciousness reliably biases external quantum systems (not just neural ones), the [brain specialness](/concepts/brain-interface-boundary/) claim fails.
 
 ## What Would Support the Hypothesis?
 
@@ -389,8 +389,8 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
-- [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/) — Philosophical significance of the attention-motor convergence
-- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [attention-motor-planning-quantum-interface](/topics/attention-as-selection-interface/) — Philosophical significance of the attention-motor convergence
+- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Detailed concept treatment of the unified interface
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
@@ -398,9 +398,9 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of attentional effort
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
-- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
-- [psychophysical-coupling](/psychophysical-coupling/) — Constraints on what consciousness can influence
-- [free-will](/concepts/free-will/) — How the timing constraints relate to libertarian free will
+- [dopamine-selection-interface](/concepts/motor-selection/) — Dopamine's role in threshold modulation
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Constraints on what consciousness can influence
+- [free-will](/topics/free-will/) — How the timing constraints relate to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The selection model as agent causation
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 

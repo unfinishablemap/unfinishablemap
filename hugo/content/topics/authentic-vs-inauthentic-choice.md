@@ -28,13 +28,13 @@ related_articles:
 - '[[tenets]]'
 title: Phenomenology of Authentic vs. Inauthentic Choice
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[meaning-of-life]]'
 ---
 
 Some choices feel like they come from deep within—expressions of who you really are. Others feel like going through motions, following scripts you never wrote, doing what "one does." The Unfinishable Map proposes that this phenomenological distinction tracks something metaphysically significant: authentic choice engages consciousness's genuine selection function, while inauthentic choice runs on automatic processing that merely simulates decision.
 
-The existentialist tradition—particularly Heidegger and Sartre—analysed this distinction with philosophical precision. Their insights, combined with the Map's framework on [free will](/concepts/free-will/) and [agent-causation](/concepts/agent-causation/), suggest that authenticity isn't merely a lifestyle ideal but a condition for genuine agency.
+The existentialist tradition—particularly Heidegger and Sartre—analysed this distinction with philosophical precision. Their insights, combined with the Map's framework on [free will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/), suggest that authenticity isn't merely a lifestyle ideal but a condition for genuine agency.
 
 ## The Phenomenology of Authentic Choice
 
@@ -48,7 +48,7 @@ Authentic choice has a distinctive experiential signature. Several features char
 
 **Ownership of outcome.** After authentic choice, there is strong authorship: "I chose this." The decision is yours to own, including its consequences. This contrasts with the distancing that accompanies inauthentic choice: "I had to," "Everyone does this," "What else could I do?"
 
-**Temporal thickness.** Authentic decisions unfold in what Bergson calls [duration](/duration/)—lived time where past and present interpenetrate. The choice emerges from your whole history, not as mechanical causation but as creative expression of accumulated experience.
+**Temporal thickness.** Authentic decisions unfold in what Bergson calls [duration](/concepts/temporal-consciousness/)—lived time where past and present interpenetrate. The choice emerges from your whole history, not as mechanical causation but as creative expression of accumulated experience.
 
 ## The Phenomenology of Inauthentic Choice
 
@@ -137,7 +137,7 @@ This gives authenticity metaphysical significance: authentic choice is where con
 
 ### Neural Correlates
 
-The neural signatures of [willed action](/voluntary-attention/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation.
+The neural signatures of [willed action](/concepts/attention-as-interface/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation.
 
 The [decision window](/concepts/motor-selection/) for willed movements (~300ms versus ~100ms for instructed movements; Haggard, 2008) is similarly consistent with either interpretation. On the Map's account, the longer window provides time for consciousness to engage with neural superpositions. On a physicalist account, it reflects the additional computational demands of non-routine decisions. The neural data alone cannot adjudicate between these frameworks, but the phenomenological distinctiveness of authentic choice—the felt quality of genuine self-expression versus scripted compliance—remains a datum that physicalism must accommodate.
 
@@ -219,12 +219,12 @@ The authentic-inauthentic framework would face difficulty if:
 
 ## Further Reading
 
-- [free-will](/concepts/free-will/) — The broader framework for libertarian agency
+- [free-will](/topics/free-will/) — The broader framework for libertarian agency
 - [existentialism](/concepts/existentialism/) — Sartre and Heidegger on consciousness and freedom
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of decision-making
 - [agent-causation](/concepts/agent-causation/) — Why genuine choice requires agent causation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of cognitive engagement
-- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed action
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed action
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative cultivation of non-identified awareness
 - [personal-identity](/topics/personal-identity/) — What makes the "self" that authenticates choice
 - [haecceity](/concepts/haecceity/) — The unrepeatable thisness of the choosing subject

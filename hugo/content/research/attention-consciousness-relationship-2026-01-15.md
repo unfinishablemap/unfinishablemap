@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -19,7 +19,7 @@ related_articles:
 title: Research Notes - Attention and Consciousness Relationship
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 # Research: Attention and Consciousness Relationship

@@ -36,7 +36,7 @@ title: 'Research Notes - Voids: The Predictive Void'
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[philosophy-of-mind]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[phenomenology-tradition]]'
 ---
 

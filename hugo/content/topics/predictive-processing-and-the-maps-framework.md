@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[predictive-processing]]'
 - '[[attention-as-interface]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
 - '[[explanatory-gap]]'
@@ -52,7 +52,7 @@ PP's proponents are unusually honest about the framework's limits. Hohwy and Set
 
 The gap is not a temporary incompleteness awaiting more data. It is structural. PP explains perception as controlled hallucination — the brain's best hypothesis about reality, constrained by sensory feedback. But a weather simulation also generates hypotheses constrained by input data. PP proponents would rightly note that brains differ from weather models in crucial respects — self-modelling, embodiment, active inference, hierarchical depth — and these differences may matter. The Map agrees they matter enormously for *cognitive* function. What it disputes is that adding more computational sophistication crosses the threshold from processing to experiencing. Nothing in the architecture of prediction error minimisation, however sophisticated, explains why the brain's hypotheses feel like something while the weather model's do not.
 
-This is the standard [functionalist](/arguments/functionalism/) limitation applied to PP's specific case. As J.L. Austin observed, we experience "moderate-sized specimens of dry goods" — not probability density distributions (Austin, 1962). The mathematics of Bayesian inference does not contain the resources to generate [qualia](/concepts/qualia/). PP inherits this problem from every computational theory of mind — and the Map argues this inheritance is principled rather than accidental.
+This is the standard [functionalist](/concepts/functionalism/) limitation applied to PP's specific case. As J.L. Austin observed, we experience "moderate-sized specimens of dry goods" — not probability density distributions (Austin, 1962). The mathematics of Bayesian inference does not contain the resources to generate [qualia](/concepts/qualia/). PP inherits this problem from every computational theory of mind — and the Map argues this inheritance is principled rather than accidental.
 
 PP has a response. Clark, Friston, and Wilkinson (2019) address the *meta-problem*: why do we find consciousness so puzzling? They argue that any Bayesian agent with limited self-access will inevitably infer it possesses something mysterious called "qualitative awareness" — the hard problem is itself a predictable artefact of the predictive architecture. The Map finds this clever but question-begging. Showing that a system would *report* finding consciousness puzzling does not show that the puzzlement is unfounded. The meta-problem account explains consciousness-*talk* — why organisms discuss qualia — but not consciousness itself. If it did, we would have an explanation of why there is nothing it is like to be a weather model but something it is like to be a brain. The meta-problem response does not provide this.
 
@@ -122,7 +122,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's findings resist materialist closure
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — Bandwidth limits and the interface
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Expectations as strong priors with measurable outcomes
-- [functionalism](/arguments/functionalism/) — The philosophical tradition PP inherits
+- [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 
 ## References
 

@@ -17,8 +17,8 @@ concepts:
 - '[[coupling-modes]]'
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
-- '[[epiphenomenalism]]'
-- '[[functionalism]]'
+- '[[concepts/epiphenomenalism]]'
+- '[[concepts/functionalism]]'
 - '[[haecceity]]'
 - '[[integrated-information-theory]]'
 - '[[stapp-quantum-mind]]'
@@ -45,7 +45,7 @@ title: 'Psychophysical Laws: Bridging Mind and Matter'
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[interactionist-dualism]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 If consciousness is ontologically distinct from physics—as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds—then fundamental laws must connect the two domains. Physical laws describe relations among physical properties; they cannot specify how physical states relate to phenomenal experience. New laws are required. David Chalmers developed the canonical framework, arguing that consciousness requires extending fundamental ontology just as electromagnetism required new laws beyond mechanics. The Map builds on Chalmers while emphasizing a critical asymmetry: Chalmers focuses on *upward* laws (which physical states produce which experiences), while the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *downward* laws (which conscious states select which physical outcomes).
@@ -66,7 +66,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 **Organizational invariance.** Any two systems with identical fine-grained functional organization have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical artificial components should not cause experience to fade, since the system couldn't detect such fading (its functional states remain unchanged). Consciousness systematically deceiving itself about its own existence seems deeply implausible.
 
-**The Map's divergence**: The Map rejects strong [functionalism](/arguments/functionalism/)—the view that mental states are exhausted by their functional roles. The zombie argument demonstrates that functional organization doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. [Haecceity](/concepts/haecceity/)—the primitive "thisness" of a particular conscious subject—may matter beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them. This isn't a minor disagreement: if organizational invariance holds, psychophysical laws can be expressed purely functionally. If the Map is right, they must reference the particular subject.
+**The Map's divergence**: The Map rejects strong [functionalism](/concepts/functionalism/)—the view that mental states are exhausted by their functional roles. The zombie argument demonstrates that functional organization doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. [Haecceity](/concepts/haecceity/)—the primitive "thisness" of a particular conscious subject—may matter beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them. This isn't a minor disagreement: if organizational invariance holds, psychophysical laws can be expressed purely functionally. If the Map is right, they must reference the particular subject.
 
 **Double-aspect information.** Chalmers' most speculative principle: information—or at least some information—has two aspects, physical and phenomenal. He explicitly treats the scope as open: does *all* information have a phenomenal aspect, or only some? If all, even thermostats might have simple experiences—approaching panpsychism through information theory. This anticipates [Integrated Information Theory](/concepts/integrated-information-theory/), though the Map is skeptical of IIT's specific measures.
 
@@ -84,7 +84,7 @@ The Map is skeptical of constraint 5, preferring: "Ensure phenomenology superven
 
 ## The Upward-Downward Asymmetry
 
-Most philosophical development has focused on upward laws. Chalmers himself tends toward [epiphenomenalism](/arguments/epiphenomenalism/)—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are supervenience laws, not causal laws.
+Most philosophical development has focused on upward laws. Chalmers himself tends toward [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are supervenience laws, not causal laws.
 
 The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities. This is the problem of [downward-causation](/concepts/downward-causation/).
 
@@ -192,7 +192,7 @@ What's not acceptable: using specification difficulty as license for unfalsifiab
 
 Even if each candidate mechanism operates independently, a complete coupling law must explain how they relate. Consciousness doesn't deploy attention, intention, valence, and qualitative character through separate channels. Willing an action while attending to it while experiencing its felt quality is unified. Any adequate coupling law must address how multiple phenomenal dimensions couple to physical selection through a single conscious act.
 
-This connects to [phenomenal-unity](/phenomenal-unity/): the unity of experience may not be decomposable into separate coupling channels. The five-candidate analysis may be a useful research decomposition that doesn't correspond to how coupling actually works. A single principle operating across all phenomenal dimensions—with the five candidates as different projections—would move toward the t-shirt problem's solution. But this remains speculative.
+This connects to [phenomenal-unity](/concepts/phenomenal-binding-and-holism/): the unity of experience may not be decomposable into separate coupling channels. The five-candidate analysis may be a useful research decomposition that doesn't correspond to how coupling actually works. A single principle operating across all phenomenal dimensions—with the five candidates as different projections—would move toward the t-shirt problem's solution. But this remains speculative.
 
 ## Relation to Site Perspective
 
@@ -228,12 +228,12 @@ The framework would face serious difficulty if:
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
-- [psychophysical-coupling](/psychophysical-coupling/) — The coupling law problem and candidate law families
-- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Where in the brain coupling might occur
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling law problem and candidate law families
+- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Where in the brain coupling might occur
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's role in Chalmers' quantum proposal
-- [functionalism](/arguments/functionalism/) — The view Chalmers tends toward, the Map rejects
-- [epiphenomenalism](/arguments/epiphenomenalism/) — Chalmers' tendency, the Map's rejection
+- [functionalism](/concepts/functionalism/) — The view Chalmers tends toward, the Map rejects
+- [epiphenomenalism](/concepts/epiphenomenalism/) — Chalmers' tendency, the Map's rejection
 - [haecceity](/concepts/haecceity/) — Why organizational invariance may fail
 - [mental-causation](/concepts/mental-causation/) — How consciousness affects physical outcomes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws

@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link `[nihilism](/nihilism/)`**: Changed to `[nihilism](/concepts/nihilism-and-existentialism/)` throughout
+- **Broken link `[nihilism](/concepts/nihilism-and-existentialism/)`**: Changed to `[nihilism](/concepts/nihilism-and-existentialism/)` throughout
 
 ### Medium Issues Found
 - **"Buddhism rejects eliminativism" asserted without argument**: Deferred—the point is made implicitly through the article's treatment of consciousness as real
@@ -52,7 +52,7 @@ topics: []
 - Strengthened cross-traditional variation point with specific examples (Buddhist no-self, Advaita universal Self, Christian divine presence)
 
 ### Cross-links Added
-- Fixed `[nihilism](/nihilism/)` → `[nihilism](/concepts/nihilism-and-existentialism/)`
+- Fixed `[nihilism](/concepts/nihilism-and-existentialism/)` → `[nihilism](/concepts/nihilism-and-existentialism/)`
 - Added explicit cross-reference to `[buddhism-and-dualism](/concepts/buddhism-and-dualism/)` in Madhyamaka section
 
 ## Remaining Items

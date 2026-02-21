@@ -5,7 +5,7 @@ ai_modified: 2026-01-21 00:57:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
@@ -17,7 +17,7 @@ concepts:
 - '[[introspection]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[measurement-problem]]'
 created: 2026-01-15
 date: &id001 2026-01-21
@@ -28,11 +28,11 @@ last_deep_review: 2026-01-21 00:57:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 title: Against Epiphenomenalism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet directly contradicts this view. This page presents the cumulative case against epiphenomenalism.
@@ -255,7 +255,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 
 **[Dualism](/tenets/#dualism)**: The Map accepts that consciousness is irreducible to physics—a point epiphenomenalism also accepts. But the arguments here show that dualism must be *interactionist* dualism. A dualism where consciousness exists but does nothing faces the self-stultification problem: we could never have rational beliefs about the non-physical if the non-physical cannot cause beliefs.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates precisely where [causal-closure](/concepts/causal-closure/) doesn't apply—at quantum indeterminacies. The [selection mechanism](/questions/consciousness-selecting-neural-patterns/) biases which of physically permitted outcomes becomes actual.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates precisely where [causal-closure](/concepts/causal-closure/) doesn't apply—at quantum indeterminacies. The [selection mechanism](/concepts/consciousness-selecting-neural-patterns/) biases which of physically permitted outcomes becomes actual.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The self-stultification argument shows consciousness must cause behavior. Our reports about consciousness must be caused by consciousness, or they cannot be trusted. The tenet that consciousness "selects among superposed neural states" is not optional decoration on dualism—it is required to avoid epiphenomenalism's epistemic collapse.
 
@@ -265,12 +265,12 @@ The arguments against epiphenomenalism directly support the Map's framework:
 
 ## Further Reading
 
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view examined in detail
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view examined in detail
 - [mental-causation](/concepts/mental-causation/) — Kim's exclusion argument and responses
 - [causal-closure](/concepts/causal-closure/) — The principle motivating epiphenomenalism
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The positive case for interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How mental causation could work
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The proposed mechanism for mental causation
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The proposed mechanism for mental causation
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what it shows
 - [illusionism](/concepts/illusionism/) — The strongest materialist response
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for consciousness

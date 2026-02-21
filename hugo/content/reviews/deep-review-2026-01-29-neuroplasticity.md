@@ -75,8 +75,8 @@ None. The article is well-structured, cites its sources appropriately, has the r
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
-- [voluntary-attention](/voluntary-attention/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [tenets](/tenets/)
 
 The article has extensive cross-linking; no additions needed.

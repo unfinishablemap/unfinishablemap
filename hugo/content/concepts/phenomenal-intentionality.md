@@ -9,7 +9,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[symbol-grounding-problem]]'
 - '[[explanatory-gap]]'
 created: 2026-02-02

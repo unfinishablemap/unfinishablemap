@@ -82,7 +82,7 @@ The divergence: traditions disagree about the ultimate significance of these sta
 
 Perhaps the most philosophically significant convergence: trained contemplatives across traditions report that awareness itself can be distinguished from the contents appearing within it.
 
-Advaita Vedānta's *sākṣin* (witness-self) is pure awareness underlying all experience. Buddhist *viññāṇa* (consciousness) can be observed as distinct from its objects. Christian apophatic mystics like Meister Eckhart describe a ground (*Grunt*) of awareness beneath all particular experiences. Sufi traditions distinguish *sirr* (the innermost secret of consciousness) from its manifestations. The [progressive disclosure](/contemplative-training-and-phenomenal-access/) of this distinction follows a developmental sequence: practitioners first identify with their thoughts, then observe thoughts arising, and eventually recognise the awareness within which thoughts appear.
+Advaita Vedānta's *sākṣin* (witness-self) is pure awareness underlying all experience. Buddhist *viññāṇa* (consciousness) can be observed as distinct from its objects. Christian apophatic mystics like Meister Eckhart describe a ground (*Grunt*) of awareness beneath all particular experiences. Sufi traditions distinguish *sirr* (the innermost secret of consciousness) from its manifestations. The [progressive disclosure](/topics/contemplative-evidence-for-consciousness-theories/) of this distinction follows a developmental sequence: practitioners first identify with their thoughts, then observe thoughts arising, and eventually recognise the awareness within which thoughts appear.
 
 Neuroscience finds that this phenomenological shift correlates with altered connectivity between the DMN and attentional networks. The awareness-content distinction is not an abstract philosophical concept imposed by traditions — it is a structural feature of consciousness that trained observation reveals, with measurable neural correlates.
 
@@ -94,7 +94,7 @@ The evidential value of convergence increases when we map where it breaks down. 
 
 As noted throughout, traditions converge on phenomenological structure but diverge on metaphysical interpretation. Buddhist traditions interpret the deconstructed self as revealing *śūnyatā* (emptiness). Hindu traditions interpret the same phenomenological deconstruction as revealing *ātman* (eternal self). Christian traditions see divine indwelling. These are not minor interpretive variations — they represent fundamentally different metaphysical conclusions drawn from similar phenomenological data.
 
-This divergence reveals an important epistemic boundary. [contemplative practice verifies structural claims about consciousness](/contemplative-evidence-and-verification/) more reliably than metaphysical claims about its ultimate nature. The convergence supports the structural claims; the divergence shows where contemplative evidence reaches its limits.
+This divergence reveals an important epistemic boundary. [contemplative practice verifies structural claims about consciousness](/topics/contemplative-evidence-for-consciousness-theories/) more reliably than metaphysical claims about its ultimate nature. The convergence supports the structural claims; the divergence shows where contemplative evidence reaches its limits.
 
 ### Ethical Framing
 
@@ -124,7 +124,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) connects through th
 
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — What contemplative practice can and cannot verify
 - [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-cross-cultural-philosophical-convergence/) — When convergence constitutes genuine evidence
-- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) — How meditation training progressively discloses consciousness structure
+- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) — How meditation training progressively discloses consciousness structure
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — The witness phenomenon across traditions
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Hindu, Buddhist, and Taoist traditions on consciousness
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Contemplative practice as philosophical method

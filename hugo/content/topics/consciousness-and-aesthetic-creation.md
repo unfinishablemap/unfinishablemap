@@ -8,7 +8,7 @@ concepts:
 - '[[consciousness-and-creativity]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[mental-imagery]]'
 - '[[agent-causation]]'
 - '[[duration]]'
@@ -36,12 +36,12 @@ related_articles:
 - '[[creativity-void]]'
 - '[[creativity-consciousness-and-novel-thought]]'
 - '[[phenomenology-of-flow-states]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 title: Consciousness and Aesthetic Creation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Making art is not the same as appreciating it. The painter confronting a blank canvas, the composer hearing the first bars of something that does not yet exist, the poet searching for the word that will close a line—each faces a phenomenal situation that has no analogue in aesthetic reception. The [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) explores why beauty pervades experience and resists physical reduction. [The aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/) also examines how encountering beauty strengthens the case for dualism. This article addresses the prior question: what happens in consciousness when beauty is being *made*?
@@ -68,7 +68,7 @@ A potential complication: some artists with aphantasia—the absence of voluntar
 
 ### The Aesthetic Sense as Real-Time Guide
 
-During creation, aesthetic judgment operates continuously and pre-reflectively. The jazz musician improvising does not stop to evaluate each note; the aesthetic sense operates within the [flow](/topics/phenomenology-of-flow-states/) of performance, accepting or rejecting possibilities faster than deliberate judgment could manage. [Poincaré described](/consciousness-and-mathematical-creativity/) a "special sensibility" that filters mathematical combinations for elegance—an unconscious aesthetic criterion that selects promising ideas before they reach deliberate awareness. Aesthetic creation involves an analogous filter: the artist's felt sense that *this* is working and *that* is not, operating in real time as a phenomenal selection mechanism rather than a rule-following procedure.
+During creation, aesthetic judgment operates continuously and pre-reflectively. The jazz musician improvising does not stop to evaluate each note; the aesthetic sense operates within the [flow](/topics/phenomenology-of-flow-states/) of performance, accepting or rejecting possibilities faster than deliberate judgment could manage. [Poincaré described](/topics/consciousness-and-mathematical-cognition/) a "special sensibility" that filters mathematical combinations for elegance—an unconscious aesthetic criterion that selects promising ideas before they reach deliberate awareness. Aesthetic creation involves an analogous filter: the artist's felt sense that *this* is working and *that* is not, operating in real time as a phenomenal selection mechanism rather than a rule-following procedure.
 
 This real-time aesthetic guidance is phenomenal through and through. It requires there to be something it is like to encounter the work-in-progress. The guidance does not operate on formal properties alone—it responds to meaning, context, emotional resonance, and the creator's own experiential history. A musical phrase that sounds trite to one improviser sounds fresh to another because their aesthetic landscapes differ, shaped by different histories of listening and playing.
 
@@ -82,7 +82,7 @@ Appreciation runs from world to mind: the artwork presents qualities and conscio
 
 The direction-of-fit distinction is not merely semantic. Consider the creative revision process. An artist steps back, perceives that the work falls short, feels specifically *how* it falls short (too heavy, too bright, too rigid), and returns to adjust. The perception of shortfall is phenomenal—it depends on what the work *looks like* to the creator—and the adjustment is caused by that phenomenal state. The causal chain runs: phenomenal judgment → motor action → material change.
 
-The physicalist has two responses. The [epiphenomenalist](/arguments/epiphenomenalism/) claims phenomenal states accompany but do not cause physical changes—but then the systematic correlation between what artists *experience* as wrong and what they *change* becomes coincidental across millions of creative revisions. The identity theorist claims the phenomenal template *just is* a neural state, making the causal story compatible with physicalism. But identity theory faces its own difficulty here: the artist's phenomenal template is about the *not-yet-existing* work—it carries intentional content about a future state of affairs. Identifying this phenomenal-intentional state with a neural firing pattern must explain both its qualitative character (why it *feels* like envisioning blue) and its success conditions (why it systematically guides the hand toward arrangements that produce the intended experience in viewers). The explanatory burden compounds in a way that standard identity claims about pain or colour experience do not face.
+The physicalist has two responses. The [epiphenomenalist](/concepts/epiphenomenalism/) claims phenomenal states accompany but do not cause physical changes—but then the systematic correlation between what artists *experience* as wrong and what they *change* becomes coincidental across millions of creative revisions. The identity theorist claims the phenomenal template *just is* a neural state, making the causal story compatible with physicalism. But identity theory faces its own difficulty here: the artist's phenomenal template is about the *not-yet-existing* work—it carries intentional content about a future state of affairs. Identifying this phenomenal-intentional state with a neural firing pattern must explain both its qualitative character (why it *feels* like envisioning blue) and its success conditions (why it systematically guides the hand toward arrangements that produce the intended experience in viewers). The explanatory burden compounds in a way that standard identity claims about pain or colour experience do not face.
 
 ### Material Embodiment of Qualia
 
@@ -92,7 +92,7 @@ This bridging act presupposes that the creator has access to both sides. The pai
 
 ## Aesthetic Creation and Temporal Consciousness
 
-Aesthetic creation unfolds in [durée](/duration/)—Bergson's lived time where past and future interpenetrate in the present moment. This temporal dimension distinguishes creative making from mechanical production.
+Aesthetic creation unfolds in [durée](/concepts/temporal-consciousness/)—Bergson's lived time where past and future interpenetrate in the present moment. This temporal dimension distinguishes creative making from mechanical production.
 
 ### Accumulative Meaning
 
@@ -112,7 +112,7 @@ The philosophical zombie thought experiment sharpens the argument. A zombie pain
 
 The question is whether aesthetic creation requires the phenomenal states that human artists report or merely requires the functional states that a [zombie](/concepts/philosophical-zombies/), by hypothesis, shares. The standard zombie scenario defines the zombie as behaviourally identical to the human—so if physicalism is true, the zombie produces identical art. The Map's position rejects this: if phenomenal states do causal work that functional organisation alone does not replicate, the zombie's art would diverge.
 
-Consider revision. The human painter steps back, sees that the shadow is too heavy, feels the imbalance, and lightens it. If the phenomenal quality of *felt heaviness*—irreducible to functional processing—is what biases [neural pattern selection](/questions/consciousness-selecting-neural-patterns/) toward the lighter shadow, then a being lacking that phenomenal state would need a different causal route to the same outcome. Whether it finds one depends on whether the functional organisation alone can replicate every discriminating judgment that phenomenal experience affords. The dualist contends it cannot: the space of phenomenal-aesthetic discriminations (too *warm*, too *rigid*, not *quite* melancholy enough) outruns any functional specification, because functional equivalence leaves the qualitative character underdetermined.
+Consider revision. The human painter steps back, sees that the shadow is too heavy, feels the imbalance, and lightens it. If the phenomenal quality of *felt heaviness*—irreducible to functional processing—is what biases [neural pattern selection](/concepts/consciousness-selecting-neural-patterns/) toward the lighter shadow, then a being lacking that phenomenal state would need a different causal route to the same outcome. Whether it finds one depends on whether the functional organisation alone can replicate every discriminating judgment that phenomenal experience affords. The dualist contends it cannot: the space of phenomenal-aesthetic discriminations (too *warm*, too *rigid*, not *quite* melancholy enough) outruns any functional specification, because functional equivalence leaves the qualitative character underdetermined.
 
 This is not a knock-down argument—the physicalist can insist that functional organisation fully determines aesthetic discrimination. But the thought experiment identifies the crux: the physicalist must explain why the systematic relationship between what artists *phenomenally experience* and what they *create* should hold if phenomenal experience does no causal work.
 
@@ -150,12 +150,12 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty's pervasiveness, for-ness, and evidential force for dualism
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — Why human creativity differs in kind from AI and animal creativity
-- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/) — Mathematical creativity as the sharpest case for consciousness as causal force
+- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The generation-selection synthesis
 - [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits revealed by profound aesthetic encounter
 - [creativity-void](/voids/creativity-void/) — The inaccessibility of creative origins
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The concept page on consciousness and creativity
-- [duration](/duration/) — Bergson's lived time as creative becoming
+- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [mental-imagery](/concepts/mental-imagery/) — Phenomenal imagination and its role in creative exploration
 
 ## References

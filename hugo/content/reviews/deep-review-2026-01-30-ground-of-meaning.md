@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [Ground Of Meaning](/ground-of-meaning/)
+**Article**: Ground Of Meaning
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

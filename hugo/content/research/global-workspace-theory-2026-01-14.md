@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[integrated-information-theory]]'
 created: 2026-01-14
@@ -162,7 +162,7 @@ This is precisely where site's framework diverges most sharply from GWT:
 
 - GWT is functionalist—consciousness is the functional role of global broadcast
 - If functionalism is true, AI implementing the right architecture would be conscious
-- Site's [rejection of functionalism](/arguments/functionalism/) implies GWT's AI implications don't follow
+- Site's [rejection of functionalism](/concepts/functionalism/) implies GWT's AI implications don't follow
 - The absent qualia objection applies: a system could implement global broadcast without phenomenal experience
 - [Site's AI consciousness skepticism](/topics/ai-consciousness/) is based on dualism, not denial that AI can implement workspace functions
 
@@ -198,7 +198,7 @@ Based on this research, an article could:
 
 2. **Use GWT to sharpen site's position** - GWT's success with "easy problems" throws the hard problem into sharper relief. The more we explain access, the more mysterious phenomenal consciousness appears. This supports rather than undermines dualism.
 
-3. **Connect to attention article** - GWT places attention as "gateway to consciousness" via spotlight metaphor. Site's [attention](/attention/) article already discusses attention-consciousness relationship. GWT provides mainstream neuroscience context for Stapp's proposal that attention is where mind-matter interaction occurs.
+3. **Connect to attention article** - GWT places attention as "gateway to consciousness" via spotlight metaphor. Site's [attention](/concepts/attention-as-interface/) article already discusses attention-consciousness relationship. GWT provides mainstream neuroscience context for Stapp's proposal that attention is where mind-matter interaction occurs.
 
 4. **Address COGITATE results** - Neither GNW nor IIT was fully supported. This suggests caution about any premature physicalist explanation. The science is not settled.
 

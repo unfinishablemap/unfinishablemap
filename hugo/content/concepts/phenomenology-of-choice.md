@@ -36,7 +36,7 @@ related_articles:
 - '[[tenets]]'
 title: Phenomenology of Choice
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Choosing feels like something. This obvious fact carries philosophical weight that is often overlooked. When you deliberate between options and settle on one, there is a distinctive qualitative character to the experience—a phenomenology of decision that differs markedly from passively observing events unfold. This phenomenology provides evidence for the Map's framework: consciousness as genuine selector rather than epiphenomenal spectator.
@@ -65,7 +65,7 @@ Both patterns share the same structure: genuine openness followed by determinate
 
 The [retrocausal](/concepts/retrocausality/) dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
 
-The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm neural tissue—is addressed through [protection mechanisms](/quantum-coherence-and-binding-evidence/) that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
+The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm neural tissue—is addressed through [protection mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
 
 ### Authorship: The Sense of Agency
 
@@ -91,7 +91,7 @@ The phenomenology of choice differs fundamentally from observation. When observi
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This maps onto the neural distinction between willed and automatic processing. [Willed attention](/voluntary-attention/) shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The [attentional-economics](/concepts/attentional-economics/) framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
+This maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/attention-as-interface/) shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The [attentional-economics](/concepts/attentional-economics/) framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
 
 The contrast is vivid in attention: being *pulled* by a loud noise versus *directing* focus on difficult text. The [illusionist](/concepts/illusionism/) holds this phenomenology is representational—the brain generates agency-sense without consciousness contributing. But why would accurate phenomenology of effort correlate with task difficulty if phenomenology has no functional role? Hard tasks feel hard; easy tasks feel easy. This correlation suggests phenomenology tracks real cognitive engagement.
 
@@ -119,7 +119,7 @@ When choice feels effortful, frontal theta increases. When choice feels automati
 
 ## Deliberation and Duration
 
-Henri Bergson's concept of [durée](/duration/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do.
+Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do.
 
 Bergson argued that determinism treats mental states as discrete units causing each other mechanically. But in lived duration, mental states interpenetrate. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete events.
 
@@ -195,13 +195,13 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 
 ## Further Reading
 
-- [free-will](/concepts/free-will/) — The broader debate and the Map's position
+- [free-will](/topics/free-will/) — The broader debate and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Why choice requires agents, not just events
 - [mental-effort](/concepts/mental-effort/) — The quantum Zeno mechanism and why effort should feel like work
-- [voluntary-attention](/voluntary-attention/) — Neural signatures of genuine choosing
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of genuine choosing
 - [motor-selection](/concepts/motor-selection/) — Motor choice as parallel to attentional choice
 - [causal-interface](/voids/causal-interface/) — Why the mechanism connecting intention to action is invisible
-- [duration](/duration/) — Bergson's lived time and creative becoming
+- [duration](/concepts/temporal-consciousness/) — Bergson's lived time and creative becoming
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates options, not just selects
 - [introspection](/concepts/introspection/) — First-person methods for investigating choice
 - [witness-consciousness](/concepts/witness-consciousness/) — The contrast case of choiceless awareness

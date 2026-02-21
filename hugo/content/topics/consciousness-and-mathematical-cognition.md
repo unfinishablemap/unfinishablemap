@@ -10,7 +10,7 @@ coalesced_from:
 concepts:
 - '[[cognitive-phenomenology]]'
 - '[[consciousness-and-creativity]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[consciousness-as-amplifier]]'
 - '[[mysterianism]]'
 - '[[qualia]]'
@@ -50,7 +50,7 @@ title: Consciousness and Mathematical Cognition
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Mathematical cognition is where the case for consciousness as a causal force is sharpest. When you grasp *why* a proof works—not merely verify each step but see the necessity—something happens that resists description in purely computational terms. When a mathematician invents a new structure that transforms what was previously thinkable, something happens that resists reduction to algorithmic search. Roger Penrose argued that mathematical insight demonstrates consciousness cannot be algorithmic. Whether or not his specific argument succeeds, the phenomenology of mathematical understanding and creativity reveals features of consciousness that physical description struggles to capture.
@@ -126,7 +126,7 @@ Consider what happens when a mathematician invents a new structure—say, Cantor
 
 A tension arises here. The "sense of discovery" discussed above suggests mathematicians access pre-existing truths, while the generation account treats mathematical frameworks as genuinely created. The resolution may be that *frameworks* are created while *truths* are discovered: Cantor invented set-theoretic language and methods, but the truths those methods revealed (the uncountability of the reals, the hierarchy of infinities) were already necessary. Mathematical creativity, on this view, involves constructing new lenses for apprehending pre-existing mathematical reality—the lenses are artifacts, but what they reveal is not.
 
-This is Margaret Boden's *transformational creativity*: not combining existing ideas or exploring within established rules, but changing the rules themselves. Transformational creativity in mathematics produces what was "downright impossible" within the previous framework. The [zone of latent solutions](/topics/creativity-consciousness-and-novel-thought/) concept captures why this matters: great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. But mathematical transformational creativity exits every zone. It requires representing the current mathematical framework *as* a framework—seeing its assumptions, questioning its boundaries, and constructing something beyond them. This [metarepresentation](/metarepresentation/)—taking one's own conceptual apparatus as an object of thought—is precisely what consciousness-requiring functions enable.
+This is Margaret Boden's *transformational creativity*: not combining existing ideas or exploring within established rules, but changing the rules themselves. Transformational creativity in mathematics produces what was "downright impossible" within the previous framework. The [zone of latent solutions](/topics/creativity-consciousness-and-novel-thought/) concept captures why this matters: great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. But mathematical transformational creativity exits every zone. It requires representing the current mathematical framework *as* a framework—seeing its assumptions, questioning its boundaries, and constructing something beyond them. This [metarepresentation](/concepts/metacognition/)—taking one's own conceptual apparatus as an object of thought—is precisely what consciousness-requiring functions enable.
 
 ## The Chinese Room Extended
 
@@ -226,7 +226,7 @@ The view would be supported by continued failure of AI systems to achieve transf
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience matters philosophically
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt difference between mechanical verification and genuine comprehension
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
-- [duration](/duration/) — Bergson's lived time as inherently creative
+- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as inherently creative
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Parallels between choice phenomenology and insight phenomenology
 - [agent-causation](/concepts/agent-causation/) — Mathematical creativity as a case of genuine causal agency
 

@@ -28,7 +28,7 @@ related_articles:
 - '[[normative-void]]'
 - '[[consciousness-value-connection]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 title: Normative Phenomenology
 topics:
 - '[[ethics-of-consciousness]]'
@@ -152,7 +152,7 @@ Normative phenomenology connects to the Map's [foundational commitments](/tenets
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Contemplative traditions as laboratories for normative investigation
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Value as constituted by conscious experience
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 
 ## References
 

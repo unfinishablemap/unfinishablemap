@@ -36,7 +36,7 @@ related_articles:
 title: Comparing Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Four serious proposals compete to explain how consciousness interfaces with quantum mechanics: Penrose-Hameroff's Orchestrated Objective Reduction, Stapp's quantum Zeno model, Fisher's nuclear spin hypothesis, and spontaneous collapse hybrids (notably Chalmers and McQueen's CSL-IIT). Each claims to solve the same puzzle — how a non-physical mind influences physical outcomes without violating conservation laws — but they locate the interface at different scales, invoke different physics, and carry different empirical and philosophical commitments. The [hard problem](/topics/hard-problem-of-consciousness/) constrains what counts as adequate: any mechanism must eventually explain not just *that* consciousness plays a causal role but *why* that role has the phenomenal character it does. The Unfinishable Map does not commit to any single mechanism, but evaluating them against shared criteria reveals which approaches best fit the Map's [tenets](/tenets/) and which face the steepest obstacles. This comparison assumes the Map's dualist premise — that consciousness is irreducible to physical processes — which not all of these proposals' originators share.
@@ -142,7 +142,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR models
-- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Five neural quantum mechanisms with evidence
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations for neural quantum effects
@@ -150,7 +150,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Why mechanism choice matters for libertarian free will
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed before conscious observers
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness might couple to quantum systems
-- [psychophysical-coupling](/psychophysical-coupling/) — What a coupling law must specify
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — What a coupling law must specify
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 
 ## References

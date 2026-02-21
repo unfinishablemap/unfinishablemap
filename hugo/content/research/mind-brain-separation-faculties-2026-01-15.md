@@ -21,7 +21,7 @@ related_articles:
 title: Research Notes - Mind-Brain Separation and Division of Faculties
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 # Research: Mind-Brain Separation and Division of Faculties

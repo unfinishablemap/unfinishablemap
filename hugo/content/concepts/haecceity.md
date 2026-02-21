@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[pairing-problem]]'
 - '[[self-and-consciousness]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[philosophical-zombies]]'
 - '[[illusionism]]'
 - '[[buddhism-and-dualism]]'
@@ -35,7 +35,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Haecceity (from Latin *haec*, "this") is the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with your exact properties—a distinction pattern-based theories cannot capture. This concept is central to The Unfinishable Map's rejection of [many-worlds interpretation](/arguments/many-worlds/), its treatment of [personal-identity](/topics/personal-identity/), and its response to the [pairing-problem](/concepts/pairing-problem/).
+Haecceity (from Latin *haec*, "this") is the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with your exact properties—a distinction pattern-based theories cannot capture. This concept is central to The Unfinishable Map's rejection of [many-worlds interpretation](/concepts/many-worlds/), its treatment of [personal-identity](/topics/personal-identity/), and its response to the [pairing-problem](/concepts/pairing-problem/).
 
 ## The Concept
 
@@ -47,7 +47,7 @@ Modern discussions distinguish:
 
 **Haecceity**: The non-qualitative, non-transferable property of being *this* particular thing. Unlike qualitative properties, haecceity cannot be duplicated. A perfect replica would share all qualitative properties but necessarily differ in haecceity.
 
-**[Indexical facts](/indexical-facts/)**: Facts specifiable only using indexicals like "I," "here," "now." The fact that *I* am writing this sentence cannot be reduced to facts about some person writing a sentence—because there might be multiple people writing identical sentences, and only one of them is me.
+**[Indexical facts](/concepts/indexical-knowledge-and-identity/)**: Facts specifiable only using indexicals like "I," "here," "now." The fact that *I* am writing this sentence cannot be reduced to facts about some person writing a sentence—because there might be multiple people writing identical sentences, and only one of them is me.
 
 These concepts converge for consciousness. The question "Why am I this subject and not another?" presupposes that being this subject is a genuine fact—a haecceitistic fact not reducible to qualitative features of my psychology.
 
@@ -87,7 +87,7 @@ This presupposes haecceitism. If anti-haecceitism were true, there would be no f
 
 But the question doesn't seem confused. You will have one sequence of experiences, not two. The felt reality of being *this* observer in *this* branch suggests a haecceitistic fact—that indexical identity is not reducible to qualitative continuity.
 
-The [dedicated MWI critique](/arguments/many-worlds/) develops five arguments against many-worlds, but the indexical identity problem is the one that most directly invokes haecceity. MWI defenders (Deutsch, Carroll) respond via "self-locating uncertainty"—treating pre-measurement uncertainty about which branch you'll find yourself in as analogous to uncertainty about which room you woke up in. But self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both. The uncertainty framework seems inapplicable when all outcomes occur.
+The [dedicated MWI critique](/concepts/many-worlds/) develops five arguments against many-worlds, but the indexical identity problem is the one that most directly invokes haecceity. MWI defenders (Deutsch, Carroll) respond via "self-locating uncertainty"—treating pre-measurement uncertainty about which branch you'll find yourself in as analogous to uncertainty about which room you woke up in. But self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both. The uncertainty framework seems inapplicable when all outcomes occur.
 
 ## Self-Locating Beliefs
 
@@ -95,7 +95,7 @@ Epistemologists discuss "self-locating beliefs"—beliefs about where you are in
 
 Consider: "There is a person in a red room" vs "I am in a red room." The first describes the world impersonally. The second locates me within it. Even knowing all impersonal facts about the world, I might not know which person I am—which requires self-location.
 
-David Lewis's "Two Gods" scenario (discussed in [indexical-facts](/indexical-facts/)) demonstrates that self-locating knowledge is distinct from qualitative knowledge—omniscience about impersonal facts leaves "which one am I?" undetermined.
+David Lewis's "Two Gods" scenario (discussed in [indexical-facts](/concepts/indexical-knowledge-and-identity/)) demonstrates that self-locating knowledge is distinct from qualitative knowledge—omniscience about impersonal facts leaves "which one am I?" undetermined.
 
 For consciousness:
 
@@ -131,7 +131,7 @@ This may seem to explain little. But the criticism applies to any theory of indi
 
 ## MWI and the Probability Problem
 
-The [probability problem](/arguments/many-worlds/#3-the-probability-problem) for many-worlds connects to haecceity. In many-worlds, after a spin measurement, there are branches with spin-up and branches with spin-down. All exist equally. Why do we observe Born-rule statistics?
+The [probability problem](/concepts/many-worlds/#3-the-probability-problem) for many-worlds connects to haecceity. In many-worlds, after a spin measurement, there are branches with spin-up and branches with spin-down. All exist equally. Why do we observe Born-rule statistics?
 
 Proposed solutions invoke self-locating uncertainty: before looking at the result, you're uncertain which branch you're in. Decision theory allegedly recovers the Born rule from rational constraints on such uncertainty.
 
@@ -145,7 +145,7 @@ Many-worlds theorists who embrace anti-haecceitism must find another route to th
 
 Wallace (2012) and Greaves (2007) argue that decision theory can derive the Born rule without haecceitistic assumptions—rational agents should weight branches by squared amplitude due to constraints on preferences, not facts about "which branch I'm in."
 
-**Response**: The question "What should I care about?" presupposes an "I" whose interests are at stake. If both post-measurement branches equally contain my continuers, why weight one more than another? The caring itself requires indexical identity. The broader [MWI critique](/arguments/many-worlds/) identifies additional problems—ontological extravagance, the preferred basis problem—but indexical identity is fundamental. If "you" genuinely end up in multiple branches, betting on outcomes becomes incoherent.
+**Response**: The question "What should I care about?" presupposes an "I" whose interests are at stake. If both post-measurement branches equally contain my continuers, why weight one more than another? The caring itself requires indexical identity. The broader [MWI critique](/concepts/many-worlds/) identifies additional problems—ontological extravagance, the preferred basis problem—but indexical identity is fundamental. If "you" genuinely end up in multiple branches, betting on outcomes becomes incoherent.
 
 ## Objections to Haecceity
 
@@ -175,7 +175,7 @@ Buddhist philosophy, particularly Madhyamaka, argues that the self is *sunyata* 
 
 **Response**: The Buddhist analysis may be compatible with a refined haecceitism. The self can be empty of *qualitative* essence while still being *this* particular process. Consider: Buddhist philosophy doesn't deny that *this* person experiences *this* moment—it denies that there's a permanent, unchanging self underlying the experience. But haecceity doesn't require permanence; it requires particularity. *This* stream of experience, however impermanent and constructed, is still distinguishable from *that* stream. The indexical fact remains even if the referent is a process rather than a substance.
 
-This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework. The [Eastern Philosophy–Haecceity Tension](/eastern-philosophy-haecceity-tension/) article develops this compatibility in detail, arguing that "process haecceitism" can apply to impermanent streams of experience without requiring permanent souls.
+This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework. The [Eastern Philosophy–Haecceity Tension](/topics/eastern-philosophy-consciousness/) article develops this compatibility in detail, arguing that "process haecceitism" can apply to impermanent streams of experience without requiring permanent souls.
 
 ## Process Philosophy and Haecceity
 
@@ -228,10 +228,10 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 ## Further Reading
 
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how haecceity persists through split-brain, anesthesia, altered states, and death
-- [indexical-facts](/indexical-facts/) — The irreducible first-person facts that haecceity grounds
+- [indexical-facts](/concepts/indexical-knowledge-and-identity/) — The irreducible first-person facts that haecceity grounds
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* conscious being rather than another?
 - [personal-identity](/topics/personal-identity/) — How haecceity grounds personal identity
-- [many-worlds](/arguments/many-worlds/) — Why indexical identity problems doom many-worlds
+- [many-worlds](/concepts/many-worlds/) — Why indexical identity problems doom many-worlds
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — How haecceity grounds which outcome *this* consciousness experiences
 - [pairing-problem](/concepts/pairing-problem/) — The haecceity response to Kim's challenge
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of thisness

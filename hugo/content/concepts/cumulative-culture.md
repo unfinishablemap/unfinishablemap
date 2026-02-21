@@ -36,7 +36,7 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-Cumulative culture is the ratchet effect whereby each generation builds on the innovations of previous generations, producing knowledge and technology that no individual could create alone. Humans alone achieve it. Great apes have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but their cultural knowledge remains stable across generations rather than accumulating. The Unfinishable Map proposes that cumulative culture requires [metarepresentation](/metarepresentation/)—representing your knowledge as knowledge, your practices as practices—and that metarepresentation requires phenomenal consciousness. If correct, cumulative culture provides strong evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness doesn't merely accompany human cognition but causally enables our most distinctive achievement.
+Cumulative culture is the ratchet effect whereby each generation builds on the innovations of previous generations, producing knowledge and technology that no individual could create alone. Humans alone achieve it. Great apes have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but their cultural knowledge remains stable across generations rather than accumulating. The Unfinishable Map proposes that cumulative culture requires [metarepresentation](/concepts/metacognition/)—representing your knowledge as knowledge, your practices as practices—and that metarepresentation requires phenomenal consciousness. If correct, cumulative culture provides strong evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness doesn't merely accompany human cognition but causally enables our most distinctive achievement.
 
 ## The Ratchet Effect
 
@@ -68,7 +68,7 @@ Cumulative culture requires treating knowledge *as* knowledge. Consider what too
 3. **Deliberately modifying**: Changing the technique based on that evaluation
 4. **Teaching the modification**: Transmitting not just the technique but the understanding that it improved upon something
 
-Each step requires [metarepresentation](/metarepresentation/)—representing your representations as representations. You must know that you know how to make the tool, recognise this knowledge as potentially improvable, and communicate both the technique and its relationship to prior techniques.
+Each step requires [metarepresentation](/concepts/metacognition/)—representing your representations as representations. You must know that you know how to make the tool, recognise this knowledge as potentially improvable, and communicate both the technique and its relationship to prior techniques.
 
 Great apes may lack this metarepresentational capacity. As Whiten (2015) argues, they have culture but may not *know* they have culture—the [Jourdain Hypothesis](/concepts/jourdain-hypothesis/), after Molière's character who discovered he'd been speaking prose all his life without knowing it. Apes express cultural traditions without representing these as "our way of doing things" subject to deliberate modification.
 
@@ -132,7 +132,7 @@ The cumulative culture hypothesis generates testable predictions:
 
 ## The Evolutionary Argument
 
-Cumulative culture strengthens the evolutionary argument for conscious causation. If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—causally inert—cumulative culture should be achievable through neural complexity alone. Great apes, with brains only slightly smaller than early human ancestors, should show at least proto-cumulative culture. They don't.
+Cumulative culture strengthens the evolutionary argument for conscious causation. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—cumulative culture should be achievable through neural complexity alone. Great apes, with brains only slightly smaller than early human ancestors, should show at least proto-cumulative culture. They don't.
 
 The pattern suggests consciousness does causal work. It enables the metarepresentation that cumulative culture requires. Small changes in conscious capacity produced the vast cultural gap between species—a gap that makes sense only if consciousness causally contributes to cognition rather than merely accompanying it.
 
@@ -208,7 +208,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Why teaching requires consciousness and enables cultural ratcheting
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The Molière-inspired metaphor for procedural vs declarative metacognition
-- [metarepresentation](/metarepresentation/) — Why knowing-that-you-know may require consciousness
+- [metarepresentation](/concepts/metacognition/) — Why knowing-that-you-know may require consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison in depth

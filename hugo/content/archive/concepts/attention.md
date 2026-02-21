@@ -12,7 +12,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[mental-imagery]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[illusionism]]'
 - '[[integrated-information-theory]]'
 - '[[attention-schema-theory]]'
@@ -22,7 +22,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[pairing-problem]]'
 - '[[agent-causation]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 description: Attention selects information for conscious processing. Its relationship
@@ -41,7 +41,7 @@ superseded_by: /concepts/attention-as-interface/
 title: Attention and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Attention and consciousness are closely linked but increasingly understood as dissociable processes. You can attend to things you're not conscious of (blindsight patients orient toward stimuli they deny seeing) and be conscious of things you're not attending to (peripheral awareness, the gist of a scene). This dissociation matters philosophically: it suggests consciousness cannot be reduced to attentional mechanisms—and it positions attention as the potential interface where consciousness influences the physical world.
@@ -70,7 +70,7 @@ If attention operates without consciousness and vice versa, they are distinct pr
 
 ### Against Functionalism
 
-The [functionalist](/arguments/functionalism/) equation of consciousness with a functional role stumbles on dissociation evidence. Prinz's AIR theory claims consciousness arises when and only when attention modulates intermediate representations—but peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Consciousness seems to be something over and above the function.
+The [functionalist](/concepts/functionalism/) equation of consciousness with a functional role stumbles on dissociation evidence. Prinz's AIR theory claims consciousness arises when and only when attention modulates intermediate representations—but peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Consciousness seems to be something over and above the function.
 
 ### The Methodological Challenge
 
@@ -90,7 +90,7 @@ This matters for the interface hypothesis: if attention is how consciousness eng
 
 ### The Willed-Instructed-Exogenous Distinction
 
-[Recent neuroscience](/voluntary-attention/) distinguishes three attention types:
+[Recent neuroscience](/concepts/attention-as-interface/) distinguishes three attention types:
 
 | Mode | Trigger | Deployment Time | Effort |
 |------|---------|-----------------|--------|
@@ -132,7 +132,7 @@ Predictive processing describes attention as precision weighting—upweighting p
 
 ### Working Memory and the Interface
 
-Working memory and attention are deeply interlinked, strengthening the [interface hypothesis](/concepts/attention-as-interface/). The Map's [coupling law research](/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious throughput—matching working memory capacity remarkably well.
+Working memory and attention are deeply interlinked, strengthening the [interface hypothesis](/concepts/attention-as-interface/). The Map's [coupling law research](/concepts/psychophysical-coupling/) notes a ~10 bits/second limit on conscious throughput—matching working memory capacity remarkably well.
 
 Recent research distinguishes working memory *storage* (which can be unconscious, maintained via synaptic calcium) from *manipulation* (which requires conscious reactivation). This maps onto the Map's framework: passive storage might be purely neural; active manipulation might require consciousness's participation. Working memory manipulation could be the interface in action.
 
@@ -184,7 +184,7 @@ The Map's position would face serious difficulty if:
 
 4. **Illusionism succeeds**: If "seeming" can occur without a subject. Current illusionist accounts face the regress problem.
 
-5. **Many-worlds is confirmed**: If all outcomes occur in different branches rather than being selected. The interface hypothesis requires real collapse; [many-worlds](/arguments/many-worlds/) eliminates it.
+5. **Many-worlds is confirmed**: If all outcomes occur in different branches rather than being selected. The interface hypothesis requires real collapse; [many-worlds](/concepts/many-worlds/) eliminates it.
 
 ## Relation to the Map's Perspective
 
@@ -203,7 +203,7 @@ The attention-consciousness relationship illuminates all five tenets:
 ## Further Reading
 
 - [attention-created-voids](/voids/attention-created-voids/) — How attention creates structural voids as a byproduct of selection
-- [voluntary-attention](/voluntary-attention/) — The willed-instructed-exogenous distinction
+- [voluntary-attention](/concepts/attention-as-interface/) — The willed-instructed-exogenous distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention mediates consciousness's causal influence on matter
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — FA/OM meditation and selection vs witnessing modes
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort and Stapp's mechanism

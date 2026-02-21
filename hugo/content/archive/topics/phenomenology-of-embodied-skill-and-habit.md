@@ -37,10 +37,10 @@ superseded_by: /topics/phenomenology-of-skill-and-the-lived-body/
 title: The Phenomenology of Embodied Skill and Habit
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-Skill and habit do not merely change what the body can do—they change what the body *is* from the inside. A pianist's hands are not the same hands that first fumbled at the keyboard, not because the flesh has changed but because the felt boundaries, capacities, and internal geography of those hands have been redrawn. The Unfinishable Map's companion articles treat the [cognitive arc of skill learning](/phenomenology-of-habit-and-skill-acquisition/)—the withdrawal of conscious scaffolding, the delegation to procedural systems. This article examines something different: the phenomenological transformation of the body itself. How does the lived body expand, contract, and restructure through skill and habit? And what does this plasticity reveal about the [interface](/concepts/attention-as-interface/) through which consciousness engages the physical world?
+Skill and habit do not merely change what the body can do—they change what the body *is* from the inside. A pianist's hands are not the same hands that first fumbled at the keyboard, not because the flesh has changed but because the felt boundaries, capacities, and internal geography of those hands have been redrawn. The Unfinishable Map's companion articles treat the [cognitive arc of skill learning](/topics/phenomenology-of-skill-and-the-lived-body/)—the withdrawal of conscious scaffolding, the delegation to procedural systems. This article examines something different: the phenomenological transformation of the body itself. How does the lived body expand, contract, and restructure through skill and habit? And what does this plasticity reveal about the [interface](/concepts/attention-as-interface/) through which consciousness engages the physical world?
 
 The answer matters for the Map's framework because a fixed interface would be harder to reconcile with [bidirectional interaction](/tenets/#bidirectional-interaction). If the body were a static instrument that consciousness merely played, the relationship would be one-directional: mind acts through a pre-given body. But the body that emerges from skilled practice is itself shaped by consciousness. The interface is not given—it is sculpted.
 
@@ -114,11 +114,11 @@ This asymmetry is philosophically significant for the Map's framework. If consci
 
 ## Further Reading
 
-- [phenomenology-of-habit-and-skill-acquisition](/phenomenology-of-habit-and-skill-acquisition/) — The cognitive arc of skill learning: scaffolding, delegation, and withdrawal
+- [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-skill-and-the-lived-body/) — The cognitive arc of skill learning: scaffolding, delegation, and withdrawal
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading of embodied cognition
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
-- [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/) — What happens when established skills must be restructured
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) — The puzzle of consciousness building systems that replace it
+- [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/) — What happens when established skills must be restructured
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) — The puzzle of consciousness building systems that replace it
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — The fullest expression of body schema integration
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — What happens when consciousness disrupts the body it trained
 

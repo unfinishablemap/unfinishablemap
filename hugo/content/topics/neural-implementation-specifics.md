@@ -234,7 +234,7 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 
 ## Further Reading
 
-- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Survey of all five proposed mechanisms
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Survey of all five proposed mechanisms
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy and decoherence challenge
 - [decoherence](/concepts/decoherence/) — The decoherence critique in detail

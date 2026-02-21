@@ -12,13 +12,13 @@ concepts:
 - '[[phenomenal-concepts-strategy]]'
 - '[[inverted-qualia]]'
 - '[[knowledge-argument]]'
-- '[[functionalism]]'
-- '[[materialism]]'
+- '[[concepts/functionalism]]'
+- '[[concepts/materialism]]'
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[mysterianism]]'
 - '[[argument-from-reason]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[stapp-quantum-mind]]'
 - '[[voluntary-attention]]'
@@ -43,7 +43,7 @@ topics:
 
 Phenomenal consciousness (P-consciousness) is what it is *like* to be in a mental state—the subjective, experiential quality that accompanies perception, thought, emotion, and sensation. When you see red, taste coffee, or feel pain, there is something it is like to have that experience. That "something it is like" is phenomenal consciousness.
 
-P-consciousness is the hard problem's core. Physical theories can explain information processing, behavioral control, and cognitive function—what Ned Block calls [access-consciousness](/concepts/access-consciousness/) (A-consciousness). What they cannot explain is why processing feels like anything at all. The [explanatory gap](/concepts/explanatory-gap/) between neural activity and subjective experience defines the challenge consciousness poses to [materialism](/arguments/materialism/).
+P-consciousness is the hard problem's core. Physical theories can explain information processing, behavioral control, and cognitive function—what Ned Block calls [access-consciousness](/concepts/access-consciousness/) (A-consciousness). What they cannot explain is why processing feels like anything at all. The [explanatory gap](/concepts/explanatory-gap/) between neural activity and subjective experience defines the challenge consciousness poses to [materialism](/concepts/materialism/).
 
 ## Definition and Core Features {#definition}
 
@@ -109,7 +109,7 @@ This connects to [conceptual-acquisition-limits](/voids/conceptual-acquisition-l
 
 ## Relation to Site Perspective
 
-P-consciousness is central to The Unfinishable Map's [Dualism tenet](/tenets/#dualism). The irreducibility of phenomenal properties—the fact that no functional or structural description captures what it is like to see red or feel pain—is the primary reason for rejecting [materialism](/arguments/materialism/).
+P-consciousness is central to The Unfinishable Map's [Dualism tenet](/tenets/#dualism). The irreducibility of phenomenal properties—the fact that no functional or structural description captures what it is like to see red or feel pain—is the primary reason for rejecting [materialism](/concepts/materialism/).
 
 ### Supporting Dualism
 
@@ -117,11 +117,11 @@ The arguments converge: the [explanatory-gap](/concepts/explanatory-gap/) shows 
 
 ### Bidirectional Interaction and Causal Efficacy
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that P-consciousness is causally efficacious. That we report on phenomenal properties suggests information about consciousness flows into the physical domain. [Epiphenomenalism](/arguments/epiphenomenalism/) faces self-stultification: if phenomenal properties don't affect behavior, beliefs about them are causally disconnected from the properties themselves, undermining those very beliefs.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that P-consciousness is causally efficacious. That we report on phenomenal properties suggests information about consciousness flows into the physical domain. [epiphenomenalism](/concepts/epiphenomenalism/) faces self-stultification: if phenomenal properties don't affect behavior, beliefs about them are causally disconnected from the properties themselves, undermining those very beliefs.
 
 The [argument-from-reason](/topics/argument-from-reason/) provides independent support: only conscious awareness can grasp reasons *as* reasons. Unconscious systems might implement reliable truth-tracking, but genuine rational inference—appreciating *why* conclusions follow—requires phenomenal awareness. P-consciousness is not merely real but causally efficacious in reasoning.
 
-This connects to [free-will](/concepts/free-will/) and [agent-causation](/concepts/agent-causation/): if phenomenal consciousness influences physical outcomes, we are genuine agents, not spectators. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies one possible interface where consciousness might influence quantum indeterminacies without violating conservation laws.
+This connects to [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/): if phenomenal consciousness influences physical outcomes, we are genuine agents, not spectators. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies one possible interface where consciousness might influence quantum indeterminacies without violating conservation laws.
 
 ### Access/Phenomenal Distinction and Dualism
 
@@ -150,7 +150,7 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - What it's like to think
 - [mysterianism](/concepts/mysterianism/) - Cognitive closure and the limits of understanding consciousness
 - [argument-from-reason](/topics/argument-from-reason/) - Why rational inference requires phenomenal consciousness
-- [free-will](/concepts/free-will/) - P-consciousness and genuine agency
+- [free-will](/topics/free-will/) - P-consciousness and genuine agency
 - [agent-causation](/concepts/agent-causation/) - Conscious agents as irreducible causes
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - The tension between objective description and subjective experience
 

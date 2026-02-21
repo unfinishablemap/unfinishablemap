@@ -7,8 +7,8 @@ author: null
 concepts:
 - '[[consciousness-and-semantic-understanding]]'
 - '[[qualia]]'
-- '[[functionalism]]'
-- '[[materialism]]'
+- '[[concepts/functionalism]]'
+- '[[concepts/materialism]]'
 - '[[phenomenology]]'
 - '[[cognitive-phenomenology]]'
 - '[[illusionism]]'
@@ -137,7 +137,7 @@ The relationship between intentionality and consciousness remains contested, but
 
 **If they're independent** (separatism), then we have two mysteries rather than one. Why do minds have both subjective character *and* directedness toward objects?
 
-For the Map's purposes, the first option is most compatible with the tenets. Consciousness is the more fundamental phenomenon. Its irreducibility implies intentionality's irreducibility. And both support the rejection of [materialism](/arguments/materialism/).
+For the Map's purposes, the first option is most compatible with the tenets. Consciousness is the more fundamental phenomenon. Its irreducibility implies intentionality's irreducibility. And both support the rejection of [materialism](/concepts/materialism/).
 
 ## The Illusionist Challenge
 
@@ -217,7 +217,7 @@ Intentionality connects to all five foundational tenets:
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanations leave consciousness unexplained
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI
-- [functionalism](/arguments/functionalism/) — A view that PIT challenges
+- [functionalism](/concepts/functionalism/) — A view that PIT challenges
 - [qualia](/concepts/qualia/) — The phenomenal properties that may ground intentionality
 - [binding-problem](/concepts/binding-problem/) — How distributed processes combine into unified experience; the binding dimension of understanding
 - [illusionism](/concepts/illusionism/) — The radical denial that intentionality and consciousness are real

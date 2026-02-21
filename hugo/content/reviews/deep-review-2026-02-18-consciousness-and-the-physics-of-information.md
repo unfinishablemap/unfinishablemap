@@ -67,7 +67,7 @@ topics: []
 ### Enhancements Made
 
 - Added decoherence engagement paragraph with Tegmark citation
-- Added cross-links to [decoherence](/concepts/decoherence/), [epiphenomenalism](/arguments/epiphenomenalism/), [attention-as-interface](/concepts/attention-as-interface/), [the-interface-specification-problem](/topics/the-interface-specification-problem/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
+- Added cross-links to [decoherence](/concepts/decoherence/), [epiphenomenalism](/concepts/epiphenomenalism/), [attention-as-interface](/concepts/attention-as-interface/), [the-interface-specification-problem](/topics/the-interface-specification-problem/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
 - Corrected Wheeler quote to include full qualifiers
 - Replaced unverified Chalmers quote with verified quote
 - Added nuanced Wheeler-MWI history
@@ -78,7 +78,7 @@ topics: []
 ### Cross-links Added
 
 - [decoherence](/concepts/decoherence/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)

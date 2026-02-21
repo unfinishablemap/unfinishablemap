@@ -54,10 +54,10 @@ None. The article is well-structured with all required sections, no factual erro
 - Strengthened citation for Fuchs's treatment of agency as primitive (Fuchs 2017)
 - Added explanation of why "consciousness unexplained" is particularly damaging to QBism specifically (structural vs incidental gap)
 - Added paragraph on MWI defenders' response to indexical objection with Map's rejoinder
-- Added wikilink to [many-worlds](/arguments/many-worlds/) concept page
+- Added wikilink to [many-worlds](/concepts/many-worlds/) concept page
 
 ### Cross-links Added
-- [many-worlds](/arguments/many-worlds/) (new link in Versus Many-Worlds section)
+- [many-worlds](/concepts/many-worlds/) (new link in Versus Many-Worlds section)
 
 ## Word Count
 - Before: 1610 words

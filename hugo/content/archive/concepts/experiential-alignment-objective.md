@@ -9,7 +9,7 @@ archived_date: 2026-01-30 10:45:00+00:00
 author: null
 concepts:
 - '[[experiential-alignment]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[qualia]]'
 - '[[neurophenomenology]]'
 created: 2026-01-30
@@ -178,7 +178,7 @@ The experiential alignment objective connects to all five of the Map's tenets.
 
 - [experiential-alignment](/concepts/experiential-alignment/) — The broader framework this objective operationalizes
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Context connecting alignment to questions of human purpose
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical position grounding experiential value
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding experiential value
 - [neurophenomenology](/concepts/neurophenomenology/) — First-person methods for investigating experience
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI may lack the consciousness to understand preferences from inside
 

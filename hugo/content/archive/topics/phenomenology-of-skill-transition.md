@@ -46,10 +46,10 @@ superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Skill Transition
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-Anyone who has rebuilt a golf swing, restructured a piano fingering, or shifted from one programming paradigm to another knows a peculiar phenomenological state: the old way no longer works automatically, the new way hasn't yet consolidated, and you occupy an unstable middle ground where performance temporarily degrades. The Unfinishable Map's framework of [skill acquisition](/phenomenology-of-skill-and-the-lived-body/) traces the broad arc from novice to expert. Skill *transition*—the experience of reorganising an already-functioning skill—reveals something different and arguably more significant about consciousness. In transition, the conscious mind must simultaneously dismantle structures it previously built and erect new ones, all while the old automaticity actively resists replacement.
+Anyone who has rebuilt a golf swing, restructured a piano fingering, or shifted from one programming paradigm to another knows a peculiar phenomenological state: the old way no longer works automatically, the new way hasn't yet consolidated, and you occupy an unstable middle ground where performance temporarily degrades. The Unfinishable Map's framework of [skill acquisition](/topics/consciousness-and-skilled-performance/) traces the broad arc from novice to expert. Skill *transition*—the experience of reorganising an already-functioning skill—reveals something different and arguably more significant about consciousness. In transition, the conscious mind must simultaneously dismantle structures it previously built and erect new ones, all while the old automaticity actively resists replacement.
 
 ## The Distinctive Phenomenology of Transition
 
@@ -89,7 +89,7 @@ Skill transition provides unusually clear evidence for the causal efficacy of co
 
 A physicalist might respond that prefrontal executive systems, error-prediction networks, and basal ganglia gating mechanisms provide the physical machinery for goal-directed restructuring. These systems are real and well-documented. But the physicalist account faces a difficulty: procedural memory systems, left to their own dynamics, tend toward stability rather than reorganisation. Executive override is precisely the kind of top-down, evaluative, goal-directed process that the Map identifies as consciousness acting through neural systems. Relabelling it as "merely prefrontal activity" does not explain *why* this particular neural activity has the phenomenal character it does—the felt effort, the experienced temptation to revert, the conscious commitment sustained across weeks of degraded performance.
 
-The decision to restructure originates in conscious evaluation: "This technique limits me. I need to change it." The sustained effort of transition—overriding the old, reinforcing the new, enduring the performance valley—requires ongoing conscious commitment. If consciousness were [epiphenomenal](/arguments/epiphenomenalism/), the transition should not differ whether the person is consciously engaged in restructuring or merely going through the motions. But practitioners consistently report that the quality and focus of conscious attention during practice directly affects the rate of successful restructuring.
+The decision to restructure originates in conscious evaluation: "This technique limits me. I need to change it." The sustained effort of transition—overriding the old, reinforcing the new, enduring the performance valley—requires ongoing conscious commitment. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), the transition should not differ whether the person is consciously engaged in restructuring or merely going through the motions. But practitioners consistently report that the quality and focus of conscious attention during practice directly affects the rate of successful restructuring.
 
 The transition valley itself creates a distinctive challenge for eliminative accounts. Computational systems can accept temporary performance degradation when exploring new strategies—reinforcement learning agents do this routinely. But the human experience of the transition valley involves something these systems lack: a *felt* sacrifice, a conscious weighing of present pain against future competence, and an ongoing temptation to abandon the project that must be actively resisted. The phenomenology of the valley—not just the performance curve—is what demands explanation, and it points toward the kind of [agent causation](/concepts/agent-causation/) the Map's framework describes.
 
@@ -103,7 +103,7 @@ When consolidation succeeds, there is a characteristic moment of recognition: th
 
 ## Relation to Site Perspective
 
-The phenomenology of skill transition aligns with the Map's tenets in ways that go beyond what the general account of [skill acquisition](/phenomenology-of-skill-and-the-lived-body/) reveals.
+The phenomenology of skill transition aligns with the Map's tenets in ways that go beyond what the general account of [skill acquisition](/topics/consciousness-and-skilled-performance/) reveals.
 
 The [bidirectional interaction](/tenets/#bidirectional-interaction) tenet finds strong support in the transition phenomenon. The entire process of restructuring requires consciousness to act against the grain of established physical organisation. The old pattern has momentum—neural pathways consolidated through repetition. Consciousness must exert sustained causal influence to redirect this momentum. If the mind could not causally affect the brain, voluntary skill restructuring would be impossible; the physical system would simply continue executing its entrenched patterns.
 
@@ -115,16 +115,16 @@ The structure of skill transition—resistance, rupture, reorganisation—parall
 
 ## Further Reading
 
-- [phenomenology-of-skill-and-the-lived-body](/phenomenology-of-skill-and-the-lived-body/)
+- [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/)
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [interface-friction](/concepts/interface-friction/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
-- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
+- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 
 ## References
 

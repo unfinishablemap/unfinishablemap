@@ -69,7 +69,7 @@ topics: []
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) (Contemplative Investigation section)
 - [introspection](/concepts/introspection/) (Contemplative Investigation section)
 - [agent-causation](/concepts/agent-causation/) (Further Reading)
-- [consciousness-and-the-problem-of-normative-force](/consciousness-and-the-problem-of-normative-force/) (Further Reading)
+- [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-grounds-of-normative-authority/) (Further Reading)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (Further Reading)
 
 ## Word Count

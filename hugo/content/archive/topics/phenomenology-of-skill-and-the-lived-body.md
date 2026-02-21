@@ -54,7 +54,7 @@ superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Skill, Habit, and the Lived Body
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Learning a skill transforms two things at once: what consciousness does and what the body is. The novice driver who consciously recites "check mirror, signal, shoulder-check" undergoes a cognitive transformation as these steps fuse into automatic competence. But the transformation runs deeper—the driver's felt sense of the car's boundaries, the proprioceptive texture of steering, the body schema itself are all reshaped by practice. The Unfinishable Map argues that skill acquisition provides some of the strongest evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness builds the procedural systems that eventually operate without it, while simultaneously sculpting the bodily interface through which it engages the physical world. The architect designs itself out of the building—but first it redesigns the building.
@@ -79,7 +79,7 @@ As competence develops, this scaffolding is progressively dismantled. Skills tha
 
 The withdrawal of consciousness from skilled performance is not passive. Consciousness *delegates*. There is a phenomenological moment—often repeated many times during learning—where the learner deliberately releases conscious control over a component, trusting the emerging automaticity to handle it. Learning to ride a bicycle involves a moment where you stop thinking about balance and let it happen. This delegation is itself a conscious act, requiring confidence that the procedural system is ready.
 
-The Map interprets this transition as evidence for several commitments. If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition. The causal efficacy of consciousness during learning is difficult to deny: attention shapes what gets encoded, effort determines the quality of encoding, and conscious correction prevents the consolidation of errors.
+The Map interprets this transition as evidence for several commitments. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition. The causal efficacy of consciousness during learning is difficult to deny: attention shapes what gets encoded, effort determines the quality of encoding, and conscious correction prevents the consolidation of errors.
 
 The asymmetry of acquisition and loss reinforces this. Skills are acquired through conscious effort but lost through disuse or injury to procedural systems. Classic amnestic cases demonstrate this starkly—patients with severe hippocampal damage retain motor skills they can no longer remember learning (Milner, 1962). Consciousness is necessary for building but not for maintaining skilled performance. This asymmetry maps onto the distinction between [anoetic and autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—between the bare awareness that accompanies procedural execution and the self-reflective awareness that deliberate learning requires.
 
@@ -121,7 +121,7 @@ Expert performance presents a paradox. The expert is not unconscious during skil
 
 If the skill runs automatically, what is consciousness *doing* during expert performance? The Map suggests consciousness operates at a higher level of the hierarchy—not controlling individual movements but maintaining overall intentional direction, monitoring for anomalies, and remaining ready to intervene. The pianist's consciousness shapes phrasing and expression while leaving finger placement to procedural systems. The surgeon's awareness tracks diagnostic judgment while motor execution proceeds below reflective attention.
 
-The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation. When an expert transitions to a new style, consciousness must re-enter the procedural level, producing the instability described in the [phenomenology of skill transition](/phenomenology-of-skill-transition/). The [flow state](/topics/phenomenology-of-flow-states/) represents the fullest expression of the hierarchical shift—heightened engagement with reduced self-monitoring. The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
+The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation. When an expert transitions to a new style, consciousness must re-enter the procedural level, producing the instability described in the [phenomenology of skill transition](/topics/consciousness-and-skilled-performance/). The [flow state](/topics/phenomenology-of-flow-states/) represents the fullest expression of the hierarchical shift—heightened engagement with reduced self-monitoring. The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
 
 ## What Would Challenge This View?
 
@@ -147,12 +147,12 @@ The strongest physicalist counterargument is that executive attention networks, 
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness disrupts the body it trained
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — The fullest expression of body schema integration
-- [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/) — What happens when established skills must be restructured
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) — The puzzle of consciousness building systems that replace it
+- [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/) — What happens when established skills must be restructured
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) — The puzzle of consciousness building systems that replace it
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The cognitive dimension of effortful learning
-- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) — Meditation as a parallel case of trained skill
+- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) — Meditation as a parallel case of trained skill
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between authored and discovered action
 

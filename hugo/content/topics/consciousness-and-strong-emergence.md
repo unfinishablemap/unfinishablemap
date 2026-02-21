@@ -10,7 +10,7 @@ concepts:
 - '[[downward-causation]]'
 - '[[mental-causation]]'
 - '[[reductionism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[interactionist-dualism]]'
 - '[[qualia]]'
 - '[[phenomenal-unity]]'
@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[emergence-void]]'
 - '[[consciousness-evolution-problem]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
 - '[[mysterianism]]'
@@ -86,7 +86,7 @@ Strong emergence is not merely the claim that consciousness is surprising or com
 
 **Genuine novelty.** Strongly emergent properties introduce something genuinely new into reality — not just new patterns of what already exists. Temperature is a new *description* of molecular motion, but it does not add to the ontological inventory. Consciousness, if strongly emergent, adds qualitative character to a universe that would otherwise contain only structure and dynamics.
 
-**Causal powers.** If consciousness is strongly emergent and causally inert, it becomes [epiphenomenal](/arguments/epiphenomenalism/) — real but impotent, a metaphysical spectator. For strong emergence to matter, the emergent property must exercise [downward-causation](/concepts/downward-causation/) — genuine causal influence on the physical base from which it emerges. The Map's framework requires this: the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet asserts that consciousness causally influences physical outcomes.
+**Causal powers.** If consciousness is strongly emergent and causally inert, it becomes [epiphenomenal](/concepts/epiphenomenalism/) — real but impotent, a metaphysical spectator. For strong emergence to matter, the emergent property must exercise [downward-causation](/concepts/downward-causation/) — genuine causal influence on the physical base from which it emerges. The Map's framework requires this: the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet asserts that consciousness causally influences physical outcomes.
 
 ## The Exclusion Problem and Its Resolution
 
@@ -118,7 +118,7 @@ The Unfinishable Map's framework is a form of strong emergentism with a specifie
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** — Classical British emergentists accepted strong emergence as a brute fact. The Map specifies *where* strong emergence operates: at quantum indeterminacies where physics leaves outcomes undetermined. This transforms strong emergence from a label into a framework with mechanistic specificity.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** — Strong emergence without downward causation produces epiphenomenalism. The Map rejects this: consciousness exercises genuine causal powers through the quantum opening. Strong emergence is consequential, not decorative — it grounds genuine [agency](/concepts/free-will/), where conscious selection among undetermined outcomes provides space for choice that is neither determined nor random.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** — Strong emergence without downward causation produces epiphenomenalism. The Map rejects this: consciousness exercises genuine causal powers through the quantum opening. Strong emergence is consequential, not decorative — it grounds genuine [agency](/topics/free-will/), where conscious selection among undetermined outcomes provides space for choice that is neither determined nor random.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** — The quantum mechanism requires genuine indeterminacy: outcomes that are not merely unknown but ontologically open. Many-worlds interpretations eliminate this indeterminacy by realising all outcomes through branching. If all branches are equally real, consciousness selects nothing — it merely indexes a branch. The fourth tenet ensures the metaphysical precondition for strong emergence with causal powers.
 
@@ -136,7 +136,7 @@ Affirming strong emergence is not the same as explaining it. The Map proposes *w
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument underlying the strong emergence claim
 - [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for consciousness–brain interaction
-- [free-will](/concepts/free-will/) — How strong emergence with causal powers grounds genuine agency
+- [free-will](/topics/free-will/) — How strong emergence with causal powers grounds genuine agency
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure thesis: why strong emergence may resist comprehension
 - [reductionism](/concepts/reductionism/) — The three types and why consciousness resists each
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's framework as strong emergentism with mechanism

@@ -10,7 +10,7 @@ concepts:
 - '[[duration]]'
 - '[[collapse-and-time]]'
 - '[[process-philosophy]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[specious-present]]'
 - '[[illusionism]]'
 created: 2026-02-21
@@ -33,7 +33,7 @@ related_articles:
 title: Temporal Ontology and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The Unfinishable Map argues that positions on time and positions on consciousness are not independent. Choosing eternalism pushes toward functionalism or illusionism about temporal experience. Choosing presentism struggles to accommodate consciousness's causal role. The growing block—where past and present exist but the future does not—turns out to be the temporal ontology most naturally paired with dualist interactionism. These pairings are not accidental. The metaphysics of time constrains what consciousness can be, and what consciousness turns out to be constrains which temporal ontology is viable. They form package deals, and recognising this narrows the philosophical landscape considerably.
@@ -52,9 +52,9 @@ Eternalism is the default assumption in modern physics. Relativity treats time a
 
 If all times are equally real, temporal flow is illusory. The experience of "now" moving from past to future is a subjective overlay on a static four-dimensional structure. This forces a choice. Either consciousness is a real feature of the block—in which case, why does it systematically misrepresent reality by producing an illusion of flow? Or temporal experience accurately tracks something real—in which case, eternalism is incomplete.
 
-The natural pairing is eternalism with [functionalism](/arguments/functionalism/) or [illusionism](/concepts/illusionism/). If consciousness is functional—if what matters is the computational pattern, not the substrate—then temporal experience is whatever the neural/computational pattern produces, and its accuracy about time's nature is irrelevant. Illusionism goes further: the seeming of temporal flow is a representational artefact, and there is nothing it is like beyond the functional state that misrepresents stasis as passage.
+The natural pairing is eternalism with [functionalism](/concepts/functionalism/) or [illusionism](/concepts/illusionism/). If consciousness is functional—if what matters is the computational pattern, not the substrate—then temporal experience is whatever the neural/computational pattern produces, and its accuracy about time's nature is irrelevant. Illusionism goes further: the seeming of temporal flow is a representational artefact, and there is nothing it is like beyond the functional state that misrepresents stasis as passage.
 
-This pairing is coherent but costly. The cost is Bergson's [durée](/duration/)—the qualitative, interpenetrating, irreducible flow of lived time. If temporal experience is illusory or merely functional, durée is an error. The melody you hear as unified flow is really a sequence of discrete states, each statically existing at its spacetime location, with "flow" injected by the brain's representational machinery. Every moment of experienced passage is a kind of mistake.
+This pairing is coherent but costly. The cost is Bergson's [durée](/concepts/temporal-consciousness/)—the qualitative, interpenetrating, irreducible flow of lived time. If temporal experience is illusory or merely functional, durée is an error. The melody you hear as unified flow is really a sequence of discrete states, each statically existing at its spacetime location, with "flow" injected by the brain's representational machinery. Every moment of experienced passage is a kind of mistake.
 
 The Map regards this cost as too high. Temporal phenomenology is among the most robust features of conscious experience. Building a metaphysics that begins by declaring this phenomenology illusory is like building an epistemology that begins by declaring perception unreliable—technically possible, but it undermines the evidence base for the theory itself.
 
@@ -64,7 +64,7 @@ Presentism takes temporal experience at face value: only the present is real, an
 
 If only the present exists, causation becomes puzzling. Causes precede effects, but on strict presentism the cause no longer exists when the effect occurs. The past exerts no influence because it isn't there. This is already problematic for physics, but it's devastating for consciousness.
 
-Conscious experience depends on temporal integration. The [specious present](/specious-present/)—the experienced duration within which we hear melodies and understand sentences—requires the just-past to be retained within the present. Husserl's retention structure preserves the past note while the current note sounds. But if the past literally doesn't exist, what is being retained? Retention becomes a representation of nothing.
+Conscious experience depends on temporal integration. The [specious present](/concepts/temporal-consciousness/)—the experienced duration within which we hear melodies and understand sentences—requires the just-past to be retained within the present. Husserl's retention structure preserves the past note while the current note sounds. But if the past literally doesn't exist, what is being retained? Retention becomes a representation of nothing.
 
 Presentism pairs naturally with epiphenomenalism or with views that treat consciousness as present-moment awareness without causal depth. If consciousness is exhausted by the instantaneous present, its temporal richness must be reconstructive—memory representations masquerading as retained experience. The past note isn't echoing in the present; the brain is creating a present-moment representation *as if* it were echoing. This collapses the distinction between genuine temporal experience and a snapshot that contains the illusion of duration.
 

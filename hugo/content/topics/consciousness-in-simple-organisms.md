@@ -87,7 +87,7 @@ The freshwater Hydra possesses approximately 900 neurons arranged in a decentral
 
 What Hydra reveals is startling: nerve-free Hydra can survive indefinitely (when force-fed) but lose prey detection and feeding behavior. The nervous system appears to enable specific behaviors rather than create some general capacity for experience. Hydra shows habituation and sensitisation but no published evidence of associative learning.
 
-The Hydra case challenges assumptions that consciousness requires centralized processing. If subjective experience arises from neural activity, must it be unified? Or could experience be as distributed as Hydra's nerve net—multiple micro-experiences without [phenomenal unity](/phenomenal-unity/)?
+The Hydra case challenges assumptions that consciousness requires centralized processing. If subjective experience arises from neural activity, must it be unified? Or could experience be as distributed as Hydra's nerve net—multiple micro-experiences without [phenomenal unity](/concepts/phenomenal-binding-and-holism/)?
 
 ### Slime Molds: Cognition Without Neurons
 
@@ -119,7 +119,7 @@ If baseline cognition marks what neural systems achieve without consciousness, a
 
 ## The Three-Level Metarepresentational Framework
 
-The [metarepresentation literature](/metarepresentation/) distinguishes three nested levels of representation:
+The [metarepresentation literature](/concepts/metacognition/) distinguishes three nested levels of representation:
 
 1. **First-order representation**: Representing the world (e.g., knowing there's food nearby)
 2. **Second-order representation**: Representing your first-order representations (e.g., uncertainty monitoring, strategic information-seeking)
@@ -239,7 +239,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 
 ### Core Concepts
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness and why great apes mark the boundary
-- [metarepresentation](/metarepresentation/) — Why representing representations may require consciousness
+- [metarepresentation](/concepts/metacognition/) — Why representing representations may require consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?
 - [animal-consciousness](/topics/animal-consciousness/) — Survey of consciousness across species

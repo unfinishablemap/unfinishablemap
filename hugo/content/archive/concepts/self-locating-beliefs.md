@@ -10,7 +10,7 @@ author: null
 concepts:
 - '[[indexical-facts]]'
 - '[[haecceity]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 created: 2026-02-01
 date: &id001 2026-02-01
 description: Beliefs about where and who you are in the world, distinct from beliefs
@@ -31,7 +31,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Self-locating beliefs are beliefs about where or who you are in the world, as opposed to beliefs about what the world is like. You can know every impersonal fact about the universe—every particle's position, every causal relation, every event's timing—and still lack self-locating knowledge. This raises a crucial question: does self-locating knowledge merely represent ordinary facts in a special way, or does it track genuinely irreducible [indexical facts](/indexical-facts/)? The answer matters for consciousness: if indexical facts are ontologically real—not just a mode of knowing impersonal facts—then reality includes more than third-person description can capture.
+Self-locating beliefs are beliefs about where or who you are in the world, as opposed to beliefs about what the world is like. You can know every impersonal fact about the universe—every particle's position, every causal relation, every event's timing—and still lack self-locating knowledge. This raises a crucial question: does self-locating knowledge merely represent ordinary facts in a special way, or does it track genuinely irreducible [indexical facts](/concepts/indexical-knowledge-and-identity/)? The answer matters for consciousness: if indexical facts are ontologically real—not just a mode of knowing impersonal facts—then reality includes more than third-person description can capture.
 
 ## The Distinction
 
@@ -73,7 +73,7 @@ These arguments don't constitute proof, but they provide prima facie reasons to 
 
 ## Relation to Indexical Facts
 
-Self-locating beliefs express [indexical-facts](/indexical-facts/)—facts that can only be stated using indexicals. Given the arguments above, the Map treats these as genuine features of reality, not merely representational conveniences.
+Self-locating beliefs express [indexical-facts](/concepts/indexical-knowledge-and-identity/)—facts that can only be stated using indexicals. Given the arguments above, the Map treats these as genuine features of reality, not merely representational conveniences.
 
 Christian List argues that irreducible indexical facts provide evidence against "third-personal metaphysics"—any picture that treats reality as fully describable without indexicals. If physics describes the universe in context-free terms, yet self-locating knowledge adds something physics doesn't contain, then physics is incomplete—not merely incomplete as a description, but incomplete as an account of what exists.
 
@@ -95,7 +95,7 @@ Whether self-locating uncertainty behaves like ordinary uncertainty—whether it
 
 ## Self-Location and Many-Worlds
 
-The [many-worlds](/arguments/many-worlds/) interpretation makes all quantum outcomes equally real—when a measurement occurs, the universe branches into all possibilities. This creates a problem for self-locating beliefs.
+The [many-worlds](/concepts/many-worlds/) interpretation makes all quantum outcomes equally real—when a measurement occurs, the universe branches into all possibilities. This creates a problem for self-locating beliefs.
 
 Before measurement, there is one you. After branching, there are multiple successors in different branches. Everettians propose that your pre-measurement uncertainty about which outcome you'll see is "self-locating uncertainty"—uncertainty about which branch you're in, analogous to Beauty's uncertainty about which awakening she's experiencing. Wallace, Saunders, and Sebens and Carroll have developed sophisticated accounts along these lines.
 
@@ -153,10 +153,10 @@ Self-locating beliefs connect to several of the Map's [tenets](/tenets/). The co
 
 ## Further Reading
 
-- [indexical-facts](/indexical-facts/) — The broader category of facts that require indexicals to state
+- [indexical-facts](/concepts/indexical-knowledge-and-identity/) — The broader category of facts that require indexicals to state
 - [haecceity](/concepts/haecceity/) — Primitive thisness grounding numerical identity
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I this conscious being?
-- [many-worlds](/arguments/many-worlds/) — Why self-location poses problems for branching interpretations
+- [many-worlds](/concepts/many-worlds/) — Why self-location poses problems for branching interpretations
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 
 ## References

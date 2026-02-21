@@ -44,7 +44,7 @@ topics:
 
 Consciousness faces two integration challenges that are often conflated but are structurally distinct. The Unfinishable Map's treatment of the [binding-problem](/concepts/binding-problem/) examines the first: how features distributed across brain regions unite into a single experience at a given moment. This article examines the second: how consciousness binds moments themselves into a unified temporal stream. Spatial binding asks why you experience a red ball rather than separate redness and roundness. Temporal integration asks why you experience a melody rather than isolated notes—why experience flows rather than stuttering through disconnected instants.
 
-Temporal integration is arguably the deeper problem. A system that solved spatial binding without temporal integration would produce isolated snapshots of unified experience—vivid but unconnected, like photographs without a narrative. What makes consciousness a *stream* rather than a slideshow is temporal integration: each moment inherits from its predecessors and anticipates its successors, constituting the [continuity](/phenomenal-unity/) that makes experience coherent.
+Temporal integration is arguably the deeper problem. A system that solved spatial binding without temporal integration would produce isolated snapshots of unified experience—vivid but unconnected, like photographs without a narrative. What makes consciousness a *stream* rather than a slideshow is temporal integration: each moment inherits from its predecessors and anticipates its successors, constituting the [continuity](/concepts/phenomenal-binding-and-holism/) that makes experience coherent.
 
 ## The Distinction from Spatial Binding
 
@@ -52,7 +52,7 @@ The [binding problem](/concepts/binding-problem/) in its standard formulation co
 
 The difference is structural. Spatial binding concerns simultaneous features: redness and roundness co-present in the same experiential moment. Temporal integration concerns successive moments: the note just heard and the note now sounding held together in a single awareness. Spatial binding operates within the boundaries of a moment; temporal integration constitutes those boundaries—it determines what counts as "a moment" in the first place.
 
-This distinction maps onto the [specious-present](/specious-present/). The specious present isn't a durationless instant but a window (~100ms to 3 seconds) within which succession appears unified. Something must *make* this window—must determine that events within it belong together while events outside it are merely remembered. That something is temporal integration.
+This distinction maps onto the [specious-present](/concepts/temporal-consciousness/). The specious present isn't a durationless instant but a window (~100ms to 3 seconds) within which succession appears unified. Something must *make* this window—must determine that events within it belong together while events outside it are merely remembered. That something is temporal integration.
 
 ## Three Levels of Temporal Integration
 
@@ -72,7 +72,7 @@ Extensionalists model this as overlapping duration-blocks: "if the present thoug
 
 ### Macro-Integration: The Temporal Self
 
-At the broadest scale, [autonoetic-consciousness](/autonoetic-consciousness/) integrates experience across a lifetime. When you remember your childhood, you don't merely access stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject who lived through that event. This temporal self-continuity requires more than data persistence. It requires a subject who persists across time and recognises earlier experiences as *theirs*.
+At the broadest scale, [autonoetic-consciousness](/concepts/episodic-memory/) integrates experience across a lifetime. When you remember your childhood, you don't merely access stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject who lived through that event. This temporal self-continuity requires more than data persistence. It requires a subject who persists across time and recognises earlier experiences as *theirs*.
 
 This is where temporal integration connects to [personal-identity](/topics/personal-identity/). The narrative self—the sense that your experiences form a coherent life story—depends on macro-integration. Without it, you would have experience but not autobiography.
 
@@ -149,11 +149,11 @@ Temporal integration connects to the Map's [tenets](/tenets/) through a distinct
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Comprehensive treatment of time and consciousness
 - [binding-problem](/concepts/binding-problem/) — The spatial/feature binding problem
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding, specious present, and AI implications
-- [specious-present](/specious-present/) — The experienced duration of the present moment
-- [duration](/duration/) — Bergson's durée and qualitative lived time
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
+- [duration](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Time, collapse, and conscious agency
-- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel and the temporal self
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem of experiential unity
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's processual metaphysics
 

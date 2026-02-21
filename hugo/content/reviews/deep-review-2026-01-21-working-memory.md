@@ -55,7 +55,7 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
-- [metarepresentation](/metarepresentation/)
+- [metarepresentation](/concepts/metacognition/)
 - [illusionism](/concepts/illusionism/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 

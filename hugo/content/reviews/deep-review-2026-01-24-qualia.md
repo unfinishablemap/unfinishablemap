@@ -30,7 +30,7 @@ topics: []
 - **Jackson's later retraction unmentioned**: Added note that Jackson recanted though the Map maintains the argument succeeds
 - **Unsourced claim (82% statistic)**: Softened to "surveys suggest most non-philosophers agree"
 - **Missing cross-link to [buddhism-and-dualism](/concepts/buddhism-and-dualism/)**: Added as new challenge condition and in Further Reading
-- **Missing cross-link to [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)**: Added in Further Reading
+- **Missing cross-link to [mysterianism-cognitive-closure](/concepts/mysterianism/)**: Added in Further Reading
 
 ### Counterarguments Considered
 - Eliminative materialist challenge to qualia's existence: Already addressed in illusionism section
@@ -56,7 +56,7 @@ topics: []
 - [access-consciousness](/concepts/access-consciousness/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [baseline-cognition](/concepts/baseline-cognition/)
-- [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
+- [mysterianism-cognitive-closure](/concepts/mysterianism/)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 
 ## Remaining Items

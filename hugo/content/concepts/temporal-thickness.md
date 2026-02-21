@@ -38,11 +38,11 @@ related_articles:
 title: Temporal Thickness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[authentic-vs-inauthentic-choice]]'
 ---
 
-Temporal thickness is The Unfinishable Map's term for the qualitative depth of experienced moments — the difference between a present that feels thin and reactive and one that feels dense with meaning, layered with retention and anticipation. The concept synthesises insights from Husserl's retention/protention analysis and Bergson's [durée](/duration/) into a single measure: how much phenomenal density a given moment carries. The Map uses temporal thickness across its treatment of consciousness, choice, and temporal phenomenology because it captures something the [specious-present](/specious-present/) alone does not: moments have not just duration but *density*, and this density varies with attention, engagement, and the kind of consciousness at work.
+Temporal thickness is The Unfinishable Map's term for the qualitative depth of experienced moments — the difference between a present that feels thin and reactive and one that feels dense with meaning, layered with retention and anticipation. The concept synthesises insights from Husserl's retention/protention analysis and Bergson's [durée](/concepts/temporal-consciousness/) into a single measure: how much phenomenal density a given moment carries. The Map uses temporal thickness across its treatment of consciousness, choice, and temporal phenomenology because it captures something the [specious-present](/concepts/temporal-consciousness/) alone does not: moments have not just duration but *density*, and this density varies with attention, engagement, and the kind of consciousness at work.
 
 When you make a difficult decision that draws on years of accumulated experience, the present moment feels thick — saturated with significance, resonant with your past, reaching toward possible futures. When you tap your phone screen out of habit, the present feels thin — compressed, automatic, barely there. Both moments occupy roughly the same clock time. Their temporal thickness differs enormously.
 
@@ -58,7 +58,7 @@ This divergence is not merely a matter of "paying more attention." It reflects d
 - **Protentional reach**: How far anticipated futures extend into and shape the now
 - **Interpenetration**: The degree to which past, present, and future permeate each other rather than standing as discrete phases
 
-Bergson's [duration](/duration/) captures this interpenetration — mental states that don't sit beside each other like objects in space but flow into and through one another. Temporal thickness measures how fully this interpenetration is realised in any given moment.
+Bergson's [duration](/concepts/temporal-consciousness/) captures this interpenetration — mental states that don't sit beside each other like objects in space but flow into and through one another. Temporal thickness measures how fully this interpenetration is realised in any given moment.
 
 ## Husserl's Layers
 
@@ -78,7 +78,7 @@ The concept does significant work in the Map's treatment of [authentic versus in
 
 Inauthentic choice lacks temporal thickness. It responds to immediate pressures without drawing on the depth of accumulated experience. The choice is reactive rather than expressive — present-moment compression where the temporal horizons collapse to near-zero.
 
-This distinction matters for [free-will](/concepts/free-will/). If freedom requires that your choices emerge from who you genuinely are — your accumulated experience, your deepest commitments — then temporally thin choices may not be fully free even if they are undetermined. Randomness at a temporally thin moment is mere noise. Indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
+This distinction matters for [free-will](/topics/free-will/). If freedom requires that your choices emerge from who you genuinely are — your accumulated experience, your deepest commitments — then temporally thin choices may not be fully free even if they are undetermined. Randomness at a temporally thin moment is mere noise. Indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
 
 ## Contemplative Evidence
 
@@ -96,7 +96,7 @@ Whitehead's [process-philosophy](/concepts/process-philosophy/) offers a complem
 
 ## Neural Correlates
 
-[Working memory](/concepts/working-memory/) provides a candidate neural correlate. The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2024), which the Map's research connects to [coupling constraints](/psychophysical-coupling/), may set the maximum temporal thickness available at any moment. If temporal thickness measures how much of consciousness's finite bandwidth is deployed within a moment, thick moments are those where consciousness invests its full capacity — and the bandwidth ceiling explains why deepening retention requires narrowing protention, or vice versa.
+[Working memory](/concepts/working-memory/) provides a candidate neural correlate. The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2024), which the Map's research connects to [coupling constraints](/concepts/psychophysical-laws/), may set the maximum temporal thickness available at any moment. If temporal thickness measures how much of consciousness's finite bandwidth is deployed within a moment, thick moments are those where consciousness invests its full capacity — and the bandwidth ceiling explains why deepening retention requires narrowing protention, or vice versa.
 
 Gamma-band oscillations (30-100 Hz) correlate with temporal binding and conscious processing (Engel et al., 2001). Higher gamma power and wider coherence may correspond to thicker temporal experience — more elements held together in the experienced present. The multi-scale hierarchy of temporal processing — different oscillatory mechanisms for sub-second versus supra-second timescales — suggests temporal thickness is implemented through nested structures, with faster oscillations binding elements within a moment and slower rhythms organising moments into sequences. These remain correlates, not explanations: the Map holds that no oscillatory account explains *why* a given configuration feels dense rather than hollow.
 
@@ -122,8 +122,8 @@ Temporal thickness connects to the Map's [tenets](/tenets/) at several points.
 
 ## Further Reading
 
-- [specious-present](/specious-present/) — The duration of the experienced present
-- [duration](/duration/) — Bergson's concept of qualitative lived time
+- [specious-present](/concepts/temporal-consciousness/) — The duration of the experienced present
+- [duration](/concepts/temporal-consciousness/) — Bergson's concept of qualitative lived time
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — How self-referential thinking creates temporal depth
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice

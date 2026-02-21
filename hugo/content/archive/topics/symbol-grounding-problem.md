@@ -10,7 +10,7 @@ author: null
 concepts:
 - '[[phenomenal-intentionality]]'
 - '[[intentionality]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[qualia]]'
 - '[[working-memory]]'
 created: 2026-02-02
@@ -73,7 +73,7 @@ Yet embodiment faces a crucial objection: grounding may be necessary but insuffi
 
 Harnad himself notes the distinction: "Grounding is a functional matter; feeling is a felt matter." A system might respond differentially to apples, adjust its behaviour based on apple-presence, update its apple-beliefs—all without understanding anything about apples. The functional grounding creates appropriate causal relations without generating the phenomenal dimension of understanding.
 
-This echoes the broader point against [functionalism](/arguments/functionalism/): functional organisation may be necessary for mind but cannot be sufficient. The same functional relations could be implemented without any accompanying experience. A system functionally identical to a human apple-understander might lack anything it's like to understand "apple."
+This echoes the broader point against [functionalism](/concepts/functionalism/): functional organisation may be necessary for mind but cannot be sufficient. The same functional relations could be implemented without any accompanying experience. A system functionally identical to a human apple-understander might lack anything it's like to understand "apple."
 
 ## The Hard Grounding Problem
 
@@ -125,9 +125,9 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 ## Further Reading
 
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — The thesis that original intentionality requires phenomenal consciousness
-- [meaning-and-consciousness](/meaning-and-consciousness/) — The phenomenal constitution of semantic content
+- [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) — The phenomenal constitution of semantic content
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states
-- [functionalism](/arguments/functionalism/) — Why functional organisation is insufficient for mind
+- [functionalism](/concepts/functionalism/) — Why functional organisation is insufficient for mind
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can have genuine understanding
 - [machine-consciousness](/topics/machine-consciousness/) — The broader question of machine minds
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The fundamental challenge the grounding problem parallels

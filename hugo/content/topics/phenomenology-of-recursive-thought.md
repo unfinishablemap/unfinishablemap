@@ -99,7 +99,7 @@ Philosophers like Galen Strawson and David Pitt argue for proprietary cognitive 
 
 But the phenomenology of recursive thought suggests HOT has the relationship backwards. The experience of thinking about thinking feels like an *addition* to ordinary consciousness, not its constitution. When I think about the tree, the experience is already conscious without my having a thought about that thought. Adding the meta-level creates a richer, more complex experience—but the original experience was conscious already.
 
-The [metarepresentation](/metarepresentation/) literature distinguishes functional meta-states (adjusting confidence, monitoring uncertainty) from genuine metarepresentation (representing representations *as* representations). Great apes show the former without clear evidence of the latter. This suggests recursive self-awareness is a *development* of consciousness, not its foundation.
+The [metarepresentation](/concepts/metacognition/) literature distinguishes functional meta-states (adjusting confidence, monitoring uncertainty) from genuine metarepresentation (representing representations *as* representations). Great apes show the former without clear evidence of the latter. This suggests recursive self-awareness is a *development* of consciousness, not its foundation.
 
 ## The Regress and Its Resolution
 
@@ -147,7 +147,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the observer cannot observe itself observing
 - [metacognition](/concepts/metacognition/) — The cognitive capacity distinct from phenomenal recursion
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
-- [metarepresentation](/metarepresentation/) — Representing representations as representations
+- [metarepresentation](/concepts/metacognition/) — Representing representations as representations
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that make recursion central to consciousness
 - [introspection](/concepts/introspection/) — The reliability and limits of self-examination
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative phenomenology of observing without identification

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [Contemplative Training and Phenomenal Access](/contemplative-training-and-phenomenal-access/)
+**Article**: [Contemplative Training and Phenomenal Access](/topics/contemplative-evidence-for-consciousness-theories/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -58,7 +58,7 @@ topics: []
 
 - Added knowledge argument connection in anti-reductive section (each training stage reveals phenomenal facts not predictable from neural description)
 - Added [explanatory-gap](/concepts/explanatory-gap/) link in anti-reductive section
-- Added [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) to Further Reading and related_articles
+- Added [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) to Further Reading and related_articles
 - Added [temporal-consciousness](/concepts/temporal-consciousness/) and [explanatory-gap](/concepts/explanatory-gap/) to frontmatter concepts
 - Strengthened anti-illusionism by addressing materialist self-monitoring objection
 
@@ -67,7 +67,7 @@ topics: []
 - [explanatory-gap](/concepts/explanatory-gap/) (body text and frontmatter)
 - [knowledge-argument](/concepts/knowledge-argument/) (body text)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (frontmatter)
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) (Further Reading and frontmatter)
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) (Further Reading and frontmatter)
 
 ## Remaining Items
 

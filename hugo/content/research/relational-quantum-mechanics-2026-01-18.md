@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[measurement-problem]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[locality]]'
 created: 2026-01-18
 date: &id001 2026-01-18
@@ -180,7 +180,7 @@ Multiple independent perspectives can coexist:
 - **Problem**: Explicitly removes consciousness's special role—contradicts site tenets
 
 ### Option 3: Interface Locality (Potential Site Position)
-The Map's [interface-locality](/interface-locality/) concept may help:
+The Map's [interface-locality](/concepts/brain-interface-boundary/) concept may help:
 - Each consciousness interfaces only with "its" brain
 - Collapses are local to specific neural systems
 - No mind can affect distant systems without physical mediation

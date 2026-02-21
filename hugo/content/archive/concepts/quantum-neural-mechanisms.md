@@ -20,7 +20,7 @@ concepts:
 - '[[illusionism]]'
 - '[[mysterianism]]'
 - '[[spontaneous-collapse-theories]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[argument-from-reason]]'
 - '[[explanatory-gap]]'
@@ -289,12 +289,12 @@ The Unfinishable Map's interest in quantum neural mechanisms connects to all fiv
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
-- [voluntary-attention](/voluntary-attention/) — The 300ms window for conscious attention deployment
+- [voluntary-attention](/concepts/attention-as-interface/) — The 300ms window for conscious attention deployment
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The causal efficacy of consciousness
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and objective collapse as consciousness-independent baseline
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness may be illusory
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and limits of human understanding
-- [free-will](/concepts/free-will/) — How quantum indeterminacy relates to libertarian free will
+- [free-will](/topics/free-will/) — How quantum indeterminacy relates to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — Consciousness as cause at the quantum level
 
 ## References

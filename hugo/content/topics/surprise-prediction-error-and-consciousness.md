@@ -9,7 +9,7 @@ coalesced_from:
 - /topics/phenomenology-of-surprise-and-prediction-error/
 concepts:
 - '[[predictive-processing]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[consciousness-as-amplifier]]'
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
@@ -125,7 +125,7 @@ The threshold between unconscious error correction and conscious surprise marks 
 
 ## Surprise and the Case Against Epiphenomenalism
 
-Surprise provides evidence against [epiphenomenalism](/arguments/epiphenomenalism/)—the view that consciousness observes but does not influence physical processes.
+Surprise provides evidence against [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness observes but does not influence physical processes.
 
 If the felt quality of surprise is epiphenomenal, the qualitative jolt does no causal work. The prediction error handles model updating; the somatic startle is a reflex; the attentional reorientation is explained by precision weighting. The phenomenal character is, on this view, along for the ride.
 
@@ -174,7 +174,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention and the forward-directed structure of experience
 - [predictive-processing](/concepts/predictive-processing/) — The computational framework and its limits
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive function
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness does not cause anything
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness does not cause anything
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Another case against epiphenomenalism
 - [surprise-and-creativity](/topics/surprise-and-creativity/) — Creative insight and the encounter with genuine novelty

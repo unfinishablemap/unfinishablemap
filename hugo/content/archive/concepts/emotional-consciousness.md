@@ -10,9 +10,9 @@ author: null
 concepts:
 - '[[minimal-consciousness]]'
 - '[[qualia]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[higher-order-theories]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[self-and-consciousness]]'
 - '[[agent-causation]]'
 created: 2026-01-19
@@ -36,7 +36,7 @@ topics:
 
 Emotional consciousness is the felt quality of emotions—the way fear *feels* fearful, joy *feels* joyful, suffering *feels* bad. The central philosophical question is whether emotions require phenomenal consciousness or whether they are merely functional states that could exist without experience. If the felt quality of emotion is intrinsic and irreducible, the hard problem extends to affective experience. If emotions can be fully characterised functionally, the physicalist program succeeds for at least this domain.
 
-This page argues that the felt quality of emotion—particularly its [valence](//#valence), the positive or negative character—is an intrinsic phenomenal property that cannot be reduced to functional or representational descriptions. Emotional consciousness presents the hard problem in its sharpest form: not just "why is there something it's like to see red?" but "why does pain *feel bad*?"
+This page argues that the felt quality of emotion—particularly its [valence](#valence), the positive or negative character—is an intrinsic phenomenal property that cannot be reduced to functional or representational descriptions. Emotional consciousness presents the hard problem in its sharpest form: not just "why is there something it's like to see red?" but "why does pain *feel bad*?"
 
 ## Valence: The Core Phenomenon {#valence}
 
@@ -118,7 +118,7 @@ Chalmers' "philosophical Vulcan" thought experiment tests the distinction: imagi
 
 Valence sentientists say no: without the capacity for suffering, there's nothing to protect and no interests to consider. Broad sentientists say yes: the mere fact of experience creates moral significance, even absent pleasure or pain.
 
-The Map's [phenomenal-value-realism](/concepts/phenomenal-value-realism/) aligns with valence sentientism while extending it: not just valenced experience, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of conscious experience. There is no value outside of consciousness.
+The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) aligns with valence sentientism while extending it: not just valenced experience, but multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value. All, however, are features of conscious experience. There is no value outside of consciousness.
 
 ### Simple Organisms and Valence
 
@@ -152,11 +152,11 @@ This connects to [attention-as-interface](/concepts/attention-as-interface/) and
 
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
 - [qualia](/concepts/qualia/) — The broader category of phenomenal properties, of which valence is a key instance
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical view that value is grounded in conscious experience
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical view that value is grounded in conscious experience
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Why consciousness grounds moral consideration
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal influence through valenced assessment
 - [higher-order-theories](/concepts/higher-order-theories/) — The view that conscious emotions require higher-order representation
-- [functionalism](/arguments/functionalism/) — The view that mental states are functional roles, challenged by affective qualia
+- [functionalism](/concepts/functionalism/) — The view that mental states are functional roles, challenged by affective qualia
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention operates as the consciousness-brain interface
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader explanatory gap that emotional consciousness exemplifies
 

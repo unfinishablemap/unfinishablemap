@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Free Will and Determinism](/concepts/free-will/)
+**Article**: [Free Will and Determinism](/topics/free-will/)
 **Previous review**: [2026-01-28](/reviews/deep-review-2026-01-28-free-will/)
 **Cross-review context**: counterfactual-reasoning.md
 

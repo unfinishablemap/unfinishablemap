@@ -30,7 +30,7 @@ topics: []
 - [Vague IIT attribution]: "Some researchers" claimed group-Φ without citation. Resolution: attributed to Megan Peters and colleagues, added speculative qualifier.
 - [Quantum skeptic counter unaddressed]: The success of classical collective intelligence could be read as evidence against quantum consciousness necessity. Resolution: added "The classical success objection" paragraph addressing this directly.
 - [Comprehension vs processing asserted not argued]: The asymmetry section's key distinction was stated without justification. Resolution: expanded with concrete example (ant colony can't evaluate its own solutions) to ground the claim.
-- [Broken concept link]: `[strong-emergence](/strong-emergence/)` had no corresponding file. Resolution: replaced with `[consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/)` which exists.
+- [Broken concept link]: `[consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/)` had no corresponding file. Resolution: replaced with `[consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/)` which exists.
 
 ### Counterarguments Considered
 - Eliminative materialist: "mechanistic vs conscious" framing begs the question — acknowledged as warranted by Map's commitments, not a flaw.

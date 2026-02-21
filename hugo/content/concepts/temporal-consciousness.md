@@ -11,7 +11,7 @@ coalesced_from:
 - /concepts/temporal-unity/
 concepts:
 - '[[qualia]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[quantum-consciousness]]'
 - '[[collapse-and-time]]'
 - '[[phenomenology]]'
@@ -35,7 +35,7 @@ concepts:
 - '[[introspection]]'
 - '[[haecceity]]'
 - '[[decoherence]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[mental-effort]]'
 - '[[combination-problem]]'
 - '[[unity-of-consciousness]]'
@@ -67,7 +67,7 @@ title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a duration of roughly 100 milliseconds to 3 seconds within which succession, change, and persistence appear as unified wholes. Henri Bergson named this qualitative flow *durée*—lived time fundamentally different from the spatialized time of physics. [William James](/topics/william-james-consciousness/) wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future.
@@ -108,7 +108,7 @@ A musical phrase exemplifies this. Each note is heard *in light of* what came be
 
 ### Duration and Free Will
 
-Bergson connected durée directly to [free will](/concepts/free-will/) in *Time and Free Will* (1889). Determinism assumes mental states are discrete, separable, and subject to causal law. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment as an indivisible movement.
+Bergson connected durée directly to [free will](/topics/free-will/) in *Time and Free Will* (1889). Determinism assumes mental states are discrete, separable, and subject to causal law. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment as an indivisible movement.
 
 A free act, for Bergson, emerges from the whole self—from the full depth of one's duration. This connects to the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: the creative novelty Bergson attributes to duration is the opening where consciousness exercises causal power.
 
@@ -134,13 +134,13 @@ A tension remains: Buddhist traditions that report these phenomenological findin
 
 Working memory provides a promising neural correlate. The 100ms-5s "experienced moment" corresponds well to working memory maintenance capacity. Baddeley's episodic buffer—storing integrated multimodal representations "accessed by conscious awareness"—performs binding across modalities and time. What does the binding? If consciousness participates constitutively (as the [binding problem](/concepts/binding-problem/) analysis suggests), the episodic buffer may be where this participation is observable.
 
-The ~10 bits/second limit on conscious throughput noted in the Map's [coupling law research](/psychophysical-coupling-law/) matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth.
+The ~10 bits/second limit on conscious throughput noted in the Map's [coupling law research](/concepts/psychophysical-coupling/) matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth.
 
 The specious present may be what working memory *feels like from inside*.
 
 ## Mental Time Travel and the Extended Self
 
-[Autonoetic consciousness](/autonoetic-consciousness/) extends temporal phenomenology beyond the specious present across the lifespan. When you remember your wedding, you don't merely access information—you *inhabit* it from a first-person perspective, simultaneously here-now-remembering and there-then-experiencing.
+[Autonoetic consciousness](/concepts/episodic-memory/) extends temporal phenomenology beyond the specious present across the lifespan. When you remember your wedding, you don't merely access information—you *inhabit* it from a first-person perspective, simultaneously here-now-remembering and there-then-experiencing.
 
 This inhabitation is asymmetric. Memory carries a "feeling of pastness"—a genuine temporal quale marking the event as having-happened. Future simulation lacks equivalent phenomenal weight. This [asymmetry](/voids/temporal-asymmetry-remembering-anticipating/) may be conceptually necessary: pre-experience would require the pastness quale applied to something that hasn't happened—a category error.
 
@@ -172,7 +172,7 @@ This binding problem is where artificial systems fail. An AI that processes toke
 
 Temporal unity—the phenomenal binding of successive moments into a continuous stream—is what makes experience *flow* rather than arriving as disconnected snapshots. It is the diachronic dimension of the [unity of consciousness](/concepts/unity-of-consciousness/), distinct from synchronic unity (binding features within a moment) and subject unity (establishing who experiences). While the specious present establishes the window within which temporal unity operates, temporal unity names the property that makes succession experienced rather than merely sequential.
 
-Temporal unity operates at multiple scales. The Map's treatment of [temporal integration](/topics/consciousness-and-temporal-integration/) distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the [temporal self](/autonoetic-consciousness/) spanning a lifetime). Micro- and meso-integration depend on retention and protention; macro-integration involves additional capacities—episodic memory, narrative identity—that extend beyond temporal unity proper.
+Temporal unity operates at multiple scales. The Map's treatment of [temporal integration](/topics/consciousness-and-temporal-integration/) distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the [temporal self](/concepts/episodic-memory/) spanning a lifetime). Micro- and meso-integration depend on retention and protention; macro-integration involves additional capacities—episodic memory, narrative identity—that extend beyond temporal unity proper.
 
 Temporal unity can degrade or disappear, revealing it as a contingent property rather than an automatic entailment of having experience:
 
@@ -240,7 +240,7 @@ Temporal structure creates multiple problems for AI systems:
 
 **No embodied time**: If durée is lived through a body, disembodied systems lack the interoceptive grounding for temporal experience.
 
-This suggests problems with AI consciousness go beyond the [functionalism](/arguments/functionalism/) critique. Even granting functionalism, LLMs might fail to be conscious because they lack the temporal structure consciousness requires—regardless of what implements it.
+This suggests problems with AI consciousness go beyond the [functionalism](/concepts/functionalism/) critique. Even granting functionalism, LLMs might fail to be conscious because they lack the temporal structure consciousness requires—regardless of what implements it.
 
 ### Essential or Characteristic?
 
@@ -270,7 +270,7 @@ Temporal consciousness connects to all five tenets:
 
 ## Further Reading
 
-- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel and the temporal self
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series and the Map's growing block position
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow via quantum collapse
@@ -282,7 +282,7 @@ Temporal consciousness connects to all five tenets:
 - [tenets](/tenets/) — The foundational commitments of the Map
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
-- [free-will](/concepts/free-will/) — How temporal structure relates to agency
+- [free-will](/topics/free-will/) — How temporal structure relates to agency
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [haecceity](/concepts/haecceity/) — The thisness that grounds temporal identity
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
@@ -290,7 +290,7 @@ Temporal consciousness connects to all five tenets:
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy: synchronic, diachronic, and subject unity
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How moments bind into a temporal stream
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno model of consciousness-brain interaction
-- [psychophysical-coupling](/psychophysical-coupling/) — Bandwidth constraints on consciousness-matter interaction
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Bandwidth constraints on consciousness-matter interaction
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to the flow of time
 - [introspection](/concepts/introspection/) — The reliability of first-person temporal reports
 

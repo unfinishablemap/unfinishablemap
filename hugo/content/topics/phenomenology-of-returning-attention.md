@@ -34,7 +34,7 @@ related_articles:
 title: Phenomenology of Returning Attention
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The moment you notice your mind has wandered and bring attention back to the breath, the book, the conversation — this is among the most revealing micro-events in conscious life. Meditators perform it thousands of times. Most people do it daily without reflection. Yet the phenomenology of returning attention contains a structure that resists easy materialist explanation: a gap where no one was watching, a spontaneous noticing that seems to come from nowhere, and a deliberate re-engagement that feels like genuine agency. The Unfinishable Map's framework — in which consciousness selects among physical possibilities through [attention](/concepts/attention-as-interface/) — predicts exactly this structure and illuminates why it feels the way it does.
@@ -61,7 +61,7 @@ The phenomenology here is paradoxical. If consciousness was absorbed in wanderin
 
 After noticing, you deliberately bring attention back to the intended object. This phase feels effortful. It has the character of [agency](/topics/phenomenology-of-agency-vs-passivity/) — you are doing something, not merely undergoing it. The contrast with Phase Two is stark: noticing happened *to* you; returning is something *you do*.
 
-Neurally, this phase engages the dorsolateral prefrontal cortex and the dorsal attention network. The [frontal theta signature](/voluntary-attention/) of willed attention appears. The full machinery of executive control re-engages to override the wandering stream and redirect focus.
+Neurally, this phase engages the dorsolateral prefrontal cortex and the dorsal attention network. The [frontal theta signature](/concepts/attention-as-interface/) of willed attention appears. The full machinery of executive control re-engages to override the wandering stream and redirect focus.
 
 ## Why the Gap Matters
 
@@ -142,7 +142,7 @@ This has implications for the [contemplative epistemology](/concepts/contemplati
 
 ## Further Reading
 
-- [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from automatic attention
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes of consciousness and their neural correlates
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt contrast between doing and undergoing
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention is the privileged interface between mind and brain

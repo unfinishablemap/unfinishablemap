@@ -17,14 +17,14 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [The Paradox of Effortless Mastery](/paradox-of-effortless-mastery/)
+**Article**: [The Paradox of Effortless Mastery](/topics/consciousness-and-skilled-performance/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[voluntary-attention](/voluntary-attention/)` linked to non-existent concept. Resolution: replaced with plain text "deliberate attention" (concept `attention-as-interface` already linked nearby).
-- **Broken Further Reading link**: `[contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)` does not exist as a file. Resolution: replaced with `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` which exists and is relevant (the three consciousness levels map onto the three skill phases).
+- **Broken wikilink**: `[voluntary-attention](/concepts/attention-as-interface/)` linked to non-existent concept. Resolution: replaced with plain text "deliberate attention" (concept `attention-as-interface` already linked nearby).
+- **Broken Further Reading link**: `[contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)` does not exist as a file. Resolution: replaced with `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` which exists and is relevant (the three consciousness levels map onto the three skill phases).
 - **Uncited references**: Macnamara et al. (2014), Dreyfus & Dreyfus (1986), Csikszentmihalyi (1990), and Merleau-Ponty (1945) were in References but never cited in the text. Macnamara in particular challenges the Ericsson deliberate practice evidence. Resolution: all four now cited inline.
 
 ### Medium Issues Found

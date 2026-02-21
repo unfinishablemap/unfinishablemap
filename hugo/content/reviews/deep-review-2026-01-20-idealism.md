@@ -56,7 +56,7 @@ topics: []
 
 ### Cross-links Added
 - `[dualism](/concepts/dualism/)` — foundational overview
-- `[analytic-idealism](/analytic-idealism/)` — detailed Kastrup treatment
+- `[analytic-idealism](/concepts/idealism/)` — detailed Kastrup treatment
 - `[interactionist-dualism](/concepts/interactionist-dualism/)` — site's position on interaction
 - `[explanatory-gap](/concepts/explanatory-gap/)` — key concept now linked
 - `[agent-causation](/concepts/agent-causation/)` — connection to free will and indexical identity

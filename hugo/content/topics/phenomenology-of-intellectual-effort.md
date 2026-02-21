@@ -35,7 +35,7 @@ related_articles:
 title: The Phenomenology of Intellectual Effort
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Reasoning is work. Following a complex argument, holding premises in mind while tracing implications, grasping *why* a conclusion follows from its grounds—these activities have distinctive phenomenology: the experience of intellectual effort. This is not merely the attentional effort of staying focused (covered in [mental-effort](/concepts/mental-effort/)). It is the specific work of thinking itself—the strain of logic, the reach for coherence, the weight of keeping inferential threads connected.
@@ -144,7 +144,7 @@ The [argument-from-reason](/topics/argument-from-reason/) emphasises that graspi
 
 **Continuous identity through reasoning.** A long derivation requires that the same thinker who grasped premise 1 also grasps premise 7 and the conclusion. This continuity is experienced—you are *the one* who has been following the argument, not a succession of time-slices.
 
-This [phenomenal-unity](/phenomenal-unity/) is difficult for materialist accounts. If reasoning is distributed neural activity, what provides the viewpoint? If the thinker is a sequence of brain states, what makes it *one* thinker across time? This is the [binding-problem](/concepts/binding-problem/) applied to reasoning: how do separate neural processes constitute a single act of inference? The phenomenology of intellectual effort suggests irreducible unity: consciousness as the subject that holds things together.
+This [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) is difficult for materialist accounts. If reasoning is distributed neural activity, what provides the viewpoint? If the thinker is a sequence of brain states, what makes it *one* thinker across time? This is the [binding-problem](/concepts/binding-problem/) applied to reasoning: how do separate neural processes constitute a single act of inference? The phenomenology of intellectual effort suggests irreducible unity: consciousness as the subject that holds things together.
 
 ### The First-Person Perspective on Logic
 
@@ -221,7 +221,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, certainty, doubt
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has experiential character
 - [working-memory](/concepts/working-memory/) — Where intellectual capacity meets consciousness
-- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed cognitive engagement
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed cognitive engagement
 
 ## References
 

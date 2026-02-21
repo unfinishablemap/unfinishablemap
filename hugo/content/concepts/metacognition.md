@@ -8,7 +8,7 @@ coalesced_from:
 - /concepts/metacognition/
 - /concepts/metarepresentation/
 concepts:
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 - '[[jourdain-hypothesis]]'
 - '[[higher-order-theories]]'
 - '[[introspection]]'
@@ -100,7 +100,7 @@ Phenomenal consciousness provides this structure. Conscious experience involves 
 
 ### The Binding Requirement
 
-Metarepresentation requires holding multiple representations in relation—the representation, the representation of it, and their relationship—demanding [phenomenal unity](/phenomenal-unity/). Metarepresentational tasks load heavily on [working-memory](/concepts/working-memory/), and if working memory depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes), metarepresentation inherits this dependence.
+Metarepresentation requires holding multiple representations in relation—the representation, the representation of it, and their relationship—demanding [phenomenal unity](/concepts/phenomenal-binding-and-holism/). Metarepresentational tasks load heavily on [working-memory](/concepts/working-memory/), and if working memory depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes), metarepresentation inherits this dependence.
 
 Great apes' limited working memory capacity—roughly two items (Read 2008) compared to human four (Cowan 2001)—may explain their metarepresentational limitations. The expansion enabling human metarepresentation may be the expansion of conscious workspace.
 
@@ -118,7 +118,7 @@ Great apes' limited working memory capacity—roughly two items (Read 2008) comp
 
 Great apes demonstrate Level 1 social metacognition, but Level 3 recursive mindreading ("she thinks that I think the food is hidden") appears uniquely human. This mirrors the procedural/declarative divide: monitoring is widespread; declarative metarepresentation requires consciousness.
 
-Recursive social cognition makes explicit why higher-level metacognition requires consciousness. Representing "she thinks that I think X" requires holding multiple nested levels simultaneously, bound into [unified conscious awareness](/phenomenal-unity/). Consciousness provides the phenomenal workspace where nested representations can be bound and manipulated—though the [recursion-void](/voids/recursion-void/) demonstrates this workspace has a remarkably shallow depth limit, terminating around fifth-order intentionality. See [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) for details.
+Recursive social cognition makes explicit why higher-level metacognition requires consciousness. Representing "she thinks that I think X" requires holding multiple nested levels simultaneously, bound into [unified conscious awareness](/concepts/phenomenal-binding-and-holism/). Consciousness provides the phenomenal workspace where nested representations can be bound and manipulated—though the [recursion-void](/voids/recursion-void/) demonstrates this workspace has a remarkably shallow depth limit, terminating around fifth-order intentionality. See [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) for details.
 
 ## The Jourdain Hypothesis: Procedural vs. Declarative
 
@@ -204,7 +204,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enables metacognitive monitoring
 - [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/) — Metacognition in altered states
 - [introspection](/concepts/introspection/) — Metacognition's role in first-person methods
-- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Theory of mind as social metacognition
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Theory of mind as social metacognition
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Teaching as the paradigm case of metarepresentation
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking

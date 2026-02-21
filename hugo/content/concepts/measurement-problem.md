@@ -20,7 +20,7 @@ concepts:
 - '[[the-case-for-dualism]]'
 - '[[qualia]]'
 - '[[spontaneous-collapse-theories]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[qbism]]'
 created: 2026-01-14
 date: &id001 2026-01-16
@@ -37,7 +37,7 @@ related_articles:
 - '[[quantum-probability-consciousness]]'
 - '[[measurement-problem-quantum-mechanics-2026-01-14]]'
 - '[[consciousness-measurement-problem-2026-01-16]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 title: The Measurement Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -75,7 +75,7 @@ Three aspects make this problematic:
 
 The standard measurement problem asks: why does the quantum system exhibit a definite outcome rather than remaining in superposition? But even granting definite outcomes, a deeper question remains: why does *this* consciousness experience *this* particular result?
 
-This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [qualitative character](/concepts/qualia/) that no functional or structural description can convey. See [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) for extended treatment of this structural parallel and its implications for the Map's framework.
+This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [qualitative character](/concepts/qualia/) that no functional or structural description can convey. See [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/) for extended treatment of this structural parallel and its implications for the Map's framework.
 
 Functionalists contest this, holding that "why am I this one?" confuses indexical reference with substantial identity—"I" picks out whoever is asking; no further fact remains. This analysis is correct for the *reference* of "I" but doesn't dissolve the phenomenon. When asking "why am I this one?", we note that *something it is like* to be this experiencer exists, and ask what makes that fact true.
 
@@ -105,7 +105,7 @@ The original pragmatic approach: collapse is a rule for predictions, not a physi
 
 All outcomes occur. The universe branches at every quantum event; all branches are equally real. There is no collapse—just the appearance of collapse from within each branch.
 
-**Relation to site tenets:** **Directly rejected** by [No Many Worlds](/tenets/#no-many-worlds). See [many-worlds](/arguments/many-worlds/) for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) eliminates [mental-causation](/concepts/mental-causation/) entirely—consciousness makes no causal difference if all outcomes occur regardless.
+**Relation to site tenets:** **Directly rejected** by [No Many Worlds](/tenets/#no-many-worlds). See [many-worlds](/concepts/many-worlds/) for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) eliminates [mental-causation](/concepts/mental-causation/) entirely—consciousness makes no causal difference if all outcomes occur regardless.
 
 MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence: rational agents must weight outcomes by squared amplitudes. This shows what rational betting requires, not what probabilities mean when all outcomes occur.
 
@@ -151,7 +151,7 @@ Consciousness-based interpretations face a further challenge: what happens when 
 
 This "[multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)" generates uncomfortable options: (1) *first observer wins*—but relativity provides no absolute temporal ordering; (2) *consensus required*—demanding nonlocal coordination; (3) *dominant consciousness*—requiring an unmeasurable hierarchy of observer "strength."
 
-The Map's resolution combines [interface-locality](/interface-locality/) with [objective collapse](/concepts/prebiotic-collapse/). External reality is determined by physical objective reduction—collapse happens throughout the universe via GRW/CSL or similar mechanisms. Each consciousness *modulates* collapse only in its own brain's quantum events, not the external world directly. Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. Agreement reflects that external reality was determined by physics, not that consciousnesses coordinated.
+The Map's resolution combines [interface-locality](/concepts/brain-interface-boundary/) with [objective collapse](/concepts/prebiotic-collapse/). External reality is determined by physical objective reduction—collapse happens throughout the universe via GRW/CSL or similar mechanisms. Each consciousness *modulates* collapse only in its own brain's quantum events, not the external world directly. Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. Agreement reflects that external reality was determined by physics, not that consciousnesses coordinated.
 
 ## The Causal Closure Loophole
 
@@ -185,17 +185,17 @@ The measurement problem is central to the Map's framework. It creates the logica
 
 ## Further Reading
 
-- [quantum-measurement-and-definite-outcomes](/quantum-measurement-and-definite-outcomes/) — Extended treatment of why definite outcomes occur and where consciousness might participate
+- [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/) — Extended treatment of why definite outcomes occur and where consciousness might participate
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap all interpretations leave untreated
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
-- [many-worlds](/arguments/many-worlds/) — Arguments against MWI
+- [many-worlds](/concepts/many-worlds/) — Arguments against MWI
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for mind-matter interaction
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness couples to physics
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
-- [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [interface-locality](/interface-locality/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the Map resolves coordination puzzles
-- [free-will](/concepts/free-will/) — How quantum indeterminacy enables libertarian free will
+- [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [interface-locality](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the Map resolves coordination puzzles
+- [free-will](/topics/free-will/) — How quantum indeterminacy enables libertarian free will
 - [haecceity](/concepts/haecceity/) — The "thisness" grounding indexical identity
 - [mysterianism](/concepts/mysterianism/) — Why some explanatory gaps may be unclosable
 - [tenets](/tenets/) — The Map's foundational commitments

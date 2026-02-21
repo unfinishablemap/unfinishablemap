@@ -14,7 +14,7 @@ concepts:
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
 - '[[knowledge-argument]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 created: 2026-01-27
 date: &id001 2026-02-13
 description: Knowledge expressible only as 'I', 'here', 'now'—irreducible to impersonal
@@ -62,7 +62,7 @@ Not all indexical knowledge is alike. Drawing on the distinctions in the literat
 
 **Perspectival knowledge** is the weakest grade. Knowing "it is raining here" rather than "it is raining in London" involves an indexical, but the content is readily translatable. Most spatial and temporal indexicals fall into this category.
 
-**Self-locating knowledge** is stronger. Lewis's Two Gods each know every impersonal fact yet cannot determine which god they are. The knowledge "I am the mountain god" cannot be derived from any impersonal description. This is where the distinction between [epistemic and metaphysical theses](//#from-epistemic-to-metaphysical) (explained below) becomes critical.
+**Self-locating knowledge** is stronger. Lewis's Two Gods each know every impersonal fact yet cannot determine which god they are. The knowledge "I am the mountain god" cannot be derived from any impersonal description. This is where the distinction between [epistemic and metaphysical theses](#from-epistemic-to-metaphysical) (explained below) becomes critical.
 
 **Phenomenal indexical knowledge** is the strongest grade. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [knowledge-argument](/concepts/knowledge-argument/). Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of qualitative experience. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience.
 
@@ -120,7 +120,7 @@ The disagreement reveals something about self-locating uncertainty. Beauty doesn
 
 ## Implications for Many-Worlds
 
-The [many-worlds](/arguments/many-worlds/) interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel, each equally real. Indexical knowledge creates problems for this picture, connecting to the [measurement problem](/topics/the-measurement-problem-as-philosophical-problem/) at its core.
+The [many-worlds](/concepts/many-worlds/) interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel, each equally real. Indexical knowledge creates problems for this picture, connecting to the [measurement problem](/topics/the-measurement-problem-as-philosophical-problem/) at its core.
 
 Before measurement, there is one observer. After branching, there are multiple successors in different branches. Everettians propose that pre-measurement uncertainty about which outcome you'll see is "self-locating uncertainty"—uncertainty about which branch you're in, analogous to Beauty's uncertainty about which awakening she's experiencing.
 
@@ -153,7 +153,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical knowledge misses
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
-- [many-worlds](/arguments/many-worlds/) — Why indexical identity poses problems for branching interpretations
+- [many-worlds](/concepts/many-worlds/) — Why indexical identity poses problems for branching interpretations
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap in quantum physics
 
 ## References

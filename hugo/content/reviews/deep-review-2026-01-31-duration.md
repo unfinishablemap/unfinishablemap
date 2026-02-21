@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [Duration (Durée)](/duration/)
+**Article**: [Duration (Durée)](/concepts/temporal-consciousness/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-duration/)
 **Cross-review context**: process-and-consciousness apex article
 

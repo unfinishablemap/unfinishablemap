@@ -5,7 +5,7 @@ ai_modified: 2026-02-15 10:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[interactionist-dualism]]'
 - '[[mysterianism]]'
 - '[[filter-theory]]'
@@ -85,7 +85,7 @@ Several possibilities become thinkable under dualism that materialism excludes b
 
 **Extended consciousness or field effects.** [Filter-theory](/concepts/filter-theory/) and related models suggest consciousness might not be strictly bounded by the skull. If so, the implications for individuality, privacy, and connection between minds become live questions rather than dismissed speculations.
 
-**Value properties of consciousness itself.** The Unfinishable Map's [phenomenal value realism](/concepts/phenomenal-value-realism/) holds that experiential qualities have intrinsic normative significance. This metaethical position requires consciousness to be more than computational processing—it requires qualia to be real and value-constituting. Materialists who eliminate qualia also eliminate the ground for this kind of value realism.
+**Value properties of consciousness itself.** The Unfinishable Map's [phenomenal value realism](/topics/phenomenal-value-realism/) holds that experiential qualities have intrinsic normative significance. This metaethical position requires consciousness to be more than computational processing—it requires qualia to be real and value-constituting. Materialists who eliminate qualia also eliminate the ground for this kind of value realism.
 
 ## The Argument from Epistemic Humility
 
@@ -184,7 +184,7 @@ The price of this openness is entertaining possibilities that may turn out to be
 
 - [tenets](/tenets/) — the Map's foundational commitments
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — Positive arguments for dualism (complements this meta-level epistemic argument)
-- [materialism](/arguments/materialism/) — The position this article critiques
+- [materialism](/concepts/materialism/) — The position this article critiques
 - [mysterianism](/concepts/mysterianism/) — Why we may have cognitive limits on understanding consciousness
 - [filter-theory](/concepts/filter-theory/) — An alternative to productive models of consciousness
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness attribution

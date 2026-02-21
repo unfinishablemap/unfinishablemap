@@ -69,11 +69,11 @@ The Map's key maneuver is: **Kim-style exclusion/casual closure pressure** is re
 
 ### C. Attention/effort are treated as the practical "control surface"
 
-A large portion of the mechanistic plausibility is routed through **attention** and **mental effort**, especially Stapp-style quantum Zeno framing: effort feels effortful because it is doing something repeatedly (see [attention](/attention/)).
+A large portion of the mechanistic plausibility is routed through **attention** and **mental effort**, especially Stapp-style quantum Zeno framing: effort feels effortful because it is doing something repeatedly (see [attention](/concepts/attention-as-interface/)).
 
 ### D. Free will is "selection," not randomness, with retrocausal/atemporal repair for Libet timing
 
-The [free will](/concepts/free-will/) topic explicitly embraces: brain prepares multiple possible action patterns; consciousness selects; retrocausal/time-symmetric interpretations dissolve the sequencing objection.
+The [free will](/topics/free-will/) topic explicitly embraces: brain prepares multiple possible action patterns; consciousness selects; retrocausal/time-symmetric interpretations dissolve the sequencing objection.
 
 ### E. Personal identity is *not* a pattern; indexical identity is fundamental
 
@@ -121,7 +121,7 @@ Minimal Quantum Interaction says mind biases indeterminate outcomes, while also 
 
 So the worldview implicitly needs an additional limiter, something like:
 
-* **Interface locality**: consciousness can only bias outcomes within the neural subspace that is already part of the subject's conscious control loop (attention/effort), not arbitrary external systems (see [attention](/attention/)).
+* **Interface locality**: consciousness can only bias outcomes within the neural subspace that is already part of the subject's conscious control loop (attention/effort), not arbitrary external systems (see [attention](/concepts/attention-as-interface/)).
 
 The Map hints at this through "attention" as interface, but doesn't yet explicitly state (or defend) the needed boundary condition: **why brains, not RNGs**.
 
@@ -156,7 +156,7 @@ This suggests an unspoken research program: **alignment as phenomenology-aware i
 
 ### 7) The time story implies consciousness is not merely "in time," but partially constitutive of temporal direction
 
-If collapse introduces irreversibility, and consciousness participates in collapse (per [collapse-and-time](/concepts/collapse-and-time/)), then the worldview points toward: **conscious moments create irreversible facts** (or select histories atemporally), aligning with the free-will retrocausal repair (per [free-will](/concepts/free-will/)).
+If collapse introduces irreversibility, and consciousness participates in collapse (per [collapse-and-time](/concepts/collapse-and-time/)), then the worldview points toward: **conscious moments create irreversible facts** (or select histories atemporally), aligning with the free-will retrocausal repair (per [free-will](/topics/free-will/)).
 
 The Map states the pieces, but doesn't yet explicitly draw the metaphysical conclusion:
 

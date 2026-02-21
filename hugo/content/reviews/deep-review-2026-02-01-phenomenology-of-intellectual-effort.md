@@ -30,7 +30,7 @@ topics: []
 
 - AI phenomenology claim was overconfident: "show no evidence of accompanying phenomenology" implied we can know this. **Resolution**: Qualified to "we lack reliable methods to detect machine consciousness from the outside."
 
-- Unity section missed cross-links to related concepts. **Resolution**: Added links to [phenomenal-unity](/phenomenal-unity/) and [binding-problem](/concepts/binding-problem/).
+- Unity section missed cross-links to related concepts. **Resolution**: Added links to [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) and [binding-problem](/concepts/binding-problem/).
 
 ### Counterarguments Considered
 - **Eliminativist objection**: The article does acknowledge (in "What Would Challenge This View?") that trained introspectors might dissolve phenomenology into components. This is adequate.
@@ -55,7 +55,7 @@ topics: []
 - Added binding-problem framing to unity discussion
 
 ### Cross-links Added
-- [phenomenal-unity](/phenomenal-unity/)
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
 - [binding-problem](/concepts/binding-problem/)
 
 ## Remaining Items

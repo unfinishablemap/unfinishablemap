@@ -9,9 +9,9 @@ archived_date: 2026-01-25 22:30:00+00:00
 author: null
 concepts:
 - '[[consciousness]]'
-- '[[cognition]]'
+- cognition
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-01-23
 date: &id001 2026-01-23
 draft: false
@@ -33,7 +33,7 @@ Great ape cognition may represent a baseline of what neurons can achieve without
 
 ## What the Baseline Includes
 
-The [baseline cognition hypothesis](//#baseline-cognition) (explained below) proposes that great apes demonstrate what neural systems can accomplish through purely unconscious or minimally conscious processing. This isn't primitive—it's impressively sophisticated:
+The [baseline cognition hypothesis](#baseline-cognition) (explained below) proposes that great apes demonstrate what neural systems can accomplish through purely unconscious or minimally conscious processing. This isn't primitive—it's impressively sophisticated:
 
 - **Stable cognitive architecture**: Great ape cognition consists of measurable, reliable traits that persist across time and develop with experience. This isn't chaotic unconscious processing but coherent intelligence.
 - **Procedural metacognition**: Apes monitor their own uncertainty—they seek information when unsure, show confidence judgments, and adjust behavior based on knowing-feeling states. What they lack is *declarative* metacognition: representing explicitly that they or others hold beliefs.
@@ -48,7 +48,7 @@ The constraints reveal where consciousness may be causally required:
 
 **Logical reasoning specifically requires conscious processing.** Lieberman et al. (2008) found that cognitive load on conscious processes impaired logical reasoning, while hampering unconscious systems had no effect. Nonconscious priming of logic concepts failed to improve reasoning unless the problem matched intuitive patterns. Rule-based thinking—applying abstract principles to novel cases—demands conscious reflection. Associative pattern-matching proceeds unconsciously; logical inference does not.
 
-**Counterfactual thinking and mental time travel require conscious simulation.** Imagining "what if" scenarios, learning from past mistakes by simulating alternatives, and planning for future states that don't match current needs all involve mental representations that "seep into conscious thought" (Byrne, 2005). Great apes may plan within their current motivational framework, but the [Bischof-Köhler hypothesis](//#bischof-khler-hypothesis) (explained below) suggests they cannot act on future needs they don't currently feel—a limit that human conscious mental time travel transcends.
+**Counterfactual thinking and mental time travel require conscious simulation.** Imagining "what if" scenarios, learning from past mistakes by simulating alternatives, and planning for future states that don't match current needs all involve mental representations that "seep into conscious thought" (Byrne, 2005). Great apes may plan within their current motivational framework, but the [Bischof-Köhler hypothesis](#bischof-khler-hypothesis) (explained below) suggests they cannot act on future needs they don't currently feel—a limit that human conscious mental time travel transcends.
 
 **Cumulative culture requires metarepresentation.** Great apes have culture—behavioral traditions vary between groups—but they lack the "ratchet effect" that characterizes human cultural evolution. Modifications don't accumulate; innovations tend to fade rather than compound. Tomasello and colleagues argue this reflects an inability to metarepresent: apes express cultures without knowing they are cultural beings. They cannot represent that others hold beliefs about cultural norms, which prevents teaching in the normative sense, conformity to group standards, and the process-oriented (not just product-oriented) social learning that drives cumulative innovation. The Jourdain Hypothesis: apes do culture without knowing they do it.
 
@@ -105,7 +105,7 @@ The baseline cognition hypothesis provides a framework for investigating these q
 - [metacognition](/concepts/metacognition/) — Knowing about knowing
 - [working-memory](/concepts/working-memory/) — The cognitive bottleneck
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How mind and matter interact
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — Why consciousness must influence the physical
 
 ## References

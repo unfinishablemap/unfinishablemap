@@ -80,7 +80,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for observer
 - [mental-effort](/concepts/mental-effort/) — Phenomenology supporting selection
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
-- [many-worlds](/arguments/many-worlds/) — MWI rejection and implications
+- [many-worlds](/concepts/many-worlds/) — MWI rejection and implications
 - [introspection](/concepts/introspection/) — Added to frontmatter concepts
 
 ### References Added

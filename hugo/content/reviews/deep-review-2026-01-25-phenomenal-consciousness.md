@@ -77,10 +77,10 @@ topics: []
 - [mysterianism](/concepts/mysterianism/)
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/)
 - [argument-from-reason](/topics/argument-from-reason/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 - [agent-causation](/concepts/agent-causation/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 
 ### References Added

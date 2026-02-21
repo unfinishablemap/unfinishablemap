@@ -5,13 +5,13 @@ ai_modified: 2026-02-02 11:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
 - '[[emotional-consciousness]]'
 - '[[illusionism]]'
 - '[[panpsychism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-02-02
 date: &id001 2026-02-02
 description: Why consciousness is necessary for value to exist. Without experience,
@@ -71,7 +71,7 @@ Consider love. Is love valuable if it exists only as a brain state no one experi
 
 ### The Phenomenal Value Realism Route
 
-[Phenomenal value realism](/concepts/phenomenal-value-realism/) makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [introspective](/concepts/introspection/) access, not inference.
+[Phenomenal value realism](/topics/phenomenal-value-realism/) makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [introspective](/concepts/introspection/) access, not inference.
 
 On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness.
 
@@ -155,7 +155,7 @@ This resists reductive ethics that would ground value in evolutionary fitness, s
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [epiphenomenal](/arguments/epiphenomenalism/) froth atop a deterministic process. This directly supports [libertarian free will](/concepts/free-will/): genuine choice about value-laden matters requires that consciousness make a difference.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [epiphenomenal](/concepts/epiphenomenalism/) froth atop a deterministic process. This directly supports [libertarian free will](/topics/free-will/): genuine choice about value-laden matters requires that consciousness make a difference.
 
 ### No Many Worlds
 
@@ -179,8 +179,8 @@ These conditions do not currently obtain. The connection stands.
 
 ## Further Reading
 
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding: phenomenal properties constitute value
-- [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding: phenomenal properties constitute value
+- [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness-grounded value provides meaning
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the phenomenal dimension of good and bad
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of the consciousness-value connection
@@ -188,7 +188,7 @@ These conditions do not currently obtain. The connection stands.
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment depends on this view
 - [qualia](/concepts/qualia/) — The qualitative properties that carry value
 - [introspection](/concepts/introspection/) — First-person access to value properties
-- [free-will](/concepts/free-will/) — How value-grounded consciousness enables genuine choice
+- [free-will](/topics/free-will/) — How value-grounded consciousness enables genuine choice
 - [illusionism](/concepts/illusionism/) — The strongest challenge and responses
 - [panpsychism](/concepts/panpsychism/) — What follows if consciousness is ubiquitous
 - [tenets](/tenets/) — The foundational commitments grounding this view

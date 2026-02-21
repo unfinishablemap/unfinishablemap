@@ -76,7 +76,7 @@ topics: []
 Frontmatter:
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [mysterianism](/concepts/mysterianism/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [global-workspace-theory](/concepts/global-workspace-theory/)
 - [illusionism](/concepts/illusionism/)
 - [explanatory-gap](/concepts/explanatory-gap/)
@@ -84,7 +84,7 @@ Frontmatter:
 Further Reading expanded with:
 - [global-workspace-theory](/concepts/global-workspace-theory/)
 - [illusionism](/concepts/illusionism/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [mysterianism](/concepts/mysterianism/)
 
 ## Remaining Items

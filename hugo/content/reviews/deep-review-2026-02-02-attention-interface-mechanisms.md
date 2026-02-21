@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Mechanisms of the Attention-Consciousness Interface](/attention-interface-mechanisms/)
+**Article**: [Mechanisms of the Attention-Consciousness Interface](/topics/attention-as-selection-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -59,7 +59,7 @@ None. The article is well-constructed and appropriately hedged for its claims.
 4. Strengthened the MWI response with more nuanced engagement
 
 ### Cross-links Added
-- [free-will](/concepts/free-will/) — at timing constraints section and Further Reading
+- [free-will](/topics/free-will/) — at timing constraints section and Further Reading
 - [agent-causation](/concepts/agent-causation/) — at timing constraints section and Further Reading
 
 ## Remaining Items

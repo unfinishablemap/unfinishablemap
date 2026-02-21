@@ -75,7 +75,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 
 All cross-links valid:
 - [experiential-alignment](/concepts/experiential-alignment/) - valid (coalesced article exists)
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - valid
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) - valid
 - [neurophenomenology](/concepts/neurophenomenology/) - valid
 - [illusionism](/concepts/illusionism/) - valid
 - [introspection](/concepts/introspection/) - valid

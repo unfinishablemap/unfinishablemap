@@ -10,7 +10,7 @@ author: null
 concepts:
 - '[[temporal-consciousness]]'
 - '[[qualia]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[collapse-and-time]]'
 - '[[neurophenomenology]]'
 - '[[illusionism]]'
@@ -42,7 +42,7 @@ superseded_by: /concepts/temporal-consciousness/
 title: Duration (Durée)
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Henri Bergson's concept of *durée* (duration) names the qualitative experience of time as consciousness lives it—fundamentally different from clock time or the spatialized time of physics. When you listen to a melody, you don't experience a succession of separate notes arranged along a timeline. You experience the melody *as a whole*, with each note permeated by the ones before and reaching toward those to come. This flowing, interpenetrating, qualitative time is durée.
@@ -69,7 +69,7 @@ A musical phrase exemplifies this. Each note is heard *in light of* what came be
 
 ## Duration and Free Will
 
-Bergson connected durée directly to [free will](/concepts/free-will/). His first major work, *Time and Free Will* (1889), argued that the apparent conflict between freedom and determinism rests on a confusion—treating lived duration as if it were spatialized time.
+Bergson connected durée directly to [free will](/topics/free-will/). His first major work, *Time and Free Will* (1889), argued that the apparent conflict between freedom and determinism rests on a confusion—treating lived duration as if it were spatialized time.
 
 Determinism assumes that mental states are discrete, separable, and subject to causal law: state A causes state B with the same necessity as billiard ball A causes billiard ball B to move. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment, not as a sum of separate influences but as an indivisible movement.
 
@@ -143,7 +143,7 @@ Bergson's durée aligns with all five site tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The quantum speculation section above proposes that durée may be the phenomenological manifestation of consciousness participating in quantum collapse. The creative novelty Bergson attributes to duration—"time is invention or it is nothing at all"—maps onto the selection among indeterminate possibilities that the Minimal Quantum Interaction tenet describes. Through the [quantum Zeno mechanism](/concepts/mental-effort/), consciousness might hold patterns in durée by rapid repeated selection, creating the flowing present through discrete collapses that together constitute experiential continuity. This is speculative, but it provides a candidate mechanism for how durée could be more than phenomenology—how it could be consciousness's constitutive participation in time's creation.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Durée is creative, bringing genuine novelty. Free acts emerge from the whole self acting in time. This creative causation is what Bergson means by freedom—and it's what the Map means by consciousness influencing physical outcomes. The causal closure of physics would eliminate durée's creativity, reducing it to mere rearrangement of what already exists. The Map's rejection of [epiphenomenalism](/arguments/epiphenomenalism/) preserves durée's causal efficacy: the self acting in duration genuinely shapes what happens, rather than being a causally inert accompaniment to physical processes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Durée is creative, bringing genuine novelty. Free acts emerge from the whole self acting in time. This creative causation is what Bergson means by freedom—and it's what the Map means by consciousness influencing physical outcomes. The causal closure of physics would eliminate durée's creativity, reducing it to mere rearrangement of what already exists. The Map's rejection of [epiphenomenalism](/concepts/epiphenomenalism/) preserves durée's causal efficacy: the self acting in duration genuinely shapes what happens, rather than being a causally inert accompaniment to physical processes.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Duration is lived by a continuous self persisting through time. In many-worlds, there's no such self—just branching copies, each experiencing what appears to be continuous durée but actually living only a fragment of the branching tree. Bergson's interpenetrating duration presupposes the kind of temporal identity—[haecceity](/concepts/haecceity/)—that many-worlds dissolves. The past that lives in the present is *my* past, not the past of some branch-copy. Without real collapse, "my" durée would be shared across uncountably many branch-selves, undermining the unity that makes durée what it is.
 
@@ -153,13 +153,13 @@ Bergson's durée aligns with all five site tenets:
 
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis: how process philosophy illuminates all five tenets
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and neuroscience of time
-- [specious-present](/specious-present/) — The experienced duration of the present moment
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework; concrescence, prehension, and the combination problem
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [free-will](/concepts/free-will/) — How temporal structure relates to agency
+- [free-will](/topics/free-will/) — How temporal structure relates to agency
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that durée parallels
 - [ai-consciousness](/topics/ai-consciousness/) — Why disembodied systems may lack temporal experience

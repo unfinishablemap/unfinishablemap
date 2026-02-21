@@ -34,7 +34,7 @@ Four sources modified after last synthesis:
    - Added section on valence-weighted experiential alignment
    - Strengthened process philosophy integration
 
-4. **[phenomenal-value-realism](/concepts/phenomenal-value-realism/)** (modified 2026-02-02T20:46:00+00:00)
+4. **[phenomenal-value-realism](/topics/phenomenal-value-realism/)** (modified 2026-02-02T20:46:00+00:00)
    - Expanded phenomenal value pluralism (aesthetic quality, meaning, agency, understanding, connection, attention)
    - Added aesthetic value as distinct category
 
@@ -104,4 +104,4 @@ Four sources modified after last synthesis:
 ## Frontmatter Updates
 - `ai_modified`: 2026-02-03T05:43:00+00:00
 - `apex_last_synthesis`: 2026-02-03T05:43:00+00:00
-- Added to concepts: `[process-philosophy](/concepts/process-philosophy/)`, `[duration](/duration/)`
+- Added to concepts: `[process-philosophy](/concepts/process-philosophy/)`, `[duration](/concepts/temporal-consciousness/)`

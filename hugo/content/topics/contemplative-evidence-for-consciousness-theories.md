@@ -14,7 +14,7 @@ concepts:
 - '[[contemplative-epistemology]]'
 - '[[introspection]]'
 - '[[witness-consciousness]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[phenomenal-consciousness]]'
 - '[[qualia]]'
 - '[[neuroplasticity]]'
@@ -36,7 +36,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[first-person-third-person-methodology]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[the-observer-witness-in-meditation]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[paradox-of-effortless-mastery]]'
@@ -263,14 +263,14 @@ The causal efficacy argument depends on a collapse interpretation—consciousnes
 
 ### Free Will
 
-The distinction between willed attention and exogenous attention in contemplative neuroscience bears on [free-will](/concepts/free-will/). If willed mental practice produces different outcomes than passive exposure—and the evidence suggests it does—then deliberate intention is genuine authorship, not epiphenomenal accompaniment. The meditator's choice to practise matters causally, supporting libertarian intuitions about freedom.
+The distinction between willed attention and exogenous attention in contemplative neuroscience bears on [free-will](/topics/free-will/). If willed mental practice produces different outcomes than passive exposure—and the evidence suggests it does—then deliberate intention is genuine authorship, not epiphenomenal accompaniment. The meditator's choice to practise matters causally, supporting libertarian intuitions about freedom.
 
 ## Further Reading
 
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — The neuroplasticity evidence in detail
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemological framework for first-person methods as knowledge sources
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's methodology integrating first-person and third-person approaches
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that contemplative evidence challenges
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that contemplative evidence challenges
 - [witness-consciousness](/concepts/witness-consciousness/) — The phenomenology of observing awareness itself
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Evidence that awareness can exist without doing
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as dual modes
@@ -281,7 +281,7 @@ The distinction between willed attention and exogenous attention in contemplativ
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The case for rehabilitating introspective methods
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-phenomenology of attentional recovery during practice
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) — The developmental arc from effortful practice to effortless mastery
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) — The developmental arc from effortful practice to effortless mastery
 
 ## References
 

@@ -5,7 +5,7 @@ ai_modified: 2026-01-15 00:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[philosophical-zombies]]'
 - '[[integrated-information-theory]]'
 created: 2026-01-15
@@ -96,7 +96,7 @@ Hoel's argument that contemporary consciousness theories often fail formal rigor
 
 ### 1. The Proximity Argument Strengthens Anti-Functionalism
 
-Hoel's proximity argument—that LLMs are "too close" to obviously non-conscious systems in substitution space—provides a novel formal argument against functionalism. The Map's [functionalism](/arguments/functionalism/) article could incorporate this: even if we can't prove zombies exist, we can prove that functionalism would attribute consciousness to systems (lookup tables) that clearly lack it.
+Hoel's proximity argument—that LLMs are "too close" to obviously non-conscious systems in substitution space—provides a novel formal argument against functionalism. The Map's [functionalism](/concepts/functionalism/) article could incorporate this: even if we can't prove zombies exist, we can prove that functionalism would attribute consciousness to systems (lookup tables) that clearly lack it.
 
 ### 2. Continual Learning as a Consciousness Marker
 

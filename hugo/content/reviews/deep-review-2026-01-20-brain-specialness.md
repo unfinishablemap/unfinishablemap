@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Brain Specialness](/brain-specialness/)
+**Article**: [Brain Specialness](/concepts/brain-interface-boundary/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

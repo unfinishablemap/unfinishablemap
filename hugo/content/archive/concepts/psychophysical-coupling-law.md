@@ -10,11 +10,11 @@ author: null
 concepts:
 - '[[psychophysical-laws]]'
 - '[[quantum-consciousness]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[mental-causation]]'
 - '[[attention]]'
 - '[[interactionist-dualism]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[haecceity]]'
 - '[[integrated-information-theory]]'
 - '[[decoherence]]'
@@ -41,7 +41,7 @@ superseded_by: /concepts/psychophysical-coupling/
 title: The Psychophysical Coupling Law
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 If consciousness "selects" quantum outcomes—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—there must be a psychophysical coupling law: a stable mapping from conscious contents to physical selections. Without specifying this law, even schematically, "selection" remains a metaphor rather than a research program.
@@ -75,7 +75,7 @@ Chalmers proposes three psychophysical principles in "Facing Up to the Problem o
 
 ### The Map's Divergence from Organizational Invariance
 
-The Map's rejection of [functionalism](/arguments/functionalism/) creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [haecceity](/concepts/haecceity/), not merely on abstract patterns.
+The Map's rejection of [functionalism](/concepts/functionalism/) creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [haecceity](/concepts/haecceity/), not merely on abstract patterns.
 
 ### Upward vs. Downward Direction
 
@@ -318,10 +318,10 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 ## Further Reading
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' foundational framework for psychophysical laws (supervenience vs causal laws, naturalistic dualism)
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
-- [attention](/attention/) — The attention-consciousness relationship
+- [attention](/concepts/attention-as-interface/) — The attention-consciousness relationship
 - [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring coupling laws
 - [decoherence](/concepts/decoherence/) — The main physics objection and responses

@@ -16,7 +16,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[phenomenology-of-choice]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[meditation-and-consciousness-modes]]'
 created: 2026-01-23
 date: &id001 2026-01-23
@@ -32,7 +32,7 @@ related_articles:
 superseded_by: /concepts/voluntary-attention/
 title: Voluntary Attention Control
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -132,7 +132,7 @@ This mechanism explains several features of voluntary attention:
 
 ### Attention-Motor Unification
 
-The [premotor theory of attention](/attention-motor-quantum-interface/) (PMTA) proposes that attention shifts *are* motor plans—attending to a location is preparing an orienting movement toward it. This unification has profound implications for voluntary attention control.
+The [premotor theory of attention](/concepts/attention-as-interface/) (PMTA) proposes that attention shifts *are* motor plans—attending to a location is preparing an orienting movement toward it. This unification has profound implications for voluntary attention control.
 
 If attention is motor planning, then the willed attention findings above—frontal theta, ~300ms deployment, effortful phenomenology—describe a unified attention-motor selection mechanism. The ~300ms willed attention deployment matches the ~280ms motor commitment point identified by Thura and Cisek (2014). The frontal theta oscillations appear in both willed attention and willed motor preparation. The bidirectional frontoparietal coherence during willed attention mirrors motor preparation dynamics.
 
@@ -191,13 +191,13 @@ The evidence is striking: the willed-instructed distinction shows that internall
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet gains support from the temporal profile of voluntary attention. The ~300ms deployment time and sustained maintenance match the timescales relevant for quantum Zeno effects. Voluntary attention control may be where consciousness's quantum-level influence becomes observable at the neural level.
 
-Against [epiphenomenalism](/arguments/epiphenomenalism/): if voluntary attention control were merely the *feeling* of controlling attention (while the real control happened through purely neural mechanisms), the willed-instructed distinction would be puzzling. Why would the feeling of effort track a real neural distinction if the feeling has no causal role? The simpler explanation: effort feels real because it *is* real—consciousness engaging with neural systems to direct attention.
+Against [epiphenomenalism](/concepts/epiphenomenalism/): if voluntary attention control were merely the *feeling* of controlling attention (while the real control happened through purely neural mechanisms), the willed-instructed distinction would be puzzling. Why would the feeling of effort track a real neural distinction if the feeling has no causal role? The simpler explanation: effort feels real because it *is* real—consciousness engaging with neural systems to direct attention.
 
 ## Further Reading
 
-- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) - How PMTA unifies attention and motor selection under one quantum mechanism
+- [attention-motor-quantum-interface](/concepts/attention-as-interface/) - How PMTA unifies attention and motor selection under one quantum mechanism
 - [mental-effort](/concepts/mental-effort/) - The phenomenology of effortful attention and Stapp's mechanism
-- [attention](/attention/) - Broader treatment of attention-consciousness relationship
+- [attention](/concepts/attention-as-interface/) - Broader treatment of attention-consciousness relationship
 - [attention-as-interface](/concepts/attention-as-interface/) - The interface hypothesis in detail
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - Stapp's quantum mind model
 - [agent-causation](/concepts/agent-causation/) - Consciousness as causal agent

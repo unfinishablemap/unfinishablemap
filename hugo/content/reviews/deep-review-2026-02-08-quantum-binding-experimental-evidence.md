@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-08
-**Article**: [Quantum Binding: Experimental Evidence](/quantum-binding-experimental-evidence/)
+**Article**: [Quantum Binding: Experimental Evidence](/concepts/quantum-coherence-and-binding-evidence/)
 **Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-quantum-binding-experimental-evidence/)
 
 ## Pessimistic Analysis Summary
@@ -53,7 +53,7 @@ topics: []
 - Corrected decoherence summary to match the nuanced treatment in the body text
 
 ### Cross-links Added
-- [neural-binding-mechanisms](/neural-binding-mechanisms/) (body text, gamma synchrony section + frontmatter)
+- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) (body text, gamma synchrony section + frontmatter)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) (body text, classical mechanisms section + frontmatter)
 
 ## Remaining Items

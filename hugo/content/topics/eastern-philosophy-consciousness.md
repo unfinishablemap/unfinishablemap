@@ -187,7 +187,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [meaning-of-life](/topics/meaning-of-life/) — Western approaches to significance
-- [nihilism](/nihilism/) — Compare Buddhist and Western responses to meaninglessness
+- [nihilism](/concepts/nihilism-and-existentialism/) — Compare Buddhist and Western responses to meaninglessness
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Detailed research notes
 - [tenets](/tenets/) — The Map's framework for comparison
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Quantum Decoherence Objection](/quantum-decoherence-objection/)
+**Article**: [Quantum Decoherence Objection](/concepts/decoherence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -73,21 +73,21 @@ Applied six sympathetic philosopher personas (Property Dualist, Quantum Mind The
 ### Cross-links Added
 
 **Frontmatter concepts:**
-- [quantum-neural-mechanisms](/quantum-neural-mechanisms/)
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)
 - [quantum-biology](/concepts/quantum-biology/)
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 - [agent-causation](/concepts/agent-causation/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 
 **Further Reading:**
-- [quantum-neural-mechanisms](/quantum-neural-mechanisms/)
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)
 - [quantum-biology](/concepts/quantum-biology/)
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 - [argument-from-reason](/topics/argument-from-reason/)
 
 ## Changes Made

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [The Phenomenology of Skill Transition](/phenomenology-of-skill-transition/)
+**Article**: [The Phenomenology of Skill Transition](/topics/consciousness-and-skilled-performance/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -72,7 +72,7 @@ topics: []
 ### Cross-links Added
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 
 ## Remaining Items
 

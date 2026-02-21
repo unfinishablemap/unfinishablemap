@@ -34,7 +34,7 @@ title: Embodied Cognition and the Extended Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Embodied cognition and the extended mind thesis argue that cognition depends on the body and extends into the environment. The "4E" approach—embodied, embedded, enacted, extended—challenges the view that minds are confined to brains running computational processes. Cognitive processes are shaped by bodily structure, embedded in environmental context, enacted through dynamic engagement, and may literally extend into tools and artifacts.

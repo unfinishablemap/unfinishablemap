@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [The Eastern Philosophy–Haecceity Tension](/eastern-philosophy-haecceity-tension/)
+**Article**: [The Eastern Philosophy–Haecceity Tension](/topics/eastern-philosophy-consciousness/)
 **Previous review**: Never
 
 ## Context
@@ -56,7 +56,7 @@ None.
 1. Added clarification on electron haecceity analogy limits
 2. Strengthened Madhyamaka response with "useful fiction" rebuttal
 3. Made contemplative evidence claims more epistemologically careful
-4. Added cross-link to [indexical-facts](/indexical-facts/) in Madhyamaka section
+4. Added cross-link to [indexical-facts](/concepts/indexical-knowledge-and-identity/) in Madhyamaka section
 
 ### Cross-links Added (Orphan Integration)
 Added inbound links from:
@@ -65,7 +65,7 @@ Added inbound links from:
 - [vertiginous-question](/topics/vertiginous-question/) — Buddhist no-self objection response now links here
 - [process-philosophy](/concepts/process-philosophy/) — Added new "Process Haecceitism" subsection linking here
 - [personal-identity](/topics/personal-identity/) — Further Reading section now includes this article
-- [eastern-metaphysics-integration](/eastern-metaphysics-integration/) — Further Reading now lists this article first
+- [eastern-metaphysics-integration](/topics/eastern-philosophy-consciousness/) — Further Reading now lists this article first
 
 ## Remaining Items
 

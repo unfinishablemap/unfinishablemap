@@ -10,7 +10,7 @@ coalesced_from:
 concepts:
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[brain-interface-boundary]]'
 - '[[decoherence]]'
 - '[[coupling-modes]]'
@@ -40,7 +40,7 @@ related_articles:
 title: The Interface Location Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[attention-as-selection-interface]]'
 ---
 
@@ -56,7 +56,7 @@ The interface location problem is not merely a detail to be filled in later. It 
 
 **Mechanism constraints.** Each candidate site faces different [decoherence](/concepts/decoherence/) timescales, different relationships to neural computation, and different connections to the [attention system](/concepts/attention-as-interface/) through which the Map proposes consciousness acts. A mechanism that works for microtubules may fail for ion channels, and vice versa.
 
-**Scope of influence.** The interface location constrains what consciousness can affect. If the interface operates at individual synapses, consciousness might influence fine-grained neural patterns. If it operates at the level of cortical columns, consciousness selects among coarser-grained alternatives — consistent with the ~10 bits/second [bandwidth constraint](/psychophysical-coupling/) on conscious processing.
+**Scope of influence.** The interface location constrains what consciousness can affect. If the interface operates at individual synapses, consciousness might influence fine-grained neural patterns. If it operates at the level of cortical columns, consciousness selects among coarser-grained alternatives — consistent with the ~10 bits/second [bandwidth constraint](/concepts/psychophysical-laws/) on conscious processing.
 
 ## The Candidates
 
@@ -82,13 +82,13 @@ Henry Stapp proposes that consciousness operates through quantum effects at ion 
 
 A more recent proposal suggests that cortical microcolumns — ensembles of roughly 100 neurons — couple resonantly with the quantum electromagnetic zero-point field, forming macroscopic coherence domains. On this account, consciousness selects among patterns at the column level rather than at individual molecular sites.
 
-**Strengths.** The scale matches the [bandwidth constraint](/psychophysical-coupling/). If consciousness selects among column-level patterns rather than individual molecular states, the ~10 bits/second limit on conscious processing makes sense: you choose among a manageable number of macroscopic alternatives. The proposal connects to established neuroscience — cortical columns are well-characterised functional units. Column-scale selection would explain why conscious influence feels coarse-grained (you decide to act, not which synapses to fire). Note however that the quantum coherence mechanism remains highly speculative — zero-point field coupling at cortical scales has no established experimental support in neuroscience.
+**Strengths.** The scale matches the [bandwidth constraint](/concepts/psychophysical-laws/). If consciousness selects among column-level patterns rather than individual molecular states, the ~10 bits/second limit on conscious processing makes sense: you choose among a manageable number of macroscopic alternatives. The proposal connects to established neuroscience — cortical columns are well-characterised functional units. Column-scale selection would explain why conscious influence feels coarse-grained (you decide to act, not which synapses to fire). Note however that the quantum coherence mechanism remains highly speculative — zero-point field coupling at cortical scales has no established experimental support in neuroscience.
 
 **Difficulties.** The proposal is less developed than Orch OR or Stapp's ion channel account. The mechanism by which cortical columns achieve quantum coherence is speculative. The proposal faces the same general decoherence objection as other candidates, amplified by the larger spatial scale.
 
 ### Attention Networks (Functional Level)
 
-Rather than identifying a specific molecular site, some formulations locate the interface at the functional level of attention networks themselves — the frontoparietal systems that implement directed focus. On this view, the relevant question is not "which molecules?" but "which neural systems?", and the answer is: whatever systems implement [willed attention](/voluntary-attention/).
+Rather than identifying a specific molecular site, some formulations locate the interface at the functional level of attention networks themselves — the frontoparietal systems that implement directed focus. On this view, the relevant question is not "which molecules?" but "which neural systems?", and the answer is: whatever systems implement [willed attention](/concepts/attention-as-interface/).
 
 **Strengths.** The 2025 COGITATE adversarial testing found frontoparietal attention networks to be distinct from the posterior "hot zone" where conscious content appears to reside. This suggests the interface may be where these systems meet — where attention modulates conscious content. The approach avoids premature commitment to a specific molecular mechanism. Willed attention shows distinctive neural signatures (frontal theta, bidirectional frontoparietal coherence) that distinguish it from automatic processing.
 
@@ -202,10 +202,10 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 - [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/) — How the interface transforms across the lifespan
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture unifying filter theory and quantum selection
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness acts only in brains (the five criteria)
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The proposed selection mechanism in detail
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The proposed selection mechanism in detail
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge in biological systems
-- [psychophysical-coupling](/psychophysical-coupling/) — Bandwidth constraints on the mind-brain connection
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Bandwidth constraints on the mind-brain connection
 
 ## References
 

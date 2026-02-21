@@ -36,12 +36,12 @@ related_articles:
 title: Prospective Memory and Future-Oriented Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 When you leave home intending to buy milk, something must hold that intention during your commute so it "pops" into awareness when you pass the shop. This is prospective memory (PM)—remembering to perform planned actions in the future. Unlike retrospective memory (remembering what happened), PM is about remembering what to do. The capacity to maintain intentions across time, simulate future scenarios, and execute delayed plans represents a distinctively conscious form of cognition that connects intimately to free will and agency.
 
-Prospective memory matters for The Unfinishable Map's framework because it complements [autonoetic consciousness](/autonoetic-consciousness/)'s pastward mental time travel with futureward projection. If consciousness enables bidirectional temporal self-projection, this isn't merely a capacity for episodic replay but an active power to shape future action. The phenomenology of intention formation, the "pop" of prospective retrieval, and the causal influence of future simulation on present decisions all suggest consciousness participates in directing behaviour—not merely witnessing it.
+Prospective memory matters for The Unfinishable Map's framework because it complements [autonoetic consciousness](/concepts/episodic-memory/)'s pastward mental time travel with futureward projection. If consciousness enables bidirectional temporal self-projection, this isn't merely a capacity for episodic replay but an active power to shape future action. The phenomenology of intention formation, the "pop" of prospective retrieval, and the causal influence of future simulation on present decisions all suggest consciousness participates in directing behaviour—not merely witnessing it.
 
 ## Types of Prospective Memory
 
@@ -65,7 +65,7 @@ Mental time travel is genuinely bidirectional—a unified capacity for temporal 
 
 ### Patient KC: The Double Deficit
 
-[Patient KC](/autonoetic-consciousness/) couldn't remember events from his personal past *or* imagine events in his personal future—when asked what he would do tomorrow, his mind was "blank." This double deficit confirms that pastward and futureward projection share a common foundation: autonoetic consciousness. The self that remembers yesterday is the same self that imagines tomorrow.
+[Patient KC](/concepts/episodic-memory/) couldn't remember events from his personal past *or* imagine events in his personal future—when asked what he would do tomorrow, his mind was "blank." This double deficit confirms that pastward and futureward projection share a common foundation: autonoetic consciousness. The self that remembers yesterday is the same self that imagines tomorrow.
 
 ## The Phenomenology of Futurity
 
@@ -115,7 +115,7 @@ EFT causally influences behaviour: vividly imagining future consequences reduces
 
 EFT requires [working memory](/concepts/working-memory/) for holding, manipulating, and binding elements into coherent simulated scenarios. The [maintenance/manipulation asymmetry](/concepts/working-memory/#the-maintenancemanipulation-distinction) applies: storing an intention may be automatic, but actively simulating a future scenario requires conscious engagement. This explains why PM failures often involve retrieval rather than storage.
 
-The [specious present](/specious-present/) may constrain future simulation's temporal scope, with the "extended present" (Conway et al. 2016) reflecting what working memory can sustain with phenomenal vividness.
+The [specious present](/concepts/temporal-consciousness/) may constrain future simulation's temporal scope, with the "extended present" (Conway et al. 2016) reflecting what working memory can sustain with phenomenal vividness.
 
 ## The Illusionist Challenge
 
@@ -170,12 +170,12 @@ Prospective memory and future-oriented consciousness support all five foundation
 ## Further Reading
 
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — The void at the boundary between memory and anticipation
-- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel in both directions
+- [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel in both directions
 - [episodic-memory](/concepts/episodic-memory/) — Pastward mental time travel and the pastness quale
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for future simulation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal structure
-- [specious-present](/specious-present/) — The experienced duration of "now"
-- [free-will](/concepts/free-will/) — How consciousness shapes action
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now"
+- [free-will](/topics/free-will/) — How consciousness shapes action
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of intention formation
 - [motor-selection](/concepts/motor-selection/) — Willed movement and the attention-selection interface
 - [mental-effort](/concepts/mental-effort/) — The quantum Zeno mechanism for sustained attention

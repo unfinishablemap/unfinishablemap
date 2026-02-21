@@ -22,7 +22,7 @@ related_articles:
 title: Research Notes - The Specious Present and Temporal Experience
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 # Research: The Specious Present and Temporal Experience

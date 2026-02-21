@@ -41,7 +41,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Quantum entanglement may be the only physical phenomenon with structural features that *correspond to* [phenomenal unity](/phenomenal-unity/)—the fact that conscious experience comes as an integrated whole rather than a collection of separate parts. Classical binding mechanisms (gamma synchrony, thalamocortical loops, information integration) coordinate separate neural processes but cannot make them *one*. Entanglement provides something classical physics cannot: genuine ontological holism where the whole is prior to the parts. This structural correspondence does not by itself explain *how* physical holism produces phenomenal holism—that remains the hard problem—but it provides the right kind of physical substrate for unity, whereas classical mechanisms do not. Recent experimental evidence from 2024-2025 strengthens the empirical case, demonstrating that quantum effects in neural microtubules survive longer than critics calculated and correlate with consciousness in measurable ways.
+Quantum entanglement may be the only physical phenomenon with structural features that *correspond to* [phenomenal unity](/concepts/phenomenal-binding-and-holism/)—the fact that conscious experience comes as an integrated whole rather than a collection of separate parts. Classical binding mechanisms (gamma synchrony, thalamocortical loops, information integration) coordinate separate neural processes but cannot make them *one*. Entanglement provides something classical physics cannot: genuine ontological holism where the whole is prior to the parts. This structural correspondence does not by itself explain *how* physical holism produces phenomenal holism—that remains the hard problem—but it provides the right kind of physical substrate for unity, whereas classical mechanisms do not. Recent experimental evidence from 2024-2025 strengthens the empirical case, demonstrating that quantum effects in neural microtubules survive longer than critics calculated and correlate with consciousness in measurable ways.
 
 ## The Structure Matching Problem
 
@@ -207,7 +207,7 @@ Quantum binding provides a mechanism for consciousness to influence physical out
 
 ### No Many Worlds
 
-Quantum binding only explains phenomenal unity if collapse is real. In the [many-worlds interpretation](/arguments/many-worlds/), all possible bindings occur in branching universes. There is no genuine selection, no *this* binding becoming actual while others remain merely possible.
+Quantum binding only explains phenomenal unity if collapse is real. In the [many-worlds interpretation](/concepts/many-worlds/), all possible bindings occur in branching universes. There is no genuine selection, no *this* binding becoming actual while others remain merely possible.
 
 Many-worlds defenders might respond that decoherence alone—without collapse—explains why we don't observe superpositions: each branch sees a definite outcome because interference between branches is suppressed. But this "decoherence-only" interpretation faces the same problem: it cannot explain why *I* am in *this* branch rather than another. Decoherence makes branches effectively independent; it doesn't explain which branch contains my continued experience.
 
@@ -222,11 +222,11 @@ Classical binding approaches appear simpler—no quantum effects in warm biologi
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How conscious selection operates at the phenomenal level
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How quantum binding might amplify cognitive capacities
 - [binding-problem](/concepts/binding-problem/) — The full binding problem including classical approaches
-- [phenomenal-unity](/phenomenal-unity/) — The philosophical analysis of experiential unity
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — The philosophical analysis of experiential unity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum consciousness theories
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
-- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Detailed treatment of neural coherence evidence
+- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Detailed treatment of neural coherence evidence
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's alternative approach to unity
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails

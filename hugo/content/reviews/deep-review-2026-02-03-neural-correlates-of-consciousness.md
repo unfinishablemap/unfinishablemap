@@ -51,10 +51,10 @@ None. The previous review (2026-01-21) addressed the major critical issues inclu
 ### Enhancements Made
 1. Sharpened falsifiability condition 1 with operational specification and H₂O analogy
 2. Added free will connection in Bidirectional Interaction section linking NCC to agent causation
-3. Added cross-links to [free-will](/concepts/free-will/) and [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) in frontmatter
+3. Added cross-links to [free-will](/topics/free-will/) and [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) in frontmatter
 
 ### Cross-links Added
-- [free-will](/concepts/free-will/) — connection between NCC and free will debate
+- [free-will](/topics/free-will/) — connection between NCC and free will debate
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — relevant to NCC methodology distinguishing conscious from unconscious processing
 
 ## Remaining Items

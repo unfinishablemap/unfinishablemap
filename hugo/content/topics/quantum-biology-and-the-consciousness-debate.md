@@ -49,7 +49,7 @@ The objection hasn't merely weakened; it has inverted. We now know evolution can
 
 ## What Neural Mechanisms Exist?
 
-Five distinct [quantum mechanisms](/quantum-neural-mechanisms/) have been proposed specifically for neural systems:
+Five distinct [quantum mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) have been proposed specifically for neural systems:
 
 1. **Radical pair effects** in cryptochrome proteins may function in neural tissue, not just avian retinas. Spin coherence persists for microseconds—potentially relevant to neural timing.
 
@@ -117,7 +117,7 @@ The Map's position would face serious difficulty if:
 
 **Classical computation explains consciousness.** If a purely classical neural account fully explains the features that motivated quantum approaches—the binding problem, the unity of consciousness, the timing of decisions—parsimony favours the classical account. No such account currently exists.
 
-**Many-Worlds proves correct.** Under the [many-worlds interpretation](/arguments/many-worlds/), all quantum outcomes occur in different branches. The concept of "selection" loses meaning—not because it becomes illusory, but because the question "which outcome became actual?" presupposes a single outcome that MWI denies. Consciousness would have no role in determining outcomes because all outcomes occur. The quantum biology findings would remain scientifically interesting but irrelevant to the mind-body problem. The Map rejects MWI partly because the indexical question—why am I experiencing *this* branch rather than another?—seems meaningful even if MWI provides no resources to answer it.
+**Many-Worlds proves correct.** Under the [many-worlds interpretation](/concepts/many-worlds/), all quantum outcomes occur in different branches. The concept of "selection" loses meaning—not because it becomes illusory, but because the question "which outcome became actual?" presupposes a single outcome that MWI denies. Consciousness would have no role in determining outcomes because all outcomes occur. The quantum biology findings would remain scientifically interesting but irrelevant to the mind-body problem. The Map rejects MWI partly because the indexical question—why am I experiencing *this* branch rather than another?—seems meaningful even if MWI provides no resources to answer it.
 
 ## Relation to Site Perspective
 
@@ -136,7 +136,7 @@ Quantum biology connects to all five of the Map's [tenets](/tenets/):
 ## Further Reading
 
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
-- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Five proposed mechanisms for neural quantum effects
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms for neural quantum effects
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental causation

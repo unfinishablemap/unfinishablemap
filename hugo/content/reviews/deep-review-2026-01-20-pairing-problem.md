@@ -55,7 +55,7 @@ topics: []
 - Expanded Further Reading with 5 additional cross-links
 
 ### Cross-links Added
-- [interface-locality](/interface-locality/) (frontmatter + body + Further Reading)
+- [interface-locality](/concepts/brain-interface-boundary/) (frontmatter + body + Further Reading)
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) (frontmatter + Relation section + Further Reading)
 - [haecceity](/concepts/haecceity/) (frontmatter + strengthened body reference)
 - [illusionism](/concepts/illusionism/) (frontmatter + new section + Further Reading)

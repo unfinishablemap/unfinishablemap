@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
 - '[[past-self-void]]'
-- '[[binding-void]]'
+- binding-void
 - '[[identity-across-transformations]]'
 - '[[voids]]'
 title: Consciousness and the Metaphysics of Individuation
@@ -65,7 +65,7 @@ That these three positions remain live options after nearly three millennia of i
 
 Panpsychism—the view that consciousness is fundamental and ubiquitous—faces the [combination problem](/concepts/combination-problem/): how do micro-conscious entities combine into macro-conscious subjects like us? David Chalmers identifies *subject-summing* as the hardest form: we can conceive micro-subjects existing without any macro-consciousness emerging. The gap between micro-experience and unified subjecthood resists any compositional principle.
 
-The Map rejects panpsychism but inherits a related puzzle. If consciousness interfaces with the physical through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), and if collapse events occur throughout the nervous system, what unifies these into a single subject's experience rather than a swarm of disconnected micro-collapses? The [unity of consciousness](/phenomenal-unity/)—the fact that your visual field, bodily sensations, and inner monologue belong to one phenomenal field—requires some principle of integration that physical connectivity alone does not explain. (Split-brain cases demonstrate this: severing the main physical connection does not cleanly sever the subject.)
+The Map rejects panpsychism but inherits a related puzzle. If consciousness interfaces with the physical through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), and if collapse events occur throughout the nervous system, what unifies these into a single subject's experience rather than a swarm of disconnected micro-collapses? The [unity of consciousness](/concepts/phenomenal-binding-and-holism/)—the fact that your visual field, bodily sensations, and inner monologue belong to one phenomenal field—requires some principle of integration that physical connectivity alone does not explain. (Split-brain cases demonstrate this: severing the main physical connection does not cleanly sever the subject.)
 
 There is also a *de-combination problem* running in the opposite direction. If reality were fundamentally one conscious field (as open individualism suggests), what fragments it into discrete subjects? Gregory Miller calls this the overlooked twin of the combination problem. Both problems converge on the same gap: we lack any principle that explains how consciousness divides into units.
 
@@ -121,7 +121,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [combination-problem](/concepts/combination-problem/) — How micro-subjects fail to compose macro-subjects
 - [other-minds-void](/voids/other-minds-void/) — The epistemic asymmetry in consciousness access
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: identity through radical change
-- [binding-void](/binding-void/) — The related problem of what binds experiences into a unified field
+- binding-void — The related problem of what binds experiences into a unified field
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of subjecthood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self-boundaries and *anattā*
 

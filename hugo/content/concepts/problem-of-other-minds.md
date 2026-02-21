@@ -8,7 +8,7 @@ concepts:
 - '[[theory-of-mind]]'
 - '[[metarepresentation]]'
 - '[[qualia]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[mysterianism]]'
 - '[[philosophical-zombies]]'
 - '[[illusionism]]'
@@ -96,7 +96,7 @@ The argument has force: it doesn't rely on behavioral similarity (inferring from
 
 Theory of mind admits levels. Level 1: tracking what others perceive. Level 2: attributing beliefs that may differ from reality. Level 3+: recursive mindreading—representing others' mental states about mental states.
 
-The critical observation: Level 3 theory of mind requires [metarepresentation](/metarepresentation/)—representing mental states *as* mental states. And metarepresentation appears to require phenomenal consciousness. To represent your belief about my intention requires unified awareness binding all three levels.
+The critical observation: Level 3 theory of mind requires [metarepresentation](/concepts/metacognition/)—representing mental states *as* mental states. And metarepresentation appears to require phenomenal consciousness. To represent your belief about my intention requires unified awareness binding all three levels.
 
 If Level 3 mindreading requires consciousness, and humans routinely engage in it, then the very capacity for recursive attribution provides evidence for other minds. When someone accurately predicts what I will think about what they think, they demonstrate the metarepresentational capacity that requires consciousness.
 
@@ -122,7 +122,7 @@ The problem of other minds frames debates about [animal](/topics/animal-consciou
 
 For animals, the 2024 New York Declaration recognized "strong scientific support" for consciousness in mammals and birds. Biological similarity strengthens inference—shared evolutionary history, neural architecture, behavioral patterns. The [consciousness as amplifier](/concepts/consciousness-as-amplifier/) hypothesis provides additional grounds: animals' systematic pattern of cognitive capacities (strong procedural learning, weak metarepresentation) maps onto the distinction between consciousness-dependent and consciousness-independent processing.
 
-For AI, the Map's rejection of [functionalism](/arguments/functionalism/) complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker.
+For AI, the Map's rejection of [functionalism](/concepts/functionalism/) complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker.
 
 ## The Illusionist Challenge
 
@@ -166,7 +166,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [other-minds-void](/voids/other-minds-void/) — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why the "view from nowhere" fails for consciousness
 - [theory-of-mind](/concepts/theory-of-mind/) — Mental state attribution as evidence for other minds
-- [metarepresentation](/metarepresentation/) — Why representing minds as minds requires consciousness
+- [metarepresentation](/concepts/metacognition/) — Why representing minds as minds requires consciousness
 - [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is illusory
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The metaphysical problem this epistemological problem presupposes
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment dramatizing behavior-consciousness gap

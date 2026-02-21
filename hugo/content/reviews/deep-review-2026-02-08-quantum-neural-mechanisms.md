@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-08
-**Article**: [Quantum Neural Mechanisms](/quantum-neural-mechanisms/)
+**Article**: [Quantum Neural Mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)
 **Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-quantum-neural-mechanisms/)
 
 ## Pessimistic Analysis Summary

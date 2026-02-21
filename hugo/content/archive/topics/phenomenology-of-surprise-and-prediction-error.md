@@ -53,7 +53,7 @@ Computational models treat prediction error as a quantity: a signal with magnitu
 
 **Noticing discrepancies** marks the threshold where prediction error becomes phenomenal. You walk into a room and something is different but you can't immediately say what. The experience has a distinctive character: a vague unease, a heightened alertness, a felt sense that the environment doesn't match your model. The discrepancy is registered as a *quality of the situation* before it becomes a *fact about the world*. This pre-cognitive phenomenal phase—the feeling that something is off before you know what—illustrates the gap between the brain's error computation and the mind's experience of it.
 
-**Overt surprise** is the paradigm case explored in the Map's treatment of [consciousness-and-surprise](/consciousness-and-surprise/). What matters here is the temporal microstructure. The experience unfolds in phases: a sharp disruption of the current experiential field, a momentary blank or freeze, rapid reorientation of [attention](/attention/), and then the beginning of sense-making. Each phase has its own qualitative character. The disruption has the character of a tear in the fabric of expectation. The freeze has the character of suspension—a brief interval where the world is present but uninterpreted. The reorientation has the character of grasping, of consciousness reaching toward the source of violation.
+**Overt surprise** is the paradigm case explored in the Map's treatment of [consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/). What matters here is the temporal microstructure. The experience unfolds in phases: a sharp disruption of the current experiential field, a momentary blank or freeze, rapid reorientation of [attention](/concepts/attention-as-interface/), and then the beginning of sense-making. Each phase has its own qualitative character. The disruption has the character of a tear in the fabric of expectation. The freeze has the character of suspension—a brief interval where the world is present but uninterpreted. The reorientation has the character of grasping, of consciousness reaching toward the source of violation.
 
 **Deep disorientation** occurs when prediction error is large enough to overwhelm existing models rather than merely update them. This is what Kuhn described in paradigm shifts and what the Map explores in [belief revision](/topics/phenomenology-of-belief-revision/): not a correction within a framework but the felt collapse of the framework itself. The phenomenal character differs from ordinary surprise as vertigo differs from a stumble. There is a distinctive experience of groundlessness—the recognition that one's interpretive apparatus is inadequate—accompanied by something closer to existential anxiety than cognitive recalibration.
 
@@ -115,7 +115,7 @@ The phenomenology of surprise and prediction error connects to The Unfinishable 
 
 ## Further Reading
 
-- [consciousness-and-surprise](/consciousness-and-surprise/) — Why surprise requires phenomenal consciousness
+- [consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/) — Why surprise requires phenomenal consciousness
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) — The felt texture of changing one's mind
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention and forward-directed experience
 - [predictive-processing](/concepts/predictive-processing/) — The computational framework and its limits

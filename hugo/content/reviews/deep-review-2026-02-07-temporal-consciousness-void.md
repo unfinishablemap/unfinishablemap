@@ -49,8 +49,8 @@ None.
 - Appropriate restraint on quantum speculation
 
 ### Enhancements Made
-- Added `[specious-present](/specious-present/)` cross-link (concept discussed extensively but not linked)
-- Added `[duration](/duration/)` cross-link in Bergson section
+- Added `[specious-present](/concepts/temporal-consciousness/)` cross-link (concept discussed extensively but not linked)
+- Added `[duration](/concepts/temporal-consciousness/)` cross-link in Bergson section
 - Added `[self-and-consciousness](/concepts/self-and-consciousness/)` cross-link in self-entanglement discussion
 - Added `[default-mode-network](/concepts/default-mode-network/)` cross-link in neurological evidence
 - Tightened AI section (reduced from 3 paragraphs to 2, removed redundancy)
@@ -58,8 +58,8 @@ None.
 - Updated frontmatter concepts to include newly linked articles
 
 ### Cross-links Added
-- [specious-present](/specious-present/)
-- [duration](/duration/)
+- [specious-present](/concepts/temporal-consciousness/)
+- [duration](/concepts/temporal-consciousness/)
 - [self-and-consciousness](/concepts/self-and-consciousness/)
 - [default-mode-network](/concepts/default-mode-network/)
 

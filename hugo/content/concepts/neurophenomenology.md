@@ -18,7 +18,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[decoherence]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[contemplative-neuroscience]]'
 created: 2026-01-14
 date: &id001 2026-01-22
@@ -51,13 +51,13 @@ Varela (1946-2001) proposed neurophenomenology as "a methodological remedy for t
 2. **Neural measurement**: Brain activity recorded during specific experiential states
 3. **Mutual constraint**: First-person reports and neural data inform each other; neither reduces to the other
 
-[Contemplative-neuroscience](/concepts/contemplative-neuroscience/) has empirically validated this framework. The Shamatha Project demonstrated that phenomenological training produces measurable improvements in attention and discrimination. Crucially, phenomenological reports predict neural signatures, while neural findings validate phenomenological categories—top-down causation that challenges [epiphenomenalism](/arguments/epiphenomenalism/).
+[Contemplative-neuroscience](/concepts/contemplative-neuroscience/) has empirically validated this framework. The Shamatha Project demonstrated that phenomenological training produces measurable improvements in attention and discrimination. Crucially, phenomenological reports predict neural signatures, while neural findings validate phenomenological categories—top-down causation that challenges [epiphenomenalism](/concepts/epiphenomenalism/).
 
 ## Contemplative Science
 
 Buddhist meditation offers protocols for observing mental processes with precision unavailable to untrained introspection.
 
-**Temporal microstructure**: Long-term meditators access the [specious present](/specious-present/)—the experienced duration of "now" (100ms to 3 seconds). Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them. The Map adopts modified extensionalism: experience is genuinely temporally extended, with extension constituted through quantum collapse. Gamma-range synchronies (30-70 Hz, ~25-35ms cycles) may implement temporal binding at exactly this scale.
+**Temporal microstructure**: Long-term meditators access the [specious present](/concepts/temporal-consciousness/)—the experienced duration of "now" (100ms to 3 seconds). Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them. The Map adopts modified extensionalism: experience is genuinely temporally extended, with extension constituted through quantum collapse. Gamma-range synchronies (30-70 Hz, ~25-35ms cycles) may implement temporal binding at exactly this scale.
 
 **The constructed self**: Advanced meditation reveals the self as dynamic process rather than fixed entity. Moments of "selfless" awareness occur where the usual subject-object structure dissolves—phenomenological data invisible to third-person methods.
 
@@ -143,7 +143,7 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Meditation demonstrates consciousness's active capacity. [Contemplative-neuroscience](/concepts/contemplative-neuroscience/) distinguishes willed attention (distinct frontal theta), instructed attention, and exogenous attention. The *content* of conscious intention matters causally: cultivating compassion produces different neural changes than sustaining breath attention.
 
-Meditation exhibits the structure of [self-forming actions](/concepts/free-will/): the meditator sustains attention against competing impulses, and through effort, neural infrastructure reorganizes. The [two modes](/concepts/meditation-and-consciousness-modes/)—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy.
+Meditation exhibits the structure of [self-forming actions](/topics/free-will/): the meditator sustains attention against competing impulses, and through effort, neural infrastructure reorganizes. The [two modes](/concepts/meditation-and-consciousness-modes/)—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: The [attention-as-interface](/concepts/attention-as-interface/) hypothesis receives support. [Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence; *repeated* observations can hold quantum systems in specific states despite decoherence between observations. Meditation trains exactly this: the ability to return focus rapidly and repeatedly. The temporal microstructure (~25-35ms gamma cycles) operates at scales where Zeno dynamics could accumulate effects.
 
@@ -163,12 +163,12 @@ Meditation exhibits the structure of [self-forming actions](/concepts/free-will/
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention serves as consciousness's interface with matter
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How contemplative observation reveals time's structure
-- [specious-present](/specious-present/) — The experienced duration of "now" and the extensionalism debate
-- [duration](/duration/) — Bergson's analysis of lived time, convergent with contemplative reports
+- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now" and the extensionalism debate
+- [duration](/concepts/temporal-consciousness/) — Bergson's analysis of lived time, convergent with contemplative reports
 - [qualia](/concepts/qualia/) — The qualitative features that contemplative training discloses
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness is an illusion
 - [decoherence](/concepts/decoherence/) — The quantum objection and biological responses
-- [free-will](/concepts/free-will/) — Self-forming actions and meditation practice
+- [free-will](/topics/free-will/) — Self-forming actions and meditation practice
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — The contemplative traditions informing this research
 - [mysterianism](/concepts/mysterianism/) — Cognitive limits that neurophenomenology respects
 - [neurophenomenology-meditation-studies-2026-01-14](/research/neurophenomenology-meditation-studies-2026-01-14/) — Research notes on this topic

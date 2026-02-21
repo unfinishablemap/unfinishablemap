@@ -57,8 +57,8 @@ topics: []
 
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/)
-- [interface-locality](/interface-locality/)
-- [many-worlds](/arguments/many-worlds/)
+- [interface-locality](/concepts/brain-interface-boundary/)
+- [many-worlds](/concepts/many-worlds/)
 - [pairing-problem](/concepts/pairing-problem/)
 - [decoherence](/concepts/decoherence/)
 - [attention-as-interface](/concepts/attention-as-interface/)

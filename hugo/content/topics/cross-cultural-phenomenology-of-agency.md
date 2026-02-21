@@ -33,13 +33,13 @@ related_articles:
 - '[[process-philosophy]]'
 title: Cross-Cultural Phenomenology of Agency
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 ---
 
 The Unfinishable Map holds that consciousness genuinely causes physical outcomes — that the felt sense of "I did that" tracks something real. If so, then cross-cultural variations in how agency is experienced become philosophically urgent. When a Daoist sage reports acting through *wu wei* (effortless non-action) and a Western existentialist reports acting through radical self-determination, are they describing the same causal phenomenon dressed in different cultural clothing? Or do different cultural frameworks produce genuinely different modes of conscious causation? The answer matters for any theory that takes [the phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) seriously as evidence about the structure of consciousness.
@@ -78,7 +78,7 @@ The pattern of cultural variation with phenomenological invariance is itself evi
 
 A physicalist might explain the invariants biologically: human brains share motor-control architecture, efference-copy mechanisms, and prefrontal executive function, so cross-cultural commonalities reflect shared neurology rather than irreducible consciousness. This objection has force — shared neural architecture certainly contributes to the invariants. But the biological account faces its own explanatory gap. The comparator model explains *why* the brain distinguishes self-generated from externally caused movement, but not *why there is something it is like* to make that distinction. Neural prediction error explains the functional contrast between doing and undergoing without explaining the phenomenal contrast — why one feels like agency and the other feels like passivity. The invariants the Map identifies are not merely functional commonalities (those would indeed be biological) but phenomenological ones: they concern what agency *is like*, not merely how the motor system processes it. Culture shapes *how* agency is experienced without creating the capacity for agency experience itself.
 
-This parallels the argument from [social cognition](/concepts/consciousness-and-social-cognition/): cultural frameworks for understanding other minds vary enormously, yet the capacity for intersubjective understanding appears to require phenomenal consciousness regardless of cultural context. The invariants point to something that precedes and enables cultural variation — a pre-cultural phenomenological structure that different traditions articulate differently.
+This parallels the argument from [social cognition](/topics/consciousness-and-social-cognition/): cultural frameworks for understanding other minds vary enormously, yet the capacity for intersubjective understanding appears to require phenomenal consciousness regardless of cultural context. The invariants point to something that precedes and enables cultural variation — a pre-cultural phenomenological structure that different traditions articulate differently.
 
 The Map interprets this as evidence for the irreducibility of consciousness. If agency experience had no common core across cultures, its phenomenology could plausibly be explained as a cultural construction. The persistence of invariants despite radical variation in cultural framing suggests that felt agency tracks something real about consciousness — something that cultural interpretation can inflect but not fabricate.
 
@@ -86,13 +86,13 @@ The Map interprets this as evidence for the irreducibility of consciousness. If 
 
 The Map's commitment to [bidirectional interaction](/concepts/interactionist-dualism/) — that consciousness genuinely causes physical outcomes — gains indirect support from cross-cultural phenomenology. If the felt sense of agency were a cultural confabulation, one would expect cultures that explicitly deny the authoring self (Buddhism) or effortful willing (Daoism) to report its absence. They do not. Even traditions that theoretically dissolve the agent preserve the phenomenological distinction between doing and undergoing. This cross-cultural persistence is what one would expect if the sense of agency tracks genuine causal efficacy rather than serving as a post-hoc narrative.
 
-The tenet of [minimal quantum interaction](/concepts/free-will/) specifies *how* consciousness might cause outcomes — by biasing otherwise indeterminate quantum events. Cross-cultural phenomenology cannot speak to mechanism directly. But it does impose a constraint: any proposed mechanism must accommodate both effortful willing (Western paradigm) and effortless action (*wu wei*), since both appear to be genuine modes of conscious causation rather than one being illusory.
+The tenet of [minimal quantum interaction](/topics/free-will/) specifies *how* consciousness might cause outcomes — by biasing otherwise indeterminate quantum events. Cross-cultural phenomenology cannot speak to mechanism directly. But it does impose a constraint: any proposed mechanism must accommodate both effortful willing (Western paradigm) and effortless action (*wu wei*), since both appear to be genuine modes of conscious causation rather than one being illusory.
 
 The Map's commitment to Occam's Razor having limits is also relevant. The "simplest" account of cross-cultural variation in agency experience would reduce it to cultural construction — different stories about the same meaningless neural events. But this fails to explain why certain phenomenological features persist across cultures that explicitly try to dissolve them. Sometimes the more complex explanation — that consciousness has irreducible structural features that culture modulates — better fits the evidence.
 
 ## Further Reading
 
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)

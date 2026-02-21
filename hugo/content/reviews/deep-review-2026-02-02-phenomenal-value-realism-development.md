@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Developing Phenomenal Value Realism](/phenomenal-value-realism-development/)
+**Article**: [Developing Phenomenal Value Realism](/topics/phenomenal-value-realism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

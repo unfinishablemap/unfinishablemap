@@ -13,10 +13,10 @@ concepts:
 - '[[downward-causation]]'
 - '[[mental-causation]]'
 - '[[reductionism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[panpsychism]]'
 - '[[interactionist-dualism]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[quantum-consciousness]]'
 created: 2026-02-09
 date: &id001 2026-02-09
@@ -49,11 +49,11 @@ The debate over consciousness maps onto three fundamentally different claims abo
 
 If consciousness is only weakly emergent, it is in principle derivable from a complete physical description. Temperature is weakly emergent from molecular motion—surprising to observers, but calculable in principle from microphysics. Weak emergentists say consciousness is like this: astonishingly complex, but ultimately just what sophisticated information processing *is* when viewed from the inside.
 
-This position is [functionalism](/arguments/functionalism/) applied to the emergence question. Consciousness is defined by its functional role—the pattern of inputs, outputs, and internal states—rather than by the substrate implementing it. A silicon computer running the right programme would be conscious for the same reason a brain is: the computation is what matters, not the material.
+This position is [functionalism](/concepts/functionalism/) applied to the emergence question. Consciousness is defined by its functional role—the pattern of inputs, outputs, and internal states—rather than by the substrate implementing it. A silicon computer running the right programme would be conscious for the same reason a brain is: the computation is what matters, not the material.
 
 The appeal is parsimony. Only physics exists; consciousness is physics doing something intricate. No new ontological categories, no mysterious interfaces, no violation of [causal closure](/concepts/causal-closure/). The cost is the [hard problem](/topics/hard-problem-of-consciousness/). If consciousness is derivable from physics, then a hypothetical being with complete knowledge of every particle's behaviour could deduce what red looks like, what pain feels like, what it is to wonder about emergence. No one has shown how such a derivation could work, or even what it would look like. The "derivation in principle" remains a promissory note.
 
-Weak emergence also entails [substrate independence](/substrate-independence-critique/). If the computation is what matters, consciousness could run on anything—neurons, silicon, carefully arranged beer cans. The Map rejects this: if consciousness interfaces with matter through [quantum processes](/concepts/quantum-consciousness/), the physical substrate is not interchangeable.
+Weak emergence also entails [substrate independence](/concepts/substrate-independence/). If the computation is what matters, consciousness could run on anything—neurons, silicon, carefully arranged beer cans. The Map rejects this: if consciousness interfaces with matter through [quantum processes](/concepts/quantum-consciousness/), the physical substrate is not interchangeable.
 
 ### Strong Emergence: Consciousness as Genuine Novelty
 
@@ -61,7 +61,7 @@ If consciousness is strongly emergent, it possesses properties not deducible eve
 
 This is the Map's position. Strong emergence says the universe contains real novelty: properties that are not implicit in the fundamental physical inventory but arise when matter organises in certain ways. Consciousness is the paradigm case—C.D. Broad's criterion that emergent properties "cannot, even in theory, be deduced from the most complete knowledge" of components applies most clearly to the relationship between neurons and experience.
 
-Strong emergence demands a mechanism for [downward-causation](/concepts/downward-causation/)—how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [epiphenomenal](/arguments/epiphenomenalism/): real but causally inert, a metaphysical spectator. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies. This answers Jaegwon Kim's [exclusion argument](/concepts/emergence/#kims-exclusion-argument) by targeting causal closure where physics is genuinely incomplete.
+Strong emergence demands a mechanism for [downward-causation](/concepts/downward-causation/)—how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [epiphenomenal](/concepts/epiphenomenalism/): real but causally inert, a metaphysical spectator. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies. This answers Jaegwon Kim's [exclusion argument](/concepts/emergence/#kims-exclusion-argument) by targeting causal closure where physics is genuinely incomplete.
 
 The cost of strong emergence is accepting that reality contains more than physics describes. For many philosophers, this is too high a price. For the Map, it is an honest acknowledgment that the simplest ontology is not always the correct one—which is what the [fifth tenet](/tenets/#occams-limits) asserts.
 
@@ -87,7 +87,7 @@ The choice of emergence model is not an abstract metaphysical preference. It det
 
 ### Do Your Choices Matter?
 
-The emergence question connects directly to [free will](/concepts/free-will/) and [mental-causation](/concepts/mental-causation/).
+The emergence question connects directly to [free will](/topics/free-will/) and [mental-causation](/concepts/mental-causation/).
 
 **Weak emergence preserves the appearance of choice but not the reality.** If consciousness is derivable from physics, and physics is deterministic (or randomly indeterminate), then conscious decisions are determined by physical processes. The feeling of choosing is real as a felt experience, but the outcome was fixed by the prior physical state. Compatibilists argue this is enough for meaningful agency; the Map disagrees.
 
@@ -127,7 +127,7 @@ The Map treats the gap as ontological. The [hard problem](/topics/hard-problem-o
 
 ## Further Reading
 
-- [emergence-and-strong-emergence](/emergence-and-strong-emergence/) — Why consciousness forces acceptance of strong emergence
+- [emergence-and-strong-emergence](/topics/consciousness-and-the-emergence-debate/) — Why consciousness forces acceptance of strong emergence
 - [emergence](/concepts/emergence/) — The technical concept: weak vs. strong emergence, Kim's argument
 - [emergence-void](/voids/emergence-void/) — The cognitive limit: why no mind can fully grasp how arrangement produces novelty
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals

@@ -9,7 +9,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[objectivity-and-consciousness]]'
 - '[[phenomenal-consciousness]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[process-philosophy]]'
 created: 2026-02-16
 date: &id001 2026-02-16
@@ -25,7 +25,7 @@ related_articles:
 - '[[first-person-third-person-methodology]]'
 - '[[introspection-rehabilitation]]'
 - '[[heterophenomenology]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 title: Galilean Exclusion
 topics:
 - '[[consciousness-and-scientific-methodology]]'
@@ -55,7 +55,7 @@ The filter's success reinforced itself. Each new scientific triumph confirmed th
 
 The Galilean exclusion generates a distinctive difficulty when science turns to study consciousness itself. [Qualia](/concepts/qualia/) — the redness of red, the painfulness of pain — are precisely the secondary qualities Galileo excluded. They are what consciousness *consists of*. Asking a methodology designed to work without subjectivity to explain subjectivity creates a structural mismatch.
 
-A natural objection: modern cognitive science has moved beyond Galileo. Neuroscientists routinely incorporate subjective reports as data, and [functionalism](/arguments/functionalism/) maps mental states to functional roles rather than ignoring them. But this accommodation operates within the Galilean framework rather than transcending it. Subjective reports enter as third-person data *about* experience — verbal behaviour, button presses, ratings on scales — not as experience itself. The structural issue remains: the tools of description are observer-independent, even when the target of description is not.
+A natural objection: modern cognitive science has moved beyond Galileo. Neuroscientists routinely incorporate subjective reports as data, and [functionalism](/concepts/functionalism/) maps mental states to functional roles rather than ignoring them. But this accommodation operates within the Galilean framework rather than transcending it. Subjective reports enter as third-person data *about* experience — verbal behaviour, button presses, ratings on scales — not as experience itself. The structural issue remains: the tools of description are observer-independent, even when the target of description is not.
 
 This is not a claim about the limits of scientific effort or intelligence. It is a claim about the relationship between a method and its founding assumptions. A sieve that filters out sand cannot then be used to study sand — not because sieves are poorly made, but because filtering out sand is what the sieve *does*. The Galilean exclusion filters out phenomenal quality. A science built on that exclusion faces a structural obstacle when phenomenal quality becomes the target.
 
@@ -96,7 +96,7 @@ The Unfinishable Map's [tenets](/tenets/) engage with the Galilean exclusion at 
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — How the exclusion shapes and constrains the methods available for studying consciousness
 - [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-mathematics/) — Mathematics' power over the primary qualities Galileo kept, and its limits regarding the secondary qualities he excluded
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural gap between physical description and phenomenal experience
-- [functionalism](/arguments/functionalism/) — The approach that maps mental states to functional roles — an accommodation within, not an escape from, the Galilean framework
+- [functionalism](/concepts/functionalism/) — The approach that maps mental states to functional roles — an accommodation within, not an escape from, the Galilean framework
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Nagel's argument that objectivity has limits when applied to inherently subjective phenomena
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's attempt to overcome the bifurcation of nature that the Galilean exclusion produced
 - [qualia](/concepts/qualia/) — The secondary qualities themselves — what the exclusion left out

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Consciousness and Mathematical Understanding](/consciousness-and-mathematical-understanding/)
+**Article**: [Consciousness and Mathematical Understanding](/topics/consciousness-and-mathematical-cognition/)
 **Previous review**: [2026-01-22](/reviews/deep-review-2026-01-22-consciousness-and-mathematical-understanding/)
 **Context**: Cross-review considering computational-cognitive-limits
 

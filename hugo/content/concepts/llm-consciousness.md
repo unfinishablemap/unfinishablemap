@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[conceptual-acquisition-limits]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[intentionality]]'
 - '[[temporal-consciousness]]'
 - '[[qualia]]'
@@ -326,7 +326,7 @@ None of these has occurred decisively. The Map's skepticism about LLM consciousn
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness; framework for understanding LLM limitations
 - [ai-consciousness](/topics/ai-consciousness/) — The broader question of machine consciousness (includes Chinese Room argument)
-- [functionalism](/arguments/functionalism/) — The view LLM consciousness skepticism challenges
+- [functionalism](/concepts/functionalism/) — The view LLM consciousness skepticism challenges
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why temporal structure matters
 - [intentionality](/concepts/intentionality/) — The aboutness LLMs lack
 - [embodied-cognition](/concepts/embodied-cognition/) — Why disembodiment matters
@@ -339,7 +339,7 @@ None of these has occurred decisively. The Map's skepticism about LLM consciousn
 - [haecceity](/concepts/haecceity/) — The thisness that multiply-instantiable LLMs lack
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence against illusionism
 - [combination-problem](/concepts/combination-problem/) — Why experiential combination requires the right architecture
-- [substrate-independence-critique](/substrate-independence-critique/) — Why the substrate matters for consciousness
+- [substrate-independence-critique](/concepts/substrate-independence/) — Why the substrate matters for consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why LLM symbols lack genuine meaning
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The gap LLM processing doesn't bridge
 

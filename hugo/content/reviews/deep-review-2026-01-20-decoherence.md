@@ -63,11 +63,11 @@ None - the document was well-structured and aligned with site tenets.
 6. Added Stapp, Dennett, Frankish, Tallis, Whitehead references
 
 ### Cross-links Added
-- [neural-quantum-coherence](/neural-quantum-coherence/) — detailed neural evidence
+- [neural-quantum-coherence](/concepts/quantum-coherence-in-neural-systems/) — detailed neural evidence
 - [illusionism](/concepts/illusionism/) — eliminativist challenge
 - [attention-as-interface](/concepts/attention-as-interface/) — Zeno mechanism elaboration
-- [attention](/attention/) — connection to Stapp's framework
-- [many-worlds](/arguments/many-worlds/) — contrasting interpretation
+- [attention](/concepts/attention-as-interface/) — connection to Stapp's framework
+- [many-worlds](/concepts/many-worlds/) — contrasting interpretation
 
 ## Remaining Items
 

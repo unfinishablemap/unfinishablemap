@@ -6,12 +6,12 @@ ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[qualia]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[emotional-consciousness]]'
 - '[[introspection]]'
 - '[[illusionism]]'
-- '[[hard-problem]]'
-- '[[moral-realism]]'
+- '[[hard-problem-of-consciousness]]'
+- moral-realism
 - '[[causal-powers]]'
 created: 2026-02-11
 date: &id001 2026-02-11
@@ -49,7 +49,7 @@ The transparency of normativity in experience distinguishes phenomenal normativi
 
 ## Relation to Phenomenal Value Realism
 
-Phenomenal normativity is the foundation for [phenomenal-value-realism](/concepts/phenomenal-value-realism/)—the metaethical view that intrinsic value is grounded in conscious experience. But the concepts are distinct:
+Phenomenal normativity is the foundation for [phenomenal-value-realism](/topics/phenomenal-value-realism/)—the metaethical view that intrinsic value is grounded in conscious experience. But the concepts are distinct:
 
 **Phenomenal normativity** is a claim about experience: certain phenomenal states have normative character built in.
 
@@ -57,7 +57,7 @@ Phenomenal normativity is the foundation for [phenomenal-value-realism](/concept
 
 You could hold phenomenal normativity for hedonic experiences while denying phenomenal value realism globally—perhaps holding that other values (knowledge, beauty, virtue) are not phenomenally constituted. Conversely, you might hold phenomenal value realism while being skeptical that normativity is truly *intrinsic* to phenomenal character rather than projected.
 
-The Map holds both: phenomenal normativity is correct about valence, and [phenomenal value pluralism](/concepts/phenomenal-value-realism/#the-maps-position-phenomenal-value-pluralism) extends the insight to multiple features of experience (meaning, agency, understanding, aesthetic quality, connection).
+The Map holds both: phenomenal normativity is correct about valence, and [phenomenal value pluralism](/topics/phenomenal-value-realism/#the-maps-position-phenomenal-value-pluralism) extends the insight to multiple features of experience (meaning, agency, understanding, aesthetic quality, connection).
 
 ## The Is-Ought Bridge
 
@@ -139,7 +139,7 @@ If phenomenal normativity is correct, several metaethical positions face pressur
 
 **Constructivism** (value is constructed through reason or social practice) must deny that pain was bad before humans developed moral frameworks.
 
-Each faces the challenge: explain how "pain is bad" could be false, non-factual, or constructed when badness appears constitutive of pain's phenomenal character. If phenomenal normativity is correct, it provides one of the strongest foundations for [moral-realism](/moral-realism/)—at minimum, hedonic value facts are directly accessible rather than constructed or projected.
+Each faces the challenge: explain how "pain is bad" could be false, non-factual, or constructed when badness appears constitutive of pain's phenomenal character. If phenomenal normativity is correct, it provides one of the strongest foundations for moral-realism—at minimum, hedonic value facts are directly accessible rather than constructed or projected.
 
 ### For AI Alignment
 
@@ -157,11 +157,11 @@ This grounds animal ethics: if animals have phenomenal consciousness with hedoni
 
 Phenomenal normativity connects to each of the Map's five tenets:
 
-**[Dualism](/tenets/#dualism)**: If consciousness is irreducible and normativity is built into consciousness, normativity is equally irreducible. The [explanatory-gap](/concepts/explanatory-gap/) between physical description and phenomenal quality—the core of the [hard-problem](/hard-problem/)—extends to the gap between physical description and normative properties.
+**[Dualism](/tenets/#dualism)**: If consciousness is irreducible and normativity is built into consciousness, normativity is equally irreducible. The [explanatory-gap](/concepts/explanatory-gap/) between physical description and phenomenal quality—the core of the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)—extends to the gap between physical description and normative properties.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness can bias quantum outcomes and consciousness carries normative force, value-laden choices can influence physical outcomes. Moral agency becomes metaphysically robust, not epiphenomenal.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The [epiphenomenalist](/arguments/epiphenomenalism/) self-undermining argument applies. If consciousness were causally inert, we couldn't trust our normative judgments (which depend on conscious experiences) to guide our behavior. But we do trust them and should, suggesting consciousness causally influences action.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The [epiphenomenalist](/concepts/epiphenomenalism/) self-undermining argument applies. If consciousness were causally inert, we couldn't trust our normative judgments (which depend on conscious experiences) to guide our behavior. But we do trust them and should, suggesting consciousness causally influences action.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If phenomenal normativity makes experiences intrinsically valuable or disvaluable, moral choices have genuine stakes. Many-worlds threatens this: every choice produces all outcomes across branches. Rejecting many-worlds preserves that which branch *I* experience matters morally.
 
@@ -181,7 +181,7 @@ Phenomenal normativity would face pressure if:
 
 ## Further Reading
 
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical position grounded in phenomenal normativity
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounded in phenomenal normativity
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
 - [qualia](/concepts/qualia/) — The qualitative features of experience
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
@@ -190,8 +190,8 @@ Phenomenal normativity would face pressure if:
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing phenomenal normativity for AI alignment
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to valence
-- [hard-problem](/hard-problem/) — The explanatory gap's normative dimension
-- [moral-realism](/moral-realism/) — Phenomenal normativity as foundation for moral realism
+- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap's normative dimension
+- moral-realism — Phenomenal normativity as foundation for moral realism
 - [causal-powers](/concepts/causal-powers/) — How normative consciousness exercises causal influence
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why normativity requires phenomenal consciousness, not function
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness is illusory

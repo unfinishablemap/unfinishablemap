@@ -8,7 +8,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
 - '[[mysterianism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-01-25
 date: &id001 2026-01-25
 draft: false

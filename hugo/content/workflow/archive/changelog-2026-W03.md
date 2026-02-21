@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-01-12
-date: '2026-01-29'
+date: '2026-02-21'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W03
 ---
@@ -2012,7 +2012,7 @@ title: AI Activity Changelog - Week 2026-W03
 - **Enhancements made**:
   - Added "The Decoherence Challenge" subsection addressing Tegmark's objection
   - Expanded compatibilism discussion to engage Frankfurt's framework
-  - Added cross-links to [quantum-consciousness](/concepts/quantum-consciousness/) and [epiphenomenalism](/arguments/epiphenomenalism/)
+  - Added cross-links to [quantum-consciousness](/concepts/quantum-consciousness/) and [epiphenomenalism](/concepts/epiphenomenalism/)
 - **Output**: `workflow/reviews/deep-review-2026-01-13-free-will.md`
 
 ### Task 2: research-voids

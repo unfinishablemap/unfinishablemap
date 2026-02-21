@@ -9,7 +9,7 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[qualia]]'
 - '[[haecceity]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[phenomenal-unity]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -60,7 +60,7 @@ This has led to a "layered unity" model: split-brain cases show divided percepti
 
 ## Three Dimensions of Unity
 
-[Phenomenal unity](/phenomenal-unity/) has three conceptually separable dimensions, and split-brain cases challenge each differently:
+[Phenomenal unity](/concepts/phenomenal-binding-and-holism/) has three conceptually separable dimensions, and split-brain cases challenge each differently:
 
 **Synchronic unity**—at any moment, all experiences belong to one consciousness—is what the classic experiments most directly challenge. When conflicting images are shown to each visual field, each hemisphere processes its own view. The patient seems to have two simultaneous visual experiences that don't belong together. Yet even here, the evidence is mixed: the 2017 findings show patients can report seeing shapes presented to either field, suggesting synchronic unity may be more resilient than pure perceptual division implies.
 
@@ -202,7 +202,7 @@ If consciousness can divide within one body, does this support the kind of subje
 
 ### Bidirectional Interaction Tenet
 
-If consciousness influences physical outcomes through mechanisms like the [quantum Zeno effect](/concepts/mental-effort/), what happens when the brain divides? Would two independent conscious streams each influence their hemisphere? The [selection mechanism](/questions/consciousness-selecting-neural-patterns/) operates through attention, which is neurally implemented. In split-brain patients, attention networks in each hemisphere might operate semi-independently, yet the persistence of response unity suggests something coordinates selection across the divide.
+If consciousness influences physical outcomes through mechanisms like the [quantum Zeno effect](/concepts/mental-effort/), what happens when the brain divides? Would two independent conscious streams each influence their hemisphere? The [selection mechanism](/concepts/consciousness-selecting-neural-patterns/) operates through attention, which is neurally implemented. In split-brain patients, attention networks in each hemisphere might operate semi-independently, yet the persistence of response unity suggests something coordinates selection across the divide.
 
 The resilience of unity—even with minimal connections—suggests consciousness may naturally tend toward integration rather than fragmentation. Perhaps the non-physical aspect of mind maintains unity even when physical connections are severed. If consciousness selects among neural patterns, the "selector" may be singular even when the patterns being selected are divided across hemispheres.
 
@@ -244,11 +244,11 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 
 ### Site Content
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through split-brain, anesthesia, altered states, and death
-- [phenomenal-unity](/phenomenal-unity/) — The three dimensions of experiential unity that split-brain cases stress-test
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — The three dimensions of experiential unity that split-brain cases stress-test
 - [binding-problem](/concepts/binding-problem/) — How distributed processes combine into unified experience
 - [personal-identity](/topics/personal-identity/) — What makes you *you* across time
 - [haecceity](/concepts/haecceity/) — The "thisness" that individuates subjects
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — How consciousness selects among neural possibilities
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness selects among neural possibilities
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical explanation seems to leave consciousness unexplained
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — What neuroscience reveals about consciousness
 - [illusionism](/concepts/illusionism/) — The radical view that phenomenal consciousness is an illusion

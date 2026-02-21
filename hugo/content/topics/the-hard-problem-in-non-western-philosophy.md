@@ -29,7 +29,7 @@ last_deep_review: 2026-02-18 01:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[contemplative-path]]'

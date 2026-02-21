@@ -69,7 +69,7 @@ Seven articles now link to [history-of-interactionist-dualism](/topics/history-o
 3. **[dualism](/concepts/dualism/)** — In "The Interaction Problem" section
 4. **[conservation-laws-and-mind](/topics/conservation-laws-and-mind/)** — In the opening paragraph mentioning Leibniz
 5. **[emergence](/concepts/emergence/)** — After the Broad/Alexander discussion
-6. **[epiphenomenalism](/arguments/epiphenomenalism/)** — After the Huxley 1874 mention
+6. **[epiphenomenalism](/concepts/epiphenomenalism/)** — After the Huxley 1874 mention
 7. **[leibnizs-mill-argument](/topics/leibnizs-mill-argument/)** — After discussing Leibniz's ongoing relevance
 
 ## Remaining Items

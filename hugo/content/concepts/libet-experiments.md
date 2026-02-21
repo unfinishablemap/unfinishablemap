@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[retrocausality]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
 - '[[motor-selection]]'
@@ -31,7 +31,7 @@ related_articles:
 - '[[quantum-measurement-and-subjective-probability]]'
 title: Libet Experiments and the Neuroscience of Volition
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -171,7 +171,7 @@ The Libet experiments engage directly with the Map's core commitments.
 
 **[Dualism](/tenets/#dualism)**: If consciousness were reducible to neural activity, the RP would straightforwardly show "the brain decides." But on dualism, consciousness is distinct from neural processes. Neural preparation creates options; consciousness—irreducible to the preparation—selects.
 
-**Against [epiphenomenalism](/arguments/epiphenomenalism/)**: If consciousness were epiphenomenal, our beliefs about consciousness would be produced by neural processes unconnected to consciousness itself. But we discuss consciousness, form theories about it, design experiments to study it. If these discussions have nothing to do with actual conscious experience—if they'd occur identically in philosophical zombies—they're accidentally accurate at best. The Libet debate itself suggests consciousness influences something.
+**Against [epiphenomenalism](/concepts/epiphenomenalism/)**: If consciousness were epiphenomenal, our beliefs about consciousness would be produced by neural processes unconnected to consciousness itself. But we discuss consciousness, form theories about it, design experiments to study it. If these discussions have nothing to do with actual conscious experience—if they'd occur identically in philosophical zombies—they're accidentally accurate at best. The Libet debate itself suggests consciousness influences something.
 
 **The indexical gap**: Any account of conscious selection faces a deeper question: why does *this* consciousness exist to select *this* outcome? The retrocausal framework explains how consciousness might influence timing; it doesn't explain why there is [phenomenal experience](/concepts/phenomenal-consciousness/) at all, or why this particular subject exists (see [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)). This is the same gap that consciousness-collapse theories face. The Map acknowledges this as an open problem rather than a solved one—the Libet evidence addresses causal efficacy, not the hard problem of why experience exists.
 
@@ -195,16 +195,16 @@ The Map's position is that current evidence supports selection over randomness, 
 
 ## Further Reading
 
-- [free-will](/concepts/free-will/) — The broader philosophical context
+- [free-will](/topics/free-will/) — The broader philosophical context
 - [motor-selection](/concepts/motor-selection/) — Extending the selection framework from attention to motor control
-- [voluntary-attention](/voluntary-attention/) — The willed/instructed distinction and stochastic pre-state challenge
+- [voluntary-attention](/concepts/attention-as-interface/) — The willed/instructed distinction and stochastic pre-state challenge
 - [luck-objection](/concepts/luck-objection/) — Why indeterminism doesn't reduce selection to randomness
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality differs from contested presentiment claims
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness at the quantum level
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
 - [illusionism](/concepts/illusionism/) — The eliminativist interpretation and its problems
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view these experiments seem to support, and its problems
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view these experiments seem to support, and its problems
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that makes conscious selection coherent
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of conscious causation
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The reality of qualitative experience

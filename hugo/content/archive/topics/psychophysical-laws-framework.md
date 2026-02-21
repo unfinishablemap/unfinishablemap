@@ -15,7 +15,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[mysterianism]]'
 created: 2026-01-26
 date: &id001 2026-01-26
@@ -41,7 +41,7 @@ topics:
 
 If consciousness is ontologically distinct from physics—as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds—then the relationship between mind and matter requires specification through fundamental laws. These psychophysical laws bridge what physics describes (neurons, fields, particles) and what we experience (pain, colour, intention). Without such laws, dualism remains a bare assertion; with them, it becomes a research program with testable structure.
 
-David Chalmers developed the canonical framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology just as electromagnetism required new laws beyond mechanics. The Map builds on this framework while emphasizing a critical asymmetry: Chalmers focuses on *upward* laws (which physical states produce which experiences), while the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *downward* laws (which conscious states select which physical outcomes). This page provides an integrated overview of the framework—what psychophysical laws are, why they're needed, how the upward and downward directions differ, and what challenges any such framework must address. For Chalmers' specific contributions and his 2022 quantum development with McQueen, see [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/); for the foundational concept, see [psychophysical-laws](/concepts/psychophysical-laws/).
+David Chalmers developed the canonical framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology just as electromagnetism required new laws beyond mechanics. The Map builds on this framework while emphasizing a critical asymmetry: Chalmers focuses on *upward* laws (which physical states produce which experiences), while the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires *downward* laws (which conscious states select which physical outcomes). This page provides an integrated overview of the framework—what psychophysical laws are, why they're needed, how the upward and downward directions differ, and what challenges any such framework must address. For Chalmers' specific contributions and his 2022 quantum development with McQueen, see [chalmers-psychophysical-coupling](/topics/psychophysical-laws-bridging-mind-and-matter/); for the foundational concept, see [psychophysical-laws](/concepts/psychophysical-laws/).
 
 ## The Structure of Psychophysical Laws
 
@@ -74,7 +74,7 @@ Selection laws must specify:
 3. **Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests ~10 bits/second—the measured bandwidth of conscious thought. This constraint is significant: it implies consciousness operates at the level of policies and action patterns, not individual quantum events. The tight bandwidth limit actually supports the framework by explaining why mental causation operates through attention allocation rather than micromanaging neural activity.
 4. **Scope constraints**: What is *not* selectable? (External systems? Others' brains? Events outside attention?)
 
-The [psychophysical-coupling](/psychophysical-coupling/) page develops these requirements in detail.
+The [psychophysical-coupling](/concepts/psychophysical-laws/) page develops these requirements in detail.
 
 ## The Upward-Downward Asymmetry
 
@@ -96,7 +96,7 @@ Why the focus on quantum selection? Classical physics is deterministic—there's
 
 ## Five Candidate Selection Mechanisms
 
-The [psychophysical-coupling](/psychophysical-coupling/) page evaluates five proposals for how mental states might couple to physical parameters. In order of theoretical development:
+The [psychophysical-coupling](/concepts/psychophysical-laws/) page evaluates five proposals for how mental states might couple to physical parameters. In order of theoretical development:
 
 ### Attention as Observation Rate (Stapp)
 
@@ -202,16 +202,16 @@ The psychophysical laws framework would face serious difficulty if:
 
 ## Further Reading
 
-- [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) — Chalmers' specific contributions, including his 2022 quantum development with McQueen
+- [chalmers-psychophysical-coupling](/topics/psychophysical-laws-bridging-mind-and-matter/) — Chalmers' specific contributions, including his 2022 quantum development with McQueen
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
-- [psychophysical-coupling](/psychophysical-coupling/) — The selection law problem specifically
-- [psychophysical-coupling](/psychophysical-coupling/) — Five candidate mechanisms evaluated
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — The selection law problem specifically
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Five candidate mechanisms evaluated
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws
 - [mental-causation](/concepts/mental-causation/) — How consciousness affects physical outcomes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing selection pathways
 - [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

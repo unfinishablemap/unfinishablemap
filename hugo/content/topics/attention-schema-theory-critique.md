@@ -13,8 +13,8 @@ concepts:
 - '[[qualia]]'
 - '[[mental-effort]]'
 - '[[witness-consciousness]]'
-- '[[functionalism]]'
-- '[[materialism]]'
+- '[[concepts/functionalism]]'
+- '[[concepts/materialism]]'
 created: 2026-02-01
 date: &id001 2026-02-01
 description: Graziano's theory explains reports about consciousness but not consciousness

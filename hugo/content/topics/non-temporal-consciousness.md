@@ -62,7 +62,7 @@ A representationalist can resist this conclusion: the experience remains a tempo
 
 ## Bergson's Challenge: Consciousness as Essentially Temporal
 
-Henri Bergson offers the strongest counterpoint. For Bergson, consciousness *is* duration — [durée](/duration/), the qualitative flow of lived time where the past permeates the present and each moment gains meaning from its predecessors. Strip away temporality and you strip away consciousness itself.
+Henri Bergson offers the strongest counterpoint. For Bergson, consciousness *is* duration — [durée](/concepts/temporal-consciousness/), the qualitative flow of lived time where the past permeates the present and each moment gains meaning from its predecessors. Strip away temporality and you strip away consciousness itself.
 
 Bergson's critique of spatialized time anticipates some of the Map's own concerns with physicalist reduction. Scientific time "does not endure" — it is abstract, spatialized, carved into discrete moments that lack the interpenetrating quality of lived experience. Where Bergson parts company with the non-temporal thesis is his insistence that the alternative to spatialized time is not *no* time but *lived* time. Duration is irreducible, qualitative, and inherently temporal.
 
@@ -126,7 +126,7 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Non-western perspectives on consciousness and time
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's concrescence as a parallel non-temporal constituting activity
 - [witness-consciousness](/concepts/witness-consciousness/) — The observing awareness that meditation reveals
-- [free-will](/concepts/free-will/) — How a non-temporal ground dissolves the Libet timing objection
+- [free-will](/topics/free-will/) — How a non-temporal ground dissolves the Libet timing objection
 
 ## References
 

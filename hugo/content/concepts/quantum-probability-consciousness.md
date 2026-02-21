@@ -38,7 +38,7 @@ related_articles:
 title: Quantum Probability and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The Born rule—quantum mechanics' prescription for calculating measurement probabilities—remains philosophically contested despite near-universal experimental success. Are these probabilities objective features of reality, subjective degrees of belief, or something else entirely? The answer matters profoundly for understanding consciousness's role in quantum mechanics. The Unfinishable Map proposes that Born probabilities describe the objective structure of the interface where consciousness meets quantum indeterminacy—neither purely subjective beliefs nor features of physics independent of consciousness, but the statistical structure of how mind actualises one possibility among many.

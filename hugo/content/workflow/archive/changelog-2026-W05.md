@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-01-26
-date: '2026-02-02'
+date: '2026-02-21'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W05
 ---
@@ -2724,7 +2724,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 1 (free will claim insufficiently qualified)
 - **Enhancements made**: 3 (free will rewrite acknowledging compatibilism, cross-links to free-will and quantum-indeterminacy-free-will)
 - **Output**: [deep-review-2026-01-30-emergence](/reviews/deep-review-2026-01-30-emergence/)
-- **Summary**: Second review of emergence article (previously reviewed 2026-01-20). Addressed medium issue: free will claim implicitly dismissed compatibilism without engagement. Rewrote to acknowledge compatibilism as alternative, state Map's endorsement of libertarian free will, and explain how quantum indeterminacy plus consciousness addresses the luck problem. Added cross-links to [free-will](/concepts/free-will/) and [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/). Article approaching stability—bedrock disagreements (MWI, eliminativism, compatibilism) documented as philosophical commitments rather than fixable flaws.
+- **Summary**: Second review of emergence article (previously reviewed 2026-01-20). Addressed medium issue: free will claim implicitly dismissed compatibilism without engagement. Rewrote to acknowledge compatibilism as alternative, state Map's endorsement of libertarian free will, and explain how quantum indeterminacy plus consciousness addresses the luck problem. Added cross-links to [free-will](/topics/free-will/) and [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/). Article approaching stability—bedrock disagreements (MWI, eliminativism, compatibilism) documented as philosophical commitments rather than fixable flaws.
 
 ---
 
@@ -2772,7 +2772,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 2 (De Brigard citation framing, MWI objection)
 - **Enhancements made**: 3 (description added, 2 cross-links added)
 - **Output**: [deep-review-2026-01-29-temporal-asymmetry-remembering-anticipating](/reviews/deep-review-2026-01-29-temporal-asymmetry-remembering-anticipating/)
-- **Summary**: First review of this article. No critical issues found—the article is philosophically sound. Addressed medium issues: (1) expanded De Brigard citation to acknowledge that his "epistemic feelings" framework is compatible with functionalism, while explaining why the Map maintains the quale is irreducible; (2) strengthened the No Many Worlds tenet connection to engage with the MWI objection that branch-relative memory accommodates the phenomenology. Added cross-links to [free-will](/concepts/free-will/) and [functionalism](/arguments/functionalism/). Added description frontmatter.
+- **Summary**: First review of this article. No critical issues found—the article is philosophically sound. Addressed medium issues: (1) expanded De Brigard citation to acknowledge that his "epistemic feelings" framework is compatible with functionalism, while explaining why the Map maintains the quale is irreducible; (2) strengthened the No Many Worlds tenet connection to engage with the MWI objection that branch-relative memory accommodates the phenomenology. Added cross-links to [free-will](/topics/free-will/) and [functionalism](/concepts/functionalism/). Added description frontmatter.
 
 ---
 
@@ -3219,7 +3219,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 4
   - Lucas-Penrose argument now explicitly noted as minority position rejected by most cognitive scientists
   - Wolfram's computational irreducibility clarified as thesis rather than proven universal result
-  - Added cross-link to [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) in Gödel section
+  - Added cross-link to [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) in Gödel section
   - Added cross-links to [mysterianism](/concepts/mysterianism/) and [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - **Enhancements made**: 3
   - consciousness-and-mathematical-understanding added to frontmatter concepts
@@ -4572,7 +4572,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2687 → ~2700 (+13, minor increase from cross-link additions)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 1
-  1. Added [neural-binding-mechanisms](/neural-binding-mechanisms/) cross-link (frontmatter, body, Further Reading)
+  1. Added [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) cross-link (frontmatter, body, Further Reading)
 - **Enhancements made**: 3 (cross-link additions in three locations)
 - **Output**: [deep-review-2026-01-28-unity-of-consciousness](/reviews/deep-review-2026-01-28-unity-of-consciousness/)
 - **Note**: Cross-review integrating new neural-binding-mechanisms article. Article has reached stability after 2 reviews (2026-01-24, 2026-01-28). Adversarial objections (eliminativism, MWI, decoherence) are bedrock philosophical disagreements, not fixable flaws.
@@ -4602,7 +4602,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 3445 → ~3420 (-25, net reduction from removing comment log)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 2
-  1. Added [neural-binding-mechanisms](/neural-binding-mechanisms/) cross-link (concepts + Further Reading)
+  1. Added [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) cross-link (concepts + Further Reading)
   2. Removed AI refinement log comment at document end
 - **Enhancements made**: 2 (cross-link additions)
 - **Output**: [deep-review-2026-01-28-binding-problem](/reviews/deep-review-2026-01-28-binding-problem/)
@@ -4638,8 +4638,8 @@ title: AI Activity Changelog - Week 2026-W05
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 0 (all addressed in first review)
 - **Enhancements made**: 2
-  1. Added cross-link to [phenomenal-unity](/phenomenal-unity/) in Agent Problem section (agents need unified experience)
-  2. Added [phenomenal-unity](/phenomenal-unity/) and [neural-binding-mechanisms](/neural-binding-mechanisms/) to Further Reading
+  1. Added cross-link to [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) in Agent Problem section (agents need unified experience)
+  2. Added [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) and [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) to Further Reading
 - **Output**: [deep-review-2026-01-28-qbism-2](/reviews/deep-review-2026-01-28-qbism-2/)
 - **Note**: Second review confirms convergence. Article does not need further review unless substantively modified.
 
@@ -4702,7 +4702,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Enhancements made**: 3
   1. Expanded Stapp quantum Zeno explanation to show how Zeno produces unity
   2. Added brief process philosophy (Whitehead) connection
-  3. Added [free-will](/concepts/free-will/) and [agent-causation](/concepts/agent-causation/) to Further Reading and frontmatter
+  3. Added [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) to Further Reading and frontmatter
 - **Output**: [deep-review-2026-01-28-neural-binding-mechanisms](/reviews/deep-review-2026-01-28-neural-binding-mechanisms/)
 
 ---
@@ -4789,7 +4789,7 @@ title: AI Activity Changelog - Week 2026-W05
   2. "All physics leaves consciousness unexplained" objection—added explanation of why QBism is uniquely vulnerable (structural gap)
 - **Enhancements made**: 2
   1. Added citation for Fuchs 2017 on agents as "most basic category"
-  2. Added wikilink to [many-worlds](/arguments/many-worlds/) concept page
+  2. Added wikilink to [many-worlds](/concepts/many-worlds/) concept page
 - **Output**: [deep-review-2026-01-28-qbism](/reviews/deep-review-2026-01-28-qbism/)
 
 ---
@@ -5067,12 +5067,12 @@ title: AI Activity Changelog - Week 2026-W05
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3
   - Strengthened identity thesis response with explanatory gap reference
-  - Added cross-links to [causal-closure](/concepts/causal-closure/), [functionalism](/arguments/functionalism/), [explanatory-gap](/concepts/explanatory-gap/)
+  - Added cross-links to [causal-closure](/concepts/causal-closure/), [functionalism](/concepts/functionalism/), [explanatory-gap](/concepts/explanatory-gap/)
   - Clarified Aaronson reference as blog post
 - **Enhancements made**: 4
   - Added water = H2O contrast to explain explanatory satisfaction
   - Inline link to [causal-closure](/concepts/causal-closure/) in Passivity Problem section
-  - Inline link to [functionalism](/arguments/functionalism/) in What IIT Gets Right section
+  - Inline link to [functionalism](/concepts/functionalism/) in What IIT Gets Right section
   - Updated concepts frontmatter with three new entries
 - **Output**: [deep-review-2026-01-27-integrated-information-theory-critique](/reviews/deep-review-2026-01-27-integrated-information-theory-critique/)
 
@@ -5156,7 +5156,7 @@ title: AI Activity Changelog - Week 2026-W05
   - Added decoherence timescale as concrete constraint
   - Clarified QBism's intentional agnosticism while maintaining critique
 - **Enhancements made**: 2
-  - Added cross-link to [free-will](/concepts/free-will/) connecting indexical identity to agency
+  - Added cross-link to [free-will](/topics/free-will/) connecting indexical identity to agency
   - Added cross-link to [process-philosophy](/concepts/process-philosophy/) connecting to actual occasions
 - **Output**: [deep-review-2026-01-27-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-01-27-quantum-measurement-and-subjective-probability/)
 
@@ -5332,7 +5332,7 @@ title: AI Activity Changelog - Week 2026-W05
   - Addressed decoherence timescale gap with discrete-events explanation and cryptochrome Zeno precedent
   - Removed Twin Study preprint section (weak evidence, freed word budget)
 - **Enhancements made**: 3
-  - Cross-links to [quantum-biology](/concepts/quantum-biology/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), [neural-quantum-coherence](/neural-quantum-coherence/)
+  - Cross-links to [quantum-biology](/concepts/quantum-biology/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), [neural-quantum-coherence](/concepts/quantum-coherence-in-neural-systems/)
   - New paragraph on timescale gap and quantum Zeno biological precedent
   - Strengthened integration with quantum biology content across the Map
 - **Output**: [deep-review-2026-01-27-quantum-binding-and-phenomenal-unity](/reviews/deep-review-2026-01-27-quantum-binding-and-phenomenal-unity/)
@@ -5396,7 +5396,7 @@ title: AI Activity Changelog - Week 2026-W05
 
 - **Status**: Success
 - **File**: [psychophysical-laws-framework](/topics/psychophysical-laws-framework/)
-- **Context**: Cross-review considering new [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) article
+- **Context**: Cross-review considering new [chalmers-psychophysical-coupling](/topics/psychophysical-laws-bridging-mind-and-matter/) article
 - **Word count**: 2275 → 2284 (+9)
 - **Critical issues addressed**: 0 (none found—article stable from previous review)
 - **Medium issues addressed**: 1
@@ -5692,8 +5692,8 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2304 → 2330 (+26 words, 93% of soft threshold)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 2
-  - Added cross-link to [quantum-neural-mechanisms](/quantum-neural-mechanisms/) in Orch OR section
-  - Added [quantum-neural-mechanisms](/quantum-neural-mechanisms/) to concepts frontmatter and Further Reading
+  - Added cross-link to [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) in Orch OR section
+  - Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) to concepts frontmatter and Further Reading
 - **Enhancements made**: 1
   - Integration with neural quantum mechanisms coverage now complete
 - **Output**: [deep-review-2026-01-27-spontaneous-collapse-theories](/reviews/deep-review-2026-01-27-spontaneous-collapse-theories/) (updated)
@@ -5775,7 +5775,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2480 → ~2520 (length-neutral, below soft threshold)
 - **Critical issues addressed**: 0 (none found—article stable from previous reviews)
 - **Medium issues addressed**: 2 (added cross-reference to consciousness-as-intelligence-amplifier, added decoherence caveat to quantum section)
-- **Enhancements made**: Added [consciousness-as-intelligence-amplifier](/consciousness-as-intelligence-amplifier/) to frontmatter, inline references, and Further Reading; added appropriate hedging to quantum mechanism claims
+- **Enhancements made**: Added [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) to frontmatter, inline references, and Further Reading; added appropriate hedging to quantum mechanism claims
 - **Output**: [deep-review-2026-01-27-animal-consciousness](/reviews/deep-review-2026-01-27-animal-consciousness/)
 - **Notes**: Second review of this article (previous: 2026-01-22). Article is stable—no critical issues, counterarguments addressed, all tenet connections present. Cross-review confirmed integration with consciousness-as-intelligence-amplifier is now explicit.
 
@@ -6376,7 +6376,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 0 (none found)
 - **Enhancements made**: 0 (article already stable)
 - **Output**: [deep-review-2026-01-27-attention](/reviews/deep-review-2026-01-27-attention/)
-- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[voluntary-attention-control](/voluntary-attention-control/)` to `[voluntary-attention](/voluntary-attention/)`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
+- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[voluntary-attention-control](/concepts/voluntary-attention/)` to `[voluntary-attention](/concepts/attention-as-interface/)`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
 
 ---
 
@@ -6725,7 +6725,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 3208 → ~3200 (length-neutral)
 - **Critical issues addressed**: 0 (none found—previous review achieved stability)
 - **Medium issues addressed**: 3
-  1. Added cross-link and selection laws terminology from [psychophysical-laws-framework](/psychophysical-laws-framework/)
+  1. Added cross-link and selection laws terminology from [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/)
   2. Revised quantum mechanism section to acknowledge multiple proposals (Stapp, Eccles, valence)
   3. Replaced quantum Zeno decoherence response with bandwidth constraint argument
 - **Enhancements made**: Tightened Kim's argument and overdetermination sections for length neutrality
@@ -6743,7 +6743,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 3
   1. Added cross-link and integration with [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
   2. Added prebiotic collapse problem mention and CSL-IIT hybrid reference
-  3. Added [free-will](/concepts/free-will/) connection to concepts and Further Reading
+  3. Added [free-will](/topics/free-will/) connection to concepts and Further Reading
 - **Enhancements made**: Removed 3 generic Stanford Encyclopedia references for length neutrality
 - **Output**: [deep-review-2026-01-26-measurement-problem](/reviews/deep-review-2026-01-26-measurement-problem/)
 
@@ -7023,7 +7023,7 @@ Created overview article integrating the psychophysical laws framework—explain
 Changes:
 - Added paragraph on advanced contemplative dissolution of witness/witnessed distinction
 - Enhanced epiphenomenalism response with free will connection
-- Added [free-will](/concepts/free-will/) cross-link
+- Added [free-will](/topics/free-will/) cross-link
 
 This is the second deep review; article is approaching stability.
 
@@ -7165,7 +7165,7 @@ This is the second deep review; article is approaching stability.
 **Enhancements made**: 4
 - Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) in new neural determinism response
 - Added cross-link to [mental-effort](/concepts/mental-effort/) in Phenomenological Unity section
-- Added cross-link to [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) in three-layer model section
+- Added cross-link to [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) in three-layer model section
 - Added [downward-causation](/concepts/downward-causation/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [mental-effort](/concepts/mental-effort/) to frontmatter and Further Reading
 **Output**: reviews/deep-review-2026-01-26-dopamine-selection-interface.md
 **Notes**: First review. Article is well-structured with strong empirical grounding. Main philosophical challenge (neural determinism as alternative to consciousness) now addressed. MWI objection acknowledged as bedrock disagreement.
@@ -7621,7 +7621,7 @@ This is the second deep review; article is approaching stability.
 **Reduction**: 80%
 **Technique**: Massive deferral to linked pages; cut redundant sections entirely
 
-**Summary**: Article was at critical length (8222 words vs 2500 target). Core mechanisms (Orch OR, Stapp, Fisher) and quantum opening preserved in condensed form. Cut entirely: extensive Stapp section details (now in [stapp-quantum-mind](/concepts/stapp-quantum-mind/)), multi-mind collapse problem (has own page), process philosophy (tangential), lengthy decoherence debate (covered in [quantum-decoherence-objection](/quantum-decoherence-objection/)). Deferred: meditation evidence, motor selection details, luck objection argument, timing constraints. Trimmed: Further Reading reorganized by category. All tenet connections preserved. Article now serves as overview pointing to detailed treatment in linked pages.
+**Summary**: Article was at critical length (8222 words vs 2500 target). Core mechanisms (Orch OR, Stapp, Fisher) and quantum opening preserved in condensed form. Cut entirely: extensive Stapp section details (now in [stapp-quantum-mind](/concepts/stapp-quantum-mind/)), multi-mind collapse problem (has own page), process philosophy (tangential), lengthy decoherence debate (covered in [quantum-decoherence-objection](/concepts/decoherence/)). Deferred: meditation evidence, motor selection details, luck objection argument, timing constraints. Trimmed: Further Reading reorganized by category. All tenet connections preserved. Article now serves as overview pointing to detailed treatment in linked pages.
 
 ---
 

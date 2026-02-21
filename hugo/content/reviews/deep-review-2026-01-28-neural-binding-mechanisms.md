@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-28
-**Article**: [Neural Binding Mechanisms](/neural-binding-mechanisms/)
+**Article**: [Neural Binding Mechanisms](/concepts/phenomenal-binding-and-holism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -65,7 +65,7 @@ None identified. The article is well-constructed with appropriate caveats and he
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/) in text
-- [free-will](/concepts/free-will/) in Further Reading
+- [free-will](/topics/free-will/) in Further Reading
 - [agent-causation](/concepts/agent-causation/) in Further Reading
 - Added corresponding concepts to frontmatter
 

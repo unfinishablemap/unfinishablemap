@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 - **AI objection too dismissive**: Original response to "AI systems perform logical inference" objection was somewhat glib, simply asserting AI doesn't "grasp" relationships without engaging the physicalist counter. Resolution: Expanded to acknowledge the objection's force, distinguish reliability from rational inference, and note this is contested ground.
-- **Missing cross-links**: Article lacked connections to closely related Map content. Resolution: Added links to [explanatory-gap](/concepts/explanatory-gap/), [mysterianism](/concepts/mysterianism/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [voluntary-attention](/voluntary-attention/), [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/), [introspection](/concepts/introspection/).
+- **Missing cross-links**: Article lacked connections to closely related Map content. Resolution: Added links to [explanatory-gap](/concepts/explanatory-gap/), [mysterianism](/concepts/mysterianism/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [voluntary-attention](/concepts/attention-as-interface/), [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/), [introspection](/concepts/introspection/).
 - **Quantum mechanism emphasis**: References to quantum consciousness were somewhat prominent for an article whose core argument doesn't depend on quantum mechanics. Resolution: Added clarifying note that the argument stands independently of any particular mechanism.
 
 ### Counterarguments Considered
@@ -51,13 +51,13 @@ topics: []
 2. **Mysterian response**: Added new objection/response addressing whether the mechanism of normative awareness may be naturally mysterious.
 3. **Self-stultification parallel**: Connected the circularity objection response to the parallel self-stultification structure in the [introspection](/concepts/introspection/) debate.
 4. **AI objection nuance**: Expanded treatment to engage more carefully with the physicalist position.
-5. **Attention mechanism**: Added connection between intellectual effort and the [voluntary-attention](/voluntary-attention/) mechanism.
+5. **Attention mechanism**: Added connection between intellectual effort and the [voluntary-attention](/concepts/attention-as-interface/) mechanism.
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [mysterianism](/concepts/mysterianism/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [introspection](/concepts/introspection/)
 

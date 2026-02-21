@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Chalmers on Psychophysical Coupling](/chalmers-psychophysical-coupling/)
+**Article**: [Chalmers on Psychophysical Coupling](/topics/psychophysical-laws-bridging-mind-and-matter/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -56,7 +56,7 @@ None. The article has all required sections, no factual errors, no internal cont
 - **Empirical predictions specified**: Super-resistance makes testable claims about decoherence rates
 
 ### Cross-links Added
-- [epiphenomenalism](/arguments/epiphenomenalism/) inline link clarified (was already present in Further Reading)
+- [epiphenomenalism](/concepts/epiphenomenalism/) inline link clarified (was already present in Further Reading)
 
 ## Remaining Items
 

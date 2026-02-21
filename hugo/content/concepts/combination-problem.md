@@ -150,7 +150,7 @@ Can we test which problem is more tractable? Several lines of evidence bear on t
 
 **Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022-2023) reports MRI signals suggesting entanglement that tracks waking consciousness. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine.
 
-**Simple organism studies**: Research on [C. elegans and Hydra](/concepts/minimal-consciousness/) tests panpsychist predictions. If [phenomenal unity](/phenomenal-unity/) requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
+**Simple organism studies**: Research on [C. elegans and Hydra](/concepts/minimal-consciousness/) tests panpsychist predictions. If [phenomenal unity](/concepts/phenomenal-binding-and-holism/) requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
 
 **Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Wiest et al. 2024) support quantum mechanisms for consciousness without implicating micro-experience combination.
 
@@ -184,11 +184,11 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 
 - [panpsychism](/concepts/panpsychism/) — The view facing this problem
 - [russellian-monism](/concepts/russellian-monism/) — A related framework also facing combination
-- [phenomenal-unity](/phenomenal-unity/) — Why experience is unified in the first place
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Why experience is unified in the first place
 - [binding-problem](/concepts/binding-problem/) — The neural coordination challenge (related but distinct)
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical testing ground in simple organisms
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The alternative avoiding the problem
-- [free-will](/concepts/free-will/) — Mental causation implications of the interaction alternative
+- [free-will](/topics/free-will/) — Mental causation implications of the interaction alternative
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)
 - [tenets](/tenets/) — the Map's foundational commitments

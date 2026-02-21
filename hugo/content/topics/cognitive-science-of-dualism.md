@@ -8,7 +8,7 @@ concepts:
 - '[[intuitive-dualism]]'
 - '[[embodied-cognition]]'
 - '[[interactionist-dualism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[the-case-for-dualism]]'
 - '[[consciousness]]'
 - '[[introspection]]'
@@ -84,7 +84,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) is not a gap in curre
 
 Colin McGinn's [cognitive closure](/concepts/mysterianism/) hypothesis takes this further: human cognitive architecture may be constitutionally unable to grasp the property linking brain states to conscious experience. Our concept-forming procedures — perception, [introspection](/concepts/introspection/), inference — may simply lack the resources to bridge the explanatory gap. Cognitive science can study its own limits but not transcend them.
 
-This does not mean cognitive science is useless for the dualism debate. It means cognitive science clarifies the *shape* of the problem without being able to solve it on [materialist](/arguments/materialism/) terms. The persistence of the explanatory gap despite enormous empirical progress suggests that something beyond the physical may be involved. A materialist might draw a parallel to vitalism — the "life force" mystery that seemed permanently intractable until biochemistry dissolved it. But the cases differ in a crucial respect: vitalists asked how matter could produce life-functions, and those functions turned out to be fully describable in physical terms. The hard problem asks how matter produces *experience*, and experience is not a function. There is nothing it is like to metabolise; there is something it is like to see red. The explanatory gap concerns a feature — [phenomenal character](/concepts/phenomenology/) — that has no analogue in the vitalism case.
+This does not mean cognitive science is useless for the dualism debate. It means cognitive science clarifies the *shape* of the problem without being able to solve it on [materialist](/concepts/materialism/) terms. The persistence of the explanatory gap despite enormous empirical progress suggests that something beyond the physical may be involved. A materialist might draw a parallel to vitalism — the "life force" mystery that seemed permanently intractable until biochemistry dissolved it. But the cases differ in a crucial respect: vitalists asked how matter could produce life-functions, and those functions turned out to be fully describable in physical terms. The hard problem asks how matter produces *experience*, and experience is not a function. There is nothing it is like to metabolise; there is something it is like to see red. The explanatory gap concerns a feature — [phenomenal character](/concepts/phenomenology/) — that has no analogue in the vitalism case.
 
 ## Relation to Site Perspective
 

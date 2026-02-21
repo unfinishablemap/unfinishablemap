@@ -54,7 +54,7 @@ related_articles:
 title: Consciousness and Skilled Performance
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Learning a skill transforms two things at once: what consciousness does and what the body is. The novice driver who consciously recites "check mirror, signal, shoulder-check" undergoes a cognitive transformation as these steps fuse into automatic competence. But the transformation runs deeper—the driver's felt sense of the car's boundaries, the proprioceptive texture of steering, the body schema itself are all reshaped by practice. The Unfinishable Map argues that skill acquisition, mastery, and restructuring provide some of the strongest evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness builds the procedural systems that eventually operate without it, withdraws into effortless oversight, and painfully re-enters when established skills must change. The architect designs itself out of the building—but never truly retires.
@@ -79,7 +79,7 @@ As competence develops, this scaffolding is progressively dismantled. Skills tha
 
 The withdrawal of consciousness from skilled performance is not passive. Consciousness *delegates*. There is a phenomenological moment—often repeated many times during learning—where the learner deliberately releases conscious control over a component, trusting the emerging automaticity to handle it. Learning to ride a bicycle involves a moment where you stop thinking about balance and let it happen. This delegation is itself a conscious act, requiring confidence that the procedural system is ready.
 
-The Map interprets this as evidence for several commitments. If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition—though Macnamara, Hambrick, and Oswald's (2014) meta-analysis found deliberate practice explained only about 12% of performance variance across domains, with much larger contributions from innate ability and other factors. The Map's argument rests on the *quality-dependent* nature of whatever practice does contribute, not on practice being the sole determinant.
+The Map interprets this as evidence for several commitments. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition—though Macnamara, Hambrick, and Oswald's (2014) meta-analysis found deliberate practice explained only about 12% of performance variance across domains, with much larger contributions from innate ability and other factors. The Map's argument rests on the *quality-dependent* nature of whatever practice does contribute, not on practice being the sole determinant.
 
 The asymmetry of acquisition and loss reinforces this. Skills are acquired through conscious effort but lost through disuse or injury to procedural systems. Classic amnestic cases demonstrate this starkly—patients with severe hippocampal damage retain motor skills they can no longer remember learning (Milner, 1962). Consciousness is necessary for building but not for maintaining skilled performance. This asymmetry maps onto the distinction between [anoetic and autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—between the bare awareness that accompanies procedural execution and the self-reflective awareness that deliberate learning requires.
 
@@ -178,7 +178,7 @@ The strongest physicalist counterargument is that executive attention networks, 
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The cognitive dimension of effortful learning
-- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) — Meditation as a parallel case of trained skill
+- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) — Meditation as a parallel case of trained skill
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between authored and discovered action
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The cognitive parallel to motor skill transition

@@ -29,7 +29,7 @@ related_articles:
 title: Quantum Neural Timing Constraints
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—a gap of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is which physical mechanisms remain viable given what we know about both quantum and neural timescales—and whether The Unfinishable Map's preferred framework, post-decoherence selection, operates at a different level of analysis where timing constraints do not apply.
@@ -95,7 +95,7 @@ Bengson (2019) and Vossel (2023) examined the timing of willed versus instructed
 - Distinct from instructed attention which engages dorsal attention networks
 - Bidirectional frontoparietal coherence accompanies willed deployment
 
-The ~300ms timing for willed attention and ~280ms for motor commitment are remarkably close—close enough that the [premotor theory of attention](/attention-motor-quantum-interface/) proposes they reflect a single selection mechanism.
+The ~300ms timing for willed attention and ~280ms for motor commitment are remarkably close—close enough that the [premotor theory of attention](/concepts/attention-as-interface/) proposes they reflect a single selection mechanism.
 
 ### Point of No Return
 
@@ -200,8 +200,8 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — Recent experiments pushing the quantum-classical boundary
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [motor-selection](/concepts/motor-selection/) — The 280ms motor commitment point and Libet dissolution
-- [voluntary-attention](/voluntary-attention/) — The 300ms willed attention deployment
-- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Unification of attention and motor timing
+- [voluntary-attention](/concepts/attention-as-interface/) — The 300ms willed attention deployment
+- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Unification of attention and motor timing
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve outcome selection
 - [decoherence](/concepts/decoherence/) — The physical process of coherence loss
 

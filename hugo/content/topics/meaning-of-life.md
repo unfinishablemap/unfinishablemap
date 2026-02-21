@@ -8,12 +8,12 @@ concepts:
 - '[[nihilism]]'
 - '[[existentialism]]'
 - '[[purpose-and-alignment]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[phenomenology]]'
 - '[[mysterianism]]'
 - '[[illusionism]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[witness-consciousness]]'
 - '[[introspection]]'
 - '[[haecceity]]'
@@ -91,7 +91,7 @@ Nihilism assumes that without cosmic purpose, existence is valueless. But why sh
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. We're not passive observers of a predetermined show; our choices shape what happens.
 
-This connects to the [free-will](/concepts/free-will/) discussion and [agent-causation](/concepts/agent-causation/). The Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding existentialists assume but never explain.
+This connects to the [free-will](/topics/free-will/) discussion and [agent-causation](/concepts/agent-causation/). The Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding existentialists assume but never explain.
 
 What you do matters because it has real consequences mediated by irreducible consciousness. Your choices aren't epiphenomenal froth; they're causally efficacious interventions in reality. If consciousness shapes physical outcomes, we're constitutive participants, not negligible spectators.
 
@@ -103,7 +103,7 @@ If MWI is false, choices have unique significance. You chose A, period. That's t
 
 ### Your Identity Is Unrepeatable
 
-This connects to [personal-identity](/topics/personal-identity/). If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life. [Narrative integration](/consciousness-and-meaning-integration/)—the capacity to grasp how disparate experiences fit into a meaningful trajectory—is part of what makes a life *unified* rather than a mere sequence of moments.
+This connects to [personal-identity](/topics/personal-identity/). If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life. [Narrative integration](/topics/consciousness-and-semantic-understanding/)—the capacity to grasp how disparate experiences fit into a meaningful trajectory—is part of what makes a life *unified* rather than a mere sequence of moments.
 
 ## Eastern Perspectives
 
@@ -161,7 +161,7 @@ Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: c
 
 ### The Functional Asymmetry
 
-Even granting illusionism, a practical asymmetry remains. If consciousness is real, grounding meaning in behaviour misses what ultimately matters. If illusionism is correct, attending to "illusory" phenomenal quality still tracks the functional states generating reports of significance. The downside of consciousness being real while we ignore it is worse than attending to illusions. [Phenomenal value realism](/concepts/phenomenal-value-realism/) provides the theoretical framework for this asymmetry.
+Even granting illusionism, a practical asymmetry remains. If consciousness is real, grounding meaning in behaviour misses what ultimately matters. If illusionism is correct, attending to "illusory" phenomenal quality still tracks the functional states generating reports of significance. The downside of consciousness being real while we ignore it is worse than attending to illusions. [Phenomenal value realism](/topics/phenomenal-value-realism/) provides the theoretical framework for this asymmetry.
 
 ## Contemplative Evidence
 
@@ -175,7 +175,7 @@ Advanced practitioners report [witness-consciousness](/concepts/witness-consciou
 
 Contemplative practice reveals phenomenological distinctions: surface attention (scattered), focused presence (intentional), deep absorption (unified). These aren't merely cognitive differences—they feel different. Deeper states are characteristically described as more meaningful, more "real." This suggests meaning correlates with *quality* of conscious engagement, not merely *presence* of consciousness.
 
-Henri Bergson's *durée*—lived time as opposed to clock time—connects here. Meditation reveals the present moment has qualitative depth. The richness of lived [duration](/duration/) may be where meaning actually resides—in the qualitative fullness of each moment.
+Henri Bergson's *durée*—lived time as opposed to clock time—connects here. Meditation reveals the present moment has qualitative depth. The richness of lived [duration](/concepts/temporal-consciousness/) may be where meaning actually resides—in the qualitative fullness of each moment.
 
 ## Process Philosophy Perspective
 
@@ -259,15 +259,15 @@ The position takes seriously what we actually know: consciousness exists, it's r
 
 ### Core Concepts
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — How consciousness weaves meanings into unified understanding and life trajectory
-- [nihilism](/nihilism/) — The case for meaninglessness and responses to it
+- [nihilism](/concepts/nihilism-and-existentialism/) — The case for meaninglessness and responses to it
 - [existentialism](/concepts/existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
-- [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — Extending phenomenal value realism to address metaethical challenges and value pluralism
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
+- [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — Extending phenomenal value realism to address metaethical challenges and value pluralism
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning
 
 ### Consciousness and Experience
 - [witness-consciousness](/concepts/witness-consciousness/) — Pure awareness and its significance for meaning
-- [free-will](/concepts/free-will/) — The metaphysics of choice and why choices matter
+- [free-will](/topics/free-will/) — The metaphysics of choice and why choices matter
 - [haecceity](/concepts/haecceity/) — Indexical identity and the unrepeatability of conscious perspectives
 
 ### Perspectives and Limits

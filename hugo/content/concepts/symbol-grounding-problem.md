@@ -8,7 +8,7 @@ coalesced_from:
 - /topics/symbol-grounding-problem/
 concepts:
 - '[[intentionality]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[embodied-cognition]]'
 - '[[llm-consciousness]]'
 - '[[cognitive-phenomenology]]'
@@ -124,7 +124,7 @@ The pattern suggests that something is missing from purely physical and computat
 
 The Map's framework offers an explanation: intrinsic meaning requires phenomenal consciousness, and phenomenal consciousness is not reducible to physical processes. The symbol grounding problem is not a technical challenge awaiting better engineering; it is a conceptual limitation revealing that meaning requires experience.
 
-This connects to the [Phenomenal Constitution Thesis](/meaning-and-consciousness/): genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
+This connects to the [Phenomenal Constitution Thesis](/topics/consciousness-and-semantic-understanding/): genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
 
 ## Relation to Site Perspective
 
@@ -147,7 +147,7 @@ The symbol grounding problem connects to all five tenets:
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Why meaning is constitutively phenomenal
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language requires conscious processing
 - [working-memory](/concepts/working-memory/) — The maintenance/manipulation distinction and conscious access
-- [functionalism](/arguments/functionalism/) — The view that mental states are defined by functional roles
+- [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
 - [embodied-cognition](/concepts/embodied-cognition/) — Cognition through bodily experience
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Why static systems cannot be conscious (and thus lack thick grounding)

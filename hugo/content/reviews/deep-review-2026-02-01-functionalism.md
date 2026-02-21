@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Functionalism](/arguments/functionalism/)
+**Article**: [Functionalism](/concepts/functionalism/)
 **Previous review**: [2026-01-28](/reviews/deep-review-2026-01-28-functionalism/)
 **Context**: Cross-review considering IIT critique
 

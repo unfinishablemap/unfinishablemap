@@ -103,7 +103,7 @@ The progressive disclosure model connects to a familiar philosophical argument. 
 
 The progressive disclosure pattern supports the Map's position in a specific way. Contemplative training involves deliberate, sustained phenomenological effort—an exercise of conscious agency. The resulting expansion of phenomenal access demonstrates bidirectional interaction: consciousness acts on the brain (through willed attentional practice), and the brain acts on consciousness (the trained brain supports phenomenal access that the untrained brain does not).
 
-If consciousness were [epiphenomenal](/arguments/epiphenomenalism/), the deliberate character of practice should be causally irrelevant. The brain would change through whatever physical processes correspond to "sitting and breathing," and any accompanying phenomenology would be decorative. But the evidence shows that phenomenological engagement matters: content-specificity findings from [contemplative-neuroscience](/concepts/contemplative-neuroscience/) demonstrate that different types of practice produce different neural outcomes—compassion training alters neural responses to suffering in ways that reappraisal training does not (Weng et al. 2013). The practitioner's phenomenological relationship to the practice—not merely the physical posture—predicts what changes.
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), the deliberate character of practice should be causally irrelevant. The brain would change through whatever physical processes correspond to "sitting and breathing," and any accompanying phenomenology would be decorative. But the evidence shows that phenomenological engagement matters: content-specificity findings from [contemplative-neuroscience](/concepts/contemplative-neuroscience/) demonstrate that different types of practice produce different neural outcomes—compassion training alters neural responses to suffering in ways that reappraisal training does not (Weng et al. 2013). The practitioner's phenomenological relationship to the practice—not merely the physical posture—predicts what changes.
 
 ## The Skill Analogy and Its Limits
 
@@ -149,7 +149,7 @@ The connection between contemplative phenomenology and quantum interpretation is
 
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemological framework for treating first-person methods as genuine knowledge sources
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — How meditation evidence distinguishes between consciousness theories
-- [contemplative-verification-of-consciousness-theories](/contemplative-verification-of-consciousness-theories/) — Can meditation test philosophical theories of consciousness?
+- [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Can meditation test philosophical theories of consciousness?
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as dual modes of consciousness
 - [witness-consciousness](/concepts/witness-consciousness/) — The awareness-content distinction in contemplative traditions
@@ -157,7 +157,7 @@ The connection between contemplative phenomenology and quantum interpretation is
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Neural changes from meditation training
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Detailed phenomenology of the witness phenomenon
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-phenomenology of attentional recovery during practice
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) — The developmental arc from effortful practice to effortless mastery
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) — The developmental arc from effortful practice to effortless mastery
 
 ## References
 

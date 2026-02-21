@@ -16,7 +16,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[panpsychism]]'
 - '[[combination-problem]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 created: 2026-02-08
 date: &id001 2026-02-08
@@ -53,7 +53,7 @@ The Map argues consciousness requires the strong variety. Consider what weak eme
 
 This is a philosophical commitment, not an empirical finding. The Map takes the hard problem as evidence of an ontological boundary—not merely a temporary gap in scientific knowledge. Physicalists disagree, arguing that past "explanatory gaps" (vitalism, the life force) closed as science matured. What makes the consciousness gap structurally different, in the Map's view, is that it concerns the relationship between objective description and subjective experience—a gap in *kind*, not merely in detail. But the Map acknowledges this as a contested claim: the move from "current science cannot explain consciousness" to "no future science could explain consciousness" is a philosophical inference, not a demonstrated fact.
 
-The distinction matters practically. If consciousness is only weakly emergent, then [materialism](/arguments/materialism/) is ultimately correct—experience is just what complex computation feels like "from the inside," and the hard problem is merely hard, not impossible. If consciousness is strongly emergent, materialism is false. There are facts about the world—what experience is like—that escape physical description entirely.
+The distinction matters practically. If consciousness is only weakly emergent, then [materialism](/concepts/materialism/) is ultimately correct—experience is just what complex computation feels like "from the inside," and the hard problem is merely hard, not impossible. If consciousness is strongly emergent, materialism is false. There are facts about the world—what experience is like—that escape physical description entirely.
 
 ## The Philosophical Landscape
 
@@ -92,7 +92,7 @@ Accepting strong emergence transforms the metaphysical landscape in several ways
 
 **[Mental causation](/concepts/mental-causation/) is real.** Strong emergence with downward causation means consciousness genuinely does things. Decisions are not merely physical processes that feel like choices—they involve non-physical properties causally influencing physical outcomes. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) provides independent support: if consciousness were causally inert, natural selection could not have shaped it. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is a commitment to this: consciousness acts on the world, not just accompanies it.
 
-**[epiphenomenalism](/arguments/epiphenomenalism/) is false.** If consciousness is strongly emergent *and* causally efficacious, the epiphenomenalist picture—consciousness as a causally inert byproduct—is wrong. The Map's quantum mechanism provides the explanation for how this works: consciousness selects among physically undetermined outcomes, giving it genuine causal power without requiring energy injection.
+**[epiphenomenalism](/concepts/epiphenomenalism/) is false.** If consciousness is strongly emergent *and* causally efficacious, the epiphenomenalist picture—consciousness as a causally inert byproduct—is wrong. The Map's quantum mechanism provides the explanation for how this works: consciousness selects among physically undetermined outcomes, giving it genuine causal power without requiring energy injection.
 
 ## O'Connor and Wong: Emergent Causal Powers
 

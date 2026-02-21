@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-17
-**Article**: [The Phenomenology of Habit and Skill Acquisition](/phenomenology-of-habit-and-skill-acquisition/)
+**Article**: [The Phenomenology of Habit and Skill Acquisition](/topics/phenomenology-of-skill-and-the-lived-body/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -72,8 +72,8 @@ topics: []
 
 ### Cross-links Added
 
-- [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/)
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
+- [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/)
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 - [habituation-void](/voids/habituation-void/) (fixed from generic [voids](/voids/) link)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 

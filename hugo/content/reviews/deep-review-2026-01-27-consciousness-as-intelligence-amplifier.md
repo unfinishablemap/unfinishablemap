@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Consciousness As Intelligence Amplifier](/consciousness-as-intelligence-amplifier/)
+**Article**: [Consciousness As Intelligence Amplifier](/concepts/consciousness-as-amplifier/)
 **Previous review**: [2026-01-25 (but article was substantially rewritten 2026-01-27)](/reviews/deep-review-2026-01-25-consciousness-as-intelligence-amplifier/)
 
 ## Context
@@ -71,7 +71,7 @@ The article was substantially rewritten between the previous review (2026-01-25)
 3. Added wikilinks:
    - [metacognition](/concepts/metacognition/) for procedural metacognition
    - [Temporal expansion](/concepts/temporal-consciousness/) for temporal expansion bullet
-   - [free-will](/concepts/free-will/) for flexibility bullet
+   - [free-will](/topics/free-will/) for flexibility bullet
 
 4. Removed outdated AI refinement log comment.
 
@@ -79,7 +79,7 @@ The article was substantially rewritten between the previous review (2026-01-25)
 
 - [metacognition](/concepts/metacognition/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 
 ## Word Count
 

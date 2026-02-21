@@ -30,7 +30,7 @@ topics: []
 
 3. **Misleading Godel usage**: The article deployed an implicit Lucas-Penrose argument without acknowledging that it is widely contested. Rewrote the Godel paragraph to name the Lucas-Penrose argument, cite Putnam's and Benacerraf's objections, and clarify that the Map rests on the more modest phenomenal gap rather than the strong anti-formalism conclusion. Added Lucas, Penrose, and Putnam to References.
 
-4. **`free-will` topic tag without discussion**: Frontmatter listed `[free-will](/concepts/free-will/)` as a topic but the body never mentioned free will. Removed the tag rather than adding tangential content.
+4. **`free-will` topic tag without discussion**: Frontmatter listed `[free-will](/topics/free-will/)` as a topic but the body never mentioned free will. Removed the tag rather than adding tangential content.
 
 5. **Inaccurate Further Reading description**: The `objectivity-and-consciousness` entry said "Nagel's analysis of how subjectivity enables objectivity" but the article is broader. Corrected to "Why consciousness resists objective methods."
 
@@ -82,7 +82,7 @@ topics: []
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) (inline, "Why Physical Processes Cannot Ground Logical Authority" section)
 - [mysterianism](/concepts/mysterianism/) (inline, "Consciousness as the Site of Logical Authority" section)
 - [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/) (Further Reading and frontmatter)
-- [consciousness-and-the-problem-of-normative-force](/consciousness-and-the-problem-of-normative-force/) (frontmatter)
+- [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-grounds-of-normative-authority/) (frontmatter)
 
 ## Remaining Items
 

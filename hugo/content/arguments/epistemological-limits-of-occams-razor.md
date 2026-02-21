@@ -23,7 +23,7 @@ related_articles:
 - '[[mysterianism]]'
 title: Epistemological Limits of Occam's Razor
 topics:
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

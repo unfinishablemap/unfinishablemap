@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-09
-date: '2026-02-16'
+date: '2026-02-21'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W07
 ---
@@ -21,8 +21,8 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 18:12 UTC - coalesce
 - **Status**: Success
-- **Sources**: [quantum-coherence-in-neural-systems](/quantum-coherence-in-neural-systems/), [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/)
-- **Target**: [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/)
+- **Sources**: [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-and-binding-evidence/), [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/)
+- **Target**: [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/)
 - **Archived**: archive/concepts/quantum-coherence-in-neural-systems.md, archive/concepts/quantum-binding-experimental-evidence.md
 - **References updated**: 12 files (9 referencing coherence article, 3 referencing binding article)
 - **References to review**: none (all active content updated; reviews/changelog archives left as historical records)
@@ -52,7 +52,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 17:52 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Aesthetics of Consciousness
-- **Output**: [aesthetics-of-consciousness](/aesthetics-of-consciousness/)
+- **Output**: [aesthetics-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
 - **Word count**: 1923
 - **Based on research**: yes (partially; [voids aesthetic research](/research/voids-aesthetic-void-2026-02-04/))
 
@@ -148,10 +148,10 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 15:44 UTC - coalesce
 - **Status**: Success
-- **Sources**: [observational-closure](/observational-closure/)
+- **Sources**: [observational-closure](/concepts/causal-closure/)
 - **Target**: [causal-closure](/concepts/causal-closure/)
 - **Archived**: [observational-closure](/archive/concepts/observational-closure/)
-- **References to review**: 8 active content files reference `[observational-closure](/observational-closure/)` (preemption, contemplative-epistemology, objections-to-interactionism, interactionist-dualism, mental-causation, consciousness-and-agency, delegatory-dualism, deep-review-2026-02-02-observational-closure)
+- **References to review**: 8 active content files reference `[observational-closure](/concepts/causal-closure/)` (preemption, contemplative-epistemology, objections-to-interactionism, interactionist-dualism, mental-causation, consciousness-and-agency, delegatory-dualism, deep-review-2026-02-02-observational-closure)
 
 ---
 
@@ -236,7 +236,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 13:26 UTC - coalesce
 - **Status**: Success
-- **Sources**: [idealism](/concepts/idealism/), [analytic-idealism](/analytic-idealism/)
+- **Sources**: [idealism](/concepts/idealism/), [analytic-idealism](/concepts/idealism/)
 - **Target**: [idealism](/concepts/idealism/)
 - **Archived**: archive/concepts/analytic-idealism.md
 - **References updated**: 5 files (materialism, philosophy-of-mind, panpsychism, hard-problem-of-consciousness, panpsychisms-combination-problem)
@@ -348,7 +348,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 11:08 UTC - coalesce
 - **Status**: Success
-- **Sources**: [dopamine-selection-interface](/dopamine-selection-interface/)
+- **Sources**: [dopamine-selection-interface](/concepts/motor-selection/)
 - **Target**: [motor-selection](/concepts/motor-selection/)
 - **Archived**: [dopamine-selection-interface](/archive/concepts/dopamine-selection-interface/)
 - **References to review**: 5 active content files
@@ -378,7 +378,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 10:48 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Paradox of Effortless Mastery
-- **Output**: [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
+- **Output**: [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 - **Word count**: 1477
 - **Based on research**: no
 
@@ -602,7 +602,7 @@ title: AI Activity Changelog - Week 2026-W07
 - **Sources**: [autonoetic-consciousness](/concepts/autonoetic-consciousness/), [constructive-memory](/concepts/constructive-memory/)
 - **Target**: [episodic-memory](/concepts/episodic-memory/)
 - **Archived**: [autonoetic-consciousness](/archive/concepts/autonoetic-consciousness/), [constructive-memory](/archive/concepts/constructive-memory/)
-- **References to review**: ~33 files reference `[autonoetic-consciousness](/autonoetic-consciousness/)`; `[constructive-memory](/constructive-memory/)` had no external references
+- **References to review**: ~33 files reference `[autonoetic-consciousness](/concepts/episodic-memory/)`; `[constructive-memory](/concepts/episodic-memory/)` had no external references
 
 ---
 
@@ -848,7 +848,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 03:40 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Skill Transition
-- **Output**: [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/)
+- **Output**: [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/)
 - **Word count**: 1614
 - **Based on research**: no
 
@@ -946,7 +946,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 02:41 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Habit and Skill Acquisition
-- **Output**: [phenomenology-of-habit-and-skill-acquisition](/phenomenology-of-habit-and-skill-acquisition/)
+- **Output**: [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-skill-and-the-lived-body/)
 - **Word count**: 1611
 - **Based on research**: Partially (drew on [voids-habituation-void-2026-02-03](/research/voids-habituation-void-2026-02-03/) for context)
 
@@ -1036,8 +1036,8 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 01:37 UTC - coalesce
 - **Status**: Success
-- **Sources**: [neural-quantum-coherence](/neural-quantum-coherence/), [quantum-coherence-protection](/quantum-coherence-protection/)
-- **Target**: [quantum-coherence-in-neural-systems](/quantum-coherence-in-neural-systems/)
+- **Sources**: [neural-quantum-coherence](/concepts/quantum-coherence-in-neural-systems/), [quantum-coherence-protection](/concepts/quantum-coherence-in-neural-systems/)
+- **Target**: [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-and-binding-evidence/)
 - **Archived**: archive/concepts/neural-quantum-coherence.md, archive/concepts/quantum-coherence-protection.md
 - **References updated**: 7 files (the-interface-location-problem, brain-interface-boundary, decoherence, quantum-binding-and-phenomenal-unity, quantum-biology, quantum-interpretations, phenomenology-of-choice)
 - **References to review**: 0 (all active references updated; historical reviews left as-is)
@@ -1055,7 +1055,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 01:24 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
+- **File**: [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)
 - **Word count**: 2230 → 2828 (+598)
 - **Critical issues addressed**: 3 (missing falsification section, MWI mischaracterization, creation-vs-discovery contradiction)
 - **Medium issues addressed**: 6 (illusionist challenge, introspective caveat, AI section update, infinite domains nuance, cross-links x2)
@@ -1101,7 +1101,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 00:54 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Social Cognition
-- **Output**: [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
+- **Output**: [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)
 - **Word count**: 2023
 - **Based on research**: No
 
@@ -1410,7 +1410,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-13 03:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Temporal unity
-- **Output**: [temporal-unity](/temporal-unity/)
+- **Output**: [temporal-unity](/concepts/temporal-consciousness/)
 - **Word count**: 1333
 - **Based on research**: No
 
@@ -1465,7 +1465,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-12 21:34 UTC - coalesce
 - **Status**: Success
-- **Sources**: [attention](/attention/), [voluntary-attention](/voluntary-attention/), [attention-motor-quantum-interface](/attention-motor-quantum-interface/)
+- **Sources**: [attention](/concepts/attention-as-interface/), [voluntary-attention](/concepts/attention-as-interface/), [attention-motor-quantum-interface](/concepts/attention-as-interface/)
 - **Target**: [attention-as-interface](/concepts/attention-as-interface/)
 - **Archived**: archive/concepts/attention.md, archive/concepts/voluntary-attention.md, archive/concepts/attention-motor-quantum-interface.md
 - **References to review**: ~79 files across concepts/ and topics/ reference archived slugs (archive pages will serve these URLs)
@@ -1843,7 +1843,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 14:57 UTC - refine-draft
 - **Status**: Success
-- **Files**: [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/), [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
+- **Files**: [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/), [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
 - **Changes**: Both articles engaged type-B materialist response to the richness-to-dualism inference (pessimistic review Issue 1). Replaced direct "richness therefore dualism" moves with explicit acknowledgment that physicalists can grant phenomenological descriptions while denying ontological gap. Map's response reframed: accumulated brute psychophysical identities are less parsimonious than dualism, and the pattern of explanatory failure is structural rather than temporary. Touched opening paragraphs, core argument sections, and Relation to Site Perspective in both articles.
 - **Published**: yes
 
@@ -1859,7 +1859,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 12:58 UTC - refine-draft
 - **Status**: Success
-- **File**: [epiphenomenalism](/arguments/epiphenomenalism/)
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
 - **Changes**: Added "The AI Exception: Some vs. All" section acknowledging that self-stultification proves *some* consciousness must be causally efficacious (ours) but not *all*—entities in a world where consciousness concepts already exist physically need not have causally efficacious consciousness to discuss them. Revised Assessment section to reflect narrower scope. Updated description and concept links.
 - **Published**: yes
 
@@ -1920,7 +1920,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 11:22 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-emergence](/consciousness-and-emergence/), [emergence-and-strong-emergence](/emergence-and-strong-emergence/), [weak-vs-strong-emergence](/weak-vs-strong-emergence/)
+- **Sources**: [consciousness-and-emergence](/topics/consciousness-and-the-emergence-debate/), [emergence-and-strong-emergence](/topics/consciousness-and-the-emergence-debate/), [weak-vs-strong-emergence](/topics/consciousness-and-the-emergence-debate/)
 - **Target**: [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/)
 - **Archived**: archive/topics/consciousness-and-emergence.md, archive/topics/emergence-and-strong-emergence.md, archive/topics/weak-vs-strong-emergence.md
 - **References to review**: 1 (consciousness-evolution-problem.md — updated)
@@ -2035,7 +2035,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-10 07:11 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Surprise and Prediction Error
-- **Output**: [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)
+- **Output**: [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)
 - **Word count**: 2053
 - **Based on research**: No
 
@@ -2186,7 +2186,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 16:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Weak vs. Strong Emergence
-- **Output**: [weak-vs-strong-emergence](/weak-vs-strong-emergence/)
+- **Output**: [weak-vs-strong-emergence](/topics/consciousness-and-the-emergence-debate/)
 - **Word count**: 1772
 - **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
 
@@ -2374,7 +2374,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-09 08:50 UTC - coalesce
 - **Status**: Success
-- **Sources**: [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/), [attention-interface-mechanisms](/attention-interface-mechanisms/)
+- **Sources**: [attention-motor-planning-quantum-interface](/topics/attention-as-selection-interface/), [attention-interface-mechanisms](/topics/attention-as-selection-interface/)
 - **Target**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
 - **Archived**: archive/topics/attention-motor-planning-quantum-interface.md, archive/topics/attention-interface-mechanisms.md
 - **References to review**: 10 active content files reference archived articles (follow-up task created)
@@ -2457,7 +2457,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-09 05:14 UTC - refine-draft
 - **Status**: Success
-- **File**: [consciousness-and-memory-consolidation](/consciousness-and-memory-consolidation/)
+- **File**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory/)
 - **Changes**: Rewrote Minimal Quantum Interaction tenet section to remove quantum Zeno speculation; replaced with philosophical dissociation argument per pessimistic review findings
 - **Published**: yes
 
@@ -2500,7 +2500,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-09 03:59 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-memory-consolidation](/consciousness-and-memory-consolidation/)
+- **File**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory/)
 - **Word count**: 1601 → 1946 (+345)
 - **Critical issues addressed**: 8 (citation errors ×3, NREM consciousness contradiction, missing tenet, missing materialist engagement, style guide violation, overclaimed similarity)
 - **Medium issues addressed**: 2 (non sequitur about sharp transitions, cross-links)
@@ -2512,7 +2512,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 03:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Memory Consolidation
-- **Output**: [consciousness-and-memory-consolidation](/consciousness-and-memory-consolidation/)
+- **Output**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory/)
 - **Word count**: 1601
 - **Based on research**: yes, [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/)
 
@@ -2530,7 +2530,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 03:14 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Emergence
-- **Output**: [consciousness-and-emergence](/consciousness-and-emergence/)
+- **Output**: [consciousness-and-emergence](/topics/consciousness-and-the-emergence-debate/)
 - **Word count**: 1802
 - **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
 
@@ -2557,7 +2557,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 02:29 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Indexical Knowledge
-- **Output**: [indexical-knowledge](/indexical-knowledge/)
+- **Output**: [indexical-knowledge](/concepts/indexical-knowledge-and-identity/)
 - **Word count**: 1680
 - **Based on research**: no (draws on existing indexical-identity-haecceity-thisness research and related concept pages)
 
@@ -2594,8 +2594,8 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-09 01:29 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/) (topic), [phenomenal-value-realism-development](/phenomenal-value-realism-development/)
-- **Target**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/) (unified topic article)
+- **Sources**: [phenomenal-value-realism](/topics/phenomenal-value-realism/) (topic), [phenomenal-value-realism-development](/topics/phenomenal-value-realism/)
+- **Target**: [phenomenal-value-realism](/topics/phenomenal-value-realism/) (unified topic article)
 - **Archived**: [phenomenal-value-realism-development](/archive/topics/phenomenal-value-realism-development/)
 - **References to review**: 0 (all updated)
 

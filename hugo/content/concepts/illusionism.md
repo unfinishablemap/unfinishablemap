@@ -7,9 +7,9 @@ author: null
 concepts:
 - '[[qualia]]'
 - '[[explanatory-gap]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[phenomenal-concepts-strategy]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[attention-schema-theory]]'
 - '[[attention]]'
 - '[[introspection]]'
@@ -68,7 +68,7 @@ Graziano favors soft illusionism, arguing evolution wouldn't invest resources mo
 
 Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) (AST) provides the most developed neuroscientific implementation of illusionism. Where philosophical illusionists like Frankish and Dennett argue that introspection misrepresents experience, AST explains *how* the brain generates this misrepresentation.
 
-The proposal: just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [attention](/attention/). This schema represents attention as having experiential qualities—intentionality, selfhood, phenomenality—because that's a useful simplification for managing attentional resources. The brain then mistakes its own model for reality, concluding it has a "non-physical essence of awareness."
+The proposal: just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [attention](/concepts/attention-as-interface/). This schema represents attention as having experiential qualities—intentionality, selfhood, phenomenality—because that's a useful simplification for managing attentional resources. The brain then mistakes its own model for reality, concluding it has a "non-physical essence of awareness."
 
 AST gains empirical traction from neuroimaging findings. A 2021 study from Graziano's Princeton lab found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
 
@@ -153,7 +153,7 @@ Illusionism would be undermined if:
 Illusionism remains a minority position. The 2020 PhilPapers survey found that only a small fraction of philosophers endorse eliminativism about phenomenal consciousness. (The survey's finding that 62% consider the hard problem genuine is less telling—many physicalists consider it genuine but solvable, which is different from accepting illusionism's dissolution of it.) Illusionism has nonetheless gained attention as physicalism's most uncompromising option—the fallback when other strategies fail.
 
 Recent work has focused on several questions:
-- Whether illusionism can be empirically distinguished from ordinary [materialism](/arguments/materialism/)
+- Whether illusionism can be empirically distinguished from ordinary [materialism](/concepts/materialism/)
 - The "hardest aspect" of the illusion problem: why the illusion resists dissolution
 - Whether illusionism is self-refuting (if our beliefs about consciousness are illusions, why trust our belief in illusionism?)
 - How illusionism handles the [convergence argument](/concepts/the-case-for-dualism/)—multiple independent routes to the same anti-materialist conclusion
@@ -174,7 +174,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 
 ### Site Content
 - [attention-schema-theory](/concepts/attention-schema-theory/) — The neuroscientific mechanism for illusionism, and the Map's critique
-- [attention](/attention/) — What AST claims consciousness is a model of
+- [attention](/concepts/attention-as-interface/) — What AST claims consciousness is a model of
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — Illusionism as the most radical physicalist response
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap illusionism claims doesn't need bridging
 - [introspection](/concepts/introspection/) — The reliability of phenomenal reports illusionism must challenge
@@ -182,7 +182,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as alternative explanation for illusionism's appeal
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — A less radical physicalist approach
 - [qualia](/concepts/qualia/) — The properties illusionism denies
-- [materialism](/arguments/materialism/) — The view illusionism radically defends
+- [materialism](/concepts/materialism/) — The view illusionism radically defends
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What illusionism claims to dissolve
 
 ### External Sources

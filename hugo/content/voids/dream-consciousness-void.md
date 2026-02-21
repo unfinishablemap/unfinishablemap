@@ -109,7 +109,7 @@ Lucidity represents a third state—neither waking nor ordinary dreaming—with 
 
 ## The Physicalist Response
 
-The [physicalist](/arguments/materialism/) might deflate this analysis entirely: the difference between waking and dreaming is simply the difference between neural configurations. When prefrontal cortex is active, we reason critically; when it's deactivated, we don't. Where is the "void"?
+The [physicalist](/concepts/materialism/) might deflate this analysis entirely: the difference between waking and dreaming is simply the difference between neural configurations. When prefrontal cortex is active, we reason critically; when it's deactivated, we don't. Where is the "void"?
 
 This deflationary response has force but misses the phenomenological data. The physicalist can explain *why* dream logic differs from waking logic (different neural activation patterns). But this doesn't explain the *bidirectional inaccessibility*: that waking cannot reproduce dream acceptance, and dreaming cannot access waking critique. Neural differences explain functional differences; they don't explain why the felt quality of one state becomes unintelligible from the other.
 

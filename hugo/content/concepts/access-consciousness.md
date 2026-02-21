@@ -8,7 +8,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[phenomenal-overflow]]'
 - '[[global-workspace-theory]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[qualia]]'
 - '[[philosophical-zombies]]'
 - '[[attention]]'
@@ -48,7 +48,7 @@ Block's original formulation: "A representation is access conscious if it is poi
 
 Key features: (1) availability to multiple cognitive systems, (2) rational control over deliberate action, (3) reportability in speech or thought, and (4) functional definition—what information *does*, not what it *feels like*.
 
-**Examples**: A visual perception you can describe and reason about; information in [working memory](/concepts/working-memory/) available for executive processes. **Contrasts**: Subliminal stimuli affecting behavior without awareness; blindsight information patients can "guess" but can't use for normal reasoning. The boundaries are contested—these examples drive debates about dissociations (explained in [](//#dissociations)).
+**Examples**: A visual perception you can describe and reason about; information in [working memory](/concepts/working-memory/) available for executive processes. **Contrasts**: Subliminal stimuli affecting behavior without awareness; blindsight information patients can "guess" but can't use for normal reasoning. The boundaries are contested—these examples drive debates about dissociations (explained in [](#dissociations)).
 
 ## The Access/Phenomenal Distinction {#distinction}
 
@@ -80,7 +80,7 @@ Can thoughts be A-conscious without phenomenal character? The thought "Paris is 
 
 ## Access Consciousness and Functionalism {#functionalism}
 
-[Functionalism](/arguments/functionalism/) defines mental states by their causal-functional roles. Access consciousness fits naturally into functionalist frameworks—it's defined by what information *does* (availability for reasoning, report, action). This is why [Global Workspace Theory](/concepts/global-workspace-theory/) succeeds as a theory of A-consciousness.
+[functionalism](/concepts/functionalism/) defines mental states by their causal-functional roles. Access consciousness fits naturally into functionalist frameworks—it's defined by what information *does* (availability for reasoning, report, action). This is why [Global Workspace Theory](/concepts/global-workspace-theory/) succeeds as a theory of A-consciousness.
 
 **The functionalist challenge**: Functionalists argue the access/phenomenal distinction is question-begging. When you ask "what is it like to see red?", functionalists answer: it's having color-detection systems activated to produce discrimination, reports, and memory formation. That *is* the phenomenology—no additional "redness" beyond functional capacities. Block's distinction assumes access and phenomenology refer to different things rather than proving it.
 
@@ -88,7 +88,7 @@ Can thoughts be A-conscious without phenomenal character? The thought "Paris is 
 
 ## The Role of Attention {#attention}
 
-[Attention](/attention/) is the mechanism that *selects* what enters the global workspace; A-consciousness is the state of being in the workspace. Attended information typically becomes A-conscious; inattentional blindness shows unattended information may not reach full access.
+[Attention](/concepts/attention-as-interface/) is the mechanism that *selects* what enters the global workspace; A-consciousness is the state of being in the workspace. Attended information typically becomes A-conscious; inattentional blindness shows unattended information may not reach full access.
 
 If [overflow](/concepts/phenomenal-overflow/) is real, attention selects what becomes A-conscious from a richer phenomenal field—attention doesn't create P-consciousness but determines what reaches access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 
@@ -98,7 +98,7 @@ If [overflow](/concepts/phenomenal-overflow/) is real, attention selects what be
 
 If [consciousness causally influences the brain](/tenets/#bidirectional), access consciousness is plausibly part of that mechanism. P-consciousness operates *through* A-consciousness machinery: by modulating attention, consciousness determines what becomes A-conscious. The *machinery* of access (global workspace, prefrontal-parietal networks) is physical, but what *drives* selection may be phenomenal consciousness operating through quantum-level interactions. See [causal-closure](/concepts/causal-closure/) for how this avoids violating conservation laws.
 
-**Free will connection**: Libertarian free will requires that agents genuinely select among alternatives. A-consciousness is where alternatives become explicit—available for deliberation and choice. See [free-will](/concepts/free-will/) and [the phenomenology of choice](/concepts/phenomenology-of-choice/).
+**Free will connection**: Libertarian free will requires that agents genuinely select among alternatives. A-consciousness is where alternatives become explicit—available for deliberation and choice. See [free-will](/topics/free-will/) and [the phenomenology of choice](/concepts/phenomenology-of-choice/).
 
 ## Relation to Site Perspective {#tenets}
 
@@ -118,7 +118,7 @@ Access mechanisms are the "downstream" neural processes that amplify initial qua
 
 ### No Many Worlds
 
-The [Many Worlds Interpretation](/arguments/many-worlds/) implies all possible outcomes occur across branches. If consciousness operates through quantum selection, MWI threatens to make that selection illusory. MWI defenders respond with self-locating uncertainty: "which branch am I on?" is meaningful with a definite answer given by observation.
+The [Many Worlds Interpretation](/concepts/many-worlds/) implies all possible outcomes occur across branches. If consciousness operates through quantum selection, MWI threatens to make that selection illusory. MWI defenders respond with self-locating uncertainty: "which branch am I on?" is meaningful with a definite answer given by observation.
 
 **The dualist objection**: Self-locating uncertainty presupposes a determinate "I" whose location is uncertain—but MWI's ontology contains only wave functions evolving deterministically. The answer "you're the version in this branch" may suffice for spatial self-location, but consciousness involves the qualitative character of *this* experience. The question is not "which branch am I on?" but "why is there something it's like to be this branch-occupant?"
 

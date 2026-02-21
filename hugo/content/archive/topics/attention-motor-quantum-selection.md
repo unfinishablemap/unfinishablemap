@@ -35,7 +35,7 @@ related_articles:
 superseded_by: /topics/attention-interface-mechanisms/
 title: Attention-Motor Quantum Selection
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -232,12 +232,12 @@ This honest gap distinguishes the Map's position from eliminativism (which denie
 
 ## Further Reading
 
-- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Detailed concept treatment of the unified interface
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
 - [structure-of-attention](/topics/structure-of-attention/) — The three-mode architecture of attention
-- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
-- [free-will](/concepts/free-will/) — The broader topic of free will and determinism
+- [dopamine-selection-interface](/concepts/motor-selection/) — Dopamine's role in threshold modulation
+- [free-will](/topics/free-will/) — The broader topic of free will and determinism
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 
 ## References

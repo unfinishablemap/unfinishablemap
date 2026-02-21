@@ -65,7 +65,7 @@ topics: []
 - [decoherence](/concepts/decoherence/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
-- [specious-present](/specious-present/)
+- [specious-present](/concepts/temporal-consciousness/)
 - [neurophenomenology](/concepts/neurophenomenology/)
 
 ## Remaining Items

@@ -12,7 +12,7 @@ concepts:
 - '[[moral-phenomenology]]'
 - '[[consciousness-value-connection]]'
 - '[[qualia]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[agent-causation]]'
 created: 2026-02-18
 date: &id001 2026-02-18
@@ -27,16 +27,16 @@ original_path: /topics/consciousness-and-the-problem-of-normative-force/
 related_articles:
 - '[[normative-void]]'
 - '[[phenomenology-of-moral-experience]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[moral-responsibility]]'
 - '[[moral-perception]]'
 superseded_by: /topics/consciousness-and-the-grounds-of-normative-authority/
 title: Consciousness and the Problem of Normative Force
 topics:
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[consciousness-and-normative-authority]]'
 - '[[ethics-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Normative force is the binding grip of an "ought" — the felt demand that moves from recognition to requirement. Pain does not merely inform you that tissue is damaged; it *compels* avoidance. A promise does not merely describe a commitment; it *binds* you to fulfilment. The problem of normative force asks: where does this compulsion come from? The Unfinishable Map argues that normative force is rooted in conscious experience — that without phenomenal consciousness, the gap between recognising a fact and being bound by it cannot be closed. This article examines why that gap exists, why standard philosophical accounts struggle to close it, and what consciousness contributes that nothing else can.
@@ -97,13 +97,13 @@ Compare this with a surveillance system that detects a child in danger. It can "
 
 Pain and pleasure provide clear cases of felt normativity, but normative force extends beyond hedonic experience. The felt weight of a broken promise, the phenomenal pull of an unfinished argument, the experiential demand of beauty — these carry normative force that is not straightforwardly hedonic.
 
-The Map's [phenomenal value pluralism](/concepts/phenomenal-value-realism/#beyond-hedonism) addresses this. Multiple features of experience — meaning, agency, understanding, connection, aesthetic quality — carry intrinsic normative force. The felt significance of meaningful work is not reducible to its pleasantness. The phenomenal character of genuine understanding includes a normative dimension: truth *matters*, and you experience it mattering.
+The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism) addresses this. Multiple features of experience — meaning, agency, understanding, connection, aesthetic quality — carry intrinsic normative force. The felt significance of meaningful work is not reducible to its pleasantness. The phenomenal character of genuine understanding includes a normative dimension: truth *matters*, and you experience it mattering.
 
 This pluralism faces a challenge: if normative force is built into many kinds of experience, what unifies them? The answer may be that consciousness itself — the condition of there being something it is like — is what makes any experience capable of carrying normative weight. Normative force is a property of experience as such, diversified across hedonic, epistemic, aesthetic, and moral domains but unified by requiring a conscious subject.
 
 ## The Epiphenomenalist Threat
 
-If normative force lives in consciousness, consciousness must be able to *do something* about it. Pain's demand for avoidance is empty if conscious experience cannot influence behaviour. This is why [epiphenomenalism](/arguments/epiphenomenalism/) — the view that consciousness is causally inert — threatens normative force directly.
+If normative force lives in consciousness, consciousness must be able to *do something* about it. Pain's demand for avoidance is empty if conscious experience cannot influence behaviour. This is why [epiphenomenalism](/concepts/epiphenomenalism/) — the view that consciousness is causally inert — threatens normative force directly.
 
 An epiphenomenal consciousness could experience pain's badness but could not act on it. The felt demand would be entirely disconnected from behaviour. You would avoid pain, but not because it felt bad — your physical brain states would handle avoidance independently, with the phenomenal demand as an idle accompaniment.
 
@@ -143,9 +143,9 @@ The consciousness-based account of normative force would face pressure if:
 
 ## Further Reading
 
-- [consciousness-and-normative-authority](/consciousness-and-normative-authority/) — How consciousness grounds normative authority across domains
+- [consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — How consciousness grounds normative authority across domains
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert

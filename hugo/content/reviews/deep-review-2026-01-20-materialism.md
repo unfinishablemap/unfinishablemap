@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Materialism](/arguments/materialism/)
+**Article**: [Materialism](/concepts/materialism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -58,7 +58,7 @@ topics: []
 - [introspection](/concepts/introspection/) — Added to frontmatter and illusionism section
 - [combination-problem](/concepts/combination-problem/) — Added to frontmatter and process philosophy section
 - [panpsychism](/concepts/panpsychism/) — Added to frontmatter and process philosophy section
-- [many-worlds](/arguments/many-worlds/) — Added to frontmatter and tenet connection section
+- [many-worlds](/concepts/many-worlds/) — Added to frontmatter and tenet connection section
 
 ### References Added
 - Dennett, D. C. (1991). *Consciousness Explained*

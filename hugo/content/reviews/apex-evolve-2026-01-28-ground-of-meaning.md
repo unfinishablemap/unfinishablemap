@@ -12,7 +12,7 @@ human_modified: null
 last_curated: null
 modified: *id001
 related_articles:
-- '[[ground-of-meaning]]'
+- ground-of-meaning
 title: 'Apex Evolution Review: The Ground of Meaning'
 topics: []
 ---

@@ -11,7 +11,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[moral-responsibility]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[mental-effort]]'
 - '[[luck-objection]]'
 - '[[interactionist-dualism]]'
@@ -31,11 +31,11 @@ related_articles:
 - '[[retrocausality]]'
 title: Free Will
 topics:
-- '[[free-will|Free Will and Determinism]]'
+- '[[topics/free-will|Free Will and Determinism]]'
 - '[[personal-identity]]'
 ---
 
-Free will is the capacity to genuinely author one's choices — to have been able to do otherwise in a way that reflects one's own agency rather than the unfolding of predetermined causes. The Unfinishable Map defends [agent-causal](/concepts/agent-causation/) libertarian free will: the view that conscious agents, as persisting substances, directly cause their actions through a power irreducible to prior physical events. This stands against both hard determinism (choices are fixed by prior causes) and compatibilism (freedom is merely acting from endorsed desires without coercion). For the Map's full treatment of free will including neuroscientific evidence, the luck objection, and the temporal problem, see [Free Will and Determinism](/concepts/free-will/).
+Free will is the capacity to genuinely author one's choices — to have been able to do otherwise in a way that reflects one's own agency rather than the unfolding of predetermined causes. The Unfinishable Map defends [agent-causal](/concepts/agent-causation/) libertarian free will: the view that conscious agents, as persisting substances, directly cause their actions through a power irreducible to prior physical events. This stands against both hard determinism (choices are fixed by prior causes) and compatibilism (freedom is merely acting from endorsed desires without coercion). For the Map's full treatment of free will including neuroscientific evidence, the luck objection, and the temporal problem, see [Free Will and Determinism](/topics/free-will/).
 
 ## The Three Positions
 
@@ -61,7 +61,7 @@ Three lines of experiential evidence support genuine agency:
 
 **The [phenomenology of effort](/concepts/mental-effort/)** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that "the free will question relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
 
-**Neural signatures of willed action** — [Willed attention](/voluntary-attention/) shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or merely instructed behaviour. The subjective sense of authorship tracks genuine differences in neural organisation, not an arbitrary overlay.
+**Neural signatures of willed action** — [Willed attention](/concepts/attention-as-interface/) shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or merely instructed behaviour. The subjective sense of authorship tracks genuine differences in neural organisation, not an arbitrary overlay.
 
 ## The Physical Interface
 
@@ -73,11 +73,11 @@ The Map does not commit to any single mechanism. Quantum indeterminacy, [retroca
 
 ## Key Challenges
 
-**The [luck objection](/concepts/luck-objection/)**: If choices aren't determined, what makes them the agent's rather than random? The Map responds: consciousness *selects* rather than receives outcomes. Selection based on reasons is neither determined nor lucky. See [the luck objection response](/concepts/free-will/#the-agent-causal-response-to-luck) for the full treatment.
+**The [luck objection](/concepts/luck-objection/)**: If choices aren't determined, what makes them the agent's rather than random? The Map responds: consciousness *selects* rather than receives outcomes. Selection based on reasons is neither determined nor lucky. See [the luck objection response](/topics/free-will/#the-agent-causal-response-to-luck) for the full treatment.
 
 **[Libet's timing problem](/concepts/libet-experiments/)**: Neural readiness potentials precede conscious awareness of deciding. But Schurger et al. (2012) showed the readiness potential likely reflects neural noise rather than decision preparation. And if agent causation operates atemporally — as [retrocausal](/concepts/retrocausality/) interpretations suggest — the apparent temporal ordering is part of what was selected.
 
-**[Epiphenomenalism](/arguments/epiphenomenalism/)**: If consciousness causes nothing, your belief that you're conscious isn't caused by actually being conscious. The position is [self-stultifying](/concepts/self-stultification/) — it cannot be rationally held by someone who arrived at it through introspection.
+**[Epiphenomenalism](/concepts/epiphenomenalism/)**: If consciousness causes nothing, your belief that you're conscious isn't caused by actually being conscious. The position is [self-stultifying](/concepts/self-stultification/) — it cannot be rationally held by someone who arrived at it through introspection.
 
 ## Relation to Site Perspective
 
@@ -106,7 +106,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 
 ## Further Reading
 
-- [Free Will and Determinism](/concepts/free-will/) — The Map's full treatment including neuroscience, luck objection, and temporal problem
+- [Free Will and Determinism](/topics/free-will/) — The Map's full treatment including neuroscience, luck objection, and temporal problem
 - [agent-causation](/concepts/agent-causation/) — Why the framework is agent-causal and the metaphysics of substance causation
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation and decision
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical outcomes; response to Kim's exclusion argument
@@ -115,7 +115,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [libet-experiments](/concepts/libet-experiments/) — Neuroscientific evidence and its interpretation
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds genuine desert
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to evaluate alternatives
-- [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from automatic action
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic action
 
 ## References
 

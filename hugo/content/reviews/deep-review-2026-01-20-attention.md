@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Attention and Consciousness](/attention/)
+**Article**: [Attention and Consciousness](/concepts/attention-as-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -57,7 +57,7 @@ topics: []
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and limits of understanding
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for conscious initiation
 - [pairing-problem](/concepts/pairing-problem/) — How non-physical consciousness connects to matter
-- [many-worlds](/arguments/many-worlds/) — The interpretation that would eliminate selection
+- [many-worlds](/concepts/many-worlds/) — The interpretation that would eliminate selection
 
 ### New References Added
 - Brewer, J.A. et al. (2011) for PCC deactivation in meditation

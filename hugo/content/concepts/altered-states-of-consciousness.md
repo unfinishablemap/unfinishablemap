@@ -30,7 +30,7 @@ related_articles:
 - '[[phenomenology]]'
 - '[[eastern]]'
 - '[[neurophenomenology]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[mysterianism]]'
 - '[[qualia]]'
 title: Altered States of Consciousness

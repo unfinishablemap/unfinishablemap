@@ -54,7 +54,7 @@ topics: []
 5. **New pairing problem connection**: Links agent causation to spatial location at interface
 
 ### Cross-links Added
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 - [pairing-problem](/concepts/pairing-problem/)
 - [downward-causation](/concepts/downward-causation/)
 - [mental-causation](/concepts/mental-causation/)

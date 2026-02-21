@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Phenomenal Binding](/phenomenal-binding/)
+**Article**: [Phenomenal Binding](/concepts/binding-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -93,7 +93,7 @@ Six philosopher personas applied supportive analysis:
 - [illusionism](/concepts/illusionism/) (new)
 - [mysterianism](/concepts/mysterianism/) (new)
 - [explanatory-gap](/concepts/explanatory-gap/) (new)
-- [free-will](/concepts/free-will/) (new)
+- [free-will](/topics/free-will/) (new)
 - [agent-causation](/concepts/agent-causation/) (new)
 - [argument-from-reason](/topics/argument-from-reason/) (new)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (new)

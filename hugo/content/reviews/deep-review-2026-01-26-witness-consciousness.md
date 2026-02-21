@@ -35,7 +35,7 @@ None. The previous review (2026-01-20) addressed major gaps including:
 
 - **Buddhist section incomplete**: Advanced contemplatives report transcending the witness/witnessed distinction itself, not just identification with contents. The article mentioned Krishnamurti's "choiceless awareness" but didn't fully develop this point. **Resolution**: Added paragraph in Krishnamurti section explaining that the witness/witnessed distinction itself dissolves in advanced practice.
 
-- **Epiphenomenalism response missing free will connection**: The witness mode's capacity to refrain from acting is significant for libertarian free will. **Resolution**: Added sentence connecting witness mode to free will; added [free-will](/concepts/free-will/) cross-link.
+- **Epiphenomenalism response missing free will connection**: The witness mode's capacity to refrain from acting is significant for libertarian free will. **Resolution**: Added sentence connecting witness mode to free will; added [free-will](/topics/free-will/) cross-link.
 
 ### Counterarguments Considered
 
@@ -62,11 +62,11 @@ All six adversarial personas engaged:
 
 - Added paragraph explaining advanced contemplative dissolution of witness/witnessed distinction (~60 words)
 - Enhanced epiphenomenalism response with free will connection (~45 words)
-- Added [free-will](/concepts/free-will/) to concepts frontmatter
+- Added [free-will](/topics/free-will/) to concepts frontmatter
 
 ### Cross-links Added
 
-- [free-will](/concepts/free-will/) — in epiphenomenalism response and frontmatter
+- [free-will](/topics/free-will/) — in epiphenomenalism response and frontmatter
 
 ## Word Count
 

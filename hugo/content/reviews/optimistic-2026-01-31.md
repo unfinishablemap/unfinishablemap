@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-31
-date: '2026-01-31'
+date: '2026-02-21'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-31
@@ -48,13 +48,13 @@ The [contemplative-evidence-for-consciousness-theories](/topics/contemplative-ev
 
 The Map integrates process philosophy thoughtfully across dozens of articles rather than merely name-dropping. The [process-philosophy](/concepts/process-philosophy/) concept article articulates actual occasions, prehension, and concrescence, connecting them to temporal consciousness and the combination problem. The recognition that process philosophy treats consciousness as *exemplary* rather than anomalous—experience goes all the way down—provides unexpected support for taking consciousness seriously.
 
-Particularly valuable: the application of Whiteheadian concepts to specific problems. The [time-collapse-and-agency](/topics/time-collapse-and-agency/) article uses concrescence as collapse to illuminate agency's temporal structure. The [duration](/duration/) article connects Bergson's durée to Whitehead's epochal theory. Multiple articles use prehensive inheritance to explain memory and temporal binding.
+Particularly valuable: the application of Whiteheadian concepts to specific problems. The [time-collapse-and-agency](/topics/time-collapse-and-agency/) article uses concrescence as collapse to illuminate agency's temporal structure. The [duration](/concepts/temporal-consciousness/) article connects Bergson's durée to Whitehead's epochal theory. Multiple articles use prehensive inheritance to explain memory and temporal binding.
 
 The honest acknowledgment of tensions between process philosophy's panpsychism and the Map's interactionism shows philosophical maturity. The Map doesn't pretend all its resources are perfectly harmonious.
 
 ### The Libertarian Free Will Defender (Kane)
 
-The Map provides perhaps the strongest coherent defense of libertarian free will currently available. The [free-will](/concepts/free-will/) article addresses the luck objection directly through three independent markers distinguishing conscious selection from lucky indeterminism: effort phenomenology (random processes don't feel like work), success tracking (lucky events don't feel like achievements), and reason-responsiveness (selection follows normative guidance).
+The Map provides perhaps the strongest coherent defense of libertarian free will currently available. The [free-will](/topics/free-will/) article addresses the luck objection directly through three independent markers distinguishing conscious selection from lucky indeterminism: effort phenomenology (random processes don't feel like work), success tracking (lucky events don't feel like achievements), and reason-responsiveness (selection follows normative guidance).
 
 The [luck-objection](/concepts/luck-objection/) article engages Kane's 2024 updates explicitly, incorporating agent-causal elements into the event-causal framework. The phenomenology of effort provides the key response: if choices were passive reception of determined or random outcomes, the distinctive feel of deliberative struggle would be deeply mysterious.
 
@@ -110,7 +110,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 ### High Priority
 
 #### Attention Mechanisms and Consciousness Interface
-- **Builds on**: [attention-as-interface](/concepts/attention-as-interface/), [quantum-consciousness](/concepts/quantum-consciousness/), [voluntary-attention](/voluntary-attention/)
+- **Builds on**: [attention-as-interface](/concepts/attention-as-interface/), [quantum-consciousness](/concepts/quantum-consciousness/), [voluntary-attention](/concepts/attention-as-interface/)
 - **Would address**: Attention frequently mentioned as the consciousness-brain interface but not systematically developed
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Directly relevant to Minimal Quantum Interaction—Stapp's quantum Zeno mechanism operates through attention
@@ -122,7 +122,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 - **Tenet alignment**: Supports Bidirectional Interaction by showing what consciousness adds to cognition
 
 #### The Choking Phenomenon and Mental Causation
-- **Builds on**: [implicit-memory](/concepts/implicit-memory/), [mental-causation](/concepts/mental-causation/), [epiphenomenalism](/arguments/epiphenomenalism/)
+- **Builds on**: [implicit-memory](/concepts/implicit-memory/), [mental-causation](/concepts/mental-causation/), [epiphenomenalism](/concepts/epiphenomenalism/)
 - **Would address**: Sports psychology evidence for consciousness's causal efficacy deserves fuller treatment
 - **Estimated scope**: Short article
 - **Tenet alignment**: Directly supports Bidirectional Interaction with unexpected empirical evidence
@@ -136,7 +136,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 - **Tenet alignment**: Strengthens Dualism by showing intentionality cannot be physically reduced
 
 #### Motor Imagery and Mental Practice
-- **Builds on**: [mental-imagery](/concepts/mental-imagery/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/)
+- **Builds on**: [mental-imagery](/concepts/mental-imagery/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
 - **Would address**: Athletic/clinical applications of mental practice provide empirical traction
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports Bidirectional Interaction through measurable performance effects
@@ -148,7 +148,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 - **Tenet alignment**: Provides evidence for consciousness states beyond normal waking
 
 #### The Teaching Threshold
-- **Builds on**: [metarepresentation](/metarepresentation/), [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/), [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
+- **Builds on**: [metarepresentation](/concepts/metacognition/), [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/), [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)
 - **Would address**: Why humans teach and apes don't, despite sophisticated social cognition
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports baseline cognition hypothesis and consciousness's causal role
@@ -166,12 +166,12 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 
 | From | To | Reason |
 |------|-----|--------|
-| [free-will](/concepts/free-will/) | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | Meditation reveals capacity to refrain from selection |
+| [free-will](/topics/free-will/) | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | Meditation reveals capacity to refrain from selection |
 | [machine-consciousness](/topics/machine-consciousness/) | [baseline-cognition](/concepts/baseline-cognition/) | Consciousness as amplifier of baseline capacities |
-| [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) | [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) | Both involve non-decomposable understanding |
+| [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) | [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) | Both involve non-decomposable understanding |
 | [personal-identity](/topics/personal-identity/) | [vertiginous-question](/topics/vertiginous-question/) | Both concerned with irreducible indexicality |
 | [death-and-consciousness](/topics/death-and-consciousness/) | [near-death-experiences](/concepts/near-death-experiences/) | Obvious pairing, currently mentioned but not cross-linked |
-| [implicit-memory](/concepts/implicit-memory/) | [voluntary-attention](/voluntary-attention/) | Choking shows attention's causal efficacy |
+| [implicit-memory](/concepts/implicit-memory/) | [voluntary-attention](/concepts/attention-as-interface/) | Choking shows attention's causal efficacy |
 | [blindsight](/concepts/blindsight/) | [baseline-cognition](/concepts/baseline-cognition/) | Blindsight demonstrates baseline visual processing |
 | [epistemic-emotions](/concepts/epistemic-emotions/) | [metacognition](/concepts/metacognition/) | FOK/TOT as metarepresentational evidence |
 | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | [agent-causation](/concepts/agent-causation/) | Effort phenomenology grounds agent causation |

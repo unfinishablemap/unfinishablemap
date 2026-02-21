@@ -29,7 +29,7 @@ related_articles:
 title: Atemporal Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Atemporal causation is causation that does not operate within temporal sequence. Where ordinary causation flows from earlier events to later ones, atemporal causation determines which temporal sequence becomes actual without itself being located at any point in that sequence. The Unfinishable Map's framework draws on this concept to explain how consciousness can select quantum outcomes even when neural activity precedes conscious awareness — the selection isn't late because it isn't at a time at all.
@@ -70,11 +70,11 @@ This makes time-symmetry mathematically explicit, and on the Map's reading, poin
 
 **Not acausality.** Random or uncaused events are acausal — things happen with no determining factor. Atemporal causation involves genuine determination: the selection makes a causal difference to which outcome occurs. It is causation without temporal location, not absence of causation.
 
-**Not violation of physical law.** The selection operates at quantum indeterminacies — where physics leaves outcomes undetermined. If it works as proposed — biasing which outcome within an allowed distribution becomes actual — then no conservation law is broken, no energy is injected, no physical constraint is overridden. The non-violation claim depends on the selection operating strictly within the probability space that physics leaves open, which is the framework's design constraint rather than a demonstrated result (see [the section on explanatory limits](//#removing-an-objection-is-not-providing-a-mechanism)).
+**Not violation of physical law.** The selection operates at quantum indeterminacies — where physics leaves outcomes undetermined. If it works as proposed — biasing which outcome within an allowed distribution becomes actual — then no conservation law is broken, no energy is injected, no physical constraint is overridden. The non-violation claim depends on the selection operating strictly within the probability space that physics leaves open, which is the framework's design constraint rather than a demonstrated result (see [the section on explanatory limits](#removing-an-objection-is-not-providing-a-mechanism)).
 
 ## Application to Consciousness
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires this influence to be as small as possible. Atemporal causation is designed to satisfy both — though as [the section on explanatory limits](//#removing-an-objection-is-not-providing-a-mechanism) discusses, this identifies a role for consciousness without yet explaining how that role is filled.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires this influence to be as small as possible. Atemporal causation is designed to satisfy both — though as [the section on explanatory limits](#removing-an-objection-is-not-providing-a-mechanism) discusses, this identifies a role for consciousness without yet explaining how that role is filled.
 
 The [time-symmetric selection mechanism](/topics/time-symmetric-selection-mechanism/) applies this directly:
 

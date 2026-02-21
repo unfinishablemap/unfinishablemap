@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Quantum mechanism claim lacked engagement with decoherence objection**: The Minimal Quantum Interaction tenet connection made a physical claim without acknowledging the serious scientific challenge from decoherence timescales. Resolution: Added explicit reference to [quantum-decoherence-objection](/quantum-decoherence-objection/) and acknowledged it as a serious challenge while noting corrected calculations.
+- **Quantum mechanism claim lacked engagement with decoherence objection**: The Minimal Quantum Interaction tenet connection made a physical claim without acknowledging the serious scientific challenge from decoherence timescales. Resolution: Added explicit reference to [quantum-decoherence-objection](/concepts/decoherence/) and acknowledged it as a serious challenge while noting corrected calculations.
 
 ### Medium Issues Found
 - **MWI dismissal too quick**: The original text stated branching "would undermine selectivity" without engaging the MWI response that each branch has determinate outcomes. Resolution: Expanded to address the MWI response directly, explaining the Map's view that this multiplies decision-makers rather than preserving the selecting agent.
@@ -58,7 +58,7 @@ topics: []
 - Added three new concept cross-links to frontmatter
 
 ### Cross-links Added
-- [quantum-decoherence-objection](/quantum-decoherence-objection/)
+- [quantum-decoherence-objection](/concepts/decoherence/)
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [explanatory-gap](/concepts/explanatory-gap/) (proper wikilink added in body text)
 

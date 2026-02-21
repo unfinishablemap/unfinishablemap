@@ -26,7 +26,7 @@ related_articles:
 superseded_by: /concepts/voluntary-attention/
 title: Voluntary Attention Control
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -185,7 +185,7 @@ The neuroscience of willed attention supports [agent-causation](/concepts/agent-
 
 The three-component model—front-end decision processes, network reorganization, stochastic bias—shows that voluntary attention involves genuine decision architecture, not mere stimulus-response mechanisms. The frontal theta signature marks the period when the agent is actively deciding, not passively following instructions.
 
-The stochastic bias component is crucial: pre-decision brain states influence but do not determine choices. If consciousness selects among stochastic options provided by neural noise, this is compatible with libertarian free will. The agent is not creating options from nothing (which would be incoherent) but selecting among real possibilities—precisely what [free-will](/concepts/free-will/) requires.
+The stochastic bias component is crucial: pre-decision brain states influence but do not determine choices. If consciousness selects among stochastic options provided by neural noise, this is compatible with libertarian free will. The agent is not creating options from nothing (which would be incoherent) but selecting among real possibilities—precisely what [free-will](/topics/free-will/) requires.
 
 ### Connection to Hard Problem
 
@@ -203,7 +203,7 @@ Yet the gap is instructive: the phenomenology of effort provides evidence for ca
 - [motor-selection](/concepts/motor-selection/) - How consciousness selects among competing motor patterns
 - [agent-causation](/concepts/agent-causation/) - Philosophical framework for irreducible agency
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) - The subjective experience of choosing
-- [free-will](/concepts/free-will/) - Voluntary attention as evidence for libertarian free will
+- [free-will](/topics/free-will/) - Voluntary attention as evidence for libertarian free will
 - [libet-experiments](/concepts/libet-experiments/) - Analogous challenge from readiness potentials
 
 ## References

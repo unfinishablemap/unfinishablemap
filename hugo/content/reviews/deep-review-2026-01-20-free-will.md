@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Free Will and Determinism](/concepts/free-will/)
+**Article**: [Free Will and Determinism](/topics/free-will/)
 **Previous review**: [2026-01-15](/reviews/deep-review-2026-01-15-free-will/)
 
 ## Pessimistic Analysis Summary
@@ -59,7 +59,7 @@ topics: []
 - [introspection](/concepts/introspection/) - for introspective trust argument against illusionism
 - [haecceity](/concepts/haecceity/) - for indexical identity in personal identity section
 - [illusionism](/concepts/illusionism/) - prominent linking in expanded section
-- [epiphenomenalism](/arguments/epiphenomenalism/) - added to frontmatter concepts
+- [epiphenomenalism](/concepts/epiphenomenalism/) - added to frontmatter concepts
 
 ## Remaining Items
 

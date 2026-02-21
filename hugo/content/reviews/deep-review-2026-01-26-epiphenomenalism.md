@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-26
-**Article**: [Epiphenomenalism](/arguments/epiphenomenalism/)
+**Article**: [Epiphenomenalism](/concepts/epiphenomenalism/)
 **Previous review**: [2026-01-19 (note: an earlier review on 2026-01-21 was for a different file path—obsidian/arguments/epiphenomenalism.md)](/reviews/deep-review-2026-01-19-epiphenomenalism/)
 
 ## Pessimistic Analysis Summary

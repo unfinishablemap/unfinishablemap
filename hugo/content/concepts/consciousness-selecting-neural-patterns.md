@@ -37,7 +37,7 @@ related_articles:
 title: Consciousness-Selecting Neural Patterns
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Consciousness-selecting neural patterns is the proposed mechanism by which consciousness influences physical brain activity. Rather than consciousness passively observing neural events or being epiphenomenal, this framework proposes that consciousness selects which quantum possibilities become actual neural firing patterns. This implements The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets concretely.
@@ -62,7 +62,7 @@ These aren't mutually exclusive. Selection might operate at multiple levels: mic
 
 ### How Selection Works
 
-Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [definite outcomes problem](/quantum-measurement-and-definite-outcomes/) is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
+Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [definite outcomes problem](/topics/quantum-measurement-consciousness-interface/) is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
 
 This is the opening for consciousness. At quantum indeterminacies, physical causes are necessary but not sufficient. [Causal closure](/concepts/causal-closure/)—the thesis that every physical event has a sufficient physical cause—fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
 
@@ -190,7 +190,7 @@ This is the minimal interpretation of Stapp's Process 1: consciousness chooses w
 
 This connects to the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet—consciousness selects which outcome is experienced as "this one" rather than causing outcomes directly.
 
-These constraint families are developed in detail as candidate coupling laws in [psychophysical-coupling](/psychophysical-coupling/), where they are evaluated against the ~10 bits/second bandwidth constraint that empirically limits what selection can accomplish.
+These constraint families are developed in detail as candidate coupling laws in [psychophysical-coupling](/concepts/psychophysical-laws/), where they are evaluated against the ~10 bits/second bandwidth constraint that empirically limits what selection can accomplish.
 
 ## Relation to Site Perspective
 
@@ -234,7 +234,7 @@ The consciousness-selecting neural patterns framework would face serious difficu
 
 4. **Random number generator effects are definitively refuted**: If rigorous studies demonstrate consciousness cannot influence quantum random processes even under ideal conditions, the broader claim that consciousness biases quantum outcomes loses empirical support.
 
-5. **Many-Worlds proves correct**: If the [many-worlds](/arguments/many-worlds/) interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The [No Many Worlds](/tenets/#no-many-worlds) tenet would fail, and with it this framework.
+5. **Many-Worlds proves correct**: If the [many-worlds](/concepts/many-worlds/) interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The [No Many Worlds](/tenets/#no-many-worlds) tenet would fail, and with it this framework.
 
 ## Open Questions
 
@@ -244,17 +244,17 @@ The consciousness-selecting neural patterns framework would face serious difficu
 
 **Timing and retrocausality**: If selection is atemporal—operating outside linear time—how does it relate to the subjective flow of experience?
 
-**The coupling law**: What psychophysical laws govern selection? the Map proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [psychophysical-coupling](/psychophysical-coupling/) for four candidate coupling laws (attention-bounded, policy-level, basis-choice, and indexical) and the bandwidth constraints any coupling law must respect.
+**The coupling law**: What psychophysical laws govern selection? the Map proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [psychophysical-coupling](/concepts/psychophysical-laws/) for four candidate coupling laws (attention-bounded, policy-level, basis-choice, and indexical) and the bandwidth constraints any coupling law must respect.
 
 ## Further Reading
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How selection integrates with imagination's generative role
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
-- [psychophysical-coupling](/psychophysical-coupling/) — The laws governing what selection can accomplish
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — The laws governing what selection can accomplish
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of how consciousness interfaces with quantum mechanics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism
-- [voluntary-attention](/voluntary-attention/) — The willed/instructed distinction and neural signatures of selection
-- [attention](/attention/) — The attention-consciousness dissociation
+- [voluntary-attention](/concepts/attention-as-interface/) — The willed/instructed distinction and neural signatures of selection
+- [attention](/concepts/attention-as-interface/) — The attention-consciousness dissociation
 - [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
 - [causal-closure](/concepts/causal-closure/) — The principle selection challenges
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates logical space for consciousness

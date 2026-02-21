@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[panpsychism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[substance-property-dualism]]'
 - '[[qualia]]'
 - '[[combination-problem]]'
@@ -34,7 +34,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [physicalism's](/arguments/materialism/) hard problem (by denying that structure alone determines experience) while avoiding [dualism's](/concepts/interactionist-dualism/) interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved, and critics argue Russellian monism inherits dualism's costs under a different name.
+Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [physicalism's](/concepts/materialism/) hard problem (by denying that structure alone determines experience) while avoiding [dualism's](/concepts/interactionist-dualism/) interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved, and critics argue Russellian monism inherits dualism's costs under a different name.
 
 The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [dualist](/tenets/#dualism) framework, particularly the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism, provides cleaner solutions than monism's attempt to dissolve the mind-body distinction.
 

@@ -36,10 +36,10 @@ superseded_by: /concepts/brain-interface-boundary/
 title: 'Brain Specialness: What Makes Neural Systems the Interface'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-If consciousness interfaces with the physical world through brains, what makes brains special? Why neural systems and not rocks, thermostats, or random number generators? The [interface-locality](/interface-locality/) article explains why consciousness *doesn't* act on external systems; this article addresses the complementary question: what positive features make brains *suitable* interfaces in the first place?
+If consciousness interfaces with the physical world through brains, what makes brains special? Why neural systems and not rocks, thermostats, or random number generators? The [interface-locality](/concepts/brain-interface-boundary/) article explains why consciousness *doesn't* act on external systems; this article addresses the complementary question: what positive features make brains *suitable* interfaces in the first place?
 
 This question has two parts. First, what features does a physical system need to serve as an interface for consciousness at all? Second, why do neural systems specifically have these features while most physical systems lack them?
 
@@ -53,7 +53,7 @@ The system must have components where quantum indeterminacies are functionally r
 
 Most physical systems are quantum-mechanical at their foundations but thermally stable at functional scales. A rock's behavior is determined by classical forces; quantum effects average out. The rock provides no "leverage point" where consciousness could influence outcomes without violating classical physics.
 
-Neural systems differ. The [evidence for quantum coherence in brain tissue](/neural-quantum-coherence/) is contested but growing. Proposed sites include:
+Neural systems differ. The [evidence for quantum coherence in brain tissue](/concepts/quantum-coherence-in-neural-systems/) is contested but growing. Proposed sites include:
 - **Microtubules**: Penrose and Hameroff's Orch OR model posits quantum superposition in tubulin proteins
 - **Ion channels**: Voltage-gated channels may be sensitive to quantum tunneling effects
 - **Synaptic transmission**: Vesicle release shows variability that may not be purely thermal noise
@@ -79,7 +79,7 @@ A rock encodes nothing. A thermostat encodes only temperature (one variable, no 
 
 The system must include mechanisms for directed focus—the capacity to increase processing resources on specific contents while suppressing others.
 
-Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/attention/) neurally implements this: frontoparietal networks increase gain on selected populations while inhibiting competitors. This repeated "looking at" attention targets is the neural correlate of Process 2 (observation) in Stapp's model.
+Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/concepts/attention-as-interface/) neurally implements this: frontoparietal networks increase gain on selected populations while inhibiting competitors. This repeated "looking at" attention targets is the neural correlate of Process 2 (observation) in Stapp's model.
 
 Systems without attention mechanisms cannot implement Zeno-style selection. A thermostat has no analog of "focusing more intently" on one option. The brain's attention architecture provides the physical structure through which repeated observation occurs.
 
@@ -233,17 +233,17 @@ None of these has been demonstrated. Current evidence supports neural quantum ef
 
 Brain specialness has a principled explanation. Neural systems serve as consciousness interfaces because they meet five criteria: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. Most physical systems fail most criteria. Evolution selected for systems meeting these criteria because such systems enabled better behavioral control. The result is that brains—specifically—are suitable interfaces, while rocks, thermostats, and random number generators are not.
 
-This complements [interface-locality](/interface-locality/), which explains why consciousness *doesn't* act on external systems. Together, they answer the full question: consciousness acts on brains specifically because (a) brains meet the positive criteria for an interface (this article) and (b) external systems aren't integrated into the control loop (interface-locality).
+This complements [interface-locality](/concepts/brain-interface-boundary/), which explains why consciousness *doesn't* act on external systems. Together, they answer the full question: consciousness acts on brains specifically because (a) brains meet the positive criteria for an interface (this article) and (b) external systems aren't integrated into the control loop (interface-locality).
 
 ## Further Reading
 
-- [interface-locality](/interface-locality/) — Why consciousness doesn't act externally (the exclusion side)
+- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness doesn't act externally (the exclusion side)
 - [mind-matter-interface](/concepts/mind-matter-interface/) — How filter theory and quantum selection unify
 - [pairing-problem](/concepts/pairing-problem/) — What pairs this mind with this body
-- [neural-quantum-coherence](/neural-quantum-coherence/) — Evidence for quantum effects in brain tissue
+- [neural-quantum-coherence](/concepts/quantum-coherence-in-neural-systems/) — Evidence for quantum effects in brain tissue
 - [filter-theory](/concepts/filter-theory/) — The transmission model of consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms
-- [attention](/attention/) — How attention implements observation
+- [attention](/concepts/attention-as-interface/) — How attention implements observation
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it doesn't solve the measurement problem

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Phenomenal Value Realism](/concepts/phenomenal-value-realism/)
+**Article**: [Phenomenal Value Realism](/topics/phenomenal-value-realism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -86,7 +86,7 @@ topics: []
 - [decoherence](/concepts/decoherence/) (frontmatter + inline)
 - [haecceity](/concepts/haecceity/) (frontmatter, already linked inline)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) (frontmatter + Further Reading)
-- [epiphenomenalism](/arguments/epiphenomenalism/) (inline in Relation to Site Perspective)
+- [epiphenomenalism](/concepts/epiphenomenalism/) (inline in Relation to Site Perspective)
 
 ## Remaining Items
 

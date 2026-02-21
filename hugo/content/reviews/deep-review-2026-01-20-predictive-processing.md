@@ -63,7 +63,7 @@ topics: []
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [decoherence](/concepts/decoherence/)
 - [haecceity](/concepts/haecceity/)
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 
 ### References Added

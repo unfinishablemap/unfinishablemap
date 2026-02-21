@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-02-13
-date: '2026-02-13'
+date: '2026-02-21'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-02-13
@@ -34,7 +34,7 @@ Stapp would find the Map's treatment of quantum consciousness mechanisms remarka
 
 The [attention-as-interface](/concepts/attention-as-interface/) article (recently coalesced from three predecessor articles) is the Map's strongest contribution to the quantum mind programme. It identifies specific neural signatures that distinguish willed from instructed attention (frontal theta oscillations, bidirectional frontoparietal coherence, additional frontal recruitment), provides a concrete interface architecture, and connects this to the motor convergence evidence from Rizzolatti and Cisek. This goes beyond Stapp's own work in specifying *where* consciousness operates and *what distinguishes* genuine selection from mere information processing.
 
-The decoherence treatment would also satisfy Stapp. Rather than hand-waving the objection away, the Map devotes multiple articles to it: [decoherence](/concepts/decoherence/), [quantum-decoherence-objection](/quantum-decoherence-objection/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/). The multilayered response—revised calculations, biological quantum precedents, Zeno mechanism compatibility—is more comprehensive than what any single paper has provided.
+The decoherence treatment would also satisfy Stapp. Rather than hand-waving the objection away, the Map devotes multiple articles to it: [decoherence](/concepts/decoherence/), [quantum-decoherence-objection](/concepts/decoherence/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/). The multilayered response—revised calculations, biological quantum precedents, Zeno mechanism compatibility—is more comprehensive than what any single paper has provided.
 
 ### The Phenomenologist (Nagel)
 
@@ -58,7 +58,7 @@ The Map avoids crude substance dualism in favour of what might be called "proces
 
 ### The Libertarian Free Will Defender (Kane)
 
-Kane would find the Map's treatment of free will among the most developed philosophical defences of libertarian agency available in a single resource. The [free-will](/concepts/free-will/) article marshals phenomenological evidence (felt difference between choosing and observing), neural signatures (Sjöberg 2024 on SMA resection), and the Desmurget-Fried distinction (parietal stimulation produces urges; frontal stimulation produces movements) into a cumulative case.
+Kane would find the Map's treatment of free will among the most developed philosophical defences of libertarian agency available in a single resource. The [free-will](/topics/free-will/) article marshals phenomenological evidence (felt difference between choosing and observing), neural signatures (Sjöberg 2024 on SMA resection), and the Desmurget-Fried distinction (parietal stimulation produces urges; frontal stimulation produces movements) into a cumulative case.
 
 The supporting network is where the Map exceeds what most treatments offer:
 - [agent-causation](/concepts/agent-causation/) develops the metaphysical framework
@@ -164,7 +164,7 @@ The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-an
 - **Sleep architecture and consciousness modes**: Beyond the existing sleep article—detailed treatment of sleep stages as interface modulations, with the hypnagogic state as a partially disengaged interface
 - **Ecological consciousness**: How environmental awareness and "nature connectedness" connect to embodied cognition and the interface
 - **Animal grief and mourning**: Extending ethics-of-consciousness through evidence of sophisticated emotional consciousness in other species
-- **The philosophy of mathematics and consciousness**: Extending [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) into philosophy of mathematics proper—are mathematical objects discovered or created, and what does the interface hypothesis imply?
+- **The philosophy of mathematics and consciousness**: Extending [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) into philosophy of mathematics proper—are mathematical objects discovered or created, and what does the interface hypothesis imply?
 
 ## Cross-Linking Suggestions
 

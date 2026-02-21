@@ -8,7 +8,7 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[attention]]'
 - '[[voluntary-attention]]'
 - '[[attention-as-interface]]'
@@ -38,7 +38,7 @@ related_articles:
 - '[[consciousness-working-memory-2026-01-17]]'
 title: Mental Effort and the Quantum Zeno Effect
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -54,13 +54,13 @@ This phenomenology is universal. Everyone knows the experience of trying to focu
 
 ### Attention as Interface
 
-The [attention as interface hypothesis](/concepts/attention-as-interface/) provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [Attention and consciousness are dissociable](/attention/): you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
+The [attention as interface hypothesis](/concepts/attention-as-interface/) provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [Attention and consciousness are dissociable](/concepts/attention-as-interface/): you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
 
 The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited (~10 bits/second) and requires active maintenance.
 
 ### The Willed-Instructed Distinction
 
-[Recent neuroscience](/voluntary-attention/) reveals that not all top-down attention is *willed* attention. The key distinction: when you follow instructions ("attend left"), you implement an externally provided goal. When you *freely choose* where to attend, different neural processes engage—frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, and additional frontal recruitment.
+[Recent neuroscience](/concepts/attention-as-interface/) reveals that not all top-down attention is *willed* attention. The key distinction: when you follow instructions ("attend left"), you implement an externally provided goal. When you *freely choose* where to attend, different neural processes engage—frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, and additional frontal recruitment.
 
 This neural distinction explains why effort tracks volition. Instructed attention feels less effortful because you merely implement. Willed attention feels more effortful because you must *generate* the decision. The phenomenology of effort marks the genuine work of deciding.
 
@@ -76,7 +76,7 @@ Kahneman's *Attention and Effort* (1973) confirmed that effort is measurable (pu
 
 ## The Materialist Problem
 
-If the brain is purely deterministic, the "feeling" of effort becomes puzzling. On the [epiphenomenalist](/arguments/epiphenomenalism/) view, consciousness observes but doesn't contribute—effort is illusory, mere phenomenal decoration on mechanical processes.
+If the brain is purely deterministic, the "feeling" of effort becomes puzzling. On the [epiphenomenalist](/concepts/epiphenomenalism/) view, consciousness observes but doesn't contribute—effort is illusory, mere phenomenal decoration on mechanical processes.
 
 Yet this position is unstable. If the *feeling* of effort is causally disconnected from actual effort-allocation, why should the feeling track genuine difficulty? Why would evolution produce accurate phenomenology of cognitive load if that phenomenology does nothing?
 
@@ -102,7 +102,7 @@ The crucial point for phenomenology: effort *feels* different when you're genuin
 
 Contemplative evidence extends the pattern. Long-term meditators show structural brain changes (increased cortical thickness in attention-related regions) that track their practice. Even brief meditation training produces measurable neural effects. The phenomenology of sustained attention—effortful at first, gradually easing with mastery—corresponds to the neural trajectory.
 
-What neuroplasticity doesn't prove: the quantum Zeno mechanism specifically, that consciousness is non-physical, or that classical neural explanations are insufficient. A materialist could interpret the same data as complex neural self-modification. But what it does establish: mental effort has physical consequences. This is harder to square with [epiphenomenalism](/arguments/epiphenomenalism/) than with [interactionist-dualism](/concepts/interactionist-dualism/).
+What neuroplasticity doesn't prove: the quantum Zeno mechanism specifically, that consciousness is non-physical, or that classical neural explanations are insufficient. A materialist could interpret the same data as complex neural self-modification. But what it does establish: mental effort has physical consequences. This is harder to square with [epiphenomenalism](/concepts/epiphenomenalism/) than with [interactionist-dualism](/concepts/interactionist-dualism/).
 
 ## Objections and Responses
 
@@ -171,8 +171,8 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — How ADHD, fatigue, and meditation deficits reveal interface properties
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
-- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
-- [voluntary-attention](/voluntary-attention/) — The willed/instructed distinction and neural signatures
+- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions
+- [voluntary-attention](/concepts/attention-as-interface/) — The willed/instructed distinction and neural signatures
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Interface Locality](/interface-locality/)
+**Article**: [Interface Locality](/concepts/brain-interface-boundary/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -59,7 +59,7 @@ topics: []
 - [illusionism](/concepts/illusionism/)
 - [decoherence](/concepts/decoherence/)
 - [introspection](/concepts/introspection/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 
 ## Remaining Items
 

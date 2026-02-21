@@ -16,7 +16,7 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[mysterianism]]'
 - '[[panpsychism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-02-13
 date: &id001 2026-02-13
 description: How conscious experience possesses layered richness beyond surface appearance—a
@@ -70,7 +70,7 @@ This connects to the [explanatory-gap](/concepts/explanatory-gap/). The gap is n
 
 The relationship between phenomenal depth and [access consciousness](/concepts/access-consciousness/) is complex. Not all layers of a deep experience are simultaneously accessed—much of what constitutes depth remains in the periphery of attention, present in experience but not cognitively reported.
 
-[Contemplative training](/contemplative-training-and-phenomenal-access/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention.
+[Contemplative training](/topics/contemplative-evidence-for-consciousness-theories/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention.
 
 This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. Each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there. This connects to [mysterianism](/concepts/mysterianism/)—the view that some aspects of consciousness may permanently exceed our cognitive grasp. Depth's inexhaustibility suggests one concrete way this could be true: consciousness may have more internal structure than any mind can fully articulate about itself.
 
@@ -84,7 +84,7 @@ The existence of this gradient raises a question for materialist accounts: what 
 
 The Unfinishable Map's [foundational commitments](/tenets/) frame phenomenal depth as evidence for consciousness's irreducibility. The Map's dualism tenet holds that consciousness is not reducible to physical processes. Phenomenal depth strengthens this position: the internal layered richness of experience is precisely the kind of feature that structural and functional descriptions systematically miss.
 
-The Map's bidirectional interaction tenet gains support here as well. If conscious experience has genuine depth—layers of qualitative structure that influence how one perceives, decides, and acts—then consciousness contributes something to cognition that no depth-less functional duplicate could replicate. The depth of one's experience of a piece of music shapes one's emotional response, one's subsequent choices, one's creative output. A [zombie](/concepts/philosophical-zombies/) processing the same auditory input without phenomenal depth would lack these qualitative layers. The functionalist replies that if the zombie's functional profile is identical, its behaviour must be identical too—but this concedes the point. If behaviour can be fully explained without phenomenal depth, then depth becomes [epiphenomenal](/arguments/epiphenomenalism/), and we are back to the problem of why our reports about the richness of experience track that richness at all. The Map holds that depth is causally relevant: the qualitative layers shape cognition in ways that functional profile alone does not capture.
+The Map's bidirectional interaction tenet gains support here as well. If conscious experience has genuine depth—layers of qualitative structure that influence how one perceives, decides, and acts—then consciousness contributes something to cognition that no depth-less functional duplicate could replicate. The depth of one's experience of a piece of music shapes one's emotional response, one's subsequent choices, one's creative output. A [zombie](/concepts/philosophical-zombies/) processing the same auditory input without phenomenal depth would lack these qualitative layers. The functionalist replies that if the zombie's functional profile is identical, its behaviour must be identical too—but this concedes the point. If behaviour can be fully explained without phenomenal depth, then depth becomes [epiphenomenal](/concepts/epiphenomenalism/), and we are back to the problem of why our reports about the richness of experience track that richness at all. The Map holds that depth is causally relevant: the qualitative layers shape cognition in ways that functional profile alone does not capture.
 
 The Map does not claim that phenomenal depth is fully understood. Rather, it holds that depth is a real feature of consciousness that any adequate theory must accommodate—and that materialist theories, by their structural and relational nature, cannot.
 
@@ -94,7 +94,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [phenomenal-overflow](/concepts/phenomenal-overflow/)
 - [qualia](/concepts/qualia/)
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
-- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
+- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [mysterianism](/concepts/mysterianism/)

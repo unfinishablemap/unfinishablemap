@@ -8,9 +8,9 @@ concepts:
 - '[[agent-causation]]'
 - '[[mental-causation]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[subjective-aim]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[phenomenology-of-choice]]'
 - '[[phenomenal-intentionality]]'
 - '[[reasons-responsiveness]]'
@@ -35,7 +35,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 title: Agent Teleology
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[evolution-under-dualism]]'
 ---
 
@@ -136,7 +136,7 @@ Agent teleology follows directly from the Map's tenets.
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — The broader question of human purpose and meaning
 - [argument-from-reason](/topics/argument-from-reason/) — Why reasoning requires genuine teleology
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The first-person experience of acting for reasons
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Values grounded in experience, not projected onto mechanism
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Values grounded in experience, not projected onto mechanism
 - [mysterianism](/concepts/mysterianism/) — Why the mechanism linking purpose to physics may exceed comprehension
 
 ## References

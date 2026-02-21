@@ -15,7 +15,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[agent-causation]]'
 - '[[qualia]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[normative-phenomenology]]'
 - '[[phenomenology]]'
 created: 2026-02-15
@@ -30,7 +30,7 @@ modified: *id001
 related_articles:
 - '[[normative-void]]'
 - '[[phenomenology-of-moral-experience]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[moral-responsibility]]'
 - '[[moral-perception]]'
 - '[[aesthetic-dimension-of-consciousness]]'
@@ -40,10 +40,10 @@ related_articles:
 - '[[phenomenology-of-normative-conflict]]'
 title: Consciousness and the Grounds of Normative Authority
 topics:
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[ethics-of-consciousness]]'
 - '[[meaning-of-life]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Consciousness does not merely accompany normative judgments — it provides their authority. Pain does not inform you that tissue is damaged and leave you to decide what follows; it *compels* avoidance. A promise does not describe a commitment; it *binds* you to fulfilment. The Unfinishable Map argues that normative authority — across moral, epistemic, and aesthetic domains — is rooted in irreducible features of conscious experience. Without phenomenal consciousness, the gap between recognising a fact and being bound by it cannot be closed. This article examines where normative force comes from, how consciousness grounds it across multiple domains, and how a single conscious agent integrates competing normative demands into coherent action.
@@ -96,7 +96,7 @@ Conscious experience does not separate perceiving, evaluating, and motivating in
 
 Pain and pleasure provide clear cases of felt normativity, but normative force extends beyond hedonic experience. The felt weight of a broken promise, the phenomenal pull of an unfinished argument, the experiential demand of beauty — these carry normative force that is not straightforwardly hedonic.
 
-The Map's [phenomenal value pluralism](/concepts/phenomenal-value-realism/#beyond-hedonism) addresses this: multiple features of experience — meaning, agency, understanding, connection, aesthetic quality — carry intrinsic normative force. The felt significance of meaningful work is not reducible to its pleasantness. The phenomenal character of genuine understanding includes a normative dimension: truth *matters*, and you experience it mattering.
+The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism) addresses this: multiple features of experience — meaning, agency, understanding, connection, aesthetic quality — carry intrinsic normative force. The felt significance of meaningful work is not reducible to its pleasantness. The phenomenal character of genuine understanding includes a normative dimension: truth *matters*, and you experience it mattering.
 
 Consciousness itself — the condition of there being something it is like — may be what makes any experience capable of carrying normative weight. Normative force is a property of experience as such, diversified across hedonic, epistemic, aesthetic, and moral domains but unified by requiring a conscious subject.
 
@@ -108,13 +108,13 @@ If consciousness grounds normative force in general, it should ground the *autho
 
 The moral domain provides the clearest case. Divine command faces Euthyphro's dilemma; rational principle (even Kant's rich framework invoking dignity and ends-in-themselves) ultimately depends on the conscious experience of rational agency it presupposes; phenomenal encounter — the felt badness of pain, the experiential weight of betraying trust — carries normative force intrinsically.
 
-The Map's [phenomenal-value-realism](/concepts/phenomenal-value-realism/) develops this: conscious experience is not merely evidence for moral facts but where moral facts live. [Moral perception](/concepts/moral-perception/) involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as any physical property — perceived by those with the right phenomenal capacities, invisible to those without.
+The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) develops this: conscious experience is not merely evidence for moral facts but where moral facts live. [Moral perception](/concepts/moral-perception/) involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as any physical property — perceived by those with the right phenomenal capacities, invisible to those without.
 
 ### Epistemic Authority
 
 Epistemic norms — what one *ought* to believe — also depend on consciousness. Evidence that no one experiences is not evidence for anyone. More fundamentally, the *authority* of logical and mathematical reasoning depends on conscious understanding. A computer can execute valid inferences without grasping what they mean. A conscious reasoner *sees* that the conclusion follows, *understands* why the premises support it. This phenomenal understanding — what it is like to follow an argument — is what gives epistemic norms their binding force.
 
-[Agent causation](/concepts/agent-causation/) strengthens this point. If conscious reasoning genuinely causes belief formation, then epistemic authority requires the kind of mental causation the Map defends. An [epiphenomenal](/arguments/epiphenomenalism/) consciousness could not be epistemically responsible — it would hold beliefs without having formed them.
+[Agent causation](/concepts/agent-causation/) strengthens this point. If conscious reasoning genuinely causes belief formation, then epistemic authority requires the kind of mental causation the Map defends. An [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not be epistemically responsible — it would hold beliefs without having formed them.
 
 ### Aesthetic Authority
 
@@ -154,7 +154,7 @@ Within this field, demands carry *felt weight* — a phenomenal property that va
 
 ## The Epiphenomenalist Threat
 
-If normative force lives in consciousness, consciousness must be able to *do something* about it. Pain's demand for avoidance is empty if conscious experience cannot influence behaviour. [epiphenomenalism](/arguments/epiphenomenalism/) — the view that consciousness is causally inert — threatens normative authority directly.
+If normative force lives in consciousness, consciousness must be able to *do something* about it. Pain's demand for avoidance is empty if conscious experience cannot influence behaviour. [epiphenomenalism](/concepts/epiphenomenalism/) — the view that consciousness is causally inert — threatens normative authority directly.
 
 An epiphenomenal consciousness could experience pain's badness but could not act on it. The felt demand would be entirely disconnected from behaviour. Normative force would be practically vacuous: if pain's "ought to be avoided" makes no causal difference to whether you avoid it, the authority is functionally meaningless.
 
@@ -201,7 +201,7 @@ The consciousness-based account of normative authority would face pressure if:
 ## Further Reading
 
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
 - [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-properties/) — The shared structure of normative experience across domains
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like
 - [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-conflict/) — When normative demands collide
@@ -214,7 +214,7 @@ The consciousness-based account of normative authority would face pressure if:
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty, sublimity, and phenomenal experience
 - [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reductive explanation
-- [free-will](/concepts/free-will/) — Genuine choice at the site of normative conflict
+- [free-will](/topics/free-will/) — Genuine choice at the site of normative conflict
 
 ## References
 

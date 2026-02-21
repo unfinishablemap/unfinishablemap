@@ -82,7 +82,7 @@ All relevant cross-links from previous review are intact:
 - [mental-effort](/concepts/mental-effort/)
 - [decoherence](/concepts/decoherence/)
 - [global-workspace-theory](/concepts/global-workspace-theory/)
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 
 ## Remaining Items
 

@@ -77,7 +77,7 @@ None. The article is factually accurate with correct citations and attributions.
 - [consciousness](/concepts/consciousness/) (2 new inline links)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) (1 new inline link)
 - [explanatory-gap](/concepts/explanatory-gap/) (2 new inline links)
-- [materialism](/arguments/materialism/) (1 new inline link)
+- [materialism](/concepts/materialism/) (1 new inline link)
 - [introspection](/concepts/introspection/) (1 new inline link)
 - [mental-causation](/concepts/mental-causation/) (1 new inline link)
 - [phenomenology](/concepts/phenomenology/) (1 new inline link)

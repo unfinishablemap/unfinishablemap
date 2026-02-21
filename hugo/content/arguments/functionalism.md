@@ -5,7 +5,7 @@ ai_modified: 2026-01-20 22:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[qualia]]'
 - '[[philosophical-zombies]]'
 - '[[inverted-qualia]]'
@@ -19,7 +19,7 @@ concepts:
 - '[[continual-learning-argument]]'
 - '[[mental-effort]]'
 - '[[mysterianism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-01-15
 date: &id001 2026-01-20
 draft: false
@@ -29,7 +29,7 @@ last_deep_review: 2026-01-20 22:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 title: Against Functionalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -334,12 +334,12 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 ## Further Reading
 
 ### Site Content
-- [functionalism](/arguments/functionalism/) — The view under attack, with fuller exposition
+- [functionalism](/concepts/functionalism/) — The view under attack, with fuller exposition
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [inverted-qualia](/concepts/inverted-qualia/) — The spectrum inversion argument
 - [qualia](/concepts/qualia/) — What functionalism leaves out
 - [ai-consciousness](/topics/ai-consciousness/) — Why computers probably aren't conscious
-- [materialism](/arguments/materialism/) — The broader argument against physicalism
+- [materialism](/concepts/materialism/) — The broader argument against physicalism
 - [illusionism](/concepts/illusionism/) — The most radical physicalist response, and why it fails
 - [introspection](/concepts/introspection/) — The reliability of phenomenal access
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for irreducibility

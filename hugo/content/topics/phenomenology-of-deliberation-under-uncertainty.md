@@ -33,7 +33,7 @@ related_articles:
 - '[[spontaneous-intentional-action]]'
 title: The Phenomenology of Deliberation Under Uncertainty
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[phenomenology-of-belief-revision]]'
 - '[[phenomenology-of-evidence-assessment]]'
 ---

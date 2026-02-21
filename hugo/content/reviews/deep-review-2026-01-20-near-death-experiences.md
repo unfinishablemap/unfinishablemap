@@ -54,7 +54,7 @@ topics: []
 - [introspection](/concepts/introspection/) - reliability of NDE phenomenological reports
 - [mysterianism](/concepts/mysterianism/) - cognitive closure perspective
 - [haecceity](/concepts/haecceity/) - indexical identity intensified by NDEs
-- [many-worlds](/arguments/many-worlds/) - the interpretation NDE phenomenology resists
+- [many-worlds](/concepts/many-worlds/) - the interpretation NDE phenomenology resists
 
 ## Remaining Items
 

@@ -27,7 +27,7 @@ related_articles:
 - '[[phenomenology]]'
 - '[[eastern]]'
 - '[[neurophenomenology]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 superseded_by: /concepts/altered-states-of-consciousness/
 title: Altered States of Consciousness
 topics:
@@ -41,7 +41,7 @@ Normal waking consciousness is not the only mode in which the mind operates. Psy
 
 Altered states constitute a heterogeneous category unified by deviation from baseline waking consciousness. Charles Tart's foundational definition identifies them as "profound changes in the overall pattern of subjective experiences." But this unity conceals important distinctions. Psychedelics increase between-network brain connectivity while disrupting the default mode network; anesthesia breaks corticothalamocortical circuits entirely; meditation voluntarily withdraws attention from content; flow states involve "transient hypofrontality" where executive control diminishes. Each produces a distinct neural signature.
 
-The crucial insight: these are not simply degraded versions of normal consciousness. Some altered states—particularly those achieved through meditation or induced by psychedelics—are reported by experienced practitioners as expanded or clarified awareness, not confused or diminished states. This contradicts the view (common in materialist neuroscience) that altered states are fundamentally misrepresentations or malfunctions. If the brain produces consciousness, then disrupting normal brain function should degrade experience. Yet experienced meditators describe [cessation events](//#cessation-events) (explained below) as transformative and psychedelic users report encounters with profound coherence despite radical disruption of default neural patterns.
+The crucial insight: these are not simply degraded versions of normal consciousness. Some altered states—particularly those achieved through meditation or induced by psychedelics—are reported by experienced practitioners as expanded or clarified awareness, not confused or diminished states. This contradicts the view (common in materialist neuroscience) that altered states are fundamentally misrepresentations or malfunctions. If the brain produces consciousness, then disrupting normal brain function should degrade experience. Yet experienced meditators describe [cessation events](#cessation-events) (explained below) as transformative and psychedelic users report encounters with profound coherence despite radical disruption of default neural patterns.
 
 ## Psychedelics and the Filter Hypothesis {#psychedelics}
 
@@ -83,7 +83,7 @@ Several findings from altered states research fit the transmission model better 
 
 2. **Identical behavior, different experience.** The propofol versus ketamine case shows that consciousness and behavioral output can decouple. This suggests consciousness is not simply what neural computation does, but something the brain interfaces with.
 
-3. **Voluntary alterations require causal efficacy.** The ability to deliberately enter altered states (cessation, flow, hypnosis) through conscious intention implies consciousness can influence its own substrate—exactly what [epiphenomenalism](/arguments/epiphenomenalism/) denies.
+3. **Voluntary alterations require causal efficacy.** The ability to deliberately enter altered states (cessation, flow, hypnosis) through conscious intention implies consciousness can influence its own substrate—exactly what [epiphenomenalism](/concepts/epiphenomenalism/) denies.
 
 4. **Near-death experiences and minimal brain activity.** A 2024 University of Michigan study found gamma surges in dying patients localized to regions associated with out-of-body experiences. Critics note that some neural activity persists, so consciousness hasn't been shown to exist *without* brain function. Fair enough—but the fact that organized, coherent experiences occur when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly.
 
@@ -111,7 +111,7 @@ The filter theory framework makes better sense of altered states than production
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum mechanisms
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Systematic exploration of voluntary alterations
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia, coma, and related states
-- [epiphenomenalism](/arguments/epiphenomenalism/) — Arguments against causal inertness
+- [epiphenomenalism](/concepts/epiphenomenalism/) — Arguments against causal inertness
 - [phenomenology](/concepts/phenomenology/) — Methods for studying subjective experience
 
 ## References

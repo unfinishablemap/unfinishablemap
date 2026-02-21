@@ -28,11 +28,11 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-probability-consciousness]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 title: Coupling Modes
 topics:
 - '[[mental-causation]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 If consciousness influences physical outcomes, how does it do so? The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet demands the "smallest possible non-physical influence"—but "smallest" depends on what kind of influence we're considering. Three candidate coupling modes exist: **basis control** (selecting what question to ask), **timing control** (selecting when collapse occurs), and **probability control** (reweighting outcome likelihoods). These are not equally minimal, and distinguishing them clarifies what "consciousness selects" actually means.
@@ -117,7 +117,7 @@ Probability control directly changes outcome likelihoods. If consciousness can m
 
 Random number generator (RNG) experiments have attempted to detect such deviations. Results are mixed—some meta-analyses find small effects, others attribute these to publication bias. No consensus exists that consciousness reliably biases external quantum systems.
 
-**Limitation:** Probability control faces a stealth problem. If it occurs only in brains, why? What makes neural quantum events susceptible to mental influence while laboratory quantum events are not? The "brain specialness" boundary—[why consciousness only affects integrated neural systems](/questions/consciousness-selecting-neural-patterns/#brain-specialness)—provides a principled answer, but probability control within brains still risks in-principle detectability via careful measurement.
+**Limitation:** Probability control faces a stealth problem. If it occurs only in brains, why? What makes neural quantum events susceptible to mental influence while laboratory quantum events are not? The "brain specialness" boundary—[why consciousness only affects integrated neural systems](/concepts/consciousness-selecting-neural-patterns/#brain-specialness)—provides a principled answer, but probability control within brains still risks in-principle detectability via careful measurement.
 
 ## The Map's Position
 
@@ -161,16 +161,16 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 
 ## Further Reading
 
-- [psychophysical-coupling](/psychophysical-coupling/) — The broader framework these modes fit within
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — The broader framework these modes fit within
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of basis and timing control
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum-mind theories
 - [measurement-problem](/concepts/measurement-problem/) — Why outcomes need explanation
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — What selection actually selects
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — What selection actually selects
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How Born probabilities relate to consciousness
-- [attention](/attention/) — The phenomenal variable most tied to coupling
+- [attention](/concepts/attention-as-interface/) — The phenomenal variable most tied to coupling
 - [mental-effort](/concepts/mental-effort/) — Effort as timing/observation rate control
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention functions as the mind-matter interface
-- [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from instructed attention
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from instructed attention
 - [agent-causation](/concepts/agent-causation/) — The free will implications of conscious selection
 
 ## References

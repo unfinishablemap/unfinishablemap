@@ -30,7 +30,7 @@ title: The Many-Worlds Interpretation
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[personal-identity]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The Many-Worlds Interpretation (MWI) holds that quantum measurement never collapses the wave function. Instead, every possible outcome occurs—the universe splits into branches, one for each possibility. The Unfinishable Map explicitly rejects MWI in the [No Many Worlds](/tenets/#no-many-worlds) tenet. The rejection is not merely aesthetic but principled: MWI raises unanswerable questions about identity, dissolves the meaning of probability, and fails to explain why consciousness exists at all.
@@ -168,7 +168,7 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters
 - [measurement-problem](/concepts/measurement-problem/) — What all interpretations must solve
 - [collapse-and-time](/concepts/collapse-and-time/) — Time-symmetric alternatives and retrocausal solutions
-- [free-will](/concepts/free-will/) — Why genuine selection requires collapse
+- [free-will](/topics/free-will/) — Why genuine selection requires collapse
 - [tenets](/tenets/) — The foundational commitment against MWI
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it doesn't help MWI
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain

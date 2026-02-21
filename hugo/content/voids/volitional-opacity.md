@@ -33,7 +33,7 @@ title: Volitional Opacity
 topics:
 - '[[philosophy-of-mind]]'
 - '[[consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 We experience choosing, deciding, and acting—but the process by which these experiences arise, and whether they genuinely cause our actions, remains hidden from introspection. This is volitional opacity: the structural inaccessibility of the mechanisms by which we will. We know *that* we decide; we cannot observe *how* we decide. The void concerns not external reality but our own agency—the most intimate territory, and among the most impenetrable.
@@ -149,7 +149,7 @@ None of these conditions has been met. Four centuries of philosophy, decades of 
 - [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe cognitive processes in general
 - [The Unobservable Self](/voids/the-unobservable-self/) — The observer that eludes observation
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
-- [Free Will](/concepts/free-will/) — The broader context for questions of agency
+- [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice/) — What choosing feels like
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture

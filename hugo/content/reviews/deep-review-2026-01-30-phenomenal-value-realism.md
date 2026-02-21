@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [Phenomenal Value Realism](/concepts/phenomenal-value-realism/)
+**Article**: [Phenomenal Value Realism](/topics/phenomenal-value-realism/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-phenomenal-value-realism/)
 **Cross-review context**: experiential-alignment.md
 

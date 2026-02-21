@@ -69,7 +69,7 @@ topics: []
 - [agent-causation](/concepts/agent-causation/#creative-generation-beyond-pure-selection) — in neural correlates section
 - [mysterianism](/concepts/mysterianism/) — in Relation to Site Perspective section
 - [neurophenomenology](/concepts/neurophenomenology/) — in Further Reading
-- [duration](/duration/) link enhanced with text about quantum collapse connection
+- [duration](/concepts/temporal-consciousness/) link enhanced with text about quantum collapse connection
 
 ### Effective Patterns Preserved
 - Front-loaded key claim in opening summary (survives truncation)

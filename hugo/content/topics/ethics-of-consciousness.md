@@ -13,7 +13,7 @@ concepts:
 - '[[moral-responsibility]]'
 - '[[agent-causation]]'
 - '[[experiential-alignment]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[emotional-consciousness]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -142,7 +142,7 @@ Consciousness makes suffering possible; suffering is intrinsically bad; preventi
 | **Valence sentientism** | Capacity for suffering/enjoyment | Only beings that feel pleasure/pain matter |
 | **Broad sentientism** | Phenomenal consciousness generally | Any conscious being has moral status |
 
-The Map's [phenomenal-value-realism](/concepts/phenomenal-value-realism/) aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience.
+The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience.
 
 **Practical upshot**: Focus moral attention on beings we're confident can suffer—humans, animals with complex nervous systems, possibly edge cases warranting caution—not current AI systems or hypothetical uploads. Resources for preventing suffering are finite and should be directed where suffering is most likely real.
 
@@ -204,8 +204,8 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [personal-identity](/topics/personal-identity/) — Why copies aren't continuations
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [experiential-alignment](/concepts/experiential-alignment/) — Targeting experience rather than preferences
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for experiential value
-- [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — How phenomenal value pluralism extends beyond hedonism to address metaethical challenges
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for experiential value
+- [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — How phenomenal value pluralism extends beyond hedonism to address metaethical challenges
 - [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of emotion and its ethical implications
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism about phenomenal consciousness
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge—ethical truths beyond human reach

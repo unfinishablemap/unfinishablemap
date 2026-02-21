@@ -68,7 +68,7 @@ topics: []
 - [mysterianism](/concepts/mysterianism/)
 - [decoherence](/concepts/decoherence/)
 - [haecceity](/concepts/haecceity/)
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 - [introspection](/concepts/introspection/)
 
 ## Remaining Items

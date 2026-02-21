@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Psychophysical Coupling](/psychophysical-coupling/)
+**Article**: [Psychophysical Coupling](/concepts/psychophysical-laws/)
 **Previous review**: [2026-02-06](/reviews/deep-review-2026-02-06-psychophysical-coupling/) (earlier same day)
 **Cross-review context**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) (insights from dissociation evidence)
 

@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-02-09
-**Article**: [Consciousness and Memory Consolidation](/consciousness-and-memory-consolidation/)
+**Article**: [Consciousness and Memory Consolidation](/topics/consciousness-and-memory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -78,7 +78,7 @@ topics: []
 ### Cross-links Added
 
 - [attention-as-interface](/concepts/attention-as-interface/) — in Further Reading
-- [autonoetic-consciousness](/autonoetic-consciousness/) — in Further Reading
+- [autonoetic-consciousness](/concepts/episodic-memory/) — in Further Reading
 - [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/) — in Further Reading and related_articles
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — in Further Reading and related_articles
 

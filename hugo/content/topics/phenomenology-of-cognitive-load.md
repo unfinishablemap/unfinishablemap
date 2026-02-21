@@ -33,7 +33,7 @@ related_articles:
 title: The Phenomenology of Cognitive Load
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Cognitive overload has a distinctive phenomenal character. When you try to hold one too many things in mind—following a complex argument while remembering a counter-example while tracking where you are in the overall structure—there is a felt quality of *saturation*. Something thickens. Items begin slipping. The experience is not merely that you fail to remember; it is that you feel yourself running out of room. The Unfinishable Map argues that this phenomenology—the first-person experience of approaching and hitting cognitive limits—is irreducible to the functional facts about [working-memory](/concepts/working-memory/) capacity and provides evidence that consciousness encounters its own boundaries from inside.

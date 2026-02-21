@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken concept links to archived articles**: `[multimodal-binding](/multimodal-binding/)`, `[autonoetic-consciousness](/autonoetic-consciousness/)`, and `[neural-binding-mechanisms](/neural-binding-mechanisms/)` were all archived but still referenced in frontmatter and body text. Fixed: replaced with `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`, `[episodic-memory](/concepts/episodic-memory/)`, and updated body wikilinks accordingly.
+- **Broken concept links to archived articles**: `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)`, `[autonoetic-consciousness](/concepts/episodic-memory/)`, and `[neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)` were all archived but still referenced in frontmatter and body text. Fixed: replaced with `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`, `[episodic-memory](/concepts/episodic-memory/)`, and updated body wikilinks accordingly.
 
 - **Bayne & Chalmers attribution precision**: Article stated "This is Bayne and Chalmers's 'conjoint phenomenology' applied to thought" — implying they made this extension. Fixed: rephrased to "Extending Bayne and Chalmers's concept of 'conjoint phenomenology' from perception to thought" to make clear this is the Map's extension.
 
@@ -40,7 +40,7 @@ topics: []
 
 - **Speculative quantum-collapse/agent-causation claim insufficiently hedged**: The cognitive binding section connected quantum collapse, agent causation, and parsing selection without hedging markers. Fixed: prefaced with "One speculative possibility" and restructured as conditional.
 
-- **Missing cross-links**: Added `[downward-causation](/concepts/downward-causation/)` and `[prehension](/concepts/prehension/)` to concepts list. Added `[downward-causation](/concepts/downward-causation/)` to Further Reading. Removed broken `[multimodal-binding](/multimodal-binding/)` from Further Reading.
+- **Missing cross-links**: Added `[downward-causation](/concepts/downward-causation/)` and `[prehension](/concepts/prehension/)` to concepts list. Added `[downward-causation](/concepts/downward-causation/)` to Further Reading. Removed broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` from Further Reading.
 
 ### Counterarguments Considered
 
@@ -76,14 +76,14 @@ topics: []
 - Corrected NREM sleep characterization
 - Fixed misleading filling-in claim
 - Added cross-links: `[downward-causation](/concepts/downward-causation/)`, `[prehension](/concepts/prehension/)`
-- Replaced broken `[multimodal-binding](/multimodal-binding/)` Further Reading entry with `[downward-causation](/concepts/downward-causation/)`
+- Replaced broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` Further Reading entry with `[downward-causation](/concepts/downward-causation/)`
 
 ### Cross-links Added
 
 - [downward-causation](/concepts/downward-causation/) (concepts list and Further Reading)
 - [prehension](/concepts/prehension/) (concepts list)
-- [episodic-memory](/concepts/episodic-memory/) (replaced archived [autonoetic-consciousness](/autonoetic-consciousness/))
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (replaced archived [multimodal-binding](/multimodal-binding/) and [neural-binding-mechanisms](/neural-binding-mechanisms/))
+- [episodic-memory](/concepts/episodic-memory/) (replaced archived [autonoetic-consciousness](/concepts/episodic-memory/))
+- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (replaced archived [multimodal-binding](/concepts/phenomenal-binding-and-holism/) and [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/))
 
 ## Remaining Items
 

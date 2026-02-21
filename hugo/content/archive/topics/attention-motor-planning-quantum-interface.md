@@ -37,13 +37,13 @@ related_articles:
 superseded_by: /topics/attention-as-selection-interface/
 title: The Attention-Motor Quantum Interface
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
 Neuroscience has discovered that attention and motor planning are not separate systems. The premotor theory of attention demonstrates they share neural substrates—directing attention *is* preparing to act. The Unfinishable Map argues this convergence transforms the mind-body problem. If consciousness influences matter through attention (the [attention-as-interface hypothesis](/concepts/attention-as-interface/)), and attention is motor planning, then a single interface connects mind to world. Consciousness selects what to perceive and what to do through the same mechanism, at the same neural sites, on the same timescale.
 
-This article examines the philosophical significance of the convergence. The mechanistic details are treated in [attention-motor-quantum-interface](/attention-motor-quantum-interface/) and [motor-selection](/concepts/motor-selection/); the candidate neural sites and testable predictions are covered in [attention-interface-mechanisms](/attention-interface-mechanisms/). What matters here is the argument: what does the attention-motor convergence tell us about the relationship between consciousness and the physical world?
+This article examines the philosophical significance of the convergence. The mechanistic details are treated in [attention-motor-quantum-interface](/concepts/attention-as-interface/) and [motor-selection](/concepts/motor-selection/); the candidate neural sites and testable predictions are covered in [attention-interface-mechanisms](/topics/attention-as-selection-interface/). What matters here is the argument: what does the attention-motor convergence tell us about the relationship between consciousness and the physical world?
 
 ## The Convergence
 
@@ -145,18 +145,18 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 ## Further Reading
 
-- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Concept-level treatment of the unified interface
+- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Concept-level treatment of the unified interface
 - [motor-selection](/concepts/motor-selection/) — Motor selection and the premotor theory in detail
-- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate sites, timing constraints, and predictions
+- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate sites, timing constraints, and predictions
 - [attention-as-interface](/concepts/attention-as-interface/) — The attention-as-interface hypothesis
 - [structure-of-attention](/topics/structure-of-attention/) — Broader framework for understanding attention
-- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-selection-interface](/concepts/motor-selection/) — Dopamine's role in threshold modulation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
-- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
 - [libet-experiments](/concepts/libet-experiments/) — The Libet experiments and their interpretation
 - [agent-causation](/concepts/agent-causation/) — Agent causation and the metaphysics of selection
-- [free-will](/concepts/free-will/) — The mind-body problem applied to choice
+- [free-will](/topics/free-will/) — The mind-body problem applied to choice
 
 ## References
 

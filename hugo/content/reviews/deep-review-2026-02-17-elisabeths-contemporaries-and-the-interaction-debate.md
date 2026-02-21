@@ -63,7 +63,7 @@ All eleven factual claims verified via web search against SEP, Cambridge Descart
 ### Enhancements Made
 - Added Leibniz section with pre-established harmony as sixth strategy
 - Added cross-links to `[causal-closure](/concepts/causal-closure/)`, `[mental-causation](/concepts/mental-causation/)`, `[dualism](/concepts/dualism/)`
-- Added `[occasionalism](/occasionalism/)` to frontmatter concepts
+- Added `occasionalism` to frontmatter concepts
 - Qualified the "physics is genuinely incomplete" claim
 - Fixed awkward Cordemoy phrasing
 - Added Leibniz references

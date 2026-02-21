@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Against Epiphenomenalism](/arguments/epiphenomenalism/)
+**Article**: [Against Epiphenomenalism](/concepts/epiphenomenalism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -81,7 +81,7 @@ topics: []
 - [introspection](/concepts/introspection/) — reliability of first-person access
 - [decoherence](/concepts/decoherence/) — quantum objection and response
 - [haecceity](/concepts/haecceity/) — indexical identity relevant to No Many Worlds connection
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — the mechanism for mental causation
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — the mechanism for mental causation
 - [measurement-problem](/concepts/measurement-problem/) — why decoherence doesn't close the door
 
 ## Remaining Items

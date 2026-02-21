@@ -9,7 +9,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[qualia]]'
 - '[[cognitive-phenomenology]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[mathematical-structure-of-reality]]'
 created: 2026-02-16
 date: &id001 2026-02-16
@@ -26,7 +26,7 @@ related_articles:
 - '[[consciousness-and-mathematical-creativity]]'
 - '[[mathematical-void]]'
 - '[[consciousness-and-the-grounds-of-normative-authority]]'
-- '[[against-materialism]]'
+- '[[arguments/materialism]]'
 title: Consciousness and the Authority of Mathematics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -51,7 +51,7 @@ Consider what mathematics does well. It describes how things relate to each othe
 
 Bertrand Russell noticed this in *The Analysis of Matter* (1927). Physics tells us about the *structure* of matter—causal relations, spatiotemporal arrangements, mathematical regularities—but nothing about what matter is *in itself*. The equations of physics are "abstract, consisting entirely of structure," leaving the intrinsic nature of physical entities unspecified. Russell concluded that the "world of physics is only *abstractly* known."
 
-Russell himself drew a striking conclusion from this observation: if physics gives only structure, then consciousness—the one thing we know non-structurally, through direct acquaintance—might be the intrinsic nature that physics leaves out. This leads to [Russellian monism](//#russellian-monism) (discussed in the section on alternative frameworks), which the Map takes seriously as a competitor while ultimately preferring dualism.
+Russell himself drew a striking conclusion from this observation: if physics gives only structure, then consciousness—the one thing we know non-structurally, through direct acquaintance—might be the intrinsic nature that physics leaves out. This leads to [Russellian monism](#russellian-monism) (discussed in the section on alternative frameworks), which the Map takes seriously as a competitor while ultimately preferring dualism.
 
 This structural character is precisely what makes mathematics so effective. By stripping away everything except relational structure, mathematics achieves universal applicability. The same differential equation governs heat diffusion, population growth, and stock price fluctuations. But this universality comes at a cost: mathematics captures what things do, not what they are.
 
@@ -158,11 +158,11 @@ The view would be *supported* by:
 
 ## Further Reading
 
-- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — The phenomenology of mathematical insight as evidence for irreducible consciousness
-- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/) — Mathematical creation as the strongest evidence for consciousness doing causal work
+- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — The phenomenology of mathematical insight as evidence for irreducible consciousness
+- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creation as the strongest evidence for consciousness doing causal work
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but genuine understanding fails
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — Parallel case for consciousness grounding authority in normative domains
-- [against-materialism](/against-materialism/) — The broader argument against reducing consciousness to physical processes
+- [materialism](/arguments/materialism/) — The broader argument against reducing consciousness to physical processes
 - [explanatory-gap](/concepts/explanatory-gap/) — The central challenge mathematics faces with consciousness
 
 ## References

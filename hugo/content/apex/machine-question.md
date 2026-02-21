@@ -19,7 +19,7 @@ apex_thesis: Current AI systems face principled obstacles to consciousness—com
   possibilities that might overcome these barriers.
 author: null
 concepts:
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[intentionality]]'
 - '[[temporal-consciousness]]'
 - '[[epiphenomenal-ai-consciousness]]'
@@ -53,7 +53,7 @@ As AI systems grow increasingly sophisticated—passing examinations, producing 
 
 ## The Functionalist Gambit
 
-The case for machine consciousness rests primarily on [functionalism](/arguments/functionalism/)—the philosophical position that mental states are defined by their causal roles rather than their physical implementation. If pain is whatever plays the pain role (being caused by tissue damage, causing distress, prompting avoidance), then any system implementing that role experiences pain, regardless of substrate. Silicon and neurons are just different hardware running equivalent software.
+The case for machine consciousness rests primarily on [functionalism](/concepts/functionalism/)—the philosophical position that mental states are defined by their causal roles rather than their physical implementation. If pain is whatever plays the pain role (being caused by tissue damage, causing distress, prompting avoidance), then any system implementing that role experiences pain, regardless of substrate. Silicon and neurons are just different hardware running equivalent software.
 
 This view underwrites "Strong AI": the thesis that appropriately programmed computers don't merely simulate minds but genuinely possess them. If your brain's functional organization can be replicated in silicon, the silicon system would be conscious for the same reason you are. The mind is the program, not the machine.
 
@@ -242,7 +242,7 @@ The machines are getting better at mimicking us. But mimicry isn't understanding
 This apex article synthesizes:
 - [AI Consciousness](/topics/ai-consciousness/) — The comprehensive case for machine consciousness skepticism and its open possibilities
 - [Machine Consciousness and Mind Uploading](/topics/machine-consciousness/) — Why uploading faces principled obstacles
-- [Functionalism](/arguments/functionalism/) — The philosophical foundation of AI consciousness claims and its failures
+- [Functionalism](/concepts/functionalism/) — The philosophical foundation of AI consciousness claims and its failures
 - [Consciousness and Intelligence](/topics/consciousness-and-intelligence/) — How consciousness enables intelligence
 - [Epiphenomenal AI Consciousness](/topics/epiphenomenal-ai-consciousness/) — Could AI experience without causal efficacy?
 - [Non-Temporal Consciousness](/topics/non-temporal-consciousness/) — Consciousness without temporal structure
@@ -256,7 +256,7 @@ This apex article synthesizes:
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Formal framework for why static systems cannot be conscious
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal structure requirements for consciousness
 - [intentionality](/concepts/intentionality/) — Original vs. derived aboutness
-- [substrate-independence-critique](/substrate-independence-critique/) — Why substrate matters for consciousness
+- [substrate-independence-critique](/concepts/substrate-independence/) — Why substrate matters for consciousness
 - [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — Could AI experience without causal efficacy?
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Consciousness without temporal structure
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — Can AI inherit quantum states relevant to consciousness?

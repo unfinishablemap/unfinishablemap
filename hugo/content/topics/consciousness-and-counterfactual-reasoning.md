@@ -27,7 +27,7 @@ related_articles:
 - '[[voids-counterfactual-void-2026-02-13]]'
 title: Consciousness and Counterfactual Reasoning
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[consciousness-and-the-problem-of-induction]]'
 ---
 
@@ -116,7 +116,7 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 ## Further Reading
 
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The concept: what counterfactual reasoning is and how it works
-- [free-will](/concepts/free-will/) — How counterfactual reasoning enables genuine choice
+- [free-will](/topics/free-will/) — How counterfactual reasoning enables genuine choice
 - [baseline-cognition](/concepts/baseline-cognition/) — The framework distinguishing consciousness-dependent from baseline cognition
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Counterfactual assessment in inductive reasoning
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deliberating among alternatives

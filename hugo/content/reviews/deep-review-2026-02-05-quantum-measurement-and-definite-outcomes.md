@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/quantum-measurement-and-definite-outcomes/)
+**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/topics/quantum-measurement-consciousness-interface/)
 **Previous review**: [2026-02-04 (night)](/reviews/deep-review-2026-02-04-night-quantum-measurement-and-definite-outcomes/)
 **Context**: Review triggered to verify integration with consciousness-and-quantum-measurement.md insights. Fifth review of this article.
 

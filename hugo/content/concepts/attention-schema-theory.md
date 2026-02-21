@@ -7,9 +7,9 @@ author: null
 concepts:
 - '[[attention]]'
 - '[[attention-as-interface]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[illusionism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[qualia]]'
 - '[[witness-consciousness]]'
 - '[[introspection]]'
@@ -37,7 +37,7 @@ topics:
 
 Attention Schema Theory (AST), developed by neuroscientist Michael Graziano at Princeton University, proposes that subjective awareness is the brain's schematic model of its own attention. Just as the body schema helps track and control limb position, an "attention schema" helps monitor and control attention. Because this model necessarily omits mechanism details—representing attention's effects rather than its neural implementation—the brain concludes it possesses a non-physical essence of awareness. Consciousness, on this view, is neither illusion nor magic but a functional caricature: a useful simplification that helps the brain manage attentional resources.
 
-AST is a [materialist](/arguments/materialism/) theory that shares commitments with [illusionism](/concepts/illusionism/)—the view that phenomenal consciousness (qualia, "what it's like") is systematically misrepresented by introspection. The Unfinishable Map rejects AST because it explains *reports about* consciousness, not consciousness itself. The appearance of experience must appear *to something*, and that something cannot be another model without infinite regress.
+AST is a [materialist](/concepts/materialism/) theory that shares commitments with [illusionism](/concepts/illusionism/)—the view that phenomenal consciousness (qualia, "what it's like") is systematically misrepresented by introspection. The Unfinishable Map rejects AST because it explains *reports about* consciousness, not consciousness itself. The appearance of experience must appear *to something*, and that something cannot be another model without infinite regress.
 
 ## The Core Idea
 
@@ -219,16 +219,16 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: AST is consistent with epiphenomenalism about consciousness (even if not about attention schemas). The schema influences behavior, but "consciousness" as something over and above the schema does nothing. The Map rejects this. The phenomenology of effort—feeling that attention costs something—supports bidirectional interaction. If effort were mere representation, why would evolution produce the misleading sense that we're working? On the Map's view, effort feels real because it *is* real engagement.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: AST doesn't engage quantum mechanics, making this tenet seemingly irrelevant. But there's a deeper connection: AST is compatible with [Many-Worlds](/arguments/many-worlds/) in a way the Map isn't. If consciousness is a functional pattern, branching poses no special problem—the pattern continues in each branch. The Map's rejection of MWI involves [haecceity](/concepts/haecceity/): *this* consciousness matters, not merely a pattern that could be copied. AST's treatment of consciousness as pattern makes it indifferent to branching.
+**[No Many Worlds](/tenets/#no-many-worlds)**: AST doesn't engage quantum mechanics, making this tenet seemingly irrelevant. But there's a deeper connection: AST is compatible with [Many-Worlds](/concepts/many-worlds/) in a way the Map isn't. If consciousness is a functional pattern, branching poses no special problem—the pattern continues in each branch. The Map's rejection of MWI involves [haecceity](/concepts/haecceity/): *this* consciousness matters, not merely a pattern that could be copied. AST's treatment of consciousness as pattern makes it indifferent to branching.
 
 **[Occam's Razor Has Limits](/tenets/#occam)**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the Map responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it. The illusion problem—explaining why we *believe* in phenomenal consciousness—may be as hard as the hard problem itself. AST achieves apparent simplicity by refusing to address what most urgently needs addressing.
 
 ## Further Reading
 
-- [attention](/attention/) — The attention-consciousness relationship and dissociation evidence
+- [attention](/concepts/attention-as-interface/) — The attention-consciousness relationship and dissociation evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — the Map's alternative: attention as how consciousness interfaces with matter
 - [illusionism](/concepts/illusionism/) — The philosophical framework AST instantiates
-- [functionalism](/arguments/functionalism/) — The view that consciousness is functional role
+- [functionalism](/concepts/functionalism/) — The view that consciousness is functional role
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What AST claims to dissolve
 - [quantum-consciousness](/concepts/quantum-consciousness/) — the Map's alternative framework
 - [ai-consciousness](/topics/ai-consciousness/) — Implications for artificial systems

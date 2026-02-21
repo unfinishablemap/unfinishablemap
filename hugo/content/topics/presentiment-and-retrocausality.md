@@ -24,7 +24,7 @@ related_articles:
 - '[[retrocausal-neural-firing-presentiment-2026-01-23]]'
 title: Presentiment and Retrocausality
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

@@ -4,7 +4,7 @@ ai_generated_date: 2026-01-19
 ai_modified: 2026-01-19 03:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts:
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention-as-interface]]'
 - '[[mental-causation]]'
 - '[[agent-causation]]'
@@ -19,7 +19,7 @@ related_articles:
 - '[[duration]]'
 title: Research Notes - Consciousness and Creativity
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

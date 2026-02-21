@@ -41,7 +41,7 @@ superseded_by: /concepts/temporal-consciousness/
 title: The Specious Present
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The specious present is the experienced duration of the present moment—not the mathematical instant of physics but the lived interval within which succession and change appear unified. When you hear a melody, you don't experience isolated tones but phrases, progressions, resolutions. This temporal thickness of experience, ranging from roughly 100 milliseconds to 3 seconds depending on methodology, is fundamental to what consciousness is.
@@ -82,7 +82,7 @@ Working memory provides a promising neural correlate. The 100ms-5s "experienced 
 
 Baddeley's episodic buffer—storing integrated multimodal representations "accessed by conscious awareness"—performs binding across modalities and time. The buffer makes bound features available to consciousness without itself performing the binding. What does the binding? If consciousness participates constitutively (as the [binding problem](/concepts/binding-problem/) analysis suggests), WM's episodic buffer may be where this participation is observable.
 
-The ~10 bits/second limit on conscious throughput noted in the Map's [coupling law research](/psychophysical-coupling-law/) matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth. Recent research distinguishing unconscious WM storage from conscious WM manipulation supports the idea that the specious present involves consciousness actively selecting and binding, not just maintaining information.
+The ~10 bits/second limit on conscious throughput noted in the Map's [coupling law research](/concepts/psychophysical-coupling/) matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth. Recent research distinguishing unconscious WM storage from conscious WM manipulation supports the idea that the specious present involves consciousness actively selecting and binding, not just maintaining information.
 
 The specious present may be what working memory *feels like from inside*.
 
@@ -158,7 +158,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns parsimony is 
 
 ### Temporal Consciousness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
-- [duration](/duration/) — Bergson's concept of lived time
+- [duration](/concepts/temporal-consciousness/) — Bergson's concept of lived time
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's position
 
 ### Methods and Mechanisms
@@ -175,7 +175,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns parsimony is 
 
 ### Binding and Structure
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
-- [psychophysical-coupling](/psychophysical-coupling/) — Bandwidth constraints on consciousness-matter interaction
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Bandwidth constraints on consciousness-matter interaction
 - [haecceity](/concepts/haecceity/) — Why *this* present moment is irreducible
 
 ### Challenges

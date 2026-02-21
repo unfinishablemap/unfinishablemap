@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- None identified. Initial review suspected broken link to `[phenomenological-evidence-methodology](/phenomenological-evidence-methodology/)` but file exists in `obsidian/topics/`.
+- None identified. Initial review suspected broken link to `[phenomenological-evidence-methodology](/concepts/phenomenological-evidence/)` but file exists in `obsidian/topics/`.
 
 ### Medium Issues Found
 - **Heterophenomenology dismissal too quick**: The original response didn't engage with Dennett's deeper point that the hard problem itself may be misconceived. **Resolution applied**: Added engagement with Dennett's likely response and connected to zombie argument to show why functional explanation alone is insufficient.

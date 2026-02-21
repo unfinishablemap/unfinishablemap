@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-02-03
-date: '2026-02-03'
+date: '2026-02-21'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-02-03 Evening
@@ -54,7 +54,7 @@ The Buddhist challenge is engaged seriously: "The Buddhist analysis may be compa
 
 ### The Libertarian Free Will Defender (Kane)
 
-[free-will](/concepts/free-will/) defends agent-causal libertarianism with phenomenological, neuroscientific, and metaphysical rigour. The Sjöberg (2024) finding is devastating to neural determinism: patients with surgical resection of the supplementary motor area—the region generating Libet's readiness potential—retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair it. It doesn't.
+[free-will](/topics/free-will/) defends agent-causal libertarianism with phenomenological, neuroscientific, and metaphysical rigour. The Sjöberg (2024) finding is devastating to neural determinism: patients with surgical resection of the supplementary motor area—the region generating Libet's readiness potential—retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair it. It doesn't.
 
 The three-level agency structure is compelling: consciousness can select among options, refrain from selecting (witness mode), or choose which mode to operate in (meta-level agency). "A passive recipient of random events couldn't choose to be passive. The very capacity for witness mode shows consciousness does something rather than merely receiving outcomes."
 
@@ -106,7 +106,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 - **Tenet alignment**: Supports Dualism by showing that understanding has irreducible phenomenal character that functional description cannot capture
 
 #### Consciousness and Causal Powers: A Metaphysical Framework
-- **Builds on**: [agent-causation](/concepts/agent-causation/), [substance-causation](/substance-causation/), [mental-causation](/concepts/mental-causation/)
+- **Builds on**: [agent-causation](/concepts/agent-causation/), [substance-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/)
 - **Would address**: The metaphysics of how substances exercise causal powers. The Map's framework requires that consciousness *does* something, but the metaphysics of "doing" needs systematic treatment. How do agent-causal powers relate to physical causation? What does "selection" mean metaphysically?
 - **Estimated scope**: Long article
 - **Tenet alignment**: Grounds Bidirectional Interaction in rigorous metaphysics

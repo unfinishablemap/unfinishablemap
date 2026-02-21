@@ -8,8 +8,8 @@ concepts:
 - '[[the-case-for-dualism]]'
 - '[[qualia]]'
 - '[[explanatory-gap]]'
-- '[[materialism]]'
-- '[[functionalism]]'
+- '[[concepts/materialism]]'
+- '[[concepts/functionalism]]'
 - '[[inverted-qualia]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -36,7 +36,7 @@ topics:
 
 A philosophical zombie is a being physically and functionally identical to a conscious human but lacking all subjective experience. The zombie has the same brain states, exhibits the same behaviors, and makes the same verbal reports—including "I am conscious" and "I experience redness"—yet there is nothing it is like to be the zombie. The lights are on, but nobody's home.
 
-The zombie argument, developed most influentially by David Chalmers, uses this thought experiment to challenge [physicalism](/arguments/materialism/). If zombies are conceivable, consciousness may not be reducible to physical processes.
+The zombie argument, developed most influentially by David Chalmers, uses this thought experiment to challenge [physicalism](/concepts/materialism/). If zombies are conceivable, consciousness may not be reducible to physical processes.
 
 ## The Argument
 
@@ -88,7 +88,7 @@ Some physicalists argue that phenomenal concepts are "special"—they pick out p
 
 ## Zombies and Functionalism
 
-The zombie thought experiment also targets [functionalism](/arguments/functionalism/). If a system can be functionally identical to you while lacking experience, then experience is not a matter of functional organization. The [argument against functionalism](/arguments/functionalism/) develops this as the first of five convergent attacks on functionalism.
+The zombie thought experiment also targets [functionalism](/concepts/functionalism/). If a system can be functionally identical to you while lacking experience, then experience is not a matter of functional organization. The [argument against functionalism](/arguments/functionalism/) develops this as the first of five convergent attacks on functionalism.
 
 Block's "China brain" thought experiment makes a similar point: the population of China organized to replicate your brain's functional structure might be functionally equivalent without being conscious—a billion people following rules doesn't add up to unified experience.
 
@@ -102,7 +102,7 @@ You say things like "I am conscious" and "I experience qualia." Presumably, your
 
 If physicalism is true, your utterances are caused by the same physical processes that cause the zombie's. But then your consciousness isn't playing a causal role in producing your reports about consciousness. This makes your reports accidentally accurate at best—a strange result for the physicalist who trusts their own introspection enough to theorize about consciousness.
 
-This connects to the critique of [epiphenomenalism](/arguments/epiphenomenalism/): if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable.
+This connects to the critique of [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable.
 
 ## The Illusionist Challenge
 
@@ -194,10 +194,10 @@ The zombie argument connects to all five of the Map's tenets.
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's analysis of why physical explanation leaves consciousness unexplained
 - [qualia](/concepts/qualia/) — The qualitative properties zombies lack
 - [inverted-qualia](/concepts/inverted-qualia/) — The parallel argument varying qualia's character rather than presence
-- [materialism](/arguments/materialism/) — The view the zombie argument targets
-- [functionalism](/arguments/functionalism/) — Another view challenged by zombie-style reasoning
+- [materialism](/concepts/materialism/) — The view the zombie argument targets
+- [functionalism](/concepts/functionalism/) — Another view challenged by zombie-style reasoning
 - [functionalism](/arguments/functionalism/) — Five formal arguments against functionalism, with zombies as the first
-- [epiphenomenalism](/arguments/epiphenomenalism/) — A position with structurally similar problems
+- [epiphenomenalism](/concepts/epiphenomenalism/) — A position with structurally similar problems
 - [illusionism](/concepts/illusionism/) — The radical physicalist denial that the zombie argument has a target
 - [introspection](/concepts/introspection/) — Why our access to phenomenal content is more reliable than illusionism allows
 - [phenomenology](/concepts/phenomenology/) — The tradition that takes first-person experience as fundamental data

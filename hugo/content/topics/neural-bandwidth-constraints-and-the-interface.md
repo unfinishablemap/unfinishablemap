@@ -9,7 +9,7 @@ concepts:
 - '[[attentional-economics]]'
 - '[[psychophysical-coupling]]'
 - '[[filter-theory]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[working-memory]]'
 - '[[mental-effort]]'
 - '[[voluntary-attention]]'
@@ -34,7 +34,7 @@ related_articles:
 title: Neural Bandwidth Constraints and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Conscious processing operates at roughly 10 bits per second. The brain's unconscious systems handle on the order of 10⁹ bits per second. This ratio—one to a hundred million—is perhaps the most revealing empirical fact about The Unfinishable Map's central question: how consciousness relates to the brain. The bandwidth constraint is not an incidental limitation. It defines the *shape* of the mind-brain interface, distinguishing what consciousness does from what the brain does, and exposing why production models of consciousness face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models handle naturally.
@@ -87,7 +87,7 @@ The specific rate—~10 bits per second—constrains what kind of selection cons
 
 ### Policy-Level, Not Neuron-Level
 
-At 10 bits per second, consciousness cannot select individual neural firing events (which occur at millisecond timescales across billions of neurons). It selects *patterns*—action policies, attentional targets, cognitive strategies. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." The [coupling law](/psychophysical-coupling/) must respect this: selection operates at the level of macroscopic neural patterns, not microscopic events.
+At 10 bits per second, consciousness cannot select individual neural firing events (which occur at millisecond timescales across billions of neurons). It selects *patterns*—action policies, attentional targets, cognitive strategies. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." The [coupling law](/concepts/psychophysical-laws/) must respect this: selection operates at the level of macroscopic neural patterns, not microscopic events.
 
 This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Consciousness doesn't micromanage neural events—it makes coarse-grained selections that cascade through neural systems. The minimality isn't arbitrary; it follows from the bandwidth constraint. Consciousness *cannot* interact at finer grain even if the metaphysics permitted it, because the channel is too narrow.
 
@@ -95,7 +95,7 @@ This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interact
 
 At ~10 bits per second with typical binary-to-quaternary choice complexity, consciousness makes roughly 3-4 selections per second. This matches the phenomenology of deliberate decision-making. In rapid tasks, we experience choosing at about this rate; faster performance becomes automatic and drops out of conscious control.
 
-The ~280-300ms timing window for [motor commitment](/concepts/motor-selection/) and [willed attention deployment](/voluntary-attention/) aligns. If conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
+The ~280-300ms timing window for [motor commitment](/concepts/motor-selection/) and [willed attention deployment](/concepts/attention-as-interface/) aligns. If conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
 
 ### Cumulative Over Time
 
@@ -165,12 +165,12 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How the interface operates through attention and motor planning
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
-- [psychophysical-coupling](/psychophysical-coupling/) — The coupling law connecting conscious states to physical selections
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling law connecting conscious states to physical selections
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model and the bandwidth as filter parameter
 - [working-memory](/concepts/working-memory/) — Working memory as the workspace where the interface operates
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum consciousness mechanisms
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The materialist account of serial broadcasting and its limitations
 - [libet-experiments](/concepts/libet-experiments/) — The neural preparation findings and why they don't defeat free will
 - [access-consciousness](/concepts/access-consciousness/) — The distinction between phenomenal and access consciousness

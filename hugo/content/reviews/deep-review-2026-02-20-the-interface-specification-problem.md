@@ -24,8 +24,8 @@ topics: []
 
 ### Critical Issues Found
 - **Misattribution of "t-shirt problem"**: Article said "what Jonathan Schaffer calls the 't-shirt problem'" but the phrase originates with David Chalmers (1996, p. 214). Schaffer uses the term but credits Chalmers. **Resolution**: Corrected attribution to Chalmers with page reference; Schaffer remains in References as a secondary source.
-- **Broken wikilink: `[psychophysical-coupling](/psychophysical-coupling/)`**: No article exists with this slug. **Resolution**: Replaced with `[psychophysical-laws](/concepts/psychophysical-laws/)` (closest existing article) and updated Further Reading description.
-- **Broken wikilink: `[interface-locality](/interface-locality/)`**: No article exists with this slug. **Resolution**: Removed from concepts frontmatter, replaced body reference with inline text linking to `[pairing-problem](/concepts/pairing-problem/)`, removed from Further Reading.
+- **Broken wikilink: `[psychophysical-coupling](/concepts/psychophysical-laws/)`**: No article exists with this slug. **Resolution**: Replaced with `[psychophysical-laws](/concepts/psychophysical-laws/)` (closest existing article) and updated Further Reading description.
+- **Broken wikilink: `[interface-locality](/concepts/brain-interface-boundary/)`**: No article exists with this slug. **Resolution**: Removed from concepts frontmatter, replaced body reference with inline text linking to `[pairing-problem](/concepts/pairing-problem/)`, removed from Further Reading.
 - **Missing citation for Georgiev**: Monte Carlo simulations discussed by name but not formally cited. **Resolution**: Added full reference: Georgiev, D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
 
 ### Medium Issues Found

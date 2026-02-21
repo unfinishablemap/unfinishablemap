@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Consciousness As Intelligence Amplifier](/consciousness-as-intelligence-amplifier/)
+**Article**: [Consciousness As Intelligence Amplifier](/concepts/consciousness-as-amplifier/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

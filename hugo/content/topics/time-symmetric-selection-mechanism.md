@@ -8,7 +8,7 @@ concepts:
 - '[[retrocausality]]'
 - '[[collapse-and-time]]'
 - '[[quantum-interpretations]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[measurement-problem]]'
 - '[[agent-causation]]'
 - '[[libet-experiments]]'
@@ -33,7 +33,7 @@ related_articles:
 title: Time-Symmetric Selection Mechanism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through atemporal constraint satisfaction. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [Libet experiments](/concepts/libet-experiments/): neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
@@ -172,7 +172,7 @@ The transactional interpretation doesn't specify. Different answers have differe
 - **Macro-transactions** (coherent neural patterns): Selection would be policy-level, matching the ~10 bits/second bandwidth of conscious thought
 - **Extended transactions** (entire decision episodes): Selection would determine whole sequences at once
 
-The Map favours policy-level selection based on [bandwidth constraints](/questions/consciousness-selecting-neural-patterns/), but the physics doesn't settle this.
+The Map favours policy-level selection based on [bandwidth constraints](/concepts/consciousness-selecting-neural-patterns/), but the physics doesn't settle this.
 
 ### Phenomenology of Atemporality
 
@@ -215,11 +215,11 @@ Time-symmetric selection connects tightly to the Map's tenets:
 - [retrocausality](/concepts/retrocausality/) — Physics of backward causation and the Libet resolution
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and consciousness implications
 - [libet-experiments](/concepts/libet-experiments/) — The timing experiments and Schurger's critique
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate sources
-- [specious-present](/specious-present/) — The temporal thickness of conscious experience
+- [specious-present](/concepts/temporal-consciousness/) — The temporal thickness of conscious experience
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [tenets](/tenets/) — The Map's foundational commitments
 

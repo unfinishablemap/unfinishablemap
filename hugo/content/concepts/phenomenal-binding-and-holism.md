@@ -112,7 +112,7 @@ The thalamus receives converging inputs from all sensory modalities and projects
 
 ## Experimental Evidence
 
-Experimental work has moved from theoretical possibility toward direct support (see [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) for comprehensive analysis):
+Experimental work has moved from theoretical possibility toward direct support (see [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) for comprehensive analysis):
 
 - **Microtubule-anesthesia link (Wiest et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
 - **Brain entanglement signatures (Kerskens & Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
@@ -137,9 +137,9 @@ Phenomenal binding illuminates why the Map's [tenets](/tenets/) take the positio
 
 **Minimal Quantum Interaction**: If phenomenal unity requires quantum entanglement, consciousness operates at the quantum level. Quantum collapse provides a mechanism for BP2—binding disparate streams through non-local correlation rather than classical composition. The thalamus may serve as the quantum selection interface.
 
-**No Many Worlds**: Quantum unity only generates phenomenal unity if collapse is real. In many-worlds, all binding possibilities occur in separate branches. Within each branch, an observer has a definite experience—but the Map's [indexical argument](/indexical-identity/) holds that *this* definite experience, the fact of being in *this* branch, requires genuine collapse rather than branch-relative definiteness. Multimodal binding requires actual outcomes, not merely branch-indexed ones.
+**No Many Worlds**: Quantum unity only generates phenomenal unity if collapse is real. In many-worlds, all binding possibilities occur in separate branches. Within each branch, an observer has a definite experience—but the Map's [indexical argument](/topics/indexical-identity-quantum-measurement/) holds that *this* definite experience, the fact of being in *this* branch, requires genuine collapse rather than branch-relative definiteness. Multimodal binding requires actual outcomes, not merely branch-indexed ones.
 
-**Bidirectional Interaction**: Unified consciousness selects, not merely observes. The unity of experience enables agency: a single subject choosing among quantum alternatives. Fragmentary consciousness could not exercise coherent causal power (see [agent-causation](/concepts/agent-causation/), [free-will](/concepts/free-will/)).
+**Bidirectional Interaction**: Unified consciousness selects, not merely observes. The unity of experience enables agency: a single subject choosing among quantum alternatives. Fragmentary consciousness could not exercise coherent causal power (see [agent-causation](/concepts/agent-causation/), [free-will](/topics/free-will/)).
 
 **Occam's Razor Has Limits**: Computational binding theories seem parsimonious because they ignore BP2. Once phenomenal unity is recognized as an additional explanatory target, the "simpler" materialist explanation is revealed as incomplete.
 
@@ -147,7 +147,7 @@ Phenomenal binding illuminates why the Map's [tenets](/tenets/) take the positio
 
 - [process-and-consciousness](/apex/process-and-consciousness/) — How process philosophy illuminates phenomenal unity through actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader conceptual framing of what unity is
-- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Experimental support for quantum binding mechanisms
+- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Experimental support for quantum binding mechanisms
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity
 - [binding-problem](/concepts/binding-problem/) — The neural challenge and historical formulation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge

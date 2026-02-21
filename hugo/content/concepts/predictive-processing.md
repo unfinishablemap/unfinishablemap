@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[global-workspace-theory]]'
 - '[[attention]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[higher-order-theories]]'
 - '[[dreams-and-consciousness]]'
 - '[[filter-theory]]'
@@ -18,7 +18,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[meditation-and-consciousness-modes]]'
 created: 2026-01-14
 date: &id001 2026-01-20
@@ -93,7 +93,7 @@ Clark, Friston, and Wilkinson address why we *think* consciousness is hard to ex
 
 ### The Functionalist Limitation
 
-PP offers a sophisticated [functionalist](/arguments/functionalism/) account. But like other functionalist theories, it faces the standard objection: why should any computational process, however complex, be accompanied by phenomenal experience? (See [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) for how this limitation extends across cognitive science generally: the field's formalisms describe what the brain *computes* while remaining silent on what it *experiences*.)
+PP offers a sophisticated [functionalist](/concepts/functionalism/) account. But like other functionalist theories, it faces the standard objection: why should any computational process, however complex, be accompanied by phenomenal experience? (See [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) for how this limitation extends across cognitive science generally: the field's formalisms describe what the brain *computes* while remaining silent on what it *experiences*.)
 
 Critics note that "we seem to experience moderate-sized specimens of dry goods, not probability density distributions." Mathematical prediction error minimization doesn't obviously generate [qualia](/concepts/qualia/).
 
@@ -199,7 +199,7 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Active inference—organisms acting to change sensory input—resonates deeply with bidirectional interaction. Consciousness doesn't passively receive but actively shapes reality. The Map's claim that consciousness selects among quantum outcomes is a deeper-level instance of active inference: the organism acts not just on the environment but on its own neural states. PP's emphasis on action and attention provides the neural machinery; consciousness provides the genuine agency that chooses which predictions to enact.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: PP implicitly assumes definite outcomes—predictions are either confirmed or generate errors, not both. Under [Many-Worlds Interpretation](/arguments/many-worlds/), all predictions would be actualized in some branch, rendering "prediction error" meaningless (every prediction would be correct somewhere). The fact that PP works as a scientific framework depends on outcomes being singular and definite—collapse being real. The framework also operates on the assumption of [indexical identity](/concepts/haecceity/): *this* organism minimizes *its* prediction errors. A pure functionalist account cannot explain why *this* pattern matters rather than any functionally identical pattern in another branch.
+**[No Many Worlds](/tenets/#no-many-worlds)**: PP implicitly assumes definite outcomes—predictions are either confirmed or generate errors, not both. Under [Many-Worlds Interpretation](/concepts/many-worlds/), all predictions would be actualized in some branch, rendering "prediction error" meaningless (every prediction would be correct somewhere). The fact that PP works as a scientific framework depends on outcomes being singular and definite—collapse being real. The framework also operates on the assumption of [indexical identity](/concepts/haecceity/): *this* organism minimizes *its* prediction errors. A pure functionalist account cannot explain why *this* pattern matters rather than any functionally identical pattern in another branch.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: PP's elegance—one principle (free energy minimization) explaining perception, action, learning, and development—makes it attractive on parsimony grounds. But the history of consciousness studies suggests that elegant explanations often prove incomplete. Behaviorism was parsimonious; it was also wrong about what matters. The Map holds that PP's apparent simplicity conceals unexplained assumptions about why computation should be conscious. The simplest explanation is not the correct one when the simplicity is achieved by ignoring the phenomenon requiring explanation.
 
@@ -207,8 +207,8 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 
 ### Site Content
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Another major cognitive framework
-- [functionalism](/arguments/functionalism/) — The philosophical tradition PP inherits
-- [attention](/attention/) — Central to precision weighting
+- [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
+- [attention](/concepts/attention-as-interface/) — Central to precision weighting
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter interaction
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What PP doesn't directly address
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreams as unconstrained prediction

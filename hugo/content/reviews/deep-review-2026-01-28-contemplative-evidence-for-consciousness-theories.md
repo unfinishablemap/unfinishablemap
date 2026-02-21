@@ -53,12 +53,12 @@ topics: []
 - Strengthened epiphenomenalism response with "brute correlations" argument
 - Added epistemological caveat to nirodha samapatti claims
 - Added [qualia](/concepts/qualia/) cross-link in jhana section
-- Added Free Will subsection connecting to [free-will](/concepts/free-will/)
+- Added Free Will subsection connecting to [free-will](/topics/free-will/)
 - Added Weng et al. (2013) to References
 
 ### Cross-links Added
 - [qualia](/concepts/qualia/) (in jhana phenomenology section)
-- [free-will](/concepts/free-will/) (new subsection in Relation to Site Perspective)
+- [free-will](/topics/free-will/) (new subsection in Relation to Site Perspective)
 
 ## Word Count
 

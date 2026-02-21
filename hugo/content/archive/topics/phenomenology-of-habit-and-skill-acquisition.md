@@ -48,7 +48,7 @@ superseded_by: /topics/phenomenology-of-skill-and-the-lived-body/
 title: The Phenomenology of Habit and Skill Acquisition
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Learning to drive a car is an exercise in phenomenological transformation. In the first lesson, every action demands conscious attention—check the mirror, depress the clutch, engage the gear, ease off slowly, steer, watch the road. Each step is individually represented in awareness, effortful, and fragile. Months later, the same person drives while holding a conversation, navigating complex intersections with barely a flicker of deliberate thought. The skill hasn't disappeared—it has migrated from the territory of conscious effort into the domain of [automatic execution](/concepts/implicit-memory/).
@@ -79,7 +79,7 @@ The withdrawal of consciousness from skilled performance is not passive. Conscio
 
 The Map interprets this transition as evidence for several of its core commitments.
 
-**Consciousness as causal architect.** If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. The novice's conscious rule-following produces lasting changes in neural organisation. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition. The causal efficacy of consciousness during learning is difficult to deny: attention shapes what gets encoded, effort determines the quality of encoding, and conscious correction prevents the consolidation of errors.
+**Consciousness as causal architect.** If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. The novice's conscious rule-following produces lasting changes in neural organisation. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition. The causal efficacy of consciousness during learning is difficult to deny: attention shapes what gets encoded, effort determines the quality of encoding, and conscious correction prevents the consolidation of errors.
 
 **The interface model.** Skill acquisition illustrates the Map's model of consciousness as an [interface](/concepts/attention-as-interface/) between the non-physical and the physical. During early learning, the interface is heavily engaged—consciousness actively selects among neural possibilities, biasing outcomes toward correct execution. As skill develops, the interface gradually withdraws from direct control, having configured the system to produce appropriate outputs autonomously. This is consistent with the [minimal interaction tenet](/tenets/#minimal-quantum-interaction): consciousness intervenes where intervention is needed and withdraws when the physical system can manage independently.
 
@@ -97,9 +97,9 @@ Yet this absence carries a cost that skill acquisition helps illuminate. Many ha
 
 Expert performance presents a paradox that resists simple interpretation. The expert is not unconscious during skilled action—a concert pianist is vividly aware while performing—yet the awareness is qualitatively different from the novice's effortful attention. Dreyfus described this as "absorbed coping": the expert is fully present but not reflectively monitoring.
 
-This creates a phenomenological puzzle. If the skill runs automatically, what is consciousness *doing* during expert performance? The Map suggests that consciousness during expert action operates at a higher level of the hierarchy—not controlling individual movements but maintaining the overall intentional direction, monitoring for anomalies, and remaining ready to intervene when the situation demands. The pianist's consciousness shapes phrasing and expression while leaving finger placement to procedural systems. The surgeon's awareness tracks diagnostic judgment while motor execution proceeds below the threshold of reflective attention. This is not absence of consciousness but a change in what consciousness is *about*—and the [paradox of effortless mastery](/paradox-of-effortless-mastery/) that this shift creates is itself philosophically revealing.
+This creates a phenomenological puzzle. If the skill runs automatically, what is consciousness *doing* during expert performance? The Map suggests that consciousness during expert action operates at a higher level of the hierarchy—not controlling individual movements but maintaining the overall intentional direction, monitoring for anomalies, and remaining ready to intervene when the situation demands. The pianist's consciousness shapes phrasing and expression while leaving finger placement to procedural systems. The surgeon's awareness tracks diagnostic judgment while motor execution proceeds below the threshold of reflective attention. This is not absence of consciousness but a change in what consciousness is *about*—and the [paradox of effortless mastery](/topics/consciousness-and-skilled-performance/) that this shift creates is itself philosophically revealing.
 
-The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation, and when an expert transitions to a new style or technique, consciousness must re-enter the procedural level, producing the distinctive instability described in the [phenomenology of skill transition](/phenomenology-of-skill-transition/). The boundary between conscious and automatic is not a settled frontier but an ongoing negotiation.
+The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation, and when an expert transitions to a new style or technique, consciousness must re-enter the procedural level, producing the distinctive instability described in the [phenomenology of skill transition](/topics/consciousness-and-skilled-performance/). The boundary between conscious and automatic is not a settled frontier but an ongoing negotiation.
 
 The [flow state](/topics/phenomenology-of-flow-states/) represents the fullest expression of this hierarchical shift. In flow, the expert experiences heightened engagement with reduced self-monitoring—the activity absorbs awareness without fragmenting it into monitored steps. The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
 
@@ -117,13 +117,13 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to theories
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
-- [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/)
-- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
+- [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/)
+- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 - [implicit-memory](/concepts/implicit-memory/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
-- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
+- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 
 ## References

@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[minimal-consciousness]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[emergence]]'
 - '[[explanatory-gap]]'
 - '[[downward-causation]]'
@@ -32,7 +32,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic (claims about understanding). The Unfinishable Map accepts methodological reductionism as a powerful scientific tool while rejecting ontological and explanatory reductionism about consciousness. The [explanatory gap](/concepts/explanatory-gap/), the [hard problem](/topics/hard-problem-of-consciousness/), and the failure of [functional reduction](//#functional-reduction) (explained below) converge on a single conclusion: consciousness cannot be reduced to physical processes.
+Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic (claims about understanding). The Unfinishable Map accepts methodological reductionism as a powerful scientific tool while rejecting ontological and explanatory reductionism about consciousness. The [explanatory gap](/concepts/explanatory-gap/), the [hard problem](/topics/hard-problem-of-consciousness/), and the failure of [functional reduction](#functional-reduction) (explained below) converge on a single conclusion: consciousness cannot be reduced to physical processes.
 
 ## Three Types of Reductionism
 
@@ -40,7 +40,7 @@ Reductionism is the philosophical thesis that complex phenomena can be explained
 
 The claim that reality ultimately consists of fundamental physical entities—atoms, particles, fields. Higher-level objects like tables, organisms, and minds exist only as arrangements of fundamental stuff. There are no irreducibly "mental" substances or properties.
 
-This is the metaphysical core of [materialism](/arguments/materialism/). If ontological reductionism about mind is true, consciousness just *is* a complex physical process. The [Dualism tenet](/tenets/#dualism) denies precisely this—consciousness is not reducible to physical processes.
+This is the metaphysical core of [materialism](/concepts/materialism/). If ontological reductionism about mind is true, consciousness just *is* a complex physical process. The [Dualism tenet](/tenets/#dualism) denies precisely this—consciousness is not reducible to physical processes.
 
 ### Methodological Reductionism
 
@@ -144,7 +144,7 @@ The [Buddhist tradition](/concepts/buddhism-and-dualism/) raises its own challen
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Complete physical knowledge of simple organisms fails to resolve phenomenal questions
 - [emergence](/concepts/emergence/) — The philosophical framework for non-reductive properties
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanations leave consciousness unexplained
-- [materialism](/arguments/materialism/) — The view that reductionism about consciousness underwrites
+- [materialism](/concepts/materialism/) — The view that reductionism about consciousness underwrites
 - [downward-causation](/concepts/downward-causation/) — What reduction denies and the Map affirms
 - [causal-closure](/concepts/causal-closure/) — The principle reductionists assume and the Map denies at quantum level
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the hard problem may resist solution

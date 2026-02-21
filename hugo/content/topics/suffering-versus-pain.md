@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[qualia]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[phenomenal-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[explanatory-gap]]'
@@ -23,7 +23,7 @@ last_deep_review: 2026-02-19 19:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[consciousness-and-causal-powers]]'
 title: Suffering Versus Pain
 topics:
@@ -98,7 +98,7 @@ Third, suffering varies with meaning in ways that track consciousness rather tha
 - [phenomenology-of-pain](/topics/phenomenology-of-pain/) — Pain's phenomenal character and resistance to reduction
 - [consciousness-and-pain](/topics/consciousness-and-pain/) — Pain as the paradigm case for mental causation
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as an intrinsic property of experience
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — How phenomenal properties ground objective value
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How phenomenal properties ground objective value
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal role
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal reality
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-28
-**Article**: [Indexical Facts](/indexical-facts/)
+**Article**: [Indexical Facts](/concepts/indexical-knowledge-and-identity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -77,7 +77,7 @@ Applied six sympathetic philosopher personas: Property Dualist (Chalmers), Quant
 
 ### Cross-links Added
 
-None new—existing cross-links ([vertiginous-question](/topics/vertiginous-question/), [haecceity](/concepts/haecceity/), [qualia](/concepts/qualia/), [many-worlds](/arguments/many-worlds/), etc.) are comprehensive.
+None new—existing cross-links ([vertiginous-question](/topics/vertiginous-question/), [haecceity](/concepts/haecceity/), [qualia](/concepts/qualia/), [many-worlds](/concepts/many-worlds/), etc.) are comprehensive.
 
 ## Remaining Items
 

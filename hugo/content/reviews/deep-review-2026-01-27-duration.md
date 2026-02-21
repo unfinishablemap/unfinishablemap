@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Duration (Durée)](/duration/)
+**Article**: [Duration (Durée)](/concepts/temporal-consciousness/)
 **Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-duration/)
 **Cross-review context**: process-philosophy.md insights
 

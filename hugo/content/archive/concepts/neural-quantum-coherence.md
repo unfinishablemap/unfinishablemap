@@ -14,7 +14,7 @@ concepts:
 - '[[quantum-biology]]'
 - '[[measurement-problem]]'
 - '[[quantum-coherence-protection]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 description: 'Can quantum effects persist in warm brains? Evidence from 2024-2025
@@ -70,7 +70,7 @@ The Fisher estimate is not a revision of Tegmark but an entirely different mecha
 
 ## Protective Mechanisms
 
-Four mechanisms may protect quantum coherence in neural tissue. None has been definitively confirmed in living neurons, but each has theoretical and experimental support. See [Quantum Coherence Protection in Neural Systems](/quantum-coherence-protection/) for detailed treatment of each mechanism, including illusionist challenge responses, contemplative evidence, and process philosophy perspectives.
+Four mechanisms may protect quantum coherence in neural tissue. None has been definitively confirmed in living neurons, but each has theoretical and experimental support. See [Quantum Coherence Protection in Neural Systems](/concepts/quantum-coherence-in-neural-systems/) for detailed treatment of each mechanism, including illusionist challenge responses, contemplative evidence, and process philosophy perspectives.
 
 ### Hydrophobic Microtubule Interior
 
@@ -165,7 +165,7 @@ A study of 106 monozygotic twin pairs found that entanglement of qubits in stimu
 
 None of this proves that quantum effects cause consciousness, but it establishes that quantum effects exist where the theory predicts and correlate with consciousness as the theory requires.
 
-Wiest (2025) argues these findings have implications beyond mere correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not epiphenomenal but physically efficacious. This addresses the [epiphenomenalism](/arguments/epiphenomenalism/) objection: consciousness wouldn't be "along for the ride" but would provide computational advantages through quantum coherence.
+Wiest (2025) argues these findings have implications beyond mere correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not epiphenomenal but physically efficacious. This addresses the [epiphenomenalism](/concepts/epiphenomenalism/) objection: consciousness wouldn't be "along for the ride" but would provide computational advantages through quantum coherence.
 
 ## What Coherence Does Not Require
 
@@ -202,7 +202,7 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 
 ## Further Reading
 
-- [quantum-coherence-protection](/quantum-coherence-protection/) — Detailed analysis of four protection mechanisms with illusionist and process philosophy responses
+- [quantum-coherence-protection](/concepts/quantum-coherence-in-neural-systems/) — Detailed analysis of four protection mechanisms with illusionist and process philosophy responses
 - [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem

@@ -97,7 +97,7 @@ But the unified quality of aesthetic experience — the fact that beauty is pres
 
 Aesthetic binding includes an evaluative component — the sense that something is beautiful, profound, or sublime — that is bound into the experience rather than added after the fact. We do not first perceive and then judge; the judgement is given in the perceiving. Kant recognised this: aesthetic judgement is not a logical operation applied to perception but a mode of perception itself.
 
-This matters because it means [phenomenal unity](/phenomenal-unity/) is not evaluatively neutral. The binding of elements into an aesthetic whole carries intrinsic value — it is good or beautiful or meaningful as a bound whole, not as a consequence of being bound. If binding were merely computational coordination, there would be no reason for the result to carry value. The fact that aesthetic binding produces intrinsic value suggests that binding involves something beyond information processing.
+This matters because it means [phenomenal unity](/concepts/phenomenal-binding-and-holism/) is not evaluatively neutral. The binding of elements into an aesthetic whole carries intrinsic value — it is good or beautiful or meaningful as a bound whole, not as a consequence of being bound. If binding were merely computational coordination, there would be no reason for the result to carry value. The fact that aesthetic binding produces intrinsic value suggests that binding involves something beyond information processing.
 
 ### Evidence for Irreducible Consciousness
 
@@ -123,7 +123,7 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)
 - [aesthetic-void](/voids/aesthetic-void/)
-- [phenomenal-unity](/phenomenal-unity/)
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 
 ## References

@@ -12,8 +12,8 @@ concepts:
 - '[[phenomenal-concepts-strategy]]'
 - '[[haecceity]]'
 - '[[explanatory-gap]]'
-- '[[materialism]]'
-- '[[functionalism]]'
+- '[[concepts/materialism]]'
+- '[[concepts/functionalism]]'
 - '[[the-case-for-dualism]]'
 - '[[conceivability-possibility-inference]]'
 created: 2026-02-10

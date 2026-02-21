@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken `[attention](/attention/)` link**: Concept file `attention.md` does not exist; 58+ files across vault link to it. Resolution: Changed to `[attention](/concepts/attention-as-interface/)` in body text; removed from frontmatter concepts.
-- **Broken `[phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)` link**: File does not exist; actual file is `surprise-prediction-error-and-consciousness.md`. Resolution: Fixed in frontmatter topics and body text.
+- **Broken `[attention](/concepts/attention-as-interface/)` link**: Concept file `attention.md` does not exist; 58+ files across vault link to it. Resolution: Changed to `[attention](/concepts/attention-as-interface/)` in body text; removed from frontmatter concepts.
+- **Broken `[phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)` link**: File does not exist; actual file is `surprise-prediction-error-and-consciousness.md`. Resolution: Fixed in frontmatter topics and body text.
 - **Unverifiable Seth quote**: "in and of itself makes no claims about subjective experience" could not be verified as a direct quote. Resolution: Removed quotation marks, reframed as paraphrase integrated with the verifiable Hohwy & Seth (2020) quote.
 - **Misattributed "dry goods" quote**: "moderate-sized specimens of dry goods" originates from J.L. Austin (*Sense and Sensibilia*, 1962), not unspecified "critics." Resolution: Properly attributed to Austin with citation added to References.
 - **Missing `last_deep_review` frontmatter field**: Field was absent entirely. Resolution: Added and set to current timestamp.

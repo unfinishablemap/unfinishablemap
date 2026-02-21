@@ -18,7 +18,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
 - '[[decoherence]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[buddhism-and-dualism]]'
 created: 2026-01-18
 date: &id001 2026-01-21
@@ -34,7 +34,7 @@ related_articles:
 - '[[luck-objection-libertarian-free-will-2026-01-17]]'
 title: The Luck Objection to Libertarian Free Will
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The luck objection is the most persistent challenge to libertarian free will. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
@@ -145,12 +145,12 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 ## Further Reading
 
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Comprehensive systematization including Kane's 2024 convergence and motor selection evidence
-- [free-will](/concepts/free-will/) — Broader treatment of free will and determinism
+- [free-will](/topics/free-will/) — Broader treatment of free will and determinism
 - [agent-causation](/concepts/agent-causation/) — How agents cause actions as substances
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and quantum Zeno mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The broader framework for consciousness-physics interaction
 - [decoherence](/concepts/decoherence/) — The physics-based objection and quantum biology responses
-- [many-worlds](/arguments/many-worlds/) — Why MWI undermines the selection picture entirely
+- [many-worlds](/concepts/many-worlds/) — Why MWI undermines the selection picture entirely
 
 ## References
 

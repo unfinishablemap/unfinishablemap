@@ -8,7 +8,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
 - '[[mysterianism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-01-26
 date: &id001 2026-01-26
 description: Human+AI cartography of the questions each foundational commitment necessarily

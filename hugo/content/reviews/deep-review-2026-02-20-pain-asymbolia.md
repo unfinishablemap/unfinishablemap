@@ -49,12 +49,12 @@ topics: []
 
 ### Enhancements Made
 - Connected asymbolia to philosophical zombies as an "empirical partial case"
-- Added wikilink to `[functionalism](/arguments/functionalism/)` in the anti-functionalist section
+- Added wikilink to `[functionalism](/concepts/functionalism/)` in the anti-functionalist section
 - Added wikilink to `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`
 - Expanded Further Reading with 4 new cross-links: `[philosophical-zombies](/concepts/philosophical-zombies/)`, `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`, `[placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)`, `[blindsight](/concepts/blindsight/)`
 
 ### Cross-links Added
-- `[functionalism](/arguments/functionalism/)` — target of the anti-functionalist argument
+- `[functionalism](/concepts/functionalism/)` — target of the anti-functionalist argument
 - `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)` — the "miniature" framing
 - `[philosophical-zombies](/concepts/philosophical-zombies/)` — empirical partial zombie connection
 - `[placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)` — another dissociation route

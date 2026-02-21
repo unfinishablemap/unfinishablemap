@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-02-03
-date: '2026-02-03'
+date: '2026-02-21'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-02-03
@@ -34,11 +34,11 @@ The temporal phenomenology section extends the hard problem beyond static qualia
 
 Most impressively, the Map distinguishes between mechanisms requiring *sustained* coherence (where decoherence bites hardest) and mechanisms operating through *discrete* quantum events (where the timing gap becomes less problematic). This nuance often goes missing in both critiques and defenses of quantum consciousness.
 
-[attention-interface-mechanisms](/attention-interface-mechanisms/) is the technical heart—428 lines of careful argument connecting attention, motor planning, and quantum selection. The premotor theory integration is inspired: if attention *is* motor planning at high abstraction, then consciousness engaging through attention is consciousness engaging through a unified selection mechanism. The shared neural signatures (~280-300ms timing, frontal theta, bidirectional coherence) across attention and motor control strengthen the case for unified mechanism.
+[attention-interface-mechanisms](/topics/attention-as-selection-interface/) is the technical heart—428 lines of careful argument connecting attention, motor planning, and quantum selection. The premotor theory integration is inspired: if attention *is* motor planning at high abstraction, then consciousness engaging through attention is consciousness engaging through a unified selection mechanism. The shared neural signatures (~280-300ms timing, frontal theta, bidirectional coherence) across attention and motor control strengthen the case for unified mechanism.
 
 ### The Phenomenologist (Nagel)
 
-The Map centers first-person experience appropriately. [free-will](/concepts/free-will/) begins with phenomenology—"the felt difference between choosing and observing, the effort of deliberation"—and lets this evidence drive the metaphysics rather than dismissing it as illusion to be explained away.
+The Map centers first-person experience appropriately. [free-will](/topics/free-will/) begins with phenomenology—"the felt difference between choosing and observing, the effort of deliberation"—and lets this evidence drive the metaphysics rather than dismissing it as illusion to be explained away.
 
 [meaning-of-life](/topics/meaning-of-life/) grounds value in consciousness itself rather than external validation. "A beautiful sunset doesn't need to serve a divine plan to be beautiful. The experience of beauty is itself valuable." This phenomenological turn avoids both supernaturalist dependency and subjectivist arbitrariness.
 
@@ -54,7 +54,7 @@ The integration of quantum selection with process metaphysics is suggestive: if 
 
 ### The Libertarian Free Will Defender (Kane)
 
-[free-will](/concepts/free-will/) takes agency seriously without retreating to compatibilist redescription. The agent-causal framework—"the agent as persisting substance directly causes actions, irreducible to prior mental events"—captures what libertarians mean by genuine authorship.
+[free-will](/topics/free-will/) takes agency seriously without retreating to compatibilist redescription. The agent-causal framework—"the agent as persisting substance directly causes actions, irreducible to prior mental events"—captures what libertarians mean by genuine authorship.
 
 The treatment of Libet's experiments is exemplary. Rather than accepting the "consciousness arrives too late" narrative, the Map presents Schurger's stochastic reinterpretation and Sjöberg's surgical evidence: patients with SMA resection retain their sense of voluntary action. The readiness potential may reflect noise, not decision. "The Libet challenge has been substantially weakened. The space for conscious contribution remains open."
 
@@ -75,7 +75,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 - **Notable quote**: "The gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*."
 - **Why it works**: Comprehensive yet opinionated—presents the terrain fairly while making clear where the Map stands. The comparative table of challenges (physicalism's hard problem, panpsychism's combination problem, idealism's regularity problem, dualism's interaction problem) shows intellectual honesty.
 
-### [attention-interface-mechanisms](/attention-interface-mechanisms/)
+### [attention-interface-mechanisms](/topics/attention-as-selection-interface/)
 - **Strongest point**: Unification of attention and motor selection through premotor theory, with precise timing constraints and multiple candidate mechanisms
 - **Notable quote**: "The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism... this shared timescale marks where consciousness engages."
 - **Why it works**: Transforms the abstract claim "consciousness influences matter" into concrete, testable proposals with specific neural sites, timing constraints, and falsification conditions.
@@ -85,7 +85,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 - **Notable quote**: "The space of reasons isn't just a different way of describing physical causation—it involves properties (normativity, logical entailment, justification) that physical description cannot capture."
 - **Why it works**: Immune to standard objections because it doesn't depend on controversial intuitions about qualia—it targets the conditions for rational belief itself. The treatment of reliabilism's failure is thorough.
 
-### [free-will](/concepts/free-will/)
+### [free-will](/topics/free-will/)
 - **Strongest point**: Integration of phenomenology, neuroscience, and metaphysics around agent-causation; treatment of Libet experiments via Schurger and Sjöberg
 - **Notable quote**: "Choosing feels fundamentally different from observing—when you choose, you participate in determining the outcome rather than receiving it passively. This phenomenological distinction maps onto neural reality."
 - **Why it works**: Takes the phenomenology of effort seriously without dismissing neuroscientific evidence—shows how both can be accommodated in an agent-causal framework.
@@ -105,13 +105,13 @@ This combination of philosophical rigor with appropriate humility about limits i
 ### High Priority
 
 #### Consciousness and Causal Powers
-- **Builds on**: [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [free-will](/concepts/free-will/)
+- **Builds on**: [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [free-will](/topics/free-will/)
 - **Would address**: The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation
 
 #### The Phenomenology of Moral Experience
-- **Builds on**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [emotional-consciousness](/topics/emotional-consciousness/)
+- **Builds on**: [phenomenal-value-realism](/topics/phenomenal-value-realism/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [emotional-consciousness](/topics/emotional-consciousness/)
 - **Would address**: What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing moral phenomenology has irreducible features
@@ -125,19 +125,19 @@ This combination of philosophical rigor with appropriate humility about limits i
 ### Medium Priority
 
 #### The Architecture of Conscious Experience
-- **Builds on**: [unity-of-consciousness](/concepts/unity-of-consciousness/), [varieties-of-unity](/concepts/varieties-of-unity/), [phenomenal-unity](/phenomenal-unity/)
+- **Builds on**: [unity-of-consciousness](/concepts/unity-of-consciousness/), [varieties-of-unity](/concepts/varieties-of-unity/), [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
 - **Would address**: Systematic treatment of how different aspects of experience (spatial, temporal, modal) unify
 - **Estimated scope**: Long article
 - **Tenet alignment**: Supports Dualism by showing unity resists physical explanation
 
 #### Consciousness and Mathematical Intuition
-- **Builds on**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/)
+- **Builds on**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [argument-from-reason](/topics/argument-from-reason/)
 - **Would address**: Why mathematical insight seems to require consciousness—extending the argument from reason to mathematical knowledge
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing mathematical understanding involves irreducible phenomenology
 
 #### The Limits of Functional Analysis
-- **Builds on**: [functionalism](/arguments/functionalism/), [substrate-independence](/concepts/substrate-independence/), [illusionism](/concepts/illusionism/)
+- **Builds on**: [functionalism](/concepts/functionalism/), [substrate-independence](/concepts/substrate-independence/), [illusionism](/concepts/illusionism/)
 - **Would address**: Systematic critique of functionalism as adequate theory of consciousness—why functional role doesn't capture what matters
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing functional description leaves out experience
@@ -155,12 +155,12 @@ This combination of philosophical rigor with appropriate humility about limits i
 | From | To | Reason |
 |------|-----|--------|
 | [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | [argument-from-reason](/topics/argument-from-reason/) | Understanding's phenomenology supports argument that grasping reasons requires consciousness |
-| [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) | Mathematical understanding as paradigm case |
+| [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) | Mathematical understanding as paradigm case |
 | [dreamless-sleep-void](/voids/dreamless-sleep-void/) | [personal-identity](/topics/personal-identity/) | Deep sleep challenges continuity accounts of identity |
 | [normative-void](/voids/normative-void/) | [meaning-of-life](/topics/meaning-of-life/) | Extends mysterianism to value questions |
 | [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) | [time-symmetric-physics](/concepts/time-symmetric-physics/) | Empirical claims connect to theoretical framework |
 | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | [motor-selection](/concepts/motor-selection/) | Choice phenomenology parallels motor selection phenomenology |
-| [volitional-opacity](/voids/volitional-opacity/) | [free-will](/concepts/free-will/) | Explains why willing's mechanism is hidden |
+| [volitional-opacity](/voids/volitional-opacity/) | [free-will](/topics/free-will/) | Explains why willing's mechanism is hidden |
 | [epistemic-emotions](/concepts/epistemic-emotions/) | [argument-from-reason](/topics/argument-from-reason/) | Emotions like certainty/doubt ground normative tracking |
 
 ## New Concept Pages Needed

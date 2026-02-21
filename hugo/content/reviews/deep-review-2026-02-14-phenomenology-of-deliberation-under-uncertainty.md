@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 
 - **Broken wikilink `[Counterfactual-reasoning](/concepts/counterfactual-reasoning/)`**: Capital C mismatch with actual file `counterfactual-reasoning.md`. Fixed to `[Counterfactual reasoning](/concepts/counterfactual-reasoning/)`.
-- **Archived link `[voluntary-attention](/voluntary-attention/)`**: File archived to `archive/concepts/voluntary-attention.md`, replaced by `attention-as-interface.md`. Fixed to `[attentional effort](/concepts/attention-as-interface/)`.
+- **Archived link `[voluntary-attention](/concepts/attention-as-interface/)`**: File archived to `archive/concepts/voluntary-attention.md`, replaced by `attention-as-interface.md`. Fixed to `[attentional effort](/concepts/attention-as-interface/)`.
 - **Kierkegaard attribution looseness**: "Leap of faith" phrasing oversimplified the pseudonymous *Fear and Trembling*. Rewritten to properly attribute through Johannes de Silentio and qualify the sphere (religious vs. mundane).
 - **Four uncited references**: James, Kahneman & Tversky, Gigerenzer, Dreyfus listed in References but never cited in text. Resolved by weaving Kahneman/Tversky, Gigerenzer, and Dreyfus into the new metacognitive monitoring engagement section. Replaced James with Simon (now cited for bounded rationality).
 - **Description too long (180 chars)**: Exceeded 150-160 char guideline. Shortened to 131 chars.
@@ -76,7 +76,7 @@ topics: []
 - [subjective-aim](/concepts/subjective-aim/) (frontmatter concepts, body text, Further Reading)
 - [temporal-thickness](/concepts/temporal-thickness/) (frontmatter concepts, body text, Further Reading)
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) (frontmatter related_articles, Further Reading)
-- [attention-as-interface](/concepts/attention-as-interface/) (replaced archived [voluntary-attention](/voluntary-attention/))
+- [attention-as-interface](/concepts/attention-as-interface/) (replaced archived [voluntary-attention](/concepts/attention-as-interface/))
 
 ## Remaining Items
 

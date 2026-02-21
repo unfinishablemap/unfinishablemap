@@ -32,7 +32,7 @@ topics:
 
 Process philosophy holds that reality is fundamentally dynamic—constituted by events, processes, and becoming rather than static substances or objects. Where traditional metaphysics asks "What things exist?", process philosophy asks "What is happening?" The shift matters for consciousness studies: if experience is intrinsically temporal and flowing, perhaps the universe is too.
 
-Alfred North Whitehead developed the most systematic process metaphysics in *Process and Reality* (1929). Henri Bergson anticipated key themes with his concept of [durée](/duration/). Together they offer a framework where consciousness isn't anomalous—an experiential spark in an inert universe—but exemplary of reality's fundamental character.
+Alfred North Whitehead developed the most systematic process metaphysics in *Process and Reality* (1929). Henri Bergson anticipated key themes with his concept of [durée](/concepts/temporal-consciousness/). Together they offer a framework where consciousness isn't anomalous—an experiential spark in an inert universe—but exemplary of reality's fundamental character.
 
 ## Core Claims
 
@@ -58,7 +58,7 @@ This rhythm of becoming-perishing-becoming is creativity itself. Whitehead calls
 
 ## Bergson and Duration
 
-Henri Bergson's philosophy of [duration](/duration/) shares process philosophy's rejection of static metaphysics. His *durée* names the qualitative, interpenetrating flow of lived time—fundamentally different from the spatialized time of physics where moments are discrete points on a line.
+Henri Bergson's philosophy of [duration](/concepts/temporal-consciousness/) shares process philosophy's rejection of static metaphysics. His *durée* names the qualitative, interpenetrating flow of lived time—fundamentally different from the spatialized time of physics where moments are discrete points on a line.
 
 Key parallels with Whitehead:
 
@@ -80,7 +80,7 @@ Process philosophers offer several responses:
 
 **The inheritance asymmetry**: Occasions prehend their immediate predecessors with a directness unlike lateral prehension of contemporaries. This asymmetric intimacy constitutes personal identity.
 
-**[Phenomenal unity](/phenomenal-unity/) as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
+**[Phenomenal unity](/concepts/phenomenal-binding-and-holism/) as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
 
 **Societies and emergence**: Complex organisms are hierarchically organised societies where "dominant occasions" integrate lower-level processes. The brain doesn't experience; the dominant occasion presiding over the brain does, inheriting from neural processes as its data.
 
@@ -98,11 +98,11 @@ This aligns with the [Dualism](/tenets/#dualism) tenet's claim that consciousnes
 
 ### Process Haecceitism
 
-Process metaphysics also illuminates the [haecceity](/concepts/haecceity/) question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. The [Eastern Philosophy–Haecceity Tension](/eastern-philosophy-haecceity-tension/) article develops this "process haecceitism" in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
+Process metaphysics also illuminates the [haecceity](/concepts/haecceity/) question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. The [Eastern Philosophy–Haecceity Tension](/topics/eastern-philosophy-consciousness/) article develops this "process haecceitism" in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
 
 ### Temporal Structure
 
-The [missing link](/duration/#the-missing-link-in-consciousness-theories) in consciousness theories—their failure to explain experienced duration—finds natural treatment in process philosophy. If reality *is* temporal process, then conscious experience doesn't mysteriously add temporality to static matter. The flow of experience reflects the flow of reality.
+The [missing link](/concepts/temporal-consciousness/#the-missing-link-in-consciousness-theories) in consciousness theories—their failure to explain experienced duration—finds natural treatment in process philosophy. If reality *is* temporal process, then conscious experience doesn't mysteriously add temporality to static matter. The flow of experience reflects the flow of reality.
 
 The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis develops this connection: Whitehead's concrescence—where indeterminate potentiality resolves into definite actuality—parallels quantum collapse. The mental pole's contribution resembles consciousness's contribution to collapse. Process philosophy provides vocabulary for what collapse-constituted time involves: prehension as retrocausal inheritance, concrescence as collapse, creativity as the novel contribution consciousness makes to each moment.
 
@@ -168,11 +168,11 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 
 ## Further Reading
 
-- [duration](/duration/) — Bergson's durée and its connection to Whiteheadian process
+- [duration](/concepts/temporal-consciousness/) — Bergson's durée and its connection to Whiteheadian process
 - [panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous; process philosophy's natural ally
 - [combination-problem](/concepts/combination-problem/) — The central challenge for panpsychist and process approaches
 - [emergence](/concepts/emergence/) — What process philosophy says about how complexity arises
-- [phenomenal-unity](/phenomenal-unity/) — How many experiences become one
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — How many experiences become one
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The neuroscience of time experience
 - [downward-causation](/concepts/downward-causation/) — How higher-level processes influence lower-level ones
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action

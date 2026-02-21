@@ -26,13 +26,13 @@ topics: []
 
 ### Topics (4)
 1. [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - Central to site's concerns ✓
-2. [free-will](/concepts/free-will/) - Connects to bidirectional interaction ✓ (NEW)
+2. [free-will](/topics/free-will/) - Connects to bidirectional interaction ✓ (NEW)
 3. [meaning-of-life](/topics/meaning-of-life/) - Philosophical implications ✓ (NEW)
 4. [ai-consciousness](/topics/ai-consciousness/) - Contemporary relevance ✓ (NEW)
 
 ### Concepts (9)
 1. [existentialism](/concepts/existentialism/) - Self-creation, authenticity ✓
-2. [nihilism](/nihilism/) - Meaninglessness, responses ✓
+2. [nihilism](/concepts/nihilism-and-existentialism/) - Meaninglessness, responses ✓
 3. [locality](/concepts/locality/) - Objection to mind-matter interaction ✓
 4. [simulation](/concepts/simulation/) - Hypothesis and implications ✓
 5. [qualia](/concepts/qualia/) - Subjective experience ✓
@@ -42,10 +42,10 @@ topics: []
 9. (concepts index exists but is sparse)
 
 ### Arguments (1)
-1. [materialism](/arguments/materialism/) - Case against physicalism ✓
+1. [materialism](/concepts/materialism/) - Case against physicalism ✓
 
 ### Questions (1)
-1. [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) - Open question ✓
+1. [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) - Open question ✓
 
 ### Research Notes (9)
 1. arguments-against-materialism-2026-01-06

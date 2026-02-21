@@ -48,14 +48,14 @@ None. The article is well-structured, has all required sections including "Relat
 - Proper use of named philosopher quotes (Fuchs)
 
 ### Enhancements Made
-- Added cross-link to [free-will](/concepts/free-will/) in MWI discussion, connecting indexical identity to agency
+- Added cross-link to [free-will](/topics/free-will/) in MWI discussion, connecting indexical identity to agency
 - Added cross-link to [process-philosophy](/concepts/process-philosophy/) in Map's Position section, noting resonance with actual occasions
 - Expanded MWI critique to engage with sophisticated defenses
 - Added decoherence timescale as concrete constraint
 - Clarified that QBism's agnosticism is intentional while maintaining it leaves a gap
 
 ### Cross-links Added
-- [free-will](/concepts/free-will/) — connected via indexical identity's relevance to agency
+- [free-will](/topics/free-will/) — connected via indexical identity's relevance to agency
 - [process-philosophy](/concepts/process-philosophy/) — connected via "grounding indexical facts" resonating with actual occasions
 
 ## Remaining Items

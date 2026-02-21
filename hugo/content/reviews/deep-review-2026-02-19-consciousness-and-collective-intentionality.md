@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken `[metarepresentation](/metarepresentation/)` wikilinks**: The concept page `obsidian/concepts/metarepresentation.md` does not exist. Two inline links pointed to it. **Resolution**: Replaced first occurrence with plain text "metarepresentational" plus parenthetical explanation linking to `[theory-of-mind](/concepts/theory-of-mind/)`; replaced second occurrence with plain text "metarepresentation" without wikilink.
+- **Broken `[metarepresentation](/concepts/metacognition/)` wikilinks**: The concept page `obsidian/concepts/metarepresentation.md` does not exist. Two inline links pointed to it. **Resolution**: Replaced first occurrence with plain text "metarepresentational" plus parenthetical explanation linking to `[theory-of-mind](/concepts/theory-of-mind/)`; replaced second occurrence with plain text "metarepresentation" without wikilink.
 
 ### Medium Issues Found
 - **Bratman's conditions inaccurately formulated**: The original text presented a hybrid of Bratman's three characterizing features of shared cooperative activity and his formal sufficient conditions for shared intention, as if they were a single formulation. **Resolution**: Corrected to present the three features (mutual responsiveness, commitment to joint activity, commitment to mutual support) followed by the formal conditions (interlocking intentions, meshing subplans).
@@ -63,7 +63,7 @@ topics: []
 - Corrected Bratman's characterisation to accurately reflect both features and formal conditions
 - Added functionalist engagement in normativity section with Map's reply
 - Added inline cross-link to `[consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)`
-- Fixed broken `[metarepresentation](/metarepresentation/)` links with appropriate alternatives
+- Fixed broken `[metarepresentation](/concepts/metacognition/)` links with appropriate alternatives
 - Cleaned up frontmatter (removed unused concept)
 
 ### Cross-links Added
@@ -78,4 +78,4 @@ None. All identified issues addressed.
 
 - The eliminative materialist objection (phenomenal intentionality thesis is assumed) is a bedrock disagreement: the Map commits to the phenomenal intentionality thesis as part of its framework. Future reviews should not flag this as a problem.
 - Functionalist objections to the normativity argument have now been engaged. The Map's response (functional accounts lose normative force) represents a philosophical position, not a knockdown argument. Future reviews should not re-flag this unless the engagement is actually inadequate.
-- The `[metarepresentation](/metarepresentation/)` concept page does not exist across the site (confirmed in earlier review of surprise-and-creativity). Multiple articles reference it. A dedicated concept page would resolve all these broken links — this is a site-wide issue, not specific to this article.
+- The `[metarepresentation](/concepts/metacognition/)` concept page does not exist across the site (confirmed in earlier review of surprise-and-creativity). Multiple articles reference it. A dedicated concept page would resolve all these broken links — this is a site-wide issue, not specific to this article.

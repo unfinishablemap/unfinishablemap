@@ -56,7 +56,7 @@ James's most famous contribution to psychology is his description of consciousne
 
 > "Consciousness, then, does not appear to itself chopped up in bits. Such words as 'chain' or 'train' do not describe it fitly as it presents itself in the first instance. It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described."
 
-This observation grounds [temporal phenomenology](/concepts/temporal-consciousness/) and the concept of the [specious-present](/specious-present/)—the experienced duration of the present moment, which James helped develop. Consciousness isn't a sequence of separate moments strung together—it's a continuous movement in which past, present, and anticipated future interpenetrate. Each moment contains "fringes" that shade off into what just was and what is about to be.
+This observation grounds [temporal phenomenology](/concepts/temporal-consciousness/) and the concept of the [specious-present](/concepts/temporal-consciousness/)—the experienced duration of the present moment, which James helped develop. Consciousness isn't a sequence of separate moments strung together—it's a continuous movement in which past, present, and anticipated future interpenetrate. Each moment contains "fringes" that shade off into what just was and what is about to be.
 
 ### Substantive and Transitive Parts
 
@@ -76,7 +76,7 @@ The fringe explains how understanding works temporally. When you hear a sentence
 
 ## Attention and the Will
 
-James devoted substantial [attention](/attention/) to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [Henry Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/).
+James devoted substantial [attention](/concepts/attention-as-interface/) to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [Henry Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/).
 
 ### Attention as Selection
 
@@ -186,7 +186,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [introspection](/concepts/introspection/) — Limits James identified, confirmed by contemporary research
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism of mind-matter interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Contemporary quantum approach to James's attention theory
-- [voluntary-attention](/voluntary-attention/) — The phenomenology of effortful attention
+- [voluntary-attention](/concepts/attention-as-interface/) — The phenomenology of effortful attention
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's development of Jamesian themes
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism as live option is epistemically responsible
 - [tenets](/tenets/) — The Map's foundational commitments

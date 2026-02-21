@@ -30,9 +30,9 @@ None. The article is well-structured, makes its arguments clearly, and avoids fa
 - **Buddhist perspective not in Further Reading**: The concept [buddhism-and-dualism](/concepts/buddhism-and-dualism/) was in the frontmatter but not in the reading list. Resolved by adding to Further Reading section.
 
 ### Counterarguments Considered
-- **Eliminativist dismissal**: The one-sentence treatment of eliminativism remains brief, but this is appropriate for a survey article—the claim that experience is evident is defensible and the [materialism](/arguments/materialism/) article provides fuller treatment.
+- **Eliminativist dismissal**: The one-sentence treatment of eliminativism remains brief, but this is appropriate for a survey article—the claim that experience is evident is defensible and the [materialism](/concepts/materialism/) article provides fuller treatment.
 - **Frankish-style strong illusionism**: The updated illusionism section now better articulates what illusionists must explain.
-- **Dennett's heterophenomenology**: Not directly addressed but referenced via [functionalism](/arguments/functionalism/) and [illusionism](/concepts/illusionism/) cross-links. This is a tenet-level disagreement rather than a flaw.
+- **Dennett's heterophenomenology**: Not directly addressed but referenced via [functionalism](/concepts/functionalism/) and [illusionism](/concepts/illusionism/) cross-links. This is a tenet-level disagreement rather than a flaw.
 
 ## Optimistic Analysis Summary
 

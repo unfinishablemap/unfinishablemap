@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Free Will and Determinism](/concepts/free-will/)
+**Article**: [Free Will and Determinism](/topics/free-will/)
 **Previous review**: [2026-01-31](/reviews/deep-review-2026-01-31-free-will/)
 **Context**: Review considering volitional opacity insights
 

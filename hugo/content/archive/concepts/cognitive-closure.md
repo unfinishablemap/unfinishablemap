@@ -10,7 +10,7 @@ author: null
 concepts:
 - '[[mysterianism]]'
 - '[[explanatory-gap]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 created: 2026-02-18
 date: &id001 2026-02-18
 description: 'McGinn''s cognitive closure thesis: certain properties lie permanently
@@ -116,7 +116,7 @@ This developmental perspective enriches the concept: cognitive closure is not on
 
 ## Relation to Site Perspective
 
-Cognitive closure connects to the Map's framework through the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. If human minds are cognitively closed with respect to the property linking consciousness to brain, then our intuitions about which explanations are "simpler" may be unreliable precisely where they matter most. The apparent simplicity of [materialism](/arguments/materialism/) might reflect cognitive limitation rather than ontological insight.
+Cognitive closure connects to the Map's framework through the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. If human minds are cognitively closed with respect to the property linking consciousness to brain, then our intuitions about which explanations are "simpler" may be unreliable precisely where they matter most. The apparent simplicity of [materialism](/concepts/materialism/) might reflect cognitive limitation rather than ontological insight.
 
 The Map goes further than McGinn in two ways. First, the Map commits to [dualism](/tenets/#dualism)—consciousness is irreducible—where McGinn remains officially neutral on ontology. Second, the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet asserts that consciousness causally influences the physical world, a commitment McGinn would consider exceeding cognitive warrant. The Map treats these as working commitments rather than proven claims, and cognitive closure explains why conclusive proof may never arrive.
 

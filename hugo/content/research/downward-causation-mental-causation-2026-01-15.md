@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[emergence]]'
 - '[[quantum-consciousness]]'
 created: 2026-01-15
@@ -22,7 +22,7 @@ related_articles:
 title: 'Research: Downward Causation and Mental Causation'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Research notes on the philosophical literature on downward causation and mental causation, focusing on Kim's causal exclusion argument, responses to it, and how The Unfinishable Map's quantum framework addresses these challenges.

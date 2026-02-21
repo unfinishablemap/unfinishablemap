@@ -37,7 +37,7 @@ None. The article was well-structured with all required sections, accurate claim
 
 ### Low Issues Addressed
 - Relationship between delegatory dualism and quantum mechanics now clarified (compatible but operates at different level; MWI rejection required)
-- Added links to [illusionism](/concepts/illusionism/) and [many-worlds](/arguments/many-worlds/) in concepts and Further Reading
+- Added links to [illusionism](/concepts/illusionism/) and [many-worlds](/concepts/many-worlds/) in concepts and Further Reading
 
 ### Counterarguments Considered
 1. **Illusionist response**: Self-models generate reports without phenomenal causation
@@ -59,12 +59,12 @@ None. The article was well-structured with all required sections, accurate claim
 2. Added new objection/response on MWI dependency
 3. Added No Many-Worlds tenet connection in Relation to Site Perspective
 4. Added Testability subsection
-5. Expanded Further Reading with [illusionism](/concepts/illusionism/) and [many-worlds](/arguments/many-worlds/)
+5. Expanded Further Reading with [illusionism](/concepts/illusionism/) and [many-worlds](/concepts/many-worlds/)
 6. Added illusionism and many-worlds to concepts list
 
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/)
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 
 ## Word Count
 - Before: 1923 words (64% of threshold)

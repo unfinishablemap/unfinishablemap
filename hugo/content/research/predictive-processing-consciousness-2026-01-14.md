@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[global-workspace-theory]]'
 - '[[attention]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 draft: false

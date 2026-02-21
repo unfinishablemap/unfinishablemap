@@ -33,7 +33,7 @@ None.
 
 ### Low Issues Found
 - **Falsifiability section**: Sets up four challenges then immediately argues they can't be met, which could read as immunizing the position. Deferred — the section is philosophically honest and serves its purpose.
-- **Frontmatter reference to `[phenomenal-unity](/phenomenal-unity/)`**: No standalone article exists. Resolution: Changed to `[why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/)`.
+- **Frontmatter reference to `[phenomenal-unity](/concepts/phenomenal-binding-and-holism/)`**: No standalone article exists. Resolution: Changed to `[why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/)`.
 
 ### Counterarguments Considered
 - Eliminative materialist: Ownership may be folk-psychological concept dissolved by mature neuroscience → Article addresses this implicitly through illusionism discussion

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Subjective Probability Quantum Measurement](/subjective-probability-quantum-measurement/)
+**Article**: [Subjective Probability Quantum Measurement](/concepts/quantum-probability-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -70,7 +70,7 @@ topics: []
 
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Henry Stapp's quantum Zeno mechanism
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge
-- [free-will](/concepts/free-will/) — How quantum selection relates to agent causation
+- [free-will](/topics/free-will/) — How quantum selection relates to agent causation
 
 ## Word Count
 

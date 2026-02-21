@@ -37,7 +37,7 @@ topics: []
 
 - **T&K 1971 quote truncated without ellipsis**: Added ellipsis to indicate truncation.
 - **"200,000 years" outdated**: Updated to "300,000 years" per current evidence (Jebel Irhoud fossils, ~315,000 years).
-- **Missing cross-links**: Added links to [cognitive-closure](/cognitive-closure/), [qualia](/concepts/qualia/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [convergent-cognitive-limits](/voids/convergent-cognitive-limits/), and [developmental-cognitive-closure](/voids/developmental-cognitive-closure/).
+- **Missing cross-links**: Added links to [cognitive-closure](/concepts/mysterianism/), [qualia](/concepts/qualia/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [convergent-cognitive-limits](/voids/convergent-cognitive-limits/), and [developmental-cognitive-closure](/voids/developmental-cognitive-closure/).
 - **"Bird flocks" claim unattributed**: Removed unattributed claim; replaced with formal error management theory framework.
 
 ### Counterarguments Considered
@@ -58,7 +58,7 @@ topics: []
 
 ### Enhancements Made
 
-- Added cross-link to [cognitive-closure](/cognitive-closure/) (replacing generic [mysterianism](/concepts/mysterianism/) link in body) — the article was discussing McGinn's closure framework but linking to the wrong concept page
+- Added cross-link to [cognitive-closure](/concepts/mysterianism/) (replacing generic [mysterianism](/concepts/mysterianism/) link in body) — the article was discussing McGinn's closure framework but linking to the wrong concept page
 - Added cross-link to [qualia](/concepts/qualia/) in the "absent qualia" passage
 - Added cross-link to [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) with connecting sentence about how the probability void instantiates the hard problem
 - Expanded Further Reading with cognitive-closure, convergent-cognitive-limits, developmental-cognitive-closure
@@ -67,7 +67,7 @@ topics: []
 
 ### Cross-links Added
 
-- [cognitive-closure](/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 - [qualia](/concepts/qualia/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [convergent-cognitive-limits](/voids/convergent-cognitive-limits/)

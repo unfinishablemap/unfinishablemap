@@ -11,7 +11,7 @@ concepts:
 - '[[voluntary-attention]]'
 - '[[argument-from-reason]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[quantum-consciousness]]'
@@ -34,10 +34,10 @@ related_articles:
 title: Bidirectional Interaction
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-Bidirectional interaction is the claim that consciousness and the physical world causally influence each other—that information flows both ways across the mind-body boundary. Physical brain states shape conscious experience, and conscious states shape physical brain states. This distinguishes [interactionist-dualism](/concepts/interactionist-dualism/) from [epiphenomenalism](/arguments/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
+Bidirectional interaction is the claim that consciousness and the physical world causally influence each other—that information flows both ways across the mind-body boundary. Physical brain states shape conscious experience, and conscious states shape physical brain states. This distinguishes [interactionist-dualism](/concepts/interactionist-dualism/) from [epiphenomenalism](/concepts/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
 
 Bidirectional Interaction is one of The Unfinishable Map's five foundational [tenets](/tenets/). Combined with the [Dualism](/tenets/#dualism) tenet (consciousness is irreducible) and the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet (consciousness acts at quantum indeterminacies), it commits the Map to a specific form of interactionist dualism.
 
@@ -49,7 +49,7 @@ This seemingly simple observation has radical implications. It means consciousne
 
 ## The Self-Stultification Argument
 
-The strongest positive case for bidirectional interaction comes from examining the alternative. [Epiphenomenalism](/arguments/epiphenomenalism/) holds that consciousness is real but causally inert—physical brain states cause conscious experiences, but those experiences cause nothing in return. This faces a devastating objection: if consciousness causes nothing, how can we know anything about consciousness?
+The strongest positive case for bidirectional interaction comes from examining the alternative. [epiphenomenalism](/concepts/epiphenomenalism/) holds that consciousness is real but causally inert—physical brain states cause conscious experiences, but those experiences cause nothing in return. This faces a devastating objection: if consciousness causes nothing, how can we know anything about consciousness?
 
 Consider the statement "phenomenal consciousness exists." If epiphenomenalism is true:
 
@@ -81,7 +81,7 @@ Two concrete mechanisms have been proposed:
 
 All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. The specific [coupling mode](/concepts/coupling-modes/)—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
-For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-coupling](/psychophysical-coupling/). The attention mechanism is currently the most developed, with [voluntary-attention](/voluntary-attention/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
+For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-coupling](/concepts/psychophysical-laws/). The attention mechanism is currently the most developed, with [voluntary-attention](/concepts/attention-as-interface/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 
 ### The Timing Challenge
 
@@ -140,14 +140,14 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 
 ## Further Reading
 
-- [psychophysical-coupling](/psychophysical-coupling/) — Specification of how phenomenal properties map to physical parameters
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Specification of how phenomenal properties map to physical parameters
 - [coupling-modes](/concepts/coupling-modes/) — Three ways consciousness might influence quantum outcomes: basis, timing, or probability control
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [argument-from-reason](/topics/argument-from-reason/) — Complementary self-defeat argument targeting physicalism
-- [voluntary-attention](/voluntary-attention/) — The attention interface with neural evidence
+- [voluntary-attention](/concepts/attention-as-interface/) — The attention interface with neural evidence
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Comprehensive treatment of the philosophical framework
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view this tenet rejects
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view this tenet rejects
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how mind causes anything
 - [causal-closure](/concepts/causal-closure/) — The closure objection and its limits
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail

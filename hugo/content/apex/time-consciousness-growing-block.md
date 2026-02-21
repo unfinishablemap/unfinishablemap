@@ -42,7 +42,7 @@ related_articles:
 title: Time, Consciousness, and the Growing Block
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Consciousness and time depend on each other in ways that traditional philosophy has underexplored. One direction is familiar: consciousness requires temporal structure. Experience flows; moments connect; the present has duration. Without the specious present—the 100 to 750 milliseconds within which we hear melodies as melodies and understand sentences as wholes—there would be no experience at all. But The Unfinishable Map explores a more radical possibility: time may require consciousness. The arrow distinguishing past from future may emerge through consciousness-involving collapse rather than preceding it. If so, consciousness doesn't merely occur within time; it helps constitute the temporal structure within which it operates.
@@ -61,9 +61,9 @@ Edmund Husserl's phenomenological analysis revealed the structure underlying thi
 
 These form an inseparable unity. The note you're hearing now carries the just-passed notes in retention while already reaching toward the next. This tripartite structure makes meaning possible: you can't understand a sentence if each word evaporates before the next arrives.
 
-Henri Bergson went further with his concept of [durée](/duration/). Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
+Henri Bergson went further with his concept of [durée](/concepts/temporal-consciousness/). Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
 
-Duration cannot be measured because it cannot be divided without destroying what it is. Cut a melody into separate notes and you have frequencies, not music. This irreducibility matters. As [Kent and Wittmann argue](/time-perception-consciousness-theories/) in their 2021 analysis, major consciousness theories focus on "functional moments" of 100-300 milliseconds while experienced time extends to seconds. The gap between what theories explain and what consciousness involves may not be a temporary limitation but evidence of something that functional accounts cannot capture.
+Duration cannot be measured because it cannot be divided without destroying what it is. Cut a melody into separate notes and you have frequencies, not music. This irreducibility matters. As [Kent and Wittmann argue](/topics/temporal-structure-of-consciousness/) in their 2021 analysis, major consciousness theories focus on "functional moments" of 100-300 milliseconds while experienced time extends to seconds. The gap between what theories explain and what consciousness involves may not be a temporary limitation but evidence of something that functional accounts cannot capture.
 
 ## Time's Arrow and Collapse
 
@@ -127,7 +127,7 @@ This doesn't prove dualism. But it suggests that the relationship between consci
 
 ## Free Will Reconsidered
 
-The temporal framework reshapes the [free will debate](/concepts/free-will/). If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [Agent causation](/concepts/agent-causation/) isn't action within pre-existing time but participation in time's constitution.
+The temporal framework reshapes the [free will debate](/topics/free-will/). If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [Agent causation](/concepts/agent-causation/) isn't action within pre-existing time but participation in time's constitution.
 
 The Libet objection loses force. If selection is atemporal, it needn't temporally precede neural activity. The neural activity "preceding" awareness and the awareness itself are both parts of the selected transaction. The apparent temporal gap between readiness potential and conscious decision reflects our perspective from within the selected transaction, not evidence that consciousness arrives too late to matter.
 
@@ -177,14 +177,14 @@ This synthesis connects to all five of The Unfinishable Map's [tenets](/tenets/)
 
 This synthesis draws from:
 
-- [Philosophy of Time and Consciousness](/philosophy-of-time-and-consciousness/) — The bidirectional dependence between time and consciousness
+- [Philosophy of Time and Consciousness](/topics/temporal-structure-of-consciousness/) — The bidirectional dependence between time and consciousness
 - [Time, Collapse, and Agency](/topics/time-collapse-and-agency/) — How collapse introduces temporal direction and enables agency
-- [Time Perception and Consciousness Theories](/time-perception-consciousness-theories/) — The gap between functional moments and experienced duration
+- [Time Perception and Consciousness Theories](/topics/temporal-structure-of-consciousness/) — The gap between functional moments and experienced duration
 - [Time-Symmetric Selection Mechanism](/topics/time-symmetric-selection-mechanism/) — How atemporal selection resolves the Libet problem
 - [Temporal Consciousness](/concepts/temporal-consciousness/) — The specious present, temporal binding, and AI implications
-- [Duration (Durée)](/duration/) — Bergson's qualitative time and its irreducibility
+- [Duration (Durée)](/concepts/temporal-consciousness/) — Bergson's qualitative time and its irreducibility
 - [Collapse and Time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [Specious Present](/specious-present/) — The experienced duration of the present moment
+- [Specious Present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [Philosophy of Time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
 
 ## References

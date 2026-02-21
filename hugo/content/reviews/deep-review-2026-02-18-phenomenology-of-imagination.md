@@ -78,14 +78,14 @@ topics: []
 
 Body text:
 - [emotional-consciousness](/topics/emotional-consciousness/) — in the emotional reality section
-- [free-will](/concepts/free-will/) — in counterfactual inhabitation
+- [free-will](/topics/free-will/) — in counterfactual inhabitation
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — open alternatives for deliberation
 - [creativity-void](/voids/creativity-void/) — generative mystery of imagination
 - [mysterianism](/concepts/mysterianism/) — opacity of imaginative construction
 - [explanatory-gap](/concepts/explanatory-gap/) — indeterminate phenomenal states vs. determinate neural states
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — imaginative effort
 - [agent-causation](/concepts/agent-causation/) — mental causation through imagination
-- [functionalism](/arguments/functionalism/) — now wikilinked in body
+- [functionalism](/concepts/functionalism/) — now wikilinked in body
 
 Further Reading:
 - [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/)

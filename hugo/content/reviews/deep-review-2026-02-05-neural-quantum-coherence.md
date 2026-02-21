@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Neural Quantum Coherence](/neural-quantum-coherence/)
+**Article**: [Neural Quantum Coherence](/concepts/quantum-coherence-in-neural-systems/)
 **Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-neural-quantum-coherence/)
 
 ## Pessimistic Analysis Summary
@@ -64,7 +64,7 @@ All attributions verified:
 - Added epiphenomenalism to concepts frontmatter
 
 ### Cross-links Added
-- [epiphenomenalism](/arguments/epiphenomenalism/) (new concept link in text and frontmatter)
+- [epiphenomenalism](/concepts/epiphenomenalism/) (new concept link in text and frontmatter)
 
 ## Word Count
 - Before: 1932 words

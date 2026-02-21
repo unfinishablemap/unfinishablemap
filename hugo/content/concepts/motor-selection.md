@@ -41,7 +41,7 @@ related_articles:
 - '[[dopamine-attention-motor-quantum-interface-2026-01-24]]'
 title: Motor Selection and the Attention-Motor Interface
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -154,7 +154,7 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-Research on [voluntary-attention](/voluntary-attention/) (Bengson 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
+Research on [voluntary-attention](/concepts/attention-as-interface/) (Bengson 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
 
 Both willed attention and willed motor action take approximately 300ms to deploy—versus ~100ms for automatic responses. This matching supports unified mechanism: if attention and motor selection were independent systems, why would they share the same timeline? In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
 
@@ -177,7 +177,7 @@ This explains the common phenomenology. Sustaining motor intention feels effortf
 
 ### Decoherence Considerations
 
-The [decoherence](/concepts/decoherence/) addresses the standard challenge—rapid decoherence in warm brains. Corrected calculations for biological conditions (Hameroff 2014) yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's estimates—allowing roughly 1000 quantum cycles within a single motor commitment event. Additionally, the [post-decoherence selection response](/psychophysical-coupling-mechanisms/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
+The [decoherence](/concepts/decoherence/) addresses the standard challenge—rapid decoherence in warm brains. Corrected calculations for biological conditions (Hameroff 2014) yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's estimates—allowing roughly 1000 quantum cycles within a single motor commitment event. Additionally, the [post-decoherence selection response](/concepts/psychophysical-coupling/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
 
 ## The Phenomenology of Motor Choice
 
@@ -224,14 +224,14 @@ This framework identifies *where* consciousness might influence motor selection�
 ## Further Reading
 
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
-- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the unified attention-motor system for conscious selection
 - [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and responses
-- [free-will](/concepts/free-will/) — The topic page on free will and determinism
+- [free-will](/topics/free-will/) — The topic page on free will and determinism
 
 ## References
 

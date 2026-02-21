@@ -60,14 +60,14 @@ None. The article has reached stability after previous reviews. No factual error
 
 ### Enhancements Made
 
-1. Added cross-link to [consciousness-as-intelligence-amplifier](/consciousness-as-intelligence-amplifier/) in frontmatter
+1. Added cross-link to [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) in frontmatter
 2. Added inline reference in "Consciousness and the Human-Ape Intelligence Gap" section directing readers to the comprehensive treatment
-3. Added [consciousness-as-intelligence-amplifier](/consciousness-as-intelligence-amplifier/) to Further Reading under "Consciousness and Intelligence" subsection
+3. Added [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) to Further Reading under "Consciousness and Intelligence" subsection
 4. Added decoherence caveat to quantum section
 
 ### Cross-links Added
 
-- [consciousness-as-intelligence-amplifier](/consciousness-as-intelligence-amplifier/) (new article from cross-review context)
+- [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) (new article from cross-review context)
 
 ## Remaining Items
 

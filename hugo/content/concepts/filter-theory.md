@@ -47,7 +47,7 @@ Both interpretations explain basic neuroscience findings:
 - Anesthetics abolish consciousness → disrupted interface prevents consciousness from manifesting
 - Neural correlates predict conscious states → interface configuration determines what aspects of consciousness manifest
 
-The difference appears metaphysical rather than empirical. Yet filter theory does organize expectations differently: it predicts that disrupting the brain could sometimes *enhance* experience (when constraints loosen), whereas production models predict only degradation or alteration. The [evidence section below](//#evidence-supporting-filter-theory) examines cases where this distinction matters.
+The difference appears metaphysical rather than empirical. Yet filter theory does organize expectations differently: it predicts that disrupting the brain could sometimes *enhance* experience (when constraints loosen), whereas production models predict only degradation or alteration. The [evidence section below](#evidence-supporting-filter-theory) examines cases where this distinction matters.
 
 Filter theory denies that correlation establishes identity, using the radio analogy: damaging a radio's circuitry produces specific reception deficits—static on certain frequencies, loss of bass, complete silence—but this doesn't prove the radio *produces* the broadcast. The broadcast originates elsewhere; the radio *receives* it.
 
@@ -141,7 +141,7 @@ The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises 
 
 The slime mold case is more puzzling. *Physarum polycephalum* solves mazes, optimizes networks, and displays [habituation](/voids/habituation-void/)—all without neurons. If filter theory requires neural interfaces, slime mold cognition should be impossible. The resolution: cognition and consciousness may fully dissociate. Slime molds may process information without providing any interface for phenomenal experience. Their behaviors are adaptive responses, not conscious choices. This preserves filter theory while acknowledging that information processing doesn't require consciousness.
 
-This has implications for the [brain-specialness](/brain-specialness/) question. Not just *any* complex system serves as a consciousness interface—the brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
+This has implications for the [brain-specialness](/concepts/brain-interface-boundary/) question. Not just *any* complex system serves as a consciousness interface—the brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
 
 ## The Rendering Engine Analogy
 
@@ -167,7 +167,7 @@ This is a fair challenge. How does non-physical consciousness interface with phy
 
 ### "Why brains specifically?"
 
-If consciousness transmits through physical interfaces, why are brains suitable interfaces while rocks are not? The [brain-specialness](/brain-specialness/) article identifies five criteria that an interface requires: quantum sensitivity (functionally relevant quantum effects), representational structure (encoding alternatives), attention mechanisms (directed focus), feedback integration (outcome evaluation), and developmental history (co-construction). Brains evolved under selection pressure to meet all five criteria; most physical systems meet none. This explains the specificity of brain-consciousness correlation without reducing consciousness to brain activity.
+If consciousness transmits through physical interfaces, why are brains suitable interfaces while rocks are not? The [brain-specialness](/concepts/brain-interface-boundary/) article identifies five criteria that an interface requires: quantum sensitivity (functionally relevant quantum effects), representational structure (encoding alternatives), attention mechanisms (directed focus), feedback integration (outcome evaluation), and developmental history (co-construction). Brains evolved under selection pressure to meet all five criteria; most physical systems meet none. This explains the specificity of brain-consciousness correlation without reducing consciousness to brain activity.
 
 ### "Isn't 'filtering' just a metaphor?"
 
@@ -235,7 +235,7 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist parallels and meditation as filter reduction
 - [mysterianism](/concepts/mysterianism/) — Compatibility with cognitive closure
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Psychedelics, flow, and interface configurations
-- [brain-specialness](/brain-specialness/) — Why brains specifically serve as interfaces
+- [brain-specialness](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia and covert consciousness
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise

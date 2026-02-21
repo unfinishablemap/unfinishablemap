@@ -71,7 +71,7 @@ Yet convergent evolution doesn't guarantee identical mechanisms. Birds and bats 
 
 Octopus consciousness presents the most striking case for potential interface heterogeneity. The octopus nervous system distributes two-thirds of its neurons in the arms, which exhibit semi-autonomous behaviour. An octopus arm can solve simple problems even when severed. This raises the question: does cephalopod consciousness have a distributed interface, with multiple localised coupling points rather than a single unified interface?
 
-For the Map, this connects to [interface-locality](/interface-locality/)—the question of why consciousness selects only within its own brain. If the interface is spatially local, cephalopod architecture might support multiple interface points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified interface.
+For the Map, this connects to [interface-locality](/concepts/brain-interface-boundary/)—the question of why consciousness selects only within its own brain. If the interface is spatially local, cephalopod architecture might support multiple interface points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified interface.
 
 The phenomenology—what it is like to be an octopus—remains inaccessible. We cannot determine from behaviour alone whether cephalopod experience is unified or fragmented, let alone whether its interface differs from vertebrate consciousness.
 
@@ -198,7 +198,7 @@ Several findings would constrain the interface heterogeneity question:
 ### Interface Mechanisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR, Stapp's Zeno effect, Fisher's hypothesis
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter coupling
-- [interface-locality](/interface-locality/) — Why consciousness selects only within its own brain
+- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain
 
 ### Types of Consciousness
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence and the Panksepp-LeDoux debate
@@ -207,7 +207,7 @@ Several findings would constrain the interface heterogeneity question:
 
 ### Theoretical Frameworks
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — What consciousness adds to baseline cognition
-- [phenomenal-unity](/phenomenal-unity/) — The binding of experience into unified wholes
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure on consciousness-matter coupling
 
 ## References

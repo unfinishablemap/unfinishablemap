@@ -17,7 +17,7 @@ concepts:
 - '[[decoherence]]'
 - '[[haecceity]]'
 - '[[mysterianism]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 created: 2026-01-18
 date: &id001 2026-01-20
 description: Awareness that observes mental contents without identifying with them.
@@ -35,7 +35,7 @@ related_articles:
 title: Witness Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Witness consciousness—Sanskrit *sakshi*, the "seer" or "observer"—refers to a mode of awareness that observes mental contents without identifying with them. Thoughts, sensations, and emotions arise and pass; the witness remains unchanged, a pure awareness that perceives without participating. This concept, central to Advaita Vedanta and other contemplative traditions, carries significant implications for understanding the subject-object structure of consciousness and supports The Unfinishable Map's [dualist](/tenets/#dualism) position.
@@ -150,7 +150,7 @@ The Map's position would face serious difficulty if: (1) contemplative tradition
 
 **The Regress Objection**: If the witness observes thoughts, what observes the witness? *Response*: The witness is self-luminous (*svayam-prakasha*)—it is the knowing itself. Just as light illuminates without needing a second light, awareness is aware without requiring awareness of that awareness.
 
-**The Epiphenomenalism Worry**: If the witness only observes, isn't it causally inert? *Response*: The witness mode is one mode among others. Consciousness can witness without intervening, but it need not always do so. Neither mode alone exhausts what consciousness is. Indeed, the capacity to refrain from acting—to witness rather than select—is itself significant for [libertarian free will](/concepts/free-will/). The ability to hold back, to observe without intervention, is as important to genuine agency as the ability to initiate action.
+**The Epiphenomenalism Worry**: If the witness only observes, isn't it causally inert? *Response*: The witness mode is one mode among others. Consciousness can witness without intervening, but it need not always do so. Neither mode alone exhausts what consciousness is. Indeed, the capacity to refrain from acting—to witness rather than select—is itself significant for [libertarian free will](/topics/free-will/). The ability to hold back, to observe without intervention, is as important to genuine agency as the ability to initiate action.
 
 **The Reification Concern**: Making the witness an identity recreates the ego. *Response*: The distinction is between *being* a witness and *identifying as* a witness. Witness consciousness is not identity but structure—the irreducible subject-side of experience.
 

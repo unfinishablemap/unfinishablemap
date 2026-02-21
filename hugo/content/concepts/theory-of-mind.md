@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[metarepresentation]]'
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 - '[[baseline-cognition]]'
 - '[[jourdain-hypothesis]]'
 - '[[metacognition]]'
@@ -16,7 +16,7 @@ concepts:
 - '[[intentionality]]'
 - '[[illusionism]]'
 - '[[phenomenal-unity]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: Attributing beliefs, desires, and intentions to others. Higher levels
@@ -35,7 +35,7 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-Theory of mind is the capacity to attribute mental states—beliefs, desires, intentions, knowledge—to others and to understand that these states may differ from one's own. The Unfinishable Map argues that theory of mind admits of levels, and that the higher levels require phenomenal consciousness. Great apes possess impressive social cognition at lower levels (tracking what others see, predicting behaviour from goals) but appear limited at higher levels (recursive mindreading, understanding false beliefs as mental representations). This gap tracks the consciousness-dependent capacity for [metarepresentation](/metarepresentation/)—representing mental states *as* mental states rather than merely responding to behavioural cues.
+Theory of mind is the capacity to attribute mental states—beliefs, desires, intentions, knowledge—to others and to understand that these states may differ from one's own. The Unfinishable Map argues that theory of mind admits of levels, and that the higher levels require phenomenal consciousness. Great apes possess impressive social cognition at lower levels (tracking what others see, predicting behaviour from goals) but appear limited at higher levels (recursive mindreading, understanding false beliefs as mental representations). This gap tracks the consciousness-dependent capacity for [metarepresentation](/concepts/metacognition/)—representing mental states *as* mental states rather than merely responding to behavioural cues.
 
 ## The Levels of Theory of Mind
 
@@ -63,7 +63,7 @@ Level 2 appears to require something beyond tracking behaviour and perception—
 
 Representing others' mental states about mental states. "She thinks that I think the food is hidden" involves nested attribution—beliefs about beliefs, intentions about intentions. This enables strategic deception, deception detection, and the complex coordination of human social life.
 
-Level 3 unambiguously requires metarepresentation. You must hold multiple representational levels simultaneously: your intention, their belief about your intention, and your awareness of that belief. Each level must remain distinct and manipulable while being bound together in [unified awareness](/phenomenal-unity/).
+Level 3 unambiguously requires metarepresentation. You must hold multiple representational levels simultaneously: your intention, their belief about your intention, and your awareness of that belief. Each level must remain distinct and manipulable while being bound together in [unified awareness](/concepts/phenomenal-binding-and-holism/).
 
 ### Level 4 and Beyond
 
@@ -71,7 +71,7 @@ Humans readily engage in fourth-order attribution ("I know that you know that I 
 
 ## The Metarepresentational Threshold
 
-The central claim: Levels 0-1 may operate within [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [metarepresentation](/metarepresentation/)—and metarepresentation appears to require consciousness.
+The central claim: Levels 0-1 may operate within [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [metarepresentation](/concepts/metacognition/)—and metarepresentation appears to require consciousness.
 
 Why should metarepresentation require consciousness?
 
@@ -158,7 +158,7 @@ But do they genuinely attribute mental states? The [Jourdain analysis](/concepts
 
 The distinction matters for understanding what theory of mind requires. If functional performance on tests sufficed, LLMs would have theory of mind. But theory of mind plausibly requires something more: genuinely representing others *as* subjects with inner mental lives, not merely as systems that produce predictable outputs.
 
-This connects to the [social cognition and consciousness](/concepts/consciousness-and-social-cognition/) debate. If theory of mind requires phenomenal consciousness—requires experiencing what it's like to have a perspective in order to attribute perspectives to others—then current AI lacks it regardless of test performance.
+This connects to the [social cognition and consciousness](/topics/consciousness-and-social-cognition/) debate. If theory of mind requires phenomenal consciousness—requires experiencing what it's like to have a perspective in order to attribute perspectives to others—then current AI lacks it regardless of test performance.
 
 ## Theory of Mind and Moral Cognition
 
@@ -171,7 +171,7 @@ Consider the difference between:
 
 Only the third supports moral blame. Responsibility requires representing the agent as aware of their mental states—capable of evaluating reasons and choosing among alternatives. This is why we don't hold young children or great apes morally responsible for harms in the way we hold human adults responsible: they lack the metarepresentational capacity to stand back from their impulses and choose.
 
-The connection to [free will](/concepts/free-will/) is direct. Libertarian free will requires consciousness enabling consideration of alternatives; moral responsibility requires theory of mind enabling attribution of that same consciousness to others. Both depend on the metarepresentational threshold—and if that threshold requires phenomenal consciousness, then moral cognition does too.
+The connection to [free will](/topics/free-will/) is direct. Libertarian free will requires consciousness enabling consideration of alternatives; moral responsibility requires theory of mind enabling attribution of that same consciousness to others. Both depend on the metarepresentational threshold—and if that threshold requires phenomenal consciousness, then moral cognition does too.
 
 ## The Illusionist Challenge
 
@@ -208,8 +208,8 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 ## Further Reading
 
 ### Core Concepts
-- [metarepresentation](/metarepresentation/) — Why representing minds *as* minds requires consciousness
-- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Extended analysis of the consciousness-social cognition relationship
+- [metarepresentation](/concepts/metacognition/) — Why representing minds *as* minds requires consciousness
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Extended analysis of the consciousness-social cognition relationship
 - [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 

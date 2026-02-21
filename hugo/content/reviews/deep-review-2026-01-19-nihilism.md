@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-19
-**Article**: [Nihilism](/nihilism/)
+**Article**: [Nihilism](/concepts/nihilism-and-existentialism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -78,9 +78,9 @@ None. The article was well-structured and philosophically sound.
 
 - [meaning-of-life](/topics/meaning-of-life/) - Added to topics and Further Reading
 - [qualia](/concepts/qualia/) - Added to concepts and in-text
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - Added to concepts, in-text, and Further Reading
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) - Added to concepts, in-text, and Further Reading
 - [moral-responsibility](/concepts/moral-responsibility/) - Added to concepts and in-text
-- [free-will](/concepts/free-will/) - Added to concepts, in-text, and Further Reading
+- [free-will](/topics/free-will/) - Added to concepts, in-text, and Further Reading
 - [mysterianism](/concepts/mysterianism/) - Added to concepts and in-text
 - [emergence](/concepts/emergence/) - Added in-text connection
 

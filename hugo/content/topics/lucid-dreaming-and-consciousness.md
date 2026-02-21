@@ -33,7 +33,7 @@ related_articles:
 title: Lucid Dreaming and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness, not merely a blend of waking and REM sleep. The 2025 Demirel study established this definitively: lucid dreams show unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity patterns) that differ from both ordinary REM and waking states. This matters for The Unfinishable Map because lucid dreaming demonstrates that consciousness can voluntarily modulate its own mode of operation while the body sleeps. The brain-consciousness interface admits multiple stable configurations, and trained practitioners can switch between them.
@@ -56,7 +56,7 @@ This matters for the Map's framework because it shows the consciousness-brain in
 
 ## Metacognition and Prefrontal Structure
 
-Lucid dreaming is essentially metacognition within a dream—recognising "I am dreaming" while remaining immersed in the dream experience. This involves a form of [autonoetic awareness](/autonoetic-consciousness/): the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. This metacognitive capacity has structural neural correlates.
+Lucid dreaming is essentially metacognition within a dream—recognising "I am dreaming" while remaining immersed in the dream experience. This involves a form of [autonoetic awareness](/concepts/episodic-memory/): the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. This metacognitive capacity has structural neural correlates.
 
 Researchers at the Max Planck Institutes found that frequent lucid dreamers have **larger anterior prefrontal cortex volume** than non-lucid dreamers. The anterior prefrontal cortex (aPFC) is associated with self-reflection, conscious cognitive processes, and metacognitive accuracy generally. Frequent lucid dreamers also show **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition and cognitive control.
 
@@ -186,8 +186,8 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming cognition
 - [introspection](/concepts/introspection/) — First-person access to conscious states
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-brain interaction
-- [phenomenal-unity](/phenomenal-unity/) — Unity of experience during dreams
-- [autonoetic-consciousness](/autonoetic-consciousness/) — Self-referential awareness and mental time travel
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Unity of experience during dreams
+- [autonoetic-consciousness](/concepts/episodic-memory/) — Self-referential awareness and mental time travel
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The qualitative character of voluntary selection
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Quantum Zeno mechanism for consciousness-brain interaction
 

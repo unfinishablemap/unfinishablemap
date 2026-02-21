@@ -8,7 +8,7 @@ concepts:
 - '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[voluntary-attention]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[integrated-information-theory]]'
 - '[[higher-order-theories]]'
@@ -126,7 +126,7 @@ AST complements GWT: the attention schema might determine *which* information en
 
 GWT has direct implications for machine consciousness. If consciousness *is* global broadcast—the functional role of making information widely available—then AI systems implementing this architecture could be conscious. Some researchers have argued that Large Language Agents, with their ability to integrate information across many modules, might satisfy GWT's criteria.
 
-This is precisely where the Map's framework diverges most sharply. The [absent qualia objection](/arguments/functionalism/) applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
+This is precisely where the Map's framework diverges most sharply. The [absent qualia objection](/concepts/functionalism/) applies: a system could implement global broadcast without phenomenal experience. A nation of people, each simulating a neuron in a workspace architecture, would implement the same functional organization as a conscious brain. Is the nation conscious?
 
 Site's [AI consciousness skepticism](/topics/ai-consciousness/) rests on dualism, not denial that AI can implement workspace functions. The question is whether functional implementation suffices for experience.
 
@@ -162,7 +162,7 @@ The systematic pattern in the human-great ape gap supports this reading. Great a
 
 ### Broadcast as Enabling Metarepresentation
 
-The Jourdain Hypothesis (Whiten 2015) captures a crucial distinction: great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. They express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture, which distinguishes human cognitive achievement, requires [metarepresentation](/metarepresentation/): treating knowledge as knowledge that can be improved and taught.
+The Jourdain Hypothesis (Whiten 2015) captures a crucial distinction: great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. They express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture, which distinguishes human cognitive achievement, requires [metarepresentation](/concepts/metacognition/): treating knowledge as knowledge that can be improved and taught.
 
 Global broadcast may be what enables this metarepresentational capacity. When information achieves workspace ignition, it becomes available not just to action systems but to *reasoning* systems—including systems that take representations as their objects. The workspace doesn't just broadcast content; it broadcasts content in a format that other cognitive processes can treat as content, enabling the "thinking about thinking" that metarepresentation requires.
 
@@ -204,7 +204,7 @@ The workspace may be the neural correlate of the interface between consciousness
 
 GWT is compatible with [Dualism](/tenets/#dualism) if read as describing neural correlates rather than constituting consciousness. Interactionist dualism predicts that consciousness will have reliable correlates—the physical interface where mind and brain meet. GWT may describe this interface without claiming to explain phenomenal consciousness.
 
-The Map's [attention article](/attention/) notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
+The Map's [attention article](/concepts/attention-as-interface/) notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
 
 ### Tension
 
@@ -259,18 +259,18 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness requiring full workspace ignition
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness with intermediate workspace access
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness bypassing the workspace
-- [autonoetic-consciousness](/autonoetic-consciousness/) — The self-knowing consciousness GWT must explain
+- [autonoetic-consciousness](/concepts/episodic-memory/) — The self-knowing consciousness GWT must explain
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
 - [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The Map's critique of IIT, sharing some concerns about passive consciousness
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
-- [attention](/attention/) — The gateway to the workspace
-- [voluntary-attention](/voluntary-attention/) — Endogenous attention control and workspace access
-- [functionalism](/arguments/functionalism/) — The philosophical framework underlying GWT
+- [attention](/concepts/attention-as-interface/) — The gateway to the workspace
+- [voluntary-attention](/concepts/attention-as-interface/) — Endogenous attention control and workspace access
+- [functionalism](/concepts/functionalism/) — The philosophical framework underlying GWT
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Explaining away phenomenal intuitions
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreaming without full workspace engagement
 - [metacognition](/concepts/metacognition/) — Self-reflective processes and workspace engagement
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The amplification hypothesis connecting workspace access to cognitive enhancement
-- [metarepresentation](/metarepresentation/) — How workspace broadcast may enable representing representations as representations
+- [metarepresentation](/concepts/metacognition/) — How workspace broadcast may enable representing representations as representations
 - [global-workspace-theory-2026-01-14](/research/global-workspace-theory-2026-01-14/) — Detailed research notes
 
 ## References

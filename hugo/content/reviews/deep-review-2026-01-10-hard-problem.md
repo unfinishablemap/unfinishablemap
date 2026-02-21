@@ -31,9 +31,9 @@ None. The article is well-structured and makes its arguments clearly.
 - **No engagement with cognitive closure**: Resolved by adding "Is the Problem Solvable?" section introducing McGinn's mysterianism
 
 ### Counterarguments Considered
-- **Eliminativist response** (qualia may not exist as claimed): Article implicitly addresses via explanatory gap; fuller treatment in [qualia](/concepts/qualia/) and [materialism](/arguments/materialism/) articles
+- **Eliminativist response** (qualia may not exist as claimed): Article implicitly addresses via explanatory gap; fuller treatment in [qualia](/concepts/qualia/) and [materialism](/concepts/materialism/) articles
 - **Physicalist response to zombie argument**: Article acknowledges conceivability-to-possibility objection; this is sufficient for a survey article
-- **Dennett's view** (explanatory gap is illusory): Not directly addressed, but referenced via [functionalism](/arguments/functionalism/) cross-link
+- **Dennett's view** (explanatory gap is illusory): Not directly addressed, but referenced via [functionalism](/concepts/functionalism/) cross-link
 
 ## Optimistic Analysis Summary
 
@@ -51,8 +51,8 @@ None. The article is well-structured and makes its arguments clearly.
 - Added McGinn citation to References
 
 ### Cross-links Added
-- [epiphenomenalism](/arguments/epiphenomenalism/)
-- [functionalism](/arguments/functionalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
+- [functionalism](/concepts/functionalism/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
 - [apophatic-approaches](/voids/apophatic-approaches/)

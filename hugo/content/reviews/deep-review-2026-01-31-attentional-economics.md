@@ -67,6 +67,6 @@ None. All identified medium issues have been addressed.
 
 The adversarial personas' philosophical disagreements (functionalist, MWI defender) represent expected standoffs rather than fixable problems. Future reviews should NOT re-flag:
 - "Functionalist alternative explanation not refuted" — This is a bedrock disagreement about consciousness; the article engages it appropriately.
-- "MWI indexical response not developed" — The brief treatment is sufficient for a concepts article; detailed MWI engagement belongs in [many-worlds](/arguments/many-worlds/).
+- "MWI indexical response not developed" — The brief treatment is sufficient for a concepts article; detailed MWI engagement belongs in [many-worlds](/concepts/many-worlds/).
 
 The article is now in good shape for its first review cycle.

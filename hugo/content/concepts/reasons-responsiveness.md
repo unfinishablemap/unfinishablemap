@@ -12,7 +12,7 @@ concepts:
 - '[[counterfactual-reasoning]]'
 - '[[voluntary-attention]]'
 - '[[causal-closure]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[self-stultification]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-02-01
@@ -29,11 +29,11 @@ related_articles:
 - '[[tenets]]'
 title: Reasons-Responsiveness
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[argument-from-reason]]'
 ---
 
-Reasons-responsiveness is the capacity to recognize normative relationships—that conclusions *follow from* premises, that some considerations *count in favour* of certain actions—and to be guided by that recognition. The Unfinishable Map holds that reasons-responsiveness requires consciousness: tracking normative relationships demands more than causal regularity. A system merely caused to produce outputs matching valid inferences differs fundamentally from one that *grasps* why conclusions follow. This distinction bears on [free will](/concepts/free-will/) (selection guided by reasons is not luck) and the [argument from reason](/topics/argument-from-reason/) (physicalism cannot account for genuine rational inference).
+Reasons-responsiveness is the capacity to recognize normative relationships—that conclusions *follow from* premises, that some considerations *count in favour* of certain actions—and to be guided by that recognition. The Unfinishable Map holds that reasons-responsiveness requires consciousness: tracking normative relationships demands more than causal regularity. A system merely caused to produce outputs matching valid inferences differs fundamentally from one that *grasps* why conclusions follow. This distinction bears on [free will](/topics/free-will/) (selection guided by reasons is not luck) and the [argument from reason](/topics/argument-from-reason/) (physicalism cannot account for genuine rational inference).
 
 ## The Space of Reasons
 
@@ -107,7 +107,7 @@ Whether this distinction holds under scrutiny remains contested. LLMs represent 
 
 If consciousness is reasons-responsive, how does this connect to neural activity? The Map proposes that consciousness operates at a selection level: the brain generates options; consciousness evaluates them through reasons-responsive deliberation; selection actualizes one option.
 
-Research on [voluntary attention](/voluntary-attention/) and [motor selection](/concepts/motor-selection/) identifies neural signatures of willed action: frontal theta oscillations, ~300ms deployment time, bidirectional frontoparietal coherence. These signatures distinguish genuinely chosen actions from automatic or merely instructed behaviour. The phenomenological asymmetry (effortful deliberation versus automatic response) corresponds to different neural circuits.
+Research on [voluntary attention](/concepts/attention-as-interface/) and [motor selection](/concepts/motor-selection/) identifies neural signatures of willed action: frontal theta oscillations, ~300ms deployment time, bidirectional frontoparietal coherence. These signatures distinguish genuinely chosen actions from automatic or merely instructed behaviour. The phenomenological asymmetry (effortful deliberation versus automatic response) corresponds to different neural circuits.
 
 The [agent-causal](/concepts/agent-causation/) framework situates reasons-responsiveness at the agent level: the agent exercises causal power guided by reasons. The [causal closure](/concepts/causal-closure/) principle that physicalism requires—every physical event having a sufficient physical cause—fails precisely where consciousness acts. Reasons-responsiveness operates where physics leaves outcomes undetermined; the agent's sensitivity to normative relationships guides which outcome actualizes.
 
@@ -117,7 +117,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: If reasons-responsiveness requires grasping normative relationships as such, and normative properties are irreducible to physical properties, then reasons-responsiveness requires something beyond physical processes. The conceptual irreducibility of the space of reasons reflects ontological irreducibility. Consciousness must involve properties that physical description cannot capture.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reasons-responsiveness is how consciousness causally contributes to outcomes. Selection guided by reasons influences which neural patterns become actual. Without reasons-responsiveness, consciousness could observe deliberation but not participate in it—[epiphenomenalism](/arguments/epiphenomenalism/) rather than genuine agency.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reasons-responsiveness is how consciousness causally contributes to outcomes. Selection guided by reasons influences which neural patterns become actual. Without reasons-responsiveness, consciousness could observe deliberation but not participate in it—[epiphenomenalism](/concepts/epiphenomenalism/) rather than genuine agency.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes that consciousness operates where physics leaves outcomes undetermined. Reasons-responsiveness specifies *what* guides selection at these junctures: not random fluctuation but sensitivity to normative considerations. The [quantum framework](/concepts/quantum-consciousness/) provides the *how*; reasons-responsiveness provides the *what*.
 
@@ -129,11 +129,11 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 - [self-stultification](/concepts/self-stultification/) — How the argument from reason renders physicalism self-undermining
 - [luck-objection](/concepts/luck-objection/) — Why reasons-guidance distinguishes selection from luck
 - [agent-causation](/concepts/agent-causation/) — How agents exercise causal power through reasons-responsive selection
-- [free-will](/concepts/free-will/) — The broader framework connecting reasons-responsiveness to genuine choice
+- [free-will](/topics/free-will/) — The broader framework connecting reasons-responsiveness to genuine choice
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of reasons-responsive deliberation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The representational capacity enabling evaluation of reasons
 - [mental-effort](/concepts/mental-effort/) — Why reasoning feels effortful and what this suggests
-- [voluntary-attention](/voluntary-attention/) — The paradigm case of reasons-responsive selection in attention deployment
+- [voluntary-attention](/concepts/attention-as-interface/) — The paradigm case of reasons-responsive selection in attention deployment
 - [causal-closure](/concepts/causal-closure/) — The physicalist principle that reasons-responsiveness challenges
 - [process-and-consciousness](/apex/process-and-consciousness/) — Process philosophy's support for reasons-responsiveness as experiential self-determination
 

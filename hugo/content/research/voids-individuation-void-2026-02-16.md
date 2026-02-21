@@ -28,7 +28,7 @@ related_articles:
 - '[[the-unobservable-self]]'
 - '[[self-reference-paradox]]'
 - '[[causal-interface]]'
-- '[[binding-void]]'
+- binding-void
 - '[[persistence-void]]'
 - '[[topology-of-cognitive-failure]]'
 target_section: voids

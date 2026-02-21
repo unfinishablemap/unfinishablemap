@@ -48,7 +48,7 @@ This phenomenal dimension is crucial. A computer executes modus ponens without e
 
 The [cognitive phenomenology](/concepts/cognitive-phenomenology/) debate asks whether thinking has its own "what it's like" beyond sensory accompaniments. The authority of logic provides a strong case that it does.
 
-When you grasp a valid deduction, there is a distinctive phenomenal quality — not the warmth of understanding a narrative or the satisfaction of solving a puzzle, but the cold clarity of seeing that *this must be so*. Mathematicians report this as the difference between checking steps mechanically and *seeing why* a proof works. The [mathematical understanding](/consciousness-and-mathematical-understanding/) case makes this vivid: verification follows rules; understanding grasps necessity.
+When you grasp a valid deduction, there is a distinctive phenomenal quality — not the warmth of understanding a narrative or the satisfaction of solving a puzzle, but the cold clarity of seeing that *this must be so*. Mathematicians report this as the difference between checking steps mechanically and *seeing why* a proof works. The [mathematical understanding](/topics/consciousness-and-mathematical-cognition/) case makes this vivid: verification follows rules; understanding grasps necessity.
 
 This phenomenal character of logical necessity has several distinctive features:
 
@@ -98,7 +98,7 @@ One might object that formal logic is precisely the attempt to make logical vali
 
 The Map's response: formal systems capture the *structure* of logical relationships but not their *authority*. A formal system tells you that Q follows from P and P→Q. It does not tell you why you *ought* to accept Q given P and P→Q. The normative force — the reason validity *matters* — is not itself formal. It is experienced by conscious beings who recognise that following valid inference is not merely one option among others.
 
-Kurt Gödel's incompleteness theorems reinforce this point from another direction. No consistent formal system sufficiently powerful to express basic arithmetic can prove its own consistency. The Lucas-Penrose argument draws a strong conclusion: that mathematical understanding exceeds what any formal system can achieve, and therefore minds are not formal systems. This argument has been widely contested — Putnam and Benacerraf, among others, argue that Gödel's results apply to individual systems without showing that any *specific* truth exceeds *all* formal methods. The Map does not rest on the strong Lucas-Penrose conclusion. The more modest point suffices: the gap between formal proof and mathematical insight — between verifying a proof step by step and *seeing why* it works — is a phenomenal gap. Formal systems capture the structure of validity without capturing the conscious experience of necessity. (The [mathematical understanding](/consciousness-and-mathematical-understanding/) article develops this case in detail.)
+Kurt Gödel's incompleteness theorems reinforce this point from another direction. No consistent formal system sufficiently powerful to express basic arithmetic can prove its own consistency. The Lucas-Penrose argument draws a strong conclusion: that mathematical understanding exceeds what any formal system can achieve, and therefore minds are not formal systems. This argument has been widely contested — Putnam and Benacerraf, among others, argue that Gödel's results apply to individual systems without showing that any *specific* truth exceeds *all* formal methods. The Map does not rest on the strong Lucas-Penrose conclusion. The more modest point suffices: the gap between formal proof and mathematical insight — between verifying a proof step by step and *seeing why* it works — is a phenomenal gap. Formal systems capture the structure of validity without capturing the conscious experience of necessity. (The [mathematical understanding](/topics/consciousness-and-mathematical-cognition/) article develops this case in detail.)
 
 ## Relation to Site Perspective
 
@@ -115,7 +115,7 @@ The authority of logic provides distinctive support for three of the Map's [tene
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — Normative authority across moral, epistemic, and aesthetic domains
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has its own phenomenal character
-- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — Mathematical insight as a paradigm case
+- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as a paradigm case
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The felt experience of reasoning
 - [self-stultification](/concepts/self-stultification/) — Positions that undermine their own rational grounds
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Tracking normative relationships

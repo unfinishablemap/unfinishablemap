@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Consciousness-Selecting Neural Patterns](/questions/consciousness-selecting-neural-patterns/)
+**Article**: [Consciousness-Selecting Neural Patterns](/concepts/consciousness-selecting-neural-patterns/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -58,7 +58,7 @@ topics: []
 - [decoherence](/concepts/decoherence/) - major empirical challenge
 - [illusionism](/concepts/illusionism/) - eliminativist challenge
 - [introspection](/concepts/introspection/) - phenomenological evidence
-- [voluntary-attention](/voluntary-attention/) - neural signatures of willed selection
+- [voluntary-attention](/concepts/attention-as-interface/) - neural signatures of willed selection
 - [witness-consciousness](/concepts/witness-consciousness/) - contemplative evidence
 - [haecceity](/concepts/haecceity/) - indexical identity and selection
 

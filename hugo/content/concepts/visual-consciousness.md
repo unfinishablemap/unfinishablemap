@@ -46,7 +46,7 @@ Visual consciousness has distinctive phenomenal structure that shapes how we exp
 
 Visual experience presents objects as arranged in three-dimensional space before you. Unlike auditory or olfactory experience, vision delivers a spatial field with objects at determinate locations and distances. This spatial phenomenology is immediate—you don't infer that the tree is farther than the fence; you see it that way.
 
-The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [indexical identity](/indexical-facts/). Why does the visual world appear from *here* rather than *there*?
+The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [indexical identity](/concepts/indexical-knowledge-and-identity/). Why does the visual world appear from *here* rather than *there*?
 
 ### Colour Qualia
 
@@ -56,9 +56,9 @@ The [inverted spectrum](/concepts/inverted-qualia/) thought experiment targets v
 
 ### Temporal Dynamics
 
-Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. The [specious-present](/specious-present/)—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
+Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. The [specious-present](/concepts/temporal-consciousness/)—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
 
-Change blindness reveals how attention shapes visual consciousness. Massive visual changes go unnoticed when they coincide with saccades or scene disruptions. Visual consciousness does not passively register visual information—[attention](/attention/) selects what enters awareness.
+Change blindness reveals how attention shapes visual consciousness. Massive visual changes go unnoticed when they coincide with saccades or scene disruptions. Visual consciousness does not passively register visual information—[attention](/concepts/attention-as-interface/) selects what enters awareness.
 
 ## The Binding Problem in Vision
 
@@ -111,7 +111,7 @@ The existence of visual qualia—the felt quality of seeing colour, shape, motio
 
 ### Bidirectional Interaction
 
-[Voluntary attention](/voluntary-attention/) shapes what enters visual consciousness. You can attend to the left or right of your visual field, foreground or background, colour or motion. This top-down influence suggests consciousness acts on visual processing, not merely receives its outputs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world—attention's modulation of visual processing may be one site of such influence.
+[Voluntary attention](/concepts/attention-as-interface/) shapes what enters visual consciousness. You can attend to the left or right of your visual field, foreground or background, colour or motion. This top-down influence suggests consciousness acts on visual processing, not merely receives its outputs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world—attention's modulation of visual processing may be one site of such influence.
 
 ### Minimal Quantum Interaction
 
@@ -128,7 +128,7 @@ Visual consciousness presents a determinate world—*this* scene, from *this* pe
 - [binding-problem](/concepts/binding-problem/) — How distributed features become unified visual objects
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Brain activity correlating with visual experience
 - [inverted-qualia](/concepts/inverted-qualia/) — The possibility of systematically different colour experiences
-- [attention](/attention/) — How selection shapes visual awareness
+- [attention](/concepts/attention-as-interface/) — How selection shapes visual awareness
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — Whether visual phenomenology exceeds visual access
 - [knowledge-argument](/concepts/knowledge-argument/) — Why physical facts don't capture what seeing is like
 

@@ -52,12 +52,12 @@ topics: []
 - Strengthened zombie argument with engagement of the functionalist reply and its epiphenomenalist consequences
 - Added References section with four citations supporting factual claims
 - Added [mysterianism](/concepts/mysterianism/) to Further Reading and frontmatter concepts
-- Added [panpsychism](/concepts/panpsychism/) and [epiphenomenalism](/arguments/epiphenomenalism/) to frontmatter concepts
+- Added [panpsychism](/concepts/panpsychism/) and [epiphenomenalism](/concepts/epiphenomenalism/) to frontmatter concepts
 
 ### Cross-links Added
 - [mysterianism](/concepts/mysterianism/)
 - [panpsychism](/concepts/panpsychism/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 
 ## Remaining Items
 

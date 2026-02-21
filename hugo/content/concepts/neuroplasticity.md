@@ -8,7 +8,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[stapp-quantum-mind]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[bidirectional-causation]]'
 - '[[attention-as-interface]]'
 - '[[voluntary-attention]]'
@@ -27,11 +27,11 @@ related_articles:
 - '[[contemplative-evidence-for-consciousness-theories]]'
 title: Neuroplasticity
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Neuroplasticity—the brain's capacity to reorganise its structure and function in response to experience—demonstrates that mental states can reshape neural architecture. This empirical finding creates problems for [epiphenomenalism](/arguments/epiphenomenalism/), the view that consciousness merely accompanies physical processes without influencing them. If directed mental attention produces lasting brain changes, information flows from mind to matter.
+Neuroplasticity—the brain's capacity to reorganise its structure and function in response to experience—demonstrates that mental states can reshape neural architecture. This empirical finding creates problems for [epiphenomenalism](/concepts/epiphenomenalism/), the view that consciousness merely accompanies physical processes without influencing them. If directed mental attention produces lasting brain changes, information flows from mind to matter.
 
 The Unfinishable Map treats neuroplasticity as key evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Jeffrey Schwartz's research on obsessive-compulsive disorder provides the clearest case: patients who learned to redirect attention away from obsessive thoughts showed measurable changes in brain metabolism—they *thought* their way to altered neural structure.
 
@@ -116,7 +116,7 @@ Attention functions as the interface layer between consciousness and neural syst
 
 [Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers a more specific—though highly speculative—proposal: mental attention operates through rapid "observations" of neural quantum states, holding desired patterns stable against decay. Most physicists remain sceptical that quantum coherence survives long enough in warm biological tissue for this mechanism to operate. Whether or not this specific proposal proves correct, the general principle stands: attention is the bridge between conscious selection and physical change.
 
-The [willed-instructed distinction](/voluntary-attention/) matters here. Neuroscience reveals that different neural processes engage when you *choose* where to attend versus merely *follow instructions*. Willed attention recruits additional frontal resources and shows distinct neural signatures. If neuroplasticity depends on attention, and willed attention differs neurally from instructed attention, then the *quality* of consciousness—whether one is genuinely deciding or merely implementing—may affect plasticity outcomes.
+The [willed-instructed distinction](/concepts/attention-as-interface/) matters here. Neuroscience reveals that different neural processes engage when you *choose* where to attend versus merely *follow instructions*. Willed attention recruits additional frontal resources and shows distinct neural signatures. If neuroplasticity depends on attention, and willed attention differs neurally from instructed attention, then the *quality* of consciousness—whether one is genuinely deciding or merely implementing—may affect plasticity outcomes.
 
 ## What Neuroplasticity Shows (and Doesn't)
 
@@ -156,7 +156,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework for consciousness-matter causation
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Meditation research as evidence for consciousness theories
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness doesn't cause anything
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness doesn't cause anything
 
 ## References
 

@@ -85,7 +85,7 @@ These quality differences matter. The same propositional content (e.g., "conscio
 
 The Map's project involves a particular recursive structure: using conscious assessment to evaluate arguments about consciousness. This creates meta-phenomenology—the experience of noticing how one experiences evidence.
 
-When reading arguments for [materialism](/arguments/materialism/), what happens experientially? There may be:
+When reading arguments for [materialism](/concepts/materialism/), what happens experientially? There may be:
 - Initial plausibility (science works, parsimony appeals)
 - Growing discomfort (something seems missing, [qualia](/concepts/qualia/) are not addressed)
 - The attempt to suppress the discomfort (perhaps it's just confusion)
@@ -112,7 +112,7 @@ These phenomenologies of doubt are relevant to philosophical method. Arguments o
 
 ## Evidence Assessment and Free Will
 
-The experience of weighing evidence seems to involve agency. We direct attention to considerations, compare alternatives, decide how to weight competing claims. This phenomenology is relevant to debates about [free-will](/concepts/free-will/):
+The experience of weighing evidence seems to involve agency. We direct attention to considerations, compare alternatives, decide how to weight competing claims. This phenomenology is relevant to debates about [free-will](/topics/free-will/):
 
 If evidence assessment were purely passive—conclusions simply arising from inputs—the experience should be of observation rather than action. But the phenomenology is often agentive: we *search* for evidence, *consider* implications, *decide* how to weight considerations. The first-person character of assessment is executive, not receptive.
 

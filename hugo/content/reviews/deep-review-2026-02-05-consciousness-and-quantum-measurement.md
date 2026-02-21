@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Consciousness and Quantum Measurement](/consciousness-and-quantum-measurement/)
+**Article**: [Consciousness and Quantum Measurement](/topics/quantum-measurement-consciousness-interface/)
 **Previous review**: [2026-02-04](/reviews/deep-review-2026-02-04-consciousness-and-quantum-measurement/)
 **Context**: Task context indicated file was orphaned; verification showed prior review had already added 6+ inbound links.
 
@@ -43,7 +43,7 @@ The six adversarial personas raised expected philosophical objections:
 - **Eliminative Materialist**: Rejects hard problem as genuine—tenet disagreement
 - **Hard-Nosed Physicalist**: Heterophenomenology could capture first-person reports—tenet disagreement
 - **Quantum Skeptic**: Decoherence timescales remain challenging—addressed in article
-- **Many-Worlds Defender**: Indexical objection applies to any theory—acknowledged, linked to [many-worlds](/arguments/many-worlds/)
+- **Many-Worlds Defender**: Indexical objection applies to any theory—acknowledged, linked to [many-worlds](/concepts/many-worlds/)
 - **Empiricist**: Unfalsifiability—article honestly acknowledges this
 - **Buddhist Philosopher**: Substantial self assumed—beyond article scope
 

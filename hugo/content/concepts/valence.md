@@ -7,9 +7,9 @@ author: null
 concepts:
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
-- '[[phenomenal-value-realism]]'
-- '[[functionalism]]'
-- '[[epiphenomenalism]]'
+- '[[topics/phenomenal-value-realism]]'
+- '[[concepts/functionalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-02-15
 date: &id001 2026-02-15
 description: The positive-negative dimension of experience—why pain feels bad and
@@ -60,9 +60,9 @@ The explanatory gap for valence is particularly stark because the property seems
 
 ## Valence Does Causal Work
 
-[Epiphenomenalists](/arguments/epiphenomenalism/) might argue that felt badness merely accompanies the functional states that actually motivate behavior. Pain asymbolia challenges this. Patients with intact sensory pain processing but absent felt badness do not avoid painful stimuli with normal urgency. The phenomenal property—the felt badness—is what makes pain motivating. Remove it, and the behavioral output changes.
+[Epiphenomenalists](/concepts/epiphenomenalism/) might argue that felt badness merely accompanies the functional states that actually motivate behavior. Pain asymbolia challenges this. Patients with intact sensory pain processing but absent felt badness do not avoid painful stimuli with normal urgency. The phenomenal property—the felt badness—is what makes pain motivating. Remove it, and the behavioral output changes.
 
-A [functionalist](/arguments/functionalism/) might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. But this response concedes the point in disguise: if "the function of felt badness" is exactly what's missing, the functionalist must explain what distinguishes this function from the intact nociceptive processing that remains. The most parsimonious answer is that the felt quality is a distinct property doing distinct causal work—precisely what the dualist claims.
+A [functionalist](/concepts/functionalism/) might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. But this response concedes the point in disguise: if "the function of felt badness" is exactly what's missing, the functionalist must explain what distinguishes this function from the intact nociceptive processing that remains. The most parsimonious answer is that the felt quality is a distinct property doing distinct causal work—precisely what the dualist claims.
 
 This has direct implications for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If valenced phenomenal states motivate behavior, consciousness influences physical outcomes. The felt quality is not along for the ride—it is doing real work.
 
@@ -70,7 +70,7 @@ This has direct implications for the [Bidirectional Interaction](/tenets/#bidire
 
 If valence is an intrinsic phenomenal property, it provides the ground for moral significance. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—expresses *valence sentientism*: the capacity for negatively valenced experience is necessary for moral consideration.
 
-This connects directly to [phenomenal-value-realism](/concepts/phenomenal-value-realism/). If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. The wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state.
+This connects directly to [phenomenal-value-realism](/topics/phenomenal-value-realism/). If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. The wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state.
 
 A gap remains between phenomenal and normative facts. That suffering *feels* bad does not immediately entail that causing it *ought not* be done. But valence provides the necessary condition: without felt badness, there is nothing for moral concern to be about.
 
@@ -88,10 +88,10 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 
 - [emotional-consciousness](/topics/emotional-consciousness/) — Extended treatment of emotional consciousness and the valence debate
 - [qualia](/concepts/qualia/) — The broader category of intrinsic phenomenal properties
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — How phenomenal properties ground objective value
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How phenomenal properties ground objective value
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt aspect of mental states
-- [functionalism](/arguments/functionalism/) — The view that mental states are defined by functional roles
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness has no causal efficacy
+- [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
 - [consciousness-and-pain](/topics/consciousness-and-pain/) — Extended treatment of pain and conscious experience
 - [suffering-versus-pain](/topics/suffering-versus-pain/) — Why suffering and pain are not the same phenomenon
 - [normative-phenomenology](/concepts/normative-phenomenology/) — How phenomenal properties ground normative claims

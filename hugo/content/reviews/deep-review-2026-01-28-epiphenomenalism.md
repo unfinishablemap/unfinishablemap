@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-28
-**Article**: [Epiphenomenalism](/arguments/epiphenomenalism/)
+**Article**: [Epiphenomenalism](/concepts/epiphenomenalism/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-epiphenomenalism/)
 **Cross-review context**: contemplative evidence for consciousness theories
 

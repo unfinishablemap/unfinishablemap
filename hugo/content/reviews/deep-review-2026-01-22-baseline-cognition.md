@@ -74,7 +74,7 @@ topics: []
 
 ### Cross-links Added
 
-- [free-will](/concepts/free-will/) — New section on implications for libertarian free will
+- [free-will](/topics/free-will/) — New section on implications for libertarian free will
 - [introspection](/concepts/introspection/) — Connected to experiencing vs experiencing that you experience
 
 ## Remaining Items

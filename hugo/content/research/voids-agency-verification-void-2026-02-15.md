@@ -34,7 +34,7 @@ related_articles:
 target_section: voids
 title: 'Research Notes - Voids: The Agency Verification Void'
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[philosophy-of-mind]]'
 ---

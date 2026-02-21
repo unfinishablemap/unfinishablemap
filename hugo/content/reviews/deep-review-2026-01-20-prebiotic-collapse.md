@@ -55,7 +55,7 @@ topics: []
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness interfaces with neural systems
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for rejecting Many Worlds
 - [combination-problem](/concepts/combination-problem/) — Challenge facing panpsychist responses
-- [many-worlds](/arguments/many-worlds/) — Detailed arguments against MWI
+- [many-worlds](/concepts/many-worlds/) — Detailed arguments against MWI
 
 ## Changes Summary
 

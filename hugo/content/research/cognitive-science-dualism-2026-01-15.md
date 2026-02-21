@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[interactionist-dualism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[arguments-for-dualism]]'
 created: 2026-01-15
 date: &id001 2026-01-15

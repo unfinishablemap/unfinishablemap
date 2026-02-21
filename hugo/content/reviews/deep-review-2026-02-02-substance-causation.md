@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Substance Causation](/substance-causation/)
+**Article**: [Substance Causation](/concepts/agent-causation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -53,7 +53,7 @@ topics: []
 
 ### Cross-links Added
 - [decoherence](/concepts/decoherence/)
-- [quantum-decoherence-objection](/quantum-decoherence-objection/)
+- [quantum-decoherence-objection](/concepts/decoherence/)
 
 ## Remaining Items
 

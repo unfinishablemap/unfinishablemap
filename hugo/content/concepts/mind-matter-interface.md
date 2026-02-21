@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[filter-theory]]'
 - '[[quantum-consciousness]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation]]'
 - '[[neural-correlates-of-consciousness]]'
@@ -17,7 +17,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[mental-effort]]'
 - '[[measurement-problem]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[introspection]]'
 created: 2026-01-16
 date: &id001 2026-01-20
@@ -34,7 +34,7 @@ related_articles:
 title: 'The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 The Unfinishable Map employs two major frameworks for understanding consciousness's relationship to the physical world: [filter theory](/concepts/filter-theory/) (James, Bergson, Huxley) and [quantum selection mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff). These might appear to be separate explanatory strategies—even incompatible ones. Filter theory treats consciousness as something the brain *receives* or *transmits*; quantum selection treats consciousness as something that *acts* on quantum outcomes. One is about correlation without production; the other is about causal efficacy.
@@ -79,7 +79,7 @@ The brain provides an interface where consciousness can influence physical outco
 
 At quantum indeterminacies—points where physics leaves outcomes undetermined—consciousness selects which possibility becomes actual. [Causal closure](/concepts/causal-closure/) fails at collapse; something must determine the outcome; consciousness is a candidate.
 
-Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. On this account, what you focus on becomes actual because attention is observation and observation constrains quantum evolution. However, this mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. The [detailed selection mechanism article](/questions/consciousness-selecting-neural-patterns/) covers candidate sites (microtubules, ion channels, attention networks), constraints (bandwidth, brain boundary, selection vs. randomness), and the timescale problem in detail.
+Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. On this account, what you focus on becomes actual because attention is observation and observation constrains quantum evolution. However, this mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. The [detailed selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) covers candidate sites (microtubules, ion channels, attention networks), constraints (bandwidth, brain boundary, selection vs. randomness), and the timescale problem in detail.
 
 ### How the Layers Connect
 
@@ -156,7 +156,7 @@ This doesn't make the architecture unfalsifiable—if qualia became physically e
 
 **The exclusion problem**: How does mental causation avoid overdetermination with physical causes? Because at collapse, physical causes are necessary but not sufficient. Mental selection doesn't compete with physical causation; it operates precisely where physical causation runs out.
 
-**Free will**: How can choices be both undetermined (by prior physical states) and determined (by the agent)? Quantum indeterminacy provides the openness; consciousness provides the determination. The proposal: selection is free because it's not fixed by prior physical states, and willed because consciousness selects for reasons rather than randomly. Whether non-physical determination constitutes genuine freedom rather than a different kind of randomness remains debated—see [free-will](/concepts/free-will/) for detailed treatment.
+**Free will**: How can choices be both undetermined (by prior physical states) and determined (by the agent)? Quantum indeterminacy provides the openness; consciousness provides the determination. The proposal: selection is free because it's not fixed by prior physical states, and willed because consciousness selects for reasons rather than randomly. Whether non-physical determination constitutes genuine freedom rather than a different kind of randomness remains debated—see [free-will](/topics/free-will/) for detailed treatment.
 
 **The attention-effort match**: Why does sustained attention feel effortful? Because on the quantum Zeno mechanism, attention *is* effortful—it requires repeated mental observations. The phenomenology of effort reflects genuine work being done.
 
@@ -168,7 +168,7 @@ The unified model handles questions that neither framework addresses in isolatio
 
 **How is consciousness both independent and interactive?** Filter theory alone makes consciousness seem passive—just "received." Quantum selection alone makes consciousness seem generated by quantum processes. Together: consciousness exists independently *and* acts through the neural interface.
 
-**Why are some brain processes accessible and others not?** The interface has structure. Consciousness shapes what reaches the [attention](/attention/) system; it can only select among options that reach awareness. Unconscious processing doesn't present alternatives to select among.
+**Why are some brain processes accessible and others not?** The interface has structure. Consciousness shapes what reaches the [attention](/concepts/attention-as-interface/) system; it can only select among options that reach awareness. Unconscious processing doesn't present alternatives to select among.
 
 ## Empirical Discriminators
 
@@ -257,7 +257,7 @@ The two-layer model would be undermined if:
 
 3. **The psychedelic paradox resolved in favour of production**: If neuroscience fully explained psychedelic and NDE phenomenology through neural disinhibition—leaving no residual explanatory gap—filter theory would lose its most suggestive empirical support. Currently both filter and production interpretations remain viable.
 
-4. **MWI proved correct**: If the Many-Worlds Interpretation were established, genuine selection would be illusory—all possibilities would occur in different branches. The Map rejects MWI for independent reasons (see [many-worlds](/arguments/many-worlds/)), but confirming MWI would undermine Layer 2.
+4. **MWI proved correct**: If the Many-Worlds Interpretation were established, genuine selection would be illusory—all possibilities would occur in different branches. The Map rejects MWI for independent reasons (see [many-worlds](/concepts/many-worlds/)), but confirming MWI would undermine Layer 2.
 
 5. **Selection proved illusory**: If apparent choices turned out to be post-hoc confabulations—consciousness merely registering decisions already made—Layer 2's causal efficacy claim would fail. Libet-style experiments initially seemed to show this, but Schurger's stochastic reinterpretation and subsequent research have substantially weakened this challenge.
 
@@ -320,7 +320,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 
 - [filter-theory](/concepts/filter-theory/) — The transmission model in detail (James, Bergson, Huxley)
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — How selection operates concretely
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How selection operates concretely
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across species and states?
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
@@ -330,7 +330,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [illusionism](/concepts/illusionism/) — The radical physicalist challenge and its problems
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for the observer
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
-- [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI
+- [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 
 ## References
 

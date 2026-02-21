@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[agent-causation]]'
 - '[[duration]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention-as-interface]]'
 - '[[mental-causation]]'
 - '[[mysterianism]]'
@@ -27,13 +27,13 @@ related_articles:
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 title: Consciousness and Creativity
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
 Consciousness contributes to creativity in two distinct but unified ways: it generates possibilities through imagination and selects among them through attention. The apparent tension between "generation" and "selection" views of creative consciousness dissolves when we recognize these as two aspects of a single creative process. This understanding strengthens the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness doesn't merely choose from a menu the brain presents but actively expands what's on the menu.
 
-The question matters philosophically: if consciousness only selects among pre-existing options, its causal contribution is narrower than if it also creates. Bergson argued that consciousness is inherently creative—each moment of lived [durée](/duration/) brings genuine novelty through what he called the *élan vital*. Contemporary neuroscience reveals creativity involves dynamic switching between brain networks for spontaneous generation and controlled evaluation—and crucially, the *capacity* for this switching, not either mode alone, predicts creative ability. The synthesis proposed here integrates both insights.
+The question matters philosophically: if consciousness only selects among pre-existing options, its causal contribution is narrower than if it also creates. Bergson argued that consciousness is inherently creative—each moment of lived [durée](/concepts/temporal-consciousness/) brings genuine novelty through what he called the *élan vital*. Contemporary neuroscience reveals creativity involves dynamic switching between brain networks for spontaneous generation and controlled evaluation—and crucially, the *capacity* for this switching, not either mode alone, predicts creative ability. The synthesis proposed here integrates both insights.
 
 ## The Selection View
 
@@ -45,11 +45,11 @@ One prominent account treats consciousness as selector rather than generator. Th
 
 **Bandwidth constraints**: Conscious thought operates at approximately 10 bits per second, five million times slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
 
-The [quantum selection framework](/questions/consciousness-selecting-neural-patterns/) on The Unfinishable Map develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
+The [quantum selection framework](/concepts/consciousness-selecting-neural-patterns/) on The Unfinishable Map develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
 
 ## The Generation View: Bergson
 
-Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/duration/)—lived time—is "invention or it is nothing at all." Each moment of conscious experience genuinely differs from all that preceded it. The past interpenetrates the present, creating something new through memory's progressive integration.
+Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/concepts/temporal-consciousness/)—lived time—is "invention or it is nothing at all." Each moment of conscious experience genuinely differs from all that preceded it. The past interpenetrates the present, creating something new through memory's progressive integration.
 
 "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
 
@@ -99,7 +99,7 @@ The philosophical debate over creativity turns on whether genuine novelty requir
 
 **C-creativity** (Kronfeldner): Psychological novelty suffices. A thought is creative if new to the thinker, regardless of whether it was causally inevitable. Creativity is compatible with determinism.
 
-The Map's framework offers a middle path. Quantum indeterminacy provides genuine openness in physical outcomes—[selection occurs](/questions/consciousness-selecting-neural-patterns/) where physics leaves outcomes undetermined. This isn't "underived" in the sense of being causally disconnected, but it provides the opening for consciousness to contribute something physics alone cannot determine.
+The Map's framework offers a middle path. Quantum indeterminacy provides genuine openness in physical outcomes—[selection occurs](/concepts/consciousness-selecting-neural-patterns/) where physics leaves outcomes undetermined. This isn't "underived" in the sense of being causally disconnected, but it provides the opening for consciousness to contribute something physics alone cannot determine.
 
 Penrose's argument that mathematical insight transcends computation offers a complementary perspective. If consciousness can recognise truths unprovable within any formal system (following Gödel's incompleteness results), then creative thought may have resources beyond algorithmic selection among pre-computed options. The argument remains contested—critics note it may conflate the *consistent* with the *complete*—but it articulates what many find intuitively compelling about mathematical creativity: that genuine insight seems to leap beyond rule-following. Whether or not Penrose's specific mechanism (orchestrated objective reduction) is correct, the intuition motivates searching for how consciousness might contribute non-algorithmically to creative thought.
 
@@ -141,15 +141,15 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 
 ## Further Reading
 
-- [duration](/duration/) — Bergson's lived time as inherently creative becoming, including the connection to quantum collapse
+- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as inherently creative becoming, including the connection to quantum collapse
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation, including the creative generation synthesis
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The quantum mechanism for selection
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum mechanism for selection
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates mind-matter interaction
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation, including how options develop through consideration
 - [mental-imagery](/concepts/mental-imagery/) — Voluntary imagery as paradigm case of consciousness generating and manipulating possibilities
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative access to the temporal microstructure of creative experience
-- [free-will](/concepts/free-will/) — How creativity connects to free action
+- [free-will](/topics/free-will/) — How creativity connects to free action
 - [creativity-void](/voids/creativity-void/) — The void where creative insight originates
 - [consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/) — Research notes underlying this article
 

@@ -62,7 +62,7 @@ None. The earlier review today already addressed substantive issues.
 
 ### Cross-links Added (inbound to prebiotic-collapse)
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
-- [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/)
+- [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)
 - [retrocausality](/concepts/retrocausality/)
 
 ## Word Count Changes

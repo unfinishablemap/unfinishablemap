@@ -10,7 +10,7 @@ concepts:
 - '[[split-brain-consciousness]]'
 - '[[self-and-consciousness]]'
 - '[[autonoetic-consciousness]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[parfit-reductionism]]'
 - '[[haecceity]]'
 - '[[illusionism]]'
@@ -36,7 +36,7 @@ related_articles:
 title: Personal Identity
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the child you once were and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
@@ -55,7 +55,7 @@ Three main positions dominate the debate about what makes someone at one time th
 
 Recent phenomenological work distinguishes these from a more basic [minimal self](/concepts/self-and-consciousness/)—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
-[Autonoetic consciousness](/autonoetic-consciousness/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [past-self-void](/voids/past-self-void/) reveals, this reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. This matters for the Map's position: the "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
+[Autonoetic consciousness](/concepts/episodic-memory/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [past-self-void](/voids/past-self-void/) reveals, this reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. This matters for the Map's position: the "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
 ## Parfit's Challenge
 
@@ -71,7 +71,7 @@ The Map cannot accept Parfit's reductionism. The tenets commit us to a stronger 
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the Many-Worlds interpretation of quantum mechanics partly because it creates "unanswerable indexical questions: why am I *this* instance and not another?" This presupposes that indexical identity is meaningful—that there's a real question about which conscious being you are.
 
-The [argument against many-worlds](/arguments/many-worlds/) develops this concern formally. When a quantum measurement occurs, many-worlds says you split into branches—one where you see spin-up, another spin-down. But you only experience one outcome. Which you? The many-worlds theorist dissolves the question: both branches are equally real, both contain persons derived from you, and there is no fact about which is "really" you.
+The [argument against many-worlds](/concepts/many-worlds/) develops this concern formally. When a quantum measurement occurs, many-worlds says you split into branches—one where you see spin-up, another spin-down. But you only experience one outcome. Which you? The many-worlds theorist dissolves the question: both branches are equally real, both contain persons derived from you, and there is no fact about which is "really" you.
 
 This dissolution is what the Map rejects. Before measurement, one you; after, many-worlds posits two equally real continuations. Yet you find yourself in exactly one. The experience of being *this* one rather than *that* one seems factual—but many-worlds says it's not. If identity fragments across infinite branches with no answer about which is "really" you, identity becomes incoherent.
 
@@ -209,10 +209,10 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through split-brain division, anesthesia, altered states, and death
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's detailed critique of Parfit's view
-- [many-worlds](/arguments/many-worlds/) — Why the Map rejects many-worlds (the indexical problem is central)
+- [many-worlds](/concepts/many-worlds/) — Why the Map rejects many-worlds (the indexical problem is central)
 - [haecceity](/concepts/haecceity/) — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of selfhood
-- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — The nightly gap in consciousness and what it means for identity

@@ -5,7 +5,7 @@ ai_modified: 2026-02-17 01:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
 - '[[introspection]]'
@@ -40,7 +40,7 @@ topics:
 - '[[phenomenology-of-moral-experience]]'
 ---
 
-Moral perception is the capacity to directly apprehend ethical properties—wrongness, obligation, cruelty, goodness—as features of situations rather than inferring them from morally neutral facts. Witnessing someone deliberately harm a child does not merely provide data from which wrongness is deduced. The wrongness presents itself in the experience, with the same immediacy as colour or shape. The Unfinishable Map takes this seriously: if [phenomenal-value-realism](/concepts/phenomenal-value-realism/) is correct and value resides in conscious experience, moral perception is how agents access the evaluative dimension of reality.
+Moral perception is the capacity to directly apprehend ethical properties—wrongness, obligation, cruelty, goodness—as features of situations rather than inferring them from morally neutral facts. Witnessing someone deliberately harm a child does not merely provide data from which wrongness is deduced. The wrongness presents itself in the experience, with the same immediacy as colour or shape. The Unfinishable Map takes this seriously: if [phenomenal-value-realism](/topics/phenomenal-value-realism/) is correct and value resides in conscious experience, moral perception is how agents access the evaluative dimension of reality.
 
 ## The Perceptual Model
 
@@ -86,7 +86,7 @@ Moral perception poses a direct challenge to projectivism. If moral experience p
 
 The projectivist can appeal to familiar cases where phenomenology misleads: the sun appears to move across the sky; colours appear to be intrinsic properties of surfaces. But in those cases, independent evidence reveals the mismatch between appearance and reality. For moral perception, the phenomenal datum *is* the primary evidence. Dismissing it requires independent grounds that do not simply assume projectivism from the start.
 
-[Phenomenal value realism](/concepts/phenomenal-value-realism/) provides the framework. As Sharon Rawlette argues, the phenomenal character of certain experiences—pleasure, pain, the felt wrongness of cruelty—constitutes rather than merely tracks evaluative facts. If value is built into the structure of conscious experience, moral perception is genuine access to evaluative reality, not projection onto a value-free world.
+[Phenomenal value realism](/topics/phenomenal-value-realism/) provides the framework. As Sharon Rawlette argues, the phenomenal character of certain experiences—pleasure, pain, the felt wrongness of cruelty—constitutes rather than merely tracks evaluative facts. If value is built into the structure of conscious experience, moral perception is genuine access to evaluative reality, not projection onto a value-free world.
 
 ## Contemplative Deepening
 
@@ -110,7 +110,7 @@ Moral perception connects to the Map's [foundational commitments](/tenets/) at s
 
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral experience feels like and how moral perception works
 - [moral-phenomenology](/concepts/moral-phenomenology/) — The broader study of moral experience's phenomenal character
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — How phenomenal properties carry normative force
 - [normative-void](/voids/normative-void/) — Where moral perception reaches its limits
 - [affective-void](/voids/affective-void/) — The space of affects beyond human access

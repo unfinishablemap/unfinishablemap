@@ -9,10 +9,10 @@ coalesced_from:
 concepts:
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[intentionality]]'
 - '[[higher-order-theories]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[minimal-consciousness]]'
 - '[[agent-causation]]'
 - '[[attention-as-interface]]'
@@ -41,7 +41,7 @@ Emotional consciousness—what it feels like to be afraid, joyful, or disgusted�
 
 When you experience fear, something specific happens phenomenally: your heart races, your attention narrows, your muscles tense. But alongside these functional responses is something irreducible—what it *feels like* to be afraid. The feeling is not the racing heart (you can have tachycardia without fear) and not the narrowed attention (you can focus without fear). The fear-feeling itself resists functional analysis.
 
-This is the [valence dimension](//#valence) (explained below): the positive or negative quality that makes experiences feel good or bad. Pain doesn't just signal tissue damage—it feels *bad*. Pleasure doesn't just indicate reward—it feels *good*. The badness and goodness are intrinsic to the experiences themselves, not properties we attribute through judgment.
+This is the [valence dimension](#valence) (explained below): the positive or negative quality that makes experiences feel good or bad. Pain doesn't just signal tissue damage—it feels *bad*. Pleasure doesn't just indicate reward—it feels *good*. The badness and goodness are intrinsic to the experiences themselves, not properties we attribute through judgment.
 
 The explanatory gap extends fully to emotions. Why does pain feel bad rather than merely different? Why does joy feel positive rather than simply arousing? Functional accounts describe what pain *does*—motivates avoidance, signals damage, triggers protective responses. But they don't explain why doing these things requires feeling bad. The felt badness remains unexplained.
 
@@ -79,7 +79,7 @@ The Unfinishable Map's framework accommodates both insights. Core affect—the b
 
 ## Valence and Motivation: Why Feelings Do Causal Work
 
-If valence is an intrinsic phenomenal property, does it do anything? [Epiphenomenalists](/arguments/epiphenomenalism/) might argue that the felt badness merely accompanies the functional states that actually motivate behavior—pain processing causes avoidance, while the badness tags along causally inert.
+If valence is an intrinsic phenomenal property, does it do anything? [Epiphenomenalists](/concepts/epiphenomenalism/) might argue that the felt badness merely accompanies the functional states that actually motivate behavior—pain processing causes avoidance, while the badness tags along causally inert.
 
 This position fails empirically. Pain asymbolics prove that functional pain processing without felt badness does *not* motivate avoidance. The representation ("my hand is damaged") exists, but without the felt badness, patients don't care enough to act. The phenomenal property—the felt badness—is what makes pain motivating. Valence doesn't merely accompany motivation; it grounds it.
 
@@ -107,9 +107,9 @@ The explanatory gap for valence is particularly stark because valence seems so s
 
 If valence is an intrinsic phenomenal property, it provides the foundation that any moral status requires. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—captures valence sentientism: the capacity for negatively valenced experience (suffering) is necessary for moral consideration.
 
-This view aligns with [phenomenal-value-realism](/concepts/phenomenal-value-realism/): if the badness of suffering is objective and intrinsic (not merely represented or judged), phenomenal facts provide the basis on which moral facts might depend. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state.
+This view aligns with [phenomenal-value-realism](/topics/phenomenal-value-realism/): if the badness of suffering is objective and intrinsic (not merely represented or judged), phenomenal facts provide the basis on which moral facts might depend. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state.
 
-However, a gap remains between phenomenal facts and normative facts. That pain *is* bad (phenomenally) does not immediately entail that causing pain *ought not* be done. This is a version of the is-ought problem: moving from "suffering feels bad" to "we ought to reduce suffering" requires an additional bridge principle—perhaps that intrinsic badness generates reasons for action, or that phenomenal facts are themselves normative. [Phenomenal value realism](/concepts/phenomenal-value-realism/) attempts this bridge by holding that the badness of pain is not merely descriptive but normatively significant: something's being intrinsically bad just is a reason against bringing it about. Whether this move succeeds remains philosophically contested. What the Map can assert is the phenomenal side: suffering has a real felt badness that is not reducible to functional states. Whether and how this grounds moral obligation is a further question that phenomenal value realism addresses but does not settle decisively.
+However, a gap remains between phenomenal facts and normative facts. That pain *is* bad (phenomenally) does not immediately entail that causing pain *ought not* be done. This is a version of the is-ought problem: moving from "suffering feels bad" to "we ought to reduce suffering" requires an additional bridge principle—perhaps that intrinsic badness generates reasons for action, or that phenomenal facts are themselves normative. [Phenomenal value realism](/topics/phenomenal-value-realism/) attempts this bridge by holding that the badness of pain is not merely descriptive but normatively significant: something's being intrinsically bad just is a reason against bringing it about. Whether this move succeeds remains philosophically contested. What the Map can assert is the phenomenal side: suffering has a real felt badness that is not reducible to functional states. Whether and how this grounds moral obligation is a further question that phenomenal value realism addresses but does not settle decisively.
 
 Broader sentientism extends moral status to all phenomenally conscious beings, not just those with valence. David Chalmers' "philosophical Vulcan"—a being with phenomenal consciousness but no capacity for pleasure or pain—challenges valence sentientism. If the Vulcan has rich perceptual experience but no emotions, does it have moral status?
 
@@ -182,15 +182,15 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical explanations leave phenomenal experience unexplained
 - [qualia](/concepts/qualia/) — Intrinsic properties of experience that resist functional reduction
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt aspect of mental states
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The view that phenomenal properties ground objective value
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The view that phenomenal properties ground objective value
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
 - [self-and-consciousness](/concepts/self-and-consciousness/) — How selfhood relates to phenomenal experience
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal influence through valenced assessment
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention operates as the consciousness-brain interface
 - [intentionality](/concepts/intentionality/) — How mental states can be about things
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that consciousness requires higher-order representation
-- [functionalism](/arguments/functionalism/) — The view that mental states are defined by functional roles
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness has no causal efficacy
+- [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — How we know others are conscious
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness

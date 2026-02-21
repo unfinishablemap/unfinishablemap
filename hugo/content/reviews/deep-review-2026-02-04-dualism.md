@@ -69,7 +69,7 @@ All six adversarial personas engaged:
 ### Cross-links Added
 
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) added to concepts frontmatter and Further Reading
-- [free-will](/concepts/free-will/) added to concepts frontmatter and Further Reading
+- [free-will](/topics/free-will/) added to concepts frontmatter and Further Reading
 
 ## Changes Summary
 

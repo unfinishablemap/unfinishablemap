@@ -71,7 +71,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 ### The Epiphenomenalist Challenge
 
-[Epiphenomenalism](/arguments/epiphenomenalism/) holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
+[epiphenomenalism](/concepts/epiphenomenalism/) holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
 
 This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose felt valence guides behaviour. If consciousness does nothing, this apparent design is illusory.
 
@@ -83,7 +83,7 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 **Flexible response**: Conscious processing enables novel responses to unpredictable situations. Reflexes are fast but rigid; conscious evaluation is slower but adaptive. In complex environments—social groups, variable terrain, predator-prey arms races—flexibility may outweigh speed.
 
-**Integration**: [Unified conscious experience](/phenomenal-unity/) binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
+**Integration**: [Unified conscious experience](/concepts/phenomenal-binding-and-holism/) binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
 
 **Valenced guidance**: [Emotional consciousness](/topics/emotional-consciousness/) provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
 
@@ -165,7 +165,7 @@ The [animal-consciousness](/topics/animal-consciousness/) topic addresses which 
 
 ### Substrate Independence?
 
-The Map's [critique of substrate independence](/substrate-independence-critique/) argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
+The Map's [critique of substrate independence](/concepts/substrate-independence/) argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
 
 ## Relation to Site Perspective
 
@@ -224,7 +224,7 @@ Scientific humility requires specifying what would count against one's view.
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
 - [panpsychism](/concepts/panpsychism/) — The view that experience is fundamental
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into unified minds
-- [phenomenal-unity](/phenomenal-unity/) — The binding of experience into unified wholes
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
 - [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of emotions and its adaptive role
 - [illusionism](/concepts/illusionism/) — The radical physicalist response and why it doesn't dissolve evolutionary questions
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological precedents

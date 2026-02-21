@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Eastern Metaphysics and the Map's Framework](/eastern-metaphysics-integration/)
+**Article**: [Eastern Metaphysics and the Map's Framework](/topics/eastern-philosophy-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

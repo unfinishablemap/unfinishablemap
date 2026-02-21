@@ -90,7 +90,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 - **Tenet alignment**: Bidirectional Interaction (body as mediator), Minimal Quantum Interaction (where in the body does the interface operate?)
 
 #### Predictive Processing and the Map's Framework
-- **Builds on**: [predictive-processing](/concepts/predictive-processing/), [consciousness-and-surprise](/consciousness-and-surprise/), [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)
+- **Builds on**: [predictive-processing](/concepts/predictive-processing/), [consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/), [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)
 - **Would address**: The predictive processing framework (Karl Friston, Andy Clark, Jakob Hohwy) represents the most sophisticated current physicalist account of consciousness. The Map engages with it only tangentially. A dedicated article showing where predictive processing succeeds (explaining perceptual phenomena), where it fails (the hard problem persists within its framework), and how the Map's quantum interface model could integrate with prediction error minimisation would strengthen the framework significantly.
 - **Estimated scope**: Long article
 - **Tenet alignment**: Dualism (predictive processing doesn't solve the hard problem), Bidirectional Interaction (consciousness modulates prediction error processing)
@@ -140,7 +140,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 | [filter-theory](/concepts/filter-theory/) | [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/) | Filter theory grounds the dream consciousness analysis |
 | [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) | [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) | Self-location over time depends on memory's temporal binding |
 | [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) | [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) | Binding argument provides motivation for quantum approaches |
-| [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) | [introspection-rehabilitation](/topics/introspection-rehabilitation/) | Both concern training improving first-person access |
+| [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) | [introspection-rehabilitation](/topics/introspection-rehabilitation/) | Both concern training improving first-person access |
 
 ## New Concept Pages Needed
 

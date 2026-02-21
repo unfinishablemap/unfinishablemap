@@ -87,7 +87,7 @@ topics: []
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) in "Relation to the Map's Perspective"
 - [downward-causation](/concepts/downward-causation/) in emergentist response (not just Further Reading)
 - [mysterianism](/concepts/mysterianism/) in coherence section
-- [epiphenomenalism](/arguments/epiphenomenalism/) in self-stultification argument
+- [epiphenomenalism](/concepts/epiphenomenalism/) in self-stultification argument
 - [tenets](/tenets/#no-many-worlds) in Many-Worlds note
 
 ### Effective Patterns Identified

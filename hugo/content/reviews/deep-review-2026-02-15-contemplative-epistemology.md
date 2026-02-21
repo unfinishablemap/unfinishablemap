@@ -80,7 +80,7 @@ topics: []
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
-- [observational-closure](/observational-closure/)
+- [observational-closure](/concepts/causal-closure/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) (moved from concepts to topics)
 
 ## Remaining Items

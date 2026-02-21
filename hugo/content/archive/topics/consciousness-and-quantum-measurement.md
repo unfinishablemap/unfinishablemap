@@ -177,7 +177,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among equi-energetic outcomes without injecting energy or violating conservation laws.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [epiphenomenalism](/arguments/epiphenomenalism/) denies.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [epiphenomenalism](/concepts/epiphenomenalism/) denies.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The framework requires collapse to be real. Many-Worlds eliminates collapse, and with it consciousness's selective role. If all outcomes occur, consciousness selects nothing—it merely discovers which branch it's in.
 
@@ -186,7 +186,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 ## Further Reading
 
 - [measurement-problem](/concepts/measurement-problem/) — Technical treatment of the measurement problem
-- [quantum-measurement-and-definite-outcomes](/quantum-measurement-and-definite-outcomes/) — Why definite outcomes occur and where consciousness might participate
+- [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/) — Why definite outcomes occur and where consciousness might participate
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The first-person dimension of measurement
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
@@ -194,7 +194,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-collapse interaction
 - [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The causal closure loophole
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How mind and body interact
-- [many-worlds](/arguments/many-worlds/) — Arguments against MWI
+- [many-worlds](/concepts/many-worlds/) — Arguments against MWI
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

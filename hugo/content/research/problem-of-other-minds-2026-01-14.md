@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[mysterianism]]'
 created: 2026-01-14
 date: &id001 2026-01-14

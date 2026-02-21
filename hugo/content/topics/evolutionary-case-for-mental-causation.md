@@ -5,7 +5,7 @@ ai_modified: 2026-02-07 00:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[consciousness-as-amplifier]]'
 - '[[baseline-cognition]]'
 - '[[evolution-of-consciousness]]'
@@ -54,7 +54,7 @@ The conclusion follows: consciousness has fitness effects. And if it has fitness
 
 ## The Epiphenomenalist Response
 
-[Epiphenomenalists](/arguments/epiphenomenalism/) grant that consciousness exists but deny it has causal effects. On this view, neural processes cause both behaviour and conscious experience, but conscious experience itself causes nothing. We feel pain because of neural activity; we withdraw our hand because of neural activity; the painfulness of pain is an inert byproduct.
+[Epiphenomenalists](/concepts/epiphenomenalism/) grant that consciousness exists but deny it has causal effects. On this view, neural processes cause both behaviour and conscious experience, but conscious experience itself causes nothing. We feel pain because of neural activity; we withdraw our hand because of neural activity; the painfulness of pain is an inert byproduct.
 
 Thomas Huxley offered the classic analogy: consciousness is like the steam whistle on a locomotive—produced by the engine's operation but not contributing to its movement. The train runs because of the engine; the whistle just signals that the engine is running.
 
@@ -170,7 +170,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious contribution
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The position the evolutionary argument challenges
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The position the evolutionary argument challenges
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework where consciousness has causal power
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How consciousness might have emerged and developed
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader relationship between the two

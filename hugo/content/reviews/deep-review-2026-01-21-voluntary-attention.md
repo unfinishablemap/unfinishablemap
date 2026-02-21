@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Voluntary Attention](/voluntary-attention/)
+**Article**: [Voluntary Attention](/concepts/attention-as-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

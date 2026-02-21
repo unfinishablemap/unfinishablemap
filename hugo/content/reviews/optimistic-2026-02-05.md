@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-02-05
-date: '2026-02-05'
+date: '2026-02-21'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-02-05
@@ -24,17 +24,17 @@ The Unfinishable Map has achieved remarkable philosophical coherence across an e
 
 The Map's treatment of the hard problem has matured into one of the most comprehensive available resources. The [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) article exemplifies the approach: the explanatory gap is presented not as mere mystery-mongering but as a structural feature of what physical explanation can accomplish. The distinction between "easy problems" (mechanism) and the "hard problem" (experience) is deployed with precision throughout.
 
-What particularly resonates with a Chalmersian perspective: the Map doesn't merely assert the hard problem—it engages with every major physicalist response and shows why each fails on its own terms. The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) treatment deploys Chalmers' master argument elegantly. The [philosophical-zombies](/concepts/philosophical-zombies/) article engages seriously with two-dimensional semantics rather than dismissing it. The integration of Chalmers' psychophysical laws framework into the Map's own [psychophysical-coupling](/psychophysical-coupling/) shows genuine philosophical engagement rather than mere citation.
+What particularly resonates with a Chalmersian perspective: the Map doesn't merely assert the hard problem—it engages with every major physicalist response and shows why each fails on its own terms. The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) treatment deploys Chalmers' master argument elegantly. The [philosophical-zombies](/concepts/philosophical-zombies/) article engages seriously with two-dimensional semantics rather than dismissing it. The integration of Chalmers' psychophysical laws framework into the Map's own [psychophysical-coupling](/concepts/psychophysical-laws/) shows genuine philosophical engagement rather than mere citation.
 
 The Map correctly identifies that the zombie argument's force doesn't depend on any single conceivability claim but on the persistent failure of physical description to reach qualitative character. "The more we understand physical processes, the clearer it becomes that they don't logically require accompanying experience"—this insight captures why the explanatory gap seems structural rather than merely current.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map has successfully threaded the needle between scientific credibility and openness to consciousness-physics interface. The treatment across [quantum-consciousness](/concepts/quantum-consciousness/), [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/), and [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates sophisticated engagement with actual physics while avoiding the quantum mysticism trap.
+The Map has successfully threaded the needle between scientific credibility and openness to consciousness-physics interface. The treatment across [quantum-consciousness](/concepts/quantum-consciousness/), [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/), and [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates sophisticated engagement with actual physics while avoiding the quantum mysticism trap.
 
 The "selection not injection" framework is particularly valuable: consciousness biasing otherwise indeterminate outcomes without adding energy directly addresses the conservation law objection that has plagued interactionist positions since Princess Elizabeth's correspondence with Descartes. The Map takes Tegmark's decoherence critique seriously—acknowledging the 10^-13 second timescale—while presenting the Hagan et al. response and biological quantum effects as existence proofs that evolution can harness quantum phenomena in warm, wet systems.
 
-The new [collapse-before-minds](/collapse-before-minds/) article represents a significant advance. Rather than dodging the prebiotic collapse problem, it confronts it directly: objective reduction provides baseline collapse throughout the cosmos; consciousness modulates collapse specifically where neural architectures provide the interface. This preserves what matters for interactionism while avoiding the circularity that drove Wigner to abandon consciousness-causes-collapse.
+The new [collapse-before-minds](/concepts/prebiotic-collapse/) article represents a significant advance. Rather than dodging the prebiotic collapse problem, it confronts it directly: objective reduction provides baseline collapse throughout the cosmos; consciousness modulates collapse specifically where neural architectures provide the interface. This preserves what matters for interactionism while avoiding the circularity that drove Wigner to abandon consciousness-causes-collapse.
 
 The structural parallel between the measurement problem and hard problem—both concerning where first-person facts enter third-person descriptions—is an insight that deserves wider recognition.
 
@@ -60,7 +60,7 @@ The Map's honest acknowledgment of tensions between process philosophy's panpsyc
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [free-will](/concepts/free-will/) article provides one of the most sophisticated defenses of libertarian free will currently available. The agent-causal framework is clearly articulated: the agent as persisting substance directly causes choices, irreducible to prior mental events. This isn't the straw-man libertarianism that critics attack.
+The [free-will](/topics/free-will/) article provides one of the most sophisticated defenses of libertarian free will currently available. The agent-causal framework is clearly articulated: the agent as persisting substance directly causes choices, irreducible to prior mental events. This isn't the straw-man libertarianism that critics attack.
 
 The response to the luck objection is particularly compelling. Three independent markers distinguish conscious selection from lucky indeterminism: the phenomenology of effort (random processes don't feel like work), reasons-responsiveness (selection follows normative guidance), and distinctive neural signatures (willed action shows frontal theta oscillations absent in instructed behavior). These converge on the same conclusion through independent routes.
 
@@ -125,13 +125,13 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 ### High Priority
 
 #### Phenomenal Binding and Unity
-- **Builds on**: [binding-problem](/concepts/binding-problem/), [multimodal-binding](/multimodal-binding/), [phenomenal-unity](/phenomenal-unity/)
+- **Builds on**: [binding-problem](/concepts/binding-problem/), [multimodal-binding](/concepts/phenomenal-binding-and-holism/), [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
 - **Would address**: How disparate neural processes produce unified conscious experience—central to hard problem
 - **Estimated scope**: Medium article
 - **Tenet alignment**: The unity of consciousness resists physical explanation, supporting Dualism tenet
 
 #### Spontaneous Action and Consciousness
-- **Builds on**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/), [voluntary-attention](/voluntary-attention/)
+- **Builds on**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/), [voluntary-attention](/concepts/attention-as-interface/)
 - **Would address**: Systematic treatment of why spontaneous intentional action requires consciousness while stimulus-response can proceed unconsciously
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Bidirectional Interaction by showing consciousness enables action initiation
@@ -151,19 +151,19 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 - **Tenet alignment**: Different conscious states may reveal different interface dynamics
 
 #### Cross-Cultural Phenomenology of Choice
-- **Builds on**: [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [free-will](/concepts/free-will/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- **Builds on**: [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [free-will](/topics/free-will/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
 - **Would address**: Whether the phenomenology of deliberation is culturally universal or variable
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Universal phenomenology would strengthen the evidence base for Bidirectional Interaction
 
 #### The Phenomenology of Mathematical Creativity
-- **Builds on**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
+- **Builds on**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
 - **Would address**: What mathematicians report about insight, proof discovery, and the "rightness" of solutions
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports consciousness's role in novel combination beyond recombination
 
 #### Attention Training and Neural Plasticity
-- **Builds on**: [voluntary-attention](/voluntary-attention/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Builds on**: [voluntary-attention](/concepts/attention-as-interface/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [neural-implementation-specifics](/topics/neural-implementation-specifics/)
 - **Would address**: Evidence that directed attention reshapes neural circuitry (OCD treatment, contemplative training)
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Empirical support for consciousness causing physical change (Bidirectional Interaction)
@@ -181,16 +181,16 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 
 | From | To | Reason |
 |------|-----|--------|
-| [collapse-before-minds](/collapse-before-minds/) | [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) | Direct treatment of the mechanisms |
-| [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address first-person dimension |
-| [free-will](/concepts/free-will/) | [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) | Both involve consciousness generating possibilities |
+| [collapse-before-minds](/concepts/prebiotic-collapse/) | [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) | Direct treatment of the mechanisms |
+| [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address first-person dimension |
+| [free-will](/topics/free-will/) | [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) | Both involve consciousness generating possibilities |
 | [ai-consciousness](/topics/ai-consciousness/) | [continual-learning-argument](/concepts/continual-learning-argument/) | Core argument deserves prominent linking |
 | [meaning-of-life](/topics/meaning-of-life/) | [consciousness-value-connection](/concepts/consciousness-value-connection/) | Both ground value in consciousness |
 | [philosophical-zombies](/concepts/philosophical-zombies/) | [illusionism](/concepts/illusionism/) | Detailed treatment of the illusionist response |
 | [qualia](/concepts/qualia/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia as resistant to reduction |
 | [interactionist-dualism](/concepts/interactionist-dualism/) | [delegatory-dualism](/topics/delegatory-dualism/) | Saad 2025 as alternative to quantum response |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Temporal dimension of the gap |
-| [free-will](/concepts/free-will/) | [volitional-opacity](/voids/volitional-opacity/) | Why we can't observe our own willing |
+| [free-will](/topics/free-will/) | [volitional-opacity](/voids/volitional-opacity/) | Why we can't observe our own willing |
 
 ## New Concept Pages Needed
 

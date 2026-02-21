@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Arguments Against Materialism](/arguments-against-materialism/)
+**Article**: [Arguments Against Materialism](/concepts/the-case-for-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -80,7 +80,7 @@ topics: []
 - [mysterianism](/concepts/mysterianism/)
 - [introspection](/concepts/introspection/)
 - [decoherence](/concepts/decoherence/)
-- [many-worlds](/arguments/many-worlds/)
+- [many-worlds](/concepts/many-worlds/)
 - [haecceity](/concepts/haecceity/)
 - [combination-problem](/concepts/combination-problem/)
 - [measurement-problem](/concepts/measurement-problem/)

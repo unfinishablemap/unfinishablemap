@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-07
-**Article**: [Against Materialism](/arguments/materialism/)
+**Article**: [Against Materialism](/concepts/materialism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -65,7 +65,7 @@ None identified.
 - `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)` (topic)
 - `[qualia](/concepts/qualia/)` (concept - pending creation)
 - `[tenets](/tenets/)` (related article)
-- `[consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/)` (related question)
+- `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` (related question)
 
 ## Remaining Items
 

@@ -55,7 +55,7 @@ This bidirectional flow distinguishes contemplative neuroscience from both pure 
 
 One of the most striking integration findings involves gamma-band neural oscillations (30-70 Hz). Long-term meditators show dramatically increased gamma power and gamma coherence across brain regions during meditation—and even at baseline rest compared to controls.
 
-**The phenomenological observation**: Contemplative traditions describe a unification of experience during concentrated attention—disparate perceptions coalesce into a seamless present moment. The [specious-present](/specious-present/) contracts and intensifies. Attention becomes unified rather than fragmented.
+**The phenomenological observation**: Contemplative traditions describe a unification of experience during concentrated attention—disparate perceptions coalesce into a seamless present moment. The [specious-present](/concepts/temporal-consciousness/) contracts and intensifies. Attention becomes unified rather than fragmented.
 
 **The neural observation**: Gamma synchrony provides a mechanism for neural binding—distant brain regions firing in coordination, potentially enabling unified conscious experience from distributed processing. Increased gamma coherence during meditation correlates with reports of experiential unification.
 
@@ -102,7 +102,7 @@ The Map interprets this as bidirectional interaction: conscious intention (pheno
 
 **Integration significance**: These modes have distinct phenomenologies with distinct neural implementations. The contemplative traditions distinguished them for centuries on experiential grounds; neuroscience now shows they engage different brain systems. A purely phenomenological account would lack the neural distinctions; a purely neural account would lack the experiential meaning. Integration reveals that both perspectives describe the same phenomenon from different angles.
 
-The modes also demonstrate [voluntary control](/voluntary-attention/). The meditator can shift between focused attention and open monitoring through conscious intention. This shift has neural signature. The phenomenological distinction tracks a neural distinction, and both are brought about through willed mental action.
+The modes also demonstrate [voluntary control](/concepts/attention-as-interface/). The meditator can shift between focused attention and open monitoring through conscious intention. This shift has neural signature. The phenomenological distinction tracks a neural distinction, and both are brought about through willed mental action.
 
 ## Jhana States and Advanced Practice
 

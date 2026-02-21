@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Psychophysical Coupling Law Mechanisms](/psychophysical-coupling-law-mechanisms/)
+**Article**: [Psychophysical Coupling Law Mechanisms](/topics/psychophysical-laws-bridging-mind-and-matter/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

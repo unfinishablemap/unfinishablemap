@@ -68,7 +68,7 @@ All six adversarial personas applied. No new critical issues identified:
 From other articles TO `[idealism](/concepts/idealism/)`:
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [panpsychism](/concepts/panpsychism/)
-- [materialism](/arguments/materialism/)
+- [materialism](/concepts/materialism/)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 

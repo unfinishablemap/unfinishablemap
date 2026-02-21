@@ -16,7 +16,7 @@ concepts:
 - '[[illusionism]]'
 - '[[mysterianism]]'
 - '[[explanatory-gap]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[argument-from-reason]]'
 - '[[stapp-quantum-mind]]'
@@ -131,7 +131,7 @@ This doesn't license pessimism—it licenses humility. We can continue investiga
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If phenomenal unity requires quantum coherence, this provides empirical content to the tenet. The binding problem might be unsolvable at the classical level precisely because unity is a quantum phenomenon. Consciousness could bias which coherent states collapse into unified moments without violating physical law. The thalamus—Default Space Theory's binding coordinator—becomes a plausible site for quantum selection interfaces.
 
-**[Bidirectional Interaction](/tenets/#bidirectional)**: Attention influences what gets bound into unified experience. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely passively reflected neural binding, we couldn't voluntarily control which streams unify. The fact that attention shapes binding suggests top-down causation from phenomenal states to neural coordination—exactly what bidirectional interaction predicts. This connects to [free will](/concepts/free-will/) and [agent causation](/concepts/agent-causation/): if phenomenal binding is partly under voluntary control, consciousness isn't merely registering what the brain presents—it's actively selecting among possible unified experiences.
+**[Bidirectional Interaction](/tenets/#bidirectional)**: Attention influences what gets bound into unified experience. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely passively reflected neural binding, we couldn't voluntarily control which streams unify. The fact that attention shapes binding suggests top-down causation from phenomenal states to neural coordination—exactly what bidirectional interaction predicts. This connects to [free will](/topics/free-will/) and [agent causation](/concepts/agent-causation/): if phenomenal binding is partly under voluntary control, consciousness isn't merely registering what the brain presents—it's actively selecting among possible unified experiences.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The binding problem looks different depending on one's interpretation of quantum mechanics. On many-worlds, every superposition branches into parallel realities—there's no collapse and no selection. This removes any role for consciousness in determining which neural patterns become actual. The Map rejects this: if binding involves consciousness selecting among superposed neural states (as the quantum binding hypothesis suggests), then collapse must be real and consciousness must participate in it. Many-worlds makes binding a purely computational process with no room for phenomenal selection. The unified experience *you* have would be just one branch among infinitely many, raising unanswerable indexical questions about why you're experiencing *this* unified moment rather than another.
 
@@ -151,7 +151,7 @@ This doesn't license pessimism—it licenses humility. We can continue investiga
 - [illusionism](/concepts/illusionism/) — The view that phenomenal unity is illusory (and why it fails)
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap between physical description and phenomenal facts
-- [free-will](/concepts/free-will/) — How voluntary attention shapes what gets bound
+- [free-will](/topics/free-will/) — How voluntary attention shapes what gets bound
 - [argument-from-reason](/topics/argument-from-reason/) — Why denying phenomenal consciousness undermines reasoning
 
 ### References

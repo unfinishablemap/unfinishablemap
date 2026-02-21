@@ -104,7 +104,7 @@ None. All critical issues resolved. The coalesced article is well-structured and
 - **Illusionism engagement**: Regress argument is present and sufficient. Deeper AST engagement deferred to linked critique article.
 - **Buddhist no-self**: Bedrock philosophical difference — the article's unified subject presupposition reflects the Map's dualist framework.
 - **MWI debate**: Differential results argument is explicit; remaining disagreement is philosophical standoff.
-- **Quantum mechanism specifics**: Appropriately hedged as "candidate" throughout. Detailed treatment deferred to [attention-interface-mechanisms](/attention-interface-mechanisms/).
+- **Quantum mechanism specifics**: Appropriately hedged as "candidate" throughout. Detailed treatment deferred to [attention-interface-mechanisms](/topics/attention-as-selection-interface/).
 - **Citation propagation risk**: The coalesce operation reintroduced citation errors (Vossel, Bengson, COGITATE journal) that had been fixed in individual source articles. Future coalesces should verify citations against corrected versions.
 
 ## Word Count

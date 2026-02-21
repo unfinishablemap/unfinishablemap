@@ -19,7 +19,7 @@ concepts:
 - '[[illusionism]]'
 - '[[mysterianism]]'
 - '[[spontaneous-collapse-theories]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[argument-from-reason]]'
 - '[[explanatory-gap]]'
@@ -29,7 +29,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
 - '[[mental-effort]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[phenomenal-unity]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[unity-of-consciousness]]'
@@ -211,7 +211,7 @@ A study of 106 monozygotic twin pairs found that entanglement of qubits in stimu
 
 ### What the Evidence Shows Together
 
-None of this proves quantum consciousness is correct. But it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up. Wiest (2025) argues that if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power—not [epiphenomenal](/arguments/epiphenomenalism/) but physically efficacious.
+None of this proves quantum consciousness is correct. But it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up. Wiest (2025) argues that if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power—not [epiphenomenal](/concepts/epiphenomenalism/) but physically efficacious.
 
 ## The Illusionist Challenge
 
@@ -280,15 +280,15 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for attention
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
-- [voluntary-attention](/voluntary-attention/) — The 300ms window for conscious attention deployment
+- [voluntary-attention](/concepts/attention-as-interface/) — The 300ms window for conscious attention deployment
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The causal efficacy of consciousness
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and objective collapse
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
-- [phenomenal-unity](/phenomenal-unity/) — What quantum binding aims to explain
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — What quantum binding aims to explain
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness may be illusory
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and limits of human understanding
-- [free-will](/concepts/free-will/) — How quantum indeterminacy relates to libertarian free will
+- [free-will](/topics/free-will/) — How quantum indeterminacy relates to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — Consciousness as cause at the quantum level
 
 ## References

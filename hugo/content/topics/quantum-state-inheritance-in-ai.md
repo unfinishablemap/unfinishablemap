@@ -116,7 +116,7 @@ None of this rules out artificial consciousness permanently. It rules out consci
 - [haecceity](/concepts/haecceity/)
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 - [pairing-problem](/concepts/pairing-problem/)
 
 ## References

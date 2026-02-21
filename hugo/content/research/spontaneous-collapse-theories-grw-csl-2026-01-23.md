@@ -4,7 +4,7 @@ ai_modified: 2026-01-23 03:01:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-01-29'
+date: '2026-02-21'
 draft: false
 related_articles: []
 title: Research Notes - Spontaneous Collapse Theories (GRW, CSL, Objective Reduction)
@@ -386,14 +386,14 @@ Based on this research, an article could:
 **Primary article recommendation**: Create concept page `spontaneous-collapse-theories.md` covering GRW, CSL, and prebiotic collapse problem as solution for Minimal Quantum Interaction tenet.
 
 **Related articles to link**:
-- `[quantum-measurement-problem](/quantum-measurement-problem/)` - spontaneous collapse as solution
-- `[minimal-quantum-interaction](/minimal-quantum-interaction/)` - consciousness modulates baseline collapse
-- `[many-worlds](/arguments/many-worlds/)` - collapse theories reject branching
+- `quantum-measurement-problem` - spontaneous collapse as solution
+- `[tenets](/tenets/#minimal-quantum-interaction)` - consciousness modulates baseline collapse
+- `[many-worlds](/concepts/many-worlds/)` - collapse theories reject branching
 - `[decoherence](/concepts/decoherence/)` - relationship to spontaneous collapse (complementary vs. competing)
 - `[quantum-consciousness](/concepts/quantum-consciousness/)` - Orch OR as controversial quantum mind theory
 - `[causal-closure](/concepts/causal-closure/)` - spontaneous collapse modifies microphysics
 - `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` - comparison with Stapp's observer-collapse model
-- `[psychophysical-coupling](/psychophysical-coupling/)` - CSL-IIT as coupling law specification
+- `[psychophysical-coupling](/concepts/psychophysical-laws/)` - CSL-IIT as coupling law specification
 
 **Tenet alignment summary**:
 - **Dualism**: Consciousness-modulated collapse (hybrid models) preserves ontological distinction

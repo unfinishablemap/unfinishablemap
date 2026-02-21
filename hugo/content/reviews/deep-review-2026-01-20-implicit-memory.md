@@ -79,7 +79,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
 - [decoherence](/concepts/decoherence/)
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/)
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 
 ## Remaining Items

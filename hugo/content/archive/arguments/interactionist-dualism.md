@@ -20,7 +20,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[quantum-consciousness]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
@@ -31,7 +31,7 @@ modified: *id001
 original_path: /arguments/interactionist-dualism/
 related_articles:
 - '[[tenets]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 superseded_by: /concepts/interactionist-dualism/
 title: For Interactionist Dualism
 topics:
@@ -128,7 +128,7 @@ Phenomenal Intentionality Theory deepens the point: intentionality may *depend o
 
 **Premise 3**: If our discussions are not caused by consciousness, we have no reason to trust them as accurate reports about consciousness.
 
-**Conclusion**: [Epiphenomenalism](/arguments/epiphenomenalism/) undermines itself; consciousness must be causally relevant.
+**Conclusion**: [epiphenomenalism](/concepts/epiphenomenalism/) undermines itself; consciousness must be causally relevant.
 
 This argument is often overlooked but decisive against epiphenomenal dualism. The very fact that we discuss consciousness proves it is not epiphenomenal. An epiphenomenon—causally inert by definition—could not influence the neurons that move our mouths or type our words. Yet here we are, arguing about qualia.
 
@@ -218,8 +218,8 @@ The arguments directly support the site's foundational [tenets](/tenets/):
 
 ## Further Reading
 
-- [arguments-for-dualism](/arguments-for-dualism/) — Comprehensive concept treatment
-- [materialism](/arguments/materialism/) — The case against the main alternative
+- [arguments-for-dualism](/concepts/the-case-for-dualism/) — Comprehensive concept treatment
+- [materialism](/concepts/materialism/) — The case against the main alternative
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position defended here
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room explained
@@ -227,7 +227,7 @@ The arguments directly support the site's foundational [tenets](/tenets/):
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 - [mental-causation](/concepts/mental-causation/) — The exclusion argument addressed
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for interaction
-- [epiphenomenalism](/arguments/epiphenomenalism/) — What happens without causal efficacy
+- [epiphenomenalism](/concepts/epiphenomenalism/) — What happens without causal efficacy
 
 ## References
 

@@ -10,7 +10,7 @@ concepts:
 - '[[selection-laws]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[emergence]]'
 - '[[quantum-consciousness]]'
 - '[[agent-causation]]'
@@ -18,7 +18,7 @@ concepts:
 - '[[reductionism]]'
 - '[[illusionism]]'
 - '[[interface-locality]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[pairing-problem]]'
 - '[[decoherence]]'
 - '[[attention-as-interface]]'
@@ -40,7 +40,7 @@ related_articles:
 title: Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Mental causation is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -64,7 +64,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary formulatio
 3. **No systematic overdetermination**: Mental causes don't overdetermine effects alongside physical causes
 4. **Non-reductionism**: Mental properties are not identical to physical properties
 
-From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([epiphenomenalism](/arguments/epiphenomenalism/)), or mental properties just *are* physical properties ([reductionism](/concepts/reductionism/)). See [reductionism](/concepts/reductionism/#kims-challenge) for the fuller argument that non-reductive views face a fundamental dilemma.
+From these premises, Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([epiphenomenalism](/concepts/epiphenomenalism/)), or mental properties just *are* physical properties ([reductionism](/concepts/reductionism/)). See [reductionism](/concepts/reductionism/#kims-challenge) for the fuller argument that non-reductive views face a fundamental dilemma.
 
 The dilemma seems stark: deny that consciousness causes anything, or deny that consciousness is anything other than physics.
 
@@ -108,7 +108,7 @@ Saad's analogy: A major and a sergeant both order troops to advance. The major's
 
 This differs crucially from overdetermination. Overdetermination posits two independent sufficient causes both contributing. Preemption has one cause *operating* while the other is *sidelined*—present but idle.
 
-Saad's distinction between *universal* closure (every physical event has sufficient physical cause) and *[observational closure](/observational-closure/)* (no detectable violations) parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. Delegatory dualism addresses causal *structure*; the quantum opening addresses causal *mechanism*. The frameworks complement each other.
+Saad's distinction between *universal* closure (every physical event has sufficient physical cause) and *[observational closure](/concepts/causal-closure/)* (no detectable violations) parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. Delegatory dualism addresses causal *structure*; the quantum opening addresses causal *mechanism*. The frameworks complement each other.
 
 ### The Quantum Opening
 
@@ -132,7 +132,7 @@ Even granting that quantum indeterminacy provides an opening for mental causatio
 
 The [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *[selection laws](/concepts/selection-laws/)* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
 
-The [psychophysical-coupling](/psychophysical-coupling/) article surveys five candidate mechanisms:
+The [psychophysical-coupling](/concepts/psychophysical-laws/) article surveys five candidate mechanisms:
 
 1. **Attention → observation rate** (Stapp): Sustained attention increases quantum measurement frequency, "freezing" neural patterns via the quantum Zeno effect. The most developed proposal with testable predictions.
 
@@ -148,7 +148,7 @@ Only the first two mechanisms meet basic adequacy standards—specifying which p
 
 ### Why Not Many Worlds?
 
-If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. The Map's [rejection of Many-Worlds](/arguments/many-worlds/) is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
+If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform—every possibility actualizes somewhere. The Map's [rejection of Many-Worlds](/concepts/many-worlds/) is therefore essential to mental causation. On MWI, consciousness would be epiphenomenal with respect to quantum events: it couldn't affect which outcomes occur because all outcomes occur.
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet isn't incidental to the framework—it's required for mental causation to be possible.
 
@@ -168,7 +168,7 @@ This reframes mental causation as continuous with causation generally rather tha
 
 ### The Interface Question
 
-If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: consciousness is spatially located where it causally interfaces with the brain. [Interface-locality](/interface-locality/) constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
+If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: consciousness is spatially located where it causally interfaces with the brain. [Interface-locality](/concepts/brain-interface-boundary/) constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
 
 ## The Self-Stultification Argument
 
@@ -204,13 +204,13 @@ Mental causation is central to the Map's framework.
 
 **Strong Emergence**: the Map's position can be understood as strong [emergentism](/concepts/emergence/) with a mechanism. Classical emergentists affirmed mental causation but couldn't explain it. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
 
-**Against Epiphenomenalism**: The [self-stultification argument](/arguments/epiphenomenalism/) shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. The Map takes this seriously: mental causation isn't optional.
+**Against Epiphenomenalism**: The [self-stultification argument](/concepts/epiphenomenalism/) shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness—including epiphenomenalism. The Map takes this seriously: mental causation isn't optional.
 
 **Agent Causation**: The [agent-causal framework](/concepts/agent-causation/) provides the metaphysics. Mental causation isn't event→event but agent→event. The conscious subject exercises causal powers at quantum openings. This addresses Kim's exclusion argument by rejecting its event-causal assumptions.
 
 ## Why This Matters
 
-Mental causation bears directly on [free will](/concepts/free-will/) (consciousness must cause choices for agency to be real), moral responsibility (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge). The Map affirms mental causation because denying it undermines everything we think we know about ourselves.
+Mental causation bears directly on [free will](/topics/free-will/) (consciousness must cause choices for agency to be real), moral responsibility (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge). The Map affirms mental causation because denying it undermines everything we think we know about ourselves.
 
 ## What Would Challenge This View?
 
@@ -224,32 +224,32 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 **Dissociation of reports from experiences**: If manipulation could reliably make people report experiences they genuinely weren't having—accurate reports without corresponding experiences, or experiences without any reportability—this would challenge the causal connection the self-stultification argument depends on. Current evidence from blindsight and inattentional blindness show dissociations, but these are better interpreted as access consciousness/phenomenal consciousness distinctions than as breaks in the causal chain.
 
-**Confirmation of Many-Worlds**: If the [many-worlds interpretation](/arguments/many-worlds/) were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
+**Confirmation of Many-Worlds**: If the [many-worlds interpretation](/concepts/many-worlds/) were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all outcomes occur in branching universes. This would eliminate the quantum opening entirely.
 
 ## Further Reading
 
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument that consciousness must have causal effects to be selected
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of the framework requiring selection laws for mental causation
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws: how mental states select physical outcomes
-- [psychophysical-coupling](/psychophysical-coupling/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response to exclusion: experiences preempt rather than overdetermine
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Empirical evidence: conscious interference with automatized skills demonstrates causation
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's foundational commitment to consciousness causally influencing the physical world
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
-- [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI (and why it matters for mental causation)
+- [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (and why it matters for mental causation)
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The cumulative case against epiphenomenalism (five arguments)
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that accommodates mental causation
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The view denying mental causation
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation applied to free action
 - [Substance causation](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation) — The metaphysical thesis that substances, not events, are fundamental causal agents
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
-- [interface-locality](/interface-locality/) — Why consciousness affects only its own brain
+- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness affects only its own brain
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements the consciousness-physics interface
-- [free-will](/concepts/free-will/) — The implications for agency
+- [free-will](/topics/free-will/) — The implications for agency
 
 ## References
 

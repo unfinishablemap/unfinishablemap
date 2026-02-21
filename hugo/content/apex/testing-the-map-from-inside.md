@@ -40,7 +40,7 @@ related_articles:
 - '[[consciousness-and-agency]]'
 title: Testing the Map from Inside
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

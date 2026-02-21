@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Multimodal Binding](/multimodal-binding/)
+**Article**: [Multimodal Binding](/concepts/phenomenal-binding-and-holism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

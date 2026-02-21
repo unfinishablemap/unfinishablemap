@@ -51,9 +51,9 @@ This is the unity the [binding problem](/concepts/binding-problem/) addresses. H
 
 Experience flows through time. When you hear a melody, successive notes unify into phrases; when you read a sentence, words accumulate into meaning. This requires more than synchronic binding at each instant—it requires connection *across* instants.
 
-[Husserl's analysis](/concepts/temporal-consciousness/) identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what's coming). These form an indivisible whole within the [specious present](/specious-present/)—roughly 100 to 750 milliseconds within which succession is experienced as unified.
+[Husserl's analysis](/concepts/temporal-consciousness/) identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what's coming). These form an indivisible whole within the [specious present](/concepts/temporal-consciousness/)—roughly 100 to 750 milliseconds within which succession is experienced as unified.
 
-At larger scales, [autonoetic consciousness](/autonoetic-consciousness/) extends diachronic unity across a lifetime, allowing mental time travel while maintaining first-person perspective throughout.
+At larger scales, [autonoetic consciousness](/concepts/episodic-memory/) extends diachronic unity across a lifetime, allowing mental time travel while maintaining first-person perspective throughout.
 
 ### Subject Unity
 
@@ -97,7 +97,7 @@ On this view, solving one unity problem doesn't automatically solve the others. 
 
 ### Derivation View
 
-One unity is fundamental; the others derive from it. **Subject unity** might be constitutive if consciousness is essentially first-personal—synchronic and diachronic unity would be modes in which the subject's experience is organized. Alternatively, **synchronic unity** might be fundamental if consciousness must be unified at each moment (see [phenomenal-unity](/phenomenal-unity/))—subject unity would follow from having unified experiences. Or **diachronic unity** might be primary if temporal becoming is constitutive of experience itself, with synchronic unity as cross-sections and subject unity as process continuity.
+One unity is fundamental; the others derive from it. **Subject unity** might be constitutive if consciousness is essentially first-personal—synchronic and diachronic unity would be modes in which the subject's experience is organized. Alternatively, **synchronic unity** might be fundamental if consciousness must be unified at each moment (see [phenomenal-unity](/concepts/phenomenal-binding-and-holism/))—subject unity would follow from having unified experiences. Or **diachronic unity** might be primary if temporal becoming is constitutive of experience itself, with synchronic unity as cross-sections and subject unity as process continuity.
 
 ### Holism View
 
@@ -151,7 +151,7 @@ The [quantum interaction tenet](/tenets/#minimal-quantum-interaction) gains supp
 
 ### No Many Worlds
 
-Subject unity matters for rejecting [many-worlds](/arguments/many-worlds/). MWI says "you" exist in all branches, but subject unity insists *this* subject has *this* experience. When I report all my experiences belong to one subject, I'm reporting a phenomenological fact, not that some physical system exhibits functional coherence. [Indexical identity](/concepts/haecceity/) across time makes this non-trivial—if all branches are equally real and all copies equally "me," first-person unity claims become systematically false. But they seem true with maximal certainty.
+Subject unity matters for rejecting [many-worlds](/concepts/many-worlds/). MWI says "you" exist in all branches, but subject unity insists *this* subject has *this* experience. When I report all my experiences belong to one subject, I'm reporting a phenomenological fact, not that some physical system exhibits functional coherence. [Indexical identity](/concepts/haecceity/) across time makes this non-trivial—if all branches are equally real and all copies equally "me," first-person unity claims become systematically false. But they seem true with maximal certainty.
 
 ### Bidirectional Interaction
 
@@ -164,11 +164,11 @@ One might propose all three unities are "really" one thing for parsimony. But if
 ## Further Reading
 
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of synchronic feature binding
-- [phenomenal-unity](/phenomenal-unity/) — Why experience comes as integrated wholes
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Why experience comes as integrated wholes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
-- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity puzzle
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement as binding mechanism

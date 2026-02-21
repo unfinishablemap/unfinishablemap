@@ -12,9 +12,9 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[unity-of-consciousness]]'
 - '[[interactionist-dualism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[illusionism]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[mysterianism]]'
 - '[[panpsychism]]'
 - '[[philosophical-zombies]]'
@@ -98,7 +98,7 @@ Over 200 theories of consciousness exist. The Map engages with the most prominen
 
 ### Physicalist Theories
 
-**[Functionalism](/arguments/functionalism/)** identifies consciousness with functional roles—inputs, outputs, and internal state transitions. On this view, consciousness is what brains do, not what they are made of. The Map rejects functionalism: [zombies](/concepts/philosophical-zombies/) (functional duplicates without consciousness) are conceivable, and [inverted qualia](/concepts/inverted-qualia/) (same function, different phenomenology) seem possible. Function doesn't determine phenomenology.
+**[functionalism](/concepts/functionalism/)** identifies consciousness with functional roles—inputs, outputs, and internal state transitions. On this view, consciousness is what brains do, not what they are made of. The Map rejects functionalism: [zombies](/concepts/philosophical-zombies/) (functional duplicates without consciousness) are conceivable, and [inverted qualia](/concepts/inverted-qualia/) (same function, different phenomenology) seem possible. Function doesn't determine phenomenology.
 
 **[Global Workspace Theory](/concepts/global-workspace-theory/)** (Baars, Dehaene) explains access consciousness via information broadcast to multiple cognitive systems. When information enters the "global workspace," it becomes available for report, reasoning, and action. This explains access but not phenomenology—why does global broadcast feel like anything?
 
@@ -112,7 +112,7 @@ The Map rejects illusionism but takes it seriously as the strongest physicalist 
 
 **[Interactionist Dualism](/concepts/interactionist-dualism/)** holds that consciousness is distinct from physical processes yet causally connected to them. This is the Map's position. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies the interface: consciousness influences quantum indeterminacies without injecting energy.
 
-**[Epiphenomenalism](/arguments/epiphenomenalism/)** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: the very fact that we discuss consciousness shows that information about consciousness enters the physical domain, influencing speech and behaviour.
+**[epiphenomenalism](/concepts/epiphenomenalism/)** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: the very fact that we discuss consciousness shows that information about consciousness enters the physical domain, influencing speech and behaviour.
 
 **[Panpsychism](/concepts/panpsychism/)** holds that consciousness is fundamental and ubiquitous—even simple physical systems have experiential aspects. This avoids the "emergence problem" (how does experience arise from non-experience?) but faces the [combination-problem](/concepts/combination-problem/) (how do micro-experiences combine into unified macro-experience?).
 
@@ -150,9 +150,9 @@ Consciousness varies along multiple dimensions:
 
 **Level**: The degree of consciousness from deep anaesthesia through drowsiness to full alertness. Level affects which contents can enter consciousness and how richly they are experienced.
 
-**Mode**: Different kinds of consciousness with distinct phenomenology. [Autonoetic consciousness](/autonoetic-consciousness/) (episodic memory) involves mental time travel; [witness-consciousness](/concepts/witness-consciousness/) (contemplative practice) involves awareness without content; [dream consciousness](/concepts/dreams-and-consciousness/) differs from waking perception.
+**Mode**: Different kinds of consciousness with distinct phenomenology. [Autonoetic consciousness](/concepts/episodic-memory/) (episodic memory) involves mental time travel; [witness-consciousness](/concepts/witness-consciousness/) (contemplative practice) involves awareness without content; [dream consciousness](/concepts/dreams-and-consciousness/) differs from waking perception.
 
-**[Temporal Structure](/concepts/temporal-consciousness/)**: Consciousness has intrinsic temporal organisation—the [specious present](/specious-present/), memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
+**[Temporal Structure](/concepts/temporal-consciousness/)**: Consciousness has intrinsic temporal organisation—the [specious present](/concepts/temporal-consciousness/), memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
 
 **[Unity](/concepts/unity-of-consciousness/)**: The integration of diverse contents into a single experiential field. Unity varies—split-brain patients show partial disunity; certain drugs fragment experience.
 
@@ -179,7 +179,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds 
 
 **Voluntary action**: We experience initiating actions. While [Libet experiments](/concepts/libet-experiments/) complicate this, they don't eliminate genuine conscious influence—they may show consciousness operating through different temporal dynamics than naive introspection suggests.
 
-The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-motor-quantum-interface](/attention-motor-quantum-interface/) for specific proposals.
+The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-motor-quantum-interface](/concepts/attention-as-interface/) for specific proposals.
 
 ## Relation to Site Perspective
 
@@ -200,7 +200,7 @@ The Map's extensive coverage of consciousness includes:
 - Phenomenological structure ([phenomenal-consciousness](/concepts/phenomenal-consciousness/), [qualia](/concepts/qualia/), [unity-of-consciousness](/concepts/unity-of-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/))
 - Neuroscientific interface ([neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [binding-problem](/concepts/binding-problem/), [global-workspace-theory](/concepts/global-workspace-theory/))
 - Functional contrasts ([access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/))
-- Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/attention-motor-quantum-interface/))
+- Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/concepts/attention-as-interface/))
 - Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/))
 
 ## Further Reading

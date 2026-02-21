@@ -97,7 +97,7 @@ The site's intellectual honesty is its greatest epistemic virtue. The contemplat
 - **Tenet alignment**: All five tenets converge on this topic — it is arguably the most natural synthesis point
 
 #### Psychophysical Coupling Laws
-- **Builds on**: Referenced 53 times across the content via `[psychophysical-coupling](/psychophysical-coupling/)`; `consciousness-selecting-neural-patterns.md` explicitly defers to it for "four candidate coupling laws"
+- **Builds on**: Referenced 53 times across the content via `[psychophysical-coupling](/concepts/psychophysical-laws/)`; `consciousness-selecting-neural-patterns.md` explicitly defers to it for "four candidate coupling laws"
 - **Would address**: The most consequential conceptual gap in the site — how specific phenomenal properties map to specific physical selections through what mechanism
 - **Estimated scope**: Long article (2500-3000 words)
 - **Tenet alignment**: Directly specifies Minimal Quantum Interaction and Bidirectional Interaction

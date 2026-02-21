@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Arguments Against Materialism](/arguments-against-materialism/)
+**Article**: [Arguments Against Materialism](/concepts/the-case-for-dualism/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-arguments-against-materialism/)
 
 ## Pessimistic Analysis Summary
@@ -75,10 +75,10 @@ All major counterarguments were addressed in the previous review and remain adeq
 ### Cross-links Present
 
 Extensive cross-linking already in place:
-- [materialism](/arguments/materialism/), [explanatory-gap](/concepts/explanatory-gap/), [knowledge-argument](/concepts/knowledge-argument/), [philosophical-zombies](/concepts/philosophical-zombies/)
+- [materialism](/concepts/materialism/), [explanatory-gap](/concepts/explanatory-gap/), [knowledge-argument](/concepts/knowledge-argument/), [philosophical-zombies](/concepts/philosophical-zombies/)
 - [inverted-qualia](/concepts/inverted-qualia/), [qualia](/concepts/qualia/), [dualism](/concepts/dualism/), [interactionist-dualism](/concepts/interactionist-dualism/)
 - [quantum-consciousness](/concepts/quantum-consciousness/), [causal-closure](/concepts/causal-closure/), [illusionism](/concepts/illusionism/), [mysterianism](/concepts/mysterianism/)
-- [introspection](/concepts/introspection/), [decoherence](/concepts/decoherence/), [many-worlds](/arguments/many-worlds/), [haecceity](/concepts/haecceity/)
+- [introspection](/concepts/introspection/), [decoherence](/concepts/decoherence/), [many-worlds](/concepts/many-worlds/), [haecceity](/concepts/haecceity/)
 
 No additional cross-links needed.
 

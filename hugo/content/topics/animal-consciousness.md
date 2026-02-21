@@ -10,7 +10,7 @@ concepts:
 - '[[qualia]]'
 - '[[explanatory-gap]]'
 - '[[neural-correlates-of-consciousness]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[higher-order-theories]]'
 - '[[problem-of-other-minds]]'
 - '[[emotional-consciousness]]'
@@ -20,11 +20,11 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
 - '[[buddhism-and-dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[consciousness-as-amplifier]]'
 - '[[baseline-cognition]]'
 - '[[cumulative-culture]]'
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 - '[[metarepresentation]]'
 - '[[working-memory]]'
 created: 2026-01-14
@@ -116,9 +116,9 @@ The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis p
 
 **Working memory:** Human working memory capacity is ~4±1 items (Cowan 2001), revised downward from Miller's earlier 7±2 estimate. Chimpanzees score lower on most working memory tasks, though the gap is not uniform—Inoue & Matsuzawa (2007) demonstrated that young chimpanzees can outperform adult humans on rapid numerical memory tasks, suggesting the difference lies in *how* working memory is deployed rather than raw capacity alone. Consciousness may enable the flexible, goal-directed manipulation of held representations rather than simply expanding storage.
 
-**Cumulative culture:** Apes have culture but may not *know* they have culture (Whiten 2015). They express traditions without representing them as modifiable practices. Cumulative culture requires [metarepresentation](/metarepresentation/)—knowing that you know—which appears to require consciousness.
+**Cumulative culture:** Apes have culture but may not *know* they have culture (Whiten 2015). They express traditions without representing them as modifiable practices. Cumulative culture requires [metarepresentation](/concepts/metacognition/)—knowing that you know—which appears to require consciousness.
 
-**Theory of mind levels:** See [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/). Great apes pass Level 1 tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
+**Theory of mind levels:** See [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/). Great apes pass Level 1 tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
 
 **Logical reasoning:** Empirical research (Lieberman et al. 2008) shows rule-based logical reasoning specifically depends on conscious processing. If great apes lack this capacity, their cognition would be limited to associative learning.
 
@@ -206,7 +206,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 ### Consciousness and Intelligence
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness transforms baseline cognition into human-level intelligence
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness
-- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Theory of mind levels and shared intentionality
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Theory of mind levels and shared intentionality
 
 ### Related Topics
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why the explanatory gap applies universally

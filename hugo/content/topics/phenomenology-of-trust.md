@@ -33,7 +33,7 @@ related_articles:
 - '[[phenomenology-of-moral-experience]]'
 title: The Phenomenology of Trust
 topics:
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[phenomenology-of-belief-revision]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
@@ -115,7 +115,7 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 
 ## Further Reading
 
-- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
 - [intersubjectivity](/concepts/intersubjectivity/)

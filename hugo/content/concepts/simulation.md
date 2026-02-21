@@ -29,7 +29,7 @@ last_deep_review: 2026-01-30 23:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 title: The Simulation Hypothesis
 topics:
 - '[[ai-consciousness]]'
@@ -276,7 +276,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How choice phenomenology aligns with simulation over many-worlds
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The interface between consciousness and neural processing
 - [locality](/concepts/locality/) — How simulation reframes spatial coordination concerns
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The broader question of quantum selection
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The broader question of quantum selection
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Why the Map favours single-outcome interpretations
 - [measurement-problem](/concepts/measurement-problem/) — Where quantum indeterminacy meets observation

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Attention-Motor Quantum Interface](/attention-motor-quantum-interface/)
+**Article**: [Attention-Motor Quantum Interface](/concepts/attention-as-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -59,7 +59,7 @@ Six sympathetic personas (Property Dualist, Quantum Mind Theorist, Phenomenologi
 ### Cross-links Added
 - [libet-experiments](/concepts/libet-experiments/) (in body and Further Reading)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) (in Further Reading)
-- [quantum-decoherence-objection](/quantum-decoherence-objection/) (in concepts frontmatter)
+- [quantum-decoherence-objection](/concepts/decoherence/) (in concepts frontmatter)
 
 ## Remaining Items
 

@@ -13,7 +13,7 @@ coalesced_from:
 concepts:
 - '[[consciousness-and-creativity]]'
 - '[[attention-as-interface]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[baseline-cognition]]'
 - '[[conscious-vs-unconscious-processing]]'
 - '[[working-memory]]'
@@ -39,7 +39,7 @@ related_articles:
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 title: Creativity, Consciousness, and Novel Thought
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[animal-consciousness]]'
 ---
@@ -86,7 +86,7 @@ Creative generation requires initiating action from internal states alone—imag
 
 ## The Selection Mechanism: Quantum Zeno
 
-The [quantum selection framework](/questions/consciousness-selecting-neural-patterns/) provides a candidate mechanism for how consciousness selects among creative possibilities. Through the quantum Zeno effect, rapid repeated observation holds quantum states from decohering, effectively "freezing" certain outcomes in place. Whether quantum coherence persists long enough at neural scales remains debated—critics cite rapid decoherence, while proponents point to biological systems that maintain coherence (see [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)). If the mechanism operates, it would work as follows:
+The [quantum selection framework](/concepts/consciousness-selecting-neural-patterns/) provides a candidate mechanism for how consciousness selects among creative possibilities. Through the quantum Zeno effect, rapid repeated observation holds quantum states from decohering, effectively "freezing" certain outcomes in place. Whether quantum coherence persists long enough at neural scales remains debated—critics cite rapid decoherence, while proponents point to biological systems that maintain coherence (see [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)). If the mechanism operates, it would work as follows:
 
 1. The brain presents quantum-superposed possibilities—multiple neural firing patterns exist in superposition
 2. Conscious attention constitutes rapid observation of these patterns
@@ -107,7 +107,7 @@ Selection alone doesn't explain creativity. Where do the options come from? A pu
 
 **Possibility space expansion:** Husserl called imagination the "domain of possibility and realm of freedom." The mechanism may involve attention operating on representations decoupled from accuracy requirements. Where perception must track the actual world, imagination can represent the non-actual. The neural basis may be the Default Mode Network's capacity for "remote associative thinking"—connecting concepts that don't co-occur in direct experience.
 
-**Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for [metarepresentation](/metarepresentation/): representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
+**Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for [metarepresentation](/concepts/metacognition/): representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
 
 ## Transformational Creativity
 
@@ -127,7 +127,7 @@ Great apes show no transformational creativity. Their innovations stay within es
 
 ### Why Metarepresentation Requires Consciousness
 
-[Metarepresentation](/metarepresentation/)—representing your own representations as objects of thought—seems necessary for escaping the zone. But why should metarepresentation require consciousness?
+[Metarepresentation](/concepts/metacognition/)—representing your own representations as objects of thought—seems necessary for escaping the zone. But why should metarepresentation require consciousness?
 
 The [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction) is key. Maintaining information can proceed unconsciously (activity-silent short-term memory). But *manipulating* information—using it flexibly—requires conscious reactivation. Metarepresentation is manipulation of mental states: taking your beliefs and methods as objects of thought to evaluate and modify.
 
@@ -238,7 +238,7 @@ Each requires explicitly representing non-actual states while manipulating those
 
 ## The Bergson Connection
 
-Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/duration/)—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
+Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/concepts/temporal-consciousness/)—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
 
 This framework suggests that the options consciousness "combines" don't fully pre-exist the combination. Imagination actively constitutes what's possible by exploring it. The zone of latent solutions appears as a boundary from outside—from where consciousness can represent the zone as a zone and ask what lies beyond.
 
@@ -266,13 +266,13 @@ The mechanistic question sharpens the philosophical question: could all this wor
 
 **The dualist response:** Several features resist the computationalist reduction:
 
-1. **Transformational creativity:** Changing the rule-system requires representing the rules as objects of thought. This [metarepresentation](/metarepresentation/) seems to require the kind of global integration that [global-workspace-theory](/concepts/global-workspace-theory/) associates with consciousness. AI systems work within training distributions; humans change the conceptual space itself.
+1. **Transformational creativity:** Changing the rule-system requires representing the rules as objects of thought. This [metarepresentation](/concepts/metacognition/) seems to require the kind of global integration that [global-workspace-theory](/concepts/global-workspace-theory/) associates with consciousness. AI systems work within training distributions; humans change the conceptual space itself.
 
 2. **The effort-outcome correlation:** Why does effortful attention correlate with creative outcomes if attention does no causal work? The correspondence between phenomenal effort and neural results (neuroplasticity, pattern stability) suggests the phenomenal state matters.
 
 3. **The bandwidth match:** Conscious processing's 10 bits/second matches the grain at which creative selection operates. If consciousness were epiphenomenal, why this precise correspondence?
 
-4. **Bergson's insight:** Each moment of [durée](/duration/) brings genuine novelty through memory's progressive integration. If lived time creates rather than merely rearranges, then consciousness has generative capacity that physical description cannot capture.
+4. **Bergson's insight:** Each moment of [durée](/concepts/temporal-consciousness/) brings genuine novelty through memory's progressive integration. If lived time creates rather than merely rearranges, then consciousness has generative capacity that physical description cannot capture.
 
 None of these settles the question conclusively. But the Map's position is that creativity provides one of consciousness's clearest test cases. If anywhere, mental causation should be visible here.
 
@@ -308,19 +308,19 @@ Current evidence doesn't support any of these conditions.
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role as the interface between consciousness and matter
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
-- [metarepresentation](/metarepresentation/) — The capacity to represent representations
+- [metarepresentation](/concepts/metacognition/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — Cultural ratcheting and why it requires metarepresentation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
-- [duration](/duration/) — Bergson's lived time as creative becoming
+- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and its neural correlates
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
-- [free-will](/concepts/free-will/) — How creative agency connects to libertarian free will
+- [free-will](/topics/free-will/) — How creative agency connects to libertarian free will
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
 
 ## References

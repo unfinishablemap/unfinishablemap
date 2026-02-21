@@ -22,7 +22,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
 - '[[mental-effort]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[decoherence]]'
 - '[[stapp-quantum-mind]]'
 - '[[phenomenal-unity]]'
@@ -161,7 +161,7 @@ A study of 106 monozygotic twin pairs found that entanglement of qubits in stimu
 
 None of this proves quantum consciousness is correct. But it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up.
 
-Wiest (2025) argues these findings have implications beyond correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not [epiphenomenal](/arguments/epiphenomenalism/) but physically efficacious.
+Wiest (2025) argues these findings have implications beyond correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not [epiphenomenal](/concepts/epiphenomenalism/) but physically efficacious.
 
 ## The Illusionist Challenge
 
@@ -239,7 +239,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
 - [decoherence](/concepts/decoherence/) — Comprehensive analysis of the decoherence objection
-- [phenomenal-unity](/phenomenal-unity/) — What quantum binding aims to explain
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — What quantum binding aims to explain
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal unity might be illusory
 - [mysterianism](/concepts/mysterianism/) — The possibility that consciousness-quantum connection exceeds human cognitive reach
 - [tenets](/tenets/) — The Map's foundational commitments

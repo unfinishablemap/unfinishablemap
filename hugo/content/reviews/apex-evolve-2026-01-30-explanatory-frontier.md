@@ -12,7 +12,7 @@ human_modified: null
 last_curated: null
 modified: *id001
 related_articles:
-- '[[explanatory-frontier]]'
+- explanatory-frontier
 title: 'Apex Evolution Review: The Explanatory Frontier'
 topics: []
 ---

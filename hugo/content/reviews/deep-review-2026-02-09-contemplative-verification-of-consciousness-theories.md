@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-09
-**Article**: [Contemplative Verification of Consciousness Theories](/contemplative-verification-of-consciousness-theories/)
+**Article**: [Contemplative Verification of Consciousness Theories](/topics/contemplative-evidence-for-consciousness-theories/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -38,7 +38,7 @@ topics: []
 
 6. **"Verification, not merely evidence" overclaimed**: Softened to "strong evidence—approaching verification" and added explicit acknowledgment of the physicalist reinterpretation.
 
-7. **Missing cross-links**: Added inline links to [epiphenomenalism](/arguments/epiphenomenalism/), [explanatory-gap](/concepts/explanatory-gap/), [witness-consciousness](/concepts/witness-consciousness/), [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [free-will](/concepts/free-will/).
+7. **Missing cross-links**: Added inline links to [epiphenomenalism](/concepts/epiphenomenalism/), [explanatory-gap](/concepts/explanatory-gap/), [witness-consciousness](/concepts/witness-consciousness/), [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [free-will](/topics/free-will/).
 
 ### Counterarguments Considered
 
@@ -71,11 +71,11 @@ topics: []
 ### Cross-links Added
 
 - [explanatory-gap](/concepts/explanatory-gap/)
-- [epiphenomenalism](/arguments/epiphenomenalism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 
 ## Remaining Items
 

@@ -71,7 +71,7 @@ No misattribution, dropped qualifiers, or source/Map conflation detected.
 
 ### Cross-links Present
 All appropriate cross-links already in place from previous review:
-- [explanatory-gap](/concepts/explanatory-gap/), [philosophical-zombies](/concepts/philosophical-zombies/), [qualia](/concepts/qualia/), [materialism](/arguments/materialism/), [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [knowledge-argument](/concepts/knowledge-argument/), [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [decoherence](/concepts/decoherence/), [tenets](/tenets/)
+- [explanatory-gap](/concepts/explanatory-gap/), [philosophical-zombies](/concepts/philosophical-zombies/), [qualia](/concepts/qualia/), [materialism](/concepts/materialism/), [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [knowledge-argument](/concepts/knowledge-argument/), [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [decoherence](/concepts/decoherence/), [tenets](/tenets/)
 
 ## Remaining Items
 

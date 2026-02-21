@@ -62,8 +62,8 @@ topics: []
 - [introspection](/concepts/introspection/) — Reliability of first-person data
 - [attention-as-interface](/concepts/attention-as-interface/) — Quantum Zeno mechanism
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure
-- [neural-quantum-coherence](/neural-quantum-coherence/) — Detailed coherence evidence
-- [many-worlds](/arguments/many-worlds/) — Why site rejects MWI
+- [neural-quantum-coherence](/concepts/quantum-coherence-in-neural-systems/) — Detailed coherence evidence
+- [many-worlds](/concepts/many-worlds/) — Why site rejects MWI
 
 ## Remaining Items
 

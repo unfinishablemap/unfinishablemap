@@ -35,7 +35,7 @@ Examined the panpsychism article's integration with the newly expanded [process-
 
 1. **Whitehead's "creativity" concept** — The process-philosophy article emphasizes creativity as Whitehead's "ultimate category" (the process by which the many become one). The panpsychism article implicitly captures this via "creative synthesis" in the phenomenal unity discussion, but doesn't name "creativity" explicitly.
 
-2. **Bergson's durée** — The process-philosophy article discusses Bergson and [duration](/duration/) as anticipating Whitehead. Panpsychism article doesn't mention Bergson.
+2. **Bergson's durée** — The process-philosophy article discusses Bergson and [duration](/concepts/temporal-consciousness/) as anticipating Whitehead. Panpsychism article doesn't mention Bergson.
 
 3. **Stapp-Whitehead quantum connection** — The process-philosophy article discusses Stapp's integration of Whitehead with quantum mechanics. Panpsychism article doesn't mention this connection.
 
@@ -66,7 +66,7 @@ Adding Bergson, Stapp-Whitehead quantum connections, or temporal consciousness w
 
 ### Cross-links Verified
 - [process-philosophy](/concepts/process-philosophy/) — linked in frontmatter and Further Reading with descriptive text
-- [phenomenal-unity](/phenomenal-unity/) — linked in Whitehead subsection
+- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — linked in Whitehead subsection
 - [combination-problem](/concepts/combination-problem/) — linked in Further Reading
 
 ## Word Count

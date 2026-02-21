@@ -30,7 +30,7 @@ topics: []
 - **Zombie-charge disanalogy**: The conditional necessity resolution used charge as an analogy, but charge is a physical property (its absence changes the physical world) while consciousness is non-physical (zombies are physically identical). Resolution: Added a paragraph explicitly acknowledging the disanalogy and its implications.
 - **Chalmers attribution softened**: Original text attributed to Chalmers a specific demand that psychophysical laws explain "why" correlations hold. In *The Conscious Mind*, Chalmers tends to treat psychophysical laws as brute fundamental laws rather than demanding deeper explanation. Resolution: Reframed as the hard problem transplanted into the metaphysics of laws, without over-attributing to Chalmers.
 - **Lewis citation incomplete**: Added Lewis (1994) "Humean Supervenience Debugged" as the primary reference for the best-system analysis, alongside the original Lewis (1973).
-- **Missing cross-links**: Added wikilinks to [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [mental-causation](/concepts/mental-causation/), [philosophical-zombies](/concepts/philosophical-zombies/), [epiphenomenalism](/arguments/epiphenomenalism/), [quantum-consciousness](/concepts/quantum-consciousness/), [emergence](/concepts/emergence/), [selection-laws](/concepts/selection-laws/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/).
+- **Missing cross-links**: Added wikilinks to [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [mental-causation](/concepts/mental-causation/), [philosophical-zombies](/concepts/philosophical-zombies/), [epiphenomenalism](/concepts/epiphenomenalism/), [quantum-consciousness](/concepts/quantum-consciousness/), [emergence](/concepts/emergence/), [selection-laws](/concepts/selection-laws/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/).
 
 ### Counterarguments Considered
 - **Humean symmetry objection** (if brute regularity suffices for physical laws, why not for psychophysical?): Addressed with the argument that cross-domain regularities bridging ontologically distinct categories create a qualitatively different explanatory gap than intra-domain physical regularities.
@@ -57,7 +57,7 @@ topics: []
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — in the Humean explanatory depth discussion
 - [mental-causation](/concepts/mental-causation/) — in the governing laws section
 - [philosophical-zombies](/concepts/philosophical-zombies/) — in the dispositional essentialism contingency discussion
-- [epiphenomenalism](/arguments/epiphenomenalism/) — in the dispositional essentialism causal powers discussion
+- [epiphenomenalism](/concepts/epiphenomenalism/) — in the dispositional essentialism causal powers discussion
 - [quantum-consciousness](/concepts/quantum-consciousness/) — in the No Many Worlds tenet connection
 - [emergence](/concepts/emergence/) — in the Humean symmetry response
 - [selection-laws](/concepts/selection-laws/) — in the new governing laws measurement problem paragraph

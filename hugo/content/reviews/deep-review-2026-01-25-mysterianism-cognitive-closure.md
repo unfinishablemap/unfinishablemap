@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Mysterianism Cognitive Closure](/mysterianism-cognitive-closure/)
+**Article**: [Mysterianism Cognitive Closure](/concepts/mysterianism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

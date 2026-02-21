@@ -36,7 +36,7 @@ related_articles:
 - '[[tenets]]'
 - '[[voids]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 title: Minds Without Words
 topics:
 - '[[animal-consciousness]]'
@@ -89,7 +89,7 @@ The evidence for consciousness-dependent operations includes:
 
 **Cumulative culture**: Whiten (2015) proposes that "apes have culture but may not know that they do"—the Jourdain Hypothesis. Great apes express cultural traditions but don't represent these as "our way of doing things" subject to deliberate modification. They behave culturally without culturally representing their behaviour. Cumulative culture—the ratchet effect where innovations build on innovations—requires metarepresentation.
 
-The human-ape intelligence gap tracks precisely those capacities where consciousness appears causally required. If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—causally inert—this systematic correspondence would be unexplained coincidence.
+The human-ape intelligence gap tracks precisely those capacities where consciousness appears causally required. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—this systematic correspondence would be unexplained coincidence.
 
 ## Emotional Consciousness: The Felt Quality of Valence
 
@@ -183,6 +183,6 @@ This apex article synthesises:
 ## Further Reading
 
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to consciousness stripped of content
-- [free-will](/concepts/free-will/) — How consciousness enables genuine agency through deliberation
+- [free-will](/topics/free-will/) — How consciousness enables genuine agency through deliberation
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical explanation leaves experience unexplained
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness

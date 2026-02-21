@@ -36,7 +36,7 @@ topics: []
    - **Resolution**: Added explicit statement of what observations would challenge basis/timing control framework.
 
 3. **Missing cross-links**: Article lacked connections to directly relevant concepts.
-   - **Resolution**: Added links to [attention-as-interface](/concepts/attention-as-interface/), [voluntary-attention](/voluntary-attention/), and [agent-causation](/concepts/agent-causation/).
+   - **Resolution**: Added links to [attention-as-interface](/concepts/attention-as-interface/), [voluntary-attention](/concepts/attention-as-interface/), and [agent-causation](/concepts/agent-causation/).
 
 ### Counterarguments Considered
 
@@ -74,7 +74,7 @@ topics: []
 ### Cross-links Added
 
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [voluntary-attention](/voluntary-attention/)
+- [voluntary-attention](/concepts/attention-as-interface/)
 - [agent-causation](/concepts/agent-causation/)
 
 ## Word Count

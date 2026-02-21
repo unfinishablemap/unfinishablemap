@@ -8,11 +8,11 @@ coalesced_from:
 - /topics/phenomenal-value-realism/
 - /topics/phenomenal-value-realism-development/
 concepts:
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[qualia]]'
 - '[[consciousness-value-connection]]'
 - '[[dualism]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[illusionism]]'
 - '[[haecceity]]'
 - '[[experiential-alignment]]'
@@ -43,7 +43,7 @@ topics:
 - '[[ethics-of-consciousness]]'
 ---
 
-Where does value come from? Not instrumental value—the usefulness of a hammer or the market price of a house—but *intrinsic* value, the kind that makes something worth caring about for its own sake. The Unfinishable Map holds that intrinsic value is a feature of conscious experience itself. The felt badness of suffering *is* badness. The felt goodness of joy *is* goodness. This position—[phenomenal-value-realism](/concepts/phenomenal-value-realism/)—is where the Map's metaphysics meets the questions that matter most.
+Where does value come from? Not instrumental value—the usefulness of a hammer or the market price of a house—but *intrinsic* value, the kind that makes something worth caring about for its own sake. The Unfinishable Map holds that intrinsic value is a feature of conscious experience itself. The felt badness of suffering *is* badness. The felt goodness of joy *is* goodness. This position—[phenomenal-value-realism](/topics/phenomenal-value-realism/)—is where the Map's metaphysics meets the questions that matter most.
 
 ## The Claim in Plain Terms
 
@@ -166,7 +166,7 @@ The [zombie thought experiment](/concepts/philosophical-zombies/) illustrates th
 
 ### Against Epiphenomenal Value
 
-Some philosophers accept that phenomenal consciousness exists but deny it has causal efficacy ([epiphenomenalism](/arguments/epiphenomenalism/)). On this view, our sense that suffering motivates escape is illusory—the physical brain state causes both the suffering and the escape behaviour, with no causal work done by the suffering itself.
+Some philosophers accept that phenomenal consciousness exists but deny it has causal efficacy ([epiphenomenalism](/concepts/epiphenomenalism/)). On this view, our sense that suffering motivates escape is illusory—the physical brain state causes both the suffering and the escape behaviour, with no causal work done by the suffering itself.
 
 The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects epiphenomenalism. Consciousness causally influences physical outcomes. This matters for value: if suffering's badness makes no causal difference, why would we care about it? Epiphenomenal value is practically inert—you cannot act to reduce it, since your actions are determined by physical states that the value does not influence.
 
@@ -246,7 +246,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 ## Further Reading
 
-- [Phenomenal Value Realism (Concept)](/concepts/phenomenal-value-realism/) — The definitional article on this metaethical position
+- [Phenomenal Value Realism (Concept)](/topics/phenomenal-value-realism/) — The definitional article on this metaethical position
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning
@@ -254,7 +254,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalising phenomenal value realism for AI alignment
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The evaluative dimension of the explanatory gap
-- [free-will](/concepts/free-will/) — Agency as intrinsically valuable phenomenal experience
+- [free-will](/topics/free-will/) — Agency as intrinsically valuable phenomenal experience
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — What contemplative practice reveals about value and consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions

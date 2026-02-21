@@ -64,12 +64,12 @@ topics: []
 
 ### Cross-links Added
 
-- [specious-present](/specious-present/) (frontmatter and inline)
-- [duration](/duration/) (frontmatter and Further Reading)
+- [specious-present](/concepts/temporal-consciousness/) (frontmatter and inline)
+- [duration](/concepts/temporal-consciousness/) (frontmatter and Further Reading)
 - [agent-causation](/concepts/agent-causation/) (frontmatter and Further Reading)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (frontmatter and Further Reading)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) (Further Reading, inline)
-- [many-worlds](/arguments/many-worlds/) (Further Reading)
+- [many-worlds](/concepts/many-worlds/) (Further Reading)
 - [mental-effort](/concepts/mental-effort/) (inline in falsifiability)
 
 ## Remaining Items

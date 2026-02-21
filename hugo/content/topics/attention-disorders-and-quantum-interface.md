@@ -27,7 +27,7 @@ related_articles:
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 title: Attention Disorders and the Quantum Interface
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -117,7 +117,7 @@ With practice, several capacities develop:
 
 **Effort requirements decrease.** Advanced meditators report that sustained attention becomes easier—the interface operates more efficiently.
 
-These changes have neural correlates. Long-term meditators show structural and functional differences in attention networks, including increased cortical thickness in areas associated with attention control. This is consistent with [Schwartz's OCD neuroplasticity evidence](/questions/consciousness-selecting-neural-patterns/): directed attention produces lasting brain changes.
+These changes have neural correlates. Long-term meditators show structural and functional differences in attention networks, including increased cortical thickness in areas associated with attention control. This is consistent with [Schwartz's OCD neuroplasticity evidence](/concepts/consciousness-selecting-neural-patterns/): directed attention produces lasting brain changes.
 
 ### The Witness State
 
@@ -195,13 +195,13 @@ The materialist might argue that attention disorders show attention is "just" ne
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
-- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — The unified attention-motor substrate for selection
+- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — The unified attention-motor substrate for selection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno approach to mind-brain interaction
-- [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from automatic attention
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention
 - [mental-effort](/concepts/mental-effort/) — Why attention feels effortful and what effort signifies
-- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-selection-interface](/concepts/motor-selection/) — Dopamine's role in threshold modulation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — How consciousness might select among neural options
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness might select among neural options
 
 ## References
 

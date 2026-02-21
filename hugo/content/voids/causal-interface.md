@@ -34,7 +34,7 @@ related_articles:
 title: The Causal Interface Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 We experience ourselves as causes. When you raise your arm, you feel yourself to be the author of that movement. When you choose coffee over tea, something in you—call it will, intention, decision—seems to make the choice happen. Yet we cannot observe *how* any of this works. The mechanism by which consciousness interfaces with physical causation is invisible from every angle we have.
@@ -166,7 +166,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — The causal interface as a specific instance of cognitive closure
-- [Free Will](/concepts/free-will/) — The broader context for questions of agency
+- [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause
 
 ## References

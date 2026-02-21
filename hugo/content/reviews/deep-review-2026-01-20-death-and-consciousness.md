@@ -71,7 +71,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/) — Consciousness as observer distinct from contents
 - [haecceity](/concepts/haecceity/) — Irreducible thisness
 - [decoherence](/concepts/decoherence/) — Challenge to quantum mechanisms
-- [epiphenomenalism](/arguments/epiphenomenalism/) — What bidirectional interaction rejects
+- [epiphenomenalism](/concepts/epiphenomenalism/) — What bidirectional interaction rejects
 
 ## Remaining Items
 

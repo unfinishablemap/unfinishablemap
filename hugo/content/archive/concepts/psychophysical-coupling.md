@@ -13,10 +13,10 @@ coalesced_from:
 concepts:
 - '[[psychophysical-laws]]'
 - '[[quantum-consciousness]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention]]'
 - '[[attention-as-interface]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 - '[[haecceity]]'
 - '[[integrated-information-theory]]'
 - '[[decoherence]]'
@@ -43,12 +43,12 @@ related_articles:
 - '[[psychophysical-coupling-problem-2026-01-15]]'
 - '[[brain-specialness-boundary-2026-01-15]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 superseded_by: /concepts/psychophysical-laws/
 title: Psychophysical Coupling
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation]]'
 ---
@@ -78,7 +78,7 @@ Chalmers proposes three psychophysical principles in "Facing Up to the Problem o
 
 ### The Map's Divergence
 
-The Map's rejection of [functionalism](/arguments/functionalism/) creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [haecceity](/concepts/haecceity/), not merely on abstract patterns.
+The Map's rejection of [functionalism](/concepts/functionalism/) creates tension with organizational invariance. If consciousness is more than functional organization (as the hard problem suggests), then identical organization doesn't guarantee identical experience. The Map's dualism implies that phenomenal properties supervene on more than just functional structure—on the particular conscious subject, with its [haecceity](/concepts/haecceity/), not merely on abstract patterns.
 
 ### Upward vs. Downward Direction
 
@@ -210,7 +210,7 @@ This proposal is highly speculative. If consciousness biases quantum outcomes, p
 
 ### 5. Unity as Sustained Entanglement {#unity}
 
-**Phenomenal property**: [phenomenal unity](/phenomenal-unity/)—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement.
+**Phenomenal property**: [phenomenal unity](/concepts/phenomenal-binding-and-holism/)—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement.
 
 Kerskens and Pérez (2022) reported possible entanglement signatures in human brain activity using MRI, with entanglement markers correlating with conscious state—though this requires replication. If phenomenal unity requires quantum entanglement, consciousness might actively sustain entanglement against decoherence.
 
@@ -337,11 +337,11 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 ## Further Reading
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' foundational framework
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
-- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
+- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
-- [attention](/attention/) — The attention-consciousness relationship
+- [attention](/concepts/attention-as-interface/) — The attention-consciousness relationship
 - [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — Evidence that attention and consciousness are separable processes
 - [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring coupling laws
@@ -351,7 +351,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [decoherence](/concepts/decoherence/) — The main physics objection and responses
 - [illusionism](/concepts/illusionism/) — The deflationary alternative
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for attention phenomenology
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The opposing view that phenomenal properties have no causal effects
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The opposing view that phenomenal properties have no causal effects
 - [binding-problem](/concepts/binding-problem/) — How distributed neural processes combine into unified experience
 - [tenets](/tenets/) — The Map's foundational commitments
 

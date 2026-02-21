@@ -9,7 +9,7 @@ concepts:
 - '[[existentialism]]'
 - '[[experiential-alignment]]'
 - '[[neurophenomenology]]'
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[ethics-of-consciousness]]'
 - '[[emotional-consciousness]]'
 - '[[illusionism]]'
@@ -100,7 +100,7 @@ The practical upshot: AI systems should be designed with humility about human pu
 
 ## Experiential Alignment: An Alternative Framework
 
-If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [phenomenal-value-realism](/concepts/phenomenal-value-realism/)—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [consciousness-value-connection](/concepts/consciousness-value-connection/), which argues that consciousness is necessary for value to exist at all. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
+If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [phenomenal-value-realism](/topics/phenomenal-value-realism/)—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [consciousness-value-connection](/concepts/consciousness-value-connection/), which argues that consciousness is necessary for value to exist at all. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
 
 This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right.
 
@@ -216,8 +216,8 @@ The practical upshot: AI systems should be designed with profound humility about
 
 - [emotional-consciousness](/topics/emotional-consciousness/) — The phenomenology of valence and why felt quality matters for alignment
 - [experiential-alignment](/concepts/experiential-alignment/) — The alternative framework targeting experiential quality
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
-- [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — How phenomenal value pluralism addresses the measurement problem and metaethical challenges
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
+- [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — How phenomenal value pluralism addresses the measurement problem and metaethical challenges
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — The broader ethical framework for consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — the Map's treatment of philosophical approaches to life's meaning
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds that AI systems lack consciousness

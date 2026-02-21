@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [Experiential Alignment Objective](/experiential-alignment-objective/)
+**Article**: [Experiential Alignment Objective](/concepts/experiential-alignment/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -63,7 +63,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 
 All cross-links valid:
 - [experiential-alignment](/concepts/experiential-alignment/) - exists
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - exists
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) - exists
 - [qualia](/concepts/qualia/) - standard concept
 - [neurophenomenology](/concepts/neurophenomenology/) - exists
 - [tenets](/tenets/) anchors - verified

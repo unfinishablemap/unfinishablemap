@@ -78,7 +78,7 @@ topics: []
 - [mental-effort](/concepts/mental-effort/) (phenomenology of effort)
 - [decoherence](/concepts/decoherence/) (quantum context)
 - [global-workspace-theory](/concepts/global-workspace-theory/) (competing theory)
-- [many-worlds](/arguments/many-worlds/) (MWI compatibility note)
+- [many-worlds](/concepts/many-worlds/) (MWI compatibility note)
 
 ## Remaining Items
 

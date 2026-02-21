@@ -32,10 +32,10 @@ related_articles:
 superseded_by: /topics/consciousness-and-the-grounds-of-normative-authority/
 title: Consciousness and Normative Authority
 topics:
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[ethics-of-consciousness]]'
 - '[[meaning-of-life]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Consciousness does not merely accompany normative judgments — it provides their authority. Without conscious experience, claims about what ought to be done, believed, or valued lose their grip. The Unfinishable Map argues that normativity across all domains — moral, epistemic, and aesthetic — traces back to irreducible features of conscious experience. The claim goes beyond consciousness being causally involved in normative reasoning: consciousness is what makes normative claims *authoritative* — binding, action-guiding, and genuinely about something that matters.
@@ -60,7 +60,7 @@ The moral domain provides the clearest case. Consider three candidate sources of
 
 **Phenomenal encounter:** Moral obligations derive from what conscious experience reveals. The felt badness of pain, the phenomenal texture of witnessing cruelty, the experiential weight of betraying trust — these are not conclusions drawn from premises but features of conscious life that carry normative force intrinsically.
 
-The Map favours the third option, developed through [phenomenal-value-realism](/concepts/phenomenal-value-realism/). Conscious experience is not merely evidence for moral facts — it is where moral facts live. The authority of moral claims rests on the irreducible phenomenal properties that make suffering bad, flourishing good, and cruelty wrong from the inside.
+The Map favours the third option, developed through [phenomenal-value-realism](/topics/phenomenal-value-realism/). Conscious experience is not merely evidence for moral facts — it is where moral facts live. The authority of moral claims rests on the irreducible phenomenal properties that make suffering bad, flourishing good, and cruelty wrong from the inside.
 
 This does not collapse morality into mere feeling. [moral-perception](/concepts/moral-perception/) involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as the colour of the walls — perceived by those with the right phenomenal capacities, invisible to those without.
 
@@ -72,7 +72,7 @@ Consider the norm that one should proportion belief to evidence. What makes evid
 
 More fundamentally, the *authority* of logical and mathematical reasoning depends on conscious understanding. A computer can execute valid inferences without grasping what they mean. A conscious reasoner does something different: they *see* that the conclusion follows, they *understand* why the premises support it. This phenomenal understanding — what it is like to follow an argument — is what gives epistemic norms their binding force.
 
-[agent-causation](/concepts/agent-causation/) strengthens this point. If conscious reasoning genuinely causes belief formation (rather than merely accompanying it), then epistemic authority requires the kind of mental causation the Map defends. An [epiphenomenal](/arguments/epiphenomenalism/) consciousness could not be epistemically responsible — it would hold beliefs without having formed them.
+[agent-causation](/concepts/agent-causation/) strengthens this point. If conscious reasoning genuinely causes belief formation (rather than merely accompanying it), then epistemic authority requires the kind of mental causation the Map defends. An [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not be epistemically responsible — it would hold beliefs without having formed them.
 
 ## Aesthetic Authority
 
@@ -123,7 +123,7 @@ The Map's position yields a distinctive implication: normative authority is not 
 ## Further Reading
 
 - [phenomenal-normativity](/concepts/phenomenal-normativity/)
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/)
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/)
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/)
 - [moral-perception](/concepts/moral-perception/)
 - [agent-causation](/concepts/agent-causation/)
@@ -131,7 +131,7 @@ The Map's position yields a distinctive implication: normative authority is not 
 - [normative-phenomenology](/concepts/normative-phenomenology/)
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [free-will](/concepts/free-will/)
+- [free-will](/topics/free-will/)
 
 ## References
 

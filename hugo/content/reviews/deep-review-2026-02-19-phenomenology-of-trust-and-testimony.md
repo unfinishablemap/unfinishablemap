@@ -69,7 +69,7 @@ topics: []
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/)
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
-- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [cumulative-culture](/concepts/cumulative-culture/)
 

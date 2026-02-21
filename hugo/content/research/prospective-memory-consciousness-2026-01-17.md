@@ -20,7 +20,7 @@ related_articles:
 title: 'Research: Prospective Memory and Future-Oriented Consciousness'
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Research notes on prospective memory (PM) and future-oriented consciousness—the complement to autonoetic consciousness's pastward projection.

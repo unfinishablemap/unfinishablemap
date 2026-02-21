@@ -9,7 +9,7 @@ concepts:
 - '[[intersubjectivity]]'
 - '[[theory-of-mind]]'
 - '[[consciousness-and-strong-emergence]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[baseline-cognition]]'
 created: 2026-02-15
 date: &id001 2026-02-18
@@ -27,7 +27,7 @@ related_articles:
 - '[[consciousness-and-the-emergence-debate]]'
 title: Consciousness and Collective Intelligence
 topics:
-- '[[consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-cognition]]'
 - '[[consciousness-and-strong-emergence]]'
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[machine-consciousness]]'
@@ -73,7 +73,7 @@ The Map finds these arguments provocative but ultimately unconvincing, for reaso
 
 The Map interprets collective intelligence not as evidence for group consciousness but as evidence for the power of conscious individuals interacting through classical channels.
 
-**Consciousness enables the interactions that produce collective intelligence.** The distinctive forms of human collective intelligence — scientific progress, institutional design, cultural accumulation — depend on capacities that the Map argues require phenomenal consciousness: [recursive mindreading](/concepts/consciousness-and-social-cognition/), genuine understanding of communicated propositions, and the ability to evaluate arguments rather than merely process signals. Ant colonies achieve collective intelligence without any of this, but they achieve a categorically different and more limited kind. Human collective intelligence builds on what consciousness makes possible at the individual level.
+**Consciousness enables the interactions that produce collective intelligence.** The distinctive forms of human collective intelligence — scientific progress, institutional design, cultural accumulation — depend on capacities that the Map argues require phenomenal consciousness: [recursive mindreading](/topics/consciousness-and-social-cognition/), genuine understanding of communicated propositions, and the ability to evaluate arguments rather than merely process signals. Ant colonies achieve collective intelligence without any of this, but they achieve a categorically different and more limited kind. Human collective intelligence builds on what consciousness makes possible at the individual level.
 
 **Emergence without new consciousness.** Collective intelligence exhibits genuine emergence in the weak sense: properties of the group (market prices, scientific consensus, cultural knowledge) are not properties of any individual. But [strong emergence](/topics/consciousness-and-strong-emergence/) — new ontological features arising from but irreducible to their base — is precisely what would be needed for group consciousness. The Map holds that consciousness is irreducible to physical processes (the Dualism tenet), but this does not entail that every complex system generates new consciousness. Consciousness requires the right kind of interface, and groups of people communicating through language and gesture do not constitute the right kind.
 
@@ -97,7 +97,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 
 ## Further Reading
 
-- [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — How individual consciousness enables the social cognition that makes collective intelligence possible
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — How individual consciousness enables the social cognition that makes collective intelligence possible
 - [combination-problem](/concepts/combination-problem/) — The challenge of explaining how experiences combine, relevant in both directions
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — The voids perspective: how groups create emergent blind spots
 - [intersubjective-void](/voids/intersubjective-void/) — Why the gap between individual minds persists even in tightly coupled groups

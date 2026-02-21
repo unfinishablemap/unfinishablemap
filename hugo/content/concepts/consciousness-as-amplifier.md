@@ -18,7 +18,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[illusionism]]'
 - '[[decoherence]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 - '[[witness-consciousness]]'
 - '[[phenomenology-of-choice]]'
 - '[[metarepresentation]]'
@@ -45,7 +45,7 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-Consciousness amplifies intelligence. Not by adding computational power—neurons handle computation—but by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The great ape-human intelligence gap, approximately ten-fold despite only 1-2% genetic difference, may reflect this amplification: great apes possess sophisticated neural systems, yet lack the conscious access that transforms raw processing into human-level cognition. If consciousness is [epiphenomenal](/arguments/epiphenomenalism/)—causally inert, merely observing neural activity—this gap is inexplicable. If consciousness causally amplifies what neural systems can achieve, the gap makes sense.
+Consciousness amplifies intelligence. Not by adding computational power—neurons handle computation—but by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The great ape-human intelligence gap, approximately ten-fold despite only 1-2% genetic difference, may reflect this amplification: great apes possess sophisticated neural systems, yet lack the conscious access that transforms raw processing into human-level cognition. If consciousness is [epiphenomenal](/concepts/epiphenomenalism/)—causally inert, merely observing neural activity—this gap is inexplicable. If consciousness causally amplifies what neural systems can achieve, the gap makes sense.
 
 The Unfinishable Map proposes that consciousness interfaces with neural systems through [attention](/concepts/attention-as-interface/), enabling selection among neural patterns. This interface doesn't replace neural processing but amplifies its reach—making stored knowledge flexibly accessible, enabling manipulation of representations, and supporting the kind of reasoning that cumulative culture requires.
 
@@ -77,7 +77,7 @@ Evidence supporting this framework:
 
 **Procedural versus declarative metacognition**: Great apes show [metacognitive](/concepts/metacognition/) monitoring—they recognise uncertainty, seek information when needed, understand others' goals and knowledge states. But this appears to be *procedural* metacognition: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we can represent our knowledge *as* knowledge, take our beliefs as objects of thought, know that we know. This metarepresentational capacity may require phenomenal consciousness, not merely functional processing.
 
-**The Jourdain Hypothesis**: Great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. As Whiten (2015) argues, they express cultural traditions without representing these as "our way of doing things" subject to deliberate modification and transmission. Cumulative culture requires [metarepresentation](/metarepresentation/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within what Tomasello calls the "zone of latent solutions"—the existing cognitive repertoire without genuine accumulation.
+**The Jourdain Hypothesis**: Great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. As Whiten (2015) argues, they express cultural traditions without representing these as "our way of doing things" subject to deliberate modification and transmission. Cumulative culture requires [metarepresentation](/concepts/metacognition/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within what Tomasello calls the "zone of latent solutions"—the existing cognitive repertoire without genuine accumulation.
 
 **Logical reasoning requires consciousness**: Empirical research (Lieberman et al. 2008; De Neys & Glumicic 2008) demonstrates that rule-based logical reasoning specifically depends on conscious processing. Cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Unconscious processing excels at pattern recognition, associative learning, and rapid categorisation. But explicit rule-following—"if P then Q, P, therefore Q"—requires conscious manipulation of representations.
 
@@ -113,7 +113,7 @@ The Bischof-Köhler hypothesis suggests animals cannot act on drive states they 
 
 William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this argument formally; the amplification hypothesis strengthens it with empirical evidence.
 
-If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—causally inert—then:
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—then:
 1. Human-level intelligence should be achievable through neural complexity alone
 2. Great apes should show no systematic gap in capacities tied to conscious processing
 3. The correlation between expanded consciousness and expanded intelligence would be coincidental
@@ -227,9 +227,9 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates; maintenance/manipulation distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt structure of deliberate selection
-- [metarepresentation](/metarepresentation/) — Representing representations as representations
+- [metarepresentation](/concepts/metacognition/) — Representing representations as representations
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The position the amplification evidence contradicts
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The position the amplification evidence contradicts
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness influences brain states
 
 ## References

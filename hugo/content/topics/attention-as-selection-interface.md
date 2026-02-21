@@ -18,11 +18,11 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[decoherence]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-coupling]]'
 - '[[interactionist-dualism]]'
 - '[[agent-causation]]'
-- '[[functionalism]]'
+- '[[concepts/functionalism]]'
 created: 2026-02-01
 date: &id001 2026-02-09
 description: Attention and motor planning share neural substrates, creating a unified
@@ -44,7 +44,7 @@ related_articles:
 title: Attention as the Selection Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Attention and motor planning share neural substrates. The premotor theory of attention demonstrates they use the same fronto-parietal networks—directing attention *is* preparing to act. The Unfinishable Map argues this convergence transforms the mind-body problem: if consciousness influences matter through attention (the [attention-as-interface hypothesis](/concepts/attention-as-interface/)), and attention is motor planning, then a single interface connects mind to world. Consciousness selects what to perceive and what to do through the same mechanism, at the same neural sites, on the same timescale. This article examines both the philosophical significance and the candidate mechanisms—where in the brain the interface operates, when selection occurs, and what testable predictions follow.
@@ -249,18 +249,18 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
 - [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — Evidence that attention and consciousness can come apart
-- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Detailed concept treatment of the unified interface
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
-- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-selection-interface](/concepts/motor-selection/) — Dopamine's role in threshold modulation
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of attentional effort
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
-- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
-- [psychophysical-coupling](/psychophysical-coupling/) — Constraints on what consciousness can influence
-- [free-will](/concepts/free-will/) — How timing constraints relate to libertarian free will
+- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Constraints on what consciousness can influence
+- [free-will](/topics/free-will/) — How timing constraints relate to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The selection model as agent causation
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 

@@ -8,7 +8,7 @@ concepts:
 - '[[haecceity]]'
 - '[[quantum-consciousness]]'
 - '[[measurement-problem]]'
-- '[[many-worlds]]'
+- '[[concepts/many-worlds]]'
 - '[[mind-matter-interface]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-probability-consciousness]]'
@@ -28,12 +28,12 @@ related_articles:
 title: Indexical Identity and Quantum Measurement
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Every interpretation of quantum mechanics faces the same unresolved question: why does *this* particular consciousness experience *this* particular measurement outcome? The [measurement-problem](/concepts/measurement-problem/) asks why we observe definite outcomes rather than superpositions. But even granting that definite outcomes occur, a deeper problem remains—what determines which outcome *I* experience, and why am *I* experiencing any outcome at all? This is the indexical gap, and it connects quantum mechanics directly to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/).
 
-The indexical gap reveals a blind spot across all major interpretations. [QBism](//#qbism) treats probabilities as subjective beliefs but cannot explain why consciousness has determinate content to begin with. Consciousness-collapse theories explain how collapse happens but not why *this* consciousness exists to trigger it. [Many-Worlds](/arguments/many-worlds/) makes every outcome equally real yet requires an inexplicable primitive fact about which branch "I" occupy. [Relational quantum mechanics](//#relational) denies consciousness any privileged role, treating "observer" as synonymous with "physical system." Each interpretation addresses the measurement problem while leaving the indexical problem untouched.
+The indexical gap reveals a blind spot across all major interpretations. [QBism](#qbism) treats probabilities as subjective beliefs but cannot explain why consciousness has determinate content to begin with. Consciousness-collapse theories explain how collapse happens but not why *this* consciousness exists to trigger it. [Many-Worlds](/concepts/many-worlds/) makes every outcome equally real yet requires an inexplicable primitive fact about which branch "I" occupy. [Relational quantum mechanics](#relational) denies consciousness any privileged role, treating "observer" as synonymous with "physical system." Each interpretation addresses the measurement problem while leaving the indexical problem untouched.
 
 ## The Indexical Problem Stated
 
@@ -55,7 +55,7 @@ Here we must distinguish two claims that are often conflated:
 
 The epistemic thesis is widely accepted; the metaphysical thesis is controversial. Perry's supermarket case and Lewis's Two Gods establish the epistemic thesis clearly. But a critic could argue the gods merely lack a cognitive *relation* to impersonal facts, not knowledge of additional facts. When the mountain god learns "I am the mountain god," perhaps the world hasn't changed—only the god's representational relation to it.
 
-The Map's position requires the metaphysical thesis. If indexical facts are merely modes of knowing impersonal facts, then the indexical question reduces to an epistemic puzzle about self-representation. The question "why does *this* consciousness experience *this* outcome?" would have a deflationary answer: *this* consciousness just is whatever system is asking the question. The metaphysical thesis grounds the question's depth—it asks about something real, not merely about how representations work. Arguments for the metaphysical thesis are developed in [the concept article on self-locating beliefs](/self-locating-beliefs/#from-epistemic-to-metaphysical-the-case-for-indexical-facts).
+The Map's position requires the metaphysical thesis. If indexical facts are merely modes of knowing impersonal facts, then the indexical question reduces to an epistemic puzzle about self-representation. The question "why does *this* consciousness experience *this* outcome?" would have a deflationary answer: *this* consciousness just is whatever system is asking the question. The metaphysical thesis grounds the question's depth—it asks about something real, not merely about how representations work. Arguments for the metaphysical thesis are developed in [the concept article on self-locating beliefs](/concepts/indexical-knowledge-and-identity/#from-epistemic-to-metaphysical-the-case-for-indexical-facts).
 
 ## How Each Interpretation Fails {#interpretations}
 
@@ -101,7 +101,7 @@ Many-Worlds makes indexical identity primitive—a brute fact not explained by t
 
 The debate here intersects the epistemic/metaphysical distinction. MWI defenders might argue they only need the epistemic thesis: each branch-version has self-locating *knowledge* about their branch, but no branch-transcendent indexical *fact* determines which version you "really" are. Branch-relative identity is all the identity there is. This is a sophisticated response that effectively denies the metaphysical thesis.
 
-The Map rejects this move for reasons detailed in [self-locating-beliefs](/self-locating-beliefs/): if the metaphysical thesis is false, the phenomenology of anticipating *one* future (not many) becomes mysterious. Why does it feel like there's a fact about which outcome I'll experience, if all outcomes are equally real and "I" just names whatever system is asking? The [No Many Worlds](/tenets/#no-many-worlds) tenet reflects this: the felt meaningfulness of "which branch will I be in?" suggests an indexical fact is at stake, not merely an indexical mode of knowing.
+The Map rejects this move for reasons detailed in [self-locating-beliefs](/concepts/indexical-knowledge-and-identity/): if the metaphysical thesis is false, the phenomenology of anticipating *one* future (not many) becomes mysterious. Why does it feel like there's a fact about which outcome I'll experience, if all outcomes are equally real and "I" just names whatever system is asking? The [No Many Worlds](/tenets/#no-many-worlds) tenet reflects this: the felt meaningfulness of "which branch will I be in?" suggests an indexical fact is at stake, not merely an indexical mode of knowing.
 
 ## The Participatory Realism Ambiguity
 
@@ -170,7 +170,7 @@ This topic intersects all five tenets:
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter
 - [interactionist-dualism](/concepts/interactionist-dualism/) - Causal connection between mind and body
-- [free-will](/concepts/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
+- [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 
 ## References
 

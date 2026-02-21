@@ -36,12 +36,12 @@ related_articles:
 superseded_by: /topics/consciousness-and-the-grounds-of-normative-authority/
 title: Consciousness and the Problem of Normative Integration
 topics:
-- '[[phenomenal-value-realism]]'
+- '[[topics/phenomenal-value-realism]]'
 - '[[ethics-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
-Consciousness faces a binding problem not just for perception but for normativity. The Unfinishable Map has explored how [normative properties appear across domains](/topics/phenomenology-of-normative-properties/) — moral, epistemic, aesthetic, prudential — and how [consciousness grounds their binding force](/consciousness-and-the-problem-of-normative-force/). But a deeper question remains: how does a single conscious agent *integrate* these diverse normative demands into a unified field that guides coherent action? When duty conflicts with self-interest, evidence clashes with loyalty, and beauty beckons away from obligation, the agent does not simply register each demand separately. Something integrates them — weighing, coordinating, and sometimes sacrificing one for another — producing a unified normative orientation from which the agent acts. This normative integration is among the most distinctive things consciousness does, and no existing theory adequately explains it.
+Consciousness faces a binding problem not just for perception but for normativity. The Unfinishable Map has explored how [normative properties appear across domains](/topics/phenomenology-of-normative-properties/) — moral, epistemic, aesthetic, prudential — and how [consciousness grounds their binding force](/topics/consciousness-and-the-grounds-of-normative-authority/). But a deeper question remains: how does a single conscious agent *integrate* these diverse normative demands into a unified field that guides coherent action? When duty conflicts with self-interest, evidence clashes with loyalty, and beauty beckons away from obligation, the agent does not simply register each demand separately. Something integrates them — weighing, coordinating, and sometimes sacrificing one for another — producing a unified normative orientation from which the agent acts. This normative integration is among the most distinctive things consciousness does, and no existing theory adequately explains it.
 
 ## The Problem Stated
 
@@ -128,13 +128,13 @@ If consciousness is irreducible, as the Map holds, then normative integration as
 ## Further Reading
 
 - [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-properties/) — The shared structure of normative experience across domains
-- [consciousness-and-the-problem-of-normative-force](/consciousness-and-the-problem-of-normative-force/) — Where the binding grip of "ought" comes from
-- [consciousness-and-normative-authority](/consciousness-and-normative-authority/) — How consciousness makes normative claims authoritative
+- [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-grounds-of-normative-authority/) — Where the binding grip of "ought" comes from
+- [consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — How consciousness makes normative claims authoritative
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Moral experience from the inside
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The phenomenology of deliberative processes
-- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Value as constituted by conscious experience
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
-- [free-will](/concepts/free-will/) — Genuine choice at the site of normative conflict
+- [free-will](/topics/free-will/) — Genuine choice at the site of normative conflict
 
 ## References
 

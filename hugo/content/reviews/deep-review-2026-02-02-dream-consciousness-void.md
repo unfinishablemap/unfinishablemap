@@ -65,7 +65,7 @@ Inbound links added FROM:
 - [introspection](/concepts/introspection/) — Added to Further Reading
 
 Outbound links added TO:
-- [materialism](/arguments/materialism/) — New link in Physicalist Response section
+- [materialism](/concepts/materialism/) — New link in Physicalist Response section
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Added to Further Reading
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Added to Further Reading
 - [introspection](/concepts/introspection/) — Added to Further Reading

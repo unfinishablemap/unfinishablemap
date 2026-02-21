@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[attention-as-interface]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attentional-economics]]'
 - '[[motor-selection]]'
 - '[[mental-effort]]'
@@ -27,7 +27,7 @@ related_articles:
 - '[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]'
 title: Control-Theoretic Will
 topics:
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -39,7 +39,7 @@ This reframing matters because it specifies what consciousness *can* and *cannot
 
 Computational models of mind treat consciousness as a processing system—one that represents, reasons, plans, and decides through something analogous to computation. The Map rejects this framing. Multiple existing articles converge on a different picture:
 
-- [Consciousness selects](/questions/consciousness-selecting-neural-patterns/) among quantum possibilities rather than computing outcomes
+- [Consciousness selects](/concepts/consciousness-selecting-neural-patterns/) among quantum possibilities rather than computing outcomes
 - [Attention serves as the interface](/concepts/attention-as-interface/)—a narrow channel, not a general-purpose processor
 - [Attentional economics](/concepts/attentional-economics/) describes how a scarce resource (~10 bits/second) gets allocated among competing demands
 - [Motor selection](/concepts/motor-selection/) shows the brain generating multiple action plans in parallel, with consciousness biasing which one reaches threshold
@@ -76,7 +76,7 @@ The Zeno mechanism (however it physically operates) functions as a stabilising f
 
 ### Veto
 
-The [policy-level selection](/questions/consciousness-selecting-neural-patterns/#policy-level-selection) framework includes veto—blocking an action the brain has prepared. Libet himself suggested this: even if the readiness potential begins before conscious awareness, consciousness can veto the action within a ~200ms window. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
+The [policy-level selection](/concepts/consciousness-selecting-neural-patterns/#policy-level-selection) framework includes veto—blocking an action the brain has prepared. Libet himself suggested this: even if the readiness potential begins before conscious awareness, consciousness can veto the action within a ~200ms window. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
 
 Veto requires minimal bandwidth. A single bit ("stop/go") suffices for the basic operation. This makes it perhaps the most plausible form of conscious control—even a ~10 bits/second channel can issue many veto signals per second.
 
@@ -96,7 +96,7 @@ Resource allocation connects to the [working memory constraint](/concepts/attent
 
 Framing will as control clarifies several aspects of the Map's position that remain ambiguous when described in purely philosophical terms.
 
-**Precision about limits.** Control theory distinguishes between what a controller *can* influence (observability and controllability) and what it *cannot*. The brain boundary problem—why consciousness influences its own brain but not external objects—becomes a controllability constraint: only systems within the attention loop are controllable. [Interface locality](/questions/consciousness-selecting-neural-patterns/#the-brain-boundary) is a standard control-theoretic requirement, not an ad hoc restriction.
+**Precision about limits.** Control theory distinguishes between what a controller *can* influence (observability and controllability) and what it *cannot*. The brain boundary problem—why consciousness influences its own brain but not external objects—becomes a controllability constraint: only systems within the attention loop are controllable. [Interface locality](/concepts/consciousness-selecting-neural-patterns/#the-brain-boundary) is a standard control-theoretic requirement, not an ad hoc restriction.
 
 **Bandwidth as design constraint, not deficiency.** A ~10 bits/second channel seems absurdly narrow. But control systems routinely use low-bandwidth signals to govern high-bandwidth plants. A thermostat outputs one bit (heat on/off) to control a complex thermal system. A pilot uses a few control inputs to manage an aircraft with millions of interacting parts. Low bandwidth is not a failure of the controller; it reflects appropriate abstraction—controlling at the right level.
 
@@ -140,7 +140,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## Open Questions
 
-**Formal specification.** What exactly is the control law? The Map identifies the controller's existence and its bandwidth, but the mapping from phenomenal states to control outputs—the psychophysical control law—remains unspecified. [Psychophysical coupling](/psychophysical-coupling/) explores candidates, but none has been formalised in control-theoretic terms.
+**Formal specification.** What exactly is the control law? The Map identifies the controller's existence and its bandwidth, but the mapping from phenomenal states to control outputs—the psychophysical control law—remains unspecified. [Psychophysical coupling](/concepts/psychophysical-laws/) explores candidates, but none has been formalised in control-theoretic terms.
 
 **Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? This connects to [moral responsibility](/concepts/attentional-economics/#implications-for-moral-responsibility)—control failures may carry different moral weight than control refusals.
 
@@ -151,11 +151,11 @@ Conflating the model with the ontology would be a category error—treating a us
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis that grounds the controller's output channel
-- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The selection mechanism the controller employs
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism the controller employs
 - [attentional-economics](/concepts/attentional-economics/) — The economics of the controller's scarce bandwidth
 - [motor-selection](/concepts/motor-selection/) — How the unified attention-motor system implements control
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of control effort
-- [psychophysical-coupling](/psychophysical-coupling/) — Candidate coupling laws (control laws in this framing)
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Candidate coupling laws (control laws in this framing)
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of the controller as genuine cause
 - [causal-closure](/concepts/causal-closure/) — Why control requires gaps in physical determinism
 

@@ -17,7 +17,7 @@ concepts:
 - '[[quantum-biology]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[argument-from-reason]]'
 - '[[explanatory-gap]]'
@@ -107,7 +107,7 @@ A January 2026 computational study from Princeton confirmed the radical pair mec
 
 Recent experiments have pushed quantum coherence into warmer regimes. Research from Innsbruck (2025) created Schrödinger cat states at 1.8 Kelvin—roughly 60 times warmer than typical quantum computing operating temperatures. The University of Science and Technology of China (2024) achieved coherence lasting 1,400 seconds in isolated ytterbium-173 atoms. While these are engineered laboratory systems far removed from neural conditions, they demonstrate that quantum coherence is not as fragile as early estimates suggested.
 
-Direct evidence for quantum effects in microtubules has emerged. Craddock et al. (2024) reported anesthetic binding studies showing effects on microtubule dynamics consistent with Orch OR predictions. Kerskens and Pérez (2022) published MRI findings suggesting macroscopic quantum states correlated with heartbeat-evoked potentials, though these results remain disputed—Warren (2024) critiqued the signal interpretation. Separately, resonance studies of tubulin dimers (Craddock et al., 2017) found vibrational modes potentially relevant to quantum coherence. These findings remain preliminary and contested, but they shift the burden of proof. See [quantum-neural-mechanisms](/quantum-neural-mechanisms/) for a comprehensive overview of five proposed neural quantum mechanisms and their current evidence status.
+Direct evidence for quantum effects in microtubules has emerged. Craddock et al. (2024) reported anesthetic binding studies showing effects on microtubule dynamics consistent with Orch OR predictions. Kerskens and Pérez (2022) published MRI findings suggesting macroscopic quantum states correlated with heartbeat-evoked potentials, though these results remain disputed—Warren (2024) critiqued the signal interpretation. Separately, resonance studies of tubulin dimers (Craddock et al., 2017) found vibrational modes potentially relevant to quantum coherence. These findings remain preliminary and contested, but they shift the burden of proof. See [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) for a comprehensive overview of five proposed neural quantum mechanisms and their current evidence status.
 
 ## What Decoherence Doesn't Disprove
 
@@ -133,7 +133,7 @@ The Map acknowledges this limit while maintaining that mapping the territory rem
 
 ## The No Many Worlds Connection
 
-The measurement problem discussion above assumes that collapse is real—that quantum mechanics requires outcome selection, not merely basis selection. The [Many-Worlds Interpretation](/arguments/many-worlds/) (MWI) denies this: all outcomes occur, and apparent collapse is indexical (we find ourselves in one branch because we couldn't find ourselves in all branches).
+The measurement problem discussion above assumes that collapse is real—that quantum mechanics requires outcome selection, not merely basis selection. The [Many-Worlds Interpretation](/concepts/many-worlds/) (MWI) denies this: all outcomes occur, and apparent collapse is indexical (we find ourselves in one branch because we couldn't find ourselves in all branches).
 
 The Map's [No Many Worlds tenet](/tenets/#no-many-worlds) rejects MWI precisely because it dissolves the role of consciousness in outcome selection. If all outcomes happen, consciousness doesn't select anything—it merely labels after the fact which branch "we" are in. But this makes [Bidirectional Interaction](/tenets/#bidirectional-interaction) incoherent: consciousness would be causally impotent, merely tracking pre-determined branching rather than influencing it.
 
@@ -147,14 +147,14 @@ The decoherence objection, properly understood, clarifies rather than refutes th
 
 The existence of quantum effects in avian magnetoreception demonstrates a crucial principle: evolution can harness quantum mechanics for biological function when selection pressure favors it. The evolutionary argument for [Bidirectional Interaction](/tenets/#bidirectional-interaction)—that consciousness must have causal effects to be selected for—suggests that if quantum consciousness provides adaptive advantage, evolution would optimize the neural architecture to support it.
 
-**Free Will Connection**: The neural decision windows (280-300ms) are precisely the timescales where [free-will](/concepts/free-will/) would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [agent-causation](/concepts/agent-causation/)—genuine authorship of decisions rather than mere passive observation of predetermined neural activity. The decoherence objection, by clarifying which mechanisms are viable and which are not, helps identify where in the causal chain consciousness could exercise genuine agency.
+**Free Will Connection**: The neural decision windows (280-300ms) are precisely the timescales where [free-will](/topics/free-will/) would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [agent-causation](/concepts/agent-causation/)—genuine authorship of decisions rather than mere passive observation of predetermined neural activity. The decoherence objection, by clarifying which mechanisms are viable and which are not, helps identify where in the causal chain consciousness could exercise genuine agency.
 
 **Argument from Reason**: The [argument-from-reason](/topics/argument-from-reason/) strengthens the case for taking quantum consciousness seriously. If genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism. The decoherence objection doesn't eliminate this possibility; it specifies the constraints any such mechanism must satisfy.
 
 ## Further Reading
 
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Full analysis of timing hierarchy from femtosecond decoherence to 300ms decision windows
-- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Five proposed neural quantum mechanisms and their current evidence status
+- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed neural quantum mechanisms and their current evidence status
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in biological systems (magnetoreception, photosynthesis)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness
@@ -163,7 +163,7 @@ The existence of quantum effects in avian magnetoreception demonstrates a crucia
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness might influence physical outcomes
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge to taking consciousness seriously
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of human understanding
-- [free-will](/concepts/free-will/) — How quantum indeterminacy might ground libertarian agency
+- [free-will](/topics/free-will/) — How quantum indeterminacy might ground libertarian agency
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought may require consciousness to have causal efficacy
 
 ## References

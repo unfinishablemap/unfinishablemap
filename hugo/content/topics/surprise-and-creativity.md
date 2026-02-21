@@ -10,10 +10,10 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[phenomenal-consciousness]]'
 - '[[attention-as-interface]]'
-- '[[consciousness-selecting-neural-patterns]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[counterfactual-reasoning]]'
 - '[[agent-causation]]'
-- '[[epiphenomenalism]]'
+- '[[concepts/epiphenomenalism]]'
 created: 2026-02-15
 date: &id001 2026-02-19
 description: Self-surprise is constitutive of genuine creativity, not incidental.
@@ -36,7 +36,7 @@ title: Surprise and Creativity
 topics:
 - '[[consciousness-and-surprise]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 ---
 
 Self-surprise is constitutive of genuine creativity, not incidental to it. A creator who fully foresees the result is executing a plan, not creating something new. The Unfinishable Map argues that this connection between surprise and creativity reveals something important about consciousness: creative acts require a mind that can be surprised by its own outputs, which in turn requires phenomenal experience that no purely computational process replicates. The felt jolt of "I didn't expect *that*" is not a side effect of the creative process but evidence that the process has produced genuine novelty rather than predetermined recombination.
@@ -55,7 +55,7 @@ This criterion distinguishes creativity from competence. A chess engine evaluati
 
 ## Why Self-Surprise Requires Consciousness
 
-Computational systems process prediction errors without experiencing surprise. A [predictive processing](/concepts/predictive-processing/) model generates error signals when input deviates from expectation, but as the Map argues in its treatment of [consciousness-and-surprise](/consciousness-and-surprise/), the computational error signal and the phenomenal jolt are not the same thing. A system can register novelty without being *surprised* by it.
+Computational systems process prediction errors without experiencing surprise. A [predictive processing](/concepts/predictive-processing/) model generates error signals when input deviates from expectation, but as the Map argues in its treatment of [consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/), the computational error signal and the phenomenal jolt are not the same thing. A system can register novelty without being *surprised* by it.
 
 Self-surprise in creativity adds a further layer. The creator must not only experience novelty but experience it *as coming from themselves*. This requires what philosophers call a sense of agency—the felt ownership of one's actions—combined with the recognition that the action exceeded what the agent intended or foresaw. The creator thinks: "I made this, and I didn't know I could make this." Both halves of that thought require phenomenal consciousness. The ownership requires a felt self. The surprise requires felt expectation violated.
 
@@ -79,13 +79,13 @@ This temporal structure requires a mind that maintains expectations about its ow
 
 ## Surprise as Evidence Against Epiphenomenalism
 
-If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—merely accompanying physical processes without influencing them—then creative self-surprise would be a strange accident. The brain would generate novel outputs through purely physical processes, and consciousness would observe these outputs with surprise but contribute nothing to their production.
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—merely accompanying physical processes without influencing them—then creative self-surprise would be a strange accident. The brain would generate novel outputs through purely physical processes, and consciousness would observe these outputs with surprise but contribute nothing to their production.
 
 This picture has problems. If consciousness plays no causal role in creativity, then the surprise serves no function. But creative surprise demonstrably shapes what happens next. The mathematician who is surprised by a proof technique applies it in new contexts. The novelist surprised by a character's development follows the character rather than the outline. The surprise *redirects* the creative process—which means it has causal consequences.
 
 The epiphenomenalist might respond that the brain's physical processes redirect themselves and consciousness merely tracks the redirection. But this requires that the brain independently replicates exactly the same pattern that surprise would produce: a disruption of the current trajectory, reorientation toward the unexpected element, and systematic exploration of its implications. If the physical brain does all this without input from the felt surprise, the correlation between phenomenal surprise and creative redirection becomes an unexplained coincidence.
 
-The Map's alternative: surprise is part of the causal mechanism of creativity. The felt jolt of the unexpected disrupts habitual processing, forces [attention](/concepts/attention-as-interface/) toward novel elements, and initiates the evaluation that determines whether the unexpected output is genuinely valuable. This is consistent with consciousness [selecting among neural patterns](/questions/consciousness-selecting-neural-patterns/)—surprise functions as a signal that shifts selection from routine patterns to novel ones.
+The Map's alternative: surprise is part of the causal mechanism of creativity. The felt jolt of the unexpected disrupts habitual processing, forces [attention](/concepts/attention-as-interface/) toward novel elements, and initiates the evaluation that determines whether the unexpected output is genuinely valuable. This is consistent with consciousness [selecting among neural patterns](/concepts/consciousness-selecting-neural-patterns/)—surprise functions as a signal that shifts selection from routine patterns to novel ones.
 
 ## The Gradient of Creative Surprise
 
@@ -112,9 +112,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is illustrated by t
 ## Further Reading
 
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
-- [consciousness-and-surprise](/consciousness-and-surprise/)
-- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
-- [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)
+- [consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/)
+- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)
+- [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/)
 - [creativity-void](/voids/creativity-void/)
 

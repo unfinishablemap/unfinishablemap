@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[dualism]]'
-- '[[materialism]]'
+- '[[concepts/materialism]]'
 - '[[the-case-for-dualism]]'
 - '[[explanatory-gap]]'
 - '[[knowledge-argument]]'

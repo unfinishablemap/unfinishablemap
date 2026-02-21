@@ -37,7 +37,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 
 4. **Timing-to-quantum inferential leap unacknowledged** (lines 96-97): Added sentence clarifying that the attention-motor convergence supports the interface reading regardless of whether the mechanism is quantum or classical.
 
-5. **Broken links**: `[brain-specialness](/brain-specialness/)` updated to `[brain-interface-boundary](/concepts/brain-interface-boundary/)` (concept was coalesced). `[attention-interface-mechanisms](/attention-interface-mechanisms/)` removed from related_articles (article was archived). Inline link in convergence section updated.
+5. **Broken links**: `[brain-specialness](/concepts/brain-interface-boundary/)` updated to `[brain-interface-boundary](/concepts/brain-interface-boundary/)` (concept was coalesced). `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)` removed from related_articles (article was archived). Inline link in convergence section updated.
 
 6. **Uncited choking predictors claim** (line 117): Rephrased from "the best predictors involve phenomenological variables" to "the most informative explanatory models involve phenomenological variables that pure neural-state descriptions have not replaced" — avoids claiming predictive superiority without citation.
 
@@ -80,9 +80,9 @@ None. The article has no factual errors, internal contradictions, missing requir
 - [attention-as-interface](/concepts/attention-as-interface/) — In the convergence section opening
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — In the new flow states paragraph
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — In the challenges section
-- [cognitive-closure](/cognitive-closure/) — In the new cognitive closure paragraph
+- [cognitive-closure](/concepts/mysterianism/) — In the new cognitive closure paragraph
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — In the AI grounding discussion
-- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Replacing broken [brain-specialness](/brain-specialness/) link
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Replacing broken [brain-specialness](/concepts/brain-interface-boundary/) link
 
 ### References Added
 
@@ -92,7 +92,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 
 ## Remaining Items
 
-- **Free will connection**: The article tags [free-will](/concepts/free-will/) as a topic but does not deeply develop the connection between skill acquisition and libertarian free will (Kane's self-forming willings). This could be a future expansion but the article is already well-structured without it.
+- **Free will connection**: The article tags [free-will](/topics/free-will/) as a topic but does not deeply develop the connection between skill acquisition and libertarian free will (Kane's self-forming willings). This could be a future expansion but the article is already well-structured without it.
 - **Process philosophy connection**: The embodied-cognition concept article has a "Process Philosophy Connection" section; this topics article could benefit from a similar connection. Deferred as non-essential.
 - **Phenomenological vignette**: A first-person description of what embodied engagement is *like* (e.g., reaching for a coffee cup) would make the irreducibility argument visceral. Deferred for potential future refinement.
 

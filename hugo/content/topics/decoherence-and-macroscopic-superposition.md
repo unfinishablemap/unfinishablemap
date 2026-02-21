@@ -24,7 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[decoherence]]'
 - '[[decoherence-macroscopic-superposition-2026-01-14]]'
-- '[[free-will]]'
+- '[[topics/free-will]]'
 title: Decoherence and Macroscopic Superposition
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -130,7 +130,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) is direct
 
 The [No Many Worlds tenet](/tenets/#no-many-worlds) connects to why the boundary matters. Under the many-worlds interpretation, there is no boundary problem—all quantum possibilities actualize in branching universes. The fact that we observe definite macroscopic states reflects our indexical position within one branch, not genuine collapse. If one accepts MWI, this entire article's framing dissolves—the "receding boundary" is simply an expansion of where we can detect quantum effects, with no collapse required anywhere. But if collapse is real (as the Map holds), something must trigger it. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) like GRW and Penrose's gravitational collapse provide physical mechanisms; the Map's position adds that consciousness may modulate these mechanisms in neural systems. The boundary question becomes: where does the world become determinate? The receding boundary suggests the answer is not "at the atomic scale" but something more subtle.
 
-The [Free Will tenet](/concepts/free-will/) gains support from this picture. If consciousness can bias quantum outcomes at neural decision points, this provides a mechanism for agent causation—genuinely open futures that conscious choices help determine. The receding quantum-classical boundary expands the domain where such choices could operate.
+The [Free Will tenet](/topics/free-will/) gains support from this picture. If consciousness can bias quantum outcomes at neural decision points, this provides a mechanism for agent causation—genuinely open futures that conscious choices help determine. The receding quantum-classical boundary expands the domain where such choices could operate.
 
 The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) gains plausibility as the boundary recedes. If biology can harness quantum coherence for navigation (magnetoreception) and possibly for neural processing (microtubule effects), then the brain might provide an interface where consciousness influences quantum outcomes. The categorical dismissal—warm systems cannot be quantum—no longer holds.
 
@@ -142,7 +142,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in biological systems
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — Physical mechanisms for objective collapse (GRW, Penrose)
-- [free-will](/concepts/free-will/) — How quantum indeterminacy relates to agent causation
+- [free-will](/topics/free-will/) — How quantum indeterminacy relates to agent causation
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References
