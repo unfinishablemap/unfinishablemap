@@ -32,6 +32,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
+archived: true
+archived_date: 2026-02-21T22:01:00+00:00
+superseded_by: "/topics/consciousness-and-testimony/"
+archive_reason: "Coalesced into Consciousness and Testimony"
+original_path: "/topics/consciousness-and-the-epistemology-of-testimony/"
 ---
 
 Testimony — belief formed on the basis of another person's say-so — is one of humanity's fundamental knowledge sources. Most of what anyone knows about history, science, geography, and other people's lives comes not from direct observation but from others' reports. The Unfinishable Map argues that consciousness occupies a unique position in the epistemology of testimony: it is both a necessary condition for testimony to function as a knowledge source and the one subject matter that testimony can never fully convey. This epistemic circularity — needing testimony to learn about consciousness, yet needing consciousness for testimony to work — reveals something important about the structure of knowledge itself.

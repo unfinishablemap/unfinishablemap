@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 22:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-and-the-authority-of-testimony]], [[consciousness-and-the-epistemology-of-testimony]]
+- **Target**: [[consciousness-and-testimony]]
+- **Archived**: archive/topics/consciousness-and-the-authority-of-testimony.md, archive/topics/consciousness-and-the-epistemology-of-testimony.md
+- **References updated**: phenomenology-of-trust-and-testimony.md (3 references updated)
+
 ## 2026-02-21 21:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-authority-of-mathematics]]

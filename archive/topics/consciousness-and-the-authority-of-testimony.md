@@ -30,6 +30,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
+archived: true
+archived_date: 2026-02-21T22:01:00+00:00
+superseded_by: "/topics/consciousness-and-testimony/"
+archive_reason: "Coalesced into Consciousness and Testimony"
+original_path: "/topics/consciousness-and-the-authority-of-testimony/"
 ---
 
 When someone says "I see red" or "I am in pain," their report carries a distinctive epistemic authority that third-person observation cannot straightforwardly replicate. A neuroscientist might know everything about the subject's brain state, yet the subject knows something the neuroscientist does not: what the experience is like from inside. The Unfinishable Map argues that this first-person testimonial authority is not a mere epistemic convenience awaiting replacement by better instruments. The character of this authority — that phenomenal reports resist displacement not because our instruments are crude but because the subject's relationship to their experience is constitutive rather than observational — points toward an ontological distinction that physicalism struggles to accommodate.
