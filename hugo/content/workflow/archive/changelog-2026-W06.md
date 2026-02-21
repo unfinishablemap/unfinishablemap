@@ -1287,7 +1287,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-05 11:54 UTC - deep-review
 - **Status**: Success (stability confirmation)
-- **File**: [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
+- **File**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)
 - **Word count**: 3034 → 3034 (no change)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
@@ -3623,7 +3623,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Inbound links added from**:
   - [ethics-of-consciousness](/topics/ethics-of-consciousness/) - foundational ethics section
   - [meaning-of-life](/topics/meaning-of-life/) - consciousness as foundational section
-  - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - opening section
+  - [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/) - opening section
   - [purpose-and-alignment](/topics/purpose-and-alignment/) - experiential alignment section
   - [experiential-alignment](/concepts/experiential-alignment/) - opening section
   - [animal-consciousness](/topics/animal-consciousness/) - scientific consensus section

@@ -23,7 +23,7 @@ concepts:
   - "[[haecceity]]"
 related_articles:
   - "[[tenets]]"
-  - "[[arguments/functionalism]]"
+  - "[[arguments/functionalism-argument]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -194,7 +194,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [[inverted-qualia]] — The parallel argument varying qualia's character rather than presence
 - [[concepts/materialism]] — The view the zombie argument targets
 - [[concepts/functionalism]] — Another view challenged by zombie-style reasoning
-- [[arguments/functionalism]] — Five formal arguments against functionalism, with zombies as the first
+- [[arguments/functionalism-argument]] — Five formal arguments against functionalism, with zombies as the first
 - [[concepts/epiphenomenalism]] — A position with structurally similar problems
 - [[illusionism]] — The radical physicalist denial that the zombie argument has a target
 - [[introspection]] — Why our access to phenomenal content is more reliable than illusionism allows

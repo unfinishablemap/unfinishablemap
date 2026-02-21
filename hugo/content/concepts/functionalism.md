@@ -33,7 +33,7 @@ last_deep_review: 2026-02-01 04:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[arguments/functionalism]]'
+- '[[arguments/functionalism-argument]]'
 title: Functionalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -173,7 +173,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The convergence of arguments against physicalism
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — The emergence problem functionalism cannot solve
-- [functionalism](/arguments/functionalism/) — Five formal arguments against functionalism
+- [functionalism-argument](/arguments/functionalism-argument/) — Five formal arguments against functionalism
 - [substrate-independence-critique](/concepts/substrate-independence/) — Why the substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds
 - [qualia](/concepts/qualia/) — What functionalism may leave out

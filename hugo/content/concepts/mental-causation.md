@@ -36,7 +36,7 @@ last_deep_review: 2026-02-02 03:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[arguments/epiphenomenalism]]'
+- '[[arguments/epiphenomenalism-argument]]'
 title: Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -238,7 +238,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's foundational commitment to consciousness causally influencing the physical world
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (and why it matters for mental causation)
-- [epiphenomenalism](/arguments/epiphenomenalism/) — The cumulative case against epiphenomenalism (five arguments)
+- [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) — The cumulative case against epiphenomenalism (five arguments)
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that accommodates mental causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation

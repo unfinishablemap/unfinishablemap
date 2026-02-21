@@ -28,7 +28,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[arguments/functionalism]]"
+  - "[[arguments/functionalism-argument]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -170,7 +170,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [[the-case-for-dualism]] — The convergence of arguments against physicalism
 - [[minimal-consciousness]] — Simple organisms reveal functionalism's limits
 - [[evolution-of-consciousness]] — The emergence problem functionalism cannot solve
-- [[arguments/functionalism]] — Five formal arguments against functionalism
+- [[arguments/functionalism-argument]] — Five formal arguments against functionalism
 - [[substrate-independence-critique]] — Why the substrate matters for consciousness
 - [[ai-consciousness]] — The question of machine minds
 - [[qualia]] — What functionalism may leave out

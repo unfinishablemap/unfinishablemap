@@ -1283,7 +1283,7 @@ archived: true
 
 ## 2026-02-05 11:54 UTC - deep-review
 - **Status**: Success (stability confirmation)
-- **File**: [[concepts/consciousness-and-social-cognition]]
+- **File**: [[concepts/concept-of-consciousness-and-social-cognition]]
 - **Word count**: 3034 → 3034 (no change)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
@@ -3619,7 +3619,7 @@ archived: true
 - **Inbound links added from**:
   - [[topics/ethics-of-consciousness]] - foundational ethics section
   - [[topics/meaning-of-life]] - consciousness as foundational section
-  - [[concepts/phenomenal-value-realism]] - opening section
+  - [[concepts/concept-of-phenomenal-value-realism]] - opening section
   - [[topics/purpose-and-alignment]] - experiential alignment section
   - [[concepts/experiential-alignment]] - opening section
   - [[topics/animal-consciousness]] - scientific consensus section

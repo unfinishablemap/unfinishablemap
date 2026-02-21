@@ -26,7 +26,7 @@ related_articles:
 - '[[consciousness-and-mathematical-creativity]]'
 - '[[mathematical-void]]'
 - '[[consciousness-and-the-grounds-of-normative-authority]]'
-- '[[arguments/materialism]]'
+- '[[arguments/materialism-argument]]'
 title: Consciousness and the Authority of Mathematics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -162,7 +162,7 @@ The view would be *supported* by:
 - [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creation as the strongest evidence for consciousness doing causal work
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but genuine understanding fails
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — Parallel case for consciousness grounding authority in normative domains
-- [materialism](/arguments/materialism/) — The broader argument against reducing consciousness to physical processes
+- [materialism-argument](/arguments/materialism-argument/) — The broader argument against reducing consciousness to physical processes
 - [explanatory-gap](/concepts/explanatory-gap/) — The central challenge mathematics faces with consciousness
 
 ## References

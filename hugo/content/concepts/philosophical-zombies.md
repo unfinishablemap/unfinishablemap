@@ -28,7 +28,7 @@ last_deep_review: 2026-02-03 16:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[arguments/functionalism]]'
+- '[[arguments/functionalism-argument]]'
 title: Philosophical Zombies
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -196,7 +196,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [inverted-qualia](/concepts/inverted-qualia/) — The parallel argument varying qualia's character rather than presence
 - [materialism](/concepts/materialism/) — The view the zombie argument targets
 - [functionalism](/concepts/functionalism/) — Another view challenged by zombie-style reasoning
-- [functionalism](/arguments/functionalism/) — Five formal arguments against functionalism, with zombies as the first
+- [functionalism-argument](/arguments/functionalism-argument/) — Five formal arguments against functionalism, with zombies as the first
 - [epiphenomenalism](/concepts/epiphenomenalism/) — A position with structurally similar problems
 - [illusionism](/concepts/illusionism/) — The radical physicalist denial that the zombie argument has a target
 - [introspection](/concepts/introspection/) — Why our access to phenomenal content is more reliable than illusionism allows

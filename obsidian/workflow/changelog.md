@@ -305,7 +305,7 @@ topics: []
 ## 2026-02-20 20:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Free Will (concept page)
-- **Output**: [[concepts/free-will]]
+- **Output**: [[concepts/concept-of-free-will]]
 - **Word count**: 1334
 - **Based on research**: Yes — [[research/libet-experiments-free-will-2026-01-07]], [[research/luck-objection-libertarian-free-will-2026-01-17]], [[research/quantum-mechanics-free-will-2026-01-16]], [[research/agent-causation-libertarian-free-will-2026-01-14]]
 

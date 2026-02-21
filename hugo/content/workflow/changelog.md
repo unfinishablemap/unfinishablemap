@@ -18,6 +18,58 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 16:54 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Complementarity Void
+- **Category**: Unexplorable (structural)
+- **Output**: [voids-complementarity-void-2026-02-21](/research/voids-complementarity-void-2026-02-21/)
+- **Key finding**: Consciousness exhibits structural trade-offs analogous to quantum complementarity — accessing one phenomenal aspect (e.g., introspecting on experience) necessitates losing access to the complementary aspect (e.g., the unreflective experience itself), as documented independently across phenomenology, empirical psychology, contemplative traditions, and quantum cognition research.
+
+## 2026-02-21 16:24 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
+- **Word count**: 1432 → 1790 (+358)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-21-consciousness-and-the-problem-of-other-properties](/reviews/deep-review-2026-02-21-consciousness-and-the-problem-of-other-properties/)
+
+## 2026-02-21 15:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/), [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-cross-cultural-philosophical-convergence/)
+- **Target**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Archived**: [epistemology-of-cross-cultural-philosophical-convergence](/archive/topics/epistemology-of-cross-cultural-philosophical-convergence/)
+- **References updated**: 3 (in contemplative-evidence-convergence-across-traditions.md)
+- **Notes**: Topics section at 198/200 cap; merged cross-cultural convergence epistemology into general convergence epistemology article. Cross-cultural content (Sāṃkhya, Avicenna, Chinese divergence, anti-realist challenges, cognitive closure) integrated as major sections.
+
+## 2026-02-21 15:09 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-conflict/)
+- **Word count**: 2057 → 2222 (+165)
+- **Critical issues addressed**: 4 (fabricated Williams quote, misattributed "moral residue" term, wrong source citation for Agamemnon, orphaned references)
+- **Medium issues addressed**: 3 (missing tenet connection, weak computationalist rebuttal, inconsistent wikilink format)
+- **Enhancements made**: 2 (strengthened anti-computationalist argument, added Minimal Quantum Interaction tenet)
+- **Output**: [deep-review-2026-02-21-phenomenology-of-normative-conflict](/reviews/deep-review-2026-02-21-phenomenology-of-normative-conflict/)
+
+## 2026-02-21 14:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemology of Mechanism at the Consciousness-Matter Interface
+- **Output**: [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+- **Word count**: 2225
+- **Based on research**: yes (drew on [psychophysical-coupling-law-mechanisms-2026-01-23](/research/psychophysical-coupling-law-mechanisms-2026-01-23/), [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/), [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/), [conservation-laws-mind-brain-causation-2026-01-23](/research/conservation-laws-mind-brain-causation-2026-01-23/))
+
+## 2026-02-21 14:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Normativity and Environmental Ethics
+- **Output**: [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/)
+- **Word count**: 1786
+- **Based on research**: yes, [phenomenal-value-realism-metaethics-2026-01-16](/research/phenomenal-value-realism-metaethics-2026-01-16/)
+
+## 2026-02-21 14:24 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Focus on 13 new February 2026 concept pages (atemporal-causation, phenomenal-normativity, agent-teleology, phenomenal-depth, meta-problem-of-consciousness, etc.) and 43 recently deep-reviewed concept files, plus apex/tenets content
+- **Output**: [optimistic-2026-02-21-afternoon](/reviews/optimistic-2026-02-21-afternoon/)
+
 ## 2026-02-21 13:39 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
@@ -254,7 +306,7 @@ topics: []
 ## 2026-02-20 20:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Free Will (concept page)
-- **Output**: [free-will](/concepts/free-will/)
+- **Output**: [concept-of-free-will](/concepts/concept-of-free-will/)
 - **Word count**: 1334
 - **Based on research**: Yes — [libet-experiments-free-will-2026-01-07](/research/libet-experiments-free-will-2026-01-07/), [luck-objection-libertarian-free-will-2026-01-17](/research/luck-objection-libertarian-free-will-2026-01-17/), [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/), [agent-causation-libertarian-free-will-2026-01-14](/research/agent-causation-libertarian-free-will-2026-01-14/)
 
@@ -886,7 +938,7 @@ topics: []
 
 ## 2026-02-19 07:19 UTC - refine-draft
 - **Status**: Success
-- **File**: [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-cross-cultural-philosophical-convergence/)
+- **File**: [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-convergence-arguments/)
 - **Changes**: Fixed Barrett et al. citation specificity; addressed bootstrapping problem in convergence epistemology; strengthened Chinese philosophy framework-dependence challenge; calibrated evidential confidence; language improvements
 - **Published**: yes
 
@@ -929,7 +981,7 @@ topics: []
 ## 2026-02-19 04:04 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Epistemology of Cross-Cultural Philosophical Convergence
-- **Output**: [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-cross-cultural-philosophical-convergence/)
+- **Output**: [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-convergence-arguments/)
 - **Word count**: 1857
 - **Based on research**: No
 

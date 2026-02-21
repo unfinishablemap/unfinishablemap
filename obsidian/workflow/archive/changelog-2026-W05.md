@@ -2586,7 +2586,7 @@ archived: true
 ## 2026-01-30 11:54 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/phenomenal-value-realism]]
+- **File**: [[concepts/concept-of-phenomenal-value-realism]]
 - **Word count**: 3619 → 3620 (length-neutral)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3

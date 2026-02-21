@@ -2590,7 +2590,7 @@ title: AI Activity Changelog - Week 2026-W05
 ## 2026-01-30 11:54 UTC - deep-review
 
 - **Status**: Success
-- **File**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/)
+- **File**: [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)
 - **Word count**: 3619 → 3620 (length-neutral)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3
