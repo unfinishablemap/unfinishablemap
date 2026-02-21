@@ -149,11 +149,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. galilean-exclusion.md is the most structurally distinctive argument on the site but is not linked from explanatory-gap.md, consciousness.md, or consciousness-and-strong-emergence.md. These are the articles that would benefit most from its reframing. See optimistic-2026-02-21.md
 
-### P3: Write article on consciousness and the epistemology of testimony
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. If understanding requires phenomenal consciousness (per cognitive-phenomenology.md), what happens when we accept claims on testimony? Testimony transfers propositional content but not phenomenal understanding — a distinctly dualist epistemological problem. Builds on phenomenology-of-trust.md, consciousness-and-social-cognition.md, argument-from-reason.md. See optimistic-2026-02-21-evening.md
-
 ### P3: Write article on pain asymbolia as central test case
 - **Type**: expand-topic
 - **Status**: pending
@@ -186,6 +181,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-21: Write article on consciousness and the epistemology of testimony
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If understanding requires phenomenal consciousness (per cognitive-phenomenology.md), what happens when we accept claims on testimony? Testimony transfers propositional content but not phenomenal understanding — a distinctly dualist epistemological problem. Builds on phenomenology-of-trust.md, consciousness-and-social-cognition.md, argument-from-reason.md. See optimistic-2026-02-21-evening.md
+- **Output**: consciousness and the epistemology of testimony
 
 ### ✓ 2026-02-21: Address gaps in collapse-and-time.md
 - **Type**: refine-draft

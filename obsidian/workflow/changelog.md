@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 21:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Epistemology of Testimony
+- **Output**: [[topics/consciousness-and-the-epistemology-of-testimony]]
+- **Word count**: 2260
+- **Based on research**: No
+
 ## 2026-02-21 21:11 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All 277+ non-draft articles across topics/ (103), concepts/ (173+), tenets/ (1). Deep reading of 40+ representative articles.
