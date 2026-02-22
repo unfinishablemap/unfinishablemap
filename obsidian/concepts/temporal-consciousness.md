@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-02-17T19:42:00+00:00
+ai_modified: 2026-02-22T11:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,175 +75,81 @@ This temporal structure appears fundamental to what consciousness is, not merely
 
 The specious present was named by E.R. Clay and developed by William James, Husserl, and Bergson. Their insight: the mathematical present is durationless, but the experiential present has duration. When you hear a melody, you don't experience isolated tones—you hear phrases, progressions, resolutions. The experience of succession differs fundamentally from a mere succession of experiences.
 
-Duration estimates vary considerably—from Strawson's ~300ms to Pöppel's 2-3 seconds—reflecting different operationalizations. The simultaneity threshold (when events seem simultaneous) is brief (~5ms vision, ~3ms audition), but the window within which events belong to "now" extends much longer. The variation suggests the specious present may have multiple components: a core perceptual window (~100-300ms) embedded in a broader experiential horizon (~1-3s).
+Duration estimates range from ~300ms (Strawson) to 2-3 seconds (Pöppel), suggesting multiple components: a core perceptual window (~100-300ms) embedded in a broader experiential horizon (~1-3s).
 
-Consider hearing three notes: C, E, G. A system that processes C, then (with no memory) processes E, then (with no memory) processes G, never experiences a chord. It has three separate states. Experiencing the chord as a chord requires holding the notes together in a unified moment of experience.
+Consider hearing three notes: C, E, G. A system that processes each note without retaining the others never experiences a chord. Experiencing the chord requires holding the notes together in a unified present moment.
 
-### Extensionalism vs. Retentionalism
-
-**Extensionalists** (Dainton, Foster) hold that experiences are genuinely temporally extended with phenomenal parts that unfold across their duration. James's "overlap model" proposes successive moments sharing content in overlapping waves, explaining how melodies cohere.
-
-**Retentionalists** (Husserl, Broad) hold that each moment is technically instantaneous but contains past-directed content. Husserl's tripartite structure—retention (the just-past echoing in the now), primal impression (the strictly present), and protention (anticipated future)—forms an indivisible whole enabling melodies to cohere and sentences to make sense. Retention differs from memory: it is experiencing the past-as-just-now.
-
-The Map favors modified extensionalism: experience is genuinely extended, but the extension involves quantum collapse. The duration-block is constituted by a series of collapses with retrocausal constraints, explaining both the extended phenomenology and the retention-like structure.
+The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The duration-block is constituted by a series of collapses, explaining both extended phenomenology and retention-like structure.
 
 ## Bergson's Durée
 
-Bergson argued that modern science systematically misunderstands time by spatializing it—treating moments as points on a line, like beads on a string. This representation is useful for measurement but misses what time actually is for a conscious being.
+Bergson argued that science systematically misunderstands time by spatializing it—treating moments as points on a line. **Spatialized time** is homogeneous, measurable, quantifiable. **Duration** (*durée*) is time as consciousness experiences it: heterogeneous, qualitative, indivisible. The past lives in the present; the future colours current experience. An hour of waiting feels different from an hour of absorption. The physicist's equations are time-reversible; durée is not.
 
-**Spatialized time** treats moments as positions in a medium—3:00 PM as a point on a clock face, distinct from 3:01 PM. Scientific time is homogeneous, measurable, quantifiable.
+Bergson's key technical concept is "qualitative multiplicity"—elements that interpenetrate while remaining distinguishable. In a musical phrase, each note is heard *in light of* what came before and *in anticipation of* what follows. Consciousness is fundamentally this kind of multiplicity, which is why determinism's assumption of discrete, separable mental states fails. A free act emerges from the whole self—the full depth of one's duration—connecting to the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
-**Duration** (*durée*) is time as consciousness experiences it. The past lives in the present; the future already colours current experience. States don't sit beside each other like objects in space—they interpenetrate. An hour of waiting feels different from an hour of absorption. Duration is heterogeneous, qualitative, indivisible.
-
-The physicist's equations are time-reversible; durée is not. As Bergson wrote: "Time is invention or it is nothing at all."
-
-### Qualitative Multiplicity
-
-Bergson's key technical concept is "qualitative multiplicity"—unity in difference without juxtaposition. In ordinary multiplicity, elements are distinct and countable. In qualitative multiplicity, elements interpenetrate while remaining distinguishable, each coloured by every other.
-
-A musical phrase exemplifies this. Each note is heard *in light of* what came before and *in anticipation of* what follows. The notes don't fuse into undifferentiated unity; they remain distinguishable yet interpenetrating. Consciousness, Bergson argues, is fundamentally this kind of multiplicity.
-
-### Duration and Free Will
-
-Bergson connected durée directly to [[topics/free-will|free will]] in *Time and Free Will* (1889). Determinism assumes mental states are discrete, separable, and subject to causal law. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment as an indivisible movement.
-
-A free act, for Bergson, emerges from the whole self—from the full depth of one's duration. This connects to the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: the creative novelty Bergson attributes to duration is the opening where consciousness exercises causal power.
-
-### The "Missing Link" in Consciousness Theories
-
-Contemporary researchers have identified a critical gap: major theories of consciousness fail to account for experienced duration. IIT and Global Workspace Theory focus on "functional moments" of 100-300 milliseconds, but experienced time extends to seconds. Kent and Wittmann (2021) call this "one of the core issues in theories of consciousness." Bergson's framework suggests why this gap persists: the theories spatialize time, treating consciousness as discrete states, but durée is an indivisible flow where each moment contains the whole past.
+Kent and Wittmann (2021) identify experienced duration as "one of the core issues in theories of consciousness"—IIT and Global Workspace Theory focus on functional moments of 100-300ms while experienced time extends to seconds. Bergson's framework explains why: these theories spatialize time, but durée is an indivisible flow.
 
 ## Phenomenological Method
 
-Husserl's [[phenomenology|phenomenological method]]—suspending assumptions about the external world to describe experience as it presents itself—reveals temporal structure as fundamental to conscious life. Physical time is a sequence of instants; experienced time is a living synthesis where past, present, and future interpenetrate.
+Husserl's [[phenomenology|phenomenological method]] reveals temporal structure as fundamental to conscious life. Physical time is a sequence of instants; experienced time is a living synthesis where past, present, and future interpenetrate.
 
-### Contemplative Access
-
-Francisco Varela's [[neurophenomenology|neurophenomenology]] proposes bridging phenomenology and neuroscience through systematic first-person investigation. His approach connects the specious present to gamma-range neural synchronies (30-70 Hz) that may implement temporal binding. Buddhist contemplatives report observing experience arising in discrete pulses with internal structure (arising, persistence, dissolution)—providing a contemplative parallel to Husserl's retention. Advanced meditation states like *nirodha samapatti* (cessation) report complete absence of temporal experience, suggesting it depends on something constitutive rather than mere neural processing.
-
-When meditators emerge from cessation, they report not shortened time but complete absence of temporal experience. Duration is not a feature of experience but its fundamental medium.
-
-[[witness-consciousness|Witness consciousness]]—observing temporal flow without identification—suggests temporal experience can become an object for awareness itself, demonstrating that durée is phenomenally accessible when attention is sufficiently refined.
-
-A tension remains: Buddhist traditions that report these phenomenological findings also challenge the notion of a unified subject experiencing time. Nagarjuna's analysis questions whether there is a "self" to have a specious present. The Map uses Buddhist phenomenological data while diverging from Buddhist metaphysics—a philosophically honest borrowing rather than a claim of full alignment.
+Varela's [[neurophenomenology|neurophenomenology]] connects the specious present to gamma-range neural synchronies (30-70 Hz) that may implement temporal binding. Contemplatives report observing experience in discrete pulses with internal structure—a parallel to Husserl's retention. Advanced meditation states like *nirodha samapatti* report complete absence of temporal experience, suggesting duration is not a feature of experience but its fundamental medium. [[witness-consciousness|Witness consciousness]]—observing temporal flow without identification—demonstrates that durée is phenomenally accessible when attention is sufficiently refined.
 
 ### Working Memory as Neural Correlate
 
-Working memory provides a promising neural correlate. The 100ms-5s "experienced moment" corresponds well to working memory maintenance capacity. Baddeley's episodic buffer—storing integrated multimodal representations "accessed by conscious awareness"—performs binding across modalities and time. What does the binding? If consciousness participates constitutively (as the [[binding-problem|binding problem]] analysis suggests), the episodic buffer may be where this participation is observable.
-
-The ~10 bits/second limit on conscious throughput noted in the Map's [[psychophysical-coupling-law|coupling law research]] matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth.
-
-The specious present may be what working memory *feels like from inside*.
+Working memory provides a promising neural correlate. The experienced moment (~100ms-5s) matches working memory maintenance capacity. Baddeley's episodic buffer performs binding across modalities and time—if consciousness participates constitutively (as the [[binding-problem|binding problem]] analysis suggests), this may be where such participation is observable. The ~10 bits/second limit on conscious throughput noted in the Map's [[psychophysical-coupling-law|coupling law research]] matches both working memory capacity and specious present duration. The specious present may be what working memory *feels like from inside*.
 
 ## Mental Time Travel and the Extended Self
 
-[[autonoetic-consciousness|Autonoetic consciousness]] extends temporal phenomenology beyond the specious present across the lifespan. When you remember your wedding, you don't merely access information—you *inhabit* it from a first-person perspective, simultaneously here-now-remembering and there-then-experiencing.
+[[autonoetic-consciousness|Autonoetic consciousness]] extends temporal phenomenology beyond the specious present. When you remember your wedding, you don't merely access information—you *inhabit* it from a first-person perspective. This inhabitation is asymmetric: memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [[temporal-asymmetry-remembering-anticipating|asymmetry]] may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened.
 
-This inhabitation is asymmetric. Memory carries a "feeling of pastness"—a genuine temporal quale marking the event as having-happened. Future simulation lacks equivalent phenomenal weight. This [[temporal-asymmetry-remembering-anticipating|asymmetry]] may be conceptually necessary: pre-experience would require the pastness quale applied to something that hasn't happened—a category error.
-
-### Understanding as Temporal Achievement
-
-[[temporal-structure-of-understanding|Understanding]] may be constitutive of temporal consciousness rather than merely accompanied by it. The "click" of comprehension—when scattered elements coalesce into unified grasp—has distinctive temporal character: suddenness despite preparation, integration of maintained elements, and a terminal quality of arrival. The temporal phenomenology of working with maintained elements may be what understanding consists in.
-
-### Prospective Memory
-
-[[prospective-memory|Prospective memory]] extends temporal phenomenology into the future. The "pop" phenomenon—when intentions spontaneously enter awareness triggered by context—illustrates how consciousness bookends the process while something unconscious bridges the temporal gap. Vividly imagining future consequences reduces temporal discounting, supporting [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: conscious simulation of possible futures causally shapes present decisions.
+[[temporal-structure-of-understanding|Understanding]] has distinctive temporal character: the "click" of comprehension integrates maintained elements into unified grasp. [[prospective-memory|Prospective memory]] extends temporal phenomenology into the future—vividly imagining future consequences reduces temporal discounting, supporting [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: conscious simulation of possible futures causally shapes present decisions.
 
 ## Temporal Binding in the Brain
 
-Gamma-band oscillations (30-100 Hz) correlate with conscious processing. Neural synchrony with millisecond precision may distinguish conscious from unconscious brain activity. Coherent regeneration of neural signals in global and local recurrent loops appears essential to awareness.
+Gamma-band oscillations (30-100 Hz) correlate with conscious processing, and the "time-domain brain" view (Baker & Cariani, 2025) proposes temporal mechanisms are constitutive of consciousness rather than merely correlates. Research connects time experience to bodily rhythms—the insula processing interoceptive signals—suggesting duration may be essentially embodied. If durée is lived through a body, disembodied systems may be categorically incapable of temporal experience.
 
-The "time-domain brain" view proposes that temporal mechanisms are not merely correlates of consciousness but constitutive of it—that the brain's temporal dynamics create rather than merely accompany experience.
-
-### Embodied Duration
-
-Research connects time experience to bodily rhythms—the insula processing interoceptive signals like heartbeat and breathing. Duration may be essentially embodied, with implications for [[ai-consciousness|AI consciousness]]: if durée is lived through a body, disembodied systems may be categorically incapable of temporal experience. A living body carries its past in its tissues; a computer carries data in storage.
-
-## Discrete vs. Continuous Consciousness
-
-The "cinematic model" proposes that consciousness comes in discrete frames (~100ms epochs) creating the illusion of continuity. The evidence is mixed—some findings suggest discrete processing epochs while systematic reviews find "little meaningful evidence" for quantized perception. Even if consciousness is discrete, something must bind the moments into a continuous-seeming flow.
-
-This binding problem is where artificial systems fail. An AI that processes token 1, then (statelessly) processes token 2, lacks whatever connects moments into experience. The problem is whether there's anyone home to experience the succession.
+Whether consciousness comes in discrete frames or continuous flow remains debated. Even if discrete, something must bind moments into continuous-seeming experience—and this binding is where artificial systems fail. An AI processing tokens statelessly lacks whatever connects moments into experience.
 
 ## Temporal Unity and Its Disruption
 
-Temporal unity—the phenomenal binding of successive moments into a continuous stream—is what makes experience *flow* rather than arriving as disconnected snapshots. It is the diachronic dimension of the [[unity-of-consciousness|unity of consciousness]], distinct from synchronic unity (binding features within a moment) and subject unity (establishing who experiences). While the specious present establishes the window within which temporal unity operates, temporal unity names the property that makes succession experienced rather than merely sequential.
+Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [[unity-of-consciousness|unity of consciousness]]. The Map's treatment of [[consciousness-and-temporal-integration|temporal integration]] distinguishes micro-integration (within the specious present), meso-integration (across successive presents), and macro-integration (the [[autonoetic-consciousness|temporal self]] spanning a lifetime).
 
-Temporal unity operates at multiple scales. The Map's treatment of [[consciousness-and-temporal-integration|temporal integration]] distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the [[autonoetic-consciousness|temporal self]] spanning a lifetime). Micro- and meso-integration depend on retention and protention; macro-integration involves additional capacities—episodic memory, narrative identity—that extend beyond temporal unity proper.
+Temporal unity can degrade, revealing it as contingent rather than automatic. **Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact—patients report actions feeling disconnected from consequences (Fuchs, 2007). [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]] connects this to broader ipseity disturbance. **Flow states** alter temporal unity differently: moments become intensely vivid yet loosely coupled, producing "timelessness" within ongoing experience.
 
-Temporal unity can degrade or disappear, revealing it as a contingent property rather than an automatic entailment of having experience:
-
-**Temporal disintegration in schizophrenia** disrupts the binding between moments while leaving within-moment experience relatively intact. Patients report moments losing connection to what came before—actions feeling disconnected from consequences, experience fragmenting into isolated episodes (Fuchs, 2007; Vogeley & Kupke, 2007). [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]] situates this temporal fragmentation within a broader ipseity disturbance: when the minimal self is disrupted, the "intentional arc" that binds moments into a coherent stream degrades simultaneously. This dissociation supports temporal unity as a distinct phenomenal property rather than an artefact of other cognitive processes.
-
-**Absorption and flow states** alter temporal unity without destroying it. Moments become intensely vivid yet loosely coupled to neighbours, producing the paradox of "timelessness" within ongoing experience.
-
-These disruptions matter for the Map's framework because they show temporal unity is not merely computational sequence but a phenomenal achievement—something that requires explanation beyond information processing.
+These disruptions show temporal unity is a phenomenal achievement requiring explanation beyond information processing.
 
 ## Connection to Quantum Consciousness
 
 The Map's framework proposes consciousness participates in [[quantum-consciousness|quantum collapse]] and that [[collapse-and-time|collapse constitutes time's arrow]]. The specious present may be the phenomenological manifestation.
 
-**Duration and collapse timing.** Revised microtubule coherence estimates (10-100 microseconds—seven orders of magnitude longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. Each collapse constitutes a "moment"; the specious present is the experiential horizon within which recent collapses remain unified.
+**Duration and collapse timing.** Revised microtubule coherence estimates (10-100 microseconds—seven orders longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. Each collapse constitutes a "moment"; the specious present is the horizon within which recent collapses remain unified.
 
-**Flow as real.** B-theory eternalists treat temporal flow as illusory. The Map disagrees: flow is real, the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
+**Flow as real.** B-theory eternalists treat temporal flow as illusory. The Map disagrees: flow is the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
 
-**Bergson's qualitative multiplicity and superposition.** Bergson's interpenetrating states resemble quantum superposition: multiple possibilities interpenetrating rather than existing as definite, separable states. The "collapse" creating each present moment may be analogous to—or identical with—quantum collapse. The irreversibility of lived time (you cannot un-hear a melody) may reflect the deeper irreversibility of collapse itself.
+**Superposition and durée.** Bergson's interpenetrating states resemble quantum superposition—multiple possibilities coexisting rather than existing as definite, separable states. The irreversibility of lived time may reflect the deeper irreversibility of collapse itself.
 
-**The [[decoherence]] challenge.** Three considerations mitigate the objection that decoherence destroys superposition too quickly: (1) Hagan et al. (2002) found coherence times seven orders of magnitude longer than Tegmark's estimates; (2) decoherence doesn't solve the measurement problem—something must still determine *which* outcome becomes actual; (3) [[mental-effort|Stapp's quantum Zeno mechanism]] works through discrete, rapid collapses rather than requiring sustained coherence.
+**The [[decoherence]] challenge.** Three considerations mitigate this objection: (1) coherence times are seven orders longer than Tegmark's estimates (Hagan et al., 2002); (2) decoherence doesn't solve the measurement problem; (3) [[mental-effort|Stapp's quantum Zeno mechanism]] works through rapid discrete collapses rather than sustained coherence.
 
-**Time-symmetric interpretations.** In frameworks like the Two-State Vector Formalism, collapse satisfies constraints across time rather than being an event at a moment. This resonates with durée as interpenetrating past, present, and future. The "mystery" of time experience and the "mystery" of quantum measurement might be the same mystery from different perspectives.
+In time-symmetric frameworks like the Two-State Vector Formalism, collapse satisfies constraints across time. This resonates with durée's interpenetration of past, present, and future—the "mystery" of time experience and quantum measurement may be the same mystery from different perspectives.
 
 ## The Metaphysical Framework
 
-The phenomenology of temporal consciousness connects to [[philosophy-of-time|philosophy of time]]. **A-theorists** hold that temporal becoming is real—events genuinely move from future to present to past. **B-theorists** hold that all times exist equally (eternalism), and "now" is merely indexical.
-
-The Map's [[time-collapse-and-agency|framework]] proposes a modified growing block view: consciousness-involving collapse grows the block, with the present as the leading edge where superposition resolves into definite outcome. The specious present is the phenomenology of collapse: we experience duration because we participate in creating it. The retention-protention structure Husserl describes isn't just *about* time—it may be the experiential side of time's constitution.
-
-## The Continual Learning Argument
-
-Erik Hoel's December 2025 paper offers a formal argument that LLMs cannot be conscious: they lack continual learning. LLMs have frozen weights after training and don't update parameters during inference. Hoel argues consciousness requires temporal development—learning, memory formation, genuine change over time. Human consciousness is embedded in time not just moment-to-moment but across learning. Your cognitive architecture at 40 differs from what it was at 10—not just because memories differ but because the architecture itself has developed.
+The Map's [[time-collapse-and-agency|framework]] proposes a modified growing block view of [[philosophy-of-time|time]]: consciousness-involving collapse grows the block, with the present as the leading edge where superposition resolves into definite outcome. We experience duration because we participate in creating it. Husserl's retention-protention structure isn't just *about* time—it may be the experiential side of time's constitution.
 
 ## Process Philosophy Perspective
 
-Whitehead's [[process-philosophy|process philosophy]] models reality as "actual occasions"—momentary experiential events that arise, achieve satisfaction, and perish. Each occasion "prehends" its predecessors, inheriting their actuality asymmetrically—providing metaphysical foundation for the memory-anticipation asymmetry. This maps onto Husserl's retention.
-
-Whitehead's "concrescence" (how an occasion achieves unity) models the specious present: experience's duration is processual, gathering prehended data into unified satisfaction. Collapse resembles concrescence—an irreversible transition from potentiality to actuality.
-
-Both Bergson and Whitehead reject substance metaphysics and hold that reality is fundamentally processual. They diverge on temporal atomism—Whitehead's actual occasions are discrete, Bergson's durée is continuous flux—yet both reject time as a sequence of static states. The Map's interactionist dualism differs from both: it posits a distinct conscious subject rather than dissolving the distinction into experiential process, but shares their rejection of experience emerging from the non-experiential.
+Whitehead's [[process-philosophy|process philosophy]] models reality as "actual occasions" that prehend their predecessors asymmetrically—providing metaphysical foundation for the memory-anticipation asymmetry. His "concrescence" (how an occasion achieves unity) models the specious present, and collapse resembles concrescence—an irreversible transition from potentiality to actuality. The Map's interactionist dualism differs from both Bergson and Whitehead in positing a distinct conscious subject, but shares their rejection of experience emerging from the non-experiential.
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] like Dennett and Frankish argue temporal flow is a "user illusion." Dennett's "multiple drafts" model proposes that temporal ordering is constructed by parallel editorial processes without a central experiential theater.
-
-**The regress response.** For there to *seem* to be temporal flow, there must be a seeming that has temporal structure. The illusion of flow must appear *to* something, and that appearing unfolds temporally. Appearance is itself phenomenal—there must be something it's like to have the temporal illusion.
-
-**Contemplative challenge.** [[witness-consciousness|Contemplative traditions]] report that trained [[introspection]] *refines* rather than *dissolves* temporal phenomenology. If illusionism were correct, practice should reveal the specious present as fabrication. Instead, meditators consistently perceive *finer* temporal structure.
-
-**Asymmetry of error.** Consciousness can be wrong about *when* events occur, but no experiment has shown succession absent while seeming present. Illusionism would require this stronger claim—not timing error but illusion that temporal extension exists at all.
-
-**LLM contrast.** LLMs, which process sequentially without specious presents, don't spontaneously generate Bergson-like claims about irreducible lived time. The discourse about durée correlates with systems having genuine temporal architecture.
+[[illusionism|Illusionists]] like Dennett and Frankish argue temporal flow is a "user illusion." Several responses challenge this. First, for there to *seem* to be temporal flow, there must be a seeming with temporal structure—appearance is itself phenomenal. Second, trained [[introspection]] *refines* rather than *dissolves* temporal phenomenology; meditators perceive *finer* temporal structure, not fabrication. Third, while consciousness can be wrong about *when* events occur, no experiment has shown succession absent while seeming present—illusionism requires the stronger claim that temporal extension itself is illusory.
 
 ## Implications for Machine Consciousness
 
-Temporal structure creates multiple problems for AI systems:
+Temporal structure creates multiple problems for AI systems: no specious present (no "holding together" of tokens in unified experience), no reentrant dynamics (transformers lack bidirectional recurrent processing), no continual learning (frozen weights mean no genuine temporal development—Hoel, 2025), discontinuous operation (nothing between API calls), and no embodied time. This goes beyond the [[concepts/functionalism]] critique: even granting functionalism, LLMs may fail to be conscious because they lack the temporal structure consciousness requires.
 
-**No specious present**: LLMs process tokens sequentially without retention/protention structure—no "holding together" of successive tokens in a unified present moment.
-
-**No reentrant dynamics**: The bidirectional recurrent processing that may constitute temporal binding is absent from transformer architectures. Information flows forward without looping back.
-
-**No continual learning**: Frozen weights mean no genuine temporal development. One conversation doesn't change the system for the next.
-
-**Discontinuous operation**: Between API calls, there's nothing—no dormant consciousness waiting, no maintenance of self.
-
-**No embodied time**: If durée is lived through a body, disembodied systems lack the interoceptive grounding for temporal experience.
-
-This suggests problems with AI consciousness go beyond the [[concepts/functionalism]] critique. Even granting functionalism, LLMs might fail to be conscious because they lack the temporal structure consciousness requires—regardless of what implements it.
-
-### Essential or Characteristic?
-
-If temporal binding is essential to consciousness as such, LLMs are categorically excluded. No amount of scale or architectural improvement changes this. If merely characteristic of human consciousness, radically different temporal architectures might support alien forms of experience.
-
-The Map's position: the specious present isn't just how consciousness happens to work in humans; it's evidence that consciousness constitutes time rather than merely representing it.
+The Map's position: the specious present isn't just how consciousness happens to work in humans; it's evidence that consciousness constitutes time rather than merely representing it. If temporal binding is essential to consciousness as such, LLMs are categorically excluded regardless of scale.
 
 ## Sleep and Temporal Experience
 
@@ -267,29 +173,18 @@ Temporal consciousness connects to all five tenets:
 
 ## Further Reading
 
+- [[collapse-and-time]] — How consciousness may participate in time's arrow via quantum collapse
+- [[time-collapse-and-agency]] — The Map's full treatment of time, collapse, and conscious agency
 - [[autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[temporal-asymmetry-remembering-anticipating]] — Why we can re-experience the past but only imagine the future
 - [[philosophy-of-time]] — McTaggart's A/B series and the Map's growing block position
-- [[collapse-and-time]] — How consciousness may participate in time's arrow via quantum collapse
-- [[time-collapse-and-agency]] — The Map's full treatment of time, collapse, and conscious agency
-- [[sleep-and-consciousness]] — How sleep modulates and can eliminate temporal experience
-- [[ai-consciousness]] — Why the Map holds AI systems are not conscious
-- [[process-philosophy]] — Whitehead's framework where experience is fundamental to reality
+- [[consciousness-and-temporal-integration]] — How moments bind into a temporal stream
 - [[process-and-consciousness]] — Apex synthesis of process philosophy and the Map's framework
-- [[tenets]] — The foundational commitments of the Map
-- [[consciousness-and-creativity]] — How duration's creative novelty relates to the generation-selection model
 - [[neurophenomenology]] — Contemplative science and access to temporal microstructure
-- [[topics/free-will]] — How temporal structure relates to agency
-- [[agent-causation]] — The self as originator of action in durée
-- [[haecceity]] — The thisness that grounds temporal identity
 - [[binding-problem]] — Feature binding and consciousness
 - [[unity-of-consciousness]] — The broader unity problem across all dimensions
-- [[varieties-of-unity]] — Taxonomy: synchronic, diachronic, and subject unity
-- [[consciousness-and-temporal-integration]] — How moments bind into a temporal stream
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno model of consciousness-brain interaction
-- [[psychophysical-coupling]] — Bandwidth constraints on consciousness-matter interaction
-- [[witness-consciousness]] — Contemplative access to the flow of time
-- [[introspection]] — The reliability of first-person temporal reports
+- [[ai-consciousness]] — Why the Map holds AI systems are not conscious
 
 ## References
 
