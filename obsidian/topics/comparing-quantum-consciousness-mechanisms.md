@@ -2,10 +2,10 @@
 title: "Comparing Quantum Consciousness Mechanisms"
 description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's nuclear spins, and spontaneous collapse hybrids against empirical, philosophical, and tenet criteria."
 created: 2026-02-09
-modified: 2026-02-10
+modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-10T11:06:00+00:00
-last_deep_review: 2026-02-10T11:06:00+00:00
+ai_modified: 2026-02-22T10:11:00+00:00
+last_deep_review: 2026-02-22T10:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[quantum-measurement-consciousness-interface]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[quantum-neural-timing-constraints]]"
+  - "[[philosophical-stakes-of-spontaneous-collapse]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -58,7 +59,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 **Tenet alignment: Mixed.** Orch OR supports [[tenets#^dualism|Dualism]] (consciousness irreducible to classical computation, via Penrose's Gödelian argument) and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] (collapse as causal mechanism). It supports [[tenets#^no-many-worlds|No Many Worlds]] (objective collapse). However, it sits uneasily with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. The tenet requires the *smallest possible* non-physical influence — but Orch OR demands macroscopic quantum coherence across microtubule networks. Penrose's suggestion that each OR event carries proto-conscious experience implies a form of panpsychism the Map does not endorse.
 
-**Empirical status: Growing but contested.** The 2024 epothilone B study (microtubule-stabilizing drug delays anaesthesia) and room-temperature tryptophan superradiance provide circumstantial support. Wiest et al. (2025) report a 613 THz quantum oscillation signature abolished by anaesthetics. These findings establish microtubule relevance to consciousness but do not confirm the specific Orch OR mechanism — microtubules might matter for classical or other quantum reasons.
+**Empirical status: Growing but contested.** The epothilone B study (Khan et al. 2024; microtubule-stabilizing drug delays anaesthesia) and room-temperature tryptophan superradiance in microtubule architectures (Babcock et al. 2024) provide circumstantial support. Wiest (2025) reports a 613 THz quantum oscillation signature abolished by anaesthetics. These findings establish microtubule relevance to consciousness but do not confirm the specific Orch OR mechanism — microtubules might matter for classical or other quantum reasons.
 
 **Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence in microtubules at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2020) have already ruled out the simplest Diósi-Penrose model. The parameter space is shrinking — a virtue for falsifiability, but a warning for the theory.
 
@@ -92,7 +93,7 @@ Matthew Fisher proposes that phosphorus-31 nuclear spins in Posner molecules (Ca
 
 ## Spontaneous Collapse Hybrids: CSL-IIT and Consciousness-Modulated Collapse
 
-Rather than proposing a specific neural mechanism, hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousness frameworks (particularly [[integrated-information-theory|Integrated Information Theory]]). The core idea: physical collapse mechanisms operate universally as baseline, while consciousness *modulates* collapse parameters — rate, location, or outcome — in neural systems with high integrated information (Φ).
+Rather than proposing a specific neural mechanism, hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousness frameworks (particularly [[integrated-information-theory|Integrated Information Theory]]). The core idea: physical collapse mechanisms operate universally as baseline, while consciousness *modulates* collapse parameters — rate, location, or outcome — in neural systems with high integrated information (Φ). In McQueen's formulation, Φ_Max serves as the collapse operator, so systems with higher integrated information experience stronger collapse — though the coupling between Φ and collapse strength is postulated, not derived from deeper principles.
 
 **Decoherence vulnerability: Not applicable.** These models don't require neural quantum coherence at all. Collapse occurs through modification of the Schrödinger equation itself (stochastic terms in CSL, discrete jumps in GRW). Consciousness modulates an already-occurring physical process rather than maintaining a fragile quantum state. This sidesteps the decoherence objection entirely.
 
@@ -139,6 +140,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[quantum-consciousness]] — Overview of quantum approaches to consciousness
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR models
+- [[philosophical-stakes-of-spontaneous-collapse]] — Why the choice between collapse mechanisms matters philosophically
 - [[quantum-neural-mechanisms]] — Five neural quantum mechanisms with evidence
 - [[quantum-biology-and-the-consciousness-debate]] — Why quantum biology shifts the burden of proof
 - [[decoherence]] — The decoherence challenge in detail
@@ -152,6 +154,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 
 ## References
 
+- Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
 - Chalmers, D. J. & McQueen, K. J. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 - Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 - Donadi, S., et al. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
@@ -161,6 +164,8 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
+- Khan, S., Huang, Y., Timuçin, D., Bailey, S., Lee, S., Lopes, J., Gaunce, E., Mosberger, J., Zhan, M., Abdelrahman, B., Zeng, X., & Wiest, M. C. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+- Player, T. C. & Hore, P. J. (2018). Posner qubits: spin dynamics of entangled Ca₉(PO₄)₆ molecules. *Journal of the Royal Society Interface*, 15(148), 20180494.
 - Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.

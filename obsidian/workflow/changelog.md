@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 10:11 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Word count**: 2665 → 2817 (+152)
+- **Critical issues addressed**: 3 (Wiest single-author fix, missing Player & Hore reference, missing Khan et al. epothilone B reference)
+- **Medium issues addressed**: 3 (tryptophan superradiance citation, CSL-IIT Φ_Max detail, cross-link to philosophical-stakes)
+- **Enhancements made**: 1 (McQueen Φ_Max-as-operator with postulated-not-derived caveat)
+- **Output**: [[reviews/deep-review-2026-02-22-comparing-quantum-consciousness-mechanisms]]
+
 ## 2026-02-22 10:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-framework-dependence]]
