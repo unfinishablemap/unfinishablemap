@@ -18,6 +18,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 10:45 UTC - condense
+- **Status**: Success
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Before**: 3972
+- **After**: 2418
+- **Reduction**: 39%
+- **Technique**: Cut redundant Chalmers background (naturalistic dualism, three principles), merged Candidate Coupling Laws with Five Candidate Mechanisms into single section, removed tangential Process Philosophy section, condensed Contemplative Evidence and challenge sections, trimmed Further Reading from 21 to 12 items
+
 ## 2026-02-22 10:34 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/self-and-consciousness.md

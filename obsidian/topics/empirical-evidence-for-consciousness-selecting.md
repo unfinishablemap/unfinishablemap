@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-21T08:51:00+00:00
+ai_modified: 2026-02-22T10:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[quantum-biology]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
-  - "[[attention]]"
+  - "[[concepts/attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[stapp-quantum-mind]]"
   - "[[interactionist-dualism]]"
@@ -33,6 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
+last_deep_review: 2026-02-22T10:52:00+00:00
 ---
 
 No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively favour the hypothesis over its competitors. Each line of evidence eliminates alternatives. Together they narrow the viable options until [[concepts/consciousness-selecting-neural-patterns|consciousness-selecting]] emerges as the most coherent explanation that survives all constraints.
@@ -81,13 +82,13 @@ The neurological line establishes:
 - **Directed conscious effort produces measurable neural changes.** The changes track the phenomenology of effort.
 - **Willed and automatic processing have distinct signatures.** Something distinguishes them beyond mere task difficulty.
 
-**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data.
+**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. (For first-person evidence from trained observers that complements these third-person findings, see [[contemplative-evidence-for-consciousness-theories|contemplative evidence for consciousness theories]].)
 
 ## The Quantum-Biological Line
 
 The most recent and technically specific evidence addresses whether the physical substrate for consciousness-selecting exists. For decades, the categorical objection was that quantum effects cannot survive in warm, wet biological systems. This objection has collapsed.
 
-**Avian magnetoreception.** Migratory birds navigate using quantum spin entanglement in cryptochrome proteins. Radical pairs maintain coherence for microseconds—not the femtoseconds Tegmark predicted for neural tissue. In January 2026, Princeton researchers computationally confirmed this mechanism. A 2024 *Nature Communications* study demonstrated that the [[stapp-quantum-mind|quantum Zeno effect]]—the same mechanism Stapp proposes for consciousness-brain interaction—enables cryptochrome magnetosensitivity. Evolution has already implemented Zeno-like dynamics in a functional biological system.
+**Avian magnetoreception.** Migratory birds navigate using quantum spin entanglement in cryptochrome proteins. Radical pairs—pairs of molecules with correlated electron spins—maintain coherence for microseconds, not the femtoseconds Tegmark predicted for neural tissue. In January 2026, Princeton researchers computationally confirmed this mechanism. A 2024 *Nature Communications* study demonstrated that the [[stapp-quantum-mind|quantum Zeno effect]]—the same mechanism Stapp proposes for consciousness-brain interaction—enables cryptochrome magnetosensitivity. Evolution has already implemented Zeno-like dynamics in a functional biological system.
 
 **Enzyme catalysis.** Quantum tunnelling drives reaction rates in enzymes, confirmed through kinetic isotope effects. Evolution has optimised quantum effects to accelerate reactions by factors up to 10¹⁷.
 
@@ -116,7 +117,7 @@ Together, however, the lines constrain the space of viable theories:
 | **Classical physicalism** | Compatible | Compatible | Compatible | Cannot explain measurement |
 | **Consciousness-selecting** | Compatible | Compatible | Compatible | Compatible |
 
-Classical physicalism accommodates the first three lines but has no account of why definite quantum outcomes occur. Epiphenomenalism fails the first three lines outright. Consciousness-selecting is compatible with all four.
+Classical physicalism accommodates the first three lines but has no account of why definite quantum outcomes occur—and if quantum effects are functionally relevant in neural tissue (as the fourth line suggests), that gap becomes a gap in the theory of consciousness itself, not merely in physics. Epiphenomenalism fails the first three lines outright. Consciousness-selecting is compatible with all four.
 
 This is not proof. It is convergent evidence favouring one hypothesis over its competitors—the same structure by which most scientific conclusions are reached. No single observation establishes continental drift, but the convergence of geological, palaeontological, magnetic, and geodetic evidence leaves plate tectonics as the most coherent explanation.
 
@@ -138,7 +139,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [[the-case-for-dualism|philosophical arguments]] the Map develops elsewhere.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology demonstrates the substrate exists. The bandwidth constraint (~10 bits/second) ensures selection is minimal—consciousness selects among coarse-grained action patterns, not individual quantum events.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology demonstrates the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Meister, 2024)—ensures selection is minimal. Consciousness selects among coarse-grained action patterns, not individual quantum events.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The evolutionary and neurological lines provide the strongest evidence for the downward direction of interaction. Consciousness is not a passive observer—it shapes neural outcomes.
 

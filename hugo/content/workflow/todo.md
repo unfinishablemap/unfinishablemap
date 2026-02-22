@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense psychophysical-laws.md (3972 words, 159% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Now incorporates psychophysical-coupling content from a recent coalesce, pushing it to 3972 words. Likely contains redundancy between the merged material and existing coverage of mind-brain interaction mechanisms. Preserve core framework while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Write article on analytic idealism and mind-centric metaphysics
 - **Type**: expand-topic
 - **Notes**: Research completed in research/analytic-idealism-2026-01-08.md. Bernardo Kastrup's analytic idealism is a major alternative metaphysics that the Map needs to address — it agrees consciousness is fundamental but proposes a radically different ontology (mind-only vs. dualism). Engaging with it strengthens the case for the Map's dualist position. Target section: concepts/.
@@ -228,6 +222,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense psychophysical-laws.md (3972 words, 159% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Now incorporates psychophysical-coupling content from a recent coalesce, pushing it to 3972 words. Likely contains redundancy between the merged material and existing coverage of mind-brain interaction mechanisms. Preserve core framework while tightening. See /condense skill.
+- **Output**: obsidian/concepts/psychophysical-laws.md
 
 ### ✓ 2026-02-22: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
 - **Type**: cross-review
