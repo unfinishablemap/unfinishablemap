@@ -4,7 +4,7 @@ description: "Skill acquisition, mastery, and restructuring reveal consciousness
 created: 2026-02-02
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-19T21:36:00+00:00
+ai_modified: 2026-02-22T01:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,6 +48,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
+last_deep_review: 2026-02-22T01:04:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-skill-and-the-lived-body/"
   - "/topics/paradox-of-effortless-mastery/"
@@ -76,7 +77,7 @@ As competence develops, this scaffolding is progressively dismantled. Skills tha
 
 The withdrawal of consciousness from skilled performance is not passive. Consciousness *delegates*. There is a phenomenological moment—often repeated many times during learning—where the learner deliberately releases conscious control over a component, trusting the emerging automaticity to handle it. Learning to ride a bicycle involves a moment where you stop thinking about balance and let it happen. This delegation is itself a conscious act, requiring confidence that the procedural system is ready.
 
-The Map interprets this as evidence for several commitments. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition—though Macnamara, Hambrick, and Oswald's (2014) meta-analysis found deliberate practice explained only about 12% of performance variance across domains, with much larger contributions from innate ability and other factors. The Map's argument rests on the *quality-dependent* nature of whatever practice does contribute, not on practice being the sole determinant.
+The Map interprets this as evidence for several commitments. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—merely accompanying neural processes without affecting them—it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice, which requires sustained conscious engagement, produces greater skill gains than mindless repetition—though Macnamara, Hambrick, and Oswald's (2014) meta-analysis found deliberate practice explained a highly variable share of performance variance—26% in games and 21% in music but under 1% in professions—with substantial contributions from innate ability and other factors. The Map's argument rests on the *quality-dependent* nature of whatever practice does contribute, not on practice being the sole determinant.
 
 The asymmetry of acquisition and loss reinforces this. Skills are acquired through conscious effort but lost through disuse or injury to procedural systems. Classic amnestic cases demonstrate this starkly—patients with severe hippocampal damage retain motor skills they can no longer remember learning (Milner, 1962). Consciousness is necessary for building but not for maintaining skilled performance. This asymmetry maps onto the distinction between [[anoetic-noetic-autonoetic-consciousness|anoetic and autonoetic consciousness]]—between the bare awareness that accompanies procedural execution and the self-reflective awareness that deliberate learning requires.
 
@@ -180,6 +181,8 @@ The strongest physicalist counterargument is that executive attention networks, 
 - [[phenomenology-of-agency-vs-passivity]] — The felt difference between authored and discovered action
 - [[phenomenology-of-conceptual-change]] — The cognitive parallel to motor skill transition
 - [[consciousness-and-the-neuroscience-of-deliberate-practice]] — The neural evidence for practice quality mattering
+- [[phenomenology-of-cognitive-automatisation]] — What it is like as processes become automatic
+- [[motor-selection]] — Conscious selection in motor systems
 - [[interface-friction]] — The resistance at the mind-brain interface that effort tracks
 - [[anoetic-noetic-autonoetic-consciousness]] — The levels of consciousness that map onto the phases of skill
 
