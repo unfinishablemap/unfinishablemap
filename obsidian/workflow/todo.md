@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Condense brain-interface-boundary.md (3,557 words, 102% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3,500-word hard threshold for concepts/. At 3,557 words, slightly over limit. Preserve core arguments while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Address convergence-vs-unfalsifiability gap in experimental-design-for-consciousness-collapse-testing.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -254,6 +248,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-22: Condense brain-interface-boundary.md (3,557 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3,500-word hard threshold for concepts/. At 3,557 words, slightly over limit. Preserve core arguments while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/brain-interface-boundary.md
 
 ### ✓ 2026-02-22: Condense simulation.md (3,652 words, 104% of hard threshold)
 - **Type**: condense
