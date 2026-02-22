@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on motor control and the quantum Zeno framework
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the quantum Zeno effect may relate to motor control and conscious intention—directly supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Write article on reductionism and consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -184,6 +177,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on motor control and the quantum Zeno framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the quantum Zeno effect may relate to motor control and conscious intention—directly supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Output**: motor control and the quantum Zeno framework
 
 ### ✓ 2026-02-22: Condense many-worlds-argument.md (3762 words, 150% of target)
 - **Type**: condense
