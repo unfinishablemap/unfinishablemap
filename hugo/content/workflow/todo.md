@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense llm-consciousness.md (4699 words, 188% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 4699 words, this is the longest concept article on the site. Preserve core arguments about substrate requirements and quantum randomness channel while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Condense the-case-for-dualism.md (4182 words, 167% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. As a central hub article, length is partially justified, but at 4182 words there is likely redundancy with the many linked supporting articles. Preserve the convergence argument structure while tightening prose and deferring detailed argument presentations to their dedicated pages. See /condense skill.
@@ -132,6 +126,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense llm-consciousness.md (4699 words, 188% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 4699 words, this is the longest concept article on the site. Preserve core arguments about substrate requirements and quantum randomness channel while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/llm-consciousness.md
 
 ### ✓ 2026-02-22: Update references to coalesced substrate-independence-critique article
 - **Type**: cross-review
