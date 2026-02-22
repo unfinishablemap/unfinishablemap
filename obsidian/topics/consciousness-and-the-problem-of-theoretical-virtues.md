@@ -4,7 +4,7 @@ description: "Theoretical virtues—simplicity, explanatory power, fertility, el
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T13:51:00+00:00
+ai_modified: 2026-02-22T07:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
+last_deep_review: 2026-02-22T07:02:00+00:00
 ---
 
 Theoretical virtues — the properties that make one theory preferable to another — are the engine of rational theory choice in science. Simplicity, explanatory power, empirical adequacy, fertility, scope, elegance, and unificatory strength normally help scientists navigate between competing hypotheses. The Unfinishable Map argues that consciousness breaks the machinery of theoretical virtues in distinctive and underappreciated ways. Not just parsimony (addressed separately in [[epistemological-limits-of-occams-razor]]), but the entire suite of virtues malfunctions when the target phenomenon is subjective experience. This systematic failure may itself be diagnostic of something about consciousness's nature — though interpreting it requires care, as the article explores.
@@ -42,7 +43,7 @@ Philosophers of science identify a family of properties that make theories choic
 - **Elegance**: the theory exhibits formal beauty or naturalness
 - **Unificatory strength**: the theory subsumes previously separate domains
 
-These virtues are not decorative preferences. They are epistemically weighted: theories scoring higher on more virtues are rationally preferred, other things being equal. The virtues function as *meta-criteria* — they arbitrate when evidence alone does not settle the question.
+These virtues are not decorative preferences. They are epistemically weighted: theories scoring higher on more virtues are rationally preferred, other things being equal (McMullin 2008). The virtues function as *meta-criteria* — they arbitrate when evidence alone does not settle the question.
 
 The critical assumption, rarely made explicit, is that these virtues are *domain-general*. The same criteria that select between rival theories of gravity should select between rival theories of mind. Consciousness exposes this assumption as false.
 
@@ -62,7 +63,7 @@ Explanatory power is typically the most decisive theoretical virtue. The theory 
 
 For the mind-body problem specifically, the difficulty is starker. Physicalism offers no explanatory connection between neural processes and phenomenal character. It is not that the connection is complicated; it is that we lack any model of what such a connection would even look like. Joseph Levine's [[explanatory-gap]] (1983) identifies this as a structural deficit, not a temporary one. The identity "pain = C-fiber activation" does not explain pain's phenomenal character the way "water = H₂O" explains water's macroscopic properties.
 
-Dualism, by contrast, does not purport to explain *why* consciousness exists — it takes consciousness as fundamental. This represents a different relationship to explanatory power: refusing to reduce what cannot be intelligibly reduced, rather than positing a reduction that produces no understanding. Neither position scores well on standard explanatory power, but they fail for different reasons and in different ways. The virtue cannot arbitrate between them.
+Dualism, by contrast, does not purport to explain *why* consciousness exists — it takes consciousness as fundamental. This is not a refusal to explain so much as a standard theoretical move: physics takes charge, mass, and spacetime as fundamental without explaining why they exist. Taking consciousness as a further fundamental is explanatorily costly but not methodologically unusual. Neither position scores well on standard explanatory power, but they fail for different reasons and in different ways. The virtue cannot arbitrate between them.
 
 ### Simplicity Beyond Parsimony
 
@@ -74,7 +75,7 @@ What would count as a "simpler" theory of consciousness? Physicalism is ontologi
 
 A theory's scope — how wide a range of phenomena it covers — normally favours more general theories. Physicalism claims maximal scope: everything is physical, consciousness included. Dualism seems to narrow scope by introducing a separate domain.
 
-But scope is valuable only when genuine coverage is achieved. A theory that *claims* to cover consciousness while providing no explanatory grip on phenomenal character achieves verbal scope, not substantive scope. Saying "consciousness is physical" covers the domain only if something informative follows. When nothing does — when the claim amounts to "consciousness is physical, though we cannot say how" — the scope advantage is nominal.
+But scope is valuable only when genuine coverage is achieved. A theory that *claims* to cover consciousness while providing no explanatory grip on phenomenal character achieves verbal scope, not substantive scope. [[functionalism|Functionalist]] accounts, for instance, offer impressive scope over cognitive and behavioural phenomena while leaving phenomenal character untouched. Saying "consciousness is physical" covers the domain only if something informative follows. When nothing does — when the claim amounts to "consciousness is physical, though we cannot say how" — the scope advantage is nominal.
 
 The scope virtue also assumes phenomena are comparable. A theory covering both gravity and electromagnetism unifies genuinely similar things (forces between objects). A theory covering both protein folding and phenomenal redness unifies things so categorically different that the "coverage" may reflect conceptual stretching rather than genuine theoretical reach.
 
@@ -84,7 +85,7 @@ Fertile theories generate productive research programmes. This virtue has been u
 
 The charge is partly unfair — dualism generates its own research questions about the interface between mind and matter, the conditions for consciousness, and the [[binding-problem|binding problem]]. But the deeper issue is that fertility as a theoretical virtue presupposes that we know what would count as progress. In consciousness studies, this is exactly what is contested. Neural correlate research is fertile in producing correlations. But if the hard problem is genuine, this fertility does not bring us closer to explaining experience — it maps the physical side of a gap that physical investigation cannot bridge.
 
-A genuinely fertile theory of consciousness would generate research that progressively closes the [[explanatory-gap]]. No current theory does this. Fertility, as applied to consciousness, measures productivity *within* a framework rather than progress *toward* understanding. The virtue cannot distinguish busy-work from breakthrough.
+A genuinely fertile theory of consciousness would generate research that progressively closes the [[explanatory-gap]] (Lipton 2004 examines this link between fertility and explanatory progress). No current theory does this. Fertility, as applied to consciousness, measures productivity *within* a framework rather than progress *toward* understanding. The virtue cannot distinguish busy-work from breakthrough.
 
 ### Elegance and the Aesthetic Trap
 
@@ -106,7 +107,7 @@ Dualism sacrifices unificatory scope but gains explanatory honesty. By recognisi
 
 The individual failures catalogued above are significant. But the pattern they form matters more. It is not that consciousness poses minor difficulties for one or two theoretical virtues. Every major virtue malfunctions when applied to the mind-body problem. Empirical adequacy cannot discriminate. Explanatory power cannot be assessed. Simplicity lacks a metric. Scope conflates verbal coverage with genuine reach. Fertility measures activity rather than progress. Elegance reflects priors. Unification is syntactic rather than semantic.
 
-This systematic failure admits three interpretations. The first: consciousness is simply harder than other problems, and the virtues will eventually engage once we develop better theories. The second: consciousness is a different *kind* of problem — one that the theoretical virtues, evolved for selecting between competing physical theories, are not equipped to adjudicate. The third, associated with [[mysterianism|mysterian]] philosophers like Colin McGinn, is that human cognitive architecture lacks the conceptual resources to solve the mind-body problem. On this view, the virtues fail not because the answer is non-physical, but because our minds cannot grasp the answer at all.
+This systematic failure admits three interpretations, which are not mutually exclusive — the truth may involve elements of more than one. The first: consciousness is simply harder than other problems, and the virtues will eventually engage once we develop better theories. The second: consciousness is a different *kind* of problem — one that the theoretical virtues, evolved for selecting between competing physical theories, are not equipped to adjudicate. The third, associated with [[mysterianism|mysterian]] philosophers like Colin McGinn, is that human cognitive architecture lacks the conceptual resources to solve the mind-body problem. On this view, the virtues fail not because the answer is non-physical, but because our minds cannot grasp the answer at all.
 
 The Map favours the second interpretation, though the third deserves serious engagement. The "harder problem" reading (interpretation one) offers no explanation for *why* the virtues fail so uniformly — it simply predicts that they will eventually succeed, a promissory note with no expiration date. The mysterian reading (interpretation three) is more formidable: cognitive closure would indeed predict systematic virtue failure, and does so without positing non-physical ontology. The Map's reason for preferring dualism over mysterianism is that cognitive closure is itself a claim about the limits of consciousness — and explaining *why* consciousness cannot grasp its own nature seems to require substantive facts about what consciousness is. Mysterianism, in other words, is an epistemological thesis that presupposes but does not provide an underlying metaphysics. Dualism at least offers a candidate answer: the virtues fail because they are tools calibrated for one ontological domain being applied to another.
 
@@ -126,6 +127,7 @@ The Map does not claim that theoretical virtues are useless. In their home domai
 
 - [[epistemological-limits-of-occams-razor]] — The parsimony argument examined in detail
 - [[consciousness-and-the-philosophy-of-explanation]] — Why explanation itself breaks down for consciousness
+- [[consciousness-and-the-meta-problem-of-scientific-explanation]] — Why science's explanatory apparatus fails for consciousness
 - [[the-convergence-argument-for-dualism]] — Multiple independent arguments converging on irreducibility
 - [[phenomenology-of-theoretical-commitment]] — How holding a theory reshapes conscious experience
 - [[explanatory-gap]] — The structural deficit between physical and phenomenal
@@ -141,17 +143,3 @@ The Map does not claim that theoretical virtues are useless. In their home domai
 - Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 - McMullin, E. (2008). "The Virtues of a Good Theory." In S. Psillos & M. Curd (eds.), *The Routledge Companion to Philosophy of Science*. Routledge.
-
-<!-- AI REFINEMENT LOG - 2026-02-20
-Changes made:
-- Fixed self-undermining meta-argument: article previously argued virtues are broken, then used virtue-style reasoning to prefer dualism. Now distinguishes first-order virtue application (which fails) from second-order reasoning about why virtues fail (which remains available).
-- Engaged with mysterianism as a genuine competitor: added McGinn's cognitive closure as a third interpretation of systematic virtue failure, with explicit argument for why the Map prefers dualism over mysterianism.
-- Softened opening paragraph's evidential overclaim ("is itself evidence" → "may itself be diagnostic... though interpreting it requires care").
-- Revised Relation to Site Perspective to acknowledge that first-order virtue-failure is neutral between dualism and physicalism, with second-order reasoning required for any metaphysical interpretation.
-- Added McGinn (1989) to references.
-
-Based on pessimistic review (2026-02-20 afternoon).
-Key improvements: Logical consistency of the meta-argument; engagement with mysterianism; first-order/second-order distinction.
-
-This log should be removed after human review.
--->
