@@ -4,7 +4,7 @@ description: "Integration matters for consciousness, but IIT's identity thesis i
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-18T21:16:00+00:00
+ai_modified: 2026-02-22T00:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,6 @@ concepts:
   - "[[integrated-information-theory]]"
   - "[[global-workspace-theory]]"
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
   - "[[predictive-processing]]"
   - "[[process-philosophy]]"
   - "[[interactionist-dualism]]"
@@ -32,6 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
+last_deep_review: 2026-02-22T00:11:00+00:00
 ---
 
 [[integrated-information-theory|Integrated Information Theory]] identified something important: consciousness and integration are intimately connected. Experience is unified—you do not hear the trumpet separately from seeing the performer's fingers move. Information from different sources, modalities, and timescales arrives at a single locus of awareness where it becomes one scene. The Unfinishable Map agrees that integration is central to consciousness. But IIT made a specific philosophical move that does not follow from this observation: it identified consciousness *with* integration, treating them as the same thing. This article argues that integration is better understood as something consciousness *does*—an activity, not an identity—and surveys the alternative frameworks that support this view.
@@ -91,9 +91,9 @@ These alternative frameworks converge on a view the Map endorses: integration is
 
 Consider what happens when you listen to a symphony. You integrate the timbre of violins with the rhythm of percussion, the current phrase with your memory of the theme stated earlier, the sound with the visual scene of the concert hall. This integration is not passive—it requires attention, selection, and active synthesis. You can choose to focus on the violin line, letting the percussion recede, or attend to the rhythmic structure, letting individual timbres blur. The integrated experience you have depends on what you *do* with the information available.
 
-IIT cannot capture this. Φ is calculated from the system's architecture at an instant—it does not change based on what the subject attends to. Two people with identical neural architectures hearing the same symphony would have the same Φ, yet their conscious experiences might differ radically depending on where they direct [[attention-as-interface|attention]]. The integration that matters for consciousness is *selective integration*—the active synthesis of some information rather than other information into a unified experience.
+IIT cannot fully capture this. Although IIT 4.0 computes Φ over the system's current state (not just its architecture), the measure still reflects the intrinsic causal structure of the physical system rather than anything the subject *does* with it. Two systems in the same state have the same Φ regardless of subjective attentional focus. The integration that matters for consciousness is *selective integration*—the active synthesis of some information rather than other information into a unified experience.
 
-This selective character is precisely what the Map's framework predicts. If consciousness operates by biasing quantum indeterminacies in neural systems, then the act of integration involves consciousness selecting which neural patterns become actual from among the possibilities the brain presents. Integration is the trace that conscious selection leaves on neural activity—not a precondition for consciousness but a consequence of it.
+This selective character is what the Map's framework predicts. If—as the Map speculatively proposes—consciousness operates by biasing quantum indeterminacies in neural systems, then integration involves consciousness selecting which neural patterns become actual from among the possibilities the brain presents. This remains speculative: the decoherence timescales in warm biological tissue are extremely short, and whether quantum coherence persists long enough for such selection is an open empirical question. But the conceptual point stands independently of the specific mechanism: integration understood as an activity of consciousness, however mediated, better captures the selective character of experience than integration understood as a structural property.
 
 ## The Binding Problem Revisited
 
@@ -101,9 +101,9 @@ The [[binding-problem|binding problem]]—how distributed neural processing prod
 
 IIT claims to dissolve the binding problem: if consciousness *is* integration, then asking how integration produces consciousness is a category error. But this dissolution is unsatisfying. We can still ask *why* integrated information should be conscious. The binding problem reappears as the question of why Φ feels like anything.
 
-If integration is an activity of consciousness, the binding problem has a different shape. The question becomes: how does consciousness access distributed neural information and synthesise it into unified experience? This is still difficult, but it is a question about mechanism rather than metaphysics. The Map's answer points to quantum-mediated selection: consciousness accesses the global state of neural possibilities (presented through the brain's recurrent and predictive architecture) and selects a coherent pattern from among them. Binding is achieved through selection—the chosen pattern is unified because a single act of selection produced it.
+If integration is an activity of consciousness, the binding problem has a different shape. The question becomes: how does consciousness access distributed neural information and synthesise it into unified experience? This is still difficult, but it is a question about mechanism rather than metaphysics. The Map's speculative answer points to quantum-mediated selection: consciousness accesses the global state of neural possibilities (presented through the brain's recurrent and predictive architecture) and selects a coherent pattern from among them. Binding is achieved through selection—the chosen pattern is unified because a single act of selection produced it.
 
-This reframing explains why binding breaks down in specific neurological conditions. In [[binding-problem|simultanagnosia]], patients can perceive individual objects but cannot integrate them into a unified scene. On IIT's view, this should reflect reduced Φ. On the Map's view, it reflects damage to the neural architecture that presents options to consciousness—the selection mechanism is intact, but the options it receives are impoverished.
+This reframing explains why binding breaks down in specific neurological conditions. In simultanagnosia, patients can perceive individual objects but cannot integrate them into a unified scene (Coslett & Saffran, 1991). On IIT's view, this should reflect reduced Φ. On the Map's view, it reflects damage to the neural architecture that presents options to consciousness—the selection mechanism is intact, but the options it receives are impoverished.
 
 ## Relation to Site Perspective
 
@@ -114,6 +114,8 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 **Bidirectional Interaction** requires that consciousness causally influence the physical world. An identity thesis (consciousness *is* integration) leaves no room for influence—the structure simply *is* what it is. An activity thesis (consciousness *integrates*) naturally accommodates causal influence: the act of integration shapes which neural patterns are realised.
 
 **Minimal Quantum Interaction** provides the mechanism. The brain's predictive and recurrent architecture generates a landscape of possible neural states. Consciousness selects among these possibilities at quantum decision points, and the selected pattern is the integrated experience. The integration is quantum-mediated, minimal, and genuinely causal.
+
+**No Many Worlds** becomes relevant wherever quantum selection is invoked. If consciousness selects among quantum possibilities, a Many-Worlds proponent argues that all branches are realised and no genuine selection occurs. The Map rejects MWI: indexical identity matters, and the fact that *this* branch of experience is the one I inhabit is not explained away by positing that all branches exist equally. The activity thesis requires that quantum selection be genuine—one outcome becomes actual while alternatives do not—which is incompatible with MWI's universal branching.
 
 **Occam's Razor Has Limits** applies to the temptation to identify consciousness with integration because the identity seems simpler than positing a separate integrating agent. But as IIT's difficulties show—the passivity problem, the expander graph problem, the temporal gap—the apparently simpler identification creates problems that the slightly more complex activity thesis avoids.
 
@@ -137,4 +139,5 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 - Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 - COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+- Coslett, H. B., & Saffran, E. (1991). Simultanagnosia: To see but not two see. *Brain*, 114(4), 1523-1545.
 - Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized*.
