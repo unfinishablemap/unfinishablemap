@@ -42,6 +42,11 @@ coalesced_from:
   - "/topics/contemplative-verification-of-consciousness-theories/"
   - "/topics/contemplative-training-and-phenomenal-access/"
   - "/topics/contemplative-evidence-and-verification/"
+archived: true
+archived_date: 2026-02-22T11:55:00+00:00
+superseded_by: "/topics/contemplative-evidence-for-consciousness/"
+archive_reason: "Coalesced into Contemplative Evidence for Consciousness"
+original_path: "/topics/contemplative-evidence-for-consciousness-theories/"
 ---
 
 Contemplative traditions provide evidence that distinguishes between theories of consciousness. Meditation training progressively discloses structures of experience invisible to untrained introspection, and these findings—combined with neuroplasticity data—create empirical test cases. If consciousness is epiphenomenal, deliberate mental practice should not produce measurable effects; if reductive materialism is true, first-person training should be eliminable. The evidence rules out these positions. Whether it further distinguishes interactionist dualism from non-reductive physicalism is a harder question that this article addresses directly. The Unfinishable Map treats contemplative evidence as genuine data, not as religious testimony or subjective noise.

@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-02-22T00:27:00+00:00
+archived: true
+archived_date: 2026-02-22T11:55:00+00:00
+superseded_by: "/topics/contemplative-evidence-for-consciousness/"
+archive_reason: "Coalesced into Contemplative Evidence for Consciousness"
+original_path: "/topics/contemplative-evidence-convergence-across-traditions/"
 ---
 
 Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, Sufi murāqaba, and secular mindfulness programs arose independently, carry opposed metaphysical commitments, and employ different techniques. Yet trained practitioners across these traditions report strikingly similar findings about the structure of consciousness — and neuroimaging confirms that these reports track shared neural signatures. The Unfinishable Map holds that this cross-tradition convergence constitutes significant evidence about the nature of consciousness. Where traditions with incompatible doctrines discover the same phenomenological features, the most parsimonious explanation is that those features are real properties of experience rather than artefacts of any single tradition's training.
