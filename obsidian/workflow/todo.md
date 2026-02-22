@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the participatory universe
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/participatory-universe-2026-02-08.md. Wheeler's participatory universe thesis—observation as constitutive of reality—integrates with the Map's consciousness-collapse framework, QBism, and Stapp's quantum mind theory. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Write article on consciousness in non-collapsed quantum states
 - **Type**: expand-topic
 - **Status**: pending
@@ -177,6 +170,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on the participatory universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/participatory-universe-2026-02-08.md. Wheeler's participatory universe thesis—observation as constitutive of reality—integrates with the Map's consciousness-collapse framework, QBism, and Stapp's quantum mind theory. Target section: concepts/.
+- **Output**: the participatory universe
 
 ### ✓ 2026-02-22: Write article on epistemological limits of Occam's Razor for consciousness
 - **Type**: expand-topic
