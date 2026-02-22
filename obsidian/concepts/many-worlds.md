@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-31T00:50:00+00:00
+ai_modified: 2026-02-22T18:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,10 +25,10 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-26T13:00:00+00:00
+last_deep_review: 2026-02-22T18:12:00+00:00
 ---
 
 The Many-Worlds Interpretation (MWI) holds that quantum measurement never collapses the wave function. Instead, every possible outcome occurs—the universe splits into branches, one for each possibility. The Unfinishable Map explicitly rejects MWI in the [[tenets#^no-many-worlds|No Many Worlds]] tenet. The rejection is not merely aesthetic but principled: MWI raises unanswerable questions about identity, dissolves the meaning of probability, and fails to explain why consciousness exists at all.
@@ -125,7 +125,7 @@ MWI also claims to dissolve the [[prebiotic-collapse|prebiotic collapse problem]
 
 The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [[quantum-measurement-interpretations-beyond-mwi|comprehensive survey of quantum interpretations]] establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories.
 
-The interpretive landscape is genuinely open—a 2025 Nature Physics survey found only 24% of physicists are confident their preferred interpretation is correct. The Map favors interpretations where consciousness participates in collapse (transactional, consciousness-integrated CSL), as these explain both quantum measurement outcomes and phenomenal facts. Interpretations that eliminate consciousness or treat it as purely epistemic don't explain why consciousness exists at all. See the [[quantum-measurement-interpretations-beyond-mwi|full survey]] for detailed analysis of each interpretation's compatibility with the Map's framework.
+The interpretive landscape is genuinely open—surveys of physicists consistently show deep disagreement, with few confident their preferred interpretation is correct (Schlosshauer et al., 2013). The Map favors interpretations where consciousness participates in collapse (transactional, consciousness-integrated CSL), as these explain both quantum measurement outcomes and phenomenal facts. Interpretations that eliminate consciousness or treat it as purely epistemic don't explain why consciousness exists at all. See the [[quantum-measurement-interpretations-beyond-mwi|full survey]] for detailed analysis of each interpretation's compatibility with the Map's framework.
 
 ## What Would Challenge This View?
 
@@ -184,3 +184,4 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*.
 - Saunders, S. et al. eds. (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+- Schlosshauer, M. et al. (2013). A Snapshot of Foundational Attitudes Toward Quantum Mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222-230.

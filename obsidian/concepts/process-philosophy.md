@@ -127,7 +127,7 @@ Henry Stapp explicitly builds on Whitehead's framework, proposing that quantum e
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the many-worlds interpretation of quantum mechanics. Process philosophy is broadly compatible with this rejection: actual occasions achieve definite outcomes rather than splitting into parallel branches. But Whitehead's framework doesn't explicitly address quantum interpretations.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the [[many-worlds|many-worlds interpretation]] of quantum mechanics. Process philosophy is broadly compatible with this rejection: actual occasions achieve definite outcomes rather than splitting into parallel branches. But Whitehead's framework doesn't explicitly address quantum interpretations.
 
 ## What Process Philosophy Gets Right
 

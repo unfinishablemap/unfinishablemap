@@ -81,7 +81,7 @@ The Map's [[tenets]] commit to consciousness as an active selector among superpo
 
 **Bidirectional Interaction** faces its most pointed version of the timing question here. If the brain is in superposition and consciousness is definite, the mechanism by which definite consciousness selects among indefinite physical possibilities remains philosophically underdescribed. The Map acknowledges this as an open problem rather than a refutation — the mechanism is unclear, but the alternatives (epiphenomenalism, many-worlds, eliminativism) each face worse difficulties.
 
-**No Many Worlds** is reinforced by the definiteness constraint. Many-worlds dissolves the problem by distributing outcomes across branches, but this trades one mystery (why experience is definite) for another (why *I* am in *this* branch). The Map treats definiteness as a genuine feature of consciousness that demands explanation, not dissolution.
+**No Many Worlds** is reinforced by the definiteness constraint. The [[many-worlds|many-worlds interpretation]] dissolves the problem by distributing outcomes across branches, but this trades one mystery (why experience is definite) for another (why *I* am in *this* branch). The Map treats definiteness as a genuine feature of consciousness that demands explanation, not dissolution.
 
 ## Further Reading
 

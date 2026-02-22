@@ -80,7 +80,7 @@ Each major interpretation of quantum mechanics handles the measurement problem b
 
 **Copenhagen** accepts the observer's irreducibility but refuses to analyse it. Bohr treated the classical/quantum divide as pragmatic rather than ontological. This avoids the hard question by declining to ask it.
 
-**Many-worlds** eliminates collapse by declaring all outcomes real. But this trades the measurement problem for the indexical problem: why does *this* observer experience *this* branch? As the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet argues, the ontological cost is too high and the indexical question is unanswerable within the framework.
+**[[many-worlds|Many-worlds]]** eliminates collapse by declaring all outcomes real. But this trades the measurement problem for the indexical problem: why does *this* observer experience *this* branch? As the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet argues, the ontological cost is too high and the indexical question is unanswerable within the framework.
 
 **Bohmian mechanics** provides definite outcomes at all times through hidden variables. Measurement is just another interaction—no special role for the observer. But the philosophical question resurfaces: the observer is needed to *know* the result, and knowledge still seems to require consciousness.
 

@@ -118,7 +118,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fact that we can report our experiences—including our failures at probabilistic reasoning—requires causal flow from consciousness to physical behaviour. This reporting involves consciousness influencing neural states, providing evidence of the very interface the article discusses.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If all outcomes occur (as Many-Worlds claims), probability becomes a measure over branches, and the question of what consciousness does at measurement dissolves. The paradox explored here only arises if there is a genuine fact about which outcome *this* consciousness experiences—requiring one actual world with definite outcomes.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If all outcomes occur (as [[many-worlds|Many-Worlds]] claims), probability becomes a measure over branches, and the question of what consciousness does at measurement dissolves. The paradox explored here only arises if there is a genuine fact about which outcome *this* consciousness experiences—requiring one actual world with definite outcomes.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Our systematic preference for pattern over probability is Occam's razor embedded in cognitive architecture. We favour simple, coherent, meaningful explanations over statistical noise. But reality at the quantum level is fundamentally probabilistic. Our built-in Occam's razor misleads us about the very interface where consciousness meets physics.
 

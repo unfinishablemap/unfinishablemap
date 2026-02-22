@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Integrate many-worlds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: concepts/many-worlds.md has zero inbound wikilinks despite directly relating to Tenet 4 (No Many Worlds). Add cross-references from tenets.md, collapse-interpretation.md, quantum-consciousness.md, and arguments/many-worlds-argument.md. A concept page about MWI with no links from the site that explicitly rejects MWI is a critical navigation gap.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Review temporal-consciousness.md considering specious present insights
 - **Type**: cross-review
 - **Notes**: New article concepts/specious-present-temporal-experience.md provides dedicated treatment of the experienced "now" and its philosophical implications. concepts/temporal-consciousness.md is the foundational article on time and consciousness and should cross-reference the specious present analysis, particularly its relevance to the binding problem and Husserlian time-consciousness.
@@ -271,6 +265,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-22: Integrate many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: concepts/many-worlds.md has zero inbound wikilinks despite directly relating to Tenet 4 (No Many Worlds). Add cross-references from tenets.md, collapse-interpretation.md, quantum-consciousness.md, and arguments/many-worlds-argument.md. A concept page about MWI with no links from the site that explicitly rejects MWI is a critical navigation gap.
+- **Output**: obsidian/concepts/many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Integrate materialism.md into site navigation
 - **Type**: integrate-orphan
