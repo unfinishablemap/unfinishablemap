@@ -25,7 +25,7 @@ ai_generated_date: 2026-01-23
 last_curated:
 archived: true
 archived_date: 2026-01-29T00:00:00+00:00
-superseded_by: "/concepts/psychophysical-coupling/"
+superseded_by: "/concepts/psychophysical-laws/"
 archive_reason: "Coalesced into Psychophysical Coupling"
 original_path: "/concepts/psychophysical-coupling-mechanisms/"
 ---
@@ -44,7 +44,7 @@ The quantum Zeno effect—experimentally verified—shows that rapid repeated ob
 
 **Major objection**: Decoherence timescale. Monte Carlo simulations (Araujo et al., 2014) showed that the quantum Zeno effect breaks down for timescales exceeding brain decoherence time—potentially faster than neural processes require. Stapp's mechanism may fail at the boundary where quantum coherence gives way to classical dynamics.
 
-**Possible response**: Decoherence selects preferred bases without determining which outcome occurs—the [[measurement-problem|measurement problem]] remains open. Consciousness could bias outcome selection *after* decoherence, operating at the point of definite-outcome emergence rather than during coherent evolution. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-selected alternatives"—a different and less developed proposal than Stapp's original formulation, but one that remains consistent with the phenomenology of [[voluntary-attention|volitional effort]].
+**Possible response**: Decoherence selects preferred bases without determining which outcome occurs—the [[measurement-problem|measurement problem]] remains open. Consciousness could bias outcome selection *after* decoherence, operating at the point of definite-outcome emergence rather than during coherent evolution. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-selected alternatives"—a different and less developed proposal than Stapp's original formulation, but one that remains consistent with the phenomenology of [[attention-as-interface|volitional effort]].
 
 ## Intention as Probability Weighting {#intention}
 

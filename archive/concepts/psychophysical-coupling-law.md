@@ -37,7 +37,7 @@ last_curated: null
 last_deep_review: 2026-01-21T01:30:00+00:00
 archived: true
 archived_date: 2026-01-29T00:00:00+00:00
-superseded_by: "/concepts/psychophysical-coupling/"
+superseded_by: "/concepts/psychophysical-laws/"
 archive_reason: "Coalesced into Psychophysical Coupling"
 original_path: "/concepts/psychophysical-coupling-law/"
 ---

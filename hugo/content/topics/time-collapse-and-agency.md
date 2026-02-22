@@ -29,6 +29,7 @@ last_deep_review: 2026-01-30 22:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[temporal-ontology-and-consciousness]]'
 title: Time, Collapse, and Agency
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -243,6 +244,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response
 - [introspection](/concepts/introspection/) — First-person methods and temporal phenomenology
 - [haecceity](/concepts/haecceity/) — Indexical identity and why *this* consciousness matters
+- [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) — How temporal ontology and consciousness theories form natural pairings
 - [witness-consciousness](/concepts/witness-consciousness/) — Suspended selection in contemplative practice
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-collapse interaction
 - [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person observation with neuroscience

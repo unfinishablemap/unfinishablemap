@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-08
-**Article**: [Quantum Binding: Experimental Evidence](/concepts/quantum-coherence-and-binding-evidence/)
+**Article**: [Quantum Binding: Experimental Evidence](/concepts/quantum-neural-mechanisms-and-coherence/)
 **Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-quantum-binding-experimental-evidence/)
 
 ## Pessimistic Analysis Summary

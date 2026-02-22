@@ -31,7 +31,7 @@ ai_generated_date: 2026-02-01
 last_curated:
 archived: true
 archived_date: 2026-02-02T05:38:00+00:00
-superseded_by: "/topics/attention-interface-mechanisms/"
+superseded_by: "/topics/attention-as-selection-interface/"
 archive_reason: "Coalesced into Mechanisms of the Attention-Consciousness Interface"
 original_path: "/topics/attention-motor-quantum-selection/"
 ---

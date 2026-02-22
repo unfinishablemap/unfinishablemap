@@ -68,7 +68,7 @@ None. The article is internally consistent, attributes claims accurately, separa
 
 ### Cross-links Added
 
-- [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-skill-and-the-lived-body/) — How skill development creates flow conditions (related_articles + Further Reading)
+- [phenomenology-of-habit-and-skill-acquisition](/topics/consciousness-and-skilled-performance/) — How skill development creates flow conditions (related_articles + Further Reading)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Flow's operation at the noetic level (concepts + woven into Self in Flow section + Further Reading)
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Parallel case of phenomenal-functional dissociation (Further Reading)
 

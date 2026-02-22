@@ -29,7 +29,7 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
-superseded_by: /concepts/quantum-coherence-in-neural-systems/
+superseded_by: /concepts/quantum-neural-mechanisms-and-coherence/
 title: Neural Quantum Coherence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -70,7 +70,7 @@ The Fisher estimate is not a revision of Tegmark but an entirely different mecha
 
 ## Protective Mechanisms
 
-Four mechanisms may protect quantum coherence in neural tissue. None has been definitively confirmed in living neurons, but each has theoretical and experimental support. See [Quantum Coherence Protection in Neural Systems](/concepts/quantum-coherence-in-neural-systems/) for detailed treatment of each mechanism, including illusionist challenge responses, contemplative evidence, and process philosophy perspectives.
+Four mechanisms may protect quantum coherence in neural tissue. None has been definitively confirmed in living neurons, but each has theoretical and experimental support. See [Quantum Coherence Protection in Neural Systems](/concepts/quantum-neural-mechanisms-and-coherence/) for detailed treatment of each mechanism, including illusionist challenge responses, contemplative evidence, and process philosophy perspectives.
 
 ### Hydrophobic Microtubule Interior
 
@@ -202,7 +202,7 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 
 ## Further Reading
 
-- [quantum-coherence-protection](/concepts/quantum-coherence-in-neural-systems/) — Detailed analysis of four protection mechanisms with illusionist and process philosophy responses
+- [quantum-coherence-protection](/concepts/quantum-neural-mechanisms-and-coherence/) — Detailed analysis of four protection mechanisms with illusionist and process philosophy responses
 - [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem

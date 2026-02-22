@@ -44,7 +44,7 @@ related_articles:
 - '[[paradox-of-effortless-mastery]]'
 - '[[habituation-void]]'
 - '[[conscious-vs-unconscious-processing]]'
-superseded_by: /topics/phenomenology-of-skill-and-the-lived-body/
+superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Habit and Skill Acquisition
 topics:
 - '[[hard-problem-of-consciousness]]'

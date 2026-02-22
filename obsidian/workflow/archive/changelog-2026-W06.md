@@ -87,7 +87,7 @@ archived: true
 
 ## 2026-02-08 20:44 UTC - deep-review
 - **Status**: Success
-- **File**: [[concepts/quantum-binding-experimental-evidence]]
+- **File**: [[concepts/quantum-neural-mechanisms-and-coherence]]
 - **Word count**: 1861 → 1913 (+52)
 - **Critical issues addressed**: 2 (misattributed twin study author/journal, wrong publication date)
 - **Medium issues addressed**: 3 (decoherence summary overstatement, classical alternatives, evolution analogy)
@@ -160,7 +160,7 @@ archived: true
 
 ## 2026-02-08 18:59 UTC - deep-review
 - **Status**: Success
-- **File**: [[quantum-neural-mechanisms]]
+- **File**: [[concepts/quantum-neural-mechanisms-and-coherence]]
 - **Word count**: 2604 → 2606 (+2)
 - **Critical issues addressed**: 1 (Georgiev date inconsistency)
 - **Medium issues addressed**: 3 (overstated claim, missing qualifier, imprecise description)
@@ -829,7 +829,7 @@ archived: true
 
 ## 2026-02-06 10:21 UTC - refine-draft
 - **Status**: Success
-- **File**: [[topics/psychophysical-coupling-law-mechanisms]]
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Changes**: Expanded decoherence retreat treatment with explicit falsifiability acknowledgment and three candidate discriminators; added circularity concern; strengthened epistemic hedging on unreplicated studies (Kerskens & Pérez, Wiest et al.); updated tenet discussion; fixed citation year; applied language improvements
 - **Published**: yes
 
@@ -899,7 +899,7 @@ archived: true
 
 ## 2026-02-06 08:36 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/psychophysical-coupling-law-mechanisms]]
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Word count**: 2427 → 2521 (+94)
 - **Critical issues addressed**: 2 (misattributed citation Araujo→Georgiev, incorrect Zheng & Meister volume/issue)
 - **Medium issues addressed**: 3 (Schwartz evidence overstated, decoherence retreat cost, Beck vs Popper attribution)
@@ -948,7 +948,7 @@ archived: true
 ## 2026-02-05 23:53 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Psychophysical coupling law mechanisms
-- **Output**: [[topics/psychophysical-coupling-law-mechanisms]]
+- **Output**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Word count**: 2427
 - **Based on research**: yes, [[research/psychophysical-coupling-law-mechanisms-2026-01-23]]
 
@@ -1761,7 +1761,7 @@ archived: true
 - **Output**: None
 - **Reason**: Comprehensive coverage already exists across five articles:
   - [[concepts/quantum-biology]] — General quantum biology
-  - [[concepts/quantum-neural-mechanisms]] — Five neural mechanisms in detail
+  - [[concepts/quantum-neural-mechanisms-and-coherence]] — Five neural mechanisms in detail
   - [[concepts/quantum-coherence-protection]] — Protection mechanisms
   - [[topics/quantum-neural-timing-constraints]] — Timing analysis
   - [[topics/quantum-biology-and-the-consciousness-debate]] — Consciousness implications
@@ -3372,7 +3372,7 @@ archived: true
 - **Candidates analyzed**:
   - Sleep/dreams cluster: [[concepts/dreams-and-consciousness]], [[concepts/sleep-and-consciousness]], [[topics/lucid-dreaming-and-consciousness]]
   - Personal identity cluster: [[topics/personal-identity]], [[topics/indexical-identity-quantum-measurement]]
-  - Attention cluster: [[concepts/attention]], [[concepts/attention-as-interface]], [[concepts/voluntary-attention]]
+  - Attention cluster: [[concepts/attention-as-interface]], [[concepts/attention-as-interface]], [[concepts/attention-as-interface]]
   - Quantum coherence cluster: [[concepts/decoherence]], [[concepts/quantum-decoherence-objection]], [[concepts/neural-quantum-coherence]], [[concepts/quantum-coherence-protection]]
 - **Finding**: All candidate groups are well-differentiated. Each article serves a distinct purpose within its cluster and cross-references appropriately. No strong merge candidates found.
 - **Notes**: Sleep/dreams articles address different aspects (dreams as evidence, sleep gradations, lucid state). Personal identity articles cover distinct domains (philosophical identity vs quantum measurement). Attention articles form overview/hypothesis/mechanism hierarchy. Quantum articles form conceptual network with central hub (decoherence.md) and specialized treatments.

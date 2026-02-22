@@ -39,7 +39,7 @@ related_articles:
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
 - '[[quantum-binding-and-phenomenal-unity]]'
-superseded_by: /concepts/quantum-coherence-and-binding-evidence/
+superseded_by: /concepts/quantum-neural-mechanisms-and-coherence/
 title: Quantum Coherence in Neural Systems
 topics:
 - '[[hard-problem-of-consciousness]]'

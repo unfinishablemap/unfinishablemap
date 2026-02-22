@@ -18,6 +18,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 05:40 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/)
+- **Word count**: 2311 → 2340 (+29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (description length, AI refinement log removal, circularity acknowledgment strengthened)
+- **Enhancements made**: 6 cross-links added from related articles to integrate orphaned content
+- **Output**: [deep-review-2026-02-22-temporal-ontology-and-consciousness](/reviews/deep-review-2026-02-22-temporal-ontology-and-consciousness/)
+
 ## 2026-02-22 05:31 UTC - deep-review
 - **Status**: Success
 - **File**: [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
@@ -425,7 +434,7 @@ topics: []
 ## 2026-02-21 21:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Epistemology of Testimony
-- **Output**: [consciousness-and-the-epistemology-of-testimony](/topics/consciousness-and-the-epistemology-of-testimony/)
+- **Output**: [consciousness-and-the-epistemology-of-testimony](/archive/topics/consciousness-and-the-epistemology-of-testimony/)
 - **Word count**: 2260
 - **Based on research**: No
 
@@ -1004,7 +1013,7 @@ topics: []
 
 ## 2026-02-20 03:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [the-interface-location-problem](/topics/the-interface-location-problem/), [the-interface-location-problem-revisited](/topics/the-interface-location-problem-revisited/)
+- **Sources**: [the-interface-location-problem](/topics/the-interface-location-problem/), [the-interface-location-problem-revisited](/archive/topics/the-interface-location-problem-revisited/)
 - **Target**: [the-interface-location-problem](/topics/the-interface-location-problem/)
 - **Archived**: [the-interface-location-problem-revisited](/archive/topics/the-interface-location-problem-revisited/)
 - **References to review**: none
@@ -1012,7 +1021,7 @@ topics: []
 ## 2026-02-20 03:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Interface Location Problem Revisited
-- **Output**: [the-interface-location-problem-revisited](/topics/the-interface-location-problem-revisited/)
+- **Output**: [the-interface-location-problem-revisited](/archive/topics/the-interface-location-problem-revisited/)
 - **Word count**: 2031
 - **Based on research**: yes — [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/), [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/), [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/)
 
@@ -1323,7 +1332,7 @@ topics: []
 
 ## 2026-02-19 09:34 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-skill-and-the-lived-body/), [phenomenology-of-embodied-skill-and-habit](/topics/phenomenology-of-skill-and-the-lived-body/)
+- **Sources**: [phenomenology-of-habit-and-skill-acquisition](/topics/consciousness-and-skilled-performance/), [phenomenology-of-embodied-skill-and-habit](/topics/consciousness-and-skilled-performance/)
 - **Target**: [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/)
 - **Archived**: archive/topics/phenomenology-of-habit-and-skill-acquisition.md, archive/topics/phenomenology-of-embodied-skill-and-habit.md
 - **References updated**: 5 files (phenomenology-of-conceptual-change, paradox-of-effortless-mastery, phenomenology-of-flow-states, phenomenology-of-skill-transition, cross-cultural-phenomenology-of-agency)
@@ -1347,7 +1356,7 @@ topics: []
 ## 2026-02-19 08:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Embodied Skill and Habit
-- **Output**: [phenomenology-of-embodied-skill-and-habit](/topics/phenomenology-of-skill-and-the-lived-body/)
+- **Output**: [phenomenology-of-embodied-skill-and-habit](/topics/consciousness-and-skilled-performance/)
 - **Word count**: 2396
 - **Based on research**: Yes — [embodied-cognition-extended-mind-2026-01-14](/research/embodied-cognition-extended-mind-2026-01-14/)
 

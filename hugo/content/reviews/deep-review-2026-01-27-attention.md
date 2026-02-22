@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken internal link**: `[Recent neuroscience](/concepts/voluntary-attention/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/concepts/attention-as-interface/)`.
+- **Broken internal link**: `[Recent neuroscience](/concepts/attention-as-interface/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/concepts/attention-as-interface/)`.
 - **Duplicate frontmatter entry**: `[voluntary-attention](/concepts/attention-as-interface/)` appeared twice in concepts list. Resolved by removing duplicate.
 
 ### Medium Issues Found

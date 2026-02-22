@@ -9,7 +9,7 @@ last_deep_review: 2026-02-17T22:17:00+00:00
 draft: false
 archived: true
 archived_date: 2026-02-19T09:34:00+00:00
-superseded_by: "/topics/phenomenology-of-skill-and-the-lived-body/"
+superseded_by: "/topics/consciousness-and-skilled-performance/"
 archive_reason: "Coalesced into The Phenomenology of Skill, Habit, and the Lived Body"
 original_path: "/topics/phenomenology-of-habit-and-skill-acquisition/"
 topics:

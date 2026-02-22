@@ -64,7 +64,7 @@ topics: []
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
-- [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-and-binding-evidence/)
+- [quantum-coherence-in-neural-systems](/concepts/quantum-neural-mechanisms-and-coherence/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [mind-matter-interface](/concepts/mind-matter-interface/)
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)

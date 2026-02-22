@@ -20,7 +20,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-binding-and-phenomenal-unity]]"
-  - "[[quantum-binding-experimental-evidence]]"
+  - "[[concepts/quantum-neural-mechanisms-and-coherence]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
 ai_contribution: 100
 author:
@@ -121,7 +121,7 @@ Tegmark (2000) calculated microtubule decoherence times of 10⁻¹³ to 10⁻²�
 
 Biological quantum effects demonstrate evolutionary precedent. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins at physiological temperatures. If evolution harnessed quantum effects for navigation, neural systems are not categorically different.
 
-See [[quantum-binding-experimental-evidence]] for comprehensive treatment.
+See [[concepts/quantum-neural-mechanisms-and-coherence]] for comprehensive treatment.
 
 ## Classical Mechanisms Remain Necessary
 
@@ -193,7 +193,7 @@ The hypothesis makes specific predictions that distinguish it from classical alt
 - [[binding-problem]] — The full binding problem including classical approaches
 - [[neural-binding-mechanisms]] — Classical vs quantum mechanisms in detail
 - [[quantum-binding-and-phenomenal-unity]] — Philosophical argument that entanglement matches unity
-- [[quantum-binding-experimental-evidence]] — Detailed experimental support
+- [[concepts/quantum-neural-mechanisms-and-coherence]] — Detailed experimental support
 - [[phenomenal-unity]] — What the binding problem aims to explain
 - [[quantum-consciousness]] — Orch OR and Stapp's quantum approaches
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for attention

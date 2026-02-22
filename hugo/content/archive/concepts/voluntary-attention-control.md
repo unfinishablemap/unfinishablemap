@@ -29,7 +29,7 @@ original_path: /concepts/voluntary-attention-control/
 related_articles:
 - '[[tenets]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
-superseded_by: /concepts/voluntary-attention/
+superseded_by: /concepts/attention-as-interface/
 title: Voluntary Attention Control
 topics:
 - '[[topics/free-will]]'

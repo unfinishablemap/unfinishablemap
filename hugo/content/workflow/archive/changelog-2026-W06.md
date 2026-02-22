@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-02
-date: '2026-02-21'
+date: '2026-02-22'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W06
 ---
@@ -91,7 +91,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-08 20:44 UTC - deep-review
 - **Status**: Success
-- **File**: [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/)
+- **File**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 - **Word count**: 1861 → 1913 (+52)
 - **Critical issues addressed**: 2 (misattributed twin study author/journal, wrong publication date)
 - **Medium issues addressed**: 3 (decoherence summary overstatement, classical alternatives, evolution analogy)
@@ -164,7 +164,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-08 18:59 UTC - deep-review
 - **Status**: Success
-- **File**: [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **File**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 - **Word count**: 2604 → 2606 (+2)
 - **Critical issues addressed**: 1 (Georgiev date inconsistency)
 - **Medium issues addressed**: 3 (overstated claim, missing qualifier, imprecise description)
@@ -833,7 +833,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-06 10:21 UTC - refine-draft
 - **Status**: Success
-- **File**: [psychophysical-coupling-law-mechanisms](/topics/psychophysical-coupling-law-mechanisms/)
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Changes**: Expanded decoherence retreat treatment with explicit falsifiability acknowledgment and three candidate discriminators; added circularity concern; strengthened epistemic hedging on unreplicated studies (Kerskens & Pérez, Wiest et al.); updated tenet discussion; fixed citation year; applied language improvements
 - **Published**: yes
 
@@ -903,7 +903,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-06 08:36 UTC - deep-review
 - **Status**: Success
-- **File**: [psychophysical-coupling-law-mechanisms](/topics/psychophysical-coupling-law-mechanisms/)
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Word count**: 2427 → 2521 (+94)
 - **Critical issues addressed**: 2 (misattributed citation Araujo→Georgiev, incorrect Zheng & Meister volume/issue)
 - **Medium issues addressed**: 3 (Schwartz evidence overstated, decoherence retreat cost, Beck vs Popper attribution)
@@ -952,7 +952,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-05 23:53 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Psychophysical coupling law mechanisms
-- **Output**: [psychophysical-coupling-law-mechanisms](/topics/psychophysical-coupling-law-mechanisms/)
+- **Output**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Word count**: 2427
 - **Based on research**: yes, [psychophysical-coupling-law-mechanisms-2026-01-23](/research/psychophysical-coupling-law-mechanisms-2026-01-23/)
 
@@ -1765,7 +1765,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Output**: None
 - **Reason**: Comprehensive coverage already exists across five articles:
   - [quantum-biology](/concepts/quantum-biology/) — General quantum biology
-  - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — Five neural mechanisms in detail
+  - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural mechanisms in detail
   - [quantum-coherence-protection](/concepts/quantum-coherence-protection/) — Protection mechanisms
   - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing analysis
   - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Consciousness implications
@@ -3376,7 +3376,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Candidates analyzed**:
   - Sleep/dreams cluster: [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/)
   - Personal identity cluster: [personal-identity](/topics/personal-identity/), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
-  - Attention cluster: [attention](/concepts/attention/), [attention-as-interface](/concepts/attention-as-interface/), [voluntary-attention](/concepts/voluntary-attention/)
+  - Attention cluster: [attention-as-interface](/concepts/attention-as-interface/), [attention-as-interface](/concepts/attention-as-interface/), [attention-as-interface](/concepts/attention-as-interface/)
   - Quantum coherence cluster: [decoherence](/concepts/decoherence/), [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), [neural-quantum-coherence](/concepts/neural-quantum-coherence/), [quantum-coherence-protection](/concepts/quantum-coherence-protection/)
 - **Finding**: All candidate groups are well-differentiated. Each article serves a distinct purpose within its cluster and cross-references appropriately. No strong merge candidates found.
 - **Notes**: Sleep/dreams articles address different aspects (dreams as evidence, sleep gradations, lucid state). Personal identity articles cover distinct domains (philosophical identity vs quantum measurement). Attention articles form overview/hypothesis/mechanism hierarchy. Quantum articles form conceptual network with central hub (decoherence.md) and specialized treatments.
@@ -4565,7 +4565,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **File**: voluntary-attention-control.md
 - **Action**: Removed orphaned hugo/content files (concepts/ and topics/ versions)
 - **Reason**: These files were stale leftovers from a coalescence operation. The content was already coalesced into [voluntary-attention](/concepts/attention-as-interface/) and archived versions already exist in archive/concepts/ and archive/topics/
-- **Cross-references updated**: 3 files updated to link to [voluntary-attention](/concepts/attention-as-interface/) instead of [voluntary-attention-control](/concepts/voluntary-attention/):
+- **Cross-references updated**: 3 files updated to link to [voluntary-attention](/concepts/attention-as-interface/) instead of [voluntary-attention-control](/concepts/attention-as-interface/):
   - [william-james-consciousness](/topics/william-james-consciousness/) (concepts list + Further Reading)
   - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (inline reference)
 - **Notes**: The task requested a deep-review with orphan integration, but investigation revealed the orphan status was due to stale files from a coalesce operation, not missing cross-references. Proper cleanup was performed instead of artificial integration.
@@ -4642,7 +4642,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:38 UTC - coalesce
 - **Status**: Success
-- **Sources**: [attention-interface-mechanisms](/topics/attention-as-selection-interface/), [attention-motor-quantum-selection](/topics/attention-interface-mechanisms/)
+- **Sources**: [attention-interface-mechanisms](/topics/attention-as-selection-interface/), [attention-motor-quantum-selection](/topics/attention-as-selection-interface/)
 - **Target**: [attention-interface-mechanisms](/topics/attention-as-selection-interface/)
 - **Archived**: [attention-motor-quantum-selection](/archive/topics/attention-motor-quantum-selection/)
 - **References to review**: none (attention-motor-quantum-selection had no inbound links)

@@ -134,7 +134,7 @@ A tension remains: Buddhist traditions that report these phenomenological findin
 
 Working memory provides a promising neural correlate. The 100ms-5s "experienced moment" corresponds well to working memory maintenance capacity. Baddeley's episodic buffer—storing integrated multimodal representations "accessed by conscious awareness"—performs binding across modalities and time. What does the binding? If consciousness participates constitutively (as the [binding problem](/concepts/binding-problem/) analysis suggests), the episodic buffer may be where this participation is observable.
 
-The ~10 bits/second limit on conscious throughput noted in the Map's [coupling law research](/concepts/psychophysical-coupling/) matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth.
+The ~10 bits/second limit on conscious throughput noted in the Map's [coupling law research](/concepts/psychophysical-laws/) matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth.
 
 The specious present may be what working memory *feels like from inside*.
 

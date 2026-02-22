@@ -28,7 +28,7 @@ last_curated: null
 last_deep_review: 2026-02-05T02:09:00+00:00
 archived: true
 archived_date: 2026-02-15T01:37:00+00:00
-superseded_by: "/concepts/quantum-coherence-in-neural-systems/"
+superseded_by: "/concepts/quantum-neural-mechanisms-and-coherence/"
 archive_reason: "Coalesced into Quantum Coherence in Neural Systems"
 original_path: "/concepts/neural-quantum-coherence/"
 ---

@@ -37,7 +37,7 @@ related_articles:
 - '[[psychophysical-coupling-problem-2026-01-15]]'
 - '[[brain-specialness-boundary-2026-01-15]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
-superseded_by: /concepts/psychophysical-coupling/
+superseded_by: /concepts/psychophysical-laws/
 title: The Psychophysical Coupling Law
 topics:
 - '[[hard-problem-of-consciousness]]'

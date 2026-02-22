@@ -24,7 +24,7 @@ ai_generated_date: 2026-01-23
 last_curated:
 archived: true
 archived_date: 2026-01-23T16:30:00+00:00
-superseded_by: "/concepts/voluntary-attention/"
+superseded_by: "/concepts/attention-as-interface/"
 archive_reason: "Coalesced into Voluntary Attention"
 original_path: "/topics/voluntary-attention-control/"
 ---

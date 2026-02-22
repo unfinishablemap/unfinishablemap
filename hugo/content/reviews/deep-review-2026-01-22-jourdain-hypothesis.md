@@ -76,7 +76,7 @@ topics: []
 
 ### Cross-links Added
 
-- [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/) (new article supporting quantum mechanisms)
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) (new article supporting quantum mechanisms)
 - [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) (relevant to simultaneous awareness requirement)
 
 Added these to frontmatter concepts list as well.

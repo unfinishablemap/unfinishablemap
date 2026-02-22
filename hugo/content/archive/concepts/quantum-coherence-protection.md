@@ -10,7 +10,7 @@ author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
-- '[[neural-quantum-coherence]]'
+- '[[concepts/quantum-neural-mechanisms-and-coherence]]'
 - '[[quantum-biology]]'
 - '[[interactionist-dualism]]'
 - '[[illusionism]]'
@@ -33,7 +33,7 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 - '[[quantum-binding-and-phenomenal-unity]]'
-superseded_by: /concepts/quantum-coherence-in-neural-systems/
+superseded_by: /concepts/quantum-neural-mechanisms-and-coherence/
 title: Quantum Coherence Protection in Neural Systems
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -200,7 +200,7 @@ The assumption that warm biology must be classical—and therefore that quantum 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
 - [decoherence](/concepts/decoherence/) — The decoherence process and its limits
 - [quantum-biology](/concepts/quantum-biology/) — Proven quantum effects in biology
-- [neural-quantum-coherence](/concepts/quantum-coherence-in-neural-systems/) — Coherence in neural systems
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Coherence in neural systems
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
 

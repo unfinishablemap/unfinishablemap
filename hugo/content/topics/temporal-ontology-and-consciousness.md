@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-22 00:06:00+00:00
+ai_modified: 2026-02-22 05:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,12 +15,12 @@ concepts:
 - '[[illusionism]]'
 created: 2026-02-21
 date: &id001 2026-02-21
-description: Your theory of time shapes your theory of mind. Eternalism pressures
-  toward functionalism, presentism toward epiphenomenalism, and the growing block
-  toward dualist interactionism—deep affinities that narrow the philosophical landscape.
+description: Your theory of time shapes your theory of mind. Deep affinities between
+  temporal ontologies and consciousness theories narrow the philosophical landscape.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-22 05:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ This ontology pairs naturally with the Map's dualist interactionism:
 
 **Causal efficacy is genuine.** Because the past exists and the future is open, consciousness's causal role is straightforward. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact added to the block. The growing block also reframes challenges like the Libet timing experiments, which appear to show neural readiness potentials preceding conscious decisions. If the present is the frontier where outcomes are constituted, the relevant question is not *when* a decision occurs within a pre-existing temporal sequence but *which* temporal sequence becomes actual—a shift that makes the precise timing of conscious awareness less problematic.
 
-**The hard problem deepens productively.** If consciousness participates in constituting temporal structure—if it's part of what makes the block grow—then reducing consciousness to physical processes faces a structural difficulty. Physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore, consciousness cannot be fully explained by the physical processes it helps make possible. This is admittedly a coherence argument rather than a proof: the growing block and dualist interactionism mutually support each other, with each position making the other more plausible. A critic could charge circularity—that the Map assumes dualist interactionism to motivate the growing block, then uses the growing block to argue for dualist interactionism. The Map accepts this structure as a feature rather than a flaw: the best metaphysical packages are those whose components reinforce each other, and the inability to derive one component independently does not undermine the package's overall coherence.
+**The hard problem deepens productively.** If consciousness participates in constituting temporal structure—if it's part of what makes the block grow—then reducing consciousness to physical processes faces a structural difficulty. Physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore, consciousness cannot be fully explained by the physical processes it helps make possible. This is admittedly a coherence argument rather than a proof: the growing block and dualist interactionism mutually support each other, with each position making the other more plausible. A critic could charge circularity—that the Map assumes dualist interactionism to motivate the growing block, then uses the growing block to argue for dualist interactionism. The Map accepts this structure as characteristic of metaphysical reasoning more broadly: the best metaphysical packages are those whose components reinforce each other, and coherence arguments—while weaker than deductive proofs—are the primary tool available for evaluating competing metaphysical frameworks. The inability to derive one component independently does not undermine the package's overall coherence, any more than the mutual dependence of scientific theory and observation undermines empirical inquiry.
 
 ## Why the Pairings Hold
 
@@ -140,21 +140,3 @@ This article's argument—that temporal ontology and consciousness theories are 
 - Prosser, S. (2016). *Experiencing Time*. Oxford University Press.
 - Tooley, M. (1997). *Time, Tense, and Causation*. Oxford University Press.
 - Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-22
-Changes made:
-- Distinguished affinity from logical necessity throughout: softened "package deal" thesis to acknowledge pairings are deep structural connections, not strict entailments
-- Added engagement with sophisticated B-theorist accounts (Prosser, Hoerl) in eternalism section, explaining why the Map still finds these inadequate
-- Replaced unexplained retrocausality assertion with inline explanation of how growing block reframes Libet timing experiments
-- Acknowledged circularity in growing-block/dualism argument explicitly, reframing as coherence argument
-- Added alternative growth mechanisms (thermodynamic irreversibility, GRW theory) before explaining why consciousness-involving collapse is preferred
-- Softened "Why the Pairings Hold" section to note that pressures are resistible, with named examples (Craig, B-theorist dualists)
-- Updated description to reflect nuanced thesis
-- Added Prosser and Hoerl references; alphabetised reference list
-- Softened No Many Worlds tenet connection to distinguish compatibility from logical consequence
-
-Based on pessimistic review (pessimistic-2026-02-22.md) identifying 2 critical and 3 medium issues.
-Key improvements: intellectual honesty about argument strength; charitable engagement with opposing positions.
-
-This log should be removed after human review.
--->

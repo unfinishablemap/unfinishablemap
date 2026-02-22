@@ -32,7 +32,7 @@ last_curated:
 last_deep_review: 2026-02-08T20:44:00+00:00
 archived: true
 archived_date: 2026-02-15T18:12:00+00:00
-superseded_by: "/concepts/quantum-coherence-and-binding-evidence/"
+superseded_by: "/concepts/quantum-neural-mechanisms-and-coherence/"
 archive_reason: "Coalesced into Quantum Coherence and Binding: Evidence"
 original_path: "/concepts/quantum-binding-experimental-evidence/"
 ---

@@ -85,7 +85,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 - [filter-theory](/concepts/filter-theory/) — the transmission/filter model grounding the interface story
 - [agent-causation](/concepts/agent-causation/) — metaphysics of agency
 - [free-will](/topics/free-will/) — agent teleology and libertarian agency
-- [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-and-binding-evidence/) — evidence for neural quantum effects
+- [quantum-coherence-in-neural-systems](/concepts/quantum-neural-mechanisms-and-coherence/) — evidence for neural quantum effects
 - [quantum-decoherence-objection](/concepts/decoherence/) — primary scientific challenge
 - [quantum-biology](/concepts/quantum-biology/) — biological precedents for warm quantum effects
 - [working-memory](/concepts/working-memory/) — dedicated treatment of working memory and consciousness

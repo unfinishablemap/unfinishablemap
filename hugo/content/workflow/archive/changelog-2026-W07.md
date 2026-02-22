@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-09
-date: '2026-02-21'
+date: '2026-02-22'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W07
 ---
@@ -21,8 +21,8 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 18:12 UTC - coalesce
 - **Status**: Success
-- **Sources**: [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-and-binding-evidence/), [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/)
-- **Target**: [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **Sources**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **Target**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 - **Archived**: archive/concepts/quantum-coherence-in-neural-systems.md, archive/concepts/quantum-binding-experimental-evidence.md
 - **References updated**: 12 files (9 referencing coherence article, 3 referencing binding article)
 - **References to review**: none (all active content updated; reviews/changelog archives left as historical records)
@@ -946,7 +946,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 02:41 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Habit and Skill Acquisition
-- **Output**: [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-skill-and-the-lived-body/)
+- **Output**: [phenomenology-of-habit-and-skill-acquisition](/topics/consciousness-and-skilled-performance/)
 - **Word count**: 1611
 - **Based on research**: Partially (drew on [voids-habituation-void-2026-02-03](/research/voids-habituation-void-2026-02-03/) for context)
 
@@ -1036,8 +1036,8 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 01:37 UTC - coalesce
 - **Status**: Success
-- **Sources**: [neural-quantum-coherence](/concepts/quantum-coherence-in-neural-systems/), [quantum-coherence-protection](/concepts/quantum-coherence-in-neural-systems/)
-- **Target**: [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-and-binding-evidence/)
+- **Sources**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **Target**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 - **Archived**: archive/concepts/neural-quantum-coherence.md, archive/concepts/quantum-coherence-protection.md
 - **References updated**: 7 files (the-interface-location-problem, brain-interface-boundary, decoherence, quantum-binding-and-phenomenal-unity, quantum-biology, quantum-interpretations, phenomenology-of-choice)
 - **References to review**: 0 (all active references updated; historical reviews left as-is)
@@ -1211,7 +1211,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-14 03:34 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: observational-closure
-- **Output**: [observational-closure](/concepts/observational-closure/)
+- **Output**: [causal-closure](/concepts/causal-closure/)
 - **Note**: Concept page already exists (created 2026-02-02, 1452 words, deep-reviewed). No action needed.
 
 ---
@@ -1920,7 +1920,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 11:22 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-emergence](/topics/consciousness-and-the-emergence-debate/), [emergence-and-strong-emergence](/topics/consciousness-and-the-emergence-debate/), [weak-vs-strong-emergence](/topics/consciousness-and-the-emergence-debate/)
+- **Sources**: [consciousness-and-emergence](/topics/the-strong-emergence-of-consciousness/), [emergence-and-strong-emergence](/topics/the-strong-emergence-of-consciousness/), [weak-vs-strong-emergence](/topics/the-strong-emergence-of-consciousness/)
 - **Target**: [consciousness-and-the-emergence-debate](/topics/the-strong-emergence-of-consciousness/)
 - **Archived**: archive/topics/consciousness-and-emergence.md, archive/topics/emergence-and-strong-emergence.md, archive/topics/weak-vs-strong-emergence.md
 - **References to review**: 1 (consciousness-evolution-problem.md — updated)
@@ -2186,7 +2186,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 16:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Weak vs. Strong Emergence
-- **Output**: [weak-vs-strong-emergence](/topics/consciousness-and-the-emergence-debate/)
+- **Output**: [weak-vs-strong-emergence](/topics/the-strong-emergence-of-consciousness/)
 - **Word count**: 1772
 - **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
 
@@ -2530,7 +2530,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 03:14 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Emergence
-- **Output**: [consciousness-and-emergence](/topics/consciousness-and-the-emergence-debate/)
+- **Output**: [consciousness-and-emergence](/topics/the-strong-emergence-of-consciousness/)
 - **Word count**: 1802
 - **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
 

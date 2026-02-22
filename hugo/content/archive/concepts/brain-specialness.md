@@ -53,7 +53,7 @@ The system must have components where quantum indeterminacies are functionally r
 
 Most physical systems are quantum-mechanical at their foundations but thermally stable at functional scales. A rock's behavior is determined by classical forces; quantum effects average out. The rock provides no "leverage point" where consciousness could influence outcomes without violating classical physics.
 
-Neural systems differ. The [evidence for quantum coherence in brain tissue](/concepts/quantum-coherence-in-neural-systems/) is contested but growing. Proposed sites include:
+Neural systems differ. The [evidence for quantum coherence in brain tissue](/concepts/quantum-neural-mechanisms-and-coherence/) is contested but growing. Proposed sites include:
 - **Microtubules**: Penrose and Hameroff's Orch OR model posits quantum superposition in tubulin proteins
 - **Ion channels**: Voltage-gated channels may be sensitive to quantum tunneling effects
 - **Synaptic transmission**: Vesicle release shows variability that may not be purely thermal noise
@@ -240,7 +240,7 @@ This complements [interface-locality](/concepts/brain-interface-boundary/), whic
 - [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness doesn't act externally (the exclusion side)
 - [mind-matter-interface](/concepts/mind-matter-interface/) — How filter theory and quantum selection unify
 - [pairing-problem](/concepts/pairing-problem/) — What pairs this mind with this body
-- [neural-quantum-coherence](/concepts/quantum-coherence-in-neural-systems/) — Evidence for quantum effects in brain tissue
+- [neural-quantum-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Evidence for quantum effects in brain tissue
 - [filter-theory](/concepts/filter-theory/) — The transmission model of consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms
 - [attention](/concepts/attention-as-interface/) — How attention implements observation

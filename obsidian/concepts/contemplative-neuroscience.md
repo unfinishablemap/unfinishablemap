@@ -90,7 +90,7 @@ DMN reduction provides neural signature for the experiential shift from discursi
 
 Focused attention meditation implicates default-mode, control (dlPFC, lateral parietal), and salience (ACC, insula) networks.[^dhond] The Shamatha Project found intensive practice improved perceptual discrimination, sustained attention, response inhibition, and reduced mind-wandering.[^shamatha]
 
-These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [[attention]] isn't purely bottom-up. [[Voluntary-attention-control]] can be systematically developed through conscious training.
+These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [[attention]] isn't purely bottom-up. [[attention-as-interface|Voluntary-attention-control]] can be systematically developed through conscious training.
 
 Connection to [[topics/free-will]]: If [[phenomenal-consciousness]] were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
 
@@ -194,7 +194,7 @@ The more sophisticated our phenomenological categories and neural correlates bec
 - [[first-person-third-person-methodology]]: Why both perspectives are necessary
 - [[mental-effort]]: The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence
 - [[Witness-consciousness]]: Eastern contemplative traditions' phenomenological framework that meditation cultivates
-- [[Voluntary-attention-control]]: Neural mechanisms underlying willed vs. instructed vs. exogenous attention
+- [[attention-as-interface|Voluntary-attention-control]]: Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [[meditation-and-consciousness-modes]]: The two modes: active selection and passive witnessing
 - [[topics/free-will]]: How meditation evidence connects to agent causation and libertarian accounts
 - [[Emotional-consciousness]]: Phenomenal character of emotions and their role in consciousness

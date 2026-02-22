@@ -61,7 +61,7 @@ The key insight: consciousness doesn't *generate* neural patterns—it *selects*
 
 Crucially, the mechanism satisfies conservation laws. Consciousness shapes which possibility actualises without adding energy. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
-Among [proposed coupling mechanisms](/concepts/psychophysical-coupling/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
+Among [proposed coupling mechanisms](/concepts/psychophysical-laws/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 
 ## William James and the Phenomenology of Effort
 

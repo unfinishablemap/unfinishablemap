@@ -28,6 +28,7 @@ last_deep_review: 2026-02-22 04:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[temporal-ontology-and-consciousness]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[consciousness-and-temporal-integration]]'
 title: Bergson and Duration
@@ -137,6 +138,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The lived experience of deliberation and decision
 - [temporal-thickness](/concepts/temporal-thickness/) — How much of one's past enters each present moment
+- [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) — How temporal ontology and consciousness theories form natural pairings
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Duration's creative novelty and the generation-selection model
 - [prehension](/concepts/prehension/) — Whitehead's concept of experiential inheritance
 

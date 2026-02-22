@@ -32,7 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[evolution-of-consciousness]]'
 - '[[emergence-void]]'
-superseded_by: /topics/consciousness-and-the-emergence-debate/
+superseded_by: /topics/the-strong-emergence-of-consciousness/
 title: Consciousness and Emergence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -127,7 +127,7 @@ The Map treats the gap as ontological. The [hard problem](/topics/hard-problem-o
 
 ## Further Reading
 
-- [emergence-and-strong-emergence](/topics/consciousness-and-the-emergence-debate/) — Why consciousness forces acceptance of strong emergence
+- [emergence-and-strong-emergence](/topics/the-strong-emergence-of-consciousness/) — Why consciousness forces acceptance of strong emergence
 - [emergence](/concepts/emergence/) — The technical concept: weak vs. strong emergence, Kim's argument
 - [emergence-void](/voids/emergence-void/) — The cognitive limit: why no mind can fully grasp how arrangement produces novelty
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals

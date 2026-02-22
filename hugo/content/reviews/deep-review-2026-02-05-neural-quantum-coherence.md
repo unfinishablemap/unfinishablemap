@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Neural Quantum Coherence](/concepts/quantum-coherence-in-neural-systems/)
+**Article**: [Neural Quantum Coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 **Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-neural-quantum-coherence/)
 
 ## Pessimistic Analysis Summary

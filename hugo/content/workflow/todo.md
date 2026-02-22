@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate temporal-ontology-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: temporal-consciousness.md, growing-block-universe.md, philosophy-of-time.md, bergson-and-duration.md. Explores how temporal ontology (presentism, growing block, eternalism) interacts with consciousness.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Condense functionalism-argument.md (4250 words, 170% of target)
 - **Type**: condense
 - **Status**: pending
@@ -150,6 +143,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Integrate temporal-ontology-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: temporal-consciousness.md, growing-block-universe.md, philosophy-of-time.md, bergson-and-duration.md. Explores how temporal ontology (presentism, growing block, eternalism) interacts with consciousness.
+- **Output**: obsidian/topics/temporal-ontology-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Integrate epistemology-of-mechanism-at-the-consciousness-matter-interface.md into site navigation
 - **Type**: integrate-orphan

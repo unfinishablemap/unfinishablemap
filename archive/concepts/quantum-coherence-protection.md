@@ -11,7 +11,7 @@ topics:
 concepts:
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
-  - "[[neural-quantum-coherence]]"
+  - "[[concepts/quantum-neural-mechanisms-and-coherence]]"
   - "[[quantum-biology]]"
   - "[[interactionist-dualism]]"
   - "[[illusionism]]"
@@ -31,7 +31,7 @@ last_curated: null
 last_deep_review: 2026-02-03T15:29:00+00:00
 archived: true
 archived_date: 2026-02-15T01:37:00+00:00
-superseded_by: "/concepts/quantum-coherence-in-neural-systems/"
+superseded_by: "/concepts/quantum-neural-mechanisms-and-coherence/"
 archive_reason: "Coalesced into Quantum Coherence in Neural Systems"
 original_path: "/concepts/quantum-coherence-protection/"
 ---
@@ -197,7 +197,7 @@ The assumption that warm biology must be classical—and therefore that quantum 
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms
 - [[decoherence]] — The decoherence process and its limits
 - [[quantum-biology]] — Proven quantum effects in biology
-- [[neural-quantum-coherence]] — Coherence in neural systems
+- [[concepts/quantum-neural-mechanisms-and-coherence]] — Coherence in neural systems
 - [[quantum-binding-and-phenomenal-unity]] — Quantum entanglement and the binding problem
 - [[mental-effort]] — Stapp's quantum Zeno framework for voluntary attention
 

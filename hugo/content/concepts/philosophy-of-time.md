@@ -28,6 +28,7 @@ last_deep_review: 2026-01-30 20:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[temporal-ontology-and-consciousness]]'
 - '[[time-collapse-and-agency]]'
 title: Philosophy of Time
 topics:
@@ -231,6 +232,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 
 ## Further Reading
 
+- [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) — How temporal ontology and consciousness theories form natural pairings
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — the Map's full treatment of time, collapse, and conscious agency
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation

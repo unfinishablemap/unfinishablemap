@@ -23,7 +23,7 @@ related_articles:
 - '[[stapp-quantum-mind]]'
 - '[[phenomenology-of-choice]]'
 - '[[motor-selection]]'
-superseded_by: /concepts/voluntary-attention/
+superseded_by: /concepts/attention-as-interface/
 title: Voluntary Attention Control
 topics:
 - '[[topics/free-will]]'

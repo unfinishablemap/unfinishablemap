@@ -32,7 +32,7 @@ related_articles:
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[dopamine-attention-motor-quantum-interface-2026-01-24]]'
 - '[[motor-control-quantum-zeno-2026-01-18]]'
-superseded_by: /topics/attention-interface-mechanisms/
+superseded_by: /topics/attention-as-selection-interface/
 title: Attention-Motor Quantum Selection
 topics:
 - '[[topics/free-will]]'

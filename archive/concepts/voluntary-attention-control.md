@@ -30,7 +30,7 @@ last_curated: null
 last_deep_review: null
 archived: true
 archived_date: 2026-01-24T18:00:00+00:00
-superseded_by: "/concepts/voluntary-attention/"
+superseded_by: "/concepts/attention-as-interface/"
 archive_reason: "Coalesced into Voluntary Attention"
 original_path: "/concepts/voluntary-attention-control/"
 ---

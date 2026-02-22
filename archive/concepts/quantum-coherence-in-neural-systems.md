@@ -37,7 +37,7 @@ coalesced_from:
   - "/concepts/quantum-coherence-protection/"
 archived: true
 archived_date: 2026-02-15T18:12:00+00:00
-superseded_by: "/concepts/quantum-coherence-and-binding-evidence/"
+superseded_by: "/concepts/quantum-neural-mechanisms-and-coherence/"
 archive_reason: "Coalesced into Quantum Coherence and Binding: Evidence"
 original_path: "/concepts/quantum-coherence-in-neural-systems/"
 ---

@@ -237,7 +237,7 @@ This article addresses why consciousness *doesn't* act externally. The complemen
 
 - [brain-specialness](/concepts/brain-interface-boundary/) - What makes neural systems suitable interfaces (the positive account)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) - The proposed mechanism for selection
-- [psychophysical-coupling-law](/concepts/psychophysical-coupling/) - Constraints on the coupling between mind and brain
+- [psychophysical-coupling-law](/concepts/psychophysical-laws/) - Constraints on the coupling between mind and brain
 - [attention](/concepts/attention-as-interface/) - How attention implements quantum observation
 - [attention-as-interface](/concepts/attention-as-interface/) - Why attention specifically serves as the interface
 - [voluntary-attention](/concepts/attention-as-interface/) - Willed attention as the Map of conscious control

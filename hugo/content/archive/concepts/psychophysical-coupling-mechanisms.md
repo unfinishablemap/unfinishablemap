@@ -25,7 +25,7 @@ original_path: /concepts/psychophysical-coupling-mechanisms/
 related_articles:
 - '[[tenets]]'
 - '[[concepts/epiphenomenalism]]'
-superseded_by: /concepts/psychophysical-coupling/
+superseded_by: /concepts/psychophysical-laws/
 title: Psychophysical Coupling Mechanisms
 topics:
 - '[[interactionist-dualism]]'
@@ -126,7 +126,7 @@ That said, the Map's framework doesn't get a free pass. If *no* coupling mechani
 
 ## Further Reading
 
-- [psychophysical-coupling-law](/concepts/psychophysical-coupling/) — The broader framework requiring mechanism specification
+- [psychophysical-coupling-law](/concepts/psychophysical-laws/) — The broader framework requiring mechanism specification
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring these mechanisms
 - [mental-causation](/concepts/mental-causation/) — How mental states produce physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing coupling pathways

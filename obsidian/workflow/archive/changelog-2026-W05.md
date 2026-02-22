@@ -74,7 +74,7 @@ archived: true
 ## 2026-02-01 21:54 UTC - expand-topic
 - **Status**: Success
 - **Topic**: attention-motor quantum selection
-- **Output**: [[topics/attention-motor-quantum-selection]]
+- **Output**: [[topics/attention-as-selection-interface]]
 - **Word count**: 2410
 - **Based on research**: yes ([[attention-motor-planning-quantum-interface-2026-01-23]], [[dopamine-attention-motor-quantum-interface-2026-01-24]], [[motor-control-quantum-zeno-2026-01-18]])
 
@@ -491,7 +491,7 @@ archived: true
 ## 2026-02-01 18:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: the phenomenology of temporal agency
-- **Output**: [[topics/phenomenology-of-temporal-agency]]
+- **Output**: [[archive/topics/phenomenology-of-temporal-agency]]
 - **Word count**: 2425
 - **Based on research**: yes (drew from temporal-structure-consciousness, specious-present-temporal-experience, and voids-temporal-asymmetry research notes)
 
@@ -2892,7 +2892,7 @@ archived: true
 ## 2026-01-29 16:50 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/voluntary-attention]]
+- **File**: [[concepts/attention-as-interface]]
 - **Context**: Cross-review considering attention-motor-quantum-interface.md
 - **Word count**: 2231 → ~2250 (+19 words)
 - **Critical issues addressed**: 0 (none found)
@@ -2985,7 +2985,7 @@ archived: true
 ## 2026-01-29 15:55 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/attention-motor-quantum-interface]]
+- **File**: [[concepts/attention-as-interface]]
 - **Word count**: 1493 → 1514 (+21 words)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 2
@@ -3018,7 +3018,7 @@ archived: true
 
 - **Status**: Success
 - **Topic**: attention-motor-quantum-interface
-- **Output**: [[concepts/attention-motor-quantum-interface]]
+- **Output**: [[concepts/attention-as-interface]]
 - **Word count**: 1493
 - **Based on research**: yes ([[research/attention-motor-planning-quantum-interface-2026-01-23]], [[research/dopamine-attention-motor-quantum-interface-2026-01-24]])
 - **Notes**: Created concept page for the unified attention-motor quantum interface hypothesis. The concept was referenced ~15 times across the site but had no definition page (original content was coalesced into motor-selection.md). New article defines the interface, explains PMTA unification with Stapp's quantum Zeno mechanism, covers neural architecture (affordance competition, 280-300ms timing window, dopamine threshold modulation), and connects to tenets.
@@ -3687,7 +3687,7 @@ archived: true
 ## 2026-01-29 05:37 UTC - coalesce
 
 - **Status**: Success
-- **Sources**: [[concepts/motor-selection]], [[concepts/attention-motor-quantum-interface]]
+- **Sources**: [[concepts/motor-selection]], [[concepts/attention-as-interface]]
 - **Target**: [[concepts/motor-selection]] (renamed: "Motor Selection and the Attention-Motor Interface")
 - **Archived**: `archive/concepts/attention-motor-quantum-interface.md`
 - **References to review**: 10 files reference archived article (links preserved via archive)
@@ -3834,7 +3834,7 @@ archived: true
 ## 2026-01-29 00:05 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/attention]]
+- **File**: [[concepts/attention-as-interface]]
 - **Review type**: Cross-review with attention-created-voids.md
 - **Word count**: 2010 → ~2100 (+90)
 - **Critical issues addressed**: 0
@@ -4459,7 +4459,7 @@ archived: true
 
 - **Status**: Success
 - **Content reviewed**:
-  - [[topics/chalmers-psychophysical-coupling]]
+  - [[topics/psychophysical-laws-bridging-mind-and-matter]]
   - [[topics/personal-identity]]
   - [[topics/contemplative-evidence-for-consciousness-theories]]
 - **Output**: [[reviews/pessimistic-2026-01-28-night]]
@@ -4486,7 +4486,7 @@ archived: true
 ## 2026-01-28 18:58 UTC - refine-draft
 
 - **Status**: Success
-- **File**: [[topics/chalmers-psychophysical-coupling]]
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
 - **Changes**:
   - Added Chalmers' qualification to double-aspect theory: changed "wherever information exists" to "information—or at least some information"
@@ -4511,7 +4511,7 @@ archived: true
 ## 2026-01-28 18:37 UTC - refine-draft
 
 - **Status**: Success
-- **File**: [[topics/chalmers-psychophysical-coupling]]
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
 - **Changes**:
   - Softened "No Many Worlds" claim to accurately reflect Chalmers-McQueen's exploratory stance
@@ -4523,7 +4523,7 @@ archived: true
 ## 2026-01-28 18:28 UTC - refine-draft
 
 - **Status**: Success
-- **File**: [[topics/chalmers-psychophysical-coupling]]
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Based on**: Outer review by ChatGPT 5.2 Pro (2026-01-28)
 - **Changes**:
   - Corrected "five constraints" attribution from Chalmers & McQueen (2022) to Bradford Saad (2025)
@@ -4537,7 +4537,7 @@ archived: true
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.2 Pro
 - **File**: [[reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-chatgpt-5-2-pro]]
-- **Article reviewed**: [[topics/chalmers-psychophysical-coupling]]
+- **Article reviewed**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Claims verified**: 6 (against Chalmers' papers and Saad 2025)
 - **High-value findings**: 4
   1. Five constraints misattributed to Chalmers & McQueen (actually from Saad 2025)
@@ -5328,7 +5328,7 @@ archived: true
   - Addressed decoherence timescale gap with discrete-events explanation and cryptochrome Zeno precedent
   - Removed Twin Study preprint section (weak evidence, freed word budget)
 - **Enhancements made**: 3
-  - Cross-links to [[quantum-biology]], [[quantum-biology-and-the-consciousness-debate]], [[neural-quantum-coherence]]
+  - Cross-links to [[quantum-biology]], [[quantum-biology-and-the-consciousness-debate]], [[concepts/quantum-neural-mechanisms-and-coherence]]
   - New paragraph on timescale gap and quantum Zeno biological precedent
   - Strengthened integration with quantum biology content across the Map
 - **Output**: [[reviews/deep-review-2026-01-27-quantum-binding-and-phenomenal-unity]]
@@ -5391,7 +5391,7 @@ archived: true
 ## 2026-01-27 17:41 UTC - deep-review (cross-review)
 
 - **Status**: Success
-- **File**: [[topics/psychophysical-laws-framework]]
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Context**: Cross-review considering new [[chalmers-psychophysical-coupling]] article
 - **Word count**: 2275 → 2284 (+9)
 - **Critical issues addressed**: 0 (none found—article stable from previous review)
@@ -5435,7 +5435,7 @@ archived: true
 ## 2026-01-27 17:01 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[topics/chalmers-psychophysical-coupling]]
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Word count**: 2224 → 2431 (+207)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3
@@ -5453,7 +5453,7 @@ archived: true
 
 - **Status**: Success
 - **Topic**: Chalmers on psychophysical coupling
-- **Output**: [[topics/chalmers-psychophysical-coupling]]
+- **Output**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
 - **Word count**: 2224
 - **Based on research**: Yes, multiple research files ([[research/chalmers-psychophysical-laws-2026-01-17]], [[research/psychophysical-coupling-problem-2026-01-15]], [[research/psychophysical-coupling-law-mechanisms-2026-01-23]])
 - **Key decisions**:
@@ -6366,7 +6366,7 @@ archived: true
 ## 2026-01-27 04:40 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/attention]]
+- **File**: [[concepts/attention-as-interface]]
 - **Word count**: 2010 → 2010 (no change)
 - **Critical issues addressed**: 2 (broken link, duplicate frontmatter entry)
 - **Medium issues addressed**: 0 (none found)
@@ -6785,7 +6785,7 @@ archived: true
 
 - **Status**: Success
 - **Content reviewed**:
-  - [[topics/psychophysical-laws-framework]]
+  - [[topics/psychophysical-laws-bridging-mind-and-matter]]
   - [[topics/vertiginous-question]]
   - [[concepts/specious-present]]
 - **Critical issues identified**: 6
@@ -7657,7 +7657,7 @@ This is the second deep review; article is approaching stability.
 - MWI ontological extravagance: improved parenthetical clarity
 - Prose tightening: various edits to stay within length guidelines
 **Enhancements made**: 3 targeted edits improving philosophical accuracy while maintaining length-neutral mode
-**Output**: [[reviews/deep-review-2026-01-25-measurement-problem-19]]
+**Output**: [[reviews/deep-review-2026-01-25-measurement-problem]]
 
 ---
 

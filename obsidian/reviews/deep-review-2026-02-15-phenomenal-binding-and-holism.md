@@ -60,7 +60,7 @@ last_curated: null
 - Added cross-link to [[prehension]] in Whitehead passage
 - Added cross-link to [[mysterianism]] in remaining gap passage
 - Added cross-links to [[agent-causation]] and [[topics/free-will]] in body text
-- Added [[quantum-binding-experimental-evidence]] to related_articles
+- Added [[concepts/quantum-neural-mechanisms-and-coherence]] to related_articles
 - Strengthened No Many Worlds tenet section with branch-relative engagement
 - Trimmed concepts frontmatter from 23 to 15 (removed concepts no longer referenced in condensed text)
 - Trimmed Further Reading from 21 to 9 most relevant items

@@ -31,7 +31,7 @@ original_path: /topics/emergence-and-strong-emergence/
 related_articles:
 - '[[tenets]]'
 - '[[emergence-void]]'
-superseded_by: /topics/consciousness-and-the-emergence-debate/
+superseded_by: /topics/the-strong-emergence-of-consciousness/
 title: Emergence and Strong Emergence
 topics:
 - '[[hard-problem-of-consciousness]]'

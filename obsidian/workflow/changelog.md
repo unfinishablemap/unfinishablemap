@@ -433,7 +433,7 @@ topics: []
 ## 2026-02-21 21:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Epistemology of Testimony
-- **Output**: [[topics/consciousness-and-the-epistemology-of-testimony]]
+- **Output**: [[archive/topics/consciousness-and-the-epistemology-of-testimony]]
 - **Word count**: 2260
 - **Based on research**: No
 
@@ -1012,7 +1012,7 @@ topics: []
 
 ## 2026-02-20 03:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/the-interface-location-problem]], [[topics/the-interface-location-problem-revisited]]
+- **Sources**: [[topics/the-interface-location-problem]], [[archive/topics/the-interface-location-problem-revisited]]
 - **Target**: [[topics/the-interface-location-problem]]
 - **Archived**: [[archive/topics/the-interface-location-problem-revisited]]
 - **References to review**: none
@@ -1020,7 +1020,7 @@ topics: []
 ## 2026-02-20 03:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Interface Location Problem Revisited
-- **Output**: [[topics/the-interface-location-problem-revisited]]
+- **Output**: [[archive/topics/the-interface-location-problem-revisited]]
 - **Word count**: 2031
 - **Based on research**: yes — [[research/attention-as-interface-hypothesis-2026-01-16]], [[research/attention-motor-planning-quantum-interface-2026-01-23]], [[research/dopamine-attention-motor-quantum-interface-2026-01-24]]
 

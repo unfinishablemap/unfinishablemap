@@ -33,7 +33,7 @@ related_articles:
 - '[[tenets]]'
 - '[[interactionist-dualism]]'
 - '[[integrated-information-theory]]'
-superseded_by: /concepts/quantum-coherence-and-binding-evidence/
+superseded_by: /concepts/quantum-neural-mechanisms-and-coherence/
 title: 'Quantum Binding: Experimental Evidence'
 topics:
 - '[[hard-problem-of-consciousness]]'

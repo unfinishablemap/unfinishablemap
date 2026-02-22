@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-01-19
-date: '2026-02-21'
+date: '2026-02-22'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W04
 ---
@@ -1727,7 +1727,7 @@ Evolution session with queue replenishment. Added 4 new P2 tasks from task chain
 
 ### Task Executed
 
-- **Cross-review stapp-quantum-mind.md**: Review found all requested integrations already present from a previous deep-review (2026-01-22). The article already had: (1) [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) in frontmatter concepts, (2) "Comparative Standing" section discussing all five mechanisms, (3) decoherence objection with post-decoherence response, (4) cross-link in Further Reading. No changes needed.
+- **Cross-review stapp-quantum-mind.md**: Review found all requested integrations already present from a previous deep-review (2026-01-22). The article already had: (1) [psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/) in frontmatter concepts, (2) "Comparative Standing" section discussing all five mechanisms, (3) decoherence objection with post-decoherence response, (4) cross-link in Further Reading. No changes needed.
 
 ### Queue Replenishment
 
@@ -1913,7 +1913,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 
 ### Cross-links Added
 
-- [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) (first position)
+- [psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/) (first position)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [voluntary-attention](/concepts/attention-as-interface/)
 - [argument-from-reason](/topics/argument-from-reason/)
@@ -2107,11 +2107,11 @@ Fixed 11 broken internal links across 9 content files. Links were pointing to pa
 
 ### Summary
 
-Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) content to interactionist-dualism.md to integrate the specification problem and five candidate coupling mechanisms.
+Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/) content to interactionist-dualism.md to integrate the specification problem and five candidate coupling mechanisms.
 
 ### Changes Made
 
-1. Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) to frontmatter concepts (first position)
+1. Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/) to frontmatter concepts (first position)
 2. Added new "Psychophysical Coupling Mechanisms" section with:
    - Table of five mechanisms with phenomenal properties, physical selections, and development levels
    - Explanation of mechanism adequacy criteria (precision, mechanism, falsifiability)
@@ -2493,7 +2493,7 @@ Cross-reviewed mental-causation.md in light of the new psychophysical-coupling-m
 
 ### Changes Made
 
-1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/)` to frontmatter concepts (first position)
+1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/)` to frontmatter concepts (first position)
 2. Added new "The Specification Challenge" section after "The Quantum Opening" explaining:
    - Specification problem is distinct from overdetermination and conservation challenges
    - Integrated the five candidate coupling mechanisms as concrete proposals
@@ -2566,7 +2566,7 @@ Cross-reviewed stapp-quantum-mind.md in light of the new psychophysical-coupling
 
 ### Changes Made
 
-1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/)` to frontmatter concepts (first position)
+1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/)` to frontmatter concepts (first position)
 2. Added new "Comparative Standing" subsection under "The Core Mechanism" explaining:
    - Stapp's model is the most developed among five candidate coupling mechanisms
    - Only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability)
@@ -2766,7 +2766,7 @@ Integrated psychophysical-coupling-mechanisms article into the psychophysical-la
 
 ### Key Changes
 
-- Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling/) to frontmatter concepts
+- Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/) to frontmatter concepts
 - Added explanatory paragraph under "The Selection Mechanism" section explaining the complementary relationship between the two articles
 - Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of five mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
 
@@ -3812,7 +3812,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - **Critical issues addressed**: 3
 - **Medium issues addressed**: 3
 - **Enhancements made**: 6
-- **Summary**: Comprehensive review of Jourdain Hypothesis (apes have culture without knowing they have culture). Pessimistic analysis from 6 personas identified: (1) question-begging on why metarepresentation requires phenomenology—added argument that phenomenal character serves as marker distinguishing mental from world states, (2) missing falsification condition for unconscious metarepresentation—added to challenges section, (3) tip-of-the-tongue underdeveloped—expanded to paradigm case with dual-structure phenomenology analysis. Optimistic analysis identified strengths to preserve (Molière reference, Whitehead section, tables) and expansion opportunities. Added: moral agency subsection (metarepresentation enables "should I?" vs "can I?"), quantum binding connection (dual-structure phenomenology may require quantum coherence), strengthened functionalist challenge response. Cross-linked to [quantum-binding-experimental-evidence](/concepts/quantum-coherence-and-binding-evidence/) and [phenomenal-unity](/concepts/phenomenal-binding-and-holism/). Streamlined Buddhist section from tangential to focused. Result: article now addresses strongest objections, develops phenomenology-requirement argument beyond assertion, makes appropriate causal/correlational hedges, connects more explicitly to tenets.
+- **Summary**: Comprehensive review of Jourdain Hypothesis (apes have culture without knowing they have culture). Pessimistic analysis from 6 personas identified: (1) question-begging on why metarepresentation requires phenomenology—added argument that phenomenal character serves as marker distinguishing mental from world states, (2) missing falsification condition for unconscious metarepresentation—added to challenges section, (3) tip-of-the-tongue underdeveloped—expanded to paradigm case with dual-structure phenomenology analysis. Optimistic analysis identified strengths to preserve (Molière reference, Whitehead section, tables) and expansion opportunities. Added: moral agency subsection (metarepresentation enables "should I?" vs "can I?"), quantum binding connection (dual-structure phenomenology may require quantum coherence), strengthened functionalist challenge response. Cross-linked to [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) and [phenomenal-unity](/concepts/phenomenal-binding-and-holism/). Streamlined Buddhist section from tangential to focused. Result: article now addresses strongest objections, develops phenomenology-requirement argument beyond assertion, makes appropriate causal/correlational hedges, connects more explicitly to tenets.
 - **Output**: reviews/deep-review-2026-01-22-jourdain-hypothesis.md
 
 ### 00:00 - expand-topic

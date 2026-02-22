@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
   - "[[past-self-void]]"
-  - "[[binding-void]]"
+  - "[[binding-problem]]"
   - "[[identity-across-transformations]]"
   - "[[voids]]"
 ai_contribution: 100
@@ -124,7 +124,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 - [[varieties-of-unity]] — Synchronic, diachronic, and subject unity distinguished
 - [[other-minds-void]] — The epistemic asymmetry in consciousness access
 - [[identity-across-transformations]] — Apex synthesis: identity through radical change
-- [[binding-void]] — The related problem of what binds experiences into a unified field
+- [[binding-problem]] — The related problem of what binds experiences into a unified field
 - [[self-and-consciousness]] — The minimal self and phenomenology of subjecthood
 - [[buddhism-and-dualism]] — Buddhist perspectives on self-boundaries and *anattā*
 

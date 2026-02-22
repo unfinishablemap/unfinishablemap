@@ -154,7 +154,7 @@ If phenomenal unity requires genuine holism, quantum mechanics is the only physi
 
 ### 2024-2025 Experimental Evidence
 
-Recent research has moved from theoretical possibility to direct experimental support (see [[quantum-binding-experimental-evidence]] for comprehensive analysis):
+Recent research has moved from theoretical possibility to direct experimental support (see [[concepts/quantum-neural-mechanisms-and-coherence]] for comprehensive analysis):
 
 **Microtubule-anesthesia connection (Wiest et al., 2024)**: Rats treated with epothilone B, a microtubule-stabilizing drug, took 69 seconds longer to become unconscious under isoflurane anesthesia (Cohen's d = 1.9, a "large" effect). If consciousness depends on quantum states in microtubules, stabilizing microtubules should delay their disruption by anesthetics—which is exactly what was observed. Crucially, no known classical mechanism explains why microtubule stabilization specifically delays anesthesia. The quantum model predicted this; classical accounts must now explain it post hoc. Published in *eNeuro*, September 2024.
 
@@ -226,7 +226,7 @@ Phenomenal unity illuminates why the Map's [[tenets]] take the positions they do
 - [[unity-of-consciousness]] — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
 - [[consciousness-and-semantic-understanding]] — The parallel problem for meaning: how semantic elements combine into unified understanding
 - [[neural-binding-mechanisms]] — Classical binding mechanisms and why quantum entanglement succeeds where they fail
-- [[quantum-binding-experimental-evidence]] — 2022-2025 experimental support for quantum mechanisms
+- [[concepts/quantum-neural-mechanisms-and-coherence]] — 2022-2025 experimental support for quantum mechanisms
 - [[varieties-of-unity]] — Taxonomy of synchronic, diachronic, and subject unity
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[emergence]] — Phenomenal unity as paradigm case of strong emergence

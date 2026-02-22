@@ -32,7 +32,7 @@ last_curated:
 last_deep_review:
 archived: true
 archived_date: 2026-02-10T11:22:00+00:00
-superseded_by: "/topics/consciousness-and-the-emergence-debate/"
+superseded_by: "/topics/the-strong-emergence-of-consciousness/"
 archive_reason: "Coalesced into Consciousness and the Emergence Debate"
 original_path: "/topics/consciousness-and-emergence/"
 ---

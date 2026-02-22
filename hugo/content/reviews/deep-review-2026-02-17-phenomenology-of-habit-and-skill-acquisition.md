@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-17
-**Article**: [The Phenomenology of Habit and Skill Acquisition](/topics/phenomenology-of-skill-and-the-lived-body/)
+**Article**: [The Phenomenology of Habit and Skill Acquisition](/topics/consciousness-and-skilled-performance/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
