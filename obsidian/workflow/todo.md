@@ -237,6 +237,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-22
 
+### P3: Write concept article on direction-of-fit
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The mind-to-world vs. world-to-mind distinction is discussed across aesthetic creation, agent causation, and mental causation articles but has no dedicated concept page. Would articulate a fundamental asymmetry in consciousness's causal engagement. See optimistic-2026-02-22-late-afternoon.md
+
+### P3: Write apex article on the phenomenology of consciousness doing work
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesize evidence from emotion-as-evidence-for-dualism, consciousness-and-aesthetic-creation, agent-causation, and attention-as-interface showing consciousness's causal efficacy through its phenomenological signatures: valence-driven action, aesthetic-template guidance, creative effort, attentional override. See optimistic-2026-02-22-late-afternoon.md
+
+### P3: Write topic article on Samkhya's three-way distinction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Samkhya's consciousness/mind/gross-matter trichotomy anticipates functionalism for mind while maintaining irreducibility for consciousness—an underexplored middle path that enriches the Map's dualism with non-Western conceptual resources. See optimistic-2026-02-22-late-afternoon.md
+
 ## Completed Tasks
 
 
