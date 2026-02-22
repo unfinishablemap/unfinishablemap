@@ -4,7 +4,7 @@ description: "Musical understanding reveals consciousness as irreducibly tempora
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-18T01:32:00+00:00
+ai_modified: 2026-02-21T23:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[phenomenal-unity]]"
+  - "[[phenomenal-binding-and-holism]]"
   - "[[cognitive-phenomenology]]"
   - "[[concepts/functionalism]]"
   - "[[consciousness-and-semantic-understanding]]"
@@ -27,6 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
+last_deep_review: 2026-02-21T23:55:00+00:00
 ---
 
 Music poses a distinctive challenge for theories of consciousness. When you hear a melody resolve from tension to resolution—when a minor key passage shifts to major, or a dissonant chord finds its tonic—you *understand* something. But what you understand cannot be stated propositionally. The understanding is irreducibly phenomenal: temporal, aesthetic, and emotional in ways that resist translation into any other medium. The Unfinishable Map argues that musical understanding provides a particularly revealing test case for dualism, because it combines temporal phenomenology, aesthetic qualia, and non-propositional meaning in a single experience that materialist accounts struggle to accommodate.
@@ -59,7 +60,7 @@ Musical experience generates qualia that resist functional analysis with particu
 
 Consider the experience of a minor key. Minor passages sound *sad*, *dark*, *yearning*—but these verbal labels are approximations of an irreducible phenomenal quality. Two people might disagree about whether "sad" or "wistful" better captures the minor-key feeling, not because one is wrong but because the quale exceeds any verbal description. The felt quality of minor tonality is as immediate and irreducible as the redness of red.
 
-A functionalist account might try to explain minor-key sadness in terms of associations: minor keys are culturally linked to funerals, laments, and melancholy contexts, so we learn to feel sad when hearing them. Cross-cultural research complicates this story—minor-key associations are not universal, yet something about the quality persists. More fundamentally, even if the association is learned, the learning must latch onto a phenomenal quality. You cannot associate sadness with minor keys unless hearing minor keys *feels like something*, and that feeling is what needs explaining.
+A functionalist account might try to explain minor-key sadness in terms of associations: minor keys are culturally linked to funerals, laments, and melancholy contexts, so we learn to feel sad when hearing them. Cross-cultural research complicates this story—while minor-key associations vary across cultures, listeners reliably distinguish the emotional valence of major and minor modes even in unfamiliar musical traditions (Fritz et al., 2009). More fundamentally, even if the association is partly learned, the learning must latch onto a phenomenal quality. You cannot associate sadness with minor keys unless hearing minor keys *feels like something*, and that feeling is what needs explaining.
 
 The inverted qualia argument applies here. Imagine a listener for whom what you experience as the warmth of a major key, they experience as the quality you associate with minor—systematically inverted musical qualia. Their behaviour could be identical: they prefer music in "major" keys (which produce their inverted quale), they describe music the same way (having learned to use "happy" for their inverted experience). The conceivability of this scenario suggests musical qualia are not constituted by their functional role.
 
@@ -85,7 +86,7 @@ Musical understanding requires binding across multiple dimensions simultaneously
 - **Dynamic contour** — loudness and its changes
 - **Emotional trajectory** — the affective arc of the passage
 
-These dimensions are not experienced separately and then combined. The experience of a cello playing a descending minor phrase *piano* with a slight *ritardando* is a unified quale—a single quality of experience in which pitch, timbre, dynamics, rhythm, and emotion are inseparable. This is [[phenomenal-unity]] in action: the binding is not computational aggregation but experiential unity.
+These dimensions are not experienced separately and then combined. The experience of a cello playing a descending minor phrase *piano* with a slight *ritardando* is a unified quale—a single quality of experience in which pitch, timbre, dynamics, rhythm, and emotion are inseparable. This is [[phenomenal-binding-and-holism|phenomenal binding]] in action: the binding is not computational aggregation but experiential unity.
 
 The binding achievement in music is particularly revealing because it operates across time. The unity of a four-bar phrase is not the synchronic binding of simultaneous features (as in visual binding) but the diachronic binding of successive events into a felt whole. This diachronic binding is precisely what Bergson described as durée and what the Map connects to consciousness's constitutive role in temporal experience.
 
@@ -120,7 +121,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [[temporal-structure-of-understanding]] — How understanding unfolds temporally
 - [[topics/phenomenal-value-realism]] — Intrinsic value in conscious experience
 - [[consciousness-and-semantic-understanding]] — Phenomenal consciousness and meaning
-- [[phenomenal-unity]] — The binding of experience into unified wholes
+- [[phenomenal-binding-and-holism]] — The binding of experience into unified wholes
 
 ## References
 
@@ -128,6 +129,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Scruton, R. (1997). *The Aesthetics of Music*. Oxford University Press.
-- Levinson, J. (1997). Music in the Moment. Cornell University Press.
+- Levinson, J. (1997). *Music in the Moment*. Cornell University Press.
 - Kivy, P. (1989). *Sound Sentiment: An Essay on the Musical Emotions*. Temple University Press.
-- Davies, S. (1994). Musical Meaning and Expression. Cornell University Press.
+- Davies, S. (1994). *Musical Meaning and Expression*. Cornell University Press.
+- Fritz, T. et al. (2009). Universal Recognition of Three Basic Emotions in Music. *Current Biology*, 19(7), 573–576.
