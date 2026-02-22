@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense epiphenomenalism-argument.md (3052 words, 122% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 3052 words, proportionally the worst length violation on the site. Preserve core argument structure while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Condense concept-of-consciousness-and-social-cognition.md (3776 words, 107% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3776 words, likely contains redundancy with consciousness-and-social-cognition.md which covers overlapping territory. Preserve core arguments while tightening. See /condense skill.
@@ -239,6 +233,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense epiphenomenalism-argument.md (3052 words, 122% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 3052 words, proportionally the worst length violation on the site. Preserve core argument structure while removing redundancy. See /condense skill.
+- **Output**: obsidian/arguments/epiphenomenalism-argument.md
 
 ### ✓ 2026-02-22: Write article on Hoel's LLM consciousness and continual learning framework
 - **Type**: expand-topic
