@@ -79,6 +79,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-02-22
 
+### P2: Address convergence-vs-unfalsifiability gap in experimental-design-for-consciousness-collapse-testing.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article's retreat from direct testability to "convergence" is indistinguishable from unfalsifiability — cited disconfirmers are entire research programmes, not achievable experiments. Also, PEAR lab citation damages credibility and should be reframed as cautionary tale. Foreground Chalmers-McQueen Φ prediction as the most testable claim. See pessimistic-2026-02-22-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-22
+
 ### P3: Deep review the-strong-emergence-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
