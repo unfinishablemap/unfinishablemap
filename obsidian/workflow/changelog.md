@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 09:15 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Spontaneous collapse theories (GRW, CSL, objective reduction)
+- **Output**: [[philosophical-stakes-of-spontaneous-collapse]]
+- **Word count**: 1959
+- **Based on research**: yes, [[spontaneous-collapse-theories-grw-csl-2026-01-23]]
+
 ## 2026-02-22 09:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-the-phenomenology-of-constraint-satisfaction]]

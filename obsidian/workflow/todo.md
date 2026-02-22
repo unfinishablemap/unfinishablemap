@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on spontaneous collapse theories (GRW, CSL, objective reduction)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. GRW, CSL, and Penrose's objective reduction provide physical collapse mechanisms that interact with the Map's consciousness-collapse framework. Relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Integrate concept-of-free-will.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-02-20). Free will is a core concept for the Map—it should be linked from free-will.md, agent-causation.md, moral-responsibility.md, and libertarian free will articles. Add cross-references from related articles.
@@ -185,6 +179,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on spontaneous collapse theories (GRW, CSL, objective reduction)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. GRW, CSL, and Penrose's objective reduction provide physical collapse mechanisms that interact with the Map's consciousness-collapse framework. Relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Output**: spontaneous collapse theories (GRW, CSL, objective reduction)
 
 ### ✓ 2026-02-22: Write article on conservation laws and mind-brain causation
 - **Type**: expand-topic
