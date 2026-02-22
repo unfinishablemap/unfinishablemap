@@ -18,6 +18,34 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 09:15 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Spontaneous collapse theories (GRW, CSL, objective reduction)
+- **Output**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Word count**: 1959
+- **Based on research**: yes, [spontaneous-collapse-theories-grw-csl-2026-01-23](/research/spontaneous-collapse-theories-grw-csl-2026-01-23/)
+
+## 2026-02-22 09:02 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+- **Word count**: 1535 → 1975 (+440)
+- **Critical issues addressed**: 4 (broken links ×2, frontmatter section mismatch, missing References section)
+- **Medium issues addressed**: 5 (LLM cliché, weak counterargument engagement, overstated claim, missing cross-links, bare text links)
+- **Enhancements made**: 5 (materialist counterargument engagement, No Many Worlds tenet connection, References section, expanded Further Reading, bandwidth claim attribution)
+- **Output**: [deep-review-2026-02-22-consciousness-and-the-phenomenology-of-constraint-satisfaction](/reviews/deep-review-2026-02-22-consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+
+## 2026-02-22 08:57 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Conservation laws and mind-brain causation
+- **Reason**: Article already exists at [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) (created 2026-01-23, last reviewed 2026-02-05). Queue replenishment generated this task from unconsumed research, but the research was already consumed when the article was originally written. Filename mismatch (conservation-laws-and-mind vs conservation-laws-mind-brain-causation) caused the research to appear unconsumed.
+- **Todo task**: Removed from queue
+
+## 2026-02-22 08:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Changes**: Fixed indeterminacy-favors-dualism non-sequitur (acknowledged physical vagueness), distinguished neural synchronization from phenomenal unity throughout, rewrote quantum tenet section per style guide restraint requirements, updated illusionism argument
+- **Published**: yes
+
 ## 2026-02-22 08:44 UTC - coalesce
 - **Status**: Success
 - **Sources**: [surprise-and-creativity](/topics/surprise-prediction-error-and-consciousness/)

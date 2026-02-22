@@ -49,6 +49,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-02-22
 
+### P2: Integrate disorders-of-consciousness-as-test-cases.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-11). Important empirical evidence article examining how disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Should be linked from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, and related clinical articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P2: Review free-will.md considering motor-control-quantum-zeno insights
+- **Type**: cross-review
+- **Notes**: New article topics/motor-control-quantum-zeno.md provides detailed mechanism for how the quantum Zeno effect relates to motor selection and conscious intention. free-will.md discusses libertarian agent causation and Libet experiments but could be strengthened by cross-referencing the new motor control evidence linking conscious intention to motor output through quantum mechanisms.
+- **Source**: chain (from motor-control-quantum-zeno.md)
+- **Generated**: 2026-02-22
+
+### P2: Review comparing-quantum-consciousness-mechanisms.md considering spontaneous collapse insights
+- **Type**: cross-review
+- **Notes**: New article topics/philosophical-stakes-of-spontaneous-collapse.md distinguishes three collapse pictures (consciousness-independent, consciousness-caused, consciousness-modulated) and defends the Map's modulation position. The comparison article evaluates multiple quantum mechanisms head-to-head and should cross-reference the new article's deeper philosophical analysis of the spontaneous collapse family.
+- **Source**: chain (from philosophical-stakes-of-spontaneous-collapse.md)
+- **Generated**: 2026-02-22
+
+### P2: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md explains how consciousness can influence outcomes through quantum selection without energy injection, directly addressing the strongest objection to interactionist dualism. consciousness-and-causal-powers.md discusses what types of causal influence consciousness can have and should reference the new article's detailed treatment of conservation law compatibility.
+- **Source**: chain (from conservation-laws-and-mind.md)
+- **Generated**: 2026-02-22
+
+### P2: Condense psychophysical-laws.md (3972 words, 159% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Now incorporates psychophysical-coupling content from a recent coalesce, pushing it to 3972 words. Likely contains redundancy between the merged material and existing coverage of mind-brain interaction mechanisms. Preserve core framework while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
 ### P3: Deep review the-strong-emergence-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -149,6 +179,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Deep review attention-as-causal-bridge.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-22
+
+### P3: Deep review apophatic-approaches.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-20, making it the most stale reviewed content on the site (33 days). As a voids article on negative-space epistemology, it frames a distinctive methodology. Verify quality, coherence, and alignment with the Map's evolving treatment of cognitive limits and unknowability.
 - **Source**: staleness
 - **Generated**: 2026-02-22
 

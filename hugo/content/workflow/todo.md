@@ -38,31 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address logical gaps in topics/split-brain-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-22-morning) found 2 high-severity issues: (1) The indeterminacy-favors-dualism argument is a non-sequitur—physical systems routinely exhibit vagueness (clouds, rivers, species) without requiring non-physical explanation, so Nagel's indeterminacy doesn't favor dualism over physicalism; (2) Neural synchronization (fMRI BOLD signals) is silently equated with phenomenal unity throughout "The Resilience of Unity" section, closing the explanatory gap the article elsewhere insists upon. Also: quantum binding speculation in the tenet section violates the style guide's restraint requirements for microtubules/quantum Zeno. See pessimistic-2026-02-22-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-22
-
-### P2: Write article on conservation laws and mind-brain causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation law objection is the strongest challenge to interactionist dualism—the Map needs a dedicated response. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
-### P2: Write article on the argument from reason and self-defeat of physicalism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. If materialism undermines the reliability of reason, then arguments for materialism are self-defeating. Powerful support for Tenet 1 (Dualism). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
-### P2: Write article on spontaneous collapse theories (GRW, CSL, objective reduction)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. GRW, CSL, and Penrose's objective reduction provide physical collapse mechanisms that interact with the Map's consciousness-collapse framework. Relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Integrate concept-of-free-will.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-02-20). Free will is a core concept for the Map—it should be linked from free-will.md, agent-causation.md, moral-responsibility.md, and libertarian free will articles. Add cross-references from related articles.
@@ -205,6 +180,24 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on spontaneous collapse theories (GRW, CSL, objective reduction)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. GRW, CSL, and Penrose's objective reduction provide physical collapse mechanisms that interact with the Map's consciousness-collapse framework. Relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Output**: spontaneous collapse theories (GRW, CSL, objective reduction)
+
+### ✓ 2026-02-22: Write article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation law objection is the strongest challenge to interactionist dualism—the Map needs a dedicated response. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: conservation laws and mind-brain causation
+
+### ✓ 2026-02-22: Address logical gaps in topics/split-brain-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-22-morning) found 2 high-severity issues: (1) The indeterminacy-favors-dualism argument is a non-sequitur—physical systems routinely exhibit vagueness (clouds, rivers, species) without requiring non-physical explanation, so Nagel's indeterminacy doesn't favor dualism over physicalism; (2) Neural synchronization (fMRI BOLD signals) is silently equated with phenomenal unity throughout "The Resilience of Unity" section, closing the explanatory gap the article elsewhere insists upon. Also: quantum binding speculation in the tenet section violates the style guide's restraint requirements for microtubules/quantum Zeno. See pessimistic-2026-02-22-morning.md
+- **Output**: obsidian/topics/split-brain-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-22-morning) found 2 high-severity issues: (1) The indeterminacy-favors-dualism argument is a non-sequitur—physical systems routinely exhibit vagueness (clouds, rivers, species) without requiring non-physical explanation, so Nagel's indeterminacy doesn't favor dualism over physicalism; (2) Neural synchronization (fMRI BOLD signals) is silently equated with phenomenal unity throughout "The Resilience of Unity" section, closing the explanatory gap the article elsewhere insists upon. Also: quantum binding speculation in the tenet section violates the style guide's restraint requirements for microtubules/quantum Zeno. See pessimistic-2026-02-22-morning.md
 
 ### ✓ 2026-02-22: Address argument gaps in concepts/functionalism.md
 - **Type**: refine-draft
