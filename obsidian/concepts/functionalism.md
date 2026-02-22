@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-02-22T08:39:00+00:00
+ai_modified: 2026-02-22T18:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[specious-present]]"
   - "[[mysterianism]]"
+  - "[[concepts/materialism]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism-argument]]"
@@ -69,7 +70,7 @@ The COGITATE experiment (Melloni et al., 2023-2024)—the largest adversarial co
 
 ### A Physicalist Rejection of Functionalism
 
-[[integrated-information-theory|Integrated Information Theory (IIT)]] explicitly rejects functionalism—not from a dualist perspective, but from within physicalism. IIT holds that consciousness depends on *how* a system is physically organized, not just what function it computes. Two systems performing identical functions could have different integrated information (Φ) depending on their architecture: a feed-forward network processes information without integration, while a recurrent network with the same input-output function might have high Φ.
+[[integrated-information-theory|Integrated Information Theory (IIT)]] explicitly rejects functionalism—not from a dualist perspective, but from within [[concepts/materialism|physicalism]]. IIT holds that consciousness depends on *how* a system is physically organized, not just what function it computes. Two systems performing identical functions could have different integrated information (Φ) depending on their architecture: a feed-forward network processes information without integration, while a recurrent network with the same input-output function might have high Φ.
 
 This matters because it shows rejecting functionalism isn't merely a dualist move. The Map and IIT agree that substrate matters, though they disagree on *why*: IIT claims consciousness is identical to integrated physical structure, while the Map holds that the right physical structure enables non-physical consciousness to interact with the brain. Both reject the functionalist claim that only causal roles matter.
 

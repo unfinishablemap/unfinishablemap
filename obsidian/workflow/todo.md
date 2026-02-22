@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Integrate materialism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: concepts/materialism.md has zero inbound wikilinks despite being a central concept for a site arguing against materialism. Add cross-references from the-case-for-dualism.md, physicalism.md, consciousness.md, and other core articles that discuss or argue against materialism.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Integrate many-worlds.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: concepts/many-worlds.md has zero inbound wikilinks despite directly relating to Tenet 4 (No Many Worlds). Add cross-references from tenets.md, collapse-interpretation.md, quantum-consciousness.md, and arguments/many-worlds-argument.md. A concept page about MWI with no links from the site that explicitly rejects MWI is a critical navigation gap.
@@ -277,6 +271,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-22: Integrate materialism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: concepts/materialism.md has zero inbound wikilinks despite being a central concept for a site arguing against materialism. Add cross-references from the-case-for-dualism.md, physicalism.md, consciousness.md, and other core articles that discuss or argue against materialism.
+- **Output**: obsidian/concepts/materialism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Write article on consciousness in non-collapsed quantum states
 - **Type**: expand-topic

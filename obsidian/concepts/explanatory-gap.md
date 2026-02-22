@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-02T23:57:00+00:00
+ai_modified: 2026-02-22T18:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[introspection]]"
   - "[[integrated-information-theory]]"
+  - "[[concepts/materialism]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -27,7 +28,7 @@ last_curated: null
 last_deep_review: 2026-02-02T20:57:00+00:00
 ---
 
-The explanatory gap is the conceptual chasm between physical descriptions and conscious experience. Even a complete account of what the brain does—every neuron, every synapse, every chemical cascade—leaves unexplained *why* there is something it is like to undergo those processes. Joseph Levine introduced the term in 1983 to articulate what's missing from physicalist explanations of consciousness.
+The explanatory gap is the conceptual chasm between physical descriptions and conscious experience. Even a complete account of what the brain does—every neuron, every synapse, every chemical cascade—leaves unexplained *why* there is something it is like to undergo those processes. Joseph Levine introduced the term in 1983 to articulate what's missing from [[concepts/materialism|physicalist]] explanations of consciousness.
 
 This gap underlies the [[hard-problem-of-consciousness|hard problem of consciousness]] and provides the clearest case for the [[tenets#^dualism|Dualism]] tenet. If physical explanations leave the gap, consciousness cannot be *just* physical processes.
 

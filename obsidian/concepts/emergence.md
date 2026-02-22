@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-22T12:40:00+00:00
+ai_modified: 2026-02-22T18:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ The philosophical literature distinguishes two fundamentally different concepts:
 
 Higher-level properties arise from component interactions but remain in principle deducible from complete knowledge of the lower level. Temperature as mean molecular kinetic energy is the classic example—surprising to observers perhaps, but derivable from physics.
 
-Weak emergence is compatible with physicalism and [[causal-closure|causal closure]]. The emergent property supervenes on the physical base with *metaphysical necessity*: any world with the same microphysics has the same temperatures.
+Weak emergence is compatible with [[concepts/materialism|physicalism]] and [[causal-closure|causal closure]]. The emergent property supervenes on the physical base with *metaphysical necessity*: any world with the same microphysics has the same temperatures.
 
 ### Strong Emergence
 

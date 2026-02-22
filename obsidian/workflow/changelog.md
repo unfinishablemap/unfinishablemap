@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 18:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/materialism]]
+- **Word count**: 2220 → 2204 (-16)
+- **Critical issues addressed**: 2 (duplicate frontmatter entry, duplicate Further Reading entry)
+- **Medium issues addressed**: 2 (PhilPapers survey inaccuracy, orphan integration)
+- **Enhancements made**: 3 inbound cross-references added from explanatory-gap, functionalism, emergence
+- **Output**: [[reviews/deep-review-2026-02-22-materialism]]
+
 ## 2026-02-22 17:51 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[phenomenology-of-understanding]], [[phenomenology-of-inferential-understanding]], [[consciousness-and-semantic-understanding]]
