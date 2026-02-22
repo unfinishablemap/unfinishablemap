@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 17:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[experimental-design-for-consciousness-collapse-testing]]
+- **Changes**: Reframed PEAR lab as cautionary tale; foregrounded Chalmers-McQueen Φ prediction as most testable claim; restructured convergence section to honestly distinguish experiments from research programmes; removed self-undermining dark matter analogy; strengthened opening and softened unsupported claims
+- **Based on**: pessimistic-2026-02-22-evening.md
+- **Published**: yes
+
 ## 2026-02-22 17:19 UTC - condense
 - **Status**: Success
 - **File**: [[brain-interface-boundary]]
