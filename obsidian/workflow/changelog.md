@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 07:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Mental Imagery and the Causal Role of Consciousness
+- **Output**: [[mental-imagery-causal-role-of-consciousness]]
+- **Word count**: 1720
+- **Based on research**: yes, [[mental-imagery-consciousness-causal-role-2026-01-23]]
+
 ## 2026-02-22 07:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-mathematical-cognition]]

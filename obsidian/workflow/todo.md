@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on mental imagery and the causal role of consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/mental-imagery-consciousness-causal-role-2026-01-23.md. Explores how mental imagery demonstrates the causal efficacy of consciousness—relevant to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Integrate the-participatory-universe.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -170,6 +163,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on mental imagery and the causal role of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mental-imagery-consciousness-causal-role-2026-01-23.md. Explores how mental imagery demonstrates the causal efficacy of consciousness—relevant to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: mental imagery and the causal role of consciousness
 
 ### ✓ 2026-02-22: Review articles considering epistemological limits of Occam's Razor insights
 - **Type**: cross-review
