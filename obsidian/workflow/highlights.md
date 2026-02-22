@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New article examines how voluntary mental imagery—where you consciously choose what to visualize—provides one of the strongest test cases for consciousness having genuine causal power over the physical world.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2025484102380425626  
 **Link**: [[mental-imagery-causal-role-of-consciousness]]
 
 ---
