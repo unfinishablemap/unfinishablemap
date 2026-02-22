@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
-- **Type**: cross-review
-- **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[[attention-interface-mechanisms]]`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
-- **Source**: coalesce
-- **Generated**: 2026-02-09
-
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: cross-review
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
@@ -124,6 +118,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[[attention-interface-mechanisms]]`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
+- **Output**: None -- Context: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
 
 ### ✓ 2026-02-22: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
 - **Type**: cross-review

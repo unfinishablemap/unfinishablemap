@@ -4,7 +4,7 @@ description: "Exploring the lived experience of cognition becoming automatic—w
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T02:36:00+00:00
+ai_modified: 2026-02-22T02:39:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-skilled-performance]]"
@@ -22,19 +22,22 @@ related_articles:
   - "[[phenomenology-of-returning-attention]]"
   - "[[habituation-void]]"
   - "[[phenomenology-of-choice]]"
+  - "[[consciousness-and-the-neuroscience-of-deliberate-practice]]"
+  - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
+  - "[[attention-as-selection-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-22T02:39:00+00:00
 ---
 
 Cognitive automatisation is the process by which conscious, effortful thought becomes unconscious and effortless. The Unfinishable Map treats this not primarily as a cognitive science phenomenon but as a phenomenological one: what does it feel like when something you once had to think about stops requiring thought? The experience of automatisation reveals something fundamental about consciousness—it is not merely present or absent but withdraws in structured ways, leaving traces that distinguish automated cognition from cognition that was never conscious at all.
 
 ## The Texture of Withdrawal
 
-Automatisation does not happen all at once. A new driver consciously monitors mirror checks, gear changes, and following distances. Over months, these operations become automatic. But the transition is not a clean switch from conscious to unconscious. It proceeds through a middle phase with its own distinctive phenomenology.
+Automatisation does not happen all at once. A new driver consciously monitors mirror checks, gear changes, and following distances. Over months, these operations become automatic. But the transition is not a clean switch from conscious to unconscious. It proceeds through what Dreyfus (2002) calls the progression from rule-following to intuitive competence—a middle phase with its own distinctive phenomenology.
 
 In this middle phase, consciousness hovers. The driver no longer actively thinks about checking mirrors but remains dimly aware of doing so—a penumbral awareness that could sharpen into full attention if something unexpected appeared. This hovering quality has no clean analogue in standard accounts of [[conscious-vs-unconscious-processing|conscious versus unconscious processing]], which tend to treat the boundary as binary. The phenomenology suggests something more like a gradient of conscious involvement, with the middle region being neither deliberate attention nor complete absence.
 
@@ -44,7 +47,7 @@ The gradient has directional momentum. Once a skill begins to automate, the defa
 
 When consciousness withdraws from an automatised process, something remains. This remainder is phenomenologically distinct from both full conscious engagement and complete unconsciousness.
 
-Consider reading. A fluent reader no longer consciously decodes letter shapes into sounds. Yet reading is not phenomenologically blank. There is still *something it is like* to read—a felt sense of meaning arriving, of comprehension unfolding, even though the mechanical processes are opaque. The [[implicit-memory|implicit memory]] systems running the decoding have their own minimal phenomenal character, what Tulving called *anoetic consciousness*—a knowing-without-knowing-that-one-knows.
+Consider reading. A fluent reader no longer consciously decodes letter shapes into sounds. Yet reading is not phenomenologically blank. There is still *something it is like* to read—a felt sense of meaning arriving, of comprehension unfolding, even though the mechanical processes are opaque. The [[implicit-memory|implicit memory]] systems running the decoding have their own minimal phenomenal character. Tulving (1985) called the awareness associated with procedural memory *anoetic consciousness*—a form of consciousness that registers environmental contingencies without explicit self-awareness. The Map extends this: anoetic consciousness is not merely a cognitive classification but a genuine, if minimal, mode of phenomenal experience.
 
 This residual phenomenology matters philosophically. If automatised processes were genuinely unconscious—if there were nothing it is like to perform them—then automatisation would be the literal disappearance of experience from a domain of activity. Instead, it appears to be a *transformation* of experience: from focal, deliberate, and articulable to peripheral, effortless, and resistant to verbal report.
 
@@ -58,7 +61,7 @@ Retrospective reports suggest that the transition is not experienced as a loss. 
 
 Yet this framing raises a question the Map takes seriously: if consciousness experiences its own withdrawal as relief, what does this reveal about consciousness's role? One interpretation is that consciousness is inherently costly—a metabolically expensive process that evolution would minimise wherever possible. The felt relief of automatisation would then be the experiential correlate of reduced neural expenditure.
 
-But the Map's framework suggests a different reading. If consciousness operates through an [[attention-as-interface|attention-as-interface]] model—a bandwidth-limited selection mechanism biasing quantum indeterminacy in neural systems—then automatisation represents a *reallocation* of a scarce resource, not merely a reduction in cost. The relief of automatisation is the experience of freeing attentional bandwidth for deployment elsewhere. Consciousness is not retreating from the domain; it is being released for other work.
+But the Map's framework suggests a different reading. If consciousness operates through an [[attention-as-interface|attention-as-interface]] model—a [[neural-bandwidth-constraints-and-the-interface|bandwidth-limited]] [[attention-as-selection-interface|selection mechanism]] biasing quantum indeterminacy in neural systems—then automatisation represents a *reallocation* of a scarce resource, not merely a reduction in cost. The relief of automatisation is the experience of freeing attentional bandwidth for deployment elsewhere. Consciousness is not retreating from the domain; it is being released for other work.
 
 ## Automatisation as Evidence for the Interface Model
 
@@ -68,13 +71,13 @@ The phenomenology of automatisation provides indirect evidence for the Map's [[a
 
 **Graceful degradation under load.** When [[phenomenology-of-cognitive-load|cognitive load]] increases, the most recently automatised skills are the first to require conscious re-engagement. A stressed driver who has been driving for two years might need to think about lane changes again, while a thirty-year veteran does not. This ordering—last automated, first to require conscious re-engagement—suggests a hierarchy of automation depth consistent with varying degrees of entrenchment in procedural systems.
 
-**The impossibility of total automation.** No matter how skilled someone becomes, some core of their activity remains under conscious oversight. Expert musicians automate finger placement and timing but maintain conscious control of interpretive expression. Expert drivers automate vehicle handling but consciously navigate route decisions. If consciousness were merely a training signal that could be fully replaced, total automation should be achievable. The persistent residue of conscious involvement suggests consciousness plays an ongoing role that procedural memory cannot fully replicate—consistent with the Map's claim that consciousness causally contributes rather than merely accompanies cognition.
+**The impossibility of total automation.** No matter how skilled someone becomes, some core of their activity remains under conscious oversight. Expert musicians automate finger placement and timing but maintain conscious control of interpretive expression. Expert drivers automate vehicle handling but consciously navigate route decisions. Crucially, the tasks that resist automation share a common feature: they involve genuine novelty, ambiguity, or evaluative judgement—precisely the domains where deterministic procedural systems lack the flexibility to respond appropriately. If consciousness were merely a training signal that could be fully replaced, total automation should be achievable given sufficient practice. The persistent residue of conscious involvement suggests consciousness plays an ongoing role that procedural memory cannot fully replicate—consistent with the Map's claim that consciousness causally contributes rather than merely accompanies cognition.
 
 ## The Reversal Problem
 
 Automatisation is not strictly one-directional. Skills can de-automatise through disuse, injury, or the [[choking-phenomenon-mental-causation|choking phenomenon]]. The phenomenology of de-automatisation is revealing in its own right.
 
-When a previously automatic skill re-enters consciousness—whether through choking under pressure, returning to a skill after a long break, or neurological disruption—the experience is distinctly unpleasant. The skill feels clumsy, fragmented, and effortful in ways that go beyond simple degradation of ability. There is a phenomenological mismatch: consciousness is re-engaging with neural systems that have been restructured for automatic operation, and the fit is poor.
+When a previously automatic skill re-enters consciousness—whether through choking under pressure, returning to a skill after a long break, or neurological disruption—the experience is distinctly unpleasant. (Shklovsky's (1917) concept of *defamiliarisation* in art captures a deliberate, productive version of this reversal: art makes the automatised strange again, forcing conscious re-engagement with what habit had rendered invisible.) The skill feels clumsy, fragmented, and effortful in ways that go beyond simple degradation of ability. There is a phenomenological mismatch: consciousness is re-engaging with neural systems that have been restructured for automatic operation, and the fit is poor.
 
 This mismatch suggests that automatisation involves genuine structural changes in the cognitive architecture, not merely the withdrawal of attention. The systems that consciousness built during the learning phase have been reorganised for efficient automatic operation. When consciousness attempts to re-enter, it encounters a system that no longer has the interfaces it originally used. The [[phenomenology-of-returning-attention|phenomenology of returning attention]] to familiar domains reflects this architectural incompatibility.
 
@@ -86,7 +89,7 @@ The Unfinishable Map's tenets illuminate cognitive automatisation in ways that p
 
 The **dualism** tenet reframes automatisation as a relationship between two ontologically distinct domains. Consciousness does not merely "fade" as a neural process winds down—it *withdraws* from a domain of interaction, leaving behind physical systems that it helped structure. The phenomenological gradient of withdrawal, the residual anoetic consciousness of automated processes, and the architectural mismatch of de-automatisation all point to consciousness as something that engages with and disengages from physical systems, rather than being identical to them.
 
-The **bidirectional interaction** tenet explains why automated skills bear the marks of conscious construction. If consciousness causally contributes to neural organisation during learning, then the resulting procedural systems are genuinely different from what unconscious learning alone would produce. This prediction is supported by research showing that deliberate, consciously directed practice produces different neural outcomes than passive repetition—the systems consciousness builds are qualitatively distinct from those built without it.
+The **bidirectional interaction** tenet explains why automated skills bear the marks of conscious construction. If consciousness causally contributes to neural organisation during learning, then the resulting procedural systems are genuinely different from what unconscious learning alone would produce. This prediction is supported by research on [[consciousness-and-the-neuroscience-of-deliberate-practice|deliberate practice]]: consciously directed practice produces different neural outcomes than passive repetition (Ericsson et al., 1993)—the systems consciousness builds are qualitatively distinct from those built without it.
 
 The **minimal quantum interaction** tenet offers a framework for understanding why consciousness operates as a bandwidth-limited interface. If consciousness biases quantum indeterminacy through a mechanism requiring sustained attentional focus, then the pressure toward automatisation makes functional sense: any competence that can be delegated to deterministic procedural systems *should* be, freeing the scarce quantum-selection capacity for domains where genuine indeterminacy remains—novel situations, creative decisions, and moments requiring genuine choice.
 
@@ -101,10 +104,14 @@ Automatisation, from the Map's perspective, is not consciousness becoming unnece
 - [[phenomenology-of-returning-attention]]
 - [[implicit-memory]]
 - [[habituation-void]]
+- [[consciousness-and-the-neuroscience-of-deliberate-practice]]
+- [[attention-as-selection-interface]]
+- [[neural-bandwidth-constraints-and-the-interface]]
 
 ## References
 
 - Dreyfus, H. L. (2002). "Intelligence without representation." *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
+- Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). "The role of deliberate practice in the acquisition of expert performance." *Psychological Review*, 100(3), 363-406.
 - Fitts, P. M., & Posner, M. I. (1967). *Human Performance*. Brooks/Cole.
 - Shklovsky, V. (1917). "Art as Device." Translated in *Theory of Prose* (1990). Dalkey Archive Press.
 - Tulving, E. (1985). "Memory and consciousness." *Canadian Psychology*, 26(1), 1-12.
