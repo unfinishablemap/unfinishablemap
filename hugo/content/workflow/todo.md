@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense contemplative-evidence-for-consciousness-theories.md (4428 words, 148% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently expanded by coalesce (merged contemplative-verification and contemplative-training articles). Preserve evidential structure while removing redundancy introduced during the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Address argument gaps in concepts/functionalism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -120,6 +114,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense contemplative-evidence-for-consciousness-theories.md (4428 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently expanded by coalesce (merged contemplative-verification and contemplative-training articles). Preserve evidential structure while removing redundancy introduced during the merge. See /condense skill.
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md
 
 ### ✓ 2026-02-22: Condense the-case-for-dualism.md (4182 words, 167% of target)
 - **Type**: condense
