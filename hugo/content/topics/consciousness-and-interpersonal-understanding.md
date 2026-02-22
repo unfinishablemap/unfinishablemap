@@ -43,7 +43,7 @@ topics:
 
 Knowing everything about someone is not the same as understanding them. You could possess a complete neural map of another person's brain, a transcript of every word they have spoken, a full behavioural history — and still lack something essential. What you lack is the phenomenal grasp of what their experience is like from the inside. The Unfinishable Map argues that genuine interpersonal understanding — the kind that matters in love, friendship, grief, and moral life — depends on phenomenal consciousness in ways that information processing alone cannot replicate.
 
-The [social cognition article](/topics/consciousness-and-social-cognition/) examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [semantic understanding article](/topics/consciousness-and-semantic-understanding/) explores whether genuine comprehension of meaning requires consciousness. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
+The [social cognition article](/topics/consciousness-and-social-cognition/) examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [semantic understanding article](/topics/phenomenology-of-understanding/) explores whether genuine comprehension of meaning requires consciousness. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
 
 ## The Gap Between Knowledge and Understanding
 
@@ -118,7 +118,7 @@ None of these would refute dualism directly, but they would weaken the case that
 ## Further Reading
 
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The cognitive machinery enabling social life: metarepresentation, theory of mind, institutional reality
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Whether genuine comprehension of meaning requires consciousness
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — Whether genuine comprehension of meaning requires consciousness
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The phenomenal character of understanding in cognitive contexts
 - [other-minds-void](/voids/other-minds-void/) — The structural privacy of consciousness and how we navigate it
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared

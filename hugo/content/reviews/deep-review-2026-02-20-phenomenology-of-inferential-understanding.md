@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-20
-**Article**: [The Phenomenology of Inferential Understanding](/topics/phenomenology-of-inferential-understanding/)
+**Article**: [The Phenomenology of Inferential Understanding](/topics/phenomenology-of-understanding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

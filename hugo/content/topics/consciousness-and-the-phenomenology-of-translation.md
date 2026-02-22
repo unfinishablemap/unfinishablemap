@@ -124,7 +124,7 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy channel between consciousness and language
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where thought exceeds what language can capture
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has phenomenal character beyond sensory accompaniments
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — How consciousness constitutes semantic grasp
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — How consciousness constitutes semantic grasp
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt quality of comprehension
 - [intersubjective-void](/voids/intersubjective-void/) — The gap between minds that translation attempts to bridge
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — Phenomenal engagement with other minds

@@ -144,7 +144,7 @@ The symbol grounding problem connects to all five tenets:
 
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine meaning requires phenomenal consciousness
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states and phenomenal intentionality
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Why meaning is constitutively phenomenal
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — Why meaning is constitutively phenomenal
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language requires conscious processing
 - [working-memory](/concepts/working-memory/) — The maintenance/manipulation distinction and conscious access
 - [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles

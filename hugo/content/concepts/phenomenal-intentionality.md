@@ -98,7 +98,7 @@ This unifies two apparent mysteries—consciousness and intentionality—as aspe
 
 ## The Phenomenal Constitution Thesis
 
-The [Phenomenal Constitution Thesis](/topics/consciousness-and-semantic-understanding/) (PCT) extends PIT to semantic content specifically: meaning is *constitutively* phenomenal. To understand "snow is white" is to have a certain experience—the experience constitutes the understanding, rather than merely accompanying it.
+The [Phenomenal Constitution Thesis](/topics/phenomenology-of-understanding/) (PCT) extends PIT to semantic content specifically: meaning is *constitutively* phenomenal. To understand "snow is white" is to have a certain experience—the experience constitutes the understanding, rather than merely accompanying it.
 
 PCT strengthens PIT with empirical support from [semantic-memory](/concepts/semantic-memory/) research:
 
@@ -166,7 +166,7 @@ This provides an empirical signature that distinguishes PIT from purely function
 
 - [intentionality](/concepts/intentionality/) — The broader treatment of aboutness and naturalization attempts
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking itself
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — The Phenomenal Constitution Thesis in detail
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — The Phenomenal Constitution Thesis in detail
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation leaves consciousness out
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The fundamental challenge PIT deepens

@@ -258,7 +258,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ## Further Reading
 
 ### Core Concepts
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — How consciousness weaves meanings into unified understanding and life trajectory
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — How consciousness weaves meanings into unified understanding and life trajectory
 - [nihilism](/concepts/nihilism-and-existentialism/) — The case for meaninglessness and responses to it
 - [existentialism](/concepts/existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value

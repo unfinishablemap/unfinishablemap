@@ -124,7 +124,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of understanding and thought
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How understanding unfolds temporally
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value in conscious experience
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Phenomenal consciousness and meaning
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — Phenomenal consciousness and meaning
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
 
 ## References

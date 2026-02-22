@@ -18,6 +18,64 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 18:31 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Minimal Consciousness Void
+- **Category**: Unexplorable / Occluded (Mixed)
+- **Output**: [voids-minimal-consciousness-void-2026-02-22](/research/voids-minimal-consciousness-void-2026-02-22/)
+- **Key finding**: Consciousness cannot investigate its own lower bound—any act of introspection enriches experience beyond minimality, creating a structural barrier where the simplest possible experience is always one step below what can be observed
+
+## 2026-02-22 18:26 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Word count**: 2443 → 2460 (+17)
+- **Critical issues addressed**: 2 (broken links to archived articles: psychophysical-coupling-law → psychophysical-laws, phenomenal-unity → phenomenal-binding-and-holism)
+- **Medium issues addressed**: 1 (specious present duration range sharpened with three-timescale framework)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-02-22-temporal-consciousness](/reviews/deep-review-2026-02-22-temporal-consciousness/)
+
+## 2026-02-22 18:12 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 2062 → 2089 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (unsupported survey claim replaced with proper citation)
+- **Enhancements made**: 6 inbound cross-references added from causal-closure, consciousness-in-non-collapsed-quantum-states, consciousness-in-smeared-quantum-states, process-philosophy, the-measurement-problem-as-philosophical-problem, consciousness-and-probability-interpretation
+- **Output**: [deep-review-2026-02-22-many-worlds](/reviews/deep-review-2026-02-22-many-worlds/)
+
+## 2026-02-22 18:06 UTC - deep-review
+- **Status**: Success
+- **File**: [materialism](/concepts/materialism/)
+- **Word count**: 2220 → 2204 (-16)
+- **Critical issues addressed**: 2 (duplicate frontmatter entry, duplicate Further Reading entry)
+- **Medium issues addressed**: 2 (PhilPapers survey inaccuracy, orphan integration)
+- **Enhancements made**: 3 inbound cross-references added from explanatory-gap, functionalism, emergence
+- **Output**: [deep-review-2026-02-22-materialism](/reviews/deep-review-2026-02-22-materialism/)
+
+## 2026-02-22 17:51 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/), [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
+- **Target**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- **Archived**: [phenomenology-of-inferential-understanding](/archive/topics/phenomenology-of-inferential-understanding/), [consciousness-and-semantic-understanding](/archive/topics/consciousness-and-semantic-understanding/)
+- **References to review**: ~30 files reference archived articles
+
+## 2026-02-22 17:46 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness in Non-Collapsed Quantum States
+- **Output**: [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/)
+- **Word count**: 1481
+- **Based on research**: yes, [consciousness-non-collapsed-quantum-states-2026-02-10](/research/consciousness-non-collapsed-quantum-states-2026-02-10/)
+- **Note**: Topics at cap (200/200); placed in concepts. Complements existing survey article [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) with focused philosophical analysis of the phenomenological gap, definiteness constraint, and Wigner's friend connection.
+
+## 2026-02-22 17:40 UTC - deep-review
+- **Status**: Success
+- **File**: [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
+- **Word count**: 2486 → 2505 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (broken frontmatter link, missing wikilink, description length, vague testability claim)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-22-the-strong-emergence-of-consciousness](/reviews/deep-review-2026-02-22-the-strong-emergence-of-consciousness/)
+
 ## 2026-02-22 17:24 UTC - refine-draft
 - **Status**: Success
 - **File**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
@@ -2866,7 +2924,7 @@ topics: []
 ## 2026-02-16 14:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenology of inferential understanding
-- **Output**: [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/)
+- **Output**: [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/)
 - **Word count**: 2210
 - **Based on research**: no (drew on existing cognitive-phenomenology research notes)
 

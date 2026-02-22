@@ -188,7 +188,7 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 
 ## Further Reading
 
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Why meaning may be constitutively phenomenal
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — Why meaning may be constitutively phenomenal
 - [intentionality](/concepts/intentionality/) — Aboutness and the phenomenal intentionality thesis
 - [autonoetic-consciousness](/concepts/episodic-memory/) — Episodic memory's richer phenomenology
 - [episodic-memory](/concepts/episodic-memory/) — The contrasting memory system with autonoetic character

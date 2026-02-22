@@ -69,7 +69,7 @@ topics: []
 - [embodied-cognition](/concepts/embodied-cognition/) — limits of understanding across forms of embodiment
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — structurally inaccessible experience
 - [moral-responsibility](/concepts/moral-responsibility/) — moral accountability section
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — opening orientation paragraph
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — opening orientation paragraph
 
 ## Remaining Items
 

@@ -3,7 +3,7 @@ title: "Deep Review - Bergson and Duration"
 created: 2026-02-22
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-02-22T04:32:00+00:00
+ai_modified: 2026-02-22T23:10:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -17,72 +17,68 @@ last_curated: null
 
 **Date**: 2026-02-22
 **Article**: [[bergson-and-duration|Bergson and Duration]]
-**Previous review**: Never
+**Previous review**: [[deep-review-2026-02-22-bergson-and-duration|2026-02-22 (earlier today)]]
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
 
-None. All factual claims verified (including Kent & Wittmann 2021 citation against the actual paper). No misattributions detected. No internal contradictions. Required sections present.
+None. All previous review findings confirmed. Attribution accuracy checks all pass. No internal contradictions. Required sections present.
 
 ### Medium Issues Found
 
-1. **Oversimplified reversibility claim**: Original text said "physics equations run equally well backward" without acknowledging statistical mechanics and thermodynamic irreversibility. Bergson's claim of experiential irreversibility needed to be distinguished from both fundamental time-symmetry and thermodynamic irreversibility. **Resolution**: Qualified the claim to distinguish three kinds of irreversibility (fundamental physics, thermodynamic, experiential).
+1. **Missing specious present connection** (NEW): The article discussed durée at length but never connected to the specious present—the empirical and philosophical tradition (Clay, James, Husserl) that independently confirmed Bergson's core phenomenological claim. The temporal-consciousness concept page treats durée and the specious present as complementary, but this article lacked that explicit bridge. **Resolution**: Added a paragraph in the "Contemporary Relevance" section connecting durée to the specious present tradition, noting empirical timescale estimates (300-750ms core, 2-3s horizon) and Husserl's retention-protention structure as formalising what Bergson captured with interpenetration.
 
-2. **MWI argument too quick**: Original claimed many-worlds "would shatter durée into fragments." But within each branch, duration remains continuous—the argument was attacking a strawman. **Resolution**: Rewritten to argue that branching undermines the ontological significance of temporal identity by multiplying incompatible histories, rather than destroying within-branch continuity.
+### Issues from Previous Review (all confirmed resolved)
 
-3. **Contemplative corroboration lacked citations**: Original mentioned "meditation traditions" without specifics. **Resolution**: Added specific examples (Theravada vipassana arising-passing, jhāna temporal suspension) and cross-links to existing Map articles on contemplative evidence and contemplative reliability.
-
-4. **No engagement with unfalsifiability objection to intuition**: Bergson's claim that analysis cannot capture duration invites the obvious question: how do we verify intuition does? **Resolution**: Added a paragraph addressing this, noting Bergson's view of intuition as disciplined attention rather than mystical revelation, with cross-link to contemplative epistemology.
+- Oversimplified reversibility claim → qualified with three-way distinction
+- MWI argument too quick → rewritten for ontological significance
+- Contemplative corroboration lacked citations → specific examples added
+- No engagement with unfalsifiability of intuition → addressed with disciplined attention paragraph
 
 ### Counterarguments Considered
 
-- **Eliminative materialist**: Duration's qualitative features may be what neural temporal integration processes "feel like." Expected philosophical disagreement—not a flaw in the article.
-- **Dennett-style physicalist**: Bergson assumes first-person authority via "intuition." Addressed by adding the unfalsifiability engagement paragraph.
-- **MWI defender**: Each branch maintains its own continuous duration. Addressed by rewriting the No Many Worlds argument.
-- **Empiricist**: Contemplative claims need evidence. Addressed by adding specific examples and cross-links.
-- **Buddhist philosopher**: Momentariness (kṣaṇikavāda) may contradict continuous flow. The article already mentions vipassana's arising-passing, which implicitly acknowledges this tension. Not addressed further—this is a genuinely open question that could merit its own article.
+All counterarguments from previous review remain adequately addressed. No new counterarguments arise from the specious present addition—it strengthens the article's empirical grounding.
 
 ### Attribution Accuracy Check
 
-- **Misattribution check**: PASS. All claims about Bergson's philosophy are standard interpretations attributed to specific works.
-- **Qualifier preservation**: PASS. No dropped qualifiers detected.
-- **Position strength**: PASS. Uses appropriate verbs ("argued," "developed," "connected").
-- **Source/Map separation**: PASS. Relation to Site Perspective section clearly separates Bergson's claims from Map interpretation. One inline mention of filter theory is appropriately marked with "aligns with."
-- **Self-contradiction check**: PASS. No contradictions detected.
+All checks pass (confirmed from previous review, re-verified):
+- Misattribution: PASS
+- Qualifier preservation: PASS
+- Position strength: PASS
+- Source/Map separation: PASS
+- Self-contradiction: PASS
 
 ## Optimistic Analysis Summary
 
 ### Strengths Preserved
 
-- Excellent opening paragraph that clearly states thesis and why Bergson matters for dualism
-- Clean four-feature characterization of durée (heterogeneity, interpenetration, indivisibility, irreversibility)
-- The melody analogy—highly effective for making interpenetration intuitive
-- Honest treatment of élan vital: acknowledges criticism without dismissal, identifies what survives
-- Well-balanced Bergson-Whitehead comparison noting both parallels and genuine divergences
+- Excellent opening paragraph stating thesis and why Bergson matters for dualism
+- Clean four-feature durée characterization (heterogeneity, interpenetration, indivisibility, irreversibility)
+- Melody analogy for interpenetration
+- Honest élan vital treatment
+- Well-balanced Bergson-Whitehead comparison
 - Good source/Map separation throughout
-- Strong Further Reading section connecting to 9 related Map articles
+- All improvements from earlier review (irreversibility qualification, MWI argument, contemplative examples, intuition engagement)
 
 ### Enhancements Made
 
-- Qualified irreversibility claim to distinguish experiential from thermodynamic irreversibility
-- Added engagement with the epistemological challenge to Bergson's intuition method
-- Strengthened MWI argument with more precise formulation about ontological significance
-- Added specific contemplative examples and cross-links
-- Added contemplative-epistemology and contemplative-reliability to frontmatter concepts
+- Added specious present paragraph connecting durée to independent empirical and philosophical tradition
+- Noted Husserl's retention-protention structure as formalising Bergson's interpenetration
+- Connected to temporal-thickness concept for phenomenal density
 
 ### Cross-links Added
 
-- [[contemplative-evidence-for-consciousness-theories]]
-- [[contemplative-reliability]]
-- [[contemplative-epistemology]]
+- [[temporal-consciousness]] (specious present anchor in Contemporary Relevance)
 
 ## Remaining Items
 
-None. All medium issues addressed. The article is in good shape.
+None. The article now connects well to both the phenomenological tradition and the Map's temporal consciousness framework.
 
 ## Stability Notes
 
-- **Eliminative materialist disagreement**: Materialists will always argue that durée is "just" neural temporal processing. This is a bedrock philosophical disagreement, not a fixable flaw.
-- **Buddhist momentariness tension**: Whether experience is continuous flow (Bergson) or discrete momentary arisings (Buddhist) is a genuine open question. Future articles could explore this; it should not be flagged as a flaw in *this* article.
-- **Élan vital**: The article's honest acknowledgment of criticism around the élan vital is the right approach. Future reviews should not push to either rehabilitate or further criticize it.
+All stability notes from previous review carry forward:
+- **Eliminative materialist disagreement**: Bedrock philosophical disagreement, not a fixable flaw.
+- **Buddhist momentariness tension**: Genuine open question for future articles.
+- **Élan vital**: Honest acknowledgment of criticism is the right approach.
+- **Specious present connection**: Now established. Future reviews should not significantly expand this—the article is about Bergson, not the specious present per se. The temporal-consciousness concept page provides the detailed treatment.

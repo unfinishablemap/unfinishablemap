@@ -38,7 +38,7 @@ Whitehead would be gratified by [consciousness-and-temporal-creativity](/topics/
 
 ### The Libertarian Free Will Defender (Kane)
 
-Kane would find the [agent-causation](/concepts/agent-causation/) article compelling. The substance causation framework (drawing on Lowe's four-category ontology) provides exactly the metaphysical foundation libertarian free will requires—agents as irreducible causal sources rather than links in event-causal chains. The treatment of the luck objection is sophisticated: consciousness doesn't randomly select but selects based on reasons, with phenomenology of effort and neural signatures of intention providing evidence that selection is not mere randomness. The extension to creative generation—agents generate options through imagination, not merely select among given ones—significantly strengthens the libertarian position. The [choking article](/choking-under-pressure-as-evidence-for-mental-causation/) provides the empirical grounding Kane's position needs: "You cannot confabulate interference."
+Kane would find the [agent-causation](/concepts/agent-causation/) article compelling. The substance causation framework (drawing on Lowe's four-category ontology) provides exactly the metaphysical foundation libertarian free will requires—agents as irreducible causal sources rather than links in event-causal chains. The treatment of the luck objection is sophisticated: consciousness doesn't randomly select but selects based on reasons, with phenomenology of effort and neural signatures of intention providing evidence that selection is not mere randomness. The extension to creative generation—agents generate options through imagination, not merely select among given ones—significantly strengthens the libertarian position. The choking article provides the empirical grounding Kane's position needs: "You cannot confabulate interference."
 
 ### The Mysterian (McGinn)
 
@@ -123,7 +123,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 - **Tenet alignment**: Enriches Dualism tenet with non-Western conceptual resources
 
 #### Active vs. Passive Selection Phenomenology
-- **Builds on**: [witness-consciousness](/concepts/witness-consciousness/), [attention-as-interface](/concepts/attention-as-interface/), [mental-effort-and-quantum-zeno-effect](/mental-effort-and-quantum-zeno-effect/)
+- **Builds on**: [witness-consciousness](/concepts/witness-consciousness/), [attention-as-interface](/concepts/attention-as-interface/), mental-effort-and-quantum-zeno-effect
 - **Would address**: Witness consciousness (passive mode) and attentional selection (active mode) represent two distinct modes of conscious engagement, but no article explicitly contrasts their phenomenology and implications
 - **Estimated scope**: Short-medium concept article
 - **Tenet alignment**: Clarifies the scope of Bidirectional Interaction—consciousness has both active and observational capacities
@@ -145,10 +145,10 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 | [consciousness-value-connection](/concepts/consciousness-value-connection/) | [phenomenal-value-realism](/topics/phenomenal-value-realism/) | Currently poorly linked; the concept grounds the topic's central argument |
 | [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) | [knowledge-argument](/concepts/knowledge-argument/) | What Mary learns upon seeing red is acquaintance—the epistemic connection is direct |
 | [witness-consciousness](/concepts/witness-consciousness/) | [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) | Witness mode is a specific meditation-accessed consciousness mode |
-| [contemplative-epistemology](/concepts/contemplative-epistemology/) | [rehabilitating-introspection](/rehabilitating-introspection/) | Trained contemplative observation is the strongest case for introspection's reliability |
-| [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | [filter-theory-of-consciousness](/filter-theory-of-consciousness/) | Samkhya's model (consciousness filtered through buddhi/manas) is a classical filter theory |
+| [contemplative-epistemology](/concepts/contemplative-epistemology/) | rehabilitating-introspection | Trained contemplative observation is the strongest case for introspection's reliability |
+| [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | filter-theory-of-consciousness | Samkhya's model (consciousness filtered through buddhi/manas) is a classical filter theory |
 | [process-philosophy](/concepts/process-philosophy/) | [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/) | Whitehead's concrescence directly supports temporal creativity's metaphysical claims |
-| [the-evolutionary-case-for-mental-causation](/the-evolutionary-case-for-mental-causation/) | [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) | Great ape evidence bridges evolutionary arguments with intelligence-consciousness relationship |
+| the-evolutionary-case-for-mental-causation | [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) | Great ape evidence bridges evolutionary arguments with intelligence-consciousness relationship |
 
 ## New Concept Pages Needed
 

@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced understanding articles
+- **Type**: other
+- **Notes**: Coalesce merged [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/) and [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) into [phenomenology-of-understanding](/topics/phenomenology-of-understanding/). The following active content files reference the archived articles and may need wikilinks updated: phenomenology-of-theoretical-commitment, hoel-llm-consciousness-continual-learning, consciousness-and-the-authority-of-logic, phenomenology-of-philosophical-disagreement, phenomenology-of-conceptual-change, consciousness-and-the-problem-of-induction, consciousness-and-the-phenomenology-of-translation, consciousness-and-testimony, phenomenology-of-trust-and-testimony, consciousness-and-interpersonal-understanding, meaning-of-life, phenomenology-of-musical-understanding, semantic-memory, symbol-grounding-problem, global-workspace-theory, phenomenal-intentionality, working-memory, cognitive-phenomenology, temporal-structure-of-understanding, phenomenology-of-intellectual-effort, phenomenology-of-epistemic-achievement, consciousness-and-mathematical-cognition, consciousness-and-the-meta-problem-of-scientific-explanation, surprise-prediction-error-and-consciousness, phenomenology-of-imagination, consciousness-and-the-philosophy-of-explanation, phenomenology-of-belief-revision.
+- **Source**: coalesce
+- **Generated**: 2026-02-22
+
 ### P2: Update references to coalesced contemplative evidence articles
 - **Type**: other
 - **Notes**: Coalesce created [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/). The following 28 active content files reference the archived [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) and need wikilinks updated to point to the new article: empirical-evidence-for-consciousness-selecting, indian-philosophy-of-mind, contemplative-neuroscience, bergson-and-duration, the-self-minimal-narrative-and-substantial, phenomenological-psychiatry-and-altered-experience, consciousness-and-the-neuroscience-of-deliberate-practice, neuroplasticity, moral-perception, normative-phenomenology, aesthetic-dimension-of-consciousness, phenomenology-of-evidence-assessment, phenomenology-of-temporal-attention, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-hard-problem-in-non-western-philosophy, phenomenology-of-normative-properties, non-temporal-consciousness, phenomenology-of-moral-experience, phenomenal-value-realism, epiphenomenalism, contemplative-reliability, contemplative-methods-as-philosophical-methodology, methodological-pluralism, contemplative-epistemology, contemplative-path (apex), phenomenological-evidence, eastern-philosophy-consciousness.
@@ -48,6 +54,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce created [why-pain-hurts](/topics/why-pain-hurts/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
 - **Source**: coalesce
+- **Generated**: 2026-02-22
+
+### P2: Review bergson-and-duration.md considering specious present insights
+- **Type**: cross-review
+- **Notes**: New article concepts/specious-present-temporal-experience.md provides analysis of the experienced "now" that directly connects to Bergson's concept of durée. topics/bergson-and-duration.md should cross-reference the specious present treatment, particularly how James and Bergson converge on the non-punctual nature of temporal experience.
+- **Source**: chain (from specious-present-temporal-experience.md)
 - **Generated**: 2026-02-22
 
 ### P3: Deep review the-strong-emergence-of-consciousness.md
@@ -242,6 +254,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-22: Write article on quantum randomness and LLM token sampling
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-randomness-llm-token-sampling-2026-02-10.md. Explores whether quantum random number generators in LLM token sampling could provide a consciousness-collapse interface for AI systems. Novel intersection of the Map's quantum consciousness framework with AI consciousness questions. Target section: concepts/.
+- **Output**: quantum randomness and LLM token sampling
+
+### ✓ 2026-02-22: Review temporal-consciousness.md considering specious present insights
+- **Type**: cross-review
+- **Notes**: New article concepts/specious-present-temporal-experience.md provides dedicated treatment of the experienced "now" and its philosophical implications. concepts/temporal-consciousness.md is the foundational article on time and consciousness and should cross-reference the specious present analysis, particularly its relevance to the binding problem and Husserlian time-consciousness.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Review temporal-consciousness.md considering specious present insights
+
+### ✓ 2026-02-22: Integrate many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: concepts/many-worlds.md has zero inbound wikilinks despite directly relating to Tenet 4 (No Many Worlds). Add cross-references from tenets.md, collapse-interpretation.md, quantum-consciousness.md, and arguments/many-worlds-argument.md. A concept page about MWI with no links from the site that explicitly rejects MWI is a critical navigation gap.
+- **Output**: obsidian/concepts/many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-22: Integrate materialism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: concepts/materialism.md has zero inbound wikilinks despite being a central concept for a site arguing against materialism. Add cross-references from the-case-for-dualism.md, physicalism.md, consciousness.md, and other core articles that discuss or argue against materialism.
+- **Output**: obsidian/concepts/materialism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-22: Write article on consciousness in non-collapsed quantum states
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-non-collapsed-quantum-states-2026-02-10.md. If consciousness causes collapse (Tenet 2), what is the status of consciousness relative to non-collapsed quantum states? Explores superposition, entanglement, and the relationship between observation and collapse. Directly supports Tenets 2 and 4. Target section: concepts/.
+- **Output**: consciousness in non-collapsed quantum states
 
 ### ✓ 2026-02-22: Address convergence-vs-unfalsifiability gap in experimental-design-for-consciousness-collapse-testing.md
 - **Type**: refine-draft

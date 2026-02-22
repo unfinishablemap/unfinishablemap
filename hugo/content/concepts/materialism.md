@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-01 09:13:00+00:00
+ai_modified: 2026-02-22 18:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,6 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[illusionism]]'
 - '[[knowledge-argument]]'
-- '[[the-case-for-dualism]]'
 - '[[the-case-for-dualism]]'
 - '[[idealism]]'
 - '[[mysterianism]]'
@@ -29,7 +28,7 @@ description: Why physicalism fails to explain consciousness. The explanatory gap
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 09:13:00+00:00
+last_deep_review: 2026-02-22 18:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +94,7 @@ The Map's response targets premise 1. The [Minimal Quantum Interaction](/tenets/
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [positive arguments for dualism](/concepts/the-case-for-dualism/) that converge on the same conclusion from independent directions. [Dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found 22% of philosophers accept or lean toward dualism—the second most popular position after materialism itself.
+Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [positive arguments for dualism](/concepts/the-case-for-dualism/) that converge on the same conclusion from independent directions. [Dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
 
 For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [the-case-for-dualism](/concepts/the-case-for-dualism/).
 
@@ -188,9 +187,8 @@ None currently obtains, and each faces significant challenges. Materialism remai
 ## Further Reading
 
 - [argument-from-reason](/topics/argument-from-reason/) — The self-stultification argument: physicalism undermines rational justification for any belief, including itself
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Seven converging arguments against physicalism with the convergence argument
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The positive case for dualism: seven converging arguments against physicalism
 - [dualism](/concepts/dualism/) — What dualism claims and its main varieties (foundational overview)
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The positive case for dualism (conceivability, knowledge, qualia, unity, intentionality, modal arguments)
 - [knowledge-argument](/concepts/knowledge-argument/) — The knowledge argument (Mary's Room) in detail
 - [explanatory-gap](/concepts/explanatory-gap/) — What physical explanations leave out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The zombie argument against materialism in detail

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-22 01:19:00+00:00
+ai_modified: 2026-02-22 17:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,15 +20,14 @@ concepts:
 - '[[concepts/functionalism]]'
 - '[[quantum-consciousness]]'
 - '[[qualia]]'
-- '[[phenomenal-unity]]'
 created: 2026-02-08
 date: &id001 2026-02-22
-description: Why the type of emergence you accept determines what consciousness can
-  be. The reductive track record isolates consciousness as the sole genuine case of
-  strong emergence—with a quantum mechanism for downward causation.
+description: The type of emergence you accept constrains what consciousness can be.
+  Reductive science isolates consciousness as the sole genuine case of strong emergence.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-22 17:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +105,7 @@ The most formidable objection to strong emergence comes from Jaegwon Kim's exclu
 
 The Map denies causal closure — but not wholesale. Causal closure holds through most of physics. The denial is targeted: at quantum indeterminacies, physics is genuinely incomplete. Quantum mechanics specifies probabilities for measurement outcomes but does not determine which outcome occurs. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates consciousness's causal influence here — biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws.
 
-Classical British emergentists accepted strong emergence without a mechanism. Alexander accepted it with "natural piety" — as a brute fact. A century later, quantum mechanics provides what they lacked: a specific location in physics where the causal structure is incomplete. Whether quantum indeterminacies in neural tissue survive decoherence long enough remains contested — Tegmark (2000) estimated decoherence times far too short for neural relevance, though Hagan et al. (2002) challenged his assumptions. And more fundamentally, decoherence does not solve the [measurement problem](/concepts/measurement-problem/) — even after decoherence, something must select which outcome becomes actual.
+Classical British emergentists accepted strong emergence without a mechanism. Alexander accepted it with "natural piety" — as a brute fact. A century later, quantum mechanics provides what they lacked: a specific location in physics where the causal structure is incomplete. Whether quantum indeterminacies in neural tissue survive [decoherence](/concepts/decoherence/) long enough remains contested — Tegmark (2000) estimated decoherence times far too short for neural relevance, though Hagan et al. (2002) challenged his assumptions. And more fundamentally, decoherence does not solve the [measurement problem](/concepts/measurement-problem/) — even after decoherence, something must select which outcome becomes actual.
 
 Timothy O'Connor and Hong Yu Wong developed a sophisticated account of strong emergence compatible with this framework. Their key innovation: emergent powers manifest only under appropriate structural triggering conditions — when components organise in specific ways, latent dispositions become active. The brain's neural architecture provides the structural conditions under which consciousness manifests with novel causal powers. Where their account remains abstract about mechanism, the Map's quantum framework supplies specificity.
 
@@ -126,7 +125,7 @@ A common objection: strong emergence is unfalsifiable. The Map's position does f
 
 **What would weaken the position.** If a complete computational model of a brain produced behaviour indistinguishable from conscious behaviour — including detailed, accurate reports of phenomenal states — the physicalist case would strengthen considerably. If decoherence timescales prove definitively too short for any quantum mechanism, the Map's specific causal mechanism would fail, though the philosophical case for strong emergence would survive. If neuroscience develops an account of *why* specific neural patterns produce specific qualia, the explanatory gap would narrow substantially.
 
-**What would support it.** If consciousness genuinely biases quantum outcomes, statistical analyses might reveal deviations from standard Born rule probabilities. A 2024 study found that the microtubule-stabilising drug epothilone B delayed anaesthetic-induced unconsciousness in rats (Khan et al., 2024), consistent with quantum consciousness theories though also admitting classical explanations.
+**What would support it.** If consciousness genuinely biases quantum outcomes, statistical analyses of neural-level quantum events might reveal deviations from standard Born rule probabilities — outcomes occurring more or less frequently than quantum mechanics predicts, correlated with conscious states. A 2024 study found that the microtubule-stabilising drug epothilone B delayed anaesthetic-induced unconsciousness in rats (Khan et al., 2024), consistent with quantum consciousness theories though also admitting classical explanations.
 
 Strong emergence is not proven. The quantum mechanism remains a promissory note. But the framework generates questions that interface with empirical research, and the Map commits to following the evidence.
 

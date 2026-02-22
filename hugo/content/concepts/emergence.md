@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-22 12:40:00+00:00
+ai_modified: 2026-02-22 18:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -46,7 +46,7 @@ The philosophical literature distinguishes two fundamentally different concepts:
 
 Higher-level properties arise from component interactions but remain in principle deducible from complete knowledge of the lower level. Temperature as mean molecular kinetic energy is the classic example—surprising to observers perhaps, but derivable from physics.
 
-Weak emergence is compatible with physicalism and [causal closure](/concepts/causal-closure/). The emergent property supervenes on the physical base with *metaphysical necessity*: any world with the same microphysics has the same temperatures.
+Weak emergence is compatible with [physicalism](/concepts/materialism/) and [causal closure](/concepts/causal-closure/). The emergent property supervenes on the physical base with *metaphysical necessity*: any world with the same microphysics has the same temperatures.
 
 ### Strong Emergence
 

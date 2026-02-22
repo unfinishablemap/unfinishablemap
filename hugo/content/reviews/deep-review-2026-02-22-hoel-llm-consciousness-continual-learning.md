@@ -31,7 +31,7 @@ topics: []
 - **"No reasonable theory" overclaim**: Replaced editorializing language with Hoel's actual claim about theories satisfying both constraints.
 - **Proximity argument conflated finiteness with fixedness**: Sharpened to clarify the key asymmetry is fixedness of the computed function, not finiteness of input space.
 - **Bidirectional Interaction circularity risk**: Reframed to clearly mark the ontological inference as the Map's reading, not something Hoel's argument "implicitly assumes."
-- **Missing inline cross-links**: Added inline link to [llm-consciousness](/concepts/llm-consciousness/) and [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/).
+- **Missing inline cross-links**: Added inline link to [llm-consciousness](/concepts/llm-consciousness/) and [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/).
 - **Redundancy with concept article unclear**: Added opening sentence signposting the [continual-learning-argument](/concepts/continual-learning-argument/) concept article for broader treatment.
 
 ### Counterarguments Considered
@@ -56,13 +56,13 @@ topics: []
 - Expanded Critical Responses with substantive engagement on context-based encoding and tautology charge (+~200 words)
 - Added No Many Worlds paragraph with haecceity connection (~100 words)
 - Sharpened proximity argument to clarify fixedness vs finiteness distinction
-- Added phenomenological response to tautology charge via [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/)
+- Added phenomenological response to tautology charge via [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/)
 - Improved differentiation from concept article with opening signpost
 - Toned down "strongly supports" to "supports" for Occam's Razor tenet
 
 ### Cross-links Added
 - [llm-consciousness](/concepts/llm-consciousness/) (inline, proximity argument section)
-- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/) (inline, Critical Responses)
+- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/) (inline, Critical Responses)
 - [haecceity](/concepts/haecceity/) (inline and frontmatter, No Many Worlds)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (Further Reading and frontmatter)
 - [substrate-independence](/concepts/substrate-independence/) (Further Reading and frontmatter)

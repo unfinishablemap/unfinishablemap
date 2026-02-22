@@ -77,7 +77,7 @@ A deeper point emerges when the relationship between consciousness and induction
 
 Inductive reasoning requires capacities that resist purely physical explanation:
 
-- **[Temporal integration](/topics/consciousness-and-temporal-integration/)**: Holding past instances together with a projected future in a [unified field of awareness](/concepts/unity-of-consciousness/). Recurrent neural networks and memory traces can store and retrieve information, but the inductive reasoner does something more: they grasp that these events *form a sequence leading somewhere*. [Semantic understanding](/topics/consciousness-and-semantic-understanding/) of what a "pattern" means requires more than statistical correlation—it requires a subject for whom the pattern is *about* something.
+- **[Temporal integration](/topics/consciousness-and-temporal-integration/)**: Holding past instances together with a projected future in a [unified field of awareness](/concepts/unity-of-consciousness/). Recurrent neural networks and memory traces can store and retrieve information, but the inductive reasoner does something more: they grasp that these events *form a sequence leading somewhere*. [Semantic understanding](/topics/phenomenology-of-understanding/) of what a "pattern" means requires more than statistical correlation—it requires a subject for whom the pattern is *about* something.
 
 - **[Counterfactual assessment](/topics/consciousness-and-counterfactual-reasoning/)**: Evaluating what *would* happen under conditions that have not been observed. Induction relies not just on what has occurred but on our grasp of what could and could not occur. This modal reasoning—holding actual and merely possible scenarios together in deliberation—appears tied to the kind of conscious evaluation that the [phenomenology of deliberation](/topics/phenomenology-of-deliberation-under-uncertainty/) reveals.
 
@@ -110,7 +110,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 - [argument-from-reason](/topics/argument-from-reason/)
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/)
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)

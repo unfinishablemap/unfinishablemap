@@ -57,7 +57,7 @@ This is not stubbornness or closed-mindedness, though it can degenerate into eit
 
 The gravitational structure manifests in several distinctive experiences:
 
-**Inferential momentum.** Within a committed framework, inferences feel propelled. Each conclusion generates pressure toward the next. The dualist who accepts the [irreducibility of consciousness](/topics/phenomenology-of-inferential-understanding/) feels logical momentum carrying the argument toward interactionism — the inference has a directional quality that resists deflection.
+**Inferential momentum.** Within a committed framework, inferences feel propelled. Each conclusion generates pressure toward the next. The dualist who accepts the [irreducibility of consciousness](/topics/phenomenology-of-understanding/) feels logical momentum carrying the argument toward interactionism — the inference has a directional quality that resists deflection.
 
 **Coherence satisfaction.** When disparate observations converge under a single theoretical framework, the experience is not merely cognitive but affective. There is a felt rightness, a warmth of integration, that rewards theoretical unification. This [epistemic emotion](/concepts/epistemic-emotions/) functions as a phenomenal signal of explanatory progress.
 
@@ -100,7 +100,7 @@ This connects to the Map's tenet of [bidirectional interaction](/tenets/#bidirec
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/)
-- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/)
+- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/)
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/)
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)

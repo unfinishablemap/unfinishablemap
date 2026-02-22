@@ -196,7 +196,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive structure processing reveals temporal phenomenology
 - [duration](/concepts/temporal-consciousness/) — Bergson's concept of lived time as interpenetrating flow
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Related argument that meaning is constitutively phenomenal
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — Related argument that meaning is constitutively phenomenal
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Parallels between the phenomenology of choosing and the phenomenology of understanding
 - [agent-causation](/concepts/agent-causation/) — Understanding as a case of conscious agency in cognition
 - [decoherence](/concepts/decoherence/) — The quantum challenge to any consciousness-brain interface

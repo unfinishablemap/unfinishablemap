@@ -59,7 +59,7 @@ All counterargument engagements were confirmed adequate from the first review. N
 ### Cross-links Added (FROM other articles TO this one)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — in "The Understanding Experience" section
 - [epistemic-emotions](/concepts/epistemic-emotions/) — in "Insight: The Aha Moment" section
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — in "The Phenomenal Constitution Thesis" section
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — in "The Phenomenal Constitution Thesis" section
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — in "The Phenomenology of Mathematical Insight" section
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — in "The Aha and the Slog" section
 - [ai-consciousness](/topics/ai-consciousness/) — in "The Chinese Room and Intentionality" section

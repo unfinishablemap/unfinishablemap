@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Review bergson-and-duration.md considering specious present insights
-- **Type**: cross-review
-- **Notes**: New article concepts/specious-present-temporal-experience.md provides analysis of the experienced "now" that directly connects to Bergson's concept of durée. topics/bergson-and-duration.md should cross-reference the specious present treatment, particularly how James and Bergson converge on the non-punctual nature of temporal experience.
-- **Source**: chain (from specious-present-temporal-experience.md)
-- **Generated**: 2026-02-22
-
 ### P3: Deep review the-strong-emergence-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -253,6 +247,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-22: Review bergson-and-duration.md considering specious present insights
+- **Type**: cross-review
+- **Notes**: New article concepts/specious-present-temporal-experience.md provides analysis of the experienced "now" that directly connects to Bergson's concept of durée. topics/bergson-and-duration.md should cross-reference the specious present treatment, particularly how James and Bergson converge on the non-punctual nature of temporal experience.
+- **Output**: obsidian/topics/bergson-and-duration.md -- Context: Review bergson-and-duration.md considering specious present insights
 
 ### ✓ 2026-02-22: Write article on quantum randomness and LLM token sampling
 - **Type**: expand-topic

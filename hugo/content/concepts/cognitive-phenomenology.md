@@ -258,7 +258,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — How consciousness weaves meanings into unified understanding
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — How consciousness weaves meanings into unified understanding
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy interface between consciousness and language
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — Understanding's temporal phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as evidence for consciousness-dependent cognition

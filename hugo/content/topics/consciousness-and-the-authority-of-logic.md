@@ -121,7 +121,7 @@ The authority of logic provides distinctive support for three of the Map's [tene
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Tracking normative relationships
 - [agent-causation](/concepts/agent-causation/) — How rational agents influence beliefs through recognising reasons
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why consciousness resists objective methods
-- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/) — The felt experience of following an argument
+- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/) — The felt experience of following an argument
 
 ## References
 

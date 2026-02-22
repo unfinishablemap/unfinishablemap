@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-31 00:50:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-02-22 18:12:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[quantum-interpretations]]'
@@ -21,7 +21,7 @@ description: 'Why the Map rejects MWI: it raises unanswerable questions about in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 13:00:00+00:00
+last_deep_review: 2026-02-22 18:12:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
@@ -127,7 +127,7 @@ MWI also claims to dissolve the [prebiotic collapse problem](/concepts/prebiotic
 
 The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [comprehensive survey of quantum interpretations](/topics/quantum-measurement-interpretations-beyond-mwi/) establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories.
 
-The interpretive landscape is genuinely open—a 2025 Nature Physics survey found only 24% of physicists are confident their preferred interpretation is correct. The Map favors interpretations where consciousness participates in collapse (transactional, consciousness-integrated CSL), as these explain both quantum measurement outcomes and phenomenal facts. Interpretations that eliminate consciousness or treat it as purely epistemic don't explain why consciousness exists at all. See the [full survey](/topics/quantum-measurement-interpretations-beyond-mwi/) for detailed analysis of each interpretation's compatibility with the Map's framework.
+The interpretive landscape is genuinely open—surveys of physicists consistently show deep disagreement, with few confident their preferred interpretation is correct (Schlosshauer et al., 2013). The Map favors interpretations where consciousness participates in collapse (transactional, consciousness-integrated CSL), as these explain both quantum measurement outcomes and phenomenal facts. Interpretations that eliminate consciousness or treat it as purely epistemic don't explain why consciousness exists at all. See the [full survey](/topics/quantum-measurement-interpretations-beyond-mwi/) for detailed analysis of each interpretation's compatibility with the Map's framework.
 
 ## What Would Challenge This View?
 
@@ -186,3 +186,4 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*.
 - Saunders, S. et al. eds. (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+- Schlosshauer, M. et al. (2013). A Snapshot of Foundational Attitudes Toward Quantum Mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222-230.

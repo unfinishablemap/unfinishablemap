@@ -4,7 +4,7 @@ description: "Henri Bergson's durée reveals time as qualitative flow rather tha
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-22T04:32:00+00:00
+ai_modified: 2026-02-22T23:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-02-22T04:32:00+00:00
+last_deep_review: 2026-02-22T23:10:00+00:00
 ---
 
 Henri Bergson argued that Western philosophy systematically misunderstands time by treating it as a spatial medium—moments arrayed like points on a line, measurable, divisible, inert. His concept of *durée* (duration) names what this spatialization obscures: the qualitative, interpenetrating flow of lived experience where past permeates present and each moment carries the whole of what came before. For The Unfinishable Map, Bergson matters because his critique targets the same assumption that makes materialism seem plausible—the assumption that reality can be exhaustively described in quantitative, third-person terms. If Bergson is right that lived time resists spatial representation, then consciousness does something physics cannot capture, and the Map's [[tenets#^dualism|dualism]] gains independent philosophical support.
@@ -109,6 +109,8 @@ The traditions diverge on important points. Whitehead's actual occasions are dis
 Bergson's philosophy, eclipsed for decades by analytic philosophy and phenomenology alike, has undergone significant revival. Several developments make his work freshly relevant:
 
 **The "missing link" in consciousness theories.** Kent and Wittmann (2021) identified experienced duration as "one of the core issues in theories of consciousness." Major theories—IIT, Global Workspace Theory—focus on functional moments of 100-300 milliseconds but cannot explain why experience extends across seconds. Bergson diagnosed this gap a century earlier: theories that spatialize time cannot capture duration.
+
+**The [[temporal-consciousness|specious present]] corroboration.** The philosophical tradition arrived at Bergson's insight from another direction. E.R. Clay, William James, and Husserl each noted that the experienced present has positive temporal width—the "specious present," now empirically estimated at roughly 300-750 milliseconds of core duration with a broader 2-3 second experiential horizon. Husserl's analysis of *retention* (the just-past lingering in awareness) and *protention* (anticipation of what follows) formalises the same structure Bergson captured with interpenetration: each moment pervaded by what precedes and colours what follows. The specious present names the *fact* that consciousness extends through time; durée names the *qualitative character* of that extension—and both resist reduction to spatial or computational description.
 
 **Process ontology.** The growing interest in process metaphysics—partly through Whitehead, partly through developments in physics—has rehabilitated Bergson's core claim that becoming is more fundamental than being.
 

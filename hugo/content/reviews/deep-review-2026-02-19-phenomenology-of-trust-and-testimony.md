@@ -67,7 +67,7 @@ topics: []
 ### Cross-links Added
 - [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-testimony/)
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
-- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/)
+- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)

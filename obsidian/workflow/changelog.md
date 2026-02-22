@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 23:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/bergson-and-duration]]
+- **Word count**: 2174 → 2283 (+109)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing specious present connection)
+- **Enhancements made**: 1 (specious present paragraph with Husserl retention-protention parallel)
+- **Output**: [[reviews/deep-review-2026-02-22-bergson-and-duration]]
+
 ## 2026-02-22 18:31 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Minimal Consciousness Void

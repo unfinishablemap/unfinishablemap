@@ -74,7 +74,7 @@ Six sympathetic personas (Property Dualist, Quantum Mind Theorist, Phenomenologi
 - Added cross-link to `phenomenology-of-philosophical-disagreement` in consolidation section
 
 ### Cross-links Added
-- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/) (computational models section + Further Reading)
+- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/) (computational models section + Further Reading)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) (consolidation section)
 - [introspection](/concepts/introspection/) (anomaly accumulation section)
 
