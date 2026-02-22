@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Cross-review agent-causation.md considering voluntary attention control mechanisms
-- **Type**: cross-review
-- **Notes**: New article concepts/voluntary-attention-control-mechanisms.md explicitly frames thalamic gating mechanisms as where consciousness interrupts automatic processing. concepts/agent-causation.md should cross-reference these mechanisms as concrete instantiation of agent causation.
-- **Source**: chain (from voluntary-attention-control-mechanisms.md)
-- **Generated**: 2026-02-22
-
 ### P2: Cross-review the-case-for-dualism.md considering parsimony void insights
 - **Type**: cross-review
 - **Notes**: New article voids/epistemological-limits-occams-razor.md argues that parsimony bias may be the primary cognitive obstacle to taking dualism seriously. concepts/the-case-for-dualism.md should cross-reference this cognitive architecture critique as strengthening the case against dismissing dualism on simplicity grounds.
@@ -257,6 +251,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-22: Cross-review agent-causation.md considering voluntary attention control mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control-mechanisms.md explicitly frames thalamic gating mechanisms as where consciousness interrupts automatic processing. concepts/agent-causation.md should cross-reference these mechanisms as concrete instantiation of agent causation.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agent-causation.md considering voluntary attention control mechanisms
 
 ### ✓ 2026-02-22: Cross-review attention-as-interface.md considering voluntary attention control mechanisms
 - **Type**: cross-review
