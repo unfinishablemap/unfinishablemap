@@ -157,6 +157,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [[topics/free-will]] — How selection laws provide a mechanism for libertarian free will
 - [[agent-causation]] — Genuine authorship through mental selection
 - [[tenets]] — The Map's foundational commitments
+- [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Epistemic methods for investigating the interface when mechanism cannot be directly observed
 
 ## References
 

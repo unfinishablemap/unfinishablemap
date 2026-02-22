@@ -131,6 +131,7 @@ This claim invites an obvious objection: if consciousness is the ground of expla
 - [[argument-from-reason]] — A parallel self-referential argument against physicalism
 - [[consciousness-and-scientific-methodology]] — The Galilean exclusion that created science's blind spot
 - [[consciousness-and-the-problem-of-theoretical-virtues]] — How consciousness breaks theory-choice criteria
+- [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Alternative epistemic strategies when mechanistic explanation faces categorical limits
 
 ## References
 

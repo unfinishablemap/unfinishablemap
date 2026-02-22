@@ -194,7 +194,7 @@ The hypothesis would fail if:
 
 ## Further Reading
 
-**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[interface-locality]], [[coupling-modes]], [[attentional-economics]], [[attention-disorders-and-quantum-interface|Attention Disorders and the Interface]]
+**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[interface-locality]], [[coupling-modes]], [[attentional-economics]], [[attention-disorders-and-quantum-interface|Attention Disorders and the Interface]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
 
 **Motor convergence**: [[motor-selection]], [[dopamine-selection-interface]], [[dopamine-and-the-unified-interface]]
 

@@ -248,6 +248,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[interface-locality]] — Why consciousness affects only its own brain
 - [[attention-as-interface]] — How attention implements the consciousness-physics interface
 - [[topics/free-will]] — The implications for agency
+- [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — What kind of knowledge about the interface mechanism is epistemically available
 
 ## References
 

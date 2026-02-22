@@ -165,6 +165,7 @@ This void appears in the [[tenet-generated-voids|tenet-generated voids]] framewo
 - [[mysterianism|Mysterianism and Cognitive Closure]] — The causal interface as a specific instance of cognitive closure
 - [[topics/free-will|Free Will]] — The broader context for questions of agency
 - [[agent-causation|Agent Causation]] — The philosophical concept of the self as cause
+- [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Mechanism at the Interface]] — What inferential methods remain when direct observation fails
 
 ## References
 

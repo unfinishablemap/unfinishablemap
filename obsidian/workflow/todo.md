@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate epistemology-of-mechanism-at-the-consciousness-matter-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: atemporal-causation.md, princess-elizabeths-challenge.md, mysterianism.md, mind-matter-interface.md, psychophysical-laws.md. This article examines why mechanisms at the consciousness-matter boundary may be permanently opaque.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Integrate temporal-ontology-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -156,6 +149,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Integrate epistemology-of-mechanism-at-the-consciousness-matter-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: atemporal-causation.md, princess-elizabeths-challenge.md, mysterianism.md, mind-matter-interface.md, psychophysical-laws.md. This article examines why mechanisms at the consciousness-matter boundary may be permanently opaque.
+- **Output**: obsidian/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Integrate phenomenological-psychiatry-and-altered-experience.md into site navigation
 - **Type**: integrate-orphan

@@ -194,6 +194,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[introspection]] — How we know about the gap in the first place
 - [[integrated-information-theory]] — A theory attempting to bridge the gap
 - [[tenets]] — How the Map's framework responds to the gap
+- [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — How the gap constrains what we can know about the consciousness-matter interface
 
 ## References
 
