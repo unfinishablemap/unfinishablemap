@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in temporal-ontology-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two critical issues: (1) the article conflates philosophical association with logical constraint—the "package deal" thesis needs to distinguish affinity from necessity; (2) eternalism is treated uncharitably, ignoring sophisticated B-theorist accounts of temporal experience (Prosser, Hoerl). Also: unexplained retrocausality reference violates style guide, circularity in growing-block argument needs acknowledgment, and collapse-as-growth-mechanism is asserted without considering alternatives. See pessimistic-2026-02-22.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-22
+
 ### P2: Update references to coalesced contemplative articles
 - **Type**: cross-review
 - **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[[contemplative-training-and-phenomenal-access]]`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[[contemplative-verification-of-consciousness-theories]]`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[contemplative-evidence-for-consciousness-theories]]` where appropriate.
