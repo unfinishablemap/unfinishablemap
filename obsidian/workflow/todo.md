@@ -142,6 +142,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-22
 
+### P3: Write article on consciousness as activity rather than property
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The insight that consciousness is something matter *does* rather than a property matter *has* runs through multiple articles (information-integration, emergence, contemplative-evidence, agent-causation) but has never been developed as a unifying theme. Would resolve IIT's passivity problem, connect to contemplative evidence of active witness, and integrate with agent causation. Target section: concepts/. See optimistic-2026-02-22-night.md
+
+### P3: Write article on the consciousness threshold in cognitive evolution
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The baseline cognition hypothesis (great apes achieve tool use and procedural metacognition without logical reasoning, counterfactual thinking, or cumulative culture) reframes consciousness as a recent evolutionary threshold rather than ancient property. Builds on consciousness-independent-baseline-cognition.md, agent-causation.md, moral-responsibility.md. Target section: topics/. See optimistic-2026-02-22-night.md
+
+### P3: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The measurement problem provides the specific locus where strong emergence could operate, but emergence.md does not link to measurement-problem-as-philosophical-problem.md. Also add links between moral-responsibility.md and consciousness-and-the-grounds-of-normative-authority.md (shared mechanism), and temporal-consciousness.md to collapse-and-time.md (Husserl maps onto collapse temporal structure). See optimistic-2026-02-22-night.md
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
