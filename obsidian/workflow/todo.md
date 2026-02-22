@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Review emergence.md considering reductionism-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/reductionism-and-consciousness.md was written today. emergence.md discusses strong vs weak emergence and should cross-reference the new article's systematic treatment of why reductionism fails for consciousness. Check for complementary arguments and add cross-links.
-- **Source**: chain (from reductionism-and-consciousness.md)
-- **Generated**: 2026-02-22
-
 ### P2: Condense decoherence.md (3792 words, 108% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3792 words, may contain redundancy with quantum-consciousness.md and collapse-interpretation.md which cover overlapping quantum mechanics territory. Preserve core arguments about environmental decoherence while tightening. See /condense skill.
@@ -224,6 +218,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Review emergence.md considering reductionism-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/reductionism-and-consciousness.md was written today. emergence.md discusses strong vs weak emergence and should cross-reference the new article's systematic treatment of why reductionism fails for consciousness. Check for complementary arguments and add cross-links.
+- **Output**: obsidian/concepts/emergence.md -- Context: Review emergence.md considering reductionism-and-consciousness insights
 
 ### ✓ 2026-02-22: Review the-case-for-dualism.md considering analytic idealism insights
 - **Type**: cross-review
