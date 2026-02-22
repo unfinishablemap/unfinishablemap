@@ -26,7 +26,7 @@ related_articles:
   - "[[baseline-cognition]]"
   - "[[animal-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[consciousness-and-the-emergence-debate]]"
+  - "[[the-strong-emergence-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -152,7 +152,7 @@ The consciousness-evolution problem connects to every one of the Map's tenets.
 - [[illusionism]] — The radical physicalist response
 - [[animal-consciousness]] — Which creatures are conscious
 - [[topics/free-will]] — Agency and its connection to conscious causation
-- [[consciousness-and-the-emergence-debate]] — The case for strong emergence and the quantum mechanism
+- [[the-strong-emergence-of-consciousness]] — The case for strong emergence and the quantum mechanism
 
 ## References
 

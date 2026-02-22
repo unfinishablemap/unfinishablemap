@@ -8,8 +8,7 @@ ai_modified: 2026-02-17T17:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-strong-emergence]]"
-  - "[[consciousness-and-the-emergence-debate]]"
+  - "[[the-strong-emergence-of-consciousness]]"
 concepts:
   - "[[combination-problem]]"
   - "[[panpsychism]]"
@@ -141,7 +140,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 - [[panpsychism]] — The view facing this challenge
 - [[russellian-monism]] — The most developed framework for contemporary panpsychism
 - [[why-phenomenal-unity-resists-explanation]] — Why unity cannot be functionally explained
-- [[consciousness-and-strong-emergence]] — Emergence and its limits
+- [[the-strong-emergence-of-consciousness]] — Emergence and its limits
 - [[idealism]] — An alternative that claims to invert the combination problem
 - [[process-philosophy]] — Whitehead's experiential framework
 - [[interactionist-dualism]] — The Map's alternative framework

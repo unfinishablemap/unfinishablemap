@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[intrinsic-nature-void]]"
-  - "[[consciousness-and-strong-emergence]]"
+  - "[[the-strong-emergence-of-consciousness]]"
   - "[[substance-property-dualism]]"
   - "[[causal-closure]]"
   - "[[topics/free-will]]"
@@ -128,7 +128,7 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
 - [[mental-causation]] — The problem of how mental states cause physical events
 - [[psychophysical-laws]] — Principles governing mind-matter interaction
-- [[consciousness-and-strong-emergence]] — Whether consciousness is genuinely strongly emergent
+- [[the-strong-emergence-of-consciousness]] — Whether consciousness is genuinely strongly emergent
 - [[substance-property-dualism]] — The Map's preferred ontological framework
 - [[topics/free-will]] — How dispositional powers of consciousness connect to libertarian agency
 
