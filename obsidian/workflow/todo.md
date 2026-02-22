@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on conservation laws and mind-brain causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation law objection is the strongest challenge to interactionist dualism—the Map needs a dedicated response. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
-### P2: Write article on the argument from reason and self-defeat of physicalism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. If materialism undermines the reliability of reason, then arguments for materialism are self-defeating. Powerful support for Tenet 1 (Dualism). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Write article on spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. GRW, CSL, and Penrose's objective reduction provide physical collapse mechanisms that interact with the Map's consciousness-collapse framework. Relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
@@ -197,6 +185,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation law objection is the strongest challenge to interactionist dualism—the Map needs a dedicated response. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: conservation laws and mind-brain causation
 
 ### ✓ 2026-02-22: Address logical gaps in topics/split-brain-consciousness.md
 - **Type**: refine-draft

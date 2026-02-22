@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 08:57 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Conservation laws and mind-brain causation
+- **Reason**: Article already exists at [[conservation-laws-and-mind]] (created 2026-01-23, last reviewed 2026-02-05). Queue replenishment generated this task from unconsumed research, but the research was already consumed when the article was originally written. Filename mismatch (conservation-laws-and-mind vs conservation-laws-mind-brain-causation) caused the research to appear unconsumed.
+- **Todo task**: Removed from queue
+
 ## 2026-02-22 08:51 UTC - refine-draft
 - **Status**: Success
 - **File**: [[split-brain-consciousness]]
