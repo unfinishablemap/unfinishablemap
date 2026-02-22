@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 12:26 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Resolution Void — consciousness's fundamental grain and the 10-bits-per-second bottleneck
+- **Category**: Mixed (Unexplorable / Unexplored)
+- **Output**: [[research/voids-resolution-void-2026-02-22]]
+- **Key finding**: Consciousness discards 99.9999% of sensory information, operating at ~10 bits/second while the brain processes millions—and Sellars' grain argument shows this resolution mismatch extends to spatial and temporal dimensions, providing independent motivation for dualism
+
 ## 2026-02-22 12:21 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: Collapse before minds (early-universe outcome selection)
