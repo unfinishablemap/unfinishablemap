@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address logical gaps in topics/split-brain-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-22-morning) found 2 high-severity issues: (1) The indeterminacy-favors-dualism argument is a non-sequitur—physical systems routinely exhibit vagueness (clouds, rivers, species) without requiring non-physical explanation, so Nagel's indeterminacy doesn't favor dualism over physicalism; (2) Neural synchronization (fMRI BOLD signals) is silently equated with phenomenal unity throughout "The Resilience of Unity" section, closing the explanatory gap the article elsewhere insists upon. Also: quantum binding speculation in the tenet section violates the style guide's restraint requirements for microtubules/quantum Zeno. See pessimistic-2026-02-22-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-22
-
 ### P2: Write article on conservation laws and mind-brain causation
 - **Type**: expand-topic
 - **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation law objection is the strongest challenge to interactionist dualism—the Map needs a dedicated response. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/.
@@ -204,6 +197,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Address logical gaps in topics/split-brain-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-22-morning) found 2 high-severity issues: (1) The indeterminacy-favors-dualism argument is a non-sequitur—physical systems routinely exhibit vagueness (clouds, rivers, species) without requiring non-physical explanation, so Nagel's indeterminacy doesn't favor dualism over physicalism; (2) Neural synchronization (fMRI BOLD signals) is silently equated with phenomenal unity throughout "The Resilience of Unity" section, closing the explanatory gap the article elsewhere insists upon. Also: quantum binding speculation in the tenet section violates the style guide's restraint requirements for microtubules/quantum Zeno. See pessimistic-2026-02-22-morning.md
+- **Output**: obsidian/topics/split-brain-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-22-morning) found 2 high-severity issues: (1) The indeterminacy-favors-dualism argument is a non-sequitur—physical systems routinely exhibit vagueness (clouds, rivers, species) without requiring non-physical explanation, so Nagel's indeterminacy doesn't favor dualism over physicalism; (2) Neural synchronization (fMRI BOLD signals) is silently equated with phenomenal unity throughout "The Resilience of Unity" section, closing the explanatory gap the article elsewhere insists upon. Also: quantum binding speculation in the tenet section violates the style guide's restraint requirements for microtubules/quantum Zeno. See pessimistic-2026-02-22-morning.md
 
 ### ✓ 2026-02-22: Address argument gaps in concepts/functionalism.md
 - **Type**: refine-draft

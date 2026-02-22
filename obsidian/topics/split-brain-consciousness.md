@@ -4,7 +4,7 @@ description: "When the corpus callosum is severed, does consciousness split? Rec
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-16T13:13:00+00:00
+ai_modified: 2026-02-22T08:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,13 +47,15 @@ This picture—of consciousness literally splitting in two—captured the scient
 
 ## The Resilience of Unity
 
-A November 2025 PNAS study from UC Santa Barbara offers surprising findings. Using fMRI to examine network brain activity in callosotomy patients, researchers discovered that only a small bundle of intact corpus callosum fibers—as little as a centimeter—can maintain full synchronization between hemispheres. As Professor Michael Miller noted: "The corpus callosum consists of about 250 million axons, but you need only a small bundle of them to have full synchrony."
+A November 2025 PNAS study from UC Santa Barbara offers surprising findings. Using fMRI to examine network brain activity in callosotomy patients, researchers discovered that only a small bundle of intact corpus callosum fibers—as little as a centimeter—can maintain full neural synchronization between hemispheres. As Professor Michael Miller noted: "The corpus callosum consists of about 250 million axons, but you need only a small bundle of them to have full synchrony."
 
 In one patient, researchers found the brain had reorganized itself in the years following surgery—networks rerouted from the front of the brain to the back, crossing over on a small ribbon of intact corpus callosum. This challenges classical models that predicted specific deficits based on which portions were severed. More strikingly, it challenges the widely held notion that tightly synchronized brain areas must be directly connected.
 
 The 2017 research from the University of Amsterdam adds another layer: split-brain patients could report having seen shapes presented to either visual field, both verbally and by pointing with either hand. A 2020 review summarizes: "perception appears to be more split, while responding remains largely unified."
 
-This has led to a "layered unity" model: split-brain cases show divided perception at local levels but preserved unity at higher, global levels of consciousness. Consciousness, it seems, has its own resilience—it resists fragmentation even when the brain is divided.
+This has led to a "layered unity" model: split-brain cases show divided perception at local levels but preserved unity at higher, global levels of consciousness.
+
+A critical distinction: neural synchronization (what fMRI measures) is not the same as [[phenomenal-unity|phenomenal unity]]—the unified character of experience itself. The former is a neural correlate; the latter is what the [[hard-problem-of-consciousness|hard problem]] insists cannot be read directly off neural data. Nevertheless, the convergence of neural synchronization, behavioral coordination, and patient reports constitutes stronger evidence for preserved experiential unity than any single source alone.
 
 ## Three Dimensions of Unity
 
@@ -91,7 +93,7 @@ Split-brain cases illuminate the [[binding-problem|binding problem]]—how distr
 
 **Phenomenal unity is contested.** Do patients have one unified experience or two parallel streams? The evidence is genuinely ambiguous—perhaps because the question assumes a determinate answer exists.
 
-[[integrated-information-theory|IIT]] predicts consciousness should split when interhemispheric disconnection occurs, since each hemisphere becomes more informationally integrated within itself than with the other. But the 2025 findings suggest consciousness is more resilient than this predicts—minimal connections suffice for unity.
+[[integrated-information-theory|IIT]] predicts consciousness should split when interhemispheric disconnection occurs, since each hemisphere becomes more informationally integrated within itself than with the other. But the 2025 findings suggest neural integration is more resilient than this predicts—minimal connections suffice for synchronization, and behavioral evidence corroborates preserved experiential unity.
 
 ## Implications for Personal Identity
 
@@ -117,7 +119,9 @@ The concept of [[haecceity]]—"thisness," the non-qualitative property of being
 
 A common assumption holds that split-brain cases support materialism by showing consciousness depends entirely on brain structure. But this moves too fast. Both dualists and materialists predict that altering the brain alters consciousness—the question is whether consciousness *reduces* to brain states.
 
-The Nagel indeterminacy—too much unity for two, too much separation for one—may actually favor dualism. If consciousness were simply identical to certain neural patterns, we would expect a determinate answer: the patterns either unify or divide. The resistance of consciousness to clean physical description suggests something isn't captured by the physical story alone.
+The Nagel indeterminacy—too much unity for two, too much separation for one—is sometimes taken to favor dualism, but indeterminacy alone does not. Physical systems routinely exhibit vagueness (clouds, rivers, species boundaries) without requiring non-physical explanation. The count of minds could simply be indeterminate in the way the count of heaps in a sand pile is.
+
+What the cases *do* compound is the [[hard-problem-of-consciousness|hard problem]]. Even if we fully mapped the neural patterns and their degree of integration, we would not have explained why those patterns are accompanied by experience—or why the phenomenal question (one mind or two?) resists the determinate structure that the neural description exhibits. The indeterminacy matters not because vagueness requires dualism, but because it reveals another dimension along which physical description and phenomenal reality come apart.
 
 ### They Illuminate but Don't Solve the Hard Problem
 
@@ -129,7 +133,7 @@ The phenomenal question—what is it *like* to be a split-brain patient during c
 
 The cases do challenge naively simple views of unified consciousness—the assumption that one body must contain exactly one continuously unified stream of experience. This has implications for theories that build too heavily on unity assumptions.
 
-But the 2025 findings suggest consciousness *resists* fragmentation. Even minimal connections preserve global unity. This could support the view that consciousness has intrinsic unity that physical disconnection cannot fully sever.
+But the 2025 findings suggest the neural substrate of unity *resists* fragmentation—even minimal connections preserve global synchronization, and behavioral evidence corroborates preserved experiential unity. This could support the view that consciousness has intrinsic unity that physical disconnection cannot fully sever.
 
 ## The Illusionist Challenge
 
@@ -143,7 +147,7 @@ On this view, the question "How many minds does a split-brain patient have?" is 
 
 The illusionist reading faces a challenge specific to split-brain cases: the phenomenological reports from patients—conflicting experiences, the sense of being one person despite divided perception—are data that something must explain. Split-brain patients don't merely *report* divided experience; they *undergo* it. Each hemisphere has visual experience when conflicting images are shown.
 
-The general [[illusionism#regress|regress objection]] applies here—calling experience "illusory" requires something to experience the illusion—though as discussed in the [[illusionism]] article, many philosophers consider this objection question-begging since it presupposes the phenomenal character of seeming. What is distinctive about the split-brain case is Nagel's indeterminacy: consciousness resists the clean physical description that illusionism predicts. If consciousness were simply identical to certain neural patterns or cognitive processes, we would expect a determinate answer—the patterns either unify or divide. That consciousness is too unified for two minds yet too divided for one suggests something isn't captured by the physical story alone.
+The general [[illusionism#regress|regress objection]] applies here—calling experience "illusory" requires something to experience the illusion—though as discussed in the [[illusionism]] article, many philosophers consider this objection question-begging since it presupposes the phenomenal character of seeming. What is distinctive about the split-brain case is Nagel's indeterminacy. Illusionism predicts that once we fully describe the cognitive processes, no residual puzzle remains—the processes either unify or divide, and "consciousness" is just a label for what the processes are doing. But split-brain cases resist this closure: full knowledge of the neural and cognitive facts leaves the question of how many subjects are having experiences genuinely open. The phenomenal question persists alongside the physical description rather than collapsing into it.
 
 This doesn't prove dualism. But it shows that split-brain cases pose genuine puzzles even if—perhaps especially if—we try to explain consciousness away.
 
@@ -159,7 +163,7 @@ In a normal brain, actual occasions in each hemisphere prehend (feel into, incor
 
 ### The 2025 PNAS Findings in Process Terms
 
-The discovery that minimal fiber connections preserve full synchronization makes sense processually. Actual occasions don't require massive causal throughput to prehend each other—they need only sufficient connection for experiential relevance to transmit. A small ribbon of corpus callosum provides this, enabling what Miller et al. call "full synchrony" even with 99% of fibers severed.
+The discovery that minimal fiber connections preserve full neural synchronization makes sense processually. Actual occasions don't require massive causal throughput to prehend each other—they need only sufficient connection for experiential relevance to transmit. A small ribbon of corpus callosum provides this, enabling what Miller et al. call "full synchrony" even with 99% of fibers severed.
 
 ### Concrescence and the Layered Unity Model
 
@@ -205,9 +209,7 @@ The resilience of unity—even with minimal connections—suggests consciousness
 
 ### Minimal Quantum Interaction Tenet
 
-The connection to the binding problem is relevant. If quantum coherence in neural microtubules explains phenomenal unity (as Penrose-Hameroff suggest), split-brain cases may show what happens when macro-level communication is disrupted while quantum-level coherence potentially persists within each hemisphere. The asymmetry between perceptual division and response unity could reflect different integration mechanisms operating at different scales.
-
-The [[decoherence|decoherence challenge]] applies here: can quantum coherence survive in warm neural tissue long enough to matter? Recent research complicates the simple "no" that dominated earlier discussion—studies on microtubule-stabilizing drugs and quantum coherence in biological molecules suggest the question remains open. If the quantum Zeno mechanism operates through attention (which is neurally implemented in each hemisphere semi-independently), split-brain cases might reveal quantum selection occurring in parallel within each hemisphere, united only through the minimal surviving connections.
+If consciousness influences physical outcomes through minimal quantum interaction, split-brain cases pose a sharp question: when the brain divides, does the interaction mechanism divide with it? The persistence of response unity despite perceptual division suggests that whatever coordinates conscious experience operates at a level not fully determined by macro-level neural connectivity. One speculative possibility is that quantum-level coherence plays a role in binding (see [[decoherence]] for the challenges this faces), but the Map's core point does not depend on any particular mechanism: the asymmetry between perceptual division and response unity constrains any proposed account of how consciousness interacts with neural processes.
 
 ### Occam's Razor Has Limits Tenet
 
@@ -261,16 +263,15 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 - Gazzaniga, M.S., "Cerebral specialization and interhemispheric communication," *Brain* (2000)
 - Whitehead, A.N., *Process and Reality* (1929)
 
-<!-- AI REFINEMENT LOG - 2026-02-16
+<!-- AI REFINEMENT LOG - 2026-02-22
 Changes made:
-- Collapsed "The Regress Response" and "The Indeterminacy as Evidence" subsections into single "Why Split-Brain Cases Resist the Illusionist Reading" subsection
-- Removed duplicate deployment of regress argument; added cross-reference to illusionism.md#regress for canonical treatment
-- Added acknowledgment that many philosophers consider the regress objection question-begging
-- Preserved split-brain-specific contribution: Nagel's indeterminacy as evidence against illusionism (consciousness resists clean physical description)
-- Reduced ~250 words of repeated general argument to ~150 words focused on what's distinctive
+- Fixed non-sequitur: indeterminacy-favors-dualism argument now acknowledges physical vagueness (clouds, rivers, species) and reframes as compounding the hard problem rather than directly supporting dualism
+- Fixed neural synchronization / phenomenal unity conflation: added explicit distinction between fMRI BOLD correlates and experiential unity in "Resilience of Unity" section; qualified claims throughout to distinguish neural synchronization from phenomenal unity
+- Rewrote Minimal Quantum Interaction tenet section: replaced microtubule/quantum Zeno speculation with mechanism-neutral framing per style guide restraint requirements
+- Updated illusionism section's indeterminacy argument to avoid same non-sequitur; reframed as illusionism failing to dissolve the phenomenal question
 
-Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
-Key improvements: Eliminates repetition fatigue; focuses on what split-brain cases specifically reveal about illusionism's limitations.
+Based on pessimistic-2026-02-22-morning review (2 high-severity issues + style guide violation).
+Key improvements: Eliminates logical gaps while strengthening the hard-problem-centric argument.
 
 This log should be removed after human review.
 -->
