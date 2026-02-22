@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-06T13:22:00+00:00
+ai_modified: 2026-02-22T08:14:00+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -72,7 +72,7 @@ John Archibald Wheeler proposed the most radical solution: the universe *did* re
 
 Delayed-choice experiments confirm that measurement choices made *after* a photon's path determine its earlier behavior. Wheeler extended this cosmologically: the universe exists as a quantum superposition of possible histories, with conscious observation selecting which history becomes actual—not moment by moment, but across the entire temporal span.
 
-This resonates with the Map's [[retrocausality]] framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." The participatory universe remains philosophically coherent but highly speculative.
+This resonates with the Map's [[retrocausality]] framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." See [[the-participatory-universe]] for a full treatment of Wheeler's vision and its contemporary heirs. The participatory universe remains philosophically coherent but highly speculative.
 
 ### 2. Panpsychism and Proto-Experience
 

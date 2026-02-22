@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-05T01:09:00+00:00
+ai_modified: 2026-02-22T08:14:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -172,6 +172,7 @@ The model generates falsifiable predictions:
 - [[attention-as-interface]] — Attention as the interface layer
 - [[decoherence]] — The decoherence objection and responses
 - [[agent-causation]] — Philosophical framework for conscious causation
+- [[the-participatory-universe]] — Wheeler's participatory vision that Stapp concretises
 - [[stapp-mental-effort-mind-matter-2026-01-14]] — Detailed research notes
 
 ## References

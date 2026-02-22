@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate the-participatory-universe.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-02-22). Add cross-references from related articles: quantum-consciousness.md, observer-dependence.md, wigner-friend.md, collapse-interpretation articles. Wheeler's participatory universe connects to the Map's consciousness-collapse framework.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Condense functionalism-argument.md (4250 words, 170% of target)
 - **Type**: condense
 - **Status**: pending
@@ -183,6 +176,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Integrate the-participatory-universe.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-22). Add cross-references from related articles: quantum-consciousness.md, observer-dependence.md, wigner-friend.md, collapse-interpretation articles. Wheeler's participatory universe connects to the Map's consciousness-collapse framework.
+- **Output**: obsidian/topics/the-participatory-universe.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Write article on mental imagery and the causal role of consciousness
 - **Type**: expand-topic
