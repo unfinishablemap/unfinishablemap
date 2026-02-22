@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on the irreducibility of c
 created: 2026-01-14
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-02-22T03:50:00+00:00
+ai_modified: 2026-02-22T12:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[decoherence]]"
   - "[[concepts/many-worlds]]"
   - "[[haecceity]]"
+  - "[[idealism]]"
   - "[[intentionality]]"
   - "[[binding-problem]]"
   - "[[substance-property-dualism]]"
@@ -42,12 +43,13 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[topics/free-will]]"
+  - "[[analytic-idealism-and-mind-centric-metaphysics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated: null
-last_deep_review: 2026-02-21T01:36:00+00:00
+last_deep_review: 2026-02-22T12:32:00+00:00
 coalesced_from:
   - "/concepts/arguments-against-materialism/"
   - "/concepts/arguments-for-dualism/"
@@ -103,7 +105,7 @@ Conscious experience is unified: you experience visual field, sounds, bodily sen
 
 Arguments from quantum mechanics don't refute materialism directly but undermine its main defensive move. The [[causal-closure]] principle—that every physical event has a sufficient physical cause—is often deployed against non-physical influence. But quantum indeterminacy leaves room for causation that doesn't inject energy or violate conservation laws.
 
-The [[decoherence]] objection—that quantum coherence in neural systems is too brief for conscious processes—deserves serious engagement but is not decisive. Tegmark's (2000) original calculations have been contested, quantum biology demonstrates that warm biological systems can sustain quantum effects, and decoherence doesn't solve the [[measurement-problem|measurement problem]]. The opening the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires remains available. See [[quantum-consciousness]] and [[decoherence]] for detailed treatment.
+The [[decoherence]] objection—that quantum coherence in neural systems is too brief for conscious processes—deserves serious engagement but is not decisive. Tegmark's (2000) original calculations have been contested, quantum biology demonstrates that warm biological systems can sustain quantum effects (such as avian magnetoreception via radical pair mechanisms), and decoherence doesn't solve the [[measurement-problem|measurement problem]]. The opening the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires remains available. See [[quantum-consciousness]] and [[decoherence]] for detailed treatment.
 
 The [[concepts/many-worlds|Many-Worlds Interpretation]] attempts to dissolve the measurement problem entirely. The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects MWI on multiple grounds, centrally the indexical identity problem: "why am I in *this* branch?" seems meaningful, yet MWI cannot answer it. See [[concepts/many-worlds]] for detailed treatment.
 
@@ -145,6 +147,12 @@ No single argument establishes dualism conclusively—each has responses, and ph
 
 The explanatory gap, knowledge argument, conceivability argument, inverted qualia, modal arguments, subjectivity considerations, unity of consciousness, and intentionality exploit different features of consciousness through different logical routes, yet converge on the same conclusion: consciousness is not reducible to physical processes. A critic might note these arguments share a common starting point—the irreducibility intuition about phenomenal experience. But they exploit genuinely different features (qualitative character, subjectivity, unity, intentionality, modal separability) through different logical structures. If a single shared intuition were doing all the work, the arguments would not generate distinct objections and require distinct responses.
 
+## Why Dualism, Not Idealism?
+
+The anti-materialist arguments above are also claimed by [[idealism]]—particularly Bernardo Kastrup's analytic idealism, which holds that consciousness is the sole ontological primitive and physical reality is its extrinsic appearance. Idealism shares the conviction that physicalism fails, accepts the explanatory gap, and agrees that consciousness is fundamental rather than emergent.
+
+Why does the Map choose dualism? Three reasons. First, physical reality resists us in ways that suggest genuine ontological independence—the stone that stubs your toe behaves like something genuinely other, not your own experience repackaged. Second, the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] requires two genuinely distinct domains for cross-domain causation to be meaningful; if matter is mere appearance of consciousness, "interaction" loses its content. Third, idealism faces its own combination problem in reverse: explaining how one universal consciousness fragments into billions of apparently isolated subjects with no access to each other's experience. See [[idealism]] and [[analytic-idealism-and-mind-centric-metaphysics|analytic idealism and mind-centric metaphysics]] for detailed treatment.
+
 ## What Would Challenge This View?
 
 The cumulative case would be undermined if:
@@ -175,6 +183,8 @@ The Map does not commit to substance over property dualism—both support irredu
 
 **The Map's framework:** [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-of-occams-razor]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
 
+**Alternative frameworks:** [[idealism]], [[analytic-idealism-and-mind-centric-metaphysics|analytic idealism]]
+
 **Background:** [[dualism]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[introspection]], [[decoherence]], [[concepts/many-worlds]]
 
 ## References
@@ -187,6 +197,7 @@ The Map does not commit to substance over property dualism—both support irredu
 - Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 - Huemer, M. (2009). When is parsimony a virtue? *The Philosophical Quarterly*, 59(235), 216-236.
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
+- Kastrup, B. (2019). *The Idea of the World*. iff Books.
 - Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
 - Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 - Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
