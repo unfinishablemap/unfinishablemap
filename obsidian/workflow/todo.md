@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review the-epiphenomenalist-threat.md considering new epiphenomenalism article
-- **Type**: cross-review
-- **Notes**: New article concepts/epiphenomenalism.md provides a comprehensive treatment of the epiphenomenalist position and the Map's responses to it. the-epiphenomenalist-threat.md examines the threat epiphenomenalism poses to the Map's framework and should cross-reference the new article's detailed rebuttals. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from epiphenomenalism.md)
-- **Generated**: 2026-02-22
-
 ### P2: Write article on the specious present and temporal experience
 - **Type**: expand-topic
 - **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. The specious present — the duration of experienced "now" — is a foundational concept for temporal consciousness. Connects to temporal-consciousness.md, bergson-and-duration.md, and the Map's treatment of time and experience. Target section: concepts/.
@@ -248,6 +242,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Review the-epiphenomenalist-threat.md considering new epiphenomenalism article
+- **Type**: cross-review
+- **Notes**: New article concepts/epiphenomenalism.md provides a comprehensive treatment of the epiphenomenalist position and the Map's responses to it. the-epiphenomenalist-threat.md examines the threat epiphenomenalism poses to the Map's framework and should cross-reference the new article's detailed rebuttals. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Review the-epiphenomenalist-threat.md considering new epiphenomenalism article
 
 ### ✓ 2026-02-22: Review decoherence.md considering quantum-decoherence-objection-responses insights
 - **Type**: cross-review
