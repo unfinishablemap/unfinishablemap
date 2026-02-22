@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced substrate-independence-critique article
-- **Type**: cross-review
-- **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/concepts/substrate-independence/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
-- **Source**: coalesce
-- **Generated**: 2026-02-02
-
 ### P2: Condense llm-consciousness.md (4699 words, 188% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 4699 words, this is the longest concept article on the site. Preserve core arguments about substrate requirements and quantum randomness channel while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -138,6 +132,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Update references to coalesced substrate-independence-critique article
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/concepts/substrate-independence/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
+- **Output**: None -- Context: Update references to coalesced substrate-independence-critique article
 
 ### ✓ 2026-02-22: Strengthen Minimal Quantum Interaction cross-references
 - **Type**: cross-review
