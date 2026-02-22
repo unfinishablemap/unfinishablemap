@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Cross-review attention-as-interface.md considering voluntary attention control mechanisms
-- **Type**: cross-review
-- **Notes**: New article concepts/voluntary-attention-control-mechanisms.md provides mechanistic detail about thalamic gating and salience network control. concepts/attention-as-interface.md is the foundational hypothesis this implements and should cross-reference the new mechanistic evidence.
-- **Source**: chain (from voluntary-attention-control-mechanisms.md)
-- **Generated**: 2026-02-22
-
 ### P2: Cross-review agent-causation.md considering voluntary attention control mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/voluntary-attention-control-mechanisms.md explicitly frames thalamic gating mechanisms as where consciousness interrupts automatic processing. concepts/agent-causation.md should cross-reference these mechanisms as concrete instantiation of agent causation.
@@ -263,6 +257,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-22: Cross-review attention-as-interface.md considering voluntary attention control mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control-mechanisms.md provides mechanistic detail about thalamic gating and salience network control. concepts/attention-as-interface.md is the foundational hypothesis this implements and should cross-reference the new mechanistic evidence.
+- **Output**: obsidian/concepts/attention-as-interface.md -- Context: Cross-review attention-as-interface.md considering voluntary attention control mechanisms
 
 ### ✓ 2026-02-22: Write article on split-brain cases and unity of consciousness
 - **Type**: expand-topic

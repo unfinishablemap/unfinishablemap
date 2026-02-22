@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-02-12
 human_modified: null
-ai_modified: 2026-02-16T15:13:00+00:00
+ai_modified: 2026-02-22T16:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ concepts:
   - "[[concepts/many-worlds]]"
   - "[[introspection]]"
   - "[[attention-interface-mechanisms]]"
+  - "[[voluntary-attention-control-mechanisms]]"
   - "[[attention-schema-theory]]"
   - "[[concepts/functionalism]]"
   - "[[integrated-information-theory]]"
@@ -50,7 +51,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-16T15:13:00+00:00
+last_deep_review: 2026-02-22T16:40:00+00:00
 coalesced_from:
   - "/concepts/attention/"
   - "/concepts/voluntary-attention/"
@@ -59,15 +60,15 @@ coalesced_from:
 
 If consciousness influences the physical world—as The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds—how does it do so? The attention as interface hypothesis provides a specific answer: consciousness acts on matter through attention. Attention is not identical to consciousness but serves as the causal bridge between the non-physical subject and physical neural systems. What you attend to is what consciousness can influence.
 
-This article develops the hypothesis from its empirical foundations—the dissociation between attention and consciousness—through the neural signatures that mark consciousness's contribution, to the convergence of attentional and motor selection that points toward a single interface mechanism.
+This article develops the hypothesis from its empirical foundations through the neural signatures that mark consciousness's contribution to the convergence of attentional and motor selection that points toward a single interface mechanism.
 
 ## Attention and Consciousness Are Dissociable
 
 The interface hypothesis rests on a key distinction: attention and consciousness are related but separable processes. You can attend to things you are not conscious of (blindsight patients orient toward stimuli they deny seeing) and be conscious of things you are not attending to (peripheral awareness, the gist of a scene).
 
-Koch and Tsuchiya (2007) documented the evidence. Ned Block's iconic memory experiments showed subjects seeing all letters in a display though they could report only 3-4—consciousness "overflowing" attentional access. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
+Koch and Tsuchiya (2007) documented the evidence. Ned Block's analysis of iconic memory experiments (the Sperling paradigm) showed subjects seeing all letters in a display though they could report only 3-4—consciousness "overflowing" attentional access. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
 
-If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The [[concepts/functionalism|functionalist]] equation of consciousness with a functional role stumbles here: peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Something else is going on. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
+If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The [[concepts/functionalism|functionalist]] equation of consciousness with a functional role stumbles here: peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Frequency analysis adds a physiological dimension: consciousness content correlates with low gamma oscillations (~55-65 Hz) while attentional control operates in high gamma (~75-90 Hz), indicating separable neural processes. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
 
 ## The Hypothesis Stated
 
@@ -103,7 +104,7 @@ Three neural markers distinguish willed from instructed attention (Rajan et al. 
 
 **Additional frontal recruitment**: Willed attention engages DLPFC/ACC regions beyond those active during instructed attention—decision-making machinery that cued attention bypasses.
 
-These neural signatures identify what the Map claims consciousness contributes: genuinely initiating attentional shifts, not merely following instructions. If consciousness were identical to neural processing, willed and instructed attention should show identical signatures—both are "attention," after all. The neural distinction supports the claim that consciousness adds something when it decides.
+These neural signatures identify what the Map claims consciousness contributes: genuinely initiating attentional shifts, not merely following instructions. The distinction demands explanation: why would internally generated and externally cued shifts to the same location engage fundamentally different neural architectures? The additional computational load of generating a target internally does not obviously require bidirectional coherence or theta oscillations—those mark a qualitatively different process, not merely a harder version of the same one. See [[voluntary-attention-control-mechanisms]] for the full mechanistic analysis.
 
 ## Motor Selection Convergence
 
@@ -125,6 +126,7 @@ Where in the brain does the interface operate?
 |------|------|--------------------------|
 | **Frontoparietal networks** | Attention control | 2025 COGITATE found these distinct from consciousness networks (posterior) |
 | **Posterior "hot zone"** | Where conscious content resides (IIT) | Interface may be where posterior content meets frontoparietal gating |
+| **Salience network** | Anterior insula + ACC switching between networks | Voluntary interruption of ongoing processing |
 | **Thalamic nuclei** | Relay: ascending sensory meets descending voluntary | Selection at the "gate" determining cortical access |
 | **Ion channels (Stapp)** | Sites where quantum effects survive | [[mental-effort|Zeno effect]] via "probing actions" |
 | **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/s bandwidth |
@@ -156,7 +158,7 @@ FA practitioners develop stronger concentration; both selection and witnessing a
 
 **Integrated Information Theory** measures consciousness by Φ. A 2025 *Erkenntnis* critique argues IIT "urgently needs an account of attention." The Map's interpretation: IIT describes the conscious side; the interface hypothesis describes how consciousness engages with physical outcomes.
 
-**Predictive Processing** treats attention as precision weighting. This is computational description of what attention does functionally, compatible with the interface hypothesis: consciousness biases which precision signals win.
+**Predictive Processing** treats attention as precision weighting. This is a computational description of what attention does functionally, compatible with the interface hypothesis: consciousness biases which precision signals win.
 
 **Attention Schema Theory** proposes consciousness is the brain's model of its own attention. The Map's objection: if consciousness is merely a model, what does the "seeming"? AST explains access to attention states but not phenomenal character. See [[attention-schema-theory-critique|Why AST Fails]].
 
@@ -197,6 +199,8 @@ The hypothesis would fail if:
 **Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[interface-locality]], [[coupling-modes]], [[attentional-economics]], [[attention-disorders-and-quantum-interface|Attention Disorders and the Interface]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
 
 **Motor convergence**: [[motor-selection]], [[dopamine-selection-interface]], [[dopamine-and-the-unified-interface]]
+
+**Voluntary control**: [[voluntary-attention-control-mechanisms]] — frontal theta, salience switching, and thalamic gating
 
 **Mechanisms**: [[attention-interface-mechanisms]] — candidate neural sites, timing constraints, and testable predictions
 
