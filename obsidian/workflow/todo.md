@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense materialism-argument.md (3835 words, 153% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word critical threshold for arguments/. At 3835 words, well over the 2500-word hard threshold. Preserve core argument against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P1: Condense many-worlds-argument.md (3762 words, 150% of target)
 - **Type**: condense
 - **Status**: pending
@@ -198,6 +191,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense materialism-argument.md (3835 words, 153% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word critical threshold for arguments/. At 3835 words, well over the 2500-word hard threshold. Preserve core argument against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/arguments/materialism-argument.md
 
 ### ✓ 2026-02-22: Integrate temporal-ontology-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
