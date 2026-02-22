@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
-- **Type**: cross-review
-- **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.
-- **Source**: coalesce
-- **Generated**: 2026-02-11
-
 ### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
 - **Type**: cross-review
 - **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[[attention-interface-mechanisms]]`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
@@ -130,6 +124,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.
+- **Output**: None -- Context: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
 
 ### ✓ 2026-02-22: Update references to coalesced attention articles (attention, voluntary-attention, attention-motor-quantum-interface)
 - **Type**: cross-review
