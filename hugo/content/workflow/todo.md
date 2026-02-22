@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate surprise-and-creativity.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Article has zero inbound links. Only referenced in frontmatter of surprise-prediction-error-and-consciousness.md (not rendered). Should be linked from creativity-related articles, prediction-error content, and consciousness-and-mathematical-cognition.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Condense mind-matter-interface.md (3881 words, 155% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3881 words, second-longest concept article after psychophysical-laws. May contain redundancy with psychophysical-laws.md and princess-elizabeths-challenge.md which cover overlapping territory. Preserve core framework while tightening. See /condense skill.
@@ -219,6 +213,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Integrate surprise-and-creativity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Article has zero inbound links. Only referenced in frontmatter of surprise-prediction-error-and-consciousness.md (not rendered). Should be linked from creativity-related articles, prediction-error content, and consciousness-and-mathematical-cognition.md.
+- **Output**: surprise-and-creativity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Integrate mental-imagery-causal-role-of-consciousness.md into site navigation
 - **Type**: integrate-orphan

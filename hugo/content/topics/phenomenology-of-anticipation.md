@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-10 10:32:00+00:00
+ai_modified: 2026-02-22 11:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[voids-temporal-asymmetry-remembering-anticipating-2026-01-21]]'
 - '[[time-collapse-and-agency]]'
 - '[[topics/free-will]]'
+- '[[surprise-prediction-error-and-consciousness]]'
 title: The Phenomenology of Anticipation
 topics:
 - '[[hard-problem-of-consciousness]]'

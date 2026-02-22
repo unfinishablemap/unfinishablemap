@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 13:21:00+00:00
+ai_modified: 2026-02-22 11:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[creativity-consciousness-and-novel-thought]]'
 - '[[topics/free-will]]'
 - '[[process-and-consciousness]]'
+- '[[surprise-prediction-error-and-consciousness]]'
 title: The Creativity Void
 topics:
 - '[[philosophy-of-mind]]'

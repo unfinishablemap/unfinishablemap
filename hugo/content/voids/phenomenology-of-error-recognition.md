@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-01 14:16:00+00:00
+ai_modified: 2026-02-22 11:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[thoughts-that-slip-away]]'
 - '[[limits-reveal-structure]]'
+- '[[surprise-prediction-error-and-consciousness]]'
 title: The Phenomenology of Error Recognition
 topics:
 - '[[hard-problem-of-consciousness]]'

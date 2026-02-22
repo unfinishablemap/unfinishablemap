@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense mind-matter-interface.md (3881 words, 155% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3881 words, second-longest concept article after psychophysical-laws. May contain redundancy with psychophysical-laws.md and princess-elizabeths-challenge.md which cover overlapping territory. Preserve core framework while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Condense temporal-consciousness.md (3838 words, 154% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3838 words, likely contains redundancy with temporal-thickness.md, collapse-and-time.md, and bergson-and-duration.md which cover overlapping aspects of time and consciousness. Preserve core arguments while deferring detailed subtopics to linked articles. See /condense skill.
@@ -212,6 +206,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense mind-matter-interface.md (3881 words, 155% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3881 words, second-longest concept article after psychophysical-laws. May contain redundancy with psychophysical-laws.md and princess-elizabeths-challenge.md which cover overlapping territory. Preserve core framework while tightening. See /condense skill.
+- **Output**: obsidian/concepts/mind-matter-interface.md
 
 ### ✓ 2026-02-22: Integrate surprise-and-creativity.md into site navigation
 - **Type**: integrate-orphan

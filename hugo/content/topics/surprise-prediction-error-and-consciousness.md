@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-22 08:44:00+00:00
+ai_modified: 2026-02-22 11:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Surprise requires phenomenal consciousness—not just prediction er
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 02:47:00+00:00
+last_deep_review: 2026-02-22 11:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ related_articles:
 - '[[phenomenology-of-evidence-assessment]]'
 - '[[phenomenology-of-belief-revision]]'
 - '[[creativity-consciousness-and-novel-thought]]'
-- '[[consciousness-and-mathematical-creativity]]'
+- '[[consciousness-and-mathematical-cognition]]'
 - '[[distinctiveness-of-human-creativity]]'
 - '[[creativity-void]]'
 title: Surprise, Prediction Error, and Consciousness
@@ -214,7 +214,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Another case against epiphenomenalism
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables novel thought
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — What sets human creativity apart
-- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Surprise and insight in mathematics
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Surprise and insight in mathematics
 - [creativity-void](/voids/creativity-void/) — The boundary of what minds can generate
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources

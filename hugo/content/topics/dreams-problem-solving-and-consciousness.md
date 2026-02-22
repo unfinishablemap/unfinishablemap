@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-02-07 01:26:00+00:00
+ai_modified: 2026-02-22 11:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[lucid-dreaming-and-consciousness]]'
 - '[[creativity-consciousness-and-novel-thought]]'
 - '[[dreams-problem-solving-lucid-dreaming-2026-02-06]]'
+- '[[surprise-prediction-error-and-consciousness]]'
 title: Lucid Dreams, Problem-Solving, and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
