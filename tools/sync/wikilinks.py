@@ -24,7 +24,7 @@ SYNC_DIRS = [
 def convert_wikilinks(
     content: str,
     base_path: str = "/",
-    link_resolver: Optional[Callable[[str], str]] = None,
+    link_resolver: Optional[Callable[[str], str | None]] = None,
 ) -> str:
     """
     Convert Obsidian [[wikilinks]] to Hugo markdown links.
@@ -79,6 +79,10 @@ def convert_wikilinks(
             url = link_resolver(target)
         else:
             url = default_link_resolver(target, base_path)
+
+        # None means "strip to plain text" (e.g. broken wikilink in review file)
+        if url is None:
+            return display_text
 
         # Add heading anchor if present
         if heading:

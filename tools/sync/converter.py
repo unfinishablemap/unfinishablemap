@@ -270,7 +270,18 @@ def convert_file(
             slug = slugify(target)
             if slug in content_index:
                 return content_index[slug]
-            # Record error — target not found in content index
+            # Review files: strip broken wikilinks to plain text (return None)
+            # rather than creating broken URLs on the published site.
+            is_review = "reviews" in source_path.parts
+            if is_review:
+                log.warning(
+                    "Stripping broken wikilink [[%s]] in review file %s",
+                    target,
+                    source_path,
+                )
+                return None
+
+            # Content files: record error — target not found in content index
             if report is not None:
                 report.broken_wikilinks.append(
                     BrokenWikilink(
