@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
-- **Type**: cross-review
-- **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-16
-
 ### P2: Update references to coalesced psychophysical-coupling article
 - **Type**: cross-review
 - **Notes**: Coalesce (2026-02-16) merged `psychophysical-coupling.md` into `psychophysical-laws.md`. ~27 active content files reference `[[psychophysical-coupling]]` across concepts/, topics/, and research/. Key files include: consciousness-selecting-neural-patterns.md, selection-laws.md, spontaneous-collapse-theories.md, interactionist-dualism.md, mental-causation.md, stapp-quantum-mind.md, coupling-modes.md, attention-as-interface.md, bidirectional-interaction.md, brain-specialness-boundary.md, hard-problem-of-consciousness.md, psychophysical-laws-bridging-mind-and-matter.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to psychophysical-laws where appropriate.
@@ -160,6 +154,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
+- **Type**: cross-review
+- **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
+- **Output**: obsidian/concepts/phenomenology.md -- Context: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 
 ### ✓ 2026-02-22: Update references to coalesced metarepresentation article
 - **Type**: cross-review

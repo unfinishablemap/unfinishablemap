@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 00:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology]]
+- **Word count**: 2622 → 2631 (+9)
+- **Critical issues addressed**: 1 (misattribution of Peng & Hagar 2025 to Gallagher & Zahavi)
+- **Medium issues addressed**: 2 (missing intuitive-dualism cross-link, stale refinement log)
+- **Enhancements made**: 1 (intuitive-dualism wikilink added)
+- **Output**: [[reviews/deep-review-2026-02-22-phenomenology]]
+
 ## 2026-02-22 00:50 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-problem-of-measurement-standards]]
