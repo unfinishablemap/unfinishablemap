@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concept-of-consciousness-and-social-cognition.md (3776 words, 107% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3776 words, likely contains redundancy with consciousness-and-social-cognition.md which covers overlapping territory. Preserve core arguments while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Update references to coalesced contemplative evidence articles
 - **Type**: other
 - **Notes**: Coalesce created [[contemplative-evidence-for-consciousness]]. The following 28 active content files reference the archived [[contemplative-evidence-for-consciousness-theories]] and need wikilinks updated to point to the new article: empirical-evidence-for-consciousness-selecting, indian-philosophy-of-mind, contemplative-neuroscience, bergson-and-duration, the-self-minimal-narrative-and-substantial, phenomenological-psychiatry-and-altered-experience, consciousness-and-the-neuroscience-of-deliberate-practice, neuroplasticity, moral-perception, normative-phenomenology, aesthetic-dimension-of-consciousness, phenomenology-of-evidence-assessment, phenomenology-of-temporal-attention, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-hard-problem-in-non-western-philosophy, phenomenology-of-normative-properties, non-temporal-consciousness, phenomenology-of-moral-experience, phenomenal-value-realism, epiphenomenalism, contemplative-reliability, contemplative-methods-as-philosophical-methodology, methodological-pluralism, contemplative-epistemology, contemplative-path (apex), phenomenological-evidence, eastern-philosophy-consciousness.
@@ -233,6 +227,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense concept-of-consciousness-and-social-cognition.md (3776 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3776 words, likely contains redundancy with consciousness-and-social-cognition.md which covers overlapping territory. Preserve core arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/concept-of-consciousness-and-social-cognition.md
 
 ### ✓ 2026-02-22: Condense epiphenomenalism-argument.md (3052 words, 122% of hard threshold)
 - **Type**: condense

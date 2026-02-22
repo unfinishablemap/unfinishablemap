@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 14:40 UTC - condense
+- **Status**: Success
+- **File**: [[concept-of-consciousness-and-social-cognition]]
+- **Before**: 3592
+- **After**: 2153
+- **Reduction**: 40%
+- **Technique**: Removed tangential sections (Illusionist Challenge, Contemplative Perspectives, Process Philosophy), consolidated Empathy into unified treatment, trimmed Primate Baseline and AI sections, tightened ToM levels and falsification conditions
+
 ## 2026-02-22 14:31 UTC - deep-review
 - **Status**: Success
 - **File**: [[hoel-llm-consciousness-continual-learning]]
