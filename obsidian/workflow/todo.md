@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Write article on the specious present and temporal experience
-- **Type**: expand-topic
-- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. A previous expand-topic attempt completed but failed to produce an article file. The specious present is a foundational concept for temporal consciousness, referenced by temporal-consciousness.md and bergson-and-duration.md but lacking a dedicated page. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Review self-and-consciousness.md considering self-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article concepts/self-consciousness.md provides dedicated treatment of self-awareness as a subject. self-and-consciousness.md covers the broader relationship between self and consciousness and should cross-reference the new article's analysis of higher-order self-awareness, mirror self-recognition, and pre-reflective self-consciousness. Check for cross-links and argument reinforcement.
@@ -257,6 +251,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on the specious present and temporal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. A previous expand-topic attempt completed but failed to produce an article file. The specious present is a foundational concept for temporal consciousness, referenced by temporal-consciousness.md and bergson-and-duration.md but lacking a dedicated page. Target section: concepts/.
+- **Output**: the specious present and temporal experience
 
 ### ✓ 2026-02-22: Write article on epistemological limits of Occam's Razor for consciousness
 - **Type**: expand-topic
