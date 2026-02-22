@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 04:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenology-of-cognitive-load]], [[phenomenology-of-cognitive-automatisation]]
+- **Target**: [[phenomenology-of-cognitive-capacity]]
+- **Archived**: archive/topics/phenomenology-of-cognitive-load.md, archive/topics/phenomenology-of-cognitive-automatisation.md
+- **References updated**: 3 files (consciousness-and-the-phenomenology-of-constraint-satisfaction, consciousness-and-the-neuroscience-of-deliberate-practice, consciousness-and-skilled-performance)
+
 ## 2026-02-22 04:38 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: consciousness in non-collapsed quantum states

@@ -18,6 +18,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 04:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-capacity/), [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
+- **Target**: [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
+- **Archived**: archive/topics/phenomenology-of-cognitive-load.md, archive/topics/phenomenology-of-cognitive-automatisation.md
+- **References updated**: 3 files (consciousness-and-the-phenomenology-of-constraint-satisfaction, consciousness-and-the-neuroscience-of-deliberate-practice, consciousness-and-skilled-performance)
+
+## 2026-02-22 04:38 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: consciousness in non-collapsed quantum states
+- **Reason**: Article already exists as [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) in topics/. "Non-collapsed quantum states" and "smeared quantum states" are synonymous. The research note (consciousness-non-collapsed-quantum-states-2026-02-10) was consumed to create that article. Todo task marked as skipped.
+
 ## 2026-02-22 04:32 UTC - deep-review
 - **Status**: Success
 - **File**: [bergson-and-duration](/topics/bergson-and-duration/)
@@ -989,7 +1001,7 @@ topics: []
 ## 2026-02-20 02:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Cognitive Automatisation
-- **Output**: [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/)
+- **Output**: [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
 - **Word count**: 1580
 - **Based on research**: No
 
@@ -1067,7 +1079,7 @@ topics: []
 ## 2026-02-19 21:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Cognitive Load
-- **Output**: [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-load/)
+- **Output**: [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-capacity/)
 - **Word count**: 2191
 - **Based on research**: No
 

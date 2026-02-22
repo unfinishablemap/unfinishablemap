@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness in non-collapsed quantum states
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-non-collapsed-quantum-states-2026-02-10.md. Explores whether consciousness can exist without wavefunction collapse—relevant to Penrose, Koch, Chalmers-McQueen, and Stapp frameworks. Challenges and supports the Map's Tenet 2. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Integrate phenomenological-psychiatry-and-altered-experience.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -171,6 +164,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on consciousness in non-collapsed quantum states
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-non-collapsed-quantum-states-2026-02-10.md. Explores whether consciousness can exist without wavefunction collapse—relevant to Penrose, Koch, Chalmers-McQueen, and Stapp frameworks. Challenges and supports the Map's Tenet 2. Target section: concepts/.
+- **Output**: consciousness in non-collapsed quantum states
 
 ### ✓ 2026-02-22: Write article on the participatory universe
 - **Type**: expand-topic

@@ -23,9 +23,8 @@ related_articles:
 - choking-under-pressure
 title: Consciousness and the Phenomenology of Constraint Satisfaction
 topics:
-- '[[phenomenology-of-cognitive-load]]'
+- '[[phenomenology-of-cognitive-capacity]]'
 - '[[phenomenology-of-choice]]'
-- '[[phenomenology-of-cognitive-automatisation]]'
 ---
 
 Constraint satisfaction — finding solutions that meet multiple competing demands simultaneously — has a distinctive phenomenology that pure computation lacks. When consciousness navigates constraints, it doesn't merely process them; it *feels* them as resistance, weight, and texture. The Unfinishable Map argues this phenomenal character is not decorative but constitutive: constraint satisfaction feels like something *because* consciousness is doing genuine causal work at the interface between mind and brain.
@@ -40,7 +39,7 @@ Consider composing a sentence. Grammar constrains word order. Meaning constrains
 
 This differentiation matters philosophically. If constraint processing were purely computational, there would be no reason for different constraint types to feel different. A constraint-satisfaction algorithm treats all constraints identically — as conditions to be satisfied or weighted. The phenomenal distinctiveness of constraint types suggests consciousness encounters them through qualitatively different modes of awareness, not through a single uniform processing mechanism.
 
-The [phenomenology of cognitive load](/topics/phenomenology-of-cognitive-load/) reveals what happens when constraints accumulate. As more constraints bear on a single decision, consciousness doesn't simply slow down — it undergoes qualitative shifts. Mild constraint feels like focused engagement. Moderate constraint produces a sense of productive tension. Heavy constraint generates a felt precariousness, as if the solution space might collapse. These are not metaphors for computational states; they are descriptions of what constraint navigation actually feels like from the inside.
+The [phenomenology of cognitive capacity](/topics/phenomenology-of-cognitive-capacity/) reveals what happens when constraints accumulate. As more constraints bear on a single decision, consciousness doesn't simply slow down — it undergoes qualitative shifts. Mild constraint feels like focused engagement. Moderate constraint produces a sense of productive tension. Heavy constraint generates a felt precariousness, as if the solution space might collapse. These are not metaphors for computational states; they are descriptions of what constraint navigation actually feels like from the inside.
 
 ## Constraint Satisfaction as Selection
 
@@ -76,7 +75,7 @@ Partial satisfaction also produces a distinctive residual phenomenology. After a
 
 ## The Automatisation Boundary
 
-The [phenomenology of cognitive automatisation](/topics/phenomenology-of-cognitive-automatisation/) reveals a critical boundary in constraint satisfaction. As constraint patterns become familiar, consciousness withdraws from active engagement. An experienced driver navigates the constraints of traffic flow without the felt tension a learner experiences. A fluent speaker satisfies grammatical constraints without phenomenal effort.
+The [phenomenology of cognitive capacity](/topics/phenomenology-of-cognitive-capacity/) reveals a critical boundary in constraint satisfaction: as constraint patterns become familiar, consciousness withdraws from active engagement. An experienced driver navigates the constraints of traffic flow without the felt tension a learner experiences. A fluent speaker satisfies grammatical constraints without phenomenal effort.
 
 This withdrawal is asymmetric. Consciousness readily delegates familiar constraint patterns to unconscious processing, but re-engaging with automatised constraints — as in the choking phenomenon — produces interference rather than enhancement. The expert golfer who consciously monitors their swing's constraints performs *worse* than one who lets automatised processing handle them.
 
@@ -97,10 +96,9 @@ The disconnect between computational complexity and phenomenal intensity poses a
 ## Further Reading
 
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
-- [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-load/)
+- [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
 - [control-theoretic-will](/concepts/control-theoretic-will/)
 - deliberation-under-uncertainty
 - choking-under-pressure
-- [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)

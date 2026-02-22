@@ -6,6 +6,11 @@ modified: 2026-02-19
 human_modified:
 ai_modified: 2026-02-22T03:17:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-22T04:43:00+00:00
+superseded_by: "/topics/phenomenology-of-cognitive-capacity/"
+archive_reason: "Coalesced into The Phenomenology of Cognitive Capacity"
+original_path: "/topics/phenomenology-of-cognitive-load/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

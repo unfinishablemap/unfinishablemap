@@ -25,7 +25,7 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-flow-states]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
-  - "[[phenomenology-of-cognitive-automatisation]]"
+  - "[[phenomenology-of-cognitive-capacity]]"
   - "[[epiphenomenalism]]"
   - "[[mental-causation]]"
   - "[[downward-causation]]"
@@ -110,7 +110,7 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 - [[choking-phenomenon-mental-causation]] — What happens when consciousness re-enters automated skills
 - [[attention-as-interface]] — How attention mediates between consciousness and neural systems
 - [[contemplative-evidence-for-consciousness-theories]] — Meditation as a parallel case of deliberate practice
-- [[phenomenology-of-cognitive-automatisation]] — What it feels like as skills withdraw from conscious control
+- [[phenomenology-of-cognitive-capacity]] — What it feels like as skills withdraw from conscious control and capacity frees up
 - [[evolutionary-case-for-mental-causation]] — The broader argument that consciousness must do something
 - [[surprise-prediction-error-and-consciousness]] — How error signals and conscious correction relate to prediction
 

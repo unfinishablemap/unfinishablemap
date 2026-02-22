@@ -184,7 +184,7 @@ The strongest physicalist counterargument is that executive attention networks, 
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between authored and discovered action
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The cognitive parallel to motor skill transition
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) — The neural evidence for practice quality mattering
-- [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/) — What it is like as processes become automatic
+- [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — What it is like as processes become automatic and capacity frees up
 - [motor-selection](/concepts/motor-selection/) — Conscious selection in motor systems
 - [interface-friction](/concepts/interface-friction/) — The resistance at the mind-brain interface that effort tracks
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The levels of consciousness that map onto the phases of skill

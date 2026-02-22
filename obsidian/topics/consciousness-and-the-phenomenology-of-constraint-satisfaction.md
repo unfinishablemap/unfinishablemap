@@ -7,9 +7,8 @@ human_modified:
 ai_modified: 2026-02-20T08:36:00+00:00
 draft: false
 topics:
-  - "[[phenomenology-of-cognitive-load]]"
+  - "[[phenomenology-of-cognitive-capacity]]"
   - "[[phenomenology-of-choice]]"
-  - "[[phenomenology-of-cognitive-automatisation]]"
 concepts:
   - "[[control-theoretic-will]]"
   - "[[interactionist-dualism]]"
@@ -38,7 +37,7 @@ Consider composing a sentence. Grammar constrains word order. Meaning constrains
 
 This differentiation matters philosophically. If constraint processing were purely computational, there would be no reason for different constraint types to feel different. A constraint-satisfaction algorithm treats all constraints identically — as conditions to be satisfied or weighted. The phenomenal distinctiveness of constraint types suggests consciousness encounters them through qualitatively different modes of awareness, not through a single uniform processing mechanism.
 
-The [[phenomenology-of-cognitive-load|phenomenology of cognitive load]] reveals what happens when constraints accumulate. As more constraints bear on a single decision, consciousness doesn't simply slow down — it undergoes qualitative shifts. Mild constraint feels like focused engagement. Moderate constraint produces a sense of productive tension. Heavy constraint generates a felt precariousness, as if the solution space might collapse. These are not metaphors for computational states; they are descriptions of what constraint navigation actually feels like from the inside.
+The [[phenomenology-of-cognitive-capacity|phenomenology of cognitive capacity]] reveals what happens when constraints accumulate. As more constraints bear on a single decision, consciousness doesn't simply slow down — it undergoes qualitative shifts. Mild constraint feels like focused engagement. Moderate constraint produces a sense of productive tension. Heavy constraint generates a felt precariousness, as if the solution space might collapse. These are not metaphors for computational states; they are descriptions of what constraint navigation actually feels like from the inside.
 
 ## Constraint Satisfaction as Selection
 
@@ -74,7 +73,7 @@ Partial satisfaction also produces a distinctive residual phenomenology. After a
 
 ## The Automatisation Boundary
 
-The [[phenomenology-of-cognitive-automatisation|phenomenology of cognitive automatisation]] reveals a critical boundary in constraint satisfaction. As constraint patterns become familiar, consciousness withdraws from active engagement. An experienced driver navigates the constraints of traffic flow without the felt tension a learner experiences. A fluent speaker satisfies grammatical constraints without phenomenal effort.
+The [[phenomenology-of-cognitive-capacity|phenomenology of cognitive capacity]] reveals a critical boundary in constraint satisfaction: as constraint patterns become familiar, consciousness withdraws from active engagement. An experienced driver navigates the constraints of traffic flow without the felt tension a learner experiences. A fluent speaker satisfies grammatical constraints without phenomenal effort.
 
 This withdrawal is asymmetric. Consciousness readily delegates familiar constraint patterns to unconscious processing, but re-engaging with automatised constraints — as in the choking phenomenon — produces interference rather than enhancement. The expert golfer who consciously monitors their swing's constraints performs *worse* than one who lets automatised processing handle them.
 
@@ -95,10 +94,9 @@ The disconnect between computational complexity and phenomenal intensity poses a
 ## Further Reading
 
 - [[neural-bandwidth-constraints-and-the-interface]]
-- [[phenomenology-of-cognitive-load]]
+- [[phenomenology-of-cognitive-capacity]]
 - [[phenomenology-of-choice]]
 - [[control-theoretic-will]]
 - deliberation-under-uncertainty
 - choking-under-pressure
-- [[phenomenology-of-cognitive-automatisation]]
 - [[predictive-processing-and-the-maps-framework]]

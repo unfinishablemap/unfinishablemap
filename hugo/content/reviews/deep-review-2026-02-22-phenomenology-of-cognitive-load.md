@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [The Phenomenology of Cognitive Load](/topics/phenomenology-of-cognitive-load/)
+**Article**: [The Phenomenology of Cognitive Load](/topics/phenomenology-of-cognitive-capacity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -51,14 +51,14 @@ None.
 ### Enhancements Made
 - Expanded MQI section with three new cross-links (`[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`, `[attention-as-interface](/concepts/attention-as-interface/)`, `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)`) and bandwidth constraint context
 - Added No Many Worlds tenet connection exploring how phenomenology of loss presupposes singular determination
-- Added `[phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/)` cross-link in Flow section, showing how automatisation reduces conscious load
+- Added `[phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)` cross-link in Flow section, showing how automatisation reduces conscious load
 - Added `[attention-as-interface](/concepts/attention-as-interface/)` and `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` to Further Reading
 
 ### Cross-links Added
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
-- [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/)
+- [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
 
 ## Remaining Items
 

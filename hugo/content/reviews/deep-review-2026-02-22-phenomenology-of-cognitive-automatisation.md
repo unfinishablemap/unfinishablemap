@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [The Phenomenology of Cognitive Automatisation](/topics/phenomenology-of-cognitive-automatisation/)
+**Article**: [The Phenomenology of Cognitive Automatisation](/topics/phenomenology-of-cognitive-capacity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
