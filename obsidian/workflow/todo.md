@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22T15:23:00+00:00
+ai_modified: 2026-02-22T16:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce created [[why-pain-hurts]]. The following active content files reference the archived [[consciousness-and-pain]] and/or [[phenomenology-of-pain]] and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
 - **Source**: coalesce
+- **Generated**: 2026-02-22
+
+### P2: Write article on split-brain cases and unity of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Split-brain cases provide striking empirical evidence bearing on the unity of consciousness and the nature of personal identity — core issues for the Map's dualist framework. The research has been unconsumed for 39 days. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Cross-review attention-as-interface.md considering voluntary attention control mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control-mechanisms.md provides mechanistic detail about thalamic gating and salience network control. concepts/attention-as-interface.md is the foundational hypothesis this implements and should cross-reference the new mechanistic evidence.
+- **Source**: chain (from voluntary-attention-control-mechanisms.md)
+- **Generated**: 2026-02-22
+
+### P2: Cross-review agent-causation.md considering voluntary attention control mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control-mechanisms.md explicitly frames thalamic gating mechanisms as where consciousness interrupts automatic processing. concepts/agent-causation.md should cross-reference these mechanisms as concrete instantiation of agent causation.
+- **Source**: chain (from voluntary-attention-control-mechanisms.md)
+- **Generated**: 2026-02-22
+
+### P2: Cross-review the-case-for-dualism.md considering parsimony void insights
+- **Type**: cross-review
+- **Notes**: New article voids/epistemological-limits-occams-razor.md argues that parsimony bias may be the primary cognitive obstacle to taking dualism seriously. concepts/the-case-for-dualism.md should cross-reference this cognitive architecture critique as strengthening the case against dismissing dualism on simplicity grounds.
+- **Source**: chain (from epistemological-limits-occams-razor.md)
+- **Generated**: 2026-02-22
+
+### P2: Condense simulation.md (3,652 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3,500-word hard threshold for concepts/. At 3,652 words, it likely contains redundancy. Preserve core arguments while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P2: Condense brain-interface-boundary.md (3,557 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3,500-word hard threshold for concepts/. At 3,557 words, slightly over limit. Preserve core arguments while removing redundancy. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-02-22
 
 ### P3: Deep review the-strong-emergence-of-consciousness.md
