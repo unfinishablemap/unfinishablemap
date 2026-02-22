@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-20T13:06:00+00:00
+ai_modified: 2026-02-22T12:15:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -27,6 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
+last_deep_review: 2026-02-22T12:15:00+00:00
 ---
 
 The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans; consciousness selects among them through a ~10 bits/second channel. This architecture finds a natural analogue in control theory—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
@@ -74,7 +75,7 @@ The Zeno mechanism (however it physically operates) functions as a stabilising f
 
 ### Veto
 
-The [[concepts/consciousness-selecting-neural-patterns#Policy-Level Selection|policy-level selection]] framework includes veto—blocking an action the brain has prepared. Libet himself suggested this: even if the readiness potential begins before conscious awareness, consciousness can veto the action within a ~200ms window. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
+The [[concepts/consciousness-selecting-neural-patterns#Policy-Level Selection|policy-level selection]] framework includes veto—blocking an action the brain has prepared. Benjamin Libet's experiments showed that a readiness potential (a buildup of electrical activity in motor cortex) begins ~550ms before action, well before conscious awareness of the intention at ~200ms. Libet (1985) proposed that consciousness can still veto the action in the remaining window before execution. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
 
 Veto requires minimal bandwidth. A single bit ("stop/go") suffices for the basic operation. This makes it perhaps the most plausible form of conscious control—even a ~10 bits/second channel can issue many veto signals per second.
 
@@ -142,12 +143,13 @@ Conflating the model with the ontology would be a category error—treating a us
 
 **Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? This connects to [[attentional-economics#Implications for Moral Responsibility|moral responsibility]]—control failures may carry different moral weight than control refusals.
 
-**Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
+**Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. Schwartz & Begley (2002) document how directed mental effort produces measurable neuroplastic changes in OCD patients, suggesting the controller can reshape the plant it governs. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
 
 **Observability limits.** Not all brain states are accessible to consciousness—most neural processing is unconscious. In control terms, the system is only partially observable. What determines which states are observable (and therefore controllable) may be a fundamental architectural question about the mind-brain interface.
 
 ## Further Reading
 
+- [[concept-of-free-will]] — The Map's broader treatment of will and agency
 - [[attention-as-interface]] — The interface hypothesis that grounds the controller's output channel
 - [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism the controller employs
 - [[attentional-economics]] — The economics of the controller's scarce bandwidth
@@ -160,6 +162,7 @@ Conflating the model with the ontology would be a category error—treating a us
 ## References
 
 - Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
+- Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
 - Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
