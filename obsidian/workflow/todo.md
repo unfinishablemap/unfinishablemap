@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on reductionism and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/reductionism-consciousness-philosophy-2026-01-19.md. Examines why reductionism fails for consciousness—directly supports Tenet 1 (Dualism). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Review articles considering epistemological limits of Occam's Razor insights
 - **Type**: cross-review
 - **Status**: pending
@@ -184,6 +177,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on reductionism and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reductionism-consciousness-philosophy-2026-01-19.md. Examines why reductionism fails for consciousness—directly supports Tenet 1 (Dualism). Target section: concepts/.
+- **Output**: reductionism and consciousness
 
 ### ✓ 2026-02-22: Write article on motor control and the quantum Zeno framework
 - **Type**: expand-topic
