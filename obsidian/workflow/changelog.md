@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 14:45 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-and-pain]], [[phenomenology-of-pain]]
+- **Target**: [[why-pain-hurts]]
+- **Archived**: [[archive/topics/consciousness-and-pain]], [[archive/topics/phenomenology-of-pain]]
+- **References to review**: 13 files (consciousness-and-pain refs: pain-asymbolia, valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, voids-valence-void research; phenomenology-of-pain refs: phenomenal-depth, pain-asymbolia, suffering-versus-pain, phenomenological-psychiatry-and-altered-experience, pain-asymbolia-as-central-test-case)
+
 ## 2026-02-22 14:40 UTC - condense
 - **Status**: Success
 - **File**: [[concept-of-consciousness-and-social-cognition]]

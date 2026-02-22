@@ -43,6 +43,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
+### P2: Update references to coalesced pain articles
+- **Type**: other
+- **Notes**: Coalesce created [[why-pain-hurts]]. The following active content files reference the archived [[consciousness-and-pain]] and/or [[phenomenology-of-pain]] and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
+- **Source**: coalesce
+- **Generated**: 2026-02-22
+
 ### P2: Address argumentative gaps in self-and-consciousness.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review found two high-severity issues: (1) the "transparent to whom?" rebuttal of Metzinger begs the question by presupposing the irreducible subject it aims to establish, (2) temporal status of the minimal self is ambiguous—the article claims compatibility with Buddhist impermanence while making claims that may require persistence. Also needs to address Metzinger's zero-person perspective (MPE). See pessimistic-2026-02-22-afternoon.md

@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-02-10T15:57:00+00:00
 last_deep_review: 2026-02-10T15:57:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-22T14:45:00+00:00
+superseded_by: "/topics/why-pain-hurts/"
+archive_reason: "Coalesced into Why Pain Hurts: Phenomenal Character and Causal Power"
+original_path: "/topics/phenomenology-of-pain/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenal-consciousness]]"
