@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-20 19:06:00+00:00
+ai_modified: 2026-02-22 08:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -58,7 +58,7 @@ Retrocausality has serious proponents and empirical grounding in physics.
 
 **Time-symmetric equations**: Quantum mechanics' fundamental equations work equally well forward or backward. The apparent "arrow of time" in measurement is an addition to the formalism. As Huw Price argues, if physics is time-symmetric and causal, retrocausality follows necessarily. See [time-symmetric-physics](/concepts/time-symmetric-physics/) for how T-symmetry operates across physics domains, and [collapse-and-time](/concepts/collapse-and-time/) for how collapse introduces temporal asymmetry.
 
-**Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres. Wheeler extended this cosmologically in his "participatory universe"—future observers retroactively selecting the entire cosmic history. See [prebiotic-collapse](/concepts/prebiotic-collapse/#wheelers-participatory-universe) for how this addresses the question of what collapsed wavefunctions before consciousness existed.
+**Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres. Wheeler extended this cosmologically in his [participatory universe](/topics/the-participatory-universe/)—future observers retroactively selecting the entire cosmic history. See [prebiotic-collapse](/concepts/prebiotic-collapse/#wheelers-participatory-universe) for how this addresses the question of what collapsed wavefunctions before consciousness existed.
 
 **The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
 

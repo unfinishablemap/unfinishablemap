@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-05 01:09:00+00:00
+ai_modified: 2026-02-22 08:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -174,6 +174,7 @@ The model generates falsifiable predictions:
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for conscious causation
+- [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's participatory vision that Stapp concretises
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes
 
 ## References

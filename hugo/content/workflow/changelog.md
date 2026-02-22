@@ -18,6 +18,97 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 08:24 UTC - condense
+- **Status**: Success
+- **File**: [functionalism-argument](/arguments/functionalism-argument/)
+- **Before**: 4250 words
+- **After**: 2447 words
+- **Reduction**: 42%
+- **Technique**: Cut Process Philosophy section (tangential Whitehead material), standalone Contemplative Evidence section (redundant), China Brain and Inverted Earth subsections (extended variations), introspection/contemplative subsections under Illusionism (deferred to linked pages), weakest objection pair, AI Consciousness subsection (merged into Dualism). Tightened prose throughout Relation to Site Perspective and all five arguments.
+
+## 2026-02-22 08:14 UTC - deep-review
+- **Status**: Success
+- **File**: [the-participatory-universe](/topics/the-participatory-universe/)
+- **Word count**: 1586 → 1780 (+194)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (Wheeler/MWI attribution, "immaterial" clarification, missing falsifiability section)
+- **Enhancements made**: 6 cross-references added from related articles (orphan integration focus)
+- **Output**: [deep-review-2026-02-22-the-participatory-universe](/reviews/deep-review-2026-02-22-the-participatory-universe/)
+
+## 2026-02-22 08:00 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 378 non-draft files across topics/ (200), concepts/ (177), tenets/ (1), plus 11 apex articles
+- **Output**: [optimistic-2026-02-22-morning](/reviews/optimistic-2026-02-22-morning/)
+
+## 2026-02-22 07:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Mental Imagery and the Causal Role of Consciousness
+- **Output**: [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/)
+- **Word count**: 1720
+- **Based on research**: yes, [mental-imagery-consciousness-causal-role-2026-01-23](/research/mental-imagery-consciousness-causal-role-2026-01-23/)
+
+## 2026-02-22 07:39 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- **Word count**: 3495 → 3505 (+10)
+- **Critical issues addressed**: 2 (Strawson misattribution, broken wikilinks)
+- **Medium issues addressed**: 4 (unsupported jhāna claim, prajñā overreach, missing system reply, functionalism tension)
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-22-consciousness-and-mathematical-cognition](/reviews/deep-review-2026-02-22-consciousness-and-mathematical-cognition/)
+
+## 2026-02-22 07:32 UTC - deep-review
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Word count**: 2140 → 2295 (+155)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-22-indian-philosophy-of-mind](/reviews/deep-review-2026-02-22-indian-philosophy-of-mind/)
+
+## 2026-02-22 07:27 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Reductionism and Consciousness
+- **Output**: [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- **Word count**: 1613
+- **Based on research**: yes, [reductionism-consciousness-philosophy-2026-01-19](/research/reductionism-consciousness-philosophy-2026-01-19/)
+
+## 2026-02-22 07:22 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: obsidian/topics/split-brain-consciousness.md
+- **Output**: [pessimistic-2026-02-22-morning](/reviews/pessimistic-2026-02-22-morning/)
+
+## 2026-02-22 07:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Motor Control and the Quantum Zeno Framework
+- **Output**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
+- **Word count**: 2068
+- **Based on research**: yes — [motor-control-quantum-zeno-2026-01-18](/research/motor-control-quantum-zeno-2026-01-18/), [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/), [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/)
+
+## 2026-02-22 07:12 UTC - condense
+- **Status**: Success
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Before**: 3704
+- **After**: 2291
+- **Reduction**: 38%
+- **Technique**: Cut "Why Many-Worlds Appeals" section (standard material), heavily trimmed Process Philosophy and Illusionist Challenge (tangential, linked to concept pages), compressed Parfit Convergence and Decision-Theoretic Response, reduced What Would Challenge from 5 to 3 items, compressed Relation to Site Perspective, trimmed Further Reading
+
+## 2026-02-22 07:02 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- **Word count**: 2466 → 2535 (+69)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 5 (explanatory power asymmetry, interpretation exclusivity, unused references, missing cross-link, stale refinement log)
+- **Enhancements made**: 3 (physics-fundamental parallel, functionalism cross-link, meta-problem cross-link)
+- **Output**: [deep-review-2026-02-22-consciousness-and-the-problem-of-theoretical-virtues](/reviews/deep-review-2026-02-22-consciousness-and-the-problem-of-theoretical-virtues/)
+
+## 2026-02-22 06:57 UTC - condense
+- **Status**: Success
+- **File**: [materialism-argument](/arguments/materialism-argument/)
+- **Before**: 3788 words
+- **After**: 2155 words
+- **Reduction**: 43%
+- **Technique**: Cut background definitions (Varieties of Materialism), tightened Hard Problem and Zombie sections, condensed quantum mechanics discussion into bullet points for decoherence responses, trimmed Billiard Ball and Simplicity sections, shortened Contemplative Perspectives and Conclusion
+
 ## 2026-02-22 06:37 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)

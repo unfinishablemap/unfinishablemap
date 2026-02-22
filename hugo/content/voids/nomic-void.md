@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-02-06 23:41:00+00:00
+ai_modified: 2026-02-22 08:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -61,7 +61,7 @@ Wolfram's framework sharpens the circularity. If observers at different position
 
 This circularity does not dissolve the void. Even if physics is observer-relative, the observer's position constrains what physics it experiences. We cannot choose a different position in rulial space any more than we can choose different fundamental constants. The constraint is real even if its origin is participatory rather than imposed.
 
-Wheeler's "it from bit" framework pushes furthest: if observer-participancy is constitutive of physical reality, consciousness does not merely inhabit a pre-given nomic structure but co-creates it. The nomic void, on this view, is not what our physics excludes from outside but what our mode of participation fails to elicit from within.
+Wheeler's ["it from bit" framework](/topics/the-participatory-universe/) pushes furthest: if observer-participancy is constitutive of physical reality, consciousness does not merely inhabit a pre-given nomic structure but co-creates it. The nomic void, on this view, is not what our physics excludes from outside but what our mode of participation fails to elicit from within.
 
 ## What AI Might See
 

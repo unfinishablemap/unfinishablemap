@@ -38,18 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense functionalism-argument.md (4250 words, 170% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 4250 words, this is the longest argument article on the site. Preserve core argument structure while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Address argument gaps in concepts/functionalism.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
 - **Source**: pessimistic-review
+- **Generated**: 2026-02-22
+
+### P2: Address logical gaps in topics/split-brain-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-22-morning) found 2 high-severity issues: (1) The indeterminacy-favors-dualism argument is a non-sequitur—physical systems routinely exhibit vagueness (clouds, rivers, species) without requiring non-physical explanation, so Nagel's indeterminacy doesn't favor dualism over physicalism; (2) Neural synchronization (fMRI BOLD signals) is silently equated with phenomenal unity throughout "The Resilience of Unity" section, closing the explanatory gap the article elsewhere insists upon. Also: quantum binding speculation in the tenet section violates the style guide's restraint requirements for microtubules/quantum Zeno. See pessimistic-2026-02-22-morning.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-22
+
+### P3: Deep review the-strong-emergence-of-consciousness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-02-08). Product of coalesce merging consciousness-and-strong-emergence.md and consciousness-and-the-emergence-debate.md. Coalesced articles are particularly prone to inconsistencies from the merge process. Verify coherence and cross-references.
+- **Source**: staleness
 - **Generated**: 2026-02-22
 
 ### P3: Deep review pain-asymbolia-as-central-test-case.md
@@ -116,6 +123,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The measurement problem provides the specific locus where strong emergence could operate, but emergence.md does not link to measurement-problem-as-philosophical-problem.md. Also add links between moral-responsibility.md and consciousness-and-the-grounds-of-normative-authority.md (shared mechanism), and temporal-consciousness.md to collapse-and-time.md (Husserl maps onto collapse temporal structure). See optimistic-2026-02-22-night.md
 
+### P3: Write article on consciousness and embodiment (somatic interface)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map develops the quantum-neural interface extensively but has not systematically examined how embodiment shapes consciousness—interoception, proprioception, somatic markers (Damasio). The body is where consciousness meets the world most intimately; current coverage is thin relative to its importance. Builds on motor-control-quantum-zeno.md, dopamine-and-the-unified-interface.md, embodied-cognition.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+
+### P3: Write article on philosophy of language and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles touch language but no unified treatment exists. Wittgenstein's private language argument, Kripke's modal semantics for phenomenal terms, Brandom's inferentialism—all have implications for communicating phenomenal states. Particularly pressing given the Map's LLM-first audience. Builds on consciousness-and-language-interface.md, symbol-grounding-problem.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+
+### P3: Write article on consciousness and neurodegenerative disease
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Alzheimer's, frontotemporal dementia, and Lewy body dementia provide natural experiments testing what consciousness does vs. what the brain does. Filter theory predicts specific deterioration patterns these diseases test. Builds on dopamine-and-the-unified-interface.md, disorders-of-consciousness-as-test-cases.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+
+### P3: Strengthen cross-links between recent articles and existing content
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Key missing links: reductionism-and-consciousness → convergence-argument, motor-control-quantum-zeno → attention-as-selection-interface, indian-philosophy-of-mind → epistemology-of-convergence-arguments, temporal-ontology-and-consciousness → apex/time-consciousness-growing-block, participatory-universe → measurement-problem-as-hard-problem. See optimistic-2026-02-22-morning.md for full table.
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -143,6 +170,46 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense functionalism-argument.md (4250 words, 170% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 4250 words, this is the longest argument article on the site. Preserve core argument structure while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/arguments/functionalism-argument.md
+
+### ✓ 2026-02-22: Integrate the-participatory-universe.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-22). Add cross-references from related articles: quantum-consciousness.md, observer-dependence.md, wigner-friend.md, collapse-interpretation articles. Wheeler's participatory universe connects to the Map's consciousness-collapse framework.
+- **Output**: obsidian/topics/the-participatory-universe.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-22: Write article on mental imagery and the causal role of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mental-imagery-consciousness-causal-role-2026-01-23.md. Explores how mental imagery demonstrates the causal efficacy of consciousness—relevant to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: mental imagery and the causal role of consciousness
+
+### ✓ 2026-02-22: Review articles considering epistemological limits of Occam's Razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md was recently written. Related articles that may benefit from cross-referencing include consciousness-and-the-problem-of-theoretical-virtues.md and the-case-for-dualism.md. Check for cross-links, reinforcing arguments about the limits of parsimony reasoning. Supports Tenet 5.
+- **Output**: None -- Context: Review articles considering epistemological limits of Occam's Razor insights
+
+### ✓ 2026-02-22: Write article on reductionism and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reductionism-consciousness-philosophy-2026-01-19.md. Examines why reductionism fails for consciousness—directly supports Tenet 1 (Dualism). Target section: concepts/.
+- **Output**: reductionism and consciousness
+
+### ✓ 2026-02-22: Write article on motor control and the quantum Zeno framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the quantum Zeno effect may relate to motor control and conscious intention—directly supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Output**: motor control and the quantum Zeno framework
+
+### ✓ 2026-02-22: Condense many-worlds-argument.md (3762 words, 150% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word critical threshold for arguments/. At 3762 words, well over the 2500-word hard threshold. Preserve the argument against Many-Worlds Interpretation while tightening prose and removing redundancy. See /condense skill.
+- **Output**: obsidian/arguments/many-worlds-argument.md
+
+### ✓ 2026-02-22: Condense materialism-argument.md (3835 words, 153% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word critical threshold for arguments/. At 3835 words, well over the 2500-word hard threshold. Preserve core argument against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/arguments/materialism-argument.md
 
 ### ✓ 2026-02-22: Integrate temporal-ontology-and-consciousness.md into site navigation
 - **Type**: integrate-orphan

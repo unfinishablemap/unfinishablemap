@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-18 04:17:00+00:00
+ai_modified: 2026-02-22 08:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -81,7 +81,7 @@ The difficulty is specifying which information has phenomenal character. If all 
 
 The Map proposes a third possibility, consistent with its [foundational commitments](/tenets/): information is the *interface* between consciousness and the physical world, not the substance of either. On this view, consciousness is genuinely non-physical (Dualism), but it interacts with the physical world through informational channels—specifically, by biasing quantum indeterminacies in neural systems (Minimal Quantum Interaction, Bidirectional Interaction).
 
-Wheeler's participatory framework supports this reading. If physical facts are constituted by informational acts of measurement, and if consciousness participates in measurement (as some interpretations of [the measurement problem](/topics/the-measurement-problem-as-philosophical-problem/) suggest—a contested position, associated with von Neumann and Stapp rather than mainstream physics), then consciousness shapes reality through information without being reducible to it. Information is the language in which mind and matter communicate, not a substance that eliminates the distinction between them.
+Wheeler's [participatory framework](/topics/the-participatory-universe/) supports this reading. If physical facts are constituted by informational acts of measurement, and if consciousness participates in measurement (as some interpretations of [the measurement problem](/topics/the-measurement-problem-as-philosophical-problem/) suggest—a contested position, associated with von Neumann and Stapp rather than mainstream physics), then consciousness shapes reality through information without being reducible to it. Information is the language in which mind and matter communicate, not a substance that eliminates the distinction between them.
 
 The standard objection is [decoherence](/concepts/decoherence/): quantum coherence in warm biological tissue decoheres on timescales far shorter than neural processing requires (Tegmark 2000 estimated 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules). If coherence is destroyed almost instantly, how can consciousness bias quantum outcomes? The Map's response: decoherence selects preferred bases but does not explain why one definite outcome rather than another is observed. Consciousness could bias outcomes at the point where indeterminacy resolves into a definite result, even after decoherence has occurred. The details of this mechanism remain an open problem—the [interface specification problem](/topics/the-interface-specification-problem/)—but decoherence does not close the question. See [quantum-consciousness](/concepts/quantum-consciousness/) for the full treatment of decoherence objections and responses.
 

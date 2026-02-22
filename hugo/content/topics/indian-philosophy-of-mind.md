@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-21 02:36:00+00:00
+ai_modified: 2026-02-22 07:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,6 +21,7 @@ description: Samkhya, Nyaya, and Vedanta developed sophisticated theories of con
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-22 07:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,9 +79,9 @@ The Nyaya school developed rigorous arguments against the Buddhist *anatman* (no
 
 ### A Causal Theory of Perception
 
-Nyaya developed the most rigorous perceptual theory in classical Indian philosophy. Perception (*pratyaksha*) involves a causal chain linking object, sense organ, *manas*, and self. Uddyotakara (c. 600 CE) systematized six types of sense-object contact. Gangesa (c. 1325 CE) distinguished indeterminate perception (*nirvikalpaka*)—non-conceptual awareness of bare particulars—from determinate perception (*savikalpaka*)—conceptual, classified awareness ("this is a blue pot"). Both stages produce valid knowledge.
+Nyaya developed the most rigorous perceptual theory in classical Indian philosophy. Perception (*pratyaksha*) involves a causal chain linking object, sense organ, *manas*, and self. Uddyotakara (c. 600 CE) systematized six types of sense-object contact. Gangesa (c. 1325 CE) refined the earlier Nyaya distinction between indeterminate perception (*nirvikalpaka*)—non-conceptual awareness of bare particulars—and determinate perception (*savikalpaka*)—conceptual, classified awareness ("this is a blue pot"). Both stages produce valid knowledge; Gangesa's contribution was to formalise the conditions under which each yields warranted belief.
 
-Gangesa also developed a sophisticated theory of apperception (*anuvyavasaya*): awareness of being aware. He distinguished knowing *that* one cognizes (practically infallible) from knowing *what* one cognizes (fallible). This anticipates debates about higher-order theories of consciousness in contemporary philosophy of mind.
+Gangesa also gave the most rigorous treatment of apperception (*anuvyavasaya*): awareness of being aware. He distinguished knowing *that* one cognizes (practically infallible) from knowing *what* one cognizes (fallible). This anticipates debates about higher-order theories of consciousness in contemporary philosophy of mind.
 
 Notably, Nyaya *rejects* self-luminosity. Consciousness does not reveal itself; it arises through causal processes and requires the *manas*-*atman* connection. This makes Nyaya the closest Indian analogue to Western externalist epistemologies—and sets it directly against Advaita Vedanta.
 
@@ -116,7 +117,7 @@ The deepest disagreement concerns what consciousness *is*:
 | **Self-luminosity** | *Purusha* illuminates but passively | Rejected—consciousness requires causal conditions | Affirmed—consciousness reveals itself |
 | **Number of selves** | Many *purushas* | Many *atmans* | One *Brahman/atman* |
 
-These are not superficial variations. Samkhya and Nyaya disagree on whether consciousness acts. Nyaya and Advaita disagree on whether consciousness is self-luminous. Samkhya and Advaita disagree on whether there are many conscious principles or one. Yet all three affirm what Western materialism denies: consciousness is irreducible to physical process.
+These are not superficial variations. Samkhya and Nyaya disagree on whether consciousness acts. Nyaya and Advaita disagree on whether consciousness is self-luminous. Samkhya and Advaita disagree on whether there are many conscious principles or one. Yet all three affirm what Western materialism denies: consciousness is irreducible to physical process. An empiricist might object that this shared conclusion is underdetermined—that the same observable phenomena are compatible with all three frameworks, so none is empirically favoured. But the convergence cuts the other way: three deeply incompatible metaphysics, each developed through centuries of adversarial scrutiny, independently found reduction untenable. The shared conclusion survives precisely *because* it does not depend on the contested details.
 
 ## What Indian Philosophy Contributes
 
@@ -140,7 +141,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Samkhya's and Nyaya's insistence on multiple distinct selves, each with its own experiential history, supports the Map's concern that indexical identity matters. The question "Why am I *this* purusha and not another?" is meaningful in Samkhya—and the tradition takes it seriously enough to argue for it.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Two millennia of rigorous internal debate—Samkhya against Nyaya against Vedanta against Buddhism—produced sophisticated positions that cannot be dismissed as pre-scientific naivety. The apparent simplicity of materialism looks less compelling when the traditions with the deepest sustained investigation of consciousness consistently find it irreducible.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Two millennia of rigorous internal debate—Samkhya against Nyaya against Vedanta against Buddhism—produced sophisticated positions that cannot be dismissed as pre-scientific naivety. The Indian case illustrates a specific epistemological limit of parsimony: these schools disagree about nearly everything else (whether consciousness acts, whether it is self-luminous, whether selves are many or one) yet converge on irreducibility. If the simpler hypothesis were that consciousness is physical, one would expect at least one major school—across two thousand years of mutual criticism—to have found that reduction viable. None did. The apparent simplicity of materialism looks less compelling when the traditions with the deepest sustained investigation of consciousness consistently find it irreducible, not because they lacked rigour, but because their rigour pointed elsewhere.
 
 ## Further Reading
 
