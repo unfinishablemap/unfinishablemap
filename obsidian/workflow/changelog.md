@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 01:09 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]]
+- **Word count**: 1298 → 1367 (+69)
+- **Critical issues addressed**: 1 (Buddhist philosophy mischaracterisation corrected)
+- **Medium issues addressed**: 4 (knowledge argument responses, epiphenomenal wikilink, self-stultification cross-link, Further Reading expanded)
+- **Enhancements made**: 5 (4 new cross-links in Further Reading, 1 inline cross-link)
+- **Output**: [[reviews/deep-review-2026-02-22-the-subject-object-distinction-as-philosophical-discovery]]
+
 ## 2026-02-22 01:04 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-skilled-performance]]
