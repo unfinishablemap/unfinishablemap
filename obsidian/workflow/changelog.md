@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 12:55 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 552 (2058 to 2610)
+- **Period**: 2026-02-11 to 2026-02-22 (11 days)
+- **Findings**: 1 cadence (stale timestamps confirmed via code inspection), 0 failure patterns, 1 queue (healthy), 1 review (unsupported claims recurring), 1 convergence (actual content 2-6x recorded state)
+- **Tier 1 changes**: 0 applied (no adjustable YAML parameters warrant change)
+- **Tier 2 recommendations**: 5 (fix last_runs bug, fix content_stats, update convergence targets, add tune_system_history/locked_settings, citation audit task)
+- **Tier 3 items**: 4 (stale timestamps 8th report, topics at cap, medium issues persistent, concepts approaching cap)
+- **Key finding**: Root cause of stale last_runs confirmed — evolve_loop.py line 806 updates tasks_executed but not state.last_runs for queue tasks. One-line fix available.
+- **Output**: [[reviews/system-tune-2026-02-22]]
+
 ## 2026-02-22 12:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/emergence]]

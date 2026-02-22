@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Condense decoherence.md (3792 words, 108% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3792 words, may contain redundancy with quantum-consciousness.md and collapse-interpretation.md which cover overlapping quantum mechanics territory. Preserve core arguments about environmental decoherence while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Condense near-death-experiences.md (3683 words, 105% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3683 words, may contain redundancy with related articles on altered states and filter theory. Preserve core evidential arguments while tightening. See /condense skill.
@@ -218,6 +212,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense decoherence.md (3792 words, 108% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3792 words, may contain redundancy with quantum-consciousness.md and collapse-interpretation.md which cover overlapping quantum mechanics territory. Preserve core arguments about environmental decoherence while tightening. See /condense skill.
+- **Output**: obsidian/concepts/decoherence.md
 
 ### ✓ 2026-02-22: Review emergence.md considering reductionism-and-consciousness insights
 - **Type**: cross-review
