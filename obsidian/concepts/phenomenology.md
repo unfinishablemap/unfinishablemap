@@ -90,7 +90,7 @@ For the Map's framework, the body shapes conscious experience without producing 
 
 The epoché reveals not just objects but the structure of subjectivity itself. What remains after bracketing is a first-person perspective—consciousness irreducibly *mine*.
 
-Gallagher and Zahavi identify this as the [[self-and-consciousness|minimal self]]—pre-reflective self-awareness accompanying every experience. Not the narrative self (the story we construct) but the "for-me-ness" built into experience itself. This minimal self resists elimination: every experience is *someone's* experience. If the minimal self is more fundamental than narrative identity, the first-person perspective might persist even when memory fragments—supporting the Map's emphasis on indexical identity.
+Gallagher and Zahavi identify this as the [[self-and-consciousness|minimal self]]—pre-reflective self-awareness accompanying every experience. Not the narrative self (the story we construct) but the "for-me-ness" built into experience itself. This minimal self resists elimination: every experience is *someone's* experience. [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]] provides clinical evidence for this structure: in schizophrenia, the minimal self can be selectively disrupted—a disturbance of *ipseity* that strips experiences of their quality of belonging to someone while leaving consciousness itself intact. If the minimal self is more fundamental than narrative identity, the first-person perspective might persist even when memory fragments—supporting the Map's emphasis on indexical identity.
 
 ## The Reliability Objection
 

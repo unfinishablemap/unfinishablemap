@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenological-psychiatry-and-altered-experience.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: altered-states-of-consciousness.md, disorders-of-consciousness-as-test-cases.md, temporal-consciousness.md, phenomenology.md. Topics like Jaspers, Binswanger, and Sass on schizophrenia connect to the Map's phenomenological framework.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Integrate epistemology-of-mechanism-at-the-consciousness-matter-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -163,6 +156,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Integrate phenomenological-psychiatry-and-altered-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: altered-states-of-consciousness.md, disorders-of-consciousness-as-test-cases.md, temporal-consciousness.md, phenomenology.md. Topics like Jaspers, Binswanger, and Sass on schizophrenia connect to the Map's phenomenological framework.
+- **Output**: obsidian/topics/phenomenological-psychiatry-and-altered-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Write article on consciousness in non-collapsed quantum states
 - **Type**: expand-topic
