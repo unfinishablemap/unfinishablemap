@@ -26,6 +26,7 @@ related_articles:
   - "[[tenets]]"
   - "[[quantum-mechanics-free-will-2026-01-16]]"
   - "[[concepts/many-worlds]]"
+  - "[[concept-of-free-will]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

@@ -23,6 +23,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[concept-of-free-will]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -42,7 +43,7 @@ This distinction is conceptually irreducible: we cannot describe reasoning witho
 
 ## Reasons-Responsiveness and Free Will
 
-Reasons-responsiveness is central to answering the [[luck-objection|luck objection]] against libertarian free will. The objection holds that if choices are not determined by prior causes, they must be random—and random outcomes are no more "free" than determined ones.
+Reasons-responsiveness is central to answering the [[luck-objection|luck objection]] against libertarian [[concept-of-free-will|free will]]. The objection holds that if choices are not determined by prior causes, they must be random—and random outcomes are no more "free" than determined ones.
 
 The Map's response: selection guided by reasons is not lucky, even if not determined. When consciousness chooses action A rather than B, it does so *for* reasons. Those reasons don't *determine* the outcome—genuine alternative possibilities remain—but they *guide* it. The selection is contrastively explicable: why A rather than B? Because the agent had reasons for A.
 

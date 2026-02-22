@@ -23,6 +23,7 @@ concepts:
   - "[[buddhism-and-dualism]]"
 related_articles:
   - "[[tenets]]"
+  - "[[concept-of-free-will]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

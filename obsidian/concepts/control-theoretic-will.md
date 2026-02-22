@@ -21,6 +21,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]"
+  - "[[concept-of-free-will]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

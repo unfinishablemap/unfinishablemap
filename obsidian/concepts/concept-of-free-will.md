@@ -4,7 +4,8 @@ description: "Free will as the capacity for genuine authorship of choices. The U
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T20:36:00+00:00
+ai_modified: 2026-02-22T09:37:00+00:00
+last_deep_review: 2026-02-22T09:37:00+00:00
 draft: false
 topics:
   - "[[topics/free-will|Free Will and Determinism]]"
@@ -20,12 +21,16 @@ concepts:
   - "[[mental-effort]]"
   - "[[luck-objection]]"
   - "[[interactionist-dualism]]"
+  - "[[reasons-responsiveness]]"
+  - "[[control-theoretic-will]]"
+  - "[[spontaneous-intentional-action]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments]]"
   - "[[voluntary-attention]]"
   - "[[counterfactual-reasoning]]"
   - "[[retrocausality]]"
+  - "[[authentic-vs-inauthentic-choice]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -51,6 +56,8 @@ Event-causal libertarianism — where mental events cause actions nondeterminist
 
 Agent causation addresses this directly. The agent *is* the explanation. Asking "what about the agent explains the choice?" presupposes that explanation must bottom out in prior events — precisely what agent causation denies. E.J. Lowe argues that all causation is fundamentally substance causation: events don't cause events; substances exercise causal powers that produce events. On this view, agent causation is not metaphysically exceptional but paradigmatic.
 
+Crucially, the agent selects based on [[reasons-responsiveness|reasons]] — considerations that favour one option over another. This makes selection contrastively explicable: why A rather than B? Because the agent had reasons for A. Reasons don't *determine* the outcome — genuine alternatives remain — but they *guide* it, distinguishing agent-causal selection from arbitrary luck.
+
 ## Phenomenological Evidence
 
 Three lines of experiential evidence support genuine agency:
@@ -65,7 +72,9 @@ Three lines of experiential evidence support genuine agency:
 
 If consciousness causes choices, how does it interface with the brain? The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness operates where physics leaves outcomes undetermined — biasing quantum indeterminacies without injecting energy or violating conservation laws. See [[quantum-indeterminacy-free-will]] for the proposed mechanism.
 
-The brain prepares multiple possible action patterns. Consciousness selects which becomes actual. This selection reflects the agent's reasons and values — it is neither determined (physics didn't fix the outcome) nor arbitrary (the agent selected for reasons). The [[causal-closure|causal closure]] of physics fails precisely at quantum indeterminacies, providing room for [[mental-causation]] without violating any established physical law.
+The brain prepares multiple possible action patterns. Consciousness selects which becomes actual — operating as a [[control-theoretic-will|low-bandwidth control signal]] that gates, stabilises, and steers neural dynamics rather than computing outcomes from scratch. This selection reflects the agent's reasons and values — it is neither determined (physics didn't fix the outcome) nor arbitrary (the agent selected for reasons). The [[causal-closure|causal closure]] of physics fails precisely at quantum indeterminacies, providing room for [[mental-causation]] without violating any established physical law.
+
+Selection need not always involve deliberation. [[spontaneous-intentional-action|Spontaneous intentional actions]] — reaching for a friend's hand, speaking a sentence that surprises you with its precision — are authored without prior planning. The agent-causal framework accommodates this naturally: consciousness selects among possibilities the brain presents, and sometimes selection is immediate and prereflective rather than effortful. What varies is the difficulty of selection, not its nature.
 
 The Map does not commit to any single mechanism. Quantum indeterminacy, [[retrocausality|retrocausal]] influence, and unknown physics all remain candidates. What matters philosophically is that consciousness *can* influence physical outcomes — that there is room in physics for mental causation.
 
@@ -110,10 +119,14 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [[mental-causation]] — How consciousness causes physical outcomes; response to Kim's exclusion argument
 - [[quantum-indeterminacy-free-will]] — The proposed quantum mechanism for mental causation
 - [[luck-objection]] — The strongest challenge to libertarian free will and the Map's response
+- [[reasons-responsiveness]] — How selection guided by reasons escapes arbitrariness
+- [[control-theoretic-will]] — Consciousness as low-bandwidth controller of neural dynamics
+- [[spontaneous-intentional-action]] — Authored action without deliberation
 - [[libet-experiments]] — Neuroscientific evidence and its interpretation
 - [[moral-responsibility]] — How agent causation grounds genuine desert
 - [[counterfactual-reasoning]] — The consciousness-dependent capacity to evaluate alternatives
 - [[voluntary-attention]] — Neural signatures distinguishing willed from automatic action
+- [[authentic-vs-inauthentic-choice]] — When choice engages genuine agency versus running on scripts
 
 ## References
 

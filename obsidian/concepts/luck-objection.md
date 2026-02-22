@@ -27,6 +27,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[luck-objection-libertarian-free-will-2026-01-17]]"
+  - "[[concept-of-free-will]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -35,7 +36,7 @@ last_curated: null
 last_deep_review: 2026-02-03T13:52:00+00:00
 ---
 
-The luck objection is the most persistent challenge to libertarian free will. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
+The luck objection is the most persistent challenge to libertarian [[concept-of-free-will|free will]]. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
 
 The Unfinishable Map's framework provides a distinctive response: consciousness *selects* quantum outcomes rather than merely receiving them. This transforms the relationship to indeterminacy from passive luck to active choice.
 

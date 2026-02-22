@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concept-of-free-will.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-20). Free will is a core concept for the Map—it should be linked from free-will.md, agent-causation.md, moral-responsibility.md, and libertarian free will articles. Add cross-references from related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Condense causal-closure.md (4020 words, 161% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. The causal closure principle is central to the interaction debate, but at 4020 words likely contains redundancy with linked articles on conservation laws and princess-elizabeths-challenge. Preserve core arguments while tightening. See /condense skill.
@@ -215,6 +209,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Integrate concept-of-free-will.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-20). Free will is a core concept for the Map—it should be linked from free-will.md, agent-causation.md, moral-responsibility.md, and libertarian free will articles. Add cross-references from related articles.
+- **Output**: obsidian/concepts/concept-of-free-will.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Write article on spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: expand-topic
