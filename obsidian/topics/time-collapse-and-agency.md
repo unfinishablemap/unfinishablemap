@@ -25,6 +25,7 @@ concepts:
   - "[[witness-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[temporal-ontology-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -241,6 +242,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [[illusionism]] — The eliminativist challenge and the Map's response
 - [[introspection]] — First-person methods and temporal phenomenology
 - [[haecceity]] — Indexical identity and why *this* consciousness matters
+- [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
 - [[witness-consciousness]] — Suspended selection in contemplative practice
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-collapse interaction
 - [[neurophenomenology]] — Integrating first-person observation with neuroscience

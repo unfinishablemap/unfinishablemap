@@ -33,6 +33,7 @@ concepts:
   - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
+  - "[[temporal-ontology-and-consciousness]]"
   - "[[time-collapse-and-agency]]"
 ai_contribution: 100
 author:
@@ -182,6 +183,7 @@ The temporal structure of consciousness connects to all five [[tenets]]:
 - [[hard-problem-of-consciousness]] — The broader challenge of explaining experience
 - [[phenomenology-of-choice]] — What it's like to choose, including temporal aspects
 - [[neurophenomenology]] — Integrating first-person methods with neuroscience
+- [[temporal-ontology-and-consciousness]] — How eternalism, presentism, and the growing block pair with consciousness theories
 - [[process-philosophy]] — Whitehead's framework where experience is fundamental
 - [[integrated-information-theory]] — Leading materialist theory and its temporal limitations
 - [[global-workspace-theory]] — Information availability theory and temporal gaps

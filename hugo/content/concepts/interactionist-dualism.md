@@ -221,6 +221,9 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why the conservation objection fails
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 
+**Epistemology:**
+- [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What kind of knowledge about the interface is epistemically available
+
 **Related topics:**
 - [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/concepts/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/), [causal-interface](/voids/causal-interface/)
 

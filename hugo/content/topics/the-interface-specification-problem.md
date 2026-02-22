@@ -187,6 +187,7 @@ The specification problem is the Map's most significant open challenge. Acknowle
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — The ~10 bits/second constraint on conscious selection
 - [pairing-problem](/concepts/pairing-problem/) — What connects a particular mind to a particular body
 - [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/) — The original formulation of the interaction problem
+- [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What epistemic methods can reach the interface when direct observation is impossible
 
 ## References
 

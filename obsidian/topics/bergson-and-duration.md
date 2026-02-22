@@ -23,6 +23,7 @@ concepts:
   - "[[contemplative-reliability]]"
 related_articles:
   - "[[tenets]]"
+  - "[[temporal-ontology-and-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
   - "[[consciousness-and-temporal-integration]]"
 ai_contribution: 100
@@ -134,6 +135,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [[agent-causation]] — The self as originator of action in durée
 - [[phenomenology-of-choice]] — The lived experience of deliberation and decision
 - [[temporal-thickness]] — How much of one's past enters each present moment
+- [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
 - [[consciousness-and-creativity]] — Duration's creative novelty and the generation-selection model
 - [[prehension]] — Whitehead's concept of experiential inheritance
 

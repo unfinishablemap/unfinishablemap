@@ -22,6 +22,7 @@ concepts:
   - "[[protention]]"
 related_articles:
   - "[[tenets]]"
+  - "[[temporal-ontology-and-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
   - "[[consciousness-and-temporal-integration]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
@@ -137,6 +138,7 @@ Temporal asymmetry connects to all five [[tenets]]:
 - [[duration]] — Bergson's qualitative lived time
 - [[phenomenology-of-anticipation]] — The phenomenological structure of future-directed experience
 - [[phenomenology-of-memory-and-the-self]] — How remembering constitutes the temporally extended self
+- [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
 - [[philosophy-of-time]] — A-theory, B-theory, and temporal ontology
 
 ## References

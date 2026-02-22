@@ -18,6 +18,7 @@ concepts:
   - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
+  - "[[temporal-ontology-and-consciousness]]"
   - "[[time-collapse-and-agency]]"
   - "[[temporal-structure-of-consciousness]]"
   - "[[consciousness-and-temporal-asymmetry]]"
@@ -120,6 +121,7 @@ The growing block connects to all five of the Map's [[tenets]]:
 - [[process-philosophy]] — Whitehead's actual occasions and concrescence
 - [[consciousness-and-temporal-asymmetry]] — Why consciousness constitutes time's felt direction
 - [[retrocausality]] — How consciousness might select outcomes atemporally at collapse
+- [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
 - [[time-consciousness-growing-block]] — Apex synthesis of time and consciousness
 
 ## References
