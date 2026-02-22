@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the specious present and temporal experience
-- **Type**: expand-topic
-- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. The specious present — the duration of experienced "now" — is a foundational concept for temporal consciousness. Connects to temporal-consciousness.md, bergson-and-duration.md, and the Map's treatment of time and experience. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Write article on self-consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/self-consciousness-philosophy-2026-01-15.md. Self-consciousness — awareness of oneself as a subject — is a core philosophical concept referenced across the Map but lacking a dedicated treatment. Connects to the-self-minimal-narrative-and-substantial.md, introspection.md, and phenomenology articles. Target section: concepts/.
@@ -242,6 +236,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on the specious present and temporal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. The specious present — the duration of experienced "now" — is a foundational concept for temporal consciousness. Connects to temporal-consciousness.md, bergson-and-duration.md, and the Map's treatment of time and experience. Target section: concepts/.
+- **Output**: the specious present and temporal experience
 
 ### ✓ 2026-02-22: Review the-epiphenomenalist-threat.md considering new epiphenomenalism article
 - **Type**: cross-review
