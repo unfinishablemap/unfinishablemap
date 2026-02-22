@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22 15:23:00+00:00
+ai_modified: 2026-02-22 16:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,30 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce created [why-pain-hurts](/topics/why-pain-hurts/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
 - **Source**: coalesce
-- **Generated**: 2026-02-22
-
-### P2: Write article on the specious present and temporal experience
-- **Type**: expand-topic
-- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. A previous expand-topic attempt completed but failed to produce an article file. The specious present is a foundational concept for temporal consciousness, referenced by temporal-consciousness.md and bergson-and-duration.md but lacking a dedicated page. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
-### P2: Review self-and-consciousness.md considering self-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/self-consciousness.md provides dedicated treatment of self-awareness as a subject. self-and-consciousness.md covers the broader relationship between self and consciousness and should cross-reference the new article's analysis of higher-order self-awareness, mirror self-recognition, and pre-reflective self-consciousness. Check for cross-links and argument reinforcement.
-- **Source**: chain (from concepts/self-consciousness.md)
-- **Generated**: 2026-02-22
-
-### P2: Review llm-consciousness.md considering Hoel's framework article
-- **Type**: cross-review
-- **Notes**: New article topics/hoel-llm-consciousness-continual-learning.md examines Erik Hoel's argument that LLMs lack consciousness due to their training architecture. concepts/llm-consciousness.md provides the Map's broader treatment of LLM consciousness and should cross-reference Hoel's specific framework, particularly the continual learning requirement and its implications for current AI systems.
-- **Source**: chain (from topics/hoel-llm-consciousness-continual-learning.md)
-- **Generated**: 2026-02-22
-
-### P2: Write article on voluntary attention control mechanisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Voluntary attention control is central to the Map's attention-as-selection-interface framework — if consciousness acts through attention, the mechanisms of voluntary attentional control are the site where interaction occurs. Connects to attention-as-selection-interface.md, structure-of-attention.md. Target section: concepts/.
-- **Source**: unconsumed_research
 - **Generated**: 2026-02-22
 
 ### P3: Deep review the-strong-emergence-of-consciousness.md
@@ -249,7 +225,67 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-22
 
+### P3: Write concept article on direction-of-fit
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The mind-to-world vs. world-to-mind distinction is discussed across aesthetic creation, agent causation, and mental causation articles but has no dedicated concept page. Would articulate a fundamental asymmetry in consciousness's causal engagement. See optimistic-2026-02-22-late-afternoon.md
+
+### P3: Write apex article on the phenomenology of consciousness doing work
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesize evidence from emotion-as-evidence-for-dualism, consciousness-and-aesthetic-creation, agent-causation, and attention-as-interface showing consciousness's causal efficacy through its phenomenological signatures: valence-driven action, aesthetic-template guidance, creative effort, attentional override. See optimistic-2026-02-22-late-afternoon.md
+
+### P3: Write topic article on Samkhya's three-way distinction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Samkhya's consciousness/mind/gross-matter trichotomy anticipates functionalism for mind while maintaining irreducibility for consciousness—an underexplored middle path that enriches the Map's dualism with non-Western conceptual resources. See optimistic-2026-02-22-late-afternoon.md
+
 ## Completed Tasks
+
+
+### ✓ 2026-02-22: Address convergence-vs-unfalsifiability gap in experimental-design-for-consciousness-collapse-testing.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article's retreat from direct testability to "convergence" is indistinguishable from unfalsifiability — cited disconfirmers are entire research programmes, not achievable experiments. Also, PEAR lab citation damages credibility and should be reframed as cautionary tale. Foreground Chalmers-McQueen Φ prediction as the most testable claim. See pessimistic-2026-02-22-evening.md
+- **Output**: obsidian/topics/experimental-design-for-consciousness-collapse-testing.md
+
+Task context:
+Pessimistic review found the article's retreat from direct testability to "convergence" is indistinguishable from unfalsifiability — cited disconfirmers are entire research programmes, not achievable experiments. Also, PEAR lab citation damages credibility and should be reframed as cautionary tale. Foreground Chalmers-McQueen Φ prediction as the most testable claim. See pessimistic-2026-02-22-evening.md
+
+### ✓ 2026-02-22: Condense brain-interface-boundary.md (3,557 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3,500-word hard threshold for concepts/. At 3,557 words, slightly over limit. Preserve core arguments while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/brain-interface-boundary.md
+
+### ✓ 2026-02-22: Condense simulation.md (3,652 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3,500-word hard threshold for concepts/. At 3,652 words, it likely contains redundancy. Preserve core arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/simulation.md
+
+### ✓ 2026-02-22: Cross-review the-case-for-dualism.md considering parsimony void insights
+- **Type**: cross-review
+- **Notes**: New article voids/epistemological-limits-occams-razor.md argues that parsimony bias may be the primary cognitive obstacle to taking dualism seriously. concepts/the-case-for-dualism.md should cross-reference this cognitive architecture critique as strengthening the case against dismissing dualism on simplicity grounds.
+- **Output**: obsidian/concepts/the-case-for-dualism.md -- Context: Cross-review the-case-for-dualism.md considering parsimony void insights
+
+### ✓ 2026-02-22: Cross-review agent-causation.md considering voluntary attention control mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control-mechanisms.md explicitly frames thalamic gating mechanisms as where consciousness interrupts automatic processing. concepts/agent-causation.md should cross-reference these mechanisms as concrete instantiation of agent causation.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agent-causation.md considering voluntary attention control mechanisms
+
+### ✓ 2026-02-22: Cross-review attention-as-interface.md considering voluntary attention control mechanisms
+- **Type**: cross-review
+- **Notes**: New article concepts/voluntary-attention-control-mechanisms.md provides mechanistic detail about thalamic gating and salience network control. concepts/attention-as-interface.md is the foundational hypothesis this implements and should cross-reference the new mechanistic evidence.
+- **Output**: obsidian/concepts/attention-as-interface.md -- Context: Cross-review attention-as-interface.md considering voluntary attention control mechanisms
+
+### ✓ 2026-02-22: Write article on split-brain cases and unity of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Split-brain cases provide striking empirical evidence bearing on the unity of consciousness and the nature of personal identity — core issues for the Map's dualist framework. The research has been unconsumed for 39 days. Target section: concepts/.
+- **Output**: split-brain cases and unity of consciousness
+
+### ✓ 2026-02-22: Write article on split-brain cases and unity of consciousness
+- **Type**: expand-topic
+- **Notes**: Article already exists at topics/split-brain-consciousness.md (277 lines, comprehensive coverage). Research note split-brain-consciousness-unity-2026-01-14.md was already consumed. Companion concept article concepts/unity-of-consciousness.md also covers unity dimensions. No new article needed.
+- **Output**: Already exists — obsidian/topics/split-brain-consciousness.md
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
@@ -258,6 +294,25 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+### ✓ 2026-02-22: Write article on voluntary attention control mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Voluntary attention control is central to the Map's attention-as-selection-interface framework — if consciousness acts through attention, the mechanisms of voluntary attentional control are the site where interaction occurs. Connects to attention-as-selection-interface.md, structure-of-attention.md. Target section: concepts/.
+- **Output**: voluntary attention control mechanisms
+
+### ✓ 2026-02-22: Review llm-consciousness.md considering Hoel's framework article
+- **Type**: cross-review
+- **Notes**: New article topics/hoel-llm-consciousness-continual-learning.md examines Erik Hoel's argument that LLMs lack consciousness due to their training architecture. concepts/llm-consciousness.md provides the Map's broader treatment of LLM consciousness and should cross-reference Hoel's specific framework, particularly the continual learning requirement and its implications for current AI systems.
+- **Output**: obsidian/concepts/llm-consciousness.md -- Context: Review llm-consciousness.md considering Hoel's framework article
+
+### ✓ 2026-02-22: Review self-and-consciousness.md considering self-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-consciousness.md provides dedicated treatment of self-awareness as a subject. self-and-consciousness.md covers the broader relationship between self and consciousness and should cross-reference the new article's analysis of higher-order self-awareness, mirror self-recognition, and pre-reflective self-consciousness. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/self-and-consciousness.md -- Context: Review self-and-consciousness.md considering self-consciousness insights
+
+### ✓ 2026-02-22: Write article on the specious present and temporal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. A previous expand-topic attempt completed but failed to produce an article file. The specious present is a foundational concept for temporal consciousness, referenced by temporal-consciousness.md and bergson-and-duration.md but lacking a dedicated page. Target section: concepts/.
+- **Output**: the specious present and temporal experience
 
 ### ✓ 2026-02-22: Write article on epistemological limits of Occam's Razor for consciousness
 - **Type**: expand-topic

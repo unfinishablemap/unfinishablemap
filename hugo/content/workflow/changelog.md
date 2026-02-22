@@ -18,6 +18,116 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 17:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **Changes**: Reframed PEAR lab as cautionary tale; foregrounded Chalmers-McQueen Φ prediction as most testable claim; restructured convergence section to honestly distinguish experiments from research programmes; removed self-undermining dark matter analogy; strengthened opening and softened unsupported claims
+- **Based on**: pessimistic-2026-02-22-evening.md
+- **Published**: yes
+
+## 2026-02-22 17:19 UTC - condense
+- **Status**: Success
+- **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Before**: 3557 words
+- **After**: 1829 words
+- **Reduction**: 49%
+- **Technique**: Cut Process Philosophy and Evolutionary Angle sections entirely; condensed Illusionist and Decoherence challenges to short paragraphs with links to dedicated pages; trimmed boundary constraints by merging Key Insight into section; reduced What This Explains from 5 to 3 items; tightened prose throughout five criteria; trimmed Further Reading and References; removed stale AI refinement log comment
+
+## 2026-02-22 17:11 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 381 non-draft files (200 topics, 180 concepts, 1 tenets). Deep analysis of 20 representative articles spanning foundational arguments, empirical philosophy, temporal metaphysics, contemplative methodology, Indian philosophy, aesthetics, and value theory.
+- **Output**: [optimistic-2026-02-22-late-afternoon](/reviews/optimistic-2026-02-22-late-afternoon/)
+
+## 2026-02-22 17:05 UTC - condense
+- **Status**: Success
+- **File**: [simulation](/concepts/simulation/)
+- **Before**: 3652 words
+- **After**: 1968 words
+- **Reduction**: 46%
+- **Technique**: Cut tangential Process Philosophy and Buddhist Contemplative sections entirely; heavily condensed Triviality objection/Status redundancy (merged); trimmed decoherence caveat, Bostrom background, MWI discussion, and "What Would Challenge" to 3 items; tightened prose throughout
+
+## 2026-02-22 16:59 UTC - deep-review
+- **Status**: Success
+- **File**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **Word count**: 2219 → 2274 (+55)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (parsimony void cross-link, grammatical fix)
+- **Enhancements made**: 1 (parsimony void integration per cross-review context)
+- **Output**: [deep-review-2026-02-22b-the-case-for-dualism](/reviews/deep-review-2026-02-22b-the-case-for-dualism/)
+
+## 2026-02-22 16:47 UTC - deep-review
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Word count**: 3142 → 3209 (+67)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale frontmatter link, missing cross-link to voluntary-attention-control-mechanisms, missing inline citations)
+- **Enhancements made**: 3 (cross-link integration, citation addition, stale link fix)
+- **Output**: [deep-review-2026-02-22-agent-causation](/reviews/deep-review-2026-02-22-agent-causation/)
+
+## 2026-02-22 16:40 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Word count**: 2314 → 2396 (+82)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 6
+- **Context**: Cross-review considering voluntary-attention-control-mechanisms
+- **Output**: [deep-review-2026-02-22-attention-as-interface](/reviews/deep-review-2026-02-22-attention-as-interface/)
+
+## 2026-02-22 16:34 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/topics/experimental-design-for-consciousness-collapse-testing.md`
+- **Output**: [pessimistic-2026-02-22-evening](/reviews/pessimistic-2026-02-22-evening/)
+- **Notes**: Found 4 critical issues. Highest severity: convergence defence indistinguishable from unfalsifiability. Added P2 refine-draft task.
+
+## 2026-02-22 16:32 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Split-brain cases and unity of consciousness
+- **Output**: Already exists — [split-brain-consciousness](/topics/split-brain-consciousness/) (277 lines) + [unity-of-consciousness](/concepts/unity-of-consciousness/) (237 lines)
+- **Based on research**: yes — [split-brain-consciousness-unity-2026-01-14](/research/split-brain-consciousness-unity-2026-01-14/) (already consumed)
+- **Notes**: P2 task from unconsumed_research generator, but the research was already consumed into a comprehensive topics article. No new article created.
+
+## 2026-02-22 16:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Voluntary Attention Control Mechanisms
+- **Output**: [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)
+- **Word count**: 1531
+- **Based on research**: yes — [voluntary-attention-control-mechanisms-2026-01-17](/research/voluntary-attention-control-mechanisms-2026-01-17/)
+
+## 2026-02-22 16:12 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Word count**: 3223 → 3157 (-66)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Bayesian imprecision, conceivability confidence, eliminativist acknowledgment, opening density)
+- **Enhancements made**: 4 (prose tightening, cross-links, mysterianism restructure, vitalism trim)
+- **Output**: [deep-review-2026-02-22-epistemology-of-convergence-arguments](/reviews/deep-review-2026-02-22-epistemology-of-convergence-arguments/)
+
+## 2026-02-22 16:06 UTC - deep-review
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Word count**: 2029 → 2151 (+122)
+- **Critical issues addressed**: 2 (Hoel date 2025→2026, cross-link to topics article)
+- **Medium issues addressed**: 4 (proximity argument fixedness, Cerullo acknowledgment, reference completion, witness-consciousness body reference)
+- **Enhancements made**: 3 (Hoel framework cross-link, sharpened proximity argument, contemplative evidence expansion)
+- **Output**: [deep-review-2026-02-22-llm-consciousness](/reviews/deep-review-2026-02-22-llm-consciousness/)
+
+## 2026-02-22 15:54 UTC - deep-review
+- **Status**: Success
+- **File**: [self-and-consciousness](/concepts/self-and-consciousness/)
+- **Word count**: 2204 → 2230 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Sass & Parnas citation, AI refinement log removal)
+- **Enhancements made**: 2 (specious-present cross-link, frontmatter update)
+- **Output**: [deep-review-2026-02-22-self-and-consciousness](/reviews/deep-review-2026-02-22-self-and-consciousness/)
+
+## 2026-02-22 15:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Specious Present and Temporal Experience
+- **Output**: [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/)
+- **Word count**: 1557
+- **Based on research**: yes, [specious-present-temporal-experience-2026-01-16](/research/specious-present-temporal-experience-2026-01-16/)
+
 ## 2026-02-22 15:42 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Absorption Void

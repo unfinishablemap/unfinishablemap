@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-15 08:49:00+00:00
+ai_modified: 2026-02-22 16:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -10,7 +10,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
-- '[[voluntary-attention]]'
+- '[[voluntary-attention-control-mechanisms]]'
 - '[[implicit-memory]]'
 - '[[attention-as-interface]]'
 - '[[luck-objection]]'
@@ -35,7 +35,7 @@ description: Agent causation holds that persons originate actions directly as su
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 10:08:00+00:00
+last_deep_review: 2026-02-22 16:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -165,13 +165,13 @@ Even during automatic performance, the agent persists in what Tulving called *an
 
 ## Voluntary Attention as Agent-Causal Paradigm
 
-[Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides the paradigm case of agent causation. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures. The [attentional economics](/concepts/attentional-economics/) framework extends this: agency operates through the ongoing allocation of a finite attentional resource, making freedom scale with attentional skill.
+[Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides the paradigm case of agent causation. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures (Rajan et al. 2019; Nadra & Mangun 2023).
 
-Endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence. The brain distinguishes between doing what you're told and doing what you choose.
+Endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence. The brain distinguishes between doing what you're told and doing what you choose. The [underlying mechanisms](/concepts/voluntary-attention-control-mechanisms/)—frontal decision circuits, salience network switching, and thalamic gating—identify specific neural sites where consciousness could bias otherwise undetermined outcomes without generating signals *de novo*.
 
 Pre-prompt neural activity predicts free choices, paralleling the [Libet experiments](/concepts/libet-experiments/). The Map's resolution: prior activity establishes *options* for selection; consciousness selects from that menu. The agent is source of selection even if not source of options.
 
-First-person experience confirms the distinction: being *pulled* by a loud noise versus *directing* attention to difficult text. This phenomenological marker maps onto real mechanistic differences between ventral (capture) and dorsal (voluntary) networks. See [phenomenology-of-choice](/concepts/phenomenology-of-choice/) for the full arc from deliberation through decision to authorship.
+First-person experience confirms the distinction: being *pulled* by a loud noise versus *directing* attention to difficult text. This phenomenological marker maps onto real mechanistic differences between ventral (capture) and dorsal (voluntary) networks.
 
 ## Motor Selection: The Second Domain
 
@@ -228,6 +228,7 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 - [luck-objection](/concepts/luck-objection/) — Full response to the luck challenge
 - [motor-selection](/concepts/motor-selection/) — Motor control as supporting domain
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as causal pathway
+- [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — Frontal decision circuits, salience network switching, and thalamic gating
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and choking phenomenon
 - [mental-causation](/concepts/mental-causation/) — The problem substance causation addresses
 - [downward-causation](/concepts/downward-causation/) — How higher-level substances influence lower-level processes
@@ -254,7 +255,9 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 - Lowe, E.J. (2001). "Event Causation and Agent Causation." *Grazer Philosophische Studien*, 61: 1-20.
 - Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 - Marmodoro, A. (2017). "Aristotelian Powers at Work." In J. Jacobs (Ed.), *Causal Powers*. Oxford University Press.
+- Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 - O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
+- Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 - Reid, T. (1788). *Essays on the Active Powers of Man*.
 - Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.

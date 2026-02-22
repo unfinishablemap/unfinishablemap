@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-22 12:32:00+00:00
+ai_modified: 2026-02-22 16:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ description: Multiple independent arguments converge on the irreducibility of co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 12:32:00+00:00
+last_deep_review: 2026-02-22 16:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,6 +53,7 @@ related_articles:
 - '[[cognitive-science-of-dualism]]'
 - '[[topics/free-will]]'
 - '[[analytic-idealism-and-mind-centric-metaphysics]]'
+- '[[epistemological-limits-occams-razor]]'
 title: The Case for Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -108,7 +109,7 @@ Conscious experience is unified: you experience visual field, sounds, bodily sen
 
 Arguments from quantum mechanics don't refute materialism directly but undermine its main defensive move. The [causal-closure](/concepts/causal-closure/) principle—that every physical event has a sufficient physical cause—is often deployed against non-physical influence. But quantum indeterminacy leaves room for causation that doesn't inject energy or violate conservation laws.
 
-The [decoherence](/concepts/decoherence/) objection—that quantum coherence in neural systems is too brief for conscious processes—deserves serious engagement but is not decisive. Tegmark's (2000) original calculations have been contested, quantum biology demonstrates that warm biological systems can sustain quantum effects (such as avian magnetoreception via radical pair mechanisms), and decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/). The opening the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires remains available. See [quantum-consciousness](/concepts/quantum-consciousness/) and [decoherence](/concepts/decoherence/) for detailed treatment.
+The [decoherence](/concepts/decoherence/) objection—that quantum coherence in neural systems is too brief for conscious processes—deserves serious engagement but is not decisive. Tegmark's (2000) original calculations have been contested, quantum biology demonstrates that warm biological systems can sustain quantum effects (such as avian magnetoreception via radical pair mechanisms), and decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/). The opening that the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires remains available. See [quantum-consciousness](/concepts/quantum-consciousness/) and [decoherence](/concepts/decoherence/) for detailed treatment.
 
 The [Many-Worlds Interpretation](/concepts/many-worlds/) attempts to dissolve the measurement problem entirely. The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects MWI on multiple grounds, centrally the indexical identity problem: "why am I in *this* branch?" seems meaningful, yet MWI cannot answer it. See [many-worlds](/concepts/many-worlds/) for detailed treatment.
 
@@ -128,7 +129,7 @@ Each response either denies the hard problem without explaining why it seems rea
 
 ## The Parsimony Objection
 
-A standard objection: dualism is less parsimonious. But parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony (fewer entity types) favours physicalism, but explanatory parsimony (fewer brute facts) favours dualism. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler scientific theories do not extend to this debate. See [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) for the full case.
+A standard objection: dualism is less parsimonious. But parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony (fewer entity types) favours physicalism, but explanatory parsimony (fewer brute facts) favours dualism. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler scientific theories do not extend to this debate. See [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) for the full case. A deeper concern: our preference for simpler theories may be an evolved cognitive bias architecturally embedded in cognition, making physicalism *feel* more plausible than the arguments warrant. If so, parsimony intuitions in the consciousness debate may reflect cognitive architecture rather than evidence. See [the parsimony void](/voids/epistemological-limits-occams-razor/) for this line of inquiry.
 
 ## Major Objections and Responses
 
@@ -184,7 +185,7 @@ The Map does not commit to substance over property dualism—both support irredu
 
 **Materialist responses:** [materialism](/concepts/materialism/), [illusionism](/concepts/illusionism/), [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [heterophenomenology](/concepts/heterophenomenology/), [mysterianism](/concepts/mysterianism/)
 
-**The Map's framework:** [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/), [free-will](/topics/free-will/)
+**The Map's framework:** [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), [the parsimony void](/voids/epistemological-limits-occams-razor/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/), [free-will](/topics/free-will/)
 
 **Alternative frameworks:** [idealism](/concepts/idealism/), [analytic idealism](/topics/analytic-idealism-and-mind-centric-metaphysics/)
 
