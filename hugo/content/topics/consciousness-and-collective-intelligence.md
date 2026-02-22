@@ -8,7 +8,6 @@ concepts:
 - '[[combination-problem]]'
 - '[[intersubjectivity]]'
 - '[[theory-of-mind]]'
-- '[[consciousness-and-strong-emergence]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[baseline-cognition]]'
 created: 2026-02-15
@@ -24,11 +23,10 @@ related_articles:
 - '[[tenets]]'
 - '[[collective-cognitive-limits]]'
 - '[[intersubjective-void]]'
-- '[[consciousness-and-the-emergence-debate]]'
 title: Consciousness and Collective Intelligence
 topics:
 - '[[topics/consciousness-and-social-cognition]]'
-- '[[consciousness-and-strong-emergence]]'
+- '[[the-strong-emergence-of-consciousness]]'
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[machine-consciousness]]'
 ---
@@ -75,7 +73,7 @@ The Map interprets collective intelligence not as evidence for group consciousne
 
 **Consciousness enables the interactions that produce collective intelligence.** The distinctive forms of human collective intelligence — scientific progress, institutional design, cultural accumulation — depend on capacities that the Map argues require phenomenal consciousness: [recursive mindreading](/topics/consciousness-and-social-cognition/), genuine understanding of communicated propositions, and the ability to evaluate arguments rather than merely process signals. Ant colonies achieve collective intelligence without any of this, but they achieve a categorically different and more limited kind. Human collective intelligence builds on what consciousness makes possible at the individual level.
 
-**Emergence without new consciousness.** Collective intelligence exhibits genuine emergence in the weak sense: properties of the group (market prices, scientific consensus, cultural knowledge) are not properties of any individual. But [strong emergence](/topics/consciousness-and-strong-emergence/) — new ontological features arising from but irreducible to their base — is precisely what would be needed for group consciousness. The Map holds that consciousness is irreducible to physical processes (the Dualism tenet), but this does not entail that every complex system generates new consciousness. Consciousness requires the right kind of interface, and groups of people communicating through language and gesture do not constitute the right kind.
+**Emergence without new consciousness.** Collective intelligence exhibits genuine emergence in the weak sense: properties of the group (market prices, scientific consensus, cultural knowledge) are not properties of any individual. But [strong emergence](/topics/the-strong-emergence-of-consciousness/) — new ontological features arising from but irreducible to their base — is precisely what would be needed for group consciousness. The Map holds that consciousness is irreducible to physical processes (the Dualism tenet), but this does not entail that every complex system generates new consciousness. Consciousness requires the right kind of interface, and groups of people communicating through language and gesture do not constitute the right kind.
 
 **The information-integration objection.** IIT's suggestion that high-Φ groups might be conscious faces a structural problem: the theory measures integration of information, not integration of experience. The Map's [critique of IIT](/topics/integrated-information-theory-critique/) applies directly — measuring how much information is integrated across a system does not establish that the system is a subject of experience. A thermostat integrates information; a city's traffic network integrates vastly more. Neither is plausibly conscious. The same applies at the group level.
 
@@ -101,8 +99,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 - [combination-problem](/concepts/combination-problem/) — The challenge of explaining how experiences combine, relevant in both directions
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — The voids perspective: how groups create emergent blind spots
 - [intersubjective-void](/voids/intersubjective-void/) — Why the gap between individual minds persists even in tightly coupled groups
-- [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/) — When emergence produces genuinely new phenomena versus merely unexpected patterns
-- [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/) — Broader context on emergence and consciousness
+- [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Strong emergence and the consciousness debate
 
 ## References
 

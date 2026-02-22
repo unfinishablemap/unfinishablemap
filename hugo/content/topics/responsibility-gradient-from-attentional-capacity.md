@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-19 10:06:00+00:00
+ai_modified: 2026-02-22 01:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[attention-as-interface]]'
 - '[[control-theoretic-will]]'
-- '[[voluntary-attention]]'
+- '[[phenomenology-of-agency-vs-passivity]]'
 - '[[mental-effort]]'
 - '[[reasons-responsiveness]]'
 - '[[working-memory]]'
@@ -22,6 +22,7 @@ description: Moral responsibility is not binary but graded by attentional capaci
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-22 01:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +75,7 @@ Scope affects sourcehood. An agent whose attention is structurally confined to t
 
 The capacity to shift attention between perspectives—to consider another person's viewpoint, to re-evaluate assumptions, to entertain counterfactual alternatives—underlies moral imagination. Rigid attention, locked onto one perspective or one interpretation, produces moral failures not through malice but through incapacity. The agent cannot see what they cannot attend to, and they cannot attend to what their attentional system cannot flexibly reach.
 
-Flexibility connects to [reasons-responsiveness](/concepts/reasons-responsiveness/): an agent is responsible to the extent that they are responsive to moral reasons, and responsiveness requires the attentional flexibility to register those reasons in the first place.
+Flexibility connects to [reasons-responsiveness](/concepts/reasons-responsiveness/): an agent is responsible to the extent that they are responsive to moral reasons, and responsiveness requires the attentional flexibility to register those reasons in the first place. It also connects to [moral-perception](/concepts/moral-perception/)—the capacity to notice morally relevant features of a situation. An agent whose attention is inflexible may fail to perceive the ethical dimensions of their choices entirely.
 
 ### Availability
 
@@ -133,7 +134,7 @@ This interpretation clarifies why the gradient has a floor: total loss of contro
 
 The dominant alternatives to graded responsibility are both unsatisfying within the Map's framework.
 
-**Binary compatibilism** holds that agents are responsible if they act on reasons they endorse, regardless of attentional capacity. But this ignores the bandwidth constraints that determine *which* reasons an agent can entertain. An agent who "acts on their reasons" with severely depleted attentional capacity may never have been able to register the moral reasons that would have changed their action. Compatibilist responsibility without attentional nuance attributes full desert to agents whose capacity for moral reasoning was structurally impaired at the moment of choice.
+**Standard compatibilism** holds that agents are responsible if they act on reasons they endorse. Sophisticated versions—notably Fischer and Ravizza's (1998) reasons-responsiveness theory—recognise that responsiveness comes in degrees, and some compatibilists already accept graded responsibility. But compatibilist accounts ground these degrees in neural function, not in the structural constraints on a conscious controller's bandwidth. The Map's framework explains *why* conditions as diverse as fatigue, poverty, and ADHD all diminish responsibility through the same mechanism: they narrow the attentional channel through which consciousness exercises genuine selection. Without this explanatory unification, compatibilist grading remains descriptive rather than mechanistic.
 
 **Hard determinism** eliminates responsibility entirely, treating all attentional variation as just another link in the causal chain. But this denies what the Map affirms: that consciousness genuinely selects among open possibilities, and that this selection constitutes authorship. Attentional capacity modulates the scope of selection; it does not eliminate selection itself.
 
@@ -155,7 +156,7 @@ The gradient occupies the space between these extremes. Agents are genuine autho
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The ~10 bits/second bandwidth limit reflects the minimality of conscious influence. The gradient's dimensions describe how various conditions further constrain an already-minimal channel. Under severe attentional impairment, the minimal interaction approaches its lower bound without reaching zero.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Graded responsibility requires that one outcome actually obtains. Under many-worlds, the agent both chose well and chose poorly in different branches; desert becomes incoherent. The gradient's moral weight depends on the reality of selection among exclusive alternatives.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Graded responsibility requires that one outcome actually obtains. Under many-worlds, every quantum-indeterminate choice produces branches containing every possible outcome—the agent both chose well and chose poorly across the branching structure. If all outcomes are equally real, desert cannot attach to any particular branch. The gradient's moral weight depends on the reality of selection among exclusive alternatives—one choice, one outcome, one agent who must live with the consequences.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: A binary account of responsibility is simpler. But it fails to accommodate the structural variation in attentional capacity that empirical psychology documents. The gradient's additional complexity earns its keep by aligning moral theory with the actual conditions under which agents exercise their causal powers.
 
@@ -168,6 +169,9 @@ The gradient occupies the space between these extremes. Agents are genuine autho
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention serves as consciousness's interface with matter
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — What attentional impairments reveal about the interface
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Responsiveness to reasons as a condition for responsibility
+- [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The phenomenological structure of the agency-passivity spectrum
+- [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Existentialist perspective on how consciousness engages with selection
+- [moral-perception](/concepts/moral-perception/) — How attention shapes the capacity to perceive moral reasons
 - [free-will](/topics/free-will/) — The broader framework of agency and determinism
 
 ## References

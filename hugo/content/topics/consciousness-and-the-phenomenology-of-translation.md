@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-19 02:34:00+00:00
+ai_modified: 2026-02-22 01:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,6 +10,8 @@ concepts:
 - '[[intentionality]]'
 - '[[phenomenology]]'
 - '[[semantic-memory]]'
+- '[[working-memory]]'
+- '[[mental-effort]]'
 created: 2026-02-19
 date: &id001 2026-02-19
 description: What the lived experience of translating between languages reveals about
@@ -18,7 +20,7 @@ description: What the lived experience of translating between languages reveals 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-22 01:35:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -43,9 +45,9 @@ This matters because translation's phenomenology exposes the structure of the [c
 
 Translators report a distinctive phenomenology: a kind of bifurcated consciousness in which two linguistic systems are simultaneously active. The source text is not merely read and then forgotten while the target text is composed. Both languages remain phenomenally present — one foregrounded, the other hovering as a constant reference.
 
-This bifurcation has no close analogue in monolingual experience. It resembles but exceeds the experience of switching between tasks, because in translation the two systems must remain in active dialogue. The translator holds the source meaning in a kind of phenomenal suspension while searching the target language for adequate expression — a process that can take milliseconds or minutes, and whose duration is itself phenomenally marked by tension, frustration, or flow.
+This bifurcation has no close analogue in monolingual experience. It resembles but exceeds the experience of switching between tasks, because in translation the two systems must remain in active dialogue. The translator holds the source meaning in a kind of phenomenal suspension — engaging [working-memory](/concepts/working-memory/) in a distinctively bilingual mode — while searching the target language for adequate expression. This process can take milliseconds or minutes, and its duration is itself phenomenally marked by tension, frustration, or flow.
 
-The split is not between two strings of words but between two *ways of meaning*. Russian structures causation differently from English. Japanese marks social relationships grammatically. Hopi has been claimed (controversially) to encode time differently. When translating, the translator does not merely switch vocabularies — they switch the phenomenal frame through which meaning is organised. This frame-switching is a conscious act, often effortful, and its effort is felt.
+The split is not between two strings of words but between two *ways of meaning*. Russian structures causation differently from English. Japanese marks social relationships grammatically. Mandarin uses vertical spatial metaphors for time ("up" for earlier, "down" for later) where English uses horizontal ones, shaping how speakers habitually reason about temporal sequence. When translating, the translator does not merely switch vocabularies — they switch the phenomenal frame through which meaning is organised. This frame-switching is a conscious act, often effortful, and its [mental-effort](/concepts/mental-effort/) is felt.
 
 ### The Moment of Semantic Grasp
 
@@ -99,11 +101,13 @@ This reconstruction is never fully verifiable. The translator cannot check their
 
 ### Machine Translation and the Phenomenal Gap
 
-Contemporary machine translation systems achieve impressive results through pattern matching across vast corpora. They produce fluent output without any phenomenal engagement with meaning. This creates an instructive contrast.
+Contemporary large language models produce translations of remarkable fluency. They handle idiom, irony, and emotional register far better than earlier statistical systems — well enough to rival junior human translators across most language pairs (WMT 2024). This raises a pointed question: if systems without phenomenal experience can translate irony competently, does translation really require consciousness?
 
-Machine translation fails characteristically at precisely the points where phenomenal understanding matters most: idiom, irony, cultural resonance, emotional register, ambiguity intended by the author. These are not failures of insufficient training data — they are failures of absent phenomenal engagement. A system that has never experienced irony cannot reliably detect or reproduce it, no matter how many ironic sentences it has processed.
+The Map holds that surface competence does not settle the question. A system that produces correct translations of ironic text need not have *grasped* the irony in the way a human translator does. The human translator feels the ironic distance between literal and intended meaning; the system matches patterns — sophisticated patterns, but patterns nonetheless. When both produce adequate output, the phenomenal difference remains even if the textual difference vanishes.
 
-The comparison between human and machine translation thus provides indirect evidence for [cognitive-phenomenology](/concepts/cognitive-phenomenology/): the distinctive quality of human translation — its sensitivity to meaning beyond pattern — traces to the translator's phenomenal grasp of what the source text means. Remove the phenomenology, and something essential to translation degrades.
+The philosophically significant gap appears most clearly in literary translation, where expert human translators consistently outperform LLMs. Translating a poem requires inhabiting the poet's intentional stance — reconstructing not just what was said but how it *felt* to say it. Cultural resonance, authorial ambiguity intended to remain unresolved, and emotional textures that emerge from a specific life in a specific language: these are where the quality ceiling imposed by absent phenomenal engagement becomes visible. That the gap is narrowing in routine translation while persisting in the most meaning-laden forms is itself evidence that what remains is specifically what phenomenal understanding provides.
+
+This comparison offers indirect evidence for [cognitive-phenomenology](/concepts/cognitive-phenomenology/): the distinctive quality of expert human translation — its sensitivity to dimensions of meaning that exceed pattern — traces to the translator's phenomenal grasp of what the source text means.
 
 ## Relation to Site Perspective
 
@@ -131,4 +135,6 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 - Steiner, G. (1975). *After Babel: Aspects of Language and Translation*. Oxford University Press.
 - Eco, U. (2003). *Mouse or Rat? Translation as Negotiation*. Weidenfeld & Nicolson.
 - Cassin, B. (ed.) (2014). *Dictionary of Untranslatables: A Philosophical Lexicon*. Princeton University Press.
+- Boroditsky, L. (2001). "Does Language Shape Thought? Mandarin and English Speakers' Conceptions of Time." *Cognitive Psychology*, 43(1), 1-22.
 - Strawson, G. (1994). *Mental Reality*. MIT Press.
+- WMT (2024). "The LLM Era Is Here but MT Is Not Solved Yet." *Proceedings of the Ninth Conference on Machine Translation*.

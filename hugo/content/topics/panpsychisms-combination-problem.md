@@ -36,8 +36,7 @@ related_articles:
 title: Panpsychism's Combination Problem in Depth
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-strong-emergence]]'
-- '[[consciousness-and-the-emergence-debate]]'
+- '[[the-strong-emergence-of-consciousness]]'
 ---
 
 The combination problem does more than embarrass panpsychism. It reveals something deep about the nature of subjectivity: consciousness resists composition. If billions of micro-experiences cannot intelligibly combine into a unified mind, the problem is not merely that panpsychists lack the right mechanism. The problem is that subjectivity—the having of a perspective, the being of a "someone"—may be the sort of thing that cannot be assembled from parts at all. The Unfinishable Map takes this lesson seriously. Where panpsychism and physicalism both attempt to build consciousness from constituents, the Map treats it as ontologically distinct—something that interacts with matter rather than arising from it.
@@ -144,7 +143,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 - [panpsychism](/concepts/panpsychism/) — The view facing this challenge
 - [russellian-monism](/concepts/russellian-monism/) — The most developed framework for contemporary panpsychism
 - [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/) — Why unity cannot be functionally explained
-- [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/) — Emergence and its limits
+- [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Emergence and its limits
 - [idealism](/concepts/idealism/) — An alternative that claims to invert the combination problem
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's experiential framework
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's alternative framework

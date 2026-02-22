@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-19 10:36:00+00:00
+ai_modified: 2026-02-22 02:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,17 +11,18 @@ concepts:
 - '[[control-theoretic-will]]'
 - '[[agent-teleology]]'
 - '[[attention-as-interface]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[topics/phenomenal-value-realism]]'
 created: 2026-02-19
 date: &id001 2026-02-19
-description: 'The Map''s commitments force a fork: does consciousness select outcomes
-  neutrally (value-blind) or guided by valence (value-sensitive)? Each horn carries
-  distinct implications for teleology, ethics, and testability.'
+description: Does consciousness select outcomes neutrally or guided by valence? The
+  Map's commitments force this fork, with distinct implications for teleology and
+  testability.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-22 02:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +60,7 @@ On this view, selection operates through attention and intention as *content-neu
 
 Value-blind selection preserves a clean separation between the *mechanism* of consciousness (how it acts on the brain) and the *content* of consciousness (what it experiences, including valence). This mirrors the distinction in control theory between the controller's actuator channel and its sensor channel. The sensor provides feedback—including valenced feedback—but the actuator operates through a separate channel that need not encode value directly.
 
-Stapp's quantum Zeno model illustrates this cleanly. Attention increases the observation rate on a neural subsystem, stabilising it via the Zeno effect. The mechanism is attention intensity → observation frequency → pattern stability. Valence need play no role: you attend to what you attend to, and the physics does the rest. Whether what you attend to feels good or bad is a fact about the feedback channel, not the control signal.
+Stapp's quantum Zeno model offers one illustration. On that proposal, attention increases the observation rate on a neural subsystem, stabilising it via the Zeno effect. The mechanism is attention intensity → observation frequency → pattern stability. Valence need play no role: you attend to what you attend to, and the physics does the rest. Whether what you attend to feels good or bad is a fact about the feedback channel, not the control signal.
 
 ### The Problem: Value Becomes Epiphenomenal to Selection
 
@@ -152,7 +153,7 @@ The Map should eventually take a position on this fork. The graduated middle pat
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Will as a low-bandwidth control signal
 - [agent-teleology](/concepts/agent-teleology/) — Genuine purpose through conscious causation
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Values grounded in phenomenal properties
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — Candidate mechanisms for mind-brain interaction
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Laws and candidate mechanisms for mind-brain interaction
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this fork partially threatens to resurrect
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface through which consciousness acts
 

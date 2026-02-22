@@ -29,7 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[evolutionary-case-for-mental-causation]]'
-- '[[consciousness-and-the-emergence-debate]]'
+- '[[the-strong-emergence-of-consciousness]]'
 - '[[consciousness-in-simple-organisms]]'
 - '[[topics/free-will]]'
 - '[[animal-consciousness]]'
@@ -133,7 +133,7 @@ Evolution under dualism connects to the Map's tenets in ways that strengthen bot
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness evolved and the interface hypothesis
 - [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — Why evolution deepens the mystery of consciousness
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence that consciousness contributes to fitness
-- [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/) — Strong emergence and the quantum mechanism
+- [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Strong emergence and the quantum mechanism
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Where the interface might begin
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework connecting mind and matter
 - [filter-theory](/concepts/filter-theory/) — The transmission/filter model grounding the interface story

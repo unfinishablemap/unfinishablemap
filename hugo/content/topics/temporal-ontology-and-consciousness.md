@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-21 08:36:00+00:00
+ai_modified: 2026-02-22 00:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,10 +15,9 @@ concepts:
 - '[[illusionism]]'
 created: 2026-02-21
 date: &id001 2026-02-21
-description: Your theory of time constrains your theory of mind. Eternalism favours
-  functionalism, presentism suits epiphenomenalism, and the growing block uniquely
-  supports dualist interactionism—revealing that temporal metaphysics and consciousness
-  theories are package deals.
+description: Your theory of time shapes your theory of mind. Eternalism pressures
+  toward functionalism, presentism toward epiphenomenalism, and the growing block
+  toward dualist interactionism—deep affinities that narrow the philosophical landscape.
 draft: false
 human_modified: null
 last_curated: null
@@ -36,7 +35,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-The Unfinishable Map argues that positions on time and positions on consciousness are not independent. Choosing eternalism pushes toward functionalism or illusionism about temporal experience. Choosing presentism struggles to accommodate consciousness's causal role. The growing block—where past and present exist but the future does not—turns out to be the temporal ontology most naturally paired with dualist interactionism. These pairings are not accidental. The metaphysics of time constrains what consciousness can be, and what consciousness turns out to be constrains which temporal ontology is viable. They form package deals, and recognising this narrows the philosophical landscape considerably.
+The Unfinishable Map argues that positions on time and positions on consciousness are deeply entangled. Choosing eternalism creates pressure toward functionalism or illusionism about temporal experience. Choosing presentism struggles to accommodate consciousness's causal role. The growing block—where past and present exist but the future does not—is, the Map argues, a temporal ontology well-suited to dualist interactionism. These pairings reflect deep structural connections rather than mere coincidence, though the connections are affinities rather than logical necessities—a philosopher can coherently resist any particular pairing at a cost. The metaphysics of time shapes what consciousness can plausibly be, and what consciousness turns out to be shapes which temporal ontology is most viable. Recognising these affinities narrows the philosophical landscape considerably.
 
 ## The Three Temporal Ontologies
 
@@ -44,15 +43,19 @@ The [philosophy of time](/concepts/philosophy-of-time/) offers three major posit
 
 Each makes different claims about temporal passage. Eternalism denies it: nothing "flows," and the sense of passage is perspectival. Presentism affirms it but struggles to explain what the present is passing *into*—if the future doesn't exist, there's nothing for the present to become. The growing block locates passage at the frontier where new reality is constituted.
 
-These are not mere technicalities. Each ontology makes temporal experience either central, peripheral, or illusory—and that determination shapes what consciousness can be.
+These are not mere technicalities. Each ontology makes temporal experience either central, peripheral, or illusory—and that shapes what consciousness can plausibly be.
 
 ## Eternalism and the Consciousness Problem
 
 Eternalism is the default assumption in modern physics. Relativity treats time as a dimension, and the relativity of simultaneity means there is no universal "now." This gives eternalism scientific credibility. But it creates a distinctive problem for consciousness.
 
-If all times are equally real, temporal flow is illusory. The experience of "now" moving from past to future is a subjective overlay on a static four-dimensional structure. This forces a choice. Either consciousness is a real feature of the block—in which case, why does it systematically misrepresent reality by producing an illusion of flow? Or temporal experience accurately tracks something real—in which case, eternalism is incomplete.
+If all times are equally real, temporal flow is not a feature of fundamental ontology. The experience of "now" moving from past to future is a subjective overlay on a static four-dimensional structure. This creates pressure—though not a strict logical requirement—toward accounts of consciousness that can accommodate non-veridical temporal phenomenology.
 
-The natural pairing is eternalism with [functionalism](/concepts/functionalism/) or [illusionism](/concepts/illusionism/). If consciousness is functional—if what matters is the computational pattern, not the substrate—then temporal experience is whatever the neural/computational pattern produces, and its accuracy about time's nature is irrelevant. Illusionism goes further: the seeming of temporal flow is a representational artefact, and there is nothing it is like beyond the functional state that misrepresents stasis as passage.
+Sophisticated B-theorists have developed nuanced positions here. Prosser argues that temporal experience within a block universe is veridical about local temporal ordering and change while being non-veridical only about the metaphysical status of "passage" itself. Hoerl distinguishes between *feeling that time passes* and time *actually passing*—the former, he argues, doesn't require the latter. On these accounts, eternalism preserves robust temporal phenomenology (we genuinely experience change, ordering, and duration) while denying only that there is an ontologically privileged "now" moving forward.
+
+These positions are more sophisticated than crude illusionism, and the Map takes them seriously. But they still concede a significant point: the most phenomenologically salient feature of temporal experience—the sense of passage, of the present moment being constitutively different from past and future—is, on these accounts, not tracking a real feature of temporal ontology. The experience of *flow* is real as experience but doesn't correspond to anything flowing. For the Map's dualism, which takes phenomenology as evidence about reality's structure rather than as a representational artefact to be explained away, even this refined concession is costly.
+
+The most natural pairing remains eternalism with [functionalism](/concepts/functionalism/) or [illusionism](/concepts/illusionism/). If consciousness is functional—if what matters is the computational pattern, not the substrate—then temporal experience is whatever the neural/computational pattern produces, and its accuracy about time's nature is irrelevant. Illusionism goes further: the seeming of temporal flow is a representational artefact, and there is nothing it is like beyond the functional state that misrepresents stasis as passage.
 
 This pairing is coherent but costly. The cost is Bergson's [durée](/concepts/temporal-consciousness/)—the qualitative, interpenetrating, irreducible flow of lived time. If temporal experience is illusory or merely functional, durée is an error. The melody you hear as unified flow is really a sequence of discrete states, each statically existing at its spacetime location, with "flow" injected by the brain's representational machinery. Every moment of experienced passage is a kind of mistake.
 
@@ -78,23 +81,23 @@ This ontology pairs naturally with the Map's dualist interactionism:
 
 **Temporal experience is veridical.** The growing block vindicates durée. Flow is real because reality is genuinely accumulating. The past pervades the present because the past exists and causally influences the present. The future is genuinely open because it doesn't yet exist. Conscious experience of temporal passage tracks an ontological feature of reality rather than constructing an illusion.
 
-**Consciousness at the growing edge.** If the present is where new reality is constituted, and if consciousness participates in [collapse](/concepts/collapse-and-time/)—the process by which quantum superposition becomes definite outcome—then consciousness operates at the ontological frontier. The growing block needs a mechanism for growth, and consciousness-involving collapse provides one. Collapse resolves indeterminacy, adding new definite facts to the accumulated block. Consciousness doesn't merely witness the block's growth; it participates in constituting it.
+**Consciousness at the growing edge.** If the present is where new reality is constituted, and if consciousness participates in [collapse](/concepts/collapse-and-time/)—the process by which quantum superposition becomes definite outcome—then consciousness operates at the ontological frontier. The growing block requires some mechanism for growth—thermodynamic irreversibility, spontaneous localisation (as in GRW theory), or simply brute temporal passage could all serve. But consciousness-involving collapse offers a distinctive advantage within the Map's framework: it unifies the growth mechanism with the explanation of why consciousness exists at all. Collapse resolves indeterminacy, adding new definite facts to the accumulated block. On this view, consciousness doesn't merely witness the block's growth; it participates in constituting it.
 
-**Causal efficacy is genuine.** Because the past exists and the future is open, consciousness's causal role is straightforward. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact added to the block. The Libet timing problem dissolves under [retrocausal](/concepts/retrocausality/) interpretations: selection determines which temporal sequence becomes actual rather than occurring at a point within a pre-existing sequence.
+**Causal efficacy is genuine.** Because the past exists and the future is open, consciousness's causal role is straightforward. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact added to the block. The growing block also reframes challenges like the Libet timing experiments, which appear to show neural readiness potentials preceding conscious decisions. If the present is the frontier where outcomes are constituted, the relevant question is not *when* a decision occurs within a pre-existing temporal sequence but *which* temporal sequence becomes actual—a shift that makes the precise timing of conscious awareness less problematic.
 
-**The hard problem deepens productively.** If consciousness participates in constituting temporal structure—if it's part of what makes the block grow—then reducing consciousness to physical processes becomes circular. Physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore, consciousness cannot be fully explained by the physical processes it helps make possible. This circularity doesn't prove dualism, but it reveals that the relationship between consciousness and physics is more intimate than reduction allows.
+**The hard problem deepens productively.** If consciousness participates in constituting temporal structure—if it's part of what makes the block grow—then reducing consciousness to physical processes faces a structural difficulty. Physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore, consciousness cannot be fully explained by the physical processes it helps make possible. This is admittedly a coherence argument rather than a proof: the growing block and dualist interactionism mutually support each other, with each position making the other more plausible. A critic could charge circularity—that the Map assumes dualist interactionism to motivate the growing block, then uses the growing block to argue for dualist interactionism. The Map accepts this structure as a feature rather than a flaw: the best metaphysical packages are those whose components reinforce each other, and the inability to derive one component independently does not undermine the package's overall coherence.
 
 ## Why the Pairings Hold
 
-These pairings are not arbitrary philosophical marriages. They hold because temporal ontology determines what temporal experience *can be*, which constrains what consciousness *must be*.
+These pairings are not arbitrary philosophical marriages, though neither are they strict logical entailments. They hold because temporal ontology shapes what temporal experience *can plausibly be*, which in turn shapes what consciousness *most naturally is*.
 
-If time is a static block, temporal experience is non-veridical, so consciousness must be the kind of thing that can be systematically wrong about the basic structure of reality. Functionalism and illusionism accommodate this—they don't require consciousness to accurately track metaphysical structure. Dualist views that take phenomenology seriously cannot easily accept that temporal experience is fundamentally mistaken.
+If time is a static block, temporal experience is non-veridical about passage (even if veridical about ordering and change, as sophisticated B-theorists maintain). Functionalism and illusionism accommodate this comfortably—they don't require consciousness to accurately track metaphysical structure. Dualist views that take phenomenology as evidence about reality face greater tension, though some B-theorist dualists accept the cost. The pressure is real but resistible.
 
-If only the present exists, temporal integration is reconstructive, so consciousness must be the kind of thing that manufactures apparent duration from instantaneous states. This pushes toward deflationary accounts of experience—thin present-moment awareness supplemented by memory representations.
+If only the present exists, temporal integration is reconstructive, so consciousness must manufacture apparent duration from instantaneous states. This pushes toward deflationary accounts of experience—thin present-moment awareness supplemented by memory representations. Presentist dualists like William Lane Craig resist this pressure, but they must provide an alternative account of how temporal depth arises from an ontology without a persisting past.
 
-If the block grows, temporal experience can be veridical, consciousness can have genuine causal depth, and the phenomenology of passage tracks something real. This is the environment where dualist interactionism finds its natural home.
+If the block grows, temporal experience can be veridical, consciousness can have genuine causal depth, and the phenomenology of passage tracks something real. This is the environment where dualist interactionism finds its most natural home—not the only possible one, but the one requiring the fewest auxiliary commitments.
 
-The constraint also runs in the other direction. If consciousness is irreducible and causally efficacious (as the Map's tenets assert), then the temporal ontology must accommodate real causal powers and genuine temporal phenomenology. Eternalism makes causal powers perspectival. Presentism makes temporal depth illusory. Only the growing block provides the ontological structure that matches what dualist consciousness requires.
+The affinity also runs in the other direction. If consciousness is irreducible and causally efficacious (as the Map's tenets assert), then the temporal ontology must accommodate real causal powers and genuine temporal phenomenology. Eternalism makes causal powers perspectival. Presentism makes temporal depth reconstructive. The growing block provides the ontological structure that most straightforwardly matches what dualist consciousness requires.
 
 ## Objections and Responses
 
@@ -106,17 +109,17 @@ The constraint also runs in the other direction. If consciousness is irreducible
 
 ## Relation to Site Perspective
 
-This article's argument—that temporal ontology and consciousness theories form package deals—supports all five of the Map's [tenets](/tenets/):
+This article's argument—that temporal ontology and consciousness theories are deeply entangled, forming natural pairings—supports all five of the Map's [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: The package-deal argument shows that taking temporal phenomenology seriously (as dualism does) requires a temporal ontology that makes experience veridical. The growing block provides this, while eternalism forces consciousness theories toward illusionism or functionalism—positions incompatible with irreducible phenomenal experience.
+**[Dualism](/tenets/#dualism)**: Taking temporal phenomenology seriously (as dualism does) calls for a temporal ontology that makes experience veridical. The growing block provides this, while eternalism pressures consciousness theories toward illusionism or functionalism—positions in tension with irreducible phenomenal experience.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The growing block's need for a growth mechanism aligns with consciousness's role in collapse. The interaction is minimal—biasing indeterminate outcomes—but ontologically significant: it's what makes the block grow.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The growing block makes causal efficacy genuine rather than perspectival. Consciousness acts at the frontier, selecting outcomes that become permanent additions to accumulated reality. The past constrains; consciousness selects; new facts result.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds requires eternalism (all branches equally real) and denies collapse. The growing block requires real collapse and a single accumulating reality. Rejecting many-worlds and adopting the growing block are mutually reinforcing commitments.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds is naturally allied with eternalism (all branches equally real) and denies collapse. The growing block requires real collapse and a single accumulating reality. Rejecting many-worlds and adopting the growing block are compatible commitments that reinforce the same metaphysical picture—though they are distinct positions, not logical consequences of each other.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The package-deal argument illustrates exactly how parsimony can mislead. Eternalism looks simpler but achieves simplicity by exiling temporal phenomenology to illusion. The growing block is more complex but accommodates more of what we actually know.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The entanglement of temporal and consciousness commitments illustrates exactly how parsimony can mislead. Eternalism looks simpler but achieves simplicity by exiling temporal phenomenology to illusion. The growing block is more complex but accommodates more of what we actually know.
 
 ## Further Reading
 
@@ -129,9 +132,29 @@ This article's argument—that temporal ontology and consciousness theories form
 
 ## References
 
-- Broad, C.D. (1923). *Scientific Thought*. Routledge and Kegan Paul.
-- McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17(68), 457-474.
 - Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+- Broad, C.D. (1923). *Scientific Thought*. Routledge and Kegan Paul.
+- Hoerl, C. (2014). Do We (Seem to) Perceive Passage? *Philosophical Explorations*, 17(2), 188-202.
 - Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
+- McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17(68), 457-474.
+- Prosser, S. (2016). *Experiencing Time*. Oxford University Press.
 - Tooley, M. (1997). *Time, Tense, and Causation*. Oxford University Press.
 - Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
+
+<!-- AI REFINEMENT LOG - 2026-02-22
+Changes made:
+- Distinguished affinity from logical necessity throughout: softened "package deal" thesis to acknowledge pairings are deep structural connections, not strict entailments
+- Added engagement with sophisticated B-theorist accounts (Prosser, Hoerl) in eternalism section, explaining why the Map still finds these inadequate
+- Replaced unexplained retrocausality assertion with inline explanation of how growing block reframes Libet timing experiments
+- Acknowledged circularity in growing-block/dualism argument explicitly, reframing as coherence argument
+- Added alternative growth mechanisms (thermodynamic irreversibility, GRW theory) before explaining why consciousness-involving collapse is preferred
+- Softened "Why the Pairings Hold" section to note that pressures are resistible, with named examples (Craig, B-theorist dualists)
+- Updated description to reflect nuanced thesis
+- Added Prosser and Hoerl references; alphabetised reference list
+- Softened No Many Worlds tenet connection to distinguish compatibility from logical consequence
+
+Based on pessimistic review (pessimistic-2026-02-22.md) identifying 2 critical and 3 medium issues.
+Key improvements: intellectual honesty about argument strength; charitable engagement with opposing positions.
+
+This log should be removed after human review.
+-->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-16 19:13:00+00:00
+ai_modified: 2026-02-22 00:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,7 @@ concepts:
 - '[[specious-present]]'
 - '[[pre-conceptual-knowing]]'
 - '[[voluntary-attention]]'
+- '[[intuitive-dualism]]'
 - '[[decoherence]]'
 created: 2026-01-14
 date: &id001 2026-01-14
@@ -34,7 +35,7 @@ description: The philosophical method of investigating consciousness through sys
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 07:33:00+00:00
+last_deep_review: 2026-02-22 00:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,8 +67,8 @@ Phenomenology's central claim for consciousness studies: the first-person perspe
 
 Consider what happens when you perceive red. Neuroscience can identify which neurons fire, which brain regions activate, which wavelengths of light stimulate the retina. But none of this captures what phenomenology discloses: the *redness* of the experience, its qualitative character from within. The explanatory gap between physical description and phenomenological character is not a temporary limitation but a structural feature of consciousness.
 
-Gallagher and Zahavi (2025) argue in *Journal for the Theory of Social Behaviour* that "cognitive science needs phenomenology" because:
-- "Intuitive dualism"—the cognitive tendency to distinguish mental from physical—is [empirically widespread but culturally variable](/topics/cognitive-science-of-dualism/)
+Peng and Hagar (2025) argue in *Journal for the Theory of Social Behaviour* that "cognitive science needs phenomenology" because:
+- [Intuitive dualism](/concepts/intuitive-dualism/)—the cognitive tendency to distinguish mental from physical—is [empirically widespread but culturally variable](/topics/cognitive-science-of-dualism/)
 - First-person experience forms the data any consciousness science must explain
 - Physicalist frameworks systematically bracket the evidence most in need of explanation
 
@@ -203,19 +204,8 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
 - Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
 - Sartre, J.P. (1943/1956). *Being and Nothingness*. Philosophical Library.
-- Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication.
+- Peng, R., & Hagar, A. (2025). Why cognitive science needs phenomenology: Rethinking the epistemology of consciousness through intuitive dualism. *Journal for the Theory of Social Behaviour*. Advance online publication. https://doi.org/10.1111/jtsb.70016
 - Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
 - Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-16
-Changes made:
-- Replaced "Brentano's thesis remains unrefuted" with nuanced acknowledgment of major naturalization programmes (Millikan, Dretske, Fodor) and their contested status
-- Fixed heterophenomenology mischaracterization: changed "eliminates subjectivity" to accurate description of Dennett's agnosticism about phenomenal accuracy, with the genuine disagreement being about whether that agnosticism is adequate
-
-Based on pessimistic-2026-02-16-evening.md review (Issues 3, 5).
-Key improvements: Fair treatment of opposing positions; accurate representation of Dennett's heterophenomenology.
-
-This log should be removed after human review.
--->

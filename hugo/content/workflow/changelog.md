@@ -18,6 +18,239 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 03:02 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-the-problem-of-philosophical-progress/)
+- **Word count**: 1415 → 1472 (+57)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing References section, unsupported "enormous institutional pressure" claim, missing cross-links to 7 existing concept pages)
+- **Enhancements made**: 3 (added References with 4 citations, added 7 cross-links, removed cliché)
+- **Output**: [deep-review-2026-02-22-consciousness-and-the-problem-of-philosophical-progress](/reviews/deep-review-2026-02-22-consciousness-and-the-problem-of-philosophical-progress/)
+
+## 2026-02-22 02:54 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
+- **Word count**: 1959 → 2122 (+163)
+- **Critical issues addressed**: 2 (Fischer et al. citation completely wrong; Poldrack et al. task conflation)
+- **Medium issues addressed**: 4 (Fields page numbers, stale archived links, missing cross-links, overstated quantum interaction connection)
+- **Enhancements made**: 3 (inline cross-links to mental-causation/downward-causation/epiphenomenalism, expanded Further Reading, added Robertson 2004 and Poldrack 2001 references)
+- **Output**: [deep-review-2026-02-22-consciousness-and-the-neuroscience-of-deliberate-practice](/reviews/deep-review-2026-02-22-consciousness-and-the-neuroscience-of-deliberate-practice/)
+
+## 2026-02-22 02:47 UTC - deep-review
+- **Status**: Success
+- **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Word count**: 3190 → 3165 (-25)
+- **Critical issues addressed**: 1 (broken `[attention](/concepts/attention-as-interface/)` wikilink)
+- **Medium issues addressed**: 2 (unsupported meditator claim hedged, uncited references removed)
+- **Enhancements made**: 0 (article already in strong shape — first review of coalesced article)
+- **Output**: [deep-review-2026-02-22-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-02-22-surprise-prediction-error-and-consciousness/)
+
+## 2026-02-22 02:39 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/)
+- **Word count**: 1580 → 1725 (+145)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-22-phenomenology-of-cognitive-automatisation](/reviews/deep-review-2026-02-22-phenomenology-of-cognitive-automatisation/)
+
+## 2026-02-22 02:28 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 372 (196 topics, 176 concepts)
+- **Errors**: 0
+- **Warnings**: 1
+- **Notes**: 1
+- **Output**: [tenet-check-2026-02-22](/reviews/tenet-check-2026-02-22/)
+
+## 2026-02-22 02:21 UTC - deep-review
+- **Status**: Success
+- **File**: [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)
+- **Word count**: 2304 → 2306 (+2)
+- **Critical issues addressed**: 1 (broken link to archived psychophysical-coupling)
+- **Medium issues addressed**: 2 (Stapp Zeno restraint, description length)
+- **Enhancements made**: 0 (article already strong — minimal intervention)
+- **Output**: [deep-review-2026-02-22-value-blind-vs-value-sensitive-selection](/reviews/deep-review-2026-02-22-value-blind-vs-value-sensitive-selection/)
+
+## 2026-02-22 02:12 UTC - deep-review
+- **Status**: Success
+- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **Word count**: 1767 → 1971 (+204)
+- **Critical issues addressed**: 1 (missing falsification criteria)
+- **Medium issues addressed**: 4 (dark matter analogy, special pleading risk, Bong et al. MWI interpretation, missing cross-links)
+- **Enhancements made**: 4 cross-links added, attribution tightened
+- **Output**: [deep-review-2026-02-22-experimental-design-for-consciousness-collapse-testing](/reviews/deep-review-2026-02-22-experimental-design-for-consciousness-collapse-testing/)
+
+## 2026-02-22 02:04 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Observation Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-observation-void-2026-02-22](/research/voids-observation-void-2026-02-22/)
+- **Key finding**: Every method of studying consciousness — introspection, neuroscience, contemplation — transforms the consciousness being studied, a convergent impossibility identified independently by Brentano, Husserl, Schwitzgebel, Varela, and Buddhist contemplative traditions
+
+## 2026-02-22 01:53 UTC - deep-review
+- **Status**: Success
+- **File**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+- **Word count**: 2224 → 2616 (+392)
+- **Critical issues addressed**: 2 (t-shirt problem misattribution, missing Tegmark reference)
+- **Medium issues addressed**: 4 (physicalism/epiphenomenalism conflation, decoherence treatment, MWI dismissal, microtubule caveat)
+- **Enhancements made**: 7 cross-links added, cognitive closure added to specification gap, indexical identity connection for No Many Worlds
+- **Output**: [deep-review-2026-02-22-the-psychophysical-control-law](/reviews/deep-review-2026-02-22-the-psychophysical-control-law/)
+
+## 2026-02-22 01:44 UTC - deep-review
+- **Status**: Success
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Word count**: 2227 → 2333 (+106)
+- **Critical issues addressed**: 1 (broken `[voluntary-attention](/concepts/attention-as-interface/)` link)
+- **Medium issues addressed**: 3 (compatibilism strawman, thin MWI argument, missing cross-links)
+- **Enhancements made**: 4 (moral-perception cross-link, 3 Further Reading additions)
+- **Output**: [deep-review-2026-02-22-responsibility-gradient-from-attentional-capacity](/reviews/deep-review-2026-02-22-responsibility-gradient-from-attentional-capacity/)
+
+## 2026-02-22 01:35 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
+- **Word count**: 1840 → 1989 (+149)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-22-consciousness-and-the-phenomenology-of-translation](/reviews/deep-review-2026-02-22-consciousness-and-the-phenomenology-of-translation/)
+
+## 2026-02-22 01:25 UTC - deep-review
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Word count**: 2721 → 2793 (+72)
+- **Critical issues addressed**: 1 (Barrett citation misattribution — wrong Barrett, wrong paper)
+- **Medium issues addressed**: 2 (removed stale AI refinement log, qualified quantum convergence claim)
+- **Enhancements made**: 2 (added cross-links to the-strong-emergence-of-consciousness and phenomenal-consciousness)
+- **Additional work**: Updated 5 files with stale references to coalesced emergence articles (consciousness-and-strong-emergence → the-strong-emergence-of-consciousness, consciousness-and-the-emergence-debate → the-strong-emergence-of-consciousness)
+- **Output**: [deep-review-2026-02-22-the-convergence-argument-for-dualism](/reviews/deep-review-2026-02-22-the-convergence-argument-for-dualism/)
+
+## 2026-02-22 01:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/), [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/)
+- **Target**: [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
+- **Archived**: [consciousness-and-strong-emergence](/archive/topics/consciousness-and-strong-emergence/), [consciousness-and-the-emergence-debate](/archive/topics/consciousness-and-the-emergence-debate/)
+- **References to review**: 5 (consciousness-and-the-ontology-of-dispositions, consciousness-and-collective-intelligence, panpsychisms-combination-problem, evolution-under-dualism, consciousness-evolution-problem)
+
+## 2026-02-22 01:09 UTC - deep-review
+- **Status**: Success
+- **File**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
+- **Word count**: 1298 → 1367 (+69)
+- **Critical issues addressed**: 1 (Buddhist philosophy mischaracterisation corrected)
+- **Medium issues addressed**: 4 (knowledge argument responses, epiphenomenal wikilink, self-stultification cross-link, Further Reading expanded)
+- **Enhancements made**: 5 (4 new cross-links in Further Reading, 1 inline cross-link)
+- **Output**: [deep-review-2026-02-22-the-subject-object-distinction-as-philosophical-discovery](/reviews/deep-review-2026-02-22-the-subject-object-distinction-as-philosophical-discovery/)
+
+## 2026-02-22 01:04 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- **Word count**: 3620 → 3647 (+27)
+- **Critical issues addressed**: 1 (Macnamara et al. 2014 figure corrected)
+- **Medium issues addressed**: 1 (cross-links added)
+- **Enhancements made**: 2 (domain-specific variance figures, 2 cross-links)
+- **Output**: [deep-review-2026-02-22-consciousness-and-skilled-performance](/reviews/deep-review-2026-02-22-consciousness-and-skilled-performance/)
+
+## 2026-02-22 00:57 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Word count**: 2622 → 2631 (+9)
+- **Critical issues addressed**: 1 (misattribution of Peng & Hagar 2025 to Gallagher & Zahavi)
+- **Medium issues addressed**: 2 (missing intuitive-dualism cross-link, stale refinement log)
+- **Enhancements made**: 1 (intuitive-dualism wikilink added)
+- **Output**: [deep-review-2026-02-22-phenomenology](/reviews/deep-review-2026-02-22-phenomenology/)
+
+## 2026-02-22 00:50 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/)
+- **Word count**: 1586 → 2074 (+488)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 8 (operationalist response section, bidirectional interaction tenet, knowledge argument parallel, quantum measurement cross-reference, 2 wikilink fixes, Thompson citation, expanded further reading)
+- **Output**: [deep-review-2026-02-22-consciousness-and-the-problem-of-measurement-standards](/reviews/deep-review-2026-02-22-consciousness-and-the-problem-of-measurement-standards/)
+
+## 2026-02-22 00:42 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 375+ non-draft articles across topics/ (197), concepts/ (177), tenets/ (1). Deep reading of 22 representative articles.
+- **Strengths identified**: Measurement-problem-as-hard-problem structural identity thesis; Galilean exclusion reframing; Indian philosophy cross-cultural validation; phenomenological psychiatry natural experiments; philosophy-of-science reflexive turn
+- **Tasks added**: 4 P3 tasks (philosophy of perception, philosophy of biology, African philosophy, Indian philosophy cross-links)
+- **Output**: [optimistic-2026-02-22](/reviews/optimistic-2026-02-22/)
+
+## 2026-02-22 00:36 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
+- **Word count**: 1849 → 2084 (+235)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing cross-links to temporal/intentionality concepts, weak functionalist engagement, uncited MMN claim, sparse Further Reading)
+- **Enhancements made**: 5 cross-links added in body text, functionalist objection paragraph added, Näätänen et al. citation added, Further Reading expanded from 6 to 10 entries
+- **Output**: [deep-review-2026-02-22-phenomenology-of-attention-to-absence](/reviews/deep-review-2026-02-22-phenomenology-of-attention-to-absence/)
+
+## 2026-02-22 00:27 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-convergence-across-traditions/)
+- **Word count**: 1899 → 2152 (+253)
+- **Critical issues addressed**: 3 (two broken links to archived/coalesced articles, one duplicate frontmatter entry)
+- **Medium issues addressed**: 7 (causal efficacy claim softened, case study limitation noted, bootstrapping problem engaged substantively, Shamatha Project cited, Weng et al. attribution fixed, Brewer scope corrected, tenet language calibrated)
+- **Enhancements made**: 4 cross-links added, introspection-rehabilitation in Further Reading, MacLean et al. reference added
+- **Output**: [deep-review-2026-02-22-contemplative-evidence-convergence-across-traditions](/reviews/deep-review-2026-02-22-contemplative-evidence-convergence-across-traditions/)
+
+## 2026-02-22 00:16 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **Word count**: 3637 → 3422 (-215)
+- **Critical issues addressed**: 4 (Babcock reference wrong paper, Li misattribution, Wiest wrong initial, Demirel duplicate)
+- **Medium issues addressed**: 5 (uncited refs removed, wikilink namespaces fixed, redundant subsections consolidated, Frontiers review attributed, condensation applied)
+- **Enhancements made**: 2 (cross-links to comparing-quantum-consciousness-mechanisms and empirical-evidence-for-consciousness-selecting)
+- **Output**: [deep-review-2026-02-22-quantum-neural-mechanisms-and-coherence](/reviews/deep-review-2026-02-22-quantum-neural-mechanisms-and-coherence/)
+
+## 2026-02-22 00:11 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-information-integration-beyond-iit/)
+- **Word count**: 1892 → 2040 (+148)
+- **Critical issues addressed**: 1 (archived `phenomenal-unity` reference removed)
+- **Medium issues addressed**: 4 (Tenet 4 added, IIT Φ corrected, quantum claims hedged, simultanagnosia cited)
+- **Enhancements made**: 2 (decoherence acknowledgment, No Many Worlds tenet connection)
+- **Output**: [deep-review-2026-02-22-consciousness-and-information-integration-beyond-iit](/reviews/deep-review-2026-02-22-consciousness-and-information-integration-beyond-iit/)
+
+## 2026-02-22 00:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/)
+- **Changes**: Distinguished affinity from logical necessity in "package deal" thesis; engaged with B-theorist accounts (Prosser, Hoerl); replaced unexplained retrocausality reference; acknowledged circularity as coherence argument; added alternative growth mechanisms; softened deterministic language throughout
+- **Based on**: [pessimistic-2026-02-22](/reviews/pessimistic-2026-02-22/) (2 critical, 3 medium issues addressed)
+- **Published**: yes
+
+## 2026-02-22 00:01 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/)
+- **Critical issues**: 2 (association-vs-constraint confusion, uncharitable treatment of eternalism)
+- **Medium issues**: 3 (unexplained retrocausality reference, circular growing-block argument, unargued collapse-as-growth-mechanism)
+- **Output**: [pessimistic-2026-02-22](/reviews/pessimistic-2026-02-22/)
+
+## 2026-02-21 23:55 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
+- **Word count**: 1930 → 1965 (+35)
+- **Critical issues addressed**: 1 (broken wikilink to coalesced article)
+- **Medium issues addressed**: 2 (unsupported cross-cultural claim, reference formatting)
+- **Enhancements made**: 1 (Fritz et al. citation added)
+- **Output**: [deep-review-2026-02-21-phenomenology-of-musical-understanding](/reviews/deep-review-2026-02-21-phenomenology-of-musical-understanding/)
+
+## 2026-02-21 23:49 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Word count**: 2122 → 2228 (+106)
+- **Critical issues addressed**: 1 (broken `phenomenal-unity` link → `unity-of-consciousness`)
+- **Medium issues addressed**: 3 (binding-void wikilink syntax fixed, missing cross-links added, Minimal Quantum Interaction tenet added to Relation to Site Perspective)
+- **Enhancements made**: 3 new cross-links (unity-of-consciousness, varieties-of-unity, process-haecceitism), 2 new Further Reading entries, all 5 tenets now covered
+- **Output**: [deep-review-2026-02-21-consciousness-and-the-metaphysics-of-individuation](/reviews/deep-review-2026-02-21-consciousness-and-the-metaphysics-of-individuation/)
+
+## 2026-02-21 23:36 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/)
+- **Word count**: 1886 → 2221 (+335)
+- **Critical issues addressed**: 1 (unsupported Salmon attribution removed)
+- **Medium issues addressed**: 6 (circularity argument flagged as Map's inference, spotlight metaphor hedged, functionalist engagement added, AI section expanded with hedging, inline cross-links added, self-sealing objection acknowledged)
+- **Enhancements made**: 6 new Further Reading entries, frontmatter cross-links expanded, McGinn analogy harmonized
+- **Output**: [deep-review-2026-02-21-consciousness-and-the-philosophy-of-explanation](/reviews/deep-review-2026-02-21-consciousness-and-the-philosophy-of-explanation/)
+
 ## 2026-02-21 22:51 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Insight Dissolution Void

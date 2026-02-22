@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [Consciousness and the Emergence Debate](/topics/consciousness-and-the-emergence-debate/)
+**Article**: [Consciousness and the Emergence Debate](/topics/the-strong-emergence-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

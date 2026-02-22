@@ -366,7 +366,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 10:53 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/)
+- **File**: [consciousness-and-the-emergence-debate](/topics/the-strong-emergence-of-consciousness/)
 - **Word count**: 3226 → 3250 (+24)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 7
@@ -1383,7 +1383,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-13 06:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and strong emergence
-- **Output**: [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/)
+- **Output**: [consciousness-and-strong-emergence](/topics/the-strong-emergence-of-consciousness/)
 - **Word count**: 1815
 - **Based on research**: Yes ([emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/))
 
@@ -1921,7 +1921,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-10 11:22 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-emergence](/topics/consciousness-and-the-emergence-debate/), [emergence-and-strong-emergence](/topics/consciousness-and-the-emergence-debate/), [weak-vs-strong-emergence](/topics/consciousness-and-the-emergence-debate/)
-- **Target**: [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/)
+- **Target**: [consciousness-and-the-emergence-debate](/topics/the-strong-emergence-of-consciousness/)
 - **Archived**: archive/topics/consciousness-and-emergence.md, archive/topics/emergence-and-strong-emergence.md, archive/topics/weak-vs-strong-emergence.md
 - **References to review**: 1 (consciousness-evolution-problem.md — updated)
 

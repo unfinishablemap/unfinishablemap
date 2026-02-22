@@ -38,117 +38,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced mathematical cognition articles
-- **Type**: other
-- **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-20
-
-### P2: Update references to coalesced skill articles
-- **Type**: other
-- **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-19
-
-### P2: Update references to coalesced contemplative articles
-- **Type**: other
-- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-19
-
-### P2: Update references to coalesced surprise articles
-- **Type**: other
-- **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/)`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-19
-
-### P2: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
-- **Type**: other
-- **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/)`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-18
-
-### P2: Update references to coalesced metarepresentation article
-- **Type**: other
-- **Notes**: Coalesce (2026-02-17) merged `metarepresentation.md` into `metacognition.md` (now titled "Metacognition, Metarepresentation, and Consciousness"). 32 active content files reference `[metarepresentation](/concepts/metacognition/)` across concepts/, topics/, reviews/, and voids/. Key files include: teaching-as-metarepresentation.md, working-memory.md, baseline-cognition.md, theory-of-mind.md, higher-order-theories.md, consciousness-as-amplifier.md, cumulative-culture.md, global-workspace-theory.md, problem-of-other-minds.md, minimal-consciousness.md, consciousness-and-social-cognition.md (both concept and topic), jourdain-hypothesis.md, animal-consciousness.md, creativity-consciousness-and-novel-thought.md, distinctiveness-of-human-creativity.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[metacognition](/concepts/metacognition/)` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-17
-
-### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
-- **Type**: other
-- **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-16
-
-### P2: Update references to coalesced psychophysical-coupling article
-- **Type**: other
-- **Notes**: Coalesce (2026-02-16) merged `psychophysical-coupling.md` into `psychophysical-laws.md`. ~27 active content files reference `[psychophysical-coupling](/concepts/psychophysical-laws/)` across concepts/, topics/, and research/. Key files include: consciousness-selecting-neural-patterns.md, selection-laws.md, spontaneous-collapse-theories.md, interactionist-dualism.md, mental-causation.md, stapp-quantum-mind.md, coupling-modes.md, attention-as-interface.md, bidirectional-interaction.md, brain-specialness-boundary.md, hard-problem-of-consciousness.md, psychophysical-laws-bridging-mind-and-matter.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to psychophysical-laws where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-16
-
-### P2: Update references to coalesced temporal articles (specious-present, duration)
-- **Type**: other
-- **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[specious-present](/concepts/temporal-consciousness/)` and ~30 reference `[duration](/concepts/temporal-consciousness/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-15
-
-### P2: Update references to coalesced indexical articles (indexical-facts, indexical-knowledge, self-locating-beliefs)
-- **Type**: other
-- **Notes**: Coalesce (2026-02-13) merged `indexical-facts.md`, `indexical-knowledge.md`, and `self-locating-beliefs.md` into `indexical-knowledge-and-identity.md`. 5 active content files reference archived articles: haecceity.md and visual-consciousness.md reference `[indexical-facts](/concepts/indexical-knowledge-and-identity/)`, acquaintance-knowledge.md references `[indexical-knowledge](/concepts/indexical-knowledge-and-identity/)`, phenomenology-of-belief-revision.md and indexical-identity-quantum-measurement.md reference `[self-locating-beliefs](/concepts/indexical-knowledge-and-identity/)`. Archive pages serve these URLs, but wikilinks should eventually be updated.
-- **Source**: coalesce
-- **Generated**: 2026-02-13
-
-### P2: Update references to coalesced attention articles (attention, voluntary-attention, attention-motor-quantum-interface)
-- **Type**: other
-- **Notes**: Coalesce (2026-02-12) merged `attention.md`, `voluntary-attention.md`, and `attention-motor-quantum-interface.md` into `attention-as-interface.md`. ~36 active content files reference `[attention](/concepts/attention-as-interface/)`, ~43 reference `[voluntary-attention](/concepts/attention-as-interface/)`, ~10 reference `[attention-motor-quantum-interface](/concepts/attention-as-interface/)`. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to attention-as-interface where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-12
-
-### P2: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
-- **Type**: other
-- **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.
-- **Source**: coalesce
-- **Generated**: 2026-02-11
-
-### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
-- **Type**: other
-- **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
-- **Source**: coalesce
-- **Generated**: 2026-02-09
-
-### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
-- **Type**: other
-- **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-06
-
-### P2: Fix case-sensitivity wikilink errors across content
-- **Type**: other
-- **Notes**: Gap analysis found 68 case-sensitivity wikilink errors where capitalized forms like [Access consciousness](/concepts/access-consciousness/), [Blindsight](/concepts/blindsight/), [Filter-theory](/concepts/filter-theory/), [Qualia](/concepts/qualia/) are used instead of lowercase-hyphenated forms. Most concentrated in concepts/ section (255 occurrences). Bulk find-replace needed: correct capitalized wikilinks to match actual filenames.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Strengthen Minimal Quantum Interaction cross-references
-- **Type**: other
+- **Type**: cross-review
 - **Notes**: Gap analysis found Minimal Quantum Interaction is the weakest-represented tenet (184 files vs 301 for Dualism, 61% ratio). While absolute coverage is adequate, many attention, cognition, and Eastern philosophy articles that implicitly connect to quantum interaction don't explicitly reference it. Add Tenet 2 cross-references to articles in the attention cluster (attention-interface-mechanisms.md, voluntary-attention.md), biological articles (evolution-of-consciousness.md, neural-quantum-coherence.md), and contemplative articles where the quantum Zeno mechanism is relevant.
 - **Source**: gap_analysis
 - **Generated**: 2026-02-06
 
 ### P2: Update references to coalesced substrate-independence-critique article
-- **Type**: other
+- **Type**: cross-review
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/concepts/substrate-independence/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
 ### P3: Strengthen measurement-problem-as-hard-problem cross-references
-- **Type**: other
+- **Type**: cross-review
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. This article makes the Map's most distinctive contribution (the unification thesis) but is underlinked from emergence.md, filter-theory.md, downward-causation.md, and the tenets page. Cross-linking campaign would increase visibility of the strongest argument. See optimistic-2026-02-20-evening.md
 
 ### P3: Strengthen galilean-exclusion cross-links
-- **Type**: other
+- **Type**: cross-review
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. galilean-exclusion.md is the most structurally distinctive argument on the site but is not linked from explanatory-gap.md, consciousness.md, or consciousness-and-strong-emergence.md. These are the articles that would benefit most from its reframing. See optimistic-2026-02-21.md
+
+### P3: Write article on philosophy of perception and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has extensive phenomenology of higher cognition (mathematical, linguistic, moral, aesthetic) but comparatively thin treatment of basic perceptual consciousness—colour experience, cross-modal perception, perceptual constancy as evidence for irreducibility. This is the domain where the Galilean exclusion is most immediately visible. Builds on galilean-exclusion.md, phenomenology-of-attention-to-absence.md, aesthetic-dimension-of-consciousness.md, binding problem articles. See optimistic-2026-02-22.md
+
+### P3: Write article on consciousness and the philosophy of biology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map lacks systematic treatment of how dualism interfaces with philosophy of biology beyond evolution-of-consciousness. Recent work by Walsh, Godfrey-Smith, Okasha challenges gene-centered neo-Darwinism in ways potentially compatible with the Map's framework. Godfrey-Smith's octopus cognition work is particularly relevant. Builds on evolution-of-consciousness.md, consciousness-in-simple-organisms.md, animal-consciousness.md. See optimistic-2026-02-22.md
+
+### P3: Write article on African philosophy of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map includes Indian, Buddhist, and Eastern perspectives but has no coverage of African philosophical traditions. Ubuntu philosophy's relational personhood, the Akan concept of sunsum, and Tempels's vital force ontology offer genuinely different frameworks. The relational emphasis—consciousness as essentially communal—challenges both Western individualist dualism and Eastern dissolution of self. Builds on indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. See optimistic-2026-02-22.md
+
+### P3: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. indian-philosophy-of-mind.md provides independent cross-cultural validation of dualism but is not linked from substance-property-dualism.md, interactionist-dualism.md, or the-case-for-dualism.md. These core articles would benefit from noting that Indian traditions arrived at dualism through independent philosophical traditions over two millennia. See optimistic-2026-02-22.md
 
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
@@ -177,6 +107,94 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Fix case-sensitivity wikilink errors across content
+- **Type**: cross-review
+- **Notes**: Gap analysis found 68 case-sensitivity wikilink errors where capitalized forms like [Access consciousness](/concepts/access-consciousness/), [Blindsight](/concepts/blindsight/), [Filter-theory](/concepts/filter-theory/), [Qualia](/concepts/qualia/) are used instead of lowercase-hyphenated forms. Most concentrated in concepts/ section (255 occurrences). Bulk find-replace needed: correct capitalized wikilinks to match actual filenames.
+- **Output**: None -- Context: Fix case-sensitivity wikilink errors across content
+
+### ✓ 2026-02-22: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
+- **Type**: cross-review
+- **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
+- **Output**: None -- Context: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
+
+### ✓ 2026-02-22: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
+- **Output**: None -- Context: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
+
+### ✓ 2026-02-22: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.
+- **Output**: None -- Context: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
+
+### ✓ 2026-02-22: Update references to coalesced attention articles (attention, voluntary-attention, attention-motor-quantum-interface)
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-12) merged `attention.md`, `voluntary-attention.md`, and `attention-motor-quantum-interface.md` into `attention-as-interface.md`. ~36 active content files reference `[attention](/concepts/attention-as-interface/)`, ~43 reference `[voluntary-attention](/concepts/attention-as-interface/)`, ~10 reference `[attention-motor-quantum-interface](/concepts/attention-as-interface/)`. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to attention-as-interface where appropriate.
+- **Output**: None -- Context: Update references to coalesced attention articles (attention, voluntary-attention, attention-motor-quantum-interface)
+
+### ✓ 2026-02-22: Update references to coalesced indexical articles (indexical-facts, indexical-knowledge, self-locating-beliefs)
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-13) merged `indexical-facts.md`, `indexical-knowledge.md`, and `self-locating-beliefs.md` into `indexical-knowledge-and-identity.md`. 5 active content files reference archived articles: haecceity.md and visual-consciousness.md reference `[indexical-facts](/concepts/indexical-knowledge-and-identity/)`, acquaintance-knowledge.md references `[indexical-knowledge](/concepts/indexical-knowledge-and-identity/)`, phenomenology-of-belief-revision.md and indexical-identity-quantum-measurement.md reference `[self-locating-beliefs](/concepts/indexical-knowledge-and-identity/)`. Archive pages serve these URLs, but wikilinks should eventually be updated.
+- **Output**: None -- Context: Update references to coalesced indexical articles (indexical-facts, indexical-knowledge, self-locating-beliefs)
+
+### ✓ 2026-02-22: Update references to coalesced temporal articles (specious-present, duration)
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[specious-present](/concepts/temporal-consciousness/)` and ~30 reference `[duration](/concepts/temporal-consciousness/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
+- **Output**: None -- Context: Update references to coalesced temporal articles (specious-present, duration)
+
+### ✓ 2026-02-22: Update references to coalesced emergence articles (consciousness-and-strong-emergence, consciousness-and-the-emergence-debate)
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-22) merged `consciousness-and-strong-emergence.md` and `consciousness-and-the-emergence-debate.md` into `the-strong-emergence-of-consciousness.md`. 5 active content files reference archived articles: consciousness-and-the-ontology-of-dispositions.md, consciousness-and-collective-intelligence.md, panpsychisms-combination-problem.md, evolution-under-dualism.md, and consciousness-evolution-problem.md. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to the-strong-emergence-of-consciousness where appropriate.
+- **Output**: None -- Context: Update references to coalesced emergence articles (consciousness-and-strong-emergence, consciousness-and-the-emergence-debate)
+
+### ✓ 2026-02-22: Update references to coalesced psychophysical-coupling article
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-16) merged `psychophysical-coupling.md` into `psychophysical-laws.md`. ~27 active content files reference `[psychophysical-coupling](/concepts/psychophysical-laws/)` across concepts/, topics/, and research/. Key files include: consciousness-selecting-neural-patterns.md, selection-laws.md, spontaneous-collapse-theories.md, interactionist-dualism.md, mental-causation.md, stapp-quantum-mind.md, coupling-modes.md, attention-as-interface.md, bidirectional-interaction.md, brain-specialness-boundary.md, hard-problem-of-consciousness.md, psychophysical-laws-bridging-mind-and-matter.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to psychophysical-laws where appropriate.
+- **Output**: None -- Context: Update references to coalesced psychophysical-coupling article
+
+### ✓ 2026-02-22: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
+- **Type**: cross-review
+- **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
+- **Output**: obsidian/concepts/phenomenology.md -- Context: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
+
+### ✓ 2026-02-22: Update references to coalesced metarepresentation article
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-17) merged `metarepresentation.md` into `metacognition.md` (now titled "Metacognition, Metarepresentation, and Consciousness"). 32 active content files reference `[metarepresentation](/concepts/metacognition/)` across concepts/, topics/, reviews/, and voids/. Key files include: teaching-as-metarepresentation.md, working-memory.md, baseline-cognition.md, theory-of-mind.md, higher-order-theories.md, consciousness-as-amplifier.md, cumulative-culture.md, global-workspace-theory.md, problem-of-other-minds.md, minimal-consciousness.md, consciousness-and-social-cognition.md (both concept and topic), jourdain-hypothesis.md, animal-consciousness.md, creativity-consciousness-and-novel-thought.md, distinctiveness-of-human-creativity.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[metacognition](/concepts/metacognition/)` where appropriate.
+- **Output**: None -- Context: Update references to coalesced metarepresentation article
+
+### ✓ 2026-02-22: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/)`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)` where appropriate.
+- **Output**: None -- Context: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
+
+### ✓ 2026-02-22: Update references to coalesced surprise articles
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/)`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` where appropriate.
+- **Output**: None -- Context: Update references to coalesced surprise articles
+
+### ✓ 2026-02-22: Update references to coalesced contemplative articles
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` where appropriate.
+- **Output**: None -- Context: Update references to coalesced contemplative articles
+
+### ✓ 2026-02-22: Address gaps in temporal-ontology-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two critical issues: (1) the article conflates philosophical association with logical constraint—the "package deal" thesis needs to distinguish affinity from necessity; (2) eternalism is treated uncharitably, ignoring sophisticated B-theorist accounts of temporal experience (Prosser, Hoerl). Also: unexplained retrocausality reference violates style guide, circularity in growing-block argument needs acknowledgment, and collapse-as-growth-mechanism is asserted without considering alternatives. See pessimistic-2026-02-22.md
+- **Output**: obsidian/topics/temporal-ontology-and-consciousness.md
+
+Task context:
+Pessimistic review found two critical issues: (1) the article conflates philosophical association with logical constraint—the "package deal" thesis needs to distinguish affinity from necessity; (2) eternalism is treated uncharitably, ignoring sophisticated B-theorist accounts of temporal experience (Prosser, Hoerl). Also: unexplained retrocausality reference violates style guide, circularity in growing-block argument needs acknowledgment, and collapse-as-growth-mechanism is asserted without considering alternatives. See pessimistic-2026-02-22.md
+
+### ✓ 2026-02-22: Update references to coalesced skill articles
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)` where appropriate.
+- **Output**: None -- Context: Update references to coalesced skill articles
+
+### ✓ 2026-02-21: Update references to coalesced mathematical cognition articles
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)` where appropriate.
+- **Output**: None -- Context: Update references to coalesced mathematical cognition articles
 
 ### ✓ 2026-02-21: Write article on pain asymbolia as central test case
 - **Type**: expand-topic

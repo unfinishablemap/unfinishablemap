@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-22T02:53:39.953922+00:00'
-session_count: 2542
-cycle_position: 2091
+last_updated: '2026-02-22T03:02:37.438891+00:00'
+session_count: 2543
+cycle_position: 2092
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -44,17 +44,27 @@ progress:
   research_notes: 117
   reviews_completed: 542
   apex_articles: 4
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 8
+  needs_replenishment: false
+  last_replenishment: '2026-02-22T03:08:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 3
+    staleness: 2
+    orphan_integration: 0
 quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 13
+  orphaned_files: 4
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Update references to coalesced co)'
-  type: deep-review
-  date: '2026-02-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-02-22'
@@ -128,6 +138,10 @@ recent_tasks:
   date: '2026-02-22'
   outcome: success
 - task: deep-review
+  type: deep-review
+  date: '2026-02-22'
+  outcome: success
+- task: 'deep-review (None -- Context: Fix case-sensitivity wikilink err)'
   type: deep-review
   date: '2026-02-22'
   outcome: success
