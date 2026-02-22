@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 09:02 UTC - deep-review
+- **Status**: Success
+- **File**: [[consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+- **Word count**: 1535 → 1975 (+440)
+- **Critical issues addressed**: 4 (broken links ×2, frontmatter section mismatch, missing References section)
+- **Medium issues addressed**: 5 (LLM cliché, weak counterargument engagement, overstated claim, missing cross-links, bare text links)
+- **Enhancements made**: 5 (materialist counterargument engagement, No Many Worlds tenet connection, References section, expanded Further Reading, bandwidth claim attribution)
+- **Output**: [[reviews/deep-review-2026-02-22-consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+
 ## 2026-02-22 08:57 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Conservation laws and mind-brain causation
