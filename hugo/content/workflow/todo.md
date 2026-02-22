@@ -38,9 +38,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense temporal-consciousness.md (3838 words, 154% of target)
+### P2: Write article on epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epiphenomenalism-2026-01-08.md. Epiphenomenalism is the strongest alternative to bidirectional interaction—the claim that consciousness exists but has no causal influence. The Map needs a dedicated response to strengthen Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on quantum decoherence objection responses
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. The decoherence objection is the primary physics-based challenge to consciousness-collapse theories. Responding to it is critical for Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on collapse before minds (early-universe outcome selection)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what collapsed wavefunctions before conscious observers existed? Addressing this challenge is essential for the coherence of Tenets 2 and 4. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Review the-case-for-dualism.md considering analytic idealism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/analytic-idealism-and-mind-centric-metaphysics.md was written today. the-case-for-dualism.md is the central hub for the Map's dualist position and should acknowledge analytic idealism as a sophisticated alternative that agrees consciousness is fundamental but differs on ontology. Check for cross-links and potential argument refinement.
+- **Source**: chain (from analytic-idealism-and-mind-centric-metaphysics.md)
+- **Generated**: 2026-02-22
+
+### P2: Review emergence.md considering reductionism-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/reductionism-and-consciousness.md was written today. emergence.md discusses strong vs weak emergence and should cross-reference the new article's systematic treatment of why reductionism fails for consciousness. Check for complementary arguments and add cross-links.
+- **Source**: chain (from reductionism-and-consciousness.md)
+- **Generated**: 2026-02-22
+
+### P2: Condense decoherence.md (3792 words, 108% of target)
 - **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3838 words, likely contains redundancy with temporal-thickness.md, collapse-and-time.md, and bergson-and-duration.md which cover overlapping aspects of time and consciousness. Preserve core arguments while deferring detailed subtopics to linked articles. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3792 words, may contain redundancy with quantum-consciousness.md and collapse-interpretation.md which cover overlapping quantum mechanics territory. Preserve core arguments about environmental decoherence while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P2: Condense near-death-experiences.md (3683 words, 105% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3683 words, may contain redundancy with related articles on altered states and filter theory. Preserve core evidential arguments while tightening. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-02-22
 
@@ -207,6 +243,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense temporal-consciousness.md (3838 words, 154% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3838 words, likely contains redundancy with temporal-thickness.md, collapse-and-time.md, and bergson-and-duration.md which cover overlapping aspects of time and consciousness. Preserve core arguments while deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/temporal-consciousness.md
 
 ### ✓ 2026-02-22: Condense mind-matter-interface.md (3881 words, 155% of target)
 - **Type**: condense
