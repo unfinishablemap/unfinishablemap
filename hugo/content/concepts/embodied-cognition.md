@@ -55,7 +55,7 @@ Embodied cognition rests on several interconnected claims:
 
 ## Phenomenological Roots
 
-Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is The Unfinishable Map where consciousness and world interpenetrate.
+Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is The Unfinishable Map where consciousness and world interpenetrate. [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) extends this analysis clinically: Fuchs shows that in schizophrenia the lived body's transparency breaks down (the person becomes a "disembodied mind"), while in depression the body becomes oppressively present through *corporealization* — opposite disruptions revealing the normally invisible mind-body interface.
 
 Consider bodily skill. An expert typist doesn't consciously locate keys—the hands "know" where they are. A pianist's fingers find notes through acquired habit, not explicit representation. Merleau-Ponty calls this "motor intentionality": bodily knowledge that is meaningful but not intellectually represented.
 

@@ -176,7 +176,7 @@ Temporal unity operates at multiple scales. The Map's treatment of [temporal int
 
 Temporal unity can degrade or disappear, revealing it as a contingent property rather than an automatic entailment of having experience:
 
-**Temporal disintegration in schizophrenia** disrupts the binding between moments while leaving within-moment experience relatively intact. Patients report moments losing connection to what came before—actions feeling disconnected from consequences, experience fragmenting into isolated episodes (Fuchs, 2007; Vogeley & Kupke, 2007). This dissociation supports temporal unity as a distinct phenomenal property rather than an artefact of other cognitive processes.
+**Temporal disintegration in schizophrenia** disrupts the binding between moments while leaving within-moment experience relatively intact. Patients report moments losing connection to what came before—actions feeling disconnected from consequences, experience fragmenting into isolated episodes (Fuchs, 2007; Vogeley & Kupke, 2007). [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) situates this temporal fragmentation within a broader ipseity disturbance: when the minimal self is disrupted, the "intentional arc" that binds moments into a coherent stream degrades simultaneously. This dissociation supports temporal unity as a distinct phenomenal property rather than an artefact of other cognitive processes.
 
 **Absorption and flow states** alter temporal unity without destroying it. Moments become intensely vivid yet loosely coupled to neighbours, producing the paradox of "timelessness" within ongoing experience.
 

@@ -44,7 +44,7 @@ The relationship between self and consciousness matters for The Unfinishable Map
 
 ## Minimal Self and Narrative Self
 
-Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal self** is pre-reflective first-person consciousness—present whenever consciousness is present. It requires no self-reflection; you don't need to think "I am experiencing this" for the experience to be yours. This "for-me-ness" is necessary (no anonymous experiences exist) and non-narrative (independent of life stories).
+Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal self** is pre-reflective first-person consciousness—present whenever consciousness is present. It requires no self-reflection; you don't need to think "I am experiencing this" for the experience to be yours. This "for-me-ness" is necessary (no anonymous experiences exist) and non-narrative (independent of life stories). The strongest clinical evidence comes from [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/): Sass and Parnas's ipseity disturbance model demonstrates that this pre-reflective self-awareness can be selectively disrupted in schizophrenia while consciousness persists — confirming the minimal self as a genuine, separable structural feature.
 
 The **narrative self** is constructed through self-interpretation—the story we tell about who we are. Unlike the minimal self, it's shaped by culture and memory, providing continuity across a lifetime.
 

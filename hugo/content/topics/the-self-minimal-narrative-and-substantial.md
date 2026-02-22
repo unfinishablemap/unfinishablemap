@@ -53,7 +53,7 @@ The minimal self has three features that distinguish it from richer conceptions:
 
 **Pre-reflective**: It operates before and beneath explicit self-awareness. An infant experiences the world from a first-person perspective long before developing the capacity for self-reflection.
 
-**Non-narrative**: It does not depend on having a life story. Patients with severe amnesia who cannot construct autobiographical narratives still experience from a first-person perspective. The minimal self persists when narrative breaks down.
+**Non-narrative**: It does not depend on having a life story. Patients with severe amnesia who cannot construct autobiographical narratives still experience from a first-person perspective. The minimal self persists when narrative breaks down. Conversely, [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) shows that in schizophrenia the minimal self itself can be disrupted—the ipseity disturbance model demonstrates that pre-reflective "for-me-ness" can erode while narrative capacity remains partially intact.
 
 **Necessary**: There appear to be no genuinely anonymous experiences—no consciousness that belongs to nobody. [The minimal self](/concepts/self-and-consciousness/) is not an optional addition to experience but its very form.
 

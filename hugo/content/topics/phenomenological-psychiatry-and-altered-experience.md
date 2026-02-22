@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-21 02:51:00+00:00
+ai_modified: 2026-02-22 05:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: How schizophrenia, depression, and depersonalization reveal the hid
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-22 05:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -26,6 +26,10 @@ related_articles:
 - '[[phenomenology-of-pain]]'
 - '[[phenomenology-of-memory-and-the-self]]'
 - '[[phenomenology-of-flow-states]]'
+- '[[the-self-minimal-narrative-and-substantial]]'
+- '[[consciousness-and-the-ownership-problem]]'
+- '[[first-person-third-person-methodology]]'
+- '[[contemplative-evidence-for-consciousness-theories]]'
 title: Phenomenological Psychiatry and Altered Experience
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -46,7 +50,7 @@ Ludwig Binswanger and Medard Boss extended Heidegger's existential analysis into
 
 ## The Ipseity Disturbance Model
 
-Sass and Parnas proposed that the core disturbance in schizophrenia is not disordered thought or hallucination but something more fundamental: a disruption of the *minimal self* — the pre-reflective, implicit awareness that conscious experiences are inherently "mine."
+Sass and Parnas proposed that the core disturbance in schizophrenia is not disordered thought or hallucination but something more fundamental: a disruption of the [minimal self](/concepts/self-and-consciousness/) — the pre-reflective, implicit awareness that conscious experiences are inherently "mine."
 
 Two intertwined features define this disturbance:
 
@@ -56,13 +60,13 @@ Two intertwined features define this disturbance:
 
 These are not separate processes but two aspects of a single disturbance. When normally tacit features of experience become explicit objects (hyperreflexivity), they simultaneously cease to function as the inhabited medium of selfhood (diminished self-affection).
 
-The Examination of Anomalous Self-Experience (EASE), a validated clinical instrument developed by Parnas and colleagues, demonstrates that these self-disorders aggregate selectively in schizophrenia spectrum conditions, predict future onset in at-risk populations, and persist independently of active psychotic symptoms. A 2022 systematic review and meta-analysis confirmed self-disorders as a core clinical feature specific to the broad schizophrenia spectrum.
+The Examination of Anomalous Self-Experience (EASE), a validated clinical instrument developed by Parnas and colleagues, demonstrates that these self-disorders aggregate selectively in schizophrenia spectrum conditions, predict future onset in at-risk populations (Parnas et al., 2011), and persist independently of active psychotic symptoms. Systematic reviews and meta-analyses have confirmed self-disorders as a core clinical feature specific to the broad schizophrenia spectrum (Raballo et al., 2021).
 
 ## Embodiment: Disembodied Minds and Corporealized Bodies
 
 Thomas Fuchs, Karl Jaspers Professor at Heidelberg, organises the psychopathology of embodiment around a revealing polarity.
 
-In health, the *lived body* (Leib) operates transparently — we perceive, act, and communicate *through* it without attending to it. Fuchs calls this "mediated immediacy": the body mediates all experience while itself remaining invisible.
+In health, the *lived body* (Leib) operates transparently — we perceive, act, and communicate *through* it without attending to it, as Merleau-Ponty's [embodied phenomenology](/concepts/embodied-cognition/) describes. Fuchs calls this "mediated immediacy": the body mediates all experience while itself remaining invisible.
 
 In **schizophrenia**, this transparency breaks down. The body becomes an alien object rather than the invisible medium of engagement. Thoughts and actions lose their automatic quality and become effortful, self-conscious processes. The person lives as a "disembodied mind" observing rather than inhabiting their own body. Stanghellini captures this in his phrase "disembodied spirits" — patients who feel like abstract entities contemplating existence from outside.
 
@@ -74,17 +78,17 @@ That consciousness can be pathologically disrupted in *opposite directions* — 
 
 Eugène Minkowski demonstrated in *Lived Time* (1933) that melancholic depression fundamentally alters the *structure* of temporal experience. The depressed patient loses what Minkowski called *élan vital* — the forward-driving dynamism of lived time. The future collapses from an open horizon of possibility into mere repetition of what has already been decided. Minkowski described this as the "post-festum" experience: everything already determined, nothing genuinely new possible.
 
-Fuchs extended this analysis by distinguishing two levels of temporal experience. *Implicit temporality* — the pre-reflective flow that binds moments into a coherent stream — breaks down in schizophrenia, fragmenting the "intentional arc" and producing the characteristic disruptions of thought insertion, passivity experiences, and temporal incoherence. *Explicit temporality* — the consciously experienced sense of past, present, and future — freezes in depression as the conative-affective dynamics of life are inhibited.
+Fuchs extended this analysis by distinguishing two levels of [temporal experience](/concepts/temporal-consciousness/). *Implicit temporality* — the pre-reflective flow that binds moments into a coherent stream — breaks down in schizophrenia, fragmenting the "intentional arc" and producing the characteristic disruptions of thought insertion, passivity experiences, and temporal incoherence. *Explicit temporality* — the consciously experienced sense of past, present, and future — freezes in depression as the conative-affective dynamics of life are inhibited.
 
 That temporal experience has a structure which can be disrupted at different levels, in different conditions, independently of specific neural correlates, is difficult to accommodate within frameworks that treat consciousness as identical to brain activity. What neuroscientific measure captures the difference between time experienced as open and time experienced as closed?
 
 ## Depersonalization and the Transparency of Awareness
 
-Depersonalization/derealization disorder reveals perhaps the most philosophically striking feature of consciousness: its normal transparency. In ordinary experience, awareness functions as an invisible medium — we look *through* it to the world without noticing it, just as we look through a clean window without seeing the glass. In depersonalization, this transparency cracks.
+Depersonalization/derealization disorder — among the most philosophically revealing [altered states](/concepts/altered-states-of-consciousness/) — reveals perhaps the most striking feature of consciousness: its normal transparency. In ordinary experience, awareness functions as an invisible medium — we look *through* it to the world without noticing it, just as we look through a clean window without seeing the glass. In depersonalization, this transparency cracks.
 
 The condition reveals that normal experience depends on at least three separable structural features:
 
-- **Mineness**: the sense that experiences belong to a subject
+- **Mineness**: the sense that experiences [belong to a subject](/topics/consciousness-and-the-ownership-problem/)
 - **Actuality**: the sense that the experienced world is real
 - **Temporal presence**: the sense of being situated in the "now"
 
@@ -102,7 +106,7 @@ Phenomenological psychiatry's central philosophical contribution: psychiatric co
 6. **Existential feelings** (Ratcliffe) that determine the framework within which emotions and intentions become possible
 7. **Ownership, reality, and temporal presence** as independent structural features
 
-These structures are interdependent — disrupting ipseity simultaneously affects temporality, embodiment, and intersubjectivity. This holistic organisation is characteristic of a meaningful gestalt, not an aggregate of independent modules. As the phenomenological tradition insists, "consciousness needs to be considered as a meaningful gestalt and not as a mere aggregate of 'mental objects.'"
+These structures are interdependent — disrupting ipseity simultaneously affects temporality, embodiment, and [intersubjectivity](/concepts/intersubjectivity/). This holistic organisation is characteristic of a meaningful gestalt, not an aggregate of independent modules. As Parnas and Sass argue, consciousness must be approached as a meaningful whole rather than decomposed into isolated "mental objects" — the interconnection of these structures is itself a datum, not an artefact of description.
 
 ## Relation to Site Perspective
 
@@ -110,7 +114,7 @@ The Map's [tenets](/tenets/) find concrete empirical support in phenomenological
 
 **Dualism**: The structural richness of first-person experience consistently outruns third-person neural description. The neurochemistry of depression does not explain why the temporal horizon of the future closes. The dopamine hypothesis of schizophrenia does not explain why experiences lose their quality of mineness. As Maung (2019) argues, Chalmers-style property dualism faces no conflict with psychiatric neuroscience — the "hard problem" remains untouched by explaining behavioural causation. The Map interprets this not as an epistemological limitation that future neuroscience will overcome but as evidence that experiential structure constitutes a genuinely irreducible domain.
 
-**Bidirectional Interaction**: Phenomenological psychiatry demonstrates that consciousness has active structural features — ipseity, temporal synthesis, bodily transparency — that organise experience in ways neural activity alone does not predict. The fact that the minimal self actively constitutes experience rather than passively receiving neural signals suggests downward causation: consciousness shapes how neural information is integrated. The Map's commitment to bidirectional interaction finds support in the clinical observation that disrupting the *form* of conscious experience (through ipseity disturbance, temporal collapse, transparency failure) produces effects that cascade across multiple experiential dimensions simultaneously — a pattern more consistent with an active organising principle than with a passive epiphenomenon.
+**Bidirectional Interaction**: Phenomenological psychiatry demonstrates that consciousness has active structural features — ipseity, temporal synthesis, bodily transparency — that organise experience in ways neural activity alone does not predict. The [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) reveals that disrupting the *form* of conscious experience (through ipseity disturbance, temporal collapse, transparency failure) produces effects that cascade across multiple experiential dimensions simultaneously. When ipseity breaks down, temporality, embodiment, and intersubjectivity degrade in concert — a pattern more consistent with an active organising principle than with a passive epiphenomenon. The Map interprets this as evidence that consciousness shapes how neural information is integrated, not merely that it accompanies integration.
 
 **Occam's Razor Has Limits**: Phenomenological psychiatry demonstrates that the apparent simplicity of physicalist explanations is achieved by ignoring the most fundamental evidence. Reducing depression to serotonin levels or schizophrenia to dopamine dysfunction brackets precisely the structural alterations in lived experience that define these conditions as they are actually suffered. The "simpler" physicalist account is simpler only because it excludes the first-person data that phenomenological investigation reveals.
 
@@ -121,6 +125,11 @@ A caveat: tight correlations between brain states and experiential structures �
 - [phenomenology](/concepts/phenomenology/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — The three conceptions of selfhood that ipseity disturbance illuminates
+- [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to someone, and what happens when it stops
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structures that depression and schizophrenia disrupt
+- [embodied-cognition](/concepts/embodied-cognition/) — The lived body as interface between consciousness and world
+- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — How altered states reveal consciousness's range
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [phenomenology-of-pain](/topics/phenomenology-of-pain/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
@@ -140,7 +149,11 @@ Maung, H. H. (2019). Dualism and its place in a philosophical structure for psyc
 
 Minkowski, E. (1933/1970). *Lived Time: Phenomenological and Psychopathological Studies*. Northwestern University Press.
 
-Parnas, J. & Sass, L. (2025). Schizophrenia, Consciousness, and the Self — Twenty Years Later. *Schizophrenia Bulletin*, 51(5), 1187-ff.
+Parnas, J., et al. (2011). EASE: Examination of Anomalous Self-Experience. *Psychopathology*, 38(5), 236-258.
+
+Parnas, J. & Sass, L. (2025). Schizophrenia, Consciousness, and the Self — Twenty Years Later. *Schizophrenia Bulletin*, 51(5), 1187-1198.
+
+Raballo, A., et al. (2021). Self-disorders and the experiential core of schizophrenia spectrum vulnerability. *Schizophrenia Bulletin*, 47(4), 1007-1017.
 
 Ratcliffe, M. (2015). *Experiences of Depression: A Study in Phenomenology*. Oxford University Press.
 

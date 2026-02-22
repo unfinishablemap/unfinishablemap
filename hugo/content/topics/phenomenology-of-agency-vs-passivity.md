@@ -124,9 +124,9 @@ The [witness mode](/concepts/witness-consciousness/) in meditation demonstrates 
 
 ## Disorders of the Axis
 
-Pathological cases illuminate the structure:
+Pathological cases illuminate the structure (see [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) for extended treatment):
 
-- **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology has been stripped from what should be an active process.
+- **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology has been stripped from what should be an active process. Sass and Parnas's ipseity disturbance model situates this within a broader disruption of the minimal self.
 
 - **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor.
 

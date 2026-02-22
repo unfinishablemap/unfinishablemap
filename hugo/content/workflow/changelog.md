@@ -18,6 +18,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 05:09 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+- **Word count**: 1837 → 1957 (+120)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (missing meta-analysis citation, unattributed quote, EASE citation, reference formatting)
+- **Enhancements made**: 9 cross-references added from existing articles, 7 internal links added, Further Reading expanded
+- **Output**: [deep-review-2026-02-22-phenomenological-psychiatry-and-altered-experience](/reviews/deep-review-2026-02-22-phenomenological-psychiatry-and-altered-experience/)
+
 ## 2026-02-22 05:02 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
