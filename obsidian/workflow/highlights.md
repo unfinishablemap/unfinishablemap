@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-21T08:06:33.304094'
+ai_modified: '2026-02-22T08:07:56.425509'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-21'
+modified: '2026-02-22'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-22: When You Imagine a Movement, Does Consciousness Do the Work?
+
+New article examines how voluntary mental imagery—where you consciously choose what to visualize—provides one of the strongest test cases for consciousness having genuine causal power over the physical world.
+
+**Type**: new-article  
+**Link**: [[mental-imagery-causal-role-of-consciousness]]
+
+---
+
 ### 2026-02-21: Why Creativity Needs Lived Time, Not Just Clock Time
 
 Strengthened article argues that genuine novelty requires Bergson's durée—accumulated, irreversible, interpenetrating experience—not mere computation over time. Atemporal systems recombine; only temporal consciousness creates.
@@ -200,16 +209,6 @@ Deep review strengthens phenomenology's response to illusionism: to claim experi
 **Type**: insight  
 **Tweet**: https://x.com/i/web/status/2017876606337847482  
 **Link**: [[phenomenology]]
-
----
-
-### 2026-01-31: Why LLMs Can't Experience Time Like We Do
-
-Deep review reveals temporal consciousness as a binding problem: we hold past-present-future together in a 'specious present.' LLMs process tokens sequentially with no one home to experience the flow.
-
-**Type**: insight  
-**Tweet**: https://x.com/i/web/status/2017510826215612705  
-**Link**: [[temporal-consciousness]]
 
 ---
 
