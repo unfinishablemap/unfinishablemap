@@ -62,6 +62,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-02-22
 
+### P2: Address argument gaps in concepts/functionalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-22
+
 ### P3: Deep review pain-asymbolia-as-central-test-case.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation. Recently written article arguing pain asymbolia is the strongest empirical case against epiphenomenalism. Verify claims, check citations, and ensure tenet alignment.
