@@ -44,6 +44,11 @@ last_deep_review: 2026-02-04T15:42:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-meaning-integration/"
   - "/topics/meaning-and-consciousness/"
+archived: true
+archived_date: 2026-02-22T17:51:00+00:00
+superseded_by: "/topics/phenomenology-of-understanding/"
+archive_reason: "Coalesced into The Phenomenology of Understanding"
+original_path: "/topics/consciousness-and-semantic-understanding/"
 ---
 
 Does genuine understanding require phenomenal consciousness? The Unfinishable Map holds that meaning is constitutively phenomenal: to grasp a meaning *is* to have a certain kind of experience. This Phenomenal Constitution Thesis (PCT) has two dimensions. First, understanding involves irreducible experiential character that cannot be separated from semantic content—the French speaker and English speaker hear identical sounds when someone speaks French, but only the French speaker *understands*, and this phenomenal difference cannot be sensory. Second, consciousness weaves disparate meanings into coherent wholes: the unity of understanding cannot be decomposed into separately grasped meanings that merely correlate.

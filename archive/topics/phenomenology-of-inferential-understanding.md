@@ -5,6 +5,7 @@ created: 2026-02-16
 modified: 2026-02-16
 human_modified:
 ai_modified: 2026-02-20T16:21:00+00:00
+last_deep_review: 2026-02-20T16:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +34,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated:
-last_deep_review: 2026-02-20T16:21:00+00:00
+archived: true
+archived_date: 2026-02-22T17:51:00+00:00
+superseded_by: "/topics/phenomenology-of-understanding/"
+archive_reason: "Coalesced into The Phenomenology of Understanding"
+original_path: "/topics/phenomenology-of-inferential-understanding/"
 ---
 
 When one proposition follows from another, something happens experientially. The conclusion does not simply appear — it arrives with a felt sense of *necessity*, a qualitative character of being compelled by the premises rather than merely associated with them. The Unfinishable Map holds that this phenomenology of inference — the experience of seeing *why* something follows — is irreducible to computation and provides distinctive evidence for consciousness as non-physical. While [[phenomenology-of-understanding|understanding in general]] has its own phenomenology (the click, the warmth, the light), and [[phenomenology-of-intellectual-effort|intellectual effort]] has the character of strain and work, inferential understanding has something further: the visibility of the *because*.

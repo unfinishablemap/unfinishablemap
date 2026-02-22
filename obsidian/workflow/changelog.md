@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 17:51 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenology-of-understanding]], [[phenomenology-of-inferential-understanding]], [[consciousness-and-semantic-understanding]]
+- **Target**: [[phenomenology-of-understanding]]
+- **Archived**: [[archive/topics/phenomenology-of-inferential-understanding]], [[archive/topics/consciousness-and-semantic-understanding]]
+- **References to review**: ~30 files reference archived articles
+
 ## 2026-02-22 17:46 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness in Non-Collapsed Quantum States
