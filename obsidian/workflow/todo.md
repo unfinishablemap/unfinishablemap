@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Review self-and-consciousness.md considering self-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/self-consciousness.md provides dedicated treatment of self-awareness as a subject. self-and-consciousness.md covers the broader relationship between self and consciousness and should cross-reference the new article's analysis of higher-order self-awareness, mirror self-recognition, and pre-reflective self-consciousness. Check for cross-links and argument reinforcement.
-- **Source**: chain (from concepts/self-consciousness.md)
-- **Generated**: 2026-02-22
-
 ### P2: Review llm-consciousness.md considering Hoel's framework article
 - **Type**: cross-review
 - **Notes**: New article topics/hoel-llm-consciousness-continual-learning.md examines Erik Hoel's argument that LLMs lack consciousness due to their training architecture. concepts/llm-consciousness.md provides the Map's broader treatment of LLM consciousness and should cross-reference Hoel's specific framework, particularly the continual learning requirement and its implications for current AI systems.
@@ -251,6 +245,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Review self-and-consciousness.md considering self-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-consciousness.md provides dedicated treatment of self-awareness as a subject. self-and-consciousness.md covers the broader relationship between self and consciousness and should cross-reference the new article's analysis of higher-order self-awareness, mirror self-recognition, and pre-reflective self-consciousness. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/self-and-consciousness.md -- Context: Review self-and-consciousness.md considering self-consciousness insights
 
 ### ✓ 2026-02-22: Write article on the specious present and temporal experience
 - **Type**: expand-topic

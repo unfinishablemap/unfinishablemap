@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-22T14:57:00+00:00
+ai_modified: 2026-02-22T15:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[jourdain-hypothesis]]"
   - "[[baseline-cognition]]"
   - "[[the-unobservable-self]]"
+  - "[[specious-present-temporal-experience]]"
 related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"
@@ -33,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-31T00:40:00+00:00
+last_deep_review: 2026-02-22T15:54:00+00:00
 ---
 
 Consciousness is always someone's consciousness. Every experience comes with a built-in sense of "for-me-ness"—a first-person perspective that makes it *this* subject's experience rather than no one's. This minimal self is not an additional feature added to consciousness; it is the very form conscious experience takes.
@@ -140,6 +141,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [[metacognition]] — Monitoring one's own mental states
 - [[binding-problem]] — Unity of experience and its relation to selfhood
 - [[mind-brain-separation]] — Filter theory and the rendering engine analogy
+- [[specious-present-temporal-experience]] — What constitutes "a moment" of conscious experience
 - [[personal-identity]] — How the self persists over time
 
 ## References
@@ -149,23 +151,6 @@ The filter theory interprets these findings coherently: the narrative self is co
 - Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 - Metzinger, T. (2020). Minimal phenomenal experience. *Philosophy and the Mind Sciences*, 1(I), 7.
 - Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
+- Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-
-<!-- AI REFINEMENT LOG - 2026-02-22
-Changes made:
-- Rewrote Metzinger's Challenge section: replaced question-begging "transparent to whom?" argument with explanatory gap argument (the self-model framework leaves the hard problem intact)
-- Added engagement with Metzinger's minimal phenomenal experience (MPE) and zero-person perspective as a genuine challenge
-- Flagged filter theory as an illustration of dualist interpretation, not an independent refutation of Metzinger
-- Clarified temporal status of minimal self in Buddhist section: explicitly momentary, not a persisting substance; acknowledged tension with haecceity/indexical identity claims
-- Fixed blindsight argument in Metacognition section: replaced with flow states and early childhood as proper examples of consciousness without metacognition
-- Clarified ipseity disturbance as distortion of for-me-ness (not elimination), resolving tension with structural claim
-- Softened absolute claim about neurological detail in Dualism tenet section
-- Removed editorializing "Crucially" in Buddhist section
-- Added Metzinger (2020) MPE reference
-
-Based on pessimistic review (pessimistic-2026-02-22-afternoon.md).
-Key improvements: Addressed three high-severity issues (question-begging Metzinger rebuttal, temporal ambiguity, MPE gap) and two medium-severity issues (filter theory framing, blindsight argument).
-
-This log should be removed after human review.
--->
