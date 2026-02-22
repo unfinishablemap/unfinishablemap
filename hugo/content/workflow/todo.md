@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22 08:30:00+00:00
+ai_modified: 2026-02-22 10:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,15 +38,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
-- **Type**: cross-review
-- **Notes**: New article topics/conservation-laws-and-mind.md explains how consciousness can influence outcomes through quantum selection without energy injection, directly addressing the strongest objection to interactionist dualism. consciousness-and-causal-powers.md discusses what types of causal influence consciousness can have and should reference the new article's detailed treatment of conservation law compatibility.
-- **Source**: chain (from conservation-laws-and-mind.md)
-- **Generated**: 2026-02-22
-
 ### P2: Condense psychophysical-laws.md (3972 words, 159% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Now incorporates psychophysical-coupling content from a recent coalesce, pushing it to 3972 words. Likely contains redundancy between the merged material and existing coverage of mind-brain interaction mechanisms. Preserve core framework while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P2: Write article on analytic idealism and mind-centric metaphysics
+- **Type**: expand-topic
+- **Notes**: Research completed in research/analytic-idealism-2026-01-08.md. Bernardo Kastrup's analytic idealism is a major alternative metaphysics that the Map needs to address — it agrees consciousness is fundamental but proposes a radically different ontology (mind-only vs. dualism). Engaging with it strengthens the case for the Map's dualist position. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Integrate reductionism-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created article (2026-02-22) with zero inbound links. Directly addresses why reductionism fails for consciousness — should be linked from emergence.md, the-case-for-dualism.md, hard-problem-of-consciousness.md, materialism.md, and explanatory-gap.md. Core Tenet 1 (Dualism) supporting content.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P2: Integrate mental-imagery-causal-role-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created article (2026-02-22) with zero inbound links. Argues mental imagery demonstrates the causal efficacy of consciousness — should be linked from introspection.md, phenomenal-conservatism-and-introspective-evidence.md, consciousness-and-causal-powers.md, and bidirectional interaction articles. Supports Tenet 3.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P2: Integrate surprise-and-creativity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Article has zero inbound links. Only referenced in frontmatter of surprise-prediction-error-and-consciousness.md (not rendered). Should be linked from creativity-related articles, prediction-error content, and consciousness-and-mathematical-cognition.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P2: Condense mind-matter-interface.md (3881 words, 155% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3881 words, second-longest concept article after psychophysical-laws. May contain redundancy with psychophysical-laws.md and princess-elizabeths-challenge.md which cover overlapping territory. Preserve core framework while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P2: Condense temporal-consciousness.md (3838 words, 154% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3838 words, likely contains redundancy with temporal-thickness.md, collapse-and-time.md, and bergson-and-duration.md which cover overlapping aspects of time and consciousness. Preserve core arguments while deferring detailed subtopics to linked articles. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-02-22
 
@@ -159,6 +189,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-22
 
+### P3: Deep review motor-control-quantum-zeno.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation. Explores how the quantum Zeno effect relates to motor control and conscious intention — directly supports Tenet 2 (Minimal Quantum Interaction). Verify mechanism claims, ensure accurate representation of Stapp's framework, and check tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-22
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -186,6 +222,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md explains how consciousness can influence outcomes through quantum selection without energy injection, directly addressing the strongest objection to interactionist dualism. consciousness-and-causal-powers.md discusses what types of causal influence consciousness can have and should reference the new article's detailed treatment of conservation law compatibility.
+- **Output**: obsidian/topics/consciousness-and-causal-powers.md -- Context: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
 
 ### ✓ 2026-02-22: Review comparing-quantum-consciousness-mechanisms.md considering spontaneous collapse insights
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-02-15 09:07:00+00:00
+ai_modified: 2026-02-22 10:29:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[quantum-probability-consciousness]]'
 - '[[brain-interface-boundary]]'
 - '[[stapp-quantum-mind]]'
+- '[[causal-closure]]'
 created: 2026-02-11
 date: &id001 2026-02-15
 description: What kind of causal powers does consciousness possess? Examining the
@@ -25,7 +26,7 @@ description: What kind of causal powers does consciousness possess? Examining th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 09:07:00+00:00
+last_deep_review: 2026-02-22 10:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +73,7 @@ This explains why you can decide to raise your arm (mental influence on your neu
 
 Even at the interface, consciousness doesn't violate physics. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies that consciousness biases outcomes physics already allows. If quantum mechanics assigns a superposition of neural firing patterns, consciousness can influence which pattern actualizes—but only from among the physically permitted options.
 
-This preserves [conservation laws](/topics/conservation-laws-and-mind/). Energy, momentum, and charge are conserved across all possible quantum outcomes. Consciousness selects a path through possibility space; it doesn't inject resources from outside that space.
+This preserves [conservation laws](/topics/conservation-laws-and-mind/)—and not merely by assertion. Conservation is *local* and *conditional* on physical symmetries, not a cosmic accounting constraint that minds must obey. The common objection that mental causation would create or destroy energy assumes from the start that no external influences exist—precisely what it needs to prove. When consciousness selects among energetically equivalent quantum outcomes, no energy is transferred: all possible outcomes already exist in the wavefunction with their associated energies. Consciousness selects a path through possibility space; it doesn't inject resources from outside that space.
 
 ### The Probabilistic Constraint
 
@@ -148,7 +149,7 @@ If consciousness has specific, limited causal powers operating through quantum s
 
 ### For Metaphysics
 
-If consciousness has causal powers that cannot be reduced to physical forces, this supports [dualism](/concepts/interactionist-dualism/). The physical world is not causally closed; mental properties genuinely add to the causal story. This has implications for reductionism, emergence, and the structure of natural law. See [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) for attempts to formalize this causal structure.
+If consciousness has causal powers that cannot be reduced to physical forces, this supports [dualism](/concepts/interactionist-dualism/). The physical world is not [causally closed](/concepts/causal-closure/); mental properties genuinely add to the causal story. This has implications for reductionism, emergence, and the structure of natural law. See [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) for attempts to formalize this causal structure.
 
 ## The Evidential Question
 

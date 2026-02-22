@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 10:34 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/self-and-consciousness.md
+- **Output**: [[reviews/pessimistic-2026-02-22-afternoon]]
+
 ## 2026-02-22 10:29 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-causal-powers]]

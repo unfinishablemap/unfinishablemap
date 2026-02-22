@@ -79,6 +79,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-02-22
 
+### P2: Address argumentative gaps in self-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the "transparent to whom?" rebuttal of Metzinger begs the question by presupposing the irreducible subject it aims to establish, (2) temporal status of the minimal self is ambiguous—the article claims compatibility with Buddhist impermanence while making claims that may require persistence. Also needs to address Metzinger's zero-person perspective (MPE). See pessimistic-2026-02-22-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-22
+
 ### P3: Deep review the-strong-emergence-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
