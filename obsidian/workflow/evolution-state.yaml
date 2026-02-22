@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-22T08:24:29.221716+00:00'
-session_count: 2577
-cycle_position: 2126
+last_updated: '2026-02-22T08:30:48.295033+00:00'
+session_count: 2578
+cycle_position: 2127
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -51,23 +51,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 18
-  needs_replenishment: false
-  last_replenishment: '2026-02-22T08:30:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 3
-    orphan_integration: 2
-    length_analysis: 1
-    staleness: 1
 recent_tasks:
-- task: deep-review (obsidian/topics/phenomenological-psychiatry-and-al)
-  type: deep-review
-  date: '2026-02-22'
-  outcome: failed
 - task: deep-review
   type: deep-review
   date: '2026-02-22'
@@ -144,3 +128,7 @@ recent_tasks:
   type: condense
   date: '2026-02-22'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-02-22'
+  outcome: failed

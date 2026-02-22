@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-02-01T04:58:00+00:00
+ai_modified: 2026-02-22T08:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ last_deep_review: 2026-02-01T04:58:00+00:00
 
 Functionalism is the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
 
-The Unfinishable Map rejects functionalism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes, and functional organization is a physical (or at least physically implementable) property. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the Map denies. For a systematic presentation of the case against functionalism, see [[arguments/functionalism|Against Functionalism]]—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
+The Unfinishable Map rejects functionalism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes, and functional organization—though abstractly characterized—is entirely specifiable in physical terms: inputs, outputs, and causal relations among physical states. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the Map denies. For a systematic presentation of the case against functionalism, see [[arguments/functionalism|Against Functionalism]]—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
 
 ## The Functionalist View
 
@@ -65,7 +65,7 @@ But PP inherits functionalism's core limitation: explaining *that* perception is
 
 [[global-workspace-theory|Global Workspace Theory (GWT)]] proposes consciousness arises when information broadcasts to a "global workspace" accessible across brain regions. But explaining how information becomes globally available doesn't explain why global availability feels like anything. Ned Block's distinction between "access consciousness" and "phenomenal consciousness" captures the gap: GWT may explain access but not phenomenal consciousness.
 
-The COGITATE experiment (Melloni et al., 2023-2024)—the largest adversarial collaboration in consciousness science—tested GWT against IIT. Neither theory's predictions were fully confirmed. Both remain silent on why any neural activity should be accompanied by experience.
+The COGITATE experiment (Melloni et al., 2023-2024)—the largest adversarial collaboration in consciousness science—tested GWT against IIT. GWT predicted consciousness-related activity concentrated in prefrontal cortex; IIT predicted it in posterior cortical regions. Neither prediction was fully confirmed by the data. More fundamentally, both theories remain silent on why any neural activity should be accompanied by experience.
 
 ### A Physicalist Rejection of Functionalism
 
@@ -97,17 +97,17 @@ If either is possible, functionalism is false: mental states have qualitative ch
 
 [[Illusionism]] offers functionalism's most radical defense: qualia as we conceive them don't exist. Introspection systematically misrepresents our internal states; what seems irreducible is actually a cognitive illusion.
 
-The challenge: even an illusion requires a subject to whom things *seem* a certain way. As Galen Strawson noted, the claim that qualia don't exist is "the silliest claim ever made"—for if there is seeming, there is phenomenal character. Illusionism pushes the problem back rather than dissolving it.
+The deeper problem: even an illusion requires a subject to whom things *seem* a certain way. If introspection misrepresents internal states, the misrepresentation itself is an experience—something it is like to be misled about one's own mind. Phenomenal character cannot be eliminated by relabeling it as error, because the error is itself phenomenal. Illusionism pushes the problem back rather than dissolving it.
 
-## The Minimal Consciousness Challenge
+## The Specification Problem
 
-Research on [[minimal-consciousness|simple organisms]] poses a distinct challenge to functionalism. Consider *C. elegans*, the roundworm with exactly 302 neurons. We have its complete neural connectome—every synapse mapped. If functionalism were true, this should tell us whether the worm is conscious: does its functional organization implement the right causal roles?
+Research on [[minimal-consciousness|simple organisms]] exposes a difficulty at functionalism's core: specifying which functional roles constitute consciousness.
 
-It doesn't. Despite complete structural knowledge, we cannot determine whether *C. elegans* experiences anything. The worm exhibits habituation, responds to anesthetics like vertebrates, and shows positive Phi (integrated information) in computational models. Yet it fails trace-conditioning tests that mark unlimited associative learning. Is there something it's like to be this worm? The functional description cannot answer.
+*C. elegans*, the roundworm with 302 neurons, exhibits behavioral markers that might indicate consciousness: it responds to anesthetics similarly to vertebrates, shows habituation to repeated stimuli, and demonstrates positive Phi (integrated information) in computational models. Yet it fails trace-conditioning tests associated with unlimited associative learning. Does its functional organization implement the right causal roles for consciousness? Functionalism cannot answer without first specifying which roles matter—and no functionalist account has produced criteria that resolve borderline cases like this without tacitly appealing to facts about the substrate.
 
-More puzzling still: the slime mold *Physarum polycephalum* solves mazes, optimizes network routes, and displays habituation—with no neurons whatsoever. If functional organization determines consciousness, what determines the functional organization? Slime molds lack neurons but exhibit cognition. Either cognition and consciousness can fully dissociate (challenging functionalism's equation of mind with function), or consciousness requires something about *how* a function is implemented, not just that it is implemented.
+The slime mold *Physarum polycephalum* sharpens the problem. With no neurons whatsoever, it solves mazes, optimizes network routes, and habituates to stimuli—functional achievements typically associated with nervous systems. Functionalism's own principle of multiple realizability predicts exactly this: different substrates can implement the same functional roles. But this creates a dilemma. If functional role is what matters, and Physarum implements roles associated with cognition, either Physarum has some form of consciousness—a conclusion most functionalists resist—or additional criteria beyond functional role separate cognitive from conscious systems.
 
-The functionalist might reply that slime molds implement a different—simpler—functional organization than conscious systems. But this concedes the point at issue. If we need to know not just *that* a function is implemented but *how* it's implemented and in *what substrate*, then substrate matters. And if substrate matters, functionalism's core insight—that what matters is the role, not the realizer—is compromised.
+The functionalist's natural move is to specify that Physarum implements simpler functional roles than conscious systems. But the more precisely we specify which roles suffice for consciousness, the more the specification tends to describe features of biological nervous systems—recurrent connectivity, global broadcast, temporal integration—rather than genuinely substrate-independent causal patterns. The theory risks a dilemma between excessive liberalism (any system implementing relevant functions is conscious) and a chauvinism that smuggles substrate-level facts into what was supposed to be a substrate-independent account.
 
 ## The Hard Problem and Functionalism
 
@@ -125,7 +125,7 @@ The Map rejects functionalism on multiple grounds:
 
 ### Dualism and Qualia
 
-If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description is still physical description (or at least physically implementable). The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of a larger [[the-case-for-dualism|convergence argument]] against materialism.
+If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of a larger [[the-case-for-dualism|convergence argument]] against materialism.
 
 ### Bidirectional Interaction
 
@@ -191,4 +191,18 @@ The Map's response: the substrate matters because consciousness involves somethi
 - Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*, 18(2), e0268577.
 - Putnam, H. (1967). "Psychological Predicates." In *Art, Mind, and Religion*.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
-- Strawson, G. (2018). "The Silliest Claim." In *Things That Bother Me*. NYRB.
+
+<!-- AI REFINEMENT LOG - 2026-02-22
+Changes made:
+- Rewrote C. elegans section: no longer conflates structural knowledge (connectome) with functional theory. Reframed as the "specification problem"—functionalism's inability to specify which functional roles constitute consciousness
+- Rewrote Physarum section: no longer presents neuron-less cognition as contradicting functionalism (it's what multiple realizability predicts). Reframed as a liberalism/chauvinism dilemma for specification
+- Fixed "physically implementable" conflation in two places: functional organization is now described as "entirely specifiable in physical terms" rather than "physical (or at least physically implementable)"
+- Replaced Strawson authority citation with independent argument: misrepresentation itself is phenomenal, so illusionism presupposes what it denies
+- Added COGITATE specifics: GWT predicted prefrontal activity, IIT predicted posterior cortical activity, neither fully confirmed
+- Removed orphaned Strawson reference
+
+Based on pessimistic review (2026-02-22-night) identifying 2 high-severity and 3 medium-severity issues.
+Key improvements: Logical validity of anti-functionalism arguments strengthened by fixing the two high-severity issues.
+
+This log should be removed after human review.
+-->

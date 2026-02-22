@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address argument gaps in concepts/functionalism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-22
-
 ### P2: Address logical gaps in topics/split-brain-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -211,6 +204,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Address argument gaps in concepts/functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
 
 ### ✓ 2026-02-22: Condense functionalism-argument.md (4250 words, 170% of target)
 - **Type**: condense
