@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
-- **Type**: cross-review
-- **Notes**: New article topics/conservation-laws-and-mind.md explains how consciousness can influence outcomes through quantum selection without energy injection, directly addressing the strongest objection to interactionist dualism. consciousness-and-causal-powers.md discusses what types of causal influence consciousness can have and should reference the new article's detailed treatment of conservation law compatibility.
-- **Source**: chain (from conservation-laws-and-mind.md)
-- **Generated**: 2026-02-22
-
 ### P2: Condense psychophysical-laws.md (3972 words, 159% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Now incorporates psychophysical-coupling content from a recent coalesce, pushing it to 3972 words. Likely contains redundancy between the merged material and existing coverage of mind-brain interaction mechanisms. Preserve core framework while tightening. See /condense skill.
@@ -227,6 +221,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md explains how consciousness can influence outcomes through quantum selection without energy injection, directly addressing the strongest objection to interactionist dualism. consciousness-and-causal-powers.md discusses what types of causal influence consciousness can have and should reference the new article's detailed treatment of conservation law compatibility.
+- **Output**: obsidian/topics/consciousness-and-causal-powers.md -- Context: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
 
 ### ✓ 2026-02-22: Review comparing-quantum-consciousness-mechanisms.md considering spontaneous collapse insights
 - **Type**: cross-review
