@@ -18,6 +18,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 08:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [surprise-and-creativity](/topics/surprise-prediction-error-and-consciousness/)
+- **Target**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Archived**: archive/topics/surprise-and-creativity.md
+- **References to review**: 0 (updated categorical-surprise.md inline)
+
+## 2026-02-22 08:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Changes**: Fixed 2 high-severity issues (C. elegans/Physarum arguments), 3 medium-severity issues (physically implementable conflation, Strawson authority citation, COGITATE vagueness). Rewrote specification problem section with logically valid arguments.
+- **Published**: yes
+
 ## 2026-02-22 08:24 UTC - condense
 - **Status**: Success
 - **File**: [functionalism-argument](/arguments/functionalism-argument/)

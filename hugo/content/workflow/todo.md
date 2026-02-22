@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22 04:05:00+00:00
+ai_modified: 2026-02-22 08:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address argument gaps in concepts/functionalism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-22
-
 ### P2: Address logical gaps in topics/split-brain-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review (2026-02-22-morning) found 2 high-severity issues: (1) The indeterminacy-favors-dualism argument is a non-sequitur—physical systems routinely exhibit vagueness (clouds, rivers, species) without requiring non-physical explanation, so Nagel's indeterminacy doesn't favor dualism over physicalism; (2) Neural synchronization (fMRI BOLD signals) is silently equated with phenomenal unity throughout "The Resilience of Unity" section, closing the explanatory gap the article elsewhere insists upon. Also: quantum binding speculation in the tenet section violates the style guide's restraint requirements for microtubules/quantum Zeno. See pessimistic-2026-02-22-morning.md
 - **Source**: pessimistic-review
+- **Generated**: 2026-02-22
+
+### P2: Write article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation law objection is the strongest challenge to interactionist dualism—the Map needs a dedicated response. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on the argument from reason and self-defeat of physicalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. If materialism undermines the reliability of reason, then arguments for materialism are self-defeating. Powerful support for Tenet 1 (Dualism). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on spontaneous collapse theories (GRW, CSL, objective reduction)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. GRW, CSL, and Penrose's objective reduction provide physical collapse mechanisms that interact with the Map's consciousness-collapse framework. Relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Integrate concept-of-free-will.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-20). Free will is a core concept for the Map—it should be linked from free-will.md, agent-causation.md, moral-responsibility.md, and libertarian free will articles. Add cross-references from related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P2: Condense causal-closure.md (4020 words, 161% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. The causal closure principle is central to the interaction debate, but at 4020 words likely contains redundancy with linked articles on conservation laws and princess-elizabeths-challenge. Preserve core arguments while tightening. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-02-22
 
 ### P3: Deep review the-strong-emergence-of-consciousness.md
@@ -143,6 +166,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Key missing links: reductionism-and-consciousness → convergence-argument, motor-control-quantum-zeno → attention-as-selection-interface, indian-philosophy-of-mind → epistemology-of-convergence-arguments, temporal-ontology-and-consciousness → apex/time-consciousness-growing-block, participatory-universe → measurement-problem-as-hard-problem. See optimistic-2026-02-22-morning.md for full table.
 
+### P3: Integrate apophatic-cartography.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-19). This void article on negative-space epistemology represents a distinctive methodology. Link from related void articles and epistemic-humility.md, mysterianism.md, or methodology pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P3: Deep review attention-as-causal-bridge.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-22
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -170,6 +205,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Address argument gaps in concepts/functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
 
 ### ✓ 2026-02-22: Condense functionalism-argument.md (4250 words, 170% of target)
 - **Type**: condense

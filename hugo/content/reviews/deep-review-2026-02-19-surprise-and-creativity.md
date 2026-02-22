@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Surprise and Creativity](/topics/surprise-and-creativity/)
+**Article**: [Surprise and Creativity](/topics/surprise-prediction-error-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

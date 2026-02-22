@@ -1028,7 +1028,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 01:45 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Surprise and Creativity
-- **Output**: [surprise-and-creativity](/topics/surprise-and-creativity/)
+- **Output**: [surprise-and-creativity](/topics/surprise-prediction-error-and-consciousness/)
 - **Word count**: 1616
 - **Based on research**: yes, [consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/) and [voids-creativity-void-2026-02-02](/research/voids-creativity-void-2026-02-02/)
 
