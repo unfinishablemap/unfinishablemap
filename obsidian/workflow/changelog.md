@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 02:04 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Observation Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-observation-void-2026-02-22]]
+- **Key finding**: Every method of studying consciousness — introspection, neuroscience, contemplation — transforms the consciousness being studied, a convergent impossibility identified independently by Brentano, Husserl, Schwitzgebel, Varela, and Buddhist contemplative traditions
+
 ## 2026-02-22 01:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[the-psychophysical-control-law]]
