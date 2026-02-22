@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22T10:18:00+00:00
+ai_modified: 2026-02-22T13:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Review decoherence.md considering quantum-decoherence-objection-responses insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-decoherence-objection-responses.md provides detailed responses to the decoherence objection against consciousness-collapse theories. decoherence.md covers the physics of environmental decoherence and should cross-reference the new article's treatment of why decoherence does not eliminate the measurement problem. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from quantum-decoherence-objection-responses.md)
+- **Generated**: 2026-02-22
+
+### P2: Review the-epiphenomenalist-threat.md considering new epiphenomenalism article
+- **Type**: cross-review
+- **Notes**: New article concepts/epiphenomenalism.md provides a comprehensive treatment of the epiphenomenalist position and the Map's responses to it. the-epiphenomenalist-threat.md examines the threat epiphenomenalism poses to the Map's framework and should cross-reference the new article's detailed rebuttals. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from epiphenomenalism.md)
+- **Generated**: 2026-02-22
+
+### P2: Write article on the specious present and temporal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. The specious present — the duration of experienced "now" — is a foundational concept for temporal consciousness. Connects to temporal-consciousness.md, bergson-and-duration.md, and the Map's treatment of time and experience. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on self-consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/self-consciousness-philosophy-2026-01-15.md. Self-consciousness — awareness of oneself as a subject — is a core philosophical concept referenced across the Map but lacking a dedicated treatment. Connects to the-self-minimal-narrative-and-substantial.md, introspection.md, and phenomenology articles. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on Hoel's LLM consciousness and continual learning framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel's work on LLM consciousness and continual learning provides a contemporary perspective on machine consciousness that the Map should engage with. Connects to AI consciousness articles and the Map's position on computational theories of mind. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Condense epiphenomenalism-argument.md (3052 words, 122% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 3052 words, proportionally the worst length violation on the site. Preserve core argument structure while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P2: Condense concept-of-consciousness-and-social-cognition.md (3776 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3776 words, likely contains redundancy with consciousness-and-social-cognition.md which covers overlapping territory. Preserve core arguments while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
 
 ### P2: Update references to coalesced contemplative evidence articles
 - **Type**: other
