@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 00:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-neural-mechanisms-and-coherence]]
+- **Word count**: 3637 → 3422 (-215)
+- **Critical issues addressed**: 4 (Babcock reference wrong paper, Li misattribution, Wiest wrong initial, Demirel duplicate)
+- **Medium issues addressed**: 5 (uncited refs removed, wikilink namespaces fixed, redundant subsections consolidated, Frontiers review attributed, condensation applied)
+- **Enhancements made**: 2 (cross-links to comparing-quantum-consciousness-mechanisms and empirical-evidence-for-consciousness-selecting)
+- **Output**: [[reviews/deep-review-2026-02-22-quantum-neural-mechanisms-and-coherence]]
+
 ## 2026-02-22 00:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-information-integration-beyond-iit]]
