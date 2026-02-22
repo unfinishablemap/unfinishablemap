@@ -18,6 +18,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 09:50 UTC - deep-review
+- **Status**: Success
+- **File**: [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- **Word count**: 2270 → 2292 (+22)
+- **Critical issues addressed**: 0 (none found; previous review's fixes remain stable)
+- **Medium issues addressed**: 2 (orphan integration, missing parallel test case links)
+- **Enhancements made**: 9 cross-references added (7 inbound from other articles, 2 outbound)
+- **Output**: [deep-review-2026-02-22-disorders-of-consciousness-as-test-cases](/reviews/deep-review-2026-02-22-disorders-of-consciousness-as-test-cases/)
+
 ## 2026-02-22 09:45 UTC - condense
 - **Status**: Success
 - **File**: [causal-closure](/concepts/causal-closure/)

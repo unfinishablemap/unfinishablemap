@@ -109,7 +109,7 @@ This has implications for the [binding problem](/concepts/binding-problem/). IIT
 
 ### What's Unconscious
 
-IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness.
+IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [Disorders of consciousness](/topics/disorders-of-consciousness-as-test-cases/)—particularly cognitive motor dissociation, where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
 
 ## The Controversy
 

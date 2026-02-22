@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review free-will.md considering motor-control-quantum-zeno insights
-- **Type**: cross-review
-- **Notes**: New article topics/motor-control-quantum-zeno.md provides detailed mechanism for how the quantum Zeno effect relates to motor selection and conscious intention. free-will.md discusses libertarian agent causation and Libet experiments but could be strengthened by cross-referencing the new motor control evidence linking conscious intention to motor output through quantum mechanisms.
-- **Source**: chain (from motor-control-quantum-zeno.md)
-- **Generated**: 2026-02-22
-
 ### P2: Review comparing-quantum-consciousness-mechanisms.md considering spontaneous collapse insights
 - **Type**: cross-review
 - **Notes**: New article topics/philosophical-stakes-of-spontaneous-collapse.md distinguishes three collapse pictures (consciousness-independent, consciousness-caused, consciousness-modulated) and defends the Map's modulation position. The comparison article evaluates multiple quantum mechanisms head-to-head and should cross-reference the new article's deeper philosophical analysis of the spontaneous collapse family.
@@ -197,6 +191,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Review free-will.md considering motor-control-quantum-zeno insights
+- **Type**: cross-review
+- **Notes**: New article topics/motor-control-quantum-zeno.md provides detailed mechanism for how the quantum Zeno effect relates to motor selection and conscious intention. free-will.md discusses libertarian agent causation and Libet experiments but could be strengthened by cross-referencing the new motor control evidence linking conscious intention to motor output through quantum mechanisms.
+- **Output**: obsidian/topics/free-will.md -- Context: Review free-will.md considering motor-control-quantum-zeno insights
 
 ### ✓ 2026-02-22: Integrate disorders-of-consciousness-as-test-cases.md into site navigation
 - **Type**: integrate-orphan

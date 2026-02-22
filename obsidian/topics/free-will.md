@@ -4,8 +4,8 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-06T11:36:00+00:00
-last_deep_review: 2026-02-06T11:36:00+00:00
+ai_modified: 2026-02-22T09:58:00+00:00
+last_deep_review: 2026-02-22T09:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[tenets]]"
   - "[[creativity-consciousness-and-novel-thought]]"
   - "[[dreams-problem-solving-and-consciousness]]"
+  - "[[motor-control-quantum-zeno]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -90,8 +91,7 @@ This suggests that counterfactual reasoning—and therefore genuine deliberation
 
 How does consciousness interface with the brain? Several possibilities exist within physics:
 
-- **Quantum indeterminacy**: Consciousness biases which quantum outcomes actualize where physics leaves them undetermined
-- **Quantum Zeno-like effects**: Rapid observation influencing which neural patterns stabilise
+- **Quantum selection**: Consciousness biases which quantum outcomes actualize—either by influencing indeterminate outcomes directly, or through Zeno-like rapid observation stabilising desired neural patterns
 - **Retrocausal influence**: Selection determining which temporal sequence becomes real (compatible with time-symmetric quantum mechanics)
 - **Unknown physics**: Mechanisms not yet discovered
 
@@ -114,7 +114,7 @@ If consciousness selects neural patterns, shouldn't selection occur *before* neu
 
 [[retrocausality|Retrocausal]] interpretations offer one resolution. If consciousness operates atemporally—outside the forward flow of physical time—it doesn't need to precede neural preparation to be its cause. This possibility is grounded in [[time-symmetric-physics|fundamental physics being time-reversal invariant]]: the equations work equally well forward or backward. The selection determines which temporal sequence becomes real, including its apparent ordering. The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis develops this framework fully: consciousness may not merely act *within* time but participate in *constituting* temporal structure through its role in collapse.
 
-Cramer's transactional interpretation illustrates this: "offer waves" forward and "confirmation waves" backward, with the "handshake" being atemporal. But the philosophical point doesn't depend on any specific interpretation—agent causation may operate atemporally regardless. See [[presentiment-and-retrocausality]] for why the Map's framework rests on physics rather than contested parapsychological claims.
+But the philosophical point doesn't depend on any specific physical interpretation—agent causation may operate atemporally regardless of mechanism. See [[presentiment-and-retrocausality]] for why the Map's framework rests on physics rather than contested parapsychological claims.
 
 ## Mental Causation and Epiphenomenalism
 
@@ -156,7 +156,9 @@ Willed attention shows frontal theta oscillations and bidirectional frontopariet
 
 ## Motor Selection
 
-[[motor-selection|Motor control]] shows the same selection architecture as attention: frontal theta, bidirectional coherence, and distinct willed versus instructed signatures. Desmurget's neurosurgical studies separate the phenomenology of deciding from execution machinery—inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness. Consciousness operates at the selection level; execution is delegated. Two domains showing identical selection architecture suggest a unified mechanism.
+[[motor-selection|Motor control]] shows the same selection architecture as attention: frontal theta, bidirectional coherence, and distinct willed versus instructed signatures. Rizzolatti's premotor theory of attention explains the convergence: attention and motor planning share the same neural substrates—attention shifts *are* motor preparation. If the quantum Zeno mechanism operates through attention, it simultaneously operates through motor selection via a single unified interface.
+
+Desmurget's neurosurgical studies confirm the selection-execution distinction—inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness. Consciousness operates at the selection level; execution is delegated. See [[motor-control-quantum-zeno]] for the full integration, including the affordance competition architecture where the brain generates competing motor programs and dopamine marks salience while consciousness selects.
 
 ## What Free Will Requires
 
@@ -225,6 +227,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[libet-experiments]] — Detailed analysis including retrocausal resolution
 - [[voluntary-attention]] — Paradigm case of consciousness selecting neural patterns
 - [[motor-selection]] — Second selection domain with parallel neural signatures
+- [[motor-control-quantum-zeno]] — How the quantum Zeno framework applies to motor control, with converging neuroscience evidence
 - [[retrocausality]] — How backward causation resolves the timing problem
 - [[presentiment-and-retrocausality]] — Distinguishing physics-based retrocausality from contested presentiment claims
 - [[decoherence]] — The decoherence objection and biological quantum effects
