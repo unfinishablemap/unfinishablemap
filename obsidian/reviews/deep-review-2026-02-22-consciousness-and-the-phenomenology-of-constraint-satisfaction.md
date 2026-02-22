@@ -32,7 +32,7 @@ last_curated: null
 - **M2: Weak counterargument engagement**: The article's claim that phenomenal intensity tracks personal significance rather than computation was left without addressing the obvious materialist reply that personal significance *is* a computation. Added substantive engagement with the salience-computation objection, showing it shifts rather than dissolves the explanatory gap.
 - **M3: Overstated "no computational function" claim**: The residual phenomenology of partial satisfaction was claimed to have "no obvious computational function." This overstated the case — regret and counterfactual tracking are legitimate functional explanations. Revised to acknowledge the functional explanation while arguing the phenomenal character exceeds what learning requires.
 - **M4: Missing cross-links**: Added links to `phenomenology-of-intellectual-effort`, `consciousness-and-aesthetic-creation`, and `cognitive-phenomenology` in Further Reading.
-- **M5: Body text links lacked wikilink syntax**: Fixed `deliberation-under-uncertainty` and `choking-under-pressure` in body text to use proper `[[wikilink|display text]]` syntax.
+- **M5: Body text links lacked wikilink syntax**: Fixed `deliberation-under-uncertainty` and `choking-under-pressure` in body text to use proper wikilink syntax.
 
 ### Counterarguments Considered
 - **Salience computation objection**: "Personal significance is itself a computation" — addressed by showing this shifts the question to why salience computation produces phenomenal character when equally complex processing elsewhere (immune system, cerebellum) does not.
