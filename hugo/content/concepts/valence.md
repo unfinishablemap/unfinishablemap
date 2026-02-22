@@ -92,7 +92,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt aspect of mental states
 - [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
-- [consciousness-and-pain](/topics/consciousness-and-pain/) — Extended treatment of pain and conscious experience
+- [consciousness-and-pain](/topics/why-pain-hurts/) — Extended treatment of pain and conscious experience
 - [suffering-versus-pain](/topics/suffering-versus-pain/) — Why suffering and pain are not the same phenomenon
 - [normative-phenomenology](/concepts/normative-phenomenology/) — How phenomenal properties ground normative claims
 

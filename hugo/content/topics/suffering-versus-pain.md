@@ -95,8 +95,8 @@ Third, suffering varies with meaning in ways that track consciousness rather tha
 
 ## Further Reading
 
-- [phenomenology-of-pain](/topics/phenomenology-of-pain/) — Pain's phenomenal character and resistance to reduction
-- [consciousness-and-pain](/topics/consciousness-and-pain/) — Pain as the paradigm case for mental causation
+- [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and resistance to reduction
+- [consciousness-and-pain](/topics/why-pain-hurts/) — Pain as the paradigm case for mental causation
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as an intrinsic property of experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How phenomenal properties ground objective value
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal role

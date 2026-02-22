@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22 10:18:00+00:00
+ai_modified: 2026-02-22 13:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,47 +44,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-
-### P2: Write article on quantum decoherence objection responses
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. The decoherence objection is the primary physics-based challenge to consciousness-collapse theories. Responding to it is critical for Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
-### P2: Write article on collapse before minds (early-universe outcome selection)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what collapsed wavefunctions before conscious observers existed? Addressing this challenge is essential for the coherence of Tenets 2 and 4. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
-### P2: Review the-case-for-dualism.md considering analytic idealism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/analytic-idealism-and-mind-centric-metaphysics.md was written today. the-case-for-dualism.md is the central hub for the Map's dualist position and should acknowledge analytic idealism as a sophisticated alternative that agrees consciousness is fundamental but differs on ontology. Check for cross-links and potential argument refinement.
-- **Source**: chain (from analytic-idealism-and-mind-centric-metaphysics.md)
-- **Generated**: 2026-02-22
-
-### P2: Review emergence.md considering reductionism-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/reductionism-and-consciousness.md was written today. emergence.md discusses strong vs weak emergence and should cross-reference the new article's systematic treatment of why reductionism fails for consciousness. Check for complementary arguments and add cross-links.
-- **Source**: chain (from reductionism-and-consciousness.md)
-- **Generated**: 2026-02-22
-
-### P2: Condense decoherence.md (3792 words, 108% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3792 words, may contain redundancy with quantum-consciousness.md and collapse-interpretation.md which cover overlapping quantum mechanics territory. Preserve core arguments about environmental decoherence while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
-### P2: Condense near-death-experiences.md (3683 words, 105% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3683 words, may contain redundancy with related articles on altered states and filter theory. Preserve core evidential arguments while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
-### P2: Address argumentative gaps in self-and-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found two high-severity issues: (1) the "transparent to whom?" rebuttal of Metzinger begs the question by presupposing the irreducible subject it aims to establish, (2) temporal status of the minimal self is ambiguous—the article claims compatibility with Buddhist impermanence while making claims that may require persistence. Also needs to address Metzinger's zero-person perspective (MPE). See pessimistic-2026-02-22-afternoon.md
-- **Source**: pessimistic-review
+### P2: Update references to coalesced pain articles
+- **Type**: other
+- **Notes**: Coalesce created [why-pain-hurts](/topics/why-pain-hurts/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
+- **Source**: coalesce
 - **Generated**: 2026-02-22
 
 ### P3: Deep review the-strong-emergence-of-consciousness.md
@@ -235,6 +198,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Chalmers's master argument against the phenomenal concepts strategy deserves standalone treatment—the phenomenal concepts response is the physicalist's strongest rebuttal, and refuting it systematically strengthens the convergence case in the-case-for-dualism.md. Builds on philosophical-zombies.md, conceivability-possibility-inference.md. Target section: concepts/. See optimistic-2026-02-22-afternoon.md
 
+### P3: Write article on the metaphysics of information under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Many consciousness theories (IIT, GWT, HOT) presuppose a physicalist understanding of "information." Shannon information is defined physically; semantic information requires intentionality. The Map's framework suggests information has a dual aspect—physical structure and phenomenal meaning—that physicalist theories conflate. Builds on integrated-information-theory.md, quantum-consciousness.md, binding-problem.md. Target section: concepts/. See optimistic-2026-02-22-evening.md
+
+### P3: Write article on cross-cultural convergence on mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map demonstrates cross-cultural convergence on the hard problem but has not examined whether independent traditions also converge on consciousness being causally efficacious. Indian karma theory, Chinese qi philosophy, and African vital force traditions all posit mental-to-physical causation. Strengthens the convergence argument for Tenet 3. Builds on the-hard-problem-in-non-western-philosophy.md, indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. Target section: topics/. See optimistic-2026-02-22-evening.md
+
+### P3: Strengthen convergence-argument cross-links to galilean-exclusion
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. the-convergence-argument-for-dualism.md would benefit from linking to galilean-exclusion.md as an independent structural argument. Also link pain-asymbolia-as-central-test-case.md to binding-problem.md (affective binding dissociation), and the-epiphenomenalist-threat.md to galilean-exclusion.md (the gravity well partly explained by science's founding exclusion). See optimistic-2026-02-22-evening.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -244,6 +222,92 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Address logical gaps in contemplative-evidence-for-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the article conflates causal efficacy of consciousness (which physicalists accept) with non-physical causation (which dualists need) — the neuroplasticity arguments prove too much, as physicalists endorse them equally; (2) the claim that first-person training would be "eliminable" under reductive materialism is a non-sequitur (reducibility of a phenomenon does not entail eliminability of observational methods). Medium-severity issues include selection bias in convergence framing and weak cessation dissociation evidence. See pessimistic-2026-02-22-afternoon2.md
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) the article conflates causal efficacy of consciousness (which physicalists accept) with non-physical causation (which dualists need) — the neuroplasticity arguments prove too much, as physicalists endorse them equally; (2) the claim that first-person training would be "eliminable" under reductive materialism is a non-sequitur (reducibility of a phenomenon does not entail eliminability of observational methods). Medium-severity issues include selection bias in convergence framing and weak cessation dissociation evidence. See pessimistic-2026-02-22-afternoon2.md
+
+### ✓ 2026-02-22: Address argumentative gaps in self-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the "transparent to whom?" rebuttal of Metzinger begs the question by presupposing the irreducible subject it aims to establish, (2) temporal status of the minimal self is ambiguous—the article claims compatibility with Buddhist impermanence while making claims that may require persistence. Also needs to address Metzinger's zero-person perspective (MPE). See pessimistic-2026-02-22-afternoon.md
+- **Output**: obsidian/concepts/self-and-consciousness.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) the "transparent to whom?" rebuttal of Metzinger begs the question by presupposing the irreducible subject it aims to establish, (2) temporal status of the minimal self is ambiguous—the article claims compatibility with Buddhist impermanence while making claims that may require persistence. Also needs to address Metzinger's zero-person perspective (MPE). See pessimistic-2026-02-22-afternoon.md
+
+### ✓ 2026-02-22: Condense concept-of-consciousness-and-social-cognition.md (3776 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3776 words, likely contains redundancy with consciousness-and-social-cognition.md which covers overlapping territory. Preserve core arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/concept-of-consciousness-and-social-cognition.md
+
+### ✓ 2026-02-22: Condense epiphenomenalism-argument.md (3052 words, 122% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 3052 words, proportionally the worst length violation on the site. Preserve core argument structure while removing redundancy. See /condense skill.
+- **Output**: obsidian/arguments/epiphenomenalism-argument.md
+
+### ✓ 2026-02-22: Write article on Hoel's LLM consciousness and continual learning framework
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel's work on LLM consciousness and continual learning provides a contemporary perspective on machine consciousness that the Map should engage with. Connects to AI consciousness articles and the Map's position on computational theories of mind. Target section: concepts/.
+- **Output**: Hoel's LLM consciousness and continual learning framework
+
+### ✓ 2026-02-22: Write article on self-consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/self-consciousness-philosophy-2026-01-15.md. Self-consciousness — awareness of oneself as a subject — is a core philosophical concept referenced across the Map but lacking a dedicated treatment. Connects to the-self-minimal-narrative-and-substantial.md, introspection.md, and phenomenology articles. Target section: concepts/.
+- **Output**: self-consciousness
+
+### ✓ 2026-02-22: Write article on the specious present and temporal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. The specious present — the duration of experienced "now" — is a foundational concept for temporal consciousness. Connects to temporal-consciousness.md, bergson-and-duration.md, and the Map's treatment of time and experience. Target section: concepts/.
+- **Output**: the specious present and temporal experience
+
+### ✓ 2026-02-22: Review the-epiphenomenalist-threat.md considering new epiphenomenalism article
+- **Type**: cross-review
+- **Notes**: New article concepts/epiphenomenalism.md provides a comprehensive treatment of the epiphenomenalist position and the Map's responses to it. the-epiphenomenalist-threat.md examines the threat epiphenomenalism poses to the Map's framework and should cross-reference the new article's detailed rebuttals. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Review the-epiphenomenalist-threat.md considering new epiphenomenalism article
+
+### ✓ 2026-02-22: Review decoherence.md considering quantum-decoherence-objection-responses insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-decoherence-objection-responses.md provides detailed responses to the decoherence objection against consciousness-collapse theories. decoherence.md covers the physics of environmental decoherence and should cross-reference the new article's treatment of why decoherence does not eliminate the measurement problem. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/decoherence.md -- Context: Review decoherence.md considering quantum-decoherence-objection-responses insights
+
+### ✓ 2026-02-22: Condense near-death-experiences.md (3683 words, 105% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3683 words, may contain redundancy with related articles on altered states and filter theory. Preserve core evidential arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/near-death-experiences.md
+
+### ✓ 2026-02-22: Condense decoherence.md (3792 words, 108% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3792 words, may contain redundancy with quantum-consciousness.md and collapse-interpretation.md which cover overlapping quantum mechanics territory. Preserve core arguments about environmental decoherence while tightening. See /condense skill.
+- **Output**: obsidian/concepts/decoherence.md
+
+### ✓ 2026-02-22: Review emergence.md considering reductionism-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/reductionism-and-consciousness.md was written today. emergence.md discusses strong vs weak emergence and should cross-reference the new article's systematic treatment of why reductionism fails for consciousness. Check for complementary arguments and add cross-links.
+- **Output**: obsidian/concepts/emergence.md -- Context: Review emergence.md considering reductionism-and-consciousness insights
+
+### ✓ 2026-02-22: Review the-case-for-dualism.md considering analytic idealism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/analytic-idealism-and-mind-centric-metaphysics.md was written today. the-case-for-dualism.md is the central hub for the Map's dualist position and should acknowledge analytic idealism as a sophisticated alternative that agrees consciousness is fundamental but differs on ontology. Check for cross-links and potential argument refinement.
+- **Output**: obsidian/concepts/the-case-for-dualism.md -- Context: Review the-case-for-dualism.md considering analytic idealism insights
+
+### ✓ 2026-02-22: Write article on collapse before minds (early-universe outcome selection)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what collapsed wavefunctions before conscious observers existed? Addressing this challenge is essential for the coherence of Tenets 2 and 4. Target section: concepts/.
+- **Output**: collapse before minds (early-universe outcome selection)
+
+### ✓ 2026-02-22: Write article on quantum decoherence objection responses
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. The decoherence objection is the primary physics-based challenge to consciousness-collapse theories. Responding to it is critical for Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Output**: quantum decoherence objection responses
+
+### ✓ 2026-02-22: Write article on epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epiphenomenalism-2026-01-08.md. Epiphenomenalism is the strongest alternative to bidirectional interaction—the claim that consciousness exists but has no causal influence. The Map needs a dedicated response to strengthen Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: epiphenomenalism
 
 ### ✓ 2026-02-22: Condense temporal-consciousness.md (3838 words, 154% of target)
 - **Type**: condense

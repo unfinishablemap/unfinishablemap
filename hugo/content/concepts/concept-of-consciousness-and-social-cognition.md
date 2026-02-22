@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-08 19:14:00+00:00
+ai_modified: 2026-02-22 14:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,6 @@ concepts:
 - '[[working-memory]]'
 - '[[intentionality]]'
 - '[[illusionism]]'
-- '[[witness-consciousness]]'
 - '[[phenomenal-unity]]'
 created: 2026-01-22
 date: &id001 2026-01-22
@@ -41,23 +40,13 @@ Does advanced social cognition require phenomenal consciousness? Great apes poss
 
 ## The Scope of Social Cognition
 
-Social cognition encompasses the mental processes underlying social interaction: recognising faces and emotions, attributing mental states to others, predicting behaviour, navigating relationships, and coordinating joint activities. It ranges from basic capacities (gaze following, emotion recognition) to sophisticated ones (recursive mindreading, institutional understanding).
-
-The question is where consciousness enters. Some social capacities operate automatically and unconsciously—implicit emotion recognition, rapid face processing, basic gaze following. Others seem to require explicit, conscious processing—deliberate perspective-taking, reasoning about others' beliefs about your beliefs, understanding social institutions as shared constructions.
+Social cognition ranges from basic capacities (gaze following, emotion recognition) to sophisticated ones (recursive mindreading, institutional understanding). Some operate automatically and unconsciously; others seem to require explicit, conscious processing. The question is where consciousness enters.
 
 ### The Primate Baseline
 
-Great apes demonstrate sophisticated social cognition that operates within [baseline-cognition](/concepts/baseline-cognition/):
+Great apes demonstrate sophisticated social cognition within [baseline-cognition](/concepts/baseline-cognition/): tracking dominance hierarchies, concealing food from competitors, forming coalitions, and showing emotional attunement to others' states. They anticipate others' actions based on what those others have seen or experienced, and adjust behaviour strategically.
 
-**Social tracking**: Chimpanzees monitor dominance hierarchies, track who saw what, remember past interactions, and adjust behaviour accordingly. They anticipate others' actions based on what those others have seen or experienced.
-
-**Tactical deception**: Apes conceal food from competitors, suppress vocalisations when advantageous, and misdirect attention. This requires tracking what others know and using that knowledge strategically.
-
-**Coalition formation**: Apes form alliances, support allies in conflicts, and navigate complex relationship networks. They track third-party relationships—who is allied with whom.
-
-**Emotional responsiveness**: Consolation behaviour, grief responses, and apparent empathy demonstrate emotional attunement to others' states.
-
-This is genuinely impressive—flexible, learned, individually variable social intelligence. Yet it appears to proceed through *implicit* social cognition: tracking others' behaviour, emotions, and knowledge states without explicitly representing those states as mental states.
+This is genuinely impressive—flexible, learned, individually variable social intelligence. Yet it appears to proceed through *implicit* social cognition: tracking others' behaviour and knowledge states without explicitly representing those states as mental states.
 
 ## Theory of Mind: The Levels
 
@@ -65,27 +54,23 @@ Theory of mind—the capacity to attribute mental states to others—admits of l
 
 ### Level 0: Behaviour Prediction
 
-Predicting behaviour without mental state attribution. "When she sees food, she approaches it." This can be accomplished through associative learning: correlating observable features with observable outcomes.
+Predicting behaviour without mental state attribution. Associative learning correlates observable features with outcomes.
 
 ### Level 1: Perception Attribution
 
-Understanding what others perceive. "She sees the food" requires representing another's perceptual access as distinct from your own. Great apes pass many Level 1 tests: they track what others have or haven't seen, and adjust behaviour accordingly.
+Understanding what others perceive—representing another's perceptual access as distinct from your own. Great apes pass many Level 1 tests.
 
 ### Level 2: Belief Attribution
 
-Understanding that others have beliefs that may differ from reality—and from your own. The classic false belief test: does the subject understand that another agent will act on their (false) belief rather than reality?
-
-Recent evidence has strengthened the case for some form of false belief understanding in great apes. Krupenye et al. (2016) used anticipatory looking measures to show that all three great ape species (chimpanzees, bonobos, and orangutans) anticipated that an agent would act according to a false belief. Buttelmann et al. (2017) found that chimpanzees used an agent's false belief to interpret their behaviour in an active helping paradigm. These studies suggest that apes may possess implicit belief tracking that goes beyond simple behaviour reading.
-
-The debate continues, however. Some researchers argue these results reflect genuine belief attribution; others maintain that behaviour-rule accounts can explain the data without positing belief representation (Heyes 2014, Povinelli & Vonk 2003). The difficulty of distinguishing implicit belief tracking from explicit belief representation—and the question of whether implicit tracking counts as "theory of mind"—remains unresolved. What is clear is that the evidence for ape false belief understanding is substantially stronger than earlier negative results suggested.
+Understanding that others have beliefs that may differ from reality. Recent evidence has strengthened the case for some ape false belief understanding: Krupenye et al. (2016) showed all three great ape species anticipated agents acting on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief. Whether these results reflect genuine belief attribution or sophisticated behaviour-reading remains debated (Heyes 2014, Povinelli & Vonk 2003), but the evidence is substantially stronger than earlier negative results suggested.
 
 ### Level 3: Recursive Mindreading
 
-Representing others' mental states about mental states. "She thinks that I think the food is hidden." This recursive nesting—beliefs about beliefs, intentions about intentions—enables strategic social reasoning, deception detection, and the coordination complexities of human social life.
+Representing others' mental states about mental states—"She thinks that I think the food is hidden." This recursive nesting enables strategic social reasoning, deception detection, and the coordination complexities of human social life.
 
-**The key claim**: Levels 0-1 may operate through [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is contested—recent evidence suggests apes possess at least implicit belief tracking, and the question is whether this reflects genuine belief attribution or a sophisticated behaviour-reading mechanism. Level 3 appears to require explicit metarepresentation—representing mental states *as* mental states.
+**The key claim**: Levels 0-1 may operate through [baseline-cognition](/concepts/baseline-cognition/) without phenomenal consciousness. Level 2 is contested. Level 3 appears to require explicit metarepresentation—representing mental states *as* mental states.
 
-**An important caveat**: The human-ape gap in social cognition does not straightforwardly track consciousness. Humans also differ from apes in working memory capacity, executive function, and language—any of which could contribute to the gap independently of phenomenal consciousness. The Map's claim is that phenomenal consciousness plays an essential role in the highest levels, but this must be argued rather than assumed from the comparative data alone.
+**An important caveat**: The human-ape gap does not straightforwardly track consciousness. Humans also differ from apes in working memory capacity, executive function, and language—any of which could contribute independently. The Map argues phenomenal consciousness plays an essential role at the highest levels, but this must be argued rather than assumed from comparative data alone.
 
 ## The Metarepresentational Threshold
 
@@ -93,20 +78,11 @@ Representing others' mental states about mental states. "She thinks that I think
 
 ### The Nested Structure Problem
 
-Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. This isn't just complex—it's *reflexively* complex. Each level must be available for manipulation while tracking its relationship to other levels. The nested representations must be bound into a [unified conscious experience](/concepts/phenomenal-binding-and-holism/)—you must experience the whole structure at once, not merely store its parts separately.
+Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. Each level must be available for manipulation while tracking its relationship to other levels. The nested representations must be bound into a [unified conscious experience](/concepts/phenomenal-binding-and-holism/)—you must experience the whole structure at once, not merely store its parts separately.
 
-Consider: "I want her to believe that I don't know that she plans to take the food."
+Consider: "I want her to believe that I don't know that she plans to take the food." This requires representing your own mental state (wanting), her future mental state (believing), the content of that belief (your ignorance), and what you're supposed to be ignorant of (her plan)—keeping all four levels distinct and manipulable.
 
-This requires:
-1. Representing my own mental state (wanting)
-2. Representing her future mental state (believing)
-3. Representing the content of that belief (my ignorance)
-4. Representing what I'm supposed to be ignorant of (her plan)
-5. Keeping all four levels distinct and manipulable
-
-[Working-memory](/concepts/working-memory/) research suggests that manipulating information—not just maintaining it—requires what cognitive scientists call "conscious access"—global availability of information across cognitive systems. The nested structure of recursive mindreading demands exactly this: holding representations while actively working with them, comparing them, and computing their relationships.
-
-A critical distinction applies here. "Conscious access" in cognitive science typically means global workspace availability—information broadcast widely for use by multiple cognitive processes. This is a *functional* property, not necessarily identical with *phenomenal* consciousness (subjective experience, what-it-is-like-ness). A functionalist could accept that recursive mindreading requires global access while denying it requires phenomenal experience. The Map's stronger claim—that phenomenal consciousness specifically is required—rests on the argument that the metarepresentational content of understanding another mind *as* a mind has irreducibly phenomenal character: grasping what a belief *means*, not just processing its functional role. This goes beyond what global access alone provides, but the argument is philosophical rather than empirically settled.
+[Working-memory](/concepts/working-memory/) research suggests that manipulating information—not just maintaining it—requires "conscious access": global availability of information across cognitive systems. A critical distinction applies here. "Conscious access" in cognitive science means global workspace availability—a *functional* property, not necessarily identical with *phenomenal* consciousness. A functionalist could accept that recursive mindreading requires global access while denying it requires phenomenal experience. The Map's stronger claim rests on the argument that understanding another mind *as* a mind has irreducibly phenomenal character: grasping what a belief *means*, not just processing its functional role. This argument is philosophical rather than empirically settled.
 
 ### The Jourdain Problem Applied
 
@@ -118,117 +94,33 @@ Human social cognition operates at the metarepresentational level routinely. We 
 
 ## Shared Intentionality
 
-Michael Tomasello argues that shared intentionality—the capacity to engage in joint attention and collaborative activities with shared goals—distinguishes human from great ape social cognition.
+Michael Tomasello argues that shared intentionality—the capacity to engage in joint attention and collaborative activities with shared goals—distinguishes human from great ape social cognition. Joint attention isn't merely two individuals looking at the same thing; it involves "common knowledge"—recursive mutual awareness that both are attending, and that the other knows. Great apes show limited evidence of this rich form. Human collaboration similarly involves shared goals with complementary roles, where participants understand the joint goal and can correct each other for not fulfilling obligations.
 
-### Joint Attention
-
-Joint attention isn't merely two individuals looking at the same thing. It's *knowing* that both are attending, and knowing that the other knows. It involves what philosophers call "common knowledge"—infinite recursion of mutual awareness.
-
-When a human parent and child engage in joint attention on a toy, both parties are aware of the triadic relationship: I know you're attending, you know I'm attending, I know you know, and so on. This shared awareness enables coordination that mere parallel attention cannot.
-
-Great apes show limited evidence of joint attention in this rich sense. They follow gaze, track attention, and coordinate some activities. But the recursive mutual awareness characteristic of human joint attention appears diminished or absent.
-
-### Collaborative Activities
-
-Human collaboration involves shared goals with complementary roles. Each participant understands not just their own role but the joint goal and how roles fit together. Crucially, participants can correct each other for not fulfilling role obligations—implying representation of what each should be doing and why.
-
-Tomasello's "cultural intelligence hypothesis" proposes that human cognitive uniqueness lies primarily in these social-cognitive capacities for cultural participation—not in enhanced individual cognition for physical or logical reasoning.
-
-If this is correct, consciousness may matter for social cognition more than for other cognitive domains. The metarepresentational demands of shared intentionality, collaborative activities, and recursive mindreading may be where consciousness does its amplifying work.
+Tomasello's "cultural intelligence hypothesis" proposes that human cognitive uniqueness lies primarily in these social-cognitive capacities—not in enhanced individual cognition. If correct, consciousness may matter for social cognition more than for other domains, and shared intentionality may be where consciousness does its amplifying work.
 
 ## Empathy and Emotional Consciousness
 
-Does genuine empathy require consciousness? The question divides into components:
+Empathy divides into components with escalating consciousness demands. *Emotional contagion*—automatic catching of others' emotions—operates through basic mechanisms without conscious awareness; many animals show it. *Cognitive empathy*—understanding what another feels—requires representing emotional states, not just responding to them. *Empathic concern*—feeling for another because you understand their situation—adds a normative dimension, motivating prosocial behaviour based on understanding rather than mere cues.
 
-### Emotional Contagion
-
-Automatic, unconscious "catching" of others' emotions—feeling sad when another cries, anxious when another shows fear. This operates through basic mechanisms (mirror neurons, physiological synchronisation) and doesn't require conscious awareness of what's happening. Great apes (and many other animals) show emotional contagion.
-
-### Cognitive Empathy
-
-Understanding what another feels without necessarily feeling it yourself. This requires representing the other's emotional state—attributing feeling, not just responding to it. The metarepresentational demand here is lower than recursive mindreading but still present: you must represent "she feels sad" rather than merely feeling sad yourself.
-
-### Empathic Concern
-
-Feeling for another because you understand their situation. This adds a normative dimension: not just sharing or representing emotion but caring about it in light of understanding. Empathic concern motivates prosocial behaviour based on understanding the other's state, not just responding to emotional cues.
-
-**The key question**: Does the progression from contagion to cognitive empathy to empathic concern track increasing involvement of phenomenal consciousness?
-
-The [emotional-consciousness](/topics/emotional-consciousness/) literature suggests that felt emotional states—the *phenomenal* character of emotions—may be required for empathic concern. You must feel something yourself to care about another's feeling in the way empathic concern involves. Understanding without feeling—pure cognitive empathy—might produce predictions of behaviour but not the motivation to help that characterises genuine concern.
-
-This connects to the [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis. Emotional contagion operates at the baseline level—automatic, unconscious, not requiring phenomenal awareness. Empathic concern requires the amplification consciousness provides: representing the other's state explicitly, feeling something in response, and being motivated by that feeling to act.
+The [emotional-consciousness](/topics/emotional-consciousness/) literature suggests that felt emotional states may be required for empathic concern. Understanding without feeling might produce behavioural predictions but not the motivation to help. This connects to the [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis: contagion operates at [baseline](/concepts/baseline-cognition/), while empathic concern requires the amplification consciousness provides.
 
 ## Social Cognition in AI
 
-Current AI systems simulate social cognition at various levels:
-
-**Behaviour prediction**: LLMs predict what text comes next, including text about social interactions. They can describe what someone would likely do given certain circumstances.
-
-**Emotion recognition**: Computer vision systems recognise facial expressions; sentiment analysis detects emotional tone in text. These operate without anything resembling phenomenal experience.
-
-**Theory of mind tests**: LLMs pass many theory of mind benchmarks, including false belief tests. They can answer questions about what characters in stories believe, even when those beliefs are false.
-
-But do they have social cognition in the sense that matters? The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) suggests not. An LLM producing correct answers about mental states may be pattern-matching on training data rather than genuinely representing minds. It may "track" mental state language without representing mental states *as* mental states.
-
-The contrast illuminates what consciousness might add. If human social cognition involves not just producing correct social outputs but phenomenally representing minds—experiencing what it's like to understand another's perspective—then current AI lacks the genuine article regardless of its performance.
-
-This doesn't settle whether AI *could* have social cognition in the relevant sense. But it suggests that functional performance on social cognition tasks doesn't entail genuine social understanding, just as speaking prose doesn't entail knowing you speak prose.
-
-## The Illusionist Challenge
-
-[Illusionism](/concepts/illusionism/) might argue that phenomenal consciousness is irrelevant to social cognition because phenomenal consciousness doesn't exist. On this view, what matters is information processing, and sophisticated information processing about others' mental states just *is* social cognition, without any phenomenal "extra."
-
-### The Empathy Response
-
-The illusionist faces particular difficulty with empathic concern. If there's no phenomenal character to emotions, what motivates empathic action? The illusionist must explain why *feeling* for another (experiencing concern) matters—or argue that the appearance of feeling-for is itself an illusion that functional processing generates.
-
-But this creates a puzzle: why would evolution build systems that *seem* to feel for others rather than systems that simply calculate optimal social behaviour? The seeming of empathic concern requires explanation. If it's generated by neural processing, something experiences it—and that experiencing is what illusionism denies.
-
-### The Recursion Response
-
-Recursive mindreading presents another challenge. To represent your belief about my belief about your intention, you must have *something* that holds all three levels simultaneously. The illusionist says this is just sophisticated information processing. But the processing must be integrated—the levels must be available to each other for comparison and manipulation.
-
-This integration requirement looks like what consciousness researchers call "global workspace"—information made available across cognitive systems. The illusionist may grant this functional architecture while denying phenomenal consciousness. But the question remains: why does this integrated information have the character it does? Why does understanding another's mind *seem* like something, feel like grasping a perspective, involve what we call "insight" into mental life?
-
-## Contemplative Perspectives
-
-Meditative traditions offer distinctive insights into social cognition through practices that examine how we understand other minds.
-
-### Compassion Meditation
-
-Tibetan Buddhist *tonglen* and *metta* practices explicitly cultivate empathic concern. Practitioners report that these practices involve more than conceptual understanding—they involve felt shifts in how others appear, transformations in the phenomenal quality of social experience.
-
-The claim that compassion can be cultivated through practice suggests it has phenomenal components amenable to training. If empathic concern were purely cognitive—understanding without feeling—contemplative cultivation would target different mechanisms than it appears to.
-
-### Intersubjective Awareness
-
-Some contemplative traditions describe direct, non-inferential awareness of others' mental states—knowing what another feels without reasoning from behaviour. Whether or not such awareness is possible, the reports describe it as *phenomenal*: experiencing another's state rather than concluding it.
-
-This contemplative datum—that social understanding has felt character, not just cognitive content—supports the view that phenomenal consciousness matters for social cognition. The understanding isn't complete without the phenomenal dimension.
-
-## Process Philosophy Perspective
-
-Whitehead's process philosophy offers a framework for understanding social cognition through "prehension"—how actual occasions grasp prior occasions.
-
-Social cognition, on this view, involves prehending other subjects—not as objects but as centres of experience. Genuine understanding of another mind requires what Whitehead calls "sympathetic prehension"—grasping the other's subjective immediacy, not just their objective features.
-
-This distinguishes functional social cognition (tracking behaviour, predicting responses) from genuine understanding (grasping subjectivity). An AI might prehend another's outputs—the objective data of behaviour and language—without prehending their experiential character. The difference is between treating another as an object (however sophisticated the treatment) and encountering another as a subject.
-
-The process framework thus supports the view that phenomenal consciousness enables a distinctive mode of social cognition unavailable to systems that merely process information about others' behaviour.
+Current AI systems pass many theory of mind benchmarks, recognise emotions, and predict social behaviour—all without anything resembling phenomenal experience. The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) suggests this is pattern-matching rather than genuine mindreading: tracking mental state language without representing mental states *as* mental states. If human social cognition involves phenomenally representing minds—experiencing what it's like to understand another's perspective—then functional performance on social cognition tasks doesn't entail genuine social understanding.
 
 ## What Would Challenge This View?
 
 The claim that consciousness enables advanced social cognition would be undermined if:
 
-1. **Great apes demonstrated recursive mindreading**: If chimpanzees or bonobos convincingly passed Level 3 theory of mind tests—reasoning about beliefs about beliefs—this would suggest metarepresentational social cognition without expanded consciousness. Recent evidence already shows apes performing better on false belief tasks than previously thought (Krupenye et al. 2016, Buttelmann et al. 2017); clear evidence of recursive mindreading would seriously challenge the view.
+1. **Great apes demonstrated recursive mindreading**: Clear evidence of apes reasoning about beliefs about beliefs would suggest metarepresentational social cognition without expanded consciousness. Recent false belief evidence (Krupenye et al. 2016, Buttelmann et al. 2017) already narrows the gap.
 
-2. **AI developed genuine empathic concern**: If an artificial system showed unmistakable empathic concern—caring about others' welfare based on understanding their states—without phenomenal consciousness, this would challenge the consciousness requirement. The difficulty: distinguishing genuine concern from behaviour that mimics it.
+2. **AI developed genuine empathic concern**: An artificial system showing unmistakable caring about others' welfare—not just mimicking it—without phenomenal consciousness would challenge the requirement.
 
-3. **Dissociations between consciousness and social cognition in humans**: If brain damage could eliminate phenomenal consciousness while preserving sophisticated social cognition (or vice versa), this would suggest independence. Current evidence suggests social cognition deficits accompany consciousness deficits, but cleaner dissociations would be informative.
+3. **Dissociations in humans**: If brain damage could eliminate phenomenal consciousness while preserving sophisticated social cognition (or vice versa), this would suggest independence.
 
-4. **Working memory alone explaining the gap**: If enhanced working memory and executive function—without phenomenal consciousness—were shown to be sufficient for recursive mindreading, the consciousness requirement would be undermined. Current evidence cannot cleanly separate these factors, since working memory enhancement and consciousness expansion co-occur in humans.
+4. **Working memory alone explaining the gap**: If enhanced working memory and executive function—without phenomenal consciousness—proved sufficient for recursive mindreading. Currently these factors cannot be cleanly separated, since working memory enhancement and consciousness expansion co-occur in humans.
 
-5. **Functional explanation of the recursive capacity**: If cognitive science fully explained recursive mindreading in purely information-processing terms, without appealing to phenomenal properties, the explanatory gap for social cognition would narrow. Currently, the highest levels of social cognition resist purely functional explanation, but the argument from this resistance to a consciousness requirement involves philosophical commitments that not all researchers share.
+5. **Complete functional explanation**: If cognitive science fully explained recursive mindreading in purely information-processing terms, the explanatory gap would narrow—though the argument from this resistance to a consciousness requirement involves philosophical commitments not all researchers share.
 
 ## Relation to Site Perspective
 
@@ -282,23 +174,3 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 - Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
-
-<!-- AI REFINEMENT LOG - 2026-02-08
-Changes made:
-- Updated opening to acknowledge working memory/executive function as alternative explanations for the human-ape gap, not just consciousness
-- Distinguished phenomenal consciousness from cognitive access (global workspace availability) throughout
-- Updated Level 2 (Belief Attribution) with Krupenye et al. 2016 and Buttelmann et al. 2017 evidence for great ape false belief understanding
-- Added caveat after the levels section noting the gap doesn't straightforwardly track consciousness
-- Expanded the nested structure problem section to explicitly distinguish "conscious access" (cognitive science term for global availability) from phenomenal consciousness
-- Added working memory challenge as a new falsification condition (#4)
-- Softened Bidirectional Interaction tenet section to acknowledge converging-evidence-not-proof status
-- Updated description for better accuracy
-- Added references: Krupenye et al. 2016, Buttelmann et al. 2017, Povinelli & Vonk 2003
-
-Based on pessimistic review (2026-02-05 morning) identifying three issues:
-1. Understated great ape false belief evidence
-2. Human-ape gap presented as tracking consciousness when working memory/executive function could explain it
-3. Conflation of cognitive access with phenomenal consciousness
-
-This log should be removed after human review.
--->

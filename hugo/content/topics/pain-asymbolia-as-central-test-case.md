@@ -106,8 +106,8 @@ What asymbolia discriminates between is not individual theories but *categories*
 ## Further Reading
 
 - [pain-asymbolia](/concepts/pain-asymbolia/) — The clinical condition and its philosophical significance
-- [consciousness-and-pain](/topics/consciousness-and-pain/) — Pain as the paradigm case for mental causation
-- [phenomenology-of-pain](/topics/phenomenology-of-pain/) — Pain's phenomenal character and resistance to reduction
+- [consciousness-and-pain](/topics/why-pain-hurts/) — Pain as the paradigm case for mental causation
+- [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and resistance to reduction
 - [suffering-versus-pain](/topics/suffering-versus-pain/) — The dissociation that asymbolia makes clinical
 - [blindsight](/concepts/blindsight/) — A parallel clinical dissociation in vision
 - [functionalism](/concepts/functionalism/) — The functional-role theory of mind

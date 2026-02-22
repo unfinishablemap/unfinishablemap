@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22T13:28:00+00:00
+ai_modified: 2026-02-22T15:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce created [[why-pain-hurts]]. The following active content files reference the archived [[consciousness-and-pain]] and/or [[phenomenology-of-pain]] and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
 - **Source**: coalesce
+- **Generated**: 2026-02-22
+
+### P2: Write article on epistemological limits of Occam's Razor for consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Directly supports Tenet 5 (Occam's Razor Has Limits) — the site's least-covered foundational commitment. No dedicated systematic treatment exists despite scattered references across articles. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on the specious present and temporal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. A previous expand-topic attempt completed but failed to produce an article file. The specious present is a foundational concept for temporal consciousness, referenced by temporal-consciousness.md and bergson-and-duration.md but lacking a dedicated page. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Review self-and-consciousness.md considering self-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-consciousness.md provides dedicated treatment of self-awareness as a subject. self-and-consciousness.md covers the broader relationship between self and consciousness and should cross-reference the new article's analysis of higher-order self-awareness, mirror self-recognition, and pre-reflective self-consciousness. Check for cross-links and argument reinforcement.
+- **Source**: chain (from concepts/self-consciousness.md)
+- **Generated**: 2026-02-22
+
+### P2: Review llm-consciousness.md considering Hoel's framework article
+- **Type**: cross-review
+- **Notes**: New article topics/hoel-llm-consciousness-continual-learning.md examines Erik Hoel's argument that LLMs lack consciousness due to their training architecture. concepts/llm-consciousness.md provides the Map's broader treatment of LLM consciousness and should cross-reference Hoel's specific framework, particularly the continual learning requirement and its implications for current AI systems.
+- **Source**: chain (from topics/hoel-llm-consciousness-continual-learning.md)
+- **Generated**: 2026-02-22
+
+### P2: Write article on voluntary attention control mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Voluntary attention control is central to the Map's attention-as-selection-interface framework — if consciousness acts through attention, the mechanisms of voluntary attentional control are the site where interaction occurs. Connects to attention-as-selection-interface.md, structure-of-attention.md. Target section: concepts/.
+- **Source**: unconsumed_research
 - **Generated**: 2026-02-22
 
 ### P3: Deep review the-strong-emergence-of-consciousness.md
@@ -211,6 +241,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. the-convergence-argument-for-dualism.md would benefit from linking to galilean-exclusion.md as an independent structural argument. Also link pain-asymbolia-as-central-test-case.md to binding-problem.md (affective binding dissociation), and the-epiphenomenalist-threat.md to galilean-exclusion.md (the gravity well partly explained by science's founding exclusion). See optimistic-2026-02-22-evening.md
+
+### P3: Deep review contemplative-evidence-for-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-01-27). At 26 days old, this is the oldest unreviewed published content on the site. Product of coalesce merging contemplative evidence articles. Verify coherence, argument quality, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-22
+
+### P3: Deep review why-pain-hurts.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-02-09). Product of coalesce merging consciousness-and-pain.md and phenomenology-of-pain.md. Coalesced articles are prone to inconsistencies from the merge process. Verify coherence, argument quality, and cross-references.
+- **Source**: staleness
+- **Generated**: 2026-02-22
 
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)

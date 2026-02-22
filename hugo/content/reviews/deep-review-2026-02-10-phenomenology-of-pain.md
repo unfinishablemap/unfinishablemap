@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-10
-**Article**: [Phenomenology of Pain](/topics/phenomenology-of-pain/)
+**Article**: [Phenomenology of Pain](/topics/why-pain-hurts/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

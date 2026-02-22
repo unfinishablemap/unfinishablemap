@@ -131,7 +131,7 @@ A caveat: tight correlations between brain states and experiential structures �
 - [embodied-cognition](/concepts/embodied-cognition/) — The lived body as interface between consciousness and world
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — How altered states reveal consciousness's range
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
-- [phenomenology-of-pain](/topics/phenomenology-of-pain/)
+- [phenomenology-of-pain](/topics/why-pain-hurts/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [qualia](/concepts/qualia/)
 

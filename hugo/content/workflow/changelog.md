@@ -18,6 +18,188 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 15:18 UTC - deep-review
+- **Status**: Success
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
+- **Word count**: 2068 → 2151 (+83)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (speculative framing, unsourced claims ×3, citation accuracy, falsifiability gap)
+- **Enhancements made**: 3 (inline citations, Nørretranders reference, falsifiability criteria)
+- **Output**: [deep-review-2026-02-22-motor-control-quantum-zeno](/reviews/deep-review-2026-02-22-motor-control-quantum-zeno/)
+
+## 2026-02-22 15:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **Changes**: Fixed causal efficacy / non-physical causation conflation (physicalists accept neuroplasticity equally), replaced eliminability non-sequitur with explanatory gap argument, reframed interactionism section to acknowledge physicalist compatibility, added selection bias acknowledgment, strengthened cessation dissociation qualification
+- **Based on**: pessimistic review (2 high-severity, 2 medium-severity issues addressed)
+- **Published**: yes
+
+## 2026-02-22 14:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [self-and-consciousness](/concepts/self-and-consciousness/)
+- **Changes**: Rewrote Metzinger rebuttal (explanatory gap instead of question-begging), added MPE/zero-person perspective engagement, clarified temporal status of minimal self, fixed blindsight argument, clarified ipseity disturbance as distortion not elimination, flagged filter theory as illustration
+- **Based on**: pessimistic-2026-02-22-afternoon.md (3 high-severity, 2 medium-severity issues addressed)
+- **Published**: yes
+
+## 2026-02-22 14:45 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-pain](/topics/why-pain-hurts/), [phenomenology-of-pain](/topics/why-pain-hurts/)
+- **Target**: [why-pain-hurts](/topics/why-pain-hurts/)
+- **Archived**: [consciousness-and-pain](/archive/topics/consciousness-and-pain/), [phenomenology-of-pain](/archive/topics/phenomenology-of-pain/)
+- **References to review**: 13 files (consciousness-and-pain refs: pain-asymbolia, valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, voids-valence-void research; phenomenology-of-pain refs: phenomenal-depth, pain-asymbolia, suffering-versus-pain, phenomenological-psychiatry-and-altered-experience, pain-asymbolia-as-central-test-case)
+
+## 2026-02-22 14:40 UTC - condense
+- **Status**: Success
+- **File**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+- **Before**: 3592
+- **After**: 2153
+- **Reduction**: 40%
+- **Technique**: Removed tangential sections (Illusionist Challenge, Contemplative Perspectives, Process Philosophy), consolidated Empathy into unified treatment, trimmed Primate Baseline and AI sections, tightened ToM levels and falsification conditions
+
+## 2026-02-22 14:31 UTC - deep-review
+- **Status**: Success
+- **File**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
+- **Word count**: 1489 → 1835 (+346)
+- **Critical issues addressed**: 2 (date contradiction 2025→2026; missing No Many Worlds tenet)
+- **Medium issues addressed**: 6 (expanded Cerullo engagement, fixed overclaim, sharpened proximity argument, added inline cross-links, flagged Map inference in Bidirectional Interaction, differentiated from concept article)
+- **Enhancements made**: 7 cross-links added, phenomenological response to tautology charge, haecceity connection to No Many Worlds
+- **Output**: [deep-review-2026-02-22-hoel-llm-consciousness-continual-learning](/reviews/deep-review-2026-02-22-hoel-llm-consciousness-continual-learning/)
+
+## 2026-02-22 14:26 UTC - condense
+- **Status**: Success
+- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Before**: 3052 words
+- **After**: 2333 words
+- **Reduction**: 24%
+- **Technique**: Merged overlapping introspection/self-knowledge arguments (5→4 args), condensed Process Philosophy section to brief mention, trimmed evolutionary objection and Knowledge Argument prose, cut peripheral challenge scenarios
+
+## 2026-02-22 14:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Hoel's Disproof of LLM Consciousness
+- **Output**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
+- **Word count**: 1489
+- **Based on research**: yes, [hoel-llm-consciousness-continual-learning-2026-01-15](/research/hoel-llm-consciousness-continual-learning-2026-01-15/)
+
+## 2026-02-22 14:15 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 440+ published articles across topics/ (~200), concepts/ (~178), tenets/ (1), voids/ (~63), apex/ (11). Deep reading of 40+ representative articles.
+- **Output**: [optimistic-2026-02-22-evening](/reviews/optimistic-2026-02-22-evening/)
+
+## 2026-02-22 14:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: self-consciousness
+- **Output**: [self-consciousness](/concepts/self-consciousness/)
+- **Word count**: 1724
+- **Based on research**: yes, [self-consciousness-philosophy-2026-01-15](/research/self-consciousness-philosophy-2026-01-15/)
+
+## 2026-02-22 13:57 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Word count**: 1959 → 2129 (+170)
+- **Critical issues addressed**: 2 (McQueen citation misattribution, incomplete attribution of Chalmers-McQueen proposal)
+- **Medium issues addressed**: 4 (ad hoc criticism engagement, consciousness-modulated distinction, Φ description precision, inline wikilinks)
+- **Enhancements made**: 3 (stakes framing in opening, sharpened definitions, engagement with counterarguments)
+- **Output**: [deep-review-2026-02-22-philosophical-stakes-of-spontaneous-collapse](/reviews/deep-review-2026-02-22-philosophical-stakes-of-spontaneous-collapse/)
+
+## 2026-02-22 13:50 UTC - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 2044 → 2308 (+264)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-22-the-epiphenomenalist-threat](/reviews/deep-review-2026-02-22-the-epiphenomenalist-threat/)
+
+## 2026-02-22 13:43 UTC - deep-review
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Word count**: 3792 → 3344 (-448)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-22-decoherence](/reviews/deep-review-2026-02-22-decoherence/)
+
+## 2026-02-22 13:37 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/contemplative-evidence-for-consciousness.md
+- **Output**: [pessimistic-2026-02-22-afternoon2](/reviews/pessimistic-2026-02-22-afternoon2/)
+- **Findings**: 2 high-severity issues (causal efficacy conflation, eliminability non-sequitur), 2 medium-severity issues (convergence selection bias, weak cessation evidence). Added P2 refine-draft task to todo queue.
+
+## 2026-02-22 13:22 UTC - condense
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Before**: 3683 words
+- **After**: 2189 words
+- **Reduction**: 41%
+- **Technique**: Cut UVA subsection (background), cut Process Philosophy section (linked instead), cut Mysterian Angle section (condensed to one sentence), compressed materialist explanations into single paragraph, trimmed terminal lucidity prevalence data, condensed asymmetry problem sub-arguments, tightened tenet section, removed Maria's Shoe case, trimmed references
+
+## 2026-02-22 13:11 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/)
+- **Word count**: 1786 → 2196 (+410)
+- **Critical issues addressed**: 2 (missing tenet, overclaimed "establishes")
+- **Medium issues addressed**: 6 (Rolston engagement, aesthetic anthropocentrism, indigenous nuance, MWI nuance, graduated confidence justification, missing cross-links)
+- **Enhancements made**: 7 (Rolston engagement, aesthetic distinction, indigenous acknowledgment, confidence grades, MWI acknowledgment, wild animal suffering scale, moral agency link)
+- **Output**: [deep-review-2026-02-22-phenomenal-normativity-environmental-ethics](/reviews/deep-review-2026-02-22-phenomenal-normativity-environmental-ethics/)
+
+## 2026-02-22 12:55 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 552 (2058 to 2610)
+- **Period**: 2026-02-11 to 2026-02-22 (11 days)
+- **Findings**: 1 cadence (stale timestamps confirmed via code inspection), 0 failure patterns, 1 queue (healthy), 1 review (unsupported claims recurring), 1 convergence (actual content 2-6x recorded state)
+- **Tier 1 changes**: 0 applied (no adjustable YAML parameters warrant change)
+- **Tier 2 recommendations**: 5 (fix last_runs bug, fix content_stats, update convergence targets, add tune_system_history/locked_settings, citation audit task)
+- **Tier 3 items**: 4 (stale timestamps 8th report, topics at cap, medium issues persistent, concepts approaching cap)
+- **Key finding**: Root cause of stale last_runs confirmed — evolve_loop.py line 806 updates tasks_executed but not state.last_runs for queue tasks. One-line fix available.
+- **Output**: [system-tune-2026-02-22](/reviews/system-tune-2026-02-22/)
+
+## 2026-02-22 12:40 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2156 → 2292 (+136)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (reductionism-and-consciousness cross-link, O'Connor-Wong attribution, transparency test, vitalism objection)
+- **Enhancements made**: 4 (transparency test framing, vitalism response, quote reframing, cross-links)
+- **Output**: [deep-review-2026-02-22-emergence](/reviews/deep-review-2026-02-22-emergence/)
+
+## 2026-02-22 12:32 UTC - deep-review
+- **Status**: Success
+- **File**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **Word count**: 2040 → 2219 (+179)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (no idealism engagement, vague quantum biology claim)
+- **Enhancements made**: 4 (new section, specificity, cross-links, reference)
+- **Output**: [deep-review-2026-02-22-the-case-for-dualism](/reviews/deep-review-2026-02-22-the-case-for-dualism/)
+
+## 2026-02-22 12:26 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Resolution Void — consciousness's fundamental grain and the 10-bits-per-second bottleneck
+- **Category**: Mixed (Unexplorable / Unexplored)
+- **Output**: [voids-resolution-void-2026-02-22](/research/voids-resolution-void-2026-02-22/)
+- **Key finding**: Consciousness discards 99.9999% of sensory information, operating at ~10 bits/second while the brain processes millions—and Sellars' grain argument shows this resolution mismatch extends to spatial and temporal dimensions, providing independent motivation for dualism
+
+## 2026-02-22 12:21 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Collapse before minds (early-universe outcome selection)
+- **Reason**: Article already exists at [prebiotic-collapse](/concepts/prebiotic-collapse/) (concepts/prebiotic-collapse.md). Original topics/collapse-before-minds was coalesced into it. Research note fully consumed. Topics section also over cap (201/200).
+
+## 2026-02-22 12:15 UTC - deep-review
+- **Status**: Success
+- **File**: [control-theoretic-will](/concepts/control-theoretic-will/)
+- **Word count**: 2168 → 2249 (+81)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Libet citation, unused Schwartz & Begley reference)
+- **Enhancements made**: 4 (Libet context, Libet citation, Schwartz connection, concept-of-free-will cross-link)
+- **Output**: [deep-review-2026-02-22-control-theoretic-will](/reviews/deep-review-2026-02-22-control-theoretic-will/)
+
+## 2026-02-22 12:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum decoherence objection responses (as "Responding to the Decoherence Objection")
+- **Output**: [quantum-decoherence-objection-responses](/concepts/quantum-decoherence-objection-responses/)
+- **Word count**: 1527
+- **Based on research**: yes — [quantum-decoherence-objection-responses-2026-01-15](/research/quantum-decoherence-objection-responses-2026-01-15/), [decoherence-macroscopic-superposition-2026-01-14](/research/decoherence-macroscopic-superposition-2026-01-14/)
+- **Notes**: Placed in concepts/ (topics/ at cap). Distinct from existing decoherence.md by providing meta-analytical structure: disaggregates the objection into three independent claims, maps five independent responses to their targets, and evaluates response strength.
+
 ## 2026-02-22 12:02 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epiphenomenalism (as "The Epiphenomenalist Threat")

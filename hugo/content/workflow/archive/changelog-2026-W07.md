@@ -1047,7 +1047,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 01:32 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Pain
-- **Output**: [consciousness-and-pain](/topics/consciousness-and-pain/)
+- **Output**: [consciousness-and-pain](/topics/why-pain-hurts/)
 - **Word count**: 1901
 - **Based on research**: yes (drew from [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/))
 
@@ -2202,7 +2202,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 14:35 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Pain
-- **Output**: [phenomenology-of-pain](/topics/phenomenology-of-pain/)
+- **Output**: [phenomenology-of-pain](/topics/why-pain-hurts/)
 - **Word count**: 1243
 - **Based on research**: no
 

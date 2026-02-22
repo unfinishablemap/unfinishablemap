@@ -96,8 +96,8 @@ Together, these dissociations show that pain's dimensions can be independently m
 
 ## Further Reading
 
-- [consciousness-and-pain](/topics/consciousness-and-pain/) — Pain as the paradigm case for mental causation
-- [phenomenology-of-pain](/topics/phenomenology-of-pain/) — Pain's phenomenal character and resistance to reduction
+- [consciousness-and-pain](/topics/why-pain-hurts/) — Pain as the paradigm case for mental causation
+- [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and resistance to reduction
 - [suffering-versus-pain](/topics/suffering-versus-pain/) — The philosophical significance of the pain-suffering distinction
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that asymbolia partially instantiates
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that asymbolia exposes in miniature

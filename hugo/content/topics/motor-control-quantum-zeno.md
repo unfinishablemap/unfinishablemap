@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-22 07:17:00+00:00
+ai_modified: 2026-02-22 15:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,6 +22,7 @@ description: 'How consciousness moves the body: the quantum Zeno effect applied 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-22 15:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, but this claim faces its sharpest test in motor control. Every voluntary movement—reaching for a glass, typing a sentence, turning your head—requires non-physical consciousness to produce physical effects. Henry Stapp's quantum Zeno framework offers a specific mechanism: consciousness holds desired neural patterns stable through rapid observation, preventing them from dissipating before they reach the threshold for action. Converging neuroscience evidence—from the dissolution of the Libet challenge to the discovery that attention and motor planning share neural substrates—supports treating motor selection as a domain where this mechanism operates.
+How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, but this claim faces its sharpest test in motor control. Every voluntary movement—reaching for a glass, typing a sentence, turning your head—requires non-physical consciousness to produce physical effects. Henry Stapp's quantum Zeno framework proposes a candidate mechanism: consciousness holds desired neural patterns stable through rapid observation, preventing them from dissipating before they reach the threshold for action. Converging neuroscience evidence—from the dissolution of the Libet challenge to the discovery that attention and motor planning share neural substrates—supports treating motor selection as a domain where this mechanism operates.
 
 This article explores the philosophical significance of applying the quantum Zeno framework to motor control, building on the technical details in [motor-selection](/concepts/motor-selection/) and the broader [attention-as-interface](/concepts/attention-as-interface/) hypothesis.
 
@@ -64,8 +65,8 @@ The extension rests on Rizzolatti's premotor theory of attention (PMTA): attenti
 
 The parallel runs deeper than shared anatomy. Willed attention and willed motor action share:
 
-- **Timing**: ~280-300ms deployment for voluntary engagement versus ~100ms for automatic responses
-- **Neural signatures**: Frontal theta oscillations distinguish willed from instructed action in both domains
+- **Timing**: ~280-300ms deployment for voluntary engagement versus ~100ms for automatic responses (Thura & Cisek 2014)
+- **Neural signatures**: Frontal theta oscillations distinguish willed from instructed action in both domains (Schwartz, Stapp & Beauregard 2005)
 - **Phenomenology**: Both feel effortful when genuinely chosen, easier when merely instructed
 - **Bidirectional coherence**: Willed states produce bidirectional frontoparietal communication, suggesting genuine deliberation rather than feedforward execution
 
@@ -77,7 +78,7 @@ The brain does not wait for consciousness to generate motor plans from scratch. 
 
 The basal ganglia implement a brake-release mechanism on these competing options. Tonic inhibition suppresses all motor programs by default; selection occurs when the brake is released on one program while competitors remain inhibited. The cortex generates ensembles of possible actions; the striatum selects.
 
-This architecture—option generation followed by competitive selection at threshold—is precisely what the quantum Zeno framework requires. Consciousness does not need to create motor programs. It biases which competing population wins the threshold race by holding desired patterns stable through rapid observation. The bandwidth constraint (~10 bits/second for conscious processing) matches this role: you consciously select "reach for the glass" but do not consciously direct individual motor neurons.
+This architecture—option generation followed by competitive selection at threshold—is precisely what the quantum Zeno framework requires. Consciousness does not need to create motor programs. It biases which competing population wins the threshold race by holding desired patterns stable through rapid observation. The bandwidth constraint of conscious processing—estimated at roughly 10-50 bits/second (Nørretranders 1998)—matches this role: you consciously select "reach for the glass" but do not consciously direct individual motor neurons.
 
 Dopamine further clarifies the architecture. A 2024 *Nature* study demonstrated that dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine marks options as worth pursuing and modulates decision thresholds, but does not itself determine which option is selected. This three-layer structure—neural computation generates options, dopamine marks salience and sets thresholds, consciousness selects—satisfies the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Consciousness does not generate force; it resolves indeterminacy at the selection point.
 
@@ -111,6 +112,8 @@ The [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's o
 
 Additionally, the parallel between attention and motor control—while striking—does not prove they share a quantum mechanism. Shared timing and neural signatures could reflect computational similarities without quantum involvement. The framework remains a candidate mechanism, not an established one.
 
+What would strengthen the case? Evidence that conscious selection introduces statistical bias in otherwise random neural threshold-crossing events—deviations from the predictions of purely stochastic accumulator models during voluntary action. What would weaken it? Demonstration that willed action timing and selection can be fully predicted from prior neural states, leaving no residual indeterminacy for consciousness to resolve.
+
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: The dissociation between motor intention (parietal) and motor execution (premotor) supports irreducibility. Conscious intention and physical movement come apart under stimulation—they are not the same process described at different levels.
@@ -138,8 +141,9 @@ Additionally, the parallel between attention and motor control—while striking�
 
 - Cisek, P., & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex. *Neuron*, 45(5), 801-814.
 - Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
-- Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
+- Kaeser, P.A., et al. (2024). Action potential-induced dopamine release is dispensable for movement but promotes reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
 - Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106, 623-642.
+- Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 - Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 - Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.

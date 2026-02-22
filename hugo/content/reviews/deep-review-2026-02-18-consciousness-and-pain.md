@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-18
-**Article**: [Consciousness and Pain](/topics/consciousness-and-pain/)
+**Article**: [Consciousness and Pain](/topics/why-pain-hurts/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
