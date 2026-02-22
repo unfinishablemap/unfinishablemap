@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Write article on quantum decoherence objection responses
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. The decoherence objection is the primary physics-based challenge to consciousness-collapse theories. Responding to it is critical for Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Write article on collapse before minds (early-universe outcome selection)
 - **Type**: expand-topic
 - **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what collapsed wavefunctions before conscious observers existed? Addressing this challenge is essential for the coherence of Tenets 2 and 4. Target section: concepts/.
@@ -242,6 +236,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on quantum decoherence objection responses
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. The decoherence objection is the primary physics-based challenge to consciousness-collapse theories. Responding to it is critical for Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Output**: quantum decoherence objection responses
 
 ### ✓ 2026-02-22: Write article on epiphenomenalism
 - **Type**: expand-topic
