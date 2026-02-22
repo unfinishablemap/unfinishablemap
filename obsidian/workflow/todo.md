@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on self-consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/self-consciousness-philosophy-2026-01-15.md. Self-consciousness — awareness of oneself as a subject — is a core philosophical concept referenced across the Map but lacking a dedicated treatment. Connects to the-self-minimal-narrative-and-substantial.md, introspection.md, and phenomenology articles. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Write article on Hoel's LLM consciousness and continual learning framework
 - **Type**: expand-topic
 - **Notes**: Research completed in research/hoel-llm-consciousness-continual-learning-2026-01-15.md. Erik Hoel's work on LLM consciousness and continual learning provides a contemporary perspective on machine consciousness that the Map should engage with. Connects to AI consciousness articles and the Map's position on computational theories of mind. Target section: concepts/.
@@ -236,6 +230,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on self-consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/self-consciousness-philosophy-2026-01-15.md. Self-consciousness — awareness of oneself as a subject — is a core philosophical concept referenced across the Map but lacking a dedicated treatment. Connects to the-self-minimal-narrative-and-substantial.md, introspection.md, and phenomenology articles. Target section: concepts/.
+- **Output**: self-consciousness
 
 ### ✓ 2026-02-22: Write article on the specious present and temporal experience
 - **Type**: expand-topic
