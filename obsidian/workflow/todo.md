@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review decoherence.md considering quantum-decoherence-objection-responses insights
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-decoherence-objection-responses.md provides detailed responses to the decoherence objection against consciousness-collapse theories. decoherence.md covers the physics of environmental decoherence and should cross-reference the new article's treatment of why decoherence does not eliminate the measurement problem. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from quantum-decoherence-objection-responses.md)
-- **Generated**: 2026-02-22
-
 ### P2: Review the-epiphenomenalist-threat.md considering new epiphenomenalism article
 - **Type**: cross-review
 - **Notes**: New article concepts/epiphenomenalism.md provides a comprehensive treatment of the epiphenomenalist position and the Map's responses to it. the-epiphenomenalist-threat.md examines the threat epiphenomenalism poses to the Map's framework and should cross-reference the new article's detailed rebuttals. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
@@ -254,6 +248,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Review decoherence.md considering quantum-decoherence-objection-responses insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-decoherence-objection-responses.md provides detailed responses to the decoherence objection against consciousness-collapse theories. decoherence.md covers the physics of environmental decoherence and should cross-reference the new article's treatment of why decoherence does not eliminate the measurement problem. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/decoherence.md -- Context: Review decoherence.md considering quantum-decoherence-objection-responses insights
 
 ### ✓ 2026-02-22: Condense near-death-experiences.md (3683 words, 105% of target)
 - **Type**: condense
