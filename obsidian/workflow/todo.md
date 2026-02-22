@@ -119,6 +119,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. galilean-exclusion.md is the most structurally distinctive argument on the site but is not linked from explanatory-gap.md, consciousness.md, or consciousness-and-strong-emergence.md. These are the articles that would benefit most from its reframing. See optimistic-2026-02-21.md
 
+### P3: Write article on philosophy of perception and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has extensive phenomenology of higher cognition (mathematical, linguistic, moral, aesthetic) but comparatively thin treatment of basic perceptual consciousness—colour experience, cross-modal perception, perceptual constancy as evidence for irreducibility. This is the domain where the Galilean exclusion is most immediately visible. Builds on galilean-exclusion.md, phenomenology-of-attention-to-absence.md, aesthetic-dimension-of-consciousness.md, binding problem articles. See optimistic-2026-02-22.md
+
+### P3: Write article on consciousness and the philosophy of biology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map lacks systematic treatment of how dualism interfaces with philosophy of biology beyond evolution-of-consciousness. Recent work by Walsh, Godfrey-Smith, Okasha challenges gene-centered neo-Darwinism in ways potentially compatible with the Map's framework. Godfrey-Smith's octopus cognition work is particularly relevant. Builds on evolution-of-consciousness.md, consciousness-in-simple-organisms.md, animal-consciousness.md. See optimistic-2026-02-22.md
+
+### P3: Write article on African philosophy of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map includes Indian, Buddhist, and Eastern perspectives but has no coverage of African philosophical traditions. Ubuntu philosophy's relational personhood, the Akan concept of sunsum, and Tempels's vital force ontology offer genuinely different frameworks. The relational emphasis—consciousness as essentially communal—challenges both Western individualist dualism and Eastern dissolution of self. Builds on indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. See optimistic-2026-02-22.md
+
+### P3: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. indian-philosophy-of-mind.md provides independent cross-cultural validation of dualism but is not linked from substance-property-dualism.md, interactionist-dualism.md, or the-case-for-dualism.md. These core articles would benefit from noting that Indian traditions arrived at dualism through independent philosophical traditions over two millennia. See optimistic-2026-02-22.md
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
