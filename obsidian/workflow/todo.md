@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Condense materialism-argument.md (3835 words, 153% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word critical threshold for arguments/. At 3835 words, well over the 2500-word hard threshold. Preserve core argument against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P1: Condense many-worlds-argument.md (3762 words, 150% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word critical threshold for arguments/. At 3762 words, well over the 2500-word hard threshold. Preserve the argument against Many-Worlds Interpretation while tightening prose and removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P2: Write article on motor control and the quantum Zeno framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how the quantum Zeno effect may relate to motor control and conscious intention—directly supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on reductionism and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/reductionism-consciousness-philosophy-2026-01-19.md. Examines why reductionism fails for consciousness—directly supports Tenet 1 (Dualism). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Review articles considering epistemological limits of Occam's Razor insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md was recently written. Related articles that may benefit from cross-referencing include consciousness-and-the-problem-of-theoretical-virtues.md and the-case-for-dualism.md. Check for cross-links, reinforcing arguments about the limits of parsimony reasoning. Supports Tenet 5.
+- **Source**: chain (from epistemological-limits-of-occams-razor.md)
+- **Generated**: 2026-02-22
+
+### P2: Write article on mental imagery and the causal role of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/mental-imagery-consciousness-causal-role-2026-01-23.md. Explores how mental imagery demonstrates the causal efficacy of consciousness—relevant to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Integrate the-participatory-universe.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-02-22). Add cross-references from related articles: quantum-consciousness.md, observer-dependence.md, wigner-friend.md, collapse-interpretation articles. Wheeler's participatory universe connects to the Map's consciousness-collapse framework.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
 ### P2: Condense functionalism-argument.md (4250 words, 170% of target)
 - **Type**: condense
 - **Status**: pending
@@ -49,6 +98,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elegans argument conflates structural knowledge with functional theory—doesn't actually challenge functionalism; (2) Physarum example is consistent with functionalism rather than challenging it. Also found medium-severity issues: conflation of "physically implementable" with "physical," Strawson quote used as unargued authority, COGITATE results described without content. See pessimistic-2026-02-22-night.md
 - **Source**: pessimistic-review
+- **Generated**: 2026-02-22
+
+### P3: Deep review the-strong-emergence-of-consciousness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-02-08). Product of coalesce merging consciousness-and-strong-emergence.md and consciousness-and-the-emergence-debate.md. Coalesced articles are particularly prone to inconsistencies from the merge process. Verify coherence and cross-references.
+- **Source**: staleness
 - **Generated**: 2026-02-22
 
 ### P3: Deep review pain-asymbolia-as-central-test-case.md
