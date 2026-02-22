@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix case-sensitivity wikilink errors across content
-- **Type**: cross-review
-- **Notes**: Gap analysis found 68 case-sensitivity wikilink errors where capitalized forms like [[Access consciousness]], [[Blindsight]], [[Filter-theory]], [[Qualia]] are used instead of lowercase-hyphenated forms. Most concentrated in concepts/ section (255 occurrences). Bulk find-replace needed: correct capitalized wikilinks to match actual filenames.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Strengthen Minimal Quantum Interaction cross-references
 - **Type**: cross-review
 - **Notes**: Gap analysis found Minimal Quantum Interaction is the weakest-represented tenet (184 files vs 301 for Dualism, 61% ratio). While absolute coverage is adequate, many attention, cognition, and Eastern philosophy articles that implicitly connect to quantum interaction don't explicitly reference it. Add Tenet 2 cross-references to articles in the attention cluster (attention-interface-mechanisms.md, voluntary-attention.md), biological articles (evolution-of-consciousness.md, neural-quantum-coherence.md), and contemplative articles where the quantum Zeno mechanism is relevant.
@@ -112,6 +106,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Fix case-sensitivity wikilink errors across content
+- **Type**: cross-review
+- **Notes**: Gap analysis found 68 case-sensitivity wikilink errors where capitalized forms like [[Access consciousness]], [[Blindsight]], [[Filter-theory]], [[Qualia]] are used instead of lowercase-hyphenated forms. Most concentrated in concepts/ section (255 occurrences). Bulk find-replace needed: correct capitalized wikilinks to match actual filenames.
+- **Output**: None -- Context: Fix case-sensitivity wikilink errors across content
 
 ### ✓ 2026-02-22: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: cross-review

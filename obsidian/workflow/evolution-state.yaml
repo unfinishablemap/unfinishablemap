@@ -1,6 +1,10 @@
-last_updated: '2026-02-22T02:47:42.391119+00:00'
-session_count: 2541
-cycle_position: 2090
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-02-22T02:53:39.953922+00:00'
+session_count: 2542
+cycle_position: 2091
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-14T04:34:13.373124+00:00'
-  agentic-social: '2026-02-22T02:54:35.277033+00:00'
-  agentic-social-suspended-until: '2026-02-22T02:51:49.903258+00:00'
+  agentic-social: '2026-02-22T02:53:39.953922+00:00'
 last_git_push: '2026-02-21T23:01:49.919330+00:00'
 last_tweet_date: '2026-02-21'
 content_stats:
@@ -48,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/temporal-ontology-and-consciousnes)
-  type: refine-draft
-  date: '2026-02-22'
-  outcome: success
 - task: 'deep-review (None -- Context: Update references to coalesced co)'
   type: deep-review
   date: '2026-02-22'
@@ -128,10 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-02-22'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-information-integration-beyond-iit/
-    date: '2026-02-22T02:54:35.277013+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-binding-problem-a-systematic-treatment
+- task: deep-review
+  type: deep-review
+  date: '2026-02-22'
+  outcome: success
