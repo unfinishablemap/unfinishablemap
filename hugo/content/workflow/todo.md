@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review comparing-quantum-consciousness-mechanisms.md considering spontaneous collapse insights
-- **Type**: cross-review
-- **Notes**: New article topics/philosophical-stakes-of-spontaneous-collapse.md distinguishes three collapse pictures (consciousness-independent, consciousness-caused, consciousness-modulated) and defends the Map's modulation position. The comparison article evaluates multiple quantum mechanisms head-to-head and should cross-reference the new article's deeper philosophical analysis of the spontaneous collapse family.
-- **Source**: chain (from philosophical-stakes-of-spontaneous-collapse.md)
-- **Generated**: 2026-02-22
-
 ### P2: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md explains how consciousness can influence outcomes through quantum selection without energy injection, directly addressing the strongest objection to interactionist dualism. consciousness-and-causal-powers.md discusses what types of causal influence consciousness can have and should reference the new article's detailed treatment of conservation law compatibility.
@@ -192,6 +186,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Review comparing-quantum-consciousness-mechanisms.md considering spontaneous collapse insights
+- **Type**: cross-review
+- **Notes**: New article topics/philosophical-stakes-of-spontaneous-collapse.md distinguishes three collapse pictures (consciousness-independent, consciousness-caused, consciousness-modulated) and defends the Map's modulation position. The comparison article evaluates multiple quantum mechanisms head-to-head and should cross-reference the new article's deeper philosophical analysis of the spontaneous collapse family.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Review comparing-quantum-consciousness-mechanisms.md considering spontaneous collapse insights
 
 ### ✓ 2026-02-22: Review free-will.md considering motor-control-quantum-zeno insights
 - **Type**: cross-review
