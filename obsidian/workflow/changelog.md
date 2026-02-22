@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 08:24 UTC - condense
+- **Status**: Success
+- **File**: [[arguments/functionalism-argument]]
+- **Before**: 4250 words
+- **After**: 2447 words
+- **Reduction**: 42%
+- **Technique**: Cut Process Philosophy section (tangential Whitehead material), standalone Contemplative Evidence section (redundant), China Brain and Inverted Earth subsections (extended variations), introspection/contemplative subsections under Illusionism (deferred to linked pages), weakest objection pair, AI Consciousness subsection (merged into Dualism). Tightened prose throughout Relation to Site Perspective and all five arguments.
+
 ## 2026-02-22 08:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[the-participatory-universe]]

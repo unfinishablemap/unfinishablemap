@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense functionalism-argument.md (4250 words, 170% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 4250 words, this is the longest argument article on the site. Preserve core argument structure while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Address argument gaps in concepts/functionalism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -176,6 +169,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense functionalism-argument.md (4250 words, 170% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 4250 words, this is the longest argument article on the site. Preserve core argument structure while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/arguments/functionalism-argument.md
 
 ### ✓ 2026-02-22: Integrate the-participatory-universe.md into site navigation
 - **Type**: integrate-orphan
