@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 01:44 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Word count**: 2227 → 2333 (+106)
+- **Critical issues addressed**: 1 (broken `[[voluntary-attention]]` link)
+- **Medium issues addressed**: 3 (compatibilism strawman, thin MWI argument, missing cross-links)
+- **Enhancements made**: 4 (moral-perception cross-link, 3 Further Reading additions)
+- **Output**: [[reviews/deep-review-2026-02-22-responsibility-gradient-from-attentional-capacity]]
+
 ## 2026-02-22 01:35 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
