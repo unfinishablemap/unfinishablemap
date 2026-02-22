@@ -4,7 +4,7 @@ description: "The type of emergence you accept constrains what consciousness can
 created: 2026-02-08
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T17:40:00+00:00
+ai_modified: 2026-02-22T23:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-02-22T17:40:00+00:00
+last_deep_review: 2026-02-22T23:43:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-strong-emergence/"
   - "/topics/consciousness-and-the-emergence-debate/"
@@ -106,7 +106,7 @@ The Map denies causal closure — but not wholesale. Causal closure holds throug
 
 Classical British emergentists accepted strong emergence without a mechanism. Alexander accepted it with "natural piety" — as a brute fact. A century later, quantum mechanics provides what they lacked: a specific location in physics where the causal structure is incomplete. Whether quantum indeterminacies in neural tissue survive [[decoherence]] long enough remains contested — Tegmark (2000) estimated decoherence times far too short for neural relevance, though Hagan et al. (2002) challenged his assumptions. And more fundamentally, decoherence does not solve the [[measurement-problem|measurement problem]] — even after decoherence, something must select which outcome becomes actual.
 
-Timothy O'Connor and Hong Yu Wong developed a sophisticated account of strong emergence compatible with this framework. Their key innovation: emergent powers manifest only under appropriate structural triggering conditions — when components organise in specific ways, latent dispositions become active. The brain's neural architecture provides the structural conditions under which consciousness manifests with novel causal powers. Where their account remains abstract about mechanism, the Map's quantum framework supplies specificity.
+Timothy O'Connor and Hong Yu Wong developed a sophisticated account of strong emergence compatible with this framework. Their key innovation: emergent powers manifest only under appropriate structural triggering conditions — when components organise in specific ways, latent dispositions become active. The brain's neural architecture provides the structural conditions under which consciousness manifests with novel causal powers. Where their account remains abstract about mechanism, the Map's quantum framework — drawing on proposals like [[stapp-quantum-mind|Stapp's quantum Zeno model]] — supplies specificity.
 
 ## What Each Position Determines
 
