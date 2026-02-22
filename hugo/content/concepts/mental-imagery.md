@@ -31,6 +31,7 @@ related_articles:
 - '[[tenets]]'
 - '[[mental-imagery-consciousness-causal-role-2026-01-23]]'
 - '[[evolutionary-case-for-mental-causation]]'
+- '[[mental-imagery-causal-role-of-consciousness]]'
 title: Mental Imagery and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -117,6 +118,7 @@ The attention-imagery interface connects to the Map's broader framework. [Attent
 
 ## Further Reading
 
+- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Topic-level treatment of what imagery reveals about consciousness's causal role
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Parallel evidence that deliberate conscious practice reshapes neural structure
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The tenet that consciousness causally influences the physical
 - [attention](/concepts/attention-as-interface/) — The potential interface between consciousness and neural processes

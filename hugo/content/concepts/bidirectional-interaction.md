@@ -154,6 +154,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for mental causation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Evolutionary evidence for causal efficacy
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — How meditation research demonstrates bidirectional interaction in practice
+- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as evidence for consciousness's causal role
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence: when consciousness interferes with automaticity
 - [self-stultification](/concepts/self-stultification/) — The self-defeat argument against epiphenomenalism in detail
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Whether mental causation violates energy conservation

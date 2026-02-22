@@ -193,6 +193,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem of how mental states cause physical effects
 - [downward-causation](/concepts/downward-causation/) — How higher-level properties influence lower-level processes
+- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as concrete evidence for consciousness's causal powers
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence from natural selection for causal efficacy
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Formal frameworks for mind-matter interaction
 - [selection-laws](/concepts/selection-laws/) — Laws specifying how mental states select physical outcomes

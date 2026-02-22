@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-22 07:48:00+00:00
+ai_modified: 2026-02-22 11:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Voluntary mental imagery provides a distinctive test case for consc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-22 11:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ Three considerations press against the purely neural account:
 
 ### Content Matching
 
-If consciousness is epiphenomenal, the specific *content* of conscious imagery—which movement you visualize, how vividly you experience it—should be irrelevant to the outcome. What matters would be the neural pattern, regardless of its phenomenal character. Yet research using internal vs. external perspective imagery finds that adopting a first-person perspective (with richer phenomenal engagement) produces greater EMG activity and stronger performance effects than adopting a third-person perspective.[^motor] The phenomenology tracks the outcome in ways that neural activation alone doesn't straightforwardly predict.
+If consciousness is epiphenomenal, the specific *content* of conscious imagery—which movement you visualize, how vividly you experience it—should be irrelevant to the outcome. What matters would be the neural pattern, regardless of its phenomenal character. Yet research using internal vs. external perspective imagery finds that adopting a first-person perspective produces greater EMG activity and stronger performance effects than adopting a third-person perspective.[^motor] First-person imagery is phenomenologically richer—you experience the movement from within rather than watching yourself from outside—and this phenomenological difference tracks measurable outcomes. The physicalist can respond that perspective differences reflect different motor circuits rather than different phenomenal qualities, but must explain why the perspective that engages more phenomenal content consistently produces stronger effects.
 
 ### The Aphantasia Prediction
 
@@ -125,6 +125,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly to
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — Other empirical lines supporting conscious causation
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection favours consciousness having a causal role
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between voluntary and passive experience
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — Motor imagery's role in skill acquisition and deliberate practice
+- [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causation consciousness exercises, with imagery as a test case
 
 ## References
 
