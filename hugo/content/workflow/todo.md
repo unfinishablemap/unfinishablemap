@@ -38,17 +38,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen Minimal Quantum Interaction cross-references
-- **Type**: cross-review
-- **Notes**: Gap analysis found Minimal Quantum Interaction is the weakest-represented tenet (184 files vs 301 for Dualism, 61% ratio). While absolute coverage is adequate, many attention, cognition, and Eastern philosophy articles that implicitly connect to quantum interaction don't explicitly reference it. Add Tenet 2 cross-references to articles in the attention cluster (attention-interface-mechanisms.md, voluntary-attention.md), biological articles (evolution-of-consciousness.md, neural-quantum-coherence.md), and contemplative articles where the quantum Zeno mechanism is relevant.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: cross-review
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/concepts/substrate-independence/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P2: Condense llm-consciousness.md (4699 words, 188% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 4699 words, this is the longest concept article on the site. Preserve core arguments about substrate requirements and quantum randomness channel while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P2: Condense the-case-for-dualism.md (4182 words, 167% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. As a central hub article, length is partially justified, but at 4182 words there is likely redundancy with the many linked supporting articles. Preserve the convergence argument structure while tightening prose and deferring detailed argument presentations to their dedicated pages. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P2: Condense contemplative-evidence-for-consciousness-theories.md (4428 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently expanded by coalesce (merged contemplative-verification and contemplative-training articles). Preserve evidential structure while removing redundancy introduced during the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
+
+### P3: Deep review pain-asymbolia-as-central-test-case.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation. Recently written article arguing pain asymbolia is the strongest empirical case against epiphenomenalism. Verify claims, check citations, and ensure tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-22
+
+### P3: Deep review consciousness-and-mathematical-cognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Product of coalesce merging consciousness-and-mathematical-understanding.md and consciousness-and-mathematical-creativity.md. Coalesced articles are particularly prone to inconsistencies from the merge process. Verify coherence and cross-references.
+- **Source**: staleness
+- **Generated**: 2026-02-22
 
 ### P3: Strengthen measurement-problem-as-hard-problem cross-references
 - **Type**: cross-review
@@ -107,6 +131,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Strengthen Minimal Quantum Interaction cross-references
+- **Type**: cross-review
+- **Notes**: Gap analysis found Minimal Quantum Interaction is the weakest-represented tenet (184 files vs 301 for Dualism, 61% ratio). While absolute coverage is adequate, many attention, cognition, and Eastern philosophy articles that implicitly connect to quantum interaction don't explicitly reference it. Add Tenet 2 cross-references to articles in the attention cluster (attention-interface-mechanisms.md, voluntary-attention.md), biological articles (evolution-of-consciousness.md, neural-quantum-coherence.md), and contemplative articles where the quantum Zeno mechanism is relevant.
+- **Output**: None -- Context: Strengthen Minimal Quantum Interaction cross-references
 
 ### ✓ 2026-02-22: Fix case-sensitivity wikilink errors across content
 - **Type**: cross-review

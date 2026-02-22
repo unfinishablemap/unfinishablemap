@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-19 21:21:00+00:00
+ai_modified: 2026-02-22 03:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,6 +9,8 @@ concepts:
 - '[[mental-effort]]'
 - '[[working-memory]]'
 - '[[attention]]'
+- '[[attention-as-interface]]'
+- '[[stapp-quantum-mind]]'
 - '[[introspection]]'
 - '[[phenomenology]]'
 - '[[epistemic-emotions]]'
@@ -21,12 +23,13 @@ description: Cognitive overload feels like something specific—a thickening, a 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-22 03:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenology-of-flow-states]]'
+- '[[phenomenology-of-cognitive-automatisation]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
@@ -78,7 +81,7 @@ This fog state provides phenomenological evidence that cognitive load is not a l
 
 The most striking feature of cognitive load phenomenology is that consciousness has a *felt size*. There is a determinate (if somewhat fuzzy) boundary to how much you can hold at once, and you experience this boundary from inside.
 
-George Miller's famous "seven plus or minus two" describes an information-processing limit. But the phenomenology adds something the information-processing account misses: the *experience* of limitation. A computer that runs out of memory simply fails. A conscious subject that approaches cognitive capacity *feels* the approaching limit—experiences the tightening, the competition between items, the precariousness of the full structure.
+George Miller's famous "seven plus or minus two" describes an information-processing limit—since revised downward by Cowan (2001) to roughly four items when rehearsal is prevented. But the phenomenology adds something the information-processing account misses: the *experience* of limitation. An information-processing system that exceeds buffer capacity produces errors; a conscious subject *feels* the approaching limit before errors occur—experiences the tightening, the competition between items, the precariousness of the full structure.
 
 This felt limitation is phenomenologically primitive. You don't infer that you're overloaded from noticing errors; you experience the overload directly. The inference goes the other way: you predict you're about to make errors because you feel the strain. If this phenomenology is accurate—if the felt quality of approaching capacity genuinely tracks actual capacity rather than being an unreliable confabulation—then consciousness has privileged access to its own operational limits.
 
@@ -90,7 +93,7 @@ The [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual
 
 The distinction matters. You can hold items without reasoning about them (memorising a phone number), and you can reason with minimal maintenance demands (following a short inference). Cognitive load phenomenology concerns the maintenance dimension specifically—what it's like to keep representations available for use.
 
-This active maintenance provides evidence for the Map's framework. If consciousness were epiphenomenal—a passive accompaniment to neural processing—there would be no phenomenology of *effort* in maintenance. The items would simply be stored or not stored, and consciousness would observe the results. Instead, the experience is of *doing*: actively holding, refreshing, sustaining. The effort feels causal—and performance correlates bear this out, since the subjective sense of approaching overload reliably predicts the onset of errors.
+This active maintenance provides evidence for the Map's framework. If consciousness were epiphenomenal—a passive accompaniment to neural processing—there would be no phenomenology of *effort* in maintenance. The items would simply be stored or not stored, and consciousness would observe the results. Instead, the experience is of *doing*: actively holding, refreshing, sustaining. The effort feels causal—and behavioural evidence supports this, since participants can generally predict when they are approaching capacity before performance degrades (Rouder et al., 2008).
 
 ### Cognitive Load and Embodiment
 
@@ -110,7 +113,7 @@ The distinction becomes clear in practice. A simple syllogism (two premises, one
 
 [Flow](/topics/phenomenology-of-flow-states/) represents the opposite end of a spectrum. Where cognitive load is experienced as thickening and saturation, flow is experienced as lightness and transparency. Where load involves effortful maintenance, flow involves effortless engagement.
 
-The contrast is illuminating. Flow occurs when skill matches challenge—when the cognitive demands are well within capacity, not because the task is easy but because expertise has prepared the relevant representations so thoroughly that they require minimal maintenance. Cognitive load becomes punishing when the demands exceed what skill can streamline. Flow and overload are thus not merely different intensities of the same thing but qualitatively different modes of conscious engagement.
+The contrast is illuminating. Flow occurs when skill matches challenge—when the cognitive demands are well within capacity, not because the task is easy but because expertise has prepared the relevant representations so thoroughly that they require minimal maintenance. The [phenomenology of cognitive automatisation](/topics/phenomenology-of-cognitive-automatisation/) describes this progression: as skills become automatic, consciousness withdraws from the details, freeing capacity for higher-level engagement. Cognitive load becomes punishing when the demands exceed what skill can streamline. Flow and overload are thus not merely different intensities of the same thing but qualitatively different modes of conscious engagement.
 
 ### Versus Fatigue
 
@@ -124,7 +127,9 @@ The phenomenology differs accordingly. Fatigue feels like diminishing energy—a
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The maintenance work revealed by cognitive load phenomenology supports mental causation. Holding items in working memory feels effortful because consciousness is doing real work—sustaining representations against decay. The correlation between felt effort and maintenance success is not incidental: subjects who report greater effort maintain more items, suggesting the effort is causally efficacious rather than epiphenomenal. The [quantum Zeno mechanism](/concepts/mental-effort/) offers a candidate account: conscious attention repeatedly observes neural states, stabilising the patterns that encode maintained items. More items require more stabilisation, felt as more effort.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Cognitive capacity limits may reflect constraints on how many quantum-level selections consciousness can sustain simultaneously. If each maintained item requires ongoing observation to remain stable, there would be a natural limit determined by the rate at which consciousness can cycle through observation acts. The felt ceiling of working memory capacity might be the phenomenal manifestation of this physical constraint on the interface between mind and brain.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: One speculative possibility is that cognitive capacity limits reflect constraints on how many quantum-level selections consciousness can sustain simultaneously. [Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/) proposes that attention maintains neural patterns through rapid, repeated observation—holding desired states against decoherence. If each maintained item requires ongoing observation to remain stable, the rate at which consciousness can cycle through observation acts would impose a natural ceiling on capacity. The [attention-as-interface hypothesis](/concepts/attention-as-interface/) estimates conscious bandwidth at roughly 10 bits per second, and this bandwidth constraint may manifest phenomenologically as the felt saturation when working memory approaches its limit. The Map does not commit to the quantum Zeno mechanism specifically—the core argument about cognitive load phenomenology stands independently—but the mechanism offers a candidate physical explanation for why capacity feels bounded rather than merely degrading (see [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) for the broader landscape of proposed mechanisms).
+
+**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of cognitive load presupposes genuine loss. When an item drops from working memory, you experience it as *gone*—not as branching into a world where you kept it. The felt involuntariness of overflow, the shaped absence of what was lost, the cascading disruption that follows—these all presuppose a single stream of consciousness in which maintenance either succeeds or fails. On the many-worlds interpretation, every near-capacity state branches into versions where each possible item drops. The felt singularity of loss—*this* item dropped, not that one—fits collapse interpretations where a definite outcome is selected.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simple account—cognitive load is just buffer overflow—misses the phenomenology entirely. The experience of approaching cognitive limits is rich, graded, embodied, and informative. Reducing it to information-processing metrics discards what is most distinctive about it: that a subject encounters its own limitations from inside and experiences them as qualitatively real.
 
@@ -142,9 +147,12 @@ The claim that cognitive load phenomenology is irreducible and informative would
 
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The effort of reasoning itself, complementing the maintenance effort explored here
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — The opposite experiential pole: effortless engagement at peak performance
+- [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/) — How expertise transforms effortful cognition into automatic processing
 - [working-memory](/concepts/working-memory/) — The cognitive architecture that cognitive load phenomenology reveals from inside
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has phenomenal character independent of sensory accompaniments
 - [mental-effort](/concepts/mental-effort/) — Attentional effort and the quantum Zeno mechanism
+- [attention-as-interface](/concepts/attention-as-interface/) — Attention as the bandwidth-limited bridge between consciousness and neural systems
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The theoretical framework for consciousness maintaining neural patterns through observation
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When conscious monitoring overloads the system and degrades performance
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — What it's like to redirect cognitive resources after distraction
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — How uncertainty amplifies the felt demands of cognitive work
@@ -157,5 +165,6 @@ The claim that cognitive load phenomenology is irreducible and informative would
 - Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 - Miller, G.A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
 - Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
+- Rouder, J.N., Morey, R.D., Cowan, N., Zwilling, C.E., Morey, C.C., & Pratte, M.S. (2008). An assessment of fixed-capacity models of visual working memory. *Proceedings of the National Academy of Sciences*, 105(16), 5975-5979.
 - Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
