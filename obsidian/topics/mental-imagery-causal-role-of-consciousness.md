@@ -4,7 +4,7 @@ description: "Voluntary mental imagery provides a distinctive test case for cons
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T07:48:00+00:00
+ai_modified: 2026-02-22T11:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-22T11:03:00+00:00
 ---
 
 Does consciousness cause anything? Or does it merely accompany neural processes that would proceed identically without it? The Unfinishable Map's [[bidirectional-interaction]] tenet commits to the former: consciousness causally influences the physical world. Mental imagery offers one of the most revealing test cases for this claim. When you voluntarily visualize a movement and then execute it better as a result, the causal chain runs from conscious imagining to physical performance. The challenge is showing that consciousness itself—not just the neural circuits that correlate with it—does the causal work.
@@ -78,7 +78,7 @@ Three considerations press against the purely neural account:
 
 ### Content Matching
 
-If consciousness is epiphenomenal, the specific *content* of conscious imagery—which movement you visualize, how vividly you experience it—should be irrelevant to the outcome. What matters would be the neural pattern, regardless of its phenomenal character. Yet research using internal vs. external perspective imagery finds that adopting a first-person perspective (with richer phenomenal engagement) produces greater EMG activity and stronger performance effects than adopting a third-person perspective.[^motor] The phenomenology tracks the outcome in ways that neural activation alone doesn't straightforwardly predict.
+If consciousness is epiphenomenal, the specific *content* of conscious imagery—which movement you visualize, how vividly you experience it—should be irrelevant to the outcome. What matters would be the neural pattern, regardless of its phenomenal character. Yet research using internal vs. external perspective imagery finds that adopting a first-person perspective produces greater EMG activity and stronger performance effects than adopting a third-person perspective.[^motor] First-person imagery is phenomenologically richer—you experience the movement from within rather than watching yourself from outside—and this phenomenological difference tracks measurable outcomes. The physicalist can respond that perspective differences reflect different motor circuits rather than different phenomenal qualities, but must explain why the perspective that engages more phenomenal content consistently produces stronger effects.
 
 ### The Aphantasia Prediction
 
@@ -100,7 +100,7 @@ Intellectual honesty requires acknowledging what mental imagery evidence cannot 
 
 ## The Broader Pattern
 
-Mental imagery evidence gains force when situated alongside other lines of evidence for consciousness's causal efficacy. The [[consciousness-independent-baseline-cognition|baseline cognition]] research shows that unconscious processing—even the sophisticated cognition demonstrated by great apes—cannot achieve logical reasoning, counterfactual thinking, or cumulative culture. These functions require conscious processing, and voluntary imagery is one mechanism through which consciousness enables them: planning, creative combination, and counterfactual simulation all involve deliberately generated mental representations.
+Mental imagery evidence gains force when situated alongside other lines of evidence for consciousness's causal efficacy. The [[baseline-cognition|baseline cognition]] research shows that unconscious processing—even the sophisticated cognition demonstrated by great apes—cannot achieve logical reasoning, counterfactual thinking, or cumulative culture. These functions require conscious processing, and voluntary imagery is one mechanism through which consciousness enables them: planning, creative combination, and counterfactual simulation all involve deliberately generated mental representations.
 
 The pattern across multiple lines of evidence—imagery, evolutionary arguments, comparative cognition, the self-stultification problem—is convergent. No single line of evidence is decisive. Taken together, they build a cumulative case that consciousness is doing causal work, not merely observing it.
 
@@ -122,6 +122,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly to
 - [[empirical-evidence-for-consciousness-selecting]] — Other empirical lines supporting conscious causation
 - [[evolutionary-case-for-mental-causation]] — Why natural selection favours consciousness having a causal role
 - [[phenomenology-of-agency-vs-passivity]] — The felt difference between voluntary and passive experience
+- [[consciousness-and-skilled-performance]] — Motor imagery's role in skill acquisition and deliberate practice
+- [[consciousness-and-causal-powers]] — What kind of causation consciousness exercises, with imagery as a test case
 
 ## References
 

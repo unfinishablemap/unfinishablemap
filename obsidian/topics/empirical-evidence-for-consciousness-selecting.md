@@ -153,6 +153,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument in depth
 - [[attention-as-selection-interface]] — Where and when selection occurs
 - [[quantum-biology-and-the-consciousness-debate]] — How quantum biology shifts the burden of proof
+- [[mental-imagery-causal-role-of-consciousness]] — Voluntary imagery as a specific test case for consciousness selecting
 - [[consciousness-and-causal-powers]] — What kind of causation consciousness exercises
 - [[baseline-cognition]] — What neural systems achieve without consciousness
 - [[contemplative-evidence-for-consciousness-theories]] — First-person evidence from trained observation

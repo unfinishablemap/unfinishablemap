@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate mental-imagery-causal-role-of-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Recently created article (2026-02-22) with zero inbound links. Argues mental imagery demonstrates the causal efficacy of consciousness — should be linked from introspection.md, phenomenal-conservatism-and-introspective-evidence.md, consciousness-and-causal-powers.md, and bidirectional interaction articles. Supports Tenet 3.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Integrate surprise-and-creativity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Article has zero inbound links. Only referenced in frontmatter of surprise-prediction-error-and-consciousness.md (not rendered). Should be linked from creativity-related articles, prediction-error content, and consciousness-and-mathematical-cognition.md.
@@ -209,6 +203,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Integrate mental-imagery-causal-role-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created article (2026-02-22) with zero inbound links. Argues mental imagery demonstrates the causal efficacy of consciousness — should be linked from introspection.md, phenomenal-conservatism-and-introspective-evidence.md, consciousness-and-causal-powers.md, and bidirectional interaction articles. Supports Tenet 3.
+- **Output**: obsidian/topics/mental-imagery-causal-role-of-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Write article on analytic idealism and mind-centric metaphysics
 - **Type**: expand-topic

@@ -182,6 +182,7 @@ The strongest physicalist counterargument is that executive attention networks, 
 - [[phenomenology-of-conceptual-change]] — The cognitive parallel to motor skill transition
 - [[consciousness-and-the-neuroscience-of-deliberate-practice]] — The neural evidence for practice quality mattering
 - [[phenomenology-of-cognitive-capacity]] — What it is like as processes become automatic and capacity frees up
+- [[mental-imagery-causal-role-of-consciousness]] — The causal argument from motor imagery to consciousness's efficacy
 - [[motor-selection]] — Conscious selection in motor systems
 - [[interface-friction]] — The resistance at the mind-brain interface that effort tracks
 - [[anoetic-noetic-autonoetic-consciousness]] — The levels of consciousness that map onto the phases of skill
