@@ -4,7 +4,7 @@ description: "Where do novel ideas come from before they arrive in consciousness
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T13:21:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 last_deep_review: 2026-02-02T13:21:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ related_articles:
   - "[[creativity-consciousness-and-novel-thought]]"
   - "[[topics/free-will]]"
   - "[[process-and-consciousness]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101

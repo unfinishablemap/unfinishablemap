@@ -4,7 +4,7 @@ description: "How consciousness enables creative thought through generation and 
 created: 2026-02-01
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-05T13:04:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 last_deep_review: 2026-02-05T06:02:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

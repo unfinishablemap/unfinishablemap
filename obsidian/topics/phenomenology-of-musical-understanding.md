@@ -4,7 +4,7 @@ description: "Musical understanding reveals consciousness as irreducibly tempora
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-21T23:55:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[emotional-consciousness]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

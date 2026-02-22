@@ -4,7 +4,7 @@ description: "Human creativity differs from animal innovation and AI generation 
 created: 2026-02-09
 modified: 2026-02-11
 human_modified:
-ai_modified: 2026-02-11T05:19:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[creativity-void]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
   - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

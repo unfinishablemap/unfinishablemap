@@ -4,7 +4,7 @@ description: "Understanding has distinctive phenomenal character—the click of 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-08T21:00:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematical-understanding]]"
   - "[[consciousness-and-semantic-understanding]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101

@@ -4,7 +4,7 @@ description: "Surprise requires phenomenal consciousness—not just prediction e
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T08:44:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[phenomenology-of-evidence-assessment]]"
   - "[[phenomenology-of-belief-revision]]"
   - "[[creativity-consciousness-and-novel-thought]]"
-  - "[[consciousness-and-mathematical-creativity]]"
+  - "[[consciousness-and-mathematical-cognition]]"
   - "[[distinctiveness-of-human-creativity]]"
   - "[[creativity-void]]"
 ai_contribution: 100
@@ -50,7 +50,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-22T02:47:00+00:00
+last_deep_review: 2026-02-22T11:15:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-surprise/"
   - "/topics/phenomenology-of-surprise-and-prediction-error/"
@@ -211,7 +211,7 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - [[choking-phenomenon-mental-causation]] — Another case against epiphenomenalism
 - [[creativity-consciousness-and-novel-thought]] — How consciousness enables novel thought
 - [[distinctiveness-of-human-creativity]] — What sets human creativity apart
-- [[consciousness-and-mathematical-creativity]] — Surprise and insight in mathematics
+- [[consciousness-and-mathematical-cognition]] — Surprise and insight in mathematics
 - [[creativity-void]] — The boundary of what minds can generate
 - [[epistemic-emotions]] — Curiosity, wonder, and other knowledge-directed affects
 - [[structure-of-attention]] — How attention allocates cognitive resources

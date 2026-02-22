@@ -4,7 +4,7 @@ description: "Dream incubation may double puzzle-solving rates. The Konkoly 2026
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-02-07T01:26:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 last_deep_review: 2026-02-06T10:06:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[lucid-dreaming-and-consciousness]]"
   - "[[creativity-consciousness-and-novel-thought]]"
   - "[[dreams-problem-solving-lucid-dreaming-2026-02-06]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

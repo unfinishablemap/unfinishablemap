@@ -195,6 +195,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on emotional consciousness and valence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Emotional phenomenology receives less systematic treatment than sensory or cognitive consciousness, yet emotional qualia may be more resistant to reduction—the inverted spectrum objection doesn't apply to emotional valence. Builds on phenomenology-of-pain.md, valence.md, consciousness-value-connection.md, phenomenal-value-realism.md. Target section: topics/. See optimistic-2026-02-22-afternoon.md
+
+### P3: Write article on consciousness and attention dissociation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Koch and Tsuchiya's discovery that attention and consciousness can come apart deserves standalone treatment showing what this reveals for the interface model. If attention is the selection mechanism, dissociation constrains where consciousness acts. Builds on attention-as-selection-interface.md, structure-of-attention.md. Target section: topics/. See optimistic-2026-02-22-afternoon.md
+
+### P3: Write article on the zombie master argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Chalmers's master argument against the phenomenal concepts strategy deserves standalone treatment—the phenomenal concepts response is the physicalist's strongest rebuttal, and refuting it systematically strengthens the convergence case in the-case-for-dualism.md. Builds on philosophical-zombies.md, conceivability-possibility-inference.md. Target section: concepts/. See optimistic-2026-02-22-afternoon.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

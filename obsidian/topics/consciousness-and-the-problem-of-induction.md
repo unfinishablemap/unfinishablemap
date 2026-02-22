@@ -4,7 +4,7 @@ description: "Exploring how consciousness transforms the problem of induction fr
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-17T20:27:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[argument-from-reason]]"
   - "[[phenomenology-of-evidence-assessment]]"
-  - "[[phenomenology-of-surprise-and-prediction-error]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
   - "[[consciousness-and-semantic-understanding]]"
   - "[[consciousness-and-temporal-integration]]"
   - "[[consciousness-and-the-grounds-of-normative-authority]]"

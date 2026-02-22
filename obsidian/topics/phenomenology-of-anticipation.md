@@ -4,7 +4,7 @@ description: "Protentionâ€”the forward-directed structure of present experienceâ
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-02-10T10:32:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[voids-temporal-asymmetry-remembering-anticipating-2026-01-21]]"
   - "[[time-collapse-and-agency]]"
   - "[[topics/free-will]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

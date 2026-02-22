@@ -3,7 +3,7 @@ title: "The Phenomenology of Error Recognition"
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-01T14:16:00+00:00
+ai_modified: 2026-02-22T11:15:00+00:00
 draft: false
 description: "How does a mind catch its own mistakes? Error-blindness, the bootstrap problem, and cognitive grace—exploring what human-AI collaboration reveals about self-correction."
 last_deep_review: 2026-02-01T14:16:00+00:00
@@ -21,6 +21,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[thoughts-that-slip-away]]"
   - "[[limits-reveal-structure]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
