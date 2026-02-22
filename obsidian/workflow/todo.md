@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense causal-closure.md (4020 words, 161% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. The causal closure principle is central to the interaction debate, but at 4020 words likely contains redundancy with linked articles on conservation laws and princess-elizabeths-challenge. Preserve core arguments while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Integrate disorders-of-consciousness-as-test-cases.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-02-11). Important empirical evidence article examining how disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Should be linked from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, and related clinical articles.
@@ -209,6 +203,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense causal-closure.md (4020 words, 161% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. The causal closure principle is central to the interaction debate, but at 4020 words likely contains redundancy with linked articles on conservation laws and princess-elizabeths-challenge. Preserve core arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/causal-closure.md
 
 ### ✓ 2026-02-22: Integrate concept-of-free-will.md into site navigation
 - **Type**: integrate-orphan
