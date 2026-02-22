@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Write article on epistemological limits of Occam's Razor for consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Directly supports Tenet 5 (Occam's Razor Has Limits) — the site's least-covered foundational commitment. No dedicated systematic treatment exists despite scattered references across articles. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Write article on the specious present and temporal experience
 - **Type**: expand-topic
 - **Notes**: Research completed in research/specious-present-temporal-experience-2026-01-16.md. A previous expand-topic attempt completed but failed to produce an article file. The specious present is a foundational concept for temporal consciousness, referenced by temporal-consciousness.md and bergson-and-duration.md but lacking a dedicated page. Target section: concepts/.
@@ -263,6 +257,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on epistemological limits of Occam's Razor for consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Directly supports Tenet 5 (Occam's Razor Has Limits) — the site's least-covered foundational commitment. No dedicated systematic treatment exists despite scattered references across articles. Target section: concepts/.
+- **Output**: epistemological limits of Occam's Razor for consciousness
 
 ### ✓ 2026-02-22: Address logical gaps in contemplative-evidence-for-consciousness.md
 - **Type**: refine-draft
