@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 02:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[experimental-design-for-consciousness-collapse-testing]]
+- **Word count**: 1767 → 1971 (+204)
+- **Critical issues addressed**: 1 (missing falsification criteria)
+- **Medium issues addressed**: 4 (dark matter analogy, special pleading risk, Bong et al. MWI interpretation, missing cross-links)
+- **Enhancements made**: 4 cross-links added, attribution tightened
+- **Output**: [[reviews/deep-review-2026-02-22-experimental-design-for-consciousness-collapse-testing]]
+
 ## 2026-02-22 02:04 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Observation Void

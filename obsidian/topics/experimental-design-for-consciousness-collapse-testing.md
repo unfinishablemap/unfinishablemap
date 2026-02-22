@@ -2,9 +2,9 @@
 title: "Experimental Design for Consciousness-Collapse Testing"
 description: "How would you test whether consciousness participates in wavefunction collapse? Existing proposals face a core obstacle: separating conscious observation from physical measurement."
 created: 2026-02-19
-modified: 2026-02-19
+modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-19T08:34:00+00:00
+ai_modified: 2026-02-22T02:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,9 @@ concepts:
   - "[[decoherence]]"
   - "[[interactionist-dualism]]"
   - "[[spontaneous-collapse-theories]]"
+  - "[[integrated-information-theory]]"
+  - "[[causal-closure]]"
+  - "[[consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-consciousness-interface]]"
@@ -27,6 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
+last_deep_review: 2026-02-22T02:12:00+00:00
 ---
 
 If consciousness participates in [[measurement-problem|wavefunction collapse]], as The Unfinishable Map's [[tenets]] propose, this claim should in principle be testable. Yet designing an experiment that distinguishes consciousness-driven collapse from purely physical collapse is among the hardest problems in the philosophy of physics. Every physical measurement that could reveal collapse also introduces the very physical interactions that physicalist interpretations invoke as the cause. The challenge is not technological but conceptual: how do you isolate the contribution of consciousness when consciousness is always accompanied by a physical observer?
@@ -35,7 +39,7 @@ This article surveys the major experimental strategies that have been proposed, 
 
 ## The Core Experimental Obstacle
 
-The fundamental difficulty is what might be called the **confound of embodiment**: every conscious observer is also a physical system. When a human looks at a quantum measurement apparatus, photons strike retinas, neurons fire, information is amplified from quantum to classical scales. Any of these physical processes could be what triggers collapse — [[decoherence]] theorists argue exactly this. Consciousness-collapse hypotheses propose that something additional happens at or alongside these physical events, but the physical events provide a sufficient-seeming alternative explanation.
+The fundamental difficulty is what might be called the **confound of embodiment**: every conscious observer is also a physical system. When a human looks at a quantum measurement apparatus, photons strike retinas, neurons fire, information is amplified from quantum to classical scales. Any of these physical processes could be what triggers collapse — [[decoherence]] theorists argue exactly this. Consciousness-collapse hypotheses propose that [[consciousness-selecting-neural-patterns|something additional happens]] at or alongside these physical events, but the physical events provide a sufficient-seeming alternative explanation. The hypothesis depends on [[causal-closure|causal closure]] being incomplete at quantum indeterminacies — but testing this incompleteness requires separating consciousness from its physical substrate, which the confound prevents.
 
 An ideal experiment would compare two conditions:
 1. A quantum system measured by a conscious observer
@@ -57,7 +61,9 @@ The difficulty is engineering a quantum memory that genuinely preserves superpos
 
 The Wigner's friend scenario provides the most direct test framework. Wigner's friend performs a measurement inside a sealed laboratory. From Wigner's perspective outside, the friend and the laboratory remain in superposition until Wigner opens the door. If consciousness causes collapse, the friend's observation should collapse the system *inside* the lab — meaning Wigner should find a definite result when he checks, and interference experiments on the closed lab should fail. If collapse is purely physical, the friend's observation collapses things regardless. If many-worlds is correct, no collapse occurs at all.
 
-In 2020, Bong et al. derived the "local friendliness" no-go theorem — stronger than Bell's theorem — showing that certain experimental assumptions cannot all be true simultaneously. Experiments using photonic systems have tested aspects of this theorem, but critics note the obvious limitation: "Nobody thinks a photon is an observer" (Maudlin). The experiment needs a genuine conscious observer inside the sealed lab, yet the act of sealing a conscious observer from outside interference is technically impossible at the quantum level — the observer's thermal radiation, gravitational field, and electromagnetic interactions leak information continuously.
+In 2020, Bong et al. derived the "local friendliness" no-go theorem — stronger than Bell's theorem — showing that certain experimental assumptions cannot all be true simultaneously. One of those assumptions is "absoluteness of observed events" — that measurements produce single, definite outcomes. Many-worlds proponents argue that this theorem actually favours MWI, since MWI denies absoluteness of observed events rather than locality or friendliness. Consciousness-collapse proponents must accept the theorem's constraints differently, maintaining absolute outcomes while explaining how consciousness produces them.
+
+Experiments using photonic systems have tested aspects of this theorem, but critics note the obvious limitation: photonic systems lack anything resembling conscious observation. The experiment needs a genuine conscious observer inside the sealed lab, yet the act of sealing a conscious observer from outside interference is technically impossible at the quantum level — the observer's thermal radiation, gravitational field, and electromagnetic interactions leak information continuously.
 
 ### Statistical Anomaly Detection
 
@@ -81,7 +87,7 @@ This approach faces two problems. First, the predicted effect size is unknown �
 
 ### Chalmers-McQueen IIT-CSL Framework
 
-The most theoretically developed proposal comes from Chalmers and McQueen (2021), who combine integrated information theory (IIT) with continuous spontaneous localisation (CSL). Their framework predicts that systems with high integrated information (Φ) — a proposed measure of consciousness — trigger faster collapse than systems with equivalent mass but low Φ. Superpositions involving different Φ values are inherently unstable; consciousness effectively "refuses to superpose."
+The most theoretically developed proposal comes from Chalmers and McQueen (2021), who combine [[integrated-information-theory|integrated information theory]] (IIT) with continuous spontaneous localisation (CSL). Their framework predicts that systems with high integrated information (Φ) — a proposed measure of consciousness — trigger faster collapse than systems with equivalent mass but low Φ. Superpositions involving different Φ values are inherently unstable; in Chalmers and McQueen's framing, consciousness effectively "refuses to superpose."
 
 This generates a testable prediction: a quantum computer configured with high Φ should show different collapse dynamics than one with low Φ but the same physical parameters. The prediction is independent of biological implementation — it depends on information structure, not on being a brain.
 
@@ -96,7 +102,9 @@ Yet this approach has a structural advantage over others: it makes consciousness
 
 The persistent failure to design a clean consciousness-collapse experiment is itself philosophically significant. It reflects the same structural feature that generates the [[hard-problem-of-consciousness|hard problem]]: consciousness is always accessed from within a physical system, and the physical system always provides an alternative explanatory pathway. The confound of embodiment is not a design flaw in proposed experiments — it is a feature of the mind-body relationship itself.
 
-This suggests that consciousness-collapse may not be testable by the standard method of isolating variables and comparing conditions. Instead, evidence may accumulate through convergence: multiple independent lines of inquiry each providing partial support that collectively shifts the balance of evidence. Analogous to how the case for dark matter rests not on a single decisive experiment but on converging evidence from galaxy rotation curves, gravitational lensing, and cosmic microwave background data.
+This suggests that consciousness-collapse may not be testable by the standard method of isolating variables and comparing conditions. Instead, evidence may accumulate through convergence: multiple independent lines of inquiry each providing partial support that collectively shifts the balance of evidence. The parallel to dark matter is instructive but imperfect — dark matter's case rests on converging *quantitative* predictions (galaxy rotation curves, gravitational lensing, cosmic microwave background data), while consciousness-collapse currently generates no such predictions. The convergence would need to be conceptual and eliminative rather than quantitative: ruling out alternatives while establishing preconditions.
+
+Critics will object that this amounts to immunising the hypothesis against falsification — rebranding untestability as "convergence." The objection has force. What distinguishes convergence from unfalsifiability is specificity about what evidence would count *against* the hypothesis. The Map's [[testability-ledger]] catalogues these disconfirmers explicitly: a complete physical theory of qualia, a solution to the measurement problem requiring no observers, or proof that [[causal-closure|causal closure]] holds even at quantum collapse would each undermine the framework. Convergence is legitimate only when accompanied by this kind of epistemic accountability.
 
 Lines of convergence might include:
 - Failure of objective collapse theories to match observed collapse rates (weakening the physicalist alternative)
@@ -122,6 +130,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly r
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[consciousness-and-scientific-methodology]]
 - [[time-collapse-and-agency]]
+- [[testability-ledger]] — Systematic catalogue of what would disconfirm the Map's framework
 
 ## References
 
