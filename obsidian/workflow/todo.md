@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Write article on split-brain cases and unity of consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Split-brain cases provide striking empirical evidence bearing on the unity of consciousness and the nature of personal identity — core issues for the Map's dualist framework. The research has been unconsumed for 39 days. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Cross-review attention-as-interface.md considering voluntary attention control mechanisms
 - **Type**: cross-review
 - **Notes**: New article concepts/voluntary-attention-control-mechanisms.md provides mechanistic detail about thalamic gating and salience network control. concepts/attention-as-interface.md is the foundational hypothesis this implements and should cross-reference the new mechanistic evidence.
@@ -261,6 +255,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-22
 
 ## Completed Tasks
+
+
+### ✓ 2026-02-22: Write article on split-brain cases and unity of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/split-brain-consciousness-unity-2026-01-14.md. Split-brain cases provide striking empirical evidence bearing on the unity of consciousness and the nature of personal identity — core issues for the Map's dualist framework. The research has been unconsumed for 39 days. Target section: concepts/.
+- **Output**: split-brain cases and unity of consciousness
+
+### ✓ 2026-02-22: Write article on split-brain cases and unity of consciousness
+- **Type**: expand-topic
+- **Notes**: Article already exists at topics/split-brain-consciousness.md (277 lines, comprehensive coverage). Research note split-brain-consciousness-unity-2026-01-14.md was already consumed. Companion concept article concepts/unity-of-consciousness.md also covers unity dimensions. No new article needed.
+- **Output**: Already exists — obsidian/topics/split-brain-consciousness.md
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
@@ -268,7 +274,6 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
-
 
 ### ✓ 2026-02-22: Write article on voluntary attention control mechanisms
 - **Type**: expand-topic

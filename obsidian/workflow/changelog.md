@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 16:32 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Split-brain cases and unity of consciousness
+- **Output**: Already exists — [[topics/split-brain-consciousness]] (277 lines) + [[concepts/unity-of-consciousness]] (237 lines)
+- **Based on research**: yes — [[split-brain-consciousness-unity-2026-01-14]] (already consumed)
+- **Notes**: P2 task from unconsumed_research generator, but the research was already consumed into a comprehensive topics article. No new article created.
+
 ## 2026-02-22 16:20 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Voluntary Attention Control Mechanisms
