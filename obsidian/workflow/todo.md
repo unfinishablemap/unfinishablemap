@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Write article on collapse before minds (early-universe outcome selection)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what collapsed wavefunctions before conscious observers existed? Addressing this challenge is essential for the coherence of Tenets 2 and 4. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Review the-case-for-dualism.md considering analytic idealism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/analytic-idealism-and-mind-centric-metaphysics.md was written today. the-case-for-dualism.md is the central hub for the Map's dualist position and should acknowledge analytic idealism as a sophisticated alternative that agrees consciousness is fundamental but differs on ontology. Check for cross-links and potential argument refinement.
@@ -236,6 +230,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on collapse before minds (early-universe outcome selection)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what collapsed wavefunctions before conscious observers existed? Addressing this challenge is essential for the coherence of Tenets 2 and 4. Target section: concepts/.
+- **Output**: collapse before minds (early-universe outcome selection)
 
 ### ✓ 2026-02-22: Write article on quantum decoherence objection responses
 - **Type**: expand-topic

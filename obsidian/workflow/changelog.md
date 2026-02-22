@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 12:21 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Collapse before minds (early-universe outcome selection)
+- **Reason**: Article already exists at [[prebiotic-collapse]] (concepts/prebiotic-collapse.md). Original topics/collapse-before-minds was coalesced into it. Research note fully consumed. Topics section also over cap (201/200).
+
 ## 2026-02-22 12:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/control-theoretic-will]]
