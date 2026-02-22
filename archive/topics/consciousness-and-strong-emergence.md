@@ -6,6 +6,11 @@ modified: 2026-02-13
 human_modified:
 ai_modified: 2026-02-16T08:18:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-22T01:19:00+00:00
+superseded_by: "/topics/the-strong-emergence-of-consciousness/"
+archive_reason: "Coalesced into The Strong Emergence of Consciousness"
+original_path: "/topics/consciousness-and-strong-emergence/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-the-emergence-debate]]"
