@@ -221,6 +221,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Chalmers's master argument against the phenomenal concepts strategy deserves standalone treatment—the phenomenal concepts response is the physicalist's strongest rebuttal, and refuting it systematically strengthens the convergence case in the-case-for-dualism.md. Builds on philosophical-zombies.md, conceivability-possibility-inference.md. Target section: concepts/. See optimistic-2026-02-22-afternoon.md
 
+### P3: Write article on the metaphysics of information under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Many consciousness theories (IIT, GWT, HOT) presuppose a physicalist understanding of "information." Shannon information is defined physically; semantic information requires intentionality. The Map's framework suggests information has a dual aspect—physical structure and phenomenal meaning—that physicalist theories conflate. Builds on integrated-information-theory.md, quantum-consciousness.md, binding-problem.md. Target section: concepts/. See optimistic-2026-02-22-evening.md
+
+### P3: Write article on cross-cultural convergence on mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map demonstrates cross-cultural convergence on the hard problem but has not examined whether independent traditions also converge on consciousness being causally efficacious. Indian karma theory, Chinese qi philosophy, and African vital force traditions all posit mental-to-physical causation. Strengthens the convergence argument for Tenet 3. Builds on the-hard-problem-in-non-western-philosophy.md, indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. Target section: topics/. See optimistic-2026-02-22-evening.md
+
+### P3: Strengthen convergence-argument cross-links to galilean-exclusion
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. the-convergence-argument-for-dualism.md would benefit from linking to galilean-exclusion.md as an independent structural argument. Also link pain-asymbolia-as-central-test-case.md to binding-problem.md (affective binding dissociation), and the-epiphenomenalist-threat.md to galilean-exclusion.md (the gravity well partly explained by science's founding exclusion). See optimistic-2026-02-22-evening.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
