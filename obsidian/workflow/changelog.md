@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 17:46 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness in Non-Collapsed Quantum States
+- **Output**: [[concepts/consciousness-in-non-collapsed-quantum-states]]
+- **Word count**: 1481
+- **Based on research**: yes, [[consciousness-non-collapsed-quantum-states-2026-02-10]]
+- **Note**: Topics at cap (200/200); placed in concepts. Complements existing survey article [[consciousness-in-smeared-quantum-states]] with focused philosophical analysis of the phenomenological gap, definiteness constraint, and Wigner's friend connection.
+
 ## 2026-02-22 17:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[the-strong-emergence-of-consciousness]]

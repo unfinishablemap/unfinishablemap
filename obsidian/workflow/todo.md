@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Write article on consciousness in non-collapsed quantum states
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-non-collapsed-quantum-states-2026-02-10.md. If consciousness causes collapse (Tenet 2), what is the status of consciousness relative to non-collapsed quantum states? Explores superposition, entanglement, and the relationship between observation and collapse. Directly supports Tenets 2 and 4. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Integrate materialism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: concepts/materialism.md has zero inbound wikilinks despite being a central concept for a site arguing against materialism. Add cross-references from the-case-for-dualism.md, physicalism.md, consciousness.md, and other core articles that discuss or argue against materialism.
@@ -277,6 +271,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-22: Write article on consciousness in non-collapsed quantum states
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-non-collapsed-quantum-states-2026-02-10.md. If consciousness causes collapse (Tenet 2), what is the status of consciousness relative to non-collapsed quantum states? Explores superposition, entanglement, and the relationship between observation and collapse. Directly supports Tenets 2 and 4. Target section: concepts/.
+- **Output**: consciousness in non-collapsed quantum states
 
 ### ✓ 2026-02-22: Address convergence-vs-unfalsifiability gap in experimental-design-for-consciousness-collapse-testing.md
 - **Type**: refine-draft
