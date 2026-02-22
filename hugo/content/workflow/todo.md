@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-06 19:39:00+00:00
+ai_modified: 2026-02-22 04:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on epistemological limits of Occam's Razor for consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Directly supports Tenet 5 (Occam's Razor Has Limits). Argues why parsimony cannot settle the consciousness debate—Huemer, Zanotti, and critiques of simplicity as epistemic guide when knowledge is incomplete. Target section: topics/ or concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on the participatory universe
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/participatory-universe-2026-02-08.md. Wheeler's participatory universe thesis—observation as constitutive of reality—integrates with the Map's consciousness-collapse framework, QBism, and Stapp's quantum mind theory. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Write article on consciousness in non-collapsed quantum states
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-non-collapsed-quantum-states-2026-02-10.md. Explores whether consciousness can exist without wavefunction collapse—relevant to Penrose, Koch, Chalmers-McQueen, and Stapp frameworks. Challenges and supports the Map's Tenet 2. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-22
+
+### P2: Integrate phenomenological-psychiatry-and-altered-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: altered-states-of-consciousness.md, disorders-of-consciousness-as-test-cases.md, temporal-consciousness.md, phenomenology.md. Topics like Jaspers, Binswanger, and Sass on schizophrenia connect to the Map's phenomenological framework.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P2: Integrate epistemology-of-mechanism-at-the-consciousness-matter-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: atemporal-causation.md, princess-elizabeths-challenge.md, mysterianism.md, mind-matter-interface.md, psychophysical-laws.md. This article examines why mechanisms at the consciousness-matter boundary may be permanently opaque.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P2: Integrate temporal-ontology-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-02-21). Add cross-references from related articles: temporal-consciousness.md, growing-block-universe.md, philosophy-of-time.md, bergson-and-duration.md. Explores how temporal ontology (presentism, growing block, eternalism) interacts with consciousness.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-22
+
+### P2: Condense functionalism-argument.md (4250 words, 170% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 2500-word hard threshold for arguments/. At 4250 words, this is the longest argument article on the site. Preserve core argument structure while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-22
 
 ### P2: Address argument gaps in concepts/functionalism.md
 - **Type**: refine-draft
@@ -86,6 +135,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. indian-philosophy-of-mind.md provides independent cross-cultural validation of dualism but is not linked from substance-property-dualism.md, interactionist-dualism.md, or the-case-for-dualism.md. These core articles would benefit from noting that Indian traditions arrived at dualism through independent philosophical traditions over two millennia. See optimistic-2026-02-22.md
+
+### P3: Deep review control-theoretic-will.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Concept article on control-theoretic models of will. Verify claims, check for unsupported assertions, and ensure alignment with the Map's framework on free will and consciousness.
+- **Source**: staleness
+- **Generated**: 2026-02-22
+
+### P3: Write article on consciousness as activity rather than property
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The insight that consciousness is something matter *does* rather than a property matter *has* runs through multiple articles (information-integration, emergence, contemplative-evidence, agent-causation) but has never been developed as a unifying theme. Would resolve IIT's passivity problem, connect to contemplative evidence of active witness, and integrate with agent causation. Target section: concepts/. See optimistic-2026-02-22-night.md
+
+### P3: Write article on the consciousness threshold in cognitive evolution
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The baseline cognition hypothesis (great apes achieve tool use and procedural metacognition without logical reasoning, counterfactual thinking, or cumulative culture) reframes consciousness as a recent evolutionary threshold rather than ancient property. Builds on consciousness-independent-baseline-cognition.md, agent-causation.md, moral-responsibility.md. Target section: topics/. See optimistic-2026-02-22-night.md
+
+### P3: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The measurement problem provides the specific locus where strong emergence could operate, but emergence.md does not link to measurement-problem-as-philosophical-problem.md. Also add links between moral-responsibility.md and consciousness-and-the-grounds-of-normative-authority.md (shared mechanism), and temporal-consciousness.md to collapse-and-time.md (Husserl maps onto collapse temporal structure). See optimistic-2026-02-22-night.md
 
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft

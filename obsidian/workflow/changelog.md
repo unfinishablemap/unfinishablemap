@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 04:21 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Epistemological limits of Occam's Razor for consciousness
+- **Reason**: Article already exists at arguments/epistemological-limits-of-occams-razor.md (created 2026-02-06). Research note was consumed; replenish-queue incorrectly flagged as unconsumed because article was placed in arguments/ rather than topics/concepts/.
+- **Action**: Marked P2 todo task as complete.
+
 ## 2026-02-22 04:15 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All 375 non-draft articles across topics/ (197), concepts/ (177), tenets/ (1). Deep reading of ~55 representative articles across six thematic clusters.
