@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-02-22T11:50:00+00:00
+ai_modified: 2026-02-22T18:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[process-philosophy]]"
   - "[[binding-problem]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[witness-consciousness]]"
   - "[[introspection]]"
   - "[[haecceity]]"
@@ -41,7 +41,7 @@ concepts:
   - "[[combination-problem]]"
   - "[[unity-of-consciousness]]"
   - "[[varieties-of-unity]]"
-  - "[[phenomenal-unity]]"
+  - "[[phenomenal-binding-and-holism]]"
   - "[[stapp-quantum-mind]]"
 related_articles:
   - "[[tenets]]"
@@ -59,7 +59,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-15T04:00:00+00:00
+last_deep_review: 2026-02-22T18:26:00+00:00
 coalesced_from:
   - "/concepts/temporal-consciousness/"
   - "/concepts/specious-present/"
@@ -67,7 +67,7 @@ coalesced_from:
   - "/concepts/temporal-unity/"
 ---
 
-Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a duration of roughly 100 milliseconds to 3 seconds within which succession, change, and persistence appear as unified wholes. Henri Bergson named this qualitative flow *durée*—lived time fundamentally different from the spatialized time of physics. [[william-james-consciousness|William James]] wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future.
+Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a core duration of roughly 300-750 milliseconds, embedded in a broader experiential horizon of 2-3 seconds, within which succession, change, and persistence appear as unified wholes. Henri Bergson named this qualitative flow *durée*—lived time fundamentally different from the spatialized time of physics. [[william-james-consciousness|William James]] wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future.
 
 This temporal structure appears fundamental to what consciousness is, not merely how it happens to be implemented. It has profound implications for artificial consciousness, for metaphysics, and for understanding why physical descriptions systematically miss something about time. For The Unfinishable Map's framework, temporal consciousness may be the phenomenological manifestation of consciousness's constitutive role in time—what quantum collapse feels like from within.
 
@@ -75,7 +75,7 @@ This temporal structure appears fundamental to what consciousness is, not merely
 
 The specious present was named by E.R. Clay and developed by William James, Husserl, and Bergson. Their insight: the mathematical present is durationless, but the experiential present has duration. When you hear a melody, you don't experience isolated tones—you hear phrases, progressions, resolutions. The experience of succession differs fundamentally from a mere succession of experiences.
 
-Duration estimates range from ~300ms (Strawson) to 2-3 seconds (Pöppel), suggesting multiple components: a core perceptual window (~100-300ms) embedded in a broader experiential horizon (~1-3s).
+Duration estimates span three complementary timescales: a perceptual moment (~100-300ms, Strawson), the specious present proper (~300-750ms, Benussi, Dainton), and an extended present (~2-3s, Pöppel). These are not competing estimates but nested components of temporal experience.
 
 Consider hearing three notes: C, E, G. A system that processes each note without retaining the others never experiences a chord. Experiencing the chord requires holding the notes together in a unified present moment.
 
@@ -97,7 +97,7 @@ Varela's [[neurophenomenology|neurophenomenology]] connects the specious present
 
 ### Working Memory as Neural Correlate
 
-Working memory provides a promising neural correlate. The experienced moment (~100ms-5s) matches working memory maintenance capacity. Baddeley's episodic buffer performs binding across modalities and time—if consciousness participates constitutively (as the [[binding-problem|binding problem]] analysis suggests), this may be where such participation is observable. The ~10 bits/second limit on conscious throughput noted in the Map's [[psychophysical-coupling-law|coupling law research]] matches both working memory capacity and specious present duration. The specious present may be what working memory *feels like from inside*.
+Working memory provides a promising neural correlate. The experienced moment (~100ms-5s) matches working memory maintenance capacity. Baddeley's episodic buffer performs binding across modalities and time—if consciousness participates constitutively (as the [[binding-problem|binding problem]] analysis suggests), this may be where such participation is observable. The ~10 bits/second limit on conscious throughput noted in the Map's [[psychophysical-laws|coupling law research]] matches both working memory capacity and specious present duration. The specious present may be what working memory *feels like from inside*.
 
 ## Mental Time Travel and the Extended Self
 
