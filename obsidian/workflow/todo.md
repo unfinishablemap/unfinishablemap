@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced surprise articles
-- **Type**: cross-review
-- **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[[consciousness-and-surprise]]`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[[phenomenology-of-surprise-and-prediction-error]]`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[surprise-prediction-error-and-consciousness]]` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-19
-
 ### P2: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
 - **Type**: cross-review
 - **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[[quantum-neural-mechanisms]]`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[[quantum-coherence-and-binding-evidence]]`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[quantum-neural-mechanisms-and-coherence]]` where appropriate.
@@ -158,6 +152,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Update references to coalesced surprise articles
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[[consciousness-and-surprise]]`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[[phenomenology-of-surprise-and-prediction-error]]`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[surprise-prediction-error-and-consciousness]]` where appropriate.
+- **Output**: None -- Context: Update references to coalesced surprise articles
 
 ### ✓ 2026-02-22: Update references to coalesced contemplative articles
 - **Type**: cross-review
