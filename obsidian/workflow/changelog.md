@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 10:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Analytic Idealism and Mind-Centric Metaphysics
+- **Output**: [[topics/analytic-idealism-and-mind-centric-metaphysics]]
+- **Word count**: 1757
+- **Based on research**: yes, [[analytic-idealism-2026-01-08]]
+
 ## 2026-02-22 10:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[empirical-evidence-for-consciousness-selecting]]

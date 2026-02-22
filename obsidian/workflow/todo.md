@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on analytic idealism and mind-centric metaphysics
-- **Type**: expand-topic
-- **Notes**: Research completed in research/analytic-idealism-2026-01-08.md. Bernardo Kastrup's analytic idealism is a major alternative metaphysics that the Map needs to address — it agrees consciousness is fundamental but proposes a radically different ontology (mind-only vs. dualism). Engaging with it strengthens the case for the Map's dualist position. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
-### P2: Integrate reductionism-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Recently created article (2026-02-22) with zero inbound links. Directly addresses why reductionism fails for consciousness — should be linked from emergence.md, the-case-for-dualism.md, hard-problem-of-consciousness.md, materialism.md, and explanatory-gap.md. Core Tenet 1 (Dualism) supporting content.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Integrate mental-imagery-causal-role-of-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Recently created article (2026-02-22) with zero inbound links. Argues mental imagery demonstrates the causal efficacy of consciousness — should be linked from introspection.md, phenomenal-conservatism-and-introspective-evidence.md, consciousness-and-causal-powers.md, and bidirectional interaction articles. Supports Tenet 3.
@@ -221,6 +209,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on analytic idealism and mind-centric metaphysics
+- **Type**: expand-topic
+- **Notes**: Research completed in research/analytic-idealism-2026-01-08.md. Bernardo Kastrup's analytic idealism is a major alternative metaphysics that the Map needs to address — it agrees consciousness is fundamental but proposes a radically different ontology (mind-only vs. dualism). Engaging with it strengthens the case for the Map's dualist position. Target section: concepts/.
+- **Output**: analytic idealism and mind-centric metaphysics
 
 ### ✓ 2026-02-22: Condense psychophysical-laws.md (3972 words, 159% of target)
 - **Type**: condense
