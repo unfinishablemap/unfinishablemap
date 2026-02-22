@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-02-20 20:51:00+00:00
+ai_modified: 2026-02-22 04:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,8 @@ concepts:
 - '[[temporal-thickness]]'
 - '[[consciousness-and-creativity]]'
 - '[[prehension]]'
+- '[[contemplative-epistemology]]'
+- '[[contemplative-reliability]]'
 created: 2026-02-20
 date: &id001 2026-02-20
 description: Henri Bergson's durée reveals time as qualitative flow rather than spatial
@@ -22,7 +24,7 @@ description: Henri Bergson's durée reveals time as qualitative flow rather than
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-22 04:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +56,7 @@ Duration (*durée*) is Bergson's name for time as directly experienced. Its feat
 
 **Indivisibility.** You can divide a spatial line into segments without altering what you're dividing. But dividing a melody into individual notes destroys the melody. Duration can be analytically distinguished into phases but cannot be actually divided without changing its nature. The whole is present in every part.
 
-**Irreversibility.** Spatialized time is reversible in principle—physics equations run equally well backward. Duration is not. You cannot un-hear a phrase of music or un-feel a pang of loss. Each moment absorbs its predecessors and transforms them. The asymmetry is intrinsic, not thermodynamic.
+**Irreversibility.** The fundamental equations of physics are time-symmetric—they run equally well backward. Statistical mechanics introduces irreversibility through entropy increase, but this is a property of aggregate systems, not of time itself. Duration's irreversibility is different from both: it is qualitative and experiential. You cannot un-hear a phrase of music or un-feel a pang of loss. Each moment absorbs its predecessors and transforms them. The asymmetry belongs to lived experience as such, not to thermodynamic probability.
 
 ## Intuition Against Analysis
 
@@ -63,6 +65,8 @@ Bergson distinguished two modes of knowing. **Analysis** breaks its object into 
 Duration, Bergson argued, can only be known through intuition. Any attempt to analyse it—to break it into measurable units—replaces duration with its spatial shadow. This is why physics, which proceeds by analysis, systematically misses what time actually is for a conscious being.
 
 The claim is not anti-scientific. Bergson acknowledged that spatialized time is essential for prediction, measurement, and practical action. His point is that the scientific representation is a useful abstraction, not a complete description of reality. When philosophers mistake the abstraction for the thing itself, they generate false problems—including the apparent impossibility of free will and the seeming reducibility of consciousness to mechanism.
+
+The obvious challenge: if analysis can never capture duration, how can we verify that intuition actually does? Bergson's answer is that intuition is not mystical revelation but disciplined attention—the effort to coincide with one's own experience before conceptualising it. The results are communicable (as his own writings demonstrate), even if the mode of access is not third-person replicable. This places Bergson's method closer to [contemplative epistemology](/concepts/contemplative-epistemology/) than to irrationalism: trained attention revealing features of experience that untrained attention overlooks.
 
 ## Duration and Free Will
 
@@ -110,7 +114,7 @@ Bergson's philosophy, eclipsed for decades by analytic philosophy and phenomenol
 
 **Process ontology.** The growing interest in process metaphysics—partly through Whitehead, partly through developments in physics—has rehabilitated Bergson's core claim that becoming is more fundamental than being.
 
-**Contemplative corroboration.** Meditation traditions report systematic variation in temporal phenomenology that resists reductive explanation. The "frozen present" of deep concentration, the accelerated arising-passing of vipassana insight—these phenomenological data align with Bergson's claim that duration has internal structure accessible to trained attention.
+**Contemplative corroboration.** [Contemplative traditions](/topics/contemplative-evidence-for-consciousness-theories/) report systematic variation in temporal phenomenology. In Theravada vipassana, practitioners describe accelerated arising-passing of mental events during insight stages; in deep concentration (*jhāna*), temporal flow appears to slow or suspend entirely. These [reproducible phenomenological observations](/concepts/contemplative-reliability/) align with Bergson's claim that duration has internal structure accessible to trained attention, and they resist purely neural explanation since the same brain can produce radically different temporal experiences depending on attentional stance.
 
 ## Relation to Site Perspective
 
@@ -120,7 +124,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Bergson's durée is inherently creative—each moment produces genuine novelty. This creativity is what the Map means by consciousness exercising causal power. Bergson's framework makes such causation intelligible: the agent acts from the depth of accumulated experience, not as a mysterious force intervening from outside the natural order.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Bergson's duration presupposes temporal identity—*this* consciousness carrying *this* past into *this* moment. The interpenetration of states requires a single temporal thread. Many-worlds branching would shatter durée into fragments, each carrying a different past, none constituting the indivisible flow Bergson describes.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Bergson's duration presupposes temporal identity—*this* consciousness carrying *this* past into *this* moment. While each branch in a many-worlds scenario would contain its own continuous experience, the branching itself undermines what makes durée ontologically significant. Interpenetration means the whole past permeates each present moment; but if the past itself branches into incompatible histories, no single durée carries the full weight of what was lived. The unity of temporal identity—the fact that *this* accumulated past uniquely shapes *this* present—loses its ontological privilege when multiplied across branches.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Bergson exemplifies this tenet. His framework is more complex than the mechanistic alternative—but the apparent simplicity of mechanism comes from ignoring qualitative experience. Spatialized time seems simpler than durée only because it leaves out what matters most: what time is actually like.
 

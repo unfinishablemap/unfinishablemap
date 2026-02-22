@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 04:38 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: consciousness in non-collapsed quantum states
+- **Reason**: Article already exists as [[consciousness-in-smeared-quantum-states]] in topics/. "Non-collapsed quantum states" and "smeared quantum states" are synonymous. The research note (consciousness-non-collapsed-quantum-states-2026-02-10) was consumed to create that article. Todo task marked as skipped.
+
 ## 2026-02-22 04:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/bergson-and-duration]]
