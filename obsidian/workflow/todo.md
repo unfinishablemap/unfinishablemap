@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Write article on voluntary attention control mechanisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Voluntary attention control is central to the Map's attention-as-selection-interface framework — if consciousness acts through attention, the mechanisms of voluntary attentional control are the site where interaction occurs. Connects to attention-as-selection-interface.md, structure-of-attention.md. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P3: Deep review the-strong-emergence-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -239,6 +233,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on voluntary attention control mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Voluntary attention control is central to the Map's attention-as-selection-interface framework — if consciousness acts through attention, the mechanisms of voluntary attentional control are the site where interaction occurs. Connects to attention-as-selection-interface.md, structure-of-attention.md. Target section: concepts/.
+- **Output**: voluntary attention control mechanisms
 
 ### ✓ 2026-02-22: Review llm-consciousness.md considering Hoel's framework article
 - **Type**: cross-review

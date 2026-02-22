@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 16:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Voluntary Attention Control Mechanisms
+- **Output**: [[concepts/voluntary-attention-control-mechanisms]]
+- **Word count**: 1531
+- **Based on research**: yes — [[voluntary-attention-control-mechanisms-2026-01-17]]
+
 ## 2026-02-22 16:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemology-of-convergence-arguments]]
