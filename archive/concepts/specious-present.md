@@ -11,14 +11,14 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
-  - "[[duration]]"
+  - "Duration"
   - "[[philosophy-of-time]]"
   - "[[phenomenology]]"
   - "[[neurophenomenology]]"
   - "[[collapse-and-time]]"
   - "[[quantum-consciousness]]"
   - "[[binding-problem]]"
-  - "[[psychophysical-coupling]]"
+  - "Psychophysical Coupling"
   - "[[illusionism]]"
   - "[[witness-consciousness]]"
   - "[[introspection]]"
@@ -155,7 +155,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns parsimony is 
 
 ### Temporal Consciousness
 - [[temporal-consciousness]] — Broader treatment of time in consciousness
-- [[duration]] — Bergson's concept of lived time
+- Duration — Bergson's concept of lived time
 - [[philosophy-of-time]] — A-theory, B-theory, and the Map's position
 
 ### Methods and Mechanisms
@@ -172,7 +172,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns parsimony is 
 
 ### Binding and Structure
 - [[binding-problem]] — Feature binding and consciousness
-- [[psychophysical-coupling]] — Bandwidth constraints on consciousness-matter interaction
+- Psychophysical Coupling — Bandwidth constraints on consciousness-matter interaction
 - [[haecceity]] — Why *this* present moment is irreducible
 
 ### Challenges

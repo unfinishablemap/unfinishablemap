@@ -29,7 +29,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenology-of-flow-states]]"
-  - "[[phenomenology-of-cognitive-automatisation]]"
+  - "Phenomenology Of Cognitive Automatisation"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
@@ -115,7 +115,7 @@ The distinction becomes clear in practice. A simple syllogism (two premises, one
 
 [[phenomenology-of-flow-states|Flow]] represents the opposite end of a spectrum. Where cognitive load is experienced as thickening and saturation, flow is experienced as lightness and transparency. Where load involves effortful maintenance, flow involves effortless engagement.
 
-The contrast is illuminating. Flow occurs when skill matches challenge—when the cognitive demands are well within capacity, not because the task is easy but because expertise has prepared the relevant representations so thoroughly that they require minimal maintenance. The [[phenomenology-of-cognitive-automatisation|phenomenology of cognitive automatisation]] describes this progression: as skills become automatic, consciousness withdraws from the details, freeing capacity for higher-level engagement. Cognitive load becomes punishing when the demands exceed what skill can streamline. Flow and overload are thus not merely different intensities of the same thing but qualitatively different modes of conscious engagement.
+The contrast is illuminating. Flow occurs when skill matches challenge—when the cognitive demands are well within capacity, not because the task is easy but because expertise has prepared the relevant representations so thoroughly that they require minimal maintenance. The phenomenology of cognitive automatisation describes this progression: as skills become automatic, consciousness withdraws from the details, freeing capacity for higher-level engagement. Cognitive load becomes punishing when the demands exceed what skill can streamline. Flow and overload are thus not merely different intensities of the same thing but qualitatively different modes of conscious engagement.
 
 ### Versus Fatigue
 
@@ -149,7 +149,7 @@ The claim that cognitive load phenomenology is irreducible and informative would
 
 - [[phenomenology-of-intellectual-effort]] — The effort of reasoning itself, complementing the maintenance effort explored here
 - [[phenomenology-of-flow-states]] — The opposite experiential pole: effortless engagement at peak performance
-- [[phenomenology-of-cognitive-automatisation]] — How expertise transforms effortful cognition into automatic processing
+- Phenomenology Of Cognitive Automatisation — How expertise transforms effortful cognition into automatic processing
 - [[working-memory]] — The cognitive architecture that cognitive load phenomenology reveals from inside
 - [[cognitive-phenomenology]] — Whether thinking has phenomenal character independent of sensory accompaniments
 - [[mental-effort]] — Attentional effort and the quantum Zeno mechanism

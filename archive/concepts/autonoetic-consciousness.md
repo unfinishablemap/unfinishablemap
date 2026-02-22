@@ -22,7 +22,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[binding-problem]]"
   - "[[phenomenology]]"
-  - "[[specious-present]]"
+  - "Specious Present"
   - "[[working-memory]]"
   - "[[semantic-memory]]"
   - "[[cognitive-phenomenology]]"

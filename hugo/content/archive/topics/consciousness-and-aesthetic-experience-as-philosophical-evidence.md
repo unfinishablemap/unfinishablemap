@@ -38,7 +38,7 @@ related_articles:
 - '[[knowledge-argument]]'
 - '[[philosophical-zombies]]'
 - '[[consciousness-and-aesthetic-creation]]'
-- '[[consciousness-and-normative-authority]]'
+- Consciousness And Normative Authority
 - '[[emotion-as-evidence-for-dualism]]'
 - '[[consciousness-and-aesthetic-value]]'
 superseded_by: /topics/aesthetic-dimension-of-consciousness/
@@ -76,7 +76,7 @@ This creates what might be called the *normative gap*, distinct from the standar
 
 One might object that the normative gap collapses into the standard explanatory gap: if we could explain why neural states produce qualia, we could explain why some qualia carry normative weight. But this assumes normativity is a *feature* of particular qualia rather than a *dimension* of phenomenal experience that crosscuts qualitative character. The same music can sound beautiful to one listener and merely pleasant to another—same qualitative experience of the tones, different normative pull. This suggests the normative dimension is not entailed by qualitative character alone and would require independent explanation.
 
-[Phenomenal value realism](/topics/phenomenal-value-realism/) takes this seriously: the normativity of aesthetic experience is intrinsic to the experience, not projected onto it. The [broader question of normative authority](/topics/consciousness-and-the-grounds-of-normative-authority/) in consciousness extends across moral, epistemic, and aesthetic domains. If this is right, aesthetic experience provides evidence for an ontological category—intrinsically normative phenomenal states—that physicalism cannot accommodate.
+[Phenomenal value realism](/topics/phenomenal-value-realism/) takes this seriously: the normativity of aesthetic experience is intrinsic to the experience, not projected onto it. The broader question of normative authority in consciousness extends across moral, epistemic, and aesthetic domains. If this is right, aesthetic experience provides evidence for an ontological category—intrinsically normative phenomenal states—that physicalism cannot accommodate.
 
 ## Why Aesthetic Evidence Exceeds Standard Qualia Arguments
 
@@ -108,7 +108,7 @@ This [temporal complexity](/concepts/temporal-consciousness/) means aesthetic qu
 
 The illusionist must explain why the *seeming* of beauty—the introspective representation that something is beautiful—has the specific character it does. If beauty is an illusion, something must generate and sustain the illusion. But what is it like to have an experience that *seems* beautiful? If there is something it is like, phenomenal properties have not been eliminated—they have been relocated to the seeming. If there is nothing it is like, then the illusionist denies that aesthetic experience has any character at all, which contradicts the phenomenological evidence that aesthetic experiences differ qualitatively from one another and from non-aesthetic experiences. (Illusionists like Dennett and Frankish respond that this argument is question-begging—it assumes "seeming" is itself phenomenal, which is precisely what they deny. The Map's [illusionism](/concepts/illusionism/) article examines this exchange in greater depth.)
 
-Aesthetic experience compounds this problem because it is *functionally creative*. Beauty inspires art, guides scientific intuition (see [mathematical creativity](/topics/consciousness-and-mathematical-cognition/)), motivates philosophical inquiry, and shapes life choices. Other systematic errors in self-representation—optical illusions, for instance—do not generate artistic movements, scientific breakthroughs, or philosophical systems. If beauty is merely a misrepresentation by introspective mechanisms, this asymmetry demands explanation. Why would *this particular* error drive some of humanity's highest achievements while other perceptual errors produce nothing comparable?
+Aesthetic experience compounds this problem because it is *functionally creative*. Beauty inspires art, guides scientific intuition (see mathematical creativity), motivates philosophical inquiry, and shapes life choices. Other systematic errors in self-representation—optical illusions, for instance—do not generate artistic movements, scientific breakthroughs, or philosophical systems. If beauty is merely a misrepresentation by introspective mechanisms, this asymmetry demands explanation. Why would *this particular* error drive some of humanity's highest achievements while other perceptual errors produce nothing comparable?
 
 ## Aesthetic Experience as Evidence for Bidirectional Interaction
 

@@ -33,7 +33,7 @@ related_articles:
 - '[[phenomenology-of-skill-and-the-lived-body]]'
 - '[[phenomenology-of-flow-states]]'
 - '[[choking-phenomenon-mental-causation]]'
-- '[[phenomenology-of-skill-transition]]'
+- Phenomenology Of Skill Transition
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 superseded_by: /topics/consciousness-and-skilled-performance/
@@ -85,7 +85,7 @@ This architectural role is distinctive. Consciousness does not merely trigger pr
 
 ## The Return Problem
 
-The paradox deepens when mastery must be revised. A tennis player who has achieved effortless topspin needs to restructure their stroke. The [skill transition](/topics/consciousness-and-skilled-performance/) requires consciousness to re-enter territory it had vacated—dismantling the automaticity it built and rebuilding from a new foundation.
+The paradox deepens when mastery must be revised. A tennis player who has achieved effortless topspin needs to restructure their stroke. The skill transition requires consciousness to re-enter territory it had vacated—dismantling the automaticity it built and rebuilding from a new foundation.
 
 This return is painful. The expert temporarily loses fluency, experiencing interference between old and new patterns. Performance degrades. The phenomenology shifts from effortless flow back to effortful concentration. Consciousness resumes its architectural role, and the cost is felt immediately.
 
@@ -118,7 +118,7 @@ The paradox of effortless mastery aligns with the Map's tenets in illuminating w
 - [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/) — The full phenomenological arc from novice to expert
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — What effortless expert performance feels like from inside
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness re-engages with automated skills and disrupts them
-- [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/) — The painful return of consciousness during skill restructuring
+- Phenomenology Of Skill Transition — The painful return of consciousness during skill restructuring
 - [interface-friction](/concepts/interface-friction/) — The resistance at the mind-brain interface that effort tracks
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — What conscious effort feels like and why it matters
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The levels of consciousness that map onto the three phases of skill acquisition

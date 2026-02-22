@@ -14,7 +14,7 @@ concepts:
 - '[[brain-interface-boundary]]'
 - '[[decoherence]]'
 - '[[coupling-modes]]'
-- '[[psychophysical-coupling]]'
+- Psychophysical Coupling
 - '[[motor-selection]]'
 - '[[mental-effort]]'
 created: 2026-02-20

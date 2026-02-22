@@ -13,8 +13,8 @@ concepts:
 - '[[working-memory]]'
 - '[[binding-problem]]'
 - '[[attention-as-interface]]'
-- '[[autonoetic-consciousness]]'
-- '[[neural-binding-mechanisms]]'
+- Autonoetic Consciousness
+- Neural Binding Mechanisms
 created: 2026-02-09
 date: &id001 2026-02-09
 description: Memory consolidation during sleep proceeds without consciousness, revealing
@@ -115,7 +115,7 @@ Memory consolidation during sleep speaks directly to the Map's [tenets](/tenets/
 - [binding-problem](/concepts/binding-problem/) — The unity of experience and its neural substrates
 - [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) — Sleep-dependent insight and creative problem-solving
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that consciousness engages with the brain through attentional selection
-- [autonoetic-consciousness](/concepts/episodic-memory/) — The self-aware remembering that consolidation serves but does not involve
+- Autonoetic Consciousness — The self-aware remembering that consolidation serves but does not involve
 - [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/) — Variable interface engagement demonstrated within sleep
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — The temporal ordering that disappears during consolidation
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Where consciousness goes during deep sleep

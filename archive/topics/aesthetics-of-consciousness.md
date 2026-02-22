@@ -20,11 +20,11 @@ concepts:
   - "[[topics/phenomenal-value-realism]]"
   - "[[introspection]]"
   - "[[intentionality]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
 related_articles:
   - "[[tenets]]"
   - "[[aesthetic-dimension-of-consciousness]]"
-  - "[[consciousness-and-aesthetic-experience-as-philosophical-evidence]]"
+  - "Consciousness And Aesthetic Experience As Philosophical Evidence"
   - "[[consciousness-and-aesthetic-creation]]"
   - "[[aesthetic-void]]"
   - "[[phenomenology-of-moral-experience]]"
@@ -37,7 +37,7 @@ last_curated:
 
 Beauty is beautiful *for* someone. A sunset over an empty planet—unseen, unexperienced—has wavelengths and atmospheric scattering but no beauty. Beauty arrives only with a subject capable of experiencing it. This is not a claim about taste or cultural construction. It is a structural observation: aesthetic value is constitutively subject-dependent. Understanding what this for-ness requires reveals features of consciousness that standard [[qualia]] arguments, focused on *what* experience is like, tend to overlook.
 
-The Unfinishable Map has explored the [[aesthetic-dimension-of-consciousness|pervasiveness of aesthetic quality in experience]], the [[consciousness-and-aesthetic-experience-as-philosophical-evidence|evidential force of beauty for dualism]], and the [[aesthetic-void|cognitive limits beauty reveals]]. This article addresses a prior question: what must consciousness *be* such that aesthetic value is possible at all? The answer points toward structural features—receptive openness, evaluative integration, and temporal depth—that resist physical reduction not because they are mysterious but because they are constitutively first-personal.
+The Unfinishable Map has explored the [[aesthetic-dimension-of-consciousness|pervasiveness of aesthetic quality in experience]], the evidential force of beauty for dualism, and the [[aesthetic-void|cognitive limits beauty reveals]]. This article addresses a prior question: what must consciousness *be* such that aesthetic value is possible at all? The answer points toward structural features—receptive openness, evaluative integration, and temporal depth—that resist physical reduction not because they are mysterious but because they are constitutively first-personal.
 
 ## The For-Ness Problem
 
@@ -53,7 +53,7 @@ For beauty to be beautiful *for* a subject, several conditions must hold simulta
 
 **Receptive openness.** The subject must be capable of taking in the object without immediately subsuming it under practical categories. Schopenhauer identified this as "will-less perception"—attention freed from the question *what is this good for?* and able to dwell on *what is this?* Aesthetic experience requires a mode of consciousness that lets the object show itself rather than merely serving as input for action.
 
-**Evaluative integration.** The subject must unify perceptual features into a whole that carries evaluative character. A face is beautiful as a gestalt, not as a list of features. A melody is beautiful as a temporal arc, not as a series of frequencies. This integration requires [[phenomenal-unity]]—the binding of diverse elements into a single field of experience where relations between elements can carry aesthetic weight. Without unity, there is no gestalt; without gestalt, no beauty.
+**Evaluative integration.** The subject must unify perceptual features into a whole that carries evaluative character. A face is beautiful as a gestalt, not as a list of features. A melody is beautiful as a temporal arc, not as a series of frequencies. This integration requires Phenomenal Unity—the binding of diverse elements into a single field of experience where relations between elements can carry aesthetic weight. Without unity, there is no gestalt; without gestalt, no beauty.
 
 **Temporal depth.** Beauty unfolds. Even a painting—apparently atemporal—requires durational encounter. The eye moves, attention shifts, elements emerge in sequence, and the aesthetic character builds through this temporal unfolding. Music makes the point explicitly: beauty in a sonata requires holding what came before in felt relation to what is happening now. A consciousness without temporal depth—processing each moment in isolation—could not experience beauty in any form that involves structure over time.
 
@@ -116,12 +116,12 @@ The for-ness of aesthetic value connects to the Map's [[tenets|foundational comm
 ## Further Reading
 
 - [[aesthetic-dimension-of-consciousness]] — Beauty pervading experience and resisting physical reduction
-- [[consciousness-and-aesthetic-experience-as-philosophical-evidence]] — Aesthetic experience as evidence for dualism
+- Consciousness And Aesthetic Experience As Philosophical Evidence — Aesthetic experience as evidence for dualism
 - [[consciousness-and-aesthetic-creation]] — Making art as evidence for bidirectional interaction
 - [[aesthetic-void]] — Where articulation fails at beauty and sublimity
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to experience
 - [[phenomenology-of-moral-experience]] — Parallel analysis for moral value
-- [[phenomenal-unity]] — The binding problem and aesthetic wholes
+- Phenomenal Unity — The binding problem and aesthetic wholes
 
 ## References
 

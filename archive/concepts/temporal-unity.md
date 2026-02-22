@@ -14,9 +14,9 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[stapp-quantum-mind]]"
   - "[[temporal-consciousness]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[binding-problem]]"
-  - "[[autonoetic-consciousness]]"
+  - "Autonoetic Consciousness"
   - "[[personal-identity]]"
   - "[[process-philosophy]]"
   - "[[collapse-and-time]]"
@@ -61,7 +61,7 @@ The Map's content addresses several phenomena in the neighbourhood of temporal u
 
 **[[binding-problem|The binding problem]]** typically concerns spatial or feature binding: how colour and shape unite at a moment. Temporal unity is binding's temporal counterpart—how the note just heard and the note now sounding unite into a phrase. The mechanisms may differ: gamma synchrony addresses spatial binding, while retention-protention structure addresses temporal binding.
 
-**Experiential continuity** at longer timescales extends beyond the specious present. The Map's treatment of [[consciousness-and-temporal-integration|temporal integration]] distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the [[autonoetic-consciousness|temporal self]] spanning a lifetime). Temporal unity in its strict sense concerns micro- and meso-integration. Macro-integration involves additional capacities—episodic memory, narrative identity—that go beyond temporal unity proper.
+**Experiential continuity** at longer timescales extends beyond the specious present. The Map's treatment of [[consciousness-and-temporal-integration|temporal integration]] distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the temporal self spanning a lifetime). Temporal unity in its strict sense concerns micro- and meso-integration. Macro-integration involves additional capacities—episodic memory, narrative identity—that go beyond temporal unity proper.
 
 ## Why Temporal Unity Is Philosophically Significant
 
@@ -111,7 +111,7 @@ These dissociations support the view that temporal unity is a distinct phenomena
 - [[binding-problem]] — Spatial/feature binding as temporal unity's counterpart
 - [[collapse-and-time]] — How consciousness may participate in constituting time's arrow
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno model of consciousness–brain interaction
-- [[autonoetic-consciousness]] — Mental time travel and the temporal self
+- Autonoetic Consciousness — Mental time travel and the temporal self
 - [[phenomenology-of-choice]] — How temporal unity grounds deliberation and choosing
 - [[process-philosophy]] — Whitehead's framework where experiential inheritance grounds continuity
 - [[illusionism]] — The challenge that temporal flow is constructed narrative, not genuine property

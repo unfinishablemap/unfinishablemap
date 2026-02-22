@@ -37,11 +37,11 @@ related_articles:
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[contemplative-training-and-phenomenal-access]]'
+- Contemplative Training And Phenomenal Access
 - '[[phenomenology-of-returning-attention]]'
 - '[[phenomenology-of-conceptual-change]]'
 - '[[phenomenology-of-belief-revision]]'
-- '[[paradox-of-effortless-mastery]]'
+- Paradox Of Effortless Mastery
 superseded_by: /topics/consciousness-and-skilled-performance/
 title: The Phenomenology of Skill Transition
 topics:
@@ -120,11 +120,11 @@ The structure of skill transition—resistance, rupture, reorganisation—parall
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [interface-friction](/concepts/interface-friction/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
-- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
+- Contemplative Training And Phenomenal Access
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
-- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
+- Paradox Of Effortless Mastery
 
 ## References
 

@@ -36,7 +36,7 @@ superseded_by: /topics/the-strong-emergence-of-consciousness/
 title: Consciousness and Emergence
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[emergence-and-strong-emergence]]'
+- Emergence And Strong Emergence
 ---
 
 Every position on the nature of consciousness is also a position on emergence. The type of emergence you accept—weak, strong, or denied entirely—constrains what consciousness can be, whether science can ever explain it, and whether your choices genuinely matter. These constraints are rarely made explicit. Philosophers argue about consciousness as if their emergence commitments were neutral background assumptions. They are not. The Unfinishable Map holds that consciousness is strongly emergent, and this article traces what that commitment entails—and what the alternatives would require giving up.
@@ -127,7 +127,7 @@ The Map treats the gap as ontological. The [hard problem](/topics/hard-problem-o
 
 ## Further Reading
 
-- [emergence-and-strong-emergence](/topics/the-strong-emergence-of-consciousness/) — Why consciousness forces acceptance of strong emergence
+- Emergence And Strong Emergence — Why consciousness forces acceptance of strong emergence
 - [emergence](/concepts/emergence/) — The technical concept: weak vs. strong emergence, Kim's argument
 - [emergence-void](/voids/emergence-void/) — The cognitive limit: why no mind can fully grasp how arrangement produces novelty
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals

@@ -12,7 +12,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[reductionism]]'
 - '[[phenomenology]]'
-- '[[phenomenal-unity]]'
+- Phenomenal Unity
 - '[[explanatory-gap]]'
 - '[[emotional-consciousness]]'
 - '[[temporal-consciousness]]'

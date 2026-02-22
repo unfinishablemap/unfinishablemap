@@ -31,7 +31,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[mental-effort]]"
   - "[[stapp-quantum-mind]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[phenomenal-consciousness]]"
   - "[[binding-problem]]"
 related_articles:
@@ -208,7 +208,7 @@ This proposal is highly speculative. If consciousness biases quantum outcomes, p
 
 ### 5. Unity as Sustained Entanglement {#unity}
 
-**Phenomenal property**: [[phenomenal-unity|phenomenal unity]]—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement.
+**Phenomenal property**: phenomenal unity—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement.
 
 Kerskens and Pérez (2022) reported possible entanglement signatures in human brain activity using MRI, with entanglement markers correlating with conscious state—though this requires replication. If phenomenal unity requires quantum entanglement, consciousness might actively sustain entanglement against decoherence.
 
@@ -337,7 +337,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[psychophysical-laws]] — Chalmers' foundational framework
 - [[concepts/consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
 - [[quantum-consciousness]] — Major theories of quantum-consciousness interface
-- [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
+- Attention Interface Mechanisms — Candidate neural sites, timing constraints, and testable predictions
 - [[mental-effort]] — The phenomenology Stapp's mechanism requires
 - [[attention]] — The attention-consciousness relationship
 - [[attention-consciousness-dissociation]] — Evidence that attention and consciousness are separable processes

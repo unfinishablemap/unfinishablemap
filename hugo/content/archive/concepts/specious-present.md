@@ -9,14 +9,14 @@ archived_date: 2026-02-15 04:00:00+00:00
 author: null
 concepts:
 - '[[temporal-consciousness]]'
-- '[[duration]]'
+- Duration
 - '[[philosophy-of-time]]'
 - '[[phenomenology]]'
 - '[[neurophenomenology]]'
 - '[[collapse-and-time]]'
 - '[[quantum-consciousness]]'
 - '[[binding-problem]]'
-- '[[psychophysical-coupling]]'
+- Psychophysical Coupling
 - '[[illusionism]]'
 - '[[witness-consciousness]]'
 - '[[introspection]]'
@@ -158,7 +158,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns parsimony is 
 
 ### Temporal Consciousness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
-- [duration](/concepts/temporal-consciousness/) — Bergson's concept of lived time
+- Duration — Bergson's concept of lived time
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's position
 
 ### Methods and Mechanisms
@@ -175,7 +175,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns parsimony is 
 
 ### Binding and Structure
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — Bandwidth constraints on consciousness-matter interaction
+- Psychophysical Coupling — Bandwidth constraints on consciousness-matter interaction
 - [haecceity](/concepts/haecceity/) — Why *this* present moment is irreducible
 
 ### Challenges

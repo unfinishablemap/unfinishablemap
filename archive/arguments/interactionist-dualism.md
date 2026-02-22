@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
-  - "[[arguments-for-dualism]]"
+  - "Arguments For Dualism"
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
   - "[[qualia]]"
@@ -217,7 +217,7 @@ The arguments directly support the site's foundational [[tenets]]:
 
 ## Further Reading
 
-- [[arguments-for-dualism]] — Comprehensive concept treatment
+- Arguments For Dualism — Comprehensive concept treatment
 - [[concepts/materialism]] — The case against the main alternative
 - [[interactionist-dualism]] — The position defended here
 - [[philosophical-zombies]] — The conceivability argument in detail

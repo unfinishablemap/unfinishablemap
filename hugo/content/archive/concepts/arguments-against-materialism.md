@@ -36,7 +36,7 @@ modified: *id001
 original_path: /concepts/arguments-against-materialism/
 related_articles:
 - '[[tenets]]'
-- '[[arguments-for-dualism]]'
+- Arguments For Dualism
 - '[[epistemological-limits-of-occams-razor]]'
 - '[[arguments-against-materialism-2026-01-06]]'
 superseded_by: /concepts/the-case-for-dualism/
@@ -230,7 +230,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 - [introspection](/concepts/introspection/) – Reliability of phenomenal reports
 - [decoherence](/concepts/decoherence/) – The quantum objection and its limits
 - [many-worlds](/concepts/many-worlds/) – Why the Map rejects MWI
-- [arguments-for-dualism](/concepts/the-case-for-dualism/) – Positive case for the alternative
+- Arguments For Dualism – Positive case for the alternative
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) – Why parsimony fails in the consciousness debate
 - [causal-closure](/concepts/causal-closure/) – The main objection to dualism and its limits
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) – The central challenge

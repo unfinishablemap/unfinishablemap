@@ -8,7 +8,7 @@ ai_modified: 2026-02-09T03:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[emergence-and-strong-emergence]]"
+  - "Emergence And Strong Emergence"
 concepts:
   - "[[emergence]]"
   - "[[causal-closure]]"
@@ -125,7 +125,7 @@ The Map treats the gap as ontological. The [[hard-problem-of-consciousness|hard 
 
 ## Further Reading
 
-- [[emergence-and-strong-emergence]] — Why consciousness forces acceptance of strong emergence
+- Emergence And Strong Emergence — Why consciousness forces acceptance of strong emergence
 - [[emergence]] — The technical concept: weak vs. strong emergence, Kim's argument
 - [[emergence-void]] — The cognitive limit: why no mind can fully grasp how arrangement produces novelty
 - [[evolution-of-consciousness]] — When consciousness emerged and what this reveals

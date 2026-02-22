@@ -16,7 +16,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[interactionist-dualism]]'
 - '[[qualia]]'
-- '[[phenomenal-unity]]'
+- Phenomenal Unity
 created: 2026-02-13
 date: &id001 2026-02-13
 description: Why consciousness alone survives as a genuine case of strong emergence,
@@ -40,7 +40,7 @@ superseded_by: /topics/the-strong-emergence-of-consciousness/
 title: Consciousness and Strong Emergence
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-the-emergence-debate]]'
+- Consciousness And The Emergence Debate
 ---
 
 Every candidate for strong emergence other than consciousness has been defeated by reductive science. Chemical bonding, life, phase transitions — each seemed irreducible until the relevant microphysics matured. Consciousness alone has resisted. The Unfinishable Map argues this is not a temporary gap but a diagnostic: consciousness is strongly emergent because it possesses features that no physical description could capture even in principle. This article examines why the reductive track record, rather than undermining the case for strong emergence, actually sharpens it by isolating consciousness as the one phenomenon where reduction consistently fails.
@@ -133,7 +133,7 @@ Affirming strong emergence is not the same as explaining it. The Map proposes *w
 
 ## Further Reading
 
-- [consciousness-and-the-emergence-debate](/topics/the-strong-emergence-of-consciousness/) — The broader debate: weak emergence, strong emergence, and panpsychism compared
+- Consciousness And The Emergence Debate — The broader debate: weak emergence, strong emergence, and panpsychism compared
 - [emergence](/concepts/emergence/) — The concept defined, including Kim's exclusion argument and the Map's response
 - [emergence-void](/voids/emergence-void/) — The cognitive limit: why no mind can grasp how arrangement produces novelty
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The core difficulty that motivates strong emergence

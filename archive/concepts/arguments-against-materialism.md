@@ -32,7 +32,7 @@ concepts:
   - "[[haecceity]]"
 related_articles:
   - "[[tenets]]"
-  - "[[arguments-for-dualism]]"
+  - "Arguments For Dualism"
   - "[[epistemological-limits-of-occams-razor]]"
   - "[[arguments-against-materialism-2026-01-06]]"
 ai_contribution: 100
@@ -228,7 +228,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 - [[introspection]] – Reliability of phenomenal reports
 - [[decoherence]] – The quantum objection and its limits
 - [[concepts/many-worlds]] – Why the Map rejects MWI
-- [[arguments-for-dualism]] – Positive case for the alternative
+- Arguments For Dualism – Positive case for the alternative
 - [[epistemological-limits-of-occams-razor]] – Why parsimony fails in the consciousness debate
 - [[causal-closure]] – The main objection to dualism and its limits
 - [[hard-problem-of-consciousness]] – The central challenge

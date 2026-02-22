@@ -11,17 +11,17 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[unity-of-consciousness]]"
   - "[[combination-problem]]"
-  - "[[neural-binding-mechanisms]]"
+  - "Neural Binding Mechanisms"
   - "[[quantum-consciousness]]"
   - "[[integrated-information-theory]]"
   - "[[global-workspace-theory]]"
   - "[[explanatory-gap]]"
   - "[[emergence]]"
   - "[[varieties-of-unity]]"
-  - "[[multimodal-binding]]"
+  - "Multimodal Binding"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-binding-and-phenomenal-unity]]"
@@ -38,7 +38,7 @@ archive_reason: "Content subsumed by binding-problem.md which provides comprehen
 original_path: "/topics/phenomenal-unity-and-the-binding-problem/"
 ---
 
-When you see a red apple while hearing music and feeling the chair beneath you, these are not three separate experiences—they are aspects of one unified awareness. Yet the brain processes color in one region, sound in another, and touch in a third. The [[binding-problem|binding problem]] asks how these distributed processes combine into unified experience. [[phenomenal-unity|Phenomenal unity]] names what they combine into: the seamless wholeness of consciousness at each moment. Together, these concepts frame one of the deepest challenges to understanding mind. Classical neural mechanisms explain how the brain coordinates separate streams (the computational problem). They do not explain why coordination produces unified *experience* rather than parallel processing with no one home (the phenomenal problem). This gap between neural coordination and experiential unity points toward the irreducibility of consciousness.
+When you see a red apple while hearing music and feeling the chair beneath you, these are not three separate experiences—they are aspects of one unified awareness. Yet the brain processes color in one region, sound in another, and touch in a third. The [[binding-problem|binding problem]] asks how these distributed processes combine into unified experience. Phenomenal unity names what they combine into: the seamless wholeness of consciousness at each moment. Together, these concepts frame one of the deepest challenges to understanding mind. Classical neural mechanisms explain how the brain coordinates separate streams (the computational problem). They do not explain why coordination produces unified *experience* rather than parallel processing with no one home (the phenomenal problem). This gap between neural coordination and experiential unity points toward the irreducibility of consciousness.
 
 ## The Two Binding Problems
 
@@ -52,7 +52,7 @@ BP2 is the [[hard-problem-of-consciousness|hard problem]] applied to unity. Solv
 
 ## Why Classical Mechanisms Fall Short
 
-The major neural theories of binding share a structural limitation: they explain how separate things relate without explaining how separate things become one thing. See [[neural-binding-mechanisms]] for detailed analysis.
+The major neural theories of binding share a structural limitation: they explain how separate things relate without explaining how separate things become one thing. See Neural Binding Mechanisms for detailed analysis.
 
 ### Binding by Synchrony
 
@@ -94,7 +94,7 @@ This dissociability suggests "phenomenal unity" names several related phenomena 
 
 ## Cross-Modal Binding as Paradigm Case
 
-[[multimodal-binding|Multimodal binding]]—how consciousness integrates vision, hearing, touch, and other modalities—reveals the explanatory gap most starkly. Different modalities:
+Multimodal binding—how consciousness integrates vision, hearing, touch, and other modalities—reveals the explanatory gap most starkly. Different modalities:
 
 - Process information in spatially separate cortical regions
 - Operate at different speeds (vision ~50ms, audition ~10ms)
@@ -147,13 +147,13 @@ This supports [[tenets#^dualism|dualism]]—not substance dualism necessarily, b
 ## Further Reading
 
 - [[binding-problem]] — Comprehensive treatment of BP1 and BP2
-- [[phenomenal-unity]] — Why experience comes as integrated wholes
+- Phenomenal Unity — Why experience comes as integrated wholes
 - [[why-phenomenal-unity-resists-explanation]] — The structural mismatch argument
 - [[quantum-binding-and-phenomenal-unity]] — The quantum holism hypothesis
 - [[varieties-of-unity]] — Synchronic, diachronic, and subject unity
-- [[multimodal-binding]] — Cross-modal integration as paradigm case
+- Multimodal Binding — Cross-modal integration as paradigm case
 - [[combination-problem]] — Panpsychism's parallel challenge
-- [[neural-binding-mechanisms]] — Why classical mechanisms fail at BP2
+- Neural Binding Mechanisms — Why classical mechanisms fail at BP2
 - [[explanatory-gap]] — The conceptual gulf between physical and phenomenal
 - [[split-brain-consciousness]] — Natural experiments on unity
 - [[hard-problem-of-consciousness]] — Why experience exists at all

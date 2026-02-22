@@ -37,7 +37,7 @@ related_articles:
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[structure-of-attention]]'
 - '[[emotional-consciousness]]'
-- '[[phenomenology-of-surprise-and-prediction-error]]'
+- Phenomenology Of Surprise And Prediction Error
 - '[[choking-phenomenon-mental-causation]]'
 superseded_by: /topics/surprise-prediction-error-and-consciousness/
 title: Consciousness and Surprise
@@ -146,7 +146,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 ## Further Reading
 
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention and the forward-directed structure of experience
-- [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/) — The prediction error spectrum and its phenomenological dimensions
+- Phenomenology Of Surprise And Prediction Error — The prediction error spectrum and its phenomenological dimensions
 - [predictive-processing](/concepts/predictive-processing/) — The computational framework for prediction and error
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive function
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness doesn't cause anything

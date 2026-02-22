@@ -8,7 +8,7 @@ ai_modified: 2026-02-09T16:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[emergence-and-strong-emergence]]"
+  - "Emergence And Strong Emergence"
   - "[[consciousness-and-emergence]]"
 concepts:
   - "[[emergence]]"
@@ -103,7 +103,7 @@ The weak/strong boundary connects to the Map's tenets at multiple points.
 ## Further Reading
 
 - [[emergence]] — The technical concept: weak vs. strong emergence, Kim's argument
-- [[emergence-and-strong-emergence]] — Why consciousness forces acceptance of strong emergence
+- Emergence And Strong Emergence — Why consciousness forces acceptance of strong emergence
 - [[consciousness-and-emergence]] — How emergence type determines what consciousness can be
 - [[emergence-void]] — The cognitive limit surrounding how arrangement produces novelty
 - [[hard-problem-of-consciousness]] — The deepest instance of the emergence question

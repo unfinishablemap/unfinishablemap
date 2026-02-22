@@ -10,12 +10,12 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[interface-locality]]"
+  - "Interface Locality"
   - "[[filter-theory]]"
   - "[[quantum-consciousness]]"
   - "[[pairing-problem]]"
   - "[[attention]]"
-  - "[[neural-quantum-coherence]]"
+  - "Neural Quantum Coherence"
   - "[[illusionism]]"
   - "[[decoherence]]"
   - "[[introspection]]"
@@ -37,7 +37,7 @@ archive_reason: "Coalesced into Brain Interface Boundary"
 original_path: "/concepts/brain-specialness/"
 ---
 
-If consciousness interfaces with the physical world through brains, what makes brains special? Why neural systems and not rocks, thermostats, or random number generators? The [[interface-locality]] article explains why consciousness *doesn't* act on external systems; this article addresses the complementary question: what positive features make brains *suitable* interfaces in the first place?
+If consciousness interfaces with the physical world through brains, what makes brains special? Why neural systems and not rocks, thermostats, or random number generators? The Interface Locality article explains why consciousness *doesn't* act on external systems; this article addresses the complementary question: what positive features make brains *suitable* interfaces in the first place?
 
 This question has two parts. First, what features does a physical system need to serve as an interface for consciousness at all? Second, why do neural systems specifically have these features while most physical systems lack them?
 
@@ -51,7 +51,7 @@ The system must have components where quantum indeterminacies are functionally r
 
 Most physical systems are quantum-mechanical at their foundations but thermally stable at functional scales. A rock's behavior is determined by classical forces; quantum effects average out. The rock provides no "leverage point" where consciousness could influence outcomes without violating classical physics.
 
-Neural systems differ. The [[neural-quantum-coherence|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include:
+Neural systems differ. The evidence for quantum coherence in brain tissue is contested but growing. Proposed sites include:
 - **Microtubules**: Penrose and Hameroff's Orch OR model posits quantum superposition in tubulin proteins
 - **Ion channels**: Voltage-gated channels may be sensitive to quantum tunneling effects
 - **Synaptic transmission**: Vesicle release shows variability that may not be purely thermal noise
@@ -231,14 +231,14 @@ None of these has been demonstrated. Current evidence supports neural quantum ef
 
 Brain specialness has a principled explanation. Neural systems serve as consciousness interfaces because they meet five criteria: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. Most physical systems fail most criteria. Evolution selected for systems meeting these criteria because such systems enabled better behavioral control. The result is that brains—specifically—are suitable interfaces, while rocks, thermostats, and random number generators are not.
 
-This complements [[interface-locality]], which explains why consciousness *doesn't* act on external systems. Together, they answer the full question: consciousness acts on brains specifically because (a) brains meet the positive criteria for an interface (this article) and (b) external systems aren't integrated into the control loop (interface-locality).
+This complements Interface Locality, which explains why consciousness *doesn't* act on external systems. Together, they answer the full question: consciousness acts on brains specifically because (a) brains meet the positive criteria for an interface (this article) and (b) external systems aren't integrated into the control loop (interface-locality).
 
 ## Further Reading
 
-- [[interface-locality]] — Why consciousness doesn't act externally (the exclusion side)
+- Interface Locality — Why consciousness doesn't act externally (the exclusion side)
 - [[mind-matter-interface]] — How filter theory and quantum selection unify
 - [[pairing-problem]] — What pairs this mind with this body
-- [[neural-quantum-coherence]] — Evidence for quantum effects in brain tissue
+- Neural Quantum Coherence — Evidence for quantum effects in brain tissue
 - [[filter-theory]] — The transmission model of consciousness
 - [[quantum-consciousness]] — Quantum selection mechanisms
 - [[attention]] — How attention implements observation

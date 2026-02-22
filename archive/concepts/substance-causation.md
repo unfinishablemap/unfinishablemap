@@ -91,7 +91,7 @@ Substance causation shifts the dialectic. The question isn't whether physical *e
 
 The Map's quantum framework strengthens this response. At quantum indeterminacies, physics specifies probabilities but not outcomes—there's no sufficient physical cause because physics is genuinely incomplete there. Consciousness as substance exercises powers precisely at these openings. The exclusion argument fails because its key premise fails: physical events *don't* have sufficient physical causes at quantum measurement.
 
-This quantum proposal faces the [[decoherence]] objection: quantum coherence in warm brains supposedly decays too fast for conscious influence. The Map's response (detailed in [[quantum-decoherence-objection|quantum decoherence objection]]) involves the scale of quantum effects and the possibility that consciousness operates at timescales compatible with neural quantum processes.
+This quantum proposal faces the [[decoherence]] objection: quantum coherence in warm brains supposedly decays too fast for conscious influence. The Map's response (detailed in quantum decoherence objection) involves the scale of quantum effects and the possibility that consciousness operates at timescales compatible with neural quantum processes.
 
 ## Challenges to Substance Causation
 
@@ -115,7 +115,7 @@ The Map's response: consciousness doesn't randomly select but genuinely *chooses
 
 If consciousness is a non-physical substance, how does it connect to *this* particular body? Why does my consciousness affect my neurons rather than yours? This is the [[pairing-problem|pairing problem]].
 
-Substance causation by itself doesn't answer this. But combined with the Map's [[interface-locality|interface locality]] principle, it can: consciousness is spatially located where it causally interfaces with the brain. The pairing is spatial—consciousness affects the quantum systems it's positioned to "observe."
+Substance causation by itself doesn't answer this. But combined with the Map's interface locality principle, it can: consciousness is spatially located where it causally interfaces with the brain. The pairing is spatial—consciousness affects the quantum systems it's positioned to "observe."
 
 ## Historical Context
 
@@ -159,7 +159,7 @@ Substance causation provides the metaphysical foundation for the Map's position 
 - [[topics/free-will]] — The broader question
 - [[emergence]] — Related concept of novel causal powers
 - [[decoherence]] — The quantum challenge to consciousness-brain interaction
-- [[quantum-decoherence-objection]] — The Map's response to decoherence concerns
+- Quantum Decoherence Objection — The Map's response to decoherence concerns
 
 ## References
 

@@ -15,7 +15,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[quantum-consciousness]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[decoherence]]"
@@ -143,7 +143,7 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 ## Further Reading
 
 - [[binding-problem]] — The full binding problem including BP1 and BP2
-- [[phenomenal-unity]] — What binding mechanisms aim to explain
+- Phenomenal Unity — What binding mechanisms aim to explain
 - [[phenomenal-consciousness]] — The experiential character that binding must produce
 - [[quantum-binding-and-phenomenal-unity]] — Extended argument for quantum binding
 - [[concepts/quantum-neural-mechanisms-and-coherence]] — Detailed experimental support

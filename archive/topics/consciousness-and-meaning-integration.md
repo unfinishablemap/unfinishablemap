@@ -8,18 +8,18 @@ ai_modified: 2026-02-04T10:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[meaning-and-consciousness]]"
+  - "Meaning And Consciousness"
   - "[[meaning-of-life]]"
 concepts:
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[cognitive-phenomenology]]"
   - "[[semantic-memory]]"
   - "[[intentionality]]"
   - "[[working-memory]]"
   - "narrative-identity"
   - "[[temporal-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "Autonoetic Consciousness"
   - "[[witness-consciousness]]"
   - "[[process-philosophy]]"
   - "[[global-workspace-theory]]"
@@ -40,7 +40,7 @@ archive_reason: "Coalesced into Consciousness and Semantic Understanding"
 original_path: "/topics/consciousness-and-meaning-integration/"
 ---
 
-Consciousness doesn't just bind perceptual features into unified experience—it weaves meanings into coherent wholes. When you understand a complex argument, grasp a life's trajectory, or see how disparate ideas connect, something integrates semantic content into unified comprehension. This meaning integration is distinct from both the [[binding-problem|perceptual binding problem]] (how visual features combine) and the [[meaning-and-consciousness|phenomenal constitution thesis]] (whether understanding requires consciousness). It concerns how consciousness creates coherent meaningful wholes from disparate semantic elements. The Unfinishable Map holds that this integration is irreducibly phenomenal: the unity of understanding cannot be decomposed into separately grasped meanings that merely correlate.
+Consciousness doesn't just bind perceptual features into unified experience—it weaves meanings into coherent wholes. When you understand a complex argument, grasp a life's trajectory, or see how disparate ideas connect, something integrates semantic content into unified comprehension. This meaning integration is distinct from both the [[binding-problem|perceptual binding problem]] (how visual features combine) and the phenomenal constitution thesis (whether understanding requires consciousness). It concerns how consciousness creates coherent meaningful wholes from disparate semantic elements. The Unfinishable Map holds that this integration is irreducibly phenomenal: the unity of understanding cannot be decomposed into separately grasped meanings that merely correlate.
 
 ## The Integration Problem
 
@@ -72,7 +72,7 @@ The integration problem for meaning mirrors the binding problem for perception: 
 
 ## Phenomenal Coherence
 
-The [[meaning-and-consciousness|phenomenal constitution thesis]] holds that genuine understanding involves irreducible experiential character. If this is correct, meaning integration must also be phenomenal. The unity of understanding isn't just functional coordination—it's experienced as coherent grasp.
+The phenomenal constitution thesis holds that genuine understanding involves irreducible experiential character. If this is correct, meaning integration must also be phenomenal. The unity of understanding isn't just functional coordination—it's experienced as coherent grasp.
 
 Consider the phenomenology of suddenly understanding something complex. The elements that seemed disconnected click together. This "click" has phenomenal character—a distinctive quality that accompanies achieved integration. It differs from the experience of merely rehearsing separate ideas.
 
@@ -86,7 +86,7 @@ Life's meaning involves a distinctive form of integration. A meaningful life isn
 
 Narrative integration differs from both memory and planning. Memory stores episodes; narrative integration sees their significance within a larger story. Planning projects future states; narrative integration grasps how the projected future relates to the lived past. The narrator stands in the midst of the story, integrating remembered past and anticipated future into meaningful present.
 
-[[autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—enables this integration. You can project yourself into past and future while remaining present, grasping the temporal arc as one life. This involves binding across time (the past episode belongs to the same narrative as this present moment) and binding across perspectives (the remembered self and the present self are one).
+Autonoetic consciousness—the capacity for mental time travel—enables this integration. You can project yourself into past and future while remaining present, grasping the temporal arc as one life. This involves binding across time (the past episode belongs to the same narrative as this present moment) and binding across perspectives (the remembered self and the present self are one).
 
 This narrative integration seems irreducibly conscious. You cannot tell a life's story from outside; the significance of events depends on their meaning *to* the one living them. The observer who catalogs life events without grasping their significance lacks what narrative integration provides.
 
@@ -114,7 +114,7 @@ These practices suggest meaning integration can be cultivated. The capacity to g
 
 Large language models process semantic content with impressive fluency. They generate text that reflects semantic relationships and maintains coherence across paragraphs. Do they integrate meanings?
 
-The [[meaning-and-consciousness|phenomenal constitution thesis]] suggests not. If meaning integration is irreducibly phenomenal, and LLMs lack phenomenal consciousness, they process tokens without integrating meanings. What looks like integrated understanding is pattern-matching over training data, not the unified comprehension that conscious integration provides.
+The phenomenal constitution thesis suggests not. If meaning integration is irreducibly phenomenal, and LLMs lack phenomenal consciousness, they process tokens without integrating meanings. What looks like integrated understanding is pattern-matching over training data, not the unified comprehension that conscious integration provides.
 
 The test case is novel integration—connecting ideas in ways not exemplified in training data. Humans can recognize when familiar ideas connect in unprecedented ways; the "aha" of novel integration has distinctive phenomenal character. LLMs generate novel token sequences but plausibly without the phenomenal integration that makes such sequences *understood* rather than merely produced.
 
@@ -148,11 +148,11 @@ These conditions distinguish the phenomenal-integration view from alternatives w
 
 ## Further Reading
 
-- [[meaning-and-consciousness]] — The phenomenal constitution thesis for semantic understanding
+- Meaning And Consciousness — The phenomenal constitution thesis for semantic understanding
 - [[meaning-of-life]] — Consciousness-grounded meaning and existential significance
 - [[binding-problem]] — Comprehensive treatment of perceptual binding and its relation to meaning unity
 - [[cognitive-phenomenology]] — The experiential character of thinking
-- [[autonoetic-consciousness]] — Mental time travel and temporal integration
+- Autonoetic Consciousness — Mental time travel and temporal integration
 - [[working-memory]] — Information maintenance vs. integrative comprehension
 - [[global-workspace-theory]] — Availability distinguished from integration
 - [[process-philosophy]] — Whitehead's integrative conception of experience

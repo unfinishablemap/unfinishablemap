@@ -13,7 +13,7 @@ archive_reason: "Coalesced into The Strong Emergence of Consciousness"
 original_path: "/topics/consciousness-and-strong-emergence/"
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-the-emergence-debate]]"
+  - "Consciousness And The Emergence Debate"
 concepts:
   - "[[emergence]]"
   - "[[causal-closure]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
 related_articles:
   - "[[tenets]]"
   - "[[emergence-void]]"
@@ -131,7 +131,7 @@ Affirming strong emergence is not the same as explaining it. The Map proposes *w
 
 ## Further Reading
 
-- [[consciousness-and-the-emergence-debate]] — The broader debate: weak emergence, strong emergence, and panpsychism compared
+- Consciousness And The Emergence Debate — The broader debate: weak emergence, strong emergence, and panpsychism compared
 - [[emergence]] — The concept defined, including Kim's exclusion argument and the Map's response
 - [[emergence-void]] — The cognitive limit: why no mind can grasp how arrangement produces novelty
 - [[hard-problem-of-consciousness]] — The core difficulty that motivates strong emergence

@@ -13,7 +13,7 @@ concepts:
   - "[[consciousness-and-creativity]]"
   - "[[attention-as-interface]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
-  - "[[duration]]"
+  - "Duration"
   - "[[mental-causation]]"
   - "[[agent-causation]]"
   - "[[quantum-consciousness]]"
@@ -62,7 +62,7 @@ How might generation work mechanistically?
 
 **Possibility space expansion:** Husserl called imagination the "domain of possibility and realm of freedom." The mechanism may involve attention operating on representations decoupled from accuracy requirements. Where perception must track the actual world, imagination can represent the non-actual. The neural basis may be the Default Mode Network's capacity for "remote associative thinking"—connecting concepts that don't co-occur in direct experience.
 
-**Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for [[metarepresentation]]: representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
+**Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for Metarepresentation: representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
 
 Does this generation require consciousness, or could unconscious processes do the same work? The evidence from [[baseline-cognition]] suggests consciousness matters: great apes innovate within the "zone of latent solutions" (recombinations reachable without transcending current representations) but don't achieve transformational creativity. The difference tracks precisely those cognitive functions that require conscious access.
 
@@ -132,13 +132,13 @@ The mechanistic question sharpens the philosophical question: could all this wor
 
 **The dualist response:** Several features resist the computationalist reduction:
 
-1. **Transformational creativity:** Changing the rule-system requires representing the rules as objects of thought. This [[metarepresentation]] seems to require the kind of global integration that [[global-workspace-theory]] associates with consciousness. AI systems work within training distributions; humans change the conceptual space itself.
+1. **Transformational creativity:** Changing the rule-system requires representing the rules as objects of thought. This Metarepresentation seems to require the kind of global integration that [[global-workspace-theory]] associates with consciousness. AI systems work within training distributions; humans change the conceptual space itself.
 
 2. **The effort-outcome correlation:** Why does effortful attention correlate with creative outcomes if attention does no causal work? The correspondence between phenomenal effort and neural results (neuroplasticity, pattern stability) suggests the phenomenal state matters.
 
 3. **The bandwidth match:** Conscious processing's 10 bits/second matches the grain at which creative selection operates. If consciousness were epiphenomenal, why this precise correspondence?
 
-4. **Bergson's insight:** Each moment of [[duration|durée]] brings genuine novelty through memory's progressive integration. If lived time creates rather than merely rearranges, then consciousness has generative capacity that physical description cannot capture.
+4. **Bergson's insight:** Each moment of durée brings genuine novelty through memory's progressive integration. If lived time creates rather than merely rearranges, then consciousness has generative capacity that physical description cannot capture.
 
 None of these settles the question conclusively. But the Map's position is that creativity provides one of consciousness's clearest test cases. If anywhere, mental causation should be visible here.
 
@@ -182,12 +182,12 @@ Current evidence doesn't support any of these conditions.
 - [[creativity-and-novel-combination]] — How consciousness enables escaping the zone of latent solutions
 - [[attention-as-interface]] — Attention's role as the interface between consciousness and matter
 - [[concepts/consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
-- [[duration]] — Bergson's lived time as inherently creative
+- Duration — Bergson's lived time as inherently creative
 - [[agent-causation]] — Philosophical framework for mental causation including creative generation
 - [[mental-effort]] — The phenomenology of effort and its neural correlates
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR
 - [[baseline-cognition]] — What cognition achieves without consciousness
-- [[metarepresentation]] — The capacity to represent representations
+- Metarepresentation — The capacity to represent representations
 - [[creativity-void]] — Why the creative source remains phenomenologically hidden
 
 ## References

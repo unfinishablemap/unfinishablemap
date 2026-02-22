@@ -17,7 +17,7 @@ archived: true
 ## 2026-02-01 23:54 UTC - expand-topic
 - **Status**: Success
 - **Topic**: self-locating beliefs
-- **Output**: [[concepts/self-locating-beliefs]]
+- **Output**: Self Locating Beliefs
 - **Word count**: 1690
 - **Based on research**: no
 
@@ -34,7 +34,7 @@ archived: true
 
 ## 2026-02-01 23:44 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/quantum-measurement-and-definite-outcomes]]
+- **File**: Quantum Measurement And Definite Outcomes
 - **Word count**: 1601 → 1837 (+236)
 - **Critical issues addressed**: 1 (unfalsifiability response strengthened)
 - **Medium issues addressed**: 3 (causal closure qualified, MWI characterization clarified, collapse theories qualified)
@@ -46,7 +46,7 @@ archived: true
 ## 2026-02-01 23:39 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenological evidence methodology
-- **Output**: [[topics/phenomenological-evidence-methodology]]
+- **Output**: Phenomenological Evidence Methodology
 - **Word count**: 1425
 - **Based on research**: yes ([[phenomenology-first-person-methods-2026-01-14]], [[first-person-third-person-methodology-2026-01-23]])
 
@@ -55,7 +55,7 @@ archived: true
 ## 2026-02-01 23:35 UTC - expand-topic
 - **Status**: Success
 - **Topic**: consciousness and meaning integration
-- **Output**: [[topics/consciousness-and-meaning-integration]]
+- **Output**: Consciousness And Meaning Integration
 - **Word count**: 1942
 - **Based on research**: no (draws on existing meaning-of-life-theories-2026-01-08 research)
 
@@ -109,7 +109,7 @@ archived: true
 
 ## 2026-02-01 21:32 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/phenomenal-unity-and-the-binding-problem]]
+- **File**: Phenomenal Unity And The Binding Problem
 - **Word count**: 1741 → 1877 (+136)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3
@@ -121,7 +121,7 @@ archived: true
 ## 2026-02-01 21:27 UTC - expand-topic
 - **Status**: Success
 - **Topic**: quantum measurement and definite outcomes
-- **Output**: [[topics/quantum-measurement-and-definite-outcomes]]
+- **Output**: Quantum Measurement And Definite Outcomes
 - **Word count**: 1601
 - **Based on research**: yes ([[measurement-problem-quantum-mechanics-2026-01-14]], [[consciousness-measurement-problem-2026-01-16]], [[quantum-measurement-subjective-probability-2026-01-23]])
 
@@ -130,7 +130,7 @@ archived: true
 ## 2026-02-01 21:22 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenal unity and the binding problem
-- **Output**: [[topics/phenomenal-unity-and-the-binding-problem]]
+- **Output**: Phenomenal Unity And The Binding Problem
 - **Word count**: 1741
 - **Based on research**: yes ([[binding-problem-consciousness-2026-01-14]], [[phenomenal-binding-multimodal-integration-2026-01-23]])
 
@@ -138,9 +138,9 @@ archived: true
 
 ## 2026-02-01 21:10 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[archive/topics/philosophy-of-time-and-consciousness]], [[archive/topics/philosophy-of-temporal-experience]], [[archive/topics/time-perception-consciousness-theories]], [[archive/topics/phenomenology-of-temporal-agency]]
+- **Sources**: Philosophy Of Time And Consciousness, [[archive/topics/philosophy-of-temporal-experience]], [[archive/topics/time-perception-consciousness-theories]], [[archive/topics/phenomenology-of-temporal-agency]]
 - **Target**: [[topics/temporal-structure-of-consciousness]]
-- **Archived**: [[archive/topics/philosophy-of-time-and-consciousness]], [[archive/topics/philosophy-of-temporal-experience]], [[archive/topics/time-perception-consciousness-theories]], [[archive/topics/phenomenology-of-temporal-agency]]
+- **Archived**: Philosophy Of Time And Consciousness, [[archive/topics/philosophy-of-temporal-experience]], [[archive/topics/time-perception-consciousness-theories]], [[archive/topics/phenomenology-of-temporal-agency]]
 - **References to review**: 5 (integrated-information-theory, integrated-information-theory-critique, consciousness-time-perception-2026-01-14, optimistic-2026-01-30-evening, deep-review-2026-02-01-philosophy-of-time-and-consciousness)
 - **Word count**: ~4800 (unified) from ~8500 (4 articles combined)
 
@@ -363,7 +363,7 @@ archived: true
 ## 2026-02-01 19:07 UTC - expand-topic
 - **Status**: Success
 - **Topic**: semantic phenomenology
-- **Output**: [[concepts/semantic-phenomenology]]
+- **Output**: Semantic Phenomenology
 - **Word count**: 1481
 - **Based on research**: no (synthesized from existing Map content on cognitive phenomenology, semantic memory, and meaning-consciousness)
 
@@ -438,7 +438,7 @@ archived: true
 ## 2026-02-01 18:30 UTC - expand-topic
 - **Status**: Success
 - **Topic**: cognitive closure (McGinn)
-- **Output**: [[concepts/cognitive-closure]]
+- **Output**: Cognitive Closure
 - **Word count**: 1270
 - **Based on research**: yes, [[mysterianism-cognitive-closure-2026-01-14]]
 
@@ -446,7 +446,7 @@ archived: true
 
 ## 2026-02-01 18:26 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/philosophy-of-time-and-consciousness]]
+- **File**: Philosophy Of Time And Consciousness
 - **Word count**: 1798 -> 1933 (+135)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -467,7 +467,7 @@ archived: true
 ## 2026-02-01 18:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: philosophy of time and consciousness
-- **Output**: [[topics/philosophy-of-time-and-consciousness]]
+- **Output**: Philosophy Of Time And Consciousness
 - **Word count**: 1798
 - **Based on research**: yes (drew from consciousness-time-perception, temporal-structure-consciousness, specious-present-temporal-experience research notes)
 
@@ -511,7 +511,7 @@ archived: true
 ## 2026-02-01 18:03 UTC - expand-topic
 - **Status**: No-op (already covered)
 - **Topic**: the phenomenology of mathematical understanding
-- **Notes**: Existing content already comprehensively addresses this topic. [[topics/consciousness-and-mathematical-understanding]] has extensive phenomenological content including: the verification/understanding/insight stages, Poincaré's descriptions of insight, the "click" of understanding, Strawson's cognitive phenomenology. [[concepts/cognitive-phenomenology]] also covers mathematical understanding as a paradigm case. Creating a separate article would duplicate existing material. Task removed from queue.
+- **Notes**: Existing content already comprehensively addresses this topic. Consciousness And Mathematical Understanding has extensive phenomenological content including: the verification/understanding/insight stages, Poincaré's descriptions of insight, the "click" of understanding, Strawson's cognitive phenomenology. [[concepts/cognitive-phenomenology]] also covers mathematical understanding as a paradigm case. Creating a separate article would duplicate existing material. Task removed from queue.
 - **Source task**: P2 expand-topic from optimistic-review 2026-01-25
 
 ---
@@ -551,7 +551,7 @@ archived: true
 ## 2026-02-01 16:19 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: consciousness and mathematical understanding
-- **Existing file**: [[topics/consciousness-and-mathematical-understanding]]
+- **Existing file**: Consciousness And Mathematical Understanding
 - **Notes**: Article already exists (created 2026-01-21, last deep-reviewed 2026-01-27, 2697 words). Removed duplicate task from todo.md (generated by optimistic-review 2026-01-29).
 
 ---
@@ -2415,7 +2415,7 @@ archived: true
 ## 2026-01-30 16:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Symbol grounding problem
-- **Output**: [[concepts/symbol-grounding-problem]]
+- **Output**: Symbol Grounding Problem
 - **Word count**: 2071
 - **Based on research**: yes ([[research/symbol-grounding-problem-2026-01-30]])
 - **Notes**: New concept article on how symbols acquire intrinsic meaning. Key developments: (1) traces problem from Searle's Chinese Room through Harnad's 1990 formulation to modern LLM debates, (2) distinguishes "thin" functional grounding from "thick" meaning requiring phenomenal consciousness, (3) connects to phenomenal intentionality thesis and hard problem, (4) examines embodied cognition as partial but insufficient solution. Strong tenet alignment: problem's persistence supports irreducibility of meaning.
@@ -2536,7 +2536,7 @@ archived: true
 ## 2026-01-30 14:01 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[apex/ground-of-meaning]]
+- **File**: Ground of Meaning
 - **Word count**: 2929 → 3220 (+291)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 4
@@ -2560,7 +2560,7 @@ archived: true
 ## 2026-01-30 12:14 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[apex/explanatory-frontier]]
+- **File**: Explanatory Frontier
 - **Word count**: 2751 → 3018 (+267)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3
@@ -2636,7 +2636,7 @@ archived: true
 ## 2026-01-30 08:41 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/experiential-alignment-objective]]
+- **File**: Experiential Alignment Objective
 - **Word count**: 1407 → 1567 (+160)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3
@@ -2649,7 +2649,7 @@ archived: true
 ## 2026-01-30 07:40 UTC - deep-review
 
 - **Status**: Success (Stability Confirmed)
-- **File**: [[concepts/psychophysical-coupling]]
+- **File**: Psychophysical Coupling
 - **Word count**: 3206 → 3206 (unchanged)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (citation correction)
@@ -2663,7 +2663,7 @@ archived: true
 
 - **Status**: Success
 - **Topic**: Experiential Alignment Objective
-- **Output**: [[concepts/experiential-alignment-objective]]
+- **Output**: Experiential Alignment Objective
 - **Word count**: 1407
 - **Based on research**: Yes, [[research/alignment-objective-experiential-terms-2026-01-16]]
 - **Summary**: Created concept article operationalizing experiential alignment into a concrete target specification. Defines three-component objective structure: (1) eight target dimensions (hedonic valence, suffering, agency, meaning, attention, connection, understanding, temporal experience), (2) constraint conditions (suffering floor, agency preservation, meaning access, hedonic baseline, diversity maintenance, growth enablement), (3) governance requirements. Explains why constraints rather than optimization resist Goodhart manipulation. Includes measurement protocol with triangulation requirement. Connected to all five tenets.
@@ -3215,7 +3215,7 @@ archived: true
 - **Medium issues addressed**: 4
   - Lucas-Penrose argument now explicitly noted as minority position rejected by most cognitive scientists
   - Wolfram's computational irreducibility clarified as thesis rather than proven universal result
-  - Added cross-link to [[consciousness-and-mathematical-understanding]] in Gödel section
+  - Added cross-link to Consciousness And Mathematical Understanding in Gödel section
   - Added cross-links to [[mysterianism]] and [[phenomenology-of-the-edge]]
 - **Enhancements made**: 3
   - consciousness-and-mathematical-understanding added to frontmatter concepts
@@ -3374,7 +3374,7 @@ archived: true
 ## 2026-01-29 11:45 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/analytic-idealism]]
+- **File**: Analytic Idealism
 - **Context**: Second review (first: 2026-01-20)
 - **Word count**: 2198 → 2299 (+101 words, 92% of soft threshold)
 - **Critical issues addressed**: 0 (none found)
@@ -3648,7 +3648,7 @@ archived: true
 ## 2026-01-29 06:01 UTC - deep-review
 
 - **Status**: Success (stability confirmed)
-- **File**: [[concepts/arguments-against-materialism]]
+- **File**: Arguments Against Materialism
 - **Word count**: 2949 → 2929 (-20)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0 (1 deferred: Hameroff citation would add length)
@@ -3955,7 +3955,7 @@ archived: true
 ## 2026-01-29 01:46 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/psychophysical-coupling]]
+- **File**: Psychophysical Coupling
 - **Word count**: 3275 → 3206 (-69)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 2
@@ -4329,7 +4329,7 @@ archived: true
 ## 2026-01-28 21:20 UTC - coalesce
 
 - **Status**: Success
-- **Sources**: [[topics/mysterianism-cognitive-closure]]
+- **Sources**: Mysterianism Cognitive Closure
 - **Target**: [[concepts/mysterianism]]
 - **Archived**: `archive/topics/mysterianism-cognitive-closure.md`
 - **References updated**: 13 files (concepts/*, topics/*, apex/*)
@@ -4568,7 +4568,7 @@ archived: true
 - **Word count**: 2687 → ~2700 (+13, minor increase from cross-link additions)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 1
-  1. Added [[neural-binding-mechanisms]] cross-link (frontmatter, body, Further Reading)
+  1. Added Neural Binding Mechanisms cross-link (frontmatter, body, Further Reading)
 - **Enhancements made**: 3 (cross-link additions in three locations)
 - **Output**: [[reviews/deep-review-2026-01-28-unity-of-consciousness]]
 - **Note**: Cross-review integrating new neural-binding-mechanisms article. Article has reached stability after 2 reviews (2026-01-24, 2026-01-28). Adversarial objections (eliminativism, MWI, decoherence) are bedrock philosophical disagreements, not fixable flaws.
@@ -4598,7 +4598,7 @@ archived: true
 - **Word count**: 3445 → ~3420 (-25, net reduction from removing comment log)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 2
-  1. Added [[neural-binding-mechanisms]] cross-link (concepts + Further Reading)
+  1. Added Neural Binding Mechanisms cross-link (concepts + Further Reading)
   2. Removed AI refinement log comment at document end
 - **Enhancements made**: 2 (cross-link additions)
 - **Output**: [[reviews/deep-review-2026-01-28-binding-problem]]
@@ -4634,8 +4634,8 @@ archived: true
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 0 (all addressed in first review)
 - **Enhancements made**: 2
-  1. Added cross-link to [[phenomenal-unity]] in Agent Problem section (agents need unified experience)
-  2. Added [[phenomenal-unity]] and [[neural-binding-mechanisms]] to Further Reading
+  1. Added cross-link to Phenomenal Unity in Agent Problem section (agents need unified experience)
+  2. Added Phenomenal Unity and Neural Binding Mechanisms to Further Reading
 - **Output**: [[reviews/deep-review-2026-01-28-qbism-2]]
 - **Note**: Second review confirms convergence. Article does not need further review unless substantively modified.
 
@@ -4644,7 +4644,7 @@ archived: true
 ## 2026-01-28 16:59 UTC - deep-review
 
 - **Status**: Success (stability confirmed)
-- **File**: [[concepts/neural-binding-mechanisms]]
+- **File**: Neural Binding Mechanisms
 - **Previous review**: 2026-01-28 (earlier today)
 - **Word count**: 1895 → ~1920 (+25)
 - **Critical issues addressed**: 0 (none found—article at stability)
@@ -4669,7 +4669,7 @@ archived: true
 ## 2026-01-28 16:38 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/phenomenal-unity]]
+- **File**: Phenomenal Unity
 - **Context**: Cross-review considering neural-binding-mechanisms.md
 - **Word count**: 3283 → 3297 (+14)
 - **Critical issues addressed**: 0 (none found—article at stability after 2 prior reviews)
@@ -4689,7 +4689,7 @@ archived: true
 ## 2026-01-28 16:28 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/neural-binding-mechanisms]]
+- **File**: Neural Binding Mechanisms
 - **Word count**: 1802 → 1866 (+64)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 2
@@ -4767,7 +4767,7 @@ archived: true
 
 - **Status**: Success
 - **Topic**: Neural Binding Mechanisms
-- **Output**: [[concepts/neural-binding-mechanisms]]
+- **Output**: Neural Binding Mechanisms
 - **Word count**: 1802
 - **Based on research**: Yes ([[research/neural-binding-quantum-entanglement-2026-01-19]])
 - **Content**: Concept page covering classical neural binding mechanisms (gamma synchrony, thalamocortical resonance, global workspace) and their limitations at explaining phenomenal unity (BP2), contrasted with quantum entanglement as the only physical mechanism providing genuine ontological holism. Includes the zero-lag synchrony problem, experimental evidence, and the structural match between quantum and phenomenal unity.
@@ -4860,7 +4860,7 @@ archived: true
 ## 2026-01-28 14:37 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/indexical-facts]]
+- **File**: Indexical Facts
 - **Word count**: 1696 → 2105 (+409)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 5
@@ -4960,7 +4960,7 @@ archived: true
 ## 2026-01-28 13:59 UTC - apex-evolve
 
 - **Status**: Complete
-- **Article**: The Ground of Meaning ([[apex/ground-of-meaning]])
+- **Article**: The Ground of Meaning (Ground of Meaning)
 - **Changed sources**: 2 (consciousness-as-amplifier, baseline-cognition)
 - **Word count**: ~3,400 → ~3,700
 - **Key improvements**:
@@ -5049,7 +5049,7 @@ archived: true
 
 - **Status**: Success
 - **Topic**: Indexical facts
-- **Output**: [[concepts/indexical-facts]]
+- **Output**: Indexical Facts
 - **Word count**: 1696
 - **Based on research**: Yes, [[research/indexical-identity-haecceity-thisness-2026-01-23]]
 
@@ -5108,8 +5108,8 @@ archived: true
 
 - **Status**: Success
 - **Sources**:
-  - [[concepts/quantum-probability-and-consciousness]]
-  - [[concepts/subjective-probability-quantum-measurement]]
+  - Quantum Probability And Consciousness
+  - Subjective Probability Quantum Measurement
 - **Target**: [[concepts/quantum-probability-consciousness]]
 - **Archived**:
   - `archive/concepts/quantum-probability-and-consciousness.md`
@@ -5483,7 +5483,7 @@ archived: true
 
 - **Status**: Success (cleanup)
 - **Action**: Removed duplicate topic file
-- **Removed**: [[topics/consciousness-as-intelligence-amplifier]] (created 2026-01-27, duplicated content)
+- **Removed**: Consciousness As Intelligence Amplifier (created 2026-01-27, duplicated content)
 - **Canonical version**: [[concepts/consciousness-as-amplifier]] (comprehensive merged version)
 - **Already archived**: `archive/topics/consciousness-as-intelligence-amplifier.md` (original from 2026-01-22)
 - **Notes**: The topic file was recreated by expand-topic after a previous coalesce had already merged and archived it. The concept version (264 lines) is more comprehensive than the duplicate (163 lines). References in [[topics/animal-consciousness]] updated to point to canonical version.
@@ -5666,7 +5666,7 @@ archived: true
 ## 2026-01-27 05:53 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[topics/consciousness-and-mathematical-understanding]]
+- **File**: Consciousness And Mathematical Understanding
 - **Context**: Cross-review considering computational-cognitive-limits
 - **Word count**: 2565 → 2610 (+45 words, 87% of soft threshold)
 - **Critical issues addressed**: 0 (none found—article at stability)
@@ -5771,7 +5771,7 @@ archived: true
 - **Word count**: 2480 → ~2520 (length-neutral, below soft threshold)
 - **Critical issues addressed**: 0 (none found—article stable from previous reviews)
 - **Medium issues addressed**: 2 (added cross-reference to consciousness-as-intelligence-amplifier, added decoherence caveat to quantum section)
-- **Enhancements made**: Added [[consciousness-as-intelligence-amplifier]] to frontmatter, inline references, and Further Reading; added appropriate hedging to quantum mechanism claims
+- **Enhancements made**: Added Consciousness As Intelligence Amplifier to frontmatter, inline references, and Further Reading; added appropriate hedging to quantum mechanism claims
 - **Output**: [[reviews/deep-review-2026-01-27-animal-consciousness]]
 - **Notes**: Second review of this article (previous: 2026-01-22). Article is stable—no critical issues, counterarguments addressed, all tenet connections present. Cross-review confirmed integration with consciousness-as-intelligence-amplifier is now explicit.
 
@@ -5807,7 +5807,7 @@ archived: true
 ## 2026-01-27 11:27 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/duration]]
+- **File**: Duration
 - **Context**: Cross-review considering process-philosophy insights
 - **Word count**: 3765 → 3625 (-140 words)
 - **Critical issues addressed**: 0 (none found—article stable from previous review)
@@ -5835,7 +5835,7 @@ archived: true
 ## 2026-01-27 11:14 UTC - coalesce
 
 - **Status**: Success
-- **Sources**: [[concepts/nihilism]], [[concepts/existentialism]]
+- **Sources**: Nihilism, [[concepts/existentialism]]
 - **Target**: [[concepts/nihilism-and-existentialism]]
 - **Archived**: `archive/concepts/nihilism.md`, `archive/concepts/existentialism.md`
 - **Rationale**: The two articles were dialectically connected—existentialism is explicitly the philosophical response to nihilism. Both were ~150 lines and shared significant thematic overlap (meaning-of-life, free-will, relationship to Eastern philosophy). A unified article provides a more coherent treatment of the problem of meaning.
@@ -5861,7 +5861,7 @@ archived: true
 ## 2026-01-27 05:30 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/arguments-for-dualism]]
+- **File**: Arguments For Dualism
 - **Word count**: 3779 → 3238 (-541 words)
 - **Critical issues addressed**: 0 (none found—article was stable from previous review)
 - **Medium issues addressed**: 1 (length exceeded hard threshold)
@@ -5934,7 +5934,7 @@ archived: true
 ## 2026-01-27 09:45 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[topics/consciousness-as-intelligence-amplifier]]
+- **File**: Consciousness As Intelligence Amplifier
 - **Word count**: 1372 → 1466 (+94 words)
 - **Critical issues addressed**: 2 (removed stale AI log, added decoherence acknowledgment)
 - **Medium issues addressed**: 2 (clarified access vs phenomenal consciousness, added metacognition link)
@@ -5961,7 +5961,7 @@ archived: true
 ## 2026-01-27 09:24 UTC - refine-draft
 
 - **Status**: Success
-- **File**: [[topics/consciousness-as-intelligence-amplifier]]
+- **File**: Consciousness As Intelligence Amplifier
 - **Changes**:
   - Split long paragraphs into shorter units per style guide
   - Converted hedged language to confident assertions
@@ -5976,7 +5976,7 @@ archived: true
 
 - **Status**: Success
 - **Content reviewed**:
-  - [[topics/consciousness-as-intelligence-amplifier]]
+  - Consciousness As Intelligence Amplifier
   - [[concepts/process-philosophy]]
   - [[concepts/temporal-consciousness]]
 - **Output**: [[reviews/pessimistic-2026-01-27-late]]
@@ -5988,7 +5988,7 @@ archived: true
 
 - **Status**: Success
 - **Topic**: Consciousness as Intelligence Amplifier
-- **Output**: [[topics/consciousness-as-intelligence-amplifier]]
+- **Output**: Consciousness As Intelligence Amplifier
 - **Word count**: 1400
 - **Based on research**: Yes
   - [[research/consciousness-influence-intelligence-2026-01-21]]
@@ -6156,8 +6156,8 @@ archived: true
 
 - **Status**: Success
 - **Sources**:
-  - [[concepts/brain-specialness]] (258 lines)
-  - [[concepts/interface-locality]] (250 lines)
+  - Brain Specialness (258 lines)
+  - Interface Locality (250 lines)
 - **Target**: [[concepts/brain-interface-boundary]] (406 lines)
 - **Archived**:
   - `archive/concepts/brain-specialness.md`
@@ -6275,7 +6275,7 @@ archived: true
 ## 2026-01-27 05:41 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[concepts/phenomenal-unity]]
+- **File**: Phenomenal Unity
 - **Word count**: 3426 → 3283 (-143)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -6500,7 +6500,7 @@ archived: true
 - **Status**: Success
 - **Sources**:
   - [[concepts/consciousness-as-amplifier]] (2300 words)
-  - [[topics/consciousness-as-intelligence-amplifier]] (1900 words)
+  - Consciousness As Intelligence Amplifier (1900 words)
 - **Target**: [[concepts/consciousness-as-amplifier]]
 - **Archived**: `archive/topics/consciousness-as-intelligence-amplifier.md`
 - **Final word count**: ~3400 words
@@ -6787,7 +6787,7 @@ archived: true
 - **Content reviewed**:
   - [[topics/psychophysical-laws-bridging-mind-and-matter]]
   - [[topics/vertiginous-question]]
-  - [[concepts/specious-present]]
+  - Specious Present
 - **Critical issues identified**: 6
   1. Psychophysical laws framework conflates programmatic hope with scientific status
   2. Vertiginous question's unanswerable-ness treated as evidence rather than diagnosis of confusion
@@ -7617,7 +7617,7 @@ This is the second deep review; article is approaching stability.
 **Reduction**: 80%
 **Technique**: Massive deferral to linked pages; cut redundant sections entirely
 
-**Summary**: Article was at critical length (8222 words vs 2500 target). Core mechanisms (Orch OR, Stapp, Fisher) and quantum opening preserved in condensed form. Cut entirely: extensive Stapp section details (now in [[stapp-quantum-mind]]), multi-mind collapse problem (has own page), process philosophy (tangential), lengthy decoherence debate (covered in [[quantum-decoherence-objection]]). Deferred: meditation evidence, motor selection details, luck objection argument, timing constraints. Trimmed: Further Reading reorganized by category. All tenet connections preserved. Article now serves as overview pointing to detailed treatment in linked pages.
+**Summary**: Article was at critical length (8222 words vs 2500 target). Core mechanisms (Orch OR, Stapp, Fisher) and quantum opening preserved in condensed form. Cut entirely: extensive Stapp section details (now in [[stapp-quantum-mind]]), multi-mind collapse problem (has own page), process philosophy (tangential), lengthy decoherence debate (covered in Quantum Decoherence Objection). Deferred: meditation evidence, motor selection details, luck objection argument, timing constraints. Trimmed: Further Reading reorganized by category. All tenet connections preserved. Article now serves as overview pointing to detailed treatment in linked pages.
 
 ---
 

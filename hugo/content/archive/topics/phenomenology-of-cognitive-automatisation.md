@@ -36,7 +36,7 @@ title: The Phenomenology of Cognitive Automatisation
 topics:
 - '[[consciousness-and-skilled-performance]]'
 - '[[phenomenology-of-flow-states]]'
-- '[[phenomenology-of-cognitive-load]]'
+- Phenomenology Of Cognitive Load
 - '[[choking-phenomenon-mental-causation]]'
 ---
 
@@ -76,7 +76,7 @@ The phenomenology of automatisation provides indirect evidence for the Map's [in
 
 **Capacity constraints.** Learning a new skill while maintaining other automatic competencies is possible, but learning multiple new skills simultaneously is extremely difficult. This matches a system with finite selection bandwidth—consciousness can supervise one domain of novel activity while delegating others to automated routines, but cannot supervise everything at once.
 
-**Graceful degradation under load.** When [cognitive load](/topics/phenomenology-of-cognitive-capacity/) increases, the most recently automatised skills are the first to require conscious re-engagement. A stressed driver who has been driving for two years might need to think about lane changes again, while a thirty-year veteran does not. This ordering—last automated, first to require conscious re-engagement—suggests a hierarchy of automation depth consistent with varying degrees of entrenchment in procedural systems.
+**Graceful degradation under load.** When cognitive load increases, the most recently automatised skills are the first to require conscious re-engagement. A stressed driver who has been driving for two years might need to think about lane changes again, while a thirty-year veteran does not. This ordering—last automated, first to require conscious re-engagement—suggests a hierarchy of automation depth consistent with varying degrees of entrenchment in procedural systems.
 
 **The impossibility of total automation.** No matter how skilled someone becomes, some core of their activity remains under conscious oversight. Expert musicians automate finger placement and timing but maintain conscious control of interpretive expression. Expert drivers automate vehicle handling but consciously navigate route decisions. Crucially, the tasks that resist automation share a common feature: they involve genuine novelty, ambiguity, or evaluative judgement—precisely the domains where deterministic procedural systems lack the flexibility to respond appropriately. If consciousness were merely a training signal that could be fully replaced, total automation should be achievable given sufficient practice. The persistent residue of conscious involvement suggests consciousness plays an ongoing role that procedural memory cannot fully replicate—consistent with the Map's claim that consciousness causally contributes rather than merely accompanies cognition.
 
@@ -106,7 +106,7 @@ Automatisation, from the Map's perspective, is not consciousness becoming unnece
 
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
-- [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-capacity/)
+- Phenomenology Of Cognitive Load
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [implicit-memory](/concepts/implicit-memory/)

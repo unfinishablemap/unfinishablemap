@@ -10,11 +10,11 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[quantum-consciousness]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[decoherence]]"
-  - "[[neural-binding-mechanisms]]"
+  - "Neural Binding Mechanisms"
   - "[[integrated-information-theory]]"
   - "[[stapp-quantum-mind]]"
 related_articles:
@@ -58,7 +58,7 @@ In an entangled quantum state:
 
 Consider two entangled particles. Before measurement, neither particle has a definite spin state—only the *pair* has a definite relational state. This is not correlation between pre-existing properties; the particles lack individual states to be correlated. Unity is prior to parts.
 
-Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If [[phenomenal-unity|phenomenal unity]] requires ontological unity at the physical level, only entanglement can provide it.
+Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If phenomenal unity requires ontological unity at the physical level, only entanglement can provide it.
 
 ## Structural Correspondence
 
@@ -191,10 +191,10 @@ The hypothesis makes specific predictions that distinguish it from classical alt
 ## Further Reading
 
 - [[binding-problem]] — The full binding problem including classical approaches
-- [[neural-binding-mechanisms]] — Classical vs quantum mechanisms in detail
+- Neural Binding Mechanisms — Classical vs quantum mechanisms in detail
 - [[quantum-binding-and-phenomenal-unity]] — Philosophical argument that entanglement matches unity
 - [[concepts/quantum-neural-mechanisms-and-coherence]] — Detailed experimental support
-- [[phenomenal-unity]] — What the binding problem aims to explain
+- Phenomenal Unity — What the binding problem aims to explain
 - [[quantum-consciousness]] — Orch OR and Stapp's quantum approaches
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for attention
 - [[decoherence]] — Why quantum effects might survive in biological systems

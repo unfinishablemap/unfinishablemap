@@ -14,7 +14,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[mysterianism]]"
   - "[[first-person-third-person-methodology]]"
-  - "[[consciousness-and-mathematical-understanding]]"
+  - "consciousness-and-mathematical-understanding"
 concepts:
   - "[[explanatory-gap]]"
   - "[[qualia]]"
@@ -85,7 +85,7 @@ Where the hard problem reveals the gap through analysis of concepts, and the met
 
 ### Mathematical Understanding
 
-[[consciousness-and-mathematical-understanding|Roger Penrose's argument]] approaches the frontier from yet another direction. Mathematical insight—the capacity to grasp that a theorem is true, not merely to verify its formal derivation—seems to require non-algorithmic understanding. Gödel's incompleteness theorems show that for any consistent formal system, there are truths it cannot prove. Yet mathematicians can recognise these very truths as true. How?
+Roger Penrose's argument approaches the frontier from yet another direction. Mathematical insight—the capacity to grasp that a theorem is true, not merely to verify its formal derivation—seems to require non-algorithmic understanding. Gödel's incompleteness theorems show that for any consistent formal system, there are truths it cannot prove. Yet mathematicians can recognise these very truths as true. How?
 
 The standard response is that human mathematicians are not actually recognising unprovable truths; we merely believe we are, and our beliefs are products of algorithmic processes. But this response has a cost: it implies that mathematical understanding is not genuine understanding at all, just a species of computation that happens to track truth. If we take mathematical insight seriously as what it appears to be—genuine grasp of truth—then consciousness involves something that escapes computational description. The explanatory gap reappears: no computational process explains how a brain could achieve non-computational understanding.
 
@@ -171,5 +171,5 @@ This apex article synthesises:
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — The formulation that crystallised the explanatory gap as the central mystery
 - [[mysterianism|Mysterianism and Cognitive Closure]] — The possibility that human minds cannot grasp consciousness-brain relations
 - [[first-person-third-person-methodology|First-Person vs Third-Person Methodology]] — The persistent methodological divide that reflects ontological difference
-- [[consciousness-and-mathematical-understanding|Consciousness and Mathematical Understanding]] — Penrose's argument that consciousness enables non-algorithmic insight
+- Consciousness and Mathematical Understanding — Penrose's argument that consciousness enables non-algorithmic insight
 - [[explanatory-gap|The Explanatory Gap]] — Levine's original formulation of what physical explanation leaves out

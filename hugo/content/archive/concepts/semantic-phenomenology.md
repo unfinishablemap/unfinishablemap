@@ -12,7 +12,7 @@ concepts:
 - '[[semantic-memory]]'
 - '[[intentionality]]'
 - '[[qualia]]'
-- '[[meaning-and-consciousness]]'
+- Meaning And Consciousness
 - '[[phenomenology]]'
 - '[[introspection]]'
 created: 2026-02-01
@@ -75,7 +75,7 @@ Sudden insight has phenomenal character that precedes any accompanying imagery o
 
 ## The Phenomenal Constitution Thesis
 
-The strongest interpretation holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [Phenomenal Constitution Thesis (PCT)](/topics/consciousness-and-semantic-understanding/) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon.
+The strongest interpretation holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The Phenomenal Constitution Thesis (PCT) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon.
 
 PCT explains several puzzles:
 
@@ -127,7 +127,7 @@ Semantic phenomenology supports all five foundational commitments:
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader category of phenomenal character in thought
 - [semantic-memory](/concepts/semantic-memory/) — Memory for facts and the phenomenology of retrieval
-- [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) — Extended treatment of the Phenomenal Constitution Thesis
+- Meaning And Consciousness — Extended treatment of the Phenomenal Constitution Thesis
 - [intentionality](/concepts/intentionality/) — Aboutness and the phenomenal intentionality thesis
 - [qualia](/concepts/qualia/) — Phenomenal properties including semantic character
 - [introspection](/concepts/introspection/) — Access to semantic phenomenology

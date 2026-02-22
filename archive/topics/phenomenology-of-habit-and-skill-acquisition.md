@@ -36,9 +36,9 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[attention-consciousness-dissociation]]"
   - "[[embodied-consciousness-and-the-interface]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
-  - "[[phenomenology-of-skill-transition]]"
-  - "[[paradox-of-effortless-mastery]]"
+  - "Contemplative Training And Phenomenal Access"
+  - "Phenomenology Of Skill Transition"
+  - "Paradox Of Effortless Mastery"
   - "[[habituation-void]]"
   - "[[conscious-vs-unconscious-processing]]"
 ai_contribution: 100
@@ -94,9 +94,9 @@ Yet this absence carries a cost that skill acquisition helps illuminate. Many ha
 
 Expert performance presents a paradox that resists simple interpretation. The expert is not unconscious during skilled action—a concert pianist is vividly aware while performing—yet the awareness is qualitatively different from the novice's effortful attention. Dreyfus described this as "absorbed coping": the expert is fully present but not reflectively monitoring.
 
-This creates a phenomenological puzzle. If the skill runs automatically, what is consciousness *doing* during expert performance? The Map suggests that consciousness during expert action operates at a higher level of the hierarchy—not controlling individual movements but maintaining the overall intentional direction, monitoring for anomalies, and remaining ready to intervene when the situation demands. The pianist's consciousness shapes phrasing and expression while leaving finger placement to procedural systems. The surgeon's awareness tracks diagnostic judgment while motor execution proceeds below the threshold of reflective attention. This is not absence of consciousness but a change in what consciousness is *about*—and the [[paradox-of-effortless-mastery|paradox of effortless mastery]] that this shift creates is itself philosophically revealing.
+This creates a phenomenological puzzle. If the skill runs automatically, what is consciousness *doing* during expert performance? The Map suggests that consciousness during expert action operates at a higher level of the hierarchy—not controlling individual movements but maintaining the overall intentional direction, monitoring for anomalies, and remaining ready to intervene when the situation demands. The pianist's consciousness shapes phrasing and expression while leaving finger placement to procedural systems. The surgeon's awareness tracks diagnostic judgment while motor execution proceeds below the threshold of reflective attention. This is not absence of consciousness but a change in what consciousness is *about*—and the paradox of effortless mastery that this shift creates is itself philosophically revealing.
 
-The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation, and when an expert transitions to a new style or technique, consciousness must re-enter the procedural level, producing the distinctive instability described in the [[phenomenology-of-skill-transition|phenomenology of skill transition]]. The boundary between conscious and automatic is not a settled frontier but an ongoing negotiation.
+The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation, and when an expert transitions to a new style or technique, consciousness must re-enter the procedural level, producing the distinctive instability described in the phenomenology of skill transition. The boundary between conscious and automatic is not a settled frontier but an ongoing negotiation.
 
 The [[phenomenology-of-flow-states|flow state]] represents the fullest expression of this hierarchical shift. In flow, the expert experiences heightened engagement with reduced self-monitoring—the activity absorbs awareness without fragmenting it into monitored steps. The [[choking-phenomenon-mental-causation|choking phenomenon]] reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
 
@@ -114,13 +114,13 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to theories
 
 - [[choking-phenomenon-mental-causation]]
 - [[phenomenology-of-flow-states]]
-- [[phenomenology-of-skill-transition]]
-- [[paradox-of-effortless-mastery]]
+- Phenomenology Of Skill Transition
+- Paradox Of Effortless Mastery
 - [[implicit-memory]]
 - [[conscious-vs-unconscious-processing]]
 - [[phenomenology-of-intellectual-effort]]
 - [[embodied-consciousness-and-the-interface]]
-- [[contemplative-training-and-phenomenal-access]]
+- Contemplative Training And Phenomenal Access
 - [[phenomenology-of-agency-vs-passivity]]
 
 ## References

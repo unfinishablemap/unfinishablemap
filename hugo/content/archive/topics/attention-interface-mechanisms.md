@@ -18,8 +18,8 @@ concepts:
 - '[[mental-effort]]'
 - '[[decoherence]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
-- '[[psychophysical-coupling]]'
-- '[[interface-locality]]'
+- Psychophysical Coupling
+- Interface Locality
 - '[[attention-motor-quantum-interface]]'
 - '[[motor-selection]]'
 - '[[dopamine-selection-interface]]'
@@ -37,7 +37,7 @@ modified: *id001
 original_path: /topics/attention-interface-mechanisms/
 related_articles:
 - '[[tenets]]'
-- '[[attention-motor-planning-quantum-interface]]'
+- Attention Motor Planning Quantum Interface
 - '[[attention-as-interface-hypothesis-2026-01-16]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[attention-consciousness-mechanisms-2026-01-15]]'
@@ -329,7 +329,7 @@ The interface framework would face serious challenge if:
 
 4. **Many-worlds interpretation is confirmed.** If all quantum outcomes occur in different branches, "selection" is illusory—consciousness merely finds itself in branches rather than choosing them.
 
-5. **External random number generator effects replicate.** If consciousness reliably biases external quantum systems (not just neural ones), the [brain specialness](/concepts/brain-interface-boundary/) claim fails.
+5. **External random number generator effects replicate.** If consciousness reliably biases external quantum systems (not just neural ones), the brain specialness claim fails.
 
 ## What Would Support the Hypothesis?
 
@@ -389,7 +389,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
-- [attention-motor-planning-quantum-interface](/topics/attention-as-selection-interface/) — Philosophical significance of the attention-motor convergence
+- Attention Motor Planning Quantum Interface — Philosophical significance of the attention-motor convergence
 - [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Detailed concept treatment of the unified interface
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
@@ -399,7 +399,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of attentional effort
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
 - [dopamine-selection-interface](/concepts/motor-selection/) — Dopamine's role in threshold modulation
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — Constraints on what consciousness can influence
+- Psychophysical Coupling — Constraints on what consciousness can influence
 - [free-will](/topics/free-will/) — How the timing constraints relate to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The selection model as agent causation
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments

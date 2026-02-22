@@ -33,11 +33,11 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
+  - "Contemplative Training And Phenomenal Access"
   - "[[phenomenology-of-returning-attention]]"
   - "[[phenomenology-of-conceptual-change]]"
   - "[[phenomenology-of-belief-revision]]"
-  - "[[paradox-of-effortless-mastery]]"
+  - "Paradox Of Effortless Mastery"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -117,11 +117,11 @@ The structure of skill transition—resistance, rupture, reorganisation—parall
 - [[choking-phenomenon-mental-causation]]
 - [[interface-friction]]
 - [[phenomenology-of-intellectual-effort]]
-- [[contemplative-training-and-phenomenal-access]]
+- Contemplative Training And Phenomenal Access
 - [[phenomenology-of-agency-vs-passivity]]
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-belief-revision]]
-- [[paradox-of-effortless-mastery]]
+- Paradox Of Effortless Mastery
 
 ## References
 

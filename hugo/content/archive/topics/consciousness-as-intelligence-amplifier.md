@@ -169,7 +169,7 @@ Finally, the [Occam's Razor Has Limits tenet](/tenets/#occams-limits) applies. E
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How conscious access enables information broadcast
 - [metacognition](/concepts/metacognition/) — Thinking about thinking, enabled by consciousness
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" aspect that resists physical explanation
-- [arguments-for-dualism](/concepts/the-case-for-dualism/) — Multiple independent arguments that consciousness is irreducible
+- Arguments For Dualism — Multiple independent arguments that consciousness is irreducible
 
 ## References
 

@@ -20,7 +20,7 @@ concepts:
   - "[[mental-effort]]"
 related_articles:
   - "[[tenets]]"
-  - "[[nihilism]]"
+  - "Nihilism"
   - "[[eastern-philosophy-consciousness]]"
 ai_contribution: 100
 author: null
@@ -137,7 +137,7 @@ If consciousness is irreducible at each moment (as the [[tenets#^dualism|Dualism
 ## Further Reading
 
 - [[buddhism-and-dualism]] — The compatibility thesis: irreducibility without permanence
-- [[nihilism]] — The challenge existentialism responds to
+- Nihilism — The challenge existentialism responds to
 - [[meaning-of-life]] — How meaning can be grounded in consciousness
 - [[topics/free-will]] — The metaphysics of choice and agency
 - [[personal-identity]] — What constitutes the self across time

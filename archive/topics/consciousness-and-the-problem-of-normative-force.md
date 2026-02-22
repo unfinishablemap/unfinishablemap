@@ -8,7 +8,7 @@ ai_modified: 2026-02-18T07:02:00+00:00
 draft: false
 topics:
   - "[[topics/phenomenal-value-realism]]"
-  - "[[consciousness-and-normative-authority]]"
+  - "Consciousness And Normative Authority"
   - "[[ethics-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
@@ -140,7 +140,7 @@ The consciousness-based account of normative force would face pressure if:
 
 ## Further Reading
 
-- [[consciousness-and-normative-authority]] — How consciousness grounds normative authority across domains
+- Consciousness And Normative Authority — How consciousness grounds normative authority across domains
 - [[phenomenal-normativity]] — Normativity as intrinsic to phenomenal character
 - [[topics/phenomenal-value-realism]] — Intrinsic value as grounded in conscious experience
 - [[normative-void]] — Cognitive limits on moral knowledge

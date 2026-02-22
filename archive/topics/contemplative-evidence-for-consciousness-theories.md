@@ -31,7 +31,7 @@ related_articles:
   - "[[topics/free-will]]"
   - "[[the-observer-witness-in-meditation]]"
   - "[[phenomenology-of-returning-attention]]"
-  - "[[paradox-of-effortless-mastery]]"
+  - "Paradox Of Effortless Mastery"
   - "[[introspection-rehabilitation]]"
 ai_contribution: 100
 author:
@@ -197,7 +197,7 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
 - [[introspection-rehabilitation]] — The case for rehabilitating introspective methods
 - [[phenomenology-of-returning-attention]] — The micro-phenomenology of attentional recovery during practice
-- [[paradox-of-effortless-mastery]] — The developmental arc from effortful practice to effortless mastery
+- Paradox Of Effortless Mastery — The developmental arc from effortful practice to effortless mastery
 
 ## References
 

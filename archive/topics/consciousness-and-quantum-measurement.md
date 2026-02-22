@@ -19,7 +19,7 @@ concepts:
   - "[[prebiotic-collapse]]"
 related_articles:
   - "[[tenets]]"
-  - "[[quantum-measurement-and-definite-outcomes]]"
+  - "Quantum Measurement And Definite Outcomes"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[collapse-and-time]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
@@ -183,7 +183,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 ## Further Reading
 
 - [[measurement-problem]] — Technical treatment of the measurement problem
-- [[quantum-measurement-and-definite-outcomes]] — Why definite outcomes occur and where consciousness might participate
+- Quantum Measurement And Definite Outcomes — Why definite outcomes occur and where consciousness might participate
 - [[indexical-identity-quantum-measurement]] — The first-person dimension of measurement
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and conscious agency

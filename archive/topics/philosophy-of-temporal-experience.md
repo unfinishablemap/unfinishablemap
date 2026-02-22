@@ -11,8 +11,8 @@ topics:
   - "[[ai-consciousness]]"
 concepts:
   - "[[temporal-consciousness]]"
-  - "[[duration]]"
-  - "[[specious-present]]"
+  - "Duration"
+  - "Specious Present"
   - "[[phenomenology]]"
   - "[[neurophenomenology]]"
   - "[[philosophy-of-time]]"
@@ -42,7 +42,7 @@ The Unfinishable Map takes this seriously. If the [[explanatory-gap|explanatory 
 
 ## The Specious Present
 
-The [[specious-present|specious present]], named by E.R. Clay and developed by William James, denotes the experienced duration of "now." The mathematical present is durationless—an instant with no extent. But the experiential present has duration. When you hear a melody, you don't perceive isolated tones; you hear phrases, progressions, tension and resolution. This requires holding successive moments together in a unified experience.
+The specious present, named by E.R. Clay and developed by William James, denotes the experienced duration of "now." The mathematical present is durationless—an instant with no extent. But the experiential present has duration. When you hear a melody, you don't perceive isolated tones; you hear phrases, progressions, tension and resolution. This requires holding successive moments together in a unified experience.
 
 James wrote: "The unit of composition of our perception of time is a duration, with a bow and a stern, as it were—a rearward- and a forward-looking end." The specious present isn't a point but an interval—roughly 100 to 750 milliseconds according to various experimental estimates, with some researchers extending the "extended present" to 2-3 seconds for certain phenomena.
 
@@ -154,8 +154,8 @@ The philosophy of temporal experience connects to the Map's framework at multipl
 
 - [[temporal-consciousness]] — The specious present and its implications for AI consciousness
 - [[phenomenology-of-temporal-agency]] — What choosing feels like through time
-- [[duration]] — Bergson's concept of lived time
-- [[specious-present]] — The experienced duration of "now"
+- Duration — Bergson's concept of lived time
+- Specious Present — The experienced duration of "now"
 - [[philosophy-of-time]] — A-theory, B-theory, and the growing block
 - [[collapse-and-time]] — How consciousness may participate in time's arrow
 - [[time-collapse-and-agency]] — The Map's full treatment of time and conscious agency

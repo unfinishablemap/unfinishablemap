@@ -11,10 +11,10 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[phenomenology-of-choice]]'
 - '[[agent-causation]]'
-- '[[duration]]'
-- '[[specious-present]]'
+- Duration
+- Specious Present
 - '[[mental-effort]]'
-- '[[autonoetic-consciousness]]'
+- Autonoetic Consciousness
 - '[[prospective-memory]]'
 - '[[phenomenology]]'
 - '[[witness-consciousness]]'
@@ -51,7 +51,7 @@ Close your eyes and consider yesterday. Then consider tomorrow. The phenomenolog
 
 This asymmetry pervades agentive experience. You deliberate about futures, not pasts. You regret past choices but can only act on future ones. You feel responsible for what you're about to do in a way that differs from how you feel about what you've already done.
 
-The asymmetry appears in [mental time travel](/concepts/episodic-memory/). When you remember attending your graduation, you don't merely access information—you *inhabit* the memory from a first-person perspective. The "feeling of pastness" marks the event as having-happened. When you imagine next year's holiday, you construct a possible future but lack the pastness quale. The imagination feels provisional in a way memory does not.
+The asymmetry appears in mental time travel. When you remember attending your graduation, you don't merely access information—you *inhabit* the memory from a first-person perspective. The "feeling of pastness" marks the event as having-happened. When you imagine next year's holiday, you construct a possible future but lack the pastness quale. The imagination feels provisional in a way memory does not.
 
 ### Is the Asymmetry Merely Epistemic?
 
@@ -69,7 +69,7 @@ Deliberation takes time, and this temporality has phenomenal character. Consider
 
 This temporal unfolding differs from mere sequential processing. A computer running a decision algorithm processes steps sequentially, but there's nothing it's like to undergo that processing. In human deliberation, the temporality is experienced—you feel yourself moving through consideration toward conclusion. The duration is not just objective (taking ten minutes of clock time) but phenomenological (feeling like a process of convergence).
 
-Husserl's analysis of [retention and protention](/concepts/temporal-consciousness/) applies here. Each moment of deliberation retains the just-considered options while protending toward resolution. The options you entertained five seconds ago aren't merely remembered—they echo in the present deliberation, still influencing how you weight current considerations. The anticipated resolution draws the process forward. Deliberation has [durée](/concepts/temporal-consciousness/): an interpenetrating flow rather than a sequence of isolated instants.
+Husserl's analysis of [retention and protention](/concepts/temporal-consciousness/) applies here. Each moment of deliberation retains the just-considered options while protending toward resolution. The options you entertained five seconds ago aren't merely remembered—they echo in the present deliberation, still influencing how you weight current considerations. The anticipated resolution draws the process forward. Deliberation has durée: an interpenetrating flow rather than a sequence of isolated instants.
 
 ### Holding Options Open
 
@@ -87,7 +87,7 @@ The moment of decision has distinctive phenomenal character. Before deciding, mu
 
 This narrowing happens *in* the moment, not instantaneously but as a phenomenal transition. You might feel yourself "leaning toward" option A, then committing. Or the decision might arrive suddenly after extended uncertainty. Either way, there's a transition from open to closed, from many to one.
 
-The [specious present](/concepts/temporal-consciousness/)—the 100ms to several seconds of experienced "now"—is where this happens. Decision isn't a mathematical instant but an extended moment within which the transition from possibility to actuality unfolds. The specious present provides the temporal arena for choosing.
+The specious present—the 100ms to several seconds of experienced "now"—is where this happens. Decision isn't a mathematical instant but an extended moment within which the transition from possibility to actuality unfolds. The specious present provides the temporal arena for choosing.
 
 ### The Phenomenology of "Could Have Done Otherwise"
 
@@ -183,11 +183,11 @@ The phenomenology of temporal agency connects to all five tenets:
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of temporal structure in consciousness
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it's like to choose, including temporal aspects
 - [free-will](/topics/free-will/) — The Map's account of libertarian agency
-- [duration](/concepts/temporal-consciousness/) — Bergson's concept of lived time
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
+- Duration — Bergson's concept of lived time
+- Specious Present — The experienced duration of the present moment
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of cognitive effort and possible mechanisms
 - [witness-consciousness](/concepts/witness-consciousness/) — Non-agentive modes of conscious presence
-- [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel and the temporal self
+- Autonoetic Consciousness — Mental time travel and the temporal self
 - [retrocausality](/concepts/retrocausality/) — How time-symmetric physics relates to agency
 
 ## References

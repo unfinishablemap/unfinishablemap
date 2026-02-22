@@ -25,10 +25,10 @@ concepts:
   - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-verification-of-consciousness-theories]]"
+  - "Contemplative Verification Of Consciousness Theories"
   - "[[the-observer-witness-in-meditation]]"
   - "[[phenomenology-of-returning-attention]]"
-  - "[[paradox-of-effortless-mastery]]"
+  - "Paradox Of Effortless Mastery"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -146,7 +146,7 @@ The connection between contemplative phenomenology and quantum interpretation is
 
 - [[contemplative-epistemology]] — The epistemological framework for treating first-person methods as genuine knowledge sources
 - [[contemplative-evidence-for-consciousness-theories]] — How meditation evidence distinguishes between consciousness theories
-- [[contemplative-verification-of-consciousness-theories]] — Can meditation test philosophical theories of consciousness?
+- Contemplative Verification Of Consciousness Theories — Can meditation test philosophical theories of consciousness?
 - [[introspection]] — The reliability debate and the process/content distinction
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing as dual modes of consciousness
 - [[witness-consciousness]] — The awareness-content distinction in contemplative traditions
@@ -154,7 +154,7 @@ The connection between contemplative phenomenology and quantum interpretation is
 - [[contemplative-neuroscience]] — Neural changes from meditation training
 - [[the-observer-witness-in-meditation]] — Detailed phenomenology of the witness phenomenon
 - [[phenomenology-of-returning-attention]] — The micro-phenomenology of attentional recovery during practice
-- [[paradox-of-effortless-mastery]] — The developmental arc from effortful practice to effortless mastery
+- Paradox Of Effortless Mastery — The developmental arc from effortful practice to effortless mastery
 
 ## References
 

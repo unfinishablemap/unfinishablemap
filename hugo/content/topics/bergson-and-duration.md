@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-02-22 04:32:00+00:00
+ai_modified: 2026-02-22 23:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Henri Bergson's durée reveals time as qualitative flow rather than
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 04:32:00+00:00
+last_deep_review: 2026-02-22 23:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,6 +112,8 @@ The traditions diverge on important points. Whitehead's actual occasions are dis
 Bergson's philosophy, eclipsed for decades by analytic philosophy and phenomenology alike, has undergone significant revival. Several developments make his work freshly relevant:
 
 **The "missing link" in consciousness theories.** Kent and Wittmann (2021) identified experienced duration as "one of the core issues in theories of consciousness." Major theories—IIT, Global Workspace Theory—focus on functional moments of 100-300 milliseconds but cannot explain why experience extends across seconds. Bergson diagnosed this gap a century earlier: theories that spatialize time cannot capture duration.
+
+**The [specious present](/concepts/temporal-consciousness/) corroboration.** The philosophical tradition arrived at Bergson's insight from another direction. E.R. Clay, William James, and Husserl each noted that the experienced present has positive temporal width—the "specious present," now empirically estimated at roughly 300-750 milliseconds of core duration with a broader 2-3 second experiential horizon. Husserl's analysis of *retention* (the just-past lingering in awareness) and *protention* (anticipation of what follows) formalises the same structure Bergson captured with interpenetration: each moment pervaded by what precedes and colours what follows. The specious present names the *fact* that consciousness extends through time; durée names the *qualitative character* of that extension—and both resist reduction to spatial or computational description.
 
 **Process ontology.** The growing interest in process metaphysics—partly through Whitehead, partly through developments in physics—has rehabilitated Bergson's core claim that becoming is more fundamental than being.
 

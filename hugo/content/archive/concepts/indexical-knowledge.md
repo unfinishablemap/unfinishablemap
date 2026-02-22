@@ -8,8 +8,8 @@ archived: true
 archived_date: 2026-02-13 21:34:00+00:00
 author: null
 concepts:
-- '[[indexical-facts]]'
-- '[[self-locating-beliefs]]'
+- Indexical Facts
+- Self Locating Beliefs
 - '[[qualia]]'
 - '[[knowledge-argument]]'
 - '[[haecceity]]'
@@ -51,7 +51,7 @@ Not all indexical knowledge is alike. Three grades can be distinguished, each wi
 
 **Perspectival knowledge** is the weakest grade. Knowing "it is raining here" rather than "it is raining in London" involves an indexical, but the content is readily translatable. If you know where "here" is, the indexical adds convenience, not irreducible content. Most spatial and temporal indexicals fall into this category.
 
-**Self-locating knowledge** is stronger. David Lewis's Two Gods each know every impersonal fact about the universe yet cannot determine which god they are. The mountain god's knowledge "I am the mountain god" cannot be derived from the complete impersonal description. As [self-locating-beliefs](/concepts/indexical-knowledge-and-identity/) explores, this raises the question of whether self-locating knowledge tracks genuine [indexical-facts](/concepts/indexical-knowledge-and-identity/) or merely represents impersonal facts in a distinctive cognitive mode.
+**Self-locating knowledge** is stronger. David Lewis's Two Gods each know every impersonal fact about the universe yet cannot determine which god they are. The mountain god's knowledge "I am the mountain god" cannot be derived from the complete impersonal description. As Self Locating Beliefs explores, this raises the question of whether self-locating knowledge tracks genuine Indexical Facts or merely represents impersonal facts in a distinctive cognitive mode.
 
 **Phenomenal indexical knowledge** is the strongest grade. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [knowledge-argument](/concepts/knowledge-argument/). Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of qualitative experience. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience.
 
@@ -59,7 +59,7 @@ These grades are cumulative. Phenomenal indexical knowledge includes self-locati
 
 ## The Epistemic and Metaphysical Dimensions
 
-The philosophical significance of indexical knowledge turns on a distinction developed in [indexical-facts](/concepts/indexical-knowledge-and-identity/) and [self-locating-beliefs](/concepts/indexical-knowledge-and-identity/):
+The philosophical significance of indexical knowledge turns on a distinction developed in Indexical Facts and Self Locating Beliefs:
 
 **The epistemic thesis**: Indexical knowledge is cognitively irreducible. No amount of impersonal information generates the belief "I am this person." Perry's case and Lewis's Two Gods establish this convincingly. Even philosophers sceptical of indexical *facts* generally accept that indexical *knowledge* has distinctive cognitive and motivational properties.
 
@@ -109,8 +109,8 @@ Indexical knowledge connects to The Unfinishable Map's [tenets](/tenets/) across
 
 ## Further Reading
 
-- [indexical-facts](/concepts/indexical-knowledge-and-identity/) — The ontological status of facts requiring indexicals
-- [self-locating-beliefs](/concepts/indexical-knowledge-and-identity/) — Beliefs about where and who you are in the world
+- Indexical Facts — The ontological status of facts requiring indexicals
+- Self Locating Beliefs — Beliefs about where and who you are in the world
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical knowledge misses
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience
 - [haecceity](/concepts/haecceity/) — Primitive thisness grounding indexical identity

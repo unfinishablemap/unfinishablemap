@@ -11,7 +11,7 @@ archived_date: 2026-01-17 16:00:00+00:00
 author: null
 concepts:
 - '[[interactionist-dualism]]'
-- '[[arguments-for-dualism]]'
+- Arguments For Dualism
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
 - '[[qualia]]'
@@ -218,7 +218,7 @@ The arguments directly support the site's foundational [tenets](/tenets/):
 
 ## Further Reading
 
-- [arguments-for-dualism](/concepts/the-case-for-dualism/) — Comprehensive concept treatment
+- Arguments For Dualism — Comprehensive concept treatment
 - [materialism](/concepts/materialism/) — The case against the main alternative
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position defended here
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail

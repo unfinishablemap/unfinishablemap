@@ -10,7 +10,7 @@ topics:
   - "[[vertiginous-question]]"
   - "[[personal-identity]]"
 concepts:
-  - "[[indexical-facts]]"
+  - "Indexical Facts"
   - "[[haecceity]]"
   - "[[concepts/many-worlds]]"
 related_articles:
@@ -28,7 +28,7 @@ archive_reason: "Coalesced into Indexical Knowledge and Identity"
 original_path: "/concepts/self-locating-beliefs/"
 ---
 
-Self-locating beliefs are beliefs about where or who you are in the world, as opposed to beliefs about what the world is like. You can know every impersonal fact about the universe—every particle's position, every causal relation, every event's timing—and still lack self-locating knowledge. This raises a crucial question: does self-locating knowledge merely represent ordinary facts in a special way, or does it track genuinely irreducible [[indexical-facts|indexical facts]]? The answer matters for consciousness: if indexical facts are ontologically real—not just a mode of knowing impersonal facts—then reality includes more than third-person description can capture.
+Self-locating beliefs are beliefs about where or who you are in the world, as opposed to beliefs about what the world is like. You can know every impersonal fact about the universe—every particle's position, every causal relation, every event's timing—and still lack self-locating knowledge. This raises a crucial question: does self-locating knowledge merely represent ordinary facts in a special way, or does it track genuinely irreducible indexical facts? The answer matters for consciousness: if indexical facts are ontologically real—not just a mode of knowing impersonal facts—then reality includes more than third-person description can capture.
 
 ## The Distinction
 
@@ -70,7 +70,7 @@ These arguments don't constitute proof, but they provide prima facie reasons to 
 
 ## Relation to Indexical Facts
 
-Self-locating beliefs express [[indexical-facts]]—facts that can only be stated using indexicals. Given the arguments above, the Map treats these as genuine features of reality, not merely representational conveniences.
+Self-locating beliefs express Indexical Facts—facts that can only be stated using indexicals. Given the arguments above, the Map treats these as genuine features of reality, not merely representational conveniences.
 
 Christian List argues that irreducible indexical facts provide evidence against "third-personal metaphysics"—any picture that treats reality as fully describable without indexicals. If physics describes the universe in context-free terms, yet self-locating knowledge adds something physics doesn't contain, then physics is incomplete—not merely incomplete as a description, but incomplete as an account of what exists.
 
@@ -150,7 +150,7 @@ Self-locating beliefs connect to several of the Map's [[tenets]]. The connection
 
 ## Further Reading
 
-- [[indexical-facts]] — The broader category of facts that require indexicals to state
+- Indexical Facts — The broader category of facts that require indexicals to state
 - [[haecceity]] — Primitive thisness grounding numerical identity
 - [[vertiginous-question]] — Why am I this conscious being?
 - [[concepts/many-worlds]] — Why self-location poses problems for branching interpretations

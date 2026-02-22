@@ -87,7 +87,7 @@ If consciousness merely correlated with human intelligence—a byproduct with no
 
 A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious processing: only 10% of claimed unconscious effects survive rigorous methodological scrutiny. This matters because the case for understanding without phenomenal consciousness grows weaker as we discover how limited unconscious processing actually is.
 
-[[consciousness-as-intelligence-amplifier|Global Workspace Theory research]] identifies three functions specifically requiring conscious access: *durable information maintenance* (beyond 500ms), *novel combinations of operations*, and *spontaneous intentional action*. (For empirical evidence supporting these distinctions, see [[conscious-vs-unconscious-processing]].) All three are essential to genuine understanding. Understanding persists—you don't grasp a sentence for half a second then lose it. Understanding combines—you integrate meanings from different sources. Understanding initiates—you spontaneously deploy what you know. If these operations require phenomenal consciousness, understanding does too.
+Global Workspace Theory research identifies three functions specifically requiring conscious access: *durable information maintenance* (beyond 500ms), *novel combinations of operations*, and *spontaneous intentional action*. (For empirical evidence supporting these distinctions, see [[conscious-vs-unconscious-processing]].) All three are essential to genuine understanding. Understanding persists—you don't grasp a sentence for half a second then lose it. Understanding combines—you integrate meanings from different sources. Understanding initiates—you spontaneously deploy what you know. If these operations require phenomenal consciousness, understanding does too.
 
 The maintenance/manipulation distinction sharpens this point. Merely holding information can occur unconsciously through activity-silent synaptic traces. But using information—comparing, combining, restructuring—requires conscious reactivation. Semantic binding is manipulation: integrating elements into structured wholes. The 7±2 working memory capacity represents the expanded conscious workspace within which the active manipulation that constitutes understanding occurs.
 
@@ -188,9 +188,9 @@ The phenomenal constitution of meaning connects to all five tenets.
 ## Source Articles
 
 This apex article synthesizes:
-- [[meaning-and-consciousness|Meaning and Consciousness]]
+- Meaning and Consciousness
 - [[language-recursion-and-consciousness|Language, Recursion, and Consciousness]]
-- [[consciousness-as-intelligence-amplifier|Consciousness as Intelligence Amplifier]]
+- Consciousness as Intelligence Amplifier
 - [[baseline-cognition|Baseline Cognition: What Neurons Can Do Without Consciousness]]
 - [[ai-consciousness|AI Consciousness]]
 - [[cognitive-phenomenology|Cognitive Phenomenology]]

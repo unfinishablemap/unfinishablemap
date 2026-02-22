@@ -33,10 +33,10 @@ modified: *id001
 original_path: /topics/contemplative-training-and-phenomenal-access/
 related_articles:
 - '[[tenets]]'
-- '[[contemplative-verification-of-consciousness-theories]]'
+- Contemplative Verification Of Consciousness Theories
 - '[[the-observer-witness-in-meditation]]'
 - '[[phenomenology-of-returning-attention]]'
-- '[[paradox-of-effortless-mastery]]'
+- Paradox Of Effortless Mastery
 superseded_by: /topics/contemplative-evidence-for-consciousness-theories/
 title: Contemplative Training and Phenomenal Access
 topics:
@@ -149,7 +149,7 @@ The connection between contemplative phenomenology and quantum interpretation is
 
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemological framework for treating first-person methods as genuine knowledge sources
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation evidence distinguishes between consciousness theories
-- [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Can meditation test philosophical theories of consciousness?
+- Contemplative Verification Of Consciousness Theories — Can meditation test philosophical theories of consciousness?
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as dual modes of consciousness
 - [witness-consciousness](/concepts/witness-consciousness/) — The awareness-content distinction in contemplative traditions
@@ -157,7 +157,7 @@ The connection between contemplative phenomenology and quantum interpretation is
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Neural changes from meditation training
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Detailed phenomenology of the witness phenomenon
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-phenomenology of attentional recovery during practice
-- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) — The developmental arc from effortful practice to effortless mastery
+- Paradox Of Effortless Mastery — The developmental arc from effortful practice to effortless mastery
 
 ## References
 

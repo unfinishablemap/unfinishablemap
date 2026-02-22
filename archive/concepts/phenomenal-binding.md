@@ -9,7 +9,7 @@ topics:
   - "[[binding-problem]]"
   - "[[unity-of-consciousness]]"
 concepts:
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[multimodal-integration]]"
   - "[[combination-problem]]"
   - "[[global-workspace-theory]]"

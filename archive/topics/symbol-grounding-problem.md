@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[meaning-and-consciousness]]"
+  - "Meaning And Consciousness"
   - "[[machine-consciousness]]"
   - "[[language-recursion-and-consciousness]]"
 concepts:
@@ -123,7 +123,7 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 ## Further Reading
 
 - [[phenomenal-intentionality]] — The thesis that original intentionality requires phenomenal consciousness
-- [[meaning-and-consciousness]] — The phenomenal constitution of semantic content
+- Meaning And Consciousness — The phenomenal constitution of semantic content
 - [[intentionality]] — The aboutness of mental states
 - [[concepts/functionalism]] — Why functional organisation is insufficient for mind
 - [[ai-consciousness]] — Whether artificial systems can have genuine understanding

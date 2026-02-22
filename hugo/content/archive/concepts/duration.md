@@ -19,7 +19,7 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[mental-effort]]'
-- '[[specious-present]]'
+- Specious Present
 - '[[philosophy-of-time]]'
 - '[[process-philosophy]]'
 - '[[combination-problem]]'
@@ -153,7 +153,7 @@ Bergson's durée aligns with all five site tenets:
 
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis: how process philosophy illuminates all five tenets
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and neuroscience of time
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
+- Specious Present — The experienced duration of the present moment
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework; concrescence, prehension, and the combination problem
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model

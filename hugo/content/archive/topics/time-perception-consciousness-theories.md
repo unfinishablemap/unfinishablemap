@@ -13,8 +13,8 @@ concepts:
 - '[[concepts/functionalism]]'
 - '[[integrated-information-theory]]'
 - '[[global-workspace-theory]]'
-- '[[specious-present]]'
-- '[[duration]]'
+- Specious Present
+- Duration
 - '[[phenomenology]]'
 - '[[explanatory-gap]]'
 - '[[illusionism]]'
@@ -49,7 +49,7 @@ Kent and Wittmann's 2021 analysis identifies this as "one of the core issues in 
 
 [Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) quantifies consciousness at single time-slices. The theory calculates integrated information (Φ) for a system's current state, treating consciousness as fundamentally instantaneous. [Global Workspace Theory (GNWT)](/concepts/global-workspace-theory/) explains how information becomes globally available within ~100-300ms windows—the "ignition" period when content enters consciousness. These are the functional moments: discrete episodes of neural processing.
 
-But [temporal consciousness](/concepts/temporal-consciousness/)—the actually lived experience—extends across seconds. When you hear someone speak a sentence, you don't experience isolated syllables. The sentence coheres as a meaningful whole spanning several seconds. [The specious present](/concepts/temporal-consciousness/), variously estimated at 300ms to 3 seconds, contains change and succession as unified experience. You hear a melody *as a melody*, not merely a sequence of separate tones.
+But [temporal consciousness](/concepts/temporal-consciousness/)—the actually lived experience—extends across seconds. When you hear someone speak a sentence, you don't experience isolated syllables. The sentence coheres as a meaningful whole spanning several seconds. The specious present, variously estimated at 300ms to 3 seconds, contains change and succession as unified experience. You hear a melody *as a melody*, not merely a sequence of separate tones.
 
 The explanatory gap is stark: theories explain sub-300ms processing but consciousness extends to multi-second duration. What bridges this gap? Merely saying "memory combines the moments" misses the phenomenology—experienced duration feels continuous, not like pasted-together snapshots.
 
@@ -76,9 +76,9 @@ These form an indivisible structure. The note you're hearing now carries the jus
 
 Temporal binding refers to how the brain integrates events occurring within ~80-100ms windows into unified percepts. Events within this window feel simultaneous; beyond it, they're perceived as successive. This explains audio-visual synchronization (you tolerate ~80ms mismatch), causality perception (cause-effect requires <100ms), and the "moment of nowness."
 
-But temporal binding at 80-100ms scales doesn't explain the 1-3 second [specious present](/concepts/temporal-consciousness/), let alone the multi-second flow of a conversation or the minute-long span of following an argument. Something beyond basic binding must unify these extended durations into coherent experience.
+But temporal binding at 80-100ms scales doesn't explain the 1-3 second specious present, let alone the multi-second flow of a conversation or the minute-long span of following an argument. Something beyond basic binding must unify these extended durations into coherent experience.
 
-[Bergson's concept of durée (duration)](/concepts/temporal-consciousness/) captures this: lived time is qualitatively different from clock time. Physical time consists of instants arranged sequentially like points on a line. Experienced time interpenetrates—the past permeates the present, the future is already anticipated. You can't divide durée into discrete "now-points" without losing what makes it conscious experience.
+Bergson's concept of durée (duration) captures this: lived time is qualitatively different from clock time. Physical time consists of instants arranged sequentially like points on a line. Experienced time interpenetrates—the past permeates the present, the future is already anticipated. You can't divide durée into discrete "now-points" without losing what makes it conscious experience.
 
 ## The Failure of Materialist Accounts
 
@@ -130,7 +130,7 @@ The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds that consciousnes
 
 Is this gap temporary or permanent? Materialists will note that similar gaps existed for perception, memory, and attention before adequate neuroscience emerged. The dualist response: those domains involved explaining *functions*—how information gets processed, stored, retrieved. Temporal phenomenology involves something different: explaining why sequences of processing states should *feel* like flow. Functional explanation may close functional gaps while leaving phenomenal gaps intact.
 
-Physical processes occur *in* time as sequences of states. Conscious experience *has* temporal structure as intrinsic phenomenal feature. [Durée](/concepts/temporal-consciousness/)—Bergson's term for lived time—names an interpenetration where each moment contains the whole past and anticipates the future. Scientific time treats moments as external to each other, arranged sequentially. These are qualitatively different, and whether bridging that qualitative difference is possible remains contested.
+Physical processes occur *in* time as sequences of states. Conscious experience *has* temporal structure as intrinsic phenomenal feature. Durée—Bergson's term for lived time—names an interpenetration where each moment contains the whole past and anticipates the future. Scientific time treats moments as external to each other, arranged sequentially. These are qualitatively different, and whether bridging that qualitative difference is possible remains contested.
 
 The dualist argument is not that neuroscience will never explain temporal processing, but that even complete explanation of processing wouldn't explain what it's *like* to experience duration. This is the familiar hard problem applied specifically to temporal phenomenology.
 
@@ -178,8 +178,8 @@ This analysis connects to all five of the Map's [foundational commitments](/tene
 
 ### Temporal Phenomenology
 - [temporal-consciousness](/concepts/temporal-consciousness/)—comprehensive treatment of temporal structure, specious present, and contemplative access
-- [duration](/concepts/temporal-consciousness/)—Bergson's concept of lived time as qualitative multiplicity
-- [specious-present](/concepts/temporal-consciousness/)—the experienced present's duration and philosophical debates
+- Duration—Bergson's concept of lived time as qualitative multiplicity
+- Specious Present—the experienced present's duration and philosophical debates
 - [philosophy-of-time](/concepts/philosophy-of-time/)—A-theory, B-theory, and the Map's position on temporal becoming
 
 ### Consciousness Theories

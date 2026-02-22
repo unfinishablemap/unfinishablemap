@@ -12,7 +12,7 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-coupling]]"
+  - "Psychophysical Coupling"
   - "[[selection-laws]]"
   - "[[quantum-consciousness]]"
   - "[[mental-causation]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[psychophysical-laws-framework]]"
   - "[[chalmers-psychophysical-coupling]]"
-  - "[[attention-interface-mechanisms]]"
+  - "Attention Interface Mechanisms"
   - "[[psychophysical-coupling-law-mechanisms-2026-01-23]]"
 ai_contribution: 100
 author:
@@ -41,7 +41,7 @@ original_path: "/topics/psychophysical-coupling-law-mechanisms/"
 
 The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences physical outcomes. For this claim to have empirical traction, there must be a mechanism—a specifiable pathway from phenomenal states to physical selections. Five candidate mechanisms have been proposed, but they vary enormously in precision and testability. Only two (Stapp's attention-observation model and Eccles' intention-probability model) approach the specificity required for scientific engagement. This article examines what each mechanism actually proposes at the physical level, what makes a coupling mechanism adequate, and what the current mechanistic landscape reveals about the testability of interactionist dualism.
 
-For the broader framework—why [[psychophysical-laws]] are needed, how supervenience laws differ from [[selection-laws]], and the four families of coupling laws—see [[psychophysical-coupling]] and [[psychophysical-laws-framework]].
+For the broader framework—why [[psychophysical-laws]] are needed, how supervenience laws differ from [[selection-laws]], and the four families of coupling laws—see Psychophysical Coupling and [[psychophysical-laws-framework]].
 
 ## What Makes a Mechanism Adequate?
 
@@ -141,7 +141,7 @@ This tiering matters for calibrating the Map's claims. When the Map claims consc
 
 Even if each candidate mechanism operates independently, a complete coupling law would need to explain how they relate. Consciousness doesn't deploy attention, intention, valence, and qualitative character through separate channels. Willing an action while attending to it while experiencing its felt quality is a unified phenomenon. Any adequate coupling law must eventually address this convergence—how multiple phenomenal dimensions couple to physical selection through a single conscious act.
 
-This convergence problem connects to [[phenomenal-unity]]: the unity of experience may not be decomposable into separate coupling channels. If so, the five-candidate analysis is a useful decomposition for research purposes but may not correspond to how coupling actually works. The coupling law might turn out to be a single principle operating across all phenomenal dimensions, with the five candidates representing different projections of one underlying mechanism.
+This convergence problem connects to Phenomenal Unity: the unity of experience may not be decomposable into separate coupling channels. If so, the five-candidate analysis is a useful decomposition for research purposes but may not correspond to how coupling actually works. The coupling law might turn out to be a single principle operating across all phenomenal dimensions, with the five candidates representing different projections of one underlying mechanism.
 
 Such convergence would be theoretically satisfying—it would move toward the "t-shirt problem" solution Chalmers seeks, a compact systematisation rather than an ad hoc list. But it remains speculative. Current understanding permits only piecemeal analysis of separate channels.
 
@@ -159,12 +159,12 @@ The mechanistic landscape has direct implications for the Map's tenets.
 
 ## Further Reading
 
-- [[psychophysical-coupling]] — The coupling law problem, candidate law families, and comparative analysis
+- Psychophysical Coupling — The coupling law problem, candidate law families, and comparative analysis
 - [[selection-laws]] — The downward direction of psychophysical laws
 - [[psychophysical-laws-framework]] — Integrated overview including supervenience and selection laws
 - [[chalmers-psychophysical-coupling]] — Chalmers' framework and his 2022 quantum development with McQueen
 - [[stapp-quantum-mind]] — Detailed treatment of Stapp's attention-observation mechanism
-- [[attention-interface-mechanisms]] — Where in the brain coupling might occur
+- Attention Interface Mechanisms — Where in the brain coupling might occur
 - [[decoherence]] — The physics objection and biological quantum effects
 - [[mental-effort]] — The phenomenology of effort central to Stapp's model
 - [[tenets]] — The Map's foundational commitments

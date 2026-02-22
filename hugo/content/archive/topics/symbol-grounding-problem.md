@@ -30,7 +30,7 @@ title: The Symbol Grounding Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[meaning-and-consciousness]]'
+- Meaning And Consciousness
 - '[[machine-consciousness]]'
 - '[[language-recursion-and-consciousness]]'
 ---
@@ -125,7 +125,7 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 ## Further Reading
 
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — The thesis that original intentionality requires phenomenal consciousness
-- [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) — The phenomenal constitution of semantic content
+- Meaning And Consciousness — The phenomenal constitution of semantic content
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states
 - [functionalism](/concepts/functionalism/) — Why functional organisation is insufficient for mind
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can have genuine understanding

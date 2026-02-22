@@ -80,7 +80,7 @@ This proposal is highly speculative. If consciousness biases quantum outcomes, p
 
 ## Unity as Sustained Entanglement {#unity}
 
-**Phenomenal property**: [phenomenal unity](/concepts/phenomenal-binding-and-holism/) of consciousness—the binding of sensory modalities into a single experiential field, the integration of working memory contents into unified awareness. **Physical selection**: which neural patterns sustain quantum entanglement rather than classical correlation. **Mechanism**: Phenomenal unity corresponds to quantum entanglement; consciousness sustains coherence against decoherence.
+**Phenomenal property**: phenomenal unity of consciousness—the binding of sensory modalities into a single experiential field, the integration of working memory contents into unified awareness. **Physical selection**: which neural patterns sustain quantum entanglement rather than classical correlation. **Mechanism**: Phenomenal unity corresponds to quantum entanglement; consciousness sustains coherence against decoherence.
 
 Kerskens and Pérez (2022) reported possible entanglement signatures in human brain activity using MRI, with entanglement markers correlating with conscious state—though this single study requires independent replication and has been met with skepticism regarding the interpretation of the MRI signal. If phenomenal unity requires quantum entanglement (not merely classical correlation), then consciousness might actively sustain entanglement against environmental decoherence. Working memory capacity limits might reflect limits on sustainable entanglement rather than classical information bottlenecks.
 

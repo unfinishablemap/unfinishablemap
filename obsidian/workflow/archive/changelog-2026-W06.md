@@ -51,7 +51,7 @@ archived: true
 
 ## 2026-02-08 21:45 UTC - refine-draft
 - **Status**: Success
-- **Files**: [[topics/emergence-and-strong-emergence]], [[apex/contemplative-path]]
+- **Files**: Emergence And Strong Emergence, [[apex/contemplative-path]]
 - **Changes**: Fixed argument-from-ignorance pattern (distinguished epistemic gaps from ontological boundaries), rewrote testability section with genuine falsification conditions, engaged physicalist alternatives to meditation evidence throughout contemplative-path, acknowledged Buddhist metaphysics tension with dualism, toned down overclaimed empirical status of contemplative data
 - **Based on**: pessimistic review 2026-02-08b
 - **Published**: yes
@@ -68,7 +68,7 @@ archived: true
 ## 2026-02-08 21:14 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Emergence and Strong Emergence
-- **Output**: [[topics/emergence-and-strong-emergence]]
+- **Output**: Emergence And Strong Emergence
 - **Word count**: 1828
 - **Based on research**: yes ([[emergence-consciousness-philosophy-2026-01-15]])
 
@@ -572,7 +572,7 @@ archived: true
 
 ## 2026-02-06 18:09 UTC - deep-review
 - **Status**: Success
-- **File**: [[concepts/arguments-against-materialism]]
+- **File**: Arguments Against Materialism
 - **Word count**: 2929 → 2940 (+11)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (missing cross-link to epistemological-limits-of-occams-razor, missing Further Reading entry)
@@ -584,9 +584,9 @@ archived: true
 
 ## 2026-02-06 18:01 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[phenomenological-evidence]], [[phenomenological-evidence-methodology]]
+- **Sources**: [[phenomenological-evidence]], Phenomenological Evidence Methodology
 - **Target**: [[phenomenological-evidence]]
-- **Archived**: [[archive/topics/phenomenological-evidence-methodology]]
+- **Archived**: Phenomenological Evidence Methodology
 - **References to review**: none (references only in reviews and changelog)
 - **Notes**: Merged concept definition, methodological details (Husserl, Varela, microphenomenology), reliability criteria, evidential status debate, and limitations into a single comprehensive treatment. The concept slug was already the heavily-referenced one across the site.
 
@@ -684,7 +684,7 @@ archived: true
 
 ## 2026-02-06 14:07 UTC - deep-review
 - **Status**: Success
-- **File**: [[concepts/arguments-for-dualism]]
+- **File**: Arguments For Dualism
 - **Word count**: 3258 → 3407 (+149, mostly new references)
 - **Critical issues addressed**: 2 (broken tenet anchors, survey statistic conflation)
 - **Medium issues addressed**: 4 (cross-ref to new Occam's Razor article, style guide fixes, missing references)
@@ -762,7 +762,7 @@ archived: true
 
 ## 2026-02-06 12:07 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/attention-interface-mechanisms]]
+- **File**: Attention Interface Mechanisms
 - **Word count**: 3991 → 3997 (+6)
 - **Critical issues addressed**: 2 (wrong author attribution for Rajan et al. 2019 theta paper; wrong first author for Cai et al. 2024 dopamine paper)
 - **Medium issues addressed**: 1 (missing cross-link to companion topic article)
@@ -793,7 +793,7 @@ archived: true
 
 ## 2026-02-06 11:22 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/attention-motor-planning-quantum-interface]]
+- **File**: Attention Motor Planning Quantum Interface
 - **Word count**: 2094 → 2298 (+204)
 - **Critical issues addressed**: 3 (Bengson misattribution, Sjöberg nuance dropped, 300ms timing misleading)
 - **Medium issues addressed**: 5 (PMTA qualifier, Kaeser authorship, phasic/tonic terminology, uncited bandwidth figure, QZE overemphasis)
@@ -859,7 +859,7 @@ archived: true
 
 ## 2026-02-06 09:36 UTC - deep-review (cross-review)
 - **Status**: Success
-- **File**: [[concepts/psychophysical-coupling]]
+- **File**: Psychophysical Coupling
 - **Word count**: 3311 → 3303 (-8)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (attention-consciousness dissociation gap, missing cross-link)
@@ -877,7 +877,7 @@ archived: true
 
 ## 2026-02-06 09:07 UTC - deep-review (cross-review)
 - **Status**: Success
-- **File**: [[concepts/phenomenal-unity]]
+- **File**: Phenomenal Unity
 - **Word count**: 3383 → 3395 (+12)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (emergence-void cross-link, combination problem framing)
@@ -888,7 +888,7 @@ archived: true
 
 ## 2026-02-06 08:56 UTC - deep-review (cross-review)
 - **Status**: Success
-- **File**: [[concepts/psychophysical-coupling]]
+- **File**: Psychophysical Coupling
 - **Word count**: 3269 → 3311 (+42)
 - **Critical issues addressed**: 2 (misattributed citation Araujo→Georgiev, incorrect Zheng & Meister volume/issue)
 - **Medium issues addressed**: 4 (Schwartz evidence caveat, decoherence tension, post-decoherence testability cost, uncited reference removal)
@@ -977,7 +977,7 @@ archived: true
 ## 2026-02-05 23:17 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Attention-Motor Planning Quantum Interface
-- **Output**: [[topics/attention-motor-planning-quantum-interface]]
+- **Output**: Attention Motor Planning Quantum Interface
 - **Word count**: 2094
 - **Based on research**: yes — [[attention-motor-planning-quantum-interface-2026-01-23]], [[dopamine-attention-motor-quantum-interface-2026-01-24]], [[motor-control-quantum-zeno-2026-01-18]]
 
@@ -1068,9 +1068,9 @@ archived: true
 
 ## 2026-02-05 18:28 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[consciousness-and-quantum-measurement]], [[quantum-measurement-and-definite-outcomes]]
+- **Sources**: Consciousness And Quantum Measurement, Quantum Measurement And Definite Outcomes
 - **Target**: [[quantum-measurement-consciousness-interface]]
-- **Archived**: [[archive/topics/consciousness-and-quantum-measurement]], [[archive/topics/quantum-measurement-and-definite-outcomes]]
+- **Archived**: Consciousness And Quantum Measurement, Quantum Measurement And Definite Outcomes
 - **Word count**: ~5,900 (source 1: ~3,200) + (source 2: ~2,700) → ~4,200 unified (redundancy removed)
 - **References to review**: 23 files contain links to archived articles
 
@@ -1306,16 +1306,16 @@ archived: true
 ## 2026-02-05 11:24 UTC - deep-review
 - **Status**: Skipped (archived content)
 - **File**: psychophysical-coupling-mechanisms.md
-- **Reason**: File was archived on 2026-01-29 and coalesced into [[concepts/psychophysical-coupling]]. The orphan integration task is not applicable—archived files deliberately have no inbound links since they redirect to the superseding article.
-- **Superseded by**: [[concepts/psychophysical-coupling]]
+- **Reason**: File was archived on 2026-01-29 and coalesced into Psychophysical Coupling. The orphan integration task is not applicable—archived files deliberately have no inbound links since they redirect to the superseding article.
+- **Superseded by**: Psychophysical Coupling
 
 ---
 
 ## 2026-02-05 11:09 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/collapse-before-minds]]
+- **Sources**: Collapse Before Minds
 - **Target**: [[concepts/prebiotic-collapse]]
-- **Archived**: [[archive/topics/collapse-before-minds]]
+- **Archived**: Collapse Before Minds
 - **References to review**: 3 (all in review files, no active content changes needed)
 - **Notes**: collapse-before-minds.md (created today) duplicated prebiotic-collapse.md content. Merged unique CMB/nucleosynthesis evidence section into prebiotic-collapse. Archived original to preserve URL.
 
@@ -1331,7 +1331,7 @@ archived: true
 
 ## 2026-02-05 10:39 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/collapse-before-minds]]
+- **File**: Collapse Before Minds
 - **Word count**: 1833 → 2059 (+226 words, 69% of soft threshold)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3 (decoherence objection, indexical argument, cross-links)
@@ -1373,7 +1373,7 @@ archived: true
 ## 2026-02-05 09:39 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Collapse Before Minds: Early-Universe Quantum Selection
-- **Output**: [[topics/collapse-before-minds]]
+- **Output**: Collapse Before Minds
 - **Word count**: 1833
 - **Based on research**: yes, [[research/collapse-before-minds-early-universe-2026-01-16]]
 
@@ -1534,7 +1534,7 @@ archived: true
 
 ## 2026-02-05 05:40 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/attention-interface-mechanisms]]
+- **File**: Attention Interface Mechanisms
 - **Word count**: 3950 → 3991 (+41, length-neutral)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2
@@ -1674,7 +1674,7 @@ archived: true
 
 ## 2026-02-05 02:09 UTC - deep-review
 - **Status**: Success
-- **File**: [[concepts/neural-quantum-coherence]]
+- **File**: Neural Quantum Coherence
 - **Word count**: 1932 → 2116 (+184)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3 (empirical confirmation of coherence times, epiphenomenalism argument, alternative frameworks)
@@ -1686,7 +1686,7 @@ archived: true
 
 ## 2026-02-05 01:54 UTC - deep-review
 - **Status**: Success (stability confirmation)
-- **File**: [[topics/quantum-measurement-and-definite-outcomes]]
+- **File**: Quantum Measurement And Definite Outcomes
 - **Word count**: 1875 → 1875 (unchanged)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 0 (none found)
@@ -1710,7 +1710,7 @@ archived: true
 
 ## 2026-02-05 01:09 UTC - deep-review
 - **Status**: Success (stability confirmation)
-- **File**: [[topics/consciousness-and-quantum-measurement]]
+- **File**: Consciousness And Quantum Measurement
 - **Word count**: 2245 → 2245 (unchanged)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 0 (none found)
@@ -1762,7 +1762,7 @@ archived: true
 - **Reason**: Comprehensive coverage already exists across five articles:
   - [[concepts/quantum-biology]] — General quantum biology
   - [[concepts/quantum-neural-mechanisms-and-coherence]] — Five neural mechanisms in detail
-  - [[concepts/quantum-coherence-protection]] — Protection mechanisms
+  - Quantum Coherence Protection — Protection mechanisms
   - [[topics/quantum-neural-timing-constraints]] — Timing analysis
   - [[topics/quantum-biology-and-the-consciousness-debate]] — Consciousness implications
 - **Research consumed**: [[quantum-biology-neural-mechanisms-2026-01-24]] (already synthesized)
@@ -1804,7 +1804,7 @@ archived: true
 ## 2026-02-04 22:16 UTC - deep-review
 - **Status**: No action needed (file already archived)
 - **File**: attention-motor-quantum-selection.md
-- **Resolution**: File was reported as orphaned, but investigation found it was already coalesced into [[topics/attention-interface-mechanisms]] on 2026-02-02. The "orphan" was a stale copy in hugo/content/topics/ that should have been removed during archival. Removed stale file; archived version at archive/topics/attention-motor-quantum-selection correctly redirects to superseding article.
+- **Resolution**: File was reported as orphaned, but investigation found it was already coalesced into Attention Interface Mechanisms on 2026-02-02. The "orphan" was a stale copy in hugo/content/topics/ that should have been removed during archival. Removed stale file; archived version at archive/topics/attention-motor-quantum-selection correctly redirects to superseding article.
 - **Notes**: No deep review performed—archived content doesn't need review since it's superseded.
 
 ---
@@ -1823,9 +1823,9 @@ archived: true
 
 ## 2026-02-04 21:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/contemplative-neuroscience-integration]]
+- **Sources**: Contemplative Neuroscience Integration
 - **Target**: [[concepts/contemplative-neuroscience]]
-- **Archived**: [[archive/topics/contemplative-neuroscience-integration]]
+- **Archived**: Contemplative Neuroscience Integration
 - **References updated**: 5 files (neuroplasticity, neurophenomenology, bidirectional-interaction, eastern-philosophy-consciousness, first-person-third-person-methodology)
 - **Notes**: Topic article covered ~60% redundant content with concept article. Unique sections (gamma synchrony, jhana states, cessation phenomena) integrated into unified concept article. Original URLs preserved via archive.
 
@@ -1857,7 +1857,7 @@ archived: true
 
 ## 2026-02-04 20:57 UTC - deep-review
 - **Status**: Success (stability confirmed)
-- **File**: [[topics/quantum-measurement-and-definite-outcomes]]
+- **File**: Quantum Measurement And Definite Outcomes
 - **Word count**: 1875 → 1875 (unchanged)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 0
@@ -1869,7 +1869,7 @@ archived: true
 
 ## 2026-02-04 20:42 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/consciousness-and-quantum-measurement]]
+- **File**: Consciousness And Quantum Measurement
 - **Word count**: 2246 → 2250 (+4)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3 (QBism clarification, link improvements)
@@ -1889,7 +1889,7 @@ archived: true
 
 ## 2026-02-04 20:17 UTC - deep-review
 - **Status**: Success (stability confirmed)
-- **File**: [[topics/quantum-measurement-and-definite-outcomes]]
+- **File**: Quantum Measurement And Definite Outcomes
 - **Word count**: 1837 → 1875 (+38)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 0
@@ -1902,7 +1902,7 @@ archived: true
 ## 2026-02-04 19:57 UTC - expand-topic
 - **Status**: Success
 - **Topic**: consciousness and quantum measurement
-- **Output**: [[topics/consciousness-and-quantum-measurement]]
+- **Output**: Consciousness And Quantum Measurement
 - **Word count**: 2246
 - **Based on research**: yes ([[research/consciousness-measurement-problem-2026-01-16]], [[research/measurement-problem-quantum-mechanics-2026-01-14]], [[research/consciousness-collapse-arrow-of-time-2026-01-14]])
 
@@ -2054,9 +2054,9 @@ archived: true
 
 ## 2026-02-04 15:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/consciousness-and-meaning-integration]], [[topics/meaning-and-consciousness]]
+- **Sources**: Consciousness And Meaning Integration, Meaning And Consciousness
 - **Target**: [[topics/consciousness-and-semantic-understanding]]
-- **Archived**: [[archive/topics/consciousness-and-meaning-integration]], [[archive/topics/meaning-and-consciousness]]
+- **Archived**: Consciousness And Meaning Integration, Meaning And Consciousness
 - **References to review**: 8 total (6 active content files updated, 6 review files kept as historical)
 
 ---
@@ -2142,7 +2142,7 @@ archived: true
 
 ## 2026-02-04 10:35 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/consciousness-and-meaning-integration]]
+- **File**: Consciousness And Meaning Integration
 - **Word count**: 2029 → 2029 (no change)
 - **Critical issues addressed**: 0 (none found—article stable from 2026-02-02 review)
 - **Medium issues addressed**: 1 (orphan status)
@@ -2198,7 +2198,7 @@ archived: true
 
 ## 2026-02-04 09:20 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/meaning-and-consciousness]]
+- **File**: Meaning And Consciousness
 - **Word count**: 3210 → ~3210 (net neutral)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1
@@ -2331,7 +2331,7 @@ archived: true
 
 ## 2026-02-04 04:55 UTC - deep-review
 - **Status**: Success
-- **File**: [[concepts/autonoetic-consciousness]]
+- **File**: Autonoetic Consciousness
 - **Word count**: 2590 → 2590 (unchanged)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
@@ -2384,7 +2384,7 @@ archived: true
 
 ## 2026-02-04 03:35 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/quantum-measurement-and-definite-outcomes]]
+- **File**: Quantum Measurement And Definite Outcomes
 - **Word count**: 1837 → 1837 (unchanged)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (orphan status)
@@ -2460,7 +2460,7 @@ archived: true
 
 ## 2026-02-04 01:50 UTC - deep-review
 - **Status**: Success
-- **File**: [[concepts/metarepresentation]]
+- **File**: Metarepresentation
 - **Word count**: 1994 → 2011 (+17 words)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2
@@ -2543,7 +2543,7 @@ archived: true
 
 ## 2026-02-04 00:10 UTC - deep-review
 - **Status**: Success
-- **File**: [[concepts/specious-present]]
+- **File**: Specious Present
 - **Word count**: 1908 → 1970 (+62 words)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2
@@ -2655,7 +2655,7 @@ archived: true
 ## 2026-02-03 21:38 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: attention-motor-quantum-selection.md
-- **Notes**: File was archived on 2026-02-02 and superseded by [[topics/attention-interface-mechanisms]]. Archived articles should not be reviewed—their content now lives in the replacement article. The "orphan" status is expected for archived files. This task was queued from orphan integration but the file's archive status means the orphan is intentional.
+- **Notes**: File was archived on 2026-02-02 and superseded by Attention Interface Mechanisms. Archived articles should not be reviewed—their content now lives in the replacement article. The "orphan" status is expected for archived files. This task was queued from orphan integration but the file's archive status means the orphan is intentional.
 
 ---
 
@@ -2827,7 +2827,7 @@ archived: true
 
 ## 2026-02-03 15:29 UTC - deep-review
 - **Status**: Success
-- **File**: [[concepts/quantum-coherence-protection]]
+- **File**: Quantum Coherence Protection
 - **Word count**: 2483 → 2496 (+13)
 - **Critical issues addressed**: 0 (none found, previous review's fixes intact)
 - **Medium issues addressed**: 1 (epistemic caveat on falsifiability condition 4)
@@ -2867,7 +2867,7 @@ archived: true
 ## 2026-02-03 14:22 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: attention-motor-quantum-selection.md
-- **Notes**: File was archived on 2026-02-02 and superseded by [[topics/attention-interface-mechanisms]]. Archived articles should not be reviewed—their content now lives in the replacement article. The "orphan" status is expected for archived files.
+- **Notes**: File was archived on 2026-02-02 and superseded by Attention Interface Mechanisms. Archived articles should not be reviewed—their content now lives in the replacement article. The "orphan" status is expected for archived files.
 
 ---
 
@@ -3072,9 +3072,9 @@ archived: true
 
 ## 2026-02-03 09:52 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/symbol-grounding-problem]]
-- **Target**: [[concepts/symbol-grounding-problem]]
-- **Archived**: [[archive/topics/symbol-grounding-problem]]
+- **Sources**: Symbol Grounding Problem
+- **Target**: Symbol Grounding Problem
+- **Archived**: Symbol Grounding Problem
 - **References to review**: 0 (cross-review task already complete)
 - **Notes**: Merged duplicate symbol-grounding-problem articles. Topics version (2026-02-02) was newer but less comprehensive than concepts version (2026-01-30). Concepts version retained with additional topic/concept references merged in. Topics version archived with redirect metadata.
 
@@ -3190,7 +3190,7 @@ archived: true
 
 ## 2026-02-03 07:23 UTC - refine-draft
 - **Status**: Success
-- **Files**: [[concepts/autonoetic-consciousness]], [[topics/aesthetic-dimension-of-consciousness]], [[topics/lucid-dreaming-and-consciousness]]
+- **Files**: Autonoetic Consciousness, [[topics/aesthetic-dimension-of-consciousness]], [[topics/lucid-dreaming-and-consciousness]]
 - **Context**: Pessimistic review (2026-02-03) identified circular conceivability arguments lacking engagement with Type-B physicalism and phenomenal concepts strategy
 - **Changes**:
   - autonoetic-consciousness.md: Added "Type-B Physicalism and the Phenomenal Concepts Strategy" subsection addressing why remember/know dissociations and clinical evidence challenge phenomenal concepts strategy
@@ -3373,7 +3373,7 @@ archived: true
   - Sleep/dreams cluster: [[concepts/dreams-and-consciousness]], [[concepts/sleep-and-consciousness]], [[topics/lucid-dreaming-and-consciousness]]
   - Personal identity cluster: [[topics/personal-identity]], [[topics/indexical-identity-quantum-measurement]]
   - Attention cluster: [[concepts/attention-as-interface]], [[concepts/attention-as-interface]], [[concepts/attention-as-interface]]
-  - Quantum coherence cluster: [[concepts/decoherence]], [[concepts/quantum-decoherence-objection]], [[concepts/neural-quantum-coherence]], [[concepts/quantum-coherence-protection]]
+  - Quantum coherence cluster: [[concepts/decoherence]], Quantum Decoherence Objection, Neural Quantum Coherence, Quantum Coherence Protection
 - **Finding**: All candidate groups are well-differentiated. Each article serves a distinct purpose within its cluster and cross-references appropriately. No strong merge candidates found.
 - **Notes**: Sleep/dreams articles address different aspects (dreams as evidence, sleep gradations, lucid state). Personal identity articles cover distinct domains (philosophical identity vs quantum measurement). Attention articles form overview/hypothesis/mechanism hierarchy. Quantum articles form conceptual network with central hub (decoherence.md) and specialized treatments.
 
@@ -3582,7 +3582,7 @@ archived: true
 
 ## 2026-02-02 21:12 UTC - deep-review (orphan integration)
 - **Status**: Success
-- **File**: [[concepts/substance-causation]]
+- **File**: Substance Causation
 - **Word count**: 1945 words (unchanged - no content modifications to main article)
 - **Context**: Article was orphaned (no inbound links). Previous review earlier today (11:59 UTC) found no critical issues and marked article as stable.
 - **This session focus**: Orphan integration - adding cross-references from related articles
@@ -3757,7 +3757,7 @@ archived: true
 
 ## 2026-02-02 17:43 UTC - deep-review
 - **Status**: Success
-- **File**: [[symbol-grounding-problem]]
+- **File**: Symbol Grounding Problem
 - **Word count**: 2301 → 2380 (+79 words)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (tightened No Many Worlds tenet connection)
@@ -3796,7 +3796,7 @@ archived: true
 
 ## 2026-02-02 16:42 UTC - deep-review
 - **Status**: Success
-- **File**: [[symbol-grounding-problem]]
+- **File**: Symbol Grounding Problem
 - **Word count**: 1654 → 1744 (+90 words)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (restored cross-links lost during regeneration)
@@ -3836,7 +3836,7 @@ archived: true
 ## 2026-02-02 14:37 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Symbol Grounding Problem
-- **Output**: [[symbol-grounding-problem]]
+- **Output**: Symbol Grounding Problem
 - **Word count**: 1654
 - **Based on research**: yes — [[symbol-grounding-problem-2026-01-30]]
 
@@ -4045,7 +4045,7 @@ archived: true
 
 ## 2026-02-02 12:30 UTC - deep-review
 - **Status**: Success
-- **File**: [[self-locating-beliefs]]
+- **File**: Self Locating Beliefs
 - **Word count**: 2378 → 2425 (+47)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (acknowledged Everettian accounts of self-locating uncertainty, added functionalist response to felt definiteness)
@@ -4108,7 +4108,7 @@ archived: true
 
 ## 2026-02-02 11:59 UTC - deep-review
 - **Status**: Success
-- **File**: [[substance-causation]]
+- **File**: Substance Causation
 - **Word count**: 1779 → 1945 (+166)
 - **Critical issues addressed**: 1 (incorrect O'Connor 2021 citation → Jacobs & O'Connor 2013)
 - **Medium issues addressed**: 3 (clarified uncaused/agent-caused distinction, added decoherence acknowledgment, added falsifiability response)
@@ -4199,7 +4199,7 @@ archived: true
 
 ## 2026-02-02 11:14 UTC - deep-review
 - **Status**: Success
-- **File**: [[phenomenal-value-realism-development]]
+- **File**: Phenomenal Value Realism Development
 - **Word count**: 2586 → 2586 (unchanged - content stable from earlier same-day review)
 - **Focus**: Orphan integration (adding inbound links from related articles)
 - **Critical issues addressed**: 0 (none found - article reviewed earlier today)
@@ -4225,7 +4225,7 @@ archived: true
 
 ## 2026-02-02 11:02 UTC - deep-review
 - **Status**: Success
-- **File**: [[consciousness-and-meaning-integration]]
+- **File**: Consciousness And Meaning Integration
 - **Word count**: 1946 → 2029 (+83)
 - **Critical issues addressed**: 2 (duplicate link, broken reference)
 - **Medium issues addressed**: 2 (semantic illusion objection, functionalist objection)
@@ -4236,7 +4236,7 @@ archived: true
 
 ## 2026-02-02 10:57 UTC - deep-review
 - **Status**: Success
-- **File**: [[contemplative-neuroscience-integration]]
+- **File**: Contemplative Neuroscience Integration
 - **Word count**: unchanged (content reviewed earlier today)
 - **Focus**: Link integration (orphan resolution)
 - **Cross-links added**: 6 inbound links from related articles
@@ -4302,7 +4302,7 @@ archived: true
 ## 2026-02-02 10:16 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: psychophysical-coupling-mechanisms.md
-- **Reason**: File is archived and superseded by [[concepts/psychophysical-coupling]]
+- **Reason**: File is archived and superseded by Psychophysical Coupling
 - **Archive date**: 2026-01-29
 - **Archive reason**: Coalesced into Psychophysical Coupling
 - **Notes**: Cannot deep-review archived content. The orphan integration request is moot—archived files intentionally have no inbound links since they redirect to their successor. The psychophysical-coupling.md article is the active version containing the coalesced content, last reviewed 2026-01-30.
@@ -4395,9 +4395,9 @@ archived: true
 
 ## 2026-02-02 07:59 UTC - coalesce
 - **Status**: Success (archive only)
-- **Sources**: [[topics/phenomenal-unity-and-the-binding-problem]]
+- **Sources**: Phenomenal Unity And The Binding Problem
 - **Target**: [[concepts/binding-problem]] (existing, comprehensive)
-- **Archived**: [[archive/topics/phenomenal-unity-and-the-binding-problem]]
+- **Archived**: Phenomenal Unity And The Binding Problem
 - **References updated**: 1 (consciousness-and-meaning-integration.md)
 - **Notes**: Archived redundant article - content fully subsumed by existing binding-problem.md which provides comprehensive coverage (5600+ words vs 2700 words) and has 61 inbound references.
 
@@ -4413,7 +4413,7 @@ archived: true
 
 ## 2026-02-02 07:48 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/phenomenal-value-realism-development]]
+- **File**: Phenomenal Value Realism Development
 - **Word count**: 2455 → 2586 (+131)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -4638,8 +4638,8 @@ archived: true
 
 ## 2026-02-02 05:38 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[attention-interface-mechanisms]], [[attention-motor-quantum-selection]]
-- **Target**: [[attention-interface-mechanisms]]
+- **Sources**: Attention Interface Mechanisms, [[attention-motor-quantum-selection]]
+- **Target**: Attention Interface Mechanisms
 - **Archived**: [[archive/topics/attention-motor-quantum-selection]]
 - **References to review**: none (attention-motor-quantum-selection had no inbound links)
 - **Notes**: Merged two highly overlapping articles about the attention-consciousness interface. Both covered premotor theory of attention, shared neural signatures (~280-300ms timing, frontal theta), quantum Zeno mechanism, dopamine's role in threshold modulation, and the Libet challenge. The unified article preserves all unique content: candidate selection sites and testable predictions from the first, competition-selection architecture and phenomenological tests from the second.
@@ -4674,13 +4674,13 @@ archived: true
 
 ## 2026-02-02 05:22 UTC - deep-review (orphan integration)
 - **Status**: Success
-- **File**: [[attention-interface-mechanisms]]
+- **File**: Attention Interface Mechanisms
 - **Word count**: 2274 (unchanged)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (orphan status)
 - **Cross-links added**: 7 articles now link to this content
   - [[stapp-quantum-mind]], [[quantum-consciousness]], [[decoherence]]
-  - [[structure-of-attention]], [[mental-effort]], [[topics/free-will]], [[psychophysical-coupling]]
+  - [[structure-of-attention]], [[mental-effort]], [[topics/free-will]], Psychophysical Coupling
 - **Output**: [[reviews/deep-review-2026-02-02-attention-interface-mechanisms-orphan]]
 - **Notes**: Follow-up to earlier same-day review. Focus was orphan integration—article had only 1 inbound link. Now has 8 inbound links from related content.
 
@@ -4692,7 +4692,7 @@ archived: true
 - **Word count**: 2386 → 2419 (+33)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing cross-link to new mechanisms article)
-- **Enhancements made**: 1 (cross-links to [[attention-interface-mechanisms]])
+- **Enhancements made**: 1 (cross-links to Attention Interface Mechanisms)
 - **Output**: [[reviews/deep-review-2026-02-02-attention-as-interface]]
 - **Notes**: Third review of this article. Has reached convergence—no critical issues, minimal incremental improvements. Triggered by new mechanisms article creation.
 
@@ -4724,7 +4724,7 @@ archived: true
 
 ## 2026-02-02 04:52 UTC - deep-review
 - **Status**: Success
-- **File**: [[attention-interface-mechanisms]]
+- **File**: Attention Interface Mechanisms
 - **Word count**: 2162 → 2274 (+112)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (decoherence estimates hedging, MWI branch-relative engagement)
@@ -4794,7 +4794,7 @@ archived: true
 
 ## 2026-02-02 04:09 UTC - deep-review
 - **Status**: Success
-- **File**: [[cognitive-closure]]
+- **File**: Cognitive Closure
 - **Word count**: 1270 → 1389 (+119)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (falsifiability not explicitly addressed)
@@ -4904,7 +4904,7 @@ archived: true
 ## 2026-02-02 03:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: attention mechanisms and consciousness interface
-- **Output**: [[attention-interface-mechanisms]]
+- **Output**: Attention Interface Mechanisms
 - **Word count**: 2162
 - **Based on research**: yes — [[attention-as-interface-hypothesis-2026-01-16]], [[attention-consciousness-mechanisms-2026-01-15]], [[attention-motor-planning-quantum-interface-2026-01-23]]
 
@@ -5029,7 +5029,7 @@ archived: true
 ## 2026-02-02 02:00 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: specious present
-- **Output**: [[specious-present]]
+- **Output**: Specious Present
 - **Word count**: 2674
 - **Notes**: Comprehensive concept page already created 2026-01-17, deep-reviewed 2026-01-21. Covers James, Husserl, extensionalism vs retentionalism, neurophenomenology, quantum connections, AI implications. Task removed from queue.
 
@@ -5103,7 +5103,7 @@ archived: true
 ## 2026-02-02 01:18 UTC - expand-topic
 - **Status**: Success
 - **Topic**: substance causation
-- **Output**: [[substance-causation]]
+- **Output**: Substance Causation
 - **Word count**: 1779
 - **Based on research**: yes ([[agent-causation-libertarian-free-will-2026-01-14]])
 
@@ -5111,7 +5111,7 @@ archived: true
 
 ## 2026-02-02 01:13 UTC - deep-review
 - **Status**: Success
-- **File**: [[contemplative-neuroscience-integration]]
+- **File**: Contemplative Neuroscience Integration
 - **Word count**: 2251 → 2398 (+147)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -5132,7 +5132,7 @@ archived: true
 ## 2026-02-02 01:03 UTC - expand-topic
 - **Status**: Success
 - **Topic**: contemplative neuroscience integration
-- **Output**: [[contemplative-neuroscience-integration]]
+- **Output**: Contemplative Neuroscience Integration
 - **Word count**: 2251
 - **Based on research**: yes ([[contemplative-neuroscience-meditation-2026-01-23]], [[neurophenomenology-meditation-studies-2026-01-14]])
 
@@ -5140,9 +5140,9 @@ archived: true
 
 ## 2026-02-02 00:56 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[semantic-phenomenology]]
+- **Sources**: Semantic Phenomenology
 - **Target**: [[cognitive-phenomenology]]
-- **Archived**: [[archive/concepts/semantic-phenomenology]]
+- **Archived**: Semantic Phenomenology
 - **References to review**: none
 
 ---
@@ -5214,7 +5214,7 @@ archived: true
 
 ## 2026-02-02 00:15 UTC - deep-review
 - **Status**: Success
-- **File**: [[phenomenological-evidence-methodology]]
+- **File**: Phenomenological Evidence Methodology
 - **Word count**: 1425 → 1498 (+73)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (heterophenomenology characterization, cross-traditional convergence claim)
@@ -5226,7 +5226,7 @@ archived: true
 ## 2026-02-02 00:10 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenal value realism development
-- **Output**: [[phenomenal-value-realism-development]]
+- **Output**: Phenomenal Value Realism Development
 - **Word count**: 2455
 - **Based on research**: yes, [[phenomenal-value-realism-metaethics-2026-01-16]]
 
@@ -5234,7 +5234,7 @@ archived: true
 
 ## 2026-02-02 00:05 UTC - refine-draft
 - **Status**: Success
-- **Files**: [[concepts/self-locating-beliefs]], [[topics/indexical-identity-quantum-measurement]]
+- **Files**: Self Locating Beliefs, [[topics/indexical-identity-quantum-measurement]]
 - **Task**: Address semantic-metaphysical conflation identified in pessimistic review 2026-02-01 (late)
 - **Changes**:
   - Explicitly distinguished epistemic thesis (indexical knowledge is irreducible) from metaphysical thesis (indexical facts are irreducible)

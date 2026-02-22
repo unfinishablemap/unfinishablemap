@@ -23,7 +23,7 @@ concepts:
 - '[[downward-causation]]'
 - '[[agent-causation]]'
 - '[[varieties-of-unity]]'
-- '[[neural-binding-mechanisms]]'
+- Neural Binding Mechanisms
 - '[[stapp-quantum-mind]]'
 - '[[emergence-void]]'
 created: 2026-01-19
@@ -53,7 +53,7 @@ This article focuses on *why* experience is unified—the explanatory challenge 
 
 ## The Phenomenon
 
-Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). A parallel problem arises for *meaning*: [meaning integration](/topics/consciousness-and-semantic-understanding/) asks how consciousness weaves disparate semantic elements into unified comprehension—the unity of understanding, not just perception.
+Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). A parallel problem arises for *meaning*: meaning integration asks how consciousness weaves disparate semantic elements into unified comprehension—the unity of understanding, not just perception.
 
 **Synchronic unity**: At any moment, all your experiences belong to one consciousness. Visual perception, auditory sensation, emotional feeling, and cognitive thought are unified rather than isolated. There is something it is like to have *all of them together*.
 
@@ -120,7 +120,7 @@ The Map's [interactionist framework](/concepts/interactionist-dualism/) avoids b
 
 ## Why Classical Mechanisms Fail
 
-Classical approaches to explaining unity share a structural limitation: they describe how separate things relate without explaining how separate things become one thing. See [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) for detailed analysis of specific mechanisms.
+Classical approaches to explaining unity share a structural limitation: they describe how separate things relate without explaining how separate things become one thing. See Neural Binding Mechanisms for detailed analysis of specific mechanisms.
 
 ### The Core Problem
 
@@ -228,7 +228,7 @@ Phenomenal unity illuminates why the Map's [tenets](/tenets/) take the positions
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis: how process philosophy (Whitehead, Bergson) illuminates phenomenal unity through its account of actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
 - [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — The parallel problem for meaning: how semantic elements combine into unified understanding
-- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical binding mechanisms and why quantum entanglement succeeds where they fail
+- Neural Binding Mechanisms — Classical binding mechanisms and why quantum entanglement succeeds where they fail
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — 2022-2025 experimental support for quantum mechanisms
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge

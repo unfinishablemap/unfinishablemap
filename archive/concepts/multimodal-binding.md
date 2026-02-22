@@ -14,7 +14,7 @@ original_path: "/concepts/multimodal-binding/"
 topics: []
 concepts:
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[quantum-consciousness]]"
   - "[[access-consciousness]]"
   - "[[concepts/quantum-neural-mechanisms-and-coherence]]"
@@ -142,7 +142,7 @@ Multimodal binding connects to all five tenets:
 ## Further Reading
 
 - [[binding-problem]] — The general problem of how distributed processing produces unified experience
-- [[phenomenal-unity]] — The philosophical framework for understanding experiential unity
+- Phenomenal Unity — The philosophical framework for understanding experiential unity
 - [[concepts/quantum-neural-mechanisms-and-coherence]] — Empirical support for quantum mechanisms in neural binding
 - [[quantum-consciousness]] — How quantum collapse might address the hard problem
 - [[temporal-consciousness]] — How consciousness structures temporal experience, connecting to cross-modal temporal binding

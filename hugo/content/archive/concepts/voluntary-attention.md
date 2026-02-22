@@ -15,7 +15,7 @@ concepts:
 - '[[attention-motor-quantum-interface]]'
 - '[[attention]]'
 - '[[attention-as-interface]]'
-- '[[interface-locality]]'
+- Interface Locality
 - '[[mental-effort]]'
 - '[[agent-causation]]'
 - '[[motor-selection]]'

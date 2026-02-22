@@ -23,7 +23,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[decoherence]]"
   - "[[stapp-quantum-mind]]"
-  - "[[phenomenal-unity]]"
+  - "Phenomenal Unity"
   - "[[neural-correlates-of-consciousness]]"
   - "[[mysterianism]]"
   - "[[unity-of-consciousness]]"
@@ -236,7 +236,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - [[mental-effort]] — Stapp's quantum Zeno framework for voluntary attention
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
 - [[decoherence]] — Comprehensive analysis of the decoherence objection
-- [[phenomenal-unity]] — What quantum binding aims to explain
+- Phenomenal Unity — What quantum binding aims to explain
 - [[illusionism]] — The challenge that phenomenal unity might be illusory
 - [[mysterianism]] — The possibility that consciousness-quantum connection exceeds human cognitive reach
 - [[tenets]] — The Map's foundational commitments

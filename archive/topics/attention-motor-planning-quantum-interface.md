@@ -21,7 +21,7 @@ concepts:
   - "[[mental-effort]]"
 related_articles:
   - "[[tenets]]"
-  - "[[attention-interface-mechanisms]]"
+  - "Attention Interface Mechanisms"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
   - "[[dopamine-attention-motor-quantum-interface-2026-01-24]]"
   - "[[motor-control-quantum-zeno-2026-01-18]]"
@@ -40,7 +40,7 @@ original_path: "/topics/attention-motor-planning-quantum-interface/"
 
 Neuroscience has discovered that attention and motor planning are not separate systems. The premotor theory of attention demonstrates they share neural substrates—directing attention *is* preparing to act. The Unfinishable Map argues this convergence transforms the mind-body problem. If consciousness influences matter through attention (the [[attention-as-interface|attention-as-interface hypothesis]]), and attention is motor planning, then a single interface connects mind to world. Consciousness selects what to perceive and what to do through the same mechanism, at the same neural sites, on the same timescale.
 
-This article examines the philosophical significance of the convergence. The mechanistic details are treated in [[attention-motor-quantum-interface]] and [[motor-selection]]; the candidate neural sites and testable predictions are covered in [[attention-interface-mechanisms]]. What matters here is the argument: what does the attention-motor convergence tell us about the relationship between consciousness and the physical world?
+This article examines the philosophical significance of the convergence. The mechanistic details are treated in [[attention-motor-quantum-interface]] and [[motor-selection]]; the candidate neural sites and testable predictions are covered in Attention Interface Mechanisms. What matters here is the argument: what does the attention-motor convergence tell us about the relationship between consciousness and the physical world?
 
 ## The Convergence
 
@@ -144,7 +144,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 - [[attention-motor-quantum-interface]] — Concept-level treatment of the unified interface
 - [[motor-selection]] — Motor selection and the premotor theory in detail
-- [[attention-interface-mechanisms]] — Candidate sites, timing constraints, and predictions
+- Attention Interface Mechanisms — Candidate sites, timing constraints, and predictions
 - [[attention-as-interface]] — The attention-as-interface hypothesis
 - [[structure-of-attention]] — Broader framework for understanding attention
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation

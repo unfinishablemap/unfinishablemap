@@ -38,9 +38,9 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[attention-consciousness-dissociation]]"
   - "[[embodied-consciousness-and-the-interface]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
-  - "[[phenomenology-of-skill-transition]]"
-  - "[[paradox-of-effortless-mastery]]"
+  - "Contemplative Training And Phenomenal Access"
+  - "Phenomenology Of Skill Transition"
+  - "Paradox Of Effortless Mastery"
   - "[[habituation-void]]"
   - "[[conscious-vs-unconscious-processing]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
@@ -118,7 +118,7 @@ Expert performance presents a paradox. The expert is not unconscious during skil
 
 If the skill runs automatically, what is consciousness *doing* during expert performance? The Map suggests consciousness operates at a higher level of the hierarchy—not controlling individual movements but maintaining overall intentional direction, monitoring for anomalies, and remaining ready to intervene. The pianist's consciousness shapes phrasing and expression while leaving finger placement to procedural systems. The surgeon's awareness tracks diagnostic judgment while motor execution proceeds below reflective attention.
 
-The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation. When an expert transitions to a new style, consciousness must re-enter the procedural level, producing the instability described in the [[phenomenology-of-skill-transition|phenomenology of skill transition]]. The [[phenomenology-of-flow-states|flow state]] represents the fullest expression of the hierarchical shift—heightened engagement with reduced self-monitoring. The [[choking-phenomenon-mental-causation|choking phenomenon]] reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
+The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation. When an expert transitions to a new style, consciousness must re-enter the procedural level, producing the instability described in the phenomenology of skill transition. The [[phenomenology-of-flow-states|flow state]] represents the fullest expression of the hierarchical shift—heightened engagement with reduced self-monitoring. The [[choking-phenomenon-mental-causation|choking phenomenon]] reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
 
 ## What Would Challenge This View?
 
@@ -144,12 +144,12 @@ The strongest physicalist counterargument is that executive attention networks, 
 
 - [[choking-phenomenon-mental-causation]] — When consciousness disrupts the body it trained
 - [[phenomenology-of-flow-states]] — The fullest expression of body schema integration
-- [[phenomenology-of-skill-transition]] — What happens when established skills must be restructured
-- [[paradox-of-effortless-mastery]] — The puzzle of consciousness building systems that replace it
+- Phenomenology Of Skill Transition — What happens when established skills must be restructured
+- Paradox Of Effortless Mastery — The puzzle of consciousness building systems that replace it
 - [[embodied-consciousness-and-the-interface]] — The 4E framework and the interface reading
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
 - [[phenomenology-of-intellectual-effort]] — The cognitive dimension of effortful learning
-- [[contemplative-training-and-phenomenal-access]] — Meditation as a parallel case of trained skill
+- Contemplative Training And Phenomenal Access — Meditation as a parallel case of trained skill
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
 - [[phenomenology-of-agency-vs-passivity]] — The felt difference between authored and discovered action
 

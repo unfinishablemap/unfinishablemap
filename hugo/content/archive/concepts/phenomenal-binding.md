@@ -8,7 +8,7 @@ archived: true
 archived_date: 2026-01-26 14:30:00+00:00
 author: null
 concepts:
-- '[[phenomenal-unity]]'
+- Phenomenal Unity
 - '[[multimodal-integration]]'
 - '[[combination-problem]]'
 - '[[global-workspace-theory]]'

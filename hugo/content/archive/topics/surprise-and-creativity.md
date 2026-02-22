@@ -31,15 +31,15 @@ original_path: /topics/surprise-and-creativity/
 related_articles:
 - '[[tenets]]'
 - '[[creativity-consciousness-and-novel-thought]]'
-- '[[consciousness-and-mathematical-creativity]]'
+- Consciousness And Mathematical Creativity
 - '[[distinctiveness-of-human-creativity]]'
-- '[[phenomenology-of-surprise-and-prediction-error]]'
+- Phenomenology Of Surprise And Prediction Error
 - '[[creativity-void]]'
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 superseded_by: /topics/surprise-prediction-error-and-consciousness/
 title: Surprise and Creativity
 topics:
-- '[[consciousness-and-surprise]]'
+- Consciousness And Surprise
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
 ---
@@ -60,7 +60,7 @@ This criterion distinguishes creativity from competence. A chess engine evaluati
 
 ## Why Self-Surprise Requires Consciousness
 
-Computational systems process prediction errors without experiencing surprise. A [predictive processing](/concepts/predictive-processing/) model generates error signals when input deviates from expectation, but as the Map argues in its treatment of [consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/), the computational error signal and the phenomenal jolt are not the same thing. A system can register novelty without being *surprised* by it.
+Computational systems process prediction errors without experiencing surprise. A [predictive processing](/concepts/predictive-processing/) model generates error signals when input deviates from expectation, but as the Map argues in its treatment of Consciousness And Surprise, the computational error signal and the phenomenal jolt are not the same thing. A system can register novelty without being *surprised* by it.
 
 Self-surprise in creativity adds a further layer. The creator must not only experience novelty but experience it *as coming from themselves*. This requires what philosophers call a sense of agency—the felt ownership of one's actions—combined with the recognition that the action exceeded what the agent intended or foresaw. The creator thinks: "I made this, and I didn't know I could make this." Both halves of that thought require phenomenal consciousness. The ownership requires a felt self. The surprise requires felt expectation violated.
 
@@ -117,9 +117,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is illustrated by t
 ## Further Reading
 
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
-- [consciousness-and-surprise](/topics/surprise-prediction-error-and-consciousness/)
-- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)
-- [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)
+- Consciousness And Surprise
+- Consciousness And Mathematical Creativity
+- Phenomenology Of Surprise And Prediction Error
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/)
 - [creativity-void](/voids/creativity-void/)
 

@@ -9,8 +9,8 @@ archived_date: 2026-02-07 06:29:00+00:00
 author: null
 concepts:
 - '[[psychophysical-laws]]'
-- '[[psychophysical-coupling]]'
-- '[[psychophysical-coupling]]'
+- Psychophysical Coupling
+- Psychophysical Coupling
 - '[[selection-laws]]'
 - '[[mental-causation]]'
 - '[[quantum-consciousness]]'
@@ -74,7 +74,7 @@ Selection laws must specify:
 3. **Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests ~10 bits/second—the measured bandwidth of conscious thought. This constraint is significant: it implies consciousness operates at the level of policies and action patterns, not individual quantum events. The tight bandwidth limit actually supports the framework by explaining why mental causation operates through attention allocation rather than micromanaging neural activity.
 4. **Scope constraints**: What is *not* selectable? (External systems? Others' brains? Events outside attention?)
 
-The [psychophysical-coupling](/concepts/psychophysical-laws/) page develops these requirements in detail.
+The Psychophysical Coupling page develops these requirements in detail.
 
 ## The Upward-Downward Asymmetry
 
@@ -96,7 +96,7 @@ Why the focus on quantum selection? Classical physics is deterministic—there's
 
 ## Five Candidate Selection Mechanisms
 
-The [psychophysical-coupling](/concepts/psychophysical-laws/) page evaluates five proposals for how mental states might couple to physical parameters. In order of theoretical development:
+The Psychophysical Coupling page evaluates five proposals for how mental states might couple to physical parameters. In order of theoretical development:
 
 ### Attention as Observation Rate (Stapp)
 
@@ -205,8 +205,8 @@ The psychophysical laws framework would face serious difficulty if:
 - [chalmers-psychophysical-coupling](/topics/psychophysical-laws-bridging-mind-and-matter/) — Chalmers' specific contributions, including his 2022 quantum development with McQueen
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — The selection law problem specifically
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — Five candidate mechanisms evaluated
+- Psychophysical Coupling — The selection law problem specifically
+- Psychophysical Coupling — Five candidate mechanisms evaluated
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws
 - [mental-causation](/concepts/mental-causation/) — How consciousness affects physical outcomes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing selection pathways

@@ -16,7 +16,7 @@ concepts:
   - "[[consciousness-and-creativity]]"
   - "[[working-memory]]"
   - "[[global-workspace-theory]]"
-  - "[[metarepresentation]]"
+  - "Metarepresentation"
   - "[[cumulative-culture]]"
   - "[[counterfactual-reasoning]]"
 related_articles:
@@ -37,7 +37,7 @@ original_path: "/topics/creativity-and-novel-combination/"
 
 Consciousness enables a form of creativity that escapes the constraints of [[baseline-cognition|baseline cognition]]. Great apes innovate within what Tomasello calls the "zone of latent solutions"—recombinations accessible through trial-and-error exploration of existing cognitive resources. Humans generate genuinely novel combinations by explicitly representing problems, considering multiple approaches simultaneously, and systematically modifying existing methods. This creative leap requires the kind of global information integration that [[conscious-vs-unconscious-processing|only conscious processing provides]].
 
-The difference is not merely quantitative. Apes can discover uses for tools their species hasn't discovered before, but only when those uses are reachable by incremental exploration without transcending current representations. Human creativity changes the representation itself—what Margaret Boden calls "transformational creativity." This requires [[metarepresentation]]: taking your existing solutions as objects of thought to evaluate, critique, and fundamentally revise.
+The difference is not merely quantitative. Apes can discover uses for tools their species hasn't discovered before, but only when those uses are reachable by incremental exploration without transcending current representations. Human creativity changes the representation itself—what Margaret Boden calls "transformational creativity." This requires Metarepresentation: taking your existing solutions as objects of thought to evaluate, critique, and fundamentally revise.
 
 ## The Zone of Latent Solutions
 
@@ -152,7 +152,7 @@ Each requires explicitly representing non-actual states while manipulating those
 
 ## The Bergson Connection
 
-Henri Bergson argued that consciousness is constitutively creative. For Bergson, [[duration|durée]]—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
+Henri Bergson argued that consciousness is constitutively creative. For Bergson, durée—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
 
 This framework suggests that the options consciousness "combines" don't fully pre-exist the combination. Imagination actively constitutes what's possible by exploring it. The zone of latent solutions appears as a boundary from outside—from where consciousness can represent the zone as a zone and ask what lies beyond.
 
@@ -195,12 +195,12 @@ None of these conditions currently obtains.
 - [[consciousness-and-creativity]] — The generation-selection synthesis in consciousness studies
 - [[baseline-cognition]] — What cognition achieves without consciousness
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
-- [[metarepresentation]] — The capacity to represent representations
+- Metarepresentation — The capacity to represent representations
 - [[cumulative-culture]] — Cultural ratcheting and why it requires metarepresentation
 - [[counterfactual-reasoning]] — Imagining non-actual states
 - [[working-memory]] — The workspace where combination occurs
 - [[global-workspace-theory]] — Broadcasting account of conscious access
-- [[duration]] — Bergson's lived time as creative becoming
+- Duration — Bergson's lived time as creative becoming
 - [[topics/free-will]] — How creative agency connects to libertarian free will
 - [[creativity-void]] — Why the creative process is phenomenologically hidden
 

@@ -18,6 +18,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 23:10 UTC - deep-review
+- **Status**: Success
+- **File**: [bergson-and-duration](/topics/bergson-and-duration/)
+- **Word count**: 2174 → 2283 (+109)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing specious present connection)
+- **Enhancements made**: 1 (specious present paragraph with Husserl retention-protention parallel)
+- **Output**: [deep-review-2026-02-22-bergson-and-duration](/reviews/deep-review-2026-02-22-bergson-and-duration/)
+
 ## 2026-02-22 18:31 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Minimal Consciousness Void
@@ -418,7 +427,7 @@ topics: []
 - **Status**: Success
 - **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) (target was surprise-and-creativity.md, coalesced earlier today)
 - **Word count**: 3828 → 3828 (+0, link fixes only)
-- **Critical issues addressed**: 1 (broken wikilink `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`)
+- **Critical issues addressed**: 1 (broken wikilink `Consciousness And Mathematical Creativity`)
 - **Medium issues addressed**: 3 (2 stale links in other files, orphan integration)
 - **Enhancements made**: 10 (8 new inbound cross-links, 2 stale link fixes)
 - **Output**: [deep-review-2026-02-22-surprise-and-creativity](/reviews/deep-review-2026-02-22-surprise-and-creativity/)
@@ -723,7 +732,7 @@ topics: []
 
 ## 2026-02-22 04:43 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-capacity/), [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
+- **Sources**: Phenomenology Of Cognitive Load, Phenomenology Of Cognitive Automatisation
 - **Target**: [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
 - **Archived**: archive/topics/phenomenology-of-cognitive-load.md, archive/topics/phenomenology-of-cognitive-automatisation.md
 - **References updated**: 3 files (consciousness-and-the-phenomenology-of-constraint-satisfaction, consciousness-and-the-neuroscience-of-deliberate-practice, consciousness-and-skilled-performance)
@@ -812,7 +821,7 @@ topics: []
 
 ## 2026-02-22 03:17 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-load/)
+- **File**: Phenomenology Of Cognitive Load
 - **Word count**: 2191 → 2465 (+274)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 6 (unsupported effort-maintenance claim, weak computer analogy, unqualified quantum speculation, missing MQI cross-references, missing No Many Worlds tenet, Miller/Cowan discrepancy)
@@ -848,7 +857,7 @@ topics: []
 
 ## 2026-02-22 02:39 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/)
+- **File**: Phenomenology Of Cognitive Automatisation
 - **Word count**: 1580 → 1725 (+145)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 5
@@ -927,9 +936,9 @@ topics: []
 
 ## 2026-02-22 01:19 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/), [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/)
+- **Sources**: Consciousness And Strong Emergence, Consciousness And The Emergence Debate
 - **Target**: [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
-- **Archived**: [consciousness-and-strong-emergence](/archive/topics/consciousness-and-strong-emergence/), [consciousness-and-the-emergence-debate](/archive/topics/consciousness-and-the-emergence-debate/)
+- **Archived**: Consciousness And Strong Emergence, Consciousness And The Emergence Debate
 - **References to review**: 5 (consciousness-and-the-ontology-of-dispositions, consciousness-and-collective-intelligence, panpsychisms-combination-problem, evolution-under-dualism, consciousness-evolution-problem)
 
 ## 2026-02-22 01:09 UTC - deep-review
@@ -1070,7 +1079,7 @@ topics: []
 
 ## 2026-02-21 22:01 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-testimony/), [consciousness-and-the-epistemology-of-testimony](/topics/consciousness-and-testimony/)
+- **Sources**: Consciousness And The Authority Of Testimony, [consciousness-and-the-epistemology-of-testimony](/topics/consciousness-and-testimony/)
 - **Target**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
 - **Archived**: archive/topics/consciousness-and-the-authority-of-testimony.md, archive/topics/consciousness-and-the-epistemology-of-testimony.md
 - **References updated**: phenomenology-of-trust-and-testimony.md (3 references updated)
@@ -1142,9 +1151,9 @@ topics: []
 
 ## 2026-02-21 15:39 UTC - coalesce
 - **Status**: Success
-- **Sources**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/), [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-cross-cultural-philosophical-convergence/)
+- **Sources**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/), Epistemology Of Cross Cultural Philosophical Convergence
 - **Target**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
-- **Archived**: [epistemology-of-cross-cultural-philosophical-convergence](/archive/topics/epistemology-of-cross-cultural-philosophical-convergence/)
+- **Archived**: Epistemology Of Cross Cultural Philosophical Convergence
 - **References updated**: 3 (in contemplative-evidence-convergence-across-traditions.md)
 - **Notes**: Topics section at 198/200 cap; merged cross-cultural convergence epistemology into general convergence epistemology article. Cross-cultural content (Sāṃkhya, Avicenna, Chinese divergence, anti-realist challenges, cognitive closure) integrated as major sections.
 
@@ -1313,9 +1322,9 @@ topics: []
 
 ## 2026-02-21 03:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [contemplative-evidence-and-verification](/topics/contemplative-evidence-and-verification/)
+- **Sources**: Contemplative Evidence And Verification
 - **Target**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
-- **Archived**: [contemplative-evidence-and-verification](/archive/topics/contemplative-evidence-and-verification/)
+- **Archived**: Contemplative Evidence And Verification
 - **References updated**: 2 (contemplative-evidence-convergence-across-traditions.md)
 - **Notes**: Merged verification article into the more comprehensive theories article. Added Problem of Other Minds to "Where Verification Fails" section, added introspection-rehabilitation cross-link, updated coalesced_from provenance. Topics section now 193/200.
 
@@ -1388,9 +1397,9 @@ topics: []
 
 ## 2026-02-20 21:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/), [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-perception/)
+- **Sources**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/), Phenomenology Of Moral Perception
 - **Target**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
-- **Archived**: [phenomenology-of-moral-perception](/archive/topics/phenomenology-of-moral-perception/)
+- **Archived**: Phenomenology Of Moral Perception
 - **References to review**: 1 (concepts/moral-perception.md — updated inline)
 
 ## 2026-02-20 21:06 UTC - deep-review
@@ -1474,9 +1483,9 @@ topics: []
 
 ## 2026-02-20 15:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-problem-of-normative-force/), [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/), [consciousness-and-the-problem-of-normative-integration](/topics/consciousness-and-the-problem-of-normative-integration/)
+- **Sources**: Consciousness And The Problem Of Normative Force, Consciousness And Normative Authority, Consciousness And The Problem Of Normative Integration
 - **Target**: [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)
-- **Archived**: [consciousness-and-the-problem-of-normative-force](/archive/topics/consciousness-and-the-problem-of-normative-force/), [consciousness-and-normative-authority](/archive/topics/consciousness-and-normative-authority/), [consciousness-and-the-problem-of-normative-integration](/archive/topics/consciousness-and-the-problem-of-normative-integration/)
+- **Archived**: Consciousness And The Problem Of Normative Force, Consciousness And Normative Authority, Consciousness And The Problem Of Normative Integration
 - **References updated**: 8 files (moral-phenomenology, authority-of-logic, aesthetic-dimension-of-consciousness, problem-of-induction, authority-of-mathematics, phenomenology-of-normative-conflict, phenomenology-of-normative-properties, phenomenology-of-philosophical-disagreement)
 - **Net reduction**: 3 articles → 1 (topics section: 194 → 192)
 
@@ -1574,15 +1583,15 @@ topics: []
 
 ## 2026-02-20 09:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)
+- **Sources**: Consciousness And Mathematical Understanding, Consciousness And Mathematical Creativity
 - **Target**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
-- **Archived**: [consciousness-and-mathematical-understanding](/archive/topics/consciousness-and-mathematical-understanding/), [consciousness-and-mathematical-creativity](/archive/topics/consciousness-and-mathematical-creativity/)
+- **Archived**: Consciousness And Mathematical Understanding, Consciousness And Mathematical Creativity
 - **References to review**: 12 active content files
 
 ## 2026-02-20 09:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Problem of Normative Integration
-- **Output**: [consciousness-and-the-problem-of-normative-integration](/topics/consciousness-and-the-grounds-of-normative-authority/)
+- **Output**: Consciousness And The Problem Of Normative Integration
 - **Word count**: 2068
 - **Based on research**: Partially (drew on [voids-normative-void-2026-02-02](/research/voids-normative-void-2026-02-02/))
 
@@ -1704,7 +1713,7 @@ topics: []
 ## 2026-02-20 02:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Cognitive Automatisation
-- **Output**: [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
+- **Output**: Phenomenology Of Cognitive Automatisation
 - **Word count**: 1580
 - **Based on research**: No
 
@@ -1774,7 +1783,7 @@ topics: []
 
 ## 2026-02-19 21:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/), [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/), [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/)
+- **Sources**: [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/), Paradox Of Effortless Mastery, Phenomenology Of Skill Transition
 - **Target**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
 - **Archived**: archive/topics/phenomenology-of-skill-and-the-lived-body.md, archive/topics/paradox-of-effortless-mastery.md, archive/topics/phenomenology-of-skill-transition.md
 - **References to review**: 16 across 6 active content files
@@ -1782,13 +1791,13 @@ topics: []
 ## 2026-02-19 21:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Cognitive Load
-- **Output**: [phenomenology-of-cognitive-load](/topics/phenomenology-of-cognitive-capacity/)
+- **Output**: Phenomenology Of Cognitive Load
 - **Word count**: 2191
 - **Based on research**: No
 
 ## 2026-02-19 21:06 UTC - deep-review
 - **Status**: Success
-- **File**: [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
+- **File**: Paradox Of Effortless Mastery
 - **Word count**: 1726 → 1936 (+210)
 - **Critical issues addressed**: 3 (broken wikilink, broken Further Reading link, uncited references)
 - **Medium issues addressed**: 4 (Friction Model hedging, tenet section hedging, phase two agency claim, Macnamara engagement)
@@ -1843,7 +1852,7 @@ topics: []
 - **Status**: Success
 - **File**: [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/)
 - **Word count**: 2156 → 2323 (+167)
-- **Critical issues addressed**: 1 (broken `[metarepresentation](/concepts/metacognition/)` wikilinks)
+- **Critical issues addressed**: 1 (broken `Metarepresentation` wikilinks)
 - **Medium issues addressed**: 4 (Bratman formulation, functionalist engagement, frontmatter hygiene, cross-link)
 - **Enhancements made**: 3 (functionalist response paragraph, interpersonal understanding cross-link, theory-of-mind link)
 - **Output**: [deep-review-2026-02-19-consciousness-and-collective-intentionality](/reviews/deep-review-2026-02-19-consciousness-and-collective-intentionality/)
@@ -1866,7 +1875,7 @@ topics: []
 
 ## 2026-02-19 15:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/), [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
+- **Sources**: Contemplative Verification Of Consciousness Theories, Contemplative Training And Phenomenal Access
 - **Target**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
 - **Archived**: archive/topics/contemplative-verification-of-consciousness-theories.md, archive/topics/contemplative-training-and-phenomenal-access.md
 - **References to review**: 9 active content files
@@ -1931,7 +1940,7 @@ topics: []
 
 ## 2026-02-19 12:06 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/)
+- **File**: Consciousness And Normative Authority
 - **Word count**: 1524 → 1981 (+457)
 - **Critical issues addressed**: 3 (prohibited LLM pattern in opening, missing References section, incomplete tenet coverage)
 - **Medium issues addressed**: 5 (Kant straw-man, question-begging acknowledgment, epistemic circularity, missing cross-links ×2)
@@ -1992,7 +2001,7 @@ topics: []
 
 ## 2026-02-19 09:34 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenology-of-habit-and-skill-acquisition](/topics/consciousness-and-skilled-performance/), [phenomenology-of-embodied-skill-and-habit](/topics/consciousness-and-skilled-performance/)
+- **Sources**: Phenomenology Of Habit And Skill Acquisition, [phenomenology-of-embodied-skill-and-habit](/topics/consciousness-and-skilled-performance/)
 - **Target**: [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/)
 - **Archived**: archive/topics/phenomenology-of-habit-and-skill-acquisition.md, archive/topics/phenomenology-of-embodied-skill-and-habit.md
 - **References updated**: 5 files (phenomenology-of-conceptual-change, paradox-of-effortless-mastery, phenomenology-of-flow-states, phenomenology-of-skill-transition, cross-cultural-phenomenology-of-agency)
@@ -2044,7 +2053,7 @@ topics: []
 
 ## 2026-02-19 07:19 UTC - refine-draft
 - **Status**: Success
-- **File**: [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-convergence-arguments/)
+- **File**: Epistemology Of Cross Cultural Philosophical Convergence
 - **Changes**: Fixed Barrett et al. citation specificity; addressed bootstrapping problem in convergence epistemology; strengthened Chinese philosophy framework-dependence challenge; calibrated evidential confidence; language improvements
 - **Published**: yes
 
@@ -2077,7 +2086,7 @@ topics: []
 
 ## 2026-02-19 04:19 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-skill-transition](/topics/phenomenology-of-skill-transition/)
+- **File**: Phenomenology Of Skill Transition
 - **Word count**: 1614 → 1838 (+224)
 - **Critical issues addressed**: 4 (Bernstein misattribution, unsupported physical-system claim, below-novice overstatement, "universally" overstatement)
 - **Medium issues addressed**: 7 (physicalist counterargument, computational counter-example, interface-friction definition, conscious-incompetence attribution, emotional phenomenology, cross-links, Merleau-Ponty reference)
@@ -2087,7 +2096,7 @@ topics: []
 ## 2026-02-19 04:04 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Epistemology of Cross-Cultural Philosophical Convergence
-- **Output**: [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-convergence-arguments/)
+- **Output**: Epistemology Of Cross Cultural Philosophical Convergence
 - **Word count**: 1857
 - **Based on research**: No
 
@@ -2100,9 +2109,9 @@ topics: []
 
 ## 2026-02-19 03:34 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-surprise](/topics/consciousness-and-surprise/), [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/)
+- **Sources**: Consciousness And Surprise, Phenomenology Of Surprise And Prediction Error
 - **Target**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
-- **Archived**: [consciousness-and-surprise](/archive/topics/consciousness-and-surprise/), [phenomenology-of-surprise-and-prediction-error](/archive/topics/phenomenology-of-surprise-and-prediction-error/)
+- **Archived**: Consciousness And Surprise, Phenomenology Of Surprise And Prediction Error
 - **References to review**: 5 active content files
 
 ## 2026-02-19 03:19 UTC - expand-topic
@@ -2278,7 +2287,7 @@ topics: []
 
 ## 2026-02-18 13:47 UTC - coalesce
 - **Status**: Success
-- **Sources**: [aesthetics-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-aesthetic-experience-as-philosophical-evidence](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/)
+- **Sources**: [aesthetics-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), Consciousness And Aesthetic Experience As Philosophical Evidence, [consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/)
 - **Target**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
 - **Archived**: archive/topics/aesthetics-of-consciousness.md, archive/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence.md, archive/topics/consciousness-and-aesthetic-value.md
 - **References updated**: consciousness-and-aesthetic-creation.md, binding-and-beauty.md
@@ -2293,7 +2302,7 @@ topics: []
 
 ## 2026-02-18 13:17 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-the-authority-of-testimony/)
+- **File**: Consciousness And The Authority Of Testimony
 - **Word count**: 2229 → 2426 (+197)
 - **Critical issues addressed**: 0 (none found; prior refinement resolved earlier critical issues)
 - **Medium issues addressed**: 3 (Dennett characterisation, eliminativist strongest response, Schwitzgebel citation)
@@ -2366,16 +2375,16 @@ topics: []
 
 ## 2026-02-18 07:47 UTC - coalesce
 - **Status**: Success
-- **Sources**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Sources**: Cognitive Closure
 - **Target**: [mysterianism](/concepts/mysterianism/)
-- **Archived**: [cognitive-closure](/archive/concepts/cognitive-closure/)
+- **Archived**: Cognitive Closure
 - **Notes**: cognitive-closure.md was recreated by expand-topic after a previous coalesce had already merged it into mysterianism.md. Integrated unique content (Cognitive Closure vs Causal Closure, Developmental Cognitive Closure sections) into mysterianism.md and re-archived the source.
 - **References to review**: none (no active content files link to cognitive-closure)
 
 ## 2026-02-18 07:32 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Cognitive Closure (McGinn)
-- **Output**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Output**: Cognitive Closure
 - **Word count**: 1637
 - **Based on research**: yes, [mysterianism-cognitive-closure-2026-01-14](/research/mysterianism-cognitive-closure-2026-01-14/)
 
@@ -2391,7 +2400,7 @@ topics: []
 ## 2026-02-18 07:02 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Problem of Normative Force
-- **Output**: [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-problem-of-normative-force/)
+- **Output**: Consciousness And The Problem Of Normative Force
 - **Word count**: 2171
 - **Based on research**: partially (related research in [voids-normative-void-2026-02-02](/research/voids-normative-void-2026-02-02/))
 
@@ -2533,7 +2542,7 @@ topics: []
 
 ## 2026-02-17 22:17 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-habit-and-skill-acquisition/)
+- **File**: Phenomenology Of Habit And Skill Acquisition
 - **Word count**: 1611 → 1933 (+322)
 - **Critical issues addressed**: 2 (Dreyfus five-stage model attribution, Fitts & Posner source conflation)
 - **Medium issues addressed**: 5 (neural sufficiency counterargument, anoetic/autonoetic gloss, habits nuance, cross-links, expert awareness expansion)
@@ -2558,9 +2567,9 @@ topics: []
 
 ## 2026-02-17 19:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [temporal-unity](/concepts/temporal-consciousness/)
+- **Sources**: Temporal Unity
 - **Target**: [temporal-consciousness](/concepts/temporal-consciousness/)
-- **Archived**: [temporal-unity](/archive/concepts/temporal-unity/)
+- **Archived**: Temporal Unity
 - **References to review**: 2 (narrative-coherence.md, phenomenology-of-temporal-attention.md — updated in-session)
 
 ## 2026-02-17 19:27 UTC - expand-topic
@@ -2645,9 +2654,9 @@ topics: []
 
 ## 2026-02-17 13:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), [decoherence](/concepts/decoherence/)
+- **Sources**: Quantum Decoherence Objection, [decoherence](/concepts/decoherence/)
 - **Target**: [decoherence](/concepts/decoherence/)
-- **Archived**: [quantum-decoherence-objection](/archive/concepts/quantum-decoherence-objection/)
+- **Archived**: Quantum Decoherence Objection
 - **References updated**: 14 active content files
 - **References preserved**: Reviews, changelogs, research notes (historical records)
 
@@ -2660,7 +2669,7 @@ topics: []
 
 ## 2026-02-17 13:12 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-aesthetic-experience-as-philosophical-evidence](/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence/)
+- **File**: Consciousness And Aesthetic Experience As Philosophical Evidence
 - **Word count**: 1784 → 2398 (+614)
 - **Critical issues addressed**: 3 (broken wikilink grammar, uncited references, missing empirical citations)
 - **Medium issues addressed**: 4 (normative gap defense, illusionism question-begging, epiphenomenalism engagement, MQI tenet)
@@ -2728,10 +2737,10 @@ topics: []
 
 ## 2026-02-17 07:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [metacognition](/concepts/metacognition/), [metarepresentation](/concepts/metacognition/)
+- **Sources**: [metacognition](/concepts/metacognition/), Metarepresentation
 - **Target**: [Metacognition, Metarepresentation, and Consciousness](/concepts/metacognition/)
-- **Archived**: [metarepresentation](/archive/concepts/metarepresentation/)
-- **References to review**: 32 files reference `[metarepresentation](/concepts/metacognition/)`
+- **Archived**: Metarepresentation
+- **References to review**: 32 files reference `Metarepresentation`
 
 ## 2026-02-17 07:27 UTC - expand-topic
 - **Status**: Success
@@ -2825,9 +2834,9 @@ topics: []
 
 ## 2026-02-17 01:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Sources**: Cognitive Closure
 - **Target**: [mysterianism](/concepts/mysterianism/)
-- **Archived**: [cognitive-closure](/archive/concepts/cognitive-closure/)
+- **Archived**: Cognitive Closure
 - **References updated**: 13 active content files (wikilinks redirected to mysterianism)
 - **Notes**: Cognitive closure content integrated into existing mysterianism article (formal definition, falsifiability, asymmetric access argument). Concepts section reduced from 179 to 178 articles (cap: 200).
 
@@ -2850,7 +2859,7 @@ topics: []
 ## 2026-02-16 20:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Moral Perception
-- **Output**: [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-perception/)
+- **Output**: Phenomenology Of Moral Perception
 - **Word count**: 1728
 - **Based on research**: No
 
@@ -2906,9 +2915,9 @@ topics: []
 
 ## 2026-02-16 15:44 UTC - coalesce
 - **Status**: Success
-- **Sources**: [psychophysical-laws](/concepts/psychophysical-laws/), [psychophysical-coupling](/concepts/psychophysical-laws/)
+- **Sources**: [psychophysical-laws](/concepts/psychophysical-laws/), Psychophysical Coupling
 - **Target**: [psychophysical-laws](/concepts/psychophysical-laws/)
-- **Archived**: [psychophysical-coupling](/archive/concepts/psychophysical-coupling/)
+- **Archived**: Psychophysical Coupling
 - **References to review**: ~27 active content files (follow-up task created in todo.md)
 - **Section impact**: concepts/ reduced from 180 to 179 articles (cap: 200)
 
@@ -2942,7 +2951,7 @@ topics: []
 
 ## 2026-02-16 13:43 UTC - deep-review
 - **Status**: Success
-- **File**: [temporal-unity](/concepts/temporal-unity/)
+- **File**: Temporal Unity
 - **Word count**: 1333 → 1564 (+231)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 5 (specious present range, illusionist challenge, MWI argument, schizophrenia citation, archived links)
@@ -2962,7 +2971,7 @@ topics: []
 
 ## 2026-02-16 08:18 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/)
+- **File**: Consciousness And Strong Emergence
 - **Word count**: 1815 → 2237 (+422)
 - **Critical issues addressed**: 2 (Chalmers misquotation, O'Connor-Wong attribution)
 - **Medium issues addressed**: 4 (zombie conceivability contested, decoherence challenge, quantum interpretation dependency, No Many Worlds tenet)
@@ -2994,7 +3003,7 @@ topics: []
 
 ## 2026-02-16 05:40 UTC - coalesce
 - **Status**: Success
-- **Sources**: [arguments-against-materialism](/concepts/the-case-for-dualism/), [arguments-for-dualism](/concepts/the-case-for-dualism/)
+- **Sources**: Arguments Against Materialism, Arguments For Dualism
 - **Target**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
 - **Archived**: archive/concepts/arguments-against-materialism.md, archive/concepts/arguments-for-dualism.md
 - **References updated**: 34 files (23 for arguments-for-dualism, 11 for arguments-against-materialism)

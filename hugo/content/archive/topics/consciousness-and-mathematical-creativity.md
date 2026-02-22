@@ -12,11 +12,11 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention-as-interface]]'
-- '[[duration]]'
+- Duration
 - '[[agent-causation]]'
 - '[[mental-causation]]'
 - '[[mysterianism]]'
-- '[[metarepresentation]]'
+- Metarepresentation
 - '[[illusionism]]'
 created: 2026-02-09
 date: &id001 2026-02-15
@@ -31,7 +31,7 @@ modified: *id001
 original_path: /topics/consciousness-and-mathematical-creativity/
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-mathematical-understanding]]'
+- Consciousness And Mathematical Understanding
 - '[[creativity-consciousness-and-novel-thought]]'
 - '[[distinctiveness-of-human-creativity]]'
 - '[[creativity-void]]'
@@ -50,7 +50,7 @@ topics:
 
 Mathematical creativity is where the case for consciousness as a causal force is sharpest. Other forms of creativity can be partially deflated—maybe the poet's inspiration is sophisticated pattern-matching, maybe the painter's aesthetic sense reduces to trained preference. But when a mathematician sees *why* a proof must work, grasps a connection between distant fields, or invents a structure that transforms what was previously thinkable, something happens that resists reduction to algorithmic process. The Unfinishable Map argues that mathematical creativity provides the strongest domain-specific evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness doesn't merely select among pre-computed solutions but generates genuinely new mathematical understanding.
 
-This article examines what makes mathematical creativity distinctive—not as a rehashing of the [Penrose-Gödel argument](/topics/consciousness-and-mathematical-cognition/) or the [generation-selection synthesis](/concepts/consciousness-and-creativity/), both treated elsewhere on the Map, but as an integration of both. Mathematical creativity sits precisely at the intersection: it is the domain where non-algorithmic insight meets creative generation, where the phenomenology of understanding intersects the phenomenology of invention.
+This article examines what makes mathematical creativity distinctive—not as a rehashing of the Penrose-Gödel argument or the [generation-selection synthesis](/concepts/consciousness-and-creativity/), both treated elsewhere on the Map, but as an integration of both. Mathematical creativity sits precisely at the intersection: it is the domain where non-algorithmic insight meets creative generation, where the phenomenology of understanding intersects the phenomenology of invention.
 
 ## The Poincaré Phenomenon
 
@@ -78,7 +78,7 @@ A tension arises here that deserves acknowledgment. The "sense of discovery" dis
 
 This is Margaret Boden's *transformational creativity*: not combining existing ideas or exploring within established rules, but changing the rules themselves. Transformational creativity in mathematics produces what was "downright impossible" within the previous framework. No amount of exploring pre-Cantorian mathematics yields transfinite cardinals, because the conceptual space forbids them.
 
-The [zone of latent solutions](/topics/creativity-consciousness-and-novel-thought/) concept captures why this matters. Great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. But mathematical transformational creativity exits every zone. It requires representing the current mathematical framework *as* a framework—seeing its assumptions, questioning its boundaries, and constructing something beyond them. This [metarepresentation](/concepts/metacognition/)—taking one's own conceptual apparatus as an object of thought—is precisely what consciousness-requiring functions enable.
+The [zone of latent solutions](/topics/creativity-consciousness-and-novel-thought/) concept captures why this matters. Great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. But mathematical transformational creativity exits every zone. It requires representing the current mathematical framework *as* a framework—seeing its assumptions, questioning its boundaries, and constructing something beyond them. This Metarepresentation—taking one's own conceptual apparatus as an object of thought—is precisely what consciousness-requiring functions enable.
 
 ## The Gödel Connection
 
@@ -148,7 +148,7 @@ The [illusionist](/concepts/illusionism/) challenge also applies: if phenomenal 
 
 ## Further Reading
 
-- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — Penrose's Gödelian argument and the phenomenology of mathematical insight
+- Consciousness And Mathematical Understanding — Penrose's Gödelian argument and the phenomenology of mathematical insight
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — Mechanisms of creative consciousness
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — Why human creativity differs in kind from animal and AI creativity
@@ -159,7 +159,7 @@ The [illusionist](/concepts/illusionism/) challenge also applies: if phenomenal 
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience matters philosophically
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt difference between mechanical verification and genuine comprehension
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
-- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as inherently creative
+- Duration — Bergson's lived time as inherently creative
 
 ## References
 

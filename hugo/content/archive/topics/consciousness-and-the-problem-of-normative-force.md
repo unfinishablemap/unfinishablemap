@@ -34,7 +34,7 @@ superseded_by: /topics/consciousness-and-the-grounds-of-normative-authority/
 title: Consciousness and the Problem of Normative Force
 topics:
 - '[[topics/phenomenal-value-realism]]'
-- '[[consciousness-and-normative-authority]]'
+- Consciousness And Normative Authority
 - '[[ethics-of-consciousness]]'
 - '[[topics/free-will]]'
 ---
@@ -143,7 +143,7 @@ The consciousness-based account of normative force would face pressure if:
 
 ## Further Reading
 
-- [consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — How consciousness grounds normative authority across domains
+- Consciousness And Normative Authority — How consciousness grounds normative authority across domains
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
