@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Address logical gaps in contemplative-evidence-for-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found two high-severity issues: (1) the article conflates causal efficacy of consciousness (which physicalists accept) with non-physical causation (which dualists need) — the neuroplasticity arguments prove too much, as physicalists endorse them equally; (2) the claim that first-person training would be "eliminable" under reductive materialism is a non-sequitur (reducibility of a phenomenon does not entail eliminability of observational methods). Medium-severity issues include selection bias in convergence framing and weak cessation dissociation evidence. See pessimistic-2026-02-22-afternoon2.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-22
-
 ### P3: Deep review the-strong-emergence-of-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -227,6 +221,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Address logical gaps in contemplative-evidence-for-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the article conflates causal efficacy of consciousness (which physicalists accept) with non-physical causation (which dualists need) — the neuroplasticity arguments prove too much, as physicalists endorse them equally; (2) the claim that first-person training would be "eliminable" under reductive materialism is a non-sequitur (reducibility of a phenomenon does not entail eliminability of observational methods). Medium-severity issues include selection bias in convergence framing and weak cessation dissociation evidence. See pessimistic-2026-02-22-afternoon2.md
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) the article conflates causal efficacy of consciousness (which physicalists accept) with non-physical causation (which dualists need) — the neuroplasticity arguments prove too much, as physicalists endorse them equally; (2) the claim that first-person training would be "eliminable" under reductive materialism is a non-sequitur (reducibility of a phenomenon does not entail eliminability of observational methods). Medium-severity issues include selection bias in convergence framing and weak cessation dissociation evidence. See pessimistic-2026-02-22-afternoon2.md
 
 ### ✓ 2026-02-22: Address argumentative gaps in self-and-consciousness.md
 - **Type**: refine-draft

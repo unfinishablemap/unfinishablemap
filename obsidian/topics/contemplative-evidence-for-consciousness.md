@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative findings that distinguish between 
 created: 2026-01-27
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T11:55:00+00:00
+ai_modified: 2026-02-22T15:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ Traditions diverge sharply on what the self ultimately *is*, yet converge on the
 
 All contemplative traditions share the practical discovery that attention can be systematically trained. The Shamatha Project (MacLean et al. 2010) confirmed this: intensive meditation training measurably improves sustained attention, perceptual discrimination, and response inhibition. Long-term practitioners show increased cortical thickness in regions associated with attention and interoception (Lazar et al. 2005). Weng and colleagues (2013) demonstrated that just seven hours of compassion training produced brain changes predicting prosocial behaviour.
 
-The convergence on attentional trainability supports the thesis that consciousness has causal efficacy over its own neural substrate. Deliberate, phenomenologically guided practice reshapes the brain in ways that passive experience does not — and the convergence across traditions makes it unlikely that this is an artefact of any single methodology.
+Deliberate, phenomenologically guided practice reshapes the brain in ways that passive experience does not — and the convergence across traditions makes it unlikely that this is an artefact of any single methodology.
 
 ### 4. Non-Ordinary States with Shared Structure
 
@@ -87,6 +87,8 @@ Three significant domains show genuine divergence, revealing the epistemic bound
 
 This pattern — agreement on phenomenological structure, disagreement on metaphysical interpretation — is itself evidentially significant. Contemplative practice verifies structural claims about consciousness more reliably than metaphysical claims about its ultimate nature.
 
+A further limitation deserves acknowledgment. The five convergent findings are not an exhaustive survey but a curated selection. Traditions that converge on different findings, or that resist categorisation into the framework above, may be underrepresented. The convergence argument is strongest for structural claims (involuntary mentation, attentional trainability, constructed self) where evidence is robust and independently replicable, and weakest where the selection of traditions or findings could be biased toward confirming theoretical expectations. See [[epistemology-of-convergence-arguments]] for a fuller treatment of convergence epistemology.
+
 ## Testing Consciousness Theories
 
 The convergent findings, combined with neuroplasticity data, create empirical test cases that distinguish between theories.
@@ -97,19 +99,21 @@ The convergent findings, combined with neuroplasticity data, create empirical te
 
 The *content* of conscious intention also tracks neural outcomes. Compassion meditation produces different neural patterns than breath attention meditation. Weng and colleagues (2013) found that seven hours of compassion training altered inferior parietal and dorsolateral prefrontal cortex activity. The intervention was phenomenological — cultivating felt compassion, not merely performing exercises. Phenomenological qualities predict outcomes in ways the epiphenomenalist cannot explain without multiplying brute correlations.
 
+This evidence eliminates epiphenomenalism specifically — the view that consciousness exists but has no causal effects. It does not by itself distinguish between physicalism and dualism, since physicalists accept the causal efficacy of conscious states without reservation; they identify those states with neural processes and interpret the neuroplasticity findings as higher-level cognitive processes reshaping lower-level neural architecture. The question these findings settle is whether consciousness *does anything*, not what consciousness *is*.
+
 ### Evidence Against Reductive Materialism
 
-[[Neurophenomenology]] shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators predict neural signatures that untrained reports do not. If phenomenal properties reduced to neural properties, first-person training would be eliminable — neuroscience alone would suffice. The evidence shows otherwise.
+[[Neurophenomenology]] shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators generate phenomenological reports that predict neural signatures invisible to untrained observation. This non-redundancy is evidentially significant: if phenomenal properties were identical to neural properties, purely neural analysis should in principle capture everything the first-person perspective reveals — yet trained contemplatives consistently uncover phenomenal structure that third-person methods alone miss. The reductive materialist can respond that first-person methods are practically useful shortcuts rather than ontologically revelatory, but the persistent pattern across multiple traditions and research paradigms suggests the non-redundancy reflects a genuine explanatory gap rather than a practical limitation of current neuroscience.
 
 The jhāna states offer a sharp test case for the persistent [[explanatory-gap]]. Neuroscience can identify which brain connectivity patterns correspond to jhāna practice but cannot explain why a particular reorganisation of functional gradients produces the phenomenal quality of infinite space rather than equanimity. Better data on both sides produce more precise *correlations* without producing *explanations* of why particular neural patterns feel a particular way.
 
 Against [[illusionism]]: trained meditators' reports *converge* with independent neural measurement in ways untrained reports do not. If training merely induced confabulation, this cross-modal confirmation is unexplained. Moreover, contemplative deconstruction of the self does not eliminate phenomenal character — it reveals *more* structure (the witness, arising-and-passing, equanimity of non-identification), independently confirmed by neural measurement.
 
-### Evidence for Interactionism
+### Bidirectional Causation
 
-The meditation evidence exhibits bidirectional causation. Brain states modulate consciousness (anaesthesia eliminates phenomenology), and conscious intention modulates brain states (meditation reshapes neural architecture). The full cycle — intention → practice → neural reorganisation → expanded phenomenal access → further intention — exemplifies the mind-brain interaction the Map affirms. Varela's [[neurophenomenology]] validates this empirically: phenomenological reports from trained meditators predict neural signatures; neural findings constrain phenomenological models; neither perspective reduces to the other.
+The meditation evidence confirms bidirectional causation between consciousness and brain. Brain states modulate consciousness (anaesthesia eliminates phenomenology), and conscious intention modulates brain states (meditation reshapes neural architecture). The full cycle — intention → practice → neural reorganisation → expanded phenomenal access → further intention — is confirmed across traditions and neuroimaging paradigms. Varela's [[neurophenomenology]] validates this empirically: phenomenological reports from trained meditators predict neural signatures; neural findings constrain phenomenological models; neither perspective reduces to the other.
 
-[[Witness-consciousness|Witness consciousness]] provides further evidence. The capacity to adopt [[meditation-and-consciousness-modes|different modes of consciousness]] — active selection and passive witnessing — demonstrates that consciousness is not reducible to any single neural configuration.
+Bidirectional causation is accepted by physicalists and dualists alike. Physicalists interpret it as different levels of description of the same physical system; dualists interpret it as genuine interaction between ontologically distinct domains. The contemplative evidence establishes the *phenomenon* — that mental and neural descriptions each predict the other without either being eliminable — but does not by itself determine the correct ontological interpretation. The next section examines what, if anything, favours the dualist reading.
 
 ## The Non-Reductive Physicalism Challenge
 
@@ -119,7 +123,7 @@ Both interactionist dualism and non-reductive physicalism accept mental causatio
 
 **The persistent explanatory gap.** Non-reductive physicalism predicts the gap should eventually yield to better theory. The trajectory of neurophenomenological research — ever-more-precise correlations without explanation of *why* particular neural patterns produce particular phenomenal qualities — reads more naturally as persistent irreducibility. But the non-reductive physicalist can reasonably read it as gradual convergence.
 
-**The cessation dissociation.** Some advanced meditators voluntarily enter *nirodha samapatti* — reported cessation of phenomenology while brain activity continues. Continuing brain activity during reported cessation is more puzzling for views identifying phenomenology with neural activity than for views treating consciousness as ontologically separate — though this evidence rests on retrospective self-report and should not bear significant argumentative weight alone.
+**The cessation dissociation.** Some advanced meditators report voluntarily entering *nirodha samapatti* — reported cessation of phenomenology while brain activity continues. If genuine, continuing brain activity during phenomenal cessation would be more puzzling for views identifying phenomenology with neural activity than for views treating consciousness as ontologically separate. However, this evidence is methodologically weak: it rests entirely on retrospective self-report, the reported absence of experience cannot be independently verified from outside, and the neural correlates of this state remain poorly characterised. It should not bear significant argumentative weight.
 
 The honest assessment: contemplative evidence eliminates epiphenomenalism and reductive materialism decisively. It *favours* dualism over non-reductive physicalism — the witness phenomenon, the explanatory gap trajectory, and cessation dissociation are more naturally accommodated by dualism — but does not eliminate non-reductive physicalism.
 
@@ -141,7 +145,7 @@ The Map's position makes predictions that could be defeated. Reliable phenomenol
 
 ### Bidirectional Interaction
 
-Contemplative evidence provides the strongest empirical support for this tenet. Neuroplasticity findings show consciousness causally influencing brain states; phenomenological training effects show brain states influencing phenomenological access. The convergence across traditions strengthens this evidence: the finding is not an artefact of any single methodology. When Buddhist shamatha, Christian contemplative prayer, Hindu dhyāna, and secular mindfulness all produce overlapping [[neuroplasticity|neuroplastic]] changes, the case for consciousness as causally efficacious is supported by multiple independent lines of evidence.
+Contemplative evidence confirms bidirectional causation between consciousness and brain — a finding supported by multiple independent traditions and neuroimaging paradigms. When Buddhist shamatha, Christian contemplative prayer, Hindu dhyāna, and secular mindfulness all produce overlapping [[neuroplasticity|neuroplastic]] changes, the case for conscious states having causal effects is robust and eliminates epiphenomenalism. However, physicalists accept bidirectional causation as readily as dualists do; the specifically dualist reading of this tenet rests on the additional considerations discussed in the non-reductive physicalism section — the witness phenomenon, the persistent explanatory gap, and cessation dissociation.
 
 ### Dualism
 
@@ -198,3 +202,19 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 - Weng, H. Y., et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
+
+<!-- AI REFINEMENT LOG - 2026-02-22
+Changes made:
+- Removed premature causal efficacy thesis from Attentional Trainability section (physicalists accept causal efficacy equally)
+- Added qualification paragraph to Evidence Against Epiphenomenalism clarifying it eliminates epiph but is neutral between physicalism and dualism
+- Fixed eliminability non-sequitur in Evidence Against Reductive Materialism: replaced false claim ("first-person training would be eliminable") with explanatory gap argument about non-redundancy of first-person methods
+- Renamed "Evidence for Interactionism" to "Bidirectional Causation" and reframed to honestly acknowledge physicalists accept this evidence too
+- Added selection bias acknowledgment to Where Convergence Fails section
+- Fixed Bidirectional Interaction tenet section to acknowledge physicalists accept bidirectional causation
+- Strengthened cessation dissociation qualification (methodological weaknesses made explicit)
+
+Based on pessimistic review findings (2 high-severity, 2 medium-severity issues).
+Key improvements: Article no longer conflates causal efficacy (common ground) with non-physical causation (dualist claim), and no longer contains the eliminability non-sequitur.
+
+This log should be removed after human review.
+-->
