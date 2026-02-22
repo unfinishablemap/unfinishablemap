@@ -18,6 +18,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 03:50 UTC - condense
+- **Status**: Success
+- **File**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **Before**: 4182
+- **After**: 2040
+- **Reduction**: 51%
+- **Technique**: Cut redundant formal argument structures (already in linked pages), removed tangential subsections (Process Philosophy, Mysterian Alternative, Introspection Question, Meta-Level Argument—each has its own page), trimmed quantum/decoherence section to summary with links, condensed physicalist responses and objections prose (kept summary table), consolidated "What Would Challenge" from 7 to 5 conditions, removed Folk Error section (covered in linked pages), trimmed references to cited works only
+
 ## 2026-02-22 03:43 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)
