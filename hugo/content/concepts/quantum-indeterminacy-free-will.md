@@ -30,6 +30,7 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-mechanics-free-will-2026-01-16]]'
 - '[[concepts/many-worlds]]'
+- '[[concept-of-free-will]]'
 title: Quantum Indeterminacy and Free Will
 topics:
 - '[[topics/free-will]]'

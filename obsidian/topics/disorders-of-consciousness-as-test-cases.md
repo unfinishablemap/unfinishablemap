@@ -4,8 +4,8 @@ description: "Vegetative states, covert awareness, and locked-in syndrome discri
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T15:32:00+00:00
-last_deep_review: 2026-02-15T15:32:00+00:00
+ai_modified: 2026-02-22T09:50:00+00:00
+last_deep_review: 2026-02-22T09:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -129,6 +129,8 @@ The Unfinishable Map's [[tenets]] converge on DoC cases as among the most reveal
 - [[quantum-measurement-consciousness-interface]] — Where consciousness meets quantum indeterminacy
 - [[near-death-experiences]] — Heightened consciousness during minimal brain function
 - [[hard-problem-of-consciousness]] — The explanatory gap that DoC cases illuminate
+- [[pain-asymbolia-as-central-test-case]] — A parallel clinical dissociation testing the same theories
+- [[split-brain-consciousness]] — Another classic dissociation case that challenges simple unity
 
 ## References
 

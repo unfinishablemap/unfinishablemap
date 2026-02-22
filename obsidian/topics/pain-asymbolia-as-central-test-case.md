@@ -37,7 +37,7 @@ last_deep_review:
 
 ## Why Asymbolia Outperforms Other Test Cases
 
-Philosophy of mind has no shortage of clinical dissociations to work with. Blindsight, split-brain patients, hemispatial neglect, and anosognosia all challenge simple theories of consciousness. But asymbolia has unique advantages as a discriminating test.
+Philosophy of mind has no shortage of clinical dissociations to work with. Blindsight, split-brain patients, hemispatial neglect, anosognosia, and [[disorders-of-consciousness-as-test-cases|disorders of consciousness]] (vegetative states, cognitive motor dissociation) all challenge simple theories of consciousness. But asymbolia has unique advantages as a discriminating test.
 
 **It targets the hardest feature of consciousness.** The "hard" in the [[hard-problem-of-consciousness|hard problem]] is phenomenal character—why there is something it is like to be in a given mental state. Asymbolia removes the most salient aspect of phenomenal character (the awfulness of pain) while leaving the informational content intact. It therefore isolates the hard problem's target with clinical precision.
 

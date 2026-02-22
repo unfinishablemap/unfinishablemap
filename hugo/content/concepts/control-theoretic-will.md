@@ -25,6 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]'
+- '[[concept-of-free-will]]'
 title: Control-Theoretic Will
 topics:
 - '[[topics/free-will]]'

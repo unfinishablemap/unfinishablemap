@@ -43,6 +43,7 @@ related_articles:
 - '[[agent-causation-libertarian-free-will-2026-01-14]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
 - '[[motor-control-quantum-zeno-2026-01-18]]'
+- '[[concept-of-free-will]]'
 title: Agent Causation
 topics:
 - '[[topics/free-will]]'

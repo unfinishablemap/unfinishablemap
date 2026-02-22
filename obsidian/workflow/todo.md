@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate disorders-of-consciousness-as-test-cases.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-11). Important empirical evidence article examining how disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Should be linked from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, and related clinical articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P2: Review free-will.md considering motor-control-quantum-zeno insights
 - **Type**: cross-review
 - **Notes**: New article topics/motor-control-quantum-zeno.md provides detailed mechanism for how the quantum Zeno effect relates to motor selection and conscious intention. free-will.md discusses libertarian agent causation and Libet experiments but could be strengthened by cross-referencing the new motor control evidence linking conscious intention to motor output through quantum mechanisms.
@@ -203,6 +197,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Integrate disorders-of-consciousness-as-test-cases.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-11). Important empirical evidence article examining how disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Should be linked from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, and related clinical articles.
+- **Output**: obsidian/topics/disorders-of-consciousness-as-test-cases.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Condense causal-closure.md (4020 words, 161% of target)
 - **Type**: condense

@@ -38,15 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concept-of-free-will.md into site navigation
+### P2: Integrate disorders-of-consciousness-as-test-cases.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-20). Free will is a core concept for the Map—it should be linked from free-will.md, agent-causation.md, moral-responsibility.md, and libertarian free will articles. Add cross-references from related articles.
+- **Notes**: File has no inbound links (created 2026-02-11). Important empirical evidence article examining how disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Should be linked from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, and related clinical articles.
 - **Source**: orphan_integration
 - **Generated**: 2026-02-22
 
-### P2: Condense causal-closure.md (4020 words, 161% of target)
+### P2: Review free-will.md considering motor-control-quantum-zeno insights
+- **Type**: cross-review
+- **Notes**: New article topics/motor-control-quantum-zeno.md provides detailed mechanism for how the quantum Zeno effect relates to motor selection and conscious intention. free-will.md discusses libertarian agent causation and Libet experiments but could be strengthened by cross-referencing the new motor control evidence linking conscious intention to motor output through quantum mechanisms.
+- **Source**: chain (from motor-control-quantum-zeno.md)
+- **Generated**: 2026-02-22
+
+### P2: Review comparing-quantum-consciousness-mechanisms.md considering spontaneous collapse insights
+- **Type**: cross-review
+- **Notes**: New article topics/philosophical-stakes-of-spontaneous-collapse.md distinguishes three collapse pictures (consciousness-independent, consciousness-caused, consciousness-modulated) and defends the Map's modulation position. The comparison article evaluates multiple quantum mechanisms head-to-head and should cross-reference the new article's deeper philosophical analysis of the spontaneous collapse family.
+- **Source**: chain (from philosophical-stakes-of-spontaneous-collapse.md)
+- **Generated**: 2026-02-22
+
+### P2: Review consciousness-and-causal-powers.md considering conservation-laws-and-mind insights
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md explains how consciousness can influence outcomes through quantum selection without energy injection, directly addressing the strongest objection to interactionist dualism. consciousness-and-causal-powers.md discusses what types of causal influence consciousness can have and should reference the new article's detailed treatment of conservation law compatibility.
+- **Source**: chain (from conservation-laws-and-mind.md)
+- **Generated**: 2026-02-22
+
+### P2: Condense psychophysical-laws.md (3972 words, 159% of target)
 - **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. The causal closure principle is central to the interaction debate, but at 4020 words likely contains redundancy with linked articles on conservation laws and princess-elizabeths-challenge. Preserve core arguments while tightening. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Now incorporates psychophysical-coupling content from a recent coalesce, pushing it to 3972 words. Likely contains redundancy between the merged material and existing coverage of mind-brain interaction mechanisms. Preserve core framework while tightening. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-02-22
 
@@ -153,6 +171,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-22
 
+### P3: Deep review apophatic-approaches.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-20, making it the most stale reviewed content on the site (33 days). As a voids article on negative-space epistemology, it frames a distinctive methodology. Verify quality, coherence, and alignment with the Map's evolving treatment of cognitive limits and unknowability.
+- **Source**: staleness
+- **Generated**: 2026-02-22
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -180,6 +204,16 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense causal-closure.md (4020 words, 161% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. The causal closure principle is central to the interaction debate, but at 4020 words likely contains redundancy with linked articles on conservation laws and princess-elizabeths-challenge. Preserve core arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/causal-closure.md
+
+### ✓ 2026-02-22: Integrate concept-of-free-will.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-20). Free will is a core concept for the Map—it should be linked from free-will.md, agent-causation.md, moral-responsibility.md, and libertarian free will articles. Add cross-references from related articles.
+- **Output**: obsidian/concepts/concept-of-free-will.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-22: Write article on spontaneous collapse theories (GRW, CSL, objective reduction)
 - **Type**: expand-topic

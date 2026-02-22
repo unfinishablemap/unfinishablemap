@@ -103,7 +103,7 @@ The hippocampus also performs binding for both perception and memory. The [[bind
 
 Several findings support this reading:
 
-- **Covert consciousness**: Up to 25% of behaviorally unresponsive patients show clear signs of consciousness via neuroimaging. If NCCs indicated production, how could consciousness persist when its supposed neural basis fails to generate behavioral outputs?
+- **Covert consciousness**: Up to 25% of behaviorally unresponsive patients show clear signs of consciousness via neuroimaging (see [[disorders-of-consciousness-as-test-cases|disorders of consciousness as test cases]]). If NCCs indicated production, how could consciousness persist when its supposed neural basis fails to generate behavioral outputs?
 - **Disconnection syndromes**: Brain damage typically produces disconnection rather than destruction—hemispherectomy patients retain substantially normal consciousness despite missing half their cortex.
 - **Anesthetic dissociations**: Propofol and ketamine both produce behavioral unresponsiveness but radically different experiences—near-total extinction versus vivid dissociative states.
 

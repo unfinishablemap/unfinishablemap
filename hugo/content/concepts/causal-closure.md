@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-15 15:44:00+00:00
+ai_modified: 2026-02-22 09:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -73,7 +73,7 @@ The Map denies causal closure.
 
 The principle has intuitive appeal:
 
-**Conservation laws:** Physics says energy, momentum, and charge are conserved. If mind could add to physical effects, it would have to inject energy. But energy is conserved. So mind cannot add anything. However, as [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates, this objection rests on misunderstandings. Conservation is *local* (holding in each region separately) and *conditional*—Noether's theorem derives conservation from symmetries, and external influences (like mental causes) break those symmetries. The objection begs the question by assuming no such influences exist. More importantly, consciousness may influence outcomes without injecting energy at all, by *selecting* among quantum-permitted outcomes rather than adding anything new.
+**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates, this objection rests on misunderstandings: conservation is local and conditional (derived from symmetries via Noether's theorem), and consciousness may influence outcomes without injecting energy at all, by *selecting* among quantum-permitted outcomes.
 
 **Scientific success:** Physics explains physical events without needing to invoke non-physical causes. Every time science investigates a phenomenon, it finds physical mechanisms. Mental causation seems like a "gap" that science will eventually fill.
 
@@ -101,49 +101,27 @@ Bradford Saad (2025) identifies a crucial distinction that weakens the causal cl
 
 **Observational closure**: There are no *observable* violations of closure—no violations detectable by physics or neuroscience experiments. This is the empirical regularity that science has established.
 
-> **Observational Closure**: "There are no observable violations of Closure." An observable violation is "a violation of Closure that would be recognized as such by an experiment of the sort performed in physics or neuroscience that lies within the realm of nomic possibility." (Saad 2025)
-
-Universal closure entails observational closure (if no violations exist anywhere, none are observable). But observational closure does not entail universal closure. Physics might be incomplete in domains where we cannot observe—such as the private domain of consciousness—while appearing complete in domains where we can.
-
-The empirical evidence for causal closure—the success of physics—only supports observational closure. Experiments show that *within experimental contexts*, physical causes suffice. They do not show that physical causes suffice *everywhere*, including in the private domain of consciousness.
-
-This exposes an equivocation in the standard causal closure argument against [mental-causation](/concepts/mental-causation/). The argument's first premise claims universal closure, but the evidence only supports observational closure. The argument needs the metaphysical thesis; the evidence provides only the empirical regularity.
+Universal closure entails observational closure, but not vice versa. Physics might be incomplete in domains where we cannot observe—such as consciousness—while appearing complete where we can. The empirical evidence (the success of physics) only supports observational closure. This exposes an equivocation in the standard argument against [mental-causation](/concepts/mental-causation/): the argument needs universal closure, but the evidence provides only observational closure.
 
 #### How Mental Causation Satisfies Observational Closure
 
-If mental causation is real, how does it avoid producing observable violations? Several strategies converge:
-
-**Statistical invisibility**: If consciousness influences quantum outcomes at neural indeterminacies, and if these influences aggregate to match Born-rule statistics, no experiment detects the difference. The statistics look exactly as physics predicts. Only the *particular* outcomes differ from what would have occurred without mental influence—and physics doesn't predict particular outcomes, only probabilities. [Henry Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) develops the most detailed account of this mechanism.
-
-**Causal profile matching**: Saad's [delegatory-dualism](/topics/delegatory-dualism/) achieves observational closure through a different mechanism. Physical states delegate their causal responsibilities to conscious experiences that share their causal profiles. The experience causes exactly what the physical state would have caused. When pain causes wincing, the delegated causal pathway produces the same wince that the physical pathway would have produced. Experiments measuring wincing find nothing unusual. The difference is *which* cause operates, not *what* effects occur.
-
-**Domain specificity**: Mental causation might operate only where physics is fundamentally incomplete—at measurement outcomes in quantum mechanics, where physics provides probabilities without determining which possibility becomes actual. In this domain, there is nothing for observation to compare against. Physics predicts a distribution; consciousness selects from within it. The selection is invisible because physics makes no prediction about individual selections. This connects directly to debates about [quantum indeterminacy and free will](/concepts/quantum-indeterminacy-free-will/).
+Mental causation avoids observable violations through converging strategies: *statistical invisibility* (consciousness influences particular quantum outcomes while aggregate statistics match Born-rule predictions—see [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/)); *causal profile matching* (Saad's [delegatory-dualism](/topics/delegatory-dualism/) where experiences preempt physical causes while producing identical effects); and *domain specificity* (consciousness operates only at quantum measurement outcomes, where physics predicts distributions but not individual results—see [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)).
 
 #### Objections to the Observational/Universal Distinction
 
-**"This makes mental causation unfalsifiable"**: If mental causation is designed to be undetectable, isn't it immune to empirical testing? The response: the theories make specific testable predictions. If quantum coherence proves *never* possible in neural systems, the quantum mechanism fails. If consciousness effects don't match Born-rule statistics, the theory is falsified. If purely classical mechanisms fully explain all consciousness-related phenomena, mental causation becomes explanatorily redundant. What's unfalsifiable is the claim that *some* mental causation exists somewhere undetected—but the specific theories (quantum interactionism, delegatory dualism) make claims that observations could contradict.
+**"This makes mental causation unfalsifiable"**: The specific theories (quantum interactionism, delegatory dualism) make testable predictions—if quantum coherence proves impossible in neural systems, or if consciousness effects violate Born-rule statistics, the theories fail. Only the vague claim that *some* mental causation exists somewhere is unfalsifiable.
 
-**"This is just epiphenomenalism in disguise"**: If mental causation produces no observable differences, isn't it causally inert? No. Observational closure concerns *laboratory* observations, not causal efficacy. Pain causing wincing is real causation even if neuroscientists cannot detect that the pain—rather than the neural state—did the causing. Epiphenomenalism claims consciousness causes *nothing*. Observational closure allows consciousness to cause *everything it appears to cause*—it just doesn't cause patterns that laboratories can distinguish from physical causation.
+**"This is just epiphenomenalism in disguise"**: Observational closure concerns *laboratory* observations, not causal efficacy. Epiphenomenalism claims consciousness causes *nothing*; observational closure allows consciousness to cause *everything it appears to cause*—it just doesn't produce patterns laboratories can distinguish from physical causation.
 
-**"This seems designed to avoid refutation"**: Many well-confirmed theories have this structure. Conservation of energy applies where energy is definable; it doesn't predict what happens where energy isn't well-defined. General relativity predicts what happens in spacetime; it doesn't predict what happens "before" spacetime exists. Observational closure delineates the domain where causal closure applies (observable physical events) from the domain where it might not (consciousness-quantum interfaces). This is domain specification, not evasion.
+**"This seems designed to avoid refutation"**: Many well-confirmed theories delineate domains similarly. Conservation of energy applies where energy is definable; general relativity predicts within spacetime, not "before" it. Observational closure specifies domains, not evasion.
 
-#### Observational Closure and Cognitive Closure
-
-[Cognitive closure](/concepts/mysterianism/) (McGinn) is a distinct concept: the thesis that certain properties lie permanently beyond human conceptual reach. McGinn's closure is *epistemic*—about what we can know or conceive. Saad's observational closure is *methodological*—about what experiments can detect.
-
-The two closures may interact. If the consciousness-physics interface involves properties we are cognitively closed to (McGinn's property P), we might be unable even to formulate tests that would reveal observational violations. Our experimental paradigms might be structured by our cognitive limitations in ways that preclude detecting mental causation. But the concepts are independent. Observational closure could hold even if we understood the consciousness-physics interface perfectly; cognitive closure could hold even if observational closure failed.
-
-The upshot: dualists need only respect observational closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops this insight further: experiences *preempt* rather than overdetermine physical causation, satisfying observational closure while rejecting universal closure.
+The upshot: dualists need only respect observational closure, not universal closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops this further: experiences *preempt* rather than overdetermine physical causation. (Note that [cognitive closure](/concepts/mysterianism/)—McGinn's epistemic thesis about what we can conceive—is distinct from observational closure, though if the consciousness-physics interface involves cognitively closed properties, we may be unable to formulate tests that would reveal violations.)
 
 ### Empirical Status
 
-Causal closure is not an empirical finding but a methodological assumption. Science does not *discover* that every physical event has a sufficient physical cause—it *assumes* this in order to search for physical causes. The success of physics shows that *many* physical events have physical causes, not that *all* do.
+Causal closure is not an empirical finding but a methodological assumption. Science *assumes* every physical event has a sufficient physical cause in order to search for physical causes; it does not *discover* this. The success of physics shows that *many* physical events have physical causes, not that *all* do. As [reductionism](/concepts/reductionism/) details, methodological reductionism does not entail ontological reductionism—methodological success cannot establish that mental causes don't exist, only that scientific method doesn't look for them.
 
-This matters for [reductionism](/concepts/reductionism/). If causal closure is an ontological thesis (a claim about what exists and what causes what), it requires independent justification. If it is merely a methodological thesis (a useful assumption for scientific inquiry), it cannot establish that mental causes don't exist—only that scientific method doesn't look for them. Reductionists treat methodological success as evidence for ontological claims, but methodological reductionism does not entail ontological reductionism.
-
-Moreover, the history of science shows unexpected discoveries that violated prior assumptions. That no violation has been found doesn't mean none exists—especially in domains (like consciousness) that resist physical investigation.
-
-To be clear: the Map's position also involves metaphysical commitments beyond empirical evidence. The claim that consciousness fills quantum gaps is not more empirically supported than the claim that physics is complete. Both positions extrapolate from evidence to metaphysics. The question is which extrapolation better accounts for the full range of phenomena—including the existence of consciousness itself and its apparent causal efficacy.
+To be clear: the Map's position also involves metaphysical commitments beyond empirical evidence. Both positions extrapolate from evidence to metaphysics. The question is which extrapolation better accounts for the full range of phenomena—including the existence of consciousness itself and its apparent causal efficacy.
 
 ### The Quantum Exception
 
@@ -153,47 +131,23 @@ In quantum mechanics, physical systems evolve deterministically under the Schrö
 
 This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. The physical story is incomplete.
 
-**Objection from hidden variables**: Couldn't deterministic hidden variable theories (like Bohmian mechanics) restore causal closure? They provide deterministic completion of quantum mechanics—particles have definite positions, and their evolution is fully determined by both the wave function and hidden variables.
+**Objection from hidden variables**: Hidden variable theories (like Bohmian mechanics) could restore determinism, but they add unobservable machinery. Occam's Razor cuts both ways: consciousness (which we directly experience) is no less parsimonious than hidden variables (which we don't). Pilot-wave theories also face indexical identity problems parallel to Many-Worlds (see [Tenet 4](/tenets/#no-many-worlds)).
 
-The Map's response: Hidden variable theories add explanatory machinery beyond what's observed. Occam's Razor cuts both ways—if we're adding unobservable entities, consciousness (which we directly experience) is no less parsimonious than unobservable hidden variables (which we don't). More decisively, the Map rejects Many-Worlds interpretations (see [Tenet 4](/tenets/#no-many-worlds)) and pilot-wave theories face similar indexical identity problems: why am *I* the consciousness associated with *this* particle trajectory rather than another?
+**The probabilistic causation response**: Some argue probabilistic causation is still causation. But this conflates statistical explanation with causal sufficiency. A probability distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point.
 
-**The probabilistic causation response**: Some argue that probabilistic causation is still causation—the wave function causally explains the *distribution* of outcomes even if not each individual one. But this conflates statistical explanation with causal sufficiency. A sufficient cause produces its effect; a probability distribution leaves the actual outcome undetermined. The distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point.
+**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome. Chess rules constrain legal moves without overdetermining which move occurs. [Saad's delegatory framework](/topics/delegatory-dualism/) offers a complementary response: physical states *delegate* causal responsibilities to conscious experiences via preemption rather than duplication.
 
-**The overdetermination worry**: Even granting indeterminism, doesn't consciousness biasing quantum outcomes constitute overdetermination? The wave function determines probability distributions; consciousness determines which outcome within that distribution. Two causes, one effect.
-
-The Map's response: If consciousness *violates* the Born rule (produces outcome frequencies different from quantum probabilities), that would be overdetermination—empirically testable and not found. But consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome. Compare: chess rules constrain legal moves without overdetermining which move occurs.
-
-Bradford Saad's [delegatory-dualism](/topics/delegatory-dualism/) (2025) offers another response: physical states *delegate* their causal responsibilities to conscious experiences via preemption rather than duplication. When pain causes wincing, the physical state's contribution is preempted, not doubled—like how a major's order preempts a sergeant's. The Map's quantum framework and Saad's delegation mechanism may be complementary: quantum indeterminacy provides the substrate; delegation explains the causal structure.
-
-If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without violating any physical law. No energy is injected (the outcomes are among those physics already allows). The selection operates within quantum mechanical constraints, not against them.
+If consciousness acts at these indeterminacies, it causes physical events without violating any physical law. No energy is injected; the selection operates within quantum mechanical constraints.
 
 ### Stapp's Quantum Response
 
-[Henry Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) provides the most detailed account of how consciousness operates at quantum indeterminacies without violating causal closure's core insight. The mechanism has four key features that directly address the exclusion problem:
+[Henry Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) provides the most detailed account of how consciousness operates at quantum indeterminacies. The key insight: the quantum Zeno effect allows attention to stabilize desired neural states through repeated observation, without injecting energy. Consciousness fills a genuine gap (physics specifies probabilities but not which outcome actualizes) rather than competing with physical causes. The "effort of will" that William James described corresponds to repeated quantum measurements—what attention *feels like* matches what the Zeno effect *does*.
 
-**1. Operates where physics is silent**: Quantum mechanics specifies probabilities but not which outcome actualizes. When a neuron faces superposed firing patterns, physics determines the *range* of possibilities and their statistical weights, but leaves the particular outcome undetermined. Consciousness fills this genuine gap rather than competing with physical causes.
+Once quantum indeterminacy is recognized as genuine ontological openness rather than ignorance, the closure objection loses its grip. Consciousness acts precisely where physics becomes "silent."
 
-**2. No energy injection**: The quantum Zeno effect works through repeated observation that "freezes" desired neural states. No energy is added; attention increases the measurement rate of quantum states, collapsing superpositions toward the attended alternative within the energy constraints physics already specifies. Conservation laws remain intact.
+**The decoherence challenge** is serious: critics object that quantum coherence cannot survive in warm biological systems. But decoherence timescales remain disputed, decoherence doesn't solve the measurement problem (something must still select which outcome becomes actual), and the quantum Zeno effect may *sustain* coherence through repeated measurement. See [the decoherence response](/concepts/quantum-consciousness/#the-decoherence-objection) for detailed treatment.
 
-**3. Complementary determination**: The wave function provides probabilities; consciousness provides particularity. This isn't overdetermination (two sufficient causes for one effect) but complementary determination: physics constrains what *can* happen and how *often* each possibility occurs statistically; consciousness determines what *does* happen in this instance. Compare: chess rules constrain legal moves, but the player determines which legal move occurs—the rules don't overdetermine the move.
-
-**4. Phenomenologically grounded**: The "effort of will" that William James described corresponds to repeated quantum measurements that stabilize one outcome over competitors. What attention *feels like* from the inside matches what the Zeno effect *does* from the physics perspective. This isn't consciousness operating from outside physics but consciousness *being* the process that resolves quantum indeterminacy at specific neural locations.
-
-The Stapp mechanism transforms the causal closure debate. The principle's intuitive force comes from assuming physics determines everything. Once quantum indeterminacy is recognized—not as ignorance but as genuine ontological openness—the closure objection loses its grip. Consciousness acts precisely where physics becomes "silent," making mental causation compatible with physical law.
-
-**The decoherence challenge**: Critics object that quantum coherence cannot survive in warm, wet biological systems—decoherence destroys superpositions before consciousness could select among them. This is a serious empirical challenge. The Map's response has three components:
-
-First, decoherence timescales remain disputed. While Tegmark calculated femtosecond decoherence for microtubules, Hameroff's group calculated nanosecond to picosecond timescales—seven orders of magnitude longer—and Stuart Hameroff notes that biological systems demonstrably exploit quantum effects (avian magnetoreception, photosynthesis). This doesn't prove neural quantum coherence but shows the door isn't empirically closed.
-
-Second, and more fundamentally, decoherence doesn't solve the measurement problem—it only spreads superposition into the environment. Something must still select which outcome becomes actual from the decohered mixture. If consciousness is that something, decoherence doesn't eliminate its role; it just means consciousness operates on decohered states rather than pure superpositions.
-
-Third, the quantum Zeno effect may *sustain* coherence through repeated measurement. If attention itself constitutes quantum observation, then sustained attention prevents decoherence in the attended neural state. This is Stapp's key insight: consciousness doesn't just select among existing superpositions; its attention *maintains* the superposition long enough for selection to matter.
-
-See [the decoherence response](/concepts/quantum-consciousness/#the-decoherence-objection) for detailed treatment.
-
-This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/): the closure objection fails because physics does not exclude mental causation at quantum indeterminacies.
-
-This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness influences physical outcomes at quantum indeterminacies, where the physical story runs out. The [connection between the measurement problem and the hard problem](/topics/quantum-measurement-consciousness-interface/) develops this further: both problems share a structure where third-person physical descriptions fail to capture first-person facts.
+This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/). The [connection between the measurement problem and the hard problem](/topics/quantum-measurement-consciousness-interface/) develops it further: both share a structure where third-person descriptions fail to capture first-person facts.
 
 ### The Emergentist Response
 
@@ -213,9 +167,9 @@ This argument is contested but highlights reflexivity: if the belief in causal c
 
 The connection to [free-will](/topics/free-will/) is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference—the outcome was physically determined (or randomly fluctuated within fixed probabilities).
 
-The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this: free will emerges at indeterministic moments where the agent's effort influences which outcome occurs. The Map provides the *mechanism* Kane leaves underspecified.
+The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this; the Map provides the *mechanism* Kane leaves underspecified.
 
-Critics raise the [luck objection](/concepts/luck-objection/): if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them. The felt character of deciding and striving *is* the selection process—not efficient causation (prior states producing subsequent states) but final causation (intentions directing outcomes). This isn't invoking a homunculus; it's recognizing that phenomenal states constitute a distinct mode of causation that resolves indeterminacy through intentional directedness rather than random fluctuation.
+Critics raise the [luck objection](/concepts/luck-objection/): if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them. Phenomenal states constitute a distinct mode of causation—intentional directedness rather than random fluctuation.
 
 ## Relation to the Map's Perspective
 
@@ -243,9 +197,9 @@ But why don't consciousness-influenced quantum events aggregate to detectable vi
 
 The statistical response: Consciousness biases only indeterminacies that matter for cognition—quantum events in neural systems prepared for amplification. In non-neural systems (bridge atoms, thermalization events), any biases average out to undetectable fluctuations within quantum statistical variation. Causal closure's failure allows *small* deviations that influence which superposed neural state becomes actual—statistically invisible outside neural systems, yet decisive for agency and thought.
 
-**Testability**: What would falsify the Map's position? Several possibilities: (1) demonstration that quantum coherence is *never* maintained at neural timescales under any conditions, (2) proof that quantum effects, even if present, cannot be amplified to affect neural firing, (3) identification of purely classical mechanisms sufficient to explain all consciousness-related phenomena including reportability and metacognition, or (4) discovery that consciousness reports don't correlate with quantum effects in predicted ways. The Map's position is not empirically equivalent to physicalism—it makes testable predictions about quantum biology in neural systems.
+**Testability**: The Map's position makes falsifiable predictions: if quantum coherence proves impossible at neural timescales, if quantum effects cannot be amplified to affect neural firing, or if purely classical mechanisms explain all consciousness-related phenomena including reportability—the framework fails. The position is not empirically equivalent to physicalism.
 
-This is not "god of the gaps" reasoning. It's recognition that physics *describes* a gap—the gap between quantum probabilities and definite outcomes—and asks what fills it. The Map's answer: consciousness. Not understanding the full mechanism of consciousness-quantum interface doesn't make the position incoherent—it may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)). We don't fully understand how mass curves spacetime, yet general relativity is coherent. Similarly, identifying *where* consciousness interacts (at quantum indeterminacies) without fully explaining *how* leaves the framework logically consistent while acknowledging epistemic limits.
+This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. Not understanding the full mechanism doesn't make the position incoherent—it may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)). We don't fully understand how mass curves spacetime, yet general relativity is coherent.
 
 ## Further Reading
 

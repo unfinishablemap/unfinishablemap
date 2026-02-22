@@ -94,7 +94,7 @@ The discovery of cognitive motor dissociation (CMD) further complicates the mate
 
 These patients are not unconscious. They are *disconnected*—aware but unable to express that awareness through behavior. The neural pathways linking consciousness to motor output are damaged, while consciousness itself persists.
 
-This finding has profound implications. If one quarter of "unconscious" patients are actually conscious, our behavioral criteria for consciousness are systematically unreliable. And if consciousness can persist despite profound disconnection from brain output systems, the brain's role looks more like interface than producer.
+This finding has profound implications. If one quarter of "unconscious" patients are actually conscious, our behavioral criteria for consciousness are systematically unreliable. And if consciousness can persist despite profound disconnection from brain output systems, the brain's role looks more like interface than producer. See [[disorders-of-consciousness-as-test-cases]] for how the full spectrum of disorders of consciousness—vegetative state, minimally conscious state, locked-in syndrome, and CMD—discriminates between competing theories.
 
 ## Memory Systems and Loss of Consciousness
 

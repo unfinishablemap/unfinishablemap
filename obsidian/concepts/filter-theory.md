@@ -117,7 +117,7 @@ Skeptics note that the majority report nothing, suggesting positive reports may 
 
 Up to 25% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging. They understand language, follow instructions, and sustain attention—but cannot express any of this through behavior.
 
-These patients demonstrate the distinction between consciousness and its expression through the brain. Consciousness persists; only its interface with motor systems is damaged. This is exactly what filter theory predicts: damage the interface, not the consciousness.
+These patients demonstrate the distinction between consciousness and its expression through the brain. Consciousness persists; only its interface with motor systems is damaged. This is exactly what filter theory predicts: damage the interface, not the consciousness. The [[disorders-of-consciousness-as-test-cases|full spectrum of disorders of consciousness]] tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
 
 ### Dreams
 

@@ -145,7 +145,7 @@ From the Map's perspective, purely computational systems cannot be conscious—c
 
 The debate may be empirically tractable:
 
-- **Boundary cases**: If functionalism is true, functionally equivalent systems should have equivalent conscious states. Cases like *C. elegans* and split-brain patients test this.
+- **Boundary cases**: If functionalism is true, functionally equivalent systems should have equivalent conscious states. Cases like *C. elegans*, split-brain patients, and [[disorders-of-consciousness-as-test-cases|disorders of consciousness]] (where CMD patients retain functional processing without behavioral output) test this.
 - **Quantum effects**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] hypothesis predicts consciousness correlates with quantum-sensitive processes—irrelevant if functionalism is true.
 - **AI asymmetries**: Dualism predicts systematic behavioral differences between biological and computational systems even at high sophistication.
 

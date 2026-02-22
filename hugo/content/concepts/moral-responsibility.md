@@ -27,6 +27,7 @@ last_deep_review: 2026-01-30 14:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[concept-of-free-will]]'
 title: Moral Responsibility
 topics:
 - '[[topics/free-will]]'
