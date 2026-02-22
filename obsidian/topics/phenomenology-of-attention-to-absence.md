@@ -4,7 +4,8 @@ description: "How consciousness attends to what isn't there—the distinctive ph
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-19T02:49:00+00:00
+ai_modified: 2026-02-22T00:36:00+00:00
+last_deep_review: 2026-02-22T00:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +21,9 @@ related_articles:
   - "[[phenomenology-of-returning-attention]]"
   - "[[structure-of-attention]]"
   - "[[phenomenology-of-temporal-attention]]"
+  - "[[phenomenology-of-anticipation]]"
   - "[[thoughts-that-slip-away]]"
+  - "[[phenomenal-intentionality]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -58,9 +61,9 @@ The standard empiricist picture of perception has difficulty with absence-percep
 
 **The counterfactual account.** Absence-perception involves implicit counterfactual reasoning: "the picture *would be* here if it hadn't been removed." On this view, you perceive the wall as it is and simultaneously represent how it should be. The experience of absence is the felt discrepancy between actual and expected. This account is plausible for reflective absences but struggles with the immediacy of perceptual absence. When you scan the café for Pierre, you do not seem to be running counterfactuals — you seem to *see* his absence directly.
 
-**The expectation-violation account.** The brain maintains predictive models and absence is experienced when prediction and input diverge. Predictive processing frameworks support this: the brain is constantly generating expectations, and prediction errors signal mismatches. Absence-perception is a specific kind of prediction error — one where the predicted input fails to arrive.
+**The expectation-violation account.** The brain maintains predictive models and absence is experienced when prediction and input diverge. Predictive processing frameworks support this: the brain is constantly generating expectations, and prediction errors signal mismatches. Absence-perception is a specific kind of prediction error — one where the predicted input fails to arrive. The [[phenomenology-of-anticipation|phenomenology of anticipation]] explores the experiential side of this: [[protention]] — Husserl's forward-directed structure of present experience — creates the expectational field against which absence registers.
 
-This account has empirical support. The mismatch negativity (MMN) in auditory processing occurs when an expected sound fails to appear, even without conscious attention. The brain registers the absence before consciousness does. But the account leaves open why prediction errors for absent stimuli feel *like that* — why the missing clock-tick has the phenomenal character of silence-where-sound-should-be rather than simply triggering an alert.
+This account has empirical support. The mismatch negativity (MMN) in auditory processing occurs when an expected sound fails to appear, even without conscious attention (Näätänen et al., 2007). The brain registers the absence before consciousness does. But the account leaves open why prediction errors for absent stimuli feel *like that* — why the missing clock-tick has the phenomenal character of silence-where-sound-should-be rather than simply triggering an alert.
 
 **The Gestalt account.** Absence is perceived because perception is structured by wholes, not built up from parts. The row of books with a gap is perceived as a broken whole, not as a collection of individual books plus empty space. The gap belongs to the perceptual structure just as the books do. Absence is a structural feature of the perceived field, not a missing element.
 
@@ -72,15 +75,17 @@ Sartre's example of Pierre at the café is instructive. When Sartre enters the c
 
 The philosophical point is that absence-perception requires a consciousness that brings expectations, projects meanings, and constitutes negations. The physical world does not contain absences. A complete physical description of the café includes every patron who is there and says nothing about those who are not. Absence is a feature of the field of consciousness, not of the physical field.
 
+A functionalist might reply that a predictive processing system *does* represent absence: the model contains the prediction, and the discrepancy between prediction and input *is* the absence-representation. On this view, the café-model contains Pierre-as-predicted, and the mismatch constitutes his absence computationally. This is fair as far as it goes — the functional structure may be necessary. But Sartre's point is that the absence is experienced *as absence*, with phenomenal character (the room *feels* Pierre-less), and this experiential dimension is not captured by noting that a model has an unmatched prediction.
+
 ## Attention to Absence and the Structure of Consciousness
 
 Attention to absence reveals structural features of consciousness that purely presence-directed attention does not.
 
-**Consciousness is constitutively temporal.** Absence-perception depends on retention (what was there before) and protention (what is expected). The missing clock-tick requires a retained auditory pattern and a protended continuation. This Husserlian time-consciousness is not an optional addition to perception but a condition of experiencing absence at all. A purely momentary consciousness — if such were possible — could not experience absence.
+**Consciousness is constitutively temporal.** Absence-perception depends on retention (what was there before) and [[protention]] (what is expected). The missing clock-tick requires a retained auditory pattern and a protended continuation. This Husserlian [[temporal-consciousness|time-consciousness]] is not an optional addition to perception but a condition of experiencing absence at all. A purely momentary consciousness — if such were possible — could not experience absence.
 
 **Consciousness is norm-governed.** To experience absence is to experience something as *wrong* or *missing* relative to a normative structure. The gap in the bookshelf is not merely different from the expected state; it violates the expected state. This normative dimension — things should be a certain way and aren't — is intrinsic to the phenomenology of absence. It suggests that consciousness is not a passive mirror of inputs but an evaluative engagement with the world.
 
-**Consciousness is intentional in a strong sense.** [[intentionality|Intentionality]] — the directedness of consciousness toward objects — is typically illustrated with present objects: I see *the tree*, I think *about Vienna*. Absence-perception shows that intentionality extends to non-existent objects. Consciousness can be directed toward what isn't there, and this directedness has all the specificity and determinacy of directedness toward what is. This stretches the concept of intentionality beyond what causal accounts of mental content easily accommodate, because there is no causal chain from the absent object to the experience of its absence.
+**Consciousness is intentional in a strong sense.** [[intentionality|Intentionality]] — the directedness of consciousness toward objects — is typically illustrated with present objects: I see *the tree*, I think *about Vienna*. Absence-perception shows that intentionality extends to non-existent objects. Consciousness can be directed toward what isn't there, and this directedness has all the specificity and determinacy of directedness toward what is. This stretches the concept of intentionality beyond what causal accounts of mental content easily accommodate, because there is no causal chain from the absent object to the experience of its absence. Advocates of [[phenomenal-intentionality]] would note that this directedness toward absence has phenomenal character — what it is like to intend Pierre's absence differs from what it is like to intend Wellington's — and that this phenomenal determinacy is what makes the absence *this specific absence* rather than a generic gap.
 
 ## Relation to Site Perspective
 
@@ -94,15 +99,20 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is implicated becau
 
 - [[attention-created-voids]] — How attending produces unattendable territory
 - [[phenomenology-of-returning-attention]] — The structure of attention returning from absence
+- [[phenomenology-of-anticipation]] — The forward-directed experience that absence violates
 - [[phenomenology-of-temporal-attention]] — How attention shapes temporal experience
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive absence
 - [[structure-of-attention]] — The architecture of attentional control
 - [[intentionality]] — The directedness of consciousness toward objects
+- [[phenomenal-intentionality]] — Why intentionality toward absent objects requires phenomenal character
+- [[protention]] — Husserl's forward-directed structure of present experience
+- [[phenomenology-of-the-edge]] — What consciousness encounters at its limits
 
 ## References
 
+- Farennikova, A. (2013). "Seeing Absence." *Philosophical Studies*, 166(3), 429-454.
 - Heidegger, M. (1927/2010). *Being and Time*. Translated by J. Stambaugh. State University of New York Press.
 - Husserl, E. (1893-1917/1991). *On the Phenomenology of the Consciousness of Internal Time*. Translated by J.B. Brough. Kluwer.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+- Näätänen, R., Paavilainen, P., Rinne, T., & Alho, K. (2007). "The Mismatch Negativity (MMN) in Basic Research of Central Auditory Processing." *Clinical Neurophysiology*, 118(12), 2544-2590.
 - Sartre, J.-P. (1943/1956). *Being and Nothingness*. Translated by H.E. Barnes. Philosophical Library.
-- Farennikova, A. (2013). "Seeing Absence." *Philosophical Studies*, 166(3), 429-454.

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
-- **Type**: cross-review
-- **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[[quantum-neural-mechanisms]]`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[[quantum-coherence-and-binding-evidence]]`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[quantum-neural-mechanisms-and-coherence]]` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-18
-
 ### P2: Update references to coalesced metarepresentation article
 - **Type**: cross-review
 - **Notes**: Coalesce (2026-02-17) merged `metarepresentation.md` into `metacognition.md` (now titled "Metacognition, Metarepresentation, and Consciousness"). 32 active content files reference `[[metarepresentation]]` across concepts/, topics/, reviews/, and voids/. Key files include: teaching-as-metarepresentation.md, working-memory.md, baseline-cognition.md, theory-of-mind.md, higher-order-theories.md, consciousness-as-amplifier.md, cumulative-culture.md, global-workspace-theory.md, problem-of-other-minds.md, minimal-consciousness.md, consciousness-and-social-cognition.md (both concept and topic), jourdain-hypothesis.md, animal-consciousness.md, creativity-consciousness-and-novel-thought.md, distinctiveness-of-human-creativity.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[[metacognition]]` where appropriate.
@@ -152,6 +146,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[[quantum-neural-mechanisms]]`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[[quantum-coherence-and-binding-evidence]]`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[quantum-neural-mechanisms-and-coherence]]` where appropriate.
+- **Output**: None -- Context: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
 
 ### ✓ 2026-02-22: Update references to coalesced surprise articles
 - **Type**: cross-review
