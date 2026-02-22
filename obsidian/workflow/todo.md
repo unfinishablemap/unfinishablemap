@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Condense near-death-experiences.md (3683 words, 105% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3683 words, may contain redundancy with related articles on altered states and filter theory. Preserve core evidential arguments while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-22
-
 ### P2: Address argumentative gaps in self-and-consciousness.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review found two high-severity issues: (1) the "transparent to whom?" rebuttal of Metzinger begs the question by presupposing the irreducible subject it aims to establish, (2) temporal status of the minimal self is ambiguous—the article claims compatibility with Buddhist impermanence while making claims that may require persistence. Also needs to address Metzinger's zero-person perspective (MPE). See pessimistic-2026-02-22-afternoon.md
@@ -212,6 +206,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Condense near-death-experiences.md (3683 words, 105% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3683 words, may contain redundancy with related articles on altered states and filter theory. Preserve core evidential arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/near-death-experiences.md
 
 ### ✓ 2026-02-22: Condense decoherence.md (3792 words, 108% of target)
 - **Type**: condense

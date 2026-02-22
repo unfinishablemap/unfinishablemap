@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 13:22 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]]
+- **Before**: 3683 words
+- **After**: 2189 words
+- **Reduction**: 41%
+- **Technique**: Cut UVA subsection (background), cut Process Philosophy section (linked instead), cut Mysterian Angle section (condensed to one sentence), compressed materialist explanations into single paragraph, trimmed terminal lucidity prevalence data, condensed asymmetry problem sub-arguments, tightened tenet section, removed Maria's Shoe case, trimmed references
+
 ## 2026-02-22 13:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-normativity-environmental-ethics]]
