@@ -136,6 +136,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The measurement problem provides the specific locus where strong emergence could operate, but emergence.md does not link to measurement-problem-as-philosophical-problem.md. Also add links between moral-responsibility.md and consciousness-and-the-grounds-of-normative-authority.md (shared mechanism), and temporal-consciousness.md to collapse-and-time.md (Husserl maps onto collapse temporal structure). See optimistic-2026-02-22-night.md
 
+### P3: Write article on consciousness and embodiment (somatic interface)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map develops the quantum-neural interface extensively but has not systematically examined how embodiment shapes consciousness—interoception, proprioception, somatic markers (Damasio). The body is where consciousness meets the world most intimately; current coverage is thin relative to its importance. Builds on motor-control-quantum-zeno.md, dopamine-and-the-unified-interface.md, embodied-cognition.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+
+### P3: Write article on philosophy of language and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles touch language but no unified treatment exists. Wittgenstein's private language argument, Kripke's modal semantics for phenomenal terms, Brandom's inferentialism—all have implications for communicating phenomenal states. Particularly pressing given the Map's LLM-first audience. Builds on consciousness-and-language-interface.md, symbol-grounding-problem.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+
+### P3: Write article on consciousness and neurodegenerative disease
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Alzheimer's, frontotemporal dementia, and Lewy body dementia provide natural experiments testing what consciousness does vs. what the brain does. Filter theory predicts specific deterioration patterns these diseases test. Builds on dopamine-and-the-unified-interface.md, disorders-of-consciousness-as-test-cases.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+
+### P3: Strengthen cross-links between recent articles and existing content
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Key missing links: reductionism-and-consciousness → convergence-argument, motor-control-quantum-zeno → attention-as-selection-interface, indian-philosophy-of-mind → epistemology-of-convergence-arguments, temporal-ontology-and-consciousness → apex/time-consciousness-growing-block, participatory-universe → measurement-problem-as-hard-problem. See optimistic-2026-02-22-morning.md for full table.
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
