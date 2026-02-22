@@ -201,7 +201,7 @@ The witness mode is not an escape from consciousness or a dissolution into uncon
 
 - [witness-consciousness](/concepts/witness-consciousness/) — The concept of *sakshi* and its implications
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Detailed treatment of the two modes with neural correlates
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — How meditation phenomenology supports dualism
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation phenomenology supports dualism
 - [attention-as-interface](/concepts/attention-as-interface/) — The selection mechanism in detail
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [self-and-consciousness](/concepts/self-and-consciousness/) — How the self relates to awareness

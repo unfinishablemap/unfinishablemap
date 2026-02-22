@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Contemplative Evidence for Consciousness Theories](/topics/contemplative-evidence-for-consciousness-theories/)
+**Article**: [Contemplative Evidence for Consciousness Theories](/topics/contemplative-evidence-for-consciousness/)
 **Previous review**: [2026-01-28](/reviews/deep-review-2026-01-28b-contemplative-evidence-for-consciousness-theories/) (second review, declared stable)
 
 ## Review Context

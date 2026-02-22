@@ -160,7 +160,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
 - [witness-consciousness](/concepts/witness-consciousness/) — The Advaitic *sakṣin* and Buddhist witnessing traditions
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — First-person data as empirical test
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis, paralleled by al-Ghazālī
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual chasm these traditions independently identify
 - [agent-causation](/concepts/agent-causation/) — The philosophical framework Nyāya independently articulates

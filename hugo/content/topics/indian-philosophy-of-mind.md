@@ -154,7 +154,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [agent-causation](/concepts/agent-causation/) — The framework Nyaya independently articulates
 - [substance-property-dualism](/concepts/substance-property-dualism/) — Distinguishing forms of dualism
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — First-person data as empirical test
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

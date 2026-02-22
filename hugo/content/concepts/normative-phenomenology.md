@@ -119,7 +119,7 @@ Normative phenomenology maintains the distinction by bracketing endorsement. Des
 
 ## Contemplative Approaches
 
-[Contemplative traditions](/topics/contemplative-evidence-for-consciousness-theories/) contribute substantially to normative phenomenology. Sustained meditative attention reveals normative microstructure invisible to casual introspection.
+[Contemplative traditions](/topics/contemplative-evidence-for-consciousness/) contribute substantially to normative phenomenology. Sustained meditative attention reveals normative microstructure invisible to casual introspection.
 
 Buddhist *vipassanā* discloses how hedonic valence (*vedanā*) arises moment-to-moment as a constitutive feature of experience, not an evaluative overlay. A distinction matters here: in Abhidharma analysis, *vedanā* itself is bare feeling-tone (pleasant, unpleasant, neutral), while the normative dimension—the sense that something demands response—arises with craving (*taṇhā*) in response to feeling-tone. Practitioners report that sustained attention reveals this evaluative texture present before deliberation begins, though traditions disagree about whether it reflects normative reality or conditioned reactivity.
 
@@ -151,7 +151,7 @@ Normative phenomenology connects to the Map's [foundational commitments](/tenets
 - [attention-as-interface](/concepts/attention-as-interface/) — The attention mechanism through which normative salience operates
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Contemplative traditions as laboratories for normative investigation
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Contemplative traditions as laboratories for normative investigation
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 
 ## References

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Write article on epiphenomenalism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/epiphenomenalism-2026-01-08.md. Epiphenomenalism is the strongest alternative to bidirectional interaction—the claim that consciousness exists but has no causal influence. The Map needs a dedicated response to strengthen Tenet 3 (Bidirectional Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-22
-
 ### P2: Write article on quantum decoherence objection responses
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-decoherence-objection-responses-2026-01-15.md. The decoherence objection is the primary physics-based challenge to consciousness-collapse theories. Responding to it is critical for Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
@@ -248,6 +242,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Write article on epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epiphenomenalism-2026-01-08.md. Epiphenomenalism is the strongest alternative to bidirectional interaction—the claim that consciousness exists but has no causal influence. The Map needs a dedicated response to strengthen Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: epiphenomenalism
 
 ### ✓ 2026-02-22: Condense temporal-consciousness.md (3838 words, 154% of target)
 - **Type**: condense

@@ -114,7 +114,7 @@ The phenomenology of moral perception connects to the Map's [foundational commit
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
 - [normative-void](/voids/normative-void/) — Where moral perception reaches its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — The epistemological role of contemplative practice
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — The epistemological role of contemplative practice
 
 ## References
 

@@ -57,7 +57,7 @@ Husserl's tripartite structure of temporal consciousness describes the architect
 
 - **Deep engagement** strengthens retention and protention simultaneously. A chess player attending to the board holds more of the recent sequence in retention while projecting further into possible futures. The specious present widens and deepens.
 - **Distracted attention** weakens all three components. Retention fades quickly, protention collapses to mere reactivity, and primal impression thins. The present becomes a narrow, shallow instant.
-- **Meditative attention** reveals the microstructure of all three. [Contemplative traditions](/topics/contemplative-evidence-for-consciousness-theories/) report that sustained attention to the present moment discloses rapid arising and passing—what the Buddhist phenomenological tradition calls *khaṇika* (momentariness)—normally blurred by ordinary attention. (The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.)
+- **Meditative attention** reveals the microstructure of all three. [Contemplative traditions](/topics/contemplative-evidence-for-consciousness/) report that sustained attention to the present moment discloses rapid arising and passing—what the Buddhist phenomenological tradition calls *khaṇika* (momentariness)—normally blurred by ordinary attention. (The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.)
 
 Francisco Varela's neurophenomenological research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The specious present is not a given but an attentional achievement—its depth and span reflect how consciousness directs itself through time.
 
@@ -121,7 +121,7 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 - [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/)
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
 - [free-will](/topics/free-will/)
 
 ## References

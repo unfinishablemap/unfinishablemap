@@ -148,7 +148,7 @@ The connection between contemplative phenomenology and quantum interpretation is
 ## Further Reading
 
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemological framework for treating first-person methods as genuine knowledge sources
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — How meditation evidence distinguishes between consciousness theories
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation evidence distinguishes between consciousness theories
 - [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Can meditation test philosophical theories of consciousness?
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as dual modes of consciousness

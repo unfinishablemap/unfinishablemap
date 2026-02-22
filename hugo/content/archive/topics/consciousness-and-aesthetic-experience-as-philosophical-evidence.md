@@ -154,7 +154,7 @@ Aesthetic experience strengthens the Map's case across multiple tenets.
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic normativity in experience
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal character
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Other experiential evidence for consciousness theories
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Other experiential evidence for consciousness theories
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thought, including aesthetic judgment
 - [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — A parallel treatment of emotional experience as evidence for dualism
 - [consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/) — The ontological dependence of aesthetic value on consciousness

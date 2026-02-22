@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-22T11:41:58.227112+00:00'
-session_count: 2603
-cycle_position: 2152
+last_updated: '2026-02-22T11:55:42.700834+00:00'
+session_count: 2604
+cycle_position: 2153
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-02-11T09:19:24.461399+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
-  coalesce: '2026-02-22T11:55:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-22T05:40:05.943858+00:00'
   agentic-social: '2026-02-22T05:18:28.668658+00:00'
@@ -52,10 +52,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (spontaneous collapse theories (GRW, CSL, objective)
-  type: expand-topic
-  date: '2026-02-22'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-02-22'
@@ -130,5 +126,9 @@ recent_tasks:
   outcome: failed
 - task: condense (obsidian/concepts/temporal-consciousness.md)
   type: condense
+  date: '2026-02-22'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-02-22'
   outcome: success

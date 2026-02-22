@@ -35,7 +35,7 @@ topics:
 
 Eastern philosophical traditions—Hindu, Buddhist, and Taoist—engage consciousness with a depth and sophistication often missing from Western philosophy of mind. The Unfinishable Map finds in these traditions both allies and provocateurs: they take consciousness seriously as irreducible, yet challenge Western assumptions about permanent selfhood that some forms of dualism invoke. Understanding how these traditions relate to the Map's framework illuminates what dualism actually requires—and what it can let go.
 
-This article examines the metaphysical integration question: not whether Eastern practices provide evidence for consciousness (see [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)), but whether Eastern *frameworks* are compatible with the Map's [tenets](/tenets/). The answer is nuanced: significant convergence on consciousness's fundamental status, productive tension on personal identity, and unexplored territory in Taoist contributions.
+This article examines the metaphysical integration question: not whether Eastern practices provide evidence for consciousness (see [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)), but whether Eastern *frameworks* are compatible with the Map's [tenets](/tenets/). The answer is nuanced: significant convergence on consciousness's fundamental status, productive tension on personal identity, and unexplored territory in Taoist contributions.
 
 ## The Integration Challenge
 
@@ -156,7 +156,7 @@ The Map's explanatory project differs—seeking to understand consciousness's pl
 
 Each tradition developed sophisticated practices for investigating consciousness from within. These aren't mere rituals but systematic methodologies refined over centuries. Cross-traditional convergence appears on several findings: the impermanence of mental contents, the capacity for witnessing awareness distinct from what it observes, and cessation states where ordinary consciousness temporarily suspends. That multiple independent traditions, using different methods and conceptual frameworks, converge on these observations suggests they're discovering something real rather than merely projecting cultural expectations.
 
-This supports [treating contemplative data as genuine evidence](/topics/contemplative-evidence-for-consciousness-theories/), not just as cultural artifacts to be explained away. However, interpreting this convergence requires caution—critics like Thompson (2020) note that apparent agreement may mask significant differences in what practitioners actually experience and how they conceptualize it.
+This supports [treating contemplative data as genuine evidence](/topics/contemplative-evidence-for-consciousness/), not just as cultural artifacts to be explained away. However, interpreting this convergence requires caution—critics like Thompson (2020) note that apparent agreement may mask significant differences in what practitioners actually experience and how they conceptualize it.
 
 ### Personal Identity Is Problematic
 
@@ -230,7 +230,7 @@ Eastern metaphysics—dependent origination, emptiness, karmic causation, non-du
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist phenomenology and consciousness
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Compatibility analysis in detail
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* and subject-object structure
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — First-person data as empirical test
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
 - [contemplative-path](/apex/contemplative-path/) — Apex article synthesizing contemplative traditions
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self

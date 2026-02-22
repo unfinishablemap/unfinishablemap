@@ -112,7 +112,7 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 - [neuroplasticity](/concepts/neuroplasticity/) — Schwartz's evidence that directed attention reshapes brain structure
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — What happens when consciousness re-enters automated skills
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Meditation as a parallel case of deliberate practice
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Meditation as a parallel case of deliberate practice
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — What it feels like as skills withdraw from conscious control and capacity frees up
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The broader argument that consciousness must do something
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — How error signals and conscious correction relate to prediction

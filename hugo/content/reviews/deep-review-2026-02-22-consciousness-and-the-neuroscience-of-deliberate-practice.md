@@ -67,7 +67,7 @@ topics: []
 ### Cross-links Added
 
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) (replaced three archived links)
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) (replaced archived link)
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) (replaced archived link)
 - [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [mental-causation](/concepts/mental-causation/)

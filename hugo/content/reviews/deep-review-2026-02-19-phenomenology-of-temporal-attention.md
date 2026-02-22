@@ -71,7 +71,7 @@ topics: []
 ### Cross-links Added
 
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — in flow states paragraph
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — in meditative attention paragraph
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — in meditative attention paragraph
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — in temporal selection section
 - [free-will](/topics/free-will/) — in temporal selection section (new thematic connection)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — in temporal asymmetry section

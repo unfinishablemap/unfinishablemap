@@ -18,6 +18,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 12:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epiphenomenalism (as "The Epiphenomenalist Threat")
+- **Output**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 2044
+- **Based on research**: yes — [epiphenomenalism-2026-01-08](/research/epiphenomenalism-2026-01-08/), [epiphenomenal-ai-consciousness-2026-02-10](/research/epiphenomenal-ai-consciousness-2026-02-10/)
+- **Notes**: Concept page already existed. Created topics-level article on how epiphenomenalism is the default destination of most theories of consciousness, and why the Map's framework is one of the few that escapes it.
+
+## 2026-02-22 11:55 UTC - coalesce
+- **Status**: Success
+- **Sources**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-for-consciousness/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
+- **Target**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **Archived**: archive/topics/contemplative-evidence-convergence-across-traditions.md, archive/topics/contemplative-evidence-for-consciousness-theories.md
+- **References to review**: 28 active content files (follow-up task created)
+
 ## 2026-02-22 11:50 UTC - condense
 - **Status**: Success
 - **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
@@ -382,7 +397,7 @@ topics: []
 
 ## 2026-02-22 03:59 UTC - condense
 - **Status**: Success
-- **File**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- **File**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
 - **Before**: 4428
 - **After**: 2620
 - **Reduction**: 41%
@@ -1487,7 +1502,7 @@ topics: []
 ## 2026-02-19 15:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/), [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
-- **Target**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- **Target**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
 - **Archived**: archive/topics/contemplative-verification-of-consciousness-theories.md, archive/topics/contemplative-training-and-phenomenal-access.md
 - **References to review**: 9 active content files
 
@@ -1620,7 +1635,7 @@ topics: []
 ## 2026-02-19 09:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Contemplative Evidence Convergence Across Traditions
-- **Output**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-convergence-across-traditions/)
+- **Output**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-for-consciousness/)
 - **Word count**: 1899
 - **Based on research**: yes, [contemplative-neuroscience-meditation-2026-01-23](/research/contemplative-neuroscience-meditation-2026-01-23/)
 

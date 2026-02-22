@@ -204,7 +204,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to moral and phenomenal properties
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness
 - [free-will](/topics/free-will/) — Why moral agency requires libertarian alternatives
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — The epistemological role of meditative evidence
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — The epistemological role of meditative evidence
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist and Hindu perspectives on consciousness and value
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — What insight and comprehension feel like from the inside
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) — How moral perception shifts under new evidence

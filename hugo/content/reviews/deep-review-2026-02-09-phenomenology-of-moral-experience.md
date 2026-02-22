@@ -38,7 +38,7 @@ None. The article contains no factual errors, misattributions, internal contradi
 
 - **Quantum interaction tenet connection too assertive**: The original presented moral experience influencing physical outcomes as if this were a developed claim rather than speculative. **Resolution**: Softened to "could in principle" with explicit acknowledgment that this remains speculative.
 
-- **Missing cross-links**: Several relevant existing articles were not linked. **Resolution**: Added cross-links to [free-will](/topics/free-will/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/), [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/).
+- **Missing cross-links**: Several relevant existing articles were not linked. **Resolution**: Added cross-links to [free-will](/topics/free-will/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/), [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/).
 
 ### Counterarguments Considered
 
@@ -73,7 +73,7 @@ None. The article contains no factual errors, misattributions, internal contradi
 ### Cross-links Added
 
 - [free-will](/topics/free-will/) (inline and Further Reading)
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) (inline and Further Reading)
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) (inline and Further Reading)
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) (inline and Further Reading)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) (Further Reading)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) (Further Reading)

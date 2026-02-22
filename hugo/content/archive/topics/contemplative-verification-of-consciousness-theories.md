@@ -36,7 +36,7 @@ topics:
 - '[[eastern-philosophy-consciousness]]'
 ---
 
-Contemplative practice offers something unusual in philosophy of mind: a method for generating first-person data that bears on metaphysical claims. The Unfinishable Map has argued that [meditation evidence distinguishes between consciousness theories](/topics/contemplative-evidence-for-consciousness-theories/)—but a deeper question remains. Can contemplative practice actually *verify* or *falsify* those theories, or does it merely provide suggestive evidence that underdetermines the metaphysics? The answer shapes how much weight the Map can place on contemplative findings.
+Contemplative practice offers something unusual in philosophy of mind: a method for generating first-person data that bears on metaphysical claims. The Unfinishable Map has argued that [meditation evidence distinguishes between consciousness theories](/topics/contemplative-evidence-for-consciousness/)—but a deeper question remains. Can contemplative practice actually *verify* or *falsify* those theories, or does it merely provide suggestive evidence that underdetermines the metaphysics? The answer shapes how much weight the Map can place on contemplative findings.
 
 The Map's position: contemplative practice provides genuine verification for some claims about consciousness (its irreducibility, its causal efficacy) while remaining unable to settle others (the specific mechanism of mind-brain interaction, the substrate question). Understanding which claims contemplative evidence can and cannot reach is essential for intellectual honesty.
 
@@ -144,7 +144,7 @@ Contemplative evidence is compatible with this tenet but cannot verify it. The m
 
 ## Further Reading
 
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — What the evidence reveals about consciousness
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — What the evidence reveals about consciousness
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological divide as ontological evidence
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's framework for integrating perspectives
 - [introspection](/concepts/introspection/) — The reliability debate and training effects

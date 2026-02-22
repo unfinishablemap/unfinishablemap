@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-28
-**Article**: [Contemplative Evidence for Consciousness Theories](/topics/contemplative-evidence-for-consciousness-theories/)
+**Article**: [Contemplative Evidence for Consciousness Theories](/topics/contemplative-evidence-for-consciousness/)
 **Previous review**: [2026-01-28 (earlier today)](/reviews/deep-review-2026-01-28-contemplative-evidence-for-consciousness-theories/)
 
 ## Pessimistic Analysis Summary

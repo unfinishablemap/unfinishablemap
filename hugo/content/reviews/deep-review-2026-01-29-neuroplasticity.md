@@ -74,7 +74,7 @@ None. The article is well-structured, cites its sources appropriately, has the r
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [voluntary-attention](/concepts/attention-as-interface/)
 - [tenets](/tenets/)

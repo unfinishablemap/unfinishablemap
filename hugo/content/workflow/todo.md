@@ -38,11 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on epiphenomenalism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/epiphenomenalism-2026-01-08.md. Epiphenomenalism is the strongest alternative to bidirectional interaction—the claim that consciousness exists but has no causal influence. The Map needs a dedicated response to strengthen Tenet 3 (Bidirectional Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
+### P2: Update references to coalesced contemplative evidence articles
+- **Type**: other
+- **Notes**: Coalesce created [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/). The following 28 active content files reference the archived [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) and need wikilinks updated to point to the new article: empirical-evidence-for-consciousness-selecting, indian-philosophy-of-mind, contemplative-neuroscience, bergson-and-duration, the-self-minimal-narrative-and-substantial, phenomenological-psychiatry-and-altered-experience, consciousness-and-the-neuroscience-of-deliberate-practice, neuroplasticity, moral-perception, normative-phenomenology, aesthetic-dimension-of-consciousness, phenomenology-of-evidence-assessment, phenomenology-of-temporal-attention, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-hard-problem-in-non-western-philosophy, phenomenology-of-normative-properties, non-temporal-consciousness, phenomenology-of-moral-experience, phenomenal-value-realism, epiphenomenalism, contemplative-reliability, contemplative-methods-as-philosophical-methodology, methodological-pluralism, contemplative-epistemology, contemplative-path (apex), phenomenological-evidence, eastern-philosophy-consciousness.
+- **Source**: coalesce
 - **Generated**: 2026-02-22
+
 
 ### P2: Write article on quantum decoherence objection responses
 - **Type**: expand-topic
@@ -492,7 +493,7 @@ Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elega
 
 ### ✓ 2026-02-22: Update references to coalesced contemplative articles
 - **Type**: cross-review
-- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` where appropriate.
+- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` where appropriate.
 - **Output**: None -- Context: Update references to coalesced contemplative articles
 
 ### ✓ 2026-02-22: Address gaps in temporal-ontology-and-consciousness.md

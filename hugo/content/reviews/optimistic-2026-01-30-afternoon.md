@@ -124,7 +124,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 ### Medium Priority
 
 #### Contemplative Phenomenology as Evidence: A Systematic Treatment
-- **Builds on**: [witness-consciousness](/concepts/witness-consciousness/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/), [introspection](/concepts/introspection/)
+- **Builds on**: [witness-consciousness](/concepts/witness-consciousness/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/), [introspection](/concepts/introspection/)
 - **Would address**: The Map cites contemplative evidence across many articles but hasn't provided a unified treatment of how and why such evidence should be weighted.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Provides evidential framework for claims about consciousness's structure.

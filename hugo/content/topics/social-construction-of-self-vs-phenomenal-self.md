@@ -124,7 +124,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the phenomenal self resists its own introspective gaze
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity is insufficient
 - [past-self-void](/voids/past-self-void/) — The reconstructive nature of autobiographical memory
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Meditative phenomenology as evidence for the persistence of the phenomenal self
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Meditative phenomenology as evidence for the persistence of the phenomenal self
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The lived body as pre-social foundation for phenomenal selfhood
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Why constructionism's third-person methodology misses the phenomenal self
 

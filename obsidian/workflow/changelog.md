@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-22 12:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epiphenomenalism (as "The Epiphenomenalist Threat")
+- **Output**: [[the-epiphenomenalist-threat]]
+- **Word count**: 2044
+- **Based on research**: yes — [[epiphenomenalism-2026-01-08]], [[epiphenomenal-ai-consciousness-2026-02-10]]
+- **Notes**: Concept page already existed. Created topics-level article on how epiphenomenalism is the default destination of most theories of consciousness, and why the Map's framework is one of the few that escapes it.
+
 ## 2026-02-22 11:55 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[contemplative-evidence-convergence-across-traditions]], [[contemplative-evidence-for-consciousness-theories]]

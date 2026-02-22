@@ -74,7 +74,7 @@ None. All factual claims verified (including Kent & Wittmann 2021 citation again
 
 ### Cross-links Added
 
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
 - [contemplative-reliability](/concepts/contemplative-reliability/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Contemplative Evidence Convergence Across Traditions](/topics/contemplative-evidence-convergence-across-traditions/)
+**Article**: [Contemplative Evidence Convergence Across Traditions](/topics/contemplative-evidence-for-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -64,7 +64,7 @@ topics: []
 - Added Schachter-Singer attribution for emotion labelling claim
 
 ### Cross-links Added
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
 - [philosophical-zombies](/concepts/philosophical-zombies/) (added to concepts in frontmatter)

@@ -63,7 +63,7 @@ When evidence changes belief, what happens experientially? Several distinct phen
 
 **Belief maintenance under pressure.** Holding a belief against strong counterevidence has distinctive phenomenology: the strain of resistance, the background awareness of alternatives, the repeated turning-away from doubt. The effort is experiential, not merely inferential.
 
-Each pattern involves consciousness. The materialist might claim these are epiphenomenal—the brain updates beliefs, and the feelings are causally irrelevant byproducts. But as with [contemplative evidence](/topics/contemplative-evidence-for-consciousness-theories/), content-specificity creates problems: if phenomenology were causally inert, why would the felt character of consideration (compelling vs. dubious, strong vs. weak) systematically predict which beliefs change?
+Each pattern involves consciousness. The materialist might claim these are epiphenomenal—the brain updates beliefs, and the feelings are causally irrelevant byproducts. But as with [contemplative evidence](/topics/contemplative-evidence-for-consciousness/), content-specificity creates problems: if phenomenology were causally inert, why would the felt character of consideration (compelling vs. dubious, strong vs. weak) systematically predict which beliefs change?
 
 ## The Quality Space of Evidence
 
@@ -164,7 +164,7 @@ The Map's method embodies what this article describes: taking first-person pheno
 
 - [phenomenology](/concepts/phenomenology/) — The method of attending to experiential structure
 - [questioning-as-evidence](/voids/questioning-as-evidence/) — What the capacity for self-inquiry reveals
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — How first-person evidence distinguishes theories
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How first-person evidence distinguishes theories
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) — The experience of detecting one's own mistakes
 - [introspection](/concepts/introspection/) — The reliability of first-person access
 - [metacognition](/concepts/metacognition/) — Cognition about cognition

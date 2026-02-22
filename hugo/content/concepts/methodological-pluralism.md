@@ -90,7 +90,7 @@ Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) provides 
 
 This bidirectionality means neither method dominates. Phenomenology without neuroscience risks unfalsifiable speculation; neuroscience without phenomenology risks explaining the wrong thing—substituting functional accounts for phenomenal ones without noticing the substitution.
 
-[Contemplative neuroscience](/topics/contemplative-evidence-for-consciousness-theories/) demonstrates mutual constraint in action. Trained meditators report specific attentional states; neuroscientists find these states correlate with distinct neural patterns (gamma synchrony, default mode network deactivation). Neither finding is achievable by one method alone.
+[Contemplative neuroscience](/topics/contemplative-evidence-for-consciousness/) demonstrates mutual constraint in action. Trained meditators report specific attentional states; neuroscientists find these states correlate with distinct neural patterns (gamma synchrony, default mode network deactivation). Neither finding is achievable by one method alone.
 
 ## Why Monism Fails
 
@@ -122,7 +122,7 @@ The Map speculates that methodological pluralism may be more than a practical ne
 - [neurophenomenology](/concepts/neurophenomenology/)—Varela's mutual constraint framework in detail
 - [heterophenomenology](/concepts/heterophenomenology/)—Dennett's third-person-only approach and why the Map rejects it
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)—Conditions under which first-person reports constitute evidence
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)—How contemplative practice provides consciousness data
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)—How contemplative practice provides consciousness data
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)—Nagel's critique of objective-only approaches
 
 ## References

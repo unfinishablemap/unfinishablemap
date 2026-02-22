@@ -55,14 +55,14 @@ All six adversarial personas were applied:
 
 ### Enhancements Made
 
-1. Added `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` to concepts frontmatter
+1. Added `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` to concepts frontmatter
 2. Added new article to Further Reading with description emphasizing it as "the most direct empirical challenge to epiphenomenalism"
 3. Rewrote contemplative neuroscience section to reference new article and add therapeutic efficacy argument
 4. Condensed bullet-point neuroplastic changes to prose to save space
 
 ### Cross-links Added
 
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) (in frontmatter, Further Reading, and body text)
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) (in frontmatter, Further Reading, and body text)
 
 ## Length Management
 

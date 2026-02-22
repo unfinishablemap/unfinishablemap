@@ -38,7 +38,7 @@ Most importantly, the article correctly identifies that decoherence doesn't solv
 
 ### The Phenomenologist (Nagel)
 
-[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) treats first-person phenomenology as genuine evidence rather than subjective noise. The evidential structure is carefully laid out: "If consciousness is epiphenomenal, deliberate mental practice should make no difference to brain states. If materialism is true, first-person training should be eliminable—neuroscience alone should suffice. If interactionist dualism is true, willed mental practice should produce different neural outcomes than passive exposure."
+[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) treats first-person phenomenology as genuine evidence rather than subjective noise. The evidential structure is carefully laid out: "If consciousness is epiphenomenal, deliberate mental practice should make no difference to brain states. If materialism is true, first-person training should be eliminable—neuroscience alone should suffice. If interactionist dualism is true, willed mental practice should produce different neural outcomes than passive exposure."
 
 The empirical evidence favours interactionism: Weng and colleagues' compassion meditation study (2013), neuroplastic changes specifically correlated with phenomenologically engaged practice, content-specificity showing that different phenomenological contents (compassion vs. breath attention) track different neural outcomes.
 
@@ -90,7 +90,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 - **Notable quote**: "Birds navigate using quantum entanglement. Enzymes accelerate reactions through quantum tunnelling. Photosynthetic complexes exploit coherent superposition. The categorical objection has collapsed."
 - **Why it works**: Changes the dialectical landscape; critics must now explain absence rather than defenders proving presence
 
-### [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+### [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
 - **Strongest point**: The falsifiability section—specifying what evidence would undermine the framework
 - **Notable quote**: "If willed practice produced identical neuroplastic outcomes to passive exposure (same content, same duration, no engagement), this would support epiphenomenalism."
 - **Why it works**: Demonstrates intellectual honesty; the framework makes predictions that could be defeated
@@ -112,7 +112,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 - **Tenet alignment**: Grounds Bidirectional Interaction in rigorous metaphysics
 
 #### Introspection Rehabilitation: What We Can and Cannot Know About Our Own Minds
-- **Builds on**: [introspection](/concepts/introspection/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/), [witness-consciousness](/concepts/witness-consciousness/)
+- **Builds on**: [introspection](/concepts/introspection/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/), [witness-consciousness](/concepts/witness-consciousness/)
 - **Would address**: The process/content distinction in introspective reliability—we're unreliable about *why* we choose but reliable about *what* we experience. The 2012 Fox et al. finding that meditation training improves introspective accuracy suggests introspection is a skill, not a systematically broken faculty
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by defending phenomenological evidence; undermines illusionism's reliance on introspective unreliability
@@ -150,12 +150,12 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 | From | To | Reason |
 |------|-----|--------|
 | [baseline-cognition](/concepts/baseline-cognition/) | [vertiginous-question](/topics/vertiginous-question/) | Great apes may lack the indexical self-awareness that makes the vertiginous question arise |
-| [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | [baseline-cognition](/concepts/baseline-cognition/) | Meditation training as evidence that consciousness does causal work—expanding beyond baseline |
+| [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) | [baseline-cognition](/concepts/baseline-cognition/) | Meditation training as evidence that consciousness does causal work—expanding beyond baseline |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [binding-problem](/concepts/binding-problem/) | If quantum entanglement underlies neural binding, these articles should reinforce each other |
 | [knowledge-argument](/concepts/knowledge-argument/) | [consciousness-only-territories](/voids/consciousness-only-territories/) | Mary's learning illustrates territories accessible only through conscious experience |
 | [haecceity](/concepts/haecceity/) | [moral-responsibility](/concepts/moral-responsibility/) | Haecceity grounds desert—*this* agent did *this* action |
 | [vertiginous-question](/topics/vertiginous-question/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address why indexical facts resist third-person reduction |
-| [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Meditation reveals the phenomenology of selection/non-selection |
+| [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Meditation reveals the phenomenology of selection/non-selection |
 
 ## New Concept Pages Needed
 

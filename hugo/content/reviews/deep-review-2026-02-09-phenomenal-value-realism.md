@@ -80,7 +80,7 @@ topics: []
 - [free-will](/topics/free-will/) — in "Beyond Hedonism" (agency discussion)
 - [agent-causation](/concepts/agent-causation/) — in "Beyond Hedonism" (agency discussion)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — in "Beyond Hedonism" (understanding discussion)
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — in "The Hardest Objection" (contemplative response)
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — in "The Hardest Objection" (contemplative response)
 - [explanatory-gap](/concepts/explanatory-gap/) — in "Relation to Site Perspective" (dualism paragraph)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — in "Relation to Site Perspective" (dualism paragraph)
 - Three new Further Reading entries added

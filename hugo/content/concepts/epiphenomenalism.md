@@ -157,7 +157,7 @@ The epiphenomenalist must claim this correspondence is coincidence. This strains
 
 Studies distinguish between willed attention and instructed attention, finding distinct neural signatures. The epiphenomenalist will respond that these are just brain states causing other brain states—the phenomenal difference is a byproduct, not a cause. But this requires explaining why causally inert qualia systematically track brain states with such precision.
 
-The [contemplative evidence for consciousness theories](/topics/contemplative-evidence-for-consciousness-theories/) article develops this argument fully, showing how meditation phenomenology distinguishes between dualism, materialism, and epiphenomenalism. The therapeutic efficacy of mindfulness-based interventions—which target phenomenological engagement—poses a particular challenge: if phenomenology were causally inert, such interventions should be no more effective than placebo. They are substantially more effective.
+The [contemplative evidence for consciousness theories](/topics/contemplative-evidence-for-consciousness/) article develops this argument fully, showing how meditation phenomenology distinguishes between dualism, materialism, and epiphenomenalism. The therapeutic efficacy of mindfulness-based interventions—which target phenomenological engagement—poses a particular challenge: if phenomenology were causally inert, such interventions should be no more effective than placebo. They are substantially more effective.
 
 ## Relation to the Map's Perspective
 
@@ -201,7 +201,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 ## Further Reading
 
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — How meditation phenomenology and neuroplasticity distinguish between dualism, materialism, and epiphenomenalism; the most direct empirical challenge to epiphenomenalism
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation phenomenology and neuroplasticity distinguish between dualism, materialism, and epiphenomenalism; the most direct empirical challenge to epiphenomenalism
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence that conscious meditation practice produces measurable neuroplastic changes
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness and physics causally influence each other; the direct counter to epiphenomenalism
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The full evolutionary argument that consciousness must be causally efficacious

@@ -85,7 +85,7 @@ The neurological line establishes:
 - **Directed conscious effort produces measurable neural changes.** The changes track the phenomenology of effort.
 - **Willed and automatic processing have distinct signatures.** Something distinguishes them beyond mere task difficulty.
 
-**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. (For first-person evidence from trained observers that complements these third-person findings, see [contemplative evidence for consciousness theories](/topics/contemplative-evidence-for-consciousness-theories/).)
+**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. (For first-person evidence from trained observers that complements these third-person findings, see [contemplative evidence for consciousness theories](/topics/contemplative-evidence-for-consciousness/).)
 
 ## The Quantum-Biological Line
 
@@ -159,7 +159,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as a specific test case for consciousness selecting
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causation consciousness exercises
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — First-person evidence from trained observation
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person evidence from trained observation
 
 ## References
 

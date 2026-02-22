@@ -118,7 +118,7 @@ Contemplative data don't merely describe experience—they distinguish between t
 
 ### Against Epiphenomenalism
 
-[Contemplative neuroscience provides observations relevant to the epiphenomenalism debate](/topics/contemplative-evidence-for-consciousness-theories/)—the question of whether consciousness is causally inert. Neuroplastic changes from meditation correlate specifically with *phenomenologically engaged* practice. Helen Weng and colleagues found that compassion meditation training—cultivating felt compassion, not merely performing exercises—produced brain changes that predicted subsequent altruistic behaviour.
+[Contemplative neuroscience provides observations relevant to the epiphenomenalism debate](/topics/contemplative-evidence-for-consciousness/)—the question of whether consciousness is causally inert. Neuroplastic changes from meditation correlate specifically with *phenomenologically engaged* practice. Helen Weng and colleagues found that compassion meditation training—cultivating felt compassion, not merely performing exercises—produced brain changes that predicted subsequent altruistic behaviour.
 
 The Map reads this as evidence for downward causation: phenomenal states driving neural change. But intellectual honesty requires stating the physicalist alternative. On the physicalist reading, "practicing feeling compassion" *is* a specific pattern of neural activity, and that neural activity produces further neural changes through entirely physical mechanisms. The mental training *is* the neural training, described from a different perspective. No additional causal power is needed.
 
@@ -216,7 +216,7 @@ Buddhism's approach to meaning offers a middle way between nihilism and desperat
 
 This apex article synthesizes:
 - [Eastern Philosophy and Consciousness](/topics/eastern-philosophy-consciousness/) — Buddhism's sophisticated phenomenology and its productive tension with dualism
-- [Contemplative Evidence for Consciousness Theories](/topics/contemplative-evidence-for-consciousness-theories/) — How meditation data distinguish between theories
+- [Contemplative Evidence for Consciousness Theories](/topics/contemplative-evidence-for-consciousness/) — How meditation data distinguish between theories
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer phenomenon and the subject-object structure
 - [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct modes
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability debate and process/content distinction

@@ -188,7 +188,7 @@ Three responses bear weight.
 
 **The practical response.** Illusionists treat their own suffering as mattering. They take painkillers, avoid distress, and care about others' welfare. If phenomenal value is illusory, this behaviour is unmotivated. The functional state generating "reports of badness" would have no normative significance—yet illusionists act as if it does.
 
-**The contemplative response.** [Contemplative traditions](/topics/contemplative-evidence-for-consciousness-theories/) offer mixed evidence here. Some practitioners (particularly in Hindu and Christian contemplative traditions) report that sustained attention to experience reveals valence as intrinsic to it, not attributed by judgement. If illusionism were correct, deeper investigation should reveal the construction mechanism—instead, the value becomes more apparent. However, Buddhist *vipassana* practitioners often report the opposite: that valence arises from craving and aversion, and dissolves through equanimity practice. The phenomenal value realist can respond that equanimity does not eliminate felt valence but transforms the *reactive* relationship to it—the badness of pain is still apprehended, but the secondary suffering of resistance falls away.
+**The contemplative response.** [Contemplative traditions](/topics/contemplative-evidence-for-consciousness/) offer mixed evidence here. Some practitioners (particularly in Hindu and Christian contemplative traditions) report that sustained attention to experience reveals valence as intrinsic to it, not attributed by judgement. If illusionism were correct, deeper investigation should reveal the construction mechanism—instead, the value becomes more apparent. However, Buddhist *vipassana* practitioners often report the opposite: that valence arises from craving and aversion, and dissolves through equanimity practice. The phenomenal value realist can respond that equanimity does not eliminate felt valence but transforms the *reactive* relationship to it—the badness of pain is still apprehended, but the secondary suffering of resistance falls away.
 
 ## Challenges Requiring Development
 
@@ -255,7 +255,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The evaluative dimension of the explanatory gap
 - [free-will](/topics/free-will/) — Agency as intrinsically valuable phenomenal experience
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — What contemplative practice reveals about value and consciousness
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — What contemplative practice reveals about value and consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type

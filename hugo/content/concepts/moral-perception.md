@@ -90,7 +90,7 @@ The projectivist can appeal to familiar cases where phenomenology misleads: the 
 
 ## Contemplative Deepening
 
-[Contemplative traditions](/topics/contemplative-evidence-for-consciousness-theories/) report that moral perception can be trained and deepened. Buddhist *mettā* practice cultivates the phenomenal quality of goodwill until it stabilises as a feature of awareness. Practitioners describe this not as manufacturing a feeling but as uncovering something already present—the intrinsic significance of other conscious beings. (The Map takes the phenomenological reports as evidence while recognising that Buddhist metaphysics interprets them through dependent origination rather than substance dualism.)
+[Contemplative traditions](/topics/contemplative-evidence-for-consciousness/) report that moral perception can be trained and deepened. Buddhist *mettā* practice cultivates the phenomenal quality of goodwill until it stabilises as a feature of awareness. Practitioners describe this not as manufacturing a feeling but as uncovering something already present—the intrinsic significance of other conscious beings. (The Map takes the phenomenological reports as evidence while recognising that Buddhist metaphysics interprets them through dependent origination rather than substance dualism.)
 
 Iris Murdoch developed this insight through her concept of moral attention: the "just and loving gaze directed upon an individual reality." For Murdoch, moral perception is not a discrete act but a quality of sustained looking—the patient, ego-displacing [attention](/concepts/attention-as-interface/) that allows another person's reality to become fully present. Simone Weil, from whom Murdoch drew, locates moral perception in a similar quality of consciousness: sustained, selfless receptivity that allows moral properties to present themselves. For Weil, moral failure is often attentional failure—not ignorance of principles but inability to perceive what is there to be perceived.
 
@@ -119,7 +119,7 @@ Moral perception connects to the Map's [foundational commitments](/tenets/) at s
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal character
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the site of consciousness-brain interaction
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — The epistemological role of contemplative practice
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — The epistemological role of contemplative practice
 
 ## References
 

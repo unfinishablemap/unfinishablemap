@@ -193,7 +193,7 @@ The more sophisticated our phenomenological categories and neural correlates bec
 ## Further Reading
 
 - [Neurophenomenology](/concepts/neurophenomenology/): Varela's framework for integrating first-person and third-person methods through mutual constraints
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/): How meditation evidence distinguishes theories
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/): How meditation evidence distinguishes theories
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/): Why both perspectives are necessary
 - [mental-effort](/concepts/mental-effort/): The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence
 - [Witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
