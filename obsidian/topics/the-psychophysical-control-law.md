@@ -2,9 +2,9 @@
 title: "The Psychophysical Control Law"
 description: "What formal mapping connects conscious states to physical selection? Exploring the specification gap between dualist commitment and testable mechanism, with candidate control laws."
 created: 2026-02-19
-modified: 2026-02-19
+modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-19T14:36:00+00:00
+ai_modified: 2026-02-22T01:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,9 +24,16 @@ concepts:
   - "[[motor-selection]]"
   - "[[decoherence]]"
   - "[[psychophysical-coupling]]"
+  - "[[mysterianism]]"
+  - "[[explanatory-gap]]"
+  - "[[neurophenomenology]]"
+  - "[[indexical-knowledge-and-identity]]"
+  - "[[epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
+  - "[[the-interface-specification-problem]]"
+  - "[[princess-elizabeths-challenge]]"
   - "[[psychophysical-coupling-law-mechanisms-2026-01-23]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
 ai_contribution: 100
@@ -34,6 +41,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
+last_deep_review: 2026-02-22T01:53:00+00:00
 ---
 
 The Unfinishable Map commits to [[tenets#^bidirectional-interaction|bidirectional interaction]]—consciousness causally influences the physical world through quantum selection. But commitment is not specification. A psychophysical control law would state *precisely* how phenomenal states map to physical selection outputs: which aspects of experience serve as inputs, which physical parameters change as a result, and what functional form connects them. Without such a law, "consciousness selects" remains a promissory note. This article examines what a psychophysical control law would need to look like, why specifying one is so difficult, and where candidate formulations stand.
@@ -66,9 +74,9 @@ This is not merely a practical problem. The [[hard-problem-of-consciousness|hard
 
 ### The T-Shirt Problem
 
-Jonathan Schaffer's "t-shirt problem" names a deeper concern. Good fundamental laws fit on a t-shirt: F=ma, E=mc², S=k ln W. Psychophysical laws may resist this compression. The correlations between phenomenal states and physical states might be real but irreducibly complex—no elegant formula capturing them because the mapping reflects evolutionary contingency rather than fundamental simplicity.
+What Chalmers (1996, p. 214) calls the "t-shirt problem" names a deeper concern. Good fundamental laws fit on a t-shirt: F=ma, E=mc², S=k ln W. Psychophysical laws may resist this compression. The correlations between phenomenal states and physical states might be real but irreducibly complex—no elegant formula capturing them because the mapping reflects evolutionary contingency rather than fundamental simplicity.
 
-Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws." The Map shares this hope while acknowledging it remains unfulfilled.
+Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 214). The Map shares this hope while acknowledging it remains unfulfilled. There is a further possibility the article must confront: [[mysterianism|cognitive closure]] might explain the gap. If human minds lack the conceptual resources to formulate psychophysical laws—not because the laws are complex but because our cognitive architecture was not built to bridge phenomenal and physical domains—the specification gap is not a solvable problem but a permanent feature of our epistemic situation.
 
 ## Candidate Formulations
 
@@ -86,7 +94,7 @@ This gives a recognisable control structure: a **proportional controller** where
 
 **Strengths**: Specific enough to generate predictions. Effort phenomenology tracks what the law says should happen: harder tasks require more intense attention, which the law translates into higher observation rates needed to maintain stability against stronger competing patterns. OCD (Schwartz et al. 1996) provides a suggestive case: patients using mindful attention to redirect neural activity from compulsive circuits produced measurable metabolic changes in the caudate nucleus—though this is also compatible with purely physicalist neuroplasticity.
 
-**Limitations**: The Zeno mechanism faces the [[decoherence]] timescale challenge. And the law's proportionality assumption is just that—an assumption. The true relationship might be nonlinear, threshold-dependent, or state-dependent. Without being able to independently measure both attention intensity and observation rate, the proportionality claim cannot be tested.
+**Limitations**: The Zeno mechanism faces the [[decoherence]] timescale challenge. Tegmark's (2000) calculations yield decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural superpositions—the Zeno effect would require observation rates exceeding 10¹³ Hz to maintain coherence, a physically implausible demand for a biological system. Responses exist (Hameroff's corrected timescale estimates, post-decoherence selection at points where physics leaves outcomes undetermined), but none has been empirically confirmed. The law's proportionality assumption is also just that—an assumption. The true relationship might be nonlinear, threshold-dependent, or state-dependent. Without being able to independently measure both attention intensity and observation rate, the proportionality claim cannot be tested.
 
 ### Eccles' Intention-Probability Law
 
@@ -144,7 +152,7 @@ Three developments could advance psychophysical control law specification:
 
 **Bandwidth measurement.** Zheng and Meister's ~10 bits/second finding constrains the control channel's capacity. More precise measurements—varying by task type, attention mode, and cognitive load—would constrain the control law's form. If the bandwidth is strictly constant across conditions, a proportional law is unlikely; if it varies systematically, the variation pattern constrains the mapping function.
 
-**Quantum biology in neural tissue.** Whether quantum effects survive at decision-relevant timescales in the brain remains contested. The 2024 microtubule-stabilising drug study (Cohen's d = 1.9 for delaying anaesthesia) and Posner molecule research suggest quantum processes may play roles in neural function. If confirmed and characterised, these would identify the physical side of the control law's output variables.
+**Quantum biology in neural tissue.** Whether quantum effects survive at decision-relevant timescales in the brain remains contested. The 2024 microtubule-stabilising drug study (Wiest et al., Cohen's d = 1.9 for delaying anaesthesia) is consistent with quantum consciousness hypotheses, though classical mechanisms—microtubule stabilisation affecting cellular transport and membrane dynamics—could also explain the effect. Posner molecule research remains entirely theoretical, with no experimental confirmation of quantum coherence in neural tissue. If quantum processes are confirmed and characterised, these would identify the physical side of the control law's output variables.
 
 **Neurophenomenology.** First-person reports of effort, attention, and intention—calibrated against neural measurements—could constrain the phenomenal side. Francisco Varela's neurophenomenological programme sought exactly this integration. Advances in real-time brain imaging correlated with trained introspective reports might yield the phenomenal metrics a control law requires.
 
@@ -160,14 +168,15 @@ The psychophysical control law is the specification gap at the centre of the Map
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains the law's form. Whatever the mapping, it must operate within quantum indeterminacy—biasing rather than overriding physical outcomes. The ~10 bits/second bandwidth enforces this naturally: so little information flows through the channel that large-scale conservation violations are implausible.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** makes the law meaningful. If all quantum outcomes actualise in parallel branches, there is nothing for a control law to govern—every output occurs regardless. Genuine selection requires genuine collapse, and a control law governs that selection.
+**[[tenets#^no-many-worlds|No Many Worlds]]** makes the law meaningful. If all quantum outcomes actualise in parallel branches, there is nothing for a control law to govern—every output occurs regardless. Many-worlds defenders respond that self-locating uncertainty preserves a role for rational agency: the agent discovers which branch they occupy, and decision-theoretic arguments (Wallace 2012) ground rational action within MWI. But a control law requires more than rational action—it requires that phenomenal states *cause* specific physical outcomes. Under MWI, the phenomenal states of every branch-copy are equally real, and "selection" reduces to indexical discovery rather than genuine causal influence. The Map's commitment to [[indexical-knowledge-and-identity|indexical identity]] reinforces this: the fact that *I* experience *this* outcome is not an epistemic accident to be explained away by branch-counting but an [[indexical-knowledge-and-identity#Metaphysical vs. Epistemic Theses|irreducible metaphysical fact]] that genuine collapse honours and many-worlds dissolves.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses the complexity objection. A psychophysical control law adds to the fundamental furniture of nature. The justification: the alternative—denying that consciousness causally contributes—requires accepting that our reports about consciousness are accidentally correct, that effort is illusory, and that the conversation about consciousness is itself causally disconnected from consciousness. That is not simpler; it is more implausible.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses the complexity objection. A psychophysical control law adds to the fundamental furniture of nature. Physicalists who identify consciousness with brain processes avoid needing such a law—but face the [[explanatory-gap|explanatory gap]] in the other direction. [[concepts/epiphenomenalism|Epiphenomenalists]] who accept consciousness as non-physical but deny it causal power face a different cost: if consciousness does no causal work, our reports about consciousness are accidentally correct, effort makes no difference, and the conversation about consciousness is causally disconnected from consciousness itself. A psychophysical control law is ontologically expensive, but the alternatives each carry their own costs that Occam's razor alone cannot adjudicate.
 
 ## Further Reading
 
 - [[psychophysical-laws]] — The concept: Chalmers' framework and candidate coupling laws
 - [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview of upward and downward laws
+- [[the-interface-specification-problem]] — The complementary problem: where does consciousness couple to the brain?
 - [[control-theoretic-will]] — The control-theoretic framing this article builds on
 - [[coupling-modes]] — Basis, timing, and probability control as coupling modes
 - [[selection-laws]] — The downward direction of psychophysical law
@@ -177,6 +186,11 @@ The psychophysical control law is the specification gap at the centre of the Map
 - [[stapp-quantum-mind]] — The most developed candidate mechanism
 - [[mental-effort]] — The phenomenology of control effort
 - [[decoherence]] — The timescale challenge any quantum control law faces
+- [[princess-elizabeths-challenge]] — The original form of the specification problem
+- [[mysterianism]] — Cognitive closure as an explanation for the specification gap
+- [[neurophenomenology]] — The methodology needed to constrain the law's phenomenal inputs
+- [[explanatory-gap]] — The epistemic analogue of the specification gap
+- [[indexical-knowledge-and-identity]] — Why genuine selection requires irreducible indexical facts
 
 ## References
 
@@ -186,4 +200,6 @@ The psychophysical control law is the specification gap at the centre of the Map
 4. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
 5. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
 6. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-7. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
+7. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+8. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
+9. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
