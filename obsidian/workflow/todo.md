@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
-- **Type**: cross-review
-- **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Fix case-sensitivity wikilink errors across content
 - **Type**: cross-review
 - **Notes**: Gap analysis found 68 case-sensitivity wikilink errors where capitalized forms like [[Access consciousness]], [[Blindsight]], [[Filter-theory]], [[Qualia]] are used instead of lowercase-hyphenated forms. Most concentrated in concepts/ section (255 occurrences). Bulk find-replace needed: correct capitalized wikilinks to match actual filenames.
@@ -118,6 +112,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-22: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
+- **Type**: cross-review
+- **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
+- **Output**: None -- Context: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 
 ### ✓ 2026-02-22: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
 - **Type**: cross-review

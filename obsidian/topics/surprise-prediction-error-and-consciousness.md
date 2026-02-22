@@ -4,7 +4,7 @@ description: "Surprise requires phenomenal consciousness—not just prediction e
 created: 2026-02-09
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-19T03:34:00+00:00
+ai_modified: 2026-02-22T02:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[global-workspace-theory]]"
   - "[[temporal-consciousness]]"
   - "[[epistemic-emotions]]"
@@ -42,7 +42,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-22T02:47:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-surprise/"
   - "/topics/phenomenology-of-surprise-and-prediction-error/"
@@ -64,7 +64,7 @@ PP explains why surprise is triggered. It does not explain why surprise *feels l
 
 Computational models treat prediction error as a quantity: a signal with magnitude, precision, and hierarchical location. Phenomenological attention to actual experience reveals qualitative discontinuities across the error spectrum that magnitude alone cannot capture.
 
-**Micro-corrections** operate below reflective awareness. The visual system constantly adjusts for saccades, lighting changes, and minor discrepancies between predicted and actual input. These generate no felt surprise—the corrections happen too fast and too automatically. Yet they are not entirely unfelt. Meditators trained in fine-grained [[introspection]] report noticing a continuous subtle texture of adjustment in perceptual experience—a background "shimmer" of the world being slightly different from what was anticipated, resolved so quickly that ordinary attention never catches it.
+**Micro-corrections** operate below reflective awareness. The visual system constantly adjusts for saccades, lighting changes, and minor discrepancies between predicted and actual input. These generate no felt surprise—the corrections happen too fast and too automatically. Yet they are not entirely unfelt. Contemplative traditions suggest that fine-grained [[introspection]] can reveal a continuous subtle texture of adjustment in perceptual experience—a background "shimmer" of the world being slightly different from what was anticipated, resolved so quickly that ordinary attention never catches it.
 
 **Noticing discrepancies** marks the threshold where prediction error becomes phenomenal. You walk into a room and something is different but you cannot immediately say what. The experience has a distinctive character: a vague unease, a heightened alertness, a felt sense that the environment does not match your model. The discrepancy is registered as a *quality of the situation* before it becomes a *fact about the world*. This pre-cognitive phenomenal phase—the feeling that something is off before you know what—illustrates the gap between the brain's error computation and the mind's experience of it.
 
@@ -191,5 +191,3 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
 - Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
-- Meyer, L.B. (1956). *Emotion and Meaning in Music*. University of Chicago Press.
