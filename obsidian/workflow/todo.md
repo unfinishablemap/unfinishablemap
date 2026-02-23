@@ -99,6 +99,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. motor-control-quantum-zeno.md ↔ choking-phenomenon-mental-causation.md (mechanism and evidence), consciousness-as-activity.md ↔ process-haecceitism.md (activity framing and processual identity), hoel-llm-consciousness-continual-learning.md ↔ consciousness-as-activity.md (continual learning maps onto activity framing), pain-asymbolia-as-central-test-case.md ↔ placebo-effect-and-mental-causation.md (complementary empirical test cases). See optimistic-2026-02-23-afternoon.md
 
+### P3: Write article on epistemology of other minds under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If consciousness is irreducible to physical processes, how do we know other minds exist? The Map has powerful arguments for consciousness's reality but hasn't developed the epistemic challenge dualism faces regarding other minds. Bidirectional Interaction (Tenet 3) may help—if consciousness makes physical differences, we can detect its presence through effects. Builds on interactionist-dualism.md, philosophical-zombies.md, zombie-master-argument.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+
+### P3: Write article on contemplative pathology and interface malfunction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Meditation can produce dissociation, depersonalisation, and adverse effects. What happens when the consciousness-body interface malfunctions through contemplative practice? The "dark night" phenomenon, Willoughby Britton's research, and contemplative-induced depersonalisation provide evidence about the interface model from its failure modes. Builds on contemplative-evidence-for-consciousness.md, disorders-of-consciousness.md, phenomenological-psychiatry-and-altered-experience.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+
+### P3: Write article on temporal phenomenology and quantum selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. When consciousness selects quantum outcomes, what is the temporal order of selection relative to physical actualisation? Strong work exists on time-consciousness and quantum selection separately, but they haven't been integrated. Does selection happen *in* time or does consciousness partially constitute temporal ordering? Builds on time-consciousness-growing-block.md, time-symmetric-selection-mechanism.md, quantum-consciousness.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+
+### P3: Cross-link self-stultification, information, direction-of-fit, and recent articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. self-stultification-as-master-argument.md ↔ consciousness-and-scientific-explanation.md (negative case → constructive programme), metaphysics-of-information-under-dualism.md ↔ attention-as-causal-bridge.md (ontological framework → mechanism), samkhya-three-way-distinction.md ↔ consciousness-as-activity.md (sharpened irreducibility), direction-of-fit.md ↔ phenomenology-of-consciousness-doing-work.md (intentional structure → phenomenological content), cross-cultural-convergence-on-mental-causation.md ↔ self-stultification-as-master-argument.md (independent evidence ↔ explanation of convergence). See optimistic-2026-02-23-evening.md
+
 ## Completed Tasks
 
 
