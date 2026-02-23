@@ -66,6 +66,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce created [why-pain-hurts](/topics/why-pain-hurts/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
 - **Source**: coalesce
+
+### P3: Write article on comparative phenomenology of meditative traditions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map cites contemplative evidence across many articles but lacks a systematic comparison of what different traditions report and where they converge. Shamatha, vipassana, zazen, centering prayer, and jhana each reveal different aspects of consciousness's structure. Cross-traditional convergence would provide independent evidence for the Map's phenomenological claims. Builds on contemplative-methods-as-philosophical-methodology.md, the-observer-witness-in-meditation.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-23-night.md
+
+### P3: Write article on the phenomenology of creative problem-solving
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
 
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
@@ -88,6 +98,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on the bandwidth problem in mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple articles acknowledge the timing gap between conscious experience (~10 bits/second, ~300ms decisions) and quantum events (femtosecond timescales) without resolving it. A dedicated article could tackle this directly: does consciousness need to operate at quantum timescales, or does hierarchical architecture bridge the gap? The Map's most honest open problem deserves dedicated treatment. Builds on downward-causation.md, attention-as-selection-interface.md, neural-bandwidth-constraints-and-the-interface.md. See optimistic-2026-02-23-night.md
+- **Output**: the bandwidth problem in mental causation
 
 ### ✓ 2026-02-23: Address quantum Zeno overemphasis and analogical gaps in temporal-phenomenology-quantum-selection.md
 - **Type**: refine-draft
