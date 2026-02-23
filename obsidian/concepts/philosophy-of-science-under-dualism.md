@@ -4,11 +4,11 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T14:50:00+00:00
+ai_modified: 2026-02-23T23:20:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-scientific-methodology]]"
-  - "[[consciousness-and-the-philosophy-of-explanation]]"
+  - "[[consciousness-and-the-limits-of-explanation]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
@@ -22,11 +22,13 @@ related_articles:
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[evolution-under-dualism]]"
   - "[[reductionism-and-consciousness]]"
+  - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
+last_deep_review: 2026-02-23T23:20:00+00:00
 ---
 
 The Unfinishable Map holds that consciousness is not reducible to physical processes. If this is correct, several core doctrines in philosophy of science — the unity of science, standard demarcation criteria, theory choice by parsimony, and scientific realism about unobservables — require revision. Not abandonment. Revision. Dualism does not reject science. It redraws the boundaries of what science studies, how it chooses between theories, and what scientific success actually tells us about reality.
@@ -40,6 +42,8 @@ Logical positivists championed the unity of science: all genuine sciences ultima
 Dualism breaks this chain at a specific link. If consciousness is irreducible, then psychology does not fully reduce to neuroscience, because the phenomenal dimension of mental life is not a neural property. The neural correlates of consciousness are real and investigable, but the experience they correlate with belongs to a different ontological category.
 
 This does not mean psychology becomes unscientific. It means psychology studies a domain that straddles two categories — the physical processes of the brain and the phenomenal properties of experience — connected by lawful regularities that are not reductive identities. The Map's framework of [[psychophysical-laws-bridging-mind-and-matter|psychophysical laws]] provides the positive alternative: bridge laws connecting domains rather than collapsing one into the other.
+
+Fodor (1974) already argued for the disunity of science on independent grounds: special sciences like psychology have autonomous explanatory generalizations that do not reduce to physics, because the relevant kinds cut across physical kinds. Dualism strengthens Fodor's point. If consciousness is irreducible, the failure of reduction is not merely practical (multiple realizability) but ontological — there is something to be explained that belongs to no physical kind at all.
 
 The unity of science survives in a modified form. All physical sciences still reduce to physics. What changes is that physics is not the only fundamental domain. Science becomes unified within domains and lawfully connected across them.
 
@@ -65,7 +69,7 @@ More precisely, parsimony as a theory-choice criterion is domain-relative. Withi
 
 Kuhn's insight is relevant here. Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
 
-Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls.
+Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls. The Map explores this tension more fully in [[consciousness-and-the-problem-of-theoretical-virtues|its treatment of theoretical virtues and consciousness]].
 
 ## Scientific Realism and the Consciousness Problem
 
@@ -73,7 +77,9 @@ Scientific realism holds that successful scientific theories describe reality ap
 
 Under dualism, scientific realism requires extension rather than rejection. The physical sciences remain realistic about their posits — the success of physics, chemistry, and neuroscience gives us good reason to believe their theoretical entities exist. What changes is that reality includes more than what physical theories describe. Phenomenal properties are real, directly known through first-person experience, and not captured by any physical theory however successful.
 
-This generates an asymmetry in epistemology. We know about electrons through inference to the best explanation from experimental data. We know about conscious experience through direct acquaintance. The realist case for phenomenal properties is actually *stronger* than the realist case for electrons — we have immediate epistemic access to experience in a way we never have to subatomic particles. Dismissing consciousness as unreal or reducible while accepting electrons as real inverts the epistemic order.
+This generates an asymmetry in epistemology. We know about electrons through inference to the best explanation from experimental data. We know about conscious experience through direct acquaintance. The realist case for phenomenal properties is actually *stronger* than the realist case for electrons — we have immediate epistemic access to experience in a way we never have to subatomic particles.
+
+Physicalists do not deny that consciousness exists. They deny that it has the ontological independence dualists claim for it. But even this more careful physicalist position must contend with the asymmetry: the reality of experience is known with a certainty that no inference about unobservable entities can match. Treating consciousness as "nothing over and above" its physical substrate while granting full ontological weight to quarks and fields requires explaining why direct acquaintance deserves less epistemic trust than theoretical inference.
 
 The anti-realist might respond that phenomenal experience, unlike electrons, does no explanatory work in physical theories. But the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet denies this: consciousness causally contributes to physical outcomes. If so, a complete science would need to include consciousness not merely as an explanandum but as an explanans — something that features in explanations, not just something to be explained.
 
@@ -85,7 +91,9 @@ The materialist research programme in consciousness science has a well-defined c
 
 The programme has been empirically progressive in identifying neural correlates. fMRI, EEG, and lesion studies reveal increasingly fine-grained connections between brain states and conscious states. But it has been explanatorily stagnant on the hard problem. Decades of work have not narrowed the [[explanatory-gap]] between physical description and phenomenal experience. Each new theory restates the puzzle in different terms without closing it.
 
-A Lakatosian assessment might classify the materialist consciousness programme as empirically progressive but theoretically degenerating: accumulating correlational data while failing to make progress on its central explanatory claim. The dualist alternative is not itself a mature research programme in Lakatos's sense — it has fewer specific predictions and less institutional support. But it may be the more honest framework: it acknowledges the explanatory gap as reflecting genuine ontological structure rather than treating it as a temporary embarrassment.
+Physicalists would contest this characterization. They argue that integrated information theory (IIT), global workspace theory (GWT), and higher-order theories constitute genuine theoretical progress — refining what consciousness is and where it appears in the physical world. The dualist response: these theories make progress on the *easy problems* (which brain states correlate with which experiences, what functions consciousness serves) while leaving the hard problem — why there is experience at all — exactly where it was.
+
+A Lakatosian assessment might therefore classify the materialist consciousness programme as empirically progressive but theoretically degenerating on its most fundamental claim: the promise that physical description will eventually explain experience. The dualist alternative is not itself a mature research programme in Lakatos's sense — it has fewer specific predictions and less institutional support. But it may be the more honest framework: it acknowledges the explanatory gap as reflecting genuine ontological structure rather than treating it as a temporary embarrassment.
 
 ## Relation to Site Perspective
 
@@ -101,7 +109,8 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 
 - [[consciousness-and-scientific-explanation]] — How non-reductive explanation works under dualism
 - [[consciousness-and-scientific-methodology]] — Why the scientific method structurally excludes subjectivity
-- [[consciousness-and-the-philosophy-of-explanation]] — How consciousness breaks deductive, causal, and unificationist explanation
+- [[consciousness-and-the-limits-of-explanation]] — Why every major theory of scientific explanation fails with consciousness
+- [[consciousness-and-the-problem-of-theoretical-virtues]] — How theoretical virtues conflict when applied to consciousness
 - [[psychophysical-laws-bridging-mind-and-matter]] — Bridge laws as the positive alternative to reduction
 - [[reductionism-and-consciousness]] — Why reductive strategies fail for consciousness
 - [[evolution-under-dualism]] — How evolutionary biology operates under dualist assumptions
