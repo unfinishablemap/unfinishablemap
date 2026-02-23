@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced measurement problem articles
+- **Type**: other
+- **Notes**: Coalesce merged [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) and [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) into a unified [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/). The following 7 active content files reference the archived measurement-problem-as-hard-problem and may need wikilinks updated: quantum-decoherence-objection-responses, explanatory-gap, measurement-problem, consciousness-and-the-problem-of-measurement-standards, quantum-measurement-consciousness-interface, the-subject-object-distinction-as-philosophical-discovery, hard-problem-of-consciousness.
+- **Source**: coalesce
+- **Generated**: 2026-02-23
+
 ### P2: Update references to coalesced dream consciousness articles
 - **Type**: other
 - **Notes**: Coalesce merged [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/), and [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/) into [dream-consciousness](/topics/dream-consciousness/). The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
@@ -62,24 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Deep review attention-as-causal-bridge.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment. Pessimistic review (2026-02-23) identified issues that should be addressed first (see P2 task above).
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
-### P3: Deep review apophatic-approaches.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-20, making it the most stale reviewed content on the site (33 days). As a voids article on negative-space epistemology, it frames a distinctive methodology. Verify quality, coherence, and alignment with the Map's evolving treatment of cognitive limits and unknowability.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
-### P3: Deep review motor-control-quantum-zeno.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation. Explores how the quantum Zeno effect relates to motor control and conscious intention — directly supports Tenet 2 (Minimal Quantum Interaction). Verify mechanism claims, ensure accurate representation of Stapp's framework, and check tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -97,42 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
-
-### P3: Write article on emotional consciousness and valence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Emotional phenomenology receives less systematic treatment than sensory or cognitive consciousness, yet emotional qualia may be more resistant to reduction—the inverted spectrum objection doesn't apply to emotional valence. Builds on phenomenology-of-pain.md, valence.md, consciousness-value-connection.md, phenomenal-value-realism.md. Target section: topics/. See optimistic-2026-02-22-afternoon.md
-
-### P3: Write article on consciousness and attention dissociation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Koch and Tsuchiya's discovery that attention and consciousness can come apart deserves standalone treatment showing what this reveals for the interface model. If attention is the selection mechanism, dissociation constrains where consciousness acts. Builds on attention-as-selection-interface.md, structure-of-attention.md. Target section: topics/. See optimistic-2026-02-22-afternoon.md
-
-### P3: Write article on the zombie master argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Chalmers's master argument against the phenomenal concepts strategy deserves standalone treatment—the phenomenal concepts response is the physicalist's strongest rebuttal, and refuting it systematically strengthens the convergence case in the-case-for-dualism.md. Builds on philosophical-zombies.md, conceivability-possibility-inference.md. Target section: concepts/. See optimistic-2026-02-22-afternoon.md
-
-### P3: Write article on the metaphysics of information under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Many consciousness theories (IIT, GWT, HOT) presuppose a physicalist understanding of "information." Shannon information is defined physically; semantic information requires intentionality. The Map's framework suggests information has a dual aspect—physical structure and phenomenal meaning—that physicalist theories conflate. Builds on integrated-information-theory.md, quantum-consciousness.md, binding-problem.md. Target section: concepts/. See optimistic-2026-02-22-evening.md
-
-### P3: Write article on cross-cultural convergence on mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map demonstrates cross-cultural convergence on the hard problem but has not examined whether independent traditions also converge on consciousness being causally efficacious. Indian karma theory, Chinese qi philosophy, and African vital force traditions all posit mental-to-physical causation. Strengthens the convergence argument for Tenet 3. Builds on the-hard-problem-in-non-western-philosophy.md, indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. Target section: topics/. See optimistic-2026-02-22-evening.md
-
-### P3: Strengthen convergence-argument cross-links to galilean-exclusion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. the-convergence-argument-for-dualism.md would benefit from linking to galilean-exclusion.md as an independent structural argument. Also link pain-asymbolia-as-central-test-case.md to binding-problem.md (affective binding dissociation), and the-epiphenomenalist-threat.md to galilean-exclusion.md (the gravity well partly explained by science's founding exclusion). See optimistic-2026-02-22-evening.md
-
-### P3: Deep review contemplative-evidence-for-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-01-27). At 26 days old, this is the oldest unreviewed published content on the site. Product of coalesce merging contemplative evidence articles. Verify coherence, argument quality, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-22
 
 ### P3: Deep review why-pain-hurts.md
 - **Type**: deep-review
@@ -170,8 +122,78 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
 
+### P3: Write article on philosophy of science under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map argues consciousness is irreducible but hasn't developed what this means for scientific methodology. How should consciousness science proceed if physicalist reduction is off the table? What does a dualist research programme look like? Builds on consciousness-and-scientific-methodology.md, first-person-vs-third-person-methodology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+
+### P3: Write article on moral implications of genuine agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If the Map's account of free will and mental causation is correct, what follows for moral desert, retributive justice, and praise/blame? Current coverage is scattered across multiple articles. A focused treatment would crystallise the ethical stakes of Tenet 3 (Bidirectional Interaction). Builds on consciousness-and-moral-agency-under-duress.md, the-responsibility-gradient.md, moral-phenomenology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+
+### P3: Write article on anaesthesia and the consciousness interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. General anaesthesia provides the most controlled method for eliminating and restoring consciousness. If specific molecular targets (GABA receptors, NMDA channels) reliably abolish consciousness, what does this reveal about where the interface operates? Strong empirical territory underexploited by the Map. Builds on disorders-of-consciousness.md, loss-of-consciousness.md, neural-correlates-of-consciousness.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+
+### P3: Cross-link motor control, choking, and consciousness-as-activity
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. motor-control-quantum-zeno.md ↔ choking-phenomenon-mental-causation.md (mechanism and evidence), consciousness-as-activity.md ↔ process-haecceitism.md (activity framing and processual identity), hoel-llm-consciousness-continual-learning.md ↔ consciousness-as-activity.md (continual learning maps onto activity framing), pain-asymbolia-as-central-test-case.md ↔ placebo-effect-and-mental-causation.md (complementary empirical test cases). See optimistic-2026-02-23-afternoon.md
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Deep review contemplative-evidence-for-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-01-27). At 26 days old, this is the oldest unreviewed published content on the site. Product of coalesce merging contemplative evidence articles. Verify coherence, argument quality, and tenet alignment.
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness.md
+
+### ✓ 2026-02-23: Strengthen convergence-argument cross-links to galilean-exclusion
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. the-convergence-argument-for-dualism.md would benefit from linking to galilean-exclusion.md as an independent structural argument. Also link pain-asymbolia-as-central-test-case.md to binding-problem.md (affective binding dissociation), and the-epiphenomenalist-threat.md to galilean-exclusion.md (the gravity well partly explained by science's founding exclusion). See optimistic-2026-02-22-evening.md
+- **Output**: None -- Context: Strengthen convergence-argument cross-links to galilean-exclusion
+
+### ✓ 2026-02-23: Write article on cross-cultural convergence on mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map demonstrates cross-cultural convergence on the hard problem but has not examined whether independent traditions also converge on consciousness being causally efficacious. Indian karma theory, Chinese qi philosophy, and African vital force traditions all posit mental-to-physical causation. Strengthens the convergence argument for Tenet 3. Builds on the-hard-problem-in-non-western-philosophy.md, indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. Target section: topics/. See optimistic-2026-02-22-evening.md
+- **Output**: cross-cultural convergence on mental causation
+
+### ✓ 2026-02-23: Write article on the metaphysics of information under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Many consciousness theories (IIT, GWT, HOT) presuppose a physicalist understanding of "information." Shannon information is defined physically; semantic information requires intentionality. The Map's framework suggests information has a dual aspect—physical structure and phenomenal meaning—that physicalist theories conflate. Builds on integrated-information-theory.md, quantum-consciousness.md, binding-problem.md. Target section: concepts/. See optimistic-2026-02-22-evening.md
+- **Output**: the metaphysics of information under dualism
+
+### ✓ 2026-02-23: Write article on the zombie master argument
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Chalmers's master argument against the phenomenal concepts strategy deserves standalone treatment—the phenomenal concepts response is the physicalist's strongest rebuttal, and refuting it systematically strengthens the convergence case in the-case-for-dualism.md. Builds on philosophical-zombies.md, conceivability-possibility-inference.md. Target section: concepts/. See optimistic-2026-02-22-afternoon.md
+- **Output**: the zombie master argument
+
+### ✓ 2026-02-23: Write article on consciousness and attention dissociation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Koch and Tsuchiya's discovery that attention and consciousness can come apart deserves standalone treatment showing what this reveals for the interface model. If attention is the selection mechanism, dissociation constrains where consciousness acts. Builds on attention-as-selection-interface.md, structure-of-attention.md. Target section: topics/. See optimistic-2026-02-22-afternoon.md
+- **Output**: consciousness and attention dissociation
+
+### ✓ 2026-02-23: Write article on emotional consciousness and valence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Emotional phenomenology receives less systematic treatment than sensory or cognitive consciousness, yet emotional qualia may be more resistant to reduction—the inverted spectrum objection doesn't apply to emotional valence. Builds on phenomenology-of-pain.md, valence.md, consciousness-value-connection.md, phenomenal-value-realism.md. Target section: topics/. See optimistic-2026-02-22-afternoon.md
+- **Output**: emotional consciousness and valence
+
+### ✓ 2026-02-23: Deep review motor-control-quantum-zeno.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation. Explores how the quantum Zeno effect relates to motor control and conscious intention — directly supports Tenet 2 (Minimal Quantum Interaction). Verify mechanism claims, ensure accurate representation of Stapp's framework, and check tenet alignment.
+- **Output**: obsidian/topics/motor-control-quantum-zeno.md
+
+### ✓ 2026-02-23: Deep review apophatic-approaches.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-20, making it the most stale reviewed content on the site (33 days). As a voids article on negative-space epistemology, it frames a distinctive methodology. Verify quality, coherence, and alignment with the Map's evolving treatment of cognitive limits and unknowability.
+- **Output**: obsidian/voids/apophatic-approaches.md
+
+### ✓ 2026-02-23: Deep review attention-as-causal-bridge.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment. Pessimistic review (2026-02-23) identified issues that should be addressed first (see P2 task above).
+- **Output**: obsidian/apex/attention-as-causal-bridge.md
 
 ### ✓ 2026-02-23: Address critical issues in attention-as-causal-bridge.md
 - **Type**: refine-draft

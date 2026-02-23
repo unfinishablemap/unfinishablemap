@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-22T08:07:56.425509'
+ai_modified: '2026-02-23T08:06:22.956642'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-22'
+date: '2026-02-23'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-22'
+modified: '2026-02-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-23: What If Consciousness Is Something You Do?
+
+Strengthened case that consciousness isn't a property brains have—it's an activity organisms perform. Like dancing can't be reduced to legs, experience can't be reduced to neurons.
+
+**Type**: insight  
+**Link**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+
+---
+
 ### 2026-02-22: When You Imagine a Movement, Does Consciousness Do the Work?
 
 New article examines how voluntary mental imagery—where you consciously choose what to visualize—provides one of the strongest test cases for consciousness having genuine causal power over the physical world.
@@ -201,16 +210,6 @@ Blindsight and 'blind insight' show metacognition and awareness are dissociable.
 **Type**: insight  
 **Tweet**: https://x.com/i/web/status/2018597545233019293  
 **Link**: [metacognition](/concepts/metacognition/)
-
----
-
-### 2026-02-01: Why Denying Consciousness Requires Consciousness
-
-Deep review strengthens phenomenology's response to illusionism: to claim experience is illusion, something must experience the illusion. The denial is self-stultifying.
-
-**Type**: insight  
-**Tweet**: https://x.com/i/web/status/2017876606337847482  
-**Link**: [phenomenology](/concepts/phenomenology/)
 
 ---
 

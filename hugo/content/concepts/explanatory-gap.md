@@ -198,7 +198,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [introspection](/concepts/introspection/) — How we know about the gap in the first place
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory attempting to bridge the gap
 - [tenets](/tenets/) — How the Map's framework responds to the gap
-- [measurement-problem-as-hard-problem](/topics/measurement-problem-as-hard-problem/) — The argument that the measurement problem is an instance of the same explanatory gap
+- [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The argument that the measurement problem is an instance of the same explanatory gap
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — How the gap constrains what we can know about the consciousness-matter interface
 
 ## References

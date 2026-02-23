@@ -85,7 +85,7 @@ This framing also illuminates the Map's [fifth tenet](/tenets/#occams-limits): O
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [phenomenology](/concepts/phenomenology/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
-- [measurement-problem-as-hard-problem](/topics/measurement-problem-as-hard-problem/)
+- [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [self-stultification](/concepts/self-stultification/)

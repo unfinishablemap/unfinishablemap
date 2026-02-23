@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-22 15:18:00+00:00
+ai_modified: 2026-02-23 08:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'How consciousness moves the body: the quantum Zeno effect applied 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 15:18:00+00:00
+last_deep_review: 2026-02-23 08:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ The parallel runs deeper than shared anatomy. Willed attention and willed motor 
 - **Timing**: ~280-300ms deployment for voluntary engagement versus ~100ms for automatic responses (Thura & Cisek 2014)
 - **Neural signatures**: Frontal theta oscillations distinguish willed from instructed action in both domains (Schwartz, Stapp & Beauregard 2005)
 - **Phenomenology**: Both feel effortful when genuinely chosen, easier when merely instructed
-- **Bidirectional coherence**: Willed states produce bidirectional frontoparietal communication, suggesting genuine deliberation rather than feedforward execution
+- **Bidirectional coherence**: Willed states produce bidirectional frontoparietal communication, suggesting genuine deliberation rather than feedforward execution (Schwartz, Stapp & Beauregard 2005)
 
 If these parallels reflect a single underlying mechanism, then establishing the quantum Zeno framework for attention simultaneously establishes it for motor control. Consciousness does not need separate interfaces for perceiving and acting—it operates through one unified selection system.
 
@@ -100,7 +100,7 @@ The mechanism does not require consciousness to inject energy into the brain. Qu
 
 Motor control matters philosophically because it is where [agent-causation](/concepts/agent-causation/) becomes concrete. Abstract debates about whether consciousness has causal power become tangible when the question is: did you choose to raise your hand?
 
-The quantum Zeno framework positions the agent at a specific juncture in the causal chain. Neural computation generates options. Dopamine marks salience. The agent—consciousness—selects among salient options by stabilising one through attention. This is not the libertarian free will of uncaused causes, nor the compatibilist redescription of determination as "freedom." It is a specific causal role: resolving genuine physical indeterminacy in a direction that reflects what the agent intends.
+The quantum Zeno framework positions the agent at a specific juncture in the causal chain. Neural computation generates options. Dopamine marks salience. The agent—consciousness—selects among salient options by stabilising one through attention. The framework offers a specific causal role distinct from both libertarian free will (uncaused causes) and compatibilist redescription of determination as "freedom": resolving genuine physical indeterminacy in a direction that reflects what the agent intends.
 
 The Libet dissolution is crucial here. If the readiness potential were an unconscious decision, the agent would arrive too late. With Schurger's reinterpretation, stochastic neural fluctuations provide the raw material—noise accumulating toward threshold—and the agent's contribution is biasing which fluctuations reach threshold and when. The 200ms window of conscious awareness before movement is not a brief afterthought following an unconscious decision; it is the agent operating within a noisy system.
 
@@ -140,6 +140,7 @@ What would strengthen the case? Evidence that conscious selection introduces sta
 ## References
 
 - Cisek, P., & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex. *Neuron*, 45(5), 801-814.
+- Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 - Kaeser, P.A., et al. (2024). Action potential-induced dopamine release is dispensable for movement but promotes reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
 - Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106, 623-642.

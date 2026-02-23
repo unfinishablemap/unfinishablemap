@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 04:13:00+00:00
+ai_modified: 2026-02-23 07:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,9 @@ concepts:
 - '[[consciousness-and-creativity]]'
 - '[[intentionality]]'
 - '[[phenomenal-unity]]'
+- '[[embodied-cognition]]'
+- '[[downward-causation]]'
+- '[[predictive-processing]]'
 created: 2026-02-23
 date: &id001 2026-02-23
 description: Reframing consciousness from something the brain has to something the
@@ -22,7 +25,7 @@ description: Reframing consciousness from something the brain has to something t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-23 07:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +34,7 @@ related_articles:
 - '[[consciousness-and-temporal-integration]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[process-and-consciousness]]'
+- '[[consciousness-and-agency]]'
 title: Consciousness as Activity Rather Than Property
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -43,9 +47,11 @@ Most philosophy of mind treats consciousness as a property—something the brain
 
 The standard framing asks: what *property* of matter gives rise to consciousness? Stated this way, the question invites exactly two families of answer. Either consciousness is identical to some physical property (identity theory, functionalism), or it is an additional non-physical property layered onto physical ones (property dualism). Both inherit the same spatial metaphor—consciousness as a feature *possessed* by a system, attached to it the way colour is attached to a surface.
 
-This metaphor creates the [hard problem](/topics/hard-problem-of-consciousness/) in its classic form. If consciousness is a property, we can ask why *this* arrangement of matter has it while *that* arrangement doesn't. The explanatory gap opens: no amount of physical description tells us why any system should have the additional property of experience. David Chalmers's formulation—"Why is there something it is like?"—presupposes the property framework. The question is well-formed only if consciousness is something a system *has*.
+This metaphor creates the [hard problem](/topics/hard-problem-of-consciousness/) in its classic form. If consciousness is a property, we can ask why *this* arrangement of matter has it while *that* arrangement doesn't. The explanatory gap opens: no amount of physical description tells us why any system should have the additional property of experience. The classic formulation—drawing on Nagel's "something it is like" and Chalmers's hard problem—presupposes the property framework. The question is well-formed only if consciousness is something a system *has*.
 
 But consider: we do not ask why a whirlpool *has* the property of spinning. Spinning is what a whirlpool *does*—it is constituted by the activity. Asking why water has the additional property of whirlpooling reveals a category error. The activity and the entity are not separable in the way the property framing assumes.
+
+The whirlpool analogy illustrates the category shift but has limits. A whirlpool *is* reducible to fluid dynamics — there is nothing about spinning water that outruns physical description. Consciousness-as-activity makes a stronger claim: conscious activity involves features (subjective character, [intentionality](/concepts/intentionality/), [agent-causal selection](/concepts/agent-causation/)) that physical description cannot capture. The analogy shows why asking "what property?" is the wrong question; it does not imply that the right answer is physicalist.
 
 The suggestion here is not that the hard problem dissolves entirely. The question of why there is something it is like to undergo certain activities remains genuine. But the activity framing shifts the question's character. Instead of asking why inert matter acquires a mysterious extra property, we ask what kind of activity constitutes experience—a question with more conceptual traction.
 
@@ -102,19 +108,21 @@ None of these features can be understood as static properties. Each is inherentl
 
 The activity framing aligns with developments in cognitive science and neuroscience that the property framing struggles to accommodate.
 
-**Predictive processing.** The brain as prediction engine is fundamentally an activity model. Consciousness emerges from the ongoing activity of prediction, error-correction, and model-updating—not from any static configuration of neurons.
+**[Predictive processing](/concepts/predictive-processing/).** Clark's (2013, 2016) action-oriented predictive processing treats the brain not as a passive model-builder but as an active prediction engine continuously generating expectations and correcting errors. Consciousness on this account emerges from the ongoing activity of prediction, error-correction, and model-updating—not from any static configuration of neurons. The framework is fundamentally activity-first: brains don't *have* models, they *do* modelling.
 
-**Enactivism.** The enactivist tradition—Varela, Thompson, Noë—treats consciousness as enacted through [sensorimotor engagement](/topics/sensorimotor-contingencies-and-the-interface/) with the environment. Understanding is not a property the brain has but an activity the organism performs. Perception is not passive reception but active exploration.
+**Enactivism.** The enactivist tradition—Varela, Thompson, Noë—treats consciousness as enacted through [sensorimotor engagement](/topics/sensorimotor-contingencies-and-the-interface/) with the environment. Noë's *Action in Perception* (2004) argues that perception is not passive reception but active exploration: we see by looking, hear by listening, understand by engaging. [Embodied cognition](/concepts/embodied-cognition/) extends this insight—the body is not merely a vehicle for a conscious mind but part of the activity that constitutes it.
 
 **Skilled performance.** [Research on expertise](/topics/consciousness-and-skilled-performance/) reveals consciousness as an architect of skilled activity. Consciousness trains procedural systems, delegates to them, and painfully re-engages when skills break down. This dynamic of building, delegating, and reclaiming control is activity through and through.
 
-**Neural dynamics.** Neuroscience increasingly describes consciousness in terms of dynamic patterns—oscillations, travelling waves, recurrent loops—rather than static activations. The neural correlates of consciousness look more like dances than like paintings.
+**Neural dynamics.** Neuroscience increasingly describes consciousness in terms of dynamic patterns—oscillations, travelling waves, recurrent loops—rather than static activations. Dehaene et al.'s (2011) global neuronal workspace theory characterises conscious access as a dynamic ignition event—a surge of coordinated neural activity, not a property of any brain region. The neural correlates of consciousness look more like dances than like paintings.
 
 ## Relation to Site Perspective
 
 The activity framing strengthens the Map's framework at every point.
 
 **[Dualism](/tenets/#dualism)**: If consciousness is an activity rather than a property, dualism becomes more natural. Properties invite reduction—if consciousness is a property, why not identify it with a physical property? Activities resist this. You cannot identify dancing with any physical property because dancing is not a property at all. The irreducibility the Map insists on follows from the ontological category: activities are not the kind of thing that *can* be identical to physical properties. This represents a different route to the same conclusion as traditional property dualism—one that avoids the awkward question of how a non-physical property "attaches to" a physical system. Activities don't attach; they are performed.
+
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The activity framing clarifies what "minimal interaction" means. If consciousness is an activity, it acts the way activities act—by selecting, directing, biasing—rather than by injecting energy or force. The Map proposes that consciousness biases quantum-indeterminate outcomes in neural systems. Framed as activity, this is not a mysterious force but something consciousness *does*: it selects among possibilities the way attention selects among stimuli. The minimality constraint follows naturally—activities work through their medium, not against it.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The activity framing dissolves the causal closure objection. If consciousness were a property, its causal efficacy would compete with physical causes—Kim's exclusion problem. But activities are how causal powers are *exercised*. Consciousness doesn't compete with neural activity for causal relevance; it is the higher-order activity through which the agent selects among neural possibilities. The Map's proposal that consciousness selects among [quantum-indeterminate neural states](/concepts/consciousness-selecting-neural-patterns/) is precisely an activity claim: selecting is something consciousness *does*.
 
@@ -133,13 +141,19 @@ The activity framing strengthens the Map's framework at every point.
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — Temporal binding as ongoing activity
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis connecting process philosophy to the Map's tenets
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Enactivist approaches to conscious activity
+- [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis connecting consciousness to agency through activity
+- [downward-causation](/concepts/downward-causation/) — How conscious activity exercises causal influence on physical systems
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle the activity framing reframes
 
 ## References
 
 - Bergson, H. (1889/2001). *Time and Free Will*. Dover.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+- Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
+- Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
+- Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+- Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
 - Noë, A. (2004). *Action in Perception*. MIT Press.
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - Varela, F.J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.

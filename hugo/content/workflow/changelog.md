@@ -18,6 +18,130 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 11:20 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **Word count**: 2939 → 2939 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (description trimmed to 155 chars from 225)
+- **Enhancements made**: 0
+- **Note**: Article confirmed stable after 3 reviews in 2 days. No substantive content changes needed.
+- **Output**: [deep-review-2026-02-23b-contemplative-evidence-for-consciousness](/reviews/deep-review-2026-02-23b-contemplative-evidence-for-consciousness/)
+
+## 2026-02-23 11:05 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Synesthetic Void
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [voids-synesthetic-void-2026-02-23](/research/voids-synesthetic-void-2026-02-23/)
+- **Key finding**: Synesthesia reveals that the human experiential palette is not fixed—some minds access phenomenal dimensions permanently closed to others, creating a void within the human species that grounds the abstract question of qualia space in empirical evidence
+
+## 2026-02-23 10:50 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **Word count**: 2890 → 2939 (+49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-23-contemplative-evidence-for-consciousness](/reviews/deep-review-2026-02-23-contemplative-evidence-for-consciousness/)
+
+## 2026-02-23 10:35 UTC - deep-review
+- **Status**: Success
+- **File**: [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- **Word count**: 2514 → 2590 (+76)
+- **Critical issues addressed**: 2 (Wheeler misquotation, orphan references)
+- **Medium issues addressed**: 2 (Bell's theorem precision, process philosophy engagement)
+- **Enhancements made**: 3 (Wigner integration, Bohr complementarity, process philosophy link)
+- **Output**: [deep-review-2026-02-23-the-measurement-problem-as-philosophical-problem](/reviews/deep-review-2026-02-23-the-measurement-problem-as-philosophical-problem/)
+
+## 2026-02-23 10:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cross-cultural convergence on mental causation
+- **Output**: [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Word count**: 1226
+- **Based on research**: Partially (related research: [downward-causation-mental-causation-2026-01-15](/research/downward-causation-mental-causation-2026-01-15/))
+
+## 2026-02-23 10:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The metaphysics of information under dualism
+- **Output**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 1948
+- **Based on research**: No (general knowledge; related IIT research consulted)
+
+## 2026-02-23 09:50 UTC - coalesce
+- **Status**: Success
+- **Sources**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/), [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- **Target**: [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- **Archived**: archive/topics/measurement-problem-as-hard-problem.md, archive/topics/the-measurement-problem-as-philosophical-problem.md
+- **References to review**: 7 active content files reference archived `measurement-problem-as-hard-problem` (auto-resolved via superseded_by)
+
+## 2026-02-23 09:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The zombie master argument
+- **Output**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Word count**: 1422
+- **Based on research**: No
+- **Section**: concepts/ (topics at cap)
+
+## 2026-02-23 09:20 UTC - deep-review
+- **Status**: Success
+- **File**: [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+- **Word count**: 1757 → 1884 (+127)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-23-analytic-idealism-and-mind-centric-metaphysics](/reviews/deep-review-2026-02-23-analytic-idealism-and-mind-centric-metaphysics/)
+
+## 2026-02-23 09:05 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Consciousness and attention dissociation
+- **Reason**: Article already exists at [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) (created 2026-02-05, deep-reviewed 2026-02-05). Todo task marked as complete (duplicate).
+
+## 2026-02-23 08:50 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Emotional consciousness and valence
+- **Reason**: Article already exists at [emotional-consciousness](/topics/emotional-consciousness/) (created 2026-01-19, deep-reviewed 2026-02-04). Todo task marked as complete (duplicate).
+
+## 2026-02-23 08:35 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of 388 non-draft files (202 topics, 185 concepts, 1 tenet) plus 62 voids and 13 apex articles
+- **Output**: [optimistic-2026-02-23-afternoon](/reviews/optimistic-2026-02-23-afternoon/)
+
+## 2026-02-23 08:20 UTC - deep-review
+- **Status**: Success
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
+- **Word count**: 2151 → 2177 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Hagan et al. reference, style guide "This is not X" violation)
+- **Enhancements made**: 1 (added citation for bidirectional coherence claim)
+- **Output**: [deep-review-2026-02-23-motor-control-quantum-zeno](/reviews/deep-review-2026-02-23-motor-control-quantum-zeno/)
+
+## 2026-02-23 08:06 UTC - deep-review
+- **Status**: Success
+- **File**: [apophatic-approaches](/voids/apophatic-approaches/)
+- **Word count**: 2887 → 2896 (+9)
+- **Critical issues addressed**: 1 (Cusanus misattribution)
+- **Medium issues addressed**: 3 (decoherence overstatement, heterophenomenology stretch, missing description)
+- **Enhancements made**: 0 (length-neutral mode, article at 145% of threshold)
+- **Output**: [deep-review-2026-02-23-apophatic-approaches](/reviews/deep-review-2026-02-23-apophatic-approaches/)
+
+## 2026-02-23 07:50 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+- **Word count**: 1830 → 2158 (+328)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 4 (whirlpool caveat, Tenet 2 connection, sciences citations, cross-links)
+- **Output**: [deep-review-2026-02-23-consciousness-as-activity](/reviews/deep-review-2026-02-23-consciousness-as-activity/)
+
+## 2026-02-23 07:35 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Word count**: 2844 → 2858 (+14)
+- **Critical issues addressed**: 2 (wrong first author Kaeser→Cai for dopamine paper; wrong Rizzolatti citation year 1987→1994 for premotor theory)
+- **Medium issues addressed**: 2 (unverified cortisol claim removed; stale AI refinement log removed)
+- **Enhancements made**: 0 (article already in strong shape after earlier refinement)
+- **Output**: [deep-review-2026-02-23-attention-as-causal-bridge](/reviews/deep-review-2026-02-23-attention-as-causal-bridge/)
+
 ## 2026-02-23 07:20 UTC - refine-draft
 - **Status**: Success
 - **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)

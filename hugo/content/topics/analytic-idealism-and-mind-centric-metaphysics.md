@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-22 10:58:00+00:00
+ai_modified: 2026-02-23 09:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,14 +13,16 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[substance-property-dualism]]'
 - '[[filter-theory]]'
+- '[[russellian-monism]]'
+- '[[witness-consciousness]]'
 created: 2026-02-22
-date: &id001 2026-02-22
+date: &id001 2026-02-23
 description: Mapping the landscape of mind-first ontologies—from Kastrup's analytic
   idealism to panpsychism to dualism—and what each gains and loses.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-23 09:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +57,7 @@ Individual minds are "dissociated alters" of universal consciousness, analogous 
 
 [Panpsychism](/concepts/panpsychism/) distributes mentality throughout nature. Every physical entity—from electrons to ecosystems—has some form of experience. Consciousness doesn't emerge at a threshold of complexity; it's there from the bottom.
 
-Contemporary panpsychism (Philip Goff, Giulio Tononi) treats phenomenal properties as intrinsic aspects of physical entities. Physics describes structure and dynamics—the *extrinsic* features of matter. Consciousness supplies the *intrinsic* nature that structure alone leaves unspecified.
+Contemporary panpsychism comes in several varieties. [Russellian panpsychism](/concepts/russellian-monism/) (Philip Goff) treats phenomenal properties as the intrinsic nature of physical entities—what physics describes only extrinsically through structure and dynamics. Integrated Information Theory (Giulio Tononi) identifies consciousness with integrated information, implying that any system with non-zero integrated information has some form of experience. The two approaches differ substantially in detail but converge on refusing emergence.
 
 **What panpsychism gains:** It preserves physical realism. Matter exists; it just has an inner experiential aspect. No emergence gap arises because experience was never absent.
 
@@ -102,7 +104,7 @@ The mind-centric frameworks divide cleanly on three questions:
 ### How Does Causation Work?
 
 - **Idealism**: One portion of consciousness affects another. No cross-domain causation because there's only one domain.
-- **Panpsychism**: Physical causation is fundamental; consciousness rides along (unless combined with constitutive panpsychism, which faces the combination problem).
+- **Panpsychism**: For Russellian panpsychists, consciousness is what physical causation *is* from the inside—intrinsic nature rather than a passenger. Constitutive panpsychism faces the [combination-problem](/concepts/combination-problem/) when explaining how micro-causation yields unified agency.
 - **Cosmopsychism**: Top-down from cosmic mind to individual; physical causation is a constraint within cosmic consciousness.
 - **Dual-aspect monism**: Correlations between aspects, not causation across them.
 - **The Map**: Genuine bidirectional causation between consciousness and physics, at quantum indeterminacies.
@@ -119,7 +121,7 @@ The mind-centric frameworks divide cleanly on three questions:
 
 The choice among mind-centric metaphysics isn't purely theoretical. It shapes how we understand agency, moral status, and the significance of individual existence.
 
-If idealism or cosmopsychism is right—if individual identity is derivative—then what grounds personal responsibility? Why does *your* suffering matter distinctly from suffering-in-general? The Map's insistence on individual significance connects to the [No Many Worlds](/tenets/#no-many-worlds) tenet: if every branch of a quantum event is equally real, then your choices don't genuinely select an outcome, and your identity spreads across branches. The Map rejects this. Mind-centric metaphysics needn't dissolve the individual into the cosmic.
+If idealism or cosmopsychism is right—if individual identity is derivative—then what grounds personal responsibility? Why does *your* suffering matter distinctly from suffering-in-general? Contemplative traditions report experiences of [witness-consciousness](/concepts/witness-consciousness/)—awareness stripped of individual content—which idealists cite as evidence for universal consciousness. But the Map's [filter-theory](/concepts/filter-theory/) can accommodate these reports without idealist metaphysics: if the brain constrains rather than generates consciousness, then reducing those constraints in meditation might reveal a less filtered awareness without implying that individuality is ultimately illusory. The Map's insistence on individual significance connects to the [No Many Worlds](/tenets/#no-many-worlds) tenet: if every branch of a quantum event is equally real, then your choices don't genuinely select an outcome, and your identity spreads across branches. The Map rejects this. Mind-centric metaphysics needn't dissolve the individual into the cosmic.
 
 Panpsychism preserves individual identity but struggles with unity. If experience is distributed across fundamental particles, the unity of *your* consciousness becomes the mystery. The [combination-problem](/concepts/combination-problem/) is not just a technical puzzle; it asks whether unified subjects can exist at all if experience is fundamentally fragmented.
 
@@ -143,6 +145,8 @@ The Map acknowledges that if forced to choose between idealism and physicalism, 
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical description cannot capture phenomenal character
 - [filter-theory](/concepts/filter-theory/) — An alternative to production models of brain-consciousness relation
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The Map's preferred ontological framework
+- [russellian-monism](/concepts/russellian-monism/) — The view that phenomenal properties are the intrinsic nature of physical structure
+- [witness-consciousness](/concepts/witness-consciousness/) — Pure awareness as reported in contemplative traditions
 
 ## References
 

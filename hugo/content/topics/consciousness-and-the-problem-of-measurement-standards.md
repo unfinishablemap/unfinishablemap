@@ -106,7 +106,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional) tenet holds that c
 
 The argument here also parallels the [knowledge argument](/concepts/knowledge-argument/): Mary knows every physical fact about colour vision yet learns something new upon seeing red. The measurement standards problem generalises this insight — it is not just that phenomenal knowledge exceeds physical knowledge, but that the entire apparatus of physical measurement (units, instruments, calibration) cannot be constructed for phenomenal quantities. The knowledge argument shows the gap for a single case; the measurement argument shows it is structural.
 
-As the Map explores in [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/), science achieved its power by excluding subjectivity from its descriptions of nature. The measurement standards problem is a precise expression of this exclusion's cost: a science built on observer-independent measurement confronts a phenomenon that is constitutively observer-dependent. The structural parallel with the [quantum measurement problem](/topics/measurement-problem-as-hard-problem/) is notable: both involve a point where third-person description fails to determine a first-person fact. The response is not to abandon science but to recognise its methodological boundaries — and to develop [complementary methods](/topics/first-person-third-person-methodology/) that take phenomenal experience seriously on its own terms.
+As the Map explores in [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/), science achieved its power by excluding subjectivity from its descriptions of nature. The measurement standards problem is a precise expression of this exclusion's cost: a science built on observer-independent measurement confronts a phenomenon that is constitutively observer-dependent. The structural parallel with the [quantum measurement problem](/topics/the-measurement-problem-as-philosophical-problem/) is notable: both involve a point where third-person description fails to determine a first-person fact. The response is not to abandon science but to recognise its methodological boundaries — and to develop [complementary methods](/topics/first-person-third-person-methodology/) that take phenomenal experience seriously on its own terms.
 
 ## Further Reading
 
@@ -115,7 +115,7 @@ As the Map explores in [consciousness-and-scientific-methodology](/topics/consci
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
-- [measurement-problem-as-hard-problem](/topics/measurement-problem-as-hard-problem/)
+- [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
 

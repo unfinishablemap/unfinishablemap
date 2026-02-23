@@ -82,7 +82,7 @@ Functionalists contest this, holding that "why am I this one?" confuses indexica
 
 The functionalist can insist no such fact exists beyond functional states, but this denies the explanandum rather than explaining it. The strategy generalizes: if "why am I this one?" collapses into convention, "why does this hurt?" faces the same move. Both concern facts about subjective experience.
 
-The argument that this structural parallel constitutes not just analogy but identity—that the measurement problem is an instance of the hard problem—is developed in [The Measurement Problem as Hard Problem](/topics/measurement-problem-as-hard-problem/).
+The argument that this structural parallel constitutes not just analogy but identity—that the measurement problem is an instance of the hard problem—is developed in [The Measurement Problem as Hard Problem](/topics/the-measurement-problem-as-philosophical-problem/).
 
 This reveals a gap across major interpretations:
 - **[QBism](/concepts/qbism/)** dissolves the measurement problem by treating quantum states as subjective beliefs—"collapse" becomes belief-updating. Yet QBism centres agents who must have determinate experiences to form beliefs; it presupposes rather than explains why consciousness has first-person content

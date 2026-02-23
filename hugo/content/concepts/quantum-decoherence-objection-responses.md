@@ -56,7 +56,7 @@ This is the strongest response and the most frequently overlooked. [decoherence]
 
 The Stanford Encyclopedia of Philosophy states this directly: "Decoherence as such does not provide a solution to the [measurement-problem](/concepts/measurement-problem/), at least not unless it is combined with an appropriate foundational approach."
 
-This means Claim 3 fails. Even granting rapid, complete decoherence, quantum indeterminacy persists at the point of measurement. Consciousness remains a candidate for what selects outcomes. The detailed argument appears in the [measurement-problem](/concepts/measurement-problem/) article; the [parallel between the measurement problem and the hard problem](/topics/measurement-problem-as-hard-problem/) deepens the connection.
+This means Claim 3 fails. Even granting rapid, complete decoherence, quantum indeterminacy persists at the point of measurement. Consciousness remains a candidate for what selects outcomes. The detailed argument appears in the [measurement-problem](/concepts/measurement-problem/) article; the [parallel between the measurement problem and the hard problem](/topics/the-measurement-problem-as-philosophical-problem/) deepens the connection.
 
 This response alone is sufficient to keep quantum consciousness viable regardless of decoherence timescales.
 

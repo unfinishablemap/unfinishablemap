@@ -223,7 +223,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Energy conservation and the causal closure loophole
 - [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The causal closure argument
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of consciousness and causal efficacy
-- [measurement-problem-as-hard-problem](/topics/measurement-problem-as-hard-problem/) — The identity claim: the measurement problem is a species of hard problem
+- [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The identity claim: the measurement problem is a species of hard problem
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

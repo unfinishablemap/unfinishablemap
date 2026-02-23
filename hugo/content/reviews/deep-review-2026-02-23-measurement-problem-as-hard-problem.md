@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [The Measurement Problem as Hard Problem](/topics/measurement-problem-as-hard-problem/)
+**Article**: [The Measurement Problem as Hard Problem](/topics/the-measurement-problem-as-philosophical-problem/)
 **Previous review**: [2026-02-19](/reviews/deep-review-2026-02-19-measurement-problem-as-hard-problem/)
 
 ## Pessimistic Analysis Summary
