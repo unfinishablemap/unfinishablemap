@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T07:27:00+00:00
+ai_modified: 2026-02-23T01:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,8 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
   - "[[functionalism]]"
+  - "[[conceivability-possibility-inference]]"
+  - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
   - "[[reductionism-consciousness-philosophy-2026-01-19]]"
@@ -27,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-23T01:43:00+00:00
 ---
 
 Reductionism has been the most successful explanatory strategy in the history of science. Temperature reduces to molecular kinetic energy. Heredity reduces to DNA. Life itself reduces to biochemistry—no vital force required. Yet consciousness remains stubbornly irreducible. The Unfinishable Map argues this is not a temporary gap in scientific knowledge but a permanent feature of reality: consciousness is categorically different from everything else science has encountered.
@@ -60,11 +62,13 @@ Compare: once told that temperature is mean kinetic energy, we grasp *why* faste
 
 ### Functional Analysis Falls Short
 
-The more sophisticated [[reductionism#Functional Reduction|functional reduction]] framework (Lewis 1966, Kim 2005) defines mental states by their causal roles: pain is whatever state tissue damage typically causes and avoidance behaviour typically follows. If a neural state uniquely fills that role, pain *is* that neural state.
+The more sophisticated [[reductionism#Functional Reduction|functional reduction]] framework (Lewis 1966, Kim 2005) defines mental states by their causal roles: pain is whatever state tissue damage typically causes and avoidance behaviour typically follows. If a neural state uniquely fills that role, pain *is* that neural state. This is the core strategy of [[functionalism]]—identifying mental states with functional roles rather than intrinsic properties.
 
 This works for many mental phenomena. Belief, desire, memory, perception—all have functional profiles that physical systems can realise. Cognitive science routinely reduces these to information-processing descriptions without remainder.
 
-But phenomenal consciousness resists functionalisation. The functional role of pain—detecting damage, motivating avoidance—can be specified completely without mentioning *how pain feels*. A system could perform all pain-functions without hurting. This is the intuition behind the [[philosophical-zombies|zombie argument]]: a being physically and functionally identical to a human but lacking experience is conceivable. If conceivable, phenomenal properties are not entailed by functional properties. If not entailed, they are not reducible.
+But phenomenal consciousness resists functionalisation. The functional role of pain—detecting damage, motivating avoidance—can be specified completely without mentioning *how pain feels*. A system could perform all pain-functions without hurting. [[pain-asymbolia-as-central-test-case|Pain asymbolia]] demonstrates this empirically: patients with the condition detect tissue damage and describe pain's location and intensity, yet report no suffering. The functional role is filled; the phenomenal character is absent.
+
+This is the intuition behind the [[philosophical-zombies|zombie argument]]: a being physically and functionally identical to a human but lacking experience is conceivable. If conceivable, phenomenal properties are not entailed by functional properties. If not entailed, they are not reducible. The most serious objection—[[conceivability-possibility-inference|Type-B physicalism]]—grants conceivability but denies the inference to possibility, arguing that consciousness might be identical to physical processes by *a posteriori* necessity (as water is necessarily H₂O despite the identity being discoverable only empirically). But the water analogy is disanalogous: we can explain *why* water is H₂O once we have molecular theory. No comparable explanation connects neural states to phenomenal qualities. The identity would be brute—posited rather than derived—which is precisely the problem reductionism was supposed to solve.
 
 Kim himself conceded this point. The architect of functional reduction admitted that [[qualia]] "may not be functionally reducible," settling for something he called "near enough" to physicalism (Kim 2005). When the framework's own designer acknowledges it fails for consciousness, the failure is not a research gap but a structural limitation.
 
@@ -119,9 +123,13 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] confronts the parsi
 - [[reductionism]] — The three types of reductionism and why functional reduction fails for consciousness
 - [[explanatory-gap]] — Why physical descriptions leave experience unexplained
 - [[hard-problem-of-consciousness]] — The distinction between easy and hard problems
+- [[functionalism]] — The dominant framework for reducing mental states to causal roles
+- [[philosophical-zombies]] — The conceivability argument and its implications for physicalism
+- [[conceivability-possibility-inference]] — Whether conceivability entails metaphysical possibility
 - [[emergence]] — Strong emergence as the framework for irreducible properties
 - [[concepts/materialism]] — The view reductionism about consciousness underwrites
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
+- [[pain-asymbolia-as-central-test-case]] — Empirical evidence that function and phenomenal character come apart
 
 ## References
 
