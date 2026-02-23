@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on cross-cultural convergence on mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map demonstrates cross-cultural convergence on the hard problem but has not examined whether independent traditions also converge on consciousness being causally efficacious. Indian karma theory, Chinese qi philosophy, and African vital force traditions all posit mental-to-physical causation. Strengthens the convergence argument for Tenet 3. Builds on the-hard-problem-in-non-western-philosophy.md, indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. Target section: topics/. See optimistic-2026-02-22-evening.md
-
 ### P3: Strengthen convergence-argument cross-links to galilean-exclusion
 - **Type**: cross-review
 - **Status**: pending
@@ -159,6 +154,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on cross-cultural convergence on mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map demonstrates cross-cultural convergence on the hard problem but has not examined whether independent traditions also converge on consciousness being causally efficacious. Indian karma theory, Chinese qi philosophy, and African vital force traditions all posit mental-to-physical causation. Strengthens the convergence argument for Tenet 3. Builds on the-hard-problem-in-non-western-philosophy.md, indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. Target section: topics/. See optimistic-2026-02-22-evening.md
+- **Output**: cross-cultural convergence on mental causation
 
 ### ✓ 2026-02-23: Write article on the metaphysics of information under dualism
 - **Type**: expand-topic
