@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal and epiphenomenalism made u
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-23T06:35:00+00:00
+ai_modified: 2026-02-23T11:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-02-23T06:35:00+00:00
+last_deep_review: 2026-02-23T11:35:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-pain/"
   - "/topics/phenomenology-of-pain/"
@@ -64,7 +64,7 @@ The physicalist may reply, following Lewis and Nemirow, that the neuroscientist 
 
 Pain is not monolithic. What we call "pain" combines at least a sensory quality (sharp, burning, throbbing), a felt location, an intensity, and an affective dimension (unpleasantness, suffering). These components can come apart, revealing a phenomenal structure that functional description alone cannot capture. Nociception is one channel of the body's broader [[somatic-interface|somatic interface]] — the layered system through which the body reports its state to consciousness — and pain's component structure reflects the interface's modular architecture.
 
-**Pain asymbolia** demonstrates the most telling dissociation. Patients with insular cortex damage detect nociceptive signals — they report that a stimulus is "painful" in the descriptive sense — but the felt awfulness is absent. They do not withdraw, grimace, or seek relief. The sensory-discriminative component persists while the affective-motivational component vanishes. Without that felt awfulness, the extended behavioural response collapses. These patients often fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional representation of damage persists; what vanishes is the phenomenal quality, and with it the motivational force. The felt quality and the causal efficacy disappear together because they were never separate. (For a systematic treatment of how asymbolia tests every major theory of consciousness, see [[pain-asymbolia-as-central-test-case|pain asymbolia as central test case]].)
+**Pain asymbolia** demonstrates the most telling dissociation. As Grahek (2007) documents in detail, patients with insular cortex damage detect nociceptive signals — they report that a stimulus is "painful" in the descriptive sense — but the felt awfulness is absent. They do not withdraw, grimace, or seek relief. The sensory-discriminative component persists while the affective-motivational component vanishes. Without that felt awfulness, the extended behavioural response collapses. These patients often fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional representation of damage persists; what vanishes is the phenomenal quality, and with it the motivational force. The felt quality and the causal efficacy disappear together because they were never separate. (For a systematic treatment of how asymbolia tests every major theory of consciousness, see [[pain-asymbolia-as-central-test-case|pain asymbolia as central test case]].)
 
 **Phantom limb pain** demonstrates the reverse kind of dissociation: pain without any peripheral cause. After amputation, patients experience burning, stabbing, or crushing sensations in a limb that no longer exists. Cortical reorganisation explains *why* the signals occur, but the full phenomenal character — its specific quality, its felt location in absent tissue — exceeds what reorganisation maps predict. Pain's persistence beyond its physical substrate echoes the broader pattern seen in [[consciousness-and-neurodegenerative-disease|neurodegenerative disease]], where phenomenal awareness — including pain's felt quality — endures through progressive neural destruction.
 
@@ -86,7 +86,7 @@ Pain's causal role is not generic. Different qualities of pain produce different
 
 Sharp, cutting pain provokes immediate withdrawal and inspection. Burning pain motivates cooling and sustained guarding. Deep, aching pain produces immobility and protective posturing. Throbbing pain triggers different self-care behaviours than stabbing pain. These quality-specific responses are consistent and recognisable, suggesting they reflect something about the phenomenal character of each pain type rather than arbitrary learned associations.
 
-If the causal work is done entirely by neural patterns and phenomenal quality is epiphenomenal, then the mapping between pain quality and behavioural response must be explained in purely neural terms. But the *qualitative character* of the experience — sharp versus burning versus aching — predicts the behavioural difference (withdrawal versus immobility) more directly than the underlying neural pattern differences, which involve distributed activity across overlapping networks. The Map's framework offers a more natural account: if what pain *feels like* partially determines what the organism *does*, then the quality-action mapping is explained directly. The quale is part of the causal process itself.
+If the causal work is done entirely by neural patterns and phenomenal quality is epiphenomenal, then the mapping between pain quality and behavioural response must be explained in purely neural terms. But the *qualitative character* of the experience — sharp versus burning versus aching — tracks the behavioural difference (withdrawal versus immobility) more transparently than the underlying neural pattern differences, which involve distributed activity across overlapping networks. The Map's framework offers a more natural account: if what pain *feels like* partially determines what the organism *does*, then the quality-action mapping is explained directly. The quale is part of the causal process itself.
 
 ## Pain Anticipation and the Placebo Effect
 
@@ -104,7 +104,7 @@ This attention-capturing quality is phenomenologically primitive — not somethi
 
 ## Why Pain Is the Hardest Case for Epiphenomenalism
 
-The [[evolutionary-case-for-mental-causation|evolutionary argument]] against epiphenomenalism is strongest for pain. As Cutter and Tye (2022) argue, phenomenal experience has functional value that cannot be replicated by non-conscious processing. The elaborate phenomenal architecture of pain — its graded intensity tracking tissue damage, its qualitative variety matching damage type, its attention-monopolising urgency proportional to threat severity — would be a staggering accident if consciousness were causally inert.
+The [[evolutionary-case-for-mental-causation|evolutionary argument]] against epiphenomenalism is strongest for pain. The elaborate phenomenal architecture of pain — its graded intensity tracking tissue damage, its qualitative variety matching damage type, its attention-monopolising urgency proportional to threat severity — would be a staggering accident if consciousness were causally inert.
 
 The epiphenomenalist may respond that pain experience necessarily supervenes on the functional states natural selection actually selected. But this generates a further question: *why this particular supervenience mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The epiphenomenalist might retreat to brute [[psychophysical-laws|psychophysical laws]], but this requires an enormous, precisely tuned family of psychophysical correspondences, all coincidentally adaptive. The simpler explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes.
 
@@ -147,7 +147,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 
 - Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
+- Cleeremans, A. & Tallon-Baudry, C. (2022). "Consciousness Matters: Phenomenal Experience Has Functional Value." *Neuroscience of Consciousness*, 2022(1), niac007.
 - Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.

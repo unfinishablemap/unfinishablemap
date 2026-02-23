@@ -85,12 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Deep review why-pain-hurts.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-02-09). Product of coalesce merging consciousness-and-pain.md and phenomenology-of-pain.md. Coalesced articles are prone to inconsistencies from the merge process. Verify coherence, argument quality, and cross-references.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
 ### P3: Write concept article on direction-of-fit
 - **Type**: expand-topic
 - **Status**: pending
@@ -143,6 +137,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Deep review why-pain-hurts.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-02-09). Product of coalesce merging consciousness-and-pain.md and phenomenology-of-pain.md. Coalesced articles are prone to inconsistencies from the merge process. Verify coherence, argument quality, and cross-references.
+- **Output**: obsidian/topics/why-pain-hurts.md
 
 ### ✓ 2026-02-23: Deep review contemplative-evidence-for-consciousness.md
 - **Type**: deep-review
