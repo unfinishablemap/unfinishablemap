@@ -55,11 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Write article on African philosophy of consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map includes Indian, Buddhist, and Eastern perspectives but has no coverage of African philosophical traditions. Ubuntu philosophy's relational personhood, the Akan concept of sunsum, and Tempels's vital force ontology offer genuinely different frameworks. The relational emphasis—consciousness as essentially communal—challenges both Western individualist dualism and Eastern dissolution of self. Builds on indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. See optimistic-2026-02-22.md
-
 ### P3: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
 - **Type**: cross-review
 - **Status**: pending
@@ -223,6 +218,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on African philosophy of consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map includes Indian, Buddhist, and Eastern perspectives but has no coverage of African philosophical traditions. Ubuntu philosophy's relational personhood, the Akan concept of sunsum, and Tempels's vital force ontology offer genuinely different frameworks. The relational emphasis—consciousness as essentially communal—challenges both Western individualist dualism and Eastern dissolution of self. Builds on indian-philosophy-of-mind.md, cross-cultural-phenomenology-of-agency.md. See optimistic-2026-02-22.md
+- **Output**: African philosophy of consciousness
 
 ### ✓ 2026-02-23: Write article on consciousness and the philosophy of biology
 - **Type**: expand-topic
