@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 22:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-neurodegenerative-disease]]
+- **Word count**: 1996 → 2310 (+314)
+- **Critical issues addressed**: 3 (fabricated Mashour reference, overstated post-mortem claim, broken autonoetic-consciousness link)
+- **Medium issues addressed**: 6 (uncited atrophy figure, unused reference removed, missing inline citations, filter theory asymmetry, consciousness gradualism, Parfit attribution)
+- **Enhancements made**: 4 (easy/hard problem connection, 7 new cross-links, evidence calibration, filter self-criticism)
+- **Output**: [[reviews/deep-review-2026-02-23-consciousness-and-neurodegenerative-disease]]
+
 ## 2026-02-23 21:50 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/contemplative-pathology-and-interface-malfunction]]
