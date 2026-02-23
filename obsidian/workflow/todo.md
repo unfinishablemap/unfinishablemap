@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write concept article on direction-of-fit
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The mind-to-world vs. world-to-mind distinction is discussed across aesthetic creation, agent causation, and mental causation articles but has no dedicated concept page. Would articulate a fundamental asymmetry in consciousness's causal engagement. See optimistic-2026-02-22-late-afternoon.md
-
 ### P3: Write apex article on the phenomenology of consciousness doing work
 - **Type**: expand-topic
 - **Status**: pending
@@ -137,6 +132,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write concept article on direction-of-fit
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The mind-to-world vs. world-to-mind distinction is discussed across aesthetic creation, agent causation, and mental causation articles but has no dedicated concept page. Would articulate a fundamental asymmetry in consciousness's causal engagement. See optimistic-2026-02-22-late-afternoon.md
+- **Output**: Write concept article on direction-of-fit
 
 ### ✓ 2026-02-23: Deep review why-pain-hurts.md
 - **Type**: deep-review
