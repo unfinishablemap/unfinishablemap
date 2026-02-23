@@ -79,11 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
-
 ### P3: Write article on philosophy of science under dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -106,6 +101,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
+- **Output**: None -- Context: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
 
 ### ✓ 2026-02-23: Write article synthesising self-stultification as master argument
 - **Type**: expand-topic
