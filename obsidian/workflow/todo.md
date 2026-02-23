@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write topic article on Samkhya's three-way distinction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Samkhya's consciousness/mind/gross-matter trichotomy anticipates functionalism for mind while maintaining irreducibility for consciousness—an underexplored middle path that enriches the Map's dualism with non-Western conceptual resources. See optimistic-2026-02-22-late-afternoon.md
-
 ### P3: Write article on consciousness and scientific explanation under dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -127,6 +122,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write topic article on Samkhya's three-way distinction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Samkhya's consciousness/mind/gross-matter trichotomy anticipates functionalism for mind while maintaining irreducibility for consciousness—an underexplored middle path that enriches the Map's dualism with non-Western conceptual resources. See optimistic-2026-02-22-late-afternoon.md
+- **Output**: Write topic article on Samkhya's three-way distinction
 
 ### ✓ 2026-02-23: Write apex article on the phenomenology of consciousness doing work
 - **Type**: expand-topic
