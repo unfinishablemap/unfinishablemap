@@ -55,11 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Write article on consciousness and the philosophy of biology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map lacks systematic treatment of how dualism interfaces with philosophy of biology beyond evolution-of-consciousness. Recent work by Walsh, Godfrey-Smith, Okasha challenges gene-centered neo-Darwinism in ways potentially compatible with the Map's framework. Godfrey-Smith's octopus cognition work is particularly relevant. Builds on evolution-of-consciousness.md, consciousness-in-simple-organisms.md, animal-consciousness.md. See optimistic-2026-02-22.md
-
 ### P3: Write article on African philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -228,6 +223,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on consciousness and the philosophy of biology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map lacks systematic treatment of how dualism interfaces with philosophy of biology beyond evolution-of-consciousness. Recent work by Walsh, Godfrey-Smith, Okasha challenges gene-centered neo-Darwinism in ways potentially compatible with the Map's framework. Godfrey-Smith's octopus cognition work is particularly relevant. Builds on evolution-of-consciousness.md, consciousness-in-simple-organisms.md, animal-consciousness.md. See optimistic-2026-02-22.md
+- **Output**: consciousness and the philosophy of biology
 
 ### ✓ 2026-02-23: Write article on philosophy of perception and consciousness
 - **Type**: expand-topic
