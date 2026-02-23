@@ -33,6 +33,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
+archived: true
+archived_date: 2026-02-23T22:22:00+00:00
+superseded_by: "/topics/consciousness-and-the-limits-of-explanation/"
+archive_reason: "Coalesced into Consciousness and the Limits of Explanation"
+original_path: "/topics/consciousness-and-the-meta-problem-of-scientific-explanation/"
 ---
 
 Science has a problem it rarely examines: it cannot explain why it explains anything. Scientific explanation works — spectacularly — but the question of *what makes an explanation explanatory* has no scientific answer. The Unfinishable Map argues that consciousness exposes this reflexive gap with unique force. When science tries to explain consciousness, it encounters the one phenomenon whose existence is a precondition for explanation itself. This is not the familiar [[hard-problem-of-consciousness|hard problem]] restated. It is a structural observation about science as a practice: the explanatory enterprise rests on phenomenal understanding, and phenomenal understanding is the thing that resists scientific capture.

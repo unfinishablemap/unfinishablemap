@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-23
 
+### P2: Update references to coalesced explanation articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[consciousness-and-the-limits-of-explanation]]. The following 8 active content files reference the archived [[consciousness-and-the-philosophy-of-explanation]] and/or [[consciousness-and-the-meta-problem-of-scientific-explanation]] and need wikilinks updated to point to the new article: philosophy-of-science-under-dualism, consciousness-and-scientific-explanation, epistemology-of-mechanism-at-the-consciousness-matter-interface, phenomenology-of-theoretical-commitment, consciousness-and-the-problem-of-theoretical-virtues, consciousness-and-the-problem-of-philosophical-progress, consciousness-and-the-problem-of-measurement-standards.
+- **Source**: coalesce
+- **Generated**: 2026-02-23
+
 ### P2: Update references to coalesced pain articles
 - **Type**: cross-review
 - **Notes**: Coalesce created [[why-pain-hurts]]. The following active content files reference the archived [[consciousness-and-pain]] and/or [[phenomenology-of-pain]] and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.

@@ -34,6 +34,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
+archived: true
+archived_date: 2026-02-23T22:22:00+00:00
+superseded_by: "/topics/consciousness-and-the-limits-of-explanation/"
+archive_reason: "Coalesced into Consciousness and the Limits of Explanation"
+original_path: "/topics/consciousness-and-the-philosophy-of-explanation/"
 ---
 
 Consciousness does not merely resist explanation. It destabilises the concept of explanation itself. Every major theory of scientific explanation—deductive-nomological, causal-mechanical, unificationist—works by connecting phenomena to underlying structures in ways that make outcomes intelligible. Consciousness defeats all three. Not because we lack data or clever theory, but because the connection between physical processes and subjective experience is unlike any other explanatory target. The Unfinishable Map argues this reveals something fundamental: explanation presupposes phenomenal understanding, and phenomenal understanding is precisely what consciousness puts in question.
