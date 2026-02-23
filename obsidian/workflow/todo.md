@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Cross-link motor control, choking, and consciousness-as-activity
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. motor-control-quantum-zeno.md ↔ choking-phenomenon-mental-causation.md (mechanism and evidence), consciousness-as-activity.md ↔ process-haecceitism.md (activity framing and processual identity), hoel-llm-consciousness-continual-learning.md ↔ consciousness-as-activity.md (continual learning maps onto activity framing), pain-asymbolia-as-central-test-case.md ↔ placebo-effect-and-mental-causation.md (complementary empirical test cases). See optimistic-2026-02-23-afternoon.md
-
 ### P3: Write article on epistemology of other minds under dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -112,6 +107,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Cross-link motor control, choking, and consciousness-as-activity
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. motor-control-quantum-zeno.md ↔ choking-phenomenon-mental-causation.md (mechanism and evidence), consciousness-as-activity.md ↔ process-haecceitism.md (activity framing and processual identity), hoel-llm-consciousness-continual-learning.md ↔ consciousness-as-activity.md (continual learning maps onto activity framing), pain-asymbolia-as-central-test-case.md ↔ placebo-effect-and-mental-causation.md (complementary empirical test cases). See optimistic-2026-02-23-afternoon.md
+- **Output**: None -- Context: Cross-link motor control, choking, and consciousness-as-activity
 
 ### ✓ 2026-02-23: Write article on anaesthesia and the consciousness interface
 - **Type**: expand-topic
