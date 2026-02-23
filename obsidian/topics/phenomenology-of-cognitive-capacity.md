@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Cognitive Capacity"
-description: "Consciousness has a felt size. Cognitive overload reveals its limits from inside; automatisation reveals how it frees space by delegating to unconscious systems. Both experiences expose consciousness as an active, bandwidth-limited agent."
+description: "Cognitive overload and automatisation reveal consciousness as a bandwidth-limited agent—one that encounters its own operational boundaries from the inside."
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T04:43:00+00:00
+ai_modified: 2026-02-23T06:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-23T06:20:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-cognitive-load/"
   - "/topics/phenomenology-of-cognitive-automatisation/"
@@ -63,7 +63,7 @@ This progression is *graded*. There is no sharp boundary between managing and fa
 
 When load exceeds capacity, items don't gently fade — they *drop*. The experience is of sudden loss: a premise you were holding simply vanishes, and you feel the gap. There is a distinctive quality of *absence* where presence had been.
 
-This dropping has several phenomenal features. It feels *involuntary* — the loss happens despite your effort to maintain. It is *specific* — you often know what shape the gap has, even when you can no longer access the content. And it *cascades* — losing one element destabilises others maintained in relation to it. These features are difficult to explain if cognitive load is merely information processing: a computational system that drops data simply lacks it, but a conscious subject experiences the form of what was lost.
+This dropping has several phenomenal features. It feels *involuntary* — the loss happens despite your effort to maintain. It is *specific* — you often know what shape the gap has, even when you can no longer access the content. And it *cascades* — losing one element destabilises others maintained in relation to it. These features resist reduction to information processing. A computational system can flag data loss through error codes and incomplete markers, but this is not the same as experiencing the *form* of what was lost. The shaped gap has phenomenal character — felt, involuntary, specific — that functional descriptions of buffer overflow do not capture.
 
 Sustained overload produces something different from acute item loss: a *fog* — a general degradation of mental clarity affecting the entire quality of consciousness. Even simple tasks feel laborious. Reading becomes something you push through. The fog suggests that working memory and consciousness share resources at a fundamental level, or that consciousness *is* the resource working memory draws upon.
 
@@ -73,13 +73,13 @@ Automatisation — the process by which conscious, effortful cognition becomes u
 
 The transition is not a clean switch. A new driver consciously monitors mirror checks, gear changes, and following distances. Over months, these become automatic. But in the middle phase, consciousness *hovers* — the driver no longer actively thinks about checking mirrors but remains dimly aware of doing so. This hovering awareness could sharpen into full attention if something unexpected appeared.
 
-The gradient has directional momentum. Once a skill begins to automate, the default trajectory is toward less conscious involvement. Maintaining access to an automating process requires [[mental-effort]] — the same effort required to sustain attention on a boring stimulus. Consciousness must actively resist its own withdrawal.
+The gradient has directional momentum — what Fitts and Posner (1967) codified as the progression from cognitive to associative to autonomous stages, though the phenomenological perspective reveals something their stage model does not capture: the felt momentum of withdrawal. Once a skill begins to automate, the default trajectory is toward less conscious involvement. Maintaining access to an automating process requires [[mental-effort]] — the same effort required to sustain attention on a boring stimulus. Consciousness must actively resist its own withdrawal.
 
 ### What Remains After Withdrawal
 
 When consciousness withdraws from an automatised process, something remains. A fluent reader no longer consciously decodes letter shapes, yet reading is not phenomenologically blank. There is still *something it is like* to read — a felt sense of meaning arriving. Tulving (1985) called this *anoetic consciousness*: a form of awareness that registers environmental contingencies without explicit self-awareness. The Map treats anoetic consciousness as a genuine, if minimal, mode of phenomenal experience.
 
-This residual phenomenology matters. If automatised processes were genuinely unconscious — if there were nothing it is like to perform them — then automatisation would be the literal disappearance of experience from a domain. Instead, it is a *transformation*: from focal, deliberate, and articulable to peripheral, effortless, and resistant to verbal report. Automatised skills retain [[phenomenal-consciousness|phenomenal character]] while losing reflective access.
+This residual phenomenology matters. If automatised processes were genuinely unconscious — if there were nothing it is like to perform them — then automatisation would be the literal disappearance of experience from a domain. Instead, it is a *transformation*: from focal, deliberate, and articulable to peripheral, effortless, and resistant to verbal report. Dreyfus (2002) argued that expert performance proceeds without mental representations — skilled coping that bypasses deliberation entirely. The residual phenomenology the Map identifies suggests something more nuanced: not the absence of experience but its transformation into a mode that resists articulacy. Automatised skills retain [[phenomenal-consciousness|phenomenal character]] while losing reflective access.
 
 ### The Transition as Liberation
 
@@ -89,15 +89,15 @@ Retrospective reports suggest that automatisation is not experienced as loss. Dr
 
 ### The Felt Size of Consciousness
 
-The most striking feature of this phenomenology is that consciousness has a determinate (if fuzzy) boundary to how much it can hold at once, and you experience this boundary from inside. Miller's "seven plus or minus two" — revised downward by Cowan (2001) to roughly four items without rehearsal — describes an information-processing limit. But the phenomenology adds something the information-processing account misses: the *experience* of limitation. You don't infer overload from noticing errors; you experience the strain before errors occur.
+The most striking feature of this phenomenology is that consciousness has a determinate (if fuzzy) boundary to how much it can hold at once, and you experience this boundary from inside. Miller's "seven plus or minus two" — revised downward by Cowan (2001) to roughly four items without rehearsal — describes an information-processing limit. Sweller's (1988) cognitive load theory systematises the performance consequences of exceeding these limits. But phenomenology adds something neither account captures: the *experience* of limitation. You don't infer overload from noticing errors; you experience the strain before errors occur.
 
 If this phenomenology is accurate, consciousness has privileged access to its own operational limits — a form of self-knowledge that functional description alone cannot capture.
 
 ### The Maintenance Problem
 
-Cognitive load reveals that maintaining representations in working memory is *active*. Items don't persist on their own; they must be held there. This holding is effortful, with qualitative character distinct from the effort of reasoning. Before you can reason about premises, you must keep them present in consciousness. The [[phenomenology-of-intellectual-effort]] explores the strain of reasoning itself; capacity phenomenology reveals the more basic work of simply keeping materials available.
+Cognitive load reveals that maintaining representations in working memory is *active*. Items don't persist on their own; they must be held there. Kahneman (1973) influentially characterised attention as a limited resource whose deployment produces a distinctive sense of effort. The phenomenology of maintenance reveals this effort in its most basic form, with qualitative character distinct from the effort of reasoning. Before you can reason about premises, you must keep them present in consciousness. The [[phenomenology-of-intellectual-effort]] explores the strain of reasoning itself; capacity phenomenology reveals the more basic work of simply keeping materials available.
 
-If consciousness were epiphenomenal, there would be no phenomenology of effort in maintenance. Items would simply be stored or not, and consciousness would observe the results. Instead, the experience is of *doing* — actively holding, refreshing, sustaining. Behavioural evidence supports this: participants reliably predict when they are approaching capacity before performance degrades (Rouder et al., 2008).
+If consciousness were epiphenomenal, there would be no phenomenology of effort in maintenance. Items would simply be stored or not, and consciousness would observe the results. Instead, the experience is of *doing* — actively holding, refreshing, sustaining. Behavioural evidence supports this: working memory shows a discrete capacity limit of roughly four items (Rouder et al., 2008), and the felt sense of approaching that threshold precedes measurable performance decline.
 
 ### Evidence for the Interface Model
 
@@ -121,7 +121,7 @@ The Map interprets this as evidence for bidirectional interaction. Consciousness
 
 ## Embodiment
 
-The phenomenology of cognitive capacity is not purely mental. Heavy cognitive load produces bodily sensations: tension in the forehead, tightening around the eyes, a felt pressure with spatial quality. These are not mere accompaniments — they are part of how capacity limits are experienced. This [[embodied-cognition|embodied]] dimension suggests that consciousness draws on resources with both mental and physical expression, experienced as a unified phenomenon rather than separate channels.
+The phenomenology of cognitive capacity is not purely mental. Heavy cognitive load produces bodily sensations: tension in the forehead, tightening around the eyes, a felt pressure with spatial quality. Conversely, automatisation brings bodily relief — the relaxation of a new driver's death-grip on the steering wheel, the loosening of a student's jaw when a mathematical procedure becomes routine. These sensations are not mere accompaniments — they are part of how capacity limits are experienced. The [[embodied-cognition|embodied]] dimension suggests that consciousness draws on resources with both mental and physical expression, experienced as a unified phenomenon rather than separate channels.
 
 ## What Would Challenge This View
 
@@ -137,11 +137,11 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 
 **[[tenets#^dualism|Dualism]]**: The felt quality of approaching capacity — the thickening, the precariousness, the shaped absence when items drop — is not captured by any functional description of working memory limits. A computational system that exceeds buffer capacity simply fails. A conscious subject *experiences* the approaching limit. Similarly, automatisation is not merely "fading" as a neural process winds down — consciousness *withdraws* from a domain of interaction, leaving behind physical systems it helped structure. The gradient of withdrawal and the architectural mismatch of de-automatisation point to consciousness as something that engages with and disengages from physical systems, rather than being identical to them.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The maintenance work revealed by cognitive load supports mental causation. Holding items in working memory feels effortful because consciousness is doing real work — sustaining representations against decay. The correlation between felt effort and maintenance success suggests the effort is causally efficacious. And automatisation provides further evidence: consciously directed practice produces different neural outcomes than passive repetition (Ericsson et al., 1993). The systems consciousness builds are qualitatively distinct from those built without it.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The maintenance work revealed by cognitive load supports mental causation. Holding items in working memory feels effortful because consciousness is doing real work — sustaining representations against decay. The correlation between felt effort and maintenance success suggests the effort is causally efficacious. And automatisation provides further evidence: deliberate practice — effortful, conscious, feedback-driven — produces qualitatively different skill development than mere repetition (Ericsson et al., 1993). The systems consciousness builds are qualitatively distinct from those built without it.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness biases quantum indeterminacy through a mechanism requiring sustained attentional focus, the pressure toward automatisation makes functional sense: any competence that can be delegated to deterministic procedural systems *should* be, freeing the scarce quantum-selection capacity for domains where genuine indeterminacy remains — novel situations, creative decisions, moments requiring genuine choice.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The phenomenology of cognitive overflow presupposes genuine loss. When an item drops from working memory, you experience it as *gone*. The felt involuntariness of overflow, the shaped absence, the cascading disruption — all presuppose a single stream of consciousness in which maintenance either succeeds or fails.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The phenomenology of cognitive maintenance presupposes that effort genuinely determines outcomes. You experience the strain of holding items because your conscious attention makes a causal difference to which items survive. Under many-worlds, every combination of held and dropped items is realised across branches regardless of effort, making the felt pressure of maintenance an illusion of efficacy. The Map holds that this effort is real: which items survive is genuinely determined, not merely branched.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Reducing cognitive load to buffer overflow and automatisation to skill consolidation misses the phenomenology. The experience of approaching cognitive limits is rich, graded, embodied, and informative. The experience of automatisation records the dynamics of a causal agent interacting with the matter it shapes. These reductions discard what is most distinctive about the phenomena.
 
@@ -171,6 +171,5 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 - Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
 - Rouder, J. N., Morey, R. D., Cowan, N., Zwilling, C. E., Morey, C. C., & Pratte, M. S. (2008). An assessment of fixed-capacity models of visual working memory. *Proceedings of the National Academy of Sciences*, 105(16), 5975-5979.
-- Shklovsky, V. (1917). "Art as Device." Translated in *Theory of Prose* (1990). Dalkey Archive Press.
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
 - Tulving, E. (1985). "Memory and consciousness." *Canadian Psychology*, 26(1), 1-12.
