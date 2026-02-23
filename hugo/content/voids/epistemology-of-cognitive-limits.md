@@ -91,7 +91,7 @@ The approach: since positive description of what lies beyond our grasp will alwa
 
 Nicholas of Cusa's *docta ignorantia*—learned ignorance—refines this insight. The goal is not to fill gaps with speculation but to know more precisely *that* we do not know and *why*. Cusanus distinguished simple ignorance (not knowing and not knowing it) from learned ignorance (knowing the limits of your knowledge). The latter is achievement, not merely absence.
 
-The [topology of cognitive failure](/voids/topology-of-cognitive-failure/) extends this methodology. Different types of limits produce different breakdown signatures—self-refutation, aporia, systematic illusion, introspective construction. By attending to *how* thought fails rather than merely *that* it fails, we can triangulate on the nature of limits even if we cannot directly verify them.
+The [topology of cognitive failure](/voids/topology-of-cognitive-failure/) extends this methodology. Different types of limits produce different breakdown signatures—self-refutation, aporia, systematic illusion, introspective construction. By attending to *how* thought fails rather than merely *that* it fails, we can triangulate on the nature of limits even if we cannot directly verify them. [Apophatic cartography as epistemic method](/voids/apophatic-cartography/) formalises these indirect approaches with explicit evidential standards — criteria for structured persistence, cross-observer convergence, signature specificity, and framework independence.
 
 ## Convergence as Weak Evidence
 
@@ -139,6 +139,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
 - [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Using failure patterns as data
+- [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits

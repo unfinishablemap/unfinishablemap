@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-22 12:15:00+00:00
+ai_modified: 2026-02-23 03:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[agent-causation]]'
 - '[[causal-closure]]'
-- '[[psychophysical-coupling]]'
+- '[[the-psychophysical-control-law]]'
 created: 2026-02-19
 date: &id001 2026-02-19
 description: Will as a low-bandwidth control signal—gating, stabilizing, and steering
@@ -21,7 +21,7 @@ description: Will as a low-bandwidth control signal—gating, stabilizing, and s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 12:15:00+00:00
+last_deep_review: 2026-02-23 03:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans; consciousness selects among them through a ~10 bits/second channel. This architecture finds a natural analogue in control theory—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
+The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans (Cisek, 2007); consciousness selects among them through a channel limited to roughly 10 bits per second (Meister, 2024). This architecture finds a natural analogue in control theory (Wiener, 1948)—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
 
 This reframing matters because it specifies what consciousness *can* and *cannot* do within the Map's commitments, distinguishes the Map's position from computational models of mind, and connects to formal tools (stability analysis, feedback loops, gain parameters) that could make the Map's claims more precise.
 
@@ -72,9 +72,9 @@ Gating explains why dopamine-deficient systems retain motor capacity but lose in
 
 ### Stabilisation
 
-Through the proposed quantum Zeno mechanism, consciousness holds selected neural patterns stable against competing alternatives. In control terms, this is **regulation**—maintaining a desired state against disturbances. [Mental effort](/concepts/mental-effort/) phenomenology tracks this operation: sustaining attention on a difficult task *feels* like holding something in place against forces pulling it away.
+Consciousness holds selected neural patterns stable against competing alternatives. In control terms, this is **regulation**—maintaining a desired state against disturbances. [Mental effort](/concepts/mental-effort/) phenomenology tracks this operation: sustaining attention on a difficult task *feels* like holding something in place against forces pulling it away.
 
-The Zeno mechanism (however it physically operates) functions as a stabilising feedback loop: observe the desired pattern, detect drift, reapply the observation. The effort required scales with the disturbance magnitude—more distracting environments require more stabilisation effort.
+The specific physical mechanism remains open—the quantum Zeno effect is one candidate (Stapp, 2007)—but whatever the mechanism, it functions as a stabilising feedback loop: observe the desired pattern, detect drift, reapply the selection. The effort required scales with the disturbance magnitude—more distracting environments require more stabilisation effort.
 
 ### Veto
 
@@ -142,7 +142,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## Open Questions
 
-**Formal specification.** What exactly is the control law? The Map identifies the controller's existence and its bandwidth, but the mapping from phenomenal states to control outputs—the psychophysical control law—remains unspecified. [Psychophysical coupling](/concepts/psychophysical-laws/) explores candidates, but none has been formalised in control-theoretic terms.
+**Formal specification.** What exactly is the control law? The Map identifies the controller's existence and its bandwidth, but the mapping from phenomenal states to control outputs—the psychophysical control law—remains unspecified. [The psychophysical control law](/topics/the-psychophysical-control-law/) explores candidates, but none has been formalised in control-theoretic terms.
 
 **Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? This connects to [moral responsibility](/concepts/attentional-economics/#implications-for-moral-responsibility)—control failures may carry different moral weight than control refusals.
 
@@ -158,7 +158,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [attentional-economics](/concepts/attentional-economics/) — The economics of the controller's scarce bandwidth
 - [motor-selection](/concepts/motor-selection/) — How the unified attention-motor system implements control
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of control effort
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — Candidate coupling laws (control laws in this framing)
+- [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate coupling laws (control laws in this framing)
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of the controller as genuine cause
 - [causal-closure](/concepts/causal-closure/) — Why control requires gaps in physical determinism
 

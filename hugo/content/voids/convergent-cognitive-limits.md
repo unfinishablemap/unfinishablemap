@@ -120,6 +120,7 @@ The convergent limits framework would be weakened if:
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — How groups have limits beyond individuals
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How limitation illuminates architecture
+- [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion for void-mapping
 - [Whether the Voids Are Real](/voids/whether-real/) — Questioning the reality of cognitive limits
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis

@@ -122,6 +122,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 ### Methods and Probes
 
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Knowing through negation
+- [Apophatic Cartography](/voids/apophatic-cartography/) — Formalising the method with evidential standards
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [The Question as Evidence](/voids/questioning-as-evidence/) — What our questions reveal
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
@@ -142,4 +143,4 @@ The voids framework flows directly from the Map's [tenets](/tenets/):
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** validates investigating voids. Our preference for simple, tractable theories may systematically avoid the structured failures that mark void boundaries. Some truths may be irreducibly complex or cognitively inaccessible.
 
-The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [apophatic cartography](/voids/topology-of-cognitive-failure/)—using the structure of failure as data about what lies beyond.
+The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [apophatic cartography](/voids/apophatic-cartography/)—using the structure of failure as data about what lies beyond.

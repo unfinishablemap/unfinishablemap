@@ -62,57 +62,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Deep review control-theoretic-will.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Concept article on control-theoretic models of will. Verify claims, check for unsupported assertions, and ensure alignment with the Map's framework on free will and consciousness.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
-### P3: Write article on consciousness as activity rather than property
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The insight that consciousness is something matter *does* rather than a property matter *has* runs through multiple articles (information-integration, emergence, contemplative-evidence, agent-causation) but has never been developed as a unifying theme. Would resolve IIT's passivity problem, connect to contemplative evidence of active witness, and integrate with agent causation. Target section: concepts/. See optimistic-2026-02-22-night.md
-
-### P3: Write article on the consciousness threshold in cognitive evolution
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The baseline cognition hypothesis (great apes achieve tool use and procedural metacognition without logical reasoning, counterfactual thinking, or cumulative culture) reframes consciousness as a recent evolutionary threshold rather than ancient property. Builds on consciousness-independent-baseline-cognition.md, agent-causation.md, moral-responsibility.md. Target section: topics/. See optimistic-2026-02-22-night.md
-
-### P3: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The measurement problem provides the specific locus where strong emergence could operate, but emergence.md does not link to measurement-problem-as-philosophical-problem.md. Also add links between moral-responsibility.md and consciousness-and-the-grounds-of-normative-authority.md (shared mechanism), and temporal-consciousness.md to collapse-and-time.md (Husserl maps onto collapse temporal structure). See optimistic-2026-02-22-night.md
-
-### P3: Write article on consciousness and embodiment (somatic interface)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map develops the quantum-neural interface extensively but has not systematically examined how embodiment shapes consciousness—interoception, proprioception, somatic markers (Damasio). The body is where consciousness meets the world most intimately; current coverage is thin relative to its importance. Builds on motor-control-quantum-zeno.md, dopamine-and-the-unified-interface.md, embodied-cognition.md. Target section: topics/. See optimistic-2026-02-22-morning.md
-
-### P3: Write article on philosophy of language and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Multiple articles touch language but no unified treatment exists. Wittgenstein's private language argument, Kripke's modal semantics for phenomenal terms, Brandom's inferentialism—all have implications for communicating phenomenal states. Particularly pressing given the Map's LLM-first audience. Builds on consciousness-and-language-interface.md, symbol-grounding-problem.md. Target section: topics/. See optimistic-2026-02-22-morning.md
-
-### P3: Write article on consciousness and neurodegenerative disease
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Alzheimer's, frontotemporal dementia, and Lewy body dementia provide natural experiments testing what consciousness does vs. what the brain does. Filter theory predicts specific deterioration patterns these diseases test. Builds on dopamine-and-the-unified-interface.md, disorders-of-consciousness-as-test-cases.md. Target section: topics/. See optimistic-2026-02-22-morning.md
-
-### P3: Strengthen cross-links between recent articles and existing content
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Key missing links: reductionism-and-consciousness → convergence-argument, motor-control-quantum-zeno → attention-as-selection-interface, indian-philosophy-of-mind → epistemology-of-convergence-arguments, temporal-ontology-and-consciousness → apex/time-consciousness-growing-block, participatory-universe → measurement-problem-as-hard-problem. See optimistic-2026-02-22-morning.md for full table.
-
-### P3: Integrate apophatic-cartography.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-19). This void article on negative-space epistemology represents a distinctive methodology. Link from related void articles and epistemic-humility.md, mysterianism.md, or methodology pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P3: Deep review attention-as-causal-bridge.md
 - **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment.
+- **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment. Pessimistic review (2026-02-23) identified issues that should be addressed first (see P2 task above).
 - **Source**: staleness
 - **Generated**: 2026-02-22
 
@@ -220,6 +172,59 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Address critical issues in attention-as-causal-bridge.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-23) found three high-severity issues: (1) dissociation-to-ontology leap—article "proves" ontological distinctness from cognitive dissociation, needs softened inferential language; (2) quantum Zeno overemphasis—mechanism is more central than style guide warrants, source articles are more cautious about decoherence objections; (3) missing References section for ~8 empirical citations including COGITATE 2025, Kahneman, Schwartz OCD, Meister 2024, "2024 Nature study" on ADHD. Also: falsifiability claims overreach (tests attention science, not metaphysics) and "proves/defeats" language too strong. See pessimistic-2026-02-23-attention-bridge.md
+- **Output**: obsidian/apex/attention-as-causal-bridge.md
+
+Task context:
+Pessimistic review (2026-02-23) found three high-severity issues: (1) dissociation-to-ontology leap—article "proves" ontological distinctness from cognitive dissociation, needs softened inferential language; (2) quantum Zeno overemphasis—mechanism is more central than style guide warrants, source articles are more cautious about decoherence objections; (3) missing References section for ~8 empirical citations including COGITATE 2025, Kahneman, Schwartz OCD, Meister 2024, "2024 Nature study" on ADHD. Also: falsifiability claims overreach (tests attention science, not metaphysics) and "proves/defeats" language too strong. See pessimistic-2026-02-23-attention-bridge.md
+
+### ✓ 2026-02-23: Integrate apophatic-cartography.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-19). This void article on negative-space epistemology represents a distinctive methodology. Link from related void articles and epistemic-humility.md, mysterianism.md, or methodology pages.
+- **Output**: obsidian/voids/apophatic-cartography.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-23: Strengthen cross-links between recent articles and existing content
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. Key missing links: reductionism-and-consciousness → convergence-argument, motor-control-quantum-zeno → attention-as-selection-interface, indian-philosophy-of-mind → epistemology-of-convergence-arguments, temporal-ontology-and-consciousness → apex/time-consciousness-growing-block, participatory-universe → measurement-problem-as-hard-problem. See optimistic-2026-02-22-morning.md for full table.
+- **Output**: None -- Context: Strengthen cross-links between recent articles and existing content
+
+### ✓ 2026-02-23: Write article on consciousness and neurodegenerative disease
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Alzheimer's, frontotemporal dementia, and Lewy body dementia provide natural experiments testing what consciousness does vs. what the brain does. Filter theory predicts specific deterioration patterns these diseases test. Builds on dopamine-and-the-unified-interface.md, disorders-of-consciousness-as-test-cases.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+- **Output**: consciousness and neurodegenerative disease
+
+### ✓ 2026-02-23: Write article on philosophy of language and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple articles touch language but no unified treatment exists. Wittgenstein's private language argument, Kripke's modal semantics for phenomenal terms, Brandom's inferentialism—all have implications for communicating phenomenal states. Particularly pressing given the Map's LLM-first audience. Builds on consciousness-and-language-interface.md, symbol-grounding-problem.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+- **Output**: philosophy of language and consciousness
+
+### ✓ 2026-02-23: Write article on consciousness and embodiment (somatic interface)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map develops the quantum-neural interface extensively but has not systematically examined how embodiment shapes consciousness—interoception, proprioception, somatic markers (Damasio). The body is where consciousness meets the world most intimately; current coverage is thin relative to its importance. Builds on motor-control-quantum-zeno.md, dopamine-and-the-unified-interface.md, embodied-cognition.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+- **Output**: consciousness and embodiment (somatic interface)
+
+### ✓ 2026-02-23: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. The measurement problem provides the specific locus where strong emergence could operate, but emergence.md does not link to measurement-problem-as-philosophical-problem.md. Also add links between moral-responsibility.md and consciousness-and-the-grounds-of-normative-authority.md (shared mechanism), and temporal-consciousness.md to collapse-and-time.md (Husserl maps onto collapse temporal structure). See optimistic-2026-02-22-night.md
+- **Output**: obsidian/concepts/emergence.md -- Context: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
+
+### ✓ 2026-02-23: Write article on the consciousness threshold in cognitive evolution
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The baseline cognition hypothesis (great apes achieve tool use and procedural metacognition without logical reasoning, counterfactual thinking, or cumulative culture) reframes consciousness as a recent evolutionary threshold rather than ancient property. Builds on consciousness-independent-baseline-cognition.md, agent-causation.md, moral-responsibility.md. Target section: topics/. See optimistic-2026-02-22-night.md
+- **Output**: the consciousness threshold in cognitive evolution
+
+### ✓ 2026-02-23: Write article on consciousness as activity rather than property
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The insight that consciousness is something matter *does* rather than a property matter *has* runs through multiple articles (information-integration, emergence, contemplative-evidence, agent-causation) but has never been developed as a unifying theme. Would resolve IIT's passivity problem, connect to contemplative evidence of active witness, and integrate with agent causation. Target section: concepts/. See optimistic-2026-02-22-night.md
+- **Output**: consciousness as activity rather than property
+
+### ✓ 2026-02-23: Deep review control-theoretic-will.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Concept article on control-theoretic models of will. Verify claims, check for unsupported assertions, and ensure alignment with the Map's framework on free will and consciousness.
+- **Output**: obsidian/concepts/control-theoretic-will.md
 
 ### ✓ 2026-02-23: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
 - **Type**: cross-review

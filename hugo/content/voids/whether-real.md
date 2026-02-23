@@ -186,6 +186,7 @@ The voids framework does not require that the voids be real. It requires only th
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Evidential standards for void claims, including falsifiability safeguards
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
 - [Illusionism](/concepts/illusionism/) — The radical challenge to phenomenal consciousness (see Illusionist Challenge section)
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability of phenomenal access

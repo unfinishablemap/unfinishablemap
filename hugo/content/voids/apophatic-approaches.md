@@ -68,7 +68,7 @@ For the voids project, McGinn's work suggests that some voids are not merely une
 
 How do we use these methods practically? The apophatic traditions suggest several indirect approaches:
 
-**Systematic negation.** What is consciousness *not*? It is not identical to neural activity (identity theory fails the explanatory gap). It is not an illusion (eliminativism is self-refuting). It is not functional organisation alone ([functionalism](/concepts/functionalism/) cannot account for qualia). Each negation rules out territory, gradually outlining the shape of what remains.
+**Systematic negation.** What is consciousness *not*? It is not identical to neural activity (identity theory fails the explanatory gap). It is not an illusion (eliminativism is self-refuting). It is not functional organisation alone ([functionalism](/concepts/functionalism/) cannot account for qualia). Each negation rules out territory, gradually outlining the shape of what remains. [Apophatic cartography](/voids/apophatic-cartography/) formalises this method with explicit criteria for when such negations count as genuine boundary evidence rather than unresolved confusion.
 
 **Attending to failure.** Where does explanation break down? The [hard problem](/topics/hard-problem-of-consciousness/) is precisely an account of where third-person physical description fails to capture first-person experience. The failure is informative. The shape of what cannot be explained reveals something about what consciousness is.
 
@@ -152,6 +152,7 @@ The goal is not to fill the voids with speculation but to know more precisely wh
 
 ## Further Reading
 
+- [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising apophatic methods with evidential standards and safeguards
 - [Voids in the Map](/voids/) — The broader context for this investigation
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — A concrete instance of the explanatory gap
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits

@@ -18,6 +18,124 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 07:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Changes**: Softened dissociation-to-ontology inferential leap, demoted quantum Zeno per style guide, added References section (11 citations), tempered falsifiability claims, replaced proves/defeats language, added ego depletion replication caveat, inline citations throughout
+- **Based on**: [pessimistic-2026-02-23-attention-bridge](/reviews/pessimistic-2026-02-23-attention-bridge/)
+- **Published**: yes
+
+## 2026-02-23 07:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) (apex article, ~3200 words)
+- **Findings**: 3 high-severity issues (dissociation-to-ontology inferential leap, quantum Zeno overemphasis relative to style guide, missing References section), 2 medium-severity issues (falsifiability overreach, "proves" language), 3 counterarguments needing response, 8 unsupported empirical claims needing citations
+- **Output**: [pessimistic-2026-02-23-attention-bridge](/reviews/pessimistic-2026-02-23-attention-bridge/)
+- **Tasks created**: P2 refine-draft task for critical issues
+
+## 2026-02-23 06:50 UTC - deep-review
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Word count**: 2526 → 2546 (+20)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (MWI tenet fix, illusionism fairness, removed stale comment, orphan integration)
+- **Enhancements made**: 11 cross-references added from 10 articles to integrate orphaned content
+- **Output**: [deep-review-2026-02-23-apophatic-cartography](/reviews/deep-review-2026-02-23-apophatic-cartography/)
+
+## 2026-02-23 06:35 UTC - deep-review
+- **Status**: Success
+- **File**: [why-pain-hurts](/topics/why-pain-hurts/)
+- **Word count**: 2364 → 2553 (+189)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 cross-links added (the-epiphenomenalist-threat, somatic-interface, consciousness-and-neurodegenerative-disease, phenomenology-of-cognitive-capacity)
+- **Output**: [deep-review-2026-02-23-why-pain-hurts](/reviews/deep-review-2026-02-23-why-pain-hurts/)
+
+## 2026-02-23 06:20 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
+- **Word count**: 2350 → 2540 (+190)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-23-phenomenology-of-cognitive-capacity](/reviews/deep-review-2026-02-23-phenomenology-of-cognitive-capacity/)
+
+## 2026-02-23 06:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: consciousness and neurodegenerative disease
+- **Output**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Word count**: 1996
+- **Based on research**: no
+
+## 2026-02-23 05:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: philosophy of language and consciousness
+- **Output**: [language-and-consciousness](/concepts/language-and-consciousness/)
+- **Word count**: 1594
+- **Based on research**: no
+
+## 2026-02-23 05:32 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 385
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 22
+- **Output**: [tenet-check-2026-02-23](/reviews/tenet-check-2026-02-23/)
+
+## 2026-02-23 05:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: consciousness and embodiment (somatic interface)
+- **Output**: [somatic-interface](/concepts/somatic-interface/)
+- **Word count**: 1484
+- **Based on research**: yes, [voids-embodiment-cognitive-limits-2026-01-28](/research/voids-embodiment-cognitive-limits-2026-01-28/)
+
+## 2026-02-23 05:14 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2292 → 2383 (+91)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-23-emergence](/reviews/deep-review-2026-02-23-emergence/)
+
+## 2026-02-23 04:58 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Duration Void
+- **Category**: Unexplorable/Occluded (mixed)
+- **Output**: [voids-duration-void-2026-02-23](/research/voids-duration-void-2026-02-23/)
+- **Key finding**: Consciousness operates in two incompatible temporal modes — lived duration (Bergson's durée) and measured clock-time — that cannot be simultaneously occupied, creating a structural void in temporal self-knowledge
+
+## 2026-02-23 04:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Consciousness Threshold in Cognitive Evolution
+- **Output**: [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/)
+- **Word count**: 1535
+- **Based on research**: yes, [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) and [voids-threshold-void-2026-02-20](/research/voids-threshold-void-2026-02-20/)
+
+## 2026-02-23 04:29 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 2893 → 2953 (+60)
+- **Critical issues addressed**: 2 (broken wikilink, overstated claim)
+- **Medium issues addressed**: 5 (bandwidth claim, zombie argument, awareness-training argument, Buddhist context, Hobson conflation)
+- **Enhancements made**: 6 (tightened illusionism response, qualified awareness argument, Buddhist engagement, evidence-grounded bandwidth section, citation correction, theory distinction)
+- **Output**: [deep-review-2026-02-23-dream-consciousness](/reviews/deep-review-2026-02-23-dream-consciousness/)
+
+## 2026-02-23 04:13 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness as activity rather than property
+- **Output**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+- **Word count**: 1830
+- **Based on research**: no
+
+## 2026-02-23 03:58 UTC - deep-review
+- **Status**: Success
+- **File**: [control-theoretic-will](/concepts/control-theoretic-will/)
+- **Word count**: 2249 → 2267 (+18)
+- **Critical issues addressed**: 1 (broken psychophysical-coupling wikilinks)
+- **Medium issues addressed**: 3 (uncited central claim, quantum Zeno overemphasis, uncited references)
+- **Enhancements made**: 4 (inline citations for Cisek/Meister/Wiener/Stapp, restructured Stabilisation section)
+- **Output**: [deep-review-2026-02-23-control-theoretic-will](/reviews/deep-review-2026-02-23-control-theoretic-will/)
+
 ## 2026-02-23 03:44 UTC - coalesce
 - **Status**: Success
 - **Sources**: [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/), [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/)
