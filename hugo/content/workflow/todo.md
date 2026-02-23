@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced measurement problem articles
-- **Type**: other
-- **Notes**: Coalesce merged [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) and [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) into a unified [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/). The following 7 active content files reference the archived measurement-problem-as-hard-problem and may need wikilinks updated: quantum-decoherence-objection-responses, explanatory-gap, measurement-problem, consciousness-and-the-problem-of-measurement-standards, quantum-measurement-consciousness-interface, the-subject-object-distinction-as-philosophical-discovery, hard-problem-of-consciousness.
-- **Source**: coalesce
-- **Generated**: 2026-02-23
-
 ### P2: Update references to coalesced dream consciousness articles
 - **Type**: other
 - **Notes**: Coalesce merged [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/), and [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/) into [dream-consciousness](/topics/dream-consciousness/). The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
@@ -86,26 +80,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article synthesising self-stultification as master argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Self-stultification appears across multiple articles (epiphenomenalism, eliminativism, illusionism, argument-from-reason) but has not been developed as a unified "master argument" showing every denial of consciousness's causal efficacy is epistemically self-defeating. A synthesis demonstrating the pattern across positions would be the Map's strongest single argument for Tenet 3. Builds on self-stultification.md, argument-from-reason.md, epiphenomenalism.md, consciousness-as-amplifier.md. See optimistic-2026-02-23.md
-
-### P3: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
-
-### P3: Write article on philosophy of science under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map argues consciousness is irreducible but hasn't developed what this means for scientific methodology. How should consciousness science proceed if physicalist reduction is off the table? What does a dualist research programme look like? Builds on consciousness-and-scientific-methodology.md, first-person-vs-third-person-methodology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
-
-### P3: Write article on moral implications of genuine agency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. If the Map's account of free will and mental causation is correct, what follows for moral desert, retributive justice, and praise/blame? Current coverage is scattered across multiple articles. A focused treatment would crystallise the ethical stakes of Tenet 3 (Bidirectional Interaction). Builds on consciousness-and-moral-agency-under-duress.md, the-responsibility-gradient.md, moral-phenomenology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
-
 ### P3: Write article on anaesthesia and the consciousness interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -116,8 +90,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. motor-control-quantum-zeno.md ↔ choking-phenomenon-mental-causation.md (mechanism and evidence), consciousness-as-activity.md ↔ process-haecceitism.md (activity framing and processual identity), hoel-llm-consciousness-continual-learning.md ↔ consciousness-as-activity.md (continual learning maps onto activity framing), pain-asymbolia-as-central-test-case.md ↔ placebo-effect-and-mental-causation.md (complementary empirical test cases). See optimistic-2026-02-23-afternoon.md
 
+### P3: Write article on epistemology of other minds under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If consciousness is irreducible to physical processes, how do we know other minds exist? The Map has powerful arguments for consciousness's reality but hasn't developed the epistemic challenge dualism faces regarding other minds. Bidirectional Interaction (Tenet 3) may help—if consciousness makes physical differences, we can detect its presence through effects. Builds on interactionist-dualism.md, philosophical-zombies.md, zombie-master-argument.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+
+### P3: Write article on contemplative pathology and interface malfunction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Meditation can produce dissociation, depersonalisation, and adverse effects. What happens when the consciousness-body interface malfunctions through contemplative practice? The "dark night" phenomenon, Willoughby Britton's research, and contemplative-induced depersonalisation provide evidence about the interface model from its failure modes. Builds on contemplative-evidence-for-consciousness.md, disorders-of-consciousness.md, phenomenological-psychiatry-and-altered-experience.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+
+### P3: Write article on temporal phenomenology and quantum selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. When consciousness selects quantum outcomes, what is the temporal order of selection relative to physical actualisation? Strong work exists on time-consciousness and quantum selection separately, but they haven't been integrated. Does selection happen *in* time or does consciousness partially constitute temporal ordering? Builds on time-consciousness-growing-block.md, time-symmetric-selection-mechanism.md, quantum-consciousness.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+
+### P3: Cross-link self-stultification, information, direction-of-fit, and recent articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. self-stultification-as-master-argument.md ↔ consciousness-and-scientific-explanation.md (negative case → constructive programme), metaphysics-of-information-under-dualism.md ↔ attention-as-causal-bridge.md (ontological framework → mechanism), samkhya-three-way-distinction.md ↔ consciousness-as-activity.md (sharpened irreducibility), direction-of-fit.md ↔ phenomenology-of-consciousness-doing-work.md (intentional structure → phenomenological content), cross-cultural-convergence-on-mental-causation.md ↔ self-stultification-as-master-argument.md (independent evidence ↔ explanation of convergence). See optimistic-2026-02-23-evening.md
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on moral implications of genuine agency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If the Map's account of free will and mental causation is correct, what follows for moral desert, retributive justice, and praise/blame? Current coverage is scattered across multiple articles. A focused treatment would crystallise the ethical stakes of Tenet 3 (Bidirectional Interaction). Builds on consciousness-and-moral-agency-under-duress.md, the-responsibility-gradient.md, moral-phenomenology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+- **Output**: moral implications of genuine agency
+
+### ✓ 2026-02-23: Write article on philosophy of science under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map argues consciousness is irreducible but hasn't developed what this means for scientific methodology. How should consciousness science proceed if physicalist reduction is off the table? What does a dualist research programme look like? Builds on consciousness-and-scientific-methodology.md, first-person-vs-third-person-methodology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+- **Output**: philosophy of science under dualism
+
+### ✓ 2026-02-23: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
+- **Output**: None -- Context: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
+
+### ✓ 2026-02-23: Write article synthesising self-stultification as master argument
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Self-stultification appears across multiple articles (epiphenomenalism, eliminativism, illusionism, argument-from-reason) but has not been developed as a unified "master argument" showing every denial of consciousness's causal efficacy is epistemically self-defeating. A synthesis demonstrating the pattern across positions would be the Map's strongest single argument for Tenet 3. Builds on self-stultification.md, argument-from-reason.md, epiphenomenalism.md, consciousness-as-amplifier.md. See optimistic-2026-02-23.md
+- **Output**: Write article synthesising self-stultification as master argument
+
+### ✓ 2026-02-23: Strengthen core inference in phenomenology-of-consciousness-doing-work apex article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-23) found the central claim — "if consciousness were epiphenomenal, elaborate phenomenology should not exist" — is asserted without argument for why epiphenomenalism predicts different phenomenology. The brain could generate structured effort phenomenology regardless. Also: mental rehearsal "effect sizes of 0.4-0.7" lacks citation; thermodynamics analogy in the related science article actually supports the physicalist optimistic programme. See pessimistic-2026-02-23-afternoon.md
+- **Output**: Task context:
+Pessimistic review (2026-02-23) found the central claim — "if consciousness were epiphenomenal, elaborate phenomenology should not exist" — is asserted without argument for why epiphenomenalism predicts different phenomenology. The brain could generate structured effort phenomenology regardless. Also: mental rehearsal "effect sizes of 0.4-0.7" lacks citation; thermodynamics analogy in the related science article actually supports the physicalist optimistic programme. See pessimistic-2026-02-23-afternoon.md
 
 ### ✓ 2026-02-23: Address zombie argument tension with Bidirectional Interaction tenet
 - **Type**: refine-draft
