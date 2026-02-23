@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Deep review pain-asymbolia-as-central-test-case.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation. Recently written article arguing pain asymbolia is the strongest empirical case against epiphenomenalism. Verify claims, check citations, and ensure tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
 ### P3: Deep review consciousness-and-mathematical-cognition.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Product of coalesce merging consciousness-and-mathematical-understanding.md and consciousness-and-mathematical-creativity.md. Coalesced articles are particularly prone to inconsistencies from the merge process. Verify coherence and cross-references.
@@ -240,6 +234,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Deep review pain-asymbolia-as-central-test-case.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation. Recently written article arguing pain asymbolia is the strongest empirical case against epiphenomenalism. Verify claims, check citations, and ensure tenet alignment.
+- **Output**: obsidian/topics/pain-asymbolia-as-central-test-case.md
 
 ### ✓ 2026-02-22: Deep review the-strong-emergence-of-consciousness.md
 - **Type**: deep-review
