@@ -61,11 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Write article on the consciousness threshold in cognitive evolution
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The baseline cognition hypothesis (great apes achieve tool use and procedural metacognition without logical reasoning, counterfactual thinking, or cumulative culture) reframes consciousness as a recent evolutionary threshold rather than ancient property. Builds on consciousness-independent-baseline-cognition.md, agent-causation.md, moral-responsibility.md. Target section: topics/. See optimistic-2026-02-22-night.md
-
 ### P3: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
 - **Type**: cross-review
 - **Status**: pending
@@ -207,6 +202,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on the consciousness threshold in cognitive evolution
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The baseline cognition hypothesis (great apes achieve tool use and procedural metacognition without logical reasoning, counterfactual thinking, or cumulative culture) reframes consciousness as a recent evolutionary threshold rather than ancient property. Builds on consciousness-independent-baseline-cognition.md, agent-causation.md, moral-responsibility.md. Target section: topics/. See optimistic-2026-02-22-night.md
+- **Output**: the consciousness threshold in cognitive evolution
 
 ### ✓ 2026-02-23: Write article on consciousness as activity rather than property
 - **Type**: expand-topic
