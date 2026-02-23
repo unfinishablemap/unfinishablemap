@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address zombie argument tension with Bidirectional Interaction tenet
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-23) found that the zombie master argument assumes complete physical identity between conscious and zombie beings, but the Map's Bidirectional Interaction tenet (Tenet 3) implies consciousness makes a physical difference via quantum biasing. Physically identical zombies would be impossible under the Map's own framework. The article should explicitly address this tension — e.g., the zombie argument does its work under minimal dualism (Tenet 1 alone), while the full framework makes zombies impossible as a consequence. Also: "Type-Q physicalism" may not be standard nomenclature and needs flagging. See pessimistic-2026-02-23-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-23
+- **Output**: obsidian/concepts/zombie-master-argument.md
+
+### P2: Strengthen core inference in phenomenology-of-consciousness-doing-work apex article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-23) found the central claim — "if consciousness were epiphenomenal, elaborate phenomenology should not exist" — is asserted without argument for why epiphenomenalism predicts different phenomenology. The brain could generate structured effort phenomenology regardless. Also: mental rehearsal "effect sizes of 0.4-0.7" lacks citation; thermodynamics analogy in the related science article actually supports the physicalist optimistic programme. See pessimistic-2026-02-23-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-23
+- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
+
 ### P2: Update references to coalesced measurement problem articles
 - **Type**: other
 - **Notes**: Coalesce merged [[measurement-problem-as-hard-problem]] and [[the-measurement-problem-as-philosophical-problem]] into a unified [[the-measurement-problem-as-philosophical-problem]]. The following 7 active content files reference the archived measurement-problem-as-hard-problem and may need wikilinks updated: quantum-decoherence-objection-responses, explanatory-gap, measurement-problem, consciousness-and-the-problem-of-measurement-standards, quantum-measurement-consciousness-interface, the-subject-object-distinction-as-philosophical-discovery, hard-problem-of-consciousness.
