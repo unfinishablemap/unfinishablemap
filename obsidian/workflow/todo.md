@@ -61,11 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The measurement problem provides the specific locus where strong emergence could operate, but emergence.md does not link to measurement-problem-as-philosophical-problem.md. Also add links between moral-responsibility.md and consciousness-and-the-grounds-of-normative-authority.md (shared mechanism), and temporal-consciousness.md to collapse-and-time.md (Husserl maps onto collapse temporal structure). See optimistic-2026-02-22-night.md
-
 ### P3: Write article on consciousness and embodiment (somatic interface)
 - **Type**: expand-topic
 - **Status**: pending
@@ -202,6 +197,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. The measurement problem provides the specific locus where strong emergence could operate, but emergence.md does not link to measurement-problem-as-philosophical-problem.md. Also add links between moral-responsibility.md and consciousness-and-the-grounds-of-normative-authority.md (shared mechanism), and temporal-consciousness.md to collapse-and-time.md (Husserl maps onto collapse temporal structure). See optimistic-2026-02-22-night.md
+- **Output**: obsidian/concepts/emergence.md -- Context: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
 
 ### ✓ 2026-02-23: Write article on the consciousness threshold in cognitive evolution
 - **Type**: expand-topic
