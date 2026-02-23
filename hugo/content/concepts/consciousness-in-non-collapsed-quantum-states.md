@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-22 17:46:00+00:00
+ai_modified: 2026-02-23 18:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[decoherence]]'
 - '[[interactionist-dualism]]'
+- '[[indexical-knowledge-and-identity]]'
 created: 2026-02-22
 date: &id001 2026-02-22
 description: Exploring what consciousness does during quantum superposition — whether
@@ -17,6 +18,7 @@ description: Exploring what consciousness does during quantum superposition — 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-23 18:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,7 +34,7 @@ topics:
 - '[[consciousness-in-smeared-quantum-states]]'
 ---
 
-If consciousness interacts with quantum mechanics at the point of collapse, a prior question demands attention: what is consciousness doing *before* collapse, when the relevant brain states exist in superposition? The Unfinishable Map treats consciousness as a selector among superposed neural states. But the selector must exist during the superposition phase in order to act on it — and that raises a problem with no clean answer. The non-collapsed quantum state is where the interaction must begin, yet we have almost no philosophical framework for what consciousness is or does in that interval.
+If consciousness interacts with quantum mechanics at the point of collapse, a prior question demands attention: what is consciousness doing *before* collapse, when the relevant brain states exist in superposition — simultaneously occupying multiple possible configurations? The Unfinishable Map treats consciousness as a selector among superposed neural states. But the selector must exist during the superposition phase in order to act on it — and that raises a problem with no clean answer. The non-collapsed quantum state is where the interaction must begin, yet we have almost no philosophical framework for what consciousness is or does in that interval.
 
 This concept examines the pre-collapse phase specifically — the philosophical problem of consciousness during superposition rather than at the moment of resolution. For a survey of the major frameworks addressing this question, see [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/).
 
@@ -40,7 +42,7 @@ This concept examines the pre-collapse phase specifically — the philosophical 
 
 The deepest difficulty is phenomenological. We can describe what it is like to see red, hear a note, or feel pain. We have no corresponding description of what it is like to be in an indeterminate state between seeing red and seeing blue. The very grammar of phenomenal description assumes determinacy — "what it is like" presupposes a definite experiential character.
 
-This is not merely a gap in philosophical vocabulary. It may reflect a structural feature of consciousness itself. If experience is constitutively determinate — if being indeterminate is something experience *cannot* be — then consciousness in a non-collapsed quantum state faces a logical constraint, not just an empirical one. The superposition exists; the brain participates in it; but consciousness either refuses to follow the brain into indeterminacy or was never the kind of thing that could.
+This is not merely a gap in philosophical vocabulary. It may reflect a structural feature of consciousness itself. If experience is constitutively determinate — if being indeterminate is something experience *cannot* be — then consciousness in a non-collapsed quantum state faces a logical constraint, not just an empirical one. The connection to [indexical identity](/concepts/indexical-knowledge-and-identity/) deepens the point: consciousness is always *someone's* consciousness, experienced from a particular first-person perspective. There is no "what it is like" without a determinate subject having a determinate experience. Superposition dissolves both requirements simultaneously. The superposition exists; the brain participates in it; but consciousness either refuses to follow the brain into indeterminacy or was never the kind of thing that could.
 
 Three logical possibilities emerge:
 
@@ -54,7 +56,7 @@ Three logical possibilities emerge:
 
 Albert and Loewer identified the core issue precisely: the [measurement-problem](/concepts/measurement-problem/) is really the "determinate-experience problem." Quantum mechanics predicts that measurement devices enter superposition. Brains are measurement devices. Therefore brains should enter superposition. Yet conscious experience is never superposed.
 
-Something prevents consciousness from inheriting the indeterminacy of its physical substrate. This "definiteness constraint" is not a consequence of any known physical law. Decoherence suppresses interference but does not select a single outcome. Spontaneous collapse theories (GRW, CSL) provide objective state reduction but do not explain *why* the collapse produces experiences with determinate character. The definiteness constraint appears to be a feature of consciousness itself — an irreducibly mental fact that physics must accommodate rather than explain.
+Something prevents consciousness from inheriting the indeterminacy of its physical substrate. This "definiteness constraint" is not a consequence of any known physical law. [Decoherence](/concepts/decoherence/) suppresses interference but does not select a single outcome. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL) provide objective state reduction but do not explain *why* the collapse produces experiences with determinate character. The definiteness constraint appears to be a feature of consciousness itself — an irreducibly mental fact that physics must accommodate rather than explain.
 
 Chalmers and McQueen formalised this intuition: integrated information (Φ) resists superposition. When a physical system's Φ value enters superposition across different values, collapse is triggered. The definiteness of experience is not passively maintained; it *actively* prevents consciousness from existing in superposition. "The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring," they write — a deliberately cautious framing that nonetheless establishes the viability of consciousness as a collapse trigger.
 
@@ -62,15 +64,15 @@ Chalmers and McQueen formalised this intuition: integrated information (Φ) resi
 
 The problem intensifies when observers observe observers. In the [Wigner's friend](/topics/the-measurement-problem-as-philosophical-problem/) scenario, a friend performs a measurement inside a sealed laboratory. From the friend's perspective, collapse occurs and a definite result is obtained. From Wigner's perspective outside the lab, the friend-plus-apparatus remains in superposition. Two conscious observers disagree about whether collapse has happened.
 
-The local friendliness (LF) no-go theorem — stronger than Bell's theorem — establishes that certain natural assumptions cannot all hold simultaneously: that measurement outcomes are definite for the observer, that they remain superposed for an outside observer, and that the two accounts are compatible. Something must give. If consciousness is what resolves superposition, then the friend's measurement truly collapses the state, and Wigner's description of the friend as superposed is simply wrong — a failure to account for the friend's conscious observation. The definiteness constraint, applied consistently, resolves the paradox by insisting that conscious observation is never merely apparent.
+The local friendliness (LF) no-go theorem (Bong et al. 2020) establishes that certain natural assumptions cannot all hold simultaneously: that measurement outcomes are definite for the observer, that they remain superposed for an outside observer, and that the two accounts are compatible. Something must give. If consciousness is what resolves superposition, then the friend's measurement truly collapses the state, and Wigner's description of the friend as superposed is simply wrong — a failure to account for the friend's conscious observation. The definiteness constraint, applied consistently, resolves the paradox by insisting that conscious observation is never merely apparent.
 
 This has a striking implication for the Map's framework. If consciousness-driven collapse is real and consciousness always produces definite outcomes, then any system containing a conscious observer cannot be maintained in superposition from the outside. Consciousness is not merely definite in its own experience — it imposes definiteness on physical reality wherever it is present.
 
 ## The Timing Problem
 
-How long does the pre-collapse phase last? If [decoherence](/concepts/decoherence/) timescales for neural systems are 10⁻¹³ seconds (Tegmark's estimate) or even 10⁻⁵ seconds (Hagan et al.'s corrected estimate), the "during" of superposition is unimaginably brief. Consciousness would need to operate on femtosecond-to-microsecond timescales to participate in the superposition phase at all.
+How long does the pre-collapse phase last? If [decoherence](/concepts/decoherence/) timescales for neural systems are 10⁻¹³ seconds (Tegmark's estimate) or even 10⁻⁵ seconds (Hagan et al.'s corrected estimate for microtubule systems), the "during" of superposition is unimaginably brief. Consciousness would need to operate on femtosecond-to-microsecond timescales to participate in the superposition phase at all.
 
-Stapp's quantum Zeno approach sidesteps the problem. The Zeno effect works through rapid repeated measurement — consciousness does not need to sustain coherence but merely to "observe" rapidly enough to hold desired states. The pre-collapse phase is not a duration consciousness must inhabit but a window consciousness must repeatedly act upon. Each act of mental attention constitutes a measurement, and the rapidity of measurement is what maintains the desired neural pattern.
+Stapp's quantum Zeno approach largely sidesteps this problem. The Zeno effect works through rapid repeated measurement — consciousness does not need to sustain coherence but merely to "observe" rapidly enough to hold desired states. The pre-collapse phase is not a duration consciousness must inhabit but a window consciousness must repeatedly act upon. Each act of mental attention constitutes a measurement, and the rapidity of measurement is what maintains the desired neural pattern. The Zeno mechanism still requires *some* coherence window — quantum states must persist long enough for the observation to act upon them — but the requirement shifts from sustained macroscopic coherence to brief discrete interactions, a far less demanding condition that the corrected decoherence timescales may accommodate.
 
 For the Map's framework, this reframing matters. The question is not "what does consciousness experience during 10⁻¹³ seconds of superposition?" but rather "how does consciousness interact with a physical substrate that is continuously entering and leaving superposition?" The pre-collapse phase is not a static interval but part of an ongoing dynamic in which quantum states form and resolve continuously, with consciousness participating in the resolution.
 
@@ -86,20 +88,26 @@ The Map's [tenets](/tenets/) commit to consciousness as an active selector among
 
 **No Many Worlds** is reinforced by the definiteness constraint. The [many-worlds interpretation](/concepts/many-worlds/) dissolves the problem by distributing outcomes across branches, but this trades one mystery (why experience is definite) for another (why *I* am in *this* branch). The Map treats definiteness as a genuine feature of consciousness that demands explanation, not dissolution.
 
+**Occam's Razor Has Limits** applies directly. The "simple" response to the pre-collapse phenomenology problem is to deny it exists — to say consciousness is just neurons and there is no separate phenomenological question. But this apparent simplicity reflects avoidance rather than explanation. The definiteness constraint, the phenomenological gap, and the timing problem are genuine philosophical difficulties that a parsimonious dismissal cannot dissolve.
+
 ## Further Reading
 
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- [quantum-consciousness](/concepts/quantum-consciousness/)
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
 
 ## References
 
 - Albert, D. & Loewer, B. (1988). Interpreting the many-worlds interpretation. *Synthese*, 77, 195-213.
+- Bong, K.-W. et al. (2020). A strong no-go theorem on the Wigner's friend paradox. *Nature Physics*, 16, 1199-1205.
 - Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+- Hagan, S., Hameroff, S. & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 - Koch, C. et al. (2024). Quantum approaches to consciousness—experimental program. Allen Institute for Brain Science / Google Quantum AI.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

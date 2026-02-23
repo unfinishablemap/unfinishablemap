@@ -18,6 +18,91 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 19:50 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 2152 → 2235 (+83)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited references, table clarity)
+- **Enhancements made**: 1 (historical lineage paragraph)
+- **Output**: [deep-review-2026-02-23-self-stultification-as-master-argument](/reviews/deep-review-2026-02-23-self-stultification-as-master-argument/)
+
+## 2026-02-23 19:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/)
+- **Changes**: Removed quantum Zeno as load-bearing infrastructure; downgraded tripartite mapping from identity to argued proposal with engagement of competing mappings; added honest timescale gap treatment; added speculative predictions subsection; softened various overclaimed assertions
+- **Published**: yes
+
+## 2026-02-23 19:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/)
+- **Output**: [pessimistic-2026-02-23-evening](/reviews/pessimistic-2026-02-23-evening/)
+
+## 2026-02-23 18:20 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/)
+- **Word count**: 1483 → 1685 (+202)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-23-consciousness-in-non-collapsed-quantum-states](/reviews/deep-review-2026-02-23-consciousness-in-non-collapsed-quantum-states/)
+
+## 2026-02-23 17:35 UTC - deep-review
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Word count**: 1836 → 2334 (+498)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6
+- **Enhancements made**: 8 cross-links added (self-stultification, direction-of-fit, contemplative pathology, temporal structure, epistemology of other minds, voluntary attention control, information)
+- **Output**: [deep-review-2026-02-23-anaesthesia-and-the-consciousness-interface](/reviews/deep-review-2026-02-23-anaesthesia-and-the-consciousness-interface/)
+
+## 2026-02-23 17:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Temporal Phenomenology and Quantum Selection
+- **Output**: [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/)
+- **Word count**: 1543
+- **Based on research**: yes, [temporal-structure-consciousness-2026-01-14](/research/temporal-structure-consciousness-2026-01-14/)
+
+## 2026-02-23 17:05 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Mind-Space Void
+- **Category**: Unexplorable / Mixed
+- **Output**: [voids-mind-space-void-2026-02-23](/research/voids-mind-space-void-2026-02-23/)
+- **Key finding**: We occupy a single point in the space of possible minds but have no way to survey that space from within — no coordinates, no dimensionality, and no way to determine whether human consciousness is typical or exotic
+
+## 2026-02-23 16:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Contemplative Pathology and Interface Malfunction
+- **Output**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Word count**: 1433
+- **Based on research**: no
+
+## 2026-02-23 16:35 UTC - deep-review
+- **Status**: Success
+- **File**: [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)
+- **Word count**: 1531 → 1684 (+153)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-23-voluntary-attention-control-mechanisms](/reviews/deep-review-2026-02-23-voluntary-attention-control-mechanisms/)
+
+## 2026-02-23 16:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemology of Other Minds Under Dualism
+- **Output**: [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- **Word count**: 1580
+- **Based on research**: yes, [problem-of-other-minds-2026-01-14](/research/problem-of-other-minds-2026-01-14/) and [voids-other-minds-void-2026-01-27](/research/voids-other-minds-void-2026-01-27/)
+- **Notes**: Placed in concepts/ (topics/ over cap at 203/200). Focuses on how dualism reshapes epistemic landscape — intensification via ontological gap/zombie possibility, and unique interactionist resources.
+
+## 2026-02-23 16:05 UTC - deep-review
+- **Status**: Success
+- **File**: [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/)
+- **Word count**: 1557 → 1791 (+234)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Buddhist tension restored, cross-links added, quantum claim moderated, spelling fixed)
+- **Enhancements made**: 7 (3 cross-links to consciousness-as-activity/motor-control/choking, Buddhist acknowledgment, quantum hedging, reference added, spelling)
+- **Output**: [deep-review-2026-02-23-specious-present-temporal-experience](/reviews/deep-review-2026-02-23-specious-present-temporal-experience/)
+
 ## 2026-02-23 15:50 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
