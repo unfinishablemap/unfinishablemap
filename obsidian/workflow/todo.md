@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Strengthen convergence-argument cross-links to galilean-exclusion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. the-convergence-argument-for-dualism.md would benefit from linking to galilean-exclusion.md as an independent structural argument. Also link pain-asymbolia-as-central-test-case.md to binding-problem.md (affective binding dissociation), and the-epiphenomenalist-threat.md to galilean-exclusion.md (the gravity well partly explained by science's founding exclusion). See optimistic-2026-02-22-evening.md
-
 ### P3: Deep review contemplative-evidence-for-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-01-27). At 26 days old, this is the oldest unreviewed published content on the site. Product of coalesce merging contemplative evidence articles. Verify coherence, argument quality, and tenet alignment.
@@ -154,6 +149,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Strengthen convergence-argument cross-links to galilean-exclusion
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. the-convergence-argument-for-dualism.md would benefit from linking to galilean-exclusion.md as an independent structural argument. Also link pain-asymbolia-as-central-test-case.md to binding-problem.md (affective binding dissociation), and the-epiphenomenalist-threat.md to galilean-exclusion.md (the gravity well partly explained by science's founding exclusion). See optimistic-2026-02-22-evening.md
+- **Output**: None -- Context: Strengthen convergence-argument cross-links to galilean-exclusion
 
 ### ✓ 2026-02-23: Write article on cross-cultural convergence on mental causation
 - **Type**: expand-topic
