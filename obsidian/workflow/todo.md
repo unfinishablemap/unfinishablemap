@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address quantum Zeno overemphasis and analogical gaps in temporal-phenomenology-quantum-selection.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-23 evening) found two high-severity issues: (1) Article structures core arguments around the quantum Zeno effect despite writing style guide explicitly warning against this—two of four main sections depend on Stapp's framework as load-bearing infrastructure. (2) The mapping from Husserlian phenomenological categories to quantum selection is presented as structural identity ("is the phenomenological manifestation") when the reasoning only supports analogy—no argument is given for why this mapping is preferred over competing tripartite mappings (neural, computational). Additionally: no testable predictions offered, timescale gap (100-750ms vs femtoseconds) hand-waved rather than addressed. See pessimistic-2026-02-23-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-23
+
 ### P2: Update references to coalesced dream consciousness articles
 - **Type**: other
 - **Notes**: Coalesce merged [[lucid-dreaming-and-consciousness]], [[dreams-problem-solving-and-consciousness]], and [[dream-consciousness-and-the-filter-model]] into [[dream-consciousness]]. The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
