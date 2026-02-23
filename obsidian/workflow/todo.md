@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced dream consciousness articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged [[lucid-dreaming-and-consciousness]], [[dreams-problem-solving-and-consciousness]], and [[dream-consciousness-and-the-filter-model]] into [[dream-consciousness]]. The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
-- **Source**: coalesce
-- **Generated**: 2026-02-23
-
 ### P2: Update references to coalesced understanding articles
 - **Type**: cross-review
 - **Notes**: Coalesce merged [[phenomenology-of-inferential-understanding]] and [[consciousness-and-semantic-understanding]] into [[phenomenology-of-understanding]]. The following active content files reference the archived articles and may need wikilinks updated: phenomenology-of-theoretical-commitment, hoel-llm-consciousness-continual-learning, consciousness-and-the-authority-of-logic, phenomenology-of-philosophical-disagreement, phenomenology-of-conceptual-change, consciousness-and-the-problem-of-induction, consciousness-and-the-phenomenology-of-translation, consciousness-and-testimony, phenomenology-of-trust-and-testimony, consciousness-and-interpersonal-understanding, meaning-of-life, phenomenology-of-musical-understanding, semantic-memory, symbol-grounding-problem, global-workspace-theory, phenomenal-intentionality, working-memory, cognitive-phenomenology, temporal-structure-of-understanding, phenomenology-of-intellectual-effort, phenomenology-of-epistemic-achievement, consciousness-and-mathematical-cognition, consciousness-and-the-meta-problem-of-scientific-explanation, surprise-prediction-error-and-consciousness, phenomenology-of-imagination, consciousness-and-the-philosophy-of-explanation, phenomenology-of-belief-revision.
@@ -97,6 +91,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Update references to coalesced dream consciousness articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged [[lucid-dreaming-and-consciousness]], [[dreams-problem-solving-and-consciousness]], and [[dream-consciousness-and-the-filter-model]] into [[dream-consciousness]]. The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
+- **Output**: None -- Context: Update references to coalesced dream consciousness articles
 
 ### ✓ 2026-02-23: Write article on the bandwidth problem in mental causation
 - **Type**: expand-topic
