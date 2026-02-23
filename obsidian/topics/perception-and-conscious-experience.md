@@ -4,7 +4,8 @@ description: "Why perception is the paradigm case for understanding consciousnes
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T02:14:00+00:00
+ai_modified: 2026-02-23T03:13:00+00:00
+last_deep_review: 2026-02-23T03:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +58,9 @@ The most revealing evidence comes from cases where perceptual processing occurs 
 
 **Subliminal perception** extends the pattern further. Masked priming experiments show that words presented below the threshold of conscious detection can influence reaction times, semantic processing, and even emotional responses (Marcel, 1983). The brain processes the stimulus; the person has no experience of it.
 
-Each dissociation separates the same two things: the physical processing of sensory information and the conscious experience of perceiving. If consciousness were identical to the processing, these dissociations would be incoherent—you cannot separate a thing from itself. Their existence demonstrates that perceptual consciousness is something *over and above* the information processing that accompanies it.
+Each dissociation separates the same two things: the physical processing of sensory information and the conscious experience of perceiving. A physicalist might respond that consciousness is not identical to processing *in general*, but to a specific type—global broadcasting, higher-order representation, or recurrent activity. On such views, blindsight and subliminal perception involve processing *without* the particular mode that constitutes consciousness.
+
+This response correctly describes the dissociations but does not dissolve the problem. The question remains: why does *that* type of processing—and not some other—give rise to experience? What is it about global broadcasting or recurrent activity that makes it feel like something, when equally complex processing in other pathways does not? The physicalist can identify the neural correlates of [[conscious-vs-unconscious-processing|conscious versus unconscious processing]], but the explanatory gap between identifying the correlate and explaining *why* it is conscious remains open. The dissociations sharpen this gap by showing that the brain's information processing, taken on its own terms, does not require consciousness to function—making the presence of experience something that physical description must explain rather than assume.
 
 ## The Richness Problem
 
@@ -65,7 +68,7 @@ Perceptual experience appears to contain more than we can access, report, or dep
 
 Consider looking at a crowded bookshelf. You seem to see all the books at once—their colours, sizes, orientations—in a single rich visual experience. Yet if tested, you can identify or report on only a handful before the image fades. Sperling's classic 1960 experiments demonstrated this: observers could report only 3-4 items from a briefly flashed array of 12 letters, yet when cued to any particular row *after* the flash, they could accurately report those specific items. The information was in the experience—but it exceeded what [[access-consciousness]] could retrieve.
 
-Block (2007) argues this shows that phenomenal consciousness outruns access consciousness. You consciously *see* more than you can cognitively *access*. If correct, this has implications for theories that identify consciousness with access, global broadcasting, or higher-order monitoring—all of which predict that consciousness should extend no further than what the relevant access mechanism delivers.
+Block (2007) argues this shows that phenomenal consciousness outruns access consciousness. You consciously *see* more than you can cognitively *access*. This claim is contested—critics argue that "consciousness" without access is incoherent, and that the cued items are only conscious *when cued*—but Block's interpretation has significant empirical support from partial-report paradigms and change-detection studies. If correct, phenomenal overflow has implications for theories that identify consciousness with access, global broadcasting, or higher-order monitoring—all of which predict that consciousness should extend no further than what the relevant access mechanism delivers.
 
 For the dualist, phenomenal overflow is expected. If consciousness is not identical to the information-processing mechanisms that deliver content to working memory and report systems, there is no reason why it should be limited to what those mechanisms can handle. The richness of perceptual experience reflects the richness of consciousness itself, not merely the bandwidth of a cognitive bottleneck.
 
@@ -81,9 +84,11 @@ This point connects to [[indexical-identity-quantum-measurement|indexical identi
 
 Perceptual experience is characteristically *transparent*—in perceiving, we seem to look right through the experience to the objects perceived. When you see a tree, you are aware of the tree, not of a mental representation of the tree. The experience itself recedes, presenting its objects rather than itself. This is what philosophers call [[phenomenal-transparency]].
 
-Transparency complicates physicalist accounts in an unexpected way. If perceptual experience were a neural state, we might expect introspection to reveal neural properties—or at least computational properties. Instead, introspection reveals trees, colours, sounds, and textures. The experience is directed toward objects in the world, not toward the brain states that realise it. This directedness—[[intentionality]]—is a fundamental feature of perceptual consciousness that resists identification with any physical property of the brain.
+Transparency complicates physicalist accounts. A representational physicalist might argue that introspection *should* reveal worldly objects—the brain evolved to represent the external world, so its representations have worldly content. Transparency, on this view, simply shows the system working as designed.
 
-The challenge is not that neuroscience cannot find correlates. It can. Neural activity in visual cortex reliably correlates with visual experience. The challenge is that the intentional structure of experience—its *aboutness*, its directedness toward objects—is not a feature that any neural description captures. Neural descriptions characterise firing patterns, connectivity, and information flow. They do not characterise what the experience is *about*, because aboutness is not a physical relation. (A pattern of neuronal firing is not "about" a tree in any intrinsic sense; it is about a tree only in virtue of the experience it underlies.) Perception puts this problem in sharpest relief, because perceptual experience is the most transparently intentional form of consciousness we have.
+Yet this response concedes something important. If introspection reveals only worldly objects and never the neural states that supposedly constitute the experience, the identity claim becomes purely theoretical—accepted on philosophical grounds rather than confirmed by any first-person evidence. The experience itself offers no clue that it *is* a brain state. Its directedness—[[intentionality]]—points outward toward objects, not inward toward the neural machinery.
+
+The deeper challenge is that intentional structure—the *aboutness* of experience—is not a feature that neural description captures. Neural descriptions characterise firing patterns, connectivity, and information flow. They do not characterise what the experience is *about*. A pattern of neuronal firing is not "about" a tree in any intrinsic sense; it bears a causal relation to trees, but causal relations are not the same as the felt directedness of perceptual awareness. Perception puts this problem in sharpest relief, because perceptual experience is the most transparently intentional form of consciousness we have.
 
 ## The Binding Problem in Perception
 
