@@ -33,6 +33,7 @@ related_articles:
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
 - '[[consciousness-measurement-problem-2026-01-16]]'
 - '[[measurement-problem-quantum-mechanics-2026-01-14]]'
+- '[[measurement-problem-as-hard-problem]]'
 title: Quantum Measurement and the Consciousness Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -222,6 +223,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Energy conservation and the causal closure loophole
 - [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The causal closure argument
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of consciousness and causal efficacy
+- [measurement-problem-as-hard-problem](/topics/measurement-problem-as-hard-problem/) — The identity claim: the measurement problem is a species of hard problem
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

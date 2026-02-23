@@ -25,6 +25,7 @@ related_articles:
 - '[[quantum-measurement-and-subjective-probability]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[tenets]]'
+- '[[measurement-problem-as-hard-problem]]'
 title: The Measurement Problem as Philosophical Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -116,6 +117,7 @@ What makes the measurement problem philosophically distinctive is that it cannot
 ## Further Reading
 
 - [measurement-problem](/concepts/measurement-problem/)
+- [measurement-problem-as-hard-problem](/topics/measurement-problem-as-hard-problem/) — The argument that the measurement problem and hard problem are instances of the same structural pattern
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
 - [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)

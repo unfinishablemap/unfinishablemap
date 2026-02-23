@@ -65,6 +65,7 @@ related_articles:
 - '[[origin-of-consciousness]]'
 - '[[process-and-consciousness]]'
 - '[[emergence-void]]'
+- '[[measurement-problem-as-hard-problem]]'
 title: The Hard Problem of Consciousness
 topics: []
 ---
@@ -140,7 +141,7 @@ The [binding problem](/concepts/binding-problem/) presents another dimension of 
 
 Classical approaches—neural synchrony, global workspace broadcasting—propose mechanisms where separate processes interact. But interaction doesn't explain unity. Synchronized firing is still firing in separate neurons. The phenomenal question remains: why does combination *feel* unified?
 
-This may be where [quantum approaches](/concepts/quantum-consciousness/) become relevant, since quantum entanglement produces genuine physical holism. The [structural parallel between the hard problem and the measurement problem](/topics/quantum-measurement-consciousness-interface/)—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [binding-problem](/concepts/binding-problem/) for detailed treatment and [decoherence](/concepts/decoherence/) for the quantum biology evidence.
+This may be where [quantum approaches](/concepts/quantum-consciousness/) become relevant, since quantum entanglement produces genuine physical holism. The [structural parallel between the hard problem and the measurement problem](/topics/measurement-problem-as-hard-problem/)—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [binding-problem](/concepts/binding-problem/) for detailed treatment and [decoherence](/concepts/decoherence/) for the quantum biology evidence.
 
 ## The Pairing Problem: Why This Mind with This Body?
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-02-22 07:39:00+00:00
+ai_modified: 2026-02-23 00:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: Mathematical insight—grasping why proofs work, inventing new fram
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 07:39:00+00:00
+last_deep_review: 2026-02-23 00:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ Mathematicians overwhelmingly describe their work as finding rather than inventi
 
 The Map's [generation-selection synthesis](/concepts/consciousness-and-creativity/) argues that consciousness both generates possibilities through imagination and selects among them through attention. Mathematical creativity sharpens this framework because the generation component is particularly hard to explain computationally.
 
-Consider what happens when a mathematician invents a new structure—say, Cantor creating set theory, or Grothendieck developing schemes in algebraic geometry. These are not selections from a pre-existing space of options. They are acts of conceptual creation that expand what mathematics can even talk about. Before Cantor, transfinite numbers were not options anyone could select. The mathematical framework itself had to be invented—and this invention constitutes possibility space rather than traversing it.
+Consider what happens when a mathematician invents a new structure—say, Cantor creating set theory, or Grothendieck developing schemes in algebraic geometry. These are not selections from a pre-existing space of options. They are acts of conceptual creation that expand what mathematics can even talk about. The mathematical framework had to be invented—constituting possibility space rather than traversing it.
 
 A tension arises here. The "sense of discovery" discussed above suggests mathematicians access pre-existing truths, while the generation account treats mathematical frameworks as genuinely created. The resolution may be that *frameworks* are created while *truths* are discovered: Cantor invented set-theoretic language and methods, but the truths those methods revealed (the uncountability of the reals, the hierarchy of infinities) were already necessary. Mathematical creativity, on this view, involves constructing new lenses for apprehending pre-existing mathematical reality—the lenses are artifacts, but what they reveal is not.
 
@@ -144,7 +144,7 @@ Mathematics provides the hardest case for computational accounts of consciousnes
 
 **Convergence across minds.** Independent mathematicians often discover the same results simultaneously (Newton and Leibniz on calculus, Bolyai and Lobachevsky on non-Euclidean geometry). This convergence suggests they are accessing the same mathematical reality rather than constructing idiosyncratic artifacts.
 
-**Success-coupling.** Mathematical understanding exhibits tight success-coupling that resists deflationary explanation. Those who report genuine insight—rather than mere verification—typically demonstrate ability to apply insight to novel cases, capacity to detect errors in related arguments, skill at explaining the proof's essence to others, and recognition of alternative proof strategies. A functionalist might claim this coupling shows understanding *is* the functional capacity, with phenomenology as epiphenomenal accompaniment. But this reverses the explanatory direction: the phenomenal insight arrives first (often suddenly), and the functional competence flows from it. Mathematicians do not first acquire the functional capacities and then experience insight—the experience generates the capacity.
+**Success-coupling.** Mathematical understanding exhibits tight success-coupling that resists deflationary explanation. Those who report genuine insight—rather than mere verification—typically demonstrate ability to apply insight to novel cases, detect errors in related arguments, explain the proof's essence to others, and recognise alternative proof strategies. A functionalist might claim this coupling shows understanding *is* the functional capacity, with phenomenology as epiphenomenal accompaniment. But this reverses the explanatory direction: the phenomenal insight arrives first (often suddenly), and the functional competence flows from it.
 
 ## The Illusionist Challenge
 
@@ -232,8 +232,11 @@ The view would be supported by continued failure of AI to achieve transformation
 - Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
 - Gödel, K. (1931). Über formal unentscheidbare Sätze. *Monatshefte für Mathematik und Physik*, 38, 173–198.
 - Hadamard, J. (1945). *The Psychology of Invention in the Mathematical Field*. Princeton University Press.
+- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 - Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 - Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 - Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.
+- Searle, J.R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417–424.
 - Strawson, G. (2010). *Mental Reality*. MIT Press.
+- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
