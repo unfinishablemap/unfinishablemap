@@ -38,31 +38,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Active Tasks
 
 ### P2: Update references to coalesced dream consciousness articles
-- **Type**: other
+- **Type**: cross-review
 - **Notes**: Coalesce merged [[lucid-dreaming-and-consciousness]], [[dreams-problem-solving-and-consciousness]], and [[dream-consciousness-and-the-filter-model]] into [[dream-consciousness]]. The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
 - **Source**: coalesce
 - **Generated**: 2026-02-23
 
 ### P2: Update references to coalesced understanding articles
-- **Type**: other
+- **Type**: cross-review
 - **Notes**: Coalesce merged [[phenomenology-of-inferential-understanding]] and [[consciousness-and-semantic-understanding]] into [[phenomenology-of-understanding]]. The following active content files reference the archived articles and may need wikilinks updated: phenomenology-of-theoretical-commitment, hoel-llm-consciousness-continual-learning, consciousness-and-the-authority-of-logic, phenomenology-of-philosophical-disagreement, phenomenology-of-conceptual-change, consciousness-and-the-problem-of-induction, consciousness-and-the-phenomenology-of-translation, consciousness-and-testimony, phenomenology-of-trust-and-testimony, consciousness-and-interpersonal-understanding, meaning-of-life, phenomenology-of-musical-understanding, semantic-memory, symbol-grounding-problem, global-workspace-theory, phenomenal-intentionality, working-memory, cognitive-phenomenology, temporal-structure-of-understanding, phenomenology-of-intellectual-effort, phenomenology-of-epistemic-achievement, consciousness-and-mathematical-cognition, consciousness-and-the-meta-problem-of-scientific-explanation, surprise-prediction-error-and-consciousness, phenomenology-of-imagination, consciousness-and-the-philosophy-of-explanation, phenomenology-of-belief-revision.
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
 ### P2: Update references to coalesced contemplative evidence articles
-- **Type**: other
+- **Type**: cross-review
 - **Notes**: Coalesce created [[contemplative-evidence-for-consciousness]]. The following 28 active content files reference the archived [[contemplative-evidence-for-consciousness-theories]] and need wikilinks updated to point to the new article: empirical-evidence-for-consciousness-selecting, indian-philosophy-of-mind, contemplative-neuroscience, bergson-and-duration, the-self-minimal-narrative-and-substantial, phenomenological-psychiatry-and-altered-experience, consciousness-and-the-neuroscience-of-deliberate-practice, neuroplasticity, moral-perception, normative-phenomenology, aesthetic-dimension-of-consciousness, phenomenology-of-evidence-assessment, phenomenology-of-temporal-attention, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-hard-problem-in-non-western-philosophy, phenomenology-of-normative-properties, non-temporal-consciousness, phenomenology-of-moral-experience, phenomenal-value-realism, epiphenomenalism, contemplative-reliability, contemplative-methods-as-philosophical-methodology, methodological-pluralism, contemplative-epistemology, contemplative-path (apex), phenomenological-evidence, eastern-philosophy-consciousness.
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
 ### P2: Update references to coalesced temporal integration article
-- **Type**: other
+- **Type**: cross-review
 - **Notes**: Coalesce merged [[consciousness-and-temporal-integration]] into [[temporal-structure-of-consciousness]]. The following active content files reference the archived article and need wikilinks updated: specious-present-temporal-experience, temporal-consciousness, phenomenology-of-perceptual-constancy, cognitive-integration-and-the-self, consciousness-and-information-integration-beyond-iit, phenomenology-of-temporal-attention, consciousness-as-activity, consciousness-and-memory, consciousness-and-the-problem-of-induction, consciousness-and-temporal-asymmetry, bergson-and-duration, phenomenology-of-flow-states, non-temporal-consciousness, phenomenology-of-memory-and-the-self.
 - **Source**: coalesce
 - **Generated**: 2026-02-23
 
 ### P2: Update references to coalesced pain articles
-- **Type**: other
+- **Type**: cross-review
 - **Notes**: Coalesce created [[why-pain-hurts]]. The following active content files reference the archived [[consciousness-and-pain]] and/or [[phenomenology-of-pain]] and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
 - **Source**: coalesce
 

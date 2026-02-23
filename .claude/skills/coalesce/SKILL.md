@@ -136,7 +136,7 @@ If this was a todo item, mark it complete.
 If references were found to archived articles, create a follow-up task:
 ```markdown
 ### P2: Update references to coalesced articles
-- **Type**: other
+- **Type**: cross-review
 - **Notes**: Coalesce created [new-article]. The following files reference archived articles and may need review: [list files]
 - **Source**: coalesce
 - **Generated**: [today]
