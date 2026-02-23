@@ -61,11 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Write article on consciousness and embodiment (somatic interface)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map develops the quantum-neural interface extensively but has not systematically examined how embodiment shapes consciousness—interoception, proprioception, somatic markers (Damasio). The body is where consciousness meets the world most intimately; current coverage is thin relative to its importance. Builds on motor-control-quantum-zeno.md, dopamine-and-the-unified-interface.md, embodied-cognition.md. Target section: topics/. See optimistic-2026-02-22-morning.md
-
 ### P3: Write article on philosophy of language and consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -197,6 +192,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on consciousness and embodiment (somatic interface)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map develops the quantum-neural interface extensively but has not systematically examined how embodiment shapes consciousness—interoception, proprioception, somatic markers (Damasio). The body is where consciousness meets the world most intimately; current coverage is thin relative to its importance. Builds on motor-control-quantum-zeno.md, dopamine-and-the-unified-interface.md, embodied-cognition.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+- **Output**: consciousness and embodiment (somatic interface)
 
 ### ✓ 2026-02-23: Strengthen emergence.md cross-link to measurement-problem-as-philosophical-problem.md
 - **Type**: cross-review
