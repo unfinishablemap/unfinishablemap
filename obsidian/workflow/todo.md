@@ -79,11 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article synthesising self-stultification as master argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Self-stultification appears across multiple articles (epiphenomenalism, eliminativism, illusionism, argument-from-reason) but has not been developed as a unified "master argument" showing every denial of consciousness's causal efficacy is epistemically self-defeating. A synthesis demonstrating the pattern across positions would be the Map's strongest single argument for Tenet 3. Builds on self-stultification.md, argument-from-reason.md, epiphenomenalism.md, consciousness-as-amplifier.md. See optimistic-2026-02-23.md
-
 ### P3: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
 - **Type**: cross-review
 - **Status**: pending
@@ -111,6 +106,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article synthesising self-stultification as master argument
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Self-stultification appears across multiple articles (epiphenomenalism, eliminativism, illusionism, argument-from-reason) but has not been developed as a unified "master argument" showing every denial of consciousness's causal efficacy is epistemically self-defeating. A synthesis demonstrating the pattern across positions would be the Map's strongest single argument for Tenet 3. Builds on self-stultification.md, argument-from-reason.md, epiphenomenalism.md, consciousness-as-amplifier.md. See optimistic-2026-02-23.md
+- **Output**: Write article synthesising self-stultification as master argument
 
 ### ✓ 2026-02-23: Strengthen core inference in phenomenology-of-consciousness-doing-work apex article
 - **Type**: refine-draft
