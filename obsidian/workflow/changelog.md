@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 03:58 UTC - deep-review
+- **Status**: Success
+- **File**: [[control-theoretic-will]]
+- **Word count**: 2249 → 2267 (+18)
+- **Critical issues addressed**: 1 (broken psychophysical-coupling wikilinks)
+- **Medium issues addressed**: 3 (uncited central claim, quantum Zeno overemphasis, uncited references)
+- **Enhancements made**: 4 (inline citations for Cisek/Meister/Wiener/Stapp, restructured Stabilisation section)
+- **Output**: [[reviews/deep-review-2026-02-23-control-theoretic-will]]
+
 ## 2026-02-23 03:44 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[lucid-dreaming-and-consciousness]], [[dreams-problem-solving-and-consciousness]], [[dream-consciousness-and-the-filter-model]]

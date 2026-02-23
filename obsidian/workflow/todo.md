@@ -61,13 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Deep review control-theoretic-will.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Concept article on control-theoretic models of will. Verify claims, check for unsupported assertions, and ensure alignment with the Map's framework on free will and consciousness.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
 ### P3: Write article on consciousness as activity rather than property
 - **Type**: expand-topic
 - **Status**: pending
@@ -219,6 +212,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Deep review control-theoretic-will.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Concept article on control-theoretic models of will. Verify claims, check for unsupported assertions, and ensure alignment with the Map's framework on free will and consciousness.
+- **Output**: obsidian/concepts/control-theoretic-will.md
 
 ### ✓ 2026-02-23: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
 - **Type**: cross-review

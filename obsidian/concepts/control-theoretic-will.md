@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-22T12:15:00+00:00
+ai_modified: 2026-02-23T03:58:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[agent-causation]]"
   - "[[causal-closure]]"
-  - "[[psychophysical-coupling]]"
+  - "[[the-psychophysical-control-law]]"
 related_articles:
   - "[[tenets]]"
   - "[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]"
@@ -27,10 +27,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-02-22T12:15:00+00:00
+last_deep_review: 2026-02-23T03:58:00+00:00
 ---
 
-The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans; consciousness selects among them through a ~10 bits/second channel. This architecture finds a natural analogue in control theory—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
+The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans (Cisek, 2007); consciousness selects among them through a channel limited to roughly 10 bits per second (Meister, 2024). This architecture finds a natural analogue in control theory (Wiener, 1948)—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
 
 This reframing matters because it specifies what consciousness *can* and *cannot* do within the Map's commitments, distinguishes the Map's position from computational models of mind, and connects to formal tools (stability analysis, feedback loops, gain parameters) that could make the Map's claims more precise.
 
@@ -69,9 +69,9 @@ Gating explains why dopamine-deficient systems retain motor capacity but lose in
 
 ### Stabilisation
 
-Through the proposed quantum Zeno mechanism, consciousness holds selected neural patterns stable against competing alternatives. In control terms, this is **regulation**—maintaining a desired state against disturbances. [[mental-effort|Mental effort]] phenomenology tracks this operation: sustaining attention on a difficult task *feels* like holding something in place against forces pulling it away.
+Consciousness holds selected neural patterns stable against competing alternatives. In control terms, this is **regulation**—maintaining a desired state against disturbances. [[mental-effort|Mental effort]] phenomenology tracks this operation: sustaining attention on a difficult task *feels* like holding something in place against forces pulling it away.
 
-The Zeno mechanism (however it physically operates) functions as a stabilising feedback loop: observe the desired pattern, detect drift, reapply the observation. The effort required scales with the disturbance magnitude—more distracting environments require more stabilisation effort.
+The specific physical mechanism remains open—the quantum Zeno effect is one candidate (Stapp, 2007)—but whatever the mechanism, it functions as a stabilising feedback loop: observe the desired pattern, detect drift, reapply the selection. The effort required scales with the disturbance magnitude—more distracting environments require more stabilisation effort.
 
 ### Veto
 
@@ -139,7 +139,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## Open Questions
 
-**Formal specification.** What exactly is the control law? The Map identifies the controller's existence and its bandwidth, but the mapping from phenomenal states to control outputs—the psychophysical control law—remains unspecified. [[psychophysical-coupling|Psychophysical coupling]] explores candidates, but none has been formalised in control-theoretic terms.
+**Formal specification.** What exactly is the control law? The Map identifies the controller's existence and its bandwidth, but the mapping from phenomenal states to control outputs—the psychophysical control law—remains unspecified. [[the-psychophysical-control-law|The psychophysical control law]] explores candidates, but none has been formalised in control-theoretic terms.
 
 **Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? This connects to [[attentional-economics#Implications for Moral Responsibility|moral responsibility]]—control failures may carry different moral weight than control refusals.
 
@@ -155,7 +155,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [[attentional-economics]] — The economics of the controller's scarce bandwidth
 - [[motor-selection]] — How the unified attention-motor system implements control
 - [[mental-effort]] — The phenomenology of control effort
-- [[psychophysical-coupling]] — Candidate coupling laws (control laws in this framing)
+- [[the-psychophysical-control-law]] — Candidate coupling laws (control laws in this framing)
 - [[agent-causation]] — The metaphysics of the controller as genuine cause
 - [[causal-closure]] — Why control requires gaps in physical determinism
 
