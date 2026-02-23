@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P2: Address critical issues in attention-as-causal-bridge.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-23) found three high-severity issues: (1) dissociation-to-ontology leap—article "proves" ontological distinctness from cognitive dissociation, needs softened inferential language; (2) quantum Zeno overemphasis—mechanism is more central than style guide warrants, source articles are more cautious about decoherence objections; (3) missing References section for ~8 empirical citations including COGITATE 2025, Kahneman, Schwartz OCD, Meister 2024, "2024 Nature study" on ADHD. Also: falsifiability claims overreach (tests attention science, not metaphysics) and "proves/defeats" language too strong. See pessimistic-2026-02-23-attention-bridge.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-23
-
 ### P3: Deep review attention-as-causal-bridge.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment. Pessimistic review (2026-02-23) identified issues that should be addressed first (see P2 task above).
@@ -177,6 +171,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Address critical issues in attention-as-causal-bridge.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-23) found three high-severity issues: (1) dissociation-to-ontology leap—article "proves" ontological distinctness from cognitive dissociation, needs softened inferential language; (2) quantum Zeno overemphasis—mechanism is more central than style guide warrants, source articles are more cautious about decoherence objections; (3) missing References section for ~8 empirical citations including COGITATE 2025, Kahneman, Schwartz OCD, Meister 2024, "2024 Nature study" on ADHD. Also: falsifiability claims overreach (tests attention science, not metaphysics) and "proves/defeats" language too strong. See pessimistic-2026-02-23-attention-bridge.md
+- **Output**: obsidian/apex/attention-as-causal-bridge.md
+
+Task context:
+Pessimistic review (2026-02-23) found three high-severity issues: (1) dissociation-to-ontology leap—article "proves" ontological distinctness from cognitive dissociation, needs softened inferential language; (2) quantum Zeno overemphasis—mechanism is more central than style guide warrants, source articles are more cautious about decoherence objections; (3) missing References section for ~8 empirical citations including COGITATE 2025, Kahneman, Schwartz OCD, Meister 2024, "2024 Nature study" on ADHD. Also: falsifiability claims overreach (tests attention science, not metaphysics) and "proves/defeats" language too strong. See pessimistic-2026-02-23-attention-bridge.md
 
 ### ✓ 2026-02-23: Integrate apophatic-cartography.md into site navigation
 - **Type**: integrate-orphan
