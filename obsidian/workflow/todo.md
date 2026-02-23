@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Deep review apophatic-approaches.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-20, making it the most stale reviewed content on the site (33 days). As a voids article on negative-space epistemology, it frames a distinctive methodology. Verify quality, coherence, and alignment with the Map's evolving treatment of cognitive limits and unknowability.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
 ### P3: Deep review motor-control-quantum-zeno.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation. Explores how the quantum Zeno effect relates to motor control and conscious intention — directly supports Tenet 2 (Minimal Quantum Interaction). Verify mechanism claims, ensure accurate representation of Stapp's framework, and check tenet alignment.
@@ -165,6 +159,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Deep review apophatic-approaches.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-20, making it the most stale reviewed content on the site (33 days). As a voids article on negative-space epistemology, it frames a distinctive methodology. Verify quality, coherence, and alignment with the Map's evolving treatment of cognitive limits and unknowability.
+- **Output**: obsidian/voids/apophatic-approaches.md
 
 ### ✓ 2026-02-23: Deep review attention-as-causal-bridge.md
 - **Type**: deep-review
