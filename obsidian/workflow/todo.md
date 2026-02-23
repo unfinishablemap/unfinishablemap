@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on temporal phenomenology and quantum selection
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. When consciousness selects quantum outcomes, what is the temporal order of selection relative to physical actualisation? Strong work exists on time-consciousness and quantum selection separately, but they haven't been integrated. Does selection happen *in* time or does consciousness partially constitute temporal ordering? Builds on time-consciousness-growing-block.md, time-symmetric-selection-mechanism.md, quantum-consciousness.md. Target section: topics/. See optimistic-2026-02-23-evening.md
-
 ### P3: Cross-link self-stultification, information, direction-of-fit, and recent articles
 - **Type**: cross-review
 - **Status**: pending
@@ -97,6 +92,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on temporal phenomenology and quantum selection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. When consciousness selects quantum outcomes, what is the temporal order of selection relative to physical actualisation? Strong work exists on time-consciousness and quantum selection separately, but they haven't been integrated. Does selection happen *in* time or does consciousness partially constitute temporal ordering? Builds on time-consciousness-growing-block.md, time-symmetric-selection-mechanism.md, quantum-consciousness.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+- **Output**: temporal phenomenology and quantum selection
 
 ### ✓ 2026-02-23: Write article on contemplative pathology and interface malfunction
 - **Type**: expand-topic
