@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on contemplative pathology and interface malfunction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Meditation can produce dissociation, depersonalisation, and adverse effects. What happens when the consciousness-body interface malfunctions through contemplative practice? The "dark night" phenomenon, Willoughby Britton's research, and contemplative-induced depersonalisation provide evidence about the interface model from its failure modes. Builds on contemplative-evidence-for-consciousness.md, disorders-of-consciousness.md, phenomenological-psychiatry-and-altered-experience.md. Target section: topics/. See optimistic-2026-02-23-evening.md
-
 ### P3: Write article on temporal phenomenology and quantum selection
 - **Type**: expand-topic
 - **Status**: pending
@@ -102,6 +97,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on contemplative pathology and interface malfunction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Meditation can produce dissociation, depersonalisation, and adverse effects. What happens when the consciousness-body interface malfunctions through contemplative practice? The "dark night" phenomenon, Willoughby Britton's research, and contemplative-induced depersonalisation provide evidence about the interface model from its failure modes. Builds on contemplative-evidence-for-consciousness.md, disorders-of-consciousness.md, phenomenological-psychiatry-and-altered-experience.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+- **Output**: contemplative pathology and interface malfunction
 
 ### ✓ 2026-02-23: Write article on epistemology of other minds under dualism
 - **Type**: expand-topic
