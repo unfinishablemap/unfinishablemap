@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 23:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Surplus Void — why consciousness delivers far more qualitative richness than functional requirements demand
+- **Category**: Mixed (Unexplored / Unexplorable)
+- **Output**: [[research/voids-surplus-void-2026-02-23]]
+- **Key finding**: Wallace's 1870 "surplusage of power" argument, updated through Chalmers' zombie argument, establishes that phenomenal experience is by definition surplus to function — and under dualism this surplus reflects consciousness's fundamental nature rather than evolutionary overshoot
+
 ## 2026-02-23 23:20 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-science-under-dualism]]
