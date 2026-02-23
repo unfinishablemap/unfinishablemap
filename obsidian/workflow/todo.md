@@ -61,11 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Write article on consciousness and neurodegenerative disease
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Alzheimer's, frontotemporal dementia, and Lewy body dementia provide natural experiments testing what consciousness does vs. what the brain does. Filter theory predicts specific deterioration patterns these diseases test. Builds on dopamine-and-the-unified-interface.md, disorders-of-consciousness-as-test-cases.md. Target section: topics/. See optimistic-2026-02-22-morning.md
-
 ### P3: Strengthen cross-links between recent articles and existing content
 - **Type**: cross-review
 - **Status**: pending
@@ -187,6 +182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on consciousness and neurodegenerative disease
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Alzheimer's, frontotemporal dementia, and Lewy body dementia provide natural experiments testing what consciousness does vs. what the brain does. Filter theory predicts specific deterioration patterns these diseases test. Builds on dopamine-and-the-unified-interface.md, disorders-of-consciousness-as-test-cases.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+- **Output**: consciousness and neurodegenerative disease
 
 ### ✓ 2026-02-23: Write article on philosophy of language and consciousness
 - **Type**: expand-topic
