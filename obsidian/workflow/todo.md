@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced contemplative evidence articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [[contemplative-evidence-for-consciousness]]. The following 28 active content files reference the archived [[contemplative-evidence-for-consciousness-theories]] and need wikilinks updated to point to the new article: empirical-evidence-for-consciousness-selecting, indian-philosophy-of-mind, contemplative-neuroscience, bergson-and-duration, the-self-minimal-narrative-and-substantial, phenomenological-psychiatry-and-altered-experience, consciousness-and-the-neuroscience-of-deliberate-practice, neuroplasticity, moral-perception, normative-phenomenology, aesthetic-dimension-of-consciousness, phenomenology-of-evidence-assessment, phenomenology-of-temporal-attention, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-hard-problem-in-non-western-philosophy, phenomenology-of-normative-properties, non-temporal-consciousness, phenomenology-of-moral-experience, phenomenal-value-realism, epiphenomenalism, contemplative-reliability, contemplative-methods-as-philosophical-methodology, methodological-pluralism, contemplative-epistemology, contemplative-path (apex), phenomenological-evidence, eastern-philosophy-consciousness.
-- **Source**: coalesce
-- **Generated**: 2026-02-22
-
 ### P2: Update references to coalesced temporal integration article
 - **Type**: cross-review
 - **Notes**: Coalesce merged [[consciousness-and-temporal-integration]] into [[temporal-structure-of-consciousness]]. The following active content files reference the archived article and need wikilinks updated: specious-present-temporal-experience, temporal-consciousness, phenomenology-of-perceptual-constancy, cognitive-integration-and-the-self, consciousness-and-information-integration-beyond-iit, phenomenology-of-temporal-attention, consciousness-as-activity, consciousness-and-memory, consciousness-and-the-problem-of-induction, consciousness-and-temporal-asymmetry, bergson-and-duration, phenomenology-of-flow-states, non-temporal-consciousness, phenomenology-of-memory-and-the-self.
@@ -91,6 +85,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Update references to coalesced contemplative evidence articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[contemplative-evidence-for-consciousness]]. The following 28 active content files reference the archived [[contemplative-evidence-for-consciousness-theories]] and need wikilinks updated to point to the new article: empirical-evidence-for-consciousness-selecting, indian-philosophy-of-mind, contemplative-neuroscience, bergson-and-duration, the-self-minimal-narrative-and-substantial, phenomenological-psychiatry-and-altered-experience, consciousness-and-the-neuroscience-of-deliberate-practice, neuroplasticity, moral-perception, normative-phenomenology, aesthetic-dimension-of-consciousness, phenomenology-of-evidence-assessment, phenomenology-of-temporal-attention, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-hard-problem-in-non-western-philosophy, phenomenology-of-normative-properties, non-temporal-consciousness, phenomenology-of-moral-experience, phenomenal-value-realism, epiphenomenalism, contemplative-reliability, contemplative-methods-as-philosophical-methodology, methodological-pluralism, contemplative-epistemology, contemplative-path (apex), phenomenological-evidence, eastern-philosophy-consciousness.
+- **Output**: None -- Context: Update references to coalesced contemplative evidence articles
 
 ### ✓ 2026-02-23: Update references to coalesced understanding articles
 - **Type**: cross-review
