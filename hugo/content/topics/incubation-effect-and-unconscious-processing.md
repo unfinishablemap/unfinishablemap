@@ -46,7 +46,7 @@ Several features of the experimental evidence constrain interpretation:
 
 **The type of break matters.** Not all incubation periods are equal. Baird et al. (2012) found that engaging in an undemanding task during the break (allowing mind-wandering) produced stronger incubation effects than demanding tasks (which occupied conscious resources) or complete rest. The optimal break keeps consciousness lightly engaged elsewhere — just busy enough to release the problem without entering deep focused work on something new.
 
-**The Default Mode Network activates.** During incubation-favourable conditions (undemanding tasks, mind-wandering), the Default Mode Network shows increased activity. The DMN supports remote associative thinking — connecting ideas across distant conceptual spaces. This is the same network that operates extensively during REM sleep, where [dream incubation](/topics/dreams-problem-solving-and-consciousness/) also produces creative solutions.
+**The Default Mode Network activates.** During incubation-favourable conditions (undemanding tasks, mind-wandering), the Default Mode Network shows increased activity. The DMN supports remote associative thinking — connecting ideas across distant conceptual spaces. This is the same network that operates extensively during REM sleep, where [dream incubation](/topics/dream-consciousness/) also produces creative solutions.
 
 **Fixation release is a real mechanism.** Some incubation benefits arise simply from breaking mental fixation. When working continuously on a problem, solvers get stuck in unproductive approaches. Stepping away allows fixated representations to decay, making alternative approaches accessible when work resumes. Smith and Blankenship (1991) demonstrated this experimentally: incubation helped most when subjects had been given misleading cues that induced fixation.
 
@@ -92,7 +92,7 @@ The phenomenology of insight confirms this: the solution doesn't merely appear �
 
 Incubation during waking and incubation during sleep may share mechanisms. In both cases, the DMN operates with reduced executive constraint, exploring associative connections that focused attention would dismiss.
 
-The [dream incubation evidence](/topics/dreams-problem-solving-and-consciousness/) strengthens the case that consciousness is the essential ingredient even during apparent "unconscious" processing. Konkoly et al. (2026) found that when puzzle-related soundtracks were played during REM sleep, problems incorporated into dream content were solved at more than double the rate of non-incorporated problems (42% versus 17%). The phenomenal engagement with the problem during dreaming — experiencing it within an immersive scenario — predicted solving success. If the processing were genuinely unconscious, the phenomenal content of dreams should be irrelevant.
+The [dream incubation evidence](/topics/dream-consciousness/) strengthens the case that consciousness is the essential ingredient even during apparent "unconscious" processing. Konkoly et al. (2026) found that when puzzle-related soundtracks were played during REM sleep, problems incorporated into dream content were solved at more than double the rate of non-incorporated problems (42% versus 17%). The phenomenal engagement with the problem during dreaming — experiencing it within an immersive scenario — predicted solving success. If the processing were genuinely unconscious, the phenomenal content of dreams should be irrelevant.
 
 Cai et al. (2009) found that REM sleep specifically enhanced creative associative problem-solving while NREM sleep did not. Since REM is characterised by vivid conscious experience and NREM by its absence, the creative benefit tracks the presence of consciousness during sleep — not merely time spent away from the problem.
 
@@ -133,7 +133,7 @@ The Map's interpretation of incubation would face difficulty if:
 
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence that consciousness enables functions unconscious processing cannot achieve
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The creative loop integrating generation and selection
-- [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) — Dream incubation and the sleep-wake creative cycle
+- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Dream incubation and the sleep-wake creative cycle
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [mental-effort](/concepts/mental-effort/) — Why conscious engagement feels like work
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface

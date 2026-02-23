@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-10
-**Article**: [Dream Consciousness and the Filter Model](/topics/dream-consciousness-and-the-filter-model/)
+**Article**: [Dream Consciousness and the Filter Model](/topics/dream-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

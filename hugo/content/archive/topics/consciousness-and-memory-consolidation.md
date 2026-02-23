@@ -113,10 +113,10 @@ Memory consolidation during sleep speaks directly to the Map's [tenets](/tenets/
 - [episodic-memory](/concepts/episodic-memory/) — The memory type most dependent on conscious encoding
 - [working-memory](/concepts/working-memory/) — The interface where consciousness meets memory formation
 - [binding-problem](/concepts/binding-problem/) — The unity of experience and its neural substrates
-- [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) — Sleep-dependent insight and creative problem-solving
+- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Sleep-dependent insight and creative problem-solving
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that consciousness engages with the brain through attentional selection
 - Autonoetic Consciousness — The self-aware remembering that consolidation serves but does not involve
-- [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/) — Variable interface engagement demonstrated within sleep
+- [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Variable interface engagement demonstrated within sleep
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — The temporal ordering that disappears during consolidation
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Where consciousness goes during deep sleep
 - [memory-void](/voids/memory-void/) — Whether past experiences are genuinely recoverable

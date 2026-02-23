@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 03:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[lucid-dreaming-and-consciousness]], [[dreams-problem-solving-and-consciousness]], [[dream-consciousness-and-the-filter-model]]
+- **Target**: [[dream-consciousness]]
+- **Archived**: archive/topics/lucid-dreaming-and-consciousness.md, archive/topics/dreams-problem-solving-and-consciousness.md, archive/topics/dream-consciousness-and-the-filter-model.md
+- **References to review**: 10 files (follow-up task created)
+
 ## 2026-02-23 03:28 UTC - deep-review
 - **Status**: Success
 - **File**: [[indian-philosophy-of-mind]]

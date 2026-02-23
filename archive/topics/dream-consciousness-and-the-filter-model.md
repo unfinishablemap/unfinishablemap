@@ -6,6 +6,11 @@ modified: 2026-02-10
 human_modified:
 ai_modified: 2026-02-10T11:38:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-23T03:44:00+00:00
+superseded_by: "/topics/dream-consciousness/"
+archive_reason: "Coalesced into Dream Consciousness"
+original_path: "/topics/dream-consciousness-and-the-filter-model/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

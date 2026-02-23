@@ -28,11 +28,11 @@ None. The article has been through thirteen previous reviews and all critical is
 
 ### Medium Issues Found
 
-1. **Missing dream-consciousness connection**: The article extensively argues that consciousness is causally efficacious (agent-causal, selects, generates) but didn't address what happens during sleep. The new [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) article provides strong evidence that consciousness works productively during dreams—solving problems at 2x rates when puzzles are incorporated into dreams. This directly supports the agent-causal framework.
+1. **Missing dream-consciousness connection**: The article extensively argues that consciousness is causally efficacious (agent-causal, selects, generates) but didn't address what happens during sleep. The new [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) article provides strong evidence that consciousness works productively during dreams—solving problems at 2x rates when puzzles are incorporated into dreams. This directly supports the agent-causal framework.
    - **Resolution**: Added a paragraph in the Agent Causation section integrating dream problem-solving evidence, following the creativity paragraph. Shows the agent-causal framework extends across waking and dreaming states.
 
 2. **No cross-links to dream articles**: The article had no connections to dream-consciousness literature despite dreams providing independent evidence for the Bidirectional Interaction tenet.
-   - **Resolution**: Added cross-link to [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) in Further Reading and related_articles frontmatter.
+   - **Resolution**: Added cross-link to [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) in Further Reading and related_articles frontmatter.
 
 ### Attribution Accuracy Check
 All attributions previously verified across 13 reviews. No new claims added that require verification—the dream evidence paragraph references published findings without attributing specific claims to individual authors.
@@ -69,13 +69,13 @@ All attributions previously verified across 13 reviews. No new claims added that
 1. **Dream problem-solving integration**: Added paragraph showing consciousness maintains causal efficacy during dreams—different phenomenal mode, same agent. Dream incorporation doubling solving rates provides independent evidence against epiphenomenalism.
 
 2. **Cross-link additions**:
-   - Added [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) to Further Reading
-   - Added [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) to related_articles frontmatter
+   - Added [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) to Further Reading
+   - Added [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) to related_articles frontmatter
 
 3. **Length-neutral trimming**: Tightened the counterfactual reasoning section and Agent Causation section to partially offset the dream paragraph addition.
 
 ### Cross-links Added
-- [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) — Dream evidence for consciousness's causal role in problem-solving
+- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Dream evidence for consciousness's causal role in problem-solving
 
 ## Word Count
 
@@ -90,7 +90,7 @@ None. The dream-consciousness integration is complete.
 
 ## Stability Notes
 
-This article has reached high stability after fourteen reviews. Today's review integrated dream problem-solving evidence from the newly created [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) article, strengthening the agent-causal case by showing consciousness maintains causal efficacy across waking and dreaming states.
+This article has reached high stability after fourteen reviews. Today's review integrated dream problem-solving evidence from the newly created [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) article, strengthening the agent-causal case by showing consciousness maintains causal efficacy across waking and dreaming states.
 
 **Bedrock disagreements that should NOT be re-flagged in future reviews:**
 

@@ -6,6 +6,11 @@ modified: 2026-01-21
 human_modified: null
 ai_modified: 2026-02-04T15:18:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-23T03:44:00+00:00
+superseded_by: "/topics/dream-consciousness/"
+archive_reason: "Coalesced into Dream Consciousness"
+original_path: "/topics/lucid-dreaming-and-consciousness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

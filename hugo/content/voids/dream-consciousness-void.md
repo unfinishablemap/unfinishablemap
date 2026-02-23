@@ -97,7 +97,7 @@ What does approaching the dream consciousness void feel like?
 
 ## Lucid Dreaming as Partial Bridge
 
-[Lucid dreaming](/topics/lucid-dreaming-and-consciousness/)—awareness within the dream that one is dreaming—offers partial access across the void. The 2025 Demirel study establishes that lucid dreaming is a distinct consciousness state with its own neural signature, not merely a blend of waking and REM.
+[Lucid dreaming](/topics/dream-consciousness/)—awareness within the dream that one is dreaming—offers partial access across the void. The 2025 Demirel study establishes that lucid dreaming is a distinct consciousness state with its own neural signature, not merely a blend of waking and REM.
 
 Yet lucid dreaming does not close the void:
 - Lucid dreams are still not full waking—cognition remains altered
@@ -156,7 +156,7 @@ The evidence currently favors genuine bidirectional inaccessibility. But the voi
 - [Voids in the Map](/voids/) — The broader framework for cognitive dark spaces
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
 - [Dreams and Consciousness](/concepts/dreams-and-consciousness/) — How dreams illuminate the consciousness-brain relationship
-- [Lucid Dreaming and Consciousness](/topics/lucid-dreaming-and-consciousness/) — The distinct state of aware dreaming
+- [Lucid Dreaming and Consciousness](/topics/dream-consciousness/) — The distinct state of aware dreaming
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Altered States of Consciousness](/concepts/altered-states-of-consciousness/) — Dreams within the taxonomy of consciousness reconfiguration

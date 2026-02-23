@@ -1892,7 +1892,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 11:38 UTC - deep-review
 - **Status**: Success
-- **File**: [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/)
+- **File**: [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/)
 - **Word count**: 1838 → 2000 (+162)
 - **Critical issues addressed**: 2 (incorrect Paller reference, strawman of production models)
 - **Medium issues addressed**: 4 (sensory gating nuance, rendering engine analogy, empirical equivalence framing, missing cross-links)
@@ -2357,7 +2357,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 09:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Dream Consciousness and the Filter Model
-- **Output**: [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/)
+- **Output**: [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/)
 - **Word count**: 1838
 - **Based on research**: yes, [consciousness-dreams-2026-01-14](/research/consciousness-dreams-2026-01-14/), [voids-dream-consciousness-void-2026-02-02](/research/voids-dream-consciousness-void-2026-02-02/)
 

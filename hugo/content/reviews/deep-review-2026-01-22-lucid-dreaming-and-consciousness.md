@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Lucid Dreaming and Consciousness](/topics/lucid-dreaming-and-consciousness/)
+**Article**: [Lucid Dreaming and Consciousness](/topics/dream-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -71,7 +71,7 @@ New inbound links added:
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) (related_articles) — surprise in error detection
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) (related_articles) — insight and aha moments
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) (related_articles) — harmonic surprise
-- [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) (related_articles) — creative surprise in dreams
+- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) (related_articles) — creative surprise in dreams
 
 ## Remaining Items
 

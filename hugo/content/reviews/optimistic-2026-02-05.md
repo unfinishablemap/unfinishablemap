@@ -145,7 +145,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 ### Medium Priority
 
 #### Dreams and Altered Collapse Dynamics
-- **Builds on**: [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Builds on**: [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
 - **Would address**: What dream phenomenology reveals about consciousness-physics interface when sensory input is absent
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Different conscious states may reveal different interface dynamics

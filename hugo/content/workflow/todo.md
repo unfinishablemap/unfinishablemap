@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced dream consciousness articles
+- **Type**: other
+- **Notes**: Coalesce merged [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/), and [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/) into [dream-consciousness](/topics/dream-consciousness/). The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
+- **Source**: coalesce
+- **Generated**: 2026-02-23
+
 ### P2: Update references to coalesced understanding articles
 - **Type**: other
 - **Notes**: Coalesce merged [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/) and [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) into [phenomenology-of-understanding](/topics/phenomenology-of-understanding/). The following active content files reference the archived articles and may need wikilinks updated: phenomenology-of-theoretical-commitment, hoel-llm-consciousness-continual-learning, consciousness-and-the-authority-of-logic, phenomenology-of-philosophical-disagreement, phenomenology-of-conceptual-change, consciousness-and-the-problem-of-induction, consciousness-and-the-phenomenology-of-translation, consciousness-and-testimony, phenomenology-of-trust-and-testimony, consciousness-and-interpersonal-understanding, meaning-of-life, phenomenology-of-musical-understanding, semantic-memory, symbol-grounding-problem, global-workspace-theory, phenomenal-intentionality, working-memory, cognitive-phenomenology, temporal-structure-of-understanding, phenomenology-of-intellectual-effort, phenomenology-of-epistemic-achievement, consciousness-and-mathematical-cognition, consciousness-and-the-meta-problem-of-scientific-explanation, surprise-prediction-error-and-consciousness, phenomenology-of-imagination, consciousness-and-the-philosophy-of-explanation, phenomenology-of-belief-revision.
@@ -55,11 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce created [why-pain-hurts](/topics/why-pain-hurts/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
 - **Source**: coalesce
 - **Generated**: 2026-02-22
-
-### P3: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. indian-philosophy-of-mind.md provides independent cross-cultural validation of dualism but is not linked from substance-property-dualism.md, interactionist-dualism.md, or the-case-for-dualism.md. These core articles would benefit from noting that Indian traditions arrived at dualism through independent philosophical traditions over two millennia. See optimistic-2026-02-22.md
 
 ### P3: Deep review control-theoretic-will.md
 - **Type**: deep-review
@@ -218,6 +219,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
 
 ## Completed Tasks
+
+
+### ✓ 2026-02-23: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. indian-philosophy-of-mind.md provides independent cross-cultural validation of dualism but is not linked from substance-property-dualism.md, interactionist-dualism.md, or the-case-for-dualism.md. These core articles would benefit from noting that Indian traditions arrived at dualism through independent philosophical traditions over two millennia. See optimistic-2026-02-22.md
+- **Output**: None -- Context: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
 
 ### ✓ 2026-02-23: Write article on African philosophy of consciousness
 - **Type**: expand-topic

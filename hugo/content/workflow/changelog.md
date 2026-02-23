@@ -18,6 +18,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 03:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/), [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/)
+- **Target**: [dream-consciousness](/topics/dream-consciousness/)
+- **Archived**: archive/topics/lucid-dreaming-and-consciousness.md, archive/topics/dreams-problem-solving-and-consciousness.md, archive/topics/dream-consciousness-and-the-filter-model.md
+- **References to review**: 10 files (follow-up task created)
+
+## 2026-02-23 03:28 UTC - deep-review
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Word count**: 2295 → 2400 (+105)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to core dualism articles)
+- **Enhancements made**: 7 cross-links added to core dualism infrastructure
+- **Output**: [deep-review-2026-02-23-indian-philosophy-of-mind](/reviews/deep-review-2026-02-23-indian-philosophy-of-mind/)
+
 ## 2026-02-23 03:13 UTC - deep-review
 - **Status**: Success
 - **File**: [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)

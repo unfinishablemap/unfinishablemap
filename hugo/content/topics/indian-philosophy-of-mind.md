@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-22 07:32:00+00:00
+ai_modified: 2026-02-23 03:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,6 +13,10 @@ concepts:
 - '[[agent-causation]]'
 - '[[process-philosophy]]'
 - '[[introspection]]'
+- '[[dualism]]'
+- '[[causal-closure]]'
+- '[[objections-to-interactionism]]'
+- '[[the-case-for-dualism]]'
 created: 2026-02-21
 date: &id001 2026-02-21
 description: Samkhya, Nyaya, and Vedanta developed sophisticated theories of consciousness
@@ -21,7 +25,7 @@ description: Samkhya, Nyaya, and Vedanta developed sophisticated theories of con
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 07:32:00+00:00
+last_deep_review: 2026-02-23 03:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +39,9 @@ topics:
 - '[[eastern-philosophy-consciousness]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[interaction-problem-in-non-western-philosophy]]'
+- '[[the-convergence-argument-for-dualism]]'
+- '[[philosophy-of-perception-under-dualism]]'
 ---
 
 The Unfinishable Map's commitment to dualism—that consciousness is irreducible to physical processes—was articulated independently in India over two thousand years before Descartes. Three classical Indian schools developed sophisticated philosophies of mind that remain philosophically live: Samkhya, Nyaya, and Vedanta. Each takes consciousness as fundamental, but they disagree sharply on what follows. Samkhya places mind on the *matter* side of the divide. Nyaya treats consciousness as an adventitious quality of a non-physical self. Vedanta dissolves the divide entirely, making consciousness the sole reality. These internal disagreements illuminate problems the Map must face, and the depth of Indian engagement with consciousness offers resources Western philosophy of mind has largely neglected.
@@ -43,7 +50,7 @@ For broader cross-cultural context, see [the-hard-problem-in-non-western-philoso
 
 ## Samkhya: Mind as Matter
 
-Samkhya's dualism is more radical than Descartes'. Where Cartesian dualism divides reality into thinking substance (*res cogitans*) and extended substance (*res extensa*), placing mind with consciousness, Samkhya divides it into *purusha* (pure consciousness) and *prakriti* (primordial materiality)—and places mind, intellect, and ego entirely within *prakriti*.
+Samkhya's [dualism](/concepts/dualism/) is more radical than Descartes'. Where Cartesian dualism divides reality into thinking substance (*res cogitans*) and extended substance (*res extensa*), placing mind with consciousness, Samkhya divides it into *purusha* (pure consciousness) and *prakriti* (primordial materiality)—and places mind, intellect, and ego entirely within *prakriti*.
 
 This means all cognitive processing—perception, reasoning, memory, emotion—belongs to the material world. *Buddhi* (intellect), *ahamkara* (ego-sense), and *manas* (coordinating mind) are evolutes of unconscious matter, structured by three constituent qualities (*gunas*): *sattva* (clarity and structure), *rajas* (activity and change), and *tamas* (inertia and obstruction). When *sattva* predominates in the intellect, matter becomes transparent enough to "reflect" *purusha*—but this is reflection, not emergence. Consciousness does not arise from material complexity. It was always present; matter merely ceases to obstruct it. This resonates with the [filter-theory](/concepts/filter-theory/)—brains transmit consciousness rather than producing it.
 
@@ -53,7 +60,7 @@ This means all cognitive processing—perception, reasoning, memory, emotion—b
 
 If *purusha* does nothing, how does unconscious matter evolve purposefully? Samkhya's answers are distinctive. *Purusha* does not act on *prakriti* causally. Its mere *proximity* (*sannidhya*) disturbs *prakriti*'s equilibrium, the way a magnet moves iron filings without physical contact (the tradition's own analogy). Vacaspati Mishra (c. 980 CE) developed a "reflection theory" (*pratibimba-vada*): consciousness is reflected in *buddhi* without entering it, as a face is reflected in a mirror without becoming the mirror.
 
-By placing mind within matter, Samkhya avoids the Cartesian problem of how a non-physical substance could push neurons around. Physical causation handles everything in the material domain, which includes all mental activity. Consciousness illuminates without intervening.
+By placing mind within matter, Samkhya sidesteps the [standard objections to interactionist dualism](/concepts/objections-to-interactionism/). [Causal closure](/concepts/causal-closure/) is preserved: physical causation handles everything in the material domain, which includes all mental activity. Consciousness illuminates without intervening. For a broader comparative survey, see [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/).
 
 ### Plurality and Liberation
 
@@ -79,7 +86,7 @@ The Nyaya school developed rigorous arguments against the Buddhist *anatman* (no
 
 ### A Causal Theory of Perception
 
-Nyaya developed the most rigorous perceptual theory in classical Indian philosophy. Perception (*pratyaksha*) involves a causal chain linking object, sense organ, *manas*, and self. Uddyotakara (c. 600 CE) systematized six types of sense-object contact. Gangesa (c. 1325 CE) refined the earlier Nyaya distinction between indeterminate perception (*nirvikalpaka*)—non-conceptual awareness of bare particulars—and determinate perception (*savikalpaka*)—conceptual, classified awareness ("this is a blue pot"). Both stages produce valid knowledge; Gangesa's contribution was to formalise the conditions under which each yields warranted belief.
+Nyaya developed the most rigorous perceptual theory in classical Indian philosophy—a framework with striking parallels to modern [dualist theories of perception](/topics/philosophy-of-perception-under-dualism/). Perception (*pratyaksha*) involves a causal chain linking object, sense organ, *manas*, and self. Uddyotakara (c. 600 CE) systematized six types of sense-object contact. Gangesa (c. 1325 CE) refined the earlier Nyaya distinction between indeterminate perception (*nirvikalpaka*)—non-conceptual awareness of bare particulars—and determinate perception (*savikalpaka*)—conceptual, classified awareness ("this is a blue pot"). Both stages produce valid knowledge; Gangesa's contribution was to formalise the conditions under which each yields warranted belief.
 
 Gangesa also gave the most rigorous treatment of apperception (*anuvyavasaya*): awareness of being aware. He distinguished knowing *that* one cognizes (practically infallible) from knowing *what* one cognizes (fallible). This anticipates debates about higher-order theories of consciousness in contemporary philosophy of mind.
 
@@ -117,7 +124,7 @@ The deepest disagreement concerns what consciousness *is*:
 | **Self-luminosity** | *Purusha* illuminates but passively | Rejected—consciousness requires causal conditions | Affirmed—consciousness reveals itself |
 | **Number of selves** | Many *purushas* | Many *atmans* | One *Brahman/atman* |
 
-These are not superficial variations. Samkhya and Nyaya disagree on whether consciousness acts. Nyaya and Advaita disagree on whether consciousness is self-luminous. Samkhya and Advaita disagree on whether there are many conscious principles or one. Yet all three affirm what Western materialism denies: consciousness is irreducible to physical process. An empiricist might object that this shared conclusion is underdetermined—that the same observable phenomena are compatible with all three frameworks, so none is empirically favoured. But the convergence cuts the other way: three deeply incompatible metaphysics, each developed through centuries of adversarial scrutiny, independently found reduction untenable. The shared conclusion survives precisely *because* it does not depend on the contested details.
+These are not superficial variations. Samkhya and Nyaya disagree on whether consciousness acts. Nyaya and Advaita disagree on whether consciousness is self-luminous. Samkhya and Advaita disagree on whether there are many conscious principles or one. Yet all three affirm what Western materialism denies: consciousness is irreducible to physical process. An empiricist might object that this shared conclusion is underdetermined—that the same observable phenomena are compatible with all three frameworks, so none is empirically favoured. But the convergence cuts the other way: three deeply incompatible metaphysics, each developed through centuries of adversarial scrutiny, independently found reduction untenable—an instance of [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) operating within a single philosophical culture. The shared conclusion survives precisely *because* it does not depend on the contested details.
 
 ## What Indian Philosophy Contributes
 
@@ -133,7 +140,7 @@ Three distinctive contributions are largely absent from Western philosophy of mi
 
 The Map's engagement with Indian philosophy of mind connects to each tenet.
 
-**[Dualism](/tenets/#dualism)**: All three schools affirm consciousness as irreducible to matter—through independent arguments developed over millennia. This cross-school convergence *within* a single philosophical culture, achieved through sustained mutual criticism, provides evidence distinct from the cross-cultural convergence discussed in [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/). Internal disagreement about what consciousness *is* coexists with agreement that it is not material.
+**[Dualism](/tenets/#dualism)**: All three schools affirm consciousness as irreducible to matter—through independent arguments developed over millennia. This cross-school convergence *within* a single philosophical culture, achieved through sustained mutual criticism, provides evidence distinct from the cross-cultural convergence discussed in [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/). It adds a further strand to [the-case-for-dualism](/concepts/the-case-for-dualism/): internal disagreement about what consciousness *is* coexists with agreement that it is not material.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Samkhya's "proximity" model—*purusha* disturbs *prakriti*'s equilibrium through presence rather than force—shares a structural concern with the Map's quantum interaction model. Both seek the minimal interface between consciousness and matter. The parallel is thematic, not mechanistic: Samkhya predates quantum theory by two millennia.
 
@@ -156,6 +163,13 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
 - [tenets](/tenets/) — The Map's foundational commitments
+- [dualism](/concepts/dualism/) — The Map's core commitment, independently affirmed by all three schools
+- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The epistemological structure Indian philosophy exemplifies
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The cumulative case to which Indian philosophy contributes
+- [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) — Broader survey including Samkhya alongside Islamic and Buddhist approaches
+- [causal-closure](/concepts/causal-closure/) — How Samkhya's framework preserves causal closure
+- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Dualist theories of perception, with parallels to Nyaya
+- [objections-to-interactionism](/concepts/objections-to-interactionism/) — Standard challenges that Samkhya's framework sidesteps
 
 ## References
 

@@ -147,7 +147,7 @@ The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-an
 - **Tenet alignment**: Dualism (both traditions find materialism insufficient), Occam's limits (both traditions resist simple answers)
 
 #### Altered States and the Interface
-- **Builds on**: [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/), [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/), [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/), [loss-of-consciousness](/topics/loss-of-consciousness/)
+- **Builds on**: [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/), [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/), [loss-of-consciousness](/topics/loss-of-consciousness/)
 - **Would address**: Psychedelic states, sensory deprivation, extreme meditation states—how radically altered consciousness illuminates the interface. The "entropic brain" hypothesis (Carhart-Harris) and the filter model make specific predictions about what happens when the interface loosens.
 - **Estimated scope**: Long article (2000-3000 words)
 - **Tenet alignment**: Filter theory, bidirectional interaction, dualism

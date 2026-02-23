@@ -119,7 +119,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Imagination in artistic creation
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — Why human imagination differs from computational generation
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt quality of grasping meaning
-- [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/) — Dreams as involuntary imagination
+- [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Moral imagination and the felt quality of ethical perception
 - [creativity-void](/voids/creativity-void/) — The opacity of consciousness's generative processes
 

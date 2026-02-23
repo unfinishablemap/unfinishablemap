@@ -137,7 +137,7 @@ The [phenomenology of effort](/concepts/mental-effort/) supports this picture. I
 
 [Creativity](/topics/creativity-consciousness-and-novel-thought/) strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. This generation-selection synthesis goes beyond pure selection—each exploratory movement of attention opens further possibilities that didn't exist before the exploration. The agent contributes both which options become actual and which options exist to begin with. Yet the generation process itself is opaque—the [creativity void](/voids/creativity-void/) reveals we cannot observe ourselves creating, only receive the products.
 
-[Dream problem-solving](/topics/dreams-problem-solving-and-consciousness/) provides independent evidence for this causal role. When researchers directed unsolved puzzles into dreamers' REM sleep, dream incorporation more than doubled solving rates—consciousness generated novel approaches in a phenomenally different mode (immersive, associative, unconstrained) that waking cognition could not access. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success. The agent-causal framework extends naturally: the same agent operates across waking and dreaming states, maintaining causal efficacy while shifting mode.
+[Dream problem-solving](/topics/dream-consciousness/) provides independent evidence for this causal role. When researchers directed unsolved puzzles into dreamers' REM sleep, dream incorporation more than doubled solving rates—consciousness generated novel approaches in a phenomenally different mode (immersive, associative, unconstrained) that waking cognition could not access. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success. The agent-causal framework extends naturally: the same agent operates across waking and dreaming states, maintaining causal efficacy while shifting mode.
 
 ## The Capacity to Suspend Selection
 
@@ -236,7 +236,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [decoherence](/concepts/decoherence/) — The decoherence objection and biological quantum effects
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates and selects possibilities
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables novel combination
-- [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) — Dream evidence for consciousness's causal role in problem-solving
+- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Dream evidence for consciousness's causal role in problem-solving
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [existentialism](/concepts/existentialism/) — How Sartre's pour-soi illuminates agent causation

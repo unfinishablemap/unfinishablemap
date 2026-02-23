@@ -168,8 +168,8 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
-- [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/)
-- [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/)
+- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/)
+- [lucid-dreaming-and-consciousness](/topics/dream-consciousness/)
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/)
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
 

@@ -92,7 +92,7 @@ This creates a genuine tension for the article's core argument. If phenomenal ef
 
 Dreaming inverts normal phenomenology in instructive ways. In ordinary dreams, events happen to the dreamer—bizarre scenarios unfold without the dreamer questioning or directing them. Agency is minimal. Yet the dreamer's brain generates the entire scenario, and the dreamer is the protagonist experiencing it. Neural production is active; conscious experience is passive. This dissociation between causal production and phenomenal authorship reveals that agency phenomenology does not automatically accompany the generation of experiential content—an important datum for any theory of consciousness.
 
-[Lucid dreams](/topics/lucid-dreaming-and-consciousness/) restore the agency pole. The dreamer recognises they are dreaming and begins directing the dream. The transition from ordinary to lucid dreaming is phenomenologically vivid: passivity gives way to agency within the same experiential context, demonstrating that the contrast is real and not merely conceptual.
+[Lucid dreams](/topics/dream-consciousness/) restore the agency pole. The dreamer recognises they are dreaming and begins directing the dream. The transition from ordinary to lucid dreaming is phenomenologically vivid: passivity gives way to agency within the same experiential context, demonstrating that the contrast is real and not merely conceptual.
 
 ### Hypnosis and Involuntary Movement
 

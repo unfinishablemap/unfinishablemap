@@ -73,12 +73,12 @@ No attribution errors found.
 
 ### Enhancements Made
 1. Added "Problem-solving capacity" paragraph to "What Dreams Reveal" section (~60 words)
-2. Added [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) to frontmatter related_articles
-3. Added [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) to Further Reading section
+2. Added [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) to frontmatter related_articles
+3. Added [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) to Further Reading section
 4. Added Konkoly et al. (2026) to References
 
 ### Cross-links Added
-- [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) (frontmatter + Further Reading + body text)
+- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) (frontmatter + Further Reading + body text)
 
 ## Remaining Items
 

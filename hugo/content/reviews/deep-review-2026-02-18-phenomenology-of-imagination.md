@@ -88,7 +88,7 @@ Body text:
 - [functionalism](/concepts/functionalism/) — now wikilinked in body
 
 Further Reading:
-- [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/)
+- [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/)
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
 - [creativity-void](/voids/creativity-void/)
 

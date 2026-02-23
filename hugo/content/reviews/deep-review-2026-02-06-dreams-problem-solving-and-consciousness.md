@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Lucid Dreams, Problem-Solving, and Consciousness](/topics/dreams-problem-solving-and-consciousness/)
+**Article**: [Lucid Dreams, Problem-Solving, and Consciousness](/topics/dream-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

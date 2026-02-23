@@ -67,7 +67,7 @@ None. The article has been reviewed twice previously and addresses counterargume
 
 ### Cross-links Added
 - [interactionist-dualism](/concepts/interactionist-dualism/) (frontmatter + body text)
-- [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/#type-b-physicalism-and-the-lucidity-transition) (new cross-reference)
+- [lucid-dreaming-and-consciousness](/topics/dream-consciousness/#type-b-physicalism-and-the-lucidity-transition) (new cross-reference)
 
 ## Remaining Items
 
