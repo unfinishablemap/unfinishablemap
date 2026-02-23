@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 04:58 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Duration Void
+- **Category**: Unexplorable/Occluded (mixed)
+- **Output**: [[research/voids-duration-void-2026-02-23]]
+- **Key finding**: Consciousness operates in two incompatible temporal modes — lived duration (Bergson's durée) and measured clock-time — that cannot be simultaneously occupied, creating a structural void in temporal self-knowledge
+
 ## 2026-02-23 04:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Consciousness Threshold in Cognitive Evolution
