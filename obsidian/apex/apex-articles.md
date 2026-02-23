@@ -256,7 +256,30 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-## Reserved Slots (12-20)
+### 12. The Phenomenology of Consciousness Doing Work
+
+**Slug**: `phenomenology-of-consciousness-doing-work`
+
+**Subtitle**: What it feels like when mind acts on matter
+
+**Thesis**: The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that cross-cultural evidence confirms and materialist accounts cannot adequately explain.
+
+**Source articles**:
+- topics/phenomenology-of-agency-vs-passivity
+- topics/consciousness-and-causal-powers
+- topics/evolutionary-case-for-mental-causation
+- topics/mental-imagery-causal-role-of-consciousness
+- topics/cross-cultural-phenomenology-of-agency
+- concepts/mental-effort
+- concepts/phenomenology-of-choice
+- concepts/volitional-opacity
+- concepts/attention-as-interface
+
+**Status**: Created 2026-02-23
+
+---
+
+## Reserved Slots (13-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

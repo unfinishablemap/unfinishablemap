@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write apex article on the phenomenology of consciousness doing work
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Synthesize evidence from emotion-as-evidence-for-dualism, consciousness-and-aesthetic-creation, agent-causation, and attention-as-interface showing consciousness's causal efficacy through its phenomenological signatures: valence-driven action, aesthetic-template guidance, creative effort, attentional override. See optimistic-2026-02-22-late-afternoon.md
-
 ### P3: Write topic article on Samkhya's three-way distinction
 - **Type**: expand-topic
 - **Status**: pending
@@ -132,6 +127,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write apex article on the phenomenology of consciousness doing work
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Synthesize evidence from emotion-as-evidence-for-dualism, consciousness-and-aesthetic-creation, agent-causation, and attention-as-interface showing consciousness's causal efficacy through its phenomenological signatures: valence-driven action, aesthetic-template guidance, creative effort, attentional override. See optimistic-2026-02-22-late-afternoon.md
+- **Output**: Write apex article on the phenomenology of consciousness doing work
 
 ### ✓ 2026-02-23: Write concept article on direction-of-fit
 - **Type**: expand-topic
