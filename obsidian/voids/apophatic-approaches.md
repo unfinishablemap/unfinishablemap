@@ -67,7 +67,7 @@ For the voids project, McGinn's work suggests that some voids are not merely une
 
 How do we use these methods practically? The apophatic traditions suggest several indirect approaches:
 
-**Systematic negation.** What is consciousness *not*? It is not identical to neural activity (identity theory fails the explanatory gap). It is not an illusion (eliminativism is self-refuting). It is not functional organisation alone ([[concepts/functionalism]] cannot account for qualia). Each negation rules out territory, gradually outlining the shape of what remains.
+**Systematic negation.** What is consciousness *not*? It is not identical to neural activity (identity theory fails the explanatory gap). It is not an illusion (eliminativism is self-refuting). It is not functional organisation alone ([[concepts/functionalism]] cannot account for qualia). Each negation rules out territory, gradually outlining the shape of what remains. [[apophatic-cartography|Apophatic cartography]] formalises this method with explicit criteria for when such negations count as genuine boundary evidence rather than unresolved confusion.
 
 **Attending to failure.** Where does explanation break down? The [[hard-problem-of-consciousness|hard problem]] is precisely an account of where third-person physical description fails to capture first-person experience. The failure is informative. The shape of what cannot be explained reveals something about what consciousness is.
 
@@ -151,6 +151,7 @@ The goal is not to fill the voids with speculation but to know more precisely wh
 
 ## Further Reading
 
+- [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising apophatic methods with evidential standards and safeguards
 - [[voids|Voids in the Map]] — The broader context for this investigation
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — A concrete instance of the explanatory gap
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis of structural limits

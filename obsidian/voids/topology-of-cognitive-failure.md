@@ -32,7 +32,7 @@ last_curated: null
 
 Can we map the voids by studying how thinking fails when it approaches them? The core insight: cognitive failures are not random noise but structured signals. Different kinds of limits produce different kinds of breakdown. The *way* thinking fails reveals something about *what* it is failing against. If failures have characteristic signatures, then careful attention to *how* thought breaks down—not just *that* it breaks down—could serve as an indirect method for mapping void boundaries without requiring direct access to void content.
 
-This is apophatic cartography: mapping what cannot be thought by tracing the shape of thinking's collapse.
+This is [[apophatic-cartography|apophatic cartography]]: mapping what cannot be thought by tracing the shape of thinking's collapse.
 
 ## Failures Are Informative
 
@@ -180,6 +180,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 - [[convergent-cognitive-limits|Convergent Cognitive Limits]] — Cross-cultural evidence for shared boundaries
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
+- [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards and safeguards
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of cognitive slippage
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[mysterianism|Mysterianism]] — McGinn's analysis of cognitive closure

@@ -4,8 +4,9 @@ description: "Formalizing the method of mapping cognitive limits through structu
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-19T13:06:00+00:00
+ai_modified: 2026-02-23T06:50:00+00:00
 draft: false
+last_deep_review: 2026-02-23T06:50:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -92,7 +93,7 @@ The missing discriminant: **a failure qualifies as boundary evidence only if it 
 
 Astrological failure disappears once you stop reasoning within astrological assumptions. There is no residual explanatory gap — no one who rejects astrology finds themselves unable to explain planetary motion or personality. The framework generated the appearance of a boundary, and abandoning the framework dissolves it.
 
-The hard problem passes this test. Functionalism, identity theory, illusionism, and global workspace theory each abandon dualist assumptions — yet the explanatory gap persists under all of them. Illusionism denies the reality of phenomenal consciousness and *still* must explain why there appears to be something it is like to have experiences. The failure is not an artefact of the framework; it survives the framework's elimination.
+The hard problem passes this test. Functionalism, identity theory, illusionism, and global workspace theory each abandon dualist assumptions — yet the explanatory gap persists under all of them. Illusionism denies the reality of phenomenal consciousness yet must still account for why introspective mechanisms generate reports of phenomenal character. The failure is not an artefact of the framework; it survives the framework's elimination.
 
 **The test**: does the failure disappear when you adopt a framework that denies its significance? If adopting eliminativism, reductionism, or any other alternative dissolves the failure entirely, it was framework-dependent and does not qualify. If the failure persists — redescribed, reframed, but stubbornly present — the boundary hypothesis gains credibility.
 
@@ -159,7 +160,7 @@ Apophatic cartography connects to the Map's [[tenets]] by providing the methodol
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the [[introspective-opacity|introspective opacity]] findings. If consciousness influences physical processes, we might predict that the mechanism would be introspectively inaccessible — we cannot observe the interface we are using. Apophatic cartography can track this specific blindness without requiring direct access to the mechanism.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** relates through the indexical dimension of the method. Apophatic cartography is practiced by *this* observer approaching *these* limits. The method presupposes a determinate perspective from which failures are experienced. Many-worlds, by treating all outcomes as equally real, dissolves the determinate viewpoint that the method requires.
+**[[tenets#^no-many-worlds|No Many Worlds]]** relates through the indexical dimension of the method. Apophatic cartography is practiced by *this* observer approaching *these* limits. The method presupposes that the determinate perspective from which failures are experienced is *uniquely real* — not one copy among infinitely many. Many-worlds preserves a determinate observer per branch but strips indexical uniqueness of metaphysical significance, undermining the evidential weight the method places on *this* mind's encounter with *this* boundary.
 
 ## Further Reading
 
@@ -182,17 +183,3 @@ Apophatic cartography connects to the Map's [[tenets]] by providing the methodol
 5. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
 6. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 7. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
-
-<!-- AI REFINEMENT LOG - 2026-02-19
-Changes made:
-- Added Criterion 4 (Framework Independence) to address pseudoscience validation problem: three original criteria would validate astrology; new criterion requires failure to persist when motivating framework is abandoned
-- Rewrote AI triangulation section to specify three distinct outcomes and clarify that only AI genuinely *solving* the problem (not merely failing differently) counts against a void claim
-- Qualified cross-observer convergence claims for contemplative traditions: distinguished methodological convergence (negation as epistemic tool) from target convergence (what specific boundary is marked)
-- Updated worked example to include framework independence bullet and qualify contemplative tradition convergence
-- Clarified temporal depth of hard problem: distinguished Chalmers' 1995 naming from the longer history of the explanatory gap (Leibniz's mill argument)
-- Applied language improvements: removed editorialising ("This is where the method gains real traction"), replaced defensive phrasing in methodology gap section
-- Updated methodological gap list from 5 to 6 requirements to include framework independence
-
-Based on pessimistic review pessimistic-2026-02-19-afternoon.md (Issues 1, 2, 5, language improvements).
-This log should be removed after human review.
--->

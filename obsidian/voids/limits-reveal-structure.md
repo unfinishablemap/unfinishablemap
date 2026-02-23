@@ -145,6 +145,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis of structural limits
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
+- [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of cognitive slippage
 - [[habituation-void|The Habituation Void]] — How familiarity-limits reveal novelty-orientation in consciousness
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like

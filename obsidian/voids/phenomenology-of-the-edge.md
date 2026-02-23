@@ -143,6 +143,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[scale-void|The Scale Void]] — Another edge: where cosmic distances and deep time exceed comprehension
 - [[voids|Voids in the Map]] — The broader context of cognitive limits and what they reveal
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for engaging with what exceeds articulation
+- [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising edge-phenomenology as evidential data for boundary-mapping
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage and dissolving insights
 - [[habituation-void|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
 - [[mysterianism|Mysterianism]] — Colin McGinn's analysis of cognitive closure

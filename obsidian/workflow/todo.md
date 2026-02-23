@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Integrate apophatic-cartography.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-19). This void article on negative-space epistemology represents a distinctive methodology. Link from related void articles and epistemic-humility.md, mysterianism.md, or methodology pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-22
-
 ### P3: Deep review attention-as-causal-bridge.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment.
@@ -177,6 +171,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Integrate apophatic-cartography.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-19). This void article on negative-space epistemology represents a distinctive methodology. Link from related void articles and epistemic-humility.md, mysterianism.md, or methodology pages.
+- **Output**: obsidian/voids/apophatic-cartography.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-23: Strengthen cross-links between recent articles and existing content
 - **Type**: cross-review

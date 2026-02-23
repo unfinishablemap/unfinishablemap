@@ -216,7 +216,7 @@ Mysterianism connects to all five tenets:
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Mysterianism provides indirect support. Many-worlds eliminates collapse and any role for consciousness in physics. Rejecting many-worlds because it makes indexical identity inexplicable invokes mysterian intuitions.
 
-The Map goes further than mysterianism in making specific commitments—but presents tenets as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. The [[voids]] framework resonates with mysterian themes: McGinn's property "P" might be void territory that we can map at the *edges* through apophatic methods.
+The Map goes further than mysterianism in making specific commitments—but presents tenets as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. The [[voids]] framework resonates with mysterian themes: McGinn's property "P" might be void territory that we can map at the *edges* through [[apophatic-cartography|apophatic methods]].
 
 ## Further Reading
 
@@ -230,6 +230,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
 - [[altered-states-as-void-probes]] — Whether altered states can transcend cognitive closure or merely map its edges
 - [[epistemology-of-cognitive-limits]] — The meta-level question: how can we know our limits?
+- [[apophatic-cartography|Apophatic Cartography]] — Formalising the method for mapping void boundaries with evidential standards
 - [[scale-void]] — Cognitive closure at work: why cosmic distances and deep time resist comprehension
 - [[causal-interface]] — The void between intention and action as cognitive closure in action
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
