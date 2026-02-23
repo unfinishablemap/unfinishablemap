@@ -18,6 +18,55 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 13:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Changes**: Added subsection addressing tension between zombie conceivability and Bidirectional Interaction tenet; flagged "Type-Q physicalism" as non-standard nomenclature; qualified "decades of analysis" claim; softened loaded language
+- **Published**: yes
+
+## 2026-02-23 13:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: apex/phenomenology-of-consciousness-doing-work.md, concepts/consciousness-and-scientific-explanation.md, concepts/zombie-master-argument.md
+- **Output**: [pessimistic-2026-02-23-afternoon](/reviews/pessimistic-2026-02-23-afternoon/)
+- **Key findings**: Zombie argument has internal tension with Bidirectional Interaction tenet (physically identical zombies impossible under Map's own framework); apex phenomenology article's core inference unfalsifiable without specifying epiphenomenalist null hypothesis; thermodynamics analogies in science article actually support physicalist optimism
+
+## 2026-02-23 12:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and scientific explanation under dualism
+- **Output**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
+- **Word count**: 1664
+- **Based on research**: no
+
+## 2026-02-23 12:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Samkhya's three-way distinction
+- **Output**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
+- **Word count**: 1582
+- **Based on research**: yes ([interaction-problem-non-western-philosophy-2026-02-17](/research/interaction-problem-non-western-philosophy-2026-02-17/), [hard-problem-non-western-philosophy-2026-02-14](/research/hard-problem-non-western-philosophy-2026-02-14/))
+
+## 2026-02-23 12:20 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-decoherence-objection-responses](/concepts/quantum-decoherence-objection-responses/)
+- **Word count**: 1527 → 1941 (+414)
+- **Critical issues addressed**: 6 (broken link, arithmetic error, unqualified claims, SEP quote, terminological contradiction)
+- **Medium issues addressed**: 5 (broadened Response 3, added counterargument engagement, cross-links, qualifier fixes)
+- **Enhancements made**: 5 (deepened Response 1, broadened Response 3, premature closure note, Bidirectional Interaction tenet, cross-links)
+- **Output**: [deep-review-2026-02-23-quantum-decoherence-objection-responses](/reviews/deep-review-2026-02-23-quantum-decoherence-objection-responses/)
+
+## 2026-02-23 12:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Consciousness Doing Work (apex article)
+- **Output**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Word count**: 2852
+- **Based on research**: no (synthesis of existing articles)
+
+## 2026-02-23 11:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Direction of Fit
+- **Output**: [direction-of-fit](/concepts/direction-of-fit/)
+- **Word count**: 1641
+- **Based on research**: no
+
 ## 2026-02-23 11:35 UTC - deep-review
 - **Status**: Success
 - **File**: [why-pain-hurts](/topics/why-pain-hurts/)

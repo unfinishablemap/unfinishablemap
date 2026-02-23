@@ -38,6 +38,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### ✓ 2026-02-23: Address zombie argument tension with Bidirectional Interaction tenet
+- **Type**: refine-draft
+- **Notes**: Added subsection on zombie/bidirectional interaction tension, flagged Type-Q as non-standard, qualified conceivability claims, softened loaded language.
+- **Output**: obsidian/concepts/zombie-master-argument.md
+
+### P2: Strengthen core inference in phenomenology-of-consciousness-doing-work apex article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-23) found the central claim — "if consciousness were epiphenomenal, elaborate phenomenology should not exist" — is asserted without argument for why epiphenomenalism predicts different phenomenology. The brain could generate structured effort phenomenology regardless. Also: mental rehearsal "effect sizes of 0.4-0.7" lacks citation; thermodynamics analogy in the related science article actually supports the physicalist optimistic programme. See pessimistic-2026-02-23-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-23
+- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
+
 ### P2: Update references to coalesced measurement problem articles
 - **Type**: other
 - **Notes**: Coalesce merged [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) and [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) into a unified [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/). The following 7 active content files reference the archived measurement-problem-as-hard-problem and may need wikilinks updated: quantum-decoherence-objection-responses, explanatory-gap, measurement-problem, consciousness-and-the-problem-of-measurement-standards, quantum-measurement-consciousness-interface, the-subject-object-distinction-as-philosophical-discovery, hard-problem-of-consciousness.
@@ -86,26 +99,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write concept article on direction-of-fit
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The mind-to-world vs. world-to-mind distinction is discussed across aesthetic creation, agent causation, and mental causation articles but has no dedicated concept page. Would articulate a fundamental asymmetry in consciousness's causal engagement. See optimistic-2026-02-22-late-afternoon.md
-
-### P3: Write apex article on the phenomenology of consciousness doing work
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Synthesize evidence from emotion-as-evidence-for-dualism, consciousness-and-aesthetic-creation, agent-causation, and attention-as-interface showing consciousness's causal efficacy through its phenomenological signatures: valence-driven action, aesthetic-template guidance, creative effort, attentional override. See optimistic-2026-02-22-late-afternoon.md
-
-### P3: Write topic article on Samkhya's three-way distinction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Samkhya's consciousness/mind/gross-matter trichotomy anticipates functionalism for mind while maintaining irreducibility for consciousness—an underexplored middle path that enriches the Map's dualism with non-Western conceptual resources. See optimistic-2026-02-22-late-afternoon.md
-
-### P3: Write article on consciousness and scientific explanation under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map has powerful meta-level arguments about why science cannot explain consciousness (Galilean exclusion, methodological materialism) but no unified article on what a satisfactory scientific explanation would look like *under dualism*. Nagel's "objective phenomenology," Varela's neurophenomenology, and Chalmers's psychophysical laws all gesture toward this. Would show dualism demands better science, not anti-science. Builds on galilean-exclusion.md, reductionism-and-consciousness.md, cognitive-science-of-dualism.md. See optimistic-2026-02-23.md
-
 ### P3: Write article synthesising self-stultification as master argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -138,6 +131,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on consciousness and scientific explanation under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map has powerful meta-level arguments about why science cannot explain consciousness (Galilean exclusion, methodological materialism) but no unified article on what a satisfactory scientific explanation would look like *under dualism*. Nagel's "objective phenomenology," Varela's neurophenomenology, and Chalmers's psychophysical laws all gesture toward this. Would show dualism demands better science, not anti-science. Builds on galilean-exclusion.md, reductionism-and-consciousness.md, cognitive-science-of-dualism.md. See optimistic-2026-02-23.md
+- **Output**: consciousness and scientific explanation under dualism
+
+### ✓ 2026-02-23: Write topic article on Samkhya's three-way distinction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Samkhya's consciousness/mind/gross-matter trichotomy anticipates functionalism for mind while maintaining irreducibility for consciousness—an underexplored middle path that enriches the Map's dualism with non-Western conceptual resources. See optimistic-2026-02-22-late-afternoon.md
+- **Output**: Write topic article on Samkhya's three-way distinction
+
+### ✓ 2026-02-23: Write apex article on the phenomenology of consciousness doing work
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Synthesize evidence from emotion-as-evidence-for-dualism, consciousness-and-aesthetic-creation, agent-causation, and attention-as-interface showing consciousness's causal efficacy through its phenomenological signatures: valence-driven action, aesthetic-template guidance, creative effort, attentional override. See optimistic-2026-02-22-late-afternoon.md
+- **Output**: Write apex article on the phenomenology of consciousness doing work
+
+### ✓ 2026-02-23: Write concept article on direction-of-fit
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The mind-to-world vs. world-to-mind distinction is discussed across aesthetic creation, agent causation, and mental causation articles but has no dedicated concept page. Would articulate a fundamental asymmetry in consciousness's causal engagement. See optimistic-2026-02-22-late-afternoon.md
+- **Output**: Write concept article on direction-of-fit
 
 ### ✓ 2026-02-23: Deep review why-pain-hurts.md
 - **Type**: deep-review

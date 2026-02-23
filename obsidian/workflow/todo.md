@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address zombie argument tension with Bidirectional Interaction tenet
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-23) found that the zombie master argument assumes complete physical identity between conscious and zombie beings, but the Map's Bidirectional Interaction tenet (Tenet 3) implies consciousness makes a physical difference via quantum biasing. Physically identical zombies would be impossible under the Map's own framework. The article should explicitly address this tension — e.g., the zombie argument does its work under minimal dualism (Tenet 1 alone), while the full framework makes zombies impossible as a consequence. Also: "Type-Q physicalism" may not be standard nomenclature and needs flagging. See pessimistic-2026-02-23-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-23
-- **Output**: obsidian/concepts/zombie-master-argument.md
-
 ### P2: Strengthen core inference in phenomenology-of-consciousness-doing-work apex article
 - **Type**: refine-draft
 - **Status**: pending
@@ -133,6 +125,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Address zombie argument tension with Bidirectional Interaction tenet
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-23) found that the zombie master argument assumes complete physical identity between conscious and zombie beings, but the Map's Bidirectional Interaction tenet (Tenet 3) implies consciousness makes a physical difference via quantum biasing. Physically identical zombies would be impossible under the Map's own framework. The article should explicitly address this tension — e.g., the zombie argument does its work under minimal dualism (Tenet 1 alone), while the full framework makes zombies impossible as a consequence. Also: "Type-Q physicalism" may not be standard nomenclature and needs flagging. See pessimistic-2026-02-23-afternoon.md
+- **Output**: Task context:
+Pessimistic review (2026-02-23) found that the zombie master argument assumes complete physical identity between conscious and zombie beings, but the Map's Bidirectional Interaction tenet (Tenet 3) implies consciousness makes a physical difference via quantum biasing. Physically identical zombies would be impossible under the Map's own framework. The article should explicitly address this tension — e.g., the zombie argument does its work under minimal dualism (Tenet 1 alone), while the full framework makes zombies impossible as a consequence. Also: "Type-Q physicalism" may not be standard nomenclature and needs flagging. See pessimistic-2026-02-23-afternoon.md
 
 ### ✓ 2026-02-23: Write article on consciousness and scientific explanation under dualism
 - **Type**: expand-topic
