@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 07:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Word count**: 2844 → 2858 (+14)
+- **Critical issues addressed**: 2 (wrong first author Kaeser→Cai for dopamine paper; wrong Rizzolatti citation year 1987→1994 for premotor theory)
+- **Medium issues addressed**: 2 (unverified cortisol claim removed; stale AI refinement log removed)
+- **Enhancements made**: 0 (article already in strong shape after earlier refinement)
+- **Output**: [[reviews/deep-review-2026-02-23-attention-as-causal-bridge]]
+
 ## 2026-02-23 07:20 UTC - refine-draft
 - **Status**: Success
 - **File**: [[apex/attention-as-causal-bridge]]

@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Deep review attention-as-causal-bridge.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment. Pessimistic review (2026-02-23) identified issues that should be addressed first (see P2 task above).
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
 ### P3: Deep review apophatic-approaches.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-20, making it the most stale reviewed content on the site (33 days). As a voids article on negative-space epistemology, it frames a distinctive methodology. Verify quality, coherence, and alignment with the Map's evolving treatment of cognitive limits and unknowability.
@@ -171,6 +165,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Deep review attention-as-causal-bridge.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) that has never received a deep review since creation (2026-02-14). As a synthesis piece, quality is especially important. Verify coherence, cross-references, and tenet alignment. Pessimistic review (2026-02-23) identified issues that should be addressed first (see P2 task above).
+- **Output**: obsidian/apex/attention-as-causal-bridge.md
 
 ### ✓ 2026-02-23: Address critical issues in attention-as-causal-bridge.md
 - **Type**: refine-draft

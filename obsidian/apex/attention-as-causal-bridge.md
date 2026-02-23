@@ -4,8 +4,8 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-02-14
 human_modified: null
-ai_modified: 2026-02-23T07:20:00+00:00
-last_deep_review: null
+ai_modified: 2026-02-23T07:35:00+00:00
+last_deep_review: 2026-02-23T07:35:00+00:00
 draft: false
 topics:
   - "[[structure-of-attention]]"
@@ -68,13 +68,13 @@ A physicalist can read this as mapping distinct neural circuits—the standard i
 
 **Willed attention** (~300ms): you decide to focus on a difficult passage, to resist distraction, to hold a complex thought in mind. Three neural markers distinguish this from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The salience network acts as a switch, routing processing between stimulus-driven and endogenous control.
 
-The willed mode is where the Map locates genuine conscious contribution. The 300ms timescale is shared with motor selection—Thura and Cisek's (2017) urgency-gating work shows that attention and action share a common selection architecture. This convergence is not coincidental. [[attention-as-selection-interface|Rizzolatti's premotor theory of attention]] (Rizzolatti et al. 1987) demonstrates that attending and preparing to act share neural substrates. Consciousness doesn't need two separate interfaces for thought and action; it has one unified selection mechanism.
+The willed mode is where the Map locates genuine conscious contribution. The 300ms timescale is shared with motor selection—Thura and Cisek's (2017) urgency-gating work shows that attention and action share a common selection architecture. This convergence is not coincidental. [[attention-as-selection-interface|Rizzolatti's premotor theory of attention]] (Rizzolatti, Riggio, & Sheliga 1994) demonstrates that attending and preparing to act share neural substrates. Consciousness doesn't need two separate interfaces for thought and action; it has one unified selection mechanism.
 
 ## Why Effort Matters
 
 The [[mental-effort|felt cost of sustaining attention]] is among the strongest phenomenological evidence for consciousness doing real causal work. William James saw this clearly: "The essential achievement of the will, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind."
 
-Effort tracks difficulty. Maintaining focus on a boring task costs more than attending to something gripping. Kahneman's *Attention and Effort* (1973) confirms this with objective measures: pupil dilation, increased heart rate, elevated cortisol—the body responds as though real work is being done. The effort appears domain-general—mathematical reasoning, resisting temptation, and sustained perceptual focus all produce similar phenomenology of cost—though the "ego depletion" hypothesis that they draw from a single shared resource has faced replication difficulties.
+Effort tracks difficulty. Maintaining focus on a boring task costs more than attending to something gripping. Kahneman's *Attention and Effort* (1973) confirms this with objective measures: pupil dilation and increased heart rate correlate with mental effort—the body responds as though real work is being done. The effort appears domain-general—mathematical reasoning, resisting temptation, and sustained perceptual focus all produce similar phenomenology of cost—though the "ego depletion" hypothesis that they draw from a single shared resource has faced replication difficulties.
 
 For materialists, effort phenomenology poses a puzzle. If the brain is a deterministic system, why does sustaining attention *feel* like work? Why isn't the phenomenology flat—just processing happening, with no associated costliness? The illusionist answer—that the brain models its own processing as effortful—faces a regress: who experiences the model?
 
@@ -94,7 +94,7 @@ The witness mode—observing without selecting—represents a distinct economic 
 
 Clinical evidence illuminates the interface by showing what happens when specific parts break. [[attention-disorders-and-quantum-interface|ADHD, attention fatigue, and meditation deficits]] each reveal different components of the attention-selection system.
 
-ADHD primarily impairs willed attention while leaving exogenous and instructed attention relatively intact. Kaeser et al. (2024) demonstrated in *Nature* that dopamine dynamics are dispensable for movement but promote reward responses—clarifying that dopamine modulates the threshold at which competing neural patterns win the selection competition, not motor capacity itself. In ADHD, this threshold is dysregulated—not consciousness itself, but the gate through which consciousness selects. Stimulant medications recalibrate the threshold without altering phenomenal experience. The three-layer architecture becomes visible: neural computation generates options, dopamine sets the selection threshold, consciousness biases which option crosses the threshold.
+ADHD primarily impairs willed attention while leaving exogenous and instructed attention relatively intact. Cai et al. (2024) demonstrated in *Nature* that dopamine dynamics are dispensable for movement but promote reward responses—clarifying that dopamine modulates the threshold at which competing neural patterns win the selection competition, not motor capacity itself. In ADHD, this threshold is dysregulated—not consciousness itself, but the gate through which consciousness selects. Stimulant medications recalibrate the threshold without altering phenomenal experience. The three-layer architecture becomes visible: neural computation generates options, dopamine sets the selection threshold, consciousness biases which option crosses the threshold.
 
 Attention fatigue shows the interface has running costs. Sustained selection depletes a resource that recovers with rest. The fatigue curve is predictable and domain-general. Motivation can temporarily override fatigue—suggesting consciousness can push harder through the interface when sufficiently motivated—but the underlying depletion is real.
 
@@ -160,12 +160,12 @@ Together these components outline empirical commitments that evidence can challe
 
 - Hagger, M.S., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
 - James, W. (1890). *The Principles of Psychology*.
-- Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
+- Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
 - Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 - Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 - Meister, M. (2024). How the brain processes information: A quantitative estimate. *Neuroscience Research*.
 - Melloni, L., et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
-- Rizzolatti, G., Riggio, L., Dascola, I., & Umiltà, C. (1987). Reorienting attention across the horizontal and vertical meridians. *Neuropsychologia*, 25(1A), 31-40.
+- Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Thura, D. & Cisek, P. (2017). The basal ganglia do not select reach targets but control the urgency of commitment. *Neuron*, 95(5), 1160-1170.
@@ -185,20 +185,3 @@ This apex article synthesises:
 - [[attention-as-selection-interface|Attention as the Selection Interface]] — Technical detail on the unified attention-motor selection mechanism
 - [[phenomenology-of-returning-attention|Phenomenology of Returning Attention]] — Micro-phenomenological analysis of bidirectional interaction
 - [[attention-created-voids|Attention-Created Voids]] — The structural limits of attentional engagement
-
-<!-- AI REFINEMENT LOG - 2026-02-23
-Changes made:
-- Softened dissociation-to-ontology leap: added physicalist reading acknowledgment, changed "proves" to "demonstrating", "defeats" to "challenges", added "consistent with but not compelled by" framing
-- Demoted quantum Zeno mechanism per style guide: changed from "the Map's candidate mechanism" to "one proposed mechanism", added decoherence objections caveat, ensured effort argument stands independently
-- Added References section with 11 proper academic citations for all empirical claims
-- Tempered falsifiability claims: acknowledged predictions test empirical architecture not metaphysics directly, both dualists and physicalists accept the empirical predictions
-- Replaced "proves/defeats" language throughout with appropriately calibrated alternatives
-- Softened exogenous attention claim from "No selection occurs" to "minimal" role for conscious selection
-- Added ego depletion replication caveat to domain-general effort claim
-- Added inline citations (Koch & Tsuchiya 2007, Melloni et al. 2025, Kahneman 1973, Kaeser et al. 2024, Schwartz & Begley 2002, Thura & Cisek 2017, Rizzolatti et al. 1987, Meister 2024)
-
-Based on pessimistic review pessimistic-2026-02-23-attention-bridge.md.
-Key improvements: Epistemic calibration, style guide compliance on QZE, proper citations.
-
-This log should be removed after human review.
--->
