@@ -59,6 +59,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
 
+### P2: Review philosophical-zombies.md considering epistemology of other minds under dualism
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemology-of-other-minds-under-dualism.md examines how dualism handles knowledge of other minds, arguing that Bidirectional Interaction (Tenet 3) provides epistemic access through detectable physical effects of consciousness. concepts/philosophical-zombies.md covers the conceivability of zombies and should cross-reference the new article's treatment of why the epistemological challenge strengthens rather than weakens the dualist case. Check for cross-links and argument reinforcement.
+- **Source**: chain (from epistemology-of-other-minds-under-dualism.md)
+- **Generated**: 2026-02-23
+
+### P2: Review neural-bandwidth-constraints-and-the-interface.md considering bandwidth problem in mental causation
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md directly addresses the timing and bandwidth gap between conscious experience (~10 bits/second) and quantum events (femtosecond timescales). concepts/neural-bandwidth-constraints-and-the-interface.md covers the bandwidth constraint from the neural side and should cross-reference the new article's treatment of hierarchical architecture bridging the gap. Check for complementary arguments and consistent framing.
+- **Source**: chain (from bandwidth-problem-mental-causation.md)
+- **Generated**: 2026-02-23
+
+### P2: Review the-responsibility-gradient.md considering moral implications of genuine agency
+- **Type**: cross-review
+- **Notes**: New article topics/moral-implications-of-genuine-agency.md examines what follows for moral desert, retributive justice, and praise/blame if the Map's account of mental causation is correct. topics/the-responsibility-gradient.md covers degrees of moral responsibility and should cross-reference the new article's crystallisation of the ethical stakes of Tenet 3 (Bidirectional Interaction). Check for cross-links and reinforcing arguments.
+- **Source**: chain (from moral-implications-of-genuine-agency.md)
+- **Generated**: 2026-02-23
+
+### P2: Write article on adaptive computational depth
+- **Type**: expand-topic
+- **Notes**: Research completed in research/adaptive-computational-depth-2026-02-08.md. Examines the idea that a simulated universe might adaptively allocate computational resources depending on whether consciousness is observing, connecting simulation theory to the measurement problem and consciousness-selecting frameworks. Builds on simulation.md, consciousness-selecting-neural-patterns.md, prebiotic-collapse.md. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-23
+
+### P2: Write voids article on evidential weight of voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-evidential-weight-of-voids-2026-02-06.md. Oldest unconsumed voids research. Examines the epistemological question of what cognitive gaps themselves tell us about the nature of consciousness — whether voids constitute positive evidence or merely mark the boundaries of current understanding. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-23
+
+### P2: Write voids article on compound cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Second-oldest unconsumed voids research. Examines how individual cognitive limitations interact and compound, potentially creating emergent blind spots that exceed the sum of their parts. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-23
+
+### P3: Deep review zombie-master-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been reviewed. The zombie master argument is a key piece supporting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and warrants quality assurance.
+- **Source**: staleness
+- **Generated**: 2026-02-23
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
