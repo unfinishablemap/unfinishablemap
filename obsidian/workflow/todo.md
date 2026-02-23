@@ -151,6 +151,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
 
+### P3: Write article on philosophy of science under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map argues consciousness is irreducible but hasn't developed what this means for scientific methodology. How should consciousness science proceed if physicalist reduction is off the table? What does a dualist research programme look like? Builds on consciousness-and-scientific-methodology.md, first-person-vs-third-person-methodology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+
+### P3: Write article on moral implications of genuine agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If the Map's account of free will and mental causation is correct, what follows for moral desert, retributive justice, and praise/blame? Current coverage is scattered across multiple articles. A focused treatment would crystallise the ethical stakes of Tenet 3 (Bidirectional Interaction). Builds on consciousness-and-moral-agency-under-duress.md, the-responsibility-gradient.md, moral-phenomenology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+
+### P3: Write article on anaesthesia and the consciousness interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. General anaesthesia provides the most controlled method for eliminating and restoring consciousness. If specific molecular targets (GABA receptors, NMDA channels) reliably abolish consciousness, what does this reveal about where the interface operates? Strong empirical territory underexploited by the Map. Builds on disorders-of-consciousness.md, loss-of-consciousness.md, neural-correlates-of-consciousness.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+
+### P3: Cross-link motor control, choking, and consciousness-as-activity
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. motor-control-quantum-zeno.md ↔ choking-phenomenon-mental-causation.md (mechanism and evidence), consciousness-as-activity.md ↔ process-haecceitism.md (activity framing and processual identity), hoel-llm-consciousness-continual-learning.md ↔ consciousness-as-activity.md (continual learning maps onto activity framing), pain-asymbolia-as-central-test-case.md ↔ placebo-effect-and-mental-causation.md (complementary empirical test cases). See optimistic-2026-02-23-afternoon.md
+
 ## Completed Tasks
 
 
