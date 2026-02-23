@@ -55,11 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. indian-philosophy-of-mind.md provides independent cross-cultural validation of dualism but is not linked from substance-property-dualism.md, interactionist-dualism.md, or the-case-for-dualism.md. These core articles would benefit from noting that Indian traditions arrived at dualism through independent philosophical traditions over two millennia. See optimistic-2026-02-22.md
-
 ### P3: Deep review control-theoretic-will.md
 - **Type**: deep-review
 - **Status**: pending
@@ -217,6 +212,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
 
 ## Completed Tasks
+
+
+### ✓ 2026-02-23: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. indian-philosophy-of-mind.md provides independent cross-cultural validation of dualism but is not linked from substance-property-dualism.md, interactionist-dualism.md, or the-case-for-dualism.md. These core articles would benefit from noting that Indian traditions arrived at dualism through independent philosophical traditions over two millennia. See optimistic-2026-02-22.md
+- **Output**: None -- Context: Strengthen indian-philosophy-of-mind cross-links to core dualism articles
 
 ### ✓ 2026-02-23: Write article on African philosophy of consciousness
 - **Type**: expand-topic
