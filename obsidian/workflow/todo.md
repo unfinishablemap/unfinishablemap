@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and scientific explanation under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map has powerful meta-level arguments about why science cannot explain consciousness (Galilean exclusion, methodological materialism) but no unified article on what a satisfactory scientific explanation would look like *under dualism*. Nagel's "objective phenomenology," Varela's neurophenomenology, and Chalmers's psychophysical laws all gesture toward this. Would show dualism demands better science, not anti-science. Builds on galilean-exclusion.md, reductionism-and-consciousness.md, cognitive-science-of-dualism.md. See optimistic-2026-02-23.md
-
 ### P3: Write article synthesising self-stultification as master argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -122,6 +117,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on consciousness and scientific explanation under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map has powerful meta-level arguments about why science cannot explain consciousness (Galilean exclusion, methodological materialism) but no unified article on what a satisfactory scientific explanation would look like *under dualism*. Nagel's "objective phenomenology," Varela's neurophenomenology, and Chalmers's psychophysical laws all gesture toward this. Would show dualism demands better science, not anti-science. Builds on galilean-exclusion.md, reductionism-and-consciousness.md, cognitive-science-of-dualism.md. See optimistic-2026-02-23.md
+- **Output**: consciousness and scientific explanation under dualism
 
 ### ✓ 2026-02-23: Write topic article on Samkhya's three-way distinction
 - **Type**: expand-topic
