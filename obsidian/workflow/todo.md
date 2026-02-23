@@ -79,11 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on moral implications of genuine agency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. If the Map's account of free will and mental causation is correct, what follows for moral desert, retributive justice, and praise/blame? Current coverage is scattered across multiple articles. A focused treatment would crystallise the ethical stakes of Tenet 3 (Bidirectional Interaction). Builds on consciousness-and-moral-agency-under-duress.md, the-responsibility-gradient.md, moral-phenomenology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
-
 ### P3: Write article on anaesthesia and the consciousness interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -116,6 +111,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on moral implications of genuine agency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If the Map's account of free will and mental causation is correct, what follows for moral desert, retributive justice, and praise/blame? Current coverage is scattered across multiple articles. A focused treatment would crystallise the ethical stakes of Tenet 3 (Bidirectional Interaction). Builds on consciousness-and-moral-agency-under-duress.md, the-responsibility-gradient.md, moral-phenomenology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+- **Output**: moral implications of genuine agency
 
 ### ✓ 2026-02-23: Write article on philosophy of science under dualism
 - **Type**: expand-topic
