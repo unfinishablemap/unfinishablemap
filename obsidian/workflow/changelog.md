@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 16:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemology of Other Minds Under Dualism
+- **Output**: [[concepts/epistemology-of-other-minds-under-dualism]]
+- **Word count**: 1580
+- **Based on research**: yes, [[problem-of-other-minds-2026-01-14]] and [[voids-other-minds-void-2026-01-27]]
+- **Notes**: Placed in concepts/ (topics/ over cap at 203/200). Focuses on how dualism reshapes epistemic landscape — intensification via ontological gap/zombie possibility, and unique interactionist resources.
+
 ## 2026-02-23 16:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/specious-present-temporal-experience]]

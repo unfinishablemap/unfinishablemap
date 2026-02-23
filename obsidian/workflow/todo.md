@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on epistemology of other minds under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. If consciousness is irreducible to physical processes, how do we know other minds exist? The Map has powerful arguments for consciousness's reality but hasn't developed the epistemic challenge dualism faces regarding other minds. Bidirectional Interaction (Tenet 3) may help—if consciousness makes physical differences, we can detect its presence through effects. Builds on interactionist-dualism.md, philosophical-zombies.md, zombie-master-argument.md. Target section: topics/. See optimistic-2026-02-23-evening.md
-
 ### P3: Write article on contemplative pathology and interface malfunction
 - **Type**: expand-topic
 - **Status**: pending
@@ -107,6 +102,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on epistemology of other minds under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If consciousness is irreducible to physical processes, how do we know other minds exist? The Map has powerful arguments for consciousness's reality but hasn't developed the epistemic challenge dualism faces regarding other minds. Bidirectional Interaction (Tenet 3) may help—if consciousness makes physical differences, we can detect its presence through effects. Builds on interactionist-dualism.md, philosophical-zombies.md, zombie-master-argument.md. Target section: topics/. See optimistic-2026-02-23-evening.md
+- **Output**: epistemology of other minds under dualism
 
 ### ✓ 2026-02-23: Cross-link motor control, choking, and consciousness-as-activity
 - **Type**: cross-review
