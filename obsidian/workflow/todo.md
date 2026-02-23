@@ -55,11 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Strengthen galilean-exclusion cross-links
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. galilean-exclusion.md is the most structurally distinctive argument on the site but is not linked from explanatory-gap.md, consciousness.md, or consciousness-and-strong-emergence.md. These are the articles that would benefit most from its reframing. See optimistic-2026-02-21.md
-
 ### P3: Write article on philosophy of perception and consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -223,6 +218,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Strengthen galilean-exclusion cross-links
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. galilean-exclusion.md is the most structurally distinctive argument on the site but is not linked from explanatory-gap.md, consciousness.md, or consciousness-and-strong-emergence.md. These are the articles that would benefit most from its reframing. See optimistic-2026-02-21.md
+- **Output**: None -- Context: Strengthen galilean-exclusion cross-links
 
 ### ✓ 2026-02-23: Strengthen measurement-problem-as-hard-problem cross-references
 - **Type**: cross-review
