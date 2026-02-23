@@ -211,6 +211,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Samkhya's consciousness/mind/gross-matter trichotomy anticipates functionalism for mind while maintaining irreducibility for consciousness—an underexplored middle path that enriches the Map's dualism with non-Western conceptual resources. See optimistic-2026-02-22-late-afternoon.md
 
+### P3: Write article on consciousness and scientific explanation under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has powerful meta-level arguments about why science cannot explain consciousness (Galilean exclusion, methodological materialism) but no unified article on what a satisfactory scientific explanation would look like *under dualism*. Nagel's "objective phenomenology," Varela's neurophenomenology, and Chalmers's psychophysical laws all gesture toward this. Would show dualism demands better science, not anti-science. Builds on galilean-exclusion.md, reductionism-and-consciousness.md, cognitive-science-of-dualism.md. See optimistic-2026-02-23.md
+
+### P3: Write article synthesising self-stultification as master argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Self-stultification appears across multiple articles (epiphenomenalism, eliminativism, illusionism, argument-from-reason) but has not been developed as a unified "master argument" showing every denial of consciousness's causal efficacy is epistemically self-defeating. A synthesis demonstrating the pattern across positions would be the Map's strongest single argument for Tenet 3. Builds on self-stultification.md, argument-from-reason.md, epiphenomenalism.md, consciousness-as-amplifier.md. See optimistic-2026-02-23.md
+
+### P3: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The transparency test's failure for consciousness is partly *explained* by Galilean exclusion: the method was designed to exclude what the test looks for. Also link perception-and-conscious-experience.md to blindsight.md, choking-phenomenon-mental-causation.md to embodied-consciousness-and-the-interface.md (Dreyfus model), measurement-problem-as-hard-problem.md to indexical-identity-quantum-measurement.md. See optimistic-2026-02-23.md
+
 ## Completed Tasks
 
 
