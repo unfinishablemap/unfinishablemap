@@ -55,6 +55,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
+### P2: Address argument gaps in simulation hypothesis article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) the player-game analogy does too much work despite acknowledged weakness—needs either a stronger argument for why the inside/outside distinction doesn't matter, or a weaker conclusion; (2) the "diagnostic tool" claim is underdifferentiated from generic Cartesian skepticism—needs explicit distinction from brain-in-a-vat scenarios. See pessimistic-2026-02-23.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-23
+
 ### P3: Strengthen measurement-problem-as-hard-problem cross-references
 - **Type**: cross-review
 - **Status**: pending
