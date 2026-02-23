@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 12:52:00+00:00
+ai_modified: 2026-02-23 13:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -50,7 +50,9 @@ Under dualism, neuroscience explains exactly what it explains under physicalism:
 
 Consider the [neural correlates of consciousness](/concepts/neural-correlates-of-consciousness/) (NCCs). NCC research identifies which neural activity patterns are present when specific experiences occur — which regions activate during visual awareness, which oscillatory patterns accompany attention, which disruptions eliminate consciousness entirely. This research is valuable under any metaphysics. Under physicalism, NCCs are (or constitute) consciousness. Under dualism, NCCs are the physical conditions that correlate with consciousness — the interface through which mind and brain connect.
 
-The empirical predictions are identical. Whether the relationship is identity or correlation, the same experiments are informative, the same neural disruptions eliminate the same experiences, and the same imaging data maps the same functional relationships. The difference is in what the findings *mean*, not in what they *are*.
+At the level of current neuroscience — fMRI, EEG, lesion studies — the empirical predictions are effectively identical. Whether the relationship is identity or correlation, the same experiments are informative, the same neural disruptions eliminate the same experiences, and the same imaging data maps the same functional relationships. The difference at this scale is in what the findings *mean*, not in what they *are*.
+
+However, the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet predicts that consciousness biases otherwise indeterminate quantum outcomes in neural systems. In principle, this means a conscious system and an unconscious but physically similar system would show subtly different distributions of quantum outcomes — a difference currently below detection thresholds but not identical in principle. This is actually a strength: it means the Map's dualism is not empirically vacuous but makes predictions that could in principle be tested as measurement technology advances.
 
 Dualism does make one additional prediction that physicalism does not: that the correlation between neural activity and conscious experience is lawful but not identical. This means the [explanatory-gap](/concepts/explanatory-gap/) is not a temporary gap in scientific understanding but a permanent feature reflecting a genuine ontological distinction. Under physicalism, the gap should eventually close as neuroscience matures. Under dualism, the gap is the signature of two genuinely distinct domains standing in regular relation.
 
@@ -64,7 +66,11 @@ Reduction is not the only form of scientific explanation, even within the physic
 
 **Chemistry before atomic theory** classified elements, predicted reactions, and discovered conservation principles — all without knowing what elements *were* at the fundamental level. Dalton's atomic theory eventually provided a reductive foundation, but the explanatory work of pre-atomic chemistry was not mere description awaiting real explanation.
 
-The pattern is clear: science regularly discovers lawful regularities between domains before (and sometimes without) reducing one to the other. If consciousness and neural activity stand in lawful relations that resist reduction, this places the mind-body relationship in well-established scientific company.
+A physicalist can respond that all three examples were *eventually* reduced — thermodynamics to statistical mechanics, Ohm's law to electron theory, chemical regularities to atomic structure. These cases illustrate the success of the reductive programme, not its limits. The physicalist's optimistic induction says: every previous explanatory gap closed, so this one will too.
+
+The Map acknowledges the force of this objection. The consciousness case is disanalogous in a specific way: we have direct acquaintance with the explanandum. In thermodynamics, chemistry, and electronics, the "gap" reflected ignorance of the phenomena themselves — no one had direct access to molecules, atoms, or electrons. With consciousness, we know the phenomenon more intimately than we know anything else, and the gap persists precisely because we can see that physical description does not capture what we directly know. The reductive pattern holds for cases where both sides of the reduction are third-person observables. Whether it extends to the relationship between third-person physical description and first-person experience is the question at issue, not something the historical pattern settles.
+
+The broader point stands: science regularly operates with non-reductive lawful regularities, sometimes for extended periods and sometimes permanently (fundamental constants, for example, are brute regularities that resist further explanation). If consciousness and neural activity stand in lawful relations that resist reduction, this places the mind-body relationship in scientifically respectable company — while the disanalogy with previous reductions gives reason to think this particular gap may be permanent.
 
 ## Psychophysical Laws as Scientific Discoveries
 
@@ -96,7 +102,7 @@ This division does not mean giving up. It means recognising that different quest
 
 ## Objections Considered
 
-**"Non-reductive explanation is not real explanation."** This amounts to stipulating that only reduction counts as explanation — a definition that excludes thermodynamics before Boltzmann, chemistry before Dalton, and phenomenological laws throughout physics. If the definition must be narrowed to exclude consciousness, the narrowing is ad hoc.
+**"Non-reductive explanation is not real explanation."** This amounts to stipulating that only reduction counts as explanation — a definition that excludes thermodynamics before Boltzmann, chemistry before Dalton, and phenomenological laws throughout physics. The physicalist's rejoinder — that those cases were eventually reduced — is addressed in the section on non-reductive explanation: the consciousness case is disanalogous because we have direct acquaintance with the explanandum in a way that was never true for temperature or chemical bonding.
 
 **"Psychophysical laws are just brute correlations."** All fundamental laws are, at bottom, brute. Why does mass curve spacetime? General relativity describes the relationship without explaining *why* it holds. Psychophysical laws would be in the same position — lawful regularities without deeper explanation. This is how fundamental science always terminates.
 
@@ -130,3 +136,17 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens 
 - Dennett, D. C. (1995). *Darwin's Dangerous Idea*. Simon & Schuster.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+
+<!-- AI REFINEMENT LOG - 2026-02-23
+Changes made:
+- Acknowledged that thermodynamics/Ohm's law/pre-atomic chemistry analogies were all eventually reduced, supporting the physicalist's optimistic programme
+- Added argument for why the consciousness case is disanalogous: direct acquaintance with the explanandum
+- Qualified "empirical predictions are identical" to "effectively identical at current detection scales"
+- Added paragraph noting Minimal Quantum Interaction tenet predicts in-principle detectable differences, making the position less empirically vacuous
+- Updated first objection response to cross-reference the strengthened non-reductive explanation section
+
+Based on pessimistic review 2026-02-23 afternoon.
+Key improvements: Article now honestly addresses the strongest version of the reductive analogy objection and resolves internal tension with Tenet 2.
+
+This log should be removed after human review.
+-->

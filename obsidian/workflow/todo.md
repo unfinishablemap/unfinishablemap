@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen core inference in phenomenology-of-consciousness-doing-work apex article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-23) found the central claim — "if consciousness were epiphenomenal, elaborate phenomenology should not exist" — is asserted without argument for why epiphenomenalism predicts different phenomenology. The brain could generate structured effort phenomenology regardless. Also: mental rehearsal "effect sizes of 0.4-0.7" lacks citation; thermodynamics analogy in the related science article actually supports the physicalist optimistic programme. See pessimistic-2026-02-23-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-23
-- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
-
-### P2: Update references to coalesced measurement problem articles
-- **Type**: other
-- **Notes**: Coalesce merged [[measurement-problem-as-hard-problem]] and [[the-measurement-problem-as-philosophical-problem]] into a unified [[the-measurement-problem-as-philosophical-problem]]. The following 7 active content files reference the archived measurement-problem-as-hard-problem and may need wikilinks updated: quantum-decoherence-objection-responses, explanatory-gap, measurement-problem, consciousness-and-the-problem-of-measurement-standards, quantum-measurement-consciousness-interface, the-subject-object-distinction-as-philosophical-discovery, hard-problem-of-consciousness.
-- **Source**: coalesce
-- **Generated**: 2026-02-23
-
 ### P2: Update references to coalesced dream consciousness articles
 - **Type**: other
 - **Notes**: Coalesce merged [[lucid-dreaming-and-consciousness]], [[dreams-problem-solving-and-consciousness]], and [[dream-consciousness-and-the-filter-model]] into [[dream-consciousness]]. The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
@@ -125,6 +111,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Strengthen core inference in phenomenology-of-consciousness-doing-work apex article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-23) found the central claim — "if consciousness were epiphenomenal, elaborate phenomenology should not exist" — is asserted without argument for why epiphenomenalism predicts different phenomenology. The brain could generate structured effort phenomenology regardless. Also: mental rehearsal "effect sizes of 0.4-0.7" lacks citation; thermodynamics analogy in the related science article actually supports the physicalist optimistic programme. See pessimistic-2026-02-23-afternoon.md
+- **Output**: Task context:
+Pessimistic review (2026-02-23) found the central claim — "if consciousness were epiphenomenal, elaborate phenomenology should not exist" — is asserted without argument for why epiphenomenalism predicts different phenomenology. The brain could generate structured effort phenomenology regardless. Also: mental rehearsal "effect sizes of 0.4-0.7" lacks citation; thermodynamics analogy in the related science article actually supports the physicalist optimistic programme. See pessimistic-2026-02-23-afternoon.md
 
 ### ✓ 2026-02-23: Address zombie argument tension with Bidirectional Interaction tenet
 - **Type**: refine-draft

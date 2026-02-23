@@ -18,6 +18,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 13:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Changes**: Replaced bare epiphenomenalism assertion with explicit tracking argument; replaced uncited effect sizes with meta-analysis references; toned down overstatements; strengthened core argument in opening, effort section, and synthesis
+- **Published**: yes
+
+## 2026-02-23 13:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
+- **Changes**: Acknowledged thermodynamics analogies support physicalist optimism; added disanalogy argument (direct acquaintance); qualified "identical predictions" claim to resolve tension with Tenet 2; updated objections section
+- **Published**: yes
+
 ## 2026-02-23 13:20 UTC - refine-draft
 - **Status**: Success
 - **File**: [zombie-master-argument](/concepts/zombie-master-argument/)

@@ -4,7 +4,7 @@ description: "What does it feel like when consciousness acts on matter? Effort, 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T12:07:00+00:00
+ai_modified: 2026-02-23T13:36:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -44,7 +44,7 @@ apex_last_synthesis: 2026-02-23T12:07:00+00:00
 apex_thesis: "The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that cross-cultural evidence confirms and materialist accounts cannot adequately explain."
 ---
 
-The Unfinishable Map holds that consciousness does real work — that it selects among physical possibilities the brain generates, biasing quantum indeterminacies toward outcomes that reflect what we intend, value, and deliberate about. Other apex articles address the mechanism (attention as the [[attention-as-causal-bridge|causal bridge]]) and the philosophical case for agency ([[consciousness-and-agency|consciousness and agency]]). This article asks a different question: what does the work *feel like*? The phenomenology of consciousness in action — its texture, structure, and cross-cultural invariants — constitutes evidence in its own right. If consciousness were epiphenomenal, the elaborate phenomenological profile of doing should not exist. That it does, and that its features form a coherent pattern across independent lines of evidence, is among the strongest reasons to take mental causation seriously.
+The Unfinishable Map holds that consciousness does real work — that it selects among physical possibilities the brain generates, biasing quantum indeterminacies toward outcomes that reflect what we intend, value, and deliberate about. Other apex articles address the mechanism (attention as the [[attention-as-causal-bridge|causal bridge]]) and the philosophical case for agency ([[consciousness-and-agency|consciousness and agency]]). This article asks a different question: what does the work *feel like*? The phenomenology of consciousness in action — its texture, structure, and cross-cultural invariants — constitutes evidence in its own right. The physicalist can grant that the brain generates phenomenology, but under epiphenomenalism there is no reason the phenomenological profile should *track genuine cognitive demand* — no reason effort should scale with difficulty, selection should correlate with open alternatives, or holding should deplete with duration. That systematic tracking is a brute coincidence if consciousness is disconnected from the processes it mirrors, but a natural consequence if phenomenology reflects real causal engagement. That the features form a coherent pattern across independent lines of evidence is significant evidence for taking mental causation seriously.
 
 The argument builds through four phenomenological features of consciousness at work, examines test cases that reveal these features in action, and shows that cross-cultural evidence confirms the profile's universality.
 
@@ -56,7 +56,7 @@ The most immediate phenomenological signature of consciousness at work is [[ment
 
 Effort phenomenology has a specific structure. It scales with difficulty — hard tasks feel harder than easy ones. It depletes — sustained effort leads to fatigue that recovers with rest. It can be voluntarily intensified — you can try harder, and the increase in effort is phenomenologically accessible. And it feels categorically different from physical exertion — mental tiredness after sustained reasoning is not the same as muscular tiredness after lifting weights.
 
-If consciousness were causally inert, this elaborate effort phenomenology would be inexplicable. A purely passive observer has nothing to be tired from. The epiphenomenalist must explain why a causally disconnected consciousness so reliably tracks exactly those situations where neural processing is genuinely demanding as "effortful." The illusionist must explain why the "illusion" of effort scales with objective cognitive load rather than varying randomly or dissipating under careful introspection. In practice, [[meditation-and-consciousness-modes|contemplative training]] *refines* the effort distinction rather than dissolving it — experienced meditators report clearer discrimination between effortful and effortless states, not a collapse of the distinction into illusion.
+A physicalist can respond that the brain's resource-monitoring systems generate the feeling of effort regardless of whether a separate non-physical entity is involved. This is correct as far as it goes — but it does not explain the *tracking*. If consciousness is epiphenomenal, the correlation between felt effort and objective cognitive load is a brute regularity requiring independent explanation. The brain generates both the processing and the feeling, but under epiphenomenalism there is no reason the feeling should so precisely mirror the processing rather than varying arbitrarily or remaining constant. The Map's framework offers a simpler account: the feeling tracks the load because consciousness is doing the work that generates the load. The illusionist must explain why the "illusion" of effort scales with objective cognitive load rather than varying randomly or dissipating under careful introspection. In practice, [[meditation-and-consciousness-modes|contemplative training]] *refines* the effort distinction rather than dissolving it — experienced meditators report clearer discrimination between effortful and effortless states, not a collapse of the distinction into illusion.
 
 ### Selection: The Feel of Choosing
 
@@ -95,7 +95,7 @@ Three phenomena reveal these four features in action and illuminate their relati
 
 ### Mental Imagery as Demonstrable Work
 
-[[mental-imagery-causal-role-of-consciousness|Voluntary mental imagery]] provides one of the most concrete demonstrations of consciousness doing measurable work. Athletes who mentally rehearse movements improve performance with effect sizes of 0.4-0.7. The improvement depends on the *content* of what is consciously imagined — rehearsing a piano passage improves that passage, not unrelated ones. All four features are present: effort (imagery takes work), selection (you choose what to imagine), holding (you sustain the image over time), and opacity (you cannot observe how imagining produces motor improvement).
+[[mental-imagery-causal-role-of-consciousness|Voluntary mental imagery]] provides a concrete demonstration of consciousness doing measurable work. Meta-analyses of mental practice research consistently find moderate to large positive effects on motor performance (Driskell et al., 1994; Feltz & Landers, 1983). The improvement depends on the *content* of what is consciously imagined — rehearsing a piano passage improves that passage, not unrelated ones. All four features are present: effort (imagery takes work), selection (you choose what to imagine), holding (you sustain the image over time), and opacity (you cannot observe how imagining produces motor improvement).
 
 The voluntary/involuntary dissociation in imagery is especially revealing. Voluntary imagery — deliberate visualisation, mental rotation, creative planning — is mediated by the lateral prefrontal cortex. Involuntary imagery — dreams, flashbacks, earworms — operates independently. These are not merely different descriptions of the same process but different neural systems with different capacities. Damage to the LPFC impairs voluntary imagery while leaving dreaming intact. The system associated with conscious control enables cognitive functions — planning, counterfactual reasoning, creative combination — that the system without it does not.
 
@@ -135,13 +135,13 @@ The four features — effort, selection, holding, opacity — form a coherent pr
 
 **Phenomenological analysis** (choice, agency-passivity) identifies the features from first-person investigation. **Neuroscience** (willed-instructed attention distinction, LPFC-mediated imagery) provides third-person correlates that track the phenomenological distinctions. **Evolutionary theory** explains why the features exist — a consciousness that does genuine causal work should feel like work, should involve selection, should require sustained engagement, and should operate through a mechanism below introspective access. **Cross-cultural evidence** shows the profile persists across traditions that interpret it radically differently. **Clinical dissociations** (anarchic hand, depersonalisation, thought insertion) reveal what happens when individual features are stripped away, confirming that the profile comprises separable components rather than a single undifferentiated sensation.
 
-The convergence is the argument. No single line of evidence is decisive — a determined physicalist can accommodate each finding individually. But the pattern across evidence types is more naturally explained by the Map's framework, in which consciousness genuinely selects among physical possibilities, than by accounts in which the entire phenomenological profile is decorative. A consciousness that does nothing should not feel like it is doing something in such a specific, structured, cross-culturally stable, neurally correlated, and evolutionarily predicted way.
+The convergence is the argument. No single line of evidence is decisive — a determined physicalist can accommodate each finding individually. But the pattern across evidence types is more naturally explained by the Map's framework, in which consciousness genuinely selects among physical possibilities, than by accounts in which the entire phenomenological profile is decorative. The physicalist must explain why a causally disconnected consciousness would systematically track genuine cognitive demand — why effort scales with difficulty, why selection maps onto open alternatives, why holding depletes over time — rather than varying independently. Under the Map's framework, these correlations are expected: the phenomenology tracks the work because consciousness is doing the work.
 
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: The phenomenological profile of working consciousness resists reduction to neural description. Third-person accounts of brain activity during willed versus automatic processing capture functional differences without capturing what it is like to be the agent doing the work. The qualitative character of effort, the felt openness during selection, the distinctive exhaustion of sustained holding — these are phenomenal features that structural and functional descriptions leave out. The profile provides first-person evidence for the irreducibility that dualism claims.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The entire phenomenological profile is evidence for this tenet. If consciousness were passive, the elaborate structure of felt work — effort scaling with difficulty, selection between live alternatives, sustained holding against dissipation — would be an inexplicable coincidence. The profile is what interaction should feel like from the inside.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The entire phenomenological profile is evidence for this tenet. If consciousness were passive, the systematic correlation between felt work and genuine cognitive demand — effort scaling with difficulty, selection correlating with open alternatives, sustained holding depleting with duration — would be a regularity requiring independent explanation. The Map's framework provides a natural account: the profile is what interaction should feel like from the inside.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Opacity — the fourth feature — is consistent with consciousness operating at quantum indeterminacies below introspective resolution. The effort feature may reflect the cost of sustained observation in the quantum Zeno sense. The selection feature corresponds to biasing among physically permitted outcomes. The holding feature corresponds to repeated measurement events maintaining desired patterns. The phenomenological profile maps onto the proposed mechanism, though the Map does not claim certainty about the mechanism itself.
 
@@ -166,8 +166,25 @@ This apex article synthesises:
 ## References
 
 - Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
+- Driskell, J. E., Copper, C. & Moran, A. (1994). Does mental practice enhance performance? *Journal of Applied Psychology*, 79(4), 481-492.
+- Feltz, D. L. & Landers, D. M. (1983). The effects of mental practice on motor skill learning and performance: A meta-analysis. *Journal of Sport Psychology*, 5(1), 25-57.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 - Markus, H. R. & Kitayama, S. (1991). Culture and the Self: Implications for Cognition, Emotion, and Motivation. *Psychological Review*, 98(2), 224-253.
 - Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+
+<!-- AI REFINEMENT LOG - 2026-02-23
+Changes made:
+- Replaced bare assertion that epiphenomenalism predicts no structured phenomenology with explicit argument about tracking (opening paragraph, effort section, synthesis)
+- Replaced uncited "effect sizes of 0.4-0.7" with properly cited meta-analysis references (Driskell et al. 1994, Feltz & Landers 1983)
+- Toned down "among the strongest reasons" → "significant evidence"
+- Replaced "inexplicable coincidence" → "regularity requiring independent explanation"
+- Replaced "one of the most concrete demonstrations" → "a concrete demonstration"
+- Strengthened epiphenomenalism counterargument: now explains why tracking is the problem, not mere existence of phenomenology
+
+Based on pessimistic review 2026-02-23 afternoon.
+Key improvements: Core argument now addresses the strongest physicalist objection (brain generates phenomenology regardless) rather than assuming it away.
+
+This log should be removed after human review.
+-->
