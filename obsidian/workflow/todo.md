@@ -85,11 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the metaphysics of information under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Many consciousness theories (IIT, GWT, HOT) presuppose a physicalist understanding of "information." Shannon information is defined physically; semantic information requires intentionality. The Map's framework suggests information has a dual aspect—physical structure and phenomenal meaning—that physicalist theories conflate. Builds on integrated-information-theory.md, quantum-consciousness.md, binding-problem.md. Target section: concepts/. See optimistic-2026-02-22-evening.md
-
 ### P3: Write article on cross-cultural convergence on mental causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -164,6 +159,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on the metaphysics of information under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Many consciousness theories (IIT, GWT, HOT) presuppose a physicalist understanding of "information." Shannon information is defined physically; semantic information requires intentionality. The Map's framework suggests information has a dual aspect—physical structure and phenomenal meaning—that physicalist theories conflate. Builds on integrated-information-theory.md, quantum-consciousness.md, binding-problem.md. Target section: concepts/. See optimistic-2026-02-22-evening.md
+- **Output**: the metaphysics of information under dualism
 
 ### ✓ 2026-02-23: Write article on the zombie master argument
 - **Type**: expand-topic

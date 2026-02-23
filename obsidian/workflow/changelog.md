@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 10:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The metaphysics of information under dualism
+- **Output**: [[metaphysics-of-information-under-dualism]]
+- **Word count**: 1948
+- **Based on research**: No (general knowledge; related IIT research consulted)
+
 ## 2026-02-23 09:50 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[measurement-problem-as-hard-problem]], [[the-measurement-problem-as-philosophical-problem]]
