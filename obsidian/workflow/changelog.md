@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 09:05 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Consciousness and attention dissociation
+- **Reason**: Article already exists at [[attention-consciousness-dissociation]] (created 2026-02-05, deep-reviewed 2026-02-05). Todo task marked as complete (duplicate).
+
 ## 2026-02-23 08:50 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Emotional consciousness and valence

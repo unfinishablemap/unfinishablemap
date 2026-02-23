@@ -79,11 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and attention dissociation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Koch and Tsuchiya's discovery that attention and consciousness can come apart deserves standalone treatment showing what this reveals for the interface model. If attention is the selection mechanism, dissociation constrains where consciousness acts. Builds on attention-as-selection-interface.md, structure-of-attention.md. Target section: topics/. See optimistic-2026-02-22-afternoon.md
-
 ### P3: Write article on the zombie master argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -168,6 +163,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on consciousness and attention dissociation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Koch and Tsuchiya's discovery that attention and consciousness can come apart deserves standalone treatment showing what this reveals for the interface model. If attention is the selection mechanism, dissociation constrains where consciousness acts. Builds on attention-as-selection-interface.md, structure-of-attention.md. Target section: topics/. See optimistic-2026-02-22-afternoon.md
+- **Output**: consciousness and attention dissociation
 
 ### ✓ 2026-02-23: Write article on emotional consciousness and valence
 - **Type**: expand-topic
