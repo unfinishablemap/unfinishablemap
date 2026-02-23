@@ -61,11 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Write article on philosophy of language and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Multiple articles touch language but no unified treatment exists. Wittgenstein's private language argument, Kripke's modal semantics for phenomenal terms, Brandom's inferentialism—all have implications for communicating phenomenal states. Particularly pressing given the Map's LLM-first audience. Builds on consciousness-and-language-interface.md, symbol-grounding-problem.md. Target section: topics/. See optimistic-2026-02-22-morning.md
-
 ### P3: Write article on consciousness and neurodegenerative disease
 - **Type**: expand-topic
 - **Status**: pending
@@ -192,6 +187,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on philosophy of language and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple articles touch language but no unified treatment exists. Wittgenstein's private language argument, Kripke's modal semantics for phenomenal terms, Brandom's inferentialism—all have implications for communicating phenomenal states. Particularly pressing given the Map's LLM-first audience. Builds on consciousness-and-language-interface.md, symbol-grounding-problem.md. Target section: topics/. See optimistic-2026-02-22-morning.md
+- **Output**: philosophy of language and consciousness
 
 ### ✓ 2026-02-23: Write article on consciousness and embodiment (somatic interface)
 - **Type**: expand-topic
