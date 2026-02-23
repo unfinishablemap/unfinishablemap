@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 20:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Bandwidth Problem in Mental Causation
+- **Output**: [[concepts/bandwidth-problem-mental-causation]]
+- **Word count**: 1454
+- **Based on research**: Partially (used [[downward-causation-mental-causation-2026-01-15]])
+
 ## 2026-02-23 20:35 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Broad survey of 280 non-draft articles; deep reading of 40 representative articles spanning core arguments, phenomenology series, quantum/interface topics, key concepts, cross-disciplinary applications, and critique articles
