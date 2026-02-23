@@ -59,7 +59,7 @@ topics: []
 
 - Expanded temporal complexity section with musical suspense example
 - Added defense of normative gap independence
-- Added cross-links: `[inverted-qualia](/concepts/inverted-qualia/)`, `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`, `[temporal-consciousness](/concepts/temporal-consciousness/)`, `[consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)`, `[consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/)`, `[epiphenomenalism](/concepts/epiphenomenalism/)`, `[consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)`, `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`, `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`
+- Added cross-links: `[inverted-qualia](/concepts/inverted-qualia/)`, `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`, `[temporal-consciousness](/concepts/temporal-consciousness/)`, `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)`, `[consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/)`, `[epiphenomenalism](/concepts/epiphenomenalism/)`, `[consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)`, `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`, `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`
 - Added `[emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/)` and `[consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/)` to Further Reading
 - Integrated all four previously unused references into body text
 - Added Byrne & Hilbert and Trehub citations for empirical claims
@@ -71,7 +71,7 @@ topics: []
 
 - `[inverted-qualia](/concepts/inverted-qualia/)` in aesthetic conceivability section
 - `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)` in gestalt dependence section
-- `[temporal-consciousness](/concepts/temporal-consciousness/)` and `[consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)` in temporal complexity section
+- `[temporal-consciousness](/concepts/temporal-consciousness/)` and `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)` in temporal complexity section
 - `[consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/)` in bidirectional interaction section
 - `[epiphenomenalism](/concepts/epiphenomenalism/)` in bidirectional interaction section
 - `[consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)` in normative gap section

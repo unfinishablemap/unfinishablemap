@@ -112,7 +112,7 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 - [temporal-thickness](/concepts/temporal-thickness/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)

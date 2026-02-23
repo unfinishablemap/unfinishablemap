@@ -116,7 +116,7 @@ Whether consciousness comes in discrete frames or continuous flow remains debate
 
 ## Temporal Unity and Its Disruption
 
-Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [unity of consciousness](/concepts/unity-of-consciousness/). The Map's treatment of [temporal integration](/topics/consciousness-and-temporal-integration/) distinguishes micro-integration (within the specious present), meso-integration (across successive presents), and macro-integration (the [temporal self](/concepts/episodic-memory/) spanning a lifetime).
+Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [unity of consciousness](/concepts/unity-of-consciousness/). The Map's treatment of [temporal integration](/topics/temporal-structure-of-consciousness/) distinguishes micro-integration (within the specious present), meso-integration (across successive presents), and macro-integration (the [temporal self](/concepts/episodic-memory/) spanning a lifetime).
 
 Temporal unity can degrade, revealing it as contingent rather than automatic. **Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact—patients report actions feeling disconnected from consequences (Fuchs, 2007). [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) connects this to broader ipseity disturbance. **Flow states** alter temporal unity differently: moments become intensely vivid yet loosely coupled, producing "timelessness" within ongoing experience.
 
@@ -181,7 +181,7 @@ Temporal consciousness connects to all five tenets:
 - [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel and the temporal self
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series and the Map's growing block position
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How moments bind into a temporal stream
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into a temporal stream
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis of process philosophy and the Map's framework
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness

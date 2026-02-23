@@ -34,7 +34,7 @@ topics:
 - '[[temporal-structure-of-consciousness]]'
 ---
 
-Consciousness may not be fundamentally temporal. The Unfinishable Map's treatment of [temporal structure](/topics/temporal-structure-of-consciousness/) and [temporal integration](/topics/consciousness-and-temporal-integration/) examines how consciousness organises time — the specious present, retention-protention, durée. Those articles argue that temporal structure is constitutive of conscious experience. But a prior question lurks beneath these analyses: does consciousness itself exist *in* time, or does it constitute time from a position outside it? If the deepest level of consciousness is non-temporal — if time is something consciousness produces rather than something it inhabits — then the irreducibility of mind to matter follows directly. Physical processes are inherently temporal. A non-temporal consciousness would be categorically different from anything physics describes.
+Consciousness may not be fundamentally temporal. The Unfinishable Map's treatment of [temporal structure](/topics/temporal-structure-of-consciousness/) and [temporal integration](/topics/temporal-structure-of-consciousness/) examines how consciousness organises time — the specious present, retention-protention, durée. Those articles argue that temporal structure is constitutive of conscious experience. But a prior question lurks beneath these analyses: does consciousness itself exist *in* time, or does it constitute time from a position outside it? If the deepest level of consciousness is non-temporal — if time is something consciousness produces rather than something it inhabits — then the irreducibility of mind to matter follows directly. Physical processes are inherently temporal. A non-temporal consciousness would be categorically different from anything physics describes.
 
 "Non-temporal" carries two distinct meanings in what follows. Husserl's absolute flow is *metaphysically* non-temporal — it does not exist within the temporal order. Meditative timelessness is *phenomenologically* atemporal — experience lacks temporal markers while the meditator's brain continues operating in time. These are different claims, but they converge: if the deepest level of consciousness is metaphysically non-temporal (Husserl), we might expect that accessing it strips away phenomenal temporal structure (meditation). The metaphysical thesis explains the phenomenological finding.
 
@@ -118,7 +118,7 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness requires and constitutes temporal structure
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How moments bind into experiential flow
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into experiential flow
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Meditation as phenomenological data
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The problem of experiential unity

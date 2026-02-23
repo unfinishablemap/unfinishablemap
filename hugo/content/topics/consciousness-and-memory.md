@@ -171,7 +171,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/)
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/)
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/)
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 
 ## References
 

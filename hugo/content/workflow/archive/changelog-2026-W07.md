@@ -2586,7 +2586,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 01:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Temporal Integration
-- **Output**: [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
+- **Output**: [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 - **Word count**: 2226
 - **Based on research**: yes, [temporal-structure-consciousness-2026-01-14](/research/temporal-structure-consciousness-2026-01-14/), [specious-present-temporal-experience-2026-01-16](/research/specious-present-temporal-experience-2026-01-16/), [consciousness-time-perception-2026-01-14](/research/consciousness-time-perception-2026-01-14/), [binding-problem-consciousness-2026-01-14](/research/binding-problem-consciousness-2026-01-14/)
 

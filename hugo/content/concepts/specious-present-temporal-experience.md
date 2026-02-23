@@ -100,7 +100,7 @@ This parallels the standard [qualia](/concepts/qualia/) arguments but targets a 
 ## Further Reading
 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Comprehensive treatment of time in consciousness, including Bergson's durée and AI implications
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How moments bind into a temporal stream at micro, meso, and macro scales
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into a temporal stream at micro, meso, and macro scales
 - [temporal-consciousness-void](/voids/temporal-consciousness-void/) — The void of being confined to a moving present
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's modified growing block
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow

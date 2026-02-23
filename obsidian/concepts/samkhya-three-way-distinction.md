@@ -22,7 +22,7 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[eastern-philosophy-consciousness]]"
-  - "[[consciousness-and-attention-dissociation]]"
+  - "[[attention-consciousness-dissociation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -90,7 +90,7 @@ This separates two things that Western philosophy typically bundles: phenomenal 
 
 ### The Attention-Consciousness Dissociation
 
-Recent work in cognitive science has documented cases where attention and consciousness dissociate—where attentional processing occurs without phenomenal awareness, or awareness persists without directed attention. Samkhya anticipated this possibility structurally. Attention is a function of *manas* (coordinating mind)—a material process. Consciousness is *purusha*—categorically different. Their dissociation is not anomalous; it follows from their being fundamentally different kinds of thing. See [[consciousness-and-attention-dissociation]] for contemporary evidence bearing on this distinction.
+Recent work in cognitive science has documented cases where attention and consciousness dissociate—where attentional processing occurs without phenomenal awareness, or awareness persists without directed attention. Samkhya anticipated this possibility structurally. Attention is a function of *manas* (coordinating mind)—a material process. Consciousness is *purusha*—categorically different. Their dissociation is not anomalous; it follows from their being fundamentally different kinds of thing. See [[attention-consciousness-dissociation]] for contemporary evidence bearing on this distinction.
 
 ## What the Map Can Learn
 
@@ -119,7 +119,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 - [[interaction-problem-in-non-western-philosophy]] — Non-Western solutions to mind-body interaction
 - [[witness-consciousness]] — The *sakshi* tradition across Indian philosophy
 - [[filter-theory]] — Brains as filters rather than producers of consciousness
-- [[consciousness-and-attention-dissociation]] — Contemporary evidence for separating attention from awareness
+- [[attention-consciousness-dissociation]] — Contemporary evidence for separating attention from awareness
 - [[explanatory-gap]] — The conceptual chasm Samkhya's framework sharpens
 - [[eastern-philosophy-consciousness]] — Broader survey of Eastern engagement with consciousness
 - [[the-convergence-argument-for-dualism]] — Independent paths to the same conclusion

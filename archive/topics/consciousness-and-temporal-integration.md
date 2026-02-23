@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-02-09T05:29:00+00:00
 last_deep_review: 2026-02-09T05:29:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-23T15:50:00+00:00
+superseded_by: "/topics/temporal-structure-of-consciousness/"
+archive_reason: "Coalesced into Temporal Structure of Consciousness"
+original_path: "/topics/consciousness-and-temporal-integration/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"

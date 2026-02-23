@@ -58,7 +58,7 @@ IIT treats integration as constitutive: wherever integrated information (Φ) exi
 
 Victor Lamme's recurrent processing theory (RPT) locates consciousness not in information integration per se but in recurrent neural processing—signals that loop back from higher cortical areas to lower ones. Feed-forward processing (sensory input travelling up the hierarchy) is unconscious. Consciousness begins when recurrent connections feed information back, creating loops between cortical regions.
 
-RPT shares IIT's emphasis on interconnectedness but differs in a crucial respect: it identifies a *process* rather than a *property*. Recurrence is something the brain *does*, not a static measure of a system at an instant. This temporal dimension addresses one of IIT's weaknesses—the [temporal gap](/topics/consciousness-and-temporal-integration/). Recurrent processing inherently takes time; each loop through the cortical hierarchy has duration. The experienced flow of consciousness maps naturally onto the ongoing recurrent activity rather than requiring an explanation for how instantaneous Φ generates experienced duration.
+RPT shares IIT's emphasis on interconnectedness but differs in a crucial respect: it identifies a *process* rather than a *property*. Recurrence is something the brain *does*, not a static measure of a system at an instant. This temporal dimension addresses one of IIT's weaknesses—the [temporal gap](/topics/temporal-structure-of-consciousness/). Recurrent processing inherently takes time; each loop through the cortical hierarchy has duration. The experienced flow of consciousness maps naturally onto the ongoing recurrent activity rather than requiring an explanation for how instantaneous Φ generates experienced duration.
 
 RPT's limitation from the Map's perspective: it remains a purely neural account. Recurrent processing explains *which* brain states are conscious but not *why* any brain state is conscious at all. The [hard problem](/topics/hard-problem-of-consciousness/) persists. Recurrence could be the physical substrate through which consciousness operates—the neural architecture that provides the right interface—without being identical to consciousness itself.
 
@@ -127,7 +127,7 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's axioms, postulates, and Φ measure
 - [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The passivity, expander graph, and temporal gap problems
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — Information as the interface between mind and matter
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How consciousness binds moments into unified experience
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How consciousness binds moments into unified experience
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — Predictive processing as neural machinery for conscious selection
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Binding as a phenomenal rather than physical achievement
 - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How integration constitutes the unified self

@@ -55,6 +55,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
+### P2: Update references to coalesced temporal integration article
+- **Type**: other
+- **Notes**: Coalesce merged [[consciousness-and-temporal-integration]] into [[temporal-structure-of-consciousness]]. The following active content files reference the archived article and need wikilinks updated: specious-present-temporal-experience, temporal-consciousness, phenomenology-of-perceptual-constancy, cognitive-integration-and-the-self, consciousness-and-information-integration-beyond-iit, phenomenology-of-temporal-attention, consciousness-as-activity, consciousness-and-memory, consciousness-and-the-problem-of-induction, consciousness-and-temporal-asymmetry, bergson-and-duration, phenomenology-of-flow-states, non-temporal-consciousness, phenomenology-of-memory-and-the-self.
+- **Source**: coalesce
+- **Generated**: 2026-02-23
+
 ### P2: Update references to coalesced pain articles
 - **Type**: other
 - **Notes**: Coalesce created [[why-pain-hurts]]. The following active content files reference the archived [[consciousness-and-pain]] and/or [[phenomenology-of-pain]] and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.

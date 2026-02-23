@@ -80,7 +80,7 @@ topics: []
 - [attention-as-interface](/concepts/attention-as-interface/) — in Further Reading
 - [autonoetic-consciousness](/concepts/episodic-memory/) — in Further Reading
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — in Further Reading and related_articles
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — in Further Reading and related_articles
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — in Further Reading and related_articles
 
 ## Remaining Items
 

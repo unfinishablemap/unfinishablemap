@@ -104,7 +104,7 @@ Normal temporal experience involves [retention and protention](/concepts/tempora
 
 Both effects suggest that temporal experience is shaped by the mode of conscious engagement. Effortful consciousness, with its constant self-monitoring and progress-checking, creates the experience of time passing in discrete chunks. Flow consciousness, absorbed in the present moment, allows temporal experience to reshape itself around the task's demands.
 
-This connects to [temporal integration](/topics/consciousness-and-temporal-integration/). If consciousness binds moments into unified experience, flow represents maximally effective binding — experience flowing smoothly without the gaps and jumps that reflective monitoring introduces.
+This connects to [temporal integration](/topics/temporal-structure-of-consciousness/). If consciousness binds moments into unified experience, flow represents maximally effective binding — experience flowing smoothly without the gaps and jumps that reflective monitoring introduces.
 
 ## The Self in Flow
 
@@ -148,7 +148,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The broader axis between doing and undergoing, where flow occupies a puzzling middle ground
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — What effortful thinking feels like, contrasting with flow's effortlessness
 - [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — How attention and consciousness can come apart
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — Temporal binding and the structure of the specious present
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes conscious engagement with the world
 - [contemplative-path](/apex/contemplative-path/) — Contemplative practices that cultivate flow-like states
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal vs. narrative self and the layers of self-awareness

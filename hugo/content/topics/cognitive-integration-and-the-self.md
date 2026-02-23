@@ -205,7 +205,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [Phenomenal Binding and Holism](/concepts/phenomenal-binding-and-holism/) — How distributed phenomenal elements combine into unified experience
 - [Temporal Consciousness](/concepts/temporal-consciousness/) — The structure of experience across time
 - [Personal Identity](/topics/personal-identity/) — What makes you the same person across change
-- [Consciousness and Temporal Integration](/topics/consciousness-and-temporal-integration/) — How consciousness binds across extended time scales
+- [Consciousness and Temporal Integration](/topics/temporal-structure-of-consciousness/) — How consciousness binds across extended time scales
 - [Diachronic Agency and Personal Narrative](/topics/diachronic-agency-and-personal-narrative/) — Agency extended across the lifespan
 - [Self and Consciousness](/concepts/self-and-consciousness/) — Relationship between consciousness and selfhood
 - [The Self: Minimal, Narrative, and Substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three-layered model of selfhood

@@ -64,7 +64,7 @@ The Map's content addresses several phenomena in the neighbourhood of temporal u
 
 **[The binding problem](/concepts/binding-problem/)** typically concerns spatial or feature binding: how colour and shape unite at a moment. Temporal unity is binding's temporal counterpart—how the note just heard and the note now sounding unite into a phrase. The mechanisms may differ: gamma synchrony addresses spatial binding, while retention-protention structure addresses temporal binding.
 
-**Experiential continuity** at longer timescales extends beyond the specious present. The Map's treatment of [temporal integration](/topics/consciousness-and-temporal-integration/) distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the temporal self spanning a lifetime). Temporal unity in its strict sense concerns micro- and meso-integration. Macro-integration involves additional capacities—episodic memory, narrative identity—that go beyond temporal unity proper.
+**Experiential continuity** at longer timescales extends beyond the specious present. The Map's treatment of [temporal integration](/topics/temporal-structure-of-consciousness/) distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the temporal self spanning a lifetime). Temporal unity in its strict sense concerns micro- and meso-integration. Macro-integration involves additional capacities—episodic memory, narrative identity—that go beyond temporal unity proper.
 
 ## Why Temporal Unity Is Philosophically Significant
 
@@ -109,7 +109,7 @@ These dissociations support the view that temporal unity is a distinct phenomena
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader unity problem across all dimensions
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy: synchronic, diachronic, and subject unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Consciousness and time: specious present, durée, AI implications
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How moments bind into a temporal stream
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into a temporal stream
 - [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/) — The felt asymmetry between settled past and open future
 - [binding-problem](/concepts/binding-problem/) — Spatial/feature binding as temporal unity's counterpart
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in constituting time's arrow

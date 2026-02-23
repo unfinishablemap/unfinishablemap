@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-09
-**Article**: [Consciousness and Temporal Integration](/topics/consciousness-and-temporal-integration/)
+**Article**: [Consciousness and Temporal Integration](/topics/temporal-structure-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

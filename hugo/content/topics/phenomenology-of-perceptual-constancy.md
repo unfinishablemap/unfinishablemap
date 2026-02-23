@@ -71,7 +71,7 @@ When perceiving a plate from an angle, consciousness constitutes it as circular 
 
 This phenomenological structure matters for the philosophy of mind because it shows that perceptual constancy is not a post-processing correction applied to raw sensory data. The constancy is built into the intentional structure of experience itself. We do not first see a trapezoid and then infer a circle. We see the circle *in* the trapezoid. The experience is unified from the start.
 
-This connects directly to the [binding problem](/concepts/binding-problem/) and to the broader question of [temporal integration](/topics/consciousness-and-temporal-integration/). Constancy requires binding across time—linking successive appearances as presentations of the same object—and across modalities. A coffee mug maintains its identity as you walk around it, despite continuous change in visual profile, lighting, and even tactile feedback if you pick it up. This temporal and cross-modal binding that underlies constancy is itself a phenomenal achievement, not merely a computational one.
+This connects directly to the [binding problem](/concepts/binding-problem/) and to the broader question of [temporal integration](/topics/temporal-structure-of-consciousness/). Constancy requires binding across time—linking successive appearances as presentations of the same object—and across modalities. A coffee mug maintains its identity as you walk around it, despite continuous change in visual profile, lighting, and even tactile feedback if you pick it up. This temporal and cross-modal binding that underlies constancy is itself a phenomenal achievement, not merely a computational one.
 
 ## Constancy and Attentional Selection
 
@@ -104,7 +104,7 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)
 - [inverted-qualia](/concepts/inverted-qualia/)
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
 

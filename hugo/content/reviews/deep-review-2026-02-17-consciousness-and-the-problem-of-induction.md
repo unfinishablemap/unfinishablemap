@@ -58,7 +58,7 @@ topics: []
 
 ### Cross-links Added
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (inline in explanatory gap section)
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) (inline and Further Reading)
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) (inline and Further Reading)
 - [consciousness-and-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) (inline and Further Reading)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) (inline in temporal integration bullet)
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) (inline in counterfactual bullet)

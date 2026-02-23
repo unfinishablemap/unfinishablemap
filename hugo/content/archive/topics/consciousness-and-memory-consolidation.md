@@ -117,7 +117,7 @@ Memory consolidation during sleep speaks directly to the Map's [tenets](/tenets/
 - [attention-as-interface](/concepts/attention-as-interface/) — The hypothesis that consciousness engages with the brain through attentional selection
 - Autonoetic Consciousness — The self-aware remembering that consolidation serves but does not involve
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Variable interface engagement demonstrated within sleep
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — The temporal ordering that disappears during consolidation
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — The temporal ordering that disappears during consolidation
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Where consciousness goes during deep sleep
 - [memory-void](/voids/memory-void/) — Whether past experiences are genuinely recoverable
 

@@ -80,11 +80,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on anaesthesia and the consciousness interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. General anaesthesia provides the most controlled method for eliminating and restoring consciousness. If specific molecular targets (GABA receptors, NMDA channels) reliably abolish consciousness, what does this reveal about where the interface operates? Strong empirical territory underexploited by the Map. Builds on disorders-of-consciousness.md, loss-of-consciousness.md, neural-correlates-of-consciousness.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
-
 ### P3: Cross-link motor control, choking, and consciousness-as-activity
 - **Type**: cross-review
 - **Status**: pending
@@ -112,6 +107,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on anaesthesia and the consciousness interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. General anaesthesia provides the most controlled method for eliminating and restoring consciousness. If specific molecular targets (GABA receptors, NMDA channels) reliably abolish consciousness, what does this reveal about where the interface operates? Strong empirical territory underexploited by the Map. Builds on disorders-of-consciousness.md, loss-of-consciousness.md, neural-correlates-of-consciousness.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+- **Output**: anaesthesia and the consciousness interface
 
 ### ✓ 2026-02-23: Write article on moral implications of genuine agency
 - **Type**: expand-topic

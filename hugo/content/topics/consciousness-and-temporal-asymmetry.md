@@ -131,7 +131,7 @@ Temporal asymmetry connects to all five [tenets](/tenets/):
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness and time depend on each other
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How moments bind into temporal flow
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into temporal flow
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — The specific void of memory versus anticipation
 - [temporal-consciousness-void](/voids/temporal-consciousness-void/) — Why consciousness cannot escape the present
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow

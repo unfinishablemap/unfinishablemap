@@ -66,7 +66,7 @@ topics: []
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
-- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
+- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 
 ## Remaining Items
 
