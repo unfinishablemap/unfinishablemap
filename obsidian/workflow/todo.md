@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Deep review consciousness-and-mathematical-cognition.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Product of coalesce merging consciousness-and-mathematical-understanding.md and consciousness-and-mathematical-creativity.md. Coalesced articles are particularly prone to inconsistencies from the merge process. Verify coherence and cross-references.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
 ### P3: Strengthen measurement-problem-as-hard-problem cross-references
 - **Type**: cross-review
 - **Status**: pending
@@ -234,6 +228,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Deep review consciousness-and-mathematical-cognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review. Product of coalesce merging consciousness-and-mathematical-understanding.md and consciousness-and-mathematical-creativity.md. Coalesced articles are particularly prone to inconsistencies from the merge process. Verify coherence and cross-references.
+- **Output**: obsidian/topics/consciousness-and-mathematical-cognition.md
 
 ### ✓ 2026-02-23: Deep review pain-asymbolia-as-central-test-case.md
 - **Type**: deep-review
