@@ -4,7 +4,8 @@ description: "The neural architecture of willed attention—frontal theta, salie
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T16:20:00+00:00
+ai_modified: 2026-02-23T16:35:00+00:00
+last_deep_review: 2026-02-23T16:35:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -27,7 +28,7 @@ ai_generated_date: 2026-02-22
 last_curated:
 ---
 
-Voluntary attention control is not a single operation but a coordinated process involving frontal decision circuits, network-level reorganization, and a switching mechanism that interrupts ongoing automatic processing. The Unfinishable Map's [[attention-as-interface|attention-as-interface hypothesis]] claims consciousness acts on matter through attention. This article examines *how*—the specific neural machinery that implements willed attention and distinguishes it from both reflexive capture and instruction-following.
+Voluntary attention control is not a single operation but a coordinated process involving frontal decision circuits, network-level reorganization, and a switching mechanism that interrupts ongoing automatic processing. The Unfinishable Map's [[attention-as-interface|attention-as-interface hypothesis]] claims consciousness acts on matter through attention. This article examines *how*—the specific neural machinery that implements willed attention and distinguishes it from both reflexive capture and instruction-following (see [[structure-of-attention]] for the three-mode taxonomy).
 
 The mechanisms matter philosophically because they identify candidate sites where consciousness might intervene. If willed attention engages distinct neural pathways with unique temporal and spectral signatures, those pathways mark where the [[tenets#^bidirectional-interaction|bidirectional interaction]] between mind and matter could operate.
 
@@ -43,7 +44,7 @@ The temporal signature is distinctive. Frontal theta oscillations (~4-8 Hz) incr
 
 ### Network Reorganization
 
-Willed attention changes how brain systems interact. During instructed attention, information flows predominantly from frontal decision regions to parietal attention-control regions—a unidirectional command structure. During willed attention, Granger causality analysis reveals *bidirectional* theta-band coherence between frontal and parietal regions.
+Willed attention changes how brain systems interact. During instructed attention, information flows predominantly from frontal decision regions to parietal attention-control regions—a unidirectional command structure. During willed attention, Granger causality analysis reveals *bidirectional* theta-band coherence between frontal and parietal regions (Rajan et al. 2019).
 
 This bidirectional flow suggests that willed attention is not simply a top-down command but an ongoing dialogue between decision systems and attention-execution systems. Consciousness does not fire a single instruction and step back; it remains engaged in continuous communication with the systems it directs.
 
@@ -57,7 +58,7 @@ Two competing interpretations exist:
 
 **Attentional set**: Pre-stimulus alpha reflects prior intentions—task-specific attentional configurations that track consequences of *previous* choices rather than undermining present ones.
 
-The Map's framework accommodates either interpretation. If stochastic activity provides multiple potential options, consciousness may select among them at a resolution below EEG measurement. Finding that macro-level brain states correlate with upcoming choices establishes that choices are implemented through neural mechanisms—which interactionist dualism accepts. It does not establish that neural mechanisms are all that is involved.
+The Map's framework accommodates either interpretation. If stochastic activity provides multiple potential options, consciousness may select among them—though this selection would operate at a resolution currently below EEG measurement, making direct empirical confirmation a challenge for future research. Finding that macro-level brain states correlate with upcoming choices establishes that choices are implemented through neural mechanisms—which interactionist dualism accepts. It does not establish that neural mechanisms are all that is involved.
 
 ## The Salience Network as Switch
 
@@ -93,19 +94,19 @@ The timing of voluntary attention reveals its nature:
 
 The ~300ms deployment time for voluntary attention matches the commitment point identified in motor decision-making (~280ms before movement onset). This convergence supports the view that attentional selection and motor selection share a common mechanism—what Rizzolatti's premotor theory of attention proposes and what the [[attention-as-interface]] article develops as the motor-attention convergence.
 
-Crucially, voluntary attention can be *sustained*. Unlike exogenous capture, which generates inhibition of return after ~300ms, willed attention maintains engagement for extended periods. This sustained character matters for the quantum Zeno interpretation: if consciousness operates through rapid repeated observation (as [[stapp-quantum-mind|Stapp]] proposes), the mechanism requires sustained engagement—exactly what voluntary attention provides and reflexive capture does not.
+Crucially, voluntary attention can be *sustained*. Unlike exogenous capture, which generates inhibition of return after ~300ms, willed attention maintains engagement for extended periods. This sustained character matters for the quantum Zeno interpretation: if consciousness operates through rapid repeated observation (as [[stapp-quantum-mind|Stapp]] proposes), the mechanism requires sustained engagement—exactly what voluntary attention provides and reflexive capture does not. A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. The 2024 discovery of Zeno-like effects in cryptochrome radical pairs at microsecond timescales provides the first biological precedent, though still far from the neural circuit scale.
 
 ## Spectral Signatures
 
 Neuroimaging research reveals distinct frequency signatures:
 
-| Process | Frequency Band |
-|---------|---------------|
-| Consciousness (content) | Low gamma (55-65 Hz) |
-| Attention (control) | High gamma (75-90 Hz) |
-| Willed decision | Theta (4-8 Hz) |
+| Process | Frequency Band | Source |
+|---------|---------------|--------|
+| Consciousness (content) | Low gamma (55-65 Hz) | Koch & Tsuchiya 2007 |
+| Attention (control) | High gamma (75-90 Hz) | Koch & Tsuchiya 2007 |
+| Willed decision | Theta (4-8 Hz) | Rajan et al. 2019 |
 
-The spectral dissociation between consciousness and attention at the frequency level supports their separability—a foundation of the interface hypothesis. Consciousness and attention occupy different frequency bands because they are different processes that happen to interact. The theta signature of willed decision adds a third layer: the act of *choosing* what to attend to has its own spectral marker, distinct from both the experience (gamma) and the attentional modulation (high gamma).
+The spectral dissociation between consciousness and attention at the frequency level supports their separability—a foundation of the [[attention-as-interface|interface hypothesis]]. Consciousness and attention occupy different frequency bands because they are different processes that happen to interact. The theta signature of willed decision adds a third layer: the act of *choosing* what to attend to has its own spectral marker, distinct from both the experience (gamma) and the attentional modulation (high gamma).
 
 ## Relation to Site Perspective
 
@@ -115,7 +116,7 @@ The spectral dissociation between consciousness and attention at the frequency l
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The bidirectional Granger causality during willed attention is a neural signature of two-way causal flow. Consciousness influences attention (frontal→parietal), and attentional outcomes influence conscious content (parietal→frontal). The mechanism is not one-way command but ongoing reciprocal engagement.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A purely computational account would predict that willed and instructed attention, achieving the same behavioural result, should use the same neural pathways. They do not. The additional mechanisms engaged during willed attention demand explanation. The simplest account—"more computation"—does not explain why *this* computation has the phenomenal character of effort while cued attention does not. The mechanism points toward something the computational account leaves out.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A purely computational account would predict that willed and instructed attention, achieving the same behavioural result, should use the same neural pathways. They do not. The materialist response—that internally generated decisions simply require more computation than externally cued ones—explains the additional frontal recruitment but leaves a gap: why does this additional computation have the phenomenal character of *effort* while instruction-following does not? If both are just computation of different complexity, the distinctive phenomenology of willing is unexplained. The mechanism points toward something the computational account leaves out.
 
 ## Further Reading
 
@@ -129,6 +130,7 @@ The spectral dissociation between consciousness and attention at the frequency l
 ## References
 
 - Filevich, E., Kühn, S., & Haggard, P. (2013). There is no free won't: Antecedent brain activity predicts decisions to inhibit. *PLoS ONE*, 8(2), e53053.
+- Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 - Menon, V. & Uddin, L.Q. (2010). Saliency, switching, attention and control: A network model of insula function. *Brain Structure and Function*, 214(5-6), 655-667.
 - Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 - Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
