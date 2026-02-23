@@ -85,12 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Deep review contemplative-evidence-for-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-01-27). At 26 days old, this is the oldest unreviewed published content on the site. Product of coalesce merging contemplative evidence articles. Verify coherence, argument quality, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-22
-
 ### P3: Deep review why-pain-hurts.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-02-09). Product of coalesce merging consciousness-and-pain.md and phenomenology-of-pain.md. Coalesced articles are prone to inconsistencies from the merge process. Verify coherence, argument quality, and cross-references.
@@ -149,6 +143,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Deep review contemplative-evidence-for-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never received a deep review since creation (2026-01-27). At 26 days old, this is the oldest unreviewed published content on the site. Product of coalesce merging contemplative evidence articles. Verify coherence, argument quality, and tenet alignment.
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness.md
 
 ### ✓ 2026-02-23: Strengthen convergence-argument cross-links to galilean-exclusion
 - **Type**: cross-review

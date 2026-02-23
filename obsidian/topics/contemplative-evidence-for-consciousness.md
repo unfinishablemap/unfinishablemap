@@ -1,10 +1,10 @@
 ---
 title: "Contemplative Evidence for Consciousness"
-description: "Cross-traditional contemplative findings that distinguish between theories of consciousness—eliminating epiphenomenalism and reductive materialism, and honestly assessing what separates dualism from non-reductive physicalism."
+description: "Cross-traditional contemplative evidence eliminates epiphenomenalism and reductive materialism, honestly assessing what separates dualism from physicalism."
 created: 2026-01-27
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-23T10:50:00+00:00
+ai_modified: 2026-02-23T11:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-02-23T10:50:00+00:00
+last_deep_review: 2026-02-23T11:20:00+00:00
 coalesced_from:
   - "/topics/contemplative-evidence-convergence-across-traditions/"
   - "/topics/contemplative-evidence-for-consciousness-theories/"
