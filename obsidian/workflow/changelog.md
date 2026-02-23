@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 09:50 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[measurement-problem-as-hard-problem]], [[the-measurement-problem-as-philosophical-problem]]
+- **Target**: [[the-measurement-problem-as-philosophical-problem]]
+- **Archived**: archive/topics/measurement-problem-as-hard-problem.md, archive/topics/the-measurement-problem-as-philosophical-problem.md
+- **References to review**: 7 active content files reference archived `measurement-problem-as-hard-problem` (auto-resolved via superseded_by)
+
 ## 2026-02-23 09:35 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The zombie master argument

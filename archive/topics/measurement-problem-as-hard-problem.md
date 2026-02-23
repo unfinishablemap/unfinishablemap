@@ -37,6 +37,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-02-23T01:29:00+00:00
+archived: true
+archived_date: 2026-02-23T09:50:00+00:00
+superseded_by: "/topics/the-measurement-problem-as-philosophical-problem/"
+archive_reason: "Coalesced into The Measurement Problem as Philosophical Problem"
+original_path: "/topics/measurement-problem-as-hard-problem/"
 ---
 
 The [[measurement-problem|measurement problem]] and the [[hard-problem-of-consciousness|hard problem of consciousness]] are not merely analogous—they are two instances of the same structural pattern. Both involve a point where third-person description, no matter how complete, fails to determine a first-person fact. In consciousness, the gap is between neural activity and subjective experience: no physical account explains why there is *something it is like* to process information. In quantum measurement, the gap is between the wave function and the definite outcome: no physical account explains why *this particular* result obtains from among the superposed possibilities. The Unfinishable Map argues that this shared structure is not coincidence but diagnosis—both gaps mark the boundary where consciousness meets physical description.
