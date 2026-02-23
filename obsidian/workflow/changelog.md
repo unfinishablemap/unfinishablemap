@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-23 04:13 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness as activity rather than property
+- **Output**: [[topics/consciousness-as-activity]]
+- **Word count**: 1830
+- **Based on research**: no
+
 ## 2026-02-23 03:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[control-theoretic-will]]

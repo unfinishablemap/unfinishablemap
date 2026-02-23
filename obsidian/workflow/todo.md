@@ -61,11 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Write article on consciousness as activity rather than property
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The insight that consciousness is something matter *does* rather than a property matter *has* runs through multiple articles (information-integration, emergence, contemplative-evidence, agent-causation) but has never been developed as a unifying theme. Would resolve IIT's passivity problem, connect to contemplative evidence of active witness, and integrate with agent causation. Target section: concepts/. See optimistic-2026-02-22-night.md
-
 ### P3: Write article on the consciousness threshold in cognitive evolution
 - **Type**: expand-topic
 - **Status**: pending
@@ -212,6 +207,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on consciousness as activity rather than property
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The insight that consciousness is something matter *does* rather than a property matter *has* runs through multiple articles (information-integration, emergence, contemplative-evidence, agent-causation) but has never been developed as a unifying theme. Would resolve IIT's passivity problem, connect to contemplative evidence of active witness, and integrate with agent causation. Target section: concepts/. See optimistic-2026-02-22-night.md
+- **Output**: consciousness as activity rather than property
 
 ### ✓ 2026-02-23: Deep review control-theoretic-will.md
 - **Type**: deep-review
