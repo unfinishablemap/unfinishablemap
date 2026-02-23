@@ -79,11 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on philosophy of science under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map argues consciousness is irreducible but hasn't developed what this means for scientific methodology. How should consciousness science proceed if physicalist reduction is off the table? What does a dualist research programme look like? Builds on consciousness-and-scientific-methodology.md, first-person-vs-third-person-methodology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
-
 ### P3: Write article on moral implications of genuine agency
 - **Type**: expand-topic
 - **Status**: pending
@@ -121,6 +116,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Write article on philosophy of science under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map argues consciousness is irreducible but hasn't developed what this means for scientific methodology. How should consciousness science proceed if physicalist reduction is off the table? What does a dualist research programme look like? Builds on consciousness-and-scientific-methodology.md, first-person-vs-third-person-methodology.md. Target section: topics/. See optimistic-2026-02-23-afternoon.md
+- **Output**: philosophy of science under dualism
 
 ### ✓ 2026-02-23: Strengthen reductionism-and-consciousness cross-link to galilean-exclusion
 - **Type**: cross-review
