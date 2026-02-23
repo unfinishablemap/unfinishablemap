@@ -55,11 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-22
 
-### P3: Strengthen measurement-problem-as-hard-problem cross-references
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. This article makes the Map's most distinctive contribution (the unification thesis) but is underlinked from emergence.md, filter-theory.md, downward-causation.md, and the tenets page. Cross-linking campaign would increase visibility of the strongest argument. See optimistic-2026-02-20-evening.md
-
 ### P3: Strengthen galilean-exclusion cross-links
 - **Type**: cross-review
 - **Status**: pending
@@ -228,6 +223,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Strengthen measurement-problem-as-hard-problem cross-references
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review. This article makes the Map's most distinctive contribution (the unification thesis) but is underlinked from emergence.md, filter-theory.md, downward-causation.md, and the tenets page. Cross-linking campaign would increase visibility of the strongest argument. See optimistic-2026-02-20-evening.md
+- **Output**: None -- Context: Strengthen measurement-problem-as-hard-problem cross-references
 
 ### ✓ 2026-02-23: Address argument gaps in simulation hypothesis article
 - **Type**: refine-draft

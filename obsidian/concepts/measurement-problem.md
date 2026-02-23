@@ -33,6 +33,7 @@ related_articles:
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[concepts/many-worlds]]"
+  - "[[measurement-problem-as-hard-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -78,6 +79,8 @@ This [[indexical-identity-quantum-measurement|indexical gap]] connects the measu
 Functionalists contest this, holding that "why am I this one?" confuses indexical reference with substantial identity—"I" picks out whoever is asking; no further fact remains. This analysis is correct for the *reference* of "I" but doesn't dissolve the phenomenon. When asking "why am I this one?", we note that *something it is like* to be this experiencer exists, and ask what makes that fact true.
 
 The functionalist can insist no such fact exists beyond functional states, but this denies the explanandum rather than explaining it. The strategy generalizes: if "why am I this one?" collapses into convention, "why does this hurt?" faces the same move. Both concern facts about subjective experience.
+
+The argument that this structural parallel constitutes not just analogy but identity—that the measurement problem is an instance of the hard problem—is developed in [[measurement-problem-as-hard-problem|The Measurement Problem as Hard Problem]].
 
 This reveals a gap across major interpretations:
 - **[[qbism|QBism]]** dissolves the measurement problem by treating quantum states as subjective beliefs—"collapse" becomes belief-updating. Yet QBism centres agents who must have determinate experiences to form beliefs; it presupposes rather than explains why consciousness has first-person content

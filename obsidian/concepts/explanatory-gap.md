@@ -20,6 +20,7 @@ concepts:
   - "[[concepts/materialism]]"
 related_articles:
   - "[[tenets]]"
+  - "[[measurement-problem-as-hard-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -195,6 +196,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[introspection]] — How we know about the gap in the first place
 - [[integrated-information-theory]] — A theory attempting to bridge the gap
 - [[tenets]] — How the Map's framework responds to the gap
+- [[measurement-problem-as-hard-problem]] — The argument that the measurement problem is an instance of the same explanatory gap
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — How the gap constrains what we can know about the consciousness-matter interface
 
 ## References
