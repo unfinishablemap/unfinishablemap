@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced temporal integration article
-- **Type**: cross-review
-- **Notes**: Coalesce merged [[consciousness-and-temporal-integration]] into [[temporal-structure-of-consciousness]]. The following active content files reference the archived article and need wikilinks updated: specious-present-temporal-experience, temporal-consciousness, phenomenology-of-perceptual-constancy, cognitive-integration-and-the-self, consciousness-and-information-integration-beyond-iit, phenomenology-of-temporal-attention, consciousness-as-activity, consciousness-and-memory, consciousness-and-the-problem-of-induction, consciousness-and-temporal-asymmetry, bergson-and-duration, phenomenology-of-flow-states, non-temporal-consciousness, phenomenology-of-memory-and-the-self.
-- **Source**: coalesce
-- **Generated**: 2026-02-23
-
 ### P2: Update references to coalesced explanation articles
 - **Type**: cross-review
 - **Notes**: Coalesce created [[consciousness-and-the-limits-of-explanation]]. The following 8 active content files reference the archived [[consciousness-and-the-philosophy-of-explanation]] and/or [[consciousness-and-the-meta-problem-of-scientific-explanation]] and need wikilinks updated to point to the new article: philosophy-of-science-under-dualism, consciousness-and-scientific-explanation, epistemology-of-mechanism-at-the-consciousness-matter-interface, phenomenology-of-theoretical-commitment, consciousness-and-the-problem-of-theoretical-virtues, consciousness-and-the-problem-of-philosophical-progress, consciousness-and-the-problem-of-measurement-standards.
@@ -85,6 +79,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-23: Update references to coalesced temporal integration article
+- **Type**: cross-review
+- **Notes**: Coalesce merged [[consciousness-and-temporal-integration]] into [[temporal-structure-of-consciousness]]. The following active content files reference the archived article and need wikilinks updated: specious-present-temporal-experience, temporal-consciousness, phenomenology-of-perceptual-constancy, cognitive-integration-and-the-self, consciousness-and-information-integration-beyond-iit, phenomenology-of-temporal-attention, consciousness-as-activity, consciousness-and-memory, consciousness-and-the-problem-of-induction, consciousness-and-temporal-asymmetry, bergson-and-duration, phenomenology-of-flow-states, non-temporal-consciousness, phenomenology-of-memory-and-the-self.
+- **Output**: None -- Context: Update references to coalesced temporal integration article
 
 ### ✓ 2026-02-23: Update references to coalesced contemplative evidence articles
 - **Type**: cross-review
