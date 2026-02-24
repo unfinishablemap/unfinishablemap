@@ -84,12 +84,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
 - **Generated**: 2026-02-24
 
-### P2: Write voids article on adaptive cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-adaptive-cognitive-limits-2026-02-08.md. Examines how cognitive systems encounter structural limits on adaptability — when the mechanisms that enable learning and flexibility themselves constrain what can be known. Oldest unconsumed voids research. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Integrate temporal-phenomenology-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. This concept article connects Husserlian temporal phenomenology to quantum selection mechanisms — directly relevant to Tenet 2 (Minimal Quantum Interaction). Add cross-references from temporal-consciousness.md, time-symmetric-selection-mechanism.md, quantum-consciousness.md, or related articles.
@@ -146,6 +140,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on adaptive cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-adaptive-cognitive-limits-2026-02-08.md. Examines how cognitive systems encounter structural limits on adaptability — when the mechanisms that enable learning and flexibility themselves constrain what can be known. Oldest unconsumed voids research. Target section: voids/.
+- **Output**: Write voids article on adaptive cognitive limits
 
 ### ✓ 2026-02-24: Address gap-to-consciousness non-sequitur in measurement-problem.md
 - **Type**: refine-draft
