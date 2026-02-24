@@ -48,12 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
 
-### P2: Review philosophical-zombies.md considering epistemology of other minds under dualism
-- **Type**: cross-review
-- **Notes**: New article concepts/epistemology-of-other-minds-under-dualism.md examines how dualism handles knowledge of other minds, arguing that Bidirectional Interaction (Tenet 3) provides epistemic access through detectable physical effects of consciousness. concepts/philosophical-zombies.md covers the conceivability of zombies and should cross-reference the new article's treatment of why the epistemological challenge strengthens rather than weakens the dualist case. Check for cross-links and argument reinforcement.
-- **Source**: chain (from epistemology-of-other-minds-under-dualism.md)
-- **Generated**: 2026-02-23
-
 ### P2: Review neural-bandwidth-constraints-and-the-interface.md considering bandwidth problem in mental causation
 - **Type**: cross-review
 - **Notes**: New article concepts/bandwidth-problem-mental-causation.md directly addresses the timing and bandwidth gap between conscious experience (~10 bits/second) and quantum events (femtosecond timescales). concepts/neural-bandwidth-constraints-and-the-interface.md covers the bandwidth constraint from the neural side and should cross-reference the new article's treatment of hierarchical architecture bridging the gap. Check for complementary arguments and consistent framing.
@@ -110,6 +104,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Review philosophical-zombies.md considering epistemology of other minds under dualism
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemology-of-other-minds-under-dualism.md examines how dualism handles knowledge of other minds, arguing that Bidirectional Interaction (Tenet 3) provides epistemic access through detectable physical effects of consciousness. concepts/philosophical-zombies.md covers the conceivability of zombies and should cross-reference the new article's treatment of why the epistemological challenge strengthens rather than weakens the dualist case. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/philosophical-zombies.md -- Context: Review philosophical-zombies.md considering epistemology of other minds under dualism
 
 ### ✓ 2026-02-23: Update references to coalesced pain articles
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-16T13:13:00+00:00
+ai_modified: 2026-02-24T00:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,8 @@ concepts:
   - "[[mysterianism]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
+  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism-argument]]"
@@ -29,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-03T16:37:00+00:00
+last_deep_review: 2026-02-24T00:05:00+00:00
 ---
 
 A philosophical zombie is a being physically and functionally identical to a conscious human but lacking all subjective experience. The zombie has the same brain states, exhibits the same behaviors, and makes the same verbal reports—including "I am conscious" and "I experience redness"—yet there is nothing it is like to be the zombie. The lights are on, but nobody's home.
@@ -100,7 +102,7 @@ You say things like "I am conscious" and "I experience qualia." Presumably, your
 
 If physicalism is true, your utterances are caused by the same physical processes that cause the zombie's. But then your consciousness isn't playing a causal role in producing your reports about consciousness. This makes your reports accidentally accurate at best—a strange result for the physicalist who trusts their own introspection enough to theorize about consciousness.
 
-This connects to the critique of [[concepts/epiphenomenalism]]: if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable.
+This connects to the critique of [[concepts/epiphenomenalism]]: if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable. The self-stultification problem also sharpens the [[epistemology-of-other-minds-under-dualism|epistemology of other minds]]: if a zombie's reports are indistinguishable from a conscious being's, verbal testimony alone cannot settle whether another person is conscious.
 
 ## The Illusionist Challenge
 
@@ -202,25 +204,11 @@ The zombie argument connects to all five of the Map's tenets.
 - [[mysterianism]] — Cognitive closure and the limits of our understanding
 - [[decoherence]] — Why quantum mechanisms in the brain remain viable
 - [[haecceity]] — The irreducible "thisness" that zombie scenarios presuppose
-- [[the-case-for-dualism]] — The full case for dualism, including the conceivability argument
+- [[epistemology-of-other-minds-under-dualism]] — How zombie conceivability shapes epistemic access to other minds
+- [[problem-of-other-minds]] — The broader epistemological puzzle about knowing others are conscious
 
 ### External Sources
 - David Chalmers, *The Conscious Mind* (1996) — The definitive treatment
 - David Chalmers, "Does Conceivability Entail Possibility?" (2002)
 - Joseph Levine, "Materialism and Qualia: The Explanatory Gap" (1983)
 - Keith Frankish, "Illusionism as a Theory of Consciousness" (2016)
-
-<!-- AI REFINEMENT LOG - 2026-02-16
-Changes made:
-- Collapsed "The Regress Objection and Frankish's Response" and "Why the Regress Objection Persists" into single compressed "The Regress Objection" subsection
-- Removed duplicate deployment of Tallis's "misrepresentation presupposes presentation" argument
-- Added cross-references to illusionism.md#regress and illusionism.md#illusionist-response for full treatment
-- Added acknowledgment that many philosophers consider the regress objection question-begging
-- Preserved the zombie-specific contribution: conceivability regenerates at the level of seeming itself
-- Removed "specific character problem" and "contemplative evidence" points (covered in illusionism.md)
-
-Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
-Key improvements: Eliminates ~200 words of near-identical argument; focuses on what's specific to zombie conceivability.
-
-This log should be removed after human review.
--->
