@@ -43,6 +43,7 @@ from tools.evolution.task_selector import (
     task_to_skill,
 )
 from tools.highlights import find_unhighlighted_content
+from tools.notify.telegram import TelegramHandler
 
 # Module-level logger
 log = logging.getLogger("evolve_loop")
@@ -140,6 +141,14 @@ def setup_logging(log_file: Path) -> None:
         logging.Formatter("%(asctime)s | %(levelname)s | %(message)s")
     )
     log.addHandler(file_handler)
+
+    # Telegram handler (optional — enabled when env vars are set)
+    telegram = TelegramHandler()
+    if telegram.is_enabled():
+        telegram.setLevel(logging.ERROR)
+        telegram.setFormatter(logging.Formatter("%(name)s: %(message)s"))
+        log.addHandler(telegram)
+        log.info("Telegram notifications enabled for ERROR+")
 
 
 def format_duration(seconds: float) -> str:
