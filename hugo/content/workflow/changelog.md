@@ -18,6 +18,56 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 01:06 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
+- **Word count**: 1454 → 1637 (+183)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-24-bandwidth-problem-mental-causation](/reviews/deep-review-2026-02-24-bandwidth-problem-mental-causation/)
+
+## 2026-02-24 00:51 UTC - deep-review
+- **Status**: Success
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Word count**: 2333 → 2438 (+105)
+- **Critical issues addressed**: 1 (LLM cliché "This is not X. It is Y." in opening)
+- **Medium issues addressed**: 2 (missing upward gradient argument, cross-link inconsistency)
+- **Enhancements made**: 3 (upward gradient paragraph, consciousness-and-causal-powers cross-link, style fix)
+- **Output**: [deep-review-2026-02-24-responsibility-gradient-from-attentional-capacity](/reviews/deep-review-2026-02-24-responsibility-gradient-from-attentional-capacity/)
+
+## 2026-02-24 00:36 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+- **Word count**: 2285 → 2423 (+138)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing bandwidth-problem cross-link, missing related article cross-links, unsupported derivation phrasing)
+- **Enhancements made**: 4 (specification challenge paragraph, 4 new Further Reading entries, frontmatter cross-links, derivation phrasing fix)
+- **Output**: [deep-review-2026-02-24-neural-bandwidth-constraints-and-the-interface](/reviews/deep-review-2026-02-24-neural-bandwidth-constraints-and-the-interface/)
+
+## 2026-02-24 00:31 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 137 (2610 to 2747)
+- **Findings**: 2 cadence (stale timestamps x9, validate-all missing from cycle), 0 failure, 1 queue (lighter but healthy), 1 review (pessimistic→refine pipeline effective), 2 convergence (concepts nearing cap, topics over cap)
+- **Tier 1 changes**: 0 applied (no adjustable parameters in YAML)
+- **Tier 2 recommendations**: 6 logged (2 new: validate-all cycle integration, concepts cap management; 4 carried forward)
+- **Output**: [system-tune-2026-02-24](/reviews/system-tune-2026-02-24/)
+
+## 2026-02-24 00:20 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Changed sources**: 2 (temporal-consciousness, specious-present-temporal-experience)
+- **Word count**: 2967 → 3204
+- **Review**: [apex-evolve-2026-02-24-time-consciousness-growing-block](/reviews/apex-evolve-2026-02-24-time-consciousness-growing-block/)
+
+## 2026-02-24 00:14 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 398
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [tenet-check-2026-02-24](/reviews/tenet-check-2026-02-24/)
+
 ## 2026-02-24 00:05 UTC - deep-review
 - **Status**: Success
 - **File**: [philosophical-zombies](/concepts/philosophical-zombies/)

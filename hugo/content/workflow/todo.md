@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
 
-### P2: Review neural-bandwidth-constraints-and-the-interface.md considering bandwidth problem in mental causation
-- **Type**: cross-review
-- **Notes**: New article concepts/bandwidth-problem-mental-causation.md directly addresses the timing and bandwidth gap between conscious experience (~10 bits/second) and quantum events (femtosecond timescales). concepts/neural-bandwidth-constraints-and-the-interface.md covers the bandwidth constraint from the neural side and should cross-reference the new article's treatment of hierarchical architecture bridging the gap. Check for complementary arguments and consistent framing.
-- **Source**: chain (from bandwidth-problem-mental-causation.md)
-- **Generated**: 2026-02-23
-
-### P2: Review the-responsibility-gradient.md considering moral implications of genuine agency
-- **Type**: cross-review
-- **Notes**: New article topics/moral-implications-of-genuine-agency.md examines what follows for moral desert, retributive justice, and praise/blame if the Map's account of mental causation is correct. topics/the-responsibility-gradient.md covers degrees of moral responsibility and should cross-reference the new article's crystallisation of the ethical stakes of Tenet 3 (Bidirectional Interaction). Check for cross-links and reinforcing arguments.
-- **Source**: chain (from moral-implications-of-genuine-agency.md)
-- **Generated**: 2026-02-23
-
 ### P2: Write article on adaptive computational depth
 - **Type**: expand-topic
 - **Notes**: Research completed in research/adaptive-computational-depth-2026-02-08.md. Examines the idea that a simulated universe might adaptively allocate computational resources depending on whether consciousness is observing, connecting simulation theory to the measurement problem and consciousness-selecting frameworks. Builds on simulation.md, consciousness-selecting-neural-patterns.md, prebiotic-collapse.md. Target section: concepts/.
@@ -105,6 +93,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Review the-responsibility-gradient.md considering moral implications of genuine agency
+- **Type**: cross-review
+- **Notes**: New article topics/moral-implications-of-genuine-agency.md examines what follows for moral desert, retributive justice, and praise/blame if the Map's account of mental causation is correct. topics/the-responsibility-gradient.md covers degrees of moral responsibility and should cross-reference the new article's crystallisation of the ethical stakes of Tenet 3 (Bidirectional Interaction). Check for cross-links and reinforcing arguments.
+- **Output**: the-responsibility-gradient.md -- Context: Review the-responsibility-gradient.md considering moral implications of genuine agency
+
+### ✓ 2026-02-24: Review neural-bandwidth-constraints-and-the-interface.md considering bandwidth problem in mental causation
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md directly addresses the timing and bandwidth gap between conscious experience (~10 bits/second) and quantum events (femtosecond timescales). concepts/neural-bandwidth-constraints-and-the-interface.md covers the bandwidth constraint from the neural side and should cross-reference the new article's treatment of hierarchical architecture bridging the gap. Check for complementary arguments and consistent framing.
+- **Output**: obsidian/topics/neural-bandwidth-constraints-and-the-interface.md -- Context: Review neural-bandwidth-constraints-and-the-interface.md considering bandwidth problem in mental causation
 
 ### ✓ 2026-02-24: Review philosophical-zombies.md considering epistemology of other minds under dualism
 - **Type**: cross-review
