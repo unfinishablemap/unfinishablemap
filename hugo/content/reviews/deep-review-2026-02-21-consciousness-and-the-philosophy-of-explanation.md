@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [Consciousness and the Philosophy of Explanation](/topics/consciousness-and-the-philosophy-of-explanation/)
+**Article**: [Consciousness and the Philosophy of Explanation](/topics/consciousness-and-the-limits-of-explanation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -62,7 +62,7 @@ topics: []
 - Inline: [explanatory-gap](/concepts/explanatory-gap/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [epistemic-emotions](/concepts/epistemic-emotions/), [machine-consciousness](/topics/machine-consciousness/), [argument-from-reason](/topics/argument-from-reason/)
 - Frontmatter topics: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 - Frontmatter concepts: [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [epistemic-emotions](/concepts/epistemic-emotions/)
-- Frontmatter related_articles: [argument-from-reason](/topics/argument-from-reason/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/), [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- Frontmatter related_articles: [argument-from-reason](/topics/argument-from-reason/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/), [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
 - Further Reading: 6 new entries added
 
 ## Remaining Items

@@ -28,7 +28,7 @@ None.
 ### Medium Issues Found
 - Missing wikilinks: `[inverted-qualia](/concepts/inverted-qualia/)` discussed but linked to wrong target (`[inverted qualia](/concepts/qualia/)`); `[neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)` discussed but not linked. **Resolved**: Fixed both links.
 - No engagement with the operationalist/functionalist response — the strongest counterargument to the article's thesis. **Resolved**: Added "The Operationalist Response" section engaging with operationalism and heterophenomenology.
-- Missing cross-links to closely related articles: `[knowledge-argument](/concepts/knowledge-argument/)`, `[measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)`, `[consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)`. **Resolved**: Added to frontmatter, body text, and Further Reading.
+- Missing cross-links to closely related articles: `[knowledge-argument](/concepts/knowledge-argument/)`, `[measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)`, `[consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)`. **Resolved**: Added to frontmatter, body text, and Further Reading.
 - Thompson (2007) listed in References but never cited in text. **Resolved**: Added inline citation in neurophenomenology paragraph.
 - "Relation to Site Perspective" engaged only 2 of 5 tenets; Bidirectional Interaction is directly relevant. **Resolved**: Added paragraph on Bidirectional Interaction tenet and its connection to the measurement asymmetry.
 
@@ -64,7 +64,7 @@ None.
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)
-- [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
+- [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 
 ## Remaining Items
 None. All identified medium issues were addressed.

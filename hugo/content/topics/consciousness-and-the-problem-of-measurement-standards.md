@@ -117,7 +117,7 @@ As the Map explores in [consciousness-and-scientific-methodology](/topics/consci
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)
 - [knowledge-argument](/concepts/knowledge-argument/)
-- [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
+- [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 
 ## References
 

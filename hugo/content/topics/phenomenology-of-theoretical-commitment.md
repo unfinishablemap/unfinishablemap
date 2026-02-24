@@ -102,7 +102,7 @@ This connects to the Map's tenet of [bidirectional interaction](/tenets/#bidirec
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/)
 - [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/)
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
-- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/)
+- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)

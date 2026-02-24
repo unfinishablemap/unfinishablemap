@@ -122,7 +122,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens 
 
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — The framework for laws connecting mind and brain
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — Why scientific method structurally excludes subjectivity
-- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/) — How consciousness breaks standard theories of explanation
+- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — How consciousness breaks standard theories of explanation
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reduction succeeds everywhere except consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience

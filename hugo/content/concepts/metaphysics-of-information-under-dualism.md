@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 10:05:00+00:00
+ai_modified: 2026-02-23 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,6 +20,7 @@ description: What is information's ontological status when mind and matter are g
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-23 23:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,9 +93,9 @@ A persistent objection to interactionist dualism is the *causal exclusion proble
 
 The sharpened objection: physical information processing in the brain is causally complete. Every neural state follows from prior neural states according to physical law. Consciousness is informationally redundant—the brain's physical information is sufficient to determine its behaviour.
 
-The response from the Map's framework: physical information processing is *not* causally complete at quantum indeterminacies. Where quantum mechanics leaves outcomes undetermined, no amount of physical information determines which outcome occurs. Consciousness acts at precisely these gaps—biasing which of several physically permitted outcomes becomes actual. The information contributed by consciousness is not redundant because the physical information was *insufficient*.
+The response from the Map's framework: physical information processing is *not* causally complete at quantum indeterminacies. Where quantum mechanics leaves outcomes undetermined, no amount of physical information determines which outcome occurs. Consciousness acts at precisely these gaps—biasing which of several physically permitted outcomes becomes actual. The information contributed by consciousness is not redundant because the physical information was *insufficient*. For how this plays out through attention as the selection mechanism, see [the attention-as-causal-bridge model](/apex/attention-as-causal-bridge/).
 
-This is not a god-of-the-gaps argument in the usual sense. The gaps are not due to ignorance of physical law but are structural features of quantum mechanics itself. The indeterminacy is not epistemic (we don't know the outcome) but ontological (there is no fact about the outcome until measurement). Consciousness fills a genuine ontological vacancy, not an epistemic one.
+This is not a god-of-the-gaps argument in the usual sense. The gaps are not due to ignorance of physical law but are structural features of quantum mechanics itself. The indeterminacy is not epistemic (we don't know the outcome) but ontological (there is no fact about the outcome until measurement). Consciousness fills a genuine ontological vacancy, not an epistemic one. The standard objection—that [decoherence](/concepts/decoherence/) destroys quantum superpositions too rapidly for neural-scale effects—targets the *mechanism* but not the *principle*: even after decoherence selects a measurement basis, the outcome within that basis remains undetermined and available for conscious selection (see [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) for the detailed framework).
 
 ## What Information Cannot Be Under Dualism
 
@@ -112,7 +113,7 @@ The metaphysics of information connects to each of the Map's tenets.
 
 **[Dualism](/tenets/#dualism)** requires that information not serve as a reductive bridge collapsing mind into matter. The Map treats information as the interface medium—the point of contact between two genuinely distinct domains—rather than a neutral substance from which both derive. This preserves irreducibility while explaining correlation.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the informational bandwidth of the mind-matter interface. If consciousness biases quantum outcomes, each bias is one bit of information injected into the physical world. The minimality principle says: the smallest informational contribution that permits downward causation. Recent work suggesting conscious processing operates at roughly 10 bits per second (Zheng & Meister 2025) provides an empirical constraint on this bandwidth.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the informational bandwidth of the mind-matter interface. If consciousness biases quantum outcomes, each bias is one bit of information injected into the physical world. The minimality principle says: the smallest informational contribution that permits downward causation. Recent work suggesting conscious processing operates at roughly 10 bits per second (Zheng & Meister 2025) provides an empirical constraint on this bandwidth—remarkably low compared to the brain's ~10 billion bits per second of sensory processing, suggesting that consciousness acts as a narrow semantic bottleneck rather than a high-throughput channel.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains informational specificity. Physical information flows upward to consciousness (we perceive the world). Semantic information flows downward through consciousness's selection among quantum outcomes (we act on what the world *means*). Both directions are informational, but the character of information differs in each direction—syntactic upward, semantic downward.
 
@@ -130,6 +131,8 @@ The metaphysics of information connects to each of the Map's tenets.
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The challenge of specifying how consciousness interfaces with physics
 - [selection-laws](/concepts/selection-laws/) — How conscious states select physical outcomes
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The causal efficacy of consciousness
+- [decoherence](/concepts/decoherence/) — The quantum process that challenges and constrains neural-scale interaction models
+- [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — How attention serves as the mechanism through which semantic information reaches physical processes
 
 ## References
 

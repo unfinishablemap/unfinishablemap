@@ -78,7 +78,7 @@ No misattributions, dropped qualifiers, or source/Map conflation found.
 ### Cross-links Added
 
 - [functionalism](/concepts/functionalism/) (in scope section)
-- [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/) (in Further Reading)
+- [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/) (in Further Reading)
 
 ## Remaining Items
 

@@ -18,6 +18,101 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 00:05 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Word count**: 2372 → 2414 (+42)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing epistemology cross-links, duplicate Further Reading entry)
+- **Enhancements made**: 4 (2 cross-links added, 1 connecting sentence, stale refinement log removed)
+- **Output**: [deep-review-2026-02-24-philosophical-zombies](/reviews/deep-review-2026-02-24-philosophical-zombies/)
+
+## 2026-02-23 23:53 UTC - deep-review
+- **Status**: Success
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 1948 → 2062 (+114)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (inconsistent wikilink format, decoherence challenge unaddressed, 10 bits/s underexplained, missing cross-links)
+- **Enhancements made**: 5 (decoherence acknowledgment, 10 bits/s context, 3 cross-links added)
+- **Output**: [deep-review-2026-02-23-metaphysics-of-information-under-dualism](/reviews/deep-review-2026-02-23-metaphysics-of-information-under-dualism/)
+
+## 2026-02-23 23:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Surplus Void — why consciousness delivers far more qualitative richness than functional requirements demand
+- **Category**: Mixed (Unexplored / Unexplorable)
+- **Output**: [voids-surplus-void-2026-02-23](/research/voids-surplus-void-2026-02-23/)
+- **Key finding**: Wallace's 1870 "surplusage of power" argument, updated through Chalmers' zombie argument, establishes that phenomenal experience is by definition surplus to function — and under dualism this surplus reflects consciousness's fundamental nature rather than evolutionary overshoot
+
+## 2026-02-23 23:20 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
+- **Word count**: 1647 → 1885 (+238)
+- **Critical issues addressed**: 1 (broken reference to coalesced article)
+- **Medium issues addressed**: 4 (epistemological strawman, Fodor engagement, Lakatosian balance, missing cross-link)
+- **Enhancements made**: 4 (Fodor integration, refined realism argument, physicalist counterargument in Lakatos section, cross-link to theoretical virtues)
+- **Output**: [deep-review-2026-02-23-philosophy-of-science-under-dualism](/reviews/deep-review-2026-02-23-philosophy-of-science-under-dualism/)
+
+## 2026-02-23 23:14 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- **Word count**: 1580 → 1873 (+293)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (discourse argument precision, Minimal Quantum Interaction tenet, dangling Searle reference, simulation theory added, Wittgenstein treatment nuanced)
+- **Enhancements made**: 6 (simulation theory section, cross-links to objectivity-and-consciousness/zombie-master-argument/consciousness-only-territories/introspection/intersubjectivity/knowledge-argument, Goldman reference)
+- **Output**: [deep-review-2026-02-23-epistemology-of-other-minds-under-dualism](/reviews/deep-review-2026-02-23-epistemology-of-other-minds-under-dualism/)
+
+## 2026-02-23 22:50 UTC - deep-review
+- **Status**: Success
+- **File**: [direction-of-fit](/concepts/direction-of-fit/)
+- **Word count**: 1641 → 1755 (+114)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (normativity section strengthened, functionalist response tightened, placebo claim qualified, temporal-structure cross-link added)
+- **Output**: [deep-review-2026-02-23-direction-of-fit](/reviews/deep-review-2026-02-23-direction-of-fit/)
+
+## 2026-02-23 22:35 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
+- **Word count**: 2789 → 2870 (+81)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2 cross-links added, prose tightened
+- **Output**: [deep-review-2026-02-23-consciousness-and-the-limits-of-explanation](/reviews/deep-review-2026-02-23-consciousness-and-the-limits-of-explanation/)
+
+## 2026-02-23 22:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/), [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)
+- **Target**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
+- **Archived**: [consciousness-and-the-philosophy-of-explanation](/archive/topics/consciousness-and-the-philosophy-of-explanation/), [consciousness-and-the-meta-problem-of-scientific-explanation](/archive/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
+- **References to review**: 8 active content files
+
+## 2026-02-23 22:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Word count**: 1996 → 2310 (+314)
+- **Critical issues addressed**: 3 (fabricated Mashour reference, overstated post-mortem claim, broken autonoetic-consciousness link)
+- **Medium issues addressed**: 6 (uncited atrophy figure, unused reference removed, missing inline citations, filter theory asymmetry, consciousness gradualism, Parfit attribution)
+- **Enhancements made**: 4 (easy/hard problem connection, 7 new cross-links, evidence calibration, filter self-criticism)
+- **Output**: [deep-review-2026-02-23-consciousness-and-neurodegenerative-disease](/reviews/deep-review-2026-02-23-consciousness-and-neurodegenerative-disease/)
+
+## 2026-02-23 21:50 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Word count**: 1433 → 1643 (+210)
+- **Critical issues addressed**: 2 (misattribution of Lindahl et al. 2017 study, broken frontmatter link)
+- **Medium issues addressed**: 4 (unsupported treatment claim, tradition interpretation omitted, uncited reference, underdeveloped ipseity parallel)
+- **Enhancements made**: 3 (tradition caveat, Britton 2019 integration, embodiment polarity expansion)
+- **Output**: [deep-review-2026-02-23-contemplative-pathology-and-interface-malfunction](/reviews/deep-review-2026-02-23-contemplative-pathology-and-interface-malfunction/)
+
+## 2026-02-23 21:37 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/)
+- **Word count**: 1529 → 1789 (+260)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (incomplete tenet coverage, zombie argument without Map's resolution, ambiguous spandrels framing, uncited references)
+- **Enhancements made**: 7 cross-links added in body text, 7 new related_articles, 4 new Further Reading entries, 2 new tenet paragraphs
+- **Output**: [deep-review-2026-02-23-consciousness-and-the-philosophy-of-biology](/reviews/deep-review-2026-02-23-consciousness-and-the-philosophy-of-biology/)
+
 ## 2026-02-23 20:50 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Bandwidth Problem in Mental Causation

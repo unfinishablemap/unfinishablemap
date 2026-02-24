@@ -66,7 +66,7 @@ Scientific progress depends on third-person observation, operational definitions
 
 **No theory-neutral data.** In science, competing theories at least agree on the data. Ptolemaic and Copernican astronomers observed the same planetary motions. In consciousness studies, materialists and dualists disagree about what counts as data. The materialist treats neural activity as the complete dataset; the dualist insists that first-person experience is an additional datum that neural data does not capture. There is no neutral ground from which to adjudicate.
 
-**The measurement problem recurs.** As the Map explores in [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/), consciousness breaks standard theories of scientific explanation. Every attempt to explain consciousness in terms of something else encounters the explanatory gap. This is not a contingent failure of current theories but a structural feature: explaining *why* physical processes produce experience requires bridging a gap between objective description and subjective reality that no known explanatory strategy can cross.
+**The measurement problem recurs.** As the Map explores in [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/), consciousness breaks standard theories of scientific explanation. Every attempt to explain consciousness in terms of something else encounters the explanatory gap. This is not a contingent failure of current theories but a structural feature: explaining *why* physical processes produce experience requires bridging a gap between objective description and subjective reality that no known explanatory strategy can cross.
 
 ## What Stalled Progress Reveals
 
@@ -96,7 +96,7 @@ The Map itself embodies the kind of progress available in this domain: not conve
 
 ## Further Reading
 
-- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/)
+- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
 - [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/)

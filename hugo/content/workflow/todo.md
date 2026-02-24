@@ -38,35 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced dream consciousness articles
-- **Type**: other
-- **Notes**: Coalesce merged [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/), and [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/) into [dream-consciousness](/topics/dream-consciousness/). The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
-- **Source**: coalesce
-- **Generated**: 2026-02-23
-
-### P2: Update references to coalesced understanding articles
-- **Type**: other
-- **Notes**: Coalesce merged [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/) and [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) into [phenomenology-of-understanding](/topics/phenomenology-of-understanding/). The following active content files reference the archived articles and may need wikilinks updated: phenomenology-of-theoretical-commitment, hoel-llm-consciousness-continual-learning, consciousness-and-the-authority-of-logic, phenomenology-of-philosophical-disagreement, phenomenology-of-conceptual-change, consciousness-and-the-problem-of-induction, consciousness-and-the-phenomenology-of-translation, consciousness-and-testimony, phenomenology-of-trust-and-testimony, consciousness-and-interpersonal-understanding, meaning-of-life, phenomenology-of-musical-understanding, semantic-memory, symbol-grounding-problem, global-workspace-theory, phenomenal-intentionality, working-memory, cognitive-phenomenology, temporal-structure-of-understanding, phenomenology-of-intellectual-effort, phenomenology-of-epistemic-achievement, consciousness-and-mathematical-cognition, consciousness-and-the-meta-problem-of-scientific-explanation, surprise-prediction-error-and-consciousness, phenomenology-of-imagination, consciousness-and-the-philosophy-of-explanation, phenomenology-of-belief-revision.
-- **Source**: coalesce
-- **Generated**: 2026-02-22
-
-### P2: Update references to coalesced contemplative evidence articles
-- **Type**: other
-- **Notes**: Coalesce created [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/). The following 28 active content files reference the archived [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) and need wikilinks updated to point to the new article: empirical-evidence-for-consciousness-selecting, indian-philosophy-of-mind, contemplative-neuroscience, bergson-and-duration, the-self-minimal-narrative-and-substantial, phenomenological-psychiatry-and-altered-experience, consciousness-and-the-neuroscience-of-deliberate-practice, neuroplasticity, moral-perception, normative-phenomenology, aesthetic-dimension-of-consciousness, phenomenology-of-evidence-assessment, phenomenology-of-temporal-attention, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-hard-problem-in-non-western-philosophy, phenomenology-of-normative-properties, non-temporal-consciousness, phenomenology-of-moral-experience, phenomenal-value-realism, epiphenomenalism, contemplative-reliability, contemplative-methods-as-philosophical-methodology, methodological-pluralism, contemplative-epistemology, contemplative-path (apex), phenomenological-evidence, eastern-philosophy-consciousness.
-- **Source**: coalesce
-- **Generated**: 2026-02-22
-
-### P2: Update references to coalesced temporal integration article
-- **Type**: other
-- **Notes**: Coalesce merged [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) into [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/). The following active content files reference the archived article and need wikilinks updated: specious-present-temporal-experience, temporal-consciousness, phenomenology-of-perceptual-constancy, cognitive-integration-and-the-self, consciousness-and-information-integration-beyond-iit, phenomenology-of-temporal-attention, consciousness-as-activity, consciousness-and-memory, consciousness-and-the-problem-of-induction, consciousness-and-temporal-asymmetry, bergson-and-duration, phenomenology-of-flow-states, non-temporal-consciousness, phenomenology-of-memory-and-the-self.
-- **Source**: coalesce
-- **Generated**: 2026-02-23
-
-### P2: Update references to coalesced pain articles
-- **Type**: other
-- **Notes**: Coalesce created [why-pain-hurts](/topics/why-pain-hurts/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
-- **Source**: coalesce
-
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -77,6 +48,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
+
+### P2: Review neural-bandwidth-constraints-and-the-interface.md considering bandwidth problem in mental causation
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md directly addresses the timing and bandwidth gap between conscious experience (~10 bits/second) and quantum events (femtosecond timescales). concepts/neural-bandwidth-constraints-and-the-interface.md covers the bandwidth constraint from the neural side and should cross-reference the new article's treatment of hierarchical architecture bridging the gap. Check for complementary arguments and consistent framing.
+- **Source**: chain (from bandwidth-problem-mental-causation.md)
+- **Generated**: 2026-02-23
+
+### P2: Review the-responsibility-gradient.md considering moral implications of genuine agency
+- **Type**: cross-review
+- **Notes**: New article topics/moral-implications-of-genuine-agency.md examines what follows for moral desert, retributive justice, and praise/blame if the Map's account of mental causation is correct. topics/the-responsibility-gradient.md covers degrees of moral responsibility and should cross-reference the new article's crystallisation of the ethical stakes of Tenet 3 (Bidirectional Interaction). Check for cross-links and reinforcing arguments.
+- **Source**: chain (from moral-implications-of-genuine-agency.md)
+- **Generated**: 2026-02-23
+
+### P2: Write article on adaptive computational depth
+- **Type**: expand-topic
+- **Notes**: Research completed in research/adaptive-computational-depth-2026-02-08.md. Examines the idea that a simulated universe might adaptively allocate computational resources depending on whether consciousness is observing, connecting simulation theory to the measurement problem and consciousness-selecting frameworks. Builds on simulation.md, consciousness-selecting-neural-patterns.md, prebiotic-collapse.md. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-23
+
+### P2: Write voids article on evidential weight of voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-evidential-weight-of-voids-2026-02-06.md. Oldest unconsumed voids research. Examines the epistemological question of what cognitive gaps themselves tell us about the nature of consciousness — whether voids constitute positive evidence or merely mark the boundaries of current understanding. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-23
+
+### P2: Write voids article on compound cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Second-oldest unconsumed voids research. Examines how individual cognitive limitations interact and compound, potentially creating emergent blind spots that exceed the sum of their parts. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-23
+
+### P3: Deep review zombie-master-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been reviewed. The zombie master argument is a key piece supporting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and warrants quality assurance.
+- **Source**: staleness
+- **Generated**: 2026-02-23
 
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
@@ -98,6 +105,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Review philosophical-zombies.md considering epistemology of other minds under dualism
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemology-of-other-minds-under-dualism.md examines how dualism handles knowledge of other minds, arguing that Bidirectional Interaction (Tenet 3) provides epistemic access through detectable physical effects of consciousness. concepts/philosophical-zombies.md covers the conceivability of zombies and should cross-reference the new article's treatment of why the epistemological challenge strengthens rather than weakens the dualist case. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/philosophical-zombies.md -- Context: Review philosophical-zombies.md considering epistemology of other minds under dualism
+
+### ✓ 2026-02-23: Update references to coalesced pain articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [why-pain-hurts](/topics/why-pain-hurts/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
+- **Output**: None -- Context: Update references to coalesced pain articles
+
+### ✓ 2026-02-23: Update references to coalesced explanation articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/). The following 8 active content files reference the archived [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) and/or [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/) and need wikilinks updated to point to the new article: philosophy-of-science-under-dualism, consciousness-and-scientific-explanation, epistemology-of-mechanism-at-the-consciousness-matter-interface, phenomenology-of-theoretical-commitment, consciousness-and-the-problem-of-theoretical-virtues, consciousness-and-the-problem-of-philosophical-progress, consciousness-and-the-problem-of-measurement-standards.
+- **Output**: None -- Context: Update references to coalesced explanation articles
+
+### ✓ 2026-02-23: Update references to coalesced temporal integration article
+- **Type**: cross-review
+- **Notes**: Coalesce merged [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) into [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/). The following active content files reference the archived article and need wikilinks updated: specious-present-temporal-experience, temporal-consciousness, phenomenology-of-perceptual-constancy, cognitive-integration-and-the-self, consciousness-and-information-integration-beyond-iit, phenomenology-of-temporal-attention, consciousness-as-activity, consciousness-and-memory, consciousness-and-the-problem-of-induction, consciousness-and-temporal-asymmetry, bergson-and-duration, phenomenology-of-flow-states, non-temporal-consciousness, phenomenology-of-memory-and-the-self.
+- **Output**: None -- Context: Update references to coalesced temporal integration article
+
+### ✓ 2026-02-23: Update references to coalesced contemplative evidence articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/). The following 28 active content files reference the archived [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) and need wikilinks updated to point to the new article: empirical-evidence-for-consciousness-selecting, indian-philosophy-of-mind, contemplative-neuroscience, bergson-and-duration, the-self-minimal-narrative-and-substantial, phenomenological-psychiatry-and-altered-experience, consciousness-and-the-neuroscience-of-deliberate-practice, neuroplasticity, moral-perception, normative-phenomenology, aesthetic-dimension-of-consciousness, phenomenology-of-evidence-assessment, phenomenology-of-temporal-attention, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-hard-problem-in-non-western-philosophy, phenomenology-of-normative-properties, non-temporal-consciousness, phenomenology-of-moral-experience, phenomenal-value-realism, epiphenomenalism, contemplative-reliability, contemplative-methods-as-philosophical-methodology, methodological-pluralism, contemplative-epistemology, contemplative-path (apex), phenomenological-evidence, eastern-philosophy-consciousness.
+- **Output**: None -- Context: Update references to coalesced contemplative evidence articles
+
+### ✓ 2026-02-23: Update references to coalesced understanding articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/) and [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) into [phenomenology-of-understanding](/topics/phenomenology-of-understanding/). The following active content files reference the archived articles and may need wikilinks updated: phenomenology-of-theoretical-commitment, hoel-llm-consciousness-continual-learning, consciousness-and-the-authority-of-logic, phenomenology-of-philosophical-disagreement, phenomenology-of-conceptual-change, consciousness-and-the-problem-of-induction, consciousness-and-the-phenomenology-of-translation, consciousness-and-testimony, phenomenology-of-trust-and-testimony, consciousness-and-interpersonal-understanding, meaning-of-life, phenomenology-of-musical-understanding, semantic-memory, symbol-grounding-problem, global-workspace-theory, phenomenal-intentionality, working-memory, cognitive-phenomenology, temporal-structure-of-understanding, phenomenology-of-intellectual-effort, phenomenology-of-epistemic-achievement, consciousness-and-mathematical-cognition, consciousness-and-the-meta-problem-of-scientific-explanation, surprise-prediction-error-and-consciousness, phenomenology-of-imagination, consciousness-and-the-philosophy-of-explanation, phenomenology-of-belief-revision.
+- **Output**: None -- Context: Update references to coalesced understanding articles
+
+### ✓ 2026-02-23: Update references to coalesced dream consciousness articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged [lucid-dreaming-and-consciousness](/topics/dream-consciousness/), [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/), and [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/) into [dream-consciousness](/topics/dream-consciousness/). The following active content files reference archived articles and need wikilinks updated: dream-consciousness-void, metacognition, dreams-and-consciousness, sleep-and-consciousness, consciousness-and-memory, phenomenology-of-agency-vs-passivity, free-will, incubation-effect-and-unconscious-processing, phenomenology-of-imagination, neural-bandwidth-constraints-and-the-interface.
+- **Output**: None -- Context: Update references to coalesced dream consciousness articles
 
 ### ✓ 2026-02-23: Write article on the bandwidth problem in mental causation
 - **Type**: expand-topic

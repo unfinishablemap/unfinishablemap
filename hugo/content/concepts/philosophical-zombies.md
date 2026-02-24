@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-16 13:13:00+00:00
+ai_modified: 2026-02-24 00:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,8 @@ concepts:
 - '[[mysterianism]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
+- '[[epistemology-of-other-minds-under-dualism]]'
+- '[[problem-of-other-minds]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 description: 'The conceivability argument against physicalism: beings functionally
@@ -24,7 +26,7 @@ description: 'The conceivability argument against physicalism: beings functional
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 16:37:00+00:00
+last_deep_review: 2026-02-24 00:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +104,7 @@ You say things like "I am conscious" and "I experience qualia." Presumably, your
 
 If physicalism is true, your utterances are caused by the same physical processes that cause the zombie's. But then your consciousness isn't playing a causal role in producing your reports about consciousness. This makes your reports accidentally accurate at best—a strange result for the physicalist who trusts their own introspection enough to theorize about consciousness.
 
-This connects to the critique of [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable.
+This connects to the critique of [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable. The self-stultification problem also sharpens the [epistemology of other minds](/concepts/epistemology-of-other-minds-under-dualism/): if a zombie's reports are indistinguishable from a conscious being's, verbal testimony alone cannot settle whether another person is conscious.
 
 ## The Illusionist Challenge
 
@@ -204,25 +206,11 @@ The zombie argument connects to all five of the Map's tenets.
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of our understanding
 - [decoherence](/concepts/decoherence/) — Why quantum mechanisms in the brain remain viable
 - [haecceity](/concepts/haecceity/) — The irreducible "thisness" that zombie scenarios presuppose
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The full case for dualism, including the conceivability argument
+- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How zombie conceivability shapes epistemic access to other minds
+- [problem-of-other-minds](/concepts/problem-of-other-minds/) — The broader epistemological puzzle about knowing others are conscious
 
 ### External Sources
 - David Chalmers, *The Conscious Mind* (1996) — The definitive treatment
 - David Chalmers, "Does Conceivability Entail Possibility?" (2002)
 - Joseph Levine, "Materialism and Qualia: The Explanatory Gap" (1983)
 - Keith Frankish, "Illusionism as a Theory of Consciousness" (2016)
-
-<!-- AI REFINEMENT LOG - 2026-02-16
-Changes made:
-- Collapsed "The Regress Objection and Frankish's Response" and "Why the Regress Objection Persists" into single compressed "The Regress Objection" subsection
-- Removed duplicate deployment of Tallis's "misrepresentation presupposes presentation" argument
-- Added cross-references to illusionism.md#regress and illusionism.md#illusionist-response for full treatment
-- Added acknowledgment that many philosophers consider the regress objection question-begging
-- Preserved the zombie-specific contribution: conceivability regenerates at the level of seeming itself
-- Removed "specific character problem" and "contemplative evidence" points (covered in illusionism.md)
-
-Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
-Key improvements: Eliminates ~200 words of near-identical argument; focuses on what's specific to zombie conceivability.
-
-This log should be removed after human review.
--->

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Consciousness and the Meta-Problem of Scientific Explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
+**Article**: [Consciousness and the Meta-Problem of Scientific Explanation](/topics/consciousness-and-the-limits-of-explanation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

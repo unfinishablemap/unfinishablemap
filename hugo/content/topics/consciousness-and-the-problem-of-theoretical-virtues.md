@@ -62,7 +62,7 @@ Empirical adequacy thus becomes *insufficient as a discriminator*. Physicalism a
 
 ### Explanatory Power and the Explanatory Gap
 
-Explanatory power is typically the most decisive theoretical virtue. The theory that makes phenomena most intelligible wins. But consciousness reveals a circularity at the heart of this virtue. Explanatory power is assessed by whether a theory produces *understanding* — and understanding is a phenomenal state. As [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/) examines in detail, every major model of scientific explanation (deductive-nomological, causal-mechanical, unificationist) breaks down when applied to consciousness.
+Explanatory power is typically the most decisive theoretical virtue. The theory that makes phenomena most intelligible wins. But consciousness reveals a circularity at the heart of this virtue. Explanatory power is assessed by whether a theory produces *understanding* — and understanding is a phenomenal state. As [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) examines in detail, every major model of scientific explanation (deductive-nomological, causal-mechanical, unificationist) breaks down when applied to consciousness.
 
 For the mind-body problem specifically, the difficulty is starker. Physicalism offers no explanatory connection between neural processes and phenomenal character. It is not that the connection is complicated; it is that we lack any model of what such a connection would even look like. Joseph Levine's [explanatory-gap](/concepts/explanatory-gap/) (1983) identifies this as a structural deficit, not a temporary one. The identity "pain = C-fiber activation" does not explain pain's phenomenal character the way "water = H₂O" explains water's macroscopic properties.
 
@@ -129,8 +129,8 @@ The Map does not claim that theoretical virtues are useless. In their home domai
 ## Further Reading
 
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The parsimony argument examined in detail
-- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/) — Why explanation itself breaks down for consciousness
-- [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/) — Why science's explanatory apparatus fails for consciousness
+- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why explanation itself breaks down for consciousness
+- [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why science's explanatory apparatus fails for consciousness
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Multiple independent arguments converging on irreducibility
 - [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/) — How holding a theory reshapes conscious experience
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural deficit between physical and phenomenal

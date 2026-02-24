@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 11:50:00+00:00
+ai_modified: 2026-02-23 22:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Direction of fit classifies mental states by whether mind adapts to
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-23 22:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,6 +28,7 @@ title: Direction of Fit
 topics:
 - '[[consciousness-and-aesthetic-creation]]'
 - '[[placebo-effect-and-mental-causation]]'
+- '[[temporal-structure-of-consciousness]]'
 ---
 
 Direction of fit is a classification of mental states according to how they relate to the world. Beliefs have *mind-to-world* direction of fit: when a belief conflicts with reality, the belief is at fault and should change. Desires have *world-to-mind* direction of fit: when reality conflicts with a desire, reality is at fault and should change. This asymmetry, introduced by Elizabeth Anscombe in 1957 and developed by John Searle in 1983, reveals something fundamental about [intentionality](/concepts/intentionality/)—and about whether consciousness can be causally inert.
@@ -62,7 +63,9 @@ Searle connected direction of fit to his broader theory of [intentionality](/con
 
 Direction of fit is not merely descriptive but *normative*. A belief that fails to match the world is not just different from reality—it is defective. It *ought* to change. A desire whose object is not realised is not defective in the same way. The world *ought* to change (or so the desire "says").
 
-This normativity is difficult to capture in purely physical terms. Neural states fire or do not fire; they do not *ought* to match anything. The normative dimension of direction of fit seems to require something more than physical description provides—an intentional stance that evaluates fit between representation and reality. If [phenomenal intentionality theory](/concepts/phenomenal-intentionality/) is correct and genuine intentional content requires phenomenal consciousness, then direction of fit inherits this requirement. The normative structure of mental states—the way beliefs *should* track truth and desires *should* guide action—may be grounded in phenomenal character rather than functional role alone.
+This normativity is difficult to capture in purely physical terms. Neural circuits do implement error signals and correction mechanisms that track reliability—Bayesian updating, prediction error minimisation, synaptic adjustment. These implement normative-like structure. But the *phenomenal* dimension of normativity—the felt sense that a belief is *wrong*, the experienced pull of a desire toward its object—is not obviously captured by describing these mechanisms. The gap parallels the broader [explanatory gap](/concepts/explanatory-gap/): just as describing neural correlates does not entail phenomenal experience, describing error-correction circuitry does not entail that a state *ought* to match reality.
+
+If [phenomenal intentionality theory](/concepts/phenomenal-intentionality/) is correct and genuine intentional content requires phenomenal consciousness, then direction of fit inherits this requirement. The normative structure of mental states—the way beliefs *should* track truth and desires *should* guide action—may be grounded in phenomenal character rather than functional role alone.
 
 ## World-to-Mind Fit and Mental Causation
 
@@ -72,7 +75,7 @@ For this to work, the intentional state must be causally efficacious. The intent
 
 The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet takes world-to-mind fit at face value. When consciousness holds a representation of a desired state and acts to bring it about, the phenomenal content guides physical outcomes. The [aesthetic creation](/topics/consciousness-and-aesthetic-creation/) case makes this vivid: the painter holds a phenomenal template (world-to-mind fit) and reshapes canvas to match, with continuous phenomenal feedback (mind-to-world fit) guiding each stroke.
 
-The [placebo effect](/topics/placebo-effect-and-mental-causation/) provides empirical evidence. When a patient believes a treatment will reduce pain, the belief's content—what it is *about*—determines which physiological cascades activate. The content-specificity of placebo responses suggests that the representational content of beliefs (mind-to-world states) can trigger world-to-mind causal chains in the body.
+The [placebo effect](/topics/placebo-effect-and-mental-causation/) provides suggestive empirical evidence. When a patient believes a treatment will reduce pain, the belief's content—what it is *about*—correlates with which physiological cascades activate. A physicalist can attribute this content-specificity to neural patterns rather than irreducible mental content. But the direction-of-fit framing sharpens the puzzle: the belief's representational content (mind-to-world) appears to initiate world-to-mind causal chains in the body, and whether neural implementation fully accounts for this content-dependence remains contested.
 
 ## Direction of Fit and Agent Causation
 
@@ -86,7 +89,7 @@ The double direction of fit in intentions-in-action is particularly telling. Whe
 
 **The biological objection**: Some argue direction of fit reduces to biological function. Beliefs have mind-to-world fit because organisms that form accurate representations survive; desires have world-to-mind fit because organisms that act on motivational states reproduce. On this view, direction of fit is an evolutionary story, not a mark of irreducibility. The Map's response: evolutionary function may explain *why* these structures exist without explaining *what they are*. The normative dimension—that beliefs *should* match reality—is not captured by the historical fact that accurate representation was adaptive.
 
-**The functionalist reduction**: Functionalists can define direction of fit structurally: mind-to-world states are those revised in response to perceptual input; world-to-mind states are those that generate action. No phenomenal consciousness needed. However, this structural account faces the same challenge that [functionalism](/concepts/functionalism/) faces generally: it captures the relational structure while potentially leaving out the qualitative character. Whether a purely functional account of direction of fit captures everything that matters depends on whether the normative and phenomenal dimensions are essential or epiphenomenal.
+**The functionalist reduction**: Functionalists can define direction of fit structurally: mind-to-world states are those revised in response to perceptual input; world-to-mind states are those that generate action. No phenomenal consciousness needed. This structural account captures the *relational asymmetry* between beliefs and desires. But it faces the same challenge that [functionalism](/concepts/functionalism/) faces generally: structure without qualitative character may be structure without genuine normativity. A thermostat revises its state in response to temperature (mind-to-world analogue) and activates heating to change the environment (world-to-mind analogue), yet nothing *ought* to be the case for the thermostat. If phenomenal consciousness is what converts structural asymmetry into genuine normative direction, the functional reduction leaves out what matters most.
 
 **The emotion problem**: Emotions complicate the framework. Fear of a bear involves mind-to-world fit (representing the bear as dangerous) and world-to-mind fit (motivating escape). Admiration involves representing something as excellent (mind-to-world) without clear desire to change anything. Undirected anxiety may lack propositional content entirely. These complex cases suggest that direction of fit is a spectrum or multidimensional phenomenon rather than a strict dichotomy.
 
@@ -116,6 +119,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
 - [mental-causation](/concepts/mental-causation/) — The problem direction of fit helps frame
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Empirical evidence that belief content drives physiological outcomes
+- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thought that may ground direction of fit
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that world-to-mind fit challenges
 

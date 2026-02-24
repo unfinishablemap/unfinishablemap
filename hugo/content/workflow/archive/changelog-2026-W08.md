@@ -1890,7 +1890,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-20 14:51 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Meta-Problem of Scientific Explanation
-- **Output**: [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
+- **Output**: [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - **Word count**: 1783
 - **Based on research**: no
 

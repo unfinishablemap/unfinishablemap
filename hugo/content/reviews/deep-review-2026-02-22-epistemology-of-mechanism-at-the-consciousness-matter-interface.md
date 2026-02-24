@@ -71,7 +71,7 @@ None. The article is well-constructed with accurate attributions, sound argument
 - [causal-interface](/voids/causal-interface/) (inline, Epistemic Asymmetry section)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) (inline, Convergence Arguments section)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) (inline, Phenomenological Analysis section)
-- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/) (inline, Mechanism section)
+- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) (inline, Mechanism section)
 - [explanatory-gap](/concepts/explanatory-gap/) (inline, Circularity section)
 - [many-worlds](/concepts/many-worlds/) (inline, Mechanism section)
 
@@ -81,7 +81,7 @@ None. The article is well-constructed with accurate attributions, sound argument
 - [selection-laws](/concepts/selection-laws/) — Further Reading
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Further Reading (Epistemology subsection)
 - [causal-interface](/voids/causal-interface/) — Further Reading
-- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/) — Further Reading
+- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Further Reading
 - [explanatory-gap](/concepts/explanatory-gap/) — Further Reading
 - [attention-as-interface](/concepts/attention-as-interface/) — Further Reading (Core concepts)
 
