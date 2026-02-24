@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-22T08:14:00+00:00
+ai_modified: 2026-02-24T10:59:00+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -122,7 +122,7 @@ The Map separates two claims that often get conflated:
 
 But (2) does not entail that consciousness is *universally required* for collapse. Objective reduction (Penrose-style gravity-induced collapse, GRW spontaneous localization, or some yet-unknown mechanism) provides the baseline. Collapse happens throughout the universe, before and beyond minds, through physical processes.
 
-What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing—particularly where the [[concepts/consciousness-selecting-neural-patterns|selection of neural patterns]] matters for behavior—consciousness biases which outcomes become actual. The quantum Zeno effect (via [[attention-as-interface|attention]]) allows consciousness to prolong certain superpositions, effectively selecting among possibilities. But this selection occurs *within* an already-collapsing physics, not as the sole source of collapse.
+What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing—particularly where the [[concepts/consciousness-selecting-neural-patterns|selection of neural patterns]] matters for behavior—consciousness biases which outcomes become actual. This is [[adaptive-computational-depth|adaptive computational depth]] applied to collapse: reality operates at baseline resolution everywhere, with consciousness increasing the depth of determination where minds engage. The quantum Zeno effect (via [[attention-as-interface|attention]]) allows consciousness to prolong certain superpositions, effectively selecting among possibilities. But this selection occurs *within* an already-collapsing physics, not as the sole source of collapse.
 
 ### The Decoherence Challenge
 

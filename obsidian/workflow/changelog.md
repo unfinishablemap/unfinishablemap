@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 10:59 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/adaptive-computational-depth]]
+- **Word count**: 1682 → 1682 (no change — focus was orphan integration)
+- **Critical issues addressed**: 0 (none found; article stable from earlier review)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 5 inbound cross-links added from simulation, participatory-universe, consciousness-and-the-physics-of-information, consciousness-selecting-neural-patterns, prebiotic-collapse
+- **Output**: [[reviews/deep-review-2026-02-24b-adaptive-computational-depth]]
+
 ## 2026-02-24 10:44 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All 401 non-draft articles (topics: 202, concepts: 198, tenets: 1) plus voids (~66) and apex (~14)

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate adaptive-computational-depth.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-02-24 in concepts/. Explores how computational depth interacts with consciousness — add cross-references from related articles on computational theories of mind, complexity, and cognitive architecture.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
 ### P2: Integrate language-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Covers the relationship between language and conscious experience — add cross-references from articles on phenomenology, cognitive phenomenology, inner speech, and thought.
@@ -170,6 +164,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Integrate adaptive-computational-depth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-24 in concepts/. Explores how computational depth interacts with consciousness — add cross-references from related articles on computational theories of mind, complexity, and cognitive architecture.
+- **Output**: obsidian/concepts/adaptive-computational-depth.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-24: Cross-review convergent-cognitive-limits.md considering adaptive cognitive limits framework
 - **Type**: cross-review

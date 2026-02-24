@@ -4,7 +4,7 @@ description: "Wheeler's participatory universe — the thesis that observers con
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T08:14:00+00:00
+ai_modified: 2026-02-24T10:59:00+00:00
 last_deep_review: 2026-02-22T08:14:00+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ Wheeler (1911–2008) spent decades at the frontier of physics — contributing 
 
 Three interlocking ideas form his participatory framework:
 
-**It from bit.** Every physical quantity "derives its ultimate significance from bits, binary yes-or-no indications" extracted through acts of observation (Wheeler 1990). Information is not a feature of pre-existing physical reality but the means by which that reality comes to be. Matter comes from measurement, not measurement from matter.
+**It from bit.** Every physical quantity "derives its ultimate significance from bits, binary yes-or-no indications" extracted through acts of observation (Wheeler 1990). Information is not a feature of pre-existing physical reality but the means by which that reality comes to be. Matter comes from measurement, not measurement from matter. This is [[adaptive-computational-depth|adaptive computational depth]] avant la lettre: the universe's informational content increases where observers engage with it.
 
 **The delayed-choice experiment.** Wheeler proposed — and experimentalists later confirmed — that a measurement choice made *now* determines whether a photon behaved as a wave or a particle in the *past*. This is not retrocausal in the ordinary sense; it shows that quantum properties are not fixed until registered. Present observation reaches backward. "We are participants in bringing into being not only the near and here, but the far away and long ago."
 

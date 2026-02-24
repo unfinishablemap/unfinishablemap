@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-07T08:15:00+00:00
+ai_modified: 2026-02-24T10:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ The bandwidth constraint shapes what selection can accomplish:
 | ~3-4 distinct choices/second | Matches phenomenology of deliberate decision-making |
 | Cumulative over time | Sustained attention, not instantaneous selection |
 
-This explains why selection is policy-level: consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." The quantum mechanism implements the selected policy; consciousness chooses among policies. Individual neural events fall out from the chosen pattern.
+This explains why selection is policy-level: consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." The quantum mechanism implements the selected policy; consciousness chooses among policies. Individual neural events fall out from the chosen pattern. This coarse-grained allocation—detail concentrating where consciousness attends—is what the Map calls [[adaptive-computational-depth|adaptive computational depth]].
 
 The bandwidth constraint also provides empirical grounding. A selection mechanism claiming consciousness directly determines billions of quantum events per second would violate what we know about conscious processing limits. Policy-level selection respects these constraints.
 
