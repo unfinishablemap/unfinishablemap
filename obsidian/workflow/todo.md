@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the-unobservable-self.md considering absorption void insights
-- **Type**: cross-review
-- **Notes**: New article voids/absorption-void.md examines the paradox of self-opacity during peak conscious engagement. the-unobservable-self.md covers the subject that cannot be its own object. Should cross-reference the absorption void as a specific instance where self-observation fails — not because the self is structurally hidden but because observation terminates the state being observed. Check for cross-links and argument reinforcement.
-- **Source**: chain (from absorption-void.md)
-- **Generated**: 2026-02-24
-
 ### P2: Integrate temporal-phenomenology-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Recently deep-reviewed. Connects temporal phenomenology to quantum selection — add cross-references from articles on temporal consciousness, quantum mind, and the measurement problem.
@@ -158,6 +152,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review the-unobservable-self.md considering absorption void insights
+- **Type**: cross-review
+- **Notes**: New article voids/absorption-void.md examines the paradox of self-opacity during peak conscious engagement. the-unobservable-self.md covers the subject that cannot be its own object. Should cross-reference the absorption void as a specific instance where self-observation fails — not because the self is structurally hidden but because observation terminates the state being observed. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/the-unobservable-self.md -- Context: Cross-review the-unobservable-self.md considering absorption void insights
 
 ### ✓ 2026-02-24: Integrate language-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
