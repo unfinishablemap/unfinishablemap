@@ -70,6 +70,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[emergence-void|The Emergence Void]] — How arrangement produces novelty—the gap at every level transition
 - [[other-minds-void|The Other Minds Void]] — Access to consciousness beyond our own
 - [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
+- [[synesthetic-void|The Synesthetic Void]] — Phenomenal dimensions closed to most minds within our own species
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
 - [[valence-void|The Valence Void]] — Why experience has a built-in good/bad dimension
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach

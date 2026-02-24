@@ -37,22 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the synesthetic void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-synesthetic-void-2026-02-23.md. The synesthetic void explores phenomenal experiences permanently inaccessible to most humans — concrete empirical evidence that consciousness is not uniform even within humanity. The "extra qualia problem" strengthens the case that qualia resist physical reduction. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Review introspective-opacity.md and phenomenology-of-the-edge.md considering the-givenness-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/the-givenness-void.md created 2026-02-24. The givenness void explores how consciousness cannot examine its own presentational immediacy. introspective-opacity.md covers inability to observe cognitive mechanisms, and phenomenology-of-the-edge.md covers the experience of approaching cognitive limits — both closely related. Check for cross-links, ensure no overlap, and verify complementary framing.
-- **Source**: chain (from the-givenness-void.md)
-- **Generated**: 2026-02-24
-
 ### P2: Review three-kinds-of-void.md considering new void articles
 - **Type**: cross-review
 - **Notes**: Five new void articles created 2026-02-24 (transparency-void, indexical-void, plurality-void, observation-void, ownership-void). three-kinds-of-void.md provides the void taxonomy and should categorize these new entries. Check which kind each new void belongs to, add cross-links, and verify the taxonomy still covers all cases.
 - **Source**: chain (from transparency-void.md, indexical-void.md, plurality-void.md, observation-void.md, ownership-void.md)
+- **Generated**: 2026-02-24
+
+### P2: Review affective-void.md and other-minds-void.md considering synesthetic-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/synesthetic-void.md created 2026-02-24. The synesthetic void explores intra-species experiential inaccessibility through the lens of synesthesia. affective-void.md already references synesthesia briefly and other-minds-void.md covers the broader access problem. Check for cross-links, ensure complementary framing, and verify no redundant arguments.
+- **Source**: chain (from synesthetic-void.md)
 - **Generated**: 2026-02-24
 
 ### P3: Deep review valence-void.md
@@ -200,6 +194,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the synesthetic void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-synesthetic-void-2026-02-23.md. The synesthetic void explores phenomenal experiences permanently inaccessible to most humans — concrete empirical evidence that consciousness is not uniform even within humanity. The "extra qualia problem" strengthens the case that qualia resist physical reduction. Target section: voids/.
+- **Output**: Write voids article on the synesthetic void
 
 ### ✓ 2026-02-24: Review tenet-generated-voids.md considering indexical-void and plurality-void insights
 - **Type**: cross-review
