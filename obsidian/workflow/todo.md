@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the indexical void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-indexical-void-2026-02-24.md. The indexical void explores the cognitive territory where first-person identity confronts the impossibility of occupying another's viewpoint — why this consciousness is here rather than there. Directly supports Tenet 4 (No Many Worlds) via the centrality of indexical identity. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Write concept article on quantum measurement and subjective probability
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and observer-dependent probability interpretations provide philosophical infrastructure for the Map's consciousness-collapse framework. Addresses how subjective probability assignments relate to quantum measurement outcomes. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
@@ -170,6 +164,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the indexical void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-indexical-void-2026-02-24.md. The indexical void explores the cognitive territory where first-person identity confronts the impossibility of occupying another's viewpoint — why this consciousness is here rather than there. Directly supports Tenet 4 (No Many Worlds) via the centrality of indexical identity. Target section: voids/.
+- **Output**: Write voids article on the indexical void
 
 ### ✓ 2026-02-24: Address decoherence gap in the-epiphenomenalist-threat.md
 - **Type**: refine-draft
