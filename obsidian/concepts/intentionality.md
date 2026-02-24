@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-16T13:13:00+00:00
+ai_modified: 2026-02-24T11:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,6 +90,8 @@ Consider Galen Strawson's foreign language argument: a French speaker and Englis
 This strengthens the case against naturalized intentionality. If intentionality derives from phenomenal character, and phenomenal character resists physical reduction (the [[hard-problem-of-consciousness|hard problem]]), then intentionality is doubly irreducible. The failure to naturalize aboutness isn't a temporary gap but a deep constraint on physicalist explanation—another instance of the [[explanatory-gap|explanatory gap]] that pervades consciousness studies.
 
 ### From Intentionality to Meaning
+
+The connection between intentionality and meaning has deep roots in philosophy of language. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [[language-and-consciousness|philosophy of language and consciousness]] examines how these analyses—alongside the private language argument and failures of logical positivism—reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
 
 The [[consciousness-and-semantic-understanding|Phenomenal Constitution Thesis]] (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content—not merely accompanies it.
 

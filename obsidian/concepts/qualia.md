@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-03T19:18:00+00:00
+ai_modified: 2026-02-24T11:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ You cannot directly access my qualia, nor I yours. We can compare behaviour, poi
 
 ### Ineffable
 
-Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [[pre-conceptual-knowing|conceptual thought itself]], which classifies by abstracting from particulars and thereby loses qualitative character. The [[consciousness-and-language-interface|consciousness-language interface]] analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss.
+Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [[pre-conceptual-knowing|conceptual thought itself]], which classifies by abstracting from particulars and thereby loses qualitative character. The [[consciousness-and-language-interface|consciousness-language interface]] analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. The [[language-and-consciousness|philosophy of language and consciousness]] shows why this ineffability is not merely a practical limitation—reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
 
 ### Directly Apprehensible
 

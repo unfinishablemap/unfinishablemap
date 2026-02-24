@@ -4,7 +4,7 @@ description: "How consciousness and language interact bidirectionally: language 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-03T19:18:00+00:00
+ai_modified: 2026-02-24T11:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -197,6 +197,7 @@ The consciousness-language interface connects to the Map's [[tenets]] at multipl
 
 ## Further Reading
 
+- [[language-and-consciousness]] — The philosophical infrastructure: how meaning, reference, and the private language argument reveal consciousness resists linguistic dissolution
 - [[language-recursion-and-consciousness]] — How recursive language may require consciousness
 - [[language-thought-boundary]] — The limits where thought exceeds language
 - [[cognitive-phenomenology]] — The phenomenal character of thinking

@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-02-03T19:18:00+00:00
+ai_modified: 2026-02-24T11:14:00+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics: []
@@ -30,7 +30,7 @@ last_deep_review: 2026-02-01T13:51:00+00:00
 
 "The limits of my language mean the limits of my world." Wittgenstein's famous proposition invites a question: are the limits of language and the limits of thought the same? If they diverge—if thought can exceed language, or language can articulate what cannot be thought—the boundary between them constitutes a [[voids|void]] worth mapping. This article explores that boundary: where speakable and thinkable part ways, and what the divergence reveals about cognitive architecture.
 
-The relationship is not simple. Visual thinkers report cognition that resists verbal capture. Mystics claim knowledge that exceeds all possible expression. Philosophers argue about qualia that cannot be communicated. Yet language shapes thought in measurable ways—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested. The [[consciousness-and-language-interface|consciousness-language interface]] explores the complementary question: how language and consciousness shape each other bidirectionally, with loss in both directions.
+The relationship is not simple. Visual thinkers report cognition that resists verbal capture. Mystics claim knowledge that exceeds all possible expression. Philosophers argue about qualia that cannot be communicated. Yet language shapes thought in measurable ways—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested. The [[consciousness-and-language-interface|consciousness-language interface]] explores the complementary question: how language and consciousness shape each other bidirectionally, with loss in both directions. The [[language-and-consciousness|philosophy of language and consciousness]] examines why these limits are structural: meaning, reference, and verification all behave anomalously when applied to phenomenal experience.
 
 ## Three Levels of Limit
 

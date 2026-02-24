@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate language-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Covers the relationship between language and conscious experience — add cross-references from articles on phenomenology, cognitive phenomenology, inner speech, and thought.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review the-unobservable-self.md considering absorption void insights
 - **Type**: cross-review
 - **Notes**: New article voids/absorption-void.md examines the paradox of self-opacity during peak conscious engagement. the-unobservable-self.md covers the subject that cannot be its own object. Should cross-reference the absorption void as a specific instance where self-observation fails — not because the self is structurally hidden but because observation terminates the state being observed. Check for cross-links and argument reinforcement.
@@ -164,6 +158,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Integrate language-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Covers the relationship between language and conscious experience — add cross-references from articles on phenomenology, cognitive phenomenology, inner speech, and thought.
+- **Output**: obsidian/concepts/language-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-24: Integrate adaptive-computational-depth.md into site navigation
 - **Type**: integrate-orphan
