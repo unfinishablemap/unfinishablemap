@@ -54,13 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P2: Address gap-to-consciousness non-sequitur in measurement-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the causal closure loophole argument moves from "physics is open at measurement" to "consciousness fills the gap" without sufficient justification. Indeterminacy doesn't entail consciousness-determination—the gap could be stochastic, hidden-variable, or otherwise. Article should distinguish the loophole as a permissibility condition from positive evidence for consciousness-selection, and reference the supporting arguments (hard problem parallel, self-stultification) as the positive case. See pessimistic-2026-02-24.md Issue #3.
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-24
-
 ### P3: Deep review zombie-master-argument.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has never been reviewed. The zombie master argument is a key piece supporting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and warrants quality assurance.
@@ -153,6 +146,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Address gap-to-consciousness non-sequitur in measurement-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the causal closure loophole argument moves from "physics is open at measurement" to "consciousness fills the gap" without sufficient justification. Indeterminacy doesn't entail consciousness-determination—the gap could be stochastic, hidden-variable, or otherwise. Article should distinguish the loophole as a permissibility condition from positive evidence for consciousness-selection, and reference the supporting arguments (hard problem parallel, self-stultification) as the positive case. See pessimistic-2026-02-24.md Issue #3.
+- **Output**: obsidian/concepts/measurement-problem.md
+
+Task context:
+Pessimistic review found the causal closure loophole argument moves from "physics is open at measurement" to "consciousness fills the gap" without sufficient justification. Indeterminacy doesn't entail consciousness-determination—the gap could be stochastic, hidden-variable, or otherwise. Article should distinguish the loophole as a permissibility condition from positive evidence for consciousness-selection, and reference the supporting arguments (hard problem parallel, self-stultification) as the positive case. See pessimistic-2026-02-24.md Issue #3.
 
 ### ✓ 2026-02-24: Fix question-begging TV analogy in neural-correlates-of-consciousness.md
 - **Type**: refine-draft

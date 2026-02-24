@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 07:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [[measurement-problem]]
+- **Changes**: Restructured "Causal Closure Loophole" section to distinguish permissibility condition from positive evidence; added subsections for alternatives (brute stochasticity, hidden variables) and the positive case (hard problem parallel, self-stultification, explanatory unification); updated Relation to Site Perspective; addressed Issue #3 from pessimistic-2026-02-24.md
+- **Published**: yes
+
 ## 2026-02-24 07:18 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Plurality Void — the inability to conceive what it would be like to be multiple consciousnesses simultaneously
