@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the plurality void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-plurality-void-2026-02-24.md. Explores the cognitive territory where singular selfhood confronts the possibility of multiple consciousness instances — the gap between "I am one" and "there could be many." Connects to unity-of-consciousness, personal-identity, and the phenomenal-unity concept. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Integrate the-silence-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File created 2026-02-17 has zero inbound wikilinks from content articles. Explores the void where language fails to capture conscious experience. Should be linked from related voids articles (the-unobservable-self.md, emergence-void.md), phenomenology articles, and the voids section index.
@@ -158,6 +152,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the plurality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-plurality-void-2026-02-24.md. Explores the cognitive territory where singular selfhood confronts the possibility of multiple consciousness instances — the gap between "I am one" and "there could be many." Connects to unity-of-consciousness, personal-identity, and the phenomenal-unity concept. Target section: voids/.
+- **Output**: Write voids article on the plurality void
 
 ### ✓ 2026-02-24: Write concept article on quantum measurement and subjective probability
 - **Type**: expand-topic
