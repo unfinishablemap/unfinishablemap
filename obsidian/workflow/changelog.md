@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 19:41 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Calibration Void
+- **Category**: Unexplorable (with possible Occluded dimensions)
+- **Output**: [[research/voids-calibration-void-2026-02-24]]
+- **Key finding**: Introspection — our only direct access to consciousness — cannot be calibrated against any external standard, creating a structural gap at the foundation of consciousness studies that may be deepened by dualism's ontological separation of mind and matter
+
 ## 2026-02-24 19:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[affective-void]]
