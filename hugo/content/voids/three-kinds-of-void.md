@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-04 08:45:00+00:00
+ai_modified: 2026-02-24 18:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: The unexplored, the unexplorable, and the occluded—a taxonomy of 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 08:45:00+00:00
+last_deep_review: 2026-02-24 18:44:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,6 +25,10 @@ related_articles:
 - '[[dream-consciousness-void]]'
 - '[[epistemology-of-cognitive-limits]]'
 - '[[whether-real]]'
+- '[[synesthetic-void]]'
+- '[[adaptive-cognitive-limits]]'
+- '[[convergent-cognitive-limits]]'
+- '[[the-silence-void]]'
 title: Three Kinds of Void
 topics: []
 ---
@@ -45,7 +49,7 @@ Colin McGinn's [mysterian](/concepts/mysterianism/) framework articulates this p
 
 McGinn argues that humans may be cognitively closed to what he calls "property P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode reveals the bridge between them. The [hard problem](/topics/hard-problem-of-consciousness/) might be unsolvable not because it's supernatural but because the solution lies outside our cognitive reach. The [silence void](/voids/the-silence-void/) exemplifies this category: contemplative traditions report that certain truths are accessible only through the cessation of thought, making them structurally inaccessible to any cognitive process—including the process of mapping.
 
-Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [tenets](/tenets/) are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems. [Apophatic cartography](/voids/apophatic-cartography/) formalises criteria for making this distinction — structured persistence, cross-observer convergence, signature specificity, and framework independence. The [meta-level question](/voids/epistemology-of-cognitive-limits/) of how we can distinguish genuine closure from merely difficult problems may itself be unanswerable from within any limited cognitive system—which is itself evidence for the framework.
+Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [tenets](/tenets/) are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems. [Apophatic cartography](/voids/apophatic-cartography/) formalises criteria for making this distinction — structured persistence, cross-observer convergence, signature specificity, and framework independence. Cross-cultural evidence strengthens the case: where [cognitive limits converge](/voids/convergent-cognitive-limits/) independently across isolated cultures, they point to species-level architecture rather than contingent ignorance. The [meta-level question](/voids/epistemology-of-cognitive-limits/) of how we can distinguish genuine closure from merely difficult problems may itself be unanswerable from within any limited cognitive system—which is itself evidence for the framework.
 
 Thomas Nagel's bat example illustrates this: there is something it is like to be a bat, navigating by echolocation in ways we cannot truly imagine. The bat has experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
@@ -67,6 +71,10 @@ But certain patterns warrant attention. William James noted that mystical experi
 
 This is speculative. But it's testably speculative—at least in principle. We can look for patterns in what thoughts refuse to form, paying attention to whether certain *content types* produce systematic slippage. The [defended territory](/voids/defended-territory/) article develops specific tests: if consciousness-related thoughts slip no more than matched control topics, the hypothesis fails; if AI can stably articulate what humans consistently lose, human slippage was contingent rather than structural.
 
+## Between the Categories
+
+The three-part taxonomy organises investigation but does not confine it. The [synesthetic-void](/voids/synesthetic-void/)—experiential dimensions open to some minds but closed to others within a single species—spans all three types: partly unexplored, partly unexplorable by non-synesthetic architectures, and partly occluded through developmental neural pruning that actively dismantles broader phenomenal access. The [adaptive-cognitive-limits](/voids/adaptive-cognitive-limits/) framework identifies "naturally occluded" voids—blind spots maintained by natural selection because ignorance conferred fitness advantage. These differ from each existing category: not merely uninvestigated, not necessarily beyond all possible cognition, yet not maintained by any intentional agent. The taxonomy's value lies less in rigid classification than in revealing how different kinds of darkness demand different investigative approaches.
+
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)** makes the Unexplorable possible. If consciousness is fundamental and irreducible, some aspects of its nature may be permanently beyond third-person methods.
@@ -74,3 +82,15 @@ This is speculative. But it's testably speculative—at least in principle. We c
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** suggests mechanisms for the Occluded. If consciousness causally influences the physical world, that interface might be systematically hidden from introspection.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** validates investigating all three types. Our preference for simple, tractable theories may systematically avoid the structured failures that mark void boundaries.
+
+## Further Reading
+
+- [voids](/voids/) — The broader framework for investigating cognitive limits
+- [dream-consciousness-void](/voids/dream-consciousness-void/) — A void combining features of all three types
+- [synesthetic-void](/voids/synesthetic-void/) — An intra-species void spanning all three categories
+- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
+- [defended-territory](/voids/defended-territory/) — Specific tests for whether territory is defended
+- [apophatic-cartography](/voids/apophatic-cartography/) — Formalising criteria for distinguishing genuine closure
+- [adaptive-cognitive-limits](/voids/adaptive-cognitive-limits/) — Blind spots as evolutionary features, not defects
+- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for species-level limits
+- [the-silence-void](/voids/the-silence-void/) — Territory accessible only through the cessation of thought

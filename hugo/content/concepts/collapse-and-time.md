@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-21 20:21:00+00:00
+ai_modified: 2026-02-24 21:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,10 +22,11 @@ description: Wavefunction collapse introduces temporal asymmetry into physics. I
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 00:06:03+00:00
+last_deep_review: 2026-02-24 21:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[consciousness-collapse-arrow-of-time]]'
 - '[[consciousness-collapse-arrow-of-time-2026-01-14]]'
 title: Collapse and the Arrow of Time
 topics:
@@ -34,7 +35,7 @@ topics:
 
 Wavefunction collapse—the transition from quantum superposition to definite outcome—appears to introduce an arrow of time into physics. The Schrödinger equation runs equally well forward or backward, yet measurement seems irreversible. If consciousness participates in collapse (as The Unfinishable Map's framework proposes), then consciousness may be connected to temporal directionality itself—not merely experiencing time's flow but helping constitute it. Time-symmetric interpretations push this further: if consciousness's role in collapse is atemporal—selecting which outcomes become actual across time rather than at a moment—then the relationship is constitutive rather than experiential.
 
-The framework is speculative and conditional on collapse realism, but it generates testable commitments about collapse timing, temporal phenomenology, and the structure of the [specious present](/concepts/temporal-consciousness/).
+The framework is speculative and conditional on collapse realism, but it generates testable commitments about collapse timing, temporal phenomenology, and the structure of the [specious present](/concepts/temporal-consciousness/). For how consciousness specifically relates to time's arrow, see [Consciousness, Collapse, and the Arrow of Time](/concepts/consciousness-collapse-arrow-of-time/).
 
 ## The Quantum Arrow Problem
 
@@ -155,6 +156,7 @@ The connection between collapse and time strengthens multiple tenets:
 
 ## Further Reading
 
+- [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/) — Consciousness's place within the collapse-time triad: passive, constitutive, or atemporal
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
 - [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now" and its connection to collapse timing
 - [duration](/concepts/temporal-consciousness/) — Bergson's qualitative time and the creative advance of durée

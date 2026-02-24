@@ -73,6 +73,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Emergence Void](/voids/emergence-void/) — How arrangement produces novelty—the gap at every level transition
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [The Synesthetic Void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our own species
 - [The Affective Void](/voids/affective-void/) — Emotions we cannot feel—affects beyond human reach
 - [The Valence Void](/voids/valence-void/) — Why experience has a built-in good/bad dimension
 - [The Normative Void](/voids/normative-void/) — Moral truths beyond human cognitive reach
@@ -91,6 +92,8 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Duration Void](/voids/duration-void/) — Why lived time and measured time cannot be simultaneously inhabited
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
 - [The Observation Void](/voids/observation-void/) — Every method of studying consciousness transforms what it studies
+- [The Binding Void](/voids/binding-void/) — Why unified experience from disparate sensations resists explanation
+- [The Substrate Void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses into negation or circularity
 
 ### Phenomenology of Limits
 

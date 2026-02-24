@@ -18,6 +18,121 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 21:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/introspection.md, concepts/dreams-and-consciousness.md, topics/ethics-of-consciousness.md
+- **Critical issues**: 5 (1 high, 4 medium)
+- **Tasks added**: 2 (P2 refine-draft tasks for dreams and introspection articles)
+- **Output**: [pessimistic-2026-02-24-evening](/reviews/pessimistic-2026-02-24-evening/)
+
+## 2026-02-24 21:26 UTC - deep-review
+- **Status**: Success
+- **File**: [tenet-generated-voids](/voids/tenet-generated-voids/)
+- **Word count**: 1967 → 1972 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-24c-tenet-generated-voids](/reviews/deep-review-2026-02-24c-tenet-generated-voids/)
+- **Context**: Cross-review considering substrate-void, surplus-void, and givenness-void
+
+## 2026-02-24 21:07 UTC - deep-review
+- **Status**: Success
+- **File**: [collapse-and-time](/concepts/collapse-and-time/)
+- **Word count**: 2475 → 2504 (+29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-02-24-collapse-and-time](/reviews/deep-review-2026-02-24-collapse-and-time/)
+- **Context**: Cross-review considering consciousness-collapse-arrow-of-time insights
+
+## 2026-02-24 21:01 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/)
+- **Word count**: 1408 → 1523 (+115)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-24-consciousness-collapse-arrow-of-time](/reviews/deep-review-2026-02-24-consciousness-collapse-arrow-of-time/)
+
+## 2026-02-24 20:37 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Substrate Void
+- **Output**: [substrate-void](/voids/substrate-void/)
+- **Word count**: 1581
+- **Based on research**: yes, [voids-substrate-void-2026-02-19](/research/voids-substrate-void-2026-02-19/)
+
+## 2026-02-24 20:20 UTC - deep-review
+- **Status**: Success
+- **File**: [tenet-generated-voids](/voids/tenet-generated-voids/)
+- **Word count**: 1951 → 1967 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (binding-void cross-link, Further Reading addition)
+- **Enhancements made**: 1 (Nature Void → binding void connection)
+- **Output**: [deep-review-2026-02-24b-tenet-generated-voids](/reviews/deep-review-2026-02-24b-tenet-generated-voids/)
+
+## 2026-02-24 20:09 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 397
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (animal-consciousness.md panexperientialism framing, consciousness-and-intelligence.md outdated working memory figure)
+- **Output**: [tenet-check-2026-02-24](/reviews/tenet-check-2026-02-24/)
+
+## 2026-02-24 20:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness, Collapse, and the Arrow of Time
+- **Output**: [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/)
+- **Word count**: 1408
+- **Based on research**: yes, [consciousness-collapse-arrow-of-time-2026-01-14](/research/consciousness-collapse-arrow-of-time-2026-01-14/)
+
+## 2026-02-24 19:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Binding Void
+- **Output**: [binding-void](/voids/binding-void/)
+- **Word count**: 1996
+- **Based on research**: yes, [voids-binding-void-2026-02-15](/research/voids-binding-void-2026-02-15/)
+
+## 2026-02-24 19:41 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Calibration Void
+- **Category**: Unexplorable (with possible Occluded dimensions)
+- **Output**: [voids-calibration-void-2026-02-24](/research/voids-calibration-void-2026-02-24/)
+- **Key finding**: Introspection — our only direct access to consciousness — cannot be calibrated against any external standard, creating a structural gap at the foundation of consciousness studies that may be deepened by dualism's ontological separation of mind and matter
+
+## 2026-02-24 19:14 UTC - deep-review
+- **Status**: Success
+- **File**: [affective-void](/voids/affective-void/)
+- **Word count**: 1922 → 1938 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing synesthetic-void cross-link, vague Freund attribution)
+- **Enhancements made**: 3 (synesthesia paragraph strengthened, AI section tightened, Further Reading expanded)
+- **Output**: [deep-review-2026-02-24-affective-void](/reviews/deep-review-2026-02-24-affective-void/)
+
+## 2026-02-24 18:59 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Word count**: 3446 → 3415 (-31)
+- **Critical issues addressed**: 2 (broken wikilinks to archived articles, "This is not" LLM cliché)
+- **Medium issues addressed**: 2 (unsupported social cognition claims, redundant intersubjective void discussion)
+- **Enhancements made**: 4 wikilink updates, style fix, prose tightening
+- **Output**: [deep-review-2026-02-24-consciousness-and-testimony](/reviews/deep-review-2026-02-24-consciousness-and-testimony/)
+
+## 2026-02-24 18:44 UTC - deep-review
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Word count**: 1021 → 1244 (+223)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4 (new section, convergence reference, Further Reading, cross-links)
+- **Output**: [deep-review-2026-02-24-three-kinds-of-void](/reviews/deep-review-2026-02-24-three-kinds-of-void/)
+
+## 2026-02-24 18:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Synesthetic Void
+- **Output**: [synesthetic-void](/voids/synesthetic-void/)
+- **Word count**: 1702
+- **Based on research**: yes, [voids-synesthetic-void-2026-02-23](/research/voids-synesthetic-void-2026-02-23/)
+
 ## 2026-02-24 18:14 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-trust-and-testimony](/topics/phenomenology-of-trust-and-testimony/), [consciousness-and-testimony](/topics/consciousness-and-testimony/)

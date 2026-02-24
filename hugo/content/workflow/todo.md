@@ -38,22 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the synesthetic void
+### P2: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-measurement-and-subjective-probability.md was created 2026-02-24 covering QBism and observer-dependent probability. concepts/measurement-problem.md provides the Map's core treatment of the quantum measurement problem and should cross-reference QBist perspectives on why observer-dependent probability supports the Map's consciousness-collapse framework. Also check concepts/quantum-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on compound cognitive limits
 - **Type**: expand-topic
-- **Notes**: Research completed in research/voids-synesthetic-void-2026-02-23.md. The synesthetic void explores phenomenal experiences permanently inaccessible to most humans — concrete empirical evidence that consciousness is not uniform even within humanity. The "extra qualia problem" strengthens the case that qualia resist physical reduction. Target section: voids/.
+- **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Oldest unconsumed voids research (17 days). Explores how individual cognitive limitations compound when consciousness attempts to understand itself — the interaction effects between separate voids create emergent barriers that exceed the sum of their parts. Meta-level void that connects the Map's void taxonomy to a structural insight about consciousness research itself. Target section: voids/.
 - **Source**: unconsumed_research
 - **Generated**: 2026-02-24
 
-### P2: Review introspective-opacity.md and phenomenology-of-the-edge.md considering the-givenness-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/the-givenness-void.md created 2026-02-24. The givenness void explores how consciousness cannot examine its own presentational immediacy. introspective-opacity.md covers inability to observe cognitive mechanisms, and phenomenology-of-the-edge.md covers the experience of approaching cognitive limits — both closely related. Check for cross-links, ensure no overlap, and verify complementary framing.
-- **Source**: chain (from the-givenness-void.md)
+### P2: Write voids article on the void as ground of meaning
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-void-as-ground-of-meaning-2026-02-09.md. Second-oldest unconsumed voids research (15 days). Explores the paradox that cognitive limits are not merely obstacles but may be constitutive of meaning — consciousness requires boundaries to generate significance. Connects to the Map's treatment of why voids matter and supports Tenet 5 (Occam's Razor Has Limits) by showing that simplicity-seeking breaks down where meaning requires irreducible complexity. Target section: voids/.
+- **Source**: unconsumed_research
 - **Generated**: 2026-02-24
 
-### P2: Review three-kinds-of-void.md considering new void articles
-- **Type**: cross-review
-- **Notes**: Five new void articles created 2026-02-24 (transparency-void, indexical-void, plurality-void, observation-void, ownership-void). three-kinds-of-void.md provides the void taxonomy and should categorize these new entries. Check which kind each new void belongs to, add cross-links, and verify the taxonomy still covers all cases.
-- **Source**: chain (from transparency-void.md, indexical-void.md, plurality-void.md, observation-void.md, ownership-void.md)
+### P2: Write voids article on the appetitive void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-appetitive-void-2026-02-10.md. Third-oldest unconsumed voids research (14 days). Explores the cognitive territory where desire and wanting resist transparent self-knowledge — we can feel the pull of appetite without understanding what we truly want. Connects to emotional consciousness, introspective opacity, and the Map's treatment of phenomenal access. Target section: voids/.
+- **Source**: unconsumed_research
 - **Generated**: 2026-02-24
 
 ### P3: Deep review valence-void.md
@@ -181,6 +187,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
+### P2: Address filter model unfalsifiability and smuggled assumptions in dreams-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
+### P2: Add causal caveats to meditation-introspection evidence in introspection.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-24 evening) found Fox et al. (2012) cross-sectional study treated with causal language ("training dramatically improves accuracy") despite inability to rule out self-selection. Also: microphenomenology's "performative coherence" criterion is circular and goes unacknowledged. Medium severity. See pessimistic-2026-02-24-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -201,6 +219,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review tenet-generated-voids.md considering substrate-void, surplus-void, and givenness-void
+- **Type**: cross-review
+- **Notes**: Three new void articles created 2026-02-24 that were not included in earlier cross-review batches: voids/substrate-void.md (supports Tenet 1), voids/the-surplus-void.md (supports Tenet 1), and voids/the-givenness-void.md (supports Tenet 5). tenet-generated-voids.md catalogs which voids emerge from which tenets and should be updated to classify these new entries with their tenet mappings.
+- **Output**: obsidian/voids/tenet-generated-voids.md -- Context: Cross-review tenet-generated-voids.md considering substrate-void, surplus-void, and givenness-void
+
+### ✓ 2026-02-24: Cross-review collapse-and-time.md considering consciousness-collapse-arrow-of-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-collapse-arrow-of-time.md was created 2026-02-24. It connects consciousness-caused collapse to temporal asymmetry and the arrow of time. concepts/collapse-and-time.md covers the relationship between wavefunction collapse and temporal experience and should cross-reference the new article's treatment of why collapse might ground time's directionality. Also check concepts/temporal-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/collapse-and-time.md -- Context: Cross-review collapse-and-time.md considering consciousness-collapse-arrow-of-time insights
+
+### ✓ 2026-02-24: Write voids article on the substrate void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-substrate-void-2026-02-19.md. The substrate void examines whether we can ever know what consciousness is "made of" — a question that forces engagement with dualist vs. physicalist ontology at the deepest level. Both positions face the substrate question: physicalism cannot explain why certain physical arrangements produce experience, and dualism cannot specify what non-physical substance constitutes it. Directly supports Tenet 1 (Dualism). Target section: voids/.
+- **Output**: Write voids article on the substrate void
+
+### ✓ 2026-02-24: Review tenet-generated-voids.md considering binding-void
+- **Type**: cross-review
+- **Notes**: New voids article binding-void.md created 2026-02-24. tenet-generated-voids.md catalogs voids that emerge from the Map's five tenets and should classify this new entry. The binding void strongly supports Tenet 1 (Dualism) via Descartes' indivisibility argument and Tenet 5 (Occam's Razor Has Limits) via the primitivist convergence. Check tenet-void mappings.
+- **Output**: obsidian/voids/tenet-generated-voids.md -- Context: Review tenet-generated-voids.md considering binding-void
+
+### ✓ 2026-02-24: Write concept article on consciousness, collapse, and the arrow of time
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. If consciousness-caused collapse is real, it may explain temporal asymmetry — why time appears to flow in one direction. This connects the measurement problem to the phenomenology of temporal experience. One of the oldest unconsumed research notes (Jan 14). Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (3 slots remaining).
+- **Output**: Write concept article on consciousness, collapse, and the arrow of time
+
+### ✓ 2026-02-24: Write voids article on the binding void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-binding-void-2026-02-15.md. The binding void explores why unified conscious experience from distributed neural processing remains a permanent explanatory gap. Phenomenal binding resists both physical and computational explanation — a void that strengthens the case for non-reductive approaches. Supports Tenet 1 (Dualism). Target section: voids/.
+- **Output**: Write voids article on the binding void
+
+### ✓ 2026-02-24: Review affective-void.md and other-minds-void.md considering synesthetic-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/synesthetic-void.md created 2026-02-24. The synesthetic void explores intra-species experiential inaccessibility through the lens of synesthesia. affective-void.md already references synesthesia briefly and other-minds-void.md covers the broader access problem. Check for cross-links, ensure complementary framing, and verify no redundant arguments.
+- **Output**: obsidian/voids/affective-void.md -- Context: Review affective-void.md and other-minds-void.md considering synesthetic-void insights
+
+### ✓ 2026-02-24: Review three-kinds-of-void.md considering new void articles
+- **Type**: cross-review
+- **Notes**: Five new void articles created 2026-02-24 (transparency-void, indexical-void, plurality-void, observation-void, ownership-void). three-kinds-of-void.md provides the void taxonomy and should categorize these new entries. Check which kind each new void belongs to, add cross-links, and verify the taxonomy still covers all cases.
+- **Output**: obsidian/voids/three-kinds-of-void.md -- Context: Review three-kinds-of-void.md considering new void articles
+
+### ✓ 2026-02-24: Write voids article on the synesthetic void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-synesthetic-void-2026-02-23.md. The synesthetic void explores phenomenal experiences permanently inaccessible to most humans — concrete empirical evidence that consciousness is not uniform even within humanity. The "extra qualia problem" strengthens the case that qualia resist physical reduction. Target section: voids/.
+- **Output**: Write voids article on the synesthetic void
 
 ### ✓ 2026-02-24: Review tenet-generated-voids.md considering indexical-void and plurality-void insights
 - **Type**: cross-review
