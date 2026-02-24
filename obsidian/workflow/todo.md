@@ -99,6 +99,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-24
 
+### P3: Write article on the phenomenology of scientific discovery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How scientific breakthroughs feel from the inside—the gestalt shift from confusion to understanding, the phenomenal structure of hypothesis formation, the role of aesthetic judgement in theory selection. Scientists report that good theories "feel right" before they can articulate why. Supports consciousness as active participant in cognition. Builds on phenomenology-of-intellectual-effort.md, consciousness-and-scientific-methodology.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-24.md
+- **Generated**: 2026-02-24
+
+### P3: Write article on consciousness and the structure of attention disorders
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
+- **Generated**: 2026-02-24
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
