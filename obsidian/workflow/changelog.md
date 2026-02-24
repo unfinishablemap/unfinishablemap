@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 12:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-epistemic-judgment]]
+- **Word count**: 1748 → 2159 (+411)
+- **Critical issues addressed**: 4 (Petitmengin attribution, AGM mischaracterization, broken self-locating-beliefs link, uncited references)
+- **Medium issues addressed**: 6 (meta-evidence circularity, R-R-R attribution, functionalist engagement, cross-links, thin Limits section, Occam's Razor paragraph)
+- **Enhancements made**: 11 new cross-links, expanded Limits section, integrated Festinger/Schwitzgebel citations
+- **Cross-references updated**: 18 files updated from coalesced article slugs to new slug
+- **Output**: [[reviews/deep-review-2026-02-24-phenomenology-of-epistemic-judgment]]
+
 ## 2026-02-24 12:00 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/phenomenology-of-belief-revision]], [[topics/phenomenology-of-evidence-assessment]]

@@ -4,7 +4,7 @@ description: "Thinking hard feels like work. The experience of reasoning—holdi
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-03T12:10:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[argument-from-reason]]"
-  - "[[phenomenology-of-evidence-assessment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
 ai_contribution: 100
@@ -107,7 +107,7 @@ The distinction between compelling and forced has no obvious physical correlate.
 
 ### Weighing as Work
 
-[[phenomenology-of-evidence-assessment|Evaluating evidence]] is not passive reception. There is phenomenal work in weighing:
+[[phenomenology-of-epistemic-judgment|Evaluating evidence]] is not passive reception. There is phenomenal work in weighing:
 
 **Holding options open.** Before settling, you maintain alternatives in awareness. This is effortful—the default is to collapse to one view, and maintaining genuine uncertainty requires work.
 
@@ -214,7 +214,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 - [[argument-from-reason]] — The structural case that reasoning requires irreducible consciousness
 - [[mental-effort]] — Attentional effort and the quantum Zeno mechanism
 - [[phenomenology-of-choice]] — The experience of deciding
-- [[phenomenology-of-evidence-assessment]] — The experience of evaluating evidence
+- [[phenomenology-of-epistemic-judgment]] — The experience of evaluating evidence
 - [[epistemic-emotions]] — Feelings directed at knowledge: curiosity, certainty, doubt
 - [[cognitive-phenomenology]] — Whether thinking itself has experiential character
 - [[working-memory]] — Where intellectual capacity meets consciousness

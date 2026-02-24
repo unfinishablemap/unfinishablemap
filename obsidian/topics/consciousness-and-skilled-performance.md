@@ -4,7 +4,7 @@ description: "Skill acquisition, mastery, and restructuring reveal consciousness
 created: 2026-02-02
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-22T01:04:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[conscious-vs-unconscious-processing]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[phenomenology-of-conceptual-change]]"
-  - "[[phenomenology-of-belief-revision]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[consciousness-and-the-neuroscience-of-deliberate-practice]]"
 ai_contribution: 100

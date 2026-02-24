@@ -4,13 +4,13 @@ description: "Testimony requires consciousness to function yet cannot fully conv
 created: 2026-02-15
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-23T00:13:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[first-person-third-person-methodology]]"
   - "[[phenomenology-of-trust-and-testimony]]"
-  - "[[phenomenology-of-belief-revision]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
 concepts:
   - "[[introspection]]"
   - "[[qualia]]"

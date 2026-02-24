@@ -4,7 +4,7 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-02-07T06:59:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
-  - "[[phenomenology-of-evidence-assessment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[epistemological-limits-of-occams-razor]]"
 ai_contribution: 100
 author:
@@ -175,7 +175,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[heterophenomenology]] — The third-person alternative approach
 - [[intersubjectivity]] — How first-person evidence achieves intersubjective validation
 - [[contemplative-evidence-for-consciousness-theories]] — How meditation findings bear on consciousness debates
-- [[phenomenology-of-evidence-assessment]] — The experience of evaluating evidence phenomenologically
+- [[phenomenology-of-epistemic-judgment]] — The experience of evaluating evidence phenomenologically
 - [[first-person-third-person-methodology]] — The broader methodological divide in consciousness science
 - [[explanatory-gap]] — Why third-person evidence alone cannot explain consciousness
 

@@ -4,12 +4,12 @@ description: "How holding a theoretical commitment shapes perception, structures
 created: 2026-02-18
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-21T22:31:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-conceptual-change]]"
-  - "[[phenomenology-of-belief-revision]]"
-  - "[[phenomenology-of-evidence-assessment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[consciousness-and-the-philosophy-of-explanation]]"
 concepts:
   - "[[epistemic-emotions]]"
@@ -66,7 +66,7 @@ The deepest feature of theoretical commitment is that it becomes a *perspective*
 
 This inhabited quality explains why theoretical debates so often feel like failures of mutual comprehension rather than disagreements about specific claims. Two theorists committed to rival frameworks may share all the same data and still talk past each other, because the data appears differently from within each inhabited perspective — a dynamic explored in the [[phenomenology-of-philosophical-disagreement]]. The experience is not "I believe P and you believe not-P" but something closer to "I see this landscape and you see a different one."
 
-The inhabited character of commitment also explains the distinctive discomfort of encountering a powerful argument against one's framework. The threat is not merely to a proposition but to an entire mode of perceiving. This is why [[phenomenology-of-belief-revision|belief revision]] for core theoretical commitments involves a phenomenology closer to existential crisis than to updating a spreadsheet. The commitment is not a detachable opinion; it is part of the structure through which opinions are formed.
+The inhabited character of commitment also explains the distinctive discomfort of encountering a powerful argument against one's framework. The threat is not merely to a proposition but to an entire mode of perceiving. This is why [[phenomenology-of-epistemic-judgment|belief revision]] for core theoretical commitments involves a phenomenology closer to existential crisis than to updating a spreadsheet. The commitment is not a detachable opinion; it is part of the structure through which opinions are formed.
 
 ## The Temporal Phenomenology of Commitment
 
@@ -95,8 +95,8 @@ This connects to the Map's tenet of [[tenets#^bidirectional-interaction|bidirect
 ## Further Reading
 
 - [[phenomenology-of-conceptual-change]]
-- [[phenomenology-of-belief-revision]]
-- [[phenomenology-of-evidence-assessment]]
+- [[phenomenology-of-epistemic-judgment]]
+- [[phenomenology-of-epistemic-judgment]]
 - [[phenomenology-of-inferential-understanding]]
 - [[phenomenology-of-intellectual-courage]]
 - [[consciousness-and-the-philosophy-of-explanation]]

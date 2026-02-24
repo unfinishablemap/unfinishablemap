@@ -4,12 +4,12 @@ description: "What it feels like to decide when outcomes are unknowable—the ve
 created: 2026-02-09
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-02-14T00:34:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
-  - "[[phenomenology-of-belief-revision]]"
-  - "[[phenomenology-of-evidence-assessment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
 concepts:
   - "[[phenomenology-of-choice]]"
   - "[[agent-causation]]"
@@ -74,7 +74,7 @@ This reaching-beyond involves:
 
 **Pattern recognition without pattern.** The mind searches for analogies, partial matches, structural similarities to past experience. But under genuine uncertainty, the analogies are imperfect and the mind knows they are imperfect. The phenomenology is of *approximate* recognition—"this is somewhat like that, but..."
 
-**Confidence without grounds.** Sometimes estimation produces a feeling of confidence that outruns the evidence. Experienced practitioners report this frequently: a gut sense that something is the right call, accompanied by an inability to articulate why. This is not mere bias (though it can be). It is consciousness integrating information in ways that exceed explicit reasoning—what the [[phenomenology-of-evidence-assessment]] describes as the felt weight of considerations that resist propositional articulation.
+**Confidence without grounds.** Sometimes estimation produces a feeling of confidence that outruns the evidence. Experienced practitioners report this frequently: a gut sense that something is the right call, accompanied by an inability to articulate why. This is not mere bias (though it can be). It is consciousness integrating information in ways that exceed explicit reasoning—what the [[phenomenology-of-epistemic-judgment]] describes as the felt weight of considerations that resist propositional articulation.
 
 **The effort of holding open.** Estimation requires maintaining multiple possibilities in mind simultaneously without collapsing prematurely to one. This is [[mental-effort|cognitively effortful]] in a specific way: the mind wants to resolve, to settle on an answer. Resisting premature resolution—staying with uncertainty long enough to estimate well—requires sustained [[attention-as-interface|attentional effort]] that feels like deliberate work.
 
@@ -141,8 +141,8 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 ## Further Reading
 
 - [[phenomenology-of-choice]] — The general structure of choosing
-- [[phenomenology-of-evidence-assessment]] — The felt sense of epistemic weight
-- [[phenomenology-of-belief-revision]] — What it feels like to change your mind
+- [[phenomenology-of-epistemic-judgment]] — The felt sense of epistemic weight
+- [[phenomenology-of-epistemic-judgment]] — What it feels like to change your mind
 - [[authentic-vs-inauthentic-choice]] — Why uncertainty demands authentic engagement
 - [[probability-intuition-void]] — Our architectural limits in reasoning about chance
 - [[epistemic-emotions]] — The affective dimension of uncertainty

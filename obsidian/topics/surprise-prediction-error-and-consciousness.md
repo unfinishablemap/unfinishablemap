@@ -4,12 +4,12 @@ description: "Surprise requires phenomenal consciousness—not just prediction e
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T11:15:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenology-of-anticipation]]"
-  - "[[phenomenology-of-belief-revision]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[topics/free-will]]"
 concepts:
   - "[[predictive-processing]]"
@@ -39,8 +39,8 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-understanding]]"
   - "[[phenomenology-of-error-recognition]]"
-  - "[[phenomenology-of-evidence-assessment]]"
-  - "[[phenomenology-of-belief-revision]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[creativity-consciousness-and-novel-thought]]"
   - "[[consciousness-and-mathematical-cognition]]"
   - "[[distinctiveness-of-human-creativity]]"
@@ -81,7 +81,7 @@ Computational models treat prediction error as a quantity: a signal with magnitu
 
 **Cognitive surprise** is slower and conceptual rather than somatic. A trusted friend reveals an unexpected opinion. Your model of the person—built over years—has a gap exposed. The surprise here has the character of recalibration: not just updating a parameter but recognising that a framework was wrong.
 
-**Deep disorientation** occurs when prediction error is large enough to overwhelm existing models rather than merely update them. This is what Kuhn described in paradigm shifts and what the Map explores in [[phenomenology-of-belief-revision|belief revision]]: not a correction within a framework but the felt collapse of the framework itself. The phenomenal character differs from ordinary surprise as vertigo differs from a stumble. There is a distinctive experience of groundlessness—the recognition that one's interpretive apparatus is inadequate—accompanied by something closer to existential anxiety than cognitive recalibration.
+**Deep disorientation** occurs when prediction error is large enough to overwhelm existing models rather than merely update them. This is what Kuhn described in paradigm shifts and what the Map explores in [[phenomenology-of-epistemic-judgment|belief revision]]: not a correction within a framework but the felt collapse of the framework itself. The phenomenal character differs from ordinary surprise as vertigo differs from a stumble. There is a distinctive experience of groundlessness—the recognition that one's interpretive apparatus is inadequate—accompanied by something closer to existential anxiety than cognitive recalibration.
 
 These categories are not cleanly bounded. But the qualitative discontinuities between them constitute phenomenal facts that computational descriptions of error magnitude leave untouched. A somatic jolt—no matter how large—does not become existential vertigo by getting bigger. The two involve different bodily phenomenology, different relationships to the self, different temporal profiles, and different modes of resolution. Different kinds of prediction error engage qualitatively distinct modes of conscious experience, each with its own [[cognitive-phenomenology|cognitive phenomenology]].
 
@@ -217,7 +217,7 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - [[structure-of-attention]] — How attention allocates cognitive resources
 - [[emotional-consciousness]] — The felt quality of affective states
 - [[phenomenology-of-understanding]] — The click of successful integration
-- [[phenomenology-of-belief-revision]] — The felt texture of changing one's mind
+- [[phenomenology-of-epistemic-judgment]] — The felt texture of changing one's mind
 - [[phenomenology-of-error-recognition]] — How minds catch their own mistakes
 - [[phenomenal-consciousness]] — The "what it's like" quality presupposed by the entire prediction error spectrum
 - [[categorical-surprise]] — Framework-transcending encounters with genuine novelty

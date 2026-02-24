@@ -4,7 +4,7 @@ description: "The felt difference between knowing and merely believing resists p
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T16:01:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 last_deep_review: 2026-02-15T16:01:00+00:00
 draft: false
 topics:
@@ -21,8 +21,8 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-understanding]]"
   - "[[phenomenology-of-intellectual-effort]]"
-  - "[[phenomenology-of-evidence-assessment]]"
-  - "[[phenomenology-of-belief-revision]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[argument-from-reason]]"
   - "[[epistemic-advantages-of-dualism]]"
 ai_contribution: 100
@@ -40,7 +40,7 @@ This matters for the philosophy of mind because epistemic achievement sits at th
 
 ### From Inquiry to Resolution
 
-Epistemic achievement has a temporal arc. It begins with a state of not-knowing—puzzlement, curiosity, or active inquiry—and terminates in a state that feels qualitatively different: settled knowledge. This arc is not merely the accumulation of evidence (explored in [[phenomenology-of-evidence-assessment]]) or the click of comprehension (explored in [[phenomenology-of-understanding]]). It is the experience of *having arrived*—the sense that inquiry on this question is complete because you now possess something epistemically secure.
+Epistemic achievement has a temporal arc. It begins with a state of not-knowing—puzzlement, curiosity, or active inquiry—and terminates in a state that feels qualitatively different: settled knowledge. This arc is not merely the accumulation of evidence (explored in [[phenomenology-of-epistemic-judgment]]) or the click of comprehension (explored in [[phenomenology-of-understanding]]). It is the experience of *having arrived*—the sense that inquiry on this question is complete because you now possess something epistemically secure.
 
 The transition has characteristic features:
 
@@ -107,7 +107,7 @@ Galen Strawson (1994) pushes further, arguing that experience is the fundamental
 The phenomenology of epistemic achievement supports a picture of consciousness as an active epistemic agent rather than a passive information receiver. Consider what happens during inquiry:
 
 1. Consciousness holds the question open—maintaining the phenomenal tension of not-knowing
-2. Consciousness evaluates candidate answers—producing the felt weight of [[phenomenology-of-evidence-assessment|evidence assessment]]
+2. Consciousness evaluates candidate answers—producing the felt weight of [[phenomenology-of-epistemic-judgment|evidence assessment]]
 3. Consciousness experiences the resolution—the achievement's characteristic closure and grounding
 
 Each stage has irreducible phenomenal character. A purely physical system might track information, update probability assignments, and trigger reward signals. But the *experience* of inquiry-resolution—the qualitative arc from puzzlement through investigation to knowing—is something over and above these functional transitions.
@@ -134,8 +134,8 @@ The Unfinishable Map's [[tenets]] illuminate this topic from several directions.
 
 - [[phenomenology-of-understanding]]
 - [[phenomenology-of-intellectual-effort]]
-- [[phenomenology-of-evidence-assessment]]
-- [[phenomenology-of-belief-revision]]
+- [[phenomenology-of-epistemic-judgment]]
+- [[phenomenology-of-epistemic-judgment]]
 - [[argument-from-reason]]
 - [[epistemic-advantages-of-dualism]]
 - [[epistemic-emotions]]

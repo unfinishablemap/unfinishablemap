@@ -4,7 +4,7 @@ description: "How consciousness stabilizes perception despite constant sensory f
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-22T11:15:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[visual-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[inverted-qualia]]"
 related_articles:
   - "[[attention-as-selection-interface]]"
-  - "[[phenomenology-of-evidence-assessment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[philosophy-of-perception-under-dualism]]"
   - "[[consciousness-and-temporal-integration]]"

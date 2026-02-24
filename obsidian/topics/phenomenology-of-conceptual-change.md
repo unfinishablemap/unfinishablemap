@@ -4,12 +4,12 @@ description: "What does it feel like when the categories through which you under
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-21T13:39:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 last_deep_review: 2026-02-21T13:39:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-understanding]]"
-  - "[[phenomenology-of-belief-revision]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -36,7 +36,7 @@ Conceptual change is not belief revision writ large. When you change your mind a
 
 ## Conceptual Change vs. Belief Revision
 
-The distinction matters. [[phenomenology-of-belief-revision|Belief revision]] operates within a framework: you weigh evidence, feel the resistance of established convictions, experience the rupture of abandoning one position for another. The categories through which you interpret evidence remain constant. You change *what* you think while the *how* of thinking stays put.
+The distinction matters. [[phenomenology-of-epistemic-judgment|Belief revision]] operates within a framework: you weigh evidence, feel the resistance of established convictions, experience the rupture of abandoning one position for another. The categories through which you interpret evidence remain constant. You change *what* you think while the *how* of thinking stays put.
 
 Conceptual change alters the how. After a genuine conceptual shift, the same evidence looks different — not because you evaluate it differently but because you *perceive* it differently. The gestalt has flipped. What was figure becomes ground. Features that were invisible become salient, and features that seemed essential dissolve into irrelevance.
 
@@ -123,7 +123,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 
 ## Further Reading
 
-- [[phenomenology-of-belief-revision]]
+- [[phenomenology-of-epistemic-judgment]]
 - [[phenomenology-of-understanding]]
 - [[phenomenology-of-philosophical-disagreement]]
 - [[cognitive-phenomenology]]

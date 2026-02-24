@@ -4,7 +4,7 @@ description: "The shared phenomenal structure of moral, epistemic, aesthetic, an
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T18:31:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-experience]]"
@@ -50,7 +50,7 @@ Epistemic norms—the demands of rationality, evidence, and logical consistency�
 
 The experience of being compelled by evidence has what might be called phenomenal rigidity. A valid argument doesn't merely suggest its conclusion—it seems to necessitate it. This phenomenal necessity is distinct from physical necessity (feeling the impact of a collision) and moral necessity (feeling obligated to help). It belongs to [[cognitive-phenomenology|cognitive phenomenology]]: the felt character of thinking itself.
 
-When evidence contradicts a held belief, the clash registers phenomenally. It is uncomfortable, but the discomfort differs from moral guilt or aesthetic displeasure. Epistemic tension has a characteristic restlessness—the sense that something is unresolved, that the mind's current configuration is unstable. [[phenomenology-of-belief-revision|Belief revision]] proceeds partly through this felt instability: the old belief no longer rests easily in the cognitive landscape.
+When evidence contradicts a held belief, the clash registers phenomenally. It is uncomfortable, but the discomfort differs from moral guilt or aesthetic displeasure. Epistemic tension has a characteristic restlessness—the sense that something is unresolved, that the mind's current configuration is unstable. [[phenomenology-of-epistemic-judgment|Belief revision]] proceeds partly through this felt instability: the old belief no longer rests easily in the cognitive landscape.
 
 ### Aesthetic Normativity
 

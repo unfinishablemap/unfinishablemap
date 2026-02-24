@@ -4,12 +4,12 @@ description: "Exploring how consciousness transforms the problem of induction fr
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-22T11:15:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[epistemic-advantages-of-dualism]]"
-  - "[[phenomenology-of-belief-revision]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[reasons-responsiveness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[counterfactual-reasoning]]"
 related_articles:
   - "[[argument-from-reason]]"
-  - "[[phenomenology-of-evidence-assessment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[consciousness-and-semantic-understanding]]"
   - "[[consciousness-and-temporal-integration]]"
@@ -58,7 +58,7 @@ Inductive expectation has a distinctive phenomenal character that purely physica
 
 The [[phenomenology-of-surprise-and-prediction-error|phenomenology of surprise]] reveals this vividly. When an inductive expectation fails—when the unexpected happens—the resulting surprise is not just a computational error signal. It involves a qualitative disruption: the world suddenly feels different from how it was supposed to be. This disruption presupposes that the expectation was phenomenally real, not just a dispositional state. The difference between a thermostat's response to unexpected temperature and a person's genuine surprise is precisely the difference between processing and experiencing.
 
-Similarly, [[phenomenology-of-belief-revision|belief revision]] has a phenomenal texture that matters for induction. When accumulating evidence shifts an inductive conclusion, the reasoner experiences the shift—feels the old view weakening and the new one strengthening. This felt transition is what makes the reasoning *responsive to evidence* rather than merely caused by inputs. [[reasons-responsiveness|Reasons-responsiveness]]—the capacity to track normative relationships between evidence and belief—appears to require the kind of unified awareness that consciousness provides.
+Similarly, [[phenomenology-of-epistemic-judgment|belief revision]] has a phenomenal texture that matters for induction. When accumulating evidence shifts an inductive conclusion, the reasoner experiences the shift—feels the old view weakening and the new one strengthening. This felt transition is what makes the reasoning *responsive to evidence* rather than merely caused by inputs. [[reasons-responsiveness|Reasons-responsiveness]]—the capacity to track normative relationships between evidence and belief—appears to require the kind of unified awareness that consciousness provides.
 
 ## Induction Across the Explanatory Gap
 
@@ -105,8 +105,8 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 ## Further Reading
 
 - [[argument-from-reason]]
-- [[phenomenology-of-evidence-assessment]]
-- [[phenomenology-of-belief-revision]]
+- [[phenomenology-of-epistemic-judgment]]
+- [[phenomenology-of-epistemic-judgment]]
 - [[consciousness-and-semantic-understanding]]
 - [[consciousness-and-temporal-integration]]
 - [[consciousness-and-the-grounds-of-normative-authority]]

@@ -4,7 +4,7 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-23T01:58:00+00:00
+ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,11 +37,11 @@ related_articles:
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[consciousness-and-the-authority-of-logic]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
-  - "[[phenomenology-of-belief-revision]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-intellectual-effort]]"
-  - "[[phenomenology-of-evidence-assessment]]"
+  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenal-binding-and-holism]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[phenomenal-normativity]]"
@@ -203,7 +203,7 @@ Several findings would weaken PCT:
 - [[epistemic-emotions]] — Feelings directed at knowledge itself
 - [[consciousness-and-the-authority-of-logic]] — Why logical relationships carry normative force
 - [[phenomenology-of-intellectual-effort]] — The experience of reasoning as work
-- [[phenomenology-of-evidence-assessment]] — The felt weight of reasons
+- [[phenomenology-of-epistemic-judgment]] — The felt weight of reasons
 - [[argument-from-reason]] — Why genuine reasoning requires consciousness
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
 - [[phenomenal-binding-and-holism]] — How discrete conscious states combine into structured wholes
@@ -219,7 +219,7 @@ Several findings would weaken PCT:
 - [[meaning-of-life]] — Consciousness-grounded meaning and existential significance
 - [[autonoetic-consciousness]] — Mental time travel and narrative integration
 - [[consciousness-and-counterfactual-reasoning]] — Inference about non-actual scenarios
-- [[phenomenology-of-belief-revision]] — When inference changes what you believe
+- [[phenomenology-of-epistemic-judgment]] — When inference changes what you believe
 - [[phenomenal-normativity]] — Logical compulsion as one species of normative phenomenal property
 
 ## References

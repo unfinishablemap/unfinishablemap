@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced epistemic phenomenology articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged phenomenology-of-belief-revision and phenomenology-of-evidence-assessment into phenomenology-of-epistemic-judgment. The following files reference archived articles and need review: phenomenology-of-conceptual-change, surprise-prediction-error-and-consciousness, consciousness-and-the-problem-of-induction, phenomenology-of-deliberation-under-uncertainty, phenomenology-of-philosophical-disagreement, phenomenology-of-trust-and-testimony, phenomenology-of-trust, phenomenology-of-intellectual-courage, consciousness-and-skilled-performance, consciousness-and-testimony, phenomenology-of-moral-experience, phenomenology-of-theoretical-commitment, phenomenology-of-understanding, phenomenology-of-normative-properties, phenomenology-of-epistemic-achievement, phenomenological-evidence, phenomenology-of-perceptual-constancy, phenomenology-of-intellectual-effort
-- **Source**: coalesce
-- **Generated**: 2026-02-24
-
 ### P2: Integrate temporal-phenomenology-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Recently deep-reviewed. Connects temporal phenomenology to quantum selection — add cross-references from articles on temporal consciousness, quantum mind, and the measurement problem.
@@ -158,6 +152,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Update references to coalesced epistemic phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged phenomenology-of-belief-revision and phenomenology-of-evidence-assessment into phenomenology-of-epistemic-judgment. The following files reference archived articles and need review: phenomenology-of-conceptual-change, surprise-prediction-error-and-consciousness, consciousness-and-the-problem-of-induction, phenomenology-of-deliberation-under-uncertainty, phenomenology-of-philosophical-disagreement, phenomenology-of-trust-and-testimony, phenomenology-of-trust, phenomenology-of-intellectual-courage, consciousness-and-skilled-performance, consciousness-and-testimony, phenomenology-of-moral-experience, phenomenology-of-theoretical-commitment, phenomenology-of-understanding, phenomenology-of-normative-properties, phenomenology-of-epistemic-achievement, phenomenological-evidence, phenomenology-of-perceptual-constancy, phenomenology-of-intellectual-effort
+- **Output**: None -- Context: Update references to coalesced epistemic phenomenology articles
 
 ### ✓ 2026-02-24: Cross-review the-unobservable-self.md considering absorption void insights
 - **Type**: cross-review
