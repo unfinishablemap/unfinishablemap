@@ -145,10 +145,10 @@ def setup_logging(log_file: Path) -> None:
     # Telegram handler (optional — enabled when env vars are set)
     telegram = TelegramHandler()
     if telegram.is_enabled():
-        telegram.setLevel(logging.ERROR)
+        telegram.setLevel(logging.INFO)
         telegram.setFormatter(logging.Formatter("%(name)s: %(message)s"))
         log.addHandler(telegram)
-        log.info("Telegram notifications enabled for ERROR+")
+        log.info("Telegram notifications enabled for INFO+")
 
 
 def format_duration(seconds: float) -> str:

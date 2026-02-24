@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review collapse-and-time.md considering consciousness-collapse-arrow-of-time insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-collapse-arrow-of-time.md was created 2026-02-24. It connects consciousness-caused collapse to temporal asymmetry and the arrow of time. concepts/collapse-and-time.md covers the relationship between wavefunction collapse and temporal experience and should cross-reference the new article's treatment of why collapse might ground time's directionality. Also check concepts/temporal-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
-- **Source**: chain (from consciousness-collapse-arrow-of-time.md)
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review tenet-generated-voids.md considering substrate-void, surplus-void, and givenness-void
 - **Type**: cross-review
 - **Notes**: Three new void articles created 2026-02-24 that were not included in earlier cross-review batches: voids/substrate-void.md (supports Tenet 1), voids/the-surplus-void.md (supports Tenet 1), and voids/the-givenness-void.md (supports Tenet 5). tenet-generated-voids.md catalogs which voids emerge from which tenets and should be updated to classify these new entries with their tenet mappings.
@@ -218,6 +212,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review collapse-and-time.md considering consciousness-collapse-arrow-of-time insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-collapse-arrow-of-time.md was created 2026-02-24. It connects consciousness-caused collapse to temporal asymmetry and the arrow of time. concepts/collapse-and-time.md covers the relationship between wavefunction collapse and temporal experience and should cross-reference the new article's treatment of why collapse might ground time's directionality. Also check concepts/temporal-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/collapse-and-time.md -- Context: Cross-review collapse-and-time.md considering consciousness-collapse-arrow-of-time insights
 
 ### ✓ 2026-02-24: Write voids article on the substrate void
 - **Type**: expand-topic
