@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 16:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [[default-mode-network]]
+- **Changes**: Fixed straw man in psychedelic argument (HIGH), fixed cross-cultural convergence claim (HIGH), fixed bidirectional interaction begging the question (MEDIUM), added missing Fox et al. 2014 citation (MEDIUM), language improvements
+- **Published**: yes
+
 ## 2026-02-24 16:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/hard-problem-of-consciousness]]
