@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 19:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Binding Void
+- **Output**: [[voids/binding-void]]
+- **Word count**: 1996
+- **Based on research**: yes, [[research/voids-binding-void-2026-02-15]]
+
 ## 2026-02-24 19:41 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Calibration Void

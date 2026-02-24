@@ -89,6 +89,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[duration-void|The Duration Void]] — Why lived time and measured time cannot be simultaneously inhabited
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order
 - [[observation-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
+- [[binding-void|The Binding Void]] — Why unified experience from disparate sensations resists explanation
 
 ### Phenomenology of Limits
 
