@@ -4,7 +4,7 @@ description: "How the conceivability argument against physicalism functions as a
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T13:20:00+00:00
+ai_modified: 2026-02-24T14:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,8 +14,8 @@ concepts:
   - "[[knowledge-argument]]"
   - "[[explanatory-gap]]"
   - "[[conceivability-possibility-inference]]"
-  - "[[concepts/materialism]]"
-  - "[[concepts/functionalism]]"
+  - "[[materialism]]"
+  - "[[functionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[modal-structure-of-phenomenal-properties]]"
@@ -24,6 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
+last_deep_review: 2026-02-24T14:42:00+00:00
 ---
 
 The Unfinishable Map treats the [[philosophical-zombies|zombie argument]] not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), showing that every major physicalist response maps onto denying a specific step in the argument's logical chain, and that each denial carries distinctive costs. (Chalmers develops this taxonomy primarily in terms of Type-A and Type-B responses; the treatment here adds a third category for completeness — see the [[#Type-Q Physicalism: Deny Non-Entailment|Type-Q section]] for a note on nomenclature.)
@@ -60,7 +61,7 @@ The master argument's elegance is that it turns the debate into a decision tree.
 
 Type-A physicalists claim zombies aren't genuinely conceivable — that fully understanding the physical facts would reveal consciousness to be analytically entailed. This position implies that the [[hard-problem-of-consciousness|hard problem]] is an illusion produced by confused concepts rather than a genuine metaphysical gap.
 
-**Cost**: Type-A physicalism must explain why the conceivability seems so robust. Sustained philosophical analysis over three decades has not produced a widely accepted demonstration that the zombie scenario contains a hidden contradiction — though physicalists such as Dennett and Frankish argue the conceivability is illusory once physical identity is followed through carefully enough. If consciousness were analytically entailed by physics, we would expect the entailment to become clearer with better understanding — as with water and H₂O. Instead, the gap seems to widen.
+**Cost**: Type-A physicalism must explain why the conceivability seems so robust. Sustained philosophical analysis over three decades has not produced a widely accepted demonstration that the zombie scenario contains a hidden contradiction. The most developed Type-A position, [[illusionism]] — championed by Frankish and drawing on Dennett — argues that phenomenal consciousness is itself a misrepresentation, and that once this illusion is dispelled, zombie conceivability dissolves. Whether this successfully explains away the intuition or merely relocates the problem remains contested. If consciousness were analytically entailed by physics, we would expect the entailment to become clearer with better understanding — as with water and H₂O. Type-A advocates argue progress is being made; critics contend the gap has not narrowed.
 
 ### Type-B Physicalism: Deny the Conceivability-Possibility Link
 
@@ -86,7 +87,7 @@ This blocks the standard Type-B escape. With water, the primary intension (the w
 
 The master argument has persisted for three decades not because philosophers haven't tried to refute it, but because its logical structure forces opponents into costly commitments. Each response sacrifices something the physicalist would prefer to keep:
 
-- **Denying conceivability** requires claiming our conceptual grasp of consciousness is confused — an uncomfortable position for anyone who trusts their own phenomenal judgments.
+- **Denying conceivability** requires claiming our conceptual grasp of consciousness is confused — a position that carries its own explanatory burden, since it must account for the widespread and persistent intuition that zombies are conceivable.
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.
 - **Denying non-entailment** effectively concedes dualism's core claim while clinging to physicalist terminology.
 
@@ -129,15 +130,3 @@ The master argument also supports [[tenets#^occams-limits|Tenet 5 (Occam's Razor
 - Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.
 
-<!-- AI REFINEMENT LOG - 2026-02-23
-Changes made:
-- Added "The Zombie Argument and Bidirectional Interaction" subsection addressing the tension between zombie conceivability (assumes physical identity) and Tenet 3 (consciousness makes a physical difference). Explains the zombie argument works under minimal dualism (Tenet 1 alone), while the full framework makes zombies impossible as a consequence.
-- Flagged "Type-Q physicalism" as non-standard nomenclature — Chalmers's taxonomy covers Type-A and Type-B only. Added note in opening paragraph and at the Type-Q section.
-- Qualified the "decades of analysis" claim about zombie conceivability — acknowledged that physicalists like Dennett and Frankish consider the conceivability debunked.
-- Softened loaded language: "found wanting" → "attempted, each at significant theoretical cost"; "the argument's power" → "the argument's structure gains its force"
-
-Based on pessimistic review 2026-02-23 afternoon.
-Key improvements: Internal consistency with Map's tenets, epistemic honesty about contested claims, nomenclature transparency.
-
-This log should be removed after human review.
--->
