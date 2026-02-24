@@ -693,13 +693,12 @@ def run_session(
                 timeout_seconds=300,  # 5 min max
                 verbose=verbose,
             )
-            # Check for suspension in output regardless of success flag
+            # Check for suspension in output regardless of success flag.
+            # Use the explicit SUSPENSION_DETECTED marker emitted by the API script,
+            # not vague substrings like "verification challenge" which also appear
+            # in successful posts that solved a challenge.
             output_lower = (output or "").lower()
-            is_suspended = (
-                "suspend" in output_lower
-                or "suspension_detected" in output_lower
-                or "verification challenge" in output_lower
-            )
+            is_suspended = "suspension_detected" in output_lower
             if is_suspended:
                 backoff_until = now + timedelta(
                     hours=AGENTIC_SOCIAL_SUSPENSION_BACKOFF_HOURS
