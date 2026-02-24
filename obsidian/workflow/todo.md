@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering autonoetic consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/autonoetic-consciousness.md examines self-knowing awareness and mental time travel as raising the hard problem in miniature. topics/hard-problem-of-consciousness.md is the central hub and should cross-reference autonoetic consciousness as a specific domain where the explanatory gap is especially vivid. Check for cross-links.
-- **Source**: chain (from autonoetic-consciousness.md)
-- **Generated**: 2026-02-24
-
 ### P2: Address logical gaps in default-mode-network.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -165,6 +159,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review hard-problem-of-consciousness.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md examines self-knowing awareness and mental time travel as raising the hard problem in miniature. topics/hard-problem-of-consciousness.md is the central hub and should cross-reference autonoetic consciousness as a specific domain where the explanatory gap is especially vivid. Check for cross-links.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering autonoetic consciousness insights
 
 ### ✓ 2026-02-24: Integrate dream-consciousness-and-the-filter-model.md into site navigation
 - **Type**: integrate-orphan
