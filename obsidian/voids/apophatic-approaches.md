@@ -52,7 +52,7 @@ Ludwig Wittgenstein's *Tractatus Logico-Philosophicus* concludes famously: "Wher
 
 But Wittgenstein's intent was more nuanced. The mystical, ethical, and existential questions are not thereby unimportant. Quite the opposite: what cannot be said matters deeply. The *Tractatus* acknowledges the existence of "the mystical"—that the world *exists* is the mystical element (6.44). Wittgenstein's famous closing proposition is not dismissive but protective: silence preserves what speech would distort. The *Tractatus* itself is a "ladder to be thrown away" after climbing (6.54)—its propositional content is less important than the shift in perspective it enables.
 
-For the voids project, Wittgenstein offers a methodological caution and a suggestion. The caution: some voids may be approached only through non-propositional means—silence, contemplation, attention to what evades articulation. The suggestion: sometimes the most illuminating move is to demonstrate exactly where language fails, rather than attempting to say what cannot be said.
+For the voids project, Wittgenstein offers a methodological caution and a suggestion. The caution: some voids may be approached only through non-propositional means—silence, contemplation, attention to what evades articulation. The [[the-silence-void|silence void]] takes this further: contemplative traditions report that even negation must cease, that the territory opens only when the activity of thinking itself stops. The suggestion: sometimes the most illuminating move is to demonstrate exactly where language fails, rather than attempting to say what cannot be said.
 
 ## Cognitive Closure
 
@@ -159,6 +159,7 @@ The goal is not to fill the voids with speculation but to know more precisely wh
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate cognitive architecture
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
+- [[the-silence-void|The Silence Void]] — Where even negation must cease: the territory beyond apophatic method
 - [[illusionism|Illusionism]] — The radical challenge that phenomenal consciousness doesn't exist
 - [[introspection|Introspection and First-Person Methods]] — The reliability of phenomenal access
 - [[decoherence|Decoherence and Quantum Biology]] — How quantum effects might survive in biological systems

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate the-silence-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-02-17 has zero inbound wikilinks from content articles. Explores the void where language fails to capture conscious experience. Should be linked from related voids articles (the-unobservable-self.md, emergence-void.md), phenomenology articles, and the voids section index.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
 ### P3: Deep review nomic-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-06, never reviewed. Oldest unreviewed void — 18 days without quality assurance. The nomic void examines whether consciousness could be governed by natural laws at all. Verify coherence, cross-references, and tenet alignment.
@@ -152,6 +146,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Integrate the-silence-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-02-17 has zero inbound wikilinks from content articles. Explores the void where language fails to capture conscious experience. Should be linked from related voids articles (the-unobservable-self.md, emergence-void.md), phenomenology articles, and the voids section index.
+- **Output**: obsidian/voids/the-silence-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-24: Write voids article on the plurality void
 - **Type**: expand-topic

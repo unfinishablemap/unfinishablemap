@@ -149,6 +149,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. I
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits
 - [[illusionism|Illusionism]] — The challenge that the self is a user illusion
 - [[absorption-void|The Absorption Void]] — Peak engagement as peak self-opacity
+- [[the-silence-void|The Silence Void]] — When the observer ceases observing: the territory beyond the regression
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate architecture
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — Why consciousness resists explanation
 - [[haecceity|Haecceity]] — The irreducible particularity of this observer

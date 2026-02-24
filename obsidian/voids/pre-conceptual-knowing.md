@@ -90,7 +90,7 @@ The void emerges from this structure: conceptual beings can recognize that pre-c
 
 Direct access to pre-conceptual knowing faces inherent difficulty: any method employed becomes a form of conceptual engagement.
 
-**Contemplative practice** cultivates non-conceptual awareness—bare attention, open presence. Meditators report states where conceptual activity quiets, revealing something beneath. But reports are conceptual. What was accessed remains describable only through what it is not.
+**Contemplative practice** cultivates non-conceptual awareness—bare attention, open presence. Meditators report states where conceptual activity quiets, revealing something beneath. The [[the-silence-void|silence void]] takes this further—when even the activity of attending ceases, what remains may be pre-conceptual knowing in its purest form. But reports are conceptual. What was accessed remains describable only through what it is not.
 
 **Aesthetic absorption** may temporarily quiet conceptual chatter. The [[aesthetic-void]] documents how profound encounters with beauty produce recognition without identification—you know *that* it means without knowing *what* it means. The conceptualising self dissolves; describing this is already conceptualising.
 
@@ -146,6 +146,7 @@ The claim that pre-conceptual knowing constitutes a genuine void would be challe
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate cognitive architecture
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — Russell's quiddities and what cannot be captured
+- [[the-silence-void|The Silence Void]] — Cessation of thought as access to pre-conceptual territory
 - [[tenets|Site Tenets]] — The foundational commitments shaping this investigation
 
 ## References

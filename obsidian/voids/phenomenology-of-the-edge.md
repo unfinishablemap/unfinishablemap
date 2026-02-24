@@ -61,7 +61,7 @@ This paradox deserves philosophical scrutiny. The materialist might dismiss noes
 
 Different practices approach cognitive limits through different routes, yet produce similar phenomenological signatures:
 
-**Contemplative practice.** Meditation traditions have mapped this territory for millennia. Jhana (concentrated absorption) progressively strips away mental content while intensifying awareness. Vipassana (insight practice) repeatedly encounters the impermanence and emptiness of phenomena. Cessation experiences—complete stopping of phenomenal consciousness followed by return—represent approaching and crossing the edge entirely.
+**Contemplative practice.** Meditation traditions have mapped this territory for millennia. Jhana (concentrated absorption) progressively strips away mental content while intensifying awareness. Vipassana (insight practice) repeatedly encounters the impermanence and emptiness of phenomena. Cessation experiences—complete stopping of phenomenal consciousness followed by return—represent approaching and crossing the edge entirely. The [[the-silence-void|silence void]] investigates this limit case specifically: the territory that opens only when all cognitive activity, including the activity of approaching the edge, ceases.
 
 **Pharmacological intervention.** Psychedelics reliably produce ego dissolution and edge-experiences at sufficient doses. Neuroimaging consistently shows default mode network reduction correlating with these states—the brain's self-referential processing quiets while awareness continues. Whether these states constitute genuine access to new territories or merely approach cognitive limits is the central question of [[altered-states-as-void-probes]].
 
@@ -146,6 +146,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising edge-phenomenology as evidential data for boundary-mapping
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage and dissolving insights
 - [[habituation-void|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
+- [[the-silence-void|The Silence Void]] — The ultimate edge: where cognitive cessation opens territory mapping cannot reach
 - [[mysterianism|Mysterianism]] — Colin McGinn's analysis of cognitive closure
 - [[witness-consciousness|Witness Consciousness]] — The sakshi tradition and the structure of awareness
 - [[altered-states-of-consciousness|Altered States of Consciousness]] — How different states reveal the configurability of the consciousness-brain interface

@@ -152,6 +152,7 @@ If genuine consciousness-only territories exist, several implications follow.
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[hard-problem-of-consciousness|The Hard Problem]] — Why explaining consciousness resists physical reduction
 - [[epistemology-of-cognitive-limits|The Epistemology of Cognitive Limits]] — How we can know whether limits are genuine or merely apparent
+- [[the-silence-void|The Silence Void]] — Territory accessible only through the cessation of cognition itself
 
 ## References
 
