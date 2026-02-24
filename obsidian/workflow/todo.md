@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review affective-void.md and other-minds-void.md considering synesthetic-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/synesthetic-void.md created 2026-02-24. The synesthetic void explores intra-species experiential inaccessibility through the lens of synesthesia. affective-void.md already references synesthesia briefly and other-minds-void.md covers the broader access problem. Check for cross-links, ensure complementary framing, and verify no redundant arguments.
-- **Source**: chain (from synesthetic-void.md)
-- **Generated**: 2026-02-24
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -188,6 +182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Review affective-void.md and other-minds-void.md considering synesthetic-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/synesthetic-void.md created 2026-02-24. The synesthetic void explores intra-species experiential inaccessibility through the lens of synesthesia. affective-void.md already references synesthesia briefly and other-minds-void.md covers the broader access problem. Check for cross-links, ensure complementary framing, and verify no redundant arguments.
+- **Output**: obsidian/voids/affective-void.md -- Context: Review affective-void.md and other-minds-void.md considering synesthetic-void insights
 
 ### ✓ 2026-02-24: Review three-kinds-of-void.md considering new void articles
 - **Type**: cross-review

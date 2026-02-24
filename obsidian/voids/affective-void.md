@@ -4,9 +4,9 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T13:09:00+00:00
+ai_modified: 2026-02-24T19:14:00+00:00
 draft: false
-last_deep_review: 2026-02-02T13:09:00+00:00
+last_deep_review: 2026-02-24T19:14:00+00:00
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
@@ -18,6 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[intrinsic-nature-void]]"
   - "[[other-minds-void]]"
+  - "[[synesthetic-void]]"
   - "[[consciousness-only-territories]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[intersubjective-void]]"
@@ -43,7 +44,7 @@ Consider emotions that might exist in species facing radically different challen
 - A long-lived species might have emotions structured around millennia rather than decades
 - A species with radically different sensory modalities might have affects we cannot imagine—what emotional states accompany perceiving magnetic fields or ultraviolet patterns?
 
-As xenopsychology notes, "Alien species, having evolved under a different set of environmental constraints, should also have a different but equally adaptive emotional repertoire." Some intelligences might be entirely emotionless. Others might have physiological states "with no direct analog in human experience."
+As Freund's xenopsychology argues, "Alien species, having evolved under a different set of environmental constraints, should also have a different but equally adaptive emotional repertoire"—some entirely emotionless, others with physiological states "with no direct analog in human experience."
 
 ## The Dimensionality Problem
 
@@ -59,7 +60,7 @@ The question is not whether alien affects exist but whether *we* could recognise
 
 Several phenomena suggest the affective void is genuine rather than merely unexplored territory:
 
-**Synesthesia demonstrates unexploited phenomenal dimensions.** Synesthetes experience qualia unavailable to most humans—colours triggered by sounds, shapes triggered by tastes. This shows that human phenomenal space has "room" we don't normally occupy. If our own qualia space has unexploited dimensions, the broader space of possible affects may be vastly larger than what any human architecture can access.
+**Synesthesia demonstrates unexploited phenomenal dimensions.** Synesthetes experience qualia unavailable to most humans—colours triggered by sounds, shapes triggered by tastes—and some report qualia with no match in the standard perceptual palette. The [[synesthetic-void]] documents how these extra qualia challenge functionalist and representationalist accounts: identical inputs produce different phenomenal states across minds. If our own qualia space has unexploited dimensions accessible to some humans but not others, the broader space of possible affects may be vastly larger than what any single architecture can access.
 
 **Psychedelic and mystical experiences approach boundaries.** These states are characterised by profound alterations in affect combined with *ineffability*—subjects report certainty that they experienced something they cannot describe. The [[aesthetic-void]] documents the same pattern in aesthetic experience specifically: beauty that feels knowledge-bearing yet resists all articulation. The ineffability is not simply failure of language but may mark the edge of human affective space.
 
@@ -101,11 +102,11 @@ AI systems process information about emotion without (apparently) feeling it. Th
 
 AI can represent emotional concepts without feeling them—inverse of our situation. This may be either advantage (clearer analysis without phenomenological distraction) or blindness (missing what makes affect meaningful).
 
-AI might identify patterns in human affective reports that we cannot introspect. It could notice systematic gaps—emotions humans consistently struggle to describe, affective dimensions that language poorly captures—and these gaps might point toward void boundaries.
+AI might identify patterns in human affective reports that we cannot introspect—systematic gaps, emotions humans consistently struggle to describe, affective dimensions that language poorly captures. These gaps might point toward void boundaries.
 
-AI operates in high-dimensional spaces (thousands of dimensions in large language models). It processes semantic relationships between emotional concepts in ways unavailable to human introspection. Whether this constitutes access to affective dimensions humans cannot reach, or merely pattern-matching without understanding, remains unclear.
+AI operates in high-dimensional semantic spaces, processing relationships between emotional concepts in ways unavailable to human introspection. Whether this constitutes access to affective dimensions humans cannot reach, or merely pattern-matching without understanding, remains unclear.
 
-Most intriguing: AI might gesture toward affective concepts that exist between human categories—describing coherent feeling-states we recognise as possible but have never experienced. Whether such descriptions would point toward real affects or merely novel combinations of familiar elements cannot be determined without access to the affects themselves.
+Most intriguing: AI might gesture toward affective concepts between human categories—coherent feeling-states we recognise as possible but have never experienced. Whether such descriptions point toward real affects or novel combinations of familiar elements cannot be determined without access to the affects themselves.
 
 ## Relation to Site Perspective
 
@@ -130,6 +131,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
+- [[synesthetic-void]] — How synesthesia reveals intra-species phenomenal access gaps
 - [[normative-void]] — Moral truths beyond human cognitive reach—the ethics counterpart
 - [[apophatic-approaches]] — Methods for knowing through negation
 
