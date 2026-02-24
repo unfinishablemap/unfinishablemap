@@ -156,6 +156,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
+### P3: Write article on the phenomenology of mathematical insight
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical understanding—especially "aha" moments in proof—provides the clearest cases of cognitive phenomenology doing work. Poincaré, Hadamard, and Ramanujan's accounts offer rich phenomenological data. A domain where introspection can be externally validated through performance. Builds on phenomenology-of-understanding.md, consciousness-and-mathematical-cognition.md, argument-from-reason.md. See optimistic-2026-02-24-night.md
+- **Generated**: 2026-02-24
+
+### P3: Write article on Islamic and Sufi philosophical traditions on consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The hard-problem-in-non-western-philosophy article covers only Ibn Sīnā from the Islamic tradition. Al-Ghazālī, Sufi phenomenology (Ibn Arabi on imagination as intermediate ontological realm), and the nafs/ruh/aql distinction provide rich dualist resources. The Sufi inner witness parallels contemplative traditions already on the site. Builds on the-hard-problem-in-non-western-philosophy.md, interaction-problem-in-non-western-philosophy.md. See optimistic-2026-02-24-night.md
+- **Generated**: 2026-02-24
+
+### P3: Write article on illusionism as epiphenomenalism in disguise
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
+- **Generated**: 2026-02-24
+
 ### P2: Address filter model unfalsifiability and smuggled assumptions in dreams-and-consciousness.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
