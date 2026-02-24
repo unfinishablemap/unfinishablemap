@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-05T06:42:00+00:00
+ai_modified: 2026-02-24T03:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,8 @@ concepts:
   - "[[bidirectional-interaction]]"
   - "[[delegatory-dualism]]"
   - "[[observational-closure]]"
+  - "[[bandwidth-problem-mental-causation]]"
+  - "[[neural-bandwidth-constraints-and-the-interface]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/epiphenomenalism-argument]]"
@@ -38,7 +40,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-02T03:40:00+00:00
+last_deep_review: 2026-02-24T03:08:00+00:00
 ---
 
 Mental causation is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -68,19 +70,13 @@ The dilemma seems stark: deny that consciousness causes anything, or deny that c
 
 ## Overdetermination and Exclusion
 
-Why can't mental and physical causes both contribute? This would be *causal overdetermination*—two independent sufficient causes converging on a single effect. Kim argues systematic overdetermination is untenable.
-
-Critics respond: mental causes supervene on physical causes (the dependence response); mental properties may be the more *proportional* cause (Yablo); mental and physical descriptions capture the same process at different levels. Each response has merit, but none fully dissolves the problem if we accept strong [[causal-closure|causal closure]].
+Why can't mental and physical causes both contribute? This would be *causal overdetermination*—two independent sufficient causes for a single effect. Kim argues systematic overdetermination is untenable. Critics respond that mental causes supervene on physical causes, or that mental properties may be the more *proportional* cause (Yablo). Each response has merit, but none fully dissolves the problem under strong [[causal-closure|causal closure]].
 
 ## The Supervenience Problem
 
-Mental properties supervene on physical properties: no mental difference without physical difference. But supervenience creates its own problem for mental causation.
+Mental properties supervene on physical properties: no mental difference without physical difference. But supervenience creates its own causation problem. If mental property M supervenes on physical property P, and P suffices to cause effect E, then M seems causally "screened off."
 
-If mental property M supervenes on physical property P, and P is sufficient to cause effect E, then M seems causally "screened off." The physical realizer does all the causal work.
-
-Kim calls this "causal drainage"—efficacy drains from higher levels to lower levels, pooling at fundamental physics. The threat extends beyond consciousness to all higher-level properties. Does temperature cause anything, or just molecular motion?
-
-This generalization of the problem either undermines all higher-level causation (an implausible conclusion) or suggests something is wrong with the exclusion reasoning itself.
+Kim calls this "causal drainage"—efficacy drains from higher levels to lower levels, pooling at fundamental physics. The threat extends beyond consciousness to all higher-level properties. Does temperature cause anything, or just molecular motion? This generalization either undermines all higher-level causation (implausible) or suggests something is wrong with the exclusion reasoning itself.
 
 ## Major Responses
 
@@ -126,11 +122,11 @@ Consciousness could bias outcomes at the point of measurement even after decoher
 
 ### The Specification Challenge
 
-Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and conservation (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically?
+Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and conservation (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically? A related challenge—the [[bandwidth-problem-mental-causation|bandwidth problem]]—asks whether the mind-body channel can carry enough information for specific behaviour, given that conscious processing operates at roughly 10 bits per second while motor execution requires millions. The [[neural-bandwidth-constraints-and-the-interface|hierarchical selection response]] resolves this: consciousness selects among brain-prepared options at policy level, while unconscious systems supply fine-grained detail.
 
 The [[psychophysical-laws-bridging-mind-and-matter]] provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *[[selection-laws|selection laws]]* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
 
-The [[psychophysical-coupling]] article surveys five candidate mechanisms:
+The [[psychophysical-laws]] article surveys five candidate mechanisms:
 
 1. **Attention → observation rate** (Stapp): Sustained attention increases quantum measurement frequency, "freezing" neural patterns via the quantum Zeno effect. The most developed proposal with testable predictions.
 
@@ -142,7 +138,7 @@ The [[psychophysical-coupling]] article surveys five candidate mechanisms:
 
 5. **Unity → sustained entanglement**: Phenomenal binding might correspond to sustained quantum coherence. Correlation found but doesn't establish causation.
 
-Only the first two mechanisms meet basic adequacy standards—specifying which phenomenal property affects which physical parameter through what mechanism. These candidate couplings operate through different [[coupling-modes]]—basis control (selecting the measurement question), timing control (selecting when collapse occurs), or probability control (reweighting outcome likelihoods)—with distinct implications for detectability. Without such specification, mental causation risks unfalsifiability.
+Only the first two meet basic adequacy standards. These couplings operate through different [[coupling-modes]]—basis control, timing control, or probability control—with distinct implications for detectability. Without such specification, mental causation risks unfalsifiability.
 
 ### Why Not Many Worlds?
 
@@ -230,7 +226,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument that consciousness must have causal effects to be selected
 - [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview of the framework requiring selection laws for mental causation
 - [[selection-laws]] — The downward direction of psychophysical laws: how mental states select physical outcomes
-- [[psychophysical-coupling]] — Five candidate mechanisms specifying how mental causation might work at the neural interface
+- [[psychophysical-laws]] — Framework for psychophysical laws including candidate coupling mechanisms
 - [[coupling-modes]] — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [[delegatory-dualism]] — Saad's 2025 response to exclusion: experiences preempt rather than overdetermine
 - [[choking-phenomenon-mental-causation]] — Empirical evidence: conscious interference with automatized skills demonstrates causation
@@ -243,13 +239,13 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[concepts/epiphenomenalism]] — The view denying mental causation
 - [[emergence]] — Mental causation as strong emergence with mechanism
 - [[agent-causation]] — Agent causation as substance causation applied to free action
-- [[agent-causation#The Metaphysical Foundation: Substance Causation|Substance causation]] — The metaphysical thesis that substances, not events, are fundamental causal agents
+- [[bandwidth-problem-mental-causation]] — The distinct challenge of whether the mind-body channel carries enough information
+- [[neural-bandwidth-constraints-and-the-interface]] — Empirical bandwidth data and its philosophical implications
 - [[quantum-consciousness]] — How consciousness interfaces with physics
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[interface-locality]] — Why consciousness affects only its own brain
 - [[attention-as-interface]] — How attention implements the consciousness-physics interface
 - [[topics/free-will]] — The implications for agency
-- [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — What kind of knowledge about the interface mechanism is epistemically available
 
 ## References
 

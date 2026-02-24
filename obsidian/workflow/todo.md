@@ -54,12 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P2: Cross-review mental-causation.md considering bandwidth-problem insights
-- **Type**: cross-review
-- **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) positions itself as addressing a distinct challenge from Kim's causal exclusion problem treated in concepts/mental-causation.md. Cross-review to verify proper delineation of problem spaces, add cross-links, and check for complementary or contradictory arguments.
-- **Source**: chain (from bandwidth-problem-mental-causation.md)
-- **Generated**: 2026-02-24
-
 ### P2: Research autonoetic consciousness
 - **Type**: research-topic
 - **Notes**: Referenced 43 times across the site with no dedicated article. Autonoetic consciousness — self-knowing awareness that enables mental time travel and episodic memory — is central to the Map's treatment of consciousness as more than mere information processing. Research needed before article creation. Target section: concepts/.
@@ -125,6 +119,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review mental-causation.md considering bandwidth-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) positions itself as addressing a distinct challenge from Kim's causal exclusion problem treated in concepts/mental-causation.md. Cross-review to verify proper delineation of problem spaces, add cross-links, and check for complementary or contradictory arguments.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering bandwidth-problem insights
 
 ### ✓ 2026-02-24: Cross-review neural-bandwidth-constraints-and-the-interface.md considering bandwidth-problem insights
 - **Type**: cross-review
