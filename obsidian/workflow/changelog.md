@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 13:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Changes**: Added "The Decoherence Challenge" section addressing strongest technical objection; pinned Kim citation; added decoherence cross-references and references
+- **Published**: yes
+
 ## 2026-02-24 13:15 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Indexical Void
