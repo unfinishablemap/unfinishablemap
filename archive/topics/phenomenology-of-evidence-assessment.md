@@ -26,6 +26,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+archived: true
+archived_date: 2026-02-24T12:00:00+00:00
+superseded_by: "/topics/phenomenology-of-epistemic-judgment/"
+archive_reason: "Coalesced into The Phenomenology of Epistemic Judgment"
+original_path: "/topics/phenomenology-of-evidence-assessment/"
 ---
 
 Evidence assessment has a phenomenology. When we weigh competing claims, evaluate arguments, or update beliefs, something happens experientially—not just computationally. There is a felt sense of epistemic weight, a qualitative character to finding something convincing or dubious, a distinctive texture to the moment when evidence tips the balance. The Unfinishable Map takes this phenomenology seriously as data about consciousness itself.

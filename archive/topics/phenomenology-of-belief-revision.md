@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-02-10T06:11:00+00:00
+archived: true
+archived_date: 2026-02-24T12:00:00+00:00
+superseded_by: "/topics/phenomenology-of-epistemic-judgment/"
+archive_reason: "Coalesced into The Phenomenology of Epistemic Judgment"
+original_path: "/topics/phenomenology-of-belief-revision/"
 ---
 
 Changing your mind is not a simple update. The Unfinishable Map holds that belief revision has a distinctive phenomenal character—a felt texture of resistance, rupture, and reorganisation that current computational accounts do not capture. When you abandon a long-held conviction, something happens that goes beyond Bayesian updating or evidence accumulation. There is the gravitational pull of the old belief, the disorientation of releasing it, and the gradual crystallisation of a new understanding. A physicalist can grant all of this phenomenology while maintaining it will eventually reduce to neural processes. The Map argues that the gap here is not merely one of current scientific ignorance but reflects something about the relationship between physical description and felt experience that no increase in physical detail closes. This phenomenology matters because it suggests that conscious experience plays an active role in how beliefs change, rather than passively registering conclusions reached by unconscious neural processes.

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 12:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-belief-revision]], [[topics/phenomenology-of-evidence-assessment]]
+- **Target**: [[topics/phenomenology-of-epistemic-judgment]]
+- **Archived**: [[archive/topics/phenomenology-of-belief-revision]], [[archive/topics/phenomenology-of-evidence-assessment]]
+- **References to review**: 18 files (cross-review task created)
+
 ## 2026-02-24 11:44 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/the-unobservable-self]]
