@@ -174,6 +174,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
 - **Generated**: 2026-02-24
 
+### P3: Write concept page for metarepresentation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[[metarepresentation]]` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
+- **Generated**: 2026-02-24
+
+### P3: Write concept page for voluntary-attention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. 43+ broken wikilinks reference `[[voluntary-attention]]` — the most-referenced missing article on the site. Central to the quantum interface discussion and the attention-as-causal-bridge framework. Builds on attention-as-interface.md, attention-as-causal-bridge.md (apex). See optimistic-2026-02-24-afternoon.md
+- **Generated**: 2026-02-24
+
+### P3: Write article on psychedelics and the filter model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
+- **Generated**: 2026-02-24
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
