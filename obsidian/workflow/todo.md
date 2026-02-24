@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the surplus void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-surplus-void-2026-02-23.md. The surplus void explores why phenomenal richness exceeds evolutionary necessity — Wallace's "surplusage of power" argument updated with modern zombie arguments. Directly supports Tenet 1 (Dualism) by showing consciousness contains more than physical processes can account for. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the givenness void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-givenness-void-2026-02-22.md. The givenness void examines how consciousness cannot investigate its own presentational structure — the most foundational void. Covers Husserl, Sellars, Heidegger, Marion. Directly supports Tenet 5 (Occam's Razor Has Limits) by showing simplicity fails where consciousness confronts its own ground. Target section: voids/.
@@ -212,6 +206,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the surplus void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-surplus-void-2026-02-23.md. The surplus void explores why phenomenal richness exceeds evolutionary necessity — Wallace's "surplusage of power" argument updated with modern zombie arguments. Directly supports Tenet 1 (Dualism) by showing consciousness contains more than physical processes can account for. Target section: voids/.
+- **Output**: Write voids article on the surplus void
 
 ### ✓ 2026-02-24: Address logical gaps in default-mode-network.md
 - **Type**: refine-draft
