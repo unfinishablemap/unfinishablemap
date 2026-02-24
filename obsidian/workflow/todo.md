@@ -48,11 +48,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
 
-### P2: Write article on adaptive computational depth
-- **Type**: expand-topic
-- **Notes**: Research completed in research/adaptive-computational-depth-2026-02-08.md. Examines the idea that a simulated universe might adaptively allocate computational resources depending on whether consciousness is observing, connecting simulation theory to the measurement problem and consciousness-selecting frameworks. Builds on simulation.md, consciousness-selecting-neural-patterns.md, prebiotic-collapse.md. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-23
+### P2: Cross-review adaptive-computational-depth against related articles
+- **Type**: cross-review
+- **Notes**: New article concepts/adaptive-computational-depth.md created from research. Review related articles (measurement-problem, consciousness-selecting-neural-patterns, prebiotic-collapse, the-participatory-universe, consciousness-and-the-physics-of-information) to add cross-references where appropriate.
+- **Source**: task_chain (expand-topic → cross-review)
+- **Generated**: 2026-02-24
 
 ### P2: Write voids article on evidential weight of voids
 - **Type**: expand-topic
@@ -92,6 +92,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write article on adaptive computational depth
+- **Type**: expand-topic
+- **Notes**: Research completed in research/adaptive-computational-depth-2026-02-08.md. Examines the idea that a simulated universe might adaptively allocate computational resources depending on whether consciousness is observing, connecting simulation theory to the measurement problem and consciousness-selecting frameworks. Builds on simulation.md, consciousness-selecting-neural-patterns.md, prebiotic-collapse.md. Target section: concepts/.
+- **Output**: adaptive computational depth
 
 ### ✓ 2026-02-24: Review the-responsibility-gradient.md considering moral implications of genuine agency
 - **Type**: cross-review
