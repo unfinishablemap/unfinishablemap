@@ -54,12 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P2: Cross-review neural-bandwidth-constraints-and-the-interface.md considering bandwidth-problem insights
-- **Type**: cross-review
-- **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) builds directly on the empirical bandwidth data in topics/neural-bandwidth-constraints-and-the-interface.md. Cross-review to ensure proper alignment, complementary arguments, and cross-linking between the empirical and philosophical treatments.
-- **Source**: chain (from bandwidth-problem-mental-causation.md)
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review mental-causation.md considering bandwidth-problem insights
 - **Type**: cross-review
 - **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) positions itself as addressing a distinct challenge from Kim's causal exclusion problem treated in concepts/mental-causation.md. Cross-review to verify proper delineation of problem spaces, add cross-links, and check for complementary or contradictory arguments.
@@ -131,6 +125,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review neural-bandwidth-constraints-and-the-interface.md considering bandwidth-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) builds directly on the empirical bandwidth data in topics/neural-bandwidth-constraints-and-the-interface.md. Cross-review to ensure proper alignment, complementary arguments, and cross-linking between the empirical and philosophical treatments.
+- **Output**: obsidian/topics/neural-bandwidth-constraints-and-the-interface.md -- Context: Cross-review neural-bandwidth-constraints-and-the-interface.md considering bandwidth-problem insights
 
 ### ✓ 2026-02-24: Create concept page for phenomenal-unity
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "Conscious processing operates at ~10 bits/second while the brain h
 created: 2026-02-09
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T00:36:00+00:00
+ai_modified: 2026-02-24T02:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[attention-as-interface]]"
   - "[[attentional-economics]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[filter-theory]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[working-memory]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-24T00:36:00+00:00
+last_deep_review: 2026-02-24T02:53:00+00:00
 ---
 
 Conscious processing operates at roughly 10 bits per second. The brain's unconscious systems handle on the order of 10⁹ bits per second. This ratio—one to a hundred million—is perhaps the most revealing empirical fact about The Unfinishable Map's central question: how consciousness relates to the brain. The bandwidth constraint is not an incidental limitation. It defines the *shape* of the mind-brain interface, distinguishing what consciousness does from what the brain does, and exposing why production models of consciousness face a problem that [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] models handle naturally.
@@ -82,7 +82,7 @@ This architecture explains the asymmetry. The brain's vast processing power is d
 
 A CEO doesn't process every email in the company. The organisation filters, prioritises, and packages information into decisions the CEO can act on. The CEO's bandwidth is narrow relative to the organisation's—but the CEO's contribution (strategic direction, value-laden choice) cannot be replaced by more organisational processing.
 
-The bandwidth constraint is not only evidence for the interface model—it also creates a distinctive challenge. Even granting that consciousness selects among prepared options, the [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] asks whether a 10-bit/second channel carries enough *specificity* to produce the complex behaviour we observe. The hierarchical selection architecture answers this: consciousness specifies goals, not motor coordinates, and the brain's unconscious systems translate coarse-grained selections into fine-grained execution. The challenge and the response together define the interface's architecture.
+The bandwidth constraint is not only evidence for the interface model—it also creates a distinctive challenge. Even granting that consciousness selects among prepared options, the [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] asks whether a 10-bit/second channel can do useful causal work. The problem has three dimensions: *capacity* (enough bits per second?), *grain* (how does coarse-grained intention produce fine-grained neural execution?), and *format* (how does intentional content structured by goals translate into physical mechanisms structured by forces and timings?). The hierarchical selection architecture answers the first two: consciousness specifies goals, not motor coordinates, and the brain translates coarse selections into fine-grained execution. The format dimension—how phenomenal states map to physical selections—connects to the broader [[psychophysical-laws|psychophysical coupling]] problem and remains open. The challenge and the response together define the interface's architecture.
 
 ## The Bandwidth Shapes the Interface
 
