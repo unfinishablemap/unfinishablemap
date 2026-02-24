@@ -4,7 +4,7 @@ description: "Consciousness requires temporal structure to exist. Time's arrow m
 created: 2026-02-01
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T00:20:00+00:00
+ai_modified: 2026-02-24T12:29:00+00:00
 last_deep_review: 2026-02-02T04:04:00+00:00
 draft: false
 topics:
@@ -99,7 +99,7 @@ This reconciles atemporality with irreversibility. Once a transaction completes�
 
 If consciousness constitutes temporal structure through collapse-involvement, what should this feel like from inside? The Map proposes: durée—Bergson's qualitative, flowing, interpenetrating time—is exactly what time-constitution feels like from within. We experience duration because we participate in creating duration.
 
-The specious present isn't a window onto pre-existing temporal structure. It may be the phenomenology of collapse-constitutive activity—the experiential signature of consciousness participating in time's creation. Husserl's retention-protention structure reflects the constraints that collapse satisfies: the past echoes because past collapses constrain current ones; the future is anticipated because expected future collapses influence present selection.
+The specious present isn't a window onto pre-existing temporal structure. It may be the phenomenology of collapse-constitutive activity—the experiential signature of consciousness participating in time's creation. Husserl's retention-protention structure reflects the constraints that collapse satisfies: the past echoes because past collapses constrain current ones; the future is anticipated because expected future collapses influence present selection. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops this mapping in detail, proposing that retention, primal impression, and protention correspond to collapsed, collapsing, and uncollapsed quantum states—making the specious present a selection window rather than a passive observation window.
 
 Multiple lines of evidence converge on the specious present as a phenomenal achievement rather than an automatic feature of neural processing. Advanced meditators report *nirodha samapatti*—complete cessation of temporal experience. Higher jhāna states show systematic variation: progressively "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, reduced active selection should produce exactly this sequence. Dreamless NREM sleep offers a complementary datum: hours pass with no temporal experience at all—not compressed, not stretched, simply absent—despite ongoing neural computation. If consciousness were identical to brain activity, some temporal experience should persist. Its complete absence during dreamless sleep supports the framework's prediction that without consciousness-involving collapse, no temporal facts are constituted.
 

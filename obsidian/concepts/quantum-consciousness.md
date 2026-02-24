@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-05T12:09:00+00:00
+ai_modified: 2026-02-24T12:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -197,6 +197,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [[attention-motor-quantum-interface]] — Unification of attention and motor selection
 
 **Key concepts:**
+- [[temporal-phenomenology-quantum-selection]] — What quantum selection feels like from within: the specious present as selection window
 - [[consciousness-and-quantum-measurement]] — The structural parallel between the measurement and hard problems
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure, not pure subjective belief
 - [[decoherence]] — Analysis of the decoherence challenge

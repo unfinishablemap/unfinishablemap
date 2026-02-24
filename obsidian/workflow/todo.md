@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate temporal-phenomenology-quantum-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Recently deep-reviewed. Connects temporal phenomenology to quantum selection — add cross-references from articles on temporal consciousness, quantum mind, and the measurement problem.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -152,6 +146,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Integrate temporal-phenomenology-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Recently deep-reviewed. Connects temporal phenomenology to quantum selection — add cross-references from articles on temporal consciousness, quantum mind, and the measurement problem.
+- **Output**: obsidian/concepts/temporal-phenomenology-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-24: Update references to coalesced epistemic phenomenology articles
 - **Type**: cross-review

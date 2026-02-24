@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-03T02:43:00+00:00
+ai_modified: 2026-02-24T12:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ If consciousness constitutes time through collapse, what should this feel like? 
 
 The debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) about the specious present bears directly on the framework. Extensionalists hold that experience is genuinely temporally extended—has parts at different times. Retentionalists hold that each moment is instantaneous but contains the past as intentional content (retention) and anticipates the future (protention).
 
-The Map adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process.
+The Map adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops this mapping, proposing that retention, primal impression, and protention correspond to collapsed, collapsing, and uncollapsed quantum states.
 
 If consciousness is actively constituting temporal structure, the specious present may be the phenomenology of this constitutive activity. We experience duration because we're creating duration. The variation in duration estimates (100ms-3s) may reflect multiple components—a core perceptual window where collapses unify, embedded in a broader experiential horizon where constraints propagate.
 
@@ -234,6 +234,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [[presentiment-and-retrocausality]] — Why physics-based retrocausality doesn't rest on contested parapsychology
 - [[duration]] — Bergson's qualitative time and the phenomenology of flow
 - [[temporal-consciousness]] — Broader treatment of time in consciousness
+- [[temporal-phenomenology-quantum-selection]] — Retention, primal impression, and protention as the experiential signature of quantum selection
 - [[specious-present]] — The experienced duration of "now" and the extensionalism debate
 - [[topics/free-will]] — the Map's account of libertarian agency
 - [[agent-causation]] — The agent as ultimate source of action

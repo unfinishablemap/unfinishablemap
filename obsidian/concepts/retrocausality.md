@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-02-22T08:14:00+00:00
+ai_modified: 2026-02-24T12:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ The transactional picture adds a subtlety: the handshake is atemporal. Decoheren
 
 [[witness-consciousness|Meditation traditions]] report experiences bearing on retrocausality. Advanced meditators describe awareness standing "outside" temporal flow, observing rather than being carried along. This provides phenomenological support for the atemporal selection model—the witness doesn't experience itself as "before" or "after" its objects.
 
-The phenomenology of decision also supports retrocausality: deliberation involves weighing options, then one option "crystallizing" into actuality. This crystallization feels like genuine selection, not passive observation. Retrocausality vindicates this—the selection *is* genuine, determining the entire transaction including its temporal preparation.
+The phenomenology of decision also supports retrocausality: deliberation involves weighing options, then one option "crystallizing" into actuality. This crystallization feels like genuine selection, not passive observation. Retrocausality vindicates this—the selection *is* genuine, determining the entire transaction including its temporal preparation. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops this point, arguing that the felt openness of deliberation (protention) and the fixedness of what has been decided (retention) are the experiential signatures of uncollapsed and collapsed quantum states.
 
 ## Time Ontology and Retrocausality
 
