@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 13:15 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Indexical Void
+- **Category**: Unexplorable / Occluded (Mixed)
+- **Output**: [[research/voids-indexical-void-2026-02-24]]
+- **Key finding**: The "vertiginous question" (Hellie)—why am I *this* conscious subject?—is structurally unanswerable from within any first-person perspective, and Christian List's quadrilemma shows first-person indexical facts create formal constraints on any theory of consciousness
+
 ## 2026-02-24 13:00 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Transparency Void
