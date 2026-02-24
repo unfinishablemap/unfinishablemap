@@ -18,6 +18,32 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 18:14 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-trust-and-testimony](/topics/phenomenology-of-trust-and-testimony/), [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Target**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Archived**: [phenomenology-of-trust-and-testimony](/archive/topics/phenomenology-of-trust-and-testimony/)
+- **References updated**: 2 (consciousness-and-the-problem-of-other-properties, phenomenology-of-philosophical-disagreement)
+- **Notes**: Topics section at 200/200 cap. Merged overlapping testimony articles — structural analysis from consciousness-and-testimony unified with phenomenological content from phenomenology-of-trust-and-testimony. Topics section now at 199/200.
+
+## 2026-02-24 17:59 UTC - deep-review
+- **Status**: Success
+- **File**: [tenet-generated-voids](/voids/tenet-generated-voids/)
+- **Word count**: 1937 → 1951 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (indexical void connection, plurality void connection, cross-links)
+- **Enhancements made**: 4 (prose tightening in 4 sections for length neutrality)
+- **Output**: [deep-review-2026-02-24-tenet-generated-voids](/reviews/deep-review-2026-02-24-tenet-generated-voids/)
+
+## 2026-02-24 17:44 UTC - deep-review
+- **Status**: Success
+- **File**: [Against Functionalism](/arguments/functionalism-argument/)
+- **Word count**: 2447 → 2444 (-3)
+- **Critical issues addressed**: 1 (missing description)
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-24-functionalism-argument](/reviews/deep-review-2026-02-24-functionalism-argument/)
+
 ## 2026-02-24 17:29 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Givenness Void

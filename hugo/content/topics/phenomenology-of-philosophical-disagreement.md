@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-02-24 12:14:00+00:00
+ai_modified: 2026-02-24 18:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-epistemic-judgment]]'
-- '[[phenomenology-of-trust-and-testimony]]'
+- '[[consciousness-and-testimony]]'
 - '[[consciousness-and-the-grounds-of-normative-authority]]'
 - '[[consciousness-and-the-authority-of-logic]]'
 - '[[phenomenology-of-inferential-understanding]]'
@@ -118,7 +118,7 @@ The Map's [Occam's Razor tenet](/tenets/#occams-limits) is also relevant. The ma
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — What it feels like to change your mind
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — What genuine understanding of another person requires
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — How evidence carries phenomenal weight
-- [phenomenology-of-trust-and-testimony](/topics/phenomenology-of-trust-and-testimony/) — The phenomenology of accepting or resisting another's claims
+- [consciousness-and-testimony](/topics/consciousness-and-testimony/) — The phenomenology of accepting or resisting another's claims
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why the dualist framework has distinctive strengths
 - [intersubjective-void](/voids/intersubjective-void/) — The gap between what one consciousness can grasp of another
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate about whether thinking has phenomenal character

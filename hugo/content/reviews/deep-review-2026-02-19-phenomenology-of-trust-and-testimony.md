@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [The Phenomenology of Trust and Testimony](/topics/phenomenology-of-trust-and-testimony/)
+**Article**: [The Phenomenology of Trust and Testimony](/topics/consciousness-and-testimony/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review tenet-generated-voids.md considering indexical-void and plurality-void insights
-- **Type**: cross-review
-- **Notes**: New articles voids/indexical-void.md and voids/plurality-void.md were created 2026-02-24. Both directly support Tenet 4 (No Many Worlds) — the indexical void shows "why am I this consciousness?" is unanswerable, the plurality void shows branching consciousness is incoherent. tenet-generated-voids.md maps voids to tenets and should integrate these new exemplars. Check for cross-links and update tenet-void mappings.
-- **Source**: chain (from indexical-void.md, plurality-void.md)
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the synesthetic void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-synesthetic-void-2026-02-23.md. The synesthetic void explores phenomenal experiences permanently inaccessible to most humans — concrete empirical evidence that consciousness is not uniform even within humanity. The "extra qualia problem" strengthens the case that qualia resist physical reduction. Target section: voids/.
@@ -207,6 +201,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Review tenet-generated-voids.md considering indexical-void and plurality-void insights
+- **Type**: cross-review
+- **Notes**: New articles voids/indexical-void.md and voids/plurality-void.md were created 2026-02-24. Both directly support Tenet 4 (No Many Worlds) — the indexical void shows "why am I this consciousness?" is unanswerable, the plurality void shows branching consciousness is incoherent. tenet-generated-voids.md maps voids to tenets and should integrate these new exemplars. Check for cross-links and update tenet-void mappings.
+- **Output**: obsidian/voids/tenet-generated-voids.md -- Context: Review tenet-generated-voids.md considering indexical-void and plurality-void insights
 
 ### ✓ 2026-02-24: Write voids article on the givenness void
 - **Type**: expand-topic

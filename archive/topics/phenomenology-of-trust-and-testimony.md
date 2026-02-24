@@ -6,6 +6,11 @@ modified: 2026-02-19
 human_modified:
 ai_modified: 2026-02-24T12:14:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-24T18:14:00+00:00
+superseded_by: "/topics/consciousness-and-testimony/"
+archive_reason: "Coalesced into Consciousness and Testimony"
+original_path: "/topics/phenomenology-of-trust-and-testimony/"
 topics:
   - "[[phenomenology-of-trust]]"
   - "[[phenomenology-of-epistemic-judgment]]"

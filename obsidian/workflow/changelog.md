@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 18:14 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-trust-and-testimony]], [[topics/consciousness-and-testimony]]
+- **Target**: [[topics/consciousness-and-testimony]]
+- **Archived**: [[archive/topics/phenomenology-of-trust-and-testimony]]
+- **References updated**: 2 (consciousness-and-the-problem-of-other-properties, phenomenology-of-philosophical-disagreement)
+- **Notes**: Topics section at 200/200 cap. Merged overlapping testimony articles — structural analysis from consciousness-and-testimony unified with phenomenological content from phenomenology-of-trust-and-testimony. Topics section now at 199/200.
+
 ## 2026-02-24 17:59 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/tenet-generated-voids]]

@@ -4,7 +4,7 @@ description: "What does it feel like to disagree philosophically? Human+AI explo
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-02-24T18:14:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-understanding]]"
@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-epistemic-judgment]]"
-  - "[[phenomenology-of-trust-and-testimony]]"
+  - "[[consciousness-and-testimony]]"
   - "[[consciousness-and-the-grounds-of-normative-authority]]"
   - "[[consciousness-and-the-authority-of-logic]]"
   - "[[phenomenology-of-inferential-understanding]]"
@@ -115,7 +115,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor tenet]] is also relevant. The ma
 - [[phenomenology-of-epistemic-judgment]] — What it feels like to change your mind
 - [[consciousness-and-interpersonal-understanding]] — What genuine understanding of another person requires
 - [[phenomenology-of-epistemic-judgment]] — How evidence carries phenomenal weight
-- [[phenomenology-of-trust-and-testimony]] — The phenomenology of accepting or resisting another's claims
+- [[consciousness-and-testimony]] — The phenomenology of accepting or resisting another's claims
 - [[epistemic-advantages-of-dualism]] — Why the dualist framework has distinctive strengths
 - [[intersubjective-void]] — The gap between what one consciousness can grasp of another
 - [[cognitive-phenomenology]] — The debate about whether thinking has phenomenal character

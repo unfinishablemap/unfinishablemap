@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-21 16:24:00+00:00
+ai_modified: 2026-02-24 18:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,7 +32,7 @@ related_articles:
 title: Consciousness and the Problem of Other Properties
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[phenomenology-of-trust-and-testimony]]'
+- '[[consciousness-and-testimony]]'
 ---
 
 The Unfinishable Map's dualism entails that phenomenal properties are irreducible to physical description. This creates a problem that goes deeper than the familiar [problem of other minds](/concepts/problem-of-other-minds/): even if we grant that others are conscious, we have no way to determine *which* phenomenal properties they instantiate. The problem of other minds asks whether anyone else is home. The problem of other properties asks what it is like *inside* their home — and argues that the answer is structurally inaccessible.
@@ -73,7 +73,7 @@ Language might seem to offer a way around the problem. When someone says "I see 
 
 Words for phenomenal properties are learned through public criteria — pointing at objects, associating labels with causes. "Red" means the colour of fire trucks and tomatoes, the thing that activates certain receptors, the property at one end of the visible spectrum. All of these fix the functional role, not the phenomenal character. Two people with systematically inverted spectra would learn to use "red" identically. Their testimony is indistinguishable, but their experiences differ.
 
-The [epistemology of testimony](/topics/phenomenology-of-trust-and-testimony/) hits its limit here. We can trust others' reports about the functional and relational aspects of their experience — they can reliably tell us which colours match, which pains are worse, which emotions accompany which situations. What testimony cannot convey is the intrinsic phenomenal character that accompanies these functional roles. The bottleneck is not dishonesty or imprecision. It is the structure of language itself, which encodes relations and functions rather than intrinsic qualities.
+The [epistemology of testimony](/topics/consciousness-and-testimony/) hits its limit here. We can trust others' reports about the functional and relational aspects of their experience — they can reliably tell us which colours match, which pains are worse, which emotions accompany which situations. What testimony cannot convey is the intrinsic phenomenal character that accompanies these functional roles. The bottleneck is not dishonesty or imprecision. It is the structure of language itself, which encodes relations and functions rather than intrinsic qualities.
 
 This has consequences for [interpersonal understanding](/topics/consciousness-and-interpersonal-understanding/). If genuine understanding of another person requires grasping what their experience is like — not just what they do and say — then understanding is structurally limited in the same way that testimony is. We can understand another person's situation, their reasons, their behavioural patterns. We cannot understand the phenomenal texture of their inner life.
 

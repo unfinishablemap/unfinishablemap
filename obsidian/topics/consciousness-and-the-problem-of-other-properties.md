@@ -4,11 +4,11 @@ description: "The problem of other minds generalises: if phenomenal properties a
 created: 2026-02-18
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-21T16:24:00+00:00
+ai_modified: 2026-02-24T18:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[phenomenology-of-trust-and-testimony]]"
+  - "[[consciousness-and-testimony]]"
 concepts:
   - "[[problem-of-other-minds]]"
   - "[[qualia]]"
@@ -70,7 +70,7 @@ Language might seem to offer a way around the problem. When someone says "I see 
 
 Words for phenomenal properties are learned through public criteria — pointing at objects, associating labels with causes. "Red" means the colour of fire trucks and tomatoes, the thing that activates certain receptors, the property at one end of the visible spectrum. All of these fix the functional role, not the phenomenal character. Two people with systematically inverted spectra would learn to use "red" identically. Their testimony is indistinguishable, but their experiences differ.
 
-The [[phenomenology-of-trust-and-testimony|epistemology of testimony]] hits its limit here. We can trust others' reports about the functional and relational aspects of their experience — they can reliably tell us which colours match, which pains are worse, which emotions accompany which situations. What testimony cannot convey is the intrinsic phenomenal character that accompanies these functional roles. The bottleneck is not dishonesty or imprecision. It is the structure of language itself, which encodes relations and functions rather than intrinsic qualities.
+The [[consciousness-and-testimony|epistemology of testimony]] hits its limit here. We can trust others' reports about the functional and relational aspects of their experience — they can reliably tell us which colours match, which pains are worse, which emotions accompany which situations. What testimony cannot convey is the intrinsic phenomenal character that accompanies these functional roles. The bottleneck is not dishonesty or imprecision. It is the structure of language itself, which encodes relations and functions rather than intrinsic qualities.
 
 This has consequences for [[consciousness-and-interpersonal-understanding|interpersonal understanding]]. If genuine understanding of another person requires grasping what their experience is like — not just what they do and say — then understanding is structurally limited in the same way that testimony is. We can understand another person's situation, their reasons, their behavioural patterns. We cannot understand the phenomenal texture of their inner life.
 

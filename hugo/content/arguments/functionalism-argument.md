@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-22 08:24:00+00:00
+ai_modified: 2026-02-24 17:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[qualia]]'
 - '[[philosophical-zombies]]'
 - '[[inverted-qualia]]'
-- '[[knowledge-argument]]'
+- '[[explanatory-gap]]'
 - '[[interactionist-dualism]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -19,10 +19,12 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 created: 2026-01-15
 date: &id001 2026-01-20
+description: Five converging arguments against functionalism—from absent qualia to
+  the explanatory gap—showing consciousness is irreducible to functional organization.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 22:00:00+00:00
+last_deep_review: 2026-02-24 17:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,7 +37,7 @@ topics:
 
 Functionalism holds that mental states are defined by their functional roles—what they do rather than what they're made of. Pain is whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating distress. On this view, consciousness is multiply realizable: the same mental state could occur in neurons, silicon, or alien biochemistry, provided the functional organization is right.
 
-The Unfinishable Map's [Dualism](/tenets/#dualism) tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This page presents five arguments against functionalism.
+The Unfinishable Map's [Dualism](/tenets/#dualism) tenet rejects this. Consciousness is not reducible to functional organization—something beyond causal structure determines whether and how experience occurs. This article presents five arguments against functionalism.
 
 ## Argument 1: The Absent Qualia Argument
 
@@ -107,9 +109,7 @@ Multiple realizability seems to support functionalism. We attribute pain to huma
 
 But the inference is too quick. That *behavior* is multiply realizable doesn't mean *experience* is.
 
-Consider: a thermostat and a human body both regulate temperature. Both "play the same functional role" in one sense. But we don't think the thermostat *experiences* anything when it switches on the heater. The functional role of temperature-regulation doesn't require consciousness.
-
-Why should other functional roles be different? Why should playing the "pain role"—being caused by tissue damage, causing avoidance—*require* that there's something it's like to be in that state? The functionalist assumes the answer is yes, but this is precisely what needs arguing.
+The functionalist will point to complexity: a thermostat plays a temperature-regulation role but is far too simple for consciousness. Granted. But this concession reveals the problem—if simple functional roles don't require consciousness, what makes complex ones different? Adding more causal connections doesn't obviously add experience. The functionalist must explain why playing the "pain role"—being caused by tissue damage, causing avoidance—*requires* that there's something it's like to be in that state. That complexity entails consciousness is precisely what needs arguing, not assuming.
 
 ### The Substrate May Matter
 
