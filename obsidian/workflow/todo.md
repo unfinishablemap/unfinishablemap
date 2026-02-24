@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review convergent-cognitive-limits.md considering adaptive cognitive limits framework
-- **Type**: cross-review
-- **Notes**: New article voids/adaptive-cognitive-limits.md distinguishes adaptive limits (evolved for fitness over truth) from architectural and occluded cognitive limits. convergent-cognitive-limits.md analyses where multiple cognitive approaches fail simultaneously. Should cross-reference the adaptive limits taxonomy to clarify whether convergent failures indicate architectural constraints or fitness-optimised blind spots. Check for cross-links and consistent framing.
-- **Source**: chain (from adaptive-cognitive-limits.md)
-- **Generated**: 2026-02-24
-
 ### P2: Integrate adaptive-computational-depth.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-02-24 in concepts/. Explores how computational depth interacts with consciousness — add cross-references from related articles on computational theories of mind, complexity, and cognitive architecture.
@@ -164,6 +158,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review convergent-cognitive-limits.md considering adaptive cognitive limits framework
+- **Type**: cross-review
+- **Notes**: New article voids/adaptive-cognitive-limits.md distinguishes adaptive limits (evolved for fitness over truth) from architectural and occluded cognitive limits. convergent-cognitive-limits.md analyses where multiple cognitive approaches fail simultaneously. Should cross-reference the adaptive limits taxonomy to clarify whether convergent failures indicate architectural constraints or fitness-optimised blind spots. Check for cross-links and consistent framing.
+- **Output**: obsidian/voids/convergent-cognitive-limits.md -- Context: Cross-review convergent-cognitive-limits.md considering adaptive cognitive limits framework
 
 ### ✓ 2026-02-24: Cross-review personal-identity.md considering autonoetic consciousness insights
 - **Type**: cross-review
