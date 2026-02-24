@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the indexical void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-indexical-void-2026-02-24.md. The indexical void explores the cognitive territory where first-person identity confronts the impossibility of occupying another's viewpoint — why this consciousness is here rather than there. Directly supports Tenet 4 (No Many Worlds) via the centrality of indexical identity. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Write concept article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and observer-dependent probability interpretations provide philosophical infrastructure for the Map's consciousness-collapse framework. Addresses how subjective probability assignments relate to quantum measurement outcomes. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the plurality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-plurality-void-2026-02-24.md. Explores the cognitive territory where singular selfhood confronts the possibility of multiple consciousness instances — the gap between "I am one" and "there could be many." Connects to unity-of-consciousness, personal-identity, and the phenomenal-unity concept. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Integrate the-silence-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-02-17 has zero inbound wikilinks from content articles. Explores the void where language fails to capture conscious experience. Should be linked from related voids articles (the-unobservable-self.md, emergence-void.md), phenomenology articles, and the voids section index.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-24
+
+### P3: Deep review nomic-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-06, never reviewed. Oldest unreviewed void — 18 days without quality assurance. The nomic void examines whether consciousness could be governed by natural laws at all. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
+### P3: Deep review evidential-weight-of-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article examining what the existence of cognitive voids tells us about the nature and limits of consciousness. As a framework-level piece, quality is especially important. Verify that the evidential arguments are sound and well-connected to specific void articles.
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
