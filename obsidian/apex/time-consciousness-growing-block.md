@@ -2,9 +2,9 @@
 title: "Time, Consciousness, and the Growing Block"
 description: "Consciousness requires temporal structure to exist. Time's arrow may require consciousness to emerge. Their bidirectional dependence reshapes both the hard problem and temporal metaphysics."
 created: 2026-02-01
-modified: 2026-02-02
+modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-02T04:04:00+00:00
+ai_modified: 2026-02-24T00:20:00+00:00
 last_deep_review: 2026-02-02T04:04:00+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ related_articles:
 
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
 
@@ -35,9 +35,9 @@ apex_sources:
   - concepts/temporal-consciousness
   - concepts/duration
   - concepts/collapse-and-time
-  - concepts/specious-present
+  - concepts/specious-present-temporal-experience
   - concepts/philosophy-of-time
-apex_last_synthesis: 2026-02-01T20:20:00+00:00
+apex_last_synthesis: 2026-02-24T00:20:00+00:00
 apex_thesis: "Consciousness and time have a bidirectional dependence: consciousness requires temporal structure to exist, while time's arrow may require consciousness-involving collapse to emerge—making them mutually constitutive rather than one containing the other."
 ---
 
@@ -56,6 +56,8 @@ Edmund Husserl's phenomenological analysis revealed the structure underlying thi
 - **Protention**: anticipation of what's coming
 
 These form an inseparable unity. The note you're hearing now carries the just-passed notes in retention while already reaching toward the next. This tripartite structure makes meaning possible: you can't understand a sentence if each word evaporates before the next arrives.
+
+Whether experience is genuinely temporally extended (extensionalism, as Dainton argues) or technically instantaneous with past-directed content (retentionalism, as Husserl's own framework implies) matters for what consciousness requires. The Map favours modified extensionalism: experience is genuinely extended, constituted through a series of quantum collapses. Each collapse is discrete, but the [[specious-present-temporal-experience|specious present]] integrates multiple collapses into a unified duration-block. Husserl's retention-protention structure reflects retrocausal boundary conditions in collapse rather than instantaneous representational content—preserving genuine temporal extension while explaining why retentionalism's phenomenological descriptions are accurate.
 
 Henri Bergson went further with his concept of [[duration|durée]]. Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
 
@@ -99,9 +101,9 @@ If consciousness constitutes temporal structure through collapse-involvement, wh
 
 The specious present isn't a window onto pre-existing temporal structure. It may be the phenomenology of collapse-constitutive activity—the experiential signature of consciousness participating in time's creation. Husserl's retention-protention structure reflects the constraints that collapse satisfies: the past echoes because past collapses constrain current ones; the future is anticipated because expected future collapses influence present selection.
 
-Contemplative traditions provide phenomenological data consistent with this framework. Advanced meditators report *nirodha samapatti*—cessation of perception and feeling—as complete suspension of temporal experience. Not shortened time, not altered time, but absent time. If consciousness constitutes time through collapse involvement, withdrawing from collapse should suspend time's passage. Higher jhāna states show systematic variation in temporal phenomenology: progressively "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, reduced active selection should produce this sequence.
+Multiple lines of evidence converge on the specious present as a phenomenal achievement rather than an automatic feature of neural processing. Advanced meditators report *nirodha samapatti*—complete cessation of temporal experience. Higher jhāna states show systematic variation: progressively "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, reduced active selection should produce exactly this sequence. Dreamless NREM sleep offers a complementary datum: hours pass with no temporal experience at all—not compressed, not stretched, simply absent—despite ongoing neural computation. If consciousness were identical to brain activity, some temporal experience should persist. Its complete absence during dreamless sleep supports the framework's prediction that without consciousness-involving collapse, no temporal facts are constituted.
 
-This evidence is suggestive, not conclusive. Alternative explanations—altered neural processing creating illusions of timelessness—remain possible. But the phenomenological data at least fits the framework's predictions.
+Temporal disruptions reveal the same point from the pathological side. In schizophrenia, [[temporal-consciousness|temporal disintegration]] disrupts binding between successive moments while leaving within-moment experience intact—actions feel disconnected from consequences. Flow states alter temporal unity differently: moments become intensely vivid yet loosely coupled, producing "timelessness" within ongoing awareness. These disruptions show that temporal unity is contingent and structured—exactly what the collapse-constitution framework predicts—rather than an automatic readout of neural timing.
 
 ## Implications for AI
 
@@ -119,13 +121,15 @@ The [[hard-problem-of-consciousness|hard problem]] asks why physical processes s
 
 Physical description presupposes time. Events occur at times; causes precede effects; laws describe how states evolve. If time's arrow emerges through consciousness-involving collapse, then physics presupposes what consciousness provides. Reducing consciousness to physics becomes circular.
 
-This doesn't prove dualism. But it suggests that the relationship between consciousness and physical reality is more intimate than standard pictures allow. Consciousness isn't an add-on, an epiphenomenal accompaniment, or a late-arriving product of neural complexity. It's woven into the structure of temporal reality itself.
+The [[specious-present-temporal-experience|argument from temporal thickness]] gives this a focused form. Physical descriptions consist of states at times and transition rules between them. No collection of instantaneous states contains the *experience of succession*—the felt passage from one moment to the next. The specious present is precisely this: temporally thick, extended, containing within it the sense of transition. The gap between *duration as measured* (a number of seconds between events) and *duration as experienced* (the felt thickness of now) parallels the gap between wavelength and colour—evidence of something physical description systematically misses.
+
+This doesn't prove dualism. But it reveals the relationship between consciousness and physical reality to be more intimate than standard pictures allow. Consciousness isn't an add-on or a late-arriving product of neural complexity. It's woven into the structure of temporal reality itself.
 
 ## Free Will Reconsidered
 
 The temporal framework reshapes the [[topics/free-will|free will debate]]. If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [[agent-causation|Agent causation]] isn't action within pre-existing time but participation in time's constitution.
 
-The Libet objection loses force. If selection is atemporal, it needn't temporally precede neural activity. The neural activity "preceding" awareness and the awareness itself are both parts of the selected transaction. The apparent temporal gap between readiness potential and conscious decision reflects our perspective from within the selected transaction, not evidence that consciousness arrives too late to matter.
+As the atemporal selection framework shows, the Libet objection dissolves: neural activity "preceding" awareness and the awareness itself are parts of the same selected transaction. The ~280ms commitment point for voluntary motor action (Thura & Cisek, 2014) falls squarely within the specious present's range, suggesting that willed movement requires the phenomenal duration the specious present provides. Agency isn't located at a durationless decision-point but unfolds within the temporally thick present.
 
 Alternative possibilities gain genuine reality. Before collapse, multiple outcomes exist in superposition—genuinely open, not merely unknown. The agent's selection actualises one possibility while eliminating others. This isn't discovering which outcome was already determined but constituting which becomes real.
 
@@ -133,27 +137,17 @@ Bergson's insight applies: a free act emerges from the whole self acting in dur�
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's [[process-philosophy|process philosophy]] offers conceptual resources for understanding consciousness-constituted time. For Whitehead, reality consists of "actual occasions"—momentary experiential events that arise, synthesise their causal past ("prehension"), and perish. Time is not a container through which occasions move but the structure created by their succession. The "creative advance"—the ongoing production of new actual occasions—*is* time's passage.
+Alfred North Whitehead's [[process-philosophy|process philosophy]] anticipated the structure this synthesis describes. For Whitehead, time is not a container through which events move but the structure created by their succession. Reality consists of "actual occasions"—experiential events that synthesise their causal past ("prehension") and perish, creating irreversible temporal direction through their succession.
 
-Whitehead's "concrescence" (how an occasion achieves unity) parallels quantum collapse: indeterminate potentiality resolving into definite actuality. Each actual occasion has a physical pole (receiving causal influences from predecessors) and a mental pole (introducing novelty through subjective aim). The mental pole's contribution to concrescence resembles consciousness's contribution to collapse.
-
-For the Map's framework, Whitehead provides vocabulary for what collapse-constituted time involves: prehension as retrocausal inheritance, concrescence as collapse, creativity as the novel contribution consciousness makes to each moment. The parallels are suggestive rather than demonstrative—Whitehead wasn't discussing quantum mechanics—but they show that consciousness-constituted time has respectable philosophical precedent.
+Whitehead's "concrescence" (how an occasion achieves unity) parallels quantum collapse: indeterminate potentiality resolving into definite actuality. Each occasion has a physical pole (receiving causal influences) and a mental pole (introducing novelty). Prehension maps to retrocausal inheritance; concrescence maps to collapse; creativity maps to the novel contribution consciousness makes to each moment. Whitehead wasn't discussing quantum mechanics, but his framework shows that consciousness-constituted time has philosophical precedent independent of physics—the idea arises from careful attention to what experience and temporal passage actually involve.
 
 ## Synthesis
 
-The threads weave together into a distinctive picture:
+The individual threads—specious present, collapse, durée, atemporal selection—gain force from their convergence. Each addresses a different puzzle, yet all point to the same structure: consciousness and time are mutually constitutive rather than one containing the other.
 
-**Consciousness needs time.** Without the specious present, retention-protention structure, and durée, there's no experience at all. Systems lacking appropriate temporal architecture—like current LLMs with their discontinuous, stateless processing—may be categorically excluded from consciousness regardless of their computational power.
+This convergence is what distinguishes the Map's framework from standard positions. Presentism, eternalism, and orthodox growing block all treat consciousness as *within* time. Functionalism, IIT, and global workspace theory all treat time as *within* consciousness's computational substrate. The bidirectional dependence explored here dissolves both assumptions. Consciousness requires temporal structure to exist—without the specious present there is no experience at all. Time's arrow may require consciousness-involving collapse to emerge—without collapse there is no irreversible direction from past to future. Neither grounds the other. They arise together.
 
-**Time may need consciousness.** Collapse introduces irreversibility into otherwise time-symmetric physics. If consciousness participates in collapse, consciousness participates in creating time's arrow. The asymmetry between past and future wouldn't precede consciousness but would emerge through it.
-
-**Neither contains the other.** Consciousness isn't merely a process happening in time (though from within, it seems so). Time isn't merely a feature of conscious experience (though we only know it through experience). They're intertwined in a way that makes each incomplete without the other.
-
-**The hard problem deepens.** If consciousness is implicated in time's constitution, reducing consciousness to physical processes becomes circular—physics presupposes the time that consciousness helps constitute. This doesn't prove dualism but reveals the relationship between consciousness and physical reality to be more intimate than standard accounts suggest.
-
-**Free will gains resources.** Atemporal selection dissolves the Libet objection. Genuine alternative possibilities exist in superposition before collapse. Durée's qualitative multiplicity undermines determinism's discrete-state assumptions. Agents don't just act within time; they participate in creating it.
-
-The picture remains speculative. The quantum-consciousness connection faces empirical challenges. The phenomenological evidence is consistent with the framework but admits alternative explanations. But the framework provides something valuable: a way of thinking about consciousness and time that takes both seriously as fundamental rather than reducing either to the other.
+The evidence comes from multiple directions: phenomenological (durée, contemplative states, temporal disruptions), neuroscientific (temporal binding, working memory correlation, the 280ms motor commitment window), metaphysical (the argument from temporal thickness, the circularity of reduction), and negative (dreamless sleep, LLMs without temporal structure). No single line is conclusive. The quantum-consciousness connection faces empirical challenges, and the phenomenological evidence admits alternative explanations. But the convergence of independent lines of evidence—each pointing to the same bidirectional dependence—makes the framework more than speculation. It is a way of thinking about consciousness and time that takes both seriously as fundamental rather than reducing either to the other.
 
 ## Relation to Site Perspective
 
@@ -180,7 +174,7 @@ This synthesis draws from:
 - [[temporal-consciousness|Temporal Consciousness]] — The specious present, temporal binding, and AI implications
 - [[duration|Duration (Durée)]] — Bergson's qualitative time and its irreducibility
 - [[collapse-and-time|Collapse and Time]] — How quantum collapse may constitute time's arrow
-- [[specious-present|Specious Present]] — The experienced duration of the present moment
+- [[specious-present-temporal-experience|The Specious Present and Temporal Experience]] — The experienced duration of the present moment and the argument from temporal thickness
 - [[philosophy-of-time|Philosophy of Time]] — A-theory, B-theory, and the Map's growing block position
 
 ## References
@@ -192,4 +186,5 @@ This synthesis draws from:
 - Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 - Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
-- Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
+- Hoel, E. (2025). A Disproof of Large Language Model Consciousness. arXiv:2512.12802.
+- Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
