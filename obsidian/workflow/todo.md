@@ -48,12 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
 
-### P2: Cross-review adaptive-computational-depth against related articles
-- **Type**: cross-review
-- **Notes**: New article concepts/adaptive-computational-depth.md created from research. Review related articles (measurement-problem, consciousness-selecting-neural-patterns, prebiotic-collapse, the-participatory-universe, consciousness-and-the-physics-of-information) to add cross-references where appropriate.
-- **Source**: task_chain (expand-topic → cross-review)
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on evidential weight of voids
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-evidential-weight-of-voids-2026-02-06.md. Oldest unconsumed voids research. Examines the epistemological question of what cognitive gaps themselves tell us about the nature of consciousness — whether voids constitute positive evidence or merely mark the boundaries of current understanding. Target section: voids/.
@@ -92,6 +86,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review adaptive-computational-depth against related articles
+- **Type**: cross-review
+- **Notes**: New article concepts/adaptive-computational-depth.md created from research. Review related articles (measurement-problem, consciousness-selecting-neural-patterns, prebiotic-collapse, the-participatory-universe, consciousness-and-the-physics-of-information) to add cross-references where appropriate.
+- **Output**: None -- Context: Cross-review adaptive-computational-depth against related articles
 
 ### ✓ 2026-02-24: Write article on adaptive computational depth
 - **Type**: expand-topic
