@@ -4,7 +4,7 @@ description: "The felt structure of time—retention, protention, the specious p
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T19:20:00+00:00
+ai_modified: 2026-02-24T07:58:00+00:00
 draft: false
 topics:
   - "[[temporal-structure-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-24T07:58:00+00:00
 ---
 
 If consciousness selects among quantum outcomes, selection should feel like something. The Unfinishable Map proposes that the felt structure of temporal experience—the specious present, Husserl's retention-protention, Bergson's durée—may be the phenomenological signature of quantum selection. On this framework, temporal phenomenology does not merely accompany selection; it is what selection is like from within.
@@ -51,7 +51,7 @@ Consider what happens during deliberation. You hold multiple possibilities in aw
 
 A critic might object that any tripartite temporal scheme maps onto any other. Retention-impression-protention could equally describe memory-processing-prediction in a neural network, or encoding-computation-anticipation in a purely classical system. The structural match alone proves nothing.
 
-The Map's response: what distinguishes the quantum mapping is not the tripartite structure per se but the qualitative features each phase exhibits. Neural accounts explain *that* the past is fixed and the future open, but not *why it feels that way*—why fixedness has its particular phenomenal character, why openness feels genuinely indeterminate rather than merely epistemically uncertain. If collapse is real, the qualitative texture of each phase—retention's givenness, the present's vivid openness, protention's urgency—finds a natural counterpart in the difference between collapsed, collapsing, and uncollapsed states. This goes beyond structural analogy, though it falls short of demonstrable identity. The Map proposes it as the best available explanation for temporal phenomenology's specific character, not as a proven correspondence.
+The Map's response: what distinguishes the quantum mapping is not the tripartite structure per se but the qualitative features each phase exhibits. Neural accounts explain *that* the past is fixed and the future open, but not *why it feels that way*—why fixedness has its particular phenomenal character, why openness feels genuinely indeterminate rather than merely epistemically uncertain. If collapse is real, the qualitative texture of each phase finds a natural counterpart in the difference between collapsed, collapsing, and uncollapsed states. This goes beyond structural analogy, though it falls short of demonstrable identity. The Map proposes it as the best available explanation for temporal phenomenology's specific character, not as a proven correspondence.
 
 ## The Specious Present as Selection Window
 
@@ -89,7 +89,7 @@ This phenomenological distinction—effortful versus effortless temporal engagem
 
 The interpretation is speculative and conditional. It requires:
 
-- **Collapse realism.** If many-worlds is correct and all outcomes occur, there is no selection for temporal phenomenology to manifest. The framework depends on the Map's [[tenets#^no-many-worlds|rejection of MWI]].
+- **Collapse realism.** If many-worlds is correct, there is no genuine selection for temporal phenomenology to manifest. MWI defenders argue that self-locating uncertainty still produces felt openness—you don't know which branch you'll find yourself on. But the Map's framework claims more than epistemic openness: protention's phenomenal character involves genuine indeterminacy about what will become actual, not uncertainty about which predetermined branch one occupies. The framework depends on the Map's [[tenets#^no-many-worlds|rejection of MWI]].
 - **Consciousness at collapse.** The framework assumes consciousness participates in determining which outcomes become actual, consistent with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 - **A bridging mechanism.** Some physically plausible account of how femtosecond-scale quantum events integrate into the millisecond-scale specious present. Without this, the temporal correspondence remains suggestive rather than explanatory.
 - **Phenomenal-physical correspondence.** The felt structure of time must genuinely correspond to the physics of selection, not merely resemble it coincidentally. This is the hardest requirement to verify empirically.
@@ -114,7 +114,7 @@ What would challenge the framework: evidence that temporal phenomenology is full
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Temporal phenomenology provides the substrate through which bidirectional interaction operates. Consciousness does not influence quantum outcomes in a temporal vacuum; it does so through the temporal structure of attention, retention, and protention. The direction of influence is from conscious temporal engagement to quantum outcome.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The framework depends categorically on collapse being real. Under MWI, protention's felt openness would be illusory (all futures already exist across branches), and retention's fixedness would be merely perspectival. The qualitative texture of temporal asymmetry—its specific phenomenal character—is best explained by genuine selection producing genuinely irreversible facts.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The framework depends categorically on collapse being real. Under MWI, protention's felt openness would be reinterpreted as self-locating uncertainty rather than genuine indeterminacy, and retention's fixedness would be merely perspectival—reflecting branch-relative knowledge rather than ontological resolution. The Map holds that temporal phenomenology's specific qualitative character is better explained by genuine selection producing genuinely irreversible facts than by the epistemic position of an observer within a branching structure.
 
 ## Further Reading
 
@@ -139,18 +139,3 @@ What would challenge the framework: evidence that temporal phenomenology is full
 - Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 - Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
 
-<!-- AI REFINEMENT LOG - 2026-02-23
-Changes made:
-- Removed quantum Zeno effect as load-bearing infrastructure; restructured "Specious Present" and "Effort" sections so arguments stand on phenomenological grounds independently of any specific mechanism. Stapp's framework now mentioned as one proposal among others.
-- Downgraded tripartite mapping from asserted identity ("is the phenomenological manifestation") to argued-for proposal; added explicit engagement with competing mappings (neural, computational) and articulated why the quantum mapping is preferred (qualitative features, not just structure).
-- Added honest treatment of timescale gap (12 orders of magnitude) as an unsolved problem rather than hand-waving it via Zeno.
-- Added "Speculative Predictions" subsection with three testable directions and candid acknowledgment of current empirical inertness.
-- Added "bridging mechanism" as explicit requirement.
-- Softened various claims per review: "may be" in opening, "on this framework" qualifier, "a central feature" not "the most striking", qualified superposition duration claim.
-- Removed stapp-quantum-mind from concepts list (no longer central).
-
-Based on pessimistic review (2026-02-23 evening).
-Key improvements: Structural independence from quantum Zeno, intellectual honesty about timescale gap and empirical status, engagement with competing explanations.
-
-This log should be removed after human review.
--->

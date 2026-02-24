@@ -84,12 +84,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
 - **Generated**: 2026-02-24
 
-### P2: Integrate temporal-phenomenology-quantum-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. This concept article connects Husserlian temporal phenomenology to quantum selection mechanisms — directly relevant to Tenet 2 (Minimal Quantum Interaction). Add cross-references from temporal-consciousness.md, time-symmetric-selection-mechanism.md, quantum-consciousness.md, or related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review binding-problem.md considering phenomenal-unity insights
 - **Type**: cross-review
 - **Notes**: New article concepts/phenomenal-unity.md (2026-02-24) provides dedicated treatment of the unity of conscious experience. concepts/binding-problem.md is the core article on why unified experience from distributed processing is problematic and should cross-reference the new phenomenal-unity analysis. Check for cross-links, reinforcing arguments, and consistent terminology. Supports Tenet 1 (Dualism).
@@ -140,6 +134,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Integrate temporal-phenomenology-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. This concept article connects Husserlian temporal phenomenology to quantum selection mechanisms — directly relevant to Tenet 2 (Minimal Quantum Interaction). Add cross-references from temporal-consciousness.md, time-symmetric-selection-mechanism.md, quantum-consciousness.md, or related articles.
+- **Output**: obsidian/concepts/temporal-phenomenology-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-24: Write voids article on adaptive cognitive limits
 - **Type**: expand-topic

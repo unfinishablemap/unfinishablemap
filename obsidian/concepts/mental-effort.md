@@ -134,7 +134,7 @@ Advanced meditators report "effortless awareness"—stable attention without the
 
 The resolution involves two modes of consciousness (see [[meditation-and-consciousness-modes]]):
 
-**Active selection**: Consciousness engages through attention, applying the quantum Zeno mechanism. This feels effortful because it *is* continuous engagement.
+**Active selection**: Consciousness engages through attention, applying the quantum Zeno mechanism. This feels effortful because it *is* continuous engagement. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] proposes that effort's phenomenal character reflects consciousness working to bias quantum outcomes against the system's spontaneous tendencies.
 
 **Passive witnessing**: Consciousness observes without selecting. Neural patterns evolve according to their natural dynamics. This feels effortless because observation without selection requires less engagement.
 
