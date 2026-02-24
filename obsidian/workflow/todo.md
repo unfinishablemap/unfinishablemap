@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the void as ground of meaning
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-void-as-ground-of-meaning-2026-02-09.md. Second-oldest unconsumed voids research (15 days). Explores the paradox that cognitive limits are not merely obstacles but may be constitutive of meaning — consciousness requires boundaries to generate significance. Connects to the Map's treatment of why voids matter and supports Tenet 5 (Occam's Razor Has Limits) by showing that simplicity-seeking breaks down where meaning requires irreducible complexity. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Write voids article on the appetitive void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-appetitive-void-2026-02-10.md. Third-oldest unconsumed voids research (14 days). Explores the cognitive territory where desire and wanting resist transparent self-knowledge — we can feel the pull of appetite without understanding what we truly want. Connects to emotional consciousness, introspective opacity, and the Map's treatment of phenomenal access. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -206,6 +194,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the void as ground of meaning
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-void-as-ground-of-meaning-2026-02-09.md. Second-oldest unconsumed voids research (15 days). Explores the paradox that cognitive limits are not merely obstacles but may be constitutive of meaning — consciousness requires boundaries to generate significance. Connects to the Map's treatment of why voids matter and supports Tenet 5 (Occam's Razor Has Limits) by showing that simplicity-seeking breaks down where meaning requires irreducible complexity. Target section: voids/.
+- **Output**: Write voids article on the void as ground of meaning
 
 ### ✓ 2026-02-24: Write voids article on compound cognitive limits
 - **Type**: expand-topic
