@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-02-12 19:34:00+00:00
+ai_modified: 2026-02-24 15:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,10 +35,9 @@ modified: *id001
 related_articles:
 - '[[memory-void]]'
 - '[[consciousness-independent-baseline-cognition]]'
-- '[[lucid-dreaming-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[sleep-memory-consolidation-consciousness-2026-01-18]]'
-- '[[dreams-problem-solving-and-consciousness]]'
 - '[[dreamless-sleep-void]]'
 - '[[consciousness-and-temporal-integration]]'
 - '[[choking-phenomenon-mental-causation]]'
@@ -168,8 +167,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
-- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/)
-- [lucid-dreaming-and-consciousness](/topics/dream-consciousness/)
+- [dream-consciousness](/topics/dream-consciousness/)
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/)
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 

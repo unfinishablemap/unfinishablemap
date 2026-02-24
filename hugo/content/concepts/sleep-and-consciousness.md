@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-01 13:55:00+00:00
+ai_modified: 2026-02-24 15:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,7 +31,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[sleep-memory-consolidation-consciousness-2026-01-18]]'
-- '[[lucid-dreaming-and-consciousness]]'
+- '[[dream-consciousness]]'
 title: Sleep and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -164,7 +164,7 @@ The Map's interpretation would face difficulty if:
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and how sleep evidence bears on it
 - [introspection](/concepts/introspection/) — First-person access and its reliability across states
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that may persist through sleep yoga
-- [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Lucid dreaming as a distinct consciousness state
+- [dream-consciousness](/topics/dream-consciousness/) — Lucid dreaming, problem-solving, and the filter model applied to dreams
 - [decoherence](/concepts/decoherence/) — Quantum Zeno mechanism and sleep state transitions
 - [haecceity](/concepts/haecceity/) — Indexical identity through the sleep-wake gap
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Sleep within the broader taxonomy of ASCs

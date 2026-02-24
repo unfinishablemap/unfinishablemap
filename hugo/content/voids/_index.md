@@ -90,6 +90,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Temporal Consciousness Void](/voids/temporal-consciousness-void/) — Why consciousness is confined to a moving present
 - [The Duration Void](/voids/duration-void/) — Why lived time and measured time cannot be simultaneously inhabited
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
+- [The Observation Void](/voids/observation-void/) — Every method of studying consciousness transforms what it studies
 
 ### Phenomenology of Limits
 

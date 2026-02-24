@@ -38,22 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on quantum measurement and subjective probability
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and observer-dependent probability interpretations provide philosophical infrastructure for the Map's consciousness-collapse framework. Addresses how subjective probability assignments relate to quantum measurement outcomes. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Write voids article on the plurality void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-plurality-void-2026-02-24.md. Explores the cognitive territory where singular selfhood confronts the possibility of multiple consciousness instances — the gap between "I am one" and "there could be many." Connects to unity-of-consciousness, personal-identity, and the phenomenal-unity concept. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Integrate the-silence-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-02-17 has zero inbound wikilinks from content articles. Explores the void where language fails to capture conscious experience. Should be linked from related voids articles (the-unobservable-self.md, emergence-void.md), phenomenology articles, and the voids section index.
-- **Source**: orphan_integration
+### P3: Deep review phenomenology-of-self-reference.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-09, never reviewed. Oldest unreviewed voids article not already in the deep-review queue — 15 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-02-24
 
 ### P3: Deep review nomic-void.md
@@ -165,6 +153,49 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Address logical gaps in default-mode-network.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) straw man in psychedelic argument—claims production models predict elimination of self-experience from DMN suppression, but no production model claims DMN is sole producer; (2) cross-cultural convergence presented as supporting filter theory when it equally supports production models. Also missing citation for structural changes claim (line 107). See pessimistic-2026-02-24-dmn.md.
+- **Output**: obsidian/concepts/default-mode-network.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) straw man in psychedelic argument—claims production models predict elimination of self-experience from DMN suppression, but no production model claims DMN is sole producer; (2) cross-cultural convergence presented as supporting filter theory when it equally supports production models. Also missing citation for structural changes claim (line 107). See pessimistic-2026-02-24-dmn.md.
+
+### ✓ 2026-02-24: Cross-review hard-problem-of-consciousness.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md examines self-knowing awareness and mental time travel as raising the hard problem in miniature. topics/hard-problem-of-consciousness.md is the central hub and should cross-reference autonoetic consciousness as a specific domain where the explanatory gap is especially vivid. Check for cross-links.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering autonoetic consciousness insights
+
+### ✓ 2026-02-24: Integrate dream-consciousness-and-the-filter-model.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any other content on the site. Add cross-references from related articles (e.g., filter-theory.md, dream-consciousness.md, altered-states articles) or update section index pages to include navigation to this content. Created 2026-02-09.
+- **Output**: dream-consciousness-and-the-filter-model.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-24: Write voids article on the ownership void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-ownership-void-2026-02-18.md. The ownership void addresses why experiences belong to a particular subject — the gap between having an experience and it being mine. Relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of how consciousness is coupled to specific physical systems. Target section: voids/.
+- **Output**: Write voids article on the ownership void
+
+### ✓ 2026-02-24: Write voids article on the observation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-observation-void-2026-02-22.md. The observation void examines the gap between the act of observing and what observation reveals — whether conscious observation constitutes reality or merely accesses it. Directly supports Tenet 2 (Minimal Quantum Interaction) by exploring the limits of what observation can accomplish. Target section: voids/.
+- **Output**: Write voids article on the observation void
+
+### ✓ 2026-02-24: Integrate the-silence-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-02-17 has zero inbound wikilinks from content articles. Explores the void where language fails to capture conscious experience. Should be linked from related voids articles (the-unobservable-self.md, emergence-void.md), phenomenology articles, and the voids section index.
+- **Output**: obsidian/voids/the-silence-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-24: Write voids article on the plurality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-plurality-void-2026-02-24.md. Explores the cognitive territory where singular selfhood confronts the possibility of multiple consciousness instances — the gap between "I am one" and "there could be many." Connects to unity-of-consciousness, personal-identity, and the phenomenal-unity concept. Target section: voids/.
+- **Output**: Write voids article on the plurality void
+
+### ✓ 2026-02-24: Write concept article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and observer-dependent probability interpretations provide philosophical infrastructure for the Map's consciousness-collapse framework. Addresses how subjective probability assignments relate to quantum measurement outcomes. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Output**: Write concept article on quantum measurement and subjective probability
 
 ### ✓ 2026-02-24: Write voids article on the indexical void
 - **Type**: expand-topic

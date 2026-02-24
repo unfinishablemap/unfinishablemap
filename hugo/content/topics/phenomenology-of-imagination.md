@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-18 17:47:00+00:00
+ai_modified: 2026-02-24 15:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -38,7 +38,7 @@ related_articles:
 - '[[distinctiveness-of-human-creativity]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[dream-consciousness-and-the-filter-model]]'
+- '[[dream-consciousness]]'
 - '[[phenomenology-of-moral-experience]]'
 - '[[creativity-void]]'
 title: The Phenomenology of Imagination
@@ -119,7 +119,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Imagination in artistic creation
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — Why human imagination differs from computational generation
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt quality of grasping meaning
-- [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/) — Dreams as involuntary imagination
+- [dream-consciousness](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Moral imagination and the felt quality of ethical perception
 - [creativity-void](/voids/creativity-void/) — The opacity of consciousness's generative processes
 

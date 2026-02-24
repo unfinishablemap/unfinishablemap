@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-06 08:18:00+00:00
+ai_modified: 2026-02-24 15:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,8 +33,7 @@ last_deep_review: 2026-02-06 08:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[lucid-dreaming-and-consciousness]]'
-- '[[dreams-problem-solving-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[consciousness-dreams-2026-01-14]]'
 - '[[dreams-lucid-dreaming-consciousness-2026-01-18]]'
 title: Dreams and Consciousness
@@ -67,7 +66,7 @@ Dreams provide unique evidence about consciousness-brain relationships:
 
 **Dreams transcend physical laws**: Yet we fly, teleport, and violate causality without puzzlement. The brain's physics engine doesn't constrain dreams as it constrains waking perception, suggesting consciousness can construct experiential worlds using but not bound by neural processing.
 
-**Problem-solving capacity**: Dreams actively solve problems that defeat waking cognition. Konkoly et al. (2026) demonstrated that when puzzle-associated soundtracks were played during REM, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles. Dreamers generated novel approaches—not mere replay of waking attempts. This supports the view that dream consciousness performs genuine cognitive work, not passive accompaniment of unconscious processing. For extended treatment, see [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/).
+**Problem-solving capacity**: Dreams actively solve problems that defeat waking cognition. Konkoly et al. (2026) demonstrated that when puzzle-associated soundtracks were played during REM, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles. Dreamers generated novel approaches—not mere replay of waking attempts. This supports the view that dream consciousness performs genuine cognitive work, not passive accompaniment of unconscious processing. For extended treatment, see [dream problem-solving research](/topics/dream-consciousness/).
 
 **Dissociation of consciousness components**: Dreams heighten some aspects (vivid percepts, strong emotions, narrative immersion) while suppressing others (critical judgment, metacognition, temporal orientation). This dissociation suggests consciousness has separable components. Lucid dreaming reactivates suppressed components—prefrontal cortex comes back online—while preserving immersion.
 
@@ -118,7 +117,7 @@ The regress problem intensifies: if dreams involve quasi-phenomenal states that 
 
 Consider a [zombie](/concepts/philosophical-zombies/) dreamer: functionally identical but with no phenomenal experience. If illusionism is correct, such zombies are possible—nothing phenomenal occurs during human dreams either. But the verified functional profile (temporal extension, emotional engagement, problem-solving) makes the additional claim that "nothing is really experienced" explanatorily empty.
 
-Type-B physicalists offer a different response, accepting the explanatory gap while denying it reflects an ontological gap. For a fuller engagement with Type-B physicalism and the phenomenal concepts strategy, see [the discussion in the lucid dreaming article](/topics/dream-consciousness/#type-b-physicalism-and-the-lucidity-transition).
+Type-B physicalists offer a different response, accepting the explanatory gap while denying it reflects an ontological gap. For a fuller engagement with Type-B physicalism and the phenomenal concepts strategy, see [the discussion in the dream consciousness article](/topics/dream-consciousness/#challenges-illusionism-and-epiphenomenalism).
 
 ## Relation to Site Perspective
 
@@ -148,8 +147,7 @@ The filter theory interpretation would face difficulties if:
 
 ## Further Reading
 
-- [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Lucid dreaming as distinct consciousness state
-- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Dream problem-solving as evidence for consciousness's causal efficacy
+- [dream-consciousness](/topics/dream-consciousness/) — Lucid dreaming, problem-solving, and the filter model applied to dreams
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness gradations during sleep
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — The bidirectional void: waking cannot access dreaming, dreaming cannot access waking
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis for dream states

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-22 09:58:00+00:00
+ai_modified: 2026-02-24 15:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -38,7 +38,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[creativity-consciousness-and-novel-thought]]'
-- '[[dreams-problem-solving-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[motor-control-quantum-zeno]]'
 title: Free Will and Determinism
 topics:
@@ -236,7 +236,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [decoherence](/concepts/decoherence/) — The decoherence objection and biological quantum effects
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates and selects possibilities
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables novel combination
-- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Dream evidence for consciousness's causal role in problem-solving
+- [dream-consciousness](/topics/dream-consciousness/) — Dream evidence for consciousness's causal role in problem-solving
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [existentialism](/concepts/existentialism/) — How Sartre's pour-soi illuminates agent causation

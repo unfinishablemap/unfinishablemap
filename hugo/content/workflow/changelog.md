@@ -18,6 +18,93 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 16:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [default-mode-network](/concepts/default-mode-network/)
+- **Changes**: Fixed straw man in psychedelic argument (HIGH), fixed cross-cultural convergence claim (HIGH), fixed bidirectional interaction begging the question (MEDIUM), added missing Fox et al. 2014 citation (MEDIUM), language improvements
+- **Published**: yes
+
+## 2026-02-24 16:27 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3135 → 3143 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing autonoetic consciousness cross-link)
+- **Enhancements made**: 5 (autonoetic consciousness paragraph, tightened illusionism, tightened explanatory gap opening, removed redundant C. elegans transition, removed redundant binding problem sentence)
+- **Output**: [deep-review-2026-02-24-hard-problem-of-consciousness](/reviews/deep-review-2026-02-24-hard-problem-of-consciousness/)
+
+## 2026-02-24 16:12 UTC - deep-review
+- **Status**: Success
+- **File**: [autonoetic-consciousness](/concepts/autonoetic-consciousness/)
+- **Word count**: 1484 → 1810 (+326)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (dropped qualifier, source/Map conflation, missing functionalist reply, vulnerable MWI argument, unexplained remember/know paradigm)
+- **Enhancements made**: 4 (What Would Challenge section, functionalist objection+response, refined MWI argument, 3 new cross-links)
+- **Output**: [deep-review-2026-02-24-autonoetic-consciousness](/reviews/deep-review-2026-02-24-autonoetic-consciousness/)
+
+## 2026-02-24 15:57 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 2953 → 2979 (+26)
+- **Critical issues addressed**: 0 (article stable from previous review)
+- **Medium issues addressed**: 3 (missing citation, broken slug references, stale hugo files)
+- **Enhancements made**: 22 cross-reference fixes across 10 files, 3 stale hugo files removed
+- **Context**: Redirected from archived dream-consciousness-and-the-filter-model.md to living coalesced article
+- **Output**: [deep-review-2026-02-24-dream-consciousness](/reviews/deep-review-2026-02-24-dream-consciousness/)
+
+## 2026-02-24 15:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Ownership Void
+- **Output**: [ownership-void](/voids/ownership-void/)
+- **Word count**: 1513
+- **Based on research**: yes, [voids-ownership-void-2026-02-18](/research/voids-ownership-void-2026-02-18/)
+
+## 2026-02-24 15:27 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/default-mode-network.md
+- **Output**: [pessimistic-2026-02-24-dmn](/reviews/pessimistic-2026-02-24-dmn/)
+- **Issues found**: 2 high-severity (straw man in psychedelic argument, symmetric evidence presented asymmetrically), 3 medium-severity (question-begging on bidirectional interaction, missing citation, excess background), 1 low-severity (style guide novelty violation)
+- **Task added**: P2 refine-draft for default-mode-network.md
+
+## 2026-02-24 15:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Observation Void
+- **Output**: [observation-void](/voids/observation-void/)
+- **Word count**: 1550
+- **Based on research**: yes — [voids-observation-void-2026-02-22](/research/voids-observation-void-2026-02-22/)
+
+## 2026-02-24 14:57 UTC - deep-review
+- **Status**: Success
+- **File**: [the-silence-void](/voids/the-silence-void/)
+- **Word count**: 1483 → 1941 (+458)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 8 (including 8 inbound cross-references for orphan integration)
+- **Output**: [deep-review-2026-02-24-the-silence-void](/reviews/deep-review-2026-02-24-the-silence-void/)
+
+## 2026-02-24 14:42 UTC - deep-review
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Word count**: 1771 → 1816 (+45)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-24-zombie-master-argument](/reviews/deep-review-2026-02-24-zombie-master-argument/)
+
+## 2026-02-24 14:27 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Plurality Void
+- **Output**: [plurality-void](/voids/plurality-void/)
+- **Word count**: 1517
+- **Based on research**: yes, [voids-plurality-void-2026-02-24](/research/voids-plurality-void-2026-02-24/)
+
+## 2026-02-24 14:12 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: Quantum measurement and subjective probability
+- **Output**: No new article created
+- **Reason**: Topic comprehensively covered by 4 existing articles: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) (topic), [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) (concept, coalesced from 2 earlier articles), [qbism](/concepts/qbism/) (concept), [measurement-problem](/concepts/measurement-problem/) (concept). All 3 research-suggested angles already implemented. Concepts section at 198/200 capacity.
+- **Based on research**: yes, [quantum-measurement-subjective-probability-2026-01-23](/research/quantum-measurement-subjective-probability-2026-01-23/)
+
 ## 2026-02-24 13:54 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Indexical Void

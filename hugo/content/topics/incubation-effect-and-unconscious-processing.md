@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-13 00:34:00+00:00
+ai_modified: 2026-02-24 15:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[creativity-consciousness-and-novel-thought]]'
-- '[[dreams-problem-solving-and-consciousness]]'
+- '[[dream-consciousness]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -133,7 +133,7 @@ The Map's interpretation of incubation would face difficulty if:
 
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence that consciousness enables functions unconscious processing cannot achieve
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The creative loop integrating generation and selection
-- [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Dream incubation and the sleep-wake creative cycle
+- [dream-consciousness](/topics/dream-consciousness/) — Dream incubation and the sleep-wake creative cycle
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [mental-effort](/concepts/mental-effort/) — Why conscious engagement feels like work
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface

@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the surplus void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-surplus-void-2026-02-23.md. The surplus void explores why phenomenal richness exceeds evolutionary necessity — Wallace's "surplusage of power" argument updated with modern zombie arguments. Directly supports Tenet 1 (Dualism) by showing consciousness contains more than physical processes can account for. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the givenness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-givenness-void-2026-02-22.md. The givenness void examines how consciousness cannot investigate its own presentational structure — the most foundational void. Covers Husserl, Sellars, Heidegger, Marion. Directly supports Tenet 5 (Occam's Razor Has Limits) by showing simplicity fails where consciousness confronts its own ground. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Review tenet-generated-voids.md considering indexical-void and plurality-void insights
+- **Type**: cross-review
+- **Notes**: New articles voids/indexical-void.md and voids/plurality-void.md were created 2026-02-24. Both directly support Tenet 4 (No Many Worlds) — the indexical void shows "why am I this consciousness?" is unanswerable, the plurality void shows branching consciousness is incoherent. tenet-generated-voids.md maps voids to tenets and should integrate these new exemplars. Check for cross-links and update tenet-void mappings.
+- **Source**: chain (from indexical-void.md, plurality-void.md)
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the synesthetic void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-synesthetic-void-2026-02-23.md. The synesthetic void explores phenomenal experiences permanently inaccessible to most humans — concrete empirical evidence that consciousness is not uniform even within humanity. The "extra qualia problem" strengthens the case that qualia resist physical reduction. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Review three-kinds-of-void.md considering new void articles
+- **Type**: cross-review
+- **Notes**: Five new void articles created 2026-02-24 (transparency-void, indexical-void, plurality-void, observation-void, ownership-void). three-kinds-of-void.md provides the void taxonomy and should categorize these new entries. Check which kind each new void belongs to, add cross-links, and verify the taxonomy still covers all cases.
+- **Source**: chain (from transparency-void.md, indexical-void.md, plurality-void.md, observation-void.md, ownership-void.md)
+- **Generated**: 2026-02-24
+
+### P3: Deep review valence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
+### P3: Deep review framework-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-20, never reviewed. The framework void examines whether consciousness can be captured in any theoretical framework. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
 ### P3: Deep review phenomenology-of-self-reference.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-09, never reviewed. Oldest unreviewed voids article not already in the deep-review queue — 15 days without quality assurance. Verify coherence, cross-references, and tenet alignment.

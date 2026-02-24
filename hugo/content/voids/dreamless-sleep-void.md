@@ -77,7 +77,7 @@ Recent phenomenological research has begun documenting experiences at the edge o
 
 Gamma and Metzinger's 2022 study investigated "objectless awareness" during sleep. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterized by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—the presence of non-modal sensations, relatively pleasant emotions, an absence of visual experience." A separate micro-phenomenological study (Alcaraz et al., 2021) documented similar "awareness in the void" reports. These findings converge with what the Vedantic tradition predicts.
 
-Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [altered-state void probe](/voids/altered-states-as-void-probes/). EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests. For the neuroscience of how consciousness operates in gradations across [sleep stages](/concepts/sleep-and-consciousness/), see the dedicated article.
+Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [altered-state void probe](/voids/altered-states-as-void-probes/). The [silence void](/voids/the-silence-void/) explores the inverse: voluntary cessation through contemplative practice, where the practitioner deliberately releases cognitive activity rather than maintaining it through a transition. EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests. For the neuroscience of how consciousness operates in gradations across [sleep stages](/concepts/sleep-and-consciousness/), see the dedicated article.
 
 ## The Structure of the Void
 
@@ -143,6 +143,7 @@ None of these conditions has been met. The dreamless sleep void remains: a gap w
 - [witness-consciousness](/concepts/witness-consciousness/) — The Vedantic concept of awareness that observes without identifying
 - [personal-identity](/topics/personal-identity/) — What grounds identity through gaps in consciousness
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Using altered states to probe cognitive boundaries
+- [the-silence-void](/voids/the-silence-void/) — Voluntary cessation through contemplative practice
 
 ## References
 

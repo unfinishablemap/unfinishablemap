@@ -151,6 +151,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [Illusionism](/concepts/illusionism/) — The challenge that the self is a user illusion
 - [The Absorption Void](/voids/absorption-void/) — Peak engagement as peak self-opacity
+- [The Silence Void](/voids/the-silence-void/) — When the observer ceases observing: the territory beyond the regression
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists explanation
 - [Haecceity](/concepts/haecceity/) — The irreducible particularity of this observer
