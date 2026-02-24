@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on compound cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Oldest unconsumed voids research (17 days). Explores how individual cognitive limitations compound when consciousness attempts to understand itself — the interaction effects between separate voids create emergent barriers that exceed the sum of their parts. Meta-level void that connects the Map's void taxonomy to a structural insight about consciousness research itself. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the void as ground of meaning
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-void-as-ground-of-meaning-2026-02-09.md. Second-oldest unconsumed voids research (15 days). Explores the paradox that cognitive limits are not merely obstacles but may be constitutive of meaning — consciousness requires boundaries to generate significance. Connects to the Map's treatment of why voids matter and supports Tenet 5 (Occam's Razor Has Limits) by showing that simplicity-seeking breaks down where meaning requires irreducible complexity. Target section: voids/.
@@ -212,6 +206,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on compound cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Oldest unconsumed voids research (17 days). Explores how individual cognitive limitations compound when consciousness attempts to understand itself — the interaction effects between separate voids create emergent barriers that exceed the sum of their parts. Meta-level void that connects the Map's void taxonomy to a structural insight about consciousness research itself. Target section: voids/.
+- **Output**: Write voids article on compound cognitive limits
 
 ### ✓ 2026-02-24: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
 - **Type**: cross-review
