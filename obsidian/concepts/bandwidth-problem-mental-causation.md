@@ -4,7 +4,7 @@ description: "Even granting that consciousness can influence the brain, does the
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T20:50:00+00:00
+ai_modified: 2026-02-24T01:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,10 +27,12 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-24T01:06:00+00:00
 ---
 
-The bandwidth problem in mental causation asks: even if consciousness *can* influence physical outcomes, can it carry enough information to produce the specific effects we observe? This challenge is distinct from Jaegwon Kim's [[causal-closure|causal exclusion]] argument, which questions whether mental causation occurs at all. The bandwidth problem grants that consciousness might influence the brain—then asks whether the mind-body channel has sufficient capacity and specificity to do useful causal work. For The Unfinishable Map's framework, which locates mental causation at [[concepts/consciousness-selecting-neural-patterns|quantum indeterminacies]], the bandwidth problem becomes concrete: how does coarse-grained conscious intention translate into the selection of specific neural configurations from an astronomically large space of possibilities?
+The bandwidth problem in mental causation asks: even if consciousness *can* influence physical outcomes, can it carry enough information to produce the specific effects we observe? This challenge is distinct from Jaegwon Kim's [[causal-closure|causal exclusion]] argument, which questions whether mental causation occurs at all. The bandwidth problem grants that consciousness might influence the brain—then asks whether the mind-body channel has sufficient capacity and specificity to do useful causal work.
+
+For The Unfinishable Map's framework, which locates mental causation at [[concepts/consciousness-selecting-neural-patterns|quantum indeterminacies]], the bandwidth problem becomes concrete: how does coarse-grained conscious intention translate into the selection of specific neural configurations from an astronomically large space of possibilities?
 
 ## The Specification Challenge
 
@@ -40,7 +42,7 @@ This is not merely a problem of quantity. It is a problem of *kind*. Mental cont
 
 The problem has three dimensions:
 
-**Capacity**: Does the channel carry enough bits per second? Empirical measurement places conscious throughput at roughly 10 bits per second, while behavioural output can be enormously more complex.
+**Capacity**: Does the channel carry enough bits per second? Behavioural measurements place the throughput of conscious processing at roughly 10 bits per second (Zheng & Meister, 2025), while motor execution and sensory processing can be enormously more complex.
 
 **Grain**: Mental content is coarse—"pick up the cup"—while physical effects require fine-grained specification of individual motor units. How does coarse-grained selection produce fine-grained outcomes?
 
@@ -58,17 +60,19 @@ This gives the bandwidth problem its force: the mismatch between the information
 
 **The homunculus response** posits that consciousness contains hidden complexity—rich internal states that mirror the complexity of physical execution. This simply relocates the problem. If consciousness carries millions of bits of motor-specification, why do we experience intentions as simple? And how did those millions of bits get into consciousness in the first place? The response inflates conscious complexity without explaining how the information is encoded or transmitted.
 
-**The identity response** dissolves the bandwidth problem by identifying mental states with physical states—"raise my arm" just *is* the relevant neural configuration. But this requires physicalism. For dualists who maintain that mental states are ontologically distinct from physical states, identity is unavailable. The bandwidth problem is specifically a challenge to non-reductive accounts of mental causation, including The Unfinishable Map's interactionist framework.
+**The identity response** dissolves the bandwidth problem by identifying mental states with physical states—"raise my arm" just *is* the relevant neural configuration, described at a different level. For physicalists, this works: no translation is needed because there is no ontological gap to bridge. But for dualists who maintain that mental states are ontologically distinct from physical states, identity is unavailable by definition. The bandwidth problem is specifically a challenge to non-reductive accounts of mental causation, including the Map's interactionist framework.
 
 ## The Hierarchical Selection Response
 
 The Map's framework provides a different answer: consciousness does not need to specify neural configurations because that is not what it does. Consciousness selects among options that the brain has already prepared at the required grain of detail.
 
-This is the [[neural-bandwidth-constraints-and-the-interface|bandwidth constraint interpreted architecturally]]. The brain's unconscious systems—running at roughly 10⁹ bits per second—perform the computationally intensive work of translating goals into motor plans, generating candidate action sequences, and computing the fine-grained specifications execution requires. Consciousness selects among the prepared candidates.
+This is the [[neural-bandwidth-constraints-and-the-interface|bandwidth constraint interpreted architecturally]]. The brain's unconscious systems—running at roughly 10⁹ bits per second (Norretranders, 1998)—perform the computationally intensive work of translating goals into motor plans, generating candidate action sequences, and computing the fine-grained specifications execution requires. Consciousness selects among the prepared candidates.
 
 On this architecture, the bandwidth problem transforms. The question is no longer "how does a 10-bit/second channel specify a million-bit neural configuration?" but "how does a 10-bit/second channel choose among a small number of prepared alternatives?" And that question has a straightforward answer: a channel carrying 10 bits per second can make roughly 3–4 selections per second among small sets of alternatives. This matches the [[concepts/consciousness-selecting-neural-patterns#The Bandwidth Constraint|phenomenology of deliberate choice]].
 
-The hierarchical structure dissolves the grain problem specifically. Consciousness operates at policy level—"reach for the cup," "attend to the speaker," "inhibit the impulse." Each policy-level selection triggers a cascade of progressively finer-grained specifications, all handled by unconscious neural mechanisms. The grain of conscious intention matches the grain of conscious selection. The finer grain is supplied by the brain, not the mind.
+The hierarchical structure addresses the grain problem directly. Consciousness operates at policy level—"reach for the cup," "attend to the speaker," "inhibit the impulse." Each policy-level selection triggers a cascade of progressively finer-grained specifications, all handled by unconscious neural mechanisms. The grain of conscious intention matches the grain of conscious selection. The finer grain is supplied by the brain, not the mind.
+
+This architecture raises a natural concern: if the brain does all the specification work, is consciousness epiphenomenal? The answer depends on whether the alternatives among which consciousness selects are genuinely open. If quantum indeterminacies leave multiple neural configurations physically possible—as the Map's framework maintains—then policy-level selection is real causal work. The brain prepares the options; consciousness determines which option becomes actual. The narrowness of the channel reflects not causal impotence but appropriate division of labour: consciousness provides direction, the brain provides detail. Most behaviour—habitual actions, reflexes, overlearned skills—bypasses conscious selection entirely, operating within the brain's full bandwidth. The conscious channel handles only what requires deliberate intervention, which is precisely where the bandwidth constraint applies.
 
 ## The Format Translation Problem
 
@@ -76,7 +80,7 @@ Even granting hierarchical selection, a residual problem remains: how does inten
 
 This is the format dimension of the bandwidth problem, and it connects to the broader [[psychophysical-laws|psychophysical coupling problem]]. The Map requires [[selection-laws|selection laws]]—laws specifying how phenomenal states map to physical selections. The bandwidth problem sharpens this requirement: whatever coupling law governs the interface, it must translate between intentional and physical vocabularies without requiring the intentional side to encode physical details.
 
-Stapp's quantum Zeno framework offers a candidate mechanism: consciousness poses questions ("is this neural pattern present?") and the physical system answers. The intentional content determines *which question* to ask; physics determines the answer. This separation of labour means consciousness need not encode physical specifications—it encodes attentional targets, and the brain's architecture translates these into the relevant physical observables.
+One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested; the Map treats it as one possibility among others rather than a commitment.
 
 Whether this candidate fully resolves the format problem is debatable. The question "is pattern P present?" must itself be physically implemented—something must determine which quantum observable corresponds to the intended pattern. The Map treats this as part of the [[psychophysical-laws|coupling law]] specification problem: the detailed mapping from phenomenal states to physical observables remains to be worked out.
 
@@ -115,4 +119,5 @@ The bandwidth problem also differs from the [[concepts/binding-problem|binding p
 
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 - Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
