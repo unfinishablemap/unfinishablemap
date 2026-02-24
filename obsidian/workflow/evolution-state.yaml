@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-24T08:28:10.568266+00:00'
-session_count: 2775
-cycle_position: 2331
+last_updated: '2026-02-24T08:44:31.884990+00:00'
+session_count: 2776
+cycle_position: 2332
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -50,12 +50,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 9
+  p3_tasks: 9
+  needs_replenishment: false
+  last_replenishment: '2026-02-24T08:59:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 2
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 3
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Create concept page for phenomenal-unity)
-  type: expand-topic
-  date: '2026-02-24'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-02-24'
@@ -135,6 +145,10 @@ recent_tasks:
   date: '2026-02-24'
   outcome: success
 - task: deep-review
+  type: deep-review
+  date: '2026-02-24'
+  outcome: success
+- task: deep-review (obsidian/topics/contemplative-evidence-for-conscio)
   type: deep-review
   date: '2026-02-24'
   outcome: success

@@ -126,7 +126,7 @@ These disruptions show temporal unity is a phenomenal achievement requiring expl
 
 The Map's framework proposes consciousness participates in [quantum collapse](/concepts/quantum-consciousness/) and that [collapse constitutes time's arrow](/concepts/collapse-and-time/). The specious present may be the phenomenological manifestation.
 
-**Duration and collapse timing.** Revised microtubule coherence estimates (10-100 microseconds—seven orders longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. Each collapse constitutes a "moment"; the specious present is the horizon within which recent collapses remain unified.
+**Duration and collapse timing.** Revised microtubule coherence estimates (10-100 microseconds—seven orders longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. Each collapse constitutes a "moment"; the specious present is the horizon within which recent collapses remain unified. See [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/) for a detailed treatment of how Husserl's retention-protention structure maps onto collapsed, collapsing, and uncollapsed quantum states.
 
 **Flow as real.** B-theory eternalists treat temporal flow as illusory. The Map disagrees: flow is the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
 

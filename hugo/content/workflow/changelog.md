@@ -18,6 +18,63 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 08:44 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **Word count**: 2939 → 2978 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (contemplative pathology cross-link and methodological acknowledgment)
+- **Enhancements made**: 4 (pathology paragraph in Where Convergence Fails, cross-link in body/Further Reading/frontmatter, duplicate citation removed, prose tightened in 6 locations)
+- **Output**: [deep-review-2026-02-24-contemplative-evidence-for-consciousness](/reviews/deep-review-2026-02-24-contemplative-evidence-for-consciousness/)
+
+## 2026-02-24 08:28 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Word count**: 2085 → 2485 (+400)
+- **Critical issues addressed**: 4 (orphaned references, Russell quote, IIT frontmatter mismatch, missing MQI tenet section)
+- **Medium issues addressed**: 7 (dual-process engagement, Sellars attribution, formal limits tension, category-error/closure distinction, opening construction, stale cross-links, frontmatter inconsistency)
+- **Enhancements made**: 7 (Gödel paragraph, Nagel mention, gravity analogy, 7 new cross-links, McDowell reference)
+- **Output**: [deep-review-2026-02-24-consciousness-and-the-authority-of-formal-systems](/reviews/deep-review-2026-02-24-consciousness-and-the-authority-of-formal-systems/)
+
+## 2026-02-24 08:13 UTC - deep-review
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Context**: Cross-review considering phenomenal-unity insights
+- **Word count**: 2486 → 2504 (+18, length-neutral)
+- **Critical issues addressed**: 1 (James attribution error)
+- **Medium issues addressed**: 3 (conjoint phenomenology integration, varieties-of-unity cross-ref, Bayne & Chalmers link)
+- **Enhancements made**: 5 (including stale comment cleanup)
+- **Output**: [deep-review-2026-02-24-binding-problem](/reviews/deep-review-2026-02-24-binding-problem/)
+
+## 2026-02-24 07:58 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/)
+- **Word count**: 2044 → 2101 (+57)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (MWI engagement, orphan status, stale refinement log)
+- **Enhancements made**: 7 cross-links added from related articles to resolve orphan status
+- **Output**: [deep-review-2026-02-24-temporal-phenomenology-quantum-selection](/reviews/deep-review-2026-02-24-temporal-phenomenology-quantum-selection/)
+
+## 2026-02-24 07:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Adaptive Cognitive Limits
+- **Output**: [adaptive-cognitive-limits](/voids/adaptive-cognitive-limits/)
+- **Word count**: 1223
+- **Based on research**: yes, [voids-adaptive-cognitive-limits-2026-02-08](/research/voids-adaptive-cognitive-limits-2026-02-08/)
+
+## 2026-02-24 07:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Changes**: Restructured "Causal Closure Loophole" section to distinguish permissibility condition from positive evidence; added subsections for alternatives (brute stochasticity, hidden variables) and the positive case (hard problem parallel, self-stultification, explanatory unification); updated Relation to Site Perspective; addressed Issue #3 from pessimistic-2026-02-24.md
+- **Published**: yes
+
+## 2026-02-24 07:18 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Plurality Void — the inability to conceive what it would be like to be multiple consciousnesses simultaneously
+- **Category**: Unexplorable / Occluded (Mixed)
+- **Output**: [voids-plurality-void-2026-02-24](/research/voids-plurality-void-2026-02-24/)
+- **Key finding**: Consciousness appears constitutively singular — first-person experience is defined by being *this* perspective and not others, making plurality not merely unknown but potentially logically contradictory (Coleman's subject-summing argument). Strong alignment with Tenet 4 (No Many Worlds).
+
 ## 2026-02-24 06:53 UTC - refine-draft
 - **Status**: Success
 - **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)

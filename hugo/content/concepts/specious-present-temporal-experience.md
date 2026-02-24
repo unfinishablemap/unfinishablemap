@@ -106,6 +106,7 @@ This parallels the standard [qualia](/concepts/qualia/) arguments but targets a 
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into a temporal stream at micro, meso, and macro scales
 - [temporal-consciousness-void](/voids/temporal-consciousness-void/) — The void of being confined to a moving present
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's modified growing block
+- [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/) — The specious present as selection window: how temporal phenomenology maps onto quantum collapse
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [neurophenomenology](/concepts/neurophenomenology/) — Bridging first-person investigation and neuroscience
 - [william-james-consciousness](/topics/william-james-consciousness/) — The stream of consciousness and its temporal structure

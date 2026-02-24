@@ -120,7 +120,7 @@ When choice feels effortful, frontal theta increases. When choice feels automati
 
 ## Deliberation and Duration
 
-Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do.
+Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do, and [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/) for how the temporal structure of deliberation—holding open possibilities, settling on one—may be the experiential signature of quantum selection.
 
 Bergson argued that determinism treats mental states as discrete units causing each other mechanically. But in lived duration, mental states interpenetrate. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete events.
 
