@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Phenomenal Unity](/concepts/phenomenal-binding-and-holism/)
+**Article**: [Phenomenal Unity](/concepts/phenomenal-unity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

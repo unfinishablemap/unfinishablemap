@@ -75,7 +75,7 @@ Six supportive philosopher personas identified:
 - [libet-experiments](/concepts/libet-experiments/)
 - [pairing-problem](/concepts/pairing-problem/) (multiple instances)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
+- [phenomenal-unity](/concepts/phenomenal-unity/)
 - [mysterianism](/concepts/mysterianism/)
 
 ## Word Count

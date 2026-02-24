@@ -125,7 +125,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 ### High Priority
 
 #### Phenomenal Binding and Unity
-- **Builds on**: [binding-problem](/concepts/binding-problem/), [multimodal-binding](/concepts/phenomenal-binding-and-holism/), [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
+- **Builds on**: [binding-problem](/concepts/binding-problem/), [multimodal-binding](/concepts/phenomenal-binding-and-holism/), [phenomenal-unity](/concepts/phenomenal-unity/)
 - **Would address**: How disparate neural processes produce unified conscious experience—central to hard problem
 - **Estimated scope**: Medium article
 - **Tenet alignment**: The unity of consciousness resists physical explanation, supporting Dualism tenet

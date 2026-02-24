@@ -150,7 +150,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 ### Medium Priority
 
 #### The Unity of Consciousness and Neural Binding
-- **Builds on**: [binding-problem](/concepts/binding-problem/), [phenomenal-unity](/concepts/phenomenal-binding-and-holism/), [varieties-of-unity](/concepts/varieties-of-unity/)
+- **Builds on**: [binding-problem](/concepts/binding-problem/), [phenomenal-unity](/concepts/phenomenal-unity/), [varieties-of-unity](/concepts/varieties-of-unity/)
 - **Would address**: How diverse neural processes yield unified experience, and why classical binding proposals fail
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism—unity as evidence for irreducibility

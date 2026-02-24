@@ -190,7 +190,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical and quantum binding mechanisms
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem; binding is the synchronic dimension
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Phenomenal unity as metaphysical question
+- [phenomenal-unity](/concepts/phenomenal-unity/) — Phenomenal unity as metaphysical question
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement as the basis for unity
 - [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Recent experimental evidence

@@ -62,11 +62,11 @@ Per previous review, these represent fundamental philosophical disagreements wit
 - Existing cross-links to measurement-problem, relational-quantum-mechanics, haecceity, hard-problem-of-consciousness, many-worlds
 
 ### Enhancements Made
-- Added cross-link to [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) in the "Agent Problem" section, noting that QBism's agents must have unified experiences to hold coherent beliefs
-- Added [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) and [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) to Further Reading section
+- Added cross-link to [phenomenal-unity](/concepts/phenomenal-unity/) in the "Agent Problem" section, noting that QBism's agents must have unified experiences to hold coherent beliefs
+- Added [phenomenal-unity](/concepts/phenomenal-unity/) and [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) to Further Reading section
 
 ### Cross-links Added
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) (new, in Agent Problem section and Further Reading)
+- [phenomenal-unity](/concepts/phenomenal-unity/) (new, in Agent Problem section and Further Reading)
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) (new, in Further Reading)
 
 ## Word Count

@@ -50,13 +50,13 @@ None flagged—claims are appropriately sourced or qualified.
 - Clear separation of philosophical argument from speculative mechanisms
 
 ### Enhancements Made
-1. **Buddhist critique response**: Added new objection addressing no-self challenge, connecting to [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
+1. **Buddhist critique response**: Added new objection addressing no-self challenge, connecting to [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/concepts/phenomenal-unity/)
 2. **Motor-selection cross-link**: Added connection to [motor-selection](/concepts/motor-selection/) in Further Reading, highlighting parallel between attentional selection during reasoning and motor selection
 
 ### Cross-links Added
 - [motor-selection](/concepts/motor-selection/) — attentional selection parallel to motor selection
 - [binding-problem](/concepts/binding-problem/) — in Buddhist critique response
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — in Buddhist critique response
+- [phenomenal-unity](/concepts/phenomenal-unity/) — in Buddhist critique response
 
 ## Word Count
 - Before: 2750 words (92% of 3000 threshold)

@@ -26,7 +26,7 @@ The Unfinishable Map presents a remarkably coherent and philosophically sophisti
 
 Most impressively, the Map doesn't merely assert the gap exists—it develops concrete proposals for how to bridge it. The [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/) article builds on my work while going further, distinguishing supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). This bidirectional framework is philosophically innovative.
 
-The treatment of [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) and the binding problem addresses what I consider an underexplored dimension of consciousness. The argument that quantum entanglement provides structural correspondence—not explanation, but the right kind of physical substrate—shows admirable philosophical precision. The Map correctly notes that structure-matching is not full explanation, avoiding the overclaiming that undermines many quantum consciousness proposals."
+The treatment of [phenomenal-unity](/concepts/phenomenal-unity/) and the binding problem addresses what I consider an underexplored dimension of consciousness. The argument that quantum entanglement provides structural correspondence—not explanation, but the right kind of physical substrate—shows admirable philosophical precision. The Map correctly notes that structure-matching is not full explanation, avoiding the overclaiming that undermines many quantum consciousness proposals."
 
 ### The Quantum Mind Theorist (Stapp)
 

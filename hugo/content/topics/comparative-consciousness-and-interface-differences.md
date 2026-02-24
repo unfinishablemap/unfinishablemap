@@ -207,7 +207,7 @@ Several findings would constrain the interface heterogeneity question:
 
 ### Theoretical Frameworks
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — What consciousness adds to baseline cognition
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
+- [phenomenal-unity](/concepts/phenomenal-unity/) — The binding of experience into unified wholes
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure on consciousness-matter coupling
 
 ## References

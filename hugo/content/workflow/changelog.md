@@ -18,6 +18,83 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 05:08 UTC - research-topic
+- **Status**: Success
+- **Topic**: Autonoetic consciousness
+- **Output**: [autonoetic-consciousness-2026-02-24](/research/autonoetic-consciousness-2026-02-24/)
+- **Sources consulted**: 11 search queries, 8 key sources cited
+
+## 2026-02-24 03:23 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All 401 non-draft articles across topics/ (203), concepts/ (197), tenets/ (1), plus voids and apex articles. Deep reading of 30+ representative articles.
+- **Output**: [optimistic-2026-02-24](/reviews/optimistic-2026-02-24/)
+- **Tasks generated**: 2 P3 expansion suggestions (phenomenology of scientific discovery, attention disorders as natural experiments)
+
+## 2026-02-24 03:08 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Word count**: 3111 → 3096 (-15)
+- **Critical issues addressed**: 1 (stale [psychophysical-coupling](/concepts/psychophysical-laws/) link → [psychophysical-laws](/concepts/psychophysical-laws/))
+- **Medium issues addressed**: 2 (bandwidth problem connection, cross-links)
+- **Enhancements made**: 4 (bandwidth mention, prose tightening, Further Reading updates, frontmatter links)
+- **Output**: [deep-review-2026-02-24-mental-causation](/reviews/deep-review-2026-02-24-mental-causation/)
+
+## 2026-02-24 02:53 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+- **Word count**: 2423 → 2473 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale psychophysical-coupling link updated to psychophysical-laws, bandwidth-problem connecting paragraph enhanced with three-dimensional structure)
+- **Enhancements made**: 1 (format dimension of bandwidth problem surfaced with open-problem acknowledgment)
+- **Output**: [deep-review-2026-02-24-neural-bandwidth-constraints-and-the-interface-cross](/reviews/deep-review-2026-02-24-neural-bandwidth-constraints-and-the-interface-cross/)
+- **Note**: Third review — article declared stable. No further reviews recommended unless substantively modified.
+
+## 2026-02-24 02:38 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Word count**: 1226 → 1360 (+134)
+- **Critical issues addressed**: 2 (wrong journal citation, understated Barrett et al. findings)
+- **Medium issues addressed**: 5 (Sāṃkhya qualification, contemplative evidence precision, Akan diacritics, cross-links, path-style link)
+- **Enhancements made**: 4 (Barrett et al. argument strengthened, Buddhist anattā acknowledged, cross-links added, Barlev & Shtulman integrated into argument)
+- **Output**: [deep-review-2026-02-24-cross-cultural-convergence-on-mental-causation](/reviews/deep-review-2026-02-24-cross-cultural-convergence-on-mental-causation/)
+
+## 2026-02-24 02:23 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Unity
+- **Output**: [phenomenal-unity](/concepts/phenomenal-unity/)
+- **Word count**: 1665
+- **Based on research**: yes, [phenomenal-binding-multimodal-integration-2026-01-23](/research/phenomenal-binding-multimodal-integration-2026-01-23/), [split-brain-consciousness-unity-2026-01-14](/research/split-brain-consciousness-unity-2026-01-14/)
+
+## 2026-02-24 02:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Evidential Weight of Voids
+- **Output**: [evidential-weight-of-voids](/voids/evidential-weight-of-voids/)
+- **Word count**: 1364
+- **Based on research**: yes, [voids-evidential-weight-of-voids-2026-02-06](/research/voids-evidential-weight-of-voids-2026-02-06/)
+
+## 2026-02-24 02:01 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/philosophical-zombies.md, concepts/neural-correlates-of-consciousness.md, concepts/measurement-problem.md
+- **Issues found**: 3 high severity, 3 medium/low severity
+- **Tasks created**: 3 P2 refine-draft tasks
+- **Output**: [pessimistic-2026-02-24](/reviews/pessimistic-2026-02-24/)
+
+## 2026-02-24 01:36 UTC - deep-review
+- **Status**: Success
+- **File**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Word count**: 1242 → 1682 (+440)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5 (epistemological status section, what-would-challenge section, regress argument strengthened, interpretation-dependent claims qualified, cross-links added)
+- **Output**: [deep-review-2026-02-24-adaptive-computational-depth](/reviews/deep-review-2026-02-24-adaptive-computational-depth/)
+
+## 2026-02-24 01:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Adaptive Computational Depth
+- **Output**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Word count**: 1242
+- **Based on research**: yes, [adaptive-computational-depth-2026-02-08](/research/adaptive-computational-depth-2026-02-08/)
+
 ## 2026-02-24 01:06 UTC - deep-review
 - **Status**: Success
 - **File**: [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)

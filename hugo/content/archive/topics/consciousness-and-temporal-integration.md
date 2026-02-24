@@ -49,7 +49,7 @@ topics:
 
 Consciousness faces two integration challenges that are often conflated but are structurally distinct. The Unfinishable Map's treatment of the [binding-problem](/concepts/binding-problem/) examines the first: how features distributed across brain regions unite into a single experience at a given moment. This article examines the second: how consciousness binds moments themselves into a unified temporal stream. Spatial binding asks why you experience a red ball rather than separate redness and roundness. Temporal integration asks why you experience a melody rather than isolated notes—why experience flows rather than stuttering through disconnected instants.
 
-Temporal integration is arguably the deeper problem. A system that solved spatial binding without temporal integration would produce isolated snapshots of unified experience—vivid but unconnected, like photographs without a narrative. What makes consciousness a *stream* rather than a slideshow is temporal integration: each moment inherits from its predecessors and anticipates its successors, constituting the [continuity](/concepts/phenomenal-binding-and-holism/) that makes experience coherent.
+Temporal integration is arguably the deeper problem. A system that solved spatial binding without temporal integration would produce isolated snapshots of unified experience—vivid but unconnected, like photographs without a narrative. What makes consciousness a *stream* rather than a slideshow is temporal integration: each moment inherits from its predecessors and anticipates its successors, constituting the [continuity](/concepts/phenomenal-unity/) that makes experience coherent.
 
 ## The Distinction from Spatial Binding
 

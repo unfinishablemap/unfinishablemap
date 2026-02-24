@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- `[unity of consciousness](/concepts/phenomenal-binding-and-holism/)` linked to non-existent `phenomenal-unity` when `unity-of-consciousness` exists as a proper article: Fixed by updating to `[unity of consciousness](/concepts/unity-of-consciousness/)` in both frontmatter concepts and body text
+- `[unity of consciousness](/concepts/phenomenal-unity/)` linked to non-existent `phenomenal-unity` when `unity-of-consciousness` exists as a proper article: Fixed by updating to `[unity of consciousness](/concepts/unity-of-consciousness/)` in both frontmatter concepts and body text
 
 ### Medium Issues Found
 - `binding-void` in frontmatter and Further Reading lacked wikilink syntax: Fixed by adding `[[]]` brackets in both locations

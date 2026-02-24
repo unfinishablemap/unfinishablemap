@@ -49,7 +49,7 @@ topics: []
 - Generalized specific uncited claims to maintain verifiability
 
 ### Cross-links Preserved
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/), [binding-problem](/concepts/binding-problem/), [personal-identity](/topics/personal-identity/), [haecceity](/concepts/haecceity/)
+- [phenomenal-unity](/concepts/phenomenal-unity/), [binding-problem](/concepts/binding-problem/), [personal-identity](/topics/personal-identity/), [haecceity](/concepts/haecceity/)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [witness-consciousness](/concepts/witness-consciousness/), [decoherence](/concepts/decoherence/)
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [tenets](/tenets/)

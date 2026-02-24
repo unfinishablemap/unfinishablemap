@@ -57,7 +57,7 @@ Added inbound links from the following articles:
 
 1. **[meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)** — Added inline reference in the PCT discussion and Further Reading link
 2. **[cognitive-phenomenology](/concepts/cognitive-phenomenology/)** — Added inline reference in the PCT section and Further Reading link
-3. **[phenomenal-unity](/concepts/phenomenal-binding-and-holism/)** — Added reference noting meaning integration as parallel problem to perceptual unity, and Further Reading link
+3. **[phenomenal-unity](/concepts/phenomenal-unity/)** — Added reference noting meaning integration as parallel problem to perceptual unity, and Further Reading link
 4. **[binding-problem](/concepts/binding-problem/)** — Added reference in the language/cognitive binding section and Further Reading link
 5. **[global-workspace-theory](/concepts/global-workspace-theory/)** — Added Further Reading link (availability vs integration distinction)
 6. **[meaning-of-life](/topics/meaning-of-life/)** — Added inline reference about narrative integration and Further Reading link

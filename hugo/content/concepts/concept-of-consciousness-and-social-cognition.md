@@ -78,7 +78,7 @@ Representing others' mental states about mental states—"She thinks that I thin
 
 ### The Nested Structure Problem
 
-Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. Each level must be available for manipulation while tracking its relationship to other levels. The nested representations must be bound into a [unified conscious experience](/concepts/phenomenal-binding-and-holism/)—you must experience the whole structure at once, not merely store its parts separately.
+Recursive mindreading requires holding multiple levels simultaneously: my belief about your belief about my intention. Each level must be available for manipulation while tracking its relationship to other levels. The nested representations must be bound into a [unified conscious experience](/concepts/phenomenal-unity/)—you must experience the whole structure at once, not merely store its parts separately.
 
 Consider: "I want her to believe that I don't know that she plans to take the food." This requires representing your own mental state (wanting), her future mental state (believing), the content of that belief (your ignorance), and what you're supposed to be ignorant of (her plan)—keeping all four levels distinct and manipulable.
 

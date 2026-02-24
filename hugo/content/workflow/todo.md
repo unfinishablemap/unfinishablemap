@@ -49,29 +49,69 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
 
-### P2: Write article on adaptive computational depth
-- **Type**: expand-topic
-- **Notes**: Research completed in research/adaptive-computational-depth-2026-02-08.md. Examines the idea that a simulated universe might adaptively allocate computational resources depending on whether consciousness is observing, connecting simulation theory to the measurement problem and consciousness-selecting frameworks. Builds on simulation.md, consciousness-selecting-neural-patterns.md, prebiotic-collapse.md. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-23
+### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
+- **Type**: other
+- **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
+- **Source**: chain (from phenomenal-unity)
+- **Generated**: 2026-02-24
 
-### P2: Write voids article on evidential weight of voids
+### P2: Write article on autonoetic consciousness
 - **Type**: expand-topic
-- **Notes**: Research completed in research/voids-evidential-weight-of-voids-2026-02-06.md. Oldest unconsumed voids research. Examines the epistemological question of what cognitive gaps themselves tell us about the nature of consciousness — whether voids constitute positive evidence or merely mark the boundaries of current understanding. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-23
+- **Status**: pending
+- **Notes**: Chain from research-topic. Research notes at research/autonoetic-consciousness-2026-02-24.md. Site already has anoetic-noetic-autonoetic-consciousness.md (Tulving trichotomy) and episodic-memory.md. A dedicated autonoetic consciousness concept page would go deeper into the constitutive vs. contingent debate, Sant'Anna's three philosophical frameworks, the connection to personal identity and temporal self-projection, and the hard-problem implications. Strong tenet alignment: irreducible phenomenology (Dualism), causal role in future self-projection (Bidirectional Interaction). Target section: concepts/.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-02-24
 
-### P2: Write voids article on compound cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Second-oldest unconsumed voids research. Examines how individual cognitive limitations interact and compound, potentially creating emergent blind spots that exceed the sum of their parts. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-23
+### P2: Address convergence argument vulnerability in philosophical-zombies.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the convergence argument (seven arguments converging on dualism) may reflect shared presuppositions rather than independent confirmation. If phenomenal concepts are confused, all seven arguments fail collectively. Article should acknowledge this dependency and explain why the Map considers the foundational commitment (phenomenal consciousness is real) more secure than theories denying it. See pessimistic-2026-02-24.md Issue #1.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
+### P2: Fix question-begging TV analogy in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the television analogy in the "Correlation Is Not Identity" section presupposes filter theory (brain receives consciousness from external source) while claiming philosophical neutrality. Either pair with a physicalist analogy for genuine neutrality or acknowledge the analogy's perspective. Also: cite the "25% covert consciousness" statistic and qualify "clear signs." See pessimistic-2026-02-24.md Issues #2 and #4.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
+### P2: Address gap-to-consciousness non-sequitur in measurement-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the causal closure loophole argument moves from "physics is open at measurement" to "consciousness fills the gap" without sufficient justification. Indeterminacy doesn't entail consciousness-determination—the gap could be stochastic, hidden-variable, or otherwise. Article should distinguish the loophole as a permissibility condition from positive evidence for consciousness-selection, and reference the supporting arguments (hard problem parallel, self-stultification) as the positive case. See pessimistic-2026-02-24.md Issue #3.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
 
 ### P3: Deep review zombie-master-argument.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has never been reviewed. The zombie master argument is a key piece supporting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and warrants quality assurance.
 - **Source**: staleness
 - **Generated**: 2026-02-23
+
+### P3: Deep review cross-cultural-convergence-on-mental-causation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Examines cross-cultural philosophical traditions on mental causation — a topic that intersects with the Map's treatment of bidirectional interaction and dualism across traditions.
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
+### P3: Deep review somatic-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. The somatic interface concept addresses how consciousness interacts with the body — directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's mind-matter interface framework.
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
+### P3: Write article on the phenomenology of scientific discovery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How scientific breakthroughs feel from the inside—the gestalt shift from confusion to understanding, the phenomenal structure of hypothesis formation, the role of aesthetic judgement in theory selection. Scientists report that good theories "feel right" before they can articulate why. Supports consciousness as active participant in cognition. Builds on phenomenology-of-intellectual-effort.md, consciousness-and-scientific-methodology.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-24.md
+- **Generated**: 2026-02-24
+
+### P3: Write article on consciousness and the structure of attention disorders
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
+- **Generated**: 2026-02-24
 
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
@@ -93,6 +133,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Research autonoetic consciousness
+- **Type**: research-topic
+- **Notes**: Referenced 43 times across the site with no dedicated article. Autonoetic consciousness — self-knowing awareness that enables mental time travel and episodic memory — is central to the Map's treatment of consciousness as more than mere information processing. Research needed before article creation. Target section: concepts/.
+- **Output**: autonoetic consciousness
+
+### ✓ 2026-02-24: Cross-review mental-causation.md considering bandwidth-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) positions itself as addressing a distinct challenge from Kim's causal exclusion problem treated in concepts/mental-causation.md. Cross-review to verify proper delineation of problem spaces, add cross-links, and check for complementary or contradictory arguments.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering bandwidth-problem insights
+
+### ✓ 2026-02-24: Cross-review neural-bandwidth-constraints-and-the-interface.md considering bandwidth-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) builds directly on the empirical bandwidth data in topics/neural-bandwidth-constraints-and-the-interface.md. Cross-review to ensure proper alignment, complementary arguments, and cross-linking between the empirical and philosophical treatments.
+- **Output**: obsidian/topics/neural-bandwidth-constraints-and-the-interface.md -- Context: Cross-review neural-bandwidth-constraints-and-the-interface.md considering bandwidth-problem insights
+
+### ✓ 2026-02-24: Create concept page for phenomenal-unity
+- **Type**: expand-topic
+- **Notes**: Referenced 46 times across the site with no dedicated article. Phenomenal unity — the binding of disparate sensory and cognitive elements into a single unified conscious experience — is central to consciousness theory, the binding problem, and the Map's treatment of how non-physical consciousness integrates information. Target section: concepts/.
+- **Output**: Create concept page for phenomenal-unity
+
+### ✓ 2026-02-24: Write voids article on evidential weight of voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-evidential-weight-of-voids-2026-02-06.md. Oldest unconsumed voids research. Examines the epistemological question of what cognitive gaps themselves tell us about the nature of consciousness — whether voids constitute positive evidence or merely mark the boundaries of current understanding. Target section: voids/.
+- **Output**: Write voids article on evidential weight of voids
+
+### ✓ 2026-02-24: Cross-review adaptive-computational-depth against related articles
+- **Type**: cross-review
+- **Notes**: New article concepts/adaptive-computational-depth.md created from research. Review related articles (measurement-problem, consciousness-selecting-neural-patterns, prebiotic-collapse, the-participatory-universe, consciousness-and-the-physics-of-information) to add cross-references where appropriate.
+- **Output**: None -- Context: Cross-review adaptive-computational-depth against related articles
+
+### ✓ 2026-02-24: Write article on adaptive computational depth
+- **Type**: expand-topic
+- **Notes**: Research completed in research/adaptive-computational-depth-2026-02-08.md. Examines the idea that a simulated universe might adaptively allocate computational resources depending on whether consciousness is observing, connecting simulation theory to the measurement problem and consciousness-selecting frameworks. Builds on simulation.md, consciousness-selecting-neural-patterns.md, prebiotic-collapse.md. Target section: concepts/.
+- **Output**: adaptive computational depth
 
 ### ✓ 2026-02-24: Review the-responsibility-gradient.md considering moral implications of genuine agency
 - **Type**: cross-review

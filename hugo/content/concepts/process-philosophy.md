@@ -80,7 +80,7 @@ Process philosophers offer several responses:
 
 **The inheritance asymmetry**: Occasions prehend their immediate predecessors with a directness unlike lateral prehension of contemporaries. This asymmetric intimacy constitutes personal identity.
 
-**[Phenomenal unity](/concepts/phenomenal-binding-and-holism/) as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
+**[Phenomenal unity](/concepts/phenomenal-unity/) as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
 
 **Societies and emergence**: Complex organisms are hierarchically organised societies where "dominant occasions" integrate lower-level processes. The brain doesn't experience; the dominant occasion presiding over the brain does, inheriting from neural processes as its data.
 
@@ -172,7 +172,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous; process philosophy's natural ally
 - [combination-problem](/concepts/combination-problem/) — The central challenge for panpsychist and process approaches
 - [emergence](/concepts/emergence/) — What process philosophy says about how complexity arises
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — How many experiences become one
+- [phenomenal-unity](/concepts/phenomenal-unity/) — How many experiences become one
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The neuroscience of time experience
 - [downward-causation](/concepts/downward-causation/) — How higher-level processes influence lower-level ones
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action

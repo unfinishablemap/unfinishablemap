@@ -147,13 +147,13 @@ The standard objection is decoherence: quantum coherence in warm, wet biological
 
 This differs structurally from classical coordination. Classical mechanisms combine, correlate, or integrate things that remain metaphysically distinct. Quantum entanglement creates systems that were never fully separate. If phenomenal unity requires genuine holism—not just functional coordination—quantum mechanics is the only physics that provides it. For detailed comparison of classical binding mechanisms (gamma synchrony, thalamocortical loops) with quantum alternatives, see [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/).
 
-For the philosophical argument and experimental support, see [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) and [phenomenal-unity](/concepts/phenomenal-binding-and-holism/#the-quantum-alternative).
+For the philosophical argument and experimental support, see [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) and [phenomenal-unity](/concepts/phenomenal-unity/#the-quantum-alternative).
 
 ## The Illusionist Challenge
 
 Not all philosophers accept unity as a genuine phenomenon. Eliminativists like Dennett argue that the sense of unity is an illusion—a construction of cognitive processes that creates the appearance of a unified observer where none exists. Keith Frankish's illusionism goes further: what we call phenomenal unity might be a *quasi-phenomenal* property—a representational state that *represents* unity without there being genuine phenomenal unity to represent.
 
-The Unfinishable Map rejects illusionism for reasons developed in [the phenomenal unity article](/concepts/phenomenal-binding-and-holism/). Three considerations:
+The Unfinishable Map rejects illusionism for reasons developed in [the phenomenal unity article](/concepts/phenomenal-unity/). Three considerations:
 
 First, unity may be a precondition for illusion. An illusion requires a subject to whom something appears otherwise than it is. But subjecthood presupposes unity—there must be *one* experiencer to be deceived. Eliminating the unified subject eliminates the possibility of illusion.
 
@@ -194,7 +194,7 @@ The unity of consciousness illustrates why simplicity is not a reliable guide. T
 ### Unity's Varieties and Structure
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum mechanisms for unity
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Detailed taxonomy of synchronic, diachronic, and subject unity
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Why experience comes as integrated wholes
+- [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience comes as integrated wholes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page

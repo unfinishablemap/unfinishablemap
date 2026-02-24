@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 10:20:00+00:00
+ai_modified: 2026-02-24 02:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[agent-causation]]'
 - '[[african-philosophy-of-consciousness]]'
-- '[[concepts/epiphenomenalism]]'
+- '[[epiphenomenalism]]'
 created: 2026-02-23
 date: &id001 2026-02-23
 description: Independent philosophical traditions across India, Africa, and the West
@@ -18,11 +18,14 @@ description: Independent philosophical traditions across India, Africa, and the 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-24 02:38:00+00:00
 modified: *id001
 related_articles:
 - '[[downward-causation-mental-causation-2026-01-15]]'
 - '[[the-convergence-argument-for-dualism]]'
+- '[[the-hard-problem-in-non-western-philosophy]]'
+- '[[samkhya-three-way-distinction]]'
+- '[[eastern-philosophy-consciousness]]'
 - '[[tenets]]'
 title: Cross-Cultural Convergence on Mental Causation
 topics:
@@ -37,9 +40,9 @@ Philosophical traditions that developed in isolation—Indian, African, and West
 
 Three major philosophical lineages developed robust accounts of mental causation without meaningful contact during their formative periods.
 
-**Indian traditions** arrived at mental causation through metaphysical analysis and contemplative practice. [Sāṃkhya philosophy](/topics/indian-philosophy-of-mind/), dating to roughly the first millennium BCE, posits *puruṣa* (consciousness) and *prakṛti* (matter) as distinct principles whose interaction generates the manifest world. The Nyāya school developed formal arguments for a self (*ātman*) that exercises causal control over the body. Vedānta traditions treat consciousness as the fundamental reality from which physical appearances derive their causal powers. These are not casual assertions—they emerge from centuries of systematic philosophical argument and contemplative investigation.
+**Indian traditions** arrived at mental causation through metaphysical analysis and contemplative practice. The Nyāya school developed formal arguments for a self (*ātman*) that exercises causal control over the body—the most explicitly interactionist position in Indian philosophy. [Sāṃkhya philosophy](/topics/indian-philosophy-of-mind/), dating to roughly the first millennium BCE, posits *puruṣa* (consciousness) and *prakṛti* (matter) as distinct principles, though *puruṣa* functions as a [witness](/concepts/witness-consciousness/) rather than a causal agent—a position closer to the Map's recognition of consciousness as irreducible than to its claim of bidirectional causation (see [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)). Vedānta traditions treat consciousness as the fundamental reality from which physical appearances derive their causal powers. These are not casual assertions—they emerge from centuries of systematic philosophical argument and contemplative investigation.
 
-**African philosophical traditions** reached similar conclusions through communal and relational frameworks. The Akan concept of *ōkra* (soul) and *sunsum* (spirit) distinguishes non-physical aspects of personhood that causally govern bodily action. Ubuntu philosophy, while emphasising the communal dimensions of consciousness, maintains that mind is not reducible to brain states and that persons exercise genuine agency. As explored in [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/), these traditions treat consciousness as causally efficacious within a relational rather than individualist metaphysics.
+**African philosophical traditions** reached similar conclusions through communal and relational frameworks. The Akan concept of *okra* (soul) and *sunsum* (spirit) distinguishes non-physical aspects of personhood that causally govern bodily action. Ubuntu philosophy, while emphasising the communal dimensions of consciousness, maintains that mind is not reducible to brain states and that persons exercise genuine agency. As explored in [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/), these traditions treat consciousness as causally efficacious within a relational rather than individualist metaphysics.
 
 **Western philosophy** developed its own independent case. Plato's arguments for the soul as self-moving mover, Aristotle's account of rational agency, the Cartesian tradition of substance dualism, and contemporary arguments from [agent-causation](/concepts/agent-causation/) all assert that mental states genuinely cause physical effects. The Western tradition's distinctive contribution is formalising the problem through the lens of [causal-closure](/concepts/causal-closure/)—articulating precisely what must be denied for mental causation to be possible.
 
@@ -61,19 +64,19 @@ The systematic error hypothesis faces difficulties. If [epiphenomenalism](/conce
 
 Beyond the general agreement that mind causes physical effects, the traditions converge on more specific claims:
 
-**Consciousness is not identical to its physical substrate.** Indian *puruṣa* is metaphysically distinct from *prakṛti*. Akan *ōkra* survives bodily death. Western dualism distinguishes mental and physical substances or properties. Each tradition independently concludes that reducing consciousness to matter misrepresents its nature.
+**Consciousness is not identical to its physical substrate.** Indian *puruṣa* is metaphysically distinct from *prakṛti*. Akan *okra* survives bodily death. Western dualism distinguishes mental and physical substances or properties. Each tradition independently concludes that reducing consciousness to matter misrepresents its nature. (For how non-Western traditions frame this irreducibility, see [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/).)
 
-**Agency is real and irreducible.** Indian karma doctrines require genuine choice. African personhood concepts ground moral responsibility in real causal power. Western [agent-causation](/concepts/agent-causation/) arguments hold that persons originate actions in a way not reducible to event-causal chains. Across traditions, the phenomenology of willing an action and seeing it happen is taken as evidentially significant, not dismissed as illusion.
+**Agency is real and irreducible.** Indian karma doctrines require genuine choice. African personhood concepts ground moral responsibility in real causal power. Western [agent-causation](/concepts/agent-causation/) arguments hold that persons originate actions in a way not reducible to event-causal chains. Across these traditions, the phenomenology of willing an action and seeing it happen is taken as evidentially significant, not dismissed as illusion. (Buddhist traditions complicate this picture—*anattā* denies an enduring agent while preserving moral responsibility through different metaphysics—a qualification explored in the selection bias section below.)
 
-**Contemplative investigation supports the causal role of mind.** [Contemplative traditions](/topics/contemplative-evidence-for-consciousness/) across cultures report that trained attention modifies both subjective experience and bodily states. Buddhist *vipassanā*, Hindu *dhyāna*, Christian contemplative prayer, and African meditative practices all describe consciousness exercising downward causal influence on physiology—changes in heart rate, pain perception, and emotional regulation through directed mental effort.
+**Contemplative investigation supports the causal role of mind.** [Contemplative traditions](/topics/contemplative-evidence-for-consciousness/) across cultures report that trained attention modifies both subjective experience and bodily states—changes in heart rate, pain perception, and emotional regulation through directed mental effort. A physicalist can accommodate these observations as neural-to-bodily causation without invoking non-physical consciousness. But the contemplative traditions themselves, across independent lineages, interpret this phenomenology as evidence that consciousness is the agent, not merely a passenger. The cross-cultural convergence on this interpretation—not just the physiological effects—is what carries evidential weight.
 
 ## Objections and Limitations
 
-**The common cognitive architecture objection.** Perhaps convergence reflects shared features of human cognition rather than shared truth. Humans may be, as Paul Bloom suggests, "natural-born dualists" whose cognitive architecture predisposes them toward mental causation beliefs. However, Barrett et al.'s 2021 cross-cultural study found that intuitive materialism—expecting mental states to cease at bodily death—may be as common as intuitive dualism. The evidence that dualism is a universal cognitive default is weaker than often assumed. More importantly, these philosophical traditions go far beyond naive intuition—they develop sophisticated arguments that engage counterarguments and refine positions over centuries.
+**The common cognitive architecture objection.** Perhaps convergence reflects shared features of human cognition rather than shared truth. Humans may be, as Paul Bloom suggests, "natural-born dualists" whose cognitive architecture predisposes them toward mental causation beliefs. However, Barrett et al.'s 2021 cross-cultural study across six populations found that most participants defaulted to intuitive materialism—expecting mental states to cease at bodily death—not to intuitive dualism. Barlev and Shtulman (2021) argue that dualist conceptions are culturally learned rather than innate. If intuitive materialism is the cognitive default, the philosophical convergence on mental causation becomes *more* significant, not less: traditions that investigated consciousness carefully arrived at mental causation *despite* starting from materialist intuitions. More importantly, these philosophical traditions go far beyond naive intuition—they develop sophisticated arguments that engage counterarguments and refine positions over centuries.
 
 **The selection bias objection.** We notice traditions that endorse mental causation and ignore those that deny it. Some traditions—notably certain Buddhist schools (particularly Mādhyamaka) and the Cārvāka materialists of India—reject or complicate the picture. This is a genuine limitation. The convergence is not universal but predominant: most traditions that seriously investigate the mind-body relationship conclude that consciousness is causally efficacious.
 
-**The conceptual translation problem.** *Puruṣa*, *ōkra*, and Cartesian *res cogitans* are not identical concepts. Treating them as converging on "mental causation" may impose Western categories on traditions with fundamentally different conceptual schemes. This objection has force—but the convergence operates at a level of abstraction above specific conceptual frameworks. The shared claim is functional: something non-physical participates in causing physical effects. The traditions disagree about the precise metaphysics while agreeing on this functional point.
+**The conceptual translation problem.** *Puruṣa*, *okra*, and Cartesian *res cogitans* are not identical concepts. Treating them as converging on "mental causation" may impose Western categories on traditions with fundamentally different conceptual schemes. This objection has force—but the convergence operates at a level of abstraction above specific conceptual frameworks. The shared claim is functional: something non-physical participates in causing physical effects. The traditions disagree about the precise metaphysics while agreeing on this functional point.
 
 ## Relation to Site Perspective
 
@@ -89,6 +92,8 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is also relevant. T
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
 - [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
 - [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
 - [agent-causation](/concepts/agent-causation/)
 - [causal-closure](/concepts/causal-closure/)
@@ -96,7 +101,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is also relevant. T
 ## References
 
 - Barrett, H.C. et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6).
-- Barlev, M. & Shtulman, A. (2021). "Minds, Bodies, Spirits, and Gods: Does Widespread Belief in Disembodied Beings Imply That We Are Innate Dualists?" *Psychological Bulletin*, 147(12): 1297-1312.
+- Barlev, M. & Shtulman, A. (2021). "Minds, Bodies, Spirits, and Gods: Does Widespread Belief in Disembodied Beings Imply That We Are Innate Dualists?" *Psychological Review*, 128(6): 1007-1021.
 - Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 - Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.

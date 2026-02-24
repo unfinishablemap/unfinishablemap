@@ -171,5 +171,5 @@ This apex article synthesizes:
 - [Temporal Consciousness](/concepts/temporal-consciousness/) — The specious present, neural binding, and contemplative access
 - [Panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous, and its combination problem
 - [The Combination Problem](/concepts/combination-problem/) — How micro-experiences might combine into unified consciousness
-- [Phenomenal Unity](/concepts/phenomenal-binding-and-holism/) — What makes experience unified rather than fragmented
+- [Phenomenal Unity](/concepts/phenomenal-unity/) — What makes experience unified rather than fragmented
 - [Free Will](/topics/free-will/) — How process thought illuminates libertarian agency

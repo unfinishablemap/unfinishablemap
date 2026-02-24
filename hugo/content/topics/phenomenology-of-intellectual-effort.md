@@ -144,7 +144,7 @@ The [argument-from-reason](/topics/argument-from-reason/) emphasises that graspi
 
 **Continuous identity through reasoning.** A long derivation requires that the same thinker who grasped premise 1 also grasps premise 7 and the conclusion. This continuity is experienced—you are *the one* who has been following the argument, not a succession of time-slices.
 
-This [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) is difficult for materialist accounts. If reasoning is distributed neural activity, what provides the viewpoint? If the thinker is a sequence of brain states, what makes it *one* thinker across time? This is the [binding-problem](/concepts/binding-problem/) applied to reasoning: how do separate neural processes constitute a single act of inference? The phenomenology of intellectual effort suggests irreducible unity: consciousness as the subject that holds things together.
+This [phenomenal-unity](/concepts/phenomenal-unity/) is difficult for materialist accounts. If reasoning is distributed neural activity, what provides the viewpoint? If the thinker is a sequence of brain states, what makes it *one* thinker across time? This is the [binding-problem](/concepts/binding-problem/) applied to reasoning: how do separate neural processes constitute a single act of inference? The phenomenology of intellectual effort suggests irreducible unity: consciousness as the subject that holds things together.
 
 ### The First-Person Perspective on Logic
 

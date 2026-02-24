@@ -57,7 +57,7 @@ None identified.
 
 ### Cross-links Added
 - [mental-causation](/concepts/mental-causation/) to frontmatter and Further Reading
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) to frontmatter and Further Reading
+- [phenomenal-unity](/concepts/phenomenal-unity/) to frontmatter and Further Reading
 - [binding-problem](/concepts/binding-problem/) to frontmatter and Further Reading (already mentioned in text)
 - [minimal-consciousness](/concepts/minimal-consciousness/) to frontmatter and Further Reading
 - [arguments-against-materialism](/concepts/the-case-for-dualism/) to Further Reading

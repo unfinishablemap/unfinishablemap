@@ -61,13 +61,13 @@ topics: []
 - [illusionism](/concepts/illusionism/)
 - [decoherence](/concepts/decoherence/)
 - [pairing-problem](/concepts/pairing-problem/)
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/)
+- [phenomenal-unity](/concepts/phenomenal-unity/)
 
 **Further Reading:**
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and its self-undermining character
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
-- [phenomenal-unity](/concepts/phenomenal-binding-and-holism/) — Unified experience as evidence for non-reductive consciousness
+- [phenomenal-unity](/concepts/phenomenal-unity/) — Unified experience as evidence for non-reductive consciousness
 
 ## Remaining Items
 
