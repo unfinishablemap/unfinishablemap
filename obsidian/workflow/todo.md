@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review tenet-generated-voids.md considering binding-void
-- **Type**: cross-review
-- **Notes**: New voids article binding-void.md created 2026-02-24. tenet-generated-voids.md catalogs voids that emerge from the Map's five tenets and should classify this new entry. The binding void strongly supports Tenet 1 (Dualism) via Descartes' indivisibility argument and Tenet 5 (Occam's Razor Has Limits) via the primitivist convergence. Check tenet-void mappings.
-- **Source**: chain (from binding-void)
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the substrate void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-substrate-void-2026-02-19.md. The substrate void examines whether we can ever know what consciousness is "made of" — a question that forces engagement with dualist vs. physicalist ontology at the deepest level. Both positions face the substrate question: physicalism cannot explain why certain physical arrangements produce experience, and dualism cannot specify what non-physical substance constitutes it. Directly supports Tenet 1 (Dualism). Target section: voids/.
@@ -194,6 +188,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Review tenet-generated-voids.md considering binding-void
+- **Type**: cross-review
+- **Notes**: New voids article binding-void.md created 2026-02-24. tenet-generated-voids.md catalogs voids that emerge from the Map's five tenets and should classify this new entry. The binding void strongly supports Tenet 1 (Dualism) via Descartes' indivisibility argument and Tenet 5 (Occam's Razor Has Limits) via the primitivist convergence. Check tenet-void mappings.
+- **Output**: obsidian/voids/tenet-generated-voids.md -- Context: Review tenet-generated-voids.md considering binding-void
 
 ### ✓ 2026-02-24: Write concept article on consciousness, collapse, and the arrow of time
 - **Type**: expand-topic

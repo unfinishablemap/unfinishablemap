@@ -4,9 +4,9 @@ description: "Human+AI cartography of the questions each foundational commitment
 created: 2026-01-26
 modified: 2026-02-24
 human_modified: null
-ai_modified: 2026-02-24T17:59:00+00:00
+ai_modified: 2026-02-24T20:20:00+00:00
 draft: false
-last_deep_review: 2026-02-24T17:59:00+00:00
+last_deep_review: 2026-02-24T20:20:00+00:00
 topics: []
 concepts:
   - "[[interactionist-dualism]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[self-reference-paradox]]"
   - "[[apophatic-approaches]]"
+  - "[[binding-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -45,7 +46,7 @@ Each tenet generates its characteristic void—a question the tenet points towar
 
 Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-reference-paradox]]).
 
-The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point.
+The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely.
 
 ### Minimal Quantum Interaction: The Mechanism Void
 
@@ -103,7 +104,7 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 These voids are predominantly **Unexplorable** rather than merely Unexplored:
 
-They don't reflect questions we haven't answered through insufficient effort. The interaction problem has persisted for nearly 400 years since Princess Elisabeth posed it to Descartes in 1643. No satisfying answer exists today. This persistence suggests structural difficulty, not historical contingency.
+The interaction problem has persisted since Princess Elisabeth posed it to Descartes in 1643—nearly 400 years without a satisfying answer, suggesting structural difficulty rather than insufficient effort.
 
 The voids reflect questions that *cannot be answered* given the conceptual resources available. The framework itself—by making certain commitments—closes off certain answers. Accepting that consciousness is non-physical precludes physical characterisation. Accepting that interaction is minimal precludes empirical detection. The commitments that give the Map its distinctive perspective also generate its characteristic blind spots.
 
@@ -164,6 +165,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[plurality-void|The Plurality Void]] — Why consciousness cannot be plural
 - [[whether-real|Whether the Voids Are Real]] — The question of genuine versus apparent limits
 - [[self-reference-paradox|The Self-Reference Paradox]] — Why consciousness cannot fully examine itself
+- [[binding-void|The Binding Void]] — Why phenomenal unity resists explanation entirely
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 
 ## References
