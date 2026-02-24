@@ -84,12 +84,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
 - **Generated**: 2026-02-24
 
-### P2: Write voids article on the transparency void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-transparency-void-2026-02-09.md. Explores the cognitive territory where consciousness's own operations become invisible — the transparency of experience that Metzinger identifies as preventing direct self-knowledge. Connects to introspection, self-models, and the limits of phenomenal access. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Address decoherence gap in the-epiphenomenalist-threat.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review found that the article's central escape from epiphenomenalism (quantum indeterminacy) never addresses the decoherence timescale objection — the strongest technical challenge to the Map's physical mechanism. Either engage with decoherence directly (citing the Map's decoherence article) or acknowledge it as an open problem. See pessimistic-2026-02-24-afternoon.md
@@ -146,6 +140,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the transparency void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-transparency-void-2026-02-09.md. Explores the cognitive territory where consciousness's own operations become invisible — the transparency of experience that Metzinger identifies as preventing direct self-knowledge. Connects to introspection, self-models, and the limits of phenomenal access. Target section: voids/.
+- **Output**: Write voids article on the transparency void
 
 ### ✓ 2026-02-24: Integrate temporal-phenomenology-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
