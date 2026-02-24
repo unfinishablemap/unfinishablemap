@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review personal-identity.md considering autonoetic consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/autonoetic-consciousness.md examines self-projective temporal awareness — the capacity to mentally travel through subjective time. personal-identity.md covers persistence of identity across time and should cross-reference autonoetic consciousness as the phenomenological mechanism enabling temporal self-continuity. Check for cross-links and argument reinforcement.
-- **Source**: chain (from autonoetic-consciousness.md)
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review convergent-cognitive-limits.md considering adaptive cognitive limits framework
 - **Type**: cross-review
 - **Notes**: New article voids/adaptive-cognitive-limits.md distinguishes adaptive limits (evolved for fitness over truth) from architectural and occluded cognitive limits. convergent-cognitive-limits.md analyses where multiple cognitive approaches fail simultaneously. Should cross-reference the adaptive limits taxonomy to clarify whether convergent failures indicate architectural constraints or fitness-optimised blind spots. Check for cross-links and consistent framing.
@@ -170,6 +164,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review personal-identity.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md examines self-projective temporal awareness — the capacity to mentally travel through subjective time. personal-identity.md covers persistence of identity across time and should cross-reference autonoetic consciousness as the phenomenological mechanism enabling temporal self-continuity. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Cross-review personal-identity.md considering autonoetic consciousness insights
 
 ### ✓ 2026-02-24: Cross-review temporal-consciousness-void.md considering duration void insights
 - **Type**: cross-review
