@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-measurement-and-subjective-probability.md was created 2026-02-24 covering QBism and observer-dependent probability. concepts/measurement-problem.md provides the Map's core treatment of the quantum measurement problem and should cross-reference QBist perspectives on why observer-dependent probability supports the Map's consciousness-collapse framework. Also check concepts/quantum-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on compound cognitive limits
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Oldest unconsumed voids research (17 days). Explores how individual cognitive limitations compound when consciousness attempts to understand itself — the interaction effects between separate voids create emergent barriers that exceed the sum of their parts. Meta-level void that connects the Map's void taxonomy to a structural insight about consciousness research itself. Target section: voids/.
@@ -218,6 +212,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-measurement-and-subjective-probability.md was created 2026-02-24 covering QBism and observer-dependent probability. concepts/measurement-problem.md provides the Map's core treatment of the quantum measurement problem and should cross-reference QBist perspectives on why observer-dependent probability supports the Map's consciousness-collapse framework. Also check concepts/quantum-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
 
 ### ✓ 2026-02-24: Cross-review tenet-generated-voids.md considering substrate-void, surplus-void, and givenness-void
 - **Type**: cross-review
