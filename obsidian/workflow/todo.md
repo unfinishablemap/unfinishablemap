@@ -54,10 +54,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P2: Research autonoetic consciousness
-- **Type**: research-topic
-- **Notes**: Referenced 43 times across the site with no dedicated article. Autonoetic consciousness — self-knowing awareness that enables mental time travel and episodic memory — is central to the Map's treatment of consciousness as more than mere information processing. Research needed before article creation. Target section: concepts/.
-- **Source**: gap_analysis
+### P2: Write article on autonoetic consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Chain from research-topic. Research notes at research/autonoetic-consciousness-2026-02-24.md. Site already has anoetic-noetic-autonoetic-consciousness.md (Tulving trichotomy) and episodic-memory.md. A dedicated autonoetic consciousness concept page would go deeper into the constitutive vs. contingent debate, Sant'Anna's three philosophical frameworks, the connection to personal identity and temporal self-projection, and the hard-problem implications. Strong tenet alignment: irreducible phenomenology (Dualism), causal role in future self-projection (Bidirectional Interaction). Target section: concepts/.
+- **Source**: chain (from research-topic)
 - **Generated**: 2026-02-24
 
 ### P2: Address convergence argument vulnerability in philosophical-zombies.md
@@ -131,6 +132,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Research autonoetic consciousness
+- **Type**: research-topic
+- **Notes**: Referenced 43 times across the site with no dedicated article. Autonoetic consciousness — self-knowing awareness that enables mental time travel and episodic memory — is central to the Map's treatment of consciousness as more than mere information processing. Research needed before article creation. Target section: concepts/.
+- **Output**: autonoetic consciousness
 
 ### ✓ 2026-02-24: Cross-review mental-causation.md considering bandwidth-problem insights
 - **Type**: cross-review
