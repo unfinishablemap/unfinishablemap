@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the absorption void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-absorption-void-2026-02-22.md. The absorption void explores cognitive territories where the boundary between subject and object dissolves — flow states, deep meditation, aesthetic rapture. These absorption experiences challenge standard subject-object frameworks and reveal structural features of consciousness relevant to the Map's dualist framework. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the duration void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-duration-void-2026-02-23.md. The duration void examines the cognitive territory where temporal experience breaks down — how consciousness fails to grasp its own temporal extension, connecting to Bergson's durée and the phenomenology of time. Target section: voids/.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Covers the relationship between language and conscious experience — add cross-references from articles on phenomenology, cognitive phenomenology, inner speech, and thought.
 - **Source**: orphan_integration
+- **Generated**: 2026-02-24
+
+### P2: Cross-review the-unobservable-self.md considering absorption void insights
+- **Type**: cross-review
+- **Notes**: New article voids/absorption-void.md examines the paradox of self-opacity during peak conscious engagement. the-unobservable-self.md covers the subject that cannot be its own object. Should cross-reference the absorption void as a specific instance where self-observation fails — not because the self is structurally hidden but because observation terminates the state being observed. Check for cross-links and argument reinforcement.
+- **Source**: chain (from absorption-void.md)
 - **Generated**: 2026-02-24
 
 ### P2: Integrate temporal-phenomenology-quantum-selection.md into site navigation
@@ -164,6 +164,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the absorption void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-absorption-void-2026-02-22.md. The absorption void explores cognitive territories where the boundary between subject and object dissolves — flow states, deep meditation, aesthetic rapture. These absorption experiences challenge standard subject-object frameworks and reveal structural features of consciousness relevant to the Map's dualist framework. Target section: voids/.
+- **Output**: Write voids article on the absorption void
 
 ### ✓ 2026-02-24: Cross-review contemplative-evidence-for-consciousness.md considering contemplative-pathology insights
 - **Type**: cross-review

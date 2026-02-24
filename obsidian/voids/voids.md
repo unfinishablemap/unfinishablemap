@@ -94,6 +94,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[cognitive-aversion|Cognitive Aversion]] — Thoughts we systematically flee
 - [[attention-created-voids|Attention-Created Voids]] — What attention excludes by selecting
 - [[habituation-void|The Habituation Void]] — How familiarity erases experience from consciousness
+- [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
 - [[phenomenology-of-error-recognition|The Phenomenology of Error Recognition]] — Detecting one's own mistakes
 
