@@ -2,9 +2,9 @@
 title: "Neural Bandwidth Constraints and the Interface"
 description: "Conscious processing operates at ~10 bits/second while the brain handles trillions. This bottleneck reveals what the mind-brain interface is and isn't—a narrow selection channel, not a production line."
 created: 2026-02-09
-modified: 2026-02-09
+modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-10T19:55:00+00:00
+ai_modified: 2026-02-24T00:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,17 +21,21 @@ concepts:
   - "[[motor-selection]]"
   - "[[baseline-cognition]]"
   - "[[interactionist-dualism]]"
+  - "[[bandwidth-problem-mental-causation]]"
+  - "[[downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-as-selection-interface]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[embodied-consciousness-and-the-interface]]"
+  - "[[mental-causation]]"
+  - "[[conservation-laws-and-mind]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-10T19:55:00+00:00
+last_deep_review: 2026-02-24T00:36:00+00:00
 ---
 
 Conscious processing operates at roughly 10 bits per second. The brain's unconscious systems handle on the order of 10⁹ bits per second. This ratio—one to a hundred million—is perhaps the most revealing empirical fact about The Unfinishable Map's central question: how consciousness relates to the brain. The bandwidth constraint is not an incidental limitation. It defines the *shape* of the mind-brain interface, distinguishing what consciousness does from what the brain does, and exposing why production models of consciousness face a problem that [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] models handle naturally.
@@ -78,6 +82,8 @@ This architecture explains the asymmetry. The brain's vast processing power is d
 
 A CEO doesn't process every email in the company. The organisation filters, prioritises, and packages information into decisions the CEO can act on. The CEO's bandwidth is narrow relative to the organisation's—but the CEO's contribution (strategic direction, value-laden choice) cannot be replaced by more organisational processing.
 
+The bandwidth constraint is not only evidence for the interface model—it also creates a distinctive challenge. Even granting that consciousness selects among prepared options, the [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] asks whether a 10-bit/second channel carries enough *specificity* to produce the complex behaviour we observe. The hierarchical selection architecture answers this: consciousness specifies goals, not motor coordinates, and the brain's unconscious systems translate coarse-grained selections into fine-grained execution. The challenge and the response together define the interface's architecture.
+
 ## The Bandwidth Shapes the Interface
 
 The specific rate—~10 bits per second—constrains what kind of selection consciousness performs.
@@ -90,7 +96,7 @@ This matches the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interacti
 
 ### ~3-4 Selections Per Second
 
-At ~10 bits per second with typical binary-to-quaternary choice complexity, consciousness makes roughly 3-4 selections per second. This matches the phenomenology of deliberate decision-making. In rapid tasks, we experience choosing at about this rate; faster performance becomes automatic and drops out of conscious control.
+At ~10 bits per second, with each selection choosing among a small set of alternatives, consciousness makes on the order of 3-4 selections per second. This matches the phenomenology of deliberate decision-making. In rapid tasks, we experience choosing at about this rate; faster performance becomes automatic and drops out of conscious control.
 
 The ~280-300ms timing window for [[motor-selection|motor commitment]] and [[voluntary-attention|willed attention deployment]] aligns. If conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
 
@@ -168,6 +174,10 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [[quantum-neural-timing-constraints]] — Timing constraints on quantum consciousness mechanisms
 - [[baseline-cognition]] — What the brain achieves without conscious involvement
 - [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism in detail
+- [[bandwidth-problem-mental-causation]] — The specification challenge: can 10 bits/second carry enough information for complex behaviour?
+- [[mental-causation]] — The philosophical problem of mental-to-physical causation and the Map's quantum response
+- [[conservation-laws-and-mind]] — Energy conservation and why selection without injection respects physics
+- [[downward-causation]] — The broader framework for consciousness influencing physical outcomes
 - [[global-workspace-theory]] — The materialist account of serial broadcasting and its limitations
 - [[libet-experiments]] — The neural preparation findings and why they don't defeat free will
 - [[access-consciousness]] — The distinction between phenomenal and access consciousness
