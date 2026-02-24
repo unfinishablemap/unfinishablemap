@@ -48,10 +48,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The incubation effect (solutions arriving during non-attention) provides evidence for both delegatory processing and consciousness-as-selector. The "aha" moment's phenomenal structure—sudden gestalt shift from confusion to clarity—may reveal consciousness recognising solutions unconscious processing generated, instantiating the bidirectional architecture. Builds on phenomenology-of-flow-states.md, consciousness-and-aesthetic-creation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-23-night.md
 - **Generated**: 2026-02-22
 
-### P2: Create concept page for phenomenal-unity
-- **Type**: expand-topic
-- **Notes**: Referenced 46 times across the site with no dedicated article. Phenomenal unity — the binding of disparate sensory and cognitive elements into a single unified conscious experience — is central to consciousness theory, the binding problem, and the Map's treatment of how non-physical consciousness integrates information. Target section: concepts/.
-- **Source**: gap_analysis
+### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
+- **Type**: other
+- **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
+- **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
 ### P2: Cross-review neural-bandwidth-constraints-and-the-interface.md considering bandwidth-problem insights
@@ -131,6 +131,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Create concept page for phenomenal-unity
+- **Type**: expand-topic
+- **Notes**: Referenced 46 times across the site with no dedicated article. Phenomenal unity — the binding of disparate sensory and cognitive elements into a single unified conscious experience — is central to consciousness theory, the binding problem, and the Map's treatment of how non-physical consciousness integrates information. Target section: concepts/.
+- **Output**: Create concept page for phenomenal-unity
 
 ### ✓ 2026-02-24: Write voids article on evidential weight of voids
 - **Type**: expand-topic
