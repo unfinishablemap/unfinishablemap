@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the substrate void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-substrate-void-2026-02-19.md. The substrate void examines whether we can ever know what consciousness is "made of" — a question that forces engagement with dualist vs. physicalist ontology at the deepest level. Both positions face the substrate question: physicalism cannot explain why certain physical arrangements produce experience, and dualism cannot specify what non-physical substance constitutes it. Directly supports Tenet 1 (Dualism). Target section: voids/.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-24
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -188,6 +182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the substrate void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-substrate-void-2026-02-19.md. The substrate void examines whether we can ever know what consciousness is "made of" — a question that forces engagement with dualist vs. physicalist ontology at the deepest level. Both positions face the substrate question: physicalism cannot explain why certain physical arrangements produce experience, and dualism cannot specify what non-physical substance constitutes it. Directly supports Tenet 1 (Dualism). Target section: voids/.
+- **Output**: Write voids article on the substrate void
 
 ### ✓ 2026-02-24: Review tenet-generated-voids.md considering binding-void
 - **Type**: cross-review
