@@ -2,7 +2,7 @@
 title: "Apex Evolve Review: Time, Consciousness, and the Growing Block"
 created: 2026-02-24
 modified: 2026-02-24
-draft: true
+draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ---

@@ -18,6 +18,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 13:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Indexical Void
+- **Output**: [indexical-void](/voids/indexical-void/)
+- **Word count**: 1427
+- **Based on research**: yes, [voids-indexical-void-2026-02-24](/research/voids-indexical-void-2026-02-24/)
+
+## 2026-02-24 13:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Changes**: Added "The Decoherence Challenge" section addressing strongest technical objection; pinned Kim citation; added decoherence cross-references and references
+- **Published**: yes
+
 ## 2026-02-24 13:15 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Indexical Void

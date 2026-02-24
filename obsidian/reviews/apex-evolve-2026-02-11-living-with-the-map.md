@@ -2,7 +2,7 @@
 title: "Apex Evolve Review: Living with the Map"
 created: 2026-02-11
 modified: 2026-02-11
-draft: true
+draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-11

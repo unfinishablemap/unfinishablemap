@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 concepts: []
 created: 2026-02-11
 date: &id001 2026-02-11
-draft: true
+draft: false
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Living with the Map'
