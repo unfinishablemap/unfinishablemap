@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the binding void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-binding-void-2026-02-15.md. The binding void explores why unified conscious experience from distributed neural processing remains a permanent explanatory gap. Phenomenal binding resists both physical and computational explanation — a void that strengthens the case for non-reductive approaches. Supports Tenet 1 (Dualism). Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the agency verification void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-agency-verification-void-2026-02-15.md. The agency verification void examines whether genuine agency can ever be confirmed from the inside or outside — if consciousness causally contributes to action (Tenet 3), can we ever verify this, or does the verification gap itself reveal something about consciousness's causal structure? Supports Tenet 3 (Bidirectional Interaction). Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Write concept article on consciousness, collapse, and the arrow of time
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. If consciousness-caused collapse is real, it may explain temporal asymmetry — why time appears to flow in one direction. This connects the measurement problem to the phenomenology of temporal experience. One of the oldest unconsumed research notes (Jan 14). Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Review tenet-generated-voids.md considering 5 new void articles
+- **Type**: cross-review
+- **Notes**: Five new void articles created 2026-02-24 (plurality-void, observation-void, ownership-void, surplus-void, givenness-void). tenet-generated-voids.md catalogs voids that emerge from the Map's five tenets and should classify these new entries under the appropriate tenet categories. Check which tenet generates each new void, add cross-links, and verify the tenet-void mappings remain accurate.
+- **Source**: chain (from plurality-void, observation-void, ownership-void, surplus-void, givenness-void)
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the substrate void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-substrate-void-2026-02-19.md. The substrate void examines whether we can ever know what consciousness is "made of" — a question that forces engagement with dualist vs. physicalist ontology at the deepest level. Both positions face the substrate question: physicalism cannot explain why certain physical arrangements produce experience, and dualism cannot specify what non-physical substance constitutes it. Directly supports Tenet 1 (Dualism). Target section: voids/.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-24
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
