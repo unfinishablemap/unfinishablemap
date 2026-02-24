@@ -174,12 +174,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
 - **Generated**: 2026-02-24
 
-### P2: Address filter model unfalsifiability and smuggled assumptions in dreams-and-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-24
-
 ### P2: Add causal caveats to meditation-introspection evidence in introspection.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-24 evening) found Fox et al. (2012) cross-sectional study treated with causal language ("training dramatically improves accuracy") despite inability to rule out self-selection. Also: microphenomenology's "performative coherence" criterion is circular and goes unacknowledged. Medium severity. See pessimistic-2026-02-24-evening.md
@@ -206,6 +200,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Address filter model unfalsifiability and smuggled assumptions in dreams-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
+- **Output**: obsidian/concepts/dreams-and-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
 
 ### ✓ 2026-02-24: Address phenomenology-to-metaphysics gap in free-will.md
 - **Type**: refine-draft

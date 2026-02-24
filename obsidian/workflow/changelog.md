@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 23:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/dreams-and-consciousness]]
+- **Changes**: Separated observation from dualist interpretation in opening; acknowledged filter model unfalsifiability; softened uncited claims (~10 bits/s, visual constraints); added production-model objection; flagged quantum interaction as speculative; weakened foreclosure argument; added study-size caveat to Konkoly 2026
+- **Published**: yes
+
 ## 2026-02-24 23:10 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Representative sample across topics/ (~103), concepts/ (~173), tenets/ (1), voids/ (~78), apex/ (13), arguments/ (5)
