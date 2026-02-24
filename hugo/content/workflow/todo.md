@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced formal-systems articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/). The following files reference archived articles and may need review: consciousness-and-the-grounds-of-normative-authority.md, consciousness-and-testimony.md, phenomenology-of-understanding.md, self-stultification-as-master-argument.md, phenomenology-of-philosophical-disagreement.md, galilean-exclusion.md
-- **Source**: coalesce
-- **Generated**: 2026-02-24
-
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -59,20 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
 - **Source**: chain (from phenomenal-unity)
-- **Generated**: 2026-02-24
-
-### P2: Address convergence argument vulnerability in philosophical-zombies.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the convergence argument (seven arguments converging on dualism) may reflect shared presuppositions rather than independent confirmation. If phenomenal concepts are confused, all seven arguments fail collectively. Article should acknowledge this dependency and explain why the Map considers the foundational commitment (phenomenal consciousness is real) more secure than theories denying it. See pessimistic-2026-02-24.md Issue #1.
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-24
-
-### P2: Fix question-begging TV analogy in neural-correlates-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the television analogy in the "Correlation Is Not Identity" section presupposes filter theory (brain receives consciousness from external source) while claiming philosophical neutrality. Either pair with a physicalist analogy for genuine neutrality or acknowledge the analogy's perspective. Also: cite the "25% covert consciousness" statistic and qualify "clear signs." See pessimistic-2026-02-24.md Issues #2 and #4.
-- **Source**: pessimistic-review
 - **Generated**: 2026-02-24
 
 ### P2: Address gap-to-consciousness non-sequitur in measurement-problem.md
@@ -132,6 +112,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Fix question-begging TV analogy in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the television analogy in the "Correlation Is Not Identity" section presupposes filter theory (brain receives consciousness from external source) while claiming philosophical neutrality. Either pair with a physicalist analogy for genuine neutrality or acknowledge the analogy's perspective. Also: cite the "25% covert consciousness" statistic and qualify "clear signs." See pessimistic-2026-02-24.md Issues #2 and #4.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+Task context:
+Pessimistic review found the television analogy in the "Correlation Is Not Identity" section presupposes filter theory (brain receives consciousness from external source) while claiming philosophical neutrality. Either pair with a physicalist analogy for genuine neutrality or acknowledge the analogy's perspective. Also: cite the "25% covert consciousness" statistic and qualify "clear signs." See pessimistic-2026-02-24.md Issues #2 and #4.
+
+### ✓ 2026-02-24: Address convergence argument vulnerability in philosophical-zombies.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the convergence argument (seven arguments converging on dualism) may reflect shared presuppositions rather than independent confirmation. If phenomenal concepts are confused, all seven arguments fail collectively. Article should acknowledge this dependency and explain why the Map considers the foundational commitment (phenomenal consciousness is real) more secure than theories denying it. See pessimistic-2026-02-24.md Issue #1.
+- **Output**: obsidian/concepts/philosophical-zombies.md
+
+Task context:
+Pessimistic review found the convergence argument (seven arguments converging on dualism) may reflect shared presuppositions rather than independent confirmation. If phenomenal concepts are confused, all seven arguments fail collectively. Article should acknowledge this dependency and explain why the Map considers the foundational commitment (phenomenal consciousness is real) more secure than theories denying it. See pessimistic-2026-02-24.md Issue #1.
+
+### ✓ 2026-02-24: Update references to coalesced formal-systems articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/). The following files reference archived articles and may need review: consciousness-and-the-grounds-of-normative-authority.md, consciousness-and-testimony.md, phenomenology-of-understanding.md, self-stultification-as-master-argument.md, phenomenology-of-philosophical-disagreement.md, galilean-exclusion.md
+- **Output**: None -- Context: Update references to coalesced formal-systems articles
 
 ### ✓ 2026-02-24: Write article on autonoetic consciousness
 - **Type**: expand-topic

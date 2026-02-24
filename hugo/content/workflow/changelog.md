@@ -18,6 +18,36 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 06:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Changes**: Fixed TV analogy bias by pairing with physicalist analogy for genuine neutrality; qualified "clear signs" language and added Kondziella et al. citation for 25% covert consciousness statistic
+- **Published**: yes
+
+## 2026-02-24 06:38 UTC - deep-review
+- **Status**: Success
+- **File**: [language-and-consciousness](/concepts/language-and-consciousness/)
+- **Word count**: 1594 → 1756 (+162)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 cross-links added, rule-following argument expanded, Carnap/Searle citations corrected
+- **Output**: [deep-review-2026-02-24-language-and-consciousness](/reviews/deep-review-2026-02-24-language-and-consciousness/)
+
+## 2026-02-24 06:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Changes**: Addressed convergence argument shared-presupposition vulnerability (Issue #1), qualified conceivability claim as dualist position, integrated Process Philosophy into conceivability section, acknowledged condition 4 epistemic insulation, removed colloquialism, strengthened self-stultification language
+- **Published**: yes
+
+## 2026-02-24 06:08 UTC - deep-review
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Word count**: 1484 → 1650 (+166)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-24-somatic-interface](/reviews/deep-review-2026-02-24-somatic-interface/)
+
 ## 2026-02-24 05:55 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/), [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-formal-systems/)

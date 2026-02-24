@@ -91,6 +91,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
 - **Generated**: 2026-02-24
 
+### P2: Write voids article on adaptive cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-adaptive-cognitive-limits-2026-02-08.md. Examines how cognitive systems encounter structural limits on adaptability — when the mechanisms that enable learning and flexibility themselves constrain what can be known. Oldest unconsumed voids research. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Integrate temporal-phenomenology-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. This concept article connects Husserlian temporal phenomenology to quantum selection mechanisms — directly relevant to Tenet 2 (Minimal Quantum Interaction). Add cross-references from temporal-consciousness.md, time-symmetric-selection-mechanism.md, quantum-consciousness.md, or related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-24
+
+### P2: Cross-review binding-problem.md considering phenomenal-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenal-unity.md (2026-02-24) provides dedicated treatment of the unity of conscious experience. concepts/binding-problem.md is the core article on why unified experience from distributed processing is problematic and should cross-reference the new phenomenal-unity analysis. Check for cross-links, reinforcing arguments, and consistent terminology. Supports Tenet 1 (Dualism).
+- **Source**: chain (from phenomenal-unity.md)
+- **Generated**: 2026-02-24
+
+### P2: Cross-review contemplative-evidence-for-consciousness.md considering contemplative-pathology insights
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-pathology-and-interface-malfunction.md (2026-02-23) examines what happens when contemplative practice produces adverse effects — dissociation, depersonalisation, the "dark night." topics/contemplative-evidence-for-consciousness.md is the main contemplative article and should acknowledge these failure modes as additional evidence about interface structure. Check for cross-links and balanced treatment. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from contemplative-pathology-and-interface-malfunction.md)
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the transparency void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-transparency-void-2026-02-09.md. Explores the cognitive territory where consciousness's own operations become invisible — the transparency of experience that Metzinger identifies as preventing direct self-knowledge. Connects to introspection, self-models, and the limits of phenomenal access. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P3: Deep review phenomenology-of-consciousness-doing-work.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
+### P3: Deep review samkhya-three-way-distinction.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept article on Samkhya's consciousness/mind/gross-matter trichotomy — an independent philosophical tradition that enriches the Map's dualism with non-Western conceptual resources. Verify claims about Samkhya philosophy, check tenet alignment, and ensure accurate representation of the tradition. Supports Tenet 1 (Dualism).
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
