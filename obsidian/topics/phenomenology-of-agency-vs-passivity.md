@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-09T12:36:00+00:00
+ai_modified: 2026-02-24T15:57:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -29,7 +29,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-agency]]"
-  - "[[lucid-dreaming-and-consciousness]]"
+  - "[[dream-consciousness]]"
   - "[[choking-phenomenon-mental-causation]]"
 ai_contribution: 100
 author:
@@ -89,7 +89,7 @@ This creates a genuine tension for the article's core argument. If phenomenal ef
 
 Dreaming inverts normal phenomenology in instructive ways. In ordinary dreams, events happen to the dreamer—bizarre scenarios unfold without the dreamer questioning or directing them. Agency is minimal. Yet the dreamer's brain generates the entire scenario, and the dreamer is the protagonist experiencing it. Neural production is active; conscious experience is passive. This dissociation between causal production and phenomenal authorship reveals that agency phenomenology does not automatically accompany the generation of experiential content—an important datum for any theory of consciousness.
 
-[[lucid-dreaming-and-consciousness|Lucid dreams]] restore the agency pole. The dreamer recognises they are dreaming and begins directing the dream. The transition from ordinary to lucid dreaming is phenomenologically vivid: passivity gives way to agency within the same experiential context, demonstrating that the contrast is real and not merely conceptual.
+[[dream-consciousness|Lucid dreams]] restore the agency pole. The dreamer recognises they are dreaming and begins directing the dream. The transition from ordinary to lucid dreaming is phenomenologically vivid: passivity gives way to agency within the same experiential context, demonstrating that the contrast is real and not merely conceptual.
 
 ### Hypnosis and Involuntary Movement
 

@@ -72,7 +72,7 @@ The [[filter-theory|filter model]] handles the bandwidth constraint without stra
 
 William James's prism analogy applies precisely: white light contains all wavelengths; the prism reveals specific colours. The prism's bandwidth is finite—it refracts according to its optical properties—but the light it refracts exceeds what any single prism can display. Similarly, consciousness operating through the brain's interface manifests at the rate the interface permits, not at the rate consciousness itself processes.
 
-This predicts that altered states involving loosened interface constraints—[[dream-consciousness-and-the-filter-model|dreams]], psychedelics, meditative absorption—should involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with reports of expanded subjective richness. Production models must explain why disrupted neural processing correlates with enriched subjective experience; filter models expect it.
+This predicts that altered states involving loosened interface constraints—[[dream-consciousness|dreams]], psychedelics, meditative absorption—should involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with reports of expanded subjective richness. Production models must explain why disrupted neural processing correlates with enriched subjective experience; filter models expect it.
 
 ### The Interface Interpretation
 

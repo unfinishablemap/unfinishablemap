@@ -4,7 +4,7 @@ description: "Human+AI exploration of state-dependent cognitive limits—what wa
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-03T07:37:00+00:00
+ai_modified: 2026-02-24T15:57:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
   - "[[dreams-and-consciousness]]"
-  - "[[lucid-dreaming-and-consciousness]]"
+  - "[[dream-consciousness]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[the-unobservable-self]]"
@@ -94,7 +94,7 @@ What does approaching the dream consciousness void feel like?
 
 ## Lucid Dreaming as Partial Bridge
 
-[[lucid-dreaming-and-consciousness|Lucid dreaming]]—awareness within the dream that one is dreaming—offers partial access across the void. The 2025 Demirel study establishes that lucid dreaming is a distinct consciousness state with its own neural signature, not merely a blend of waking and REM.
+[[dream-consciousness|Lucid dreaming]]—awareness within the dream that one is dreaming—offers partial access across the void. The 2025 Demirel study establishes that lucid dreaming is a distinct consciousness state with its own neural signature, not merely a blend of waking and REM.
 
 Yet lucid dreaming does not close the void:
 - Lucid dreams are still not full waking—cognition remains altered
@@ -153,7 +153,7 @@ The evidence currently favors genuine bidirectional inaccessibility. But the voi
 - [[voids|Voids in the Map]] — The broader framework for cognitive dark spaces
 - [[three-kinds-of-void|Three Kinds of Void]] — The unexplored, unexplorable, and occluded
 - [[dreams-and-consciousness|Dreams and Consciousness]] — How dreams illuminate the consciousness-brain relationship
-- [[lucid-dreaming-and-consciousness|Lucid Dreaming and Consciousness]] — The distinct state of aware dreaming
+- [[dream-consciousness|Lucid Dreaming and Consciousness]] — The distinct state of aware dreaming
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[altered-states-of-consciousness|Altered States of Consciousness]] — Dreams within the taxonomy of consciousness reconfiguration

@@ -4,7 +4,7 @@ description: "Dreams show consciousness generating immersive experiential worlds
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-06T08:18:00+00:00
+ai_modified: 2026-02-24T15:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,8 +28,7 @@ concepts:
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[lucid-dreaming-and-consciousness]]"
-  - "[[dreams-problem-solving-and-consciousness]]"
+  - "[[dream-consciousness]]"
   - "[[consciousness-dreams-2026-01-14]]"
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
 ai_contribution: 100
@@ -42,7 +41,7 @@ last_deep_review: 2026-02-06T08:18:00+00:00
 
 Dreams demonstrate that consciousness generates fully immersive experiential worlds without external sensory input. We see, hear, and navigate environments that appear entirely real while the brain receives no environmental information. This supports the [[filter-theory|filter/transmission model]]: if the brain merely *produced* consciousness from sensory input, dream richness would be puzzling; if consciousness uses the brain as a rendering engine, dreams are what happens when the filter operates without external constraint.
 
-[[lucid-dreaming-and-consciousness|Lucid dreaming]]—maintaining awareness that one is dreaming—further illuminates consciousness's nature. The 2025 Demirel findings identify it as a distinct consciousness state with its own neural signature, proving consciousness can stabilize novel modes of operation and exercise volitional control during sleep.
+[[dream-consciousness|Lucid dreaming]]—maintaining awareness that one is dreaming—further illuminates consciousness's nature. The 2025 Demirel findings identify it as a distinct consciousness state with its own neural signature, proving consciousness can stabilize novel modes of operation and exercise volitional control during sleep.
 
 ## Dreams as Genuine Experience
 
@@ -64,7 +63,7 @@ Dreams provide unique evidence about consciousness-brain relationships:
 
 **Dreams transcend physical laws**: Yet we fly, teleport, and violate causality without puzzlement. The brain's physics engine doesn't constrain dreams as it constrains waking perception, suggesting consciousness can construct experiential worlds using but not bound by neural processing.
 
-**Problem-solving capacity**: Dreams actively solve problems that defeat waking cognition. Konkoly et al. (2026) demonstrated that when puzzle-associated soundtracks were played during REM, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles. Dreamers generated novel approaches—not mere replay of waking attempts. This supports the view that dream consciousness performs genuine cognitive work, not passive accompaniment of unconscious processing. For extended treatment, see [[dreams-problem-solving-and-consciousness]].
+**Problem-solving capacity**: Dreams actively solve problems that defeat waking cognition. Konkoly et al. (2026) demonstrated that when puzzle-associated soundtracks were played during REM, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles. Dreamers generated novel approaches—not mere replay of waking attempts. This supports the view that dream consciousness performs genuine cognitive work, not passive accompaniment of unconscious processing. For extended treatment, see [[dream-consciousness|dream problem-solving research]].
 
 **Dissociation of consciousness components**: Dreams heighten some aspects (vivid percepts, strong emotions, narrative immersion) while suppressing others (critical judgment, metacognition, temporal orientation). This dissociation suggests consciousness has separable components. Lucid dreaming reactivates suppressed components—prefrontal cortex comes back online—while preserving immersion.
 
@@ -115,7 +114,7 @@ The regress problem intensifies: if dreams involve quasi-phenomenal states that 
 
 Consider a [[philosophical-zombies|zombie]] dreamer: functionally identical but with no phenomenal experience. If illusionism is correct, such zombies are possible—nothing phenomenal occurs during human dreams either. But the verified functional profile (temporal extension, emotional engagement, problem-solving) makes the additional claim that "nothing is really experienced" explanatorily empty.
 
-Type-B physicalists offer a different response, accepting the explanatory gap while denying it reflects an ontological gap. For a fuller engagement with Type-B physicalism and the phenomenal concepts strategy, see [[lucid-dreaming-and-consciousness#Type-B Physicalism and the Lucidity Transition|the discussion in the lucid dreaming article]].
+Type-B physicalists offer a different response, accepting the explanatory gap while denying it reflects an ontological gap. For a fuller engagement with Type-B physicalism and the phenomenal concepts strategy, see [[dream-consciousness#Challenges Illusionism and Epiphenomenalism|the discussion in the dream consciousness article]].
 
 ## Relation to Site Perspective
 
@@ -127,7 +126,7 @@ Dreams bear directly on The Unfinishable Map's [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness operates through [[interactionist-dualism|attention-mediated quantum effects]] during waking, dreams might represent altered interface parameters. The phenomenology of lucid dreaming as "interface reactivation" makes testable predictions: lucid dreams should show signatures closer to waking attention patterns, which recent research confirms.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If all quantum outcomes occur in parallel branches, the question "why am I having *this* dream?" becomes meaningless. The felt singularity of each dream—this particular narrative rather than another—makes sense only if dream events are genuinely selected. Dream yoga's practice of recognizing *this* dream as dream assumes particular [[haecceity|thisness]]; parallel occurrence dissolves such discriminations. Furthermore, the [[lucid-dreaming-and-consciousness|phenomenology of lucid dream control]] involves *foreclosure*—choosing to fly feels like eliminating the not-flying option, not bifurcating into a dreamer who flies and one who doesn't. This phenomenology of genuine elimination fits collapse interpretations where selection is real.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If all quantum outcomes occur in parallel branches, the question "why am I having *this* dream?" becomes meaningless. The felt singularity of each dream—this particular narrative rather than another—makes sense only if dream events are genuinely selected. Dream yoga's practice of recognizing *this* dream as dream assumes particular [[haecceity|thisness]]; parallel occurrence dissolves such discriminations. Furthermore, the [[dream-consciousness|phenomenology of lucid dream control]] involves *foreclosure*—choosing to fly feels like eliminating the not-flying option, not bifurcating into a dreamer who flies and one who doesn't. This phenomenology of genuine elimination fits collapse interpretations where selection is real.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Dream yoga, developed through systematic first-person investigation over a millennium, reveals aspects of consciousness inaccessible to third-person neuroscience. Dismissing this tradition as "unscientific" applies Occam's Razor where its reliability is unknown.
 
@@ -145,8 +144,7 @@ The filter theory interpretation would face difficulties if:
 
 ## Further Reading
 
-- [[lucid-dreaming-and-consciousness]] — Lucid dreaming as distinct consciousness state
-- [[dreams-problem-solving-and-consciousness]] — Dream problem-solving as evidence for consciousness's causal efficacy
+- [[dream-consciousness]] — Lucid dreaming, problem-solving, and the filter model applied to dreams
 - [[sleep-and-consciousness]] — Consciousness gradations during sleep
 - [[dream-consciousness-void]] — The bidirectional void: waking cannot access dreaming, dreaming cannot access waking
 - [[attention-as-interface]] — The interface hypothesis for dream states

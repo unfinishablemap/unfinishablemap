@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-02-23T04:29:00+00:00
+ai_modified: 2026-02-24T15:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated: null
-last_deep_review: 2026-02-23T04:29:00+00:00
+last_deep_review: 2026-02-24T15:57:00+00:00
 coalesced_from:
   - "/topics/lucid-dreaming-and-consciousness/"
   - "/topics/dreams-problem-solving-and-consciousness/"
@@ -72,7 +72,7 @@ Lucid dreaming—becoming aware that one is dreaming while the dream continues�
 
 ### Metacognition and Prefrontal Structure
 
-Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while remaining immersed. This involves [[autonoetic-consciousness|autonoetic awareness]]: the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. Researchers at the Max Planck Institutes found that frequent lucid dreamers have **larger anterior prefrontal cortex volume** and **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition. The trainability of lucid dreaming (through reality testing, mnemonic induction, and other techniques) suggests practice shapes structure, paralleling changes observed in long-term [[meditation-and-consciousness-modes|meditators]].
+Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while remaining immersed. This involves [[autonoetic-consciousness|autonoetic awareness]]: the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. Frequent lucid dreamers have **larger anterior prefrontal cortex volume** and **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition (Baird et al., 2018). The trainability of lucid dreaming (through reality testing, mnemonic induction, and other techniques) suggests practice shapes structure, paralleling changes observed in long-term [[meditation-and-consciousness-modes|meditators]].
 
 ### Predictive Processing and Dream Bizarreness
 
@@ -178,6 +178,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 
 ## References
 
+- Baird, B., Castelnovo, A., Gosseries, O., & Tononi, G. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
 - Cai, D. J., Mednick, S. A., Harrison, E. M., Kanady, J. C., & Mednick, S. C. (2009). REM, not incubation, improves creativity by priming associative networks. *Proceedings of the National Academy of Sciences*, 106(25), 10130-10134.
 - Demirel, Ç. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20).
 - Haar Horowitz, A., Esfahany, K., Gálvez, T., Maes, P., & Stickgold, R. (2023). Targeted dream incubation at sleep onset increases post-sleep creative performance. *Scientific Reports*, 13, 7319.

@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 15:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/dream-consciousness]]
+- **Word count**: 2953 → 2979 (+26)
+- **Critical issues addressed**: 0 (article stable from previous review)
+- **Medium issues addressed**: 3 (missing citation, broken slug references, stale hugo files)
+- **Enhancements made**: 22 cross-reference fixes across 10 files, 3 stale hugo files removed
+- **Context**: Redirected from archived dream-consciousness-and-the-filter-model.md to living coalesced article
+- **Output**: [[reviews/deep-review-2026-02-24-dream-consciousness]]
+
 ## 2026-02-24 15:42 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Ownership Void

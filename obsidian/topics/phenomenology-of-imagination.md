@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-18T17:47:00+00:00
+ai_modified: 2026-02-24T15:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[distinctiveness-of-human-creativity]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
-  - "[[dream-consciousness-and-the-filter-model]]"
+  - "[[dream-consciousness]]"
   - "[[phenomenology-of-moral-experience]]"
   - "[[creativity-void]]"
 ai_contribution: 100
@@ -116,7 +116,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[consciousness-and-aesthetic-creation]] — Imagination in artistic creation
 - [[distinctiveness-of-human-creativity]] — Why human imagination differs from computational generation
 - [[phenomenology-of-understanding]] — The felt quality of grasping meaning
-- [[dream-consciousness-and-the-filter-model]] — Dreams as involuntary imagination
+- [[dream-consciousness]] — Dreams as involuntary imagination
 - [[phenomenology-of-moral-experience]] — Moral imagination and the felt quality of ethical perception
 - [[creativity-void]] — The opacity of consciousness's generative processes
 

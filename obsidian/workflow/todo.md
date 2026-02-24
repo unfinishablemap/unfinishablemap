@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dream-consciousness-and-the-filter-model.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links from any other content on the site. Add cross-references from related articles (e.g., filter-theory.md, dream-consciousness.md, altered-states articles) or update section index pages to include navigation to this content. Created 2026-02-09.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
-### P2: Cross-review personal-identity.md considering plurality void insights
-- **Type**: cross-review
-- **Notes**: New article voids/plurality-void.md explores the constitutive singularity of consciousness — we cannot conceive what it would be like to be multiple subjects at once. topics/personal-identity.md covers identity and should cross-reference the plurality void's arguments about why identity is necessarily singular. Check for cross-links and reinforcing arguments.
-- **Source**: chain (from plurality-void.md)
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering autonoetic consciousness insights
 - **Type**: cross-review
 - **Notes**: New article concepts/autonoetic-consciousness.md examines self-knowing awareness and mental time travel as raising the hard problem in miniature. topics/hard-problem-of-consciousness.md is the central hub and should cross-reference autonoetic consciousness as a specific domain where the explanatory gap is especially vivid. Check for cross-links.
@@ -177,6 +165,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Integrate dream-consciousness-and-the-filter-model.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any other content on the site. Add cross-references from related articles (e.g., filter-theory.md, dream-consciousness.md, altered-states articles) or update section index pages to include navigation to this content. Created 2026-02-09.
+- **Output**: dream-consciousness-and-the-filter-model.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-24: Write voids article on the ownership void
 - **Type**: expand-topic
