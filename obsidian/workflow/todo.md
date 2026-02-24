@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the observation void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-observation-void-2026-02-22.md. The observation void examines the gap between the act of observing and what observation reveals — whether conscious observation constitutes reality or merely accesses it. Directly supports Tenet 2 (Minimal Quantum Interaction) by exploring the limits of what observation can accomplish. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Write voids article on the minimal consciousness void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-minimal-consciousness-void-2026-02-22.md. The minimal consciousness void examines the boundary between what counts as conscious and what does not — the threshold below which consciousness disappears. Directly supports Tenet 1 (Dualism) by probing what is irreducibly conscious versus merely physical. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the ownership void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-ownership-void-2026-02-18.md. The ownership void addresses why experiences belong to a particular subject — the gap between having an experience and it being mine. Relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of how consciousness is coupled to specific physical systems. Target section: voids/.
@@ -188,6 +176,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the observation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-observation-void-2026-02-22.md. The observation void examines the gap between the act of observing and what observation reveals — whether conscious observation constitutes reality or merely accesses it. Directly supports Tenet 2 (Minimal Quantum Interaction) by exploring the limits of what observation can accomplish. Target section: voids/.
+- **Output**: Write voids article on the observation void
 
 ### ✓ 2026-02-24: Integrate the-silence-void.md into site navigation
 - **Type**: integrate-orphan
