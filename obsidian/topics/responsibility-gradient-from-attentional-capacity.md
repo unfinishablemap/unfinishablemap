@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-22T01:44:00+00:00
+ai_modified: 2026-02-24T00:51:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,10 +31,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-02-22T01:44:00+00:00
+last_deep_review: 2026-02-24T00:51:00+00:00
 ---
 
-Moral responsibility is not binary. The Unfinishable Map's [[attentional-economics|attentional economics]] framework implies that if agency scales with attentional capacity, then so does moral desert. An agent with full attentional resources—rested, undistracted, emotionally regulated, trained in deliberation—bears more responsibility for a harmful choice than one whose attentional capacity is depleted, impaired, or overwhelmed. This is not an excuse mechanism. It is a structural consequence of taking seriously the claim that consciousness influences the physical world through a bandwidth-limited channel.
+Moral responsibility is not binary. The Unfinishable Map's [[attentional-economics|attentional economics]] framework implies that if agency scales with attentional capacity, then so does moral desert. An agent with full attentional resources—rested, undistracted, emotionally regulated, trained in deliberation—bears more responsibility for a harmful choice than one whose attentional capacity is depleted, impaired, or overwhelmed. The framework is a structural consequence of taking seriously the claim that consciousness influences the physical world through a bandwidth-limited channel.
 
 The responsibility gradient framework developed here makes this implication systematic. It identifies five dimensions along which attentional capacity varies, maps them to degrees of moral desert, and addresses the objection that graded responsibility collapses into deterministic excuse-making.
 
@@ -137,6 +137,8 @@ The dominant alternatives to graded responsibility are both unsatisfying within 
 
 The gradient occupies the space between these extremes. Agents are genuine authors of their choices (against hard determinism), but the breadth and depth of their authorship varies with the attentional resources available for the authoring (against naive compatibilism).
 
+The moral implications extend in both directions. Where most discussions of graded responsibility focus on diminishment—reducing desert when capacity is impaired—genuine agency intensifies responsibility at the upper end. An agent operating at full attentional capacity who chose to cause harm, when they genuinely could have chosen otherwise and had the bandwidth to foresee the consequences, bears a weight of desert that deterministic frameworks cannot ground. Under physicalism, even the clearest-headed wrongdoer is ultimately the output of prior causes; under [[agent-causation]], they are the irreducible author of a choice they had the full resources to make differently.
+
 ## Objections
 
 **"This lets everyone off the hook."** No. Full attentional capacity is the default for healthy adults in ordinary conditions. The gradient applies primarily at the margins—extreme conditions, genuine impairments, and systemic disadvantages. Most moral failures occur within the range of full or near-full capacity. The gradient adds nuance without dissolving responsibility.
@@ -169,6 +171,7 @@ The gradient occupies the space between these extremes. Agents are genuine autho
 - [[phenomenology-of-agency-vs-passivity]] — The phenomenological structure of the agency-passivity spectrum
 - [[authentic-vs-inauthentic-choice]] — Existentialist perspective on how consciousness engages with selection
 - [[moral-perception]] — How attention shapes the capacity to perceive moral reasons
+- [[consciousness-and-causal-powers]] — Why consciousness must be causally efficacious, grounding the gradient's moral weight
 - [[topics/free-will]] — The broader framework of agency and determinism
 
 ## References
