@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [The Phenomenology of Evidence Assessment](/topics/phenomenology-of-evidence-assessment/)
+**Article**: [The Phenomenology of Evidence Assessment](/topics/phenomenology-of-epistemic-judgment/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

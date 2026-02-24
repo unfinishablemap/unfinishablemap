@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-02-21 03:06:00+00:00
+ai_modified: 2026-02-24 12:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenology-of-epistemic-achievement]]'
-- '[[phenomenology-of-belief-revision]]'
+- '[[phenomenology-of-epistemic-judgment]]'
 - '[[phenomenology-of-philosophical-disagreement]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[argument-from-reason]]'
@@ -159,7 +159,7 @@ The claim that intellectual courage has irreducible phenomenal character would f
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The felt work of reasoning itself
 - [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-achievement/) — What it is like to arrive at knowledge
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — The experience of clashing views
-- [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) — The experience of changing your mind
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — The experience of changing your mind
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why keeping dualism as a live option is epistemically responsible
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires irreducible consciousness
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The feelings that accompany intellectual life

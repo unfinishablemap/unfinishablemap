@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-03 19:18:00+00:00
+ai_modified: 2026-02-24 11:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -78,7 +78,7 @@ You cannot directly access my qualia, nor I yours. We can compare behaviour, poi
 
 ### Ineffable
 
-Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/pre-conceptual-knowing/), which classifies by abstracting from particulars and thereby loses qualitative character. The [consciousness-language interface](/topics/consciousness-and-language-interface/) analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss.
+Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/pre-conceptual-knowing/), which classifies by abstracting from particulars and thereby loses qualitative character. The [consciousness-language interface](/topics/consciousness-and-language-interface/) analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows why this ineffability is not merely a practical limitation—reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
 
 ### Directly Apprehensible
 

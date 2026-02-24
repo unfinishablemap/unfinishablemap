@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-17 05:27:00+00:00
+ai_modified: 2026-02-24 10:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: What makes you *you* across time? The Map emphasizes indexical iden
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-06 12:21:00+00:00
+last_deep_review: 2026-02-24 10:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ The Unfinishable Map's framework provides a distinctive answer. The [No Many Wor
 
 Three main positions dominate the debate about what makes someone at one time the same person as someone at another.
 
-**The Psychological View**: You are your psychology—connected by overlapping chains of memories, intentions, beliefs, and character traits. Locke originated this view; Parfit refined it. The view handles intuitions about brain transplants (you'd follow your brain) but struggles with fission: if your brain splits and both hemispheres continue, both would be psychologically continuous with you. Which is you?
+**The Psychological View**: You are your psychology—connected by overlapping chains of memories, intentions, beliefs, and character traits (Locke; refined by Parfit). The view handles transplant intuitions (you'd follow your brain) but struggles with fission: if both hemispheres continue after a brain split, both would be psychologically continuous with you. Which is you?
 
 **The Biological View**: You are your organism. Eric Olson's "animalism" holds that identity requires biological continuity. It handles fission differently (neither is you because the organism ceased) but conflicts with transplant intuitions.
 
@@ -55,7 +55,7 @@ Three main positions dominate the debate about what makes someone at one time th
 
 Recent phenomenological work distinguishes these from a more basic [minimal self](/concepts/self-and-consciousness/)—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
-[Autonoetic consciousness](/concepts/autonoetic-consciousness/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [past-self-void](/voids/past-self-void/) reveals, this reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. This matters for the Map's position: the "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
+[Autonoetic consciousness](/concepts/autonoetic-consciousness/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [constitutive view](/concepts/autonoetic-consciousness/) holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [past-self-void](/voids/past-self-void/) reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
 ## Parfit's Challenge
 
@@ -111,7 +111,7 @@ This doesn't require a Cartesian soul. It means what makes you the same person m
 
 ### The Bidirectional Connection
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. This gives your consciousness a unique causal history—the specific pattern of quantum selections, neural influences, and physical effects that constitute your life.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. This gives your consciousness a unique causal history—the specific pattern of quantum selections, neural influences, and physical effects that constitute your life. [Autonoetic consciousness](/concepts/autonoetic-consciousness/) illustrates the point: the felt quality of temporal self-projection drives planning and counterfactual reasoning through specifically conscious experience, not mere information processing.
 
 A replica wouldn't share this causal history. Its consciousness would begin influencing physics from its creation, not from your birth—a new agent, not you continued.
 
@@ -137,7 +137,7 @@ This aligns with Parfit's conclusion but for different reasons. Parfit says iden
 
 [Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently. Yet Thomas Nagel observed these patients have "too much unity to say 'two', yet too much separation to say 'one'."
 
-This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists despite massive disconnection suggests consciousness has intrinsic unity physical disconnection cannot fully sever. Despite perceptual fragmentation, split-brain patients maintain first-person unity—they think of themselves as one person, not two beings sharing a body. This suggests indexical identity is more fundamental than the computational binding that physical connections enable.
+This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists despite massive disconnection suggests consciousness has intrinsic unity physical disconnection cannot fully sever. Despite perceptual fragmentation, split-brain patients maintain first-person unity—suggesting indexical identity is more fundamental than the computational binding that physical connections enable.
 
 ### The Dreamless Sleep Challenge
 
@@ -161,7 +161,7 @@ The Map's framework connects personal identity to quantum selection—*this* con
 
 Three considerations mitigate this: decoherence calculations may be off by orders of magnitude; decoherence doesn't explain why we see definite outcomes; and the [quantum Zeno mechanism](/concepts/attention-as-interface/) suggests consciousness operates through rapid observation, not sustained coherence.
 
-Even if the quantum mechanism proves untenable, the conceptual point stands: personal identity involves *this* subject having experiences and making choices. Whether the mechanism is quantum or involves some other non-physical interface, the indexical fact remains.
+Even if the quantum mechanism proves untenable, the conceptual point stands: personal identity involves *this* subject having experiences and making choices, regardless of the specific non-physical interface.
 
 ## Implications for Survival
 
@@ -173,7 +173,7 @@ What does survival require? As discussed in [death-and-consciousness](/topics/de
 
 **Uploading**: An uploaded mind would not be you. Functional identity isn't consciousness identity.
 
-**Bodily death**: If consciousness is irreducible and the brain is interface rather than generator, brain death might alter how consciousness manifests without ending *this* consciousness. [Death and consciousness](/topics/death-and-consciousness/) explores how dualism keeps this question open.
+**Bodily death**: If consciousness is irreducible and the brain is interface rather than generator, brain death might alter how consciousness manifests without ending *this* consciousness (see [death-and-consciousness](/topics/death-and-consciousness/)).
 
 These conclusions follow from taking consciousness seriously as non-reducible and indexical identity as real.
 
@@ -183,7 +183,7 @@ Personal identity matters for life's meaning. The [meaning of life](/topics/mean
 
 If Parfit were right—if you're interchangeable with any replica sharing your psychology—then your particular existence seems less significant. Patterns are repeatable; you would be too.
 
-But if the Map is right—if *you* are this unrepeatable conscious being—then your existence has unique significance. No replica could replace you. The conscious experiences that constitute your life are *yours* in a way that can't be transferred. You're this particular conscious perspective, living this unrepeatable life.
+But if the Map is right—if *you* are this unrepeatable conscious being—then your existence has unique significance. No replica could replace you. The conscious experiences that constitute your life are *yours* in a way that can't be transferred.
 
 ## What Would Challenge This View?
 
@@ -236,14 +236,14 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
 
-<!-- AI REFINEMENT LOG - 2026-02-17
-Changes made:
-- Added unfalsifiability caveat to quantum selection paragraph in "Arguing for Haecceity" section, noting consciousness-selection is empirically indistinguishable from random collapse per measurement-problem article, while clarifying the individuation argument holds regardless
-- Added unfalsifiability caveat to Minimal Quantum Interaction section in Relation to Site Perspective, clarifying the quantum mechanism is philosophical rather than testable, and the identity argument doesn't depend on quantum mechanics specifically
-- Added measurement-problem to concepts frontmatter
+<!-- AI REFINEMENT LOG - 2026-02-24
+Changes made (cross-review considering autonoetic consciousness insights):
+- Added constitutive view insight to autonoetic paragraph: the felt quality of re-experiencing *defines* episodic memory, strengthening the haecceity argument
+- Added autonoetic causal efficacy to Bidirectional Connection: Klein's argument that temporal self-projection drives planning through specifically conscious experience
+- Tightened Psychological View, split-brain evidence, decoherence section, survival implications, and meaning connection for length neutrality
 
-Based on pessimistic review pessimistic-2026-02-17.md (Issue 1: Cross-Article Unfalsifiability Leak).
-Key improvements: honest propagation of measurement-problem article's own unfalsifiability admission to quantum mechanism references.
+Based on deep-review-2026-02-24-personal-identity.md.
+Key improvements: integrated newly created autonoetic-consciousness.md insights into two natural connection points.
 
 This log should be removed after human review.
 -->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-02-21 13:39:00+00:00
+ai_modified: 2026-02-24 12:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 title: The Phenomenology of Conceptual Change
 topics:
 - '[[phenomenology-of-understanding]]'
-- '[[phenomenology-of-belief-revision]]'
+- '[[phenomenology-of-epistemic-judgment]]'
 - '[[phenomenology-of-philosophical-disagreement]]'
 ---
 
@@ -39,7 +39,7 @@ Conceptual change is not belief revision writ large. When you change your mind a
 
 ## Conceptual Change vs. Belief Revision
 
-The distinction matters. [Belief revision](/topics/phenomenology-of-belief-revision/) operates within a framework: you weigh evidence, feel the resistance of established convictions, experience the rupture of abandoning one position for another. The categories through which you interpret evidence remain constant. You change *what* you think while the *how* of thinking stays put.
+The distinction matters. [Belief revision](/topics/phenomenology-of-epistemic-judgment/) operates within a framework: you weigh evidence, feel the resistance of established convictions, experience the rupture of abandoning one position for another. The categories through which you interpret evidence remain constant. You change *what* you think while the *how* of thinking stays put.
 
 Conceptual change alters the how. After a genuine conceptual shift, the same evidence looks different — not because you evaluate it differently but because you *perceive* it differently. The gestalt has flipped. What was figure becomes ground. Features that were invisible become salient, and features that seemed essential dissolve into irrelevance.
 
@@ -126,7 +126,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 
 ## Further Reading
 
-- [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)

@@ -66,7 +66,7 @@ topics: []
 
 ## Remaining Items
 
-- **Expansion opportunity: Epistemic defeat phenomenology.** The article discusses the positive case (achieving knowledge) but not the negative case (discovering you did not actually know). A future expansion could add a section on the phenomenology of epistemic defeat — the experience of the ground giving way — which would sharpen the analysis by contrast and strengthen the link to [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/).
+- **Expansion opportunity: Epistemic defeat phenomenology.** The article discusses the positive case (achieving knowledge) but not the negative case (discovering you did not actually know). A future expansion could add a section on the phenomenology of epistemic defeat — the experience of the ground giving way — which would sharpen the analysis by contrast and strengthen the link to [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/).
 - **Expansion opportunity: Knowledge argument connection.** Mary's Room is a paradigmatic case of epistemic achievement. Connecting this article to the knowledge argument when/if that article is created would strengthen both.
 - **Cross-linking potential.** Several thematically related articles do not yet exist (knowledge-argument, phenomenal-normativity, reasons-responsiveness, temporal-structure-of-understanding). When these are created, this article should be cross-linked.
 

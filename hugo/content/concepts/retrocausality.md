@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-22 08:14:00+00:00
+ai_modified: 2026-02-24 12:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -127,7 +127,7 @@ The transactional picture adds a subtlety: the handshake is atemporal. Decoheren
 
 [Meditation traditions](/concepts/witness-consciousness/) report experiences bearing on retrocausality. Advanced meditators describe awareness standing "outside" temporal flow, observing rather than being carried along. This provides phenomenological support for the atemporal selection model—the witness doesn't experience itself as "before" or "after" its objects.
 
-The phenomenology of decision also supports retrocausality: deliberation involves weighing options, then one option "crystallizing" into actuality. This crystallization feels like genuine selection, not passive observation. Retrocausality vindicates this—the selection *is* genuine, determining the entire transaction including its temporal preparation.
+The phenomenology of decision also supports retrocausality: deliberation involves weighing options, then one option "crystallizing" into actuality. This crystallization feels like genuine selection, not passive observation. Retrocausality vindicates this—the selection *is* genuine, determining the entire transaction including its temporal preparation. The [temporal phenomenology of quantum selection](/concepts/temporal-phenomenology-quantum-selection/) develops this point, arguing that the felt openness of deliberation (protention) and the fixedness of what has been decided (retention) are the experiential signatures of uncollapsed and collapsed quantum states.
 
 ## Time Ontology and Retrocausality
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-23 15:50:00+00:00
+ai_modified: 2026-02-24 12:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -83,7 +83,7 @@ This poses a puzzle: how can succession be experienced if multiple moments must 
 
 **Retentionalists** (Husserl, Broad) hold that each moment contains intentional content directed at past and future. Husserl identified three inseparable components: **retention** (the just-past echoing in awareness), **primal impression** (the strictly present), and **protention** (openness toward the about-to-arrive). This structure makes meaning possible—you can't understand a sentence if each word evaporates before the next arrives.
 
-The Map's framework suggests a synthesis: experience is genuinely extended, but the extension involves [quantum collapse](/concepts/collapse-and-time/). The duration-block is constituted by a series of collapses with retrocausal constraints—the past echoes in the present because retrocausal boundary conditions link them. This is speculative (neural decoherence timescales differ vastly from phenomenal duration), but it offers a framework where temporal phenomenology has metaphysical significance.
+The Map's framework suggests a synthesis: experience is genuinely extended, but the extension involves [quantum collapse](/concepts/collapse-and-time/). The duration-block is constituted by a series of collapses with retrocausal constraints—the past echoes in the present because retrocausal boundary conditions link them. The [temporal phenomenology of quantum selection](/concepts/temporal-phenomenology-quantum-selection/) develops this further, mapping Husserl's three components onto the distinction between collapsed, collapsing, and uncollapsed quantum states. This is speculative (neural decoherence timescales differ vastly from phenomenal duration), but it offers a framework where temporal phenomenology has metaphysical significance.
 
 ## Three Levels of Temporal Integration
 
@@ -228,6 +228,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 ## Further Reading
 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, temporal binding, and its implications
+- [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/) — What quantum selection feels like from within: retention-protention as experiential signature of collapse
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, presentism, eternalism, growing block
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full framework on time, collapse, and agency
 - [duration](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time

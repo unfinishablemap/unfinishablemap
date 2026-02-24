@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-10
-**Article**: [The Phenomenology of Belief Revision](/topics/phenomenology-of-belief-revision/)
+**Article**: [The Phenomenology of Belief Revision](/topics/phenomenology-of-epistemic-judgment/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

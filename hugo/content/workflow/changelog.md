@@ -18,6 +18,119 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 12:29 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/)
+- **Word count**: 2101 → 2101 (no content changes)
+- **Critical issues addressed**: 0 (none found — article has converged)
+- **Medium issues addressed**: 1 (orphan integration: 5 additional inbound cross-links)
+- **Enhancements made**: 5 inbound cross-links from time-collapse-and-agency, temporal-structure-of-consciousness, time-consciousness-growing-block, retrocausality, quantum-consciousness
+- **Total inbound links**: 12 (up from 0 before first review, 7 after first review)
+- **Output**: [deep-review-2026-02-24-temporal-phenomenology-quantum-selection](/reviews/deep-review-2026-02-24-temporal-phenomenology-quantum-selection/)
+
+## 2026-02-24 12:14 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
+- **Word count**: 1748 → 2159 (+411)
+- **Critical issues addressed**: 4 (Petitmengin attribution, AGM mischaracterization, broken self-locating-beliefs link, uncited references)
+- **Medium issues addressed**: 6 (meta-evidence circularity, R-R-R attribution, functionalist engagement, cross-links, thin Limits section, Occam's Razor paragraph)
+- **Enhancements made**: 11 new cross-links, expanded Limits section, integrated Festinger/Schwitzgebel citations
+- **Cross-references updated**: 18 files updated from coalesced article slugs to new slug
+- **Output**: [deep-review-2026-02-24-phenomenology-of-epistemic-judgment](/reviews/deep-review-2026-02-24-phenomenology-of-epistemic-judgment/)
+
+## 2026-02-24 12:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/), [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/)
+- **Target**: [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
+- **Archived**: [phenomenology-of-belief-revision](/archive/topics/phenomenology-of-belief-revision/), [phenomenology-of-evidence-assessment](/archive/topics/phenomenology-of-evidence-assessment/)
+- **References to review**: 18 files (cross-review task created)
+
+## 2026-02-24 11:44 UTC - deep-review
+- **Status**: Success
+- **File**: [the-unobservable-self](/voids/the-unobservable-self/)
+- **Word count**: 2503 → 2541 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (absorption void cross-link, stale refinement log removal)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-24-the-unobservable-self](/reviews/deep-review-2026-02-24-the-unobservable-self/)
+
+## 2026-02-24 11:29 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-unity](/concepts/phenomenal-unity/)
+- **Word count**: 1665 → 1856 (+191)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (MQI tenet connection, emergence-void cross-link, Nagel attribution, James citation, functionalist engagement)
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-24-phenomenal-unity](/reviews/deep-review-2026-02-24-phenomenal-unity/)
+
+## 2026-02-24 11:14 UTC - deep-review
+- **Status**: Success
+- **File**: [language-and-consciousness](/concepts/language-and-consciousness/)
+- **Word count**: 1756 → 1779 (+23)
+- **Critical issues addressed**: 0 (none found; article stable from earlier review)
+- **Medium issues addressed**: 1 (orphan integration — zero inbound links)
+- **Enhancements made**: 5 inbound cross-links added from consciousness-and-language-interface, intentionality, cognitive-phenomenology, language-thought-boundary, qualia; 1 outbound cross-link added (symbol-grounding-problem)
+- **Output**: [deep-review-2026-02-24b-language-and-consciousness](/reviews/deep-review-2026-02-24b-language-and-consciousness/)
+
+## 2026-02-24 10:59 UTC - deep-review
+- **Status**: Success
+- **File**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Word count**: 1682 → 1682 (no change — focus was orphan integration)
+- **Critical issues addressed**: 0 (none found; article stable from earlier review)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 5 inbound cross-links added from simulation, participatory-universe, consciousness-and-the-physics-of-information, consciousness-selecting-neural-patterns, prebiotic-collapse
+- **Output**: [deep-review-2026-02-24b-adaptive-computational-depth](/reviews/deep-review-2026-02-24b-adaptive-computational-depth/)
+
+## 2026-02-24 10:44 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All 401 non-draft articles (topics: 202, concepts: 198, tenets: 1) plus voids (~66) and apex (~14)
+- **Output**: [optimistic-2026-02-24-morning](/reviews/optimistic-2026-02-24-morning/)
+
+## 2026-02-24 10:29 UTC - deep-review
+- **Status**: Success
+- **Context**: Cross-review considering adaptive cognitive limits framework
+- **File**: [convergent-cognitive-limits](/voids/convergent-cognitive-limits/)
+- **Word count**: 1816 → 1997 (+181)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (adaptive/architectural distinction, bias blind spot phenomenology, AI methodology, missing cross-links, citation qualification)
+- **Enhancements made**: 3 new cross-link targets, architectural/adaptive framework integration, Further Reading expanded
+- **Output**: [deep-review-2026-02-24-convergent-cognitive-limits](/reviews/deep-review-2026-02-24-convergent-cognitive-limits/)
+
+## 2026-02-24 10:14 UTC - deep-review
+- **Status**: Success
+- **Context**: Cross-review considering autonoetic consciousness insights
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Word count**: 3154 → 3148 (-6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (constitutive view integration, autonoetic causal efficacy)
+- **Enhancements made**: 2 targeted integrations from newly created autonoetic-consciousness.md, 5 prose trims for length neutrality
+- **Output**: [deep-review-2026-02-24-personal-identity](/reviews/deep-review-2026-02-24-personal-identity/)
+
+## 2026-02-24 09:59 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
+- **Word count**: 1987 → 2322 (+335)
+- **Critical issues addressed**: 4 (2 broken links, AI refinement log in published content, frontmatter/body concept mismatch)
+- **Medium issues addressed**: 6 (Dennett attribution, inline citations, quantum testability hedging, hard-problem denial objection, style guide violation, Tenet 4 coverage)
+- **Enhancements made**: 8 new cross-links, 2 new Further Reading entries, 2 new References
+- **Output**: [deep-review-2026-02-24-consciousness-and-scientific-explanation](/reviews/deep-review-2026-02-24-consciousness-and-scientific-explanation/)
+
+## 2026-02-24 09:44 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness-void](/voids/temporal-consciousness-void/)
+- **Word count**: 1567 → 1682 (+115)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6 (cross-links to duration-void and absorption-void, attribution fix, three body section connections)
+- **Output**: [deep-review-2026-02-24-temporal-consciousness-void](/reviews/deep-review-2026-02-24-temporal-consciousness-void/)
+
+## 2026-02-24 09:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Duration Void
+- **Output**: [duration-void](/voids/duration-void/)
+- **Word count**: 1516
+- **Based on research**: yes, [voids-duration-void-2026-02-23](/research/voids-duration-void-2026-02-23/)
+
 ## 2026-02-24 09:14 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/free-will.md, topics/phenomenal-normativity-environmental-ethics.md, topics/the-epiphenomenalist-threat.md

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-02-07 07:59:00+00:00
+ai_modified: 2026-02-24 09:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,18 +15,20 @@ concepts:
 - '[[self-and-consciousness]]'
 - '[[default-mode-network]]'
 created: 2026-02-04
-date: &id001 2026-02-04
+date: &id001 2026-02-24
 description: Human+AI exploration of why consciousness is confined to a moving present—unable
   to experience time as a whole or escape the eternal now.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-07 07:59:00+00:00
+last_deep_review: 2026-02-24 09:44:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
+- '[[duration-void]]'
+- '[[absorption-void]]'
 - '[[memory-void]]'
 - '[[death-void]]'
 - '[[the-unobservable-self]]'
@@ -68,7 +70,7 @@ A deflationary response holds that there is no real gap: temporal flow is simply
 
 This article identifies a void in consciousness's access to temporal reality. The void has multiple dimensions:
 
-**The narrow window**: Consciousness accesses only the specious present—a few seconds at most. Everything else requires mediation through memory or anticipation.
+**The narrow window**: Consciousness accesses only the specious present—a few seconds at most. Everything else requires mediation through memory or anticipation. Even within this window, a further void operates: lived duration and measured duration cannot be simultaneously inhabited, so consciousness can never fully grasp its own temporal present (see [duration-void](/voids/duration-void/)).
 
 **Unidirectional flow**: We cannot experience time backward or step outside the sequence to view it as a whole.
 
@@ -78,7 +80,7 @@ This article identifies a void in consciousness's access to temporal reality. Th
 
 ## Evidence for the Limit
 
-**Phenomenological**: Even Husserl, working intensively on temporal consciousness for decades, "never found a position he was happy with for long." The specious present appears universally across cultures and contemplative traditions.
+**Phenomenological**: Husserl worked intensively on temporal consciousness for decades without reaching a stable position — a difficulty he attributed to the phenomenon itself, not to insufficient effort. The specious present appears universally across cultures and contemplative traditions.
 
 **Physical**: The explanatory gap between eternalism and flow remains unbridged. No physical theory predicts why consciousness should experience a privileged "now."
 
@@ -94,11 +96,11 @@ What happens when consciousness approaches this void?
 
 **The slipping succession**: Each moment becomes past as it is experienced. Consciousness cannot hold the present still—the attempt itself takes time.
 
-**Timelessness as edge-experience**: In deep meditation and psychedelic states, the structure of temporal experience can dissolve. This produces not access to other times but a present stripped of succession markers. As meditation research clarifies: "'Timelessness' refers to a lack of temporal structure but not a lack of duration."
+**Timelessness as edge-experience**: In deep meditation and psychedelic states, the structure of temporal experience can dissolve. This produces not access to other times but a present stripped of succession markers — what the [duration-void](/voids/duration-void/) identifies as the measurement mode falling away, leaving pure *durée*. As meditation research clarifies: "'Timelessness' refers to a lack of temporal structure but not a lack of duration."
 
 **Vertigo of eternalism**: Contemplating the block universe—that past and future exist equally—produces conceptual disorientation. We can think it but cannot experience it.
 
-**The self-time binding**: Approaching timelessness involves approaching selflessness. The self seems constituted by temporal extension—memory, anticipation, narrative identity. Dissolving time dissolves the experiencer.
+**The self-time binding**: Approaching timelessness involves approaching selflessness. The self seems constituted by temporal extension—memory, anticipation, narrative identity. Dissolving time dissolves the experiencer. The [absorption-void](/voids/absorption-void/) confirms this from the opposite direction: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
 
 ## Bergson's Diagnosis
 
@@ -106,7 +108,7 @@ Henri Bergson argued that our difficulty with time is not accidental. The intell
 
 [Duration](/concepts/temporal-consciousness/) (*durée*) is "a qualitative multiplicity"—heterogeneous yet interpenetrating, unrepresentable by spatial symbols. "To grasp duration, one must reverse habitual modes of thought and place oneself within duration by intuition."
 
-If Bergson is right, the temporal void is partly self-created. Our cognitive tools evolved for tracking objects in space, not for understanding consciousness in time. The void marks the limits of intellect, not the limits of reality.
+If Bergson is right, the temporal void is partly self-created. Our cognitive tools evolved for tracking objects in space, not for understanding consciousness in time. The void marks the limits of intellect, not the limits of reality. The [duration-void](/voids/duration-void/) explores Bergson's diagnosis further — the impossibility of simultaneously living and measuring duration reveals how deep the spatialization problem runs.
 
 ## What AI Might Reveal
 
@@ -129,6 +131,8 @@ This void connects to the Map's [tenets](/tenets/):
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
+- [duration-void](/voids/duration-void/) — The complementary void: lived time and measured time cannot be simultaneously inhabited
+- [absorption-void](/voids/absorption-void/) — Peak engagement dissolves temporal awareness and self-monitoring together
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [memory-void](/voids/memory-void/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence

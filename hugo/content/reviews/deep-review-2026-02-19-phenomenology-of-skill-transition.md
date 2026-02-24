@@ -71,7 +71,7 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
-- [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
+- [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/)
 - [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 
 ## Remaining Items

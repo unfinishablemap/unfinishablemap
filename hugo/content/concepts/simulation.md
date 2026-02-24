@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-23 01:13:00+00:00
+ai_modified: 2026-02-24 10:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -77,7 +77,7 @@ Simulated physics isn't "really" physical in the fundamental sense. This creates
 
 ### Minimal Quantum Interaction
 
-Quantum mechanics might be the point where the simulation handles indeterminacy. If the simulator doesn't pre-calculate every quantum outcome (perhaps for efficiency), consciousness influencing these outcomes would be:
+Quantum mechanics might be the point where the simulation handles indeterminacy. If the simulator doesn't pre-calculate every quantum outcome (perhaps for efficiency)—a form of [adaptive computational depth](/concepts/adaptive-computational-depth/) where detail crystallises only where consciousness attends—consciousness influencing these outcomes would be:
 - Computationally minimal (operating only at undetermined points)
 - Physically undetectable (indistinguishable from "real" randomness)
 - Consistent with the simulated physical laws

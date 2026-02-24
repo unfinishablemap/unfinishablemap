@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-14 00:34:00+00:00
+ai_modified: 2026-02-24 12:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,8 +34,8 @@ related_articles:
 title: The Phenomenology of Deliberation Under Uncertainty
 topics:
 - '[[topics/free-will]]'
-- '[[phenomenology-of-belief-revision]]'
-- '[[phenomenology-of-evidence-assessment]]'
+- '[[phenomenology-of-epistemic-judgment]]'
+- '[[phenomenology-of-epistemic-judgment]]'
 ---
 
 Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice changes in ways that computational models of decision-making cannot capture. The openness is not just epistemic but experiential: it colours attention, shapes effort, and demands a kind of courage that determined or fully-informed decision-making never requires.
@@ -76,7 +76,7 @@ This reaching-beyond involves:
 
 **Pattern recognition without pattern.** The mind searches for analogies, partial matches, structural similarities to past experience. But under genuine uncertainty, the analogies are imperfect and the mind knows they are imperfect. The phenomenology is of *approximate* recognition—"this is somewhat like that, but..."
 
-**Confidence without grounds.** Sometimes estimation produces a feeling of confidence that outruns the evidence. Experienced practitioners report this frequently: a gut sense that something is the right call, accompanied by an inability to articulate why. This is not mere bias (though it can be). It is consciousness integrating information in ways that exceed explicit reasoning—what the [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) describes as the felt weight of considerations that resist propositional articulation.
+**Confidence without grounds.** Sometimes estimation produces a feeling of confidence that outruns the evidence. Experienced practitioners report this frequently: a gut sense that something is the right call, accompanied by an inability to articulate why. This is not mere bias (though it can be). It is consciousness integrating information in ways that exceed explicit reasoning—what the [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) describes as the felt weight of considerations that resist propositional articulation.
 
 **The effort of holding open.** Estimation requires maintaining multiple possibilities in mind simultaneously without collapsing prematurely to one. This is [cognitively effortful](/concepts/mental-effort/) in a specific way: the mind wants to resolve, to settle on an answer. Resisting premature resolution—staying with uncertainty long enough to estimate well—requires sustained [attentional effort](/concepts/attention-as-interface/) that feels like deliberate work.
 
@@ -143,8 +143,8 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 ## Further Reading
 
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The general structure of choosing
-- [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — The felt sense of epistemic weight
-- [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) — What it feels like to change your mind
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — The felt sense of epistemic weight
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — What it feels like to change your mind
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Why uncertainty demands authentic engagement
 - [probability-intuition-void](/voids/probability-intuition-void/) — Our architectural limits in reasoning about chance
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The affective dimension of uncertainty

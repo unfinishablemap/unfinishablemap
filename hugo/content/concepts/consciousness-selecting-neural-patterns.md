@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-07 08:15:00+00:00
+ai_modified: 2026-02-24 10:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -89,7 +89,7 @@ The bandwidth constraint shapes what selection can accomplish:
 | ~3-4 distinct choices/second | Matches phenomenology of deliberate decision-making |
 | Cumulative over time | Sustained attention, not instantaneous selection |
 
-This explains why selection is policy-level: consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." The quantum mechanism implements the selected policy; consciousness chooses among policies. Individual neural events fall out from the chosen pattern.
+This explains why selection is policy-level: consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." The quantum mechanism implements the selected policy; consciousness chooses among policies. Individual neural events fall out from the chosen pattern. This coarse-grained allocation—detail concentrating where consciousness attends—is what the Map calls [adaptive computational depth](/concepts/adaptive-computational-depth/).
 
 The bandwidth constraint also provides empirical grounding. A selection mechanism claiming consciousness directly determines billions of quantum events per second would violate what we know about conscious processing limits. Policy-level selection respects these constraints.
 

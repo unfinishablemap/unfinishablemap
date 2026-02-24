@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-03 12:10:00+00:00
+ai_modified: 2026-02-24 12:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[argument-from-reason]]'
-- '[[phenomenology-of-evidence-assessment]]'
+- '[[phenomenology-of-epistemic-judgment]]'
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
 - '[[cognitive-phenomenology-thinking-experience-2026-01-17]]'
 title: The Phenomenology of Intellectual Effort
@@ -110,7 +110,7 @@ The distinction between compelling and forced has no obvious physical correlate.
 
 ### Weighing as Work
 
-[Evaluating evidence](/topics/phenomenology-of-evidence-assessment/) is not passive reception. There is phenomenal work in weighing:
+[Evaluating evidence](/topics/phenomenology-of-epistemic-judgment/) is not passive reception. There is phenomenal work in weighing:
 
 **Holding options open.** Before settling, you maintain alternatives in awareness. This is effortful—the default is to collapse to one view, and maintaining genuine uncertainty requires work.
 
@@ -217,7 +217,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 - [argument-from-reason](/topics/argument-from-reason/) — The structural case that reasoning requires irreducible consciousness
 - [mental-effort](/concepts/mental-effort/) — Attentional effort and the quantum Zeno mechanism
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deciding
-- [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — The experience of evaluating evidence
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — The experience of evaluating evidence
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, certainty, doubt
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has experiential character
 - [working-memory](/concepts/working-memory/) — Where intellectual capacity meets consciousness

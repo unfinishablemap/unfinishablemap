@@ -142,10 +142,10 @@ It is worth noting, in the spirit of [mysterian](/concepts/mysterianism/) honest
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — How phenomenal consciousness grounds aboutness
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical inference as paradigm case
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
-- [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — The felt weight of reasons
+- [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) — Inference about non-actual scenarios
-- [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) — When inference changes what you believe
+- [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/) — When inference changes what you believe
 - [explanatory-gap](/concepts/explanatory-gap/) — The cognitive explanatory gap between implementing a rule and seeing why it holds
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — How discrete conscious states combine into structured wholes
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property

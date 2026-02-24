@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-03 19:18:00+00:00
+ai_modified: 2026-02-24 11:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -199,6 +199,7 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 
 ## Further Reading
 
+- [language-and-consciousness](/concepts/language-and-consciousness/) — The philosophical infrastructure: how meaning, reference, and the private language argument reveal consciousness resists linguistic dissolution
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language may require consciousness
 - [language-thought-boundary](/voids/language-thought-boundary/) — The limits where thought exceeds language
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking

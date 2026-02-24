@@ -149,7 +149,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 
 #### Phenomenology of Intellectual Humility
 
-- **Builds on**: [mysterianism](/concepts/mysterianism/), [epistemic-emotions](/concepts/epistemic-emotions/), [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/)
+- **Builds on**: [mysterianism](/concepts/mysterianism/), [epistemic-emotions](/concepts/epistemic-emotions/), [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/)
 - **Would address**: What does it feel like to recognize one's own cognitive limits? The felt sense of "this exceeds my grasp" vs. "I don't know yet." Contemplatives report distinctive phenomenology around not-knowing. Relevant to the Map's Occam's Razor tenet—intellectual humility has experiential correlates.
 - **Estimated scope**: Short article
 - **Tenet alignment**: Occam's Razor Has Limits (phenomenology of limit-recognition)

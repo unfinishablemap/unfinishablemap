@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-22 08:14:00+00:00
+ai_modified: 2026-02-24 10:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -124,7 +124,7 @@ The Map separates two claims that often get conflated:
 
 But (2) does not entail that consciousness is *universally required* for collapse. Objective reduction (Penrose-style gravity-induced collapse, GRW spontaneous localization, or some yet-unknown mechanism) provides the baseline. Collapse happens throughout the universe, before and beyond minds, through physical processes.
 
-What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing—particularly where the [selection of neural patterns](/concepts/consciousness-selecting-neural-patterns/) matters for behavior—consciousness biases which outcomes become actual. The quantum Zeno effect (via [attention](/concepts/attention-as-interface/)) allows consciousness to prolong certain superpositions, effectively selecting among possibilities. But this selection occurs *within* an already-collapsing physics, not as the sole source of collapse.
+What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing—particularly where the [selection of neural patterns](/concepts/consciousness-selecting-neural-patterns/) matters for behavior—consciousness biases which outcomes become actual. This is [adaptive computational depth](/concepts/adaptive-computational-depth/) applied to collapse: reality operates at baseline resolution everywhere, with consciousness increasing the depth of determination where minds engage. The quantum Zeno effect (via [attention](/concepts/attention-as-interface/)) allows consciousness to prolong certain superpositions, effectively selecting among possibilities. But this selection occurs *within* an already-collapsing physics, not as the sole source of collapse.
 
 ### The Decoherence Challenge
 

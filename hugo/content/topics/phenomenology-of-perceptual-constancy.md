@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-22 11:15:00+00:00
+ai_modified: 2026-02-24 12:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ last_deep_review: 2026-02-19 22:21:00+00:00
 modified: *id001
 related_articles:
 - '[[attention-as-selection-interface]]'
-- '[[phenomenology-of-evidence-assessment]]'
+- '[[phenomenology-of-epistemic-judgment]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[philosophy-of-perception-under-dualism]]'
 - '[[consciousness-and-temporal-integration]]'

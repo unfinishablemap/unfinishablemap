@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-02-20 21:36:00+00:00
+ai_modified: 2026-02-24 12:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -207,7 +207,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — The epistemological role of meditative evidence
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist and Hindu perspectives on consciousness and value
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — What insight and comprehension feel like from the inside
-- [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) — How moral perception shifts under new evidence
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — How moral perception shifts under new evidence
 
 ## References
 

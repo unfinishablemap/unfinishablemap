@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-16 13:13:00+00:00
+ai_modified: 2026-02-24 11:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -92,6 +92,8 @@ Consider Galen Strawson's foreign language argument: a French speaker and Englis
 This strengthens the case against naturalized intentionality. If intentionality derives from phenomenal character, and phenomenal character resists physical reduction (the [hard problem](/topics/hard-problem-of-consciousness/)), then intentionality is doubly irreducible. The failure to naturalize aboutness isn't a temporary gap but a deep constraint on physicalist explanation—another instance of the [explanatory gap](/concepts/explanatory-gap/) that pervades consciousness studies.
 
 ### From Intentionality to Meaning
+
+The connection between intentionality and meaning has deep roots in philosophy of language. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines how these analyses—alongside the private language argument and failures of logical positivism—reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
 
 The [Phenomenal Constitution Thesis](/topics/phenomenology-of-understanding/) (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content—not merely accompanies it.
 

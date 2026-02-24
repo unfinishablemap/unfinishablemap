@@ -1843,7 +1843,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 14:57 UTC - refine-draft
 - **Status**: Success
-- **Files**: Phenomenology Of Surprise And Prediction Error, [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
+- **Files**: Phenomenology Of Surprise And Prediction Error, [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/)
 - **Changes**: Both articles engaged type-B materialist response to the richness-to-dualism inference (pessimistic review Issue 1). Replaced direct "richness therefore dualism" moves with explicit acknowledgment that physicalists can grant phenomenological descriptions while denying ontological gap. Map's response reframed: accumulated brute psychophysical identities are less parsimonious than dualism, and the pattern of explanatory failure is structural rather than temporary. Touched opening paragraphs, core argument sections, and Relation to Site Perspective in both articles.
 - **Published**: yes
 
@@ -2043,7 +2043,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 06:11 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
+- **File**: [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/)
 - **Word count**: 1430 → 1710 (+280)
 - **Critical issues addressed**: 1 (wrong James source citation)
 - **Medium issues addressed**: 4 (functionalism tension, AGM undefined, missing empirical engagement, missing cross-links)
@@ -2264,7 +2264,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 12:50 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: phenomenology of belief change
-- **Reason**: The existing article [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) (created 2026-02-09) already covers the requested topic—resistance, rupture, reorganisation, the "giving way" of old views, the bootstrap problem, and consciousness's role in belief revision. Creating a separate article would duplicate content.
+- **Reason**: The existing article [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/) (created 2026-02-09) already covers the requested topic—resistance, rupture, reorganisation, the "giving way" of old views, the bootstrap problem, and consciousness's role in belief revision. Creating a separate article would duplicate content.
 - **Todo**: Marked P3 task as done (satisfied by existing article)
 
 ---
@@ -2604,7 +2604,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 01:15 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Belief Revision
-- **Output**: [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
+- **Output**: [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/)
 - **Word count**: 1430
 - **Based on research**: No
 

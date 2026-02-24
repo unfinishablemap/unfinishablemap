@@ -148,7 +148,7 @@ The methodology demonstrates that phenomenological evidence, properly gathered, 
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical research validating trained introspection
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation findings bear on consciousness debates
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space grounding phenomenological validation
-- [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — How we evaluate evidence phenomenologically
+- [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/) — How we evaluate evidence phenomenologically
 - [explanatory-gap](/concepts/explanatory-gap/) — Why third-person evidence alone cannot explain consciousness
 - [qualia](/concepts/qualia/) — The qualitative features phenomenological methods investigate
 

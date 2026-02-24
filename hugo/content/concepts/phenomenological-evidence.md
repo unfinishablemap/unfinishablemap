@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-02-07 06:59:00+00:00
+ai_modified: 2026-02-24 12:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
-- '[[phenomenology-of-evidence-assessment]]'
+- '[[phenomenology-of-epistemic-judgment]]'
 - '[[epistemological-limits-of-occams-razor]]'
 title: Phenomenological Evidence
 topics:
@@ -177,7 +177,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [heterophenomenology](/concepts/heterophenomenology/) — The third-person alternative approach
 - [intersubjectivity](/concepts/intersubjectivity/) — How first-person evidence achieves intersubjective validation
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation findings bear on consciousness debates
-- [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — The experience of evaluating evidence phenomenologically
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — The experience of evaluating evidence phenomenologically
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The broader methodological divide in consciousness science
 - [explanatory-gap](/concepts/explanatory-gap/) — Why third-person evidence alone cannot explain consciousness
 

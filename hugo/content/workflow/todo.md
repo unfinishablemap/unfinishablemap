@@ -38,48 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the duration void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-duration-void-2026-02-23.md. The duration void examines the cognitive territory where temporal experience breaks down — how consciousness fails to grasp its own temporal extension, connecting to Bergson's durée and the phenomenology of time. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Cross-review personal-identity.md considering autonoetic consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/autonoetic-consciousness.md examines self-projective temporal awareness — the capacity to mentally travel through subjective time. personal-identity.md covers persistence of identity across time and should cross-reference autonoetic consciousness as the phenomenological mechanism enabling temporal self-continuity. Check for cross-links and argument reinforcement.
-- **Source**: chain (from autonoetic-consciousness.md)
-- **Generated**: 2026-02-24
-
-### P2: Cross-review convergent-cognitive-limits.md considering adaptive cognitive limits framework
-- **Type**: cross-review
-- **Notes**: New article voids/adaptive-cognitive-limits.md distinguishes adaptive limits (evolved for fitness over truth) from architectural and occluded cognitive limits. convergent-cognitive-limits.md analyses where multiple cognitive approaches fail simultaneously. Should cross-reference the adaptive limits taxonomy to clarify whether convergent failures indicate architectural constraints or fitness-optimised blind spots. Check for cross-links and consistent framing.
-- **Source**: chain (from adaptive-cognitive-limits.md)
-- **Generated**: 2026-02-24
-
-### P2: Integrate adaptive-computational-depth.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-02-24 in concepts/. Explores how computational depth interacts with consciousness — add cross-references from related articles on computational theories of mind, complexity, and cognitive architecture.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
-### P2: Integrate language-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Covers the relationship between language and conscious experience — add cross-references from articles on phenomenology, cognitive phenomenology, inner speech, and thought.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
-### P2: Cross-review the-unobservable-self.md considering absorption void insights
-- **Type**: cross-review
-- **Notes**: New article voids/absorption-void.md examines the paradox of self-opacity during peak conscious engagement. the-unobservable-self.md covers the subject that cannot be its own object. Should cross-reference the absorption void as a specific instance where self-observation fails — not because the self is structurally hidden but because observation terminates the state being observed. Check for cross-links and argument reinforcement.
-- **Source**: chain (from absorption-void.md)
-- **Generated**: 2026-02-24
-
-### P2: Integrate temporal-phenomenology-quantum-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Recently deep-reviewed. Connects temporal phenomenology to quantum selection — add cross-references from articles on temporal consciousness, quantum mind, and the measurement problem.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-24
-
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -157,6 +115,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-24
 
+### P3: Write article on the ethics of cognitive enhancement under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If moral responsibility scales with attentional capacity (per responsibility-gradient), what follows when capacity can be pharmacologically altered? Does enhancement expand moral duty? Builds on responsibility-gradient-from-attentional-capacity.md, moral-implications-of-genuine-agency.md, attention-disorders-and-quantum-interface.md. See optimistic-2026-02-24-morning.md
+- **Generated**: 2026-02-24
+
+### P3: Write voids article on the void of self-knowledge in emotion
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
+- **Generated**: 2026-02-24
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -177,6 +147,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Integrate temporal-phenomenology-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Recently deep-reviewed. Connects temporal phenomenology to quantum selection — add cross-references from articles on temporal consciousness, quantum mind, and the measurement problem.
+- **Output**: obsidian/concepts/temporal-phenomenology-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-24: Update references to coalesced epistemic phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged phenomenology-of-belief-revision and phenomenology-of-evidence-assessment into phenomenology-of-epistemic-judgment. The following files reference archived articles and need review: phenomenology-of-conceptual-change, surprise-prediction-error-and-consciousness, consciousness-and-the-problem-of-induction, phenomenology-of-deliberation-under-uncertainty, phenomenology-of-philosophical-disagreement, phenomenology-of-trust-and-testimony, phenomenology-of-trust, phenomenology-of-intellectual-courage, consciousness-and-skilled-performance, consciousness-and-testimony, phenomenology-of-moral-experience, phenomenology-of-theoretical-commitment, phenomenology-of-understanding, phenomenology-of-normative-properties, phenomenology-of-epistemic-achievement, phenomenological-evidence, phenomenology-of-perceptual-constancy, phenomenology-of-intellectual-effort
+- **Output**: None -- Context: Update references to coalesced epistemic phenomenology articles
+
+### ✓ 2026-02-24: Cross-review the-unobservable-self.md considering absorption void insights
+- **Type**: cross-review
+- **Notes**: New article voids/absorption-void.md examines the paradox of self-opacity during peak conscious engagement. the-unobservable-self.md covers the subject that cannot be its own object. Should cross-reference the absorption void as a specific instance where self-observation fails — not because the self is structurally hidden but because observation terminates the state being observed. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/the-unobservable-self.md -- Context: Cross-review the-unobservable-self.md considering absorption void insights
+
+### ✓ 2026-02-24: Integrate language-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-23 in concepts/. Covers the relationship between language and conscious experience — add cross-references from articles on phenomenology, cognitive phenomenology, inner speech, and thought.
+- **Output**: obsidian/concepts/language-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-24: Integrate adaptive-computational-depth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-24 in concepts/. Explores how computational depth interacts with consciousness — add cross-references from related articles on computational theories of mind, complexity, and cognitive architecture.
+- **Output**: obsidian/concepts/adaptive-computational-depth.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-24: Cross-review convergent-cognitive-limits.md considering adaptive cognitive limits framework
+- **Type**: cross-review
+- **Notes**: New article voids/adaptive-cognitive-limits.md distinguishes adaptive limits (evolved for fitness over truth) from architectural and occluded cognitive limits. convergent-cognitive-limits.md analyses where multiple cognitive approaches fail simultaneously. Should cross-reference the adaptive limits taxonomy to clarify whether convergent failures indicate architectural constraints or fitness-optimised blind spots. Check for cross-links and consistent framing.
+- **Output**: obsidian/voids/convergent-cognitive-limits.md -- Context: Cross-review convergent-cognitive-limits.md considering adaptive cognitive limits framework
+
+### ✓ 2026-02-24: Cross-review personal-identity.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md examines self-projective temporal awareness — the capacity to mentally travel through subjective time. personal-identity.md covers persistence of identity across time and should cross-reference autonoetic consciousness as the phenomenological mechanism enabling temporal self-continuity. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Cross-review personal-identity.md considering autonoetic consciousness insights
+
+### ✓ 2026-02-24: Cross-review temporal-consciousness-void.md considering duration void insights
+- **Type**: cross-review
+- **Notes**: New article voids/duration-void.md explores the incompatibility between lived duration and measured time. temporal-consciousness-void.md covers confinement to a moving present. Should cross-reference the duration void as a complementary analysis of temporal limits — one about the present's narrowness, the other about measurement destroying experience. Check for cross-links and consistent framing of Bergson's durée.
+- **Output**: obsidian/voids/temporal-consciousness-void.md -- Context: Cross-review temporal-consciousness-void.md considering duration void insights
+
+### ✓ 2026-02-24: Write voids article on the duration void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-duration-void-2026-02-23.md. The duration void examines the cognitive territory where temporal experience breaks down — how consciousness fails to grasp its own temporal extension, connecting to Bergson's durée and the phenomenology of time. Target section: voids/.
+- **Output**: Write voids article on the duration void
 
 ### ✓ 2026-02-24: Write voids article on the absorption void
 - **Type**: expand-topic

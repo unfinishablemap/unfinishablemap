@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-23 00:13:00+00:00
+ai_modified: 2026-02-24 12:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[first-person-third-person-methodology]]'
 - '[[phenomenology-of-trust-and-testimony]]'
-- '[[phenomenology-of-belief-revision]]'
+- '[[phenomenology-of-epistemic-judgment]]'
 ---
 
 Testimony — belief formed on the basis of another person's say-so — is one of humanity's fundamental knowledge sources. Most of what anyone knows about history, science, and other people's lives arrives through others' reports rather than direct observation. The Unfinishable Map argues that consciousness occupies a unique position in the epistemology of testimony: it is both a necessary condition for testimony to function as a knowledge source and the one subject matter that testimony can never fully convey. This creates a distinctive epistemic structure — needing testimony to learn about consciousness, yet needing consciousness for testimony to work — that reveals something important about the nature of mind and the limits of knowledge.
