@@ -84,12 +84,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
 - **Generated**: 2026-02-24
 
-### P2: Cross-review contemplative-evidence-for-consciousness.md considering contemplative-pathology insights
-- **Type**: cross-review
-- **Notes**: New article topics/contemplative-pathology-and-interface-malfunction.md (2026-02-23) examines what happens when contemplative practice produces adverse effects — dissociation, depersonalisation, the "dark night." topics/contemplative-evidence-for-consciousness.md is the main contemplative article and should acknowledge these failure modes as additional evidence about interface structure. Check for cross-links and balanced treatment. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from contemplative-pathology-and-interface-malfunction.md)
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the transparency void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-transparency-void-2026-02-09.md. Explores the cognitive territory where consciousness's own operations become invisible — the transparency of experience that Metzinger identifies as preventing direct self-knowledge. Connects to introspection, self-models, and the limits of phenomenal access. Target section: voids/.
@@ -128,6 +122,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review contemplative-evidence-for-consciousness.md considering contemplative-pathology insights
+- **Type**: cross-review
+- **Notes**: New article topics/contemplative-pathology-and-interface-malfunction.md (2026-02-23) examines what happens when contemplative practice produces adverse effects — dissociation, depersonalisation, the "dark night." topics/contemplative-evidence-for-consciousness.md is the main contemplative article and should acknowledge these failure modes as additional evidence about interface structure. Check for cross-links and balanced treatment. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness.md -- Context: Cross-review contemplative-evidence-for-consciousness.md considering contemplative-pathology insights
 
 ### ✓ 2026-02-24: Cross-review binding-problem.md considering phenomenal-unity insights
 - **Type**: cross-review
