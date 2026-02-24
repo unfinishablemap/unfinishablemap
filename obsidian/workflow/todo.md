@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the ownership void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-ownership-void-2026-02-18.md. The ownership void addresses why experiences belong to a particular subject — the gap between having an experience and it being mine. Relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of how consciousness is coupled to specific physical systems. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Integrate dream-consciousness-and-the-filter-model.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links from any other content on the site. Add cross-references from related articles (e.g., filter-theory.md, dream-consciousness.md, altered-states articles) or update section index pages to include navigation to this content. Created 2026-02-09.
@@ -183,6 +177,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the ownership void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-ownership-void-2026-02-18.md. The ownership void addresses why experiences belong to a particular subject — the gap between having an experience and it being mine. Relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of how consciousness is coupled to specific physical systems. Target section: voids/.
+- **Output**: Write voids article on the ownership void
 
 ### ✓ 2026-02-24: Write voids article on the observation void
 - **Type**: expand-topic
