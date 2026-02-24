@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced formal-systems articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [[consciousness-and-the-authority-of-formal-systems]]. The following files reference archived articles and may need review: consciousness-and-the-grounds-of-normative-authority.md, consciousness-and-testimony.md, phenomenology-of-understanding.md, self-stultification-as-master-argument.md, phenomenology-of-philosophical-disagreement.md, galilean-exclusion.md
-- **Source**: coalesce
-- **Generated**: 2026-02-24
-
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -131,6 +125,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Update references to coalesced formal-systems articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[consciousness-and-the-authority-of-formal-systems]]. The following files reference archived articles and may need review: consciousness-and-the-grounds-of-normative-authority.md, consciousness-and-testimony.md, phenomenology-of-understanding.md, self-stultification-as-master-argument.md, phenomenology-of-philosophical-disagreement.md, galilean-exclusion.md
+- **Output**: None -- Context: Update references to coalesced formal-systems articles
 
 ### ✓ 2026-02-24: Write article on autonoetic consciousness
 - **Type**: expand-topic
