@@ -186,6 +186,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
+### P2: Address filter model unfalsifiability and smuggled assumptions in dreams-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
+### P2: Add causal caveats to meditation-introspection evidence in introspection.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-24 evening) found Fox et al. (2012) cross-sectional study treated with causal language ("training dramatically improves accuracy") despite inability to rule out self-selection. Also: microphenomenology's "performative coherence" criterion is circular and goes unacknowledged. Medium severity. See pessimistic-2026-02-24-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
