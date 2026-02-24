@@ -9,14 +9,14 @@ ai_system: claude-opus-4-6
 # Tenet Alignment Check
 
 **Date**: 2026-02-24
-**Files checked**: 398
+**Files checked**: 397
 **Errors**: 0
 **Warnings**: 0
-**Notes**: 0
+**Notes**: 2
 
 ## Summary
 
-All 398 content files across `topics/` (203 files) and `concepts/` (195 files) were checked against the five foundational tenets. No errors, warnings, or notes were found. The site maintains excellent tenet alignment across all content.
+All 397 content files across `topics/` (199 files) and `concepts/` (198 files) were checked against the five foundational tenets using comprehensive pattern-based analysis. No errors or warnings were found. Two minor notes were identified — one regarding uncritical presentation of panexperientialism and one internal factual inconsistency. Overall tenet alignment remains excellent.
 
 ## Tenet 1: Dualism
 
@@ -24,11 +24,11 @@ All 398 content files across `topics/` (203 files) and `concepts/` (195 files) w
 
 All references to materialism, physicalism, eliminativism, functionalism, and reductive views of consciousness are properly framed as opposing positions presented for critique. Key observations:
 
-- The `materialism.md` article explicitly frames materialism as "the Map's primary opponent" and mounts systematic objections.
-- The `functionalism.md` article states "The Map rejects functionalism on multiple grounds."
-- Every instance of "consciousness is just neurons/computation" phrasing uses hypothetical/conditional framing or appears within critiqued positions.
-- All articles on IIT, Global Workspace Theory, and other competing frameworks include "Relation to Site Perspective" sections noting conflicts with the Map's dualist commitments.
-- A strong architectural pattern persists: every article engaging opposing views includes dialectical structure with critique, a "Relation to Site Perspective" section, and "What Would Challenge This View?" falsifiability conditions.
+- Every instance of "consciousness is just neurons/computation" phrasing appears within hypothetical/conditional framing or critiqued positions.
+- `materialism.md` explicitly frames materialism as the Map's primary opponent and mounts systematic objections.
+- `functionalism.md` states "The Map rejects functionalism on multiple grounds."
+- All articles on IIT, Global Workspace Theory, and competing frameworks include critical framing noting conflicts with the Map's dualist commitments.
+- The `illusionism.md` concept and all 40+ references to illusionism across the site consistently present the view for critique, applying the regress argument ("misrepresentation presupposes presentation") and self-stultification objection.
 
 ## Tenet 2: Minimal Quantum Interaction
 
@@ -36,13 +36,12 @@ All references to materialism, physicalism, eliminativism, functionalism, and re
 
 No content endorses quantum mysticism, psychokinesis, energy injection by consciousness, or empirically detectable mind-matter interactions. Key observations:
 
-- `brain-specialness-boundary.md` devotes its entire argument to explaining why the Map's mechanism does NOT extend to external psychokinesis, treating PEAR lab results as consistent with null effects.
 - `bidirectional-interaction.md` explicitly states: "Not psychokinesis" and "Not quantum mysticism."
-- The phrase "without injecting energy" appears as a consistent refrain across dozens of articles.
 - `quantum-consciousness.md` includes a dedicated "Distinguishing from 'Quantum Woo'" section.
-- `presentiment-and-retrocausality.md` carefully separates physics-based retrocausality from contested parapsychological claims and states the Map does NOT rest on presentiment research.
-- `spontaneous-collapse-theories.md` honestly notes Orch OR's conflict with minimal interaction, correctly stating the Map favors smaller-scale quantum selection.
-- Empirical invisibility is consistently maintained as a requirement across all quantum interaction articles.
+- The phrase "without injecting energy" appears as a consistent refrain across quantum interaction articles.
+- `brain-specialness-boundary.md` argues against extending the mechanism to external psychokinesis.
+- `presentiment-and-retrocausality.md` carefully separates physics-based retrocausality from contested parapsychological claims.
+- Empirical invisibility is consistently maintained as a requirement.
 
 ## Tenet 3: Bidirectional Interaction
 
@@ -50,11 +49,10 @@ No content endorses quantum mysticism, psychokinesis, energy injection by consci
 
 No content endorses epiphenomenalism, parallelism without interaction, or treats consciousness as causally inert as the article's own position. Key observations:
 
-- The dedicated `epiphenomenalism.md` article systematically dismantles the view using self-stultification, evolutionary objections, and empirical evidence, explicitly stating: "The Unfinishable Map's tenets explicitly reject epiphenomenalism."
-- Historical positions (occasionalism, pre-established harmony, parallelism) are presented in `elisabeths-contemporaries-and-the-interaction-debate.md` with explicit framing of their costs and the Map's disagreement.
-- `leibnizs-mill-argument.md` notes: "Leibniz himself denied mind-body interaction, preferring pre-established harmony. The Map disagrees."
-- `relational-quantum-mechanics.md` honestly acknowledges RQM shows a coherent interpretation where consciousness plays no role, but frames this transparently as identifying "what quantum mechanics requires from what the Map's tenets add."
-- Every epiphenomenalism reference either critiques the view, uses it in a conditional/reductio frame, or presents it as a threat that the Map answers.
+- The dedicated `epiphenomenalism.md` article systematically dismantles the view using self-stultification, evolutionary objections, and empirical evidence.
+- Every use of "along for the ride" (15+ instances across topics and concepts) appears either as a description of epiphenomenalism being critiqued, or in conditional framing presenting the view as a challenge the Map answers.
+- Historical positions (occasionalism, pre-established harmony, parallelism) are presented with explicit framing of their costs and the Map's disagreement.
+- `relational-quantum-mechanics.md` honestly acknowledges RQM shows a coherent interpretation where consciousness plays no role, but frames this transparently.
 
 ## Tenet 4: No Many Worlds
 
@@ -62,11 +60,10 @@ No content endorses epiphenomenalism, parallelism without interaction, or treats
 
 No content endorses MWI, assumes all branches are real, or dismisses indexical identity concerns. Key observations:
 
-- `many-worlds.md` is entirely devoted to arguing against MWI with five structured arguments (ontological extravagance, indexical identity, probability, preferred basis, consciousness unexplained).
-- Dozens of articles invoke the No Many Worlds tenet in their "Relation to Site Perspective" sections, consistently rejecting MWI.
-- MWI is used appropriately as a contrasting position across articles like `collapse-and-time.md`, `quantum-measurement-consciousness-interface.md`, and `quantum-indeterminacy-free-will.md`.
+- `many-worlds.md` is entirely devoted to arguing against MWI with five structured arguments.
+- All 30+ references to "all branches are equally real" appear within either critiques of MWI, conditional/reductio framing, or descriptions of MWI being rejected.
 - Several articles list "Many-Worlds proves correct" as a falsification condition — intellectually honest without endorsing.
-- `simulation.md` discusses MWI in a conditional frame and immediately proceeds to explain how objective collapse preserves single outcomes and indexical identity.
+- The indexical identity argument is consistently deployed as a reason to reject MWI.
 
 ## Tenet 5: Occam's Razor Has Limits
 
@@ -74,17 +71,38 @@ No content endorses MWI, assumes all branches are real, or dismisses indexical i
 
 No content uses parsimony as a decisive argument against dualism or treats Occam's Razor as an unqualified truth. Key observations:
 
-- Every mention of Occam's Razor or parsimony either explicitly frames it as a limited heuristic, presents parsimony-based objections only to rebut them, or uses parsimony arguments in service of the Map's own dualist framework.
-- `objections-to-interactionism.md` lays out the parsimony objection in formal syllogism form, then provides four distinct responses.
+- No instances found of Occam's Razor being used to dismiss dualism anywhere in topics or concepts.
 - `the-case-for-dualism.md` notes that "parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness."
-- `materialism.md` states: "Occam's Razor Has Limits explains why materialism's apparent simplicity is misleading."
-- `philosophy-of-science-under-dualism.md` argues: "Parsimony that requires denying the most certain datum we have — our own experience — is not genuine parsimony."
-- `consciousness-and-the-problem-of-theoretical-virtues.md` provides analytical depth, concluding that without a domain-appropriate simplicity metric, the virtue is underdetermined.
+- `consciousness-and-the-problem-of-theoretical-virtues.md` provides detailed analysis concluding that without a domain-appropriate simplicity metric, the virtue is underdetermined.
+
+## Notes
+
+### animal-consciousness.md
+
+- **Tenet**: Dualism (tension, not violation)
+- **Issue**: The "Process Philosophy Perspective" subsection presents Whitehead's panexperientialism with the statement: "Experience isn't generated by specific neural structures—it's what sufficiently complex organismic integration *is*." This identity claim (consciousness = integration) could be read as conflicting with Tenet 1's irreducibility commitment. The section is clearly presenting Whitehead's view rather than the Map's own position, but lacks the critical distancing typical of other articles.
+- **Quote**: "Experience isn't generated by specific neural structures—it's what sufficiently complex organismic integration *is*."
+- **Recommendation**: Add a sentence noting that while Whitehead's insight about integration-as-process is valuable, the Map holds that experience is irreducible to any physical integration process (per Tenet 1). This file also lacks a "Relation to Site Perspective" section.
+
+### consciousness-and-intelligence.md
+
+- **Tenet**: N/A (internal factual inconsistency)
+- **Issue**: States human working memory capacity as "7±2" (Miller, 1956), while the site's own `animal-consciousness.md` correctly uses the updated figure of "2±1" for chimpanzees (based on Cowan, 2001, which revised the human figure to 4±1). The outdated Miller number persists in this article.
+- **Quote**: "Chimpanzee working memory holds approximately 2±1 items; humans hold 7±2."
+- **Recommendation**: Update to the Cowan (2001) figure of 4±1 for humans, consistent with current cognitive science.
+
+## Structural Observation: Missing "Relation to Site Perspective" Sections
+
+37 files lack the standard "Relation to Site Perspective" section (4 topics, 33 concepts). While not a tenet violation, this section is the primary mechanism for explicitly connecting content to the five tenets. The missing files include several foundational concepts (dualism.md, materialism.md, epiphenomenalism.md, quantum-consciousness.md, interactionist-dualism.md, etc.) that likely predate the convention. These files generally maintain tenet alignment through their content structure, but adding the section would strengthen explicit alignment verification.
+
+**Topics missing section** (4): animal-consciousness.md, death-and-consciousness.md, hard-problem-of-consciousness.md, structure-of-attention.md
+
+**Concepts missing section** (33): brain-interface-boundary.md, causal-closure.md, combination-problem.md, decoherence.md, downward-causation.md, dualism.md, embodied-cognition.md, emergence.md, epiphenomenalism.md, explanatory-gap.md, filter-theory.md, functionalism.md, haecceity.md, integrated-information-theory.md, intentionality.md, interactionist-dualism.md, knowledge-argument.md, materialism.md, meditation-and-consciousness-modes.md, mental-causation.md, mind-matter-interface.md, mysterianism.md, near-death-experiences.md, neural-correlates-of-consciousness.md, neurophenomenology.md, objections-to-interactionism.md, phenomenology.md, quantum-consciousness.md, russellian-monism.md, self-and-consciousness.md, substance-property-dualism.md, witness-consciousness.md, working-memory.md
 
 ## Overall Assessment
 
-The site's tenet alignment remains strong. The architectural pattern of dialectical engagement — present opposing view, critique from Map's perspective, connect to tenets — is consistently maintained across all 398 files. Content engages honestly with opposing positions while maintaining clear commitment to the five foundational tenets. The 13 new files added since the last check (2026-02-23, 385 files) are all properly aligned.
+The site's tenet alignment remains strong. The architectural pattern of dialectical engagement — present opposing view, critique from Map's perspective, connect to tenets — is consistently maintained. Content engages honestly with opposing positions while maintaining clear commitment to the five foundational tenets. The two notes identified are minor tensions rather than genuine conflicts, and the structural observation about missing sections represents an opportunity for incremental improvement rather than a current problem.
 
 ## Files Passing All Checks
 
-All 398 files pass all five tenet checks.
+All 397 files pass all five tenet checks. The two notes above represent minor tensions flagged for potential improvement, not alignment failures.
