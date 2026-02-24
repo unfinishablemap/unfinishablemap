@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the observation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-observation-void-2026-02-22.md. The observation void examines the gap between the act of observing and what observation reveals — whether conscious observation constitutes reality or merely accesses it. Directly supports Tenet 2 (Minimal Quantum Interaction) by exploring the limits of what observation can accomplish. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the minimal consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-minimal-consciousness-void-2026-02-22.md. The minimal consciousness void examines the boundary between what counts as conscious and what does not — the threshold below which consciousness disappears. Directly supports Tenet 1 (Dualism) by probing what is irreducibly conscious versus merely physical. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the ownership void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-ownership-void-2026-02-18.md. The ownership void addresses why experiences belong to a particular subject — the gap between having an experience and it being mine. Relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of how consciousness is coupled to specific physical systems. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Integrate dream-consciousness-and-the-filter-model.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any other content on the site. Add cross-references from related articles (e.g., filter-theory.md, dream-consciousness.md, altered-states articles) or update section index pages to include navigation to this content. Created 2026-02-09.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-24
+
+### P2: Cross-review personal-identity.md considering plurality void insights
+- **Type**: cross-review
+- **Notes**: New article voids/plurality-void.md explores the constitutive singularity of consciousness — we cannot conceive what it would be like to be multiple subjects at once. topics/personal-identity.md covers identity and should cross-reference the plurality void's arguments about why identity is necessarily singular. Check for cross-links and reinforcing arguments.
+- **Source**: chain (from plurality-void.md)
+- **Generated**: 2026-02-24
+
+### P2: Cross-review hard-problem-of-consciousness.md considering autonoetic consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/autonoetic-consciousness.md examines self-knowing awareness and mental time travel as raising the hard problem in miniature. topics/hard-problem-of-consciousness.md is the central hub and should cross-reference autonoetic consciousness as a specific domain where the explanatory gap is especially vivid. Check for cross-links.
+- **Source**: chain (from autonoetic-consciousness.md)
+- **Generated**: 2026-02-24
+
+### P3: Deep review phenomenology-of-self-reference.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-09, never reviewed. Oldest unreviewed voids article not already in the deep-review queue — 15 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
 ### P3: Deep review nomic-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-06, never reviewed. Oldest unreviewed void — 18 days without quality assurance. The nomic void examines whether consciousness could be governed by natural laws at all. Verify coherence, cross-references, and tenet alignment.
