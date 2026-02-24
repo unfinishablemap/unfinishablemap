@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review temporal-consciousness-void.md considering duration void insights
-- **Type**: cross-review
-- **Notes**: New article voids/duration-void.md explores the incompatibility between lived duration and measured time. temporal-consciousness-void.md covers confinement to a moving present. Should cross-reference the duration void as a complementary analysis of temporal limits — one about the present's narrowness, the other about measurement destroying experience. Check for cross-links and consistent framing of Bergson's durée.
-- **Source**: chain (from duration-void.md)
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review personal-identity.md considering autonoetic consciousness insights
 - **Type**: cross-review
 - **Notes**: New article concepts/autonoetic-consciousness.md examines self-projective temporal awareness — the capacity to mentally travel through subjective time. personal-identity.md covers persistence of identity across time and should cross-reference autonoetic consciousness as the phenomenological mechanism enabling temporal self-continuity. Check for cross-links and argument reinforcement.
@@ -176,6 +170,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review temporal-consciousness-void.md considering duration void insights
+- **Type**: cross-review
+- **Notes**: New article voids/duration-void.md explores the incompatibility between lived duration and measured time. temporal-consciousness-void.md covers confinement to a moving present. Should cross-reference the duration void as a complementary analysis of temporal limits — one about the present's narrowness, the other about measurement destroying experience. Check for cross-links and consistent framing of Bergson's durée.
+- **Output**: obsidian/voids/temporal-consciousness-void.md -- Context: Cross-review temporal-consciousness-void.md considering duration void insights
 
 ### ✓ 2026-02-24: Write voids article on the duration void
 - **Type**: expand-topic
