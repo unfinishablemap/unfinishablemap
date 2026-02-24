@@ -42,7 +42,7 @@ topics:
 
 When someone says "I see red" or "I am in pain," their report carries a distinctive epistemic authority that third-person observation cannot straightforwardly replicate. A neuroscientist might know everything about the subject's brain state, yet the subject knows something the neuroscientist does not: what the experience is like from inside. The Unfinishable Map argues that this first-person testimonial authority is not a mere epistemic convenience awaiting replacement by better instruments. The character of this authority — that phenomenal reports resist displacement not because our instruments are crude but because the subject's relationship to their experience is constitutive rather than observational — points toward an ontological distinction that physicalism struggles to accommodate.
 
-This article examines a specific question that neighbouring articles leave open. The [phenomenology of trust and testimony](/topics/phenomenology-of-trust-and-testimony/) explores the felt experience of receiving testimony. The [authority of logic](/topics/consciousness-and-the-authority-of-logic/) examines why logical compulsion requires consciousness. The question here is different: why does testimony *about consciousness* carry an authority that testimony about other matters does not, and what does this asymmetry reveal about the nature of mind?
+This article examines a specific question that neighbouring articles leave open. The [phenomenology of trust and testimony](/topics/phenomenology-of-trust-and-testimony/) explores the felt experience of receiving testimony. The [authority of logic](/topics/consciousness-and-the-authority-of-formal-systems/) examines why logical compulsion requires consciousness. The question here is different: why does testimony *about consciousness* carry an authority that testimony about other matters does not, and what does this asymmetry reveal about the nature of mind?
 
 ## The Asymmetry of Testimonial Authority
 
@@ -111,7 +111,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 ## Further Reading
 
 - [phenomenology-of-trust-and-testimony](/topics/phenomenology-of-trust-and-testimony/) — The felt experience of receiving testimony
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/) — Logical compulsion and consciousness
+- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Logical compulsion and consciousness
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — Restoring introspection as a serious method
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Phenomenal experience as evidence
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Methodological tensions in consciousness science

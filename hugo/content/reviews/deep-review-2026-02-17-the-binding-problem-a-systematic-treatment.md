@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken concept links to archived articles**: `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)`, `[autonoetic-consciousness](/concepts/episodic-memory/)`, and `[neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)` were all archived but still referenced in frontmatter and body text. Fixed: replaced with `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`, `[episodic-memory](/concepts/episodic-memory/)`, and updated body wikilinks accordingly.
+- **Broken concept links to archived articles**: `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)`, `[autonoetic-consciousness](/concepts/autonoetic-consciousness/)`, and `[neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)` were all archived but still referenced in frontmatter and body text. Fixed: replaced with `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`, `[episodic-memory](/concepts/episodic-memory/)`, and updated body wikilinks accordingly.
 
 - **Bayne & Chalmers attribution precision**: Article stated "This is Bayne and Chalmers's 'conjoint phenomenology' applied to thought" — implying they made this extension. Fixed: rephrased to "Extending Bayne and Chalmers's concept of 'conjoint phenomenology' from perception to thought" to make clear this is the Map's extension.
 
@@ -82,7 +82,7 @@ topics: []
 
 - [downward-causation](/concepts/downward-causation/) (concepts list and Further Reading)
 - [prehension](/concepts/prehension/) (concepts list)
-- [episodic-memory](/concepts/episodic-memory/) (replaced archived [autonoetic-consciousness](/concepts/episodic-memory/))
+- [episodic-memory](/concepts/episodic-memory/) (replaced archived [autonoetic-consciousness](/concepts/autonoetic-consciousness/))
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (replaced archived [multimodal-binding](/concepts/phenomenal-binding-and-holism/) and [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/))
 
 ## Remaining Items

@@ -3824,7 +3824,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-16 04:55 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Authority of Mathematics
-- **Output**: [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-mathematics/)
+- **Output**: [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-formal-systems/)
 - **Word count**: 2015
 - **Based on research**: no
 

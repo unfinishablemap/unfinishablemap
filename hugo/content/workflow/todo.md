@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced formal-systems articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/). The following files reference archived articles and may need review: consciousness-and-the-grounds-of-normative-authority.md, consciousness-and-testimony.md, phenomenology-of-understanding.md, self-stultification-as-master-argument.md, phenomenology-of-philosophical-disagreement.md, galilean-exclusion.md
+- **Source**: coalesce
+- **Generated**: 2026-02-24
+
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -53,13 +59,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
 - **Source**: chain (from phenomenal-unity)
-- **Generated**: 2026-02-24
-
-### P2: Write article on autonoetic consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Chain from research-topic. Research notes at research/autonoetic-consciousness-2026-02-24.md. Site already has anoetic-noetic-autonoetic-consciousness.md (Tulving trichotomy) and episodic-memory.md. A dedicated autonoetic consciousness concept page would go deeper into the constitutive vs. contingent debate, Sant'Anna's three philosophical frameworks, the connection to personal identity and temporal self-projection, and the hard-problem implications. Strong tenet alignment: irreducible phenomenology (Dualism), causal role in future self-projection (Bidirectional Interaction). Target section: concepts/.
-- **Source**: chain (from research-topic)
 - **Generated**: 2026-02-24
 
 ### P2: Address convergence argument vulnerability in philosophical-zombies.md
@@ -133,6 +132,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write article on autonoetic consciousness
+- **Type**: expand-topic
+- **Notes**: Chain from research-topic. Research notes at research/autonoetic-consciousness-2026-02-24.md. Site already has anoetic-noetic-autonoetic-consciousness.md (Tulving trichotomy) and episodic-memory.md. A dedicated autonoetic consciousness concept page would go deeper into the constitutive vs. contingent debate, Sant'Anna's three philosophical frameworks, the connection to personal identity and temporal self-projection, and the hard-problem implications. Strong tenet alignment: irreducible phenomenology (Dualism), causal role in future self-projection (Bidirectional Interaction). Target section: concepts/.
+- **Output**: autonoetic consciousness
 
 ### ✓ 2026-02-24: Research autonoetic consciousness
 - **Type**: research-topic

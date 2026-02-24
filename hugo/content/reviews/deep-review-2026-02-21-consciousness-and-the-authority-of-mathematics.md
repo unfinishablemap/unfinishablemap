@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [Consciousness and the Authority of Mathematics](/topics/consciousness-and-the-authority-of-mathematics/)
+**Article**: [Consciousness and the Authority of Mathematics](/topics/consciousness-and-the-authority-of-formal-systems/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -68,7 +68,7 @@ No misattributions, dropped qualifiers, overstated positions, or source/Map conf
 
 ### Enhancements Made
 - Added cross-links to [functionalism](/concepts/functionalism/), [philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/), [integrated-information-theory](/concepts/integrated-information-theory/), [galilean-exclusion](/concepts/galilean-exclusion/), [russellian-monism](/concepts/russellian-monism/), [panpsychism](/concepts/panpsychism/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- Added Further Reading entries for [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/) and [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- Added Further Reading entries for [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) and [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 - Added 7 concepts to frontmatter for better site graph connectivity
 - Noted authority/sovereignty distinction as substantive (depends on argument for non-structural features)
 - Tightened neuroscience paragraph and Galilean recapture section for length neutrality
@@ -83,7 +83,7 @@ No misattributions, dropped qualifiers, overstated positions, or source/Map conf
 - [russellian-monism](/concepts/russellian-monism/)
 - [panpsychism](/concepts/panpsychism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/)
+- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/)
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 
 ## Remaining Items

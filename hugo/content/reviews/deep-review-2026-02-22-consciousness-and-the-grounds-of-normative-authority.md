@@ -56,7 +56,7 @@ None.
 - Tightened prose in contractualism section, binding problem transition, and normative error discussion
 
 ### Cross-links Added
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/) — directly relevant to epistemic authority section
+- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — directly relevant to epistemic authority section
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — relevant to moral authority and normative integration
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — extends phenomenal normativity framework
 

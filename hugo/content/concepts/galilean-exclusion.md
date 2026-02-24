@@ -79,7 +79,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) is, in significant pa
 
 Theories of consciousness face a dilemma traceable to the exclusion. Approaches that remain within the Galilean framework (functionalism, computationalism, Global Workspace Theory) can describe the structural and functional correlates of consciousness with increasing precision. But they struggle to bridge the gap between structure and quality — precisely because the framework was built by excluding quality. Approaches that break from the framework (panpsychism, [neurophenomenology](/concepts/neurophenomenology/), radical enactivism) gain resources for addressing experience directly, but risk losing the scientific rigour that the exclusion made possible.
 
-The [authority of mathematics](/topics/consciousness-and-the-authority-of-mathematics/) debate also reflects the exclusion's legacy. Mathematics excels at describing the primary qualities Galileo kept. Its success with structure does not establish its sovereignty over the secondary qualities he excluded.
+The [authority of mathematics](/topics/consciousness-and-the-authority-of-formal-systems/) debate also reflects the exclusion's legacy. Mathematics excels at describing the primary qualities Galileo kept. Its success with structure does not establish its sovereignty over the secondary qualities he excluded.
 
 ## Relation to Site Perspective
 
@@ -94,7 +94,7 @@ The Unfinishable Map's [tenets](/tenets/) engage with the Galilean exclusion at 
 ## Further Reading
 
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — How the exclusion shapes and constrains the methods available for studying consciousness
-- [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-mathematics/) — Mathematics' power over the primary qualities Galileo kept, and its limits regarding the secondary qualities he excluded
+- [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-formal-systems/) — Mathematics' power over the primary qualities Galileo kept, and its limits regarding the secondary qualities he excluded
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural gap between physical description and phenomenal experience
 - [functionalism](/concepts/functionalism/) — The approach that maps mental states to functional roles — an accommodation within, not an escape from, the Galilean framework
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Nagel's argument that objectivity has limits when applied to inherently subjective phenomena

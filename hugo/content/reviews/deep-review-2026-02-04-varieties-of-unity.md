@@ -81,7 +81,7 @@ None. The article contains no factual errors, internal contradictions, attributi
 ### Cross-links Present (already comprehensive)
 
 - [binding-problem](/concepts/binding-problem/), [phenomenal-unity](/concepts/phenomenal-unity/), [temporal-consciousness](/concepts/temporal-consciousness/), [self-and-consciousness](/concepts/self-and-consciousness/)
-- [personal-identity](/topics/personal-identity/), [autonoetic-consciousness](/concepts/episodic-memory/), [split-brain-consciousness](/topics/split-brain-consciousness/)
+- [personal-identity](/topics/personal-identity/), [autonoetic-consciousness](/concepts/autonoetic-consciousness/), [split-brain-consciousness](/topics/split-brain-consciousness/)
 - [combination-problem](/concepts/combination-problem/), [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/), [witness-consciousness](/concepts/witness-consciousness/)
 - [minimal-consciousness](/concepts/minimal-consciousness/), [illusionism](/concepts/illusionism/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 - [attention-schema-theory](/concepts/attention-schema-theory/)

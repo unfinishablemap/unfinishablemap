@@ -582,7 +582,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 06:45 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Authority of Logic
-- **Output**: [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/)
+- **Output**: [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/)
 - **Word count**: 1825
 - **Based on research**: no
 

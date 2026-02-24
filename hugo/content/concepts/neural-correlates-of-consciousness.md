@@ -96,7 +96,7 @@ Different memory types have different neural correlate requirements, suggesting 
 | Semantic | Noetic | Temporal and frontal neocortex |
 | Episodic | Autonoetic | Hippocampus + prefrontal + posterior |
 
-The hippocampus is essential for [autonoetic consciousness](/concepts/episodic-memory/)—the self-knowing awareness enabling [episodic-memory](/concepts/episodic-memory/). Without it, patients retain [semantic knowledge](/concepts/semantic-memory/) and [procedural skills](/concepts/implicit-memory/) but lose the capacity for mental time travel. This matters for NCC research: the hippocampus isn't the NCC for consciousness generally but for a *specific mode* of consciousness.
+The hippocampus is essential for [autonoetic consciousness](/concepts/autonoetic-consciousness/)—the self-knowing awareness enabling [episodic-memory](/concepts/episodic-memory/). Without it, patients retain [semantic knowledge](/concepts/semantic-memory/) and [procedural skills](/concepts/implicit-memory/) but lose the capacity for mental time travel. This matters for NCC research: the hippocampus isn't the NCC for consciousness generally but for a *specific mode* of consciousness.
 
 The hippocampus also performs binding for both perception and memory. The [binding problem](/concepts/binding-problem/) for consciousness and for episodic memory may be aspects of the same phenomenon—the binding that creates experience and the binding that creates memory might be the same operation.
 

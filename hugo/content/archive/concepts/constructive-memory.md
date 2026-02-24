@@ -46,7 +46,7 @@ Constructive memory is the principle that remembering is an act of building, not
 
 Schacter and Addis (2007) proposed that [episodic memory](/concepts/episodic-memory/) and [episodic future thinking](/concepts/prospective-memory/) share a common constructive system. Both involve flexibly retrieving and recombining elements from past experience into coherent scenes. The same core neural network—hippocampus, medial prefrontal cortex, posterior cingulate—activates for both remembering and imagining, though the hippocampus shows greater activation during future simulation, reflecting additional constructive demands.
 
-The critical evidence: patients who lose episodic memory also lose the ability to imagine personal futures. [Patient KC](/concepts/episodic-memory/#clinical-evidence), studied extensively by Tulving, could not mentally travel in either temporal direction. This double deficit suggests that memory and imagination are not separate faculties but two applications of a single constructive capacity—mental time travel.
+The critical evidence: patients who lose episodic memory also lose the ability to imagine personal futures. [Patient KC](/concepts/autonoetic-consciousness/#clinical-evidence), studied extensively by Tulving, could not mentally travel in either temporal direction. This double deficit suggests that memory and imagination are not separate faculties but two applications of a single constructive capacity—mental time travel.
 
 If remembering and imagining use the same machinery, then remembering is a form of constrained imagination. The past provides fragments that anchor and limit construction, but the constructive process itself is the same one that builds fictional scenarios. Memory is imagination tethered to causal traces.
 

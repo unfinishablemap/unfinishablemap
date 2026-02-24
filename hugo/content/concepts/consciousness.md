@@ -150,7 +150,7 @@ Consciousness varies along multiple dimensions:
 
 **Level**: The degree of consciousness from deep anaesthesia through drowsiness to full alertness. Level affects which contents can enter consciousness and how richly they are experienced.
 
-**Mode**: Different kinds of consciousness with distinct phenomenology. [Autonoetic consciousness](/concepts/episodic-memory/) (episodic memory) involves mental time travel; [witness-consciousness](/concepts/witness-consciousness/) (contemplative practice) involves awareness without content; [dream consciousness](/concepts/dreams-and-consciousness/) differs from waking perception.
+**Mode**: Different kinds of consciousness with distinct phenomenology. [Autonoetic consciousness](/concepts/autonoetic-consciousness/) (episodic memory) involves mental time travel; [witness-consciousness](/concepts/witness-consciousness/) (contemplative practice) involves awareness without content; [dream consciousness](/concepts/dreams-and-consciousness/) differs from waking perception.
 
 **[Temporal Structure](/concepts/temporal-consciousness/)**: Consciousness has intrinsic temporal organisation—the [specious present](/concepts/temporal-consciousness/), memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
 

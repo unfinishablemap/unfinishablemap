@@ -53,7 +53,7 @@ What provides this coherence? The Map's answer: personal narrative. Not narrativ
 
 When you decide to keep working on a difficult project rather than abandon it, you are not making a bare synchronic choice. You are interpreting your present situation through a narrative that connects your past commitment to your current effort to your anticipated completion. The past commitment gives the present effort its meaning. The anticipated future gives both their point. Remove the narrative and the synchronic choice—"keep going or stop?"—loses the context that makes it the choice it is.
 
-[Autonoetic consciousness](/concepts/episodic-memory/) provides the phenomenological machinery. Mental time travel allows you to re-inhabit past decisions with the felt sense that *you* were the one who made them, and to project yourself into future scenarios where *you* will experience the consequences. This temporal self-projection is not incidental to diachronic agency. It is constitutive. Without the capacity to experience past choices as *yours* and future consequences as *yours to face*, there would be no reason to maintain commitments across time.
+[Autonoetic consciousness](/concepts/autonoetic-consciousness/) provides the phenomenological machinery. Mental time travel allows you to re-inhabit past decisions with the felt sense that *you* were the one who made them, and to project yourself into future scenarios where *you* will experience the consequences. This temporal self-projection is not incidental to diachronic agency. It is constitutive. Without the capacity to experience past choices as *yours* and future consequences as *yours to face*, there would be no reason to maintain commitments across time.
 
 Paul Ricoeur's concept of *narrative identity* captures this structure. For Ricoeur, the self is neither a fixed substance nor a mere collection of events but a character constituted through emplotment—the activity of weaving events into a story with a beginning, middle, and anticipated end. The "who" of action emerges through the narrative, not prior to it.
 
@@ -127,7 +127,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 - [personal-identity](/topics/personal-identity/) — What makes you persist across time
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The momentary phenomenology diachronic agency extends
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Temporal metaphysics underlying the framework
-- [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel as the mechanism of temporal self-projection
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel as the mechanism of temporal self-projection
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation
 - [free-will](/topics/free-will/) — The broader context of libertarian agency
 - [moral-responsibility](/concepts/moral-responsibility/) — How agency grounds responsibility

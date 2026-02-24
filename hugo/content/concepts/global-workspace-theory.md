@@ -259,7 +259,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness requiring full workspace ignition
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness with intermediate workspace access
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness bypassing the workspace
-- [autonoetic-consciousness](/concepts/episodic-memory/) — The self-knowing consciousness GWT must explain
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The self-knowing consciousness GWT must explain
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
 - [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The Map's critique of IIT, sharing some concerns about passive consciousness
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to

@@ -63,7 +63,7 @@ Tulving's taxonomy of memory systems is, at its core, a taxonomy of conscious mo
 
 **[Noetic consciousness](/concepts/semantic-memory/)** accompanies semantic memory. Knowing that Paris is the capital of France involves a form of awareness—the *feeling of knowing*—distinct from both unreflective skill and vivid personal recall. Tip-of-the-tongue states, where a word hovers at the edge of retrieval, demonstrate that semantic access has its own phenomenology. Understanding itself feels like something, even when no personal episode is being re-experienced.
 
-**[Autonoetic consciousness](/concepts/episodic-memory/)** accompanies episodic memory and its future-directed counterpart, [episodic future thinking](/concepts/prospective-memory/). Remembering a childhood afternoon is not retrieving a file; it is re-inhabiting a perspective, with a felt sense of *pastness* that functions as a temporal quale. Imagining a future event may involve a parallel phenomenal orientation—what the Map's [prospective-memory](/concepts/prospective-memory/) article terms *futuricity*—though whether this constitutes a genuine temporal quale or a cognitive marker remains debated (the [autonoetic-consciousness](/concepts/episodic-memory/) article argues against a symmetrical futuricity quale). In both directions, the self appears twice: as the present experiencer and as the remembered or anticipated protagonist.
+**[Autonoetic consciousness](/concepts/episodic-memory/)** accompanies episodic memory and its future-directed counterpart, [episodic future thinking](/concepts/prospective-memory/). Remembering a childhood afternoon is not retrieving a file; it is re-inhabiting a perspective, with a felt sense of *pastness* that functions as a temporal quale. Imagining a future event may involve a parallel phenomenal orientation—what the Map's [prospective-memory](/concepts/prospective-memory/) article terms *futuricity*—though whether this constitutes a genuine temporal quale or a cognitive marker remains debated (the [autonoetic-consciousness](/concepts/autonoetic-consciousness/) article argues against a symmetrical futuricity quale). In both directions, the self appears twice: as the present experiencer and as the remembered or anticipated protagonist.
 
 **[Working memory](/concepts/working-memory/)** engages consciousness through active holding and manipulation of information in an experienced present. [Prospective memory](/concepts/prospective-memory/)—remembering to act in the future—extends autonoetic consciousness forward in time, programming the interface for future re-engagement.
 
@@ -161,7 +161,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [autonoetic-consciousness](/concepts/episodic-memory/)
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/)
 - [personal-identity](/topics/personal-identity/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)

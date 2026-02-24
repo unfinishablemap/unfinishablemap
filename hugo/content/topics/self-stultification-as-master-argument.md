@@ -108,7 +108,7 @@ Self-stultification has a performative aspect that distinguishes it from ordinar
 
 This performative contradiction is harder to escape than a merely logical one. A logical contradiction can be resolved by adjusting premises. A performative contradiction persists through every attempt to defend the position, because the defense itself instantiates what the position denies.
 
-The [authority of logic](/topics/consciousness-and-the-authority-of-logic/) article develops a related point: recognising logical necessity as binding—not merely as a pattern one happens to follow—requires consciousness of a kind that physical causation cannot generate. The self-stultification argument shows that this recognition must be causally efficacious, not merely epiphenomenal.
+The [authority of logic](/topics/consciousness-and-the-authority-of-formal-systems/) article develops a related point: recognising logical necessity as binding—not merely as a pattern one happens to follow—requires consciousness of a kind that physical causation cannot generate. The self-stultification argument shows that this recognition must be causally efficacious, not merely epiphenomenal.
 
 ## Scope and Limits
 
@@ -152,7 +152,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 - [argument-from-reason](/topics/argument-from-reason/) — The extended case against physicalism via self-defeat
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position most directly defeated, including the AI exception
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/) — Why logical necessity requires conscious recognition
+- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical necessity requires conscious recognition
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Self-stultification applied to inductive reasoning about consciousness
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) — Whether introspective reports are causally connected to experiences
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — The epistemic framework that self-stultification presupposes

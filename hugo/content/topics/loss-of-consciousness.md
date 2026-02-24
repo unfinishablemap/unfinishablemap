@@ -100,7 +100,7 @@ This finding has profound implications. If one quarter of "unconscious" patients
 
 ## Memory Systems and Loss of Consciousness
 
-Different memory systems show strikingly different vulnerabilities to consciousness disruption. See [episodic-memory](/concepts/episodic-memory/), [implicit-memory](/concepts/implicit-memory/), and [autonoetic-consciousness](/concepts/episodic-memory/) for detailed treatments.
+Different memory systems show strikingly different vulnerabilities to consciousness disruption. See [episodic-memory](/concepts/episodic-memory/), [implicit-memory](/concepts/implicit-memory/), and [autonoetic-consciousness](/concepts/autonoetic-consciousness/) for detailed treatments.
 
 [Episodic memory](/concepts/episodic-memory/) is exquisitely sensitive—anesthesia reliably produces anterograde amnesia. Existing memories remain accessible after recovery; the anesthetic only prevented new encoding. [Implicit memory](/concepts/implicit-memory/) shows remarkable resilience: patients under adequate anesthesia can still form conditioned associations and learn motor patterns without explicit awareness.
 
@@ -189,7 +189,7 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — The evolved mechanism of consciousness reduction and its distinct neural dynamics
 - [episodic-memory](/concepts/episodic-memory/) — Autobiographical memory and its vulnerability to consciousness disruption
 - [implicit-memory](/concepts/implicit-memory/) — Procedural memory and anoetic consciousness that persists through altered states
-- [autonoetic-consciousness](/concepts/episodic-memory/) — The form of consciousness required for episodic encoding
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The form of consciousness required for episodic encoding
 - [binding-problem](/concepts/binding-problem/) — How binding operates differently during sleep versus waking
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it fails to explain loss of consciousness
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation

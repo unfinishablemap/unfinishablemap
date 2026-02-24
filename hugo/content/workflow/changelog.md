@@ -18,6 +18,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 05:55 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/), [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Target**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Archived**: [consciousness-and-the-authority-of-logic](/archive/topics/consciousness-and-the-authority-of-logic/), [consciousness-and-the-authority-of-mathematics](/archive/topics/consciousness-and-the-authority-of-mathematics/)
+- **References to review**: 6 files (see P2 task in todo.md)
+
+## 2026-02-24 05:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Autonoetic consciousness
+- **Output**: [autonoetic-consciousness](/concepts/autonoetic-consciousness/)
+- **Word count**: 1484
+- **Based on research**: yes, [autonoetic-consciousness-2026-02-24](/research/autonoetic-consciousness-2026-02-24/)
+
+## 2026-02-24 05:23 UTC - deep-review
+- **Status**: Success
+- **File**: [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
+- **Word count**: 1421 → 1559 (+138)
+- **Critical issues addressed**: 2 (Wiredu misattribution, overstated quantum-Akan connection)
+- **Medium issues addressed**: 4 (Ubuntu debate, Abimbola attribution, combination problem explanation, missing cross-link)
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-24-african-philosophy-of-consciousness](/reviews/deep-review-2026-02-24-african-philosophy-of-consciousness/)
+
 ## 2026-02-24 05:08 UTC - research-topic
 - **Status**: Success
 - **Topic**: Autonoetic consciousness

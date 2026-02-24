@@ -73,7 +73,7 @@ None. The previous review (2026-01-22) addressed critical issues including:
 
 ### Cross-links Added
 
-None needed—previous review already added [autonoetic-consciousness](/concepts/episodic-memory/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [interactionist-dualism](/concepts/interactionist-dualism/).
+None needed—previous review already added [autonoetic-consciousness](/concepts/autonoetic-consciousness/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [interactionist-dualism](/concepts/interactionist-dualism/).
 
 ## Word Count
 

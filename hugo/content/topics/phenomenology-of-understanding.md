@@ -204,7 +204,7 @@ Several findings would weaken PCT:
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal unfolding of comprehension
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/) — Why logical relationships carry normative force
+- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness
@@ -220,7 +220,7 @@ Several findings would weaken PCT:
 - [galilean-exclusion](/concepts/galilean-exclusion/) — Why the scientific method structurally excludes the phenomenal character that understanding exhibits
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — Consciousness-grounded meaning and existential significance
-- [autonoetic-consciousness](/concepts/episodic-memory/) — Mental time travel and narrative integration
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and narrative integration
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) — Inference about non-actual scenarios
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) — When inference changes what you believe
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property

@@ -141,7 +141,7 @@ It is worth noting, in the spirit of [mysterian](/concepts/mysterianism/) honest
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has phenomenal character
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — How phenomenal consciousness grounds aboutness
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical inference as paradigm case
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/) — Why logical relationships carry normative force
+- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) — Inference about non-actual scenarios

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-18
-**Article**: [Consciousness and the Authority of Logic](/topics/consciousness-and-the-authority-of-logic/)
+**Article**: [Consciousness and the Authority of Logic](/topics/consciousness-and-the-authority-of-formal-systems/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -219,7 +219,7 @@ The consciousness-based account of normative authority would face pressure if:
 - [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reductive explanation
 - [free-will](/topics/free-will/) — Genuine choice at the site of normative conflict
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/) — How consciousness grounds logic's binding force
+- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — How consciousness grounds logic's binding force
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Moral agency when normative demands are extreme
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — Extending phenomenal normativity to environmental obligations
 

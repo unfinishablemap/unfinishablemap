@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken concept link `[autonoetic-consciousness](/concepts/episodic-memory/)`**: No file exists at this path. The correct concept page is `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`. **Resolution**: Fixed link in both frontmatter and body text.
+1. **Broken concept link `[autonoetic-consciousness](/concepts/autonoetic-consciousness/)`**: No file exists at this path. The correct concept page is `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`. **Resolution**: Fixed link in both frontmatter and body text.
 
 2. **Broken concept link `[duration](/concepts/temporal-consciousness/)`**: No file exists. **Resolution**: Removed from frontmatter concepts list (Bergson's durée is discussed inline but needs no dedicated concept link).
 
@@ -82,7 +82,7 @@ topics: []
 
 ### Cross-links Added
 
-- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (fixed from broken [autonoetic-consciousness](/concepts/episodic-memory/))
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (fixed from broken [autonoetic-consciousness](/concepts/autonoetic-consciousness/))
 - [prehension](/concepts/prehension/)
 - [protention](/concepts/protention/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
