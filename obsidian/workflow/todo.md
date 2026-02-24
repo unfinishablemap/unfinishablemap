@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review whether-real.md considering evidential-weight-of-voids insights
+- **Type**: cross-review
+- **Notes**: New article voids/evidential-weight-of-voids.md created 2026-02-24 argues that the existence of cognitive voids provides abductive evidence about consciousness's nature. voids/whether-real.md examines whether voids represent genuine limits or mere temporary ignorance and should cross-reference the new article's evidential arguments. Check for cross-links and argument reinforcement. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Source**: chain (from evidential-weight-of-voids.md)
+- **Generated**: 2026-02-24
+
+### P2: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
+- **Type**: cross-review
+- **Notes**: New article voids/void-as-ground-of-meaning.md created 2026-02-24 argues that cognitive limits are constitutive of meaning rather than merely obstacles. voids/limits-reveal-structure.md covers how limits reveal the structure of consciousness and should cross-reference the new article's treatment of limits as generative. Both support Tenet 5 (Occam's Razor Has Limits). Check for cross-links and complementary arguments.
+- **Source**: chain (from void-as-ground-of-meaning.md)
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the appetitive void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-appetitive-void-2026-02-10.md (14 days unconsumed). Explores the phenomenological gap in understanding desire and wanting — why appetitive experience resists full introspective access. Connects to affective-void.md, cognitive-aversion.md, introspective-opacity.md. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Write voids article on the counterfactual void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-counterfactual-void-2026-02-13.md (11 days unconsumed). Examines the gap between actual conscious experience and what consciousness could-but-doesn't encompass — the space of unrealized phenomenal possibilities. Connects to conceptual-impossibility.md, other-minds-void.md, consciousness-only-territories.md. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Cross-review topology-of-cognitive-failure.md considering compound-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New article voids/compound-cognitive-limits.md created 2026-02-24 examines how individual cognitive limitations compound when consciousness attempts to understand itself. voids/topology-of-cognitive-failure.md maps structural features of cognitive failure and should cross-reference the new article's analysis of interaction effects between separate voids. Check for cross-links and ensure consistent taxonomic treatment.
+- **Source**: chain (from compound-cognitive-limits.md)
+- **Generated**: 2026-02-24
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.

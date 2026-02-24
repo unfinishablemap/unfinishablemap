@@ -38,30 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
-- **Type**: cross-review
-- **Notes**: New article concepts/quantum-measurement-and-subjective-probability.md was created 2026-02-24 covering QBism and observer-dependent probability. concepts/measurement-problem.md provides the Map's core treatment of the quantum measurement problem and should cross-reference QBist perspectives on why observer-dependent probability supports the Map's consciousness-collapse framework. Also check concepts/quantum-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
-- **Generated**: 2026-02-24
-
-### P2: Write voids article on compound cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Oldest unconsumed voids research (17 days). Explores how individual cognitive limitations compound when consciousness attempts to understand itself — the interaction effects between separate voids create emergent barriers that exceed the sum of their parts. Meta-level void that connects the Map's void taxonomy to a structural insight about consciousness research itself. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Write voids article on the void as ground of meaning
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-void-as-ground-of-meaning-2026-02-09.md. Second-oldest unconsumed voids research (15 days). Explores the paradox that cognitive limits are not merely obstacles but may be constitutive of meaning — consciousness requires boundaries to generate significance. Connects to the Map's treatment of why voids matter and supports Tenet 5 (Occam's Razor Has Limits) by showing that simplicity-seeking breaks down where meaning requires irreducible complexity. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Write voids article on the appetitive void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-appetitive-void-2026-02-10.md. Third-oldest unconsumed voids research (14 days). Explores the cognitive territory where desire and wanting resist transparent self-knowledge — we can feel the pull of appetite without understanding what we truly want. Connects to emotional consciousness, introspective opacity, and the Map's treatment of phenomenal access. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -139,12 +115,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
 - **Generated**: 2026-02-24
 
-### P2: Address phenomenology-to-metaphysics gap in free-will.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found that the inferential step from phenomenological evidence (effort, neural signatures) to agent causation lacks explicit argument for why these favour dualist over physicalist explanations. Also: uncited empirical claims (great ape working memory, Bischof-Köhler hypothesis) need references. Tension with epiphenomenalist-threat.md on whether a physical mechanism is needed. See pessimistic-2026-02-24-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-24
-
 ### P3: Deep review phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
@@ -187,10 +157,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
-### P2: Address filter model unfalsifiability and smuggled assumptions in dreams-and-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
-- **Source**: pessimistic-review
+### P3: Write article on the phenomenology of mathematical insight
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical understanding—especially "aha" moments in proof—provides the clearest cases of cognitive phenomenology doing work. Poincaré, Hadamard, and Ramanujan's accounts offer rich phenomenological data. A domain where introspection can be externally validated through performance. Builds on phenomenology-of-understanding.md, consciousness-and-mathematical-cognition.md, argument-from-reason.md. See optimistic-2026-02-24-night.md
+- **Generated**: 2026-02-24
+
+### P3: Write article on Islamic and Sufi philosophical traditions on consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The hard-problem-in-non-western-philosophy article covers only Ibn Sīnā from the Islamic tradition. Al-Ghazālī, Sufi phenomenology (Ibn Arabi on imagination as intermediate ontological realm), and the nafs/ruh/aql distinction provide rich dualist resources. The Sufi inner witness parallels contemplative traditions already on the site. Builds on the-hard-problem-in-non-western-philosophy.md, interaction-problem-in-non-western-philosophy.md. See optimistic-2026-02-24-night.md
+- **Generated**: 2026-02-24
+
+### P3: Write article on illusionism as epiphenomenalism in disguise
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
 - **Generated**: 2026-02-24
 
 ### P2: Add causal caveats to meditation-introspection evidence in introspection.md
@@ -219,6 +201,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Address filter model unfalsifiability and smuggled assumptions in dreams-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
+- **Output**: obsidian/concepts/dreams-and-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-24 evening) found high-severity issue: the filter/transmission model is compatible with virtually any dream phenomenon, making it unfalsifiable as presented. Opening paragraph also smuggles dualist assumptions as neutral observations ("consciousness generates experiential worlds" presupposes what needs proving). Also: "~10 bits/second" claim in dreams uncited; "Dreams transcend physical laws" too strong; quantum interface connection is pure speculation. See pessimistic-2026-02-24-evening.md
+
+### ✓ 2026-02-24: Address phenomenology-to-metaphysics gap in free-will.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the inferential step from phenomenological evidence (effort, neural signatures) to agent causation lacks explicit argument for why these favour dualist over physicalist explanations. Also: uncited empirical claims (great ape working memory, Bischof-Köhler hypothesis) need references. Tension with epiphenomenalist-threat.md on whether a physical mechanism is needed. See pessimistic-2026-02-24-afternoon.md
+- **Output**: obsidian/topics/free-will.md
+
+Task context:
+Pessimistic review found that the inferential step from phenomenological evidence (effort, neural signatures) to agent causation lacks explicit argument for why these favour dualist over physicalist explanations. Also: uncited empirical claims (great ape working memory, Bischof-Köhler hypothesis) need references. Tension with epiphenomenalist-threat.md on whether a physical mechanism is needed. See pessimistic-2026-02-24-afternoon.md
+
+### ✓ 2026-02-24: Write voids article on the void as ground of meaning
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-void-as-ground-of-meaning-2026-02-09.md. Second-oldest unconsumed voids research (15 days). Explores the paradox that cognitive limits are not merely obstacles but may be constitutive of meaning — consciousness requires boundaries to generate significance. Connects to the Map's treatment of why voids matter and supports Tenet 5 (Occam's Razor Has Limits) by showing that simplicity-seeking breaks down where meaning requires irreducible complexity. Target section: voids/.
+- **Output**: Write voids article on the void as ground of meaning
+
+### ✓ 2026-02-24: Write voids article on compound cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-compound-cognitive-limits-2026-02-07.md. Oldest unconsumed voids research (17 days). Explores how individual cognitive limitations compound when consciousness attempts to understand itself — the interaction effects between separate voids create emergent barriers that exceed the sum of their parts. Meta-level void that connects the Map's void taxonomy to a structural insight about consciousness research itself. Target section: voids/.
+- **Output**: Write voids article on compound cognitive limits
+
+### ✓ 2026-02-24: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
+- **Type**: cross-review
+- **Notes**: New article concepts/quantum-measurement-and-subjective-probability.md was created 2026-02-24 covering QBism and observer-dependent probability. concepts/measurement-problem.md provides the Map's core treatment of the quantum measurement problem and should cross-reference QBist perspectives on why observer-dependent probability supports the Map's consciousness-collapse framework. Also check concepts/quantum-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
 
 ### ✓ 2026-02-24: Cross-review tenet-generated-voids.md considering substrate-void, surplus-void, and givenness-void
 - **Type**: cross-review

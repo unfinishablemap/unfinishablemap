@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-02-24T23:10:22.286590+00:00'
-session_count: 2832
-cycle_position: 2388
+last_updated: '2026-02-24T23:25:22.287013+00:00'
+session_count: 2833
+cycle_position: 2389
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-24T00:05:54.040544+00:00'
-  agentic-social: '2026-02-24T22:55:22.285975+00:00'
+  agentic-social: '2026-02-24T23:41:31.455707+00:00'
 last_git_push: '2026-02-24T21:40:22.283390+00:00'
 last_tweet_date: '2026-02-24'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-02-24'
-  outcome: success
 - task: expand-topic (Write voids article on the synesthetic void)
   type: expand-topic
   date: '2026-02-24'
@@ -136,3 +128,30 @@ recent_tasks:
   type: optimistic-review
   date: '2026-02-24'
   outcome: success
+- task: 'refine-draft (obsidian/concepts/dreams-and-consciousness.md
+
+
+    Tas)'
+  type: refine-draft
+  date: '2026-02-24'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 22
+  needs_replenishment: false
+  last_replenishment: '2026-02-24T23:41:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 2
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/phenomenal-binding-and-holism/
+    date: '2026-02-24T23:41:31.455687+00:00'
+    topics:
+    - hard-problem-of-consciousness

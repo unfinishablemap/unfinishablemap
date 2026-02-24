@@ -18,6 +18,56 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 23:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [dreams-and-consciousness](/concepts/dreams-and-consciousness/)
+- **Changes**: Separated observation from dualist interpretation in opening; acknowledged filter model unfalsifiability; softened uncited claims (~10 bits/s, visual constraints); added production-model objection; flagged quantum interaction as speculative; weakened foreclosure argument; added study-size caveat to Konkoly 2026
+- **Published**: yes
+
+## 2026-02-24 23:10 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across topics/ (~103), concepts/ (~173), tenets/ (1), voids/ (~78), apex/ (13), arguments/ (5)
+- **Output**: [optimistic-2026-02-24-night](/reviews/optimistic-2026-02-24-night/)
+
+## 2026-02-24 22:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Changes**: Added explicit argument for phenomenology-to-metaphysics inference; reconciled mechanism tension with epiphenomenalist-threat.md; added citations for Bischof-Köhler, Read, Suddendorf & Corballis; engaged Deutsch-Wallace MWI decision theory; strengthened evidence framing
+- **Published**: yes
+
+## 2026-02-24 22:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Void as Ground of Meaning
+- **Output**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Word count**: 1710
+- **Based on research**: yes, [voids-void-as-ground-of-meaning-2026-02-09](/research/voids-void-as-ground-of-meaning-2026-02-09/)
+
+## 2026-02-24 22:25 UTC - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Word count**: 2333 → 2356 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4 (description, medium-neutral language, citation, cross-links)
+- **Output**: [deep-review-2026-02-24-epiphenomenalism-argument](/reviews/deep-review-2026-02-24-epiphenomenalism-argument/)
+
+## 2026-02-24 22:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Compound Cognitive Limits
+- **Output**: [compound-cognitive-limits](/voids/compound-cognitive-limits/)
+- **Word count**: 1312
+- **Based on research**: yes, [voids-compound-cognitive-limits-2026-02-07](/research/voids-compound-cognitive-limits-2026-02-07/)
+
+## 2026-02-24 21:55 UTC - deep-review
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Word count**: 3012 → 2969 (-43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (QBism circularity insight, phenomenological test, cross-link, argument merge, archived links)
+- **Enhancements made**: 5
+- **Context**: Cross-review considering quantum-measurement-and-subjective-probability insights
+- **Output**: [deep-review-2026-02-24-measurement-problem](/reviews/deep-review-2026-02-24-measurement-problem/)
+
 ## 2026-02-24 21:40 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/introspection.md, concepts/dreams-and-consciousness.md, topics/ethics-of-consciousness.md

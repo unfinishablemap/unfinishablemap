@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-22 14:26:00+00:00
+ai_modified: 2026-02-24 22:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,21 +21,25 @@ concepts:
 - '[[measurement-problem]]'
 created: 2026-01-15
 date: &id001 2026-01-21
+description: Four independent arguments show epiphenomenalism is self-undermining—consciousness
+  must cause something, or we cannot rationally believe anything about it.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 00:57:05+00:00
+last_deep_review: 2026-02-24 22:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[concepts/materialism]]'
+- '[[materialism-argument]]'
+- '[[functionalism-argument]]'
 title: Against Epiphenomenalism
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
 ---
 
-Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet directly contradicts this view. This page presents the cumulative case against epiphenomenalism.
+Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet directly contradicts this view. This article presents the cumulative case against epiphenomenalism.
 
 ## The View Under Attack
 
@@ -239,4 +243,5 @@ The arguments against epiphenomenalism directly support the Map's framework:
 - Robinson, W.S. (2019). Epiphenomenalism. *Stanford Encyclopedia of Philosophy*.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206.
+- Xu, J. et al. (2025). "Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a." *Journal of the American Chemical Society*.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
