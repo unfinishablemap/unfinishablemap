@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the duration void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-duration-void-2026-02-23.md. The duration void examines the cognitive territory where temporal experience breaks down — how consciousness fails to grasp its own temporal extension, connecting to Bergson's durée and the phenomenology of time. Target section: voids/.
-- **Source**: unconsumed_research
+### P2: Cross-review temporal-consciousness-void.md considering duration void insights
+- **Type**: cross-review
+- **Notes**: New article voids/duration-void.md explores the incompatibility between lived duration and measured time. temporal-consciousness-void.md covers confinement to a moving present. Should cross-reference the duration void as a complementary analysis of temporal limits — one about the present's narrowness, the other about measurement destroying experience. Check for cross-links and consistent framing of Bergson's durée.
+- **Source**: chain (from duration-void.md)
 - **Generated**: 2026-02-24
 
 ### P2: Cross-review personal-identity.md considering autonoetic consciousness insights
@@ -176,6 +176,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the duration void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-duration-void-2026-02-23.md. The duration void examines the cognitive territory where temporal experience breaks down — how consciousness fails to grasp its own temporal extension, connecting to Bergson's durée and the phenomenology of time. Target section: voids/.
+- **Output**: Write voids article on the duration void
 
 ### ✓ 2026-02-24: Write voids article on the absorption void
 - **Type**: expand-topic

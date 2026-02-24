@@ -85,6 +85,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge
 - [[dream-consciousness-void|The Dream Consciousness Void]] — Bidirectional inaccessibility between waking and dreaming
 - [[temporal-consciousness-void|The Temporal Consciousness Void]] — Why consciousness is confined to a moving present
+- [[duration-void|The Duration Void]] — Why lived time and measured time cannot be simultaneously inhabited
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order
 
 ### Phenomenology of Limits
