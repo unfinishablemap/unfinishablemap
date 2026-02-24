@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on consciousness, collapse, and the arrow of time
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. If consciousness-caused collapse is real, it may explain temporal asymmetry — why time appears to flow in one direction. This connects the measurement problem to the phenomenology of temporal experience. One of the oldest unconsumed research notes (Jan 14). Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Review tenet-generated-voids.md considering 5 new void articles
-- **Type**: cross-review
-- **Notes**: Five new void articles created 2026-02-24 (plurality-void, observation-void, ownership-void, surplus-void, givenness-void). tenet-generated-voids.md catalogs voids that emerge from the Map's five tenets and should classify these new entries under the appropriate tenet categories. Check which tenet generates each new void, add cross-links, and verify the tenet-void mappings remain accurate.
-- **Source**: chain (from plurality-void, observation-void, ownership-void, surplus-void, givenness-void)
-- **Generated**: 2026-02-24
-
 ### P2: Review tenet-generated-voids.md considering binding-void
 - **Type**: cross-review
 - **Notes**: New voids article binding-void.md created 2026-02-24. tenet-generated-voids.md catalogs voids that emerge from the Map's five tenets and should classify this new entry. The binding void strongly supports Tenet 1 (Dualism) via Descartes' indivisibility argument and Tenet 5 (Occam's Razor Has Limits) via the primitivist convergence. Check tenet-void mappings.
@@ -206,6 +194,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write concept article on consciousness, collapse, and the arrow of time
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md. If consciousness-caused collapse is real, it may explain temporal asymmetry — why time appears to flow in one direction. This connects the measurement problem to the phenomenology of temporal experience. One of the oldest unconsumed research notes (Jan 14). Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (3 slots remaining).
+- **Output**: Write concept article on consciousness, collapse, and the arrow of time
 
 ### ✓ 2026-02-24: Write voids article on the binding void
 - **Type**: expand-topic
