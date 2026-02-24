@@ -4,9 +4,9 @@ description: "Human+AI cartography of the questions each foundational commitment
 created: 2026-01-26
 modified: 2026-02-24
 human_modified: null
-ai_modified: 2026-02-24T20:20:00+00:00
+ai_modified: 2026-02-24T21:26:00+00:00
 draft: false
-last_deep_review: 2026-02-24T20:20:00+00:00
+last_deep_review: 2026-02-24T21:26:00+00:00
 topics: []
 concepts:
   - "[[interactionist-dualism]]"
@@ -23,6 +23,9 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[apophatic-approaches]]"
   - "[[binding-void]]"
+  - "[[substrate-void]]"
+  - "[[the-surplus-void]]"
+  - "[[the-givenness-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -46,7 +49,7 @@ Each tenet generates its characteristic void—a question the tenet points towar
 
 Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-reference-paradox]]).
 
-The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely.
+The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely. The [[substrate-void|substrate void]] traces this characterisation failure from Descartes to the present.
 
 ### Minimal Quantum Interaction: The Mechanism Void
 
@@ -54,7 +57,7 @@ The phenomenology of this void: hitting a wall when trying to articulate the nat
 
 **What it cannot answer**: *How* does a non-physical influence bias quantum probabilities?
 
-The tenet postulates an interface between consciousness and physics but cannot explain how something non-physical—by definition lacking physical properties—can alter probability distributions over physical outcomes. Candidate mechanisms exist: [[quantum-consciousness|Orch OR]] locates quantum effects in microtubules; Stapp's quantum Zeno approach uses orthodox quantum mechanics with mental attention acting like repeated observation. But each mechanism leaves a placeholder at the crucial point: consciousness → [?] → quantum bias.
+The tenet postulates an interface between consciousness and physics but cannot explain how something non-physical—by definition lacking physical properties—can alter probability distributions over physical outcomes. Candidate mechanisms—[[quantum-consciousness|Orch OR]] in microtubules, Stapp's quantum Zeno approach with mental attention as repeated observation—each leave a placeholder at the crucial point: consciousness → [?] → quantum bias.
 
 The placeholder refuses to fill because explaining it would require showing causal relations between physical and non-physical realms. Causal relations, as we understand them, involve physical processes. The mechanism lies outside our conceptual resources.
 
@@ -96,7 +99,7 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 **The Coherence Void**: Do the five tenets form a consistent system? The Map argues they do, but consistency is difficult to prove for informal frameworks. Gödelian considerations suggest sufficiently rich systems contain propositions whose truth cannot be decided within the system. The Map's consistency may be such a proposition—meaningful to ask, impossible to determine from inside.
 
-**The Completeness Void**: Are five tenets enough? Too many? The Map provides no meta-criterion for determining what foundational commitments are necessary. Perhaps a sixth tenet is missing that would resolve some voids. Perhaps the five already contain contradictions we cannot see. The framework cannot specify its own boundaries.
+**The Completeness Void**: Are five tenets enough? Too many? The Map provides no meta-criterion for what foundational commitments are necessary. A sixth tenet might resolve some voids; the five might contain invisible contradictions. The framework cannot specify its own boundaries.
 
 **The Epistemic Privilege Void**: The Map claims consciousness is fundamental and causally efficacious, yet acknowledges we cannot detect its causal effects or characterise its nature. This creates a position structurally similar to unfalsifiable claims—true by stipulation, defended by appealing to our limited epistemic position. How is this different from motivated reasoning in philosophical clothing? The distinguishing criterion may be this: motivated reasoning *hides* from challenges, while the Map catalogues them. But whether this transparency is sufficient remains itself a void—the framework's own resources cannot fully resolve whether its methodology is genuine intellectual honesty or sophisticated self-protection.
 
@@ -104,7 +107,7 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 These voids are predominantly **Unexplorable** rather than merely Unexplored:
 
-The interaction problem has persisted since Princess Elisabeth posed it to Descartes in 1643—nearly 400 years without a satisfying answer, suggesting structural difficulty rather than insufficient effort.
+The interaction problem has persisted since Princess Elisabeth posed it to Descartes in 1643, suggesting structural difficulty rather than insufficient effort.
 
 The voids reflect questions that *cannot be answered* given the conceptual resources available. The framework itself—by making certain commitments—closes off certain answers. Accepting that consciousness is non-physical precludes physical characterisation. Accepting that interaction is minimal precludes empirical detection. The commitments that give the Map its distinctive perspective also generate its characteristic blind spots.
 
@@ -126,7 +129,7 @@ Acknowledging tenet-generated voids serves several purposes.
 
 Every framework generates voids. Materialism faces the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to have neural activity. Panpsychism faces the combination problem—how micro-experiences combine into unified consciousness. Idealism faces the problem of other minds and the regularity of nature. The question is not whether a framework has voids but whether it acknowledges them.
 
-The Map's voids are distinctive, clustering around the consciousness-physics interface—mechanism, nature, selection. This pattern reveals what the Map is about: taking consciousness as fundamental generates specific questions about how it relates to the physical that current conceptual resources cannot answer.
+The Map's voids cluster around the consciousness-physics interface—mechanism, nature, selection—revealing that taking consciousness as fundamental generates questions current conceptual resources cannot answer.
 
 ## Relation to Site Perspective
 
@@ -166,6 +169,9 @@ The framework-generated-voids analysis would be undermined if:
 - [[whether-real|Whether the Voids Are Real]] — The question of genuine versus apparent limits
 - [[self-reference-paradox|The Self-Reference Paradox]] — Why consciousness cannot fully examine itself
 - [[binding-void|The Binding Void]] — Why phenomenal unity resists explanation entirely
+- [[substrate-void|The Substrate Void]] — What consciousness is made of (the Nature Void in depth)
+- [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires
+- [[the-givenness-void|The Givenness Void]] — Why experience presents as immediately given
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 
 ## References

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review tenet-generated-voids.md considering substrate-void, surplus-void, and givenness-void
-- **Type**: cross-review
-- **Notes**: Three new void articles created 2026-02-24 that were not included in earlier cross-review batches: voids/substrate-void.md (supports Tenet 1), voids/the-surplus-void.md (supports Tenet 1), and voids/the-givenness-void.md (supports Tenet 5). tenet-generated-voids.md catalogs which voids emerge from which tenets and should be updated to classify these new entries with their tenet mappings.
-- **Source**: chain (from substrate-void.md, the-surplus-void.md, the-givenness-void.md)
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review measurement-problem.md considering quantum-measurement-and-subjective-probability insights
 - **Type**: cross-review
 - **Notes**: New article concepts/quantum-measurement-and-subjective-probability.md was created 2026-02-24 covering QBism and observer-dependent probability. concepts/measurement-problem.md provides the Map's core treatment of the quantum measurement problem and should cross-reference QBist perspectives on why observer-dependent probability supports the Map's consciousness-collapse framework. Also check concepts/quantum-consciousness.md for complementary arguments. Supports Tenet 2 (Minimal Quantum Interaction).
@@ -212,6 +206,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review tenet-generated-voids.md considering substrate-void, surplus-void, and givenness-void
+- **Type**: cross-review
+- **Notes**: Three new void articles created 2026-02-24 that were not included in earlier cross-review batches: voids/substrate-void.md (supports Tenet 1), voids/the-surplus-void.md (supports Tenet 1), and voids/the-givenness-void.md (supports Tenet 5). tenet-generated-voids.md catalogs which voids emerge from which tenets and should be updated to classify these new entries with their tenet mappings.
+- **Output**: obsidian/voids/tenet-generated-voids.md -- Context: Cross-review tenet-generated-voids.md considering substrate-void, surplus-void, and givenness-void
 
 ### ✓ 2026-02-24: Cross-review collapse-and-time.md considering consciousness-collapse-arrow-of-time insights
 - **Type**: cross-review
