@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on quantum measurement and subjective probability
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and observer-dependent probability interpretations provide philosophical infrastructure for the Map's consciousness-collapse framework. Addresses how subjective probability assignments relate to quantum measurement outcomes. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the plurality void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-plurality-void-2026-02-24.md. Explores the cognitive territory where singular selfhood confronts the possibility of multiple consciousness instances — the gap between "I am one" and "there could be many." Connects to unity-of-consciousness, personal-identity, and the phenomenal-unity concept. Target section: voids/.
@@ -164,6 +158,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write concept article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and observer-dependent probability interpretations provide philosophical infrastructure for the Map's consciousness-collapse framework. Addresses how subjective probability assignments relate to quantum measurement outcomes. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Output**: Write concept article on quantum measurement and subjective probability
 
 ### ✓ 2026-02-24: Write voids article on the indexical void
 - **Type**: expand-topic

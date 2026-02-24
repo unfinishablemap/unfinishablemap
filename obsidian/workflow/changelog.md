@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 14:12 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: Quantum measurement and subjective probability
+- **Output**: No new article created
+- **Reason**: Topic comprehensively covered by 4 existing articles: [[quantum-measurement-and-subjective-probability]] (topic), [[quantum-probability-consciousness]] (concept, coalesced from 2 earlier articles), [[qbism]] (concept), [[measurement-problem]] (concept). All 3 research-suggested angles already implemented. Concepts section at 198/200 capacity.
+- **Based on research**: yes, [[quantum-measurement-subjective-probability-2026-01-23]]
+
 ## 2026-02-24 13:54 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Indexical Void
