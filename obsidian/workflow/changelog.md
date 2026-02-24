@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 06:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [[neural-correlates-of-consciousness]]
+- **Changes**: Fixed TV analogy bias by pairing with physicalist analogy for genuine neutrality; qualified "clear signs" language and added Kondziella et al. citation for 25% covert consciousness statistic
+- **Published**: yes
+
 ## 2026-02-24 06:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/language-and-consciousness]]

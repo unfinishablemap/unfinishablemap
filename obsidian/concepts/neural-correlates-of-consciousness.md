@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-03T01:42:00+00:00
+ai_modified: 2026-02-24T06:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ Finding neural correlates does not resolve the fundamental questions about consc
 
 ### Correlation Is Not Identity
 
-That consciousness correlates with posterior cortical activity does not mean consciousness *is* that activity. A television picture correlates perfectly with electromagnetic signals, but the picture is not the signal. Three possibilities remain:
+That consciousness correlates with posterior cortical activity does not mean consciousness *is* that activity. Consider two analogies pointing in opposite directions: digestion correlates with stomach chemistry and arguably *is* that chemistry; but a television picture correlates with electromagnetic signals while being something the signal carries rather than constitutes. The choice of analogy determines the intuition—which is precisely the point. Correlation alone cannot settle which analogy is apt. Three possibilities remain:
 
 1. **Identity** (materialism): Consciousness *is* neural activity
 2. **Emergence**: Consciousness *arises from* neural activity as a higher-level phenomenon
@@ -103,7 +103,7 @@ The hippocampus also performs binding for both perception and memory. The [[bind
 
 Several findings support this reading:
 
-- **Covert consciousness**: Up to 25% of behaviorally unresponsive patients show clear signs of consciousness via neuroimaging (see [[disorders-of-consciousness-as-test-cases|disorders of consciousness as test cases]]). If NCCs indicated production, how could consciousness persist when its supposed neural basis fails to generate behavioral outputs?
+- **Covert consciousness**: Meta-analyses suggest up to 25% of behaviorally unresponsive patients show neural responses consistent with consciousness during command-following paradigms (Kondziella et al., 2016; see also [[disorders-of-consciousness-as-test-cases|disorders of consciousness as test cases]]). Some researchers interpret these responses as preserved unconscious processing rather than genuine awareness. But on the consciousness interpretation, how could awareness persist when its supposed neural basis fails to generate behavioral outputs?
 - **Disconnection syndromes**: Brain damage typically produces disconnection rather than destruction—hemispherectomy patients retain substantially normal consciousness despite missing half their cortex.
 - **Anesthetic dissociations**: Propofol and ketamine both produce behavioral unresponsiveness but radically different experiences—near-total extinction versus vivid dissociative states.
 
@@ -183,7 +183,20 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
+- Kondziella, D., Friberg, C.K., Frokjaer, V.G., Fabricius, M., & Møller, K. (2016). Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*, 87, 485-492.
 - Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 - Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 - Stanford Encyclopedia of Philosophy. Dualism. https://plato.stanford.edu/entries/dualism/
 - Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+
+<!-- AI REFINEMENT LOG - 2026-02-24
+Changes made:
+- Fixed TV analogy bias in "Correlation Is Not Identity": paired with physicalist digestion analogy to achieve genuine philosophical neutrality (pessimistic review Issue #2)
+- Qualified "clear signs of consciousness" to "neural responses consistent with consciousness" and noted interpretive disagreement (pessimistic review Issue #4)
+- Added Kondziella et al. (2016) citation for the 25% covert consciousness statistic (pessimistic review Issue #4)
+
+Based on pessimistic review (pessimistic-2026-02-24.md), Issues #2 and #4.
+Key improvements: philosophical neutrality and empirical rigor.
+
+This log should be removed after human review.
+-->

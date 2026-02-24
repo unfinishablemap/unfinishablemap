@@ -54,13 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P2: Fix question-begging TV analogy in neural-correlates-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the television analogy in the "Correlation Is Not Identity" section presupposes filter theory (brain receives consciousness from external source) while claiming philosophical neutrality. Either pair with a physicalist analogy for genuine neutrality or acknowledge the analogy's perspective. Also: cite the "25% covert consciousness" statistic and qualify "clear signs." See pessimistic-2026-02-24.md Issues #2 and #4.
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-24
-
 ### P2: Address gap-to-consciousness non-sequitur in measurement-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -118,6 +111,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Fix question-begging TV analogy in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the television analogy in the "Correlation Is Not Identity" section presupposes filter theory (brain receives consciousness from external source) while claiming philosophical neutrality. Either pair with a physicalist analogy for genuine neutrality or acknowledge the analogy's perspective. Also: cite the "25% covert consciousness" statistic and qualify "clear signs." See pessimistic-2026-02-24.md Issues #2 and #4.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+Task context:
+Pessimistic review found the television analogy in the "Correlation Is Not Identity" section presupposes filter theory (brain receives consciousness from external source) while claiming philosophical neutrality. Either pair with a physicalist analogy for genuine neutrality or acknowledge the analogy's perspective. Also: cite the "25% covert consciousness" statistic and qualify "clear signs." See pessimistic-2026-02-24.md Issues #2 and #4.
 
 ### ✓ 2026-02-24: Address convergence argument vulnerability in philosophical-zombies.md
 - **Type**: refine-draft
