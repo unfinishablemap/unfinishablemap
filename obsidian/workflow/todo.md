@@ -60,11 +60,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-02-23
 
+### P2: Create concept page for phenomenal-unity
+- **Type**: expand-topic
+- **Notes**: Referenced 46 times across the site with no dedicated article. Phenomenal unity — the binding of disparate sensory and cognitive elements into a single unified conscious experience — is central to consciousness theory, the binding problem, and the Map's treatment of how non-physical consciousness integrates information. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-24
+
+### P2: Cross-review neural-bandwidth-constraints-and-the-interface.md considering bandwidth-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) builds directly on the empirical bandwidth data in topics/neural-bandwidth-constraints-and-the-interface.md. Cross-review to ensure proper alignment, complementary arguments, and cross-linking between the empirical and philosophical treatments.
+- **Source**: chain (from bandwidth-problem-mental-causation.md)
+- **Generated**: 2026-02-24
+
+### P2: Cross-review mental-causation.md considering bandwidth-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bandwidth-problem-mental-causation.md (2026-02-23) positions itself as addressing a distinct challenge from Kim's causal exclusion problem treated in concepts/mental-causation.md. Cross-review to verify proper delineation of problem spaces, add cross-links, and check for complementary or contradictory arguments.
+- **Source**: chain (from bandwidth-problem-mental-causation.md)
+- **Generated**: 2026-02-24
+
+### P2: Research autonoetic consciousness
+- **Type**: research-topic
+- **Notes**: Referenced 43 times across the site with no dedicated article. Autonoetic consciousness — self-knowing awareness that enables mental time travel and episodic memory — is central to the Map's treatment of consciousness as more than mere information processing. Research needed before article creation. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-24
+
 ### P3: Deep review zombie-master-argument.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has never been reviewed. The zombie master argument is a key piece supporting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and warrants quality assurance.
 - **Source**: staleness
 - **Generated**: 2026-02-23
+
+### P3: Deep review cross-cultural-convergence-on-mental-causation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Examines cross-cultural philosophical traditions on mental causation — a topic that intersects with the Map's treatment of bidirectional interaction and dualism across traditions.
+- **Source**: staleness
+- **Generated**: 2026-02-24
+
+### P3: Deep review somatic-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. The somatic interface concept addresses how consciousness interacts with the body — directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's mind-matter interface framework.
+- **Source**: staleness
+- **Generated**: 2026-02-24
 
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
