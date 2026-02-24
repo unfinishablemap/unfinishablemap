@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the givenness void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-givenness-void-2026-02-22.md. The givenness void examines how consciousness cannot investigate its own presentational structure — the most foundational void. Covers Husserl, Sellars, Heidegger, Marion. Directly supports Tenet 5 (Occam's Razor Has Limits) by showing simplicity fails where consciousness confronts its own ground. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
 ### P2: Review tenet-generated-voids.md considering indexical-void and plurality-void insights
 - **Type**: cross-review
 - **Notes**: New articles voids/indexical-void.md and voids/plurality-void.md were created 2026-02-24. Both directly support Tenet 4 (No Many Worlds) — the indexical void shows "why am I this consciousness?" is unanswerable, the plurality void shows branching consciousness is incoherent. tenet-generated-voids.md maps voids to tenets and should integrate these new exemplars. Check for cross-links and update tenet-void mappings.
@@ -53,6 +47,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-synesthetic-void-2026-02-23.md. The synesthetic void explores phenomenal experiences permanently inaccessible to most humans — concrete empirical evidence that consciousness is not uniform even within humanity. The "extra qualia problem" strengthens the case that qualia resist physical reduction. Target section: voids/.
 - **Source**: unconsumed_research
+- **Generated**: 2026-02-24
+
+### P2: Review introspective-opacity.md and phenomenology-of-the-edge.md considering the-givenness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/the-givenness-void.md created 2026-02-24. The givenness void explores how consciousness cannot examine its own presentational immediacy. introspective-opacity.md covers inability to observe cognitive mechanisms, and phenomenology-of-the-edge.md covers the experience of approaching cognitive limits — both closely related. Check for cross-links, ensure no overlap, and verify complementary framing.
+- **Source**: chain (from the-givenness-void.md)
 - **Generated**: 2026-02-24
 
 ### P2: Review three-kinds-of-void.md considering new void articles
@@ -206,6 +206,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write voids article on the givenness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-givenness-void-2026-02-22.md. The givenness void examines how consciousness cannot investigate its own presentational structure — the most foundational void. Covers Husserl, Sellars, Heidegger, Marion. Directly supports Tenet 5 (Occam's Razor Has Limits) by showing simplicity fails where consciousness confronts its own ground. Target section: voids/.
+- **Output**: Write voids article on the givenness void
 
 ### ✓ 2026-02-24: Write voids article on the surplus void
 - **Type**: expand-topic
