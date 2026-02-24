@@ -84,12 +84,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
 - **Generated**: 2026-02-24
 
-### P2: Cross-review binding-problem.md considering phenomenal-unity insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenal-unity.md (2026-02-24) provides dedicated treatment of the unity of conscious experience. concepts/binding-problem.md is the core article on why unified experience from distributed processing is problematic and should cross-reference the new phenomenal-unity analysis. Check for cross-links, reinforcing arguments, and consistent terminology. Supports Tenet 1 (Dualism).
-- **Source**: chain (from phenomenal-unity.md)
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review contemplative-evidence-for-consciousness.md considering contemplative-pathology insights
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-pathology-and-interface-malfunction.md (2026-02-23) examines what happens when contemplative practice produces adverse effects — dissociation, depersonalisation, the "dark night." topics/contemplative-evidence-for-consciousness.md is the main contemplative article and should acknowledge these failure modes as additional evidence about interface structure. Check for cross-links and balanced treatment. Supports Tenet 3 (Bidirectional Interaction).
@@ -134,6 +128,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Cross-review binding-problem.md considering phenomenal-unity insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenal-unity.md (2026-02-24) provides dedicated treatment of the unity of conscious experience. concepts/binding-problem.md is the core article on why unified experience from distributed processing is problematic and should cross-reference the new phenomenal-unity analysis. Check for cross-links, reinforcing arguments, and consistent terminology. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/binding-problem.md -- Context: Cross-review binding-problem.md considering phenomenal-unity insights
 
 ### ✓ 2026-02-24: Integrate temporal-phenomenology-quantum-selection.md into site navigation
 - **Type**: integrate-orphan

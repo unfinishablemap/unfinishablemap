@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-02-09T00:30:00+00:00
+ai_modified: 2026-02-24T08:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-28T19:07:44+00:00
+last_deep_review: 2026-02-24T08:13:00+00:00
 coalesced_from:
   - "/concepts/phenomenal-binding/"
 ---
@@ -59,11 +59,11 @@ This problem splits into two fundamentally different challenges: the computation
 
 ## The Two Binding Problems
 
-William James coined the "combination problem" in the 19th century: if consciousness involves many separate neural events, how do they combine into unified experience? Philosophers distinguish two versions (Revonsuo 2006):
+William James identified what is now called the "combination problem" in the 19th century: if consciousness involves many separate neural events, how do they combine into unified experience? Philosophers distinguish two versions (Revonsuo 2006):
 
 **BP1: The Segregation Problem** — How does the brain correctly assign features to objects? When you see a red ball bouncing, visual features (redness, roundness), motion (trajectory, speed), and spatial location are processed in different cortical areas. How does the system bind these features together to represent a single ball rather than confused mismatches? This is a tractable computational problem that neuroscience might solve.
 
-**BP2: The Combination Problem** — How do correctly segregated features combine into *phenomenal* unity? This touches the [[hard-problem-of-consciousness|hard problem]] directly. Even if we fully solve BP1—completely explain how features are computationally bound—we haven't addressed why the bound information is experienced as phenomenally unified. Solving BP1 doesn't solve BP2.
+**BP2: The Combination Problem** — How do correctly segregated features produce [[phenomenal-unity|conjoint phenomenology]]—the qualitative "what it is like" of experiencing everything together rather than separately? Even if we fully solve BP1—completely explain how features are computationally bound—we haven't addressed why the bound information is experienced as phenomenally unified. Solving BP1 doesn't solve BP2.
 
 BP2 is the "hard" aspect of binding. As researchers note, "A unified conscious moment with several bits of information presents an apparent physical paradox since it implies that several spatially separate objects exert causal power simultaneously." The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
@@ -105,7 +105,7 @@ Nagel argued split-brain patients have "too much unity to say 'two', yet too muc
 
 ## Binding Beyond Perception
 
-Binding operates across time and cognitive domains, not just within a moment.
+Binding operates across time and cognitive domains, not just within a moment—corresponding to the [[varieties-of-unity|diachronic and cognitive dimensions of unity]].
 
 ### Temporal Binding and Memory
 
@@ -141,7 +141,7 @@ The quantum hypothesis is the Map's preferred approach to BP2 because it offers 
 
 A different approach: treat phenomenal unity as metaphysically basic rather than derived from non-unified elements. If unity is fundamental to consciousness, BP2 isn't a problem to be solved by finding the right mechanism—it's a feature of what consciousness *is*.
 
-Bayne and Chalmers define subsumptive unity: your experience of seeing red-and-round isn't two separate experiences stacked together but a single experience encompassing both features. This makes unity intrinsic to experience rather than something constructed by neural processes. Process philosophy (Whitehead) takes this further: experience is fundamental to each "actual occasion." The question shifts from "how do non-conscious parts produce conscious unity?" to "how do micro-experiences combine into macro-experiences?"—still a [[combination-problem]], but with different metaphysical commitments.
+[[phenomenal-unity|Bayne and Chalmers]] argue for subsumptive unity: your experience of seeing red-and-round is a single experience with its own *conjoint phenomenology*—not two separate experiences stacked together. Unity is intrinsic to experience rather than something constructed by neural processes. Process philosophy (Whitehead) takes this further: experience is fundamental to each "actual occasion." The question shifts from "how do non-conscious parts produce conscious unity?" to "how do micro-experiences combine into macro-experiences?"—still a [[combination-problem]], but with different metaphysical commitments.
 
 On this view, neural mechanisms don't *create* unity; they *condition* which experiential occasions combine into our particular stream of consciousness. The brain's binding operations (BP1) determine the *content* of unified experience—what gets bound together—while unity itself is contributed by consciousness. This explains the persistent BP1/BP2 gap: neuroscience keeps solving coordination problems without touching phenomenal unity because coordination and unity are different in kind.
 
@@ -208,18 +208,3 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 
-<!-- AI REFINEMENT LOG - 2026-02-09
-Changes made:
-- Reduced "The Quantum Alternative" section from ~600 words with 4 subsections to ~200-word concise "The Quantum Hypothesis" section, per writing style guide warnings about quantum mechanism overemphasis
-- Replaced "Current evidence favours quantum binding" with appropriately hedged language acknowledging evidence is preliminary and contested
-- Strengthened "Phenomenal Unity as Primitive" section with additional explanation of why unity-as-intrinsic explains the BP1/BP2 gap
-- Softened opening summary to not lead with quantum as the answer
-- Updated description to remove "Quantum binding may succeed" framing
-- Recalibrated confidence language in Relation to Site Perspective (Minimal Quantum Interaction, No Many Worlds) to use conditional framing
-- Ensured core argument (BP2 unsolved by classical mechanisms) no longer depends on quantum hypothesis being correct
-
-Based on pessimistic review pessimistic-2026-02-06-afternoon.md (Issues #2 and #5).
-Key improvements: Article now presents quantum binding as one speculative hypothesis among several rather than the leading solution. Core argument survives if quantum hypothesis is disproven.
-
-This log should be removed after human review.
--->
