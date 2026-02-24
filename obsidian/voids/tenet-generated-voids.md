@@ -2,11 +2,11 @@
 title: "Tenet-Generated Voids"
 description: "Human+AI cartography of the questions each foundational commitment necessarily leaves unanswered—intellectual honesty as methodology."
 created: 2026-01-26
-modified: 2026-01-26
+modified: 2026-02-24
 human_modified: null
-ai_modified: 2026-02-01T15:03:00+00:00
+ai_modified: 2026-02-24T17:59:00+00:00
 draft: false
-last_deep_review: 2026-02-01T15:03:00+00:00
+last_deep_review: 2026-02-24T17:59:00+00:00
 topics: []
 concepts:
   - "[[interactionist-dualism]]"
@@ -16,6 +16,8 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[indexical-void]]"
+  - "[[plurality-void]]"
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
   - "[[self-reference-paradox]]"
@@ -41,7 +43,7 @@ Each tenet generates its characteristic void—a question the tenet points towar
 
 **What it cannot answer**: What *is* the irreducible non-physical aspect?
 
-Dualism establishes that consciousness cannot be fully explained in physical terms, but it provides no positive characterisation of what consciousness *is*. We know what it is not—physical, reducible, exhaustively describable in the language of neuroscience—but the positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-reference-paradox]]).
+Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-reference-paradox]]).
 
 The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point.
 
@@ -61,9 +63,9 @@ The placeholder refuses to fill because explaining it would require showing caus
 
 **What it cannot answer**: Why can't we detect the influence?
 
-If consciousness biases quantum outcomes in the brain, this should be statistically detectable. The tenet requires effects that are simultaneously real (consciousness does something) and undetectable (the influence remains below experimental precision). This fine-tuning seems suspicious—a theologically familiar problem.
+If consciousness biases quantum outcomes in the brain, this should be statistically detectable. Yet the tenet requires effects simultaneously real and undetectable—fine-tuning that seems suspicious.
 
-The parallel to divine hiddenness is instructive. Theologians face the question: if a loving God exists, why isn't the evidence clearer? Some propose that hiddenness is built into the concept—God is by nature inaccessible. The Map's non-physical consciousness has a similar structure: causally efficacious but empirically silent. The Minimal Quantum Interaction tenet provides a principled answer (the interaction is *exactly* minimal), but this generates its own void: why exactly minimal? The fine-tuning cries out for explanation that the framework cannot provide.
+The parallel to divine hiddenness is instructive. Theologians face the question: if a loving God exists, why isn't the evidence clearer? The Map's non-physical consciousness has a similar structure: causally efficacious but empirically silent. The Minimal Quantum Interaction tenet provides a principled answer (the interaction is *exactly* minimal), but this generates its own void: why exactly minimal? The fine-tuning cries out for explanation that the framework cannot provide.
 
 ### No Many Worlds: The Selection Void
 
@@ -74,6 +76,8 @@ The parallel to divine hiddenness is instructive. Theologians face the question:
 If not all branches are realised, something selects which one becomes actual. If consciousness participates in this selection, what selected outcomes before consciousness existed? Stars formed, chemistry proceeded, mutations accumulated—billions of years before the first mind. The [[prebiotic-collapse|prebiotic collapse problem]] demands an answer.
 
 The tenets article addresses this via "objective reduction with consciousness modulation"—physical mechanisms (gravitational collapse, spontaneous localisation, unknown processes) provide baseline collapse throughout the universe, while consciousness modulates outcomes locally where brains provide the right interface. But this resolution generates new voids: What are these physical mechanisms? How does consciousness "modulate" them? Why do they produce determinate outcomes without observation? The selection void multiplies rather than resolves.
+
+Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [[indexical-void|indexical void]] names this question—and it is the indexical problem that motivates rejecting many-worlds in the first place. The tenet cannot answer the question it was designed to protect.
 
 ### Occam's Razor Has Limits: The Meta-Void
 
@@ -121,9 +125,7 @@ Acknowledging tenet-generated voids serves several purposes.
 
 Every framework generates voids. Materialism faces the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to have neural activity. Panpsychism faces the combination problem—how micro-experiences combine into unified consciousness. Idealism faces the problem of other minds and the regularity of nature. The question is not whether a framework has voids but whether it acknowledges them.
 
-The Map's voids are distinctive. They cluster around the interface between consciousness and physics—the mechanism of interaction, the nature of the non-physical, the selection of outcomes. This pattern reveals what the Map is *about*: taking consciousness seriously as fundamental leads to specific unanswered questions about how the fundamental relates to the derivative.
-
-That these questions resist answer may indicate that consciousness-physics relations exceed current conceptual resources—precisely what the fifth tenet predicts.
+The Map's voids are distinctive, clustering around the consciousness-physics interface—mechanism, nature, selection. This pattern reveals what the Map is about: taking consciousness as fundamental generates specific questions about how it relates to the physical that current conceptual resources cannot answer.
 
 ## Relation to Site Perspective
 
@@ -135,7 +137,7 @@ Each tenet connects to its own void, creating a reflexive structure:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** generates the Detection Void but is required by our ability to discuss consciousness at all. The void marks the empirical silence of something causally real.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** generates the Selection Void but preserves indexical identity. The void is the price of taking *this* consciousness seriously.
+**[[tenets#^no-many-worlds|No Many Worlds]]** generates the Selection Void but preserves indexical identity. Consciousness's [[plurality-void|constitutive singularity]]—its inability to be plural—reinforces this commitment: what cannot branch cannot split across worlds. The void is the price of taking *this* consciousness seriously.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** generates the Meta-Void but permits acknowledging all the others. The void is the price of epistemic humility.
 
@@ -158,6 +160,8 @@ The framework-generated-voids analysis would be undermined if:
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[tenets|The Five Tenets]] — The commitments that generate these voids
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate cognitive architecture
+- [[indexical-void|The Indexical Void]] — Why am I *this* consciousness?
+- [[plurality-void|The Plurality Void]] — Why consciousness cannot be plural
 - [[whether-real|Whether the Voids Are Real]] — The question of genuine versus apparent limits
 - [[self-reference-paradox|The Self-Reference Paradox]] — Why consciousness cannot fully examine itself
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
