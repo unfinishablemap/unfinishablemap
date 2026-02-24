@@ -61,6 +61,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from autonoetic-consciousness.md)
 - **Generated**: 2026-02-24
 
+### P2: Address logical gaps in default-mode-network.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) straw man in psychedelic argument—claims production models predict elimination of self-experience from DMN suppression, but no production model claims DMN is sole producer; (2) cross-cultural convergence presented as supporting filter theory when it equally supports production models. Also missing citation for structural changes claim (line 107). See pessimistic-2026-02-24-dmn.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
 ### P3: Deep review phenomenology-of-self-reference.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-09, never reviewed. Oldest unreviewed voids article not already in the deep-review queue — 15 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
