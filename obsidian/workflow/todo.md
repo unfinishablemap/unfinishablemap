@@ -132,6 +132,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-02-24
 
+### P2: Address decoherence gap in the-epiphenomenalist-threat.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article's central escape from epiphenomenalism (quantum indeterminacy) never addresses the decoherence timescale objection — the strongest technical challenge to the Map's physical mechanism. Either engage with decoherence directly (citing the Map's decoherence article) or acknowledge it as an open problem. See pessimistic-2026-02-24-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
+### P2: Address phenomenology-to-metaphysics gap in free-will.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the inferential step from phenomenological evidence (effort, neural signatures) to agent causation lacks explicit argument for why these favour dualist over physicalist explanations. Also: uncited empirical claims (great ape working memory, Bischof-Köhler hypothesis) need references. Tension with epiphenomenalist-threat.md on whether a physical mechanism is needed. See pessimistic-2026-02-24-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-24
+
 ### P3: Deep review phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
