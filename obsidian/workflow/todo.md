@@ -54,13 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P2: Write article on autonoetic consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Chain from research-topic. Research notes at research/autonoetic-consciousness-2026-02-24.md. Site already has anoetic-noetic-autonoetic-consciousness.md (Tulving trichotomy) and episodic-memory.md. A dedicated autonoetic consciousness concept page would go deeper into the constitutive vs. contingent debate, Sant'Anna's three philosophical frameworks, the connection to personal identity and temporal self-projection, and the hard-problem implications. Strong tenet alignment: irreducible phenomenology (Dualism), causal role in future self-projection (Bidirectional Interaction). Target section: concepts/.
-- **Source**: chain (from research-topic)
-- **Generated**: 2026-02-24
-
 ### P2: Address convergence argument vulnerability in philosophical-zombies.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -132,6 +125,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Write article on autonoetic consciousness
+- **Type**: expand-topic
+- **Notes**: Chain from research-topic. Research notes at research/autonoetic-consciousness-2026-02-24.md. Site already has anoetic-noetic-autonoetic-consciousness.md (Tulving trichotomy) and episodic-memory.md. A dedicated autonoetic consciousness concept page would go deeper into the constitutive vs. contingent debate, Sant'Anna's three philosophical frameworks, the connection to personal identity and temporal self-projection, and the hard-problem implications. Strong tenet alignment: irreducible phenomenology (Dualism), causal role in future self-projection (Bidirectional Interaction). Target section: concepts/.
+- **Output**: autonoetic consciousness
 
 ### ✓ 2026-02-24: Research autonoetic consciousness
 - **Type**: research-topic
