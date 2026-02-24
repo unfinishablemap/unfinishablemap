@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-24 22:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Changes**: Added explicit argument for phenomenology-to-metaphysics inference; reconciled mechanism tension with epiphenomenalist-threat.md; added citations for Bischof-Köhler, Read, Suddendorf & Corballis; engaged Deutsch-Wallace MWI decision theory; strengthened evidence framing
+- **Published**: yes
+
 ## 2026-02-24 22:40 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Void as Ground of Meaning

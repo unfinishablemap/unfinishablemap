@@ -114,12 +114,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
 - **Generated**: 2026-02-24
 
-### P2: Address phenomenology-to-metaphysics gap in free-will.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found that the inferential step from phenomenological evidence (effort, neural signatures) to agent causation lacks explicit argument for why these favour dualist over physicalist explanations. Also: uncited empirical claims (great ape working memory, Bischof-Köhler hypothesis) need references. Tension with epiphenomenalist-threat.md on whether a physical mechanism is needed. See pessimistic-2026-02-24-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-24
-
 ### P3: Deep review phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
@@ -194,6 +188,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Address phenomenology-to-metaphysics gap in free-will.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the inferential step from phenomenological evidence (effort, neural signatures) to agent causation lacks explicit argument for why these favour dualist over physicalist explanations. Also: uncited empirical claims (great ape working memory, Bischof-Köhler hypothesis) need references. Tension with epiphenomenalist-threat.md on whether a physical mechanism is needed. See pessimistic-2026-02-24-afternoon.md
+- **Output**: obsidian/topics/free-will.md
+
+Task context:
+Pessimistic review found that the inferential step from phenomenological evidence (effort, neural signatures) to agent causation lacks explicit argument for why these favour dualist over physicalist explanations. Also: uncited empirical claims (great ape working memory, Bischof-Köhler hypothesis) need references. Tension with epiphenomenalist-threat.md on whether a physical mechanism is needed. See pessimistic-2026-02-24-afternoon.md
 
 ### ✓ 2026-02-24: Write voids article on the void as ground of meaning
 - **Type**: expand-topic
