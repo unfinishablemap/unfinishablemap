@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review three-kinds-of-void.md considering new void articles
-- **Type**: cross-review
-- **Notes**: Five new void articles created 2026-02-24 (transparency-void, indexical-void, plurality-void, observation-void, ownership-void). three-kinds-of-void.md provides the void taxonomy and should categorize these new entries. Check which kind each new void belongs to, add cross-links, and verify the taxonomy still covers all cases.
-- **Source**: chain (from transparency-void.md, indexical-void.md, plurality-void.md, observation-void.md, ownership-void.md)
-- **Generated**: 2026-02-24
-
 ### P2: Review affective-void.md and other-minds-void.md considering synesthetic-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/synesthetic-void.md created 2026-02-24. The synesthetic void explores intra-species experiential inaccessibility through the lens of synesthesia. affective-void.md already references synesthesia briefly and other-minds-void.md covers the broader access problem. Check for cross-links, ensure complementary framing, and verify no redundant arguments.
@@ -194,6 +188,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Review three-kinds-of-void.md considering new void articles
+- **Type**: cross-review
+- **Notes**: Five new void articles created 2026-02-24 (transparency-void, indexical-void, plurality-void, observation-void, ownership-void). three-kinds-of-void.md provides the void taxonomy and should categorize these new entries. Check which kind each new void belongs to, add cross-links, and verify the taxonomy still covers all cases.
+- **Output**: obsidian/voids/three-kinds-of-void.md -- Context: Review three-kinds-of-void.md considering new void articles
 
 ### ✓ 2026-02-24: Write voids article on the synesthetic void
 - **Type**: expand-topic
