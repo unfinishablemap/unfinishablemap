@@ -54,13 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P2: Address convergence argument vulnerability in philosophical-zombies.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the convergence argument (seven arguments converging on dualism) may reflect shared presuppositions rather than independent confirmation. If phenomenal concepts are confused, all seven arguments fail collectively. Article should acknowledge this dependency and explain why the Map considers the foundational commitment (phenomenal consciousness is real) more secure than theories denying it. See pessimistic-2026-02-24.md Issue #1.
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-24
-
 ### P2: Fix question-begging TV analogy in neural-correlates-of-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -125,6 +118,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-24: Address convergence argument vulnerability in philosophical-zombies.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the convergence argument (seven arguments converging on dualism) may reflect shared presuppositions rather than independent confirmation. If phenomenal concepts are confused, all seven arguments fail collectively. Article should acknowledge this dependency and explain why the Map considers the foundational commitment (phenomenal consciousness is real) more secure than theories denying it. See pessimistic-2026-02-24.md Issue #1.
+- **Output**: obsidian/concepts/philosophical-zombies.md
+
+Task context:
+Pessimistic review found the convergence argument (seven arguments converging on dualism) may reflect shared presuppositions rather than independent confirmation. If phenomenal concepts are confused, all seven arguments fail collectively. Article should acknowledge this dependency and explain why the Map considers the foundational commitment (phenomenal consciousness is real) more secure than theories denying it. See pessimistic-2026-02-24.md Issue #1.
 
 ### ✓ 2026-02-24: Update references to coalesced formal-systems articles
 - **Type**: cross-review
