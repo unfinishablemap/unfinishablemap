@@ -210,12 +210,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
 - **Generated**: 2026-02-25
 
-### P2: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-19). Topics article on how contemplative traditions converge on key claims about consciousness. Should be linked from contemplative-methods-as-philosophical-methodology.md, meditation-and-consciousness-modes.md, the-observer-witness-in-meditation.md, and cross-cultural philosophy articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Integrate consciousness-and-pain.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-02-15). Topics article on consciousness and pain — a central phenomenological case for irreducibility. Should be linked from qualia.md, hard-problem-of-consciousness.md, pain-asymbolia.md, phenomenal-consciousness.md, and related clinical/phenomenological articles.
@@ -242,6 +236,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-19). Topics article on how contemplative traditions converge on key claims about consciousness. Should be linked from contemplative-methods-as-philosophical-methodology.md, meditation-and-consciousness-modes.md, the-observer-witness-in-meditation.md, and cross-cultural philosophy articles.
+- **Output**: contemplative-evidence-convergence-across-traditions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-25: Integrate ownership-void.md into site navigation
 - **Type**: integrate-orphan
