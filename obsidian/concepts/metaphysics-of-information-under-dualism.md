@@ -4,7 +4,7 @@ description: "What is information's ontological status when mind and matter are 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T23:53:00+00:00
+ai_modified: 2026-02-25T22:12:00+00:00
 last_deep_review: 2026-02-23T23:53:00+00:00
 draft: false
 topics:
@@ -72,7 +72,7 @@ The Map's preferred position. Information is the *medium of interaction* between
 - Phenomenal content is real and non-physical—the qualitative character of conscious experience.
 - Information serves as the interface because consciousness interacts with the physical world by biasing which physical information states become actual (through [[psychophysical-laws#attention|quantum selection]]).
 
-This preserves genuine dualism (mind and matter remain distinct) while explaining why information appears in both domains: it is the point of contact. Just as a translator is neither French nor English but operates in both languages, information operates across the mind-matter boundary without belonging exclusively to either side.
+This preserves genuine dualism (mind and matter remain distinct) while explaining why information appears in both domains: it is the point of contact. Just as a translator is neither French nor English but operates in both languages, information operates across the mind-matter boundary without belonging exclusively to either side. The Map's account of [[adaptive-computational-depth|adaptive computational depth]] extends this: the informational resolution of reality varies with conscious engagement, concentrating detail where consciousness attends.
 
 ## The Syntax-Semantics Divide
 

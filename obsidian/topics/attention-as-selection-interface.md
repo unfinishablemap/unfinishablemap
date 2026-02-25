@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-11T12:19:00+00:00
+ai_modified: 2026-02-25T22:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -181,7 +181,7 @@ For quantum mechanisms to work, decoherence must be slow enough to permit meanin
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly less than the brain's total throughput. This shapes what consciousness can select: coarse-grained policies and action patterns, not individual neural events. The brain generates and evaluates options unconsciously; consciousness selects among results.
+Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly less than the brain's total throughput. This shapes what consciousness can select: coarse-grained policies and action patterns, not individual neural events. The brain generates and evaluates options unconsciously; consciousness selects among results. This pattern—detail resolving where consciousness engages—echoes the broader principle of [[adaptive-computational-depth|adaptive computational depth]].
 
 ## Testable Predictions
 

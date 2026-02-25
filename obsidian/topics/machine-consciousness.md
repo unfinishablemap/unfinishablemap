@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-02-10T11:57:00+00:00
+ai_modified: 2026-02-25T22:12:00+00:00
 last_deep_review: 2026-01-29T02:14:35+00:00
 draft: false
 topics:
@@ -121,7 +121,7 @@ BCIs that augment biological brains don't directly threaten consciousness—the 
 
 ### Alternative Substrates
 
-**Quantum computers** operate through superposition and entanglement, but are engineered for computation, not biological processes. Being quantum isn't sufficient—temporal structure is still missing.
+**Quantum computers** operate through superposition and entanglement, but are engineered for computation, not biological processes. Being quantum isn't sufficient—temporal structure is still missing. The [[adaptive-computational-depth|adaptive computational depth]] argument reinforces this: consciousness must stand outside the computation it directs, so replicating quantum effects within a computational framework cannot reproduce the non-computable allocator.
 
 **Biological substrates** (growing brains from neural patterns) might preserve consciousness if the interface depends on biology generally. But continuity problems remain: even if conscious, is the grown brain *you*? It's more like creating an identical twin with your memories.
 

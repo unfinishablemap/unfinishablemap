@@ -4,7 +4,7 @@ description: "How conscious experience possesses layered richness beyond surface
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-02-17T02:27:00+00:00
+ai_modified: 2026-02-25T22:12:00+00:00
 draft: false
 last_deep_review: 2026-02-17T02:27:00+00:00
 topics:
@@ -68,7 +68,7 @@ This connects to the [[explanatory-gap]]. The gap is not merely between neural a
 
 The relationship between phenomenal depth and [[access-consciousness|access consciousness]] is complex. Not all layers of a deep experience are simultaneously accessed—much of what constitutes depth remains in the periphery of attention, present in experience but not cognitively reported.
 
-[[contemplative-training-and-phenomenal-access|Contemplative training]] appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention.
+[[contemplative-training-and-phenomenal-access|Contemplative training]] appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention. The Map's account of [[adaptive-computational-depth|adaptive computational depth]] offers a physical analogue: if reality resolves into greater detail where consciousness attends, trained attention may literally elicit more structure from the interface.
 
 This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. Each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there. This connects to [[mysterianism]]—the view that some aspects of consciousness may permanently exceed our cognitive grasp. Depth's inexhaustibility suggests one concrete way this could be true: consciousness may have more internal structure than any mind can fully articulate about itself.
 

@@ -4,7 +4,7 @@ description: "Conscious processing operates at ~10 bits/second while the brain h
 created: 2026-02-09
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T02:53:00+00:00
+ai_modified: 2026-02-25T22:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,7 +90,7 @@ The specific rate—~10 bits per second—constrains what kind of selection cons
 
 ### Policy-Level, Not Neuron-Level
 
-At 10 bits per second, consciousness cannot select individual neural firing events (which occur at millisecond timescales across billions of neurons). It selects *patterns*—action policies, attentional targets, cognitive strategies. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." The [[psychophysical-coupling|coupling law]] must respect this: selection operates at the level of macroscopic neural patterns, not microscopic events.
+At 10 bits per second, consciousness cannot select individual neural firing events (which occur at millisecond timescales across billions of neurons). It selects *patterns*—action policies, attentional targets, cognitive strategies. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." The [[psychophysical-coupling|coupling law]] must respect this: selection operates at the level of macroscopic neural patterns, not microscopic events. This coarse-grained selection mirrors [[adaptive-computational-depth|adaptive computational depth]]—detail resolves where consciousness attends, not uniformly across all neural events.
 
 This matches the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Consciousness doesn't micromanage neural events—it makes coarse-grained selections that cascade through neural systems. The minimality isn't arbitrary; it follows from the bandwidth constraint. Consciousness *cannot* interact at finer grain even if the metaphysics permitted it, because the channel is too narrow.
 
