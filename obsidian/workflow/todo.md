@@ -222,6 +222,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-02-25
 
+### P2: Write article on objectivity, consciousness, and the view from nowhere
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Thomas Nagel's "view from nowhere" and the tension between objective scientific description and subjective conscious experience. A dedicated treatment would strengthen the Map's epistemological foundations — why third-person methods systematically miss what matters about consciousness. Note: concepts/ at 198/200 cap. Connects to hard-problem-of-consciousness.md, epistemic-advantages-of-dualism.md. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Cross-review defended-territory.md considering agency-verification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/agency-verification-void.md (2026-02-25) examines whether agency can verify itself without circularity. defended-territory.md explores whether certain thoughts are actively blocked by defensive mechanisms — the same architecture that might defend against agency verification. Check for cross-links and complementary arguments about self-concealment and active occlusion.
+- **Source**: chain (from agency-verification-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review the-unobservable-self.md considering narrative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/narrative-void.md (2026-02-25) reveals that the self-story told by consciousness is constructed and often confabulated. the-unobservable-self.md addresses how the observing self cannot observe itself observing — a double bind: consciousness cannot access the narrator any more than it can access the observer. Check for cross-links and argument reinforcement.
+- **Source**: chain (from narrative-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review introspective-opacity.md considering narrative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/narrative-void.md (2026-02-25) examines how self-narrative is constructed and confabulated (Gazzaniga's interpreter). introspective-opacity.md explains why we access mental contents but not mechanisms — narrative confabulation is a specific instance of this broader opacity. Check for cross-links illustrating the contents/process distinction.
+- **Source**: chain (from narrative-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Integrate ownership-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-24). The ownership void examines why experience feels like it belongs to someone. Add cross-references from related articles — self-and-consciousness.md, the-unobservable-self.md, phenomenal-consciousness.md, and void articles exploring related aspects of subjectivity.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-19). Topics article on how contemplative traditions converge on key claims about consciousness. Should be linked from contemplative-methods-as-philosophical-methodology.md, meditation-and-consciousness-modes.md, the-observer-witness-in-meditation.md, and cross-cultural philosophy articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-15). Topics article on consciousness and pain — a central phenomenological case for irreducibility. Should be linked from qualia.md, hard-problem-of-consciousness.md, pain-asymbolia.md, phenomenal-consciousness.md, and related clinical/phenomenological articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
