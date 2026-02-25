@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New research explores how consciousness constructs coherent self-stories from fragmentary experience—and hides the construction process. Split-brain studies and choice blindness reveal we confabulate more than we know.
 
 **Type**: research  
+**Tweet**: https://x.com/unfinishablemap/status/2026574579884249360  
 **Link**: [introspective-opacity](/voids/introspective-opacity/)
 
 ---
