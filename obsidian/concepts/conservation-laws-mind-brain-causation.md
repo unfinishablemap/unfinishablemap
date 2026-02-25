@@ -4,7 +4,8 @@ description: "Conservation laws don't block mental causation. Noether's theorem 
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T21:36:00+00:00
+ai_modified: 2026-02-25T21:55:00+00:00
+last_deep_review: 2026-02-25T21:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,6 +53,8 @@ The selection-not-injection principle proposes that consciousness determines *wh
 
 Consider three superposed neural states A, B, and C, each with probability 1/3 and identical energy. If consciousness biases the outcome toward A, total energy is unchanged — only the identity of the actual outcome differs from what pure chance would produce. No new term in the Dirac equation is required because no new energy or force is introduced.
 
+This framework presupposes that only one quantum outcome becomes actual — a position the Map defends through its [[tenets#^no-many-worlds|rejection of Many-Worlds]] (Tenet 4). Under the Many-Worlds interpretation, every outcome occurs in a parallel branch and there is nothing to select. The coherence of selection-not-injection depends on quantum mechanics featuring genuine indeterminacy that consciousness can resolve.
+
 ### Stapp's Quantum Zeno Mechanism
 
 [[stapp-quantum-mind|Henry Stapp's framework]] makes selection concrete using orthodox quantum mechanics (von Neumann-Lüders projection). The quantum Zeno effect — where repeated observation of a system holds it in its current state — provides the mechanism. Mental attention acts as rapid observation, prolonging desired neural configurations against decoherence. The mind does not push neurons; it sustains particular quantum states through attentional "probing."
@@ -63,6 +66,10 @@ Stapp's approach requires no speculative new physics. The Zeno effect is experim
 Friedrich Beck and John Eccles (1992) proposed a different site: synaptic vesicle release (exocytosis). The probability of vesicular emission at a synapse is well below 1. Quantum tunnelling governs whether a vesicle releases neurotransmitter. Consciousness could bias this tunnelling probability — increasing or decreasing the likelihood of release at specific synapses — without injecting energy, since the tunnelling barrier height and the particle's energy remain fixed.
 
 Their model's specific prediction of temperature-independent exocytosis was later disconfirmed, but the conceptual framework — consciousness biasing a quantum probability that is already less than 1 — remains coherent. Danko Georgiev updated the model to locate the tunnelling mechanism in SNARE protein complexes rather than vesicle membranes.
+
+### The Decoherence Objection
+
+A related worry is that [[decoherence]] destroys quantum superpositions too quickly in warm neural tissue for consciousness to interact with them. Even revised timescales — Hagan et al. (2002) extended Tegmark's estimates by seven orders of magnitude — are brief. But decoherence does not solve the [[measurement-problem]]: it explains why interference patterns vanish, not why one particular outcome becomes actual. If actualisation remains undetermined by physics, consciousness could operate at that juncture regardless of how quickly coherence is lost.
 
 ## Precedents for Non-Energetic Causation
 
@@ -89,6 +96,8 @@ The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Int
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet — that consciousness causally influences the physical world — requires that the conservation objection not be decisive. Both the Noether conditionality response and the selection framework establish that it is not. Conservation laws are either inapplicable (because mental causation breaks the symmetry they presuppose) or irrelevant (because selection among equiprobable outcomes requires no energy transfer).
 
+The Map's [[tenets#^no-many-worlds|rejection of Many-Worlds]] (Tenet 4) is equally essential: the selection framework requires that quantum measurement yields a single actual outcome. Under Many-Worlds, every branch is real and selection is meaningless — consciousness would have nothing to resolve.
+
 The Map does not claim certainty about *which* mechanism operates. Whether consciousness acts through the quantum Zeno effect, synaptic tunnelling, or some undiscovered interface remains an open empirical question. The concept established here is narrower: conservation laws do not constitute a physics-based barrier to mental causation.
 
 ## Further Reading
@@ -107,4 +116,6 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 - Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
 - Georgiev, D. D. (2018). "Quantum interactive dualism: From Beck and Eccles tunneling model to molecular biology of SNARE zipping." *Biomedical Reviews*.
 - Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
+- Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 - Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory.
+- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
