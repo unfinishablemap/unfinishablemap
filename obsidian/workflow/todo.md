@@ -192,12 +192,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
 - **Generated**: 2026-02-25
 
-### P2: Cross-review whether-real.md considering cartography-problem insights
-- **Type**: cross-review
-- **Notes**: New article voids/cartography-problem.md (2026-02-25) examines whether mapping consciousness necessarily distorts what it maps — a meta-void about the project of void-exploration itself. whether-real.md examines the ontological status of voids. The cartography problem raises the question of whether void cataloging introduces artifacts, directly relevant to whether voids are "real" features or products of investigation. Check for cross-links and argument reinforcement.
-- **Source**: chain (from cartography-problem.md)
-- **Generated**: 2026-02-25
-
 ### P2: Cross-review incompleteness-void.md considering cartography-problem insights
 - **Type**: cross-review
 - **Notes**: New article voids/cartography-problem.md (2026-02-25) explicitly compares itself to the incompleteness void — the cartography problem operates at the meta-level (voids in the voids framework) while the incompleteness void applies Gödel to mathematical cognition. Cross-review to sharpen this distinction, add cross-links, and ensure consistent treatment of formal incompleteness across levels.
@@ -242,6 +236,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review whether-real.md considering cartography-problem insights
+- **Type**: cross-review
+- **Notes**: New article voids/cartography-problem.md (2026-02-25) examines whether mapping consciousness necessarily distorts what it maps — a meta-void about the project of void-exploration itself. whether-real.md examines the ontological status of voids. The cartography problem raises the question of whether void cataloging introduces artifacts, directly relevant to whether voids are "real" features or products of investigation. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/whether-real.md -- Context: Cross-review whether-real.md considering cartography-problem insights
 
 ### ✓ 2026-02-25: Add causal caveats to meditation-introspection evidence in introspection.md
 - **Type**: refine-draft

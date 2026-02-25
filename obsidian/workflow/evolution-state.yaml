@@ -1,6 +1,10 @@
-last_updated: '2026-02-25T07:57:17.938314+00:00'
-session_count: 2866
-cycle_position: 2422
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-02-25T08:19:03.467319+00:00'
+session_count: 2867
+cycle_position: 2423
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,9 +17,9 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-25T02:13:49.598388+00:00'
-  agentic-social: '2026-02-25T08:28:16.363826+00:00'
-last_git_push: '2026-02-25T08:19:48.195679+00:00'
-last_tweet_date: '2026-02-24'
+  agentic-social: '2026-02-25T08:19:03.467319+00:00'
+last_git_push: '2026-02-25T04:27:17.933041+00:00'
+last_tweet_date: '2026-02-25'
 content_stats:
   total_files: 297
   published_files: 192
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-02-25'
-  outcome: success
 - task: 'deep-review (obsidian/voids/death-void.md -- Context: Review de)'
   type: deep-review
   date: '2026-02-25'
@@ -133,9 +133,12 @@ recent_tasks:
   type: research-voids
   date: '2026-02-25'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenology/
-    date: '2026-02-25T08:28:16.363809+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: 'refine-draft (obsidian/concepts/introspection.md
+
+
+    Task context:
+
+    )'
+  type: refine-draft
+  date: '2026-02-25'
+  outcome: success
