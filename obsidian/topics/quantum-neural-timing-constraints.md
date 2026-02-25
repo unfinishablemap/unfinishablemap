@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-08T18:45:00+00:00
+ai_modified: 2026-02-25T18:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,6 @@ concepts:
   - "[[motor-selection]]"
   - "[[voluntary-attention]]"
   - "[[attention-motor-quantum-interface]]"
-  - "[[decoherence]]"
   - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
@@ -27,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated: null
-last_deep_review: 2026-01-27T17:29:25+00:00
+last_deep_review: 2026-02-25T18:55:00+00:00
 ---
 
 Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—a gap of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is which physical mechanisms remain viable given what we know about both quantum and neural timescales—and whether The Unfinishable Map's preferred framework, post-decoherence selection, operates at a different level of analysis where timing constraints do not apply.
@@ -44,7 +43,7 @@ Understanding the debate requires distinguishing timescales that differ by many 
 | Gamma cycle | ~25 ms (40 Hz) | Neural binding oscillation | Crick & Koch 1990 |
 | Point of no return | ~200 ms | Motor action becomes ballistic | Schultze-Kraft 2016 |
 | Motor commitment | ~280 ms | Neural decision signature in PMd | Thura & Cisek 2014 |
-| Willed attention | ~300 ms | Conscious attention deployment | Bengson 2019 |
+| Frontal theta (willed attention) | ~500 ms | Theta power increase during willed attention | Bengson 2019 |
 | Readiness potential | ~550 ms | Pre-movement neural signal | Libet 1983 |
 
 The bottom four entries—from 200ms to 550ms—represent empirically established neural timing windows. Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. The top four entries represent decoherence estimates ranging from contested to theoretical. The compatibility question depends on which estimate is correct and which mechanism is proposed.
@@ -63,7 +62,7 @@ Hameroff's group challenged Tegmark's parameters (Hagan et al. 2002). They argue
 
 Corrected calculations yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Laboratory measurements by Bandyopadhyay (2014) found collective oscillations in isolated single microtubules at warm temperatures consistent with coherence lasting approximately 100 microseconds. These were in vitro measurements; whether such coherence persists in the noisy environment of living neural tissue remains undemonstrated.
 
-This narrows the gap from twelve orders of magnitude to roughly three. Yet even 100 microseconds is far shorter than the 280–300ms timing windows for motor commitment and willed attention deployment.
+This narrows the gap from twelve orders of magnitude to roughly three. Yet even 100 microseconds is far shorter than the 200–500ms range spanning the point of no return, motor commitment, and willed attention signatures.
 
 ### Mesoscopic Network Effects
 
@@ -71,9 +70,9 @@ Perry (2025) proposed that individual microtubule coherence times underestimate 
 
 If confirmed, mesoscopic coherence would bring quantum timescales into contact with gamma oscillations (~25ms cycles) and potentially influence the faster end of neural decision-making. Recent demonstrations that the quantum-classical boundary keeps receding—including [[decoherence-and-macroscopic-superposition|hot cat states at 1.8K and nanoparticle interference exceeding 7,000 atoms]]—suggest that categorical dismissal of such network effects may be premature.
 
-## The 280–300ms Decision Window
+## Neural Decision Timing
 
-Two independent lines of evidence converge on a ~280–300ms window for conscious neural decisions.
+Multiple lines of evidence identify the temporal windows within which conscious neural decisions occur—from motor commitment at ~280ms to willed attention signatures at ~500ms before action.
 
 ### Motor Commitment
 
@@ -87,13 +86,13 @@ This 280ms window represents when motor decisions become fixed in neural activit
 
 ### Willed Attention Deployment
 
-Bengson (2019) and Vossel (2023) examined the timing of willed versus instructed attention shifts. Key findings:
+Bengson et al. (2019) examined the timing of willed versus instructed attention shifts. Key findings:
 
-- Willed attention deploys at ~300ms, marked by frontal theta oscillations
-- Distinct from instructed attention which engages dorsal attention networks
-- Bidirectional frontoparietal coherence accompanies willed deployment
+- Frontal theta power increases at ~500ms post-cue during willed attention
+- Willed attention is neurally distinct from instructed attention
+- Bidirectional frontoparietal theta-band coherence accompanies willed deployment
 
-The ~300ms timing for willed attention and ~280ms for motor commitment are remarkably close—close enough that the [[attention-motor-quantum-interface|premotor theory of attention]] proposes they reflect a single selection mechanism.
+The ~500ms timing for willed attention's frontal theta signature is later than the ~280ms motor commitment point, placing it closer to the readiness potential (~550ms). This suggests willed attention and motor commitment operate at different stages of the decision process rather than reflecting a single mechanism—though the [[attention-motor-quantum-interface|premotor theory of attention]] proposes they share neural resources despite differing timescales.
 
 ### Point of No Return
 
@@ -110,7 +109,7 @@ This defines the veto window: consciousness can influence motor outcomes up to 2
 3. Rapid attention holds desired patterns stable
 4. The *rate* of observation corresponds to felt mental effort
 
-This mechanism doesn't require sustained coherence across the full 280–300ms decision window. It requires only that observation events occur faster than the relevant decoherence timescale for each observation. If decoherence occurs at microseconds and attention cycles at milliseconds, consciousness would need approximately 1000 observation cycles per decision event.
+This mechanism doesn't require sustained coherence across the full neural decision window (200–500ms). It requires only that observation events occur faster than the relevant decoherence timescale for each observation. If decoherence occurs at microseconds and attention cycles at milliseconds, consciousness would need approximately 1000 observation cycles per decision event.
 
 ### The Key Insight
 
@@ -168,7 +167,7 @@ The tenet specifies the smallest possible non-physical influence on quantum outc
 
 ### Bidirectional Interaction
 
-The 280ms motor commitment and 300ms willed attention timings are neural signatures of decisions—patterns distinguishing willed from automatic processing. If consciousness causally influences these decisions (rather than merely accompanying them), the influence must occur within these windows. The post-decoherence selection model satisfies this: consciousness doesn't maintain coherence across 280ms; it biases outcome selection at indeterminacy points distributed throughout that interval.
+Motor commitment at ~280ms and willed attention theta at ~500ms are neural signatures of decisions—patterns distinguishing willed from automatic processing. If consciousness causally influences these decisions (rather than merely accompanying them), the influence must occur within the 200–500ms window spanning the point of no return through to attention deployment. The post-decoherence selection model satisfies this: consciousness doesn't maintain coherence across these timescales; it biases outcome selection at indeterminacy points distributed throughout the decision process.
 
 ### No Many Worlds
 
@@ -198,10 +197,9 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - [[decoherence-and-macroscopic-superposition]] — Recent experiments pushing the quantum-classical boundary
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort
 - [[motor-selection]] — The 280ms motor commitment point and Libet dissolution
-- [[voluntary-attention]] — The 300ms willed attention deployment
+- [[voluntary-attention]] — Willed attention deployment and frontal theta
 - [[attention-motor-quantum-interface]] — Unification of attention and motor timing
 - [[measurement-problem]] — Why decoherence doesn't solve outcome selection
-- [[decoherence]] — The physical process of coherence loss
 
 ## References
 
@@ -216,18 +214,4 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - Stapp, H.P. (2008). A model of the quantum-classical and mind-brain connections. *arXiv:0803.1633*.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
 - Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401–1416.
-- Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
 
-<!-- AI REFINEMENT LOG - 2026-02-08
-Changes made:
-- Rewrote opening paragraph to distinguish physical mechanisms from the Map's metaphysical framework
-- Added clarifying sentence under "Which Mechanisms Survive?" distinguishing scientific hypotheses from metaphysical interpretation
-- Expanded post-decoherence selection section to explicitly state it is a metaphysical interpretation, not a scientific hypothesis; acknowledged that immunity to timing evidence is a consequence of its metaphysical character, not a subtle trade-off
-- Restructured falsification conditions into two groups: conditions for physical mechanism hypotheses and conditions for the Map's metaphysical position; added honest acknowledgment that timing evidence does not test the Map's preferred view
-- Updated "Relation to Site Perspective" opening to clarify that timing constraints do not directly test the Map's tenets
-- Added metaphysical/empirical distinction to Minimal Quantum Interaction tenet subsection
-
-Based on pessimistic review (2026-02-05 morning) finding that post-decoherence selection survives timing objections by being unfalsifiable by timing evidence, and that falsification conditions mostly test other mechanisms.
-
-This log should be removed after human review.
--->
