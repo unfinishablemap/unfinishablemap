@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address god-of-the-gaps and homunculus issues in mind-brain-separation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) the article's central argument relies on god-of-the-gaps reasoning—unsolved problems treated as evidence for dualism rather than making positive arguments for irreducibility; (2) the "rendering engine" analogy contains a concealed homunculus (requires a "viewer" to explain consciousness). See pessimistic-2026-02-25-mind-brain-separation.md for full analysis including medium-severity issues with dream evidence, Bergson's memory theory, and Whitehead/dualism tension.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-25
+
 ### P2: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/mind-space-void.md (2026-02-25) examines the spatial phenomenology of inner experience. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. The mind-space void reveals that mental space itself has a distinctive phenomenology — spatial qualities without physical extent — which may sharpen the edge phenomenology's treatment of where experience meets its limits. Check for cross-links and argument reinforcement.
