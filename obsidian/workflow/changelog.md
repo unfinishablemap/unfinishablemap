@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 20:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-normative-experience]]
+- **Word count**: 2806 → 2840 (+34)
+- **Critical issues addressed**: 1 (broken link to contemplative-evidence-for-consciousness)
+- **Medium issues addressed**: 3 (functionalist engagement, computationalist response, MQI tenet connection)
+- **Enhancements made**: 5 (strengthened arguments, added cross-links, tightened prose)
+- **Output**: [[reviews/deep-review-2026-02-25-phenomenology-of-normative-experience]]
+
 ## 2026-02-25 19:57 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/transparency-void]]

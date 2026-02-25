@@ -4,7 +4,7 @@ description: "The shared phenomenal structure of moral, epistemic, aesthetic, an
 created: 2026-02-13
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T19:25:00+00:00
+ai_modified: 2026-02-25T20:10:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-experience]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[normative-void]]"
   - "[[consciousness-value-connection]]"
   - "[[phenomenal-depth]]"
-  - "[[contemplative-evidence-for-consciousness-theories]]"
+  - "[[contemplative-evidence-for-consciousness]]"
   - "[[aesthetic-dimension-of-consciousness]]"
   - "[[consciousness-and-the-grounds-of-normative-authority]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-25T20:10:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-normative-properties/"
   - "/topics/phenomenology-of-normative-conflict/"
@@ -62,7 +62,7 @@ Epistemic norms—the demands of rationality, evidence, and logical consistency�
 
 The experience of being compelled by evidence has what might be called phenomenal rigidity. A valid argument doesn't merely suggest its conclusion—it seems to necessitate it. This phenomenal necessity is distinct from physical necessity (feeling the impact of a collision) and moral necessity (feeling obligated to help). It belongs to [[cognitive-phenomenology|cognitive phenomenology]]: the felt character of thinking itself.
 
-When evidence contradicts a held belief, the clash registers phenomenally. Epistemic tension has a characteristic restlessness—the sense that something is unresolved, that the mind's current configuration is unstable. [[phenomenology-of-epistemic-judgment|Belief revision]] proceeds partly through this felt instability: the old belief no longer rests easily in the cognitive landscape.
+When evidence contradicts a held belief, the clash registers as epistemic tension—a characteristic restlessness, the sense that the mind's current configuration is unstable. [[phenomenology-of-epistemic-judgment|Belief revision]] proceeds partly through this felt instability.
 
 ### Aesthetic Normativity
 
@@ -86,13 +86,13 @@ Despite their differences, all four normative domains share a common phenomenal 
 
 Every normative experience presents its object as calling for response. Wrongness demands intervention. Evidence demands belief revision. Beauty demands attention. Self-interest demands action. This demand character—the felt sense of being addressed by a situation—is the phenomenological signature of normativity as such.
 
-The demand is not the experience of being causally pushed. Physical forces move the body; normative properties address the agent. Being knocked over by a wave and being confronted by injustice involve fundamentally different kinds of "being moved." The normative case involves recognition—the sense that the demand is appropriate, that the situation genuinely merits the response it calls for.
+The demand is not the experience of being causally pushed. Physical forces move the body; normative properties address the agent. The normative case involves recognition—the sense that the demand is appropriate, that the situation genuinely merits the response it calls for.
 
 ### Resistance to Preference
 
 Normative properties present themselves as independent of what one wants. The wrongness of cruelty persists whether or not one cares about it. The validity of an argument holds regardless of one's preferences about the conclusion. Beauty impresses itself on those who would rather not be affected.
 
-This is what distinguishes normative experience from mere desire. Desire presents its object as wanted; normative experience presents its object as warranting response. The distinction is experienced directly: wanting chocolate and perceiving injustice are phenomenologically different even when both motivate action.
+This distinguishes normative experience from mere desire. Desire presents its object as wanted; normative experience presents its object as warranting response—a distinction experienced directly.
 
 ### Gradedness
 
@@ -110,9 +110,7 @@ Bernard Williams analysed the extreme case: tragic dilemmas where both options a
 
 ### Cross-Domain Conflict
 
-More structurally revealing is conflict between different normative domains. When moral and prudential demands collide, the phenomenology is distinctive because the competing forces feel qualitatively different.
-
-The whistleblower doesn't face two versions of the same demand. She faces the hot urgency of moral obligation against the gravitational pull of self-preservation—two phenomenally distinct forces requiring resolution in a single action.
+More structurally revealing is conflict between different normative domains. The whistleblower doesn't face two versions of the same demand. She faces the hot urgency of moral obligation against the gravitational pull of self-preservation—two phenomenally distinct forces requiring resolution in a single action.
 
 Consider the collision between epistemic and moral normativity. A researcher discovers that publishing accurate results will cause foreseeable harm. The epistemic demand for truth-telling has its cool, impersonal rigidity; the moral demand for harm prevention has its warm urgency. Two different textures of "ought" compete for the same decision.
 
@@ -128,9 +126,9 @@ If normative demands were mere preferences or desire-strengths, conflict between
 
 ### Against Domain-Specific Accounts
 
-If normativity were merely projected, each domain should feel normative for different reasons—moral norms because of emotional conditioning, epistemic norms because of cognitive habits, aesthetic norms because of cultural training. Sentimentalists like Prinz (2007) argue that moral emotions are culturally constructed projections, and functionalists hold that "demand character" is simply the functional role of certain mental states. But the shared phenomenal architecture across four domains with different evolutionary histories and cultural contexts is surprising on both accounts.
+If normativity were merely projected, each domain should feel normative for different reasons—moral norms because of emotional conditioning, epistemic norms because of cognitive habits, aesthetic norms because of cultural training. Sentimentalists like Prinz (2007) argue that moral emotions are culturally constructed projections, and functionalists hold that "demand character" is simply the functional role of certain mental states. A functionalist might reply that shared architecture is unsurprising: all normative states share the functional roles of evaluation, motivation, and action-guidance. But what demands explanation is not shared *functional* structure but shared *qualitative* structure—four domains with distinct evolutionary histories and cultural contexts all presenting their objects with the same phenomenal character of demanding response. Functional overlap predicts shared processing; it does not predict shared phenomenology.
 
-Phenomenal normativity offers a simpler explanation: normativity is built into the structure of consciousness itself. Different normative domains tap into a single underlying feature—the capacity of experience to present its objects as mattering.
+[[phenomenal-normativity|Phenomenal normativity]] offers a more direct explanation: normativity is built into the structure of consciousness itself. Different normative domains tap into a single underlying feature—the capacity of experience to present its objects as mattering.
 
 ### Consciousness as Arbiter
 
@@ -138,7 +136,7 @@ When normative demands from different domains collide, something must adjudicate
 
 The Unfinishable Map identifies this arbiter as consciousness itself. The felt effort of resolving normative conflict—deliberation, weighing, eventual commitment—is phenomenologically distinct from both demands. It is a third thing: the experience of being the point where incompatible normative forces meet and a single action must emerge. This is the phenomenology of [[agent-causation]]: not a mechanical aggregation of competing force-vectors but a genuine act of judgment that could have gone otherwise.
 
-The computationalist alternative—that the brain runs a weighted sum and produces output—fails to account for several features. Normative conflict involves sustained attention to both demands, imaginative projection into consequences, and a moment of commitment that feels discontinuous with the preceding deliberation. Resolution is not gradual dominance but a decision that acknowledges both demands and accepts the cost of overriding one.
+The computationalist alternative—that the brain runs a weighted sum and produces output—struggles with the phenomenology of resolution specifically. Computational models can simulate oscillation between options and even model attention dynamics. What they cannot capture is the first-person character of commitment: the experience of the deliberation *not* determining the outcome, followed by a leap that the agent recognises as genuinely their own act. This is the [[phenomenology-of-choice|phenomenology of choice]]—resolution is not the gradual dominance of one activation pattern but a decision that acknowledges both demands and accepts the cost of overriding one.
 
 ### Moral Residue as Evidence
 
@@ -156,7 +154,7 @@ Normative conflict unfolds in time with a distinctive rhythm.
 
 **Deliberation** has a characteristic oscillation. Attention moves between competing demands, and each time it focuses on one, that demand gains phenomenal weight—not because new reasons appear but because sustained attention deepens its felt force. This amplification dynamic makes normative deliberation so difficult.
 
-**Resolution**, when it comes, has the character of a *leap*. The agent commits without the deliberation having determined the outcome. This is the phenomenology that [[phenomenology-of-deliberation-under-uncertainty|deliberation under uncertainty]] also reveals, but normative conflict adds a dimension: the leap involves actively overriding a demand one continues to recognise as legitimate.
+**Resolution**, when it comes, has the character of a *leap*. The agent commits without the deliberation having determined the outcome. This is the [[phenomenology-of-choice|phenomenology of choice]] that [[phenomenology-of-deliberation-under-uncertainty|deliberation under uncertainty]] also reveals, but normative conflict adds a dimension: the leap involves actively overriding a demand one continues to recognise as legitimate.
 
 **Aftermath** carries residue. The agent lives forward knowing a genuine demand went unsatisfied—with continuing recognition that the overridden demand was not wrong to claim attention.
 
@@ -164,7 +162,7 @@ Normative conflict unfolds in time with a distinctive rhythm.
 
 If normative properties have genuine phenomenal character, they can be perceived—and perception can fail. Ethical blindness—temporary inability to perceive moral dimensions—has been documented in organisational psychology research (Palazzo, Krings & Hoffrage 2012). The Map suggests parallel forms across domains: epistemic blindness (failing to perceive evidential weight), aesthetic blindness (failing to register beauty), and prudential blindness (failing to perceive risks to one's wellbeing).
 
-If normative properties are perceived rather than inferred, then normative education is perceptual training. [[contemplative-evidence-for-consciousness-theories|Contemplative traditions]] have long held that sustained practice deepens normative perception. Buddhist *vipassanā* sharpens awareness of impermanence, suffering, and non-self—though Buddhist philosophy uses this sharpened perception to question the inherent reality of normative properties, a tension the Map acknowledges.
+If normative properties are perceived rather than inferred, then normative education is perceptual training. [[contemplative-evidence-for-consciousness|Contemplative traditions]] have long held that sustained practice deepens normative perception. Buddhist *vipassanā* sharpens awareness of impermanence, suffering, and non-self—though Buddhist philosophy uses this sharpened perception to question the inherent reality of normative properties, a tension the Map acknowledges.
 
 Normative conflict reveals a different kind of limit: not the absence of perception but its *excess*. In tragic dilemmas, the problem is not that the agent fails to perceive moral properties but that she perceives too many, pulling in incompatible directions. The [[normative-void]] explores the outer boundary: entire domains of normative truth structurally inaccessible to human minds.
 
@@ -176,7 +174,7 @@ The phenomenology of normative experience connects to the Map's [[tenets|foundat
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Normative experience motivates action across all domains. Perceived wrongness drives moral behaviour; perceived evidence drives belief revision; perceived beauty drives creative response. Resolving normative conflict is among the clearest cases of consciousness doing causal work—the agent doesn't passively register competing demands but adjudicates between them and acts on the result. If consciousness were epiphenomenal, both the motivational power of normative experience and the felt effort of navigating conflict would be causally inert decoration.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness influences the physical world through the smallest possible quantum-level nudge, normative conflict may represent a case where the stakes of that influence are highest. Adjudicating between competing demands and committing to action is precisely where conscious selection must translate into physical outcome.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Normative conflict demands that a single action emerge from incompatible demands—and the [[mental-effort|felt effort]] of resolution suggests consciousness doing real work. If consciousness influences the physical world through quantum-level bias of otherwise indeterminate outcomes, normative adjudication is a clear candidate for where that bias operates: the agent's commitment must translate into one physical action rather than another, at a juncture where the demands themselves underdetermine the outcome.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Normative demands have indexical force—they address *this* agent in *this* situation. Many-worlds dissolves this indexicality: all responses occur across branches. The felt weight of normative demands—and the gravity of normative conflict—are coherent only if outcomes are singular. When Agamemnon chooses, one daughter dies in this world, with no branch where the alternative obtained. Moral residue becomes puzzling if every resolution actualises somewhere.
 
@@ -192,7 +190,7 @@ The phenomenology of normative experience connects to the Map's [[tenets|foundat
 - [[aesthetic-dimension-of-consciousness]] — Beauty and ugliness as irreducible phenomenal features
 - [[normative-void]] — Where normative perception reaches its limits
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
-- [[contemplative-evidence-for-consciousness-theories]] — Contemplative deepening of normative perception
+- [[contemplative-evidence-for-consciousness]] — Contemplative deepening of normative perception
 - [[consciousness-and-the-grounds-of-normative-authority]] — How consciousness grounds normative authority
 - [[topics/free-will]] — Normative conflict as the site of genuine choice
 - [[authentic-vs-inauthentic-choice]] — When choice engages consciousness's selection function
