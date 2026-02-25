@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering counterfactual void insights
-- **Type**: cross-review
-- **Notes**: New article voids/counterfactual-void.md (2026-02-25) reveals that modal cognition — imagining what could have been otherwise — is architecturally constrained. free-will.md extensively uses counterfactual reasoning ("could have done otherwise"). The counterfactual void's finding that this modal faculty has invisible boundaries directly impacts libertarian free will arguments. Add cross-reference and address this constraint.
-- **Source**: chain (from counterfactual-void.md)
-- **Generated**: 2026-02-25
-
 ### P3: Deep review epistemological-limits-occams-razor.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) in voids/ created 2026-02-22, never reviewed. Examines the epistemological limits of Occam's Razor — directly supports Tenet 5 (Occam's Razor Has Limits), the Map's least-covered foundational commitment. Quality assurance is especially important for tenet-supporting content. Verify coherence, cross-references, and tenet alignment.
@@ -248,6 +242,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review free-will.md considering counterfactual void insights
+- **Type**: cross-review
+- **Notes**: New article voids/counterfactual-void.md (2026-02-25) reveals that modal cognition — imagining what could have been otherwise — is architecturally constrained. free-will.md extensively uses counterfactual reasoning ("could have done otherwise"). The counterfactual void's finding that this modal faculty has invisible boundaries directly impacts libertarian free will arguments. Add cross-reference and address this constraint.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering counterfactual void insights
 
 ### ✓ 2026-02-25: Integrate consciousness-threshold-in-cognitive-evolution.md into site navigation
 - **Type**: integrate-orphan

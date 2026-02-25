@@ -4,8 +4,8 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-24T22:56:00+00:00
-last_deep_review: 2026-02-22T09:58:00+00:00
+ai_modified: 2026-02-25T12:26:00+00:00
+last_deep_review: 2026-02-25T12:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ related_articles:
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[dream-consciousness]]"
   - "[[motor-control-quantum-zeno]]"
+  - "[[counterfactual-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -85,9 +86,9 @@ The [[phenomenology-of-choice|phenomenology of choice]] provides direct evidence
 
 ### Counterfactual Reasoning
 
-Genuine choice requires [[counterfactual-reasoning|counterfactual reasoning]]—the capacity to imagine alternatives and evaluate what would follow from each. The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess; a sated chimpanzee won't store food for future hunger because it cannot vividly represent that counterfactual state. Great apes show working memory capacity of roughly 2±1 items versus humans' 7±2, limiting their ability to hold actual situation, counterfactual premise, and counterfactual consequences simultaneously.
+Genuine choice requires [[counterfactual-reasoning|counterfactual reasoning]]—the capacity to imagine alternatives and evaluate what would follow from each. The evidence suggests this capacity requires consciousness: species with reduced conscious capacity lack the working memory to hold actual situation, counterfactual premise, and consequences simultaneously (Suddendorf & Corballis, 2007; Read, 2008). Without the capacity to represent "what would happen if I chose X," an agent is restricted to pattern-matching rather than genuinely evaluating alternatives. See [[counterfactual-reasoning]] for the full case, including the Bischof-Köhler hypothesis and the [[conscious-vs-unconscious-processing|conscious vs unconscious processing]] evidence.
 
-This suggests that counterfactual reasoning—and therefore genuine deliberation—requires consciousness. The [[baseline-cognition|baseline cognition]] framework predicts this: capacities requiring extensive working memory should be absent or severely limited in species with reduced conscious capacity (Suddendorf & Corballis, 2007; Read, 2008). The [[conscious-vs-unconscious-processing|conscious vs unconscious processing]] literature confirms it—spontaneous intentional action requires consciousness; unconscious processing can respond to stimuli but cannot initiate action from internal states alone. Without the capacity to represent "what would happen if I chose X," an agent is restricted to pattern-matching rather than genuinely evaluating alternatives.
+Yet the [[counterfactual-void|counterfactual void]] reveals that even human counterfactual reasoning has architectural limits. Byrne's research shows we mutate nearby features of actuality—actions over inactions, controllable over uncontrollable factors—rather than freely exploring possibility space. As imagined alternatives grow more radical, they thin to schematic labels without genuine content. This constrains but does not undermine libertarian free will. Agent causation requires evaluating *nearby* alternatives sufficient for practical deliberation, not surveying the full space of metaphysical possibility. The nearest-world constraint is what [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] predicts: consciousness accesses the range of alternatives relevant to action through a narrow causal interface, not an unlimited modal horizon.
 
 ### The Physical Mechanism Question
 
@@ -226,6 +227,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[mental-causation]] — Essential for free will; how the framework addresses Kim's exclusion
 - [[phenomenology-of-choice]] — The experiential structure of deciding
 - [[counterfactual-reasoning]] — The consciousness-dependent capacity to imagine and evaluate alternatives
+- [[counterfactual-void]] — The architectural limits of modal cognition and what they reveal about free will's scope
 - [[libet-experiments]] — Detailed analysis including retrocausal resolution
 - [[voluntary-attention]] — Paradigm case of consciousness selecting neural patterns
 - [[motor-selection]] — Second selection domain with parallel neural signatures
@@ -250,20 +252,20 @@ Free will stands at the intersection of all five [[tenets]]:
 - Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation. *Science*, 324(5928), 811-813.
 - Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
 - Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation. In L. H. Eckensberger & E. D. Lantermann (Eds.), *Emotion und Reflexivität* (pp. 3-47). Urban & Schwarzenberg.
+- Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
 - Cramer, J. G. (1986). Transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 - Read, D. W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 - Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 
-<!-- AI REFINEMENT LOG - 2026-02-24
+<!-- AI REFINEMENT LOG - 2026-02-25
 Changes made:
-- Added bridging paragraph after three evidence lines for agent causation, explicitly arguing why phenomenology + neural signatures + reasons-guidance favour agent causation over physicalist alternatives (addresses phenomenology-to-metaphysics gap)
-- Clarified mechanism independence: distinguished the philosophical case for agent causation (that it's real) from the physical implementation question (how it interfaces with the brain), reconciling tension with epiphenomenalist-threat.md
-- Added inline citations for Bischof-Köhler hypothesis (Bischof-Köhler 1985; Suddendorf & Corballis 2007) and great ape working memory (Read 2008), plus added all three to References
-- Engaged with Deutsch-Wallace MWI decision theory in the No Many Worlds tenet section rather than dismissing MWI without addressing its defenders' response
-- Strengthened the closing paragraph's characterisation of phenomenological evidence: now acknowledges contestation and frames the Map's response as inference to best explanation
+- Integrated counterfactual void insights into the Counterfactual Reasoning subsection: acknowledged architectural limits of modal cognition (Byrne's nearest-world bias, schematic thinning) while arguing these constraints clarify rather than undermine libertarian free will
+- Condensed Bischof-Köhler exposition (duplicated concept page detail) and replaced with cross-reference to [[counterfactual-reasoning]]
+- Added cross-link to [[counterfactual-void]] in body text, Further Reading, and related_articles frontmatter
+- Added Byrne (2005) to References
 
-Prompted by pessimistic review (pessimistic-2026-02-24-afternoon.md) identifying inferential gaps, uncited claims, inter-article tension, and unengaged MWI response.
-Key improvements: Article now explicitly argues for agent causation rather than assuming phenomenology entails it, and reconciles with epiphenomenalist-threat.md on mechanism necessity.
+Prompted by cross-review of counterfactual-void article insights.
+Key improvement: Article now engages with the limits of counterfactual reasoning, arguing the nearest-world constraint is predicted by Minimal Quantum Interaction rather than ignoring modal architecture constraints.
 
 This log should be removed after human review.
 -->
