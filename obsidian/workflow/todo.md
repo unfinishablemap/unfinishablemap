@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review cognitive-aversion.md considering appetitive void insights
-- **Type**: cross-review
-- **Notes**: New article voids/appetitive-void.md argues desire structurally constitutes cognition at a deeper level than aversion. cognitive-aversion.md discusses thoughts we flee; the appetitive void goes further to show desire shapes the entire cognitive field. Should integrate these as downstream/upstream in the same framework.
-- **Source**: chain (from appetitive-void.md)
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -206,6 +200,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Review cognitive-aversion.md considering appetitive void insights
+- **Type**: cross-review
+- **Notes**: New article voids/appetitive-void.md argues desire structurally constitutes cognition at a deeper level than aversion. cognitive-aversion.md discusses thoughts we flee; the appetitive void goes further to show desire shapes the entire cognitive field. Should integrate these as downstream/upstream in the same framework.
+- **Output**: obsidian/voids/cognitive-aversion.md -- Context: Review cognitive-aversion.md considering appetitive void insights
 
 ### ✓ 2026-02-25: Review death-void.md considering void-as-ground-of-meaning insights
 - **Type**: cross-review
