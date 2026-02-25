@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Resolve "deepest void" contradiction between origin-of-consciousness.md and intrinsic-nature-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found both articles claim to be "the deepest void in the voids framework." Internal contradiction visible to any reader or LLM. Options: designate one as deepest, reframe both as "among the deepest," or distinguish dimensions of depth. See pessimistic-2026-02-25.md Issue 1.
-
 ### P2: Strengthen functionalist rebuttal in intrinsic-nature-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -234,6 +229,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Resolve "deepest void" contradiction between origin-of-consciousness.md and intrinsic-nature-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found both articles claim to be "the deepest void in the voids framework." Internal contradiction visible to any reader or LLM. Options: designate one as deepest, reframe both as "among the deepest," or distinguish dimensions of depth. See pessimistic-2026-02-25.md Issue 1.
+- **Output**: obsidian/voids/origin-of-consciousness.md
+
+Task context:
+Pessimistic review found both articles claim to be "the deepest void in the voids framework." Internal contradiction visible to any reader or LLM. Options: designate one as deepest, reframe both as "among the deepest," or distinguish dimensions of depth. See pessimistic-2026-02-25.md Issue 1.
 
 ### ✓ 2026-02-25: Update references to coalesced creativity articles
 - **Type**: cross-review
