@@ -3,7 +3,7 @@ title: "Against Many-Worlds"
 created: 2026-01-15
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-22T07:12:00+00:00
+ai_modified: 2026-02-25T01:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[illusionism]]"
   - "[[witness-consciousness]]"
   - "[[introspection]]"
+description: "A cumulative philosophical case against many-worlds: indexical identity, probability, preferred basis, and what branch-splitting means for consciousness."
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -27,10 +28,10 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-22T01:00:00+00:00
+last_deep_review: 2026-02-25T01:14:00+00:00
 ---
 
-The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. The Unfinishable Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet explicitly rejects this interpretation. This page presents the arguments why.
+The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. The Unfinishable Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet explicitly rejects this interpretation. This article presents the arguments why.
 
 ## The Interpretation
 
@@ -188,6 +189,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 
 ## Further Reading
 
+- [[concepts/many-worlds|The Many-Worlds Interpretation]] — The concept page covering what MWI claims and the Map's response
 - [[measurement-problem]] — The foundational puzzle many-worlds claims to solve
 - [[quantum-consciousness]] — Alternative frameworks for mind-matter interaction
 - [[quantum-interpretations]] — Survey of interpretations and their compatibility with the Map

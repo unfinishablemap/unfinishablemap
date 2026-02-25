@@ -174,7 +174,7 @@ If consciousness causes collapse at a moment, we face questions about which mome
 
 ## Why the Map Rejects MWI
 
-The [[concepts/many-worlds]] article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness.
+The [[concepts/many-worlds]] article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness. See also [[many-worlds-argument|Against Many-Worlds]] for the formal argument structure.
 
 The deepest conflict: MWI explicitly denies that consciousness plays any role in physics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds the opposite. The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this incompatibility.
 

@@ -167,6 +167,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[measurement-problem]] — What all interpretations must solve
 - [[collapse-and-time]] — Time-symmetric alternatives and retrocausal solutions
 - [[topics/free-will]] — Why genuine selection requires collapse
+- [[many-worlds-argument|Against Many-Worlds]] — The formal argument structure with premises and conclusions
 - [[tenets]] — The foundational commitment against MWI
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI
 - [[decoherence]] — What decoherence does and doesn't explain
