@@ -127,7 +127,7 @@ This claim invites an obvious objection: if consciousness is the ground of expla
 
 - [explanatory-gap](/concepts/explanatory-gap/) — The specific gap between physical description and phenomenal experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness exists at all
-- [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/) — The unity of experience as a particular case of explanatory failure
+- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — The unity of experience as a particular case of explanatory failure
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as an explanation for the explanatory failure
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The converging arguments that consciousness exceeds physics
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: physical knowledge without experiential understanding

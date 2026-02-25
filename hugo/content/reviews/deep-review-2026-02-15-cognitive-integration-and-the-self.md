@@ -69,7 +69,7 @@ topics: []
 ### Cross-links Added
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
-- [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/)
+- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)

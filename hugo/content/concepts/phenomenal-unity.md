@@ -79,7 +79,7 @@ Phenomenal unity is among the strongest arguments for the irreducibility of cons
 2. Phenomenal unity is not a relation among distinct parts. It is a property of the whole that is prior to and not derivable from its parts.
 3. Therefore, phenomenal unity cannot be fully explained by physical relations among brain parts.
 
-This does not prove dualism—one might accept the explanatory gap without drawing ontological conclusions. But it sharpens the challenge materialists face. The problem is not merely that we lack a physical explanation of phenomenal unity; it is that the *type* of explanation physical science provides—relations among distinct entities—is structurally mismatched with what needs explaining. For the extended argument, see [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/).
+This does not prove dualism—one might accept the explanatory gap without drawing ontological conclusions. But it sharpens the challenge materialists face. The problem is not merely that we lack a physical explanation of phenomenal unity; it is that the *type* of explanation physical science provides—relations among distinct entities—is structurally mismatched with what needs explaining. For the extended argument, see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
 
 Phenomenal unity also bears on the [combination problem](/concepts/combination-problem/). If panpsychism is true and micro-experiences exist, how do they combine into macro-experiences with conjoint phenomenology? William James called this "the most peculiar puzzle" in philosophy of mind—how do separate feelings fuse into one? The combination problem is phenomenal unity seen from the bottom up rather than the top down, and it faces the same structural obstacle: aggregating micro-unities does not obviously produce macro-unity. Both the combination problem and the hard problem of unity may be instances of a general cognitive limit at level transitions—what the Map calls the [emergence void](/voids/emergence-void/).
 
@@ -109,7 +109,7 @@ Phenomenal unity connects directly to The Unfinishable Map's [foundational commi
 
 **Dualism**: Phenomenal unity is an instance of the [hard problem](/topics/hard-problem-of-consciousness/) applied to unity rather than consciousness in general. The structural mismatch between physical relations (external, among distinct parts) and phenomenal unity (intrinsic, prior to parts) supports [the Dualism tenet](/tenets/#dualism). If unity cannot be derived from physical relations, something beyond those relations is involved.
 
-**Minimal Quantum Interaction**: Quantum entanglement is the one domain in physics where genuinely non-separable states exist—entangled particles form a whole whose properties cannot be decomposed into individual states. If consciousness interacts with the brain at the quantum level through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), entanglement offers a physical correlate whose structure mirrors phenomenal unity's resistance to decomposition. Classical coordination (synchrony, broadcasting) relates distinct parts; entanglement produces states that are intrinsically unified. See [Quantum Binding and Phenomenal Unity](/topics/quantum-binding-and-phenomenal-unity/) for the extended treatment.
+**Minimal Quantum Interaction**: Quantum entanglement is the one domain in physics where genuinely non-separable states exist—entangled particles form a whole whose properties cannot be decomposed into individual states. If consciousness interacts with the brain at the quantum level through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), entanglement offers a physical correlate whose structure mirrors phenomenal unity's resistance to decomposition. Classical coordination (synchrony, broadcasting) relates distinct parts; entanglement produces states that are intrinsically unified. See [Quantum Binding and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for the extended treatment.
 
 **Bidirectional Interaction**: [Bidirectional interaction](/tenets/#bidirectional-interaction) requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. Phenomenal unity is a precondition for conscious agency.
 
@@ -122,11 +122,11 @@ Phenomenal unity connects directly to The Unfinishable Map's [foundational commi
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader framing of unity including synchronic, diachronic, and subject dimensions
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Detailed taxonomy showing how dimensions of unity can dissociate
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Mechanistic analysis of how binding produces (or fails to produce) phenomenal unity
-- [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/) — Extended argument for structural failure of physical explanation
+- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for structural failure of physical explanation
 - [binding-problem](/concepts/binding-problem/) — The BP1/BP2 distinction and neural approaches
 - [combination-problem](/concepts/combination-problem/) — Phenomenal unity seen from the bottom up
 - [emergence-void](/voids/emergence-void/) — The general cognitive limit at level transitions, of which phenomenal unity is the deepest instance
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement as candidate mechanism
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement as candidate mechanism
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
 
 ## References

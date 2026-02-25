@@ -128,7 +128,7 @@ Different sensory modalities produce qualitatively distinct experiences. Visual,
 
 On a homogeneous model, all perceptual consciousness uses the same interface; modality differences arise from which neural content reaches that interface. On a heterogeneous model, each modality might involve distinct consciousness-matter coupling—visual consciousness interfacing through visual cortex quantum processes, auditory through different mechanisms.
 
-The binding problem complicates this. Unified experience integrates multiple modalities—we perceive a dog as a single object, not separate visual and auditory streams. If different modalities used different interfaces, binding would require coordination across interfaces. [Quantum entanglement](/topics/quantum-binding-and-phenomenal-unity/) might provide such coordination, linking interface channels into unified experience.
+The binding problem complicates this. Unified experience integrates multiple modalities—we perceive a dog as a single object, not separate visual and auditory streams. If different modalities used different interfaces, binding would require coordination across interfaces. [Quantum entanglement](/topics/quantum-holism-and-phenomenal-unity/) might provide such coordination, linking interface channels into unified experience.
 
 ## Temporal Interface Variation
 

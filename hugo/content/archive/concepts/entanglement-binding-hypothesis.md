@@ -195,7 +195,7 @@ The hypothesis makes specific predictions that distinguish it from classical alt
 
 - [binding-problem](/concepts/binding-problem/) — The full binding problem including classical approaches
 - Neural Binding Mechanisms — Classical vs quantum mechanisms in detail
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Philosophical argument that entanglement matches unity
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Philosophical argument that entanglement matches unity
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Detailed experimental support
 - Phenomenal Unity — What the binding problem aims to explain
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and Stapp's quantum approaches

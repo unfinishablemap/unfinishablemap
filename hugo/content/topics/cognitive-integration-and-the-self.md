@@ -110,7 +110,7 @@ Traditional neuroscience proposes synchronous neural firing as the binding mecha
 
 No physical binding mechanism explains *why* synchronized firing feels unified rather than remaining separate processes that happen to correlate. The explanatory gap appears again: physical descriptions tell us *what* the brain does but not *why* there is something it is like to have integrated experience.
 
-[Phenomenal binding](/concepts/phenomenal-binding-and-holism/) may not reduce to neural mechanisms. [Phenomenal unity resists physical explanation](/topics/why-phenomenal-unity-resists-explanation/) because even the most complete functional account leaves unexplained why integrated processing feels like anything at all. If consciousness is irreducible, then phenomenal unity is a basic feature of experience—not something constructed from separate phenomenal elements but given as holistic from the start.
+[Phenomenal binding](/concepts/phenomenal-binding-and-holism/) may not reduce to neural mechanisms. [Phenomenal unity resists physical explanation](/topics/quantum-holism-and-phenomenal-unity/) because even the most complete functional account leaves unexplained why integrated processing feels like anything at all. If consciousness is irreducible, then phenomenal unity is a basic feature of experience—not something constructed from separate phenomenal elements but given as holistic from the start.
 
 ## Cognitive Integration Across Time
 
@@ -210,7 +210,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [Self and Consciousness](/concepts/self-and-consciousness/) — Relationship between consciousness and selfhood
 - [The Self: Minimal, Narrative, and Substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three-layered model of selfhood
 - [Consciousness and Memory](/topics/consciousness-and-memory/) — The relationship between consciousness and memory formation
-- [Why Phenomenal Unity Resists Explanation](/topics/why-phenomenal-unity-resists-explanation/) — The structural argument against physical binding
+- [Why Phenomenal Unity Resists Explanation](/topics/quantum-holism-and-phenomenal-unity/) — The structural argument against physical binding
 
 ## References
 

@@ -91,7 +91,7 @@ All six adversarial personas engaged:
 ### Cross-links Added
 
 - [emergence-void](/voids/emergence-void/) — in concepts frontmatter, related_articles, Further Reading, and combination problem section
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — reinforced in new MQI tenet paragraph
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — reinforced in new MQI tenet paragraph
 
 ## Word Count
 

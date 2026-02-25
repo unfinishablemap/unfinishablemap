@@ -71,7 +71,7 @@ The Map's intellectual honesty about its own limitations is its most epistemical
 
 - The [epiphenomenalism](/concepts/epiphenomenalism/) article's AI exception: the self-stultification argument only proves *human* consciousness is efficacious, not all possible consciousness
 - The [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) article's reflexive self-examination: turning the passivity objection against the Map's own quantum selection framework
-- The [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) article's explicit acknowledgment that "quantum holism relocates rather than solves the hard problem"
+- The [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) article's explicit acknowledgment that "quantum holism relocates rather than solves the hard problem"
 - The decoherence timescale gap acknowledged across multiple articles without dismissal or resolution
 
 This pattern of honest limitation transforms what could be defensive argumentation into a credible intellectual project. The Map demonstrates it understands its own logic deeply enough to identify where it faces genuine problems—and this understanding is more persuasive than any number of "decisive" arguments.

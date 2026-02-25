@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Quantum Binding and Phenomenal Unity](/topics/quantum-binding-and-phenomenal-unity/)
+**Article**: [Quantum Binding and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

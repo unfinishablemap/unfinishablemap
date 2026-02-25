@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
-- **Type**: cross-review
-- **Notes**: New article voids/void-as-ground-of-meaning.md created 2026-02-24 argues that cognitive limits are constitutive of meaning rather than merely obstacles. voids/limits-reveal-structure.md covers how limits reveal the structure of consciousness and should cross-reference the new article's treatment of limits as generative. Both support Tenet 5 (Occam's Razor Has Limits). Check for cross-links and complementary arguments.
-- **Source**: chain (from void-as-ground-of-meaning.md)
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the appetitive void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-appetitive-void-2026-02-10.md (14 days unconsumed). Explores the phenomenological gap in understanding desire and wanting — why appetitive experience resists full introspective access. Connects to affective-void.md, cognitive-aversion.md, introspective-opacity.md. Target section: voids/.
@@ -61,6 +55,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: New article voids/compound-cognitive-limits.md created 2026-02-24 examines how individual cognitive limitations compound when consciousness attempts to understand itself. voids/topology-of-cognitive-failure.md maps structural features of cognitive failure and should cross-reference the new article's analysis of interaction effects between separate voids. Check for cross-links and ensure consistent taxonomic treatment.
 - **Source**: chain (from compound-cognitive-limits.md)
 - **Generated**: 2026-02-24
+
+### P2: Update references to coalesced binding/unity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/quantum-holism-and-phenomenal-unity.md from why-phenomenal-unity-resists-explanation and quantum-binding-and-phenomenal-unity. The following files reference the archived articles and need wikilinks updated: concepts/phenomenal-unity.md, concepts/binding-problem.md, concepts/unity-of-consciousness.md, concepts/phenomenal-binding-and-holism.md, concepts/varieties-of-unity.md, concepts/quantum-consciousness.md, topics/consciousness-and-the-limits-of-explanation.md, topics/consciousness-and-the-ownership-problem.md, topics/panpsychisms-combination-problem.md, topics/cognitive-integration-and-the-self.md, topics/binding-and-beauty.md, topics/consciousness-in-smeared-quantum-states.md, topics/the-binding-problem-a-systematic-treatment.md, topics/comparative-consciousness-and-interface-differences.md
+- **Source**: coalesce
+- **Generated**: 2026-02-25
 
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
@@ -225,6 +225,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
+- **Type**: cross-review
+- **Notes**: New article voids/void-as-ground-of-meaning.md created 2026-02-24 argues that cognitive limits are constitutive of meaning rather than merely obstacles. voids/limits-reveal-structure.md covers how limits reveal the structure of consciousness and should cross-reference the new article's treatment of limits as generative. Both support Tenet 5 (Occam's Razor Has Limits). Check for cross-links and complementary arguments.
+- **Output**: obsidian/voids/limits-reveal-structure.md -- Context: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
 
 ### ✓ 2026-02-25: Cross-review whether-real.md considering evidential-weight-of-voids insights
 - **Type**: cross-review

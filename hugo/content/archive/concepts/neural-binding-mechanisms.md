@@ -86,7 +86,7 @@ Bell's theorem and loophole-free experiments confirm that non-local correlations
 
 ## Why Classical Mechanisms Fail at BP2
 
-For the full philosophical argument that classical mechanisms cannot produce phenomenal unity in principle—not merely as a gap in current knowledge—see [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/).
+For the full philosophical argument that classical mechanisms cannot produce phenomenal unity in principle—not merely as a gap in current knowledge—see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
 
 Classical physics describes reality as composed of fundamentally separate particles interacting through local forces. All large-scale phenomena reduce to arrangements of parts that interact—there are no genuine wholes, only coordinated pluralities.
 
@@ -149,7 +149,7 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 - [binding-problem](/concepts/binding-problem/) — The full binding problem including BP1 and BP2
 - Phenomenal Unity — What binding mechanisms aim to explain
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The experiential character that binding must produce
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Extended argument for quantum binding
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for quantum binding
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Detailed experimental support
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and quantum Zeno approaches
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for mental effort

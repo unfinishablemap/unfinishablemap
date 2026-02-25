@@ -115,9 +115,9 @@ The zombie reformulation sharpens the point: if zombies make identical unity jud
 
 ## The Quantum Binding Perspective
 
-The Map's [quantum binding framework](/topics/quantum-binding-and-phenomenal-unity/) offers potential unification of at least two unities. Quantum entanglement provides *ontological* holism—entangled systems have properties parts lack individually. If neural microtubules sustain entangled states, synchronic unity would reflect genuine physical unity of the entangled state, not mere coordination among separates.
+The Map's [quantum binding framework](/topics/quantum-holism-and-phenomenal-unity/) offers potential unification of at least two unities. Quantum entanglement provides *ontological* holism—entangled systems have properties parts lack individually. If neural microtubules sustain entangled states, synchronic unity would reflect genuine physical unity of the entangled state, not mere coordination among separates.
 
-Diachronic unity might correspond to the duration over which entangled states persist before collapse, with retention reflecting constraints previous collapses place on subsequent ones. But subject unity remains challenging—why should quantum collapses constitute *one* subject rather than momentary experiences with no one across them? See [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) for detailed treatment.
+Diachronic unity might correspond to the duration over which entangled states persist before collapse, with retention reflecting constraints previous collapses place on subsequent ones. But subject unity remains challenging—why should quantum collapses constitute *one* subject rather than momentary experiences with no one across them? See [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
 
 ## Process Philosophy Perspective
 
@@ -171,7 +171,7 @@ One might propose all three unities are "really" one thing for parsimony. But if
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity puzzle
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement as binding mechanism
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement as binding mechanism
 - [witness-consciousness](/concepts/witness-consciousness/) — Awareness without identification
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Unity at the boundaries of experience
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal unity is illusory

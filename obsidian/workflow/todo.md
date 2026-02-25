@@ -55,6 +55,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from compound-cognitive-limits.md)
 - **Generated**: 2026-02-24
 
+### P2: Update references to coalesced binding/unity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/quantum-holism-and-phenomenal-unity.md from why-phenomenal-unity-resists-explanation and quantum-binding-and-phenomenal-unity. The following files reference the archived articles and need wikilinks updated: concepts/phenomenal-unity.md, concepts/binding-problem.md, concepts/unity-of-consciousness.md, concepts/phenomenal-binding-and-holism.md, concepts/varieties-of-unity.md, concepts/quantum-consciousness.md, topics/consciousness-and-the-limits-of-explanation.md, topics/consciousness-and-the-ownership-problem.md, topics/panpsychisms-combination-problem.md, topics/cognitive-integration-and-the-self.md, topics/binding-and-beauty.md, topics/consciousness-in-smeared-quantum-states.md, topics/the-binding-problem-a-systematic-treatment.md, topics/comparative-consciousness-and-interface-differences.md
+- **Source**: coalesce
+- **Generated**: 2026-02-25
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.

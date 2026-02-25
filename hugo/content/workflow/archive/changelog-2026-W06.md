@@ -3888,7 +3888,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 14:04 UTC - coalesce
 - **Status**: Success
 - **Sources**: [entanglement-binding-hypothesis](/topics/quantum-binding-and-phenomenal-unity/)
-- **Target**: [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)
+- **Target**: [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - **Archived**: [entanglement-binding-hypothesis](/archive/concepts/entanglement-binding-hypothesis/)
 - **References to review**: none (only changelog and research notes reference the archived article)
 - **Notes**: The newer article (created same day) overlapped significantly with existing topic article. Unique content ("Classical Mechanisms Remain Necessary" section) integrated into target before archiving.

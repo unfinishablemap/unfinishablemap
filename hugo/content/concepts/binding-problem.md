@@ -92,7 +92,7 @@ These theories address BP1 but not BP2. Global availability is functional; pheno
 
 ### Why BP2 Remains Unsolved
 
-For the structural argument that BP2 cannot be solved by classical mechanisms—and why the mismatch between physical relations and phenomenal unity may be principled rather than merely a gap in current knowledge—see [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/).
+For the structural argument that BP2 cannot be solved by classical mechanisms—and why the mismatch between physical relations and phenomenal unity may be principled rather than merely a gap in current knowledge—see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
 
 Even perfect temporal synchrony doesn't explain phenomenal unity. Suppose we discover that neurons representing red, round, and moving all fire at exactly 40 Hz in phase when you see the bouncing ball. This tells us *when* they're coordinated, but not *why* coordination produces unified experience.
 
@@ -134,7 +134,7 @@ This explains binding research's frustrating pattern: BP1 solutions keep being p
 
 Classical approaches propose mechanisms where separate processes *interact* or *correlate*—but interaction between distinct entities doesn't make them *one* entity. Correlation is not unity. Quantum mechanics offers something structurally different: entanglement produces systems that cannot be decomposed into separate parts. This is ontological unity, not mere correlation, and it mirrors what phenomenal unity seems to require.
 
-Several quantum binding theories exist. The [Orch OR theory](/concepts/quantum-consciousness/) proposes microtubule quantum coherence across neurons; [Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/) proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness selecting among superposed states, differing on substrate. For detailed treatment, see [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/).
+Several quantum binding theories exist. The [Orch OR theory](/concepts/quantum-consciousness/) proposes microtubule quantum coherence across neurons; [Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/) proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness selecting among superposed states, differing on substrate. For detailed treatment, see [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/).
 
 Early experimental results are suggestive but preliminary. Microtubule-stabilising drugs delayed anesthetic-induced unconsciousness in rats (Wiest et al., 2024), and MRI signals consistent with entanglement correlated with waking consciousness (Kerskens & Pérez, 2022). However, both findings have alternative classical explanations, and the Kerskens-Pérez result awaits independent replication. The standard [decoherence](/concepts/decoherence/) objection—that quantum effects are destroyed too fast in warm biological systems—remains contested, with estimates varying by orders of magnitude. See [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) for comprehensive treatment.
 
@@ -192,7 +192,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem; binding is the synchronic dimension
 - [phenomenal-unity](/concepts/phenomenal-unity/) — Phenomenal unity as metaphysical question
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement as the basis for unity
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as the basis for unity
 - [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Recent experimental evidence
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Sleep as dissociation between BP1 and BP2

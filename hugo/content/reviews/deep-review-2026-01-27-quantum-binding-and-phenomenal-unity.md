@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Quantum Binding and Phenomenal Unity](/topics/quantum-binding-and-phenomenal-unity/)
+**Article**: [Quantum Binding and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/)
 **Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-quantum-binding-and-phenomenal-unity/)
 **Context**: Cross-review considering quantum biology content
 

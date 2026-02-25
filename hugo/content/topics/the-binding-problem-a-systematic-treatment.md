@@ -152,7 +152,7 @@ All classical approaches inherit the same structural limitation: they combine, c
 
 ### The Quantum Alternative
 
-Quantum entanglement provides something structurally different from classical coordination: on a realist interpretation, what appears to be genuine holism where the whole is prior to parts. An entangled system has properties that neither subsystem possesses individually — irreducible unity at the level of physics itself. (Whether entanglement constitutes metaphysical holism or merely describes measurement correlations depends on one's interpretation of quantum mechanics; the Map adopts the realist reading.) See [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) for detailed treatment.
+Quantum entanglement provides something structurally different from classical coordination: on a realist interpretation, what appears to be genuine holism where the whole is prior to parts. An entangled system has properties that neither subsystem possesses individually — irreducible unity at the level of physics itself. (Whether entanglement constitutes metaphysical holism or merely describes measurement correlations depends on one's interpretation of quantum mechanics; the Map adopts the realist reading.) See [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
 
 The structural correspondence between quantum holism and phenomenal unity is significant: both involve wholes that are not assembled from separates. But structural correspondence is not full explanation — the transition from physical holism to phenomenal holism remains the hard problem. The quantum approach identifies the right *kind* of physical substrate and a locus where consciousness might participate (at collapse), while acknowledging that the hard problem persists.
 
@@ -192,7 +192,7 @@ The systematic treatment of binding presented here rests on claims that could be
 
 - [binding-problem](/concepts/binding-problem/) — The foundational concept: BP1/BP2 distinction, classical and quantum approaches
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms structurally fail and quantum holism may succeed
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement as the physical substrate for unity
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as the physical substrate for unity
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding and the specious present
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thinking and understanding

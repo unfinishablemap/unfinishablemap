@@ -18,6 +18,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 00:30 UTC - coalesce
+- **Status**: Success
+- **Sources**: [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/), [Quantum Binding and Phenomenal Unity](/topics/quantum-binding-and-phenomenal-unity/)
+- **Target**: [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/)
+- **Archived**: [why-phenomenal-unity-resists-explanation](/archive/topics/why-phenomenal-unity-resists-explanation/), [quantum-binding-and-phenomenal-unity](/archive/topics/quantum-binding-and-phenomenal-unity/)
+- **References to review**: 18 files (8 referencing why-phenomenal-unity-resists-explanation, 10 referencing quantum-binding-and-phenomenal-unity)
+
+## 2026-02-25 00:13 UTC - deep-review
+- **Status**: Success
+- **File**: [What the Limits Reveal](/voids/limits-reveal-structure/)
+- **Word count**: 1871 → 1902 (+31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing bidirectional cross-link to void-as-ground-of-meaning)
+- **Enhancements made**: 3 (constitutive thesis connection in body text, cross-link in related_articles, Further Reading entry)
+- **Output**: [deep-review-2026-02-25-limits-reveal-structure](/reviews/deep-review-2026-02-25-limits-reveal-structure/)
+
 ## 2026-02-25 00:01 UTC - deep-review
 - **Status**: Success
 - **File**: [Against Materialism](/arguments/materialism-argument/)

@@ -30,7 +30,7 @@ The treatment of [phenomenal-unity](/concepts/phenomenal-unity/) and the binding
 
 ### The Quantum Mind Theorist (Stapp)
 
-"This is the most careful treatment of quantum approaches to consciousness I've encountered outside specialist physics journals. The [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) article doesn't merely wave quantum mechanics around—it engages with Tegmark's decoherence calculations and the seven-orders-of-magnitude correction by Hagan, Hameroff, and Tuszynski.
+"This is the most careful treatment of quantum approaches to consciousness I've encountered outside specialist physics journals. The [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) article doesn't merely wave quantum mechanics around—it engages with Tegmark's decoherence calculations and the seven-orders-of-magnitude correction by Hagan, Hameroff, and Tuszynski.
 
 The treatment of the quantum Zeno effect as attention mechanism shows deep understanding of how my approach works. The Map correctly notes that the Zeno mechanism requires discrete 'observations' rather than sustained coherence, addressing the timing gap objection.
 
@@ -76,7 +76,7 @@ The historical examples are well-chosen: heliocentrism initially required more e
 
 The treatment of cognitive closure doesn't use it as a conversational stopper but as a principled position: human cognitive architecture may lack resources for certain solutions, just as squirrel minds lack resources for quantum mechanics. This doesn't mean abandoning inquiry—it means calibrating confidence appropriately.
 
-What impresses me most is the site's willingness to specify what would challenge its position. The [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) article lists five conditions that would weaken the quantum hypothesis. This falsifiability demonstrates philosophical seriousness."
+What impresses me most is the site's willingness to specify what would challenge its position. The [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) article lists five conditions that would weaken the quantum hypothesis. This falsifiability demonstrates philosophical seriousness."
 
 ## Content Strengths
 

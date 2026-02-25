@@ -38,7 +38,7 @@ None new. The previous review addressed:
 
 1. **Scale gap between molecular and brain-wide quantum effects**: The quantum skeptic notes that biological quantum effects (photosynthesis, magnetoreception) involve molecular-scale systems, not brain-wide coherence. However, this is addressed in linked articles ([decoherence](/concepts/decoherence/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)) and adding it here would duplicate content.
 
-2. **Falsification criteria**: The empiricist notes the article doesn't explicitly state what would refute the hypothesis. However, this is comprehensively covered in [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) which has a detailed "What Would Challenge This View?" section. Adding it here would duplicate.
+2. **Falsification criteria**: The empiricist notes the article doesn't explicitly state what would refute the hypothesis. However, this is comprehensively covered in [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) which has a detailed "What Would Challenge This View?" section. Adding it here would duplicate.
 
 ### Counterarguments Considered
 

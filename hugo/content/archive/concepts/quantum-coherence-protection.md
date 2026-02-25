@@ -201,7 +201,7 @@ The assumption that warm biology must be classical—and therefore that quantum 
 - [decoherence](/concepts/decoherence/) — The decoherence process and its limits
 - [quantum-biology](/concepts/quantum-biology/) — Proven quantum effects in biology
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Coherence in neural systems
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
 
 ## References

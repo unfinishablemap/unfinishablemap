@@ -123,7 +123,7 @@ This combination of rigorous philosophical argument with humility about limits i
 ### Medium Priority
 
 #### Zero-Lag Gamma Synchrony: The Binding Test
-- **Builds on**: [binding-problem](/concepts/binding-problem/), [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/), [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)
+- **Builds on**: [binding-problem](/concepts/binding-problem/), [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/), [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/)
 - **Would address**: Baum's argument that zero-lag gamma synchrony across cortical regions (<1ms precision, ~10cm separation) cannot arise classically; assessment of thalamic pacemaker objections
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Tests Minimal Quantum Interaction empirically; if classical explanations fail, supports quantum binding

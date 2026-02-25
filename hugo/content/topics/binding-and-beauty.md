@@ -124,7 +124,7 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/)
 - [aesthetic-void](/voids/aesthetic-void/)
 - [phenomenal-unity](/concepts/phenomenal-unity/)

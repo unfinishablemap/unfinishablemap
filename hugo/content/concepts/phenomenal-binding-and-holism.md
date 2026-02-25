@@ -77,7 +77,7 @@ Classical physics describes reality as fundamentally separate particles interact
 
 A symphony orchestra coordinates hundreds of instruments with exquisite precision. Yet the instruments remain separate, making separate sounds that happen to be coordinated. If the coordination itself creates genuine unity rather than merely correlated plurality, then the orchestra analogy supports the functionalist. If it doesn't—if something more than coordination is needed—then the analogy illustrates exactly what classical binding lacks. The Map holds the latter: coordination is not identity. No matter how tightly synchronized, two events remain two events.
 
-For the full philosophical argument that this failure is in principle, not merely a gap in current knowledge, see [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/).
+For the full philosophical argument that this failure is in principle, not merely a gap in current knowledge, see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
 
 ### The Zero-Lag Synchrony Problem
 

@@ -126,7 +126,7 @@ The [Orch OR hypothesis](/concepts/quantum-consciousness/) proposes that neural 
 
 This doesn't solve the hard problem (why does *any* physical state produce experience?). But it solves the structure-matching problem. Classical mechanisms offer coordinated multiplicities as correlates of experiential unity. Quantum entanglement offers genuine physical unity as correlate of phenomenal unity. The structure matches.
 
-See [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) for detailed development of this argument, including responses to the decoherence objection.
+See [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed development of this argument, including responses to the decoherence objection.
 
 ## Why This Matters
 
@@ -152,8 +152,8 @@ This supports [dualism](/tenets/#dualism)—not substance dualism necessarily, b
 
 - [binding-problem](/concepts/binding-problem/) — Comprehensive treatment of BP1 and BP2
 - Phenomenal Unity — Why experience comes as integrated wholes
-- [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/) — The structural mismatch argument
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — The quantum holism hypothesis
+- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — The structural mismatch argument
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — The quantum holism hypothesis
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Synchronic, diachronic, and subject unity
 - Multimodal Binding — Cross-modal integration as paradigm case
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge

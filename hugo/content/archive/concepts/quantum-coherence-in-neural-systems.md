@@ -274,7 +274,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem
 - [quantum-biology](/concepts/quantum-biology/) — Biological systems exploiting quantum effects
 - [measurement-problem](/concepts/measurement-problem/) — Why physics leaves outcomes undetermined
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
 - [tenets](/tenets/) — The Map's foundational commitments
 

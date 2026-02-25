@@ -36,7 +36,7 @@ topics: []
 
 - **Uncited references**: Keppler (2025), Llinás & Ribary (1993), and Saxena et al. (2020) appeared in the reference list but were never cited in the text. **Resolution**: Removed all three.
 - **Article at hard warning** (3637 words vs 2500 soft / 3500 hard for concepts/): **Resolution**: Condensed to 3422 words through targeted tightening of redundant subsections, the contemplative evidence section, ion tunneling and SNARE tunneling mechanisms, cumulative protection, and falsifiability criteria.
-- **Wikilink namespace issues**: `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)` and `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` lacked `topics/` prefix needed for cross-section links. **Resolution**: Fixed all instances in frontmatter, body, and further reading.
+- **Wikilink namespace issues**: `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)` and `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` lacked `topics/` prefix needed for cross-section links. **Resolution**: Fixed all instances in frontmatter, body, and further reading.
 - **Vague Frontiers review attribution**: "A 2025 Frontiers review" was not attributed to specific authors. **Resolution**: Changed to "Hameroff et al. (2025)".
 - **Redundant evidence subsections**: Tryptophan Superradiance and Anaesthetic-Oscillation Correlation sections in "Key Experimental Evidence" repeated information already presented in the mechanisms section. **Resolution**: Replaced with brief cross-reference note.
 

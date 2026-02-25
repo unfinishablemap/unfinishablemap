@@ -36,7 +36,7 @@ topics: []
 - **Orchestra analogy circularity**: Used to argue against functionalism but assumed what it needed to prove. Resolution: Reframed to acknowledge the analogy's ambiguity — it supports functionalists if coordination creates unity, supports dualists if it doesn't.
 - **Retrocausality presented without hedging**: "Consciousness operates outside linear time" stated at tenet-level confidence for a speculative position. Resolution: Removed the temporal binding section entirely (tangential to core article) and added cross-reference to temporal-consciousness in Further Reading.
 - **Anti-MWI argument underdeveloped**: Dismissed many-worlds without engaging branch-relative unity response. Resolution: Added explicit acknowledgment that each branch has definite experience, then stated the Map's indexical argument for why this is insufficient.
-- **Broken wikilink**: Referenced `[why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/)` which exists in topics/ — link retained, works correctly as wikilink.
+- **Broken wikilink**: Referenced `[why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/)` which exists in topics/ — link retained, works correctly as wikilink.
 
 ### Counterarguments Considered
 - **Functionalist response**: Functionalists would argue functional integration IS genuine unity. Addressed by making the orchestra analogy explicitly dialectical rather than assuming the conclusion.

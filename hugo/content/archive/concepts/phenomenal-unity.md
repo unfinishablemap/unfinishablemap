@@ -75,7 +75,7 @@ The distinction matters because most neuroscientific theories of consciousness e
 
 ## Why Unity Is Puzzling
 
-For a detailed argument that phenomenal unity systematically resists physical explanation—examining why synchrony, information integration, and global workspace theories all fail structurally—see [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/).
+For a detailed argument that phenomenal unity systematically resists physical explanation—examining why synchrony, information integration, and global workspace theories all fail structurally—see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
 
 The puzzle is not that experiences *seem* unified but that they *are* unified. If consciousness were a theater with multiple spotlights each illuminating different contents, we would expect fragmentation—many separate awarenesses rather than one integrated stream. Yet experience is not like this.
 

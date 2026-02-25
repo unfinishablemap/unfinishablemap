@@ -33,7 +33,7 @@ topics: []
 1. **BP2 lacked precision**: BP2 description used generic "phenomenal unity" language. Cross-review with phenomenal-unity.md revealed the precise target is *conjoint phenomenology* (Bayne & Chalmers 2003). Fixed: integrated the term with link to phenomenal-unity article.
 2. **Missing cross-reference to varieties-of-unity**: The "Binding Beyond Perception" section covers diachronic and cognitive dimensions of binding without connecting to the varieties-of-unity framework that explicitly categorises these. Fixed: added cross-reference.
 3. **Bayne & Chalmers reference disconnected from phenomenal-unity article**: The "Phenomenal Unity as Primitive" section discussed subsumptive unity without linking to the new dedicated article. Fixed: added link and used "conjoint phenomenology" terminology.
-4. **[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) references non-existent article**: Referenced in lines 134 and 192, but this file doesn't exist. [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) covers much of the same ground. Not changed because multiple articles reference this planned article — may need creation or systematic redirect.
+4. **[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) references non-existent article**: Referenced in lines 134 and 192, but this file doesn't exist. [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) covers much of the same ground. Not changed because multiple articles reference this planned article — may need creation or systematic redirect.
 5. **Stale HTML refinement log**: Comment from 2026-02-09 marked "should be removed after human review" was still present. Removed.
 
 ### Counterarguments Considered
@@ -72,8 +72,8 @@ topics: []
 
 ## Remaining Items
 
-- **[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)** doesn't exist but is referenced by this article and others. Should be created or references redirected to [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/). Deferred for systematic resolution across all referencing articles.
-- **[why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/)** also doesn't exist but is referenced consistently across multiple articles. Planned article.
+- **[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)** doesn't exist but is referenced by this article and others. Should be created or references redirected to [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/). Deferred for systematic resolution across all referencing articles.
+- **[why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/)** also doesn't exist but is referenced consistently across multiple articles. Planned article.
 
 ## Stability Notes
 

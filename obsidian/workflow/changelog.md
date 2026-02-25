@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 00:30 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/why-phenomenal-unity-resists-explanation|Why Phenomenal Unity Resists Physical Explanation]], [[topics/quantum-binding-and-phenomenal-unity|Quantum Binding and Phenomenal Unity]]
+- **Target**: [[topics/quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]]
+- **Archived**: [[archive/topics/why-phenomenal-unity-resists-explanation]], [[archive/topics/quantum-binding-and-phenomenal-unity]]
+- **References to review**: 18 files (8 referencing why-phenomenal-unity-resists-explanation, 10 referencing quantum-binding-and-phenomenal-unity)
+
 ## 2026-02-25 00:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/limits-reveal-structure|What the Limits Reveal]]

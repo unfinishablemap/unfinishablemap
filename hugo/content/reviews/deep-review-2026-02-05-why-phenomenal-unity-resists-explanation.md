@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/)
+**Article**: [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-why-phenomenal-unity-resists-explanation/)
 
 ## Context

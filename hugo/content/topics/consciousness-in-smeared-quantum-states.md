@@ -115,7 +115,7 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
 - [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)

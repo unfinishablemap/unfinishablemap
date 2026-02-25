@@ -34,7 +34,7 @@ None identified. The article is well-constructed with appropriate caveats and he
    - **Resolution**: Added wikilink to [explanatory-gap](/concepts/explanatory-gap/) where discussing the structural mismatch between classical physics and phenomenal unity.
 
 3. **Could be more explicit about falsification criteria**: The empiricist critique noted that the article should be clearer about what would refute the hypothesis.
-   - **Deferred**: The existing "Responses and caveats" sections provide adequate hedging. Adding a formal falsification section would duplicate content in [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) which already has a detailed "What Would Challenge This View?" section.
+   - **Deferred**: The existing "Responses and caveats" sections provide adequate hedging. Adding a formal falsification section would duplicate content in [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) which already has a detailed "What Would Challenge This View?" section.
 
 ### Counterarguments Considered
 

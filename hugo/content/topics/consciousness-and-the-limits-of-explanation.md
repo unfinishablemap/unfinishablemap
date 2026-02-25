@@ -170,7 +170,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The foundational question these limits build upon
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Chalmers' formulation: why do we think consciousness is hard?
 - [galilean-exclusion](/concepts/galilean-exclusion/) — The founding move that created science's blind spot
-- [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/) — The unity of experience as a particular case of explanatory failure
+- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — The unity of experience as a particular case of explanatory failure
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as explanation for permanent limits
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Integrating subjective and objective approaches
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — The Galilean exclusion and its consequences

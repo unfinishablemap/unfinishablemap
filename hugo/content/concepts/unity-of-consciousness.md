@@ -97,7 +97,7 @@ The distinction matters because most neuroscientific theories of consciousness e
 
 ## Why Unity Is Puzzling
 
-For the extended argument that phenomenal unity systematically resists physical explanation—examining why synchrony, integration, and global workspace theories all fail for structural reasons rather than merely empirical gaps—see [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/).
+For the extended argument that phenomenal unity systematically resists physical explanation—examining why synchrony, integration, and global workspace theories all fail for structural reasons rather than merely empirical gaps—see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
 
 The puzzle is not that experience *seems* unified but that it *is* unified. Several considerations make this puzzling:
 
@@ -147,7 +147,7 @@ The standard objection is decoherence: quantum coherence in warm, wet biological
 
 This differs structurally from classical coordination. Classical mechanisms combine, correlate, or integrate things that remain metaphysically distinct. Quantum entanglement creates systems that were never fully separate. If phenomenal unity requires genuine holism—not just functional coordination—quantum mechanics is the only physics that provides it. For detailed comparison of classical binding mechanisms (gamma synchrony, thalamocortical loops) with quantum alternatives, see [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/).
 
-For the philosophical argument and experimental support, see [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) and [phenomenal-unity](/concepts/phenomenal-unity/#the-quantum-alternative).
+For the philosophical argument and experimental support, see [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) and [phenomenal-unity](/concepts/phenomenal-unity/#the-quantum-alternative).
 
 ## The Illusionist Challenge
 
@@ -209,7 +209,7 @@ The unity of consciousness illustrates why simplicity is not a reliable guide. T
 ### Proposed Mechanisms
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical vs quantum binding, experimental evidence
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism and unified attention
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement as physical basis for unity
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as physical basis for unity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-quantum interface
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach through integration
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Access unity through global broadcast
