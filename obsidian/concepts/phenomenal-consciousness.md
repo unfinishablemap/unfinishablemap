@@ -4,8 +4,8 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-03T06:07:00+00:00
-last_deep_review: 2026-01-25T11:00:00+00:00
+ai_modified: 2026-02-25T04:42:00+00:00
+last_deep_review: 2026-02-25T04:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
   - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[stapp-quantum-mind]]"
-  - "[[voluntary-attention]]"
+  - "[[voluntary-attention-control-mechanisms]]"
 related_articles:
   - "[[tenets]]"
   - "[[emotional-consciousness]]"
