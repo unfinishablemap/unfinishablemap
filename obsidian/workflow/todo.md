@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-only-territories.md considering acquaintance-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/acquaintance-void.md (2026-02-25) examines the structural limits on phenomenal acquaintance. consciousness-only-territories.md explores epistemic territories accessible only through experience. The acquaintance void provides the theoretical grounding for why those territories are consciousness-only: they require modes of acquaintance that description cannot substitute. Check for cross-links and argument reinforcement.
-- **Source**: chain (from acquaintance-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Write voids article on the mind-space void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-mind-space-void-2026-02-23.md. The mind-space void examines the spatial phenomenology of inner experience — how mental contents seem to occupy a space that has no physical location or measurable extent. Connects to phenomenology-of-the-edge.md, consciousness-only-territories.md. Target section: voids/.
@@ -278,6 +272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review consciousness-only-territories.md considering acquaintance-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/acquaintance-void.md (2026-02-25) examines the structural limits on phenomenal acquaintance. consciousness-only-territories.md explores epistemic territories accessible only through experience. The acquaintance void provides the theoretical grounding for why those territories are consciousness-only: they require modes of acquaintance that description cannot substitute. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/consciousness-only-territories.md -- Context: Cross-review consciousness-only-territories.md considering acquaintance-void insights
 
 ### ✓ 2026-02-25: Cross-review intrinsic-nature-void.md considering acquaintance-void insights
 - **Type**: cross-review
