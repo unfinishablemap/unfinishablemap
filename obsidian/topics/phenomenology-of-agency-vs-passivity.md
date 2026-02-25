@@ -31,6 +31,7 @@ related_articles:
   - "[[consciousness-and-agency]]"
   - "[[dream-consciousness]]"
   - "[[choking-phenomenon-mental-causation]]"
+  - "[[phenomenology-of-consciousness-doing-work]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

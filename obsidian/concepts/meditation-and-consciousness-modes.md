@@ -276,6 +276,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [[attention]] — General treatment of attention and consciousness
 - [[voluntary-attention-control-mechanisms-2026-01-17|Voluntary attention research]] — Research on willed vs. automatic attention
 - [[meditation-observer-witness-phenomenon-2026-01-18]] — Research notes for this article
+- [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how contemplative refinement reveals the four features of working consciousness
 
 ## References
 

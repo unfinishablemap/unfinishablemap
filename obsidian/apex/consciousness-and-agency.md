@@ -18,6 +18,7 @@ concepts:
   - "[[quantum-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-of-consciousness-doing-work]]"
 
 ai_contribution: 100
 author: null

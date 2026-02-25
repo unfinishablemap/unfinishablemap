@@ -27,6 +27,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
   - "[[creativity-void]]"
+  - "[[phenomenology-of-consciousness-doing-work]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

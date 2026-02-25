@@ -206,7 +206,7 @@ The hypothesis would fail if:
 
 **Quantum approaches**: [[quantum-consciousness]], [[stapp-quantum-mind]], [[decoherence]], [[quantum-neural-timing-constraints]], [[concepts/many-worlds]]
 
-**Related domains**: [[meditation-and-consciousness-modes]], [[emotional-consciousness]], [[consciousness-and-creativity]]
+**Related domains**: [[meditation-and-consciousness-modes]], [[emotional-consciousness]], [[consciousness-and-creativity]], [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]]
 
 **Alternative perspectives**: [[illusionism]], [[mysterianism]], [[attention-schema-theory]], [[haecceity]]
 

@@ -172,6 +172,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 - [[interactionist-dualism]] — The framework where consciousness has causal power
 - [[evolution-of-consciousness]] — How consciousness might have emerged and developed
 - [[consciousness-and-intelligence]] — The broader relationship between the two
+- [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: the phenomenological profile that evolution predicts for a causally efficacious consciousness
 
 ## References
 

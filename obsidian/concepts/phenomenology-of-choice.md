@@ -30,6 +30,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[concept-of-free-will]]"
+  - "[[phenomenology-of-consciousness-doing-work]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

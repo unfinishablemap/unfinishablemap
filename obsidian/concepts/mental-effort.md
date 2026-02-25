@@ -176,6 +176,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [[illusionism]] — The eliminativist challenge
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms
 - [[interactionist-dualism]] — The philosophical framework
+- [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: effort, selection, holding, and opacity as a coherent profile of consciousness at work
 
 ## References
 

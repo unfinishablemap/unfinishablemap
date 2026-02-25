@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-consciousness-doing-work.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Apex article (created 2026-02-23) has no inbound links. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, it should be well-connected. Add cross-references from related articles (phenomenology-of-effort.md, consciousness-and-causal-powers.md, bidirectional-interaction articles) or update apex index.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Integrate perception-and-conscious-experience.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (created 2026-02-23) has no inbound links. Perception is a central topic for consciousness studies and should be cross-referenced from related articles on phenomenology, qualia, and sensory experience.
@@ -248,6 +242,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Integrate phenomenology-of-consciousness-doing-work.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (created 2026-02-23) has no inbound links. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, it should be well-connected. Add cross-references from related articles (phenomenology-of-effort.md, consciousness-and-causal-powers.md, bidirectional-interaction articles) or update apex index.
+- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-25: Write voids article on the narrative void
 - **Type**: expand-topic

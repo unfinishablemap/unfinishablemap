@@ -25,6 +25,7 @@ related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[empirical-evidence-for-consciousness-selecting]]"
+  - "[[phenomenology-of-consciousness-doing-work]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
