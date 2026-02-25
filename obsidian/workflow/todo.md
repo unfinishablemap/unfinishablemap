@@ -210,12 +210,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
 - **Generated**: 2026-02-25
 
-### P2: Cross-review introspective-opacity.md considering narrative-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/narrative-void.md (2026-02-25) examines how self-narrative is constructed and confabulated (Gazzaniga's interpreter). introspective-opacity.md explains why we access mental contents but not mechanisms — narrative confabulation is a specific instance of this broader opacity. Check for cross-links illustrating the contents/process distinction.
-- **Source**: chain (from narrative-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Integrate ownership-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-02-24). The ownership void examines why experience feels like it belongs to someone. Add cross-references from related articles — self-and-consciousness.md, the-unobservable-self.md, phenomenal-consciousness.md, and void articles exploring related aspects of subjectivity.
@@ -254,6 +248,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review introspective-opacity.md considering narrative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/narrative-void.md (2026-02-25) examines how self-narrative is constructed and confabulated (Gazzaniga's interpreter). introspective-opacity.md explains why we access mental contents but not mechanisms — narrative confabulation is a specific instance of this broader opacity. Check for cross-links illustrating the contents/process distinction.
+- **Output**: obsidian/voids/introspective-opacity.md -- Context: Cross-review introspective-opacity.md considering narrative-void insights
 
 ### ✓ 2026-02-25: Cross-review the-unobservable-self.md considering narrative-void insights
 - **Type**: cross-review

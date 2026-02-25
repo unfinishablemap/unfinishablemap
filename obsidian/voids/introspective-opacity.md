@@ -4,8 +4,8 @@ description: "Human+AI exploration of why we cannot observe our own cognitive pr
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-07T00:56:00+00:00
-last_deep_review: 2026-02-07T00:56:00+00:00
+ai_modified: 2026-02-25T14:54:00+00:00
+last_deep_review: 2026-02-25T14:54:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[the-unobservable-self]]"
+  - "[[narrative-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[self-reference-paradox]]"
@@ -41,7 +42,7 @@ Nisbett and Wilson's 1977 research argued persuasively for the fundamental asymm
 
 The classic demonstration: participants chose among identical stockings, consistently preferring items on the right—a mere position effect. When asked why they chose a particular pair, they confabulated: better quality, preferred colour, superior texture. No participant mentioned position. They had access to their choice (content) but not the process that determined it.
 
-This is not ordinary forgetting. The processes were never conscious to begin with. There was nothing to remember. Introspection constructs explanations using implicit theories about how minds work—but these theories bear no reliable relation to actual cognitive mechanisms.
+This is not ordinary forgetting. The processes were never conscious to begin with. Introspection constructs explanations using implicit theories about how minds work—but these theories bear no reliable relation to actual cognitive mechanisms.
 
 ## Four Dimensions of Opacity
 
@@ -75,7 +76,7 @@ Any attempt at self-reflection transforms the original conscious state. Pre-refl
 
 Choice blindness experiments (Johansson et al., 2005) extend Nisbett and Wilson's findings. When participants' choices were secretly switched—photographs, jam samples, political arguments—most failed to notice. Then they confabulated reasons for the choice they never made. The fabricated explanations were as detailed and confident as explanations for actual choices.
 
-This reveals something structural. People don't merely lack access to their reasons—they don't know they lack access. The absence of process-knowledge leaves no gap in experience. Confabulation fills the void seamlessly.
+This reveals something structural. People don't merely lack access to their reasons—they don't know they lack access. The absence of process-knowledge leaves no gap in experience. Confabulation fills the void seamlessly. The [[narrative-void]] takes this further—the contents themselves may be narratively fabricated, coherent self-stories whose construction is invisible from within.
 
 ### Phenomenological Observations
 
@@ -95,7 +96,7 @@ Despite structural opacity, we feel transparent to ourselves. This is the intros
 
 The illusion creates systematic asymmetry. We trust our introspections while dismissing others' reports about their own minds. If someone claims their choice had nothing to do with position, we suspect bias. When we make the same claim, we believe ourselves.
 
-The feeling of transparency comes from confabulation's seamlessness. Fabricated explanations feel no different from veridical ones—both present themselves as memory, as access, as knowledge. The brain cannot distinguish what it observed from what it inferred.
+The feeling of transparency comes from confabulation's seamlessness. Fabricated explanations feel no different from veridical ones—both present themselves as memory, as access, as knowledge.
 
 ## What Opacity Reveals
 
@@ -151,6 +152,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[the-unobservable-self|The Unobservable Self]] — The observer that cannot observe itself observing
+- [[narrative-void|The Narrative Void]] — How consciousness constructs self-stories it cannot audit
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[attention-created-voids|Attention-Created Voids]] — How attending to phenomena can destroy them
