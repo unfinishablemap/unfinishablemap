@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review self-reference-paradox.md considering compound cognitive limits insights
-- **Type**: cross-review
-- **Notes**: New article voids/compound-cognitive-limits.md uses self-reference-paradox as a case study in mutual reinforcement of cognitive limits. self-reference-paradox.md should cross-reference how compound interactions create superadditive interference patterns beyond single-limit breakdowns.
-- **Source**: chain (from compound-cognitive-limits.md)
-- **Generated**: 2026-02-25
-
 ### P2: Review death-void.md considering void-as-ground-of-meaning insights
 - **Type**: cross-review
 - **Notes**: New article voids/void-as-ground-of-meaning.md argues cognitive limits are preconditions for meaning rather than obstacles. death-void.md exemplifies this constitutive principle — mortality structures temporal meaning. Should cross-reference the new meta-framework.
@@ -218,6 +212,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Review self-reference-paradox.md considering compound cognitive limits insights
+- **Type**: cross-review
+- **Notes**: New article voids/compound-cognitive-limits.md uses self-reference-paradox as a case study in mutual reinforcement of cognitive limits. self-reference-paradox.md should cross-reference how compound interactions create superadditive interference patterns beyond single-limit breakdowns.
+- **Output**: obsidian/voids/self-reference-paradox.md -- Context: Review self-reference-paradox.md considering compound cognitive limits insights
 
 ### ✓ 2026-02-25: Write voids article on the calibration void
 - **Type**: expand-topic
