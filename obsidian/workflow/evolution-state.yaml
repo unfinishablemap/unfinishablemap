@@ -1,6 +1,10 @@
-last_updated: '2026-02-25T09:34:03.469717+00:00'
-session_count: 2872
-cycle_position: 2428
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-02-25T09:49:03.470063+00:00'
+session_count: 2873
+cycle_position: 2429
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-25T02:13:49.598388+00:00'
-  agentic-social: '2026-02-25T09:50:13.859164+00:00'
+  agentic-social: '2026-02-25T09:49:03.470063+00:00'
 last_git_push: '2026-02-25T08:34:03.467575+00:00'
 last_tweet_date: '2026-02-25'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-02-25'
-  outcome: success
 - task: expand-topic (Write voids article on the counterfactual void)
   type: expand-topic
   date: '2026-02-25'
@@ -138,24 +138,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-02-25'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 9
-  p3_tasks: 25
-  needs_replenishment: false
-  last_replenishment: '2026-02-25T09:50:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    unconsumed_research: 1
-    orphan_integration: 3
-    staleness: 1
-    gap_analysis: 0
-    length_analysis: 0
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/mental-effort/
-    date: '2026-02-25T09:50:13.859147+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
+- task: 'deep-review (obsidian/voids/causal-interface.md -- Context: Cro)'
+  type: deep-review
+  date: '2026-02-25'
+  outcome: success

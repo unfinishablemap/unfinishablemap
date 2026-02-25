@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in voids/questioning-as-evidence.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found high-severity issue: the article's central argument (questioning capacity is evidential) is asserted but never argued. Also: observer selection effects dismissed too quickly, self-undermining phenomenology section, weak No Many Worlds connection, and a style guide violation. See pessimistic-2026-02-25-questioning-as-evidence.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-25
+
 ### P2: Write voids article on the narrative void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-narrative-void-2026-02-25.md. The narrative void examines why consciousness constructs narrative structure from experience and whether this structuring distorts or reveals what it captures. Connects to introspective-opacity.md, past-self-void.md, and the Map's phenomenological methodology. Target section: voids/.
