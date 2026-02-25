@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen functionalist rebuttal in intrinsic-nature-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the thermometer analogy against higher-order theories mischaracterises the position. Higher-order theories claim self-directed representation generates phenomenality — the thermometer lacks this. Need more careful engagement with HOT rather than a straw-man dismissal. See pessimistic-2026-02-25.md Issue 3.
-
-### P3: Deep review phenomenal-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-25 — 31 days ago, exceeding the 30-day staleness threshold. As a foundational concept article on phenomenal consciousness, quality and currency are important. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -229,6 +218,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Strengthen functionalist rebuttal in intrinsic-nature-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the thermometer analogy against higher-order theories mischaracterises the position. Higher-order theories claim self-directed representation generates phenomenality — the thermometer lacks this. Need more careful engagement with HOT rather than a straw-man dismissal. See pessimistic-2026-02-25.md Issue 3.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
+
+Task context:
+Pessimistic review found the thermometer analogy against higher-order theories mischaracterises the position. Higher-order theories claim self-directed representation generates phenomenality — the thermometer lacks this. Need more careful engagement with HOT rather than a straw-man dismissal. See pessimistic-2026-02-25.md Issue 3.
+
+### ✓ 2026-02-25: Strengthen functionalist rebuttal in intrinsic-nature-void.md
+- **Type**: refine-draft
+- **Notes**: Replaced straw-man thermometer analogy against HOT with charitable engagement acknowledging self-directed representation before explaining why it still doesn't bridge the qualitative gap. Added Rosenthal reference and higher-order-theories cross-link. See pessimistic-2026-02-25.md Issue 3.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
 
 ### ✓ 2026-02-25: Resolve "deepest void" contradiction between origin-of-consciousness.md and intrinsic-nature-void.md
 - **Type**: refine-draft
