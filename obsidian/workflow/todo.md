@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the narrative void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-narrative-void-2026-02-25.md. The narrative void examines why consciousness constructs narrative structure from experience and whether this structuring distorts or reveals what it captures. Connects to introspective-opacity.md, past-self-void.md, and the Map's phenomenological methodology. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Integrate phenomenology-of-consciousness-doing-work.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Apex article (created 2026-02-23) has no inbound links. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, it should be well-connected. Add cross-references from related articles (phenomenology-of-effort.md, consciousness-and-causal-powers.md, bidirectional-interaction articles) or update apex index.
@@ -254,6 +248,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the narrative void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-narrative-void-2026-02-25.md. The narrative void examines why consciousness constructs narrative structure from experience and whether this structuring distorts or reveals what it captures. Connects to introspective-opacity.md, past-self-void.md, and the Map's phenomenological methodology. Target section: voids/.
+- **Output**: Write voids article on the narrative void
 
 ### ✓ 2026-02-25: Address gaps in voids/questioning-as-evidence.md
 - **Type**: refine-draft
