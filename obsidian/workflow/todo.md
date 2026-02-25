@@ -208,6 +208,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
 - **Generated**: 2026-02-24
 
+### P3: Write article on the trilemma of selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The attention-as-selection-interface article contains the determinism/randomness/mental-causation trilemma—possibly the Map's most logically compelling argument—buried within a broader article. A standalone treatment could develop each horn with full rigour, engage compatibilist responses, and connect to the broader argumentative architecture. Builds on attention-as-selection-interface.md, free-will.md, consciousness-and-causal-powers.md. See optimistic-2026-02-25.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on emergence as universal hard problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The emergence void identifies that the hard problem generalizes to all level transitions, but this insight is confined to the voids section. A topics article could develop the philosophical implications: if emergence is universally opaque, physicalism's promise of bottom-up explanation faces a structural challenge. Connection to the voids-as-meaning thesis would show emergence's opacity as constitutive. Builds on emergence-void.md, hard-problem-of-consciousness.md, void-as-ground-of-meaning.md. See optimistic-2026-02-25.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on the evolution of consciousness from a dualist perspective
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
+- **Generated**: 2026-02-25
+
 ### P2: Add causal caveats to meditation-introspection evidence in introspection.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-24 evening) found Fox et al. (2012) cross-sectional study treated with causal language ("training dramatically improves accuracy") despite inability to rule out self-selection. Also: microphenomenology's "performative coherence" criterion is circular and goes unacknowledged. Medium severity. See pessimistic-2026-02-24-evening.md
