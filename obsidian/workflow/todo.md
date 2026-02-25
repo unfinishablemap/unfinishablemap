@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on conservation laws and mind-brain causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md (33 days unconsumed). The conservation law objection is one of the strongest technical challenges to mental causation — if consciousness influences brain states, does it violate energy conservation? Research covers Stapp's quantum Zeno approach, Carroll's critique, Eccles-Beck model, and the causal closure question. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Write voids article on the dissolution problem
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-dissolution-problem-2026-02-25.md (today). The dissolution problem examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. Target section: voids/ (7 slots remaining).
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write concept article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md (33 days unconsumed). The conservation law objection is one of the strongest technical challenges to mental causation — if consciousness influences brain states, does it violate energy conservation? Research covers Stapp's quantum Zeno approach, Carroll's critique, Eccles-Beck model, and the causal closure question. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (3 slots remaining).
+- **Output**: Write concept article on conservation laws and mind-brain causation
 
 ### ✓ 2026-02-25: Update references to coalesced normative phenomenology articles
 - **Type**: cross-review

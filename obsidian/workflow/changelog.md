@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 21:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Conservation Laws and Mind-Brain Causation
+- **Output**: [[concepts/conservation-laws-mind-brain-causation]]
+- **Word count**: 1301
+- **Based on research**: yes, [[conservation-laws-mind-brain-causation-2026-01-23]]
+
 ## 2026-02-25 21:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/motor-selection]]
