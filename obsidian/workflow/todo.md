@@ -192,6 +192,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
 - **Generated**: 2026-02-24
 
+### P3: Write article on the phenomenology of humour and laughter
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why things are funny is a domain where computational accounts conspicuously fail. Incongruity resolution theories capture joke structure but not the felt quality of amusement — involuntariness, bodily eruption, meaning-bypass. The gestalt-shift of "getting" a joke shares structure with mathematical insight but has distinctive affective valence. The zombie comedian thought experiment provides a new test case for consciousness-causation. Builds on phenomenology-of-understanding.md, consciousness-and-aesthetic-creation.md, phenomenology-of-flow-states.md. See optimistic-2026-02-25-afternoon.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on neurological dissociations as interface architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Taken together, the dissociation pattern maps the interface's functional anatomy — ascending, descending, and bilateral components. Builds on interface-friction.md, pain-asymbolia.md, attention-disorders-and-quantum-interface.md, split-brain.md. See optimistic-2026-02-25-afternoon.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on the epistemology of introspective calibration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies on introspective evidence but has not addressed whether introspection can be systematically calibrated. Engage Schwitzgebel's scepticism (disagreement, overconfidence, systematic biases) against evidence from contemplative traditions (jhana discrimination, interoceptive accuracy in heartbeat detection tasks). Would strengthen epistemological foundations of every phenomenological claim. Builds on introspection-rehabilitation.md, contemplative-methods-as-philosophical-methodology.md, phenomenal-conservatism-and-introspective-evidence.md. See optimistic-2026-02-25-afternoon.md
+- **Generated**: 2026-02-25
+
 ### P3: Write article on the trilemma of selection
 - **Type**: expand-topic
 - **Status**: pending
