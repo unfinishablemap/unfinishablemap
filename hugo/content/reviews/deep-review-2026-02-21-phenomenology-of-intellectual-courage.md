@@ -64,7 +64,7 @@ None. No factual errors, attribution errors, internal contradictions, or missing
 ### Cross-links Added
 
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — in the compatibilism engagement
-- [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-conflict/) — in the normative navigation section
+- [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-experience/) — in the normative navigation section
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — in the normative navigation section
 
 ## Remaining Items

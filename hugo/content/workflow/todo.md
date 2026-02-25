@@ -38,19 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ~~P2: Write voids article on the minimal consciousness void~~
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-minimal-consciousness-void-2026-02-22.md. The minimal consciousness void examines the lower boundary of experience — what the simplest possible consciousness would be and whether such a boundary can be coherently defined. Connects to consciousness-threshold-in-cognitive-evolution.md, animal-consciousness.md. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-- **Completed**: 2026-02-25 — Output: [minimal-consciousness-void](/voids/minimal-consciousness-void/)
-
-### P2: Cross-review minimal-consciousness.md considering minimal-consciousness-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/minimal-consciousness-void.md (2026-02-25) explores why consciousness cannot investigate its own lower bound — the enrichment problem, IIT's missing threshold, and Buddhist cessation approaches. The concept article concepts/minimal-consciousness.md defines minimal consciousness as the simplest possible phenomenal experience. The void article may add depth to the concept article's treatment of the threshold question and the structural impossibility of identifying the minimum. Check for cross-links and argument reinforcement.
-- **Source**: chain (from minimal-consciousness-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Cross-review whether-real.md considering reality-feeling-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/reality-feeling-void.md (2026-02-25) examines why experience carries a sense of reality and why this quality resists analysis. whether-real.md explores whether consciousness provides genuine access to reality. The reality-feeling void's analysis of how the "real" feeling operates may strengthen or complicate the arguments in whether-real. Check for cross-links and argument reinforcement.
@@ -73,6 +60,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: File has minimal inbound links (created 2026-02-18). Topics article on how dispositional properties relate to consciousness — relevant to causal powers, mental causation, and the interaction problem. Should be linked from consciousness-and-causal-powers.md, mind-matter-interface.md, and property dualism articles.
 - **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Update references to coalesced normative phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/phenomenology-of-normative-experience.md from phenomenology-of-normative-properties + phenomenology-of-normative-conflict. The following files reference archived articles and may need review: concepts/normative-phenomenology.md, topics/phenomenal-normativity-environmental-ethics.md, topics/consciousness-and-the-grounds-of-normative-authority.md, topics/phenomenology-of-intellectual-courage.md
+- **Source**: coalesce
 - **Generated**: 2026-02-25
 
 ### P3: Deep review valence-void.md
@@ -292,6 +285,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review minimal-consciousness.md considering minimal-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/minimal-consciousness-void.md (2026-02-25) explores why consciousness cannot investigate its own lower bound — the enrichment problem, IIT's missing threshold, and Buddhist cessation approaches. The concept article concepts/minimal-consciousness.md defines minimal consciousness as the simplest possible phenomenal experience. The void article may add depth to the concept article's treatment of the threshold question and the structural impossibility of identifying the minimum. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/minimal-consciousness.md -- Context: Cross-review minimal-consciousness.md considering minimal-consciousness-void insights
+
+### ✓ 2026-02-25: Write voids article on the minimal consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-minimal-consciousness-void-2026-02-22.md. The minimal consciousness void examines the lower boundary of experience — what the simplest possible consciousness would be and whether such a boundary can be coherently defined. Connects to consciousness-threshold-in-cognitive-evolution.md, animal-consciousness.md. Target section: voids/.
+- **Output**: Write voids article on the minimal consciousness void
 
 ### ✓ 2026-02-25: Write voids article on the mind-space void
 - **Type**: expand-topic

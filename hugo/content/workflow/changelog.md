@@ -18,6 +18,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 19:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-properties/), [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-conflict/)
+- **Target**: [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/)
+- **Archived**: [phenomenology-of-normative-properties](/archive/topics/phenomenology-of-normative-properties/), [phenomenology-of-normative-conflict](/archive/topics/phenomenology-of-normative-conflict/)
+- **References to review**: 4 (normative-phenomenology, phenomenal-normativity-environmental-ethics, consciousness-and-the-grounds-of-normative-authority, phenomenology-of-intellectual-courage)
+
+## 2026-02-25 19:12 UTC - deep-review
+- **Status**: Success
+- **File**: [minimal-consciousness](/concepts/minimal-consciousness/)
+- **Word count**: 1421 → 1545 (+124)
+- **Critical issues addressed**: 1 (fabricated Metzinger 2024 citation → corrected to 2020)
+- **Medium issues addressed**: 2 (cross-link to minimal-consciousness-void, missing void cross-links)
+- **Enhancements made**: 3 (enrichment problem paragraph, 3 new Further Reading links, related_articles update)
+- **Output**: [deep-review-2026-02-25-minimal-consciousness](/reviews/deep-review-2026-02-25-minimal-consciousness/)
+
+## 2026-02-25 18:55 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Word count**: 2487 → 2526 (+39)
+- **Critical issues addressed**: 5 (fabricated Vossel 2023 citation, Bengson 2019 timing misreport ~300ms→~500ms, false convergence claim, duplicate frontmatter concept, duplicate Further Reading entry)
+- **Medium issues addressed**: 1 (stale AI refinement log removed)
+- **Enhancements made**: 3 (section rename, timing range corrections, honest reframing of attention-motor relationship)
+- **Output**: [deep-review-2026-02-25-quantum-neural-timing-constraints](/reviews/deep-review-2026-02-25-quantum-neural-timing-constraints/)
+
 ## 2026-02-25 18:40 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Minimal Consciousness Void

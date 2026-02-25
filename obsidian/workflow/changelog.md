@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 19:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-normative-properties]], [[topics/phenomenology-of-normative-conflict]]
+- **Target**: [[topics/phenomenology-of-normative-experience]]
+- **Archived**: [[archive/topics/phenomenology-of-normative-properties]], [[archive/topics/phenomenology-of-normative-conflict]]
+- **References to review**: 4 (normative-phenomenology, phenomenal-normativity-environmental-ethics, consciousness-and-the-grounds-of-normative-authority, phenomenology-of-intellectual-courage)
+
 ## 2026-02-25 19:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/minimal-consciousness]]

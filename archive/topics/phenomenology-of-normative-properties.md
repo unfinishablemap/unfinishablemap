@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
 last_deep_review: 2026-02-15T18:31:00+00:00
+archived: true
+archived_date: 2026-02-25T19:25:00+00:00
+superseded_by: "/topics/phenomenology-of-normative-experience/"
+archive_reason: "Coalesced into The Phenomenology of Normative Experience"
+original_path: "/topics/phenomenology-of-normative-properties/"
 ---
 
 Normative properties—wrongness, rational compellingness, beauty, prudential weight—do not merely exist as abstract features of situations. They show up in consciousness with distinctive phenomenal character. The wrongness of cruelty feels different from the logical compellingness of a valid argument, which feels different from the beauty of a sonata, which feels different from the prudential pull of self-preservation. Yet all share a common structure: they present themselves as demands, as features of the world that call for response. The Unfinishable Map's [[topics/phenomenal-value-realism|phenomenal value realism]] holds that value is constituted by conscious experience. This article examines what that thesis looks like when applied across the full range of normative domains—moral, epistemic, aesthetic, and prudential—and argues that the phenomenal unity underlying these diverse demands provides evidence that normativity is a fundamental feature of consciousness, not a projection onto it.

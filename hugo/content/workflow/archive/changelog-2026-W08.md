@@ -2914,7 +2914,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-18 13:02 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Normative Conflict
-- **Output**: [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-conflict/)
+- **Output**: [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-experience/)
 - **Word count**: 2057
 - **Based on research**: yes, [Voids: The Normative Void research](/research/voids-normative-void-2026-02-02/)
 

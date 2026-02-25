@@ -34,6 +34,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
 last_deep_review: 2026-02-21T15:09:00+00:00
+archived: true
+archived_date: 2026-02-25T19:25:00+00:00
+superseded_by: "/topics/phenomenology-of-normative-experience/"
+archive_reason: "Coalesced into The Phenomenology of Normative Experience"
+original_path: "/topics/phenomenology-of-normative-conflict/"
 ---
 
 Normative conflict—being pulled in opposing directions by demands that each feel legitimate—has a phenomenal character distinct from any single normative experience. The Unfinishable Map's analysis of [[phenomenology-of-normative-properties|normative phenomenology]] identifies four domains of normative experience (moral, epistemic, aesthetic, prudential), each with its own felt texture. But these domains do not operate in isolation. They collide. A whistleblower feels the moral demand to expose wrongdoing pulling against the prudential demand for self-preservation. A scientist feels the epistemic demand for truth pulling against the moral demand to protect vulnerable subjects. These collisions produce an experience irreducible to either demand alone: the felt weight of conflicting oughts, and the distinctive suffering of having to choose between them.

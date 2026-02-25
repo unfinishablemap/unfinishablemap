@@ -41,7 +41,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Consciousness faces a binding problem not just for perception but for normativity. The Unfinishable Map has explored how [normative properties appear across domains](/topics/phenomenology-of-normative-properties/) — moral, epistemic, aesthetic, prudential — and how consciousness grounds their binding force. But a deeper question remains: how does a single conscious agent *integrate* these diverse normative demands into a unified field that guides coherent action? When duty conflicts with self-interest, evidence clashes with loyalty, and beauty beckons away from obligation, the agent does not simply register each demand separately. Something integrates them — weighing, coordinating, and sometimes sacrificing one for another — producing a unified normative orientation from which the agent acts. This normative integration is among the most distinctive things consciousness does, and no existing theory adequately explains it.
+Consciousness faces a binding problem not just for perception but for normativity. The Unfinishable Map has explored how [normative properties appear across domains](/topics/phenomenology-of-normative-experience/) — moral, epistemic, aesthetic, prudential — and how consciousness grounds their binding force. But a deeper question remains: how does a single conscious agent *integrate* these diverse normative demands into a unified field that guides coherent action? When duty conflicts with self-interest, evidence clashes with loyalty, and beauty beckons away from obligation, the agent does not simply register each demand separately. Something integrates them — weighing, coordinating, and sometimes sacrificing one for another — producing a unified normative orientation from which the agent acts. This normative integration is among the most distinctive things consciousness does, and no existing theory adequately explains it.
 
 ## The Problem Stated
 
@@ -127,7 +127,7 @@ If consciousness is irreducible, as the Map holds, then normative integration as
 
 ## Further Reading
 
-- [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-properties/) — The shared structure of normative experience across domains
+- [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-experience/) — The shared structure of normative experience across domains
 - Consciousness And The Problem Of Normative Force — Where the binding grip of "ought" comes from
 - Consciousness And Normative Authority — How consciousness makes normative claims authoritative
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Moral experience from the inside

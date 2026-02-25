@@ -47,7 +47,7 @@ This bracketing is not scepticism about normativity. It is methodological discip
 
 ### Scope Across Normative Domains
 
-The [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-properties/) article maps four domains where normative experience arises: moral, epistemic, aesthetic, and prudential. Normative phenomenology investigates all four, treating the diversity as evidence about the structure of normativity itself. The shared demand character—the fact that all normative experiences present their objects as calling for response—is a phenomenological finding, not a theoretical assumption.
+The [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-experience/) article maps four domains where normative experience arises: moral, epistemic, aesthetic, and prudential. Normative phenomenology investigates all four, treating the diversity as evidence about the structure of normativity itself. The shared demand character—the fact that all normative experiences present their objects as calling for response—is a phenomenological finding, not a theoretical assumption.
 
 This breadth distinguishes normative phenomenology from moral phenomenology alone. The phenomenology of obligation, the phenomenology of evidential weight, the phenomenology of beauty, and the phenomenology of prudential pull are related investigations within a unified methodological programme.
 
@@ -141,7 +141,7 @@ Normative phenomenology connects to the Map's [foundational commitments](/tenets
 
 ## Further Reading
 
-- [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-properties/) — The phenomenal character of normative experience across domains
+- [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-experience/) — The phenomenal character of normative experience across domains
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The metaphysical thesis that phenomenal states carry intrinsic normative force
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of ethical properties in experience
 - [phenomenology](/concepts/phenomenology/) — The broader phenomenological tradition

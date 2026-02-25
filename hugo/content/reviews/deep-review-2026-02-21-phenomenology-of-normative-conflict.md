@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [The Phenomenology of Normative Conflict](/topics/phenomenology-of-normative-conflict/)
+**Article**: [The Phenomenology of Normative Conflict](/topics/phenomenology-of-normative-experience/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

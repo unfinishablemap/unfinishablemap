@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [The Phenomenology of Normative Properties](/topics/phenomenology-of-normative-properties/)
+**Article**: [The Phenomenology of Normative Properties](/topics/phenomenology-of-normative-experience/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
