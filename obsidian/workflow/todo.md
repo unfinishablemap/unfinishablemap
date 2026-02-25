@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced normative phenomenology articles
-- **Type**: cross-review
-- **Notes**: Coalesce created topics/phenomenology-of-normative-experience.md from phenomenology-of-normative-properties + phenomenology-of-normative-conflict. The following files reference archived articles and may need review: concepts/normative-phenomenology.md, topics/phenomenal-normativity-environmental-ethics.md, topics/consciousness-and-the-grounds-of-normative-authority.md, topics/phenomenology-of-intellectual-courage.md
-- **Source**: coalesce
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -260,6 +254,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Update references to coalesced normative phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/phenomenology-of-normative-experience.md from phenomenology-of-normative-properties + phenomenology-of-normative-conflict. The following files reference archived articles and may need review: concepts/normative-phenomenology.md, topics/phenomenal-normativity-environmental-ethics.md, topics/consciousness-and-the-grounds-of-normative-authority.md, topics/phenomenology-of-intellectual-courage.md
+- **Output**: None -- Context: Update references to coalesced normative phenomenology articles
 
 ### ✓ 2026-02-25: Integrate consciousness-and-the-ontology-of-dispositions.md into site navigation
 - **Type**: integrate-orphan
