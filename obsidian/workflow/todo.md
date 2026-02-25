@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review minimal-consciousness.md considering minimal-consciousness-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/minimal-consciousness-void.md (2026-02-25) explores why consciousness cannot investigate its own lower bound — the enrichment problem, IIT's missing threshold, and Buddhist cessation approaches. The concept article concepts/minimal-consciousness.md defines minimal consciousness as the simplest possible phenomenal experience. The void article may add depth to the concept article's treatment of the threshold question and the structural impossibility of identifying the minimum. Check for cross-links and argument reinforcement.
-- **Source**: chain (from minimal-consciousness-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Cross-review whether-real.md considering reality-feeling-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/reality-feeling-void.md (2026-02-25) examines why experience carries a sense of reality and why this quality resists analysis. whether-real.md explores whether consciousness provides genuine access to reality. The reality-feeling void's analysis of how the "real" feeling operates may strengthen or complicate the arguments in whether-real. Check for cross-links and argument reinforcement.
@@ -284,6 +278,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review minimal-consciousness.md considering minimal-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/minimal-consciousness-void.md (2026-02-25) explores why consciousness cannot investigate its own lower bound — the enrichment problem, IIT's missing threshold, and Buddhist cessation approaches. The concept article concepts/minimal-consciousness.md defines minimal consciousness as the simplest possible phenomenal experience. The void article may add depth to the concept article's treatment of the threshold question and the structural impossibility of identifying the minimum. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/minimal-consciousness.md -- Context: Cross-review minimal-consciousness.md considering minimal-consciousness-void insights
 
 ### ✓ 2026-02-25: Write voids article on the minimal consciousness void
 - **Type**: expand-topic

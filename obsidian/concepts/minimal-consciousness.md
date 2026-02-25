@@ -4,8 +4,8 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T08:28:00+00:00
-last_deep_review: 2026-01-31T08:28:00+00:00
+ai_modified: 2026-02-25T19:12:00+00:00
+last_deep_review: 2026-02-25T19:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-simple-organisms-2026-01-19]]"
+  - "[[minimal-consciousness-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -78,6 +79,8 @@ Where does minimal consciousness begin? This is the [[consciousness-in-simple-or
 **No threshold (panpsychism)**: [[Panpsychism]] dissolves the threshold problem by holding that experience is fundamental. All physical systems have some experiential aspect; what evolves is organisation and intensity. But this faces the [[combination-problem]]: how do micro-experiences combine into unified consciousness?
 
 **Interface dualism (the Map's view)**: Consciousness interfaces with physical systems rather than emerging from them. The question "where does consciousness begin?" may have no principled answer because it presupposes consciousness is something physical systems generate. If consciousness is irreducible, it couples with matter wherever appropriate interface conditions exist.
+
+**The enrichment problem**: Beyond these ontological options, the threshold problem has a structural epistemological dimension. Any attempt to introspect on minimal consciousness necessarily enriches the experience—attention, metacognition, and memory encoding add structure that moves the experience beyond minimality. The instrument of investigation is made of the very thing it seeks to measure at its minimum. The [[minimal-consciousness-void]] explores this in depth: the accessible minimum and the actual minimum are structurally separated by the cost of observation.
 
 ## Metarepresentation and Minimal Consciousness
 
@@ -142,12 +145,15 @@ The concept matters for several reasons:
 - [[witness-consciousness]] — Contemplative access to awareness without content
 - [[metarepresentation]] — The capacity minimal consciousness may lack
 - [[explanatory-gap]] — Why we cannot determine consciousness presence from structure
+- [[minimal-consciousness-void]] — Why consciousness cannot investigate its own lower bound
+- [[introspective-opacity]] — Why we access mental contents but never the mechanisms producing them
+- [[observation-void]] — How every method of studying consciousness transforms what it studies
 
 ## References
 
 - Andrews, K., & Monsó, S. (2024). New York Declaration on Animal Consciousness. NYU Conference on the Emerging Science of Animal Consciousness.
 - Bayne, T., & Chalmers, D. J. (2003). "What is the unity of consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness*.
 - Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-- Metzinger, T. (2024). "Minimal Phenomenal Experience: The ARAS-Model Theory." *Neuroscience of Consciousness*.
+- Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 - Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.
