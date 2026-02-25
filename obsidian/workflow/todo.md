@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-the-ontology-of-dispositions.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has minimal inbound links (created 2026-02-18). Topics article on how dispositional properties relate to consciousness — relevant to causal powers, mental causation, and the interaction problem. Should be linked from consciousness-and-causal-powers.md, mind-matter-interface.md, and property dualism articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Update references to coalesced normative phenomenology articles
 - **Type**: cross-review
 - **Notes**: Coalesce created topics/phenomenology-of-normative-experience.md from phenomenology-of-normative-properties + phenomenology-of-normative-conflict. The following files reference archived articles and may need review: concepts/normative-phenomenology.md, topics/phenomenal-normativity-environmental-ethics.md, topics/consciousness-and-the-grounds-of-normative-authority.md, topics/phenomenology-of-intellectual-courage.md
@@ -266,6 +260,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Integrate consciousness-and-the-ontology-of-dispositions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has minimal inbound links (created 2026-02-18). Topics article on how dispositional properties relate to consciousness — relevant to causal powers, mental causation, and the interaction problem. Should be linked from consciousness-and-causal-powers.md, mind-matter-interface.md, and property dualism articles.
+- **Output**: obsidian/topics/consciousness-and-the-ontology-of-dispositions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-25: Integrate timing-gap-problem.md into site navigation
 - **Type**: integrate-orphan

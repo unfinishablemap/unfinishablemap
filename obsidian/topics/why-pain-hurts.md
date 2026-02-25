@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal and epiphenomenalism made u
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-23T11:35:00+00:00
+ai_modified: 2026-02-25T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ The functionalist reads this decomposition as a success story: different neural 
 
 ## The Inseparability of Character and Causal Power
 
-Most philosophical discussions of [[mental-causation]] treat phenomenal character and causal role as conceptually distinct. A mental state has qualitative properties (what it feels like) and causal properties (what it does). The question then becomes whether the qualitative properties play any causal role.
+Most philosophical discussions of [[mental-causation]] treat phenomenal character and causal role as conceptually distinct. A mental state has qualitative properties (what it feels like) and causal properties (what it does). The question then becomes whether the qualitative properties play any causal role. The [[consciousness-and-the-ontology-of-dispositions|ontology of dispositions]] frames this as a choice between three positions on what properties are—and pain's behaviour strongly supports the identity theory of properties, where quality and power are inseparable aspects of one reality.
 
 Pain collapses this distinction. When you touch a hot stove, the nociceptive signal travels through C-fibres and A-delta fibres to the brain. But the *withdrawal* — the urgent, whole-body recoil — is phenomenologically unified with the awfulness: the pain hurts *and therefore* you pull away. The "therefore" is experienced, not inferred.
 

@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-25T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -191,6 +191,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[illusionism]] — The radical physicalist response denying phenomenal facts exist
 - [[introspection]] — How Mary recognizes she learned something new
 - [[russellian-monism]] — The structure/intrinsic nature distinction underlying the argument
+- [[consciousness-and-the-ontology-of-dispositions]] — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [[concepts/materialism]] — The view the argument challenges
 - [[tenets]] — How the Map's framework responds
 

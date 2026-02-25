@@ -4,7 +4,7 @@ description: "Causal powers are intrinsic capacities of properties to produce ef
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T13:13:00+00:00
+ai_modified: 2026-02-25T20:55:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
@@ -37,7 +37,7 @@ One central debate distinguishes two kinds of properties:
 
 **Causal powers** (or dispositional properties) are essentially directed toward their manifestations. Fragility isn't just "whatever breaks under pressure"—it's the intrinsic tendency *to* break under pressure. The power contains reference to its effect within its nature. Solubility is the disposition to dissolve in water; charge is the power to attract or repel other charged objects.
 
-**Powers realism** holds that at least some fundamental properties are dispositional—causal powers all the way down. **Categoricalism** holds that fundamental properties are categorical, with causal structure imposed by laws. **Neutral monism about properties** (or the identity theory of properties) holds that fundamental properties are neither purely categorical nor purely dispositional but have both aspects—a qualitative nature and a causal role simultaneously. While this view has appeal, the Map favours powers realism because the mind-body problem requires that phenomenal properties make a genuine causal contribution: the question is not whether consciousness has a qualitative character (it obviously does) but whether that character comes with irreducible causal power.
+**Powers realism** holds that at least some fundamental properties are dispositional—causal powers all the way down. **Categoricalism** holds that fundamental properties are categorical, with causal structure imposed by laws. **Neutral monism about properties** (or the identity theory of properties) holds that fundamental properties are neither purely categorical nor purely dispositional but have both aspects—a qualitative nature and a causal role simultaneously. Martin and Heil call these "powerful qualities." While this view has appeal, the Map favours powers realism because the mind-body problem requires that phenomenal properties make a genuine causal contribution: the question is not whether consciousness has a qualitative character (it obviously does) but whether that character comes with irreducible causal power. See [[consciousness-and-the-ontology-of-dispositions|the ontology of dispositions]] for how each position in this debate generates different accounts of where consciousness fits.
 
 This debate matters for the mind-body problem. If consciousness has causal powers, are those powers fundamental dispositions (irreducible capacities to affect neural processes) or derivative patterns grounded in more basic categorical facts? The Unfinishable Map's commitment to [[interactionist-dualism]] suggests treating phenomenal states as possessing genuine causal powers rather than merely accompanying physical dispositions.
 
@@ -83,6 +83,7 @@ For the broader question of mental causation, see [[mental-causation]] and [[evo
 
 ## Further Reading
 
+- [[consciousness-and-the-ontology-of-dispositions]] — How pandispositionalism, categoricalism, and the identity theory each frame the mind-body problem
 - [[consciousness-and-causal-powers]] — How consciousness exercises its causal powers, with constraints and examples
 - [[mental-causation]] — How mental states cause physical events
 - [[downward-causation]] — Causal influence from higher to lower levels

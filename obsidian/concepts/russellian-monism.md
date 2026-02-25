@@ -4,7 +4,7 @@ description: "The view that physics describes only structure while intrinsic qui
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-25T13:56:00+00:00
+ai_modified: 2026-02-25T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ But Adam Pautz and other critics argue this is illusory. Russellian monism requi
 
 If Russellian monism is dualism under another name, the Map's explicit [[interactionist-dualism]] is preferable:
 
-**Clearer ontology**: Dualism forthrightly posits mental substances or properties distinct from physical ones. Russellian monism obscures this behind the notion of "quiddities" that are somehow both physical and phenomenal.
+**Clearer ontology**: Dualism forthrightly posits mental substances or properties distinct from physical ones. Russellian monism obscures this behind the notion of "quiddities" that are somehow both physical and phenomenal. The [[consciousness-and-the-ontology-of-dispositions|ontology of dispositions]] clarifies the options: if properties are "powerful qualities" (simultaneously qualitative and dispositional), consciousness could be the paradigmatic case—known from the inside—without requiring micro-level quiddities that must combine.
 
 **Avoids combination**: By positing unified mental subjects rather than combinations of micro-subjects, [[substance-property-dualism|substance dualism]] sidesteps the combination problem entirely. There's no question of how many experiences become one—the unified subject is fundamental.
 
@@ -168,6 +168,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 ## Further Reading
 
+- [[consciousness-and-the-ontology-of-dispositions]] — How the powerful qualities framework offers an alternative to quiddities
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
 - [[substance-property-dualism]] — The broader dualist framework
 - [[panpsychism]] — Related view making consciousness fundamental

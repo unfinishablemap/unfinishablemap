@@ -4,7 +4,7 @@ description: "What laws of nature are—Humean regularities, governing principle
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-02-20T18:06:00+00:00
+ai_modified: 2026-02-25T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ This has a further consequence for the quantum measurement problem. If governing
 
 Dispositional essentialism offers the most natural home for the Map's framework, but at a price. If laws are grounded in the essential natures of properties, and if phenomenal properties have essential dispositional natures that include capacities to influence physical processes, then [[psychophysical-laws]] express what phenomenal properties inherently *are*. The law connecting conscious intention to quantum selection is not an imposed correlation or a brute regularity—it flows from the essential nature of intention itself.
 
-This is the view explored in the Map's [[consciousness-and-causal-powers]] article: phenomenal states possess irreducible causal powers—the antithesis of [[concepts/epiphenomenalism]]—and psychophysical laws express those powers. The attraction is explanatory depth. We don't just observe that intention biases neural quantum outcomes; we understand *why*—because that biasing capacity is part of what intention essentially is, just as attracting other charges is part of what charge essentially is.
+This is the view explored in the Map's [[consciousness-and-causal-powers]] article and developed in [[consciousness-and-the-ontology-of-dispositions|the ontology of dispositions]]: phenomenal states possess irreducible causal powers—the antithesis of [[concepts/epiphenomenalism]]—and psychophysical laws express those powers. The attraction is explanatory depth. We don't just observe that intention biases neural quantum outcomes; we understand *why*—because that biasing capacity is part of what intention essentially is, just as attracting other charges is part of what charge essentially is.
 
 The price is ontological commitment. Dispositional essentialism about phenomenal properties means consciousness has a fixed essential nature—its causal profile could not have been otherwise. This seems to conflict with the contingency that [[philosophical-zombies|zombie arguments]] suggest. If a zombie world is conceivable—a world physically identical to ours but lacking consciousness—then consciousness is not metaphysically necessary given the physical facts. And if consciousness is not necessary, its causal profile cannot be essential in the way dispositional essentialism requires.
 
@@ -121,6 +121,7 @@ The Map's [[tenets]] have differential affinities with each account of laws.
 - [[psychophysical-laws-bridging-mind-and-matter]] — The full framework: Chalmers' upward laws and the Map's downward extension
 - [[psychophysical-laws]] — The foundational concept
 - [[causal-powers]] — How dispositional properties ground the Map's account of mental causation
+- [[consciousness-and-the-ontology-of-dispositions]] — How pandispositionalism, categoricalism, and the identity theory frame the mind-body problem
 - [[selection-laws]] — The downward direction: how conscious states select physical outcomes
 - [[consciousness-and-causal-powers]] — Constraints on what consciousness can causally accomplish
 - [[causal-closure]] — Why physical causal closure is not absolute at quantum indeterminacies

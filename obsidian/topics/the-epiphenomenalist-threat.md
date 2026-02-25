@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T13:31:00+00:00
+ai_modified: 2026-02-25T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +75,7 @@ This avoids substance dualism's pairing problem (how does a non-physical substan
 
 David Chalmers, the most prominent property dualist, acknowledged this explicitly. In *The Conscious Mind* (1996), he wrote that "epiphenomenalism may be counterintuitive, but it is not obviously false, so if a sound argument forces it on us, we should accept it." Chalmers' framework—which he calls "naturalistic dualism" to distinguish it from Cartesian substance dualism—is compatible with epiphenomenalism even if it does not require it. The position is coherent, but it concedes the epiphenomenalist threat rather than defeating it.
 
-Property dualism becomes interactionist only when it adds a mechanism by which mental properties influence physical outcomes. Without such a mechanism, it is epiphenomenalism by another name.
+Property dualism becomes interactionist only when it adds a mechanism by which mental properties influence physical outcomes. Without such a mechanism, it is epiphenomenalism by another name. The [[consciousness-and-the-ontology-of-dispositions|identity theory of properties]]—where phenomenal character and causal power are identical aspects of a single property—provides one such mechanism: if quality just *is* power, consciousness is automatically causally efficacious rather than passively supervening.
 
 ## Panpsychism: The Macro-Level Threat
 

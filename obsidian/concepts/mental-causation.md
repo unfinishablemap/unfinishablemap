@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-24T03:08:00+00:00
+ai_modified: 2026-02-25T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -238,6 +238,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[interactionist-dualism]] — The framework that accommodates mental causation
 - [[concepts/epiphenomenalism]] — The view denying mental causation
 - [[emergence]] — Mental causation as strong emergence with mechanism
+- [[consciousness-and-the-ontology-of-dispositions]] — How dispositional ontology frames consciousness's causal powers as powerful qualities
 - [[agent-causation]] — Agent causation as substance causation applied to free action
 - [[bandwidth-problem-mental-causation]] — The distinct challenge of whether the mind-body channel carries enough information
 - [[neural-bandwidth-constraints-and-the-interface]] — Empirical bandwidth data and its philosophical implications

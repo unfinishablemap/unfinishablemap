@@ -4,7 +4,7 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-22T10:29:00+00:00
+ai_modified: 2026-02-25T20:55:00+00:00
 last_deep_review: 2026-02-22T10:29:00+00:00
 draft: false
 topics:
@@ -147,7 +147,7 @@ If consciousness has specific, limited causal powers operating through quantum s
 
 ### For Metaphysics
 
-If consciousness has causal powers that cannot be reduced to physical forces, this supports [[interactionist-dualism|dualism]]. The physical world is not [[causal-closure|causally closed]]; mental properties genuinely add to the causal story. This has implications for reductionism, emergence, and the structure of natural law. See [[psychophysical-laws-bridging-mind-and-matter]] for attempts to formalize this causal structure.
+If consciousness has causal powers that cannot be reduced to physical forces, this supports [[interactionist-dualism|dualism]]. The physical world is not [[causal-closure|causally closed]]; mental properties genuinely add to the causal story. This has implications for reductionism, emergence, and the structure of natural law. The deeper metaphysical question is whether consciousness *is* a disposition, *has* dispositions, or reveals a category that [[consciousness-and-the-ontology-of-dispositions|dispositional ontology]] cannot accommodate. See [[psychophysical-laws-bridging-mind-and-matter]] for attempts to formalize this causal structure.
 
 ## The Evidential Question
 
@@ -200,4 +200,5 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[conservation-laws-and-mind]] — Why mental causation need not violate physical conservation
 - [[the-interface-location-problem]] — Where and why consciousness interfaces with the physical
 - [[quantum-measurement-consciousness-interface]] — The measurement problem as window for mental causation
+- [[consciousness-and-the-ontology-of-dispositions]] — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers
