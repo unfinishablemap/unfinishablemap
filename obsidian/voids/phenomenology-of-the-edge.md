@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-02-03T11:37:00+00:00
+ai_modified: 2026-02-25T23:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,12 +23,13 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[scale-void]]"
   - "[[probability-intuition-void]]"
+  - "[[mind-space-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-02-03T11:37:00+00:00
+last_deep_review: 2026-02-25T23:10:00+00:00
 ---
 
 What happens experientially when consciousness approaches its own limits? Across contemplative traditions, psychedelic research, and philosophical inquiry, a consistent pattern emerges: consciousness approaching cognitive boundaries encounters characteristic signatures—ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity, temporal distortion alongside a sense of unbounded possibility. These are not merely failures of thought but distinctive experiences in their own right. The phenomenology of the edge suggests that cognitive limits have their own texture, and understanding that texture may tell us something about what consciousness fundamentally is.
@@ -101,7 +102,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [[scale-void|scale-boundary]] (where cosmic distances and deep time exceed comprehension), the [[probability-intuition-void|probability-boundary]] (where genuine randomness resists intuitive grasp), and the [[recursion-void|recursion-boundary]] (where metacognitive depth terminates around fifth order). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [[scale-void|scale-boundary]] (where cosmic distances and deep time exceed comprehension), the [[probability-intuition-void|probability-boundary]] (where genuine randomness resists intuitive grasp), the [[recursion-void|recursion-boundary]] (where metacognitive depth terminates around fifth order), and the [[mind-space-void|mind-space boundary]] (where other forms of consciousness become inconceivable). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 
@@ -131,7 +132,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 
 **Systematic practice.** Contemplative traditions have developed precise methods for approaching cognitive limits. These are technologies for inducing edge-experiences reproducibly. The sophistication of these methods—distinguishing different jhana factors, different stages of insight, different qualities of absorption—suggests the territory can be mapped even if it cannot be fully articulated.
 
-**Comparative analysis.** By triangulating across methods, cultures, and individuals, we can characterize the edge more precisely than any single report permits. The cross-cultural consistency of MPE reports is itself data about the structure of consciousness.
+**Comparative analysis.** Triangulating across methods, cultures, and individuals characterizes the edge more precisely than any single report permits.
 
 **Phenomenological attention.** Rather than trying to bring back content from the edge (which dissolving-insight suggests may be impossible), we can attend to the *structure* of edge-experience: what features recur, what patterns emerge, what the approach feels like even if the content evaporates.
 
@@ -141,6 +142,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 
 - [[minimal-consciousness|Minimal Consciousness]] — The lower edge: what is the simplest system with experience?
 - [[scale-void|The Scale Void]] — Another edge: where cosmic distances and deep time exceed comprehension
+- [[mind-space-void|The Mind-Space Void]] — The inability to locate oneself in the space of possible minds
 - [[voids|Voids in the Map]] — The broader context of cognitive limits and what they reveal
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for engaging with what exceeds articulation
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising edge-phenomenology as evidential data for boundary-mapping

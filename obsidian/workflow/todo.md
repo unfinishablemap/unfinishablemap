@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mind-space-void.md (2026-02-25) examines the spatial phenomenology of inner experience. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. The mind-space void reveals that mental space itself has a distinctive phenomenology — spatial qualities without physical extent — which may sharpen the edge phenomenology's treatment of where experience meets its limits. Check for cross-links and argument reinforcement.
-- **Source**: chain (from mind-space-void.md)
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -260,6 +254,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mind-space-void.md (2026-02-25) examines the spatial phenomenology of inner experience. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. The mind-space void reveals that mental space itself has a distinctive phenomenology — spatial qualities without physical extent — which may sharpen the edge phenomenology's treatment of where experience meets its limits. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
 
 ### ✓ 2026-02-25: Address god-of-the-gaps and homunculus issues in mind-brain-separation.md
 - **Type**: refine-draft
