@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 00:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[arguments/materialism-argument|Against Materialism]]
+- **Word count**: 2155 → 2333 (+178)
+- **Critical issues addressed**: 5 (missing description, "This page" style violation, Conclusion after References, Wigner uncited, Tenet 4 omitted)
+- **Medium issues addressed**: 4 (illusionism regress unengaged, contemplative unsupported claim, determinism/closure conflation, missing knowledge argument)
+- **Enhancements made**: 5 (knowledge argument paragraph, Tenet 4 paragraph, Wigner attribution, 6 cross-links added, Further Reading expanded)
+- **Output**: [[reviews/deep-review-2026-02-25-materialism-argument]]
+
 ## 2026-02-24 23:55 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/whether-real]]
