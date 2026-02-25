@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review cognitive-aversion.md considering appetitive-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/appetitive-void.md created 2026-02-25 explores how desire constitutes cognition itself. voids/cognitive-aversion.md discusses motivational deflection from specific thoughts and should cross-reference the appetitive void's analysis of desire as constitutive rather than deflective. Also check affective-void.md, introspective-opacity.md, and defended-territory.md for cross-link opportunities.
-- **Source**: chain (from appetitive-void.md)
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -206,6 +200,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review cognitive-aversion.md considering appetitive-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/appetitive-void.md created 2026-02-25 explores how desire constitutes cognition itself. voids/cognitive-aversion.md discusses motivational deflection from specific thoughts and should cross-reference the appetitive void's analysis of desire as constitutive rather than deflective. Also check affective-void.md, introspective-opacity.md, and defended-territory.md for cross-link opportunities.
+- **Output**: obsidian/voids/cognitive-aversion.md -- Context: Cross-review cognitive-aversion.md considering appetitive-void insights
 
 ### ✓ 2026-02-25: Update references to coalesced binding/unity articles
 - **Type**: cross-review
