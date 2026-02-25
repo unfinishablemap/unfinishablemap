@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-15 11:08:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-02-25 21:10:00+00:00
+ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /concepts/motor-selection/
@@ -12,7 +12,7 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
-- '[[voluntary-attention]]'
+- '[[voluntary-attention-control-mechanisms]]'
 - '[[mental-effort]]'
 - '[[agent-causation]]'
 - '[[interactionist-dualism]]'
@@ -24,14 +24,14 @@ concepts:
 - '[[illusionism]]'
 - '[[downward-causation]]'
 created: 2026-01-18
-date: &id001 2026-02-15
+date: &id001 2026-02-25
 description: Motor control and attention share neural substrates. Dopamine marks salience
   and sets thresholds; consciousness selects among competing actions through quantum
   Zeno stabilization.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 21:00:00+00:00
+last_deep_review: 2026-02-25 21:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,19 +75,19 @@ If attention is motor planning, the interface hypothesis becomes: consciousness 
 
 Paul Cisek's affordance competition hypothesis describes how motor selection actually works in the brain:
 
-1. **Parallel specification.** Sensory input automatically specifies multiple potential actions—affordances. Seeing a cup on a table simultaneously activates reaching, grasping, and ignoring options.
+1. **Parallel specification.** Sensory input automatically specifies multiple potential actions—affordances.
 
-2. **Competition.** These potential actions compete within neural populations. Cisek and Kalaska (2005) found that 43% of task-related cells in dorsal premotor cortex discharged for either of two potential reach targets—the neural population represented both options simultaneously.
+2. **Competition.** These options compete within neural populations. Cisek and Kalaska (2005) found that 43% of task-related cells in dorsal premotor cortex discharged for either of two potential reach targets—the neural population represented both options simultaneously.
 
-3. **Threshold crossing.** Decision occurs when one competing population reaches threshold. The threshold emerges from nonlinear dynamics between populations, biased by contextual factors (including prefrontal input).
+3. **Threshold crossing.** Decision occurs when one population reaches threshold, biased by contextual factors including prefrontal input.
 
-4. **Winner-take-all.** Once threshold is crossed, the winning action is executed while competitors are suppressed.
+4. **Winner-take-all.** The winning action executes while competitors are suppressed.
 
 This architecture provides a precise locus for quantum selection. During competition, multiple action representations exist simultaneously—a classical analog of quantum superposition. At threshold crossing, one becomes actual.
 
 ### Why Neural Competition Doesn't Suffice
 
-Either competition is deterministic (one option was always going to win) or it involves genuine indeterminacy. If deterministic, deliberation is theatre—the 43% of neurons encoding both options weren't weighing alternatives but mechanically computing a predetermined outcome. If genuinely indeterminate, something must resolve the indeterminacy. Pure randomness produces arbitrary selection, not *choice*. For the outcome to be both undetermined and meaningful, something beyond neural dynamics must bias which option actualizes—consciousness entering not as noise, but as the resolution of indeterminacy in a direction that reflects what the agent is trying to do.
+Either competition is deterministic (one option was always going to win) or it involves genuine indeterminacy. If deterministic, deliberation is theatre—the 43% of neurons encoding both options weren't weighing alternatives but mechanically computing a predetermined outcome. If genuinely indeterminate, the physicalist response is that stochastic resolution biased by reward history and context suffices—no conscious selector needed. But this reduces choice to weighted randomness: the system rolls loaded dice, and whichever option happens to win is retrospectively called a "decision." For the outcome to be both undetermined and meaningful—not just statistically biased—something beyond neural dynamics must resolve the indeterminacy. Consciousness enters not as noise, but as the resolution of indeterminacy in a direction that reflects what the agent is trying to do.
 
 ### The 280ms Commitment Point
 
@@ -103,7 +103,7 @@ The basal ganglia implement a brake-release model: tonic inhibition of motor pro
 
 Dopamine doesn't cause movement—it marks what's worth moving toward. Palmiter's dopamine-deficient mice demonstrate a clean dissociation: without dopamine, motor neurons fire normally, reflexes work, and mice can be made to run on a treadmill with external stimulation. Motor *capacity* is preserved. What's missing is spontaneous movement, goal-directed behaviour, the initiative to engage the intact motor system.
 
-This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients can perform rapid movements when externally triggered—caught off guard, they may catch a ball with normal reflexes. The motor system works; something upstream in selection is compromised. Parkinson's "freezing of gait" sharpens the point: patients stop mid-stride, unable to continue, yet can step over a visual obstacle or follow a rhythmic cue. External cues bypass the impaired selection mechanism.
+This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised. External cues bypass the impaired selection mechanism.
 
 The capacity/initiation dissociation maps onto a three-layer model:
 1. **Neural computation** generates competing motor options (intact without dopamine)
@@ -114,23 +114,23 @@ If dopamine caused movement directly, dopamine-deficient animals couldn't move a
 
 ### Wanting vs. Liking
 
-Kent Berridge and Terry Robinson's research distinguishes two components of reward: *wanting* (incentive salience, mediated by mesolimbic dopamine) and *liking* (consummatory pleasure, mediated by opioid hedonic hotspots). Dopamine mediates the "pull" toward valued options, not the pleasure of attaining them.
+Kent Berridge and Terry Robinson's research distinguishes *wanting* (incentive salience, mediated by mesolimbic dopamine) from *liking* (consummatory pleasure, mediated by opioid hedonic hotspots). Dopamine mediates the "pull" toward valued options, not the pleasure of attaining them.
 
-Parkinson's patients with extensive dopamine depletion show the dissociation clearly: normal hedonic ratings for sweet tastes (liking intact) but reduced motivation to pursue rewards (wanting impaired). Conversely, dopamine-replacement therapy occasionally produces pathological wanting—compulsive gambling, shopping, or sexual behaviour—excessive pursuit without proportionate enjoyment.
+Parkinson's patients show the dissociation clearly: normal hedonic ratings for sweet tastes (liking intact) but reduced motivation to pursue rewards (wanting impaired). Dopamine-replacement therapy occasionally produces the opposite—compulsive gambling or shopping—excessive pursuit without proportionate enjoyment.
 
-This clarifies dopamine's role in selection: it tags options as **worth considering**, gives them motivational pull. It doesn't determine whether consideration succeeds. Consciousness chooses among options that dopamine has marked as mattering—satisfying [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), since consciousness doesn't generate the "pull" of wanting but selects among options that already have pull.
+Dopamine tags options as **worth considering** and gives them motivational pull, but doesn't determine which option wins. Consciousness selects among options that dopamine has marked as mattering—satisfying [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), since consciousness doesn't generate wanting but selects among options that already have pull.
 
 ### Tonic and Phasic Signalling
 
-Dopamine neurons operate in two modes. *Tonic* dopamine—slow, irregular baseline activity—establishes background levels over seconds to minutes, determining overall system readiness. *Phasic* dopamine—rapid bursts encoding reward prediction errors—operates with sub-second precision.
+Dopamine neurons operate in two modes. *Tonic* dopamine—slow, irregular baseline activity—establishes background levels determining overall system readiness. *Phasic* dopamine—rapid bursts encoding reward prediction errors—operates with sub-second precision.
 
-A 2024 *Nature* study used optogenetics to selectively disrupt phasic dopamine while preserving tonic levels. Movement remained normal (tonic suffices), but reward-guided motivation and learning were impaired (phasic required). This suggests tonic dopamine ensures the selection system is "online"—permitting selection to occur—while phasic dopamine marks specific options at specific moments, creating the salience that quantum selection operates upon.
+A 2024 *Nature* study used optogenetics to selectively disrupt phasic dopamine while preserving tonic levels. Movement remained normal (tonic suffices), but reward-guided motivation was impaired (phasic required). Tonic dopamine ensures the selection system is "online"; phasic dopamine marks specific options at specific moments, creating the salience that quantum selection operates upon.
 
 ### Decision Threshold Modulation
 
-A 2023 *Nature Communications* study found that striatal dopamine regulates decision thresholds in action selection. In drift-diffusion models of decision-making, evidence for competing options accumulates until one crosses threshold. Dopamine modulates how much evidence is needed—not which option is correct.
+A 2023 *Nature Communications* study found that striatal dopamine regulates decision thresholds in action selection. In drift-diffusion models, evidence for competing options accumulates until one crosses threshold. Dopamine modulates how much evidence is needed—not which option is correct.
 
-If dopamine simply lowered threshold uniformly, faster responses would be random. But amphetamine improves performance on rewarding trials—the threshold reduction is selective, favouring previously rewarded options. This leaves room for conscious contribution: dopamine sets the "stakes" (how much is needed to act), while consciousness biases which accumulating option wins the race.
+If dopamine simply lowered threshold uniformly, faster responses would be random. But amphetamine improves performance on rewarding trials—the threshold reduction is selective. This leaves room for conscious contribution: dopamine sets the "stakes" (how much evidence is needed), while consciousness biases which accumulating option wins the race.
 
 ### Dopamine and Theta Oscillations
 
@@ -154,9 +154,9 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-Research on [voluntary-attention](/concepts/attention-as-interface/) (Bengson 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
+Research on [voluntary attention](/concepts/voluntary-attention-control-mechanisms/) (Bengson 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
 
-Both willed attention and willed motor action take approximately 300ms to deploy—versus ~100ms for automatic responses. This matching supports unified mechanism: if attention and motor selection were independent systems, why would they share the same timeline? In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
+Both willed attention and willed motor action take approximately 300ms to deploy—versus ~100ms for automatic responses. If attention and motor selection were independent systems, this timing match would be coincidental. In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
 
 ## Quantum Zeno Applied
 
@@ -177,7 +177,7 @@ This explains the common phenomenology. Sustaining motor intention feels effortf
 
 ### Decoherence Considerations
 
-The [decoherence](/concepts/decoherence/) addresses the standard challenge—rapid decoherence in warm brains. Corrected calculations for biological conditions (Hameroff 2014) yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's estimates—allowing roughly 1000 quantum cycles within a single motor commitment event. Additionally, the [post-decoherence selection response](/concepts/psychophysical-laws/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
+The [decoherence](/concepts/decoherence/) addresses the standard challenge—rapid decoherence in warm brains. Hameroff (2014) calculates coherence times of 10⁻⁵ to 10⁻⁴ seconds for biological conditions—seven orders of magnitude longer than Tegmark's estimates, though these figures remain disputed. Additionally, the [post-decoherence selection response](/concepts/psychophysical-laws/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
 
 ## The Phenomenology of Motor Choice
 
@@ -224,7 +224,7 @@ This framework identifies *where* consciousness might influence motor selection�
 ## Further Reading
 
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
+- [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the unified attention-motor system for conscious selection
 - [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22 16:25:00+00:00
+ai_modified: 2026-02-25T21:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md (33 days unconsumed). The conservation law objection is one of the strongest technical challenges to mental causation — if consciousness influences brain states, does it violate energy conservation? Research covers Stapp's quantum Zeno approach, Carroll's critique, Eccles-Beck model, and the causal closure question. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Write voids article on the dissolution problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dissolution-problem-2026-02-25.md (today). The dissolution problem examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. Target section: voids/ (7 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Integrate mind-space-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-25, today). Voids article on the spatial phenomenology of inner experience — how mental contents seem to occupy a space with no physical location. Should be linked from phenomenology-of-the-edge.md, consciousness-only-territories.md, and other spatial phenomenology articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate adaptive-computational-depth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-24). Concepts article on adaptive computational depth. Should be linked from related cognitive architecture and consciousness-computation articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate language-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-23). Concepts article on the relationship between language and consciousness — central to phenomenological methodology and the limits of propositional description. Should be linked from phenomenology articles, the-silence-void.md, and cognitive phenomenology content.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mind-space-void.md (2026-02-25) examines the spatial phenomenology of inner experience. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. The mind-space void reveals that mental space itself has a distinctive phenomenology — spatial qualities without physical extent — which may sharpen the edge phenomenology's treatment of where experience meets its limits. Check for cross-links and argument reinforcement.
+- **Source**: chain (from mind-space-void.md)
+- **Generated**: 2026-02-25
 
 ### P3: Deep review valence-void.md
 - **Type**: deep-review

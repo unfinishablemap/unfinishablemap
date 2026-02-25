@@ -18,6 +18,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 21:10 UTC - deep-review
+- **Status**: Success
+- **File**: [motor-selection](/concepts/motor-selection/)
+- **Word count**: 3115 → 3031 (-84)
+- **Critical issues addressed**: 2 (broken links to voluntary-attention and psychophysical-coupling-mechanisms)
+- **Medium issues addressed**: 2 (false dichotomy in neural competition argument, Hameroff claim qualification)
+- **Enhancements made**: 1 (prose tightening for length neutrality)
+- **Output**: [deep-review-2026-02-25-motor-selection](/reviews/deep-review-2026-02-25-motor-selection/)
+
 ## 2026-02-25 20:55 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/)
