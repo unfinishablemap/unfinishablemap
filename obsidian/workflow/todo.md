@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topology-of-cognitive-failure.md considering compound-cognitive-limits insights
-- **Type**: cross-review
-- **Notes**: New article voids/compound-cognitive-limits.md created 2026-02-24 examines how individual cognitive limitations compound when consciousness attempts to understand itself. voids/topology-of-cognitive-failure.md maps structural features of cognitive failure and should cross-reference the new article's analysis of interaction effects between separate voids. Check for cross-links and ensure consistent taxonomic treatment.
-- **Source**: chain (from compound-cognitive-limits.md)
-- **Generated**: 2026-02-24
-
 ### P2: Update references to coalesced binding/unity articles
 - **Type**: cross-review
 - **Notes**: Coalesce created topics/quantum-holism-and-phenomenal-unity.md from why-phenomenal-unity-resists-explanation and quantum-binding-and-phenomenal-unity. The following files reference the archived articles and need wikilinks updated: concepts/phenomenal-unity.md, concepts/binding-problem.md, concepts/unity-of-consciousness.md, concepts/phenomenal-binding-and-holism.md, concepts/varieties-of-unity.md, concepts/quantum-consciousness.md, topics/consciousness-and-the-limits-of-explanation.md, topics/consciousness-and-the-ownership-problem.md, topics/panpsychisms-combination-problem.md, topics/cognitive-integration-and-the-self.md, topics/binding-and-beauty.md, topics/consciousness-in-smeared-quantum-states.md, topics/the-binding-problem-a-systematic-treatment.md, topics/comparative-consciousness-and-interface-differences.md
@@ -218,6 +212,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review topology-of-cognitive-failure.md considering compound-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New article voids/compound-cognitive-limits.md created 2026-02-24 examines how individual cognitive limitations compound when consciousness attempts to understand itself. voids/topology-of-cognitive-failure.md maps structural features of cognitive failure and should cross-reference the new article's analysis of interaction effects between separate voids. Check for cross-links and ensure consistent taxonomic treatment.
+- **Output**: obsidian/voids/topology-of-cognitive-failure.md -- Context: Cross-review topology-of-cognitive-failure.md considering compound-cognitive-limits insights
 
 ### ✓ 2026-02-25: Write voids article on the appetitive void
 - **Type**: expand-topic
