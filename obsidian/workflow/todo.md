@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the cartography problem
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-cartography-problem-2026-02-10.md. The cartography problem examines whether mapping consciousness necessarily distorts or destroys what it maps — a meta-void about the project of void-exploration itself. Connects to self-reference-paradox, incompleteness-void, whether-real. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Write voids article on the simulation detection void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-simulation-detection-void-2026-02-11.md. Examines the impossibility of determining from within whether one's conscious experience is simulated — a void at the intersection of epistemology and phenomenology. Connects to defended-territory, epistemology-of-cognitive-limits, simulation. Target section: voids/.
@@ -252,6 +246,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the cartography problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-cartography-problem-2026-02-10.md. The cartography problem examines whether mapping consciousness necessarily distorts or destroys what it maps — a meta-void about the project of void-exploration itself. Connects to self-reference-paradox, incompleteness-void, whether-real. Target section: voids/.
+- **Output**: Write voids article on the cartography problem
 
 ### ✓ 2026-02-25: Review cognitive-aversion.md considering appetitive void insights
 - **Type**: cross-review
