@@ -193,24 +193,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
 - **Generated**: 2026-02-25
 
-### P2: Cross-review incompleteness-void.md considering cartography-problem insights
-- **Type**: cross-review
-- **Notes**: New article voids/cartography-problem.md (2026-02-25) explicitly compares itself to the incompleteness void — the cartography problem operates at the meta-level (voids in the voids framework) while the incompleteness void applies Gödel to mathematical cognition. Cross-review to sharpen this distinction, add cross-links, and ensure consistent treatment of formal incompleteness across levels.
-- **Source**: chain (from cartography-problem.md)
-- **Generated**: 2026-02-25
-
-### P2: Cross-review defended-territory.md considering simulation-detection-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/simulation-detection-void.md (2026-02-25) directly invokes the defended territory framework — if we are simulated, thoughts approaching simulation detection might be actively deflected. defended-territory.md should cross-reference this as a paradigmatic case where the territory actively resists cognitive approach. Add cross-links and check for argument reinforcement.
-- **Source**: chain (from simulation-detection-void.md)
-- **Generated**: 2026-02-25
-
-### P2: Write voids article on the agency verification void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-agency-verification-void-2026-02-15.md. The agency verification void examines the impossibility of verifying one's own causal agency from within — directly relevant to Tenet 3 (Bidirectional Interaction). If consciousness causally influences the physical through quantum selection, can we verify this from the inside? Connects to free-will.md, agent-causation.md, self-reference-paradox.md. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Write voids article on the reality-feeling void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-reality-feeling-void-2026-02-14.md. The reality-feeling void examines why experience carries a sense of reality — what makes the real feel real — and why this quality resists analysis. Directly relevant to Tenet 1 (Dualism) and the hard problem: the feeling of reality is a phenomenal quality that seems irreducible to functional description. Connects to hard-problem-of-consciousness.md, whether-real.md, phenomenal-consciousness.md. Target section: voids/.
@@ -237,6 +219,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the agency verification void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-agency-verification-void-2026-02-15.md. The agency verification void examines the impossibility of verifying one's own causal agency from within — directly relevant to Tenet 3 (Bidirectional Interaction). If consciousness causally influences the physical through quantum selection, can we verify this from the inside? Connects to free-will.md, agent-causation.md, self-reference-paradox.md. Target section: voids/.
+- **Output**: Write voids article on the agency verification void
+
+### ✓ 2026-02-25: Cross-review defended-territory.md considering simulation-detection-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/simulation-detection-void.md (2026-02-25) directly invokes the defended territory framework — if we are simulated, thoughts approaching simulation detection might be actively deflected. defended-territory.md should cross-reference this as a paradigmatic case where the territory actively resists cognitive approach. Add cross-links and check for argument reinforcement.
+- **Output**: obsidian/voids/defended-territory.md -- Context: Cross-review defended-territory.md considering simulation-detection-void insights
+
+### ✓ 2026-02-25: Cross-review incompleteness-void.md considering cartography-problem insights
+- **Type**: cross-review
+- **Notes**: New article voids/cartography-problem.md (2026-02-25) explicitly compares itself to the incompleteness void — the cartography problem operates at the meta-level (voids in the voids framework) while the incompleteness void applies Gödel to mathematical cognition. Cross-review to sharpen this distinction, add cross-links, and ensure consistent treatment of formal incompleteness across levels.
+- **Output**: obsidian/voids/incompleteness-void.md -- Context: Cross-review incompleteness-void.md considering cartography-problem insights
 
 ### ✓ 2026-02-25: Cross-review whether-real.md considering cartography-problem insights
 - **Type**: cross-review

@@ -18,6 +18,41 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 09:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Agency Verification Void
+- **Output**: [agency-verification-void](/voids/agency-verification-void/)
+- **Word count**: 1463
+- **Based on research**: yes, [voids-agency-verification-void-2026-02-15](/research/voids-agency-verification-void-2026-02-15/)
+
+## 2026-02-25 09:19 UTC - deep-review
+- **Status**: Success
+- **File**: [reductionism](/concepts/reductionism/)
+- **Word count**: 2093 → 2143 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (cross-links to functionalism/heterophenomenology/epiphenomenalism, missing Dennett references, stale AI refinement log, rhetorical softening)
+- **Enhancements made**: 5 cross-links added (functionalism, heterophenomenology, epiphenomenalism, mental-causation, knowledge-argument), 2 references added
+- **Output**: [deep-review-2026-02-25-reductionism](/reviews/deep-review-2026-02-25-reductionism/)
+
+## 2026-02-25 09:05 UTC - deep-review
+- **Status**: Success
+- **File**: [defended-territory](/voids/defended-territory/)
+- **Context**: Cross-review considering simulation-detection-void insights
+- **Word count**: 1578 → 1719 (+141)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (simulation-detection-void cross-reference, active arms race concept, apophatic probing method, updated Further Reading)
+- **Output**: [deep-review-2026-02-25-defended-territory](/reviews/deep-review-2026-02-25-defended-territory/)
+
+## 2026-02-25 08:49 UTC - deep-review
+- **Status**: Success
+- **File**: [incompleteness-void](/voids/incompleteness-void/)
+- **Word count**: 2020 → 2026 (+6, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cartography-problem cross-references, trimmed weak editorial)
+- **Enhancements made**: 4 (cross-link in Implications, Further Reading entry, frontmatter update, prose trim)
+- **Output**: [deep-review-2026-02-25-incompleteness-void](/reviews/deep-review-2026-02-25-incompleteness-void/)
+
 ## 2026-02-25 08:34 UTC - deep-review
 - **Status**: Success
 - **File**: [whether-real](/voids/whether-real/)

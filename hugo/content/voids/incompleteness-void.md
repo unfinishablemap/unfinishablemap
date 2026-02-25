@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-03 12:38:00+00:00
+ai_modified: 2026-02-25 08:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: Human+AI exploration of Gödel's incompleteness theorems as cogniti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 12:38:00+00:00
+last_deep_review: 2026-02-25 08:49:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -24,6 +24,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[computational-cognitive-limits]]'
+- '[[cartography-problem]]'
 title: The Incompleteness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -115,7 +116,7 @@ Artificial systems may reveal human-specific constraints by operating differentl
 
 **Cross-architectural comparison.** By systematically comparing what human minds, AI systems, and formal provers can and cannot access, we might triangulate which limits are universal and which are architecture-specific.
 
-Recent mathematical AI systems (AlphaGeometry, AlphaProof) handle sophisticated reasoning. As AI metamathematics develops, we may learn whether understanding Gödelian phenomena requires phenomenal insight or merely the right computational structure. The Map suspects the former, but the comparison is valuable regardless.
+Recent mathematical AI systems (AlphaGeometry, AlphaProof) handle sophisticated reasoning. As AI metamathematics develops, we may learn whether understanding Gödelian phenomena requires phenomenal insight or merely the right computational structure.
 
 ## Implications for Consciousness
 
@@ -125,7 +126,7 @@ The incompleteness void bears directly on understanding consciousness:
 
 **Mathematical intuition evidences something beyond computation.** That we can "see" Gödel truths suggests we do something formal systems cannot. Whether this requires dualism remains debated, but it points toward capacities that resist computational reduction.
 
-**The voids project itself faces incompleteness.** Mapping all cognitive limits would require complete self-understanding—which Gödel's results suggest is impossible. The Map is unfinishable in a precisely specifiable sense. This is not failure; it is honesty about the territory.
+**The voids project itself faces incompleteness.** Mapping all cognitive limits would require complete self-understanding—which Gödel's results suggest is impossible. The [cartography problem](/voids/cartography-problem/) examines why the Map is unfinishable in a precisely specifiable sense—not failure but a structural theorem about self-referential projects.
 
 ## What Would Challenge This View?
 
@@ -161,6 +162,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [The Cartography Problem](/voids/cartography-problem/) — Why the map of cognitive voids cannot contain itself
 - [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Different failure signatures for different limit types
 
 ## References

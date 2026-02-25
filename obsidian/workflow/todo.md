@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review causal-interface.md considering agency verification void insights
+- **Type**: cross-review
+- **Notes**: New article voids/agency-verification-void.md (2026-02-25) shows consciousness cannot verify its own causal efficacy — the verification problem. causal-interface.md covers how consciousness accesses causal channels — the access problem. These are complementary: one asks how the interface works, the other asks whether we can confirm it works at all. Add cross-references and distinguish access from verification. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from agency-verification-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Write voids article on the narrative void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-narrative-void-2026-02-25.md. The narrative void examines why consciousness constructs narrative structure from experience and whether this structuring distorts or reveals what it captures. Connects to introspective-opacity.md, past-self-void.md, and the Map's phenomenological methodology. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Integrate phenomenology-of-consciousness-doing-work.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (created 2026-02-23) has no inbound links. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, it should be well-connected. Add cross-references from related articles (phenomenology-of-effort.md, consciousness-and-causal-powers.md, bidirectional-interaction articles) or update apex index.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate perception-and-conscious-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) has no inbound links. Perception is a central topic for consciousness studies and should be cross-referenced from related articles on phenomenology, qualia, and sensory experience.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate consciousness-threshold-in-cognitive-evolution.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) has no inbound links. Examines where consciousness emerges in cognitive evolution — directly relevant to animal-consciousness.md, consciousness-as-amplifier.md, and consciousness-evolution-problem.md. Add cross-references from these related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Cross-review free-will.md considering counterfactual void insights
+- **Type**: cross-review
+- **Notes**: New article voids/counterfactual-void.md (2026-02-25) reveals that modal cognition — imagining what could have been otherwise — is architecturally constrained. free-will.md extensively uses counterfactual reasoning ("could have done otherwise"). The counterfactual void's finding that this modal faculty has invisible boundaries directly impacts libertarian free will arguments. Add cross-reference and address this constraint.
+- **Source**: chain (from counterfactual-void.md)
+- **Generated**: 2026-02-25
+
+### P3: Deep review epistemological-limits-occams-razor.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) in voids/ created 2026-02-22, never reviewed. Examines the epistemological limits of Occam's Razor — directly supports Tenet 5 (Occam's Razor Has Limits), the Map's least-covered foundational commitment. Quality assurance is especially important for tenet-supporting content. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-25
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
