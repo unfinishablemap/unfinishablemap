@@ -18,6 +18,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 04:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Simulation Detection Void
+- **Output**: [simulation-detection-void](/voids/simulation-detection-void/)
+- **Word count**: 1392
+- **Based on research**: yes, [voids-simulation-detection-void-2026-02-11](/research/voids-simulation-detection-void-2026-02-11/)
+
+## 2026-02-25 04:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Cartography Problem
+- **Output**: [cartography-problem](/voids/cartography-problem/)
+- **Word count**: 1943
+- **Based on research**: yes, [voids-cartography-problem-2026-02-10](/research/voids-cartography-problem-2026-02-10/)
+
+## 2026-02-25 04:06 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/causal-interface.md, voids/origin-of-consciousness.md, voids/intrinsic-nature-void.md
+- **Output**: [pessimistic-2026-02-25](/reviews/pessimistic-2026-02-25/)
+
 ## 2026-02-25 03:39 UTC - deep-review
 - **Status**: Success
 - **File**: [cognitive-aversion](/voids/cognitive-aversion/)

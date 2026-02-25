@@ -95,6 +95,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Binding Void](/voids/binding-void/) — Why unified experience from disparate sensations resists explanation
 - [The Substrate Void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses into negation or circularity
 - [The Calibration Void](/voids/calibration-void/) — Why introspection cannot be verified against any independent standard of phenomenal accuracy
+- [The Simulation Detection Void](/voids/simulation-detection-void/) — Why embedded observers cannot determine whether their reality is simulated
 
 ### Phenomenology of Limits
 
