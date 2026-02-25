@@ -18,6 +18,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 08:34 UTC - deep-review
+- **Status**: Success
+- **File**: [whether-real](/voids/whether-real/)
+- **Word count**: 2993 → 2997 (+4, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cartography-problem cross-reference)
+- **Enhancements made**: 6 (cross-reference integration + 3 prose trims)
+- **Output**: [deep-review-2026-02-25-whether-real](/reviews/deep-review-2026-02-25-whether-real/)
+
+## 2026-02-25 08:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Changes**: Fixed causal language around Fox et al. (2012) cross-sectional study (added self-selection caveat); acknowledged circularity of microphenomenology's performative coherence criterion; softened language throughout
+- **Published**: yes
+
 ## 2026-02-25 08:10 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Narrative Void
