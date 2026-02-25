@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 07:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[altered-states-of-consciousness]]
+- **Word count**: 1860 → 1969 (+109)
+- **Critical issues addressed**: 2 (wrong dates on quantum entanglement and NDE studies)
+- **Medium issues addressed**: 3 (citation format, uncited hypnosis claim, missing cross-links)
+- **Enhancements made**: 3 new citations added, 2 cross-links to recent articles
+- **Output**: [[reviews/deep-review-2026-02-25-altered-states-of-consciousness]]
+
 ## 2026-02-25 07:12 UTC - refine-draft
 - **Status**: Success
 - **File**: [[origin-of-consciousness]]
