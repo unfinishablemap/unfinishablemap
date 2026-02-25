@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
-- **Type**: cross-review
-- **Notes**: New article voids/void-as-ground-of-meaning.md created 2026-02-24 argues that cognitive limits are constitutive of meaning rather than merely obstacles. voids/limits-reveal-structure.md covers how limits reveal the structure of consciousness and should cross-reference the new article's treatment of limits as generative. Both support Tenet 5 (Occam's Razor Has Limits). Check for cross-links and complementary arguments.
-- **Source**: chain (from void-as-ground-of-meaning.md)
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the appetitive void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-appetitive-void-2026-02-10.md (14 days unconsumed). Explores the phenomenological gap in understanding desire and wanting — why appetitive experience resists full introspective access. Connects to affective-void.md, cognitive-aversion.md, introspective-opacity.md. Target section: voids/.
@@ -224,6 +218,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
+- **Type**: cross-review
+- **Notes**: New article voids/void-as-ground-of-meaning.md created 2026-02-24 argues that cognitive limits are constitutive of meaning rather than merely obstacles. voids/limits-reveal-structure.md covers how limits reveal the structure of consciousness and should cross-reference the new article's treatment of limits as generative. Both support Tenet 5 (Occam's Razor Has Limits). Check for cross-links and complementary arguments.
+- **Output**: obsidian/voids/limits-reveal-structure.md -- Context: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
 
 ### ✓ 2026-02-25: Cross-review whether-real.md considering evidential-weight-of-voids insights
 - **Type**: cross-review
