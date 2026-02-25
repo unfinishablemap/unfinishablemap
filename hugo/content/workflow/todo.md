@@ -38,30 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review whether-real.md considering reality-feeling-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/reality-feeling-void.md (2026-02-25) examines why experience carries a sense of reality and why this quality resists analysis. whether-real.md explores whether consciousness provides genuine access to reality. The reality-feeling void's analysis of how the "real" feeling operates may strengthen or complicate the arguments in whether-real. Check for cross-links and argument reinforcement.
-- **Source**: chain (from reality-feeling-void.md)
-- **Generated**: 2026-02-25
-
-### P2: Cross-review transparency-void.md considering reality-feeling-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/reality-feeling-void.md (2026-02-25) examines the phenomenal quality of reality itself. transparency-void.md explores how conscious experience presents itself as transparent — giving direct access to objects rather than representations. The reality-feeling void reveals that this transparency carries its own phenomenal character (the "feel" of reality) which may be precisely what transparency theory overlooks. Check for cross-links and complementary arguments.
-- **Source**: chain (from reality-feeling-void.md)
-- **Generated**: 2026-02-25
-
-### P2: Integrate timing-gap-problem.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has minimal inbound links (created 2026-02-10). The timing gap problem — the temporal mismatch between neural processing speed and conscious experience — is directly relevant to quantum consciousness articles and the mind-matter interface discussion. Should be linked from quantum-neural-timing.md, temporal-consciousness.md, mind-matter-interface.md, and related measurement articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
-### P2: Integrate consciousness-and-the-ontology-of-dispositions.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has minimal inbound links (created 2026-02-18). Topics article on how dispositional properties relate to consciousness — relevant to causal powers, mental causation, and the interaction problem. Should be linked from consciousness-and-causal-powers.md, mind-matter-interface.md, and property dualism articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Update references to coalesced normative phenomenology articles
 - **Type**: cross-review
 - **Notes**: Coalesce created topics/phenomenology-of-normative-experience.md from phenomenology-of-normative-properties + phenomenology-of-normative-conflict. The following files reference archived articles and may need review: concepts/normative-phenomenology.md, topics/phenomenal-normativity-environmental-ethics.md, topics/consciousness-and-the-grounds-of-normative-authority.md, topics/phenomenology-of-intellectual-courage.md
@@ -285,6 +261,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Integrate consciousness-and-the-ontology-of-dispositions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has minimal inbound links (created 2026-02-18). Topics article on how dispositional properties relate to consciousness — relevant to causal powers, mental causation, and the interaction problem. Should be linked from consciousness-and-causal-powers.md, mind-matter-interface.md, and property dualism articles.
+- **Output**: obsidian/topics/consciousness-and-the-ontology-of-dispositions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-25: Integrate timing-gap-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has minimal inbound links (created 2026-02-10). The timing gap problem — the temporal mismatch between neural processing speed and conscious experience — is directly relevant to quantum consciousness articles and the mind-matter interface discussion. Should be linked from quantum-neural-timing.md, temporal-consciousness.md, mind-matter-interface.md, and related measurement articles.
+- **Output**: obsidian/concepts/timing-gap-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-25: Cross-review transparency-void.md considering reality-feeling-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/reality-feeling-void.md (2026-02-25) examines the phenomenal quality of reality itself. transparency-void.md explores how conscious experience presents itself as transparent — giving direct access to objects rather than representations. The reality-feeling void reveals that this transparency carries its own phenomenal character (the "feel" of reality) which may be precisely what transparency theory overlooks. Check for cross-links and complementary arguments.
+- **Output**: obsidian/voids/transparency-void.md -- Context: Cross-review transparency-void.md considering reality-feeling-void insights
+
+### ✓ 2026-02-25: Cross-review whether-real.md considering reality-feeling-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/reality-feeling-void.md (2026-02-25) examines why experience carries a sense of reality and why this quality resists analysis. whether-real.md explores whether consciousness provides genuine access to reality. The reality-feeling void's analysis of how the "real" feeling operates may strengthen or complicate the arguments in whether-real. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/whether-real.md -- Context: Cross-review whether-real.md considering reality-feeling-void insights
 
 ### ✓ 2026-02-25: Cross-review minimal-consciousness.md considering minimal-consciousness-void insights
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-21 10:21:00+00:00
+ai_modified: 2026-02-25 20:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[emergence]]'
 - '[[qualia]]'
+- '[[knowledge-argument]]'
 created: 2026-02-18
 date: &id001 2026-02-18
 description: If all properties are powers, where does consciousness fit? Exploring
@@ -19,7 +20,7 @@ description: If all properties are powers, where does consciousness fit? Explori
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-21 10:21:00+00:00
+last_deep_review: 2026-02-25 20:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,6 +29,9 @@ related_articles:
 - '[[substance-property-dualism]]'
 - '[[causal-closure]]'
 - '[[topics/free-will]]'
+- '[[consciousness-and-the-metaphysics-of-laws]]'
+- '[[why-pain-hurts]]'
+- '[[the-epiphenomenalist-threat]]'
 title: Consciousness and the Ontology of Dispositions
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -96,7 +100,7 @@ If consciousness has genuine causal powers (as the Map's [Bidirectional Interact
 
 This gives consciousness a specific dispositional profile while preserving its qualitative character. Consciousness is not *merely* its disposition to bias neural processes—that would collapse into pandispositionalism. Consciousness has a qualitative character (the felt quality of experience) that is inseparable from its dispositional power (the capacity to influence physical outcomes). The quality and the power are one.
 
-The dispositional essentialist framework (Bird 2007) argues that if properties have essential dispositional natures, then the laws governing those properties are metaphysically necessary. Bird develops this for physical laws, but the Map extends the reasoning to psychophysical laws: if phenomenal properties have essential dispositional natures, then [psychophysical-laws](/concepts/psychophysical-laws/) governing how consciousness influences neural activity follow from the nature of consciousness itself rather than being contingent additions to physics.
+The dispositional essentialist framework (Bird 2007) argues that if properties have essential dispositional natures, then the laws governing those properties are metaphysically necessary. Bird develops this for physical laws, but the Map extends the reasoning to psychophysical laws: if phenomenal properties have essential dispositional natures, then [psychophysical-laws](/concepts/psychophysical-laws/) governing how consciousness influences neural activity follow from the nature of consciousness itself rather than being contingent additions to physics. (For a fuller treatment of how different accounts of laws—Humean, governing, and essentialist—bear on the mind-body problem, see [the metaphysics of laws](/topics/consciousness-and-the-metaphysics-of-laws/).)
 
 Alternatively, if psychophysical laws are contingent (as governing-law theorists hold), then consciousness has its causal powers not from its intrinsic nature but from external lawlike regularities. The Map finds the essentialist picture more satisfying: it grounds mental causation in the nature of experience rather than in brute, unexplained regularities.
 
@@ -104,7 +108,7 @@ Alternatively, if psychophysical laws are contingent (as governing-law theorists
 
 A deeper puzzle emerges when we consider what dispositions *point toward*. Standard dispositions have clear manifestation conditions: fragility manifests as breaking when struck; solubility manifests as dissolving when immersed. The manifestation is a distinct event from the disposition itself.
 
-But consciousness has a peculiar relationship with its own manifestations. When pain disposes you to withdraw your hand, the pain experience is not separate from its causal role in the way that salt's molecular structure is separate from its dissolving. The phenomenal quality of pain—its hurting—seems constitutively connected to its motivational power. Change the felt quality and you change the disposition. The condition of [pain-asymbolia](/concepts/pain-asymbolia/)—where patients report feeling pain but lack its characteristic aversiveness—is consistent with this picture: the dissociation of quality from motivational power produces exactly the behavioural changes that the powerful-qualities framework would predict.
+But consciousness has a peculiar relationship with its own manifestations. When pain disposes you to withdraw your hand, the pain experience is not separate from its causal role in the way that salt's molecular structure is separate from its dissolving. The phenomenal quality of pain—its hurting—seems constitutively connected to its motivational power. Change the felt quality and you change the disposition. The condition of [pain-asymbolia](/concepts/pain-asymbolia/)—where patients report feeling pain but lack its characteristic aversiveness—is consistent with this picture: the dissociation of quality from motivational power produces exactly the behavioural changes that the powerful-qualities framework would predict. (See [why pain hurts](/topics/why-pain-hurts/) for the full case that pain's felt awfulness is partially constitutive of its causal power.)
 
 This suggests that phenomenal dispositions have a unique modal character. Physical dispositions point outward—toward effects in other things. Phenomenal dispositions also point inward—toward the subject's own experiential states, motivations, and deliberative processes. The bidirectionality of phenomenal dispositions (outward toward neural effects, inward toward experiential meaning) may be what distinguishes conscious powers from mere physical powers.
 
@@ -126,10 +130,13 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 
 - [causal-powers](/concepts/causal-powers/) — The metaphysics of dispositional properties and their role in causation
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — How consciousness exercises its causal powers, with constraints
+- [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) — How Humean, governing, and essentialist accounts of laws bear on psychophysical interaction
 - [russellian-monism](/concepts/russellian-monism/) — The view that quiddities (intrinsic natures) ground consciousness
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
 - [mental-causation](/concepts/mental-causation/) — The problem of how mental states cause physical events
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Principles governing mind-matter interaction
+- [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why powerful qualities help consciousness escape causal inertness
+- [why-pain-hurts](/topics/why-pain-hurts/) — Pain as paradigm case of quality-power identity
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Whether consciousness is genuinely strongly emergent
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The Map's preferred ontological framework
 - [free-will](/topics/free-will/) — How dispositional powers of consciousness connect to libertarian agency

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-24 12:29:00+00:00
+ai_modified: 2026-02-25 20:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -66,7 +66,7 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 - Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
 - **2025 Wiest et al.**: Anesthetics abolish a 613 THz quantum oscillation peak in microtubules while non-anesthetics don't—a testable signature
 
-**Challenge**: The [decoherence objection](/concepts/decoherence/). Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. But this assumed thermal equilibrium; revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds. This remains three orders of magnitude shorter than neural decisions (~300ms), so the timing gap is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
+**Challenge**: The [decoherence objection](/concepts/decoherence/). Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. But this assumed thermal equilibrium; revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds. This remains three orders of magnitude shorter than neural decisions (~300ms), so the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 

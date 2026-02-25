@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-24 03:08:00+00:00
+ai_modified: 2026-02-25 20:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -240,6 +240,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that accommodates mental causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
+- [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How dispositional ontology frames consciousness's causal powers as powerful qualities
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation applied to free action
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The distinct challenge of whether the mind-body channel carries enough information
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — Empirical bandwidth data and its philosophical implications

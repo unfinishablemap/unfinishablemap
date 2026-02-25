@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-22 13:43:00+00:00
+ai_modified: 2026-02-25 20:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -78,7 +78,7 @@ This matters for the Map's perspective. If decoherence fully explained measureme
 
 ## The Tegmark-Hameroff Debate
 
-In 2000, physicist Max Tegmark published an influential calculation claiming that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds—far too fast for neural processes that operate on millisecond timescales. This became the standard objection to Penrose-Hameroff [Orch OR theory](/concepts/quantum-consciousness/). Christof Koch and Klaus Hepp echoed this view, stating that demonstrating "slowly decoherent and controllable quantum bits in neurons" would move quantum consciousness theories from "far-out" to merely "very unlikely."
+In 2000, physicist Max Tegmark published an influential calculation claiming that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds—far too fast for neural processes that operate on millisecond timescales. This twelve-order-of-magnitude disparity—the [timing gap problem](/concepts/timing-gap-problem/)—became the standard objection to Penrose-Hameroff [Orch OR theory](/concepts/quantum-consciousness/). Christof Koch and Klaus Hepp echoed this view, stating that demonstrating "slowly decoherent and controllable quantum bits in neurons" would move quantum consciousness theories from "far-out" to merely "very unlikely."
 
 ### Corrected Calculations
 

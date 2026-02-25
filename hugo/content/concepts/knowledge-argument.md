@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-25 11:29:00+00:00
+ai_modified: 2026-02-25 20:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -193,6 +193,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [illusionism](/concepts/illusionism/) — The radical physicalist response denying phenomenal facts exist
 - [introspection](/concepts/introspection/) — How Mary recognizes she learned something new
 - [russellian-monism](/concepts/russellian-monism/) — The structure/intrinsic nature distinction underlying the argument
+- [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [materialism](/concepts/materialism/) — The view the argument challenges
 - [tenets](/tenets/) — How the Map's framework responds
 

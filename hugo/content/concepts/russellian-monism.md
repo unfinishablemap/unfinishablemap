@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-25 13:56:00+00:00
+ai_modified: 2026-02-25 20:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -88,7 +88,7 @@ But Adam Pautz and other critics argue this is illusory. Russellian monism requi
 
 If Russellian monism is dualism under another name, the Map's explicit [interactionist-dualism](/concepts/interactionist-dualism/) is preferable:
 
-**Clearer ontology**: Dualism forthrightly posits mental substances or properties distinct from physical ones. Russellian monism obscures this behind the notion of "quiddities" that are somehow both physical and phenomenal.
+**Clearer ontology**: Dualism forthrightly posits mental substances or properties distinct from physical ones. Russellian monism obscures this behind the notion of "quiddities" that are somehow both physical and phenomenal. The [ontology of dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) clarifies the options: if properties are "powerful qualities" (simultaneously qualitative and dispositional), consciousness could be the paradigmatic case—known from the inside—without requiring micro-level quiddities that must combine.
 
 **Avoids combination**: By positing unified mental subjects rather than combinations of micro-subjects, [substance dualism](/concepts/substance-property-dualism/) sidesteps the combination problem entirely. There's no question of how many experiences become one—the unified subject is fundamental.
 
@@ -170,6 +170,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 ## Further Reading
 
+- [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How the powerful qualities framework offers an alternative to quiddities
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The broader dualist framework
 - [panpsychism](/concepts/panpsychism/) — Related view making consciousness fundamental

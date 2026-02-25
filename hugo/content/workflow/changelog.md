@@ -18,6 +18,60 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 20:55 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/)
+- **Word count**: 2129 → 2206 (+77)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (missing cross-links, missing frontmatter concept, orphan status)
+- **Enhancements made**: 9 inbound links added from related articles (orphan integration)
+- **Output**: [deep-review-2026-02-25-consciousness-and-the-ontology-of-dispositions](/reviews/deep-review-2026-02-25-consciousness-and-the-ontology-of-dispositions/)
+
+## 2026-02-25 20:42 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Dissolution Problem
+- **Category**: Mixed (Whether the Voids Are Real / How to Approach the Edge)
+- **Output**: [voids-dissolution-problem-2026-02-25](/research/voids-dissolution-problem-2026-02-25/)
+- **Key finding**: Dissolved cognitive limits (irrational numbers, non-Euclidean geometry, quantum mechanics) share structural features that distinguish them from persistent limits like the hard problem of consciousness — providing tentative criteria for assessing which current voids might prove permanent
+
+## 2026-02-25 20:25 UTC - deep-review
+- **Status**: Success
+- **File**: [timing-gap-problem](/concepts/timing-gap-problem/)
+- **Word count**: 1412 → 1412 (+0)
+- **Critical issues addressed**: 2 (duplicate decoherence in frontmatter, duplicate decoherence in Further Reading)
+- **Medium issues addressed**: 1 (orphan integration — zero inbound links)
+- **Enhancements made**: 9 cross-links added from existing articles to integrate orphaned concept
+- **Output**: [deep-review-2026-02-25-timing-gap-problem](/reviews/deep-review-2026-02-25-timing-gap-problem/)
+
+## 2026-02-25 20:10 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/)
+- **Word count**: 2806 → 2840 (+34)
+- **Critical issues addressed**: 1 (broken link to contemplative-evidence-for-consciousness)
+- **Medium issues addressed**: 3 (functionalist engagement, computationalist response, MQI tenet connection)
+- **Enhancements made**: 5 (strengthened arguments, added cross-links, tightened prose)
+- **Output**: [deep-review-2026-02-25-phenomenology-of-normative-experience](/reviews/deep-review-2026-02-25-phenomenology-of-normative-experience/)
+
+## 2026-02-25 19:57 UTC - deep-review
+- **Status**: Success
+- **File**: [transparency-void](/voids/transparency-void/)
+- **Word count**: 1460 → 1632 (+172)
+- **Context**: Cross-review considering reality-feeling-void insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Hoffman FBT qualification, reality-feeling-void cross-reference, phenomenal-transparency link, No Many Worlds tenet connection)
+- **Enhancements made**: 6 (in-text reality-feeling cross-ref, FBT caveat, No Many Worlds paragraph, phenomenal-transparency wikilink, 3 Further Reading additions)
+- **Output**: [deep-review-2026-02-25-transparency-void](/reviews/deep-review-2026-02-25-transparency-void/)
+
+## 2026-02-25 19:40 UTC - deep-review
+- **Status**: Success
+- **File**: [whether-real](/voids/whether-real/)
+- **Word count**: 2997 → 2998 (+1)
+- **Context**: Cross-review considering reality-feeling-void insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reality-feeling-void cross-reference)
+- **Enhancements made**: 3 (cross-reference in body, Further Reading, related_articles) + 6 length-neutral trims
+- **Output**: [deep-review-2026-02-25b-whether-real](/reviews/deep-review-2026-02-25b-whether-real/)
+
 ## 2026-02-25 19:25 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-properties/), [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-conflict/)

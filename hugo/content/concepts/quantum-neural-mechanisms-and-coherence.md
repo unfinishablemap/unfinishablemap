@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-22 00:16:00+00:00
+ai_modified: 2026-02-25 20:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -58,7 +58,7 @@ Five distinct quantum mechanisms have been proposed for neural systems, four pro
 
 ## The Decoherence Challenge
 
-[Max Tegmark's 2000 calculation](/concepts/decoherence/) estimated that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds (100 femtoseconds). Neural processes operate on millisecond timescales—a gap of ten billion times. This became the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/).
+[Max Tegmark's 2000 calculation](/concepts/decoherence/) estimated that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds (100 femtoseconds). Neural processes operate on millisecond timescales—the [timing gap problem](/concepts/timing-gap-problem/), a mismatch of ten billion times. This became the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/).
 
 The calculation assumed thermal equilibrium (appropriate for dead tissue, not living systems), 24 nanometre superposition separations (larger than actual proposals specify), and free interaction with the aqueous environment. Hagan, Hameroff, and Tuszynski (2002) challenged these assumptions directly:
 

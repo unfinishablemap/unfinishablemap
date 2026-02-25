@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-22 16:47:00+00:00
+ai_modified: 2026-02-25 20:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -143,7 +143,7 @@ This also addresses the [pairing problem](/concepts/pairing-problem/): if consci
 
 Why can't we observe this interface in action? The [causal interface void](/voids/causal-interface/) explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction—a minimal influence leaves minimal traces. The invisibility is not an embarrassment but a consequence of the interface being precisely small enough to avoid violating conservation laws.
 
-The [decoherence challenge](/concepts/decoherence/)—that warm neural tissue decoheres too fast—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence, and quantum biology has revealed unexpected coherence in warm biological systems.
+The [decoherence challenge](/concepts/decoherence/)—that warm neural tissue decoheres too fast (the [timing-gap-problem](/concepts/timing-gap-problem/))—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence, and quantum biology has revealed unexpected coherence in warm biological systems.
 
 ## Agent Causation and Sourcehood
 

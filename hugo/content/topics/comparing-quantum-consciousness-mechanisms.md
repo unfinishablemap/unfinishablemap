@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-22 10:11:00+00:00
+ai_modified: 2026-02-25 20:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -46,7 +46,7 @@ Four serious proposals compete to explain how consciousness interfaces with quan
 
 Five criteria structure this comparison:
 
-1. **Decoherence vulnerability** — Does the mechanism require sustained quantum coherence in warm neural tissue, or can it operate through discrete events that sidestep the timing gap?
+1. **Decoherence vulnerability** — Does the mechanism require sustained quantum coherence in warm neural tissue, or can it operate through discrete events that sidestep the [timing gap](/concepts/timing-gap-problem/)?
 2. **Phenomenological fit** — Does the mechanism's structure match what consciousness actually feels like: effortful attention, unified experience, the willed/automatic distinction?
 3. **Tenet alignment** — How well does the mechanism satisfy all five of the Map's commitments, particularly [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)?
 4. **Empirical status** — What experimental evidence supports (or constrains) the proposal as of 2025?
