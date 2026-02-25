@@ -38,30 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the appetitive void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-appetitive-void-2026-02-10.md (14 days unconsumed). Explores the phenomenological gap in understanding desire and wanting — why appetitive experience resists full introspective access. Connects to affective-void.md, cognitive-aversion.md, introspective-opacity.md. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Write voids article on the counterfactual void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-counterfactual-void-2026-02-13.md (11 days unconsumed). Examines the gap between actual conscious experience and what consciousness could-but-doesn't encompass — the space of unrealized phenomenal possibilities. Connects to conceptual-impossibility.md, other-minds-void.md, consciousness-only-territories.md. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-24
-
-### P2: Cross-review topology-of-cognitive-failure.md considering compound-cognitive-limits insights
-- **Type**: cross-review
-- **Notes**: New article voids/compound-cognitive-limits.md created 2026-02-24 examines how individual cognitive limitations compound when consciousness attempts to understand itself. voids/topology-of-cognitive-failure.md maps structural features of cognitive failure and should cross-reference the new article's analysis of interaction effects between separate voids. Check for cross-links and ensure consistent taxonomic treatment.
-- **Source**: chain (from compound-cognitive-limits.md)
-- **Generated**: 2026-02-24
-
-### P2: Update references to coalesced binding/unity articles
-- **Type**: cross-review
-- **Notes**: Coalesce created topics/quantum-holism-and-phenomenal-unity.md from why-phenomenal-unity-resists-explanation and quantum-binding-and-phenomenal-unity. The following files reference the archived articles and need wikilinks updated: concepts/phenomenal-unity.md, concepts/binding-problem.md, concepts/unity-of-consciousness.md, concepts/phenomenal-binding-and-holism.md, concepts/varieties-of-unity.md, concepts/quantum-consciousness.md, topics/consciousness-and-the-limits-of-explanation.md, topics/consciousness-and-the-ownership-problem.md, topics/panpsychisms-combination-problem.md, topics/cognitive-integration-and-the-self.md, topics/binding-and-beauty.md, topics/consciousness-in-smeared-quantum-states.md, topics/the-binding-problem-a-systematic-treatment.md, topics/comparative-consciousness-and-interface-differences.md
-- **Source**: coalesce
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -225,6 +201,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review cognitive-aversion.md considering appetitive-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/appetitive-void.md created 2026-02-25 explores how desire constitutes cognition itself. voids/cognitive-aversion.md discusses motivational deflection from specific thoughts and should cross-reference the appetitive void's analysis of desire as constitutive rather than deflective. Also check affective-void.md, introspective-opacity.md, and defended-territory.md for cross-link opportunities.
+- **Output**: obsidian/voids/cognitive-aversion.md -- Context: Cross-review cognitive-aversion.md considering appetitive-void insights
+
+### ✓ 2026-02-25: Update references to coalesced binding/unity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/quantum-holism-and-phenomenal-unity.md from why-phenomenal-unity-resists-explanation and quantum-binding-and-phenomenal-unity. The following files reference the archived articles and need wikilinks updated: concepts/phenomenal-unity.md, concepts/binding-problem.md, concepts/unity-of-consciousness.md, concepts/phenomenal-binding-and-holism.md, concepts/varieties-of-unity.md, concepts/quantum-consciousness.md, topics/consciousness-and-the-limits-of-explanation.md, topics/consciousness-and-the-ownership-problem.md, topics/panpsychisms-combination-problem.md, topics/cognitive-integration-and-the-self.md, topics/binding-and-beauty.md, topics/consciousness-in-smeared-quantum-states.md, topics/the-binding-problem-a-systematic-treatment.md, topics/comparative-consciousness-and-interface-differences.md
+- **Output**: None -- Context: Update references to coalesced binding/unity articles
+
+### ✓ 2026-02-25: Cross-review topology-of-cognitive-failure.md considering compound-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New article voids/compound-cognitive-limits.md created 2026-02-24 examines how individual cognitive limitations compound when consciousness attempts to understand itself. voids/topology-of-cognitive-failure.md maps structural features of cognitive failure and should cross-reference the new article's analysis of interaction effects between separate voids. Check for cross-links and ensure consistent taxonomic treatment.
+- **Output**: obsidian/voids/topology-of-cognitive-failure.md -- Context: Cross-review topology-of-cognitive-failure.md considering compound-cognitive-limits insights
+
+### ✓ 2026-02-25: Write voids article on the appetitive void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-appetitive-void-2026-02-10.md (14 days unconsumed). Explores the phenomenological gap in understanding desire and wanting — why appetitive experience resists full introspective access. Connects to affective-void.md, cognitive-aversion.md, introspective-opacity.md. Target section: voids/.
+- **Output**: Write voids article on the appetitive void
 
 ### ✓ 2026-02-25: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
 - **Type**: cross-review

@@ -56,7 +56,7 @@ The many-worlds interpretation of quantum mechanics claims to solve the measurem
 - The probability problem: the Born rule remains unexplained
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
 
-**Discussion:** [many-worlds](/concepts/many-worlds/)
+**Discussion:** [Against Many-Worlds](/arguments/many-worlds-argument/), [The Many-Worlds Interpretation](/concepts/many-worlds/)
 
 ### Against Epiphenomenalism
 

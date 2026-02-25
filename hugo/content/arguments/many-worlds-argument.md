@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-22 07:12:00+00:00
+ai_modified: 2026-02-25 01:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,10 +17,12 @@ concepts:
 - '[[introspection]]'
 created: 2026-01-15
 date: &id001 2026-01-22
+description: 'A cumulative philosophical case against many-worlds: indexical identity,
+  probability, preferred basis, and what branch-splitting means for consciousness.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 01:00:00+00:00
+last_deep_review: 2026-02-25 01:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. The Unfinishable Map's [No Many Worlds](/tenets/#no-many-worlds) tenet explicitly rejects this interpretation. This page presents the arguments why.
+The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. The Unfinishable Map's [No Many Worlds](/tenets/#no-many-worlds) tenet explicitly rejects this interpretation. This article presents the arguments why.
 
 ## The Interpretation
 
@@ -189,6 +191,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 
 ## Further Reading
 
+- [The Many-Worlds Interpretation](/concepts/many-worlds/) — The concept page covering what MWI claims and the Map's response
 - [measurement-problem](/concepts/measurement-problem/) — The foundational puzzle many-worlds claims to solve
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Alternative frameworks for mind-matter interaction
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and their compatibility with the Map

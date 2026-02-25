@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-03 06:52:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-02-25 01:59:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -15,7 +15,7 @@ description: Human+AI exploration of thoughts we systematically flee—not cogni
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 06:52:00+00:00
+last_deep_review: 2026-02-25 01:59:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -26,6 +26,9 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[death-void]]'
 - '[[death-and-consciousness]]'
+- '[[appetitive-void]]'
+- '[[topology-of-cognitive-failure]]'
+- '[[limits-reveal-structure]]'
 - '[[voids-cognitive-aversion-2026-02-01]]'
 title: Cognitive Aversion
 topics: []
@@ -53,7 +56,7 @@ The evasion is structurally determined. Dasein's "plunge into inauthenticity is 
 
 Ernest Becker argued that "consciousness of death is the primary repression, not sexuality"—a fundamental departure from Freud. Death anxiety is not merely uncomfortable but must be "positively repressed." The unconscious expends enormous energy on this repression.
 
-Becker's claim is radical: civilization itself functions as a defence mechanism against mortality awareness. Our cultural projects, our heroic ambitions, our self-esteem all serve to screen death from full view. Character-armour "masks and obscures genuine self-knowledge." We build elaborate structures to avoid the simple fact that we will die.
+Becker's claim is radical: civilization itself functions as a defence mechanism against mortality awareness. Our cultural projects, our heroic ambitions, our self-esteem all serve to screen death from full view. Character-armour "masks and obscures genuine self-knowledge."
 
 ### The Ironic Process
 
@@ -71,13 +74,13 @@ The substitution pattern is telling. Approach personal mortality directly and at
 
 ### Cosmic Insignificance
 
-That human concerns may have no cosmic significance. That the universe does not care about us. That meaning is a local phenomenon in an indifferent expanse. H.P. Lovecraft's cosmicism articulated this: "humanity's existential helplessness due to the 'infinite spaces' revealed by science."
+That human concerns may have no cosmic significance—that meaning is a local phenomenon in an indifferent expanse. H.P. Lovecraft's cosmicism articulated this: "humanity's existential helplessness due to the 'infinite spaces' revealed by science."
 
-Research suggests cosmicism triggers "higher rates of existential anxiety than any other subgenre" of horror. The fear is not absence of meaning but "discovery that they have absolutely no power to change anything in the vast, indifferent universe." This thought produces not philosophical engagement but glazing-over—intellectual acknowledgment without emotional or motivational connection.
+Cosmicism appears to trigger particular existential anxiety. The fear is not absence of meaning but powerlessness—the discovery that nothing can be changed in a vast, indifferent universe. This thought produces not philosophical engagement but glazing-over—intellectual acknowledgment without emotional or motivational connection.
 
 ### Destabilizing Self-Knowledge
 
-That our motives may not be what we believe them to be. That our choices may be less free than they feel. That our identities are constructions rather than discoveries. Empirical research on motivated cognition shows that "motivations infiltrate four stages of cognitive processing: information gathering, attention, processing, and memory." The distortions remain "hidden from conscious awareness."
+That our motives, choices, and identities may not be what we believe—that identity is constructed rather than discovered, and freedom less real than it feels. Empirical research shows that motivations infiltrate "information gathering, attention, processing, and memory," with distortions remaining "hidden from conscious awareness."
 
 The [simulation hypothesis](/concepts/simulation/) and related possibilities—that we might be fundamentally deceived about reality's nature—also trigger systematic avoidance in many people. Not intellectual dismissal (which would be engagement) but failure to fully confront the implications.
 
@@ -111,13 +114,15 @@ McGinn argues we cannot extend our concept-forming procedures to grasp how neura
 
 But might they be related? Perhaps some thoughts we now avert would, if sustained, reveal genuine closure. Aversion might be the first phenomenological manifestation of approaching the architecturally closed. We flee before we discover we cannot proceed.
 
+A deeper relation emerges from the [appetitive void](/voids/appetitive-void/): cognitive aversion deflects *specific* threatening content, but desire may structure the entire cognitive field within which aversion operates. If so, aversion is one local manifestation of a more pervasive appetitive structuring of thought—we flee particular ideas within a framework that wanting has already shaped.
+
 ## Can Aversion Be Overcome?
 
 ### Contemplative Practice
 
 Meditation traditions directly confront impermanence and death. The Buddhist practice of *maranasati* (mindfulness of death) aims to reduce avoidance through repeated exposure. Some practitioners report reduced death anxiety—though whether this represents genuine contact with mortality or skilled equanimity is unclear.
 
-The Stoic *memento mori*, Montaigne's assertion that "to philosophize is to learn how to die," and various philosophical therapies for death anxiety suggest that sustained practice can reduce aversion. But does reduction mean overcoming, or merely managing?
+The Stoic *memento mori*, Montaigne's assertion that "to philosophize is to learn how to die," and various philosophical therapies for death anxiety suggest that sustained practice can reduce aversion. But does reduction mean overcoming, or merely managing? The [appetitive void](/voids/appetitive-void/) deepens this question: the desire to overcome aversion is itself appetitively structured—a wanting that cannot escape wanting.
 
 ### Psychedelic Experience
 
@@ -167,9 +172,12 @@ The evidence currently points toward cognitive aversion as a genuine phenomenon�
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
+- [The Appetitive Void](/voids/appetitive-void/) — When desire structures the entire cognitive field
 - [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
+- [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — How thought breaks down at void boundaries
+- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 
 ## References
 

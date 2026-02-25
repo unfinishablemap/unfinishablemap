@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 14:29:48+00:00
+ai_modified: 2026-02-25 00:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of how cognitive failures reveal void boundari
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 14:29:48+00:00
+last_deep_review: 2026-02-25 00:58:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,6 +28,7 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[apophatic-approaches]]'
 - '[[convergent-cognitive-limits]]'
+- '[[compound-cognitive-limits]]'
 title: The Topology of Cognitive Failure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -61,6 +62,8 @@ Different types of cognitive limits produce different phenomenological signature
 | Meta-cognitive | Vertigo | Destabilizing awareness of the fragility of one's rational position |
 
 Each signature type marks a different relationship between mind and limit. Self-refutation suggests approaching a boundary that cannot be drawn from the inside. Aporia suggests encountering genuine paradox, not merely difficulty. Systematic illusion suggests butting against the pattern-matching basis of cognition itself.
+
+These signatures do not always appear in isolation. Where multiple limits overlap, their [compound interaction](/voids/compound-cognitive-limits/) can produce qualitatively different phenomenology—not the sum of individual signatures but emergent failure modes that no single limit predicts.
 
 ## Self-Refutation: The Wittgenstein Signature
 
@@ -116,17 +119,13 @@ Howard Margolis's analysis of judgment illusions shows that thinking is "based o
 
 Pattern recognition is cue-driven: "Recognition of any pattern is prompted by cues in the context—that pattern itself then becomes part of the environment which cues the next pattern." Illusions arise when the cued pattern is wrong but the cuing is strong.
 
-These failures resist correction. Knowing you are experiencing a visual illusion does not make it stop. Knowing a logical fallacy is fallacious does not make it stop feeling compelling. The pattern-matching architecture operates below the level of belief.
-
-This suggests that some cognitive limits may be hardwired—not correctable by learning or reflection but constitutive of how the mind processes information. The signature is persistence: the error continues even after you understand it is an error.
+These failures resist correction. Knowing you experience a visual illusion does not make it stop. Knowing a fallacy is fallacious does not make it stop feeling compelling. The pattern-matching architecture operates below the level of belief, suggesting some cognitive limits are constitutive rather than correctable. The signature is persistence: the error continues even after you understand it is an error.
 
 ## Model-Based Failure: Wrong Model Selection
 
 Reasoning depends on "envisaging the possibilities consistent with the starting point." We construct mental models and derive conclusions from them. The theory "predicts systematic errors in our reasoning, and the evidence corroborates this prediction."
 
-The key failure mode: "intuition is not always enough for rationality: a single mental model may be the wrong one." Studies of disasters illustrate this repeatedly—people reason correctly from incorrect premises.
-
-This is subtle. The thinking *feels* correct because the model determines what would count as error. Wrong model selection is invisible from inside—verification happens within the model, not against reality.
+The key failure mode: "intuition is not always enough for rationality: a single mental model may be the wrong one." The thinking *feels* correct because the model determines what would count as error. Wrong model selection is invisible from inside—verification happens within the model, not against reality.
 
 For void-mapping, this suggests that some cognitive limits may be undetectable because they operate at the level of model selection. We might systematically construct wrong models of consciousness, mind, or reality—and the wrongness would be invisible because our verification processes themselves use the wrong model.
 
@@ -185,6 +184,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards and safeguards
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
+- [Compound Cognitive Limits](/voids/compound-cognitive-limits/) — How failure signatures interact superadditively
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [Mysterianism](/concepts/mysterianism/) — McGinn's analysis of cognitive closure
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
