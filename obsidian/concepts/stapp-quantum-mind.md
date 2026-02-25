@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-22T08:14:00+00:00
+ai_modified: 2026-02-25T20:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -105,7 +105,7 @@ This framework avoids standard objections: the selection is *not random* (follow
 
 ### The Decoherence Objection
 
-The most serious challenge: quantum coherence in warm brains should decay far too quickly (Tegmark calculated 10⁻¹³ seconds) for the Zeno mechanism to operate at neural timescales (milliseconds).
+The most serious challenge: quantum coherence in warm brains should decay far too quickly (Tegmark calculated 10⁻¹³ seconds) for the Zeno mechanism to operate at neural timescales (milliseconds). This is the [[timing-gap-problem]]—a twelve-order-of-magnitude mismatch between decoherence and neural decision timing.
 
 **Response**: Several considerations complicate this objection without definitively resolving it. Revised calculations produce longer coherence times (10⁻⁵ seconds), though still contested. Crucially, [[quantum-biology]] has demonstrated functional quantum effects in warm biological systems—and in 2024, Nature Communications published evidence that the quantum Zeno effect itself enables magnetosensitivity in cryptochrome radical pairs. Tight binding of radicals within the protein preserves coherence against decoherence—providing the first biological precedent for the Zeno mechanism at neural-relevant timescales (microseconds, not femtoseconds).
 

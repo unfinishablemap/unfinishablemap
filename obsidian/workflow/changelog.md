@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 20:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/timing-gap-problem]]
+- **Word count**: 1412 → 1412 (+0)
+- **Critical issues addressed**: 2 (duplicate decoherence in frontmatter, duplicate decoherence in Further Reading)
+- **Medium issues addressed**: 1 (orphan integration — zero inbound links)
+- **Enhancements made**: 9 cross-links added from existing articles to integrate orphaned concept
+- **Output**: [[reviews/deep-review-2026-02-25-timing-gap-problem]]
+
 ## 2026-02-25 20:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-normative-experience]]

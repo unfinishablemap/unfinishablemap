@@ -4,7 +4,7 @@ description: "Why the discovery that warm biology exploits quantum effects shift
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-01-27T20:08:10+00:00
+ai_modified: 2026-02-25T20:25:00+00:00
 draft: false
 last_deep_review: 2026-01-27T20:08:10+00:00
 topics:
@@ -31,7 +31,7 @@ Quantum biology has shifted the burden of proof in consciousness debates. For de
 
 ## The Objection That Collapsed
 
-The "warm, wet, and noisy" objection seemed decisive. Max Tegmark's influential 2000 calculation estimated that [[decoherence]]—the process by which quantum superpositions dissolve through environmental interaction—would destroy any neural quantum states in femtoseconds (10⁻¹³ seconds). Neural processes operate on millisecond timescales, twelve orders of magnitude slower. The gap appeared unbridgeable.
+The "warm, wet, and noisy" objection seemed decisive. Max Tegmark's influential 2000 calculation estimated that [[decoherence]]—the process by which quantum superpositions dissolve through environmental interaction—would destroy any neural quantum states in femtoseconds (10⁻¹³ seconds). Neural processes operate on millisecond timescales, twelve orders of magnitude slower. This [[timing-gap-problem|timing gap]] appeared unbridgeable.
 
 This objection rested on an assumption: that biological systems cannot protect quantum effects from thermal noise. Evolution, the assumption implied, works exclusively in the classical regime.
 

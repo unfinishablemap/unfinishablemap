@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-22T16:47:00+00:00
+ai_modified: 2026-02-25T20:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -141,7 +141,7 @@ This also addresses the [[pairing-problem|pairing problem]]: if consciousness in
 
 Why can't we observe this interface in action? The [[causal-interface|causal interface void]] explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction—a minimal influence leaves minimal traces. The invisibility is not an embarrassment but a consequence of the interface being precisely small enough to avoid violating conservation laws.
 
-The [[decoherence|decoherence challenge]]—that warm neural tissue decoheres too fast—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence, and quantum biology has revealed unexpected coherence in warm biological systems.
+The [[decoherence|decoherence challenge]]—that warm neural tissue decoheres too fast (the [[timing-gap-problem]])—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence, and quantum biology has revealed unexpected coherence in warm biological systems.
 
 ## Agent Causation and Sourcehood
 

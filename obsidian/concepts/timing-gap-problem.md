@@ -4,7 +4,7 @@ description: "The 10¹²-fold mismatch between quantum decoherence and neural de
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T04:19:00+00:00
+ai_modified: 2026-02-25T20:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,6 @@ concepts:
   - "[[decoherence]]"
   - "[[measurement-problem]]"
   - "[[stapp-quantum-mind]]"
-  - "[[decoherence]]"
 related_articles:
   - "[[quantum-neural-timing-constraints]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
@@ -25,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-02-15T04:19:00+00:00
+last_deep_review: 2026-02-25T20:25:00+00:00
 ---
 
 The timing gap problem is the mismatch between quantum decoherence timescales and neural decision timescales. Tegmark (2000) calculated that quantum superpositions in neural systems collapse in approximately 10⁻¹³ seconds (femtoseconds), while conscious neural decisions operate at 200-550 milliseconds. This twelve-order-of-magnitude gap poses a direct challenge to any theory proposing that consciousness interacts with the brain through quantum mechanics: if superpositions vanish trillions of times faster than neurons decide, quantum effects cannot meaningfully influence neural outcomes.
@@ -86,7 +85,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant here: t
 
 - [[quantum-neural-timing-constraints]]
 - [[comparing-quantum-consciousness-mechanisms]]
-- [[decoherence]]
+- [[quantum-decoherence-objection-responses]]
 - [[decoherence]]
 - [[quantum-consciousness]]
 - [[process-philosophy]]

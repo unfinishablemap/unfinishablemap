@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-24T12:29:00+00:00
+ai_modified: 2026-02-25T20:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 - Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
 - **2025 Wiest et al.**: Anesthetics abolish a 613 THz quantum oscillation peak in microtubules while non-anesthetics don't—a testable signature
 
-**Challenge**: The [[decoherence|decoherence objection]]. Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. But this assumed thermal equilibrium; revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds. This remains three orders of magnitude shorter than neural decisions (~300ms), so the timing gap is reduced but not eliminated for mechanisms requiring sustained coherence. However, [[quantum-neural-mechanisms|alternative mechanisms]] operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [[quantum-neural-timing-constraints]] for the full timing analysis.
+**Challenge**: The [[decoherence|decoherence objection]]. Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. But this assumed thermal equilibrium; revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds. This remains three orders of magnitude shorter than neural decisions (~300ms), so the [[timing-gap-problem|timing gap]] is reduced but not eliminated for mechanisms requiring sustained coherence. However, [[quantum-neural-mechanisms|alternative mechanisms]] operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [[quantum-neural-timing-constraints]] for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 

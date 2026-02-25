@@ -4,7 +4,7 @@ description: "Five independent responses to the decoherence objection target dif
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T12:20:00+00:00
+ai_modified: 2026-02-25T20:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ The decoherence objection—that the brain is too warm, wet, and noisy for quant
 
 The "warm, wet, and noisy" slogan compresses several logically separable claims:
 
-**Claim 1 (Timescale):** Quantum coherence in neural tissue decays in femtoseconds—orders of magnitude faster than neural processing.
+**Claim 1 (Timescale):** Quantum coherence in neural tissue decays in femtoseconds—orders of magnitude faster than neural processing (the [[timing-gap-problem]]).
 
 **Claim 2 (Necessity):** Quantum consciousness requires sustained coherence across neural decision windows (milliseconds).
 

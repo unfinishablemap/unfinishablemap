@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-25T18:55:00+00:00
+ai_modified: 2026-02-25T20:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ last_curated: null
 last_deep_review: 2026-02-25T18:55:00+00:00
 ---
 
-Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—a gap of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is which physical mechanisms remain viable given what we know about both quantum and neural timescales—and whether The Unfinishable Map's preferred framework, post-decoherence selection, operates at a different level of analysis where timing constraints do not apply.
+Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—the [[timing-gap-problem|timing gap]], a chasm of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is which physical mechanisms remain viable given what we know about both quantum and neural timescales—and whether The Unfinishable Map's preferred framework, post-decoherence selection, operates at a different level of analysis where timing constraints do not apply.
 
 ## The Timing Hierarchy
 

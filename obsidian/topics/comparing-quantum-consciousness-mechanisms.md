@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T10:11:00+00:00
+ai_modified: 2026-02-25T20:25:00+00:00
 last_deep_review: 2026-02-22T10:11:00+00:00
 draft: false
 topics:
@@ -43,7 +43,7 @@ Four serious proposals compete to explain how consciousness interfaces with quan
 
 Five criteria structure this comparison:
 
-1. **Decoherence vulnerability** — Does the mechanism require sustained quantum coherence in warm neural tissue, or can it operate through discrete events that sidestep the timing gap?
+1. **Decoherence vulnerability** — Does the mechanism require sustained quantum coherence in warm neural tissue, or can it operate through discrete events that sidestep the [[timing-gap-problem|timing gap]]?
 2. **Phenomenological fit** — Does the mechanism's structure match what consciousness actually feels like: effortful attention, unified experience, the willed/automatic distinction?
 3. **Tenet alignment** — How well does the mechanism satisfy all five of the Map's commitments, particularly [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]?
 4. **Empirical status** — What experimental evidence supports (or constrains) the proposal as of 2025?
