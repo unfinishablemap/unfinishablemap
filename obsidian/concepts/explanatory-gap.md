@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-22T18:06:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ Compare with water. Neuroscience might tell us that H2O molecules at room temper
 
 With consciousness, the connection never becomes transparent. No matter how much we know about neural correlates, the question "but why does *that* feel like *this*?" remains sensible. This is the gap.
 
-[[leibnizs-mill-argument|Leibniz's Mill]] makes this point vivid. Imagine walking through a brain enlarged to mill-size. You would find neurons firing, chemicals diffusing, signals propagating—mechanical parts interacting. But nowhere would you find perception itself. The argument anticipated the explanatory gap by nearly three centuries.
+[[leibnizs-mill-argument|Leibniz's Mill]] makes this point vivid. Imagine walking through a brain enlarged to mill-size. You would find neurons firing, chemicals diffusing, signals propagating—mechanical parts interacting. But nowhere would you find perception itself. The argument anticipated the explanatory gap by nearly three centuries. [[Perception-and-conscious-experience|Perception]] is where the gap is sharpest: the redness of red, the perspectival structure of seeing, and the phenomenal unity of the perceptual field each resist reduction to neural description in ways that illuminate the gap's structure.
 
 ## Levine's Formulation
 

@@ -4,7 +4,7 @@ description: "Attention and consciousness can come apart. Unlike other double di
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-06T10:51:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ last_curated:
 last_deep_review: 2026-02-05T17:58:00+00:00
 ---
 
-Attention and consciousness can come apart. Blindsight patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. This empirical dissociation carries philosophical weight: if consciousness were identical to attention, or if attention were necessary and sufficient for consciousness, these splits would be impossible. In standard cognitive neuroscience, double dissociations identify distinct physical processes—but the consciousness-attention case is uniquely significant because one side of the dissociation is the very phenomenon whose relationship to physical processes is in question. This article examines both the physicalist and dualist readings of the evidence, arguing that the [[hard-problem-of-consciousness|hard problem]] makes this dissociation more theoretically consequential than other double dissociations in cognitive science.
+Attention and consciousness can come apart. [[Blindsight]] patients orient toward stimuli they deny seeing—attention without awareness. (See [[perception-and-conscious-experience|perception and conscious experience]] for how blindsight and inattentional blindness fit into the broader pattern of perceptual dissociations.) Peripheral vision delivers conscious experience without focal attention—awareness without attending. This empirical dissociation carries philosophical weight: if consciousness were identical to attention, or if attention were necessary and sufficient for consciousness, these splits would be impossible. In standard cognitive neuroscience, double dissociations identify distinct physical processes—but the consciousness-attention case is uniquely significant because one side of the dissociation is the very phenomenon whose relationship to physical processes is in question. This article examines both the physicalist and dualist readings of the evidence, arguing that the [[hard-problem-of-consciousness|hard problem]] makes this dissociation more theoretically consequential than other double dissociations in cognitive science.
 
 ## The Four Cases
 

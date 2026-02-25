@@ -4,7 +4,7 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-20T01:06:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 last_deep_review: 2026-01-29T00:58:54+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ last_curated: null
 
 Phenomenal overflow is Ned Block's argument that [[phenomenal-consciousness|phenomenal consciousness]] has richer content than [[access-consciousness]]—we experience more than we can report, think about, or use in reasoning. The overflow hypothesis challenges the identification of consciousness with cognitive access, suggesting that the "what it's like" of experience exceeds what enters the [[global-workspace-theory|global workspace]].
 
-The argument matters for [[tenets#^dualism|dualism]] because it separates phenomenology from function. If experience overflows accessibility, then functional theories that explain when information becomes reportable (like Global Workspace Theory) cannot be complete theories of consciousness. Something phenomenal exists beyond what functional descriptions capture.
+The argument matters for [[tenets#^dualism|dualism]] because it separates phenomenology from function. Overflow is one of several features of [[perception-and-conscious-experience|perceptual experience]] that resist reduction to neural processing. If experience overflows accessibility, then functional theories that explain when information becomes reportable (like Global Workspace Theory) cannot be complete theories of consciousness. Something phenomenal exists beyond what functional descriptions capture.
 
 ## The Overflow Argument {#argument}
 

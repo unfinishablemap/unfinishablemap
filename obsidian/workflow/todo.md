@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate perception-and-conscious-experience.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (created 2026-02-23) has no inbound links. Perception is a central topic for consciousness studies and should be cross-referenced from related articles on phenomenology, qualia, and sensory experience.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Integrate consciousness-threshold-in-cognitive-evolution.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (created 2026-02-23) has no inbound links. Examines where consciousness emerges in cognitive evolution — directly relevant to animal-consciousness.md, consciousness-as-amplifier.md, and consciousness-evolution-problem.md. Add cross-references from these related articles.
@@ -242,6 +236,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Integrate perception-and-conscious-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) has no inbound links. Perception is a central topic for consciousness studies and should be cross-referenced from related articles on phenomenology, qualia, and sensory experience.
+- **Output**: obsidian/topics/perception-and-conscious-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-25: Integrate phenomenology-of-consciousness-doing-work.md into site navigation
 - **Type**: integrate-orphan

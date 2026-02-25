@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-25T04:42:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 last_deep_review: 2026-02-25T04:42:00+00:00
 draft: false
 topics:
@@ -61,7 +61,7 @@ Block's 1995 paper argued philosophers conflate two distinct concepts:
 
 The distinction reveals what physicalist theories can and cannot explain. Physicalism succeeds at access: [[Global-workspace-theory|Global Workspace Theory]] and related neural models can explain how information becomes globally available. But even complete understanding of access mechanisms leaves the [[hard-problem-of-consciousness|hard problem]] untouched: why does globally broadcast information feel like anything?
 
-Block argues the two can dissociate. [[Blindsight]] patients may have degraded access without phenomenology. Sperling's iconic memory experiments suggest phenomenology exceeding access capacity—though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology.
+Block argues the two can dissociate. [[Blindsight]] patients may have degraded access without phenomenology. Sperling's iconic memory experiments suggest phenomenology exceeding access capacity—though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. These dissociations are explored in detail in [[perception-and-conscious-experience|perception and conscious experience]], where blindsight, inattentional blindness, and subliminal perception each separate processing from phenomenal awareness.
 
 ## The Hard Problem {#hard-problem}
 

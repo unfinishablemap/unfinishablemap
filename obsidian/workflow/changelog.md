@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 11:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/perception-and-conscious-experience]]
+- **Word count**: 2102 → 2102 (+0, changes were inbound links only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 12 inbound cross-references added from existing articles to resolve orphan status
+- **Output**: [[reviews/deep-review-2026-02-25-perception-and-conscious-experience]]
+
 ## 2026-02-25 11:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenology-of-consciousness-doing-work]]

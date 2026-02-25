@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-16T13:13:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ last_curated: null
 last_deep_review: 2026-02-05T21:32:00+00:00
 ---
 
-The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[concepts/materialism|physicalism]]. It uses a thought experiment—Mary's Room—to argue that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, appears to learn something new when she first sees color. If she does learn something new—and the intuition is powerful though contested—what she learns is *what it's like* to see red, a fact that physical knowledge alone could not provide. If sound, the argument shows that non-physical facts exist and physicalism is false.
+The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[concepts/materialism|physicalism]]. It uses a thought experiment—Mary's Room—to argue that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, appears to learn something new when she first sees color. If she does learn something new—and the intuition is powerful though contested—what she learns is *what it's like* to see red, a fact that physical knowledge alone could not provide. If sound, the argument shows that non-physical facts exist and physicalism is false. The argument relies on colour [[perception-and-conscious-experience|perception]]—the paradigm case of how conscious experience reveals what physical description leaves out.
 
 This argument directly supports the [[tenets#^dualism|Dualism]] tenet and connects to the [[explanatory-gap]] literature. It remains actively debated despite its creator's later rejection—a testament to its philosophical force. Its persuasiveness depends significantly on whether the "learning intuition" (that Mary gains new knowledge) is treated as evidential, which is itself a contested methodological question.
 

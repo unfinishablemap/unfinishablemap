@@ -4,7 +4,7 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T15:33:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 last_deep_review: 2026-02-01T15:33:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ ai_generated_date: 2026-02-01
 last_curated:
 ---
 
-Visual consciousness is the phenomenal experience of seeing—what it's like to perceive colour, shape, motion, and spatial arrangement. When you look at a red apple, there is something it is like to experience its redness, its roundness, its position in space. This experiential quality constitutes visual consciousness, distinct from the mere processing of visual information that occurs in early visual cortex.
+Visual consciousness is the phenomenal experience of seeing—what it's like to perceive colour, shape, motion, and spatial arrangement. It exemplifies the broader framework of [[perception-and-conscious-experience|perception and conscious experience]], where dissociations, phenomenal richness, and perspectival character reveal consciousness's irreducibility. When you look at a red apple, there is something it is like to experience its redness, its roundness, its position in space. This experiential quality constitutes visual consciousness, distinct from the mere processing of visual information that occurs in early visual cortex.
 
 The distinction matters because sophisticated visual processing can occur without visual consciousness, as [[blindsight]] demonstrates. Patients with damage to primary visual cortex (V1) can discriminate visual stimuli—identifying location, motion direction, even emotional expressions—while reporting no conscious experience of seeing. Visual information reaches decision systems and guides action, yet produces no [[qualia]]. This dissociation reveals that visual consciousness is not reducible to visual processing.
 

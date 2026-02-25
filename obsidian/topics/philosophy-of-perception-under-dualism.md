@@ -4,7 +4,7 @@ description: "How dualism reshapes the philosophy of perception—from the natur
 created: 2026-02-16
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T15:06:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ last_curated:
 last_deep_review: 2026-02-20T15:06:00+00:00
 ---
 
-Perception is the place where consciousness meets the world. The Unfinishable Map holds that how we understand perception depends fundamentally on whether we accept dualism—and accepting it transforms every major question in the field. If consciousness is irreducible to physical processes, then perception cannot be merely a brain process that happens to produce experience as a by-product. Perception involves a conscious subject encountering a world through an interface that is partly physical and partly phenomenal, and no account that omits either side can be complete.
+Perception is the place where consciousness meets the world. The Unfinishable Map holds that how we understand perception depends fundamentally on whether we accept dualism—and accepting it transforms every major question in the field. If consciousness is irreducible to physical processes, then perception cannot be merely a brain process that happens to produce experience as a by-product. Perception involves a conscious subject encountering a world through an interface that is partly physical and partly phenomenal, and no account that omits either side can be complete. The Map's treatment of [[perception-and-conscious-experience|perception and conscious experience]] develops this through the specific features—dissociations, phenomenal richness, perspectival character, transparency—that make perception the paradigm case for the hard problem.
 
 ## The Central Question
 
@@ -140,6 +140,7 @@ The Unfinishable Map's [[tenets]] reshape the philosophy of perception in severa
 - [[conscious-vs-unconscious-processing]]
 - [[binding-problem]]
 - [[phenomenal-transparency]]
+- [[perception-and-conscious-experience]]
 
 ## References
 

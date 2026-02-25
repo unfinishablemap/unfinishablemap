@@ -4,7 +4,7 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-07T05:57:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 last_deep_review: 2026-02-07T05:57:00+00:00
 draft: false
 topics: []
@@ -32,7 +32,7 @@ ai_generated_date: 2026-01-23
 last_curated:
 ---
 
-Blindsight patients have damage to primary visual cortex (V1) that eliminates conscious visual experience in portions of their visual field—they report seeing nothing. Yet when forced to guess about stimuli presented in the blind region, they perform significantly above chance on discrimination tasks: identifying location, motion direction, color, and even emotional expressions. The phenomenon demonstrates that sophisticated visual processing can proceed without phenomenal awareness, providing strong evidence for consciousness-processing dissociation.
+Blindsight patients have damage to primary visual cortex (V1) that eliminates conscious visual experience in portions of their visual field—they report seeing nothing. Yet when forced to guess about stimuli presented in the blind region, they perform significantly above chance on discrimination tasks: identifying location, motion direction, color, and even emotional expressions. The phenomenon demonstrates that sophisticated visual processing can proceed without phenomenal awareness, providing strong evidence for consciousness-processing dissociation—one of several [[perception-and-conscious-experience|perceptual dissociations]] that sharpen the hard problem.
 
 The discovery matters because it reveals what unconscious perception can and cannot do. Blindsight patients succeed at forced-choice discrimination (choosing between presented options) but perform poorly on detection (reporting whether anything appeared at all). The visual information guides action and influences decision-making but doesn't enter awareness for reasoning about. This pattern fits the [[#baseline-cognition-pattern|baseline cognition pattern]] (explained below): unconscious systems handle procedural tasks reliably but cannot support flexible reasoning or explicit knowledge.
 

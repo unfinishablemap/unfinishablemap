@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-24T11:14:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ Franz Brentano reintroduced the concept to modern philosophy in 1874, claiming t
 
 [[phenomenology|Phenomenology]]—the philosophical tradition founded by Husserl and developed by Heidegger, Merleau-Ponty, and Sartre—provides systematic methods for investigating intentionality. Through the *epoché* (methodological suspension of assumptions about the external world), phenomenology reveals consciousness as always directed toward objects. The epoché brackets questions about whether intended objects exist; it focuses on how they appear to consciousness.
 
-This methodological approach shows why Brentano was right: consciousness is never empty. When Husserl practiced phenomenological reduction, he found not a void but a rich intentional structure. Every perception, thought, memory, and emotion is directed toward something. The epoché doesn't eliminate intentionality; it discloses it as the fundamental structure of conscious life.
+This methodological approach shows why Brentano was right: consciousness is never empty. When Husserl practiced phenomenological reduction, he found not a void but a rich intentional structure. Every perception, thought, memory, and emotion is directed toward something. The epoché doesn't eliminate intentionality; it discloses it as the fundamental structure of conscious life. [[Perception-and-conscious-experience|Perception]] is the paradigm case: perceptual experience is the most transparently intentional form of consciousness, directed outward toward objects in a way that resists reduction to causal relations between neurons.
 
 The phenomenological tradition also reveals the connection between intentionality and first-person irreducibility. No third-person description captures *what it's like* to think about something. Physical neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris itself shows up in your experience as a meaningful object. This supports both Brentano's thesis and The Unfinishable Map's [[tenets#^dualism|Dualism]] commitment.
 

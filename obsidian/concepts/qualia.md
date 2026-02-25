@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-24T11:14:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ Qualia are the subjective, experiential qualities of conscious states—the redn
 
 The term comes from the Latin *qualis*, meaning "of what kind." In philosophy of mind, qualia (singular: quale) refer to the intrinsic, ineffable, private properties of our conscious experiences. When you see a red apple, there is something it is like to experience that redness—a felt quality that accompanies your perception. This quality is the quale of redness.
 
-Qualia are closely related to [[phenomenal-consciousness]]—the "what it's like" aspect of mental states. While phenomenal consciousness is the broader category (the fact that there is something it is like to be in conscious states at all), qualia are the specific instances of phenomenal properties: the redness of red, the painfulness of pain. Qualia are distinct from [[access-consciousness]], which concerns the functional availability of information for reasoning and report. You might access colour information without experiencing its qualitative character (as in [[blindsight]]), or experience rich qualia without full access (as the [[access-consciousness#The Overflow Argument|overflow argument]] suggests).
+Qualia are closely related to [[phenomenal-consciousness]]—the "what it's like" aspect of mental states. While phenomenal consciousness is the broader category (the fact that there is something it is like to be in conscious states at all), qualia are the specific instances of phenomenal properties: the redness of red, the painfulness of pain. Perceptual qualia are the paradigm cases—the features of [[perception-and-conscious-experience|perceptual experience]] that most vividly resist physical description. Qualia are distinct from [[access-consciousness]], which concerns the functional availability of information for reasoning and report. You might access colour information without experiencing its qualitative character (as in [[blindsight]]), or experience rich qualia without full access (as the [[access-consciousness#The Overflow Argument|overflow argument]] suggests).
 
 ## Why Qualia Matter
 

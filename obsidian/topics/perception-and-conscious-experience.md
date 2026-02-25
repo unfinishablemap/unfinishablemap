@@ -4,8 +4,8 @@ description: "Why perception is the paradigm case for understanding consciousnes
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T03:13:00+00:00
-last_deep_review: 2026-02-23T03:13:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
+last_deep_review: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

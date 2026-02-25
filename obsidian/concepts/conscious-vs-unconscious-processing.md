@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-02T08:32:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ coalesced_from:
 
 If consciousness were merely an epiphenomenal byproduct of neural activity—along for the ride but making no functional difference—then unconscious processes should achieve everything conscious ones can. Yet the empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Consciousness is not a passive observer. It enables specific cognitive functions that unconscious processing cannot achieve: maintaining information in [[working-memory|working memory]] across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.
 
-These findings directly support the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness makes a causal difference to cognition and behavior.
+These findings directly support the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness makes a causal difference to cognition and behavior. [[Perception-and-conscious-experience|Perceptual dissociations]]—blindsight, inattentional blindness, subliminal processing—provide the clearest empirical cases of this conscious/unconscious divide.
 
 ## The Standard Picture (and Its Problems)
 

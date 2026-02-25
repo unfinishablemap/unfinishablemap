@@ -4,7 +4,7 @@ description: "Why experience presents itself as direct contact with reality rath
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-02-13T07:34:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ This self-concealment has consequences far beyond perception. If the representat
 
 Metzinger defines transparency in terms of introspective access to processing stages. A representation is phenomenally transparent when the system generating it cannot detect the earlier processing stages that produced it. The degree of transparency is inversely proportional to the introspective availability of those prior stages.
 
-Consider vision. Light strikes the retina, signals propagate through the lateral geniculate nucleus, visual cortex constructs edge maps, color processing, object recognition—dozens of processing stages. None of this appears in experience. What appears is the apple. The construction is invisible because the constructive processes operate below the threshold of introspective access.
+Consider vision. Light strikes the retina, signals propagate through the lateral geniculate nucleus, visual cortex constructs edge maps, color processing, object recognition—dozens of processing stages. None of this appears in experience. What appears is the apple. The construction is invisible because the constructive processes operate below the threshold of introspective access. Transparency is one of several features of [[perception-and-conscious-experience|perceptual experience]] that resist reduction to neural description—alongside perspectival character, phenomenal richness, and the binding of features into unified scenes.
 
 This is not mere inattention. You cannot attend harder and see the processing stages. Metzinger argues the transparency is cognitively impenetrable to ordinary effort—no casual act of attention can dissolve it, though sustained contemplative training may partially reduce it (see [transparency disruptions](#transparency-disruptions) below). The system operates such that the model presents itself as the world, not as a model of the world. The instruments of representation cannot be represented as instruments.
 

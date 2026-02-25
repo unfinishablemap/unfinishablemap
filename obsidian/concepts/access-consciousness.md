@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-02T02:42:00+00:00
+ai_modified: 2026-02-25T11:29:00+00:00
 draft: false
 last_deep_review: 2026-01-29T14:30:00+00:00
 topics:
@@ -38,7 +38,7 @@ Access consciousness (A-consciousness) is information that is "poised for global
 
 The distinction is philosophically contested. Functionalists reject it as question-begging: they hold that phenomenology just *is* certain functional properties, so defining P-consciousness as something beyond function assumes what needs to be proved. The Map accepts Block's distinction based on the conceivability of [[inverted-qualia|inverted qualia]] and [[philosophical-zombies|zombies]], which suggest phenomenology could vary independently of function. Those who find functionalism compelling will interpret the evidence differently—the distinction is a theoretical commitment, not a neutral framework.
 
-For those who accept the distinction, it matters for [[tenets#^dualism|dualism]] because it shows that acknowledging consciousness's functional role doesn't eliminate the [[hard-problem-of-consciousness|hard problem]]. Blindsight may demonstrate access without phenomenology; the [[phenomenal-overflow|overflow argument]] suggests phenomenology without full access. If these dissociations are real, access consciousness is causally important but cannot be all there is to consciousness.
+For those who accept the distinction, it matters for [[tenets#^dualism|dualism]] because it shows that acknowledging consciousness's functional role doesn't eliminate the [[hard-problem-of-consciousness|hard problem]]. Blindsight may demonstrate access without phenomenology; the [[phenomenal-overflow|overflow argument]] suggests phenomenology without full access. If these dissociations are real, access consciousness is causally important but cannot be all there is to consciousness. See [[perception-and-conscious-experience|perception and conscious experience]] for how these dissociations play out across blindsight, inattentional blindness, and subliminal processing.
 
 ## Defining Access Consciousness {#definition}
 
