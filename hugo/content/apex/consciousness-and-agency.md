@@ -33,6 +33,7 @@ last_deep_review: 2026-01-30 14:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-of-consciousness-doing-work]]'
 title: Consciousness and Agency
 topics:
 - '[[topics/free-will]]'

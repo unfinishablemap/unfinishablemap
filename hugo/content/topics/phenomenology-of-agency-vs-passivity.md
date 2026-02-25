@@ -36,6 +36,7 @@ related_articles:
 - '[[consciousness-and-agency]]'
 - '[[dream-consciousness]]'
 - '[[choking-phenomenon-mental-causation]]'
+- '[[phenomenology-of-consciousness-doing-work]]'
 title: Phenomenology of Agency vs Passivity
 topics:
 - '[[topics/free-will]]'

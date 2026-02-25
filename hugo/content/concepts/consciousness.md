@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-25 12:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,13 +33,14 @@ description: Consciousness is what it is like to be something—the subjective f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 12:00:00+00:00
+last_deep_review: 2026-02-25 12:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[baseline-cognition]]'
 - '[[conscious-vs-unconscious-processing]]'
 - '[[quantum-consciousness]]'
+- '[[free-will]]'
 title: Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -138,7 +139,7 @@ Physicalists have responses to each argument—the phenomenal concept strategy f
 
 [Neural correlates of consciousness](/concepts/neural-correlates-of-consciousness/) (NCCs) are the brain activity patterns that correlate with specific conscious experiences. Research identifies a "posterior cortical hot zone" as particularly associated with conscious content.
 
-NCC findings are compatible with both materialism and dualism. Finding correlations doesn't establish identity. If consciousness interacts with the brain (as the Map holds), tight correlations are exactly what we'd expect. The interface where consciousness reads from and writes to neural activity would show perfect correlation without being the same thing as the neural activity.
+NCC findings are compatible with both materialism and dualism. Finding correlations doesn't establish identity. If consciousness interacts with the brain (as the Map holds), tight correlations are exactly what we'd expect. The interface where consciousness reads from and writes to neural activity would show perfect correlation without being the same thing as the neural activity. This very compatibility raises a challenge: if dualism and materialism predict the same correlations, NCC data alone cannot distinguish them. The distinction must come from philosophical argument, not from brain imaging.
 
 The [explanatory-gap](/concepts/explanatory-gap/) persists despite NCC progress. We know that V4 correlates with colour experience; we don't know *why* V4 activity feels like colour. Correlations multiply without becoming explanations.
 
@@ -178,6 +179,8 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds 
 **Cognitive effects**: [Conscious processing](/concepts/conscious-vs-unconscious-processing/) enables functions unavailable to unconscious processing—durable maintenance, novel combinations, spontaneous intentional action. If consciousness were epiphenomenal, the [baseline cognition](/concepts/baseline-cognition/) hypothesis would make no sense.
 
 **Voluntary action**: We experience initiating actions. While [Libet experiments](/concepts/libet-experiments/) complicate this, they don't eliminate genuine conscious influence—they may show consciousness operating through different temporal dynamics than naive introspection suggests.
+
+Conscious causation connects directly to [free-will](/topics/free-will/): if consciousness genuinely influences physical outcomes, libertarian free will—choices not fully determined by prior physical states—becomes coherent.
 
 The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-motor-quantum-interface](/concepts/attention-as-interface/) for specific proposals.
 
@@ -219,6 +222,8 @@ The Map's extensive coverage of consciousness includes:
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Proposed mechanisms for mind-matter interaction
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — What consciousness adds to cognition
 - [baseline-cognition](/concepts/baseline-cognition/) — Cognitive functions consciousness enables
+- [free-will](/topics/free-will/) — How conscious causation connects to libertarian free will
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — First-person evidence from contemplative practice
 
 ## References
 

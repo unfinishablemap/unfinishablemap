@@ -29,6 +29,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[limits-reveal-structure]]'
 - '[[creativity-void]]'
+- '[[phenomenology-of-consciousness-doing-work]]'
 title: Volitional Opacity
 topics:
 - '[[philosophy-of-mind]]'

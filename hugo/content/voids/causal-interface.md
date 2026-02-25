@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-08 20:29:00+00:00
+ai_modified: 2026-02-25 10:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,12 +20,13 @@ description: Human+AI exploration of why we cannot observe how consciousness cau
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-08 20:29:00+00:00
+last_deep_review: 2026-02-25 10:07:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[tenet-generated-voids]]'
+- '[[agency-verification-void]]'
 - '[[self-reference-paradox]]'
 - '[[defended-territory]]'
 - '[[limits-reveal-structure]]'
@@ -147,9 +148,9 @@ The causal interface void would be undermined if:
 
 ## Relation to Site Perspective
 
-The causal interface void connects directly to the Map's [tenets](/tenets/):
+The causal interface void connects directly to The Unfinishable Map's [tenets](/tenets/):
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is the most relevant. The tenet holds that consciousness causally influences the physical world. This void concerns why we cannot observe *how* that influence operates. The Map asserts causal efficacy while acknowledging that the mechanism is opaque. This is coherent: one would expect an interface between consciousness and physics to be at the edge of what either mode of access can reveal. First-person introspection operates from the consciousness side and cannot see into the physical mechanism. Third-person science operates from the physical side and cannot see consciousness entering as a cause. The interface is precisely where both modes of access fail.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is the most relevant. The tenet holds that consciousness causally influences the physical world. This void concerns why we cannot observe *how* that influence operates. The Map asserts causal efficacy while acknowledging that the mechanism is opaque. This is coherent: one would expect an interface between consciousness and physics to be at the edge of what either mode of access can reveal. The [agency verification void](/voids/agency-verification-void/) reveals a deeper layer: not only is the mechanism hidden, but *whether* consciousness causes anything at all cannot be verified from within. The Map holds Bidirectional Interaction as a starting commitment rather than a derived conclusion—the causal interface void shows why that commitment must be chosen rather than discovered.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** predicts this void. If the interaction between consciousness and physics is minimal—the smallest possible influence on quantum outcomes—then it would be proportionally difficult to observe. A minimal mechanism would leave minimal traces. The opacity is not a bug but a feature of minimising the footprint.
 
@@ -161,6 +162,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each of the five tenets generates its characteristic void
+- [The Agency Verification Void](/voids/agency-verification-void/) — Whether consciousness causes anything at all is structurally unverifiable
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Why consciousness cannot fully model itself
 - [Defended Territory](/voids/defended-territory/) — Could some limits be actively imposed?
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is

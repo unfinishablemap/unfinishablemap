@@ -105,6 +105,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [process-philosophy](/concepts/process-philosophy/)
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
+- [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how cross-cultural invariants join effort, selection, and holding in a unified phenomenological profile
 
 ## References
 

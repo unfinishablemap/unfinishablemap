@@ -18,6 +18,93 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 12:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness](/concepts/consciousness/)
+- **Word count**: 2211 → 2284 (+73)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (NCC falsifiability acknowledgment)
+- **Enhancements made**: 3 (free-will cross-link, contemplative evidence link, NCC section strengthened)
+- **Output**: [deep-review-2026-02-25-consciousness](/reviews/deep-review-2026-02-25-consciousness/)
+
+## 2026-02-25 12:26 UTC - deep-review
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Word count**: 3615 → 3677 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (counterfactual void integration, Bischof-Köhler duplication condensed, cross-link added)
+- **Enhancements made**: 3 (void integration paragraph, condensed cross-reference, Byrne reference added)
+- **Output**: [deep-review-2026-02-25-free-will](/reviews/deep-review-2026-02-25-free-will/)
+
+## 2026-02-25 12:08 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/)
+- **Word count**: 1711 → 1717 (+6, changes were primarily inbound links from other articles)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — added 12 inbound links)
+- **Enhancements made**: 15 (12 inbound links from related articles, 3 outbound cross-links added)
+- **Output**: [deep-review-2026-02-25-consciousness-threshold-in-cognitive-evolution](/reviews/deep-review-2026-02-25-consciousness-threshold-in-cognitive-evolution/)
+
+## 2026-02-25 11:43 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across topics (~103), concepts (~173), tenets (1), voids (~85), apex (13)
+- **Output**: [optimistic-2026-02-25-afternoon](/reviews/optimistic-2026-02-25-afternoon/)
+
+## 2026-02-25 11:29 UTC - deep-review
+- **Status**: Success
+- **File**: [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- **Word count**: 2102 → 2102 (+0, changes were inbound links only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 12 inbound cross-references added from existing articles to resolve orphan status
+- **Output**: [deep-review-2026-02-25-perception-and-conscious-experience](/reviews/deep-review-2026-02-25-perception-and-conscious-experience/)
+
+## 2026-02-25 11:13 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Word count**: 3072 → 3134 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (physicalist/epiphenomenalist distinction, meta-analysis accuracy, LPFC citation)
+- **Enhancements made**: 12 inbound cross-references added to resolve orphan status
+- **Output**: [deep-review-2026-02-25-phenomenology-of-consciousness-doing-work](/reviews/deep-review-2026-02-25-phenomenology-of-consciousness-doing-work/)
+
+## 2026-02-25 10:58 UTC - deep-review
+- **Status**: Success
+- **File**: [downward-causation](/concepts/downward-causation/)
+- **Word count**: 2427 → ~2430 (length-neutral)
+- **Critical issues addressed**: 1 (broken wikilink from coalesce operation)
+- **Medium issues addressed**: 1 (missing Tallis reference for attributed quote)
+- **Enhancements made**: 0 (article already converged; maintenance fixes only)
+- **Output**: [deep-review-2026-02-25-downward-causation](/reviews/deep-review-2026-02-25-downward-causation/)
+
+## 2026-02-25 10:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Narrative Void
+- **Output**: [narrative-void](/voids/narrative-void/)
+- **Word count**: 1494
+- **Based on research**: yes, [voids-narrative-void-2026-02-25](/research/voids-narrative-void-2026-02-25/)
+
+## 2026-02-25 10:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [questioning-as-evidence](/voids/questioning-as-evidence/)
+- **Changes**: Added evidential argument and observer-selection rebuttal (high-severity fix), addressed self-undermining phenomenology, rewrote No Many Worlds connection, qualified Chomsky extension, replaced Dunning-Kruger with McGinn, fixed style guide violation, language fixes
+- **Published**: yes
+
+## 2026-02-25 10:13 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/questioning-as-evidence.md ("The Question as Evidence")
+- **Issues found**: 1 high (central argument unargued), 3 medium (self-undermining phenomenology, weak MWI connection, observer selection dismissed), 1 low (style guide violation)
+- **Output**: [pessimistic-2026-02-25-questioning-as-evidence](/reviews/pessimistic-2026-02-25-questioning-as-evidence/)
+
+## 2026-02-25 10:07 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-interface](/voids/causal-interface/)
+- **Word count**: 2052 → 2082 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-reference, first-mention style, redundant restatement)
+- **Enhancements made**: 3 (agency verification void cross-link, style fix, replaced redundancy with new content)
+- **Output**: [deep-review-2026-02-25-causal-interface](/reviews/deep-review-2026-02-25-causal-interface/)
+
 ## 2026-02-25 09:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Agency Verification Void

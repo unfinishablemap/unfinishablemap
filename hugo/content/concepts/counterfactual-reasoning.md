@@ -78,7 +78,7 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) observes that
 
 The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess. A sated chimpanzee won't store food for future hunger because it cannot consciously represent that future need-state. This limitation reflects restricted counterfactual capacity: the chimpanzee cannot imagine "being hungry tomorrow" with sufficient vividness to motivate present action. The evidence remains debated—some studies show great apes can delay gratification and prepare tools for future use—but even supportive evidence reveals limited temporal horizons compared to human prospection.
 
-Humans transcend this limitation. We plan for need-states we don't currently experience, regret choices we didn't make, and evaluate options against scenarios we've never encountered. This expansion correlates with expanded consciousness—working memory capacity, metarepresentational ability, explicit self-awareness.
+Humans transcend this limitation. We plan for need-states we don't currently experience, regret choices we didn't make, and evaluate options against scenarios we've never encountered. This expansion correlates with expanded consciousness—working memory capacity, metarepresentational ability, explicit self-awareness. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) article argues that counterfactual thinking is one of several capacities that appear together at a phase transition in cognitive evolution, rather than emerging incrementally.
 
 ## Counterfactual Reasoning and Free Will
 

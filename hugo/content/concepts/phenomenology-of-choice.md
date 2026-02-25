@@ -35,6 +35,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[concept-of-free-will]]'
+- '[[phenomenology-of-consciousness-doing-work]]'
 title: Phenomenology of Choice
 topics:
 - '[[topics/free-will]]'

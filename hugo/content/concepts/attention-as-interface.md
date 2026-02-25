@@ -209,7 +209,7 @@ The hypothesis would fail if:
 
 **Quantum approaches**: [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [decoherence](/concepts/decoherence/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [many-worlds](/concepts/many-worlds/)
 
-**Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotional-consciousness](/topics/emotional-consciousness/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+**Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotional-consciousness](/topics/emotional-consciousness/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/), [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/)
 
 **Alternative perspectives**: [illusionism](/concepts/illusionism/), [mysterianism](/concepts/mysterianism/), [attention-schema-theory](/concepts/attention-schema-theory/), [haecceity](/concepts/haecceity/)
 

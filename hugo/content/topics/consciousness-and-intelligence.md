@@ -113,7 +113,7 @@ The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifi
 
 **Logical reasoning**: Empirical research (Lieberman et al. 2008) shows that conscious processing specifically enables rule-based logical reasoning. Disrupting conscious attention impairs logic; disrupting unconscious processes does not.
 
-The pattern is systematic: precisely those capacities that distinguish human from great ape cognition are capacities that appear to require conscious access. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that this correlation is no accident—consciousness enables these capacities rather than merely accompanying them.
+The pattern is systematic: precisely those capacities that distinguish human from great ape cognition are capacities that appear to require conscious access. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) article develops this pattern in detail, arguing that the ape-human discontinuity marks a phase transition where consciousness becomes sufficiently integrated with neural architecture to transform cognitive capacity. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that this correlation is no accident—consciousness enables these capacities rather than merely accompanying them.
 
 ## Implications for Artificial Intelligence
 

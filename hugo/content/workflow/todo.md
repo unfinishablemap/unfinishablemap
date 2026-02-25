@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Deep review epistemological-limits-occams-razor.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) in voids/ created 2026-02-22, never reviewed. Examines the epistemological limits of Occam's Razor — directly supports Tenet 5 (Occam's Razor Has Limits), the Map's least-covered foundational commitment. Quality assurance is especially important for tenet-supporting content. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-25
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -175,6 +181,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
 - **Generated**: 2026-02-24
 
+### P3: Write article on the phenomenology of humour and laughter
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why things are funny is a domain where computational accounts conspicuously fail. Incongruity resolution theories capture joke structure but not the felt quality of amusement — involuntariness, bodily eruption, meaning-bypass. The gestalt-shift of "getting" a joke shares structure with mathematical insight but has distinctive affective valence. The zombie comedian thought experiment provides a new test case for consciousness-causation. Builds on phenomenology-of-understanding.md, consciousness-and-aesthetic-creation.md, phenomenology-of-flow-states.md. See optimistic-2026-02-25-afternoon.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on neurological dissociations as interface architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Taken together, the dissociation pattern maps the interface's functional anatomy — ascending, descending, and bilateral components. Builds on interface-friction.md, pain-asymbolia.md, attention-disorders-and-quantum-interface.md, split-brain.md. See optimistic-2026-02-25-afternoon.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on the epistemology of introspective calibration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies on introspective evidence but has not addressed whether introspection can be systematically calibrated. Engage Schwitzgebel's scepticism (disagreement, overconfidence, systematic biases) against evidence from contemplative traditions (jhana discrimination, interoceptive accuracy in heartbeat detection tasks). Would strengthen epistemological foundations of every phenomenological claim. Builds on introspection-rehabilitation.md, contemplative-methods-as-philosophical-methodology.md, phenomenal-conservatism-and-introspective-evidence.md. See optimistic-2026-02-25-afternoon.md
+- **Generated**: 2026-02-25
+
 ### P3: Write article on the trilemma of selection
 - **Type**: expand-topic
 - **Status**: pending
@@ -199,6 +223,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-02-25
 
+### P2: Write article on objectivity, consciousness, and the view from nowhere
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Thomas Nagel's "view from nowhere" and the tension between objective scientific description and subjective conscious experience. A dedicated treatment would strengthen the Map's epistemological foundations — why third-person methods systematically miss what matters about consciousness. Note: concepts/ at 198/200 cap. Connects to hard-problem-of-consciousness.md, epistemic-advantages-of-dualism.md. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Cross-review defended-territory.md considering agency-verification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/agency-verification-void.md (2026-02-25) examines whether agency can verify itself without circularity. defended-territory.md explores whether certain thoughts are actively blocked by defensive mechanisms — the same architecture that might defend against agency verification. Check for cross-links and complementary arguments about self-concealment and active occlusion.
+- **Source**: chain (from agency-verification-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review the-unobservable-self.md considering narrative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/narrative-void.md (2026-02-25) reveals that the self-story told by consciousness is constructed and often confabulated. the-unobservable-self.md addresses how the observing self cannot observe itself observing — a double bind: consciousness cannot access the narrator any more than it can access the observer. Check for cross-links and argument reinforcement.
+- **Source**: chain (from narrative-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review introspective-opacity.md considering narrative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/narrative-void.md (2026-02-25) examines how self-narrative is constructed and confabulated (Gazzaniga's interpreter). introspective-opacity.md explains why we access mental contents but not mechanisms — narrative confabulation is a specific instance of this broader opacity. Check for cross-links illustrating the contents/process distinction.
+- **Source**: chain (from narrative-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Integrate ownership-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-24). The ownership void examines why experience feels like it belongs to someone. Add cross-references from related articles — self-and-consciousness.md, the-unobservable-self.md, phenomenal-consciousness.md, and void articles exploring related aspects of subjectivity.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-19). Topics article on how contemplative traditions converge on key claims about consciousness. Should be linked from contemplative-methods-as-philosophical-methodology.md, meditation-and-consciousness-modes.md, the-observer-witness-in-meditation.md, and cross-cultural philosophy articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-15). Topics article on consciousness and pain — a central phenomenological case for irreducibility. Should be linked from qualia.md, hard-problem-of-consciousness.md, pain-asymbolia.md, phenomenal-consciousness.md, and related clinical/phenomenological articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -219,6 +285,44 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review free-will.md considering counterfactual void insights
+- **Type**: cross-review
+- **Notes**: New article voids/counterfactual-void.md (2026-02-25) reveals that modal cognition — imagining what could have been otherwise — is architecturally constrained. free-will.md extensively uses counterfactual reasoning ("could have done otherwise"). The counterfactual void's finding that this modal faculty has invisible boundaries directly impacts libertarian free will arguments. Add cross-reference and address this constraint.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering counterfactual void insights
+
+### ✓ 2026-02-25: Integrate consciousness-threshold-in-cognitive-evolution.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) has no inbound links. Examines where consciousness emerges in cognitive evolution — directly relevant to animal-consciousness.md, consciousness-as-amplifier.md, and consciousness-evolution-problem.md. Add cross-references from these related articles.
+- **Output**: obsidian/topics/consciousness-threshold-in-cognitive-evolution.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-25: Integrate perception-and-conscious-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) has no inbound links. Perception is a central topic for consciousness studies and should be cross-referenced from related articles on phenomenology, qualia, and sensory experience.
+- **Output**: obsidian/topics/perception-and-conscious-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-25: Integrate phenomenology-of-consciousness-doing-work.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (created 2026-02-23) has no inbound links. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, it should be well-connected. Add cross-references from related articles (phenomenology-of-effort.md, consciousness-and-causal-powers.md, bidirectional-interaction articles) or update apex index.
+- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-25: Write voids article on the narrative void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-narrative-void-2026-02-25.md. The narrative void examines why consciousness constructs narrative structure from experience and whether this structuring distorts or reveals what it captures. Connects to introspective-opacity.md, past-self-void.md, and the Map's phenomenological methodology. Target section: voids/.
+- **Output**: Write voids article on the narrative void
+
+### ✓ 2026-02-25: Address gaps in voids/questioning-as-evidence.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: the article's central argument (questioning capacity is evidential) is asserted but never argued. Also: observer selection effects dismissed too quickly, self-undermining phenomenology section, weak No Many Worlds connection, and a style guide violation. See pessimistic-2026-02-25-questioning-as-evidence.md
+- **Output**: obsidian/voids/questioning-as-evidence.md
+
+Task context:
+Pessimistic review found high-severity issue: the article's central argument (questioning capacity is evidential) is asserted but never argued. Also: observer selection effects dismissed too quickly, self-undermining phenomenology section, weak No Many Worlds connection, and a style guide violation. See pessimistic-2026-02-25-questioning-as-evidence.md
+
+### ✓ 2026-02-25: Cross-review causal-interface.md considering agency verification void insights
+- **Type**: cross-review
+- **Notes**: New article voids/agency-verification-void.md (2026-02-25) shows consciousness cannot verify its own causal efficacy — the verification problem. causal-interface.md covers how consciousness accesses causal channels — the access problem. These are complementary: one asks how the interface works, the other asks whether we can confirm it works at all. Add cross-references and distinguish access from verification. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/voids/causal-interface.md -- Context: Cross-review causal-interface.md considering agency verification void insights
 
 ### ✓ 2026-02-25: Write voids article on the agency verification void
 - **Type**: expand-topic

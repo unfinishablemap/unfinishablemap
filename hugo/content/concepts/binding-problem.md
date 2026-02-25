@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-24 08:13:00+00:00
+ai_modified: 2026-02-25 11:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -70,7 +70,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 BP2 is the "hard" aspect of binding. As researchers note, "A unified conscious moment with several bits of information presents an apparent physical paradox since it implies that several spatially separate objects exert causal power simultaneously." The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/concepts/phenomenal-binding-and-holism/)** concerns features from different senses. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/concepts/phenomenal-binding-and-holism/)** concerns features from different senses. Both are explored in [perception and conscious experience](/topics/perception-and-conscious-experience/), where binding contributes to the unified character of perceptual awareness. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
 
 ### The Illusionist Challenge
 

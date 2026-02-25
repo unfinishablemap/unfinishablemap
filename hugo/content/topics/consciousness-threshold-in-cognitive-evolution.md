@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 13:50:00+00:00
+ai_modified: 2026-02-25 12:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,12 +22,15 @@ description: Cognitive evolution appears to cross a threshold where consciousnes
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 13:50:00+00:00
+last_deep_review: 2026-02-25 12:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-evolution-problem]]'
+- '[[consciousness-and-intelligence]]'
 - '[[consciousness-in-simple-organisms]]'
+- '[[language-recursion-and-consciousness]]'
+- '[[comparative-consciousness-and-interface-differences]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
 - '[[voids-threshold-void-2026-02-20]]'
 title: The Consciousness Threshold in Cognitive Evolution
@@ -115,9 +118,12 @@ The threshold also reinforces the Map's rejection of [epiphenomenalism](/concept
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - [baseline-cognition](/concepts/baseline-cognition/)
+- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
 - [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
 - [animal-consciousness](/topics/animal-consciousness/)
+- [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
 
 ## References
 

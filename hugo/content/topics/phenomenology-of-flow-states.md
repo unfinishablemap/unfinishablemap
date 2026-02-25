@@ -155,6 +155,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 - [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/) — How skill development creates the conditions for flow
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The consciousness levels that flow navigates between
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Another case where phenomenal experience dissociates from its expected functional role
+- [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: flow as a test case revealing that the four features of working consciousness are partially dissociable
 
 ## References
 

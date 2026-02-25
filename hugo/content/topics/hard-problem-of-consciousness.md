@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-02-24 16:27:00+00:00
+ai_modified: 2026-02-25 11:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -102,7 +102,7 @@ Consider a paradigm physical explanation: water is H₂O. Given the molecular fa
 
 Now consider: pain is C-fiber firing (or some other neural state). Does this explain why pain *hurts*? Even with perfect knowledge of C-fiber dynamics, the felt quality of pain—the burning, throbbing, aching character—remains unexplained. The identity might be true in some metaphysical sense, but it doesn't *explain*. Why does C-fiber firing feel like *that*? Why does it feel like *anything*?
 
-This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely.
+This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely. [Perception](/topics/perception-and-conscious-experience/) provides the clearest cases: dissociations like blindsight, the richness of phenomenal overflow, the perspectival character of seeing, and the transparency of perceptual experience each reveal precisely where physical description falls short.
 
 As Russell and Eddington observed, physics tells us what things *do*—how they relate to other things—but not what they *are* intrinsically. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) lies at the heart of scientific knowledge: every physical description is relational. Consciousness may be our only window into intrinsic nature, which is why structural descriptions—however complete—cannot reach it.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 13:36:00+00:00
+ai_modified: 2026-02-25 11:13:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-02-23 12:07:00+00:00
 apex_sources:
@@ -32,6 +32,7 @@ description: What does it feel like when consciousness acts on matter? Effort, s
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-25 11:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +60,7 @@ The most immediate phenomenological signature of consciousness at work is [effor
 
 Effort phenomenology has a specific structure. It scales with difficulty — hard tasks feel harder than easy ones. It depletes — sustained effort leads to fatigue that recovers with rest. It can be voluntarily intensified — you can try harder, and the increase in effort is phenomenologically accessible. And it feels categorically different from physical exertion — mental tiredness after sustained reasoning is not the same as muscular tiredness after lifting weights.
 
-A physicalist can respond that the brain's resource-monitoring systems generate the feeling of effort regardless of whether a separate non-physical entity is involved. This is correct as far as it goes — but it does not explain the *tracking*. If consciousness is epiphenomenal, the correlation between felt effort and objective cognitive load is a brute regularity requiring independent explanation. The brain generates both the processing and the feeling, but under epiphenomenalism there is no reason the feeling should so precisely mirror the processing rather than varying arbitrarily or remaining constant. The Map's framework offers a simpler account: the feeling tracks the load because consciousness is doing the work that generates the load. The illusionist must explain why the "illusion" of effort scales with objective cognitive load rather than varying randomly or dissipating under careful introspection. In practice, [contemplative training](/concepts/meditation-and-consciousness-modes/) *refines* the effort distinction rather than dissolving it — experienced meditators report clearer discrimination between effortful and effortless states, not a collapse of the distinction into illusion.
+A physicalist can respond that the brain's resource-monitoring systems generate the feeling of effort regardless of whether a separate non-physical entity is involved. An identity theorist or functionalist can go further: if consciousness just *is* the relevant neural processing, then of course the phenomenology tracks the demand — there is no gap to bridge. This is correct as far as it goes, but only by absorbing phenomenology into physics at the cost of the [hard problem](/topics/hard-problem-of-consciousness/). The tracking argument targets epiphenomenalism specifically: if consciousness is a byproduct that does nothing, the correlation between felt effort and objective cognitive load is a brute regularity requiring independent explanation. The brain generates both the processing and the feeling, but under epiphenomenalism there is no reason the feeling should so precisely mirror the processing rather than varying arbitrarily or remaining constant. The Map's framework offers a simpler account: the feeling tracks the load because consciousness is doing the work that generates the load. The illusionist must explain why the "illusion" of effort scales with objective cognitive load rather than varying randomly or dissipating under careful introspection. In practice, [contemplative training](/concepts/meditation-and-consciousness-modes/) *refines* the effort distinction rather than dissolving it — experienced meditators report clearer discrimination between effortful and effortless states, not a collapse of the distinction into illusion.
 
 ### Selection: The Feel of Choosing
 
@@ -98,9 +99,9 @@ Three phenomena reveal these four features in action and illuminate their relati
 
 ### Mental Imagery as Demonstrable Work
 
-[Voluntary mental imagery](/topics/mental-imagery-causal-role-of-consciousness/) provides a concrete demonstration of consciousness doing measurable work. Meta-analyses of mental practice research consistently find moderate to large positive effects on motor performance (Driskell et al., 1994; Feltz & Landers, 1983). The improvement depends on the *content* of what is consciously imagined — rehearsing a piano passage improves that passage, not unrelated ones. All four features are present: effort (imagery takes work), selection (you choose what to imagine), holding (you sustain the image over time), and opacity (you cannot observe how imagining produces motor improvement).
+[Voluntary mental imagery](/topics/mental-imagery-causal-role-of-consciousness/) provides a concrete demonstration of consciousness doing measurable work. Meta-analyses of mental practice research consistently find moderate positive effects on motor performance, with effect sizes (Cohen's *d*) typically between 0.4 and 0.7 (Driskell et al., 1994; Feltz & Landers, 1983). The improvement depends on the *content* of what is consciously imagined — rehearsing a piano passage improves that passage, not unrelated ones. All four features are present: effort (imagery takes work), selection (you choose what to imagine), holding (you sustain the image over time), and opacity (you cannot observe how imagining produces motor improvement).
 
-The voluntary/involuntary dissociation in imagery is especially revealing. Voluntary imagery — deliberate visualisation, mental rotation, creative planning — is mediated by the lateral prefrontal cortex. Involuntary imagery — dreams, flashbacks, earworms — operates independently. These are not merely different descriptions of the same process but different neural systems with different capacities. Damage to the LPFC impairs voluntary imagery while leaving dreaming intact. The system associated with conscious control enables cognitive functions — planning, counterfactual reasoning, creative combination — that the system without it does not.
+The voluntary/involuntary dissociation in imagery is especially revealing. Voluntary imagery — deliberate visualisation, mental rotation, creative planning — is mediated by the lateral prefrontal cortex. Involuntary imagery — dreams, flashbacks, earworms — operates independently. These are not merely different descriptions of the same process but different neural systems with different capacities. Damage to the LPFC impairs voluntary imagery while leaving dreaming intact (see [the imagery article](/topics/mental-imagery-causal-role-of-consciousness/) for detailed evidence). The system associated with conscious control enables cognitive functions — planning, counterfactual reasoning, creative combination — that the system without it does not.
 
 If consciousness were epiphenomenal, the voluntary/involuntary distinction should be phenomenological decoration on functionally identical processes. Instead, the distinction tracks different mechanisms producing different outcomes — exactly what the Map's framework predicts for a consciousness that contributes genuine causal work.
 

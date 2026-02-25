@@ -68,7 +68,7 @@ Consider processing depth:
 
 Each level of embedding consumes WM slots. With 2±1 capacity, even depth-2 sentences become precarious. With 7±2 capacity, depth-3 or depth-4 becomes manageable, though performance degrades with deeper embedding (as psycholinguistic studies confirm).
 
-The [consciousness-as-amplifier hypothesis](/concepts/consciousness-as-amplifier/) treats WM expansion as a key mechanism through which consciousness transforms cognition. Recursion may be the paradigm case: the expansion from ape to human WM capacity enables recursive linguistic structure that would otherwise exceed cognitive bandwidth.
+The [consciousness-as-amplifier hypothesis](/concepts/consciousness-as-amplifier/) treats WM expansion as a key mechanism through which consciousness transforms cognition. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) article argues this expansion marks a phase transition—not merely more capacity but a qualitative change in how consciousness couples with neural architecture. Recursion may be the paradigm case: the expansion from ape to human WM capacity enables recursive linguistic structure that would otherwise exceed cognitive bandwidth.
 
 ## The Consciousness Connection
 

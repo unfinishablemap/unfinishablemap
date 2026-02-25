@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 15:33:00+00:00
+ai_modified: 2026-02-25 11:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,7 +34,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Visual consciousness is the phenomenal experience of seeing—what it's like to perceive colour, shape, motion, and spatial arrangement. When you look at a red apple, there is something it is like to experience its redness, its roundness, its position in space. This experiential quality constitutes visual consciousness, distinct from the mere processing of visual information that occurs in early visual cortex.
+Visual consciousness is the phenomenal experience of seeing—what it's like to perceive colour, shape, motion, and spatial arrangement. It exemplifies the broader framework of [perception and conscious experience](/topics/perception-and-conscious-experience/), where dissociations, phenomenal richness, and perspectival character reveal consciousness's irreducibility. When you look at a red apple, there is something it is like to experience its redness, its roundness, its position in space. This experiential quality constitutes visual consciousness, distinct from the mere processing of visual information that occurs in early visual cortex.
 
 The distinction matters because sophisticated visual processing can occur without visual consciousness, as [blindsight](/concepts/blindsight/) demonstrates. Patients with damage to primary visual cortex (V1) can discriminate visual stimuli—identifying location, motion direction, even emotional expressions—while reporting no conscious experience of seeing. Visual information reaches decision systems and guides action, yet produces no [qualia](/concepts/qualia/). This dissociation reveals that visual consciousness is not reducible to visual processing.
 

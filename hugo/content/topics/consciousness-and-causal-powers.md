@@ -202,3 +202,4 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why mental causation need not violate physical conservation
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where and why consciousness interfaces with the physical
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — The measurement problem as window for mental causation
+- [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers

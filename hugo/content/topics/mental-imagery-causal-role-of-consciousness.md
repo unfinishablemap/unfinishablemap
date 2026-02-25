@@ -29,6 +29,7 @@ related_articles:
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[empirical-evidence-for-consciousness-selecting]]'
+- '[[phenomenology-of-consciousness-doing-work]]'
 title: Mental Imagery and the Causal Role of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
