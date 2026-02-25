@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the imagination void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-imagination-void-2026-02-25.md. The imagination void examines how imaginative capacity both reveals and constitutes cognitive limits — we can imagine alternatives to almost anything except the act of imagining itself. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Write voids article on the calibration void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-calibration-void-2026-02-24.md. The calibration void examines the impossibility of calibrating consciousness against an independent standard — every calibration attempt uses the very faculty being tested. Target section: voids/.
@@ -236,6 +230,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the imagination void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-imagination-void-2026-02-25.md. The imagination void examines how imaginative capacity both reveals and constitutes cognitive limits — we can imagine alternatives to almost anything except the act of imagining itself. Target section: voids/.
+- **Output**: Write voids article on the imagination void
 
 ### ✓ 2026-02-25: Cross-review cognitive-aversion.md considering appetitive-void insights
 - **Type**: cross-review
