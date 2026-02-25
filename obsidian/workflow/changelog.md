@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 16:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/locality]]
+- **Word count**: 1409 → 1423 (+14)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (correlation/causation distinction in Response 1, uncited references removed, AI refinement log cleaned up, broken concept frontmatter fixed)
+- **Enhancements made**: 1 (cross-link to [[causal-closure]])
+- **Output**: [[reviews/deep-review-2026-02-25-locality]]
+
 ## 2026-02-25 15:39 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: contemplative-evidence-convergence-across-traditions.md
