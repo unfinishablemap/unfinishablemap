@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 04:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Simulation Detection Void
+- **Output**: [[voids/simulation-detection-void]]
+- **Word count**: 1392
+- **Based on research**: yes, [[research/voids-simulation-detection-void-2026-02-11]]
+
 ## 2026-02-25 04:12 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Cartography Problem

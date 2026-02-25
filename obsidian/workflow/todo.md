@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the simulation detection void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-simulation-detection-void-2026-02-11.md. Examines the impossibility of determining from within whether one's conscious experience is simulated — a void at the intersection of epistemology and phenomenology. Connects to defended-territory, epistemology-of-cognitive-limits, simulation. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Write voids article on the counterfactual void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-counterfactual-void-2026-02-13.md. Explores the impossibility of imagining or experiencing what consciousness would be like under genuinely different conditions — we can only ever think counterfactually from within our actual phenomenology. Connects to conceptual-impossibility, past-self-void, consciousness-only-territories. Target section: voids/.
@@ -246,6 +240,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the simulation detection void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-simulation-detection-void-2026-02-11.md. Examines the impossibility of determining from within whether one's conscious experience is simulated — a void at the intersection of epistemology and phenomenology. Connects to defended-territory, epistemology-of-cognitive-limits, simulation. Target section: voids/.
+- **Output**: Write voids article on the simulation detection void
 
 ### ✓ 2026-02-25: Write voids article on the cartography problem
 - **Type**: expand-topic
