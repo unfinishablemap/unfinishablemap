@@ -61,7 +61,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 ### Foundational Articles
 
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
-- [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the deepest void
+- [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Using the structure of failure as data
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 

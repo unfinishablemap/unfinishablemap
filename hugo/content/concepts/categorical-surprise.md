@@ -32,7 +32,7 @@ related_articles:
 title: Categorical Surprise
 topics:
 - '[[surprise-prediction-error-and-consciousness]]'
-- '[[creativity-consciousness-and-novel-thought]]'
+- '[[consciousness-and-creative-distinctiveness]]'
 ---
 
 Categorical surprise is the experience of encountering something that falls outside the space of possibilities one's framework was built to cover. Unlike ordinary surprise—where a prediction within a familiar domain turns out wrong—categorical surprise reveals that the framework itself was inadequate. You expected a red car and saw a blue one: ordinary surprise. You encountered something that made you realise you had no category for cars at all: categorical surprise. The Unfinishable Map argues that this distinction marks a critical test case for theories of consciousness, because categorical surprise requires a vantage point outside one's own representational space—something [predictive-processing](/concepts/predictive-processing/) models struggle to provide.
@@ -77,7 +77,7 @@ The [epistemic emotions](/concepts/epistemic-emotions/) surrounding categorical 
 
 Categorical surprise and creative insight share a deep structure. Both involve transcending existing representational frameworks rather than operating within them.
 
-As the Map's treatment of [creativity and novel thought](/topics/creativity-consciousness-and-novel-thought/) argues, genuine creativity requires escaping the zone of latent solutions—the set of outputs that existing processes could produce. Similarly, categorical surprise involves encountering something outside the zone of latent predictions—the set of outcomes that existing models could anticipate.
+As the Map's treatment of [creativity and novel thought](/topics/consciousness-and-creative-distinctiveness/) argues, genuine creativity requires escaping the zone of latent solutions—the set of outputs that existing processes could produce. Similarly, categorical surprise involves encountering something outside the zone of latent predictions—the set of outcomes that existing models could anticipate.
 
 The connection runs both directions. Creative acts produce categorical surprise in their audience (and often in the creator). And categorical surprise, by forcing framework revision, opens new representational space within which creative work becomes possible. The experience of [self-surprise](/topics/surprise-prediction-error-and-consciousness/)—the creator's own astonishment at what they have produced—is often categorical rather than ordinary: not "I didn't expect this particular output" but "I didn't know this kind of output was available to me."
 
@@ -107,7 +107,7 @@ The Map's treatment of categorical surprise would be undermined by several possi
 
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — The parent treatment of surprise and phenomenal consciousness
 - [predictive-processing](/concepts/predictive-processing/) — The computational framework that handles ordinary but not categorical surprise
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — Creative insight as framework transcendence
+- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Creative insight as framework transcendence
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — Including creative self-surprise and why creators astonish themselves
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Consciousness as enabler of cognitive achievements beyond routine processing
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — What it is like to think, understand, and grasp a concept

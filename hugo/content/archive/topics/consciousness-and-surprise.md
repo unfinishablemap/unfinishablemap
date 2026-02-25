@@ -127,7 +127,7 @@ Ordinary prediction errors involve mismatches within a familiar domain. You expe
 
 This kind of surprise—call it *categorical surprise*—resists straightforward computational modelling because it involves recognising the inadequacy of one's own representational framework, not just updating values within it. Bayesian model selection and active inference (extensions of PP developed by Friston and colleagues) handle model-level comparison—choosing among predefined alternative models. But categorical surprise goes further: it confronts a situation where no model in the current repertoire applies. The system must recognise that its entire space of models is inadequate, which requires a vantage point outside that space.
 
-This parallels what Kuhn described in scientific revolutions at the social scale: not a new answer within an existing paradigm but a new way of asking questions. Categorical surprise is where consciousness as [intelligence amplifier](/concepts/consciousness-as-amplifier/) becomes most visible, and where [creative thought](/topics/creativity-consciousness-and-novel-thought/) intersects with the phenomenology of the unexpected. The felt quality of "I didn't even know this was possible" is the phenomenal marker of a framework being transcended.
+This parallels what Kuhn described in scientific revolutions at the social scale: not a new answer within an existing paradigm but a new way of asking questions. Categorical surprise is where consciousness as [intelligence amplifier](/concepts/consciousness-as-amplifier/) becomes most visible, and where [creative thought](/topics/consciousness-and-creative-distinctiveness/) intersects with the phenomenology of the unexpected. The felt quality of "I didn't even know this was possible" is the phenomenal marker of a framework being transcended.
 
 ## Relation to Site Perspective
 
@@ -152,7 +152,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness doesn't cause anything
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Another case against epiphenomenalism from a different angle
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — Creative insight and the encounter with genuine novelty
+- [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — Creative insight and the encounter with genuine novelty
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources
 - [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of affective states

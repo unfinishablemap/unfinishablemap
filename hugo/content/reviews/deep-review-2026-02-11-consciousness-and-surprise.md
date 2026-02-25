@@ -58,13 +58,13 @@ topics: []
 - Added identity theory engagement in anti-epiphenomenalism section (+1 paragraph)
 - Strengthened categorical surprise section with active inference engagement
 - Added No Many Worlds tenet to Relation to Site Perspective
-- Added cross-link to [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) in body text
-- Expanded Further Reading with 4 new entries: [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/), [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/), [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/), [epistemic-emotions](/concepts/epistemic-emotions/)
+- Added cross-link to [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) in body text
+- Expanded Further Reading with 4 new entries: [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/), [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/), [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/), [epistemic-emotions](/concepts/epistemic-emotions/)
 - Added [epistemic-emotions](/concepts/epistemic-emotions/) and [cognitive-phenomenology](/concepts/cognitive-phenomenology/) to concepts frontmatter
 - Added [structure-of-attention](/topics/structure-of-attention/), [emotional-consciousness](/topics/emotional-consciousness/), [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/), [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) to related_articles frontmatter
 
 ### Cross-links Added
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) (in body)
+- [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) (in body)
 - [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/) (Further Reading)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (Further Reading)
 - [epistemic-emotions](/concepts/epistemic-emotions/) (Further Reading + concepts)

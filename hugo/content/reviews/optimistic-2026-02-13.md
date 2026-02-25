@@ -121,7 +121,7 @@ The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-an
 ### High Priority
 
 #### Consciousness and Aesthetic Creation
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/), [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/), [distinctiveness-of-human-creativity](/topics/consciousness-and-creative-distinctiveness/)
 - **Would address**: The gap between the Map's treatment of aesthetic *experience* (well developed) and aesthetic *creation*. How does consciousness's selection function manifest in artistic production? The interface hypothesis predicts specific differences between computational art generation and conscious artistic creation.
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Bidirectional interaction (consciousness causing novel aesthetic objects), dualism (aesthetic inspiration as phenomenally irreducible)

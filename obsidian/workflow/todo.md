@@ -198,6 +198,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-24
 
+### P2: Cross-review whether-real.md considering cartography-problem insights
+- **Type**: cross-review
+- **Notes**: New article voids/cartography-problem.md (2026-02-25) examines whether mapping consciousness necessarily distorts what it maps — a meta-void about the project of void-exploration itself. whether-real.md examines the ontological status of voids. The cartography problem raises the question of whether void cataloging introduces artifacts, directly relevant to whether voids are "real" features or products of investigation. Check for cross-links and argument reinforcement.
+- **Source**: chain (from cartography-problem.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review incompleteness-void.md considering cartography-problem insights
+- **Type**: cross-review
+- **Notes**: New article voids/cartography-problem.md (2026-02-25) explicitly compares itself to the incompleteness void — the cartography problem operates at the meta-level (voids in the voids framework) while the incompleteness void applies Gödel to mathematical cognition. Cross-review to sharpen this distinction, add cross-links, and ensure consistent treatment of formal incompleteness across levels.
+- **Source**: chain (from cartography-problem.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review defended-territory.md considering simulation-detection-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/simulation-detection-void.md (2026-02-25) directly invokes the defended territory framework — if we are simulated, thoughts approaching simulation detection might be actively deflected. defended-territory.md should cross-reference this as a paradigmatic case where the territory actively resists cognitive approach. Add cross-links and check for argument reinforcement.
+- **Source**: chain (from simulation-detection-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Write voids article on the agency verification void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-agency-verification-void-2026-02-15.md. The agency verification void examines the impossibility of verifying one's own causal agency from within — directly relevant to Tenet 3 (Bidirectional Interaction). If consciousness causally influences the physical through quantum selection, can we verify this from the inside? Connects to free-will.md, agent-causation.md, self-reference-paradox.md. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Write voids article on the reality-feeling void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-reality-feeling-void-2026-02-14.md. The reality-feeling void examines why experience carries a sense of reality — what makes the real feel real — and why this quality resists analysis. Directly relevant to Tenet 1 (Dualism) and the hard problem: the feeling of reality is a phenomenal quality that seems irreducible to functional description. Connects to hard-problem-of-consciousness.md, whether-real.md, phenomenal-consciousness.md. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md

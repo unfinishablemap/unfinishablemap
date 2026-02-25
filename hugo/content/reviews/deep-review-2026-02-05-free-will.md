@@ -28,7 +28,7 @@ None. The article has been through twelve previous reviews and all critical issu
 
 ### Medium Issues Found
 
-1. **Creativity integration could be strengthened**: The article briefly mentions that consciousness generates possibilities through imagination (line 133-134), but the recently coalesced [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) article develops the generation-selection synthesis more fully. The free-will article's agent-causal framework emphasises selection (brain prepares options, consciousness selects), but the creativity insights show consciousness also generates the space of alternatives—strengthening the agent-causal case.
+1. **Creativity integration could be strengthened**: The article briefly mentions that consciousness generates possibilities through imagination (line 133-134), but the recently coalesced [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) article develops the generation-selection synthesis more fully. The free-will article's agent-causal framework emphasises selection (brain prepares options, consciousness selects), but the creativity insights show consciousness also generates the space of alternatives—strengthening the agent-causal case.
    - **Resolution**: Expanded the creativity paragraph to integrate the generation-selection synthesis insight, noting that exploratory attention opens possibilities that didn't exist before exploration. Added cross-link to the new topic article.
 
 ### Attribution Accuracy Check
@@ -63,15 +63,15 @@ All attributions previously verified in prior reviews. No new claims to check.
 
 ### Enhancements Made
 
-1. **Creativity-consciousness integration**: Expanded the creativity paragraph to integrate the generation-selection synthesis from the newly coalesced [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) article. Now notes that consciousness contributes both which options become actual and which options exist to begin with.
+1. **Creativity-consciousness integration**: Expanded the creativity paragraph to integrate the generation-selection synthesis from the newly coalesced [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) article. Now notes that consciousness contributes both which options become actual and which options exist to begin with.
 
 2. **Cross-link additions**:
-   - Updated inline link from [consciousness-and-creativity](/concepts/consciousness-and-creativity/) to [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) as the main topic reference
-   - Added [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) to Further Reading
-   - Added [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) to related_articles frontmatter
+   - Updated inline link from [consciousness-and-creativity](/concepts/consciousness-and-creativity/) to [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) as the main topic reference
+   - Added [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) to Further Reading
+   - Added [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) to related_articles frontmatter
 
 ### Cross-links Added
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables novel combination
+- [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables novel combination
 
 ## Word Count
 

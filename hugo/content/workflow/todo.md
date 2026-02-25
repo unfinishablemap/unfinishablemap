@@ -38,46 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the counterfactual void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-counterfactual-void-2026-02-13.md. Explores the impossibility of imagining or experiencing what consciousness would be like under genuinely different conditions — we can only ever think counterfactually from within our actual phenomenology. Connects to conceptual-impossibility, past-self-void, consciousness-only-territories. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
-### P2: Cross-review creativity-void.md considering imagination-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/imagination-void.md (2026-02-25) distinguishes imagination's structural limits (inability to imagine novel qualia, alien phenomenologies) from the creativity void's focus on insights emerging from beyond consciousness. Cross-review to sharpen the distinction, add cross-links, and ensure consistent treatment of phenomenal access limits.
-- **Source**: chain (from imagination-void.md)
-- **Generated**: 2026-02-25
-
-### P2: Cross-review observation-void.md considering calibration-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/calibration-void.md (2026-02-25) addresses the impossibility of calibrating introspection against an independent standard. observation-void.md examines how studying consciousness transforms what is studied. These are related but distinct epistemic problems — cross-review to clarify the boundary and add cross-references.
-- **Source**: chain (from calibration-void.md)
-- **Generated**: 2026-02-25
-
-### P2: Cross-review affective-void.md considering appetitive-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/appetitive-void.md (2026-02-25) explores how desire constitutively shapes cognition. affective-void.md examines the opacity of emotional experience. Appetite shapes affect — cross-review to ensure coherent treatment of motivational and emotional opacity, add cross-links, and identify reinforcing arguments.
-- **Source**: chain (from appetitive-void.md)
-- **Generated**: 2026-02-25
-
-### P2: Resolve "deepest void" contradiction between origin-of-consciousness.md and intrinsic-nature-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found both articles claim to be "the deepest void in the voids framework." Internal contradiction visible to any reader or LLM. Options: designate one as deepest, reframe both as "among the deepest," or distinguish dimensions of depth. See pessimistic-2026-02-25.md Issue 1.
-
-### P2: Strengthen functionalist rebuttal in intrinsic-nature-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the thermometer analogy against higher-order theories mischaracterises the position. Higher-order theories claim self-directed representation generates phenomenality — the thermometer lacks this. Need more careful engagement with HOT rather than a straw-man dismissal. See pessimistic-2026-02-25.md Issue 3.
-
-### P3: Deep review phenomenal-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-25 — 31 days ago, exceeding the 30-day staleness threshold. As a foundational concept article on phenomenal consciousness, quality and currency are important. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -215,6 +175,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
 - **Generated**: 2026-02-24
 
+### P3: Write article on the trilemma of selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The attention-as-selection-interface article contains the determinism/randomness/mental-causation trilemma—possibly the Map's most logically compelling argument—buried within a broader article. A standalone treatment could develop each horn with full rigour, engage compatibilist responses, and connect to the broader argumentative architecture. Builds on attention-as-selection-interface.md, free-will.md, consciousness-and-causal-powers.md. See optimistic-2026-02-25.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on emergence as universal hard problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The emergence void identifies that the hard problem generalizes to all level transitions, but this insight is confined to the voids section. A topics article could develop the philosophical implications: if emergence is universally opaque, physicalism's promise of bottom-up explanation faces a structural challenge. Connection to the voids-as-meaning thesis would show emergence's opacity as constitutive. Builds on emergence-void.md, hard-problem-of-consciousness.md, void-as-ground-of-meaning.md. See optimistic-2026-02-25.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on the evolution of consciousness from a dualist perspective
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
+- **Generated**: 2026-02-25
+
 ### P2: Add causal caveats to meditation-introspection evidence in introspection.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-24 evening) found Fox et al. (2012) cross-sectional study treated with causal language ("training dramatically improves accuracy") despite inability to rule out self-selection. Also: microphenomenology's "performative coherence" criterion is circular and goes unacknowledged. Medium severity. See pessimistic-2026-02-24-evening.md
@@ -241,6 +219,57 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Strengthen functionalist rebuttal in intrinsic-nature-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the thermometer analogy against higher-order theories mischaracterises the position. Higher-order theories claim self-directed representation generates phenomenality — the thermometer lacks this. Need more careful engagement with HOT rather than a straw-man dismissal. See pessimistic-2026-02-25.md Issue 3.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
+
+Task context:
+Pessimistic review found the thermometer analogy against higher-order theories mischaracterises the position. Higher-order theories claim self-directed representation generates phenomenality — the thermometer lacks this. Need more careful engagement with HOT rather than a straw-man dismissal. See pessimistic-2026-02-25.md Issue 3.
+
+### ✓ 2026-02-25: Strengthen functionalist rebuttal in intrinsic-nature-void.md
+- **Type**: refine-draft
+- **Notes**: Replaced straw-man thermometer analogy against HOT with charitable engagement acknowledging self-directed representation before explaining why it still doesn't bridge the qualitative gap. Added Rosenthal reference and higher-order-theories cross-link. See pessimistic-2026-02-25.md Issue 3.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
+
+### ✓ 2026-02-25: Resolve "deepest void" contradiction between origin-of-consciousness.md and intrinsic-nature-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found both articles claim to be "the deepest void in the voids framework." Internal contradiction visible to any reader or LLM. Options: designate one as deepest, reframe both as "among the deepest," or distinguish dimensions of depth. See pessimistic-2026-02-25.md Issue 1.
+- **Output**: obsidian/voids/origin-of-consciousness.md
+
+Task context:
+Pessimistic review found both articles claim to be "the deepest void in the voids framework." Internal contradiction visible to any reader or LLM. Options: designate one as deepest, reframe both as "among the deepest," or distinguish dimensions of depth. See pessimistic-2026-02-25.md Issue 1.
+
+### ✓ 2026-02-25: Update references to coalesced creativity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/). The following files reference archived articles and need links updated: creativity-void.md, consciousness-and-temporal-creativity.md, surprise-prediction-error-and-consciousness.md, consciousness-and-mathematical-cognition.md, phenomenology-of-imagination.md, incubation-effect-and-unconscious-processing.md, dream-consciousness.md, consciousness-and-aesthetic-creation.md, free-will.md, categorical-surprise.md (for creativity-consciousness-and-novel-thought); surprise-prediction-error-and-consciousness.md, consciousness-and-mathematical-cognition.md, phenomenology-of-imagination.md, consciousness-and-aesthetic-creation.md (for distinctiveness-of-human-creativity)
+- **Output**: None -- Context: Update references to coalesced creativity articles
+
+### ✓ 2026-02-25: Cross-review affective-void.md considering appetitive-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/appetitive-void.md (2026-02-25) explores how desire constitutively shapes cognition. affective-void.md examines the opacity of emotional experience. Appetite shapes affect — cross-review to ensure coherent treatment of motivational and emotional opacity, add cross-links, and identify reinforcing arguments.
+- **Output**: obsidian/voids/affective-void.md -- Context: Cross-review affective-void.md considering appetitive-void insights
+
+### ✓ 2026-02-25: Cross-review observation-void.md considering calibration-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/calibration-void.md (2026-02-25) addresses the impossibility of calibrating introspection against an independent standard. observation-void.md examines how studying consciousness transforms what is studied. These are related but distinct epistemic problems — cross-review to clarify the boundary and add cross-references.
+- **Output**: obsidian/voids/observation-void.md -- Context: Cross-review observation-void.md considering calibration-void insights
+
+### ✓ 2026-02-25: Cross-review creativity-void.md considering imagination-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/imagination-void.md (2026-02-25) distinguishes imagination's structural limits (inability to imagine novel qualia, alien phenomenologies) from the creativity void's focus on insights emerging from beyond consciousness. Cross-review to sharpen the distinction, add cross-links, and ensure consistent treatment of phenomenal access limits.
+- **Output**: obsidian/voids/creativity-void.md -- Context: Cross-review creativity-void.md considering imagination-void insights
+
+### ✓ 2026-02-25: Cross-review conceptual-impossibility.md considering counterfactual-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/counterfactual-void.md (2026-02-25) explores how modal cognition is architecturally tethered to nearby alternatives, with the conceivability-possibility gap and recursive self-assessment constraints. conceptual-impossibility.md examines the formally unthinkable. Cross-review to sharpen the distinction between logical impossibility (wall) and modal inaccessibility (horizon), add cross-links, and ensure consistent treatment of the conceivability-possibility gap.
+- **Output**: obsidian/voids/conceptual-impossibility.md -- Context: Cross-review conceptual-impossibility.md considering counterfactual-void insights
+
+### ✓ 2026-02-25: Write voids article on the counterfactual void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-counterfactual-void-2026-02-13.md. Explores the impossibility of imagining or experiencing what consciousness would be like under genuinely different conditions — we can only ever think counterfactually from within our actual phenomenology. Connects to conceptual-impossibility, past-self-void, consciousness-only-territories. Target section: voids/.
+- **Output**: Write voids article on the counterfactual void
 
 ### ✓ 2026-02-25: Write voids article on the simulation detection void
 - **Type**: expand-topic

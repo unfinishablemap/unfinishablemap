@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-03 06:07:00+00:00
+ai_modified: 2026-02-25 04:42:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -21,7 +21,7 @@ concepts:
 - '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[stapp-quantum-mind]]'
-- '[[voluntary-attention]]'
+- '[[voluntary-attention-control-mechanisms]]'
 created: 2026-01-22
 date: &id001 2026-01-25
 description: What it is like to be in a mental state—the subjective quality of experience.
@@ -29,7 +29,7 @@ description: What it is like to be in a mental state—the subjective quality of
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 11:00:00+00:00
+last_deep_review: 2026-02-25 04:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

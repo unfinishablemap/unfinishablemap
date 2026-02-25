@@ -110,7 +110,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 - **Tenet alignment**: Bidirectional Interaction, Dualism
 
 #### Phenomenology of Aesthetic Creation
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/)
 - **Would address**: The Map has articles on aesthetic experience and creativity separately, but a focused treatment of the phenomenology of artistic creation—the felt experience of creative insight, the relationship between skill, spontaneity, and consciousness—would chart genuinely underexplored territory.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (creative consciousness causally shaping physical outputs), Occam's Razor Has Limits (reducing creativity to neural computation misses the phenomenology)

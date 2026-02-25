@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-04 10:14:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-02-25 07:28:00+00:00
+ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/altered-states-consciousness/
@@ -23,7 +23,7 @@ description: Altered states reveal consciousness's range through meditation, psy
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 11:49:09+00:00
+last_deep_review: 2026-02-25 07:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,6 +33,8 @@ related_articles:
 - '[[concepts/epiphenomenalism]]'
 - '[[mysterianism]]'
 - '[[qualia]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[contemplative-evidence-for-consciousness]]'
 title: Altered States of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -67,7 +69,7 @@ Several findings support the filter interpretation:
 
 A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. A deeper version notes that psychedelics disrupt the very neural processes required for accurate introspection—how can we trust reports from compromised metacognitive systems? The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Pure confabulation would be random; genuine filter-loosening would be informative. Clinical studies of psilocybin-assisted therapy show lasting improvements in depression and anxiety that correlate with reported mystical-type experiences, suggesting the insights have functional validity beyond subjective impression.
 
-**Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour et al. (2024) demonstrate this asymmetry neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences. If consciousness were simply produced by brain states, similar behavioural suppression should correlate with similar phenomenal suppression. The divergence suggests the brain *mediates* rather than *generates* experience.
+**Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour and Bharioke (2024) demonstrate this asymmetry through neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences. If consciousness were simply produced by brain states, similar behavioural suppression should correlate with similar phenomenal suppression. The divergence suggests the brain *mediates* rather than *generates* experience.
 
 **Information received but not perceived.** Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived—what they term "received but not perceived." The signal arrives; something prevents its manifestation in consciousness. This is precisely what filter theory predicts—disruption of interface rather than disruption of consciousness itself.
 
@@ -79,7 +81,7 @@ The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics 
 
 Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/neural-correlates-of-consciousness/#the-default-mode-network)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally.
 
-The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [decoherence](/concepts/decoherence/) objection that thermal noise should destroy superpositions almost instantly. However, 2024 evidence of macroscopic quantum entanglement signatures in living human brains (correlated with conscious states via MRI) suggests the decoherence problem may be less fatal than Tegmark calculated. The mechanism deserves continued investigation rather than dismissal.
+The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [decoherence](/concepts/decoherence/) objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and Pérez López (2022) detected MRI signals consistent with quantum entanglement in living human brains, with the entanglement signatures correlating with conscious states and disappearing when subjects fell asleep. If confirmed, this suggests the decoherence problem may be less prohibitive than Tegmark calculated. The mechanism deserves continued investigation rather than dismissal.
 
 ### Flow States
 
@@ -89,7 +91,7 @@ Filter theory resolves the paradox. Flow involves consciousness *releasing* acti
 
 ### Hypnosis
 
-Recent neuroimaging (2025) confirms that hypnosis alters executive control network integration, corresponding to altered subjective sense of agency. Highly hypnotisable individuals show increased anterior default mode network activity. The key insight: altered sense of agency maps directly to altered neural patterns, but the direction of causation remains open. From the Map's perspective, hypnotic suggestion may work by consciousness voluntarily reconfiguring its interface rather than brain states simply overriding consciousness.
+Neuroimaging confirms that hypnosis alters executive control network integration, corresponding to altered subjective sense of agency. Highly hypnotisable individuals show greater functional connectivity between executive control and salience networks (Jiang et al., 2017). The key insight: altered sense of agency maps directly to altered neural patterns, but the direction of causation remains open. From the Map's perspective, hypnotic suggestion may work by consciousness voluntarily reconfiguring its interface rather than brain states simply overriding consciousness.
 
 ### Meditation
 
@@ -101,7 +103,7 @@ Cessation events illuminate filter theory directly. Unlike anesthesia (where con
 
 ### Near-Death Experiences
 
-A 2024 University of Michigan study found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
+Xu et al. (2023) found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
 
 The empirical status remains contested. Sceptics note the lack of falsifiable predictions and that some neural activity persists, so consciousness has not been shown to exist entirely without brain function. Advocates argue that some cases resist conventional explanation, and that organised, coherent experiences occurring when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly.
 
@@ -141,6 +143,8 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced consciousness during brain compromise
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming states
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across states and species?
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How anaesthetic agents reconfigure the consciousness interface
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Contemplative practices as evidence for irreducible consciousness
 
 ## References
 
@@ -152,7 +156,11 @@ Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 
 James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 
+Jiang, H., White, M. P., Greicius, M. D., Waelde, L. C. & Spiegel, D. (2017). Brain activity and functional connectivity associated with hypnosis. *Cerebral Cortex*, 27(8), 4083-4093.
+
 Kelly, E. F. et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
+
+Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 
 Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
 
@@ -161,3 +169,5 @@ Rivas, T., Dirven, A. & Smit, R. (2023). *The Self Does Not Die: Verified Parano
 Tart, C. T. (Ed.). (1969). *Altered States of Consciousness*. Wiley.
 
 Wang, H. et al. (2025). Thalamic nuclei orchestrating consciousness through state-specific connectivity. *Communications Biology*, 8, 92.
+
+Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.

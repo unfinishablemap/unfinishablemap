@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Creativity, Consciousness, and Novel Thought](/topics/creativity-consciousness-and-novel-thought/)
+**Article**: [Creativity, Consciousness, and Novel Thought](/topics/consciousness-and-creative-distinctiveness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

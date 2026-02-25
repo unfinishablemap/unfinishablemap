@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-11
-**Article**: [The Distinctiveness of Human Creativity](/topics/distinctiveness-of-human-creativity/)
+**Article**: [The Distinctiveness of Human Creativity](/topics/consciousness-and-creative-distinctiveness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

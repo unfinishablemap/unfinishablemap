@@ -38,7 +38,7 @@ last_deep_review: 2026-02-24 15:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[creativity-consciousness-and-novel-thought]]'
+- '[[consciousness-and-creative-distinctiveness]]'
 - '[[dream-consciousness-void]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 title: Dream Consciousness
@@ -171,7 +171,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model of consciousness
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — The epistemic boundary between waking and dreaming
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness gradations during sleep stages
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The creative loop and consciousness's role in novel combination
+- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — The creative loop and consciousness's role in novel combination
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions

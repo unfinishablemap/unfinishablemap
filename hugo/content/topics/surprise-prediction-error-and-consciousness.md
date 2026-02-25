@@ -48,9 +48,8 @@ related_articles:
 - '[[phenomenology-of-error-recognition]]'
 - '[[phenomenology-of-epistemic-judgment]]'
 - '[[phenomenology-of-epistemic-judgment]]'
-- '[[creativity-consciousness-and-novel-thought]]'
+- '[[consciousness-and-creative-distinctiveness]]'
 - '[[consciousness-and-mathematical-cognition]]'
-- '[[distinctiveness-of-human-creativity]]'
 - '[[creativity-void]]'
 title: Surprise, Prediction Error, and Consciousness
 topics:
@@ -212,8 +211,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness does not cause anything
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Another case against epiphenomenalism
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables novel thought
-- [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — What sets human creativity apart
+- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables creative distinctiveness
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Surprise and insight in mathematics
 - [creativity-void](/voids/creativity-void/) — The boundary of what minds can generate
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects

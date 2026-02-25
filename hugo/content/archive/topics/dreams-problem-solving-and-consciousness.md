@@ -75,7 +75,7 @@ What might make dream cognition differently capable? The answer likely lies in t
 
 **Relaxed constraint, preserved processing.** During waking, the Executive Control Network maintains focus but narrows the search space. During REM, prefrontal deactivation loosens executive control while posterior cortical regions remain highly active. The brain's associative machinery runs without the usual constraints—free to connect ideas that waking focus would dismiss as irrelevant.
 
-**The Default Mode Network unbound.** The DMN, associated with mind-wandering and remote associative thinking during wakefulness, operates extensively during REM sleep. Released from executive oversight, it explores conceptual territory that focused attention would not visit. This aligns with [the creative loop model](/topics/creativity-consciousness-and-novel-thought/): the DMN generates candidate solutions while evaluative systems are quiescent. When the dreamer wakes, the ECN can evaluate what the DMN produced overnight.
+**The Default Mode Network unbound.** The DMN, associated with mind-wandering and remote associative thinking during wakefulness, operates extensively during REM sleep. Released from executive oversight, it explores conceptual territory that focused attention would not visit. This aligns with [the creative loop model](/topics/consciousness-and-creative-distinctiveness/): the DMN generates candidate solutions while evaluative systems are quiescent. When the dreamer wakes, the ECN can evaluate what the DMN produced overnight.
 
 **Emotional reweighting.** REM sleep involves heightened amygdala activation alongside prefrontal deactivation. Problems may be re-encoded with different emotional salience, allowing approach from angles that waking anxiety or frustration blocked. The emotional dimension of dreaming is not incidental but functional—it reshapes the problem's motivational landscape.
 
@@ -108,7 +108,7 @@ Three features of the evidence create difficulty for this interpretation, though
 
 ## Dream Problem-Solving and the Creative Loop
 
-Dream problem-solving integrates naturally with the [creative loop model](/topics/creativity-consciousness-and-novel-thought/#the-creative-loop). The loop alternates between DMN-driven generation and ECN-driven evaluation, with consciousness orchestrating transitions. Dreams extend this loop across the sleep-wake cycle:
+Dream problem-solving integrates naturally with the [creative loop model](/topics/consciousness-and-creative-distinctiveness/#the-creative-loop). The loop alternates between DMN-driven generation and ECN-driven evaluation, with consciousness orchestrating transitions. Dreams extend this loop across the sleep-wake cycle:
 
 1. **Waking formulation** (conscious, ECN-dominant): Define the problem, attempt solutions, hit impasse
 2. **Sleep incubation** (DMN-dominant): Released from executive constraint, associative networks explore solution space with wider scope
@@ -145,7 +145,7 @@ The causal interpretation of dream problem-solving would face difficulty if:
 
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Broader treatment of dream phenomenology and the filter model
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Lucid dreaming as distinct consciousness state
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The creative loop and consciousness's role in novel combination
+- [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — The creative loop and consciousness's role in novel combination
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness gradations during sleep stages
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions

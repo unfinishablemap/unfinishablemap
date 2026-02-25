@@ -109,7 +109,7 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 - [valence](/concepts/valence/) — The concept of hedonic valence and competing philosophical accounts
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach — the range problem, not the structure problem
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself — valence as a case of intrinsic nature
-- [origin-of-consciousness](/voids/origin-of-consciousness/) — Why consciousness exists at all — the deepest void
+- [origin-of-consciousness](/voids/origin-of-consciousness/) — Why consciousness exists at all — the most logically prior void
 - [emergence-void](/voids/emergence-void/) — How arrangement produces novelty
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded

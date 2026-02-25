@@ -78,7 +78,7 @@ A tension arises here that deserves acknowledgment. The "sense of discovery" dis
 
 This is Margaret Boden's *transformational creativity*: not combining existing ideas or exploring within established rules, but changing the rules themselves. Transformational creativity in mathematics produces what was "downright impossible" within the previous framework. No amount of exploring pre-Cantorian mathematics yields transfinite cardinals, because the conceptual space forbids them.
 
-The [zone of latent solutions](/topics/creativity-consciousness-and-novel-thought/) concept captures why this matters. Great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. But mathematical transformational creativity exits every zone. It requires representing the current mathematical framework *as* a framework—seeing its assumptions, questioning its boundaries, and constructing something beyond them. This Metarepresentation—taking one's own conceptual apparatus as an object of thought—is precisely what consciousness-requiring functions enable.
+The [zone of latent solutions](/topics/consciousness-and-creative-distinctiveness/) concept captures why this matters. Great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. But mathematical transformational creativity exits every zone. It requires representing the current mathematical framework *as* a framework—seeing its assumptions, questioning its boundaries, and constructing something beyond them. This Metarepresentation—taking one's own conceptual apparatus as an object of thought—is precisely what consciousness-requiring functions enable.
 
 ## The Gödel Connection
 
@@ -150,8 +150,8 @@ The [illusionist](/concepts/illusionism/) challenge also applies: if phenomenal 
 
 - Consciousness And Mathematical Understanding — Penrose's Gödelian argument and the phenomenology of mathematical insight
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — Mechanisms of creative consciousness
-- [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — Why human creativity differs in kind from animal and AI creativity
+- [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — Mechanisms of creative consciousness
+- [distinctiveness-of-human-creativity](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from animal and AI creativity
 - [creativity-void](/voids/creativity-void/) — The phenomenologically hidden source of creative insight
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
 - [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal

@@ -157,7 +157,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 - **Tenet alignment**: Universal phenomenology would strengthen the evidence base for Bidirectional Interaction
 
 #### The Phenomenology of Mathematical Creativity
-- **Builds on**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
+- **Builds on**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/), [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/)
 - **Would address**: What mathematicians report about insight, proof discovery, and the "rightness" of solutions
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports consciousness's role in novel combination beyond recombination
@@ -183,7 +183,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 |------|-----|--------|
 | [collapse-before-minds](/concepts/prebiotic-collapse/) | [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) | Direct treatment of the mechanisms |
 | [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address first-person dimension |
-| [free-will](/topics/free-will/) | [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) | Both involve consciousness generating possibilities |
+| [free-will](/topics/free-will/) | [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) | Both involve consciousness generating possibilities |
 | [ai-consciousness](/topics/ai-consciousness/) | [continual-learning-argument](/concepts/continual-learning-argument/) | Core argument deserves prominent linking |
 | [meaning-of-life](/topics/meaning-of-life/) | [consciousness-value-connection](/concepts/consciousness-value-connection/) | Both ground value in consciousness |
 | [philosophical-zombies](/concepts/philosophical-zombies/) | [illusionism](/concepts/illusionism/) | Detailed treatment of the illusionist response |

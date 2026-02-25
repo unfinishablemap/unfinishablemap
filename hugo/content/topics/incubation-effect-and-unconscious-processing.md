@@ -24,7 +24,7 @@ last_deep_review: 2026-02-13 00:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[creativity-consciousness-and-novel-thought]]'
+- '[[consciousness-and-creative-distinctiveness]]'
 - '[[dream-consciousness]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
@@ -80,7 +80,7 @@ Stepping away shifts the brain from ECN-dominant focused attention to DMN-domina
 
 The claim here is about *phenomenal* consciousness — the experiential dimension — not merely [global workspace](/concepts/global-workspace-theory/) access. A physicalist might reinterpret "conscious preparation" as "information entering the global workspace," but the dream evidence (discussed in the next section) shows that *phenomenal mode* matters: REM dreaming produces creative benefits that NREM sleep does not, even though both involve brain-wide information processing. What distinguishes the effective state is the presence of experience, not just neural architecture.
 
-The [network switching mechanism](/topics/creativity-consciousness-and-novel-thought/#network-switching-as-mechanism) is central here. Creative ability correlates not with DMN or ECN activity alone but with the capacity to dynamically switch between them. Incubation provides a natural switch from ECN to DMN. But the switch is only productive because the ECN phase — conscious, effortful problem engagement — has already structured what the DMN explores.
+The [network switching mechanism](/topics/consciousness-and-creative-distinctiveness/#network-switching) is central here. Creative ability correlates not with DMN or ECN activity alone but with the capacity to dynamically switch between them. Incubation provides a natural switch from ECN to DMN. But the switch is only productive because the ECN phase — conscious, effortful problem engagement — has already structured what the DMN explores.
 
 ### Return and Selection (Conscious)
 
@@ -132,7 +132,7 @@ The Map's interpretation of incubation would face difficulty if:
 ## Further Reading
 
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence that consciousness enables functions unconscious processing cannot achieve
-- [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The creative loop integrating generation and selection
+- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — The creative loop integrating generation and selection
 - [dream-consciousness](/topics/dream-consciousness/) — Dream incubation and the sleep-wake creative cycle
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [mental-effort](/concepts/mental-effort/) — Why conscious engagement feels like work

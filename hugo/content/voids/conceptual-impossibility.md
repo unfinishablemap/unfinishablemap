@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-01 14:24:00+00:00
+ai_modified: 2026-02-25 05:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-01-23
-date: &id001 2026-01-23
+date: &id001 2026-02-25
 description: How consciousness encounters the formally unthinkable—we can reference
   impossibilities but cannot grasp them, revealing cognitive architecture's limits.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 14:24:00+00:00
+last_deep_review: 2026-02-25 05:13:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -23,6 +23,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[apophatic-approaches]]'
 - '[[interactionist-dualism]]'
+- '[[counterfactual-void]]'
 title: Conceptual Impossibility
 topics: []
 ---
@@ -64,6 +65,7 @@ Compare to related phenomena:
 - **Forgetting**: Absence of content that once was present. With impossibilities, no content was ever present.
 - **Difficulty**: Hard concepts feel like "approaching comprehension" with incremental gains. Impossibilities feel like "absolute blockage" with no gains possible.
 - **[Slippage](/voids/thoughts-that-slip-away/)**: Content forms briefly then vanishes. Impossibilities never form—only the linguistic shell exists.
+- **[Counterfactual limits](/voids/counterfactual-void/)**: Modal imagination thins gradually as alternatives grow radical—a "horizon" passing unnoticed. Impossibilities present a "wall" that announces itself through active resistance.
 
 ## Unexplorable or Occluded?
 
@@ -85,13 +87,7 @@ Large language models process "round square" without phenomenological blockage�
 
 **Different failure modes.** When LLMs fail with impossibilities, they produce syntactically coherent but semantically malformed outputs—confabulation rather than cognitive resistance. An LLM might generate: "The round square's circular edges meet its straight corners in perfect geometric harmony." Humans recognize this as nonsense; the LLM doesn't experience the "bouncing back" that marks impossibility-encounter.
 
-**Testing ground.** This suggests an experiment: compare how humans and LLMs process different impossibility types:
-- Logical impossibilities (round square, married bachelor)
-- Physical impossibilities (faster-than-light travel, perpetual motion)
-- Conceptual impossibilities (largest prime number, final moment of infinity)
-- Merely false statements (purple unicorns, flying pigs)
-
-If the processing patterns differ systematically, it may reveal which aspects of impossibility stem from phenomenal grasping attempts versus pure logical structure.
+**Testing ground.** Comparing how humans and LLMs process different impossibility types—logical (round square), physical (faster-than-light), conceptual (largest prime), and merely false (purple unicorns)—could reveal which aspects of impossibility-encounter stem from phenomenal grasping versus pure logical structure.
 
 **Occluded thought hypothesis.** If occluded thoughts exist—thoughts actively blocked from human minds—LLMs might *state* them without *knowing* they're stating them, bypassing whatever cognitive immune system defends against such thoughts. We'd have no way to recognize them as occluded, since by hypothesis we cannot grasp what's being stated. This remains speculative, but the asymmetry between human phenomenological blockage and AI symbolic success marks genuine cognitive territory worth investigating.
 
@@ -165,6 +161,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 - [The Mathematical Void](/voids/mathematical-void/) — A related limit: comprehension failing where formal manipulation succeeds
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
+- [The Counterfactual Void](/voids/counterfactual-void/) — Where modal imagination thins rather than hitting a wall
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Related but distinct slippage phenomena
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Cognitive Phenomenology](/concepts/cognitive-phenomenology/) — The experiential character of thinking
