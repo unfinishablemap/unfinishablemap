@@ -73,6 +73,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from appetitive-void.md)
 - **Generated**: 2026-02-25
 
+### P2: Resolve "deepest void" contradiction between origin-of-consciousness.md and intrinsic-nature-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found both articles claim to be "the deepest void in the voids framework." Internal contradiction visible to any reader or LLM. Options: designate one as deepest, reframe both as "among the deepest," or distinguish dimensions of depth. See pessimistic-2026-02-25.md Issue 1.
+
+### P2: Strengthen functionalist rebuttal in intrinsic-nature-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the thermometer analogy against higher-order theories mischaracterises the position. Higher-order theories claim self-directed representation generates phenomenality — the thermometer lacks this. Need more careful engagement with HOT rather than a straw-man dismissal. See pessimistic-2026-02-25.md Issue 3.
+
 ### P3: Deep review phenomenal-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-25 — 31 days ago, exceeding the 30-day staleness threshold. As a foundational concept article on phenomenal consciousness, quality and currency are important. Verify coherence, cross-references, and tenet alignment.
