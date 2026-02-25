@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the calibration void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-calibration-void-2026-02-24.md. The calibration void examines the impossibility of calibrating consciousness against an independent standard — every calibration attempt uses the very faculty being tested. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
-### P2: Write voids article on the surplus void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-surplus-void-2026-02-23.md. The surplus void examines how conscious experience consistently exceeds what functional or informational accounts predict — the felt "more" that resists theoretical capture. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Review self-reference-paradox.md considering compound cognitive limits insights
 - **Type**: cross-review
 - **Notes**: New article voids/compound-cognitive-limits.md uses self-reference-paradox as a case study in mutual reinforcement of cognitive limits. self-reference-paradox.md should cross-reference how compound interactions create superadditive interference patterns beyond single-limit breakdowns.
@@ -230,6 +218,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the calibration void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-calibration-void-2026-02-24.md. The calibration void examines the impossibility of calibrating consciousness against an independent standard — every calibration attempt uses the very faculty being tested. Target section: voids/.
+- **Output**: Write voids article on the calibration void
+
+### ✓ 2026-02-25: Write voids article on the calibration void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-calibration-void-2026-02-24.md. The calibration void examines the impossibility of calibrating consciousness against an independent standard — every calibration attempt uses the very faculty being tested. Target section: voids/.
+- **Output**: voids/calibration-void
 
 ### ✓ 2026-02-25: Write voids article on the imagination void
 - **Type**: expand-topic
