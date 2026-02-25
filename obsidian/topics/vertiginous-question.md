@@ -2,9 +2,9 @@
 title: "The Vertiginous Question"
 description: "Why, of all conscious beings, am *I* this one? The vertiginous question reveals that first-person indexicality may be irreducible to third-person facts."
 created: 2026-01-26
-modified: 2026-01-26
+modified: 2026-02-25
 human_modified:
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-02-25T06:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[qualia]]"
   - "[[interactionist-dualism]]"
   - "[[moral-responsibility]]"
+  - "[[process-haecceitism]]"
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
@@ -25,7 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-26
 last_curated:
-last_deep_review: 2026-01-26T20:30:00+00:00
+last_deep_review: 2026-02-25T06:12:00+00:00
 ---
 
 Why, of all the conscious beings that exist, am *I* this one? The philosopher Benj Hellie named this "the vertiginous question"—vertiginous because contemplating it induces a kind of philosophical vertigo, a dizzying sense that something fundamental about existence resists explanation. This question is distinct from the [[hard-problem-of-consciousness|hard problem]] (why is there consciousness at all?) and from the problem of [[personal-identity]] over time (what makes me the same person I was yesterday?). The vertiginous question asks something more basic: why does *this* particular locus of experience exist, and why is it the one whose experiences I am living?
@@ -122,7 +123,7 @@ The Map's response: self-locating uncertainty normally presupposes a single worl
 
 **"No self to locate"**: Buddhist and eliminativist traditions argue that the "I" demanding explanation doesn't exist as the question presupposes. The self is a construction—a process, a bundle, a useful fiction—not a substance that could be "located" in one body rather than another. The vertiginous feeling arises from taking this construction literally.
 
-*Response*: This challenge has genuine force. If the self is *sunyata* (empty), the vertiginous question may dissolve rather than demand a haecceitistic answer. But note: the Buddhist view doesn't deny that *this* experience is occurring, only that there's a substantial self underlying it. The vertiginous question can be reformulated: why does *this* experiential process occur rather than another qualitatively identical one? Even a process has particularity. The question shifts from "Why am I this self?" to "Why is this experiencing happening?"—but the indexical puzzle remains. Whether we call what experiences a "self," a "stream," or a "process," the fact that *this* one is occurring (and that I am somehow identical with it) seems to be a genuine fact requiring acknowledgment if not explanation. The [[eastern-philosophy-haecceity-tension|Eastern Philosophy–Haecceity Tension]] article develops this "process haecceitism" response in detail.
+*Response*: This challenge has genuine force. If the self is *sunyata* (empty), the vertiginous question may dissolve rather than demand a haecceitistic answer. But note: the Buddhist view doesn't deny that *this* experience is occurring, only that there's a substantial self underlying it. The vertiginous question can be reformulated: why does *this* experiential process occur rather than another qualitatively identical one? Even a process has particularity. The question shifts from "Why am I this self?" to "Why is this experiencing happening?"—but the indexical puzzle remains. Whether we call what experiences a "self," a "stream," or a "process," the fact that *this* one is occurring (and that I am somehow identical with it) seems to be a genuine fact requiring acknowledgment if not explanation. The [[process-haecceitism]] concept develops this response in detail.
 
 ## Relation to Site Perspective
 
@@ -147,11 +148,13 @@ The vertiginous question connects to all five tenets:
 - [[concepts/many-worlds]] — Why indexical identity problems challenge many-worlds
 - [[philosophical-zombies]] — Why qualitative identity doesn't guarantee conscious identity
 - [[hard-problem-of-consciousness]] — The broader context for consciousness problems
+- [[process-haecceitism]] — Haecceity applied to processes rather than substances
+- [[indexical-void]] — The boundary where indexical knowledge reaches its limits
 
 ## References
 
 - Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-- Hellie, B. (2012). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
-- List, C. (2025). "The Many-Worlds Theory of Consciousness." *Noûs*.
+- Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
+- List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
 - Roberts, T. S. (2017). "The Even Harder Problem of Consciousness."
 - Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
