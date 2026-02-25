@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-31T09:28:00+00:00
+ai_modified: 2026-02-25T22:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -164,6 +164,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 ## Further Reading
 
 ### Site Content
+- [[language-and-consciousness]] — How reference to consciousness resists standard theories of meaning
 - [[explanatory-gap]] — The gap PCS tries to explain away
 - [[philosophical-zombies]] — Chalmers's conceivability argument
 - [[qualia]] — The experiential properties at issue

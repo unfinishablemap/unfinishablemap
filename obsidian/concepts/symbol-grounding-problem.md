@@ -4,7 +4,7 @@ description: "How symbols acquire meaning intrinsic to a system rather than para
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-03T09:52:00+00:00
+ai_modified: 2026-02-25T22:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ This connects the symbol grounding problem to the [[hard-problem-of-consciousnes
 
 The distinction parallels findings in [[working-memory]] research: information can be *maintained* unconsciously (through activity-silent synaptic traces), but *manipulating* that information—using it, comparing it, integrating it—requires conscious access. Similarly, symbols can be *stored* in functional relation to world states (thin grounding), but genuinely *meaning* something may require the conscious manipulation that underlies understanding. As explored in [[language-recursion-and-consciousness|the connection between language, recursion, and consciousness]], using grounded symbols—parsing recursive structures, integrating semantic content—appears to require phenomenal experience in ways that passive storage does not.
 
-The connection runs through [[intentionality]]. Genuine meaning requires genuine "aboutness"—thoughts that are intrinsically directed toward their objects. Searle distinguishes *original* intentionality (intrinsic to minds) from *derived* intentionality (assigned by minds). A stop sign has derived intentionality: it means "stop" only because we assigned that meaning. A thought about Paris has original intentionality: it is *intrinsically* about Paris, not merely assigned that meaning by some external interpreter.
+The connection runs through [[intentionality]]. As the [[language-and-consciousness|philosophy of language and consciousness]] demonstrates, meaning, reference, and verification all behave anomalously when applied to phenomenal experience—anomalies that suggest consciousness cannot be dissolved by linguistic analysis. Genuine meaning requires genuine "aboutness"—thoughts that are intrinsically directed toward their objects. Searle distinguishes *original* intentionality (intrinsic to minds) from *derived* intentionality (assigned by minds). A stop sign has derived intentionality: it means "stop" only because we assigned that meaning. A thought about Paris has original intentionality: it is *intrinsically* about Paris, not merely assigned that meaning by some external interpreter.
 
 The [[phenomenal-intentionality|phenomenal intentionality thesis]] argues that original intentionality derives from phenomenal consciousness. What makes a thought genuinely *about* something is inseparable from what it's *like* to have that thought. If this is correct, the symbol grounding problem cannot be solved without solving the hard problem. Symbols in a purely computational system would lack original intentionality—they would be about things only in the way stop signs are about stopping.
 
@@ -141,6 +141,7 @@ The symbol grounding problem connects to all five tenets:
 ## Further Reading
 
 - [[phenomenal-intentionality]] — Why genuine meaning requires phenomenal consciousness
+- [[language-and-consciousness]] — How philosophy of language reveals that meaning depends on consciousness
 - [[intentionality]] — The aboutness of mental states and phenomenal intentionality
 - [[consciousness-and-semantic-understanding]] — Why meaning is constitutively phenomenal
 - [[language-recursion-and-consciousness]] — How recursive language requires conscious processing

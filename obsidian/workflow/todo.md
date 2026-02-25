@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate language-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-23). Concepts article on the relationship between language and consciousness — central to phenomenological methodology and the limits of propositional description. Should be linked from phenomenology articles, the-silence-void.md, and cognitive phenomenology content.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/mind-space-void.md (2026-02-25) examines the spatial phenomenology of inner experience. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. The mind-space void reveals that mental space itself has a distinctive phenomenology — spatial qualities without physical extent — which may sharpen the edge phenomenology's treatment of where experience meets its limits. Check for cross-links and argument reinforcement.
@@ -266,6 +260,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Integrate language-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-23). Concepts article on the relationship between language and consciousness — central to phenomenological methodology and the limits of propositional description. Should be linked from phenomenology articles, the-silence-void.md, and cognitive phenomenology content.
+- **Output**: obsidian/concepts/language-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-25: Integrate adaptive-computational-depth.md into site navigation
 - **Type**: integrate-orphan
