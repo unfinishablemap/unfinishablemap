@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 00:01 UTC - deep-review
+- **Status**: Success
+- **File**: [Against Materialism](/arguments/materialism-argument/)
+- **Word count**: 2155 → 2333 (+178)
+- **Critical issues addressed**: 5 (missing description, "This page" style violation, Conclusion after References, Wigner uncited, Tenet 4 omitted)
+- **Medium issues addressed**: 4 (illusionism regress unengaged, contemplative unsupported claim, determinism/closure conflation, missing knowledge argument)
+- **Enhancements made**: 5 (knowledge argument paragraph, Tenet 4 paragraph, Wigner attribution, 6 cross-links added, Further Reading expanded)
+- **Output**: [deep-review-2026-02-25-materialism-argument](/reviews/deep-review-2026-02-25-materialism-argument/)
+
+## 2026-02-24 23:55 UTC - deep-review
+- **Status**: Success
+- **File**: [whether-real](/voids/whether-real/)
+- **Word count**: 2995 → 2993 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-reference, vague opening, missing description)
+- **Enhancements made**: 4 (evidential-weight-of-voids integration, prose tightening, consolidated inference section)
+- **Output**: [deep-review-2026-02-24-whether-real](/reviews/deep-review-2026-02-24-whether-real/)
+
 ## 2026-02-24 23:25 UTC - refine-draft
 - **Status**: Success
 - **File**: [dreams-and-consciousness](/concepts/dreams-and-consciousness/)
