@@ -15,7 +15,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[qualia]]"
   - "[[concepts/materialism]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[knowledge-argument]]"

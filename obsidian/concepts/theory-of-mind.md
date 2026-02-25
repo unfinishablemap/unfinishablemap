@@ -20,7 +20,7 @@ concepts:
   - "[[teaching-as-metarepresentation]]"
   - "[[intentionality]]"
   - "[[illusionism]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
@@ -61,7 +61,7 @@ Level 2 appears to require something beyond tracking behaviour and perception—
 
 Representing others' mental states about mental states. "She thinks that I think the food is hidden" involves nested attribution—beliefs about beliefs, intentions about intentions. This enables strategic deception, deception detection, and the complex coordination of human social life.
 
-Level 3 unambiguously requires metarepresentation. You must hold multiple representational levels simultaneously: your intention, their belief about your intention, and your awareness of that belief. Each level must remain distinct and manipulable while being bound together in [[phenomenal-unity|unified awareness]].
+Level 3 unambiguously requires metarepresentation. You must hold multiple representational levels simultaneously: your intention, their belief about your intention, and your awareness of that belief. Each level must remain distinct and manipulable while being bound together in [[unity-of-consciousness|unified awareness]].
 
 ### Level 4 and Beyond
 

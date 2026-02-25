@@ -11,7 +11,7 @@ concepts:
 - '[[panpsychism]]'
 - '[[emergence]]'
 - '[[neural-correlates-of-consciousness]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[illusionism]]'
 - '[[decoherence]]'
 - '[[attention-as-interface]]'
@@ -224,7 +224,7 @@ Scientific humility requires specifying what would count against one's view.
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
 - [panpsychism](/concepts/panpsychism/) — The view that experience is fundamental
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into unified minds
-- [phenomenal-unity](/concepts/unity-of-consciousness/) — The binding of experience into unified wholes
+- [phenomenal unity](/concepts/unity-of-consciousness/) — The binding of experience into unified wholes
 - [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of emotions and its adaptive role
 - [illusionism](/concepts/illusionism/) — The radical physicalist response and why it doesn't dissolve evolutionary questions
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological precedents

@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[haecceity]]"
   - "[[interactionist-dualism]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[mysterianism]]"
 related_articles:
   - "[[voids]]"

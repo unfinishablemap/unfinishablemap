@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-02-25 13:10:00+00:00
+ai_modified: 2026-02-25 13:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,6 +26,8 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[autonoetic-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
+- '[[neural-binding-mechanisms]]'
+- '[[consciousness]]'
 created: 2026-01-21
 date: &id001 2026-02-25
 description: Experience comes as an integrated whole—unified across features at a
@@ -34,7 +36,7 @@ description: Experience comes as an integrated whole—unified across features a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-25 13:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +87,7 @@ If the three dimensions of unity were one phenomenon, they should stand or fall 
 
 ### Split-Brain Cases
 
-[Split-brain patients](/topics/split-brain-consciousness/) have their corpus callosum severed. Synchronic unity partially divides—each hemisphere processes its visual field independently. Yet subject unity remains largely intact. Patients do not report being two people. As Nagel (1971) observed, there is "too much unity to say two, yet too much separation to say one." A 2025 PNAS study (Pinto et al.) found that even minimal corpus callosum fibers can maintain full interhemispheric synchronization, suggesting the brain has redundant mechanisms for preserving unity.
+[Split-brain patients](/topics/split-brain-consciousness/) have their corpus callosum severed. Synchronic unity partially divides—each hemisphere processes its visual field independently. Yet subject unity remains largely intact. Patients do not report being two people. Nagel (1971) concluded that there is too much unity to say there are two minds, yet too much separation to say there is one. A 2025 PNAS study (Pinto et al.) found that even minimal corpus callosum fibers can maintain full interhemispheric synchronization, suggesting the brain has redundant mechanisms for preserving unity.
 
 ### Dreamless Sleep
 
@@ -111,7 +113,9 @@ Phenomenal unity also bears on the [combination problem](/concepts/combination-p
 
 ## Proposed Explanations
 
-**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity.
+**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity. See [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) for detailed analysis of classical and quantum binding mechanisms.
+
+**Multiple Drafts** (Dennett 1991) challenges the premise: perhaps there is no single moment at which experience is unified. Instead, multiple parallel drafts of perceptual content compete and are edited in real time, with unity imposed retrospectively by narrative self-modelling. On this view, asking where unity happens is a category error—there is no "Cartesian theatre" where streams converge. The Map's response: even post-hoc narrative requires a narrator. The retrospective construction itself presupposes a subject for whom the narrative is constructed, relocating rather than dissolving the unity problem.
 
 **[Integrated Information Theory](/concepts/integrated-information-theory/)** identifies consciousness with information integration (Φ). High integration would constitute unity. But this redefines unity as integration without explaining why integration produces phenomenal unity rather than computational coordination without experience.
 
@@ -150,6 +154,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
 - [emergence-void](/voids/emergence-void/) — The general cognitive limit at level transitions
+- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical and quantum approaches to binding compared
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
@@ -160,6 +165,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 - Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration and Dissociation*. Oxford University Press.
 - Dainton, B. (2000). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. Routledge.
+- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Leibniz, G.W. (1714). *Monadology*.
 - Lloyd, D. (2012). Neural correlates of temporal experience. In S. Edelman et al. (Eds.), *Being in Time*. John Benjamins.

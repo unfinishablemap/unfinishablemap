@@ -21,7 +21,6 @@ last_deep_review: 2026-02-15 10:19:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-binding-and-holism]]'
-- '[[varieties-of-unity]]'
 - '[[consciousness-and-temporal-integration]]'
 - '[[temporal-consciousness]]'
 - '[[the-self-minimal-narrative-and-substantial]]'

@@ -20,7 +20,7 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[agent-causation]]'
 - '[[protention]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[binding-problem]]'
 created: 2026-01-22
 date: &id001 2026-01-22
@@ -202,7 +202,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [agent-causation](/concepts/agent-causation/) — Understanding as a case of conscious agency in cognition
 - [decoherence](/concepts/decoherence/) — The quantum challenge to any consciousness-brain interface
 - [protention](/concepts/protention/) — Husserl's forward-directed anticipatory structure in present experience
-- [phenomenal-unity](/concepts/unity-of-consciousness/) — Why conscious experiences come as integrated wholes
+- [phenomenal unity](/concepts/unity-of-consciousness/) — Why conscious experiences come as integrated wholes
 - [binding-problem](/concepts/binding-problem/) — The challenge of explaining how separate features unify in experience
 
 ## References

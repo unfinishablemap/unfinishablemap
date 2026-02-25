@@ -16,7 +16,7 @@ concepts:
 - '[[working-memory]]'
 - '[[intentionality]]'
 - '[[illusionism]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: Does recursive mindreading require phenomenal consciousness or just enhanced

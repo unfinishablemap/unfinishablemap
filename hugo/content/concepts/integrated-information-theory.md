@@ -9,7 +9,7 @@ concepts:
 - '[[qualia]]'
 - '[[panpsychism]]'
 - '[[global-workspace-theory]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[binding-problem]]'
 - '[[illusionism]]'
 - '[[emergence]]'
@@ -214,7 +214,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
-- [phenomenal-unity](/concepts/unity-of-consciousness/) — The unity IIT claims to explain via integration
+- [phenomenal unity](/concepts/unity-of-consciousness/) — The unity IIT claims to explain via integration
 - [binding-problem](/concepts/binding-problem/) — The related puzzle of how features combine
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical tests of IIT in simple organisms
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle IIT addresses

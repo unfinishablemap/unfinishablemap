@@ -10,7 +10,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[qualia]]'
 - '[[concepts/materialism]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 created: 2026-02-01
 date: &id001 2026-02-01
 description: Leibniz's 1714 thought experiment imagines walking through an enlarged

@@ -12,7 +12,7 @@ concepts:
 - '[[evolution-of-consciousness]]'
 - '[[panpsychism]]'
 - '[[integrated-information-theory]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'

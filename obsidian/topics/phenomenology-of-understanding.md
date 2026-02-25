@@ -24,7 +24,7 @@ concepts:
   - "[[specious-present]]"
   - "[[phenomenal-intentionality]]"
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[semantic-memory]]"
   - "[[temporal-consciousness]]"
   - "[[autonoetic-consciousness]]"
@@ -118,7 +118,7 @@ Consciousness doesn't just bind perceptual features into unified experience — 
 
 **Cross-domain integration** — profound understanding often involves connecting meanings from different domains: scientific and ethical concepts, abstract ideas and concrete examples, personal experience and theoretical frameworks grasped together.
 
-These parallel the [[varieties-of-unity|varieties of phenomenal unity]] but apply specifically to meaning. [[global-workspace-theory|Global workspace theory]] proposes that conscious contents are widely broadcast across cortical regions — explaining availability but not integration. A reader who remembers all premises without seeing how they connect has availability without integration. [[working-memory|Working memory]] models face the same gap: maintaining three meanings simultaneously differs from grasping their unity.
+These parallel the [[unity-of-consciousness|varieties of phenomenal unity]] but apply specifically to meaning. [[global-workspace-theory|Global workspace theory]] proposes that conscious contents are widely broadcast across cortical regions — explaining availability but not integration. A reader who remembers all premises without seeing how they connect has availability without integration. [[working-memory|Working memory]] models face the same gap: maintaining three meanings simultaneously differs from grasping their unity.
 
 Multi-step inference makes the binding problem vivid. Following a five-step proof, you must hold earlier results as *established* — phenomenally marked as "already shown" rather than "currently under consideration." The proof's structure — not just individual steps but logical dependencies among them — must be present to consciousness as an integrated whole. When binding fails, the characteristic experience is structural collapse: you remember individual propositions but lose the felt connections. The proof disintegrates into a list.
 

@@ -57,7 +57,7 @@ The Dualism tenet states: "Consciousness is not reducible to physical processes.
 
 **the Map does not require a permanent soul**: The tenet doesn't specify whether consciousness persists eternally, changes moment to moment, or ceases at death. It makes a claim about the relationship between consciousness and physics, not about temporal duration.
 
-**the Map does not require a unified self**: The tenet is compatible with consciousness being fragmented, multiple, or constantly reconstructed. [[phenomenal-unity]] is addressed separately.
+**the Map does not require a unified self**: The tenet is compatible with consciousness being fragmented, multiple, or constantly reconstructed. [[unity-of-consciousness|phenomenal unity]] is addressed separately.
 
 What the Map requires is *irreducibility*: at any given moment, conscious experience has properties that no physical description captures. This is the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to undergo certain physical processes.
 

@@ -12,7 +12,6 @@ topics:
 concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"
-  - "[[phenomenal-unity]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"

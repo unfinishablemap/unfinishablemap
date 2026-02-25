@@ -31,9 +31,8 @@ concepts:
   - "[[haecceity]]"
   - "[[mental-effort]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[phenomenal-unity]]"
-  - "[[neural-correlates-of-consciousness]]"
   - "[[unity-of-consciousness]]"
+  - "[[neural-correlates-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-biology-neural-mechanisms-2026-01-24]]"
@@ -272,7 +271,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - [[spontaneous-collapse-theories]] — GRW, CSL, and objective collapse
 - [[topics/quantum-binding-and-phenomenal-unity]] — Quantum entanglement and the binding problem
 - [[mental-effort]] — Stapp's quantum Zeno framework for voluntary attention
-- [[phenomenal-unity]] — What quantum binding aims to explain
+- [[unity-of-consciousness|phenomenal unity]] — What quantum binding aims to explain
 - [[illusionism]] — The challenge that phenomenal consciousness may be illusory
 - [[mysterianism]] — Cognitive closure and limits of human understanding
 - [[topics/free-will]] — How quantum indeterminacy relates to libertarian free will

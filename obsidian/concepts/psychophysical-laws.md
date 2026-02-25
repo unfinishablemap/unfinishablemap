@@ -28,7 +28,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[mental-effort]]"
   - "[[stapp-quantum-mind]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[phenomenal-consciousness]]"
   - "[[binding-problem]]"
   - "[[coupling-modes]]"

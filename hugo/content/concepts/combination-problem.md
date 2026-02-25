@@ -9,7 +9,7 @@ concepts:
 - '[[russellian-monism]]'
 - '[[qualia]]'
 - '[[interactionist-dualism]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[binding-problem]]'
 - '[[minimal-consciousness]]'
 created: 2026-01-15
@@ -184,7 +184,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 
 - [panpsychism](/concepts/panpsychism/) — The view facing this problem
 - [russellian-monism](/concepts/russellian-monism/) — A related framework also facing combination
-- [phenomenal-unity](/concepts/unity-of-consciousness/) — Why experience is unified in the first place
+- [phenomenal unity](/concepts/unity-of-consciousness/) — Why experience is unified in the first place
 - [binding-problem](/concepts/binding-problem/) — The neural coordination challenge (related but distinct)
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical testing ground in simple organisms
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The alternative avoiding the problem

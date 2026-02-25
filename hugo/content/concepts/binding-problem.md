@@ -8,7 +8,6 @@ coalesced_from:
 - /concepts/phenomenal-binding/
 concepts:
 - '[[unity-of-consciousness]]'
-- '[[phenomenal-unity]]'
 - '[[combination-problem]]'
 - '[[qualia]]'
 - '[[quantum-consciousness]]'
@@ -23,7 +22,6 @@ concepts:
 - '[[sleep-and-consciousness]]'
 - '[[filter-theory]]'
 - '[[emergence]]'
-- '[[varieties-of-unity]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[working-memory]]'
 - '[[cognitive-phenomenology]]'
@@ -189,8 +187,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 ## Further Reading
 
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical and quantum binding mechanisms
-- [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem; binding is the synchronic dimension
-- [phenomenal-unity](/concepts/unity-of-consciousness/) — Phenomenal unity as metaphysical question
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity and its varieties; binding is the synchronic dimension
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as the basis for unity
 - [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Recent experimental evidence

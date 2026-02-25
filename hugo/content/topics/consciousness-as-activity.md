@@ -13,7 +13,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[consciousness-and-creativity]]'
 - '[[intentionality]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[embodied-cognition]]'
 - '[[downward-causation]]'
 - '[[predictive-processing]]'

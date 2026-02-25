@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[personal-identity]]"
 concepts:
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[combination-problem]]"
   - "[[mysterianism]]"
 related_articles:
@@ -88,7 +88,7 @@ The plurality void connects to the Map's [[tenets|foundational commitments]] at 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** requires a singular causal agent. If consciousness influences quantum outcomes in the brain, the mechanism must be channelled through something that acts as *one*. Plural consciousness would require a theory of plural causal agency—multiple non-physical influences coordinating at the quantum level—that no one has articulated.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated by the combination problem's persistence. The simplest accounts of consciousness composition—that experiences just add together, that [[phenomenal-unity|phenomenal unity]] emerges from physical proximity—all fail. The truth about how consciousness relates to plurality may be irreducibly complex, or the question may be malformed in ways we cannot recognise from within singular experience.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated by the combination problem's persistence. The simplest accounts of consciousness composition—that experiences just add together, that [[unity-of-consciousness|phenomenal unity]] emerges from physical proximity—all fail. The truth about how consciousness relates to plurality may be irreducibly complex, or the question may be malformed in ways we cannot recognise from within singular experience.
 
 ## Further Reading
 

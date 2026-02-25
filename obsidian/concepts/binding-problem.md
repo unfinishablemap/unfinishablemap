@@ -10,7 +10,6 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[unity-of-consciousness]]"
-  - "[[phenomenal-unity]]"
   - "[[combination-problem]]"
   - "[[qualia]]"
   - "[[quantum-consciousness]]"
@@ -25,7 +24,6 @@ concepts:
   - "[[sleep-and-consciousness]]"
   - "[[filter-theory]]"
   - "[[emergence]]"
-  - "[[varieties-of-unity]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[working-memory]]"
   - "[[cognitive-phenomenology]]"
@@ -63,7 +61,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 **BP1: The Segregation Problem** — How does the brain correctly assign features to objects? When you see a red ball bouncing, visual features (redness, roundness), motion (trajectory, speed), and spatial location are processed in different cortical areas. How does the system bind these features together to represent a single ball rather than confused mismatches? This is a tractable computational problem that neuroscience might solve.
 
-**BP2: The Combination Problem** — How do correctly segregated features produce [[phenomenal-unity|conjoint phenomenology]]—the qualitative "what it is like" of experiencing everything together rather than separately? Even if we fully solve BP1—completely explain how features are computationally bound—we haven't addressed why the bound information is experienced as phenomenally unified. Solving BP1 doesn't solve BP2.
+**BP2: The Combination Problem** — How do correctly segregated features produce [[unity-of-consciousness|conjoint phenomenology]]—the qualitative "what it is like" of experiencing everything together rather than separately? Even if we fully solve BP1—completely explain how features are computationally bound—we haven't addressed why the bound information is experienced as phenomenally unified. Solving BP1 doesn't solve BP2.
 
 BP2 is the "hard" aspect of binding. As researchers note, "A unified conscious moment with several bits of information presents an apparent physical paradox since it implies that several spatially separate objects exert causal power simultaneously." The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
@@ -105,7 +103,7 @@ Nagel argued split-brain patients have "too much unity to say 'two', yet too muc
 
 ## Binding Beyond Perception
 
-Binding operates across time and cognitive domains, not just within a moment—corresponding to the [[varieties-of-unity|diachronic and cognitive dimensions of unity]].
+Binding operates across time and cognitive domains, not just within a moment—corresponding to the [[unity-of-consciousness|diachronic and cognitive dimensions of unity]].
 
 ### Temporal Binding and Memory
 
@@ -141,7 +139,7 @@ The quantum hypothesis is the Map's preferred approach to BP2 because it offers 
 
 A different approach: treat phenomenal unity as metaphysically basic rather than derived from non-unified elements. If unity is fundamental to consciousness, BP2 isn't a problem to be solved by finding the right mechanism—it's a feature of what consciousness *is*.
 
-[[phenomenal-unity|Bayne and Chalmers]] argue for subsumptive unity: your experience of seeing red-and-round is a single experience with its own *conjoint phenomenology*—not two separate experiences stacked together. Unity is intrinsic to experience rather than something constructed by neural processes. Process philosophy (Whitehead) takes this further: experience is fundamental to each "actual occasion." The question shifts from "how do non-conscious parts produce conscious unity?" to "how do micro-experiences combine into macro-experiences?"—still a [[combination-problem]], but with different metaphysical commitments.
+[[unity-of-consciousness|Bayne and Chalmers]] argue for subsumptive unity: your experience of seeing red-and-round is a single experience with its own *conjoint phenomenology*—not two separate experiences stacked together. Unity is intrinsic to experience rather than something constructed by neural processes. Process philosophy (Whitehead) takes this further: experience is fundamental to each "actual occasion." The question shifts from "how do non-conscious parts produce conscious unity?" to "how do micro-experiences combine into macro-experiences?"—still a [[combination-problem]], but with different metaphysical commitments.
 
 On this view, neural mechanisms don't *create* unity; they *condition* which experiential occasions combine into our particular stream of consciousness. The brain's binding operations (BP1) determine the *content* of unified experience—what gets bound together—while unity itself is contributed by consciousness. This explains the persistent BP1/BP2 gap: neuroscience keeps solving coordination problems without touching phenomenal unity because coordination and unity are different in kind.
 
@@ -186,8 +184,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 ## Further Reading
 
 - [[neural-binding-mechanisms]] — Classical and quantum binding mechanisms
-- [[unity-of-consciousness]] — The broader problem; binding is the synchronic dimension
-- [[phenomenal-unity]] — Phenomenal unity as metaphysical question
+- [[unity-of-consciousness]] — Phenomenal unity and its varieties; binding is the synchronic dimension
 - [[combination-problem]] — How micro-experiences combine into macro-experience
 - [[quantum-binding-and-phenomenal-unity]] — Entanglement as the basis for unity
 - [[quantum-coherence-and-binding-evidence]] — Recent experimental evidence

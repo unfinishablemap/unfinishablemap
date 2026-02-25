@@ -24,7 +24,7 @@ concepts:
 - '[[cumulative-culture]]'
 - '[[theory-of-mind]]'
 - '[[emotional-consciousness]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[working-memory]]'
 - '[[cognitive-phenomenology]]'
 - '[[minimal-consciousness]]'

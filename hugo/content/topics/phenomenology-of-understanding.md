@@ -22,7 +22,7 @@ concepts:
 - '[[specious-present]]'
 - '[[phenomenal-intentionality]]'
 - '[[binding-problem]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[semantic-memory]]'
 - '[[temporal-consciousness]]'
 - '[[autonoetic-consciousness]]'

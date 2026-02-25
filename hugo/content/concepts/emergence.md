@@ -14,7 +14,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[downward-causation]]'
 - '[[mental-causation]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[binding-problem]]'
 - '[[minimal-consciousness]]'
 - '[[quantum-indeterminacy-free-will]]'
@@ -187,7 +187,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
 - [free-will](/topics/free-will/) — The debate over whether genuine choice exists and what it requires
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity
-- [phenomenal-unity](/concepts/unity-of-consciousness/) — The unity of conscious experience that binding must explain
+- [phenomenal unity](/concepts/unity-of-consciousness/) — The unity of conscious experience that binding must explain
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical constraints from simple organisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum theories of consciousness and downward causation

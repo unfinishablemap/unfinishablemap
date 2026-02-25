@@ -8,9 +8,8 @@ coalesced_from:
 - /topics/why-phenomenal-unity-resists-explanation/
 - /topics/quantum-binding-and-phenomenal-unity/
 concepts:
-- '[[phenomenal-unity]]'
-- '[[binding-problem]]'
 - '[[unity-of-consciousness]]'
+- '[[binding-problem]]'
 - '[[neural-binding-mechanisms]]'
 - '[[quantum-consciousness]]'
 - '[[combination-problem]]'
@@ -44,7 +43,6 @@ related_articles:
 - '[[tenets]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
 - '[[quantum-biology-and-the-consciousness-debate]]'
-- '[[varieties-of-unity]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
 title: Quantum Holism and Phenomenal Unity
 topics:
@@ -197,11 +195,9 @@ The Map holds that current evidence favours the quantum position while acknowled
 
 ## Further Reading
 
-- [phenomenal-unity](/concepts/unity-of-consciousness/) — The nature of phenomenal unity and the quantum hypothesis
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and why it resists physical explanation
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding (BP1 and BP2)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Comprehensive taxonomy of five binding varieties
-- [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader framing of the unity problem
-- [varieties-of-unity](/concepts/unity-of-consciousness/) — Synchronic, diachronic, and subject unity as distinct phenomena
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms fail and quantum mechanisms may succeed
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gulf between physical and phenomenal

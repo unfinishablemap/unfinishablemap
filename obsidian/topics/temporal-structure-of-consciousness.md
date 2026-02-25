@@ -32,7 +32,6 @@ concepts:
   - "[[concepts/functionalism]]"
   - "[[illusionism]]"
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
   - "[[unity-of-consciousness]]"
   - "[[neural-binding-mechanisms]]"
   - "[[working-memory]]"

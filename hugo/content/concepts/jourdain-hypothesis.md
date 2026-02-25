@@ -15,7 +15,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[topics/consciousness-and-social-cognition]]'
 - '[[quantum-coherence-and-binding-evidence]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: Apes have culture but may not know they have culture. The gap between

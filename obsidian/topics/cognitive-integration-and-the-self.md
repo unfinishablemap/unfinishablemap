@@ -17,7 +17,6 @@ concepts:
   - "[[haecceity]]"
 related_articles:
   - "[[phenomenal-binding-and-holism]]"
-  - "[[varieties-of-unity]]"
   - "[[consciousness-and-temporal-integration]]"
   - "[[temporal-consciousness]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
@@ -47,7 +46,7 @@ Within a single moment, consciousness integrates across:
 - **Perceptual features**: Shape, color, motion, location bind into objects
 - **Self-world boundary**: Distinguishing what is "me" from what is "not-me"
 
-This [[varieties-of-unity|synchronic unity]] is what [[phenomenal-binding-and-holism|phenomenal binding]] addresses—the integration of simultaneous elements into a holistic experiential state.
+This [[unity-of-consciousness|synchronic unity]] is what [[phenomenal-binding-and-holism|phenomenal binding]] addresses—the integration of simultaneous elements into a holistic experiential state.
 
 ### Diachronic Integration
 

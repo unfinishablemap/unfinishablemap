@@ -7,7 +7,6 @@ author: null
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
-- '[[phenomenal-unity]]'
 created: 2026-02-24
 date: &id001 2026-02-24
 draft: false

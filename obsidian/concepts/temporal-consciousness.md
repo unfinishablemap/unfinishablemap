@@ -40,7 +40,6 @@ concepts:
   - "[[mental-effort]]"
   - "[[combination-problem]]"
   - "[[unity-of-consciousness]]"
-  - "[[varieties-of-unity]]"
   - "[[phenomenal-binding-and-holism]]"
   - "[[stapp-quantum-mind]]"
 related_articles:

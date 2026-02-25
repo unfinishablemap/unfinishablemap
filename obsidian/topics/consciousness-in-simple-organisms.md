@@ -14,7 +14,7 @@ concepts:
   - "[[evolution-of-consciousness]]"
   - "[[panpsychism]]"
   - "[[integrated-information-theory]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[illusionism]]"
   - "[[mysterianism]]"
@@ -84,7 +84,7 @@ The freshwater Hydra possesses approximately 900 neurons arranged in a decentral
 
 What Hydra reveals is startling: nerve-free Hydra can survive indefinitely (when force-fed) but lose prey detection and feeding behavior. The nervous system appears to enable specific behaviors rather than create some general capacity for experience. Hydra shows habituation and sensitisation but no published evidence of associative learning.
 
-The Hydra case challenges assumptions that consciousness requires centralized processing. If subjective experience arises from neural activity, must it be unified? Or could experience be as distributed as Hydra's nerve net—multiple micro-experiences without [[phenomenal-unity|phenomenal unity]]?
+The Hydra case challenges assumptions that consciousness requires centralized processing. If subjective experience arises from neural activity, must it be unified? Or could experience be as distributed as Hydra's nerve net—multiple micro-experiences without [[unity-of-consciousness|phenomenal unity]]?
 
 ### Slime Molds: Cognition Without Neurons
 

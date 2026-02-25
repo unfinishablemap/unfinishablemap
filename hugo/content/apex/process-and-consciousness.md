@@ -22,7 +22,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[panpsychism]]'
 - '[[combination-problem]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[agent-causation]]'
 created: 2026-01-31
 date: &id001 2026-02-02
@@ -131,7 +131,7 @@ A note on testability: process philosophy is primarily a metaphysical framework 
 
 ## Synthesis: What Process Philosophy Offers the Map
 
-Individual source articles establish separate components: [process-philosophy](/concepts/process-philosophy/) explains Whitehead's framework; [duration](/concepts/temporal-consciousness/) presents Bergson's account of lived time; [temporal-consciousness](/concepts/temporal-consciousness/) examines the neuroscience and phenomenology of time experience; [panpsychism](/concepts/panpsychism/) explores the view that experience is ubiquitous; [phenomenal-unity](/concepts/unity-of-consciousness/) analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
+Individual source articles establish separate components: [process-philosophy](/concepts/process-philosophy/) explains Whitehead's framework; [duration](/concepts/temporal-consciousness/) presents Bergson's account of lived time; [temporal-consciousness](/concepts/temporal-consciousness/) examines the neuroscience and phenomenology of time experience; [panpsychism](/concepts/panpsychism/) explores the view that experience is ubiquitous; [phenomenal unity](/concepts/unity-of-consciousness/) analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
 
 Process philosophy offers the Map conceptual resources without ontological commitment. The Map need not say that rocks have experience (as panpsychism claims) to benefit from Whitehead's account of how experience relates to time, creativity, and causation. The Map need not accept that reality is *only* process to draw on Bergson's demonstration that lived duration cannot be reduced to sequences of static states.
 

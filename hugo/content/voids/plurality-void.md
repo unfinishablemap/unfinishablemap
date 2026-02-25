@@ -5,7 +5,7 @@ ai_modified: 2026-02-24 14:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[combination-problem]]'
 - '[[mysterianism]]'
 created: 2026-02-24

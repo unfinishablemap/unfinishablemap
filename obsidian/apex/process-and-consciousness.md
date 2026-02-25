@@ -16,7 +16,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[panpsychism]]"
   - "[[combination-problem]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
@@ -67,7 +67,7 @@ The Map does not embrace panpsychism. It maintains that consciousness is distinc
 
 Where they differ: process philosophy dissolves the mind-matter distinction by holding that matter is already experiential. The Map preserves the distinction, arguing that consciousness interfaces with matter at specific points (quantum indeterminacies in neural systems) rather than being present everywhere. This avoids attributing experience to rocks—a cost many find too high—while preserving the anti-emergentist insight that consciousness cannot arise from the wholly non-conscious.
 
-The philosophical tradeoff is clear. Process philosophy avoids the *interaction problem* (how do distinct substances causally connect?) but faces the [[combination-problem|combination problem]] (how do micro-experiences combine into unified consciousness?). The difficulty is sharper than it first appears. [[phenomenal-unity|Phenomenal unity]] requires *conjoint phenomenology*—a unified "what it is like" that subsumes its parts rather than merely aggregating them. Micro-experiences would need to fuse into a whole whose character is not derivable from theirs individually. As William James observed, separate feelings cannot simply be added together to produce a unified experience; the whole has properties that no part possesses. Both the combination problem and the hard problem may be instances of a general difficulty at level transitions—what emerges at the macro level resists derivation from the micro level regardless of one's starting ontology. Interactionist dualism avoids the combination difficulty entirely—there is no need to explain how micro-experiences combine because matter lacks experience. The Map argues that quantum mechanics provides resources for the interaction problem that make the dualist path tractable.
+The philosophical tradeoff is clear. Process philosophy avoids the *interaction problem* (how do distinct substances causally connect?) but faces the [[combination-problem|combination problem]] (how do micro-experiences combine into unified consciousness?). The difficulty is sharper than it first appears. [[unity-of-consciousness|Phenomenal unity]] requires *conjoint phenomenology*—a unified "what it is like" that subsumes its parts rather than merely aggregating them. Micro-experiences would need to fuse into a whole whose character is not derivable from theirs individually. As William James observed, separate feelings cannot simply be added together to produce a unified experience; the whole has properties that no part possesses. Both the combination problem and the hard problem may be instances of a general difficulty at level transitions—what emerges at the macro level resists derivation from the micro level regardless of one's starting ontology. Interactionist dualism avoids the combination difficulty entirely—there is no need to explain how micro-experiences combine because matter lacks experience. The Map argues that quantum mechanics provides resources for the interaction problem that make the dualist path tractable.
 
 ## Minimal Interaction and Creative Novelty
 
@@ -83,7 +83,7 @@ Henry Stapp has developed this connection most explicitly, arguing in *Mindful U
 
 The Map's commitment to *minimal* interaction finds resonance in Whitehead's account of how occasions inherit from their predecessors. Each occasion takes account of its causal past—it cannot ignore what came before—but it adds something new through its own synthesis. The creative contribution is real but works *with* rather than against the causal inheritance. This is the structure the Map envisions: consciousness selecting among possibilities that physics leaves open, contributing something irreducible without violating physical constraints.
 
-There is a further connection here to [[phenomenal-unity|phenomenal unity]]. Quantum entanglement is the one domain in physics where genuinely non-separable states exist—entangled particles form a whole whose properties cannot be decomposed into individual states. If consciousness interacts with the brain at the quantum level, entanglement provides a physical correlate whose structure mirrors how unified experience resists decomposition into separate parts. Classical coordination relates distinct parts; entanglement produces states that are intrinsically unified. Process philosophy's concrescence—where the occasion synthesises its data into one definite experience—describes metaphysically what entanglement exhibits physically.
+There is a further connection here to [[unity-of-consciousness|phenomenal unity]]. Quantum entanglement is the one domain in physics where genuinely non-separable states exist—entangled particles form a whole whose properties cannot be decomposed into individual states. If consciousness interacts with the brain at the quantum level, entanglement provides a physical correlate whose structure mirrors how unified experience resists decomposition into separate parts. Classical coordination relates distinct parts; entanglement produces states that are intrinsically unified. Process philosophy's concrescence—where the occasion synthesises its data into one definite experience—describes metaphysically what entanglement exhibits physically.
 
 Bergson's duration points to the same structure from the phenomenological side. The creative novelty he attributes to lived time—the way each moment brings something genuinely new—requires an opening in deterministic closure. If the future were fixed by the past, time would be mere rearrangement, not invention. Bergson argued that determinism rests on spatializing time—treating mental states as discrete causes producing discrete effects, like billiard balls. But if mental states interpenetrate in qualitative multiplicity, this model fails. The whole of one's past converges in each moment, not as a sum of separate influences but as an indivisible movement. Freedom—and creative causation—emerges from this convergence.
 
@@ -129,7 +129,7 @@ A note on testability: process philosophy is primarily a metaphysical framework 
 
 ## Synthesis: What Process Philosophy Offers the Map
 
-Individual source articles establish separate components: [[process-philosophy]] explains Whitehead's framework; [[duration]] presents Bergson's account of lived time; [[temporal-consciousness]] examines the neuroscience and phenomenology of time experience; [[panpsychism]] explores the view that experience is ubiquitous; [[phenomenal-unity]] analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
+Individual source articles establish separate components: [[process-philosophy]] explains Whitehead's framework; [[duration]] presents Bergson's account of lived time; [[temporal-consciousness]] examines the neuroscience and phenomenology of time experience; [[panpsychism]] explores the view that experience is ubiquitous; [[unity-of-consciousness|phenomenal unity]] analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
 
 Process philosophy offers the Map conceptual resources without ontological commitment. The Map need not say that rocks have experience (as panpsychism claims) to benefit from Whitehead's account of how experience relates to time, creativity, and causation. The Map need not accept that reality is *only* process to draw on Bergson's demonstration that lived duration cannot be reduced to sequences of static states.
 
@@ -163,5 +163,5 @@ This apex article synthesizes:
 - [[temporal-consciousness|Temporal Consciousness]] — The specious present, durée, temporal unity and its disruption, and the quantum connection
 - [[panpsychism|Panpsychism]] — The view that experience is ubiquitous, and its combination problem
 - [[combination-problem|The Combination Problem]] — How micro-experiences might combine into unified consciousness
-- [[phenomenal-unity|Phenomenal Unity]] — Subsumptive unity, conjoint phenomenology, and the argument for irreducibility
+- [[unity-of-consciousness|Phenomenal Unity]] — Subsumptive unity, conjoint phenomenology, and the argument for irreducibility
 - [[topics/free-will|Free Will]] — How process thought illuminates libertarian agency

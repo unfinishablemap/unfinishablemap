@@ -60,7 +60,7 @@ Before contemporary panpsychism, Alfred North Whitehead developed a sophisticate
 
 Whitehead's influence runs through contemporary panpsychism. His rejection of "vacuous actuality" (matter without any experiential aspect) anticipates Strawson's argument that non-experiential matter is incoherent. His "actual occasions" prefigure micro-experiences. The combination problem is implicit in his account of how occasions "synthesize" into complex organisms.
 
-The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?" Process philosophy's notion of [[phenomenal-unity|phenomenal unity]] as achievement—something each occasion accomplishes through creative synthesis—offers a distinctive response to the combination problem that differs from both panpsychism's aggregation model and dualism's separate-substance model.
+The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?" Process philosophy's notion of [[unity-of-consciousness|phenomenal unity]] as achievement—something each occasion accomplishes through creative synthesis—offers a distinctive response to the combination problem that differs from both panpsychism's aggregation model and dualism's separate-substance model.
 
 ### Russellian Panpsychism and Its Variants
 
@@ -86,7 +86,7 @@ The combination problem has several variants:
 
 **Structural mismatch**: Physics describes discrete particles; consciousness seems to have continuous, spatial structure. How does one give rise to the other?
 
-**The evolutionary distribution question**: If all matter has experiential properties, why does consciousness apparently track neural complexity and behavioural flexibility? The panpsychist answer: what we recognise as "consciousness" is organised, integrated experience. Simple systems have only simple, fragmented experience; complex neural systems achieve the [[phenomenal-unity|phenomenal unity]] we associate with minds. Evolution didn't create experience—it created the integrating structures that amplify and unify pre-existing experiential properties (see [[evolution-of-consciousness#The Emergence Question|the emergence question]]).
+**The evolutionary distribution question**: If all matter has experiential properties, why does consciousness apparently track neural complexity and behavioural flexibility? The panpsychist answer: what we recognise as "consciousness" is organised, integrated experience. Simple systems have only simple, fragmented experience; complex neural systems achieve the [[unity-of-consciousness|phenomenal unity]] we associate with minds. Evolution didn't create experience—it created the integrating structures that amplify and unify pre-existing experiential properties (see [[evolution-of-consciousness#The Emergence Question|the emergence question]]).
 
 **Empirical boundary cases**: Research on [[minimal-consciousness|minimal consciousness]] in simple organisms provides a testing ground for panpsychist continuity (see [[consciousness-in-simple-organisms]] for detailed treatment). Consider:
 

@@ -13,7 +13,7 @@ concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"
   - "[[interactionist-dualism]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"

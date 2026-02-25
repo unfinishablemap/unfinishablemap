@@ -39,7 +39,6 @@ concepts:
 - '[[mental-effort]]'
 - '[[combination-problem]]'
 - '[[unity-of-consciousness]]'
-- '[[varieties-of-unity]]'
 - '[[phenomenal-binding-and-holism]]'
 - '[[stapp-quantum-mind]]'
 created: 2026-01-14

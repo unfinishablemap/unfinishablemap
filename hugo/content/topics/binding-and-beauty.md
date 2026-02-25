@@ -6,10 +6,9 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[binding-problem]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
-- '[[unity-of-consciousness]]'
 - '[[emotional-consciousness]]'
 - '[[cognitive-phenomenology]]'
 - '[[temporal-consciousness]]'
@@ -127,8 +126,7 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/)
 - [aesthetic-void](/voids/aesthetic-void/)
-- [phenomenal-unity](/concepts/unity-of-consciousness/)
-- [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity and why binding produces unified wholes
 
 ## References
 

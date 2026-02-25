@@ -15,7 +15,7 @@ concepts:
   - "[[qualia]]"
   - "[[haecceity]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[witness-consciousness]]"
@@ -55,11 +55,11 @@ The 2017 research from the University of Amsterdam adds another layer: split-bra
 
 This has led to a "layered unity" model: split-brain cases show divided perception at local levels but preserved unity at higher, global levels of consciousness.
 
-A critical distinction: neural synchronization (what fMRI measures) is not the same as [[phenomenal-unity|phenomenal unity]]—the unified character of experience itself. The former is a neural correlate; the latter is what the [[hard-problem-of-consciousness|hard problem]] insists cannot be read directly off neural data. Nevertheless, the convergence of neural synchronization, behavioral coordination, and patient reports constitutes stronger evidence for preserved experiential unity than any single source alone.
+A critical distinction: neural synchronization (what fMRI measures) is not the same as [[unity-of-consciousness|phenomenal unity]]—the unified character of experience itself. The former is a neural correlate; the latter is what the [[hard-problem-of-consciousness|hard problem]] insists cannot be read directly off neural data. Nevertheless, the convergence of neural synchronization, behavioral coordination, and patient reports constitutes stronger evidence for preserved experiential unity than any single source alone.
 
 ## Three Dimensions of Unity
 
-[[phenomenal-unity|Phenomenal unity]] has three conceptually separable dimensions, and split-brain cases challenge each differently:
+[[unity-of-consciousness|Phenomenal unity]] has three conceptually separable dimensions, and split-brain cases challenge each differently:
 
 **Synchronic unity**—at any moment, all experiences belong to one consciousness—is what the classic experiments most directly challenge. When conflicting images are shown to each visual field, each hemisphere processes its own view. The patient seems to have two simultaneous visual experiences that don't belong together. Yet even here, the evidence is mixed: the 2017 findings show patients can report seeing shapes presented to either field, suggesting synchronic unity may be more resilient than pure perceptual division implies.
 
@@ -243,7 +243,7 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 
 ### Site Content
 - [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through split-brain, anesthesia, altered states, and death
-- [[phenomenal-unity]] — The three dimensions of experiential unity that split-brain cases stress-test
+- [[unity-of-consciousness|phenomenal unity]] — The three dimensions of experiential unity that split-brain cases stress-test
 - [[binding-problem]] — How distributed processes combine into unified experience
 - [[personal-identity]] — What makes you *you* across time
 - [[haecceity]] — The "thisness" that individuates subjects

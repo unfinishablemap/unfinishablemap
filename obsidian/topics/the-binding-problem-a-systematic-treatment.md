@@ -11,7 +11,6 @@ topics:
 concepts:
   - "[[binding-problem]]"
   - "[[unity-of-consciousness]]"
-  - "[[phenomenal-unity]]"
   - "[[combination-problem]]"
   - "[[phenomenal-binding-and-holism]]"
   - "[[temporal-consciousness]]"
@@ -22,7 +21,6 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[prehension]]"
   - "[[explanatory-gap]]"
-  - "[[varieties-of-unity]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[working-memory]]"
   - "[[self-and-consciousness]]"
@@ -190,7 +188,7 @@ The systematic treatment of binding presented here rests on claims that could be
 - [[binding-problem]] — The foundational concept: BP1/BP2 distinction, classical and quantum approaches
 - [[phenomenal-binding-and-holism]] — Why classical mechanisms structurally fail and quantum holism may succeed
 - [[quantum-binding-and-phenomenal-unity]] — Entanglement as the physical substrate for unity
-- [[varieties-of-unity]] — Taxonomy of synchronic, diachronic, and subject unity
+- [[unity-of-consciousness|varieties of unity]] — Taxonomy of synchronic, diachronic, and subject unity
 - [[temporal-consciousness]] — Temporal binding and the specious present
 - [[cognitive-phenomenology]] — The felt quality of thinking and understanding
 - [[split-brain-consciousness]] — Natural experiments on binding disruption

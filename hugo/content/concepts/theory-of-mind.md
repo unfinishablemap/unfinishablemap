@@ -15,7 +15,7 @@ concepts:
 - '[[teaching-as-metarepresentation]]'
 - '[[intentionality]]'
 - '[[illusionism]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[topics/free-will]]'
 created: 2026-01-22
 date: &id001 2026-01-22

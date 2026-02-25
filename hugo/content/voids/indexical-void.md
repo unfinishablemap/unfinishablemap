@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[haecceity]]'
 - '[[interactionist-dualism]]'
-- '[[phenomenal-unity]]'
+- '[[unity-of-consciousness]]'
 - '[[mysterianism]]'
 created: 2026-02-24
 date: &id001 2026-02-24

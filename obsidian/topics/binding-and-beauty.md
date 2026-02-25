@@ -10,10 +10,9 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[unity-of-consciousness]]"
   - "[[emotional-consciousness]]"
   - "[[cognitive-phenomenology]]"
   - "[[temporal-consciousness]]"
@@ -97,7 +96,7 @@ An emergentist might respond that beauty simply *emerges* from sufficient neural
 
 Aesthetic binding includes an evaluative component — the sense that something is beautiful, profound, or sublime — that is bound into the experience rather than added after the fact. We do not first perceive and then judge; the judgement is given in the perceiving. Kant's *Critique of Judgment* articulated this insight: aesthetic judgement, in his account, is not a logical operation applied to perception but a distinct mode of reflective engagement that operates within the experience itself.
 
-This matters because it means [[phenomenal-unity|phenomenal unity]] is not evaluatively neutral. The binding of elements into an aesthetic whole carries intrinsic value — it is good or beautiful or meaningful as a bound whole, not as a consequence of being bound. If binding were merely computational coordination, there would be no reason for the result to carry value. The fact that aesthetic binding produces intrinsic value suggests that binding involves something beyond information processing.
+This matters because it means [[unity-of-consciousness|phenomenal unity]] is not evaluatively neutral. The binding of elements into an aesthetic whole carries intrinsic value — it is good or beautiful or meaningful as a bound whole, not as a consequence of being bound. If binding were merely computational coordination, there would be no reason for the result to carry value. The fact that aesthetic binding produces intrinsic value suggests that binding involves something beyond information processing.
 
 ### Evidence for Irreducible Consciousness
 
@@ -124,8 +123,7 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 - [[quantum-binding-and-phenomenal-unity]]
 - [[consciousness-and-aesthetic-creation]]
 - [[aesthetic-void]]
-- [[phenomenal-unity]]
-- [[unity-of-consciousness]]
+- [[unity-of-consciousness]] — Phenomenal unity and why binding produces unified wholes
 
 ## References
 

@@ -47,7 +47,7 @@ Three features make the ownership problem distinctive:
 
 **It is not the binding problem.** The [[binding-problem|binding problem]] asks how distributed neural processes combine into unified experience. But even perfectly unified experience requires an owner. Solving binding—explaining how colour, shape, and motion merge into a single percept—leaves open why that unified percept is *mine*.
 
-**It is not the unity problem.** [[phenomenal-unity|Phenomenal unity]] explains that experience comes as a whole. But unity and ownership are separable. A unified field of experience still needs a subject for whom it is unified. Unity describes the structure of experience; ownership names its possession.
+**It is not the unity problem.** [[unity-of-consciousness|Phenomenal unity]] explains that experience comes as a whole. But unity and ownership are separable. A unified field of experience still needs a subject for whom it is unified. Unity describes the structure of experience; ownership names its possession.
 
 **It is not the self problem.** The [[self-and-consciousness|minimal self]]—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
 

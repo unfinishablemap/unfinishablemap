@@ -13,7 +13,7 @@ concepts:
   - "[[qualia]]"
   - "[[panpsychism]]"
   - "[[global-workspace-theory]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
   - "[[illusionism]]"
   - "[[emergence]]"
@@ -48,7 +48,7 @@ IIT begins with axioms—self-evident truths about experience that anyone can ve
 1. **Existence**: Consciousness exists. Each experience is actual.
 2. **Composition**: Experience is structured—it contains distinctions, relations, multiple components.
 3. **Information**: Each experience is specific—it is *this* experience and not any of the countless others it could have been.
-4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [[phenomenal-unity|phenomenal unity]] question.
+4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [[unity-of-consciousness|phenomenal unity]] question.
 5. **Exclusion**: Experience is definite—it has particular borders, a specific content.
 
 IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [[temporal-structure-of-consciousness|Kent and Wittmann (2021)]] note, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
@@ -212,7 +212,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 ## Further Reading
 
 - [[temporal-structure-of-consciousness]] — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
-- [[phenomenal-unity]] — The unity IIT claims to explain via integration
+- [[unity-of-consciousness|phenomenal unity]] — The unity IIT claims to explain via integration
 - [[binding-problem]] — The related puzzle of how features combine
 - [[minimal-consciousness]] — Empirical tests of IIT in simple organisms
 - [[hard-problem-of-consciousness]] — The puzzle IIT addresses

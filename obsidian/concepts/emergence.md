@@ -19,7 +19,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[downward-causation]]"
   - "[[mental-causation]]"
-  - "[[phenomenal-unity]]"
+  - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
   - "[[minimal-consciousness]]"
   - "[[quantum-indeterminacy-free-will]]"
@@ -87,7 +87,7 @@ Their view requires rejecting causal closure: if consciousness possesses genuine
 
 Every successful [[reductionism-and-consciousness|scientific reduction]] passes a transparency test: once the lower-level mechanism is known, the higher-level phenomenon becomes *intelligible*. Learning that temperature is molecular kinetic energy explains *why* heating gas increases pressure. Learning that genes are DNA explains *why* inheritance follows Mendelian ratios. Consciousness fails this test uniquely—complete knowledge of neural correlates leaves the existence of experience opaque. Three features make this failure systematic:
 
-**[[phenomenal-unity|Unified awareness]].** Physically separated neural networks somehow constitute a single conscious state. The [[binding-problem|binding problem]]—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity.
+**[[unity-of-consciousness|Unified awareness]].** Physically separated neural networks somehow constitute a single conscious state. The [[binding-problem|binding problem]]—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity.
 
 **Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [[knowledge-argument|knowledge argument]] and Chalmers' zombie argument suggest phenomenal properties resist physical characterization. Putnam's [[reductionism#multiple-realizability|multiple realizability]] argument reinforces this—if the same quale can be realized by different physical substrates, qualia cannot be identified with any particular neural state.
 
@@ -185,7 +185,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [[hard-problem-of-consciousness]] — Why consciousness resists reduction
 - [[topics/free-will]] — The debate over whether genuine choice exists and what it requires
 - [[binding-problem]] — How distributed processes achieve phenomenal unity
-- [[phenomenal-unity]] — The unity of conscious experience that binding must explain
+- [[unity-of-consciousness|phenomenal unity]] — The unity of conscious experience that binding must explain
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[minimal-consciousness]] — Empirical constraints from simple organisms
 - [[quantum-consciousness]] — Quantum theories of consciousness and downward causation
