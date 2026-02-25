@@ -52,7 +52,7 @@ This dual representation has specific cognitive demands:
 
 **Evaluative comparison**: The point of counterfactual reasoning is typically to draw a conclusion—regret, relief, planning, learning. This requires comparing the actual and counterfactual scenarios against values or goals. The comparison is not merely computational but phenomenally present: we *feel* the regret of the better alternative not taken.
 
-[[working-memory|Working memory]] capacity constrains this dual representation. Humans maintain roughly 7±2 items; great apes manage 2±1. The systematic absence of extended counterfactual reasoning in great apes—despite their sophisticated associative and procedural cognition—aligns with the prediction that dual representation demands conscious workspace capacity that [[baseline-cognition|baseline cognition]] cannot provide.
+[[working-memory|Working memory]] capacity constrains this dual representation. Humans maintain roughly 7±2 items; great apes manage 2±1. The systematic absence of extended counterfactual reasoning in great apes—despite their sophisticated associative and procedural cognition—aligns with the prediction that dual representation demands conscious workspace capacity that [[baseline-cognition|baseline cognition]] cannot provide. The [[consciousness-threshold-in-cognitive-evolution|consciousness threshold]] article argues that counterfactual reasoning is one of a cluster of capacities—alongside logical reasoning, cumulative culture, and declarative metacognition—that emerge together at a specific point in cognitive evolution where consciousness becomes sufficiently integrated with neural architecture.
 
 ## Why Physicalism Struggles
 

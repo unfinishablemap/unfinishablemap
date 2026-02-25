@@ -132,7 +132,7 @@ The cumulative culture hypothesis generates testable predictions:
 
 Cumulative culture strengthens the evolutionary argument for conscious causation. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—cumulative culture should be achievable through neural complexity alone. Great apes, with brains only slightly smaller than early human ancestors, should show at least proto-cumulative culture. They don't.
 
-The pattern suggests consciousness does causal work. It enables the metarepresentation that cumulative culture requires. Small changes in conscious capacity produced the vast cultural gap between species—a gap that makes sense only if consciousness causally contributes to cognition rather than merely accompanying it.
+The pattern suggests consciousness does causal work. It enables the metarepresentation that cumulative culture requires. Small changes in conscious capacity produced the vast cultural gap between species—a gap the [[consciousness-threshold-in-cognitive-evolution|consciousness threshold]] article frames as a phase transition, where consciousness becomes sufficiently integrated with neural architecture to enable qualitatively new operations. This makes sense only if consciousness causally contributes to cognition rather than merely accompanying it.
 
 This supports the [[consciousness-as-amplifier|consciousness-as-amplifier]] thesis: consciousness doesn't add computational power but enables flexible deployment of cognitive resources. Cumulative culture exemplifies this amplification—the same neural resources that produce stable ape traditions produce exponentially more when consciousness enables metarepresentation.
 

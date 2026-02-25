@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-threshold-in-cognitive-evolution.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (created 2026-02-23) has no inbound links. Examines where consciousness emerges in cognitive evolution — directly relevant to animal-consciousness.md, consciousness-as-amplifier.md, and consciousness-evolution-problem.md. Add cross-references from these related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Cross-review free-will.md considering counterfactual void insights
 - **Type**: cross-review
 - **Notes**: New article voids/counterfactual-void.md (2026-02-25) reveals that modal cognition — imagining what could have been otherwise — is architecturally constrained. free-will.md extensively uses counterfactual reasoning ("could have done otherwise"). The counterfactual void's finding that this modal faculty has invisible boundaries directly impacts libertarian free will arguments. Add cross-reference and address this constraint.
@@ -254,6 +248,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Integrate consciousness-threshold-in-cognitive-evolution.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) has no inbound links. Examines where consciousness emerges in cognitive evolution — directly relevant to animal-consciousness.md, consciousness-as-amplifier.md, and consciousness-evolution-problem.md. Add cross-references from these related articles.
+- **Output**: obsidian/topics/consciousness-threshold-in-cognitive-evolution.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-25: Integrate perception-and-conscious-experience.md into site navigation
 - **Type**: integrate-orphan

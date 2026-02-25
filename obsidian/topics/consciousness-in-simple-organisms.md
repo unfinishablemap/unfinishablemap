@@ -112,7 +112,7 @@ Applied to simple organisms:
 | Hydra | Habituation, sensitisation, prey detection | No associative learning; distributed processing |
 | Slime molds | Maze-solving, network optimisation, habituation | No neurons at all; purely biochemical? |
 
-If baseline cognition marks what neural systems achieve without consciousness, and great apes represent that boundary, simple organisms help define the lower limit of cognition itself. The gradient from slime mold to nematode to great ape to human may track not just complexity but qualitatively different cognitive regimes—and possibly qualitatively different relationships to consciousness.
+If baseline cognition marks what neural systems achieve without consciousness, and great apes represent that boundary, simple organisms help define the lower limit of cognition itself. The gradient from slime mold to nematode to great ape to human may track not just complexity but qualitatively different cognitive regimes—and possibly qualitatively different relationships to consciousness. The [[consciousness-threshold-in-cognitive-evolution|consciousness threshold]] article examines the upper end of this gradient, where consciousness crosses a threshold and transforms what brains can do—enabling logical reasoning, cumulative culture, and counterfactual thinking that even sophisticated great ape cognition cannot achieve.
 
 ## The Three-Level Metarepresentational Framework
 

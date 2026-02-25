@@ -4,7 +4,7 @@ description: "Cognitive evolution appears to cross a threshold where consciousne
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T13:50:00+00:00
+ai_modified: 2026-02-25T12:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,10 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-evolution-problem]]"
+  - "[[consciousness-and-intelligence]]"
   - "[[consciousness-in-simple-organisms]]"
+  - "[[language-recursion-and-consciousness]]"
+  - "[[comparative-consciousness-and-interface-differences]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
   - "[[voids-threshold-void-2026-02-20]]"
 ai_contribution: 100
@@ -30,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-02-23T13:50:00+00:00
+last_deep_review: 2026-02-25T12:08:00+00:00
 ---
 
 Something changes in cognitive evolution that cannot be explained by neural complexity alone. Great apes possess brains of extraordinary sophistication—tool use, social manipulation, procedural metacognition—yet they cannot perform logical reasoning, sustain cumulative culture, or engage in counterfactual thinking. Humans, separated by roughly 1-2% genetic difference, do all of these. The Unfinishable Map argues that this discontinuity marks a consciousness threshold: a transition where consciousness becomes sufficiently integrated with neural architecture to transform cognitive capacity from within.
@@ -112,9 +115,12 @@ The threshold also reinforces the Map's rejection of [[concepts/epiphenomenalism
 - [[evolution-of-consciousness]]
 - [[consciousness-as-amplifier]]
 - [[baseline-cognition]]
+- [[consciousness-and-intelligence]]
 - [[consciousness-evolution-problem]]
 - [[consciousness-in-simple-organisms]]
 - [[animal-consciousness]]
+- [[language-recursion-and-consciousness]]
+- [[comparative-consciousness-and-interface-differences]]
 
 ## References
 

@@ -81,7 +81,7 @@ If insects are conscious—as the New York Declaration's "realistic possibility"
 2. **Threshold satisfaction**: Some minimal mechanism suffices for consciousness; additional neural complexity affects content but not the interface itself
 3. **Different mechanism**: Insect consciousness exploits a simpler or different interface than mammalian consciousness
 
-The [[consciousness-as-amplifier|amplification hypothesis]] suggests option 2 may be correct for at least some cognitive functions: baseline cognition operates without consciousness, while consciousness amplifies certain capacities. But this concerns what consciousness *does*, not how it *interfaces*.
+The [[consciousness-as-amplifier|amplification hypothesis]] suggests option 2 may be correct for at least some cognitive functions: baseline cognition operates without consciousness, while consciousness amplifies certain capacities. The [[consciousness-threshold-in-cognitive-evolution|consciousness threshold]] article argues that this amplification becomes transformative at a specific point in cognitive evolution—where the interface becomes rich enough for consciousness to enable logical reasoning, cumulative culture, and counterfactual thinking. But this concerns what consciousness *does*, not how it *interfaces*.
 
 ## State-Dependent Interface Variation
 
