@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 09:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Agency Verification Void
+- **Output**: [[voids/agency-verification-void]]
+- **Word count**: 1463
+- **Based on research**: yes, [[research/voids-agency-verification-void-2026-02-15]]
+
 ## 2026-02-25 09:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/reductionism]]
