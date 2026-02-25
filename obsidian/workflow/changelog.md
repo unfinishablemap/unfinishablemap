@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 13:39 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Objectivity, consciousness, and the view from nowhere
+- **Reason**: Article already exists at [[objectivity-and-consciousness]] — written from the same research notes
+- **Existing article**: [[objectivity-and-consciousness]]
+
 ## 2026-02-25 13:24 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/unity-of-consciousness]]
