@@ -252,6 +252,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-02-25
 
+### P3: Write article on the epistemology of introspection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies heavily on phenomenological evidence (flow states, pain asymbolia, choking) but lacks a unified treatment of when introspective evidence is trustworthy. Under what conditions does first-person report constitute evidence? How does the calibration void constrain phenomenological methodology? Builds on introspection.md, phenomenal-conservatism-and-introspective-evidence.md, emotion-as-evidence-for-dualism.md. See optimistic-2026-02-25-evening.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on biological teleology and the interface framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The evolution-under-dualism article introduces "agent teleology" without cosmic or theological teleology but doesn't develop the metaphysical status of purposes under dualism fully. How does agent teleology relate to biological function? Builds on evolution-under-dualism.md, consciousness-threshold-in-cognitive-evolution.md, evolutionary-case-for-mental-causation.md. See optimistic-2026-02-25-evening.md
+- **Generated**: 2026-02-25
+
+### P3: Write article on valence as selection currency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The emotion-as-evidence article identifies valence as a candidate for the "currency" of conscious selection. Deserves development: how might felt goodness/badness function as the dimension along which consciousness biases quantum outcomes? What would a psychophysical law relating valence to selection look like? Builds on emotion-as-evidence-for-dualism.md, attention-as-selection-interface.md, phenomenal-value-realism.md. See optimistic-2026-02-25-evening.md
+- **Generated**: 2026-02-25
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
