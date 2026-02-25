@@ -100,6 +100,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[attention-created-voids|Attention-Created Voids]] — What attention excludes by selecting
 - [[habituation-void|The Habituation Void]] — How familiarity erases experience from consciousness
 - [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity
+- [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
 - [[phenomenology-of-error-recognition|The Phenomenology of Error Recognition]] — Detecting one's own mistakes
 
