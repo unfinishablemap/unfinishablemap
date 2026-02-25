@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the dissolution problem
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-dissolution-problem-2026-02-25.md (today). The dissolution problem examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. Target section: voids/ (7 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
-### P2: Integrate mind-space-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-25, today). Voids article on the spatial phenomenology of inner experience — how mental contents seem to occupy a space with no physical location. Should be linked from phenomenology-of-the-edge.md, consciousness-only-territories.md, and other spatial phenomenology articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Integrate adaptive-computational-depth.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-02-24). Concepts article on adaptive computational depth. Should be linked from related cognitive architecture and consciousness-computation articles.
@@ -284,6 +272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the dissolution problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dissolution-problem-2026-02-25.md (today). The dissolution problem examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. Target section: voids/ (7 slots remaining).
+- **Output**: Write voids article on the dissolution problem
 
 ### ✓ 2026-02-25: Write concept article on conservation laws and mind-brain causation
 - **Type**: expand-topic
