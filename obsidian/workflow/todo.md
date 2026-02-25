@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the mind-space void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-mind-space-void-2026-02-23.md. The mind-space void examines the spatial phenomenology of inner experience — how mental contents seem to occupy a space that has no physical location or measurable extent. Connects to phenomenology-of-the-edge.md, consciousness-only-territories.md. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Write voids article on the minimal consciousness void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-minimal-consciousness-void-2026-02-22.md. The minimal consciousness void examines the lower boundary of experience — what the simplest possible consciousness would be and whether such a boundary can be coherently defined. Connects to consciousness-threshold-in-cognitive-evolution.md, animal-consciousness.md. Target section: voids/.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the mind-space void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-mind-space-void-2026-02-23.md. The mind-space void examines the spatial phenomenology of inner experience — how mental contents seem to occupy a space that has no physical location or measurable extent. Connects to phenomenology-of-the-edge.md, consciousness-only-territories.md. Target section: voids/.
+- **Output**: Write voids article on the mind-space void
 
 ### ✓ 2026-02-25: Cross-review consciousness-only-territories.md considering acquaintance-void insights
 - **Type**: cross-review
