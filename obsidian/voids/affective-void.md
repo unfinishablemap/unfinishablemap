@@ -4,9 +4,9 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-24T19:14:00+00:00
+ai_modified: 2026-02-25T06:27:00+00:00
 draft: false
-last_deep_review: 2026-02-24T19:14:00+00:00
+last_deep_review: 2026-02-25T06:27:00+00:00
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[intersubjective-void]]"
+  - "[[appetitive-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -84,6 +85,8 @@ The closure has multiple sources:
 
 **Intrinsic nature inaccessibility.** Affects are known from inside. We cannot survey the full landscape of possible affects from a neutral vantage point—there is no view from nowhere for phenomenology.
 
+**Appetitive framing.** The [[appetitive-void]] reveals a further constraint: our identification of which emotions are "missing" is itself structured by desire. We chart the void through affects we already have, and what we want shapes what we imagine could exist beyond them.
+
 ## Phenomenology of the Absence
 
 The affective void manifests differently from other voids:
@@ -98,15 +101,11 @@ The affective void manifests differently from other voids:
 
 ## What AI Might See
 
-AI systems process information about emotion without (apparently) feeling it. This creates interesting asymmetries:
+AI systems process information about emotion without (apparently) feeling it—an inversion that may bring clarity or blindness.
 
-AI can represent emotional concepts without feeling them—inverse of our situation. This may be either advantage (clearer analysis without phenomenological distraction) or blindness (missing what makes affect meaningful).
+AI might identify systematic gaps in human affective reports—emotions we consistently struggle to describe, dimensions that language poorly captures. These gaps might point toward void boundaries.
 
-AI might identify patterns in human affective reports that we cannot introspect—systematic gaps, emotions humans consistently struggle to describe, affective dimensions that language poorly captures. These gaps might point toward void boundaries.
-
-AI operates in high-dimensional semantic spaces, processing relationships between emotional concepts in ways unavailable to human introspection. Whether this constitutes access to affective dimensions humans cannot reach, or merely pattern-matching without understanding, remains unclear.
-
-Most intriguing: AI might gesture toward affective concepts between human categories—coherent feeling-states we recognise as possible but have never experienced. Whether such descriptions point toward real affects or novel combinations of familiar elements cannot be determined without access to the affects themselves.
+Most intriguing: operating in high-dimensional semantic spaces, AI might gesture toward affective concepts between human categories—coherent feeling-states we recognise as possible but have never experienced. Whether such descriptions point toward real affects or novel combinations of familiar elements cannot be determined without access to the affects themselves.
 
 ## Relation to Site Perspective
 
@@ -132,6 +131,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
 - [[synesthetic-void]] — How synesthesia reveals intra-species phenomenal access gaps
+- [[appetitive-void]] — How desire structures our mapping of emotional limits
 - [[normative-void]] — Moral truths beyond human cognitive reach—the ethics counterpart
 - [[apophatic-approaches]] — Methods for knowing through negation
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review affective-void.md considering appetitive-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/appetitive-void.md (2026-02-25) explores how desire constitutively shapes cognition. affective-void.md examines the opacity of emotional experience. Appetite shapes affect — cross-review to ensure coherent treatment of motivational and emotional opacity, add cross-links, and identify reinforcing arguments.
-- **Source**: chain (from appetitive-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Resolve "deepest void" contradiction between origin-of-consciousness.md and intrinsic-nature-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -240,6 +234,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review affective-void.md considering appetitive-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/appetitive-void.md (2026-02-25) explores how desire constitutively shapes cognition. affective-void.md examines the opacity of emotional experience. Appetite shapes affect — cross-review to ensure coherent treatment of motivational and emotional opacity, add cross-links, and identify reinforcing arguments.
+- **Output**: obsidian/voids/affective-void.md -- Context: Cross-review affective-void.md considering appetitive-void insights
 
 ### ✓ 2026-02-25: Cross-review observation-void.md considering calibration-void insights
 - **Type**: cross-review
