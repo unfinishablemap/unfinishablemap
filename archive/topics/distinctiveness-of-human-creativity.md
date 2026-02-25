@@ -34,6 +34,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-02-11T05:19:00+00:00
+archived: true
+archived_date: 2026-02-25T06:43:00+00:00
+superseded_by: "/topics/consciousness-and-creative-distinctiveness/"
+archive_reason: "Coalesced into Consciousness and Creative Distinctiveness"
+original_path: "/topics/distinctiveness-of-human-creativity/"
 ---
 
 Human creativity differs from animal innovation and artificial intelligence generation not merely in sophistication but in kind. Chimpanzees innovate within Tomasello's "zone of latent solutions"—recombining existing skills without reconceptualising what they are doing. AI systems produce novel combinations from training distributions without experiencing what the combinations mean. Human creativity involves something neither achieves: creating under conditions of phenomenal consciousness, where the creator knows what it is like to face the problem, feels the stakes of getting it wrong, and experiences the significance of the result. The Unfinishable Map argues that this phenomenal dimension is not incidental to creative work but constitutive of what makes it genuinely creative.
