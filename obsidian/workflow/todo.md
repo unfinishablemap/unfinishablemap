@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review causal-interface.md considering agency verification void insights
-- **Type**: cross-review
-- **Notes**: New article voids/agency-verification-void.md (2026-02-25) shows consciousness cannot verify its own causal efficacy — the verification problem. causal-interface.md covers how consciousness accesses causal channels — the access problem. These are complementary: one asks how the interface works, the other asks whether we can confirm it works at all. Add cross-references and distinguish access from verification. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from agency-verification-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Write voids article on the narrative void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-narrative-void-2026-02-25.md. The narrative void examines why consciousness constructs narrative structure from experience and whether this structuring distorts or reveals what it captures. Connects to introspective-opacity.md, past-self-void.md, and the Map's phenomenological methodology. Target section: voids/.
@@ -260,6 +254,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review causal-interface.md considering agency verification void insights
+- **Type**: cross-review
+- **Notes**: New article voids/agency-verification-void.md (2026-02-25) shows consciousness cannot verify its own causal efficacy — the verification problem. causal-interface.md covers how consciousness accesses causal channels — the access problem. These are complementary: one asks how the interface works, the other asks whether we can confirm it works at all. Add cross-references and distinguish access from verification. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/voids/causal-interface.md -- Context: Cross-review causal-interface.md considering agency verification void insights
 
 ### ✓ 2026-02-25: Write voids article on the agency verification void
 - **Type**: expand-topic
