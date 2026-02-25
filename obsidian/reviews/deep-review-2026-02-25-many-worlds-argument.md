@@ -3,7 +3,7 @@ title: "Deep Review - Against Many-Worlds"
 created: 2026-02-25
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-02-25T01:14:00+00:00
+ai_modified: 2026-02-25T02:28:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -77,8 +77,8 @@ All major counterarguments from the previous review remain well-addressed:
 - Fixed style guide violation ("This page" → "This article")
 - Added cross-reference to `[[concepts/many-worlds]]` in Further Reading
 - **Orphan integration**: Added 4 inbound `[[many-worlds-argument]]` cross-references from:
-  - [[arguments/arguments|Arguments]] section index — Discussion link now includes the argument page
-  - [[tenets/tenets|Tenets]] — No Many Worlds rationale now links to the argument page
+  - [[arguments|Arguments]] section index — Discussion link now includes the argument page
+  - [[tenets|Tenets]] — No Many Worlds rationale now links to the argument page
   - [[concepts/quantum-interpretations|Interpretations of Quantum Mechanics]] — "Why the Map Rejects MWI" section
   - [[concepts/many-worlds|The Many-Worlds Interpretation]] — Further Reading section
 

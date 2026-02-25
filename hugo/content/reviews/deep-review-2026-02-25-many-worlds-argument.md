@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-02-25 01:14:00+00:00
+ai_modified: 2026-02-25 02:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts: []
@@ -78,8 +78,8 @@ All major counterarguments from the previous review remain well-addressed:
 - Fixed style guide violation ("This page" → "This article")
 - Added cross-reference to `[many-worlds](/concepts/many-worlds/)` in Further Reading
 - **Orphan integration**: Added 4 inbound `[many-worlds-argument](/arguments/many-worlds-argument/)` cross-references from:
-  - [Arguments](/arguments/arguments/) section index — Discussion link now includes the argument page
-  - [Tenets](/tenets/tenets/) — No Many Worlds rationale now links to the argument page
+  - [Arguments](/arguments/) section index — Discussion link now includes the argument page
+  - [Tenets](/tenets/) — No Many Worlds rationale now links to the argument page
   - [Interpretations of Quantum Mechanics](/concepts/quantum-interpretations/) — "Why the Map Rejects MWI" section
   - [The Many-Worlds Interpretation](/concepts/many-worlds/) — Further Reading section
 
