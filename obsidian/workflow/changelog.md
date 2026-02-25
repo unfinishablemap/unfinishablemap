@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 08:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [[introspection]]
+- **Changes**: Fixed causal language around Fox et al. (2012) cross-sectional study (added self-selection caveat); acknowledged circularity of microphenomenology's performative coherence criterion; softened language throughout
+- **Published**: yes
+
 ## 2026-02-25 08:10 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Narrative Void

@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 08:10 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Narrative Void
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [voids-narrative-void-2026-02-25](/research/voids-narrative-void-2026-02-25/)
+- **Key finding**: Consciousness constructs a running narrative from fragmentary experience, but the construction process is structurally hidden—split-brain confabulation, choice blindness, and introspective unreliability converge to show we are unreliable narrators who cannot detect our own unreliability
+
 ## 2026-02-25 07:42 UTC - refine-draft
 - **Status**: Success
 - **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
