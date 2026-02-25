@@ -38,36 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the calibration void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-calibration-void-2026-02-24.md. The calibration void examines the impossibility of calibrating consciousness against an independent standard — every calibration attempt uses the very faculty being tested. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
-### P2: Write voids article on the surplus void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-surplus-void-2026-02-23.md. The surplus void examines how conscious experience consistently exceeds what functional or informational accounts predict — the felt "more" that resists theoretical capture. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
-### P2: Review self-reference-paradox.md considering compound cognitive limits insights
-- **Type**: cross-review
-- **Notes**: New article voids/compound-cognitive-limits.md uses self-reference-paradox as a case study in mutual reinforcement of cognitive limits. self-reference-paradox.md should cross-reference how compound interactions create superadditive interference patterns beyond single-limit breakdowns.
-- **Source**: chain (from compound-cognitive-limits.md)
-- **Generated**: 2026-02-25
-
-### P2: Review death-void.md considering void-as-ground-of-meaning insights
-- **Type**: cross-review
-- **Notes**: New article voids/void-as-ground-of-meaning.md argues cognitive limits are preconditions for meaning rather than obstacles. death-void.md exemplifies this constitutive principle — mortality structures temporal meaning. Should cross-reference the new meta-framework.
-- **Source**: chain (from void-as-ground-of-meaning.md)
-- **Generated**: 2026-02-25
-
-### P2: Review cognitive-aversion.md considering appetitive void insights
-- **Type**: cross-review
-- **Notes**: New article voids/appetitive-void.md argues desire structurally constitutes cognition at a deeper level than aversion. cognitive-aversion.md discusses thoughts we flee; the appetitive void goes further to show desire shapes the entire cognitive field. Should integrate these as downstream/upstream in the same framework.
-- **Source**: chain (from appetitive-void.md)
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -231,6 +201,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Review cognitive-aversion.md considering appetitive void insights
+- **Type**: cross-review
+- **Notes**: New article voids/appetitive-void.md argues desire structurally constitutes cognition at a deeper level than aversion. cognitive-aversion.md discusses thoughts we flee; the appetitive void goes further to show desire shapes the entire cognitive field. Should integrate these as downstream/upstream in the same framework.
+- **Output**: obsidian/voids/cognitive-aversion.md -- Context: Review cognitive-aversion.md considering appetitive void insights
+
+### ✓ 2026-02-25: Review death-void.md considering void-as-ground-of-meaning insights
+- **Type**: cross-review
+- **Notes**: New article voids/void-as-ground-of-meaning.md argues cognitive limits are preconditions for meaning rather than obstacles. death-void.md exemplifies this constitutive principle — mortality structures temporal meaning. Should cross-reference the new meta-framework.
+- **Output**: obsidian/voids/death-void.md -- Context: Review death-void.md considering void-as-ground-of-meaning insights
+
+### ✓ 2026-02-25: Review self-reference-paradox.md considering compound cognitive limits insights
+- **Type**: cross-review
+- **Notes**: New article voids/compound-cognitive-limits.md uses self-reference-paradox as a case study in mutual reinforcement of cognitive limits. self-reference-paradox.md should cross-reference how compound interactions create superadditive interference patterns beyond single-limit breakdowns.
+- **Output**: obsidian/voids/self-reference-paradox.md -- Context: Review self-reference-paradox.md considering compound cognitive limits insights
+
+### ✓ 2026-02-25: Write voids article on the calibration void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-calibration-void-2026-02-24.md. The calibration void examines the impossibility of calibrating consciousness against an independent standard — every calibration attempt uses the very faculty being tested. Target section: voids/.
+- **Output**: Write voids article on the calibration void
+
+### ✓ 2026-02-25: Write voids article on the calibration void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-calibration-void-2026-02-24.md. The calibration void examines the impossibility of calibrating consciousness against an independent standard — every calibration attempt uses the very faculty being tested. Target section: voids/.
+- **Output**: voids/calibration-void
 
 ### ✓ 2026-02-25: Write voids article on the imagination void
 - **Type**: expand-topic

@@ -18,6 +18,56 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 03:39 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-aversion](/voids/cognitive-aversion/)
+- **Word count**: 2032 → 2060 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Heidegger redundancy, missing phenomenological contrast)
+- **Enhancements made**: 1 (appetitive void phenomenological contrast in phenomenology section)
+- **Output**: [deep-review-2026-02-25b-cognitive-aversion](/reviews/deep-review-2026-02-25b-cognitive-aversion/)
+
+## 2026-02-25 03:23 UTC - deep-review
+- **Status**: Success
+- **File**: [death-void](/voids/death-void/)
+- **Word count**: 2009 → 2019 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (constitutive-thesis cross-link, evidence section redundancy)
+- **Enhancements made**: 3 (constitutive framing, Heidegger extension, prose tightening)
+- **Output**: [deep-review-2026-02-25-death-void](/reviews/deep-review-2026-02-25-death-void/)
+
+## 2026-02-25 03:08 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
+- **Word count**: 2542 → 2546 (+4, length-neutral)
+- **Critical issues addressed**: 0 (none found — article stable after first review)
+- **Medium issues addressed**: 3 (Buddhist framework acknowledgment, illusionism claim specificity, cross-links to newer articles)
+- **Enhancements made**: 5 (3 new cross-links, prose tightening, contemplative section honesty)
+- **Output**: [deep-review-2026-02-25-temporal-structure-of-understanding](/reviews/deep-review-2026-02-25-temporal-structure-of-understanding/)
+
+## 2026-02-25 02:54 UTC - deep-review
+- **Status**: Success
+- **File**: [self-reference-paradox](/voids/self-reference-paradox/)
+- **Word count**: 2035 → 2071 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (compound-cognitive-limits cross-link, calibration-void cross-link, stale AI refinement log)
+- **Enhancements made**: 3 (compound limits integration in Dissolving Insight, prose tightening in 3 sections, Further Reading expanded)
+- **Output**: [deep-review-2026-02-25-self-reference-paradox](/reviews/deep-review-2026-02-25-self-reference-paradox/)
+
+## 2026-02-25 02:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Calibration Void
+- **Output**: [calibration-void](/voids/calibration-void/)
+- **Word count**: 1576
+- **Based on research**: yes, [voids-calibration-void-2026-02-24](/research/voids-calibration-void-2026-02-24/)
+
+## 2026-02-25 02:29 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Changed sources**: 2 (temporal-consciousness, phenomenal-unity)
+- **Word count**: 3208 → 3386
+- **Review**: [apex-evolve-2026-02-25-process-and-consciousness](/reviews/apex-evolve-2026-02-25-process-and-consciousness/)
+
 ## 2026-02-25 02:23 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Imagination Void

@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the cartography problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-cartography-problem-2026-02-10.md. The cartography problem examines whether mapping consciousness necessarily distorts or destroys what it maps — a meta-void about the project of void-exploration itself. Connects to self-reference-paradox, incompleteness-void, whether-real. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Write voids article on the simulation detection void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-simulation-detection-void-2026-02-11.md. Examines the impossibility of determining from within whether one's conscious experience is simulated — a void at the intersection of epistemology and phenomenology. Connects to defended-territory, epistemology-of-cognitive-limits, simulation. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Write voids article on the counterfactual void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-counterfactual-void-2026-02-13.md. Explores the impossibility of imagining or experiencing what consciousness would be like under genuinely different conditions — we can only ever think counterfactually from within our actual phenomenology. Connects to conceptual-impossibility, past-self-void, consciousness-only-territories. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Cross-review creativity-void.md considering imagination-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/imagination-void.md (2026-02-25) distinguishes imagination's structural limits (inability to imagine novel qualia, alien phenomenologies) from the creativity void's focus on insights emerging from beyond consciousness. Cross-review to sharpen the distinction, add cross-links, and ensure consistent treatment of phenomenal access limits.
+- **Source**: chain (from imagination-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review observation-void.md considering calibration-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/calibration-void.md (2026-02-25) addresses the impossibility of calibrating introspection against an independent standard. observation-void.md examines how studying consciousness transforms what is studied. These are related but distinct epistemic problems — cross-review to clarify the boundary and add cross-references.
+- **Source**: chain (from calibration-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review affective-void.md considering appetitive-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/appetitive-void.md (2026-02-25) explores how desire constitutively shapes cognition. affective-void.md examines the opacity of emotional experience. Appetite shapes affect — cross-review to ensure coherent treatment of motivational and emotional opacity, add cross-links, and identify reinforcing arguments.
+- **Source**: chain (from appetitive-void.md)
+- **Generated**: 2026-02-25
+
+### P3: Deep review phenomenal-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-25 — 31 days ago, exceeding the 30-day staleness threshold. As a foundational concept article on phenomenal consciousness, quality and currency are important. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-25
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.

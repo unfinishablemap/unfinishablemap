@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-25 01:59:00+00:00
+ai_modified: 2026-02-25 03:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of thoughts we systematically flee—not cogni
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 01:59:00+00:00
+last_deep_review: 2026-02-25 03:39:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ The subliminal effect is crucial. Participants whose death-awareness is activate
 
 Martin Heidegger's analysis of "fallenness" describes how Dasein (being-there, roughly the human mode of existence) evades its own nature. We surrender ourselves to the "they-self"—anonymous social existence—and thereby flee from confronting our own being-towards-death.
 
-The evasion is structurally determined. Dasein's "plunge into inauthenticity is not merely possible, but structurally determined." Inauthenticity is not moral failure but the default mode of human existence. Authentic confrontation with death—what Heidegger calls "anticipation"—requires running *toward* what we naturally flee. Such authenticity is rare and effortful.
+Dasein's "plunge into inauthenticity is not merely possible, but structurally determined." Inauthenticity is not moral failure but the default mode of human existence. Authentic confrontation with death—what Heidegger calls "anticipation"—requires running *toward* what we naturally flee. Such authenticity is rare and effortful.
 
 ### Becker and the Denial of Death
 
@@ -97,6 +97,8 @@ What does cognitive aversion feel like from the inside?
 **The discomfort.** Before the slide or substitution, there's often a phenomenological marker—discomfort, vertigo, the edge of anxiety. This is what Heidegger means by the anxiety that authentic confrontation produces. The discomfort signals approach to defended content.
 
 **The rationalization.** After avoidance, rationalization often appears: "There's no point dwelling on death," "Cosmic meaning is a confused concept anyway," "These questions are unanswerable so why bother." The rationalization arrives to justify the flight that has already occurred.
+
+These markers distinguish cognitive aversion from deeper limits. The [appetitive void](/voids/appetitive-void/) has no distinctive phenomenology because desire shapes the entire cognitive field; aversion, by contrast, announces itself—which is what makes it potentially confrontable.
 
 ## Aversion Versus Closure
 
