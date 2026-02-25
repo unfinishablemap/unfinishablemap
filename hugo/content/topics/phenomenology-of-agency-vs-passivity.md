@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-24 15:57:00+00:00
+ai_modified: 2026-02-25 15:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,6 +37,7 @@ related_articles:
 - '[[dream-consciousness]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
+- '[[ownership-void]]'
 title: Phenomenology of Agency vs Passivity
 topics:
 - '[[topics/free-will]]'
@@ -103,7 +104,7 @@ Under hypnosis, subjects report that their arm rises "by itself." The motor outp
 
 Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
-This matters because it reveals that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology.
+This matters because it reveals that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology. The [ownership void](/voids/ownership-void/) explores a deeper puzzle: not just how ownership separates from agency, but why the ownership relation itself—the felt sense that any experience is *mine*—hides its own mechanism from introspection.
 
 ## What the Contrast Reveals
 
@@ -157,6 +158,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [motor-selection](/concepts/motor-selection/) — The agency-passivity contrast in movement
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
 - [volitional-opacity](/voids/volitional-opacity/) — Why the mechanism connecting will to action is invisible
+- [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from introspection
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of agency across the Map
 

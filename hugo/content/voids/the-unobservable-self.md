@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-25 14:41:00+00:00
+ai_modified: 2026-02-25 15:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[absorption-void]]'
 - '[[narrative-void]]'
+- '[[ownership-void]]'
 title: The Unobservable Self
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -158,6 +159,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 - [The Silence Void](/voids/the-silence-void/) — When the observer ceases observing: the territory beyond the regression
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists explanation
+- [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from the subject who bears it
 - [Haecceity](/concepts/haecceity/) — The irreducible particularity of this observer
 
 ## References

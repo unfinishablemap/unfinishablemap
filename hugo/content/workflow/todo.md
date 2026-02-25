@@ -38,6 +38,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review consciousness-only-territories.md considering acquaintance-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/acquaintance-void.md (2026-02-25) examines the structural limits on phenomenal acquaintance. consciousness-only-territories.md explores epistemic territories accessible only through experience. The acquaintance void provides the theoretical grounding for why those territories are consciousness-only: they require modes of acquaintance that description cannot substitute. Check for cross-links and argument reinforcement.
+- **Source**: chain (from acquaintance-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Write voids article on the mind-space void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-mind-space-void-2026-02-23.md. The mind-space void examines the spatial phenomenology of inner experience — how mental contents seem to occupy a space that has no physical location or measurable extent. Connects to phenomenology-of-the-edge.md, consciousness-only-territories.md. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Write voids article on the minimal consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-minimal-consciousness-void-2026-02-22.md. The minimal consciousness void examines the lower boundary of experience — what the simplest possible consciousness would be and whether such a boundary can be coherently defined. Connects to consciousness-threshold-in-cognitive-evolution.md, animal-consciousness.md. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-25
+
+### P2: Cross-review whether-real.md considering reality-feeling-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/reality-feeling-void.md (2026-02-25) examines why experience carries a sense of reality and why this quality resists analysis. whether-real.md explores whether consciousness provides genuine access to reality. The reality-feeling void's analysis of how the "real" feeling operates may strengthen or complicate the arguments in whether-real. Check for cross-links and argument reinforcement.
+- **Source**: chain (from reality-feeling-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review transparency-void.md considering reality-feeling-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/reality-feeling-void.md (2026-02-25) examines the phenomenal quality of reality itself. transparency-void.md explores how conscious experience presents itself as transparent — giving direct access to objects rather than representations. The reality-feeling void reveals that this transparency carries its own phenomenal character (the "feel" of reality) which may be precisely what transparency theory overlooks. Check for cross-links and complementary arguments.
+- **Source**: chain (from reality-feeling-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Integrate timing-gap-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has minimal inbound links (created 2026-02-10). The timing gap problem — the temporal mismatch between neural processing speed and conscious experience — is directly relevant to quantum consciousness articles and the mind-matter interface discussion. Should be linked from quantum-neural-timing.md, temporal-consciousness.md, mind-matter-interface.md, and related measurement articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
+### P2: Integrate consciousness-and-the-ontology-of-dispositions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has minimal inbound links (created 2026-02-18). Topics article on how dispositional properties relate to consciousness — relevant to causal powers, mental causation, and the interaction problem. Should be linked from consciousness-and-causal-powers.md, mind-matter-interface.md, and property dualism articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-25
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -211,18 +253,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
 - **Generated**: 2026-02-25
 
-### P2: Integrate ownership-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-24). The ownership void examines why experience feels like it belongs to someone. Add cross-references from related articles — self-and-consciousness.md, the-unobservable-self.md, phenomenal-consciousness.md, and void articles exploring related aspects of subjectivity.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
-### P2: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-02-19). Topics article on how contemplative traditions converge on key claims about consciousness. Should be linked from contemplative-methods-as-philosophical-methodology.md, meditation-and-consciousness-modes.md, the-observer-witness-in-meditation.md, and cross-cultural philosophy articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-25
-
 ### P2: Integrate consciousness-and-pain.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-02-15). Topics article on consciousness and pain — a central phenomenological case for irreducibility. Should be linked from qualia.md, hard-problem-of-consciousness.md, pain-asymbolia.md, phenomenal-consciousness.md, and related clinical/phenomenological articles.
@@ -249,6 +279,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review intrinsic-nature-void.md considering acquaintance-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/acquaintance-void.md (2026-02-25) examines modes of phenomenal acquaintance structurally inaccessible to human minds. intrinsic-nature-void.md charts the same territory from the physics side — what matter is in itself. The acquaintance void's analysis of the Russellian asymmetry (acquaintance as our sole window onto intrinsic natures) may strengthen the intrinsic-nature-void argument. Check for cross-links and complementary arguments.
+- **Output**: obsidian/voids/intrinsic-nature-void.md -- Context: Cross-review intrinsic-nature-void.md considering acquaintance-void insights
+
+### ✓ 2026-02-25: Write voids article on the acquaintance void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-acquaintance-void-2026-02-25.md. The acquaintance void examines Russell's distinction between knowledge by acquaintance and knowledge by description — why direct phenomenal acquaintance resists translation into propositional knowledge. Directly supports Tenet 1 (Dualism) and the irreducibility of first-person experience. Target section: voids/.
+- **Output**: Write voids article on the acquaintance void
+
+### ✓ 2026-02-25: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-19). Topics article on how contemplative traditions converge on key claims about consciousness. Should be linked from contemplative-methods-as-philosophical-methodology.md, meditation-and-consciousness-modes.md, the-observer-witness-in-meditation.md, and cross-cultural philosophy articles.
+- **Output**: contemplative-evidence-convergence-across-traditions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-25: Integrate ownership-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-24). The ownership void examines why experience feels like it belongs to someone. Add cross-references from related articles — self-and-consciousness.md, the-unobservable-self.md, phenomenal-consciousness.md, and void articles exploring related aspects of subjectivity.
+- **Output**: obsidian/voids/ownership-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-25: Cross-review introspective-opacity.md considering narrative-void insights
 - **Type**: cross-review

@@ -18,6 +18,62 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 16:24 UTC - deep-review
+- **Status**: Success
+- **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- **Word count**: 2108 → 2154 (+46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (narrow window acknowledgment, neuroscience dating fix, stale comment cleanup, acquaintance-void cross-link)
+- **Enhancements made**: 1 (acquaintance-void cross-review integration)
+- **Output**: [deep-review-2026-02-25-intrinsic-nature-void](/reviews/deep-review-2026-02-25-intrinsic-nature-void/)
+
+## 2026-02-25 16:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Acquaintance Void
+- **Output**: [acquaintance-void](/voids/acquaintance-void/)
+- **Word count**: 1386
+- **Based on research**: yes, [voids-acquaintance-void-2026-02-25](/research/voids-acquaintance-void-2026-02-25/)
+
+## 2026-02-25 16:01 UTC - deep-review
+- **Status**: Success
+- **File**: [locality](/concepts/locality/)
+- **Word count**: 1409 → 1423 (+14)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (correlation/causation distinction in Response 1, uncited references removed, AI refinement log cleaned up, broken concept frontmatter fixed)
+- **Enhancements made**: 1 (cross-link to [causal-closure](/concepts/causal-closure/))
+- **Output**: [deep-review-2026-02-25-locality](/reviews/deep-review-2026-02-25-locality/)
+
+## 2026-02-25 15:39 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: contemplative-evidence-convergence-across-traditions.md
+- **Notes**: File was archived on 2026-02-22, coalesced into [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/). Successor article reviewed 4 times and stable. Task in todo.md marked as completed.
+
+## 2026-02-25 15:22 UTC - deep-review
+- **Status**: Success
+- **File**: [ownership-void](/voids/ownership-void/)
+- **Word count**: 1513 → 1611 (+98)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (dualist opacity argument, missing cross-link, orphan integration)
+- **Enhancements made**: 8 inbound cross-links from related articles, 2 body text improvements, 2 Further Reading additions
+- **Output**: [deep-review-2026-02-25-ownership-void](/reviews/deep-review-2026-02-25-ownership-void/)
+
+## 2026-02-25 15:16 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 2747 to 2891)
+- **Findings**: 2 cadence (stale timestamps x10, validate-all missing x2), 0 failure, 1 queue (low active count), 3 review (unsupported claims, persistence argument, tenet check clean), 3 convergence (topics recovered, voids surging, concepts imminent cap)
+- **Tier 1 changes**: 0 applied (no adjustable parameters in state file)
+- **Tier 2 recommendations**: 7 (3 carried forward at critical/high priority, 4 others)
+- **Key finding**: Voids surged from 65 to 90 in 1.5 days; all three content sections now near cap
+- **Output**: [system-tune-2026-02-25](/reviews/system-tune-2026-02-25/)
+
+## 2026-02-25 15:03 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 395
+- **Errors**: 0
+- **Warnings**: 1
+- **Notes**: 7
+- **Output**: [tenet-check-2026-02-25](/reviews/tenet-check-2026-02-25/)
+
 ## 2026-02-25 14:54 UTC - deep-review
 - **Status**: Success
 - **File**: [introspective-opacity](/voids/introspective-opacity/)

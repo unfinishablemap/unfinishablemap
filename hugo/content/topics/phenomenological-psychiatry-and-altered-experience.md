@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-22 05:09:00+00:00
+ai_modified: 2026-02-25 15:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[first-person-third-person-methodology]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[ownership-void]]'
 title: Phenomenological Psychiatry and Altered Experience
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -88,7 +89,7 @@ Depersonalization/derealization disorder — among the most philosophically reve
 
 The condition reveals that normal experience depends on at least three separable structural features:
 
-- **Mineness**: the sense that experiences [belong to a subject](/topics/consciousness-and-the-ownership-problem/)
+- **Mineness**: the sense that experiences [belong to a subject](/topics/consciousness-and-the-ownership-problem/); the [ownership void](/voids/ownership-void/) explores why this belonging resists introspection
 - **Actuality**: the sense that the experienced world is real
 - **Temporal presence**: the sense of being situated in the "now"
 
@@ -127,6 +128,7 @@ A caveat: tight correlations between brain states and experiential structures �
 - [the-case-for-dualism](/concepts/the-case-for-dualism/)
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — The three conceptions of selfhood that ipseity disturbance illuminates
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to someone, and what happens when it stops
+- [The Ownership Void](/voids/ownership-void/) — Why the mineness of experience hides its own mechanism
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structures that depression and schizophrenia disrupt
 - [embodied-cognition](/concepts/embodied-cognition/) — The lived body as interface between consciousness and world
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — How altered states reveal consciousness's range

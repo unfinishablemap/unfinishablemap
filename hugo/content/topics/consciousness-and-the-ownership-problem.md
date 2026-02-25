@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-15 00:48:00+00:00
+ai_modified: 2026-02-25 15:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[the-unobservable-self]]'
 - '[[identity-across-transformations]]'
+- '[[ownership-void]]'
 title: Consciousness and the Ownership Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -72,7 +73,7 @@ The ownership problem suggests that belonging-to-a-subject may be a primitive fe
 
 This is what the phenomenological tradition has long maintained. Husserl argued that every act of consciousness is characterised by its first-personal givenness—experience is always given *to* someone. Zahavi develops this into the claim that the minimal self is not a separate entity attached to experience but the very mode in which experience exists. Experience does not first occur and then get assigned to an owner. It occurs *as owned*.
 
-[Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) provides clinical evidence for ownership as primitive. In depersonalization, the sense of mineness is stripped from experience while the experience itself persists — demonstrating that ownership is a separable structural feature, not an artefact of cognitive processing. The ipseity disturbance model in schizophrenia shows the same: experiences continue to occur but lose their quality of *belonging* to the subject.
+[Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) provides clinical evidence for ownership as primitive. In depersonalization, the sense of mineness is stripped from experience while the experience itself persists — demonstrating that ownership is a separable structural feature, not an artefact of cognitive processing. The ipseity disturbance model in schizophrenia shows the same: experiences continue to occur but lose their quality of *belonging* to the subject. The [ownership void](/voids/ownership-void/) explores why these disruptions reveal ownership's absence without revealing ownership's ground — the mechanism of appropriation hides from introspection because introspection is itself already owned.
 
 If ownership is primitive, it cannot be decomposed into non-ownership components. This has a significant consequence: any theory that analyses consciousness entirely in terms of information processing, functional organisation, or physical structure will miss ownership, because none of these ingredients is inherently first-personal. You can specify every detail of how a system processes information without specifying *whose* information processing it is.
 
@@ -133,6 +134,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the owner resists observation
 - [binding-problem](/concepts/binding-problem/) — Unity of experience as distinct from ownership of experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The prior question ownership presupposes
+- [The Ownership Void](/voids/ownership-void/) — Why the ownership mechanism hides from introspection
 - [witness-consciousness](/concepts/witness-consciousness/) — Ownership stripped of narrative content
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The reductionist challenge to primitive ownership
 

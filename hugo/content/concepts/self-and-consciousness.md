@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-22 15:54:00+00:00
+ai_modified: 2026-02-25 15:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[tenets]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[self-consciousness-philosophy-2026-01-15]]'
+- '[[ownership-void]]'
 title: Self and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -144,6 +145,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [binding-problem](/concepts/binding-problem/) — Unity of experience and its relation to selfhood
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Filter theory and the rendering engine analogy
 - [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/) — What constitutes "a moment" of conscious experience
+- [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [personal-identity](/topics/personal-identity/) — How the self persists over time
 
 ## References

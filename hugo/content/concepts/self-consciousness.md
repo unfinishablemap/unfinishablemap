@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-23 14:22:00+00:00
+ai_modified: 2026-02-25 15:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[self-consciousness-philosophy-2026-01-15]]'
 - '[[reductionism-and-consciousness]]'
+- '[[ownership-void]]'
 title: Self-Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -107,6 +108,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 - [introspection](/concepts/introspection/) — The practice of attending to one's own mental states
 - [metacognition](/concepts/metacognition/) — Monitoring cognition vs knowing that one monitors
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the observer cannot catch itself observing
+- [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [phenomenology-of-self-reference](/voids/phenomenology-of-self-reference/) — What self-reference feels like from the inside
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 - [witness-consciousness](/concepts/witness-consciousness/) — Awareness stripped of reflexive identification

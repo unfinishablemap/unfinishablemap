@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-02-24 15:42:00+00:00
+ai_modified: 2026-02-25 15:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Human+AI inquiry into why we cannot introspect how experiences beco
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-25 15:22:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +28,8 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[transparency-void]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[consciousness-and-the-ownership-problem]]'
+- '[[self-consciousness]]'
 title: The Ownership Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -59,7 +62,7 @@ Franz Knappik complicates the picture by arguing that DPD symptoms need not refl
 
 Thomas Metzinger's self-model theory offers a physicalist account of why the ownership relation hides itself. The phenomenal self-model (PSM) is a *transparent* self-representation: the system cannot experience it *as* a model. Because the model's construction is invisible, its contents feel simply and directly "mine." Metzinger calls this "epistemic autoepistemic closure"—the self-model is architecturally designed to conceal its own modelling.
 
-The Map does not endorse Metzinger's physicalist framework, but the structural insight applies across metaphysical positions. Whether ownership is produced by neural self-modelling or is constitutive of non-physical subjectivity, the result is the same: the ownership relation is hidden from the subject who bears it. Under dualism, the opacity may run even deeper—not merely concealed by neural architecture but constitutive of what subjectivity *is*. A non-physical subject cannot disassemble its own subjectivity any more than a physical self-model can observe its own transparency.
+The Map does not endorse Metzinger's physicalist framework, but the structural insight applies across metaphysical positions. Whether ownership is produced by neural self-modelling or is constitutive of non-physical subjectivity, the result is the same: the ownership relation is hidden from the subject who bears it. Under dualism, the opacity may run even deeper—not merely concealed by neural architecture but constitutive of what subjectivity *is*. A physical system can in principle be analyzed from outside by another physical system, but a non-physical subject has no external vantage point from which its subjectivity could be examined. It cannot disassemble its own ownership any more than a physical self-model can observe its own transparency.
 
 ## The Contemplative Approach
 
@@ -78,6 +81,8 @@ This distinguishes the ownership void from neighbouring voids:
 - The **[unobservable self](/voids/the-unobservable-self/)** concerns the subject that cannot become its own object. The ownership void asks why any experience feels appropriated by a subject.
 - **[introspective-opacity](/voids/introspective-opacity/)** concerns hidden cognitive processes. The ownership void concerns a specific phenomenal feature—mineness—that is normally present but whose ground is hidden.
 - The **[self-reference-paradox](/voids/self-reference-paradox/)** concerns logical structure. The ownership void is phenomenological: about felt belonging, not formal reflexivity.
+
+The broader [ownership problem](/topics/consciousness-and-the-ownership-problem/)—why experience belongs to anyone at all—provides the philosophical context. The ownership void is the epistemic residue that remains even after the ownership problem is well-stated: not merely that ownership is unexplained, but that the mechanism of appropriation is structurally inaccessible from within.
 
 ## Relation to Site Perspective
 
@@ -107,6 +112,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 - [self-reference-paradox](/voids/self-reference-paradox/) — Formal limitations on self-understanding
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self and pre-reflective awareness
+- [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to anyone, and what happens when it stops
+- [self-consciousness](/concepts/self-consciousness/) — Pre-reflective for-me-ness and the circularity of self-awareness
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 
 ## References

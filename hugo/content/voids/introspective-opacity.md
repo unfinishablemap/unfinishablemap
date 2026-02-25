@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-25 14:54:00+00:00
+ai_modified: 2026-02-25 15:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[self-reference-paradox]]'
 - '[[volitional-opacity]]'
+- '[[ownership-void]]'
 title: Introspective Opacity
 topics:
 - '[[philosophy-of-mind]]'
@@ -36,7 +37,7 @@ topics:
 
 We have access to our mental contents—thoughts, images, feelings—but not to the processes that produce them. This is introspective opacity: the structural gap between consciousness and its own mechanisms. William James compared introspecting thought to "seizing a spinning top to catch its motion, or trying to turn up the gas quickly enough to see how the darkness looks." The act of observation transforms what is observed. We cannot catch thought in the act of thinking.
 
-This void differs from the [unobservable self](/voids/the-unobservable-self/), which concerns the observer itself eluding observation. Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious. The observer may be present; its operations remain opaque.
+This void differs from the [unobservable self](/voids/the-unobservable-self/), which concerns the observer itself eluding observation, and from the [ownership void](/voids/ownership-void/), which concerns a specific phenomenal feature—mineness—whose ground is hidden rather than cognitive processes in general. Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious. The observer may be present; its operations remain opaque.
 
 ## The Contents/Process Distinction
 
@@ -158,6 +159,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Attention-Created Voids](/voids/attention-created-voids/) — How attending to phenomena can destroy them
+- [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from the subject who bears it
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Formal limitations on self-understanding
 - [Introspection and First-Person Methods](/concepts/introspection/) — Reliability and limits of self-examination
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits

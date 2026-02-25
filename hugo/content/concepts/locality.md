@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-20 01:06:00+00:00
+ai_modified: 2026-02-25 16:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[brain-interface-boundary]]'
 - '[[pairing-problem]]'
 - '[[binding-problem]]'
-- quantum-entanglement
+- '[[causal-closure]]'
 created: 2026-01-07
 date: &id001 2026-01-19
 description: AI-assisted analysis of the locality objection to dualist mind-matter
@@ -19,7 +19,7 @@ description: AI-assisted analysis of the locality objection to dualist mind-matt
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 15:10:40+00:00
+last_deep_review: 2026-02-25 16:01:00+00:00
 modified: *id001
 related_articles:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
@@ -47,9 +47,9 @@ The implicit argument: consciousness would need to be "present at" each quantum 
 
 The locality objection assumes that any cause must be spatially located at each point where it produces effects. But this assumption is not universally enforced even in physics—and consciousness, as a non-physical posit, need not satisfy it at all.
 
-Within physics itself, locality is contested territory. Quantum entanglement produces correlated outcomes across arbitrary distances without any local mechanism transmitting the correlation (Bell, 1964). The correlations are real, experimentally verified, and resist explanation through local hidden variables. Whatever produces them does not operate by "reaching" each measurement site from a spatial location.
+Within physics itself, locality is contested territory. Quantum entanglement produces correlated outcomes across arbitrary distances without any local mechanism transmitting the correlation (Bell, 1964). The correlations are real, experimentally verified, and resist explanation through local hidden variables. Whatever produces them does not operate by "reaching" each measurement site from a spatial location. To be precise: entanglement correlations are not causal transmissions—the no-signaling theorem ensures they cannot carry information. The point is not that entanglement models how consciousness might act non-locally, but that the universe's fundamental structure already includes phenomena that resist spatially local explanation.
 
-The dualist can press this point: if the physical world itself contains non-local correlations that resist spatially local explanation, demanding strict locality from a non-physical cause is an inconsistent standard. The objector would need to show that *only* physical non-locality is permissible—a claim requiring justification that is rarely provided.
+The dualist can press this: demanding strict locality from a non-physical cause while the physical world itself contains non-local structure is an inconsistent standard. The objector would need to show that *only* physical non-locality is permissible—a claim requiring justification that is rarely provided.
 
 More fundamentally, consciousness is posited as non-physical precisely because it has properties (subjective experience, intentionality, unity) that physical description does not capture. A non-physical cause has no spatial location to begin with. Asking "where is it?" when interacting with neural sites treats consciousness as though it must be somewhere in particular—importing spatial assumptions that the dualist framework explicitly rejects.
 
@@ -111,7 +111,7 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness acts on *this* brain specifically and what makes neural systems suitable interfaces
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge about mind-body connection
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The broader question of whether quantum selection is coherent
-- quantum-entanglement — The non-local correlations that challenge strict locality
+- [causal-closure](/concepts/causal-closure/) — Why rejecting causal closure creates room for non-physical causation
 - [binding-problem](/concepts/binding-problem/) — How distributed activity yields unified experience
 - [tenets](/tenets/) — The foundational commitments these concepts serve
 - [free-will](/topics/free-will/) — How quantum selection relates to libertarian free will
@@ -121,19 +121,3 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 - Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics*, 1(3), 195-200.
 - Huggett, N., & Wüthrich, C. (2013). Emergent spacetime and empirical (in)coherence. *Studies in History and Philosophy of Modern Physics*, 44(3), 276-285.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press. [Develops the pairing problem objection to substance dualism]
-- Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
-- Stapp, H. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-
-<!-- AI REFINEMENT LOG - 2026-02-20
-Changes made:
-- Rewrote Response 1 to fix category error: replaced flawed "physical law coordinates things" analogy (which reifies descriptive regularity as a causal agent) with argument about non-locality in physics itself (entanglement) and the inconsistency of demanding strict locality from non-physical causes
-- Replaced ad hoc simulation argument (Response 3) with independently motivated argument about contested assumptions regarding fundamental spacetime and spatial causation
-- Updated opening summary and Relation to Site Perspective section to match revised responses
-- Updated references (added Bell 1964, Huggett & Wüthrich 2013; removed Chalmers Reality+ which supported removed simulation argument)
-- Updated concepts list and further reading links
-
-Based on pessimistic review (2026-02-20) identifying three high-severity issues.
-Key improvements: eliminated category error in Response 1, replaced unmotivated simulation hypothesis with grounded metaphysical argument in Response 3.
-
-This log should be removed after human review.
--->
