@@ -4,7 +4,7 @@ description: "The view that physics describes only structure while intrinsic qui
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-20T01:51:00+00:00
+ai_modified: 2026-02-25T13:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-27T06:19:00+00:00
+last_deep_review: 2026-02-25T13:56:00+00:00
 ---
 
 Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved, and critics argue Russellian monism inherits dualism's costs under a different name.
@@ -52,7 +52,7 @@ This creates space for consciousness. If physics captures only structure, someth
 
 Galen Strawson, Philip Goff (in earlier work), and others argue that quiddities are phenomenal properties—experience is fundamental and ubiquitous. Every electron has some micro-experience; human consciousness is what micro-experiences look like "from inside" when organized into complex systems.
 
-The attraction: this avoids emergence. We don't need to explain how consciousness arises from non-conscious matter because consciousness was there all along. Experience doesn't emerge; it combines.
+The attraction: this avoids [[emergence]]. We don't need to explain how consciousness arises from non-conscious matter because consciousness was there all along. Experience doesn't emerge; it combines.
 
 Strawson's challenge: we have direct evidence that experience exists—it is the one thing we know with certainty. We have no comparable evidence for wholly non-experiential matter. Why assume the non-experiential when the experiential is right here?
 
@@ -164,7 +164,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 5. **Grounding laws prove more explanatory than interaction laws.** Both frameworks posit fundamental psychophysical laws. Russellian monism's grounding laws specify which quiddity configurations yield which experiences; dualism's interaction laws specify how consciousness influences physical outcomes. If grounding laws generate richer predictions or better integrate with physics, Russellian monism would look more promising than the Map currently acknowledges.
 
-**Why these conditions seem unmet:** The combination problem has resisted solution since James's "most peculiar puzzle" in 1890. The quantum interaction hypothesis faces decoherence objections that recent evidence (Kerskens & Pérez 2022-2023; Wiest et al. 2024) complicates rather than resolves. Panprotopsychism's conceivability defense remains underdeveloped. And while introspection has limits, the process vs. content distinction protects basic phenomenal access.
+**Why these conditions seem unmet:** The combination problem has resisted solution since James's "most peculiar puzzle" in 1890. The quantum interaction hypothesis faces decoherence objections that recent evidence (Kerskens & Pérez 2022; Wiest et al. 2024) complicates rather than resolves. Panprotopsychism's conceivability defense remains underdeveloped. And while introspection has limits, the process vs. content distinction protects basic phenomenal access.
 
 ## Further Reading
 
@@ -197,18 +197,3 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Wiest, M.C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-
-<!-- AI REFINEMENT LOG - 2026-02-20
-Changes made:
-- Softened "empirically tractable" vs "conceptually closed" asymmetry in Mysterian Angle section to "potentially empirically tractable" with explicit acknowledgment that evidence is contested, per pessimistic review Issue 5
-- Aligned "What Would Challenge This View?" point 2 to match softened language
-- Fixed Eddington composite quote (two separate passages were spliced into one fabricated quote) — converted to paraphrase with partial quote
-- Fixed Strawson quote (likely paraphrase presented as direct quote) — converted to attributed paraphrase in both occurrences
-- Fixed Whitehead "flux of things" attribution — distinguished Russell's structural realism from Whitehead's process metaphysics rather than conflating them
-- Removed unverifiable "Chalmers calls 'the hard problem of panpsychism'" attribution — simplified to direct statement
-
-Based on pessimistic review 2026-02-20 (Issue 5) and attribution accuracy check.
-Key improvements: intellectual honesty about the Map's own epistemic position; attribution accuracy.
-
-This log should be removed after human review.
--->
