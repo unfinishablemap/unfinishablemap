@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- `[unity of consciousness](/concepts/phenomenal-unity/)` linked to non-existent `phenomenal-unity` when `unity-of-consciousness` exists as a proper article: Fixed by updating to `[unity of consciousness](/concepts/unity-of-consciousness/)` in both frontmatter concepts and body text
+- `[unity of consciousness](/concepts/unity-of-consciousness/)` linked to non-existent `phenomenal-unity` when `unity-of-consciousness` exists as a proper article: Fixed by updating to `[unity of consciousness](/concepts/unity-of-consciousness/)` in both frontmatter concepts and body text
 
 ### Medium Issues Found
 - `binding-void` in frontmatter and Further Reading lacked wikilink syntax: Fixed by adding `[[]]` brackets in both locations
@@ -66,13 +66,13 @@ All attributions checked and verified:
 ### Enhancements Made
 - Added Minimal Quantum Interaction paragraph to Relation to Site Perspective, completing coverage of all five tenets
 - Added `[process-haecceitism](/concepts/process-haecceitism/)` cross-link in haecceity discussion, connecting static and dynamic accounts of thisness
-- Added `[unity-of-consciousness](/concepts/unity-of-consciousness/)` and `[varieties-of-unity](/concepts/varieties-of-unity/)` to Further Reading section
+- Added `[unity-of-consciousness](/concepts/unity-of-consciousness/)` and `[varieties-of-unity](/concepts/unity-of-consciousness/)` to Further Reading section
 - Fixed broken concept link: `phenomenal-unity` → `unity-of-consciousness`
 - Fixed wikilink syntax on `binding-void` in frontmatter and Further Reading
 
 ### Cross-links Added
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
-- [varieties-of-unity](/concepts/varieties-of-unity/)
+- [varieties-of-unity](/concepts/unity-of-consciousness/)
 - [process-haecceitism](/concepts/process-haecceitism/)
 
 ## Remaining Items

@@ -123,7 +123,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on subject boundaries
 - [combination-problem](/concepts/combination-problem/) — How micro-subjects fail to compose macro-subjects
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — What makes a set of experiences belong to one subject
-- [varieties-of-unity](/concepts/varieties-of-unity/) — Synchronic, diachronic, and subject unity distinguished
+- [varieties-of-unity](/concepts/unity-of-consciousness/) — Synchronic, diachronic, and subject unity distinguished
 - [other-minds-void](/voids/other-minds-void/) — The epistemic asymmetry in consciousness access
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: identity through radical change
 - [binding-problem](/concepts/binding-problem/) — The related problem of what binds experiences into a unified field

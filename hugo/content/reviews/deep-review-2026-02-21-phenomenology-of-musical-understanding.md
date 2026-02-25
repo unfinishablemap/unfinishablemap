@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[phenomenal-unity](/concepts/phenomenal-unity/)` was coalesced into `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)` on 2026-02-11. The link appeared in the body text (line 88), frontmatter concepts, and Further Reading section. **Resolution**: Updated all three references to `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`.
+- **Broken wikilink**: `[phenomenal-unity](/concepts/unity-of-consciousness/)` was coalesced into `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)` on 2026-02-11. The link appeared in the body text (line 88), frontmatter concepts, and Further Reading section. **Resolution**: Updated all three references to `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`.
 
 ### Medium Issues Found
 - **Unsupported cross-cultural claim**: The assertion that "cross-cultural research complicates this story" about minor-key sadness lacked citation. **Resolution**: Added specific reference to Fritz et al. (2009) who demonstrated cross-cultural recognition of emotional valence in major/minor modes, and tightened the language.
@@ -58,13 +58,13 @@ No attribution errors found.
 - Falsifiability section: intellectually honest, identifies what would challenge the view
 
 ### Enhancements Made
-- Fixed broken `[phenomenal-unity](/concepts/phenomenal-unity/)` → `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)` (3 locations)
+- Fixed broken `[phenomenal-unity](/concepts/unity-of-consciousness/)` → `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)` (3 locations)
 - Added Fritz et al. (2009) citation for cross-cultural research claim
 - Fixed reference formatting (italics on book titles)
 - Added `last_deep_review` timestamp
 
 ### Cross-links Added
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (replacing archived [phenomenal-unity](/concepts/phenomenal-unity/))
+- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (replacing archived [phenomenal-unity](/concepts/unity-of-consciousness/))
 
 ## Remaining Items
 

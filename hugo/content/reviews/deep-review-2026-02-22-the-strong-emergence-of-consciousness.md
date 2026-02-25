@@ -26,7 +26,7 @@ topics: []
 None. The coalesced article is well-constructed with accurate attributions, no self-contradictions, and no source/Map conflation.
 
 ### Medium Issues Found
-- [Broken frontmatter concept link]: `[phenomenal-unity](/concepts/phenomenal-unity/)` in frontmatter concepts — no such file exists anywhere in the obsidian directory. **Resolution**: Removed from frontmatter.
+- [Broken frontmatter concept link]: `[phenomenal-unity](/concepts/unity-of-consciousness/)` in frontmatter concepts — no such file exists anywhere in the obsidian directory. **Resolution**: Removed from frontmatter.
 - [Missing decoherence wikilink]: Decoherence discussed at length in Kim's Challenge section but never wikilinked to existing `[decoherence](/concepts/decoherence/)` concept page. **Resolution**: Added wikilink.
 - [Description over length guideline]: Description was 199 characters, exceeding the 150-160 char guideline. **Resolution**: Trimmed to ~157 characters while preserving key message.
 - [Born rule claim vague]: Testability section mentioned "deviations from standard Born rule probabilities" without explaining what this would mean in practice. **Resolution**: Added brief clarification ("outcomes occurring more or less frequently than quantum mechanics predicts, correlated with conscious states").

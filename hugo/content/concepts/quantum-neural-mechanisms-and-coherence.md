@@ -275,7 +275,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and objective collapse
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
-- [phenomenal-unity](/concepts/phenomenal-unity/) — What quantum binding aims to explain
+- [phenomenal-unity](/concepts/unity-of-consciousness/) — What quantum binding aims to explain
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness may be illusory
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and limits of human understanding
 - [free-will](/topics/free-will/) — How quantum indeterminacy relates to libertarian free will

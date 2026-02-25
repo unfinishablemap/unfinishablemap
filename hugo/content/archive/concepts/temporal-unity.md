@@ -42,7 +42,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Temporal unity is the phenomenal property by which successive moments of experience belong to a single, continuous stream rather than occurring as disconnected instants. The Unfinishable Map distinguishes it from [synchronic unity](/concepts/varieties-of-unity/) (which binds features within a moment) and [subject unity](/concepts/varieties-of-unity/) (which establishes who experiences). Temporal unity answers a specific question: what makes experience *flow*? Without it, consciousness would be a series of vivid snapshots with nothing connecting one to the next. Temporal unity is what makes a melody more than a sequence of tones and a thought more than a series of unrelated mental states.
+Temporal unity is the phenomenal property by which successive moments of experience belong to a single, continuous stream rather than occurring as disconnected instants. The Unfinishable Map distinguishes it from [synchronic unity](/concepts/unity-of-consciousness/) (which binds features within a moment) and [subject unity](/concepts/unity-of-consciousness/) (which establishes who experiences). Temporal unity answers a specific question: what makes experience *flow*? Without it, consciousness would be a series of vivid snapshots with nothing connecting one to the next. Temporal unity is what makes a melody more than a sequence of tones and a thought more than a series of unrelated mental states.
 
 ## What Temporal Unity Is
 
@@ -107,7 +107,7 @@ These dissociations support the view that temporal unity is a distinct phenomena
 ## Further Reading
 
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader unity problem across all dimensions
-- [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy: synchronic, diachronic, and subject unity
+- [varieties-of-unity](/concepts/unity-of-consciousness/) — Taxonomy: synchronic, diachronic, and subject unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Consciousness and time: specious present, durée, AI implications
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into a temporal stream
 - [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/) — The felt asymmetry between settled past and open future

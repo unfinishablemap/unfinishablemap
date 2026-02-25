@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [Phenomenal Unity](/concepts/phenomenal-unity/)
+**Article**: [Phenomenal Unity](/concepts/unity-of-consciousness/)
 **Previous review**: [2026-01-28](/reviews/deep-review-2026-01-28-phenomenal-unity/)
 **Context**: Cross-review considering process-and-consciousness apex
 

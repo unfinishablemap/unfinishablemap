@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Phenomenal Unity](/concepts/phenomenal-unity/)
+**Article**: [Phenomenal Unity](/concepts/unity-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

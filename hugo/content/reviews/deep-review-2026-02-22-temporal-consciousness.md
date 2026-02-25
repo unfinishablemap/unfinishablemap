@@ -83,7 +83,7 @@ All major strengths from prior reviews remain intact:
 
 ### Cross-links Updated
 - `[psychophysical-coupling-law](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)`
-- `[phenomenal-unity](/concepts/phenomenal-unity/)` → `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`
+- `[phenomenal-unity](/concepts/unity-of-consciousness/)` → `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`
 
 ## Word Count
 

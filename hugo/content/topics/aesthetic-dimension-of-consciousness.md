@@ -92,7 +92,7 @@ For beauty to be beautiful *for* a subject, several conditions must hold simulta
 
 **Receptive openness.** The subject must be capable of taking in the object without immediately subsuming it under practical categories. Schopenhauer (1818/1969) identified this as "will-less perception"—attention freed from *what is this good for?* and able to dwell on *what is this?* Aesthetic experience requires consciousness that lets the object show itself rather than merely serving as input for action.
 
-**Evaluative integration.** The subject must unify perceptual features into a whole that carries evaluative character. A face is beautiful as a gestalt, not as a list of features. This integration requires [phenomenal-unity](/concepts/phenomenal-unity/)—the binding of diverse elements into a single field of experience where relations carry aesthetic weight. Without unity, no gestalt; without gestalt, no beauty.
+**Evaluative integration.** The subject must unify perceptual features into a whole that carries evaluative character. A face is beautiful as a gestalt, not as a list of features. This integration requires [phenomenal-unity](/concepts/unity-of-consciousness/)—the binding of diverse elements into a single field of experience where relations carry aesthetic weight. Without unity, no gestalt; without gestalt, no beauty.
 
 **Temporal depth.** Beauty unfolds. Even a painting requires durational encounter—the eye moves, attention shifts, elements emerge in sequence. Music makes the point explicitly: beauty in a sonata requires holding what came before in felt relation to what is happening now. A consciousness without temporal depth could not experience beauty in any form that involves structure over time.
 
@@ -228,7 +228,7 @@ The aesthetic dimension of consciousness supports the Map's [foundational commit
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thought, including aesthetic judgment
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Aesthetic judgment in the creative process
 - [qualia](/concepts/qualia/) — The broader problem of qualitative experience
-- [phenomenal-unity](/concepts/phenomenal-unity/) — The binding problem and aesthetic wholes
+- [phenomenal-unity](/concepts/unity-of-consciousness/) — The binding problem and aesthetic wholes
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of conscious experience
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience

@@ -67,7 +67,7 @@ When you experience seeing-and-hearing-simultaneously, there is "something it is
 
 Cross-modal binding makes this gap vivid. Different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes. Yet when these modalities refer to the same external event, you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine. The gap between neural integration mechanisms and phenomenal unity reveals BP2 in its starkest form.
 
-Phenomenal unity has several dimensions—synchronic, diachronic, and subject unity—that can dissociate in conditions like split-brain, dreamless sleep, and dissociative disorders (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). This dissociability suggests "phenomenal unity" may not be one problem but several.
+Phenomenal unity has several dimensions—synchronic, diachronic, and subject unity—that can dissociate in conditions like split-brain, dreamless sleep, and dissociative disorders (see [varieties-of-unity](/concepts/unity-of-consciousness/) for detailed analysis). This dissociability suggests "phenomenal unity" may not be one problem but several.
 
 ## Why Classical Mechanisms Structurally Fail
 
@@ -148,7 +148,7 @@ Phenomenal binding illuminates why the Map's [tenets](/tenets/) take the positio
 - [process-and-consciousness](/apex/process-and-consciousness/) — How process philosophy illuminates phenomenal unity through actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader conceptual framing of what unity is
 - [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Experimental support for quantum binding mechanisms
-- [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity
+- [varieties-of-unity](/concepts/unity-of-consciousness/) — Taxonomy of synchronic, diachronic, and subject unity
 - [binding-problem](/concepts/binding-problem/) — The neural challenge and historical formulation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-quantum interface

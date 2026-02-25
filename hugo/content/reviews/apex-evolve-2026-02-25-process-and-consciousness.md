@@ -27,7 +27,7 @@ topics: []
 
 1. **[temporal-consciousness](/concepts/temporal-consciousness/)** — modified 2026-02-17 (15 days stale). Significantly expanded through coalescence: now covers specious present with nested timescales, Bergson's durée, phenomenological method, working memory as neural correlate, mental time travel, temporal binding, temporal unity and disruption (schizophrenia, flow states), quantum consciousness connections, process philosophy perspective, illusionist challenge, and implications for machine consciousness.
 
-2. **[phenomenal-unity](/concepts/phenomenal-unity/)** — modified 2026-02-24 (22 days stale). Newly created article covering subsumptive unity and conjoint phenomenology (Bayne & Chalmers), distinctions from access unity/binding problem/representational unity, the structural mismatch argument for dualism, challenges (illusionism, split-brain cases), and connection to the combination problem and emergence void.
+2. **[phenomenal-unity](/concepts/unity-of-consciousness/)** — modified 2026-02-24 (22 days stale). Newly created article covering subsumptive unity and conjoint phenomenology (Bayne & Chalmers), distinctions from access unity/binding problem/representational unity, the structural mismatch argument for dualism, challenges (illusionism, split-brain cases), and connection to the combination problem and emergence void.
 
 ## Pessimistic Review
 

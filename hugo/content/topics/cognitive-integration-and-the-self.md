@@ -50,7 +50,7 @@ Within a single moment, consciousness integrates across:
 - **Perceptual features**: Shape, color, motion, location bind into objects
 - **Self-world boundary**: Distinguishing what is "me" from what is "not-me"
 
-This [synchronic unity](/concepts/varieties-of-unity/) is what [phenomenal binding](/concepts/phenomenal-binding-and-holism/) addresses—the integration of simultaneous elements into a holistic experiential state.
+This [synchronic unity](/concepts/unity-of-consciousness/) is what [phenomenal binding](/concepts/phenomenal-binding-and-holism/) addresses—the integration of simultaneous elements into a holistic experiential state.
 
 ### Diachronic Integration
 

@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[phenomenal-unity](/concepts/phenomenal-unity/)`**: No such file exists. Replaced with `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)` in both frontmatter and Further Reading section.
+- **Broken wikilink `[phenomenal-unity](/concepts/unity-of-consciousness/)`**: No such file exists. Replaced with `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)` in both frontmatter and Further Reading section.
 - **Attribution imprecision**: Article stated Whitehead called prehensions "feelings" without qualification. Corrected: Whitehead called *positive* prehensions "feelings" (*Process and Reality*, Part III); negative prehensions are "eliminations." Added citation reference.
 
 ### Medium Issues Found
@@ -63,7 +63,7 @@ topics: []
 
 ### Cross-links Added
 - [causal-closure](/concepts/causal-closure/)
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (replacing broken [phenomenal-unity](/concepts/phenomenal-unity/))
+- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (replacing broken [phenomenal-unity](/concepts/unity-of-consciousness/))
 
 ## Remaining Items
 

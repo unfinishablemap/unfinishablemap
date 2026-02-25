@@ -50,7 +50,7 @@ topics: []
 2. Strengthened Minimal Quantum Interaction tenet connection with Stapp-style quantum Zeno mechanism
 
 ### Cross-links Added
-- [phenomenal-unity](/concepts/phenomenal-unity/) - added to concepts frontmatter and inline discussion
+- [phenomenal-unity](/concepts/unity-of-consciousness/) - added to concepts frontmatter and inline discussion
 
 ## Remaining Items
 

@@ -92,7 +92,7 @@ Understanding is paradigmatically manipulative. Grasping how premises entail con
 
 ### Binding and the Click
 
-The click of understanding may reflect successful binding—the moment when separately maintained elements achieve [phenomenal unity](/concepts/phenomenal-unity/). Before the click, elements are processed serially but not integrated. The click marks integration: the elements become a whole that can be grasped as such.
+The click of understanding may reflect successful binding—the moment when separately maintained elements achieve [phenomenal unity](/concepts/unity-of-consciousness/). Before the click, elements are processed serially but not integrated. The click marks integration: the elements become a whole that can be grasped as such.
 
 Baddeley's episodic buffer—the working memory component that binds multimodal information—is described as "accessed by conscious awareness." If binding is conscious binding, then the click is the phenomenal signature of successful integration. Understanding isn't just having bound representations; it's the experience of binding achieving completion.
 
@@ -202,7 +202,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [agent-causation](/concepts/agent-causation/) — Understanding as a case of conscious agency in cognition
 - [decoherence](/concepts/decoherence/) — The quantum challenge to any consciousness-brain interface
 - [protention](/concepts/protention/) — Husserl's forward-directed anticipatory structure in present experience
-- [phenomenal-unity](/concepts/phenomenal-unity/) — Why conscious experiences come as integrated wholes
+- [phenomenal-unity](/concepts/unity-of-consciousness/) — Why conscious experiences come as integrated wholes
 - [binding-problem](/concepts/binding-problem/) — The challenge of explaining how separate features unify in experience
 
 ## References

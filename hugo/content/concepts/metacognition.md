@@ -100,7 +100,7 @@ Phenomenal consciousness provides this structure. Conscious experience involves 
 
 ### The Binding Requirement
 
-Metarepresentation requires holding multiple representations in relation—the representation, the representation of it, and their relationship—demanding [phenomenal unity](/concepts/phenomenal-unity/). Metarepresentational tasks load heavily on [working-memory](/concepts/working-memory/), and if working memory depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes), metarepresentation inherits this dependence.
+Metarepresentation requires holding multiple representations in relation—the representation, the representation of it, and their relationship—demanding [phenomenal unity](/concepts/unity-of-consciousness/). Metarepresentational tasks load heavily on [working-memory](/concepts/working-memory/), and if working memory depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes), metarepresentation inherits this dependence.
 
 Great apes' limited working memory capacity—roughly two items (Read 2008) compared to human four (Cowan 2001)—may explain their metarepresentational limitations. The expansion enabling human metarepresentation may be the expansion of conscious workspace.
 
@@ -118,7 +118,7 @@ Great apes' limited working memory capacity—roughly two items (Read 2008) comp
 
 Great apes demonstrate Level 1 social metacognition, but Level 3 recursive mindreading ("she thinks that I think the food is hidden") appears uniquely human. This mirrors the procedural/declarative divide: monitoring is widespread; declarative metarepresentation requires consciousness.
 
-Recursive social cognition makes explicit why higher-level metacognition requires consciousness. Representing "she thinks that I think X" requires holding multiple nested levels simultaneously, bound into [unified conscious awareness](/concepts/phenomenal-unity/). Consciousness provides the phenomenal workspace where nested representations can be bound and manipulated—though the [recursion-void](/voids/recursion-void/) demonstrates this workspace has a remarkably shallow depth limit, terminating around fifth-order intentionality. See [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) for details.
+Recursive social cognition makes explicit why higher-level metacognition requires consciousness. Representing "she thinks that I think X" requires holding multiple nested levels simultaneously, bound into [unified conscious awareness](/concepts/unity-of-consciousness/). Consciousness provides the phenomenal workspace where nested representations can be bound and manipulated—though the [recursion-void](/voids/recursion-void/) demonstrates this workspace has a remarkably shallow depth limit, terminating around fifth-order intentionality. See [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) for details.
 
 ## The Jourdain Hypothesis: Procedural vs. Declarative
 

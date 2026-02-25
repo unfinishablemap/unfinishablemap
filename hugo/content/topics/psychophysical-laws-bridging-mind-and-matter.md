@@ -192,7 +192,7 @@ What's not acceptable: using specification difficulty as license for unfalsifiab
 
 Even if each candidate mechanism operates independently, a complete coupling law must explain how they relate. Consciousness doesn't deploy attention, intention, valence, and qualitative character through separate channels. Willing an action while attending to it while experiencing its felt quality is unified. Any adequate coupling law must address how multiple phenomenal dimensions couple to physical selection through a single conscious act.
 
-This connects to [phenomenal-unity](/concepts/phenomenal-unity/): the unity of experience may not be decomposable into separate coupling channels. The five-candidate analysis may be a useful research decomposition that doesn't correspond to how coupling actually works. A single principle operating across all phenomenal dimensions—with the five candidates as different projections—would move toward the t-shirt problem's solution. But this remains speculative.
+This connects to [phenomenal-unity](/concepts/unity-of-consciousness/): the unity of experience may not be decomposable into separate coupling channels. The five-candidate analysis may be a useful research decomposition that doesn't correspond to how coupling actually works. A single principle operating across all phenomenal dimensions—with the five candidates as different projections—would move toward the t-shirt problem's solution. But this remains speculative.
 
 ## Relation to Site Perspective
 

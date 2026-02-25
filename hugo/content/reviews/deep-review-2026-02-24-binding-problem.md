@@ -59,7 +59,7 @@ topics: []
 
 ### Enhancements Made
 
-1. **Conjoint phenomenology integration**: BP2 now links to [phenomenal-unity](/concepts/phenomenal-unity/) and uses precise Bayne & Chalmers terminology, making the explanatory target more specific.
+1. **Conjoint phenomenology integration**: BP2 now links to [phenomenal-unity](/concepts/unity-of-consciousness/) and uses precise Bayne & Chalmers terminology, making the explanatory target more specific.
 2. **Varieties-of-unity cross-reference**: "Binding Beyond Perception" now connects to the diachronic and cognitive dimensions framework.
 3. **Phenomenal-unity link in "Phenomenal Unity as Primitive"**: Bayne & Chalmers discussion now links to the dedicated article and uses "conjoint phenomenology."
 4. **James attribution corrected**: "Coined" → "identified what is now called."
@@ -67,8 +67,8 @@ topics: []
 
 ### Cross-Links Added/Strengthened
 
-- [phenomenal-unity](/concepts/phenomenal-unity/) — now linked in body text (BP2 definition, Phenomenal Unity as Primitive section)
-- [varieties-of-unity](/concepts/varieties-of-unity/) — now cross-referenced in Binding Beyond Perception section
+- [phenomenal-unity](/concepts/unity-of-consciousness/) — now linked in body text (BP2 definition, Phenomenal Unity as Primitive section)
+- [varieties-of-unity](/concepts/unity-of-consciousness/) — now cross-referenced in Binding Beyond Perception section
 
 ## Remaining Items
 

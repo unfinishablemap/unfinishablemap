@@ -1,238 +1,170 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-01-23
-ai_modified: 2026-02-05 07:01:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_generated_date: 2026-02-25
+ai_modified: 2026-02-25 13:10:00+00:00
+ai_system: claude-opus-4-6
 author: null
+coalesced_from:
+- /concepts/phenomenal-unity/
+- /concepts/unity-of-consciousness/
+- /concepts/varieties-of-unity/
 concepts:
-- '[[quantum-neural-timing-constraints]]'
-- '[[consciousness]]'
-- '[[stapp-quantum-mind]]'
-- '[[mysterianism]]'
-- '[[voluntary-attention]]'
-- '[[phenomenal-unity]]'
-- '[[varieties-of-unity]]'
 - '[[binding-problem]]'
 - '[[combination-problem]]'
+- '[[qualia]]'
+- '[[phenomenal-consciousness]]'
+- '[[access-consciousness]]'
 - '[[split-brain-consciousness]]'
+- '[[illusionism]]'
+- '[[interactionist-dualism]]'
 - '[[self-and-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[personal-identity]]'
-- '[[access-consciousness]]'
-- '[[phenomenal-consciousness]]'
 - '[[global-workspace-theory]]'
 - '[[integrated-information-theory]]'
 - '[[quantum-consciousness]]'
-- '[[neural-binding-mechanisms]]'
-created: 2026-01-23
-date: &id001 2026-01-24
-description: Experience comes as a whole, not separate parts. Physical systems consist
-  of external relations; consciousness presents intrinsic unity that resists reduction.
+- '[[minimal-consciousness]]'
+- '[[autonoetic-consciousness]]'
+- '[[meditation-and-consciousness-modes]]'
+created: 2026-01-21
+date: &id001 2026-02-25
+description: Experience comes as an integrated whole—unified across features at a
+  moment, through time, and as belonging to one subject. These dimensions can dissociate,
+  deepening the challenge to physicalism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 17:46:00+00:00
+last_deep_review: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenal-binding-and-holism]]'
+- '[[why-phenomenal-unity-resists-explanation]]'
 - '[[quantum-binding-and-phenomenal-unity]]'
+- '[[emergence-void]]'
 title: The Unity of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The unity of consciousness is the fact that experience comes as a whole rather than a collection of separate parts. When you see, hear, think, and feel, these are not isolated streams running in parallel—they are aspects of one unified conscious state that is yours. This unity is among the most puzzling features of experience. Physical systems consist of many parts in external relation; consciousness presents itself as intrinsically unified. Explaining how distributed neural processes produce this unity—or whether they produce it at all—is the unity problem.
-
-## The Core Phenomenon
-
-Unity is not something added to consciousness; it may be constitutive of what consciousness is. Every conscious moment exhibits unity: your visual field is unified (not separate pixel-experiences), your perception is unified with your thought (you see *while* thinking about what you see), and all contents are unified as yours (no experience belongs to no one). This unity is phenomenal—a feature of what experience is like—not merely functional coordination.
-
-The unity of consciousness intersects with but differs from related problems:
-
-**The [binding problem](/concepts/binding-problem/)** asks how the brain coordinates distributed processing—how color neurons and shape neurons "tag" their outputs as belonging to the same object. This is partly a neural engineering problem (BP1: computational binding) and partly a consciousness problem (BP2: phenomenal binding). Unity of consciousness concerns why the bound result is *one* experience rather than coordinated parallel processes.
-
-**Phenomenal binding** (the BP2 dimension of the [binding problem](/concepts/binding-problem/)) focuses specifically on why coordinated neural activity produces unified phenomenology. This overlaps substantially with unity of consciousness but approaches it from the neural side. The unity problem is more general: it asks about unity regardless of mechanism.
-
-**The [combination problem](/concepts/combination-problem/)** asks how micro-experiences (if they exist) combine into macro-experience. This is panpsychism's version of the unity puzzle. The unity of consciousness is the explanandum; the combination problem concerns one candidate explanation.
+The unity of consciousness is the fact that experience comes as an integrated whole rather than a collection of separate parts. When you see red while hearing a voice and feeling warmth, these are not three parallel streams running independently—they are aspects of one unified experience. There is something it is like to have all three together that differs qualitatively from what it is like to have each separately. This property—phenomenal unity—is among the strongest reasons to think consciousness resists physical reduction. Physical systems consist of parts in external relation; consciousness presents itself as intrinsically unified. The unity problem asks how distributed neural processes produce this wholeness, or whether they produce it at all.
 
 ## Dimensions of Unity
 
-Unity is not monolithic. [Bayne and Chalmers (2003)](/concepts/varieties-of-unity/) distinguished several dimensions:
+Unity is not monolithic. Bayne and Chalmers (2003) distinguished several dimensions that conscious experience exhibits.
 
 ### Synchronic Unity
 
-At any instant, all phenomenal contents belong to one consciousness. Your visual experience, auditory sensation, bodily feeling, and cognitive thought are not separate experiences that happen to coincide—they are aspects of one total state. There is something it is like to have *all of them together*, over and above what it is like to have each separately.
-
-Synchronic unity is what the binding problem primarily addresses. Why do features processed in separate brain regions yield one experience at a moment?
+At any moment, visual, auditory, bodily, and emotional experiences are unified into one consciousness. The unity is not temporal coincidence—events can occur simultaneously without being phenomenally unified, as when neural processes run in parallel during dreamless sleep. Synchronic unity is what the [binding problem](/concepts/binding-problem/) primarily addresses: how do features processed in separate brain regions yield one experience?
 
 ### Diachronic Unity
 
-Experience extends through time as a continuous stream. The present connects to the just-past (retention) and anticipates the near-future (protention). When you hear a melody, successive notes are unified into phrases; when you follow an argument, premises are retained as conclusions emerge. This temporal continuity is not reconstructed from stored snapshots but given directly in the specious present—the window of roughly 100 to 750 milliseconds (Dainton 2000; Lloyd 2012) within which change and succession are experienced as unified.
-
-Diachronic unity concerns how moments of consciousness connect into a continuous stream. Even if we explain synchronic unity at each instant, we must still explain why instants connect into *one* ongoing experience rather than a series of disconnected flashes.
+Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [autonoetic consciousness](/concepts/autonoetic-consciousness/) extends diachronic unity across a lifetime.
 
 ### Subject Unity
 
-All experiences are had by one subject. The pain in your knee and the thought you're having belong to the same experiencer. Subject unity is what makes it appropriate to say "I" have this experience rather than "experiences are occurring."
+All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [minimal self](/concepts/self-and-consciousness/)—basic first-person givenness or "for-me-ness"—may be constitutive of subject unity rather than an additional feature added to consciousness.
 
-Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how contents at a moment are related; subject unity concerns who has them. Diachronic unity concerns how moments connect; subject unity concerns whether the same subject persists across the connection.
+## Phenomenal Unity and Conjoint Phenomenology
 
-### Can These Dissociate?
+Phenomenal unity is the core of the unity problem. Bayne and Chalmers (2003) analysed it through two ideas.
 
-Evidence suggests the dimensions of unity are not identical. [Split-brain patients](/topics/split-brain-consciousness/) show partial dissociation: perceptual unity divides (each hemisphere sees its visual field independently) while subject unity remains largely intact (patients don't report being two people). A 2025 PNAS study (Pinto et al.) found that even minimal corpus callosum fibers can maintain full interhemispheric synchronization, suggesting the brain has redundant mechanisms for preserving unity. Dreamless sleep eliminates diachronic unity entirely—hours pass with no experience of duration—while (arguably) preserving subject unity across the gap.
+**Subsumptive unity**: Two experiences are phenomenally unified when they are subsumed under a single encompassing experience. Your visual and auditory experiences are parts of one total experience that encompasses both. The encompassing experience has a phenomenal character of its own, not derivable by summing its parts.
 
-If the unities were one phenomenon, they should stand or fall together. That they can come apart suggests unity of consciousness may be several related problems, not one.
+**Conjoint phenomenology**: When experiences are subsumed, there is a phenomenology of having them together—a "what it is like" to experience seeing-and-hearing simultaneously. Consider tasting wine. Sweetness, acidity, tannin, and aroma are experienced not as four separate qualia that happen to coincide but as one integrated flavour with its own character. The whole is not the sum of its parts.
 
-## Phenomenal vs Access Unity
+This makes phenomenal unity a mereological claim: experiences are *parts* of larger experiences. The total experience has sub-experiences as parts, but the whole has phenomenal properties no part possesses individually.
 
-A critical distinction: *phenomenal* unity concerns what experience is like; *access* unity concerns information availability.
+### Phenomenal vs Access Unity
 
-**Phenomenal unity** is the unity of experience itself. When contents are phenomenally unified, there is something it is like to experience them together that subsumes what it's like to experience each separately. This is the unity that resists physical explanation.
+Phenomenal unity must be distinguished from [access unity](/concepts/access-consciousness/). Access unity is functional integration—information globally available to reasoning, reporting, and action. [Global Workspace Theory](/concepts/global-workspace-theory/) explains access unity through cortical broadcasting. A system could have access unity without phenomenal unity—information available to multiple subsystems without any unified "what it is like"—as when a distributed AI aggregates sensor data into a global model. And phenomenal unity might exist without full access unity—unified experience that is not fully reportable, as meditation traditions and inattentional blindness research suggest. Most neuroscientific theories explain access unity while leaving phenomenal unity untouched.
 
-**Access unity** is functional integration. When contents are access-unified, they are globally available to cognitive processes—reportable, usable for reasoning and action. [Global Workspace Theory](/concepts/global-workspace-theory/) explains access unity: information broadcast widely across cortical regions becomes consciously accessible.
+## Evidence from Dissociation
 
-These often coincide but are conceptually distinct. A system could (arguably) have access unity without phenomenal unity—information available to multiple subsystems without any unified experience. And phenomenal unity might exist without full access unity—unified experience that isn't fully reportable.
+If the three dimensions of unity were one phenomenon, they should stand or fall together. Evidence suggests they can come apart.
 
-The distinction matters because most neuroscientific theories of consciousness explain access unity without addressing phenomenal unity. They explain how information becomes globally available, not why global availability produces unified experience rather than parallel processing without a subject.
+### Split-Brain Cases
 
-## Why Unity Is Puzzling
+[Split-brain patients](/topics/split-brain-consciousness/) have their corpus callosum severed. Synchronic unity partially divides—each hemisphere processes its visual field independently. Yet subject unity remains largely intact. Patients do not report being two people. As Nagel (1971) observed, there is "too much unity to say two, yet too much separation to say one." A 2025 PNAS study (Pinto et al.) found that even minimal corpus callosum fibers can maintain full interhemispheric synchronization, suggesting the brain has redundant mechanisms for preserving unity.
 
-For the extended argument that phenomenal unity systematically resists physical explanation—examining why synchrony, integration, and global workspace theories all fail for structural reasons rather than merely empirical gaps—see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
+### Dreamless Sleep
 
-The puzzle is not that experience *seems* unified but that it *is* unified. Several considerations make this puzzling:
+During dreamless NREM sleep, diachronic unity vanishes—hours pass with no temporal experience. Yet if the same subject wakes, subject unity persisted across the gap. The two are distinct: subject unity can survive where diachronic unity fails entirely.
 
-### Leibniz's Mill
+### Dissociative Disorders
 
-Imagine walking through a brain enlarged to mill-size. You would observe mechanical interactions—neurons firing, chemicals diffusing, signals propagating. But nowhere would you find a unified *experience*. The physical system consists of parts external to one another; experience is unified without parts in that sense. The unity of consciousness cannot be found by looking at the brain's components, no matter how closely we look.
+In dissociative identity disorder, multiple apparently distinct subjects share one brain while synchronic binding within each remains intact. In depersonalization, subjects feel detached from their experiences while perceptual binding continues normally. These cases suggest ownership can be disturbed while other unities remain.
 
-This argument doesn't show that the brain doesn't produce unity—only that unity cannot be *seen* in the brain's physical structure. But this raises the question: if unity isn't in the parts or their relations, where is it? [Mysterianism](/concepts/mysterianism/) holds that our cognitive architecture may be structurally incapable of grasping how physical processes produce unified experience—not because the answer is supernatural, but because our concepts are inadequate to the task.
+The partial dissociation of these dimensions implies that unity of consciousness may be several related problems, not one—possibly requiring different explanations.
 
-### The Subject-Summing Problem
+## Why Unity Resists Physical Explanation
 
-If physical processes produce unified consciousness, they must somehow make many processes into one experience. But how do many processes become one? If each neuron contributes something, the contributions remain many contributions until something unifies them. Adding another process to unify the contributions just pushes the problem back—what unifies that process with the others?
+Phenomenal unity presents a structural challenge to physicalism:
 
-This is related to the [combination problem](/concepts/combination-problem/) for panpsychism: if micro-experiences exist, how do many micro-subjects become one macro-subject? But it applies more generally. Any theory that builds consciousness from parts faces the question of what makes the parts into a whole.
+1. Physical systems consist of parts in external relation. Even when maximally coordinated, the parts remain distinct entities.
+2. Phenomenal unity is not a relation among distinct parts. It is a property of the whole that is prior to and not derivable from its parts.
+3. Therefore, phenomenal unity cannot be fully explained by physical relations among brain parts.
 
-### The Grain Problem
+This parallels Leibniz's mill: walk through a brain enlarged to mill-size and you observe mechanical interactions—neurons firing, chemicals diffusing—but nowhere do you find a unified experience. The physical system consists of parts external to one another; experience is unified without parts in that sense. For the extended argument, see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
 
-Physical structure is discrete—neurons, synapses, molecules. Consciousness seems continuous—a unified visual field, a flowing stream of thought. How does discrete structure produce continuous phenomenology?
-
-The grain problem sharpens when considering binding: neurons in visual cortex fire at discrete locations, yet you experience a continuous visual field. Where is the continuity if not in the brain?
+Phenomenal unity also bears on the [combination problem](/concepts/combination-problem/). If panpsychism is true and micro-experiences exist, how do they combine into macro-experiences with conjoint phenomenology? William James called this "the most peculiar puzzle" in philosophy of mind. Both the combination problem and the hard problem of unity may be instances of a general cognitive limit at level transitions—what the Map calls the [emergence void](/voids/emergence-void/).
 
 ## Proposed Explanations
 
-### Neural Synchrony
+**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity.
 
-The dominant neuroscientific proposal holds that features are bound through synchronized oscillations, particularly gamma-band activity (30-100 Hz). Neurons firing together are "tagged" as belonging to the same object or experience.
+**[Integrated Information Theory](/concepts/integrated-information-theory/)** identifies consciousness with information integration (Φ). High integration would constitute unity. But this redefines unity as integration without explaining why integration produces phenomenal unity rather than computational coordination without experience.
 
-Synchrony may explain computational binding (BP1)—how the brain correctly assigns features to objects. But it's unclear how it explains phenomenal unity. Synchronized firing is still firing in separate neurons. Correlation is not identity. Why does temporal coordination feel like one thing?
+**[Global Workspace Theory](/concepts/global-workspace-theory/)** proposes that conscious contents are broadcast widely across cortical regions. This explains access unity—why information becomes globally available. It is less clear how broadcasting to a distributed neural process produces phenomenal unity rather than relocating the problem.
 
-### Information Integration
-
-[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) proposes that consciousness *is* information integration, measured by Φ. Systems with high Φ have experience; the greater the integration, the greater the consciousness.
-
-This redefines unity as integration but doesn't explain why integration produces phenomenal unity. Saying that unity just *is* integration doesn't explain why high Φ feels unified rather than being computational integration without experience.
-
-### Global Workspace
-
-[Global Workspace Theory](/concepts/global-workspace-theory/) proposes that conscious contents are those broadcast widely across cortical regions. Unity would be simultaneous presence in the workspace.
-
-This explains access unity—why information becomes globally available. It's less clear how it explains phenomenal unity. Broadcasting to what? If the workspace is another distributed neural process, we've relocated the problem rather than solving it.
-
-### Quantum Binding
-
-The Map proposes that quantum entanglement may provide the physical basis for phenomenal unity. When systems become entangled, they form a genuine whole—not merely correlated parts but a single system with irreducible holistic properties. If neural microtubules sustain entangled quantum states, and each collapse constitutes a moment of experience, the unity of experience would reflect the unity of the underlying quantum state.
-
-The standard objection is decoherence: quantum coherence in warm, wet biological systems collapses in femtoseconds, far too fast for neural processes. However, revised estimates suggest microtubule interiors may sustain coherence for 10-100 microseconds, with mesoscopic network effects extending to 1-10 milliseconds. Moreover, [Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require continuous coherence—it operates through discrete observation events at neural timescales (~300ms). For detailed treatment of these timing constraints, see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
-
-This differs structurally from classical coordination. Classical mechanisms combine, correlate, or integrate things that remain metaphysically distinct. Quantum entanglement creates systems that were never fully separate. If phenomenal unity requires genuine holism—not just functional coordination—quantum mechanics is the only physics that provides it. For detailed comparison of classical binding mechanisms (gamma synchrony, thalamocortical loops) with quantum alternatives, see [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/).
-
-For the philosophical argument and experimental support, see [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) and [phenomenal-unity](/concepts/phenomenal-unity/#the-quantum-alternative).
+**Quantum binding** offers a structurally different approach. Quantum entanglement creates genuinely non-separable states—entangled particles form a whole whose properties cannot be decomposed into individual states. If neural microtubules sustain entangled quantum states, the unity of experience would reflect the unity of the underlying quantum state. Classical mechanisms combine things that remain metaphysically distinct; entanglement produces systems that were never fully separate. See [Quantum Binding and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
 
 ## The Illusionist Challenge
 
-Not all philosophers accept unity as a genuine phenomenon. Eliminativists like Dennett argue that the sense of unity is an illusion—a construction of cognitive processes that creates the appearance of a unified observer where none exists. Keith Frankish's illusionism goes further: what we call phenomenal unity might be a *quasi-phenomenal* property—a representational state that *represents* unity without there being genuine phenomenal unity to represent.
+[Illusionists](/concepts/illusionism/) deny that phenomenal unity exists as described—the sense of unified experience would be introspective misrepresentation.
 
-The Unfinishable Map rejects illusionism for reasons developed in [the phenomenal unity article](/concepts/phenomenal-unity/). Three considerations:
-
-First, unity may be a precondition for illusion. An illusion requires a subject to whom something appears otherwise than it is. But subjecthood presupposes unity—there must be *one* experiencer to be deceived. Eliminating the unified subject eliminates the possibility of illusion.
-
-Second, the quasi-phenomenal move faces a dilemma. If quasi-phenomenal states are genuinely phenomenal (there's something it's like to have them), unity returns through the back door—the states themselves exhibit the unified "for-me-ness" that was supposedly eliminated. If quasi-phenomenal states have no phenomenal character whatsoever, it becomes mysterious why they generate reports that systematically match actual phenomenal experience in every testable respect.
-
-Third, explaining why the *illusion* of unity is so robust and universal seems as hard as explaining unity itself. If the illusion is sufficiently unity-like to deceive every conscious system, the mechanisms producing it would themselves constitute a kind of unity requiring explanation.
+The Unfinishable Map rejects this for a structural reason: unity may be a precondition for illusion. An illusion requires a subject to whom something appears other than it is. Subjecthood presupposes unity—there must be one experiencer to be deceived. Eliminating the unified subject eliminates the possibility of systematic illusion. Further, the quasi-phenomenal states illusionists invoke either have their own phenomenal character (reintroducing unity through the back door) or lack it entirely (making it mysterious why they generate reports that systematically match genuine phenomenal experience in every testable respect).
 
 ## Relation to Site Perspective
 
-### Dualism
+The unity of consciousness connects directly to The Unfinishable Map's [foundational commitments](/tenets/).
 
-The unity of consciousness provides strong support for the [Dualism](/tenets/#dualism) tenet. Physical systems consist of parts in external relation; consciousness is intrinsically unified. This structural difference resists reduction. Explaining how separate neural processes produce a unified experience remains the hard problem in miniature—not just "why any experience?" but "why *one* experience?"
+**Dualism**: Unity is an instance of the [hard problem](/topics/hard-problem-of-consciousness/) applied to the structure of experience. The mismatch between physical relations (external, among distinct parts) and phenomenal unity (intrinsic, prior to parts) supports [the Dualism tenet](/tenets/#dualism). Each dimension of unity—synchronic, diachronic, subject—presents its own version of this structural gap, compounding the explanatory challenge.
 
-If unity cannot be explained by physical relations among brain parts, something beyond those physical relations must be involved. The Map holds that this something is consciousness itself—irreducible to the physical structure that supports it.
+**Minimal Quantum Interaction**: Quantum entanglement is the one domain in physics where genuinely non-separable states exist. If consciousness interacts with the brain at the quantum level through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), entanglement offers a physical correlate whose structure mirrors phenomenal unity's resistance to decomposition.
 
-### Minimal Quantum Interaction
+**Bidirectional Interaction**: [Bidirectional interaction](/tenets/#bidirectional-interaction) requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. Subject unity that persists across time is a precondition for conscious agency.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet receives support from the possibility that phenomenal unity has a physical mechanism—quantum entanglement—that requires consciousness to complete. If quantum states remain unified until collapse, and collapse involves consciousness selecting among outcomes, then unity would be the phenomenal manifestation of quantum holism meeting conscious selection.
+**No Many Worlds**: Phenomenal unity appears indexically definite—*this* experience is unified, not merely unified-in-some-branch. The [No Many Worlds tenet](/tenets/#no-many-worlds) holds that first-person unity claims require genuine collapse. If all branches are equally real, unity reports become either false or contentless.
 
-### No Many Worlds
-
-The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to unity through indexical identity. In many-worlds, all possible binding configurations occur in different branches. But phenomenal unity seems globally definite: *this* experience is unified, not merely unified-in-this-branch while infinitely many other unified experiences occur in parallel.
-
-When I report that all my experiences belong to one subject, I'm making a claim that seems indexically grounded—about *this* consciousness having *this* unified experience. If all branches are equally real and all copies equally "me," this report becomes either false or meaningless. The unity of consciousness points toward collapse being real, not merely apparent.
-
-### Bidirectional Interaction
-
-[Bidirectional Interaction](/tenets/#bidirectional-interaction) requires a unified agent who can influence physical outcomes. If synchronic and diachronic unity existed but subject unity didn't—if there were only momentary unified experiences with no one across them—there would be no agent to act. The subject who selects among quantum possibilities must persist across the selection, unifying the moment of choice with its consequences. Unity is a precondition for agency.
-
-The empirical case is [willed attention deployment](/concepts/attention-as-interface/). When you deliberately shift attention, the ~300ms decision window involves a unified conscious state selecting among possible focus targets. The same timing constraints govern motor selection (~280ms). If consciousness were fragmented rather than unified, there would be no integrated agent to deploy attention or initiate action.
-
-### Occam's Razor Has Limits
-
-The unity of consciousness illustrates why simplicity is not a reliable guide. The "simpler" hypothesis—that unity emerges from neural coordination—has not been shown to work; it is merely hoped to work. Quantum binding may seem more complex (invoking entanglement in biology), but if classical mechanisms cannot in principle produce genuine holism, the apparently simpler account is not just incomplete but impossible. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels humility about what counts as simple in domains where our concepts may be inadequate.
+**Occam's Razor Has Limits**: Identifying phenomenal unity with functional integration appears simpler. But if functional integration cannot in principle produce conjoint phenomenology, the simpler account is structurally inadequate, not merely incomplete. The [limits of parsimony](/tenets/#occams-limits) apply when the phenomenon exceeds the framework.
 
 ## Further Reading
 
-### Unity's Varieties and Structure
-- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum mechanisms for unity
-- [varieties-of-unity](/concepts/varieties-of-unity/) — Detailed taxonomy of synchronic, diachronic, and subject unity
-- [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience comes as integrated wholes
-- [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
-- [consciousness](/concepts/consciousness/) — The Map's foundational concept page
-
-### Related Problems
 - [binding-problem](/concepts/binding-problem/) — Neural feature binding and the combination challenge
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity puzzle
-- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why experience exists at all
+- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Mechanistic analysis of how binding relates to phenomenal unity
+- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for structural failure of physical explanation
+- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement as candidate mechanism
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
-- [mysterianism](/concepts/mysterianism/) — Why unity may exceed our cognitive grasp
-
-### Proposed Mechanisms
-- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical vs quantum binding, experimental evidence
-- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism and unified attention
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as physical basis for unity
-- [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-quantum interface
-- [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach through integration
-- [global-workspace-theory](/concepts/global-workspace-theory/) — Access unity through global broadcast
-
-### Broader Context
-- [voluntary-attention](/concepts/attention-as-interface/) — Unified conscious control in attention deployment
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
+- [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
+- [emergence-void](/voids/emergence-void/) — The general cognitive limit at level transitions
+- [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
-- [access-consciousness](/concepts/access-consciousness/) — Functional integration vs phenomenal unity
-- [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What experience is like
-- [tenets](/tenets/) — The Map's foundational commitments
+- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Unity at the boundaries of experience
 
 ## References
 
+- Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 - Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration and Dissociation*. Oxford University Press.
 - Dainton, B. (2000). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. Routledge.
-- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Leibniz, G.W. (1714). *Monadology*.
 - Lloyd, D. (2012). Neural correlates of temporal experience. In S. Edelman et al. (Eds.), *Being in Time*. John Benjamins.
 - Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
-- Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of Orch OR. *Physics of Life Reviews*, 11, 39-78.
-- Pinto, Y. et al. (2025). Interhemispheric synchronization after corpus callosotomy. *Proceedings of the National Academy of Sciences*.
+- Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
 - Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
-- Tononi, G. (2008). Consciousness as integrated information. *Biological Bulletin*, 215, 216-242.
-- Tye, M. (2003). Consciousness and Persons: Unity and Identity. MIT Press.
+- Tye, M. (2003). *Consciousness and Persons: Unity and Identity*. MIT Press.
+- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

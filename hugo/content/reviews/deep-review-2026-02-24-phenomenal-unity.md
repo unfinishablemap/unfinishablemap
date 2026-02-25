@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [Phenomenal Unity](/concepts/phenomenal-unity/)
+**Article**: [Phenomenal Unity](/concepts/unity-of-consciousness/)
 **Previous review**: [2026-02-06](/reviews/deep-review-2026-02-06-phenomenal-unity/)
 **Context**: Article substantially rewritten since last review (created: 2026-02-24). Previous version was ~3383 words with falsifiability section, quantum comparison table, experimental evidence, and Stapp/Whitehead references. Current version is a focused ~1665-word treatment. Fresh review of new content.
 

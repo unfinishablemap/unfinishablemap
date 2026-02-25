@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[phenomenal-unity](/concepts/phenomenal-unity/)`**: Concept file does not exist. Resolution: removed from concepts frontmatter.
+- **Broken wikilink `[phenomenal-unity](/concepts/unity-of-consciousness/)`**: Concept file does not exist. Resolution: removed from concepts frontmatter.
 - **Overstated Demirel claim**: "established this definitively" overstates a single study's epistemic weight. Resolution: changed to "provided strong evidence."
 
 ### Medium Issues Found

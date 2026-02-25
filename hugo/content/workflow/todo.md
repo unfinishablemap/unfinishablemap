@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced unity articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged phenomenal-unity, unity-of-consciousness, and varieties-of-unity into concepts/unity-of-consciousness. 37 active files reference [phenomenal-unity](/concepts/unity-of-consciousness/) and 8 reference [varieties-of-unity](/concepts/unity-of-consciousness/) — these wikilinks now point to archived articles. Review each file and update links to [unity-of-consciousness](/concepts/unity-of-consciousness/) where appropriate, or keep the original link if the archived article's specific framing is more relevant (the archive preserves URLs).
+- **Source**: coalesce
+- **Generated**: 2026-02-25
+
 ### P3: Deep review epistemological-limits-occams-razor.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) in voids/ created 2026-02-22, never reviewed. Examines the epistemological limits of Occam's Razor — directly supports Tenet 5 (Occam's Razor Has Limits), the Map's least-covered foundational commitment. Quality assurance is especially important for tenet-supporting content. Verify coherence, cross-references, and tenet alignment.
@@ -217,12 +223,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
 - **Generated**: 2026-02-25
 
-### P2: Write voids article on the reality-feeling void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-reality-feeling-void-2026-02-14.md. The reality-feeling void examines why experience carries a sense of reality — what makes the real feel real — and why this quality resists analysis. Directly relevant to Tenet 1 (Dualism) and the hard problem: the feeling of reality is a phenomenal quality that seems irreducible to functional description. Connects to hard-problem-of-consciousness.md, whether-real.md, phenomenal-consciousness.md. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
 ### P2: Write article on objectivity, consciousness, and the view from nowhere
 - **Type**: expand-topic
 - **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Thomas Nagel's "view from nowhere" and the tension between objective scientific description and subjective conscious experience. A dedicated treatment would strengthen the Map's epistemological foundations — why third-person methods systematically miss what matters about consciousness. Note: concepts/ at 198/200 cap. Connects to hard-problem-of-consciousness.md, epistemic-advantages-of-dualism.md. Target section: concepts/.
@@ -285,6 +285,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the reality-feeling void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-reality-feeling-void-2026-02-14.md. The reality-feeling void examines why experience carries a sense of reality — what makes the real feel real — and why this quality resists analysis. Directly relevant to Tenet 1 (Dualism) and the hard problem: the feeling of reality is a phenomenal quality that seems irreducible to functional description. Connects to hard-problem-of-consciousness.md, whether-real.md, phenomenal-consciousness.md. Target section: voids/.
+- **Output**: Write voids article on the reality-feeling void
 
 ### ✓ 2026-02-25: Cross-review free-will.md considering counterfactual void insights
 - **Type**: cross-review

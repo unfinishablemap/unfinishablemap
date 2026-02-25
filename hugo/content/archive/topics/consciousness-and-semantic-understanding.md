@@ -78,7 +78,7 @@ This integration has three dimensions:
 
 **Cross-domain integration** — Profound understanding often involves connecting meanings from different domains. Scientific and ethical concepts, abstract ideas and concrete examples, personal experience and theoretical frameworks—these must sometimes be grasped together to yield genuine insight.
 
-These parallel the [varieties of phenomenal unity](/concepts/varieties-of-unity/) but apply specifically to meaning. Just as the [perceptual binding problem](/concepts/binding-problem/) faces a "hard problem" (why does neural coordination produce unified experience?), meaning integration faces its own: why does semantic processing produce unified understanding?
+These parallel the [varieties of phenomenal unity](/concepts/unity-of-consciousness/) but apply specifically to meaning. Just as the [perceptual binding problem](/concepts/binding-problem/) faces a "hard problem" (why does neural coordination produce unified experience?), meaning integration faces its own: why does semantic processing produce unified understanding?
 
 ## Why Neural Binding Isn't Enough
 

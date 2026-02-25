@@ -63,11 +63,11 @@ None critical. Specious present range "~100ms to 3 seconds" is at the upper boun
 - Rewrote MWI argument to address first-person/God's-eye conflation
 - Added physicalist counterpoint to dreamless sleep argument with Map's response
 - Added inline [Whitehead's process metaphysics](/concepts/process-philosophy/) link
-- Added inline [phenomenal-unity](/concepts/phenomenal-unity/) cross-link
+- Added inline [phenomenal-unity](/concepts/unity-of-consciousness/) cross-link
 
 ### Cross-links Added
 - [Whitehead's process metaphysics](/concepts/process-philosophy/) (inline at processual answer)
-- [phenomenal-unity](/concepts/phenomenal-unity/) (inline at stream/continuity discussion)
+- [phenomenal-unity](/concepts/unity-of-consciousness/) (inline at stream/continuity discussion)
 
 ## Remaining Items
 

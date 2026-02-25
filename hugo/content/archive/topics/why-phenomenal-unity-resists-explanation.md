@@ -42,7 +42,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-[Phenomenal unity](/concepts/phenomenal-unity/)—the fact that conscious experience comes as an integrated whole rather than separate parts—systematically resists physical explanation. Every classical approach shares a structural limitation: they describe how separate processes relate without explaining how they become *one* process. Synchronised firing consists of many neurons firing. Information integration occurs across distinct subsystems. Global broadcasting happens in multiple locations. No amount of coordination, correlation, or integration among separate things makes them literally one thing. This structural mismatch between physical relations and experiential unity is not merely a gap in current knowledge but may reflect a genuine ontological difference—consciousness involves something that physical description cannot capture.
+[Phenomenal unity](/concepts/unity-of-consciousness/)—the fact that conscious experience comes as an integrated whole rather than separate parts—systematically resists physical explanation. Every classical approach shares a structural limitation: they describe how separate processes relate without explaining how they become *one* process. Synchronised firing consists of many neurons firing. Information integration occurs across distinct subsystems. Global broadcasting happens in multiple locations. No amount of coordination, correlation, or integration among separate things makes them literally one thing. This structural mismatch between physical relations and experiential unity is not merely a gap in current knowledge but may reflect a genuine ontological difference—consciousness involves something that physical description cannot capture.
 
 ## The Structure of the Problem
 
@@ -165,10 +165,10 @@ The failure of classical explanations illuminates why The Unfinishable Map takes
 
 ## Further Reading
 
-- [phenomenal-unity](/concepts/phenomenal-unity/) — The nature of phenomenal unity and the quantum hypothesis
+- [phenomenal-unity](/concepts/unity-of-consciousness/) — The nature of phenomenal unity and the quantum hypothesis
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding (BP1 and BP2)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader framing of the unity problem
-- [varieties-of-unity](/concepts/varieties-of-unity/) — Synchronic, diachronic, and subject unity as distinct phenomena
+- [varieties-of-unity](/concepts/unity-of-consciousness/) — Synchronic, diachronic, and subject unity as distinct phenomena
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms fail and quantum mechanisms may succeed
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Detailed case for quantum entanglement as binding mechanism
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge

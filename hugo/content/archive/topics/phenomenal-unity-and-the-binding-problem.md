@@ -84,7 +84,7 @@ A functionalist might object: perhaps "phenomenal unity" is just what subjects *
 
 ## The Varieties of Unity
 
-Not all unity is the same. Tim Bayne and David Chalmers distinguish [three dimensions](/concepts/varieties-of-unity/):
+Not all unity is the same. Tim Bayne and David Chalmers distinguish [three dimensions](/concepts/unity-of-consciousness/):
 
 **Synchronic unity** — At any moment, your visual, auditory, tactile, and emotional experiences belong to one consciousness. This is what the binding problem most directly addresses.
 
@@ -154,7 +154,7 @@ This supports [dualism](/tenets/#dualism)—not substance dualism necessarily, b
 - Phenomenal Unity — Why experience comes as integrated wholes
 - [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — The structural mismatch argument
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — The quantum holism hypothesis
-- [varieties-of-unity](/concepts/varieties-of-unity/) — Synchronic, diachronic, and subject unity
+- [varieties-of-unity](/concepts/unity-of-consciousness/) — Synchronic, diachronic, and subject unity
 - Multimodal Binding — Cross-modal integration as paradigm case
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - Neural Binding Mechanisms — Why classical mechanisms fail at BP2

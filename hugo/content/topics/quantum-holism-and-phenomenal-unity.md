@@ -51,7 +51,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-[Phenomenal unity](/concepts/phenomenal-unity/)—the fact that conscious experience comes as an integrated whole rather than separate parts—systematically resists physical explanation through classical mechanisms. Every classical approach shares a structural limitation: they describe how separate processes relate without explaining how they become *one* process. Synchronised firing is still many neurons firing. Information integration occurs across distinct subsystems. Global broadcasting happens in multiple locations. No amount of coordination among separate things makes them literally one thing. Quantum entanglement provides something structurally different: genuine ontological holism where the whole is prior to the parts. If neural systems sustain entangled quantum states, phenomenal unity would *correspond to* the unity of the underlying physics—structure matching structure. This correspondence does not dissolve the hard problem (why any physical state produces experience), but it solves the structure-matching problem that defeats all classical approaches.
+[Phenomenal unity](/concepts/unity-of-consciousness/)—the fact that conscious experience comes as an integrated whole rather than separate parts—systematically resists physical explanation through classical mechanisms. Every classical approach shares a structural limitation: they describe how separate processes relate without explaining how they become *one* process. Synchronised firing is still many neurons firing. Information integration occurs across distinct subsystems. Global broadcasting happens in multiple locations. No amount of coordination among separate things makes them literally one thing. Quantum entanglement provides something structurally different: genuine ontological holism where the whole is prior to the parts. If neural systems sustain entangled quantum states, phenomenal unity would *correspond to* the unity of the underlying physics—structure matching structure. This correspondence does not dissolve the hard problem (why any physical state produces experience), but it solves the structure-matching problem that defeats all classical approaches.
 
 ## The Structure of the Problem
 
@@ -197,11 +197,11 @@ The Map holds that current evidence favours the quantum position while acknowled
 
 ## Further Reading
 
-- [phenomenal-unity](/concepts/phenomenal-unity/) — The nature of phenomenal unity and the quantum hypothesis
+- [phenomenal-unity](/concepts/unity-of-consciousness/) — The nature of phenomenal unity and the quantum hypothesis
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding (BP1 and BP2)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Comprehensive taxonomy of five binding varieties
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader framing of the unity problem
-- [varieties-of-unity](/concepts/varieties-of-unity/) — Synchronic, diachronic, and subject unity as distinct phenomena
+- [varieties-of-unity](/concepts/unity-of-consciousness/) — Synchronic, diachronic, and subject unity as distinct phenomena
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms fail and quantum mechanisms may succeed
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gulf between physical and phenomenal

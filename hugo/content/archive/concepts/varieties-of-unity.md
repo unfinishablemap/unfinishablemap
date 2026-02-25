@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-01-21
 ai_modified: 2026-02-04 16:12:00+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into The Unity of Consciousness
+archived: true
+archived_date: 2026-02-25 13:10:00+00:00
 author: null
 concepts:
 - '[[binding-problem]]'
@@ -27,9 +30,11 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-02-04 03:27:00+00:00
 modified: *id001
+original_path: /concepts/varieties-of-unity/
 related_articles:
 - '[[tenets]]'
 - '[[quantum-binding-and-phenomenal-unity]]'
+superseded_by: /concepts/unity-of-consciousness/
 title: Varieties of Unity in Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -97,7 +102,7 @@ On this view, solving one unity problem doesn't automatically solve the others. 
 
 ### Derivation View
 
-One unity is fundamental; the others derive from it. **Subject unity** might be constitutive if consciousness is essentially first-personal—synchronic and diachronic unity would be modes in which the subject's experience is organized. Alternatively, **synchronic unity** might be fundamental if consciousness must be unified at each moment (see [phenomenal-unity](/concepts/phenomenal-unity/))—subject unity would follow from having unified experiences. Or **diachronic unity** might be primary if temporal becoming is constitutive of experience itself, with synchronic unity as cross-sections and subject unity as process continuity.
+One unity is fundamental; the others derive from it. **Subject unity** might be constitutive if consciousness is essentially first-personal—synchronic and diachronic unity would be modes in which the subject's experience is organized. Alternatively, **synchronic unity** might be fundamental if consciousness must be unified at each moment (see [phenomenal-unity](/concepts/unity-of-consciousness/))—subject unity would follow from having unified experiences. Or **diachronic unity** might be primary if temporal becoming is constitutive of experience itself, with synchronic unity as cross-sections and subject unity as process continuity.
 
 ### Holism View
 
@@ -164,7 +169,7 @@ One might propose all three unities are "really" one thing for parsimony. But if
 ## Further Reading
 
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of synchronic feature binding
-- [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience comes as integrated wholes
+- [phenomenal-unity](/concepts/unity-of-consciousness/) — Why experience comes as integrated wholes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time

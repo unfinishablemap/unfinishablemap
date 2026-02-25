@@ -18,6 +18,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 13:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-unity](/concepts/phenomenal-unity/), [unity-of-consciousness](/concepts/unity-of-consciousness/), [varieties-of-unity](/concepts/varieties-of-unity/)
+- **Target**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Archived**: archive/concepts/phenomenal-unity.md, archive/concepts/unity-of-consciousness.md, archive/concepts/varieties-of-unity.md
+- **References to review**: ~40 active files reference archived slugs (phenomenal-unity: 37, varieties-of-unity: 8)
+
+## 2026-02-25 12:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Reality-Feeling Void
+- **Output**: [reality-feeling-void](/voids/reality-feeling-void/)
+- **Word count**: 1685
+- **Based on research**: yes, [voids-reality-feeling-void-2026-02-14](/research/voids-reality-feeling-void-2026-02-14/)
+
 ## 2026-02-25 12:47 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness](/concepts/consciousness/)

@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced unity articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged phenomenal-unity, unity-of-consciousness, and varieties-of-unity into concepts/unity-of-consciousness. 37 active files reference [[phenomenal-unity]] and 8 reference [[varieties-of-unity]] — these wikilinks now point to archived articles. Review each file and update links to [[unity-of-consciousness]] where appropriate, or keep the original link if the archived article's specific framing is more relevant (the archive preserves URLs).
+- **Source**: coalesce
+- **Generated**: 2026-02-25
+
 ### P3: Deep review epistemological-limits-occams-razor.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) in voids/ created 2026-02-22, never reviewed. Examines the epistemological limits of Occam's Razor — directly supports Tenet 5 (Occam's Razor Has Limits), the Map's least-covered foundational commitment. Quality assurance is especially important for tenet-supporting content. Verify coherence, cross-references, and tenet alignment.

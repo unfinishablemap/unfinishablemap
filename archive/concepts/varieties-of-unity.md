@@ -31,6 +31,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-02-04T03:27:00+00:00
+archived: true
+archived_date: 2026-02-25T13:10:00+00:00
+superseded_by: "/concepts/unity-of-consciousness/"
+archive_reason: "Coalesced into The Unity of Consciousness"
+original_path: "/concepts/varieties-of-unity/"
 ---
 
 Consciousness exhibits multiple kinds of unity that philosophers have often conflated. When we say experience is "unified," we might mean that features at a moment are bound together (synchronic unity), that experience flows continuously through time (diachronic unity), or that all experiences belong to a single subject (subject unity). These may seem like aspects of one phenomenon, but they can dissociate: split-brain patients retain some unities while losing others; dreamless sleep eliminates diachronic flow while raising questions about subject persistence. Understanding these varieties clarifies what any theory of consciousness must explain—and suggests that unity may not be one problem but several, possibly requiring different solutions.

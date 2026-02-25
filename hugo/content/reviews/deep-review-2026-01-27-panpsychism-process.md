@@ -66,7 +66,7 @@ Adding Bergson, Stapp-Whitehead quantum connections, or temporal consciousness w
 
 ### Cross-links Verified
 - [process-philosophy](/concepts/process-philosophy/) — linked in frontmatter and Further Reading with descriptive text
-- [phenomenal-unity](/concepts/phenomenal-unity/) — linked in Whitehead subsection
+- [phenomenal-unity](/concepts/unity-of-consciousness/) — linked in Whitehead subsection
 - [combination-problem](/concepts/combination-problem/) — linked in Further Reading
 
 ## Word Count

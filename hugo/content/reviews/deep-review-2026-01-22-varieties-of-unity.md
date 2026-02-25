@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Varieties of Unity in Consciousness](/concepts/varieties-of-unity/)
+**Article**: [Varieties of Unity in Consciousness](/concepts/unity-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -77,7 +77,7 @@ topics: []
 ### Cross-links Added
 
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) (new article supporting quantum mechanisms)
-- [phenomenal-unity](/concepts/phenomenal-unity/) (relevant to simultaneous awareness requirement)
+- [phenomenal-unity](/concepts/unity-of-consciousness/) (relevant to simultaneous awareness requirement)
 
 Added these to frontmatter concepts list as well.
 
