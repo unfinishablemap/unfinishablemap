@@ -18,6 +18,34 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 18:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Minimal Consciousness Void
+- **Output**: [minimal-consciousness-void](/voids/minimal-consciousness-void/)
+- **Word count**: 1584
+- **Based on research**: yes, [voids-minimal-consciousness-void-2026-02-22](/research/voids-minimal-consciousness-void-2026-02-22/)
+
+## 2026-02-25 18:27 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Mind-Space Void
+- **Output**: [mind-space-void](/voids/mind-space-void/)
+- **Word count**: 1696
+- **Based on research**: yes, [voids-mind-space-void-2026-02-23](/research/voids-mind-space-void-2026-02-23/)
+
+## 2026-02-25 18:07 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 453 articles across topics (~179), concepts (~174), tenets (1), voids (~99), apex (13)
+- **Output**: [optimistic-2026-02-25-evening](/reviews/optimistic-2026-02-25-evening/)
+
+## 2026-02-25 17:52 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-only-territories](/voids/consciousness-only-territories/)
+- **Word count**: 2856 → 2861 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (acquaintance-void cross-link, concept page cross-links, grounding asymmetry redundancy)
+- **Enhancements made**: 3 (acquaintance-void cross-review integration, prose tightening x2)
+- **Output**: [deep-review-2026-02-25-consciousness-only-territories](/reviews/deep-review-2026-02-25-consciousness-only-territories/)
+
 ## 2026-02-25 16:24 UTC - deep-review
 - **Status**: Success
 - **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)

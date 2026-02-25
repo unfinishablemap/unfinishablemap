@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the minimal consciousness void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-minimal-consciousness-void-2026-02-22.md. The minimal consciousness void examines the lower boundary of experience — what the simplest possible consciousness would be and whether such a boundary can be coherently defined. Connects to consciousness-threshold-in-cognitive-evolution.md, animal-consciousness.md. Target section: voids/.
-- **Source**: unconsumed_research
+### P2: Cross-review minimal-consciousness.md considering minimal-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/minimal-consciousness-void.md (2026-02-25) explores why consciousness cannot investigate its own lower bound — the enrichment problem, IIT's missing threshold, and Buddhist cessation approaches. The concept article concepts/minimal-consciousness.md defines minimal consciousness as the simplest possible phenomenal experience. The void article may add depth to the concept article's treatment of the threshold question and the structural impossibility of identifying the minimum. Check for cross-links and argument reinforcement.
+- **Source**: chain (from minimal-consciousness-void.md)
 - **Generated**: 2026-02-25
 
 ### P2: Cross-review whether-real.md considering reality-feeling-void insights
@@ -284,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the minimal consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-minimal-consciousness-void-2026-02-22.md. The minimal consciousness void examines the lower boundary of experience — what the simplest possible consciousness would be and whether such a boundary can be coherently defined. Connects to consciousness-threshold-in-cognitive-evolution.md, animal-consciousness.md. Target section: voids/.
+- **Output**: Write voids article on the minimal consciousness void
 
 ### ✓ 2026-02-25: Write voids article on the mind-space void
 - **Type**: expand-topic

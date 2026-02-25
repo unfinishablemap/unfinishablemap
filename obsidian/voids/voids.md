@@ -94,6 +94,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[calibration-void|The Calibration Void]] — Why introspection cannot be verified against any independent standard of phenomenal accuracy
 - [[simulation-detection-void|The Simulation Detection Void]] — Why embedded observers cannot determine whether their reality is simulated
 - [[acquaintance-void|The Acquaintance Void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours
+- [[minimal-consciousness-void|The Minimal Consciousness Void]] — Why consciousness cannot investigate its own lower bound
 
 ### Phenomenology of Limits
 
