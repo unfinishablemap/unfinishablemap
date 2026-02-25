@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review conceptual-impossibility.md considering counterfactual-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/counterfactual-void.md (2026-02-25) explores how modal cognition is architecturally tethered to nearby alternatives, with the conceivability-possibility gap and recursive self-assessment constraints. conceptual-impossibility.md examines the formally unthinkable. Cross-review to sharpen the distinction between logical impossibility (wall) and modal inaccessibility (horizon), add cross-links, and ensure consistent treatment of the conceivability-possibility gap.
-- **Source**: chain (from counterfactual-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Cross-review creativity-void.md considering imagination-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/imagination-void.md (2026-02-25) distinguishes imagination's structural limits (inability to imagine novel qualia, alien phenomenologies) from the creativity void's focus on insights emerging from beyond consciousness. Cross-review to sharpen the distinction, add cross-links, and ensure consistent treatment of phenomenal access limits.
@@ -240,6 +234,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review conceptual-impossibility.md considering counterfactual-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/counterfactual-void.md (2026-02-25) explores how modal cognition is architecturally tethered to nearby alternatives, with the conceivability-possibility gap and recursive self-assessment constraints. conceptual-impossibility.md examines the formally unthinkable. Cross-review to sharpen the distinction between logical impossibility (wall) and modal inaccessibility (horizon), add cross-links, and ensure consistent treatment of the conceivability-possibility gap.
+- **Output**: obsidian/voids/conceptual-impossibility.md -- Context: Cross-review conceptual-impossibility.md considering counterfactual-void insights
 
 ### ✓ 2026-02-25: Write voids article on the counterfactual void
 - **Type**: expand-topic
