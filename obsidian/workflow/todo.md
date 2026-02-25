@@ -210,12 +210,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
 - **Generated**: 2026-02-25
 
-### P2: Cross-review defended-territory.md considering agency-verification-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/agency-verification-void.md (2026-02-25) examines whether agency can verify itself without circularity. defended-territory.md explores whether certain thoughts are actively blocked by defensive mechanisms — the same architecture that might defend against agency verification. Check for cross-links and complementary arguments about self-concealment and active occlusion.
-- **Source**: chain (from agency-verification-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Cross-review the-unobservable-self.md considering narrative-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/narrative-void.md (2026-02-25) reveals that the self-story told by consciousness is constructed and often confabulated. the-unobservable-self.md addresses how the observing self cannot observe itself observing — a double bind: consciousness cannot access the narrator any more than it can access the observer. Check for cross-links and argument reinforcement.
@@ -266,6 +260,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review defended-territory.md considering agency-verification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/agency-verification-void.md (2026-02-25) examines whether agency can verify itself without circularity. defended-territory.md explores whether certain thoughts are actively blocked by defensive mechanisms — the same architecture that might defend against agency verification. Check for cross-links and complementary arguments about self-concealment and active occlusion.
+- **Output**: obsidian/voids/defended-territory.md -- Context: Cross-review defended-territory.md considering agency-verification-void insights
 
 ### ✓ 2026-02-25: Write article on objectivity, consciousness, and the view from nowhere
 - **Type**: expand-topic
