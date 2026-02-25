@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 20:42 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Dissolution Problem
+- **Category**: Mixed (Whether the Voids Are Real / How to Approach the Edge)
+- **Output**: [[research/voids-dissolution-problem-2026-02-25]]
+- **Key finding**: Dissolved cognitive limits (irrational numbers, non-Euclidean geometry, quantum mechanics) share structural features that distinguish them from persistent limits like the hard problem of consciousness — providing tentative criteria for assessing which current voids might prove permanent
+
 ## 2026-02-25 20:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/timing-gap-problem]]
