@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review creativity-void.md considering imagination-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/imagination-void.md (2026-02-25) distinguishes imagination's structural limits (inability to imagine novel qualia, alien phenomenologies) from the creativity void's focus on insights emerging from beyond consciousness. Cross-review to sharpen the distinction, add cross-links, and ensure consistent treatment of phenomenal access limits.
-- **Source**: chain (from imagination-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Cross-review observation-void.md considering calibration-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/calibration-void.md (2026-02-25) addresses the impossibility of calibrating introspection against an independent standard. observation-void.md examines how studying consciousness transforms what is studied. These are related but distinct epistemic problems — cross-review to clarify the boundary and add cross-references.
@@ -252,6 +246,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review creativity-void.md considering imagination-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/imagination-void.md (2026-02-25) distinguishes imagination's structural limits (inability to imagine novel qualia, alien phenomenologies) from the creativity void's focus on insights emerging from beyond consciousness. Cross-review to sharpen the distinction, add cross-links, and ensure consistent treatment of phenomenal access limits.
+- **Output**: obsidian/voids/creativity-void.md -- Context: Cross-review creativity-void.md considering imagination-void insights
 
 ### ✓ 2026-02-25: Cross-review conceptual-impossibility.md considering counterfactual-void insights
 - **Type**: cross-review
