@@ -29,8 +29,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[computational-cognitive-limits]]"
-  - "[[creativity-consciousness-and-novel-thought]]"
-  - "[[distinctiveness-of-human-creativity]]"
+  - "[[consciousness-and-creative-distinctiveness]]"
   - "[[creativity-void]]"
   - "[[mathematical-void]]"
   - "[[incompleteness-void]]"
@@ -121,7 +120,7 @@ Consider what happens when a mathematician invents a new structure—say, Cantor
 
 A tension arises here. The "sense of discovery" discussed above suggests mathematicians access pre-existing truths, while the generation account treats mathematical frameworks as genuinely created. The resolution may be that *frameworks* are created while *truths* are discovered: Cantor invented set-theoretic language and methods, but the truths those methods revealed (the uncountability of the reals, the hierarchy of infinities) were already necessary. Mathematical creativity, on this view, involves constructing new lenses for apprehending pre-existing mathematical reality—the lenses are artifacts, but what they reveal is not.
 
-This is Margaret Boden's *transformational creativity*: not combining existing ideas or exploring within established rules, but changing the rules themselves. Transformational creativity in mathematics produces what was "downright impossible" within the previous framework. The [[creativity-consciousness-and-novel-thought|zone of latent solutions]] concept captures why this matters: great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. But mathematical transformational creativity exits every zone. It requires representing the current mathematical framework *as* a framework—seeing its assumptions, questioning its boundaries, and constructing something beyond them. This metarepresentation—taking one's own conceptual apparatus as an object of thought—is precisely what consciousness-requiring functions enable.
+This is Margaret Boden's *transformational creativity*: not combining existing ideas or exploring within established rules, but changing the rules themselves. Transformational creativity in mathematics produces what was "downright impossible" within the previous framework. The [[consciousness-and-creative-distinctiveness|zone of latent solutions]] concept captures why this matters: great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. But mathematical transformational creativity exits every zone. It requires representing the current mathematical framework *as* a framework—seeing its assumptions, questioning its boundaries, and constructing something beyond them. This metarepresentation—taking one's own conceptual apparatus as an object of thought—is precisely what consciousness-requiring functions enable.
 
 ## The Chinese Room Extended
 
@@ -209,8 +208,7 @@ The view would be supported by continued failure of AI to achieve transformation
 
 - [[cognitive-phenomenology]] — The broader case for phenomenal character in thinking
 - [[consciousness-and-creativity]] — The generation-selection synthesis
-- [[creativity-consciousness-and-novel-thought]] — Mechanisms of creative consciousness
-- [[distinctiveness-of-human-creativity]] — Why human creativity differs in kind from animal and AI creativity
+- [[consciousness-and-creative-distinctiveness]] — Why human creativity differs in kind from animal and AI creativity
 - [[consciousness-as-amplifier]] — Why understanding may require phenomenal awareness
 - [[mysterianism]] — On whether consciousness may exceed human understanding
 - [[working-memory]] — Computational limits that consciousness may transcend

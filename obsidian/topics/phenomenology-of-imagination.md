@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[creativity-consciousness-and-novel-thought]]"
+  - "[[consciousness-and-creative-distinctiveness]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
   - "[[emotional-consciousness]]"
 concepts:
@@ -33,7 +33,7 @@ related_articles:
   - "[[phenomenology-of-anticipation]]"
   - "[[phenomenology-of-understanding]]"
   - "[[consciousness-and-aesthetic-creation]]"
-  - "[[distinctiveness-of-human-creativity]]"
+  - "[[consciousness-and-creative-distinctiveness]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[dream-consciousness]]"
@@ -109,12 +109,11 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 
 - [[mental-imagery]] — The neuroscience and philosophy of mental imagery, including aphantasia
 - [[cognitive-phenomenology]] — Non-sensory phenomenal character in thought
-- [[creativity-consciousness-and-novel-thought]] — Imagination's role in creative cognition
+- [[consciousness-and-creative-distinctiveness]] — Imagination's role in creative cognition and why human creativity differs from computational generation
 - [[consciousness-and-counterfactual-reasoning]] — Why representing non-actuality requires consciousness
 - [[phenomenology-of-recursive-thought]] — When imagination takes itself as object
 - [[phenomenology-of-anticipation]] — Forward-directed imagination and temporal experience
 - [[consciousness-and-aesthetic-creation]] — Imagination in artistic creation
-- [[distinctiveness-of-human-creativity]] — Why human imagination differs from computational generation
 - [[phenomenology-of-understanding]] — The felt quality of grasping meaning
 - [[dream-consciousness]] — Dreams as involuntary imagination
 - [[phenomenology-of-moral-experience]] — Moral imagination and the felt quality of ethical perception

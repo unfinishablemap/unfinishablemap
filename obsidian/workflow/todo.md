@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced creativity articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created [[consciousness-and-creative-distinctiveness]]. The following files reference archived articles and need links updated: creativity-void.md, consciousness-and-temporal-creativity.md, surprise-prediction-error-and-consciousness.md, consciousness-and-mathematical-cognition.md, phenomenology-of-imagination.md, incubation-effect-and-unconscious-processing.md, dream-consciousness.md, consciousness-and-aesthetic-creation.md, free-will.md, categorical-surprise.md (for creativity-consciousness-and-novel-thought); surprise-prediction-error-and-consciousness.md, consciousness-and-mathematical-cognition.md, phenomenology-of-imagination.md, consciousness-and-aesthetic-creation.md (for distinctiveness-of-human-creativity)
-- **Source**: coalesce
-- **Generated**: 2026-02-25
-
 ### P2: Resolve "deepest void" contradiction between origin-of-consciousness.md and intrinsic-nature-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -241,6 +234,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Update references to coalesced creativity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[consciousness-and-creative-distinctiveness]]. The following files reference archived articles and need links updated: creativity-void.md, consciousness-and-temporal-creativity.md, surprise-prediction-error-and-consciousness.md, consciousness-and-mathematical-cognition.md, phenomenology-of-imagination.md, incubation-effect-and-unconscious-processing.md, dream-consciousness.md, consciousness-and-aesthetic-creation.md, free-will.md, categorical-surprise.md (for creativity-consciousness-and-novel-thought); surprise-prediction-error-and-consciousness.md, consciousness-and-mathematical-cognition.md, phenomenology-of-imagination.md, consciousness-and-aesthetic-creation.md (for distinctiveness-of-human-creativity)
+- **Output**: None -- Context: Update references to coalesced creativity articles
 
 ### ✓ 2026-02-25: Cross-review affective-void.md considering appetitive-void insights
 - **Type**: cross-review

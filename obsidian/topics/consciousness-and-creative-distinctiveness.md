@@ -4,9 +4,9 @@ description: "Human creativity differs in kind from animal innovation and AI gen
 created: 2026-02-01
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T06:43:00+00:00
+ai_modified: 2026-02-25T06:57:00+00:00
 draft: false
-last_deep_review:
+last_deep_review: 2026-02-25T06:57:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
@@ -87,7 +87,7 @@ Beyond these functional requirements, several features of human creativity depen
 
 ### Generation and Selection
 
-The generation-selection synthesis holds that consciousness both generates creative options through imagination and selects among them through attention. Generation is not passive scanning of pre-existing options but active constitution of possibilities—phenomenologically, you feel you are *producing* ideas, not finding them. Husserl called imagination the "domain of possibility and realm of freedom." The neural basis may be the Default Mode Network's capacity for remote associative thinking.
+The generation-selection synthesis holds that consciousness both generates creative options through imagination and selects among them through attention. Generation is not passive scanning of pre-existing options but active constitution of possibilities—phenomenologically, you feel you are *producing* ideas, not finding them. (The Dennettian challenge applies here: heterophenomenology treats such reports as data to explain, not privileged access to creative processes. The Map takes the phenomenology seriously while acknowledging this objection.) Husserl called imagination the "domain of possibility and realm of freedom." The neural basis may be the Default Mode Network's capacity for remote associative thinking.
 
 Selection operates through focused attention. The [[concepts/consciousness-selecting-neural-patterns|quantum selection framework]] offers a speculative mechanism: if neural processes involve quantum superpositions at decision points, conscious attention may stabilise certain outcomes through the quantum Zeno effect, while unattended patterns decohere. The timing evidence is suggestive—the brain "knows" 8 seconds before conscious awareness whether a solution will come through insight or analysis, and gamma spikes mark the emerging solution crossing threshold.
 

@@ -29,7 +29,7 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
-  - "[[creativity-consciousness-and-novel-thought]]"
+  - "[[consciousness-and-creative-distinctiveness]]"
   - "[[dream-consciousness-void]]"
   - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
@@ -168,7 +168,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[filter-theory]] — The filter/transmission model of consciousness
 - [[dream-consciousness-void]] — The epistemic boundary between waking and dreaming
 - [[sleep-and-consciousness]] — Consciousness gradations during sleep stages
-- [[creativity-consciousness-and-novel-thought]] — The creative loop and consciousness's role in novel combination
+- [[consciousness-and-creative-distinctiveness]] — The creative loop and consciousness's role in novel combination
 - [[mind-brain-separation]] — The rendering engine analogy
 - [[attention-as-interface]] — How attention mediates the consciousness-brain interface
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
