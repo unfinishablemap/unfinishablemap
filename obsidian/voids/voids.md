@@ -93,6 +93,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[substrate-void|The Substrate Void]] — What consciousness is made of, when every answer collapses into negation or circularity
 - [[calibration-void|The Calibration Void]] — Why introspection cannot be verified against any independent standard of phenomenal accuracy
 - [[simulation-detection-void|The Simulation Detection Void]] — Why embedded observers cannot determine whether their reality is simulated
+- [[acquaintance-void|The Acquaintance Void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 
 ### Phenomenology of Limits
 

@@ -37,10 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the acquaintance void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-acquaintance-void-2026-02-25.md. The acquaintance void examines Russell's distinction between knowledge by acquaintance and knowledge by description — why direct phenomenal acquaintance resists translation into propositional knowledge. Directly supports Tenet 1 (Dualism) and the irreducibility of first-person experience. Target section: voids/.
-- **Source**: unconsumed_research
+### P2: Cross-review intrinsic-nature-void.md considering acquaintance-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/acquaintance-void.md (2026-02-25) examines modes of phenomenal acquaintance structurally inaccessible to human minds. intrinsic-nature-void.md charts the same territory from the physics side — what matter is in itself. The acquaintance void's analysis of the Russellian asymmetry (acquaintance as our sole window onto intrinsic natures) may strengthen the intrinsic-nature-void argument. Check for cross-links and complementary arguments.
+- **Source**: chain (from acquaintance-void.md)
+- **Generated**: 2026-02-25
+
+### P2: Cross-review consciousness-only-territories.md considering acquaintance-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/acquaintance-void.md (2026-02-25) examines the structural limits on phenomenal acquaintance. consciousness-only-territories.md explores epistemic territories accessible only through experience. The acquaintance void provides the theoretical grounding for why those territories are consciousness-only: they require modes of acquaintance that description cannot substitute. Check for cross-links and argument reinforcement.
+- **Source**: chain (from acquaintance-void.md)
 - **Generated**: 2026-02-25
 
 ### P2: Write voids article on the mind-space void
@@ -278,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Write voids article on the acquaintance void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-acquaintance-void-2026-02-25.md. The acquaintance void examines Russell's distinction between knowledge by acquaintance and knowledge by description — why direct phenomenal acquaintance resists translation into propositional knowledge. Directly supports Tenet 1 (Dualism) and the irreducibility of first-person experience. Target section: voids/.
+- **Output**: Write voids article on the acquaintance void
 
 ### ✓ 2026-02-25: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
 - **Type**: integrate-orphan
