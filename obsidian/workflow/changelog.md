@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 14:24 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Acquaintance Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-acquaintance-void-2026-02-25]]
+- **Key finding**: Russell's acquaintance/description distinction reveals a fundamental void — there may be entire modes of phenomenal contact with reality structurally inaccessible to human consciousness, and no amount of descriptive knowledge can substitute for acquaintance
+
 ## 2026-02-25 14:09 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/defended-territory]]
