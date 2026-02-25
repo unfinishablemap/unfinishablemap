@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review whether-real.md considering evidential-weight-of-voids insights
-- **Type**: cross-review
-- **Notes**: New article voids/evidential-weight-of-voids.md created 2026-02-24 argues that the existence of cognitive voids provides abductive evidence about consciousness's nature. voids/whether-real.md examines whether voids represent genuine limits or mere temporary ignorance and should cross-reference the new article's evidential arguments. Check for cross-links and argument reinforcement. Supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: chain (from evidential-weight-of-voids.md)
-- **Generated**: 2026-02-24
-
 ### P2: Cross-review limits-reveal-structure.md considering void-as-ground-of-meaning insights
 - **Type**: cross-review
 - **Notes**: New article voids/void-as-ground-of-meaning.md created 2026-02-24 argues that cognitive limits are constitutive of meaning rather than merely obstacles. voids/limits-reveal-structure.md covers how limits reveal the structure of consciousness and should cross-reference the new article's treatment of limits as generative. Both support Tenet 5 (Occam's Razor Has Limits). Check for cross-links and complementary arguments.
@@ -230,6 +224,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review whether-real.md considering evidential-weight-of-voids insights
+- **Type**: cross-review
+- **Notes**: New article voids/evidential-weight-of-voids.md created 2026-02-24 argues that the existence of cognitive voids provides abductive evidence about consciousness's nature. voids/whether-real.md examines whether voids represent genuine limits or mere temporary ignorance and should cross-reference the new article's evidential arguments. Check for cross-links and argument reinforcement. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/voids/whether-real.md -- Context: Cross-review whether-real.md considering evidential-weight-of-voids insights
 
 ### ✓ 2026-02-24: Address filter model unfalsifiability and smuggled assumptions in dreams-and-consciousness.md
 - **Type**: refine-draft
