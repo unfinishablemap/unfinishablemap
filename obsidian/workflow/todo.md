@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review death-void.md considering void-as-ground-of-meaning insights
-- **Type**: cross-review
-- **Notes**: New article voids/void-as-ground-of-meaning.md argues cognitive limits are preconditions for meaning rather than obstacles. death-void.md exemplifies this constitutive principle — mortality structures temporal meaning. Should cross-reference the new meta-framework.
-- **Source**: chain (from void-as-ground-of-meaning.md)
-- **Generated**: 2026-02-25
-
 ### P2: Review cognitive-aversion.md considering appetitive void insights
 - **Type**: cross-review
 - **Notes**: New article voids/appetitive-void.md argues desire structurally constitutes cognition at a deeper level than aversion. cognitive-aversion.md discusses thoughts we flee; the appetitive void goes further to show desire shapes the entire cognitive field. Should integrate these as downstream/upstream in the same framework.
@@ -212,6 +206,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Review death-void.md considering void-as-ground-of-meaning insights
+- **Type**: cross-review
+- **Notes**: New article voids/void-as-ground-of-meaning.md argues cognitive limits are preconditions for meaning rather than obstacles. death-void.md exemplifies this constitutive principle — mortality structures temporal meaning. Should cross-reference the new meta-framework.
+- **Output**: obsidian/voids/death-void.md -- Context: Review death-void.md considering void-as-ground-of-meaning insights
 
 ### ✓ 2026-02-25: Review self-reference-paradox.md considering compound cognitive limits insights
 - **Type**: cross-review
