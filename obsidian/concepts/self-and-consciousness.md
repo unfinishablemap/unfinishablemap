@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-22T15:54:00+00:00
+ai_modified: 2026-02-25T15:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[self-consciousness-philosophy-2026-01-15]]"
+  - "[[ownership-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -142,6 +143,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [[binding-problem]] — Unity of experience and its relation to selfhood
 - [[mind-brain-separation]] — Filter theory and the rendering engine analogy
 - [[specious-present-temporal-experience]] — What constitutes "a moment" of conscious experience
+- [[ownership-void|The Ownership Void]] — Why the for-me-ness of experience hides its own ground
 - [[personal-identity]] — How the self persists over time
 
 ## References

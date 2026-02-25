@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-02T04:46:00+00:00
+ai_modified: 2026-02-25T15:22:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -24,6 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[buddhism-and-dualism]]"
+  - "[[ownership-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -86,7 +87,7 @@ The Map's [[tenets#^dualism|Dualism tenet]] finds philosophical grounding here. 
 
 ## Authenticity and the Singular Self
 
-Existentialism emphasises that existence is always *mine*—first-person, unrepeatable, non-transferable. Heidegger calls this *Jemeinigkeit* (mineness). Sartre expresses it through the pour-soi's radical particularity. Both converge on what the Map calls [[haecceity]]: the unrepeatable thisness of a particular conscious subject.
+Existentialism emphasises that existence is always *mine*—first-person, unrepeatable, non-transferable. Heidegger calls this *Jemeinigkeit* (mineness). Sartre expresses it through the pour-soi's radical particularity. Both converge on what the Map calls [[haecceity]]: the unrepeatable thisness of a particular conscious subject. The [[ownership-void|ownership void]] examines why this mineness resists introspection—every attempt to examine ownership is itself already owned, trapping investigation in a distinctive recursion.
 
 Authentic existence means owning this particularity—choosing in full awareness that the choice is one's own, not determined by "what one does" (Heidegger's *das Man*). Inauthenticity means fleeing into the anonymous crowd, treating oneself as interchangeable with others. Heidegger's analysis of fallenness—the structural determination that Dasein evades its own being-towards-death—connects directly to [[cognitive-aversion|cognitive aversion]]: the systematic deflection from mortality that Terror Management Theory documents empirically.
 
@@ -173,6 +174,7 @@ The existentialist-dualist alignment would face difficulty if:
 - [[witness-consciousness]] — Contemplative cultivation of non-identified awareness
 - [[mysterianism]] — The possibility that consciousness is cognitively closed to us
 - [[buddhism-and-dualism]] — Buddhist perspectives on self and consciousness
+- [[ownership-void|The Ownership Void]] — Why mineness hides from the subject who bears it
 - [[mental-effort]] — The phenomenology of effortful attention
 - [[tenets]] — The Map's foundational commitments
 

@@ -3,7 +3,7 @@ title: "The Unobservable Self"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified:
-ai_modified: 2026-02-25T14:41:00+00:00
+ai_modified: 2026-02-25T15:22:00+00:00
 draft: false
 last_deep_review: 2026-02-25T14:41:00+00:00
 description: "When attention turns inward seeking the observer, it finds only more observing—a structural limit that illuminates why consciousness resists explanation."
@@ -27,6 +27,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[absorption-void]]"
   - "[[narrative-void]]"
+  - "[[ownership-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -156,6 +157,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. I
 - [[the-silence-void|The Silence Void]] — When the observer ceases observing: the territory beyond the regression
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate architecture
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — Why consciousness resists explanation
+- [[ownership-void|The Ownership Void]] — Why the ownership relation hides from the subject who bears it
 - [[haecceity|Haecceity]] — The irreducible particularity of this observer
 
 ## References

@@ -4,7 +4,7 @@ description: "How schizophrenia, depression, and depersonalization reveal the hi
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-22T05:09:00+00:00
+ai_modified: 2026-02-25T15:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[consciousness-and-the-ownership-problem]]"
   - "[[first-person-third-person-methodology]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
+  - "[[ownership-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -85,7 +86,7 @@ Depersonalization/derealization disorder — among the most philosophically reve
 
 The condition reveals that normal experience depends on at least three separable structural features:
 
-- **Mineness**: the sense that experiences [[consciousness-and-the-ownership-problem|belong to a subject]]
+- **Mineness**: the sense that experiences [[consciousness-and-the-ownership-problem|belong to a subject]]; the [[ownership-void|ownership void]] explores why this belonging resists introspection
 - **Actuality**: the sense that the experienced world is real
 - **Temporal presence**: the sense of being situated in the "now"
 
@@ -124,6 +125,7 @@ A caveat: tight correlations between brain states and experiential structures �
 - [[the-case-for-dualism]]
 - [[the-self-minimal-narrative-and-substantial]] — The three conceptions of selfhood that ipseity disturbance illuminates
 - [[consciousness-and-the-ownership-problem]] — Why experience belongs to someone, and what happens when it stops
+- [[ownership-void|The Ownership Void]] — Why the mineness of experience hides its own mechanism
 - [[temporal-consciousness]] — The temporal structures that depression and schizophrenia disrupt
 - [[embodied-cognition]] — The lived body as interface between consciousness and world
 - [[altered-states-of-consciousness]] — How altered states reveal consciousness's range
