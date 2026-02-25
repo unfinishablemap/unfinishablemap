@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Deep review epistemological-limits-occams-razor.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) in voids/ created 2026-02-22, never reviewed. Examines the epistemological limits of Occam's Razor — directly supports Tenet 5 (Occam's Razor Has Limits), the Map's least-covered foundational commitment. Quality assurance is especially important for tenet-supporting content. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-25
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -217,30 +211,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has several articles on consciousness-evolution (amplification hypothesis, baseline cognition, animal consciousness) but no unified evolutionary narrative from a dualist perspective. Would integrate the amplification hypothesis, interface development story, and comparative evidence (great ape-human gap) into a coherent account. Builds on consciousness-evolution-problem.md, consciousness-and-intelligence.md, consciousness-as-amplifier.md, animal-consciousness.md. See optimistic-2026-02-25.md
 - **Generated**: 2026-02-25
 
-### P2: Write article on objectivity, consciousness, and the view from nowhere
-- **Type**: expand-topic
-- **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Thomas Nagel's "view from nowhere" and the tension between objective scientific description and subjective conscious experience. A dedicated treatment would strengthen the Map's epistemological foundations — why third-person methods systematically miss what matters about consciousness. Note: concepts/ at 198/200 cap. Connects to hard-problem-of-consciousness.md, epistemic-advantages-of-dualism.md. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-25
-
-### P2: Cross-review defended-territory.md considering agency-verification-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/agency-verification-void.md (2026-02-25) examines whether agency can verify itself without circularity. defended-territory.md explores whether certain thoughts are actively blocked by defensive mechanisms — the same architecture that might defend against agency verification. Check for cross-links and complementary arguments about self-concealment and active occlusion.
-- **Source**: chain (from agency-verification-void.md)
-- **Generated**: 2026-02-25
-
-### P2: Cross-review the-unobservable-self.md considering narrative-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/narrative-void.md (2026-02-25) reveals that the self-story told by consciousness is constructed and often confabulated. the-unobservable-self.md addresses how the observing self cannot observe itself observing — a double bind: consciousness cannot access the narrator any more than it can access the observer. Check for cross-links and argument reinforcement.
-- **Source**: chain (from narrative-void.md)
-- **Generated**: 2026-02-25
-
-### P2: Cross-review introspective-opacity.md considering narrative-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/narrative-void.md (2026-02-25) examines how self-narrative is constructed and confabulated (Gazzaniga's interpreter). introspective-opacity.md explains why we access mental contents but not mechanisms — narrative confabulation is a specific instance of this broader opacity. Check for cross-links illustrating the contents/process distinction.
-- **Source**: chain (from narrative-void.md)
-- **Generated**: 2026-02-25
-
 ### P2: Integrate ownership-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-02-24). The ownership void examines why experience feels like it belongs to someone. Add cross-references from related articles — self-and-consciousness.md, the-unobservable-self.md, phenomenal-consciousness.md, and void articles exploring related aspects of subjectivity.
@@ -279,6 +249,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review introspective-opacity.md considering narrative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/narrative-void.md (2026-02-25) examines how self-narrative is constructed and confabulated (Gazzaniga's interpreter). introspective-opacity.md explains why we access mental contents but not mechanisms — narrative confabulation is a specific instance of this broader opacity. Check for cross-links illustrating the contents/process distinction.
+- **Output**: obsidian/voids/introspective-opacity.md -- Context: Cross-review introspective-opacity.md considering narrative-void insights
+
+### ✓ 2026-02-25: Cross-review the-unobservable-self.md considering narrative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/narrative-void.md (2026-02-25) reveals that the self-story told by consciousness is constructed and often confabulated. the-unobservable-self.md addresses how the observing self cannot observe itself observing — a double bind: consciousness cannot access the narrator any more than it can access the observer. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/the-unobservable-self.md -- Context: Cross-review the-unobservable-self.md considering narrative-void insights
+
+### ✓ 2026-02-25: Cross-review defended-territory.md considering agency-verification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/agency-verification-void.md (2026-02-25) examines whether agency can verify itself without circularity. defended-territory.md explores whether certain thoughts are actively blocked by defensive mechanisms — the same architecture that might defend against agency verification. Check for cross-links and complementary arguments about self-concealment and active occlusion.
+- **Output**: obsidian/voids/defended-territory.md -- Context: Cross-review defended-territory.md considering agency-verification-void insights
+
+### ✓ 2026-02-25: Write article on objectivity, consciousness, and the view from nowhere
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Thomas Nagel's "view from nowhere" and the tension between objective scientific description and subjective conscious experience. A dedicated treatment would strengthen the Map's epistemological foundations — why third-person methods systematically miss what matters about consciousness. Note: concepts/ at 198/200 cap. Connects to hard-problem-of-consciousness.md, epistemic-advantages-of-dualism.md. Target section: concepts/.
+- **Output**: objectivity, consciousness, and the view from nowhere
+
+### ✓ 2026-02-25: Update references to coalesced unity articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged phenomenal-unity, unity-of-consciousness, and varieties-of-unity into concepts/unity-of-consciousness. 37 active files reference [phenomenal-unity](/concepts/unity-of-consciousness/) and 8 reference [varieties-of-unity](/concepts/unity-of-consciousness/) — these wikilinks now point to archived articles. Review each file and update links to [unity-of-consciousness](/concepts/unity-of-consciousness/) where appropriate, or keep the original link if the archived article's specific framing is more relevant (the archive preserves URLs).
+- **Output**: None -- Context: Update references to coalesced unity articles
 
 ### ✓ 2026-02-25: Write voids article on the reality-feeling void
 - **Type**: expand-topic

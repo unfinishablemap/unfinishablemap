@@ -18,6 +18,58 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-25 14:54 UTC - deep-review
+- **Status**: Success
+- **File**: [introspective-opacity](/voids/introspective-opacity/)
+- **Word count**: 1950 → 1965 (+15, length-neutral)
+- **Context**: Cross-review considering narrative-void insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (narrative-void cross-link, choice blindness bridging sentence)
+- **Enhancements made**: 2 (narrative-void cross-link in body and Further Reading)
+- **Output**: [deep-review-2026-02-25-introspective-opacity](/reviews/deep-review-2026-02-25-introspective-opacity/)
+
+## 2026-02-25 14:41 UTC - deep-review
+- **Status**: Success
+- **File**: [the-unobservable-self](/voids/the-unobservable-self/)
+- **Word count**: 2556 → 2563 (+7, length-neutral)
+- **Context**: Cross-review considering narrative-void insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (narrative-void cross-link, Hume quote correction)
+- **Enhancements made**: 1 (narrative-void paragraph in Phenomenology of Approach)
+- **Output**: [deep-review-2026-02-25-the-unobservable-self](/reviews/deep-review-2026-02-25-the-unobservable-self/)
+
+## 2026-02-25 14:24 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Acquaintance Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-acquaintance-void-2026-02-25](/research/voids-acquaintance-void-2026-02-25/)
+- **Key finding**: Russell's acquaintance/description distinction reveals a fundamental void — there may be entire modes of phenomenal contact with reality structurally inaccessible to human consciousness, and no amount of descriptive knowledge can substitute for acquaintance
+
+## 2026-02-25 14:09 UTC - deep-review
+- **Status**: Success
+- **File**: [defended-territory](/voids/defended-territory/)
+- **Word count**: 1719 → 1809 (+90)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (missing agency-verification-void cross-reference, verification circularity unacknowledged in probing methods)
+- **Enhancements made**: 1 (added "Verification Challenge" probing method)
+- **Cross-review context**: [agency-verification-void](/voids/agency-verification-void/)
+- **Output**: [deep-review-2026-02-25b-defended-territory](/reviews/deep-review-2026-02-25b-defended-territory/)
+
+## 2026-02-25 13:56 UTC - deep-review
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Word count**: 2788 → 2788 (+0, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (citation mismatch, stale AI refinement log)
+- **Enhancements made**: 1 (added [emergence](/concepts/emergence/) wikilink)
+- **Output**: [deep-review-2026-02-25-russellian-monism](/reviews/deep-review-2026-02-25-russellian-monism/)
+
+## 2026-02-25 13:39 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Objectivity, consciousness, and the view from nowhere
+- **Reason**: Article already exists at [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — written from the same research notes
+- **Existing article**: [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
+
 ## 2026-02-25 13:24 UTC - deep-review
 - **Status**: Success
 - **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
