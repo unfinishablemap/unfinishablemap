@@ -4,7 +4,7 @@ description: "Why consciousness resists reduction—from Nagel's bridge laws to 
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-02-17T11:12:00+00:00
+ai_modified: 2026-02-25T09:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-27T01:58:56+00:00
+last_deep_review: 2026-02-25T09:19:00+00:00
 ---
 
 Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic (claims about understanding). The Unfinishable Map accepts methodological reductionism as a powerful scientific tool while rejecting ontological and explanatory reductionism about consciousness. The [[explanatory-gap|explanatory gap]], the [[hard-problem-of-consciousness|hard problem]], and the failure of [[#Functional Reduction|functional reduction]] (explained below) converge on a single conclusion: consciousness cannot be reduced to physical processes.
@@ -55,7 +55,7 @@ The question for consciousness: Can phenomenal concepts be bridged to physical c
 
 ### Functional Reduction {#functional-reduction}
 
-Nagel's bridge-law model is no longer the dominant framework. David Lewis (1966, 1972) proposed that mental states are defined by their causal roles—pain is whatever state is typically caused by tissue damage and typically causes avoidance behavior. If a neural state uniquely occupies that role, then pain *is* that neural state. The identity follows from the functional definition rather than requiring an unexplained bridge law.
+Nagel's bridge-law model is no longer the dominant framework. David Lewis (1966, 1972) proposed that mental states are defined by their causal roles—a view now called [[functionalism]]—pain is whatever state is typically caused by tissue damage and typically causes avoidance behavior. If a neural state uniquely occupies that role, then pain *is* that neural state. The identity follows from the functional definition rather than requiring an unexplained bridge law.
 
 Jaegwon Kim (1998, 2005) developed this into a systematic model of **functional reduction** in three steps:
 
@@ -106,7 +106,7 @@ Kim's exclusion argument presents the central dilemma for non-reductive views:
 3. Mental and physical causes don't systematically overdetermine the same effects
 4. Therefore, mental causes *are* physical causes (reduction wins)
 
-If consciousness has causal powers but physics is closed, either consciousness reduces to physics or consciousness is epiphenomenal—causally inert.
+If consciousness has causal powers but physics is closed, either consciousness reduces to physics or consciousness is [[epiphenomenalism|epiphenomenal]]—causally inert.
 
 Kim's argument assumes the [[causal-closure|causal closure]] of physics. The Map denies this—not everywhere, but at [[quantum-consciousness|quantum indeterminacies]] where physics provides no determinate outcome. Consciousness operates where physics is genuinely incomplete, biasing outcomes without injecting energy or violating conservation.
 
@@ -116,9 +116,9 @@ This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] 
 
 Daniel Dennett distinguishes legitimate from "greedy" reductionism. Legitimate reduction uses "cranes"—mechanisms at each level that explain emergence from below. Greedy reductionism wants to skip intermediate levels, reducing psychology directly to physics without the intervening structures.
 
-Even Dennett—a committed physicalist—acknowledges reductionism can overreach. Explanatory levels have their uses. Biology isn't dispensable just because organisms are made of atoms.
+Dennett—a committed physicalist—acknowledges reductionism can overreach. Explanatory levels have their uses. Biology isn't dispensable just because organisms are made of atoms.
 
-Dennett's own view, however, is that consciousness *can* be explained functionally through his "heterophenomenology"—treating first-person reports as data without granting them special epistemic authority. On his account, the hard problem dissolves once we abandon the intuition that qualia are something over and above functional states. The Map disagrees: the hard problem survives functional analysis because no arrangement of functions explains why there is something it is like to occupy those functional states.
+Dennett's own view, however, is that consciousness *can* be explained functionally through his [[heterophenomenology]]—treating first-person reports as data without granting them special epistemic authority. On his account, the hard problem dissolves once we abandon the intuition that qualia are something over and above functional states. The Map disagrees: the hard problem survives functional analysis because no arrangement of functions explains why there is something it is like to occupy those functional states.
 
 But the Map goes further than Dennett allows. Consciousness isn't just practically irreducible (requiring intermediate-level explanation) but ontologically irreducible. The [[emergence|strong emergence]] of consciousness means phenomenal properties are genuinely novel—not deducible even in principle from complete physical knowledge.
 
@@ -142,6 +142,8 @@ The [[buddhism-and-dualism|Buddhist tradition]] raises its own challenges to red
 - [[emergence]] — The philosophical framework for non-reductive properties
 - [[explanatory-gap]] — Why physical explanations leave consciousness unexplained
 - [[concepts/materialism]] — The view that reductionism about consciousness underwrites
+- [[mental-causation]] — The problem reductionism tries to solve and the Map's alternative
+- [[knowledge-argument]] — Mary's Room: why complete physical knowledge may not be complete knowledge
 - [[downward-causation]] — What reduction denies and the Map affirms
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
 - [[mysterianism]] — Cognitive closure and why the hard problem may resist solution
@@ -153,37 +155,26 @@ The [[buddhism-and-dualism|Buddhist tradition]] raises its own challenges to red
 
 2. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
 
-3. Fodor, J.A. (1974). Special Sciences (or: The Disunity of Science as a Working Hypothesis). *Synthese*, 28, 97-115.
+3. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown and Company.
 
-4. Kim, J. (1992). Multiple Realization and the Metaphysics of Reduction. *Philosophy and Phenomenological Research*, 52(1), 1-26.
+4. Dennett, D.C. (1995). *Darwin's Dangerous Idea*. Simon & Schuster.
 
-5. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+5. Fodor, J.A. (1974). Special Sciences (or: The Disunity of Science as a Working Hypothesis). *Synthese*, 28, 97-115.
 
-6. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+6. Kim, J. (1992). Multiple Realization and the Metaphysics of Reduction. *Philosophy and Phenomenological Research*, 52(1), 1-26.
 
-7. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+7. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 
-8. Lewis, D. (1966). An Argument for the Identity Theory. *The Journal of Philosophy*, 63(1), 17-25.
+8. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 
-9. Lewis, D. (1972). Psychophysical and Theoretical Identifications. *Australasian Journal of Philosophy*, 50(3), 249-258.
+9. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 
-10. Nagel, E. (1961). *The Structure of Science*. Harcourt, Brace & World.
+10. Lewis, D. (1966). An Argument for the Identity Theory. *The Journal of Philosophy*, 63(1), 17-25.
 
-11. Polger, T.W. & Shapiro, L.A. (2016). *The Multiple Realization Book*. Oxford University Press.
+11. Lewis, D. (1972). Psychophysical and Theoretical Identifications. *Australasian Journal of Philosophy*, 50(3), 249-258.
 
-12. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (Eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
+12. Nagel, E. (1961). *The Structure of Science*. Harcourt, Brace & World.
 
-<!-- AI REFINEMENT LOG - 2026-02-17
-Changes made:
-- Added Functional Reduction section (Lewis-Kim model) — the dominant contemporary framework was entirely missing
-- Rewrote Multiple Realizability section: added Bechtel-Mundale grain-of-analysis critique, Polger-Shapiro empirical challenge, Kim's local reduction alternative; removed overstated Putnam-Fodor framing
-- Replaced Buddhism/process philosophy paragraph that undercut the Map's own dualism by dissolving consciousness/matter categories; new version preserves convergence while maintaining the Map's substance categories
-- Updated opening summary to reference functional reduction instead of multiple realizability as key convergence point
-- Updated description meta tag
-- Added 6 new references (Bechtel & Mundale 1999, Kim 1992, Kim 1998, Lewis 1966, Lewis 1972, Polger & Shapiro 2016)
+13. Polger, T.W. & Shapiro, L.A. (2016). *The Multiple Realization Book*. Oxford University Press.
 
-Based on pessimistic review (2026-02-17) identifying two high-severity issues.
-Key improvements: Contemporary philosophical engagement, honest treatment of counterarguments to multiple realizability.
-
-This log should be removed after human review.
--->
+14. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (Eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
