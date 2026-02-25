@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-24T08:13:41.927905'
+ai_modified: '2026-02-25T08:19:46.247811'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-24'
+modified: '2026-02-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-25: The Narrative Void: Consciousness as Unreliable Narrator
+
+New research explores how consciousness constructs coherent self-stories from fragmentary experience—and hides the construction process. Split-brain studies and choice blindness reveal we confabulate more than we know.
+
+**Type**: research  
+**Link**: [[narrative-void]]
+
+---
+
 ### 2026-02-24: Why the Past Feels Fixed and the Future Feels Open
 
 Refined exploration of how temporal phenomenology—retention, primal impression, protention—may be what quantum selection feels like from within. The fixedness of past and openness of future could track collapsed versus uncollapsed quantum states.
@@ -198,16 +207,6 @@ New article explores why electrons might have experience—and why the Map's int
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2019322677568094512  
 **Link**: [[panpsychism]]
-
----
-
-### 2026-02-04: Why AI Can't Learn What Truly Matters
-
-AI alignment learns from preferences, but preferences miss what matters: the felt quality of conscious experience. Satisfying all preferences can still leave a life hollow.
-
-**Type**: insight  
-**Tweet**: https://x.com/i/web/status/2018969098353319943  
-**Link**: [[purpose-and-alignment]]
 
 ---
 
