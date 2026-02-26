@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-02T04:04:00+00:00
+ai_modified: 2026-02-26T19:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,9 @@ concepts:
   - "[[dualism]]"
   - "[[combination-problem]]"
   - "[[downward-causation]]"
+  - "[[process-haecceitism]]"
+  - "[[prehension]]"
+  - "[[subjective-aim]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -24,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-01-27T19:30:00+00:00
+last_deep_review: 2026-02-26T19:46:00+00:00
 ---
 
 Process philosophy holds that reality is fundamentally dynamic—constituted by events, processes, and becoming rather than static substances or objects. Where traditional metaphysics asks "What things exist?", process philosophy asks "What is happening?" The shift matters for consciousness studies: if experience is intrinsically temporal and flowing, perhaps the universe is too.
@@ -95,7 +98,7 @@ This aligns with the [[tenets#^dualism|Dualism]] tenet's claim that consciousnes
 
 ### Process Haecceitism
 
-Process metaphysics also illuminates the [[haecceity|haecceity]] question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. The [[eastern-philosophy-haecceity-tension|Eastern Philosophy–Haecceity Tension]] article develops this "process haecceitism" in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
+Process metaphysics also illuminates the [[haecceity|haecceity]] question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. [[process-haecceitism|Process haecceitism]] develops this idea in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
 
 ### Temporal Structure
 
@@ -165,7 +168,12 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 
 ## Further Reading
 
+- [[process-and-consciousness]] — Apex synthesis integrating process philosophy with the Map's consciousness framework
+- [[process-haecceitism]] — How haecceity applies to processes rather than substances
+- [[prehension]] — Whitehead's concept of how each moment grasps its predecessors
+- [[subjective-aim]] — Whitehead's goal-directedness in actual occasions
 - [[duration]] — Bergson's durée and its connection to Whiteheadian process
+- [[bergson-and-duration]] — Broader exploration of Bergson's temporal philosophy
 - [[panpsychism]] — The view that experience is ubiquitous; process philosophy's natural ally
 - [[combination-problem]] — The central challenge for panpsychist and process approaches
 - [[emergence]] — What process philosophy says about how complexity arises
@@ -182,5 +190,6 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - Cobb, J. B. & Griffin, D. R. (1976). *Process Theology: An Introductory Exposition*. Westminster Press.
 - Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
 - Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.
+- Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
 - Whitehead, A. N. (1933). *Adventures of Ideas*. Macmillan.
