@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-02-05 03:24:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention-motor-quantum-interface]]'
 - '[[dopamine-selection-interface]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[motor-selection]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
@@ -209,7 +209,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [attention-motor-quantum-interface](/concepts/attention-as-interface/) — The broader framework for the unified interface
 - [dopamine-selection-interface](/concepts/motor-selection/) — Technical details on dopamine's role in selection
 - [motor-selection](/concepts/motor-selection/) — Motor selection mechanisms
-- [voluntary-attention](/concepts/attention-as-interface/) — The neural basis of willed attention
+- [voluntary attention](/concepts/attention-as-interface/) — The neural basis of willed attention
 - [free-will](/topics/free-will/) — The broader philosophical question
 - [mental-effort](/concepts/mental-effort/) — Why selection feels effortful
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction

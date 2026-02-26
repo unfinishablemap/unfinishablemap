@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-07 11:51:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[psychophysical-coupling]]'
 - '[[selection-laws]]'
 - '[[quantum-neural-timing-constraints]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[argument-from-reason]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'
@@ -81,7 +81,7 @@ Two concrete mechanisms have been proposed:
 
 All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. The specific [coupling mode](/concepts/coupling-modes/)—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
-For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-coupling](/concepts/psychophysical-laws/). The attention mechanism is currently the most developed, with [voluntary-attention](/concepts/attention-as-interface/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
+For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-coupling](/concepts/psychophysical-laws/). The attention mechanism is currently the most developed, with [voluntary attention](/concepts/attention-as-interface/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 
 ### The Timing Challenge
 
@@ -145,7 +145,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [argument-from-reason](/topics/argument-from-reason/) — Complementary self-defeat argument targeting physicalism
-- [voluntary-attention](/concepts/attention-as-interface/) — The attention interface with neural evidence
+- [voluntary attention](/concepts/attention-as-interface/) — The attention interface with neural evidence
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Comprehensive treatment of the philosophical framework
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this tenet rejects
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how mind causes anything

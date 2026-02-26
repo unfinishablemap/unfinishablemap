@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-03 21:18:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,9 +9,7 @@ concepts:
 - '[[semantic-memory]]'
 - '[[episodic-memory]]'
 - '[[working-memory]]'
-- '[[attention]]'
 - '[[attention-as-interface]]'
-- '[[voluntary-attention]]'
 - '[[mental-effort]]'
 - '[[agent-causation]]'
 - '[[embodied-cognition]]'
@@ -203,7 +201,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 ## Further Reading
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) - Extended analysis of choking as evidence for mental causation
-- [voluntary-attention](/concepts/attention-as-interface/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
+- [voluntary attention](/concepts/attention-as-interface/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
 - [semantic-memory](/concepts/semantic-memory/) - Noetic consciousness and the phenomenology of knowing without re-experiencing
 - [episodic-memory](/concepts/episodic-memory/) - How episodic memory contrasts with implicit memory in Tulving's framework

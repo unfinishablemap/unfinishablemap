@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-02-25 20:25:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
 - '[[motor-selection]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[attention-motor-quantum-interface]]'
 - '[[measurement-problem]]'
 created: 2026-01-24
@@ -199,7 +199,7 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — Recent experiments pushing the quantum-classical boundary
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [motor-selection](/concepts/motor-selection/) — The 280ms motor commitment point and Libet dissolution
-- [voluntary-attention](/concepts/attention-as-interface/) — Willed attention deployment and frontal theta
+- [voluntary attention](/concepts/attention-as-interface/) — Willed attention deployment and frontal theta
 - [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Unification of attention and motor timing
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve outcome selection
 

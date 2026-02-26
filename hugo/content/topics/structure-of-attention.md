@@ -1,12 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-04 04:20:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[attention]]'
-- '[[voluntary-attention]]'
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
 - '[[agent-causation]]'
@@ -244,7 +242,7 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 
 - [attention](/concepts/attention-as-interface/) — The broad dissociation between attention and consciousness
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD, fatigue, and meditation deficits reveal interface components
-- [voluntary-attention](/concepts/attention-as-interface/) — Detailed treatment of willed attention mechanisms
+- [voluntary attention](/concepts/attention-as-interface/) — Detailed treatment of willed attention mechanisms
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
 - [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and potential mechanism of attentional effort

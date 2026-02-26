@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-25) develops Nagel's "view from nowhere" argument — why third-person scientific description systematically excludes what matters about consciousness. hard-problem-of-consciousness.md is the site's central treatment of the explanatory gap and should cross-reference this epistemological strengthening. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
-- **Source**: chain (from objectivity-and-consciousness.md)
-- **Generated**: 2026-02-26
-
-### P2: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
-- **Type**: cross-review
-- **Notes**: 82+ file references across live content still use `[attention](/concepts/attention-as-interface/)` (41 refs) and `[voluntary-attention](/concepts/attention-as-interface/)` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[attention-as-interface](/concepts/attention-as-interface/)`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-26
-
 ### P2: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) addresses whether energy conservation is violated by mental causation — the strongest technical objection to interactionist dualism. mental-causation.md is the central treatment of how consciousness causes physical effects and should cross-reference the conservation law analysis. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
@@ -181,10 +169,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[metarepresentation](/concepts/metacognition/)` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
-### P3: Write concept page for voluntary-attention
+### ~~P3: Write concept page for voluntary-attention~~ ✓ (superseded)
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. 43+ broken wikilinks reference `[voluntary-attention](/concepts/attention-as-interface/)` — the most-referenced missing article on the site. Central to the quantum interface discussion and the attention-as-causal-bridge framework. Builds on attention-as-interface.md, attention-as-causal-bridge.md (apex). See optimistic-2026-02-24-afternoon.md
+- **Status**: superseded 2026-02-26
+- **Notes**: Content already exists under attention-as-interface.md. All 65 stale wikilinks updated to point there. Also see voluntary-attention-control-mechanisms.md for the detailed mechanistic treatment.
 - **Generated**: 2026-02-24
 
 ### P3: Write article on psychedelics and the filter model
@@ -289,8 +277,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Apex article on the voids as method (apophatic cartography)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The voids programme is the Map's most distinctive structural contribution, yet it lacks an apex synthesis. Would explain the methodology, its relationship to the five tenets, what it means to practise apophatic cartography, and the abductive argument from void clustering. Builds on evidential-weight-of-voids.md, tenet-generated-voids.md, dissolution-problem.md, phenomenology-of-the-edge.md, attention-created-voids.md. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
+### P3: Apex article synthesising the self-stultification suite
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
+### P3: Write article on neurological dissociations as interface architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Together they map the interface's functional anatomy — ascending, descending, and bilateral components. Builds on pain-asymbolia.md, blindsight.md, split-brain-consciousness.md, interface-friction.md, disorders-of-consciousness-as-test-cases.md. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
+### P3: Write concept page for apophatic cartography
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The voids programme's methodology — systematically mapping where understanding fails — deserves its own concept page. Currently implicit across ~87 void articles but never explicitly defined. Would serve as the conceptual foundation for the proposed voids apex article. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
+### P3: Write concept page for content-specificity of mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-26: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
+- **Type**: cross-review
+- **Notes**: 82+ file references across live content still use `[attention](/concepts/attention-as-interface/)` (41 refs) and `[voluntary-attention](/concepts/attention-as-interface/)` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[attention-as-interface](/concepts/attention-as-interface/)`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
+- **Output**: None -- Context: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
+
+### ✓ 2026-02-26: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-25) develops Nagel's "view from nowhere" argument — why third-person scientific description systematically excludes what matters about consciousness. hard-problem-of-consciousness.md is the site's central treatment of the explanatory gap and should cross-reference this epistemological strengthening. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
 
 ### ✓ 2026-02-25: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
 - **Type**: cross-review

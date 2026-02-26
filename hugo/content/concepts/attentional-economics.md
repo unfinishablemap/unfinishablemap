@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-25 22:12:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention-as-interface]]'
-- '[[voluntary-attention]]'
 - '[[mental-effort]]'
 - '[[agent-causation]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
@@ -208,7 +207,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention serves as consciousness's interface with matter
-- [voluntary-attention](/concepts/attention-as-interface/) — The neural signatures of willed versus automatic attention
+- [voluntary attention](/concepts/attention-as-interface/) — The neural signatures of willed versus automatic attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of attentional work
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — How contemplative practice trains attentional capacities
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The mechanism by which attention shapes neural outcomes

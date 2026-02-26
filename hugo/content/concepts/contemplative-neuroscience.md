@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-05 02:39:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 coalesced_from:
@@ -10,11 +10,9 @@ coalesced_from:
 concepts:
 - '[[neurophenomenology]]'
 - '[[neuroplasticity]]'
-- '[[attention]]'
 - '[[witness-consciousness]]'
 - '[[emotional-consciousness]]'
 - '[[default-mode-network]]'
-- '[[voluntary-attention]]'
 - '[[mental-effort]]'
 - '[[mysterianism]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -32,7 +30,6 @@ related_articles:
 - '[[neurophenomenology]]'
 - '[[bidirectional-interaction]]'
 - '[[witness-consciousness]]'
-- '[[voluntary-attention]]'
 - '[[topics/free-will]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[mental-effort]]'
@@ -227,7 +224,7 @@ The more sophisticated our phenomenological categories and neural correlates bec
 
 [^demir]: Demir, U., Yang, W. F. Z., & Sacchet, M. D. (2025). "Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain." Cerebral Cortex, 35(4), bhaf079.
 
-[^voluntary]: See [voluntary-attention](/concepts/attention-as-interface/) for detailed treatment of willed vs. instructed attention neural signatures.
+[^voluntary]: See [voluntary attention](/concepts/attention-as-interface/) for detailed treatment of willed vs. instructed attention neural signatures.
 
 [^sharma]: Sharma, H. (2015). "Mindfulness-based stress reduction: a non-pharmacological approach for chronic illnesses." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC3336928/
 

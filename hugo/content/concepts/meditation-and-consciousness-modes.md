@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-04 04:20:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
 - '[[quantum-consciousness]]'
-- '[[attention]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17|voluntary-attention]]'
 - '[[witness-consciousness]]'
 - '[[illusionism]]'

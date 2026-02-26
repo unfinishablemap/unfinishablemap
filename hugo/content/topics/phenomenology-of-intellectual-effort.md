@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-24 12:14:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,10 +10,9 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[epistemic-emotions]]'
 - '[[working-memory]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[introspection]]'
 - '[[agent-causation]]'
-- '[[voluntary-attention]]'
 - '[[unity-of-consciousness]]'
 - '[[binding-problem]]'
 created: 2026-02-01
@@ -221,7 +220,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, certainty, doubt
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has experiential character
 - [working-memory](/concepts/working-memory/) — Where intellectual capacity meets consciousness
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed cognitive engagement
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of willed cognitive engagement
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-20 03:36:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,7 +15,6 @@ concepts:
 - '[[decoherence]]'
 - '[[coupling-modes]]'
 - '[[quantum-coherence-and-binding-evidence]]'
-- '[[attention]]'
 - '[[measurement-problem]]'
 - '[[psychophysical-coupling]]'
 - '[[motor-selection]]'

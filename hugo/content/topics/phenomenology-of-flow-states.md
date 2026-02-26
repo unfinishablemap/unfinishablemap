@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-15 02:46:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenology]]'
-- '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
 - '[[agent-causation]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-02-22 09:37:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[libet-experiments]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[counterfactual-reasoning]]'
 - '[[retrocausality]]'
 - '[[authentic-vs-inauthentic-choice]]'
@@ -127,7 +127,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [libet-experiments](/concepts/libet-experiments/) — Neuroscientific evidence and its interpretation
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds genuine desert
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to evaluate alternatives
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic action
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic action
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages genuine agency versus running on scripts
 
 ## References

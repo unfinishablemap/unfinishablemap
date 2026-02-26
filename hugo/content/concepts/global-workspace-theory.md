@@ -1,13 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-04 10:35:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[attention]]'
 - '[[attention-as-interface]]'
-- '[[voluntary-attention]]'
 - '[[concepts/functionalism]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[integrated-information-theory]]'
@@ -264,7 +262,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The Map's critique of IIT, sharing some concerns about passive consciousness
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
 - [attention](/concepts/attention-as-interface/) — The gateway to the workspace
-- [voluntary-attention](/concepts/attention-as-interface/) — Endogenous attention control and workspace access
+- [voluntary attention](/concepts/attention-as-interface/) — Endogenous attention control and workspace access
 - [functionalism](/concepts/functionalism/) — The philosophical framework underlying GWT
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Explaining away phenomenal intuitions
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreaming without full workspace engagement

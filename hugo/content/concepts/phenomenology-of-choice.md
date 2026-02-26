@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-03 12:10:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[agent-causation]]'
 - '[[mental-effort]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[motor-selection]]'
 - '[[duration]]'
 - '[[introspection]]'
@@ -200,7 +200,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [free-will](/topics/free-will/) — The broader debate and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Why choice requires agents, not just events
 - [mental-effort](/concepts/mental-effort/) — The quantum Zeno mechanism and why effort should feel like work
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of genuine choosing
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of genuine choosing
 - [motor-selection](/concepts/motor-selection/) — Motor choice as parallel to attentional choice
 - [causal-interface](/voids/causal-interface/) — Why the mechanism connecting intention to action is invisible
 - [duration](/concepts/temporal-consciousness/) — Bergson's lived time and creative becoming

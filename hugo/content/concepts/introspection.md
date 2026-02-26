@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-25 08:28:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[higher-order-theories]]'
 - '[[illusionism]]'
 - '[[witness-consciousness]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[decoherence]]'
 - '[[phenomenology-of-error-recognition]]'
 - '[[consciousness-and-mathematical-understanding]]'

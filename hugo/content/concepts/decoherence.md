@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-25 20:25:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -13,7 +13,6 @@ concepts:
 - '[[measurement-problem]]'
 - '[[quantum-coherence-and-binding-evidence]]'
 - '[[illusionism]]'
-- '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[process-philosophy]]'
 - '[[phenomenal-consciousness]]'

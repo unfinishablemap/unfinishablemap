@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-04 09:29:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[phenomenology-of-choice]]'
 - '[[counterfactual-reasoning]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[causal-closure]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[self-stultification]]'
@@ -134,7 +134,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of reasons-responsive deliberation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The representational capacity enabling evaluation of reasons
 - [mental-effort](/concepts/mental-effort/) — Why reasoning feels effortful and what this suggests
-- [voluntary-attention](/concepts/attention-as-interface/) — The paradigm case of reasons-responsive selection in attention deployment
+- [voluntary attention](/concepts/attention-as-interface/) — The paradigm case of reasons-responsive selection in attention deployment
 - [causal-closure](/concepts/causal-closure/) — The physicalist principle that reasons-responsiveness challenges
 - [process-and-consciousness](/apex/process-and-consciousness/) — Process philosophy's support for reasons-responsiveness as experiential self-determination
 

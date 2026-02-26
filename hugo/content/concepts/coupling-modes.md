@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-03 08:56:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,10 +10,8 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[measurement-problem]]'
 - '[[decoherence]]'
-- '[[attention]]'
 - '[[mental-effort]]'
 - '[[attention-as-interface]]'
-- '[[voluntary-attention]]'
 - '[[agent-causation]]'
 created: 2026-01-31
 date: &id001 2026-01-31
@@ -170,7 +168,7 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [attention](/concepts/attention-as-interface/) — The phenomenal variable most tied to coupling
 - [mental-effort](/concepts/mental-effort/) — Effort as timing/observation rate control
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention functions as the mind-matter interface
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from instructed attention
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from instructed attention
 - [agent-causation](/concepts/agent-causation/) — The free will implications of conscious selection
 
 ## References

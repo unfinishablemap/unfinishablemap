@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-25 20:25:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,7 +15,7 @@ concepts:
 - '[[topics/quantum-neural-timing-constraints]]'
 - '[[measurement-problem]]'
 - '[[bidirectional-interaction]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
 - '[[spontaneous-collapse-theories]]'
@@ -269,7 +269,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for attention
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
-- [voluntary-attention](/concepts/attention-as-interface/) — The 300ms window for conscious attention deployment
+- [voluntary attention](/concepts/attention-as-interface/) — The 300ms window for conscious attention deployment
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The causal efficacy of consciousness
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and objective collapse
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem

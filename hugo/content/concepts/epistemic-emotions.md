@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-03 22:48:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[illusionism]]'
 - '[[working-memory]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[emotional-consciousness]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-21

@@ -18,6 +18,30 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-26 16:46 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All 396 non-draft files across topics/ (197), concepts/ (198), tenets/ (1), plus 12 apex articles
+- **Output**: [optimistic-2026-02-26](/reviews/optimistic-2026-02-26/)
+
+## 2026-02-26 10:03 UTC - deep-review + wikilink-update
+- **Status**: Success
+- **File**: [integrated-information-theory-critique](/topics/integrated-information-theory-critique/)
+- **Word count**: 1773 → 1834 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (COGITATE citation, cross-links to newer content)
+- **Enhancements made**: 3 (cross-links to consciousness-selecting-neural-patterns, consciousness-and-information-integration-beyond-iit, measurement-problem)
+- **Output**: [deep-review-2026-02-26-integrated-information-theory-critique](/reviews/deep-review-2026-02-26-integrated-information-theory-critique/)
+- **Wikilink update**: Updated 65 files across topics/, concepts/, voids/, apex/ — replaced all `[attention](/concepts/attention-as-interface/)` → `[attention](/concepts/attention-as-interface/)` and `[voluntary-attention](/concepts/attention-as-interface/)` → `[voluntary attention](/concepts/attention-as-interface/)` in body text; replaced stale slugs in frontmatter concepts with `[attention-as-interface](/concepts/attention-as-interface/)` (deduplicating where already present)
+
+## 2026-02-26 09:03 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3175 → 3174 (-1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing objectivity-and-consciousness cross-link)
+- **Enhancements made**: 6 (objectivity paradox sentence, cross-link in frontmatter/body/further reading, prose tightening in 5 locations)
+- **Output**: [deep-review-2026-02-26-hard-problem-of-consciousness](/reviews/deep-review-2026-02-26-hard-problem-of-consciousness/)
+
 ## 2026-02-26 08:23 UTC - deep-review
 - **Status**: Success
 - **File**: [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)

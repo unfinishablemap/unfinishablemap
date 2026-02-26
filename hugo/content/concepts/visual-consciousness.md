@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-25 11:29:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[inverted-qualia]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[global-workspace-theory]]'
 - '[[explanatory-gap]]'
 created: 2026-02-01

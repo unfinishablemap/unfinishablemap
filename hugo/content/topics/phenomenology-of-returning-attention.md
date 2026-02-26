@@ -1,11 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-15 09:46:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[voluntary-attention]]'
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -13,7 +12,6 @@ concepts:
 - '[[phenomenology]]'
 - '[[phenomenology-of-choice]]'
 - '[[introspection]]'
-- '[[attention]]'
 - '[[default-mode-network]]'
 - '[[contemplative-epistemology]]'
 - '[[neurophenomenology]]'
@@ -142,7 +140,7 @@ This has implications for the [contemplative epistemology](/concepts/contemplati
 
 ## Further Reading
 
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes of consciousness and their neural correlates
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt contrast between doing and undergoing
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention is the privileged interface between mind and brain

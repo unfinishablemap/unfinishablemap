@@ -1,18 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-25 22:12:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/attention-motor-planning-quantum-interface/
 - /topics/attention-interface-mechanisms/
 concepts:
-- '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[attention-motor-quantum-interface]]'
 - '[[motor-selection]]'
-- '[[voluntary-attention]]'
 - '[[stapp-quantum-mind]]'
 - '[[dopamine-selection-interface]]'
 - '[[quantum-consciousness]]'
@@ -258,7 +256,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of attentional effort
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — Constraints on what consciousness can influence
 - [free-will](/topics/free-will/) — How timing constraints relate to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The selection model as agent causation

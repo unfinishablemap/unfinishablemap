@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 05:59:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,6 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[agent-causation]]'
 - '[[illusionism]]'
-- '[[voluntary-attention]]'
 - '[[mental-effort]]'
 - '[[bidirectional-interaction]]'
 created: 2026-02-02
@@ -139,7 +138,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [agent-causation](/concepts/agent-causation/) — Substance causation as an alternative to event causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view choking evidence refutes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why choking resists it
-- [voluntary-attention](/concepts/attention-as-interface/) — The neural signatures of willed versus stimulus-driven attention
+- [voluntary attention](/concepts/attention-as-interface/) — The neural signatures of willed versus stimulus-driven attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative parallels to anoetic awareness
 

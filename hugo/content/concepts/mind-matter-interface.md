@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-22 11:26:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[mental-causation]]'
 - '[[neural-correlates-of-consciousness]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[illusionism]]'
 - '[[decoherence]]'
 - '[[witness-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-25 11:29:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[access-consciousness]]'
 - '[[phenomenal-consciousness]]'
 - '[[working-memory]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[global-workspace-theory]]'
 - '[[integrated-information-theory]]'
 - '[[mysterianism]]'
@@ -182,7 +182,7 @@ This functionality gap supports [Bidirectional Interaction](/tenets/#bidirection
 
 [Attention](/concepts/attention-as-interface/) gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
 
-Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [voluntary-attention](/concepts/attention-as-interface/): voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
+Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [voluntary attention](/concepts/attention-as-interface/): voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
 
 ## Connection to Baseline Cognition
 
@@ -315,7 +315,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — The contested hypothesis that phenomenology exceeds access
 - [working-memory](/concepts/working-memory/) — The maintenance function requiring consciousness
 - [attention](/concepts/attention-as-interface/) — The gatekeeper for conscious access
-- [voluntary-attention](/concepts/attention-as-interface/) — How consciousness directs attention
+- [voluntary attention](/concepts/attention-as-interface/) — How consciousness directs attention
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The theoretical framework for consciousness as broadcast
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum mechanism for consciousness-attention interface
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert and why it fails

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-25 22:12:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,6 @@ concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[working-memory]]'
 - '[[mental-effort]]'
-- '[[voluntary-attention]]'
 - '[[motor-selection]]'
 - '[[baseline-cognition]]'
 - '[[interactionist-dualism]]'

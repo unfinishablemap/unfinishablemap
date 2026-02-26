@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-05 03:24:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention-as-interface]]'
-- '[[voluntary-attention]]'
 - '[[mental-effort]]'
 - '[[dopamine-selection-interface]]'
 - '[[attention-motor-quantum-interface]]'
@@ -197,7 +196,7 @@ The materialist might argue that attention disorders show attention is "just" ne
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
 - [attention-motor-quantum-interface](/concepts/attention-as-interface/) — The unified attention-motor substrate for selection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno approach to mind-brain interaction
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention
 - [mental-effort](/concepts/mental-effort/) — Why attention feels effortful and what effort signifies
 - [dopamine-selection-interface](/concepts/motor-selection/) — Dopamine's role in threshold modulation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface

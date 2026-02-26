@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-03 12:10:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
 - '[[stapp-quantum-mind]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[self-stultification]]'
 - '[[reasons-responsiveness]]'
 created: 2026-01-23
@@ -154,7 +154,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [free-will](/topics/free-will/) - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [interactionist-dualism](/concepts/interactionist-dualism/) - The Map's framework for mind-body causation
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - A candidate mechanism for consciousness influencing neural states
-- [voluntary-attention](/concepts/attention-as-interface/) - The phenomenology of intellectual effort and its role in reasoning
+- [voluntary attention](/concepts/attention-as-interface/) - The phenomenology of intellectual effort and its role in reasoning
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - Nagel's analysis of how subjectivity enables objectivity
 - [introspection](/concepts/introspection/) - The reliability of self-knowledge and its connection to self-stultification

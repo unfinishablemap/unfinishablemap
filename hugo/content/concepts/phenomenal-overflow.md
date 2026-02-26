@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-02-25 11:29:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,6 @@ concepts:
 - '[[access-consciousness]]'
 - '[[global-workspace-theory]]'
 - '[[qualia]]'
-- '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[stapp-quantum-mind]]'
 - '[[working-memory]]'

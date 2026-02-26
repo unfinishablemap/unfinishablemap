@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-02-20 01:06:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[agent-causation]]'
 - '[[mental-effort]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[witness-consciousness]]'
 - '[[personal-identity]]'
 - '[[haecceity]]'
@@ -224,7 +224,7 @@ The authentic-inauthentic framework would face difficulty if:
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of decision-making
 - [agent-causation](/concepts/agent-causation/) — Why genuine choice requires agent causation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of cognitive engagement
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed action
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of willed action
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative cultivation of non-identified awareness
 - [personal-identity](/topics/personal-identity/) — What makes the "self" that authenticates choice
 - [haecceity](/concepts/haecceity/) — The unrepeatable thisness of the choosing subject

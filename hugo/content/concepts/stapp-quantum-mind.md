@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-25 20:25:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[psychophysical-coupling]]'
-- '[[voluntary-attention]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[attention-as-interface]]'
@@ -69,7 +68,7 @@ Stapp finds a kindred spirit in William James, who observed: "Volition is nothin
 
 Stapp's model answers: felt effort corresponds to observation rapidity. Sustained attention feels like work because it *is* work—continuous mental engagement to maintain the Zeno effect.
 
-Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The neural distinction mirrors the phenomenal distinction. See [voluntary-attention](/concepts/attention-as-interface/) for comprehensive treatment.
+Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The neural distinction mirrors the phenomenal distinction. See [voluntary attention](/concepts/attention-as-interface/) for comprehensive treatment.
 
 ## Empirical Support: Neuroplasticity
 
@@ -170,7 +169,7 @@ The model generates falsifiable predictions:
 
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — Comparative analysis; Stapp's model as most developed
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: taxonomy of coupling mechanisms
-- [voluntary-attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for conscious causation

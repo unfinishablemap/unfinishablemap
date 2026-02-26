@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-02-07 07:14:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[haecceity]]'
 - '[[integrated-information-theory]]'
 - '[[stapp-quantum-mind]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[mental-effort]]'
 - '[[mysterianism]]'
 created: 2026-01-26

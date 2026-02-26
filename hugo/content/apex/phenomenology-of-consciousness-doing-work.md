@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-25 11:13:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-02-23 12:07:00+00:00
 apex_sources:
@@ -23,7 +23,6 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[volitional-opacity]]'
 - '[[attention-as-interface]]'
-- '[[voluntary-attention]]'
 created: 2026-02-23
 date: &id001 2026-02-23
 description: What does it feel like when consciousness acts on matter? Effort, selection,

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-16 19:13:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,8 +9,6 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'
-- '[[attention]]'
-- '[[voluntary-attention]]'
 - '[[attention-as-interface]]'
 - '[[specious-present]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -172,7 +170,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
 - [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions
-- [voluntary-attention](/concepts/attention-as-interface/) — The willed/instructed distinction and neural signatures
+- [voluntary attention](/concepts/attention-as-interface/) — The willed/instructed distinction and neural signatures
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge

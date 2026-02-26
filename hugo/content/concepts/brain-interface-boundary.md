@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-22 17:19:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -11,9 +11,7 @@ concepts:
 - '[[filter-theory]]'
 - '[[quantum-consciousness]]'
 - '[[pairing-problem]]'
-- '[[attention]]'
 - '[[attention-as-interface]]'
-- '[[voluntary-attention]]'
 - '[[quantum-coherence-and-binding-evidence]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-coupling]]'

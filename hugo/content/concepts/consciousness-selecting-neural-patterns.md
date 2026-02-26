@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-24 10:59:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[measurement-problem]]'
@@ -15,7 +15,6 @@ concepts:
 - '[[decoherence]]'
 - '[[illusionism]]'
 - '[[introspection]]'
-- '[[voluntary-attention]]'
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
 created: 2026-01-16
@@ -253,7 +252,7 @@ The consciousness-selecting neural patterns framework would face serious difficu
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — The laws governing what selection can accomplish
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of how consciousness interfaces with quantum mechanics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism
-- [voluntary-attention](/concepts/attention-as-interface/) — The willed/instructed distinction and neural signatures of selection
+- [voluntary attention](/concepts/attention-as-interface/) — The willed/instructed distinction and neural signatures of selection
 - [attention](/concepts/attention-as-interface/) — The attention-consciousness dissociation
 - [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
 - [causal-closure](/concepts/causal-closure/) — The principle selection challenges

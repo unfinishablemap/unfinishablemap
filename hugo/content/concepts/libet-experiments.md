@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-03 02:43:00+00:00
+ai_modified: 2026-02-26 10:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[motor-selection]]'
 - '[[agent-causation]]'
-- '[[voluntary-attention]]'
+- '[[attention-as-interface]]'
 - '[[luck-objection]]'
 - '[[decoherence]]'
 - '[[illusionism]]'
@@ -197,7 +197,7 @@ The Map's position is that current evidence supports selection over randomness, 
 
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [motor-selection](/concepts/motor-selection/) — Extending the selection framework from attention to motor control
-- [voluntary-attention](/concepts/attention-as-interface/) — The willed/instructed distinction and stochastic pre-state challenge
+- [voluntary attention](/concepts/attention-as-interface/) — The willed/instructed distinction and stochastic pre-state challenge
 - [luck-objection](/concepts/luck-objection/) — Why indeterminism doesn't reduce selection to randomness
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality differs from contested presentiment claims
