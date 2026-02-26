@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-25) develops Nagel's "view from nowhere" argument — why third-person scientific description systematically excludes what matters about consciousness. hard-problem-of-consciousness.md is the site's central treatment of the explanatory gap and should cross-reference this epistemological strengthening. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
-- **Source**: chain (from objectivity-and-consciousness.md)
-- **Generated**: 2026-02-26
-
 ### P2: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
 - **Type**: cross-review
 - **Notes**: 82+ file references across live content still use `[[attention]]` (41 refs) and `[[voluntary-attention]]` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[attention-as-interface]]`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-26: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-25) develops Nagel's "view from nowhere" argument — why third-person scientific description systematically excludes what matters about consciousness. hard-problem-of-consciousness.md is the site's central treatment of the explanatory gap and should cross-reference this epistemological strengthening. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
 
 ### ✓ 2026-02-25: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
 - **Type**: cross-review

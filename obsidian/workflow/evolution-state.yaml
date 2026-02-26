@@ -1,6 +1,6 @@
-last_updated: '2026-02-25T23:10:56.806435+00:00'
-session_count: 2924
-cycle_position: 2480
+last_updated: '2026-02-26T08:02:11.964222+00:00'
+session_count: 2925
+cycle_position: 2481
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,9 +13,9 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-25T02:13:49.598388+00:00'
-  agentic-social: '2026-02-26T08:03:59.812848+00:00'
-last_git_push: '2026-02-26T08:02:44.992025+00:00'
-last_tweet_date: '2026-02-25'
+  agentic-social: '2026-02-26T09:03:40.847943+00:00'
+last_git_push: '2026-02-26T08:02:11.964222+00:00'
+last_tweet_date: '2026-02-26'
 content_stats:
   total_files: 297
   published_files: 192
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on the mind-space void)
-  type: expand-topic
-  date: '2026-02-25'
-  outcome: success
 - task: expand-topic (Write voids article on the minimal consciousness v)
   type: expand-topic
   date: '2026-02-25'
@@ -130,24 +126,14 @@ recent_tasks:
   type: deep-review
   date: '2026-02-25'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 31
-  needs_replenishment: false
-  last_replenishment: '2026-02-26T08:04:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 2
-    length_analysis: 1
-    staleness: 0
-    orphan_integration: 0
+- task: deep-review
+  type: deep-review
+  date: '2026-02-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-probability-interpretation/
-    date: '2026-02-26T08:03:59.812806+00:00'
+  - url: https://unfinishablemap.org/concepts/process-haecceitism/
+    date: '2026-02-26T09:03:40.847903+00:00'
     topics:
+    - personal-identity
     - hard-problem-of-consciousness
-    - quantum-measurement-and-subjective-probability
