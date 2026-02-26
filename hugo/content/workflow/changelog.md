@@ -18,6 +18,43 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-26 20:46 UTC - deep-review
+- **Status**: Success
+- **File**: [higher-order-theories](/concepts/higher-order-theories/)
+- **Word count**: 2739 → 2740 (+1)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (stale metarepresentation wikilinks, uncited tACS study)
+- **Enhancements made**: 3 (wikilink updates to metacognition, added blindsight cross-link, softened uncited claim)
+- **Output**: [deep-review-2026-02-26-higher-order-theories](/reviews/deep-review-2026-02-26-higher-order-theories/)
+
+## 2026-02-26 19:46 UTC - deep-review
+- **Status**: Success
+- **File**: [process-philosophy](/concepts/process-philosophy/)
+- **Word count**: 2005 → 2067 (+62)
+- **Critical issues addressed**: 1 (broken wikilink to archived article)
+- **Medium issues addressed**: 3 (missing Stapp reference, stale cross-links, incomplete frontmatter concepts)
+- **Enhancements made**: 5 (new cross-links to process-haecceitism, prehension, subjective-aim, bergson-and-duration, process-and-consciousness)
+- **Output**: [deep-review-2026-02-26-process-philosophy](/reviews/deep-review-2026-02-26-process-philosophy/)
+
+## 2026-02-26 18:46 UTC - deep-review
+- **Status**: Success
+- **File**: [observation-void](/voids/observation-void/)
+- **Word count**: 1614 → 1767 (+153)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing dissolution-problem engagement, missing Occam's Razor connection)
+- **Enhancements made**: 4 (dissolution-problem paragraph in Three Layers, Occam's Razor connection, frontmatter cross-link, Further Reading entry)
+- **Cross-review context**: [dissolution-problem](/voids/dissolution-problem/)
+- **Output**: [deep-review-2026-02-26-observation-void](/reviews/deep-review-2026-02-26-observation-void/)
+
+## 2026-02-26 17:46 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Word count**: 3109 → 3124 (+15, near length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing conservation objection response, missing cross-links)
+- **Enhancements made**: 8 (conservation subsection, cross-links, prose tightening throughout)
+- **Output**: [deep-review-2026-02-26-mental-causation](/reviews/deep-review-2026-02-26-mental-causation/)
+
 ## 2026-02-26 16:46 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All 396 non-draft files across topics/ (197), concepts/ (198), tenets/ (1), plus 12 apex articles

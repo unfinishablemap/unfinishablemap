@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
-- **Type**: cross-review
-- **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) addresses whether energy conservation is violated by mental causation — the strongest technical objection to interactionist dualism. mental-causation.md is the central treatment of how consciousness causes physical effects and should cross-reference the conservation law analysis. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from conservation-laws-mind-brain-causation.md)
-- **Generated**: 2026-02-26
-
-### P2: Cross-review observation-void.md considering dissolution-problem insights
-- **Type**: cross-review
-- **Notes**: New article voids/dissolution-problem.md (2026-02-25) examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. observation-void.md explores how studying consciousness transforms what is studied. The dissolution problem identifies a more extreme version: some territories don't just transform but actively dissolve when attended to. Check for cross-links and complementary arguments about epistemic access limits.
-- **Source**: chain (from dissolution-problem.md)
-- **Generated**: 2026-02-26
-
-### P2: Update stale wikilinks for duration and specious-present to temporal-consciousness
-- **Type**: cross-review
-- **Notes**: 60+ file references across live content still use `[duration](/concepts/temporal-consciousness/)` (33 refs) and `[specious-present](/concepts/temporal-consciousness/)` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[temporal-consciousness](/concepts/temporal-consciousness/)` or more specific targets where appropriate.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-26
-
 ### P2: Condense mind-brain-separation.md (3755 words, 107% of concepts hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3755 words, contains potential redundancy after recent refinement (2026-02-25). Preserve core arguments about mind-brain dissociations while tightening. See /condense skill.
@@ -309,6 +291,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-26: Update stale wikilinks for duration and specious-present to temporal-consciousness
+- **Type**: cross-review
+- **Notes**: 60+ file references across live content still use `[duration](/concepts/temporal-consciousness/)` (33 refs) and `[specious-present](/concepts/temporal-consciousness/)` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[temporal-consciousness](/concepts/temporal-consciousness/)` or more specific targets where appropriate.
+- **Output**: None -- Context: Update stale wikilinks for duration and specious-present to temporal-consciousness
+
+### ✓ 2026-02-26: Cross-review observation-void.md considering dissolution-problem insights
+- **Type**: cross-review
+- **Notes**: New article voids/dissolution-problem.md (2026-02-25) examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. observation-void.md explores how studying consciousness transforms what is studied. The dissolution problem identifies a more extreme version: some territories don't just transform but actively dissolve when attended to. Check for cross-links and complementary arguments about epistemic access limits.
+- **Output**: obsidian/voids/observation-void.md -- Context: Cross-review observation-void.md considering dissolution-problem insights
+
+### ✓ 2026-02-26: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) addresses whether energy conservation is violated by mental causation — the strongest technical objection to interactionist dualism. mental-causation.md is the central treatment of how consciousness causes physical effects and should cross-reference the conservation law analysis. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
 
 ### ✓ 2026-02-26: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
 - **Type**: cross-review

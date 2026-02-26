@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-02 04:04:00+00:00
+ai_modified: 2026-02-26 19:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,9 @@ concepts:
 - '[[dualism]]'
 - '[[combination-problem]]'
 - '[[downward-causation]]'
+- '[[process-haecceitism]]'
+- '[[prehension]]'
+- '[[subjective-aim]]'
 created: 2026-01-27
 date: &id001 2026-01-27
 description: A metaphysical tradition treating reality as fundamentally dynamic—events
@@ -21,7 +24,7 @@ description: A metaphysical tradition treating reality as fundamentally dynamic�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 19:30:00+00:00
+last_deep_review: 2026-02-26 19:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +101,7 @@ This aligns with the [Dualism](/tenets/#dualism) tenet's claim that consciousnes
 
 ### Process Haecceitism
 
-Process metaphysics also illuminates the [haecceity](/concepts/haecceity/) question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. The [Eastern Philosophy–Haecceity Tension](/topics/eastern-philosophy-consciousness/) article develops this "process haecceitism" in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
+Process metaphysics also illuminates the [haecceity](/concepts/haecceity/) question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. [Process haecceitism](/concepts/process-haecceitism/) develops this idea in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
 
 ### Temporal Structure
 
@@ -168,7 +171,12 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 
 ## Further Reading
 
+- [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis integrating process philosophy with the Map's consciousness framework
+- [process-haecceitism](/concepts/process-haecceitism/) — How haecceity applies to processes rather than substances
+- [prehension](/concepts/prehension/) — Whitehead's concept of how each moment grasps its predecessors
+- [subjective-aim](/concepts/subjective-aim/) — Whitehead's goal-directedness in actual occasions
 - [duration](/concepts/temporal-consciousness/) — Bergson's durée and its connection to Whiteheadian process
+- [bergson-and-duration](/topics/bergson-and-duration/) — Broader exploration of Bergson's temporal philosophy
 - [panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous; process philosophy's natural ally
 - [combination-problem](/concepts/combination-problem/) — The central challenge for panpsychist and process approaches
 - [emergence](/concepts/emergence/) — What process philosophy says about how complexity arises
@@ -185,5 +193,6 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - Cobb, J. B. & Griffin, D. R. (1976). *Process Theology: An Introductory Exposition*. Westminster Press.
 - Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
 - Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.
+- Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
 - Whitehead, A. N. (1933). *Adventures of Ideas*. Macmillan.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-04 14:57:00+00:00
+ai_modified: 2026-02-26 20:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[self-reference-paradox]]'
 - '[[global-workspace-theory]]'
 - '[[metacognition]]'
-- '[[metarepresentation]]'
+- '[[blindsight]]'
 - '[[illusionism]]'
 - '[[phenomenal-concepts-strategy]]'
 - '[[mental-causation]]'
@@ -21,7 +21,7 @@ description: Mental states become conscious when we become aware of them. HOT ex
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 17:30:00+00:00
+last_deep_review: 2026-02-26 20:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +114,7 @@ Recent neuroscience provides empirical challenges to HOT beyond the philosophica
 
 ### Blindsight Revisited
 
-Blindsight—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. But Maniscalco and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information about internal visual response rather than absence of visual consciousness entirely. On this view, some phenomenology persists while metacognitive access fails.
+[Blindsight](/concepts/blindsight/)—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. But Maniscalco and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information about internal visual response rather than absence of visual consciousness entirely. On this view, some phenomenology persists while metacognitive access fails.
 
 Either interpretation challenges HOT. If Maniscalco-Lau are right, consciousness can occur without the metacognitive representation HOT requires—the higher-order thought fails to target the first-order state, yet experience continues. If the standard interpretation is right, the challenge shifts but remains: first-order states drive behavior without higher-order representation.
 
@@ -126,7 +126,7 @@ This "blind insight" directly contradicts HOT. If consciousness *is* being repre
 
 ### Neural Separation
 
-The dissociation extends to neural architecture. Metacognitive judgments converge on the anterior prefrontal cortex (aPFC), anatomically and functionally distinct from sensory processing regions. A 2025 study demonstrated causally that transcranial alternating current stimulation (tACS) over aPFC impairs metacognitive accuracy while leaving first-order perception intact.
+The dissociation extends to neural architecture. Metacognitive judgments converge on the anterior prefrontal cortex (aPFC), anatomically and functionally distinct from sensory processing regions. Research using transcranial alternating current stimulation (tACS) over aPFC indicates that disrupting this region impairs metacognitive accuracy while leaving first-order perception intact.
 
 This is not what HOT predicts. If consciousness were constituted by higher-order representation, disrupting the metacognitive substrate should eliminate or degrade conscious experience itself. Instead, perception continues normally—subjects see as well as before—while their ability to report confidence in what they see degrades. The systems that produce experience and the systems that reflect on experience are neurally separable.
 
@@ -215,7 +215,7 @@ The hard problem remains hard.
 
 ## Further Reading
 
-- [metarepresentation](/concepts/metacognition/) — The three-level distinction HOT may conflate
+- [metacognition](/concepts/metacognition/) — The metarepresentational distinction HOT may conflate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
 - [metacognition](/concepts/metacognition/) — The cognitive capacity HOT conflates with consciousness
