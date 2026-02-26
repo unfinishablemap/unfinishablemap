@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-02-26T09:02:11.967260+00:00'
-session_count: 2926
-cycle_position: 2482
+last_updated: '2026-02-26T10:02:11.967979+00:00'
+session_count: 2927
+cycle_position: 2483
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-25T02:13:49.598388+00:00'
-  agentic-social: '2026-02-26T09:02:11.967260+00:00'
+  agentic-social: '2026-02-26T16:45:59.395498+00:00'
 last_git_push: '2026-02-26T08:02:11.964222+00:00'
 last_tweet_date: '2026-02-26'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-02-25'
-  outcome: success
 - task: deep-review (obsidian/concepts/minimal-consciousness.md -- Cont)
   type: deep-review
   date: '2026-02-25'
@@ -134,3 +126,17 @@ recent_tasks:
   type: deep-review
   date: '2026-02-26'
   outcome: success
+- task: 'deep-review (None -- Context: Update stale wikilinks for attent)'
+  type: deep-review
+  date: '2026-02-26'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-philosophy-of-biology/
+    date: '2026-02-26T16:45:59.395480+00:00'
+    topics:
+    - consciousness-evolution-problem
+    - evolution-under-dualism
+    - animal-consciousness
+    - consciousness-in-simple-organisms
+    - the-strong-emergence-of-consciousness

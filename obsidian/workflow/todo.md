@@ -276,6 +276,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Apex article on the voids as method (apophatic cartography)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The voids programme is the Map's most distinctive structural contribution, yet it lacks an apex synthesis. Would explain the methodology, its relationship to the five tenets, what it means to practise apophatic cartography, and the abductive argument from void clustering. Builds on evidential-weight-of-voids.md, tenet-generated-voids.md, dissolution-problem.md, phenomenology-of-the-edge.md, attention-created-voids.md. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
+### P3: Apex article synthesising the self-stultification suite
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
+### P3: Write article on neurological dissociations as interface architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Together they map the interface's functional anatomy — ascending, descending, and bilateral components. Builds on pain-asymbolia.md, blindsight.md, split-brain-consciousness.md, interface-friction.md, disorders-of-consciousness-as-test-cases.md. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
+### P3: Write concept page for apophatic cartography
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The voids programme's methodology — systematically mapping where understanding fails — deserves its own concept page. Currently implicit across ~87 void articles but never explicitly defined. Would serve as the conceptual foundation for the proposed voids apex article. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
+### P3: Write concept page for content-specificity of mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
+- **Generated**: 2026-02-26
+
 ## Completed Tasks
 
 
