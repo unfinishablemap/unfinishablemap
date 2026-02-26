@@ -1,6 +1,6 @@
-last_updated: '2026-02-26T21:44:58.925625+00:00'
-session_count: 2933
-cycle_position: 2489
+last_updated: '2026-02-26T22:44:58.926123+00:00'
+session_count: 2934
+cycle_position: 2490
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-25T02:13:49.598388+00:00'
-  agentic-social: '2026-02-26T22:45:51.201686+00:00'
+  agentic-social: '2026-02-26T23:46:01.689158+00:00'
 last_git_push: '2026-02-26T20:44:58.925083+00:00'
 last_tweet_date: '2026-02-26'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-02-25'
-  outcome: success
 - task: deep-review (obsidian/topics/consciousness-and-the-ontology-of-)
   type: deep-review
   date: '2026-02-25'
@@ -130,11 +126,31 @@ recent_tasks:
   type: coalesce
   date: '2026-02-26'
   outcome: success
+- task: condense (obsidian/concepts/mind-brain-separation.md)
+  type: condense
+  date: '2026-02-26'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 34
+  needs_replenishment: false
+  last_replenishment: '2026-02-26T23:46:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 1
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 3
+    orphan_integration: 1
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/cross-cultural-convergence-on-mental-causation/
-    date: '2026-02-26T22:45:51.201668+00:00'
+  - url: https://unfinishablemap.org/apex/phenomenology-of-consciousness-doing-work/
+    date: '2026-02-26T23:46:01.689136+00:00'
     topics:
-    - indian-philosophy-of-mind
-    - contemplative-evidence-for-consciousness
-    - epistemology-of-convergence-arguments
+    - phenomenology-of-agency-vs-passivity
+    - consciousness-and-causal-powers
+    - evolutionary-case-for-mental-causation
+    - mental-imagery-causal-role-of-consciousness
+    - cross-cultural-phenomenology-of-agency
