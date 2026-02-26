@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-25) develops Nagel's "view from nowhere" argument — why third-person scientific description systematically excludes what matters about consciousness. hard-problem-of-consciousness.md is the site's central treatment of the explanatory gap and should cross-reference this epistemological strengthening. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
+- **Source**: chain (from objectivity-and-consciousness.md)
+- **Generated**: 2026-02-26
+
+### P2: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
+- **Type**: cross-review
+- **Notes**: 82+ file references across live content still use `[[attention]]` (41 refs) and `[[voluntary-attention]]` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[attention-as-interface]]`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-26
+
+### P2: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) addresses whether energy conservation is violated by mental causation — the strongest technical objection to interactionist dualism. mental-causation.md is the central treatment of how consciousness causes physical effects and should cross-reference the conservation law analysis. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from conservation-laws-mind-brain-causation.md)
+- **Generated**: 2026-02-26
+
+### P2: Cross-review observation-void.md considering dissolution-problem insights
+- **Type**: cross-review
+- **Notes**: New article voids/dissolution-problem.md (2026-02-25) examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. observation-void.md explores how studying consciousness transforms what is studied. The dissolution problem identifies a more extreme version: some territories don't just transform but actively dissolve when attended to. Check for cross-links and complementary arguments about epistemic access limits.
+- **Source**: chain (from dissolution-problem.md)
+- **Generated**: 2026-02-26
+
+### P2: Update stale wikilinks for duration and specious-present to temporal-consciousness
+- **Type**: cross-review
+- **Notes**: 60+ file references across live content still use `[[duration]]` (33 refs) and `[[specious-present]]` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[temporal-consciousness]]` or more specific targets where appropriate.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-26
+
+### P2: Condense mind-brain-separation.md (3755 words, 107% of concepts hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3755 words, contains potential redundancy after recent refinement (2026-02-25). Preserve core arguments about mind-brain dissociations while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-26
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.

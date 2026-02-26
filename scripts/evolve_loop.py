@@ -409,7 +409,7 @@ def run_skill(
 def run_agent_commit(
     skill_name: str,
     skill_output: str,
-    timeout_seconds: int = 300,
+    timeout_seconds: int = 600,
     verbose: bool = False,
 ) -> str | None:
     """Run the agent-commit skill to create a meaningful commit.
