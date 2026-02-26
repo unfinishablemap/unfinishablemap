@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense mind-brain-separation.md (3755 words, 107% of concepts hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3755 words, contains potential redundancy after recent refinement (2026-02-25). Preserve core arguments about mind-brain dissociations while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-26
-
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-26: Condense mind-brain-separation.md (3755 words, 107% of concepts hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3755 words, contains potential redundancy after recent refinement (2026-02-25). Preserve core arguments about mind-brain dissociations while tightening. See /condense skill.
+- **Output**: obsidian/concepts/mind-brain-separation.md
 
 ### ✓ 2026-02-26: Update stale wikilinks for duration and specious-present to temporal-consciousness
 - **Type**: cross-review

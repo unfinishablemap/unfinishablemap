@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-26 22:46 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/mind-brain-separation]]
+- **Before**: 3755 words
+- **After**: 1941 words
+- **Reduction**: 48%
+- **Technique**: Cut redundant vision subsections (3D world, smooth motion repeated opening); replaced Filter Theory/Dreams exposition with links to [[filter-theory]] and [[dreams-and-consciousness]]; condensed Process Philosophy to paragraph with link to [[process-philosophy]]; tightened faculties sections and illusionist challenge; removed optical constraints tangent
+
 ## 2026-02-26 21:46 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/contemplative-epistemology]], [[concepts/contemplative-reliability]]
