@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-26 17:46 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation]]
+- **Word count**: 3109 → 3124 (+15, near length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing conservation objection response, missing cross-links)
+- **Enhancements made**: 8 (conservation subsection, cross-links, prose tightening throughout)
+- **Output**: [[reviews/deep-review-2026-02-26-mental-causation]]
+
 ## 2026-02-26 16:46 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All 396 non-draft files across topics/ (197), concepts/ (198), tenets/ (1), plus 12 apex articles

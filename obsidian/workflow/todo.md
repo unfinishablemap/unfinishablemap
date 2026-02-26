@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
-- **Type**: cross-review
-- **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) addresses whether energy conservation is violated by mental causation — the strongest technical objection to interactionist dualism. mental-causation.md is the central treatment of how consciousness causes physical effects and should cross-reference the conservation law analysis. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from conservation-laws-mind-brain-causation.md)
-- **Generated**: 2026-02-26
-
 ### P2: Cross-review observation-void.md considering dissolution-problem insights
 - **Type**: cross-review
 - **Notes**: New article voids/dissolution-problem.md (2026-02-25) examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. observation-void.md explores how studying consciousness transforms what is studied. The dissolution problem identifies a more extreme version: some territories don't just transform but actively dissolve when attended to. Check for cross-links and complementary arguments about epistemic access limits.
@@ -308,6 +302,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-26: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) addresses whether energy conservation is violated by mental causation — the strongest technical objection to interactionist dualism. mental-causation.md is the central treatment of how consciousness causes physical effects and should cross-reference the conservation law analysis. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
 
 ### ✓ 2026-02-26: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
 - **Type**: cross-review

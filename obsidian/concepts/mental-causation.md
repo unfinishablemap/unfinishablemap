@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-25T20:55:00+00:00
+ai_modified: 2026-02-26T17:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
   - "[[bidirectional-interaction]]"
+  - "[[conservation-laws-mind-brain-causation]]"
   - "[[delegatory-dualism]]"
   - "[[observational-closure]]"
   - "[[bandwidth-problem-mental-causation]]"
@@ -40,7 +41,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-24T03:08:00+00:00
+last_deep_review: 2026-02-26T17:46:00+00:00
 ---
 
 Mental causation is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -70,7 +71,7 @@ The dilemma seems stark: deny that consciousness causes anything, or deny that c
 
 ## Overdetermination and Exclusion
 
-Why can't mental and physical causes both contribute? This would be *causal overdetermination*—two independent sufficient causes for a single effect. Kim argues systematic overdetermination is untenable. Critics respond that mental causes supervene on physical causes, or that mental properties may be the more *proportional* cause (Yablo). Each response has merit, but none fully dissolves the problem under strong [[causal-closure|causal closure]].
+Why can't mental and physical causes both contribute through *causal overdetermination*—two independent sufficient causes for a single effect? Kim argues systematic overdetermination is untenable. Critics respond that mental properties may be the more *proportional* cause (Yablo), but no response fully dissolves the problem under strong [[causal-closure|causal closure]].
 
 ## The Supervenience Problem
 
@@ -100,15 +101,15 @@ The mechanism: physical brain states have a "default causal profile"—the patte
 
 Saad's analogy: A major and a sergeant both order troops to advance. The major's order preempts the sergeant's—the troops advance because of the major's command, not because two commands overdetermined the outcome. The sergeant's order is rendered causally idle. Similarly, when you experience pain, the physical state's "cause wincing" capacity is preempted by the pain itself.
 
-This differs crucially from overdetermination. Overdetermination posits two independent sufficient causes both contributing. Preemption has one cause *operating* while the other is *sidelined*—present but idle.
+This differs crucially from overdetermination, which posits two sufficient causes both contributing. Preemption has one cause *operating* while the other is *sidelined*.
 
-Saad's distinction between *universal* closure (every physical event has sufficient physical cause) and *[[observational-closure|observational closure]]* (no detectable violations) parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. Delegatory dualism addresses causal *structure*; the quantum opening addresses causal *mechanism*. The frameworks complement each other.
+Saad's distinction between *universal* closure (every physical event has sufficient physical cause) and *[[observational-closure|observational closure]]* (no detectable violations) parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. Delegatory dualism addresses causal *structure*; the quantum opening addresses causal *mechanism*.
 
 ### The Quantum Opening
 
 The Map's response: deny causal closure at quantum indeterminacies.
 
-Quantum mechanics specifies probabilities but not which outcome actualizes. When a radioactive atom decays, physics determines the probability but not the moment. The physical causes are genuinely insufficient. Causal closure fails.
+Quantum mechanics specifies probabilities but not which outcome actualizes. When a radioactive atom decays, physics determines the probability but not the moment. Causal closure fails at these points.
 
 If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [[prebiotic-collapse|prebiotic collapse problem]] shows this framework is cosmologically consistent: objective reduction handled collapse for 13.8 billion years before minds; consciousness modulates collapse only where neural architecture provides the interface.
 
@@ -120,9 +121,13 @@ The main physics-based objection: warm neural tissue decoheres quantum superposi
 
 Consciousness could bias outcomes at the point of measurement even after decoherence has occurred. The quantum opening remains open.
 
+### The Conservation Objection
+
+If non-physical consciousness moves matter, doesn't energy appear from nowhere? This [[conservation-laws-mind-brain-causation|conservation objection]] fails on two independent grounds. First, conservation laws are *derived* from symmetries (Noether's theorem); mental influence would break the symmetry from which energy conservation follows, making the objection question-begging (Cucu and Pitts 2019). Second, selection among quantum-permitted outcomes requires no energy transfer—all candidates already have definite energies. Conservation constrains *which energies are possible*, not *which possibility actualises*.
+
 ### The Specification Challenge
 
-Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and conservation (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically? A related challenge—the [[bandwidth-problem-mental-causation|bandwidth problem]]—asks whether the mind-body channel can carry enough information for specific behaviour, given that conscious processing operates at roughly 10 bits per second while motor execution requires millions. The [[neural-bandwidth-constraints-and-the-interface|hierarchical selection response]] resolves this: consciousness selects among brain-prepared options at policy level, while unconscious systems supply fine-grained detail.
+Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and [[conservation-laws-mind-brain-causation|conservation]] (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically? A related challenge—the [[bandwidth-problem-mental-causation|bandwidth problem]]—asks whether the mind-body channel can carry enough information for specific behaviour, given that conscious processing operates at roughly 10 bits per second while motor execution requires millions. The [[neural-bandwidth-constraints-and-the-interface|hierarchical selection response]] resolves this: consciousness selects among brain-prepared options at policy level, while unconscious systems supply fine-grained detail.
 
 The [[psychophysical-laws-bridging-mind-and-matter]] provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *[[selection-laws|selection laws]]* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
 
@@ -156,9 +161,9 @@ The phenomenology of [[mental-effort|mental effort]] supports this: effort feels
 
 ### Process Philosophy Alternative
 
-Whitehead's process philosophy offers a complementary perspective. His "actual occasions"—momentary experiential events—exercise what Whitehead called "self-determination" in constituting themselves from their causal inheritance. On this view, causation is inherently experiential: each moment of experience contributes something new through creative synthesis.
+Whitehead's process philosophy reframes causation through "actual occasions"—momentary experiential events exercising self-determination in constituting themselves from their causal inheritance. On this view, causation is inherently experiential: each moment contributes something new through creative synthesis.
 
-This reframes mental causation as continuous with causation generally rather than metaphysically exceptional. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. The exclusion argument's assumption that causation is purely event-event regularities would be mistaken from the start.
+If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is rather than being metaphysically exceptional. The exclusion argument's assumption that causation is purely event-event regularities would be mistaken from the start.
 
 ### The Interface Question
 
@@ -174,9 +179,9 @@ The strongest positive argument for mental causation is the self-stultification 
 4. Beliefs formed without causal connection to their subject matter are not rationally held
 5. Therefore, epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness
 
-If you can accurately report your conscious experiences—"I'm in pain," "I see red"—then your experiences must cause your reports. The pain causes the utterance about pain. Otherwise, why would the report be about the experience at all?
+If you can accurately report your conscious experiences—"I'm in pain," "I see red"—then your experiences must cause your reports. Otherwise, why would the report be about the experience at all?
 
-If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness, your reports about experiences aren't caused by experiences, and your reasoning about mental causation isn't influenced by mental evidence. This makes denying mental causation epistemically self-defeating.
+If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness and your reasoning about mental causation isn't influenced by mental evidence—making the denial epistemically self-defeating.
 
 The [[choking-phenomenon-mental-causation|choking phenomenon]] provides complementary empirical evidence: when expert performers attend to automatized actions, performance degrades. If consciousness were epiphenomenal, it couldn't interfere with procedural execution. The interference demonstrates causation.
 
@@ -184,15 +189,15 @@ The [[choking-phenomenon-mental-causation|choking phenomenon]] provides compleme
 
 [[Illusionism]] attempts to sidestep this argument. Frankish and Dennett argue that our reports about consciousness can be produced by sophisticated neural information processing without phenomenal causation. The brain models itself, and these self-models generate accurate reports—no phenomenal properties need cause anything.
 
-But illusionism faces its own version of self-stultification. If the appearance of phenomenal consciousness is itself an illusion, something must be experiencing that illusion. To be under an illusion that consciousness exists requires there to be *something it is like* to have that mistaken representation. The illusion of phenomenal properties presupposes phenomenal properties—or at least something playing their functional role.
+But illusionism faces its own version of self-stultification. If the appearance of phenomenal consciousness is itself an illusion, something must be experiencing that illusion. To be under an illusion that consciousness exists requires there to be *something it is like* to have that mistaken representation—the illusion of phenomenal properties presupposes phenomenal properties.
 
-Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." All illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness. The illusionist trades the hard problem for an equally hard "illusion problem."
+Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness. The illusionist trades the hard problem for an equally hard "illusion problem."
 
 ## Relation to the Map's Perspective
 
 Mental causation is central to the Map's framework.
 
-**Bidirectional Interaction**: the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] explicitly affirms that consciousness causally influences physical outcomes. Mental causation isn't a philosophical curiosity but a foundational commitment. The [[bidirectional-interaction]] concept page develops this in detail, presenting the self-stultification argument against epiphenomenalism and explaining how the quantum interface mechanism enables consciousness to select among outcomes physics leaves undetermined.
+**Bidirectional Interaction**: the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] explicitly affirms that consciousness causally influences physical outcomes. Mental causation isn't a philosophical curiosity but a foundational commitment. The [[bidirectional-interaction]] concept page develops this in detail.
 
 **The Quantum Resolution**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] provides the mechanism. Consciousness acts where physics is incomplete—at quantum indeterminacies. This respects the spirit of causal closure (physics explains what physics determines) while denying its letter (physics doesn't determine everything).
 
@@ -234,6 +239,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters for mental causation)
 - [[arguments/epiphenomenalism-argument]] — The cumulative case against epiphenomenalism (five arguments)
+- [[conservation-laws-mind-brain-causation]] — Why conservation laws don't block mental causation
 - [[causal-closure]] — The principle mental causation challenges
 - [[interactionist-dualism]] — The framework that accommodates mental causation
 - [[concepts/epiphenomenalism]] — The view denying mental causation
@@ -250,6 +256,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 ## References
 
+- Cucu, A. C., & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *arXiv:1909.13643*.
 - Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
