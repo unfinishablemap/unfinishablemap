@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-11 12:19:00+00:00
+ai_modified: 2026-02-25 22:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -184,7 +184,7 @@ For quantum mechanisms to work, decoherence must be slow enough to permit meanin
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly less than the brain's total throughput. This shapes what consciousness can select: coarse-grained policies and action patterns, not individual neural events. The brain generates and evaluates options unconsciously; consciousness selects among results.
+Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly less than the brain's total throughput. This shapes what consciousness can select: coarse-grained policies and action patterns, not individual neural events. The brain generates and evaluates options unconsciously; consciousness selects among results. This pattern—detail resolving where consciousness engages—echoes the broader principle of [adaptive computational depth](/concepts/adaptive-computational-depth/).
 
 ## Testable Predictions
 

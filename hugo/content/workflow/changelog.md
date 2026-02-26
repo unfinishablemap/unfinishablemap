@@ -18,6 +18,77 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-26 08:23 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
+- **Word count**: 1844 → 1844 (+0, cross-links only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (overstated classical computation claim, missing cross-links)
+- **Enhancements made**: 3 (precision edit, 3 cross-links added)
+- **Output**: [deep-review-2026-02-26-quantum-biology-and-the-consciousness-debate](/reviews/deep-review-2026-02-26-quantum-biology-and-the-consciousness-debate/)
+
+## 2026-02-25 23:10 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- **Word count**: 2341 → 2350 (+9, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing mind-space-void cross-link)
+- **Enhancements made**: 3 (mind-space boundary in taxonomy, Further Reading entry, trimmed redundant subsection)
+- **Output**: [deep-review-2026-02-25-phenomenology-of-the-edge](/reviews/deep-review-2026-02-25-phenomenology-of-the-edge/)
+
+## 2026-02-25 22:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [mind-brain-separation](/concepts/mind-brain-separation/)
+- **Changes**: Replaced god-of-the-gaps reasoning with positive philosophical arguments (knowledge argument, zombie conceivability); acknowledged homunculus limitation in rendering engine analogy; balanced dream and memory evidence; acknowledged Whitehead/dualism tension; softened assertive language throughout
+- **Published**: yes
+
+## 2026-02-25 22:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/mind-brain-separation.md ("Mind-Brain Separation and the Division of Faculties")
+- **Issues found**: 2 high-severity (god-of-the-gaps reasoning, homunculus in rendering engine analogy), 3 medium-severity (dream evidence overreach, Bergson presented too favourably, Whitehead/dualism tension)
+- **Output**: [pessimistic-2026-02-25-mind-brain-separation](/reviews/pessimistic-2026-02-25-mind-brain-separation/)
+
+## 2026-02-25 22:25 UTC - deep-review
+- **Status**: Success
+- **File**: [language-and-consciousness](/concepts/language-and-consciousness/)
+- **Word count**: 1779 → 1779 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (additional orphan integration)
+- **Enhancements made**: 3 (3 inbound links from phenomenal-intentionality, symbol-grounding-problem, phenomenal-concepts-strategy)
+- **Output**: [deep-review-2026-02-25-language-and-consciousness](/reviews/deep-review-2026-02-25-language-and-consciousness/)
+
+## 2026-02-25 22:12 UTC - deep-review
+- **Status**: Success
+- **File**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Word count**: 1682 → 1693 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing outbound cross-link)
+- **Enhancements made**: 7 (1 outbound link + 6 inbound links from related articles)
+- **Output**: [deep-review-2026-02-25-adaptive-computational-depth](/reviews/deep-review-2026-02-25-adaptive-computational-depth/)
+
+## 2026-02-25 21:55 UTC - deep-review
+- **Status**: Success
+- **File**: [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/)
+- **Word count**: 1301 → 1519 (+218)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (MWI dependency, decoherence gap)
+- **Enhancements made**: 3 (MWI paragraph, decoherence subsection, Tenet 4 connection)
+- **Output**: [deep-review-2026-02-25-conservation-laws-mind-brain-causation](/reviews/deep-review-2026-02-25-conservation-laws-mind-brain-causation/)
+
+## 2026-02-25 21:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Dissolution Problem
+- **Output**: [dissolution-problem](/voids/dissolution-problem/)
+- **Word count**: 1556
+- **Based on research**: yes, [voids-dissolution-problem-2026-02-25](/research/voids-dissolution-problem-2026-02-25/)
+
+## 2026-02-25 21:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Conservation Laws and Mind-Brain Causation
+- **Output**: [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/)
+- **Word count**: 1301
+- **Based on research**: yes, [conservation-laws-mind-brain-causation-2026-01-23](/research/conservation-laws-mind-brain-causation-2026-01-23/)
+
 ## 2026-02-25 21:10 UTC - deep-review
 - **Status**: Success
 - **File**: [motor-selection](/concepts/motor-selection/)

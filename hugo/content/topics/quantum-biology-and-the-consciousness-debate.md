@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-25 20:25:00+00:00
+ai_modified: 2026-02-26 08:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Why the discovery that warm biology exploits quantum effects shifts
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 20:08:10+00:00
+last_deep_review: 2026-02-26 08:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ Five distinct [quantum mechanisms](/concepts/quantum-neural-mechanisms-and-coher
 
 These mechanisms vary in evidential support. Radical pair biology is well-established outside neural contexts. Microtubule research has accelerated since 2024, with anesthetic studies suggesting quantum effects correlate with consciousness. Ion tunnelling and SNARE protein mechanisms remain primarily theoretical. Posner molecules await experimental validation.
 
-The point is not that any specific mechanism is confirmed, but that multiple independent pathways exist for quantum effects in neural tissue. The assumption of purely classical brain computation is no longer default.
+The point is not that any specific mechanism is confirmed, but that multiple independent pathways exist for quantum effects in neural tissue. The assumption of purely classical brain computation is no longer unchallenged.
 
 ## Why Does This Matter for Consciousness?
 
@@ -71,7 +71,7 @@ The relevance to consciousness isn't automatic. Quantum biology in enzymes doesn
 
 The connection runs through the [measurement-problem](/concepts/measurement-problem/). Every quantum system eventually produces definite outcomes—one electron spin, one pathway taken, one reaction product. Physics provides probabilities; something determines which outcome becomes actual. Orthodox quantum mechanics is silent on what that something is.
 
-The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating conservation laws or injecting energy. This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—not that consciousness creates physical effects ex nihilo, but that it selects among possibilities physics already allows.
+The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-mind-brain-causation/) or injecting energy. This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—not that consciousness creates physical effects ex nihilo, but that it selects among possibilities physics already allows.
 
 Quantum biology matters because it establishes the substrate. If brains were purely classical, there would be no indeterminate outcomes for consciousness to influence. Quantum biology demonstrates that warm biological systems regularly involve quantum indeterminacy. The question becomes whether neural systems specifically involve such indeterminacy at functionally relevant points—and whether consciousness interfaces there.
 
@@ -115,7 +115,7 @@ The Map's position would face serious difficulty if:
 
 **Neural quantum effects prove absent.** If refined experiments show no quantum effects survive at any functionally relevant timescale in living neurons, the physical basis for quantum consciousness collapses. Current evidence is mixed but increasingly favourable.
 
-**Classical computation explains consciousness.** If a purely classical neural account fully explains the features that motivated quantum approaches—the binding problem, the unity of consciousness, the timing of decisions—parsimony favours the classical account. No such account currently exists.
+**Classical computation explains consciousness.** If a purely classical neural account fully explains the features that motivated quantum approaches—the [binding problem](/concepts/binding-problem/), the [unity of consciousness](/concepts/unity-of-consciousness/), the timing of decisions—parsimony favours the classical account. No such account currently exists.
 
 **Many-Worlds proves correct.** Under the [many-worlds interpretation](/concepts/many-worlds/), all quantum outcomes occur in different branches. The concept of "selection" loses meaning—not because it becomes illusory, but because the question "which outcome became actual?" presupposes a single outcome that MWI denies. Consciousness would have no role in determining outcomes because all outcomes occur. The quantum biology findings would remain scientifically interesting but irrelevant to the mind-body problem. The Map rejects MWI partly because the indexical question—why am I experiencing *this* branch rather than another?—seems meaningful even if MWI provides no resources to answer it.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-31 09:28:00+00:00
+ai_modified: 2026-02-25 22:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -166,6 +166,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 ## Further Reading
 
 ### Site Content
+- [language-and-consciousness](/concepts/language-and-consciousness/) — How reference to consciousness resists standard theories of meaning
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap PCS tries to explain away
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Chalmers's conceivability argument
 - [qualia](/concepts/qualia/) — The experiential properties at issue

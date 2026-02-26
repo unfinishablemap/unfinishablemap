@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-02-24 10:59:00+00:00
+ai_modified: 2026-02-25 22:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Adaptive computational depth—the idea that reality allocates deta
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 10:59:00+00:00
+last_deep_review: 2026-02-25 22:12:00+00:00
 modified: *id001
 related_articles:
 - '[[adaptive-computational-depth-2026-02-08]]'
@@ -89,7 +89,7 @@ Adaptive computational depth aligns with each of the Map's [tenets](/tenets/) in
 
 Adaptive computational depth as a framework for dualism inherits the unfalsifiability that characterises consciousness-based interpretations of quantum mechanics. As the [measurement problem](/concepts/measurement-problem/) article acknowledges, consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. The value here is conceptual rather than predictive: adaptive depth connects the observer-dependence of quantum mechanics with the Map's commitment to non-computable consciousness. This is a philosophical framework compatible with physics, not a competing physical hypothesis.
 
-The [bandwidth constraint](/concepts/consciousness-selecting-neural-patterns/) on conscious processing (~10 bits/second) is relevant. If consciousness allocates computational depth, it does so at policy level—selecting *domains* of attention, not micromanaging individual quantum events. This aligns with the Map's broader model: consciousness operates as a coarse-grained selector, and the physical mechanisms handle the details within the selected domain. See [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) for how this bandwidth constraint shapes the Map's account of [Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/).
+The [bandwidth constraint](/concepts/consciousness-selecting-neural-patterns/) on conscious processing (~10 bits/second) is relevant. If consciousness allocates computational depth, it does so at policy level—selecting *domains* of attention, not micromanaging individual quantum events. Every such selection is an [allocation of a severely constrained resource](/concepts/attentional-economics/). This aligns with the Map's broader model: consciousness operates as a coarse-grained selector, and the physical mechanisms handle the details within the selected domain. See [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) for how this bandwidth constraint shapes the Map's account of [Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/).
 
 ## What Would Challenge This View?
 

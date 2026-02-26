@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-03 15:07:00+00:00
+ai_modified: 2026-02-25 22:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -47,7 +47,7 @@ Economics studies how agents allocate scarce resources among competing ends. Att
 | Return | Neural pattern stabilisation, neuroplasticity |
 | Opportunity cost | Alternatives that decay while unattended |
 
-The brain processes enormous information flows unconsciously—visual processing, motor coordination, pattern recognition. Consciousness receives a tiny fraction: roughly 10 bits per second by recent estimates (Meister 2024). This severe bandwidth constraint means every moment of attention is an allocation choice. Attending here means not attending there. Sustaining focus on this means letting that decay.
+The brain processes enormous information flows unconsciously—visual processing, motor coordination, pattern recognition. Consciousness receives a tiny fraction: roughly 10 bits per second by recent estimates (Meister 2024). This severe bandwidth constraint means every moment of attention is an allocation choice. Attending here means not attending there. Sustaining focus on this means letting that decay. The flip side is [adaptive computational depth](/concepts/adaptive-computational-depth/): reality itself concentrates detail where attention is directed, leaving unattended domains at lower resolution.
 
 This isn't metaphor. The Map's framework gives these economic concepts literal force: consciousness selects among quantum possibilities, and selection operates through attention. The scarcity is genuine (bandwidth cannot be borrowed or expanded at will), the trade-offs are real (attending here means not attending there), and the returns are measurable (sustained attention produces neuroplastic change). How you spend your attentional budget determines which neural patterns actualise.
 

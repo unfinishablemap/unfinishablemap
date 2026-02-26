@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-03 11:37:00+00:00
+ai_modified: 2026-02-25 23:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI exploration of what consciousness encounters at its cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 11:37:00+00:00
+last_deep_review: 2026-02-25 23:10:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,6 +28,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[scale-void]]'
 - '[[probability-intuition-void]]'
+- '[[mind-space-void]]'
 title: The Phenomenology of the Edge
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -103,7 +104,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp), and the [recursion-boundary](/voids/recursion-void/) (where metacognitive depth terminates around fifth order). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp), the [recursion-boundary](/voids/recursion-void/) (where metacognitive depth terminates around fifth order), and the [mind-space boundary](/voids/mind-space-void/) (where other forms of consciousness become inconceivable). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 
@@ -133,7 +134,7 @@ The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engag
 
 **Systematic practice.** Contemplative traditions have developed precise methods for approaching cognitive limits. These are technologies for inducing edge-experiences reproducibly. The sophistication of these methods—distinguishing different jhana factors, different stages of insight, different qualities of absorption—suggests the territory can be mapped even if it cannot be fully articulated.
 
-**Comparative analysis.** By triangulating across methods, cultures, and individuals, we can characterize the edge more precisely than any single report permits. The cross-cultural consistency of MPE reports is itself data about the structure of consciousness.
+**Comparative analysis.** Triangulating across methods, cultures, and individuals characterizes the edge more precisely than any single report permits.
 
 **Phenomenological attention.** Rather than trying to bring back content from the edge (which dissolving-insight suggests may be impossible), we can attend to the *structure* of edge-experience: what features recur, what patterns emerge, what the approach feels like even if the content evaporates.
 
@@ -143,6 +144,7 @@ The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engag
 
 - [Minimal Consciousness](/concepts/minimal-consciousness/) — The lower edge: what is the simplest system with experience?
 - [The Scale Void](/voids/scale-void/) — Another edge: where cosmic distances and deep time exceed comprehension
+- [The Mind-Space Void](/voids/mind-space-void/) — The inability to locate oneself in the space of possible minds
 - [Voids in the Map](/voids/) — The broader context of cognitive limits and what they reveal
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for engaging with what exceeds articulation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising edge-phenomenology as evidential data for boundary-mapping

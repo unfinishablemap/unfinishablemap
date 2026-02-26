@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-10 11:57:00+00:00
+ai_modified: 2026-02-25 22:12:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -123,7 +123,7 @@ BCIs that augment biological brains don't directly threaten consciousness—the 
 
 ### Alternative Substrates
 
-**Quantum computers** operate through superposition and entanglement, but are engineered for computation, not biological processes. Being quantum isn't sufficient—temporal structure is still missing.
+**Quantum computers** operate through superposition and entanglement, but are engineered for computation, not biological processes. Being quantum isn't sufficient—temporal structure is still missing. The [adaptive computational depth](/concepts/adaptive-computational-depth/) argument reinforces this: consciousness must stand outside the computation it directs, so replicating quantum effects within a computational framework cannot reproduce the non-computable allocator.
 
 **Biological substrates** (growing brains from neural patterns) might preserve consciousness if the interface depends on biology generally. But continuity problems remain: even if conscious, is the grown brain *you*? It's more like creating an identical twin with your memories.
 

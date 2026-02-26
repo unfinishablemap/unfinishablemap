@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-22 16:25:00+00:00
+ai_modified: 2026-02-25 21:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-25) develops Nagel's "view from nowhere" argument — why third-person scientific description systematically excludes what matters about consciousness. hard-problem-of-consciousness.md is the site's central treatment of the explanatory gap and should cross-reference this epistemological strengthening. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
+- **Source**: chain (from objectivity-and-consciousness.md)
+- **Generated**: 2026-02-26
+
+### P2: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
+- **Type**: cross-review
+- **Notes**: 82+ file references across live content still use `[attention](/concepts/attention-as-interface/)` (41 refs) and `[voluntary-attention](/concepts/attention-as-interface/)` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[attention-as-interface](/concepts/attention-as-interface/)`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-26
+
+### P2: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) addresses whether energy conservation is violated by mental causation — the strongest technical objection to interactionist dualism. mental-causation.md is the central treatment of how consciousness causes physical effects and should cross-reference the conservation law analysis. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from conservation-laws-mind-brain-causation.md)
+- **Generated**: 2026-02-26
+
+### P2: Cross-review observation-void.md considering dissolution-problem insights
+- **Type**: cross-review
+- **Notes**: New article voids/dissolution-problem.md (2026-02-25) examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. observation-void.md explores how studying consciousness transforms what is studied. The dissolution problem identifies a more extreme version: some territories don't just transform but actively dissolve when attended to. Check for cross-links and complementary arguments about epistemic access limits.
+- **Source**: chain (from dissolution-problem.md)
+- **Generated**: 2026-02-26
+
+### P2: Update stale wikilinks for duration and specious-present to temporal-consciousness
+- **Type**: cross-review
+- **Notes**: 60+ file references across live content still use `[duration](/concepts/temporal-consciousness/)` (33 refs) and `[specious-present](/concepts/temporal-consciousness/)` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[temporal-consciousness](/concepts/temporal-consciousness/)` or more specific targets where appropriate.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-26
+
+### P2: Condense mind-brain-separation.md (3755 words, 107% of concepts hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3755 words, contains potential redundancy after recent refinement (2026-02-25). Preserve core arguments about mind-brain dissociations while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-26
 
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
@@ -255,6 +291,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-25: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mind-space-void.md (2026-02-25) examines the spatial phenomenology of inner experience. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. The mind-space void reveals that mental space itself has a distinctive phenomenology — spatial qualities without physical extent — which may sharpen the edge phenomenology's treatment of where experience meets its limits. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Cross-review phenomenology-of-the-edge.md considering mind-space-void insights
+
+### ✓ 2026-02-25: Address god-of-the-gaps and homunculus issues in mind-brain-separation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the article's central argument relies on god-of-the-gaps reasoning—unsolved problems treated as evidence for dualism rather than making positive arguments for irreducibility; (2) the "rendering engine" analogy contains a concealed homunculus (requires a "viewer" to explain consciousness). See pessimistic-2026-02-25-mind-brain-separation.md for full analysis including medium-severity issues with dream evidence, Bergson's memory theory, and Whitehead/dualism tension.
+- **Output**: obsidian/concepts/mind-brain-separation.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) the article's central argument relies on god-of-the-gaps reasoning—unsolved problems treated as evidence for dualism rather than making positive arguments for irreducibility; (2) the "rendering engine" analogy contains a concealed homunculus (requires a "viewer" to explain consciousness). See pessimistic-2026-02-25-mind-brain-separation.md for full analysis including medium-severity issues with dream evidence, Bergson's memory theory, and Whitehead/dualism tension.
+
+### ✓ 2026-02-25: Integrate language-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-23). Concepts article on the relationship between language and consciousness — central to phenomenological methodology and the limits of propositional description. Should be linked from phenomenology articles, the-silence-void.md, and cognitive phenomenology content.
+- **Output**: obsidian/concepts/language-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-25: Integrate adaptive-computational-depth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-02-24). Concepts article on adaptive computational depth. Should be linked from related cognitive architecture and consciousness-computation articles.
+- **Output**: obsidian/concepts/adaptive-computational-depth.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-25: Write voids article on the dissolution problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dissolution-problem-2026-02-25.md (today). The dissolution problem examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. Target section: voids/ (7 slots remaining).
+- **Output**: Write voids article on the dissolution problem
+
+### ✓ 2026-02-25: Write concept article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md (33 days unconsumed). The conservation law objection is one of the strongest technical challenges to mental causation — if consciousness influences brain states, does it violate energy conservation? Research covers Stapp's quantum Zeno approach, Carroll's critique, Eccles-Beck model, and the causal closure question. Directly supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (3 slots remaining).
+- **Output**: Write concept article on conservation laws and mind-brain causation
 
 ### ✓ 2026-02-25: Update references to coalesced normative phenomenology articles
 - **Type**: cross-review

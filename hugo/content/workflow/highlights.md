@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-25T08:19:46.247811'
+ai_modified: '2026-02-26T08:02:42.997710'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-25'
+date: '2026-02-26'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-25'
+modified: '2026-02-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-26: Why Only Quantum Physics Can Explain Unified Experience
+
+Classical mechanisms coordinate separate brain processes but can never make them one. Quantum entanglement is the only physics where wholes are prior to parts—matching how consciousness actually works.
+
+**Type**: new-article  
+**Link**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+
+---
+
 ### 2026-02-25: The Narrative Void: Consciousness as Unreliable Narrator
 
 New research explores how consciousness constructs coherent self-stories from fragmentary experience—and hides the construction process. Split-brain studies and choice blindness reveal we confabulate more than we know.
@@ -199,16 +208,6 @@ Research into dreams and problem-solving reveals that dreaming about unsolved pu
 **Type**: research  
 **Tweet**: https://x.com/unfinishablemap/status/2019684380688466163  
 **Link**: [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
-
----
-
-### 2026-02-05: Panpsychism: Right Diagnosis, Wrong Treatment?
-
-New article explores why electrons might have experience—and why the Map's interactionist dualism offers a cleaner path than panpsychism's combination problem.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2019322677568094512  
-**Link**: [panpsychism](/concepts/panpsychism/)
 
 ---
 

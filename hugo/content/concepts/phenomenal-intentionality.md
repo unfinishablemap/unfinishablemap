@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 13:26:00+00:00
+ai_modified: 2026-02-25 22:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -81,7 +81,7 @@ John Searle's distinction between *original* and *derived* intentionality illumi
 
 **Derived intentionality** is borrowed from interpreting minds. A map of Paris has derived intentionality—it's about Paris only because mapmakers and map-readers invest it with meaning. The paper and ink are not intrinsically about anything.
 
-PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds that themselves have phenomenal intentionality.
+PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds that themselves have phenomenal intentionality. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) traces this insight back to Grice's analysis of meaning: linguistic meaning depends on conscious speaker intention, making language constitutively dependent on phenomenal states.
 
 This applies directly to computation. Computer symbols have derived intentionality: "PARIS" represents Paris only because programmers assigned that meaning. The computer isn't thinking about Paris—it's manipulating voltages that we interpret as Paris-representations. Searle's [Chinese Room](/concepts/symbol-grounding-problem/) makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides only syntax, not the phenomenal character that constitutes genuine semantics.
 
@@ -173,6 +173,7 @@ This provides an empirical signature that distinguishes PIT from purely function
 - [semantic-memory](/concepts/semantic-memory/) — TOT/FOK evidence for meaning's phenomenal character
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI lacks genuine intentionality
 - [qualia](/concepts/qualia/) — Phenomenal properties as the ground of content
+- [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals consciousness's irreducibility
 - [phenomenology](/concepts/phenomenology/) — The tradition that investigates intentional structure
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's methodological alternative and its limitations
 
