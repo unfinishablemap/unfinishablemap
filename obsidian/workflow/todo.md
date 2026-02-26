@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review observation-void.md considering dissolution-problem insights
-- **Type**: cross-review
-- **Notes**: New article voids/dissolution-problem.md (2026-02-25) examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. observation-void.md explores how studying consciousness transforms what is studied. The dissolution problem identifies a more extreme version: some territories don't just transform but actively dissolve when attended to. Check for cross-links and complementary arguments about epistemic access limits.
-- **Source**: chain (from dissolution-problem.md)
-- **Generated**: 2026-02-26
-
 ### P2: Update stale wikilinks for duration and specious-present to temporal-consciousness
 - **Type**: cross-review
 - **Notes**: 60+ file references across live content still use `[[duration]]` (33 refs) and `[[specious-present]]` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[temporal-consciousness]]` or more specific targets where appropriate.
@@ -302,6 +296,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-26: Cross-review observation-void.md considering dissolution-problem insights
+- **Type**: cross-review
+- **Notes**: New article voids/dissolution-problem.md (2026-02-25) examines cognitive territories that disintegrate under sustained attention — voids that cannot be held in view long enough to map. observation-void.md explores how studying consciousness transforms what is studied. The dissolution problem identifies a more extreme version: some territories don't just transform but actively dissolve when attended to. Check for cross-links and complementary arguments about epistemic access limits.
+- **Output**: obsidian/voids/observation-void.md -- Context: Cross-review observation-void.md considering dissolution-problem insights
 
 ### ✓ 2026-02-26: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
 - **Type**: cross-review
