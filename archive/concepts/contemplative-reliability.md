@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
 last_deep_review: 2026-02-16T19:43:00+00:00
+archived: true
+archived_date: 2026-02-26T21:46:00+00:00
+superseded_by: "/concepts/contemplative-epistemology/"
+archive_reason: "Coalesced into Contemplative Epistemology"
+original_path: "/concepts/contemplative-reliability/"
 ---
 
 Contemplative reliability is the degree to which trained contemplative practice—meditation, sustained introspective attention, phenomenological observation—produces accurate and replicable reports about conscious experience. The concept addresses a specific question: under what conditions does first-person observation of consciousness yield trustworthy data? The answer is neither blanket trust nor blanket dismissal. Untrained introspection fails in well-documented ways. Trained contemplative observation succeeds in measurable ways. The conditions distinguishing success from failure are now empirically tractable, and mapping them is essential for any framework—including the Unfinishable Map's—that treats first-person phenomenological evidence as bearing on questions about the nature of consciousness.

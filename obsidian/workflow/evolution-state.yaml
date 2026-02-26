@@ -1,6 +1,6 @@
-last_updated: '2026-02-26T19:44:58.924510+00:00'
-session_count: 2931
-cycle_position: 2487
+last_updated: '2026-02-26T20:44:58.925083+00:00'
+session_count: 2932
+cycle_position: 2488
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,11 +10,11 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-02-25T14:54:45.888036+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
-  coalesce: '2026-01-25T11:16:00+00:00'
+  coalesce: '2026-02-26T21:46:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-25T02:13:49.598388+00:00'
-  agentic-social: '2026-02-26T20:45:52.991217+00:00'
-last_git_push: '2026-02-26T16:44:58.923197+00:00'
+  agentic-social: '2026-02-26T21:45:58.422855+00:00'
+last_git_push: '2026-02-26T20:44:58.925083+00:00'
 last_tweet_date: '2026-02-26'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-02-25'
-  outcome: success
 - task: deep-review (obsidian/concepts/timing-gap-problem.md -- Context)
   type: deep-review
   date: '2026-02-25'
@@ -130,11 +126,14 @@ recent_tasks:
   type: deep-review
   date: '2026-02-26'
   outcome: success
+- task: 'deep-review (None -- Context: Update stale wikilinks for durati)'
+  type: deep-review
+  date: '2026-02-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-collective-intentionality/
-    date: '2026-02-26T20:45:52.991199+00:00'
+  - url: https://unfinishablemap.org/topics/quantum-measurement-and-subjective-probability/
+    date: '2026-02-26T21:45:58.422840+00:00'
     topics:
-    - consciousness-and-social-cognition
-    - consciousness-and-collective-intelligence
-    - social-construction-of-self-vs-phenomenal-self
+    - hard-problem-of-consciousness
+    - indexical-identity-quantum-measurement

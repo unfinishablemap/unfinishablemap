@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-26 21:46 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/contemplative-epistemology]], [[concepts/contemplative-reliability]]
+- **Target**: [[concepts/contemplative-epistemology]]
+- **Archived**: [[archive/concepts/contemplative-epistemology]], [[archive/concepts/contemplative-reliability]]
+- **References updated**: 2 files (bergson-and-duration, epistemology-of-phenomenal-reports)
+- **Net reduction**: concepts/ 197 → 196 (cap: 200)
+
 ## 2026-02-26 20:46 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/higher-order-theories]]
