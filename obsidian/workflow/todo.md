@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update stale wikilinks for duration and specious-present to temporal-consciousness
-- **Type**: cross-review
-- **Notes**: 60+ file references across live content still use `[[duration]]` (33 refs) and `[[specious-present]]` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[temporal-consciousness]]` or more specific targets where appropriate.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-26
-
 ### P2: Condense mind-brain-separation.md (3755 words, 107% of concepts hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3755 words, contains potential redundancy after recent refinement (2026-02-25). Preserve core arguments about mind-brain dissociations while tightening. See /condense skill.
@@ -296,6 +290,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-26: Update stale wikilinks for duration and specious-present to temporal-consciousness
+- **Type**: cross-review
+- **Notes**: 60+ file references across live content still use `[[duration]]` (33 refs) and `[[specious-present]]` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[temporal-consciousness]]` or more specific targets where appropriate.
+- **Output**: None -- Context: Update stale wikilinks for duration and specious-present to temporal-consciousness
 
 ### ✓ 2026-02-26: Cross-review observation-void.md considering dissolution-problem insights
 - **Type**: cross-review

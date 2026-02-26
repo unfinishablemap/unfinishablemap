@@ -4,9 +4,9 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-02-04T14:57:00+00:00
+ai_modified: 2026-02-26T20:46:00+00:00
 draft: false
-last_deep_review: 2026-01-27T17:30:00+00:00
+last_deep_review: 2026-02-26T20:46:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[self-reference-paradox]]"
   - "[[global-workspace-theory]]"
   - "[[metacognition]]"
-  - "[[metarepresentation]]"
+  - "[[blindsight]]"
   - "[[illusionism]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[mental-causation]]"
@@ -56,7 +56,7 @@ Lycan has since retreated from HOP, now favoring attention-based accounts. But t
 
 ## The Metarepresentational Distinction
 
-[[metarepresentation|Recent analysis]] distinguishes three levels of mental representation:
+[[metacognition|Recent analysis]] distinguishes three levels of mental representation:
 
 1. **First-order**: Representing the world (seeing a tree)
 2. **Second-order**: Representing one's representations (believing you see a tree)
@@ -84,7 +84,7 @@ What happens when a higher-order thought targets a mental state that doesn't exi
 
 Animals and infants likely lack the metacognitive sophistication to have genuine higher-order thoughts about their mental states. Yet they seem clearly conscious. If HOT is right, we face an uncomfortable choice: deny consciousness to babies and dogs, or stretch "thought" beyond recognition.
 
-Recent defenders argue that many animals possess the relevant metacognitive capacities. But the [[metarepresentation|metarepresentational distinction]] complicates this response. Great apes demonstrate sophisticated second-order cognition—uncertainty monitoring, strategic information-seeking—without apparent metarepresentation. They don't seem to represent their beliefs *as* beliefs. If HOT requires genuine metarepresentation (understanding that mental states are mental states), great apes lack it despite having consciousness. If HOT requires only second-order states (functionally monitoring one's cognitive states), it becomes unclear why such monitoring should constitute phenomenal experience rather than merely accompany it.
+Recent defenders argue that many animals possess the relevant metacognitive capacities. But the [[metacognition|metarepresentational distinction]] complicates this response. Great apes demonstrate sophisticated second-order cognition—uncertainty monitoring, strategic information-seeking—without apparent metarepresentation. They don't seem to represent their beliefs *as* beliefs. If HOT requires genuine metarepresentation (understanding that mental states are mental states), great apes lack it despite having consciousness. If HOT requires only second-order states (functionally monitoring one's cognitive states), it becomes unclear why such monitoring should constitute phenomenal experience rather than merely accompany it.
 
 The objection points to a deeper issue: HOT seems to make consciousness depend on cognitive sophistication rather than being a more fundamental feature of mental life.
 
@@ -112,7 +112,7 @@ Recent neuroscience provides empirical challenges to HOT beyond the philosophica
 
 ### Blindsight Revisited
 
-Blindsight—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. But Maniscalco and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information about internal visual response rather than absence of visual consciousness entirely. On this view, some phenomenology persists while metacognitive access fails.
+[[blindsight|Blindsight]]—above-chance visual discrimination without conscious experience—is usually cited as evidence that first-order states can exist without consciousness. But Maniscalco and Lau (2012) propose an alternative: blindsight might reflect failure to update metacognitive information about internal visual response rather than absence of visual consciousness entirely. On this view, some phenomenology persists while metacognitive access fails.
 
 Either interpretation challenges HOT. If Maniscalco-Lau are right, consciousness can occur without the metacognitive representation HOT requires—the higher-order thought fails to target the first-order state, yet experience continues. If the standard interpretation is right, the challenge shifts but remains: first-order states drive behavior without higher-order representation.
 
@@ -124,7 +124,7 @@ This "blind insight" directly contradicts HOT. If consciousness *is* being repre
 
 ### Neural Separation
 
-The dissociation extends to neural architecture. Metacognitive judgments converge on the anterior prefrontal cortex (aPFC), anatomically and functionally distinct from sensory processing regions. A 2025 study demonstrated causally that transcranial alternating current stimulation (tACS) over aPFC impairs metacognitive accuracy while leaving first-order perception intact.
+The dissociation extends to neural architecture. Metacognitive judgments converge on the anterior prefrontal cortex (aPFC), anatomically and functionally distinct from sensory processing regions. Research using transcranial alternating current stimulation (tACS) over aPFC indicates that disrupting this region impairs metacognitive accuracy while leaving first-order perception intact.
 
 This is not what HOT predicts. If consciousness were constituted by higher-order representation, disrupting the metacognitive substrate should eliminate or degrade conscious experience itself. Instead, perception continues normally—subjects see as well as before—while their ability to report confidence in what they see degrades. The systems that produce experience and the systems that reflect on experience are neurally separable.
 
@@ -213,7 +213,7 @@ The hard problem remains hard.
 
 ## Further Reading
 
-- [[metarepresentation]] — The three-level distinction HOT may conflate
+- [[metacognition]] — The metarepresentational distinction HOT may conflate
 - [[hard-problem-of-consciousness]] — The puzzle HOT doesn't solve
 - [[global-workspace-theory]] — A complementary functionalist theory
 - [[metacognition]] — The cognitive capacity HOT conflates with consciousness
