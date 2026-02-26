@@ -4,7 +4,7 @@ description: "Graziano's theory explains reports about consciousness but not con
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-04T09:43:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,6 @@ topics:
 concepts:
   - "[[attention-schema-theory]]"
   - "[[illusionism]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[introspection]]"
   - "[[qualia]]"

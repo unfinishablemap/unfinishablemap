@@ -4,14 +4,13 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-25T12:26:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-25T12:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
 concepts:
-  - "[[voluntary-attention]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[retrocausality]]"
   - "[[interactionist-dualism]]"
@@ -155,7 +154,7 @@ Research reveals that willed action engages distinct neural mechanisms from auto
 | **Instructed** | External cues | Following directions |
 | **Willed** | Internal decision | Effortful, self-directed |
 
-Willed attention shows frontal theta oscillations and bidirectional frontoparietal coherence—signatures absent in merely instructed behaviour. The phenomenological asymmetry (effortful vs effortless) corresponds to different neural circuits. This supports agent causation: the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. See [[voluntary-attention]] for detailed analysis.
+Willed attention shows frontal theta oscillations and bidirectional frontoparietal coherence—signatures absent in merely instructed behaviour. The phenomenological asymmetry (effortful vs effortless) corresponds to different neural circuits. This supports agent causation: the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. See [[attention-as-interface|voluntary attention]] for detailed analysis.
 
 ## Motor Selection
 
@@ -229,7 +228,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[counterfactual-reasoning]] — The consciousness-dependent capacity to imagine and evaluate alternatives
 - [[counterfactual-void]] — The architectural limits of modal cognition and what they reveal about free will's scope
 - [[libet-experiments]] — Detailed analysis including retrocausal resolution
-- [[voluntary-attention]] — Paradigm case of consciousness selecting neural patterns
+- [[attention-as-interface|voluntary attention]] — Paradigm case of consciousness selecting neural patterns
 - [[motor-selection]] — Second selection domain with parallel neural signatures
 - [[motor-control-quantum-zeno]] — How the quantum Zeno framework applies to motor control, with converging neuroscience evidence
 - [[retrocausality]] — How backward causation resolves the timing problem

@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-02-25T20:25:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[topics/quantum-neural-timing-constraints]]"
   - "[[measurement-problem]]"
   - "[[bidirectional-interaction]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[illusionism]]"
   - "[[mysterianism]]"
   - "[[spontaneous-collapse-theories]]"
@@ -266,7 +266,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for attention
 - [[decoherence]] — The decoherence challenge in detail
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
-- [[voluntary-attention]] — The 300ms window for conscious attention deployment
+- [[attention-as-interface|voluntary attention]] — The 300ms window for conscious attention deployment
 - [[bidirectional-interaction]] — The causal efficacy of consciousness
 - [[spontaneous-collapse-theories]] — GRW, CSL, and objective collapse
 - [[topics/quantum-binding-and-phenomenal-unity]] — Quantum entanglement and the binding problem

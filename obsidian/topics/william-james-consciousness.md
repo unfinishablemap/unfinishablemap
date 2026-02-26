@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-03T19:33:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,6 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[introspection]]"
   - "[[attention-as-interface]]"
-  - "[[voluntary-attention]]"
   - "[[mental-effort]]"
   - "[[interactionist-dualism]]"
   - "[[pragmatism]]"
@@ -73,7 +72,7 @@ The fringe explains how understanding works temporally. When you hear a sentence
 
 ## Attention and the Will
 
-James devoted substantial [[attention]] to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [[stapp-quantum-mind|Henry Stapp's quantum Zeno approach]].
+James devoted substantial [[attention-as-interface|attention]] to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [[stapp-quantum-mind|Henry Stapp's quantum Zeno approach]].
 
 ### Attention as Selection
 
@@ -183,7 +182,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [[introspection]] — Limits James identified, confirmed by contemporary research
 - [[attention-as-interface]] — Attention as the mechanism of mind-matter interaction
 - [[stapp-quantum-mind]] — Contemporary quantum approach to James's attention theory
-- [[voluntary-attention]] — The phenomenology of effortful attention
+- [[attention-as-interface|voluntary attention]] — The phenomenology of effortful attention
 - [[process-philosophy]] — Whitehead's development of Jamesian themes
 - [[epistemic-advantages-of-dualism]] — Why maintaining dualism as live option is epistemically responsible
 - [[tenets]] — The Map's foundational commitments

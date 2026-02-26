@@ -4,7 +4,7 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-03T02:43:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-01-27T20:54:30+00:00
 draft: false
 topics:
@@ -17,7 +17,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[motor-selection]]"
   - "[[agent-causation]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[luck-objection]]"
   - "[[decoherence]]"
   - "[[illusionism]]"
@@ -195,7 +195,7 @@ The Map's position is that current evidence supports selection over randomness, 
 
 - [[topics/free-will]] — The broader philosophical context
 - [[motor-selection]] — Extending the selection framework from attention to motor control
-- [[voluntary-attention]] — The willed/instructed distinction and stochastic pre-state challenge
+- [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and stochastic pre-state challenge
 - [[luck-objection]] — Why indeterminism doesn't reduce selection to randomness
 - [[retrocausality]] — How backward causation resolves the timing problem
 - [[presentiment-and-retrocausality]] — Why physics-based retrocausality differs from contested presentiment claims

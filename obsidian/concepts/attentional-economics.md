@@ -4,14 +4,13 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-02-25T22:12:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[attention-as-interface]]"
-  - "[[voluntary-attention]]"
   - "[[mental-effort]]"
   - "[[agent-causation]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
@@ -206,7 +205,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 ## Further Reading
 
 - [[attention-as-interface]] — Why attention serves as consciousness's interface with matter
-- [[voluntary-attention]] — The neural signatures of willed versus automatic attention
+- [[attention-as-interface|voluntary attention]] — The neural signatures of willed versus automatic attention
 - [[mental-effort]] — The phenomenology of attentional work
 - [[meditation-and-consciousness-modes]] — How contemplative practice trains attentional capacities
 - [[concepts/consciousness-selecting-neural-patterns]] — The mechanism by which attention shapes neural outcomes

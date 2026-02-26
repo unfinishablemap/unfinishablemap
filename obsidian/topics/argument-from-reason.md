@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-03T12:10:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 last_deep_review: 2026-02-02T17:57:00+00:00
 topics:
@@ -18,7 +18,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[mysterianism]]"
   - "[[stapp-quantum-mind]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[self-stultification]]"
   - "[[reasons-responsiveness]]"
 related_articles:
@@ -90,7 +90,7 @@ Consider: I could survive by fleeing predators because I truly believe "that's a
 
 Plantinga concludes that the combination of naturalism and evolution gives us no reason to trust our cognitive faculties. If our faculties are products of blind selection for adaptive behavior, their reliability at producing *true* beliefs (especially about abstract matters like philosophy) is dubious. This provides a defeater for all beliefs produced by those faculties—including naturalism itself.
 
-The Map's framework addresses this challenge: if consciousness involves selection guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot. The [[stapp-quantum-mind|quantum Zeno mechanism]] offers one candidate for how this might work—[[voluntary-attention|attention]] selects among neural states in ways sensitive to normative constraints—though the argument from reason stands independently of any particular mechanism.
+The Map's framework addresses this challenge: if consciousness involves selection guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot. The [[stapp-quantum-mind|quantum Zeno mechanism]] offers one candidate for how this might work—[[attention-as-interface|attention]] selects among neural states in ways sensitive to normative constraints—though the argument from reason stands independently of any particular mechanism.
 
 ## Anscombe's Critique: Causes and Reasons Are Compatible
 
@@ -124,7 +124,7 @@ The argument from reason provides decisive support for three of the Map's five t
 
 **[[tenets#occams-limits|Occam's Razor Has Limits]]**: Physicalism appears simpler—one ontological category instead of two. But this apparent simplicity is self-stultifying. A metaphysics that cannot account for rational justification cannot be *rationally accepted*. The simplicity is illusory when it eliminates the conditions for rational belief. This exemplifies how Occam's Razor misleads when knowledge is incomplete: the "simpler" theory undermines the very reasoning that might justify it.
 
-The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it complements the Map's framework by establishing that consciousness must have causal efficacy—which the [[stapp-quantum-mind|quantum interface]] explains *how* that efficacy operates without violating conservation laws. The [[voluntary-attention|attention mechanism]] provides the phenomenological correlate: what we experience as intellectual effort—focusing on an argument, tracing implications, evaluating evidence—may be the felt character of consciousness selecting among neural states in ways responsive to normative constraints.
+The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it complements the Map's framework by establishing that consciousness must have causal efficacy—which the [[stapp-quantum-mind|quantum interface]] explains *how* that efficacy operates without violating conservation laws. The [[attention-as-interface|attention mechanism]] provides the phenomenological correlate: what we experience as intellectual effort—focusing on an argument, tracing implications, evaluating evidence—may be the felt character of consciousness selecting among neural states in ways responsive to normative constraints.
 
 ## Objections and Responses
 
@@ -152,7 +152,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [[topics/free-will]] - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [[interactionist-dualism]] - The Map's framework for mind-body causation
 - [[stapp-quantum-mind]] - A candidate mechanism for consciousness influencing neural states
-- [[voluntary-attention]] - The phenomenology of intellectual effort and its role in reasoning
+- [[attention-as-interface|voluntary attention]] - The phenomenology of intellectual effort and its role in reasoning
 - [[mysterianism]] - Whether the mechanism of normative awareness may exceed our comprehension
 - [[objectivity-and-consciousness]] - Nagel's analysis of how subjectivity enables objectivity
 - [[introspection]] - The reliability of self-knowledge and its connection to self-stultification

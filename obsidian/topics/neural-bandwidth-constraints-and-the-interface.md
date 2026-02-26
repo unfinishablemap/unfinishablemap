@@ -4,7 +4,7 @@ description: "Conscious processing operates at ~10 bits/second while the brain h
 created: 2026-02-09
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-25T22:12:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,6 @@ concepts:
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[working-memory]]"
   - "[[mental-effort]]"
-  - "[[voluntary-attention]]"
   - "[[motor-selection]]"
   - "[[baseline-cognition]]"
   - "[[interactionist-dualism]]"
@@ -98,7 +97,7 @@ This matches the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interacti
 
 At ~10 bits per second, with each selection choosing among a small set of alternatives, consciousness makes on the order of 3-4 selections per second. This matches the phenomenology of deliberate decision-making. In rapid tasks, we experience choosing at about this rate; faster performance becomes automatic and drops out of conscious control.
 
-The ~280-300ms timing window for [[motor-selection|motor commitment]] and [[voluntary-attention|willed attention deployment]] aligns. If conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
+The ~280-300ms timing window for [[motor-selection|motor commitment]] and [[attention-as-interface|willed attention deployment]] aligns. If conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
 
 ### Cumulative Over Time
 

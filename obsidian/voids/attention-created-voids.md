@@ -4,13 +4,13 @@ description: "How the act of attending generates unattendable territory—figure
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-01-29T14:09:12+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-01-29T14:09:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[phenomenology]]"
   - "[[mysterianism]]"
   - "[[introspection]]"

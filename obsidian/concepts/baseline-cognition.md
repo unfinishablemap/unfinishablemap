@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-06T18:54:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-02T06:17:00+00:00
 draft: false
 topics:
@@ -30,7 +30,7 @@ concepts:
   - "[[argument-from-reason]]"
   - "[[mysterianism]]"
   - "[[agent-causation]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[counterfactual-reasoning]]"
 related_articles:
   - "[[tenets]]"

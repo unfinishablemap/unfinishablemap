@@ -4,7 +4,7 @@ description: "Decoherence challenges quantum consciousness theories, but correct
 created: 2026-01-14
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-02-25T20:25:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,6 @@ concepts:
   - "[[measurement-problem]]"
   - "[[quantum-coherence-and-binding-evidence]]"
   - "[[illusionism]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[process-philosophy]]"
   - "[[phenomenal-consciousness]]"

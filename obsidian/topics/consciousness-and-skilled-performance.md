@@ -4,7 +4,7 @@ description: "Skill acquisition, mastery, and restructuring reveal consciousness
 created: 2026-02-02
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,8 +16,6 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[filter-theory]]"
   - "[[brain-interface-boundary]]"
-  - "[[attention]]"
-  - "[[voluntary-attention]]"
   - "[[mental-effort]]"
   - "[[agent-causation]]"
   - "[[mental-causation]]"

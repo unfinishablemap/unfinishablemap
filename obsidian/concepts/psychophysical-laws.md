@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-02-16
 human_modified: null
-ai_modified: 2026-02-22T10:45:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,6 @@ concepts:
   - "[[selection-laws]]"
   - "[[quantum-consciousness]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[concepts/functionalism]]"
   - "[[haecceity]]"

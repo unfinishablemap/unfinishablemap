@@ -4,7 +4,7 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-01-29T00:58:54+00:00
 draft: false
 topics:
@@ -14,7 +14,6 @@ concepts:
   - "[[access-consciousness]]"
   - "[[global-workspace-theory]]"
   - "[[qualia]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[stapp-quantum-mind]]"
   - "[[working-memory]]"
@@ -175,7 +174,7 @@ This connects to [[pre-conceptual-knowing]]—the void of experience that exceed
 - [[phenomenal-consciousness]]—the "what it's like" that may overflow
 - [[global-workspace-theory]]—theory of access that may not capture full phenomenology
 - [[introspection]]—the method by which we access (and possibly miss) experience
-- [[attention]]—the selective mechanism between phenomenal field and access
+- [[attention-as-interface|attention]]—the selective mechanism between phenomenal field and access
 - [[attention-as-interface]]—how attention might mediate conscious selection
 - [[stapp-quantum-mind]]—a proposed mechanism for conscious selection from phenomenal overflow
 - [[pre-conceptual-knowing]]—the broader void of experience beyond concepts

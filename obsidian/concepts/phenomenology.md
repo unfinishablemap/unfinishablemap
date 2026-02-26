@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-22T00:57:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[existentialism]]"
   - "[[specious-present]]"
   - "[[pre-conceptual-knowing]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[intuitive-dualism]]"
   - "[[decoherence]]"
 related_articles:
@@ -164,7 +164,7 @@ Phenomenology supports all five of the Map's foundational commitments:
 
 **[[tenets#^occam|Occam's Razor Has Limits]]**: Phenomenology demonstrates that simplicity arguments against dualism may reflect ignorance. Materialist accounts achieve "simplicity" by bracketing the very data—first-person experience—that need explaining. Husserl's rigorous method reveals consciousness's complexity invisible to third-person science. The apparent parsimony of physicalism comes at the cost of ignoring the most fundamental evidence.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Phenomenology reveals consciousness as active, not passive. Husserl's analyses show how consciousness constitutes meaningful objects through synthetic activity. Merleau-Ponty's motor intentionality shows consciousness shaping action. The phenomenology of [[voluntary-attention|voluntary attention]]—the felt experience of directing awareness—provides first-person evidence for the causal efficacy of mind. If consciousness merely accompanied physical processes without influencing them, these constitutive and directive features would be inexplicable.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Phenomenology reveals consciousness as active, not passive. Husserl's analyses show how consciousness constitutes meaningful objects through synthetic activity. Merleau-Ponty's motor intentionality shows consciousness shaping action. The phenomenology of [[attention-as-interface|voluntary attention]]—the felt experience of directing awareness—provides first-person evidence for the causal efficacy of mind. If consciousness merely accompanied physical processes without influencing them, these constitutive and directive features would be inexplicable.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Phenomenology's disclosure of temporal microstructure connects to the Map's quantum framework. Husserl's analysis of the specious present—the extended "now" with retention and protention—addresses the same timescale at which consciousness interfaces with neural decision processes. Research on [[quantum-neural-timing-constraints|quantum neural timing]] shows that motor commitment (~280ms) and willed attention deployment (~300ms) operate within the phenomenologically disclosed specious present window. The [[specious-present|specious present]] debate between extensionalism and retentionalism concerns whether experience is genuinely temporally extended; the Quantum Zeno mechanism operates through repeated observations at precisely these neural timescales, suggesting that the experienced temporal thickness of the present may reflect the interval over which consciousness exercises its selection function.
 

@@ -4,13 +4,13 @@ description: "How consciousness attends to what isn't there—the distinctive ph
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-22T00:36:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-22T00:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[phenomenology]]"
   - "[[introspection]]"
   - "[[intentionality]]"

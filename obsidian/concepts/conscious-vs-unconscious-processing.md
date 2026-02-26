@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[access-consciousness]]"
   - "[[phenomenal-consciousness]]"
   - "[[working-memory]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[global-workspace-theory]]"
   - "[[integrated-information-theory]]"
   - "[[mysterianism]]"
@@ -180,7 +180,7 @@ This functionality gap supports [[tenets#^bidirectional-interaction|Bidirectiona
 
 [[Attention]] gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
 
-Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [[voluntary-attention]]: voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [[stapp-quantum-mind|quantum Zeno hypothesis]] locates this control at the quantum level.
+Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [[attention-as-interface|voluntary attention]]: voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [[stapp-quantum-mind|quantum Zeno hypothesis]] locates this control at the quantum level.
 
 ## Connection to Baseline Cognition
 
@@ -286,7 +286,7 @@ The specific functions—working memory maintenance, novel combinations, spontan
 
 ### Minimal Quantum Interaction
 
-If consciousness interfaces with cognition through attention (as GNWT suggests), the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet locates this interface at quantum indeterminacies in attention-related neural systems. [[voluntary-attention|Voluntary attention]] gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
+If consciousness interfaces with cognition through attention (as GNWT suggests), the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet locates this interface at quantum indeterminacies in attention-related neural systems. [[attention-as-interface|Voluntary attention]] gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
 
 The timing works: [[quantum-neural-timing-constraints]] documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [[stapp-quantum-mind|quantum Zeno mechanism]] doesn't require sustained coherence but operates through discrete observation events (~1000 per 300ms window), making the mechanism compatible with established neural timing.
 
@@ -312,8 +312,8 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [[phenomenal-consciousness]] — Consciousness as subjective experience
 - [[phenomenal-overflow]] — The contested hypothesis that phenomenology exceeds access
 - [[working-memory]] — The maintenance function requiring consciousness
-- [[attention]] — The gatekeeper for conscious access
-- [[voluntary-attention]] — How consciousness directs attention
+- [[attention-as-interface|attention]] — The gatekeeper for conscious access
+- [[attention-as-interface|voluntary attention]] — How consciousness directs attention
 - [[global-workspace-theory]] — The theoretical framework for consciousness as broadcast
 - [[stapp-quantum-mind]] — Quantum mechanism for consciousness-attention interface
 - [[concepts/epiphenomenalism]] — The view that consciousness is causally inert and why it fails

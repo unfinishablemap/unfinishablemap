@@ -4,7 +4,7 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-01T15:33:00+00:00
 draft: false
 topics:
@@ -17,7 +17,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[inverted-qualia]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[global-workspace-theory]]"
   - "[[explanatory-gap]]"
 related_articles:
@@ -55,7 +55,7 @@ The [[inverted-qualia|inverted spectrum]] thought experiment targets visual cons
 
 Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. The [[specious-present]]—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
 
-Change blindness reveals how attention shapes visual consciousness. Massive visual changes go unnoticed when they coincide with saccades or scene disruptions. Visual consciousness does not passively register visual information—[[attention]] selects what enters awareness.
+Change blindness reveals how attention shapes visual consciousness. Massive visual changes go unnoticed when they coincide with saccades or scene disruptions. Visual consciousness does not passively register visual information—[[attention-as-interface|attention]] selects what enters awareness.
 
 ## The Binding Problem in Vision
 
@@ -108,7 +108,7 @@ The existence of visual qualia—the felt quality of seeing colour, shape, motio
 
 ### Bidirectional Interaction
 
-[[voluntary-attention|Voluntary attention]] shapes what enters visual consciousness. You can attend to the left or right of your visual field, foreground or background, colour or motion. This top-down influence suggests consciousness acts on visual processing, not merely receives its outputs. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world—attention's modulation of visual processing may be one site of such influence.
+[[attention-as-interface|Voluntary attention]] shapes what enters visual consciousness. You can attend to the left or right of your visual field, foreground or background, colour or motion. This top-down influence suggests consciousness acts on visual processing, not merely receives its outputs. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world—attention's modulation of visual processing may be one site of such influence.
 
 ### Minimal Quantum Interaction
 
@@ -125,7 +125,7 @@ Visual consciousness presents a determinate world—*this* scene, from *this* pe
 - [[binding-problem]] — How distributed features become unified visual objects
 - [[neural-correlates-of-consciousness]] — Brain activity correlating with visual experience
 - [[inverted-qualia]] — The possibility of systematically different colour experiences
-- [[attention]] — How selection shapes visual awareness
+- [[attention-as-interface|attention]] — How selection shapes visual awareness
 - [[phenomenal-overflow]] — Whether visual phenomenology exceeds visual access
 - [[knowledge-argument]] — Why physical facts don't capture what seeing is like
 

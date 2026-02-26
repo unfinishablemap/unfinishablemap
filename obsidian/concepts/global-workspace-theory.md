@@ -4,16 +4,14 @@ description: "Consciousness as global information broadcast. GWT explains when s
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-02-04T10:35:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 last_deep_review: 2026-01-29T16:45:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[attention]]"
   - "[[attention-as-interface]]"
-  - "[[voluntary-attention]]"
   - "[[concepts/functionalism]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[integrated-information-theory]]"
@@ -261,8 +259,8 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[integrated-information-theory]] — A rival theory tested alongside GNW
 - [[integrated-information-theory-critique]] — The Map's critique of IIT, sharing some concerns about passive consciousness
 - [[neural-correlates-of-consciousness]] — The broader research program GWT contributes to
-- [[attention]] — The gateway to the workspace
-- [[voluntary-attention]] — Endogenous attention control and workspace access
+- [[attention-as-interface|attention]] — The gateway to the workspace
+- [[attention-as-interface|voluntary attention]] — Endogenous attention control and workspace access
 - [[concepts/functionalism]] — The philosophical framework underlying GWT
 - [[phenomenal-concepts-strategy]] — Explaining away phenomenal intuitions
 - [[dreams-and-consciousness]] — Dreaming without full workspace engagement

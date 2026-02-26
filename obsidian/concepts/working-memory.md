@@ -4,14 +4,13 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-04T21:27:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-intelligence]]"
 concepts:
   - "[[language-recursion-and-consciousness]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[mental-imagery]]"

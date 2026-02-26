@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-07T11:51:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-07T11:51:00+00:00
 draft: false
 topics:
@@ -14,7 +14,7 @@ concepts:
   - "[[psychophysical-coupling]]"
   - "[[selection-laws]]"
   - "[[quantum-neural-timing-constraints]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[argument-from-reason]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
@@ -79,7 +79,7 @@ Two concrete mechanisms have been proposed:
 
 All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. The specific [[coupling-modes|coupling mode]]—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
-For detailed specification of how phenomenal properties map to physical parameters, see [[psychophysical-coupling]]. The attention mechanism is currently the most developed, with [[voluntary-attention]] documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
+For detailed specification of how phenomenal properties map to physical parameters, see [[psychophysical-coupling]]. The attention mechanism is currently the most developed, with [[attention-as-interface|voluntary attention]] documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 
 ### The Timing Challenge
 
@@ -143,7 +143,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[selection-laws]] — The downward direction of psychophysical laws
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
 - [[argument-from-reason]] — Complementary self-defeat argument targeting physicalism
-- [[voluntary-attention]] — The attention interface with neural evidence
+- [[attention-as-interface|voluntary attention]] — The attention interface with neural evidence
 - [[interactionist-dualism]] — Comprehensive treatment of the philosophical framework
 - [[concepts/epiphenomenalism]] — The view this tenet rejects
 - [[mental-causation]] — The broader problem of how mind causes anything

@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-02-05T03:24:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[attention-motor-quantum-interface]]"
   - "[[dopamine-selection-interface]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
@@ -207,7 +207,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [[attention-motor-quantum-interface]] — The broader framework for the unified interface
 - [[dopamine-selection-interface]] — Technical details on dopamine's role in selection
 - [[motor-selection]] — Motor selection mechanisms
-- [[voluntary-attention]] — The neural basis of willed attention
+- [[attention-as-interface|voluntary attention]] — The neural basis of willed attention
 - [[topics/free-will]] — The broader philosophical question
 - [[mental-effort]] — Why selection feels effortful
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction

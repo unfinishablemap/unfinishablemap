@@ -4,14 +4,14 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-03T12:10:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[agent-causation]]"
   - "[[mental-effort]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[duration]]"
   - "[[introspection]]"
@@ -91,7 +91,7 @@ The phenomenology of choice differs fundamentally from observation. When observi
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This maps onto the neural distinction between willed and automatic processing. [[voluntary-attention|Willed attention]] shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The [[attentional-economics]] framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
+This maps onto the neural distinction between willed and automatic processing. [[attention-as-interface|Willed attention]] shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The [[attentional-economics]] framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
 
 The contrast is vivid in attention: being *pulled* by a loud noise versus *directing* focus on difficult text. The [[illusionism|illusionist]] holds this phenomenology is representational—the brain generates agency-sense without consciousness contributing. But why would accurate phenomenology of effort correlate with task difficulty if phenomenology has no functional role? Hard tasks feel hard; easy tasks feel easy. This correlation suggests phenomenology tracks real cognitive engagement.
 
@@ -198,7 +198,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [[topics/free-will]] — The broader debate and the Map's position
 - [[agent-causation]] — Why choice requires agents, not just events
 - [[mental-effort]] — The quantum Zeno mechanism and why effort should feel like work
-- [[voluntary-attention]] — Neural signatures of genuine choosing
+- [[attention-as-interface|voluntary attention]] — Neural signatures of genuine choosing
 - [[motor-selection]] — Motor choice as parallel to attentional choice
 - [[causal-interface]] — Why the mechanism connecting intention to action is invisible
 - [[duration]] — Bergson's lived time and creative becoming

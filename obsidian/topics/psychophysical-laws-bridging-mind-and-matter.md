@@ -4,7 +4,7 @@ description: "If consciousness is distinct from physics, fundamental laws must c
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-02-07T07:14:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[haecceity]]"
   - "[[integrated-information-theory]]"
   - "[[stapp-quantum-mind]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[mysterianism]]"
 related_articles:

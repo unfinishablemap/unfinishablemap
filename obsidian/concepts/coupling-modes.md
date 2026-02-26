@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-02-03T08:56:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[mental-causation]]"
@@ -15,10 +15,8 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[measurement-problem]]"
   - "[[decoherence]]"
-  - "[[attention]]"
   - "[[mental-effort]]"
   - "[[attention-as-interface]]"
-  - "[[voluntary-attention]]"
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
@@ -164,10 +162,10 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [[measurement-problem]] — Why outcomes need explanation
 - [[concepts/consciousness-selecting-neural-patterns]] — What selection actually selects
 - [[quantum-probability-consciousness]] — How Born probabilities relate to consciousness
-- [[attention]] — The phenomenal variable most tied to coupling
+- [[attention-as-interface|attention]] — The phenomenal variable most tied to coupling
 - [[mental-effort]] — Effort as timing/observation rate control
 - [[attention-as-interface]] — How attention functions as the mind-matter interface
-- [[voluntary-attention]] — Neural signatures distinguishing willed from instructed attention
+- [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from instructed attention
 - [[agent-causation]] — The free will implications of conscious selection
 
 ## References

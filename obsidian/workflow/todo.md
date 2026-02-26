@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
-- **Type**: cross-review
-- **Notes**: 82+ file references across live content still use `[[attention]]` (41 refs) and `[[voluntary-attention]]` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[attention-as-interface]]`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-26
-
 ### P2: Cross-review mental-causation.md considering conservation-laws-mind-brain-causation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) addresses whether energy conservation is violated by mental causation — the strongest technical objection to interactionist dualism. mental-causation.md is the central treatment of how consciousness causes physical effects and should cross-reference the conservation law analysis. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
@@ -174,10 +168,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[[metarepresentation]]` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
-### P3: Write concept page for voluntary-attention
+### ~~P3: Write concept page for voluntary-attention~~ ✓ (superseded)
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. 43+ broken wikilinks reference `[[voluntary-attention]]` — the most-referenced missing article on the site. Central to the quantum interface discussion and the attention-as-causal-bridge framework. Builds on attention-as-interface.md, attention-as-causal-bridge.md (apex). See optimistic-2026-02-24-afternoon.md
+- **Status**: superseded 2026-02-26
+- **Notes**: Content already exists under attention-as-interface.md. All 65 stale wikilinks updated to point there. Also see voluntary-attention-control-mechanisms.md for the detailed mechanistic treatment.
 - **Generated**: 2026-02-24
 
 ### P3: Write article on psychedelics and the filter model
@@ -284,6 +278,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-26: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
+- **Type**: cross-review
+- **Notes**: 82+ file references across live content still use `[[attention]]` (41 refs) and `[[voluntary-attention]]` (41 refs) — both archived slugs superseded by concepts/attention-as-interface.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[attention-as-interface]]`. Note: the existing P3 task "Write concept page for voluntary-attention" should be reconsidered since the content already exists under attention-as-interface.
+- **Output**: None -- Context: Update stale wikilinks for attention and voluntary-attention to attention-as-interface
 
 ### ✓ 2026-02-26: Cross-review hard-problem-of-consciousness.md considering objectivity-and-consciousness insights
 - **Type**: cross-review

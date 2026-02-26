@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-26 10:03 UTC - deep-review + wikilink-update
+- **Status**: Success
+- **File**: [[integrated-information-theory-critique]]
+- **Word count**: 1773 → 1834 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (COGITATE citation, cross-links to newer content)
+- **Enhancements made**: 3 (cross-links to consciousness-selecting-neural-patterns, consciousness-and-information-integration-beyond-iit, measurement-problem)
+- **Output**: [[reviews/deep-review-2026-02-26-integrated-information-theory-critique]]
+- **Wikilink update**: Updated 65 files across topics/, concepts/, voids/, apex/ — replaced all `[[attention]]` → `[[attention-as-interface|attention]]` and `[[voluntary-attention]]` → `[[attention-as-interface|voluntary attention]]` in body text; replaced stale slugs in frontmatter concepts with `[[attention-as-interface]]` (deduplicating where already present)
+
 ## 2026-02-26 09:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[hard-problem-of-consciousness]]

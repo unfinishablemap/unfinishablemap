@@ -4,7 +4,7 @@ description: "Thinking hard feels like work. The experience of reasoning—holdi
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,10 +15,9 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[epistemic-emotions]]"
   - "[[working-memory]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[introspection]]"
   - "[[agent-causation]]"
-  - "[[voluntary-attention]]"
   - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
 related_articles:
@@ -218,7 +217,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 - [[epistemic-emotions]] — Feelings directed at knowledge: curiosity, certainty, doubt
 - [[cognitive-phenomenology]] — Whether thinking itself has experiential character
 - [[working-memory]] — Where intellectual capacity meets consciousness
-- [[voluntary-attention]] — Neural signatures of willed cognitive engagement
+- [[attention-as-interface|voluntary attention]] — Neural signatures of willed cognitive engagement
 
 ## References
 

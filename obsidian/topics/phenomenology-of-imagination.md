@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-24T15:57:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[counterfactual-reasoning]]"
   - "[[bidirectional-interaction]]"
   - "[[introspection]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[explanatory-gap]]"
   - "[[agent-causation]]"
   - "[[mysterianism]]"

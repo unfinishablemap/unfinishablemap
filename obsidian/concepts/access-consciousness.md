@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 last_deep_review: 2026-01-29T14:30:00+00:00
 topics:
@@ -16,7 +16,7 @@ concepts:
   - "[[concepts/functionalism]]"
   - "[[qualia]]"
   - "[[philosophical-zombies]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[working-memory]]"
   - "[[metacognition]]"
   - "[[binding-problem]]"

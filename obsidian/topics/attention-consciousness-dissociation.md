@@ -4,13 +4,12 @@ description: "Attention and consciousness can come apart. Unlike other double di
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[concepts/functionalism]]"
   - "[[illusionism]]"
@@ -184,7 +183,7 @@ The attention-consciousness dissociation illuminates The Unfinishable Map's fram
 
 ## Further Reading
 
-- [[attention]] — The concept article covering attention-consciousness mechanisms
+- [[attention-as-interface|attention]] — The concept article covering attention-consciousness mechanisms
 - [[attention-as-interface]] — The interface hypothesis in detail
 - [[attention-as-selection-interface]] — The unified selection interface: convergence, mechanisms, and predictions
 - [[hard-problem-of-consciousness]] — Why explaining consciousness is hard

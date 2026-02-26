@@ -4,13 +4,12 @@ description: "Graziano's theory proposes consciousness is the brain's model of i
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-04T09:43:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[concepts/functionalism]]"
   - "[[illusionism]]"
@@ -223,7 +222,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 
 ## Further Reading
 
-- [[attention]] — The attention-consciousness relationship and dissociation evidence
+- [[attention-as-interface|attention]] — The attention-consciousness relationship and dissociation evidence
 - [[attention-as-interface]] — the Map's alternative: attention as how consciousness interfaces with matter
 - [[illusionism]] — The philosophical framework AST instantiates
 - [[concepts/functionalism]] — The view that consciousness is functional role

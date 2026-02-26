@@ -4,7 +4,7 @@ description: "What does it feel like when consciousness acts on matter? Effort, 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-25T11:13:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-25T11:13:00+00:00
 draft: false
 topics:
@@ -18,7 +18,6 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[volitional-opacity]]"
   - "[[attention-as-interface]]"
-  - "[[voluntary-attention]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-as-causal-bridge]]"
@@ -72,7 +71,7 @@ The contrast with passive observation is phenomenologically vivid. When observin
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This phenomenological contrast has neural correlates. [[voluntary-attention|Willed attention]] — where you freely choose where to focus — engages frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment that instructed attention does not. The phenomenology of selecting maps onto measurable neural differences, which is what one would expect if the phenomenology tracks genuine causal engagement rather than decorating a process that would proceed identically without it.
+This phenomenological contrast has neural correlates. [[attention-as-interface|Willed attention]] — where you freely choose where to focus — engages frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment that instructed attention does not. The phenomenology of selecting maps onto measurable neural differences, which is what one would expect if the phenomenology tracks genuine causal engagement rather than decorating a process that would proceed identically without it.
 
 ### Holding: The Work of Sustaining
 

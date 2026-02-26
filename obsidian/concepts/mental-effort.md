@@ -4,7 +4,7 @@ description: "The phenomenology of effortful attention as evidence for conscious
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-16T19:13:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -14,8 +14,6 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[attention]]"
-  - "[[voluntary-attention]]"
   - "[[attention-as-interface]]"
   - "[[specious-present]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -58,7 +56,7 @@ The phenomenology of effort reflects the *real cost* of operating through this i
 
 ### The Willed-Instructed Distinction
 
-[[voluntary-attention|Recent neuroscience]] reveals that not all top-down attention is *willed* attention. The key distinction: when you follow instructions ("attend left"), you implement an externally provided goal. When you *freely choose* where to attend, different neural processes engage—frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, and additional frontal recruitment.
+[[attention-as-interface|Recent neuroscience]] reveals that not all top-down attention is *willed* attention. The key distinction: when you follow instructions ("attend left"), you implement an externally provided goal. When you *freely choose* where to attend, different neural processes engage—frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, and additional frontal recruitment.
 
 This neural distinction explains why effort tracks volition. Instructed attention feels less effortful because you merely implement. Willed attention feels more effortful because you must *generate* the decision. The phenomenology of effort marks the genuine work of deciding.
 
@@ -170,7 +168,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [[dopamine-and-the-unified-interface]] — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
 - [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
-- [[voluntary-attention]] — The willed/instructed distinction and neural signatures
+- [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and neural signatures
 - [[phenomenology-of-choice]] — The choosing-observing distinction
 - [[meditation-and-consciousness-modes]] — Selection vs witnessing modes
 - [[illusionism]] — The eliminativist challenge

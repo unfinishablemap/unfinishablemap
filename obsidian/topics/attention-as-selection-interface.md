@@ -4,17 +4,15 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-25T22:12:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[attention-motor-quantum-interface]]"
   - "[[motor-selection]]"
-  - "[[voluntary-attention]]"
   - "[[stapp-quantum-mind]]"
   - "[[dopamine-selection-interface]]"
   - "[[quantum-consciousness]]"
@@ -255,7 +253,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [[decoherence]] — The decoherence objection and responses
 - [[mental-effort]] — Phenomenology of attentional effort
 - [[structure-of-attention]] — Willed, instructed, and exogenous attention
-- [[voluntary-attention]] — Neural signatures of willed attention
+- [[attention-as-interface|voluntary attention]] — Neural signatures of willed attention
 - [[psychophysical-coupling]] — Constraints on what consciousness can influence
 - [[topics/free-will]] — How timing constraints relate to libertarian free will
 - [[agent-causation]] — The selection model as agent causation

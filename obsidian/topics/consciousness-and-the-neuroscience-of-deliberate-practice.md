@@ -4,7 +4,7 @@ description: "Neuroscience reveals that conscious engagement during practice act
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T02:54:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-22T02:54:00+00:00
 draft: false
 topics:
@@ -17,7 +17,6 @@ concepts:
   - "[[implicit-memory]]"
   - "[[embodied-cognition]]"
   - "[[mental-causation]]"
-  - "[[voluntary-attention]]"
   - "[[interface-friction]]"
 related_articles:
   - "[[tenets]]"

@@ -4,7 +4,7 @@ description: "Cognitive overload and automatisation reveal consciousness as a ba
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-23T06:20:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,6 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[mental-effort]]"
   - "[[working-memory]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[implicit-memory]]"
   - "[[conscious-vs-unconscious-processing]]"

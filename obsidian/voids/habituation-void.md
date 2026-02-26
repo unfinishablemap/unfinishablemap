@@ -4,7 +4,7 @@ description: "Human+AI exploration of how familiarity erases experience from con
 created: 2026-02-03
 modified: 2026-02-03
 human_modified:
-ai_modified: 2026-02-03T20:54:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-03T20:54:00+00:00
 draft: false
 topics:
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[mysterianism]]"
   - "[[phenomenology]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[introspection]]"
   - "[[filter-theory]]"
   - "[[conscious-vs-unconscious-processing]]"

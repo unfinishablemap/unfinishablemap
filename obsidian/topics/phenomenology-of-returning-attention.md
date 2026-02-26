@@ -4,13 +4,12 @@ description: "The moment attention returns from wandering reveals a micro-struct
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-02-15T09:46:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[voluntary-attention]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -18,7 +17,6 @@ concepts:
   - "[[phenomenology]]"
   - "[[phenomenology-of-choice]]"
   - "[[introspection]]"
-  - "[[attention]]"
   - "[[default-mode-network]]"
   - "[[contemplative-epistemology]]"
   - "[[neurophenomenology]]"
@@ -59,7 +57,7 @@ The phenomenology here is paradoxical. If consciousness was absorbed in wanderin
 
 After noticing, you deliberately bring attention back to the intended object. This phase feels effortful. It has the character of [[phenomenology-of-agency-vs-passivity|agency]] — you are doing something, not merely undergoing it. The contrast with Phase Two is stark: noticing happened *to* you; returning is something *you do*.
 
-Neurally, this phase engages the dorsolateral prefrontal cortex and the dorsal attention network. The [[voluntary-attention|frontal theta signature]] of willed attention appears. The full machinery of executive control re-engages to override the wandering stream and redirect focus.
+Neurally, this phase engages the dorsolateral prefrontal cortex and the dorsal attention network. The [[attention-as-interface|frontal theta signature]] of willed attention appears. The full machinery of executive control re-engages to override the wandering stream and redirect focus.
 
 ## Why the Gap Matters
 
@@ -140,7 +138,7 @@ This has implications for the [[contemplative-epistemology|contemplative epistem
 
 ## Further Reading
 
-- [[voluntary-attention]] — Neural signatures distinguishing willed from automatic attention
+- [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from automatic attention
 - [[meditation-and-consciousness-modes]] — The two modes of consciousness and their neural correlates
 - [[phenomenology-of-agency-vs-passivity]] — The felt contrast between doing and undergoing
 - [[attention-as-interface]] — Why attention is the privileged interface between mind and brain

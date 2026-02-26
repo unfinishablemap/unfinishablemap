@@ -4,7 +4,7 @@ description: "Do humans naturally separate mind from body? Evidence is mixed—b
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-02-06T14:22:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[mental-causation]]"
   - "[[stapp-quantum-mind]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[theory-of-mind]]"
   - "[[embodied-cognition]]"
 related_articles:
@@ -129,7 +129,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] sp
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] receives indirect support: if consciousness were epiphenomenal, why invest neural resources modeling something that doesn't affect behaviour? The existence of folk psychology suggests minds have causal efficacy worth tracking. The direct evidence comes from [[voluntary-attention]] and studies like Schwartz's OCD research showing mindful attention changing brain activity.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] receives indirect support: if consciousness were epiphenomenal, why invest neural resources modeling something that doesn't affect behaviour? The existence of folk psychology suggests minds have causal efficacy worth tracking. The direct evidence comes from [[attention-as-interface|voluntary attention]] and studies like Schwartz's OCD research showing mindful attention changing brain activity.
 
 ### No Many Worlds
 

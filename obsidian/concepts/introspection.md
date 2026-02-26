@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-25T08:28:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[higher-order-theories]]"
   - "[[illusionism]]"
   - "[[witness-consciousness]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[decoherence]]"
   - "[[phenomenology-of-error-recognition]]"
   - "[[consciousness-and-mathematical-understanding]]"

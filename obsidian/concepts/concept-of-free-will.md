@@ -4,7 +4,7 @@ description: "Free will as the capacity for genuine authorship of choices. The U
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-22T09:37:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-22T09:37:00+00:00
 draft: false
 topics:
@@ -27,7 +27,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[counterfactual-reasoning]]"
   - "[[retrocausality]]"
   - "[[authentic-vs-inauthentic-choice]]"
@@ -66,7 +66,7 @@ Three lines of experiential evidence support genuine agency:
 
 **The [[mental-effort|phenomenology of effort]]** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that "the free will question relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
 
-**Neural signatures of willed action** — [[voluntary-attention|Willed attention]] shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or merely instructed behaviour. The subjective sense of authorship tracks genuine differences in neural organisation, not an arbitrary overlay.
+**Neural signatures of willed action** — [[attention-as-interface|Willed attention]] shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or merely instructed behaviour. The subjective sense of authorship tracks genuine differences in neural organisation, not an arbitrary overlay.
 
 ## The Physical Interface
 
@@ -125,7 +125,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [[libet-experiments]] — Neuroscientific evidence and its interpretation
 - [[moral-responsibility]] — How agent causation grounds genuine desert
 - [[counterfactual-reasoning]] — The consciousness-dependent capacity to evaluate alternatives
-- [[voluntary-attention]] — Neural signatures distinguishing willed from automatic action
+- [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from automatic action
 - [[authentic-vs-inauthentic-choice]] — When choice engages genuine agency versus running on scripts
 
 ## References

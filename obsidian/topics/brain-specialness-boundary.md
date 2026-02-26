@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T15:09:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[psychophysical-coupling]]"
   - "[[filter-theory]]"
   - "[[embodied-cognition]]"
@@ -152,7 +152,7 @@ None of these has occurred. The current framework remains consistent with availa
 - [[interactionist-dualism]] — The Map's core position on mind-body interaction
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
-- [[attention]] — How attention implements observation
+- [[attention-as-interface|attention]] — How attention implements observation
 - [[filter-theory]] — Consciousness as filtered through the brain
 - [[conservation-laws-and-mind]] — Why consciousness doesn't violate conservation laws
 - [[embodied-cognition]] — The role of embodiment in consciousness

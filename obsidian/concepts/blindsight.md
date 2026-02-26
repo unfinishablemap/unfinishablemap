@@ -4,7 +4,7 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-07T05:57:00+00:00
 draft: false
 topics: []
@@ -15,7 +15,7 @@ concepts:
   - "[[access-consciousness]]"
   - "[[phenomenal-consciousness]]"
   - "[[mysterianism]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[global-workspace-theory]]"
   - "[[higher-order-theories]]"
   - "[[philosophical-zombies]]"
@@ -159,7 +159,7 @@ Blindsight demonstrates that [[consciousness]] and cognitive processing are not 
 
 The phenomenon also supports [[bidirectional-interaction|Bidirectional Interaction]]. The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. An epiphenomenalist can attribute these functional differences to the physical differences between the geniculostriate and collicular pathways rather than to consciousness itself. But the dualist observes that the functional capacities that track consciousness—flexible reasoning, novel integration, metacognitive access—are precisely those that resist explanation in purely mechanistic terms. The correlation between phenomenal presence and cognitive flexibility is better explained by [[bidirectional-interaction|consciousness causally contributing to cognition]] than by coincidental alignment between pathway architecture and an epiphenomenal byproduct.
 
-Blindsight also illuminates the difference between attended and unattended processing. The V1 pathway normally supports [[voluntary-attention]]—top-down selection of what enters awareness. The collicular pathway bypasses this attentional interface. If attention is the mechanism through which consciousness influences neural processing (as [[stapp-quantum-mind|Stapp's model]] proposes), blindsight shows what happens when that mechanism is circumvented: visual information reaches motor systems but doesn't enter the attended, globally broadcast workspace.
+Blindsight also illuminates the difference between attended and unattended processing. The V1 pathway normally supports [[attention-as-interface|voluntary attention]]—top-down selection of what enters awareness. The collicular pathway bypasses this attentional interface. If attention is the mechanism through which consciousness influences neural processing (as [[stapp-quantum-mind|Stapp's model]] proposes), blindsight shows what happens when that mechanism is circumvented: visual information reaches motor systems but doesn't enter the attended, globally broadcast workspace.
 
 Blindsight also connects to [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. If consciousness is not reducible to neural processing patterns, it may involve non-physical properties. The quantum selection hypothesis proposes that conscious states influence which quantum outcomes become actual, biasing neural activity toward flexible reasoning and global integration. Unconscious processing would proceed via classical pathways. This remains highly speculative—there is no direct evidence that quantum effects play a role in the blindsight dissociation—but it illustrates how the framework might accommodate the findings. Under [[tenets#^no-many-worlds|No Many Worlds]], this selection is genuine rather than illusory: phenomenal presence or absence is a determinate fact about this world, not a perspectival artifact of branch location.
 
@@ -183,7 +183,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [[access-consciousness]] — Block's analysis of information availability for reasoning and report
 - [[global-workspace-theory]] — Neural mechanisms of conscious access
 - [[illusionism]] — The view that phenomenal consciousness is an illusion
-- [[voluntary-attention]] — Top-down selection and the V1 pathway
+- [[attention-as-interface|voluntary attention]] — Top-down selection and the V1 pathway
 - [[mind-brain-separation]] — Evidence for consciousness-brain dissociation
 - [[philosophical-zombies]] — Blindsight as an empirical partial-zombie case
 - [[higher-order-theories]] — Physicalist framework for the blindsight dissociation

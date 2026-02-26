@@ -4,14 +4,13 @@ description: "Voluntary mental imagery is consistent with consciousness's causal
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-02-08T09:33:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
   - "[[bidirectional-interaction]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[working-memory]]"
   - "[[motor-selection]]"
@@ -119,7 +118,7 @@ The attention-imagery interface connects to the Map's broader framework. [[Atten
 - [[mental-imagery-causal-role-of-consciousness]] — Topic-level treatment of what imagery reveals about consciousness's causal role
 - [[contemplative-neuroscience]] — Parallel evidence that deliberate conscious practice reshapes neural structure
 - [[bidirectional-interaction]] — The tenet that consciousness causally influences the physical
-- [[attention]] — The potential interface between consciousness and neural processes
+- [[attention-as-interface|attention]] — The potential interface between consciousness and neural processes
 - [[working-memory]] — The cognitive workspace where imagery manipulation occurs
 - [[introspection]] — The reliability and limits of accessing one's own mental states
 - [[concepts/epiphenomenalism]] — The view mental imagery evidence challenges

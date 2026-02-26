@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-02-22T17:19:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,9 +13,7 @@ concepts:
   - "[[filter-theory]]"
   - "[[quantum-consciousness]]"
   - "[[pairing-problem]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
-  - "[[voluntary-attention]]"
   - "[[quantum-coherence-and-binding-evidence]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-coupling]]"
@@ -82,7 +80,7 @@ The restriction to brain-local effects follows from four overlapping constraints
 
 3. **Developmental/evolutionary integration**: The brain-consciousness interface was optimised over millions of years. No evolutionary pressure exists to affect external quantum systems.
 
-4. **Attention scope**: [[Voluntary-attention|Voluntary attention]] is neurally realised as frontoparietal activation. You can only attend to what's within your perceptual/motor systems—bounding quantum-Zeno holding to neurally represented systems.
+4. **Attention scope**: [[attention-as-interface|Voluntary attention]] is neurally realised as frontoparietal activation. You can only attend to what's within your perceptual/motor systems—bounding quantum-Zeno holding to neurally represented systems.
 
 These constraints converge: attention is neurally implemented (extending no further than the skull), control loops require internal representation, and development creates the specific mind-brain interface. Consciousness influences what it's connected to through attention and embodiment—only its own brain.
 

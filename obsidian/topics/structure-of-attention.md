@@ -4,14 +4,12 @@ description: "Attention divides into willed, instructed, and exogenous modes wit
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-04T04:20:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[attention]]"
-  - "[[voluntary-attention]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[agent-causation]]"
@@ -239,9 +237,9 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 
 ## Further Reading
 
-- [[attention]] — The broad dissociation between attention and consciousness
+- [[attention-as-interface|attention]] — The broad dissociation between attention and consciousness
 - [[attention-disorders-and-quantum-interface]] — ADHD, fatigue, and meditation deficits reveal interface components
-- [[voluntary-attention]] — Detailed treatment of willed attention mechanisms
+- [[attention-as-interface|voluntary attention]] — Detailed treatment of willed attention mechanisms
 - [[attention-as-interface]] — Attention as the causal bridge between consciousness and brain
 - [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
 - [[mental-effort]] — The phenomenology and potential mechanism of attentional effort

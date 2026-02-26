@@ -3,7 +3,7 @@ title: Contemplative Neuroscience
 description: "Meditation research integrates first-person phenomenology with third-person neuroscience, producing neuroplastic changes that demonstrate bidirectional interaction between consciousness and brain."
 created: 2026-01-23
 modified: 2026-02-05
-ai_modified: 2026-02-05T02:39:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -11,11 +11,9 @@ topics:
 concepts:
   - "[[neurophenomenology]]"
   - "[[neuroplasticity]]"
-  - "[[attention]]"
   - "[[witness-consciousness]]"
   - "[[emotional-consciousness]]"
   - "[[default-mode-network]]"
-  - "[[voluntary-attention]]"
   - "[[mental-effort]]"
   - "[[mysterianism]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -24,7 +22,6 @@ related_articles:
   - "[[neurophenomenology]]"
   - "[[bidirectional-interaction]]"
   - "[[witness-consciousness]]"
-  - "[[voluntary-attention]]"
   - "[[topics/free-will]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[mental-effort]]"
@@ -90,13 +87,13 @@ DMN reduction provides neural signature for the experiential shift from discursi
 
 Focused attention meditation implicates default-mode, control (dlPFC, lateral parietal), and salience (ACC, insula) networks.[^dhond] The Shamatha Project found intensive practice improved perceptual discrimination, sustained attention, response inhibition, and reduced mind-wandering.[^shamatha]
 
-These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [[attention]] isn't purely bottom-up. [[attention-as-interface|Voluntary-attention-control]] can be systematically developed through conscious training.
+These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [[attention-as-interface|attention]] isn't purely bottom-up. [[attention-as-interface|Voluntary-attention-control]] can be systematically developed through conscious training.
 
 Connection to [[topics/free-will]]: If [[phenomenal-consciousness]] were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
 
 ### The Meditation Modes Distinction
 
-[[Meditation-and-consciousness-modes|Two distinct modes]] emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating [[voluntary-attention|voluntary control]].
+[[Meditation-and-consciousness-modes|Two distinct modes]] emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating [[attention-as-interface|voluntary control]].
 
 ### Compassion and Emotional Neuroplasticity
 
@@ -120,7 +117,7 @@ Brain activity continues during cessation, reorganized but not silent. The duali
 
 Contemplative neuroscience provides empirical evidence against [[concepts/epiphenomenalism]]:
 
-1. Meditation involves conscious intention to direct [[attention]] and cultivate specific mental states
+1. Meditation involves conscious intention to direct [[attention-as-interface|attention]] and cultivate specific mental states
 2. Practice produces measurable neural changes
 3. These changes predict behavior (improved attention, prosocial action)
 4. The intervention is phenomenological—conscious practice, not merely physical motion
@@ -224,7 +221,7 @@ The more sophisticated our phenomenological categories and neural correlates bec
 
 [^demir]: Demir, U., Yang, W. F. Z., & Sacchet, M. D. (2025). "Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain." Cerebral Cortex, 35(4), bhaf079.
 
-[^voluntary]: See [[voluntary-attention]] for detailed treatment of willed vs. instructed attention neural signatures.
+[^voluntary]: See [[attention-as-interface|voluntary attention]] for detailed treatment of willed vs. instructed attention neural signatures.
 
 [^sharma]: Sharma, H. (2015). "Mindfulness-based stress reduction: a non-pharmacological approach for chronic illnesses." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC3336928/
 

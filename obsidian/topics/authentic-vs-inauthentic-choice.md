@@ -4,7 +4,7 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-20T01:06:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[agent-causation]]"
   - "[[mental-effort]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[witness-consciousness]]"
   - "[[personal-identity]]"
   - "[[haecceity]]"
@@ -134,7 +134,7 @@ This gives authenticity metaphysical significance: authentic choice is where con
 
 ### Neural Correlates
 
-The neural signatures of [[voluntary-attention|willed action]]—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation.
+The neural signatures of [[attention-as-interface|willed action]]—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation.
 
 The [[motor-selection|decision window]] for willed movements (~300ms versus ~100ms for instructed movements; Haggard, 2008) is similarly consistent with either interpretation. On the Map's account, the longer window provides time for consciousness to engage with neural superpositions. On a physicalist account, it reflects the additional computational demands of non-routine decisions. The neural data alone cannot adjudicate between these frameworks, but the phenomenological distinctiveness of authentic choice—the felt quality of genuine self-expression versus scripted compliance—remains a datum that physicalism must accommodate.
 
@@ -221,7 +221,7 @@ The authentic-inauthentic framework would face difficulty if:
 - [[phenomenology-of-choice]] — The experiential structure of decision-making
 - [[agent-causation]] — Why genuine choice requires agent causation
 - [[mental-effort]] — The phenomenology of cognitive engagement
-- [[voluntary-attention]] — Neural signatures of willed action
+- [[attention-as-interface|voluntary attention]] — Neural signatures of willed action
 - [[witness-consciousness]] — Contemplative cultivation of non-identified awareness
 - [[personal-identity]] — What makes the "self" that authenticates choice
 - [[haecceity]] — The unrepeatable thisness of the choosing subject

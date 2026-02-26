@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain? Four candidate sites exis
 created: 2026-02-09
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T03:36:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 last_deep_review: 2026-02-11T00:10:00+00:00
 topics:
@@ -19,7 +19,6 @@ concepts:
   - "[[decoherence]]"
   - "[[coupling-modes]]"
   - "[[quantum-coherence-and-binding-evidence]]"
-  - "[[attention]]"
   - "[[measurement-problem]]"
   - "[[psychophysical-coupling]]"
   - "[[motor-selection]]"
@@ -85,7 +84,7 @@ A more recent proposal suggests that cortical microcolumns — ensembles of roug
 
 ### Attention Networks (Functional Level)
 
-Rather than identifying a specific molecular site, some formulations locate the interface at the functional level of attention networks themselves — the frontoparietal systems that implement directed focus. On this view, the relevant question is not "which molecules?" but "which neural systems?", and the answer is: whatever systems implement [[voluntary-attention|willed attention]].
+Rather than identifying a specific molecular site, some formulations locate the interface at the functional level of attention networks themselves — the frontoparietal systems that implement directed focus. On this view, the relevant question is not "which molecules?" but "which neural systems?", and the answer is: whatever systems implement [[attention-as-interface|willed attention]].
 
 **Strengths.** The 2025 COGITATE adversarial testing found frontoparietal attention networks to be distinct from the posterior "hot zone" where conscious content appears to reside. This suggests the interface may be where these systems meet — where attention modulates conscious content. The approach avoids premature commitment to a specific molecular mechanism. Willed attention shows distinctive neural signatures (frontal theta, bidirectional frontoparietal coherence) that distinguish it from automatic processing.
 

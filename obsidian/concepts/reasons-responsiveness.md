@@ -4,7 +4,7 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-02-04T09:29:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 last_deep_review: 2026-02-04T09:29:00+00:00
 draft: false
 topics:
@@ -16,7 +16,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[phenomenology-of-choice]]"
   - "[[counterfactual-reasoning]]"
-  - "[[voluntary-attention]]"
+  - "[[attention-as-interface]]"
   - "[[causal-closure]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[self-stultification]]"
@@ -105,7 +105,7 @@ Whether this distinction holds under scrutiny remains contested. LLMs represent 
 
 If consciousness is reasons-responsive, how does this connect to neural activity? The Map proposes that consciousness operates at a selection level: the brain generates options; consciousness evaluates them through reasons-responsive deliberation; selection actualizes one option.
 
-Research on [[voluntary-attention|voluntary attention]] and [[motor-selection|motor selection]] identifies neural signatures of willed action: frontal theta oscillations, ~300ms deployment time, bidirectional frontoparietal coherence. These signatures distinguish genuinely chosen actions from automatic or merely instructed behaviour. The phenomenological asymmetry (effortful deliberation versus automatic response) corresponds to different neural circuits.
+Research on [[attention-as-interface|voluntary attention]] and [[motor-selection|motor selection]] identifies neural signatures of willed action: frontal theta oscillations, ~300ms deployment time, bidirectional frontoparietal coherence. These signatures distinguish genuinely chosen actions from automatic or merely instructed behaviour. The phenomenological asymmetry (effortful deliberation versus automatic response) corresponds to different neural circuits.
 
 The [[agent-causation|agent-causal]] framework situates reasons-responsiveness at the agent level: the agent exercises causal power guided by reasons. The [[causal-closure|causal closure]] principle that physicalism requires—every physical event having a sufficient physical cause—fails precisely where consciousness acts. Reasons-responsiveness operates where physics leaves outcomes undetermined; the agent's sensitivity to normative relationships guides which outcome actualizes.
 
@@ -131,7 +131,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 - [[phenomenology-of-choice]] — The experiential structure of reasons-responsive deliberation
 - [[counterfactual-reasoning]] — The representational capacity enabling evaluation of reasons
 - [[mental-effort]] — Why reasoning feels effortful and what this suggests
-- [[voluntary-attention]] — The paradigm case of reasons-responsive selection in attention deployment
+- [[attention-as-interface|voluntary attention]] — The paradigm case of reasons-responsive selection in attention deployment
 - [[causal-closure]] — The physicalist principle that reasons-responsiveness challenges
 - [[process-and-consciousness]] — Process philosophy's support for reasons-responsiveness as experiential self-determination
 

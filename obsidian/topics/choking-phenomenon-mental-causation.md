@@ -4,7 +4,7 @@ description: "When skilled performers attend to automatized actions, performance
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T05:59:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,6 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[agent-causation]]"
   - "[[illusionism]]"
-  - "[[voluntary-attention]]"
   - "[[mental-effort]]"
   - "[[bidirectional-interaction]]"
 related_articles:
@@ -137,7 +136,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [[agent-causation]] — Substance causation as an alternative to event causation
 - [[concepts/epiphenomenalism]] — The view choking evidence refutes
 - [[illusionism]] — The eliminativist challenge and why choking resists it
-- [[voluntary-attention]] — The neural signatures of willed versus stimulus-driven attention
+- [[attention-as-interface|voluntary attention]] — The neural signatures of willed versus stimulus-driven attention
 - [[mental-effort]] — The phenomenology of effortful attention
 - [[witness-consciousness]] — Contemplative parallels to anoetic awareness
 

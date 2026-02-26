@@ -4,14 +4,13 @@ description: "Flow dissolves the sense of effort while preserving—perhaps inte
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T02:46:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
   - "[[phenomenology]]"
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[agent-causation]]"

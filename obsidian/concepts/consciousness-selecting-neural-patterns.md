@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-24T10:59:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[measurement-problem]]"
@@ -20,7 +20,6 @@ concepts:
   - "[[decoherence]]"
   - "[[illusionism]]"
   - "[[introspection]]"
-  - "[[voluntary-attention]]"
   - "[[haecceity]]"
   - "[[witness-consciousness]]"
 related_articles:
@@ -250,8 +249,8 @@ The consciousness-selecting neural patterns framework would face serious difficu
 - [[psychophysical-coupling]] — The laws governing what selection can accomplish
 - [[quantum-consciousness]] — Major theories of how consciousness interfaces with quantum mechanics
 - [[mental-effort]] — The phenomenology of effort and Stapp's mechanism
-- [[voluntary-attention]] — The willed/instructed distinction and neural signatures of selection
-- [[attention]] — The attention-consciousness dissociation
+- [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and neural signatures of selection
+- [[attention-as-interface|attention]] — The attention-consciousness dissociation
 - [[mental-causation]] — Why selection addresses the exclusion problem
 - [[causal-closure]] — The principle selection challenges
 - [[measurement-problem]] — Why collapse creates logical space for consciousness

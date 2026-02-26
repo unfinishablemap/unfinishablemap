@@ -2,11 +2,11 @@
 title: "Why Integrated Information Theory Falls Short"
 description: "IIT takes consciousness seriously but makes it passive. A critique from the Map's interactionist perspective on identity, causation, and time."
 created: 2026-01-27
-modified: 2026-01-29
+modified: 2026-02-26
 human_modified: null
-ai_modified: 2026-01-29T17:30:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
-last_deep_review: 2026-01-27T21:59:34+00:00
+last_deep_review: 2026-02-26T10:03:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -18,9 +18,12 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[causal-closure]]"
   - "[[concepts/functionalism]]"
+  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-structure-of-consciousness]]"
+  - "[[consciousness-and-information-integration-beyond-iit]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -94,7 +97,7 @@ These objections shouldn't obscure IIT's genuine contributions:
 
 The Map proposes that consciousness is genuinely distinct from physical structure and genuinely causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet locates the interface at quantum indeterminacy—where physics leaves outcomes undetermined, consciousness selects. This preserves what IIT gets right (taking consciousness as fundamental) while avoiding what it gets wrong (making consciousness passive).
 
-On this view, integrated information might be *necessary* for consciousness in physical systems—perhaps only integrated systems provide the right interface for consciousness to influence outcomes. But integration isn't *identical* to consciousness. Consciousness acts *through* integrated structures without being reducible to them.
+On this view, integrated information might be *necessary* for consciousness in physical systems—perhaps only integrated systems provide the right interface for consciousness to influence outcomes. But integration isn't *identical* to consciousness. Consciousness acts *through* integrated structures without being reducible to them. For how this might work in practice, see [[consciousness-selecting-neural-patterns|the neural selection mechanism]]: consciousness biases which quantum possibilities become actual neural firing patterns.
 
 This approach handles the expander graph problem: a highly integrated structure might be necessary for rich consciousness, but integration alone isn't sufficient. It handles the passivity problem: consciousness genuinely influences physical outcomes at quantum selection points. And it handles the temporal problem: if consciousness operates through temporally extended collapse processes, experienced duration has a natural home.
 
@@ -114,6 +117,9 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 - [[integrated-information-theory]] — The concept page explaining IIT in detail
 - [[concepts/epiphenomenalism]] — The passive consciousness view IIT resembles
 - [[interactionist-dualism]] — The Map's alternative framework
+- [[consciousness-selecting-neural-patterns]] — How consciousness might select among quantum possibilities in neural systems
+- [[consciousness-and-information-integration-beyond-iit]] — Integration matters, but not as identity: alternative frameworks
+- [[measurement-problem]] — The quantum puzzle that creates logical space for conscious selection
 - [[temporal-structure-of-consciousness]] — Why temporal consciousness matters
 - [[hard-problem-of-consciousness]] — The puzzle both IIT and the Map address
 - [[tenets]] — The Map's foundational commitments
@@ -123,7 +129,7 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 - Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *Biological Bulletin*, 215(3), 216-242.
 - Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
 - Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized* (blog post).
-- COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+- COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 
 <!-- AI REFINEMENT LOG - 2026-01-29
 Changes made:

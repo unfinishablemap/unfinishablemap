@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-04T04:20:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -13,7 +13,6 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[quantum-consciousness]]"
-  - "[[attention]]"
   - "[[voluntary-attention-control-mechanisms-2026-01-17|voluntary-attention]]"
   - "[[witness-consciousness]]"
   - "[[illusionism]]"
@@ -273,7 +272,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [[mental-effort]] — The phenomenology and mechanism of effortful attention
 - [[quantum-consciousness]] — The quantum Zeno mechanism for selection
 - [[phenomenology]] — First-person methods for investigating experience
-- [[attention]] — General treatment of attention and consciousness
+- [[attention-as-interface|attention]] — General treatment of attention and consciousness
 - [[voluntary-attention-control-mechanisms-2026-01-17|Voluntary attention research]] — Research on willed vs. automatic attention
 - [[meditation-observer-witness-phenomenon-2026-01-18]] — Research notes for this article
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how contemplative refinement reveals the four features of working consciousness

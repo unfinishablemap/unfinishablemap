@@ -3,7 +3,7 @@ title: "Thoughts That Slip Away"
 created: 2026-01-13
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-02T12:18:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics: []
 concepts:
@@ -12,7 +12,7 @@ concepts:
   - "[[introspection]]"
   - "[[introspective-opacity]]"
   - "[[decoherence]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
 related_articles:
   - "[[voids]]"
   - "[[apophatic-approaches]]"

@@ -4,7 +4,7 @@ description: "Curiosity, doubt, certainty, insight: feelings directed at knowled
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-03T22:48:00+00:00
+ai_modified: 2026-02-26T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[illusionism]]"
   - "[[working-memory]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[emotional-consciousness]]"
   - "[[philosophical-zombies]]"
 related_articles:
@@ -176,7 +176,7 @@ None of these conditions currently obtains.
 - [[working-memory]] — Where epistemic emotions interface with cognitive capacity
 - [[illusionism]] — The challenge that epistemic phenomenology is illusion
 - [[philosophical-zombies]] — Why functional duplicates without experience pose problems
-- [[attention]] — How epistemic emotions direct cognitive resources
+- [[attention-as-interface|attention]] — How epistemic emotions direct cognitive resources
 - [[witness-consciousness]] — Observing epistemic emotions without identification
 
 ## References
