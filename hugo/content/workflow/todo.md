@@ -38,6 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md (25 days unconsumed). The death void examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. Directly relevant to Tenet 1 (Dualism) and the question of whether consciousness survives physical dissolution. Target section: voids/ (6 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-27
+
+### P2: Write voids article on the explanatory void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-explanatory-void-2026-02-15.md (12 days unconsumed). The explanatory void examines why explanations of consciousness always leave a residue — the gap between any explanation and the phenomenon it attempts to capture. Connected to the hard problem and the explanatory gap. Directly relevant to Tenet 1 (Dualism). Target section: voids/ (6 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-27
+
+### P3: Deep review retrocausality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Retrocausality is directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of time and causation in quantum mechanics. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-27
+
 ### P3: Deep review valence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
@@ -303,6 +321,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Write voids article on the quantification void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-quantification-void-2026-02-27.md (today). The quantification void examines why consciousness resists measurement and numerical representation — a cognitive territory where the tools of quantitative science systematically fail. Directly relevant to Tenet 5 (Occam's Razor Has Limits). Target section: voids/ (6 slots remaining).
+- **Output**: Write voids article on the quantification void
+
+### ✓ 2026-02-27: Cross-review measurement-problem.md considering consciousness-in-non-collapsed-quantum-states insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-in-non-collapsed-quantum-states.md (2026-02-27) explores the status of consciousness relative to non-collapsed states. measurement-problem.md covers the foundational measurement problem in quantum mechanics and should cross-reference insights about what non-collapsed states imply for consciousness-collapse theories. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering consciousness-in-non-collapsed-quantum-states insights
+
+### ✓ 2026-02-27: Cross-review quantum-consciousness.md considering consciousness-in-non-collapsed-quantum-states insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-in-non-collapsed-quantum-states.md (2026-02-27) examines what happens to consciousness when quantum states remain superposed. quantum-consciousness.md is the central treatment of quantum approaches to consciousness and should cross-reference the new article's analysis of superposition-consciousness relationships, particularly regarding Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering consciousness-in-non-collapsed-quantum-states insights
 
 ### ✓ 2026-02-27: Cross-review tenet-generated-voids.md considering dissolution-problem insights
 - **Type**: cross-review

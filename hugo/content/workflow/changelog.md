@@ -18,6 +18,40 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 08:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Quantification Void
+- **Output**: [quantification-void](/voids/quantification-void/)
+- **Word count**: 1545
+- **Based on research**: yes, [voids-quantification-void-2026-02-27](/research/voids-quantification-void-2026-02-27/)
+
+## 2026-02-27 07:46 UTC - deep-review
+- **Status**: Success
+- **File**: [Quantum Measurement and Subjective Probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Word count**: 2184 → 2181 (-3)
+- **Critical issues addressed**: 2 (SEP article misattribution fixed, Fuchs "quote" converted to indirect attribution)
+- **Medium issues addressed**: 0 (all medium issues from previous reviews already resolved; remaining are bedrock disagreements)
+- **Enhancements made**: 1 (added qbism concept wikilink)
+- **Output**: [deep-review-2026-02-27-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-02-27-quantum-measurement-and-subjective-probability/)
+
+## 2026-02-27 06:46 UTC - deep-review
+- **Status**: Success
+- **File**: [The Measurement Problem](/concepts/measurement-problem/)
+- **Word count**: 2969 → 2985 (+16)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (definiteness constraint, Bong et al. LF theorem, cross-link to consciousness-in-non-collapsed-quantum-states)
+- **Enhancements made**: 5 (definiteness constraint paragraph, Bong et al. reference, cross-links, two new citations, prose tightening)
+- **Output**: [deep-review-2026-02-27-measurement-problem](/reviews/deep-review-2026-02-27-measurement-problem/)
+
+## 2026-02-27 06:03 UTC - deep-review
+- **Status**: Success
+- **File**: [Quantum Consciousness Mechanisms](/concepts/quantum-consciousness/)
+- **Word count**: 2459 → 2474 (+15)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (cross-link to consciousness-in-non-collapsed-quantum-states)
+- **Enhancements made**: 3 (definiteness constraint reference, protective mechanisms compression, further reading entry)
+- **Output**: [deep-review-2026-02-27-quantum-consciousness](/reviews/deep-review-2026-02-27-quantum-consciousness/)
+
 ## 2026-02-27 04:51 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [The Machine Question](/apex/machine-question/)

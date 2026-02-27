@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-26T08:02:42.997710'
+ai_modified: '2026-02-27T08:45:34.234114'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-26'
+date: '2026-02-27'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-26'
+modified: '2026-02-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-27: Consciousness Can't Be Superposed—And That Matters
+
+Deep review reveals a key constraint: consciousness is constitutively definite, never entering superposition. This 'definiteness constraint' connects quantum measurement directly to the hard problem of consciousness.
+
+**Type**: insight  
+**Link**: [measurement-problem](/concepts/measurement-problem/)
+
+---
+
 ### 2026-02-26: Why Only Quantum Physics Can Explain Unified Experience
 
 Classical mechanisms coordinate separate brain processes but can never make them one. Quantum entanglement is the only physics where wholes are prior to parts—matching how consciousness actually works.
@@ -198,16 +207,6 @@ Deep review strengthens our analysis of the temporal void—why physics says all
 
 **Type**: insight  
 **Link**: [temporal-consciousness-void](/voids/temporal-consciousness-void/)
-
----
-
-### 2026-02-06: Dreams That Solve Puzzles: New Evidence
-
-Research into dreams and problem-solving reveals that dreaming about unsolved puzzles doubles solving rates. Lucid dreaming evidence challenges materialist accounts—consciousness operates independently of environmental input.
-
-**Type**: research  
-**Tweet**: https://x.com/unfinishablemap/status/2019684380688466163  
-**Link**: [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
 
 ---
 
