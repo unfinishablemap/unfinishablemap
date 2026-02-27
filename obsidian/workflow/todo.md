@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on arguments against materialism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/arguments-against-materialism-2026-01-06.md (52 days unconsumed). A systematic treatment of the strongest arguments against materialism/physicalism is a critical gap — the Map's dualist position (Tenet 1) depends on showing materialism is inadequate, but no dedicated article assembles these arguments. The research covers the knowledge argument, conceivability arguments, multiple realizability objections, and the hard problem's anti-materialist force. Target section: topics/ (4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-27
-
 ### P2: Integrate philosophy-of-mind.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Central concept article with 74 outbound links and 40 frontmatter taxonomy references, but zero body-text inbound links from any other article. As a foundational concept for the entire site, this orphan status is a significant navigation gap. Add cross-references from hard-problem-of-consciousness.md, the-case-for-dualism.md, consciousness.md, and other hub articles.
@@ -350,6 +344,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Write article on arguments against materialism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/arguments-against-materialism-2026-01-06.md (52 days unconsumed). A systematic treatment of the strongest arguments against materialism/physicalism is a critical gap — the Map's dualist position (Tenet 1) depends on showing materialism is inadequate, but no dedicated article assembles these arguments. The research covers the knowledge argument, conceivability arguments, multiple realizability objections, and the hard problem's anti-materialist force. Target section: topics/ (4 slots remaining).
+- **Output**: arguments against materialism
 
 ### ✓ 2026-02-27: Write voids article on the explanatory void
 - **Type**: expand-topic
