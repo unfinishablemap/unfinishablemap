@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 11:32:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -191,6 +191,7 @@ These conditions do not currently obtain. The connection stands.
 - [free-will](/topics/free-will/) — How value-grounded consciousness enables genuine choice
 - [illusionism](/concepts/illusionism/) — The strongest challenge and responses
 - [panpsychism](/concepts/panpsychism/) — What follows if consciousness is ubiquitous
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms the moral landscape
 - [tenets](/tenets/) — The foundational commitments grounding this view
 
 ## References

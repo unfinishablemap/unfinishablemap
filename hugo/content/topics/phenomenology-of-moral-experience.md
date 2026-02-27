@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-02-24 12:14:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -208,6 +208,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist and Hindu perspectives on consciousness and value
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — What insight and comprehension feel like from the inside
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — How moral perception shifts under new evidence
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How moral seriousness gains metaphysical weight under genuine agency
 
 ## References
 

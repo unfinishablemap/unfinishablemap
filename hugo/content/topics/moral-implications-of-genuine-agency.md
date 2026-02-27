@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 15:20:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: If consciousness genuinely causes actions, morality transforms from
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 15:20:00+00:00
+last_deep_review: 2026-02-27 17:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,9 +45,9 @@ The [moral-responsibility](/concepts/moral-responsibility/) article establishes 
 
 Determinism offers a peculiar consolation. If every decision traces back through causes the agent never chose, then the sting of regret softens: you could not have done otherwise, so guilt is a misfire. Hard determinists from d'Holbach to Pereboom have argued that moral emotions like guilt, resentment, and indignation are irrational responses to events no one controlled.
 
-Genuine agency removes this consolation. If consciousness actually selected cruelty when kindness was available—not because prior brain states determined that outcome, but because the agent chose it—then guilt tracks something real. The anguish of moral failure is not a psychological artefact but an appropriate response to having authored harm.
+Genuine agency removes this consolation. If consciousness actually selected cruelty when kindness was available—not because prior brain states determined that outcome, but because the agent chose it—then guilt tracks something real. The anguish of moral failure responds appropriately to having authored harm.
 
-This carries an existential weight that compatibilism partially obscures. Sophisticated compatibilists—Frankfurt's hierarchical desires, Fischer and Ravizza's guidance control, Wolf's reason-responsiveness—preserve moral language while grounding it in capacities the agent exercises but didn't ultimately create. These accounts provide rich frameworks for praise and blame, and they avoid the metaphysical commitments the Map embraces. Their limitation, from the Map's perspective, is that they ground desert pragmatically rather than metaphysically: holding people responsible works well for social coordination, but the ultimate sources of the agent's character lie outside the agent's control. Genuine agency, by contrast, means the agent is truly the origin. Sartre captured part of this when he wrote of being "condemned to be free," though his existentialism lacked the metaphysical framework the Map provides. Agent causation specifies *how* the condemnation works: consciousness selects among genuinely open possibilities, and those selections constitute the agent's moral record.
+This carries an existential weight that compatibilism partially obscures. Sophisticated compatibilists—Frankfurt's hierarchical desires, Fischer and Ravizza's guidance control, Wolf's Reason View—preserve moral language while grounding it in capacities the agent exercises but didn't ultimately create. These accounts provide rich frameworks for praise and blame, and they avoid the metaphysical commitments the Map embraces. Their limitation, from the Map's perspective, is that they ground desert pragmatically rather than metaphysically: holding people responsible works well for social coordination, but the ultimate sources of the agent's character lie outside the agent's control. Genuine agency, by contrast, means the agent is truly the origin. Sartre captured part of this when he wrote of being "condemned to be free," though his existentialism lacked the metaphysical framework the Map provides. Agent causation specifies *how* the condemnation works: consciousness selects among genuinely open possibilities, and those selections constitute the agent's moral record.
 
 ## Obligation Becomes Intelligible
 
@@ -139,6 +139,7 @@ Additionally, if Buddhist or compatibilist philosophy demonstrated that every mo
 - [living-with-the-map](/apex/living-with-the-map/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 - [attentional-economics](/concepts/attentional-economics/)
+- [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-07 10:21:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -53,7 +53,7 @@ The Map's [dualism](/tenets/#dualism) strengthens this: if consciousness is irre
 
 ## Moral Responsibility: Agent Causation and Desert
 
-Consciousness grounds not only moral *patienthood* (who can be harmed) but also moral *responsibility* (who can be praised or blamed). If agents genuinely originate their choices through [agent causation](/concepts/agent-causation/)—exercising irreducible causal power rather than being deterministic links—then [moral responsibility](/concepts/moral-responsibility/) has metaphysical backing. Desert becomes more than social fiction: wrongdoers who exercised causal power to harm when kindness was available genuinely deserve blame.
+Consciousness grounds not only moral *patienthood* (who can be harmed) but also moral *responsibility* (who can be praised or blamed). If agents genuinely originate their choices through [agent causation](/concepts/agent-causation/)—exercising irreducible causal power rather than being deterministic links—then [moral responsibility](/concepts/moral-responsibility/) has metaphysical backing. Desert becomes more than social fiction: wrongdoers who exercised causal power to harm when kindness was available genuinely deserve blame. The [broader moral implications of genuine agency](/topics/moral-implications-of-genuine-agency/)—for obligation, character formation, and what moral theory itself requires—follow from this same foundation.
 
 Agent causation requires a conscious agent—a subject who experiences alternatives, exercises effort, and knows what they're doing. Without consciousness, there's no agent to bear responsibility. See [moral-responsibility](/concepts/moral-responsibility/) for the detailed treatment of how this differs from compatibilist desert and its practical implications.
 
@@ -209,6 +209,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of emotion and its ethical implications
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism about phenomenal consciousness
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge—ethical truths beyond human reach
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: obligation, character formation, and what genuine agency demands
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

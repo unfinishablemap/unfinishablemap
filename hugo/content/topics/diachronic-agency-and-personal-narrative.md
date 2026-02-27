@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 17:01:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -134,6 +134,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The reductionist challenge to narrative identity
 - [duration](/concepts/temporal-consciousness/) — Bergson's qualitative time and lived temporal structure
 - [identity-across-transformations](/apex/identity-across-transformations/) — How the substantial self persists through radical change
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral obligation, character, and moral luck
 
 ## References
 

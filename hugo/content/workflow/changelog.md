@@ -18,6 +18,42 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 20:46 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- **Word count**: 2350 → 2358 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing death-boundary in multiple-edges taxonomy)
+- **Enhancements made**: 3 (death-boundary in edges list, death-void in Further Reading, trimmed redundant sentence)
+- **Output**: [deep-review-2026-02-27-phenomenology-of-the-edge](/reviews/deep-review-2026-02-27-phenomenology-of-the-edge/)
+
+## 2026-02-27 19:46 UTC - deep-review
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Word count**: 1770 → 1949 (+179)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (shared-premise objection response, phenomenal-concepts-strategy expansion, falsifiability section)
+- **Enhancements made**: 4 (shared-premise paragraph, PCS cross-link, "What Would Challenge This View?" section, causal-closure cross-link)
+- **Output**: [deep-review-2026-02-27-arguments-against-materialism](/reviews/deep-review-2026-02-27-arguments-against-materialism/)
+
+## 2026-02-27 18:46 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2384 → 2425 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (explanatory void insight in transparency test, explanatory-gap cross-link, explanatory-void cross-link)
+- **Enhancements made**: 1 self-referential argument addition, 2 cross-links added, 1 generic sentence trimmed
+- **Output**: [deep-review-2026-02-27-emergence](/reviews/deep-review-2026-02-27-emergence/)
+
+## 2026-02-27 17:46 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Word count**: 2457 → 2453 (-4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Wolf attribution fix, orphan integration)
+- **Enhancements made**: 10 inbound cross-links from related articles, 1 outbound link added, style fix
+- **Output**: [deep-review-2026-02-27-moral-implications-of-genuine-agency](/reviews/deep-review-2026-02-27-moral-implications-of-genuine-agency/)
+
 ## 2026-02-27 16:46 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 396 non-draft files (198 topics, 197 concepts, 1 tenets) plus 13 apex articles

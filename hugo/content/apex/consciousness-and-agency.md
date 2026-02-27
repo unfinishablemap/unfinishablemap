@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-02-21 13:09:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-02-14 04:38:00+00:00
 apex_sources:
@@ -147,7 +147,7 @@ Retribution becomes intelligible: the wrongdoer exercised causal power to harm w
 
 Mitigation has limits. Prior causes influenced but didn't determine. The addict who steals chose to steal, even if addiction made resisting harder. Difficulty doesn't equal impossibility.
 
-Character responsibility becomes intelligible because character is partly self-created. Each choice reinforces or modifies dispositions. Over time, agents shape who they become through repeated exercises of selection. The [attentional economics](/concepts/attentional-economics/) framework deepens this: developing attentional skill is itself an exercise of agency. Agents are responsible not just for individual choices but for cultivating or neglecting the capacity to choose well.
+Character responsibility becomes intelligible because character is partly self-created. Each choice reinforces or modifies dispositions. Over time, agents shape who they become through repeated exercises of selection. The [attentional economics](/concepts/attentional-economics/) framework deepens this: developing attentional skill is itself an exercise of agency. Agents are responsible not just for individual choices but for cultivating or neglecting the capacity to choose well. The [full moral implications](/topics/moral-implications-of-genuine-agency/) extend beyond desert to encompass obligation, moral luck, and the demands genuine agency places on moral theory.
 
 ## Synthesis
 

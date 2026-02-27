@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -173,7 +173,7 @@ This isn't a guarantee of authenticity. Philosophical sophistication can itself 
 
 ## Authentic Choice and Moral Responsibility
 
-The authenticity distinction bears on [moral-responsibility](/concepts/moral-responsibility/). If authentic choice engages genuine agency while inauthentic choice runs on automatic processing, the moral significance of each differs.
+The authenticity distinction bears on [moral-responsibility](/concepts/moral-responsibility/) and the [broader moral implications of genuine agency](/topics/moral-implications-of-genuine-agency/). If authentic choice engages genuine agency while inauthentic choice runs on automatic processing, the moral significance of each differs.
 
 ### Responsibility Requires Authorship
 
@@ -229,6 +229,7 @@ The authentic-inauthentic framework would face difficulty if:
 - [personal-identity](/topics/personal-identity/) — What makes the "self" that authenticates choice
 - [haecceity](/concepts/haecceity/) — The unrepeatable thisness of the choosing subject
 - [moral-responsibility](/concepts/moral-responsibility/) — How authenticity bears on desert
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The full moral landscape when agency is genuine
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

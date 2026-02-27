@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -180,7 +180,7 @@ The [phenomenology of effort](/concepts/mental-effort/) provides supporting evid
 
 Free will requires [personal-identity](/topics/personal-identity/): there must be a *you* doing the authoring. The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes indexical identity: *this* conscious being matters. If you are an unrepeatable conscious being with a unique causal history of selections, your choices are genuinely *yours*—each decision adds to the particular causal chain constituting your life.
 
-If agents genuinely author their choices, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical grounding: desert tracks something real about who caused what, not merely a useful social fiction.
+If agents genuinely author their choices, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical grounding: desert tracks something real about who caused what, not merely a useful social fiction. The [moral implications](/topics/moral-implications-of-genuine-agency/) extend further—to obligation, character as self-creation, and the demands genuine agency places on moral theory.
 
 ## What Would Challenge This Framework?
 
@@ -241,6 +241,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables creative distinctiveness
 - [dream-consciousness](/topics/dream-consciousness/) — Dream evidence for consciousness's causal role in problem-solving
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms obligation, character, and the moral landscape
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [existentialism](/concepts/existentialism/) — How Sartre's pour-soi illuminates agent causation
 - [causal-interface](/voids/causal-interface/) — Why the mechanism of consciousness-physics interaction is systematically invisible

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-24 00:51:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -175,6 +175,7 @@ The moral implications extend in both directions. Where most discussions of grad
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Existentialist perspective on how consciousness engages with selection
 - [moral-perception](/concepts/moral-perception/) — How attention shapes the capacity to perceive moral reasons
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Why consciousness must be causally efficacious, grounding the gradient's moral weight
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The broader moral landscape when agency is genuine
 - [free-will](/topics/free-will/) — The broader framework of agency and determinism
 
 ## References

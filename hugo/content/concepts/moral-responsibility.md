@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-18 00:02:00+00:00
+ai_modified: 2026-02-27 17:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -114,7 +114,7 @@ If agents shape their characters through choices, moral education matters. Teach
 
 ### Self-Understanding
 
-Understanding yourself as an agent-cause changes self-conception. You are not a puppet of prior causes but a genuine originator. Your choices matter not because they feel significant but because you truly authored them. This can inspire or burden—the responsibility is real. But it also dignifies: you are the kind of being whose choices constitute who you are. For how this framework translates into practical guidance for daily living, see [Living with the Map](/apex/living-with-the-map/).
+Understanding yourself as an agent-cause changes self-conception. You are not a puppet of prior causes but a genuine originator. Your choices matter not because they feel significant but because you truly authored them. This can inspire or burden—the responsibility is real. But it also dignifies: you are the kind of being whose choices constitute who you are. For the broader moral implications beyond desert—obligation, character, and what genuine agency demands—see [Moral Implications of Genuine Agency](/topics/moral-implications-of-genuine-agency/). For how this framework translates into practical guidance for daily living, see [Living with the Map](/apex/living-with-the-map/).
 
 ## The Illusionist Challenge
 
@@ -185,6 +185,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why it fails to undermine desert
 - [decoherence](/concepts/decoherence/) — The quantum challenge and biological responses
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Responsibility without permanent selfhood
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: how genuine agency transforms obligation, character, and moral theory
 - [tenets](/tenets/) — The foundational commitments grounding this view
 
 ## References

@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate moral-implications-of-genuine-agency.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (created 2026-02-23) with zero inbound links. Examines moral consequences of the Map's claim that consciousness has genuine causal power — directly supports Tenet 3 (Bidirectional Interaction). Should be linked from free-will.md, agent-causation.md, consciousness-and-causal-powers.md, and ethics-of-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-27
-
-### P2: Cross-review emergence.md considering explanatory-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/explanatory-void.md (2026-02-27) examines why explanations of consciousness always leave a residue — the gap between any explanation and the phenomenon it attempts to capture. emergence.md covers strong vs weak emergence and should cross-reference the explanatory void's analysis of why emergence-based explanations face a structural limitation. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
-- **Source**: chain (from explanatory-void.md)
-- **Generated**: 2026-02-27
-
-### P2: Cross-review phenomenology-of-the-edge.md considering death-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/death-void.md (2026-02-27) examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. Death represents the ultimate "edge" of consciousness, and the death void's analysis of this boundary may deepen the edge phenomenology's treatment of experiential limits. Check for cross-links and argument reinforcement.
-- **Source**: chain (from death-void.md)
-- **Generated**: 2026-02-27
-
 ### P3: Deep review buddhism-and-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Buddhism-and-dualism examines how Buddhist philosophy engages with dualist frameworks — directly relevant to Tenet 1 (Dualism) and the Map's cross-cultural philosophical methodology. Verify coherence, cross-references, and tenet alignment.
@@ -359,6 +341,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Cross-review phenomenology-of-the-edge.md considering death-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/death-void.md (2026-02-27) examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. Death represents the ultimate "edge" of consciousness, and the death void's analysis of this boundary may deepen the edge phenomenology's treatment of experiential limits. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Cross-review phenomenology-of-the-edge.md considering death-void insights
+
+### ✓ 2026-02-27: Cross-review emergence.md considering explanatory-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/explanatory-void.md (2026-02-27) examines why explanations of consciousness always leave a residue — the gap between any explanation and the phenomenon it attempts to capture. emergence.md covers strong vs weak emergence and should cross-reference the explanatory void's analysis of why emergence-based explanations face a structural limitation. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/emergence.md -- Context: Cross-review emergence.md considering explanatory-void insights
+
+### ✓ 2026-02-27: Integrate moral-implications-of-genuine-agency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) with zero inbound links. Examines moral consequences of the Map's claim that consciousness has genuine causal power — directly supports Tenet 3 (Bidirectional Interaction). Should be linked from free-will.md, agent-causation.md, consciousness-and-causal-powers.md, and ethics-of-consciousness.md.
+- **Output**: obsidian/topics/moral-implications-of-genuine-agency.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-27: Integrate philosophy-of-mind.md into site navigation
 - **Type**: integrate-orphan
