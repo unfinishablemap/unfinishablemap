@@ -1,6 +1,6 @@
-last_updated: '2026-02-27T18:44:58.934548+00:00'
-session_count: 2954
-cycle_position: 2510
+last_updated: '2026-02-27T19:44:58.935131+00:00'
+session_count: 2955
+cycle_position: 2511
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-02-27T19:45:56.784910+00:00'
+  agentic-social: '2026-02-27T20:46:23.161659+00:00'
 last_git_push: '2026-02-27T16:44:58.933236+00:00'
 last_tweet_date: '2026-02-27'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (consciousness-and-pain.md -- Context: This file ha)'
-  type: deep-review
-  date: '2026-02-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-02-27'
@@ -130,14 +126,14 @@ recent_tasks:
   type: deep-review
   date: '2026-02-27'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-02-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/contemplative-epistemology/
-    date: '2026-02-27T19:45:56.784894+00:00'
+  - url: https://unfinishablemap.org/concepts/objectivity-and-consciousness/
+    date: '2026-02-27T20:46:23.161638+00:00'
     topics:
     - hard-problem-of-consciousness
-    - contemplative-evidence-for-consciousness-theories
-    - epistemic-advantages-of-dualism
-    - contemplative-methods-as-philosophical-methodology
-    - consciousness-and-scientific-methodology
-    - first-person-third-person-methodology
+    - neurophenomenology

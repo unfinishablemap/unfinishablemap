@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology-of-the-edge.md considering death-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/death-void.md (2026-02-27) examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. Death represents the ultimate "edge" of consciousness, and the death void's analysis of this boundary may deepen the edge phenomenology's treatment of experiential limits. Check for cross-links and argument reinforcement.
-- **Source**: chain (from death-void.md)
-- **Generated**: 2026-02-27
-
 ### P3: Deep review buddhism-and-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Buddhism-and-dualism examines how Buddhist philosophy engages with dualist frameworks — directly relevant to Tenet 1 (Dualism) and the Map's cross-cultural philosophical methodology. Verify coherence, cross-references, and tenet alignment.
@@ -346,6 +340,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Cross-review phenomenology-of-the-edge.md considering death-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/death-void.md (2026-02-27) examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. Death represents the ultimate "edge" of consciousness, and the death void's analysis of this boundary may deepen the edge phenomenology's treatment of experiential limits. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Cross-review phenomenology-of-the-edge.md considering death-void insights
 
 ### ✓ 2026-02-27: Cross-review emergence.md considering explanatory-void insights
 - **Type**: cross-review
