@@ -2,11 +2,11 @@
 title: "Tenet-Generated Voids"
 description: "Human+AI cartography of the questions each foundational commitment necessarily leaves unanswered—intellectual honesty as methodology."
 created: 2026-01-26
-modified: 2026-02-24
+modified: 2026-02-27
 human_modified: null
-ai_modified: 2026-02-24T21:26:00+00:00
+ai_modified: 2026-02-27T04:46:00+00:00
 draft: false
-last_deep_review: 2026-02-24T21:26:00+00:00
+last_deep_review: 2026-02-27T04:46:00+00:00
 topics: []
 concepts:
   - "[[interactionist-dualism]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[substrate-void]]"
   - "[[the-surplus-void]]"
   - "[[the-givenness-void]]"
+  - "[[dissolution-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -57,9 +58,9 @@ The phenomenology of this void: hitting a wall when trying to articulate the nat
 
 **What it cannot answer**: *How* does a non-physical influence bias quantum probabilities?
 
-The tenet postulates an interface between consciousness and physics but cannot explain how something non-physical—by definition lacking physical properties—can alter probability distributions over physical outcomes. Candidate mechanisms—[[quantum-consciousness|Orch OR]] in microtubules, Stapp's quantum Zeno approach with mental attention as repeated observation—each leave a placeholder at the crucial point: consciousness → [?] → quantum bias.
+The tenet postulates an interface between consciousness and physics but cannot explain how something non-physical—by definition lacking physical properties—can alter probability distributions over physical outcomes. Candidate mechanisms—[[quantum-consciousness|Orch OR]], Stapp's quantum Zeno approach—each leave a placeholder at the crucial point: consciousness → [?] → quantum bias.
 
-The placeholder refuses to fill because explaining it would require showing causal relations between physical and non-physical realms. Causal relations, as we understand them, involve physical processes. The mechanism lies outside our conceptual resources.
+The placeholder refuses to fill because explaining it would require showing causal relations between physical and non-physical realms—and causal relations, as we understand them, involve only physical processes.
 
 ### Bidirectional Interaction: The Detection Void
 
@@ -97,7 +98,7 @@ This is the most reflexive void. The tenet that permits acknowledging limits is 
 
 Some voids emerge from the *interaction* between tenets rather than individual commitments.
 
-**The Coherence Void**: Do the five tenets form a consistent system? The Map argues they do, but consistency is difficult to prove for informal frameworks. Gödelian considerations suggest sufficiently rich systems contain propositions whose truth cannot be decided within the system. The Map's consistency may be such a proposition—meaningful to ask, impossible to determine from inside.
+**The Coherence Void**: Do the five tenets form a consistent system? Consistency is difficult to prove for informal frameworks, and Gödelian considerations suggest sufficiently rich systems contain undecidable propositions. The Map's consistency may be such a proposition—meaningful to ask, impossible to determine from inside.
 
 **The Completeness Void**: Are five tenets enough? Too many? The Map provides no meta-criterion for what foundational commitments are necessary. A sixth tenet might resolve some voids; the five might contain invisible contradictions. The framework cannot specify its own boundaries.
 
@@ -105,7 +106,7 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 ## The Nature of These Limits
 
-These voids are predominantly **Unexplorable** rather than merely Unexplored:
+These voids are predominantly **Unexplorable** rather than merely Unexplored (though the [[dissolution-problem|dissolution problem]] cautions that persistence alone never proves permanence):
 
 The interaction problem has persisted since Princess Elisabeth posed it to Descartes in 1643, suggesting structural difficulty rather than insufficient effort.
 
@@ -172,6 +173,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[substrate-void|The Substrate Void]] — What consciousness is made of (the Nature Void in depth)
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires
 - [[the-givenness-void|The Givenness Void]] — Why experience presents as immediately given
+- [[dissolution-problem|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 
 ## References
