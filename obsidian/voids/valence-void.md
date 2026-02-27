@@ -9,7 +9,7 @@ draft: false
 last_deep_review:
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-pain]]"
+  - "[[why-pain-hurts]]"
 concepts:
   - "[[valence]]"
   - "[[qualia]]"

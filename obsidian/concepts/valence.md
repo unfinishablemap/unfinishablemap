@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-20T19:36:00+00:00
+ai_modified: 2026-02-26T23:57:00+00:00
 draft: false
 topics:
   - "[[emotional-consciousness]]"
@@ -89,7 +89,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 - [[phenomenal-consciousness]] — The subjective, felt aspect of mental states
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
-- [[consciousness-and-pain]] — Extended treatment of pain and conscious experience
+- [[why-pain-hurts]] — Extended treatment of pain and conscious experience
 - [[suffering-versus-pain]] — Why suffering and pain are not the same phenomenon
 - [[normative-phenomenology]] — How phenomenal properties ground normative claims
 

@@ -4,10 +4,10 @@ description: "Pain asymbolia empirically dissociates sensation from suffering, f
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-23T00:28:00+00:00
+ai_modified: 2026-02-26T23:57:00+00:00
 draft: false
 topics:
-  - "[[consciousness-and-pain]]"
+  - "[[why-pain-hurts]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenology-of-pain]]"
 concepts:
@@ -106,7 +106,6 @@ What asymbolia discriminates between is not individual theories but *categories*
 ## Further Reading
 
 - [[pain-asymbolia]] — The clinical condition and its philosophical significance
-- [[consciousness-and-pain]] — Pain as the paradigm case for mental causation
 - [[phenomenology-of-pain]] — Pain's phenomenal character and resistance to reduction
 - [[suffering-versus-pain]] — The dissociation that asymbolia makes clinical
 - [[why-pain-hurts]] — Why phenomenal character and causal power are inseparable in pain

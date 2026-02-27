@@ -4,12 +4,12 @@ description: "Pain and suffering come apart in ways that reveal consciousness as
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-19T19:36:00+00:00
+ai_modified: 2026-02-26T23:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenology-of-pain]]"
-  - "[[consciousness-and-pain]]"
+  - "[[why-pain-hurts]]"
   - "[[emotional-consciousness]]"
 concepts:
   - "[[qualia]]"
@@ -93,7 +93,7 @@ Third, suffering varies with meaning in ways that track consciousness rather tha
 ## Further Reading
 
 - [[phenomenology-of-pain]] — Pain's phenomenal character and resistance to reduction
-- [[consciousness-and-pain]] — Pain as the paradigm case for mental causation
+- [[why-pain-hurts]] — Pain as the paradigm case for mental causation
 - [[emotional-consciousness]] — Valence as an intrinsic property of experience
 - [[topics/phenomenal-value-realism]] — How phenomenal properties ground objective value
 - [[consciousness-and-causal-powers]] — The nature and scope of consciousness's causal role

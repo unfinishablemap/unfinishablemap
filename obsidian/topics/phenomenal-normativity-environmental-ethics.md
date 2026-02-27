@@ -4,7 +4,7 @@ description: "If value requires consciousness, what grounds environmental obliga
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-22T13:11:00+00:00
+ai_modified: 2026-02-26T23:57:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[meaning-of-life]]"
   - "[[phenomenology-of-normative-properties]]"
   - "[[aesthetic-dimension-of-consciousness]]"
-  - "[[consciousness-and-pain]]"
+  - "[[why-pain-hurts]]"
   - "[[free-will]]"
   - "[[downward-causation]]"
 ai_contribution: 100
@@ -108,7 +108,7 @@ The [[phenomenology-of-normative-properties|phenomenology of normative demands]]
 
 Phenomenal normativity generates specific environmental commitments:
 
-**Factory farming is the largest source of preventable conscious suffering on Earth.** Sentientism treats this as a moral emergency, not an externality. The [[consciousness-and-pain|inseparability of consciousness and pain]]—the fact that felt awfulness constitutively drives behaviour—means these animals are not merely in states correlated with suffering; they are suffering. Environmental ethics focused on carbon footprints or land use misses the primary harm: billions of conscious beings experiencing lives of sustained negative valence.
+**Factory farming is the largest source of preventable conscious suffering on Earth.** Sentientism treats this as a moral emergency, not an externality. The [[why-pain-hurts|inseparability of consciousness and pain]]—the fact that felt awfulness constitutively drives behaviour—means these animals are not merely in states correlated with suffering; they are suffering. Environmental ethics focused on carbon footprints or land use misses the primary harm: billions of conscious beings experiencing lives of sustained negative valence.
 
 **Habitat destruction must be evaluated through its impact on conscious beings,** not solely through biodiversity metrics or ecosystem services. A development that displaces a hundred conscious animals causes moral harm even if ecosystem function is preserved.
 
@@ -140,7 +140,7 @@ The Map's tenets shape environmental ethics distinctively:
 - [[aesthetic-dimension-of-consciousness]] — Aesthetic normativity beyond hedonic valence
 - [[phenomenology-of-normative-properties]] — How normative demands present in experience
 - [[moral-perception]] — Direct apprehension of moral properties
-- [[consciousness-and-pain]] — Why pain's awfulness is constitutive, not correlative
+- [[why-pain-hurts]] — Why pain's awfulness is constitutive, not correlative
 - [[free-will]] — Genuine moral agency and environmental responsibility
 - [[meaning-of-life]] — How consciousness grounds meaning and value
 

@@ -4,7 +4,7 @@ description: "Placebo and nocebo effects demonstrate that beliefs and expectatio
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-18T14:32:00+00:00
+ai_modified: 2026-02-26T23:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[tenets]]"
-  - "[[consciousness-and-pain]]"
+  - "[[why-pain-hurts]]"
   - "[[predictive-processing-and-the-maps-framework]]"
   - "[[phenomenology-of-anticipation]]"
 ai_contribution: 100
@@ -73,7 +73,7 @@ This explanation handles simple cases well. But it faces pressure from content-s
 
 Yet even granting this, a question remains. If conscious experience is epiphenomenal — a causally inert byproduct — then the phenomenal character of the belief (what it *feels like* to expect pain relief) is irrelevant to which physiological cascade occurs. The functional role alone does the work. But then it becomes puzzling why phenomenal content tracks functional role so precisely, and why disrupting the conscious understanding (through contradictory information, for instance) alters the physiological outcome. The epiphenomenalist must treat this tight correlation as coincidental or as a brute fact about [[psychophysical-laws-bridging-mind-and-matter|psychophysical laws]]. The Map suggests a more parsimonious reading: the correlation exists because conscious content is causally involved.
 
-Evidence from [[pain-asymbolia]] reinforces this point. Patients with pain asymbolia perceive pain but lack its unpleasant phenomenal character — and they fail to exhibit normal avoidance behaviour. The phenomenal quality, not merely the information, appears to drive the physiological and behavioural response. Placebo effects and [[consciousness-and-pain|pain phenomena]] converge on the same conclusion: strip away the phenomenal dimension and the causal profile changes.
+Evidence from [[pain-asymbolia]] reinforces this point. Patients with pain asymbolia perceive pain but lack its unpleasant phenomenal character — and they fail to exhibit normal avoidance behaviour. The phenomenal quality, not merely the information, appears to drive the physiological and behavioural response. Placebo effects and [[why-pain-hurts|pain phenomena]] converge on the same conclusion: strip away the phenomenal dimension and the causal profile changes.
 
 The [[choking-phenomenon-mental-causation|choking phenomenon]] provides complementary evidence: conscious attention degrades automatised performance, demonstrating that consciousness *interferes* with physical processes. Placebo effects provide the positive counterpart — consciousness *directs* physical processes toward specific outcomes determined by belief content.
 
