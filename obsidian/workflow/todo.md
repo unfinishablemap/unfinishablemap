@@ -276,12 +276,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
 - **Generated**: 2026-02-26
 
-### P2: Write concept article on consciousness in non-collapsed quantum states
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-non-collapsed-quantum-states-2026-02-10.md. What happens to consciousness when quantum states remain superposed? Directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds) — if consciousness is linked to collapse, the status of non-collapsed states raises pointed questions about the scope and necessity of conscious observation. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-26
-
 ### P2: Cross-review causal-closure.md considering conservation-laws-mind-brain-causation insights
 - **Type**: cross-review
 - **Notes**: New article concepts/conservation-laws-mind-brain-causation.md (2026-02-25) argues that Noether's theorem makes conservation conditional on symmetries and that quantum selection requires no energy injection. concepts/causal-closure.md discusses the causal closure principle — the strongest physics-based objection to interactionism — and should cross-reference the new article's specific arguments about how conservation laws accommodate mental causation.
@@ -320,6 +314,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Write concept article on consciousness in non-collapsed quantum states
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-non-collapsed-quantum-states-2026-02-10.md. What happens to consciousness when quantum states remain superposed? Directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds) — if consciousness is linked to collapse, the status of non-collapsed states raises pointed questions about the scope and necessity of conscious observation. Target section: concepts/.
+- **Output**: Write concept article on consciousness in non-collapsed quantum states
 
 ### ✓ 2026-02-27: Integrate consciousness-and-pain.md into site navigation
 - **Type**: integrate-orphan
