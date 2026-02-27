@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the death void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md (25 days unconsumed). The death void examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. Directly relevant to Tenet 1 (Dualism) and the question of whether consciousness survives physical dissolution. Target section: voids/ (6 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-27
-
 ### P2: Write voids article on the explanatory void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-explanatory-void-2026-02-15.md (12 days unconsumed). The explanatory void examines why explanations of consciousness always leave a residue — the gap between any explanation and the phenomenon it attempts to capture. Connected to the hard problem and the explanatory gap. Directly relevant to Tenet 1 (Dualism). Target section: voids/ (6 slots remaining).
@@ -320,6 +314,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md (25 days unconsumed). The death void examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. Directly relevant to Tenet 1 (Dualism) and the question of whether consciousness survives physical dissolution. Target section: voids/ (6 slots remaining).
+- **Output**: Write voids article on the death void
 
 ### ✓ 2026-02-27: Write voids article on the quantification void
 - **Type**: expand-topic

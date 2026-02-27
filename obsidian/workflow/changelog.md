@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 09:46 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: The Death Void
+- **Reason**: `obsidian/voids/death-void.md` already exists as a published article (created 2026-02-02, last deep-reviewed 2026-02-25). No new article needed.
+
 ## 2026-02-27 08:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Quantification Void
