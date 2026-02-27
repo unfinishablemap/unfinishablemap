@@ -4,7 +4,8 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-02-27T14:46:00+00:00
+ai_modified: 2026-02-27T19:46:00+00:00
+last_deep_review: 2026-02-27T19:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,6 +47,8 @@ This strategy misses the forest for the trees. Seven or more independent argumen
 
 The arguments exploit genuinely different features of consciousness. The explanatory gap concerns the absence of transparent connections between physical and phenomenal properties. The knowledge argument concerns the incompleteness of physical information. The conceivability argument concerns the logical separability of physics and experience. Arguments from qualia concern intrinsic qualitative character. The subjectivity argument concerns the irreducibility of perspective. The unity argument concerns the composition of conscious subjects from physical parts. The argument from reason concerns the normative character of inference. Each identifies a distinct aspect of experience that materialism struggles to accommodate.
 
+A materialist might object that these arguments share a hidden flaw—perhaps a common reliance on unreliable intuitions about consciousness. But this objection would need to identify a single error that explains away arguments from information incompleteness, logical possibility, normativity of inference, unity of subjects, and qualitative character simultaneously. The diversity of premises is precisely what makes the convergence significant.
+
 For detailed treatment of each argument, see [[the-case-for-dualism]].
 
 ## Why Materialism Cannot Close the Gap
@@ -70,7 +73,7 @@ Academic philosophy rewards research programs that produce results. Materialism 
 
 ### The Parsimony Illusion
 
-[[concepts/materialism|Materialism]] seems simpler: one kind of stuff instead of two. But parsimony arbitrates between theories of equal explanatory power. A "simpler" theory that fails to explain the data has not earned the parsimony discount. Materialism does not explain phenomenal consciousness—it either denies it (eliminativism), redefines it (functionalism), or defers it (future science). None of these is an explanation.
+[[concepts/materialism|Materialism]] seems simpler: one kind of stuff instead of two. But parsimony arbitrates between theories of equal explanatory power. A "simpler" theory that fails to explain the data has not earned the parsimony discount. Materialism does not explain phenomenal consciousness—it either denies it (eliminativism), redefines it functionally while setting aside qualitative character, appeals to the [[phenomenal-concepts-strategy]] to explain away the gap as a feature of our *concepts* rather than of reality, or defers it (future science). None of these is an explanation.
 
 The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly: simplicity is an unreliable guide when knowledge is incomplete. The apparent simplicity of materialism may reflect what we are *ignoring* rather than what we have *explained*. See [[epistemological-limits-of-occams-razor]] for the full case.
 
@@ -94,9 +97,13 @@ This leaves the question open. If consciousness is not reducible to the physical
 
 The arguments do not force this particular conclusion, but they rule out the position that dominates the field. They establish that consciousness has features—qualitative character, subjectivity, unity, intentionality, normative significance—that physical description cannot capture. Whatever positive account of consciousness one adopts must take these features seriously.
 
+## What Would Challenge This View?
+
+The case against materialism would weaken if a transparent physical explanation of phenomenal character were found—not a neural correlate, but an account showing *why* particular physical processes feel a particular way. It would also weaken if someone could explain why multiple independent arguments all generate the same false conclusion, or if rational inference could be fully grounded in physical causation without smuggling in normative concepts. None of these conditions has been met. But intellectual honesty demands acknowledging that they are conditions that could in principle be met.
+
 ## The Self-Undermining Problem
 
-One argument deserves special attention because it threatens materialism's coherence rather than just its completeness. The [[argument-from-reason]] holds that if all beliefs are products of purely physical causation—electrochemical processes following physical laws—then no belief is held *because* the evidence supports it. Physical causes are not responsive to logical norms. If your belief in materialism is fully explained by neural events that have no sensitivity to whether materialism is true, then you have no rational justification for holding it.
+One argument deserves special attention because it threatens materialism's coherence rather than just its completeness. The [[argument-from-reason]] holds that if all beliefs are products of purely physical causation—electrochemical processes following the laws of [[causal-closure|causal closure]]—then no belief is held *because* the evidence supports it. Physical causes are not responsive to logical norms. If your belief in materialism is fully explained by neural events that have no sensitivity to whether materialism is true, then you have no rational justification for holding it.
 
 Materialists respond with reliabilism: evolution produced brains that track truth. But this response presupposes normative concepts (what it means to "track truth") and faces Alvin Plantinga's evolutionary argument: natural selection optimises for survival, not accurate metaphysics. There is no evolutionary pressure to form correct views about the nature of consciousness.
 
