@@ -61,7 +61,7 @@ topics: []
 - Fixed factual details (lecture dates, page numbers, title consistency)
 
 ### Cross-links Added
-- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/) (replacing broken temporal-asymmetry-remembering-anticipating)
+- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/) (replacing broken temporal-asymmetry-remembering-anticipating)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) (added to Further Reading)
 - [explanatory-gap](/concepts/explanatory-gap/) (added to frontmatter concepts)
 - [philosophical-zombies](/concepts/philosophical-zombies/) (added to frontmatter concepts)

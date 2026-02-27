@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Consciousness and Temporal Asymmetry](/topics/consciousness-and-temporal-asymmetry/)
+**Article**: [Consciousness and Temporal Asymmetry](/topics/consciousness-and-temporal-becoming/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

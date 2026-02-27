@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-17
 ai_modified: 2026-02-21 07:36:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Consciousness and Temporal Becoming
+archived: true
+archived_date: 2026-02-27 21:54:00+00:00
 author: null
 concepts:
 - '[[duration]]'
@@ -25,6 +28,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-02-21 07:36:00+00:00
 modified: *id001
+original_path: /topics/consciousness-and-temporal-creativity/
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-creative-distinctiveness]]'
@@ -34,6 +38,7 @@ related_articles:
 - '[[non-temporal-consciousness]]'
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 - '[[temporal-structure-consciousness-2026-01-14]]'
+superseded_by: /topics/consciousness-and-temporal-becoming/
 title: Consciousness and Temporal Creativity
 topics:
 - '[[topics/free-will]]'

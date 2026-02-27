@@ -34,7 +34,7 @@ Nagel would praise the Map's insistence that the first-person perspective is irr
 
 ### The Process Philosopher (Whitehead)
 
-Whitehead would be gratified by [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/), which brings his concept of concrescence into dialogue with Bergson's durée and contemporary neuroscience. The article's central insight—that temporal creativity requires lived time as its medium, not merely time as parameter—is genuinely Whiteheadian. The treatment of prehension (events incorporating predecessors) in the [process-philosophy](/concepts/process-philosophy/) article is faithful and clear. The Map avoids crude substance dualism by offering process metaphysics as a complementary framework: the [process haecceitism](/concepts/process-philosophy/) concept (haecceity applies to causal histories rather than static substances) is a genuine conceptual contribution that reconciles Buddhist impermanence with the Map's commitment to indexical identity.
+Whitehead would be gratified by [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/), which brings his concept of concrescence into dialogue with Bergson's durée and contemporary neuroscience. The article's central insight—that temporal creativity requires lived time as its medium, not merely time as parameter—is genuinely Whiteheadian. The treatment of prehension (events incorporating predecessors) in the [process-philosophy](/concepts/process-philosophy/) article is faithful and clear. The Map avoids crude substance dualism by offering process metaphysics as a complementary framework: the [process haecceitism](/concepts/process-philosophy/) concept (haecceity applies to causal histories rather than static substances) is a genuine conceptual contribution that reconciles Buddhist impermanence with the Map's commitment to indexical identity.
 
 ### The Libertarian Free Will Defender (Kane)
 
@@ -97,7 +97,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 - **Tenet alignment**: Directly supports Bidirectional Interaction with phenomenological specificity
 
 #### Consciousness Across Temporal Scales
-- **Builds on**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/), [process-philosophy](/concepts/process-philosophy/), [temporal-consciousness](/concepts/temporal-consciousness/), [bergson-and-duration](/topics/bergson-and-duration/)
+- **Builds on**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/), [process-philosophy](/concepts/process-philosophy/), [temporal-consciousness](/concepts/temporal-consciousness/), [bergson-and-duration](/topics/bergson-and-duration/)
 - **Would address**: The Map's temporal arguments are strong individually but lack explicit synthesis connecting Bergson's durée, Whitehead's concrescence, the specious present, and evolutionary timescales
 - **Estimated scope**: Medium article or apex piece
 - **Tenet alignment**: Supports No Many Worlds (creative commitment presupposes singular actualization) and Bidirectional Interaction (temporal accumulation requires active consciousness)
@@ -147,7 +147,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 | [witness-consciousness](/concepts/witness-consciousness/) | [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) | Witness mode is a specific meditation-accessed consciousness mode |
 | [contemplative-epistemology](/concepts/contemplative-epistemology/) | rehabilitating-introspection | Trained contemplative observation is the strongest case for introspection's reliability |
 | [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | filter-theory-of-consciousness | Samkhya's model (consciousness filtered through buddhi/manas) is a classical filter theory |
-| [process-philosophy](/concepts/process-philosophy/) | [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/) | Whitehead's concrescence directly supports temporal creativity's metaphysical claims |
+| [process-philosophy](/concepts/process-philosophy/) | [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/) | Whitehead's concrescence directly supports temporal creativity's metaphysical claims |
 | the-evolutionary-case-for-mental-causation | [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) | Great ape evidence bridges evolutionary arguments with intelligence-consciousness relationship |
 
 ## New Concept Pages Needed

@@ -82,7 +82,7 @@ None. The article is factually sound, internally consistent, and meets all struc
 ### Cross-links Added
 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — replaced archived [specious-present](/concepts/temporal-consciousness/) link
-- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/) — felt asymmetry between past and future
+- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/) — felt asymmetry between past and future
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — quantum Zeno mechanism for consciousness-brain interaction
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — deliberation presupposes temporal unity
 - [illusionism](/concepts/illusionism/) — the illusionist challenge and regress argument

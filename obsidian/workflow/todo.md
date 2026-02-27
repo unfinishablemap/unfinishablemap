@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced temporal articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/consciousness-and-temporal-becoming.md from consciousness-and-temporal-asymmetry and consciousness-and-temporal-creativity. The following files reference archived articles and need wikilinks updated: concepts/temporal-phenomenology-quantum-selection.md, concepts/temporal-consciousness.md, topics/growing-block-universe-and-consciousness.md, topics/temporal-ontology-and-consciousness.md, concepts/protention.md, topics/phenomenology-of-temporal-attention.md
+- **Source**: coalesce
+- **Generated**: 2026-02-27
+
 ### P2: Cross-review materialism.md considering arguments-against-materialism insights
 - **Type**: cross-review
 - **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the strongest arguments against materialism — the knowledge argument, conceivability arguments, the hard problem's anti-materialist force, and the argument from reason. concepts/materialism.md describes the materialist position and should cross-reference this new critical treatment. Check for cross-links and ensure materialism.md acknowledges the strongest objections. Supports Tenet 1 (Dualism).

@@ -64,7 +64,7 @@ None identified. All philosopher attributions verified:
 Added `[temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/)` to both `related_articles` frontmatter and Further Reading sections of:
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
-- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/)
+- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [philosophy-of-time](/concepts/philosophy-of-time/) (concept)

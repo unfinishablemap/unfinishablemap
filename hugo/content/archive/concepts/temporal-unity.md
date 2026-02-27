@@ -110,7 +110,7 @@ These dissociations support the view that temporal unity is a distinct phenomena
 - [varieties-of-unity](/concepts/unity-of-consciousness/) — Taxonomy: synchronic, diachronic, and subject unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Consciousness and time: specious present, durée, AI implications
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into a temporal stream
-- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/) — The felt asymmetry between settled past and open future
+- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/) — The felt asymmetry between settled past and open future
 - [binding-problem](/concepts/binding-problem/) — Spatial/feature binding as temporal unity's counterpart
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in constituting time's arrow
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno model of consciousness–brain interaction

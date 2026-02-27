@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-02-19T10:21:00+00:00
 last_deep_review: 2026-02-19T10:21:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-27T21:54:00+00:00
+superseded_by: "/topics/consciousness-and-temporal-becoming/"
+archive_reason: "Coalesced into Consciousness and Temporal Becoming"
+original_path: "/topics/consciousness-and-temporal-asymmetry/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

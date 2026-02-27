@@ -71,7 +71,7 @@ All six adversarial personas engaged:
 - Added consciousness-and-temporal-asymmetry to frontmatter related_articles
 
 ### Cross-links Added
-- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/)
+- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/)
 - [retrocausality](/concepts/retrocausality/)
 - [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
 

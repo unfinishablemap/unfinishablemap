@@ -129,7 +129,7 @@ What would challenge the framework: evidence that temporal phenomenology is full
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — The measurement problem and consciousness
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it is like to choose
 - [mental-effort](/concepts/mental-effort/) — The felt cost of sustained attention
-- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/) — Why past and future feel different
+- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/) — Why past and future feel different
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 
 ## References

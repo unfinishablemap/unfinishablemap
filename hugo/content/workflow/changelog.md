@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 21:54 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/), [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/)
+- **Target**: [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/)
+- **Archived**: [consciousness-and-temporal-asymmetry](/archive/topics/consciousness-and-temporal-asymmetry/), [consciousness-and-temporal-creativity](/archive/topics/consciousness-and-temporal-creativity/)
+- **References to review**: 6 files (temporal-phenomenology-quantum-selection, temporal-consciousness, growing-block-universe-and-consciousness, temporal-ontology-and-consciousness, protention, phenomenology-of-temporal-attention)
+
 ## 2026-02-27 20:46 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)

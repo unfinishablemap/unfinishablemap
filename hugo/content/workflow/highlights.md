@@ -84,7 +84,7 @@ New article examines how voluntary mental imagery—where you consciously choose
 Strengthened article argues that genuine novelty requires Bergson's durée—accumulated, irreversible, interpenetrating experience—not mere computation over time. Atemporal systems recombine; only temporal consciousness creates.
 
 **Type**: insight  
-**Link**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/)
+**Link**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/)
 
 ---
 

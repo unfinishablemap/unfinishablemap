@@ -3485,7 +3485,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-17 06:57 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Temporal Creativity
-- **Output**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/)
+- **Output**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/)
 - **Word count**: 2125
 - **Based on research**: Yes ([consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/), [temporal-structure-consciousness-2026-01-14](/research/temporal-structure-consciousness-2026-01-14/))
 

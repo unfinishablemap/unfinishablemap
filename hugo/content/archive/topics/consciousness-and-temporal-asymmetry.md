@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-15
 ai_modified: 2026-02-19 10:21:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Consciousness and Temporal Becoming
+archived: true
+archived_date: 2026-02-27 21:54:00+00:00
 author: null
 concepts:
 - '[[temporal-consciousness]]'
@@ -24,6 +27,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-02-19 10:21:00+00:00
 modified: *id001
+original_path: /topics/consciousness-and-temporal-asymmetry/
 related_articles:
 - '[[tenets]]'
 - '[[temporal-ontology-and-consciousness]]'
@@ -36,6 +40,7 @@ related_articles:
 - '[[growing-block-universe-and-consciousness]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[phenomenology-of-memory-and-the-self]]'
+superseded_by: /topics/consciousness-and-temporal-becoming/
 title: Consciousness and Temporal Asymmetry
 topics:
 - '[[hard-problem-of-consciousness]]'

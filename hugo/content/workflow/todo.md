@@ -38,6 +38,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced temporal articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/consciousness-and-temporal-becoming.md from consciousness-and-temporal-asymmetry and consciousness-and-temporal-creativity. The following files reference archived articles and need wikilinks updated: concepts/temporal-phenomenology-quantum-selection.md, concepts/temporal-consciousness.md, topics/growing-block-universe-and-consciousness.md, topics/temporal-ontology-and-consciousness.md, concepts/protention.md, topics/phenomenology-of-temporal-attention.md
+- **Source**: coalesce
+- **Generated**: 2026-02-27
+
+### P2: Cross-review materialism.md considering arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the strongest arguments against materialism — the knowledge argument, conceivability arguments, the hard problem's anti-materialist force, and the argument from reason. concepts/materialism.md describes the materialist position and should cross-reference this new critical treatment. Check for cross-links and ensure materialism.md acknowledges the strongest objections. Supports Tenet 1 (Dualism).
+- **Source**: chain (from arguments-against-materialism.md)
+- **Generated**: 2026-02-27
+
+### P2: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/quantification-void.md (2026-02-27) examines why consciousness resists measurement and numerical representation — proxy metrics like IIT's phi and PCI cannot measure the phenomenon itself. concepts/neural-correlates-of-consciousness.md discusses NCC findings and should cross-reference the quantification void's analysis of why neural correlates remain proxies rather than measures. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Source**: chain (from quantification-void.md)
+- **Generated**: 2026-02-27
+
+### P3: Deep review decoherence-and-macroscopic-superposition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-27
+
+### P3: Deep review ethics-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 30 days ago, at the staleness threshold. Central ethics article covering moral status, animal consciousness ethics, and AI consciousness — the foundation for the Map's normative framework. Previously flagged by pessimistic review (2026-02-05) for confidence-uncertainty mismatch. Verify that earlier refinements hold and cross-references are current.
+- **Source**: staleness
+- **Generated**: 2026-02-27
+
+### P3: Deep review witness-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 30 days ago, at the staleness threshold. Covers the witness or observer consciousness concept from contemplative traditions — directly relevant to Tenet 1 (Dualism) and the Map's use of phenomenological evidence from meditation. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-27
+
 ### P3: Deep review buddhism-and-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Buddhism-and-dualism examines how Buddhist philosophy engages with dualist frameworks — directly relevant to Tenet 1 (Dualism) and the Map's cross-cultural philosophical methodology. Verify coherence, cross-references, and tenet alignment.
