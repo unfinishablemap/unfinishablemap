@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 02:46 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Quantification Void
+- **Category**: Unexplorable (Mixed)
+- **Output**: [[research/voids-quantification-void-2026-02-27]]
+- **Key finding**: Phenomenal experience resists quantification at every level — no units, no external instrument, no interpersonal comparison, unreliable introspection, and every proposed metric (Φ, PCI, NCCs) measures correlates rather than consciousness itself. The void appears structural rather than technical, with deep implications for the Map's dualist framework.
+
 ## 2026-02-27 01:46 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Consciousness in Non-Collapsed Quantum States
