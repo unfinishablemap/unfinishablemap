@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the quantification void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-quantification-void-2026-02-27.md (today). The quantification void examines why consciousness resists measurement and numerical representation — a cognitive territory where the tools of quantitative science systematically fail. Directly relevant to Tenet 5 (Occam's Razor Has Limits). Target section: voids/ (6 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-27
-
 ### P2: Write voids article on the death void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md (25 days unconsumed). The death void examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. Directly relevant to Tenet 1 (Dualism) and the question of whether consciousness survives physical dissolution. Target section: voids/ (6 slots remaining).
@@ -326,6 +320,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Write voids article on the quantification void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-quantification-void-2026-02-27.md (today). The quantification void examines why consciousness resists measurement and numerical representation — a cognitive territory where the tools of quantitative science systematically fail. Directly relevant to Tenet 5 (Occam's Razor Has Limits). Target section: voids/ (6 slots remaining).
+- **Output**: Write voids article on the quantification void
 
 ### ✓ 2026-02-27: Cross-review measurement-problem.md considering consciousness-in-non-collapsed-quantum-states insights
 - **Type**: cross-review
