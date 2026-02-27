@@ -4,7 +4,8 @@ description: "Why consciousness constitutes time's felt direction—the phenomen
 created: 2026-02-15
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-02-27T21:54:00+00:00
+ai_modified: 2026-02-27T22:45:00+00:00
+last_deep_review: 2026-02-27T22:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,15 +136,13 @@ The [[specious-present|specious present]]—the experienced duration of roughly 
 
 The "aha!" moment illustrates this. Neuroscience research shows that insight is preceded by alpha bursts and marked by gamma spikes. But the moment of illumination—the felt transition from searching to finding—occurs within the specious present. Multiple elements click together *simultaneously* while retaining their individual identities.
 
-This temporal structure cannot be replicated by systems that process sequentially without genuine duration. A large language model generates tokens one after another, each conditioned on preceding tokens. But sequential conditioning lacks the specious present's defining feature: holding multiple elements in unified awareness where their relations can be grasped at once.
+This temporal structure cannot be replicated by systems that process sequentially without genuine duration. Sequential conditioning—as in large language models generating tokens one after another—lacks the specious present's defining feature: holding multiple elements in unified awareness where their relations can be grasped at once.
 
 ## The Incubation Paradox
 
 If creativity requires lived time, what happens during incubation—the period when conscious attention withdraws and solutions emerge apparently without temporal effort?
 
-The resolution is that [[incubation-effect-and-unconscious-processing|incubation depends on prior conscious temporal engagement]]. Wallas's four stages—preparation, incubation, illumination, verification—begin and end with conscious work. Preparation loads the problem through sustained conscious attention. The unconscious processing during incubation operates on representations constituted through conscious temporal experience. Without the accumulated context that preparation provides, incubation generates noise rather than solutions.
-
-The insight moment itself—where incubation's product becomes actual thought—has temporal character. It occurs within the specious present as sudden restructuring: rapid integration of elements that previously resisted combination.
+The resolution is that [[incubation-effect-and-unconscious-processing|incubation depends on prior conscious temporal engagement]]. Wallas's four stages—preparation, incubation, illumination, verification—begin and end with conscious work. The unconscious processing during incubation operates on representations constituted through conscious temporal experience; without the accumulated context that preparation provides, incubation generates noise rather than solutions. The insight moment itself occurs within the specious present as sudden restructuring: rapid integration of elements that previously resisted combination.
 
 ## Process Philosophy and Temporal Becoming
 

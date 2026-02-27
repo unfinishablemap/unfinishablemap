@@ -4,7 +4,7 @@ description: "Why the growing block theory of time—where past and present exis
 created: 2026-02-11
 modified: 2026-02-11
 human_modified:
-ai_modified: 2026-02-15T14:24:00+00:00
+ai_modified: 2026-02-27T22:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[temporal-ontology-and-consciousness]]"
   - "[[time-collapse-and-agency]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-temporal-asymmetry]]"
+  - "[[consciousness-and-temporal-becoming]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -119,7 +119,7 @@ The growing block connects to all five of the Map's [[tenets]]:
 - [[specious-present]] — The experienced duration of the present moment
 - [[duration]] — Bergson's qualitative lived time
 - [[process-philosophy]] — Whitehead's actual occasions and concrescence
-- [[consciousness-and-temporal-asymmetry]] — Why consciousness constitutes time's felt direction
+- [[consciousness-and-temporal-becoming]] — Why consciousness constitutes time's felt direction
 - [[retrocausality]] — How consciousness might select outcomes atemporally at collapse
 - [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
 - [[time-consciousness-growing-block]] — Apex synthesis of time and consciousness

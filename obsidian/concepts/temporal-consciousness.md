@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-02-22T18:26:00+00:00
+ai_modified: 2026-02-27T22:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ related_articles:
   - "[[process-and-consciousness]]"
   - "[[consciousness-and-temporal-integration]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-temporal-asymmetry]]"
+  - "[[consciousness-and-temporal-becoming]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

@@ -4,7 +4,7 @@ description: "Your theory of time shapes your theory of mind. Deep affinities be
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-22T05:40:00+00:00
+ai_modified: 2026-02-27T22:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[growing-block-universe-and-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-temporal-asymmetry]]"
+  - "[[consciousness-and-temporal-becoming]]"
   - "[[time-collapse-and-agency]]"
   - "[[bergson-and-duration]]"
 ai_contribution: 100
@@ -123,7 +123,7 @@ This article's argument—that temporal ontology and consciousness theories are 
 
 - [[growing-block-universe-and-consciousness]] — Why the growing block best accommodates consciousness
 - [[temporal-structure-of-consciousness]] — How consciousness requires temporal structure
-- [[consciousness-and-temporal-asymmetry]] — Why felt temporal direction requires consciousness
+- [[consciousness-and-temporal-becoming]] — Why felt temporal direction requires consciousness
 - [[time-collapse-and-agency]] — How collapse connects time, consciousness, and free will
 - [[bergson-and-duration]] — Durée as irreducible temporal phenomenology
 - [[philosophy-of-time]] — A-theory, B-theory, and the three major positions

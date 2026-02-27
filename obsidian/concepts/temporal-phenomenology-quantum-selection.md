@@ -4,7 +4,7 @@ description: "The felt structure of time—retention, protention, the specious p
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-24T12:29:00+00:00
+ai_modified: 2026-02-27T22:45:00+00:00
 draft: false
 topics:
   - "[[temporal-structure-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[phenomenology-of-temporal-attention]]"
   - "[[temporal-structure-consciousness-2026-01-14]]"
-  - "[[consciousness-and-temporal-asymmetry]]"
+  - "[[consciousness-and-temporal-becoming]]"
   - "[[quantum-measurement-consciousness-interface]]"
 ai_contribution: 100
 author:
@@ -126,7 +126,7 @@ What would challenge the framework: evidence that temporal phenomenology is full
 - [[quantum-measurement-consciousness-interface]] — The measurement problem and consciousness
 - [[phenomenology-of-choice]] — What it is like to choose
 - [[mental-effort]] — The felt cost of sustained attention
-- [[consciousness-and-temporal-asymmetry]] — Why past and future feel different
+- [[consciousness-and-temporal-becoming]] — Why past and future feel different
 - [[retrocausality]] — Time-symmetric physics and backward causation
 
 ## References
