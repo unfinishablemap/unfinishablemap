@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review emergence.md considering explanatory-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/explanatory-void.md (2026-02-27) examines why explanations of consciousness always leave a residue — the gap between any explanation and the phenomenon it attempts to capture. emergence.md covers strong vs weak emergence and should cross-reference the explanatory void's analysis of why emergence-based explanations face a structural limitation. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
-- **Source**: chain (from explanatory-void.md)
-- **Generated**: 2026-02-27
-
 ### P2: Cross-review phenomenology-of-the-edge.md considering death-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/death-void.md (2026-02-27) examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. Death represents the ultimate "edge" of consciousness, and the death void's analysis of this boundary may deepen the edge phenomenology's treatment of experiential limits. Check for cross-links and argument reinforcement.
@@ -352,6 +346,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Cross-review emergence.md considering explanatory-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/explanatory-void.md (2026-02-27) examines why explanations of consciousness always leave a residue — the gap between any explanation and the phenomenon it attempts to capture. emergence.md covers strong vs weak emergence and should cross-reference the explanatory void's analysis of why emergence-based explanations face a structural limitation. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/emergence.md -- Context: Cross-review emergence.md considering explanatory-void insights
 
 ### ✓ 2026-02-27: Integrate moral-implications-of-genuine-agency.md into site navigation
 - **Type**: integrate-orphan
