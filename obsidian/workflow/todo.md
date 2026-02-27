@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on arguments against materialism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/arguments-against-materialism-2026-01-06.md (52 days unconsumed). A systematic treatment of the strongest arguments against materialism/physicalism is a critical gap — the Map's dualist position (Tenet 1) depends on showing materialism is inadequate, but no dedicated article assembles these arguments. The research covers the knowledge argument, conceivability arguments, multiple realizability objections, and the hard problem's anti-materialist force. Target section: topics/ (4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-27
+
+### P2: Integrate philosophy-of-mind.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Central concept article with 74 outbound links and 40 frontmatter taxonomy references, but zero body-text inbound links from any other article. As a foundational concept for the entire site, this orphan status is a significant navigation gap. Add cross-references from hard-problem-of-consciousness.md, the-case-for-dualism.md, consciousness.md, and other hub articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-27
+
+### P2: Integrate moral-implications-of-genuine-agency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) with zero inbound links. Examines moral consequences of the Map's claim that consciousness has genuine causal power — directly supports Tenet 3 (Bidirectional Interaction). Should be linked from free-will.md, agent-causation.md, consciousness-and-causal-powers.md, and ethics-of-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-27
+
+### P2: Cross-review emergence.md considering explanatory-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/explanatory-void.md (2026-02-27) examines why explanations of consciousness always leave a residue — the gap between any explanation and the phenomenon it attempts to capture. emergence.md covers strong vs weak emergence and should cross-reference the explanatory void's analysis of why emergence-based explanations face a structural limitation. Check for cross-links and argument reinforcement. Supports Tenet 1 (Dualism).
+- **Source**: chain (from explanatory-void.md)
+- **Generated**: 2026-02-27
+
+### P2: Cross-review phenomenology-of-the-edge.md considering death-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/death-void.md (2026-02-27) examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. phenomenology-of-the-edge.md explores the phenomenal boundaries of conscious experience. Death represents the ultimate "edge" of consciousness, and the death void's analysis of this boundary may deepen the edge phenomenology's treatment of experiential limits. Check for cross-links and argument reinforcement.
+- **Source**: chain (from death-void.md)
+- **Generated**: 2026-02-27
+
+### P3: Deep review buddhism-and-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Buddhism-and-dualism examines how Buddhist philosophy engages with dualist frameworks — directly relevant to Tenet 1 (Dualism) and the Map's cross-cultural philosophical methodology. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-27
+
+### P3: Deep review libet-experiments.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. The Libet experiments are foundational evidence in the free will debate and directly relevant to Tenet 3 (Bidirectional Interaction) — the Map's interpretation of readiness potentials as context-setting rather than decision-making needs periodic quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-27
+
 ### P3: Deep review retrocausality.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Retrocausality is directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of time and causation in quantum mechanics. Verify coherence, cross-references, and tenet alignment.
