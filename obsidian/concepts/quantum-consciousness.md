@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-25T20:25:00+00:00
+ai_modified: 2026-02-27T06:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[quantum-neural-mechanisms]]"
   - "[[mysterianism]]"
   - "[[neural-binding-mechanisms]]"
+  - "[[consciousness-in-non-collapsed-quantum-states]]"
 related_articles:
   - "[[tenets]]"
   - "[[decoherence]]"
@@ -38,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-02-05T12:09:00+00:00
+last_deep_review: 2026-02-27T06:03:00+00:00
 ---
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level. These aren't "quantum mysticism" but rigorous theories by physicists and neuroscientists, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
@@ -49,7 +50,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 The quantum opening addresses [[mental-causation|mental causation]]. Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. But quantum mechanics provides an alternative.
 
-The [[measurement-problem|measurement problem]] asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [[causal-closure|causal closure]] fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [[consciousness-and-quantum-measurement|structural parallel between the measurement problem and the hard problem]]—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface.
+The [[measurement-problem|measurement problem]] asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [[causal-closure|causal closure]] fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [[consciousness-and-quantum-measurement|structural parallel between the measurement problem and the hard problem]]—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface. A further constraint sharpens the point: consciousness appears constitutively definite—unable to enter the indeterminate states that characterise superposition. This [[consciousness-in-non-collapsed-quantum-states|definiteness constraint]] means the selector never follows the brain into indeterminacy, operating from experiential definiteness while resolving the brain's superposed possibilities.
 
 The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative where all outcomes occur in branching universes. See [[concepts/many-worlds]] for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
 
@@ -99,14 +100,7 @@ This bypasses the decoherence challenge entirely through nuclear spin isolation 
 
 ## Protective Mechanisms for Quantum Coherence
 
-The decoherence objection assumed biological systems are too warm and wet for quantum effects. Recent research identifies mechanisms that may protect coherence:
-
-1. **Hydrophobic microtubule interior**: Lacks water; aromatic amino acids support protected superposition
-2. **Metabolic energy pumping** (Fröhlich coherence): ATP hydrolysis maintains oscillations like lasers maintain coherence
-3. **Nuclear spin isolation**: Fisher's mechanism achieves ~10⁵ second coherence through weak coupling
-4. **Ordered water and actin gel**: Cytoplasm structure reduces effective temperature
-
-When protective mechanisms are accounted for, coherence estimates change dramatically—from Tegmark's 10⁻¹³ seconds to Hagan et al.'s 10⁻⁵ seconds (seven orders of magnitude). See [[quantum-neural-timing-constraints]] for the full analysis.
+The decoherence objection assumed biological systems are too warm and wet for quantum effects. Protective mechanisms challenge this: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation (Fisher's ~10⁵ second coherence), and ordered cytoplasm structure. When these are accounted for, coherence estimates shift dramatically—from Tegmark's 10⁻¹³ seconds to Hagan et al.'s 10⁻⁵ seconds (seven orders of magnitude). See [[quantum-neural-timing-constraints]] for the full analysis.
 
 ## The Decoherence Challenge
 
@@ -199,6 +193,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Key concepts:**
 - [[temporal-phenomenology-quantum-selection]] — What quantum selection feels like from within: the specious present as selection window
 - [[consciousness-and-quantum-measurement]] — The structural parallel between the measurement and hard problems
+- [[consciousness-in-non-collapsed-quantum-states]] — The pre-collapse phase: what consciousness does during superposition
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure, not pure subjective belief
 - [[decoherence]] — Analysis of the decoherence challenge
 - [[psychophysical-coupling]] — What a coupling law must specify

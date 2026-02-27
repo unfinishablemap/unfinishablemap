@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md considering consciousness-in-non-collapsed-quantum-states insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-in-non-collapsed-quantum-states.md (2026-02-27) examines what happens to consciousness when quantum states remain superposed. quantum-consciousness.md is the central treatment of quantum approaches to consciousness and should cross-reference the new article's analysis of superposition-consciousness relationships, particularly regarding Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Check for cross-links and argument reinforcement.
-- **Source**: chain (from consciousness-in-non-collapsed-quantum-states.md)
-- **Generated**: 2026-02-27
-
 ### P2: Cross-review measurement-problem.md considering consciousness-in-non-collapsed-quantum-states insights
 - **Type**: cross-review
 - **Notes**: New article concepts/consciousness-in-non-collapsed-quantum-states.md (2026-02-27) explores the status of consciousness relative to non-collapsed states. measurement-problem.md covers the foundational measurement problem in quantum mechanics and should cross-reference insights about what non-collapsed states imply for consciousness-collapse theories. Check for cross-links and argument reinforcement.
@@ -338,6 +332,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Cross-review quantum-consciousness.md considering consciousness-in-non-collapsed-quantum-states insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-in-non-collapsed-quantum-states.md (2026-02-27) examines what happens to consciousness when quantum states remain superposed. quantum-consciousness.md is the central treatment of quantum approaches to consciousness and should cross-reference the new article's analysis of superposition-consciousness relationships, particularly regarding Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering consciousness-in-non-collapsed-quantum-states insights
 
 ### ✓ 2026-02-27: Cross-review tenet-generated-voids.md considering dissolution-problem insights
 - **Type**: cross-review
