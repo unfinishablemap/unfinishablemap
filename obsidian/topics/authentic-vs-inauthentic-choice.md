@@ -4,7 +4,7 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-02-27T17:46:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -170,7 +170,7 @@ This isn't a guarantee of authenticity. Philosophical sophistication can itself 
 
 ## Authentic Choice and Moral Responsibility
 
-The authenticity distinction bears on [[moral-responsibility]]. If authentic choice engages genuine agency while inauthentic choice runs on automatic processing, the moral significance of each differs.
+The authenticity distinction bears on [[moral-responsibility]] and the [[moral-implications-of-genuine-agency|broader moral implications of genuine agency]]. If authentic choice engages genuine agency while inauthentic choice runs on automatic processing, the moral significance of each differs.
 
 ### Responsibility Requires Authorship
 
@@ -226,6 +226,7 @@ The authentic-inauthentic framework would face difficulty if:
 - [[personal-identity]] — What makes the "self" that authenticates choice
 - [[haecceity]] — The unrepeatable thisness of the choosing subject
 - [[moral-responsibility]] — How authenticity bears on desert
+- [[moral-implications-of-genuine-agency]] — The full moral landscape when agency is genuine
 - [[tenets]] — The Map's foundational commitments
 
 ## References

@@ -4,7 +4,7 @@ description: "How moral properties appear in conscious experience—what wrongne
 created: 2026-02-08
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-02-27T17:46:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -205,6 +205,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 - [[eastern-philosophy-consciousness]] — Buddhist and Hindu perspectives on consciousness and value
 - [[phenomenology-of-understanding]] — What insight and comprehension feel like from the inside
 - [[phenomenology-of-epistemic-judgment]] — How moral perception shifts under new evidence
+- [[moral-implications-of-genuine-agency]] — How moral seriousness gains metaphysical weight under genuine agency
 
 ## References
 

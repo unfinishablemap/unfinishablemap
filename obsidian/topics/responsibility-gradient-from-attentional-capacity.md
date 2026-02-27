@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-24T00:51:00+00:00
+ai_modified: 2026-02-27T17:46:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -172,6 +172,7 @@ The moral implications extend in both directions. Where most discussions of grad
 - [[authentic-vs-inauthentic-choice]] — Existentialist perspective on how consciousness engages with selection
 - [[moral-perception]] — How attention shapes the capacity to perceive moral reasons
 - [[consciousness-and-causal-powers]] — Why consciousness must be causally efficacious, grounding the gradient's moral weight
+- [[moral-implications-of-genuine-agency]] — The broader moral landscape when agency is genuine
 - [[topics/free-will]] — The broader framework of agency and determinism
 
 ## References

@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-18T00:02:00+00:00
+ai_modified: 2026-02-27T17:46:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -112,7 +112,7 @@ If agents shape their characters through choices, moral education matters. Teach
 
 ### Self-Understanding
 
-Understanding yourself as an agent-cause changes self-conception. You are not a puppet of prior causes but a genuine originator. Your choices matter not because they feel significant but because you truly authored them. This can inspire or burden—the responsibility is real. But it also dignifies: you are the kind of being whose choices constitute who you are. For how this framework translates into practical guidance for daily living, see [[living-with-the-map|Living with the Map]].
+Understanding yourself as an agent-cause changes self-conception. You are not a puppet of prior causes but a genuine originator. Your choices matter not because they feel significant but because you truly authored them. This can inspire or burden—the responsibility is real. But it also dignifies: you are the kind of being whose choices constitute who you are. For the broader moral implications beyond desert—obligation, character, and what genuine agency demands—see [[moral-implications-of-genuine-agency|Moral Implications of Genuine Agency]]. For how this framework translates into practical guidance for daily living, see [[living-with-the-map|Living with the Map]].
 
 ## The Illusionist Challenge
 
@@ -183,6 +183,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [[illusionism]] — The eliminativist challenge and why it fails to undermine desert
 - [[decoherence]] — The quantum challenge and biological responses
 - [[buddhism-and-dualism]] — Responsibility without permanent selfhood
+- [[moral-implications-of-genuine-agency]] — Beyond desert: how genuine agency transforms obligation, character, and moral theory
 - [[tenets]] — The foundational commitments grounding this view
 
 ## References

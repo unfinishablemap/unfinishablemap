@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T11:32:00+00:00
+ai_modified: 2026-02-27T17:46:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -189,6 +189,7 @@ These conditions do not currently obtain. The connection stands.
 - [[topics/free-will]] — How value-grounded consciousness enables genuine choice
 - [[illusionism]] — The strongest challenge and responses
 - [[panpsychism]] — What follows if consciousness is ubiquitous
+- [[moral-implications-of-genuine-agency]] — How genuine agency transforms the moral landscape
 - [[tenets]] — The foundational commitments grounding this view
 
 ## References

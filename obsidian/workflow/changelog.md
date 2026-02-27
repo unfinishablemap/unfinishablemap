@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 17:46 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/moral-implications-of-genuine-agency]]
+- **Word count**: 2457 → 2453 (-4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Wolf attribution fix, orphan integration)
+- **Enhancements made**: 10 inbound cross-links from related articles, 1 outbound link added, style fix
+- **Output**: [[reviews/deep-review-2026-02-27-moral-implications-of-genuine-agency]]
+
 ## 2026-02-27 16:46 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 396 non-draft files (198 topics, 197 concepts, 1 tenets) plus 13 apex articles

@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-02-27T17:46:00+00:00
 last_deep_review: 2026-02-25T12:26:00+00:00
 draft: false
 topics:
@@ -177,7 +177,7 @@ The [[mental-effort|phenomenology of effort]] provides supporting evidence. Will
 
 Free will requires [[personal-identity]]: there must be a *you* doing the authoring. The [[tenets#^no-many-worlds|No Many Worlds]] tenet emphasizes indexical identity: *this* conscious being matters. If you are an unrepeatable conscious being with a unique causal history of selections, your choices are genuinely *yours*—each decision adds to the particular causal chain constituting your life.
 
-If agents genuinely author their choices, [[moral-responsibility|moral responsibility]] gains metaphysical grounding: desert tracks something real about who caused what, not merely a useful social fiction.
+If agents genuinely author their choices, [[moral-responsibility|moral responsibility]] gains metaphysical grounding: desert tracks something real about who caused what, not merely a useful social fiction. The [[moral-implications-of-genuine-agency|moral implications]] extend further—to obligation, character as self-creation, and the demands genuine agency places on moral theory.
 
 ## What Would Challenge This Framework?
 
@@ -238,6 +238,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[consciousness-and-creative-distinctiveness]] — How consciousness enables creative distinctiveness
 - [[dream-consciousness]] — Dream evidence for consciousness's causal role in problem-solving
 - [[moral-responsibility]] — How agent causation grounds desert
+- [[moral-implications-of-genuine-agency]] — How genuine agency transforms obligation, character, and the moral landscape
 - [[personal-identity]] — Why *you* are the author of your choices
 - [[existentialism]] — How Sartre's pour-soi illuminates agent causation
 - [[causal-interface]] — Why the mechanism of consciousness-physics interaction is systematically invisible

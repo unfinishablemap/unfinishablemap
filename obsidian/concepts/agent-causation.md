@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-25T20:25:00+00:00
+ai_modified: 2026-02-27T17:46:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -236,6 +236,7 @@ Against [[concepts/epiphenomenalism]]: substance causation combined with the sel
 - [[explanatory-gap]] — Why physical description leaves consciousness unexplained
 - [[authentic-vs-inauthentic-choice]] — When agent causation is engaged (authentic choice) vs. attenuated
 - [[emergence]] — Related concept of novel causal powers
+- [[moral-implications-of-genuine-agency]] — What agent causation implies for moral obligation, character, and the moral landscape
 
 ## References
 
