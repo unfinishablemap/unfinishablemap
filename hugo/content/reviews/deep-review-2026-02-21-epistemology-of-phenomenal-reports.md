@@ -60,7 +60,7 @@ topics: []
 - [galilean-exclusion](/concepts/galilean-exclusion/)
 - [self-stultification](/concepts/self-stultification/)
 - [argument-from-reason](/topics/argument-from-reason/)
-- [contemplative-reliability](/concepts/contemplative-reliability/)
+- [contemplative-reliability](/concepts/contemplative-epistemology/)
 - [mysterianism](/concepts/mysterianism/)
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 - [intersubjectivity](/concepts/intersubjectivity/) (strengthened in-body reference)

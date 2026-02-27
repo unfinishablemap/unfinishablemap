@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-22 13:11:00+00:00
+ai_modified: 2026-02-26 23:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[meaning-of-life]]'
 - '[[phenomenology-of-normative-properties]]'
 - '[[aesthetic-dimension-of-consciousness]]'
-- '[[consciousness-and-pain]]'
+- '[[why-pain-hurts]]'
 - '[[free-will]]'
 - '[[downward-causation]]'
 title: Phenomenal Normativity and Environmental Ethics
@@ -143,7 +143,7 @@ The Map's tenets shape environmental ethics distinctively:
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic normativity beyond hedonic valence
 - [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-experience/) — How normative demands present in experience
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of moral properties
-- [consciousness-and-pain](/topics/why-pain-hurts/) — Why pain's awfulness is constitutive, not correlative
+- [why-pain-hurts](/topics/why-pain-hurts/) — Why pain's awfulness is constitutive, not correlative
 - [free-will](/topics/free-will/) — Genuine moral agency and environmental responsibility
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning and value
 

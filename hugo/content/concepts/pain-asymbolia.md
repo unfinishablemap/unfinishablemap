@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-20 12:06:00+00:00
+ai_modified: 2026-02-26 23:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 title: Pain Asymbolia
 topics:
 - '[[phenomenology-of-pain]]'
-- '[[consciousness-and-pain]]'
+- '[[why-pain-hurts]]'
 - '[[suffering-versus-pain]]'
 ---
 
@@ -96,7 +96,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 
 ## Further Reading
 
-- [consciousness-and-pain](/topics/why-pain-hurts/) — Pain as the paradigm case for mental causation
+- [why-pain-hurts](/topics/why-pain-hurts/) — Pain as the paradigm case for mental causation
 - [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and resistance to reduction
 - [suffering-versus-pain](/topics/suffering-versus-pain/) — The philosophical significance of the pain-suffering distinction
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that asymbolia partially instantiates

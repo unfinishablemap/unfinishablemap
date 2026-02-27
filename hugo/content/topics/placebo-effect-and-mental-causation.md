@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-18 14:32:00+00:00
+ai_modified: 2026-02-26 23:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[choking-phenomenon-mental-causation]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[tenets]]'
-- '[[consciousness-and-pain]]'
+- '[[why-pain-hurts]]'
 - '[[predictive-processing-and-the-maps-framework]]'
 - '[[phenomenology-of-anticipation]]'
 title: The Placebo Effect and Mental Causation

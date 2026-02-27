@@ -30,7 +30,7 @@ related_articles:
 title: The Valence Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-pain]]'
+- '[[why-pain-hurts]]'
 ---
 
 The [hard problem](/topics/hard-problem-of-consciousness/) asks why there is something it is like to be a physical system. The valence void asks a sharper question: why does that "something" come pre-sorted into good and bad? Every conscious experience carries hedonic tone — pleasant, unpleasant, or nominally neutral — and this built-in evaluative dimension resists explanation from every direction. Neuroscience explains [valence's](/concepts/valence/) *function* (approach/avoid signalling) without explaining why activation of particular neural circuits *hurts*. Introspection reveals valence as primitive and irreducible — pain's badness cannot be decomposed into simpler experiential components. And any attempt to explain valence from within consciousness uses concepts that are themselves valenced, creating a circularity that may be structurally irresolvable.

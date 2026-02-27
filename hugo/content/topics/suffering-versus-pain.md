@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-19 19:36:00+00:00
+ai_modified: 2026-02-26 23:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ title: Suffering Versus Pain
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[phenomenology-of-pain]]'
-- '[[consciousness-and-pain]]'
+- '[[why-pain-hurts]]'
 - '[[emotional-consciousness]]'
 ---
 
@@ -96,7 +96,7 @@ Third, suffering varies with meaning in ways that track consciousness rather tha
 ## Further Reading
 
 - [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and resistance to reduction
-- [consciousness-and-pain](/topics/why-pain-hurts/) — Pain as the paradigm case for mental causation
+- [why-pain-hurts](/topics/why-pain-hurts/) — Pain as the paradigm case for mental causation
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as an intrinsic property of experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How phenomenal properties ground objective value
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal role

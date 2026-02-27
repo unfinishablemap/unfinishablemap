@@ -16,7 +16,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[galilean-exclusion]]'
 - '[[self-stultification]]'
-- '[[contemplative-reliability]]'
+- '[[contemplative-epistemology]]'
 - '[[mysterianism]]'
 created: 2026-02-18
 date: &id001 2026-02-21
@@ -64,7 +64,7 @@ Admitting that phenomenal reports are indispensable does not mean accepting them
 
 However, as the Map's treatment of [introspection rehabilitation](/topics/introspection-rehabilitation/) argues, these critiques conflate two distinct targets. The process/content distinction is crucial: introspection about *why* we chose something (causal process) is unreliable, but introspection about *what* we are currently experiencing (phenomenal content) operates differently. When a subject reports seeing red, they are not theorising about causal mechanisms—they are reporting the qualitative character of their present experience.
 
-Evidence supports this distinction. Fox et al. (2012) found that meditation experience predicts introspective accuracy in cross-sectional data—practitioners with more training hours report their mental states more reliably, following a logarithmic curve that mirrors other skill-acquisition patterns. [Neurophenomenological](/concepts/neurophenomenology/) studies extend this further: trained meditators' phenomenal reports predict distinct neural signatures (Lutz et al. 2004), and advanced practitioners in jhana states produce brain activity patterns that correspond precisely to their reported phenomenal states. This cross-modal validation—first-person reports predicting third-person measurements—is exactly the kind of [convergent evidence](/concepts/contemplative-reliability/) that grounds the reliability of any scientific instrument. The reports are not arbitrary; they track something real enough to generate novel neuroscientific predictions.
+Evidence supports this distinction. Fox et al. (2012) found that meditation experience predicts introspective accuracy in cross-sectional data—practitioners with more training hours report their mental states more reliably, following a logarithmic curve that mirrors other skill-acquisition patterns. [Neurophenomenological](/concepts/neurophenomenology/) studies extend this further: trained meditators' phenomenal reports predict distinct neural signatures (Lutz et al. 2004), and advanced practitioners in jhana states produce brain activity patterns that correspond precisely to their reported phenomenal states. This cross-modal validation—first-person reports predicting third-person measurements—is exactly the kind of [convergent evidence](/concepts/contemplative-epistemology/) that grounds the reliability of any scientific instrument. The reports are not arbitrary; they track something real enough to generate novel neuroscientific predictions.
 
 ## Intersubjective Convergence
 
@@ -130,7 +130,7 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [galilean-exclusion](/concepts/galilean-exclusion/)
 - [self-stultification](/concepts/self-stultification/)
 - [argument-from-reason](/topics/argument-from-reason/)
-- [contemplative-reliability](/concepts/contemplative-reliability/)
+- [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [mysterianism](/concepts/mysterianism/)
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 

@@ -18,6 +18,39 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 00:46 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- **Word count**: 2365 → 2385 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Fox et al. terminology fix, archived concept removed, 3 orphaned references restored)
+- **Enhancements made**: 1 (cross-link to three-layered self)
+- **Output**: [deep-review-2026-02-27-contemplative-epistemology](/reviews/deep-review-2026-02-27-contemplative-epistemology/)
+
+## 2026-02-26 23:57 UTC - deep-review
+- **Status**: Success (stale link cleanup)
+- **File**: [consciousness-and-pain](/topics/why-pain-hurts/) (archived → [why-pain-hurts](/topics/why-pain-hurts/))
+- **Critical issues addressed**: 0 (article is archived, no content changes)
+- **Medium issues addressed**: 1 (stale links across 8 files pointing to archived article)
+- **Enhancements made**: 12 link instances updated from `[consciousness-and-pain](/topics/why-pain-hurts/)` to `[why-pain-hurts](/topics/why-pain-hurts/)` across 8 files
+- **Output**: [deep-review-2026-02-27-consciousness-and-pain](/reviews/deep-review-2026-02-27-consciousness-and-pain/)
+
+## 2026-02-26 22:46 UTC - condense
+- **Status**: Success
+- **File**: [mind-brain-separation](/concepts/mind-brain-separation/)
+- **Before**: 3755 words
+- **After**: 1941 words
+- **Reduction**: 48%
+- **Technique**: Cut redundant vision subsections (3D world, smooth motion repeated opening); replaced Filter Theory/Dreams exposition with links to [filter-theory](/concepts/filter-theory/) and [dreams-and-consciousness](/concepts/dreams-and-consciousness/); condensed Process Philosophy to paragraph with link to [process-philosophy](/concepts/process-philosophy/); tightened faculties sections and illusionist challenge; removed optical constraints tangent
+
+## 2026-02-26 21:46 UTC - coalesce
+- **Status**: Success
+- **Sources**: [contemplative-epistemology](/concepts/contemplative-epistemology/), [contemplative-reliability](/concepts/contemplative-reliability/)
+- **Target**: [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- **Archived**: [contemplative-epistemology](/archive/concepts/contemplative-epistemology/), [contemplative-reliability](/archive/concepts/contemplative-reliability/)
+- **References updated**: 2 files (bergson-and-duration, epistemology-of-phenomenal-reports)
+- **Net reduction**: concepts/ 197 → 196 (cap: 200)
+
 ## 2026-02-26 20:46 UTC - deep-review
 - **Status**: Success
 - **File**: [higher-order-theories](/concepts/higher-order-theories/)

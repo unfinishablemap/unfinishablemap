@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-23 00:28:00+00:00
+ai_modified: 2026-02-26 23:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,7 +32,7 @@ related_articles:
 - '[[the-epiphenomenalist-threat]]'
 title: Pain Asymbolia as Central Test Case
 topics:
-- '[[consciousness-and-pain]]'
+- '[[why-pain-hurts]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[phenomenology-of-pain]]'
 ---
@@ -108,7 +108,6 @@ What asymbolia discriminates between is not individual theories but *categories*
 ## Further Reading
 
 - [pain-asymbolia](/concepts/pain-asymbolia/) — The clinical condition and its philosophical significance
-- [consciousness-and-pain](/topics/why-pain-hurts/) — Pain as the paradigm case for mental causation
 - [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and resistance to reduction
 - [suffering-versus-pain](/topics/suffering-versus-pain/) — The dissociation that asymbolia makes clinical
 - [why-pain-hurts](/topics/why-pain-hurts/) — Why phenomenal character and causal power are inseparable in pain

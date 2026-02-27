@@ -71,7 +71,7 @@ topics: []
 
 ## Remaining Items
 
-- The optimistic review identified potential cross-links to [phenomenal-depth](/concepts/phenomenal-depth/), [acquaintance-knowledge](/concepts/acquaintance-knowledge/), and [contemplative-reliability](/concepts/contemplative-reliability/) — these could be added in a future review if those concept pages are sufficiently developed.
+- The optimistic review identified potential cross-links to [phenomenal-depth](/concepts/phenomenal-depth/), [acquaintance-knowledge](/concepts/acquaintance-knowledge/), and [contemplative-reliability](/concepts/contemplative-epistemology/) — these could be added in a future review if those concept pages are sufficiently developed.
 - The temporal microstructure section could note the convergence with Whiteheadian process philosophy (Buddhist khanavada + Husserlian retention-protention + Whitehead's actual occasions) — deferred as an expansion opportunity.
 
 ## Stability Notes

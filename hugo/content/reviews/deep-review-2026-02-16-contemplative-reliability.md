@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-16
-**Article**: [Contemplative Reliability](/concepts/contemplative-reliability/)
+**Article**: [Contemplative Reliability](/concepts/contemplative-epistemology/)
 **Previous review**: Never (first deep review; pessimistic review from 2026-02-13 exists, and a refinement pass was applied the same day)
 
 ## Pessimistic Analysis Summary
