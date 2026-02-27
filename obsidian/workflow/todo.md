@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address uncited claims and dismissive materialist treatment in hard-problem-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) uncited empirical claims in NDE/anaesthesia section; (2) dismissively brief materialist responses—especially missing the phenomenal concepts strategy; (3) filter model asserted without argument; (4) standard material (zombies, Mary's Room) could be compressed per writing style guide. See pessimistic-2026-02-27-hard-problem-of-consciousness.md
+- **Generated**: 2026-02-27
+
 ### P2: Write voids article on the explanatory void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-explanatory-void-2026-02-15.md (12 days unconsumed). The explanatory void examines why explanations of consciousness always leave a residue — the gap between any explanation and the phenomenon it attempts to capture. Connected to the hard problem and the explanatory gap. Directly relevant to Tenet 1 (Dualism). Target section: voids/ (6 slots remaining).
