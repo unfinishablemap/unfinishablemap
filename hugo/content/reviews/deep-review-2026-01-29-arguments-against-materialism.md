@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Arguments Against Materialism](/concepts/the-case-for-dualism/)
+**Article**: [Arguments Against Materialism](/topics/arguments-against-materialism/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-arguments-against-materialism/)
 
 ## Pessimistic Analysis Summary

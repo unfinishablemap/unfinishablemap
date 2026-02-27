@@ -41,7 +41,7 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-Functionalism is the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
+Functionalism is the dominant position in contemporary [philosophy of mind](/concepts/philosophy-of-mind/): the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
 
 The Unfinishable Map rejects functionalism. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes, and functional organization—though abstractly characterized—is entirely specifiable in physical terms: inputs, outputs, and causal relations among physical states. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the Map denies. For a systematic presentation of the case against functionalism, see [Against Functionalism](/arguments/functionalism/)—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
 

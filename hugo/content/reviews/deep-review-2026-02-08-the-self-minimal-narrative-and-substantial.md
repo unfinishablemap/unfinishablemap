@@ -32,7 +32,7 @@ None. All attributions verified as accurate (Gallagher/Zahavi, Schechtman/Ricoeu
 
 - **Conceivability-to-possibility inference asserted without defence**: The zombie argument moved directly from conceivability to metaphysical possibility without acknowledging this is contested. **Resolution**: Added qualification about the ideal conceivability distinction, noting critics and explaining why the argument survives.
 
-- **Missing cross-links**: Article lacked links to [free-will](/topics/free-will/), [qualia](/concepts/qualia/), [agent-causation](/concepts/agent-causation/), [arguments-against-materialism](/concepts/the-case-for-dualism/), and [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) in body text despite direct relevance. **Resolution**: Added all five as inline cross-links at natural points in the text.
+- **Missing cross-links**: Article lacked links to [free-will](/topics/free-will/), [qualia](/concepts/qualia/), [agent-causation](/concepts/agent-causation/), [arguments-against-materialism](/topics/arguments-against-materialism/), and [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) in body text despite direct relevance. **Resolution**: Added all five as inline cross-links at natural points in the text.
 
 - **Strawson (2009) in references but unused**: Listed as a reference but never cited in the text. **Resolution**: Added explicit reference to Strawson's "thin subject" concept when introducing the substantial self.
 
@@ -76,7 +76,7 @@ None. All attributions verified as accurate (Gallagher/Zahavi, Schechtman/Ricoeu
 - [death-and-consciousness](/topics/death-and-consciousness/) — in opening stakes paragraph
 - [qualia](/concepts/qualia/) — in conceivability argument
 - [agent-causation](/concepts/agent-causation/) — in causal argument
-- [arguments-against-materialism](/concepts/the-case-for-dualism/) — in Dualism tenet section
+- [arguments-against-materialism](/topics/arguments-against-materialism/) — in Dualism tenet section
 - [illusionism](/concepts/illusionism/) — in eliminativist section
 
 ## Attribution Accuracy

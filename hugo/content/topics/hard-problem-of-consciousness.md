@@ -76,7 +76,7 @@ Why is there something it is like to be you?
 
 This question—deceptively simple—marks the boundary where physical explanation seems to end and mystery begins. Neuroscience can trace the cascade of neural activity when you see red, taste coffee, or feel pain. It can explain how you discriminate stimuli, report your states, and control your behaviour. Yet after all this explanation, a question remains: why is any of this accompanied by *experience*?
 
-David Chalmers called this the "hard problem of consciousness." It is hard not because we lack data or technology, but because the very structure of physical explanation seems incapable of reaching it.
+David Chalmers called this the "hard problem of consciousness." It is hard not because we lack data or technology, but because the very structure of physical explanation seems incapable of reaching it. The hard problem is the central question of [philosophy of mind](/concepts/philosophy-of-mind/) — the issue around which all other debates in the field organise.
 
 The hard problem asks *how* consciousness relates to physical processes. A deeper question—the [origin void](/voids/origin-of-consciousness/)—asks *why* consciousness exists at all. Even a complete solution to the hard problem would not explain why the universe contains experience in the first place.
 

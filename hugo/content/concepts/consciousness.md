@@ -95,7 +95,7 @@ Both questions connect to the Map's framework: creature consciousness relates to
 
 ## Theories of Consciousness {#theories}
 
-Over 200 theories of consciousness exist. The Map engages with the most prominent while maintaining its dualist commitments.
+Over 200 theories of consciousness exist. [Philosophy of mind](/concepts/philosophy-of-mind/) provides the broader field within which these theories compete. The Map engages with the most prominent while maintaining its dualist commitments.
 
 ### Physicalist Theories
 

@@ -60,7 +60,7 @@ This second review addresses issues remaining after the earlier session, particu
 7. Updated Melloni et al. citation with journal details
 
 ### Cross-links Added
-- [arguments-against-materialism](/concepts/the-case-for-dualism/) (frontmatter + body + Further Reading)
+- [arguments-against-materialism](/topics/arguments-against-materialism/) (frontmatter + body + Further Reading)
 - [mental-causation](/concepts/mental-causation/) (frontmatter + body + Further Reading)
 - [illusionism](/concepts/illusionism/) (frontmatter + Further Reading)
 

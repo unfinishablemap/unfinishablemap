@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-02-07 00:26:00+00:00
+ai_modified: 2026-02-27 15:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,14 +23,14 @@ description: Philosophy of mind as a field—its central questions, major positi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-07 00:26:00+00:00
+last_deep_review: 2026-02-27 15:46:00+00:00
 modified: *id001
 related_articles:
-- '[[the-case-for-dualism]]'
 - '[[the-case-for-dualism]]'
 - '[[panpsychism]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[problem-of-other-minds]]'
+- '[[indian-philosophy-of-mind]]'
 title: Philosophy of Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -88,6 +88,8 @@ Between strict physicalism and dualism sit several intermediate positions:
 
 Each of these frameworks addresses real shortcomings in physicalism. None has yet achieved the explanatory success that would settle the debate.
 
+Western analytic philosophy of mind dominates this survey, but [Indian philosophical traditions](/topics/indian-philosophy-of-mind/) have explored consciousness, selfhood, and mental causation for millennia — often with greater phenomenological sophistication. Buddhist, Vedāntic, and Yogic frameworks offer alternative taxonomies of mental states and distinctive arguments about consciousness's nature that enrich the field beyond its Western canon.
+
 ## Methods and Evidence
 
 Philosophy of mind draws on both armchair reasoning and empirical research, and the tension between these methods is itself a live issue.
@@ -125,7 +127,6 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [mental-causation](/concepts/mental-causation/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [the-case-for-dualism](/concepts/the-case-for-dualism/)
-- [the-case-for-dualism](/concepts/the-case-for-dualism/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [qualia](/concepts/qualia/)
 - [intentionality](/concepts/intentionality/)
@@ -135,3 +136,4 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [causal-closure](/concepts/causal-closure/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
 - [psychophysical-laws](/concepts/psychophysical-laws/)
+- [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)

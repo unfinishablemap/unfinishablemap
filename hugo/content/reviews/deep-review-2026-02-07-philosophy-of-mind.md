@@ -76,7 +76,7 @@ None. The article had no factual errors, attribution errors, or internal contrad
 - [quantum-decoherence-objection](/concepts/decoherence/)
 - [global-workspace-theory](/concepts/global-workspace-theory/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
-- [arguments-against-materialism](/concepts/the-case-for-dualism/)
+- [arguments-against-materialism](/topics/arguments-against-materialism/)
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
 - [free-will](/topics/free-will/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Arguments Against Materialism](/concepts/the-case-for-dualism/)
+**Article**: [Arguments Against Materialism](/topics/arguments-against-materialism/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-arguments-against-materialism/)
 **Review context**: Cross-review considering [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) insights
 

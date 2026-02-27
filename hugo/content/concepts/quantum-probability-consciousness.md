@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-05 18:14:00+00:00
+ai_modified: 2026-02-27 13:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -10,8 +10,6 @@ coalesced_from:
 concepts:
 - '[[quantum-consciousness]]'
 - '[[measurement-problem]]'
-- '[[indexical-identity-quantum-measurement]]'
-- '[[quantum-measurement-interpretations-beyond-mwi]]'
 - '[[interactionist-dualism]]'
 - '[[haecceity]]'
 - '[[mysterianism]]'
@@ -30,7 +28,7 @@ description: 'Born probabilities describe the consciousness-quantum interface: n
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 23:00:00+00:00
+last_deep_review: 2026-02-27 13:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +69,7 @@ On this view, the Born rule describes something about quantum systems themselves
 
 QBism (Quantum Bayesianism), developed by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, radically recenters quantum mechanics around agents. Quantum states don't describe reality—they describe an agent's degrees of belief about measurement outcomes. Born probabilities are subjective Bayesian credences, constrained by coherence requirements analogous to Dutch-book coherence in classical probability.
 
-Fuchs explains: "The wave function does not describe the world—it describes the observer." Measurement doesn't reveal pre-existing values; it "creates" outcomes through the agent's interaction with the world. Collapse is simply belief updating—not a physical process but an epistemic adjustment.
+For Fuchs, quantum mechanics is fundamentally about agents and their experiences: "Quantum mechanics is a law of thought," and measurement outcomes are "experiences, not revelations of something that's already there." Measurement doesn't reveal pre-existing values; it creates outcomes through the agent's interaction with the world. Collapse is simply belief updating—not a physical process but an epistemic adjustment.
 
 **The agent problem**: QBism makes agents foundational. Only agents have quantum states (as beliefs about their future experiences). But QBism provides no account of what agents *are* or why they have determinate experiences to form beliefs about.
 
@@ -102,8 +100,6 @@ More fundamentally, MWI treats indexical identity as derivative from branch stru
 ## The Missing Piece: First-Person Probability
 
 All four views share a blind spot: they don't address what probability means *for this consciousness*.
-
-But this raises a historical question: if consciousness selects outcomes, what selected them during the 13.8 billion years before consciousness existed? See [prebiotic-collapse](/concepts/prebiotic-collapse/) for how the Map resolves this tension through objective reduction with consciousness modulation—collapse happens via physical mechanisms; consciousness interfaces with collapse specifically in neural systems.
 
 Consider: you're about to measure spin along some axis. Quantum mechanics predicts 50% spin-up, 50% spin-down. What does this mean for *you*?
 
@@ -150,7 +146,7 @@ But Wigner himself abandoned consciousness-collapse by the 1970s-80s, calling it
 
 **What decoherence does and doesn't show**: Decoherence explains why quantum interference becomes unobservable at macroscopic scales—environmental entanglement suppresses interference terms almost instantly. But as Zurek (2003) emphasizes, decoherence alone doesn't explain why we observe *one* outcome rather than a probabilistic mixture. It selects the *basis* (position vs. momentum) but not the *outcome*. The system after decoherence remains in a mixed state; something must still convert "and" (superposition) to "or" (definite result).
 
-The Map's position differs from universal consciousness-collapse: physical mechanisms (decoherence, spontaneous localization, or unknown processes) determine *which outcomes are possible* and handle the vast majority of "collapse" throughout the universe. Consciousness determines *which outcome actualises for this subject* at the neural interface. The Born rule describes the probabilities at this final selection—not probabilities for "the universe" but probabilities for *this experiencing subject*.
+The Map's position differs from universal consciousness-collapse: physical mechanisms (decoherence, spontaneous localization, or unknown processes) determine *which outcomes are possible* and handle the vast majority of "collapse" throughout the universe—including the 13.8 billion years before consciousness existed (see [prebiotic-collapse](/concepts/prebiotic-collapse/)). Consciousness determines *which outcome actualises for this subject* at the neural interface. The Born rule describes the probabilities at this final selection—not probabilities for "the universe" but probabilities for *this experiencing subject*.
 
 This preserves consciousness's causal role while avoiding both solipsism and specification problems.
 
@@ -218,10 +214,8 @@ The question of quantum probability's nature connects to all five tenets:
 
 ## Further Reading
 
-- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) - The indexical gap across interpretations
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
 - [quantum-interpretations](/concepts/quantum-interpretations/) - Survey of QM interpretations
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) - Alternatives to many-worlds
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets physics
 - [haecceity](/concepts/haecceity/) - The quality of primitive thisness
 - [quantum-consciousness](/concepts/quantum-consciousness/) - Mechanisms for consciousness-quantum interaction
@@ -245,7 +239,7 @@ The question of quantum probability's nature connects to all five tenets:
 
 6. Wheeler, J. A. (1983). "Law without law." In *Quantum Theory and Measurement*.
 
-7. Albert, D. (2015). "Probability in the Everett Picture." In *The Wave Function: Essays on the Metaphysics of Quantum Mechanics*.
+7. Albert, D. (2015). "Probability in the Everett Picture." In *After Physics*. Harvard University Press.
 
 8. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 
