@@ -36,7 +36,7 @@ last_deep_review: 2026-01-28T12:00:00+00:00
 
 How can I know that you are conscious? I have direct access to my own experience—the felt quality of seeing red, the ache of sadness, the taste of coffee. But my access to your mental life is entirely indirect. I observe your behavior, hear your words, perhaps scan your brain. None of this shows me *your* experience from the inside. The asymmetry is stark: first-person certainty about my own consciousness, third-person inference about yours.
 
-The problem of other minds is one of philosophy's oldest epistemological puzzles. Before we can ask what consciousness is (the [[hard-problem-of-consciousness|hard problem]]), we must ask how we know it exists in anyone besides ourselves.
+The problem of other minds is one of [[philosophy-of-mind|philosophy of mind]]'s oldest epistemological puzzles. Before we can ask what consciousness is (the [[hard-problem-of-consciousness|hard problem]]), we must ask how we know it exists in anyone besides ourselves.
 
 ## The Asymmetry Problem
 

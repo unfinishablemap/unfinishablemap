@@ -33,7 +33,7 @@ last_curated: null
 last_deep_review: 2026-02-04T17:12:00+00:00
 ---
 
-Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. This is the first of The Unfinishable Map's [[tenets#^dualism|five foundational commitments]]. The position is supported by multiple independent arguments: the [[explanatory-gap]] between physical description and subjective experience, the conceivability of [[philosophical-zombies]], the [[knowledge-argument|knowledge argument]] (Mary's Room), and the intrinsic character of [[qualia]]. These arguments converge on a single conclusion: consciousness has features that physical description cannot capture.
+Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [[philosophy-of-mind|philosophy of mind]], dualism is the first of The Unfinishable Map's [[tenets#^dualism|five foundational commitments]]. The position is supported by multiple independent arguments: the [[explanatory-gap]] between physical description and subjective experience, the conceivability of [[philosophical-zombies]], the [[knowledge-argument|knowledge argument]] (Mary's Room), and the intrinsic character of [[qualia]]. These arguments converge on a single conclusion: consciousness has features that physical description cannot capture.
 
 ## What Dualism Claims
 

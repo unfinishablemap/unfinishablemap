@@ -38,7 +38,7 @@ last_deep_review: 2026-01-29T09:24:16+00:00
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing, not even our reports about it. Your experience of pain does not cause you to wince; rather, the brain states that produce the wince also happen to produce pain experience as a side effect. Consciousness, on this view, is steam rising from a locomotive: produced by the engine but playing no role in moving the train.
 
-As the foundational [[dualism]] article explains, dualists face a choice between three positions on mind-body relation: [[interactionist-dualism|interactionism]] (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), and parallelism (no causal connection). The Unfinishable Map's [[tenets]] explicitly reject epiphenomenalism. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the Map affirms.
+As the foundational [[dualism]] article explains, within [[philosophy-of-mind|philosophy of mind]] dualists face a choice between three positions on mind-body relation: [[interactionist-dualism|interactionism]] (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), and parallelism (no causal connection). The Unfinishable Map's [[tenets]] explicitly reject epiphenomenalism. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the Map affirms.
 
 ## The View
 

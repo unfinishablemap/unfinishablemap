@@ -54,7 +54,7 @@ coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
 
-Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. This is a variant of [[dualism]] that distinguishes it from [[concepts/epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
+Interactionist dualism holds that mind and body are distinct yet causally connected—consciousness is not physical, but it influences physical outcomes, and physical events influence consciousness. Within [[philosophy-of-mind|philosophy of mind]], this is a variant of [[dualism]] that distinguishes it from [[concepts/epiphenomenalism]], which accepts dualism but denies that consciousness causes anything.
 
 This position forms the core of The Unfinishable Map's [[tenets|philosophical framework]]. The [[tenets#^dualism|Dualism]] tenet affirms irreducibility; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms causal efficacy; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies where such causation could occur.
 

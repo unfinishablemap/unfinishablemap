@@ -37,7 +37,7 @@ last_curated: null
 last_deep_review: 2026-02-22T18:06:00+00:00
 ---
 
-Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic philosophy of mind for decades, promising ontological simplicity and alignment with natural science.
+Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic [[philosophy-of-mind|philosophy of mind]] for decades, promising ontological simplicity and alignment with natural science.
 
 The Unfinishable Map's [[tenets]] reject materialism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. Understanding materialism's appeal—and its failure when applied to consciousness—clarifies what the Map affirms and why.
 

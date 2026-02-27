@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate philosophy-of-mind.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Central concept article with 74 outbound links and 40 frontmatter taxonomy references, but zero body-text inbound links from any other article. As a foundational concept for the entire site, this orphan status is a significant navigation gap. Add cross-references from hard-problem-of-consciousness.md, the-case-for-dualism.md, consciousness.md, and other hub articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-27
-
 ### P2: Integrate moral-implications-of-genuine-agency.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (created 2026-02-23) with zero inbound links. Examines moral consequences of the Map's claim that consciousness has genuine causal power — directly supports Tenet 3 (Bidirectional Interaction). Should be linked from free-will.md, agent-causation.md, consciousness-and-causal-powers.md, and ethics-of-consciousness.md.
@@ -344,6 +338,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Integrate philosophy-of-mind.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Central concept article with 74 outbound links and 40 frontmatter taxonomy references, but zero body-text inbound links from any other article. As a foundational concept for the entire site, this orphan status is a significant navigation gap. Add cross-references from hard-problem-of-consciousness.md, the-case-for-dualism.md, consciousness.md, and other hub articles.
+- **Output**: obsidian/concepts/philosophy-of-mind.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-27: Write article on arguments against materialism
 - **Type**: expand-topic

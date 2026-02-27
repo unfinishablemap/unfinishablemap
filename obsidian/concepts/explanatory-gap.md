@@ -29,7 +29,7 @@ last_curated: null
 last_deep_review: 2026-02-02T20:57:00+00:00
 ---
 
-The explanatory gap is the conceptual chasm between physical descriptions and conscious experience. Even a complete account of what the brain does—every neuron, every synapse, every chemical cascade—leaves unexplained *why* there is something it is like to undergo those processes. Joseph Levine introduced the term in 1983 to articulate what's missing from [[concepts/materialism|physicalist]] explanations of consciousness.
+The explanatory gap is the conceptual chasm between physical descriptions and conscious experience. Even a complete account of what the brain does—every neuron, every synapse, every chemical cascade—leaves unexplained *why* there is something it is like to undergo those processes. Joseph Levine introduced the term in 1983 to articulate what's missing from [[concepts/materialism|physicalist]] explanations of consciousness. The gap is central to [[philosophy-of-mind|philosophy of mind]], shaping debates between physicalists, dualists, and mysterians alike.
 
 This gap underlies the [[hard-problem-of-consciousness|hard problem of consciousness]] and provides the clearest case for the [[tenets#^dualism|Dualism]] tenet. If physical explanations leave the gap, consciousness cannot be *just* physical processes.
 

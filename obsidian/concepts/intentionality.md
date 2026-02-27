@@ -35,7 +35,7 @@ last_deep_review: 2026-01-30T17:16:00+00:00
 
 Intentionality is the "aboutness" of mental states—their directedness toward objects, states of affairs, or contents. When you believe that snow is white, your belief is *about* snow. When you fear a spider, your fear is *directed at* the spider. When you hope for rain, your hope *concerns* rain. This directedness is what philosophers call intentionality.
 
-Franz Brentano reintroduced the concept to modern philosophy in 1874, claiming that intentionality is "the mark of the mental"—the feature that distinguishes mental phenomena from physical phenomena. A rock is not *about* anything. A thought always is. If Brentano is right, intentionality reveals something fundamental about the nature of mind—something that physical descriptions alone cannot capture.
+Franz Brentano reintroduced the concept to modern philosophy in 1874, claiming that intentionality is "the mark of the mental"—the feature that distinguishes mental phenomena from physical phenomena. A rock is not *about* anything. A thought always is. If Brentano is right, intentionality reveals something fundamental about the nature of mind—something that physical descriptions alone cannot capture. It remains one of [[philosophy-of-mind|philosophy of mind]]'s core puzzles.
 
 ## The Phenomenological Discovery
 

@@ -4,7 +4,7 @@ description: "Philosophy of mind as a field—its central questions, major posit
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-02-07T00:26:00+00:00
+ai_modified: 2026-02-27T15:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,16 +23,16 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[the-case-for-dualism]]"
-  - "[[the-case-for-dualism]]"
   - "[[panpsychism]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[problem-of-other-minds]]"
+  - "[[indian-philosophy-of-mind]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-02-07T00:26:00+00:00
+last_deep_review: 2026-02-27T15:46:00+00:00
 ---
 
 Philosophy of mind is the branch of philosophy that investigates the nature of [[consciousness]], [[mental-causation|mental causation]], [[intentionality]], and the relationship between mind and body. Its central question — whether conscious experience can be explained in purely physical terms — remains the deepest unsolved problem in philosophy. The Unfinishable Map's five [[tenets]] stake out a specific answer: consciousness is irreducible, causally efficacious, and interacts with the physical world at quantum indeterminacies.
@@ -85,6 +85,8 @@ Between strict physicalism and dualism sit several intermediate positions:
 
 Each of these frameworks addresses real shortcomings in physicalism. None has yet achieved the explanatory success that would settle the debate.
 
+Western analytic philosophy of mind dominates this survey, but [[indian-philosophy-of-mind|Indian philosophical traditions]] have explored consciousness, selfhood, and mental causation for millennia — often with greater phenomenological sophistication. Buddhist, Vedāntic, and Yogic frameworks offer alternative taxonomies of mental states and distinctive arguments about consciousness's nature that enrich the field beyond its Western canon.
+
 ## Methods and Evidence
 
 Philosophy of mind draws on both armchair reasoning and empirical research, and the tension between these methods is itself a live issue.
@@ -122,7 +124,6 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [[mental-causation]]
 - [[interactionist-dualism]]
 - [[the-case-for-dualism]]
-- [[the-case-for-dualism]]
 - [[explanatory-gap]]
 - [[qualia]]
 - [[intentionality]]
@@ -132,3 +133,4 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [[causal-closure]]
 - [[quantum-consciousness]]
 - [[psychophysical-laws]]
+- [[indian-philosophy-of-mind]]
