@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the death void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md (25 days unconsumed). The death void examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. Directly relevant to Tenet 1 (Dualism) and the question of whether consciousness survives physical dissolution. Target section: voids/ (6 slots remaining).
-- **Source**: unconsumed_research
+### P2: Address uncited claims and dismissive materialist treatment in hard-problem-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) uncited empirical claims in NDE/anaesthesia section; (2) dismissively brief materialist responses—especially missing the phenomenal concepts strategy; (3) filter model asserted without argument; (4) standard material (zombies, Mary's Room) could be compressed per writing style guide. See pessimistic-2026-02-27-hard-problem-of-consciousness.md
 - **Generated**: 2026-02-27
 
 ### P2: Write voids article on the explanatory void
@@ -321,6 +321,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md (25 days unconsumed). The death void examines the absolute epistemic boundary that death presents for consciousness — a void that cannot be mapped from either side. Directly relevant to Tenet 1 (Dualism) and the question of whether consciousness survives physical dissolution. Target section: voids/ (6 slots remaining).
+- **Output**: Write voids article on the death void
 
 ### ✓ 2026-02-27: Write voids article on the quantification void
 - **Type**: expand-topic

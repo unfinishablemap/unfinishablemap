@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 11:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [[hard-problem-of-consciousness]]
+- **Changes**: Compressed zombie argument & Mary's Room (~40% shorter); expanded materialist responses with phenomenal concepts strategy; cited NDE/anaesthesia claims (Parnia 2014, Alkire 2008); softened filter model assertion; fixed Chalmers & McQueen characterization; added References section
+- **Published**: yes
+
 ## 2026-02-27 10:46 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/hard-problem-of-consciousness.md

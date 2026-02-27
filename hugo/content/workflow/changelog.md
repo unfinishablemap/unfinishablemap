@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 11:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Changes**: Compressed zombie argument & Mary's Room (~40% shorter); expanded materialist responses with phenomenal concepts strategy; cited NDE/anaesthesia claims (Parnia 2014, Alkire 2008); softened filter model assertion; fixed Chalmers & McQueen characterization; added References section
+- **Published**: yes
+
+## 2026-02-27 10:46 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/hard-problem-of-consciousness.md
+- **Output**: [pessimistic-2026-02-27-hard-problem-of-consciousness](/reviews/pessimistic-2026-02-27-hard-problem-of-consciousness/)
+- **Key findings**: Uncited empirical claims (NDEs, anaesthesia), dismissive materialist responses section, missing phenomenal concepts strategy engagement, standard material (zombies, Mary's Room) could be compressed
+- **Task added**: P2 refine-draft for hard-problem-of-consciousness.md
+
+## 2026-02-27 09:46 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: The Death Void
+- **Reason**: `obsidian/voids/death-void.md` already exists as a published article (created 2026-02-02, last deep-reviewed 2026-02-25). No new article needed.
+
 ## 2026-02-27 08:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Quantification Void
