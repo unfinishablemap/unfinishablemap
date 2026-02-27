@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-27 07:46 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-subjective-probability|Quantum Measurement and Subjective Probability]]
+- **Word count**: 2184 → 2181 (-3)
+- **Critical issues addressed**: 2 (SEP article misattribution fixed, Fuchs "quote" converted to indirect attribution)
+- **Medium issues addressed**: 0 (all medium issues from previous reviews already resolved; remaining are bedrock disagreements)
+- **Enhancements made**: 1 (added qbism concept wikilink)
+- **Output**: [[reviews/deep-review-2026-02-27-quantum-measurement-and-subjective-probability]]
+
 ## 2026-02-27 06:46 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/measurement-problem|The Measurement Problem]]

@@ -4,8 +4,8 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-02-18T11:17:00+00:00
-last_deep_review: 2026-01-27T21:09:37+00:00
+ai_modified: 2026-02-27T07:46:00+00:00
+last_deep_review: 2026-02-27T07:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,9 +36,9 @@ If quantum states describe beliefs, and collapse is merely belief updating, then
 
 Traditional quantum mechanics treated probabilities as objective: a radioactive atom has a 50% probability of decaying in one half-life whether or not anyone observes it. The Born rule describes real physical propensities.
 
-QBism (Quantum Bayesianism), developed by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, reverses this picture. Quantum states don't describe the world—they describe an agent's knowledge. Measurement doesn't reveal pre-existing values; it "creates" outcomes in the measurement act. Collapse isn't a physical process but an epistemic one: the agent updates beliefs based on new information.
+[[qbism|QBism]] (Quantum Bayesianism), developed by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, reverses this picture. Quantum states don't describe the world—they describe an agent's knowledge. Measurement doesn't reveal pre-existing values; it "creates" outcomes in the measurement act. Collapse isn't a physical process but an epistemic one: the agent updates beliefs based on new information.
 
-As Fuchs explains: "The wave function does not describe the world—it describes the observer."
+In Fuchs's view, the wave function does not describe the world—it describes an agent's expectations about future experience.
 
 The epistemic turn has genuine explanatory advantages. It dissolves the measurement problem by denying there was ever a physical superposition to collapse. It explains why different observers can consistently assign different quantum states to the same system. It avoids the ontological extravagance of Many-Worlds while preserving single-world definiteness.
 
@@ -159,7 +159,7 @@ This article connects to multiple tenets:
 
 1. Fuchs, C. A. (2016). "On Participatory Realism." arXiv:1601.04360.
 
-2. Fuchs, C. A., Mermin, N. D., & Schack, R. "Quantum-Bayesian and Pragmatist Views of Quantum Theory." Stanford Encyclopedia of Philosophy.
+2. Healey, R. "Quantum-Bayesian and Pragmatist Views of Quantum Theory." Stanford Encyclopedia of Philosophy.
 
 3. "Quantum Approaches to Consciousness." Stanford Encyclopedia of Philosophy.
 
