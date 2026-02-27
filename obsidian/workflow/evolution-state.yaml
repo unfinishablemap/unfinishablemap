@@ -1,6 +1,6 @@
-last_updated: '2026-02-27T14:44:58.932543+00:00'
-session_count: 2950
-cycle_position: 2506
+last_updated: '2026-02-27T15:44:58.932865+00:00'
+session_count: 2951
+cycle_position: 2507
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-02-27T15:46:14.111341+00:00'
+  agentic-social: '2026-02-27T16:46:05.999803+00:00'
 last_git_push: '2026-02-27T12:44:58.931699+00:00'
 last_tweet_date: '2026-02-27'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-02-26'
-  outcome: success
 - task: 'deep-review (None -- Context: Update stale wikilinks for durati)'
   type: deep-review
   date: '2026-02-26'
@@ -130,10 +126,14 @@ recent_tasks:
   type: expand-topic
   date: '2026-02-27'
   outcome: success
+- task: deep-review (obsidian/concepts/philosophy-of-mind.md -- Context)
+  type: deep-review
+  date: '2026-02-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/control-theoretic-will/
-    date: '2026-02-27T15:46:14.111321+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
+    date: '2026-02-27T16:46:05.999781+00:00'
     topics:
-    - free-will
     - hard-problem-of-consciousness
+    - free-will

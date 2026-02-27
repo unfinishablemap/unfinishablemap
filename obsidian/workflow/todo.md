@@ -336,6 +336,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-26
 
+### P3: Write apex article on ethics and value in a dualist world
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's ethics cluster (phenomenal-value-realism, moral-implications-of-genuine-agency, ethics-of-consciousness, moral-responsibility, consciousness-and-moral-agency-under-duress, responsibility-gradient) forms a coherent system but lacks apex synthesis showing how dualist metaphysics transforms ethical theory. See [[reviews/optimistic-2026-02-27]]
+
+### P3: Write article on the phenomenology of meaning-making
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple phenomenology articles independently demonstrate consciousness producing meaning (musical understanding, recursive thought, anticipation, value perception) but no article synthesises these into a unified account. Would strengthen the case against functionalism. See [[reviews/optimistic-2026-02-27]]
+
+### P3: Write concept page for apophatic cartography
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The voids programme's methodology — systematically mapping where understanding fails as positive data — lacks its own concept page despite being practised across ~87 void articles. Foundation for voids apex article. See [[reviews/optimistic-2026-02-27]]
+
+### P3: Write article comparing interaction solutions across philosophical traditions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Samkhya's reflection model, Avicenna's bidirectional causation, Akan sunsum mediation, and delegatory dualism's preemption all solve the interaction problem differently. Comparative article showing structural parallels would strengthen the convergence argument at the level of proposed solutions. See [[reviews/optimistic-2026-02-27]]
+
 ## Completed Tasks
 
 
