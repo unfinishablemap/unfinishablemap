@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/quantification-void.md (2026-02-27) examines why consciousness resists measurement and numerical representation — proxy metrics like IIT's phi and PCI cannot measure the phenomenon itself. concepts/neural-correlates-of-consciousness.md discusses NCC findings and should cross-reference the quantification void's analysis of why neural correlates remain proxies rather than measures. Supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: chain (from quantification-void.md)
-- **Generated**: 2026-02-27
-
 ### P3: Deep review decoherence-and-macroscopic-superposition.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
@@ -364,6 +358,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/quantification-void.md (2026-02-27) examines why consciousness resists measurement and numerical representation — proxy metrics like IIT's phi and PCI cannot measure the phenomenon itself. concepts/neural-correlates-of-consciousness.md discusses NCC findings and should cross-reference the quantification void's analysis of why neural correlates remain proxies rather than measures. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md -- Context: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
 
 ### ✓ 2026-02-27: Update references to coalesced temporal articles
 - **Type**: cross-review

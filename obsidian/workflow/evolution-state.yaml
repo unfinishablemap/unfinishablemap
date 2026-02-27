@@ -1,6 +1,6 @@
-last_updated: '2026-02-27T21:44:58.935845+00:00'
-session_count: 2957
-cycle_position: 2513
+last_updated: '2026-02-27T22:44:58.936298+00:00'
+session_count: 2958
+cycle_position: 2514
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-02-27T22:45:49.196631+00:00'
+  agentic-social: '2026-02-27T23:46:35.018099+00:00'
 last_git_push: '2026-02-27T20:44:58.935603+00:00'
 last_tweet_date: '2026-02-27'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-02-27'
-  outcome: success
 - task: 'deep-review (obsidian/concepts/causal-closure.md -- Context: Cr)'
   type: deep-review
   date: '2026-02-27'
@@ -130,10 +126,14 @@ recent_tasks:
   type: coalesce
   date: '2026-02-27'
   outcome: success
+- task: 'deep-review (None -- Context: Update references to coalesced te)'
+  type: deep-review
+  date: '2026-02-27'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/methodological-pluralism/
-    date: '2026-02-27T22:45:49.196614+00:00'
+  - url: https://unfinishablemap.org/concepts/normative-phenomenology/
+    date: '2026-02-27T23:46:35.018080+00:00'
     topics:
-    - first-person-third-person-methodology
-    - hard-problem-of-consciousness
+    - ethics-of-consciousness
+    - phenomenology-of-normative-properties

@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-24T06:53:00+00:00
+ai_modified: 2026-02-27T23:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,12 +31,13 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[neural-correlates-consciousness-2026-01-14]]"
+  - "[[quantification-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-03T01:42:00+00:00
+last_deep_review: 2026-02-27T23:46:00+00:00
 ---
 
 Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. When you see red, what patterns of brain activity correspond to that experience? This research program, pioneered by Christof Koch and Francis Crick, has yielded significant empirical findings—particularly that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions. Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] is fully compatible with NCC findings.
@@ -161,7 +162,7 @@ Over 200 theories of consciousness exist. IIT and GNWT were both challenged by C
 
 NCC research marks a genuine advance in consciousness science. We know more than ever about which brain regions correlate with conscious experience. We have powerful methods for testing theories.
 
-Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. As the [[cognitive-science-of-dualism]] article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
+Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[quantification-void]] illuminates the depth of this limitation: five independent routes to measuring consciousness—units, instruments, interpersonal comparison, introspection, proxy metrics—all fail for structural rather than technical reasons. NCC research, however sophisticated, operates entirely within the proxy layer. As the [[cognitive-science-of-dualism]] article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
 
 These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework. They would be equally compatible with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 
@@ -176,6 +177,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [[witness-consciousness]] — The observer phenomenon and NCCs
 - [[episodic-memory]] — Autonoetic consciousness and hippocampal NCCs
 - [[binding-problem]] — How hippocampal binding connects consciousness and memory
+- [[quantification-void]] — Why consciousness resists measurement at every level
 
 ## References
 
