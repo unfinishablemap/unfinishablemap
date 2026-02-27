@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-22 09:45:00+00:00
+ai_modified: 2026-02-27 03:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,6 +21,7 @@ concepts:
 - '[[reductionism]]'
 - '[[delegatory-dualism]]'
 - '[[quantum-indeterminacy-free-will]]'
+- '[[conservation-laws-mind-brain-causation]]'
 created: 2026-01-14
 date: &id001 2026-02-15
 description: 'Causal closure claims every physical event has sufficient physical cause.
@@ -28,7 +29,7 @@ description: 'Causal closure claims every physical event has sufficient physical
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 15:19:00+00:00
+last_deep_review: 2026-02-27 03:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +74,7 @@ The Map denies causal closure.
 
 The principle has intuitive appeal:
 
-**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates, this objection rests on misunderstandings: conservation is local and conditional (derived from symmetries via Noether's theorem), and consciousness may influence outcomes without injecting energy at all, by *selecting* among quantum-permitted outcomes.
+**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates, this objection rests on misunderstandings: conservation is local and conditional (derived from symmetries via Noether's theorem), and assuming it holds in brains presupposes no mental influences exist—begging the question. Moreover, consciousness may influence outcomes without injecting energy at all, by *selecting* among quantum-permitted outcomes.
 
 **Scientific success:** Physics explains physical events without needing to invoke non-physical causes. Every time science investigates a phenomenon, it finds physical mechanisms. Mental causation seems like a "gap" that science will eventually fill.
 
@@ -115,7 +116,7 @@ Mental causation avoids observable violations through converging strategies: *st
 
 **"This seems designed to avoid refutation"**: Many well-confirmed theories delineate domains similarly. Conservation of energy applies where energy is definable; general relativity predicts within spacetime, not "before" it. Observational closure specifies domains, not evasion.
 
-The upshot: dualists need only respect observational closure, not universal closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops this further: experiences *preempt* rather than overdetermine physical causation. (Note that [cognitive closure](/concepts/mysterianism/)—McGinn's epistemic thesis about what we can conceive—is distinct from observational closure, though if the consciousness-physics interface involves cognitively closed properties, we may be unable to formulate tests that would reveal violations.)
+The upshot: dualists need only respect observational closure, not universal closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops this further: experiences *preempt* rather than overdetermine physical causation. (Note that [cognitive closure](/concepts/mysterianism/)—McGinn's epistemic thesis—is distinct from observational closure, though cognitively closed properties at the consciousness-physics interface may render violations undetectable.)
 
 ### Empirical Status
 
@@ -204,6 +205,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 ## Further Reading
 
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why the energy conservation objection fails; selection-not-injection framework
+- [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/) — Entanglement, boundary conditions, and other precedents for causation without energy transfer
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's framework avoiding overdetermination through preemption
 - [luck-objection](/concepts/luck-objection/) — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [mysterianism](/concepts/mysterianism/) — Why the mechanism of mind-matter interaction may exceed human comprehension
