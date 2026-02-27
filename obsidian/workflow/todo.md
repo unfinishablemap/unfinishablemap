@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md considering consciousness-in-non-collapsed-quantum-states insights
-- **Type**: cross-review
-- **Notes**: New article concepts/consciousness-in-non-collapsed-quantum-states.md (2026-02-27) explores the status of consciousness relative to non-collapsed states. measurement-problem.md covers the foundational measurement problem in quantum mechanics and should cross-reference insights about what non-collapsed states imply for consciousness-collapse theories. Check for cross-links and argument reinforcement.
-- **Source**: chain (from consciousness-in-non-collapsed-quantum-states.md)
-- **Generated**: 2026-02-27
-
 ### P2: Write voids article on the quantification void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-quantification-void-2026-02-27.md (today). The quantification void examines why consciousness resists measurement and numerical representation — a cognitive territory where the tools of quantitative science systematically fail. Directly relevant to Tenet 5 (Occam's Razor Has Limits). Target section: voids/ (6 slots remaining).
@@ -332,6 +326,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Cross-review measurement-problem.md considering consciousness-in-non-collapsed-quantum-states insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-in-non-collapsed-quantum-states.md (2026-02-27) explores the status of consciousness relative to non-collapsed states. measurement-problem.md covers the foundational measurement problem in quantum mechanics and should cross-reference insights about what non-collapsed states imply for consciousness-collapse theories. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering consciousness-in-non-collapsed-quantum-states insights
 
 ### ✓ 2026-02-27: Cross-review quantum-consciousness.md considering consciousness-in-non-collapsed-quantum-states insights
 - **Type**: cross-review
