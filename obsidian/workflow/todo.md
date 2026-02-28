@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the amplification void
+- **Type**: expand-topic
+- **Notes**: Research completed today in research/voids-amplification-void-2026-02-28.md. The amplification void names the structural impossibility of tracing how a quantum-scale nudge reaches macroscopic neural effect — spanning five orders of magnitude in spatial scale through chaotic, noisy, decoherence-prone layers. The void may be structurally necessary: if amplification were traceable, the interaction would be detectable, violating the minimality that defines it. Directly relevant to Tenet 2 (Minimal Quantum Interaction). Target section: voids/ (4 slots remaining).
+- **Source**: chain (from research-voids 2026-02-28)
+- **Generated**: 2026-02-28
+
+### P2: Write voids article on the surplus void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-surplus-void-2026-02-23.md (5 days unconsumed). Conscious experience appears wildly over-specified relative to any functional role — a simple binary signal would suffice for adaptive behaviour, yet organisms experience colour, musical harmony, existential dread, and mathematical wonder. Wallace identified this as "surplusage of power." Under dualism, the surplus void suggests consciousness is not an evolved tool but something more fundamental. Directly relevant to Tenet 1 (Dualism). Target section: voids/ (4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-28
+
+### P2: Write voids article on the resolution void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-resolution-void-2026-02-22.md (6 days unconsumed). Consciousness operates at a characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits per second yet conscious thought processes roughly 10 bits per second. Phenomenal experience appears smooth while neural substrates are discrete (Sellars' grain argument). These resolution limits may be constitutive of what consciousness is. Target section: voids/ (4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-28
+
+### P3: Deep review quantum-interpretations.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Survey of quantum interpretations and their consciousness implications, with 8 tenet references — central to the Map's treatment of why time-symmetric collapse is preferred over Many-Worlds or Bohmian mechanics. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-28
+
+### P3: Deep review qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. QBism interprets quantum states as subjective beliefs rather than objective reality — centres the agent yet leaves consciousness unexplained. With 8 tenet references, it intersects with the Map's position on quantum measurement and consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-28
+
+### P3: Deep review embodied-cognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Embodied cognition challenges Cartesian dualism while leaving property dualism untouched — with 7 tenet references, it is an important article for the Map's treatment of how consciousness relates to bodily processes. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-28
+
 ### P3: Deep review decoherence-and-macroscopic-superposition.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
