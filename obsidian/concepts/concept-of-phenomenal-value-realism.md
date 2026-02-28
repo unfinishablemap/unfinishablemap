@@ -4,7 +4,7 @@ description: "The metaethical view that intrinsic value is a feature of consciou
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-02T20:46:00+00:00
+ai_modified: 2026-02-28T06:46:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -26,13 +26,15 @@ related_articles:
   - "[[tenets]]"
   - "[[purpose-and-alignment]]"
   - "[[experiential-alignment]]"
+  - "[[consciousness-value-connection]]"
+  - "[[living-with-the-map]]"
   - "[[phenomenal-value-realism-metaethics-2026-01-16]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-30T11:54:00+00:00
+last_deep_review: 2026-02-28T06:46:00+00:00
 ---
 
 Phenomenal value realism is the metaethical view that intrinsic value is a feature of conscious experience itself. On this view, the positive quality of pleasure and the negative quality of suffering are not merely correlated with value or indicative of it—they *constitute* what value is. To experience pleasure just is to instantiate intrinsic goodness; to suffer just is to instantiate intrinsic badness.

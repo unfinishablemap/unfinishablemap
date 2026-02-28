@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (ai_contribution: 100, last deep-reviewed 2026-01-30) with zero inbound wikilinks. Covers the metaethical view that intrinsic value is a feature of conscious experience. The "concept-of-" prefix in the filename may discourage natural wikilink references. Should be linked from phenomenal-value-realism.md (if it exists as a topics article), ethics-of-consciousness.md, qualia.md, and emotional-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-28
-
 ### P3: Deep review decoherence-and-macroscopic-superposition.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
@@ -364,6 +358,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-28: Integrate concept-of-phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (ai_contribution: 100, last deep-reviewed 2026-01-30) with zero inbound wikilinks. Covers the metaethical view that intrinsic value is a feature of conscious experience. The "concept-of-" prefix in the filename may discourage natural wikilink references. Should be linked from phenomenal-value-realism.md (if it exists as a topics article), ethics-of-consciousness.md, qualia.md, and emotional-consciousness.md.
+- **Output**: obsidian/concepts/concept-of-phenomenal-value-realism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-28: Integrate concept-of-consciousness-and-social-cognition.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-21T07:06:00+00:00
+ai_modified: 2026-02-28T06:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,7 +136,7 @@ LeDoux disagrees, arguing conscious feelings require cortical higher-order repre
 
 ## Moral Status
 
-Birch's *The Edge of Sentience* (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance). Chalmers' "philosophical Vulcan"—a being with consciousness but no valence—tests the distinction.
+Birch's *The Edge of Sentience* (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance). [[concept-of-phenomenal-value-realism|Phenomenal value realism]] strengthens the valence sentientist position: if the felt badness of suffering *constitutes* intrinsic badness, then animal suffering is not merely analogous to human suffering—it instantiates the same value property. Chalmers' "philosophical Vulcan"—a being with consciousness but no valence—tests the distinction.
 
 Most animal welfare frameworks adopt valence sentientism: the focus is preventing suffering. If animal suffering is real suffering, it matters morally regardless of scientific verification. The philosophical question grounds our treatment of billions of creatures.
 
