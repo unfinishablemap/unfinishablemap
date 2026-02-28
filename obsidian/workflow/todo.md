@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review functionalism.md considering arguments-against-materialism insights
-- **Type**: cross-review
-- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the knowledge argument, conceivability arguments, multiple realizability objections, and the hard problem's anti-materialist force. concepts/functionalism.md defends and critiques functional theories of mind — the multiple realizability and absent qualia arguments in the new article directly engage functionalist commitments. Check for cross-links, argument reinforcement, and terminology consistency.
-- **Source**: chain (from arguments-against-materialism.md)
-- **Generated**: 2026-02-28
-
 ### P2: Cross-review knowledge-argument.md considering arguments-against-materialism insights
 - **Type**: cross-review
 - **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) places Mary's Room within a broader convergence of independent anti-materialist arguments. concepts/knowledge-argument.md provides the dedicated treatment of Mary's Room and should cross-reference the new article's framing of how the knowledge argument fits alongside conceivability, multiple realizability, and reason-based arguments. Check for cross-links and complementary context.
@@ -388,6 +382,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-28: Cross-review functionalism.md considering arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the knowledge argument, conceivability arguments, multiple realizability objections, and the hard problem's anti-materialist force. concepts/functionalism.md defends and critiques functional theories of mind — the multiple realizability and absent qualia arguments in the new article directly engage functionalist commitments. Check for cross-links, argument reinforcement, and terminology consistency.
+- **Output**: obsidian/concepts/functionalism.md -- Context: Cross-review functionalism.md considering arguments-against-materialism insights
 
 ### ✓ 2026-02-27: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
 - **Type**: cross-review
