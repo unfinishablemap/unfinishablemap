@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review functionalism.md considering arguments-against-materialism insights
-- **Type**: cross-review
-- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the knowledge argument, conceivability arguments, multiple realizability objections, and the hard problem's anti-materialist force. concepts/functionalism.md defends and critiques functional theories of mind — the multiple realizability and absent qualia arguments in the new article directly engage functionalist commitments. Check for cross-links, argument reinforcement, and terminology consistency.
-- **Source**: chain (from arguments-against-materialism.md)
-- **Generated**: 2026-02-28
-
-### P2: Cross-review knowledge-argument.md considering arguments-against-materialism insights
-- **Type**: cross-review
-- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) places Mary's Room within a broader convergence of independent anti-materialist arguments. concepts/knowledge-argument.md provides the dedicated treatment of Mary's Room and should cross-reference the new article's framing of how the knowledge argument fits alongside conceivability, multiple realizability, and reason-based arguments. Check for cross-links and complementary context.
-- **Source**: chain (from arguments-against-materialism.md)
-- **Generated**: 2026-02-28
-
-### P2: Cross-review explanatory-gap.md considering explanatory-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/explanatory-void.md (2026-02-27) examines why explanations of consciousness always leave a residue — a cognitive territory where the gap between explanation and phenomenon is structural, not merely empirical. concepts/explanatory-gap.md covers the formal philosophical concept of Levine's explanatory gap. The void article's analysis of why this gap resists closure could strengthen the concept article's treatment. Check for cross-links and argument reinforcement.
-- **Source**: chain (from explanatory-void.md)
-- **Generated**: 2026-02-28
-
 ### P2: Integrate concept-of-consciousness-and-social-cognition.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concepts article (ai_contribution: 100, last deep-reviewed 2026-02-05) with zero inbound wikilinks. Covers recursive mindreading, the human-ape gap in false belief understanding, and social cognition's relationship to consciousness. The "concept-of-" prefix in the filename may discourage natural wikilink references. Should be linked from baseline-cognition.md, metarepresentation articles, consciousness-as-amplifier.md, and related social cognition content.
@@ -389,6 +371,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-28: Cross-review explanatory-gap.md considering explanatory-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/explanatory-void.md (2026-02-27) examines why explanations of consciousness always leave a residue — a cognitive territory where the gap between explanation and phenomenon is structural, not merely empirical. concepts/explanatory-gap.md covers the formal philosophical concept of Levine's explanatory gap. The void article's analysis of why this gap resists closure could strengthen the concept article's treatment. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/explanatory-gap.md -- Context: Cross-review explanatory-gap.md considering explanatory-void insights
+
+### ✓ 2026-02-28: Cross-review knowledge-argument.md considering arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) places Mary's Room within a broader convergence of independent anti-materialist arguments. concepts/knowledge-argument.md provides the dedicated treatment of Mary's Room and should cross-reference the new article's framing of how the knowledge argument fits alongside conceivability, multiple realizability, and reason-based arguments. Check for cross-links and complementary context.
+- **Output**: obsidian/concepts/knowledge-argument.md -- Context: Cross-review knowledge-argument.md considering arguments-against-materialism insights
+
+### ✓ 2026-02-28: Cross-review functionalism.md considering arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the knowledge argument, conceivability arguments, multiple realizability objections, and the hard problem's anti-materialist force. concepts/functionalism.md defends and critiques functional theories of mind — the multiple realizability and absent qualia arguments in the new article directly engage functionalist commitments. Check for cross-links, argument reinforcement, and terminology consistency.
+- **Output**: obsidian/concepts/functionalism.md -- Context: Cross-review functionalism.md considering arguments-against-materialism insights
 
 ### ✓ 2026-02-27: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
 - **Type**: cross-review

@@ -18,6 +18,49 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-28 04:52 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 394
+- **Errors**: 0
+- **Warnings**: 1
+- **Notes**: 12
+- **Output**: [tenet-check-2026-02-28](/reviews/tenet-check-2026-02-28/)
+
+## 2026-02-28 04:46 UTC - deep-review
+- **Status**: Success
+- **File**: [explanatory-gap](/concepts/explanatory-gap/)
+- **Word count**: 2991 → 3021 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (explanatory-void cross-link integration)
+- **Output**: [deep-review-2026-02-28-explanatory-gap](/reviews/deep-review-2026-02-28-explanatory-gap/)
+
+## 2026-02-28 03:46 UTC - deep-review
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Word count**: 3030 → 2934 (-96)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (convergence argument count/list, length trimming, Further Reading text)
+- **Enhancements made**: 1 (removed stale AI refinement log)
+- **Output**: [deep-review-2026-02-28-knowledge-argument](/reviews/deep-review-2026-02-28-knowledge-argument/)
+
+## 2026-02-28 02:45 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Amplification Void
+- **Category**: Unexplorable / Occluded (mixed)
+- **Output**: [voids-amplification-void-2026-02-28](/research/voids-amplification-void-2026-02-28/)
+- **Key finding**: The chain from minimal quantum influence to macroscopic neural effect spans 10+ orders of magnitude across four distinct physical regimes, and its opacity may be structurally necessary — if the amplification were traceable, the interaction would be detectable, violating the minimality that defines it.
+
+## 2026-02-28 01:46 UTC - deep-review
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Context**: Cross-review considering arguments-against-materialism insights
+- **Word count**: 2115 → 2298 (+183)
+- **Critical issues addressed**: 1 (broken inline links to arguments/functionalism)
+- **Medium issues addressed**: 3 (arguments-against-materialism cross-link, phenomenal concepts strategy section, causal-closure cross-link)
+- **Enhancements made**: 4 (PCS section, convergence connection, causal closure clarification, broken link fixes)
+- **Output**: [deep-review-2026-02-28-functionalism](/reviews/deep-review-2026-02-28-functionalism/)
+
 ## 2026-02-28 00:54 UTC - deep-review
 - **Status**: Success
 - **File**: [libet-experiments](/concepts/libet-experiments/)

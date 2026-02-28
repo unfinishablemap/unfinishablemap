@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-25 20:55:00+00:00
+ai_modified: 2026-02-28 03:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Mary knows all physical facts about color but seems to learn someth
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-05 21:32:00+00:00
+last_deep_review: 2026-02-28 03:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **The Objectivity Paradox**: Mary's case exemplifies the broader tension between [objectivity and consciousness](/concepts/objectivity-and-consciousness/). Science aims for the "view from nowhere"—perspective-free description independent of any observer. But consciousness *is* perspective. Mary possessed the maximally objective description of color vision yet lacked the subjective reality it describes. Eliminating the observer eliminates the subject matter.
 
-**The Convergence Argument**: The knowledge argument is not alone. It is one of seven major [arguments against materialism](/concepts/the-case-for-dualism/)—alongside the explanatory gap, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations. These arguments proceed through different logical routes, exploit different features of consciousness, yet converge on the same conclusion. Their convergence provides cumulative support stronger than any individual argument could.
+**The Convergence Argument**: The knowledge argument is not alone. It is one of several converging [arguments for dualism](/concepts/the-case-for-dualism/)—alongside the explanatory gap, conceivability argument, inverted qualia, modal arguments, Nagel's subjectivity argument, the unity of consciousness, and arguments from intentionality. These arguments exploit different features of consciousness through different logical routes yet converge on the same conclusion. Their cumulative force is stronger than any individual argument.
 
 ## The Introspection Question
 
@@ -138,15 +138,9 @@ The introspection objection thus fails on two fronts: it targets the wrong domai
 
 The knowledge argument's persuasive force rests heavily on the intuition that Mary learns something new. But philosophers including Dennett, Schwitzgebel, and Machery have argued that intuitions about consciousness are especially unreliable—precisely because consciousness is involved in generating those intuitions.
 
-Several considerations warrant caution:
+Several considerations warrant caution. Intuitions often fail: people intuit that the Earth is stationary, that time is absolute, that tiny particles can't be in two places. The force of "surely Mary learns something" may reflect our inability to imagine what "complete physical knowledge" would be like—a cognitive limitation rather than an insight into metaphysics. The dramatic features of Mary's scenario—confinement, release, first experience of color—may also generate an emotional response that amplifies the intuition beyond its epistemic warrant.
 
-**Intuitions often fail.** People intuit that the Earth is stationary, that time is absolute, that tiny particles can't be in two places. Neuroscience regularly overturns intuitions about the mind. The force of "surely Mary learns something" may reflect our inability to imagine what "complete physical knowledge" would be like—a cognitive limitation rather than an insight into metaphysics.
-
-**Framing effects.** Philosophical thought experiments are sensitive to how they're presented. The Mary's Room scenario has dramatic features—confinement, release, first experience of color—that may generate an emotional response mistaken for philosophical insight. Whether the intuition survives rigorous depersonalised formulation is debated.
-
-**The experimental philosophy challenge.** While surveys suggest most people share the learning intuition, experimental philosophy has shown that intuitions about other thought experiments (Gettier cases, trolley problems) vary across cultures and demographics. The universality of the Mary intuition deserves more systematic testing than it has received.
-
-The Map treats the learning intuition as strong evidence—but not as near-decisive. If the intuition is reliable, the knowledge argument is powerful. If it reflects cognitive limitations rather than insight into the nature of consciousness, the argument's force diminishes. The honest position is that the intuition's reliability is itself an open question, and the argument is strongest when presented as conditional: *if* Mary genuinely learns something new, *then* physicalism faces a serious challenge.
+The Map treats the learning intuition as strong evidence—but not as near-decisive. The honest position is that the intuition's reliability is itself an open question, and the argument is strongest when presented as conditional: *if* Mary genuinely learns something new, *then* physicalism faces a serious challenge.
 
 ## Process Philosophy Perspective
 
@@ -185,7 +179,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why consciousness resists the objective methods that work for physical systems
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not intrinsic nature—what Mary's case dramatizes
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — How acquaintance knowledge defines territories accessible only to conscious beings
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The knowledge argument as one of seven converging anti-materialist arguments
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The knowledge argument as one of several converging arguments for dualism
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap the knowledge argument dramatizes
 - [qualia](/concepts/qualia/) — The experiential properties Mary learns about
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The main physicalist response and its problems
@@ -214,16 +208,3 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231-259.
 - Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-02-16
-Changes made:
-- Rewrote Illusionist Response section: replaced inline regress argument with cross-reference to illusionism.md#regress
-- Added acknowledgment that many philosophers (including Frankish) consider regress objection question-begging
-- Preserved Mary-specific contribution: the specific character problem (why red seems *like that*) and the force of the learning intuition when all physical/functional facts are already known
-- Removed Tallis "misrepresentation presupposes presentation" quote (now in canonical illusionism.md treatment only)
-
-Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
-Key improvements: Eliminates repetition; focuses on what's specific to Mary's case rather than re-running the general regress.
-
-This log should be removed after human review.
--->

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-22 18:06:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-02-28 01:46:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -22,6 +22,8 @@ concepts:
 - '[[specious-present]]'
 - '[[mysterianism]]'
 - '[[concepts/materialism]]'
+- '[[phenomenal-concepts-strategy]]'
+- '[[causal-closure]]'
 created: 2026-01-09
 date: &id001 2026-01-09
 description: Mental states defined by causal roles, not substrate. Absent qualia,
@@ -30,11 +32,12 @@ description: Mental states defined by causal roles, not substrate. Absent qualia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 04:58:00+00:00
+last_deep_review: 2026-02-28 01:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[arguments/functionalism-argument]]'
+- '[[arguments-against-materialism]]'
 title: Functionalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -43,7 +46,7 @@ topics:
 
 Functionalism is the dominant position in contemporary [philosophy of mind](/concepts/philosophy-of-mind/): the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
 
-The Unfinishable Map rejects functionalism. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes, and functional organization—though abstractly characterized—is entirely specifiable in physical terms: inputs, outputs, and causal relations among physical states. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the Map denies. For a systematic presentation of the case against functionalism, see [Against Functionalism](/arguments/functionalism/)—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
+The Unfinishable Map rejects functionalism. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes, and functional organization—though abstractly characterized—is entirely specifiable in physical terms: inputs, outputs, and causal relations among physical states. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the Map denies. For a systematic presentation of the case against functionalism, see [Against Functionalism](/arguments/functionalism-argument/)—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
 
 ## The Functionalist View
 
@@ -95,13 +98,19 @@ The deepest objection to functionalism concerns [qualia](/concepts/qualia/)—th
 
 **Absent qualia**: A philosophical "zombie" functionally identical to you but with no experience at all—acts like it's in pain, believes it's in pain, feels nothing.
 
-If either is possible, functionalism is false: mental states have qualitative character not captured by functional role. See [Against Functionalism](/arguments/functionalism/) for the full argument.
+If either is possible, functionalism is false: mental states have qualitative character not captured by functional role. See [Against Functionalism](/arguments/functionalism-argument/) for the full argument.
 
 ### The Illusionist Response
 
 [Illusionism](/concepts/illusionism/) offers functionalism's most radical defense: qualia as we conceive them don't exist. Introspection systematically misrepresents our internal states; what seems irreducible is actually a cognitive illusion.
 
 The deeper problem: even an illusion requires a subject to whom things *seem* a certain way. If introspection misrepresents internal states, the misrepresentation itself is an experience—something it is like to be misled about one's own mind. Phenomenal character cannot be eliminated by relabeling it as error, because the error is itself phenomenal. Illusionism pushes the problem back rather than dissolving it.
+
+### The Phenomenal Concepts Strategy
+
+A more moderate defense is the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/): physical knowledge is complete, but we represent physical properties differently when thinking about them phenomenally versus physically. Mary doesn't learn a new fact; she gains a new *way of representing* facts she already knew. The gap between functional description and experience is a feature of our concepts, not of reality.
+
+But if phenomenal concepts are themselves just another functional role in the cognitive economy, the question remains: why does exercising *this* particular functional role involve qualitative experience while others don't? The strategy relocates the explanatory gap from the world to our concepts without closing it.
 
 ## The Specification Problem
 
@@ -129,11 +138,11 @@ The Map rejects functionalism on multiple grounds:
 
 ### Dualism and Qualia
 
-If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of a larger [convergence argument](/concepts/the-case-for-dualism/) against materialism.
+If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of the [broader convergence](/topics/arguments-against-materialism/) of [independent arguments](/concepts/the-case-for-dualism/) against materialism. Multiple lines of reasoning, exploiting different features of consciousness, arrive at the same conclusion: physical facts (including functional facts) do not determine phenomenal facts.
 
 ### Bidirectional Interaction
 
-If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies. This requires consciousness to be something with its own causal efficacy, not just a pattern description. See [mental-causation](/concepts/mental-causation/) for the full case.
+If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes what the substrate does, adding nothing causally novel. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [causal-closure](/concepts/causal-closure/) at precisely the point where physics leaves outcomes open. This requires consciousness to be something with its own causal efficacy, not just a pattern description. See [mental-causation](/concepts/mental-causation/) for the full case.
 
 ### Temporal Structure
 
@@ -172,6 +181,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 ## Further Reading
 
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The convergence of arguments against physicalism
+- [arguments-against-materialism](/topics/arguments-against-materialism/) — Why the cumulative case against materialism is powerful
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — The emergence problem functionalism cannot solve
 - [functionalism-argument](/arguments/functionalism-argument/) — Five formal arguments against functionalism
@@ -181,7 +191,9 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [inverted-qualia](/concepts/inverted-qualia/) — The spectrum inversion thought experiment
 - [illusionism](/concepts/illusionism/) — The radical defense of functionalism
+- [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The moderate defense against qualia objections
 - [mental-causation](/concepts/mental-causation/) — How consciousness might influence physics
+- [causal-closure](/concepts/causal-closure/) — The assumption functionalism inherits from materialism
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory that partially rejects functionalism
 - [tenets](/tenets/) — Why the Map rejects the functionalist view
 
