@@ -120,11 +120,11 @@ Large language models can produce philosophical text that both experts and non-e
 
 ### 6.1 Scale and Cost
 - ~500 articles, ~240 research notes, ~4,500 commits, ~3,000 sessions, ~1,300 review reports over ~2 months.
-- **Cost breakdown (~$530 total):**
-  - AI subscriptions (89% of total): Claude Max $400, ChatGPT $72 (for outer reviews via GPT-5.2 Pro).
+- **Cost breakdown (~$540 total):**
+  - AI subscriptions (87% of total): Claude Max $400, ChatGPT $72 (for outer reviews via GPT-5.2 Pro).
   - Infrastructure: Cloudflare Pro $50, .org domain $12, Netlify hosting $0 (free tier), GitHub $0 (public repo).
   - Electricity (13W PC running 24/7): $6.
-  - Per-article cost: ~$1.06. Per-session cost: ~$0.18. Per-review cost: ~$0.86 (AI cost only).
+  - Per-article cost: ~$1.07. Per-session cost: ~$0.18. Per-review cost: ~$0.35 (AI cost only).
   - Notable: these are flat-rate subscription costs, not usage-based API billing — the marginal cost of an additional article or review is effectively $0 until hitting rate limits. This fundamentally changes the economics of continuous operation compared to per-token API pricing.
 
 ### 6.2 What Review Layers Catch
