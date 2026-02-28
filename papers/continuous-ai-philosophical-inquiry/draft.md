@@ -24,7 +24,7 @@ No existing system addresses this at corpus scale. STORM (Shao et al., 2024) gen
 
 The Map generates articles constrained by five explicit philosophical commitments, reviews its output through multiple independent mechanisms, revises based on critique, and repeats — accumulating 505 articles and approximately 4,500 tracked revisions over two months of continuous operation.
 
-This paper is an existence proof: we demonstrate that a tenet-constrained, adversarially reviewed, continuously operating AI system can maintain a philosophical knowledge base where review cycles identify and resolve fabricated citations, misattributed claims, cross-article contradictions, and unsupported assertions — concrete errors that single-pass generation would retain. We do not claim full epistemic reliability: the system cannot distinguish tenet-consistent hallucination from legitimate philosophical defence (Section 6.5). The contribution is architectural — the system demonstrably identifies and resolves errors in internal coherence and factual accuracy, not philosophical truth.
+This paper is a proof of concept: a tenet-constrained, adversarially reviewed AI system can maintain a philosophical knowledge base where review cycles identify and resolve concrete errors — fabricated citations, misattributed claims, cross-article contradictions — that single-pass generation retains. We do not claim full epistemic reliability: the system cannot distinguish tenet-consistent hallucination from legitimate philosophical defence (Section 6.5). The contribution is architectural.
 
 Our contributions are:
 
@@ -107,7 +107,7 @@ Periodic maintenance triggers on cycle boundaries: link validation every 2 cycle
 
 Task chains provide structure within queue tasks: a research task automatically generates a content expansion task, which generates a cross-review task. When the active queue drops below three items, the system auto-replenishes from unconsumed research notes, content gap analysis, and staleness checks.
 
-**Human steering.** The primary mechanism for human direction is manual addition of tasks to the priority queue. Over the project's history, the author made approximately 30 task-addition commits, steering toward specific philosophical questions — quantum randomness in LLM token sampling, retrocausal neural firing evidence, recent work on dualism by Bradford Saad. These sit alongside approximately 2,400 agent commits to the same file (task completions, replenishments, status updates). The human role is editorial: setting direction and priorities while the agent handles execution.
+**Human steering.** The primary mechanism for human direction is manual addition of tasks to the priority queue. Over the project's history, the author made approximately 30 task-addition commits, steering toward specific philosophical questions — quantum randomness in LLM token sampling, retrocausal neural firing evidence, recent work on dualism by Bradford Saad. These sit alongside approximately 2,400 agent commits to the same file (task completions, replenishments, status updates). The human role is editorial: setting direction and priorities while the agent handles execution. Over the two-month period, human involvement averaged approximately four hours per week, spent on queue management, reviewing outer review findings, reading output for quality, and modifying the AI's operating instructions when review cycles revealed systematic error patterns (Section 6.2). The system runs autonomously between interventions; the human cost is curation, not production.
 
 ### 3.3 Multi-Layer Adversarial Review
 
@@ -194,7 +194,7 @@ In approximately two months of continuous operation (late December 2025 through 
 
 Total cost was approximately $530, dominated by flat-rate AI subscriptions: Claude Max ($400) and ChatGPT ($72, for outer reviews via GPT-5.2 Pro). Infrastructure costs were minimal: Cloudflare Pro ($50), .org domain ($12), Netlify hosting (free tier), GitHub (free for public repositories). The automation server — a 13W PC running continuously — added approximately $6 in electricity.
 
-Per-unit costs: approximately $1.06 per article, $0.18 per session, $0.86 per review (AI subscription cost only). These are flat-rate subscription costs, not usage-based API billing — the marginal cost of an additional article or review is effectively zero until hitting rate limits. This changes the economics of continuous operation compared to per-token API pricing.
+Per-unit costs: approximately $1.06 per article, $0.18 per session, $0.86 per review (AI subscription cost only). These are flat-rate subscription costs, not usage-based API billing — the marginal API cost of an additional article or review is negligible relative to the fixed subscription cost. This changes the economics of continuous operation compared to per-token API pricing.
 
 ### 6.2 What Review Layers Catch
 
@@ -220,18 +220,18 @@ The outer review sample is small (5 of 1,370 reviews) because outer reviews are 
 
 A recurring question is whether the review architecture produces measurably better output than single-pass generation. The system provides its own baseline: every article begins as a single-pass generation (via the expand-topic skill), and the first review of each article evaluates that unreviewed output. Subsequent reviews evaluate already-reviewed content. Comparing first reviews to later reviews therefore compares single-pass quality against reviewed quality.
 
-Across 612 first reviews and 451 subsequent reviews:
+The following analysis covers the 1,087 deep reviews (the primary content-improvement mechanism). Of these, 612 were first reviews and 451 were subsequent reviews of previously reviewed articles; the remaining 24 could not be cleanly classified. Other review types (112 pessimistic, 105 optimistic, 25 tenet, 18 apex, 16 system-tuning, 5 outer) serve different functions and are excluded from this comparison.
 
 - First reviews found an average of 1.39 critical issues per article; later reviews found 0.37 (3.8x reduction).
 - 61% of first reviews found at least one critical issue; only 21% of later reviews did.
-- First reviews found an average of 5.16 total issues (critical, medium, and low); later reviews found 2.54 (2.0x reduction, Cohen's d = 0.98).
+- First reviews found an average of 5.16 total issues (critical, medium, and low); later reviews found 2.54 (2.0x reduction, Cohen's d = 0.98 for total issues, 0.74 for critical issues alone).
 - Only 0.4% of first reviews found zero issues of any kind, compared to 9.7% of later reviews.
 
 For articles with three or more reviews, the pattern shows clear diminishing returns: average critical issues per review declined from 1.60 (first review) to 0.54 (second) to 0.29 (third). The largest quality improvement occurs between the first and second review, with critical issues dropping 66%. After the third review, returns flatten — later reviews increasingly find integration issues (missing cross-links to newly created articles) rather than defects in the original content.
 
 Of the 252 articles with at least two reviews, 79% had fewer total issues on second review than first. Eighty-three percent of all critical issues across the corpus were caught in first reviews — confirming that initial generation is where serious errors concentrate.
 
-These numbers do not mean that reviewed articles are error-free. A review finding zero critical issues means the reviewer did not detect any, not that none exist — the same model that generated the errors may share blind spots with the model reviewing them (Section 6.5). But the data is meaningful: the consistent, large-effect-size difference between first and subsequent reviews demonstrates that the review architecture catches a substantial proportion of the errors that single-pass generation introduces.
+These numbers do not mean that reviewed articles are error-free. A review finding zero critical issues means the reviewer did not detect any, not that none exist. Moreover, the decline in detected issues across review cycles reflects genuine error correction, but the magnitude may be inflated by shared blind spots between the generating and reviewing model — the outer review findings (Section 6.2) confirm that same-model review misses errors that cross-model review catches. But the data is still meaningful: the baseline comparison measures reduction in internally detectable errors, not absolute correctness — and the consistent, large-effect-size difference between first and subsequent reviews demonstrates that the review architecture catches a substantial proportion of the errors that single-pass generation introduces.
 
 ### 6.4 Dissemination and Reach
 
@@ -263,7 +263,7 @@ The convergence of coding agents in late 2025 rested on testability. A coding ag
 
 In Constitutional AI (Bai et al., 2022), principles constrain behaviour away from undesirable outputs. In the Map, tenets constrain generation toward a coherent philosophical position. The constraints are productive: an unconstrained LLM generating philosophy produces survey content without commitments; a tenet-constrained system develops arguments for specific positions and engages with alternatives.
 
-### 7.3 Continuous Revision Changes AI Content
+### 7.3 Continuous Revision Changes the Nature of AI Content
 
 One-shot AI generation produces disposable text — no history, no review trail, no relationship to other content. Continuously revised content is a different kind of artefact. Each article carries version history, review records, and cross-references connecting it to the broader corpus. The review data in Sections 6.2 and 6.3 shows that this process catches concrete errors — fabricated citations, misattributed positions, cross-article contradictions — and that the first review of each article finds substantially more issues than subsequent reviews, confirming that single-pass generation is the error-rich baseline that review cycles improve upon. Whether continuous revision also improves philosophical *depth* is a harder question that formal evaluation would need to address.
 
