@@ -1,23 +1,33 @@
 # Outline
 
-**Working Title:** The Unfinishable Map: Continuous AI-Assisted Philosophical Inquiry Through Adversarial Self-Review
+**Working Title:** The Unfinishable Map: Agentic Philosophy Through Adversarial Self-Review
 
 **Authors:** Andy Southgate (independent researcher, unfinishablemap.org)
 
-**Keywords:** AI-assisted knowledge production, adversarial self-review, constrained generation, human-AI co-authorship, philosophical inquiry, LLM content architecture
+**Keywords:** agentic philosophy, AI-assisted knowledge production, adversarial self-review, constrained generation, human-AI co-authorship, LLM content architecture
+
+## Terminology: "Agentic Philosophy"
+
+We define **agentic philosophy** as the use of autonomous AI agent systems to produce, review, and continuously improve philosophical content under human-set constraints. This is distinct from:
+- "Philosophy of agentic AI" (philosophical analysis *of* agents)
+- "Philosophical reasoning with agentic LLMs" (using philosophy to improve AI, as in Harb et al.)
+- "Vibe coding" applied to philosophy (one-shot generation without review)
+
+Agentic philosophy means: human sets the commitments, AI agents do the sustained work of generation, critique, revision, and synthesis — operating continuously over weeks or months.
 
 ## Abstract (draft, ~200 words)
 
-Large language models can produce philosophical text that experts struggle to distinguish from human output, yet existing systems generate content in single passes without sustained review or revision. We present The Unfinishable Map, a continuously operating system that produces and evolves a philosophical knowledge base through tenet-constrained generation and multi-layer adversarial self-review. Five explicit philosophical commitments function as hard constraints on all content — an application of constitutional AI principles to knowledge production rather than safety alignment. A deterministic 24-slot evolution loop orchestrates generation, review, and maintenance tasks, while independent review layers (pessimistic, optimistic, deep, outer, and cross-review) surface logical gaps, unsupported claims, and internal contradictions. Over approximately two months of continuous operation, the system completed ~3,000 automated sessions, produced ~500 articles across four content types, and executed ~550 reviews, accumulating ~4,500 git commits in a public repository. We describe the system architecture, report observations on what adversarial review catches and where it fails, and discuss practical solutions to the human-AI co-authorship problem including contribution scoring, dual timestamps, and AI pseudonyms for citation. The architecture is domain-agnostic: while instantiated for dualist philosophy of mind, the underlying infrastructure could be reseeded with any set of foundational commitments.
+Large language models can produce philosophical text that experts struggle to distinguish from human output, yet existing systems generate content in single passes without sustained review or revision. We present The Unfinishable Map, a continuously operating system that produces and evolves a philosophical knowledge base through tenet-constrained generation and multi-layer adversarial self-review — an approach we term *agentic philosophy*. Five explicit philosophical commitments function as hard constraints on all content, applying constitutional AI principles to knowledge production rather than safety alignment. A deterministic 24-slot evolution loop orchestrates generation, review, and maintenance tasks, while independent review layers (pessimistic, optimistic, deep, outer, and cross-review) surface logical gaps, unsupported claims, and internal contradictions. Over approximately two months of continuous operation, the system completed ~3,000 automated sessions, produced ~500 articles across four content types, and executed ~550 reviews, accumulating ~4,500 git commits in a public repository. We describe the system architecture, report observations on what adversarial review catches and where it fails, present cost analysis for reproducibility, and discuss practical solutions to the human-AI co-authorship problem. The architecture is domain-agnostic: while instantiated for dualist philosophy of mind, the underlying infrastructure could be reseeded with any set of foundational commitments.
 
-## 1. Introduction (~800 words)
+## 1. Introduction (~700 words)
 
-- **The gap between generation and knowledge.** LLMs produce fluent philosophical text (Schwitzgebel et al., 2023), but fluency is not reliability (Shanahan, 2023; Turpin et al., 2023). Single-shot generation produces disposable content; no existing system continuously evolves a philosophical knowledge base through sustained review.
-- **The core question.** Can constrained generation + adversarial self-review + continuous revision transform AI-generated philosophical text from disposable output into an evolving, improving knowledge base?
+- **The December 2025 inflection point.** LLM agent capabilities crossed a qualitative threshold around December 2025 (Karpathy, 2025). Coding agents went from brittle demos to sustained, long-horizon task completion. Claude Opus 4.5 (released November 2025) and similar models enabled autonomous workflows where humans direct and agents execute. This capability shift made a new kind of project possible: not just generating philosophical text, but continuously evolving a philosophical knowledge base.
+- **From vibe coding to agentic philosophy.** Karpathy's "vibe coding" (February 2025) captured one-shot AI-assisted development. We extend this to a sustained, constrained, self-reviewing process applied to philosophical content — what we call *agentic philosophy*.
+- **The gap.** LLMs produce fluent philosophical text (Schwitzgebel et al., 2023), but fluency is not reliability (Shanahan, 2023; Turpin et al., 2023). Single-shot generation produces disposable content. No existing system continuously evolves a philosophical knowledge base through adversarial review.
 - **What we built.** The Unfinishable Map: a system that generates, attacks, revises, and re-attacks philosophical content indefinitely, guided by explicit commitments and transparent about its AI origins.
-- **Contributions.** (1) Tenet constraints applied to knowledge production, (2) persistent multi-layer review at corpus scale, (3) practical co-authorship framework, (4) LLM-first content architecture, (5) convergence design with section caps. Public system at unfinishablemap.org; full source in public repository.
+- **Contributions.** (1) The concept and practice of agentic philosophy, (2) tenet constraints applied to knowledge production, (3) persistent multi-layer review at corpus scale, (4) practical co-authorship framework, (5) LLM-first content architecture, (6) convergence design with section caps, (7) cost analysis for reproducibility. Public system at unfinishablemap.org; full source in public repository.
 
-## 2. Related Work (~800 words)
+## 2. Related Work (~700 words)
 
 ### 2.1 AI-Assisted Knowledge Production
 - STORM and Co-STORM (Shao et al., 2024; Jiang et al., 2024) — single-shot article generation via research conversations. Closest system-level comparison but no continuous review.
@@ -40,7 +50,7 @@ Large language models can produce philosophical text that experts struggle to di
 ### 2.5 Gap
 - No existing system combines continuous evolution + tenet constraints + multi-layer review + transparent co-authorship + convergence architecture at corpus scale.
 
-## 3. System Design (~1,800 words)
+## 3. System Design (~1,500 words)
 
 ### 3.1 Tenet-Constrained Generation
 - Five foundational commitments (dualism, minimal quantum interaction, bidirectional interaction, no many-worlds, Occam's limits) as hard constraints.
@@ -69,19 +79,13 @@ Large language models can produce philosophical text that experts struggle to di
 - Coalesce skill merges overlapping articles; apex articles synthesise across the corpus.
 - Quality metrics track issue counts over time.
 
-### 3.5 Content Types
-- **Topics:** philosophical subjects explored through the Map's perspective.
-- **Concepts:** definitions and analyses of philosophical terms.
-- **Voids:** deliberately mapping what is unknowable or unchartable — a novel content type.
-- **Apex articles:** human-readable synthesis across multiple topics/concepts.
-- **Research notes:** intermediate outputs from web research, consumed by generation tasks.
-
-### 3.6 Data Pipeline
-- Obsidian vault (primary authoring) → Python sync tools → Hugo static site → Netlify deployment.
-- All content in markdown with structured YAML frontmatter.
+### 3.5 Content Types and Data Pipeline
+- Four content types: topics, concepts, voids (deliberately mapping the unknowable), apex (synthesis).
+- Research notes as intermediate outputs consumed by generation tasks.
+- Pipeline: Obsidian vault → Python sync → Hugo static site → Netlify deployment.
 - Public git repository as permanent version history.
 
-## 4. Authorship and Attribution (~600 words)
+## 4. Authorship and Attribution (~500 words)
 
 - **The problem:** COPE (2024) says AI cannot be an author; yet AI produces most of the text. How to attribute transparently?
 - **`ai_contribution` score (0-100):** every article carries a machine-readable attribution. 0 = purely human, 100 = purely AI, 1-99 = mixed.
@@ -91,7 +95,7 @@ Large language models can produce philosophical text that experts struggle to di
 - **Full version history:** public repository enables tracing any claim to its origin and revision history.
 - **Relation to attribution research:** He et al. (2025) found AI gets less credit for equivalent contributions; our system makes contribution levels explicit and auditable.
 
-## 5. LLM-First Content Design (~500 words)
+## 5. LLM-First Content Design (~400 words)
 
 - **Primary audience is chatbots**, not human browsers. Content is designed for retrieval by AI systems.
 - **Front-loaded claims:** key thesis in the first paragraph (truncation resilience for RAG systems with limited context windows).
@@ -100,11 +104,11 @@ Large language models can produce philosophical text that experts struggle to di
 - **Explicit section headings:** structured for LLM parsing and navigation.
 - **Relation to GEO:** Aggarwal et al. (2024) optimise for AI search visibility; we optimise for AI consumption — related but distinct.
 
-## 6. Observations (~1,000 words)
+## 6. Observations (~900 words)
 
-### 6.1 Scale
+### 6.1 Scale and Cost
 - ~500 articles, ~240 research notes, ~4,500 commits, ~3,000 sessions, ~550 reviews over ~2 months.
-- Public site indexed by Google Scholar.
+- **Cost breakdown:** [USER TO PROVIDE] API costs, hosting costs, tooling costs. Cost per article, cost per review, total project cost. Breakdown by task type (generation vs review vs maintenance). Important for reproducibility — enables others to estimate cost of similar systems.
 
 ### 6.2 What Review Layers Catch
 - Examples of genuine issues found: logical gaps, unsupported claims, misattributed arguments, internal contradictions between articles.
@@ -117,26 +121,33 @@ Large language models can produce philosophical text that experts struggle to di
 - Cross-references create emergent coherence — articles written independently develop meaningful connections.
 - Convergence signals: as section caps approach, the system's behaviour shifts from breadth to depth.
 
-### 6.4 Failure Modes and Limitations
+### 6.4 Dissemination and Reach
+- Google Scholar indexing: the site is indexed and citable, demonstrating AI-co-authored philosophical content can enter scholarly infrastructure.
+- Traffic sources: breakdown of human visitors vs AI agent/crawler visits. [USER TO PROVIDE stats]
+- Automated social media: daily highlights posted to X/Twitter.
+- Automated video generation for YouTube, TikTok, Instagram — noted as a separate area of investigation (see §8).
+
+### 6.5 Failure Modes and Limitations
 - **Convergence on the model's biases:** adversarial review by the same model may reinforce rather than correct systematic biases. Outer review mitigates but doesn't eliminate this.
 - **Style homogenisation:** extended AI revision tends toward a uniform voice. Human curation is needed to preserve variety.
 - **Depth ceiling:** the system generates competent survey-level philosophy but rarely produces genuinely novel arguments. Consistent with Schwitzgebel et al.'s finding of stylistic but not epistemic capability.
 - **Review fatigue:** after many cycles, reviews become incremental; diminishing returns on additional review passes for mature articles.
 - **Tenet rigidity:** five fixed commitments constrain exploration. The system cannot question its own foundations.
 
-## 7. Discussion (~700 words)
+## 7. Discussion (~600 words)
 
+- **Agentic philosophy as a practice.** The December 2025 capability threshold made this possible. The Map is an early instance of what may become a broader category: autonomous AI systems that produce sustained, constrained intellectual work under human direction.
 - **Constitutional AI for knowledge, not safety.** The Map demonstrates that principle-driven constraints can guide knowledge production, not just prevent harm. Tenets focus generation rather than limiting it.
 - **Continuous revision changes the ontological status of AI content.** One-shot generation is disposable; continuously revised content is an evolving artefact with version history, review trail, and increasing coherence.
 - **The authorship question is practical, not philosophical.** Rather than debating whether AI "can be" an author, we provide engineering solutions (contribution scores, dual timestamps, pseudonyms) that make the question tractable.
 - **Domain agnosticism.** The architecture is not about dualism. Reseeding with physicalist, panpsychist, or non-philosophical commitments would produce a structurally identical system exploring different territory.
-- **Relation to "Augmented Agency" (Gage, 2025).** Our system is a concrete implementation of the human-conceptual-architect + AI-execution model that Gage defends philosophically.
 
-## 8. Conclusion (~300 words)
+## 8. Conclusion and Future Work (~300 words)
 
-- Restate core contribution: continuous evolution + tenet constraints + adversarial review + transparent attribution = a new kind of AI-assisted knowledge production.
+- Restate core contribution: agentic philosophy — continuous evolution + tenet constraints + adversarial review + transparent attribution = a new kind of AI-assisted knowledge production.
 - The system does not claim AI "does philosophy." It shows that constrained, reviewed, continuously improved AI output can contribute to a philosophical knowledge base in ways that single-shot generation cannot.
-- Open invitation: the architecture is public, the repository is public, the system is replicable. Others can reseed with their own commitments and observe what emerges.
+- **Future work:** (1) Automated video generation for dissemination (YouTube, TikTok, Instagram) as a separate investigation. (2) Multi-model evolution loops using different LLMs for different task types. (3) Reseeding experiments with alternative philosophical commitments. (4) Formal evaluation of content quality by domain experts.
+- Open invitation: the architecture is public, the repository is public, the system is replicable.
 
 ## Figures
 
@@ -146,10 +157,11 @@ Large language models can produce philosophical text that experts struggle to di
 | 2 | The 24-slot evolution cycle | Diagram | Show task types, proportions, cycle triggers |
 | 3 | Review layer architecture | Diagram | Pessimistic/optimistic/deep/outer/cross flows |
 | 4 | Content growth over time | Chart | Articles by type over project duration (from git history) |
-| 5 | Example: article before and after review cycles | Side-by-side | Show concrete improvement from adversarial review |
+| 5 | Cost breakdown by task type | Chart/table | Generation vs review vs maintenance costs |
 
 ## Key References (most cited in text)
 
+- Karpathy, A. (2025) — "2025 LLM Year in Review" (blog post + tweets; December 2025 threshold)
 - Schwitzgebel et al. (2023) — philosopher emulation baseline
 - Bai et al. (2022) — Constitutional AI (conceptual precedent)
 - Madaan et al. (2023) — Self-Refine (extended to corpus scale)
@@ -163,15 +175,17 @@ Large language models can produce philosophical text that experts struggle to di
 
 ## Word Count Targets
 
-| Section | Target |
-|---------|--------|
-| Abstract | 200 |
-| 1. Introduction | 800 |
-| 2. Related Work | 800 |
-| 3. System Design | 1,800 |
-| 4. Authorship | 600 |
-| 5. LLM-First Design | 500 |
-| 6. Observations | 1,000 |
-| 7. Discussion | 700 |
-| 8. Conclusion | 300 |
-| **Total** | **~6,700** |
+| Section | Target (draft) | Target (final) |
+|---------|----------------|-----------------|
+| Abstract | 200 | 200 |
+| 1. Introduction | 700 | 550 |
+| 2. Related Work | 700 | 600 |
+| 3. System Design | 1,500 | 1,300 |
+| 4. Authorship | 500 | 400 |
+| 5. LLM-First Design | 400 | 350 |
+| 6. Observations | 900 | 750 |
+| 7. Discussion | 600 | 500 |
+| 8. Conclusion | 300 | 250 |
+| **Total** | **~5,800** | **~4,900** |
+
+Strategy: draft at ~5,800 words, compact to ~4,900-5,200 for submission. This is within standard SSRN working paper range (4,000-7,000) while being tight enough to hold attention.

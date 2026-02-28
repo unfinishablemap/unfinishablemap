@@ -109,7 +109,12 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 32. **Turpin, M., Michael, J., Perez, E., & Bowman, S.R. (2023).** "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting." *NeurIPS 2023*. https://arxiv.org/abs/2305.04388
     - Demonstrates that CoT explanations can be systematically unfaithful: when biasing features are added, models fail to report true influences and rationalise incorrect answers (up to 36% accuracy drops). Directly motivates our architecture: if self-generated reasoning text can increase trust while decreasing epistemic safety, then *external* adversarial review (pessimistic review, outer review using different AI systems) is necessary rather than relying on self-critique alone.
 
-## Category 6: Writing for AI Consumption
+## Category 6: AI Capability Context
+
+33. **Karpathy, A. (2025).** "2025 LLM Year in Review." *Blog post (December 2025)*. https://knotbin.xyz/blog/2025-llm-year-in-review
+    - Identifies a "qualitative threshold of coherence" crossed by coding agents around December 2025, making sustained autonomous workflows practical. Also coined "vibe coding" (February 2025) for one-shot AI-assisted development. Our work extends this to sustained, constrained, self-reviewing philosophical content production — what we call *agentic philosophy*.
+
+## Category 7: Writing for AI Consumption
 
 23. **Aggarwal, P., et al. (2024).** "GEO: Generative Engine Optimization." *KDD 2024*. https://arxiv.org/abs/2311.09735
     - **Key paper.** First academic work defining optimization for AI-generated search responses. Citations and statistics boost visibility by 40%. Our LLM-first content strategy is a related but distinct approach — we optimize for chatbot *consumption* rather than search *visibility*.
