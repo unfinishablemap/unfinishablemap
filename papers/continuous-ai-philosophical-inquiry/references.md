@@ -55,7 +55,7 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 
 ## Category 4: LLM-Based Philosophical Reasoning
 
-11. **Schwitzgebel, E., Schwitzgebel, D., & Strasser, A. (2023).** "Creating a Large Language Model of a Philosopher." *arXiv*. https://arxiv.org/abs/2302.01339
+11. **Schwitzgebel, E., Schwitzgebel, D., & Strasser, A. (2024).** "Creating a Large Language Model of a Philosopher." *Mind & Language*, 39(2), 237–259. https://doi.org/10.1111/mila.12466
     - **Key paper.** Fine-tuned GPT-3 on Dennett's works; experts struggled to distinguish outputs. Establishes LLMs can produce credible philosophical text. Our work extends this from mimicry to original, constrained, continuously-improved content. [Downloaded]
 
 12. **Harb, H., Sun, Y., Unal, M., et al. (2025).** "Towards Philosophical Reasoning with Agentic LLMs: Socratic Method for Scientific Assistance." *ChemRxiv / ML: Science and Technology*. https://doi.org/10.26434/chemrxiv-2025-rwxdk
@@ -116,7 +116,7 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 
 ## Category 6: AI Capability Context
 
-33. **Karpathy, A. (2025).** "2025 LLM Year in Review." *Blog post (December 2025)*. https://knotbin.xyz/blog/2025-llm-year-in-review
+33. **Karpathy, A. (2025).** "Year in Review 2025." *Blog post (December 2025)*. https://karpathy.bearblog.dev/year-in-review-2025/
     - Identifies a "qualitative threshold of coherence" crossed by coding agents around December 2025, making sustained autonomous workflows practical. Also coined "vibe coding" (February 2025) for one-shot AI-assisted development. Our work extends this to sustained, constrained, self-reviewing philosophical content production — what we call *agentic philosophy*.
 
 ## Category 7: Writing for AI Consumption

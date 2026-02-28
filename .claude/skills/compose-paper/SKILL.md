@@ -181,6 +181,21 @@ Structure:
 - Structural analogies to established frameworks (e.g., Lakatos) can elevate a Discussion section from observations to theory
 - AI pseudonyms for citation need governance clarification (metadata, not legal authorship)
 - Failure modes sections are rare and valuable — be candid
+- **Verify all URLs before submission.** URLs in references can become stale or be wrong from the start
+- **Attribute claims precisely.** When citing a named person, quote or closely paraphrase what they actually said. Do not synthesise a stronger claim and attribute it to them
+- **Scope formal results accurately.** If a paper proves X under conditions Y, state both X and Y. Dropping scope conditions inflates the claim
+- **Avoid anthropomorphic framing of AI system behaviour.** Do not describe AI outputs as "conceived," "identified for itself," or "self-aware." Describe what the system produced and why the architecture led to that output. This is especially important when citing Shanahan's anthropomorphism warning — do not violate the principle you invoke
+- **Signal preprint/non-peer-reviewed status** of cited works. Do not present PhilArchive preprints alongside published journal articles without indicating the difference
+- **Do not list contributions you haven't delivered.** If a section contains placeholder data, do not claim that section's content as a contribution in the introduction
+- **Existence proofs need specificity.** "We prove X exists" must specify what X is concretely — not "that a system can run" (trivial) but what measurable property the system demonstrates
+- **Ground architectural claims in concrete mechanisms.** When claiming a system converges or improves, explain *why* — what feedback signal drives the convergence? Coding agents converge because tests provide objective pass/fail signals. Philosophy lacks this. If your system approximates testability through review layers, say so explicitly, and be honest about where the approximation falls short
+- **Process reviews into the outline, not the draft.** When receiving review feedback, update the outline and maintain a review corrections checklist there. Generate fresh drafts from the corrected outline rather than patching the draft directly. This prevents drift between the outline (source of truth) and the draft
+- **Make arithmetic verifiable.** When reporting counts that should add up (e.g., review files by type totalling to a grand total), verify the sum. Unexplained arithmetic gaps in a paper about rigour invite scrutiny
+- **Distinguish "detected and corrected" from "fewer than baseline."** Showing that a system finds and fixes errors is not the same as showing comparative superiority over a baseline. Do not use comparative language ("measurably fewer than X") unless you have a direct comparison. "Identifies and resolves" is defensible; "fewer than single-pass" requires a controlled comparison
+- **Acknowledge small sample sizes.** If a mechanism has been used only a handful of times (e.g., 5 outer reviews out of 1,370 total), state the count, explain why it is small, and do not draw general conclusions from it
+- **Explain hedged counts.** "At least N" without explanation suggests incomplete record-keeping. Either give exact counts or explain what makes borderline cases ambiguous (e.g., "6 confirmed fabricated citations; additional cases where citation details were imprecise rather than wholly invented")
+- **Add forward references for unsupported claims.** If a claim in an early section (e.g., "drives measurable improvement") is supported by data in a later section, add a forward reference "(Section N)" so the reader knows evidence is coming
+- **Map technical mechanisms to familiar analogues.** Review layers map onto traditional philosophical workflow (pessimistic review ≈ hostile referee, outer review ≈ reviewer from a different subfield). Making these comparisons explicit helps readers from adjacent fields understand the architecture
 
 ### 6. Prepare Figures
 
