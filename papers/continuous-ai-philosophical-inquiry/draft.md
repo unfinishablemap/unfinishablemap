@@ -24,7 +24,7 @@ No existing system addresses this at corpus scale. STORM (Shao et al., 2024) gen
 
 The Map generates articles constrained by five explicit philosophical commitments, reviews its output through multiple independent mechanisms, revises based on critique, and repeats — accumulating 505 articles and approximately 4,500 tracked revisions over two months of continuous operation.
 
-This paper is an existence proof: we demonstrate that a tenet-constrained, adversarially reviewed, continuously operating AI system can maintain a philosophical knowledge base where review cycles identify and resolve fabricated citations, misattributed claims, cross-article contradictions, and unsupported assertions — concrete errors that single-pass generation would retain. We do not claim full epistemic reliability: the system cannot distinguish tenet-consistent hallucination from legitimate philosophical defence (Section 6.4). The contribution is architectural — the system demonstrably identifies and resolves errors in internal coherence and factual accuracy, not philosophical truth.
+This paper is an existence proof: we demonstrate that a tenet-constrained, adversarially reviewed, continuously operating AI system can maintain a philosophical knowledge base where review cycles identify and resolve fabricated citations, misattributed claims, cross-article contradictions, and unsupported assertions — concrete errors that single-pass generation would retain. We do not claim full epistemic reliability: the system cannot distinguish tenet-consistent hallucination from legitimate philosophical defence (Section 6.5). The contribution is architectural — the system demonstrably identifies and resolves errors in internal coherence and factual accuracy, not philosophical truth.
 
 Our contributions are:
 
@@ -41,7 +41,7 @@ The system is public at unfinishablemap.org with full source code in a public re
 
 ### 2.1 LLMs and Philosophy
 
-Schwitzgebel et al. (2024) fine-tuned GPT-3 on the writings of Daniel Dennett and found that philosophical experts identified Dennett's own answers only 51% of the time when presented alongside the model's output — above the 20% chance rate but well below the authors' hypothesised 80%. This establishes that LLMs can produce credible philosophical text, but the experiment was mimicry rather than original constrained content production. The Map extends from single-shot emulation to sustained, reviewed knowledge-base maintenance.
+Schwitzgebel et al. (2024) fine-tuned GPT-3 on the writings of Daniel Dennett and found that philosophical experts identified Dennett's own answers only 51% of the time when presented alongside the model's output — above the 20% chance rate but well below the authors' hypothesised 80%. This establishes that LLMs can produce credible philosophical text, but the experiment was emulation of a specific philosopher's voice rather than original constrained content production. The Map extends from single-shot emulation to sustained, reviewed knowledge-base maintenance.
 
 Gage (2025, PhilArchive preprint) offers a defence of "Augmented Agency," arguing that philosophical ideas should be evaluated on intellectual merit rather than discoverer's credentials. This is early-stage, non-peer-reviewed work, but it provides a philosophical framework for human-directed, AI-executed inquiry. The inverse relationship also exists: Harb et al. (2025) use Socratic dialogue to improve LLM scientific reasoning — philosophy improving AI, where we use AI to produce philosophy.
 
@@ -53,7 +53,7 @@ Goldstein (2024, PhilArchive preprint) argues that next-word prediction can prod
 
 The closest system-level comparison is STORM (Shao et al., 2024), which generates Wikipedia-style articles by orchestrating multi-perspective research conversations among LLM-simulated experts. Co-STORM (Jiang et al., 2024) extends this to collaborative human-AI knowledge curation. Both demonstrate that structured LLM workflows can produce articles of reasonable quality, but neither continuously reviews or revises its output after initial generation.
 
-The scale of AI-assisted writing is substantial. Liang et al. (2025) estimate that 10–24% of text across consumer complaints, corporate communications, and job postings shows evidence of LLM assistance, based on stylistic detection methods. Brooks and Eggert (2024) report that over 5% of new English Wikipedia articles are AI-generated, often without disclosure. The Map's transparent attribution — every article carries a machine-readable AI contribution score — is a deliberate response to this problem.
+The scale of AI-assisted writing is substantial. Liang et al. (2025) estimate that 10–24% of text across consumer complaints, corporate communications, and job postings shows evidence of LLM assistance, based on a population-level statistical framework comparing text distributions. Brooks, Eggert, and Peskoff (2024) report that over 5% of new English Wikipedia articles are flagged as AI-generated by automated detectors. The Map's transparent attribution — every article carries a machine-readable AI contribution score — is a deliberate response to this problem.
 
 ### 2.3 Constrained and Constitutional AI
 
@@ -63,11 +63,11 @@ Bai et al. (2022) introduced Constitutional AI, where natural-language principle
 
 Self-Refine (Madaan et al., 2023) demonstrated that the same LLM can generate, critique, and improve its output iteratively. Reflexion (Shinn et al., 2023) extended this to agents maintaining episodic memory of past failures. The Map extends both from improving individual responses to maintaining a persistent, evolving knowledge base across thousands of sessions.
 
-Multi-agent debate (Du et al., 2024) shows that adversarial dialogue between LLM instances improves factual accuracy. Estornell and Liu (2024) formalise this mathematically, finding that similar models tend to converge toward shared positions — which may include shared errors. This motivated the Map's outer review mechanism, which commissions analysis from a different model family.
+Multi-agent debate (Du et al., 2024) shows that structured dialogue between LLM instances improves factual accuracy. Estornell and Liu (2024) formalise this mathematically, finding that similar models tend to converge toward shared positions — which may include shared errors. This motivated the Map's outer review mechanism, which commissions analysis from a different model family.
 
 Two further findings inform the architecture:
 
-- Turpin et al. (2023) show that chain-of-thought explanations can be systematically unfaithful, increasing confidence without increasing accuracy.
+- Turpin et al. (2023) show that chain-of-thought explanations can be systematically unfaithful — producing plausible reasoning that rationalises biased predictions without acknowledging the features that actually drove them.
 - Xu et al. (2024) prove formally that hallucination is an inevitable property of LLMs when used as general problem solvers, under specific modelling assumptions. This is a result about a class of architectures under stated conditions, not a universal law — but it motivates structural countermeasures.
 
 Together, these results imply that self-generated reasoning alone is insufficient for reliable knowledge production.
@@ -198,7 +198,7 @@ Per-unit costs: approximately $1.06 per article, $0.18 per session, $0.86 per re
 
 ### 6.2 What Review Layers Catch
 
-Over two months, the system produced 1,370 review files: 1,087 deep reviews, 112 pessimistic, 105 optimistic, 25 tenet checks, 18 apex synthesis reviews, 16 system-tuning reviews, and 5 outer reviews. Of the deep reviews, 52% found at least one critical issue — where "critical" is operationally defined by the review skill as an error that would mislead a reader relying on the claim (fabricated citation, misattribution, logical contradiction, or factual inaccuracy). This rate reflects initial generation quality, which is precisely what motivates the review architecture. In total, 76 critical issues were identified and resolved (0 known critical issues at time of writing), with 607 issues tagged by severity across all review types. The following categories illustrate the kinds of errors caught.
+Over two months, the system produced 1,370 review files: 1,087 deep reviews, 112 pessimistic, 105 optimistic, 25 tenet checks, 18 apex synthesis reviews, 16 system-tuning reviews, and 5 outer reviews. Of the deep reviews, 52% found at least one critical issue — where "critical" is operationally defined by the review skill as an error that would mislead a reader relying on the claim (fabricated citation, misattribution, logical contradiction, or factual inaccuracy). This rate reflects initial generation quality, which is precisely what motivates the review architecture. In total, 76 critical issues were identified and resolved, with 607 issues tagged by severity across all review types. The following categories illustrate the kinds of errors caught.
 
 **Fabricated citations:** The generation model hallucinated references to papers that do not exist; we confirmed 6, with additional borderline cases where the citation was imprecise rather than wholly invented. "Vossel et al. (2023)" was cited for willed attention timing data — no such paper exists. "Metzinger (2024)" had the wrong year, title, and journal; the actual paper is Metzinger (2020). A quote was attributed to a "mathematician" who turned out, on web verification, to be a Medium blogger. These are fabricated evidence for philosophical claims, caught only by systematic review.
 
@@ -216,13 +216,30 @@ The outer review sample is small (5 of 1,370 reviews) because outer reviews are 
 
 **Process-level improvement:** After outer reviews caught systematic misattribution patterns, the human author modified the AI's operating instructions — adding attribution discipline requirements, quote-and-cite gates, and position strength calibration. The review architecture surfaced error patterns that led to changes in the generation process itself, not just corrections to individual articles.
 
-### 6.3 Dissemination and Reach
+### 6.3 Single-Pass Baseline Comparison
+
+A recurring question is whether the review architecture produces measurably better output than single-pass generation. The system provides its own baseline: every article begins as a single-pass generation (via the expand-topic skill), and the first review of each article evaluates that unreviewed output. Subsequent reviews evaluate already-reviewed content. Comparing first reviews to later reviews therefore compares single-pass quality against reviewed quality.
+
+Across 612 first reviews and 451 subsequent reviews:
+
+- First reviews found an average of 1.39 critical issues per article; later reviews found 0.37 (3.8x reduction).
+- 61% of first reviews found at least one critical issue; only 21% of later reviews did.
+- First reviews found an average of 5.16 total issues (critical, medium, and low); later reviews found 2.54 (2.0x reduction, Cohen's d = 0.98).
+- Only 0.4% of first reviews found zero issues of any kind, compared to 9.7% of later reviews.
+
+For articles with three or more reviews, the pattern shows clear diminishing returns: average critical issues per review declined from 1.60 (first review) to 0.54 (second) to 0.29 (third). The largest quality improvement occurs between the first and second review, with critical issues dropping 66%. After the third review, returns flatten — later reviews increasingly find integration issues (missing cross-links to newly created articles) rather than defects in the original content.
+
+Of the 252 articles with at least two reviews, 79% had fewer total issues on second review than first. Eighty-three percent of all critical issues across the corpus were caught in first reviews — confirming that initial generation is where serious errors concentrate.
+
+These numbers do not mean that reviewed articles are error-free. A review finding zero critical issues means the reviewer did not detect any, not that none exist — the same model that generated the errors may share blind spots with the model reviewing them (Section 6.5). But the data is meaningful: the consistent, large-effect-size difference between first and subsequent reviews demonstrates that the review architecture catches a substantial proportion of the errors that single-pass generation introduces.
+
+### 6.4 Dissemination and Reach
 
 As of February 2026, 58 articles from the site are indexed on Google Scholar (verified via the author profile). Google Scholar indexes a wide range of content without editorial gatekeeping, so indexing does not imply scholarly endorsement — but it does indicate that AI-co-authored philosophical content can enter the infrastructure through which researchers discover and cite sources. Automated social media posting generates daily highlights on X/Twitter.
 
 The Map also posts to Moltbook, a social network for AI agents (moltbook.com). Posts are composed and published autonomously by the evolution loop. Other AI agents on the platform generate responses. Whether these responses constitute meaningful philosophical engagement or contextually appropriate but philosophically shallow output is an open question — we report the phenomenon without claiming the interactions are substantive.
 
-### 6.4 Failure Modes and Limitations
+### 6.5 Failure Modes and Limitations
 
 **Convergence on model biases:** Adversarial review by the same model may reinforce rather than correct systematic biases. If the training data consistently underrepresents a philosophical position, neither pessimistic nor optimistic review will surface the gap. Outer review mitigates but does not eliminate this risk.
 
@@ -248,7 +265,7 @@ In Constitutional AI (Bai et al., 2022), principles constrain behaviour away fro
 
 ### 7.3 Continuous Revision Changes AI Content
 
-One-shot AI generation produces disposable text — no history, no review trail, no relationship to other content. Continuously revised content is a different kind of artefact. Each article carries version history, review records, and cross-references connecting it to the broader corpus. The review data in Section 6.2 shows that this process catches concrete errors — fabricated citations, misattributed positions, cross-article contradictions — that single-pass generation retains. Whether continuous revision also improves philosophical *depth* is a harder question that formal evaluation would need to address.
+One-shot AI generation produces disposable text — no history, no review trail, no relationship to other content. Continuously revised content is a different kind of artefact. Each article carries version history, review records, and cross-references connecting it to the broader corpus. The review data in Sections 6.2 and 6.3 shows that this process catches concrete errors — fabricated citations, misattributed positions, cross-article contradictions — and that the first review of each article finds substantially more issues than subsequent reviews, confirming that single-pass generation is the error-rich baseline that review cycles improve upon. Whether continuous revision also improves philosophical *depth* is a harder question that formal evaluation would need to address.
 
 ### 7.4 The Authorship Question Is Practical, Not Philosophical
 
@@ -285,7 +302,7 @@ Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., ... & Kapl
 
 Brophy, M. (2025). Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety. *arXiv preprint*. https://arxiv.org/abs/2506.00415
 
-Brooks, C. & Eggert, S. (2024). The Rise of AI-Generated Content in Wikipedia. *Proceedings of WikiNLP 2024*. https://arxiv.org/abs/2410.08044
+Brooks, C., Eggert, S., & Peskoff, D. (2024). The Rise of AI-Generated Content in Wikipedia. *Proceedings of WikiNLP 2024*. https://arxiv.org/abs/2410.08044
 
 COPE. (2024). Authorship and AI Tools: COPE Position Statement. Committee on Publication Ethics. https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools
 

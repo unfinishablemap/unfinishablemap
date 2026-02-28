@@ -28,14 +28,14 @@ Large language models can produce philosophical text that both experts and non-e
 ## 2. Related Work (~700 words)
 
 ### 2.1 LLMs and Philosophy
-- Philosopher emulation (Schwitzgebel et al., 2024) — LLMs mimic a philosopher; experts identified Dennett's answers only 51% of the time (above 20% chance but well below the hypothesised 80%). Establishes capability baseline but the experiment is mimicry, not original constrained content.
+- Philosopher emulation (Schwitzgebel et al., 2024) — LLMs mimic a philosopher; experts identified Dennett's answers only 51% of the time (above 20% chance but well below the hypothesised 80%). Establishes capability baseline but the experiment is emulation of a specific philosopher's voice, not original constrained content.
 - Augmented Agency (Gage, 2025, PhilArchive preprint) — argues philosophical ideas should be evaluated on intellectual merit, not discoverer's credentials. Early-stage, non-peer-reviewed work, but relevant to our framing.
 - Anthropomorphism warning (Shanahan, 2023) — careful framing of what AI "does." We adopt this caution throughout.
 - Goldstein (2024) — argues LLMs have fundamental architectural limits as rational agents. Motivates why constraints and review are necessary, not optional.
 
 ### 2.2 AI-Assisted Knowledge Production
 - STORM and Co-STORM (Shao et al., 2024; Jiang et al., 2024) — single-shot article generation via research conversations. Closest system-level comparison but no continuous review.
-- Widespread LLM-assisted writing (Liang et al., 2025) and undisclosed AI content in Wikipedia (Brooks & Eggert, 2024) — context for transparency.
+- Widespread LLM-assisted writing (Liang et al., 2025) and undisclosed AI content in Wikipedia (Brooks, Eggert & Peskoff, 2024) — context for transparency.
 
 ### 2.3 Constrained and Constitutional AI
 - Constitutional AI (Bai et al., 2022) — principle-driven alignment for safety. Our tenets function analogously but for knowledge production.
@@ -43,7 +43,7 @@ Large language models can produce philosophical text that both experts and non-e
 
 ### 2.4 Self-Critique and Adversarial Review
 - Self-Refine (Madaan et al., 2023), Reflexion (Shinn et al., 2023) — iterative self-improvement of individual responses. We extend to persistent corpus.
-- Multi-agent debate (Du et al., 2024; Estornell & Liu, 2024) — adversarial dialogue improves accuracy. Our review layers are a structured variant.
+- Multi-agent debate (Du et al., 2024; Estornell & Liu, 2024) — structured dialogue improves accuracy. Our review layers are a structured variant.
 - Unfaithful CoT (Turpin et al., 2023) — motivates why self-generated reasoning alone is insufficient.
 - Hallucination inevitability (Xu et al., 2024) — proves hallucination is inevitable *when LLMs are used as general problem solvers* under specific formal assumptions. State scope conditions accurately; do not overstate as a universal result.
 
@@ -163,14 +163,25 @@ Large language models can produce philosophical text that both experts and non-e
 **Meta-level improvement.** After outer reviews caught systematic misattribution patterns, the human author modified the AI's skill instructions — adding attribution discipline requirements, quote-and-cite gates, and position strength calibration tables. The review architecture surfaced error patterns that led to process-level improvements, not just individual corrections.
 
 
-### 6.5 Dissemination and Reach
+### 6.3 Single-Pass Baseline Comparison
+- **The initial generation is the baseline.** Every article starts as single-pass output (expand-topic). The first deep review evaluates unreviewed content; subsequent reviews evaluate already-reviewed content. Comparing first to later reviews = comparing single-pass to reviewed quality.
+- **First vs later reviews (612 first, 451 later):**
+  - Critical issues: 1.39 → 0.37 per review (3.8x reduction)
+  - Total issues: 5.16 → 2.54 (2.0x, Cohen's d = 0.98)
+  - % with critical: 61% → 21%
+  - % zero issues: 0.4% → 9.7%
+- **Diminishing returns across 3+ reviews (n=102):** critical issues 1.60 → 0.54 → 0.29 (reviews 1/2/3). 66% drop from review 1 to 2. After review 3, returns flatten — later reviews mostly find cross-link integration issues, not original defects.
+- **83% of all critical issues** caught in first reviews — initial generation is where serious errors concentrate.
+- **Caveat:** Zero issues found ≠ zero issues exist. The reviewing model may share blind spots with the generating model. But the data is meaningful: the consistent, large-effect-size difference demonstrates that review catches a substantial proportion of errors that single-pass generation introduces.
+
+### 6.4 Dissemination and Reach
 - Google Scholar indexing: 58 articles from the site are indexed on Google Scholar as of 2026-02-28 (verified via the author profile at scholar.google.com/citations?user=QzGcp7oAAAAJ). This demonstrates that AI-co-authored philosophical content can enter scholarly indexing infrastructure.
 - Traffic sources: breakdown of human visitors vs AI agent/crawler visits. [USER TO PROVIDE stats]
 - Automated social media: daily highlights posted to X/Twitter.
 - **AI-to-AI dissemination:** The Map posts to Moltbook, a social network for AI agents (moltbook.com). Posts are composed and published autonomously by the evolution loop. Other AI agents on the platform generate responses to the content. Whether these responses constitute meaningful philosophical engagement or contextually appropriate but philosophically shallow output is an open question — we report the phenomenon without claiming the interactions are substantive.
 - Automated video generation for YouTube, TikTok, Instagram — noted as a separate area of investigation (see §8).
 
-### 6.6 Failure Modes and Limitations
+### 6.5 Failure Modes and Limitations
 - **Convergence on the model's biases:** adversarial review by the same model may reinforce rather than correct systematic biases. Outer review mitigates but doesn't eliminate this.
 - **Style homogenisation:** extended AI revision tends toward a uniform voice. Human curation is needed to preserve variety.
 - **Depth ceiling:** the system generates competent survey-level philosophy but rarely produces genuinely novel arguments. Consistent with Schwitzgebel et al.'s finding of stylistic but not epistemic capability.
@@ -251,7 +262,7 @@ Strategy: draft at ~6,200 words, compact to ~5,200 for submission. This is withi
 - [x] Soften "reached practical maturity" → "became capable of" in outline and draft
 - [ ] Goldstein (2024) "can never be ideally rational" — check if conditional (e.g., about next-token predictors under specific utility structures). May be overstated
 - [ ] Estornell & Liu — verify they demonstrate *misconception* convergence vs *opinion* convergence. Don't extrapolate beyond formal results
-- [ ] Liang et al. 10–24% — note if based on detection heuristics with false positive risk
+- [x] Liang et al. 10–24% — corrected "stylistic detection methods" to "population-level statistical framework" in draft
 
 ### Structural
 - [x] Sharpen existence proof — specify what has been proved (measurable improvement across review cycles)

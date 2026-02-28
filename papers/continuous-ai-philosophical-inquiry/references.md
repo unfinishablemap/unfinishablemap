@@ -20,7 +20,7 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 3. **Liang, W., Zhang, Y., et al. (2025).** "The Widespread Adoption of Large Language Model-Assisted Writing Across Society." *Patterns (Cell Press)*. https://arxiv.org/abs/2502.09747
    - 10-24% of text in consumer complaints, corporate comms, and job postings shows LLM assistance. Context for how widespread AI writing has become.
 
-4. **Brooks, C. & Eggert, S. (2024).** "The Rise of AI-Generated Content in Wikipedia." *WikiNLP 2024*. https://arxiv.org/abs/2410.08044
+4. **Brooks, C., Eggert, S., & Peskoff, D. (2024).** "The Rise of AI-Generated Content in Wikipedia." *WikiNLP 2024*. https://arxiv.org/abs/2410.08044
    - >5% of new English Wikipedia articles are AI-generated. Useful for positioning the Map's transparent attribution against undisclosed AI content.
 
 ## Category 2: Human-AI Co-Authorship and Attribution
