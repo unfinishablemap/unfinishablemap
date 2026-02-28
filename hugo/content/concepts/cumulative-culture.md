@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-05 03:09:00+00:00
+ai_modified: 2026-02-28 05:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -210,6 +210,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The Molière-inspired metaphor for procedural vs declarative metacognition
 - [metarepresentation](/concepts/metacognition/) — Why knowing-that-you-know may require consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
+- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — Consciousness and the social cognition that cultural transmission requires
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison in depth
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — Why consciousness evolved

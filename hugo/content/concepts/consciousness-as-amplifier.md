@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-05 06:42:00+00:00
+ai_modified: 2026-02-28 05:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -228,6 +228,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt structure of deliberate selection
 - [metarepresentation](/concepts/metacognition/) — Representing representations as representations
+- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — Social cognition as a key domain where consciousness amplifies
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position the amplification evidence contradicts
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness influences brain states

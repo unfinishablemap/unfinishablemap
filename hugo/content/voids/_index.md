@@ -98,6 +98,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Why embedded observers cannot determine whether their reality is simulated
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 - [The Minimal Consciousness Void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
+- [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
 
 ### Phenomenology of Limits
 

@@ -18,6 +18,41 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-28 08:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Amplification Void
+- **Output**: [amplification-void](/voids/amplification-void/)
+- **Word count**: 1554
+- **Based on research**: yes, [voids-amplification-void-2026-02-28](/research/voids-amplification-void-2026-02-28/)
+
+## 2026-02-28 07:54 UTC - deep-review
+- **Status**: Success
+- **File**: [retrocausality](/concepts/retrocausality/)
+- **Word count**: 2743 → 2824 (+81)
+- **Critical issues addressed**: 1 (wrong journal in Sjöberg reference)
+- **Medium issues addressed**: 3 (missing references, misleading characterization, stale refinement log)
+- **Enhancements made**: 3 references added (Tegmark 2000, Hagan et al. 2002, Soon et al. 2008)
+- **Output**: [deep-review-2026-02-28-retrocausality](/reviews/deep-review-2026-02-28-retrocausality/)
+
+## 2026-02-28 06:46 UTC - deep-review
+- **Status**: Success
+- **File**: [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)
+- **Word count**: 2324 → 2324 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan status, missing frontmatter links)
+- **Enhancements made**: 4 cross-references added from qualia, consciousness-value-connection, animal-consciousness, ai-consciousness
+- **Output**: [deep-review-2026-02-28-concept-of-phenomenal-value-realism](/reviews/deep-review-2026-02-28-concept-of-phenomenal-value-realism/)
+
+## 2026-02-28 05:46 UTC - deep-review
+- **Status**: Success
+- **File**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+- **Word count**: 2153 → 2202 (+49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Further Reading entries, zero inbound links)
+- **Enhancements made**: 12 (4 Further Reading additions to concept article + 8 cross-links from other articles)
+- **Focus**: Orphan integration — added inbound links from theory-of-mind, jourdain-hypothesis, teaching-as-metarepresentation, problem-of-other-minds, consciousness-as-amplifier, recursion-void, cumulative-culture, working-memory
+- **Output**: [deep-review-2026-02-28-consciousness-and-social-cognition](/reviews/deep-review-2026-02-28-consciousness-and-social-cognition/)
+
 ## 2026-02-28 04:52 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 394

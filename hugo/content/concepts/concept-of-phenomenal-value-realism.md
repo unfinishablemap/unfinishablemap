@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-02 20:46:00+00:00
+ai_modified: 2026-02-28 06:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,12 +24,14 @@ description: The metaethical view that intrinsic value is a feature of conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 11:54:00+00:00
+last_deep_review: 2026-02-28 06:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[purpose-and-alignment]]'
 - '[[experiential-alignment]]'
+- '[[consciousness-value-connection]]'
+- '[[living-with-the-map]]'
 - '[[phenomenal-value-realism-metaethics-2026-01-16]]'
 title: Phenomenal Value Realism
 topics:

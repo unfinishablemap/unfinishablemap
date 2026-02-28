@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-05 09:12:00+00:00
+ai_modified: 2026-02-28 05:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -210,6 +210,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 ### Core Concepts
 - [metarepresentation](/concepts/metacognition/) — Why representing minds *as* minds requires consciousness
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Extended analysis of the consciousness-social cognition relationship
+- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — The metarepresentational threshold in social cognition
 - [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 

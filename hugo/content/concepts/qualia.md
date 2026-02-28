@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-25 11:29:00+00:00
+ai_modified: 2026-02-28 06:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -56,7 +56,7 @@ Qualia are closely related to [phenomenal-consciousness](/concepts/phenomenal-co
 
 ## Why Qualia Matter
 
-Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotional-consciousness/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case: pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force.
+Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotional-consciousness/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case, and grounds [phenomenal value realism](/concepts/concept-of-phenomenal-value-realism/)'s claim that these felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force.
 
 Consider two scenarios:
 1. A neuroscientist gives a complete account of pain—nerve fibers, neurotransmitter release, brain regions activated

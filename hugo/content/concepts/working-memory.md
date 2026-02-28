@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-02-28 05:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -198,6 +198,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [binding-problem](/concepts/binding-problem/) — The unity problem in both perception and memory
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and semantic retrieval
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
+- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — How expanded WM capacity enables recursive mindreading
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [metarepresentation](/concepts/metacognition/) — Representing representations as representations
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Thinking about what might have been

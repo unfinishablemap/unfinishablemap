@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-04 21:17:00+00:00
+ai_modified: 2026-02-28 05:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -221,6 +221,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
+- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — How consciousness enables the social cognition teaching depends on
 - [working-memory](/concepts/working-memory/) — The capacity constraints on teaching
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How conscious access enables cognitive integration
 - [free-will](/topics/free-will/) — The deliberate choices teaching requires

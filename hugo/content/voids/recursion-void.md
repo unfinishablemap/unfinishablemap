@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-06 17:38:00+00:00
+ai_modified: 2026-02-28 05:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -154,6 +154,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
 - [Theory of Mind](/concepts/theory-of-mind/) — Levels of intentionality and the working memory constraint
+- [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — Recursive mindreading as consciousness-dependent social cognition
 - [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/) — Working memory bottlenecks on recursive structure
 - [Metacognition and Consciousness](/concepts/metacognition/) — The relationship between self-monitoring and awareness
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
