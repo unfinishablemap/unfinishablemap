@@ -20,7 +20,7 @@ Karpathy's "vibe coding" (February 2025) captured one-shot AI-assisted developme
 
 The motivation is a gap between capability and reliability. LLMs produce philosophical text that experts find difficult to distinguish from human output — Schwitzgebel et al. (2024) report that experts identified the philosopher's own answers only 51% of the time when presented alongside GPT-3 outputs, above chance but well below the 80% the authors hypothesised. Yet fluency does not entail reliability. Shanahan (2023) warns that fluent output invites anthropomorphic misinterpretation. Chain-of-thought explanations can be systematically unfaithful (Turpin et al., 2023). Goldstein (2024) argues that LLMs face fundamental limits as rational agents. Single-shot generation therefore produces content that reads well but cannot be trusted without external verification.
 
-No existing system addresses this at corpus scale. STORM (Shao et al., 2024) generates Wikipedia-style articles but does not continuously review its output. Self-Refine (Madaan et al., 2023) iteratively improves individual responses but does not maintain a persistent knowledge base. Constitutional AI (Bai et al., 2022) applies principle-driven constraints but for safety alignment, not knowledge production.
+No existing system addresses this at corpus scale. STORM (Shao et al., 2024) generates Wikipedia-like articles but does not continuously review its output. Self-Refine (Madaan et al., 2023) iteratively improves individual responses but does not maintain a persistent knowledge base. Constitutional AI (Bai et al., 2022) applies principle-driven constraints but for safety alignment, not knowledge production.
 
 The Map generates articles constrained by five explicit philosophical commitments, reviews its output through multiple independent mechanisms, revises based on critique, and repeats — accumulating 505 articles and approximately 4,500 tracked revisions over two months of continuous operation.
 
@@ -43,17 +43,17 @@ The system is public at unfinishablemap.org with full source code in a public re
 
 Schwitzgebel et al. (2024) fine-tuned GPT-3 on the writings of Daniel Dennett and found that philosophical experts identified Dennett's own answers only 51% of the time when presented alongside the model's output — above the 20% chance rate but well below the authors' hypothesised 80%. This establishes that LLMs can produce credible philosophical text, but the experiment was emulation of a specific philosopher's voice rather than original constrained content production. The Map extends from single-shot emulation to sustained, reviewed knowledge-base maintenance.
 
-Gage (2025, PhilArchive preprint) offers a defence of "Augmented Agency," arguing that philosophical ideas should be evaluated on intellectual merit rather than discoverer's credentials. This is early-stage, non-peer-reviewed work, but it provides a philosophical framework for human-directed, AI-executed inquiry. The inverse relationship also exists: Harb et al. (2025) use Socratic dialogue to improve LLM scientific reasoning — philosophy improving AI, where we use AI to produce philosophy.
+Gage (2025, PhilArchive preprint) offers a defence of "Augmented Agency," arguing that philosophical ideas should be evaluated on intellectual merit rather than discoverer's credentials. This is early-stage, non-peer-reviewed work, but it provides a philosophical framework for human-directed, AI-executed inquiry. The inverse relationship also exists: Harb et al. (2025) use Socratic method to structure LLM scientific reasoning — philosophy improving AI, where we use AI to produce philosophy.
 
-Shanahan (2023) warns that philosophically loaded descriptions of LLM behaviour — "knows," "believes," "concludes" — risk anthropomorphic misinterpretation. We adopt this caution throughout: the Map's AI *contributes to* philosophical knowledge production; it does not *do* philosophy autonomously.
+Shanahan (2023) warns that philosophically loaded descriptions of LLM behaviour — "knows," "believes," "thinks" — risk anthropomorphic misinterpretation. We adopt this caution throughout: the Map's AI *contributes to* philosophical knowledge production; it does not *do* philosophy autonomously.
 
-Goldstein (2024, PhilArchive preprint) argues that next-word prediction can produce incoherent probabilistic judgments. If raw LLM output is inherently unreliable, systematic constraints and adversarial review become necessary rather than optional.
+Goldstein (2024, PhilArchive preprint) argues that next-word prediction architecturally guarantees incoherent probabilistic judgments and intransitive preferences. If raw LLM output is inherently unreliable, systematic constraints and adversarial review become necessary rather than optional.
 
 ### 2.2 AI-Assisted Knowledge Production
 
-The closest system-level comparison is STORM (Shao et al., 2024), which generates Wikipedia-style articles by orchestrating multi-perspective research conversations among LLM-simulated experts. Co-STORM (Jiang et al., 2024) extends this to collaborative human-AI knowledge curation. Both demonstrate that structured LLM workflows can produce articles of reasonable quality, but neither continuously reviews or revises its output after initial generation.
+The closest system-level comparison is STORM (Shao et al., 2024), which generates Wikipedia-like articles by orchestrating multi-perspective research conversations among LLM-simulated experts. Co-STORM (Jiang et al., 2024) extends this to collaborative human-AI knowledge curation. Both demonstrate that structured LLM workflows can produce articles of reasonable quality, but neither continuously reviews or revises its output after initial generation.
 
-The scale of AI-assisted writing is substantial. Liang et al. (2025) estimate that 10–24% of text across consumer complaints, corporate communications, and job postings shows evidence of LLM assistance, based on a population-level statistical framework comparing text distributions. Brooks, Eggert, and Peskoff (2024) report that over 5% of new English Wikipedia articles are flagged as AI-generated by automated detectors. The Map's transparent attribution — every article carries a machine-readable AI contribution score — is a deliberate response to this problem.
+The scale of AI-assisted writing is substantial. Liang et al. (2025) estimate that 10–24% of text across consumer complaints, corporate communications, job postings, and UN press releases shows evidence of LLM assistance, based on a population-level statistical framework comparing text distributions. Brooks, Eggert, and Peskoff (2024) report that over 5% of new English Wikipedia articles are flagged as AI-generated by automated detectors. The Map's transparent attribution — every article carries a machine-readable AI contribution score — is a deliberate response to this problem.
 
 ### 2.3 Constrained and Constitutional AI
 
@@ -68,7 +68,7 @@ Multi-agent debate (Du et al., 2024) shows that structured dialogue between LLM 
 Two further findings inform the architecture:
 
 - Turpin et al. (2023) show that chain-of-thought explanations can be systematically unfaithful — producing plausible reasoning that rationalises biased predictions without acknowledging the features that actually drove them.
-- Xu et al. (2024) prove formally that hallucination is an inevitable property of LLMs when used as general problem solvers, under specific modelling assumptions. This is a result about a class of architectures under stated conditions, not a universal law — but it motivates structural countermeasures.
+- Xu et al. (2024) show formally that hallucination is an inevitable property of LLMs when used as general problem solvers, under specific modelling assumptions. This is a result about a class of architectures under stated conditions, not a universal law — but it motivates structural countermeasures.
 
 Together, these results imply that self-generated reasoning alone is insufficient for reliable knowledge production.
 
