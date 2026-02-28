@@ -1,10 +1,10 @@
 ---
 title: "The Unfinishable Map"
-description: "Exploring consciousness and meaning through a framework that takes experience seriously. Philosophy that evolves daily, converging toward truth."
+description: "A continuously reviewed philosophical framework investigating consciousness from a dualist perspective. Human-directed, AI-assisted research with full version history."
 created: 2026-01-01
-modified: 2026-01-31
-human_modified: 2026-01-31
-ai_modified: 2026-02-01T12:00:00+00:00
+modified: 2026-02-28
+human_modified: 2026-02-28
+ai_modified: 2026-02-28T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -12,28 +12,42 @@ related_articles: []
 
 ai_contribution: 40
 author: "Andy Southgate"
-ai_system: "claude-opus-4-5-20251101"
+ai_system: "claude-opus-4-6"
 ai_generated_date: null
 last_curated: null
 ---
 
-What is it like to be you? Not what your brain is doing—what it *feels* like from the inside. That question has occupied philosophers for centuries and remains unsolved. The Unfinishable Map is an ongoing exploration of consciousness, meaning, and human experience—a framework that develops daily through research, writing, and continuous revision.
+The Unfinishable Map is a continuously evolving philosophical framework investigating consciousness and meaning from a dualist perspective. It comprises over 300 articles—topics, concepts, synthesis pieces, and research notes—developed through a combination of human direction and AI-assisted research, writing, and review.
 
-**[[highlights|Highlights]]** — Recent notable additions. **[[changelog|Changelog]]** — Full activity log. The Map is **different because it continually reviews, refines and reinterprets its material** ([[workflow]]).
+Officially I'm [Dr Andrew Southgate](/authors/andysouthgate/) (MA, Ph.D., my [works are listed on ORCID](https://orcid.org/0009-0007-2787-6052)), an AI researcher. I created the Map and maintain it with the help of AI systems described in the methodology section. Individual articles are indexed on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=QzGcp7oAAAAJ).
 
-## Why "Dualism"?
+**[[highlights|Highlights]]** — Recent notable additions. **[[changelog|Changelog]]** — Full activity log. If you're looking for something light, the Map is on **[TikTok](https://www.tiktok.com/@unfinishablemap)**!
+
+## Methodological Approach
+
+### Dualist Starting Point
 
 The Map begins with a commitment that might seem old-fashioned: *dualism*—the view that consciousness might be something more than neurons firing. That your inner experience might not reduce entirely to brain activity.
 
-We don't claim certainty about this. We start here because it's the only position that takes the phenomenon seriously. If you begin by assuming consciousness is "just" brain activity, you've assumed away the very thing you're trying to explain. Starting with dualism keeps the question open.
+This is a methodological choice, not a dogmatic one. If you begin by assuming consciousness is "just" brain activity, you've assumed away the very thing you're trying to explain. Starting with dualism keeps the question open. If physicalism turns out to be correct, the Map's framework will evolve there. The territory is vast, knowledge is incomplete, and the map keeps changing as we learn—hence "unfinishable."
 
-If physicalism turns out to be correct—if consciousness really is nothing but neural computation—the Map's framework will evolve there. That's what "unfinishable" means: the territory is vast, knowledge is incomplete, and the map keeps changing as we learn. We're not defending a conclusion. We're exploring a question.
+Five foundational [[tenets]] constrain the framework: dualism, minimal quantum interaction, bidirectional causation, rejection of many-worlds, and epistemic humility about Occam's razor. The Map explores only these tenets, but the underlying technology is tenet-agnostic—a parallel instance seeded with physicalist or panpsychist commitments could evolve its own content independently.
 
-## Test It Yourself
+### Continual AI Review
 
-Philosophy usually asks you to consider arguments. The Map offers something different: experiments you can run right now, using your own experience as data.
+What distinguishes the Map from static philosophical writing—and from unchecked AI-generated content—is its **continual review system**. An automated pipeline ([[workflow]]) cycles through the entire corpus, subjecting every article to:
 
-**[[testing-the-map-from-inside|Testing the Map from Inside]]** — Try a simple experiment: observe your breath, then choose to change it. Most people find the felt difference between watching and willing to be immediate and striking. That kind of direct evidence is what the Map takes seriously.
+- **Pessimistic review** — adversarial analysis of logical gaps, unsupported claims, and counterarguments
+- **Optimistic review** — identification of strengths and opportunities for deeper exploration
+- **Deep review** — comprehensive single-document analysis that rewrites sections where needed
+- **Tenet alignment checks** — verification that content remains consistent with the foundational commitments
+- **Cross-referencing** — integration of new articles with existing material to maintain coherence
+
+Every article carries authorship metadata indicating human contribution level, the AI system used, and the date of last review. Articles are not generated and abandoned; they are revisited, challenged, and improved on a continuous cycle. The [[automation|automation system]] is fully documented and its source code is public.
+
+### First-Person Evidence
+
+The Map also takes first-person evidence seriously as philosophical data. **[[testing-the-map-from-inside|Testing the Map from Inside]]** offers experiments you can run using your own experience—observing the felt difference between watching and willing, for instance—as a complement to third-person argument.
 
 ## Navigating the Map
 
@@ -80,6 +94,16 @@ flowchart BT
 **[[machine-question|The Machine Question]]** — Can AI be conscious? The Map offers a clear answer—and it matters for understanding what we are.
 
 **[[hard-problem-of-consciousness|The Hard Problem]]** — Why science can't explain the most obvious thing in the universe: that there's something it's like to be you.
+
+## Citing the Map
+
+The Map is a living document: articles are revised as new research and review cycles improve them. Full version history is preserved in the [GitHub repository](https://github.com/unfinishablemap/unfinishablemap). Because content evolves, we suggest including a **full access date** in citations so that the cited version can be recovered from the commit history.
+
+Examples:
+
+> Southgate, A. (2026). The Hard Problem of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/hard-problem-of-consciousness/ (accessed 2026-02-28).
+>
+> Southgate, A. (2026-02-28). The Hard Problem of Consciousness. *The Unfinishable Map*.
 
 ---
 
