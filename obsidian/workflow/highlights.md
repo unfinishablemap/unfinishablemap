@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-27T08:45:34.234114'
+ai_modified: '2026-02-28T08:45:33.144333'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-27'
+modified: '2026-02-28'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-28: Retrocausality: How Consciousness Might Beat the Clock
+
+Deep review of retrocausality sharpened the case for backward causation dissolving the Libet timing problem. Fixed citations and added key references on decoherence timescales in neural tissue.
+
+**Type**: insight  
+**Link**: [[retrocausality]]
+
+---
+
 ### 2026-02-27: Consciousness Can't Be Superposed—And That Matters
 
 Deep review reveals a key constraint: consciousness is constitutively definite, never entering superposition. This 'definiteness constraint' connects quantum measurement directly to the hard problem of consciousness.
@@ -197,15 +206,6 @@ New article evaluates Orch OR, Stapp's Zeno model, Fisher's nuclear spins, and C
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2020774832300830846  
 **Link**: [[comparing-quantum-consciousness-mechanisms]]
-
----
-
-### 2026-02-07: Why Consciousness Can't Escape the Present
-
-Deep review strengthens our analysis of the temporal void—why physics says all times exist equally, yet consciousness is imprisoned in a moving now it can never step outside.
-
-**Type**: insight  
-**Link**: [[temporal-consciousness-void]]
 
 ---
 
