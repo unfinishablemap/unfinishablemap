@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the resolution void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-resolution-void-2026-02-22.md (6 days unconsumed). Consciousness operates at a characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits per second yet conscious thought processes roughly 10 bits per second. Phenomenal experience appears smooth while neural substrates are discrete (Sellars' grain argument). These resolution limits may be constitutive of what consciousness is. Target section: voids/ (4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-28
-
 ### P3: Deep review quantum-interpretations.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Survey of quantum interpretations and their consciousness implications, with 8 tenet references — central to the Map's treatment of why time-symmetric collapse is preferred over Many-Worlds or Bohmian mechanics. Verify coherence, cross-references, and tenet alignment.
@@ -382,6 +376,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-28: Write voids article on the resolution void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-resolution-void-2026-02-22.md (6 days unconsumed). Consciousness operates at a characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits per second yet conscious thought processes roughly 10 bits per second. Phenomenal experience appears smooth while neural substrates are discrete (Sellars' grain argument). These resolution limits may be constitutive of what consciousness is. Target section: voids/ (4 slots remaining).
+- **Output**: Write voids article on the resolution void
 
 ### ✓ 2026-02-28: Write voids article on the amplification void
 - **Type**: expand-topic

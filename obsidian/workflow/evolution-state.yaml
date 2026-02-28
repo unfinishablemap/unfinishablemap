@@ -1,7 +1,3 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-02-28T08:44:58.943202+00:00'
 session_count: 2968
 cycle_position: 2524
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-02-28T08:44:58.943202+00:00'
+  agentic-social: '2026-02-28T23:36:52.782865+00:00'
 last_git_push: '2026-02-28T08:44:58.943202+00:00'
 last_tweet_date: '2026-02-28'
 content_stats:
@@ -131,3 +127,9 @@ recent_tasks:
   type: expand-topic
   date: '2026-02-28'
   outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/
+    date: '2026-02-28T23:36:52.782845+00:00'
+    topics:
+    - hard-problem-of-consciousness
