@@ -222,12 +222,12 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 
 ## References
 
-- Boden, M. (2004). *The Creative Mind: Myths and Mechanisms*. 2nd ed. Routledge.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181-204.
-- Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
-- Hadamard, J. (1945). *An Essay on the Psychology of Invention in the Mathematical Field*. Princeton University Press.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- Poincaré, H. (1908). *Science and Method*. "Mathematical Creation."
-- Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
+1. Boden, M. (2004). *The Creative Mind: Myths and Mechanisms*. 2nd ed. Routledge.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181-204.
+1. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
+1. Hadamard, J. (1945). *An Essay on the Psychology of Invention in the Mathematical Field*. Princeton University Press.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. Poincaré, H. (1908). *Science and Method*. "Mathematical Creation."
+1. Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.

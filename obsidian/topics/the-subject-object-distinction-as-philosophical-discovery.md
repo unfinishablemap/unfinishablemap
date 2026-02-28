@@ -92,8 +92,8 @@ This framing also illuminates the Map's [[tenets#^occams-limits|fifth tenet]]: O
 
 ## References
 
-- Descartes, R. (1641). *Meditations on First Philosophy*.
-- Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*.
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
+1. Descartes, R. (1641). *Meditations on First Philosophy*.
+1. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*.
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.

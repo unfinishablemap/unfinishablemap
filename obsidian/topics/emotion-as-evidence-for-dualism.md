@@ -123,10 +123,10 @@ The moral and motivational significance of valence depends on indexical identity
 
 ## References
 
-- Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
-- Cleeremans, A. & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007.
-- Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
-- LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
-- Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt. (Ch. 5, "The Automaton-Theory.")
-- Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind*, Vol. 5. Oxford University Press.
+1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
+1. Cleeremans, A. & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007.
+1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
+1. LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
+1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt. (Ch. 5, "The Automaton-Theory.")
+1. Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind*, Vol. 5. Oxford University Press.

@@ -198,29 +198,29 @@ The key point: embodied cognition challenges a specific historical position (Car
 
 ## References
 
-- Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.
-- Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
-- Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
-- Clark, A. (1997). *Being There: Putting Mind, World, and Body Back Together*. MIT Press.
-- Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Dreyfus, H. L. (1992). *What Computers Still Can't Do*. MIT Press.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
-- Noë, A. (2004). *Action in Perception*. MIT Press.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Adams, F., & Aizawa, K. (2008). *The Bounds of Cognition*. Blackwell.
+1. Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
+1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
+1. Clark, A. (1997). *Being There: Putting Mind, World, and Body Back Together*. MIT Press.
+1. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Dreyfus, H. L. (1992). *What Computers Still Can't Do*. MIT Press.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
+1. Noë, A. (2004). *Action in Perception*. MIT Press.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
 <!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Downgraded choking-under-pressure from "direct evidence for bidirectional interaction" to "consistent with" bidirectional interaction
-- Added explicit acknowledgment that the standard neuroscience reading (neural resource competition) is mainstream
-- Renamed section from "Choking Under Pressure: The Bidirectional Evidence" to "Choking Under Pressure"
-- Revised illusionist challenge section to acknowledge physicalist reading rather than dismissing it
-- Fixed Bidirectional Interaction tenet section to present choking as "consistent with" rather than proof
-- Fixed No Many Worlds tenet section: acknowledged MWI can accommodate trainable choking effects
-- Updated "What Would Challenge This View?" to acknowledge existing physicalist explanations
+1. Downgraded choking-under-pressure from "direct evidence for bidirectional interaction" to "consistent with" bidirectional interaction
+1. Added explicit acknowledgment that the standard neuroscience reading (neural resource competition) is mainstream
+1. Renamed section from "Choking Under Pressure: The Bidirectional Evidence" to "Choking Under Pressure"
+1. Revised illusionist challenge section to acknowledge physicalist reading rather than dismissing it
+1. Fixed Bidirectional Interaction tenet section to present choking as "consistent with" rather than proof
+1. Fixed No Many Worlds tenet section: acknowledged MWI can accommodate trainable choking effects
+1. Updated "What Would Challenge This View?" to acknowledge existing physicalist explanations
 
 Based on pessimistic-2026-02-16-evening.md review (Issue 2).
 Key improvements: Epistemic honesty about the physicalist mainstream reading of choking data.

@@ -158,7 +158,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 
 ## References
 
-- Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
-- Collingwood, R.G. (1938). *The Principles of Art*. Oxford University Press.
-- Dewey, J. (1934). *Art as Experience*. Perigee Books.
-- Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.
+1. Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
+1. Collingwood, R.G. (1938). *The Principles of Art*. Oxford University Press.
+1. Dewey, J. (1934). *Art as Experience*. Perigee Books.
+1. Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.

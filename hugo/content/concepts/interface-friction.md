@@ -125,8 +125,8 @@ The filter model also generates a distinctive prediction: reduced neural constra
 
 ## References
 
-- Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
-- Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
-- Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
-- Stapp, H. P. (2001). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.
+1. Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
+1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
+1. Stapp, H. P. (2001). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.

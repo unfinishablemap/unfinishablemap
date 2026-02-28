@@ -98,8 +98,8 @@ The Map speculates that the absorption void may be partly occluded rather than m
 
 ## References
 
-- Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
-- Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
-- Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind*. 2nd ed. Routledge.
-- Menon, V. (2023). "20 years of the default mode network: A review and synthesis." *Neuron*.
-- Sparby, T. (2024). "Toward a Unified Account of Advanced Concentrative Absorption Meditation." *Mindfulness*.
+1. Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
+1. Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
+1. Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind*. 2nd ed. Routledge.
+1. Menon, V. (2023). "20 years of the default mode network: A review and synthesis." *Neuron*.
+1. Sparby, T. (2024). "Toward a Unified Account of Advanced Concentrative Absorption Meditation." *Mindfulness*.

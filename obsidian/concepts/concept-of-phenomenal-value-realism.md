@@ -211,11 +211,11 @@ If value is grounded in consciousness: the [[hard-problem-of-consciousness|hard 
 
 ## References
 
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-- Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
-- Nozick, R. (1974). "The Experience Machine" in *Anarchy, State, and Utopia*. Basic Books.
-- Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Dennett, D. C. (2017). *From Bacteria to Bach and Back: The Evolution of Minds*. W. W. Norton.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
+1. Nozick, R. (1974). "The Experience Machine" in *Anarchy, State, and Utopia*. Basic Books.
+1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Dennett, D. C. (2017). *From Bacteria to Bach and Back: The Evolution of Minds*. W. W. Norton.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

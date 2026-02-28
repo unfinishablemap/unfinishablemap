@@ -190,18 +190,18 @@ The strongest physicalist counterargument is that executive attention networks, 
 
 ## References
 
-- Bernstein, N. (1967). *The Coordination and Regulation of Movements*. Pergamon Press.
-- Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
-- Dreyfus, H., & Dreyfus, S. (1986). *Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*. Free Press.
-- Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. *Psychological Review*, 100(3), 363-406.
-- Fitts, P., & Posner, M. (1967). *Human Performance*. Brooks/Cole.
-- Gallagher, S. (2005). *How the Body Shapes the Mind*. Oxford University Press.
-- Head, H., & Holmes, G. (1911). Sensory disturbances from cerebral lesions. *Brain*, 34(2-3), 102-254.
-- Iriki, A., Tanaka, M., & Iwamura, Y. (1996). Coding of modified body schema during tool use by macaque postcentral neurones. *NeuroReport*, 7(14), 2325-2330.
-- Krakauer, J.W., & Shadmehr, R. (2006). Consolidation of Motor Memory. *Trends in Neurosciences*, 29(1), 58-64.
-- Leder, D. (1990). *The Absent Body*. University of Chicago Press.
-- Macnamara, B.N., Hambrick, D.Z., & Oswald, F.L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. *Psychological Science*, 25(8), 1608-1618.
-- Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79-86.
-- Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
-- Milner, B. (1962). Les troubles de la mémoire accompagnant des lésions hippocampiques bilatérales. In *Physiologie de l'hippocampe*, pp. 257-272. CNRS.
-- Tulving, E. (1985). Memory and Consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Bernstein, N. (1967). *The Coordination and Regulation of Movements*. Pergamon Press.
+1. Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
+1. Dreyfus, H., & Dreyfus, S. (1986). *Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*. Free Press.
+1. Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. *Psychological Review*, 100(3), 363-406.
+1. Fitts, P., & Posner, M. (1967). *Human Performance*. Brooks/Cole.
+1. Gallagher, S. (2005). *How the Body Shapes the Mind*. Oxford University Press.
+1. Head, H., & Holmes, G. (1911). Sensory disturbances from cerebral lesions. *Brain*, 34(2-3), 102-254.
+1. Iriki, A., Tanaka, M., & Iwamura, Y. (1996). Coding of modified body schema during tool use by macaque postcentral neurones. *NeuroReport*, 7(14), 2325-2330.
+1. Krakauer, J.W., & Shadmehr, R. (2006). Consolidation of Motor Memory. *Trends in Neurosciences*, 29(1), 58-64.
+1. Leder, D. (1990). *The Absent Body*. University of Chicago Press.
+1. Macnamara, B.N., Hambrick, D.Z., & Oswald, F.L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. *Psychological Science*, 25(8), 1608-1618.
+1. Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79-86.
+1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
+1. Milner, B. (1962). Les troubles de la mémoire accompagnant des lésions hippocampiques bilatérales. In *Physiologie de l'hippocampe*, pp. 257-272. CNRS.
+1. Tulving, E. (1985). Memory and Consciousness. *Canadian Psychology*, 26(1), 1-12.

@@ -151,11 +151,11 @@ The account of spontaneous intentional action offered here would face difficulty
 
 ## References
 
-- Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
-- Dreyfus, H. (2002). Intelligence without representation: Merleau-Ponty's critique of mental representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-- Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
-- Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
-- Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
-- Suzuki, D. T. (1959). *Zen and Japanese Culture*. Princeton University Press.
-- Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
+1. Dreyfus, H. (2002). Intelligence without representation: Merleau-Ponty's critique of mental representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
+1. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
+1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
+1. Suzuki, D. T. (1959). *Zen and Japanese Culture*. Princeton University Press.
+1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.

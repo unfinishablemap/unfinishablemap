@@ -126,9 +126,9 @@ The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In T. Gendler & J. Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
-- Chalmers, D. (2002). "Consciousness and Its Place in Nature." In S. Stich & T. Warfield (eds.), *The Blackwell Guide to Philosophy of Mind*. Blackwell.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
-- Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.
+1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In T. Gendler & J. Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
+1. Chalmers, D. (2002). "Consciousness and Its Place in Nature." In S. Stich & T. Warfield (eds.), *The Blackwell Guide to Philosophy of Mind*. Blackwell.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
+1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.

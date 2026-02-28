@@ -128,18 +128,18 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 
 ## References
 
-- Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *Biological Bulletin*, 215(3), 216-242.
-- Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
-- Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized* (blog post).
-- COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
+1. Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *Biological Bulletin*, 215(3), 216-242.
+1. Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
+1. Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized* (blog post).
+1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 
 <!-- AI REFINEMENT LOG - 2026-01-29
 Changes made:
-- Added new subsection "Does Quantum Selection Escape This Charge?" after the passivity problem section
-- Acknowledged that the passivity objection applies reflexively to the Map's quantum selection framework
-- Introduced distinction between type-level and token-level causation
-- Argued that token-level determination is genuine causation even without type-level statistical deviation
-- Clarified that IIT faces a metaphysical limitation while quantum selection faces only epistemological challenges
+1. Added new subsection "Does Quantum Selection Escape This Charge?" after the passivity problem section
+1. Acknowledged that the passivity objection applies reflexively to the Map's quantum selection framework
+1. Introduced distinction between type-level and token-level causation
+1. Argued that token-level determination is genuine causation even without type-level statistical deviation
+1. Clarified that IIT faces a metaphysical limitation while quantum selection faces only epistemological challenges
 
 Prompted by pessimistic review (2026-01-29-late) identifying reflexive application of passivity objection.
 Key improvements: Intellectual honesty about the critique applying to both frameworks; substantive response distinguishing kinds of causation.

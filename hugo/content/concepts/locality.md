@@ -118,6 +118,6 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 
 ## References
 
-- Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics*, 1(3), 195-200.
-- Huggett, N., & Wüthrich, C. (2013). Emergent spacetime and empirical (in)coherence. *Studies in History and Philosophy of Modern Physics*, 44(3), 276-285.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press. [Develops the pairing problem objection to substance dualism]
+1. Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics*, 1(3), 195-200.
+1. Huggett, N., & Wüthrich, C. (2013). Emergent spacetime and empirical (in)coherence. *Studies in History and Philosophy of Modern Physics*, 44(3), 276-285.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press. [Develops the pairing problem objection to substance dualism]

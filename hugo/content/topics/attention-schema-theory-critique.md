@@ -200,10 +200,10 @@ Until these conditions are met, the Map maintains that AST explains reports abou
 
 ## References
 
-- Graziano, M.S.A. (2019). *Rethinking Consciousness: A Scientific Theory of Subjective Experience*. W.W. Norton.
-- Graziano, M.S.A. & Webb, T.W. (2015). The attention schema theory: a mechanistic account of subjective awareness. *Frontiers in Psychology*, 6, 500.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
-- Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
-- Webb, T.W. et al. (2021). The attention schema theory in a neural network agent. *PNAS*, 118(39).
-- Bengson, J.J. et al. (2019). Theta oscillations during the deployment of endogenous attention. *Cerebral Cortex*, 29(1), 126-142.
+1. Graziano, M.S.A. (2019). *Rethinking Consciousness: A Scientific Theory of Subjective Experience*. W.W. Norton.
+1. Graziano, M.S.A. & Webb, T.W. (2015). The attention schema theory: a mechanistic account of subjective awareness. *Frontiers in Psychology*, 6, 500.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
+1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
+1. Webb, T.W. et al. (2021). The attention schema theory in a neural network agent. *PNAS*, 118(39).
+1. Bengson, J.J. et al. (2019). Theta oscillations during the deployment of endogenous attention. *Cerebral Cortex*, 29(1), 126-142.

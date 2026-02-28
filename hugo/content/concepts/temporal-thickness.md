@@ -138,10 +138,10 @@ Temporal thickness connects to the Map's [tenets](/tenets/) at several points.
 
 ## References
 
-- Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Engel, A.K., Fries, P., & Singer, W. (2001). "Dynamic predictions: Oscillations and synchrony in top-down processing." *Nature Reviews Neuroscience*, 2(10), 704-716.
-- Zheng, J., & Meister, M. (2024). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 112(5), 679-692.
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Engel, A.K., Fries, P., & Singer, W. (2001). "Dynamic predictions: Oscillations and synchrony in top-down processing." *Nature Reviews Neuroscience*, 2(10), 704-716.
+1. Zheng, J., & Meister, M. (2024). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 112(5), 679-692.

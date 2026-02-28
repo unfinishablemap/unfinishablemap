@@ -171,14 +171,14 @@ The Map's interpretation would face difficulty if:
 
 ## References
 
-- Demirel, Ç. et al. (2025). Electrophysiological correlates of lucid dreaming: Sensor and source level signatures. *Journal of Neuroscience*, 45(20).
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Evans-Wentz, W. Y. (1935). *Tibetan Yoga and Secret Doctrines*.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Meister, M. et al. (2024). The bandwidth of human thought. Caltech study.
-- Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
-- Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872-878.
-- Stickgold, R. et al. (2023). Augmenting hippocampal-prefrontal synchrony during sleep enhances memory consolidation. *Nature Neuroscience*, 26, 2170-2181.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12-34.
-- Wang, H.-R. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states in propofol anesthesia. *Communications Biology*, 8, 92.
+1. Demirel, Ç. et al. (2025). Electrophysiological correlates of lucid dreaming: Sensor and source level signatures. *Journal of Neuroscience*, 45(20).
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Evans-Wentz, W. Y. (1935). *Tibetan Yoga and Secret Doctrines*.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Meister, M. et al. (2024). The bandwidth of human thought. Caltech study.
+1. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+1. Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872-878.
+1. Stickgold, R. et al. (2023). Augmenting hippocampal-prefrontal synchrony during sleep enhances memory consolidation. *Nature Neuroscience*, 26, 2170-2181.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12-34.
+1. Wang, H.-R. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states in propofol anesthesia. *Communications Biology*, 8, 92.

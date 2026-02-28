@@ -166,12 +166,12 @@ None of these conditions has been met. Introspective opacity persists across cul
 
 ## References
 
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-- Nisbett, R. E., & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
-- Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
-- Sartre, J.-P. (1943). *Being and Nothingness*. Gallimard.
-- Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome in a simple decision task." *Science*, 310(5745), 116-119.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Schwitzgebel, E. (2008). "The unreliability of naive introspection." *Philosophical Review*, 117(2), 245-273.
-- Fleming, S. M., et al. (2012). "Prefrontal contributions to metacognition in perceptual decision making." *Journal of Neuroscience*, 32(18), 6117-6125.
-- Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Nijhoff.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Nisbett, R. E., & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
+1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+1. Sartre, J.-P. (1943). *Being and Nothingness*. Gallimard.
+1. Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome in a simple decision task." *Science*, 310(5745), 116-119.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Schwitzgebel, E. (2008). "The unreliability of naive introspection." *Philosophical Review*, 117(2), 245-273.
+1. Fleming, S. M., et al. (2012). "Prefrontal contributions to metacognition in perceptual decision making." *Journal of Neuroscience*, 32(18), 6117-6125.
+1. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Nijhoff.

@@ -160,13 +160,13 @@ Neither has been achieved. The computational void is established; whether it is 
 
 <!-- AI REFINEMENT LOG - 2026-01-31
 Changes made:
-- Fixed equivocation between computational and phenomenal limits identified in pessimistic review
-- Restructured opening to explicitly present conditional structure: (1) if consciousness is computational, limits bind; (2) if consciousness transcends computation, limits constrain machines but not minds
-- Added conditional framing to halting problem section
-- Rewrote "AI and Shared Limits" section as "AI and the Question of Shared Limits" with explicit conditional structure
-- Clarified dualism tenet connection to note that non-computational consciousness would escape Gödel/Turing limits
-- Updated conclusion to make the conditional explicit rather than leaving it ambiguous
-- Changed "What Would Dissolve This Void" section to clarify the void is established for computation, with consciousness's relation remaining the open question
+1. Fixed equivocation between computational and phenomenal limits identified in pessimistic review
+1. Restructured opening to explicitly present conditional structure: (1) if consciousness is computational, limits bind; (2) if consciousness transcends computation, limits constrain machines but not minds
+1. Added conditional framing to halting problem section
+1. Rewrote "AI and Shared Limits" section as "AI and the Question of Shared Limits" with explicit conditional structure
+1. Clarified dualism tenet connection to note that non-computational consciousness would escape Gödel/Turing limits
+1. Updated conclusion to make the conditional explicit rather than leaving it ambiguous
+1. Changed "What Would Dissolve This Void" section to clarify the void is established for computation, with consciousness's relation remaining the open question
 
 Based on pessimistic review (2026-01-31) identifying high-severity equivocation.
 Key improvement: Article now explicitly frames claims as conditional on whether consciousness is computational, resolving the logical tension between claiming limits constrain consciousness and claiming consciousness might transcend computation.

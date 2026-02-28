@@ -2,9 +2,9 @@
 title: "The Binding Problem"
 description: "How do distributed neural processes combine into unified experience? Classical mechanisms explain coordination but not phenomenal unity—the hard aspect of binding."
 created: 2026-01-14
-modified: 2026-01-26
+modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -195,13 +195,14 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 
 ## References
 
-- Bayne, T., & Chalmers, D. (2003). What is the Unity of Consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
-- Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of Orch OR. *Physics of Life Reviews*, 11, 39-78.
-- Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-- Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
-- Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
-- Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
-- Stapp, H. P. (2009). *Mind, Matter, and Quantum Mechanics*. 3rd ed. Springer.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-- Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Bayne, T., & Chalmers, D. (2003). What is the Unity of Consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
+1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of Orch OR. *Physics of Life Reviews*, 11, 39-78.
+1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
+1. Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
+1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
+1. Stapp, H. P. (2009). *Mind, Matter, and Quantum Mechanics*. 3rd ed. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/
 

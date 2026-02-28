@@ -123,10 +123,10 @@ The phenomenology of temporal attention aligns with several of the Map's [[tenet
 
 ## References
 
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*. Stanford University Press.
-- Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
-- Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Kent, L. & Wittmann, M. (2021). "Time consciousness: the missing link in theories of consciousness." *Neuroscience of Consciousness*.
-- Slagter, H.A. et al. (2007). "Mental training affects distribution of limited brain resources." *PLOS Biology*, 5(6), e138.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*. Stanford University Press.
+1. Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
+1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Kent, L. & Wittmann, M. (2021). "Time consciousness: the missing link in theories of consciousness." *Neuroscience of Consciousness*.
+1. Slagter, H.A. et al. (2007). "Mental training affects distribution of limited brain resources." *PLOS Biology*, 5(6), e138.

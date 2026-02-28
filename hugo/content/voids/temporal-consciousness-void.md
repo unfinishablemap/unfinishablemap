@@ -145,10 +145,10 @@ This void connects to the Map's [tenets](/tenets/):
 
 ## References
 
-- Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
-- Broad, C.D. (1923). *Scientific Thought*. Routledge.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- James, W. (1890). *The Principles of Psychology*, Chapter XV: "The Perception of Time."
-- McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17, 457-474.
-- Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
-- Weyl, H. (1949). *Philosophy of Mathematics and Natural Science*. Princeton.
+1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
+1. Broad, C.D. (1923). *Scientific Thought*. Routledge.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. James, W. (1890). *The Principles of Psychology*, Chapter XV: "The Perception of Time."
+1. McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17, 457-474.
+1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
+1. Weyl, H. (1949). *Philosophy of Mathematics and Natural Science*. Princeton.

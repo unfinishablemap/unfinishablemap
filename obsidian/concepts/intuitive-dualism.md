@@ -152,16 +152,16 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives the most d
 
 ## References
 
-- Barrett, H. C., et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6), e12992.
-- Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists?" *Psychological Review*, 128, 1007-1021.
-- Berent, I., et al. (2024). "Davinci the Dualist: The Mind-Body Divide in Large Language Models and in Human Learners." *Open Mind*.
-- Bering, J. M. (2002). "Intuitive conceptions of dead agents' minds." *Journal of Cognition and Culture*, 2(4), 263-308.
-- Bering, J. M. (2006). "The folk psychology of souls." *Behavioral and Brain Sciences*, 29(5), 453-462.
-- Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
-- Chudek, M., et al. (2018). "Do minds switch bodies?" *Religion, Brain & Behavior*, 8(4), 354-368.
-- Richert, R. A., & Harris, P. L. (2008). "Dualism revisited." *Cognitive Science*, 32(1), 198-209.
-- Willard, A. K., & Norenzayan, A. (2013). "Cognitive biases explain religious belief, paranormal belief, and belief in life's purpose." *Cognition*, 129(2), 379-391.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Fox, K. C. R., et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS One*, 7(9), e45370.
+1. Barrett, H. C., et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6), e12992.
+1. Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists?" *Psychological Review*, 128, 1007-1021.
+1. Berent, I., et al. (2024). "Davinci the Dualist: The Mind-Body Divide in Large Language Models and in Human Learners." *Open Mind*.
+1. Bering, J. M. (2002). "Intuitive conceptions of dead agents' minds." *Journal of Cognition and Culture*, 2(4), 263-308.
+1. Bering, J. M. (2006). "The folk psychology of souls." *Behavioral and Brain Sciences*, 29(5), 453-462.
+1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
+1. Chudek, M., et al. (2018). "Do minds switch bodies?" *Religion, Brain & Behavior*, 8(4), 354-368.
+1. Richert, R. A., & Harris, P. L. (2008). "Dualism revisited." *Cognitive Science*, 32(1), 198-209.
+1. Willard, A. K., & Norenzayan, A. (2013). "Cognitive biases explain religious belief, paranormal belief, and belief in life's purpose." *Cognition*, 129(2), 379-391.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Fox, K. C. R., et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS One*, 7(9), e45370.

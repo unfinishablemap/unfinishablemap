@@ -146,11 +146,11 @@ The Map's tenets shape environmental ethics distinctively:
 
 ## References
 
-- Leopold, A. (1949). *A Sand County Almanac*. Oxford University Press.
-- Næss, A. (1973). "The Shallow and the Deep, Long-Range Ecology Movement." *Inquiry*, 16(1), 95-100.
-- Singer, P. (1975). *Animal Liberation*. Random House.
-- Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
-- Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
-- New York Declaration on Animal Consciousness. (2024). NYU Conference.
-- Rolston, H. (1988). *Environmental Ethics: Duties to and Values in the Natural World*. Temple University Press.
+1. Leopold, A. (1949). *A Sand County Almanac*. Oxford University Press.
+1. Næss, A. (1973). "The Shallow and the Deep, Long-Range Ecology Movement." *Inquiry*, 16(1), 95-100.
+1. Singer, P. (1975). *Animal Liberation*. Random House.
+1. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+1. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
+1. New York Declaration on Animal Consciousness. (2024). NYU Conference.
+1. Rolston, H. (1988). *Environmental Ethics: Duties to and Values in the Natural World*. Temple University Press.

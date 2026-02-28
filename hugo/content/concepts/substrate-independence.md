@@ -219,17 +219,17 @@ The overall framework provides resources for confident skepticism about current 
 
 ## References
 
-- Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Fodor, J. (1974). Special Sciences. *Synthese*, 28, 97-115.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Hoel, E. (2026). A Disproof of Large Language Model Consciousness. *arXiv:2512.12802*.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
-- Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
-- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Turing, A. (1950). Computing Machinery and Intelligence. *Mind*, 59, 433-460.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Fodor, J. (1974). Special Sciences. *Synthese*, 28, 97-115.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Hoel, E. (2026). A Disproof of Large Language Model Consciousness. *arXiv:2512.12802*.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
+1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
+1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Turing, A. (1950). Computing Machinery and Intelligence. *Mind*, 59, 433-460.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

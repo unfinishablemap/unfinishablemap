@@ -144,14 +144,14 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 
 ## References
 
-- Bechtel, W. & Abrahamsen, A. (2005). Explanation: A Mechanist Alternative. *Studies in History and Philosophy of Biological and Biomedical Sciences*, 36(2), 421-441.
-- Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Craver, C.F. (2007). *Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience*. Oxford University Press.
-- Dennett, D.C. (2003). Who's On First? Heterophenomenology Explained. *Journal of Consciousness Studies*, 10(9-10), 19-30.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-- Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
-- Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *Philosophical Review*, 117(2), 245-273.
-- Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Bechtel, W. & Abrahamsen, A. (2005). Explanation: A Mechanist Alternative. *Studies in History and Philosophy of Biological and Biomedical Sciences*, 36(2), 421-441.
+1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Craver, C.F. (2007). *Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience*. Oxford University Press.
+1. Dennett, D.C. (2003). Who's On First? Heterophenomenology Explained. *Journal of Consciousness Studies*, 10(9-10), 19-30.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
+1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+1. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *Philosophical Review*, 117(2), 245-273.
+1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.

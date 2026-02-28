@@ -136,8 +136,8 @@ The metaphysics of information connects to each of the Map's tenets.
 
 ## References
 
-- Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Chalmers, D.J. & McQueen, K.J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-- Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183-191.
-- Shannon, C.E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
-- Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
+1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Chalmers, D.J. & McQueen, K.J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183-191.
+1. Shannon, C.E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
+1. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.

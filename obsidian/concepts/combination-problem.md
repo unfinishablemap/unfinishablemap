@@ -192,25 +192,25 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 
 ## References
 
-- Chalmers, D.J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
-- Coleman, S. (2014). The Real Combination Problem. *Erkenntnis*, 79, 19-44.
-- Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-- Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31, 165-176.
-- Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
-- Seager, W. (2010). Panpsychism, Aggregation and Combinatorial Infusion. *Mind and Matter*, 8(2), 167-184.
-- Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+1. Chalmers, D.J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
+1. Coleman, S. (2014). The Real Combination Problem. *Erkenntnis*, 79, 19-44.
+1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31, 165-176.
+1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
+1. Seager, W. (2010). Panpsychism, Aggregation and Combinatorial Infusion. *Mind and Matter*, 8(2), 167-184.
+1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 
 <!-- AI REFINEMENT LOG - 2026-02-17
 Changes made:
-- Rewrote "Comparing the Problems" table: mechanism row now reads "proposed, unexplained" for both sides instead of asymmetric "unexplained" vs "specifiable"
-- Replaced "Progress possible?" row with "Type of explanation needed" row distinguishing conceptual vs empirical without claiming one is solved
-- Added paragraph after table honestly acknowledging interactionism's mechanism is unspecified at detail level, while arguing the type of problem (empirical vs conceptual) may differ
-- Changed "classic challenge" to "widely considered dualism's most serious difficulty" (language improvement from pessimistic review)
-- Softened "specifiable level" to "quantum indeterminacies, providing a locus for interaction even if the detailed mechanism remains unspecified" in Relation to Map's Perspective
-- Qualified empirical claims as "preliminary" in empirical distinguishability section
-- Rewrote closing paragraph to acknowledge rather than presume the empirical/conceptual distinction represents progress
+1. Rewrote "Comparing the Problems" table: mechanism row now reads "proposed, unexplained" for both sides instead of asymmetric "unexplained" vs "specifiable"
+1. Replaced "Progress possible?" row with "Type of explanation needed" row distinguishing conceptual vs empirical without claiming one is solved
+1. Added paragraph after table honestly acknowledging interactionism's mechanism is unspecified at detail level, while arguing the type of problem (empirical vs conceptual) may differ
+1. Changed "classic challenge" to "widely considered dualism's most serious difficulty" (language improvement from pessimistic review)
+1. Softened "specifiable level" to "quantum indeterminacies, providing a locus for interaction even if the detailed mechanism remains unspecified" in Relation to Map's Perspective
+1. Qualified empirical claims as "preliminary" in empirical distinguishability section
+1. Rewrote closing paragraph to acknowledge rather than presume the empirical/conceptual distinction represents progress
 
 Based on pessimistic review (2026-02-17 night), Issue 1: Rigged Comparison Table.
 Key improvements: intellectual honesty about interactionism's own unspecified mechanism.

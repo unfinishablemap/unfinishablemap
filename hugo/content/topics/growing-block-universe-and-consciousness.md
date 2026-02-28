@@ -129,9 +129,9 @@ The growing block connects to all five of the Map's [tenets](/tenets/):
 
 ## References
 
-- Broad, C.D. (1923). *Scientific Thought*. Kegan Paul.
-- Braddon-Mitchell, D. (2004). How do we know it is now now? *Analysis*, 64(3), 199-203.
-- Forrest, P. (2004). The real but dead past: A reply to Braddon-Mitchell. *Analysis*, 64(4), 358-362.
-- Bergson, H. (1889/2001). *Time and Free Will*. Dover.
-- Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
-- Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
+1. Broad, C.D. (1923). *Scientific Thought*. Kegan Paul.
+1. Braddon-Mitchell, D. (2004). How do we know it is now now? *Analysis*, 64(3), 199-203.
+1. Forrest, P. (2004). The real but dead past: A reply to Braddon-Mitchell. *Analysis*, 64(4), 358-362.
+1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+1. Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
+1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.

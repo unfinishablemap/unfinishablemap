@@ -2,9 +2,9 @@
 title: "Free Will and Determinism"
 description: "Can we genuinely author our choices? The Map defends agent-causal libertarian free will grounded in phenomenology—the felt difference between choosing and merely observing."
 created: 2026-01-08
-modified: 2026-01-30
+modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-27T17:46:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 last_deep_review: 2026-02-25T12:26:00+00:00
 draft: false
 topics:
@@ -247,22 +247,23 @@ Free will stands at the intersection of all five [[tenets]]:
 
 ## References
 
-- Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
-- Schurger, A. et al. (2012). Accumulator model for spontaneous neural activity. *PNAS*, 109(42), E2904-E2913.
-- Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation. *Science*, 324(5928), 811-813.
-- Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
-- Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation. In L. H. Eckensberger & E. D. Lantermann (Eds.), *Emotion und Reflexivität* (pp. 3-47). Urban & Schwarzenberg.
-- Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
-- Cramer, J. G. (1986). Transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
-- Read, D. W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
-- Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
+1. Schurger, A. et al. (2012). Accumulator model for spontaneous neural activity. *PNAS*, 109(42), E2904-E2913.
+1. Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation. *Science*, 324(5928), 811-813.
+1. Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+1. Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation. In L. H. Eckensberger & E. D. Lantermann (Eds.), *Emotion und Reflexivität* (pp. 3-47). Urban & Schwarzenberg.
+1. Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
+1. Cramer, J. G. (1986). Transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Read, D. W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
+1. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/
 
 <!-- AI REFINEMENT LOG - 2026-02-25
 Changes made:
-- Integrated counterfactual void insights into the Counterfactual Reasoning subsection: acknowledged architectural limits of modal cognition (Byrne's nearest-world bias, schematic thinning) while arguing these constraints clarify rather than undermine libertarian free will
-- Condensed Bischof-Köhler exposition (duplicated concept page detail) and replaced with cross-reference to [[counterfactual-reasoning]]
-- Added cross-link to [[counterfactual-void]] in body text, Further Reading, and related_articles frontmatter
-- Added Byrne (2005) to References
+1. Integrated counterfactual void insights into the Counterfactual Reasoning subsection: acknowledged architectural limits of modal cognition (Byrne's nearest-world bias, schematic thinning) while arguing these constraints clarify rather than undermine libertarian free will
+1. Condensed Bischof-Köhler exposition (duplicated concept page detail) and replaced with cross-reference to [[counterfactual-reasoning]]
+1. Added cross-link to [[counterfactual-void]] in body text, Further Reading, and related_articles frontmatter
+1. Added Byrne (2005) to References
 
 Prompted by cross-review of counterfactual-void article insights.
 Key improvement: Article now engages with the limits of counterfactual reasoning, arguing the nearest-world constraint is predicted by Minimal Quantum Interaction rather than ignoring modal architecture constraints.

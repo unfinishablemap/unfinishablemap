@@ -95,8 +95,8 @@ The connection to [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum
 
 ## References
 
-- Crick, F. (1988). *What Mad Pursuit*. Basic Books.
-- Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349-366.
-- Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
-- Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109-11132.
+1. Crick, F. (1988). *What Mad Pursuit*. Basic Books.
+1. Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349-366.
+1. Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
+1. Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109-11132.

@@ -221,14 +221,14 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 
 ## References
 
-- Aydin, K., et al. (2007). Increased gray matter density in the parietal cortex of mathematicians. *American Journal of Neuroradiology*, 28(10), 1859-1864.
-- Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
-- Grabner, R.H., et al. (2007). Individual differences in mathematical competence predict parietal brain activation during mental calculation. *NeuroImage*, 38(2), 346-356.
-- James, W. (1890). *The Principles of Psychology*. Chapters 11 (Attention) and 26 (Will).
-- Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
-- Lewis, C.S. (1960). *Miracles: A Preliminary Study*. 2nd ed. (Chapter 3: "The Cardinal Difficulty of Naturalism").
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
-- Reppert, V. (2003). *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. InterVarsity Press.
-- Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Aydin, K., et al. (2007). Increased gray matter density in the parietal cortex of mathematicians. *American Journal of Neuroradiology*, 28(10), 1859-1864.
+1. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
+1. Grabner, R.H., et al. (2007). Individual differences in mathematical competence predict parietal brain activation during mental calculation. *NeuroImage*, 38(2), 346-356.
+1. James, W. (1890). *The Principles of Psychology*. Chapters 11 (Attention) and 26 (Will).
+1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Lewis, C.S. (1960). *Miracles: A Preliminary Study*. 2nd ed. (Chapter 3: "The Cardinal Difficulty of Naturalism").
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. InterVarsity Press.
+1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.

@@ -116,13 +116,13 @@ This parallels the standard [qualia](/concepts/qualia/) arguments but targets a 
 
 ## References
 
-- Clay, E.R. (1882). *The Alternative*.
-- Dainton, B. (2008). "The Experience of Time and Change." *Philosophy Compass*, 3(4), 619–652.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Trans. J. Brough. Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kent, L. & Wittmann, M. (2021). "Time consciousness: the missing link in theories of consciousness." *Neuroscience of Consciousness*, 2021(2), niab011.
-- Petitmengin, C. (2006). "Describing one's subjective experience in the second person." *Phenomenology and the Cognitive Sciences*, 5(3–4), 229–269.
-- Pöppel, E. (1997). "A hierarchical model of temporal perception." *Trends in Cognitive Sciences*, 1(2), 56–61.
-- Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
-- Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
-- Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al. Stanford University Press.
+1. Clay, E.R. (1882). *The Alternative*.
+1. Dainton, B. (2008). "The Experience of Time and Change." *Philosophy Compass*, 3(4), 619–652.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Trans. J. Brough. Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kent, L. & Wittmann, M. (2021). "Time consciousness: the missing link in theories of consciousness." *Neuroscience of Consciousness*, 2021(2), niab011.
+1. Petitmengin, C. (2006). "Describing one's subjective experience in the second person." *Phenomenology and the Cognitive Sciences*, 5(3–4), 229–269.
+1. Pöppel, E. (1997). "A hierarchical model of temporal perception." *Trends in Cognitive Sciences*, 1(2), 56–61.
+1. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
+1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+1. Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al. Stanford University Press.

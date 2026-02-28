@@ -143,10 +143,10 @@ The Unfinishable Map's [[tenets]] illuminate this topic from several directions.
 
 ## References
 
-- Greco, J. (2010). *Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity*. Cambridge University Press.
-- Hardy, G. H. (1940). *A Mathematician's Apology*. Cambridge University Press.
-- Kounios, J. & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71–93.
-- Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1–36.
-- Plato. *Meno*. 97a–98b.
-- Sosa, E. (2007). *A Virtue Epistemology: Apt Belief and Reflective Knowledge, Volume I*. Oxford University Press.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Greco, J. (2010). *Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity*. Cambridge University Press.
+1. Hardy, G. H. (1940). *A Mathematician's Apology*. Cambridge University Press.
+1. Kounios, J. & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71–93.
+1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1–36.
+1. Plato. *Meno*. 97a–98b.
+1. Sosa, E. (2007). *A Virtue Epistemology: Apt Belief and Reflective Knowledge, Volume I*. Oxford University Press.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.

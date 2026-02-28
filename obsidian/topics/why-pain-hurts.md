@@ -145,13 +145,13 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 
 ## References
 
-- Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
-- Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Cleeremans, A. & Tallon-Baudry, C. (2022). "Consciousness Matters: Phenomenal Experience Has Functional Value." *Neuroscience of Consciousness*, 2022(1), niac007.
-- Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
-- Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29–57.
-- Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-- Ramachandran, V. S., & Hirstein, W. (1998). "The Perception of Phantom Limbs." *Brain*, 121(9), 1603–1630.
+1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
+1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Cleeremans, A. & Tallon-Baudry, C. (2022). "Consciousness Matters: Phenomenal Experience Has Functional Value." *Neuroscience of Consciousness*, 2022(1), niac007.
+1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29–57.
+1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+1. Ramachandran, V. S., & Hirstein, W. (1998). "The Perception of Phantom Limbs." *Brain*, 121(9), 1603–1630.

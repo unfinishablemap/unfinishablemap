@@ -190,21 +190,21 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 
 ## References
 
-- Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-- Demirel, H. et al. (2025). Lucid dreaming as a distinct consciousness state. *Nature Human Behaviour*.
-- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
-- Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
-- Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*.
-- Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-- Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
-- Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
-- Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Thompson, E. (2020). *Why I Am Not a Buddhist*. Yale University Press.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Wong, D. (2024). "Comparative Philosophy: Chinese and Western." *Stanford Encyclopedia of Philosophy*.
-- Lao Tzu. *Tao Te Ching*. Various translations.
-- Shankara. *Brahma Sutra Bhashya*. Trans. Swami Gambhirananda. Advaita Ashrama.
+1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
+1. Demirel, H. et al. (2025). Lucid dreaming as a distinct consciousness state. *Nature Human Behaviour*.
+1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
+1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
+1. Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*.
+1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
+1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
+1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
+1. Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Thompson, E. (2020). *Why I Am Not a Buddhist*. Yale University Press.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Wong, D. (2024). "Comparative Philosophy: Chinese and Western." *Stanford Encyclopedia of Philosophy*.
+1. Lao Tzu. *Tao Te Ching*. Various translations.
+1. Shankara. *Brahma Sutra Bhashya*. Trans. Swami Gambhirananda. Advaita Ashrama.

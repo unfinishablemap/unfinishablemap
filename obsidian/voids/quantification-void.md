@@ -103,11 +103,11 @@ The quantification void follows from the Map's [[tenets]] with particular direct
 
 ## References
 
-- Cerullo, M. (2015). "The Problem with Phi: A Critique of Integrated Information Theory." *PLOS Computational Biology*, 11(9), e1004286.
-- Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-- Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245-273.
-- Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-- Stevens, S. S. (1957). "On the Psychophysical Law." *Psychological Review*, 64(3), 153-181.
-- Tononi, G. (2012). "Integrated Information Theory of Consciousness: An Updated Account." *Archives Italiennes de Biologie*, 150, 56-90.
+1. Cerullo, M. (2015). "The Problem with Phi: A Critique of Integrated Information Theory." *PLOS Computational Biology*, 11(9), e1004286.
+1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245-273.
+1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Stevens, S. S. (1957). "On the Psychophysical Law." *Psychological Review*, 64(3), 153-181.
+1. Tononi, G. (2012). "Integrated Information Theory of Consciousness: An Updated Account." *Archives Italiennes de Biologie*, 150, 56-90.

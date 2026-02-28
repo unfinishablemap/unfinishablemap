@@ -125,7 +125,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 
 ## References
 
-- Anscombe, G.E.M. (1957). *Intention*. Basil Blackwell.
-- Humberstone, I.L. (1992). Direction of fit. *Mind*, 101(401), 59-83.
-- Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
-- Smith, M. (1994). *The Moral Problem*. Blackwell.
+1. Anscombe, G.E.M. (1957). *Intention*. Basil Blackwell.
+1. Humberstone, I.L. (1992). Direction of fit. *Mind*, 101(401), 59-83.
+1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
+1. Smith, M. (1994). *The Moral Problem*. Blackwell.

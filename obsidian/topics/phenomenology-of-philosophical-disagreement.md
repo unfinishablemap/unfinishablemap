@@ -125,8 +125,8 @@ The Map's [[tenets#^occams-limits|Occam's Razor tenet]] is also relevant. The ma
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Fogelin, R. (1985). The logic of deep disagreements. *Informal Logic*, 7(1), 3-11.
-- Kelly, T. (2005). The epistemic significance of disagreement. *Oxford Studies in Epistemology*, 1, 167-196.
-- Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Fogelin, R. (1985). The logic of deep disagreements. *Informal Logic*, 7(1), 3-11.
+1. Kelly, T. (2005). The epistemic significance of disagreement. *Oxford Studies in Epistemology*, 1, 167-196.
+1. Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.

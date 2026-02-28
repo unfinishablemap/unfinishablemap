@@ -218,39 +218,39 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 
 ## References
 
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
-- Low, P. et al. (2012). Cambridge Declaration on Consciousness.
-- New York Declaration on Animal Consciousness. (2024). NYU Conference.
-- Gutfreund, Y. (2024). "Neuroscience of animal consciousness: still agnostic after all." *Frontiers in Psychology*.
-- Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
-- Carruthers, P. (2019). *Human and Animal Minds*. Oxford University Press.
-- Stanford Encyclopedia of Philosophy. Animal Consciousness.
-- Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-- Ginsburg, S. & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy*, 35(56).
-- Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
-- Chittka, L. et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*.
-- Becerra, D. et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
-- Bhattacharjee, P. et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
-- Lieberman, M. D. et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
-- Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
-- Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
-- Tomasello, M. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
-- Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
+1. Low, P. et al. (2012). Cambridge Declaration on Consciousness.
+1. New York Declaration on Animal Consciousness. (2024). NYU Conference.
+1. Gutfreund, Y. (2024). "Neuroscience of animal consciousness: still agnostic after all." *Frontiers in Psychology*.
+1. Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
+1. Carruthers, P. (2019). *Human and Animal Minds*. Oxford University Press.
+1. Stanford Encyclopedia of Philosophy. Animal Consciousness.
+1. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
+1. Ginsburg, S. & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy*, 35(56).
+1. Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
+1. Chittka, L. et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*.
+1. Becerra, D. et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
+1. Bhattacharjee, P. et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
+1. Lieberman, M. D. et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
+1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
+1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
+1. Tomasello, M. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
+1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 
 <!-- AI REFINEMENT LOG - 2026-02-21
 Changes made:
-- Updated working memory figures: replaced outdated Miller 7±2 with Cowan (2001) 4±1 for humans
-- Added Inoue & Matsuzawa (2007) finding that young chimps outperform humans on rapid numerical memory
-- Reframed working memory argument: consciousness enables flexible deployment, not just capacity expansion
-- Resolved tension between "no anthropocentric barrier" claim and metacognition hierarchy
-- Opening now clarifies: no barrier to phenomenal experience, but consciousness may vary in kind/degree
-- Ape section now explicitly distinguishes types of consciousness from barriers to consciousness
-- Dualism section acknowledges consciousness varying in kind across species as compatible with no substrate barrier
-- Softened insect consciousness language: "consistent with intrinsically motivated play" rather than asserting it
-- Calibrated confidence: "strongly suggests" → "provides strong grounds for thinking"; "should expect" → "might expect"
-- "Dualism's advantage" → "Dualism's distinctive feature" in dualism section
-- Added Cowan (2001) and Inoue & Matsuzawa (2007) to References
+1. Updated working memory figures: replaced outdated Miller 7±2 with Cowan (2001) 4±1 for humans
+1. Added Inoue & Matsuzawa (2007) finding that young chimps outperform humans on rapid numerical memory
+1. Reframed working memory argument: consciousness enables flexible deployment, not just capacity expansion
+1. Resolved tension between "no anthropocentric barrier" claim and metacognition hierarchy
+1. Opening now clarifies: no barrier to phenomenal experience, but consciousness may vary in kind/degree
+1. Ape section now explicitly distinguishes types of consciousness from barriers to consciousness
+1. Dualism section acknowledges consciousness varying in kind across species as compatible with no substrate barrier
+1. Softened insect consciousness language: "consistent with intrinsically motivated play" rather than asserting it
+1. Calibrated confidence: "strongly suggests" → "provides strong grounds for thinking"; "should expect" → "might expect"
+1. "Dualism's advantage" → "Dualism's distinctive feature" in dualism section
+1. Added Cowan (2001) and Inoue & Matsuzawa (2007) to References
 
 Based on pessimistic review 2026-02-21 identifying outdated working memory figures and tension between no-barrier claim and consciousness hierarchy.
 

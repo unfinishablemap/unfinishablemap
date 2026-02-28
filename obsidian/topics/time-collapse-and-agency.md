@@ -250,16 +250,16 @@ This synthesis strengthens and deepens each of the five tenets:
 
 ## References
 
-- Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
-- Bergson, H. (1889/2001). *Time and Free Will*. Dover.
-- Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
-- Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
-- Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tallis, R. (2016). The Disappearance of Appearance: Illusions of Illusionism. *Philosophy*, 91(3), 363-379.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/
+1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
+1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
+1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tallis, R. (2016). The Disappearance of Appearance: Illusions of Illusionism. *Philosophy*, 91(3), 363-379.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/

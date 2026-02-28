@@ -230,24 +230,24 @@ The measurement problem is central to the Map's framework. It provides the *perm
 
 ## References
 
-- Albert, D.Z. & Loewer, B. (1988). "Interpreting the many-worlds interpretation." *Synthese*, 77, 195-213.
-- Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
-- Bong, K.-W. et al. (2020). "A strong no-go theorem on the Wigner's friend paradox." *Nature Physics*, 16, 1199-1205.
-- Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*.
-- Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
-- Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206.
-- Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
-- Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
+1. Albert, D.Z. & Loewer, B. (1988). "Interpreting the many-worlds interpretation." *Synthese*, 77, 195-213.
+1. Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
+1. Bong, K.-W. et al. (2020). "A strong no-go theorem on the Wigner's friend paradox." *Nature Physics*, 16, 1199-1205.
+1. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*.
+1. Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
+1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206.
+1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
+1. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
 
 <!-- AI REFINEMENT LOG - 2026-02-27 (deep-review, cross-review with consciousness-in-non-collapsed-quantum-states)
 Changes made:
-- Added definiteness constraint concept to Observer Problem section (Albert & Loewer's "determinate-experience problem" framing, consciousness's constitutive determinacy)
-- Added Bong et al. (2020) local friendliness no-go theorem to Observer Problem section (stronger than Frauchiger-Renner alone)
-- Added cross-link to [[consciousness-in-non-collapsed-quantum-states]] in frontmatter, Further Reading, and inline
-- Added Albert & Loewer (1988) and Bong et al. (2020) to References
-- Tightened prose in six locations to maintain length neutrality: Problem Stated, MWI, Stapp intro, causal closure opening, permissibility condition, positive case conclusion, Relation to Site Perspective
+1. Added definiteness constraint concept to Observer Problem section (Albert & Loewer's "determinate-experience problem" framing, consciousness's constitutive determinacy)
+1. Added Bong et al. (2020) local friendliness no-go theorem to Observer Problem section (stronger than Frauchiger-Renner alone)
+1. Added cross-link to [[consciousness-in-non-collapsed-quantum-states]] in frontmatter, Further Reading, and inline
+1. Added Albert & Loewer (1988) and Bong et al. (2020) to References
+1. Tightened prose in six locations to maintain length neutrality: Problem Stated, MWI, Stapp intro, causal closure opening, permissibility condition, positive case conclusion, Relation to Site Perspective
 
 This log should be removed after human review.
 -->

@@ -130,12 +130,12 @@ This analysis connects to the Map's foundational commitments at multiple points.
 
 ## References
 
-- Butler, J. (1990). *Gender Trouble: Feminism and the Subversion of Identity*. Routledge.
-- Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
-- Mead, G.H. (1934). *Mind, Self, and Society*. University of Chicago Press.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Schachter, S. & Singer, J.E. (1962). "Cognitive, Social, and Physiological Determinants of Emotional State." *Psychological Review*, 69(5), 379-399.
-- Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
-- Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
-- Winawer, J. et al. (2007). "Russian Blues Reveal Effects of Language on Color Discrimination." *PNAS*, 104(19), 7780-7785.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Butler, J. (1990). *Gender Trouble: Feminism and the Subversion of Identity*. Routledge.
+1. Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Mead, G.H. (1934). *Mind, Self, and Society*. University of Chicago Press.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Schachter, S. & Singer, J.E. (1962). "Cognitive, Social, and Physiological Determinants of Emotional State." *Psychological Review*, 69(5), 379-399.
+1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
+1. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
+1. Winawer, J. et al. (2007). "Russian Blues Reveal Effects of Language on Color Discrimination." *PNAS*, 104(19), 7780-7785.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

@@ -173,18 +173,18 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 
 ## References
 
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
-- Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423.
-- Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory. *Psychological Bulletin*, 121(3), 331–354.
-- Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367–383.
-- Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance. *Journal of Experimental Psychology: General*, 130(4), 701–725.
-- Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773–786.
-- Stokes, M. G. (2015). 'Activity-silent' working memory in prefrontal cortex. *Trends in Cognitive Sciences*, 19(10), 590–594.
-- Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-- Geva-Sagiv, M. et al. (2023). Augmenting hippocampal–prefrontal neuronal synchrony during sleep enhances memory consolidation in humans. *Nature Neuroscience*, 26(6), 1100–1110.
-- Hu, X. et al. (2020). Promoting memory consolidation during sleep: A meta-analysis of targeted memory reactivation. *Psychological Bulletin*, 146(3), 218–244.
-- Cellini, N. & Capuozzo, A. (2018). Shaping memory consolidation via targeted memory reactivation during sleep. *Annals of the New York Academy of Sciences*, 1426(1), 52–71.
-- Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12–34.
-- Diekelmann, S. & Born, J. (2010). The memory function of sleep. *Nature Reviews Neuroscience*, 11(2), 114–126.
-- Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872–878.
-- Buzsáki, G. (2015). Hippocampal sharp wave-ripple: A cognitive biomarker for episodic memory and planning. *Hippocampus*, 25(10), 1073–1188.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
+1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417–423.
+1. Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory. *Psychological Bulletin*, 121(3), 331–354.
+1. Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367–383.
+1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance. *Journal of Experimental Psychology: General*, 130(4), 701–725.
+1. Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773–786.
+1. Stokes, M. G. (2015). 'Activity-silent' working memory in prefrontal cortex. *Trends in Cognitive Sciences*, 19(10), 590–594.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+1. Geva-Sagiv, M. et al. (2023). Augmenting hippocampal–prefrontal neuronal synchrony during sleep enhances memory consolidation in humans. *Nature Neuroscience*, 26(6), 1100–1110.
+1. Hu, X. et al. (2020). Promoting memory consolidation during sleep: A meta-analysis of targeted memory reactivation. *Psychological Bulletin*, 146(3), 218–244.
+1. Cellini, N. & Capuozzo, A. (2018). Shaping memory consolidation via targeted memory reactivation during sleep. *Annals of the New York Academy of Sciences*, 1426(1), 52–71.
+1. Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12–34.
+1. Diekelmann, S. & Born, J. (2010). The memory function of sleep. *Nature Reviews Neuroscience*, 11(2), 114–126.
+1. Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872–878.
+1. Buzsáki, G. (2015). Hippocampal sharp wave-ripple: A cognitive biomarker for episodic memory and planning. *Hippocampus*, 25(10), 1073–1188.

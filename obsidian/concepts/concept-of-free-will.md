@@ -130,9 +130,9 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 
 ## References
 
-- Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*.
-- Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
-- Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-- O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
-- Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity. *PNAS*, 109(42), E2904-E2913.
-- Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
+1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*.
+1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
+1. Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity. *PNAS*, 109(42), E2904-E2913.
+1. Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.

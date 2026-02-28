@@ -136,12 +136,12 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 
 ## References
 
-- Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). "Meditation Experience Predicts Introspective Accuracy." *PLOS One*, 7(9), e45370.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *The Philosophical Quarterly*, 32(127), 127–136.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
-- Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). "Long-term Meditators Self-Induce High-Amplitude Gamma Synchrony During Mental Practice." *Proceedings of the National Academy of Sciences*, 101(46), 16369–16373.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Nisbett, R. & Wilson, T. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231–259.
-- Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330–349.
+1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). "Meditation Experience Predicts Introspective Accuracy." *PLOS One*, 7(9), e45370.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *The Philosophical Quarterly*, 32(127), 127–136.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+1. Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). "Long-term Meditators Self-Induce High-Amplitude Gamma Synchrony During Mental Practice." *Proceedings of the National Academy of Sciences*, 101(46), 16369–16373.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Nisbett, R. & Wilson, T. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231–259.
+1. Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330–349.

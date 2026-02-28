@@ -175,14 +175,14 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 
 ## References
 
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-- Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637-1678.
-- Adlam, E., & Rovelli, C. (2023). Information is physical: Cross-perspective links in relational quantum mechanics. *Philosophy of Physics*, 1(1).
-- Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-- Wigner, E. (1961). Remarks on the mind-body question. In I. J. Good (Ed.), *The Scientist Speculates*.
-- Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+1. Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637-1678.
+1. Adlam, E., & Rovelli, C. (2023). Information is physical: Cross-perspective links in relational quantum mechanics. *Philosophy of Physics*, 1(1).
+1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Wigner, E. (1961). Remarks on the mind-body question. In I. J. Good (Ed.), *The Scientist Speculates*.
+1. Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/

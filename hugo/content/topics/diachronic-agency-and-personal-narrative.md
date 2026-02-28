@@ -138,11 +138,11 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 
 ## References
 
-- Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
-- Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
-- MacIntyre, A. (1981). *After Virtue*. University of Notre Dame Press.
-- Bratman, M. (2007). *Structures of Agency*. Oxford University Press.
-- Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
-- Korsgaard, C. (2009). *Self-Constitution: Agency, Identity, and Integrity*. Oxford University Press.
-- Taylor, C. (1989). *Sources of the Self*. Harvard University Press.
-- Velleman, J. D. (2005). "The Self as Narrator." In *Self to Self: Selected Essays*. Cambridge University Press.
+1. Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
+1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
+1. MacIntyre, A. (1981). *After Virtue*. University of Notre Dame Press.
+1. Bratman, M. (2007). *Structures of Agency*. Oxford University Press.
+1. Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
+1. Korsgaard, C. (2009). *Self-Constitution: Agency, Identity, and Integrity*. Oxford University Press.
+1. Taylor, C. (1989). *Sources of the Self*. Harvard University Press.
+1. Velleman, J. D. (2005). "The Self as Narrator." In *Self to Self: Selected Essays*. Cambridge University Press.

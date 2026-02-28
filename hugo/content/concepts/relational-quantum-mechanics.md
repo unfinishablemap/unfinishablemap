@@ -196,12 +196,12 @@ The Map rejects this trade-off. Understanding consciousness as causally efficaci
 
 ## References
 
-- Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637-1678.
-- Adlam, E., & Rovelli, C. (2023). Information is physical: Cross-perspective links in relational quantum mechanics. *Philosophy of Physics*, 1(1).
-- Lewis, P. J. (2024). A dilemma for relational quantum mechanics. *Principia*.
-- Laudisa, F. (2019). Open problems in relational quantum mechanics. *Journal for General Philosophy of Science*, 50(2), 215-230.
-- Pienaar, J. (2019). Comment on "The notion of locality in relational quantum mechanics." *Foundations of Physics*, 49(12), 1404-1412.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/
+1. Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637-1678.
+1. Adlam, E., & Rovelli, C. (2023). Information is physical: Cross-perspective links in relational quantum mechanics. *Philosophy of Physics*, 1(1).
+1. Lewis, P. J. (2024). A dilemma for relational quantum mechanics. *Principia*.
+1. Laudisa, F. (2019). Open problems in relational quantum mechanics. *Journal for General Philosophy of Science*, 50(2), 215-230.
+1. Pienaar, J. (2019). Comment on "The notion of locality in relational quantum mechanics." *Foundations of Physics*, 49(12), 1404-1412.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/

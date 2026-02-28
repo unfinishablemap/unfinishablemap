@@ -126,12 +126,12 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 
 ## References
 
-- Austin, J. L. (1962). *Sense and Sensibilia*. Oxford University Press.
-- Clark, A. (2016). *Surfing Uncertainty*. Oxford University Press.
-- Clark, A., Friston, K. & Wilkinson, S. (2019). "Bayesing qualia: consciousness as inference, not raw datum." *Journal of Consciousness Studies*, 26(9-10), 19-33.
-- Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
-- Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
-- Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
-- Feldman, H. & Friston, K. (2010). "Attention, uncertainty, and free-energy." *Frontiers in Human Neuroscience*, 4, 215.
-- Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness." *Philosophy and the Mind Sciences*, 1(II).
-- Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Austin, J. L. (1962). *Sense and Sensibilia*. Oxford University Press.
+1. Clark, A. (2016). *Surfing Uncertainty*. Oxford University Press.
+1. Clark, A., Friston, K. & Wilkinson, S. (2019). "Bayesing qualia: consciousness as inference, not raw datum." *Journal of Consciousness Studies*, 26(9-10), 19-33.
+1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+1. Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
+1. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
+1. Feldman, H. & Friston, K. (2010). "Attention, uncertainty, and free-energy." *Frontiers in Human Neuroscience*, 4, 215.
+1. Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness." *Philosophy and the Mind Sciences*, 1(II).
+1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

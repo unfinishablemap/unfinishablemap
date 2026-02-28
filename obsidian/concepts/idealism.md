@@ -223,9 +223,9 @@ If forced to choose between idealism and physicalism, the Map would choose ideal
 
 ## References
 
-- Kastrup, B. (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books.
-- Kastrup, B. (2025). *Analytic Idealism in a Nutshell*. Iff Books.
-- Berkeley, G. (1710). *A Treatise Concerning the Principles of Human Knowledge*.
-- Sprigge, T. (1983). *The Vindication of Absolute Idealism*. Edinburgh University Press.
-- Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-- Nāgārjuna. *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way). Trans. Jay L. Garfield (1995). Oxford University Press.
+1. Kastrup, B. (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books.
+1. Kastrup, B. (2025). *Analytic Idealism in a Nutshell*. Iff Books.
+1. Berkeley, G. (1710). *A Treatise Concerning the Principles of Human Knowledge*.
+1. Sprigge, T. (1983). *The Vindication of Absolute Idealism*. Edinburgh University Press.
+1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Nāgārjuna. *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way). Trans. Jay L. Garfield (1995). Oxford University Press.

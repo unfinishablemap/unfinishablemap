@@ -127,25 +127,25 @@ The phenomenology of self-reference connects to the Map's [[tenets]] at several 
 
 ## References
 
-- Husserl, E. (1893-1917). *On the Phenomenology of the Consciousness of Internal Time*. Translated by J.B. Brough. Kluwer Academic Publishers, 1991.
-- Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section VI.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
-- Nisbett, R.E. & Wilson, T.D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
-- Schwitzgebel, E. (2008). "The unreliability of naive introspection." *Philosophical Review*, 117(2), 245-273.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Husserl, E. (1893-1917). *On the Phenomenology of the Consciousness of Internal Time*. Translated by J.B. Brough. Kluwer Academic Publishers, 1991.
+1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section VI.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
+1. Nisbett, R.E. & Wilson, T.D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
+1. Schwitzgebel, E. (2008). "The unreliability of naive introspection." *Philosophical Review*, 117(2), 245-273.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
 
 <!-- AI REFINEMENT LOG - 2026-02-09
 Changes made:
-- Added new section "Introspective Reliability and This Article's Method" addressing the methodological gap identified by pessimistic review
-- Engages Nisbett & Wilson (1977) process/content distinction, Schwitzgebel (2008) unreliability thesis
-- Argues article's claims are content reports (phenomenal character) not process reports (causal mechanisms), so survive Nisbett & Wilson critique
-- Acknowledges Schwitzgebel's deeper worry about interpretation distorting even content reports; responds with convergence and discrimination arguments
-- Cross-references introspective-opacity article where these issues are treated systematically
-- Softened "Try it now" passage in Felt Inversion section to acknowledge methodological concerns
-- Added forward reference to methodology section from Oscillation section
-- Added Schwitzgebel (2008) to References
+1. Added new section "Introspective Reliability and This Article's Method" addressing the methodological gap identified by pessimistic review
+1. Engages Nisbett & Wilson (1977) process/content distinction, Schwitzgebel (2008) unreliability thesis
+1. Argues article's claims are content reports (phenomenal character) not process reports (causal mechanisms), so survive Nisbett & Wilson critique
+1. Acknowledges Schwitzgebel's deeper worry about interpretation distorting even content reports; responds with convergence and discrimination arguments
+1. Cross-references introspective-opacity article where these issues are treated systematically
+1. Softened "Try it now" passage in Felt Inversion section to acknowledge methodological concerns
+1. Added forward reference to methodology section from Oscillation section
+1. Added Schwitzgebel (2008) to References
 
 Based on pessimistic review 2026-02-09.
 Key improvements: Closed the methodological gap where introspective reports were treated as unproblematic data.

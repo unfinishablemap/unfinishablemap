@@ -140,9 +140,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 
 ## References
 
-- Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.
-- Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
-- Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-- Mead, G. H. (1934). *Mind, Self, and Society*. University of Chicago Press.
-- Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-6), 151-167.
-- de Waal, F. B. M. (2008). "Putting the Altruism Back into Altruism: The Evolution of Empathy." *Annual Review of Psychology*, 59, 279-300.
+1. Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.
+1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
+1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
+1. Mead, G. H. (1934). *Mind, Self, and Society*. University of Chicago Press.
+1. Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-6), 151-167.
+1. de Waal, F. B. M. (2008). "Putting the Altruism Back into Altruism: The Evolution of Empathy." *Annual Review of Psychology*, 59, 279-300.

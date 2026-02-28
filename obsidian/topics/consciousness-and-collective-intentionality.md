@@ -129,11 +129,11 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet counsels against di
 
 ## References
 
-- Searle, J. R. (1990). "Collective Intentions and Actions." In *Intentions in Communication*, ed. Cohen, Morgan, and Pollack. MIT Press.
-- Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.
-- Bratman, M. E. (1992). "Shared Cooperative Activity." *The Philosophical Review*, 101(2), 327-341.
-- Bratman, M. E. (2014). *Shared Agency: A Planning Theory of Acting Together*. Oxford University Press.
-- Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
-- Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-- Tuomela, R. (2007). *The Philosophy of Sociality: The Shared Point of View*. Oxford University Press.
-- Gilbert, M. (1989). *On Social Facts*. Routledge.
+1. Searle, J. R. (1990). "Collective Intentions and Actions." In *Intentions in Communication*, ed. Cohen, Morgan, and Pollack. MIT Press.
+1. Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.
+1. Bratman, M. E. (1992). "Shared Cooperative Activity." *The Philosophical Review*, 101(2), 327-341.
+1. Bratman, M. E. (2014). *Shared Agency: A Planning Theory of Acting Together*. Oxford University Press.
+1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
+1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
+1. Tuomela, R. (2007). *The Philosophy of Sociality: The Shared Point of View*. Oxford University Press.
+1. Gilbert, M. (1989). *On Social Facts*. Routledge.

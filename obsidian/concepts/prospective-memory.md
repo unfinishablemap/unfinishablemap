@@ -187,13 +187,13 @@ Prospective memory and future-oriented consciousness support all five foundation
 
 ## References
 
-- Einstein, G.O. & McDaniel, M.A. (1990). Normal aging and prospective memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 16(4), 717-726.
-- Schacter, D.L. & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
-- Conway, M.A. et al. (2016). Episodic memory and autonoetic consciousness: personal and collective perspectives. *Frontiers in Psychology*, 7, 1.
-- Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-- Tulving, E. (2005). Episodic memory and autonoesis: Uniquely human? In H.S. Terrace & J. Metcalfe (Eds.), *The Missing Link in Cognition* (pp. 3-56). Oxford University Press.
-- Szpunar, K.K., Spreng, R.N., & Schacter, D.L. (2014). A taxonomy of prospection: Introducing an organizational framework for future-oriented cognition. *PNAS*, 111(52), 18414-18421.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Einstein, G.O. & McDaniel, M.A. (1990). Normal aging and prospective memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 16(4), 717-726.
+1. Schacter, D.L. & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
+1. Conway, M.A. et al. (2016). Episodic memory and autonoetic consciousness: personal and collective perspectives. *Frontiers in Psychology*, 7, 1.
+1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Tulving, E. (2005). Episodic memory and autonoesis: Uniquely human? In H.S. Terrace & J. Metcalfe (Eds.), *The Missing Link in Cognition* (pp. 3-56). Oxford University Press.
+1. Szpunar, K.K., Spreng, R.N., & Schacter, D.L. (2014). A taxonomy of prospection: Introducing an organizational framework for future-oriented cognition. *PNAS*, 111(52), 18414-18421.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

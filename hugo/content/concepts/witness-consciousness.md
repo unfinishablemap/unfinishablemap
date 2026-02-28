@@ -199,17 +199,17 @@ What contemplatives discovered through sustained practice, phenomenology articul
 
 ## References
 
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
-- Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
-- Krishnamurti, J. (1954). *The First and Last Freedom*. Harper & Brothers.
-- Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-- Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-- Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Treves, I. N., et al. (2024). The Mindful Brain: Neural Correlates of Trait Mindfulness. *Journal of Cognitive Neuroscience*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Wong, K. F., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics. *Scientific Reports*.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
+1. Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
+1. Krishnamurti, J. (1954). *The First and Last Freedom*. Harper & Brothers.
+1. Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
+1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+1. Treves, I. N., et al. (2024). The Mindful Brain: Neural Correlates of Trait Mindfulness. *Journal of Cognitive Neuroscience*.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Wong, K. F., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics. *Scientific Reports*.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

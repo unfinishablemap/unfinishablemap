@@ -241,13 +241,13 @@ The substance/property distinction matters less than it might seem for the Map's
 
 ## References
 
-- Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
-- Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
-- Descartes, R. (1641). *Meditations on First Philosophy*.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
-- Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Zimmerman, D. (2010). From property dualism to substance dualism. *Proceedings of the Aristotelian Society*, 84, 119-150.
+1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
+1. Descartes, R. (1641). *Meditations on First Philosophy*.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
+1. Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Zimmerman, D. (2010). From property dualism to substance dualism. *Proceedings of the Aristotelian Society*, 84, 119-150.

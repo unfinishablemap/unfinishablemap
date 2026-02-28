@@ -231,15 +231,15 @@ The authentic-inauthentic framework would face difficulty if:
 
 ## References
 
-- Bergson, H. (1889). *Time and Free Will*. (Essai sur les données immédiates de la conscience)
-- Botvinick, M. M., Braver, T. S., Barch, D. M., Carter, C. S., & Cohen, J. D. (2001). Conflict monitoring and cognitive control. *Psychological Review*, 108(3), 624-652.
-- Cavanagh, J. F., & Frank, M. J. (2014). Frontal theta as a mechanism for cognitive control. *Trends in Cognitive Sciences*, 18(8), 414-421.
-- Crowell, S. (2007). Husserlian phenomenology. In *A Companion to Phenomenology and Existentialism*. Blackwell.
-- Guignon, C. (1984). Heidegger's 'authenticity' revisited. *Review of Metaphysics*, 38(2), 321-339.
-- Haggard, P. (2008). Human volition: Towards a neuroscience of will. *Nature Reviews Neuroscience*, 9(12), 934-946.
-- Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
-- Kabat-Zinn, J. (1990). *Full Catastrophe Living*. Dell Publishing.
-- Lutz, A., Jha, A. P., Dunne, J. D., & Saron, C. D. (2015). Investigating the phenomenological matrix of mindfulness-related practices from a neurocognitive perspective. *American Psychologist*, 70(7), 632-658.
-- Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
-- Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
-- Weberman, D. (2000). Sartre's theory of bad faith. *International Journal of Philosophical Studies*, 8(2), 143-175.
+1. Bergson, H. (1889). *Time and Free Will*. (Essai sur les données immédiates de la conscience)
+1. Botvinick, M. M., Braver, T. S., Barch, D. M., Carter, C. S., & Cohen, J. D. (2001). Conflict monitoring and cognitive control. *Psychological Review*, 108(3), 624-652.
+1. Cavanagh, J. F., & Frank, M. J. (2014). Frontal theta as a mechanism for cognitive control. *Trends in Cognitive Sciences*, 18(8), 414-421.
+1. Crowell, S. (2007). Husserlian phenomenology. In *A Companion to Phenomenology and Existentialism*. Blackwell.
+1. Guignon, C. (1984). Heidegger's 'authenticity' revisited. *Review of Metaphysics*, 38(2), 321-339.
+1. Haggard, P. (2008). Human volition: Towards a neuroscience of will. *Nature Reviews Neuroscience*, 9(12), 934-946.
+1. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
+1. Kabat-Zinn, J. (1990). *Full Catastrophe Living*. Dell Publishing.
+1. Lutz, A., Jha, A. P., Dunne, J. D., & Saron, C. D. (2015). Investigating the phenomenological matrix of mindfulness-related practices from a neurocognitive perspective. *American Psychologist*, 70(7), 632-658.
+1. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
+1. Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
+1. Weberman, D. (2000). Sartre's theory of bad faith. *International Journal of Philosophical Studies*, 8(2), 143-175.

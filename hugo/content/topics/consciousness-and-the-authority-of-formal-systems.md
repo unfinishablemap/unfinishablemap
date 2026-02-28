@@ -156,15 +156,15 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 
 ## References
 
-- Galilei, G. (1623). *The Assayer*. Rome.
-- Russell, B. (1927). *The Analysis of Matter*. London: Kegan Paul.
-- Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
-- Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
-- Wigner, E. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*, 13(1), 1–14.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Nagel, T. (1997). *The Last Word*. Oxford University Press.
-- Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
-- McDowell, J. (1994). *Mind and World*. Harvard University Press.
-- Alter, T. & Nagasawa, Y. (2015). *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
+1. Galilei, G. (1623). *The Assayer*. Rome.
+1. Russell, B. (1927). *The Analysis of Matter*. London: Kegan Paul.
+1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
+1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
+1. Wigner, E. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*, 13(1), 1–14.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Nagel, T. (1997). *The Last Word*. Oxford University Press.
+1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
+1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
+1. Alter, T. & Nagasawa, Y. (2015). *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.

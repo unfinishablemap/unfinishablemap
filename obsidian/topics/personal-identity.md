@@ -222,23 +222,23 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 ## References
 
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Olson, E. (1997). *The Human Animal: Personal Identity Without Psychology*. Oxford University Press.
-- Locke, J. (1689). *An Essay Concerning Human Understanding*. Book II, Chapter XXVII.
-- Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
-- Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind*. Routledge.
-- Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
-- Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Olson, E. (1997). *The Human Animal: Personal Identity Without Psychology*. Oxford University Press.
+1. Locke, J. (1689). *An Essay Concerning Human Understanding*. Book II, Chapter XXVII.
+1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
+1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind*. Routledge.
+1. Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
+1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
 
 <!-- AI REFINEMENT LOG - 2026-02-24
 Changes made (cross-review considering autonoetic consciousness insights):
-- Added constitutive view insight to autonoetic paragraph: the felt quality of re-experiencing *defines* episodic memory, strengthening the haecceity argument
-- Added autonoetic causal efficacy to Bidirectional Connection: Klein's argument that temporal self-projection drives planning through specifically conscious experience
-- Tightened Psychological View, split-brain evidence, decoherence section, survival implications, and meaning connection for length neutrality
+1. Added constitutive view insight to autonoetic paragraph: the felt quality of re-experiencing *defines* episodic memory, strengthening the haecceity argument
+1. Added autonoetic causal efficacy to Bidirectional Connection: Klein's argument that temporal self-projection drives planning through specifically conscious experience
+1. Tightened Psychological View, split-brain evidence, decoherence section, survival implications, and meaning connection for length neutrality
 
 Based on deep-review-2026-02-24-personal-identity.md.
 Key improvements: integrated newly created autonoetic-consciousness.md insights into two natural connection points.

@@ -131,9 +131,9 @@ The participatory universe framework would face serious challenge from:
 
 ## References
 
-- Wheeler, J. A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, ed. Wheeler & Zurek. Princeton University Press.
-- Wheeler, J. A. (1990). "Information, Physics, Quantum: The Search for Links." In *Complexity, Entropy and the Physics of Information*, SFI Studies in the Sciences of Complexity, vol. VIII. Addison-Wesley.
-- Fuchs, C. A. (2017). "On Participatory Realism." In *Information and Interaction*, ed. Durham & Rickles. Springer.
-- Ismael, J. (2025). "A Participatory Universe in the Realist Mode." *Foundations of Physics*, 55, 35.
-- Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. 2nd ed. Springer.
-- Dembski, W. A. (2021). "It From Bit: What Did Wheeler Get Right — and Wrong?" *Mind Matters*.
+1. Wheeler, J. A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, ed. Wheeler & Zurek. Princeton University Press.
+1. Wheeler, J. A. (1990). "Information, Physics, Quantum: The Search for Links." In *Complexity, Entropy and the Physics of Information*, SFI Studies in the Sciences of Complexity, vol. VIII. Addison-Wesley.
+1. Fuchs, C. A. (2017). "On Participatory Realism." In *Information and Interaction*, ed. Durham & Rickles. Springer.
+1. Ismael, J. (2025). "A Participatory Universe in the Realist Mode." *Foundations of Physics*, 55, 35.
+1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. 2nd ed. Springer.
+1. Dembski, W. A. (2021). "It From Bit: What Did Wheeler Get Right — and Wrong?" *Mind Matters*.

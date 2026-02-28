@@ -212,13 +212,13 @@ Several findings would constrain the interface heterogeneity question:
 
 ## References
 
-- Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
-- Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
-- Godfrey-Smith, P. (2024). Inferring Consciousness in Phylogenetically Distant Organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
-- Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
-- McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
-- Metzinger, T. (2024). Minimal Phenomenal Experience: The ARAS-Model Theory. *Neuroscience of Consciousness*.
-- Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.
-- New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
-- Stapp, H. P. (2007). *Mindful Universe*. Springer.
-- Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
+1. Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
+1. Godfrey-Smith, P. (2024). Inferring Consciousness in Phylogenetically Distant Organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
+1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
+1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
+1. Metzinger, T. (2024). Minimal Phenomenal Experience: The ARAS-Model Theory. *Neuroscience of Consciousness*.
+1. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.
+1. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
+1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
+1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).

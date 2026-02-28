@@ -145,10 +145,10 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 
 ## References
 
-- Alchourrón, C., Gärdenfors, P., & Makinson, D. (1985). On the Logic of Theory Change: Partial Meet Contraction and Revision Functions. *The Journal of Symbolic Logic*, 50(2), 510–530.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
-- James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green, and Co.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Petitmengin, C. (2006). "Describing One's Subjective Experience in the Second Person." *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
-- Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Alchourrón, C., Gärdenfors, P., & Makinson, D. (1985). On the Logic of Theory Change: Partial Meet Contraction and Revision Functions. *The Journal of Symbolic Logic*, 50(2), 510–530.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
+1. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green, and Co.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
+1. Petitmengin, C. (2006). "Describing One's Subjective Experience in the Second Person." *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
+1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.

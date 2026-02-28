@@ -165,12 +165,12 @@ The intentionality void connects directly to the Map's [[tenets|foundational com
 
 <!-- AI REFINEMENT LOG - 2026-02-07
 Changes made:
-- Added methodological note addressing introspection reliability paradox: introspection can be reliable about what presents itself (content) without being reliable about what doesn't (mechanisms)
-- Softened "Naturalization repeatedly fails" to "remains incomplete"; added heterogeneity objection (intentionality may not be a single natural kind)
-- Added physicalist self-model alternative in "Why the Void May Be Structural" section (brain models results not mechanisms)
-- Rewrote Dualism tenet connection with explicit bridging argument: phenomenal intentionality theory provides the bridge from opacity to irreducibility
-- Added qualifications throughout acknowledging physicalist readings of the same phenomenology
-- Noted McGinn's complexity argument doesn't establish irreducibility from complexity alone
+1. Added methodological note addressing introspection reliability paradox: introspection can be reliable about what presents itself (content) without being reliable about what doesn't (mechanisms)
+1. Softened "Naturalization repeatedly fails" to "remains incomplete"; added heterogeneity objection (intentionality may not be a single natural kind)
+1. Added physicalist self-model alternative in "Why the Void May Be Structural" section (brain models results not mechanisms)
+1. Rewrote Dualism tenet connection with explicit bridging argument: phenomenal intentionality theory provides the bridge from opacity to irreducibility
+1. Added qualifications throughout acknowledging physicalist readings of the same phenomenology
+1. Noted McGinn's complexity argument doesn't establish irreducibility from complexity alone
 
 Based on pessimistic review (2026-02-05 afternoon) identifying systematic vulnerability: phenomenology-to-metaphysics gap, introspection paradox, Buddhist misappropriation.
 Key improvements: Honest engagement with physicalist alternatives; explicit bridging arguments where metaphysical conclusions are drawn.

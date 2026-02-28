@@ -248,12 +248,12 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 
 ## References
 
-- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
-- Saad, B. (2018). A causal argument for dualism. *Philosophical Studies*, 175(10), 2475-2506.
-- Saad, B. (2020). Two solutions to the neural discernment problem. *Philosophical Studies*, 177(4), 1061-1077.
-- Saad, B. (2020). An exclusion problem for epiphenomenalist dualism. *Thought*, 9(4), 247-256.
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Saad, B. (2018). A causal argument for dualism. *Philosophical Studies*, 175(10), 2475-2506.
+1. Saad, B. (2020). Two solutions to the neural discernment problem. *Philosophical Studies*, 177(4), 1061-1077.
+1. Saad, B. (2020). An exclusion problem for epiphenomenalist dualism. *Thought*, 9(4), 247-256.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 
 <!-- AI REFINEMENT LOG - 2026-01-29 (refine-draft pass 2)
 Changes made based on outer review task context (add short quote callouts ≤25 words):

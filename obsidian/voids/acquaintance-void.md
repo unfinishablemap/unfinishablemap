@@ -103,9 +103,9 @@ The deep asymmetry cuts both ways. Humans have narrow acquaintance but can build
 
 ## References
 
-- Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 11, 108–128.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.
-- Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72, 136–150.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349–366.
-- Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
+1. Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 11, 108–128.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.
+1. Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72, 136–150.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349–366.
+1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*.

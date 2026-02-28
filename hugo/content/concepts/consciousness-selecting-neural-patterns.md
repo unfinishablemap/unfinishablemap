@@ -267,31 +267,31 @@ The consciousness-selecting neural patterns framework would face serious difficu
 
 ## References
 
-- Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-- Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*.
-- Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*.
-- Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
-- Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-- Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
-- Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*.
+1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*.
+1. Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*.
+1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
+1. Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*.
 
 <!-- AI REFINEMENT LOG - 2026-02-07
 Changes made:
-- Explicitly acknowledged 10-order-of-magnitude timescale gap in quantum Zeno mechanism (femtosecond observations vs 100ms attention)
-- Reframed Zeno mechanism as "promising placeholder" rather than worked-out mechanism throughout
-- Added note after Stapp's formulation flagging the timescale problem and pointing to decoherence section
-- Expanded third decoherence response to detail the Zeno timescale gap and identify what future work needs
-- Softened "attention networks" section description of Zeno mechanism
-- Updated "What Would Challenge" Zeno item to acknowledge the gap is already present
-- Added nuance to selection vs randomness section acknowledging the luck objection isn't fully resolved
-- Hedged "proposed" language for Stapp's formulation
+1. Explicitly acknowledged 10-order-of-magnitude timescale gap in quantum Zeno mechanism (femtosecond observations vs 100ms attention)
+1. Reframed Zeno mechanism as "promising placeholder" rather than worked-out mechanism throughout
+1. Added note after Stapp's formulation flagging the timescale problem and pointing to decoherence section
+1. Expanded third decoherence response to detail the Zeno timescale gap and identify what future work needs
+1. Softened "attention networks" section description of Zeno mechanism
+1. Updated "What Would Challenge" Zeno item to acknowledge the gap is already present
+1. Added nuance to selection vs randomness section acknowledging the luck objection isn't fully resolved
+1. Hedged "proposed" language for Stapp's formulation
 
 Based on pessimistic review 2026-02-04-morning (Issues 1, 3).
 Key improvements: Zeno timescale gap made explicit rather than hand-waved; mechanism presented as placeholder not established.

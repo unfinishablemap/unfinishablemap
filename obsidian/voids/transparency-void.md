@@ -114,8 +114,8 @@ The void also connects to the Map's [[tenets#^bidirectional-interaction|Bidirect
 
 ## References
 
-- Alston, William P. "Epistemic Circularity." *Philosophy and Phenomenological Research* 47, no. 1 (1986): 1–30.
-- Hoffman, Donald D. "The Interface Theory of Perception." *Current Directions in Psychological Science* 25, no. 3 (2016): 157–161.
-- Metzinger, Thomas. *Being No One: The Self-Model Theory of Subjectivity*. Cambridge, MA: MIT Press, 2003.
-- Nagel, Thomas. *The View from Nowhere*. New York: Oxford University Press, 1986.
-- Sellars, Wilfrid. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* 1 (1956): 253–329.
+1. Alston, William P. "Epistemic Circularity." *Philosophy and Phenomenological Research* 47, no. 1 (1986): 1–30.
+1. Hoffman, Donald D. "The Interface Theory of Perception." *Current Directions in Psychological Science* 25, no. 3 (2016): 157–161.
+1. Metzinger, Thomas. *Being No One: The Self-Model Theory of Subjectivity*. Cambridge, MA: MIT Press, 2003.
+1. Nagel, Thomas. *The View from Nowhere*. New York: Oxford University Press, 1986.
+1. Sellars, Wilfrid. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* 1 (1956): 253–329.

@@ -128,10 +128,10 @@ The phenomenology of translation connects to the Map's [[tenets]] at several poi
 
 ## References
 
-- Benjamin, W. (1923). "The Task of the Translator." In *Illuminations*, trans. H. Zohn, Schocken Books.
-- Steiner, G. (1975). *After Babel: Aspects of Language and Translation*. Oxford University Press.
-- Eco, U. (2003). *Mouse or Rat? Translation as Negotiation*. Weidenfeld & Nicolson.
-- Cassin, B. (ed.) (2014). *Dictionary of Untranslatables: A Philosophical Lexicon*. Princeton University Press.
-- Boroditsky, L. (2001). "Does Language Shape Thought? Mandarin and English Speakers' Conceptions of Time." *Cognitive Psychology*, 43(1), 1-22.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
-- WMT (2024). "The LLM Era Is Here but MT Is Not Solved Yet." *Proceedings of the Ninth Conference on Machine Translation*.
+1. Benjamin, W. (1923). "The Task of the Translator." In *Illuminations*, trans. H. Zohn, Schocken Books.
+1. Steiner, G. (1975). *After Babel: Aspects of Language and Translation*. Oxford University Press.
+1. Eco, U. (2003). *Mouse or Rat? Translation as Negotiation*. Weidenfeld & Nicolson.
+1. Cassin, B. (ed.) (2014). *Dictionary of Untranslatables: A Philosophical Lexicon*. Princeton University Press.
+1. Boroditsky, L. (2001). "Does Language Shape Thought? Mandarin and English Speakers' Conceptions of Time." *Cognitive Psychology*, 43(1), 1-22.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. WMT (2024). "The LLM Era Is Here but MT Is Not Solved Yet." *Proceedings of the Ninth Conference on Machine Translation*.

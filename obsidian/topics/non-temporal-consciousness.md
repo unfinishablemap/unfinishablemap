@@ -128,14 +128,14 @@ Non-temporal consciousness connects directly to the Map's [[tenets]]:
 
 ## References
 
-- Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
-- Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-- Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*. https://academic.oup.com/pq/advance-article-abstract/doi/10.1093/pq/pqae081/7718358
-- Hoerl, C. (2013). Husserl, the Absolute Flow, and Temporal Experience. *Philosophy and Phenomenological Research*, 86(2), 376-411.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (trans. Brough). Kluwer.
-- Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
-- Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
-- A layered unity model of split-brain consciousness. *Philosophical Studies* (2025). https://link.springer.com/article/10.1007/s11098-025-02339-3
-- Temporal Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-temporal/
-- The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/
-- Phenomenology and Time-Consciousness. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/phe-time/
+1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
+1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*. https://academic.oup.com/pq/advance-article-abstract/doi/10.1093/pq/pqae081/7718358
+1. Hoerl, C. (2013). Husserl, the Absolute Flow, and Temporal Experience. *Philosophy and Phenomenological Research*, 86(2), 376-411.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (trans. Brough). Kluwer.
+1. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
+1. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
+1. A layered unity model of split-brain consciousness. *Philosophical Studies* (2025). https://link.springer.com/article/10.1007/s11098-025-02339-3
+1. Temporal Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-temporal/
+1. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/
+1. Phenomenology and Time-Consciousness. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/phe-time/

@@ -183,11 +183,11 @@ None of these conditions currently obtains.
 
 ## References
 
-- Arango-Muñoz, S. (2014). The nature of epistemic feelings. *Philosophical Psychology*, 27(2), 193-211.
-- De Sousa, R. (2009). Epistemic feelings. *Mind and Matter*, 7(2), 139-161.
-- Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71-93.
-- Morton, A. (2010). Epistemic emotions. *The Oxford Handbook of Philosophy of Emotion*, 385-399.
-- Meylan, A. (2014). Epistemic emotions: A natural kind? *Philosophical Inquiries*, 2(1), 173-190.
-- Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. Ecco.
-- Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy*.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Arango-Muñoz, S. (2014). The nature of epistemic feelings. *Philosophical Psychology*, 27(2), 193-211.
+1. De Sousa, R. (2009). Epistemic feelings. *Mind and Matter*, 7(2), 139-161.
+1. Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71-93.
+1. Morton, A. (2010). Epistemic emotions. *The Oxford Handbook of Philosophy of Emotion*, 385-399.
+1. Meylan, A. (2014). Epistemic emotions: A natural kind? *Philosophical Inquiries*, 2(1), 173-190.
+1. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. Ecco.
+1. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy*.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

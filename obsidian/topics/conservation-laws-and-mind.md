@@ -186,10 +186,10 @@ The selection framework also has implications for [[topics/free-will]]. If consc
 
 ## References
 
-- Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
-- Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
-- Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." Unpublished manuscript, available at New Dualism Archive.
-- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
-- Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
-- Carroll, S. (2011). "Physics and the Immortality of the Soul." *Scientific American* (blog).
-- Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory.
+1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
+1. Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." Unpublished manuscript, available at New Dualism Archive.
+1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
+1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
+1. Carroll, S. (2011). "Physics and the Immortality of the Soul." *Scientific American* (blog).
+1. Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory.

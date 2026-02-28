@@ -216,11 +216,11 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 
 ## References
 
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-- Dreyfus, H. & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
-- Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
-- Beilock, S. L. & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
-- Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Dreyfus, H. & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
+1. Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
+1. Beilock, S. L. & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
+1. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

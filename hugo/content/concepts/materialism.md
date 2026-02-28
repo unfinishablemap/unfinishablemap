@@ -205,14 +205,14 @@ None currently obtains, and each faces significant challenges. Materialism remai
 
 ## References
 
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Churchland, P. M. (1981). "Eliminative Materialism and the Propositional Attitudes." *Journal of Philosophy*, 78(2), 67-90.
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-- Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Churchland, P. M. (1981). "Eliminative Materialism and the Propositional Attitudes." *Journal of Philosophy*, 78(2), 67-90.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
+1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

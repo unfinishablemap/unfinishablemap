@@ -121,8 +121,8 @@ What asymbolia discriminates between is not individual theories but *categories*
 
 ## References
 
-- Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
-- Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
-- Klein, C. (2015). *What the Body Commands: The Imperative Theory of Pain*. MIT Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
-- Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
+1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
+1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
+1. Klein, C. (2015). *What the Body Commands: The Imperative Theory of Pain*. MIT Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.

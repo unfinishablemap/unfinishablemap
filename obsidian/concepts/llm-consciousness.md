@@ -177,13 +177,13 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 
 ## References
 
-- Vaswani, A. et al. (2017). Attention Is All You Need. *NeurIPS*.
-- Hoel, E. (2026). A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness. *arXiv:2512.12802*.
-- Cerullo, M. (2026). Why Hoel's Disproof of LLM Consciousness and Functionalism Fails. *PhilArchive*.
-- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
-- Bender, E. et al. (2021). On the Dangers of Stochastic Parrots. *FAccT '21*.
-- Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
+1. Vaswani, A. et al. (2017). Attention Is All You Need. *NeurIPS*.
+1. Hoel, E. (2026). A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness. *arXiv:2512.12802*.
+1. Cerullo, M. (2026). Why Hoel's Disproof of LLM Consciousness and Functionalism Fails. *PhilArchive*.
+1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Bender, E. et al. (2021). On the Dangers of Stochastic Parrots. *FAccT '21*.
+1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.

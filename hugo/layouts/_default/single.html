@@ -2,6 +2,14 @@
 <article>
     <h1>{{ .Title }}</h1>
 
+    {{- if .IsPage -}}
+    {{- $pseudo := partial "ai-pseudonym.html" . -}}
+    <p class="byline">
+        <a href="/authors/andysouthgate/">Andy Southgate</a>
+        {{- with $pseudo.name }} · <a href="/authors/{{ $pseudo.slug }}/">{{ . }}</a>{{ end }}
+    </p>
+    {{- end }}
+
     {{ if .Params.archived }}
         {{ partial "archive-notice.html" . }}
     {{ end }}

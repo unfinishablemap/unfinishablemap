@@ -114,10 +114,10 @@ Several findings would weaken the constitutive position and, with it, the dualis
 
 ## References
 
-- De Brigard, F. (2024). Episodic memory without autonoetic consciousness. *Philosophical Transactions of the Royal Society B*, 379(1913). https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0410
-- Dokic, J. (2014). Feeling the past: A two-tiered account of episodic memory. *Review of Philosophy and Psychology*, 5(3), 413-426.
-- Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
-- Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). Autonoesis and episodicity: Perspectives from philosophy of memory. *WIREs Cognitive Science*, 15(1), e1665.
-- Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-- Wheeler, M.A., Stuss, D.T., & Tulving, E. (1997). Toward a theory of episodic memory: The frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331-354.
+1. De Brigard, F. (2024). Episodic memory without autonoetic consciousness. *Philosophical Transactions of the Royal Society B*, 379(1913). https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0410
+1. Dokic, J. (2014). Feeling the past: A two-tiered account of episodic memory. *Review of Philosophy and Psychology*, 5(3), 413-426.
+1. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
+1. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). Autonoesis and episodicity: Perspectives from philosophy of memory. *WIREs Cognitive Science*, 15(1), e1665.
+1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Wheeler, M.A., Stuss, D.T., & Tulving, E. (1997). Toward a theory of episodic memory: The frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331-354.

@@ -229,12 +229,12 @@ The hard problem remains hard.
 
 ## References
 
-- Armstrong, D. M. (1968). *A Materialist Theory of the Mind*. Routledge.
-- Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
-- Brown, R. (2025). *Consciousness as Representing One's Mind: The Higher-Order Approach to Consciousness Explained*. Oxford University Press.
-- Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Psychology*, 31(8), 1183-1206.
-- Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
-- Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
-- Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
-- Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
-- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Armstrong, D. M. (1968). *A Materialist Theory of the Mind*. Routledge.
+1. Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
+1. Brown, R. (2025). *Consciousness as Representing One's Mind: The Higher-Order Approach to Consciousness Explained*. Oxford University Press.
+1. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Psychology*, 31(8), 1183-1206.
+1. Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
+1. Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
+1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
+1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
+1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

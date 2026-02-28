@@ -144,10 +144,10 @@ The Unfinishable Map's [[tenets]] reshape the philosophy of perception in severa
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
-- Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-- Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Trans. F. Kersten. Martinus Nijhoff.
-- Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181–204.
-- Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
+1. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+1. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Trans. F. Kersten. Martinus Nijhoff.
+1. Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181–204.
+1. Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.

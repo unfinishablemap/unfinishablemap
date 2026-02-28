@@ -96,11 +96,11 @@ Narrative coherence connects to the Map's foundational commitments through its d
 
 ## References
 
-- Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
-- Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
-- MacIntyre, A. (1981). *After Virtue*. University of Notre Dame Press.
-- Kahneman, D., & Tversky, A. (1973). "On the Psychology of Prediction." *Psychological Review*, 80(4), 237-251.
-- Kahneman, D., & Tversky, A. (1983). "Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment." *Psychological Review*, 90(4), 293-315.
-- Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
-- Tversky, A., & Kahneman, D. (1971). "Belief in the Law of Small Numbers." *Psychological Bulletin*, 76(2), 105-110.
-- Velleman, J. D. (2005). "The Self as Narrator." In *Self to Self: Selected Essays*. Cambridge University Press.
+1. Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
+1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
+1. MacIntyre, A. (1981). *After Virtue*. University of Notre Dame Press.
+1. Kahneman, D., & Tversky, A. (1973). "On the Psychology of Prediction." *Psychological Review*, 80(4), 237-251.
+1. Kahneman, D., & Tversky, A. (1983). "Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment." *Psychological Review*, 90(4), 293-315.
+1. Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
+1. Tversky, A., & Kahneman, D. (1971). "Belief in the Law of Small Numbers." *Psychological Bulletin*, 76(2), 105-110.
+1. Velleman, J. D. (2005). "The Self as Narrator." In *Self to Self: Selected Essays*. Cambridge University Press.

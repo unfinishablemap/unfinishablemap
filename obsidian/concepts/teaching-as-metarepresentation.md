@@ -227,13 +227,13 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 ## References
 
-- Boesch, C. (1991). Teaching among wild chimpanzees. *Animal Behaviour*, 41(3), 530-532.
-- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
-- Csibra, G., & Gergely, G. (2011). Natural pedagogy as evolutionary adaptation. *Philosophical Transactions of the Royal Society B*, 366(1567), 1149-1157.
-- Dean, L.G., et al. (2012). Identification of the social and cognitive processes underlying human cumulative culture. *Science*, 335(6072), 1114-1118.
-- Inoue-Nakamura, N., & Matsuzawa, T. (1997). Development of stone tool use by wild chimpanzees (*Pan troglodytes*). *Journal of Comparative Psychology*, 111(2), 159-173.
-- Kline, M.A. (2015). How to learn about teaching: An evolutionary framework for the study of teaching behavior in humans and other animals. *Behavioral and Brain Sciences*, 38, e31.
-- Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
-- Thornton, A., & Raihani, N.J. (2008). The evolution of teaching. *Animal Behaviour*, 75(6), 1823-1836.
-- Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Boesch, C. (1991). Teaching among wild chimpanzees. *Animal Behaviour*, 41(3), 530-532.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
+1. Csibra, G., & Gergely, G. (2011). Natural pedagogy as evolutionary adaptation. *Philosophical Transactions of the Royal Society B*, 366(1567), 1149-1157.
+1. Dean, L.G., et al. (2012). Identification of the social and cognitive processes underlying human cumulative culture. *Science*, 335(6072), 1114-1118.
+1. Inoue-Nakamura, N., & Matsuzawa, T. (1997). Development of stone tool use by wild chimpanzees (*Pan troglodytes*). *Journal of Comparative Psychology*, 111(2), 159-173.
+1. Kline, M.A. (2015). How to learn about teaching: An evolutionary framework for the study of teaching behavior in humans and other animals. *Behavioral and Brain Sciences*, 38, e31.
+1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
+1. Thornton, A., & Raihani, N.J. (2008). The evolution of teaching. *Animal Behaviour*, 75(6), 1823-1836.
+1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
+1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

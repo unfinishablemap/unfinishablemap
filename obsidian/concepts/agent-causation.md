@@ -2,9 +2,9 @@
 title: "Agent Causation"
 description: "Agent causation holds that persons originate actions directly as substances exercising causal powers. Central to libertarian free will and interactionist dualism."
 created: 2026-01-15
-modified: 2026-02-15
+modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-27T17:46:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -240,26 +240,27 @@ Against [[concepts/epiphenomenalism]]: substance causation combined with the sel
 
 ## References
 
-- Aristotle. *Metaphysics*.
-- Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
-- Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
-- Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
-- Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press.
-- Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
-- Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-- Hausman, C.R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
-- Jacobs, J.D. & O'Connor, T. (2013). "Agent Causation in a Neo-Aristotelian Metaphysics." In S. Gibb, E.J. Lowe, & R.D. Ingthorsson (Eds.), *Mental Causation and Ontology*. Oxford University Press.
-- Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
-- Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
-- Lowe, E.J. (2001). "Event Causation and Agent Causation." *Grazer Philosophische Studien*, 61: 1-20.
-- Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-- Marmodoro, A. (2017). "Aristotelian Powers at Work." In J. Jacobs (Ed.), *Causal Powers*. Oxford University Press.
-- Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
-- O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
-- Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
-- Reid, T. (1788). *Essays on the Active Powers of Man*.
-- Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-- Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
-- Swinburne, R. (1997). *The Evolution of the Soul*. Oxford University Press.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Aristotle. *Metaphysics*.
+1. Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
+1. Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
+1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
+1. Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press.
+1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
+1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+1. Hausman, C.R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
+1. Jacobs, J.D. & O'Connor, T. (2013). "Agent Causation in a Neo-Aristotelian Metaphysics." In S. Gibb, E.J. Lowe, & R.D. Ingthorsson (Eds.), *Mental Causation and Ontology*. Oxford University Press.
+1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
+1. Lowe, E.J. (2001). "Event Causation and Agent Causation." *Grazer Philosophische Studien*, 61: 1-20.
+1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. Marmodoro, A. (2017). "Aristotelian Powers at Work." In J. Jacobs (Ed.), *Causal Powers*. Oxford University Press.
+1. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
+1. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Reid, T. (1788). *Essays on the Active Powers of Man*.
+1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+1. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+1. Swinburne, R. (1997). *The Evolution of the Soul*. Oxford University Press.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation/

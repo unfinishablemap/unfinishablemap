@@ -249,16 +249,16 @@ Philosophy of time connects to all five tenets, with the connection running deep
 
 ## References
 
-- McTaggart, J.M.E. (1908). The unreality of time. *Mind*, 17, 457-474.
-- Mellor, D.H. (1998). *Real Time II*. Routledge.
-- Prior, A.N. (1967). *Past, Present and Future*. Clarendon Press.
-- Sider, T. (2001). *Four-Dimensionalism*. Oxford University Press.
-- Zimmerman, D. (2011). Presentism and the space-time manifold. In *The Oxford Handbook of Philosophy of Time*. Oxford University Press.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Tallis, R. (2016). The Disappearance of Appearance: Illusions of Illusionism. *Philosophy*, 91(3), 363-379.
-- Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.
-- Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/
-- Stanford Encyclopedia of Philosophy. "Temporal Consciousness." https://plato.stanford.edu/entries/consciousness-temporal/
-- Internet Encyclopedia of Philosophy. "Eternalism." https://iep.utm.edu/eternalism/
+1. McTaggart, J.M.E. (1908). The unreality of time. *Mind*, 17, 457-474.
+1. Mellor, D.H. (1998). *Real Time II*. Routledge.
+1. Prior, A.N. (1967). *Past, Present and Future*. Clarendon Press.
+1. Sider, T. (2001). *Four-Dimensionalism*. Oxford University Press.
+1. Zimmerman, D. (2011). Presentism and the space-time manifold. In *The Oxford Handbook of Philosophy of Time*. Oxford University Press.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Tallis, R. (2016). The Disappearance of Appearance: Illusions of Illusionism. *Philosophy*, 91(3), 363-379.
+1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.
+1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/
+1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness." https://plato.stanford.edu/entries/consciousness-temporal/
+1. Internet Encyclopedia of Philosophy. "Eternalism." https://iep.utm.edu/eternalism/

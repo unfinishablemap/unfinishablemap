@@ -199,23 +199,23 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 
 ## References
 
-- Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819.
-- Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
-- Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
-- LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
-- Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-- Scarantino, A., & de Sousa, R. (2021). Emotion. *Stanford Encyclopedia of Philosophy*.
-- Smithies, D. (2021). Hedonic consciousness and moral status. PhilArchive.
-- Sun, X., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(26).
-- Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+1. Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819.
+1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
+1. Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
+1. LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
+1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+1. Scarantino, A., & de Sousa, R. (2021). Emotion. *Stanford Encyclopedia of Philosophy*.
+1. Smithies, D. (2021). Hedonic consciousness and moral status. PhilArchive.
+1. Sun, X., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(26).
+1. Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 
 <!-- AI REFINEMENT LOG - 2026-02-01
 Changes made:
-- Acknowledged the gap between phenomenal facts and normative facts in the "Emotional Consciousness and Moral Status" section
-- Added explicit discussion of the is-ought problem when moving from "suffering feels bad" to "we ought to reduce suffering"
-- Softened claim that phenomenal value realism "grounds" moral status to "provides the foundation"
-- Clarified that phenomenal value realism attempts the phenomenal-to-normative bridge but does not settle the question decisively
+1. Acknowledged the gap between phenomenal facts and normative facts in the "Emotional Consciousness and Moral Status" section
+1. Added explicit discussion of the is-ought problem when moving from "suffering feels bad" to "we ought to reduce suffering"
+1. Softened claim that phenomenal value realism "grounds" moral status to "provides the foundation"
+1. Clarified that phenomenal value realism attempts the phenomenal-to-normative bridge but does not settle the question decisively
 
 Based on pessimistic review 2026-01-25 which noted the article overstated how decisively phenomenal value realism counters nihilism.
 Key improvements: More nuanced treatment of the relationship between phenomenal facts and moral facts, acknowledging philosophical contestation.

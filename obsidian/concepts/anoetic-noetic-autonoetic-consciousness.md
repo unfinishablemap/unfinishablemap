@@ -120,16 +120,16 @@ The dualist interpretation of Tulving's hierarchy would be weakened by several p
 
 ## References
 
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-- Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.
-- Wheeler, M.A., Stuss, D.T., & Tulving, E. (1997). Toward a theory of episodic memory: the frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331-354.
-- Vandekerckhove, M. & Panksepp, J. (2009). The flow of anoetic to noetic and autonoetic consciousness. *Consciousness and Cognition*, 18(4), 1018-1028.
-- Clayton, N.S. & Dickinson, A. (1998). Episodic-like memory during cache recovery by scrub jays. *Nature*, 395(6699), 272-274.
-- Klein, S.B. & Nichols, S. (2012). Memory and the sense of personal identity. *Mind*, 121(483), 677-702.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.
+1. Wheeler, M.A., Stuss, D.T., & Tulving, E. (1997). Toward a theory of episodic memory: the frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331-354.
+1. Vandekerckhove, M. & Panksepp, J. (2009). The flow of anoetic to noetic and autonoetic consciousness. *Consciousness and Cognition*, 18(4), 1018-1028.
+1. Clayton, N.S. & Dickinson, A. (1998). Episodic-like memory during cache recovery by scrub jays. *Nature*, 395(6699), 272-274.
+1. Klein, S.B. & Nichols, S. (2012). Memory and the sense of personal identity. *Mind*, 121(483), 677-702.
 
 <!-- AI REFINEMENT LOG - 2026-02-20
 Changes made:
-- Rewrote phase transition passage in "Qualitative Discontinuities" to address pessimistic review finding: the analogy previously conceded that qualitative breaks can emerge from purely physical processes, then asserted without argument that consciousness transitions differ. Now explicitly engages the physicalist counter by distinguishing third-person structural properties (phase transitions) from first-person phenomenal properties (consciousness transitions), grounding the distinction in the hard problem.
+1. Rewrote phase transition passage in "Qualitative Discontinuities" to address pessimistic review finding: the analogy previously conceded that qualitative breaks can emerge from purely physical processes, then asserted without argument that consciousness transitions differ. Now explicitly engages the physicalist counter by distinguishing third-person structural properties (phase transitions) from first-person phenomenal properties (consciousness transitions), grounding the distinction in the hard problem.
 
 Based on pessimistic review (2026-02-20 morning).
 Key improvements: Strengthened core dualist argument by removing an unargued assertion and replacing it with a substantive philosophical distinction.

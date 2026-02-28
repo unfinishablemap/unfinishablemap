@@ -118,9 +118,9 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 
 ## References
 
-- Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- Lakatos, I. (1978). *The Methodology of Scientific Research Programmes*. Cambridge University Press.
-- Popper, K. R. (1959). *The Logic of Scientific Discovery*. Hutchinson.
-- Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Oppenheim, P. & Putnam, H. (1958). "Unity of Science as a Working Hypothesis." In H. Feigl et al. (eds.), *Minnesota Studies in the Philosophy of Science*, Vol. 2. University of Minnesota Press.
-- Fodor, J. A. (1974). "Special Sciences (Or: The Disunity of Science as a Working Hypothesis)." *Synthese*, 28(2), 97-115.
+1. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. Lakatos, I. (1978). *The Methodology of Scientific Research Programmes*. Cambridge University Press.
+1. Popper, K. R. (1959). *The Logic of Scientific Discovery*. Hutchinson.
+1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Oppenheim, P. & Putnam, H. (1958). "Unity of Science as a Working Hypothesis." In H. Feigl et al. (eds.), *Minnesota Studies in the Philosophy of Science*, Vol. 2. University of Minnesota Press.
+1. Fodor, J. A. (1974). "Special Sciences (Or: The Disunity of Science as a Working Hypothesis)." *Synthese*, 28(2), 97-115.

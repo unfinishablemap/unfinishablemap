@@ -136,10 +136,10 @@ The Map does not claim that theoretical virtues are useless. In their home domai
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Kuhn, T. S. (1977). "Objectivity, Value Judgment, and Theory Choice." In *The Essential Tension*. University of Chicago Press.
-- Laudan, L. (1984). *Science and Values*. University of California Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-- Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- McMullin, E. (2008). "The Virtues of a Good Theory." In S. Psillos & M. Curd (eds.), *The Routledge Companion to Philosophy of Science*. Routledge.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Kuhn, T. S. (1977). "Objectivity, Value Judgment, and Theory Choice." In *The Essential Tension*. University of Chicago Press.
+1. Laudan, L. (1984). *Science and Values*. University of California Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. McMullin, E. (2008). "The Virtues of a Good Theory." In S. Psillos & M. Curd (eds.), *The Routledge Companion to Philosophy of Science*. Routledge.

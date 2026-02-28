@@ -229,16 +229,16 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 ## References
 
-- Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Cogitate Consortium. (2023). "An adversarial collaboration to critically evaluate theories of consciousness." *Nature Human Behaviour*, 7, 1935-1949.
-- Descartes, R. (1641). *Meditations on First Philosophy*.
-- Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
-- Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-- Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
-- Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Stapp, H. P., Schwartz, J. M., & Beauregard, M. (2005). "Quantum theory in neuroscience and psychology." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-- Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
+1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Cogitate Consortium. (2023). "An adversarial collaboration to critically evaluate theories of consciousness." *Nature Human Behaviour*, 7, 1935-1949.
+1. Descartes, R. (1641). *Meditations on First Philosophy*.
+1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
+1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Stapp, H. P., Schwartz, J. M., & Beauregard, M. (2005). "Quantum theory in neuroscience and psychology." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.

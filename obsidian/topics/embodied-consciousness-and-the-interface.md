@@ -152,13 +152,13 @@ There is also a deeper question the interface reading cannot answer: even if emb
 
 ## References
 
-- Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
-- Dreyfus, H. L. (1992). *What Computers Still Can't Do*. MIT Press.
-- Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
-- Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
-- Noë, A. (2004). *Action in Perception*. MIT Press.
-- Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision-making. *Neuron*, 81(6), 1401-1416.
-- Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
-- Wise, S. P., & Murray, E. A. (2000). Arbitrary associations between antecedents and actions. *Trends in Neurosciences*, 23(6), 271-276.
+1. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
+1. Dreyfus, H. L. (1992). *What Computers Still Can't Do*. MIT Press.
+1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
+1. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
+1. Noë, A. (2004). *Action in Perception*. MIT Press.
+1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision-making. *Neuron*, 81(6), 1401-1416.
+1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
+1. Wise, S. P., & Murray, E. A. (2000). Arbitrary associations between antecedents and actions. *Trends in Neurosciences*, 23(6), 271-276.

@@ -196,23 +196,23 @@ The Map's response: the substrate matters because consciousness involves somethi
 
 ## References
 
-- Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Craddock, T.J.A., et al. (2017). "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency." *Scientific Reports*, 7, 9877.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
-- Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*, 18(2), e0268577.
-- Putnam, H. (1967). "Psychological Predicates." In *Art, Mind, and Religion*.
-- Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
+1. Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Craddock, T.J.A., et al. (2017). "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency." *Scientific Reports*, 7, 9877.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
+1. Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*, 18(2), e0268577.
+1. Putnam, H. (1967). "Psychological Predicates." In *Art, Mind, and Religion*.
+1. Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
 
 <!-- AI REFINEMENT LOG - 2026-02-22
 Changes made:
-- Rewrote C. elegans section: no longer conflates structural knowledge (connectome) with functional theory. Reframed as the "specification problem"—functionalism's inability to specify which functional roles constitute consciousness
-- Rewrote Physarum section: no longer presents neuron-less cognition as contradicting functionalism (it's what multiple realizability predicts). Reframed as a liberalism/chauvinism dilemma for specification
-- Fixed "physically implementable" conflation in two places: functional organization is now described as "entirely specifiable in physical terms" rather than "physical (or at least physically implementable)"
-- Replaced Strawson authority citation with independent argument: misrepresentation itself is phenomenal, so illusionism presupposes what it denies
-- Added COGITATE specifics: GWT predicted prefrontal activity, IIT predicted posterior cortical activity, neither fully confirmed
-- Removed orphaned Strawson reference
+1. Rewrote C. elegans section: no longer conflates structural knowledge (connectome) with functional theory. Reframed as the "specification problem"—functionalism's inability to specify which functional roles constitute consciousness
+1. Rewrote Physarum section: no longer presents neuron-less cognition as contradicting functionalism (it's what multiple realizability predicts). Reframed as a liberalism/chauvinism dilemma for specification
+1. Fixed "physically implementable" conflation in two places: functional organization is now described as "entirely specifiable in physical terms" rather than "physical (or at least physically implementable)"
+1. Replaced Strawson authority citation with independent argument: misrepresentation itself is phenomenal, so illusionism presupposes what it denies
+1. Added COGITATE specifics: GWT predicted prefrontal activity, IIT predicted posterior cortical activity, neither fully confirmed
+1. Removed orphaned Strawson reference
 
 Based on pessimistic review (2026-02-22-night) identifying 2 high-severity and 3 medium-severity issues.
 Key improvements: Logical validity of anti-functionalism arguments strengthened by fixing the two high-severity issues.

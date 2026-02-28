@@ -115,7 +115,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 
 ## References
 
-- Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking. [Source for the ~10 bits/second conscious bandwidth estimate and ~10⁹ bits/second sensory input bandwidth.]
-- Simon, H. A. (1956). Rational choice and the structure of the environment. *Psychological Review*, 63(2), 129–138. [Foundational work on satisficing and bounded rationality under constraints.]
-- Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725. [Empirical evidence for attentional interference with automatised constraint processing.]
-- Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenological Research*, 67, 367–383. [Phenomenological analysis of skill acquisition and the withdrawal of conscious engagement.]
+1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking. [Source for the ~10 bits/second conscious bandwidth estimate and ~10⁹ bits/second sensory input bandwidth.]
+1. Simon, H. A. (1956). Rational choice and the structure of the environment. *Psychological Review*, 63(2), 129–138. [Foundational work on satisficing and bounded rationality under constraints.]
+1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725. [Empirical evidence for attentional interference with automatised constraint processing.]
+1. Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenological Research*, 67, 367–383. [Phenomenological analysis of skill acquisition and the withdrawal of conscious engagement.]

@@ -286,23 +286,23 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 
 ## References
 
-- Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
-- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hoefer, C. (2024). "Causal Determinism." *Stanford Encyclopedia of Philosophy*.
-- Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
-- Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
-- Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-- Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
-- Mele, A. (2024). "Soft Libertarianism and Quantum Randomizers." *Journal of Value Inquiry*, 58, 651-658.
-- O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
-- O'Connor, T. (2009). "Agent Causation." In *The Oxford Handbook of Causation*, ed. Beebee et al.
-- Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-- Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
-- Stapp, H. (2001). *Mind, Matter and Quantum Mechanics*. Springer.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-- "Incompatibilist (Nondeterministic) Theories of Free Will." *Stanford Encyclopedia of Philosophy*.
-- "Quantum Approaches to Consciousness." *Stanford Encyclopedia of Philosophy*.
+1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
+1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Hoefer, C. (2024). "Causal Determinism." *Stanford Encyclopedia of Philosophy*.
+1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
+1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
+1. Mele, A. (2024). "Soft Libertarianism and Quantum Randomizers." *Journal of Value Inquiry*, 58, 651-658.
+1. O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
+1. O'Connor, T. (2009). "Agent Causation." In *The Oxford Handbook of Causation*, ed. Beebee et al.
+1. Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+1. Stapp, H. (2001). *Mind, Matter and Quantum Mechanics*. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. "Incompatibilist (Nondeterministic) Theories of Free Will." *Stanford Encyclopedia of Philosophy*.
+1. "Quantum Approaches to Consciousness." *Stanford Encyclopedia of Philosophy*.

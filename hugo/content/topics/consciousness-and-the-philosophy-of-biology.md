@@ -123,8 +123,8 @@ The Map holds that philosophy of biology reveals not the biological nature of co
 
 ## References
 
-- Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. *Proceedings of the Royal Society of London B*, 205(1161), 581–598.
-- Godfrey-Smith, P. (1994). A modern history theory of functions. *Noûs*, 28(3), 344–362.
-- Cummins, R. (1975). Functional analysis. *The Journal of Philosophy*, 72(20), 741–765.
-- Mossio, M., & Moreno, A. (2010). Organisational closure in biological organisms. *History and Philosophy of the Life Sciences*, 32(2-3), 269–288.
-- Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
+1. Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. *Proceedings of the Royal Society of London B*, 205(1161), 581–598.
+1. Godfrey-Smith, P. (1994). A modern history theory of functions. *Noûs*, 28(3), 344–362.
+1. Cummins, R. (1975). Functional analysis. *The Journal of Philosophy*, 72(20), 741–765.
+1. Mossio, M., & Moreno, A. (2010). Organisational closure in biological organisms. *History and Philosophy of the Life Sciences*, 32(2-3), 269–288.
+1. Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.

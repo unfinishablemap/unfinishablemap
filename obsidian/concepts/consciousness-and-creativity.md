@@ -152,11 +152,11 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. If 
 
 ## References
 
-- Bergson, H. (1889). *Time and Free Will*. (Essai sur les données immédiates de la conscience)
-- Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
-- Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
-- Hausman, C. R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
-- Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.
-- Kronfeldner, M. (2009). Creativity Naturalized. *The Philosophical Quarterly*, 59(237), 577-592.
-- Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-- Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+1. Bergson, H. (1889). *Time and Free Will*. (Essai sur les données immédiates de la conscience)
+1. Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
+1. Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
+1. Hausman, C. R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
+1. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.
+1. Kronfeldner, M. (2009). Creativity Naturalized. *The Philosophical Quarterly*, 59(237), 577-592.
+1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+1. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.

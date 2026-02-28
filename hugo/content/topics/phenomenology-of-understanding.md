@@ -227,20 +227,20 @@ Several findings would weaken PCT:
 
 ## References
 
-- Bergson, H. (1889). *Time and Free Will*. Dover Publications.
-- Boghossian, P. (2014). What is inference? *Philosophical Studies*, 169(1), 1-18.
-- Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
-- Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
-- Husserl, E. (1900/2001). *Logical Investigations*. Routledge.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71-93.
-- Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
-- Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
-- Poincaré, H. (1908). *Science and Method*. Dover Publications.
-- Prawitz, D. (2015). Explaining deductive inference. In H. Wansing (Ed.), *Dag Prawitz on Proofs and Meaning*. Springer.
-- Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
-- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-- Wedgwood, R. (2006). The normative force of reasoning. *Noûs*, 40(4), 660-686.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Bergson, H. (1889). *Time and Free Will*. Dover Publications.
+1. Boghossian, P. (2014). What is inference? *Philosophical Studies*, 169(1), 1-18.
+1. Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
+1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
+1. Husserl, E. (1900/2001). *Logical Investigations*. Routledge.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71-93.
+1. Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
+1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Poincaré, H. (1908). *Science and Method*. Dover Publications.
+1. Prawitz, D. (2015). Explaining deductive inference. In H. Wansing (Ed.), *Dag Prawitz on Proofs and Meaning*. Springer.
+1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
+1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Wedgwood, R. (2006). The normative force of reasoning. *Noûs*, 40(4), 660-686.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

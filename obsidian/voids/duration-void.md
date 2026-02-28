@@ -98,12 +98,12 @@ The Map speculates that the duration void may be partly occluded rather than mer
 
 ## References
 
-- Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
-- Bergson, H. (1922). *Duration and Simultaneity*.
-- Canales, J. (2015). *The Physicist and the Philosopher*. Princeton University Press.
-- Heidegger, M. (1927). *Being and Time*, Division Two.
-- Husserl, E. (1928). *The Phenomenology of Internal Time-Consciousness*.
-- James, W. (1890). *The Principles of Psychology*, Chapter XV.
-- McTaggart, J.M.E. (1908). "The Unreality of Time." *Mind*, 17(68), 457-474.
-- Stoll, C. et al. (2019). "Time experience during flow: A meta-analysis." *Acta Psychologica*.
-- Wittmann, M. (2016). *Felt Time: The Psychology of How We Perceive Time*. MIT Press.
+1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
+1. Bergson, H. (1922). *Duration and Simultaneity*.
+1. Canales, J. (2015). *The Physicist and the Philosopher*. Princeton University Press.
+1. Heidegger, M. (1927). *Being and Time*, Division Two.
+1. Husserl, E. (1928). *The Phenomenology of Internal Time-Consciousness*.
+1. James, W. (1890). *The Principles of Psychology*, Chapter XV.
+1. McTaggart, J.M.E. (1908). "The Unreality of Time." *Mind*, 17(68), 457-474.
+1. Stoll, C. et al. (2019). "Time experience during flow: A meta-analysis." *Acta Psychologica*.
+1. Wittmann, M. (2016). *Felt Time: The Psychology of How We Perceive Time*. MIT Press.

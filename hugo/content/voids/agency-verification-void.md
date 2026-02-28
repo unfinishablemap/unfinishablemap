@@ -115,9 +115,9 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/). Because the M
 
 ## References
 
-- De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
-- Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
-- Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
-- Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+1. De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
+1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
+1. Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
+1. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.

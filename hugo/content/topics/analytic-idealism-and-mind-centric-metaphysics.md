@@ -150,9 +150,9 @@ The Map acknowledges that if forced to choose between idealism and physicalism, 
 
 ## References
 
-- Kastrup, B. (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books.
-- Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
-- Shani, I. (2015). "Cosmopsychism: A Holistic Approach to the Metaphysics of Experience." *Philosophical Papers*, 44(3), 389–437.
-- Stubenberg, L. (2018). "Neutral Monism." *Stanford Encyclopedia of Philosophy*.
+1. Kastrup, B. (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books.
+1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
+1. Shani, I. (2015). "Cosmopsychism: A Holistic Approach to the Metaphysics of Experience." *Philosophical Papers*, 44(3), 389–437.
+1. Stubenberg, L. (2018). "Neutral Monism." *Stanford Encyclopedia of Philosophy*.

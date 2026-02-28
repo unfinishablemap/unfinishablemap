@@ -207,10 +207,10 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 
 ## References
 
-- Campbell, D. T. (1974). "'Downward causation' in hierarchically organised biological systems." In F. J. Ayala & T. Dobzhansky (Eds.), *Studies in the Philosophy of Biology*. Macmillan.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
+1. Campbell, D. T. (1974). "'Downward causation' in hierarchically organised biological systems." In F. J. Ayala & T. Dobzhansky (Eds.), *Studies in the Philosophy of Biology*. Macmillan.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.

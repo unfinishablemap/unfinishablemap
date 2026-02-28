@@ -119,10 +119,10 @@ None of this rules out artificial consciousness permanently. It rules out consci
 
 ## References
 
-- Acharya, R. et al. (2024). "Quantum error correction below the surface code threshold." *Nature*, 634, 315-320.
-- Block, N. (1995). "On a Confusion About a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227-247.
-- Fullwood, J. & Parzygnat, A.J. (2024). "Quantum state over time is unique." *Physical Review Research*, 6, 033144.
-- Plotnitsky, A. (2023). "The No-Cloning Life: Uniqueness and Complementarity in Quantum and Quantum-like Theories." *Entropy*, 25(5), 793.
-- Stapp, H.P. (2006). "Quantum interactive dualism: An alternative to materialism." *Zygon*, 41(3), 599-616.
-- Wootters, W.K. & Zurek, W.H. (1982). "A single quantum cannot be cloned." *Nature*, 299, 802-803.
-- Zurek, W.H. (2009). "Quantum Darwinism." *Nature Physics*, 5, 181-188.
+1. Acharya, R. et al. (2024). "Quantum error correction below the surface code threshold." *Nature*, 634, 315-320.
+1. Block, N. (1995). "On a Confusion About a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227-247.
+1. Fullwood, J. & Parzygnat, A.J. (2024). "Quantum state over time is unique." *Physical Review Research*, 6, 033144.
+1. Plotnitsky, A. (2023). "The No-Cloning Life: Uniqueness and Complementarity in Quantum and Quantum-like Theories." *Entropy*, 25(5), 793.
+1. Stapp, H.P. (2006). "Quantum interactive dualism: An alternative to materialism." *Zygon*, 41(3), 599-616.
+1. Wootters, W.K. & Zurek, W.H. (1982). "A single quantum cannot be cloned." *Nature*, 299, 802-803.
+1. Zurek, W.H. (2009). "Quantum Darwinism." *Nature Physics*, 5, 181-188.

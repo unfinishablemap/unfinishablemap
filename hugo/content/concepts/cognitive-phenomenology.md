@@ -275,14 +275,14 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenologyâ€
 
 ## References
 
-- Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
-- Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
-- Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-- Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
-- Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Internet Encyclopedia of Philosophy. Cognitive Phenomenology. https://iep.utm.edu/cognitive-phenomenology/
+1. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
+1. Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
+1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
+1. Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Internet Encyclopedia of Philosophy. Cognitive Phenomenology. https://iep.utm.edu/cognitive-phenomenology/

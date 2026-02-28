@@ -131,12 +131,12 @@ The arguments against materialism do not prove that consciousness interfaces wit
 
 ## References
 
-- Bourget, D. & Chalmers, D. (2023). "Philosophers on Philosophy." *Philosophical Studies*.
-- Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
-- Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
+1. Bourget, D. & Chalmers, D. (2023). "Philosophers on Philosophy." *Philosophical Studies*.
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
+1. Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
+1. Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.

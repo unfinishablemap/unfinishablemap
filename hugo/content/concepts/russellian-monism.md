@@ -187,16 +187,16 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 ## References
 
-- Alter, T. & Nagasawa, Y. (Eds.). (2015). *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
-- Chalmers, D.J. (2013). Panpsychism and panprotopsychism. *Amherst Lecture in Philosophy*, 8.
-- Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-- Kerskens, C.M. & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-- McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-- Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*.
-- Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
-- Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10-11).
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Wiest, M.C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+1. Alter, T. & Nagasawa, Y. (Eds.). (2015). *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
+1. Chalmers, D.J. (2013). Panpsychism and panprotopsychism. *Amherst Lecture in Philosophy*, 8.
+1. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Kerskens, C.M. & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
+1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*.
+1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+1. Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10-11).
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Wiest, M.C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

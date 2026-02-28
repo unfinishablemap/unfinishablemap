@@ -159,26 +159,26 @@ A fair objection: the filter model is flexible enough to accommodate most dream 
 
 ## References
 
-- Demirel, Ç. et al. (2025). Electrophysiological correlates of lucid dreaming. *Journal of Neuroscience*, 45(20).
-- Konkoly, K.R. et al. (2021). Real-time dialogue between experimenters and dreamers. *Current Biology*, 31(7).
-- Konkoly, K.R. et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
-- LaBerge, S. (1981). Lucid dreaming: Physiological correlates. *Journal of Mind and Behavior*, 2(3).
-- Melloni, L. et al. (2025). Adversarial testing of consciousness theories. *Nature*.
-- Windt, J.M. (2015). *Dreaming: A Conceptual Framework*. MIT Press.
+1. Demirel, Ç. et al. (2025). Electrophysiological correlates of lucid dreaming. *Journal of Neuroscience*, 45(20).
+1. Konkoly, K.R. et al. (2021). Real-time dialogue between experimenters and dreamers. *Current Biology*, 31(7).
+1. Konkoly, K.R. et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
+1. LaBerge, S. (1981). Lucid dreaming: Physiological correlates. *Journal of Mind and Behavior*, 2(3).
+1. Melloni, L. et al. (2025). Adversarial testing of consciousness theories. *Nature*.
+1. Windt, J.M. (2015). *Dreaming: A Conceptual Framework*. MIT Press.
 
 <!-- AI REFINEMENT LOG - 2026-02-24
 Changes made:
-- Rewrote opening to separate observation (brain generates rich activity without input) from interpretation (filter model), acknowledging production model also accommodates dream richness
-- Added explicit acknowledgment of filter model unfalsifiability in "What Would Challenge This View" section
-- Changed "Dreams transcend physical laws" to "Experiences routinely violate physical laws"
-- Removed uncited "~10 bits/second" claim, replaced with softer "bandwidth bottleneck" language
-- Added citation (Windt 2015) for visual constraint claims replacing vague "Research suggests"
-- Added N=20 caveat and replication note to Konkoly 2026 problem-solving claim
-- Softened foreclosure argument in No Many Worlds section, noting dream introspection unreliability
-- Rewrote Minimal Quantum Interaction section to explicitly flag speculation and lack of evidence
-- Added note that predictive processing is neutral between production and filter models
-- Added physicalist alternative framing in brain's generative capacity section
-- Updated description to be less assumption-laden
+1. Rewrote opening to separate observation (brain generates rich activity without input) from interpretation (filter model), acknowledging production model also accommodates dream richness
+1. Added explicit acknowledgment of filter model unfalsifiability in "What Would Challenge This View" section
+1. Changed "Dreams transcend physical laws" to "Experiences routinely violate physical laws"
+1. Removed uncited "~10 bits/second" claim, replaced with softer "bandwidth bottleneck" language
+1. Added citation (Windt 2015) for visual constraint claims replacing vague "Research suggests"
+1. Added N=20 caveat and replication note to Konkoly 2026 problem-solving claim
+1. Softened foreclosure argument in No Many Worlds section, noting dream introspection unreliability
+1. Rewrote Minimal Quantum Interaction section to explicitly flag speculation and lack of evidence
+1. Added note that predictive processing is neutral between production and filter models
+1. Added physicalist alternative framing in brain's generative capacity section
+1. Updated description to be less assumption-laden
 
 Based on pessimistic review (pessimistic-2026-02-24-evening.md).
 Key improvements: reduced unfalsifiability, separated observation from interpretation, honest hedging on speculative claims.

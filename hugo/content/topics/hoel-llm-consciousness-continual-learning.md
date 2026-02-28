@@ -122,8 +122,8 @@ Third, it identifies a convergence point between otherwise opposed positions. Fu
 
 ## References
 
-- Hoel, E. (2026). "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness." arXiv:2512.12802.
-- Cerullo, M. (2026). "Why Hoel's Disproof of LLM Consciousness and Functionalism Fails." PhilArchive.
-- Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216-242.
-- Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Hoel, E. (2026). "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness." arXiv:2512.12802.
+1. Cerullo, M. (2026). "Why Hoel's Disproof of LLM Consciousness and Functionalism Fails." PhilArchive.
+1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216-242.
+1. Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.

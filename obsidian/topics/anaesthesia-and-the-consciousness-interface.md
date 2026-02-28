@@ -143,10 +143,10 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 
 ## References
 
-- Franks, N. P. (2008). General anaesthesia: from molecular targets to neuronal pathways of sleep and arousal. *Nature Reviews Neuroscience*, 9(5), 370-386.
-- Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
-- Casali, A. G., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105.
-- Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e60892.
-- Hameroff, S. (2006). The entwined mysteries of anesthesia and consciousness. *Anesthesiology*, 105(2), 400-412.
-- Liem, E. B., et al. (2004). Anesthetic requirement is increased in redheads. *Anesthesiology*, 101(2), 279-283.
-- Meyer, H. (1899). Zur Theorie der Alkoholnarkose. *Archiv für experimentelle Pathologie und Pharmakologie*, 42(2-4), 109-118.
+1. Franks, N. P. (2008). General anaesthesia: from molecular targets to neuronal pathways of sleep and arousal. *Nature Reviews Neuroscience*, 9(5), 370-386.
+1. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
+1. Casali, A. G., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105.
+1. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e60892.
+1. Hameroff, S. (2006). The entwined mysteries of anesthesia and consciousness. *Anesthesiology*, 105(2), 400-412.
+1. Liem, E. B., et al. (2004). Anesthetic requirement is increased in redheads. *Anesthesiology*, 101(2), 279-283.
+1. Meyer, H. (1899). Zur Theorie der Alkoholnarkose. *Archiv für experimentelle Pathologie und Pharmakologie*, 42(2-4), 109-118.

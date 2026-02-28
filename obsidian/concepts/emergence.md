@@ -197,25 +197,25 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 
 ## References
 
-- Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
-- Chalmers, D.J. (2006). Strong and Weak Emergence. In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
-- Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-- O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
-- Seager, W. (2016). *Theories of Consciousness*. Routledge.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
+1. Chalmers, D.J. (2006). Strong and Weak Emergence. In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
+1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
+1. Seager, W. (2016). *Theories of Consciousness*. Routledge.
+1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 
 <!-- AI REFINEMENT LOG - 2026-02-18
 Changes made:
-- Reframed "mechanism" language throughout to honestly acknowledge that the Map identifies a locus (quantum indeterminacy) and mode (probability bias), not a fully specified mechanism. Section title changed from "Strong Emergence with a Mechanism" to "Strong Emergence at the Quantum Opening"
-- Added explicit reference to psychophysical-laws article's five candidate coupling mechanisms, acknowledging the coupling problem remains open
-- Strengthened "Comparing Challenges" section: acknowledged that "strong emergence" provides classification rather than explanation, and the quantum framework aims to transform this
-- Improved testability section: acknowledged unfalsifiability risk of conservation law tests, noted microtubule evidence is compatible with classical mechanisms
-- Updated comparison table column from "Mechanism?" to "Interaction Specified?" with honest entry "Locus and mode, not full mechanism"
-- Added Chalmers (2006) citation for "paradigm of strongly emergent phenomenon" quote
-- Added psychophysical-laws to concepts frontmatter and Further Reading
-- Updated O'Connor-Wong section to match honest framing
-- Updated Relation to Site Perspective to acknowledge coupling mechanism as open question
+1. Reframed "mechanism" language throughout to honestly acknowledge that the Map identifies a locus (quantum indeterminacy) and mode (probability bias), not a fully specified mechanism. Section title changed from "Strong Emergence with a Mechanism" to "Strong Emergence at the Quantum Opening"
+1. Added explicit reference to psychophysical-laws article's five candidate coupling mechanisms, acknowledging the coupling problem remains open
+1. Strengthened "Comparing Challenges" section: acknowledged that "strong emergence" provides classification rather than explanation, and the quantum framework aims to transform this
+1. Improved testability section: acknowledged unfalsifiability risk of conservation law tests, noted microtubule evidence is compatible with classical mechanisms
+1. Updated comparison table column from "Mechanism?" to "Interaction Specified?" with honest entry "Locus and mode, not full mechanism"
+1. Added Chalmers (2006) citation for "paradigm of strongly emergent phenomenon" quote
+1. Added psychophysical-laws to concepts frontmatter and Further Reading
+1. Updated O'Connor-Wong section to match honest framing
+1. Updated Relation to Site Perspective to acknowledge coupling mechanism as open question
 
 Based on pessimistic review (2026-02-18) Issue 1: quantum mechanism overclaiming.
 Key improvements: Epistemic honesty about what the Map has and hasn't specified.

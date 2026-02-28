@@ -229,16 +229,16 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 
 ## References
 
-- Donadi, S. et al. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
-- Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
-- Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-- Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-- Stanford Encyclopedia of Philosophy. "Collapse Theories." https://plato.stanford.edu/entries/qm-collapse/
-- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-- Tomaz, A. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
-- Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-- Wigner, E. (1961). Remarks on the mind-body question. In *The Scientist Speculates*. Heinemann.
-- Wolchover, N. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*.
+1. Donadi, S. et al. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
+1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
+1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+1. Stanford Encyclopedia of Philosophy. "Collapse Theories." https://plato.stanford.edu/entries/qm-collapse/
+1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Tomaz, A. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
+1. Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Wigner, E. (1961). Remarks on the mind-body question. In *The Scientist Speculates*. Heinemann.
+1. Wolchover, N. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*.

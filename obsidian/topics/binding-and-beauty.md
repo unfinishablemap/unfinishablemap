@@ -127,8 +127,8 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 
 ## References
 
-- Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard.
-- Revonsuo, A. (2006). *Inner Presence: Consciousness as a Biological Phenomenon*. MIT Press.
-- Schopenhauer, A. (1818). *The World as Will and Representation*. Trans. E.F.J. Payne.
-- Scruton, R. (2011). *Beauty: A Very Short Introduction*. Oxford University Press.
-- Zeki, S. (1999). *Inner Vision: An Exploration of Art and the Brain*. Oxford University Press.
+1. Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard.
+1. Revonsuo, A. (2006). *Inner Presence: Consciousness as a Biological Phenomenon*. MIT Press.
+1. Schopenhauer, A. (1818). *The World as Will and Representation*. Trans. E.F.J. Payne.
+1. Scruton, R. (2011). *Beauty: A Very Short Introduction*. Oxford University Press.
+1. Zeki, S. (1999). *Inner Vision: An Exploration of Art and the Brain*. Oxford University Press.

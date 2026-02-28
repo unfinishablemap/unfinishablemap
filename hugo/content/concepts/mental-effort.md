@@ -180,19 +180,19 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 
 ## References
 
-- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- James, W. (1890). *The Principles of Psychology*.
-- Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
-- Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-- Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. James, W. (1890). *The Principles of Psychology*.
+1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 
 <!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Rewrote decoherence objection section to address quantum biology conflation: quantum effects in photosynthesis/bird navigation involve specific molecular architectures at nanometer scales, distinct from quantum consciousness claims at neural circuit scales
-- Added acknowledgment that Hagan et al. coherence times remain a minority position with disputed status
-- Added Tegmark's timescale objection as "the strongest objection" to Stapp's mechanism
-- Downgraded "strongest empirical case" to "significant empirical support" for neuroplasticity evidence
+1. Rewrote decoherence objection section to address quantum biology conflation: quantum effects in photosynthesis/bird navigation involve specific molecular architectures at nanometer scales, distinct from quantum consciousness claims at neural circuit scales
+1. Added acknowledgment that Hagan et al. coherence times remain a minority position with disputed status
+1. Added Tegmark's timescale objection as "the strongest objection" to Stapp's mechanism
+1. Downgraded "strongest empirical case" to "significant empirical support" for neuroplasticity evidence
 
 Based on pessimistic-2026-02-16-evening.md review (Issue 4).
 Key improvements: Honest treatment of quantum biology/quantum consciousness distinction and decoherence timescale mismatch.

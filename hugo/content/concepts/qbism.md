@@ -144,7 +144,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 
 ## References
 
-- Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). "An Introduction to QBism with an Application to the Locality of Quantum Mechanics." *American Journal of Physics*, 82(8), 749-754.
-- Fuchs, C. A. (2017). "Notwithstanding Bohr, the Reasons for QBism." *Mind and Matter*, 15(2), 245-300.
-- Caves, C. M., Fuchs, C. A., & Schack, R. (2002). "Quantum Probabilities as Bayesian Probabilities." *Physical Review A*, 65(2), 022305.
-- DeBrota, J. B., Fuchs, C. A., & Schack, R. (2020). "Respecting One's Fellow: QBism's Analysis of Wigner's Friend." *Foundations of Physics*, 50, 1859-1874.
+1. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). "An Introduction to QBism with an Application to the Locality of Quantum Mechanics." *American Journal of Physics*, 82(8), 749-754.
+1. Fuchs, C. A. (2017). "Notwithstanding Bohr, the Reasons for QBism." *Mind and Matter*, 15(2), 245-300.
+1. Caves, C. M., Fuchs, C. A., & Schack, R. (2002). "Quantum Probabilities as Bayesian Probabilities." *Physical Review A*, 65(2), 022305.
+1. DeBrota, J. B., Fuchs, C. A., & Schack, R. (2020). "Respecting One's Fellow: QBism's Analysis of Wigner's Friend." *Foundations of Physics*, 50, 1859-1874.

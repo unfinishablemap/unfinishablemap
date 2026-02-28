@@ -143,9 +143,9 @@ Evolution under dualism connects to the Map's tenets in ways that strengthen bot
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Darwin, C. (1859). *On the Origin of Species*. John Murray.
-- Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
-- Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004–R1005.
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-- Miller, G. A. (1956). "The magical number seven, plus or minus two." *Psychological Review*, 63(2), 81–97.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Darwin, C. (1859). *On the Origin of Species*. John Murray.
+1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
+1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004–R1005.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. Miller, G. A. (1956). "The magical number seven, plus or minus two." *Psychological Review*, 63(2), 81–97.

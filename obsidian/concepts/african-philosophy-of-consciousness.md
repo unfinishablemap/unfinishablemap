@@ -105,9 +105,9 @@ The Map speculates that the Ubuntu tradition's relational ontology may point tow
 
 ## References
 
-- Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.
-- Tempels, P. (1945/1959). *Bantu Philosophy*. Présence Africaine.
-- Wiredu, K. (1996). *Cultural Universals and Particulars: An African Perspective*. Indiana University Press.
-- Abimbola, W. (1976). *Ifá: An Exposition of Ifá Literary Corpus*. Oxford University Press.
-- Metz, T. (2007). "Toward an African Moral Theory." *Journal of Political Philosophy*, 15(3), 321–341.
-- Hountondji, P. (1983). *African Philosophy: Myth and Reality*. Indiana University Press.
+1. Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.
+1. Tempels, P. (1945/1959). *Bantu Philosophy*. Présence Africaine.
+1. Wiredu, K. (1996). *Cultural Universals and Particulars: An African Perspective*. Indiana University Press.
+1. Abimbola, W. (1976). *Ifá: An Exposition of Ifá Literary Corpus*. Oxford University Press.
+1. Metz, T. (2007). "Toward an African Moral Theory." *Journal of Political Philosophy*, 15(3), 321–341.
+1. Hountondji, P. (1983). *African Philosophy: Myth and Reality*. Indiana University Press.

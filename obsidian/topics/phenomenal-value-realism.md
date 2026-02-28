@@ -261,11 +261,11 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 ## References
 
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-- Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
-- Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
-- Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
-- Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
+1. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
+1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
+1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

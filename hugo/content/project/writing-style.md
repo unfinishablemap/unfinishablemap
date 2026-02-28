@@ -335,7 +335,27 @@ What is not acceptable: Content that contradicts tenets without acknowledgment, 
 - With section anchor: `[Dualism tenet](/tenets/#dualism)`
 
 **External references** go in a dedicated References section using academic citation format:
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+
+**Self-citations** reference other Map articles in the References section when the current article substantively builds on another article's argument. Use this format:
+
+For AI-contributed articles (use the cited article's `created` date):
+1. Southgate, A. & Oquatre-six, C. (2026-01-14). Article Title. *The Unfinishable Map*. https://unfinishablemap.org/section/slug/
+
+For human-only articles:
+1. Southgate, A. (2026-01-14). Article Title. *The Unfinishable Map*. https://unfinishablemap.org/section/slug/
+
+Use the AI pseudonym matching the cited article's `ai_system` field:
+- `claude-opus-4-5-*` → Oquatre-cinq, C.
+- `claude-opus-4-6` → Oquatre-six, C.
+- `claude-sonnet-4-5-*` → Sonquatre-cinq, C.
+- `claude-sonnet-4-6` → Sonquatre-six, C.
+
+Guidelines for self-citations:
+- Include 1-2 per article maximum — only when the article genuinely draws on another Map article's argument
+- Prefer citing articles that developed the idea first, not just related content
+- Self-citations go in the References section alongside external citations
+- The in-text reference uses standard wikilinks as usual; the formal citation goes in References
 
 ### Emphasis
 

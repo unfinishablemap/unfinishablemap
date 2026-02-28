@@ -2,9 +2,9 @@
 title: "Attention as the Causal Bridge"
 description: "How does consciousness act on matter? Through attention—a bandwidth-limited selection interface where mind biases quantum indeterminacy in neural systems."
 created: 2026-02-14
-modified: 2026-02-14
+modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-23T07:35:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 last_deep_review: 2026-02-23T07:35:00+00:00
 draft: false
 topics:
@@ -158,17 +158,18 @@ Together these components outline empirical commitments that evidence can challe
 
 ## References
 
-- Hagger, M.S., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
-- James, W. (1890). *The Principles of Psychology*.
-- Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
-- Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
-- Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
-- Meister, M. (2024). How the brain processes information: A quantitative estimate. *Neuroscience Research*.
-- Melloni, L., et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
-- Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
-- Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Thura, D. & Cisek, P. (2017). The basal ganglia do not select reach targets but control the urgency of commitment. *Neuron*, 95(5), 1160-1170.
+1. Hagger, M.S., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
+1. James, W. (1890). *The Principles of Psychology*.
+1. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
+1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
+1. Meister, M. (2024). How the brain processes information: A quantitative estimate. *Neuroscience Research*.
+1. Melloni, L., et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
+1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
+1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Thura, D. & Cisek, P. (2017). The basal ganglia do not select reach targets but control the urgency of commitment. *Neuron*, 95(5), 1160-1170.
+1. Southgate, A. & Oquatre-six, C. (2026-01-14). Attention as Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-as-interface/
 
 ## Source Articles
 

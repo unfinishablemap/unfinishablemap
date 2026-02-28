@@ -115,8 +115,8 @@ The surplus void also connects to the [aesthetic-void](/voids/aesthetic-void/) (
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64: 354–361.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349–366.
-- Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
-- Wallace, A. R. (1870). "The Limits of Natural Selection as Applied to Man." In *Contributions to the Theory of Natural Selection*.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64: 354–361.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349–366.
+1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
+1. Wallace, A. R. (1870). "The Limits of Natural Selection as Applied to Man." In *Contributions to the Theory of Natural Selection*.

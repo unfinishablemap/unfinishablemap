@@ -144,11 +144,11 @@ This illustrates [the limits of Occam's Razor](/tenets/#occams-limits). Physical
 
 ## References
 
-- Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-287.
-- Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
-- Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-- Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
-- Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
-- Nartker, M., Firestone, C., & Sosa, E. (2025). Inattentional blindness hides residual visual sensitivity. *Journal of Experimental Psychology: Human Perception and Performance*.
-- Stanford Encyclopedia of Philosophy. (2024). [Consciousness](https://plato.stanford.edu/entries/consciousness/).
-- Tegmark, M. (2000). The Problem with the Quantum Mind. *Physical Review E*, 61(4), 4194-4206.
+1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-287.
+1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
+1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
+1. Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
+1. Nartker, M., Firestone, C., & Sosa, E. (2025). Inattentional blindness hides residual visual sensitivity. *Journal of Experimental Psychology: Human Perception and Performance*.
+1. Stanford Encyclopedia of Philosophy. (2024). [Consciousness](https://plato.stanford.edu/entries/consciousness/).
+1. Tegmark, M. (2000). The Problem with the Quantum Mind. *Physical Review E*, 61(4), 4194-4206.

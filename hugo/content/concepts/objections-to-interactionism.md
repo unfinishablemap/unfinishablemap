@@ -321,14 +321,14 @@ These objections have been taken seriously throughout the history of philosophy.
 
 ## References
 
-- Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
-- Collins, R. (2011). "The Energy of the Soul." In M. Baker & S. Goetz (eds.), *The Soul Hypothesis*.
-- James, W. (1890). *The Principles of Psychology*.
-- Kerskens, C. M., & Pérez, D. L. (2022-2023). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-- Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61: 4194-4206.
-- Yablo, S. (1992). "Mental Causation." *Philosophical Review*, 101: 245-280.
-- Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
-- Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
+1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
+1. Collins, R. (2011). "The Energy of the Soul." In M. Baker & S. Goetz (eds.), *The Soul Hypothesis*.
+1. James, W. (1890). *The Principles of Psychology*.
+1. Kerskens, C. M., & Pérez, D. L. (2022-2023). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+1. Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61: 4194-4206.
+1. Yablo, S. (1992). "Mental Causation." *Philosophical Review*, 101: 245-280.
+1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.

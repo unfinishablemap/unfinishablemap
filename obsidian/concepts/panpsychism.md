@@ -202,10 +202,10 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 
 ## References
 
-- Chalmers, D. (2015). Panpsychism and Panprotopsychism. In *Consciousness in the Physical World*. Oxford University Press.
-- Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousness*. Pantheon.
-- Nagel, T. (1979). Panpsychism. In *Mortal Questions*. Cambridge University Press.
-- Nagel, T. (2012). *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*. Oxford University Press.
-- Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
-- Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Chalmers, D. (2015). Panpsychism and Panprotopsychism. In *Consciousness in the Physical World*. Oxford University Press.
+1. Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousness*. Pantheon.
+1. Nagel, T. (1979). Panpsychism. In *Mortal Questions*. Cambridge University Press.
+1. Nagel, T. (2012). *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*. Oxford University Press.
+1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
+1. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

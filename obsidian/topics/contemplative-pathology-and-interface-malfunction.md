@@ -101,7 +101,7 @@ The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] su
 
 ## References
 
-- Britton, W. B. (2019). "Can mindfulness be too much of a good thing? The value of a middle way." *Current Opinion in Psychology*, 28, 159-165.
-- Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K., & Britton, W. B. (2017). "The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists." *PLOS ONE*, 12(5), e0176239.
-- Sass, L. A. & Parnas, J. (2003). "Schizophrenia, consciousness, and the self." *Schizophrenia Bulletin*, 29(3), 427-444.
-- St John of the Cross. (1585/1959). *Dark Night of the Soul*. Translated by E. Allison Peers.
+1. Britton, W. B. (2019). "Can mindfulness be too much of a good thing? The value of a middle way." *Current Opinion in Psychology*, 28, 159-165.
+1. Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K., & Britton, W. B. (2017). "The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists." *PLOS ONE*, 12(5), e0176239.
+1. Sass, L. A. & Parnas, J. (2003). "Schizophrenia, consciousness, and the self." *Schizophrenia Bulletin*, 29(3), 427-444.
+1. St John of the Cross. (1585/1959). *Dark Night of the Soul*. Translated by E. Allison Peers.

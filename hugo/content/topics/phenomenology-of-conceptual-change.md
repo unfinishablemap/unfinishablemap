@@ -140,9 +140,9 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 
 ## References
 
-- Carey, S. (2009). *The Origin of Concepts*. Oxford University Press.
-- Chi, M.T.H. (1992). Conceptual change within and across ontological categories. In R. Giere (Ed.), *Cognitive Models of Science*. University of Minnesota Press.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kuhn, T.S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- Nersessian, N.J. (2008). *Creating Scientific Concepts*. MIT Press.
-- Thagard, P. (1992). *Conceptual Revolutions*. Princeton University Press.
+1. Carey, S. (2009). *The Origin of Concepts*. Oxford University Press.
+1. Chi, M.T.H. (1992). Conceptual change within and across ontological categories. In R. Giere (Ed.), *Cognitive Models of Science*. University of Minnesota Press.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kuhn, T.S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. Nersessian, N.J. (2008). *Creating Scientific Concepts*. MIT Press.
+1. Thagard, P. (1992). *Conceptual Revolutions*. Princeton University Press.

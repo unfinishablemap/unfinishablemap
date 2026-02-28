@@ -224,14 +224,14 @@ The view would be supported by continued failure of AI to achieve transformation
 
 ## References
 
-- Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
-- Gödel, K. (1931). Über formal unentscheidbare Sätze. *Monatshefte für Mathematik und Physik*, 38, 173–198.
-- Hadamard, J. (1945). *The Psychology of Invention in the Mathematical Field*. Princeton University Press.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
-- Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
-- Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-- Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
-- Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.
-- Searle, J.R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417–424.
-- Strawson, G. (2010). *Mental Reality*. MIT Press.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
+1. Gödel, K. (1931). Über formal unentscheidbare Sätze. *Monatshefte für Mathematik und Physik*, 38, 173–198.
+1. Hadamard, J. (1945). *The Psychology of Invention in the Mathematical Field*. Princeton University Press.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
+1. Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
+1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
+1. Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.
+1. Searle, J.R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417–424.
+1. Strawson, G. (2010). *Mental Reality*. MIT Press.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

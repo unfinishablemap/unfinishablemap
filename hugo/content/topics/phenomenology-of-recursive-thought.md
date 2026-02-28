@@ -156,11 +156,11 @@ The phenomenology of recursive thought suggests several conclusions:
 
 ## References
 
-- Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
-- Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section VI.
-- Kriegel, U. (2009). *Subjective Consciousness: A Self-Representational Theory*. Oxford University Press.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
-- Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
+1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section VI.
+1. Kriegel, U. (2009). *Subjective Consciousness: A Self-Representational Theory*. Oxford University Press.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

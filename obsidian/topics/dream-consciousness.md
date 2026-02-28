@@ -178,15 +178,15 @@ The Map's interpretation of dream consciousness would face difficulty if:
 
 ## References
 
-- Baird, B., Castelnovo, A., Gosseries, O., & Tononi, G. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
-- Cai, D. J., Mednick, S. A., Harrison, E. M., Kanady, J. C., & Mednick, S. C. (2009). REM, not incubation, improves creativity by priming associative networks. *Proceedings of the National Academy of Sciences*, 106(25), 10130-10134.
-- Demirel, Ç. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20).
-- Haar Horowitz, A., Esfahany, K., Gálvez, T., Maes, P., & Stickgold, R. (2023). Targeted dream incubation at sleep onset increases post-sleep creative performance. *Scientific Reports*, 13, 7319.
-- Hobson, J.A. (2009). REM sleep and dreaming: towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10(11), 803-813.
-- Hohwy, J., & Metzinger, T. (2025). Predictive processing and dream consciousness. *Consciousness and Cognition*, 99, 103305.
-- James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
-- Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
-- Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
-- LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzen et al. (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.
-- Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
-- Budson, A.E. & Paller, K.A. (2025). Memory, Sleep, Dreams, and Consciousness. *Nature and Science of Sleep*, 17, 1957-1972.
+1. Baird, B., Castelnovo, A., Gosseries, O., & Tononi, G. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
+1. Cai, D. J., Mednick, S. A., Harrison, E. M., Kanady, J. C., & Mednick, S. C. (2009). REM, not incubation, improves creativity by priming associative networks. *Proceedings of the National Academy of Sciences*, 106(25), 10130-10134.
+1. Demirel, Ç. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20).
+1. Haar Horowitz, A., Esfahany, K., Gálvez, T., Maes, P., & Stickgold, R. (2023). Targeted dream incubation at sleep onset increases post-sleep creative performance. *Scientific Reports*, 13, 7319.
+1. Hobson, J.A. (2009). REM sleep and dreaming: towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10(11), 803-813.
+1. Hohwy, J., & Metzinger, T. (2025). Predictive processing and dream consciousness. *Consciousness and Cognition*, 99, 103305.
+1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
+1. Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
+1. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
+1. LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzen et al. (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.
+1. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
+1. Budson, A.E. & Paller, K.A. (2025). Memory, Sleep, Dreams, and Consciousness. *Nature and Science of Sleep*, 17, 1957-1972.

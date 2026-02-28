@@ -116,9 +116,9 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 
 ## References
 
-- Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part III.
-- Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Section IV.
-- Lewis, C.S. (1947). *Miracles*. Chapter 3: "The Cardinal Difficulty of Naturalism."
-- Reppert, V. (2003). *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. InterVarsity Press.
-- Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.
-- Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
+1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part III.
+1. Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Section IV.
+1. Lewis, C.S. (1947). *Miracles*. Chapter 3: "The Cardinal Difficulty of Naturalism."
+1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. InterVarsity Press.
+1. Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson.
+1. Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.

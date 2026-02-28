@@ -208,13 +208,13 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 
 ## References
 
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-- Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
-- Renoult, L. et al. (2012). Personal semantics: at the crossroads of semantic and episodic memory. *Trends in Cognitive Sciences*, 16(11), 550-558.
-- Martinelli, P. et al. (2013). Neural substrates of the self-memory system. *Human Brain Mapping*, 34(7), 1515-1529.
-- Visser, M. et al. (2012). Both the middle temporal gyrus and the ventral anterior temporal area are crucial for multimodal semantic processing. *Cerebral Cortex*, 22(1), 169-181.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control. *Consciousness and Cognition*, 9(2), 149-171.
-- Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
+1. Renoult, L. et al. (2012). Personal semantics: at the crossroads of semantic and episodic memory. *Trends in Cognitive Sciences*, 16(11), 550-558.
+1. Martinelli, P. et al. (2013). Neural substrates of the self-memory system. *Human Brain Mapping*, 34(7), 1515-1529.
+1. Visser, M. et al. (2012). Both the middle temporal gyrus and the ventral anterior temporal area are crucial for multimodal semantic processing. *Cerebral Cortex*, 22(1), 169-181.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control. *Consciousness and Cognition*, 9(2), 149-171.
+1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.

@@ -131,9 +131,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because
 
 ## References
 
-- Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
-- Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Graziano, M.S.A. (2019). *Rethinking Consciousness*. W.W. Norton.
-- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Metzinger, T. (2003). *Being No One*. MIT Press.
+1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
+1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Graziano, M.S.A. (2019). *Rethinking Consciousness*. W.W. Norton.
+1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Metzinger, T. (2003). *Being No One*. MIT Press.

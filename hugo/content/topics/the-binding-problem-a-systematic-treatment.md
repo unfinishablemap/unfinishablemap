@@ -201,21 +201,21 @@ The systematic treatment of binding presented here rests on claims that could be
 
 ## References
 
-- Bayne, T. & Chalmers, D. (2003). What is the Unity of Consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
-- Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
-- Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.
+1. Bayne, T. & Chalmers, D. (2003). What is the Unity of Consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
+1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
+1. Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.
 
 <!-- AI REFINEMENT LOG - 2026-02-17
 Changes made:
-- Engaged with identity response in BP2 gap (intra-modal binding): added paragraph arguing that the "synchrony = unity" identity involves a category shift absent from standard scientific identities like "water = H₂O"
-- Substantially revised dissociation section (NREM sleep, anesthesia): acknowledged that long-range cortical connectivity is disrupted during NREM sleep, not just phenomenal binding; engaged directly with IIT's specific predictions about sleep/anesthesia transitions; argued that predictive adequacy (Φ tracking consciousness) does not settle explanatory adequacy
-- Updated IIT treatment in Theoretical Landscape to be consistent with nuanced engagement above
-- Updated functionalist response to reference revised dissociation evidence rather than overclaiming
-- Added "What Would Challenge This View?" section with four falsifiability conditions
-- Removed speculative quantum collapse/agent causation sentence from cognitive binding section
-- Applied language softening: "strongest evidence" → "evidence"; "deepest variety" → "arguably the most fundamental variety"; "cannot create" → "no mechanism has been shown to create"; "genuine holism" → "what appears to be genuine holism"; opening thesis flagged as argued rather than stated as fact
+1. Engaged with identity response in BP2 gap (intra-modal binding): added paragraph arguing that the "synchrony = unity" identity involves a category shift absent from standard scientific identities like "water = H₂O"
+1. Substantially revised dissociation section (NREM sleep, anesthesia): acknowledged that long-range cortical connectivity is disrupted during NREM sleep, not just phenomenal binding; engaged directly with IIT's specific predictions about sleep/anesthesia transitions; argued that predictive adequacy (Φ tracking consciousness) does not settle explanatory adequacy
+1. Updated IIT treatment in Theoretical Landscape to be consistent with nuanced engagement above
+1. Updated functionalist response to reference revised dissociation evidence rather than overclaiming
+1. Added "What Would Challenge This View?" section with four falsifiability conditions
+1. Removed speculative quantum collapse/agent causation sentence from cognitive binding section
+1. Applied language softening: "strongest evidence" → "evidence"; "deepest variety" → "arguably the most fundamental variety"; "cannot create" → "no mechanism has been shown to create"; "genuine holism" → "what appears to be genuine holism"; opening thesis flagged as argued rather than stated as fact
 
 Based on pessimistic review (pessimistic-2026-02-17-afternoon-2.md).
 Key improvements: intellectual honesty of BP2 argument, IIT engagement, falsifiability

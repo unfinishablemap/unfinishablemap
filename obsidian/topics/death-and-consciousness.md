@@ -209,26 +209,26 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 
 ## References
 
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*.
-- Strawson, G. (2018). "The Silliest Claim." In *Things That Bother Me*.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*.
-- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules." *Physical Review E*.
-- Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
-- Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
-- Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
-- Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*.
+1. Strawson, G. (2018). "The Silliest Claim." In *Things That Bother Me*.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules." *Physical Review E*.
+1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
+1. Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
+1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
+1. Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
 
 <!-- AI REFINEMENT LOG - 2026-02-17
 Changes made:
-- Harmonized NDE statistics: replaced Parnia 2014 (9%) with AWARE II 2023 (39% any awareness, 21% transcendent RED), keeping Van Lommel 2001 (18%). Fixed cross-article inconsistency flagged by pessimistic review.
-- Fixed filter-theory.md: replaced unsourced "approximately 40%" with properly cited and qualified AWARE II figures.
-- Fixed near-death-experiences.md: opening now distinguishes 39% awareness from 21% transcendent RED.
-- Softened NDE conclusion language: "suggests" → "is consistent with the possibility that" per pessimistic review.
-- Added unfalsifiability caveat to Minimal Quantum Interaction tenet section, referencing measurement-problem article (Issue 1 from pessimistic review).
-- Added AWARE II (Parnia 2023) to References.
-- Added measurement-problem concept link to frontmatter.
+1. Harmonized NDE statistics: replaced Parnia 2014 (9%) with AWARE II 2023 (39% any awareness, 21% transcendent RED), keeping Van Lommel 2001 (18%). Fixed cross-article inconsistency flagged by pessimistic review.
+1. Fixed filter-theory.md: replaced unsourced "approximately 40%" with properly cited and qualified AWARE II figures.
+1. Fixed near-death-experiences.md: opening now distinguishes 39% awareness from 21% transcendent RED.
+1. Softened NDE conclusion language: "suggests" → "is consistent with the possibility that" per pessimistic review.
+1. Added unfalsifiability caveat to Minimal Quantum Interaction tenet section, referencing measurement-problem article (Issue 1 from pessimistic review).
+1. Added AWARE II (Parnia 2023) to References.
+1. Added measurement-problem concept link to frontmatter.
 
 Based on pessimistic review pessimistic-2026-02-17.md (Issue 4: NDE Statistics, Issue 1: Unfalsifiability Leak).
 Key improvements: cross-article statistical consistency, honest qualification of quantum claims.

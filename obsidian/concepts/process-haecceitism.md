@@ -145,7 +145,7 @@ Process haecceitism connects to the Map's [[tenets]] as a supporting concept tha
 
 ## References
 
-- Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-- Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
-- Stepien, R. K. (2021). "Substantialism, Essentialism, Emptiness: Buddhist Critiques of Ontology." *Journal of Indian Philosophy*, 50, 293-328.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
+1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
+1. Stepien, R. K. (2021). "Substantialism, Essentialism, Emptiness: Buddhist Critiques of Ontology." *Journal of Indian Philosophy*, 50, 293-328.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

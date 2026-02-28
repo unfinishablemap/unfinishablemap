@@ -130,11 +130,11 @@ This article's argument—that temporal ontology and consciousness theories are 
 
 ## References
 
-- Bergson, H. (1889/2001). *Time and Free Will*. Dover.
-- Broad, C.D. (1923). *Scientific Thought*. Routledge and Kegan Paul.
-- Hoerl, C. (2014). Do We (Seem to) Perceive Passage? *Philosophical Explorations*, 17(2), 188-202.
-- Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
-- McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17(68), 457-474.
-- Prosser, S. (2016). *Experiencing Time*. Oxford University Press.
-- Tooley, M. (1997). *Time, Tense, and Causation*. Oxford University Press.
-- Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
+1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+1. Broad, C.D. (1923). *Scientific Thought*. Routledge and Kegan Paul.
+1. Hoerl, C. (2014). Do We (Seem to) Perceive Passage? *Philosophical Explorations*, 17(2), 188-202.
+1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
+1. McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17(68), 457-474.
+1. Prosser, S. (2016). *Experiencing Time*. Oxford University Press.
+1. Tooley, M. (1997). *Time, Tense, and Causation*. Oxford University Press.
+1. Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.

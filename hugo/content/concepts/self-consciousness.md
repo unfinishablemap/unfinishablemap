@@ -118,10 +118,10 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 
 ## References
 
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Henrich, D. (1966). "Fichte's Original Insight." Translated in *Contemporary German Philosophy*, vol. 1, 1982.
-- Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
-- Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
-- Gallup, G.G. (1970). "Chimpanzees: Self-Recognition." *Science*, 167(3914), 86-87.
-- Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Henrich, D. (1966). "Fichte's Original Insight." Translated in *Contemporary German Philosophy*, vol. 1, 1982.
+1. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
+1. Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Gallup, G.G. (1970). "Chimpanzees: Self-Recognition." *Science*, 167(3914), 86-87.
+1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.

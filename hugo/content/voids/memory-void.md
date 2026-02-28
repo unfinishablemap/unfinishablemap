@@ -145,14 +145,14 @@ None of these conditions has been met. Current evidence supports the reconstruct
 
 ## References
 
-- Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.
-- Bergson, H. (1896/1991). *Matter and Memory*. Zone Books.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Michaelian, K. (2016). *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*. MIT Press.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Proust, M. (1913-1927). *In Search of Lost Time*. Grasset/Gallimard.
-- Ricœur, P. (2004). *Memory, History, Forgetting*. University of Chicago Press.
-- Schacter, D. L. (2001). *The Seven Sins of Memory*. Houghton Mifflin.
-- Stanford Encyclopedia of Philosophy. Epistemological Problems of Memory. https://plato.stanford.edu/entries/memory-episprob/
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.
+1. Bergson, H. (1896/1991). *Matter and Memory*. Zone Books.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Michaelian, K. (2016). *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*. MIT Press.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Proust, M. (1913-1927). *In Search of Lost Time*. Grasset/Gallimard.
+1. Ricœur, P. (2004). *Memory, History, Forgetting*. University of Chicago Press.
+1. Schacter, D. L. (2001). *The Seven Sins of Memory*. Houghton Mifflin.
+1. Stanford Encyclopedia of Philosophy. Epistemological Problems of Memory. https://plato.stanford.edu/entries/memory-episprob/
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

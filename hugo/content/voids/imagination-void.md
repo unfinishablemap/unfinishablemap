@@ -130,12 +130,12 @@ From a dualist perspective, the question is whether AI has *any* imaginative acc
 
 ## References
 
-- Kind, A. (2022). "Introduction: Exploring the Limits of Imagination." *Synthese*, 200(2), 81.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
-- Hume, D. (1739/1888). *A Treatise of Human Nature*. Clarendon Press.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-- Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1–42.
-- Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In *Conceivability and Possibility*. Oxford University Press.
-- Pearson, J. (2019). "The Human Imagination: The Cognitive Neuroscience of Visual Mental Imagery." *Nature Reviews Neuroscience*, 20, 624–634.
-- Dawes, A.J. et al. (2020). "A Cognitive Profile of Multi-Sensory Imagery, Memory and Dreaming in Aphantasia." *Scientific Reports*, 10(1), 10022.
-- Langland-Hassan, P. (2025). "Inherent Constraints on Imagistic Imagination." *Philosophy and Phenomenological Research*.
+1. Kind, A. (2022). "Introduction: Exploring the Limits of Imagination." *Synthese*, 200(2), 81.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
+1. Hume, D. (1739/1888). *A Treatise of Human Nature*. Clarendon Press.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
+1. Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1–42.
+1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In *Conceivability and Possibility*. Oxford University Press.
+1. Pearson, J. (2019). "The Human Imagination: The Cognitive Neuroscience of Visual Mental Imagery." *Nature Reviews Neuroscience*, 20, 624–634.
+1. Dawes, A.J. et al. (2020). "A Cognitive Profile of Multi-Sensory Imagery, Memory and Dreaming in Aphantasia." *Scientific Reports*, 10(1), 10022.
+1. Langland-Hassan, P. (2025). "Inherent Constraints on Imagistic Imagination." *Philosophy and Phenomenological Research*.

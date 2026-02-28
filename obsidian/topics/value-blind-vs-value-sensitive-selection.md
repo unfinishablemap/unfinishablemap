@@ -156,9 +156,9 @@ The Map should eventually take a position on this fork. The graduated middle pat
 
 ## References
 
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-- Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
-- Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
-- Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
-- Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
+1. Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
+1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
+1. Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
+1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.

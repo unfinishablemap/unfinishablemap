@@ -173,9 +173,9 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) is also d
 
 ## References
 
-- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-- Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-- Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-- Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+1. Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.

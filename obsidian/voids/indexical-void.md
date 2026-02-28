@@ -116,11 +116,11 @@ The indexical void connects to the Map's [[tenets]] in a distinctive way: it par
 
 ## References
 
-- Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304–320.
-- Roberts, T. S. "The Even Harder Problem of Consciousness." CQUniversity.
-- List, C. (2024). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–.
-- Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press.
-- Nagai, H. Various works. See https://nagai.philosophy-zoo.com/en/
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5–26.
-- Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
+1. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304–320.
+1. Roberts, T. S. "The Even Harder Problem of Consciousness." CQUniversity.
+1. List, C. (2024). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–.
+1. Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press.
+1. Nagai, H. Various works. See https://nagai.philosophy-zoo.com/en/
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5–26.
+1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).

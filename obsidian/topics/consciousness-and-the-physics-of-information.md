@@ -124,9 +124,9 @@ The **No Many Worlds** tenet connects directly. Many-worlds avoids collapse by t
 
 ## References
 
-- Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183-191.
-- Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In W. Zurek (Ed.), *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42.
+1. Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183-191.
+1. Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In W. Zurek (Ed.), *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42.

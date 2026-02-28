@@ -258,16 +258,16 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 ## References
 
-- Cucu, A. C., & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *arXiv:1909.13643*.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
-- Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-- O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
-- Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
+1. Cucu, A. C., & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *arXiv:1909.13643*.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
+1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.

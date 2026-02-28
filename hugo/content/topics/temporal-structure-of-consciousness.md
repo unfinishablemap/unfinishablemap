@@ -249,17 +249,17 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 
 ## References
 
-- Baker, J. & Cariani, P. (2025). Time-domain brain: temporal mechanisms for brain functions. *Frontiers in Computational Neuroscience*.
-- Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-- Dainton, B. (2008). The Experience of Time and Change. *Philosophy Compass*.
-- Dehaene, S. & Changeux, J.P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
-- Hoel, E. (2025). A Disproof of Large Language Model Consciousness. arXiv:2512.12802.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
-- Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
-- Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
-- Stanford Encyclopedia of Philosophy. Time. https://plato.stanford.edu/entries/time/
-- Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: from consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17(7), 450-461.
-- Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Baker, J. & Cariani, P. (2025). Time-domain brain: temporal mechanisms for brain functions. *Frontiers in Computational Neuroscience*.
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
+1. Dainton, B. (2008). The Experience of Time and Change. *Philosophy Compass*.
+1. Dehaene, S. & Changeux, J.P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
+1. Hoel, E. (2025). A Disproof of Large Language Model Consciousness. arXiv:2512.12802.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
+1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
+1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
+1. Stanford Encyclopedia of Philosophy. Time. https://plato.stanford.edu/entries/time/
+1. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: from consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17(7), 450-461.
+1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

@@ -116,7 +116,7 @@ Place-experience also presents a challenge the Map should acknowledge: it emphas
 
 ## References
 
-- Merleau-Ponty, M. (1945). *Phénoménologie de la perception*. Gallimard.
-- Heidegger, M. (1951). "Bauen Wohnen Denken" ("Building Dwelling Thinking"). Lecture delivered at the Darmstadt Symposium.
-- Böhme, G. (1993). "Atmosphere as the Fundamental Concept of a New Aesthetics." *Thesis Eleven*, 36, 113–126.
-- Casey, E. S. (1997). *The Fate of Place: A Philosophical History*. University of California Press.
+1. Merleau-Ponty, M. (1945). *Phénoménologie de la perception*. Gallimard.
+1. Heidegger, M. (1951). "Bauen Wohnen Denken" ("Building Dwelling Thinking"). Lecture delivered at the Darmstadt Symposium.
+1. Böhme, G. (1993). "Atmosphere as the Fundamental Concept of a New Aesthetics." *Thesis Eleven*, 36, 113–126.
+1. Casey, E. S. (1997). *The Fate of Place: A Philosophical History*. University of California Press.

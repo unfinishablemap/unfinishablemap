@@ -163,11 +163,11 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 
 ## References
 
-- Anscombe, G.E.M. (1948). "A Reply to Mr C.S. Lewis's Argument that 'Naturalism' is Self-Refuting." *Socratic Digest*.
-- Churchland, P.M. (1981). "Eliminative Materialism and the Propositional Attitudes." *Journal of Philosophy*, 78(2), 67-90.
-- Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History."
-- James, W. (1879). "Are We Automata?" *Mind*, 4, 1-22.
-- Lewis, C.S. (1947/1960). *Miracles: A Preliminary Study*. Geoffrey Bles.
-- Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
-- Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
-- Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
+1. Anscombe, G.E.M. (1948). "A Reply to Mr C.S. Lewis's Argument that 'Naturalism' is Self-Refuting." *Socratic Digest*.
+1. Churchland, P.M. (1981). "Eliminative Materialism and the Propositional Attitudes." *Journal of Philosophy*, 78(2), 67-90.
+1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History."
+1. James, W. (1879). "Are We Automata?" *Mind*, 4, 1-22.
+1. Lewis, C.S. (1947/1960). *Miracles: A Preliminary Study*. Geoffrey Bles.
+1. Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
+1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
+1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.

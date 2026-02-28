@@ -110,9 +110,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is implicated becau
 
 ## References
 
-- Farennikova, A. (2013). "Seeing Absence." *Philosophical Studies*, 166(3), 429-454.
-- Heidegger, M. (1927/2010). *Being and Time*. Translated by J. Stambaugh. State University of New York Press.
-- Husserl, E. (1893-1917/1991). *On the Phenomenology of the Consciousness of Internal Time*. Translated by J.B. Brough. Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-- Näätänen, R., Paavilainen, P., Rinne, T., & Alho, K. (2007). "The Mismatch Negativity (MMN) in Basic Research of Central Auditory Processing." *Clinical Neurophysiology*, 118(12), 2544-2590.
-- Sartre, J.-P. (1943/1956). *Being and Nothingness*. Translated by H.E. Barnes. Philosophical Library.
+1. Farennikova, A. (2013). "Seeing Absence." *Philosophical Studies*, 166(3), 429-454.
+1. Heidegger, M. (1927/2010). *Being and Time*. Translated by J. Stambaugh. State University of New York Press.
+1. Husserl, E. (1893-1917/1991). *On the Phenomenology of the Consciousness of Internal Time*. Translated by J.B. Brough. Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Näätänen, R., Paavilainen, P., Rinne, T., & Alho, K. (2007). "The Mismatch Negativity (MMN) in Basic Research of Central Auditory Processing." *Clinical Neurophysiology*, 118(12), 2544-2590.
+1. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Translated by H.E. Barnes. Philosophical Library.

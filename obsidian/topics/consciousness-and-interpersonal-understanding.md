@@ -129,10 +129,10 @@ None of these would refute dualism directly, but they would weaken the case that
 
 ## References
 
-- Husserl, E. (1931). *Cartesian Meditations*. Kluwer Academic Publishers.
-- Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-6), 151-167.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Mead, G. H. (1934). *Mind, Self, and Society*. University of Chicago Press.
-- Stueber, K. (2006). *Rediscovering Empathy: Agency, Folk Psychology, and the Human Sciences*. MIT Press.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
-- Strawson, P. F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1-25.
+1. Husserl, E. (1931). *Cartesian Meditations*. Kluwer Academic Publishers.
+1. Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-6), 151-167.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
+1. Mead, G. H. (1934). *Mind, Self, and Society*. University of Chicago Press.
+1. Stueber, K. (2006). *Rediscovering Empathy: Agency, Folk Psychology, and the Human Sciences*. MIT Press.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Strawson, P. F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1-25.

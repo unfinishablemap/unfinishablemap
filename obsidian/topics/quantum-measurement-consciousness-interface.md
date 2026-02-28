@@ -225,13 +225,13 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 ## References
 
-- Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
-- Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889–899.
-- Okon, E., & Sebastián, M.A. (2016). How to make quantum theory compatible with human experience. *Foundations of Physics*, 46(12), 1529–1552.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
-- Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
-- Wigner, E.P. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*, ed. I.J. Good.
-- Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
+1. Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
+1. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889–899.
+1. Okon, E., & Sebastián, M.A. (2016). How to make quantum theory compatible with human experience. *Foundations of Physics*, 46(12), 1529–1552.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
+1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+1. Wigner, E.P. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*, ed. I.J. Good.
+1. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.

@@ -150,11 +150,11 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 ## References
 
-- Gallagher, S. (2000). Philosophical conceptions of the self. *Trends in Cognitive Sciences*, 4(1), 14-21.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Metzinger, T. (2020). Minimal phenomenal experience. *Philosophy and the Mind Sciences*, 1(I), 7.
-- Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
-- Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
-- Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Gallagher, S. (2000). Philosophical conceptions of the self. *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Metzinger, T. (2020). Minimal phenomenal experience. *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
+1. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
+1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

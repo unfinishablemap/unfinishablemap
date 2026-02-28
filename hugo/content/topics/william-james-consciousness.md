@@ -192,10 +192,10 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 
 ## References
 
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-- James, W. (1896). The will to believe. *The New World*, 5(18), 327-347.
-- James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
-- James, W. (1904). Does 'consciousness' exist? *Journal of Philosophy, Psychology and Scientific Methods*, 1(18), 477-491.
-- James, W. (1912). *Essays in Radical Empiricism*. Longmans, Green and Co.
-- Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. James, W. (1896). The will to believe. *The New World*, 5(18), 327-347.
+1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
+1. James, W. (1904). Does 'consciousness' exist? *Journal of Philosophy, Psychology and Scientific Methods*, 1(18), 477-491.
+1. James, W. (1912). *Essays in Radical Empiricism*. Longmans, Green and Co.
+1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.

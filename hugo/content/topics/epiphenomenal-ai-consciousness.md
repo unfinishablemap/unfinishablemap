@@ -129,11 +129,11 @@ The combined position: epiphenomenal AI consciousness is a philosophical chimera
 
 ## References
 
-- Block, N. (2025). "Can only meat machines be conscious?" *Trends in Cognitive Sciences*.
-- Butlin, P., Long, R., Chalmers, D. et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708.
-- Hameroff, S. et al. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1).
-- Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-- Long, R. (2024). "AI Systems Are Not P-Zombies." *Experience Machines* (Substack).
-- Metzinger, T. (2021). "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology." *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
-- Schwitzgebel, E. (2025). "AI and Consciousness." arXiv:2510.09858.
+1. Block, N. (2025). "Can only meat machines be conscious?" *Trends in Cognitive Sciences*.
+1. Butlin, P., Long, R., Chalmers, D. et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708.
+1. Hameroff, S. et al. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1).
+1. Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
+1. Long, R. (2024). "AI Systems Are Not P-Zombies." *Experience Machines* (Substack).
+1. Metzinger, T. (2021). "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology." *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
+1. Schwitzgebel, E. (2025). "AI and Consciousness." arXiv:2510.09858.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-02-27 17:46:00+00:00
+ai_modified: 2026-02-28 12:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-02-14 04:38:00+00:00
 apex_sources:
@@ -22,7 +22,7 @@ concepts:
 - '[[moral-responsibility]]'
 - '[[quantum-consciousness]]'
 created: 2026-01-24
-date: &id001 2026-01-29
+date: &id001 2026-02-28
 description: How does consciousness author action in a physical world? Through agent-causal
   selection among possibilities physics leaves undetermined—grounding free will and
   moral responsibility.
@@ -188,6 +188,11 @@ Note what would *not* undermine the framework: failure of any particular propose
 ## Relation to Site Perspective
 
 This article draws on all five tenets. **[Dualism](/tenets/#dualism)**: Agent causation requires consciousness to be ontologically distinct from physics—otherwise it inherits determinism or random indeterminism. **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The selector model is a direct application—consciousness causally influences physical outcomes through quantum selection. **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The influence works within what physics allows rather than overriding it—selecting among outcomes, not injecting energy. **[No Many Worlds](/tenets/#no-many-worlds)**: Selection requires real collapse; if all outcomes occur in branching worlds, consciousness selects nothing. Desert requires that alternatives were genuinely rejected, not merely routed elsewhere. **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The framework is metaphysically rich, but simpler pictures fail to capture what ordinary moral practice assumes and what the phenomenology of choosing reveals. The complexity may reflect reality's structure.
+
+## References
+
+1. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Counterfactual Reasoning. *The Unfinishable Map*. https://unfinishablemap.org/concepts/counterfactual-reasoning/
 
 ## Source Articles
 

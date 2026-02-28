@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-22 16:59:00+00:00
+ai_modified: 2026-02-28 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ concepts:
 - '[[concepts/functionalism]]'
 - '[[meta-problem-of-consciousness]]'
 created: 2026-01-14
-date: &id001 2026-02-22
+date: &id001 2026-02-28
 description: Multiple independent arguments converge on the irreducibility of consciousness.
   The case against materialism and the positive case for dualism reinforce each other
   from different angles.
@@ -193,20 +193,21 @@ The Map does not commit to substance over property dualism—both support irredu
 
 ## References
 
-- Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy. *Philosophical Studies*.
-- Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge (1995 reprint).
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-- Huemer, M. (2009). When is parsimony a virtue? *The Philosophical Quarterly*, 59(235), 216-236.
-- Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
-- Kastrup, B. (2019). *The Idea of the World*. iff Books.
-- Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
-- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
-- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
-- Sober, E. (2001). What is the problem of simplicity? In Keuzenkamp, McAleer, & Zellner (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
-- Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
-- Tegmark, M. (2000). The importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-- Zanotti, G. (2021). Physicalism and the burden of parsimony. *Synthese*, 199, 11109-11132.
+1. Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy. *Philosophical Studies*.
+1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge (1995 reprint).
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+1. Huemer, M. (2009). When is parsimony a virtue? *The Philosophical Quarterly*, 59(235), 216-236.
+1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
+1. Kastrup, B. (2019). *The Idea of the World*. iff Books.
+1. Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
+1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
+1. Sober, E. (2001). What is the problem of simplicity? In Keuzenkamp, McAleer, & Zellner (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
+1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
+1. Tegmark, M. (2000). The importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Zanotti, G. (2021). Physicalism and the burden of parsimony. *Synthese*, 199, 11109-11132.
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation/

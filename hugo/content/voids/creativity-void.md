@@ -152,14 +152,14 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 
 ## References
 
-- Poincaré, H. (1908). *Science and Method*. "Mathematical Creation."
-- Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
-- Hadamard, J. (1945). *The Psychology of Invention in the Mathematical Field*. Princeton University Press.
-- Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Section II.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- Boden, M. (2004). *The Creative Mind: Myths and Mechanisms*. 2nd ed. Routledge.
-- Jung, C.G. (1959). *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9.1.
-- Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- Ritter, S.M. & Dijksterhuis, A. (2014). "Creativity—the unconscious foundations of the incubation period." *Frontiers in Human Neuroscience*, 8(215).
-- Yeh, Y. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3423.
-- Stanford Encyclopedia of Philosophy. "Creativity." https://plato.stanford.edu/entries/creativity/
+1. Poincaré, H. (1908). *Science and Method*. "Mathematical Creation."
+1. Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
+1. Hadamard, J. (1945). *The Psychology of Invention in the Mathematical Field*. Princeton University Press.
+1. Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Section II.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Boden, M. (2004). *The Creative Mind: Myths and Mechanisms*. 2nd ed. Routledge.
+1. Jung, C.G. (1959). *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9.1.
+1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. Ritter, S.M. & Dijksterhuis, A. (2014). "Creativity—the unconscious foundations of the incubation period." *Frontiers in Human Neuroscience*, 8(215).
+1. Yeh, Y. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3423.
+1. Stanford Encyclopedia of Philosophy. "Creativity." https://plato.stanford.edu/entries/creativity/

@@ -109,6 +109,6 @@ This connects to the Map's tenet of [bidirectional interaction](/tenets/#bidirec
 
 ## References
 
-- Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- Polanyi, M. (1958). *Personal Knowledge: Towards a Post-Critical Philosophy*. University of Chicago Press.
-- Ratcliffe, M. (2008). *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*. Oxford University Press.
+1. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. Polanyi, M. (1958). *Personal Knowledge: Towards a Post-Critical Philosophy*. University of Chicago Press.
+1. Ratcliffe, M. (2008). *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*. Oxford University Press.

@@ -199,19 +199,19 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 ## References
 
-- Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
-- Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
-- Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
+1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
+1. Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
+1. Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
 
 <!-- AI REFINEMENT LOG - 2026-02-23
 Changes made:
-- Rewrote Mind-Matter Interface section: weakened conclusion from "architecturally possible" to "not conceptually incoherent," explicitly addressing why the inside/outside disanalogy matters (Issue 1, high severity)
-- Added new "Distinguishing From Cartesian Skepticism" subsection explaining structural specificity as what separates simulation from generic skeptical scenarios (Issue 2, high severity)
-- Restructured Triviality Objection into two distinct kinds of work (constructive modelling vs assumption identification) instead of four items that reduced to one (Issue 3, medium severity)
-- Foregrounded MWI-simulation tension as central question in No Many Worlds section instead of burying caveat (Issue 4, medium severity)
-- Qualified Incredulity Objection: "by definition" → conditional on computational resources
-- Added Map-perspective framing to Illusionist Challenge and illusionist counter-response
-- Language fixes: removed rhetorical italics, "conceptual room" → "logical space", "physics engine" → "simulated physical laws", "genuine philosophical work" → "specific philosophical work"
+1. Rewrote Mind-Matter Interface section: weakened conclusion from "architecturally possible" to "not conceptually incoherent," explicitly addressing why the inside/outside disanalogy matters (Issue 1, high severity)
+1. Added new "Distinguishing From Cartesian Skepticism" subsection explaining structural specificity as what separates simulation from generic skeptical scenarios (Issue 2, high severity)
+1. Restructured Triviality Objection into two distinct kinds of work (constructive modelling vs assumption identification) instead of four items that reduced to one (Issue 3, medium severity)
+1. Foregrounded MWI-simulation tension as central question in No Many Worlds section instead of burying caveat (Issue 4, medium severity)
+1. Qualified Incredulity Objection: "by definition" → conditional on computational resources
+1. Added Map-perspective framing to Illusionist Challenge and illusionist counter-response
+1. Language fixes: removed rhetorical italics, "conceptual room" → "logical space", "physics engine" → "simulated physical laws", "genuine philosophical work" → "specific philosophical work"
 
 Based on pessimistic review pessimistic-2026-02-23.md.
 Key improvements: tighter reasoning at all four critical points; explicit Cartesian skepticism distinction; honest handling of analogy limits.

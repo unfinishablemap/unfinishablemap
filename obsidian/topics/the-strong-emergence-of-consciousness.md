@@ -165,14 +165,14 @@ Affirming strong emergence is not the same as explaining it. The deeper question
 
 ## References
 
-- Alexander, S. (1920). *Space, Time, and Deity*. Macmillan.
-- Bedau, M.A. (1997). "Weak Emergence." *Philosophical Perspectives*, 11: 375-399.
-- Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
-- Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
-- Chalmers, D.J. (2006). "Strong and Weak Emergence." In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
-- Hagan, S., Hameroff, S. & Tuszynski, J. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65: 061901.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt & Company.
-- Khan, S. et al. (2024). "Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats." *eNeuro*, 11(8).
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-- O'Connor, T. & Wong, H.Y. (2005). "The Metaphysics of Emergence." *Noûs*, 39: 658-678.
-- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4): 4194-4206.
+1. Alexander, S. (1920). *Space, Time, and Deity*. Macmillan.
+1. Bedau, M.A. (1997). "Weak Emergence." *Philosophical Perspectives*, 11: 375-399.
+1. Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
+1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D.J. (2006). "Strong and Weak Emergence." In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
+1. Hagan, S., Hameroff, S. & Tuszynski, J. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65: 061901.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt & Company.
+1. Khan, S. et al. (2024). "Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats." *eNeuro*, 11(8).
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. O'Connor, T. & Wong, H.Y. (2005). "The Metaphysics of Emergence." *Noûs*, 39: 658-678.
+1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4): 4194-4206.

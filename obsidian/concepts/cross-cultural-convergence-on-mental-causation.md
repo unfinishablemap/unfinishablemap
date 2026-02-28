@@ -97,9 +97,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is also relevant. T
 
 ## References
 
-- Barrett, H.C. et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6).
-- Barlev, M. & Shtulman, A. (2021). "Minds, Bodies, Spirits, and Gods: Does Widespread Belief in Disembodied Beings Imply That We Are Innate Dualists?" *Psychological Review*, 128(6): 1007-1021.
-- Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.
-- Larson, G.J. & Bhattacharya, R.S. (2014). *Encyclopaedia of Indian Philosophies, Vol. IV: Sāṃkhya*. Motilal Banarsidass.
+1. Barrett, H.C. et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6).
+1. Barlev, M. & Shtulman, A. (2021). "Minds, Bodies, Spirits, and Gods: Does Widespread Belief in Disembodied Beings Imply That We Are Innate Dualists?" *Psychological Review*, 128(6): 1007-1021.
+1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.
+1. Larson, G.J. & Bhattacharya, R.S. (2014). *Encyclopaedia of Indian Philosophies, Vol. IV: Sāṃkhya*. Motilal Banarsidass.

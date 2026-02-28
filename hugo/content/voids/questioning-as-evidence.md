@@ -174,14 +174,14 @@ The Map's voids framework recognises that we are beings who can conceive of thei
 
 <!-- AI REFINEMENT LOG - 2026-02-25
 Changes made:
-- Added "Why Observer Selection Falls Short" section engaging seriously with anthropic reasoning as the strongest counter to the thesis
-- Added "The Evidential Argument" section developing the actual argument: conceiving cognitive absence requires a vantage point irreducible to the processes surveyed, favouring dualism
-- Fixed self-undermining phenomenology: "may be illusory" concession now addressed head-on with argument for why felt significance tracks something genuine
-- Rewrote No Many Worlds connection: acknowledges MWI preserves phenomenological singularity, argues from evidential weight rather than conflating experiential and ontological singularity
-- Qualified Chomsky extension: explicitly distinguishes Chomsky's claim (questioning reveals cognitive architecture) from the Map's extension (architecture reveals something about consciousness)
-- Replaced Dunning-Kruger as primary authority with McGinn's cognitive closure (purpose-built for this argument), Dunning-Kruger kept as qualified analogy
-- Fixed style guide violation: removed "This is not X" construct (line 34)
-- Language fixes: "certainty" → "starting observation", removed "radically", "design" → "structure", resolved hedge inconsistency in opening
+1. Added "Why Observer Selection Falls Short" section engaging seriously with anthropic reasoning as the strongest counter to the thesis
+1. Added "The Evidential Argument" section developing the actual argument: conceiving cognitive absence requires a vantage point irreducible to the processes surveyed, favouring dualism
+1. Fixed self-undermining phenomenology: "may be illusory" concession now addressed head-on with argument for why felt significance tracks something genuine
+1. Rewrote No Many Worlds connection: acknowledges MWI preserves phenomenological singularity, argues from evidential weight rather than conflating experiential and ontological singularity
+1. Qualified Chomsky extension: explicitly distinguishes Chomsky's claim (questioning reveals cognitive architecture) from the Map's extension (architecture reveals something about consciousness)
+1. Replaced Dunning-Kruger as primary authority with McGinn's cognitive closure (purpose-built for this argument), Dunning-Kruger kept as qualified analogy
+1. Fixed style guide violation: removed "This is not X" construct (line 34)
+1. Language fixes: "certainty" → "starting observation", removed "radically", "design" → "structure", resolved hedge inconsistency in opening
 
 Based on pessimistic review (pessimistic-2026-02-25-questioning-as-evidence.md).
 Key improvements: article now actually argues its thesis rather than merely asserting it.

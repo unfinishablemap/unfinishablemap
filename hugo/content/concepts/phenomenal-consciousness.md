@@ -159,13 +159,13 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 
 ## References
 
-- Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*.
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*.
-- Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *The Philosophical Quarterly*.
-- Loar, B. (1990/1997). "Phenomenal States." In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*.
-- Lewis, C. S. (1947). *Miracles*. Geoffrey Bles. (Revised 1960 after Anscombe's critique.)
+1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*.
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*.
+1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *The Philosophical Quarterly*.
+1. Loar, B. (1990/1997). "Phenomenal States." In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*.
+1. Lewis, C. S. (1947). *Miracles*. Geoffrey Bles. (Revised 1960 after Anscombe's critique.)

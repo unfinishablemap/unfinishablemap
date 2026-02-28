@@ -249,14 +249,14 @@ The Map goes further than mysterianism in making specific commitments—but pres
 
 ## References
 
-- Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
-- Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly*, 59(235), 216-236.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-- McGinn, C. (1993). *Problems in Philosophy: The Limits of Inquiry*. Blackwell.
-- McGinn, C. (1999). *The Mysterious Flame: Conscious Minds in a Material World*. Basic Books.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+1. Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly*, 59(235), 216-236.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+1. McGinn, C. (1993). *Problems in Philosophy: The Limits of Inquiry*. Blackwell.
+1. McGinn, C. (1999). *The Mysterious Flame: Conscious Minds in a Material World*. Basic Books.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
+1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

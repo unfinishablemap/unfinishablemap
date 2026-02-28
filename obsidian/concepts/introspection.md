@@ -179,27 +179,27 @@ This matters for consciousness science. If we restricted inquiry to third-person
 
 ## References
 
-- Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge.
-- Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
-- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Johansson, P., et al. (2005). Failure to detect mismatches between intention and outcome. *Science*, 310(5745), 116-119.
-- Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
-- Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
-- Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-- Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy*.
-- Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-- Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-- Velmans, M. (2007). Heterophenomenology versus critical phenomenology. *Phenomenology and the Cognitive Sciences*, 6(1), 221-230.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge.
+1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
+1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Johansson, P., et al. (2005). Failure to detect mismatches between intention and outcome. *Science*, 310(5745), 116-119.
+1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
+1. Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy*.
+1. Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Velmans, M. (2007). Heterophenomenology versus critical phenomenology. *Phenomenology and the Cognitive Sciences*, 6(1), 221-230.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 
 <!-- AI REFINEMENT LOG - 2026-02-25
 Changes made:
-- Fixed causal language around Fox et al. (2012): cross-sectional study was described with causal claims ("training dramatically improves accuracy"). Added explicit self-selection caveat and softened language throughout (opening, training section, tenet section, conclusion).
-- Acknowledged circularity of microphenomenology's "performative coherence" criterion: determining "actual texture of lived experience" presupposes the introspective access under evaluation. Clarified contribution is procedural, not foundational.
-- Language: "fiercely contested" → "widely contested"; "cuts deeper" → "poses a more fundamental challenge"
+1. Fixed causal language around Fox et al. (2012): cross-sectional study was described with causal claims ("training dramatically improves accuracy"). Added explicit self-selection caveat and softened language throughout (opening, training section, tenet section, conclusion).
+1. Acknowledged circularity of microphenomenology's "performative coherence" criterion: determining "actual texture of lived experience" presupposes the introspective access under evaluation. Clarified contribution is procedural, not foundational.
+1. Language: "fiercely contested" → "widely contested"; "cuts deeper" → "poses a more fundamental challenge"
 
 Based on pessimistic review 2026-02-24-evening (medium severity issues).
 Key improvements: epistemic accuracy of empirical claims, intellectual honesty about methodological limitations.

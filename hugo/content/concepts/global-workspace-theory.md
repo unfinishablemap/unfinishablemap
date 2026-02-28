@@ -273,12 +273,12 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 
 ## References
 
-- Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-- Bayne, T., & Chalmers, D. J. (2010). The Unity of Consciousness. *The Oxford Handbook of Philosophy of Mind*.
-- Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
-- COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
-- Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.
-- Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
-- Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
-- Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
-- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+1. Bayne, T., & Chalmers, D. J. (2010). The Unity of Consciousness. *The Oxford Handbook of Philosophy of Mind*.
+1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
+1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+1. Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.
+1. Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
+1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
+1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

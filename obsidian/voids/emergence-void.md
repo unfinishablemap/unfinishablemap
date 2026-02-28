@@ -121,11 +121,11 @@ The hard problem, reframed through the emergence void, is not a puzzle unique to
 
 ## References
 
-- Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
-- Chalmers, D.J. (2016). "The Combination Problem for Panpsychism." In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
-- James, W. (1890/1981). *The Principles of Psychology*. Harvard University Press.
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98: 349-366.
-- Van Inwagen, P. (1990). *Material Beings*. Cornell University Press.
-- Stanford Encyclopedia of Philosophy. "Emergent Properties." https://plato.stanford.edu/entries/properties-emergent/
-- Internet Encyclopedia of Philosophy. "Emergence." https://iep.utm.edu/emergence/
+1. Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
+1. Chalmers, D.J. (2016). "The Combination Problem for Panpsychism." In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
+1. James, W. (1890/1981). *The Principles of Psychology*. Harvard University Press.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98: 349-366.
+1. Van Inwagen, P. (1990). *Material Beings*. Cornell University Press.
+1. Stanford Encyclopedia of Philosophy. "Emergent Properties." https://plato.stanford.edu/entries/properties-emergent/
+1. Internet Encyclopedia of Philosophy. "Emergence." https://iep.utm.edu/emergence/

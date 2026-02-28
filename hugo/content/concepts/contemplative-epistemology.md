@@ -167,17 +167,17 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 ## References
 
-- Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General*, 143(5), 1972-1979.
-- Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
-- Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Hagerty, M. R., et al. (2013). Case study of ecstatic meditation: fMRI and EEG evidence of self-stimulating a reward system. *Neural Plasticity*, 2013, 653572.
-- Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
-- Kok, B. E., & Singer, T. (2017). Phenomenological fingerprints of four meditations. *Mindfulness*, 8(1), 218-231.
-- Lindahl, J. R., et al. (2017). The varieties of contemplative experience. *PLOS One*, 12(5), e0176239.
-- Milicevic, A., et al. (2025). Consciousness, mindfulness, and introspection: integrating first- and second-person phenomenological inquiry with experimental and EEG data. *Frontiers in Psychology*, 16, 1558453.
-- Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
-- Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-- Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-- Velmans, M. (2007). Heterophenomenology versus critical phenomenology. *Phenomenology and the Cognitive Sciences*, 6(1), 221-230.
+1. Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General*, 143(5), 1972-1979.
+1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
+1. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Hagerty, M. R., et al. (2013). Case study of ecstatic meditation: fMRI and EEG evidence of self-stimulating a reward system. *Neural Plasticity*, 2013, 653572.
+1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
+1. Kok, B. E., & Singer, T. (2017). Phenomenological fingerprints of four meditations. *Mindfulness*, 8(1), 218-231.
+1. Lindahl, J. R., et al. (2017). The varieties of contemplative experience. *PLOS One*, 12(5), e0176239.
+1. Milicevic, A., et al. (2025). Consciousness, mindfulness, and introspection: integrating first- and second-person phenomenological inquiry with experimental and EEG data. *Frontiers in Psychology*, 16, 1558453.
+1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Velmans, M. (2007). Heterophenomenology versus critical phenomenology. *Phenomenology and the Cognitive Sciences*, 6(1), 221-230.

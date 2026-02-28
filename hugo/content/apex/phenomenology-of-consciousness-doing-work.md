@@ -168,23 +168,23 @@ This apex article synthesises:
 
 ## References
 
-- Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
-- Driskell, J. E., Copper, C. & Moran, A. (1994). Does mental practice enhance performance? *Journal of Applied Psychology*, 79(4), 481-492.
-- Feltz, D. L. & Landers, D. M. (1983). The effects of mental practice on motor skill learning and performance: A meta-analysis. *Journal of Sport Psychology*, 5(1), 25-57.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
-- Markus, H. R. & Kitayama, S. (1991). Culture and the Self: Implications for Cognition, Emotion, and Motivation. *Psychological Review*, 98(2), 224-253.
-- Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
+1. Driskell, J. E., Copper, C. & Moran, A. (1994). Does mental practice enhance performance? *Journal of Applied Psychology*, 79(4), 481-492.
+1. Feltz, D. L. & Landers, D. M. (1983). The effects of mental practice on motor skill learning and performance: A meta-analysis. *Journal of Sport Psychology*, 5(1), 25-57.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Markus, H. R. & Kitayama, S. (1991). Culture and the Self: Implications for Cognition, Emotion, and Motivation. *Psychological Review*, 98(2), 224-253.
+1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 
 <!-- AI REFINEMENT LOG - 2026-02-23
 Changes made:
-- Replaced bare assertion that epiphenomenalism predicts no structured phenomenology with explicit argument about tracking (opening paragraph, effort section, synthesis)
-- Replaced uncited "effect sizes of 0.4-0.7" with properly cited meta-analysis references (Driskell et al. 1994, Feltz & Landers 1983)
-- Toned down "among the strongest reasons" → "significant evidence"
-- Replaced "inexplicable coincidence" → "regularity requiring independent explanation"
-- Replaced "one of the most concrete demonstrations" → "a concrete demonstration"
-- Strengthened epiphenomenalism counterargument: now explains why tracking is the problem, not mere existence of phenomenology
+1. Replaced bare assertion that epiphenomenalism predicts no structured phenomenology with explicit argument about tracking (opening paragraph, effort section, synthesis)
+1. Replaced uncited "effect sizes of 0.4-0.7" with properly cited meta-analysis references (Driskell et al. 1994, Feltz & Landers 1983)
+1. Toned down "among the strongest reasons" → "significant evidence"
+1. Replaced "inexplicable coincidence" → "regularity requiring independent explanation"
+1. Replaced "one of the most concrete demonstrations" → "a concrete demonstration"
+1. Strengthened epiphenomenalism counterargument: now explains why tracking is the problem, not mere existence of phenomenology
 
 Based on pessimistic review 2026-02-23 afternoon.
 Key improvements: Core argument now addresses the strongest physicalist objection (brain generates phenomenology regardless) rather than assuming it away.

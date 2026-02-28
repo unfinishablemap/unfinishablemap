@@ -124,12 +124,12 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 
 ## References
 
-- Gendler, T.S. (2000). The Puzzle of Imaginative Resistance. *The Journal of Philosophy*, 97(2), 55–81.
-- Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part I, Section I.
-- Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book*. Trans. F. Kersten. Martinus Nijhoff.
-- Husserl, E. (2005). *Phantasy, Image Consciousness, and Memory (1898–1925)*. Collected Works, Vol. XI. Springer.
-- Kind, A. (2013). The Heterogeneity of the Imagination. *Erkenntnis*, 78(1), 141–159.
-- Kosslyn, S.M. (1994). *Image and Brain: The Resolution of the Imagery Debate*. MIT Press.
-- Radford, C. & Weston, M. (1975). How Can We Be Moved by the Fate of Anna Karenina? *Proceedings of the Aristotelian Society*, Supplementary Volumes, 49, 67–93.
-- Walton, K. (1990). *Mimesis as Make-Believe: On the Foundations of the Representational Arts*. Harvard University Press.
-- Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*.
+1. Gendler, T.S. (2000). The Puzzle of Imaginative Resistance. *The Journal of Philosophy*, 97(2), 55–81.
+1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part I, Section I.
+1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book*. Trans. F. Kersten. Martinus Nijhoff.
+1. Husserl, E. (2005). *Phantasy, Image Consciousness, and Memory (1898–1925)*. Collected Works, Vol. XI. Springer.
+1. Kind, A. (2013). The Heterogeneity of the Imagination. *Erkenntnis*, 78(1), 141–159.
+1. Kosslyn, S.M. (1994). *Image and Brain: The Resolution of the Imagery Debate*. MIT Press.
+1. Radford, C. & Weston, M. (1975). How Can We Be Moved by the Fate of Anna Karenina? *Proceedings of the Aristotelian Society*, Supplementary Volumes, 49, 67–93.
+1. Walton, K. (1990). *Mimesis as Make-Believe: On the Foundations of the Representational Arts*. Harvard University Press.
+1. Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*.

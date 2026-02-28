@@ -94,13 +94,13 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant here: t
 
 ## References
 
-- Atkins, C., et al. (2024). "Quantum Zeno effect explains magnetic-field-dependent radical-pair reactions in cryptochrome." *Nature Communications*.
-- Fisher, M.P.A. (2015). "Quantum cognition: The possibility of processing with nuclear spins in the brain." *Annals of Physics*, 362, 593-602.
-- Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
-- Hameroff, S., & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
-- Libet, B. (1983). "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential)." *Brain*, 106(3), 623-642.
-- Perry, A.L. (2025). "Quantum coherence in neural microtubules: A refined & testable framework for understanding gamma oscillation generation." *SSRN* (preprint).
-- Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). "Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention." *Cerebral Cortex*, 29(7), 2832-2843.
-- Swift, M. W., Van de Walle, C. G., & Fisher, M.P.A. (2018). "Posner molecules: From atomic structure to nuclear spins." *Physical Chemistry Chemical Physics*, 20(18), 12373-12380.
-- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
-- Thura, D., & Cisek, P. (2014). "Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making." *Neuron*, 81(6), 1401-1416.
+1. Atkins, C., et al. (2024). "Quantum Zeno effect explains magnetic-field-dependent radical-pair reactions in cryptochrome." *Nature Communications*.
+1. Fisher, M.P.A. (2015). "Quantum cognition: The possibility of processing with nuclear spins in the brain." *Annals of Physics*, 362, 593-602.
+1. Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
+1. Hameroff, S., & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
+1. Libet, B. (1983). "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential)." *Brain*, 106(3), 623-642.
+1. Perry, A.L. (2025). "Quantum coherence in neural microtubules: A refined & testable framework for understanding gamma oscillation generation." *SSRN* (preprint).
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). "Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention." *Cerebral Cortex*, 29(7), 2832-2843.
+1. Swift, M. W., Van de Walle, C. G., & Fisher, M.P.A. (2018). "Posner molecules: From atomic structure to nuclear spins." *Physical Chemistry Chemical Physics*, 20(18), 12373-12380.
+1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
+1. Thura, D., & Cisek, P. (2014). "Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making." *Neuron*, 81(6), 1401-1416.

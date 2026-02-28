@@ -180,12 +180,12 @@ The existentialist-dualist alignment would face difficulty if:
 
 ## References
 
-- Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
-- Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
-- Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
-- Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
-- Kierkegaard, S. (1843). *Either/Or*.
-- Camus, A. (1942). *The Myth of Sisyphus*.
-- Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
+1. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
+1. Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
+1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
+1. Kierkegaard, S. (1843). *Either/Or*.
+1. Camus, A. (1942). *The Myth of Sisyphus*.
+1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

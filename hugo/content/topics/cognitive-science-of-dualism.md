@@ -111,10 +111,10 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives perhaps th
 
 ## References
 
-- Barrett, H. C., et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6), e12992.
-- Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods." *Psychological Review*, 128, 1007-1021.
-- Bloom, P. (2004). *Descartes' Baby*. Basic Books.
-- Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
-- Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181-204.
-- Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Barrett, H. C., et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6), e12992.
+1. Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods." *Psychological Review*, 128, 1007-1021.
+1. Bloom, P. (2004). *Descartes' Baby*. Basic Books.
+1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+1. Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181-204.
+1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.

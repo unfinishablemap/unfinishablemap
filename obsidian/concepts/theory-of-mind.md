@@ -224,11 +224,11 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 
 ## References
 
-- Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
-- Call, J., & Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. *Trends in Cognitive Sciences*, 12(5), 187-192.
-- Heyes, C. (2014). Submentalizing: I am not really reading your mind. *Perspectives on Psychological Science*, 9(2), 131-143.
-- Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
-- Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? *Behavioral and Brain Sciences*, 1(4), 515-526.
-- Saxe, R., & Kanwisher, N. (2003). People thinking about thinking people: The role of the temporo-parietal junction in "theory of mind". *NeuroImage*, 19(4), 1835-1842.
-- Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
-- Wellman, H.M. (2014). *Making Minds: How Theory of Mind Develops*. Oxford University Press.
+1. Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
+1. Call, J., & Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. *Trends in Cognitive Sciences*, 12(5), 187-192.
+1. Heyes, C. (2014). Submentalizing: I am not really reading your mind. *Perspectives on Psychological Science*, 9(2), 131-143.
+1. Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
+1. Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? *Behavioral and Brain Sciences*, 1(4), 515-526.
+1. Saxe, R., & Kanwisher, N. (2003). People thinking about thinking people: The role of the temporo-parietal junction in "theory of mind". *NeuroImage*, 19(4), 1835-1842.
+1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
+1. Wellman, H.M. (2014). *Making Minds: How Theory of Mind Develops*. Oxford University Press.

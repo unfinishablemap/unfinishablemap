@@ -155,8 +155,8 @@ The vertiginous question connects to all five tenets:
 
 ## References
 
-- Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-- Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
-- List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
-- Roberts, T. S. (2017). "The Even Harder Problem of Consciousness."
-- Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
+1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
+1. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
+1. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
+1. Roberts, T. S. (2017). "The Even Harder Problem of Consciousness."
+1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).

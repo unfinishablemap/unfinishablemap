@@ -120,10 +120,10 @@ Moral perception connects to the Map's [[tenets|foundational commitments]] at se
 
 ## References
 
-- Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
-- Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-- Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-- Weil, S. (1947). *Gravity and Grace*. Routledge.
-- Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.
-- McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331-350.
+1. Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
+1. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+1. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+1. Weil, S. (1947). *Gravity and Grace*. Routledge.
+1. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.
+1. McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331-350.

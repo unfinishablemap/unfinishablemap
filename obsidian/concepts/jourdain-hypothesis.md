@@ -212,7 +212,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 
 ## References
 
-- Molière (1670). *Le Bourgeois Gentilhomme*.
-- Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
-- Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Molière (1670). *Le Bourgeois Gentilhomme*.
+1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
+1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

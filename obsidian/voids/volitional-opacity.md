@@ -156,13 +156,13 @@ None of these conditions has been met. Four centuries of philosophy, decades of 
 
 ## References
 
-- Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
-- Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-- Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- Nisbett, R. E., & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
-- Strawson, G. (1986). *Freedom and Belief*. Oxford University Press.
-- Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*, 11(5), 543-545.
-- Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome in a simple decision task." *Science*, 310(5745), 116-119.
-- Kriegel, U. (2015). *The Varieties of Consciousness*. Oxford University Press.
+1. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
+1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Nisbett, R. E., & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
+1. Strawson, G. (1986). *Freedom and Belief*. Oxford University Press.
+1. Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*, 11(5), 543-545.
+1. Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome in a simple decision task." *Science*, 310(5745), 116-119.
+1. Kriegel, U. (2015). *The Varieties of Consciousness*. Oxford University Press.

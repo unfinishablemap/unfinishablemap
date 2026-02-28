@@ -151,18 +151,18 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 
 ## References
 
-- Chalmers, D. J. (2015). Panpsychism and Panprotopsychism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World*. Oxford University Press.
-- Chalmers, D. J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
-- Coleman, S. (2014). The Real Combination Problem: Panpsychism, Micro-Subjects, and Emergence. *Erkenntnis*, 79, 19-44.
-- Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Lewtas, P. (2017). Building Minds: Solving the Combination Problem. *Inquiry*, 60(7), 742-781.
-- Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism*. Oxford University Press.
-- Maxwell, G. (1979). Rigid Designators and Mind-Brain Identity. *Minnesota Studies in the Philosophy of Science*, 9, 365-403.
-- Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31, 165-176.
-- Morch, H. H. (2018). Panpsychism and Causation: A New Argument and a Solution to the Combination Problem. In W. Seager (Ed.), *The Routledge Handbook of Panpsychism*. Routledge.
-- Roelofs, L. (2019). *Combining Minds: How to Think about Composite Subjectivity*. Oxford University Press.
-- Seager, W. (2016). Panpsychist Infusion. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
-- Stoljar, D. (2001). Two Conceptions of the Physical. *Philosophy and Phenomenological Research*, 62(2), 253-281.
-- Shani, I. (2015). Cosmopsychism: A Holistic Approach to the Metaphysics of Experience. *Philosophical Papers*, 44(3), 389-437.
-- Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
+1. Chalmers, D. J. (2015). Panpsychism and Panprotopsychism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World*. Oxford University Press.
+1. Chalmers, D. J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
+1. Coleman, S. (2014). The Real Combination Problem: Panpsychism, Micro-Subjects, and Emergence. *Erkenntnis*, 79, 19-44.
+1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Lewtas, P. (2017). Building Minds: Solving the Combination Problem. *Inquiry*, 60(7), 742-781.
+1. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism*. Oxford University Press.
+1. Maxwell, G. (1979). Rigid Designators and Mind-Brain Identity. *Minnesota Studies in the Philosophy of Science*, 9, 365-403.
+1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31, 165-176.
+1. Morch, H. H. (2018). Panpsychism and Causation: A New Argument and a Solution to the Combination Problem. In W. Seager (Ed.), *The Routledge Handbook of Panpsychism*. Routledge.
+1. Roelofs, L. (2019). *Combining Minds: How to Think about Composite Subjectivity*. Oxford University Press.
+1. Seager, W. (2016). Panpsychist Infusion. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
+1. Stoljar, D. (2001). Two Conceptions of the Physical. *Philosophy and Phenomenological Research*, 62(2), 253-281.
+1. Shani, I. (2015). Cosmopsychism: A Holistic Approach to the Metaphysics of Experience. *Philosophical Papers*, 44(3), 389-437.
+1. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.

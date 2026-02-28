@@ -146,14 +146,14 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains 
 
 ## References
 
-- Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
-- Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Huemer, M. (2001). *Skepticism and the Veil of Perception*. Rowman & Littlefield.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-- Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
-- Lutz, A., Dor-Ziderman, Y., & Garrison, K. A. (2025). Consciousness, mindfulness, and introspection. *Frontiers in Psychology*, 16, 1558453.
-- Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
-- Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-- Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy* (Fall 2024 Edition).
-- Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-- Velmans, M. (2007). Heterophenomenology versus critical phenomenology. *Phenomenology and the Cognitive Sciences*, 6(1), 221-230.
+1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+1. Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Huemer, M. (2001). *Skepticism and the Veil of Perception*. Rowman & Littlefield.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
+1. Lutz, A., Dor-Ziderman, Y., & Garrison, K. A. (2025). Consciousness, mindfulness, and introspection. *Frontiers in Psychology*, 16, 1558453.
+1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy* (Fall 2024 Edition).
+1. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Velmans, M. (2007). Heterophenomenology versus critical phenomenology. *Phenomenology and the Cognitive Sciences*, 6(1), 221-230.

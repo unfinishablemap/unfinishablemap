@@ -196,29 +196,29 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 
 ## References
 
-- Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
-- Davidson, R. J., et al. (2012). Contemplative practices and mental training: Prospects for American education. *Child Development Perspectives*, 6(2), 146-153.
-- Demir, U., Yang, W. F. Z., & Sacchet, M. D. (2025). Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain: 7T MRI and phenomenology case study of jhana meditation. *Cerebral Cortex*, 35(4), bhaf079.
-- Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Lazar, S. W., et al. (2005). Meditation experience is associated with increased cortical thickness. *Neuroreport*, 16(17), 1893-1897.
-- Lutz, A., & Thompson, E. (2003). Neurophenomenology: Integrating subjective experience and brain dynamics. *Journal of Consciousness Studies*, 10(9-10), 31-52.
-- Lutz, A., et al. (2020). The hitchhiker's guide to neurophenomenology. *Frontiers in Psychology*, 11, 1680.
-- MacLean, K. A., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, 21(6), 829-839.
-- Parkinson, T. D., et al. (2022). Mindfulness meditation increases default mode, salience, and central executive network connectivity. *Scientific Reports*, 12, 13219.
-- Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-- Weng, H. Y., et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
+1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
+1. Davidson, R. J., et al. (2012). Contemplative practices and mental training: Prospects for American education. *Child Development Perspectives*, 6(2), 146-153.
+1. Demir, U., Yang, W. F. Z., & Sacchet, M. D. (2025). Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain: 7T MRI and phenomenology case study of jhana meditation. *Cerebral Cortex*, 35(4), bhaf079.
+1. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Lazar, S. W., et al. (2005). Meditation experience is associated with increased cortical thickness. *Neuroreport*, 16(17), 1893-1897.
+1. Lutz, A., & Thompson, E. (2003). Neurophenomenology: Integrating subjective experience and brain dynamics. *Journal of Consciousness Studies*, 10(9-10), 31-52.
+1. Lutz, A., et al. (2020). The hitchhiker's guide to neurophenomenology. *Frontiers in Psychology*, 11, 1680.
+1. MacLean, K. A., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, 21(6), 829-839.
+1. Parkinson, T. D., et al. (2022). Mindfulness meditation increases default mode, salience, and central executive network connectivity. *Scientific Reports*, 12, 13219.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Weng, H. Y., et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
 
 <!-- AI REFINEMENT LOG - 2026-02-22
 Changes made:
-- Removed premature causal efficacy thesis from Attentional Trainability section (physicalists accept causal efficacy equally)
-- Added qualification paragraph to Evidence Against Epiphenomenalism clarifying it eliminates epiph but is neutral between physicalism and dualism
-- Fixed eliminability non-sequitur in Evidence Against Reductive Materialism: replaced false claim ("first-person training would be eliminable") with explanatory gap argument about non-redundancy of first-person methods
-- Renamed "Evidence for Interactionism" to "Bidirectional Causation" and reframed to honestly acknowledge physicalists accept this evidence too
-- Added selection bias acknowledgment to Where Convergence Fails section
-- Fixed Bidirectional Interaction tenet section to acknowledge physicalists accept bidirectional causation
-- Strengthened cessation dissociation qualification (methodological weaknesses made explicit)
+1. Removed premature causal efficacy thesis from Attentional Trainability section (physicalists accept causal efficacy equally)
+1. Added qualification paragraph to Evidence Against Epiphenomenalism clarifying it eliminates epiph but is neutral between physicalism and dualism
+1. Fixed eliminability non-sequitur in Evidence Against Reductive Materialism: replaced false claim ("first-person training would be eliminable") with explanatory gap argument about non-redundancy of first-person methods
+1. Renamed "Evidence for Interactionism" to "Bidirectional Causation" and reframed to honestly acknowledge physicalists accept this evidence too
+1. Added selection bias acknowledgment to Where Convergence Fails section
+1. Fixed Bidirectional Interaction tenet section to acknowledge physicalists accept bidirectional causation
+1. Strengthened cessation dissociation qualification (methodological weaknesses made explicit)
 
 Based on pessimistic review findings (2 high-severity, 2 medium-severity issues).
 Key improvements: Article no longer conflates causal efficacy (common ground) with non-physical causation (dualist claim), and no longer contains the eliminability non-sequitur.

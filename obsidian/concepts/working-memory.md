@@ -203,18 +203,18 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 
 ## References
 
-- Baddeley, A.D. & Hitch, G.J. (1974). Working memory. *Psychology of Learning and Motivation*, 8, 47-89.
-- Baddeley, A.D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
-- Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-- Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation [On the phylogeny of human motivation]. In L.H. Eckensberger & E.D. Lantermann (Eds.), *Emotion und Reflexivität* (pp. 3-47). Urban & Schwarzenberg.
-- Hitch, G.J., Allen, R.J., & Baddeley, A.D. (2025). The multicomponent model of working memory fifty years on. *Quarterly Journal of Experimental Psychology*.
-- Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
-- Lieberman, M.D. et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
-- Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
-- Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
-- Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
-- Soto, D., Mäntylä, T., & Silvanto, J. (2011). Working memory without consciousness. *Current Biology*, 21(22), R912-R913.
-- Stokes, M.G. (2015). 'Activity-silent' working memory in prefrontal cortex: A dynamic coding framework. *Trends in Cognitive Sciences*, 19(7), 394-405.
-- Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
-- Trübutschek, D., Marti, S., Ueberschär, H., & Dehaene, S. (2019). Probing the limits of activity-silent non-conscious working memory. *Proceedings of the National Academy of Sciences*, 116(28), 14358-14367.
-- Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.
+1. Baddeley, A.D. & Hitch, G.J. (1974). Working memory. *Psychology of Learning and Motivation*, 8, 47-89.
+1. Baddeley, A.D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
+1. Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+1. Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation [On the phylogeny of human motivation]. In L.H. Eckensberger & E.D. Lantermann (Eds.), *Emotion und Reflexivität* (pp. 3-47). Urban & Schwarzenberg.
+1. Hitch, G.J., Allen, R.J., & Baddeley, A.D. (2025). The multicomponent model of working memory fifty years on. *Quarterly Journal of Experimental Psychology*.
+1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
+1. Lieberman, M.D. et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
+1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
+1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
+1. Soto, D., Mäntylä, T., & Silvanto, J. (2011). Working memory without consciousness. *Current Biology*, 21(22), R912-R913.
+1. Stokes, M.G. (2015). 'Activity-silent' working memory in prefrontal cortex: A dynamic coding framework. *Trends in Cognitive Sciences*, 19(7), 394-405.
+1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+1. Trübutschek, D., Marti, S., Ueberschär, H., & Dehaene, S. (2019). Probing the limits of activity-silent non-conscious working memory. *Proceedings of the National Academy of Sciences*, 116(28), 14358-14367.
+1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.

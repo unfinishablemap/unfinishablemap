@@ -168,27 +168,27 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 
 ## References
 
-- Adamson, P. (2016). "What can Avicenna teach us about the mind-body problem?" *Aeon*.
-- Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
-- Coseru, C. (2012). *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*. Oxford University Press.
-- Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
-- Ibn Sīnā. *De Anima* (Kitāb al-Nafs). Various translations.
-- Nishida, K. (1911). *An Inquiry Into the Good*. Trans. M. Abe and C. Ives. Yale University Press, 1990.
-- O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, Cambridge University Press.
-- Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
-- Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+1. Adamson, P. (2016). "What can Avicenna teach us about the mind-body problem?" *Aeon*.
+1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
+1. Coseru, C. (2012). *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*. Oxford University Press.
+1. Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
+1. Ibn Sīnā. *De Anima* (Kitāb al-Nafs). Various translations.
+1. Nishida, K. (1911). *An Inquiry Into the Good*. Trans. M. Abe and C. Ives. Yale University Press, 1990.
+1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, Cambridge University Press.
+1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
+1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 
 <!-- AI REFINEMENT LOG - 2026-02-15
 Changes made:
-- Rewrote Chinese Philosophy section to engage seriously with framework-dependence challenge instead of dismissing it as "avoiding the question"
-- Removed unattributed quotation ("There is no reduction but holistic correlation...") — replaced with paraphrase
-- Removed unverifiable Wang Yangming quotation
-- Weakened opening paragraph: "is itself evidence" → "is significant", added Chinese counter-example upfront
-- Weakened convergence argument section: acknowledged Chinese exception explicitly, qualified convergence as partial
-- Weakened Sāṃkhya-quantum analogy: "structurally analogous" → "shares a thematic concern", acknowledged structural differences
-- Toned down overclaiming: "directly addresses" → "speaks to", "directly targets" → "bears on"
-- Expanded "What Would Challenge This View?" section with Empiricist objection, cognitive bias argument, and framework-dependence as strongest challenge
-- Updated description to reflect more nuanced treatment
+1. Rewrote Chinese Philosophy section to engage seriously with framework-dependence challenge instead of dismissing it as "avoiding the question"
+1. Removed unattributed quotation ("There is no reduction but holistic correlation...") — replaced with paraphrase
+1. Removed unverifiable Wang Yangming quotation
+1. Weakened opening paragraph: "is itself evidence" → "is significant", added Chinese counter-example upfront
+1. Weakened convergence argument section: acknowledged Chinese exception explicitly, qualified convergence as partial
+1. Weakened Sāṃkhya-quantum analogy: "structurally analogous" → "shares a thematic concern", acknowledged structural differences
+1. Toned down overclaiming: "directly addresses" → "speaks to", "directly targets" → "bears on"
+1. Expanded "What Would Challenge This View?" section with Empiricist objection, cognitive bias argument, and framework-dependence as strongest challenge
+1. Updated description to reflect more nuanced treatment
 
 Based on pessimistic-2026-02-14.md review (Issues 3, 5, plus language improvements).
 Key improvements: Intellectual honesty about limits of convergence argument; serious engagement with Chinese counter-example.

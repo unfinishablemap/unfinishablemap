@@ -124,16 +124,16 @@ The cross-cultural convergence on the interaction problem—and the diversity of
 
 ## References
 
-- Īśvarakṛṣṇa. *Sāṃkhyakārikā* (c. 350–450 CE). See IEP, "Sankhya": https://iep.utm.edu/sankhya/
-- "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press, 2023.
-- *Mirror of Nature, Mirror of Self: Models of Consciousness in Samkhya, Yoga, and Advaita Vedanta*. Oxford Academic, 2023.
-- Stanford Encyclopedia of Philosophy, "Nyaya": https://plato.stanford.edu/entries/nyaya/
-- Jamali, M., Golshani, M., and Jamali, Y. "Avicenna's Ideas and Arguments about Mind and Brain Interaction." *Preprints.org*, 2019. https://www.preprints.org/manuscript/201906.0050
-- Stanford Encyclopedia of Philosophy, "Ibn Sina": https://plato.stanford.edu/entries/ibn-sina/
-- Stanford Encyclopedia of Philosophy, "Arabic and Islamic Psychology and Philosophy of Mind": https://plato.stanford.edu/entries/arabic-islamic-mind/
-- Stanford Encyclopedia of Philosophy, "al-Ghazali": https://plato.stanford.edu/entries/al-ghazali/
-- Shameli, A. A. *The Soul-Body Problem in the Philosophical Psychology of Mulla Sadra and Ibn Sina*. https://al-islam.org/soul-body-problem-philosophical-psychology-mulla-sadra-and-ibn-sina-abbas-ali-shameli/
-- Stanford Encyclopedia of Philosophy, "Mulla Sadra": https://plato.stanford.edu/entries/mulla-sadra/
-- Stanford Encyclopedia of Philosophy, "Abhidharma": https://plato.stanford.edu/entries/abhidharma/
-- Stanford Encyclopedia of Philosophy, "Wang Yangming": https://plato.stanford.edu/entries/wang-yangming/
-- Tempels, P. (1945). *Bantu Philosophy*. Paris: Présence Africaine.
+1. Īśvarakṛṣṇa. *Sāṃkhyakārikā* (c. 350–450 CE). See IEP, "Sankhya": https://iep.utm.edu/sankhya/
+1. "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press, 2023.
+1. *Mirror of Nature, Mirror of Self: Models of Consciousness in Samkhya, Yoga, and Advaita Vedanta*. Oxford Academic, 2023.
+1. Stanford Encyclopedia of Philosophy, "Nyaya": https://plato.stanford.edu/entries/nyaya/
+1. Jamali, M., Golshani, M., and Jamali, Y. "Avicenna's Ideas and Arguments about Mind and Brain Interaction." *Preprints.org*, 2019. https://www.preprints.org/manuscript/201906.0050
+1. Stanford Encyclopedia of Philosophy, "Ibn Sina": https://plato.stanford.edu/entries/ibn-sina/
+1. Stanford Encyclopedia of Philosophy, "Arabic and Islamic Psychology and Philosophy of Mind": https://plato.stanford.edu/entries/arabic-islamic-mind/
+1. Stanford Encyclopedia of Philosophy, "al-Ghazali": https://plato.stanford.edu/entries/al-ghazali/
+1. Shameli, A. A. *The Soul-Body Problem in the Philosophical Psychology of Mulla Sadra and Ibn Sina*. https://al-islam.org/soul-body-problem-philosophical-psychology-mulla-sadra-and-ibn-sina-abbas-ali-shameli/
+1. Stanford Encyclopedia of Philosophy, "Mulla Sadra": https://plato.stanford.edu/entries/mulla-sadra/
+1. Stanford Encyclopedia of Philosophy, "Abhidharma": https://plato.stanford.edu/entries/abhidharma/
+1. Stanford Encyclopedia of Philosophy, "Wang Yangming": https://plato.stanford.edu/entries/wang-yangming/
+1. Tempels, P. (1945). *Bantu Philosophy*. Paris: Présence Africaine.

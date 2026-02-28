@@ -170,9 +170,9 @@ The claim that intellectual courage has irreducible phenomenal character would f
 
 ## References
 
-- Baehr, J. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford University Press.
-- Battaly, H. (2015). *Virtue*. Polity Press.
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1–36.
-- Roberts, R. C. & Wood, W. J. (2007). *Intellectual Virtues: An Essay in Regulative Epistemology*. Oxford University Press.
-- Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.
+1. Baehr, J. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford University Press.
+1. Battaly, H. (2015). *Virtue*. Polity Press.
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1–36.
+1. Roberts, R. C. & Wood, W. J. (2007). *Intellectual Virtues: An Essay in Regulative Epistemology*. Oxford University Press.
+1. Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.

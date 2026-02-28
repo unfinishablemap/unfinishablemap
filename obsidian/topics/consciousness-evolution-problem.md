@@ -156,7 +156,7 @@ The consciousness-evolution problem connects to every one of the Map's tenets.
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

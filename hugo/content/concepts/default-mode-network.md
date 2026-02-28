@@ -214,22 +214,22 @@ Current evidence does not meet these conditions, but they define the space of po
 
 ## References
 
-- Buckner, R. L., Andrews-Hanna, J. R., & Schacter, D. L. (2008). The brain's default network: anatomy, function, and relevance to disease. *Annals of the New York Academy of Sciences*, 1124(1), 1-38.
-- Fox, K. C. R., Nijeboer, S., Dixon, M. L., et al. (2014). Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners. *Neuroscience & Biobehavioral Reviews*, 43, 48-73.
-- Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
-- Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
-- Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind. *Science*, 330(6006), 932.
-- Raichle, M. E., et al. (2001). A default mode of brain function. *PNAS*, 98(2), 676-682.
-- Raichle, M. E. (2015). The brain's default mode network. *Annual Review of Neuroscience*, 38, 433-447.
+1. Buckner, R. L., Andrews-Hanna, J. R., & Schacter, D. L. (2008). The brain's default network: anatomy, function, and relevance to disease. *Annals of the New York Academy of Sciences*, 1124(1), 1-38.
+1. Fox, K. C. R., Nijeboer, S., Dixon, M. L., et al. (2014). Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners. *Neuroscience & Biobehavioral Reviews*, 43, 48-73.
+1. Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
+1. Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
+1. Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind. *Science*, 330(6006), 932.
+1. Raichle, M. E., et al. (2001). A default mode of brain function. *PNAS*, 98(2), 676-682.
+1. Raichle, M. E. (2015). The brain's default mode network. *Annual Review of Neuroscience*, 38, 433-447.
 
 <!-- AI REFINEMENT LOG - 2026-02-24
 Changes made:
-- Fixed straw man in psychedelic argument: no longer claims production models predict elimination of self-experience from DMN suppression; reframed as both models predicting altered experience, with the question being about the character of alteration
-- Fixed cross-cultural convergence: no longer presented as asymmetric support for filter theory; now acknowledged as predicted by both production and filter models
-- Fixed bidirectional interaction section: added physicalist alternative explanation (prefrontal control networks), clarified Map's reading as philosophical interpretation
-- Fixed Dualism tenet section: removed repeated straw man about DMN suppression eliminating experience
-- Added Fox et al. 2014 citation for structural changes in meditators claim
-- Language improvements: "striking support" → "important test case", "profound" → "significant"
+1. Fixed straw man in psychedelic argument: no longer claims production models predict elimination of self-experience from DMN suppression; reframed as both models predicting altered experience, with the question being about the character of alteration
+1. Fixed cross-cultural convergence: no longer presented as asymmetric support for filter theory; now acknowledged as predicted by both production and filter models
+1. Fixed bidirectional interaction section: added physicalist alternative explanation (prefrontal control networks), clarified Map's reading as philosophical interpretation
+1. Fixed Dualism tenet section: removed repeated straw man about DMN suppression eliminating experience
+1. Added Fox et al. 2014 citation for structural changes in meditators claim
+1. Language improvements: "striking support" → "important test case", "profound" → "significant"
 
 Based on pessimistic review (pessimistic-2026-02-24-dmn.md) identifying 2 high and 2 medium severity issues.
 Key improvements: eliminated logical fallacies, balanced evidence presentation, added missing citation.

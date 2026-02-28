@@ -144,12 +144,12 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 
 ## References
 
-- Arndt, M., & Hornberger, K. (2014). Testing the limits of quantum mechanical superpositions. *Nature Physics*, 10, 271-277.
-- Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
-- Hackermuller, L. et al. (2003). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.
-- Kerskens, C.M., & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-- Schrödinger, E. (1935). Die gegenwärtige Situation in der Quantenmechanik. *Naturwissenschaften*, 23, 807-812.
-- Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
-- Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
-- Nanoparticle matter-wave interference. (2025). arXiv:2507.21211.
-- Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.
+1. Arndt, M., & Hornberger, K. (2014). Testing the limits of quantum mechanical superpositions. *Nature Physics*, 10, 271-277.
+1. Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
+1. Hackermuller, L. et al. (2003). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.
+1. Kerskens, C.M., & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Schrödinger, E. (1935). Die gegenwärtige Situation in der Quantenmechanik. *Naturwissenschaften*, 23, 807-812.
+1. Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
+1. Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
+1. Nanoparticle matter-wave interference. (2025). arXiv:2507.21211.
+1. Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.

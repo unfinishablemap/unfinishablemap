@@ -183,12 +183,12 @@ This synthesis draws from:
 
 ## References
 
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-- Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
-- Bergson, H. (1889/2001). *Time and Free Will*. Dover.
-- Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
-- Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
-- Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-- Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
-- Hoel, E. (2025). A Disproof of Large Language Model Consciousness. arXiv:2512.12802.
-- Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
+1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+1. Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
+1. Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
+1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
+1. Hoel, E. (2025). A Disproof of Large Language Model Consciousness. arXiv:2512.12802.
+1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.

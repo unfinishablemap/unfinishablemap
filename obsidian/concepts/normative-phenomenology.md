@@ -154,12 +154,12 @@ Normative phenomenology connects to the Map's [[tenets|foundational commitments]
 
 ## References
 
-- Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
-- Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
-- Joyce, R. (2006). *The Evolution of Morality*. MIT Press.
-- Levinas, E. (1961/1969). *Totality and Infinity*. Trans. A. Lingis. Duquesne University Press.
-- Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-- Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109-166.
-- Van Norden, B. W. (2007). *Virtue Ethics and Consequentialism in Early Chinese Philosophy*. Cambridge University Press.
-- Weil, S. (1947/1952). *Gravity and Grace*. Trans. A. Wills. Routledge & Kegan Paul.
+1. Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
+1. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
+1. Joyce, R. (2006). *The Evolution of Morality*. MIT Press.
+1. Levinas, E. (1961/1969). *Totality and Infinity*. Trans. A. Lingis. Duquesne University Press.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+1. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109-166.
+1. Van Norden, B. W. (2007). *Virtue Ethics and Consequentialism in Early Chinese Philosophy*. Cambridge University Press.
+1. Weil, S. (1947/1952). *Gravity and Grace*. Trans. A. Wills. Routledge & Kegan Paul.

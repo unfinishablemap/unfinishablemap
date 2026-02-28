@@ -176,13 +176,13 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 
 ## References
 
-- Everett, H. (1957). "Relative State" Formulation of Quantum Mechanics. *Reviews of Modern Physics*.
-- Deutsch, D. (1999). Quantum Theory of Probability and Decisions. *Proceedings of the Royal Society*.
-- Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
-- Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
-- Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al., *Many Worlds?*
-- Albert, D. & Loewer, B. (1988). Interpreting the Many Worlds Interpretation. *Synthese*.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*.
-- Saunders, S. et al. eds. (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
-- Schlosshauer, M. et al. (2013). A Snapshot of Foundational Attitudes Toward Quantum Mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222-230.
+1. Everett, H. (1957). "Relative State" Formulation of Quantum Mechanics. *Reviews of Modern Physics*.
+1. Deutsch, D. (1999). Quantum Theory of Probability and Decisions. *Proceedings of the Royal Society*.
+1. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
+1. Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
+1. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al., *Many Worlds?*
+1. Albert, D. & Loewer, B. (1988). Interpreting the Many Worlds Interpretation. *Synthese*.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*.
+1. Saunders, S. et al. eds. (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+1. Schlosshauer, M. et al. (2013). A Snapshot of Foundational Attitudes Toward Quantum Mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222-230.

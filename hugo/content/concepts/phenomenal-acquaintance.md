@@ -114,22 +114,22 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 
 ## References
 
-- Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 11, 108-128.
-- Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72(2), 136-150.
-- Gertler, B. (2012). "Renewed Acquaintance." In D. Smithies & D. Stoljar (Eds.), *Introspection and Consciousness*. Oxford University Press.
-- Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-- Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (Eds.), *The Nature of Consciousness*. MIT Press.
-- Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
+1. Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 11, 108-128.
+1. Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72(2), 136-150.
+1. Gertler, B. (2012). "Renewed Acquaintance." In D. Smithies & D. Stoljar (Eds.), *Introspection and Consciousness*. Oxford University Press.
+1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
+1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (Eds.), *The Nature of Consciousness*. MIT Press.
+1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
 
 <!-- AI REFINEMENT LOG - 2026-02-20
 Changes made:
-- Opening paragraph now explicitly frames acquaintance's irreducibility as supporting substance dualism, not merely phenomenological realism
-- New subsection "Loar's Recognitional Concepts and the Non-Reductive Challenge" engages Loar's version of PCS substantively and addresses non-reductive physicalism as the dominant contemporary position
-- Explains why non-reductive physicalists' acceptance of acquaintance doesn't suffice—the Map's case requires the further ontological step
-- New paragraphs on higher-order thought theories (Rosenthal, Brown) as challenge to directness, with dualist reply
-- Dualism tenet section rewritten to make the two-step argument explicit: acquaintance secures the datum, philosophical arguments establish it points beyond the physical
-- Added Rosenthal reference
+1. Opening paragraph now explicitly frames acquaintance's irreducibility as supporting substance dualism, not merely phenomenological realism
+1. New subsection "Loar's Recognitional Concepts and the Non-Reductive Challenge" engages Loar's version of PCS substantively and addresses non-reductive physicalism as the dominant contemporary position
+1. Explains why non-reductive physicalists' acceptance of acquaintance doesn't suffice—the Map's case requires the further ontological step
+1. New paragraphs on higher-order thought theories (Rosenthal, Brown) as challenge to directness, with dualist reply
+1. Dualism tenet section rewritten to make the two-step argument explicit: acquaintance secures the datum, philosophical arguments establish it points beyond the physical
+1. Added Rosenthal reference
 
 Based on pessimistic review (2026-02-20 morning) identifying non-reductive physicalism gap.
 Key improvements: Engages the strongest physicalist positions rather than arguing against straw reductive physicalism.

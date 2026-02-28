@@ -233,15 +233,15 @@ The aesthetic dimension of consciousness supports the Map's [[tenets|foundationa
 
 ## References
 
-- Byrne, A. & Hilbert, D. (2003). "Color Realism and Color Science." *Behavioral and Brain Sciences*, 26(1), 3–21.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Dewey, J. (1934). *Art as Experience*. Perigee Books.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
-- Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard.
-- Levinson, J. (2003). "Philosophical Aesthetics: An Overview." In *The Oxford Handbook of Aesthetics*. Oxford University Press.
-- Moles, A. (1966). *Information Theory and Esthetic Perception*. University of Illinois Press.
-- Scarry, E. (1999). *On Beauty and Being Just*. Princeton University Press.
-- Schopenhauer, A. (1818/1969). *The World as Will and Representation*. Dover.
-- Trehub, S. (2000). "Human Processing Predispositions and Musical Universals." In N. Wallin, B. Merker, & S. Brown (Eds.), *The Origins of Music*. MIT Press.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Zeki, S. (1999). *Inner Vision: An Exploration of Art and the Brain*. Oxford University Press.
+1. Byrne, A. & Hilbert, D. (2003). "Color Realism and Color Science." *Behavioral and Brain Sciences*, 26(1), 3–21.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Dewey, J. (1934). *Art as Experience*. Perigee Books.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
+1. Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard.
+1. Levinson, J. (2003). "Philosophical Aesthetics: An Overview." In *The Oxford Handbook of Aesthetics*. Oxford University Press.
+1. Moles, A. (1966). *Information Theory and Esthetic Perception*. University of Illinois Press.
+1. Scarry, E. (1999). *On Beauty and Being Just*. Princeton University Press.
+1. Schopenhauer, A. (1818/1969). *The World as Will and Representation*. Dover.
+1. Trehub, S. (2000). "Human Processing Predispositions and Musical Universals." In N. Wallin, B. Merker, & S. Brown (Eds.), *The Origins of Music*. MIT Press.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Zeki, S. (1999). *Inner Vision: An Exploration of Art and the Brain*. Oxford University Press.

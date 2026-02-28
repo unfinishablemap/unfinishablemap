@@ -205,10 +205,10 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 
 ## References
 
-- Bergson, H. (1889). *Time and Free Will*. Dover Publications.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Poincaré, H. (1908). *Science and Method*. Dover Publications.
-- Varela, F.J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Baddeley, A. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Bergson, H. (1889). *Time and Free Will*. Dover Publications.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Poincaré, H. (1908). *Science and Method*. Dover Publications.
+1. Varela, F.J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Baddeley, A. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.

@@ -197,9 +197,9 @@ These conditions do not currently obtain. The connection stands.
 
 ## References
 
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
-- Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
+1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.

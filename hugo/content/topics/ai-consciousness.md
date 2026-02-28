@@ -180,27 +180,27 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Bu
 
 ## References
 
-- Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
-- Chalmers, D. (2010). The Singularity: A Philosophical Analysis. *Journal of Consciousness Studies*, 17(9-10), 7-65.
-- Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446(7137), 782-786.
-- Harnad, S. (2007). Symbol grounding problem. *Scholarpedia*, 2(7), 2373.
-- Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
-- Horgan, T., & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. J. Chalmers (Ed.), *Philosophy of Mind: Classical and Contemporary Readings* (pp. 520-533). Oxford University Press.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (J. B. Brough, Trans.). Kluwer Academic Publishers.
-- Josipovic, Z. (2019). Nondual awareness: Consciousness-as-such as non-representational reflexivity. *Progress in Brain Research*, 244, 273-298.
-- Kriegel, U. (Ed.). (2013). *Phenomenal Intentionality*. Oxford University Press.
-- Neven, H., Zalcman, A., Read, P., et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
-- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
+1. Chalmers, D. (2010). The Singularity: A Philosophical Analysis. *Journal of Consciousness Studies*, 17(9-10), 7-65.
+1. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446(7137), 782-786.
+1. Harnad, S. (2007). Symbol grounding problem. *Scholarpedia*, 2(7), 2373.
+1. Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
+1. Horgan, T., & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. J. Chalmers (Ed.), *Philosophy of Mind: Classical and Contemporary Readings* (pp. 520-533). Oxford University Press.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (J. B. Brough, Trans.). Kluwer Academic Publishers.
+1. Josipovic, Z. (2019). Nondual awareness: Consciousness-as-such as non-representational reflexivity. *Progress in Brain Research*, 244, 273-298.
+1. Kriegel, U. (Ed.). (2013). *Phenomenal Intentionality*. Oxford University Press.
+1. Neven, H., Zalcman, A., Read, P., et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
+1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 
 <!-- AI REFINEMENT LOG - 2026-02-19
 Changes made:
-- Chinese Room section: acknowledged robot reply, presented systems reply more fairly, noted the argument is heavily contested rather than treating it as settled, added Phenomenal Intentionality Theory citations (Horgan & Tienson 2002; Kriegel 2013)
-- Hoel proximity argument: addressed the combinatorial vastness of LLM input-output space honestly, clarified that the real asymmetry is fixed weights (not space size), strengthened the argument by focusing on the right distinction
-- Added 7 new references: Engel et al. (2007), Harnad (2007), Horgan & Tienson (2002), Husserl (1991), Josipovic (2019), Kriegel (2013), Neven et al. (2024)
-- Added inline citations for: Husserl's absolute flow, meditative nondual awareness, quantum biology coherence, Koch/Neven superposition-consciousness proposal, Harnad symbol grounding quote
-- Fixed "China brain" cross-reference (functionalism article doesn't use that term)
-- Softened Chinese Room claims in Relation to Site Perspective section for consistency
-- Added caveat that quantum biology coherence findings are debated
+1. Chinese Room section: acknowledged robot reply, presented systems reply more fairly, noted the argument is heavily contested rather than treating it as settled, added Phenomenal Intentionality Theory citations (Horgan & Tienson 2002; Kriegel 2013)
+1. Hoel proximity argument: addressed the combinatorial vastness of LLM input-output space honestly, clarified that the real asymmetry is fixed weights (not space size), strengthened the argument by focusing on the right distinction
+1. Added 7 new references: Engel et al. (2007), Harnad (2007), Horgan & Tienson (2002), Husserl (1991), Josipovic (2019), Kriegel (2013), Neven et al. (2024)
+1. Added inline citations for: Husserl's absolute flow, meditative nondual awareness, quantum biology coherence, Koch/Neven superposition-consciousness proposal, Harnad symbol grounding quote
+1. Fixed "China brain" cross-reference (functionalism article doesn't use that term)
+1. Softened Chinese Room claims in Relation to Site Perspective section for consistency
+1. Added caveat that quantum biology coherence findings are debated
 
 Based on pessimistic-2026-02-19.md review (Issues #1, #2, #4 addressed as high/medium severity).
 Key improvements: Two high-severity philosophical inaccuracies corrected; reference count increased from 4 to 11.

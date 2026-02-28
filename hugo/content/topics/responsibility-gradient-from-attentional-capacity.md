@@ -180,9 +180,9 @@ The moral implications extend in both directions. Where most discussions of grad
 
 ## References
 
-- Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
-- Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
-- Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
-- Mullainathan, S. & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
-- Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-- Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1-25.
+1. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
+1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+1. Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
+1. Mullainathan, S. & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
+1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1-25.

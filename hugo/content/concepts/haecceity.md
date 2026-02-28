@@ -243,14 +243,14 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 
 ## References
 
-- Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-- Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154, 349-360.
-- Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153-164.
-- Greaves, H. (2007). "Probability in the Everett Interpretation." *Philosophy Compass*, 2(1), 109-128.
-- Hellie, B. (2012). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
-- Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
-- Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
-- Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
+1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154, 349-360.
+1. Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153-164.
+1. Greaves, H. (2007). "Probability in the Everett Interpretation." *Philosophy Compass*, 2(1), 109-128.
+1. Hellie, B. (2012). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
+1. Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
+1. Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
+1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

@@ -223,15 +223,15 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 ## References
 
-- Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
-- Baum, E. B. (2004). *What Is Thought?* MIT Press.
-- Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
-- Hagan, S. et al. (2002). Quantum computation in brain microtubules. *Physical Review E*, 65(6), 061901.
-- Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kerskens, C. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
-- Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
-- McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
-- Stapp, H. P. (2007). *Mindful Universe*. Springer.
-- Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-- Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1).
+1. Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+1. Baum, E. B. (2004). *What Is Thought?* MIT Press.
+1. Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
+1. Hagan, S. et al. (2002). Quantum computation in brain microtubules. *Physical Review E*, 65(6), 061901.
+1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kerskens, C. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
+1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
+1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
+1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1).

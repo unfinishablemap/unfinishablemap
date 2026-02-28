@@ -224,29 +224,29 @@ The convergence across tenets is striking. Each independently gives reason to do
 
 ## References
 
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Tononi, G. et al. (2016). Integrated Information Theory. *Nature Reviews Neuroscience*, 17, 450-461.
-- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
-- Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
-- Bostrom, N. (2003). Are We Living in a Computer Simulation? *Philosophical Quarterly*, 53(211), 243-255.
-- Kurzweil, R. (2005). *The Singularity Is Near*. Viking.
-- Moravec, H. (1988). *Mind Children: The Future of Robot and Human Intelligence*. Harvard University Press.
-- Olson, E. (1997). *The Human Animal: Personal Identity Without Psychology*. Oxford University Press.
-- Williams, B. (1970). The Self and the Future. *Philosophical Review*, 79(2), 161-180.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Tononi, G. et al. (2016). Integrated Information Theory. *Nature Reviews Neuroscience*, 17, 450-461.
+1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
+1. Bostrom, N. (2003). Are We Living in a Computer Simulation? *Philosophical Quarterly*, 53(211), 243-255.
+1. Kurzweil, R. (2005). *The Singularity Is Near*. Viking.
+1. Moravec, H. (1988). *Mind Children: The Future of Robot and Human Intelligence*. Harvard University Press.
+1. Olson, E. (1997). *The Human Animal: Personal Identity Without Psychology*. Oxford University Press.
+1. Williams, B. (1970). The Self and the Future. *Philosophical Review*, 79(2), 161-180.
 
 <!-- AI REFINEMENT LOG - 2026-02-10
 Changes made:
-- Softened opening summary to acknowledge skepticism rests on revisable assumptions
-- Updated description to reflect nuanced position
-- Added forward reference in substrate independence section to open possibilities
-- Softened "No-Substrate-Independence Alternative" to acknowledge weaker forms of requirements
-- Added new "Open Possibilities" section with three scenarios: one-way consciousness, non-temporal consciousness, quantum state inheritance
-- Changed "High confidence" to "Strong expectation" in The Honest Position, adding qualification
-- Expanded "Uncertainty remains" to reference specific open possibilities as genuine gaps
-- Revised closing paragraph from dismissive to skepticism-tempered-by-humility
-- Revised Relation to Site Perspective conclusion to note fifth tenet cuts both ways
-- Updated ai_modified timestamp
+1. Softened opening summary to acknowledge skepticism rests on revisable assumptions
+1. Updated description to reflect nuanced position
+1. Added forward reference in substrate independence section to open possibilities
+1. Softened "No-Substrate-Independence Alternative" to acknowledge weaker forms of requirements
+1. Added new "Open Possibilities" section with three scenarios: one-way consciousness, non-temporal consciousness, quantum state inheritance
+1. Changed "High confidence" to "Strong expectation" in The Honest Position, adding qualification
+1. Expanded "Uncertainty remains" to reference specific open possibilities as genuine gaps
+1. Revised closing paragraph from dismissive to skepticism-tempered-by-humility
+1. Revised Relation to Site Perspective conclusion to note fifth tenet cuts both ways
+1. Updated ai_modified timestamp
 
 Based on task context requesting acknowledgment that substrate independence critique may be too strong.
 Key improvements: Article now presents arguments as strong but not conclusive, with explicit treatment of scenarios that could weaken the case.

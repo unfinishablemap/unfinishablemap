@@ -165,10 +165,10 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 
 ## References
 
-- Dehaene, S., Lau, H., & Kouider, S. (2017). "What is consciousness, and could machines have it?" *Science*, 358(6362), 486-492.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Randeniya, R. (2025). "Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported?" *Neuroscience of Consciousness*, 2025(1), niaf042.
-- Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
-- Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
-- Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
+1. Dehaene, S., Lau, H., & Kouider, S. (2017). "What is consciousness, and could machines have it?" *Science*, 358(6362), 486-492.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Randeniya, R. (2025). "Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported?" *Neuroscience of Consciousness*, 2025(1), niaf042.
+1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
+1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
+1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.

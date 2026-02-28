@@ -197,19 +197,19 @@ The price of this openness is entertaining possibilities that may turn out to be
 
 ## References
 
-- Chalmers, D. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
-- Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Chalmers, D. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
+1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 
 <!-- AI REFINEMENT LOG - 2026-02-15
 Changes made:
-- Rewrote asymmetric cost argument to acknowledge Pascal's Wager parallel and explain why dualism is not an arbitrary hypothesis (has independent positive arguments). Presented costs of dualist error with equal vividness.
-- Restructured contemplative perspectives section: Buddhist phenomenology now presented as challenging both materialism and substance dualism. Cessation states discussed with Buddhist anti-dualist interpretation alongside Hindu interpretation. Removed appropriation of Buddhist data for dualist conclusions.
-- Updated illusionism section's asymmetric cost restatement to match the more nuanced main argument.
-- Language fixes: removed "This isn't mysticism" defensive phrasing, "literally", "sounds exotic", "bet the house", "the ultimate foreclosure".
+1. Rewrote asymmetric cost argument to acknowledge Pascal's Wager parallel and explain why dualism is not an arbitrary hypothesis (has independent positive arguments). Presented costs of dualist error with equal vividness.
+1. Restructured contemplative perspectives section: Buddhist phenomenology now presented as challenging both materialism and substance dualism. Cessation states discussed with Buddhist anti-dualist interpretation alongside Hindu interpretation. Removed appropriation of Buddhist data for dualist conclusions.
+1. Updated illusionism section's asymmetric cost restatement to match the more nuanced main argument.
+1. Language fixes: removed "This isn't mysticism" defensive phrasing, "literally", "sounds exotic", "bet the house", "the ultimate foreclosure".
 
 Based on pessimistic review pessimistic-2026-02-15-midday.md addressing two high-severity issues.
 Key improvements: intellectual honesty of the asymmetric cost argument; fair treatment of Buddhist philosophy.

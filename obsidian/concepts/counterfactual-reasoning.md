@@ -180,8 +180,8 @@ Counterfactual reasoning connects to multiple [[tenets]]:
 
 ## References
 
-- Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation. In L.H. Eckensberger & E.D. Lantermann (Eds.), *Emotion und Reflexivität*. Urban & Schwarzenberg.
-- Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133-148.
-- Schacter, D.L., & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
-- Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-- Van Hoeck, N., Ma, N., Ampe, L., Baetens, K., Vandekerckhove, M., & Van Overwalle, F. (2015). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 10(11), 1534-1543.
+1. Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation. In L.H. Eckensberger & E.D. Lantermann (Eds.), *Emotion und Reflexivität*. Urban & Schwarzenberg.
+1. Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133-148.
+1. Schacter, D.L., & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
+1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Van Hoeck, N., Ma, N., Ampe, L., Baetens, K., Vandekerckhove, M., & Van Overwalle, F. (2015). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 10(11), 1534-1543.

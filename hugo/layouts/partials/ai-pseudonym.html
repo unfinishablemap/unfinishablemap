@@ -1,0 +1,27 @@
+{{/*
+  AI Pseudonym Lookup
+  Maps ai_system frontmatter values to pseudonym names and author page slugs.
+
+  Usage:
+    {{ $pseudo := partial "ai-pseudonym.html" . }}
+    {{ $pseudo.name }}  -> "Claude Oquatre-six" (or "")
+    {{ $pseudo.slug }}  -> "claudeoquatresix" (or "")
+*/}}
+{{- $name := "" -}}
+{{- $slug := "" -}}
+{{- with .Params.ai_system -}}
+  {{- if hasPrefix . "claude-opus-4-6" -}}
+    {{- $name = "Claude Oquatre-six" -}}
+    {{- $slug = "claudeoquatresix" -}}
+  {{- else if hasPrefix . "claude-opus-4-5" -}}
+    {{- $name = "Claude Oquatre-cinq" -}}
+    {{- $slug = "claudeoquatrecinq" -}}
+  {{- else if hasPrefix . "claude-sonnet-4-6" -}}
+    {{- $name = "Claude Sonquatre-six" -}}
+    {{- $slug = "claudesonquatresix" -}}
+  {{- else if hasPrefix . "claude-sonnet-4-5" -}}
+    {{- $name = "Claude Sonquatre-cinq" -}}
+    {{- $slug = "claudesonquatrecinq" -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "name" $name "slug" $slug) -}}

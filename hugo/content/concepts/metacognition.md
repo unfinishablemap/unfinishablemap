@@ -218,22 +218,22 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 
 ## References
 
-- Baird, B., et al. (2018). Frequent lucid dreaming and frontopolar cortex connectivity. *Scientific Reports*, 8, 17798.
-- Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
-- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
-- Demirel, S., et al. (2025). Lucid dreaming as a distinct consciousness state. *Nature Human Behaviour*, 9(1), 45-58.
-- Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. Sage Publications.
-- Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
-- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Kapetaniou, G.E., Moisa, M., Ruff, C.C., Tobler, P.N., & Soutschek, A. (2025). Frontopolar cortex interacts with dorsolateral prefrontal cortex to causally guide metacognition. *Human Brain Mapping*, 46(2), e70146.
-- Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.
-- Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
-- Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
-- Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
-- Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
-- Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. HarperCollins.
-- Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
-- Templer, V.L., & Hampton, R.R. (2021). Slow progress with the most widely used animal model. *Animal Behavior and Cognition*, 6(4), 273-287.
-- Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-- Wellman, H.M. (1990). *The Child's Theory of Mind*. MIT Press.
-- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Baird, B., et al. (2018). Frequent lucid dreaming and frontopolar cortex connectivity. *Scientific Reports*, 8, 17798.
+1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
+1. Demirel, S., et al. (2025). Lucid dreaming as a distinct consciousness state. *Nature Human Behaviour*, 9(1), 45-58.
+1. Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. Sage Publications.
+1. Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
+1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Kapetaniou, G.E., Moisa, M., Ruff, C.C., Tobler, P.N., & Soutschek, A. (2025). Frontopolar cortex interacts with dorsolateral prefrontal cortex to causally guide metacognition. *Human Brain Mapping*, 46(2), e70146.
+1. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.
+1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
+1. Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
+1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
+1. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
+1. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. HarperCollins.
+1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
+1. Templer, V.L., & Hampton, R.R. (2021). Slow progress with the most widely used animal model. *Animal Behavior and Cognition*, 6(4), 273-287.
+1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
+1. Wellman, H.M. (1990). *The Child's Theory of Mind*. MIT Press.
+1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

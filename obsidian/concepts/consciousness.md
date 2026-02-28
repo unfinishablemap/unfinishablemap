@@ -2,9 +2,9 @@
 title: "Consciousness"
 description: "Consciousness is what it is like to be something—the subjective first-person perspective accompanying perception and thought. The Map treats it as irreducible."
 created: 2026-01-24
-modified: 2026-01-26
+modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-25T12:47:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 last_deep_review: 2026-02-25T12:47:00+00:00
 draft: false
 topics:
@@ -225,11 +225,12 @@ The Map's extensive coverage of consciousness includes:
 
 ## References
 
-- Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*.
-- Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*.
-- Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Koch, C. (2019). *The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed*. MIT Press.
-- Lieberman, M.D., et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*.
-- Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.
+1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*.
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*.
+1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Koch, C. (2019). *The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed*. MIT Press.
+1. Lieberman, M.D., et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*.
+1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-07). Qualia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/qualia/

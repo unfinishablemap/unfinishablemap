@@ -103,10 +103,10 @@ The plurality void connects to the Map's [[tenets|foundational commitments]] at 
 
 ## References
 
-- Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
-- Coleman, S. (2014). "The real combination problem: Panpsychism, micro-subjects, and emergence." *Erkenntnis* 79(1): 19-44.
-- de Haan, E. H. F., et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review* 30: 224-233.
-- Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Schechter, E. (2014). "Partial Unity of Consciousness: A Preliminary Defense." In D. Bennett & C. Hill (eds.), *Sensory Integration and the Unity of Consciousness*. MIT Press.
-- Schrödinger, E. (1958). *Mind and Matter*. Cambridge University Press.
+1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
+1. Coleman, S. (2014). "The real combination problem: Panpsychism, micro-subjects, and emergence." *Erkenntnis* 79(1): 19-44.
+1. de Haan, E. H. F., et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review* 30: 224-233.
+1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Schechter, E. (2014). "Partial Unity of Consciousness: A Preliminary Defense." In D. Bennett & C. Hill (eds.), *Sensory Integration and the Unity of Consciousness*. MIT Press.
+1. Schrödinger, E. (1958). *Mind and Matter*. Cambridge University Press.

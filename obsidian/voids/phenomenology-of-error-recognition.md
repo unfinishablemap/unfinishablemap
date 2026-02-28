@@ -132,11 +132,11 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 
 ## References
 
-- Dunning, D., & Kruger, J. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
-- Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71-93.
-- Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
-- Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. Ecco.
-- Stanford Encyclopedia of Philosophy. Self-Deception. https://plato.stanford.edu/entries/self-deception/
-- Suzuki, D.T. (1956). *Zen Buddhism: Selected Writings of D.T. Suzuki*. Doubleday.
-- Trivers, R. (2011). *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life*. Basic Books.
-- Žižek, S. (1989). *The Sublime Object of Ideology*. Verso.
+1. Dunning, D., & Kruger, J. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
+1. Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71-93.
+1. Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
+1. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. Ecco.
+1. Stanford Encyclopedia of Philosophy. Self-Deception. https://plato.stanford.edu/entries/self-deception/
+1. Suzuki, D.T. (1956). *Zen Buddhism: Selected Writings of D.T. Suzuki*. Doubleday.
+1. Trivers, R. (2011). *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life*. Basic Books.
+1. Žižek, S. (1989). *The Sublime Object of Ideology*. Verso.

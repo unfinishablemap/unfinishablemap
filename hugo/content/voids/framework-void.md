@@ -111,13 +111,13 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 
 ## References
 
-- Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association*, 47, 5–20.
-- Deigan, M. "Conceptual Limitations, Puzzlement, and Epistemic Dilemmas." *PhilArchive*.
-- Feyerabend, P. (1962). "Explanation, Reduction, and Empiricism." *Minnesota Studies in the Philosophy of Science*, 3, 28–97.
-- Gadamer, H.-G. (1960). *Truth and Method*. Trans. J. Weinsheimer and D. G. Marshall. Continuum, 2004.
-- Heidegger, M. (1927). *Being and Time*. Trans. J. Macquarrie and E. Robinson. Harper & Row, 1962.
-- Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-- Mellor, S., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
-- Quine, W.V.O. (1968). "Ontological Relativity." *The Journal of Philosophy*, 65(7), 185–212.
+1. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association*, 47, 5–20.
+1. Deigan, M. "Conceptual Limitations, Puzzlement, and Epistemic Dilemmas." *PhilArchive*.
+1. Feyerabend, P. (1962). "Explanation, Reduction, and Empiricism." *Minnesota Studies in the Philosophy of Science*, 3, 28–97.
+1. Gadamer, H.-G. (1960). *Truth and Method*. Trans. J. Weinsheimer and D. G. Marshall. Continuum, 2004.
+1. Heidegger, M. (1927). *Being and Time*. Trans. J. Macquarrie and E. Robinson. Harper & Row, 1962.
+1. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
+1. Mellor, S., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
+1. Quine, W.V.O. (1968). "Ontological Relativity." *The Journal of Philosophy*, 65(7), 185–212.

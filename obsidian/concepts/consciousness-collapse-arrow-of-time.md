@@ -110,9 +110,9 @@ The triad of consciousness, collapse, and time's arrow engages all five tenets:
 
 ## References
 
-- Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
-- Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
-- Müller, S. et al. (2021). Quantum measurement arrow of time and fluctuation relations for measuring spin of ultracold atoms. *Nature Communications*, 12(1), 1-8.
-- Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-- Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
-- Stanford Encyclopedia of Philosophy. "Thermodynamic Asymmetry in Time." https://plato.stanford.edu/entries/time-thermo/
+1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
+1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
+1. Müller, S. et al. (2021). Quantum measurement arrow of time and fluctuation relations for measuring spin of ultracold atoms. *Nature Communications*, 12(1), 1-8.
+1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+1. Stanford Encyclopedia of Philosophy. "Thermodynamic Asymmetry in Time." https://plato.stanford.edu/entries/time-thermo/

@@ -155,15 +155,15 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 
 ## References
 
-- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
-- Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
-- Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-- Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
-- O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Van Inwagen, P. (2000). "Free Will Remains a Mystery." *Philosophical Perspectives*, 14, 1-19.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
+1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
+1. O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Van Inwagen, P. (2000). "Free Will Remains a Mystery." *Philosophical Perspectives*, 14, 1-19.
+1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).

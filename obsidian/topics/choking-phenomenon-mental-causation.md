@@ -142,9 +142,9 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 
 ## References
 
-- Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
-- Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
-- Dreyfus, H., & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
-- Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-- Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
+1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.
+1. Dreyfus, H., & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
+1. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

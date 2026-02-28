@@ -115,17 +115,17 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 
 ## References
 
-- Bengtsson, S.L. et al. (2005). Extensive piano practicing has regionally specific effects on white matter development. *Nature Neuroscience*, 8(9), 1148-1150.
-- Ericsson, K.A., Krampe, R.T. & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. *Psychological Review*, 100(3), 363-406.
-- Fields, R.D. (2008). White Matter Matters. *Scientific American*, 298(3), 42-49.
-- Fischer, S. et al. (2002). Sleep forms memory for finger skills. *Proceedings of the National Academy of Sciences*, 99(18), 11987-11991.
-- Grafton, S.T. et al. (2008). Neural substrates of visuomotor learning based on improved feedback control and prediction. *NeuroImage*, 39(3), 1383-1395.
-- Macnamara, B.N., Hambrick, D.Z. & Oswald, F.L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. *Psychological Science*, 25(8), 1608-1618.
-- Petersen, S.E. et al. (1998). The effects of practice on the functional anatomy of task performance. *Proceedings of the National Academy of Sciences*, 95(3), 853-860.
-- Poldrack, R.A. et al. (2001). Interactive memory systems in the human brain. *Nature*, 414, 546-550.
-- Poldrack, R.A. et al. (2005). The neural correlates of motor skill automaticity. *Journal of Neuroscience*, 25(22), 5356-5364.
-- Robertson, E.M., Pascual-Leone, A. & Press, D.Z. (2004). Awareness modifies the skill-learning benefits of sleep. *Current Biology*, 14(3), 208-212.
-- Walker, M.P. et al. (2002). Practice with sleep makes perfect. *Neuron*, 35(1), 205-211.
-- Walker, M.P. & Stickgold, R. (2006). Sleep, memory, and plasticity. *Annual Review of Psychology*, 57, 139-166.
-- Wolpert, D.M. & Flanagan, J.R. (2001). Motor prediction. *Current Biology*, 11(18), R729-R732.
-- Zatorre, R.J., Chen, J.L. & Penhune, V.B. (2007). When the brain plays music. *Nature Reviews Neuroscience*, 8(7), 547-558.
+1. Bengtsson, S.L. et al. (2005). Extensive piano practicing has regionally specific effects on white matter development. *Nature Neuroscience*, 8(9), 1148-1150.
+1. Ericsson, K.A., Krampe, R.T. & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. *Psychological Review*, 100(3), 363-406.
+1. Fields, R.D. (2008). White Matter Matters. *Scientific American*, 298(3), 42-49.
+1. Fischer, S. et al. (2002). Sleep forms memory for finger skills. *Proceedings of the National Academy of Sciences*, 99(18), 11987-11991.
+1. Grafton, S.T. et al. (2008). Neural substrates of visuomotor learning based on improved feedback control and prediction. *NeuroImage*, 39(3), 1383-1395.
+1. Macnamara, B.N., Hambrick, D.Z. & Oswald, F.L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. *Psychological Science*, 25(8), 1608-1618.
+1. Petersen, S.E. et al. (1998). The effects of practice on the functional anatomy of task performance. *Proceedings of the National Academy of Sciences*, 95(3), 853-860.
+1. Poldrack, R.A. et al. (2001). Interactive memory systems in the human brain. *Nature*, 414, 546-550.
+1. Poldrack, R.A. et al. (2005). The neural correlates of motor skill automaticity. *Journal of Neuroscience*, 25(22), 5356-5364.
+1. Robertson, E.M., Pascual-Leone, A. & Press, D.Z. (2004). Awareness modifies the skill-learning benefits of sleep. *Current Biology*, 14(3), 208-212.
+1. Walker, M.P. et al. (2002). Practice with sleep makes perfect. *Neuron*, 35(1), 205-211.
+1. Walker, M.P. & Stickgold, R. (2006). Sleep, memory, and plasticity. *Annual Review of Psychology*, 57, 139-166.
+1. Wolpert, D.M. & Flanagan, J.R. (2001). Motor prediction. *Current Biology*, 11(18), R729-R732.
+1. Zatorre, R.J., Chen, J.L. & Penhune, V.B. (2007). When the brain plays music. *Nature Reviews Neuroscience*, 8(7), 547-558.

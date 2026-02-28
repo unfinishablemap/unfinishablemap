@@ -186,12 +186,12 @@ This topic intersects all five tenets:
 
 <!-- AI REFINEMENT LOG - 2026-02-02
 Changes made:
-- Added explicit distinction between epistemic thesis and metaphysical thesis in "The Indexical Problem Stated" section
-- Explained that Perry/Lewis examples establish the epistemic thesis; the metaphysical thesis requires separate argument
-- Added note to QBism section clarifying the gap is primarily about consciousness existence, not the epistemic/metaphysical distinction per se
-- Rewrote Many-Worlds section to acknowledge MWI defenders can accept the epistemic thesis while denying the metaphysical thesis
-- Updated Dualism section to explicitly note dependence on the metaphysical thesis
-- Added cross-reference to self-locating-beliefs article for arguments supporting the metaphysical thesis
+1. Added explicit distinction between epistemic thesis and metaphysical thesis in "The Indexical Problem Stated" section
+1. Explained that Perry/Lewis examples establish the epistemic thesis; the metaphysical thesis requires separate argument
+1. Added note to QBism section clarifying the gap is primarily about consciousness existence, not the epistemic/metaphysical distinction per se
+1. Rewrote Many-Worlds section to acknowledge MWI defenders can accept the epistemic thesis while denying the metaphysical thesis
+1. Updated Dualism section to explicitly note dependence on the metaphysical thesis
+1. Added cross-reference to self-locating-beliefs article for arguments supporting the metaphysical thesis
 
 Based on pessimistic review 2026-02-01 (late) which identified conflation of epistemic and metaphysical claims.
 Key improvements: Article now clearly distinguishes what standard arguments establish (epistemic thesis) from what the Map's position requires (metaphysical thesis), and acknowledges this is a genuine challenge that needs to be met.

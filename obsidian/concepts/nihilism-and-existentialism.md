@@ -189,19 +189,19 @@ The existentialist-dualist synthesis would face difficulty if:
 
 ## References
 
-- Camus, A. (1942). *The Myth of Sisyphus*.
-- de Beauvoir, S. (1947). *The Ethics of Ambiguity*.
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Heidegger, M. (1927). *Being and Time*.
-- Kierkegaard, S. (1843). *Either/Or*.
-- Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*.
-- Nietzsche, F. (1882). *The Gay Science*.
-- Nietzsche, F. (1883-1885). *Thus Spoke Zarathustra*.
-- Nietzsche, F. (1887). *On the Genealogy of Morals*.
-- Sartre, J.-P. (1943). *Being and Nothingness*.
-- Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
-- Schopenhauer, A. (1818). *The World as Will and Representation*.
-- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Camus, A. (1942). *The Myth of Sisyphus*.
+1. de Beauvoir, S. (1947). *The Ethics of Ambiguity*.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Heidegger, M. (1927). *Being and Time*.
+1. Kierkegaard, S. (1843). *Either/Or*.
+1. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*.
+1. Nietzsche, F. (1882). *The Gay Science*.
+1. Nietzsche, F. (1883-1885). *Thus Spoke Zarathustra*.
+1. Nietzsche, F. (1887). *On the Genealogy of Morals*.
+1. Sartre, J.-P. (1943). *Being and Nothingness*.
+1. Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
+1. Schopenhauer, A. (1818). *The World as Will and Representation*.
+1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

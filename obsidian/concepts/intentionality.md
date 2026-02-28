@@ -2,9 +2,9 @@
 title: "Intentionality"
 description: "The aboutness of mental states: why thoughts are directed at objects. Phenomenal intentionality theory shows content requires consciousness."
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-25T11:29:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -229,23 +229,24 @@ Intentionality connects to all five foundational tenets:
 
 ## References
 
-- Brentano, F. (1874/1995). *Psychology from an Empirical Standpoint*. Routledge.
-- Dennett, D. (1987). *The Intentional Stance*. MIT Press.
-- Dretske, F. (1981). *Knowledge and the Flow of Information*. MIT Press.
-- Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In *Philosophy of Mind*, ed. Chalmers. Oxford.
-- Internet Encyclopedia of Philosophy. "Intentionality." https://iep.utm.edu/intentionality/
-- Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
-- Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
-- Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
-- Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Brentano, F. (1874/1995). *Psychology from an Empirical Standpoint*. Routledge.
+1. Dennett, D. (1987). *The Intentional Stance*. MIT Press.
+1. Dretske, F. (1981). *Knowledge and the Flow of Information*. MIT Press.
+1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In *Philosophy of Mind*, ed. Chalmers. Oxford.
+1. Internet Encyclopedia of Philosophy. "Intentionality." https://iep.utm.edu/intentionality/
+1. Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
+1. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
+1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/dualism/
 
 <!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Compressed illusionism self-refutation section: replaced 3 standalone paragraphs (self-refutation, introspection question, binding problem parallel) with 2 focused paragraphs
-- Added cross-reference to illusionism.md#regress for full regress argument and Frankish's response
-- Added acknowledgment that many philosophers consider the regress objection question-begging
-- Preserved the explanatory-burden argument as the article-specific contribution
+1. Compressed illusionism self-refutation section: replaced 3 standalone paragraphs (self-refutation, introspection question, binding problem parallel) with 2 focused paragraphs
+1. Added cross-reference to illusionism.md#regress for full regress argument and Frankish's response
+1. Added acknowledgment that many philosophers consider the regress objection question-begging
+1. Preserved the explanatory-burden argument as the article-specific contribution
 
 Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
 Key improvements: Eliminates repetition fatigue; readers who want the full regress argument follow the cross-reference.

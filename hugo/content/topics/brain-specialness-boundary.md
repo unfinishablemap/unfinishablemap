@@ -161,9 +161,9 @@ None of these has occurred. The current framework remains consistent with availa
 
 ## References
 
-- Bunge, M. (1967). *Scientific Research II: The Search for Truth*. Springer.
-- Jahn, R.G., & Dunne, B.J. (2005). The PEAR proposition. *Journal of Scientific Exploration*, 19(2), 195-245.
-- Nelson, R.D., et al. (2002). Correlations of continuous random data with major world events. *Foundations of Physics Letters*, 15(6), 537-550.
-- Park, R.L. (2000). *Voodoo Science*. Oxford University Press.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Stapp, H.P. (2015). The relativistic space-time formulation. https://www-physics.lbl.gov/~stapp/
+1. Bunge, M. (1967). *Scientific Research II: The Search for Truth*. Springer.
+1. Jahn, R.G., & Dunne, B.J. (2005). The PEAR proposition. *Journal of Scientific Exploration*, 19(2), 195-245.
+1. Nelson, R.D., et al. (2002). Correlations of continuous random data with major world events. *Foundations of Physics Letters*, 15(6), 537-550.
+1. Park, R.L. (2000). *Voodoo Science*. Oxford University Press.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Stapp, H.P. (2015). The relativistic space-time formulation. https://www-physics.lbl.gov/~stapp/

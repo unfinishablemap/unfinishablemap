@@ -121,10 +121,10 @@ The observation void also connects to [the-unobservable-self](/voids/the-unobser
 
 ## References
 
-- Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge.
-- Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Martinus Nijhoff.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64(4): 354-361.
-- Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review* 117(2): 245-273.
-- Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-- Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies* 3(4): 330-349.
+1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge.
+1. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Martinus Nijhoff.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64(4): 354-361.
+1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review* 117(2): 245-273.
+1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies* 3(4): 330-349.

@@ -159,15 +159,15 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 
 ## References
 
-- Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
-- Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration and Dissociation*. Oxford University Press.
-- Dainton, B. (2000). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. Routledge.
-- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Leibniz, G.W. (1714). *Monadology*.
-- Lloyd, D. (2012). Neural correlates of temporal experience. In S. Edelman et al. (Eds.), *Being in Time*. John Benjamins.
-- Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
-- Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
-- Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
-- Tye, M. (2003). *Consciousness and Persons: Unity and Identity*. MIT Press.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
+1. Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration and Dissociation*. Oxford University Press.
+1. Dainton, B. (2000). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. Routledge.
+1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Leibniz, G.W. (1714). *Monadology*.
+1. Lloyd, D. (2012). Neural correlates of temporal experience. In S. Edelman et al. (Eds.), *Being in Time*. John Benjamins.
+1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
+1. Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
+1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
+1. Tye, M. (2003). *Consciousness and Persons: Unity and Identity*. MIT Press.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

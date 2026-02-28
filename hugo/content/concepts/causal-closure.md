@@ -223,8 +223,8 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 
 ## References
 
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-- Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-- Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
-- Stapp, H. P. (2007). *Mindful Universe*. Springer.
-- Vicente, A. (2006). "On the Causal Completeness of Physics." *International Studies in the Philosophy of Science*, 20(2), 149-171.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+1. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
+1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
+1. Vicente, A. (2006). "On the Causal Completeness of Physics." *International Studies in the Philosophy of Science*, 20(2), 149-171.

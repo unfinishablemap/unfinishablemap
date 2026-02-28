@@ -147,14 +147,14 @@ The activity framing strengthens the Map's framework at every point.
 
 ## References
 
-- Bergson, H. (1889/2001). *Time and Free Will*. Dover.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
-- Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
-- Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-- Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
-- Noë, A. (2004). *Action in Perception*. MIT Press.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Varela, F.J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.
-- Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
+1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
+1. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
+1. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+1. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
+1. Noë, A. (2004). *Action in Perception*. MIT Press.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Varela, F.J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.
+1. Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.

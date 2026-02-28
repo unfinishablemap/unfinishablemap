@@ -110,10 +110,10 @@ Protention supports the Map's foundational commitments at multiple points.
 
 ## References
 
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893–1917)* (trans. Brough). Kluwer. (Lectures delivered 1904–1905; manuscripts 1893–1917)
-- Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-- Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181–204.
-- Gallagher, S. (2011). Time in action. In C. Callender (Ed.), *The Oxford Handbook of Philosophy of Time* (pp. 419–437). Oxford University Press.
-- Varela, F. J. (1999). Present-time consciousness. *Journal of Consciousness Studies*, 6(2–3), 111–140.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893–1917)* (trans. Brough). Kluwer. (Lectures delivered 1904–1905; manuscripts 1893–1917)
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
+1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181–204.
+1. Gallagher, S. (2011). Time in action. In C. Callender (Ed.), *The Oxford Handbook of Philosophy of Time* (pp. 419–437). Oxford University Press.
+1. Varela, F. J. (1999). Present-time consciousness. *Journal of Consciousness Studies*, 6(2–3), 111–140.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/

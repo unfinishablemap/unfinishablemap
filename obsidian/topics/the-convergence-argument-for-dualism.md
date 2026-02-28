@@ -2,9 +2,9 @@
 title: "The Convergence Argument for Dualism"
 description: "Multiple independent arguments for dualism converge from different starting points. This convergence is itself an argument — and a powerful one — explored through epistemology and philosophy of science."
 created: 2026-02-18
-modified: 2026-02-18
+modified: 2026-02-28
 human_modified:
-ai_modified: 2026-02-22T01:25:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -158,13 +158,15 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 
 ## References
 
-- Barrett, H.C., Bolyanatz, A., Broesch, T., Cohen, E., Froerer, P., Kanovsky, M., Schug, M.G., & Laurence, S. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992.
-- Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
-- Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
-- Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
-- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
-- Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
-- Swinburne, R. (2004). *The Existence of God* (2nd ed.). Oxford University Press. [For Bayesian cumulative case methodology.]
+1. Barrett, H.C., Bolyanatz, A., Broesch, T., Cohen, E., Froerer, P., Kanovsky, M., Schug, M.G., & Laurence, S. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992.
+1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
+1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
+1. Kripke, S. (1972). *Naming and Necessity*. Harvard University Press.
+1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
+1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
+1. Swinburne, R. (2004). *The Existence of God* (2nd ed.). Oxford University Press. [For Bayesian cumulative case methodology.]
+1. Southgate, A. & Oquatre-six, C. (2026-01-14). The Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/the-case-for-dualism/
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/

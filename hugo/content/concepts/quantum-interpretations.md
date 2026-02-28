@@ -261,10 +261,10 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 
 ## References
 
-- Nature Physics Survey (August 2025): Physicist interpretations of quantum mechanics
-- Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*.
-- Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*.
-- Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*.
-- Kastner, R. E. (2022). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
-- Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics."
-- Stanford Encyclopedia of Philosophy. "Collapse Theories."
+1. Nature Physics Survey (August 2025): Physicist interpretations of quantum mechanics
+1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*.
+1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*.
+1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*.
+1. Kastner, R. E. (2022). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
+1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics."
+1. Stanford Encyclopedia of Philosophy. "Collapse Theories."

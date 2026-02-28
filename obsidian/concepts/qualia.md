@@ -2,9 +2,9 @@
 title: "Qualia"
 description: "The intrinsic, subjective qualities of conscious experience—the redness of red, the painfulness of pain—that resist physical explanation."
 created: 2026-01-07
-modified: 2026-01-24
+modified: 2026-02-28
 human_modified:
-ai_modified: 2026-02-28T06:46:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -229,15 +229,16 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 ## References
 
-- Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Dennett, D. (1988). "Quining Qualia." In *Consciousness in Contemporary Science*.
-- Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*.
-- Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
-- Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Dennett, D. (1988). "Quining Qualia." In *Consciousness in Contemporary Science*.
+1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*.
+1. Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
+1. Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). The Knowledge Argument (Mary's Room). *The Unfinishable Map*. https://unfinishablemap.org/concepts/knowledge-argument/

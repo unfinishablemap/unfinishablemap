@@ -100,11 +100,11 @@ The calibration void is adjacent to but distinct from the [[observation-void]]. 
 
 ## References
 
-- Alston, W. P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1–30.
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Irvine, E. (2012). "Old Problems with New Measures in the Science of Consciousness." *British Journal for the Philosophy of Science*, 63(3), 627–648.
-- McKilliam, A. (2025). "Detecting Introspective Errors in Consciousness Science." *Ergo*, 12(11).
-- Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88, 947–968.
-- Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245–273.
-- Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-- Varela, F. J. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330–349.
+1. Alston, W. P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1–30.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Irvine, E. (2012). "Old Problems with New Measures in the Science of Consciousness." *British Journal for the Philosophy of Science*, 63(3), 627–648.
+1. McKilliam, A. (2025). "Detecting Introspective Errors in Consciousness Science." *Ergo*, 12(11).
+1. Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88, 947–968.
+1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245–273.
+1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Varela, F. J. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330–349.

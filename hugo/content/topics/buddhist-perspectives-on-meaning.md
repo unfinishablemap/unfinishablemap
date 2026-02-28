@@ -177,9 +177,9 @@ The tension remains: is grounding meaning in consciousness itself another form o
 
 ## References
 
-- Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
-- Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism.
-- Encyclopedia of Buddhism. Dukkha.
-- Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
-- Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.
+1. Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism.
+1. Encyclopedia of Buddhism. Dukkha.
+1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
+1. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.

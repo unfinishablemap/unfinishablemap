@@ -162,13 +162,13 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. I
 
 ## References
 
-- Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section VI.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-- Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
-- Shulman, D. & Stroumsa, G. (Eds.) (2002). *Self and Self-Transformation in the History of Religions*. Oxford University Press.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section VI.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
+1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
+1. Shulman, D. & Stroumsa, G. (Eds.) (2002). *Self and Self-Transformation in the History of Religions*. Oxford University Press.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.

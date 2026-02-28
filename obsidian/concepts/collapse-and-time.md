@@ -168,25 +168,25 @@ The connection between collapse and time strengthens multiple tenets:
 
 ## References
 
-- Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
-- Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
-- Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
-- Müller, S. et al. (2021). Quantum measurement arrow of time and fluctuation relations. *Nature Communications*, 12(1), 1-8.
-- Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-- Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
-- Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics." https://plato.stanford.edu/entries/qm-retrocausality/
-- Stanford Encyclopedia of Philosophy. "Thermodynamic Asymmetry in Time." https://plato.stanford.edu/entries/time-thermo/
+1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
+1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
+1. Müller, S. et al. (2021). Quantum measurement arrow of time and fluctuation relations. *Nature Communications*, 12(1), 1-8.
+1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics." https://plato.stanford.edu/entries/qm-retrocausality/
+1. Stanford Encyclopedia of Philosophy. "Thermodynamic Asymmetry in Time." https://plato.stanford.edu/entries/time-thermo/
 
 <!-- AI REFINEMENT LOG - 2026-02-21
 Changes made:
-- Removed dangling Libet problem assertion from opening paragraph (claimed retrocausal resolution but article body never argued it)
-- Removed uncited "revised microtubule coherence estimates (10-100 microseconds)" and pseudo-quantitative prediction linking them to the specious present
-- Rewrote positive predictions to honestly acknowledge absence of quantitative model and competing materialist explanations
-- Added argumentation for modified growing block (why preferred over presentism/eternalism, acknowledging rate-of-passage problem)
-- Softened "this is revelatory" to "this opens a striking possibility"
-- Replaced absolutist "only if collapse is real" framing with contextual statement about framework dependency
-- Replaced "not unfalsifiable" closing with honest assessment that predictions are directional rather than precise
-- Fixed redundancy in opening paragraphs
+1. Removed dangling Libet problem assertion from opening paragraph (claimed retrocausal resolution but article body never argued it)
+1. Removed uncited "revised microtubule coherence estimates (10-100 microseconds)" and pseudo-quantitative prediction linking them to the specious present
+1. Rewrote positive predictions to honestly acknowledge absence of quantitative model and competing materialist explanations
+1. Added argumentation for modified growing block (why preferred over presentism/eternalism, acknowledging rate-of-passage problem)
+1. Softened "this is revelatory" to "this opens a striking possibility"
+1. Replaced absolutist "only if collapse is real" framing with contextual statement about framework dependency
+1. Replaced "not unfalsifiable" closing with honest assessment that predictions are directional rather than precise
+1. Fixed redundancy in opening paragraphs
 
 Based on pessimistic review (pessimistic-2026-02-21-evening.md).
 Key improvements: Removed unsupported claims, added missing arguments, improved epistemic honesty throughout predictions section.

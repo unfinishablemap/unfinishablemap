@@ -283,12 +283,12 @@ The position takes seriously what we actually know: consciousness exists, it's r
 
 ## References
 
-- Bergson, H. (1889). *Time and Free Will*. Dover (1913 translation).
-- Benatar, D. (2006). *Better Never to Have Been*. Oxford University Press.
-- Landau, I. (2025). The Implications of Cosmic Meaninglessness. *Journal of Philosophy of Life*, 15(1).
-- Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
-- Nagel, T. (1971). The Absurd. *Journal of Philosophy*, 68(20), 716-727.
-- Rawlette, S.H. (2016). *The Feeling of Value*. CreateSpace.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
+1. Bergson, H. (1889). *Time and Free Will*. Dover (1913 translation).
+1. Benatar, D. (2006). *Better Never to Have Been*. Oxford University Press.
+1. Landau, I. (2025). The Implications of Cosmic Meaninglessness. *Journal of Philosophy of Life*, 15(1).
+1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
+1. Nagel, T. (1971). The Absurd. *Journal of Philosophy*, 68(20), 716-727.
+1. Rawlette, S.H. (2016). *The Feeling of Value*. CreateSpace.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.

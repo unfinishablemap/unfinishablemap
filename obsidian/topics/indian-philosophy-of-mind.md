@@ -170,11 +170,11 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 
 ## References
 
-- Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
-- Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
-- O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press.
-- Phillips, S. H. (2012). *Epistemology in Classical India: The Knowledge Sources of the Nyaya School*. Routledge.
-- Ram-Prasad, C. (2001). *Knowledge and Liberation in Classical Indian Thought*. Palgrave.
-- Shankara. *Brahma Sutra Bhashya* (c. 800 CE). Trans. Swami Gambhirananda. Advaita Ashrama.
-- Ramanuja. *Sri Bhashya* (c. 12th century). Trans. Swami Vireswarananda and Swami Adidevananda. Advaita Ashrama.
-- Vacaspati Mishra. *Samkhya-Tattva-Kaumudi* (c. 980 CE). Trans. G. Jha in *The Samkhya-Tattva-Kaumudi*. Oriental Book Agency.
+1. Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
+1. Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
+1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press.
+1. Phillips, S. H. (2012). *Epistemology in Classical India: The Knowledge Sources of the Nyaya School*. Routledge.
+1. Ram-Prasad, C. (2001). *Knowledge and Liberation in Classical Indian Thought*. Palgrave.
+1. Shankara. *Brahma Sutra Bhashya* (c. 800 CE). Trans. Swami Gambhirananda. Advaita Ashrama.
+1. Ramanuja. *Sri Bhashya* (c. 12th century). Trans. Swami Vireswarananda and Swami Adidevananda. Advaita Ashrama.
+1. Vacaspati Mishra. *Samkhya-Tattva-Kaumudi* (c. 980 CE). Trans. G. Jha in *The Samkhya-Tattva-Kaumudi*. Oriental Book Agency.

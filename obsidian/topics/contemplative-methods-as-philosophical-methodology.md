@@ -138,9 +138,9 @@ Third, [[neurophenomenology|neurophenomenological]] cross-validation partially a
 
 ## References
 
-- Dreyfus, G. (2011). "Is Mindfulness Present-Centred and Non-Judgmental? A Discussion of the Cognitive Dimensions of Mindfulness." *Contemporary Buddhism*, 12(1), 41-54.
-- Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
-- Lutz, A., & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics." *Journal of Consciousness Studies*, 10(9-10), 31-52.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Varela, F. J. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Dreyfus, G. (2011). "Is Mindfulness Present-Centred and Non-Judgmental? A Discussion of the Cognitive Dimensions of Mindfulness." *Contemporary Buddhism*, 12(1), 41-54.
+1. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
+1. Lutz, A., & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics." *Journal of Consciousness Studies*, 10(9-10), 31-52.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Varela, F. J. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330-349.

@@ -129,17 +129,17 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 
 ## References
 
-- James, W. (1890). *The Principles of Psychology*, Chapter IX.
-- Kant, I. (1781/1787). *Critique of Pure Reason*, "Paralogisms of Pure Reason."
-- Scotus, J. D. (c. 1300). *Ordinatio* II, d.3, part 1.
-- Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Chalmers, D. J. (2017). "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. Brüntrup and Jaskolla.
-- Nida-Rümelin, M. (2010). "An Argument from Transtemporal Identity for Subject-Body Dualism." In *The Waning of Materialism*, ed. Koons and Bealer.
-- Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press.
-- Kolak, D. (2004). *I Am You: The Metaphysical Foundations for Global Ethics*. Springer.
-- Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Pinto, Y., et al. (2017). "Split Brain: Divided Perception but Undivided Consciousness." *Brain*, 140(5), 1231-1237.
-- Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
-- Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio*, 31(2), 132-144.
+1. James, W. (1890). *The Principles of Psychology*, Chapter IX.
+1. Kant, I. (1781/1787). *Critique of Pure Reason*, "Paralogisms of Pure Reason."
+1. Scotus, J. D. (c. 1300). *Ordinatio* II, d.3, part 1.
+1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Chalmers, D. J. (2017). "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. Brüntrup and Jaskolla.
+1. Nida-Rümelin, M. (2010). "An Argument from Transtemporal Identity for Subject-Body Dualism." In *The Waning of Materialism*, ed. Koons and Bealer.
+1. Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press.
+1. Kolak, D. (2004). *I Am You: The Metaphysical Foundations for Global Ethics*. Springer.
+1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Pinto, Y., et al. (2017). "Split Brain: Divided Perception but Undivided Consciousness." *Brain*, 140(5), 1231-1237.
+1. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
+1. Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio*, 31(2), 132-144.

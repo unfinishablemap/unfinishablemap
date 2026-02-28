@@ -125,13 +125,13 @@ The phenomenology of memory and self connects directly to the Map's foundational
 
 ## References
 
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
-- Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Gallagher, S. (2000). Philosophical conceptions of the self. *Trends in Cognitive Sciences*, 4(1), 14–21.
-- Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773–786.
-- Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
-- Klein, S. B., & Nichols, S. (2012). Memory and the sense of personal identity. *Mind*, 121(483), 677–702.
-- Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory. *Psychological Bulletin*, 121(3), 331–354.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893–1917)*. Trans. J. B. Brough. Kluwer.
-- Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
+1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Gallagher, S. (2000). Philosophical conceptions of the self. *Trends in Cognitive Sciences*, 4(1), 14–21.
+1. Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773–786.
+1. Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
+1. Klein, S. B., & Nichols, S. (2012). Memory and the sense of personal identity. *Mind*, 121(483), 677–702.
+1. Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory. *Psychological Bulletin*, 121(3), 331–354.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893–1917)*. Trans. J. B. Brough. Kluwer.
+1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.

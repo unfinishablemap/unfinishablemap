@@ -193,19 +193,19 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 
 ## References
 
-- Brentano, F. (1874/1995). *Psychology from an Empirical Standpoint*. Routledge.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind*. Routledge.
-- Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology*. Nijhoff.
-- Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
-- Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
-- Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
-- Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
-- Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-- Sartre, J.P. (1943/1956). *Being and Nothingness*. Philosophical Library.
-- Peng, R., & Hagar, A. (2025). Why cognitive science needs phenomenology: Rethinking the epistemology of consciousness through intuitive dualism. *Journal for the Theory of Social Behaviour*. Advance online publication. https://doi.org/10.1111/jtsb.70016
-- Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
-- Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Brentano, F. (1874/1995). *Psychology from an Empirical Standpoint*. Routledge.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind*. Routledge.
+1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology*. Nijhoff.
+1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
+1. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
+1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
+1. Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Sartre, J.P. (1943/1956). *Being and Nothingness*. Philosophical Library.
+1. Peng, R., & Hagar, A. (2025). Why cognitive science needs phenomenology: Rethinking the epistemology of consciousness through intuitive dualism. *Journal for the Theory of Social Behaviour*. Advance online publication. https://doi.org/10.1111/jtsb.70016
+1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
+1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

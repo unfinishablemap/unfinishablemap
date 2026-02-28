@@ -178,13 +178,13 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Churchland, P. M. (1981). "Eliminative Materialism and the Propositional Attitudes." *Journal of Philosophy*, 78(2), 67-90.
-- Coady, C. A. J. (1992). *Testimony: A Philosophical Study*. Oxford University Press.
-- Dennett, D. C. (2003). "Who's On First? Heterophenomenology Explained." *Journal of Consciousness Studies*, 10(9-10), 19-30.
-- Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Section X, "Of Miracles."
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
-- Lackey, J. (2008). *Learning from Words: Testimony as a Source of Knowledge*. Oxford University Press.
-- Lackey, J. & Sosa, E. (Eds.). (2006). *The Epistemology of Testimony*. Oxford University Press.
-- Reid, T. (1764). *An Inquiry into the Human Mind on the Principles of Common Sense*.
-- Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245-273.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Churchland, P. M. (1981). "Eliminative Materialism and the Propositional Attitudes." *Journal of Philosophy*, 78(2), 67-90.
+1. Coady, C. A. J. (1992). *Testimony: A Philosophical Study*. Oxford University Press.
+1. Dennett, D. C. (2003). "Who's On First? Heterophenomenology Explained." *Journal of Consciousness Studies*, 10(9-10), 19-30.
+1. Hume, D. (1748). *An Enquiry Concerning Human Understanding*. Section X, "Of Miracles."
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
+1. Lackey, J. (2008). *Learning from Words: Testimony as a Source of Knowledge*. Oxford University Press.
+1. Lackey, J. & Sosa, E. (Eds.). (2006). *The Epistemology of Testimony*. Oxford University Press.
+1. Reid, T. (1764). *An Inquiry into the Human Mind on the Principles of Common Sense*.
+1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245-273.

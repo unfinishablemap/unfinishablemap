@@ -184,21 +184,21 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 
 ## References
 
-- Chalmers, D.J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness*. MIT Press.
-- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
-- Kondziella, D., Friberg, C.K., Frokjaer, V.G., Fabricius, M., & Møller, K. (2016). Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*, 87, 485-492.
-- Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
-- Stanford Encyclopedia of Philosophy. Dualism. https://plato.stanford.edu/entries/dualism/
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Chalmers, D.J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness*. MIT Press.
+1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
+1. Kondziella, D., Friberg, C.K., Frokjaer, V.G., Fabricius, M., & Møller, K. (2016). Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*, 87, 485-492.
+1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+1. Stanford Encyclopedia of Philosophy. Dualism. https://plato.stanford.edu/entries/dualism/
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 
 <!-- AI REFINEMENT LOG - 2026-02-24
 Changes made:
-- Fixed TV analogy bias in "Correlation Is Not Identity": paired with physicalist digestion analogy to achieve genuine philosophical neutrality (pessimistic review Issue #2)
-- Qualified "clear signs of consciousness" to "neural responses consistent with consciousness" and noted interpretive disagreement (pessimistic review Issue #4)
-- Added Kondziella et al. (2016) citation for the 25% covert consciousness statistic (pessimistic review Issue #4)
+1. Fixed TV analogy bias in "Correlation Is Not Identity": paired with physicalist digestion analogy to achieve genuine philosophical neutrality (pessimistic review Issue #2)
+1. Qualified "clear signs of consciousness" to "neural responses consistent with consciousness" and noted interpretive disagreement (pessimistic review Issue #4)
+1. Added Kondziella et al. (2016) citation for the 25% covert consciousness statistic (pessimistic review Issue #4)
 
 Based on pessimistic review (pessimistic-2026-02-24.md), Issues #2 and #4.
 Key improvements: philosophical neutrality and empirical rigor.

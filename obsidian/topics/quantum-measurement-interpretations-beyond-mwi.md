@@ -122,14 +122,14 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 
 ## References
 
-- Nature Physics Survey (August 2025): Physicist interpretations of quantum mechanics
-- Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*.
-- Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*.
-- Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*.
-- Kastner, R. E. (2022). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
-- Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889–899.
-- Okon, E., & Sebastián, M. A. (2016). How to make quantum theory compatible with human experience. *Foundations of Physics*, 46(12), 1529–1552.
-- Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
-- Stapp, H. P. (2007). *Mindful Universe*. Springer.
-- Stanford Encyclopedia of Philosophy: Retrocausality in Quantum Mechanics
-- Stanford Encyclopedia of Philosophy: Collapse Theories
+1. Nature Physics Survey (August 2025): Physicist interpretations of quantum mechanics
+1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*.
+1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*.
+1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*.
+1. Kastner, R. E. (2022). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
+1. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889–899.
+1. Okon, E., & Sebastián, M. A. (2016). How to make quantum theory compatible with human experience. *Foundations of Physics*, 46(12), 1529–1552.
+1. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
+1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
+1. Stanford Encyclopedia of Philosophy: Retrocausality in Quantum Mechanics
+1. Stanford Encyclopedia of Philosophy: Collapse Theories

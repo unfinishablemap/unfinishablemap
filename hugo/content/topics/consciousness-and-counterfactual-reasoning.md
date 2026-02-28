@@ -124,9 +124,9 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 
 ## References
 
-- Byrne, R.M.J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133-148.
-- Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-- Van Hoeck, N., et al. (2015). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 10(11), 1534-1543.
-- Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84.
+1. Byrne, R.M.J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
+1. Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133-148.
+1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Van Hoeck, N., et al. (2015). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 10(11), 1534-1543.
+1. Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84.

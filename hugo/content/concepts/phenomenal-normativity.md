@@ -200,8 +200,8 @@ Phenomenal normativity would face pressure if:
 
 ## References
 
-- Rawlette, S. H. (2008). "Normative Qualia and Robust Moral Realism." PhD dissertation, New York University.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-- Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
-- Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
-- Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
+1. Rawlette, S. H. (2008). "Normative Qualia and Robust Moral Realism." PhD dissertation, New York University.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+1. Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
+1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
+1. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.

@@ -118,8 +118,8 @@ As the Map explores in [[consciousness-and-scientific-methodology]], science ach
 
 ## References
 
-- Chang, H. (2004). *Inventing Temperature: Measurement and Scientific Progress*. Oxford University Press.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review* 83(4), 435-450.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies* 3(4), 330-349.
+1. Chang, H. (2004). *Inventing Temperature: Measurement and Scientific Progress*. Oxford University Press.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review* 83(4), 435-450.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies* 3(4), 330-349.

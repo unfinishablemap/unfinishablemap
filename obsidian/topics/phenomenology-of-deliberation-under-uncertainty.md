@@ -154,11 +154,11 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 
 ## References
 
-- Dreyfus, H. L. (1997). Intuitive, Deliberative, and Calculative Models of Expert Performance. In C. Zsambok & G. Klein (Eds.), *Naturalistic Decision Making*. Lawrence Erlbaum.
-- Gigerenzer, G. (2007). *Gut Feelings: The Intelligence of the Unconscious*. Viking.
-- Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
-- Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, 47(2), 263-292.
-- Kierkegaard, S. (1843). *Fear and Trembling*. (Frygt og Bæven)
-- Knight, F. H. (1921). *Risk, Uncertainty, and Profit*. Houghton Mifflin.
-- Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
-- Simon, H. A. (1956). Rational Choice and the Structure of the Environment. *Psychological Review*, 63(2), 129-138.
+1. Dreyfus, H. L. (1997). Intuitive, Deliberative, and Calculative Models of Expert Performance. In C. Zsambok & G. Klein (Eds.), *Naturalistic Decision Making*. Lawrence Erlbaum.
+1. Gigerenzer, G. (2007). *Gut Feelings: The Intelligence of the Unconscious*. Viking.
+1. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
+1. Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, 47(2), 263-292.
+1. Kierkegaard, S. (1843). *Fear and Trembling*. (Frygt og Bæven)
+1. Knight, F. H. (1921). *Risk, Uncertainty, and Profit*. Houghton Mifflin.
+1. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
+1. Simon, H. A. (1956). Rational Choice and the Structure of the Environment. *Psychological Review*, 63(2), 129-138.

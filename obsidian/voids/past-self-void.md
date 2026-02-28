@@ -157,10 +157,10 @@ None of these conditions has been met. Evidence consistently supports the recons
 
 ## References
 
-- Conway, M.A. & Pleydell-Pearce, C.W. (2000). The construction of autobiographical memories in the self-memory system. *Psychological Review*, 107(2), 261-288.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Patihis, L. et al. (2013). False memories in highly superior autobiographical memory individuals. *Proceedings of the National Academy of Sciences*, 110(52), 20947-20952.
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-- De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
-- Stanford Encyclopedia of Philosophy. Memory. https://plato.stanford.edu/entries/memory/
-- Stanford Encyclopedia of Philosophy. Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
+1. Conway, M.A. & Pleydell-Pearce, C.W. (2000). The construction of autobiographical memories in the self-memory system. *Psychological Review*, 107(2), 261-288.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Patihis, L. et al. (2013). False memories in highly superior autobiographical memory individuals. *Proceedings of the National Academy of Sciences*, 110(52), 20947-20952.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+1. Stanford Encyclopedia of Philosophy. Memory. https://plato.stanford.edu/entries/memory/
+1. Stanford Encyclopedia of Philosophy. Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/

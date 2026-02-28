@@ -154,19 +154,19 @@ The history shows that interactionism's fortunes track developments in physics m
 
 ## References
 
-- Descartes, R. (1641). *Meditations on First Philosophy*.
-- Descartes, R. (1649). *The Passions of the Soul*.
-- Shapiro, L. (2007). *The Correspondence between Princess Elizabeth of Bohemia and René Descartes*. University of Chicago Press.
-- Leibniz, G.W. (1695). "New System of the Nature of Substances."
-- Broad, C.D. (1925). *The Mind and Its Place in Nature*. Kegan Paul.
-- Alexander, S. (1920). *Space, Time, and Deity*. Macmillan.
-- von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
-- Wigner, E. (1961). "Remarks on the Mind-Body Question." In *The Scientist Speculates*.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
-- Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-- Stapp, H.P. (2007). *Mindful Universe*. Springer.
-- Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1): 39–78.
-- Cucu, A.C. & Pitts, J.B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
-- Pitts, J.B. (2022). "Conservation Laws and the Philosophy of Mind." *Philosophia* 50: 1065–1083.
+1. Descartes, R. (1641). *Meditations on First Philosophy*.
+1. Descartes, R. (1649). *The Passions of the Soul*.
+1. Shapiro, L. (2007). *The Correspondence between Princess Elizabeth of Bohemia and René Descartes*. University of Chicago Press.
+1. Leibniz, G.W. (1695). "New System of the Nature of Substances."
+1. Broad, C.D. (1925). *The Mind and Its Place in Nature*. Kegan Paul.
+1. Alexander, S. (1920). *Space, Time, and Deity*. Macmillan.
+1. von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+1. Wigner, E. (1961). "Remarks on the Mind-Body Question." In *The Scientist Speculates*.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
+1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+1. Stapp, H.P. (2007). *Mindful Universe*. Springer.
+1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1): 39–78.
+1. Cucu, A.C. & Pitts, J.B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Pitts, J.B. (2022). "Conservation Laws and the Philosophy of Mind." *Philosophia* 50: 1065–1083.

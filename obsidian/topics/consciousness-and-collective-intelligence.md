@@ -101,9 +101,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet counsels against di
 
 ## References
 
-- Durkheim, É. (1893). *The Division of Labor in Society*. Free Press (1997 reprint).
-- Galton, F. (1907). "Vox Populi." *Nature*, 75, 450-451.
-- Surowiecki, J. (2004). *The Wisdom of Crowds*. Doubleday.
-- Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N., & Malone, T. W. (2010). "Evidence for a Collective Intelligence Factor in the Performance of Human Groups." *Science*, 330(6004), 686-688.
-- Hegel, G. W. F. (1807). *Phenomenology of Spirit*. Oxford University Press (1977 edition).
-- Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). "Integrated Information Theory: From Consciousness to Its Physical Substrate." *Nature Reviews Neuroscience*, 17(7), 450-461.
+1. Durkheim, É. (1893). *The Division of Labor in Society*. Free Press (1997 reprint).
+1. Galton, F. (1907). "Vox Populi." *Nature*, 75, 450-451.
+1. Surowiecki, J. (2004). *The Wisdom of Crowds*. Doubleday.
+1. Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N., & Malone, T. W. (2010). "Evidence for a Collective Intelligence Factor in the Performance of Human Groups." *Science*, 330(6004), 686-688.
+1. Hegel, G. W. F. (1807). *Phenomenology of Spirit*. Oxford University Press (1977 edition).
+1. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). "Integrated Information Theory: From Consciousness to Its Physical Substrate." *Nature Reviews Neuroscience*, 17(7), 450-461.

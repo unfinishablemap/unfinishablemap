@@ -190,29 +190,29 @@ This framework respects the ordinary intuition that people deserve praise and bl
 
 ## References
 
-- Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
-- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*.
-- Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
-- O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
-- Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
-- Soon, C.S., Brass, M., Heinze, H.J., & Haynes, J.D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
-- Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*.
-- Tallis, R. (2011). *Aping Mankind*. Acumen.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
+1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*.
+1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+1. O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
+1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
+1. Soon, C.S., Brass, M., Heinze, H.J., & Haynes, J.D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
+1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*.
+1. Tallis, R. (2011). *Aping Mankind*. Acumen.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 
 <!-- AI REFINEMENT LOG - 2026-02-18
 Changes made:
-- Restructured "The Quantum Zeno Mechanism" section → "How Agent Causation Grounds Control": agent causation now presented as philosophically grounded regardless of physical mechanism, with quantum Zeno as one speculative possible implementation (writing style guide compliance)
-- Fixed Soon et al. (2008) citation: clarified study predicted timing, not content; ~60% accuracy was for which button, barely above binary chance
-- Acknowledged agent causation as minority position in opening paragraph
-- Flagged "irreducible causal power" as doing significant unexplained work, with honest acknowledgment of the cost of treating it as a primitive
-- Softened decoherence section: removed specific quantum Zeno dependence, reframed around the more general point that consciousness might bias outcomes at the moment of decoherence
-- All changes driven by pessimistic-2026-02-17-night.md (Issues 3, 5; Unsupported Claims table)
+1. Restructured "The Quantum Zeno Mechanism" section → "How Agent Causation Grounds Control": agent causation now presented as philosophically grounded regardless of physical mechanism, with quantum Zeno as one speculative possible implementation (writing style guide compliance)
+1. Fixed Soon et al. (2008) citation: clarified study predicted timing, not content; ~60% accuracy was for which button, barely above binary chance
+1. Acknowledged agent causation as minority position in opening paragraph
+1. Flagged "irreducible causal power" as doing significant unexplained work, with honest acknowledgment of the cost of treating it as a primitive
+1. Softened decoherence section: removed specific quantum Zeno dependence, reframed around the more general point that consciousness might bias outcomes at the moment of decoherence
+1. All changes driven by pessimistic-2026-02-17-night.md (Issues 3, 5; Unsupported Claims table)
 
 Key improvements: Decoupled the philosophical argument for moral responsibility from speculative quantum mechanisms, improving resilience and style guide compliance.
 

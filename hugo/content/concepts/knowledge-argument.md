@@ -193,18 +193,18 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 
 ## References
 
-- Alter, T. (2024). *The Matter of Consciousness*. Oxford University Press.
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
-- Fox, K. C. R., et al. (2012). "Meditation Experience Predicts Introspective Accuracy." *PLOS ONE*, 7(9), e45370.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-- Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*, 83, 291-295.
-- Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29-57.
-- Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
-- Ludlow, P., Nagasawa, Y., & Stoljar, D. (eds.) (2004). *There's Something About Mary*. MIT Press.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
-- Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.
-- Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231-259.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Alter, T. (2024). *The Matter of Consciousness*. Oxford University Press.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+1. Fox, K. C. R., et al. (2012). "Meditation Experience Predicts Introspective Accuracy." *PLOS ONE*, 7(9), e45370.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
+1. Jackson, F. (1986). "What Mary Didn't Know." *Journal of Philosophy*, 83, 291-295.
+1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29-57.
+1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
+1. Ludlow, P., Nagasawa, Y., & Stoljar, D. (eds.) (2004). *There's Something About Mary*. MIT Press.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
+1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.
+1. Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231-259.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

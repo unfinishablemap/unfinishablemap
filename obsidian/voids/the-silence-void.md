@@ -127,12 +127,12 @@ The void also raises a provocative implication for the Map itself. If consciousn
 
 ## References
 
-- Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, Elsevier.
-- Ferrara, L. & Ferrara, L. (2023). "Silence as a Cognitive Tool to Comprehend the Environment." *Foundations of Science*, Springer.
-- Forman, R. K. C. (1990). *The Problem of Pure Consciousness: Mysticism and Philosophy*. Oxford University Press.
-- Anonymous (14th century). *The Cloud of Unknowing*.
-- Pseudo-Dionysius the Areopagite. *Mystical Theology*.
-- Heidegger, M. (1966). *Discourse on Thinking* (trans. Anderson & Freund). Harper & Row.
-- Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
-- Katz, S. T. (Ed.) (1978). *Mysticism and Philosophical Analysis*. Oxford University Press.
-- Winter, U., et al. (2020). "Nondual Awareness and Minimal Phenomenal Experience." *Frontiers in Psychology* 11: 2087.
+1. Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, Elsevier.
+1. Ferrara, L. & Ferrara, L. (2023). "Silence as a Cognitive Tool to Comprehend the Environment." *Foundations of Science*, Springer.
+1. Forman, R. K. C. (1990). *The Problem of Pure Consciousness: Mysticism and Philosophy*. Oxford University Press.
+1. Anonymous (14th century). *The Cloud of Unknowing*.
+1. Pseudo-Dionysius the Areopagite. *Mystical Theology*.
+1. Heidegger, M. (1966). *Discourse on Thinking* (trans. Anderson & Freund). Harper & Row.
+1. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
+1. Katz, S. T. (Ed.) (1978). *Mysticism and Philosophical Analysis*. Oxford University Press.
+1. Winter, U., et al. (2020). "Nondual Awareness and Minimal Phenomenal Experience." *Frontiers in Psychology* 11: 2087.

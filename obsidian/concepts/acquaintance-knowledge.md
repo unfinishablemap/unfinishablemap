@@ -109,15 +109,15 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 
 ## References
 
-- Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 11, 108-128.
-- Russell, B. (1912). *The Problems of Philosophy*. Williams and Norgate.
-- Harnad, S. (1990). "The Symbol Grounding Problem." *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346.
-- Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72(2), 136-150.
-- McDowell, J. (1994). *Mind and World*. Harvard University Press.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-- Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29-57.
-- Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.
-- Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
-- Kelly, S. (1998). "The Non-Conceptual Content of Perceptual Experience." *Electronic Journal of Analytic Philosophy*.
-- Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
-- Tye, M. (2009). *Consciousness Revisited*. MIT Press.
+1. Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 11, 108-128.
+1. Russell, B. (1912). *The Problems of Philosophy*. Williams and Norgate.
+1. Harnad, S. (1990). "The Symbol Grounding Problem." *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346.
+1. Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72(2), 136-150.
+1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
+1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29-57.
+1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.
+1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
+1. Kelly, S. (1998). "The Non-Conceptual Content of Perceptual Experience." *Electronic Journal of Analytic Philosophy*.
+1. Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+1. Tye, M. (2009). *Consciousness Revisited*. MIT Press.

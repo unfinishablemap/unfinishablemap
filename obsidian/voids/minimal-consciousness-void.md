@@ -106,10 +106,10 @@ The minimal consciousness void aligns with the Map's [[tenets]] in several ways.
 
 ## References
 
-- Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
-- Schooler, J. W., & Schreiber, C. A. (2004). "Experience, meta-consciousness, and the paradox of introspection." *Journal of Consciousness Studies*, 11(7-8), 17-39.
-- Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
-- Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-- Winter, U., et al. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
-- Hume, D. *A Treatise of Human Nature*, Book 1, Part 4, Section 6.
+1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Schooler, J. W., & Schreiber, C. A. (2004). "Experience, meta-consciousness, and the paradox of introspection." *Journal of Consciousness Studies*, 11(7-8), 17-39.
+1. Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
+1. Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
+1. Winter, U., et al. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
+1. Hume, D. *A Treatise of Human Nature*, Book 1, Part 4, Section 6.

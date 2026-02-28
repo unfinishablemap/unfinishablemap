@@ -177,22 +177,22 @@ The Map's framework is one of the few that provides all three elements needed to
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History." *Fortnightly Review*, 16, 555-580.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Jackson later recanted, arguing in 2003 that his earlier arguments rested on a mistake about phenomenal concepts.)
-- Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History." *Fortnightly Review*, 16, 555-580.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Jackson later recanted, arguing in 2003 that his earlier arguments rested on a mistake about phenomenal concepts.)
+1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 
 <!-- AI REFINEMENT LOG - 2026-02-24
 Changes made:
-- Added "The Decoherence Challenge" section addressing the strongest technical objection to the quantum escape route (decoherence timescales), citing the Map's decoherence article and five structured responses
-- Pinned Kim "not a stable position" quote to specific work (Kim 2005)
-- Added [decoherence](/concepts/decoherence/) to concepts frontmatter
-- Added decoherence and quantum-decoherence-objection-responses to Further Reading
-- Added Tegmark (2000) and Stapp (2007) to References
+1. Added "The Decoherence Challenge" section addressing the strongest technical objection to the quantum escape route (decoherence timescales), citing the Map's decoherence article and five structured responses
+1. Pinned Kim "not a stable position" quote to specific work (Kim 2005)
+1. Added [decoherence](/concepts/decoherence/) to concepts frontmatter
+1. Added decoherence and quantum-decoherence-objection-responses to Further Reading
+1. Added Tegmark (2000) and Stapp (2007) to References
 
 Prompted by pessimistic review (pessimistic-2026-02-24-afternoon.md) identifying that the escape argument lost credibility by ignoring the main technical objection.
 Key improvement: Article now engages with decoherence directly rather than leaving it as an unaddressed gap, while appropriately framing it as an empirical challenge rather than a philosophical refutation.

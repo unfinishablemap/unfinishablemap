@@ -245,23 +245,23 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 
 ## References
 
-- Bergson, H. (1896). *Matter and Memory*. Trans. N.M. Paul and W.S. Palmer.
-- Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
-- Carhart-Harris, R. & Friston, K. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
-- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
-- James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
-- Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
-- Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
-- Mashour, G. A., et al. (2024). Differential thalamic mechanisms of propofol and ketamine anaesthesia. *Anesthesiology*, 140(5), 923-934.
-- Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
-- Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
+1. Bergson, H. (1896). *Matter and Memory*. Trans. N.M. Paul and W.S. Palmer.
+1. Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
+1. Carhart-Harris, R. & Friston, K. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
+1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
+1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
+1. Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
+1. Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
+1. Mashour, G. A., et al. (2024). Differential thalamic mechanisms of propofol and ketamine anaesthesia. *Anesthesiology*, 140(5), 923-934.
+1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
+1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 
 <!-- AI REFINEMENT LOG - 2026-02-17
 Changes made:
-- Added unfalsifiability caveat to "What is the mechanism of transmission?" objection response, noting consciousness-selection is empirically indistinguishable from random collapse per measurement-problem article
-- Added unfalsifiability caveat to Minimal Quantum Interaction section in Relation to Site Perspective, clarifying the interface point is conceptually motivated, not empirically demonstrated
-- Added measurement-problem to concepts frontmatter
+1. Added unfalsifiability caveat to "What is the mechanism of transmission?" objection response, noting consciousness-selection is empirically indistinguishable from random collapse per measurement-problem article
+1. Added unfalsifiability caveat to Minimal Quantum Interaction section in Relation to Site Perspective, clarifying the interface point is conceptually motivated, not empirically demonstrated
+1. Added measurement-problem to concepts frontmatter
 
 Based on pessimistic review pessimistic-2026-02-17.md (Issue 1: Cross-Article Unfalsifiability Leak).
 Key improvements: honest propagation of measurement-problem article's own unfalsifiability admission to quantum mechanism references.

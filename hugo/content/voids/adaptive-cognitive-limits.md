@@ -96,10 +96,10 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 
 ## References
 
-- Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
-- Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
-- Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
-- Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
-- Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(2), 1352-1359.
-- McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-- Rancourt, B. T. (2025). The virtue of ignorance: How epistemic agency needs cognitive limitations. *The Southern Journal of Philosophy*, 62.
+1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
+1. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
+1. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
+1. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
+1. Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(2), 1352-1359.
+1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
+1. Rancourt, B. T. (2025). The virtue of ignorance: How epistemic agency needs cognitive limitations. *The Southern Journal of Philosophy*, 62.

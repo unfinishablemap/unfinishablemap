@@ -149,8 +149,8 @@ This has implications for the [[contemplative-epistemology|contemplative epistem
 
 ## References
 
-- Brefczynski-Lewis, J.A., Lutz, A., Schaefer, H.S., Levinson, D.B. & Davidson, R.J. (2007). Neural correlates of attentional expertise in long-term meditation practitioners. *PNAS*, 104(27), 11483-11488.
-- Hasenkamp, W., Wilson-Mendenhall, C.D., Duncan, E. & Barsalou, L.W. (2012). Mind wandering and attention during focused meditation: A fine-grained temporal analysis of fluctuating cognitive states. *NeuroImage*, 59(1), 750-760.
-- Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
-- Schooler, J.W. (2002). Re-representing consciousness: Dissociations between experience and meta-consciousness. *Trends in Cognitive Sciences*, 6(8), 339-344.
-- Smallwood, J. & Schooler, J.W. (2015). The science of mind wandering: Empirically navigating the stream of consciousness. *Annual Review of Psychology*, 66, 487-518.
+1. Brefczynski-Lewis, J.A., Lutz, A., Schaefer, H.S., Levinson, D.B. & Davidson, R.J. (2007). Neural correlates of attentional expertise in long-term meditation practitioners. *PNAS*, 104(27), 11483-11488.
+1. Hasenkamp, W., Wilson-Mendenhall, C.D., Duncan, E. & Barsalou, L.W. (2012). Mind wandering and attention during focused meditation: A fine-grained temporal analysis of fluctuating cognitive states. *NeuroImage*, 59(1), 750-760.
+1. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
+1. Schooler, J.W. (2002). Re-representing consciousness: Dissociations between experience and meta-consciousness. *Trends in Cognitive Sciences*, 6(8), 339-344.
+1. Smallwood, J. & Schooler, J.W. (2015). The science of mind wandering: Empirically navigating the stream of consciousness. *Annual Review of Psychology*, 66, 487-518.

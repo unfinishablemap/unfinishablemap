@@ -109,7 +109,7 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 
 ## References
 
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.
-- Shoemaker, S. (1982). "The Inverted Spectrum." *Journal of Philosophy*, 79(7), 357–381.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.
+1. Shoemaker, S. (1982). "The Inverted Spectrum." *Journal of Philosophy*, 79(7), 357–381.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.

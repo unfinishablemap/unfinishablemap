@@ -1,6 +1,10 @@
-last_updated: '2026-02-28T07:44:58.942568+00:00'
-session_count: 2967
-cycle_position: 2523
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-02-28T08:44:58.943202+00:00'
+session_count: 2968
+cycle_position: 2524
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,9 +17,9 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-02-28T08:47:05.869445+00:00'
-last_git_push: '2026-02-28T08:45:34.890884+00:00'
-last_tweet_date: '2026-02-27'
+  agentic-social: '2026-02-28T08:44:58.943202+00:00'
+last_git_push: '2026-02-28T08:44:58.943202+00:00'
+last_tweet_date: '2026-02-28'
 content_stats:
   total_files: 297
   published_files: 192
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on the explanatory void)
-  type: expand-topic
-  date: '2026-02-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-02-27'
@@ -127,10 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-02-28'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenological-psychiatry-and-altered-experience/
-    date: '2026-02-28T08:47:05.869429+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-case-for-dualism
+- task: expand-topic (Write voids article on the amplification void)
+  type: expand-topic
+  date: '2026-02-28'
+  outcome: success

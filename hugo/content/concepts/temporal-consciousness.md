@@ -190,29 +190,29 @@ Temporal consciousness connects to all five tenets:
 
 ## References
 
-- Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
-- Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-- Bergson, H. (1896/1988). *Matter and Memory*. Zone Books.
-- Bergson, H. (1907/1998). *Creative Evolution*. Dover.
-- Clay, E.R. (1882). *The Alternative*.
-- Craig, A.D. (2009). How do you feel—now? The anterior insula and human awareness. *Nature Reviews Neuroscience*, 10(1), 59-70.
-- Dainton, B. (2008). "The Experience of Time and Change." *Philosophy Compass*, 3(4), 619-652.
-- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Hoel, E. (2025). A Disproof of Large Language Model Consciousness. arXiv:2512.12802.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
-- Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
-- Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
-- Stanford Encyclopedia of Philosophy. "Temporal Consciousness."
-- Stanford Encyclopedia of Philosophy. "Henri Bergson."
-- Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
-- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al.
-- Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
-- Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration and Dissociation*. Oxford University Press.
-- Fuchs, T. (2007). The temporal structure of intentionality and its disturbance in schizophrenia. *Psychopathology*, 40(4), 229-235.
-- Vogeley, K. & Kupke, C. (2007). Disturbances of time consciousness from a phenomenological and a neuroscientific perspective. *Schizophrenia Bulletin*, 33(1), 157-165.
-- Baker, J. & Cariani, P. (2025). Time-domain brain. *Frontiers in Computational Neuroscience*.
+1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
+1. Bergson, H. (1896/1988). *Matter and Memory*. Zone Books.
+1. Bergson, H. (1907/1998). *Creative Evolution*. Dover.
+1. Clay, E.R. (1882). *The Alternative*.
+1. Craig, A.D. (2009). How do you feel—now? The anterior insula and human awareness. *Nature Reviews Neuroscience*, 10(1), 59-70.
+1. Dainton, B. (2008). "The Experience of Time and Change." *Philosophy Compass*, 3(4), 619-652.
+1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Hoel, E. (2025). A Disproof of Large Language Model Consciousness. arXiv:2512.12802.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
+1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
+1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness."
+1. Stanford Encyclopedia of Philosophy. "Henri Bergson."
+1. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
+1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+1. Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al.
+1. Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
+1. Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration and Dissociation*. Oxford University Press.
+1. Fuchs, T. (2007). The temporal structure of intentionality and its disturbance in schizophrenia. *Psychopathology*, 40(4), 229-235.
+1. Vogeley, K. & Kupke, C. (2007). Disturbances of time consciousness from a phenomenological and a neuroscientific perspective. *Schizophrenia Bulletin*, 33(1), 157-165.
+1. Baker, J. & Cariani, P. (2025). Time-domain brain. *Frontiers in Computational Neuroscience*.

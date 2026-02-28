@@ -221,22 +221,22 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History."
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Note: Jackson later recanted epiphenomenalism, arguing in 2003 that his earlier arguments rested on a mistake about the nature of phenomenal concepts.)
-- Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
-- Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
-- PMC10817314. (2024). Evolution of Consciousness. *Neuroscience of Consciousness*.
-- Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
-- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History."
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Note: Jackson later recanted epiphenomenalism, arguing in 2003 that his earlier arguments rested on a mistake about the nature of phenomenal concepts.)
+1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
+1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. PMC10817314. (2024). Evolution of Consciousness. *Neuroscience of Consciousness*.
+1. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
+1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 
 <!-- AI REFINEMENT LOG - 2026-02-20
 Changes made:
-- Expanded the AI exception subsection's closing paragraphs to explicitly address the tension with the Bidirectional Interaction tenet
-- Distinguished between the tenet's metaphysical scope (all consciousness) and the self-stultification argument's epistemic scope (human consciousness)
-- Clarified that the tenet is a foundational commitment grounded in the quantum mechanism and evolutionary/empirical evidence, not solely derived from self-stultification
-- Introduced epistemic vs. metaphysical framing: the AI exception limits what we can prove, not what the tenet claims
-- Updated Assessment section to make the same distinction, affirming the tenet's general scope while acknowledging the epistemic gap
+1. Expanded the AI exception subsection's closing paragraphs to explicitly address the tension with the Bidirectional Interaction tenet
+1. Distinguished between the tenet's metaphysical scope (all consciousness) and the self-stultification argument's epistemic scope (human consciousness)
+1. Clarified that the tenet is a foundational commitment grounded in the quantum mechanism and evolutionary/empirical evidence, not solely derived from self-stultification
+1. Introduced epistemic vs. metaphysical framing: the AI exception limits what we can prove, not what the tenet claims
+1. Updated Assessment section to make the same distinction, affirming the tenet's general scope while acknowledging the epistemic gap
 
 Prompted by pessimistic review Issue #2 (2026-02-20): unacknowledged tension between AI exception and Bidirectional Interaction tenet's general claim.
 

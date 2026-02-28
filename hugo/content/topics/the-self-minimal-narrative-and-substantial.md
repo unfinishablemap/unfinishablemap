@@ -165,12 +165,12 @@ The three-layered self connects directly to the Map's foundational commitments.
 
 ## References
 
-- Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
-- Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
-- Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
+1. Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
+1. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.

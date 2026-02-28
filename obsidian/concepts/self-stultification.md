@@ -145,9 +145,9 @@ The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]
 
 ## References
 
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-- James, W. (1879). "Are We Automata?" *Mind*, 4, 1-22.
-- Lewis, C.S. (1947/1960). *Miracles: A Preliminary Study*. Geoffrey Bles.
-- Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
-- Popper, K. & Eccles, J. (1977). *The Self and Its Brain*. Springer.
-- Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
+1. James, W. (1879). "Are We Automata?" *Mind*, 4, 1-22.
+1. Lewis, C.S. (1947/1960). *Miracles: A Preliminary Study*. Geoffrey Bles.
+1. Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
+1. Popper, K. & Eccles, J. (1977). *The Self and Its Brain*. Springer.
+1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.

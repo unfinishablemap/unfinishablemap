@@ -126,7 +126,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 
 ## References
 
-- Aristotle. *Nicomachean Ethics*, Book III, Chapters 1–5. (Compulsion and voluntariness in action.)
-- Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
-- Morgan, C. A. et al. (2004). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 56(12), 880–889.
-- Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.
+1. Aristotle. *Nicomachean Ethics*, Book III, Chapters 1–5. (Compulsion and voluntariness in action.)
+1. Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
+1. Morgan, C. A. et al. (2004). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 56(12), 880–889.
+1. Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.

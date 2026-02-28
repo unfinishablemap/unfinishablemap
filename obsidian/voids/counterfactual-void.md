@@ -108,9 +108,9 @@ The counterfactual void connects to The Unfinishable Map's [[tenets]] at multipl
 
 ## References
 
-- Byrne, R.M.J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
-- Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1–42.
-- Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67–84.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
-- Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In Gendler & Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
-- Berto, F. (2017). "Impossible Worlds and the Logic of Imagination." *Erkenntnis*.
+1. Byrne, R.M.J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
+1. Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1–42.
+1. Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67–84.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
+1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In Gendler & Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
+1. Berto, F. (2017). "Impossible Worlds and the Logic of Imagination." *Erkenntnis*.

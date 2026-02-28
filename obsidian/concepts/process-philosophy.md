@@ -185,11 +185,11 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 
 ## References
 
-- Bergson, H. (1889/2001). *Time and Free Will*. Dover.
-- Bergson, H. (1907/1998). *Creative Evolution*. Dover.
-- Cobb, J. B. & Griffin, D. R. (1976). *Process Theology: An Introductory Exposition*. Westminster Press.
-- Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
-- Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.
-- Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
-- Whitehead, A. N. (1933). *Adventures of Ideas*. Macmillan.
+1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+1. Bergson, H. (1907/1998). *Creative Evolution*. Dover.
+1. Cobb, J. B. & Griffin, D. R. (1976). *Process Theology: An Introductory Exposition*. Westminster Press.
+1. Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
+1. Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.
+1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
+1. Whitehead, A. N. (1933). *Adventures of Ideas*. Macmillan.

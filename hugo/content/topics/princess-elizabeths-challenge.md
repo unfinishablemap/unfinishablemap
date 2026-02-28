@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 14:06:00+00:00
+ai_modified: 2026-02-28 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[pairing-problem]]'
 created: 2026-02-09
-date: &id001 2026-02-09
+date: &id001 2026-02-28
 description: Elisabeth of Bohemia's 1643 correspondence with Descartes posed the interaction
   problem that has shaped dualism for four centuries—and remains unresolved.
 draft: false
@@ -132,12 +132,13 @@ Elisabeth identified the problem that any interactionist dualism must solve. Nea
 
 ## References
 
-- Shapiro, L. (2007). *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*. University of Chicago Press.
-- Descartes, R. (1641). *Meditations on First Philosophy*.
-- Descartes, R. (1649). *The Passions of the Soul*.
-- Stencil, E. (2023). "Elisabeth of Bohemia on the Soul." *Journal of Modern Philosophy*, 5(4).
-- Janssen-Lauret, F. (2018). "Princess Elisabeth of Bohemia and the Problem of Mind-Body Interaction."
-- Kim, J. (2011). *Philosophy of Mind*. 3rd edition. Westview Press.
-- Ebbersmeyer, S. & Hutton, S. (eds.) (2021). *Elisabeth of Bohemia (1618–1680): A Philosopher in her Historical Context*. Springer.
-- Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-- Leibniz, G.W. (1695). "New System of the Nature of Substances."
+1. Shapiro, L. (2007). *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*. University of Chicago Press.
+1. Descartes, R. (1641). *Meditations on First Philosophy*.
+1. Descartes, R. (1649). *The Passions of the Soul*.
+1. Stencil, E. (2023). "Elisabeth of Bohemia on the Soul." *Journal of Modern Philosophy*, 5(4).
+1. Janssen-Lauret, F. (2018). "Princess Elisabeth of Bohemia and the Problem of Mind-Body Interaction."
+1. Kim, J. (2011). *Philosophy of Mind*. 3rd edition. Westview Press.
+1. Ebbersmeyer, S. & Hutton, S. (eds.) (2021). *Elisabeth of Bohemia (1618–1680): A Philosopher in her Historical Context*. Springer.
+1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+1. Leibniz, G.W. (1695). "New System of the Nature of Substances."
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation/

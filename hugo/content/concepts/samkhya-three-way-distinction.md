@@ -138,8 +138,8 @@ The three-way distinction challenges the Map's framework in productive ways.
 
 ## References
 
-- Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
-- O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press.
-- Vacaspati Mishra. *Samkhya-Tattva-Kaumudi* (c. 980 CE). Trans. G. Jha. Oriental Book Agency.
-- Larson, G. J. and Bhattacharya, R. S. (1987). *Encyclopedia of Indian Philosophies, Vol. IV: Samkhya*. Motilal Banarsidass.
-- Internet Encyclopedia of Philosophy, "Sankhya": https://iep.utm.edu/sankhya/
+1. Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
+1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press.
+1. Vacaspati Mishra. *Samkhya-Tattva-Kaumudi* (c. 980 CE). Trans. G. Jha. Oriental Book Agency.
+1. Larson, G. J. and Bhattacharya, R. S. (1987). *Encyclopedia of Indian Philosophies, Vol. IV: Samkhya*. Motilal Banarsidass.
+1. Internet Encyclopedia of Philosophy, "Sankhya": https://iep.utm.edu/sankhya/

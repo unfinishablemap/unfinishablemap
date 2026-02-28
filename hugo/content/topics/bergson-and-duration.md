@@ -145,12 +145,12 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 
 ## References
 
-- Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-- Bergson, H. (1896/1988). *Matter and Memory*. Zone Books.
-- Bergson, H. (1907/1998). *Creative Evolution*. Dover.
-- Bergson, H. (1934/1946). *The Creative Mind: An Introduction to Metaphysics*. Citadel Press.
-- Guerlac, S. (2006). *Thinking in Time: An Introduction to Henri Bergson*. Cornell University Press.
-- Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
-- Lacey, A.R. (1989). *Bergson*. Routledge.
-- Mullarkey, J. (1999). *Bergson and Philosophy*. Edinburgh University Press.
-- Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
+1. Bergson, H. (1896/1988). *Matter and Memory*. Zone Books.
+1. Bergson, H. (1907/1998). *Creative Evolution*. Dover.
+1. Bergson, H. (1934/1946). *The Creative Mind: An Introduction to Metaphysics*. Citadel Press.
+1. Guerlac, S. (2006). *Thinking in Time: An Introduction to Henri Bergson*. Cornell University Press.
+1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
+1. Lacey, A.R. (1989). *Bergson*. Routledge.
+1. Mullarkey, J. (1999). *Bergson and Philosophy*. Edinburgh University Press.
+1. Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.

@@ -102,9 +102,9 @@ The argument also connects to the Map's intellectual honesty about its own limit
 
 ## References
 
-- Chalmers, D. (2003). "Consciousness and its Place in Nature." In *The Blackwell Guide to Philosophy of Mind*.
-- Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap."
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- Chomsky, N. (2014). "Science, Mind, and Limits of Understanding."
-- Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Chalmers, D. (2003). "Consciousness and its Place in Nature." In *The Blackwell Guide to Philosophy of Mind*.
+1. Chalmers, D. (2006). "Phenomenal Concepts and the Explanatory Gap."
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding."
+1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.

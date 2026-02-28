@@ -117,7 +117,7 @@ The bandwidth problem also differs from the [[concepts/binding-problem|binding p
 
 ## References
 
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
-- Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

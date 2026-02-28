@@ -107,8 +107,8 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 
 ## References
 
-- Garfield, J. L. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
-- Markus, H. R. & Kitayama, S. (1991). "Culture and the Self: Implications for Cognition, Emotion, and Motivation." *Psychological Review*, 98(2), 224–253.
-- Slingerland, E. (2003). *Effortless Action: Wu-Wei as Conceptual Metaphor and Spiritual Ideal in Early China*. Oxford University Press.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Garfield, J. L. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
+1. Markus, H. R. & Kitayama, S. (1991). "Culture and the Self: Implications for Cognition, Emotion, and Motivation." *Psychological Review*, 98(2), 224–253.
+1. Slingerland, E. (2003). *Effortless Action: Wu-Wei as Conceptual Metaphor and Spiritual Ideal in Early China*. Oxford University Press.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

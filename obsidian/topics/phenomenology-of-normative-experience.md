@@ -200,13 +200,13 @@ The phenomenology of normative experience connects to the Map's [[tenets|foundat
 
 ## References
 
-- Williams, Bernard. (1973). "Ethical Consistency." In *Problems of the Self: Philosophical Papers 1956-1972*. Cambridge University Press.
-- Williams, Bernard. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973-1980*. Cambridge University Press.
-- Nagel, Thomas. (1979). "The Fragmentation of Value." In *Mortal Questions*. Cambridge University Press.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-- Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
-- Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-- Chudnoff, E. (2013). *Intuition*. Oxford University Press.
-- Kriegel, U. (2015). *The Varieties of Consciousness*. Oxford University Press.
-- Kant, I. (1790/2000). *Critique of the Power of Judgment*. Cambridge University Press.
-- Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.
+1. Williams, Bernard. (1973). "Ethical Consistency." In *Problems of the Self: Philosophical Papers 1956-1972*. Cambridge University Press.
+1. Williams, Bernard. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973-1980*. Cambridge University Press.
+1. Nagel, Thomas. (1979). "The Fragmentation of Value." In *Mortal Questions*. Cambridge University Press.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+1. Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
+1. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+1. Chudnoff, E. (2013). *Intuition*. Oxford University Press.
+1. Kriegel, U. (2015). *The Varieties of Consciousness*. Oxford University Press.
+1. Kant, I. (1790/2000). *Critique of the Power of Judgment*. Cambridge University Press.
+1. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.

@@ -141,11 +141,11 @@ Agent teleology follows directly from the Map's tenets.
 
 ## References
 
-- Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas. (Foundational distinction between immanent and transeunt causation, underlying the agent-causal framework this article builds on.)
-- Dennett, D. (1987). *The Intentional Stance*. MIT Press.
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press. (The exclusion argument against mental causation, which agent teleology must overcome.)
-- Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-- Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
-- Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
-- Swinburne, R. (1997). *The Evolution of the Soul*. Oxford University Press.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas. (Foundational distinction between immanent and transeunt causation, underlying the agent-causal framework this article builds on.)
+1. Dennett, D. (1987). *The Intentional Stance*. MIT Press.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press. (The exclusion argument against mental causation, which agent teleology must overcome.)
+1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
+1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
+1. Swinburne, R. (1997). *The Evolution of the Soul*. Oxford University Press.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

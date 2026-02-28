@@ -162,13 +162,13 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 
 ## References
 
-- Baddeley, A. (2012). Working memory: Theories, models, and controversies. *Annual Review of Psychology*, 63, 1-29.
-- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
-- Dreyfus, H. L. (2002). "Intelligence without representation." *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
-- Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). "The role of deliberate practice in the acquisition of expert performance." *Psychological Review*, 100(3), 363-406.
-- Fitts, P. M., & Posner, M. I. (1967). *Human Performance*. Brooks/Cole.
-- Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
-- Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
-- Rouder, J. N., Morey, R. D., Cowan, N., Zwilling, C. E., Morey, C. C., & Pratte, M. S. (2008). An assessment of fixed-capacity models of visual working memory. *Proceedings of the National Academy of Sciences*, 105(16), 5975-5979.
-- Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
-- Tulving, E. (1985). "Memory and consciousness." *Canadian Psychology*, 26(1), 1-12.
+1. Baddeley, A. (2012). Working memory: Theories, models, and controversies. *Annual Review of Psychology*, 63, 1-29.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
+1. Dreyfus, H. L. (2002). "Intelligence without representation." *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
+1. Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). "The role of deliberate practice in the acquisition of expert performance." *Psychological Review*, 100(3), 363-406.
+1. Fitts, P. M., & Posner, M. I. (1967). *Human Performance*. Brooks/Cole.
+1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
+1. Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
+1. Rouder, J. N., Morey, R. D., Cowan, N., Zwilling, C. E., Morey, C. C., & Pratte, M. S. (2008). An assessment of fixed-capacity models of visual working memory. *Proceedings of the National Academy of Sciences*, 105(16), 5975-5979.
+1. Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
+1. Tulving, E. (1985). "Memory and consciousness." *Canadian Psychology*, 26(1), 1-12.

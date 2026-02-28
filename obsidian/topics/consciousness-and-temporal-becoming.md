@@ -210,20 +210,20 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 
 ## References
 
-- Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-- Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
-- Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
-- Broad, C.D. (1923). *Scientific Thought*. Routledge.
-- Campbell, D.T. (1960). Blind variation and selective retention in creative thought as in other knowledge processes. *Psychological Review*, 67(6), 380-400.
-- Greene, P. & Sullivan, M. (2015). Against Time Bias. *Ethics*, 125(4), 947-970.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
-- Sheth, B.R., Sandkühler, S. & Bhatt, J. (2009). Cerebral cortical signals of creativity. *NeuroReport*, 20(6), 540-545.
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-- Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
-- Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
-- Weyl, H. (1949). *Philosophy of Mathematics and Natural Science*. Princeton University Press.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
+1. Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
+1. Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
+1. Broad, C.D. (1923). *Scientific Thought*. Routledge.
+1. Campbell, D.T. (1960). Blind variation and selective retention in creative thought as in other knowledge processes. *Psychological Review*, 67(6), 380-400.
+1. Greene, P. & Sullivan, M. (2015). Against Time Bias. *Ethics*, 125(4), 947-970.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+1. Sheth, B.R., Sandkühler, S. & Bhatt, J. (2009). Cerebral cortical signals of creativity. *NeuroReport*, 20(6), 540-545.
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
+1. Wallas, G. (1926). *The Art of Thought*. London: Jonathan Cape.
+1. Weyl, H. (1949). *Philosophy of Mathematics and Natural Science*. Princeton University Press.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

@@ -108,9 +108,9 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 
 ## References
 
-- Block, N. (1990). "Inverted Earth." *Philosophical Perspectives*, 4, 53–79.
-- Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181–204.
-- Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
-- Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Translated by F. Kersten. Martinus Nijhoff.
-- Land, E. H. (1977). "The Retinex Theory of Color Vision." *Scientific American*, 237(6), 108–128.
-- Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
+1. Block, N. (1990). "Inverted Earth." *Philosophical Perspectives*, 4, 53–79.
+1. Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181–204.
+1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
+1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Translated by F. Kersten. Martinus Nijhoff.
+1. Land, E. H. (1977). "The Retinex Theory of Color Vision." *Scientific American*, 237(6), 108–128.
+1. Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.

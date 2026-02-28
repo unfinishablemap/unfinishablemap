@@ -206,12 +206,12 @@ The gap supports humility. If we cannot understand consciousness from physical d
 
 ## References
 
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-- Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
-- Strawson, G. (2018). "The Silliest Claim." In *The Routledge Handbook of Panpsychism*. Routledge.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
+1. Strawson, G. (2018). "The Silliest Claim." In *The Routledge Handbook of Panpsychism*. Routledge.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

@@ -176,12 +176,12 @@ This article connects to multiple tenets:
 
 <!-- AI REFINEMENT LOG - 2026-02-18
 Changes made:
-- Fixed core equivocation: article now distinguishes QBism's *structural dependence* on consciousness (uniquely problematic) from the general hard problem (shared by all interpretations)
-- Reframed phenomenological test: no longer conflates hard problem with temporal priority of experience; now targets QBism's specific circularity (credences defined over phenomenal outcomes, consciousness on both sides of the probability relation)
-- Reduced overlap with indexical-identity-quantum-measurement.md: trimmed consciousness-collapse, relational QM, and probability-readings sections to focus on this article's distinctive thesis; added cross-references to companion article for full treatment
-- Fixed Wigner's retreat: now acknowledges his reasons were complex and that decoherence doesn't solve measurement problem (avoiding self-contradiction with Map's own position)
-- Applied language improvements from pessimistic review (removed clichés, clarified hedged constructions)
-- Updated description to reflect refined thesis about structural dependence
+1. Fixed core equivocation: article now distinguishes QBism's *structural dependence* on consciousness (uniquely problematic) from the general hard problem (shared by all interpretations)
+1. Reframed phenomenological test: no longer conflates hard problem with temporal priority of experience; now targets QBism's specific circularity (credences defined over phenomenal outcomes, consciousness on both sides of the probability relation)
+1. Reduced overlap with indexical-identity-quantum-measurement.md: trimmed consciousness-collapse, relational QM, and probability-readings sections to focus on this article's distinctive thesis; added cross-references to companion article for full treatment
+1. Fixed Wigner's retreat: now acknowledges his reasons were complex and that decoherence doesn't solve measurement problem (avoiding self-contradiction with Map's own position)
+1. Applied language improvements from pessimistic review (removed clichés, clarified hedged constructions)
+1. Updated description to reflect refined thesis about structural dependence
 
 Based on pessimistic review 2026-02-18-morning which identified two high-severity issues (equivocation, phenomenological test conflation) and medium-severity overlap.
 

@@ -118,8 +118,8 @@ The Map's treatment of categorical surprise would be undermined by several possi
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
-- Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
-- Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- Tarski, A. (1936). "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation).
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
+1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
+1. Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. Tarski, A. (1936). "The Concept of Truth in Formalized Languages." In *Logic, Semantics, Metamathematics*, Oxford University Press (1956 translation).

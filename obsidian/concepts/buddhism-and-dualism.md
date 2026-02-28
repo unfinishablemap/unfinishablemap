@@ -172,11 +172,11 @@ The comparison also reveals what Buddhism challenges: any residual attachment to
 
 ## References
 
-- Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy. https://plato.stanford.edu/entries/mind-indian-buddhism/
-- Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism. https://plato.stanford.edu/entries/ethics-indian-buddhism/
-- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
-- Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
+1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy. https://plato.stanford.edu/entries/mind-indian-buddhism/
+1. Stanford Encyclopedia of Philosophy. Ethics in Indian Buddhism. https://plato.stanford.edu/entries/ethics-indian-buddhism/
+1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
+1. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.

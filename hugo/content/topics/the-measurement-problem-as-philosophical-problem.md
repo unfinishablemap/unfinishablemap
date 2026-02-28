@@ -156,12 +156,12 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against prema
 
 ## References
 
-- Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
-- Bohr, N. (1935). "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" *Physical Review* 48, 696-702.
-- Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200–219.
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Kant, I. (1781). *Critique of Pure Reason*.
-- Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
-- Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
-- Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler and Zurek. Princeton University Press.
-- Wigner, E.P. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*, ed. I.J. Good.
+1. Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
+1. Bohr, N. (1935). "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" *Physical Review* 48, 696-702.
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200–219.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Kant, I. (1781). *Critique of Pure Reason*.
+1. Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
+1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+1. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler and Zurek. Princeton University Press.
+1. Wigner, E.P. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*, ed. I.J. Good.

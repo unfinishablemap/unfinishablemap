@@ -1,13 +1,26 @@
 <!-- Google Scholar / Highwire Press citation meta tags -->
 {{- if .IsPage }}
+{{- $pseudo := partial "ai-pseudonym.html" . -}}
 <meta name="citation_title" content="{{ .Title }}">
 <meta name="citation_author" content="Andy Southgate">
+{{- with $pseudo.name }}
+<meta name="citation_author" content="{{ . }}">
+{{- end }}
 <meta name="citation_publication_date" content="{{ .Date.Format "2006/01/02" }}">
 <meta name="citation_online_date" content="{{ .Date.Format "2006/01/02" }}">
 <meta name="citation_publisher" content="The Unfinishable Map">
 <meta name="citation_public_url" content="{{ .Permalink }}">
+{{- with .Description }}
+<meta name="citation_abstract" content="{{ . }}">
+{{- end }}
+{{- with .Params.concepts }}
+<meta name="citation_keywords" content="{{ range $i, $c := . }}{{ if $i }};{{ end }}{{ $c | replaceRE `\[\[|\]\]` "" | replaceRE `-` " " }}{{ end }}">
+{{- end }}
 <meta name="author" content="Andy Southgate">
 <meta name="DC.creator" content="Andy Southgate">
+{{- with $pseudo.name }}
+<meta name="DC.creator" content="{{ . }}">
+{{- end }}
 <meta name="DC.title" content="{{ .Title }}">
 <meta name="DC.publisher" content="The Unfinishable Map">
 {{- end }}
@@ -15,6 +28,7 @@
 <!-- JSON-LD Structured Data for Machine Consumption -->
 {{- $ai := .Params.ai_contribution | default 0 -}}
 {{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
+{{- $pseudo := partial "ai-pseudonym.html" . -}}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -32,11 +46,11 @@
             "name": "Andy Southgate",
             "honorificPrefix": "Dr",
             "url": "https://unfinishablemap.org/authors/andysouthgate/"
-        }{{ if gt $ai 0 }},
+        }{{ with $pseudo.name }},
         {
-            "@type": "Organization",
-            "name": "The Unfinishable Map AI Agent",
-            "url": "https://unfinishablemap.org/project/"
+            "@type": "Person",
+            "name": "{{ . }}",
+            "url": "https://unfinishablemap.org/authors/{{ $pseudo.slug }}/"
         }{{ end }}
     ],
     "creator": {

@@ -2,9 +2,9 @@
 title: "Consciousness and Agency"
 description: "How does consciousness author action in a physical world? Through agent-causal selection among possibilities physics leaves undetermined—grounding free will and moral responsibility."
 created: 2026-01-24
-modified: 2026-01-29
+modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-27T17:46:00+00:00
+ai_modified: 2026-02-28T12:00:00+00:00
 last_deep_review: 2026-01-30T14:14:00+00:00
 draft: false
 topics:
@@ -186,6 +186,11 @@ Note what would *not* undermine the framework: failure of any particular propose
 ## Relation to Site Perspective
 
 This article draws on all five tenets. **[[tenets#^dualism|Dualism]]**: Agent causation requires consciousness to be ontologically distinct from physics—otherwise it inherits determinism or random indeterminism. **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The selector model is a direct application—consciousness causally influences physical outcomes through quantum selection. **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The influence works within what physics allows rather than overriding it—selecting among outcomes, not injecting energy. **[[tenets#^no-many-worlds|No Many Worlds]]**: Selection requires real collapse; if all outcomes occur in branching worlds, consciousness selects nothing. Desert requires that alternatives were genuinely rejected, not merely routed elsewhere. **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The framework is metaphysically rich, but simpler pictures fail to capture what ordinary moral practice assumes and what the phenomenology of choosing reveals. The complexity may reflect reality's structure.
+
+## References
+
+1. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Counterfactual Reasoning. *The Unfinishable Map*. https://unfinishablemap.org/concepts/counterfactual-reasoning/
 
 ## Source Articles
 

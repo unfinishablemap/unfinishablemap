@@ -101,11 +101,11 @@ Third, suffering varies with meaning in ways that track consciousness rather tha
 
 ## References
 
-- Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
-- Cassell, E. J. (2004). *The Nature of Suffering and the Goals of Medicine*. 2nd ed. Oxford University Press.
-- Gard, T., Hölzel, B. K., Sack, A. T., et al. (2012). "Pain Attenuation Through Mindfulness Is Associated with Decreased Cognitive Control and Increased Sensory Processing in the Brain." *Cerebral Cortex*, 22(11), 2692–2702.
-- Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
-- Grant, J. A., & Rainville, P. (2009). "Pain Sensitivity and Analgesic Effects of Mindful States in Zen Meditators." *Psychosomatic Medicine*, 71(1), 106–114.
-- Kragel, P. A., & LaBar, K. S. (2015). "Multivariate Neural Biomarkers of Emotional States Are Categorically Distinct." *Social Cognitive and Affective Neuroscience*, 10(11), 1437–1448.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
-- Scarry, E. (1985). *The Body in Pain: The Making and Unmaking of the World*. Oxford University Press.
+1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
+1. Cassell, E. J. (2004). *The Nature of Suffering and the Goals of Medicine*. 2nd ed. Oxford University Press.
+1. Gard, T., Hölzel, B. K., Sack, A. T., et al. (2012). "Pain Attenuation Through Mindfulness Is Associated with Decreased Cognitive Control and Increased Sensory Processing in the Brain." *Cerebral Cortex*, 22(11), 2692–2702.
+1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
+1. Grant, J. A., & Rainville, P. (2009). "Pain Sensitivity and Analgesic Effects of Mindful States in Zen Meditators." *Psychosomatic Medicine*, 71(1), 106–114.
+1. Kragel, P. A., & LaBar, K. S. (2015). "Multivariate Neural Biomarkers of Emotional States Are Categorically Distinct." *Social Cognitive and Affective Neuroscience*, 10(11), 1437–1448.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+1. Scarry, E. (1985). *The Body in Pain: The Making and Unmaking of the World*. Oxford University Press.

@@ -270,13 +270,13 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 
 ## References
 
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Parfit, D. (1995). "The Unimportance of Identity." In *Identity*, ed. H. Harris. Oxford University Press.
-- Swinburne, R. (1984). "Personal Identity: The Dualist Theory." In *Personal Identity*, eds. Shoemaker & Swinburne.
-- Chisholm, R. (1976). *Person and Object*. Open Court.
-- Johnston, M. (2010). *Surviving Death*. Princeton University Press.
-- Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
-- Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Parfit, D. (1995). "The Unimportance of Identity." In *Identity*, ed. H. Harris. Oxford University Press.
+1. Swinburne, R. (1984). "Personal Identity: The Dualist Theory." In *Personal Identity*, eds. Shoemaker & Swinburne.
+1. Chisholm, R. (1976). *Person and Object*. Open Court.
+1. Johnston, M. (2010). *Surviving Death*. Princeton University Press.
+1. Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
+1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.

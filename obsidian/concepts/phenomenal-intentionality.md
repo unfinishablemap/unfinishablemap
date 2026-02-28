@@ -177,10 +177,10 @@ This provides an empirical signature that distinguishes PIT from purely function
 
 ## References
 
-- Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
-- Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
-- Loar, B. (2003). Phenomenal intentionality as the basis of mental content. In M. Hahn & B. Ramberg (eds.), *Reflections and Replies: Essays on the Philosophy of Tyler Burge*. MIT Press.
-- Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
-- Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
-- Strawson, G. (1994). *Mental Reality*. MIT Press.
-- Stanford Encyclopedia of Philosophy. Phenomenal Intentionality. https://plato.stanford.edu/entries/phenomenal-intentionality/
+1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
+1. Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
+1. Loar, B. (2003). Phenomenal intentionality as the basis of mental content. In M. Hahn & B. Ramberg (eds.), *Reflections and Replies: Essays on the Philosophy of Tyler Burge*. MIT Press.
+1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
+1. Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Stanford Encyclopedia of Philosophy. Phenomenal Intentionality. https://plato.stanford.edu/entries/phenomenal-intentionality/

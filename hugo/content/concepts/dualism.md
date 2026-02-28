@@ -171,10 +171,10 @@ What would count as evidence against dualism? If future neuroscience provided a 
 
 ## References
 
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Descartes, R. (1641). *Meditations on First Philosophy*.
-- Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
-- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
-- Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
-- Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Descartes, R. (1641). *Meditations on First Philosophy*.
+1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
+1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
+1. Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
+1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.

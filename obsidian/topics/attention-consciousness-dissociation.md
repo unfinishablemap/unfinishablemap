@@ -193,27 +193,27 @@ The attention-consciousness dissociation illuminates The Unfinishable Map's fram
 
 ## References
 
-- Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
-- Cohen, M.A., et al. (2024). Attention and awareness: A reassessment. *Cerebral Cortex*.
-- Kim, K. & Chong, S.C. (2024). Visual experience is not rich, but not sparse. *Consciousness and Cognition*.
-- Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
-- Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
-- Michel, M. & Doerig, A. (2025). The Integrated Information Theory needs attention. *Erkenntnis*.
-- Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*.
-- Stanford Encyclopedia of Philosophy. Attention (Fall 2024 Edition).
-- van Boxtel, J.J.A., Tsuchiya, N., & Koch, C. (2010). Consciousness and attention: On sufficiency and necessity. *Frontiers in Psychology*, 1, 217.
+1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
+1. Cohen, M.A., et al. (2024). Attention and awareness: A reassessment. *Cerebral Cortex*.
+1. Kim, K. & Chong, S.C. (2024). Visual experience is not rich, but not sparse. *Consciousness and Cognition*.
+1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
+1. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
+1. Michel, M. & Doerig, A. (2025). The Integrated Information Theory needs attention. *Erkenntnis*.
+1. Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*.
+1. Stanford Encyclopedia of Philosophy. Attention (Fall 2024 Edition).
+1. van Boxtel, J.J.A., Tsuchiya, N., & Koch, C. (2010). Consciousness and attention: On sufficiency and necessity. *Frontiers in Psychology*, 1, 217.
 
 <!-- AI REFINEMENT LOG - 2026-02-06
 Changes made:
-- Added "The Physicalist Reading" subsection addressing how double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits
-- Added "Why This Dissociation Is Different" subsection arguing that the consciousness-attention case is uniquely significant because one side involves the hard problem (phenomenal experience resists third-person characterisation)
-- Restructured "What Dissociation Reveals" into three subsections: physicalist reading, why this case differs, and constraints on theory
-- Revised opening summary to acknowledge both physicalist and dualist readings rather than jumping to dualist conclusions
-- Updated "For Dualism" subsection to acknowledge interpretive ambiguity while explaining why the hard problem makes this dissociation uniquely relevant
-- Updated "Relation to Site Perspective" Dualism entry to be more measured
-- Fixed Nartker et al. quote attribution to clarify it's the authors' description
-- Removed redundant transitional paragraph after opening
-- Updated description to reflect the refined argument
+1. Added "The Physicalist Reading" subsection addressing how double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits
+1. Added "Why This Dissociation Is Different" subsection arguing that the consciousness-attention case is uniquely significant because one side involves the hard problem (phenomenal experience resists third-person characterisation)
+1. Restructured "What Dissociation Reveals" into three subsections: physicalist reading, why this case differs, and constraints on theory
+1. Revised opening summary to acknowledge both physicalist and dualist readings rather than jumping to dualist conclusions
+1. Updated "For Dualism" subsection to acknowledge interpretive ambiguity while explaining why the hard problem makes this dissociation uniquely relevant
+1. Updated "Relation to Site Perspective" Dualism entry to be more measured
+1. Fixed Nartker et al. quote attribution to clarify it's the authors' description
+1. Removed redundant transitional paragraph after opening
+1. Updated description to reflect the refined argument
 
 Based on pessimistic review (2026-02-06) Issue 2: double dissociation misinterpreted as evidence for non-physical entity.
 Key improvements: Explicitly engaging with physicalist reading, arguing the hard problem distinguishes this dissociation from others, acknowledging interpretive ambiguity throughout.

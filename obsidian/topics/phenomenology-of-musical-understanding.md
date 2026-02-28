@@ -126,11 +126,11 @@ Musical understanding connects to the Map's framework through several tenets.
 
 ## References
 
-- Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Scruton, R. (1997). *The Aesthetics of Music*. Oxford University Press.
-- Levinson, J. (1997). *Music in the Moment*. Cornell University Press.
-- Kivy, P. (1989). *Sound Sentiment: An Essay on the Musical Emotions*. Temple University Press.
-- Davies, S. (1994). *Musical Meaning and Expression*. Cornell University Press.
-- Fritz, T. et al. (2009). Universal Recognition of Three Basic Emotions in Music. *Current Biology*, 19(7), 573–576.
+1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Scruton, R. (1997). *The Aesthetics of Music*. Oxford University Press.
+1. Levinson, J. (1997). *Music in the Moment*. Cornell University Press.
+1. Kivy, P. (1989). *Sound Sentiment: An Essay on the Musical Emotions*. Temple University Press.
+1. Davies, S. (1994). *Musical Meaning and Expression*. Cornell University Press.
+1. Fritz, T. et al. (2009). Universal Recognition of Three Basic Emotions in Music. *Current Biology*, 19(7), 573–576.

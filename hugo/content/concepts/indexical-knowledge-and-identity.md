@@ -158,14 +158,14 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 
 ## References
 
-- Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-- Chalmers, D. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
-- Elga, A. (2000). "Self-Locating Belief and the Sleeping Beauty Problem." *Analysis*, 60(2), 143-147.
-- Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711-721.
-- Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-- Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
-- Lewis, D. (2001). "Sleeping Beauty: Reply to Elga." *Analysis*, 61(3), 171-176.
-- List, C. (2022). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.
+1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
+1. Chalmers, D. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
+1. Elga, A. (2000). "Self-Locating Belief and the Sleeping Beauty Problem." *Analysis*, 60(2), 143-147.
+1. Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711-721.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
+1. Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
+1. Lewis, D. (2001). "Sleeping Beauty: Reply to Elga." *Analysis*, 61(3), 171-176.
+1. List, C. (2022). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.

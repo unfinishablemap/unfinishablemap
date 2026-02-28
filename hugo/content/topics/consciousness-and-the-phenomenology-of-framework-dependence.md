@@ -117,9 +117,9 @@ The [framework-void](/voids/framework-void/) explored the structural impossibili
 
 ## References
 
-- Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association*, 47, 5–20.
-- Heidegger, M. (1927). *Being and Time*. Trans. J. Macquarrie and E. Robinson. Harper & Row, 1962.
-- Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Trans. F. Kersten. Kluwer, 1983.
-- Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
+1. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association*, 47, 5–20.
+1. Heidegger, M. (1927). *Being and Time*. Trans. J. Macquarrie and E. Robinson. Harper & Row, 1962.
+1. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Trans. F. Kersten. Kluwer, 1983.
+1. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.

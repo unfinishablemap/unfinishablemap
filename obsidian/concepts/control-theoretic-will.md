@@ -161,19 +161,19 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## References
 
-- Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
-- Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
-- Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
-- Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+1. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
+1. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
+1. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
+1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
 
 <!-- AI REFINEMENT LOG - 2026-02-20
 Changes made:
-- Added "Analogy, Model, and Ontology" section explicitly addressing the gap between control-theoretic modelling and ontological claims
-- Rewrote dualism paragraph in "Relation to Site Perspective" to clarify that dualism is expressed through (not derived from) the control-theoretic framing
-- Softened "maps directly onto" to "finds a natural analogue in" in the opening summary
-- Removed "external" from "an external agent" in controller description to avoid begging the ontological question
+1. Added "Analogy, Model, and Ontology" section explicitly addressing the gap between control-theoretic modelling and ontological claims
+1. Rewrote dualism paragraph in "Relation to Site Perspective" to clarify that dualism is expressed through (not derived from) the control-theoretic framing
+1. Softened "maps directly onto" to "finds a natural analogue in" in the opening summary
+1. Removed "external" from "an external agent" in controller description to avoid begging the ontological question
 
 Based on pessimistic review (2026-02-20 afternoon) identifying analogy-to-ontology gap.
 Key improvements: Article now honestly distinguishes the modelling tool from the ontological commitment, acknowledging that a physicalist could use the same control vocabulary without dualist commitments.

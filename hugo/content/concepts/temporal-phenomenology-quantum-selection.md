@@ -134,10 +134,10 @@ What would challenge the framework: evidence that temporal phenomenology is full
 
 ## References
 
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Bergson, H. (1889/2001). *Time and Free Will*. Dover.
-- Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
-- Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
-- Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
+1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
+1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.

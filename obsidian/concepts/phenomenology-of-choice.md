@@ -213,13 +213,13 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 
 ## References
 
-- Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
-- Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. (Essai sur les données immédiates de la conscience)
-- Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience*, 18(4), 196-207.
-- Horgan, T., Tienson, J., & Graham, G. (2003). The phenomenology of first-person agency. In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
-- James, W. (1890). *The Principles of Psychology*. Chapter 26: Will.
-- Mele, A. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
-- Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). The phenomenology of free will. *Journal of Consciousness Studies*, 11(7-8), 162-179.
-- Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
-- Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
+1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. (Essai sur les données immédiates de la conscience)
+1. Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience*, 18(4), 196-207.
+1. Horgan, T., Tienson, J., & Graham, G. (2003). The phenomenology of first-person agency. In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
+1. James, W. (1890). *The Principles of Psychology*. Chapter 26: Will.
+1. Mele, A. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
+1. Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). The phenomenology of free will. *Journal of Consciousness Studies*, 11(7-8), 162-179.
+1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

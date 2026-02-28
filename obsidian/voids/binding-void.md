@@ -144,13 +144,13 @@ The binding void connects to the Map's [[tenets]] at multiple points and provide
 
 ## References
 
-- Bayne, T. & Chalmers, D.J. (2003). "What is the Unity of Consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration, and Dissociation*. Oxford University Press.
-- Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
-- Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Dainton, B. (2000). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. Routledge.
-- James, W. (1890/1981). *The Principles of Psychology*. Harvard University Press.
-- James, W. (1909). *A Pluralistic Universe*. Longmans, Green, and Co.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-- Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
-- Stanford Encyclopedia of Philosophy. "The Unity of Consciousness." https://plato.stanford.edu/entries/consciousness-unity/
-- de Haan, E.H.F. et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review*, 30, 224–233.
+1. Bayne, T. & Chalmers, D.J. (2003). "What is the Unity of Consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration, and Dissociation*. Oxford University Press.
+1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
+1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Dainton, B. (2000). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. Routledge.
+1. James, W. (1890/1981). *The Principles of Psychology*. Harvard University Press.
+1. James, W. (1909). *A Pluralistic Universe*. Longmans, Green, and Co.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
+1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+1. Stanford Encyclopedia of Philosophy. "The Unity of Consciousness." https://plato.stanford.edu/entries/consciousness-unity/
+1. de Haan, E.H.F. et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review*, 30, 224–233.

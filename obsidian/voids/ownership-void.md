@@ -115,12 +115,12 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 
 ## References
 
-- Billon, A. (2023). "What Is It Like to Lack Mineness? Depersonalization as a Probe for the Scope, Nature, and Role of Mineness." In *Self-Experience: Essays on Inner Awareness*. Oxford University Press.
-- Ciaunica, A., Charlton, J., & Farmer, H. (2021). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*, 20, 823-842.
-- Deane, G., Miller, M., & Wilkinson, S. (2020). "Losing Ourselves: Active Inference, Depersonalization, and Meditation." *Frontiers in Psychology*, 11, 539726.
-- Gallagher, S. (2000). "Philosophical Conceptions of the Self: Implications for Cognitive Science." *Trends in Cognitive Sciences*, 4(1), 14-21.
-- Heidegger, M. (1927/1962). *Being and Time*. Trans. Macquarrie & Robinson. §9 (Jemeinigkeit).
-- Knappik, F. (2022). "No Need for Mineness: Depersonalization/Derealization Disorder and Mental State Types." *Phenomenology and the Cognitive Sciences*.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Zahavi, D. (2005/2014). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-- Zahavi, D. (2017). "Thin, Thinner, Thinnest: Defining the Minimal Self." In *Embodiment, Enaction, and Culture*. MIT Press.
+1. Billon, A. (2023). "What Is It Like to Lack Mineness? Depersonalization as a Probe for the Scope, Nature, and Role of Mineness." In *Self-Experience: Essays on Inner Awareness*. Oxford University Press.
+1. Ciaunica, A., Charlton, J., & Farmer, H. (2021). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*, 20, 823-842.
+1. Deane, G., Miller, M., & Wilkinson, S. (2020). "Losing Ourselves: Active Inference, Depersonalization, and Meditation." *Frontiers in Psychology*, 11, 539726.
+1. Gallagher, S. (2000). "Philosophical Conceptions of the Self: Implications for Cognitive Science." *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Heidegger, M. (1927/1962). *Being and Time*. Trans. Macquarrie & Robinson. §9 (Jemeinigkeit).
+1. Knappik, F. (2022). "No Need for Mineness: Depersonalization/Derealization Disorder and Mental State Types." *Phenomenology and the Cognitive Sciences*.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Zahavi, D. (2005/2014). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Zahavi, D. (2017). "Thin, Thinner, Thinnest: Defining the Minimal Self." In *Embodiment, Enaction, and Culture*. MIT Press.

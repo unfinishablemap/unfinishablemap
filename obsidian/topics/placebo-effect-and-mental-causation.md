@@ -121,10 +121,10 @@ The Map interprets placebo effects not as anomalies requiring special explanatio
 
 ## References
 
-- Benedetti, F., Pollo, A., Lopiano, L., Lanotte, M., Vighetti, S., & Rainero, I. (2003). Conscious expectation and unconscious conditioning in analgesic, motor, and hormonal placebo/nocebo responses. *Journal of Neuroscience*, 23(10), 4315-4323.
-- Colloca, L. & Miller, F.G. (2011). The nocebo effect and its relevance for clinical practice. *Psychosomatic Medicine*, 73(7), 598-603.
-- De la Fuente-Fernández, R. et al. (2001). Expectation and dopamine release: Mechanism of the placebo effect in Parkinson's disease. *Science*, 293(5532), 1164-1166.
-- Goebel, M.U. et al. (2002). Behavioral conditioning of immunosuppression is possible in humans. *FASEB Journal*, 16(14), 1869-1873.
-- Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
-- Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
-- Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
+1. Benedetti, F., Pollo, A., Lopiano, L., Lanotte, M., Vighetti, S., & Rainero, I. (2003). Conscious expectation and unconscious conditioning in analgesic, motor, and hormonal placebo/nocebo responses. *Journal of Neuroscience*, 23(10), 4315-4323.
+1. Colloca, L. & Miller, F.G. (2011). The nocebo effect and its relevance for clinical practice. *Psychosomatic Medicine*, 73(7), 598-603.
+1. De la Fuente-Fernández, R. et al. (2001). Expectation and dopamine release: Mechanism of the placebo effect in Parkinson's disease. *Science*, 293(5532), 1164-1166.
+1. Goebel, M.U. et al. (2002). Behavioral conditioning of immunosuppression is possible in humans. *FASEB Journal*, 16(14), 1869-1873.
+1. Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
+1. Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
+1. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.

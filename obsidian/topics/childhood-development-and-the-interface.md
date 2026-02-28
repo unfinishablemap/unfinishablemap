@@ -96,22 +96,22 @@ The developmental interface also highlights the limits of **Occam's Razor**. A p
 
 ## References
 
-- Werker, J. F., & Tees, R. C. (1984). Cross-language speech perception: Evidence for perceptual reorganization during the first year of life. *Infant Behavior and Development*, 7(1), 49-63.
-- Kelly, D. J., et al. (2007). Cross-race preferences for same-race faces extend beyond the African versus Caucasian contrast in 3-month-old infants. *Infancy*, 11(1), 87-95.
-- Huttenlocher, P. R., & Dabholkar, A. S. (1997). Regional differences in synaptogenesis in human cerebral cortex. *Journal of Comparative Neurology*, 387(2), 167-178.
-- Hensch, T. K. (2005). Critical period plasticity in local cortical circuits. *Nature Reviews Neuroscience*, 6(11), 877-888.
-- Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. *Child Development*, 72(3), 655-684.
-- Onishi, K. H., & Baillargeon, R. (2005). Do 15-month-old infants understand false beliefs? *Science*, 308(5719), 255-258.
-- Call, J., & Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. *Trends in Cognitive Sciences*, 12(5), 187-192.
+1. Werker, J. F., & Tees, R. C. (1984). Cross-language speech perception: Evidence for perceptual reorganization during the first year of life. *Infant Behavior and Development*, 7(1), 49-63.
+1. Kelly, D. J., et al. (2007). Cross-race preferences for same-race faces extend beyond the African versus Caucasian contrast in 3-month-old infants. *Infancy*, 11(1), 87-95.
+1. Huttenlocher, P. R., & Dabholkar, A. S. (1997). Regional differences in synaptogenesis in human cerebral cortex. *Journal of Comparative Neurology*, 387(2), 167-178.
+1. Hensch, T. K. (2005). Critical period plasticity in local cortical circuits. *Nature Reviews Neuroscience*, 6(11), 877-888.
+1. Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. *Child Development*, 72(3), 655-684.
+1. Onishi, K. H., & Baillargeon, R. (2005). Do 15-month-old infants understand false beliefs? *Science*, 308(5719), 255-258.
+1. Call, J., & Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. *Trends in Cognitive Sciences*, 12(5), 187-192.
 
 <!-- AI REFINEMENT LOG - 2026-02-19
 Changes made:
-- Qualified metarepresentation emergence: acknowledged graded ToM development (implicit false-belief from ~15 months) rather than presenting it as discrete switch at 3-5 years
-- Qualified great ape claim: acknowledged mirror self-recognition, tactical deception, and implicit ToM findings rather than blanket "never achieve metarepresentation"
-- Rewrote MWI paragraph: engaged with branch-relative loss rather than attacking straw version; acknowledged MWI proponent would note experiential reality of closure within branches
-- Fixed Occam's Razor paragraph to match qualified metarepresentation framing
-- Changed "differs fundamentally" to "differs substantially" (differences are of degree, not kind)
-- Added references: Onishi & Baillargeon 2005 (implicit false beliefs), Call & Tomasello 2008 (ape ToM)
+1. Qualified metarepresentation emergence: acknowledged graded ToM development (implicit false-belief from ~15 months) rather than presenting it as discrete switch at 3-5 years
+1. Qualified great ape claim: acknowledged mirror self-recognition, tactical deception, and implicit ToM findings rather than blanket "never achieve metarepresentation"
+1. Rewrote MWI paragraph: engaged with branch-relative loss rather than attacking straw version; acknowledged MWI proponent would note experiential reality of closure within branches
+1. Fixed Occam's Razor paragraph to match qualified metarepresentation framing
+1. Changed "differs fundamentally" to "differs substantially" (differences are of degree, not kind)
+1. Added references: Onishi & Baillargeon 2005 (implicit false beliefs), Call & Tomasello 2008 (ape ToM)
 
 Based on pessimistic review pessimistic-2026-02-19-morning.md.
 Key improvements: Epistemic accuracy — claims now match the evidence rather than overstating for argumentative convenience.

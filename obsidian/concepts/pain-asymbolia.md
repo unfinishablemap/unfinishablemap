@@ -107,8 +107,8 @@ Together, these dissociations show that pain's dimensions can be independently m
 
 ## References
 
-- Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
-- Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
-- Rainville, P., Carrier, B., Hofbauer, R. K., Bushnell, M. C., & Duncan, G. H. (1999). "Dissociation of Sensory and Affective Dimensions of Pain Using Hypnotic Modulation." *Pain*, 82(2), 159–171.
-- Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
-- Geschwind, N. (1965). "Disconnexion Syndromes in Animals and Man." *Brain*, 88(2), 237–294.
+1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
+1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
+1. Rainville, P., Carrier, B., Hofbauer, R. K., Bushnell, M. C., & Duncan, G. H. (1999). "Dissociation of Sensory and Affective Dimensions of Pain Using Hypnotic Modulation." *Pain*, 82(2), 159–171.
+1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
+1. Geschwind, N. (1965). "Disconnexion Syndromes in Animals and Man." *Brain*, 88(2), 237–294.

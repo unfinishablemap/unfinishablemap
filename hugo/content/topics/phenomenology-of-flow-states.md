@@ -158,10 +158,10 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 
 ## References
 
-- Csikszentmihalyi, M. (1975). *Beyond Boredom and Anxiety*. Jossey-Bass.
-- Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
-- Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. *Consciousness and Cognition*, 13(4), 746-761.
-- Dreyfus, H. (2002). Intelligence without representation: Merleau-Ponty's critique of mental representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
-- Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
-- Nakamura, J. & Csikszentmihalyi, M. (2002). The concept of flow. In C.R. Snyder & S.J. Lopez (Eds.), *Handbook of Positive Psychology*. Oxford University Press.
-- Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+1. Csikszentmihalyi, M. (1975). *Beyond Boredom and Anxiety*. Jossey-Bass.
+1. Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
+1. Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. *Consciousness and Cognition*, 13(4), 746-761.
+1. Dreyfus, H. (2002). Intelligence without representation: Merleau-Ponty's critique of mental representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
+1. Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Nakamura, J. & Csikszentmihalyi, M. (2002). The concept of flow. In C.R. Snyder & S.J. Lopez (Eds.), *Handbook of Positive Psychology*. Oxford University Press.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

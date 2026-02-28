@@ -208,21 +208,21 @@ The witness mode is not an escape from consciousness or a dissolution into uncon
 
 ## References
 
-- Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
-- Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
-- Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
-- Krishnamurti, J. (1954). *The First and Last Freedom*. Harper & Brothers.
-- Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Wong, K. F., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics. *Scientific Reports*, 10, 2095.
+1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
+1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
+1. Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
+1. Krishnamurti, J. (1954). *The First and Last Freedom*. Harper & Brothers.
+1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Wong, K. F., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics. *Scientific Reports*, 10, 2095.
 
 <!-- AI REFINEMENT LOG - 2026-02-07
 Changes made:
-- Renamed "Consciousness Is Not Reducible to Action" to "Consciousness Is Not Identical to Selection"; added physicalist two-mode reading (task-positive/negative networks); qualified the irreducibility claim
-- Expanded Buddhism subsection: acknowledged Buddhist philosophy draws opposite metaphysical conclusions from same phenomenological data; made underdetermination explicit
-- Rewrote closing paragraph of Eastern Philosophy section: convergence establishes phenomenon but not metaphysical interpretation
-- Qualified Dualism tenet section: acknowledged physicalist self-model reading; stated Map's further claim as going beyond what witness phenomenon alone establishes
-- Strengthened Construction Challenge section: gave the challenge more weight; distinguished witness mode from consciousness itself
-- Softened Summary: replaced "No physical description captures..." with acknowledgment of ongoing debate
+1. Renamed "Consciousness Is Not Reducible to Action" to "Consciousness Is Not Identical to Selection"; added physicalist two-mode reading (task-positive/negative networks); qualified the irreducibility claim
+1. Expanded Buddhism subsection: acknowledged Buddhist philosophy draws opposite metaphysical conclusions from same phenomenological data; made underdetermination explicit
+1. Rewrote closing paragraph of Eastern Philosophy section: convergence establishes phenomenon but not metaphysical interpretation
+1. Qualified Dualism tenet section: acknowledged physicalist self-model reading; stated Map's further claim as going beyond what witness phenomenon alone establishes
+1. Strengthened Construction Challenge section: gave the challenge more weight; distinguished witness mode from consciousness itself
+1. Softened Summary: replaced "No physical description captures..." with acknowledgment of ongoing debate
 
 Based on pessimistic review (2026-02-05 afternoon) identifying systematic vulnerability: phenomenology-to-metaphysics gap, introspection paradox, Buddhist misappropriation.
 Key improvements: Honest engagement with Buddhist no-self; physicalist two-mode alternative acknowledged; metaphysical claims properly qualified.

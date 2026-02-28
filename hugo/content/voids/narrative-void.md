@@ -104,10 +104,10 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 
 ## References
 
-- Nisbett, R. E. & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231–259.
-- Gazzaniga, M. S. (1998). *The Mind's Past*. University of California Press.
-- Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). "Failure to Detect Mismatches Between Intention and Outcome in a Simple Decision Task." *Science*, 310(5745), 116–119.
-- Ricoeur, P. (1984–1988). *Time and Narrative* (3 vols.). University of Chicago Press.
-- Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
-- Strawson, G. (2004). "Against Narrativity." *Ratio*, 17(4), 428–452.
-- Damasio, A. (1999). *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. Harcourt.
+1. Nisbett, R. E. & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231–259.
+1. Gazzaniga, M. S. (1998). *The Mind's Past*. University of California Press.
+1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). "Failure to Detect Mismatches Between Intention and Outcome in a Simple Decision Task." *Science*, 310(5745), 116–119.
+1. Ricoeur, P. (1984–1988). *Time and Narrative* (3 vols.). University of Chicago Press.
+1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
+1. Strawson, G. (2004). "Against Narrativity." *Ratio*, 17(4), 428–452.
+1. Damasio, A. (1999). *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. Harcourt.

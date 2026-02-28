@@ -175,15 +175,15 @@ Meditation exhibits the structure of [self-forming actions](/topics/free-will/):
 
 ## References
 
-- Brewer, J.A. et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
-- Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Laukkonen, R.E. et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*, 280, 61-87.
-- Neuroscience of Consciousness (2025). Deep computational neurophenomenology. *Oxford Academic*.
-- Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
-- Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
-- Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Brewer, J.A. et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
+1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Laukkonen, R.E. et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*, 280, 61-87.
+1. Neuroscience of Consciousness (2025). Deep computational neurophenomenology. *Oxford Academic*.
+1. Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

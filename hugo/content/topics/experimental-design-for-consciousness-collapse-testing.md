@@ -149,21 +149,21 @@ The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly r
 
 ## References
 
-- Bong, K. W., et al. (2020). "A strong no-go theorem on the Wigner's friend paradox." *Nature Physics*, 16, 1199–1205.
-- Chalmers, D., & McQueen, K. (2021). "Consciousness and the collapse of the wave function." In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-- Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
-- Müller, S., et al. (2021). "Quantum measurement arrow of time and fluctuation relations." *Nature Communications*, 12, 1–8.
-- Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
-- Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+1. Bong, K. W., et al. (2020). "A strong no-go theorem on the Wigner's friend paradox." *Nature Physics*, 16, 1199–1205.
+1. Chalmers, D., & McQueen, K. (2021). "Consciousness and the collapse of the wave function." In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
+1. Müller, S., et al. (2021). "Quantum measurement arrow of time and fluctuation relations." *Nature Communications*, 12, 1–8.
+1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
+1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
 
 <!-- AI REFINEMENT LOG - 2026-02-22
 Changes made:
-- Reframed PEAR lab section as cautionary tale: leads with methodological failures instead of results
-- Foregrounded Chalmers-McQueen Φ prediction as the most testable claim (renamed section header, added "What a negative result would mean" block, distinguished engineering vs conceptual barriers)
-- Restructured "Why the Difficulty Is Informative" into subsections; removed self-undermining dark matter analogy; added "The Convergence Strategy and Its Limits" subsection that honestly distinguishes experimental disconfirmers from research programmes
-- Strengthened opening: "should in principle be testable" → "must be testable if it is to count as more than metaphysics"
-- Updated second paragraph to foreground the Chalmers-McQueen framework as the article's key finding
-- Softened unsupported claim in Relation to Site Perspective: acknowledged experimental difficulty as weak evidence against the hypothesis rather than claiming it is "not evidence"
+1. Reframed PEAR lab section as cautionary tale: leads with methodological failures instead of results
+1. Foregrounded Chalmers-McQueen Φ prediction as the most testable claim (renamed section header, added "What a negative result would mean" block, distinguished engineering vs conceptual barriers)
+1. Restructured "Why the Difficulty Is Informative" into subsections; removed self-undermining dark matter analogy; added "The Convergence Strategy and Its Limits" subsection that honestly distinguishes experimental disconfirmers from research programmes
+1. Strengthened opening: "should in principle be testable" → "must be testable if it is to count as more than metaphysics"
+1. Updated second paragraph to foreground the Chalmers-McQueen framework as the article's key finding
+1. Softened unsupported claim in Relation to Site Perspective: acknowledged experimental difficulty as weak evidence against the hypothesis rather than claiming it is "not evidence"
 
 Based on pessimistic review (pessimistic-2026-02-22-evening.md).
 Key improvements: testability honesty, PEAR credibility fix, Φ prediction foregrounded as empirical anchor.

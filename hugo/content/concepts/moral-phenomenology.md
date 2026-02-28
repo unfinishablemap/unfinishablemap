@@ -130,10 +130,10 @@ None of these findings currently obtains. The challenge for sceptics is to produ
 
 ## References
 
-- Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56-77.
-- Kriegel, U. (2008). "Moral Phenomenology: Foundational Issues." *Phenomenology and the Cognitive Sciences*, 7(1), 1-19.
-- Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. Foreword by Thomas Nagel.
-- Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109-166.
-- Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-- Weil, S. (1947). *Gravity and Grace*. Routledge.
+1. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56-77.
+1. Kriegel, U. (2008). "Moral Phenomenology: Foundational Issues." *Phenomenology and the Cognitive Sciences*, 7(1), 1-19.
+1. Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. Foreword by Thomas Nagel.
+1. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109-166.
+1. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+1. Weil, S. (1947). *Gravity and Grace*. Routledge.

@@ -116,8 +116,8 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 
 ## References
 
-- Carruthers, P. (2018). Valence and Value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
-- Johnson, M. E. (2016). *Principia Qualia*. Qualia Research Institute.
-- Metzinger, T. (2020). Minimal Phenomenal Experience. *Philosophy and the Mind Sciences*, 1(I), 7.
-- Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-- Veit, W. (2024). Hedonic Valence at the Core of Consciousness. *Philosophy and the Mind Sciences*.
+1. Carruthers, P. (2018). Valence and Value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
+1. Johnson, M. E. (2016). *Principia Qualia*. Qualia Research Institute.
+1. Metzinger, T. (2020). Minimal Phenomenal Experience. *Philosophy and the Mind Sciences*, 1(I), 7.
+1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+1. Veit, W. (2024). Hedonic Valence at the Core of Consciousness. *Philosophy and the Mind Sciences*.

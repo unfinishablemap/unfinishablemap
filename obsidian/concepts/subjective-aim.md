@@ -113,8 +113,8 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 
 ## References
 
-- Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
-- Whitehead, A. N. (1933). *Adventures of Ideas*. Macmillan.
-- Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
-- Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.
+1. Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
+1. Whitehead, A. N. (1933). *Adventures of Ideas*. Macmillan.
+1. Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
+1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.

@@ -116,11 +116,11 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 
 ## References
 
-- Alston, W.P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1–30.
-- Hoffman, D.D. (2016). "The Interface Theory of Perception." *Current Directions in Psychological Science*, 25(3), 157–161.
-- Kant, I. (1781/1787). *Critique of Pure Reason*. Trans. Paul Guyer and Allen Wood. Cambridge University Press, 1998.
-- Lutz, A. & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics in the Neuroscience of Consciousness." *Journal of Consciousness Studies*, 10(9–10), 31–52.
-- Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-- Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-- Pitt, D. (2004). "The Phenomenology of Cognition, or, What Is It Like to Think That P?" *Philosophy and Phenomenological Research*, 69(1), 1–36.
-- Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, 1, 253–329.
+1. Alston, W.P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1–30.
+1. Hoffman, D.D. (2016). "The Interface Theory of Perception." *Current Directions in Psychological Science*, 25(3), 157–161.
+1. Kant, I. (1781/1787). *Critique of Pure Reason*. Trans. Paul Guyer and Allen Wood. Cambridge University Press, 1998.
+1. Lutz, A. & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics in the Neuroscience of Consciousness." *Journal of Consciousness Studies*, 10(9–10), 31–52.
+1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+1. Pitt, D. (2004). "The Phenomenology of Cognition, or, What Is It Like to Think That P?" *Philosophy and Phenomenological Research*, 69(1), 1–36.
+1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, 1, 253–329.

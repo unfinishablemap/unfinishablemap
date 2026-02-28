@@ -143,11 +143,11 @@ Additionally, if Buddhist or compatibilist philosophy demonstrated that every mo
 
 ## References
 
-- Aristotle. *Nicomachean Ethics*, Book II (virtue as *hexis*) and Book III (voluntariness and choice).
-- d'Holbach, P.-H.T. (1770). *The System of Nature*. (Système de la Nature.)
-- Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
-- Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
-- Nagel, T. (1979). "Moral Luck." In *Mortal Questions*. Cambridge University Press.
-- Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
-- Sartre, J.-P. (1943). *Being and Nothingness*. (L'Être et le Néant.) Gallimard.
-- Williams, B. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973–1980*. Cambridge University Press.
+1. Aristotle. *Nicomachean Ethics*, Book II (virtue as *hexis*) and Book III (voluntariness and choice).
+1. d'Holbach, P.-H.T. (1770). *The System of Nature*. (Système de la Nature.)
+1. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
+1. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
+1. Nagel, T. (1979). "Moral Luck." In *Mortal Questions*. Cambridge University Press.
+1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
+1. Sartre, J.-P. (1943). *Being and Nothingness*. (L'Être et le Néant.) Gallimard.
+1. Williams, B. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973–1980*. Cambridge University Press.

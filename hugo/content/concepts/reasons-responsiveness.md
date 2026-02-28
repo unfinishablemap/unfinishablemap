@@ -140,7 +140,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 
 ## References
 
-- Fischer, J.M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press. (Develops "moderate reasons-responsiveness"—the capacity to recognise and react to some range of reasons—as the basis of moral responsibility. Their framework distinguishes strong from weak reasons-responsiveness; only the moderate version is required for attributing responsibility.)
-- Goldman, A. (1979). "What Is Justified Belief?" In G. Pappas (Ed.), *Justification and Knowledge*. Reidel. (Classic reliabilist account.)
-- Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1. (Original formulation of the space of reasons.)
-- Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press. (Connects reasons-responsiveness to free will and moral responsibility.)
+1. Fischer, J.M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press. (Develops "moderate reasons-responsiveness"—the capacity to recognise and react to some range of reasons—as the basis of moral responsibility. Their framework distinguishes strong from weak reasons-responsiveness; only the moderate version is required for attributing responsibility.)
+1. Goldman, A. (1979). "What Is Justified Belief?" In G. Pappas (Ed.), *Justification and Knowledge*. Reidel. (Classic reliabilist account.)
+1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1. (Original formulation of the space of reasons.)
+1. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press. (Connects reasons-responsiveness to free will and moral responsibility.)

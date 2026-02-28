@@ -148,12 +148,12 @@ The attention-imagery interface connects to the Map's broader framework. [[Atten
 
 <!-- AI REFINEMENT LOG - 2026-02-08
 Changes made:
-- Downgraded "paradigm evidence" to "consistent with" in opening summary and description (addressing pessimistic review Issue 3)
-- Acknowledged physicalist neural circuit explanation as equally viable in Motor Imagery section
-- Added "explanatory standoff" framing: motor imagery evidence underdetermines which interpretation is correct
-- Identified distinguishing prediction: phenomenal vividness vs neural activation as predictor of motor imagery gains
-- Updated Relation to Site Perspective to reflect calibrated confidence throughout
-- Preserved self-stultification argument and content-matching argument as considerations favouring the Map's position
+1. Downgraded "paradigm evidence" to "consistent with" in opening summary and description (addressing pessimistic review Issue 3)
+1. Acknowledged physicalist neural circuit explanation as equally viable in Motor Imagery section
+1. Added "explanatory standoff" framing: motor imagery evidence underdetermines which interpretation is correct
+1. Identified distinguishing prediction: phenomenal vividness vs neural activation as predictor of motor imagery gains
+1. Updated Relation to Site Perspective to reflect calibrated confidence throughout
+1. Preserved self-stultification argument and content-matching argument as considerations favouring the Map's position
 
 Based on pessimistic review 2026-02-08, Issue 3.
 Key improvement: Honest acknowledgment that evidence is consistent with but does not uniquely support consciousness's causal efficacy.

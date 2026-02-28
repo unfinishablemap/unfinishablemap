@@ -139,9 +139,9 @@ The Unfinishable Map's [tenets](/tenets/) find their sharpest expression in perc
 
 ## References
 
-- Block, N. (2007). "Consciousness, Accessibility, and the Mesh between Psychology and Neuroscience." *Behavioral and Brain Sciences*, 30(5-6), 481–499.
-- Marcel, A. J. (1983). "Conscious and Unconscious Perception: Experiments on Visual Masking and Word Recognition." *Cognitive Psychology*, 15(2), 197–237.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.
-- Simons, D. J., & Chabris, C. F. (1999). "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events." *Perception*, 28(9), 1059–1074.
-- Sperling, G. (1960). "The Information Available in Brief Visual Presentations." *Psychological Monographs*, 74(11), 1–29.
-- Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+1. Block, N. (2007). "Consciousness, Accessibility, and the Mesh between Psychology and Neuroscience." *Behavioral and Brain Sciences*, 30(5-6), 481–499.
+1. Marcel, A. J. (1983). "Conscious and Unconscious Perception: Experiments on Visual Masking and Word Recognition." *Cognitive Psychology*, 15(2), 197–237.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.
+1. Simons, D. J., & Chabris, C. F. (1999). "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events." *Perception*, 28(9), 1059–1074.
+1. Sperling, G. (1960). "The Information Available in Brief Visual Presentations." *Psychological Monographs*, 74(11), 1–29.
+1. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.

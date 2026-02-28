@@ -212,14 +212,14 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 
 ## References
 
-- Husserl, E. (1901/2001). *Logical Investigations*. Routledge.
-- McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331-350.
-- Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-- Weil, S. (1947). *Gravity and Grace*. Routledge.
-- Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-- Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56-77.
-- Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
-- McGinn, C. (1993). *Problems in Philosophy: The Limits of Inquiry*. Blackwell.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Husserl, E. (1901/2001). *Logical Investigations*. Routledge.
+1. McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331-350.
+1. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+1. Weil, S. (1947). *Gravity and Grace*. Routledge.
+1. Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+1. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56-77.
+1. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
+1. McGinn, C. (1993). *Problems in Philosophy: The Limits of Inquiry*. Blackwell.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.

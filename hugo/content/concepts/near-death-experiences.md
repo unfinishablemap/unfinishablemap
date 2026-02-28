@@ -174,19 +174,19 @@ None of these would definitively refute dualism, but they would significantly we
 
 ## References
 
-- Batthyány, A. et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 17-22.
-- Borjigin, J. et al. (2024). Gamma surge in dying human brains. University of Michigan.
-- Mashour, G.A. et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
-- Nahm, M., Greyson, B., Kelly, E.W. & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
-- Parnia, S. et al. (2022). Guidelines and standards for the study of death and recalled experiences of death. *Annals of the New York Academy of Sciences*, 1511(1):5-21.
-- Parnia, S. et al. (2023). AWAreness during REsuscitation II: A multi-center study. *Resuscitation*.
-- Van Lommel, P. et al. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358:2039-2045.
+1. Batthyány, A. et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 17-22.
+1. Borjigin, J. et al. (2024). Gamma surge in dying human brains. University of Michigan.
+1. Mashour, G.A. et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
+1. Nahm, M., Greyson, B., Kelly, E.W. & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
+1. Parnia, S. et al. (2022). Guidelines and standards for the study of death and recalled experiences of death. *Annals of the New York Academy of Sciences*, 1511(1):5-21.
+1. Parnia, S. et al. (2023). AWAreness during REsuscitation II: A multi-center study. *Resuscitation*.
+1. Van Lommel, P. et al. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358:2039-2045.
 
 <!-- AI REFINEMENT LOG - 2026-02-17
 Changes made:
-- Added "Terminal Lucidity as Corroborating Evidence" subsection with Nahm/Greyson research, Batthyány prevalence data, and Mashour paradigm-shift argument
-- Added "The Asymmetry Problem" subsection addressing why most brain damage diminishes consciousness while NDEs and terminal lucidity enhance it — honest treatment with concession that this remains a genuine tension for filter theory
-- Added 5 new references for terminal lucidity literature (Batthyány 2023, Mashour 2019, Nahm & Greyson 2009, Nahm et al. 2012, Nahm & Greyson 2014)
+1. Added "Terminal Lucidity as Corroborating Evidence" subsection with Nahm/Greyson research, Batthyány prevalence data, and Mashour paradigm-shift argument
+1. Added "The Asymmetry Problem" subsection addressing why most brain damage diminishes consciousness while NDEs and terminal lucidity enhance it — honest treatment with concession that this remains a genuine tension for filter theory
+1. Added 5 new references for terminal lucidity literature (Batthyány 2023, Mashour 2019, Nahm & Greyson 2009, Nahm et al. 2012, Nahm & Greyson 2014)
 
 Based on pessimistic review (2026-02-17 night) identifying that filter theory predicts enhanced consciousness during brain compromise, but most brain damage produces diminished consciousness.
 Key improvements: honest engagement with asymmetry problem; terminal lucidity as additional evidence that brain compromise can enhance experience beyond just NDEs.

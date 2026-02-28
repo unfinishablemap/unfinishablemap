@@ -222,12 +222,12 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 
 ## References
 
-- Boyd, R., & Richerson, P.J. (1996). Why culture is common, but cultural evolution is rare. *Proceedings of the British Academy*, 88, 77-93.
-- Dean, L.G., et al. (2012). Identification of the social and cognitive processes underlying human cumulative culture. *Science*, 335(6072), 1114-1118.
-- Henrich, J. (2015). *The Secret of Our Success: How Culture Is Driving Human Evolution*. Princeton University Press.
-- Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
-- Tomasello, M. (1999). *The Cultural Origins of Human Cognition*. Harvard University Press.
-- Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-- Wellman, H.M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. *Child Development*, 72(3), 655-684.
-- Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
-- Whiten, A., et al. (1999). Cultures in chimpanzees. *Nature*, 399(6737), 682-685.
+1. Boyd, R., & Richerson, P.J. (1996). Why culture is common, but cultural evolution is rare. *Proceedings of the British Academy*, 88, 77-93.
+1. Dean, L.G., et al. (2012). Identification of the social and cognitive processes underlying human cumulative culture. *Science*, 335(6072), 1114-1118.
+1. Henrich, J. (2015). *The Secret of Our Success: How Culture Is Driving Human Evolution*. Princeton University Press.
+1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
+1. Tomasello, M. (1999). *The Cultural Origins of Human Cognition*. Harvard University Press.
+1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
+1. Wellman, H.M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. *Child Development*, 72(3), 655-684.
+1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Whiten, A., et al. (1999). Cultures in chimpanzees. *Nature*, 399(6737), 682-685.

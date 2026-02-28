@@ -185,8 +185,8 @@ The [[objections-to-interactionism]] article provides comprehensive treatment of
 
 ## References
 
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Kim, J. (2001). "Lonely Souls: Causality and Substance Dualism." In *Soul, Body, and Survival*, ed. K. Corcoran.
-- Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies* 154: 349-360.
-- Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-- Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Proceedings of the Aristotelian Society* 84: 119-150.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Kim, J. (2001). "Lonely Souls: Causality and Substance Dualism." In *Soul, Body, and Survival*, ed. K. Corcoran.
+1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies* 154: 349-360.
+1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+1. Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Proceedings of the Aristotelian Society* 84: 119-150.

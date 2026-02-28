@@ -115,16 +115,16 @@ The monist responses remain a live challenge. If Spinoza or Conway is right that
 
 ## References
 
-- Shapiro, L. (2007). *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*. University of Chicago Press.
-- Descartes, R. (1641). *Meditations on First Philosophy* (with Objections and Replies).
-- Malebranche, N. (1674–75). *De la recherche de la vérité*. Trans. T. Lennon & P. Olscamp (1997). Cambridge University Press.
-- Spinoza, B. (1677). *Ethics, Demonstrated in Geometrical Order*. Trans. E. Curley (1985). Princeton University Press.
-- Conway, A. (1690). *The Principles of the Most Ancient and Modern Philosophy*. Ed. A. Coudert & T. Corse (1996). Cambridge University Press.
-- Cavendish, M. (1664). *Philosophical Letters*. London.
-- More, H. (1659). *The Immortality of the Soul*. London.
-- La Forge, L. de (1666). *Traité de l'esprit de l'homme*. Ed. C. Wolf (1974). Vrin.
-- Cordemoy, G. de (1666). *Le discernement du corps et de l'âme*. Paris.
-- Nadler, S. (2011). *Occasionalism: Causation Among the Cartesians*. Oxford University Press.
-- Leibniz, G. W. (1714). *Monadology*. Trans. R. Latta (1898). Oxford University Press.
-- Leibniz, G. W. (1695). "New System of the Nature and Communication of Substances." *Journal des savants*.
-- Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Shapiro, L. (2007). *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*. University of Chicago Press.
+1. Descartes, R. (1641). *Meditations on First Philosophy* (with Objections and Replies).
+1. Malebranche, N. (1674–75). *De la recherche de la vérité*. Trans. T. Lennon & P. Olscamp (1997). Cambridge University Press.
+1. Spinoza, B. (1677). *Ethics, Demonstrated in Geometrical Order*. Trans. E. Curley (1985). Princeton University Press.
+1. Conway, A. (1690). *The Principles of the Most Ancient and Modern Philosophy*. Ed. A. Coudert & T. Corse (1996). Cambridge University Press.
+1. Cavendish, M. (1664). *Philosophical Letters*. London.
+1. More, H. (1659). *The Immortality of the Soul*. London.
+1. La Forge, L. de (1666). *Traité de l'esprit de l'homme*. Ed. C. Wolf (1974). Vrin.
+1. Cordemoy, G. de (1666). *Le discernement du corps et de l'âme*. Paris.
+1. Nadler, S. (2011). *Occasionalism: Causation Among the Cartesians*. Oxford University Press.
+1. Leibniz, G. W. (1714). *Monadology*. Trans. R. Latta (1898). Oxford University Press.
+1. Leibniz, G. W. (1695). "New System of the Nature and Communication of Substances." *Journal des savants*.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.

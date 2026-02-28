@@ -161,11 +161,11 @@ None of these conditions has been met. The recursion void persists as a stable f
 
 ## References
 
-- Flavell, J. H. (1979). "Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry." *American Psychologist*, 34(10), 906-911.
-- Hofstadter, D. R. (2007). *I Am a Strange Loop*. Basic Books.
-- Kinderman, P., Dunbar, R., & Bentall, R. P. (1998). "Theory-of-mind deficits and causal attributions." *British Journal of Psychology*, 89(2), 191-204.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-- Miller, S. A. (2012). *Theory of Mind: Beyond the Preschool Years*. Psychology Press.
-- Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
-- Sartre, J.-P. (1943). *Being and Nothingness*. Trans. H. Barnes (1956). Washington Square Press.
-- Stiller, J., & Dunbar, R. I. (2007). "Perspective-taking and memory capacity predict social network size." *Social Networks*, 29(1), 93-104.
+1. Flavell, J. H. (1979). "Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry." *American Psychologist*, 34(10), 906-911.
+1. Hofstadter, D. R. (2007). *I Am a Strange Loop*. Basic Books.
+1. Kinderman, P., Dunbar, R., & Bentall, R. P. (1998). "Theory-of-mind deficits and causal attributions." *British Journal of Psychology*, 89(2), 191-204.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+1. Miller, S. A. (2012). *Theory of Mind: Beyond the Preschool Years*. Psychology Press.
+1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
+1. Sartre, J.-P. (1943). *Being and Nothingness*. Trans. H. Barnes (1956). Washington Square Press.
+1. Stiller, J., & Dunbar, R. I. (2007). "Perspective-taking and memory capacity predict social network size." *Social Networks*, 29(1), 93-104.

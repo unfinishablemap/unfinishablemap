@@ -179,14 +179,14 @@ This apex article synthesizes:
 
 ## References
 
-- Albert, D. & Loewer, B. (1988). Interpreting the many-worlds interpretation. *Synthese*, 77, 195-213.
-- Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-- Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
-- Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*, 11(1), 39-78.
-- Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
-- Koch, C. et al. (2024). Quantum approaches to consciousness. Allen Institute / Google Quantum AI.
-- Maier, M.A. & Dechamps, M.C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
-- Metzinger, T. (2021). Artificial Suffering. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
-- Plotnitsky, A. (2023). The No-Cloning Life. *Entropy*, 25(5), 793.
-- Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
-- Stapp, H.P. (2007). *Mindful Universe*. Springer.
+1. Albert, D. & Loewer, B. (1988). Interpreting the many-worlds interpretation. *Synthese*, 77, 195-213.
+1. Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
+1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*, 11(1), 39-78.
+1. Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
+1. Koch, C. et al. (2024). Quantum approaches to consciousness. Allen Institute / Google Quantum AI.
+1. Maier, M.A. & Dechamps, M.C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
+1. Metzinger, T. (2021). Artificial Suffering. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
+1. Plotnitsky, A. (2023). The No-Cloning Life. *Entropy*, 25(5), 793.
+1. Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
+1. Stapp, H.P. (2007). *Mindful Universe*. Springer.

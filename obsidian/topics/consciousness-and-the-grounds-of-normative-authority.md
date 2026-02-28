@@ -222,11 +222,11 @@ The consciousness-based account of normative authority would face pressure if:
 
 ## References
 
-- Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
-- Kant, I. (1785). *Groundwork of the Metaphysics of Morals*. Translated by M. Gregor, Cambridge University Press, 1998.
-- Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
-- Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
-- Williams, B. (1965). "Ethical Consistency." *Proceedings of the Aristotelian Society, Supplementary Volumes*, 39, 103-124.
-- Williams, B. (1973). "A Critique of Utilitarianism." In J. J. C. Smart & B. Williams, *Utilitarianism: For and Against*. Cambridge University Press.
+1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
+1. Kant, I. (1785). *Groundwork of the Metaphysics of Morals*. Translated by M. Gregor, Cambridge University Press, 1998.
+1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
+1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+1. Williams, B. (1965). "Ethical Consistency." *Proceedings of the Aristotelian Society, Supplementary Volumes*, 39, 103-124.
+1. Williams, B. (1973). "A Critique of Utilitarianism." In J. J. C. Smart & B. Williams, *Utilitarianism: For and Against*. Cambridge University Press.

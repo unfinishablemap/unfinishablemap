@@ -179,24 +179,24 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 
 ## References
 
-- Doerig, A., Schurger, A., & Herzog, M.H. (2024). The function(s) of consciousness: an evolutionary perspective. *Neuroscience of Consciousness*, 2024(1), niae031.
-- Heyes, C. (2018). Cumulative culture and explicit metacognition. *Humanities and Social Sciences Communications*, 5, 150.
-- James, W. (1890). *The Principles of Psychology*. Henry Holt.
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-- Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
-- Peper, A. (2020). A general theory of consciousness I: Consciousness and adaptation. *Communicative & Integrative Biology*, 13(1), 6-21.
-- Robinson, W. (2023). Epiphenomenalism. *Stanford Encyclopedia of Philosophy*.
+1. Doerig, A., Schurger, A., & Herzog, M.H. (2024). The function(s) of consciousness: an evolutionary perspective. *Neuroscience of Consciousness*, 2024(1), niae031.
+1. Heyes, C. (2018). Cumulative culture and explicit metacognition. *Humanities and Social Sciences Communications*, 5, 150.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. Peper, A. (2020). A general theory of consciousness I: Consciousness and adaptation. *Communicative & Integrative Biology*, 13(1), 6-21.
+1. Robinson, W. (2023). Epiphenomenalism. *Stanford Encyclopedia of Philosophy*.
 
 <!-- AI REFINEMENT LOG - 2026-02-07
 Changes made:
-- Added "The Physicalist Account of Mental Causation" section addressing non-reductive physicalism as the strongest competing view
-- Fixed equivocation between causal efficacy and non-physicality: opening now states the argument is accepted by physicalists and dualists alike
-- Revised "The Quantum Dimension" to clarify that mechanism questions arise specifically for dualists, not physicalists
-- Revised "Relation to Site Perspective" Dualism paragraph to acknowledge the argument doesn't directly establish dualism
-- Qualified the Lieberman et al. citation to acknowledge physicalist compatibility
-- Softened opening from "the strongest evidence" to "significant evidence"
-- Added pain asymbolia and congenital insensitivity qualifiers to the pleasure-pain correlation argument
-- Added Kim (1998) reference for causal exclusion argument
+1. Added "The Physicalist Account of Mental Causation" section addressing non-reductive physicalism as the strongest competing view
+1. Fixed equivocation between causal efficacy and non-physicality: opening now states the argument is accepted by physicalists and dualists alike
+1. Revised "The Quantum Dimension" to clarify that mechanism questions arise specifically for dualists, not physicalists
+1. Revised "Relation to Site Perspective" Dualism paragraph to acknowledge the argument doesn't directly establish dualism
+1. Qualified the Lieberman et al. citation to acknowledge physicalist compatibility
+1. Softened opening from "the strongest evidence" to "significant evidence"
+1. Added pain asymbolia and congenital insensitivity qualifiers to the pleasure-pain correlation argument
+1. Added Kim (1998) reference for causal exclusion argument
 
 Based on pessimistic review (pessimistic-2026-02-06-afternoon.md).
 Key improvements: Honest engagement with non-reductive physicalism; clear separation of what the evolutionary argument establishes (causal efficacy) from what requires additional arguments (non-physicality).

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-27 04:51:00+00:00
+ai_modified: 2026-02-28 12:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-02-27 04:51:00+00:00
 apex_sources:
@@ -27,7 +27,7 @@ concepts:
 - '[[quantum-state-inheritance-in-ai]]'
 - '[[consciousness-in-smeared-quantum-states]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-02-28
 description: Can artifacts be conscious? The Map finds principled obstacles to machine
   consciousness—but honest uncertainty demands acknowledging paths that might overcome
   them.
@@ -266,11 +266,12 @@ This apex article synthesizes:
 
 ## References
 
-- Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
-- Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
-- Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
-- Harnad, S. (1990). The Symbol Grounding Problem. *Physica D*, 42, 335-346.
-- Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
-- Maier, M. A. & Dechamps, M. C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
+1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
+1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
+1. Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
+1. Harnad, S. (1990). The Symbol Grounding Problem. *Physica D*, 42, 335-346.
+1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
+1. Maier, M. A. & Dechamps, M. C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
+1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/

@@ -140,12 +140,12 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 
 ## References
 
-- De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
-- Hoerl, C. (2018). Remembering past experiences. In K. Michaelian et al. (eds.), *New Directions in the Philosophy of Memory*. Routledge.
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
-- McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98, 349-366.
-- Price, H. & Weslake, B. (2009). The time-asymmetry of causation. In H. Beebee et al. (eds.), *The Oxford Handbook of Causation*. Oxford University Press.
-- Schacter, D.L. & Addis, D.R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
-- Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
-- Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+1. Hoerl, C. (2018). Remembering past experiences. In K. Michaelian et al. (eds.), *New Directions in the Philosophy of Memory*. Routledge.
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
+1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98, 349-366.
+1. Price, H. & Weslake, B. (2009). The time-asymmetry of causation. In H. Beebee et al. (eds.), *The Oxford Handbook of Causation*. Oxford University Press.
+1. Schacter, D.L. & Addis, D.R. (2007). The cognitive neuroscience of constructive memory. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
+1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
+1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

@@ -177,13 +177,13 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 
 ## References
 
-- Swinburne, R. (2004). *The Existence of God* (2nd ed.). Oxford University Press. [For Bayesian cumulative case methodology.]
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
-- McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
-- Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
-- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Barrett, J.L., Burdett, E.R.R., & Porter, T.J. (2021). The cognitive science of afterlife beliefs. In J.M. Fischer & B. Curl-Langager (Eds.), *Death and the Afterlife*. Springer.
-- Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
-- Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
-- O'Brien-Kop, K. (2023). Classical Sāṃkhya and the hard problem of consciousness. *Religious Studies*. Cambridge University Press.
+1. Swinburne, R. (2004). *The Existence of God* (2nd ed.). Oxford University Press. [For Bayesian cumulative case methodology.]
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
+1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
+1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
+1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Barrett, J.L., Burdett, E.R.R., & Porter, T.J. (2021). The cognitive science of afterlife beliefs. In J.M. Fischer & B. Curl-Langager (Eds.), *Death and the Afterlife*. Springer.
+1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
+1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
+1. O'Brien-Kop, K. (2023). Classical Sāṃkhya and the hard problem of consciousness. *Religious Studies*. Cambridge University Press.

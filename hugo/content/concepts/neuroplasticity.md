@@ -159,8 +159,8 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 
 ## References
 
-- Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-- Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-- Davidson, R.J., & Lutz, A. (2008). Buddha's Brain: Neuroplasticity and Meditation. *IEEE Signal Processing Magazine*, 25(1), 176-184.
-- Lazar, S.W., et al. (2005). Meditation experience is associated with increased cortical thickness. *NeuroReport*, 16(17), 1893-1897.
-- Pascual-Leone, A., et al. (2005). The plastic human brain cortex. *Annual Review of Neuroscience*, 28, 377-401.
+1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+1. Davidson, R.J., & Lutz, A. (2008). Buddha's Brain: Neuroplasticity and Meditation. *IEEE Signal Processing Magazine*, 25(1), 176-184.
+1. Lazar, S.W., et al. (2005). Meditation experience is associated with increased cortical thickness. *NeuroReport*, 16(17), 1893-1897.
+1. Pascual-Leone, A., et al. (2005). The plastic human brain cortex. *Annual Review of Neuroscience*, 28, 377-401.

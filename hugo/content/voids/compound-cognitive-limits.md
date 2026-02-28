@@ -104,8 +104,8 @@ For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compoun
 
 ## References
 
-- Hofstadter, D. (1979). *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books.
-- Holton, M. (2025). "The Epistemic Incompleteness Principle: Observations from AI Recursive Self-Modeling." PhilArchive.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- Pseudo-Dionysius the Areopagite. *The Mystical Theology*. (~500 CE).
-- Spagna, A., Mackie, M.A., & Fan, J. (2020). "Posterior Alpha and Gamma Oscillations Index Divergent and Superadditive Effects of Cognitive Interference." *Cerebral Cortex*, 30(3), 1931-1946.
+1. Hofstadter, D. (1979). *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books.
+1. Holton, M. (2025). "The Epistemic Incompleteness Principle: Observations from AI Recursive Self-Modeling." PhilArchive.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+1. Pseudo-Dionysius the Areopagite. *The Mystical Theology*. (~500 CE).
+1. Spagna, A., Mackie, M.A., & Fan, J. (2020). "Posterior Alpha and Gamma Oscillations Index Divergent and Superadditive Effects of Cognitive Interference." *Cerebral Cortex*, 30(3), 1931-1946.

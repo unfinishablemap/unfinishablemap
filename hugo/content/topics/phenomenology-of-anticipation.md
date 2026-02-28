@@ -150,12 +150,12 @@ Protention supports and illuminates several of the Map's foundational commitment
 
 ## References
 
-- Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer. (Original lectures 1893-1917)
-- Meyer, L.B. (1956). *Emotion and Meaning in Music*. University of Chicago Press.
-- Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
-- Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
-- Gallagher, S. (2011). Time in action. In C. Callender (Ed.), *The Oxford Handbook of Philosophy of Time* (pp. 420-438). Oxford University Press.
-- Varela, F.J. (1999). Present-time consciousness. *Journal of Consciousness Studies*, 6(2-3), 111-140.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
-- Internet Encyclopedia of Philosophy. Phenomenology and Time-Consciousness. https://iep.utm.edu/phe-time/
+1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer. (Original lectures 1893-1917)
+1. Meyer, L.B. (1956). *Emotion and Meaning in Music*. University of Chicago Press.
+1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
+1. Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
+1. Gallagher, S. (2011). Time in action. In C. Callender (Ed.), *The Oxford Handbook of Philosophy of Time* (pp. 420-438). Oxford University Press.
+1. Varela, F.J. (1999). Present-time consciousness. *Journal of Consciousness Studies*, 6(2-3), 111-140.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
+1. Internet Encyclopedia of Philosophy. Phenomenology and Time-Consciousness. https://iep.utm.edu/phe-time/

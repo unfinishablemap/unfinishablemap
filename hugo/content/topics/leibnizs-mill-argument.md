@@ -129,7 +129,7 @@ The mill argument stands alongside the [knowledge-argument](/concepts/knowledge-
 
 ## References
 
-- Leibniz, G.W. (1714). *Monadology*. §17.
-- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-- Lodge, P. (2014). Leibniz's mill argument against mechanical materialism revisited. *Ergo*, 1(3), 79-104.
+1. Leibniz, G.W. (1714). *Monadology*. §17.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Lodge, P. (2014). Leibniz's mill argument against mechanical materialism revisited. *Ergo*, 1(3), 79-104.

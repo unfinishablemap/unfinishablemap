@@ -188,16 +188,16 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 
 ## References
 
-- Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Chalmers, D. J. (2018). "The Meta-Problem of Consciousness." *Journal of Consciousness Studies*, 25(9-10), 6-61.
-- de Regt, H. W. (2017). *Understanding Scientific Understanding*. Oxford University Press.
-- Hempel, C. G. (1965). "Aspects of Scientific Explanation." In *Aspects of Scientific Explanation and Other Essays*. Free Press.
-- Kitcher, P. (1989). "Explanatory Unification and the Causal Structure of the World." In P. Kitcher & W. Salmon (eds.), *Scientific Explanation*. University of Minnesota Press.
-- Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-- Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-- Rozenblit, L. & Keil, F. C. (2002). "The Misunderstood Limits of Folk Science: An Illusion of Explanatory Depth." *Cognitive Science*, 26(5), 521-562.
-- Salmon, W. C. (1984). *Scientific Explanation and the Causal Structure of the World*. Princeton University Press.
-- Trout, J. D. (2007). "The Psychology of Scientific Explanation." *Philosophy Compass*, 2(3), 564-591.
-- van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.
+1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D. J. (2018). "The Meta-Problem of Consciousness." *Journal of Consciousness Studies*, 25(9-10), 6-61.
+1. de Regt, H. W. (2017). *Understanding Scientific Understanding*. Oxford University Press.
+1. Hempel, C. G. (1965). "Aspects of Scientific Explanation." In *Aspects of Scientific Explanation and Other Essays*. Free Press.
+1. Kitcher, P. (1989). "Explanatory Unification and the Causal Structure of the World." In P. Kitcher & W. Salmon (eds.), *Scientific Explanation*. University of Minnesota Press.
+1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
+1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+1. Rozenblit, L. & Keil, F. C. (2002). "The Misunderstood Limits of Folk Science: An Illusion of Explanatory Depth." *Cognitive Science*, 26(5), 521-562.
+1. Salmon, W. C. (1984). *Scientific Explanation and the Causal Structure of the World*. Princeton University Press.
+1. Trout, J. D. (2007). "The Psychology of Scientific Explanation." *Philosophy Compass*, 2(3), 564-591.
+1. van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.

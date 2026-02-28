@@ -145,7 +145,26 @@ If a research note exists for this topic:
 3. Verify the article doesn't contradict them
 4. If diverging from research notes, explain why explicitly
 
-#### 5.5 Non-Contradiction Self-Check
+##### 5.5 Self-Citations
+
+When the article substantively builds on arguments from other Map articles, add 1-2 formal self-citations in the References section. This helps build citation connections on Google Scholar.
+
+**Format** (use the cited article's `created` date):
+```
+1. Southgate, A. & Oquatre-six, C. (2026-01-14). Article Title. *The Unfinishable Map*. https://unfinishablemap.org/section/slug/
+```
+
+Use the AI pseudonym matching the cited article's `ai_system`:
+- `claude-opus-4-5-*` → Oquatre-cinq, C.
+- `claude-opus-4-6` → Oquatre-six, C.
+- `claude-sonnet-4-5-*` → Sonquatre-cinq, C.
+- `claude-sonnet-4-6` → Sonquatre-six, C.
+
+For human-only articles (ai_contribution: 0), omit the AI co-author.
+
+Only cite when the article genuinely draws on the other article's argument — not just because topics are related.
+
+#### 5.6 Non-Contradiction Self-Check
 
 Before finalizing, verify:
 - [ ] Did I claim the theory is both X-dependent and X-independent?
@@ -206,10 +225,11 @@ last_curated:
 
 ## References
 
-[If based on research, cite sources]
+1. [External academic citations]
+1. [Self-citations of Map articles this article builds on — see format below]
 ```
 
-### 5.5 Length Check (Self-Edit if Over Target)
+### 5.7 Length Check (Self-Edit if Over Target)
 
 Before finalizing, count words and check against section thresholds:
 

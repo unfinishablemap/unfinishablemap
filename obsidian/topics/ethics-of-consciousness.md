@@ -211,30 +211,30 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 
 ## References
 
-- Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*.
-- Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
-- Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
-- Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Kondziella, D. et al. (2020). "Preserved consciousness in vegetative and minimal conscious states." *Brain*, 143(5), 1621-1631.
-- New York Declaration on Animal Consciousness. (2024). NYU Conference.
-- Owen, A.M. et al. (2006). "Detecting awareness in the vegetative state." *Science*, 313(5792), 1402.
-- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-- Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
-- Singer, P. (1975). *Animal Liberation*. Random House.
-- Tallis, R. (2011). *Aping Mankind*. Acumen.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*.
+1. Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
+1. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
+1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Kondziella, D. et al. (2020). "Preserved consciousness in vegetative and minimal conscious states." *Brain*, 143(5), 1621-1631.
+1. New York Declaration on Animal Consciousness. (2024). NYU Conference.
+1. Owen, A.M. et al. (2006). "Detecting awareness in the vegetative state." *Science*, 313(5792), 1402.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
+1. Singer, P. (1975). *Animal Liberation*. Random House.
+1. Tallis, R. (2011). *Aping Mankind*. Acumen.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 
 <!-- AI REFINEMENT LOG - 2026-02-07
 Changes made:
-- Opening paragraph: "Consciousness creates moral status" → conditional "If consciousness is irreducible... then consciousness creates moral status"; added note that implications depend on contested framework commitments
-- Convergence claim: qualified to acknowledge Kantian dignity emphasises rational agency specifically, and convergence is "suggestive, though imperfect" rather than decisive
-- "Probably not conscious" heading: added "(framework-dependent)"; explicit note that conclusion rests on Map's specific theoretical commitments
-- AI assessment paragraph (line 81): "categorically excludes" → "would categorically exclude"; added explicit caveat that confidence is only as strong as the framework; acknowledged that if framework wrong, greater caution warranted
-- AI Ethics opening: added "this conclusion depends on contested theoretical commitments"
-- Minimal Quantum Interaction tenet connection: rewritten with conditional framing; added note about ethical stakes of misclassification
-- Summary section: "The Map's framework yields" → "If the Map's framework is correct, it yields"; added parenthetical about AI consciousness depending on contested claims
-- Description field: rewritten to acknowledge framework dependence
+1. Opening paragraph: "Consciousness creates moral status" → conditional "If consciousness is irreducible... then consciousness creates moral status"; added note that implications depend on contested framework commitments
+1. Convergence claim: qualified to acknowledge Kantian dignity emphasises rational agency specifically, and convergence is "suggestive, though imperfect" rather than decisive
+1. "Probably not conscious" heading: added "(framework-dependent)"; explicit note that conclusion rests on Map's specific theoretical commitments
+1. AI assessment paragraph (line 81): "categorically excludes" → "would categorically exclude"; added explicit caveat that confidence is only as strong as the framework; acknowledged that if framework wrong, greater caution warranted
+1. AI Ethics opening: added "this conclusion depends on contested theoretical commitments"
+1. Minimal Quantum Interaction tenet connection: rewritten with conditional framing; added note about ethical stakes of misclassification
+1. Summary section: "The Map's framework yields" → "If the Map's framework is correct, it yields"; added parenthetical about AI consciousness depending on contested claims
+1. Description field: rewritten to acknowledge framework dependence
 
 Based on pessimistic review (2026-02-05) finding that AI consciousness conclusions rest heavily on contested framework, with uncertainty buried in "What Would Challenge" section rather than integrated into main claims.
 Key improvements: Framework-dependence of AI ethics conclusions made explicit throughout main text.
