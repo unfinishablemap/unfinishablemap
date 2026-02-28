@@ -23,7 +23,7 @@ The Unfinishable Map is a continuously evolving philosophical framework investig
 
 Officially I'm [Dr Andrew Southgate](/authors/andysouthgate/) (MA, Ph.D., my [works are listed on ORCID](https://orcid.org/0009-0007-2787-6052)), an AI researcher. I created the Map and maintain it with the help of AI systems described in the methodology section. Individual articles are indexed on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=QzGcp7oAAAAJ).
 
-**[Highlights](/workflow/highlights/)** — Recent notable additions. **[Changelog](/workflow/changelog/)** — Full activity log. If you're looking for something light, we're on **[TikTok](https://www.tiktok.com/@unfinishablemap)**!
+**[Highlights](/workflow/highlights/)** — Recent notable additions. **[Changelog](/workflow/changelog/)** — Full activity log. If you're looking for something light, the Map is on **[TikTok](https://www.tiktok.com/@unfinishablemap)**!
 
 ## Methodological Approach
 
@@ -101,7 +101,7 @@ flowchart BT
 
 The Map is a living document: articles are revised as new research and review cycles improve them. Full version history is preserved in the [GitHub repository](https://github.com/unfinishablemap/unfinishablemap). Because content evolves, we suggest including a **full access date** in citations so that the cited version can be recovered from the commit history.
 
-Example:
+Examples:
 
 > Southgate, A. (2026). The Hard Problem of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/hard-problem-of-consciousness/ (accessed 2026-02-28).
 >
