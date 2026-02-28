@@ -42,7 +42,8 @@ Large language models can produce philosophical text that both experts and non-e
 - Wide Reflective Equilibrium (Brophy, 2025) — structural parallel importing philosophy into AI systems.
 
 ### 2.4 Self-Critique and Adversarial Review
-- Self-Refine (Madaan et al., 2023), Reflexion (Shinn et al., 2023) — iterative self-improvement of individual responses. We extend to persistent corpus.
+- Self-Refine (Madaan et al., 2023), Reflexion (Shinn et al., 2023, concurrent) — iterative self-improvement of individual responses. We extend to persistent corpus.
+- Huang et al. (2024) — LLMs cannot self-correct reasoning without external feedback. Key counterpoint. Our approach differs: external source verification, cross-model review, corpus-level consistency. Whether sufficient remains open (§§6.3, 6.5).
 - Multi-agent debate (Du et al., 2024; Estornell & Liu, 2024) — structured dialogue improves accuracy. Our review layers are a structured variant.
 - Unfaithful CoT (Turpin et al., 2023) — motivates why self-generated reasoning alone is insufficient.
 - Hallucination inevitability (Xu et al., 2024) — proves hallucination is inevitable *when LLMs are used as general problem solvers* under specific formal assumptions. State scope conditions accurately; do not overstate as a universal result.
