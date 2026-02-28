@@ -48,7 +48,10 @@ Papers use a different voice from Map articles:
 - **Hedged claims.** "The results suggest..." not "This proves..."
 - **No tenet advocacy.** Papers describe the Map's tenets as methodological choices, not truth claims
 - **Define all jargon.** Assume the reader knows neither philosophy of mind nor Hugo/Obsidian
-- **Avoid LLM clichés.** Same rules as Map content — no "This is not X. It is Y." constructs
+- **Avoid LLM clichés.** Same rules as Map content — no "This is not X. It is Y." constructs. Also avoid the "not merely X, but Y" escalation pattern, "This capability shift made a new kind of X possible," and similar formulaic phrasings that read as AI-generated
+- **Avoid grandiosity and overclaiming.** Do not use phrasing like "fills this gap," "novel contribution," or "we introduce the concept of X" when a simpler statement works. Coined terms should appear sparingly (once or twice), not be repeated for emphasis. Let the work speak for itself rather than announcing its significance
+- **No pretentious framing.** Prefer plain descriptions over dramatic ones. "The system reviews its output" not "the system attacks its own output indefinitely." Academic readers are put off by language that oversells
+- **Use lists and bullet points.** Break up dense prose with structured lists where appropriate — enumerating components, steps, contributions, or design choices. This aids readability and scanning
 
 ### Formatting
 
