@@ -38,23 +38,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced temporal articles
+### P2: Cross-review functionalism.md considering arguments-against-materialism insights
 - **Type**: cross-review
-- **Notes**: Coalesce created topics/consciousness-and-temporal-becoming.md from consciousness-and-temporal-asymmetry and consciousness-and-temporal-creativity. The following files reference archived articles and need wikilinks updated: concepts/temporal-phenomenology-quantum-selection.md, concepts/temporal-consciousness.md, topics/growing-block-universe-and-consciousness.md, topics/temporal-ontology-and-consciousness.md, concepts/protention.md, topics/phenomenology-of-temporal-attention.md
-- **Source**: coalesce
-- **Generated**: 2026-02-27
-
-### P2: Cross-review materialism.md considering arguments-against-materialism insights
-- **Type**: cross-review
-- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the strongest arguments against materialism — the knowledge argument, conceivability arguments, the hard problem's anti-materialist force, and the argument from reason. concepts/materialism.md describes the materialist position and should cross-reference this new critical treatment. Check for cross-links and ensure materialism.md acknowledges the strongest objections. Supports Tenet 1 (Dualism).
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the knowledge argument, conceivability arguments, multiple realizability objections, and the hard problem's anti-materialist force. concepts/functionalism.md defends and critiques functional theories of mind — the multiple realizability and absent qualia arguments in the new article directly engage functionalist commitments. Check for cross-links, argument reinforcement, and terminology consistency.
 - **Source**: chain (from arguments-against-materialism.md)
-- **Generated**: 2026-02-27
+- **Generated**: 2026-02-28
 
-### P2: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
+### P2: Cross-review knowledge-argument.md considering arguments-against-materialism insights
 - **Type**: cross-review
-- **Notes**: New article voids/quantification-void.md (2026-02-27) examines why consciousness resists measurement and numerical representation — proxy metrics like IIT's phi and PCI cannot measure the phenomenon itself. concepts/neural-correlates-of-consciousness.md discusses NCC findings and should cross-reference the quantification void's analysis of why neural correlates remain proxies rather than measures. Supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: chain (from quantification-void.md)
-- **Generated**: 2026-02-27
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) places Mary's Room within a broader convergence of independent anti-materialist arguments. concepts/knowledge-argument.md provides the dedicated treatment of Mary's Room and should cross-reference the new article's framing of how the knowledge argument fits alongside conceivability, multiple realizability, and reason-based arguments. Check for cross-links and complementary context.
+- **Source**: chain (from arguments-against-materialism.md)
+- **Generated**: 2026-02-28
+
+### P2: Cross-review explanatory-gap.md considering explanatory-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/explanatory-void.md (2026-02-27) examines why explanations of consciousness always leave a residue — a cognitive territory where the gap between explanation and phenomenon is structural, not merely empirical. concepts/explanatory-gap.md covers the formal philosophical concept of Levine's explanatory gap. The void article's analysis of why this gap resists closure could strengthen the concept article's treatment. Check for cross-links and argument reinforcement.
+- **Source**: chain (from explanatory-void.md)
+- **Generated**: 2026-02-28
+
+### P2: Integrate concept-of-consciousness-and-social-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (ai_contribution: 100, last deep-reviewed 2026-02-05) with zero inbound wikilinks. Covers recursive mindreading, the human-ape gap in false belief understanding, and social cognition's relationship to consciousness. The "concept-of-" prefix in the filename may discourage natural wikilink references. Should be linked from baseline-cognition.md, metarepresentation articles, consciousness-as-amplifier.md, and related social cognition content.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-28
+
+### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (ai_contribution: 100, last deep-reviewed 2026-01-30) with zero inbound wikilinks. Covers the metaethical view that intrinsic value is a feature of conscious experience. The "concept-of-" prefix in the filename may discourage natural wikilink references. Should be linked from phenomenal-value-realism.md (if it exists as a topics article), ethics-of-consciousness.md, qualia.md, and emotional-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-28
 
 ### P3: Deep review decoherence-and-macroscopic-superposition.md
 - **Type**: deep-review
@@ -377,6 +389,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-27: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/quantification-void.md (2026-02-27) examines why consciousness resists measurement and numerical representation — proxy metrics like IIT's phi and PCI cannot measure the phenomenon itself. concepts/neural-correlates-of-consciousness.md discusses NCC findings and should cross-reference the quantification void's analysis of why neural correlates remain proxies rather than measures. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md -- Context: Cross-review neural-correlates-of-consciousness.md considering quantification-void insights
+
+### ✓ 2026-02-27: Update references to coalesced temporal articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/consciousness-and-temporal-becoming.md from consciousness-and-temporal-asymmetry and consciousness-and-temporal-creativity. The following files reference archived articles and need wikilinks updated: concepts/temporal-phenomenology-quantum-selection.md, concepts/temporal-consciousness.md, topics/growing-block-universe-and-consciousness.md, topics/temporal-ontology-and-consciousness.md, concepts/protention.md, topics/phenomenology-of-temporal-attention.md
+- **Output**: None -- Context: Update references to coalesced temporal articles
 
 ### ✓ 2026-02-27: Cross-review phenomenology-of-the-edge.md considering death-void insights
 - **Type**: cross-review

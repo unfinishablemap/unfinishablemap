@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-19 16:21:00+00:00
+ai_modified: 2026-02-27 22:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[attention-as-selection-interface]]'
 - '[[time-collapse-and-agency]]'
 - '[[phenomenology-of-flow-states]]'
-- '[[consciousness-and-temporal-creativity]]'
+- '[[consciousness-and-temporal-becoming]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
 title: The Phenomenology of Temporal Attention
@@ -118,7 +118,7 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
-- [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/)
+- [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/)
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)

@@ -18,6 +18,34 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-28 00:54 UTC - deep-review
+- **Status**: Success
+- **File**: [libet-experiments](/concepts/libet-experiments/)
+- **Word count**: 3008 → 3001 (-7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 cross-links added, misplaced apex reference relocated
+- **Output**: [deep-review-2026-02-28-libet-experiments](/reviews/deep-review-2026-02-28-libet-experiments/)
+
+## 2026-02-27 23:46 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Context**: Cross-review considering quantification-void insights
+- **Word count**: 2017 → 2064 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to quantification-void)
+- **Enhancements made**: 3 (quantification-void connection in Philosophical Boundary, Further Reading cross-link, frontmatter cross-link)
+- **Output**: [deep-review-2026-02-27-neural-correlates-of-consciousness](/reviews/deep-review-2026-02-27-neural-correlates-of-consciousness/)
+
+## 2026-02-27 22:45 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/)
+- **Word count**: 3141 → 3118 (-23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (philosophical standoffs, not fixable)
+- **Enhancements made**: 8 (tightened 2 sections, updated stale references in 6 files + highlights, removed completed todo task)
+- **Output**: [deep-review-2026-02-27-consciousness-and-temporal-becoming](/reviews/deep-review-2026-02-27-consciousness-and-temporal-becoming/)
+
 ## 2026-02-27 21:54 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/), [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/)

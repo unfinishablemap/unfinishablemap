@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-20 06:06:00+00:00
+ai_modified: 2026-02-27 22:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ last_deep_review: 2026-02-20 06:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-temporal-asymmetry]]'
+- '[[consciousness-and-temporal-becoming]]'
 - '[[time-collapse-and-agency]]'
 title: Protention
 topics:
@@ -101,7 +101,7 @@ Protention supports the Map's foundational commitments at multiple points.
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Extended exploration of protention, surprise, and anticipatory consciousness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and Husserl's tripartite structure
 - [temporal-thickness](/concepts/temporal-thickness/) — How protentional reach contributes to moment density
-- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/) — Why protention and retention differ in phenomenal weight
+- [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/) — Why protention and retention differ in phenomenal weight
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How anticipatory consciousness enables deliberation
 - [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation vs. pre-reflective protention
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's subjective aim and processual experience

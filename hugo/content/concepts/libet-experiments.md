@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-02-28 00:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[luck-objection]]'
 - '[[decoherence]]'
+- '[[timing-gap-problem]]'
 - '[[illusionism]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-01-14
@@ -23,7 +24,7 @@ description: Do brains decide before we're aware? The readiness potential may be
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 20:54:30+00:00
+last_deep_review: 2026-02-28 00:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,9 +50,9 @@ The implication seemed clear: the brain "decided" before consciousness knew. The
 
 Soon et al. (2008) extended Libet's findings dramatically using fMRI. They found that brain activity in prefrontal and parietal cortex could predict which button a participant would press—left or right—up to *10 seconds* before the participant reported being aware of choosing.
 
-Prediction accuracy was about 60%—well above chance (50%) but far from perfect. This imperfection matters: something other than the measured neural activity contributes to the final outcome. The brain prepares multiple possibilities; something else determines which actualizes.
+Prediction accuracy was about 60%—well above chance (50%) but far from perfect. This imperfection matters: something other than the measured neural activity contributes to the final outcome.
 
-More recent studies have pushed the timeline further. Bode et al. (2011) found predictive signals up to 4 seconds before awareness for abstract intentions, not just motor actions. The phenomenon generalizes beyond simple movements.
+Bode et al. (2011) found predictive signals up to 4 seconds before awareness for abstract intentions, not just motor actions. The phenomenon generalizes beyond simple movements.
 
 ## The Neural Noise Critique
 
@@ -149,7 +150,7 @@ On this view, the Libet findings show neural processes that *prepare* possibilit
 
 This dissolves the timing problem differently than retrocausality. There's no "moment of decision" separate from neural processes because the occasion *is* the decision—not an observation of prior neural events but the integration of those events into experiential unity. The RP is part of what the occasion inherits and transforms.
 
-The framework aligns with the Map's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but all three show that Libet doesn't refute conscious causation. The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis weaves these threads together: consciousness doesn't merely occur within time but may participate in constituting temporal structure—making the timing problem itself a consequence of assuming time precedes what consciousness does.
+The framework aligns with the Map's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but all three show that Libet doesn't refute conscious causation.
 
 ## What the Experiments Don't Show
 
@@ -200,15 +201,19 @@ The Map's position is that current evidence supports selection over randomness, 
 - [voluntary attention](/concepts/attention-as-interface/) — The willed/instructed distinction and stochastic pre-state challenge
 - [luck-objection](/concepts/luck-objection/) — Why indeterminism doesn't reduce selection to randomness
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
+- [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — The atemporal transaction model that dissolves the Libet timing puzzle
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality differs from contested presentiment claims
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness at the quantum level
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
+- [timing-gap-problem](/concepts/timing-gap-problem/) — The timescale mismatch between decoherence and neural decisions
 - [illusionism](/concepts/illusionism/) — The eliminativist interpretation and its problems
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view these experiments seem to support, and its problems
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that makes conscious selection coherent
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of conscious causation
+- [control-theoretic-will](/concepts/control-theoretic-will/) — Will as a low-bandwidth control signal: gating and steering neural dynamics
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The reality of qualitative experience
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically
+- [time-consciousness-growing-block](/apex/time-consciousness-growing-block/) — Apex synthesis connecting time, consciousness, and the timing problem
 - [libet-experiments-free-will-2026-01-07](/research/libet-experiments-free-will-2026-01-07/) — Detailed research notes
 
 ## References

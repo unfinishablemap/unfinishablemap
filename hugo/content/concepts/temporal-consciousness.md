@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-22 18:26:00+00:00
+ai_modified: 2026-02-27 22:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -61,7 +61,7 @@ related_articles:
 - '[[process-and-consciousness]]'
 - '[[consciousness-and-temporal-integration]]'
 - '[[temporal-structure-of-consciousness]]'
-- '[[consciousness-and-temporal-asymmetry]]'
+- '[[consciousness-and-temporal-becoming]]'
 title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

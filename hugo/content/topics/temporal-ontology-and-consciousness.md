@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-22 05:40:00+00:00
+ai_modified: 2026-02-27 22:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[growing-block-universe-and-consciousness]]'
 - '[[temporal-structure-of-consciousness]]'
-- '[[consciousness-and-temporal-asymmetry]]'
+- '[[consciousness-and-temporal-becoming]]'
 - '[[time-collapse-and-agency]]'
 - '[[bergson-and-duration]]'
 title: Temporal Ontology and Consciousness
@@ -125,7 +125,7 @@ This article's argument—that temporal ontology and consciousness theories are 
 
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — Why the growing block best accommodates consciousness
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness requires temporal structure
-- [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/) — Why felt temporal direction requires consciousness
+- [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/) — Why felt temporal direction requires consciousness
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — How collapse connects time, consciousness, and free will
 - [bergson-and-duration](/topics/bergson-and-duration/) — Durée as irreducible temporal phenomenology
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the three major positions
