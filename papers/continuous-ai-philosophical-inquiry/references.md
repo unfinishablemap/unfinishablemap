@@ -48,6 +48,11 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 25. **Brophy, M. (2025).** "Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety." *arXiv*. https://arxiv.org/abs/2506.00415
     - Proposes using Wide Reflective Equilibrium (coherence between judgments, principles, and background theories) to improve LLM alignment. Structural parallel to our tenet-constraint approach: they import philosophical methodology into AI systems; we use AI systems to produce philosophy under explicit constraints. Argues MWRE offers advantages over Constitutional AI by promoting dynamic revision.
 
+## Category 3b: Philosophy of Science (Structural Analogies)
+
+34. **Lakatos, I. (1978).** *The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1.* Cambridge University Press.
+    - Introduces the framework of scientific research programmes: a "hard core" of irrefutable commitments surrounded by a "protective belt" of auxiliary hypotheses subject to testing and revision. We draw a structural analogy: our tenets function as the hard core, the article corpus as the protective belt, and review layers as critical testing. Convergence caps correspond to programme maturation. This is a structural parallel, not a claim that the Map constitutes a research programme in Lakatos' technical sense.
+
 ## Category 4: LLM-Based Philosophical Reasoning
 
 11. **Schwitzgebel, E., Schwitzgebel, D., & Strasser, A. (2023).** "Creating a Large Language Model of a Philosopher." *arXiv*. https://arxiv.org/abs/2302.01339
