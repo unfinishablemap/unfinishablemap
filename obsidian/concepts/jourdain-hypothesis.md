@@ -4,7 +4,7 @@ description: "Apes have culture but may not know they have culture. The gap betw
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-05T07:42:00+00:00
+ai_modified: 2026-02-28T05:46:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -199,6 +199,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 ## Further Reading
 
 - [[topics/consciousness-and-social-cognition]] — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
+- [[concept-of-consciousness-and-social-cognition]] — Consciousness enabling metarepresentational social cognition
 - [[metarepresentation]] — The capacity to represent representations as representations
 - [[baseline-cognition]] — What cognition achieves without metarepresentation
 - [[cumulative-culture]] — Why cultural ratcheting requires the Jourdain transition

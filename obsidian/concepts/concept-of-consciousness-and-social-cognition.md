@@ -4,7 +4,7 @@ description: "Does recursive mindreading require phenomenal consciousness or jus
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-22T14:40:00+00:00
+ai_modified: 2026-02-28T05:46:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-02-05T11:54:00+00:00
+last_deep_review: 2026-02-28T05:46:00+00:00
 ---
 
 Does advanced social cognition require phenomenal consciousness? Great apes possess impressive social abilities—tracking relationships, forming coalitions, anticipating others' behaviour based on goals and perceptions—yet lack the full suite of capacities that distinguish human social intelligence: shared intentionality, recursive mindreading, and the cultural transmission of social knowledge. The gap is real, but its explanation is contested: it could reflect differences in working memory capacity, executive function, or phenomenal consciousness—or some combination. The Unfinishable Map argues that phenomenal experience plays an essential role, enabling the metarepresentational operations that transform basic social cognition into the distinctively human capacity to represent minds *as* minds. But this claim requires careful distinction between phenomenal consciousness (subjective experience) and cognitive access (global information availability), since the two are often conflated in the literature.
@@ -141,18 +141,22 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 ## Further Reading
 
 ### Core Concepts
+- [[theory-of-mind]] — The levels of mental state attribution and the metarepresentational threshold
 - [[baseline-cognition]] — The cognitive floor from which consciousness amplifies social abilities
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them: the procedural/declarative distinction
 - [[metarepresentation]] — Why representing minds *as* minds requires consciousness
+- [[consciousness-as-amplifier]] — How consciousness transforms baseline social cognition into human-level capacities
 - [[teaching-as-metarepresentation]] — Social transmission as paradigm case of consciousness-dependent cognition
 - [[working-memory]] — The workspace enabling recursive mental operations
 
 ### Related Topics
+- [[topics/consciousness-and-social-cognition]] — The topic-level treatment: correlation vs. constitution in social cognition
 - [[animal-consciousness]] — Great ape social cognition and its limits
 - [[ai-consciousness]] — Whether artificial systems could have genuine social understanding
 - [[cumulative-culture]] — How metarepresentational social cognition enables cultural ratcheting
 - [[intentionality]] — The aboutness of mental states and its role in social understanding
 - [[emotional-consciousness]] — The felt dimension of empathic concern
+- [[recursion-void]] — Why recursive mindreading depth is bounded around fifth order
 
 ### Research Notes
 - [[consciousness-influence-intelligence-2026-01-21]] — Evidence that consciousness causally contributes to intelligence

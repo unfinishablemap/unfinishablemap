@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-05T06:42:00+00:00
+ai_modified: 2026-02-28T05:46:00+00:00
 last_deep_review: 2026-02-02T03:45:00+00:00
 draft: false
 topics:
@@ -225,6 +225,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [[attention-as-interface]] — How consciousness engages neural systems
 - [[phenomenology-of-choice]] — The felt structure of deliberate selection
 - [[metarepresentation]] — Representing representations as representations
+- [[concept-of-consciousness-and-social-cognition]] — Social cognition as a key domain where consciousness amplifies
 - [[global-workspace-theory]] — The broadcasting account of conscious access
 - [[concepts/epiphenomenalism]] — The position the amplification evidence contradicts
 - [[interactionist-dualism]] — How consciousness influences brain states

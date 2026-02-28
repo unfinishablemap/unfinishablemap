@@ -4,7 +4,7 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-05T09:12:00+00:00
+ai_modified: 2026-02-28T05:46:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -208,6 +208,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 ### Core Concepts
 - [[metarepresentation]] — Why representing minds *as* minds requires consciousness
 - [[topics/consciousness-and-social-cognition]] — Extended analysis of the consciousness-social cognition relationship
+- [[concept-of-consciousness-and-social-cognition]] — The metarepresentational threshold in social cognition
 - [[baseline-cognition]] — The cognitive floor from which consciousness amplifies social abilities
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them
 

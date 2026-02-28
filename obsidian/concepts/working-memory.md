@@ -4,7 +4,7 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-02-28T05:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -195,6 +195,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [[binding-problem]] — The unity problem in both perception and memory
 - [[semantic-memory]] — Noetic consciousness and semantic retrieval
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
+- [[concept-of-consciousness-and-social-cognition]] — How expanded WM capacity enables recursive mindreading
 - [[baseline-cognition]] — What neural systems achieve without conscious amplification
 - [[metarepresentation]] — Representing representations as representations
 - [[counterfactual-reasoning]] — Thinking about what might have been

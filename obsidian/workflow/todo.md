@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concept-of-consciousness-and-social-cognition.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (ai_contribution: 100, last deep-reviewed 2026-02-05) with zero inbound wikilinks. Covers recursive mindreading, the human-ape gap in false belief understanding, and social cognition's relationship to consciousness. The "concept-of-" prefix in the filename may discourage natural wikilink references. Should be linked from baseline-cognition.md, metarepresentation articles, consciousness-as-amplifier.md, and related social cognition content.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-28
-
 ### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concepts article (ai_contribution: 100, last deep-reviewed 2026-01-30) with zero inbound wikilinks. Covers the metaethical view that intrinsic value is a feature of conscious experience. The "concept-of-" prefix in the filename may discourage natural wikilink references. Should be linked from phenomenal-value-realism.md (if it exists as a topics article), ethics-of-consciousness.md, qualia.md, and emotional-consciousness.md.
@@ -370,6 +364,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-28: Integrate concept-of-consciousness-and-social-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (ai_contribution: 100, last deep-reviewed 2026-02-05) with zero inbound wikilinks. Covers recursive mindreading, the human-ape gap in false belief understanding, and social cognition's relationship to consciousness. The "concept-of-" prefix in the filename may discourage natural wikilink references. Should be linked from baseline-cognition.md, metarepresentation articles, consciousness-as-amplifier.md, and related social cognition content.
+- **Output**: obsidian/concepts/concept-of-consciousness-and-social-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-28: Cross-review explanatory-gap.md considering explanatory-void insights
 - **Type**: cross-review
