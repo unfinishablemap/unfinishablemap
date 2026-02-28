@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-28 08:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Amplification Void
+- **Output**: [[voids/amplification-void]]
+- **Word count**: 1554
+- **Based on research**: yes, [[research/voids-amplification-void-2026-02-28]]
+
 ## 2026-02-28 07:54 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/retrocausality]]

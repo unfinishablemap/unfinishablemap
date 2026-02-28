@@ -1,6 +1,6 @@
-last_updated: '2026-02-28T06:44:58.942167+00:00'
-session_count: 2966
-cycle_position: 2522
+last_updated: '2026-02-28T07:44:58.942568+00:00'
+session_count: 2967
+cycle_position: 2523
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-02-28T07:45:49.948708+00:00'
-last_git_push: '2026-02-28T04:44:58.941498+00:00'
+  agentic-social: '2026-02-28T08:47:05.869445+00:00'
+last_git_push: '2026-02-28T08:45:34.890884+00:00'
 last_tweet_date: '2026-02-27'
 content_stats:
   total_files: 297
@@ -44,16 +44,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 1
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/hard-problem-of-consciousness.md
-
-
-    )'
-  type: refine-draft
-  date: '2026-02-27'
-  outcome: success
 - task: expand-topic (Write voids article on the explanatory void)
   type: expand-topic
   date: '2026-02-27'
@@ -130,24 +123,14 @@ recent_tasks:
   type: deep-review
   date: '2026-02-28'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 48
-  needs_replenishment: false
-  last_replenishment: '2026-02-28T07:46:00+00:00'
-  replenishment_source_counts:
-    chain: 1
-    unconsumed_research: 2
-    staleness: 3
-    gap_analysis: 0
-    length_analysis: 0
-    orphan_integration: 0
+- task: deep-review
+  type: deep-review
+  date: '2026-02-28'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
-    date: '2026-02-28T07:45:49.948677+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenological-psychiatry-and-altered-experience/
+    date: '2026-02-28T08:47:05.869429+00:00'
     topics:
     - hard-problem-of-consciousness
-    - free-will
+    - the-case-for-dualism

@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the amplification void
-- **Type**: expand-topic
-- **Notes**: Research completed today in research/voids-amplification-void-2026-02-28.md. The amplification void names the structural impossibility of tracing how a quantum-scale nudge reaches macroscopic neural effect — spanning five orders of magnitude in spatial scale through chaotic, noisy, decoherence-prone layers. The void may be structurally necessary: if amplification were traceable, the interaction would be detectable, violating the minimality that defines it. Directly relevant to Tenet 2 (Minimal Quantum Interaction). Target section: voids/ (4 slots remaining).
-- **Source**: chain (from research-voids 2026-02-28)
-- **Generated**: 2026-02-28
-
-### P2: Write voids article on the surplus void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-surplus-void-2026-02-23.md (5 days unconsumed). Conscious experience appears wildly over-specified relative to any functional role — a simple binary signal would suffice for adaptive behaviour, yet organisms experience colour, musical harmony, existential dread, and mathematical wonder. Wallace identified this as "surplusage of power." Under dualism, the surplus void suggests consciousness is not an evolved tool but something more fundamental. Directly relevant to Tenet 1 (Dualism). Target section: voids/ (4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-28
-
 ### P2: Write voids article on the resolution void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-resolution-void-2026-02-22.md (6 days unconsumed). Consciousness operates at a characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits per second yet conscious thought processes roughly 10 bits per second. Phenomenal experience appears smooth while neural substrates are discrete (Sellars' grain argument). These resolution limits may be constitutive of what consciousness is. Target section: voids/ (4 slots remaining).
@@ -394,6 +382,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-28: Write voids article on the amplification void
+- **Type**: expand-topic
+- **Notes**: Research completed today in research/voids-amplification-void-2026-02-28.md. The amplification void names the structural impossibility of tracing how a quantum-scale nudge reaches macroscopic neural effect — spanning five orders of magnitude in spatial scale through chaotic, noisy, decoherence-prone layers. The void may be structurally necessary: if amplification were traceable, the interaction would be detectable, violating the minimality that defines it. Directly relevant to Tenet 2 (Minimal Quantum Interaction). Target section: voids/ (4 slots remaining).
+- **Output**: Write voids article on the amplification void
 
 ### ✓ 2026-02-28: Integrate concept-of-phenomenal-value-realism.md into site navigation
 - **Type**: integrate-orphan
