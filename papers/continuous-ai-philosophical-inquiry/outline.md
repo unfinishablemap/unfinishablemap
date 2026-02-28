@@ -82,9 +82,10 @@ Large language models can produce philosophical text that both experts and non-e
 - Quality metrics track issue counts over time.
 
 ### 3.5 Content Types and Stratified Pipeline
-- Four content types: topics, concepts, voids (deliberately mapping the unknowable), apex (synthesis).
-- **Stratified information flow:** research notes feed into topics and concepts, which feed into apex synthesis articles. Information flows upward through layers of increasing integration; this stratification prevents circular reinforcement where the system's own outputs become evidence for further claims.
-- Pipeline: Obsidian vault → Python sync → Hugo static site → Netlify deployment.
+- Five content types: research notes, topics, concepts, voids (deliberately mapping the unknowable), apex (synthesis).
+- **Research notes as foundation:** research notes are the base layer — web research outputs where the automation is explicitly instructed to suppress interpretive bias and faithfully report external sources. This grounds the pipeline in externally sourced material rather than the model's prior beliefs.
+- **Stratified information flow:** research notes feed into topics and concepts, which feed into apex synthesis articles. Information flows upward through layers of increasing integration and interpretation. The grounding in research notes prevents circular reinforcement where the system's own outputs become evidence for further claims.
+- Pipeline: Obsidian vault (local markdown knowledge management) → Python sync → Hugo (static site generator, markdown to HTML) → Netlify (automated hosting/deployment).
 - Public git repository as permanent version history.
 - **Coherence inflation countermeasures:** The automation produced a document defining safeguards against "coherence inflation" — the systematic overcommitment that emerges when a single AI system both generates and reviews its own content. The document identifies specific failure modes (circular citation, confidence ratcheting, counterargument softening) and defines countermeasures (confidence stratification, mandatory steelman sections, circular citation detection, external red-team reviews). This emerged from the system's review prompts, which direct philosophical reflection on the corpus — it is an output of the architecture, not evidence that the system is self-aware. The content is nonetheless operationally useful: the countermeasures it describes address genuine risks.
 
