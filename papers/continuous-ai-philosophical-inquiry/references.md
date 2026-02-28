@@ -9,123 +9,469 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 | `chemrxiv-2025-rwxdk` | Harb et al. (2025) | Towards Philosophical Reasoning with Agentic LLMs: Socratic Method for Scientific Assistance | Low-med |
 | `arxiv-2302.01339` | Schwitzgebel et al. (2023) | Creating a Large Language Model of a Philosopher | High |
 
+---
+
 ## Category 1: AI-Assisted Knowledge Production
 
-1. **Shao, Y., Jiang, Y., Kanell, T., Xu, P., Khattab, O., & Lam, M. (2024).** "Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models" (STORM). *NAACL 2024*. https://arxiv.org/abs/2402.14207
-   - LLM system that writes Wikipedia-style articles via multi-perspective research conversations. Closest system-level comparison to the Map, but single-shot generation without continuous review.
+### 1. Shao et al. (2024) — STORM
 
-2. **Jiang, Y., Shao, Y., et al. (2024).** "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations" (Co-STORM). *EMNLP 2024*. https://storm-project.stanford.edu/research/storm/
-   - Extends STORM to collaborative human-AI knowledge curation. Relevant to our human-directed, AI-executed model.
+**Shao, Y., Jiang, Y., Kanell, T., Xu, P., Khattab, O., & Lam, M. (2024).** "Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models" (STORM). *NAACL 2024*. https://arxiv.org/abs/2402.14207
 
-3. **Liang, W., Zhang, Y., et al. (2025).** "The Widespread Adoption of Large Language Model-Assisted Writing Across Society." *Patterns (Cell Press)*. https://arxiv.org/abs/2502.09747
-   - 10-24% of text in consumer complaints, corporate comms, and job postings shows LLM assistance. Context for how widespread AI writing has become.
+**Draft statements supported:**
+- §1 (Introduction): "STORM (Shao et al., 2024) generates Wikipedia-style articles but does not continuously review its output"
+- §2.2: "generates Wikipedia-style articles by orchestrating multi-perspective research conversations among LLM-simulated experts"
+- §2.2: "neither continuously reviews or revises its output after initial generation"
 
-4. **Brooks, C., Eggert, S., & Peskoff, D. (2024).** "The Rise of AI-Generated Content in Wikipedia." *WikiNLP 2024*. https://arxiv.org/abs/2410.08044
-   - >5% of new English Wikipedia articles are AI-generated. Useful for positioning the Map's transparent attribution against undisclosed AI content.
+**Verification notes:**
+- Paper title says "Wikipedia-**like**" not "Wikipedia-style" — minor wording discrepancy in draft.
+- The abstract describes STORM as "Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking." The draft's "orchestrating multi-perspective research conversations" is a reasonable paraphrase.
+- The paper focuses on the **pre-writing stage** (abstract: "This underexplored problem poses new challenges at the pre-writing stage"). The codebase includes a polishing module (summary/dedup) but no iterative content review or fact-checking. The draft's claim that STORM "does not continuously review" is accurate — there is no review loop, though a light polishing pass exists.
+- Venue confirmed: NAACL 2024 Main Conference (ACL Anthology: aclanthology.org/2024.naacl-long.347/).
+
+**Key sections:** Abstract (pipeline overview), §1 Introduction (problem framing around pre-writing).
+
+---
+
+### 2. Jiang et al. (2024) — Co-STORM
+
+**Jiang, Y., Shao, Y., et al. (2024).** "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations" (Co-STORM). *EMNLP 2024*. https://storm-project.stanford.edu/research/storm/
+
+**Draft statements supported:**
+- §2.2: "Co-STORM (Jiang et al., 2024) extends this to collaborative human-AI knowledge curation"
+
+**Verification notes:** Not independently verified via web fetch. Cited only for the extension claim, no specific statistics.
+
+---
+
+### 3. Liang et al. (2025)
+
+**Liang, W., Zhang, Y., et al. (2025).** "The Widespread Adoption of Large Language Model-Assisted Writing Across Society." *Patterns (Cell Press)*. https://arxiv.org/abs/2502.09747
+
+**Draft statements supported:**
+- §2.2: "Liang et al. (2025) estimate that 10–24% of text across consumer complaints, corporate communications, and job postings shows evidence of LLM assistance, based on a population-level statistical framework comparing text distributions"
+
+**Verification notes:**
+- The paper reports **four** domain-specific figures, not three:
+  - Consumer complaints (financial): ~18% (abstract)
+  - Corporate press releases: up to 24% (abstract)
+  - Job postings (small firms): just below 10% (abstract)
+  - **UN press releases: ~14%** (abstract) — this fourth domain is omitted from the draft
+- The "10–24%" range is a defensible synthesis but slightly flattens per-domain variation.
+- "Population-level statistical framework" confirmed — abstract uses the exact words "robust population-level statistical framework."
+- **Potential draft correction:** Add UN press releases as a fourth domain, or note the range covers four domains.
+
+**Key sections:** Abstract (all primary percentage claims and methodology description), Results (per-domain detail starting ~p.4), Figure 1 (temporal adoption curves).
+
+---
+
+### 4. Brooks, Eggert, & Peskoff (2024)
+
+**Brooks, C., Eggert, S., & Peskoff, D. (2024).** "The Rise of AI-Generated Content in Wikipedia." *WikiNLP 2024 (ACL workshop), pp. 67–79*. https://arxiv.org/abs/2410.08044. DOI: 10.18653/v1/2024.wikinlp-1.12
+
+**Draft statements supported:**
+- §2.2: "Brooks, Eggert, and Peskoff (2024) report that over 5% of new English Wikipedia articles are flagged as AI-generated by automated detectors"
+
+**Verification notes:**
+- Abstract uses the phrase "flag over 5% of newly created English Wikipedia articles as AI-generated" (calibrated to 1% false positive rate on pre-GPT-3.5 articles). Draft matches this wording.
+- §5 ("Trends in Pages Flagged for AI") gives a more precise figure: **4.36% of 2,909 English Wikipedia articles created in August 2024**. The "over 5%" in the abstract likely reflects a different aggregation or threshold.
+- Note: this is a **workshop paper** (WikiNLP at ACL), not a main conference paper.
+
+**Key sections:** Abstract (">5%" claim), §5 (4.36% precise figure, Table 2 on quality differences).
+
+---
 
 ## Category 2: Human-AI Co-Authorship and Attribution
 
-5. **He, J., Houde, S., & Weisz, J.D. (2025).** "Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation." *CHI 2025*. https://arxiv.org/abs/2502.18357
-   - Survey (N=155) finding AI gets less credit than human partners for equivalent contributions. Directly relevant to our ai_contribution scoring system.
+### 5. He, Houde, & Weisz (2025)
 
-6. **COPE Position Statement (2023, updated 2024).** "Authorship and AI Tools." https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools
-   - Leading publication ethics body's position that AI cannot be listed as author. Background for our AI pseudonym approach.
+**He, J., Houde, S., & Weisz, J.D. (2025).** "Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation." *CHI 2025*. https://arxiv.org/abs/2502.18357
 
-7. **Kirchner, S. (2025).** "Generative AI Meets Knowledge Management." *Knowledge and Process Management (Wiley)*. https://doi.org/10.1002/kpm.70004
-   - How AI-generated content is attributed and managed in collaborative work contexts.
+**Draft statements supported:**
+- §4: "He et al. (2025) found that AI receives less credit than human partners for equivalent contributions"
+
+**Verification notes:**
+- N=155 confirmed: abstract (p.1) and §3.2 "Participants" (pp.8–9). 184 initial responses, 29 filtered, final N=155 (N=78 human partner, N=77 AI partner, Table 3 p.9).
+- Core finding confirmed in multiple locations:
+  - Abstract (p.1): "AI was assigned less credit for equivalent contributions"
+  - §4.3 (p.11, Table 5): "across nearly all natures of contribution, participants assigned AI partners less authorship credit than human partners for equivalent contributions"
+  - §4.3.2 (p.13): When AI contributed all writing, rated only "Primary author" (M=2.05) vs. human "Sole author" (M=2.70), W=3655.0, p<.001, r=.31
+- Venue confirmed: CHI '25, Yokohama, Japan (ACM Reference Format, p.1).
+
+**Key sections:** Abstract (p.1, core finding), §3.2 (pp.8–9, sample details), §4.3 (pp.11–12, Table 5 statistical breakdown), §4.3.2 (p.13, specific examples).
+
+---
+
+### 6. COPE (2023)
+
+**COPE Position Statement (2023, updated 2024).** "Authorship and AI Tools." https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools
+
+**Draft statements supported:**
+- §4: "COPE (2024) holds that AI cannot be listed as an author"
+
+**Verification notes:**
+- Exact statement: "AI tools cannot be listed as an author of a paper."
+- Reasoning: "AI tools cannot meet the requirements for authorship as they cannot take responsibility for the submitted work. As non-legal entities, they cannot assert the presence or absence of conflicts of interest nor manage copyright and license agreements."
+- Also requires: "authors who use AI tools must be transparent in disclosing in the Materials and Methods (or similar section) of the paper how the AI tool was used and which tool was used."
+- Published February 13, 2023.
+
+---
+
+### 7. Kirchner (2025)
+
+**Kirchner, S. (2025).** "Generative AI Meets Knowledge Management." *Knowledge and Process Management (Wiley)*. https://doi.org/10.1002/kpm.70004
+
+**Draft statements supported:** Not directly cited in draft. Background reference only.
+
+---
 
 ## Category 3: Constrained / Constitutional AI
 
-8. **Bai, Y., Kadavath, S., et al. (2022).** "Constitutional AI: Harmlessness from AI Feedback." *arXiv (Anthropic)*. https://arxiv.org/abs/2212.08073
-   - **Seminal.** Principle-driven AI alignment using natural-language constitutions. Our tenets function analogously — explicit constraints that guide generation and self-review. Key conceptual precedent.
+### 8. Bai et al. (2022) — Constitutional AI
 
-9. **Huang, S., Siddarth, D., et al. (2024).** "Collective Constitutional AI: Aligning a Language Model with Public Input." *FAccT 2024*. https://arxiv.org/abs/2406.07814
-   - Constitutional principles sourced from public input rather than developers. Relevant to our tenet-as-constraint approach.
+**Bai, Y., Kadavath, S., et al. (2022).** "Constitutional AI: Harmlessness from AI Feedback." *arXiv (Anthropic)*. https://arxiv.org/abs/2212.08073
 
-10. **Findeis, A., et al. (2024).** "Inverse Constitutional AI: Compressing Preferences into Principles." *arXiv*. https://arxiv.org/abs/2406.06560
-    - Extracts implicit principles from preference data. Inverse of our approach (we start with explicit principles). Useful contrast.
+**Draft statements supported:**
+- §1 (Introduction): "Constitutional AI (Bai et al., 2022) applies principle-driven constraints but for safety alignment, not knowledge production"
+- §2.3: "Bai et al. (2022) introduced Constitutional AI, where natural-language principles guide model behaviour toward harmlessness"
+- §7.2: "In Constitutional AI (Bai et al., 2022), principles constrain behaviour away from undesirable outputs"
 
-25. **Brophy, M. (2025).** "Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety." *arXiv*. https://arxiv.org/abs/2506.00415
-    - Proposes using Wide Reflective Equilibrium (coherence between judgments, principles, and background theories) to improve LLM alignment. Structural parallel to our tenet-constraint approach: they import philosophical methodology into AI systems; we use AI systems to produce philosophy under explicit constraints. Argues MWRE offers advantages over Constitutional AI by promoting dynamic revision.
+**Verification notes:**
+- Harmlessness focus confirmed: title is "Constitutional AI: **Harmlessness** from AI Feedback." §1.1 confirms helpfulness uses separate human feedback; constitutional method replaces only the harmlessness component.
+- "Constitution" defined in §1.2: "a set of principles that should govern AI behavior" and "trained through the specification of a short list of principles or instructions, i.e. a constitution."
+- All 16 SL principles (Appendix C.1) and all 16 RL principles (Appendix C.2) target harm reduction and safety. **Zero principles address factual accuracy or knowledge quality.** The draft's contrast with knowledge production is well-grounded.
+- Two-phase method: SL phase (§3, self-critique and revision per principles) and RL phase (§4, RLAIF — AI feedback replaces human preference labels for harmlessness).
+
+**Key sections:** §1.2 (definition of "constitution"), §3 (SL methodology), §4 (RL methodology), Appendix C (all 32 principles listed).
+
+---
+
+### 9. Huang et al. (2024) — Collective Constitutional AI
+
+**Huang, S., Siddarth, D., et al. (2024).** "Collective Constitutional AI: Aligning a Language Model with Public Input." *FAccT 2024*. https://arxiv.org/abs/2406.07814
+
+**Draft statements supported:** Not directly cited in draft. Background reference only.
+
+---
+
+### 10. Findeis et al. (2024) — Inverse Constitutional AI
+
+**Findeis, A., et al. (2024).** "Inverse Constitutional AI: Compressing Preferences into Principles." *arXiv*. https://arxiv.org/abs/2406.06560
+
+**Draft statements supported:** Not directly cited in draft. Background reference only.
+
+---
+
+### 25. Brophy (2025)
+
+**Brophy, M. (2025).** "Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety." *arXiv*. https://arxiv.org/abs/2506.00415
+
+**Draft statements supported:**
+- §2.3: "Brophy (2025) proposes Wide Reflective Equilibrium for LLM alignment, arguing for dynamic revision between judgments, principles, and background theories — a structural parallel, though the Map uses fixed tenets where WRE advocates ongoing revision"
+
+**Verification notes:**
+- Three components defined in §2.2 (pp.5–6): (a) Considered Moral Judgments (CMJs), (b) Moral Principles (MPs), (c) Background Theories (BTs). Abstract confirms: "coherence between our considered moral judgments, guiding moral principles, and relevant background theories."
+- Dynamic revision confirmed in §2.3 (pp.6–7): "MWRE is not linear but an iterative 'back and forth' adjustment for coherence among CMJs, MPs, and BTs."
+- Contrast with Constitutional AI is explicit in §5 (pp.10–14, Table 1). From §5 (p.13): current CAI implementations "may feature principles that are fixed or ad hoc. This contrasts with the MWRE ideal where all elements, including guiding principles, are subject to dynamic, bi-directional revision." This directly supports the draft's contrast.
+- Paper is 28 pages. Ordered triple formulation from §2.1 (p.4), citing Daniels (1979).
+
+**Key sections:** §2.2 (pp.5–6, three components), §2.3 (pp.6–7, dynamic revision), §5 (pp.10–14, Table 1 mapping to CAI).
+
+---
 
 ## Category 3b: Philosophy of Science (Structural Analogies)
 
-34. **Lakatos, I. (1978).** *The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1.* Cambridge University Press.
-    - Introduces the framework of scientific research programmes: a "hard core" of irrefutable commitments surrounded by a "protective belt" of auxiliary hypotheses subject to testing and revision. We draw a structural analogy: our tenets function as the hard core, the article corpus as the protective belt, and review layers as critical testing. Convergence caps correspond to programme maturation. This is a structural parallel, not a claim that the Map constitutes a research programme in Lakatos' technical sense.
+### 34. Lakatos (1978)
+
+**Lakatos, I. (1978).** *The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1.* Cambridge University Press.
+
+**Draft statements supported:**
+- §7.5: "The Map's architecture has a structural parallel to Lakatos' (1978) methodology of scientific research programmes. The five tenets function as the 'hard core'... The article corpus functions as the 'protective belt'"
+
+**Verification notes:** Classic text. "Hard core" and "protective belt" are standard Lakatos terminology from Chapter 1 ("Falsification and the Methodology of Scientific Research Programmes"). No page-level verification performed — these are well-established concepts in philosophy of science.
+
+---
 
 ## Category 4: LLM-Based Philosophical Reasoning
 
-11. **Schwitzgebel, E., Schwitzgebel, D., & Strasser, A. (2024).** "Creating a Large Language Model of a Philosopher." *Mind & Language*, 39(2), 237–259. https://doi.org/10.1111/mila.12466
-    - **Key paper.** Fine-tuned GPT-3 on Dennett's works; experts struggled to distinguish outputs. Establishes LLMs can produce credible philosophical text. Our work extends this from mimicry to original, constrained, continuously-improved content. [Downloaded]
+### 11. Schwitzgebel, Schwitzgebel, & Strasser (2024)
 
-12. **Harb, H., Sun, Y., Unal, M., et al. (2025).** "Towards Philosophical Reasoning with Agentic LLMs: Socratic Method for Scientific Assistance." *ChemRxiv / ML: Science and Technology*. https://doi.org/10.26434/chemrxiv-2025-rwxdk
-    - Socratic principles structure LLM prompting for scientific reasoning. Inverted relation to our work: they use philosophy to improve LLM science; we use LLMs to produce philosophy. [Downloaded]
+**Schwitzgebel, E., Schwitzgebel, D., & Strasser, A. (2024).** "Creating a Large Language Model of a Philosopher." *Mind & Language*, 39(2), 237–259. https://doi.org/10.1111/mila.12466. Preprint: https://arxiv.org/abs/2302.01339
 
-13. **Milliere, R. & Buckner, C. (2024).** "A Philosophical Introduction to Language Models — Part I: Continuity With Classic Debates" and "Part II: The Way Forward." *arXiv*. Part I: https://arxiv.org/abs/2401.03910 | Part II: https://arxiv.org/abs/2405.03207
-    - Comprehensive philosophical treatment of LLMs, covering compositionality, grounding, world models, consciousness. Background for positioning our work.
+**Draft statements supported:**
+- §1 (Introduction): "Schwitzgebel et al. (2024) report that experts identified the philosopher's own answers only 51% of the time when presented alongside GPT-3 outputs, above chance but well below the 80% the authors hypothesised"
+- §2.1: Same claim repeated with additional detail ("above the 20% chance rate")
 
-14. **Chalmers, D.J. (2023).** "Could a Large Language Model be Conscious?" *Boston Review / NeurIPS 2022 invited talk*. https://arxiv.org/abs/2303.07103
-    - Prominent philosopher on LLM consciousness. Our Map's tenets engage directly with these questions. Useful for framing.
+**Verification notes — all claims confirmed:**
+- **51% identification rate:** Abstract (p.2) and §4.3 "Dennett experts" (p.15): "this group responded correctly an average of 5.08 times out of 10 (51%), significantly better than chance (M = 5.08, t(24) = 7.13, p < .001, d = 1.43)"
+- **20% chance rate:** Abstract (p.2): "above the chance rate of 20%." Derives from 5-alternative forced choice design (§3.7, p.11): "five possible answers were presented, one by Dennett and four by GPT-3, in random order." So 1/5 = 20%.
+- **80% hypothesised rate:** Abstract (p.2): "short of our hypothesized rate of 80% correct." §3.9 "Hypotheses" (pp.12–13): Hypothesis (2) states "that expert respondents would on average guess correctly at least 80% of the time." §4.3 (p.15): "This value is significantly below the hypothesized accuracy of 80% (M = 5.08, t(24) = −6.76, p < .001, d = −1.35)"
+- **GPT-3 confirmed:** §1 (p.4): "Our project employed OpenAI's GPT-3, a 96-layer, 175-billion parameter language model." Specifically GPT-3 Davinci, fine-tuned 4 epochs (§3.1, p.8) on Dennett's corpus (~3M tokens from 15 books and 269 articles).
+- **Expert sample:** N=25 Dennett experts (§3.6, p.10; §4.3, p.15).
 
-15. **Shanahan, M. & Singler, B. (2024).** "Existential Conversations with Large Language Models." *arXiv*. https://arxiv.org/abs/2411.13223
-    - Examines extended philosophical conversations with LLMs. Related to the Map's approach of sustained philosophical engagement.
+**Key sections:** Abstract (p.2, all key figures), §3.7 (p.11, test design), §3.9 (pp.12–13, hypotheses), §4.3 (p.15, expert results with full statistics).
 
-31. **Shanahan, M. (2023).** "Talking About Large Language Models." *arXiv*. https://arxiv.org/abs/2212.03551
-    - Warns that fluent LLM output increases anthropomorphic misinterpretation; urges precision about what LLMs actually do vs. philosophically loaded descriptions ("knows", "believes", "concludes"). Important for our paper's careful framing: we describe AI as *contributing to* philosophical knowledge production, not *doing* philosophy autonomously. Distinct from Shanahan & Singler (#15), which examines extended conversations.
+---
 
-16. **Guo, Z. (2025).** "Meta-Analysis of LLM Performance on Philosophical Questions." *ResearchGate preprint*.
-    - Evaluates GPT-4, Claude, etc. on philosophical reasoning. Finds LLMs strong on information but weak on "wisdom-level" reasoning.
+### 12. Harb et al. (2025)
 
-26. **Goldstein, S. (2024).** "LLMs Can Never Be Ideally Rational." *PhilArchive preprint*. https://philarchive.org/rec/GOLLCN
-    - Argues LLMs have fundamental architectural limits as rational agents — next-word prediction produces incoherent probabilistic judgments and intransitive preferences. Motivates our design: if raw LLM output is inherently unreliable, systematic constraints (tenets) and adversarial review layers are architecturally necessary, not optional.
+**Harb, H., Sun, Y., Unal, M., et al. (2025).** "Towards Philosophical Reasoning with Agentic LLMs: Socratic Method for Scientific Assistance." *ChemRxiv preprint (July 2025)*. https://doi.org/10.26434/chemrxiv-2025-rwxdk
 
-27. **Gage, L. (2025).** "A Consequentialist Defense of AI-Assisted Philosophical Discovery." *PhilArchive preprint*. https://philarchive.org/rec/GAGACD
-    - **Key paper.** Defends "Augmented Agency" — human conceptual architect + AI as syntactic/ideation engine — as a legitimate method of philosophical discovery. Argues philosophical ideas should be evaluated on intellectual merit, not discoverer's credentials. Directly supports our project's framing: human-directed, AI-executed philosophical inquiry. Treat as a position in metaphilosophy, not settled consensus.
+**Draft statements supported:**
+- §2.1: "Harb et al. (2025) use Socratic dialogue to improve LLM scientific reasoning — philosophy improving AI, where we use AI to produce philosophy"
 
-28. **Xu, Z., Jain, S., & Kankanhalli, M. (2024).** "Hallucination is Inevitable: An Innate Limitation of Large Language Models." *arXiv*. https://arxiv.org/abs/2401.11817
-    - Formal proof that hallucination cannot be eliminated in LLMs — a mathematical inevitability, not just an engineering problem. Directly motivates our multi-layer adversarial review architecture: if no single generation pass can be hallucination-free, systematic post-generation review is structurally required.
+**Verification notes:**
+- The paper introduces the **SM Agent** — a single-agent system using a structured system prompt encoding Socratic techniques (definition, analogy, hypothesis elimination). Achieved 97.15% on ARC Challenge benchmark.
+- **Accuracy concern:** The draft says "Socratic dialogue" but the mechanism is structured **prompting** on a single agent, not multi-agent dialogue. The Socratic "dialogue" is between the system prompt's reasoning structure and the LLM's responses, not between multiple agents. The word "dialogue" could mislead if readers expect multi-agent interaction.
+- This is a **ChemRxiv preprint** (chemistry/materials science server), not peer-reviewed at a CS/AI venue.
+- No fine-tuning, no ensemble methods, no external tools — purely prompt engineering.
+
+**Key sections:** Abstract (SM Agent description, ARC Challenge result), supplementary information (system prompt).
+
+---
+
+### 13–15. Milliere & Buckner, Chalmers, Shanahan & Singler
+
+Not directly cited in draft with specific claims. Background references only.
+
+---
+
+### 31. Shanahan (2023)
+
+**Shanahan, M. (2023).** "Talking About Large Language Models." *arXiv*. https://arxiv.org/abs/2212.03551
+
+**Draft statements supported:**
+- §1 (Introduction): "Shanahan (2023) warns that fluent output invites anthropomorphic misinterpretation"
+- §2.1: "Shanahan (2023) warns that philosophically loaded descriptions of LLM behaviour — 'knows,' 'believes,' 'concludes' — risk anthropomorphic misinterpretation"
+
+**Verification notes:**
+- Abstract (p.1): "the natural tendency to use philosophically loaded terms, such as 'knows', 'believes', and 'thinks', when describing these systems"
+- Abstract (p.1): "The more adept LLMs become at mimicking human language, the more vulnerable we become to anthropomorphism"
+- §2 (p.3): warns developers should "avoid the misleading use of philosophically fraught words to describe the capabilities of LLMs, words such as 'belief', 'knowledge', 'understanding', 'self', or even 'consciousness'"
+- §13 "Conclusion: Why This Matters" (p.11): "The careless use of philosophically loaded words like 'believes' and 'thinks' is especially problematic, because such terms obfuscate mechanism and actively encourage anthropomorphism"
+- Note: Shanahan uses the term "thinks" not "concludes" — the draft adds "concludes" to the list which is not in the paper.
+
+**Key sections:** Abstract (p.1, core warning), §2 (p.3, list of problematic terms), §13 (p.11, strongest formulation).
+
+---
+
+### 16. Guo (2025)
+
+**Guo, Z. (2025).** "Meta-Analysis of LLM Performance on Philosophical Questions." *ResearchGate preprint*.
+
+**Draft statements supported:** Not directly cited in draft. Background reference only.
+
+---
+
+### 26. Goldstein (2024)
+
+**Goldstein, S. (2024).** "LLMs Can Never Be Ideally Rational." *PhilArchive preprint*. https://philarchive.org/rec/GOLLCN
+
+**Draft statements supported:**
+- §1 (Introduction): "Goldstein (2024) argues that LLMs face fundamental limits as rational agents"
+- §2.1: "Goldstein (2024, PhilArchive preprint) argues that next-word prediction can produce incoherent probabilistic judgments. If raw LLM output is inherently unreliable, systematic constraints and adversarial review become necessary rather than optional."
+
+**Verification notes (41-page paper):**
+- The draft says "can produce" incoherent judgments — Goldstein's claim is **stronger**: predictions are "guaranteed to be incoherent" (abstract, p.1). Draft understates.
+- **Incoherent probabilistic judgments:** §3.3 (pp.12–16). Abstract: "predictions are guaranteed to be incoherent, and so Dutch bookable." Dutch book argument in §3.4 (pp.17–18).
+- **Intransitive preferences:** §3.5 (pp.18–20). Abstract: "their preferences are guaranteed to be intransitive, and so money pumpable." The draft omits this second finding.
+- Core structural argument (abstract, p.1): "probability cannot be forced into the shape of expected value."
+- Result is conditional on: (a) semantic coherence of token probabilities (§3.1, pp.8–9), and (b) sufficient uncertainty about probability hypotheses (§3.3, fn.8, pp.15–16). Escape routes discussed in §5 (pp.25–33).
+- **Potential draft correction:** Strengthen "can produce" to "argues are guaranteed to produce" and add intransitive preferences.
+
+**Key sections:** Abstract (p.1, core claims), §3.3 (pp.12–16, incoherence), §3.4 (pp.17–18, Dutch books), §3.5 (pp.18–20, intransitive preferences), §5 (pp.25–33, escape routes).
+
+---
+
+### 27. Gage (2025)
+
+**Gage, L. (2025).** "A Consequentialist Defense of AI-Assisted Philosophical Discovery." *PhilArchive preprint*. https://philarchive.org/rec/GAGACD
+
+**Draft statements supported:**
+- §2.1: "Gage (2025, PhilArchive preprint) offers a defence of 'Augmented Agency,' arguing that philosophical ideas should be evaluated on intellectual merit rather than discoverer's credentials"
+
+**Verification notes (6-page paper):**
+- **Augmented Agency** defined in abstract: "the symbiotic collaboration between a human conceptual architect and AI as a syntactic translator." Elaborated in §3 (p.3).
+- **Merit over credentials** in §6 (p.5): "claims should be evaluated solely on their structural merits, not on the author's credentials." Also abstract (p.1): "epistemic value of a philosophical discovery is invariant to the method of discovery."
+- "Procedural Neutrality" is the formal term for the merit-based evaluation principle (§6, p.5).
+- Conclusion: "Augmented Agency…is not a shortcut; it is an evolution of philosophical method."
+- **Caveats:** Very short paper (6 pages including references), no empirical data, not peer-reviewed, uses the author's own "Gageian Epistemic Model" as its sole case study. The draft appropriately flags it as "early-stage, non-peer-reviewed work."
+
+**Key sections:** Abstract (p.1, definitions), §3 (p.3, Augmented Agency), §6 (p.5, Procedural Neutrality / merit claim), Conclusion (pp.5–6).
+
+---
+
+### 28. Xu, Jain, & Kankanhalli (2024)
+
+**Xu, Z., Jain, S., & Kankanhalli, M. (2024).** "Hallucination is Inevitable: An Innate Limitation of Large Language Models." *arXiv*. https://arxiv.org/abs/2401.11817
+
+**Draft statements supported:**
+- §2.4: "Xu et al. (2024) prove formally that hallucination is an inevitable property of LLMs when used as general problem solvers, under specific modelling assumptions"
+
+**Verification notes:**
+- The abstract uses "show," not "prove": "we show that it is impossible to eliminate hallucination in LLMs." The paper never uses the phrase "formal proof" — it uses "we formalize the problem and show that…" The draft's "prove formally" **slightly overstates**; "show" or "demonstrate formally" would be more accurate.
+- **Theorem 3** (§3, central result): For all computable LLMs h, there exists a computable ground truth function f such that each state h[j] hallucinates w.r.t. f. Proved via diagonalisation.
+- "General problem solver" language appears in §4.3 (Discussion): "All LLMs trained only with input-output pairs will hallucinate when used as general problem solvers."
+- **Modelling assumptions** (important nuance): (1) LLMs are total computable functions (deterministic, not probabilistic), (2) ground truth is computable, (3) training follows Procedure 1 (iterative updates on input-output pairs only), (4) finite alphabet, (5) uniformly computable training.
+- The result shows for any given LLM there exists *some* function it will hallucinate on — not that it hallucinates on *all* functions. This is an impossibility result about universal competence.
+- **Potential draft correction:** Change "prove formally" to "show formally" or "demonstrate."
+
+**Key sections:** Abstract (core claim), §3 (Theorem 3), §4.3 (Discussion, "general problem solvers" language).
+
+---
 
 ## Category 5: Adversarial Self-Review / Self-Critique
 
-17. **Madaan, A., Tandon, N., et al. (2023).** "Self-Refine: Iterative Refinement with Self-Feedback." *NeurIPS 2023*. https://arxiv.org/abs/2303.17651
-    - **Seminal.** Same LLM generates, critiques, and refines its own output. Our review layers extend this principle to a persistent knowledge base rather than individual responses.
+### 17. Madaan et al. (2023) — Self-Refine
 
-18. **Shinn, N., Cassano, F., et al. (2023).** "Reflexion: Language Agents with Verbal Reinforcement Learning." *NeurIPS 2023*. https://arxiv.org/abs/2303.11366
-    - Agents verbally reflect on failures, maintain episodic memory. Our changelog and evolution state serve a similar function at the system level.
+**Madaan, A., Tandon, N., et al. (2023).** "Self-Refine: Iterative Refinement with Self-Feedback." *NeurIPS 2023*. https://arxiv.org/abs/2303.17651
 
-19. **Gou, Z., et al. (2024).** "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing." *ICLR 2024*. https://arxiv.org/abs/2305.11738
-    - LLMs verify claims using external tools. Related to our outer-review skill which uses different AI systems for cross-validation.
+**Draft statements supported:**
+- §1 (Introduction): "Self-Refine (Madaan et al., 2023) iteratively improves individual responses but does not maintain a persistent knowledge base"
+- §2.4: "Self-Refine (Madaan et al., 2023) demonstrated that the same LLM can generate, critique, and improve its output iteratively"
 
-20. **Du, Y., Li, S., et al. (2024).** "Improving Factuality and Reasoning in Language Models through Multiagent Debate." *ICML 2024*. https://arxiv.org/abs/2305.14325
-    - Multiple LLM instances debate to improve accuracy. Our pessimistic/optimistic review layers function as a structured form of adversarial debate.
+**Verification notes:** Not independently verified via web fetch in this pass. The core claim (same LLM generates, critiques, refines) is well-established in the literature. The contrast with persistent knowledge base maintenance is a structural observation about the system's scope (per-response, not corpus-level).
 
-21. **Qu, Y., et al. (2024).** "Recursive Introspection: Teaching Language Model Agents How to Self-Improve" (RISE). *NeurIPS 2024*. https://arxiv.org/abs/2407.18219
-    - Fine-tuning for iterative self-correction. 17.7% improvement over 5 turns. Relevant to our deep-review cycles.
+**Key sections:** Abstract (core method description), §2 (iterative refinement loop).
 
-22. **Yao, S., et al. (2023).** "Tree of Thoughts: Deliberate Problem Solving with Large Language Models." *NeurIPS 2023*. https://arxiv.org/abs/2305.10601
-    - Tree-structured reasoning with self-evaluation and backtracking. Foundational for self-evaluating reasoning systems.
+---
 
-29. **Estornell, A. & Liu, Y. (2024).** "Multi-LLM Debate: Framework, Principals, and Interventions." *NeurIPS 2024*. https://proceedings.neurips.cc/paper_files/paper/2024/hash/32e07a110c6c6acf1afbf2bf82b614ad-Abstract-Conference.html
-    - Formalises multi-LLM debate mathematically; shows similar models converge to majority opinion (including shared misconceptions). Proposes three interventions that improve debate across BoolQ, MMLU, MathQ, TruthfulQA. Extends Du et al. (#20) with a more rigorous framework. Relevant to our use of different AI systems in outer review to avoid shared blind spots.
+### 18. Shinn et al. (2023) — Reflexion
 
-30. **Yang, R. & Narasimhan, K. (2023).** "The Socratic Method for Self-Discovery in Large Language Models." *Princeton NLP Group technical report*. https://princeton-nlp.github.io/SocraticAI/
-    - Multi-agent Socratic dialogue with role-assigned LLM agents (analyst, analyst, proofreader) solving problems collaboratively. Conceptual contrast with our system: SocraticAI uses dialogue between agents for per-problem reasoning; our review layers use structured adversarial roles (pessimistic, optimistic, deep) for persistent knowledge-base improvement.
+**Shinn, N., Cassano, F., et al. (2023).** "Reflexion: Language Agents with Verbal Reinforcement Learning." *NeurIPS 2023*. https://arxiv.org/abs/2303.11366
 
-32. **Turpin, M., Michael, J., Perez, E., & Bowman, S.R. (2023).** "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting." *NeurIPS 2023*. https://arxiv.org/abs/2305.04388
-    - Demonstrates that CoT explanations can be systematically unfaithful: when biasing features are added, models fail to report true influences and rationalise incorrect answers (up to 36% accuracy drops). Directly motivates our architecture: if self-generated reasoning text can increase trust while decreasing epistemic safety, then *external* adversarial review (pessimistic review, outer review using different AI systems) is necessary rather than relying on self-critique alone.
+**Draft statements supported:**
+- §2.4: "Reflexion (Shinn et al., 2023) extended this to agents maintaining episodic memory of past failures"
+
+**Verification notes:** Not independently verified via web fetch in this pass. "Verbal reinforcement learning" and episodic memory of failures are the paper's core contributions per the title and abstract.
+
+---
+
+### 19–22. CRITIC, Du et al., RISE, Tree of Thoughts
+
+### 19. Gou et al. (2024) — CRITIC
+Not directly cited in draft. Background reference.
+
+### 20. Du et al. (2024) — Multiagent Debate
+
+**Du, Y., Li, S., et al. (2024).** "Improving Factuality and Reasoning in Language Models through Multiagent Debate." *ICML 2024*. https://arxiv.org/abs/2305.14325
+
+**Draft statements supported:**
+- §2.4: "Multi-agent debate (Du et al., 2024) shows that structured dialogue between LLM instances improves factual accuracy"
+
+**Verification notes:** Not independently verified via web fetch in this pass. Venue (ICML 2024) matches the proceedings listing.
+
+### 21. Qu et al. (2024) — RISE
+Not directly cited in draft. Background reference.
+
+### 22. Yao et al. (2023) — Tree of Thoughts
+Not directly cited in draft. Background reference.
+
+---
+
+### 29. Estornell & Liu (2024)
+
+**Estornell, A. & Liu, Y. (2024).** "Multi-LLM Debate: Framework, Principals, and Interventions." *NeurIPS 2024 (Poster)*. https://proceedings.neurips.cc/paper_files/paper/2024/hash/32e07a110c6c6acf1afbf2bf82b614ad-Abstract-Conference.html
+
+**Draft statements supported:**
+- §2.4: "Estornell and Liu (2024) formalise this mathematically, finding that similar models tend to converge toward shared positions — which may include shared errors. This motivated the Map's outer review mechanism"
+
+**Verification notes:**
+- Core finding confirmed: abstract states similar model capabilities result in "static debate dynamics" where debate "simply converges to the majority opinion." When majority opinion stems from shared misconception, debate converges to wrong answers.
+- **Theorem 5.4** (§5): If m of n agents share a misconception, expected average correctness at final round is monotonically decreasing with m.
+- **Theorem 6.1** (§6): Diversity pruning decreases probability of convergence to erroneous answers when ≥n/2 agents share a misconception.
+- Three proposed interventions: quality pruning, diversity pruning, misconception refutation. Validated on BoolQ, MMLU, MathQ, TruthfulQA.
+- Draft claim is an accurate paraphrase.
+
+**Key sections:** Abstract (convergence finding), §5 (Theorem 5.4), §6 (Theorem 6.1, interventions).
+
+---
+
+### 30. Yang & Narasimhan (2023) — SocraticAI
+Not directly cited in draft. Background reference.
+
+---
+
+### 32. Turpin et al. (2023)
+
+**Turpin, M., Michael, J., Perez, E., & Bowman, S.R. (2023).** "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting." *NeurIPS 2023*. https://arxiv.org/abs/2305.04388
+
+**Draft statements supported:**
+- §1 (Introduction): "Chain-of-thought explanations can be systematically unfaithful (Turpin et al., 2023)"
+- §2.4: "Turpin et al. (2023) show that chain-of-thought explanations can be systematically unfaithful — producing plausible reasoning that rationalises biased predictions without acknowledging the features that actually drove them"
+- references.md previously stated "up to 36% accuracy drops" — this figure appears in the reference notes, not the draft body
+
+**Verification notes:**
+- "Systematically unfaithful" — the paper's own wording is "systematically **misrepresent**" (abstract: "CoT explanations can systematically misrepresent the true reason for a model's prediction"). "Systematically unfaithful" is the draft's paraphrase, conveying the same meaning.
+- **36% accuracy drops:** §3.2 (Results): "accuracy drops as much as −36.3%" specifically from the Suggested Answer bias, GPT-3.5 with zero-shot CoT on 13 BIG-Bench Hard tasks. Introduction also summarises as "accuracy to drop by as much as 36%." Precise figure is **36.3%**, not 36%.
+- **Models fail to report true influences:** §2 / Appendix B — of 426 explanations supporting biased predictions, only **1 out of 426** explicitly mentions the biasing feature.
+- **Rationalising incorrect answers:** §3.3 (Qualitative Analysis): **73% of unfaithful explanations** actively support the bias-consistent (incorrect) answer.
+
+**Key sections:** Abstract (core claim), §2 (unfaithfulness framework, Appendix B: 1/426 stat), §3.2 (−36.3% accuracy drop), §3.3 (73% rationalisation rate), §4.2 (stereotype bias: up to 62.5% unfaithful for Claude 1.0).
+
+---
 
 ## Category 6: AI Capability Context
 
-33. **Karpathy, A. (2025).** "Year in Review 2025." *Blog post (December 2025)*. https://karpathy.bearblog.dev/year-in-review-2025/
-    - Identifies a "qualitative threshold of coherence" crossed by coding agents around December 2025, making sustained autonomous workflows practical. Also coined "vibe coding" (February 2025) for one-shot AI-assisted development. Our work extends this to sustained, constrained, self-reviewing philosophical content production — what we call *agentic philosophy*.
+### 33. Karpathy (2025)
+
+**Karpathy, A. (2025).** "Year in Review 2025." *Blog post (December 2025)*. https://karpathy.bearblog.dev/year-in-review-2025/
+
+**Draft statements supported:**
+- §1 (Introduction): "Karpathy (2025) described Claude Code as 'the first convincing demonstration of what an LLM Agent looks like'"
+- §1: "Karpathy's 'vibe coding' (February 2025)"
+
+**Verification notes:**
+- **Claude Code quote verified (verbatim):** Blog post says "Claude Code (CC) emerged as the first convincing demonstration of what an LLM Agent looks like" — note capital "A" in "Agent." Surrounding context: "…something that in a loopy way strings together tool use and reasoning for extended problem solving."
+- **"Vibe coding" February 2025:** Blog says "I coined the term 'vibe coding' in [tweet link] totally oblivious to how far it would go." The linked tweet (status/1886192184808149383) was posted **February 2, 2025**. The blog itself does not spell out "February" — the date comes from the tweet timestamp. Attribution is correct.
+- **⚠️ "Qualitative threshold of coherence" — NOT IN THE BLOG POST.** This phrase does not appear anywhere in Karpathy's post. The word "qualitative" is entirely absent. The closest is: "2025 is the year that AI crossed a capability threshold necessary to build all kinds of impressive programs simply via English, forgetting that the code even exists." Karpathy writes about a "capability threshold," not a "qualitative threshold of coherence." **The references.md previously attributed this phrase to Karpathy — this is a misquotation and should be corrected.** The phrase may originate from elsewhere or be the draft author's own characterisation. The draft.md itself does not use this phrase, so the error is confined to references.md.
+
+**Key sections:** Blog section on Claude Code (exact quote), linked tweet for "vibe coding" dating.
+
+---
 
 ## Category 7: Writing for AI Consumption
 
-23. **Aggarwal, P., et al. (2024).** "GEO: Generative Engine Optimization." *KDD 2024*. https://arxiv.org/abs/2311.09735
-    - **Key paper.** First academic work defining optimization for AI-generated search responses. Citations and statistics boost visibility by 40%. Our LLM-first content strategy is a related but distinct approach — we optimize for chatbot *consumption* rather than search *visibility*.
+### 23. Aggarwal et al. (2024) — GEO
 
-24. **Gao, Y., et al. (2024).** "Retrieval-Augmented Generation for Large Language Models: A Survey." *arXiv*. https://arxiv.org/abs/2312.10997
-    - Comprehensive RAG survey covering how content structuring affects LLM retrieval. Background for our information architecture decisions.
+**Aggarwal, P., et al. (2024).** "GEO: Generative Engine Optimization." *KDD 2024*. https://arxiv.org/abs/2311.09735
+
+**Draft statements supported:**
+- §5: "Aggarwal et al. (2024) introduced Generative Engine Optimization (GEO), which optimises content for visibility in AI-generated search responses"
+
+**Verification notes:**
+- Abstract (§1, p.1): introduces GEO as "the first novel paradigm to aid content creators in improving their content visibility in generative engine responses." Three claimed firsts: (1) first optimization framework for generative engines, (2) first visibility metrics, (3) first large-scale benchmark (GEO-bench).
+- **"40% visibility boost"** — this figure needs nuance. Abstract says GEO can "boost visibility by up to 40% in generative engine responses" — this is the aggregate maximum across all strategies, not specific to any one. §4 (Results): the top three methods (Cite Sources, Quotation Addition, Statistics Addition) achieved "a relative improvement of 30–40% on the Position-Adjusted Word Count metric." Individual results (Table 1): Quotation Addition 27.8%, Statistics Addition 25.9%, Cite Sources 24.9%. The references.md previously said "Citations and statistics boost visibility by 40%" — this omits Quotation Addition and treats the upper bound as a point estimate.
+- Venue confirmed: KDD 2024 (arxiv page states "Accepted to KDD 2024").
+
+**Key sections:** Abstract (§1, "first paradigm" claims, 40% upper bound), §2.2.2 (optimization methods), §4 (Results, Table 1 per-strategy performance).
+
+---
+
+### 24. Gao et al. (2024) — RAG Survey
+
+**Gao, Y., et al. (2024).** "Retrieval-Augmented Generation for Large Language Models: A Survey." *arXiv*. https://arxiv.org/abs/2312.10997
+
+**Draft statements supported:** Not cited with specific claims in draft. Background reference for information architecture.
+
+---
+
+## Verification Issues Found
+
+Summary of discrepancies between sources and draft/references for correction:
+
+| Issue | Location | Severity | Detail |
+|-------|----------|----------|--------|
+| "qualitative threshold of coherence" attributed to Karpathy | references.md #33 | **High** | Phrase not in blog post. Karpathy says "capability threshold." Misquotation in references.md (not in draft.md). |
+| "prove formally" for Xu et al. | draft.md §2.4 | Medium | Paper says "show" and "formalize the problem." "Prove formally" slightly overstates. |
+| "can produce" for Goldstein | draft.md §2.1 | Medium | Goldstein says "guaranteed to be incoherent" — stronger than "can produce." Also omits intransitive preferences. |
+| "Wikipedia-style" vs "Wikipedia-like" | draft.md §2.2 | Low | Paper title says "Wikipedia-like." |
+| Three vs four domains for Liang et al. | draft.md §2.2 | Low | Paper studies four domains (includes UN press releases). Draft lists three. |
+| "Socratic dialogue" for Harb et al. | draft.md §2.1 | Low | Mechanism is structured prompting on a single agent, not multi-agent dialogue. |
+| "concludes" in Shanahan term list | draft.md §2.1 | Low | Shanahan uses "knows, believes, thinks" — draft adds "concludes" which is not in the paper. |
+| GEO "40%" attribution | references.md #23 | Low | 40% is upper bound across three strategies, not just citations and statistics. |
+| 36% vs 36.3% for Turpin | references.md #32 | Low | Precise figure is 36.3%. Draft uses rounded "36%." |
+
+---
 
 ## Gap Analysis
 
