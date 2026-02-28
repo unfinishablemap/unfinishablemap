@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-28 02:45 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Amplification Void
+- **Category**: Unexplorable / Occluded (mixed)
+- **Output**: [[research/voids-amplification-void-2026-02-28]]
+- **Key finding**: The chain from minimal quantum influence to macroscopic neural effect spans 10+ orders of magnitude across four distinct physical regimes, and its opacity may be structurally necessary — if the amplification were traceable, the interaction would be detectable, violating the minimality that defines it.
+
 ## 2026-02-28 01:46 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/functionalism]]
