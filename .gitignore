@@ -233,3 +233,6 @@ secrets.yaml
 
 # Windows device names (not real files)
 nul
+
+# Downloaded papers (copyright - do not commit)
+papers/downloads/
