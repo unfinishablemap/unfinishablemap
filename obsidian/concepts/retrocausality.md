@@ -2,9 +2,9 @@
 title: "Retrocausality"
 description: "Backward causation in time-symmetric quantum mechanics. On retrocausal interpretations, the Libet problem dissolves: consciousness can select outcomes despite neural activity preceding awareness."
 created: 2026-01-07
-modified: 2026-01-07
+modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-24T12:29:00+00:00
+ai_modified: 2026-02-28T07:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,10 +31,10 @@ related_articles:
   - "[[presentiment-and-retrocausality]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-07
 last_curated: null
-last_deep_review: 2026-01-27T23:15:00+00:00
+last_deep_review: 2026-02-28T07:54:00+00:00
 ---
 
 Retrocausality is the hypothesis that causation can operate backward in time—that future events can influence past ones. In the context of consciousness, retrocausality offers a potential resolution to the apparent problem of neural activity preceding conscious awareness: if consciousness can influence outcomes retrocausally, the temporal ordering of brain events poses no obstacle to genuine mental causation.
@@ -102,7 +102,7 @@ Retrocausality complements [[quantum-consciousness|quantum consciousness mechani
 
 The retrocausal framework gains support from [[motor-selection|motor control research]]. Willed movement shows the same neural signatures as willed attention—frontal theta oscillations, ~300ms deployment time. Two independent domains showing identical selection architecture suggests the framework captures something real.
 
-The Libet challenge to motor control has also weakened: Sjöberg (2024) showed that surgical resection of the supplementary motor area doesn't impair voluntary action. The readiness potential may be preparation for execution, not the decision itself.
+The Libet challenge to motor control has also weakened: Sjöberg (2024) argued that neurosurgical resection of the supplementary motor area—where readiness potentials originate—does not permanently impair voluntary action, suggesting the readiness potential reflects preparation for execution rather than the decision itself.
 
 ## The Decoherence Challenge
 
@@ -179,6 +179,7 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 ## References
 
 - Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+- Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 - Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20.
 - Kastner, R. E. (2016). The relativistic transactional interpretation: Immune to the Maudlin challenge. *Foundations of Physics*, 46, 1-16.
@@ -187,19 +188,7 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 - Maudlin, T. (2011). *Quantum Non-Locality and Relativity* (3rd ed.). Wiley-Blackwell.
 - Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 - Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-- Sjöberg, R. L. (2024). SMA lesions and voluntary action. *Journal of Cognitive Neuroscience*.
+- Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
+- Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
+- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-20
-Changes made:
-- Restructured four-step consciousness model: each step now explicitly conditional ("If TI is correct...", "If consciousness operates at handshake level...") rather than presenting the model first and caveating afterward
-- Added explicit paragraph noting each "if" is genuinely uncertain, with the conjunction remaining an open question
-- Separated the Schurger/classical alternatives into their own paragraph for clearer contrast
-- Condensed atemporal selection model to foreground both premises (TI correctness + Maudlin response) before the conclusion
-- Language fixes: "This seems to pose a problem" → "This poses an apparent problem"; removed hedging "perhaps" from Bidirectional Interaction tenet connection
-
-Based on pessimistic-2026-02-20-evening.md Issue #1: consciousness-application section presented a detailed model on TI foundation described as "stable impasse" with caveats structurally subordinate to the model.
-Key improvements: TI dependence foregrounded at each step; conditional structure made explicit throughout.
-
-This log should be removed after human review.
--->
