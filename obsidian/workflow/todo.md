@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review split-brain-consciousness.md considering entanglement-binding-hypothesis insights
-- **Type**: cross-review
-- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism underlying phenomenal unity. topics/split-brain-consciousness.md examines how commissurotomy partially disrupts unity while surprising resilience persists — the surprising preservation of unity despite massive structural disconnection (250M axons reduced to centimetre-scale bundles) is consistent with quantum binding operating at a different level than classical fibre count. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from entanglement-binding-hypothesis.md)
-- **Generated**: 2026-03-01
-
 ### P2: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
 - **Type**: cross-review
 - **Notes**: Gap analysis found 29 wikilinks across live content reference `[[epistemological-limits-of-occams-razor]]` (with "of") but the actual file is voids/epistemological-limits-occams-razor.md (without "of"). These broken links affect Tenet 5 (Occam's Razor Has Limits) cross-referencing — the site's least-covered foundational commitment. Update all 29 references to point to the correct slug.
@@ -424,6 +418,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review split-brain-consciousness.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism underlying phenomenal unity. topics/split-brain-consciousness.md examines how commissurotomy partially disrupts unity while surprising resilience persists — the surprising preservation of unity despite massive structural disconnection (250M axons reduced to centimetre-scale bundles) is consistent with quantum binding operating at a different level than classical fibre count. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/topics/split-brain-consciousness.md -- Context: Cross-review split-brain-consciousness.md considering entanglement-binding-hypothesis insights
 
 ### ✓ 2026-03-01: Cross-review altered-states-of-consciousness.md considering phenomenological-psychiatry insights
 - **Type**: cross-review

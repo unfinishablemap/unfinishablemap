@@ -4,13 +4,14 @@ description: "When the corpus callosum is severed, does consciousness split? Rec
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-22T08:51:00+00:00
+ai_modified: 2026-03-01T04:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
 concepts:
   - "[[binding-problem]]"
+  - "[[entanglement-binding-hypothesis]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[qualia]]"
   - "[[haecceity]]"
@@ -28,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-03T19:52:00+00:00
+last_deep_review: 2026-03-01T04:11:00+00:00
 ---
 
 When the corpus callosum is severed—cutting the 250 million nerve fibers connecting the brain's hemispheres—what happens to consciousness? Does it split into two? Remain unified? The answer, it turns out, may be neither. Split-brain cases reveal that our ordinary concept of a "single unified mind" may be inadequate to capture what consciousness actually is.
@@ -51,7 +52,7 @@ A November 2025 PNAS study from UC Santa Barbara offers surprising findings. Usi
 
 In one patient, researchers found the brain had reorganized itself in the years following surgery—networks rerouted from the front of the brain to the back, crossing over on a small ribbon of intact corpus callosum. This challenges classical models that predicted specific deficits based on which portions were severed. More strikingly, it challenges the widely held notion that tightly synchronized brain areas must be directly connected.
 
-The 2017 research from the University of Amsterdam adds another layer: split-brain patients could report having seen shapes presented to either visual field, both verbally and by pointing with either hand. A 2020 review summarizes: "perception appears to be more split, while responding remains largely unified."
+The 2017 research from the University of Amsterdam adds another layer: split-brain patients could report having seen shapes presented to either visual field, both verbally and by pointing with either hand. As the study's own framing captures—"divided perception but undivided consciousness"—perception appears more split while responding remains largely unified.
 
 This has led to a "layered unity" model: split-brain cases show divided perception at local levels but preserved unity at higher, global levels of consciousness.
 
@@ -93,7 +94,7 @@ Split-brain cases illuminate the [[binding-problem|binding problem]]—how distr
 
 **Phenomenal unity is contested.** Do patients have one unified experience or two parallel streams? The evidence is genuinely ambiguous—perhaps because the question assumes a determinate answer exists.
 
-[[integrated-information-theory|IIT]] predicts consciousness should split when interhemispheric disconnection occurs, since each hemisphere becomes more informationally integrated within itself than with the other. But the 2025 findings suggest neural integration is more resilient than this predicts—minimal connections suffice for synchronization, and behavioral evidence corroborates preserved experiential unity.
+[[integrated-information-theory|IIT]] predicts consciousness should split when interhemispheric disconnection occurs, since each hemisphere becomes more informationally integrated within itself than with the other. But the 2025 findings suggest unity is more resilient than IIT predicts—minimal connections suffice for full synchronization. The [[entanglement-binding-hypothesis|entanglement binding hypothesis]] suggests why: if quantum entanglement rather than classical correlation underwrites phenomenal unity, minimal fiber connections could maintain the entangled states that bind experience even when most classical pathways are severed.
 
 ## Implications for Personal Identity
 
@@ -125,8 +126,6 @@ What the cases *do* compound is the [[hard-problem-of-consciousness|hard problem
 
 ### They Illuminate but Don't Solve the Hard Problem
 
-The cases sharpen the [[hard-problem-of-consciousness|hard problem]]. Even if we fully mapped which neural patterns correlate with which aspects of split-brain experience, we would not have explained *why* those patterns are accompanied by experience at all—or why that experience has the particular character it does.
-
 The phenomenal question—what is it *like* to be a split-brain patient during conflicting stimuli?—may have no determinate answer accessible from outside. This epistemological limit itself is significant: if consciousness were just information processing, such limits would be surprising.
 
 ### They Challenge Simple Unity
@@ -157,7 +156,7 @@ Alfred North Whitehead's process philosophy offers a distinctive framework for u
 
 ### Actual Occasions and Partial Unity
 
-On this view, the question "How many minds?" assumes a substance metaphysics that process philosophy rejects. There are no enduring mental substances to count. Instead, there are overlapping series of actual occasions, each with its own experiential unity in the moment.
+On this view, the question "How many minds?" assumes a substance metaphysics that process philosophy rejects. Instead of enduring mental substances to count, there are overlapping series of actual occasions, each with its own experiential unity in the moment.
 
 In a normal brain, actual occasions in each hemisphere prehend (feel into, incorporate) occasions from the other via corpus callosum transmission. This creates densely interconnected series that experience as unified. When the corpus callosum is severed, the prehensive relations thin dramatically—but don't vanish. Subcortical pathways, shared bodily states, and minimal remaining fibers continue to provide some connection.
 
@@ -169,7 +168,7 @@ The discovery that minimal fiber connections preserve full neural synchronizatio
 
 Whitehead's concrescence—the process by which an actual occasion integrates its prehensions into unified experience—illuminates the "layered unity" model. Perception divides because the relevant actual occasions in each hemisphere prehend different visual inputs. But higher-level integration persists because those occasions still prehend shared emotional tone, bodily state, and minimal cross-hemispheric signals.
 
-The three dimensions of unity map onto different aspects of concrescence: synchronic unity concerns what is prehended together in each moment; diachronic unity concerns how occasions inherit from predecessors; subject unity concerns whether a single nexus of occasions constitutes "the" experiencer. Split-brain cases show these can partially dissociate—evidence that phenomenal unity is genuinely multi-dimensional rather than a single all-or-nothing property.
+The three dimensions of unity map onto different aspects of concrescence: synchronic unity concerns what is prehended together in each moment; diachronic unity concerns how occasions inherit from predecessors; subject unity concerns whether a single nexus of occasions constitutes "the" experiencer. Split-brain cases show these can partially dissociate, confirming the multi-dimensional nature of unity.
 
 ## Contemplative Evidence
 
@@ -209,7 +208,7 @@ The resilience of unity—even with minimal connections—suggests consciousness
 
 ### Minimal Quantum Interaction Tenet
 
-If consciousness influences physical outcomes through minimal quantum interaction, split-brain cases pose a sharp question: when the brain divides, does the interaction mechanism divide with it? The persistence of response unity despite perceptual division suggests that whatever coordinates conscious experience operates at a level not fully determined by macro-level neural connectivity. One speculative possibility is that quantum-level coherence plays a role in binding (see [[decoherence]] for the challenges this faces), but the Map's core point does not depend on any particular mechanism: the asymmetry between perceptual division and response unity constrains any proposed account of how consciousness interacts with neural processes.
+If consciousness influences physical outcomes through minimal quantum interaction, split-brain cases pose a sharp question: when the brain divides, does the interaction mechanism divide with it? The persistence of response unity despite perceptual division suggests coordination at a level not fully determined by macro-level neural connectivity. The [[entanglement-binding-hypothesis]] develops one possibility: entangled quantum states spanning both hemispheres could maintain unity through minimal fiber connections, though this faces [[decoherence]] challenges. The Map's core point does not depend on any particular mechanism: the asymmetry between perceptual division and response unity constrains any account of how consciousness interacts with neural processes.
 
 ### Occam's Razor Has Limits Tenet
 
@@ -253,6 +252,7 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 - [[illusionism]] — The radical view that phenomenal consciousness is an illusion
 - [[introspection]] — First-person methods and their reliability
 - [[witness-consciousness]] — Contemplative perspectives on the observer
+- [[entanglement-binding-hypothesis]] — Quantum entanglement as the physical basis for phenomenal binding
 - [[decoherence]] — The challenge quantum decoherence poses to quantum consciousness theories
 
 ### External Sources
@@ -262,16 +262,3 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 - Elizabeth Schechter, *Self-Consciousness and "Split" Brains* (2018)
 - Gazzaniga, M.S., "Cerebral specialization and interhemispheric communication," *Brain* (2000)
 - Whitehead, A.N., *Process and Reality* (1929)
-
-<!-- AI REFINEMENT LOG - 2026-02-22
-Changes made:
-- Fixed non-sequitur: indeterminacy-favors-dualism argument now acknowledges physical vagueness (clouds, rivers, species) and reframes as compounding the hard problem rather than directly supporting dualism
-- Fixed neural synchronization / phenomenal unity conflation: added explicit distinction between fMRI BOLD correlates and experiential unity in "Resilience of Unity" section; qualified claims throughout to distinguish neural synchronization from phenomenal unity
-- Rewrote Minimal Quantum Interaction tenet section: replaced microtubule/quantum Zeno speculation with mechanism-neutral framing per style guide restraint requirements
-- Updated illusionism section's indeterminacy argument to avoid same non-sequitur; reframed as illusionism failing to dissolve the phenomenal question
-
-Based on pessimistic-2026-02-22-morning review (2 high-severity issues + style guide violation).
-Key improvements: Eliminates logical gaps while strengthening the hard-problem-centric argument.
-
-This log should be removed after human review.
--->
