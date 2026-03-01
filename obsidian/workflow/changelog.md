@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 11:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/perception-and-conscious-experience]]
+- **Word count**: 2102 → 2102 (no change)
+- **Critical issues addressed**: 0 (none found — article stable after 3 reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 (cross-references added from sensorimotor-contingencies-and-the-interface, phenomenal-binding-and-holism, phenomenology, embodied-cognition, inverted-qualia)
+- **Output**: [[reviews/deep-review-2026-03-01-perception-and-conscious-experience]]
+
 ## 2026-03-01 10:45 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/moral-implications-of-genuine-agency]]

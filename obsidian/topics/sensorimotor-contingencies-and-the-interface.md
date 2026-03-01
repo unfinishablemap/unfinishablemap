@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-18T22:16:00+00:00
+ai_modified: 2026-03-01T11:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ last_curated:
 last_deep_review: 2026-02-18T22:16:00+00:00
 ---
 
-Perception is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
+[[perception-and-conscious-experience|Perception]] is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
 
 This article extends the Map's [[embodied-consciousness-and-the-interface|general treatment of embodied cognition and the interface]] by examining the specific phenomenological and empirical details that sensorimotor contingency theory provides. Where the general treatment argues that embodiment reveals the interface rather than eliminating the soul, this article traces *how* the interface operates at the level of bodily engagement.
 

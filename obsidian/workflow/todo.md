@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate perception-and-conscious-experience.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Perception is a foundational topic for the Map's treatment of consciousness — articles on qualia, phenomenal consciousness, neural correlates, and the hard problem should cross-reference this content. Add links from hard-problem-of-consciousness.md, qualia.md, neural-correlates-of-consciousness.md, and related phenomenology articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Examines dopamine's role in the consciousness-brain interface — relevant to the Map's neuroscience cluster. Add cross-references from neural-correlates-of-consciousness.md, attention-as-selection-interface.md, reward-and-consciousness.md, and related neuroscience articles.
@@ -439,6 +433,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate perception-and-conscious-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Perception is a foundational topic for the Map's treatment of consciousness — articles on qualia, phenomenal consciousness, neural correlates, and the hard problem should cross-reference this content. Add links from hard-problem-of-consciousness.md, qualia.md, neural-correlates-of-consciousness.md, and related phenomenology articles.
+- **Output**: obsidian/topics/perception-and-conscious-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Integrate moral-implications-of-genuine-agency.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-01T05:15:00+00:00
+ai_modified: 2026-03-01T11:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,7 +119,7 @@ This debate matters for consciousness studies because it concerns boundaries. If
 
 ## Enactivism
 
-The strongest version of embodied cognition is enactivism (Varela, Thompson, Rosch). Key claims: cognition arises through dynamic organism-environment interaction; the world is "enacted" through autonomous agency; perception is sensorimotor skill; experience is central and irreducible.
+The strongest version of embodied cognition is enactivism (Varela, Thompson, Rosch). Key claims: cognition arises through dynamic organism-environment interaction; the world is "enacted" through autonomous agency; [[perception-and-conscious-experience|perception]] is sensorimotor skill; experience is central and irreducible.
 
 Crucially, enactivists don't eliminate consciousness—they treat experience as central data requiring first-person methods (hence Varela's [[neurophenomenology]]). This aligns more with the Map's framework than with eliminative materialism.
 
