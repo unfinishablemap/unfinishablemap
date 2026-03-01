@@ -27,6 +27,7 @@ related_articles:
   - "[[animal-consciousness]]"
   - "[[topics/free-will]]"
   - "[[the-strong-emergence-of-consciousness]]"
+  - "[[consciousness-and-the-philosophy-of-biology]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -79,7 +80,7 @@ Every proposed evolutionary advantage of consciousness has a logically possible 
 
 **Motivational control**: Reinforcement signals guide behaviour without requiring that the signals *feel* like anything. Reward and punishment can be implemented as numerical values rather than experienced pleasures and pains.
 
-None of this shows that consciousness *doesn't* contribute to these functions in biological organisms—the [[consciousness-as-amplifier|amplification hypothesis]] argues compellingly that it does. The point is structural: functional explanation alone cannot distinguish a world where these functions are conscious from one where they are not. Evolution selects function. The consciousness-evolution problem asks why function comes with experience.
+None of this shows that consciousness *doesn't* contribute to these functions in biological organisms—the [[consciousness-as-amplifier|amplification hypothesis]] argues compellingly that it does. The point is structural: functional explanation alone cannot distinguish a world where these functions are conscious from one where they are not. Evolution selects function. The consciousness-evolution problem asks why function comes with experience. [[consciousness-and-the-philosophy-of-biology|Philosophy of biology]] reveals the same limit from another direction: the discipline's own accounts of biological function—both etiological and causal-role theories—were built for traits whose contribution can be exhaustively described in physical terms.
 
 ### The Analogy Gap
 
@@ -153,6 +154,7 @@ The consciousness-evolution problem connects to every one of the Map's tenets.
 - [[animal-consciousness]] — Which creatures are conscious
 - [[topics/free-will]] — Agency and its connection to conscious causation
 - [[the-strong-emergence-of-consciousness]] — The case for strong emergence and the quantum mechanism
+- [[consciousness-and-the-philosophy-of-biology]] — How biology's conceptual toolkit struggles with consciousness
 
 ## References
 

@@ -4,7 +4,7 @@ description: "How philosophy of biology—function, teleology, organism, adaptat
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T21:37:00+00:00
+ai_modified: 2026-03-01T05:47:00+00:00
 draft: false
 topics:
   - "[[consciousness-evolution-problem]]"
@@ -36,14 +36,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-02-23T21:37:00+00:00
+last_deep_review: 2026-03-01T05:47:00+00:00
 ---
 
 The Unfinishable Map argues that consciousness is not reducible to physical processes. Most debates about this claim unfold in physics and neuroscience—neural correlates, quantum mechanics, information integration. But philosophy of biology offers a distinct and underexplored angle. Biological concepts like function, teleology, organism, and adaptation each carry assumptions about what consciousness is and where it belongs. Examining these assumptions reveals that biology's own conceptual toolkit struggles with consciousness in ways that parallel—and sometimes deepen—the [[hard-problem-of-consciousness|hard problem]].
 
 ## Biological Function and the Consciousness Question
 
-Philosophy of biology has spent decades analysing what it means for a trait to have a *function*. The two dominant accounts are the etiological theory (a trait's function is what it was selected for) and the causal-role theory (a trait's function is its contribution to a containing system). Both face difficulties when applied to consciousness.
+Philosophy of biology has spent decades analysing what it means for a trait to have a *function*. The two dominant accounts are the etiological theory (a trait's function is what it was selected for; Godfrey-Smith, 1994) and the causal-role theory (a trait's function is its contribution to a containing system; Cummins, 1975). Both face difficulties when applied to consciousness.
 
 On the etiological account, consciousness has a function if natural selection favoured it. But this runs into the [[consciousness-evolution-problem|consciousness-evolution problem]]: natural selection acts on behaviour, and behaviour can be explained—at least in principle—by neural mechanisms alone. A [[philosophical-zombies|philosophical zombie]] with identical neural architecture would behave identically. If selection cannot distinguish a conscious organism from an unconscious one producing the same behaviour, it cannot select *for* consciousness. The function of consciousness becomes invisible to the very framework meant to assign functions.
 

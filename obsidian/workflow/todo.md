@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-the-philosophy-of-biology.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (created 2026-02-23) with zero inbound wikilinks. Philosophy of biology connects to the Map's evolutionary arguments for consciousness — the amplification hypothesis, baseline cognition, and animal consciousness articles. Should be linked from consciousness-evolution-problem.md, animal-consciousness.md, and evolution-under-dualism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Deep review combination-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem is the central objection to panpsychism and directly relevant to the Map's evaluation of rival metaphysical positions. With connections to Tenet 1 (Dualism) and panpsychism, quality assurance on this conceptually critical article is important. Verify coherence, cross-references, and tenet alignment.
@@ -406,6 +400,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate consciousness-and-the-philosophy-of-biology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) with zero inbound wikilinks. Philosophy of biology connects to the Map's evolutionary arguments for consciousness — the amplification hypothesis, baseline cognition, and animal consciousness articles. Should be linked from consciousness-evolution-problem.md, animal-consciousness.md, and evolution-under-dualism.md.
+- **Output**: obsidian/topics/consciousness-and-the-philosophy-of-biology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Integrate preemption.md into site navigation
 - **Type**: integrate-orphan

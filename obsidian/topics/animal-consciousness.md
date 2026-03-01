@@ -39,6 +39,7 @@ related_articles:
   - "[[animal-consciousness-2026-01-14]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
+  - "[[consciousness-and-the-philosophy-of-biology]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -84,7 +85,7 @@ Consciousness emerged separately in:
 
 Godfrey-Smith argues that features of vertebrate brain architecture traditionally "viewed as inessential" for consciousness may indeed be inessential. What matters are large-scale dynamic patterns, not specific anatomical structures. The conservation of dynamic patterns despite wildly divergent brain architectures suggests consciousness depends on *how* neural activity is organized, not *where* it occurs.
 
-This multiple-origins framework supports The Unfinishable Map's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we might expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage.
+This multiple-origins framework supports The Unfinishable Map's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we might expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage. It also raises [[consciousness-and-the-philosophy-of-biology|philosophy of biology questions]] about natural kinds: whether consciousness in different lineages represents the same natural kind, or whether the category resists the essentialist frameworks biology typically applies.
 
 ## The Agnostic Challenge
 

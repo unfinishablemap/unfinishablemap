@@ -33,6 +33,7 @@ related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism-argument]]"
   - "[[arguments-against-materialism]]"
+  - "[[consciousness-and-the-philosophy-of-biology]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -181,6 +182,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [[arguments-against-materialism]] — Why the cumulative case against materialism is powerful
 - [[minimal-consciousness]] — Simple organisms reveal functionalism's limits
 - [[evolution-of-consciousness]] — The emergence problem functionalism cannot solve
+- [[consciousness-and-the-philosophy-of-biology]] — Why biological function concepts fail to capture consciousness
 - [[arguments/functionalism-argument]] — Five formal arguments against functionalism
 - [[substrate-independence-critique]] — Why the substrate matters for consciousness
 - [[ai-consciousness]] — The question of machine minds
