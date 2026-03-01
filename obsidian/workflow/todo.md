@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in continuity-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found high-severity omission of Dennett's Multiple Drafts model, style guide violation ("This is not X. It is Y." construct), content overlap with temporal-consciousness.md, and unsupported superlative claims. See pessimistic-2026-03-01-continuity-void.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-01
+
 ### P2: Deep review combination-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem is the central objection to panpsychism and directly relevant to the Map's evaluation of rival metaphysical positions. With connections to Tenet 1 (Dualism) and panpsychism, quality assurance on this conceptually critical article is important. Verify coherence, cross-references, and tenet alignment.
