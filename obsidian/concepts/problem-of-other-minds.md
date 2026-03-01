@@ -1,10 +1,10 @@
 ---
 title: "Problem of Other Minds"
-description: "How can we know others are conscious? The epistemic asymmetry between first-person certainty and third-person inference."
+description: "How can we know others are conscious? Six philosophical approaches to the epistemic asymmetry between first-person certainty and third-person inference."
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-02-28T05:46:00+00:00
+ai_modified: 2026-03-01T14:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-28T12:00:00+00:00
+last_deep_review: 2026-03-01T14:51:00+00:00
 ---
 
 How can I know that you are conscious? I have direct access to my own experience—the felt quality of seeing red, the ache of sadness, the taste of coffee. But my access to your mental life is entirely indirect. I observe your behavior, hear your words, perhaps scan your brain. None of this shows me *your* experience from the inside. The asymmetry is stark: first-person certainty about my own consciousness, third-person inference about yours.
@@ -84,7 +84,7 @@ This reframes the problem. The asymmetry is not failure but success—if I could
 
 The very existence of consciousness as a concept provides evidence for other minds. If you were the only conscious being among philosophical zombies, you would be born into a world where consciousness discourse doesn't exist—no writing about qualia or the hard problem, no referent for your attempts to explain inner experience.
 
-Instead, consciousness pervades human discourse across cultures. Sanskrit has *chit* and *anubhava*, Greek has *phronesis* and *nous*, phenomenology has *qualia* and *intentionality*. This cross-cultural convergence—minds in different bodies arriving at similar distinctions—would be remarkable coincidence if only one being actually experienced anything.
+Instead, consciousness pervades human discourse across cultures. Sanskrit has *chit* and *anubhava*, Greek has *psyche* and *nous*, phenomenology has *qualia* and *intentionality*. This cross-cultural convergence—minds in different bodies arriving at similar distinctions—would be remarkable coincidence if only one being actually experienced anything.
 
 The argument has force: it doesn't rely on behavioral similarity (inferring from conceptual rather than bodily resemblance), addresses the sample-of-one problem (others articulate distinctions I recognize), and explains genuine disagreement (debates about qualia presuppose a shared referent). The simplest hypothesis is that others talk about consciousness because they have it.
 
@@ -120,7 +120,7 @@ The problem of other minds frames debates about [[animal-consciousness|animal]] 
 
 For animals, the 2024 New York Declaration recognized "strong scientific support" for consciousness in mammals and birds. Biological similarity strengthens inference—shared evolutionary history, neural architecture, behavioral patterns. The [[consciousness-as-amplifier|consciousness as amplifier]] hypothesis provides additional grounds: animals' systematic pattern of cognitive capacities (strong procedural learning, weak metarepresentation) maps onto the distinction between consciousness-dependent and consciousness-independent processing.
 
-For AI, the Map's rejection of [[concepts/functionalism]] complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker.
+For AI, the Map's rejection of [[concepts/functionalism|functionalism]] complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker.
 
 ## The Illusionist Challenge
 
