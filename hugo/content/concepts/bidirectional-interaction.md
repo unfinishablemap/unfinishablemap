@@ -85,7 +85,7 @@ For detailed specification of how phenomenal properties map to physical paramete
 
 ### The Timing Challenge
 
-A persistent objection concerns timescales: Tegmark (2000) calculated quantum decoherence at femtoseconds, while neural decisions operate at hundreds of milliseconds—a gap of twelve orders of magnitude. However, this critique assumed specific superposition sites and separation distances. Revised estimates (Hameroff et al.) suggest 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. More significantly, the quantum Zeno mechanism doesn't require sustained coherence; it operates through discrete observation events at neural timescales (~1000 observations per 300ms window). See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
+A persistent objection concerns timescales: Tegmark (2000) calculated quantum decoherence at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [timing gap](/concepts/timing-gap-problem/), a mismatch of twelve orders of magnitude. However, this critique assumed specific superposition sites and separation distances. Revised estimates (Hameroff et al.) suggest 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. More significantly, the quantum Zeno mechanism doesn't require sustained coherence; it operates through discrete observation events at neural timescales (~1000 observations per 300ms window). See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
 
 ## Empirical Support
 

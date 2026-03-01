@@ -204,7 +204,7 @@ More specifically: the phenomenology of effort provides evidence precisely becau
 
 ## The Decoherence Challenge
 
-A major physics-based objection: warm neural tissue [decoheres](/concepts/decoherence/) quantum superpositions in femtoseconds (Tegmark 2000), far too fast for the 300ms timescales of attention deployment. How can the Zeno mechanism operate if coherence is destroyed almost instantly?
+A major physics-based objection: warm neural tissue [decoheres](/concepts/decoherence/) quantum superpositions in femtoseconds (Tegmark 2000), far too fast for the 300ms timescales of attention deployment—the [timing-gap-problem](/concepts/timing-gap-problem/). How can the Zeno mechanism operate if coherence is destroyed almost instantly?
 
 Three responses:
 

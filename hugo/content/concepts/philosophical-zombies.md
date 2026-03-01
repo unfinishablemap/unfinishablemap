@@ -102,7 +102,7 @@ The zombie argument has a close structural cousin: [inverted-qualia](/concepts/i
 
 ## The Self-Stultification Problem
 
-You say things like "I am conscious" and "I experience qualia." Your conscious experiences play a causal role in producing these utterances—or so the dualist maintains. But the zombie, by stipulation, makes the same utterances from the same brain states—caused purely by physical processes.
+You say things like "I am conscious" and "I experience qualia." Your conscious experiences play a causal role in producing these utterances—or so the dualist maintains. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) sharpens this: if meaning requires conscious intention (Grice) and genuine reference to phenomenal states resists standard causal theories, then the zombie's identical utterances lack meaning in the technical sense—sounds without genuine semantic content. But the zombie, by stipulation, makes the same utterances from the same brain states—caused purely by physical processes.
 
 If physicalism is true, your utterances are caused by the same physical processes that cause the zombie's. But then your consciousness isn't playing a causal role in producing your reports about consciousness. This makes your reports accidentally accurate at best—a strange result for the physicalist who trusts their own introspection enough to theorize about consciousness.
 
@@ -210,6 +210,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [haecceity](/concepts/haecceity/) — The irreducible "thisness" that zombie scenarios presuppose
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How zombie conceivability shapes epistemic access to other minds
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The broader epistemological puzzle about knowing others are conscious
+- [language-and-consciousness](/concepts/language-and-consciousness/) — How meaning and reference fail for zombie utterances, reinforcing the conceivability argument
 
 ### External Sources
 - David Chalmers, *The Conscious Mind* (1996) — The definitive treatment

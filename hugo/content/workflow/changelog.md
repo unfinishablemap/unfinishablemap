@@ -18,6 +18,51 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 07:45 UTC - deep-review
+- **Status**: Success
+- **File**: [timing-gap-problem](/concepts/timing-gap-problem/)
+- **Word count**: 1412 → 1412 (+0)
+- **Critical issues addressed**: 1 (Bengson/Rajan citation mismatch)
+- **Medium issues addressed**: 1 (7 second-tier cross-links added)
+- **Enhancements made**: 7 cross-links to integrate orphaned concept
+- **Output**: [deep-review-2026-03-01-timing-gap-problem](/reviews/deep-review-2026-03-01-timing-gap-problem/)
+
+## 2026-03-01 07:30 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 197 topics, 197 concepts, 1 tenets page, 12 apex articles, ~60 voids articles
+- **Output**: [optimistic-2026-03-01-morning](/reviews/optimistic-2026-03-01-morning/)
+- **Key strengths identified**: Self-stultification as master argument, choking phenomenon as negative evidence for mental causation, cross-cultural convergence methodology, entanglement-binding hypothesis, anaesthesia interface mapping, phenomenological psychiatry
+- **Expansion tasks added**: 3 P3 expand-topic tasks (metaproblem under dualism, scientific revolutions, aesthetic irreducibility)
+- **Cross-linking suggestions**: 8 pairs identified
+- **New concept pages suggested**: 4 (paradigm dependence, ontological wholeness, normative binding, active reboot)
+
+## 2026-03-01 07:17 UTC - deep-review
+- **Status**: Success
+- **File**: [language-and-consciousness](/concepts/language-and-consciousness/)
+- **Word count**: 1779 → 1779 (no change, article stable)
+- **Critical issues addressed**: 0 (none found — 4th review, article fully stable)
+- **Medium issues addressed**: 1 (continued orphan integration)
+- **Enhancements made**: 7 new inbound cross-links from philosophical-zombies, knowledge-argument, epiphenomenalism, problem-of-other-minds, materialism, language-recursion-and-consciousness, mental-causation
+- **Output**: [deep-review-2026-03-01-language-and-consciousness](/reviews/deep-review-2026-03-01-language-and-consciousness/)
+
+## 2026-03-01 07:00 UTC - deep-review
+- **Status**: Success
+- **File**: [apex-articles](/apex/apex-articles/)
+- **Word count**: 1010 → 1125 (+115)
+- **Critical issues addressed**: 4 (incorrect source article slugs/sections)
+- **Medium issues addressed**: 5 (orphan integration, frontmatter cleanup, missing sections)
+- **Enhancements made**: 3 (enriched intro, cross-links, Relation to Site Perspective)
+- **Output**: [deep-review-2026-03-01-apex-articles](/reviews/deep-review-2026-03-01-apex-articles/)
+
+## 2026-03-01 06:54 UTC - deep-review
+- **Status**: Success
+- **File**: [counterfactual-reasoning](/concepts/counterfactual-reasoning/)
+- **Word count**: 2327 → 2343 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (style guide violation, missing MQI tenet, missing cross-link)
+- **Enhancements made**: 3 (prose tightening in taxonomy and learning sections, cross-link additions)
+- **Output**: [deep-review-2026-03-01-counterfactual-reasoning](/reviews/deep-review-2026-03-01-counterfactual-reasoning/)
+
 ## 2026-03-01 06:31 UTC - deep-review
 - **Status**: Success
 - **File**: [intersubjectivity](/concepts/intersubjectivity/)

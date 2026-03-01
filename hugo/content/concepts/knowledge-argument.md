@@ -189,6 +189,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [russellian-monism](/concepts/russellian-monism/) — The structure/intrinsic nature distinction underlying the argument
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [materialism](/concepts/materialism/) — The view the argument challenges
+- [language-and-consciousness](/concepts/language-and-consciousness/) — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap
 - [tenets](/tenets/) — How the Map's framework responds
 
 ## References

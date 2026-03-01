@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-25 20:25:00+00:00
+ai_modified: 2026-03-01 07:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: The 10¹²-fold mismatch between quantum decoherence and neural dec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 20:25:00+00:00
+last_deep_review: 2026-03-01 07:45:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-neural-timing-constraints]]'
@@ -39,7 +39,7 @@ Two timescales must connect for quantum consciousness theories to work:
 
 **Quantum side.** Decoherence destroys superpositions through environmental interaction. In warm, wet biological tissue, thermal noise causes rapid decoherence. Tegmark modelled both regular neuron firing (involving ion channels) and microtubule polarisation excitations, finding decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for both—far shorter than any neural process.
 
-**Neural side.** Conscious decisions involve empirically established timing windows. Thura and Cisek (2014) found motor commitment signatures at approximately 280 milliseconds. Bengson et al. (2019) measured willed attention deployment at approximately 300 milliseconds. The Libet readiness potential begins approximately 550 milliseconds before action. Any quantum mechanism that influences conscious decisions must remain operative long enough to interact with these neural windows.
+**Neural side.** Conscious decisions involve empirically established timing windows. Thura and Cisek (2014) found motor commitment signatures at approximately 280 milliseconds. Rajan et al. (2019) measured willed attention deployment at approximately 300 milliseconds. The Libet readiness potential begins approximately 550 milliseconds before action. Any quantum mechanism that influences conscious decisions must remain operative long enough to interact with these neural windows.
 
 The gap is not a matter of degree. Femtoseconds and hundreds of milliseconds differ by a factor of roughly 10¹². No known physical process bridges such a disparity through simple scaling.
 

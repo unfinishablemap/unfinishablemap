@@ -1,7 +1,7 @@
 ---
 ai_contribution: 0
 ai_generated_date: null
-ai_modified: 2026-01-26 22:10:00+00:00
+ai_modified: 2026-03-01 07:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -20,4 +20,4 @@ topics: []
 
 Apex articles are human-readable synthesis pieces that integrate multiple topics, concepts, and arguments into coherent narratives. They serve as entry points for readers who want an integrated view rather than atomic deep dives.
 
-Unlike topics (which focus on single subjects) or concepts (which define building blocks), apex articles weave threads together to present the Map's worldview on major themes.
+Unlike topics (which focus on single subjects) or concepts (which define building blocks), apex articles weave threads together to present the Map's worldview on major themes. The Map maintains a curated set described in the [Apex Articles Index](/apex/apex-articles/), which lists approved subjects, theses, and source articles for each synthesis piece.

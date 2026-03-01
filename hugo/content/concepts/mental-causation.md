@@ -182,7 +182,7 @@ The strongest positive argument for mental causation is the self-stultification 
 4. Beliefs formed without causal connection to their subject matter are not rationally held
 5. Therefore, epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness
 
-If you can accurately report your conscious experiences—"I'm in pain," "I see red"—then your experiences must cause your reports. Otherwise, why would the report be about the experience at all?
+If you can accurately report your conscious experiences—"I'm in pain," "I see red"—then your experiences must cause your reports. Otherwise, why would the report be about the experience at all? The [philosophy of language and consciousness](/concepts/language-and-consciousness/) reinforces this: Grice's analysis of meaning requires conscious speaker intention, making every meaningful utterance about experience an instance of mental causation.
 
 If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness and your reasoning about mental causation isn't influenced by mental evidence—making the denial epistemically self-defeating.
 

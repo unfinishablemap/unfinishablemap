@@ -88,7 +88,7 @@ Consider: you're reading an argument for epiphenomenalism. You find it convincin
 
 But wait. If epiphenomenalism is true, then your belief in epiphenomenalism was not caused by the argument. It was caused entirely by brain states that have nothing to do with the reasoning. Your conscious understanding of the argument—the sense of "aha, this makes sense!"—played no role in forming the belief.
 
-Worse: your introspective reports about consciousness are not caused by your conscious experiences. When you say "I'm in pain," the pain doesn't cause the utterance; brain states do. Your report is about something (the pain experience), but that something has no causal connection to the report. Why should the report be accurate?
+Worse: your introspective reports about consciousness are not caused by your conscious experiences. When you say "I'm in pain," the pain doesn't cause the utterance; brain states do. Your report is about something (the pain experience), but that something has no causal connection to the report. Why should the report be accurate? The [philosophy of language and consciousness](/concepts/language-and-consciousness/) deepens this problem: Grice argued that linguistic meaning depends on conscious speaker intention. If consciousness is causally inert, meaningful speech about experience becomes impossible—our words merely happen to correlate with experiences, but lack the intentional structure that constitutes genuine meaning.
 
 The problem generalizes. If epiphenomenalism is true, then:
 - Your reasoning about consciousness doesn't cause your beliefs about consciousness
@@ -216,6 +216,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's alternative framework
 - [tenets](/tenets/) — the Map's foundational commitments against epiphenomenalism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The context for debates about consciousness
+- [language-and-consciousness](/concepts/language-and-consciousness/) — How Grice's theory of meaning shows meaningful speech requires conscious intention, strengthening the case against epiphenomenalism
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Evidence of consciousness in simple organisms; challenges the tracking coincidence
 - [epiphenomenalism-2026-01-08](/research/epiphenomenalism-2026-01-08/) — Detailed research notes
 

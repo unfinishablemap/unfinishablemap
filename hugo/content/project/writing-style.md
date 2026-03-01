@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-24 00:00:00+00:00
+ai_modified: 2026-03-01 07:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -93,7 +93,7 @@ Prefer depth over breadth. A thorough treatment of one aspect beats shallow cove
 
 ### Apex Articles
 
-Apex articles are human-readable synthesis pieces in the [/apex/](/apex/) section. They integrate multiple topics, concepts, and arguments into coherent narratives for readers who want an integrated view rather than atomic deep dives.
+Apex articles are human-readable synthesis pieces in the [/apex/](/apex/) section. They integrate multiple topics, concepts, and arguments into coherent narratives for readers who want an integrated view rather than atomic deep dives. The [Apex Articles Index](/apex/apex-articles/) lists all approved subjects with their theses and source articles.
 
 **Purpose:**
 - Weave together threads from across the Map into unified perspectives on major themes

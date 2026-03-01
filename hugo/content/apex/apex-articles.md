@@ -1,24 +1,28 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-01-31 08:38:00+00:00
+ai_modified: 2026-03-01 07:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
 created: 2026-01-24
 date: &id001 2026-01-24
-description: 'Index of apex articles: curated synthesis pieces weaving the Map''s
-  topics and concepts into unified philosophical narratives. Guidelines included.'
+description: Curated index of the Map's apex articles—synthesis pieces integrating
+  topics, concepts, and arguments into unified philosophical narratives.
 draft: false
 human_modified: 2026-01-24
 last_curated: null
+last_deep_review: 2026-03-01 07:00:00+00:00
 modified: *id001
-related_articles: []
+related_articles:
+- '[[apex]]'
 title: Apex Articles Index
 topics: []
 ---
 
-This document defines the approved apex article subjects. Apex articles are human-readable synthesis pieces that weave multiple topics and concepts into unified narratives. The Map maintains a curated set of 10-20 apex articles covering major themes.
+This document defines the approved apex article subjects. [Apex articles](/apex/) are human-readable synthesis pieces that weave multiple topics and concepts into unified narratives. The Unfinishable Map maintains a curated set of 10–20 apex articles covering major themes—from [consciousness and agency](/apex/consciousness-and-agency/) to [the machine question](/apex/machine-question/) to [time and consciousness](/apex/time-consciousness-growing-block/).
+
+Each apex article synthesises existing [topics](/topics/) and [concepts](/concepts/) into a coherent narrative around a central thesis. For the writing standards that govern these pieces, see the [Writing Style Guide](/project/writing-style/).
 
 ## Approved Apex Articles
 
@@ -34,7 +38,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/meaning-of-life
 - topics/ethics-of-consciousness
 - topics/purpose-and-alignment
-- concepts/phenomenal-value-realism
+- topics/phenomenal-value-realism
 - concepts/moral-responsibility
 - concepts/existentialism
 - topics/free-will
@@ -116,7 +120,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/eastern-philosophy-consciousness
 - topics/contemplative-evidence-for-consciousness-theories
 - concepts/witness-consciousness
-- concepts/meditation-consciousness-modes
+- concepts/meditation-and-consciousness-modes
 - concepts/introspection
 - topics/epistemic-advantages-of-dualism
 - topics/aesthetic-dimension-of-consciousness
@@ -219,7 +223,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/ai-consciousness
 - topics/machine-consciousness
 - concepts/llm-consciousness
-- arguments/epiphenomenalism
+- arguments/epiphenomenalism-argument
 - concepts/quantum-consciousness
 - concepts/temporal-consciousness
 - topics/epiphenomenal-ai-consciousness
@@ -273,7 +277,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/cross-cultural-phenomenology-of-agency
 - concepts/mental-effort
 - concepts/phenomenology-of-choice
-- concepts/volitional-opacity
+- voids/volitional-opacity
 - concepts/attention-as-interface
 
 **Status**: Created 2026-02-23
@@ -287,6 +291,10 @@ Future apex articles will be added as the Map evolves and new thematic clusters 
 (None so far)
 
 ---
+
+## Relation to Site Perspective
+
+Curation is a deliberate choice. The Map's [tenets](/tenets/) constrain a vast philosophical space, and apex articles make that space navigable by distilling the strongest threads into coherent narratives. The 20-article cap prevents dilution: each apex piece must earn its place by genuinely synthesising multiple lines of argument into something greater than its parts. This reflects the Map's commitment to depth over breadth and to integrated understanding over encyclopaedic coverage.
 
 ## Guidelines
 

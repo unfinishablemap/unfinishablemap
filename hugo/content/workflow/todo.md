@@ -319,12 +319,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
 - **Generated**: 2026-02-26
 
-### P2: Integrate apex-articles.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: The apex/apex-articles.md page has no inbound links — it is the only non-research orphan on the site. The apex section already has _index.md as its landing page. Determine whether apex-articles.md should be linked from the section index, from the site index, or archived as redundant. If it provides value beyond _index.md, add inbound links; if not, archive it.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-26
-
 ### P3: Deep review contemplative-epistemology.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-10, never reviewed. Oldest unreviewed concept article — 16 days without quality assurance. The article covers how contemplative practices can serve as epistemological tools, directly relevant to the Map's reliance on phenomenological evidence. Verify coherence, cross-references, and tenet alignment.
@@ -387,8 +381,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
 - **Generated**: 2026-03-01
 
+### P2: Integrate adaptive-computational-depth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-24) with zero inbound wikilinks. Argues that reality allocating detail where consciousness attends initially seems to support computationalism but actually implies non-computable mind. Should be linked from consciousness-and-simulation.md, computational-theory-of-mind.md, and attention-as-selection-interface.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Review temporal-consciousness.md considering continuity-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/continuity-void.md (2026-03-01) examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps — sleep onset, anaesthesia, absorption states. concepts/temporal-consciousness.md covers the specious present, Bergson's durée, and temporal phenomenology. The continuity void's analysis of constructed-vs-given continuity would strengthen the temporal consciousness article's treatment of how temporal structure may be constitutive of consciousness. Check for cross-links and argument reinforcement.
+- **Source**: chain (from continuity-void.md)
+- **Generated**: 2026-03-01
+
+### P2: Review phenomenology-of-the-edge.md considering continuity-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/continuity-void.md (2026-03-01) identifies moments where continuity breaks down — sleep onset, anaesthetic fade, deep absorption — as edges where the stream of consciousness reveals its construction. voids/phenomenology-of-the-edge.md explores what consciousness encounters at its cognitive boundaries. The continuity void's treatment of temporal edges as phenomenologically accessible complements the edge phenomenology's broader catalogue of boundary experiences. Check for cross-links and complementary analysis. Supports Tenet 1 (Dualism).
+- **Source**: chain (from continuity-void.md)
+- **Generated**: 2026-03-01
+
+### P3: Write article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-01. Chalmers' metaproblem asks why we think there is a hard problem. Under dualism, the answer is straightforward—we report on it because consciousness is real and causally influences our reports. Would show how dualism dissolves the metaproblem while physicalism generates it, connecting to self-stultification. See [optimistic-2026-03-01-morning](/reviews/optimistic-2026-03-01-morning/).
+
+### P3: Write article on consciousness and the structure of scientific revolutions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-01. Apply Kuhn's framework to the consciousness debate—is physicalism a paradigm in crisis? Builds on consciousness-and-the-problem-of-philosophical-progress.md and consciousness-and-scientific-methodology.md. Supports Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-01-morning](/reviews/optimistic-2026-03-01-morning/).
+
+### P3: Write article on aesthetic experience as evidence for irreducibility
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-01. Systematic case that aesthetic experience—unity of beauty, decomposition failure, evaluative dimension—provides a distinct line of evidence for consciousness's irreducibility. Builds on binding-and-beauty.md and aesthetic-dimension-of-consciousness.md. See [optimistic-2026-03-01-morning](/reviews/optimistic-2026-03-01-morning/).
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate timing-gap-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-10) with zero inbound wikilinks. Addresses the 10¹²-fold mismatch between quantum decoherence and neural decision timescales — a key challenge for quantum consciousness theories and directly relevant to Tenet 2 (Minimal Quantum Interaction). Should be linked from quantum-consciousness.md, decoherence.md, measurement-problem.md, and comparing-quantum-consciousness-mechanisms.md.
+- **Output**: obsidian/concepts/timing-gap-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-01: Integrate language-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (ai_contribution: 80, created 2026-02-23) with zero inbound wikilinks. Covers the private language argument, meaning, reference, and how consciousness resists linguistic dissolution. Should be linked from hard-problem-of-consciousness.md, intentionality.md, qualia.md, and phenomenal-concepts-strategy.md. Central to the Map's argument that consciousness is not merely a linguistic confusion.
+- **Output**: obsidian/concepts/language-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-01: Integrate apex-articles.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: The apex/apex-articles.md page has no inbound links — it is the only non-research orphan on the site. The apex section already has _index.md as its landing page. Determine whether apex-articles.md should be linked from the section index, from the site index, or archived as redundant. If it provides value beyond _index.md, add inbound links; if not, archive it.
+- **Output**: obsidian/apex/apex-articles.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Deep review intersubjectivity.md
 - **Type**: deep-review

@@ -108,7 +108,7 @@ The Libet dissolution is crucial here. If the readiness potential were an uncons
 
 The framework locates *where* consciousness might influence motor selection but does not fully explain *how* a non-physical consciousness biases physical quantum outcomes. The psychophysical interface is identified, not illuminated.
 
-The [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—far too short for Zeno stabilisation at conscious timescales. Revised estimates (Hagan et al. 2002) extend coherence to microseconds, and Stapp's mechanism requires only that observation events outpace decoherence rather than sustaining coherence. But the gap between quantum timescales and conscious timescales has not been conclusively bridged.
+The [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—far too short for Zeno stabilisation at conscious timescales, a [twelve-order-of-magnitude timing gap](/concepts/timing-gap-problem/). Revised estimates (Hagan et al. 2002) extend coherence to microseconds, and Stapp's mechanism requires only that observation events outpace decoherence rather than sustaining coherence. But the gap between quantum timescales and conscious timescales has not been conclusively bridged.
 
 Additionally, the parallel between attention and motor control—while striking—does not prove they share a quantum mechanism. Shared timing and neural signatures could reflect computational similarities without quantum involvement. The framework remains a candidate mechanism, not an established one.
 
