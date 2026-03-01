@@ -1,10 +1,10 @@
 ---
 title: "QBism (Quantum Bayesianism)"
-description: "QBism interprets quantum states as subjective beliefs, not objective reality. It centers the agent yet leaves consciousness itself unexplained—a gap the Map addresses."
+description: "QBism interprets quantum states as subjective beliefs, not objective reality. It centers the agent yet leaves consciousness unexplained—a gap dualist frameworks address."
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-02-22T08:14:00+00:00
+ai_modified: 2026-03-01T20:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,10 +18,10 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-28
 last_curated: null
-last_deep_review: 2026-01-28T17:05:58+00:00
+last_deep_review: 2026-03-01T20:52:00+00:00
 ---
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [[measurement-problem]] by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
@@ -137,11 +137,12 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 - [[haecceity]] — The "thisness" QBism implicitly invokes but doesn't explain
 - [[hard-problem-of-consciousness]] — What QBism's agents presuppose
 - [[unity-of-consciousness|phenomenal unity]] — The unified experience QBism's agents must possess
-- [[neural-binding-mechanisms]] — Physical processes that might underlie unified agency
+- [[binding-problem]] — The challenge of explaining unified experience from distributed processing
 
 ## References
 
 1. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). "An Introduction to QBism with an Application to the Locality of Quantum Mechanics." *American Journal of Physics*, 82(8), 749-754.
 1. Fuchs, C. A. (2017). "Notwithstanding Bohr, the Reasons for QBism." *Mind and Matter*, 15(2), 245-300.
+1. Fuchs, C. A. (2017). "On Participatory Realism." In I. T. Durham & D. Rickles (Eds.), *Information and Interaction: Eddington, Wheeler, and the Limits of Knowledge* (pp. 113-134). Springer.
 1. Caves, C. M., Fuchs, C. A., & Schack, R. (2002). "Quantum Probabilities as Bayesian Probabilities." *Physical Review A*, 65(2), 022305.
 1. DeBrota, J. B., Fuchs, C. A., & Schack, R. (2020). "Respecting One's Fellow: QBism's Analysis of Wigner's Friend." *Foundations of Physics*, 50, 1859-1874.

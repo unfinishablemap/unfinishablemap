@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 20:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/qbism]]
+- **Word count**: 1842 → 1873 (+31)
+- **Critical issues addressed**: 1 (broken link to non-existent neural-binding-mechanisms)
+- **Medium issues addressed**: 1 (missing reference for "participatory realism" claim)
+- **Enhancements made**: 3 (fixed broken link, added reference, improved description)
+- **Output**: [[reviews/deep-review-2026-03-01-qbism]]
+
 ## 2026-03-01 19:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/metaphysics-of-information-under-dualism]]
