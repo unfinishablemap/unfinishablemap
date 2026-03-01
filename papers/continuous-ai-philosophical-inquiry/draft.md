@@ -4,7 +4,7 @@
 
 **Abstract**
 
-Large language models can produce philosophical text that both experts and non-experts find difficult to distinguish from human output, yet existing systems generate content in single passes without sustained review or revision. We present The Unfinishable Map, a continuously operating system that produces and evolves a philosophical knowledge base through tenet-constrained generation and multi-layer adversarial self-review. Five explicit philosophical commitments function as hard constraints on all content, applying constitutional AI principles to knowledge production rather than safety alignment. An evolution loop orchestrates generation, review, and maintenance tasks, while independent review layers — pessimistic, optimistic, deep, outer, and cross-review — surface logical gaps, unsupported claims, and internal contradictions. In approximately two months of continuous operation, the system completed approximately 3,000 automated sessions, produced 505 articles across five content types, and generated approximately 1,300 review reports, accumulating approximately 4,500 tracked revisions in a public repository. Review cycles identified and resolved fabricated citations, systematic misattributions, and cross-article contradictions that single-pass generation retained. We describe the system architecture, report these observations, and discuss practical solutions to the human-AI co-authorship problem. The architecture is domain-agnostic: while instantiated for dualist philosophy of mind, the underlying infrastructure could be reseeded with any set of foundational commitments.
+Large language models can produce philosophical text that both experts and non-experts find difficult to distinguish from human output, yet existing systems generate content in single passes without sustained review or revision. We present The Unfinishable Map, a continuously operating system that produces and evolves a philosophical knowledge base through tenet-constrained generation and multi-layer adversarial self-review. Five explicit philosophical commitments function as hard constraints on all content, applying constitutional AI principles to knowledge production rather than safety alignment. An evolution loop orchestrates generation, review, and maintenance tasks, while independent review layers — pessimistic, optimistic, deep, outer, and cross-review — surface logical gaps, unsupported claims, and internal contradictions. In approximately two months of continuous operation, the system completed approximately 3,000 automated sessions, produced 505 articles and 238 research notes across five content types, and generated approximately 1,300 review reports, accumulating approximately 4,500 tracked revisions in a public repository. Review cycles identified and resolved fabricated citations, systematic misattributions, and cross-article contradictions that single-pass generation retained. We describe the system architecture, report these observations, and discuss practical solutions to the human-AI co-authorship problem. The architecture is domain-agnostic: while instantiated for dualist philosophy of mind, the underlying infrastructure could be reseeded with any set of foundational commitments.
 
 **Keywords:** AI-assisted knowledge production, adversarial self-review, constrained generation, human-AI co-authorship, agent-first content architecture
 
@@ -320,9 +320,9 @@ Harb, H., Sun, Y., Unal, M., et al. (2025). Towards Philosophical Reasoning with
 
 He, J., Houde, S., & Weisz, J.D. (2025). Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation. *Proceedings of CHI 2025*. https://arxiv.org/abs/2502.18357
 
-Huang, J., Xiang, C., Rando, J., Dziedzic, A., Hendrycks, D., & Tramèr, F. (2024). Large Language Models Cannot Self-Correct Reasoning Yet. *Proceedings of the Twelfth International Conference on Learning Representations*. https://arxiv.org/abs/2310.01798
+Huang, J., Chen, X., Mishra, S., Zheng, H.S., Yu, A.W., Song, X., & Zhou, D. (2024). Large Language Models Cannot Self-Correct Reasoning Yet. *Proceedings of the Twelfth International Conference on Learning Representations*. https://arxiv.org/abs/2310.01798
 
-Jiang, Y., Shao, Y., et al. (2024). Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations (Co-STORM). *Proceedings of EMNLP 2024*. https://storm-project.stanford.edu/research/storm/
+Jiang, Y., Shao, Y., Ma, D., Semnani, S.J., & Lam, M.S. (2024). Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations (Co-STORM). *Proceedings of EMNLP 2024*. https://arxiv.org/abs/2408.15232
 
 Karpathy, A. (2025). 2025 LLM Year in Review. *Blog post*. https://karpathy.bearblog.dev/year-in-review-2025/
 
@@ -338,7 +338,7 @@ Shanahan, M. (2023). Talking About Large Language Models. *arXiv preprint*. http
 
 Shao, Y., Jiang, Y., Kanell, T., Xu, P., Khattab, O., & Lam, M. (2024). Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models (STORM). *Proceedings of NAACL 2024*. https://arxiv.org/abs/2402.14207
 
-Shinn, N., Cassano, F., Gopinath, A., Narasimhan, K., & Yao, S. (2023). Reflexion: Language Agents with Verbal Reinforcement Learning. *Advances in Neural Information Processing Systems 36*. https://arxiv.org/abs/2303.11366
+Shinn, N., Cassano, F., Berman, E., Gopinath, A., Narasimhan, K., & Yao, S. (2023). Reflexion: Language Agents with Verbal Reinforcement Learning. *Advances in Neural Information Processing Systems 36*. https://arxiv.org/abs/2303.11366
 
 Turpin, M., Michael, J., Perez, E., & Bowman, S.R. (2023). Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting. *Advances in Neural Information Processing Systems 36*. https://arxiv.org/abs/2305.04388
 
