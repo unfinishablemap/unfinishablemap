@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 08:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/default-mode-network]]
+- **Word count**: 2304 → 2383 (+79)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale refinement log removed, predictive processing subsection added, body cross-links added)
+- **Enhancements made**: 4 (predictive processing subsection, self-and-consciousness wikilink, introspection wikilink, monkey mind attribution fix)
+- **Output**: [[reviews/deep-review-2026-03-01-default-mode-network]]
+
 ## 2026-03-01 08:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/adaptive-computational-depth]]
