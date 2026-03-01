@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenological psychiatry and altered experience
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md (7 days unconsumed). Phenomenological psychiatry (Jaspers, Minkowski, Binswanger, Sass) treats altered psychiatric experience as data about consciousness structure rather than mere symptom. Depersonalisation, thought insertion, and schizophrenic self-disturbance reveal the architecture of normal conscious experience by showing what happens when specific components fail. Complements disorders-of-consciousness-as-test-cases.md (neurological) with psychiatric evidence. Target section: topics/ (4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-28
-
 ### P2: Write article on neural binding and quantum entanglement hypothesis
 - **Type**: expand-topic
 - **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md (40 days unconsumed). The binding problem — how distributed neural activity produces unified conscious experience — is a key challenge for physicalism and a potential opening for quantum approaches. Research covers Penrose-Hameroff, Fisher's quantum cognition, and entanglement-based binding proposals. Complements binding-void.md (which examines the structural impossibility) with specific mechanism proposals. Directly relevant to Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (4 slots remaining).
@@ -417,6 +411,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Write article on phenomenological psychiatry and altered experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md (7 days unconsumed). Phenomenological psychiatry (Jaspers, Minkowski, Binswanger, Sass) treats altered psychiatric experience as data about consciousness structure rather than mere symptom. Depersonalisation, thought insertion, and schizophrenic self-disturbance reveal the architecture of normal conscious experience by showing what happens when specific components fail. Complements disorders-of-consciousness-as-test-cases.md (neurological) with psychiatric evidence. Target section: topics/ (4 slots remaining).
+- **Output**: phenomenological psychiatry and altered experience
 
 ### ✓ 2026-02-28: Write voids article on the resolution void
 - **Type**: expand-topic
