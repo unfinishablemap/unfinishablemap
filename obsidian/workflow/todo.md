@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review bandwidth-problem-mental-causation.md considering resolution-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/resolution-void.md (2026-02-28) formalises how consciousness operates at characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits/sec yet conscious thought processes roughly 10 bits/sec. concepts/bandwidth-problem-mental-causation.md asks how a 10-bit/sec conscious channel produces specific behaviour, and the resolution void's empirical measurements of the 6-order-of-magnitude compression would strengthen the bandwidth article's hierarchical selection argument. Check for cross-links and complementary evidence.
-- **Source**: chain (from resolution-void.md)
-- **Generated**: 2026-02-28
-
 ### P2: Cross-review interactionist-dualism.md considering amplification-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/amplification-void.md (2026-02-28) argues that the causal interface's opacity is structurally necessary — if amplification were traceable, the interaction would be detectable, violating the minimality that defines it. concepts/interactionist-dualism.md discusses mental causation and the conservation objection; the amplification void explains why quantum solutions must operate through multi-scale opacity and reframes the interaction problem as a feature rather than a bug. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
@@ -423,6 +417,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review bandwidth-problem-mental-causation.md considering resolution-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/resolution-void.md (2026-02-28) formalises how consciousness operates at characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits/sec yet conscious thought processes roughly 10 bits/sec. concepts/bandwidth-problem-mental-causation.md asks how a 10-bit/sec conscious channel produces specific behaviour, and the resolution void's empirical measurements of the 6-order-of-magnitude compression would strengthen the bandwidth article's hierarchical selection argument. Check for cross-links and complementary evidence.
+- **Output**: obsidian/concepts/bandwidth-problem-mental-causation.md -- Context: Cross-review bandwidth-problem-mental-causation.md considering resolution-void insights
 
 ### ✓ 2026-03-01: Cross-review quantum-consciousness.md considering amplification-void insights
 - **Type**: cross-review
