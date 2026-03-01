@@ -39,6 +39,7 @@ related_articles:
 - '[[arguments/functionalism-argument]]'
 - '[[arguments-against-materialism]]'
 - '[[consciousness-and-the-philosophy-of-biology]]'
+- '[[metaphysics-of-information-under-dualism]]'
 title: Functionalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -79,7 +80,7 @@ The COGITATE experiment (Melloni et al., 2023-2024)—the largest adversarial co
 
 [Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) explicitly rejects functionalism—not from a dualist perspective, but from within [physicalism](/concepts/materialism/). IIT holds that consciousness depends on *how* a system is physically organized, not just what function it computes. Two systems performing identical functions could have different integrated information (Φ) depending on their architecture: a feed-forward network processes information without integration, while a recurrent network with the same input-output function might have high Φ.
 
-This matters because it shows rejecting functionalism isn't merely a dualist move. The Map and IIT agree that substrate matters, though they disagree on *why*: IIT claims consciousness is identical to integrated physical structure, while the Map holds that the right physical structure enables non-physical consciousness to interact with the brain. Both reject the functionalist claim that only causal roles matter.
+This matters because it shows rejecting functionalism isn't merely a dualist move. The Map and IIT agree that substrate matters, though they disagree on *why*: IIT claims consciousness is identical to integrated physical structure, while the Map holds that the right physical structure enables non-physical consciousness to interact with the brain. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) develops this reasoning: the physical aspect of information may be substrate-independent, but the phenomenal aspect depends on the specific mind-matter interface. Both reject the functionalist claim that only causal roles matter.
 
 ## Functionalism and AI
 
@@ -197,6 +198,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [mental-causation](/concepts/mental-causation/) — How consciousness might influence physics
 - [causal-closure](/concepts/causal-closure/) — The assumption functionalism inherits from materialism
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory that partially rejects functionalism
+- [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information's substrate independence doesn't extend to consciousness
 - [tenets](/tenets/) — Why the Map rejects the functionalist view
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-22 03:30:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: How the felt character of being in a place—atmosphere, familiarit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 03:30:00+00:00
+last_deep_review: 2026-03-01 21:52:00+00:00
 modified: *id001
 related_articles:
 - '[[embodiment-cognitive-limits]]'
@@ -101,6 +101,18 @@ The **bidirectional interaction** tenet connects to how consciousness shapes its
 The **Occam's Razor has limits** tenet applies to reductive accounts of place-experience. The functionalist claim that atmosphere is "just" multi-modal integration plus affective tagging achieves simplicity at the cost of explanatory adequacy. The qualitative specificity and biographical dependence of place-experience suggest that the simpler account is incomplete.
 
 Place-experience also presents a challenge the Map should acknowledge: it emphasises the *situatedness* of consciousness in ways that sit uneasily with any dualism that imagines mind as fundamentally separate from body and world. The Map's response is that irreducibility does not require separability. Consciousness may be ontologically distinct from the physical while being phenomenologically inseparable from embodied, placed existence.
+
+## What Would Challenge This View?
+
+The irreducibility claim for place-experience would face difficulty if:
+
+- **Atmospheric quality proved functionally predictable.** If a computational model could predict the specific felt character a subject would experience in a new place — not just positive/negative valence but the particular atmospheric quality — from physical measurements and biographical data, the claim that atmosphere exceeds functional description would weaken.
+
+- **Integration metrics captured qualitative specificity.** Two rooms with equal integration may differ completely in atmosphere. If a refined measure predicted *which* quality obtains, not just *how much* integration, the gap between function and phenomenology would narrow.
+
+- **Uncanny familiarity proved fully explicable neurally.** If neuroscience explained not just *when* déjà vu and Unheimlichkeit occur but *why they have the specific phenomenal character they do*, the explanatory gap for place-experience would shrink.
+
+- **Place-experience decomposed into components.** If empirical work showed that atmospheric quality is fully decomposable into weighted sensory and affective components — and that subjects cannot distinguish genuine atmosphere from artificially constructed composites — the gestalt claim would be undermined.
 
 ## Further Reading
 

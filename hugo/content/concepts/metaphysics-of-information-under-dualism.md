@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-25 22:12:00+00:00
+ai_modified: 2026-03-01 19:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,8 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[qualia]]'
 - '[[panpsychism]]'
+- '[[intentionality]]'
+- '[[symbol-grounding-problem]]'
 created: 2026-02-23
 date: &id001 2026-02-23
 description: What is information's ontological status when mind and matter are genuinely
@@ -20,7 +22,7 @@ description: What is information's ontological status when mind and matter are g
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 23:53:00+00:00
+last_deep_review: 2026-03-01 19:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +83,7 @@ This preserves genuine dualism (mind and matter remain distinct) while explainin
 
 The deepest challenge for any metaphysics of information under dualism is the gap between syntax and semantics. Physical information is syntactic—it concerns patterns, correlations, and distinguishability without inherent meaning. Phenomenal experience is semantic—it carries meaning, relevance, and qualitative significance.
 
-Under physicalism, this gap is supposed to dissolve: meaning emerges from computational complexity, and semantics reduces to sufficiently elaborate syntax. But this is precisely what the [hard problem](/topics/hard-problem-of-consciousness/) shows cannot work. No amount of syntactic complexity explains why a pattern *means* something to the system processing it. A sufficiently complex thermostat processes information with great syntactic sophistication. It does not *understand* temperature.
+Under physicalism, this gap is supposed to dissolve: meaning emerges from computational complexity, and semantics reduces to sufficiently elaborate syntax. But this is precisely what the [hard problem](/topics/hard-problem-of-consciousness/) shows cannot work. No amount of syntactic complexity explains why a pattern *means* something to the system processing it. A sufficiently complex thermostat processes information with great syntactic sophistication. It does not *understand* temperature. This is the [symbol-grounding-problem](/concepts/symbol-grounding-problem/) in informational terms: physical processing provides syntax without semantics. [Genuine aboutness](/concepts/intentionality/)—the directedness of thought toward its object—requires the phenomenal dimension that consciousness alone supplies.
 
 Dualism takes this gap seriously. Physical information is syntactic; consciousness supplies semantics. The brain processes patterns; the mind grasps meanings. This division has a natural consequence: the causal role of consciousness is precisely to bring semantic content to bear on physical processes. When you choose to raise your arm because the situation *means* something to you, consciousness is injecting semantic relevance into a physical causal chain that, left to itself, operates only syntactically.
 

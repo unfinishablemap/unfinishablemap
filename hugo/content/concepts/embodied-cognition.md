@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 11:00:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -197,6 +197,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes consciousness's engagement with matter
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of embodied cognition with consciousness science
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Embodied spatial engagement and the atmosphere of places
 
 ## References
 

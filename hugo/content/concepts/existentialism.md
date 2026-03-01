@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-02-25 15:22:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -74,7 +74,7 @@ Heidegger's existential analytic reveals structures of Dasein that resist reduct
 
 **Understanding and projection**: Dasein always exists ahead of itself, projecting possibilities. Understanding is not representing facts but grasping how things matter for future action. This temporal structure—being toward possibilities not yet actual—cannot be captured in any present-state description.
 
-**Mood (Stimmung)**: Every experience is attuned—colored by a mood that discloses how things matter. Anxiety, boredom, wonder are not subjective colorings added to objective perception but ways of being disclosed to the world. Mood is not inside the head; it is how the world shows up.
+**Mood (Stimmung)**: Every experience is attuned—colored by a mood that discloses how things matter. Anxiety, boredom, wonder are not subjective colorings added to objective perception but ways of being disclosed to the world. Mood is not inside the head; it is how the world shows up. The [phenomenology of place](/topics/consciousness-and-the-phenomenology-of-place/) develops this: a cathedral's solemnity and a ruin's desolation are mood spatially instantiated.
 
 ### Why Dasein Resists Reduction
 
@@ -179,6 +179,7 @@ The existentialist-dualist alignment would face difficulty if:
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self and consciousness
 - [The Ownership Void](/voids/ownership-void/) — Why mineness hides from the subject who bears it
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How dwelling, mood, and being-in-the-world manifest in the felt character of places
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

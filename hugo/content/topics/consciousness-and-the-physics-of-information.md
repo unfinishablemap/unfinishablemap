@@ -30,6 +30,7 @@ related_articles:
 - '[[the-interface-specification-problem]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[conservation-laws-and-mind]]'
+- '[[metaphysics-of-information-under-dualism]]'
 title: Consciousness and the Physics of Information
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -73,7 +74,7 @@ The Map's concern with information physicalism is that it dissolves the hard pro
 
 ### Information Dualism
 
-Chalmers's double-aspect approach treats information as the bridge between physical and phenomenal—a neutral ground from which both aspects emerge. This avoids identifying consciousness with physical structure while still giving it a place in nature's furniture.
+Chalmers's double-aspect approach treats information as the bridge between physical and phenomenal—a neutral ground from which both aspects emerge. This avoids identifying consciousness with physical structure while still giving it a place in nature's furniture. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) examines all four options for information's ontological status and argues that Chalmers's neutral ground, while attractive, collapses into panpsychism without a principled scope constraint.
 
 The difficulty is specifying which information has phenomenal character. If all physically realised information has an experiential aspect, the position collapses into panpsychism—thermostats experience, rocks experience, electrons experience. If only some information has phenomenal character, what distinguishes the conscious from the non-conscious? The answer cannot appeal to physical structure alone, or the position reduces back to physicalism. Some additional principle is needed, and Chalmers acknowledged this remains unresolved.
 
@@ -124,6 +125,7 @@ The **No Many Worlds** tenet connects directly. Many-worlds avoids collapse by t
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
+- [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The ontological status of information under dualist metaphysics
 
 ## References
 

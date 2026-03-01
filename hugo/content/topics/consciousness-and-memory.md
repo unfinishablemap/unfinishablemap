@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-02-24 15:57:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -170,6 +170,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [dream-consciousness](/topics/dream-consciousness/)
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/)
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
 
 ## References
 

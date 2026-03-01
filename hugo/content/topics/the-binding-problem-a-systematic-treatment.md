@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-02-17 17:12:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -75,7 +75,7 @@ Different sensory modalities process information in spatially separate cortical 
 
 **BP1 progress**: Superior colliculus multisensory neurons receive converging inputs from visual, auditory, and somatosensory pathways, showing supralinear responses to spatiotemporally congruent stimuli. The thalamus coordinates oscillatory activity across cortical regions. Global Workspace Theory proposes that sensory information binds through broadcasting to a shared cortical-thalamic system within a ~100ms integration window.
 
-**BP2 gap**: Cross-modal binding makes the [explanatory-gap](/concepts/explanatory-gap/) maximally stark. Different modalities don't just process in different locations — they use fundamentally different representational formats. The qualitative character of visual experience differs in kind from auditory experience. How does the brain create a single experience encompassing both colour and sound? Convergence zones explain information routing; they do not explain why information from incommensurable modalities produces unified phenomenology.
+**BP2 gap**: Cross-modal binding makes the [explanatory-gap](/concepts/explanatory-gap/) maximally stark. Different modalities don't just process in different locations — they use fundamentally different representational formats. The qualitative character of visual experience differs in kind from auditory experience. How does the brain create a single experience encompassing both colour and sound? Convergence zones explain information routing; they do not explain why information from incommensurable modalities produces unified phenomenology. The [atmospheric character of places](/topics/consciousness-and-the-phenomenology-of-place/) presents cross-modal binding at its most integrative: visual, auditory, olfactory, tactile, and evaluative dimensions fuse into a single felt quality that resists decomposition into its sensory sources.
 
 ### 3. Temporal Binding {#temporal}
 

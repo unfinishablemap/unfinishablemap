@@ -29,6 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[symbol-grounding-problem-2026-01-30]]'
+- '[[metaphysics-of-information-under-dualism]]'
 title: Symbol Grounding Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -120,7 +121,7 @@ More fundamentally, embodiment might provide *necessary* but not *sufficient* co
 
 The symbol grounding problem's persistence is informative. Fifty years after early AI, forty years after Searle's Chinese Room, thirty-five years after Harnad's formulation, no consensus solution exists. Robotics experiments achieve behavioral grounding without settling the philosophical question. LLMs demonstrate that linguistic competence doesn't require sensorimotor grounding. Embodied cognition faces challenges with abstract concepts.
 
-The pattern suggests that something is missing from purely physical and computational accounts. Functional grounding—reliable causal connections between internal states and environmental features—proves achievable. Intrinsic meaning—symbols that mean something *for* the system manipulating them—remains elusive.
+The pattern suggests that something is missing from purely physical and computational accounts. Functional grounding—reliable causal connections between internal states and environmental features—proves achievable. Intrinsic meaning—symbols that mean something *for* the system manipulating them—remains elusive. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) explains why: physical information is purely syntactic, and no amount of syntactic complexity generates the semantic content that intrinsic meaning requires.
 
 The Map's framework offers an explanation: intrinsic meaning requires phenomenal consciousness, and phenomenal consciousness is not reducible to physical processes. The symbol grounding problem is not a technical challenge awaiting better engineering; it is a conceptual limitation revealing that meaning requires experience.
 
@@ -156,6 +157,7 @@ The symbol grounding problem connects to all five tenets:
 - [llm-consciousness](/concepts/llm-consciousness/) — Large language models and the question of understanding
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap meaning inherits
+- [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why physical information cannot generate intrinsic meaning
 - [symbol-grounding-problem-2026-01-30](/research/symbol-grounding-problem-2026-01-30/) — Research notes on this topic
 
 ## References

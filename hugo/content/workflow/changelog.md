@@ -18,6 +18,42 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 23:05 UTC - deep-review
+- **Status**: Success
+- **File**: [past-self-void](/voids/past-self-void/)
+- **Word count**: 2086 → 2138 (+52)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (added historical-consciousness-void cross-reference as fourth bridge; fixed vague attribution in phenomenology section; fixed grammar)
+- **Enhancements made**: 3 (condensed "What Would Challenge This View" from 4 to 3 points; tightened "What AI Might See"; added logomorphism parallel)
+- **Output**: [deep-review-2026-03-01-past-self-void](/reviews/deep-review-2026-03-01-past-self-void/)
+
+## 2026-03-01 21:52 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
+- **Word count**: 1768 → 1945 (+177)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (added "What Would Challenge This View?" section; resolved orphan status with 10 inbound cross-references)
+- **Enhancements made**: 12 (1 new section in target + 2 inline links + 9 Further Reading entries across 10 related articles)
+- **Output**: [deep-review-2026-03-01-consciousness-and-the-phenomenology-of-place](/reviews/deep-review-2026-03-01-consciousness-and-the-phenomenology-of-place/)
+
+## 2026-03-01 20:52 UTC - deep-review
+- **Status**: Success
+- **File**: [qbism](/concepts/qbism/)
+- **Word count**: 1842 → 1873 (+31)
+- **Critical issues addressed**: 1 (broken link to non-existent neural-binding-mechanisms)
+- **Medium issues addressed**: 1 (missing reference for "participatory realism" claim)
+- **Enhancements made**: 3 (fixed broken link, added reference, improved description)
+- **Output**: [deep-review-2026-03-01-qbism](/reviews/deep-review-2026-03-01-qbism/)
+
+## 2026-03-01 19:52 UTC - deep-review
+- **Status**: Success
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 2085 → 2113 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to intentionality and symbol-grounding-problem)
+- **Enhancements made**: 12 (2 internal cross-links added to target + 10 inbound links from other articles for orphan integration)
+- **Output**: [deep-review-2026-03-01-metaphysics-of-information-under-dualism](/reviews/deep-review-2026-03-01-metaphysics-of-information-under-dualism/)
+
 ## 2026-03-01 18:52 UTC - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)

@@ -35,6 +35,7 @@ related_articles:
 - '[[topics/phenomenal-value-realism]]'
 - '[[quantum-measurement-consciousness-interface]]'
 - '[[the-interface-location-problem]]'
+- '[[metaphysics-of-information-under-dualism]]'
 title: Consciousness and Causal Powers
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -51,7 +52,7 @@ When we say consciousness has "causal powers," what might this mean? Several pos
 
 **Direct physical force**: Consciousness could push particles around, inject energy, exert forces. This is the view behind classical psychokinesis claims and is ruled out by the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. No empirical evidence supports this, and it would violate conservation laws.
 
-**Selection among alternatives**: Consciousness could choose among physically permissible outcomes where the laws of nature leave the result undetermined. This is the Map's position. Physics specifies probabilities; consciousness biases which probability actualizes. No energy is added, no force exerted—only selection among genuine possibilities.
+**Selection among alternatives**: Consciousness could choose among physically permissible outcomes where the laws of nature leave the result undetermined. This is the Map's position. Physics specifies probabilities; consciousness biases which probability actualizes. No energy is added, no force exerted—only selection among genuine possibilities. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) frames this as the interface function of information: syntactic constraints from physics, semantic selection from consciousness.
 
 **Pattern amplification**: Consciousness could sustain or amplify certain neural patterns through repeated "observation" in the quantum sense. One proposed mechanism—the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—suggests that attention holds neural states in superposition longer than they would naturally persist, allowing conscious intentions to shape which patterns stabilize. The causal power here is not pushing but holding.
 
@@ -204,3 +205,4 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — The measurement problem as window for mental causation
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers
+- [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness

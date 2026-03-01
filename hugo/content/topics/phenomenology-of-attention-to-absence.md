@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -109,6 +109,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is implicated becau
 - [intentionality](/concepts/intentionality/) — The directedness of consciousness toward objects
 - [phenomenal-intentionality](/concepts/intentionality/) — Why intentionality toward absent objects requires phenomenal character
 - [protention](/concepts/protention/) — Husserl's forward-directed structure of present experience
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How places are partly constituted by what is missing from them
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its limits
 
 ## References

@@ -35,6 +35,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[ai-machine-consciousness-2026-01-08]]'
+- '[[metaphysics-of-information-under-dualism]]'
 title: Substrate Independence
 topics:
 - '[[ai-consciousness]]'
@@ -80,7 +81,7 @@ Substrate independence has consequences for how we understand ourselves and how 
 
 Proponents offer several considerations:
 
-**The generality of function**: Information processing abstracts away from physical implementation. A Turing machine computes the same function whether implemented with gears, vacuum tubes, or quantum effects. If consciousness is computation, it inherits this abstraction.
+**The generality of function**: Information processing abstracts away from physical implementation. A Turing machine computes the same function whether implemented with gears, vacuum tubes, or quantum effects. If consciousness is computation, it inherits this abstraction. But the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) argues that the physical aspect of information may be substrate-independent while the phenomenal aspect is tied to the specific mind-matter interface—so substrate independence for computation does not entail substrate independence for consciousness.
 
 **Evolutionary convergence**: Different evolutionary lineages have developed similar cognitive capacities through different neural architectures. Consciousness might similarly be achievable through diverse implementations.
 
@@ -216,6 +217,7 @@ The overall framework provides resources for confident skepticism about current 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling
 - [machine-consciousness](/topics/machine-consciousness/) — Mind uploading and substrate transfer
 - [emergence](/concepts/emergence/) — Strong vs. weak emergence and consciousness
+- [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information's substrate independence doesn't extend to consciousness under dualism
 
 ## References
 

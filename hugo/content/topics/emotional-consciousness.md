@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-04 05:50:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -194,6 +194,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — How we know others are conscious
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How mood and atmosphere co-constitute place-experience
 - [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/) — Research notes on emotions and valence
 
 ### Apex Synthesis

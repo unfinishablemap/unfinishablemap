@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 00:51:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -195,6 +195,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Sleep as dissociation between BP1 and BP2
 - [illusionism](/concepts/illusionism/) — The view that phenomenal unity is illusory
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Atmospheric binding as a paradigm case of cross-modal phenomenal unity
 
 ## References
 

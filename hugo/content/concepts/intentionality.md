@@ -33,6 +33,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[intentionality-consciousness-2026-01-14]]'
+- '[[metaphysics-of-information-under-dualism]]'
 title: Intentionality
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -74,7 +75,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 **Teleosemantic theories** (Millikan) appeal to biological function: a representation is about what it was selected to track. But evolution selects for survival-relevant responses, not determinate contents. A frog's fly-detector needn't represent *flies* rather than *small dark moving things*—either content explains the selected behaviour.
 
-**Informational theories** encounter the problem that mere correlation isn't representation. A tree ring carries information about annual rainfall, but doesn't *represent* rainfall—it's not *about* anything.
+**Informational theories** encounter the problem that mere correlation isn't representation. A tree ring carries information about annual rainfall, but doesn't *represent* rainfall—it's not *about* anything. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) sharpens this: physical information is purely syntactic, and syntax alone cannot generate the semantic directedness that intentionality requires.
 
 **Functional role theories** define content by inferential relations. But these relations are themselves open to multiple content-interpretations. The network of functional roles underdetermines which specific contents populate it.
 
@@ -259,6 +260,7 @@ Intentionality connects to all five foundational tenets:
 - [intentionality-void](/voids/intentionality-void/) — Why the mechanism of reference is structurally hidden from consciousness
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals consciousness's irreducibility
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's methodological alternative and its limitations
+- [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why physical information is syntactic and consciousness supplies semantics
 - [intentionality-consciousness-2026-01-14](/research/intentionality-consciousness-2026-01-14/) — Research notes on this topic
 
 ## References

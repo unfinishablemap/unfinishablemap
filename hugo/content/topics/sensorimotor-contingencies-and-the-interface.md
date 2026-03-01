@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-01 11:00:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -126,6 +126,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Bidirectional evidence from skilled performance breakdown
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — How sensorimotor contingencies relate to prediction error and precision weighting
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Place-experience as the ultimate multi-modal sensorimotor integration
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the interface's grammar may be all we can map
 
 ## References

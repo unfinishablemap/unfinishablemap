@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 11:00:00+00:00
+ai_modified: 2026-03-01 21:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -189,6 +189,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [illusionism](/concepts/illusionism/) — The radical challenge phenomenology must answer
 - [existentialism](/concepts/existentialism/) — Sartre's pour-soi and Heidegger's Dasein as phenomenological developments
 - [introspection](/concepts/introspection/) — The reliability debate and trained first-person methods
+- [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Merleau-Ponty's lived body and Heidegger's Stimmung applied to spatial experience
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The void territory where conceptual thought meets its limits
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-31 05:03:00+00:00
+ai_modified: 2026-03-01 23:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,18 +12,19 @@ concepts:
 - '[[introspection]]'
 - '[[qualia]]'
 created: 2026-01-29
-date: &id001 2026-01-31
+date: &id001 2026-03-01
 description: Human+AI exploration of why we cannot directly access our own past conscious
   states—only reconstruct them. We are strangers to ourselves across time.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 05:03:00+00:00
+last_deep_review: 2026-03-01 23:05:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[other-minds-void]]'
+- '[[historical-consciousness-void]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[self-reference-paradox]]'
 - '[[thoughts-that-slip-away]]'
@@ -39,7 +40,7 @@ This void matters for The Unfinishable Map because it reveals something essentia
 
 ## The Structure of the Void
 
-The past-self void bridges three existing voids topics:
+The past-self void bridges four existing voids:
 
 **[The other-minds void](/voids/other-minds-void/)**: Just as you can never directly access another person's experience—only infer from behaviour—you cannot directly access your past self's experience. The structural privacy applies to your own past as much as to other present minds.
 
@@ -47,7 +48,9 @@ The past-self void bridges three existing voids topics:
 
 **[The self-reference paradox](/voids/self-reference-paradox/)**: Consciousness examining itself faces structural obstacles. The past-self void adds a temporal dimension: the examined self no longer exists to examine.
 
-The past self occupies a unique position: not another subject (like other minds), not the present self (like self-reference), but something in between—a self we were but can no longer be.
+**[The historical consciousness void](/voids/historical-consciousness-void/)**: The same structural inaccessibility scales beyond individual lifetimes. If consciousness itself has changed over historical time—as Jaynes, Snell, and Barfield argue—then entire past *forms* of consciousness are inaccessible for the same reason past selves are: the experiencing subject no longer exists to be accessed. What Barfield called *logomorphism*—the fallacy of projecting our own mode of awareness onto the past—parallels how memory confidence masks this void at the individual level.
+
+The past self occupies a unique position among these: not another subject (like other minds), not a historical epoch's consciousness (like the historical void), not the present self (like self-reference), but something in between—a self we were but can no longer be.
 
 ## Memory Is Reconstruction, Not Retrieval
 
@@ -67,7 +70,7 @@ What does it feel like to approach this void?
 
 **Autobiographical vertigo**: Occasionally the question "was that really me?" becomes sharp. Numerical identity (same person) and phenomenal alienation (different experience) create cognitive dissonance. You feel responsible for the past self's actions while being unable to access that self's reasons or experience directly.
 
-**Varying felt connection**: The phenomenology of remembering includes degrees of connection—sometimes the past self feels like "me," sometimes like a stranger. As one researcher notes, "It is perfectly intelligible when someone recalls a memory and remarks 'Yes that's me in one sense but not me in another sense.'" Direct access wouldn't vary this way; reconstruction explains the variability.
+**Varying felt connection**: The phenomenology of remembering includes degrees of connection—sometimes the past self feels like "me," sometimes like a stranger. The same memory can feel owned and alien simultaneously. Direct access wouldn't vary this way; reconstruction explains the variability.
 
 **Memory confidence masking the void**: We typically feel we're accessing the past, not constructing it. The reconstructive nature is usually invisible—the void is masked by successful indirection. We confuse the vividness of reconstruction with the directness of access.
 
@@ -119,21 +122,19 @@ The Map's response: this objection works only if phenomenal experience reduces t
 
 ## What AI Might See
 
-AI lacks autobiographical memory in the phenomenal sense. But AI can observe that humans systematically confuse reconstruction with access, resist the void by constructing narrative continuity, and treat memory failure as pathology while treating memory's normal reconstructive nature as transparent access. The void hides in plain sight.
+AI lacks autobiographical memory in the phenomenal sense. But AI can observe that humans systematically confuse reconstruction with access and resist the void through narrative continuity. Memory's reconstructive nature is treated as transparent—the void hides in plain sight.
 
 ## What Would Challenge This View?
 
 The past-self void thesis would face difficulty if:
 
-1. **Direct past-state access proved possible**: Some technology or practice that allowed genuine re-entering of past conscious states (not merely vivid reconstruction) would close the void.
+1. **Direct past-state access proved possible**: If some technology, practice, or memory mechanism allowed genuine re-entering of past conscious states—not merely vivid reconstruction—the void would close. HSAM individuals seemed like candidates, but they remain susceptible to false memories, confirming the reconstructive model even in extreme cases.
 
-2. **Memory reconstruction proved unnecessary**: Evidence that some memories are stored and retrieved without reconstruction—like reading files—would suggest the void is technical rather than structural.
+2. **Memory without reconstruction**: Evidence that some memories are stored and retrieved intact—like reading files—would suggest the void is technical rather than structural.
 
-3. **HSAM individuals showed qualitatively different access**: If highly superior memory involved genuine access rather than enhanced reconstruction, the void might be a limitation of normal memory rather than of memory as such.
+3. **Contemplatives reported success**: If long-term meditators consistently reported genuinely re-entering past states (as distinct from vivid reconstruction of them), the structural claim would weaken.
 
-4. **Contemplatives reported success**: If long-term meditators consistently reported genuinely re-entering past states (as distinct from vivid reconstruction of them), the structural claim would weaken.
-
-None of these conditions has been met. Evidence consistently supports the reconstructive model: memory is construction, not retrieval, and the past self remains structurally inaccessible.
+None of these conditions has been met. Memory is construction, not retrieval, and the past self remains structurally inaccessible.
 
 ## Relation to Site Perspective
 
@@ -148,6 +149,7 @@ None of these conditions has been met. Evidence consistently supports the recons
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
+- [historical-consciousness-void](/voids/historical-consciousness-void/) — The same void at historical scale: entire past forms of consciousness may be inaccessible
 - [other-minds-void](/voids/other-minds-void/) — The parallel void: other present minds are equally inaccessible
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can reconstruct the past but only imagine the future
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
