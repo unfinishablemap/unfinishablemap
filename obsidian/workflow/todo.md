@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-01T16:52:00+00:00
+ai_modified: 2026-03-01T22:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review past-self-void.md considering historical-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) examines whether consciousness itself has changed across historical epochs — a temporal version of Nagel's bat problem scaled to the species level. voids/past-self-void.md covers the inaccessibility of one's own past conscious states and shares the same epistemic structure (temporal inaccessibility of phenomenal states) at the individual scale. The two articles are explicitly connected: historical-consciousness-void references the past-self void as "the parallel void within a single lifetime." Check for cross-links and complementary analysis. Also helps de-orphan the new article.
+- **Source**: chain (from historical-consciousness-void.md)
+- **Generated**: 2026-03-01
+
+### P2: Cross-review other-minds-void.md considering historical-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) models itself as a temporal version of the other-minds problem, opening with "We face a temporal version of Nagel's bat problem." voids/other-minds-void.md covers the privacy of consciousness and inferential-only access to other minds. The historical consciousness void extends this to historical others whose mode of consciousness may have been structurally different from ours. Check for cross-links and argument reinforcement. Also helps de-orphan the new article.
+- **Source**: chain (from historical-consciousness-void.md)
+- **Generated**: 2026-03-01
+
+### P2: Integrate consciousness-and-the-problem-of-measurement-standards.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-19) on the challenge of establishing measurement standards for consciousness — relevant to the Map's epistemological framework and its treatment of why consciousness resists quantification. Add cross-references from related articles on consciousness measurement, neural correlates, and philosophical methodology.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-19) on how contemplative evidence converges across distinct traditions — directly relevant to the Map's use of cross-traditional phenomenological data as evidence for consciousness's nature. Add cross-references from contemplative-methods-as-philosophical-methodology.md, witness-consciousness.md, buddhism-and-dualism.md, and related contemplative articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Integrate value-blind-vs-value-sensitive-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-19) distinguishing value-blind selection mechanisms (physical, computational) from value-sensitive selection (conscious). Central to the Map's argument that consciousness contributes something evolution cannot achieve through mechanism alone. Add cross-references from attention-as-selection-interface.md, phenomenal-value-realism.md, emotion-as-evidence-for-dualism.md, and related articles on consciousness as selector.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
 
 ### P3: Deep review mental-effort.md
 - **Type**: deep-review
