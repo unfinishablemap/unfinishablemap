@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md considering amplification-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/amplification-void.md (2026-02-28) examines the structural impossibility of tracing how a quantum-scale nudge reaches macroscopic neural effect — spanning five orders of magnitude through chaotic, decoherence-prone layers. concepts/quantum-consciousness.md surveys candidate mechanisms (Orch OR, Stapp, Fisher) and should acknowledge that any viable mechanism must solve the amplification problem, not bypass it. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from amplification-void.md)
-- **Generated**: 2026-02-28
-
 ### P2: Cross-review bandwidth-problem-mental-causation.md considering resolution-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/resolution-void.md (2026-02-28) formalises how consciousness operates at characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits/sec yet conscious thought processes roughly 10 bits/sec. concepts/bandwidth-problem-mental-causation.md asks how a 10-bit/sec conscious channel produces specific behaviour, and the resolution void's empirical measurements of the 6-order-of-magnitude compression would strengthen the bandwidth article's hierarchical selection argument. Check for cross-links and complementary evidence.
@@ -405,6 +399,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review quantum-consciousness.md considering amplification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/amplification-void.md (2026-02-28) examines the structural impossibility of tracing how a quantum-scale nudge reaches macroscopic neural effect — spanning five orders of magnitude through chaotic, decoherence-prone layers. concepts/quantum-consciousness.md surveys candidate mechanisms (Orch OR, Stapp, Fisher) and should acknowledge that any viable mechanism must solve the amplification problem, not bypass it. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering amplification-void insights
 
 ### ✓ 2026-03-01: Cross-review binding-problem.md considering entanglement-binding-hypothesis insights
 - **Type**: cross-review
