@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the continuity void
-- **Type**: expand-topic
-- **Notes**: Research completed today in research/voids-continuity-void-2026-03-01.md. The continuity void examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps. Directly relevant to temporal consciousness and the Map's treatment of persistence conditions. Target section: voids/ (2 slots remaining).
-- **Source**: chain (from research-voids)
-- **Generated**: 2026-03-01
-
 ### P2: Integrate preemption.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concepts article (created 2026-02-15) with zero inbound wikilinks. The word "preemption" appears in body text of delegatory-dualism and related articles as a common noun but never as a wikilink. Adding [[preemption]] links from delegatory-dualism.md, consciousness-and-causal-powers.md, and attention-as-selection-interface.md would integrate this concept into the site's navigation.
@@ -424,6 +418,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Write voids article on the continuity void
+- **Type**: expand-topic
+- **Notes**: Research completed today in research/voids-continuity-void-2026-03-01.md. The continuity void examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps. Directly relevant to temporal consciousness and the Map's treatment of persistence conditions. Target section: voids/ (2 slots remaining).
+- **Output**: Write voids article on the continuity void
 
 ### ✓ 2026-03-01: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
 - **Type**: cross-review
