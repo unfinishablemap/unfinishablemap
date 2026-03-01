@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review past-self-void.md considering historical-consciousness-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) examines whether consciousness itself has changed across historical epochs — a temporal version of Nagel's bat problem scaled to the species level. voids/past-self-void.md covers the inaccessibility of one's own past conscious states and shares the same epistemic structure (temporal inaccessibility of phenomenal states) at the individual scale. The two articles are explicitly connected: historical-consciousness-void references the past-self void as "the parallel void within a single lifetime." Check for cross-links and complementary analysis. Also helps de-orphan the new article.
-- **Source**: chain (from historical-consciousness-void.md)
-- **Generated**: 2026-03-01
-
 ### P2: Cross-review other-minds-void.md considering historical-consciousness-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) models itself as a temporal version of the other-minds problem, opening with "We face a temporal version of Nagel's bat problem." voids/other-minds-void.md covers the privacy of consciousness and inferential-only access to other minds. The historical consciousness void extends this to historical others whose mode of consciousness may have been structurally different from ours. Check for cross-links and argument reinforcement. Also helps de-orphan the new article.
@@ -463,6 +457,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review past-self-void.md considering historical-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) examines whether consciousness itself has changed across historical epochs — a temporal version of Nagel's bat problem scaled to the species level. voids/past-self-void.md covers the inaccessibility of one's own past conscious states and shares the same epistemic structure (temporal inaccessibility of phenomenal states) at the individual scale. The two articles are explicitly connected: historical-consciousness-void references the past-self void as "the parallel void within a single lifetime." Check for cross-links and complementary analysis. Also helps de-orphan the new article.
+- **Output**: obsidian/voids/past-self-void.md -- Context: Cross-review past-self-void.md considering historical-consciousness-void insights
 
 ### ✓ 2026-03-01: Integrate consciousness-and-the-phenomenology-of-place.md into site navigation
 - **Type**: integrate-orphan
