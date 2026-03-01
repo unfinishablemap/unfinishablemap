@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Word count**: 3473 → 3317 (-156)
+- **Critical issues addressed**: 2 (wrong journal attribution for Georgiev 2024, broken wikilinks to coalesced article)
+- **Medium issues addressed**: 3 (stale AI refinement log, incomplete reference, length reduction)
+- **Enhancements made**: 2 (condensed Assessment section, trimmed Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-01-epiphenomenalism]]
+
 ## 2026-03-01 09:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/delegatory-dualism]]
