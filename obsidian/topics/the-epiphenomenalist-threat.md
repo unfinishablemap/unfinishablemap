@@ -119,7 +119,7 @@ This is not the only possible escape. But it illustrates what any escape require
 
 The quantum escape faces a serious empirical objection. [[decoherence|Decoherence]]—the decay of quantum superpositions through environmental interaction—occurs rapidly in warm biological systems. Max Tegmark's influential 2000 calculation estimated decoherence times in neural tissue at roughly 10⁻¹³ seconds, while neural decision-making operates on timescales of milliseconds. If quantum coherence vanishes orders of magnitude faster than neurons process information, the gap the Map exploits may close in practice even if it remains open in principle.
 
-The Map engages this challenge directly elsewhere (see [[decoherence|the decoherence article]] and [[quantum-decoherence-objection-responses|five structured responses]]). Three points are most relevant here.
+The Map engages this challenge directly elsewhere (see [[decoherence|the decoherence article]], which disaggregates the objection into three independent claims and surveys five responses). Three points are most relevant here.
 
 First, decoherence does not solve the [[measurement-problem|measurement problem]]. Even granting rapid decoherence, quantum mechanics does not explain why any *particular* outcome occurs rather than another. Decoherence selects preferred bases but does not select outcomes within those bases. The logical opening for consciousness at the point of outcome selection persists regardless of decoherence timescales—provided one rejects Many-Worlds, as the Map does.
 
@@ -166,8 +166,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[consciousness-and-causal-powers]] — What kind of causal influence consciousness exercises
 - [[concepts/functionalism]] — Why functional roles alone may not ground phenomenal causation
 - [[panpsychism]] — An alternative that faces its own version of the threat
-- [[decoherence]] — The decoherence objection to quantum consciousness: evidence and responses
-- [[quantum-decoherence-objection-responses]] — Five independent responses disaggregating the decoherence objection
+- [[decoherence]] — The decoherence objection to quantum consciousness: three claims, five responses, and the evidence
 - [[interactionist-dualism]] — The Map's positive framework
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires consciousness to be causally efficacious
 - [[the-case-for-dualism]] — The broader argument for taking consciousness as irreducible

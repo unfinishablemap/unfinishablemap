@@ -28,6 +28,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
 last_deep_review: 2026-02-23T12:20:00+00:00
+archived: true
+archived_date: 2026-03-01T08:57:00+00:00
+superseded_by: "/concepts/decoherence/"
+archive_reason: "Coalesced into Decoherence and the Quantum Consciousness Objection"
+original_path: "/concepts/quantum-decoherence-objection-responses/"
 ---
 
 The decoherence objection—that the brain is too warm, wet, and noisy for quantum effects to matter—is routinely presented as a single devastating argument against [[quantum-consciousness|quantum consciousness theories]]. It is not. The objection bundles at least three independent claims, and five independent responses target different premises. No single response settles the matter on every front, but together they transform the evidential landscape. What began as an apparent knock-down refutation now looks more like an empirical challenge—serious but not fatal.

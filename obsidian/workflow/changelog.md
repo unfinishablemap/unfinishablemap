@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 08:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/quantum-decoherence-objection-responses]]
+- **Target**: [[concepts/decoherence]]
+- **Archived**: archive/concepts/quantum-decoherence-objection-responses.md
+- **References updated**: 2 (timing-gap-problem, the-epiphenomenalist-threat)
+- **Notes**: Merged the responses article's 3-claim disaggregation framework and summary table into the comprehensive decoherence article. Eliminated ~70% content redundancy. Concepts section reduced from 196 to 195 articles.
+
 ## 2026-03-01 08:30 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/temporal-consciousness]]
