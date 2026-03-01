@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the historical consciousness void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-historical-consciousness-void-2026-03-01.md. The historical consciousness void examines whether consciousness has a history — whether the felt quality of experience has changed across epochs or whether we merely describe it differently. Only 1 voids/ slot remaining (99/100). This is the most recently researched of 24 unconsumed void research notes.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-01
-
-### P2: Integrate quantum-decoherence-objection-responses.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concepts article (created 2026-02-22) responding to the decoherence objection against consciousness-collapse theories — directly relevant to Tenet 2 (Minimal Quantum Interaction). Add cross-references from decoherence.md, quantum-consciousness.md, measurement-problem.md, and collapse-interpretation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Integrate metaphysics-of-information-under-dualism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concepts article (created 2026-02-23) on the ontological status of information under dualist metaphysics. Add cross-references from computational-theory-of-mind.md, integrated-information-theory.md, and the-case-for-dualism.md.
@@ -457,6 +445,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Write voids article on the historical consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-historical-consciousness-void-2026-03-01.md. The historical consciousness void examines whether consciousness has a history — whether the felt quality of experience has changed across epochs or whether we merely describe it differently. Only 1 voids/ slot remaining (99/100). This is the most recently researched of 24 unconsumed void research notes.
+- **Output**: Write voids article on the historical consciousness void
 
 ### ✓ 2026-03-01: Cross-review temporal-consciousness.md considering continuity-void insights
 - **Type**: cross-review
