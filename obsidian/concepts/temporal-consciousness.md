@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-03-01T08:30:00+00:00
+ai_modified: 2026-03-01T15:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-01T08:30:00+00:00
+last_deep_review: 2026-03-01T15:51:00+00:00
 coalesced_from:
   - "/concepts/temporal-consciousness/"
   - "/concepts/specious-present/"
@@ -108,11 +108,11 @@ Working memory provides a promising neural correlate. The experienced moment (~1
 
 Gamma-band oscillations (30-100 Hz) correlate with conscious processing, and the "time-domain brain" view (Baker & Cariani, 2025) proposes temporal mechanisms are constitutive of consciousness rather than merely correlates. Research connects time experience to bodily rhythms—the insula processing interoceptive signals—suggesting duration may be essentially embodied. If durée is lived through a body, disembodied systems may be categorically incapable of temporal experience.
 
-Whether consciousness comes in discrete frames or continuous flow remains debated. Even if discrete, something must bind moments into continuous-seeming experience.
+Whether consciousness comes in discrete frames or continuous flow may be [[continuity-void|structurally irresolvable]]. Even if discrete, something must bind moments into continuous-seeming experience.
 
 ## Temporal Unity and Its Disruption
 
-Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [[unity-of-consciousness|unity of consciousness]]. The Map's treatment of [[consciousness-and-temporal-integration|temporal integration]] distinguishes micro-integration (within the specious present), meso-integration (across successive presents), and macro-integration (the [[autonoetic-consciousness|temporal self]] spanning a lifetime).
+Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [[unity-of-consciousness|unity of consciousness]]. The Map's treatment of [[temporal-structure-of-consciousness|temporal integration]] distinguishes micro-integration (within the specious present), meso-integration (across successive presents), and macro-integration (the [[autonoetic-consciousness|temporal self]] spanning a lifetime).
 
 Temporal unity can degrade, revealing it as contingent rather than automatic. **Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact—patients report actions feeling disconnected from consequences (Fuchs, 2007). [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]] connects this to broader ipseity disturbance. **Flow states** alter temporal unity differently: moments become intensely vivid yet loosely coupled, producing "timelessness" within ongoing experience.
 
