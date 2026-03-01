@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 07:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/apex-articles]]
+- **Word count**: 1010 → 1125 (+115)
+- **Critical issues addressed**: 4 (incorrect source article slugs/sections)
+- **Medium issues addressed**: 5 (orphan integration, frontmatter cleanup, missing sections)
+- **Enhancements made**: 3 (enriched intro, cross-links, Relation to Site Perspective)
+- **Output**: [[reviews/deep-review-2026-03-01-apex-articles]]
+
 ## 2026-03-01 06:54 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/counterfactual-reasoning]]

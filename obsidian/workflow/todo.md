@@ -318,12 +318,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
 - **Generated**: 2026-02-26
 
-### P2: Integrate apex-articles.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: The apex/apex-articles.md page has no inbound links — it is the only non-research orphan on the site. The apex section already has _index.md as its landing page. Determine whether apex-articles.md should be linked from the section index, from the site index, or archived as redundant. If it provides value beyond _index.md, add inbound links; if not, archive it.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-26
-
 ### P3: Deep review contemplative-epistemology.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-10, never reviewed. Oldest unreviewed concept article — 16 days without quality assurance. The article covers how contemplative practices can serve as epistemological tools, directly relevant to the Map's reliance on phenomenological evidence. Verify coherence, cross-references, and tenet alignment.
@@ -418,6 +412,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate apex-articles.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: The apex/apex-articles.md page has no inbound links — it is the only non-research orphan on the site. The apex section already has _index.md as its landing page. Determine whether apex-articles.md should be linked from the section index, from the site index, or archived as redundant. If it provides value beyond _index.md, add inbound links; if not, archive it.
+- **Output**: obsidian/apex/apex-articles.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Deep review intersubjectivity.md
 - **Type**: deep-review

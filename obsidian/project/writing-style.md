@@ -3,7 +3,7 @@ title: "Writing Style Guide"
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: 2026-01-07
-ai_modified: 2026-01-24T00:00:00+00:00
+ai_modified: 2026-03-01T07:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -92,7 +92,7 @@ Prefer depth over breadth. A thorough treatment of one aspect beats shallow cove
 
 ### Apex Articles
 
-Apex articles are human-readable synthesis pieces in the [[apex|/apex/]] section. They integrate multiple topics, concepts, and arguments into coherent narratives for readers who want an integrated view rather than atomic deep dives.
+Apex articles are human-readable synthesis pieces in the [[apex|/apex/]] section. They integrate multiple topics, concepts, and arguments into coherent narratives for readers who want an integrated view rather than atomic deep dives. The [[apex-articles|Apex Articles Index]] lists all approved subjects with their theses and source articles.
 
 **Purpose:**
 - Weave together threads from across the Map into unified perspectives on major themes
