@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review intersubjectivity.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Intersubjectivity connects to the Map's treatment of consciousness as irreducibly first-personal yet sharable through empathy, testimony, and mutual recognition. Intersects with the problem of other minds and social cognition articles. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-01
-
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
@@ -394,6 +388,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Deep review intersubjectivity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Intersubjectivity connects to the Map's treatment of consciousness as irreducibly first-personal yet sharable through empathy, testimony, and mutual recognition. Intersects with the problem of other minds and social cognition articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/intersubjectivity.md
 
 ### ✓ 2026-03-01: Address gaps in continuity-void.md
 - **Type**: refine-draft
