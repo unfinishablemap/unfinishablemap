@@ -18,6 +18,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 18:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Changes**: Recalibrated terminal lucidity weight (anecdotal→suggestive puzzle), acknowledged filter theory unfalsifiability, signaled user/tool metaphor as interpretive framework, softened easy/hard mapping with counterexamples, qualified phenomenal claims throughout
+- **Published**: yes
+
+## 2026-03-01 17:55 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Output**: [pessimistic-2026-03-01-neurodegenerative](/reviews/pessimistic-2026-03-01-neurodegenerative/)
+- **Key findings**: 2 high-severity issues (anecdotal evidence bearing major argumentative weight; filter theory unfalsifiability), 2 medium-severity issues (question-begging user/tool metaphor; easy/hard problem mapping presented as observation). Task added to queue.
+
+## 2026-03-01 17:04 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Historical Consciousness Void
+- **Output**: [historical-consciousness-void](/voids/historical-consciousness-void/)
+- **Word count**: 1725
+- **Based on research**: yes, [voids-historical-consciousness-void-2026-03-01](/research/voids-historical-consciousness-void-2026-03-01/)
+
 ## 2026-03-01 15:51 UTC - deep-review
 - **Status**: Success
 - **File**: [temporal-consciousness](/concepts/temporal-consciousness/)

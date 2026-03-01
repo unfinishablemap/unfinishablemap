@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-25 21:26:00+00:00
+ai_modified: 2026-03-01 16:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate metaphysics-of-information-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article (created 2026-02-23) on the ontological status of information under dualist metaphysics. Add cross-references from computational-theory-of-mind.md, integrated-information-theory.md, and the-case-for-dualism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Integrate consciousness-and-the-phenomenology-of-place.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-19) on how conscious experience structures spatial awareness and the phenomenology of place. Add cross-references from embodied-cognition.md, phenomenology-of-perception.md, and related phenomenology articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P3: Deep review mental-effort.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. The most heavily cross-referenced AI-generated article on the site (88 inbound links). Covers Stapp's quantum Zeno mechanism for mental effort — a linchpin argument connecting consciousness to quantum mechanics. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Quality issues here propagate widely.
+- **Source**: staleness
+- **Generated**: 2026-03-01
+
+### P3: Deep review neuroplasticity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. Covers Schwartz's OCD research as evidence that consciousness shapes neural structure — a key empirical argument for bidirectional interaction. 27 inbound links. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: staleness
+- **Generated**: 2026-03-01
 
 ### P3: Research the metaproblem of consciousness under dualism
 - **Type**: research-topic
@@ -422,6 +446,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Address argumentative gaps in consciousness-and-neurodegenerative-disease.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) terminal lucidity evidence is largely anecdotal but bears disproportionate argumentative weight — needs recalibration; (2) filter theory as deployed may be unfalsifiable — needs explicit acknowledgment or testable predictions. Also: user/tool metaphor begs the question, and easy/hard problem mapping is presented as observation rather than interpretation. See pessimistic-2026-03-01-neurodegenerative.md
+- **Output**: obsidian/topics/consciousness-and-neurodegenerative-disease.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) terminal lucidity evidence is largely anecdotal but bears disproportionate argumentative weight — needs recalibration; (2) filter theory as deployed may be unfalsifiable — needs explicit acknowledgment or testable predictions. Also: user/tool metaphor begs the question, and easy/hard problem mapping is presented as observation rather than interpretation. See pessimistic-2026-03-01-neurodegenerative.md
+
+### ✓ 2026-03-01: Write voids article on the historical consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-historical-consciousness-void-2026-03-01.md. The historical consciousness void examines whether consciousness has a history — whether the felt quality of experience has changed across epochs or whether we merely describe it differently. Only 1 voids/ slot remaining (99/100). This is the most recently researched of 24 unconsumed void research notes.
+- **Output**: Write voids article on the historical consciousness void
 
 ### ✓ 2026-03-01: Cross-review temporal-consciousness.md considering continuity-void insights
 - **Type**: cross-review

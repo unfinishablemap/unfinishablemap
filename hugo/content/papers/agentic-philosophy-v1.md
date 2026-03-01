@@ -9,7 +9,7 @@ created: 2026-03-01
 date: &id001 2026-03-01
 description: Version 1 of the paper describing The Unfinishable Map's architecture
   for tenet-constrained philosophical knowledge production with adversarial self-review.
-draft: true
+draft: false
 human_modified: 2026-03-01
 last_curated: null
 modified: *id001
