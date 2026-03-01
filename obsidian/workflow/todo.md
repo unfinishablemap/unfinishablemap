@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address argumentative gaps in consciousness-and-neurodegenerative-disease.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) terminal lucidity evidence is largely anecdotal but bears disproportionate argumentative weight — needs recalibration; (2) filter theory as deployed may be unfalsifiable — needs explicit acknowledgment or testable predictions. Also: user/tool metaphor begs the question, and easy/hard problem mapping is presented as observation rather than interpretation. See pessimistic-2026-03-01-neurodegenerative.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-01
+
 ### P2: Integrate metaphysics-of-information-under-dualism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concepts article (created 2026-02-23) on the ontological status of information under dualist metaphysics. Add cross-references from computational-theory-of-mind.md, integrated-information-theory.md, and the-case-for-dualism.md.
