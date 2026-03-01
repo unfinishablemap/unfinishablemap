@@ -26,6 +26,7 @@ related_articles:
   - "[[predictive-processing-and-the-maps-framework]]"
   - "[[cognitive-integration-and-the-self]]"
   - "[[phenomenal-binding-and-holism]]"
+  - "[[metaphysics-of-information-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -47,7 +48,7 @@ The importance of integration for consciousness is not controversial. Every majo
 
 The disagreement is not about whether integration matters but about *what kind of thing integration is* and *what role it plays*.
 
-IIT treats integration as constitutive: wherever integrated information (Φ) exists, consciousness exists. The relationship is identity. This is the claim the Map rejects—not because integration is unimportant, but because identity claims leave consciousness with nothing to *do*. If consciousness just *is* the integrated structure, it cannot additionally act on that structure. The [[integrated-information-theory-critique|passivity problem]] follows directly.
+IIT treats integration as constitutive: wherever integrated information (Φ) exists, consciousness exists. The relationship is identity. This is the claim the Map rejects—not because integration is unimportant, but because identity claims leave consciousness with nothing to *do*. As the [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] argues, information cannot *be* consciousness if dualism is true—Φ may correlate with or enable consciousness, but the identification is a category error. If consciousness just *is* the integrated structure, it cannot additionally act on that structure. The [[integrated-information-theory-critique|passivity problem]] follows directly.
 
 ## Alternative Frameworks
 
@@ -129,6 +130,7 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 - [[phenomenal-binding-and-holism]] — Binding as a phenomenal rather than physical achievement
 - [[cognitive-integration-and-the-self]] — How integration constitutes the unified self
 - [[binding-problem]] — The puzzle of how distributed processing yields unified experience
+- [[metaphysics-of-information-under-dualism]] — Why information cannot be identical to consciousness under dualism
 
 ## References
 

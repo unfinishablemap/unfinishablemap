@@ -30,6 +30,7 @@ related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
   - "[[conservation-laws-and-mind]]"
+  - "[[metaphysics-of-information-under-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -135,7 +136,7 @@ This means: *not every physical event has a sufficient physical cause*. When a r
 
 **The probabilistic causation response**: Some argue probabilistic causation is still causation. But this conflates statistical explanation with causal sufficiency. A probability distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point.
 
-**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome. Chess rules constrain legal moves without overdetermining which move occurs. [[delegatory-dualism|Saad's delegatory framework]] offers a complementary response: physical states *delegate* causal responsibilities to conscious experiences via preemption rather than duplication.
+**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome—syntactic constraints from physics, semantic selection from consciousness, as the [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] describes. Chess rules constrain legal moves without overdetermining which move occurs. [[delegatory-dualism|Saad's delegatory framework]] offers a complementary response: physical states *delegate* causal responsibilities to conscious experiences via preemption rather than duplication.
 
 If consciousness acts at these indeterminacies, it causes physical events without violating any physical law. No energy is injected; the selection operates within quantum mechanical constraints.
 
@@ -219,6 +220,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[topics/free-will]] — Implications for agency
 - [[concepts/materialism]] — The worldview closure supports
 - [[explanatory-gap]] — Why physical knowledge leaves phenomenal experience unexplained
+- [[metaphysics-of-information-under-dualism]] — Information's ontological status and the syntax-semantics divide in causal selection
 
 ## References
 

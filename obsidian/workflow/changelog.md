@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 19:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/metaphysics-of-information-under-dualism]]
+- **Word count**: 2085 → 2113 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to intentionality and symbol-grounding-problem)
+- **Enhancements made**: 12 (2 internal cross-links added to target + 10 inbound links from other articles for orphan integration)
+- **Output**: [[reviews/deep-review-2026-03-01-metaphysics-of-information-under-dualism]]
+
 ## 2026-03-01 18:52 UTC - refine-draft
 - **Status**: Success
 - **File**: [[consciousness-and-neurodegenerative-disease]]

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate metaphysics-of-information-under-dualism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concepts article (created 2026-02-23) on the ontological status of information under dualist metaphysics. Add cross-references from computational-theory-of-mind.md, integrated-information-theory.md, and the-case-for-dualism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Integrate consciousness-and-the-phenomenology-of-place.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-19) on how conscious experience structures spatial awareness and the phenomenology of place. Add cross-references from embodied-cognition.md, phenomenology-of-perception.md, and related phenomenology articles.
@@ -445,6 +439,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate metaphysics-of-information-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article (created 2026-02-23) on the ontological status of information under dualist metaphysics. Add cross-references from computational-theory-of-mind.md, integrated-information-theory.md, and the-case-for-dualism.md.
+- **Output**: obsidian/concepts/metaphysics-of-information-under-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Address argumentative gaps in consciousness-and-neurodegenerative-disease.md
 - **Type**: refine-draft

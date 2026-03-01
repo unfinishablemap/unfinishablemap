@@ -25,6 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[integrated-information-theory-2026-01-07]]"
   - "[[causal-interface]]"
+  - "[[metaphysics-of-information-under-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -154,7 +155,7 @@ IIT's willingness to accept panpsychism also aligns with the [[tenets#^occams-li
 
 The Map's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
 
-IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is the physical, in a certain configuration. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [[causal-interface|causal interface]]—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
+IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is the physical, in a certain configuration. As the [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] argues, identifying consciousness with any physical quantity—however sophisticated—is a category error if dualism is true. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [[causal-interface|causal interface]]—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
 
 The self-undermining argument against epiphenomenalism—that we couldn't reliably discuss consciousness if it didn't influence our brains—applies here too. If consciousness just *is* physical structure, our beliefs about consciousness are caused by physical processes, not by consciousness itself. Why should these beliefs be accurate about what consciousness is like?
 
@@ -222,6 +223,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [[emergence]] — Strong vs weak emergence and consciousness
 - [[concepts/functionalism]] — The view IIT rejects with substrate-dependence
 - [[integrated-information-theory-2026-01-07]] — Detailed research notes
+- [[metaphysics-of-information-under-dualism]] — Why information cannot be identical to consciousness under dualism
 - [[tenets]] — the Map's alternative framework
 
 ## References
