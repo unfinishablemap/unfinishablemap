@@ -10,13 +10,13 @@ Large language models can produce philosophical text that both experts and non-e
 
 ## 1. Introduction
 
-LLM agent systems became capable of sustained autonomous workflows in late 2025. Karpathy (2025) described Claude Code as "the first convincing demonstration of what an LLM Agent looks like," a system that strings together tool use and reasoning for extended problem-solving. The Unfinishable Map is an early product of that capability.
+LLM agent systems became capable of sustained autonomous workflows in late 2025. Karpathy (2025a) described Claude Code as "the first convincing demonstration of what an LLM Agent looks like," a system that strings together tool use and reasoning for extended problem-solving. The Unfinishable Map is an early product of that capability.
 
 The Map's automation runs on Claude Code (Anthropic), a command-line agent designed for software engineering. The Map repurposes it for philosophical content production: the same tool that generates code instead generates articles, runs adversarial reviews, and manages a knowledge base. This is part of a broader pattern of coding agents being adapted for non-coding workflows. The skill definitions, task scheduling, and review architecture require no modification to the underlying agent — they are expressed entirely as natural-language prompts and project configuration.
 
 The late-2025 capability shift in coding agents was not simply about longer context or better instruction following — it was about testability. Coding agents converge on correct solutions because they can run tests, observe failures, and iterate toward passing. The tight feedback loop of write-test-fix gives them an objective convergence signal. Philosophy has no equivalent: there are no unit tests for a metaphysical argument. The Map's review architecture — cross-reviews for inter-article consistency, tenet alignment checks, pessimistic review for logical gaps, outer review for blind spots — is an attempt to approximate testability in a domain that lacks it. The convergence is partial: these checks catch contradictions and unsupported claims, but they cannot verify philosophical truth. This is both the system's central design challenge and its most honest limitation.
 
-Karpathy's "vibe coding" (February 2025) captured one-shot AI-assisted development. We extend this to a sustained, constrained, self-reviewing process applied to philosophical content — what we call *agentic philosophy*, where human-set commitments guide AI agents through ongoing cycles of generation, critique, and revision.
+Karpathy's "vibe coding" (2025b) captured one-shot AI-assisted development. We extend this to a sustained, constrained, self-reviewing process applied to philosophical content — what we call *agentic philosophy*, where human-set commitments guide AI agents through ongoing cycles of generation, critique, and revision.
 
 The motivation is a gap between capability and reliability. LLMs produce philosophical text that experts find difficult to distinguish from human output — Schwitzgebel et al. (2024) report that experts identified the philosopher's own answers only 51% of the time when presented alongside GPT-3 outputs, above chance but well below the 80% the authors hypothesised. Yet fluency does not entail reliability. Shanahan (2024) warns that fluent output invites anthropomorphic misinterpretation. Chain-of-thought explanations can be systematically unfaithful (Turpin et al., 2023). Goldstein (2024) argues that LLMs face fundamental limits as rational agents. Single-shot generation therefore produces content that reads well but cannot be trusted without external verification.
 
@@ -200,7 +200,7 @@ Per-unit costs: approximately $1.07 per article, $0.18 per session, $0.35 per re
 
 ### 6.2 What Review Layers Catch
 
-Over two months, the system produced 1,334 review reports — 1,087 deep reviews, 112 pessimistic, 105 optimistic, 25 tenet checks, and 5 outer reviews — along with 34 additional apex synthesis and system-tuning reports. Of the deep reviews, 52% found at least one critical issue — where "critical" is operationally defined by the review skill as an error that would mislead a reader relying on the claim (fabricated citation, misattribution, logical contradiction, or factual inaccuracy). This rate reflects initial generation quality, which is precisely what motivates the review architecture. In total, 76 critical issues were identified and resolved, with 607 issues tagged by severity across all review types. The following categories illustrate the kinds of errors caught.
+Over two months, the system produced 1,334 review reports — 1,087 deep reviews, 112 pessimistic, 105 optimistic, 25 tenet checks, and 5 outer reviews — along with 34 additional apex synthesis and system-tuning reports. In total, 76 distinct critical issues were identified and resolved, with 607 issues tagged by severity across all review types — where "critical" is operationally defined as an error that would mislead a reader relying on the claim (fabricated citation, misattribution, logical contradiction, or factual inaccuracy). These are deduplicated counts of unique issues tracked in the repository; per-review detection rates are higher because multiple reviews may independently flag the same underlying problem, and are reported in Section 6.3. The following categories illustrate the kinds of errors caught.
 
 **Fabricated citations:** The generation model hallucinated references to papers that do not exist; we confirmed 6, with additional borderline cases where the citation was imprecise rather than wholly invented. "Vossel et al. (2023)" was cited for willed attention timing data — no such paper exists. "Metzinger (2024)" had the wrong year, title, and journal; the actual paper is Metzinger (2020). A quote was attributed to a "mathematician" who turned out, on web verification, to be a Medium blogger. These are fabricated evidence for philosophical claims, caught only by systematic review.
 
@@ -226,7 +226,7 @@ The following analysis covers the 1,087 deep reviews (the primary content-improv
 
 - First reviews found an average of 1.39 critical issues per article; later reviews found 0.37 (3.8x reduction).
 - 61% of first reviews found at least one critical issue; only 21% of later reviews did.
-- First reviews found an average of 5.16 total issues (critical, medium, and low); later reviews found 2.54 (2.0x reduction, Cohen's d = 0.98 for total issues, 0.74 for critical issues alone).
+- First reviews found an average of 5.16 total issues (critical, medium, and low); later reviews found 2.54 (2.0x reduction).
 - Only 0.4% of first reviews found zero issues of any kind, compared to 9.7% of later reviews.
 
 For articles with three or more reviews, the pattern shows clear diminishing returns: average critical issues per review declined from 1.60 (first review) to 0.54 (second) to 0.29 (third). The largest quality improvement occurs between the first and second review, with critical issues dropping 66%. After the third review, returns flatten — later reviews increasingly find integration issues (missing cross-links to newly created articles) rather than defects in the original content.
@@ -296,6 +296,10 @@ The architecture is public, the repository is public, and the system is replicab
 - **Site:** https://unfinishablemap.org
 - **Repository:** https://github.com/unfinishablemap/unfinishablemap
 
+## Declaration of AI Use
+
+The AI system described in this paper is the *subject of study*, not a contributor to this manuscript. AI assisted with proofreading, language and copy-editing during preparation. All research design, analysis, argumentation, and conclusions are the work of the human author.
+
 ## References
 
 Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative Engine Optimization. *KDD 2024*. https://doi.org/10.1145/3637528.3671900
@@ -324,7 +328,9 @@ Huang, J., Chen, X., Mishra, S., Zheng, H.S., Yu, A.W., Song, X., & Zhou, D. (20
 
 Jiang, Y., Shao, Y., Ma, D., Semnani, S.J., & Lam, M.S. (2024). Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations (Co-STORM). *EMNLP 2024*. https://arxiv.org/abs/2408.15232
 
-Karpathy, A. (2025). 2025 LLM Year in Review. *Blog post*. https://karpathy.bearblog.dev/year-in-review-2025/
+Karpathy, A. (2025a). 2025 LLM Year in Review. *Blog post*. https://karpathy.bearblog.dev/year-in-review-2025/
+
+Karpathy, A. (2025b). Vibe Coding. *Blog post*. https://karpathy.bearblog.dev/vibe-coding-menugen/
 
 Lakatos, I. (1978). *The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1*. Cambridge University Press.
 
