@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 05:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Word count**: 2686 → 2704 (+18)
+- **Critical issues addressed**: 2 (broken wikilinks, corrupted text)
+- **Medium issues addressed**: 3 (attribution precision, missing cross-link, stale refinement log)
+- **Enhancements made**: 5
+- **Output**: [[reviews/deep-review-2026-03-01-embodied-cognition]]
+
 ## 2026-03-01 05:11 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Continuity Void
