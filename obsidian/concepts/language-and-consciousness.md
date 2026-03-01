@@ -4,7 +4,7 @@ description: "How meaning, reference, and the private language argument reveal t
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-25T22:25:00+00:00
+ai_modified: 2026-03-01T07:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-02-25T22:25:00+00:00
+last_deep_review: 2026-03-01T07:17:00+00:00
 ---
 
 The Unfinishable Map's existing articles explore how consciousness and language interact empirically—how [[consciousness-and-language-interface|language shapes experience]], how [[language-recursion-and-consciousness|recursion may require consciousness]], and where [[language-thought-boundary|thought exceeds language]]. This article addresses the philosophical infrastructure underlying those interactions: what the major debates in philosophy of language reveal about the nature of consciousness itself.

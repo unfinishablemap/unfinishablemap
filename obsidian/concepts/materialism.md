@@ -195,6 +195,7 @@ None currently obtains, and each faces significant challenges. Materialism remai
 - [[concepts/epiphenomenalism]] — What happens if you accept the gap but deny mental causation
 - [[illusionism]] — Materialism's most radical response to the hard problem
 - [[concepts/functionalism]] — A materialist theory the Map rejects
+- [[language-and-consciousness]] — How philosophy of language's reductive tools (verification, translation, logical construction) fail when applied to consciousness
 - [[mysterianism]] — The cognitive closure hypothesis and its implications
 - [[introspection]] — The reliability debate about first-person access
 - [[panpsychism]] — An alternative that avoids the emergence problem

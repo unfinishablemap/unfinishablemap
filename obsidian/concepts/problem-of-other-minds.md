@@ -66,7 +66,7 @@ Yet the approach still assumes behavior provides evidence for mentality—that m
 
 Wittgenstein argued the problem arises from a confused picture of mind as "inner theater." Psychological concepts are learned publicly—I learn "pain" from how the word is used in response to injuries and behaviors, not by introspecting private experience. If mental concepts are public from the start, there's no hidden realm we fail to reach.
 
-This dissolution sits uneasily with dualism. If behavioral criteria fully determine mental concept application, phenomenal properties seem irrelevant—a quasi-behaviorist conclusion the Map rejects.
+This dissolution sits uneasily with dualism. If behavioral criteria fully determine mental concept application, phenomenal properties seem irrelevant—a quasi-behaviorist conclusion the Map rejects. The [[language-and-consciousness|philosophy of language and consciousness]] examines Wittgenstein's private language argument in detail: he showed that a *purely* private language is incoherent, but public language can still *refer to* private experiences. The public criterion gets us started; the private experience gives the word its full content.
 
 ### Perceptual Approach
 
@@ -168,6 +168,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[metarepresentation]] — Why representing minds as minds requires consciousness
 - [[illusionism]] — The view that phenomenal consciousness is illusory
 - [[hard-problem-of-consciousness]] — The metaphysical problem this epistemological problem presupposes
+- [[language-and-consciousness]] — How the private language argument, reference, and meaning bear on consciousness
 - [[philosophical-zombies]] — The thought experiment dramatizing behavior-consciousness gap
 - [[ai-consciousness]] — The problem of other minds applied to machines
 - [[animal-consciousness]] — The problem for non-human organisms

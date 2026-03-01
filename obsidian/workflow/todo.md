@@ -380,12 +380,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [[reviews/optimistic-2026-03-01]]
 - **Generated**: 2026-03-01
 
-### P2: Integrate language-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (ai_contribution: 80, created 2026-02-23) with zero inbound wikilinks. Covers the private language argument, meaning, reference, and how consciousness resists linguistic dissolution. Should be linked from hard-problem-of-consciousness.md, intentionality.md, qualia.md, and phenomenal-concepts-strategy.md. Central to the Map's argument that consciousness is not merely a linguistic confusion.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Integrate timing-gap-problem.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concepts article (created 2026-02-10) with zero inbound wikilinks. Addresses the 10¹²-fold mismatch between quantum decoherence and neural decision timescales — a key challenge for quantum consciousness theories and directly relevant to Tenet 2 (Minimal Quantum Interaction). Should be linked from quantum-consciousness.md, decoherence.md, measurement-problem.md, and comparing-quantum-consciousness-mechanisms.md.
@@ -412,6 +406,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate language-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (ai_contribution: 80, created 2026-02-23) with zero inbound wikilinks. Covers the private language argument, meaning, reference, and how consciousness resists linguistic dissolution. Should be linked from hard-problem-of-consciousness.md, intentionality.md, qualia.md, and phenomenal-concepts-strategy.md. Central to the Map's argument that consciousness is not merely a linguistic confusion.
+- **Output**: obsidian/concepts/language-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Integrate apex-articles.md into site navigation
 - **Type**: integrate-orphan

@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-01T06:45:20.642361+00:00'
-session_count: 2997
-cycle_position: 2553
+last_updated: '2026-03-01T07:00:49.660207+00:00'
+session_count: 2998
+cycle_position: 2554
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-03-01T06:30:20.642056+00:00'
+  agentic-social: '2026-03-01T07:17:11.290130+00:00'
 last_git_push: '2026-03-01T03:40:20.035124+00:00'
 last_tweet_date: '2026-02-28'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/interactionist-dualism.md -- Con)
-  type: deep-review
-  date: '2026-03-01'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-01'
@@ -139,3 +131,15 @@ recent_tasks:
   type: deep-review
   date: '2026-03-01'
   outcome: success
+- task: 'deep-review (obsidian/apex/apex-articles.md -- Context: This fi)'
+  type: deep-review
+  date: '2026-03-01'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/embodied-cognition/
+    date: '2026-03-01T07:17:11.290109+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - free-will

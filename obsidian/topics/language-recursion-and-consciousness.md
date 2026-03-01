@@ -261,6 +261,7 @@ Language, recursion, and consciousness connect to all five tenets:
 - [[global-workspace-theory]] — Conscious broadcast and cognitive access
 - [[illusionism]] — The eliminativist challenge and its regress problem
 - [[philosophical-zombies]] — The conceivability argument against physicalism
+- [[language-and-consciousness]] — The philosophical infrastructure: meaning, reference, private language, and why consciousness resists linguistic dissolution
 - [[tenets]] — The foundational commitments of the Map
 
 ## References
