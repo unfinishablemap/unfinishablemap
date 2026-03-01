@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 10:34 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/decoherence]]
+- **Word count**: 4030 → 3471 (-559)
+- **Critical issues addressed**: 2 (4 broken wikilinks to archived articles, word count exceeding hard threshold)
+- **Medium issues addressed**: 1 (self-referencing wikilink)
+- **Enhancements made**: 6 (link fixes, condensation, Further Reading trimmed)
+- **Output**: [[reviews/deep-review-2026-03-01-decoherence]]
+
 ## 2026-03-01 10:17 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Historical Consciousness Void

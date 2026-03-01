@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review decoherence.md (post-coalesce quality check)
-- **Type**: deep-review
-- **Notes**: Recent coalesce merged quantum-decoherence-objection-responses.md into decoherence.md, growing it to ~4030 words and significantly changing its structure. A comprehensive review is needed to ensure the merged content is coherent, well-integrated, and maintains accurate cross-references. The article now exceeds the 3500-word hard threshold for concepts/ — review should identify opportunities to tighten. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
-- **Source**: chain (from coalesce)
-- **Generated**: 2026-03-01
-
 ### P2: Integrate moral-implications-of-genuine-agency.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links despite being an important ethics article on the moral consequences of consciousness having genuine causal power. Directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from related articles such as ethics-of-consciousness.md, consciousness-and-moral-agency-under-duress.md, responsibility-gradient-from-attentional-capacity.md, and moral-responsibility.md.
@@ -451,6 +445,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Deep review decoherence.md (post-coalesce quality check)
+- **Type**: deep-review
+- **Notes**: Recent coalesce merged quantum-decoherence-objection-responses.md into decoherence.md, growing it to ~4030 words and significantly changing its structure. A comprehensive review is needed to ensure the merged content is coherent, well-integrated, and maintains accurate cross-references. The article now exceeds the 3500-word hard threshold for concepts/ — review should identify opportunities to tighten. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/decoherence.md
 
 ### ✓ 2026-03-01: Deep review quantum-measurement-interpretations-beyond-mwi.md
 - **Type**: deep-review
