@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-01T13:54:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -22,10 +22,10 @@ related_articles:
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-04
 last_curated: null
-last_deep_review: 2026-02-05T03:24:00+00:00
+last_deep_review: 2026-03-01T13:54:00+00:00
 ---
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
@@ -163,7 +163,7 @@ Parkinson's disease, with its progressive dopamine depletion, provides a window 
 
 **Preserved reflexes**: Automatic movements intact. Only willed action impaired.
 
-The selectivity is telling. Parkinson's doesn't disable movement—it disables willed movement. The motor circuitry works; the selection interface that engages that circuitry is compromised.
+The selectivity is telling. Parkinson's doesn't disable movement—it disables willed movement. The motor circuitry works; the selection interface that engages that circuitry is compromised. See [[consciousness-and-neurodegenerative-disease]] for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
 
 ### External Cues as Bypass
 
@@ -196,6 +196,14 @@ Dopamine research elegantly illustrates [[tenets#^minimal-quantum-interaction|Mi
 
 Consciousness only needs to select among options that dopamine has already prepared. The intervention point is minimal: biasing which of several ready-to-fire options actualizes.
 
+### No Many Worlds
+
+The selection framework requires genuine collapse. If all quantum branches actualize (many-worlds interpretation), dopamine marks options in every branch and "selection" becomes branch-discovery rather than choice. The [[tenets#^no-many-worlds|No Many Worlds]] tenet preserves dopamine's preparatory role as meaningful: dopamine marks what matters *because* only one outcome will become actual.
+
+### Occam's Razor Has Limits
+
+The parsimonious reading—dopamine modulates thresholds, neural dynamics do the rest, and consciousness is epiphenomenal—cannot explain why the willed/automatic dissociation exists neurally (preserved reflexes but impaired volitional action in Parkinson's), or why the phenomenology of effort tracks dopamine-dependent selection difficulty. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies: the simpler account leaves the most informative data unexplained.
+
 ### An Honest Limitation
 
 This framework explains *where* consciousness might interact with the brain—at the selection point in the unified attention-motor interface. It does not explain *how* a non-physical consciousness biases physical outcomes. The mechanism by which selection occurs remains as mysterious as consciousness itself.
@@ -211,6 +219,9 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [[topics/free-will]] — The broader philosophical question
 - [[mental-effort]] — Why selection feels effortful
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
+- [[consciousness-and-neurodegenerative-disease]] — What progressive dopamine loss reveals about the mind-brain relationship
+- [[the-interface-location-problem]] — Where in the brain the selection interface operates
+- [[phenomenology-of-flow-states]] — When dopamine-prepared selection meets no resistance
 
 ## References
 

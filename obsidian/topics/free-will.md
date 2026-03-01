@@ -160,7 +160,7 @@ Willed attention shows frontal theta oscillations and bidirectional frontopariet
 
 [[motor-selection|Motor control]] shows the same selection architecture as attention: frontal theta, bidirectional coherence, and distinct willed versus instructed signatures. Rizzolatti's premotor theory of attention explains the convergence: attention and motor planning share the same neural substrates—attention shifts *are* motor preparation. If the quantum Zeno mechanism operates through attention, it simultaneously operates through motor selection via a single unified interface.
 
-Desmurget's neurosurgical studies confirm the selection-execution distinction—inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness. Consciousness operates at the selection level; execution is delegated. See [[motor-control-quantum-zeno]] for the full integration, including the affordance competition architecture where the brain generates competing motor programs and dopamine marks salience while consciousness selects.
+Desmurget's neurosurgical studies confirm the selection-execution distinction—inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness. Consciousness operates at the selection level; execution is delegated. See [[motor-control-quantum-zeno]] for the full integration, including the affordance competition architecture where the brain generates competing motor programs and [[dopamine-and-the-unified-interface|dopamine marks salience]] while consciousness selects.
 
 ## What Free Will Requires
 

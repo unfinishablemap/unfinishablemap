@@ -328,7 +328,7 @@ Karpathy, A. (2025). 2025 LLM Year in Review. *Blog post*. https://karpathy.bear
 
 Lakatos, I. (1978). *The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1*. Cambridge University Press.
 
-Liang, W., Zhang, Y., et al. (2025). The Widespread Adoption of Large Language Model-Assisted Writing Across Society. *Patterns*, 6(2), 101189. https://doi.org/10.1016/j.patter.2025.101189
+Liang, W., Zhang, Y., et al. (2025). The Widespread Adoption of Large Language Model-Assisted Writing Across Society. *Patterns*, 6(12), 101366. https://doi.org/10.1016/j.patter.2025.101366
 
 Madaan, A., Tandon, N., Gupta, P., Hallinan, S., Gao, L., Wiegreffe, S., et al. (2023). Self-Refine: Iterative Refinement with Self-Feedback. *NeurIPS 2023*. https://arxiv.org/abs/2303.17651
 
