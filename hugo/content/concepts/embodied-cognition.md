@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-16 19:13:00+00:00
+ai_modified: 2026-03-01 05:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,8 +12,8 @@ concepts:
 - '[[implicit-memory]]'
 - '[[illusionism]]'
 - '[[attention-as-interface]]'
-- '[[brain-specialness]]'
-- '[[interface-locality]]'
+- '[[brain-specialness-boundary]]'
+- '[[the-interface-location-problem]]'
 - '[[witness-consciousness]]'
 - '[[consciousness-as-amplifier]]'
 - '[[phenomenology-of-choice]]'
@@ -24,12 +24,13 @@ description: Cognition depends on the body and extends into the environment. Thi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 23:45:00+00:00
+last_deep_review: 2026-03-01 05:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[embodied-cognition-extended-mind-2026-01-14]]'
 - '[[embodiment-cognitive-limits]]'
+- '[[embodied-consciousness-and-the-interface]]'
 title: Embodied Cognition and the Extended Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -55,7 +56,7 @@ Embodied cognition rests on several interconnected claims:
 
 ## Phenomenological Roots
 
-Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is The Unfinishable Map where consciousness and world interpenetrate. [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) extends this analysis clinically: Fuchs shows that in schizophrenia the lived body's transparency breaks down (the person becomes a "disembodied mind"), while in depression the body becomes oppressively present through *corporealization* — opposite disruptions revealing the normally invisible mind-body interface.
+Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is the nexus where consciousness and world interpenetrate. [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) extends this analysis clinically: Fuchs shows that in schizophrenia the lived body's transparency breaks down (the person becomes a "disembodied mind"), while in depression the body becomes oppressively present through *corporealization* — opposite disruptions revealing the normally invisible mind-body interface.
 
 Consider bodily skill. An expert typist doesn't consciously locate keys—the hands "know" where they are. A pianist's fingers find notes through acquired habit, not explicit representation. Merleau-Ponty calls this "motor intentionality": bodily knowledge that is meaningful but not intellectually represented.
 
@@ -79,7 +80,7 @@ This withdrawal is not elimination. Consciousness *delegates* to procedural syst
 
 When skilled performers face high-pressure situations, a counterintuitive breakdown occurs: conscious attention to automatized skills *degrades* performance. The expert golfer thinking about their swing, the concert pianist monitoring their finger placement—all perform worse than when acting without self-focus.
 
-Baumeister and Beilock's *explicit monitoring theory* explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Research confirms:
+The *explicit monitoring theory* (Beilock and Carr, 2001; building on Baumeister's 1984 self-focus model) explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Research confirms:
 
 - Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
 - Skills learned without explicit awareness are protected against choking
@@ -193,6 +194,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and site's response
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes consciousness's engagement with matter
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of embodied cognition with consciousness science
 
@@ -211,19 +213,3 @@ The key point: embodied cognition challenges a specific historical position (Car
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-02-16
-Changes made:
-1. Downgraded choking-under-pressure from "direct evidence for bidirectional interaction" to "consistent with" bidirectional interaction
-1. Added explicit acknowledgment that the standard neuroscience reading (neural resource competition) is mainstream
-1. Renamed section from "Choking Under Pressure: The Bidirectional Evidence" to "Choking Under Pressure"
-1. Revised illusionist challenge section to acknowledge physicalist reading rather than dismissing it
-1. Fixed Bidirectional Interaction tenet section to present choking as "consistent with" rather than proof
-1. Fixed No Many Worlds tenet section: acknowledged MWI can accommodate trainable choking effects
-1. Updated "What Would Challenge This View?" to acknowledge existing physicalist explanations
-
-Based on pessimistic-2026-02-16-evening.md review (Issue 2).
-Key improvements: Epistemic honesty about the physicalist mainstream reading of choking data.
-
-This log should be removed after human review.
--->

@@ -34,6 +34,7 @@ related_articles:
 - '[[topics/free-will]]'
 - '[[animal-consciousness]]'
 - '[[quantum-biology-and-the-consciousness-debate]]'
+- '[[consciousness-and-the-philosophy-of-biology]]'
 title: Evolution Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -68,7 +69,7 @@ Dualism reintroduces a limited form of teleology without invoking a designer. If
 
 Under physicalism, even agent teleology reduces to mechanism. The gazelle's fear is identical to neural firing patterns, which are fully explained by prior physical states. Sophisticated functionalists argue that purposes are nonetheless "real patterns"—genuine features of the causal landscape that earn their ontological status through explanatory utility. The Map finds this insufficient: real patterns identified *from the outside* are not the same as purposes experienced *from the inside*. Under dualism, purpose is real in both senses. Conscious intention influences physical outcomes through the quantum interface the Map proposes, making [agency](/concepts/agent-causation/) a fundamental feature of certain biological systems rather than an emergent approximation.
 
-This distinction matters for how we understand evolution's products. Physicalism says evolution produced sophisticated machines whose behaviour we describe purposively. Dualism says evolution produced the physical conditions under which genuine purpose could enter the natural world. The implications extend to [free will](/topics/free-will/): if evolution selected for genuine purpose-directed action, it selected for the capacity to act for reasons—the core of libertarian agency.
+This distinction matters for how we understand evolution's products—and [philosophy of biology's](/topics/consciousness-and-the-philosophy-of-biology/) own conceptual categories (function, teleology, organism, adaptation) each reveal it differently. Physicalism says evolution produced sophisticated machines whose behaviour we describe purposively. Dualism says evolution produced the physical conditions under which genuine purpose could enter the natural world. The implications extend to [free will](/topics/free-will/): if evolution selected for genuine purpose-directed action, it selected for the capacity to act for reasons—the core of libertarian agency.
 
 ## The Selection Pressure on Interfaces
 
@@ -140,6 +141,7 @@ Evolution under dualism connects to the Map's tenets in ways that strengthen bot
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — How quantum biology shifts the burden of proof
 - [free-will](/topics/free-will/) — Agent teleology and libertarian agency
 - [animal-consciousness](/topics/animal-consciousness/) — Convergent consciousness across species
+- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Biology's conceptual toolkit and the limits of biological explanation
 
 ## References
 

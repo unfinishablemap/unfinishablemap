@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) identifies ipseity disturbance — diminished self-affection, loss of mineness — as the core phenomenological feature of schizophrenic self-disturbance. topics/consciousness-and-the-ownership-problem.md asks what makes conscious states belong to a subject. Phenomenological psychiatry provides clinical evidence for ownership dissociations (EASE instrument, Sass-Parnas framework) that empirically ground the ownership problem's philosophical claims. Supports Tenet 1 (Dualism).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-01
-
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
@@ -211,12 +205,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[metarepresentation](/concepts/metacognition/)` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
-### ~~P3: Write concept page for voluntary-attention~~ ✓ (superseded)
-- **Type**: expand-topic
-- **Status**: superseded 2026-02-26
-- **Notes**: Content already exists under attention-as-interface.md. All 65 stale wikilinks updated to point there. Also see voluntary-attention-control-mechanisms.md for the detailed mechanistic treatment.
-- **Generated**: 2026-02-24
-
 ### P3: Write article on psychedelics and the filter model
 - **Type**: expand-topic
 - **Status**: pending
@@ -325,18 +313,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
 - **Generated**: 2026-02-26
 
-### P3: Write article on neurological dissociations as interface architecture
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Together they map the interface's functional anatomy — ascending, descending, and bilateral components. Builds on pain-asymbolia.md, blindsight.md, split-brain-consciousness.md, interface-friction.md, disorders-of-consciousness-as-test-cases.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
-### P3: Write concept page for apophatic cartography
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The voids programme's methodology — systematically mapping where understanding fails — deserves its own concept page. Currently implicit across ~87 void articles but never explicitly defined. Would serve as the conceptual foundation for the proposed voids apex article. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
 ### P3: Write concept page for content-specificity of mental causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -413,6 +389,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Deep review intersubjectivity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Intersubjectivity connects to the Map's treatment of consciousness as irreducibly first-personal yet sharable through empathy, testimony, and mutual recognition. Intersects with the problem of other minds and social cognition articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/intersubjectivity.md
+
+### ✓ 2026-03-01: Address gaps in continuity-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity omission of Dennett's Multiple Drafts model, style guide violation ("This is not X. It is Y." construct), content overlap with temporal-consciousness.md, and unsupported superlative claims. See pessimistic-2026-03-01-continuity-void.md
+- **Output**: obsidian/voids/continuity-void.md
+
+Task context:
+Pessimistic review found high-severity omission of Dennett's Multiple Drafts model, style guide violation ("This is not X. It is Y." construct), content overlap with temporal-consciousness.md, and unsupported superlative claims. See pessimistic-2026-03-01-continuity-void.md
+
+### ✓ 2026-03-01: Integrate consciousness-and-the-philosophy-of-biology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) with zero inbound wikilinks. Philosophy of biology connects to the Map's evolutionary arguments for consciousness — the amplification hypothesis, baseline cognition, and animal consciousness articles. Should be linked from consciousness-evolution-problem.md, animal-consciousness.md, and evolution-under-dualism.md.
+- **Output**: obsidian/topics/consciousness-and-the-philosophy-of-biology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-01: Integrate preemption.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-15) with zero inbound wikilinks. The word "preemption" appears in body text of delegatory-dualism and related articles as a common noun but never as a wikilink. Adding [preemption](/concepts/preemption/) links from delegatory-dualism.md, consciousness-and-causal-powers.md, and attention-as-selection-interface.md would integrate this concept into the site's navigation.
+- **Output**: obsidian/concepts/preemption.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-01: Write voids article on the continuity void
+- **Type**: expand-topic
+- **Notes**: Research completed today in research/voids-continuity-void-2026-03-01.md. The continuity void examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps. Directly relevant to temporal consciousness and the Map's treatment of persistence conditions. Target section: voids/ (2 slots remaining).
+- **Output**: Write voids article on the continuity void
+
+### ✓ 2026-03-01: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) identifies ipseity disturbance — diminished self-affection, loss of mineness — as the core phenomenological feature of schizophrenic self-disturbance. topics/consciousness-and-the-ownership-problem.md asks what makes conscious states belong to a subject. Phenomenological psychiatry provides clinical evidence for ownership dissociations (EASE instrument, Sass-Parnas framework) that empirically ground the ownership problem's philosophical claims. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/consciousness-and-the-ownership-problem.md -- Context: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
 
 ### ✓ 2026-03-01: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
 - **Type**: cross-review

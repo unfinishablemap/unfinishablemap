@@ -386,6 +386,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [[reviews/optimistic-2026-03-01]]
 - **Generated**: 2026-03-01
 
+### P2: Integrate language-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (ai_contribution: 80, created 2026-02-23) with zero inbound wikilinks. Covers the private language argument, meaning, reference, and how consciousness resists linguistic dissolution. Should be linked from hard-problem-of-consciousness.md, intentionality.md, qualia.md, and phenomenal-concepts-strategy.md. Central to the Map's argument that consciousness is not merely a linguistic confusion.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Integrate timing-gap-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-10) with zero inbound wikilinks. Addresses the 10¹²-fold mismatch between quantum decoherence and neural decision timescales — a key challenge for quantum consciousness theories and directly relevant to Tenet 2 (Minimal Quantum Interaction). Should be linked from quantum-consciousness.md, decoherence.md, measurement-problem.md, and comparing-quantum-consciousness-mechanisms.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Integrate adaptive-computational-depth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-24) with zero inbound wikilinks. Argues that reality allocating detail where consciousness attends initially seems to support computationalism but actually implies non-computable mind. Should be linked from consciousness-and-simulation.md, computational-theory-of-mind.md, and attention-as-selection-interface.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Review temporal-consciousness.md considering continuity-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/continuity-void.md (2026-03-01) examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps — sleep onset, anaesthesia, absorption states. concepts/temporal-consciousness.md covers the specious present, Bergson's durée, and temporal phenomenology. The continuity void's analysis of constructed-vs-given continuity would strengthen the temporal consciousness article's treatment of how temporal structure may be constitutive of consciousness. Check for cross-links and argument reinforcement.
+- **Source**: chain (from continuity-void.md)
+- **Generated**: 2026-03-01
+
+### P2: Review phenomenology-of-the-edge.md considering continuity-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/continuity-void.md (2026-03-01) identifies moments where continuity breaks down — sleep onset, anaesthetic fade, deep absorption — as edges where the stream of consciousness reveals its construction. voids/phenomenology-of-the-edge.md explores what consciousness encounters at its cognitive boundaries. The continuity void's treatment of temporal edges as phenomenologically accessible complements the edge phenomenology's broader catalogue of boundary experiences. Check for cross-links and complementary analysis. Supports Tenet 1 (Dualism).
+- **Source**: chain (from continuity-void.md)
+- **Generated**: 2026-03-01
+
 ## Completed Tasks
 
 

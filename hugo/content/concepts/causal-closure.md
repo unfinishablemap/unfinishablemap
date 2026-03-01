@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-27 03:46:00+00:00
+ai_modified: 2026-03-01 05:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,6 +20,7 @@ concepts:
 - '[[downward-causation]]'
 - '[[reductionism]]'
 - '[[delegatory-dualism]]'
+- '[[preemption]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[conservation-laws-mind-brain-causation]]'
 created: 2026-01-14
@@ -116,7 +117,7 @@ Mental causation avoids observable violations through converging strategies: *st
 
 **"This seems designed to avoid refutation"**: Many well-confirmed theories delineate domains similarly. Conservation of energy applies where energy is definable; general relativity predicts within spacetime, not "before" it. Observational closure specifies domains, not evasion.
 
-The upshot: dualists need only respect observational closure, not universal closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops this further: experiences *preempt* rather than overdetermine physical causation. (Note that [cognitive closure](/concepts/mysterianism/)—McGinn's epistemic thesis—is distinct from observational closure, though cognitively closed properties at the consciousness-physics interface may render violations undetectable.)
+The upshot: dualists need only respect observational closure, not universal closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops this further: experiences *[preempt](/concepts/preemption/)* rather than overdetermine physical causation. (Note that [cognitive closure](/concepts/mysterianism/)—McGinn's epistemic thesis—is distinct from observational closure, though cognitively closed properties at the consciousness-physics interface may render violations undetectable.)
 
 ### Empirical Status
 

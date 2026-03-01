@@ -28,6 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[interactionist-dualism]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
+- '[[consciousness-and-the-philosophy-of-biology]]'
 title: The Evolutionary Case for Mental Causation
 topics:
 - '[[consciousness-and-intelligence]]'
@@ -100,7 +101,7 @@ The Map does not claim certainty about the mechanism. The evolutionary argument 
 
 ## Functions Consciousness Enables
 
-If consciousness evolved because it provides fitness advantages, what advantages? Research suggests several:
+If consciousness evolved because it provides fitness advantages, what advantages? The answer depends partly on which account of biological function is operative—a question [philosophy of biology](/topics/consciousness-and-the-philosophy-of-biology/) has struggled with, since both etiological and causal-role theories face distinctive difficulties when applied to consciousness. Research suggests several advantages:
 
 ### Flexible Response to Novelty
 
@@ -175,6 +176,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework where consciousness has causal power
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How consciousness might have emerged and developed
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader relationship between the two
+- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Why biology's function concepts struggle with consciousness
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: the phenomenological profile that evolution predicts for a causally efficacious consciousness
 
 ## References

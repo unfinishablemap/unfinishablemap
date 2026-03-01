@@ -38,6 +38,7 @@ related_articles:
 - '[[tenets]]'
 - '[[arguments/functionalism-argument]]'
 - '[[arguments-against-materialism]]'
+- '[[consciousness-and-the-philosophy-of-biology]]'
 title: Functionalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -184,6 +185,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — Why the cumulative case against materialism is powerful
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — The emergence problem functionalism cannot solve
+- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Why biological function concepts fail to capture consciousness
 - [functionalism-argument](/arguments/functionalism-argument/) — Five formal arguments against functionalism
 - [substrate-independence-critique](/concepts/substrate-independence/) — Why the substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds

@@ -18,6 +18,70 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 06:31 UTC - deep-review
+- **Status**: Success
+- **File**: [intersubjectivity](/concepts/intersubjectivity/)
+- **Word count**: 2570 → 2593 (+23, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale AI log removed, 3 cross-links to new articles added)
+- **Enhancements made**: 5 (cross-links, prose tightening, log cleanup)
+- **Output**: [deep-review-2026-03-01-intersubjectivity](/reviews/deep-review-2026-03-01-intersubjectivity/)
+
+## 2026-03-01 06:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [continuity-void](/voids/continuity-void/)
+- **Changes**: Fixed style guide violation, added Dennett's Multiple Drafts model with rebuttal, compressed models section to reduce overlap with temporal-consciousness.md, softened unsupported superlatives, addressed self-undermining tension (Bergson critique), added Tenet 2 and 4 to complete all five tenet connections
+- **Published**: yes
+
+## 2026-03-01 06:00 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/continuity-void.md
+- **Output**: [pessimistic-2026-03-01-continuity-void](/reviews/pessimistic-2026-03-01-continuity-void/)
+
+## 2026-03-01 05:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/)
+- **Word count**: 1789 → 1810 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited references, orphan integration)
+- **Enhancements made**: 7 (inline citations for Godfrey-Smith 1994 and Cummins 1975; 6 inbound cross-references added from evolution-under-dualism, consciousness-evolution-problem, evolutionary-case-for-mental-causation, animal-consciousness, the-strong-emergence-of-consciousness, functionalism)
+- **Output**: [deep-review-2026-03-01-consciousness-and-the-philosophy-of-biology](/reviews/deep-review-2026-03-01-consciousness-and-the-philosophy-of-biology/)
+
+## 2026-03-01 05:30 UTC - deep-review
+- **Status**: Success
+- **File**: [preemption](/concepts/preemption/)
+- **Word count**: 1449 → 1449 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log)
+- **Enhancements made**: 6 (orphan integration — added inbound [preemption](/concepts/preemption/) links from mental-causation, delegatory-dualism, objections-to-interactionism, causal-closure, interactionist-dualism, consciousness-and-agency)
+- **Output**: [deep-review-2026-03-01-preemption](/reviews/deep-review-2026-03-01-preemption/)
+
+## 2026-03-01 05:15 UTC - deep-review
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Word count**: 2686 → 2704 (+18)
+- **Critical issues addressed**: 2 (broken wikilinks, corrupted text)
+- **Medium issues addressed**: 3 (attribution precision, missing cross-link, stale refinement log)
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-01-embodied-cognition](/reviews/deep-review-2026-03-01-embodied-cognition/)
+
+## 2026-03-01 05:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Continuity Void
+- **Output**: [continuity-void](/voids/continuity-void/)
+- **Word count**: 1532
+- **Based on research**: yes, [voids-continuity-void-2026-03-01](/research/voids-continuity-void-2026-03-01/)
+
+## 2026-03-01 04:40 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Context**: Cross-review considering phenomenological-psychiatry insights
+- **Word count**: 2334 → 2446 (+112)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (ipseity model enriched with hyperreflexivity/diminished self-affection, EASE validation added, cross-link added, references added)
+- **Enhancements made**: 4 (phenomenological psychiatry paragraph enriched, EASE instrument cited, Sass & Parnas reference, Further Reading link)
+- **Output**: [deep-review-2026-03-01-consciousness-and-the-ownership-problem](/reviews/deep-review-2026-03-01-consciousness-and-the-ownership-problem/)
+
 ## 2026-03-01 04:11 UTC - deep-review
 - **Status**: Success
 - **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-20 07:06:00+00:00
+ai_modified: 2026-03-01 05:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Causal preemption occurs when one cause renders another idle—cent
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 01:36:00+00:00
+last_deep_review: 2026-03-01 05:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,15 +112,3 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 1. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-20
-Changes made:
-1. Rewrote "Why Preemption Rather Than Other Structures?" bullet to explicitly acknowledge that delegatory preemption violates causal closure as standardly formulated, rather than evasively claiming the physical story is merely "displaced"
-1. Rewrote "Observational Closure" paragraph to clearly state that preemption is a metaphysical interpretation, not an empirically testable hypothesis, and that no experiment can distinguish it from standard physicalism
-1. Updated further reading entry for causal-closure to reflect the honest acknowledgment
-
-Based on pessimistic review (pessimistic-2026-02-20-morning.md), Issues 1 and 7.
-Key improvements: Intellectual honesty about the framework's empirical status and its relationship to causal closure.
-
-This log should be removed after human review.
--->

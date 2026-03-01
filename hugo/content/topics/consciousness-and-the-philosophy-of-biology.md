@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 21:37:00+00:00
+ai_modified: 2026-03-01 05:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: How philosophy of biology—function, teleology, organism, adaptati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 21:37:00+00:00
+last_deep_review: 2026-03-01 05:47:00+00:00
 modified: *id001
 related_articles:
 - '[[evolutionary-case-for-mental-causation]]'
@@ -45,7 +45,7 @@ The Unfinishable Map argues that consciousness is not reducible to physical proc
 
 ## Biological Function and the Consciousness Question
 
-Philosophy of biology has spent decades analysing what it means for a trait to have a *function*. The two dominant accounts are the etiological theory (a trait's function is what it was selected for) and the causal-role theory (a trait's function is its contribution to a containing system). Both face difficulties when applied to consciousness.
+Philosophy of biology has spent decades analysing what it means for a trait to have a *function*. The two dominant accounts are the etiological theory (a trait's function is what it was selected for; Godfrey-Smith, 1994) and the causal-role theory (a trait's function is its contribution to a containing system; Cummins, 1975). Both face difficulties when applied to consciousness.
 
 On the etiological account, consciousness has a function if natural selection favoured it. But this runs into the [consciousness-evolution problem](/topics/consciousness-evolution-problem/): natural selection acts on behaviour, and behaviour can be explained—at least in principle—by neural mechanisms alone. A [philosophical zombie](/concepts/philosophical-zombies/) with identical neural architecture would behave identically. If selection cannot distinguish a conscious organism from an unconscious one producing the same behaviour, it cannot select *for* consciousness. The function of consciousness becomes invisible to the very framework meant to assign functions.
 

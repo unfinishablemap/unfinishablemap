@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 10:21:55+00:00
+ai_modified: 2026-03-01 05:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,7 @@ concepts:
 - '[[illusionism]]'
 - '[[concepts/many-worlds]]'
 - '[[observational-closure]]'
+- '[[preemption]]'
 created: 2026-01-29
 date: &id001 2026-01-29
 description: 'Bradford Saad''s 2025 theory explains how consciousness causes behavior
@@ -96,7 +97,7 @@ Causal profiles are defined functionally. A physical brain state has a default c
 
 ### The Delegatory Law
 
-Here's the key move: when an experience is instantiated via profile-matching, the experience *preempts* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
+Here's the key move: when an experience is instantiated via profile-matching, the experience *[preempts](/concepts/preemption/)* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
 
 > **Delegatory Law**: "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
 
@@ -236,6 +237,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 
 ## Further Reading
 
+- [preemption](/concepts/preemption/) — The causal structure underlying delegation: one cause operates, the other is sidelined
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses

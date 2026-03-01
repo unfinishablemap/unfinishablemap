@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-25 15:22:00+00:00
+ai_modified: 2026-03-01 04:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Why does experience belong to anyone? The ownership problem asks wh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 00:48:00+00:00
+last_deep_review: 2026-03-01 04:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[the-unobservable-self]]'
 - '[[identity-across-transformations]]'
 - '[[ownership-void]]'
+- '[[phenomenological-psychiatry-and-altered-experience]]'
 title: Consciousness and the Ownership Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -73,7 +74,7 @@ The ownership problem suggests that belonging-to-a-subject may be a primitive fe
 
 This is what the phenomenological tradition has long maintained. Husserl argued that every act of consciousness is characterised by its first-personal givenness—experience is always given *to* someone. Zahavi develops this into the claim that the minimal self is not a separate entity attached to experience but the very mode in which experience exists. Experience does not first occur and then get assigned to an owner. It occurs *as owned*.
 
-[Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) provides clinical evidence for ownership as primitive. In depersonalization, the sense of mineness is stripped from experience while the experience itself persists — demonstrating that ownership is a separable structural feature, not an artefact of cognitive processing. The ipseity disturbance model in schizophrenia shows the same: experiences continue to occur but lose their quality of *belonging* to the subject. The [ownership void](/voids/ownership-void/) explores why these disruptions reveal ownership's absence without revealing ownership's ground — the mechanism of appropriation hides from introspection because introspection is itself already owned.
+[Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) provides clinical evidence for ownership as primitive. In depersonalization, the sense of mineness is stripped from experience while the experience itself persists — demonstrating that ownership is a separable structural feature, not an artefact of cognitive processing. The ipseity disturbance model of schizophrenia reveals a deeper disruption: Sass and Parnas show that normally tacit self-processes become alien objects of observation (*hyperreflexivity*) while simultaneously ceasing to function as the inhabited medium of selfhood (*diminished self-affection*). What is lost is not merely a feeling of ownership but the pre-reflective structure through which experiences are given as one's own — a finding validated empirically through the Examination of Anomalous Self-Experience (EASE) instrument, which confirms self-disorders as a core feature of the schizophrenia spectrum that predicts future onset in at-risk populations. The [ownership void](/voids/ownership-void/) explores why these disruptions reveal ownership's absence without revealing ownership's ground — the mechanism of appropriation hides from introspection because introspection is itself already owned.
 
 If ownership is primitive, it cannot be decomposed into non-ownership components. This has a significant consequence: any theory that analyses consciousness entirely in terms of information processing, functional organisation, or physical structure will miss ownership, because none of these ingredients is inherently first-personal. You can specify every detail of how a system processes information without specifying *whose* information processing it is.
 
@@ -137,6 +138,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership mechanism hides from introspection
 - [witness-consciousness](/concepts/witness-consciousness/) — Ownership stripped of narrative content
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The reductionist challenge to primitive ownership
+- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — Clinical evidence for ownership as a separable structural feature of consciousness
 
 ## References
 
@@ -147,3 +149,5 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Sass, L. & Parnas, J. (2003). "Schizophrenia, Consciousness, and the Self." *Schizophrenia Bulletin*, 29(3), 427-444.
+1. Parnas, J., et al. (2005). "EASE: Examination of Anomalous Self-Experience." *Psychopathology*, 38(5), 236-258.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-29 08:28:00+00:00
+ai_modified: 2026-03-01 05:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[pairing-problem]]'
 - '[[luck-objection]]'
 - '[[delegatory-dualism]]'
+- '[[preemption]]'
 - '[[observational-closure]]'
 created: 2026-01-18
 date: &id001 2026-01-18
@@ -248,7 +249,7 @@ This transforms the exclusion argument from a dilemma into a false premise: clos
 
 ### Response 4: Delegatory Preemption
 
-[Delegatory dualism](/topics/delegatory-dualism/) (Bradford Saad, 2025) offers a distinct response that doesn't depend on quantum mechanics. When a physical brain state has the same causal profile as an experience—both would cause wincing, attention-shifting, verbal reports—the experience *preempts* the physical state's causal role. The physical state delegates its responsibilities to the experience.
+[Delegatory dualism](/topics/delegatory-dualism/) (Bradford Saad, 2025) offers a distinct response that doesn't depend on quantum mechanics. When a physical brain state has the same causal profile as an experience—both would cause wincing, attention-shifting, verbal reports—the experience *[preempts](/concepts/preemption/)* the physical state's causal role. The physical state delegates its responsibilities to the experience.
 
 This avoids overdetermination because only one cause operates: the experience does the causal work while the physical state is sidelined. Preemption differs from overdetermination the way an assassin's successful shot differs from a backup shooter's bullet arriving simultaneously—one cause acts, the other is rendered idle.
 
@@ -302,6 +303,7 @@ These objections have been taken seriously throughout the history of philosophy.
 ## Further Reading
 
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Comprehensive response to the conservation objection
+- [preemption](/concepts/preemption/) — The causal structure Saad uses: one cause operates while the other is sidelined
 - [delegatory-dualism](/topics/delegatory-dualism/) — Bradford Saad's solution to the exclusion problem via preemption
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position these objections target
 - [pairing-problem](/concepts/pairing-problem/) — Detailed treatment of Kim's pairing challenge
