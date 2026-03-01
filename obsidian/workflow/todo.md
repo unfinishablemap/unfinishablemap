@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review delegatory-dualism.md considering entanglement-binding-hypothesis insights
-- **Type**: cross-review
-- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism for phenomenal unity, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. delegatory-dualism.md is the Map's central framework article describing how consciousness delegates to neural processes. If binding requires entanglement, the delegatory model's hierarchy gains a specific physical substrate at the binding level — quantum coherence maintained across the neural populations that consciousness coordinates. Check for cross-links and theoretical reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from entanglement-binding-hypothesis.md)
-- **Generated**: 2026-03-01
-
 ### P2: Deep review quantum-measurement-interpretations-beyond-mwi.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Surveys quantum measurement interpretations excluding Many Worlds — directly relevant to Tenet 4 (No Many Worlds) and the Map's argument for why consciousness-collapse interpretations are preferable. The only stale file not already tracked in the queue. Verify coherence, cross-references, and tenet alignment.
@@ -433,6 +427,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review delegatory-dualism.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism for phenomenal unity, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. delegatory-dualism.md is the Map's central framework article describing how consciousness delegates to neural processes. If binding requires entanglement, the delegatory model's hierarchy gains a specific physical substrate at the binding level — quantum coherence maintained across the neural populations that consciousness coordinates. Check for cross-links and theoretical reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/topics/delegatory-dualism.md -- Context: Cross-review delegatory-dualism.md considering entanglement-binding-hypothesis insights
 
 ### ✓ 2026-03-01: Cross-review the-case-for-dualism.md considering arguments-against-materialism insights
 - **Type**: cross-review

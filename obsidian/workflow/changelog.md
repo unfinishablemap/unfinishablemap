@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 09:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]]
+- **Word count**: 2618 → 2702 (+84)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (fixed inaccurate overdetermination description, added entanglement-binding-hypothesis cross-link)
+- **Enhancements made**: 3 (entanglement binding integration paragraph, further reading entry, removed stale refinement log)
+- **Output**: [[reviews/deep-review-2026-03-01-delegatory-dualism]]
+
 ## 2026-03-01 09:07 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/the-case-for-dualism]]
