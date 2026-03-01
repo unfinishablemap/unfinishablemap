@@ -44,7 +44,7 @@ The placebo effect is often dismissed as "just thinking yourself better." This m
 
 **Neurochemical effects.** Placebo analgesia involves endogenous opioid release. Levine et al. (1978) demonstrated this by showing that the opioid antagonist naloxone blocks placebo pain relief — the placebo triggers the same neurochemical pathway as actual opioid drugs. Subsequent neuroimaging studies confirmed that placebo treatments activate mu-opioid receptors in the anterior cingulate cortex, prefrontal cortex, and brainstem.
 
-**Dopamine release.** In Parkinson's disease, placebo treatments produce measurable dopamine release in the striatum. De la Fuente-Fernández et al. (2001) used PET imaging to show that patients expecting benefit from an inert injection released dopamine in quantities comparable to therapeutic doses of levodopa.
+**Dopamine release.** In Parkinson's disease, placebo treatments produce measurable [dopamine](/topics/dopamine-and-the-unified-interface/) release in the striatum. De la Fuente-Fernández et al. (2001) used PET imaging to show that patients expecting benefit from an inert injection released dopamine in quantities comparable to therapeutic doses of levodopa.
 
 **Immune modulation.** Conditioned immune responses demonstrate mind-body effects extending beyond the nervous system. Goebel et al. (2002) paired an immunosuppressive drug with a distinctively flavoured drink, then showed that the drink alone could suppress immune markers — T-cell proliferation and interleukin-2 production dropped without any active drug present. (This is technically a conditioning study rather than a placebo trial, but it demonstrates the same core phenomenon: mental processing — here, learned associations — producing targeted physiological changes.)
 

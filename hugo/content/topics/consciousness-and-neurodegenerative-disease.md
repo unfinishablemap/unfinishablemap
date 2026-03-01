@@ -142,6 +142,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 - [why-pain-hurts](/topics/why-pain-hurts/) — Pain phenomenology and its persistence in severe dementia
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Interface degradation through practice versus disease
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
+- [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that Parkinson's disease disrupts
 
 ## References
 

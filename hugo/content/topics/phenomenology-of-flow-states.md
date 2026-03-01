@@ -146,6 +146,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The inverse of flow: when conscious monitoring disrupts skilled performance
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The broader axis between doing and undergoing, where flow occupies a puzzling middle ground
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — What effortful thinking feels like, contrasting with flow's effortlessness
+- [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that flow engages frictionlessly
 - [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — How attention and consciousness can come apart
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes conscious engagement with the world

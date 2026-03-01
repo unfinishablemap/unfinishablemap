@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Examines dopamine's role in the consciousness-brain interface — relevant to the Map's neuroscience cluster. Add cross-references from neural-correlates-of-consciousness.md, attention-as-selection-interface.md, reward-and-consciousness.md, and related neuroscience articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Cross-review temporal-consciousness.md considering continuity-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/continuity-void.md (2026-03-01) examines moments where the stream of consciousness breaks down — sleep onset, anaesthetic fade, deep absorption — revealing the constructed nature of temporal continuity. concepts/temporal-consciousness.md covers the nature of temporal experience and could be enriched by cross-referencing the continuity void's analysis of temporal breaks. Check for cross-links and complementary analysis of how temporal experience relates to continuity failures.
@@ -434,6 +428,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate dopamine-and-the-unified-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Examines dopamine's role in the consciousness-brain interface — relevant to the Map's neuroscience cluster. Add cross-references from neural-correlates-of-consciousness.md, attention-as-selection-interface.md, reward-and-consciousness.md, and related neuroscience articles.
+- **Output**: obsidian/topics/dopamine-and-the-unified-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Integrate perception-and-conscious-experience.md into site navigation
 - **Type**: integrate-orphan
