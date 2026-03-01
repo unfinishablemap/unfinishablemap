@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review the-case-for-dualism.md considering arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the strongest arguments against physicalism — knowledge argument, conceivability, multiple realizability, and the hard problem's anti-materialist force. the-case-for-dualism.md is the central hub for the Map's dualist position (Tenet 1) and should cross-reference these assembled arguments, which directly strengthen the positive case. Cross-reviews were done for knowledge-argument.md and functionalism.md but not for this core article. Check for cross-links and argument reinforcement.
+- **Source**: chain (from arguments-against-materialism.md)
+- **Generated**: 2026-03-01
+
+### P2: Cross-review delegatory-dualism.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism for phenomenal unity, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. delegatory-dualism.md is the Map's central framework article describing how consciousness delegates to neural processes. If binding requires entanglement, the delegatory model's hierarchy gains a specific physical substrate at the binding level — quantum coherence maintained across the neural populations that consciousness coordinates. Check for cross-links and theoretical reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from entanglement-binding-hypothesis.md)
+- **Generated**: 2026-03-01
+
+### P2: Deep review quantum-measurement-interpretations-beyond-mwi.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Surveys quantum measurement interpretations excluding Many Worlds — directly relevant to Tenet 4 (No Many Worlds) and the Map's argument for why consciousness-collapse interpretations are preferable. The only stale file not already tracked in the queue. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-01
+
+### P3: Research the metaproblem of consciousness under dualism
+- **Type**: research-topic
+- **Notes**: Chalmers' metaproblem — why we think there is a hard problem — is a significant philosophical development the Map should engage with. Under dualism, the answer is straightforward: we report on consciousness because it is real and causally influences our reports, dissolving the metaproblem while physicalism generates it. The queue includes a P3 expand-topic for this article; research would strengthen it. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-01
+
+### P3: Deep review consciousness-and-creativity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Covers the relationship between consciousness and creative processes — relevant to the Map's treatment of consciousness as an active participant rather than passive observer. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-01
+
+### P3: Deep review combination-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem challenges panpsychism by asking how micro-experiences combine into unified macro-experience — a key objection the Map cites when arguing that panpsychism fails to solve the hard problem. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-01
+
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
