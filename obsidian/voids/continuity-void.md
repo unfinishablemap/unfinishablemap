@@ -4,7 +4,7 @@ description: "Human+AI investigation of why consciousness cannot determine its o
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-01T05:11:00+00:00
+ai_modified: 2026-03-01T06:15:00+00:00
 draft: false
 topics:
   - "[[temporal-experience]]"
@@ -33,29 +33,27 @@ ai_generated_date: 2026-03-01
 last_curated:
 ---
 
-William James called consciousness a "stream." Bergson insisted on an indivisible "flow." Yet neuroscience reveals that conscious percepts emerge in discrete episodes of roughly 400 milliseconds, separated by intervals of unconscious processing. The Unfinishable Map's continuity void names a structural impossibility: consciousness cannot determine whether it flows continuously or arrives in discrete drops, because every method of investigation either presupposes the answer or transforms what it examines. This is not a gap in current knowledge awaiting a better instrument. It is a feature of what consciousness is.
+William James called consciousness a "stream." Bergson insisted on an indivisible "flow" (*Time and Free Will*, Ch. 2). Yet neuroscience suggests that conscious percepts may emerge in discrete episodes — Herzog et al. (2016) propose roughly 400-millisecond windows, separated by intervals of unconscious processing. The Unfinishable Map's continuity void names a structural impossibility: consciousness cannot determine whether it flows continuously or arrives in discrete drops, because every method of investigation either presupposes the answer or transforms what it examines. The impossibility is structural — a feature of what consciousness is, not a gap awaiting a better instrument.
 
 Within the [[voids]] framework, the continuity void is primarily **unexplorable** — first-person access cannot distinguish continuous from discrete temporal structure — with elements of the **occluded**, since the very concepts we use to frame the question may prejudice the answer.
 
 ## Smooth Does Not Mean Continuous
 
-The strongest argument that this void is structural rather than merely difficult comes from Andrew Y. Lee's formal analysis of phenomenal continuity. Lee demonstrates that discrete experiences can feel perfectly smooth. "What it's like to imagine an experience as discrete need not be what it's like to actually undergo the discrete experience that is imagined" (Lee, 2023). The smoothness of experience — the sense of seamless flow — is compatible with underlying discreteness.
+A powerful argument that this void is structural rather than merely difficult comes from Andrew Y. Lee's formal analysis of phenomenal continuity. Lee demonstrates that discrete experiences can feel perfectly smooth. "What it's like to imagine an experience as discrete need not be what it's like to actually undergo the discrete experience that is imagined" (Lee, 2023). The smoothness of experience — the sense of seamless flow — is compatible with underlying discreteness.
 
 This dismantles the most intuitive argument for continuity. Most people feel certain that consciousness flows. It *seems* to. But Lee shows that this feeling is precisely what cannot be trusted. A consciousness composed of rapid discrete frames could produce exactly the same phenomenology as a genuinely continuous one. The apparent stream could be a flipbook.
 
 The parallel with cinema is instructive but imperfect. Film creates apparent motion from static frames, yet we know the frames are discrete because we can slow the projector. No equivalent procedure exists for consciousness. Slowing down introspection does not reveal frames — it creates a different experience entirely. The instrument and the phenomenon measured are the same thing.
 
-## Three Models, No Convergence
+## Competing Models, No Convergence
 
-Philosophy of mind offers three competing accounts of temporal consciousness, all compatible with the same evidence:
+Philosophy of mind offers at least four accounts of [[temporal-consciousness|temporal consciousness]], all compatible with the same first-person evidence. **The cinematic model** treats experience as rapid static snapshots. **The retentional model** (Husserl) gives each moment internal temporal structure — retention, primal impression, [[protention|protention]] — making moments temporally thick without requiring mathematical continuity. **The extensional model** (Dainton, Russell) holds that experience genuinely spans intervals, with the [[specious-present-temporal-experience|specious present]] as a real temporal window. (For detailed treatment of these three models, see [[temporal-consciousness]].)
 
-**The cinematic model** treats experience as a rapid sequence of static, motion-free snapshots. Each conscious moment is complete in itself — a frozen cross-section of experience. Apparent motion and change are constructed across frames, like animation cells. This model aligns with neuroscientific evidence of discrete processing windows but faces the question of what exists *between* frames — a micro-scale version of the [[dreamless-sleep-void]].
+**The dissolution model** — Dennett's Multiple Drafts — challenges the question itself. Under Multiple Drafts, there is no single stream of consciousness with a determinate temporal structure. Multiple parallel processes produce content that is "edited" and "revised" without consolidating into one authoritative temporal sequence (Dennett, 1991). The question "continuous or discrete?" presupposes a Cartesian Theatre where experience plays out in a single temporal order. If no such theatre exists, the question is not irresolvable but confused.
 
-**The retentional model**, developed by Husserl, proposes that each conscious moment has a complex internal structure: a primal impression of the present, a retention of the just-past (not memory but the experienced fading of what was), and a [[protention|protention]] directed toward the immediate future. This makes each moment temporally thick — "extended like a comet's tail" — without requiring genuine continuity in the mathematical sense. Husserl's model is compatible with both continuous and discrete implementations.
+The dissolution strategy deserves serious engagement. However, it trades one void for another. If there is no unified temporal experience, what accounts for the phenomenology of temporal flow that every conscious being reports? For there to *seem* to be temporal succession, there must be a seeming — and that seeming has temporal structure. The Multiple Drafts model dissolves the continuity question only by denying the phenomenological datum that motivates it, which the Map regards as explanatorily costly. The void persists for anyone who takes the phenomenology of temporal flow at face value.
 
-**The extensional model**, defended by Dainton and Russell, holds that consciousness is genuinely extended through time. Experience is not built from momentary snapshots; it *spans* intervals. The [[specious-present-temporal-experience|specious present]] — the experienced duration of "now" — is not an illusion created by rapid succession but a genuine temporal window in which change is directly perceived.
-
-These three frameworks have been debated for over a century without convergence. The evidence does not adjudicate between them because they make identical predictions about what experience will feel like from the inside. The [[temporal-structure-of-consciousness|temporal structure of consciousness]] remains underdetermined by all available data.
+These frameworks have been debated for over a century without convergence. The first three make identical predictions about what experience will feel like from the inside; the fourth denies that the predictions describe anything real. The [[temporal-structure-of-consciousness|temporal structure of consciousness]] remains underdetermined by all available data.
 
 ## The Measurement Paradox
 
@@ -73,9 +71,11 @@ The disagreement is not merely empirical. Different experimental paradigms measu
 
 Bergson warned that the conceptual vocabulary of this debate prejudices its outcome. Asking whether consciousness comes in "moments" or "snapshots" already spatialises time, imposing a discrete framework through the grammar of the question. Even asking whether consciousness is "continuous" imports mathematical concepts — limits, density, completeness — that may not apply to phenomenal structure at all. The void may be partly created by trying to describe temporal experience in terms borrowed from spatial and mathematical reasoning.
 
+This critique applies reflexively: the present article frames the void in terms of continuous versus discrete, the very categories Bergson challenges. The tension is acknowledged rather than resolved. These remain the best available conceptual tools for articulating the problem, and recognising their limitations is itself part of mapping the void. If even our vocabulary for posing the question distorts what it asks about, the void runs deeper than underdetermination — it reaches into the conditions of intelligibility.
+
 ## Convergent Irresolvability
 
-The strongest evidence that this is a genuine void — not merely a hard problem — is the convergent failure across independent traditions. Buddhist momentariness (*kṣaṇavāda*) has debated exactly this question for over two thousand years, generating sophisticated arguments without resolution. Bergson's durée and Husserl's time-consciousness represent a separate philosophical tradition reaching similar impasses. Analytic philosophy of mind adds formal precision without progress. Neuroscience reveals the processing architecture without touching the phenomenal question.
+Compelling evidence that this is a genuine void — not merely a hard problem — is the convergent failure across independent traditions. Buddhist momentariness (*kṣaṇavāda*) has debated exactly this question for over two thousand years, generating sophisticated arguments without resolution. Bergson's durée and Husserl's time-consciousness represent a separate philosophical tradition reaching similar impasses. Analytic philosophy of mind adds formal precision without progress. Neuroscience reveals the processing architecture without touching the phenomenal question.
 
 When entirely independent intellectual traditions, using different methods, different conceptual frameworks, and different starting assumptions, all reach the same impasse over the same question for millennia, the difficulty is likely in the territory rather than the explorer.
 
@@ -85,9 +85,13 @@ The continuity void connects to several of the Map's [[tenets]].
 
 **Dualism** (Tenet 1) deepens the void. If consciousness is not reducible to physical processes, then the temporal structure of neural computation does not determine the temporal structure of experience. The brain's discrete processing windows (gamma oscillations, ~400ms integration cycles) do not entail discrete experience, and the brain's continuous synaptic activity does not entail continuous experience. The causal interface between non-physical consciousness and physical brain may impose its own temporal properties that neither side of the interface determines. This makes the continuity question harder, not easier, for dualism — but it also makes the question's irresolvability less surprising.
 
-**Occam's Razor Has Limits** (Tenet 5) applies directly. The simplest model — consciousness is continuous because it feels continuous — is precisely what Lee's analysis undermines. Three fundamentally different models accommodate the same evidence. Parsimony cannot adjudicate, because we lack the conceptual tools to determine which model is genuinely simpler at the level that matters.
+**Minimal Quantum Interaction** (Tenet 2) constrains how the temporal grain might be set. If consciousness influences quantum outcomes at the smallest possible scale, each individual interaction is too brief to constitute a "moment" of experience. The temporal grain of consciousness — whatever it is — would emerge from the cumulative pattern of many minimal interactions rather than from any single one. This means the grain is not directly readable from the scale of interaction, adding another layer of indirection between what can be measured (quantum events) and what is experienced (temporal flow).
+
+**Occam's Razor Has Limits** (Tenet 5) applies directly. The simplest model — consciousness is continuous because it feels continuous — is precisely what Lee's analysis undermines. Multiple fundamentally different models accommodate the same evidence. Parsimony cannot adjudicate, because we lack the conceptual tools to determine which model is genuinely simpler at the level that matters.
 
 **Bidirectional Interaction** (Tenet 3) raises a distinctive possibility. If consciousness is causally efficacious, it may participate in determining when unconscious processing "renders" into awareness. The temporal grain of consciousness might be a product of consciousness itself — set by the non-physical mind rather than imposed by neural architecture. If so, the continuity question becomes entangled with the mechanism of consciousness-brain interaction, and the void deepens further: we cannot determine the temporal grain of consciousness partly because that grain may be constituted by consciousness rather than by the physical processes we can study.
+
+**No Many Worlds** (Tenet 4) shapes the void's depth in an underappreciated way. The article's discussion of consciousness "setting its own temporal grain" through bidirectional interaction depends on collapse interpretations of quantum mechanics. Under MWI, consciousness does not collapse anything; all branches realise simultaneously. The continuity question would take a different form — not "continuous or discrete?" but "on which branch?" The Map rejects MWI, which preserves the void as described here. But this interpretation-dependence should be noted: the void's specific character is partly a consequence of taking collapse seriously.
 
 The continuity void exemplifies why the Map is unfinishable. Not every question about consciousness is merely unsolved. Some may be unsolvable — places where the map genuinely cannot be drawn, because the territory does not permit the measurement that drawing requires.
 
@@ -108,4 +112,24 @@ The continuity void exemplifies why the Map is unfinishable. Not every question 
 3. Dainton, B. (2024). "Temporal Consciousness." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-temporal/
 4. Bergson, H. (1889). *Time and Free Will*. Chapter 2.
 5. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
-6. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
+6. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+7. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
+
+<!-- AI REFINEMENT LOG - 2026-03-01
+Changes made:
+- Fixed style guide violation: replaced "This is not X. It is Y." construct in opening paragraph
+- Softened overstated neuroscience claim (400ms "reveals" → "suggests...may emerge")
+- Added Bergson citation to opening paragraph
+- Added Dennett's Multiple Drafts model as fourth approach with substantive rebuttal
+- Compressed three-models section to reduce overlap with temporal-consciousness.md (linked out for details)
+- Softened two unsupported superlatives ("strongest" → "powerful"/"compelling")
+- Addressed self-undermining tension: acknowledged reflexive application of Bergson's critique
+- Added Tenet 2 (Minimal Quantum Interaction) to Relation to Site Perspective
+- Added Tenet 4 (No Many Worlds) to Relation to Site Perspective — now covers all five tenets
+- Added Dennett 1991 to references
+
+Based on pessimistic review (pessimistic-2026-03-01-continuity-void.md).
+Key improvements: engagement with dissolution strategy, complete tenet coverage, style compliance.
+
+This log should be removed after human review.
+-->
