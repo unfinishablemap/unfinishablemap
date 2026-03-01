@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on phenomenological psychiatry and altered experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md (7 days unconsumed). Phenomenological psychiatry (Jaspers, Minkowski, Binswanger, Sass) treats altered psychiatric experience as data about consciousness structure rather than mere symptom. Depersonalisation, thought insertion, and schizophrenic self-disturbance reveal the architecture of normal conscious experience by showing what happens when specific components fail. Complements disorders-of-consciousness-as-test-cases.md (neurological) with psychiatric evidence. Target section: topics/ (4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-28
+
+### P2: Write article on neural binding and quantum entanglement hypothesis
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md (40 days unconsumed). The binding problem — how distributed neural activity produces unified conscious experience — is a key challenge for physicalism and a potential opening for quantum approaches. Research covers Penrose-Hameroff, Fisher's quantum cognition, and entanglement-based binding proposals. Complements binding-void.md (which examines the structural impossibility) with specific mechanism proposals. Directly relevant to Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-28
+
+### P2: Cross-review quantum-consciousness.md considering amplification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/amplification-void.md (2026-02-28) examines the structural impossibility of tracing how a quantum-scale nudge reaches macroscopic neural effect — spanning five orders of magnitude through chaotic, decoherence-prone layers. concepts/quantum-consciousness.md surveys candidate mechanisms (Orch OR, Stapp, Fisher) and should acknowledge that any viable mechanism must solve the amplification problem, not bypass it. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from amplification-void.md)
+- **Generated**: 2026-02-28
+
+### P2: Cross-review bandwidth-problem-mental-causation.md considering resolution-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/resolution-void.md (2026-02-28) formalises how consciousness operates at characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits/sec yet conscious thought processes roughly 10 bits/sec. concepts/bandwidth-problem-mental-causation.md asks how a 10-bit/sec conscious channel produces specific behaviour, and the resolution void's empirical measurements of the 6-order-of-magnitude compression would strengthen the bandwidth article's hierarchical selection argument. Check for cross-links and complementary evidence.
+- **Source**: chain (from resolution-void.md)
+- **Generated**: 2026-02-28
+
+### P2: Cross-review interactionist-dualism.md considering amplification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/amplification-void.md (2026-02-28) argues that the causal interface's opacity is structurally necessary — if amplification were traceable, the interaction would be detectable, violating the minimality that defines it. concepts/interactionist-dualism.md discusses mental causation and the conservation objection; the amplification void explains why quantum solutions must operate through multi-scale opacity and reframes the interaction problem as a feature rather than a bug. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from amplification-void.md)
+- **Generated**: 2026-02-28
+
+### P3: Deep review problem-of-other-minds.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-28
+
 ### P3: Deep review quantum-interpretations.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Survey of quantum interpretations and their consciousness implications, with 8 tenet references — central to the Map's treatment of why time-symmetric collapse is preferred over Many-Worlds or Bohmian mechanics. Verify coherence, cross-references, and tenet alignment.
