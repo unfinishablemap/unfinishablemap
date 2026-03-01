@@ -152,6 +152,7 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The broader framework for consciousness-physics interaction
 - [decoherence](/concepts/decoherence/) — The physics-based objection and quantum biology responses
 - [many-worlds](/concepts/many-worlds/) — Why MWI undermines the selection picture entirely
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral luck and grounds desert
 
 ## References
 

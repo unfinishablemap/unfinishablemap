@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-01 11:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -47,7 +47,7 @@ topics:
 
 Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring the structures of experience from within. The central insight: consciousness has an intricate architecture accessible only through first-person investigation—an architecture that third-person scientific description cannot capture.
 
-For the question of whether consciousness reduces to physical processes, phenomenology offers powerful evidence that it does not. The intentional directedness of experience, the temporal flow of awareness, and the qualitative character of perception all emerge from phenomenological analysis as features requiring first-person access. If understanding consciousness requires methods that physics cannot supply, materialism faces a fundamental limitation.
+For the question of whether consciousness reduces to physical processes, phenomenology offers powerful evidence that it does not. The intentional directedness of experience, the temporal flow of awareness, and the qualitative character of [perception](/topics/perception-and-conscious-experience/) all emerge from phenomenological analysis as features requiring first-person access. If understanding consciousness requires methods that physics cannot supply, materialism faces a fundamental limitation.
 
 ## The Phenomenological Method
 

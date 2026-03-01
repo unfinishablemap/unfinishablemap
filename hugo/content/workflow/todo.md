@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Examines dopamine's role in the consciousness-brain interface — relevant to the Map's neuroscience cluster. Add cross-references from neural-correlates-of-consciousness.md, attention-as-selection-interface.md, reward-and-consciousness.md, and related neuroscience articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Cross-review temporal-consciousness.md considering continuity-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/continuity-void.md (2026-03-01) examines moments where the stream of consciousness breaks down — sleep onset, anaesthetic fade, deep absorption — revealing the constructed nature of temporal continuity. concepts/temporal-consciousness.md covers the nature of temporal experience and could be enriched by cross-referencing the continuity void's analysis of temporal breaks. Check for cross-links and complementary analysis of how temporal experience relates to continuity failures.
+- **Source**: chain (from continuity-void.md)
+- **Generated**: 2026-03-01
+
 ### P3: Research the metaproblem of consciousness under dualism
 - **Type**: research-topic
 - **Notes**: Chalmers' metaproblem — why we think there is a hard problem — is a significant philosophical development the Map should engage with. Under dualism, the answer is straightforward: we report on consciousness because it is real and causally influences our reports, dissolving the metaproblem while physicalism generates it. The queue includes a P3 expand-topic for this article; research would strengthen it. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -422,6 +434,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate perception-and-conscious-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Perception is a foundational topic for the Map's treatment of consciousness — articles on qualia, phenomenal consciousness, neural correlates, and the hard problem should cross-reference this content. Add links from hard-problem-of-consciousness.md, qualia.md, neural-correlates-of-consciousness.md, and related phenomenology articles.
+- **Output**: obsidian/topics/perception-and-conscious-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-01: Integrate moral-implications-of-genuine-agency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links despite being an important ethics article on the moral consequences of consciousness having genuine causal power. Directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from related articles such as ethics-of-consciousness.md, consciousness-and-moral-agency-under-duress.md, responsibility-gradient-from-attentional-capacity.md, and moral-responsibility.md.
+- **Output**: obsidian/topics/moral-implications-of-genuine-agency.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-01: Deep review decoherence.md (post-coalesce quality check)
+- **Type**: deep-review
+- **Notes**: Recent coalesce merged quantum-decoherence-objection-responses.md into decoherence.md, growing it to ~4030 words and significantly changing its structure. A comprehensive review is needed to ensure the merged content is coherent, well-integrated, and maintains accurate cross-references. The article now exceeds the 3500-word hard threshold for concepts/ — review should identify opportunities to tighten. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/decoherence.md
 
 ### ✓ 2026-03-01: Deep review quantum-measurement-interpretations-beyond-mwi.md
 - **Type**: deep-review

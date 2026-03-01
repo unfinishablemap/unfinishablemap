@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-02-15 12:04:00+00:00
+ai_modified: 2026-03-01 11:00:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 coalesced_from:
@@ -147,6 +147,7 @@ Phenomenal binding illuminates why the Map's [tenets](/tenets/) take the positio
 - [process-and-consciousness](/apex/process-and-consciousness/) — How process philosophy illuminates phenomenal unity through actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and the broader conceptual framing
 - [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Experimental support for quantum binding mechanisms
+- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Perceptual experience as the paradigm case of binding, including cross-modal unity
 - [binding-problem](/concepts/binding-problem/) — The neural challenge and historical formulation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-quantum interface

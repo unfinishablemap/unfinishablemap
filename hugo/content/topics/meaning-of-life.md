@@ -268,6 +268,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ### Consciousness and Experience
 - [witness-consciousness](/concepts/witness-consciousness/) — Pure awareness and its significance for meaning
 - [free-will](/topics/free-will/) — The metaphysics of choice and why choices matter
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral life: obligation, character, and desert
 - [haecceity](/concepts/haecceity/) — Indexical identity and the unrepeatability of conscious perspectives
 
 ### Perspectives and Limits

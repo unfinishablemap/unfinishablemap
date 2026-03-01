@@ -18,6 +18,40 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 11:00 UTC - deep-review
+- **Status**: Success
+- **File**: [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- **Word count**: 2102 → 2102 (no change)
+- **Critical issues addressed**: 0 (none found — article stable after 3 reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 (cross-references added from sensorimotor-contingencies-and-the-interface, phenomenal-binding-and-holism, phenomenology, embodied-cognition, inverted-qualia)
+- **Output**: [deep-review-2026-03-01-perception-and-conscious-experience](/reviews/deep-review-2026-03-01-perception-and-conscious-experience/)
+
+## 2026-03-01 10:45 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Word count**: 2453 → 2453 (no change)
+- **Critical issues addressed**: 0 (none found — article stable after 3 reviews)
+- **Medium issues addressed**: 1 (expanded cross-referencing: 8 new inbound links from related articles)
+- **Enhancements made**: 8 (cross-references added from consciousness-and-moral-agency-under-duress, attentional-economics, mental-causation, consciousness-and-the-grounds-of-normative-authority, reasons-responsiveness, concept-of-free-will, luck-objection, moral-phenomenology, phenomenology-of-agency-vs-passivity, phenomenal-value-realism, meaning-of-life)
+- **Output**: [deep-review-2026-03-01-moral-implications-of-genuine-agency](/reviews/deep-review-2026-03-01-moral-implications-of-genuine-agency/)
+
+## 2026-03-01 10:34 UTC - deep-review
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Word count**: 4030 → 3471 (-559)
+- **Critical issues addressed**: 2 (4 broken wikilinks to archived articles, word count exceeding hard threshold)
+- **Medium issues addressed**: 1 (self-referencing wikilink)
+- **Enhancements made**: 6 (link fixes, condensation, Further Reading trimmed)
+- **Output**: [deep-review-2026-03-01-decoherence](/reviews/deep-review-2026-03-01-decoherence/)
+
+## 2026-03-01 10:17 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Historical Consciousness Void
+- **Category**: Mixed (Unexplored + Unexplorable + Occluded)
+- **Output**: [voids-historical-consciousness-void-2026-03-01](/research/voids-historical-consciousness-void-2026-03-01/)
+- **Key finding**: Multiple serious thinkers argue consciousness itself has changed over historical time; if so, past forms are permanently inaccessible from within current consciousness, and logomorphism (projecting modern consciousness onto the past) may be unavoidable
+
 ## 2026-03-01 09:52 UTC - deep-review
 - **Status**: Success
 - **File**: [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)

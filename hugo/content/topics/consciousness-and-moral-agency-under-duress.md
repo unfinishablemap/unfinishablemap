@@ -68,7 +68,7 @@ Materialist accounts of duress face a structural problem. If consciousness is id
 
 The Map's interactionist dualism preserves a meaningful distinction. When consciousness selects among quantum-indeterminate neural states, the physical constraints of duress limit which states are available for selection—but the selection itself remains a conscious act. The brain under extreme stress presents a narrower menu of options, heavily weighted toward survival responses. Consciousness selects from this constrained menu, and that selection, however limited, constitutes genuine agency.
 
-This has direct implications for [moral-responsibility](/concepts/moral-responsibility/). Responsibility is diminished under duress not because consciousness becomes epiphenomenal—it does not—but because the options consciousness can select among become severely restricted. The person who betrays a secret under torture is not a passive mechanism; they are a conscious agent operating with an almost-closed set of live options. The moral weight of their action reflects this constrained agency: real but diminished.
+This has direct implications for [moral-responsibility](/concepts/moral-responsibility/). Responsibility is diminished under duress not because consciousness becomes epiphenomenal—it does not—but because the options consciousness can select among become severely restricted. The person who betrays a secret under torture is not a passive mechanism; they are a conscious agent operating with an almost-closed set of live options. The moral weight of their action reflects this constrained agency: real but diminished. The [broader moral implications of genuine agency](/topics/moral-implications-of-genuine-agency/)—obligation, character formation, moral luck—all apply here in attenuated form.
 
 ## Coercion and the Veto Power
 
@@ -125,6 +125,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
 - [suffering-versus-pain](/topics/suffering-versus-pain/)
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The broader moral implications when agency is real: obligation, character, moral luck
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-18 22:16:00+00:00
+ai_modified: 2026-03-01 11:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,7 +34,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Perception is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
+[Perception](/topics/perception-and-conscious-experience/) is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
 
 This article extends the Map's [general treatment of embodied cognition and the interface](/topics/embodied-consciousness-and-the-interface/) by examining the specific phenomenological and empirical details that sensorimotor contingency theory provides. Where the general treatment argues that embodiment reveals the interface rather than eliminating the soul, this article traces *how* the interface operates at the level of bodily engagement.
 
