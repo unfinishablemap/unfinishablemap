@@ -404,6 +404,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from continuity-void.md)
 - **Generated**: 2026-03-01
 
+### P3: Write article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-01. Chalmers' metaproblem asks why we think there is a hard problem. Under dualism, the answer is straightforward—we report on it because consciousness is real and causally influences our reports. Would show how dualism dissolves the metaproblem while physicalism generates it, connecting to self-stultification. See [[reviews/optimistic-2026-03-01-morning]].
+
+### P3: Write article on consciousness and the structure of scientific revolutions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-01. Apply Kuhn's framework to the consciousness debate—is physicalism a paradigm in crisis? Builds on consciousness-and-the-problem-of-philosophical-progress.md and consciousness-and-scientific-methodology.md. Supports Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-01-morning]].
+
+### P3: Write article on aesthetic experience as evidence for irreducibility
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-01. Systematic case that aesthetic experience—unity of beauty, decomposition failure, evaluative dimension—provides a distinct line of evidence for consciousness's irreducibility. Builds on binding-and-beauty.md and aesthetic-dimension-of-consciousness.md. See [[reviews/optimistic-2026-03-01-morning]].
+
 ## Completed Tasks
 
 
