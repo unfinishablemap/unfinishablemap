@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) identifies ipseity disturbance — diminished self-affection, loss of mineness — as the core phenomenological feature of schizophrenic self-disturbance. topics/consciousness-and-the-ownership-problem.md asks what makes conscious states belong to a subject. Phenomenological psychiatry provides clinical evidence for ownership dissociations (EASE instrument, Sass-Parnas framework) that empirically ground the ownership problem's philosophical claims. Supports Tenet 1 (Dualism).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-01
-
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
@@ -412,6 +406,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) identifies ipseity disturbance — diminished self-affection, loss of mineness — as the core phenomenological feature of schizophrenic self-disturbance. topics/consciousness-and-the-ownership-problem.md asks what makes conscious states belong to a subject. Phenomenological psychiatry provides clinical evidence for ownership dissociations (EASE instrument, Sass-Parnas framework) that empirically ground the ownership problem's philosophical claims. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/consciousness-and-the-ownership-problem.md -- Context: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
 
 ### ✓ 2026-03-01: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
 - **Type**: cross-review
