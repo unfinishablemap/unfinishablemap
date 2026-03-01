@@ -397,6 +397,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Samkhya's reflection model, Avicenna's bidirectional causation, Akan sunsum mediation, and delegatory dualism's preemption all solve the interaction problem differently. Comparative article showing structural parallels would strengthen the convergence argument at the level of proposed solutions. See [[reviews/optimistic-2026-02-27]]
 
+### P3: Write apex article on the quantum consciousness programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's quantum consciousness cluster has reached critical mass — entanglement binding hypothesis, quantum biology precedents, corrected decoherence estimates, Wiest microtubule study, Kerskens MRI result, Stapp quantum Zeno framework — but lacks an apex synthesis showing how these pieces form a coherent research programme with testable predictions. See [[reviews/optimistic-2026-03-01]]
+- **Generated**: 2026-03-01
+
+### P3: Write article on the resolution-bandwidth interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The resolution void quantifies what consciousness cannot access; the bandwidth problem formalises the challenge for mental causation; but no article unifies these into an account of why the coarseness of consciousness is architecturally necessary for its causal role. A ten-bit-per-second controller is a different kind of system operating at a different level. See [[reviews/optimistic-2026-03-01]]
+- **Generated**: 2026-03-01
+
+### P3: Write concept page for grain mismatch
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Sellars' structural incompatibility argument — homogeneous phenomenal experience versus discrete neural substrates — appears in resolution-void.md but deserves its own concept page. Logically independent of knowledge argument and zombie conceivability; identifies a structural incompatibility rather than an epistemic or modal gap. See [[reviews/optimistic-2026-03-01]]
+- **Generated**: 2026-03-01
+
+### P3: Write article analysing convergence of the void catalogue
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [[reviews/optimistic-2026-03-01]]
+- **Generated**: 2026-03-01
+
 ## Completed Tasks
 
 
