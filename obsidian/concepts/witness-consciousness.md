@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-04T14:57:00+00:00
+ai_modified: 2026-03-01T03:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,6 @@ concepts:
   - "[[decoherence]]"
   - "[[haecceity]]"
   - "[[mysterianism]]"
-  - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
@@ -33,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-28T15:45:28+00:00
+last_deep_review: 2026-03-01T03:26:00+00:00
 ---
 
 Witness consciousness—Sanskrit *sakshi*, the "seer" or "observer"—refers to a mode of awareness that observes mental contents without identifying with them. Thoughts, sensations, and emotions arise and pass; the witness remains unchanged, a pure awareness that perceives without participating. This concept, central to Advaita Vedanta and other contemplative traditions, carries significant implications for understanding the subject-object structure of consciousness and supports The Unfinishable Map's [[tenets#^dualism|dualist]] position.
@@ -44,7 +43,7 @@ The witness concept suggests consciousness is not identical to its contents. If 
 
 ### Advaita Vedanta: Sakshi
 
-In Advaita Vedanta, the *sakshi* (witness-self) is pure awareness that observes without acting—self-luminous (*svayam-prakasha*), unchanging (*kutastha*), and never an object of observation. Shankara identifies the sakshi with Brahman: "a passive observer... the pure observer who observes without contaminating the observation." Bina Gupta finds parallels with Kant's transcendental ego and Husserl's phenomenological residuum, yet notes the Advaita sakshi is "not part of the world" but its "underlying principle."
+In Advaita Vedanta, the *sakshi* (witness-self) is pure awareness that observes without acting—self-luminous (*svayam-prakasha*), unchanging (*kutastha*), and never an object of observation. Shankara identifies the sakshi with Brahman—pure awareness beyond all mental modification. Bina Gupta characterises the sakshi as "a passive observer... the pure observer who observes without contaminating the observation," finding parallels with Kant's transcendental ego and Husserl's phenomenological residuum, yet noting the Advaita sakshi is "not part of the world" but its "underlying principle."
 
 ### Buddhist Perspectives
 
@@ -152,7 +151,7 @@ The Map's position would face serious difficulty if: (1) contemplative tradition
 
 **The Reification Concern**: Making the witness an identity recreates the ego. *Response*: The distinction is between *being* a witness and *identifying as* a witness. Witness consciousness is not identity but structure—the irreducible subject-side of experience.
 
-## Relation to Site Tenets
+## Relation to Site Perspective
 
 ### Dualism
 
@@ -200,6 +199,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
+1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section 6.
 1. Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
 1. Krishnamurti, J. (1954). *The First and Last Freedom*. Harper & Brothers.
 1. Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*.
