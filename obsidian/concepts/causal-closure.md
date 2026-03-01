@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-27T03:46:00+00:00
+ai_modified: 2026-03-01T05:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[downward-causation]]"
   - "[[reductionism]]"
   - "[[delegatory-dualism]]"
+  - "[[preemption]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[conservation-laws-mind-brain-causation]]"
 related_articles:
@@ -114,7 +115,7 @@ Mental causation avoids observable violations through converging strategies: *st
 
 **"This seems designed to avoid refutation"**: Many well-confirmed theories delineate domains similarly. Conservation of energy applies where energy is definable; general relativity predicts within spacetime, not "before" it. Observational closure specifies domains, not evasion.
 
-The upshot: dualists need only respect observational closure, not universal closure. [[delegatory-dualism|Saad's delegatory framework]] develops this further: experiences *preempt* rather than overdetermine physical causation. (Note that [[mysterianism|cognitive closure]]—McGinn's epistemic thesis—is distinct from observational closure, though cognitively closed properties at the consciousness-physics interface may render violations undetectable.)
+The upshot: dualists need only respect observational closure, not universal closure. [[delegatory-dualism|Saad's delegatory framework]] develops this further: experiences *[[preemption|preempt]]* rather than overdetermine physical causation. (Note that [[mysterianism|cognitive closure]]—McGinn's epistemic thesis—is distinct from observational closure, though cognitively closed properties at the consciousness-physics interface may render violations undetectable.)
 
 ### Empirical Status
 

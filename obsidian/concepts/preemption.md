@@ -4,7 +4,7 @@ description: "Causal preemption occurs when one cause renders another idle—cen
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T07:06:00+00:00
+ai_modified: 2026-03-01T05:30:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-02-20T01:36:00+00:00
+last_deep_review: 2026-03-01T05:30:00+00:00
 ---
 
 Preemption is a causal structure in which one sufficient cause renders another sufficient cause idle, so that only the first does the actual causal work. Unlike overdetermination—where two sufficient causes both contribute to the same effect—preemption involves one cause *operating* while the backup is *sidelined*. The Unfinishable Map's interest in preemption centres on its role in Bradford Saad's [[delegatory-dualism]], where conscious experiences preempt the causal contributions of physical brain states, solving the exclusion problem without overdetermination.
@@ -110,15 +110,3 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 1. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-20
-Changes made:
-1. Rewrote "Why Preemption Rather Than Other Structures?" bullet to explicitly acknowledge that delegatory preemption violates causal closure as standardly formulated, rather than evasively claiming the physical story is merely "displaced"
-1. Rewrote "Observational Closure" paragraph to clearly state that preemption is a metaphysical interpretation, not an empirically testable hypothesis, and that no experiment can distinguish it from standard physicalism
-1. Updated further reading entry for causal-closure to reflect the honest acknowledgment
-
-Based on pessimistic review (pessimistic-2026-02-20-morning.md), Issues 1 and 7.
-Key improvements: Intellectual honesty about the framework's empirical status and its relationship to causal closure.
-
-This log should be removed after human review.
--->

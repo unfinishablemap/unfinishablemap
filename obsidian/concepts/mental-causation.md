@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-26T17:46:00+00:00
+ai_modified: 2026-03-01T05:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ concepts:
   - "[[bidirectional-interaction]]"
   - "[[conservation-laws-mind-brain-causation]]"
   - "[[delegatory-dualism]]"
+  - "[[preemption]]"
   - "[[observational-closure]]"
   - "[[bandwidth-problem-mental-causation]]"
   - "[[neural-bandwidth-constraints-and-the-interface]]"
@@ -95,7 +96,7 @@ Mental properties might "inherit" causal powers from physical realizers through 
 
 ### Delegatory Dualism
 
-Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025) offers a different strategy: accept that physical states could cause behaviour, but hold that experiences *preempt* this causal work rather than duplicating it.
+Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025) offers a different strategy: accept that physical states could cause behaviour, but hold that experiences *[[preemption|preempt]]* this causal work rather than duplicating it.
 
 The mechanism: physical brain states have a "default causal profile"—the pattern of effects they *would* produce absent any experience. When an experience arises whose causal profile matches this default, the experience takes over. Pain causes wincing by *preempting* what the physical state would otherwise do, not by overdetermining alongside it.
 

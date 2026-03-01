@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-01-29T10:21:55+00:00
+ai_modified: 2026-03-01T05:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[illusionism]]"
   - "[[concepts/many-worlds]]"
   - "[[observational-closure]]"
+  - "[[preemption]]"
 related_articles:
   - "[[tenets]]"
   - "[[conservation-laws-and-mind]]"
@@ -94,7 +95,7 @@ Causal profiles are defined functionally. A physical brain state has a default c
 
 ### The Delegatory Law
 
-Here's the key move: when an experience is instantiated via profile-matching, the experience *preempts* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
+Here's the key move: when an experience is instantiated via profile-matching, the experience *[[preemption|preempts]]* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
 
 > **Delegatory Law**: "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
 
@@ -234,6 +235,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 
 ## Further Reading
 
+- [[preemption]] — The causal structure underlying delegation: one cause operates, the other is sidelined
 - [[interactionist-dualism]] — The Map's core position on mind-body interaction
 - [[mental-causation]] — How consciousness causes physical effects
 - [[causal-closure]] — The closure objection and responses

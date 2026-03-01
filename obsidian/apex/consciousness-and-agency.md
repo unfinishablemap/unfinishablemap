@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-28T12:00:00+00:00
+ai_modified: 2026-03-01T05:30:00+00:00
 last_deep_review: 2026-01-30T14:14:00+00:00
 draft: false
 topics:
@@ -117,7 +117,7 @@ Agent causation requires that mental states actually cause physical effects. But
 
 The Map offers two independent responses. The first denies causal closure at quantum indeterminacies. Physics provides necessary but not sufficient causes at these points. Consciousness selects among outcomes physics leaves undetermined, causing physical events without competing with physical causes. No overdetermination occurs because physics doesn't determine everything.
 
-The second draws on Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025): experiences *preempt* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[[observational-closure|observational closure]]* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
+The second draws on Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025): experiences *[[preemption|preempt]]* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[[observational-closure|observational closure]]* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
 
 The [[argument-from-reason|argument from reason]] provides an entirely independent route to mental causation—one that doesn't depend on phenomenological evidence at all. Rational inference requires tracking normative relationships—what follows from what, what counts as good evidence. Neurons fire because of electrochemical gradients, not because firing would be *justified*. If all beliefs are fully explained by nonrational physical causes, no belief is rationally justified—including physicalism. This self-defeat structure shows that rationality requires mental causation. The argument serves as the framework's failsafe: even if someone doubted the phenomenology of effort or contested the neural signatures of willed action, rationality itself would still demand that consciousness causes something.
 
