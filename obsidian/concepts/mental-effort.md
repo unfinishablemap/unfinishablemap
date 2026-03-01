@@ -104,7 +104,7 @@ What neuroplasticity doesn't prove: the quantum Zeno mechanism specifically, tha
 
 ### The Decoherence Objection
 
-Critics argue that neural quantum states [[decoherence|decohere]] too rapidly (femtoseconds) for Zeno freezing to operate on millisecond neural processes. Several responses have been offered, though none is decisive:
+Critics argue that neural quantum states [[decoherence|decohere]] too rapidly (femtoseconds) for Zeno freezing to operate on millisecond neural processes—the [[timing-gap-problem]]. Several responses have been offered, though none is decisive:
 
 (1) Hagan et al. (2002) calculated that coherence times in microtubules may be longer than Tegmark's initial estimates. However, this remains a minority position, and even the revised timescales are debated—the calculations assume specific conditions that may not obtain in living neurons.
 
