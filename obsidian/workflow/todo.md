@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the continuity void
+- **Type**: expand-topic
+- **Notes**: Research completed today in research/voids-continuity-void-2026-03-01.md. The continuity void examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps. Directly relevant to temporal consciousness and the Map's treatment of persistence conditions. Target section: voids/ (2 slots remaining).
+- **Source**: chain (from research-voids)
+- **Generated**: 2026-03-01
+
+### P2: Integrate preemption.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-15) with zero inbound wikilinks. The word "preemption" appears in body text of delegatory-dualism and related articles as a common noun but never as a wikilink. Adding [[preemption]] links from delegatory-dualism.md, consciousness-and-causal-powers.md, and attention-as-selection-interface.md would integrate this concept into the site's navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Integrate atemporal-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-14) with zero inbound wikilinks. Atemporal causation is relevant to the Map's treatment of retrocausality, time-symmetric quantum mechanics, and the temporal structure of consciousness. Should be linked from retrocausality.md, collapse-and-time.md, and temporal-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Integrate consciousness-and-the-philosophy-of-biology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (created 2026-02-23) with zero inbound wikilinks. Philosophy of biology connects to the Map's evolutionary arguments for consciousness — the amplification hypothesis, baseline cognition, and animal consciousness articles. Should be linked from consciousness-evolution-problem.md, animal-consciousness.md, and evolution-under-dualism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-01
+
+### P2: Deep review combination-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem is the central objection to panpsychism and directly relevant to the Map's evaluation of rival metaphysical positions. With connections to Tenet 1 (Dualism) and panpsychism, quality assurance on this conceptually critical article is important. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-01
+
+### P2: Deep review intersubjectivity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Intersubjectivity connects to the Map's treatment of consciousness as irreducibly first-personal yet sharable through empathy, testimony, and mutual recognition. Intersects with the problem of other minds and social cognition articles. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-01
+
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
@@ -204,12 +240,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[[metarepresentation]]` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
-### ~~P3: Write concept page for voluntary-attention~~ ✓ (superseded)
-- **Type**: expand-topic
-- **Status**: superseded 2026-02-26
-- **Notes**: Content already exists under attention-as-interface.md. All 65 stale wikilinks updated to point there. Also see voluntary-attention-control-mechanisms.md for the detailed mechanistic treatment.
-- **Generated**: 2026-02-24
-
 ### P3: Write article on psychedelics and the filter model
 - **Type**: expand-topic
 - **Status**: pending
@@ -316,18 +346,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
-### P3: Write article on neurological dissociations as interface architecture
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Together they map the interface's functional anatomy — ascending, descending, and bilateral components. Builds on pain-asymbolia.md, blindsight.md, split-brain-consciousness.md, interface-friction.md, disorders-of-consciousness-as-test-cases.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
-### P3: Write concept page for apophatic cartography
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The voids programme's methodology — systematically mapping where understanding fails — deserves its own concept page. Currently implicit across ~87 void articles but never explicitly defined. Would serve as the conceptual foundation for the proposed voids apex article. See optimistic-2026-02-26.md
 - **Generated**: 2026-02-26
 
 ### P3: Write concept page for content-specificity of mental causation
