@@ -380,12 +380,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [[reviews/optimistic-2026-03-01]]
 - **Generated**: 2026-03-01
 
-### P2: Integrate adaptive-computational-depth.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (created 2026-02-24) with zero inbound wikilinks. Argues that reality allocating detail where consciousness attends initially seems to support computationalism but actually implies non-computable mind. Should be linked from consciousness-and-simulation.md, computational-theory-of-mind.md, and attention-as-selection-interface.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Review temporal-consciousness.md considering continuity-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/continuity-void.md (2026-03-01) examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps — sleep onset, anaesthesia, absorption states. concepts/temporal-consciousness.md covers the specious present, Bergson's durée, and temporal phenomenology. The continuity void's analysis of constructed-vs-given continuity would strengthen the temporal consciousness article's treatment of how temporal structure may be constitutive of consciousness. Check for cross-links and argument reinforcement.
@@ -415,6 +409,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate adaptive-computational-depth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-24) with zero inbound wikilinks. Argues that reality allocating detail where consciousness attends initially seems to support computationalism but actually implies non-computable mind. Should be linked from consciousness-and-simulation.md, computational-theory-of-mind.md, and attention-as-selection-interface.md.
+- **Output**: obsidian/concepts/adaptive-computational-depth.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Integrate timing-gap-problem.md into site navigation
 - **Type**: integrate-orphan

@@ -76,7 +76,7 @@ Stephen Wolfram proposes computational irreducibility as a limit on prediction. 
 
 "For meaningful general predictions to be possible," Wolfram writes, "the system making predictions must be able to outrun the system it is trying to predict." When systems have equivalent computational power, neither can simulate the other faster than real time. The universe may be its own fastest simulator.
 
-This transforms prediction from a practical challenge into a principled impossibility. Some futures cannot be known until they arrive—not because we lack information but because knowing requires the same resources as living through it.
+This transforms prediction from a practical challenge into a principled impossibility. Some futures cannot be known until they arrive—not because we lack information but because knowing requires the same resources as living through it. Wolfram's thesis has implications for how reality manages complexity: if outcomes cannot be pre-computed, [[adaptive-computational-depth|adaptive computational depth]] suggests reality allocates detail in real time where conscious observers attend, rather than following a pre-computed plan—and the allocator itself must be non-computational.
 
 ## Tractability and Bounded Rationality
 
