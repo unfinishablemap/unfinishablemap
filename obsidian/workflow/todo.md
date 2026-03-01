@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the-case-for-dualism.md considering arguments-against-materialism insights
-- **Type**: cross-review
-- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the strongest arguments against physicalism — knowledge argument, conceivability, multiple realizability, and the hard problem's anti-materialist force. the-case-for-dualism.md is the central hub for the Map's dualist position (Tenet 1) and should cross-reference these assembled arguments, which directly strengthen the positive case. Cross-reviews were done for knowledge-argument.md and functionalism.md but not for this core article. Check for cross-links and argument reinforcement.
-- **Source**: chain (from arguments-against-materialism.md)
-- **Generated**: 2026-03-01
-
 ### P2: Cross-review delegatory-dualism.md considering entanglement-binding-hypothesis insights
 - **Type**: cross-review
 - **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism for phenomenal unity, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. delegatory-dualism.md is the Map's central framework article describing how consciousness delegates to neural processes. If binding requires entanglement, the delegatory model's hierarchy gains a specific physical substrate at the binding level — quantum coherence maintained across the neural populations that consciousness coordinates. Check for cross-links and theoretical reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
@@ -439,6 +433,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review the-case-for-dualism.md considering arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the strongest arguments against physicalism — knowledge argument, conceivability, multiple realizability, and the hard problem's anti-materialist force. the-case-for-dualism.md is the central hub for the Map's dualist position (Tenet 1) and should cross-reference these assembled arguments, which directly strengthen the positive case. Cross-reviews were done for knowledge-argument.md and functionalism.md but not for this core article. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/the-case-for-dualism.md -- Context: Cross-review the-case-for-dualism.md considering arguments-against-materialism insights
 
 ### ✓ 2026-03-01: Review temporal-consciousness.md considering continuity-void insights
 - **Type**: cross-review
