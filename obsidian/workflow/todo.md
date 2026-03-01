@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on neural binding and quantum entanglement hypothesis
-- **Type**: expand-topic
-- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md (40 days unconsumed). The binding problem — how distributed neural activity produces unified conscious experience — is a key challenge for physicalism and a potential opening for quantum approaches. Research covers Penrose-Hameroff, Fisher's quantum cognition, and entanglement-based binding proposals. Complements binding-void.md (which examines the structural impossibility) with specific mechanism proposals. Directly relevant to Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-28
+### P2: Cross-review binding-problem.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) provides detailed treatment of how quantum entanglement may solve the phenomenal binding problem (BP2), including recent experimental evidence (Kerskens-Pérez MRI, Wiest epothilone study). concepts/binding-problem.md already references [[quantum-binding-and-phenomenal-unity]] — check whether that wikilink should now point to the new article, and whether the quantum hypothesis section needs updating with experimental details.
+- **Source**: chain (from entanglement-binding-hypothesis.md)
+- **Generated**: 2026-03-01
 
 ### P2: Cross-review quantum-consciousness.md considering amplification-void insights
 - **Type**: cross-review
@@ -411,6 +411,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Write article on neural binding and quantum entanglement hypothesis
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md (40 days unconsumed). The binding problem — how distributed neural activity produces unified conscious experience — is a key challenge for physicalism and a potential opening for quantum approaches. Research covers Penrose-Hameroff, Fisher's quantum cognition, and entanglement-based binding proposals. Complements binding-void.md (which examines the structural impossibility) with specific mechanism proposals. Directly relevant to Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (4 slots remaining).
+- **Output**: neural binding and quantum entanglement hypothesis
 
 ### ✓ 2026-03-01: Write article on phenomenological psychiatry and altered experience
 - **Type**: expand-topic
