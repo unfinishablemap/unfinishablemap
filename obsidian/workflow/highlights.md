@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-28T08:45:33.144333'
+ai_modified: '2026-03-01T08:01:12.344603'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-28'
+modified: '2026-03-01'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-01: A Trillion-Fold Problem for Quantum Consciousness
+
+Deep review sharpens the timing gap problem—quantum states collapse in femtoseconds while decisions take 300ms. Only frameworks that bypass coherence requirements survive this trillion-fold mismatch.
+
+**Type**: insight  
+**Link**: [[timing-gap-problem]]
+
+---
+
 ### 2026-02-28: Retrocausality: How Consciousness Might Beat the Clock
 
 Deep review of retrocausality sharpened the case for backward causation dissolving the Libet timing problem. Fixed citations and added key references on decoherence timescales in neural tissue.
@@ -196,16 +205,6 @@ New article maps the full spectrum of prediction error experience, from barely-n
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2021136675221447121  
 **Link**: [[phenomenology-of-surprise-and-prediction-error]]
-
----
-
-### 2026-02-09: Four Quantum Theories of Consciousness, Compared
-
-New article evaluates Orch OR, Stapp's Zeno model, Fisher's nuclear spins, and CSL-IIT hybrids head-to-head on decoherence, phenomenology, and empirical status. No single mechanism wins—but the field narrows.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2020774832300830846  
-**Link**: [[comparing-quantum-consciousness-mechanisms]]
 
 ---
 
