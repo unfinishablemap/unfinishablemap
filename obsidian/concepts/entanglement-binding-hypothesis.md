@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-01T00:22:00+00:00
+ai_modified: 2026-03-01T00:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-01
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-01T00:36:00+00:00
 ---
 
 The Unfinishable Map's treatment of the [[binding-problem|binding problem]] distinguishes two challenges: computational binding (BP1)—how the brain coordinates distributed features—and phenomenal binding (BP2)—why that coordination produces unified experience. Classical mechanisms address BP1 but not BP2, because correlated activity in separate neurons remains activity in separate neurons. The entanglement binding hypothesis proposes that quantum entanglement provides the missing ingredient: genuine physical holism where the whole is prior to and irreducible to its parts, structurally matching what [[unity-of-consciousness|phenomenal unity]] seems to require. Early experimental evidence—including MRI signatures of entanglement correlating with consciousness and microtubule-stabilising drugs delaying anaesthesia—lends preliminary support, though the hypothesis remains contested and replication is needed.
@@ -38,7 +38,7 @@ Quantum entanglement is fundamentally different. When particles become entangled
 
 Baum's quantum binding argument strengthens this point. Zero-lag gamma synchrony—neural oscillations coordinated with sub-millisecond precision across cortical distances—cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations of this kind are exclusively quantum phenomena. If zero-lag synchrony is real and functionally relevant to binding, classical frameworks cannot account for it.
 
-Hartmut Neven of Google Quantum AI generalises the point: entanglement is "the only true binding agent in physics." It creates states where components are "mandatory and irreducibly" interconnected. If phenomenal unity requires genuine holism—the whole being prior to its parts—then entanglement is the only known physical mechanism that provides it.
+Hartmut Neven of Google Quantum AI generalises the point: entanglement is "the only true binding agent we have in physics," creating holistic states where individual components are fundamentally interconnected. If phenomenal unity requires genuine holism—the whole being prior to its parts—then entanglement is the only known physical mechanism that provides it.
 
 ## The Orch OR Framework
 
@@ -66,7 +66,7 @@ As Wiest notes: "Since we don't know of another (i.e., classical) way that anaes
 
 ### Twin Study on Entanglement and Learning
 
-A 2025 study using 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in learning accuracy, with the Q coefficient showing up to 31.6% increase in variance across twin responses. While the methodology and interpretation have been questioned, the study suggests quantum effects may influence cognitive processing.
+A 2025 study (Escolà-Gascón) using 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in learning accuracy, with the Q coefficient showing up to 31.6% increase in variance across twin responses. The claims are extraordinary and the methodology has been questioned; the study should be treated as preliminary and provocative rather than confirmatory. If replicated, it would suggest quantum effects influence cognitive processing at a scale detectable in behavioural data.
 
 ## The Decoherence Objection
 
@@ -110,12 +110,15 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 
 ## References
 
-1. Baum, E. Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive*.
-2. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-3. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
-4. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-5. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-6. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-7. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
-8. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
-9. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
+1. Baum, E. Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive*.
+2. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 26, 166-178.
+3. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
+5. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+6. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
+7. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
+8. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+9. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+10. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+11. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+12. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
