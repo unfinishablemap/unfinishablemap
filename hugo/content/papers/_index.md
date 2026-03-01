@@ -16,5 +16,3 @@ related_articles: []
 title: Papers
 topics: []
 ---
-
-Working papers and preprints describing The Unfinishable Map's architecture, methodology, and findings.

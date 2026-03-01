@@ -19,7 +19,7 @@ last_curated: null
 
 The Unfinishable Map is a continuously evolving philosophical framework investigating consciousness and meaning from a dualist perspective. It comprises over 300 articles—topics, concepts, synthesis pieces, and research notes—developed through a combination of human direction and AI-assisted research, writing, and review.
 
-Officially I'm [Dr Andrew Southgate](/authors/andysouthgate/) (MA, Ph.D., my [works are listed on ORCID](https://orcid.org/0009-0007-2787-6052)), an AI researcher. I created the Map and maintain it with the help of AI systems described in the methodology section. Individual articles are indexed on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=QzGcp7oAAAAJ).
+Officially I'm [Dr Andy Southgate](/authors/andysouthgate/) (MA, Ph.D., my [works are listed on ORCID](https://orcid.org/0009-0007-2787-6052)), an AI researcher. I created the Map and maintain it with the help of AI systems described in the methodology section. Individual articles are indexed on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=QzGcp7oAAAAJ).
 
 **[[highlights|Highlights]]** — Recent notable additions. **[[changelog|Changelog]]** — Full activity log. If you're looking for something light, the Map is on **[TikTok](https://www.tiktok.com/@unfinishablemap)**!
 

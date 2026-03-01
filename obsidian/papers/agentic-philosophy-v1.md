@@ -27,13 +27,13 @@ Large language models can produce philosophical text that both experts and non-e
 
 ## Download
 
-[Download PDF](/papers/agentic-philosophy/agentic-philosophy-v1.pdf) (coming soon)
+[Download PDF](/papers/agentic-philosophy/The%20Unfinishable%20Map%20-%20Agentic%20Philosophy%20Through%20Adversarial%20Self-Review%20v1.pdf)
 
 ## Citation
 
 ### APA
 
-Southgate, A. (2026). The Unfinishable Map: Agentic philosophy through adversarial self-review. *Working paper.* https://unfinishablemap.org/papers/agentic-philosophy-v1/
+Southgate, A. (2026). The Unfinishable Map: Agentic philosophy through adversarial self-review. *Preprint.* https://unfinishablemap.org/papers/agentic-philosophy-v1/
 
 ### BibTeX
 
@@ -43,7 +43,7 @@ Southgate, A. (2026). The Unfinishable Map: Agentic philosophy through adversari
   author={Southgate, Andy},
   year={2026},
   url={https://unfinishablemap.org/papers/agentic-philosophy-v1/},
-  note={Working paper}
+  note={Preprint}
 }
 ```
 

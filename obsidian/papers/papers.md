@@ -15,5 +15,3 @@ ai_system: null
 ai_generated_date: null
 last_curated: null
 ---
-
-Working papers and preprints describing The Unfinishable Map's architecture, methodology, and findings.
