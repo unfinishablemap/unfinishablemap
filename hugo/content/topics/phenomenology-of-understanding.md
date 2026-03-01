@@ -143,7 +143,7 @@ The phenomenology of understanding supports the "liberalist" position in [cognit
 
 **The recursive language case.** Understanding "The man ran" differs phenomenally from understanding "The man who saw the woman who chased the dog ran." The difference is structural — holding embedded clauses in relation — not sensory.
 
-These cases connect to the [phenomenal intentionality thesis](/concepts/phenomenal-intentionality/): genuine "aboutness" of mental states derives from phenomenal consciousness. When you understand a sentence, the felt character of understanding constitutes its content. Inferential understanding strengthens this: the mental state is about the *connection* P→Q, not just P and Q separately. The phenomenal character of seeing-why constitutes the relational content. Strip away the phenomenal experience of following, and what remains is association — not implication.
+These cases connect to the [phenomenal intentionality thesis](/concepts/intentionality/): genuine "aboutness" of mental states derives from phenomenal consciousness. When you understand a sentence, the felt character of understanding constitutes its content. Inferential understanding strengthens this: the mental state is about the *connection* P→Q, not just P and Q separately. The phenomenal character of seeing-why constitutes the relational content. Strip away the phenomenal experience of following, and what remains is association — not implication.
 
 Evidence from [semantic-memory](/concepts/semantic-memory/) reinforces the case. The tip-of-the-tongue state reveals meaning's experiential character: you have phenomenal access to meaning (can identify the word's first letter, syllable count, related concepts) without access to form. If meaning were non-phenomenal, this dissociation would be inexplicable. The feeling of knowing — sensing you know something before retrieving it — likewise tracks actual knowledge accurately, suggesting phenomenal presence even when retrieval fails.
 
@@ -200,7 +200,7 @@ Several findings would weaken PCT:
 ## Further Reading
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader debate about whether thinking has phenomenal character
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine aboutness requires phenomenal consciousness
+- [phenomenal-intentionality](/concepts/intentionality/) — Why genuine aboutness requires phenomenal consciousness
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal unfolding of comprehension
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself

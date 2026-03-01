@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Phenomenal Intentionality](/concepts/phenomenal-intentionality/)
+**Article**: [Phenomenal Intentionality](/concepts/intentionality/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

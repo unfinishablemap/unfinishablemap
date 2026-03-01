@@ -3887,7 +3887,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 14:04 UTC - coalesce
 - **Status**: Success
-- **Sources**: [entanglement-binding-hypothesis](/topics/quantum-binding-and-phenomenal-unity/)
+- **Sources**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
 - **Target**: [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - **Archived**: [entanglement-binding-hypothesis](/archive/concepts/entanglement-binding-hypothesis/)
 - **References to review**: none (only changelog and research notes reference the archived article)
@@ -3921,7 +3921,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 13:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: neural binding and quantum entanglement
-- **Output**: [entanglement-binding-hypothesis](/topics/quantum-binding-and-phenomenal-unity/)
+- **Output**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
 - **Word count**: 1880
 - **Based on research**: yes — [neural-binding-quantum-entanglement-2026-01-19](/research/neural-binding-quantum-entanglement-2026-01-19/)
 
@@ -3948,7 +3948,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 13:26 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- **File**: [phenomenal-intentionality](/concepts/intentionality/)
 - **Word count**: 2286 → 2286 (no change)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0 (article stable from earlier review)
@@ -3974,7 +3974,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 13:15 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- **File**: [phenomenal-intentionality](/concepts/intentionality/)
 - **Word count**: 2184 → 2286 (+102)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (many-worlds argument, heterophenomenology link, empirical distinctiveness)
@@ -5007,7 +5007,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 02:15 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenal intentionality
-- **Output**: [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- **Output**: [phenomenal-intentionality](/concepts/intentionality/)
 - **Word count**: 2184
 - **Based on research**: yes, [intentionality-consciousness-2026-01-14](/research/intentionality-consciousness-2026-01-14/)
 

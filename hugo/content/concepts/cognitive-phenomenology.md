@@ -164,7 +164,7 @@ Cognitive phenomenology might be proprietary but not individuative—perhaps all
 
 ## Phenomenal Intentionality
 
-Cognitive phenomenology connects to the [phenomenal intentionality thesis (PIT)](/concepts/phenomenal-intentionality/): genuine [intentionality](/concepts/intentionality/)—the "aboutness" of mental states—derives from phenomenal consciousness.
+Cognitive phenomenology connects to the [phenomenal intentionality thesis (PIT)](/concepts/intentionality/): genuine [intentionality](/concepts/intentionality/)—the "aboutness" of mental states—derives from phenomenal consciousness.
 
 The content determinacy problem asks: what makes a thought about X rather than Y? Physical description underdetermines content. PIT answers: phenomenal character determines it. If a thought has the phenomenal character of being about democracy, it's about democracy.
 
@@ -267,7 +267,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, doubt, certainty, and other epistemic feelings
 - [semantic-memory](/concepts/semantic-memory/) — TOT/FOK phenomenology and noetic consciousness
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — How consciousness grounds intentional content
+- [phenomenal-intentionality](/concepts/intentionality/) — How consciousness grounds intentional content
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds AI systems lack genuine understanding
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and its regress problem

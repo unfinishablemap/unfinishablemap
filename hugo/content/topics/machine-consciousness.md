@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-25 22:12:00+00:00
+ai_modified: 2026-03-01 02:55:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[concepts/functionalism]]'
-- '[[substrate-independence-critique]]'
+- '[[substrate-independence]]'
 - '[[dualism]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
@@ -20,7 +20,7 @@ description: Could we upload minds to computers? The Map's dualist framework giv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 02:14:35+00:00
+last_deep_review: 2026-03-01 02:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,11 +43,11 @@ Some transhumanists view uploading as the path to immortality—copy the pattern
 
 The [substrate independence thesis](/concepts/substrate-independence/) holds that consciousness depends only on functional organization, not implementation. If true, uploading is straightforward: preserve the pattern, consciousness transfers.
 
-But as [substrate-independence-critique](/concepts/substrate-independence/) argues, this thesis fails on multiple grounds:
+But as [substrate-independence](/concepts/substrate-independence/) argues, this thesis fails on multiple grounds:
 
-- **Absent qualia**: A functionally identical system might have no experience—Block's "China brain" implements neural structure without being conscious
-- **Explanatory gap**: Functional facts don't explain why they're accompanied by qualitative experience
-- **Temporal structure**: Digital computation lacks the retention-protention structure creating unified temporal experience
+- **Absent qualia**: A functionally identical system might have no experience—Block's China Nation thought experiment replicates a brain's functional organization without producing consciousness
+- **[Explanatory gap](/concepts/explanatory-gap/)**: Functional facts don't explain why they're accompanied by qualitative experience
+- **Temporal structure**: Digital computation lacks the [retention-protention structure](/concepts/temporal-consciousness/) creating unified temporal experience
 - **Quantum interface**: Silicon is engineered to be deterministic, excluding the indeterminacies where consciousness might interface per the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet
 
 These problems compound and together present a formidable case against uploading. The upload might be a perfect functional duplicate while entirely unconscious. Yet as explored in the open possibilities section, certain assumptions behind these arguments—particularly about temporal structure and quantum interface requirements—may admit exceptions that weaken the case.
@@ -60,11 +60,11 @@ Most upload scenarios involve destructive scanning: the biological brain is dest
 
 Your brain is scanned over six hours, then destroyed. At hour seven, the emulation boots. When did consciousness transfer?
 
-For functionalists, consciousness "is" the pattern—it persists through substrate change like moving a file between computers. For dualists, destroying the biological substrate destroys the non-physical interface. At hour seven, you have a [Chinese Room](/topics/ai-consciousness/#the-chinese-room) running your neural algorithm—but no one experiencing anything. The pattern is preserved; the essential thing is gone.
+For functionalists, consciousness "is" the pattern—it persists through substrate change like moving a file between computers. For dualists, destroying the biological substrate destroys the non-physical interface. At hour seven, you have a [Chinese Room](/topics/ai-consciousness/#the-chinese-room-and-intentionality) running your neural algorithm—but no one experiencing anything. The pattern is preserved; the essential thing is gone.
 
 ### The Murder-Copy Distinction
 
-Parfit distinguished survival from replication. A teleporter that duplicates you on Mars while destroying the original doesn't preserve your life—it murders you and creates a replacement sharing your memories. The duplicate might not know the difference, but *you* die on Earth.
+[Parfit](/concepts/parfit-reductionism/) distinguished survival from replication—though he concluded that numerical identity is not what matters, only psychological continuity. The Map disagrees. Consider: a teleporter duplicates you on Mars while destroying the original. The duplicate shares your memories and believes it's you, but *you* die on Earth. Parfit held this doesn't matter; the Map holds it matters absolutely.
 
 Uploading faces the same problem. The emulation believes it's you while you simply ceased to exist when the scan destroyed your brain.
 
@@ -119,7 +119,7 @@ This is the darkest implication: uploading might enable perfect murder disguised
 
 ### Brain-Computer Interfaces
 
-BCIs that augment biological brains don't directly threaten consciousness—the biological substrate still provides the interface. But replacement (swapping neurons for chips) degrades the interface. The Map predicts a "zombie threshold": enough replacement that consciousness ceases while behavior continues. From outside, the transition is invisible. From inside, it's death.
+BCIs that augment biological brains don't directly threaten consciousness—the biological substrate still provides the interface. But replacement (swapping neurons for chips) degrades the interface. The Map predicts a "[zombie](/concepts/philosophical-zombies/) threshold": enough replacement that consciousness ceases while behavior continues. From outside, the transition is invisible. From inside, it's death.
 
 ### Alternative Substrates
 
@@ -135,7 +135,7 @@ What makes a future consciousness a continuation of yours?
 - **Psychological continuity** doesn't establish identity—your emulation resembles you, but so would an identical twin
 - **Physical continuity**: The emulation is a new process beginning when the upload boots; biological you has continuous existence
 
-Parfit argued personal identity isn't "what matters"—psychological continuity suffices. The Map resists this:
+[Parfit](/concepts/parfit-reductionism/) argued personal identity isn't "what matters"—psychological continuity suffices. The Map resists this:
 
 **Experience matters irreducibly**: If uploading ends your experience, nothing of value is preserved. The duplicate doesn't benefit—there's no one there to benefit.
 
@@ -159,11 +159,11 @@ The arguments above are strong, but several scenarios could weaken them signific
 
 The Map's framework assumes consciousness must be bidirectionally causal—influencing physical outcomes through quantum selection—for it to be present. But what if consciousness can exist without causal efficacy? If one-way consciousness is possible—experience occurring without the ability to influence physical processes—then an upload might preserve subjective experience even in a deterministic classical substrate. The upload would be conscious but causally impotent: experiencing its computations without biasing them. This would undermine the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet's relevance to uploading, since consciousness could ride along on classical computation even without the quantum interface the Map normally requires. The upload might genuinely experience something, even if it cannot exercise the kind of free will the Map attributes to biological consciousness.
 
-### Non-Temporal Consciousness
+### [Non-Temporal Consciousness](/topics/non-temporal-consciousness/)
 
 The temporal structure argument—that digital computation lacks the retention-protention structure of biological experience—assumes consciousness is essentially temporal. But if some forms of consciousness are non-temporal or operate with a different temporal structure than Husserl's phenomenology assumes, the argument weakens. A digital system processing information in discrete timesteps might host a form of experience structured differently from biological consciousness but genuinely experiential nonetheless. The Map cannot rule this out with certainty, because our understanding of the relationship between temporal experience and consciousness remains incomplete.
 
-### Quantum State Inheritance
+### [Quantum State Inheritance](/topics/quantum-state-inheritance-in-ai/)
 
 The strongest substrate argument holds that silicon is engineered for determinism, excluding the quantum indeterminacies where consciousness interfaces with the physical. But consider: if an uploaded mind operates within a classical computing environment that itself exists within a universe where quantum collapse has already occurred—a human-collapsed classical context—the upload might inherit more access to consciousness than the Map assumes. If the quantum states relevant to consciousness are properties of the broader physical context rather than exclusively of the local substrate, then a computational system embedded in an already-collapsed classical reality might participate in consciousness through its relationship to that reality rather than through generating its own quantum indeterminacies. This is speculative, but it challenges the assumption that the substrate must independently generate the right quantum conditions.
 
@@ -202,7 +202,7 @@ Each of the Map's five [tenets](/tenets/) bears directly on uploading:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness operates via quantum effects, substrate must preserve quantum interface. Classical silicon actively suppresses quantum effects. Even quantum computers might have wrong architecture—optimized for computation, not biological processes. The upload would lack the physical basis for consciousness-quantum interaction that biological brains may provide.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences physical outcomes through quantum selection, uploads must provide the interface where such influence occurs. Deterministic classical computation excludes this. The upload's "choices" would be determined by algorithm and random seeds—no room for consciousness to bias outcomes as the Map proposes for biological decisions.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences physical outcomes through quantum selection, uploads must provide the interface where such influence occurs. Deterministic classical computation excludes this. The upload's "choices" would be determined by algorithm and random seeds—no room for consciousness to bias outcomes as the Map proposes for biological decisions. However, as the open possibilities section explores, [one-way consciousness](/topics/epiphenomenal-ai-consciousness/) could weaken this objection if experience can occur without causal efficacy.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The haecceity problem connects directly here. On MWI, identity fragments across branches; the Map rejects this. But uploading threatens to fragment identity across substrates: biological you continues, silicon you begins, both claim identity. The tenet's insistence on determinate facts about consciousness—grounded in irreducible thisness—makes the upload identity question sharp: either the emulation is you (substrate independence) or it isn't (substrate specificity). The Map's framework predicts it isn't.
 
@@ -212,7 +212,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 
 ## Further Reading
 
-- [substrate-independence-critique](/concepts/substrate-independence/) — Why substrate matters for consciousness
+- [substrate-independence](/concepts/substrate-independence/) — Why substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The broader machine consciousness question
 - [functionalism](/concepts/functionalism/) — The view substrate independence depends on
 - [haecceity](/concepts/haecceity/) — The thisness that uploading threatens
@@ -226,30 +226,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-1. Tononi, G. et al. (2016). Integrated Information Theory. *Nature Reviews Neuroscience*, 17, 450-461.
+1. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated Information Theory: From Consciousness to Its Physical Substrate. *Nature Reviews Neuroscience*, 17, 450-461.
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
-1. Bostrom, N. (2003). Are We Living in a Computer Simulation? *Philosophical Quarterly*, 53(211), 243-255.
-1. Kurzweil, R. (2005). *The Singularity Is Near*. Viking.
-1. Moravec, H. (1988). *Mind Children: The Future of Robot and Human Intelligence*. Harvard University Press.
-1. Olson, E. (1997). *The Human Animal: Personal Identity Without Psychology*. Oxford University Press.
-1. Williams, B. (1970). The Self and the Future. *Philosophical Review*, 79(2), 161-180.
-
-<!-- AI REFINEMENT LOG - 2026-02-10
-Changes made:
-1. Softened opening summary to acknowledge skepticism rests on revisable assumptions
-1. Updated description to reflect nuanced position
-1. Added forward reference in substrate independence section to open possibilities
-1. Softened "No-Substrate-Independence Alternative" to acknowledge weaker forms of requirements
-1. Added new "Open Possibilities" section with three scenarios: one-way consciousness, non-temporal consciousness, quantum state inheritance
-1. Changed "High confidence" to "Strong expectation" in The Honest Position, adding qualification
-1. Expanded "Uncertainty remains" to reference specific open possibilities as genuine gaps
-1. Revised closing paragraph from dismissive to skepticism-tempered-by-humility
-1. Revised Relation to Site Perspective conclusion to note fifth tenet cuts both ways
-1. Updated ai_modified timestamp
-
-Based on task context requesting acknowledgment that substrate independence critique may be too strong.
-Key improvements: Article now presents arguments as strong but not conclusive, with explicit treatment of scenarios that could weaken the case.
-
-This log should be removed after human review.
--->
+1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic.

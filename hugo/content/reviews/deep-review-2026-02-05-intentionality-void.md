@@ -51,7 +51,7 @@ topics: []
 - Mixed void classification connecting to three-kinds-of-void framework
 
 ### Enhancements Made
-- Added [phenomenal-intentionality](/concepts/phenomenal-intentionality/) cross-link in Original vs Derived Intentionality section, connecting aboutness to phenomenal character
+- Added [phenomenal-intentionality](/concepts/intentionality/) cross-link in Original vs Derived Intentionality section, connecting aboutness to phenomenal character
 - Added [introspective-opacity](/voids/introspective-opacity/) cross-link in Evidence section, connecting to the structural limit concept
 - Added No Many Worlds tenet connection in Relation to Site Perspective
 - Tightened Symbol Grounding and AI sections to maintain length neutrality
@@ -66,7 +66,7 @@ topics: []
 - [introspection](/concepts/introspection/) — Added in process/content distinction section
 
 ### Cross-links Added (Outbound)
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — in Original vs Derived section
+- [phenomenal-intentionality](/concepts/intentionality/) — in Original vs Derived section
 - [introspective-opacity](/voids/introspective-opacity/) — in Evidence section
 
 ## Remaining Items

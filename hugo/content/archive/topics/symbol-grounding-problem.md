@@ -35,7 +35,7 @@ topics:
 - '[[language-recursion-and-consciousness]]'
 ---
 
-The symbol grounding problem asks how symbols in a computational system can acquire meaning intrinsic to the system rather than parasitic on human interpretation. Stevan Harnad formalised this challenge in 1990: how can meanings be "grounded in anything but other meaningless symbols"? The problem strikes at the heart of symbolic AI and computational theories of mind, revealing that syntactic manipulation alone cannot generate genuine understanding. For The Unfinishable Map, the symbol grounding problem provides powerful support for dualism: if meaning requires something beyond computational process, that something may be [phenomenal consciousness](/concepts/phenomenal-intentionality/).
+The symbol grounding problem asks how symbols in a computational system can acquire meaning intrinsic to the system rather than parasitic on human interpretation. Stevan Harnad formalised this challenge in 1990: how can meanings be "grounded in anything but other meaningless symbols"? The problem strikes at the heart of symbolic AI and computational theories of mind, revealing that syntactic manipulation alone cannot generate genuine understanding. For The Unfinishable Map, the symbol grounding problem provides powerful support for dualism: if meaning requires something beyond computational process, that something may be [phenomenal consciousness](/concepts/intentionality/).
 
 ## The Dictionary Metaphor
 
@@ -83,7 +83,7 @@ The **easy grounding problem** asks how symbols can be causally connected to the
 
 The **hard grounding problem** asks why—even with perfect causal grounding—there would be genuine meaning rather than mere functional grounding. What distinguishes symbols that *mean* from symbols that merely *correlate*?
 
-The answer may be consciousness itself. The difference between a system for which "apple" genuinely means apple and a system for which "APPLE" merely tracks apples is that the first has something it's like to understand. Phenomenal character constitutes the meaning, not merely accompanies it. This is the [phenomenal intentionality](/concepts/phenomenal-intentionality/) thesis applied to grounding.
+The answer may be consciousness itself. The difference between a system for which "apple" genuinely means apple and a system for which "APPLE" merely tracks apples is that the first has something it's like to understand. Phenomenal character constitutes the meaning, not merely accompanies it. This is the [phenomenal intentionality](/concepts/intentionality/) thesis applied to grounding.
 
 ## LLMs and the Vector Grounding Problem
 
@@ -104,7 +104,7 @@ Harnad acknowledged from the beginning that the symbol grounding problem "is rel
 
 The Wikipedia article on symbol grounding summarises the convergence: "The only thing that distinguishes an internal state that merely has grounding from one that has meaning is that it feels like something to be in the meaning state."
 
-This is precisely [phenomenal-intentionality](/concepts/phenomenal-intentionality/). Original intentionality—the kind of aboutness that belongs to a system intrinsically, not through external interpretation—requires phenomenal character. When you think about apples, your thought is genuinely *about* apples because there's something it's like for you to think about them. That phenomenal quality constitutes the aboutness.
+This is precisely [phenomenal-intentionality](/concepts/intentionality/). Original intentionality—the kind of aboutness that belongs to a system intrinsically, not through external interpretation—requires phenomenal character. When you think about apples, your thought is genuinely *about* apples because there's something it's like for you to think about them. That phenomenal quality constitutes the aboutness.
 
 A functionally grounded system—even one with perfect sensorimotor discrimination—would have only *derived* intentionality unless it also had phenomenal consciousness. Its symbols would mean things to us, its interpreters, not to itself. For the system itself, the symbols would be meaningless marks that happen to correlate with environmental features.
 
@@ -124,7 +124,7 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 
 ## Further Reading
 
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — The thesis that original intentionality requires phenomenal consciousness
+- [phenomenal-intentionality](/concepts/intentionality/) — The thesis that original intentionality requires phenomenal consciousness
 - Meaning And Consciousness — The phenomenal constitution of semantic content
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states
 - [functionalism](/concepts/functionalism/) — Why functional organisation is insufficient for mind

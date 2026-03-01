@@ -141,7 +141,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 |------|-----|--------|
 | [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) | [consciousness-value-connection](/concepts/consciousness-value-connection/) | Valence as intrinsic evaluative property directly grounds the consciousness-value connection |
 | [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Accumulative awareness in creation is a specific form of temporal consciousness |
-| [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) | [phenomenal-intentionality](/concepts/phenomenal-intentionality/) | Artist's intentional aboutness exemplifies phenomenal intentionality in action |
+| [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) | [phenomenal-intentionality](/concepts/intentionality/) | Artist's intentional aboutness exemplifies phenomenal intentionality in action |
 | [consciousness-value-connection](/concepts/consciousness-value-connection/) | [phenomenal-value-realism](/topics/phenomenal-value-realism/) | Currently poorly linked; the concept grounds the topic's central argument |
 | [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) | [knowledge-argument](/concepts/knowledge-argument/) | What Mary learns upon seeing red is acquaintance—the epistemic connection is direct |
 | [witness-consciousness](/concepts/witness-consciousness/) | [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) | Witness mode is a specific meditation-accessed consciousness mode |

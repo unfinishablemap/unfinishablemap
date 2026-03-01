@@ -90,7 +90,7 @@ topics: []
 
 ### Cross-links Added
 
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Content-specificity and the PIT thesis
+- [phenomenal-intentionality](/concepts/intentionality/) — Content-specificity and the PIT thesis
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Dissociation evidence for phenomenal causation
 - [consciousness-and-pain](/topics/why-pain-hurts/) — Convergent pain phenomena
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — What psychophysical laws must explain

@@ -98,7 +98,7 @@ When binding fails — when you lose track of how earlier steps support later on
 
 ## Inference and Phenomenal Intentionality
 
-The [phenomenal intentionality thesis](/concepts/phenomenal-intentionality/) (PIT) holds that genuine [intentionality](/concepts/intentionality/) — the "aboutness" of mental states — derives from phenomenal consciousness. The phenomenology of inferential understanding provides especially strong support for PIT.
+The [phenomenal intentionality thesis](/concepts/intentionality/) (PIT) holds that genuine [intentionality](/concepts/intentionality/) — the "aboutness" of mental states — derives from phenomenal consciousness. The phenomenology of inferential understanding provides especially strong support for PIT.
 
 Inference is not just about individual propositions but about *relationships between* propositions. When you infer Q from P, your mental state is about the connection P→Q, not just about P and Q separately. This relational aboutness — experiencing one thing as *following from* another — seems to require phenomenal character. What makes the mental state about the *implication* rather than a mere conjunction? PIT's answer: the phenomenal character of seeing-why constitutes the relational content. Strip away the phenomenal experience of following, and what remains is association — temporal contiguity, correlation — but not implication.
 
@@ -139,7 +139,7 @@ It is worth noting, in the spirit of [mysterian](/concepts/mysterianism/) honest
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The broader phenomenology of grasping meaning
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has phenomenal character
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — How phenomenal consciousness grounds aboutness
+- [phenomenal-intentionality](/concepts/intentionality/) — How phenomenal consciousness grounds aboutness
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical inference as paradigm case
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/) — The felt weight of reasons

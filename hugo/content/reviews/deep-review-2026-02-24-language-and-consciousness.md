@@ -45,7 +45,7 @@ topics: []
 - Fair treatment of opposing views (inferentialism, positivism) before taking positions
 
 ### Enhancements Made
-- Added cross-link to [phenomenal-intentionality](/concepts/phenomenal-intentionality/) in the Grice/Searle section — directly relevant to the meaning-consciousness connection
+- Added cross-link to [phenomenal-intentionality](/concepts/intentionality/) in the Grice/Searle section — directly relevant to the meaning-consciousness connection
 - Added cross-link to [functionalism](/concepts/functionalism/) where behaviourism's failure is discussed
 - Added cross-link to [materialism](/concepts/materialism/) in the Relation to Site Perspective section
 - Added cross-link to [epiphenomenalism](/concepts/epiphenomenalism/) in the bidirectional interaction argument, strengthening the anti-epiphenomenalist case
@@ -54,7 +54,7 @@ topics: []
 - Updated References section: added Searle (1992), corrected Carnap citation to 1932 paper
 
 ### Cross-links Added
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- [phenomenal-intentionality](/concepts/intentionality/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [materialism](/concepts/materialism/)
 - [functionalism](/concepts/functionalism/)

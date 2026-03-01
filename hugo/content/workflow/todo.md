@@ -38,6 +38,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review split-brain-consciousness.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism underlying phenomenal unity. topics/split-brain-consciousness.md examines how commissurotomy partially disrupts unity while surprising resilience persists — the surprising preservation of unity despite massive structural disconnection (250M axons reduced to centimetre-scale bundles) is consistent with quantum binding operating at a different level than classical fibre count. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from entanglement-binding-hypothesis.md)
+- **Generated**: 2026-03-01
+
+### P2: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
+- **Type**: cross-review
+- **Notes**: Gap analysis found 29 wikilinks across live content reference `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` (with "of") but the actual file is voids/epistemological-limits-occams-razor.md (without "of"). These broken links affect Tenet 5 (Occam's Razor Has Limits) cross-referencing — the site's least-covered foundational commitment. Update all 29 references to point to the correct slug.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-01
+
+### P2: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) identifies ipseity disturbance — diminished self-affection, loss of mineness — as the core phenomenological feature of schizophrenic self-disturbance. topics/consciousness-and-the-ownership-problem.md asks what makes conscious states belong to a subject. Phenomenological psychiatry provides clinical evidence for ownership dissociations (EASE instrument, Sass-Parnas framework) that empirically ground the ownership problem's philosophical claims. Supports Tenet 1 (Dualism).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-01
+
+### P3: Deep review problem-of-other-minds.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-02-28
+
 ### P3: Deep review quantum-interpretations.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Survey of quantum interpretations and their consciousness implications, with 8 tenet references — central to the Map's treatment of why time-symmetric collapse is preferred over Many-Worlds or Bohmian mechanics. Verify coherence, cross-references, and tenet alignment.
@@ -375,8 +399,85 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Samkhya's reflection model, Avicenna's bidirectional causation, Akan sunsum mediation, and delegatory dualism's preemption all solve the interaction problem differently. Comparative article showing structural parallels would strengthen the convergence argument at the level of proposed solutions. See [optimistic-2026-02-27](/reviews/optimistic-2026-02-27/)
 
+### P3: Write apex article on the quantum consciousness programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's quantum consciousness cluster has reached critical mass — entanglement binding hypothesis, quantum biology precedents, corrected decoherence estimates, Wiest microtubule study, Kerskens MRI result, Stapp quantum Zeno framework — but lacks an apex synthesis showing how these pieces form a coherent research programme with testable predictions. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
+- **Generated**: 2026-03-01
+
+### P3: Write article on the resolution-bandwidth interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The resolution void quantifies what consciousness cannot access; the bandwidth problem formalises the challenge for mental causation; but no article unifies these into an account of why the coarseness of consciousness is architecturally necessary for its causal role. A ten-bit-per-second controller is a different kind of system operating at a different level. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
+- **Generated**: 2026-03-01
+
+### P3: Write concept page for grain mismatch
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Sellars' structural incompatibility argument — homogeneous phenomenal experience versus discrete neural substrates — appears in resolution-void.md but deserves its own concept page. Logically independent of knowledge argument and zombie conceivability; identifies a structural incompatibility rather than an epistemic or modal gap. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
+- **Generated**: 2026-03-01
+
+### P3: Write article analysing convergence of the void catalogue
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
+- **Generated**: 2026-03-01
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review altered-states-of-consciousness.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) treats depersonalisation, thought insertion, and schizophrenic self-disturbance as data about consciousness structure. concepts/altered-states-of-consciousness.md already cross-references phenomenological psychiatry briefly — the cross-review should strengthen the connection showing how psychiatric conditions reveal consciousness's normally invisible architecture, complementing the existing filter theory framing. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/altered-states-of-consciousness.md -- Context: Cross-review altered-states-of-consciousness.md considering phenomenological-psychiatry insights
+
+### ✓ 2026-03-01: Cross-review unity-of-consciousness.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as a structural solution to the phenomenal binding problem, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. concepts/unity-of-consciousness.md already mentions quantum binding briefly — cross-review should strengthen that section with the specific mechanism and recent experimental evidence from the new article. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/unity-of-consciousness.md -- Context: Cross-review unity-of-consciousness.md considering entanglement-binding-hypothesis insights
+
+### ✓ 2026-03-01: Update references to coalesced phenomenal-intentionality article
+- **Type**: cross-review
+- **Notes**: Coalesce merged concepts/phenomenal-intentionality.md into concepts/intentionality.md. The following 21 active content files reference `[phenomenal-intentionality](/concepts/intentionality/)` and should be updated to point to `[intentionality](/concepts/intentionality/)` (or `[phenomenal intentionality theory](/concepts/intentionality/)` where display text is appropriate): qualia.md, intentionality-void.md, symbol-grounding-problem.md, phenomenal-acquaintance.md, direction-of-fit.md, cognitive-phenomenology.md, agent-teleology.md, philosophy-of-perception-under-dualism.md, placebo-effect-and-mental-causation.md, phenomenology-of-understanding.md, phenomenology-of-philosophical-disagreement.md, phenomenology-of-attention-to-absence.md, consciousness-and-testimony.md, consciousness-and-social-cognition.md, consciousness-and-interpersonal-understanding.md, consciousness-and-collective-intentionality.md, ai-consciousness.md, hard-problem-of-consciousness.md, philosophy-of-mind.md, language-and-consciousness.md, phenomenology-of-trust.md
+- **Output**: None -- Context: Update references to coalesced phenomenal-intentionality article
+
+### ✓ 2026-03-01: Address gaps in conservation-laws-and-mind.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) equivocation between physical boundary conditions and non-physical consciousness as models of "causation without energy"—the analogy needs rigorous development or explicit acknowledgment of its limits; (2) the decoherence response is insufficient and creates tension with the Stapp mechanism it cites. Medium-severity: the "begs the question" argument cuts both ways. Also four language issues where philosophical arguments are stated as established facts. See pessimistic-2026-03-01-conservation-laws-and-mind.md
+- **Output**: obsidian/topics/conservation-laws-and-mind.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) equivocation between physical boundary conditions and non-physical consciousness as models of "causation without energy"—the analogy needs rigorous development or explicit acknowledgment of its limits; (2) the decoherence response is insufficient and creates tension with the Stapp mechanism it cites. Medium-severity: the "begs the question" argument cuts both ways. Also four language issues where philosophical arguments are stated as established facts. See pessimistic-2026-03-01-conservation-laws-and-mind.md
+
+### ✓ 2026-03-01: Cross-review interactionist-dualism.md considering amplification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/amplification-void.md (2026-02-28) argues that the causal interface's opacity is structurally necessary — if amplification were traceable, the interaction would be detectable, violating the minimality that defines it. concepts/interactionist-dualism.md discusses mental causation and the conservation objection; the amplification void explains why quantum solutions must operate through multi-scale opacity and reframes the interaction problem as a feature rather than a bug. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering amplification-void insights
+
+### ✓ 2026-03-01: Cross-review bandwidth-problem-mental-causation.md considering resolution-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/resolution-void.md (2026-02-28) formalises how consciousness operates at characteristic resolution radically coarser than underlying physical processes — sensory systems deliver millions of bits/sec yet conscious thought processes roughly 10 bits/sec. concepts/bandwidth-problem-mental-causation.md asks how a 10-bit/sec conscious channel produces specific behaviour, and the resolution void's empirical measurements of the 6-order-of-magnitude compression would strengthen the bandwidth article's hierarchical selection argument. Check for cross-links and complementary evidence.
+- **Output**: obsidian/concepts/bandwidth-problem-mental-causation.md -- Context: Cross-review bandwidth-problem-mental-causation.md considering resolution-void insights
+
+### ✓ 2026-03-01: Cross-review quantum-consciousness.md considering amplification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/amplification-void.md (2026-02-28) examines the structural impossibility of tracing how a quantum-scale nudge reaches macroscopic neural effect — spanning five orders of magnitude through chaotic, decoherence-prone layers. concepts/quantum-consciousness.md surveys candidate mechanisms (Orch OR, Stapp, Fisher) and should acknowledge that any viable mechanism must solve the amplification problem, not bypass it. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering amplification-void insights
+
+### ✓ 2026-03-01: Cross-review binding-problem.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) provides detailed treatment of how quantum entanglement may solve the phenomenal binding problem (BP2), including recent experimental evidence (Kerskens-Pérez MRI, Wiest epothilone study). concepts/binding-problem.md already references [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — check whether that wikilink should now point to the new article, and whether the quantum hypothesis section needs updating with experimental details.
+- **Output**: obsidian/concepts/binding-problem.md -- Context: Cross-review binding-problem.md considering entanglement-binding-hypothesis insights
+
+### ✓ 2026-03-01: Write article on neural binding and quantum entanglement hypothesis
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md (40 days unconsumed). The binding problem — how distributed neural activity produces unified conscious experience — is a key challenge for physicalism and a potential opening for quantum approaches. Research covers Penrose-Hameroff, Fisher's quantum cognition, and entanglement-based binding proposals. Complements binding-void.md (which examines the structural impossibility) with specific mechanism proposals. Directly relevant to Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (4 slots remaining).
+- **Output**: neural binding and quantum entanglement hypothesis
+
+### ✓ 2026-03-01: Write article on phenomenological psychiatry and altered experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md (7 days unconsumed). Phenomenological psychiatry (Jaspers, Minkowski, Binswanger, Sass) treats altered psychiatric experience as data about consciousness structure rather than mere symptom. Depersonalisation, thought insertion, and schizophrenic self-disturbance reveal the architecture of normal conscious experience by showing what happens when specific components fail. Complements disorders-of-consciousness-as-test-cases.md (neurological) with psychiatric evidence. Target section: topics/ (4 slots remaining).
+- **Output**: phenomenological psychiatry and altered experience
 
 ### ✓ 2026-02-28: Write voids article on the resolution void
 - **Type**: expand-topic

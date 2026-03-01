@@ -1228,7 +1228,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-14 01:34 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: intentionality
-- **Reason**: Comprehensive concept page already exists at [intentionality](/concepts/intentionality/) (created 2026-01-14, last deep review 2026-01-30). Related articles also exist: [phenomenal-intentionality](/concepts/phenomenal-intentionality/), [intentionality-void](/voids/intentionality-void/).
+- **Reason**: Comprehensive concept page already exists at [intentionality](/concepts/intentionality/) (created 2026-01-14, last deep review 2026-01-30). Related articles also exist: [phenomenal-intentionality](/concepts/intentionality/), [intentionality-void](/voids/intentionality-void/).
 
 ---
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Phenomenal Intentionality](/concepts/phenomenal-intentionality/)
+**Article**: [Phenomenal Intentionality](/concepts/intentionality/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-phenomenal-intentionality/) (same day, initial review)
 
 ## Context
@@ -67,11 +67,11 @@ Added inbound links from 7 locations across 6 articles:
    - Added to Further Reading section
 
 3. **meaning-and-consciousness.md**
-   - Changed link from `[phenomenal intentionality thesis](/concepts/intentionality/)` to direct `[phenomenal intentionality thesis](/concepts/phenomenal-intentionality/)`
+   - Changed link from `[phenomenal intentionality thesis](/concepts/intentionality/)` to direct `[phenomenal intentionality thesis](/concepts/intentionality/)`
    - Added to Further Reading section
 
 4. **symbol-grounding-problem.md**
-   - Changed link from `[phenomenal intentionality thesis](/concepts/intentionality/)` to direct `[phenomenal intentionality thesis](/concepts/phenomenal-intentionality/)`
+   - Changed link from `[phenomenal intentionality thesis](/concepts/intentionality/)` to direct `[phenomenal intentionality thesis](/concepts/intentionality/)`
    - Added to Further Reading section
 
 5. **ai-consciousness.md**

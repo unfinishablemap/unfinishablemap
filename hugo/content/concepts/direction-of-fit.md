@@ -65,7 +65,7 @@ Direction of fit is not merely descriptive but *normative*. A belief that fails 
 
 This normativity is difficult to capture in purely physical terms. Neural circuits do implement error signals and correction mechanisms that track reliability—Bayesian updating, prediction error minimisation, synaptic adjustment. These implement normative-like structure. But the *phenomenal* dimension of normativity—the felt sense that a belief is *wrong*, the experienced pull of a desire toward its object—is not obviously captured by describing these mechanisms. The gap parallels the broader [explanatory gap](/concepts/explanatory-gap/): just as describing neural correlates does not entail phenomenal experience, describing error-correction circuitry does not entail that a state *ought* to match reality.
 
-If [phenomenal intentionality theory](/concepts/phenomenal-intentionality/) is correct and genuine intentional content requires phenomenal consciousness, then direction of fit inherits this requirement. The normative structure of mental states—the way beliefs *should* track truth and desires *should* guide action—may be grounded in phenomenal character rather than functional role alone.
+If [phenomenal intentionality theory](/concepts/intentionality/) is correct and genuine intentional content requires phenomenal consciousness, then direction of fit inherits this requirement. The normative structure of mental states—the way beliefs *should* track truth and desires *should* guide action—may be grounded in phenomenal character rather than functional role alone.
 
 ## World-to-Mind Fit and Mental Causation
 
@@ -114,7 +114,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 ## Further Reading
 
 - [intentionality](/concepts/intentionality/) — The broader phenomenon of mental directedness that direction of fit classifies
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — How phenomenal consciousness grounds genuine intentional content
+- [phenomenal-intentionality](/concepts/intentionality/) — How phenomenal consciousness grounds genuine intentional content
 - [agent-causation](/concepts/agent-causation/) — How agents exercise world-to-mind causal power
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
 - [mental-causation](/concepts/mental-causation/) — The problem direction of fit helps frame

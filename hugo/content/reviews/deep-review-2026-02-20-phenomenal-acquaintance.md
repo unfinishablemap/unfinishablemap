@@ -48,7 +48,7 @@ None. The article contained no factual errors, no attribution errors, no dropped
 - Honest final paragraph: acknowledges that acquaintance alone does not yield metaphysical conclusions
 
 ### Enhancements Made
-- Added phenomenal intentionality paragraph: connects acquaintance to genuine aboutness via [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- Added phenomenal intentionality paragraph: connects acquaintance to genuine aboutness via [phenomenal-intentionality](/concepts/intentionality/)
 - Added transparency engagement: addresses representationalist objection with dualist response
 - Strengthened Bidirectional Interaction argument: acknowledges physicalist alternative and responds
 - Qualified introspective justification claim: resolves internal tension with error section
@@ -56,7 +56,7 @@ None. The article contained no factual errors, no attribution errors, no dropped
 - Added body cross-links to [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) and [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 
 ### Cross-links Added
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- [phenomenal-intentionality](/concepts/intentionality/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
 

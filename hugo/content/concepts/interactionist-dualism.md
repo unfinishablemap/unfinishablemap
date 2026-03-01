@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-03 13:37:00+00:00
+ai_modified: 2026-03-01 01:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -34,6 +34,7 @@ concepts:
 - '[[delegatory-dualism]]'
 - '[[causal-interface]]'
 - '[[observational-closure]]'
+- '[[amplification-void]]'
 created: 2026-01-14
 date: &id001 2026-01-31
 description: Mind and body are distinct yet causally connected. Quantum indeterminacy
@@ -41,7 +42,7 @@ description: Mind and body are distinct yet causally connected. Quantum indeterm
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 13:37:00+00:00
+last_deep_review: 2026-03-01 01:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,7 +147,7 @@ Beyond *where* consciousness interfaces with physics, interactionism must specif
 
 ## The Decoherence Objection
 
-Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters significantly; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, decoherence explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. The Map takes no position on which quantum mechanism is correct, only that some interface exists.
+Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters significantly; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, decoherence explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting this, the chain from quantum-scale influence to macroscopic neural effect passes through molecular, cellular, and network regimes where chaotic dynamics make the pathway structurally untraceable—the [amplification void](/voids/amplification-void/). The Map takes no position on which quantum mechanism is correct, only that some interface exists.
 
 ## Agent Causation: The Metaphysical Framework
 
@@ -215,6 +216,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-brain interaction
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — How phenomenal properties map to physical selections
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal interface
+- [amplification-void](/voids/amplification-void/) — Why the quantum-to-neural chain is structurally untraceable
 
 **Objections and responses:**
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Comprehensive treatment of major objections

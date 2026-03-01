@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-24 01:06:00+00:00
+ai_modified: 2026-03-01 01:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,19 +14,20 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[selection-laws]]'
 created: 2026-02-23
-date: &id001 2026-02-23
+date: &id001 2026-03-01
 description: Even granting that consciousness can influence the brain, does the mind-body
   channel carry enough information to produce specific behavior? A challenge distinct
   from causal exclusion.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 01:06:00+00:00
+last_deep_review: 2026-03-01 01:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[neural-bandwidth-constraints-and-the-interface]]'
 - '[[downward-causation-mental-causation-2026-01-15]]'
+- '[[resolution-void]]'
 title: The Bandwidth Problem in Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -59,6 +60,8 @@ Consider the space of possible neural configurations underlying a simple volunta
 
 This gives the bandwidth problem its force: the mismatch between the information content of conscious intentions and the information content of their physical realisations seems not just quantitative but structural. An intention is not a partial specification of a neural state. It is a different kind of representation entirely.
 
+The Map's [resolution void](/voids/resolution-void/) formalises the broader context: consciousness discards 99.9999% of available sensory information, operating at a resolution orders of magnitude coarser than the brain's processing grain. The bandwidth problem is the downward-direction consequence of this gap — the challenge of using a low-resolution selection channel to influence a high-resolution execution system.
+
 ## Two Failed Responses
 
 **The homunculus response** posits that consciousness contains hidden complexity—rich internal states that mirror the complexity of physical execution. This simply relocates the problem. If consciousness carries millions of bits of motor-specification, why do we experience intentions as simple? And how did those millions of bits get into consciousness in the first place? The response inflates conscious complexity without explaining how the information is encoded or transmitted.
@@ -86,6 +89,8 @@ This is the format dimension of the bandwidth problem, and it connects to the br
 One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested; the Map treats it as one possibility among others rather than a commitment.
 
 Whether this candidate fully resolves the format problem is debatable. The question "is pattern P present?" must itself be physically implemented—something must determine which quantum observable corresponds to the intended pattern. The Map treats this as part of the [coupling law](/concepts/psychophysical-laws/) specification problem: the detailed mapping from phenomenal states to physical observables remains to be worked out.
+
+The [resolution void](/voids/resolution-void/) sharpens this challenge. If consciousness interfaces with quantum processes, yet its phenomenal resolution is orders of magnitude coarser than quantum scales, then consciousness performs selections it cannot directly perceive. The coupling law must bridge not only the format gap between intentional and physical vocabularies but also a resolution gap between the grain of conscious experience and the grain of quantum events.
 
 ## How the Bandwidth Problem Differs from Exclusion
 
@@ -117,6 +122,7 @@ The bandwidth problem also differs from the [binding problem](/concepts/binding-
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The coupling laws the bandwidth problem constrains
 - [selection-laws](/concepts/selection-laws/) — Laws governing the downward direction of mind-body interaction
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the selection channel through which consciousness operates
+- [resolution-void](/voids/resolution-void/) — The broader resolution gap between brain processing and conscious access
 
 ## References
 

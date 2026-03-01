@@ -77,7 +77,7 @@ None. The article had no factual errors, attribution errors, or internal contrad
 - [global-workspace-theory](/concepts/global-workspace-theory/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [arguments-against-materialism](/topics/arguments-against-materialism/)
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- [phenomenal-intentionality](/concepts/intentionality/)
 - [free-will](/topics/free-will/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [causal-closure](/concepts/causal-closure/)

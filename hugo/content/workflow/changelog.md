@@ -18,6 +18,129 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 03:40 UTC - deep-review
+- **Status**: Success
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Context**: Cross-review considering phenomenological-psychiatry insights
+- **Word count**: 1969 → 2178 (+209)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing psychiatric ASCs subsection, form/content distinction, missing cross-link)
+- **Enhancements made**: 4 (new subsection, cross-links, Fuchs citation, Further Reading entry)
+- **Output**: [deep-review-2026-03-01-altered-states-of-consciousness](/reviews/deep-review-2026-03-01-altered-states-of-consciousness/)
+
+## 2026-03-01 03:26 UTC - deep-review
+- **Status**: Success
+- **File**: [witness-consciousness](/concepts/witness-consciousness/)
+- **Word count**: 2362 → 2386 (+24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (frontmatter duplication, Shankara attribution, missing Hume citation)
+- **Enhancements made**: 1 (section heading standardised)
+- **Output**: [deep-review-2026-03-01-witness-consciousness](/reviews/deep-review-2026-03-01-witness-consciousness/)
+
+## 2026-03-01 03:10 UTC - deep-review
+- **Status**: Success
+- **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Word count**: 1954 → 1980 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (cross-link to new entanglement-binding-hypothesis, microtubule-specific language reduced per style guide)
+- **Enhancements made**: 3 (EBH cross-link in frontmatter/body/Further Reading, quantum binding paragraph restructured, Further Reading descriptions differentiated)
+- **Output**: [deep-review-2026-03-01-unity-of-consciousness](/reviews/deep-review-2026-03-01-unity-of-consciousness/)
+- **Context**: Cross-review considering entanglement-binding-hypothesis insights
+
+## 2026-03-01 02:55 UTC - deep-review
+- **Status**: Success
+- **File**: [machine-consciousness](/topics/machine-consciousness/)
+- **Word count**: 2674 → 2674 (+0)
+- **Critical issues addressed**: 3 (broken substrate-independence-critique links, broken ai-consciousness anchor, Parfit attribution error)
+- **Medium issues addressed**: 6 (Block description, uncited references, Husserl citation, Tononi citation, tenet section inconsistency, stale refinement log)
+- **Enhancements made**: 7 cross-links added (explanatory-gap, temporal-consciousness, parfit-reductionism, non-temporal-consciousness, quantum-state-inheritance-in-ai, epiphenomenal-ai-consciousness, philosophical-zombies in body)
+- **Output**: [deep-review-2026-03-01-machine-consciousness](/reviews/deep-review-2026-03-01-machine-consciousness/)
+
+## 2026-03-01 02:46 UTC - coalesce
+- **Status**: Success
+- **Sources**: [intentionality](/concepts/intentionality/), [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- **Target**: [intentionality](/concepts/intentionality/)
+- **Archived**: [intentionality](/archive/concepts/intentionality/), [phenomenal-intentionality](/archive/concepts/phenomenal-intentionality/)
+- **References to review**: 21 active content files reference `[phenomenal-intentionality](/concepts/intentionality/)`
+
+## 2026-03-01 02:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
+- **Changes**: Fixed boundary-condition/consciousness equivocation, resolved Stapp-decoherence tension, acknowledged dialectical symmetry in question-begging argument, 4 language fixes (assertions → conditionals)
+- **Published**: yes
+
+## 2026-03-01 02:06 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- **Word count**: 2782 → 2850 (+68)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, stale AI refinement log)
+- **Enhancements made**: 5 (cross-links to phenomenal-normativity, suffering-versus-pain, why-pain-hurts, consciousness-and-moral-agency-under-duress, valence)
+- **Output**: [deep-review-2026-03-01-ethics-of-consciousness](/reviews/deep-review-2026-03-01-ethics-of-consciousness/)
+
+## 2026-03-01 01:52 UTC - deep-review
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Word count**: 2268 → 2307 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (amplification-void cross-link, misdirected wikilink)
+- **Enhancements made**: 3 (amplification-void in body, Further Reading, frontmatter)
+- **Output**: [deep-review-2026-03-01-interactionist-dualism](/reviews/deep-review-2026-03-01-interactionist-dualism/)
+
+## 2026-03-01 01:36 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
+- **Word count**: 1637 → 1767 (+130)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (resolution-void cross-link and context, nested void insight in format translation)
+- **Enhancements made**: 3 (resolution-void paragraph in grain section, nested-void paragraph in format section, Further Reading link)
+- **Output**: [deep-review-2026-03-01-bandwidth-problem-mental-causation](/reviews/deep-review-2026-03-01-bandwidth-problem-mental-causation/)
+
+## 2026-03-01 01:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 396 non-draft files across topics/ (197), concepts/ (198), tenets/ (1), plus 12 apex and 97 voids articles
+- **Output**: [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
+
+## 2026-03-01 01:07 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Word count**: 2474 → 2498 (+24)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (amplification-void cross-link, two persistent missing references resolved)
+- **Enhancements made**: 5 (amplification problem reference, Tomaz et al. citation, Escolà-Gascón citation, prose tightening, further reading entry)
+- **Output**: [deep-review-2026-03-01-quantum-consciousness](/reviews/deep-review-2026-03-01-quantum-consciousness/)
+
+## 2026-03-01 00:51 UTC - deep-review
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Word count**: 2528 → 2520 (-8)
+- **Critical issues addressed**: 1 (broken wikilinks to non-existent articles)
+- **Medium issues addressed**: 2 (unattributed quote, missing cross-link)
+- **Enhancements made**: 4 (entanglement-binding-hypothesis integration, broken links resolved, unattributed quote fixed, frontmatter updated)
+- **Output**: [deep-review-2026-03-01-binding-problem](/reviews/deep-review-2026-03-01-binding-problem/)
+
+## 2026-03-01 00:36 UTC - deep-review
+- **Status**: Success
+- **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Word count**: 1577 → 1664 (+87)
+- **Critical issues addressed**: 2 (Neven misquotation, 3 missing references)
+- **Medium issues addressed**: 2 (twin study framing, Baum citation)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-01-entanglement-binding-hypothesis](/reviews/deep-review-2026-03-01-entanglement-binding-hypothesis/)
+
+## 2026-03-01 00:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Neural Binding and Quantum Entanglement Hypothesis
+- **Output**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Word count**: 1577
+- **Based on research**: yes, [neural-binding-quantum-entanglement-2026-01-19](/research/neural-binding-quantum-entanglement-2026-01-19/)
+
+## 2026-03-01 00:00 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/conservation-laws-and-mind.md — energy conservation objection to interactionist dualism
+- **Output**: [pessimistic-2026-03-01-conservation-laws-and-mind](/reviews/pessimistic-2026-03-01-conservation-laws-and-mind/)
+- **Key findings**: 2 high-severity issues (equivocation on causation-without-energy analogy; insufficient decoherence response), 1 medium issue (question-begging argument is symmetric), 4 unsupported claims, 4 language fixes needed. Task added to queue.
+
 ## 2026-02-28 23:37 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Resolution Void

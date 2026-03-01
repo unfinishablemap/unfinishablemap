@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-27 17:46:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-01 02:06:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[animal-consciousness]]'
@@ -20,15 +20,17 @@ concepts:
 - '[[decoherence]]'
 - '[[witness-consciousness]]'
 - '[[quantum-biology]]'
+- '[[phenomenal-normativity]]'
+- '[[valence]]'
 created: 2026-01-16
-date: &id001 2026-01-16
+date: &id001 2026-03-01
 description: If consciousness is irreducible, it grounds moral status distinctively.
   Dualism shapes ethics of animals, AI, and identity—with conclusions that depend
   on contested framework commitments.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 20:50:00+00:00
+last_deep_review: 2026-03-01 02:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +43,7 @@ topics:
 
 If consciousness is irreducible—if there is genuinely "something it is like" to be a conscious being—then consciousness creates moral status. A being with subjective experience can suffer, flourish, be helped or harmed in ways that matter morally. Rocks cannot be wronged; conscious beings can. The Unfinishable Map's framework shapes this foundation in distinctive ways: dualism about consciousness, indexical identity, and skepticism about artificial consciousness all have ethical implications—though these implications depend on framework commitments that are themselves contested.
 
-This article consolidates and extends the ethical themes scattered across [animal-consciousness](/topics/animal-consciousness/), [ai-consciousness](/topics/ai-consciousness/), [personal-identity](/topics/personal-identity/), and [purpose-and-alignment](/topics/purpose-and-alignment/).
+This article consolidates and extends the ethical themes across [animal-consciousness](/topics/animal-consciousness/), [ai-consciousness](/topics/ai-consciousness/), [personal-identity](/topics/personal-identity/), and [purpose-and-alignment](/topics/purpose-and-alignment/).
 
 ## The Foundation: Why Consciousness Grounds Ethics
 
@@ -55,7 +57,7 @@ The Map's [dualism](/tenets/#dualism) strengthens this: if consciousness is irre
 
 Consciousness grounds not only moral *patienthood* (who can be harmed) but also moral *responsibility* (who can be praised or blamed). If agents genuinely originate their choices through [agent causation](/concepts/agent-causation/)—exercising irreducible causal power rather than being deterministic links—then [moral responsibility](/concepts/moral-responsibility/) has metaphysical backing. Desert becomes more than social fiction: wrongdoers who exercised causal power to harm when kindness was available genuinely deserve blame. The [broader moral implications of genuine agency](/topics/moral-implications-of-genuine-agency/)—for obligation, character formation, and what moral theory itself requires—follow from this same foundation.
 
-Agent causation requires a conscious agent—a subject who experiences alternatives, exercises effort, and knows what they're doing. Without consciousness, there's no agent to bear responsibility. See [moral-responsibility](/concepts/moral-responsibility/) for the detailed treatment of how this differs from compatibilist desert and its practical implications.
+Agent causation requires a conscious agent—a subject who experiences alternatives, exercises effort, and knows what they're doing. Without consciousness, there's no agent to bear responsibility. See [moral-responsibility](/concepts/moral-responsibility/) for how this differs from compatibilist desert, and [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) for how the framework handles edge cases where agency is constrained.
 
 ## Moral Patienthood: Who Counts?
 
@@ -135,14 +137,14 @@ The Map's commitment to [indexical identity](/topics/personal-identity/)—that 
 
 ## Suffering: The Moral Core
 
-Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. Suffering requires: (1) consciousness—a subject to experience it; (2) negative valence—the experience felt as bad; (3) unavoidability. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates that nociception and suffering can dissociate.
+Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [Suffering is distinct from mere pain](/topics/suffering-versus-pain/)—it requires a subject who experiences negative [valence](/concepts/valence/), not just nociception. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [why-pain-hurts](/topics/why-pain-hurts/) traces why the felt badness of pain does genuine causal work.
 
 | Position | What Grounds Moral Status | Implication |
 |----------|---------------------------|-------------|
 | **Valence sentientism** | Capacity for suffering/enjoyment | Only beings that feel pleasure/pain matter |
 | **Broad sentientism** | Phenomenal consciousness generally | Any conscious being has moral status |
 
-The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience.
+The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. [Phenomenal normativity](/concepts/phenomenal-normativity/) explains why: pain's badness is constitutive of what pain feels like, not a judgment layered on top of a neutral sensation.
 
 **Practical upshot**: Focus moral attention on beings we're confident can suffer—humans, animals with complex nervous systems, possibly edge cases warranting caution—not current AI systems or hypothetical uploads. Resources for preventing suffering are finite and should be directed where suffering is most likely real.
 
@@ -204,10 +206,13 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [personal-identity](/topics/personal-identity/) — Why copies aren't continuations
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [experiential-alignment](/concepts/experiential-alignment/) — Targeting experience rather than preferences
-- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for experiential value
-- [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — How phenomenal value pluralism extends beyond hedonism to address metaethical challenges
+- [Phenomenal Value Realism](/topics/phenomenal-value-realism/) — How phenomenal value pluralism extends beyond hedonism to ground experiential value
 - [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of emotion and its ethical implications
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism about phenomenal consciousness
+- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Why pain's badness is built into its phenomenal character
+- [suffering-versus-pain](/topics/suffering-versus-pain/) — The distinction between nociception and genuine suffering
+- [why-pain-hurts](/topics/why-pain-hurts/) — The causal work of felt badness in pain experience
+- [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Moral responsibility when agency is constrained
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge—ethical truths beyond human reach
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: obligation, character formation, and what genuine agency demands
 - [tenets](/tenets/) — the Map's foundational commitments
@@ -227,20 +232,3 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 1. Singer, P. (1975). *Animal Liberation*. Random House.
 1. Tallis, R. (2011). *Aping Mankind*. Acumen.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-02-07
-Changes made:
-1. Opening paragraph: "Consciousness creates moral status" → conditional "If consciousness is irreducible... then consciousness creates moral status"; added note that implications depend on contested framework commitments
-1. Convergence claim: qualified to acknowledge Kantian dignity emphasises rational agency specifically, and convergence is "suggestive, though imperfect" rather than decisive
-1. "Probably not conscious" heading: added "(framework-dependent)"; explicit note that conclusion rests on Map's specific theoretical commitments
-1. AI assessment paragraph (line 81): "categorically excludes" → "would categorically exclude"; added explicit caveat that confidence is only as strong as the framework; acknowledged that if framework wrong, greater caution warranted
-1. AI Ethics opening: added "this conclusion depends on contested theoretical commitments"
-1. Minimal Quantum Interaction tenet connection: rewritten with conditional framing; added note about ethical stakes of misclassification
-1. Summary section: "The Map's framework yields" → "If the Map's framework is correct, it yields"; added parenthetical about AI consciousness depending on contested claims
-1. Description field: rewritten to acknowledge framework dependence
-
-Based on pessimistic review (2026-02-05) finding that AI consciousness conclusions rest heavily on contested framework, with uncertainty buried in "What Would Challenge" section rather than integrated into main claims.
-Key improvements: Framework-dependence of AI ethics conclusions made explicit throughout main text.
-
-This log should be removed after human review.
--->

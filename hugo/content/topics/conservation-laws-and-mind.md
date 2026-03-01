@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-05 18:40:00+00:00
+ai_modified: 2026-03-01 02:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -37,7 +37,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-The energy conservation objection to [interactionist-dualism](/concepts/interactionist-dualism/) claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s (see [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) for the full historical development), has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
+The energy conservation objection to [interactionist-dualism](/concepts/interactionist-dualism/) claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s (see [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) for the full historical development), has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics argues that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
 
 ## The Objection Stated
 
@@ -57,9 +57,9 @@ This reasoning has convinced many that physics rules out dualist interaction.
 
 ### Conservation Is Local, Not Cosmic
 
-The first problem is that conservation laws are *local*, not global. As J. Brian Pitts demonstrates, energy conservation holds "not primarily for the whole universe, but in every place separately." The mathematical formulation uses local continuity equations: energy flowing out of one region flows into adjacent regions. This is quite different from a cosmic accounting where the universe's total energy remains fixed.
+The first problem is that conservation laws are *local*, not global. As J. Brian Pitts demonstrates, energy conservation holds "not primarily for the whole universe, but in every place separately." The mathematical formulation uses local continuity equations: energy flowing out of one region flows into adjacent regions. This differs substantially from a cosmic accounting where the universe's total energy remains fixed.
 
-The implication: conservation can fail *here* while holding *everywhere else*. If consciousness acts on neurons in a particular brain, the conservation equation fails at those neural locations—but this is fully compatible with conservation holding in refrigerators, stars, and every other location where minds don't act.
+The implication: conservation *could* fail at one location while holding everywhere else. If consciousness acts on neurons in a particular brain, the conservation equation would fail at those neural locations—but this would be fully compatible with conservation holding in refrigerators, stars, and every other location where minds don't act.
 
 ### Conservation Is Conditional on Symmetries
 
@@ -69,7 +69,7 @@ The converse also holds: if conservation fails, the corresponding symmetry must 
 
 Now consider what happens if an immaterial mind acts on matter. Such action constitutes an *external influence*—something outside the physical system affecting it. External influences break the conditions under which conservation was derived. As Alin Cucu and Pitts argue: "Expecting conservation to hold in the brain (without looking) simply assumes the falsehood of Cartesianism. Hence Leibniz's objection begs the question."
 
-The conservation objection assumes from the start that minds don't act on matter—precisely what it's supposed to prove.
+The dialectical situation is symmetric. The conservation objection assumes from the start that no external influences exist—precisely what it's supposed to prove. But equally, the dualist who invokes "external influence" assumes that consciousness *is* non-physical and causally efficacious—precisely what the physicalist disputes. Neither side can settle the matter by appeal to conservation alone. The correct conclusion is not that the physicalist is wrong, but that conservation arguments cannot resolve the debate: they presuppose an answer to the question they purport to address.
 
 ### The Standard Model Covers Closed Systems
 
@@ -101,9 +101,11 @@ This selection operates only within neural systems integrated into the subject's
 
 The selection framework requires that causation can occur without energy injection. Critics might object that all causation involves energy transfer—but this assumption is questionable.
 
-Consider: the *direction* of an outcome can be determined by factors that contribute no energy. In chaotic systems, infinitesimal differences in initial conditions lead to vastly different outcomes. The boundary conditions of a physical system constrain which outcomes occur without adding energy. Similarly, consciousness selecting among energetically equivalent quantum outcomes could determine *which* outcome actualizes without contributing energy to *any* outcome.
+Consider: the *direction* of an outcome can be determined by factors that contribute no energy. In chaotic systems, infinitesimal differences in initial conditions lead to vastly different outcomes. The boundary conditions of a physical system constrain which outcomes occur without adding energy to them.
 
-The philosophical point is modest: the conservation objection assumes that causal influence requires energy transfer. This assumption is not self-evident, and the selection framework provides a model where it fails.
+However, there is an important disanalogy. Boundary conditions and initial conditions are themselves physical—spatial and temporal constraints imposed by the physical arrangement of a system. Consciousness, on the dualist view, is non-physical. The analogy shows that "causation without energy transfer" is not conceptually incoherent—physical examples exist. But it does not show that a *non-physical* cause could operate in the same energy-free manner. Consciousness-as-selector is a distinct proposal requiring its own justification, not merely an extension of boundary-condition causation.
+
+The philosophical point is therefore modest but real: the conservation objection assumes that causal influence requires energy transfer. Physical boundary conditions show this assumption is not self-evident. Whether non-physical consciousness could similarly determine outcomes without energy transfer remains an open question—one the conservation objection cannot foreclose.
 
 ## What Conservation Cannot Prove
 
@@ -138,15 +140,15 @@ Critics might see "consciousness selects at quantum indeterminacies" as insertin
 
 Doesn't [decoherence](/concepts/decoherence/) eliminate quantum effects in warm biological systems, leaving no room for quantum consciousness?
 
-*Response*: This objection requires careful handling because it conflates two distinct claims.
+*Response*: This objection requires careful handling because it involves two separable questions.
 
 First, decoherence is extremely rapid in neural tissue. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—far shorter than the millisecond timescales of neural processing. If consciousness requires maintaining quantum coherence across neurons, decoherence appears to rule this out.
 
-However, the selection framework doesn't require sustained coherence. It requires only that consciousness bias *which outcome* occurs when superposition resolves—whether through decoherence or measurement. Decoherence selects preferred bases and suppresses interference, but it doesn't determine which outcome from the resulting mixture becomes actual. That determination remains unexplained by physics.
+This creates a tension within the selection framework that should be stated honestly. Stapp's quantum Zeno mechanism, discussed earlier in this article, *does* require repeated observation of coherent states—the mind holding neural patterns against decoherence. If Tegmark's decoherence timescales are correct, the Zeno mechanism faces a serious difficulty: coherence may dissipate far too quickly for attentional observation to stabilise it. Hagan et al. (2002) disputed Tegmark's model parameters, yielding estimates seven orders of magnitude longer, but this challenge has not achieved consensus in the physics community. The Zeno mechanism remains speculative and its viability depends on unresolved empirical questions about neural decoherence rates.
 
-Second, Tegmark's calculations have been challenged. Hagan et al. (2002) disputed his model parameters, yielding estimates seven orders of magnitude longer. The [tenets article](/tenets/#minimal-quantum-interaction) discusses this dispute in detail.
+However, the broader selection framework does not stand or fall with Stapp's specific mechanism. The framework's core claim is more general: consciousness biases *which outcome* occurs when superposition resolves—whether through decoherence or measurement. This general claim doesn't require sustained coherence. Decoherence selects preferred bases and suppresses interference, but on most interpretations it doesn't determine which outcome from the resulting mixture becomes actual. That determination remains unexplained by physics—though it may eventually receive a physical explanation that doesn't invoke consciousness.
 
-The deeper point: decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/). After the basis is selected and interference suppressed, the system remains in a mixture of possible outcomes. Something determines which becomes actual—and physics doesn't specify what. The role for consciousness at this juncture remains open. See [decoherence](/concepts/decoherence/) for extended treatment.
+The deeper point: decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/). After the basis is selected and interference suppressed, the system remains in a mixture of possible outcomes. Something determines which becomes actual—and physics doesn't yet specify what. The role for consciousness at this juncture remains open, though the positive case for it must come from philosophy rather than physics. See [decoherence](/concepts/decoherence/) for extended treatment.
 
 ### "Many-Worlds Eliminates the Problem"
 
@@ -162,10 +164,10 @@ This article therefore assumes that some collapse-like process occurs. Readers w
 
 The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. The conservation objection has historically been the primary physics-based challenge to this commitment.
 
-This article shows the objection fails:
+This article argues the objection cannot settle the debate:
 
 - Conservation is local and conditional, not a cosmic law that minds must obey
-- The objection begs the question by assuming no external influences exist
+- The objection begs the question by assuming no external influences exist—though the dualist position equally presupposes that consciousness is such an influence
 - Quantum mechanics provides a framework where consciousness could select outcomes without injecting energy
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [brain-specialness-boundary](/topics/brain-specialness-boundary/) explains). The interaction is doubly constrained.
@@ -195,3 +197,17 @@ The selection framework also has implications for [free-will](/topics/free-will/
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 1. Carroll, S. (2011). "Physics and the Immortality of the Soul." *Scientific American* (blog).
 1. Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory.
+
+<!-- AI REFINEMENT LOG - 2026-03-01
+Changes made:
+- Fixed equivocation between boundary-condition causation and consciousness-as-selector: acknowledged the disanalogy explicitly rather than sliding from physical examples to non-physical consciousness
+- Resolved tension between "no sustained coherence needed" claim and Stapp's Zeno mechanism: now states the tension honestly, separates Stapp's specific mechanism from the broader selection framework
+- Acknowledged dialectical symmetry in "begs the question" argument: conservation objection and dualist position both presuppose their conclusions
+- Four language fixes: "demonstrates" → "argues" (opening), "quite different" → "differs substantially", two instances of asserting conservation failure as fact → conditional framing
+- Updated Relation to Site Perspective to reflect more honest framing ("argues the objection cannot settle the debate" rather than "shows the objection fails")
+
+Based on pessimistic review pessimistic-2026-03-01-conservation-laws-and-mind.md.
+Key improvements: intellectual honesty about the framework's limits and internal tensions.
+
+This log should be removed after human review.
+-->

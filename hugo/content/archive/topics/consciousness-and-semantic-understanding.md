@@ -62,7 +62,7 @@ Large language models pose a sharp challenge to this view. They manipulate seman
 
 PCT draws support from [cognitive phenomenology](/concepts/cognitive-phenomenology/)—a contested but well-defended position in philosophy of mind. When you understand a sentence, there appears to be phenomenal character to the understanding itself—not just to accompanying imagery or inner speech, but to the grasping of meaning.
 
-The [phenomenal intentionality thesis](/concepts/phenomenal-intentionality/) reinforces PCT. If genuine aboutness—the "directedness" of thoughts toward objects—derives from phenomenal character, then what makes a thought *about* something is inseparable from what it's *like* to have that thought. Meaning (semantic content) and phenomenology (experiential character) are two aspects of a single phenomenon, not separate features that could come apart.
+The [phenomenal intentionality thesis](/concepts/intentionality/) reinforces PCT. If genuine aboutness—the "directedness" of thoughts toward objects—derives from phenomenal character, then what makes a thought *about* something is inseparable from what it's *like* to have that thought. Meaning (semantic content) and phenomenology (experiential character) are two aspects of a single phenomenon, not separate features that could come apart.
 
 Consider the phenomenology of suddenly understanding something complex. The elements that seemed disconnected click together. This "click" has phenomenal character—a distinctive quality that accompanies achieved integration. It differs from the experience of merely rehearsing separate ideas. The [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) examines this transition in detail, distinguishing the sudden click from gradual comprehension and illuminative insight—each with irreducible qualitative character. Critics argue this phenomenology is merely accompanying imagery or affect. But the experience of grasping how premises entail a conclusion seems distinctively cognitive—not imagistic, not emotional, but conceptual integration experienced as such.
 
@@ -214,7 +214,7 @@ PCT makes testable predictions:
 - [meaning-of-life](/topics/meaning-of-life/) — Consciousness-grounded meaning and existential significance
 - [binding-problem](/concepts/binding-problem/) — Comprehensive treatment of perceptual binding and its relation to meaning unity
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The experiential character of thinking
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine aboutness requires phenomenal consciousness
+- [phenomenal-intentionality](/concepts/intentionality/) — Why genuine aboutness requires phenomenal consciousness
 - [intentionality](/concepts/intentionality/) — Aboutness and the phenomenal intentionality thesis
 - Autonoetic Consciousness — Mental time travel and temporal integration
 - [working-memory](/concepts/working-memory/) — Information maintenance vs. integrative comprehension

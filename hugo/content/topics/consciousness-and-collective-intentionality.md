@@ -56,7 +56,7 @@ Collective intentionality requires that participants understand the joint activi
 
 Consider what representing a promise involves. When someone promises to help you move house, you do not merely update a probability estimate about their future behaviour. You represent them as having *committed* themselves — as having placed themselves under an obligation they recognise and that you both understand binds them. This representation involves grasping [intentional states](/concepts/intentionality/) — beliefs, commitments, obligations — *as* intentional states with normative force. The [interpersonal understanding](/topics/consciousness-and-interpersonal-understanding/) required is not mere behaviour prediction but genuine comprehension of another mind's commitments.
 
-The [phenomenal-intentionality](/concepts/phenomenal-intentionality/) thesis holds that genuine intentionality — the "aboutness" of mental states — derives from phenomenal consciousness. If this is correct, then the metarepresentational demands of collective intentionality inherit the consciousness requirement. You cannot represent another's commitment *as* a commitment unless you have the phenomenal resources to grasp what commitment means.
+The [phenomenal-intentionality](/concepts/intentionality/) thesis holds that genuine intentionality — the "aboutness" of mental states — derives from phenomenal consciousness. If this is correct, then the metarepresentational demands of collective intentionality inherit the consciousness requirement. You cannot represent another's commitment *as* a commitment unless you have the phenomenal resources to grasp what commitment means.
 
 ### The Normative Dimension
 
@@ -125,7 +125,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 - [consciousness-and-collective-intelligence](/topics/consciousness-and-collective-intelligence/) — Whether groups can be conscious, distinct from whether consciousness enables collective intentionality
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — How individual consciousness enables the social cognition collective intentionality requires
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states and its relation to consciousness
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — The thesis that genuine intentionality derives from phenomenal experience
+- [phenomenal-intentionality](/concepts/intentionality/) — The thesis that genuine intentionality derives from phenomenal experience
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds where collective intentionality operates
 - [intersubjective-void](/voids/intersubjective-void/) — The structural gap between minds that collective intentionality bridges but never closes
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects

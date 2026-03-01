@@ -66,7 +66,7 @@ topics: []
 - Anchored orphaned references (Chisholm, Kim) with parenthetical annotations
 
 ### Cross-links Added
-- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — purposes as intentional states with phenomenal content
+- [phenomenal-intentionality](/concepts/intentionality/) — purposes as intentional states with phenomenal content
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — distinguishing genuine purpose from functional tracking
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — normative dimension of purposive experience
 - [mysterianism](/concepts/mysterianism/) — cognitive closure on the mechanism
