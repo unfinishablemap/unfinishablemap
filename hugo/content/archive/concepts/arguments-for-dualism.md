@@ -144,7 +144,7 @@ This evidence doesn't undermine dualism. Cognitive naturalness doesn't determine
 
 A standard objection: dualism is less parsimonious than physicalism. Why posit non-physical substances or properties when physical ones might suffice?
 
-Several responses bear on this. The Map's [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-occams-razor/) develops the full case; the core points are:
+Several responses bear on this. The Map's [Epistemological Limits of Occam's Razor](/voids/epistemological-limits-occams-razor/) develops the full case; the core points are:
 
 **The precondition is unmet**: Parsimony arbitrates between theories of equal explanatory power. Physicalism does not explain phenomenal consciousness—it correlates neural states with experience without explaining *why* there is something it is like. A "simpler" theory that doesn't account for the data hasn't earned the parsimony discount.
 
@@ -271,7 +271,7 @@ The positive arguments directly support the Map's foundational commitments:
 
 **[Dualism](/tenets/#dualism)**: The arguments converge—conceivability, knowledge, qualia, unity, intentionality all point to something irreducible about consciousness. This isn't merely that materialism fails; it's that consciousness has features requiring dualist explanation.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The parsimony objection assumes adequate concepts to judge simplicity. If consciousness introduces genuinely novel features physics cannot describe, materialist "simplicity" ignores the evidence. The [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-occams-razor/) article shows that standard justifications for parsimony do not extend to this domain. [Mysterianism](/concepts/mysterianism/) strengthens the point: if our cognitive architecture cannot fully grasp the mind-matter relation, apparent simplicity may reflect our limitations.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The parsimony objection assumes adequate concepts to judge simplicity. If consciousness introduces genuinely novel features physics cannot describe, materialist "simplicity" ignores the evidence. The [Epistemological Limits of Occam's Razor](/voids/epistemological-limits-occams-razor/) article shows that standard justifications for parsimony do not extend to this domain. [Mysterianism](/concepts/mysterianism/) strengthens the point: if our cognitive architecture cannot fully grasp the mind-matter relation, apparent simplicity may reflect our limitations.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The fact that we discuss consciousness is evidence. An epiphenomenon couldn't influence neurons producing speech. The arguments support not just dualism but *interactionist* dualism.
 
@@ -293,7 +293,7 @@ The Map does not commit to substance over property dualism. Both support irreduc
 - [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/) — How mind and matter interact
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Comprehensive treatment of major challenges
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The meta-level argument from epistemic humility
-- [epistemological-limits-occams-razor](/arguments/epistemological-limits-occams-razor/) — Why parsimony fails as an argument against dualism
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails as an argument against dualism
 
 **Background:**
 - [intuitive-dualism](/concepts/intuitive-dualism/) — What cognitive science reveals about natural mind-body thinking

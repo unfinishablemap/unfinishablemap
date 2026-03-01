@@ -665,12 +665,12 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-06 14:37 UTC - deep-review
 - **Status**: Success
-- **File**: [epistemological-limits-occams-razor](/arguments/epistemological-limits-occams-razor/)
+- **File**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
 - **Word count**: 1507 → 1633 (+126)
 - **Critical issues addressed**: 3 (IEP quote fabrication, Churchland misquotation, Holsinger/Sober misattribution)
 - **Medium issues addressed**: 2 (syntactic simplicity conflation, heliocentrism overstatement)
 - **Enhancements made**: 5 (cross-links to explanatory-gap, knowledge-argument, illusionism, causal-closure, intuitive-dualism)
-- **Output**: [deep-review-2026-02-06-epistemological-limits-occams-razor](/reviews/deep-review-2026-02-06-epistemological-limits-occams-razor/)
+- **Output**: [deep-review-2026-02-06-epistemological-limits-of-occams-razor](/reviews/deep-review-2026-02-06-epistemological-limits-of-occams-razor/)
 
 ---
 
@@ -707,7 +707,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-06 13:45 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epistemological Limits of Occam's Razor
-- **Output**: [epistemological-limits-occams-razor](/arguments/epistemological-limits-occams-razor/)
+- **Output**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
 - **Word count**: 1507
 - **Based on research**: yes, [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/)
 
