@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review unity-of-consciousness.md considering entanglement-binding-hypothesis insights
-- **Type**: cross-review
-- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as a structural solution to the phenomenal binding problem, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. concepts/unity-of-consciousness.md already mentions quantum binding briefly — cross-review should strengthen that section with the specific mechanism and recent experimental evidence from the new article. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from entanglement-binding-hypothesis.md)
-- **Generated**: 2026-03-01
-
 ### P2: Cross-review altered-states-of-consciousness.md considering phenomenological-psychiatry insights
 - **Type**: cross-review
 - **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) treats depersonalisation, thought insertion, and schizophrenic self-disturbance as data about consciousness structure. concepts/altered-states-of-consciousness.md already cross-references phenomenological psychiatry briefly — the cross-review should strengthen the connection showing how psychiatric conditions reveal consciousness's normally invisible architecture, complementing the existing filter theory framing. Supports Tenet 1 (Dualism).
@@ -436,6 +430,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review unity-of-consciousness.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as a structural solution to the phenomenal binding problem, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. concepts/unity-of-consciousness.md already mentions quantum binding briefly — cross-review should strengthen that section with the specific mechanism and recent experimental evidence from the new article. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/unity-of-consciousness.md -- Context: Cross-review unity-of-consciousness.md considering entanglement-binding-hypothesis insights
 
 ### ✓ 2026-03-01: Update references to coalesced phenomenal-intentionality article
 - **Type**: cross-review
