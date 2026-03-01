@@ -67,6 +67,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from amplification-void.md)
 - **Generated**: 2026-02-28
 
+### P2: Address gaps in conservation-laws-and-mind.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) equivocation between physical boundary conditions and non-physical consciousness as models of "causation without energy"—the analogy needs rigorous development or explicit acknowledgment of its limits; (2) the decoherence response is insufficient and creates tension with the Stapp mechanism it cites. Medium-severity: the "begs the question" argument cuts both ways. Also four language issues where philosophical arguments are stated as established facts. See pessimistic-2026-03-01-conservation-laws-and-mind.md
+
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
