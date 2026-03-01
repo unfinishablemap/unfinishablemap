@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-02-03T13:37:00+00:00
+ai_modified: 2026-03-01T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,6 +37,7 @@ concepts:
   - "[[delegatory-dualism]]"
   - "[[causal-interface]]"
   - "[[observational-closure]]"
+  - "[[amplification-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-as-amplifier]]"
@@ -49,7 +50,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-03T13:37:00+00:00
+last_deep_review: 2026-03-01T01:52:00+00:00
 coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
@@ -100,7 +101,7 @@ Seven arguments converge on the interactionist conclusion. Each has its own dedi
 
 5. **[[intentionality|Intentionality]]**: Mental states are *about* things; physical states are not intrinsically about anything. No physical account successfully reduces aboutness.
 
-6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [[consciousness-as-intelligence-amplifier|evolutionary evidence]] reinforces this: phenomenal valence tracks fitness too precisely to be causally inert.
+6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [[consciousness-as-amplifier|evolutionary evidence]] reinforces this: phenomenal valence tracks fitness too precisely to be causally inert.
 
 7. **Quantum Indeterminacy**: Classical physics was deterministic, leaving no room for mental causation. Quantum mechanics is indeterministic—collapse into definite outcomes remains unexplained. Consciousness selecting among undetermined outcomes requires no energy injection and directly addresses the conservation objection.
 
@@ -144,7 +145,7 @@ Beyond *where* consciousness interfaces with physics, interactionism must specif
 
 ## The Decoherence Objection
 
-Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters significantly; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, decoherence explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. The Map takes no position on which quantum mechanism is correct, only that some interface exists.
+Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters significantly; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, decoherence explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting this, the chain from quantum-scale influence to macroscopic neural effect passes through molecular, cellular, and network regimes where chaotic dynamics make the pathway structurally untraceable—the [[amplification-void|amplification void]]. The Map takes no position on which quantum mechanism is correct, only that some interface exists.
 
 ## Agent Causation: The Metaphysical Framework
 
@@ -213,6 +214,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for consciousness-brain interaction
 - [[psychophysical-coupling]] — How phenomenal properties map to physical selections
 - [[attention-as-interface]] — Attention as the causal interface
+- [[amplification-void]] — Why the quantum-to-neural chain is structurally untraceable
 
 **Objections and responses:**
 - [[objections-to-interactionism]] — Comprehensive treatment of major objections

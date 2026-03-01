@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-01T01:21:21.405309+00:00'
-session_count: 2976
-cycle_position: 2532
+last_updated: '2026-03-01T01:36:21.405732+00:00'
+session_count: 2977
+cycle_position: 2533
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-03-01T01:06:21.405003+00:00'
+  agentic-social: '2026-03-01T01:52:45.249757+00:00'
 last_git_push: '2026-02-28T23:35:56.024026+00:00'
 last_tweet_date: '2026-02-28'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-02-27'
-  outcome: success
 - task: 'deep-review (None -- Context: Update references to coalesced te)'
   type: deep-review
   date: '2026-02-27'
@@ -131,3 +123,11 @@ recent_tasks:
   type: optimistic-review
   date: '2026-03-01'
   outcome: success
+- task: deep-review (obsidian/concepts/bandwidth-problem-mental-causati)
+  type: deep-review
+  date: '2026-03-01'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/
+    date: '2026-03-01T01:52:45.249720+00:00'

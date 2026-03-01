@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review interactionist-dualism.md considering amplification-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/amplification-void.md (2026-02-28) argues that the causal interface's opacity is structurally necessary — if amplification were traceable, the interaction would be detectable, violating the minimality that defines it. concepts/interactionist-dualism.md discusses mental causation and the conservation objection; the amplification void explains why quantum solutions must operate through multi-scale opacity and reframes the interaction problem as a feature rather than a bug. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from amplification-void.md)
-- **Generated**: 2026-02-28
-
 ### P2: Address gaps in conservation-laws-and-mind.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -417,6 +411,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review interactionist-dualism.md considering amplification-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/amplification-void.md (2026-02-28) argues that the causal interface's opacity is structurally necessary — if amplification were traceable, the interaction would be detectable, violating the minimality that defines it. concepts/interactionist-dualism.md discusses mental causation and the conservation objection; the amplification void explains why quantum solutions must operate through multi-scale opacity and reframes the interaction problem as a feature rather than a bug. Check for cross-links and argument reinforcement. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering amplification-void insights
 
 ### ✓ 2026-03-01: Cross-review bandwidth-problem-mental-causation.md considering resolution-void insights
 - **Type**: cross-review
