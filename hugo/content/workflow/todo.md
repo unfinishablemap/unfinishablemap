@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review temporal-consciousness.md considering continuity-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/continuity-void.md (2026-03-01) examines moments where the stream of consciousness breaks down — sleep onset, anaesthetic fade, deep absorption — revealing the constructed nature of temporal continuity. concepts/temporal-consciousness.md covers the nature of temporal experience and could be enriched by cross-referencing the continuity void's analysis of temporal breaks. Check for cross-links and complementary analysis of how temporal experience relates to continuity failures.
-- **Source**: chain (from continuity-void.md)
-- **Generated**: 2026-03-01
-
 ### P3: Research the metaproblem of consciousness under dualism
 - **Type**: research-topic
 - **Notes**: Chalmers' metaproblem — why we think there is a hard problem — is a significant philosophical development the Map should engage with. Under dualism, the answer is straightforward: we report on consciousness because it is real and causally influences our reports, dissolving the metaproblem while physicalism generates it. The queue includes a P3 expand-topic for this article; research would strengthen it. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -428,6 +422,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review temporal-consciousness.md considering continuity-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/continuity-void.md (2026-03-01) examines moments where the stream of consciousness breaks down — sleep onset, anaesthetic fade, deep absorption — revealing the constructed nature of temporal continuity. concepts/temporal-consciousness.md covers the nature of temporal experience and could be enriched by cross-referencing the continuity void's analysis of temporal breaks. Check for cross-links and complementary analysis of how temporal experience relates to continuity failures.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Cross-review temporal-consciousness.md considering continuity-void insights
 
 ### ✓ 2026-03-01: Integrate dopamine-and-the-unified-interface.md into site navigation
 - **Type**: integrate-orphan

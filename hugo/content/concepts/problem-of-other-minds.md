@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-28 05:46:00+00:00
+ai_modified: 2026-03-01 14:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,12 +18,12 @@ concepts:
 - '[[objectivity-and-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-23
-description: How can we know others are conscious? The epistemic asymmetry between
-  first-person certainty and third-person inference.
+description: How can we know others are conscious? Six philosophical approaches to
+  the epistemic asymmetry between first-person certainty and third-person inference.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 12:00:00+00:00
+last_deep_review: 2026-03-01 14:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ This reframes the problem. The asymmetry is not failure but success—if I could
 
 The very existence of consciousness as a concept provides evidence for other minds. If you were the only conscious being among philosophical zombies, you would be born into a world where consciousness discourse doesn't exist—no writing about qualia or the hard problem, no referent for your attempts to explain inner experience.
 
-Instead, consciousness pervades human discourse across cultures. Sanskrit has *chit* and *anubhava*, Greek has *phronesis* and *nous*, phenomenology has *qualia* and *intentionality*. This cross-cultural convergence—minds in different bodies arriving at similar distinctions—would be remarkable coincidence if only one being actually experienced anything.
+Instead, consciousness pervades human discourse across cultures. Sanskrit has *chit* and *anubhava*, Greek has *psyche* and *nous*, phenomenology has *qualia* and *intentionality*. This cross-cultural convergence—minds in different bodies arriving at similar distinctions—would be remarkable coincidence if only one being actually experienced anything.
 
 The argument has force: it doesn't rely on behavioral similarity (inferring from conceptual rather than bodily resemblance), addresses the sample-of-one problem (others articulate distinctions I recognize), and explains genuine disagreement (debates about qualia presuppose a shared referent). The simplest hypothesis is that others talk about consciousness because they have it.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 08:30:00+00:00
+ai_modified: 2026-03-01 15:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,7 +49,7 @@ description: Consciousness flows through time in the specious present—Bergson'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 08:30:00+00:00
+last_deep_review: 2026-03-01 15:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ Working memory provides a promising neural correlate. The experienced moment (~1
 
 Gamma-band oscillations (30-100 Hz) correlate with conscious processing, and the "time-domain brain" view (Baker & Cariani, 2025) proposes temporal mechanisms are constitutive of consciousness rather than merely correlates. Research connects time experience to bodily rhythms—the insula processing interoceptive signals—suggesting duration may be essentially embodied. If durée is lived through a body, disembodied systems may be categorically incapable of temporal experience.
 
-Whether consciousness comes in discrete frames or continuous flow remains debated. Even if discrete, something must bind moments into continuous-seeming experience.
+Whether consciousness comes in discrete frames or continuous flow may be [structurally irresolvable](/voids/continuity-void/). Even if discrete, something must bind moments into continuous-seeming experience.
 
 ## Temporal Unity and Its Disruption
 

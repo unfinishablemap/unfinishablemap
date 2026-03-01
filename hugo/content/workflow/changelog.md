@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 15:51 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Word count**: 2500 → 2502 (+2, length-neutral)
+- **Critical issues addressed**: 0 (none found — article stable after 7 reviews)
+- **Medium issues addressed**: 2 (fixed body text link to archived article, strengthened continuity-void cross-reference)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-03-01b-temporal-consciousness](/reviews/deep-review-2026-03-01b-temporal-consciousness/)
+
+## 2026-03-01 14:51 UTC - deep-review
+- **Status**: Success
+- **File**: [problem-of-other-minds](/concepts/problem-of-other-minds/)
+- **Word count**: 2196 → 2196 (+0, single word swap)
+- **Critical issues addressed**: 0 (none found — article stable after 3 reviews)
+- **Medium issues addressed**: 3 (fixed incorrect Greek term *phronesis* → *psyche*, improved description length, added display text to wikilink)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-03-01-problem-of-other-minds](/reviews/deep-review-2026-03-01-problem-of-other-minds/)
+
 ## 2026-03-01 13:54 UTC - deep-review
 - **Status**: Success
 - **File**: [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
