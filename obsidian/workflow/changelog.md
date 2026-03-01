@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 02:46 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/intentionality]], [[concepts/phenomenal-intentionality]]
+- **Target**: [[concepts/intentionality]]
+- **Archived**: [[archive/concepts/intentionality]], [[archive/concepts/phenomenal-intentionality]]
+- **References to review**: 21 active content files reference `[[phenomenal-intentionality]]`
+
 ## 2026-03-01 02:21 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/conservation-laws-and-mind]]

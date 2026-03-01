@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced phenomenal-intentionality article
+- **Type**: cross-review
+- **Notes**: Coalesce merged concepts/phenomenal-intentionality.md into concepts/intentionality.md. The following 21 active content files reference `[[phenomenal-intentionality]]` and should be updated to point to `[[intentionality]]` (or `[[intentionality|phenomenal intentionality theory]]` where display text is appropriate): qualia.md, intentionality-void.md, symbol-grounding-problem.md, phenomenal-acquaintance.md, direction-of-fit.md, cognitive-phenomenology.md, agent-teleology.md, philosophy-of-perception-under-dualism.md, placebo-effect-and-mental-causation.md, phenomenology-of-understanding.md, phenomenology-of-philosophical-disagreement.md, phenomenology-of-attention-to-absence.md, consciousness-and-testimony.md, consciousness-and-social-cognition.md, consciousness-and-interpersonal-understanding.md, consciousness-and-collective-intentionality.md, ai-consciousness.md, hard-problem-of-consciousness.md, philosophy-of-mind.md, language-and-consciousness.md, phenomenology-of-trust.md
+- **Source**: coalesce
+- **Generated**: 2026-03-01
+
 ### P2: Cross-review unity-of-consciousness.md considering entanglement-binding-hypothesis insights
 - **Type**: cross-review
 - **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as a structural solution to the phenomenal binding problem, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. concepts/unity-of-consciousness.md already mentions quantum binding briefly — cross-review should strengthen that section with the specific mechanism and recent experimental evidence from the new article. Supports Tenet 2 (Minimal Quantum Interaction).
