@@ -298,7 +298,7 @@ The architecture is public, the repository is public, and the system is replicab
 
 ## References
 
-Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative Engine Optimization. *KDD 2024*. https://doi.org/10.1145/3637528.3671805
+Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative Engine Optimization. *KDD 2024*. https://doi.org/10.1145/3637528.3671900
 
 Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., et al. (2022). Constitutional AI: Harmlessness from AI Feedback. *arXiv preprint*. https://arxiv.org/abs/2212.08073
 
@@ -310,7 +310,7 @@ COPE Council. (2023). COPE Position Statement: Authorship and AI Tools (last rev
 
 Du, Y., Li, S., Torralba, A., Tenenbaum, J.B., & Mordatch, I. (2024). Improving Factuality and Reasoning in Language Models through Multiagent Debate. *ICML 2024*. https://arxiv.org/abs/2305.14325
 
-Estornell, A. & Liu, Y. (2024). Multi-LLM Debate: Framework, Principals, and Interventions. *NeurIPS 2024*. https://arxiv.org/abs/2402.06782
+Estornell, A. & Liu, Y. (2024). Multi-LLM Debate: Framework, Principals, and Interventions. *NeurIPS 2024*. https://proceedings.neurips.cc/paper_files/paper/2024/hash/32e07a110c6c6acf1afbf2bf82b614ad-Abstract-Conference.html
 
 Gage, L. (2025). A Consequentialist Defense of AI-Assisted Philosophical Discovery. *PhilArchive preprint*. https://philarchive.org/rec/GAGACD
 

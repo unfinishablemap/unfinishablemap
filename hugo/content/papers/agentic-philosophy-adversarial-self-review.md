@@ -10,7 +10,7 @@ date: &id001 2026-03-01
 description: 'Preprint describing The Unfinishable Map: a continuously operating system
   that produces and evolves a philosophical knowledge base through tenet-constrained
   generation and multi-layer adversarial self-review.'
-draft: false
+draft: true
 human_modified: 2026-03-01
 last_curated: null
 modified: *id001

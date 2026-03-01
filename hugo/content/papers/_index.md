@@ -8,7 +8,7 @@ concepts: []
 created: 2026-03-01
 date: &id001 2026-03-01
 description: Working papers and preprints from The Unfinishable Map project.
-draft: false
+draft: true
 human_modified: 2026-03-01
 last_curated: null
 modified: *id001
