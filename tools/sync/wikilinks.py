@@ -10,6 +10,7 @@ SYNC_DIRS = [
     "authors",
     "topics",
     "concepts",
+    "papers",
     "project",
     "tenets",
     "questions",

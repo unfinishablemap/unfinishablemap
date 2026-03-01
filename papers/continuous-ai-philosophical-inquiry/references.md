@@ -236,13 +236,13 @@ Not directly cited in draft with specific claims. Background references only.
 
 ---
 
-### 31. Shanahan (2023)
+### 31. Shanahan (2024)
 
-**Shanahan, M. (2023).** "Talking About Large Language Models." *arXiv*. https://arxiv.org/abs/2212.03551
+**Shanahan, M. (2024).** "Talking About Large Language Models." *Communications of the ACM*, 67(2), 68–79. https://doi.org/10.1145/3624724
 
 **Draft statements supported:**
-- §1 (Introduction): "Shanahan (2023) warns that fluent output invites anthropomorphic misinterpretation"
-- §2.1: "Shanahan (2023) warns that philosophically loaded descriptions of LLM behaviour — 'knows,' 'believes,' 'thinks' — risk anthropomorphic misinterpretation"
+- §1 (Introduction): "Shanahan (2024) warns that fluent output invites anthropomorphic misinterpretation"
+- §2.1: "Shanahan (2024) warns that philosophically loaded descriptions of LLM behaviour — 'knows,' 'believes,' 'thinks' — risk anthropomorphic misinterpretation"
 
 **Verification notes:**
 - Abstract (p.1): "the natural tendency to use philosophically loaded terms, such as 'knows', 'believes', and 'thinks', when describing these systems"

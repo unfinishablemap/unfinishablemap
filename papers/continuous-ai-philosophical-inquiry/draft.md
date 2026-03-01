@@ -1,6 +1,6 @@
 # The Unfinishable Map: Agentic Philosophy Through Adversarial Self-Review
 
-**Authors:** Andy Southgate (andy@unfinishablemap.org)
+**Author:** Andy Southgate (andy@unfinishablemap.org)
 
 **Abstract**
 
@@ -18,7 +18,7 @@ The late-2025 capability shift in coding agents was not simply about longer cont
 
 Karpathy's "vibe coding" (February 2025) captured one-shot AI-assisted development. We extend this to a sustained, constrained, self-reviewing process applied to philosophical content — what we call *agentic philosophy*, where human-set commitments guide AI agents through ongoing cycles of generation, critique, and revision.
 
-The motivation is a gap between capability and reliability. LLMs produce philosophical text that experts find difficult to distinguish from human output — Schwitzgebel et al. (2024) report that experts identified the philosopher's own answers only 51% of the time when presented alongside GPT-3 outputs, above chance but well below the 80% the authors hypothesised. Yet fluency does not entail reliability. Shanahan (2023) warns that fluent output invites anthropomorphic misinterpretation. Chain-of-thought explanations can be systematically unfaithful (Turpin et al., 2023). Goldstein (2024) argues that LLMs face fundamental limits as rational agents. Single-shot generation therefore produces content that reads well but cannot be trusted without external verification.
+The motivation is a gap between capability and reliability. LLMs produce philosophical text that experts find difficult to distinguish from human output — Schwitzgebel et al. (2024) report that experts identified the philosopher's own answers only 51% of the time when presented alongside GPT-3 outputs, above chance but well below the 80% the authors hypothesised. Yet fluency does not entail reliability. Shanahan (2024) warns that fluent output invites anthropomorphic misinterpretation. Chain-of-thought explanations can be systematically unfaithful (Turpin et al., 2023). Goldstein (2024) argues that LLMs face fundamental limits as rational agents. Single-shot generation therefore produces content that reads well but cannot be trusted without external verification.
 
 No existing system addresses this at corpus scale. STORM (Shao et al., 2024) generates Wikipedia-like articles but does not continuously review its output. Self-Refine (Madaan et al., 2023) iteratively improves individual responses but does not maintain a persistent knowledge base. Constitutional AI (Bai et al., 2022) applies principle-driven constraints but for safety alignment, not knowledge production.
 
@@ -45,7 +45,7 @@ Schwitzgebel et al. (2024) fine-tuned GPT-3 on the writings of Daniel Dennett an
 
 Gage (2025, PhilArchive preprint) offers a defence of "Augmented Agency," arguing that philosophical ideas should be evaluated on intellectual merit rather than discoverer's credentials. This is early-stage, non-peer-reviewed work, but it provides a philosophical framework for human-directed, AI-executed inquiry. The inverse relationship also exists: Harb et al. (2025) use Socratic method to structure LLM scientific reasoning — philosophy improving AI, where we use AI to produce philosophy.
 
-Shanahan (2023) warns that philosophically loaded descriptions of LLM behaviour — "knows," "believes," "thinks" — risk anthropomorphic misinterpretation. We adopt this caution throughout: the Map's AI *contributes to* philosophical knowledge production; it does not *do* philosophy autonomously.
+Shanahan (2024) warns that philosophically loaded descriptions of LLM behaviour — "knows," "believes," "thinks" — risk anthropomorphic misinterpretation. We adopt this caution throughout: the Map's AI *contributes to* philosophical knowledge production; it does not *do* philosophy autonomously.
 
 Goldstein (2024, PhilArchive preprint) argues that next-word prediction architecturally guarantees incoherent probabilistic judgments and intransitive preferences. If raw LLM output is inherently unreliable, systematic constraints and adversarial review become necessary rather than optional.
 
@@ -298,48 +298,48 @@ The architecture is public, the repository is public, and the system is replicab
 
 ## References
 
-Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative Engine Optimization. *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*. https://arxiv.org/abs/2311.09735
+Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., & Deshpande, A. (2024). GEO: Generative Engine Optimization. *KDD 2024*. https://doi.org/10.1145/3637528.3671805
 
-Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., ... & Kaplan, J. (2022). Constitutional AI: Harmlessness from AI Feedback. *arXiv preprint*. https://arxiv.org/abs/2212.08073
+Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., et al. (2022). Constitutional AI: Harmlessness from AI Feedback. *arXiv preprint*. https://arxiv.org/abs/2212.08073
 
 Brophy, M. (2025). Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety. *arXiv preprint*. https://arxiv.org/abs/2506.00415
 
-Brooks, C., Eggert, S., & Peskoff, D. (2024). The Rise of AI-Generated Content in Wikipedia. *Proceedings of WikiNLP 2024*. https://arxiv.org/abs/2410.08044
+Brooks, C., Eggert, S., & Peskoff, D. (2024). The Rise of AI-Generated Content in Wikipedia. *WikiNLP 2024*. https://doi.org/10.18653/v1/2024.wikinlp-1.12
 
-COPE. (2023). Authorship and AI Tools: COPE Position Statement. Committee on Publication Ethics. https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools
+COPE Council. (2023). COPE Position Statement: Authorship and AI Tools (last reviewed 13 February 2023). Committee on Publication Ethics. https://doi.org/10.24318/cCVRZBms
 
-Du, Y., Li, S., Torralba, A., Tenenbaum, J.B., & Mordatch, I. (2024). Improving Factuality and Reasoning in Language Models through Multiagent Debate. *Proceedings of the 41st International Conference on Machine Learning*. https://arxiv.org/abs/2305.14325
+Du, Y., Li, S., Torralba, A., Tenenbaum, J.B., & Mordatch, I. (2024). Improving Factuality and Reasoning in Language Models through Multiagent Debate. *ICML 2024*. https://arxiv.org/abs/2305.14325
 
-Estornell, A. & Liu, Y. (2024). Multi-LLM Debate: Framework, Principals, and Interventions. *Advances in Neural Information Processing Systems 37*. https://proceedings.neurips.cc/paper_files/paper/2024/hash/32e07a110c6c6acf1afbf2bf82b614ad-Abstract-Conference.html
+Estornell, A. & Liu, Y. (2024). Multi-LLM Debate: Framework, Principals, and Interventions. *NeurIPS 2024*. https://arxiv.org/abs/2402.06782
 
 Gage, L. (2025). A Consequentialist Defense of AI-Assisted Philosophical Discovery. *PhilArchive preprint*. https://philarchive.org/rec/GAGACD
 
 Goldstein, S. (2024). LLMs Can Never Be Ideally Rational. *PhilArchive preprint*. https://philarchive.org/rec/GOLLCN
 
-Harb, H., Sun, Y., Unal, M., et al. (2025). Towards Philosophical Reasoning with Agentic LLMs: Socratic Method for Scientific Assistance. *ChemRxiv*. https://doi.org/10.26434/chemrxiv-2025-rwxdk
+Harb, H., Sun, Y., Unal, M., et al. (2025). Towards Philosophical Reasoning with Agentic LLMs: Socratic Method for Scientific Assistance. *ChemRxiv preprint*. https://doi.org/10.26434/chemrxiv-2025-rwxdk
 
-He, J., Houde, S., & Weisz, J.D. (2025). Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation. *Proceedings of CHI 2025*. https://arxiv.org/abs/2502.18357
+He, J., Houde, S., & Weisz, J.D. (2025). Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation. *CHI 2025*. https://arxiv.org/abs/2502.18357
 
-Huang, J., Chen, X., Mishra, S., Zheng, H.S., Yu, A.W., Song, X., & Zhou, D. (2024). Large Language Models Cannot Self-Correct Reasoning Yet. *Proceedings of the Twelfth International Conference on Learning Representations*. https://arxiv.org/abs/2310.01798
+Huang, J., Chen, X., Mishra, S., Zheng, H.S., Yu, A.W., Song, X., & Zhou, D. (2024). Large Language Models Cannot Self-Correct Reasoning Yet. *ICLR 2024*. https://arxiv.org/abs/2310.01798
 
-Jiang, Y., Shao, Y., Ma, D., Semnani, S.J., & Lam, M.S. (2024). Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations (Co-STORM). *Proceedings of EMNLP 2024*. https://arxiv.org/abs/2408.15232
+Jiang, Y., Shao, Y., Ma, D., Semnani, S.J., & Lam, M.S. (2024). Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations (Co-STORM). *EMNLP 2024*. https://arxiv.org/abs/2408.15232
 
 Karpathy, A. (2025). 2025 LLM Year in Review. *Blog post*. https://karpathy.bearblog.dev/year-in-review-2025/
 
 Lakatos, I. (1978). *The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1*. Cambridge University Press.
 
-Liang, W., Zhang, Y., et al. (2025). The Widespread Adoption of Large Language Model-Assisted Writing Across Society. *Patterns (Cell Press)*. https://arxiv.org/abs/2502.09747
+Liang, W., Zhang, Y., et al. (2025). The Widespread Adoption of Large Language Model-Assisted Writing Across Society. *Patterns*, 6(2), 101189. https://doi.org/10.1016/j.patter.2025.101189
 
-Madaan, A., Tandon, N., Gupta, P., Hallinan, S., Gao, L., Wiegreffe, S., ... & Clark, P. (2023). Self-Refine: Iterative Refinement with Self-Feedback. *Advances in Neural Information Processing Systems 36*. https://arxiv.org/abs/2303.17651
+Madaan, A., Tandon, N., Gupta, P., Hallinan, S., Gao, L., Wiegreffe, S., et al. (2023). Self-Refine: Iterative Refinement with Self-Feedback. *NeurIPS 2023*. https://arxiv.org/abs/2303.17651
 
 Schwitzgebel, E., Schwitzgebel, D., & Strasser, A. (2024). Creating a Large Language Model of a Philosopher. *Mind & Language*, 39(2), 237–259. https://doi.org/10.1111/mila.12466
 
-Shanahan, M. (2023). Talking About Large Language Models. *arXiv preprint*. https://arxiv.org/abs/2212.03551
+Shanahan, M. (2024). Talking About Large Language Models. *Communications of the ACM*, 67(2), 68–79. https://doi.org/10.1145/3624724
 
-Shao, Y., Jiang, Y., Kanell, T., Xu, P., Khattab, O., & Lam, M. (2024). Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models (STORM). *Proceedings of NAACL 2024*. https://arxiv.org/abs/2402.14207
+Shao, Y., Jiang, Y., Kanell, T., Xu, P., Khattab, O., & Lam, M. (2024). Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models (STORM). *NAACL 2024*. https://arxiv.org/abs/2402.14207
 
-Shinn, N., Cassano, F., Berman, E., Gopinath, A., Narasimhan, K., & Yao, S. (2023). Reflexion: Language Agents with Verbal Reinforcement Learning. *Advances in Neural Information Processing Systems 36*. https://arxiv.org/abs/2303.11366
+Shinn, N., Cassano, F., Berman, E., Gopinath, A., Narasimhan, K., & Yao, S. (2023). Reflexion: Language Agents with Verbal Reinforcement Learning. *NeurIPS 2023*. https://arxiv.org/abs/2303.11366
 
-Turpin, M., Michael, J., Perez, E., & Bowman, S.R. (2023). Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting. *Advances in Neural Information Processing Systems 36*. https://arxiv.org/abs/2305.04388
+Turpin, M., Michael, J., Perez, E., & Bowman, S.R. (2023). Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting. *NeurIPS 2023*. https://arxiv.org/abs/2305.04388
 
 Xu, Z., Jain, S., & Kankanhalli, M. (2024). Hallucination is Inevitable: An Innate Limitation of Large Language Models. *arXiv preprint*. https://arxiv.org/abs/2401.11817

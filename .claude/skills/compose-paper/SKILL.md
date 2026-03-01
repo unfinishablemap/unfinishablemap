@@ -1,11 +1,11 @@
 ---
 name: compose-paper
-description: Compose an academic working paper for SSRN. Drafts locally in markdown, then writes to Google Docs via Chrome for final formatting and PDF export.
+description: Compose an academic preprint for SSRN and PhilArchive. Drafts locally in markdown, then writes to Google Docs via Chrome for final formatting and PDF export.
 ---
 
 # Compose Paper
 
-Draft and produce an academic working paper suitable for submission to SSRN as a preprint.
+Draft and produce an academic preprint suitable for submission to SSRN and PhilArchive.
 
 ## When to Use
 
@@ -153,7 +153,7 @@ Structure:
 ```markdown
 # [Title]
 
-**Authors:** [Names and affiliations]
+**Author:** [Name and affiliation]    ← use "Authors:" if multiple
 
 **Abstract:** [150-250 words]
 
@@ -197,42 +197,117 @@ Structure:
 - **Add forward references for unsupported claims.** If a claim in an early section (e.g., "drives measurable improvement") is supported by data in a later section, add a forward reference "(Section N)" so the reader knows evidence is coming
 - **Map technical mechanisms to familiar analogues.** Review layers map onto traditional philosophical workflow (pessimistic review ≈ hostile referee, outer review ≈ reviewer from a different subfield). Making these comparisons explicit helps readers from adjacent fields understand the architecture
 
-### 6. Prepare Figures
+### 6. Publish to Website
+
+Each paper gets a landing page and per-version pages on unfinishablemap.org. These live in `obsidian/papers/` and sync through the normal pipeline.
+
+**Landing page** — `obsidian/papers/<slug>.md`:
+- Title, author, summary, keywords, repository link
+- Version table with wikilinks to each version page
+
+**Version page** — `obsidian/papers/<slug>-v<N>.md`:
+- Full abstract
+- PDF download link pointing to `/papers/<slug>/<slug>-v<N>.pdf`
+- Suggested citations (APA + BibTeX) with canonical URL `https://unfinishablemap.org/papers/<slug>-v<N>/`
+- Version notes
+- Wikilink back to landing page
+
+**PDF storage** — `hugo/static/papers/<slug>/<slug>-v<N>.pdf`:
+- Served at `/papers/<slug>/<slug>-v<N>.pdf`
+- Copy the exported PDF here after finalising
+
+All files use standard flat frontmatter with `ai_contribution: 0` (human-authored pages about the paper). The papers section has no menu entry but appears in the sitemap.
+
+URL structure:
+| URL | Purpose |
+|-----|---------|
+| `/papers/` | Section listing |
+| `/papers/<slug>/` | Paper landing (all versions) |
+| `/papers/<slug>-v<N>/` | Version page: abstract, PDF download, citation |
+| `/papers/<slug>/<slug>-v<N>.pdf` | PDF file |
+
+### 7. Prepare Figures
 
 - Export diagrams to `papers/<slug>/figures/` as PNG (300+ dpi) or SVG
 - Mermaid diagrams from the site can be rendered via CLI or screenshot
 - Each figure needs a caption and must be referenced in the text
 
-### 7. Write to Google Docs
+### 8. Write to Google Docs
 
 Using Chrome browser automation:
-1. Create a new blank Google Doc
-2. Set up formatting (font, margins, spacing)
-3. Transfer content section by section from draft.md
+1. Create a new blank Google Doc (or open existing draft)
+2. Transfer content section by section from draft.md
+3. Apply heading styles (Heading 1, Heading 2, etc.)
 4. Insert figures at appropriate locations
-5. Apply heading styles (Heading 1, Heading 2, etc.)
-6. Name the document: "[Paper Title] — SSRN Draft"
+5. Name the document: "[Paper Title] draft N"
 
-### 8. Export and Submit
+### 9. Format for PDF Export
+
+Apply these formatting changes in Google Docs:
+
+1. **Font:** Select All (Ctrl+A), change to Times New Roman (serif)
+2. **Page numbers:** Format > Page numbers > Footer, start at 1, show on all pages
+3. **Title block metadata** (below author line, in Normal text style):
+   - Affiliation line (e.g., "Independent Researcher")
+   - Status line: "Preprint — [Month Year] — Not peer-reviewed"
+4. **No decorative formatting** — no horizontal rules, drop caps, or ornamental dividers. Clean section headings and consistent typography are sufficient
+
+The title block should read:
+```
+[Title]
+Author: [Name] ([email])       ← use "Authors:" if multiple
+[Affiliation]
+Preprint — [Month Year] — Not peer-reviewed
+
+Abstract
+[...]
+```
+
+### 10. Export and Publish
 
 1. Export Google Doc as PDF (File > Download > PDF)
-2. Verify formatting in the PDF
-3. Submit to SSRN:
-   - Title matching the PDF title page
-   - Abstract matching the paper
-   - Keywords
-   - Author name and affiliation
-   - Select appropriate research network(s)
+2. Verify formatting in the PDF (page numbers, font, title block)
+3. Save locally with version: `papers/<slug>/exports/<slug>-v1.pdf`
+4. Copy PDF to `hugo/static/papers/<slug>/<slug>-v1.pdf` for website hosting
+5. Update the version page's download link (remove "coming soon" if present)
+6. Run `uv run python scripts/sync.py` and verify with `cd hugo && hugo server`
+7. Submit to target platforms (see submission notes below)
 
-## SSRN Submission Notes
+### 11. Version Management
+
+Neither SSRN nor PhilArchive maintains version history reliably (SSRN overwrites without preserving previous versions). Manage versions locally:
+
+- Keep exported PDFs in `papers/<slug>/exports/` with version numbers: `<slug>-v1.pdf`, `<slug>-v2.pdf`
+- Track versions in git
+- Optionally note the version on the PDF title page (e.g., "v1.0" after the date)
+- Google Docs document title should include draft number: "[Title] draft N"
+
+## Platform Submission Notes
+
+### SSRN
 
 - SSRN is a preprint server — no peer review, basic editorial screening only
 - No cost to submit or read
-- Paper must be uploaded as PDF
-- Title in PDF must match title in submission form
+- **No formatting requirements** — SSRN is format-agnostic. Just upload a readable PDF
+- **One hard rule:** title and author names in the PDF must match the submission form
 - Author affiliations must appear in the PDF
 - English abstract required
+- **SSRN adds its own footer** ("Electronic copy available at: http://ssrn.com/abstract=XXXX") to the first two pages — can be unchecked during upload
+- **SSRN does not preserve previous versions** — revisions permanently overwrite. Manage your own version history
+- Submission form requires: title, date written, abstract, author names + affiliations. Keywords and DOI are optional
 - Relevant networks: Philosophy Research Network, Computer Science Research Network
+
+### PhilArchive
+
+- PhilArchive is an open-access philosophy e-print archive (sister site of PhilPapers)
+- No cost to submit or read
+- **No formatting requirements** — no templates, no mandated fonts/margins/page size, no required metadata in the PDF
+- Papers must be "of professional quality" — lightly vetted for quality and relevance
+- Metadata (title, abstract, keywords, categories) is entered through the web form, not the PDF
+- Versioning is handled through their web interface — they support multiple versions with permanent links
+- Requires a Phil* account (shared across PhilPapers, PhilArchive, PhilEvents, PhilJobs)
+- Content appears on both PhilArchive and PhilPapers automatically
+- Categories use the PhilPapers taxonomy — select appropriate philosophy subcategories
 
 ## Important
 
