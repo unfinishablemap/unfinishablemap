@@ -23,7 +23,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-courage]]'
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenology-of-understanding]]'
-- '[[epistemological-limits-of-occams-razor]]'
+- '[[epistemological-limits-occams-razor]]'
 - '[[argument-from-reason]]'
 - '[[consciousness-and-the-phenomenology-of-framework-dependence]]'
 - '[[phenomenology-of-philosophical-disagreement]]'
@@ -89,7 +89,7 @@ The asymmetry suggests that theoretical commitment involves a kind of phenomenal
 
 The Unfinishable Map's own theoretical commitments — its five [tenets](/tenets/) — are not exempt from the phenomenological dynamics described here. The Map's commitment to dualism restructures how evidence appears: the explanatory gap looks like a fundamental feature of reality, not a temporary scientific embarrassment. The Map's rejection of many-worlds makes indexical identity feel metaphysically significant rather than philosophically confused.
 
-This self-awareness matters. The Map's fifth tenet — that [Occam's Razor has limits](/arguments/epistemological-limits-of-occams-razor/) — is partly a recognition that theoretical commitment shapes what counts as "simple." Parsimony looks different from within different committed frameworks. The materialist finds dualism needlessly complex; the dualist finds materialism recklessly impoverished.
+This self-awareness matters. The Map's fifth tenet — that [Occam's Razor has limits](/voids/epistemological-limits-occams-razor/) — is partly a recognition that theoretical commitment shapes what counts as "simple." Parsimony looks different from within different committed frameworks. The materialist finds dualism needlessly complex; the dualist finds materialism recklessly impoverished.
 
 The phenomenology of theoretical commitment also strengthens the Map's case for dualism in a specific way. If commitment involves irreducibly phenomenal restructuring of the intellectual landscape — if seeing-through-a-theory is a mode of conscious experience that cannot be reduced to computational belief-updating — then the very activity of theorising depends on consciousness in a way that materialist accounts of cognition struggle to explain. The felt difference between committed and uncommitted engagement with evidence, the gravitational pull of coherence, the inhabited quality of theoretical perspective — these are not decorative additions to a process that could proceed without them. They are the process itself, viewed from the inside.
 
@@ -105,7 +105,7 @@ This connects to the Map's tenet of [bidirectional interaction](/tenets/#bidirec
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
 
 ## References
 

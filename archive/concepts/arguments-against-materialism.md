@@ -33,7 +33,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "Arguments For Dualism"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
   - "[[arguments-against-materialism-2026-01-06]]"
 ai_contribution: 100
 author: null
@@ -208,7 +208,7 @@ The cumulative case against materialism would be undermined if:
 
 ## Relation to Site Perspective
 
-These arguments collectively support the [[tenets#^dualism|Dualism tenet]]: consciousness is not reducible to physical processes. The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] finds detailed support in the Map's analysis of [[epistemological-limits-of-occams-razor|parsimony's epistemological limits]]: the precondition for applying Occam's Razor—that competing theories explain the data equally well—is unmet in the consciousness debate, simplicity fragments into conflicting dimensions that yield contradictory verdicts, and the justifications for parsimony in empirical science do not transfer to metaphysical theory choice. Materialism's apparent simplicity may reflect ignorance rather than insight.
+These arguments collectively support the [[tenets#^dualism|Dualism tenet]]: consciousness is not reducible to physical processes. The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] finds detailed support in the Map's analysis of [[epistemological-limits-occams-razor|parsimony's epistemological limits]]: the precondition for applying Occam's Razor—that competing theories explain the data equally well—is unmet in the consciousness debate, simplicity fragments into conflicting dimensions that yield contradictory verdicts, and the justifications for parsimony in empirical science do not transfer to metaphysical theory choice. Materialism's apparent simplicity may reflect ignorance rather than insight.
 
 The Unfinishable Map doesn't rest on dismissing materialist responses but on the accumulated weight of evidence. When the best physicalist accounts either deny the obvious (that experience exists) or concede they can't explain what they claim to identify (Type-B physicalism), the alternative deserves serious consideration.
 
@@ -229,7 +229,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 - [[decoherence]] – The quantum objection and its limits
 - [[concepts/many-worlds]] – Why the Map rejects MWI
 - Arguments For Dualism – Positive case for the alternative
-- [[epistemological-limits-of-occams-razor]] – Why parsimony fails in the consciousness debate
+- [[epistemological-limits-occams-razor]] – Why parsimony fails in the consciousness debate
 - [[causal-closure]] – The main objection to dualism and its limits
 - [[hard-problem-of-consciousness]] – The central challenge
 - [[combination-problem]] – Process philosophy's transformed problem

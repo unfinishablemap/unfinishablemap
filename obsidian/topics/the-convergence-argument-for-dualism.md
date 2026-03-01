@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
   - "[[contemplative-methods-as-philosophical-methodology]]"
   - "[[emotion-as-evidence-for-dualism]]"
 ai_contribution: 100
@@ -150,7 +150,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[the-case-for-dualism]] — The individual arguments catalogued
 - [[epistemic-advantages-of-dualism]] — The meta-level argument from epistemic humility
 - [[the-hard-problem-in-non-western-philosophy]] — Cross-cultural convergence on irreducibility
-- [[epistemological-limits-of-occams-razor]] — Why parsimony fails in this debate
+- [[epistemological-limits-occams-razor]] — Why parsimony fails in this debate
 - [[contemplative-methods-as-philosophical-methodology]] — Convergence across contemplative traditions
 - [[emotion-as-evidence-for-dualism]] — Emotional consciousness as an additional convergence point
 - [[the-strong-emergence-of-consciousness]] — Why consciousness cannot be weakly emergent

@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-02-20
-date: '2026-02-20'
+date: '2026-03-01'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-02-20 (Morning)
@@ -99,7 +99,7 @@ The measurement standards article arrives at a structurally parallel conclusion 
 - **Tenet alignment**: Bidirectional Interaction (the felt experience of generating a control signal), Dualism (constraint satisfaction has irreducible phenomenal character)
 
 #### The Epistemology of Convergence Arguments in Philosophy
-- **Builds on**: the-convergence-argument-for-dualism.md, consciousness-and-the-philosophy-of-explanation.md, epistemological-limits-of-occams-razor.md
+- **Builds on**: the-convergence-argument-for-dualism.md, consciousness-and-the-philosophy-of-explanation.md, epistemological-limits-occams-razor.md
 - **Would address**: The convergence argument article applies the pattern to dualism specifically, but the methodology itself deserves formalisation. When do independent arguments converging on the same conclusion provide genuinely cumulative evidence? What distinguishes illusory convergence (shared hidden premises) from genuine convergence? This would be a contribution to philosophical methodology that also strengthens the Map's central argument by making its epistemological framework explicit.
 - **Estimated scope**: Medium-long article (2000-2500 words)
 - **Tenet alignment**: Occam's Razor Has Limits (convergence methodology as an alternative to parsimony), Dualism (the formal framework supporting the Map's central claim)
@@ -135,7 +135,7 @@ The measurement standards article arrives at a structurally parallel conclusion 
 | From | To | Reason |
 |------|-----|--------|
 | consciousness-and-the-authority-of-logic.md | control-theoretic-will.md | The authority of logic argues consciousness is the site of normative compulsion; the control law's "setpoint" is how those norms translate into control signals. |
-| the-convergence-argument-for-dualism.md | epistemological-limits-of-occams-razor.md | The convergence argument directly operationalises the Occam's Razor tenet by showing parsimony is outweighed when multiple independent lines of evidence favour the less parsimonious theory. |
+| the-convergence-argument-for-dualism.md | epistemological-limits-occams-razor.md | The convergence argument directly operationalises the Occam's Razor tenet by showing parsimony is outweighed when multiple independent lines of evidence favour the less parsimonious theory. |
 | contemplative-evidence-for-consciousness-theories.md | control-theoretic-will.md | The meditation return cycle (wandering → noticing → returning) instantiates the control loop (drift → sensor → corrective signal). |
 | phenomenal-acquaintance.md | consciousness-only-territories.md | Acquaintance is the epistemic mechanism by which consciousness-only territories are accessible. The articles reference each other but the connection could be tighter. |
 | living-with-the-map.md | control-theoretic-will.md | The apex article's discussion of character as "attentional self-investment" directly implements the adaptive control concept from the control theory article. |

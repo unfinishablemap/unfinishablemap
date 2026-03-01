@@ -32,7 +32,7 @@ This article was recently coalesced (2026-02-06) from two separate articles—`/
 ### Medium Issues Found
 - **Description over length limit**: Was 197 chars, guideline is 150-160. **Resolution applied**: Trimmed to 157 chars while preserving key meaning.
 - **Imprecise contemplative tradition reference**: "Hindu yoga" was vague—could refer to many traditions. **Resolution applied**: Changed to "Hindu dhyana (as systematised in Patanjali's Yoga Sutras)" for precision.
-- **Missing cross-links**: Article discussed concepts that exist as separate Map pages but weren't linked. **Resolution applied**: Added links to `[altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)`, `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)`, and `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)`.
+- **Missing cross-links**: Article discussed concepts that exist as separate Map pages but weren't linked. **Resolution applied**: Added links to `[altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)`, `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)`, and `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)`.
 
 ### Counterarguments Considered
 - **Eliminative materialist** (Churchland): The "phenomenal content" category may not be real. Previous review marked this as bedrock disagreement — not re-flagged.
@@ -66,14 +66,14 @@ This article was recently coalesced (2026-02-06) from two separate articles—`/
 - Replaced vague "Hindu yoga" with precise "Hindu dhyana (as systematised in Patanjali's Yoga Sutras)"
 - Added cross-link to `[altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)` in contemplative convergence paragraph
 - Added cross-link to `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` in reliability objection's process/content distinction
-- Added cross-link to `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` in Relation to Site Perspective
+- Added cross-link to `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)` in Relation to Site Perspective
 - Added `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` and `[altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)` to frontmatter concepts
-- Added `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` to frontmatter related_articles
+- Added `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)` to frontmatter related_articles
 
 ### Cross-links Added
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
 
 ## Remaining Items
 

@@ -38,7 +38,7 @@ related_articles:
   - "[[collective-cognitive-limits]]"
   - "[[altered-states-as-void-probes]]"
   - "[[epistemology-of-cognitive-limits]]"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -206,7 +206,7 @@ The mysterian response: we succeed with properties that fall within our cognitiv
 
 Mysterianism connects to all five tenets:
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Strongest alignment. The [[epistemological-limits-of-occams-razor|epistemological limits of parsimony]] show that parsimony's precondition—equal explanatory power—is unmet for consciousness, and that none of the standard justifications for preferring simpler scientific theories extend to this metaphysical domain (Huemer 2009). Mysterianism explains *why* at a deeper level: if cognitive closure applies, our very sense of which explanations are "simple" is constrained by the same architecture that cannot grasp the mind-brain connection. We don't merely lack a good reason to prefer the "simpler" theory; we lack the capacity to know which theory is simpler where consciousness is concerned.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Strongest alignment. The [[epistemological-limits-occams-razor|epistemological limits of parsimony]] show that parsimony's precondition—equal explanatory power—is unmet for consciousness, and that none of the standard justifications for preferring simpler scientific theories extend to this metaphysical domain (Huemer 2009). Mysterianism explains *why* at a deeper level: if cognitive closure applies, our very sense of which explanations are "simple" is constrained by the same architecture that cannot grasp the mind-brain connection. We don't merely lack a good reason to prefer the "simpler" theory; we lack the capacity to know which theory is simpler where consciousness is concerned.
 
 **[[tenets#^dualism|Dualism]]**: Officially neutral but compatible. Mysterians accept consciousness is real and requires explanation. The Map goes further, treating irreducibility as commitment rather than remaining agnostic.
 
@@ -236,7 +236,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[causal-interface]] — The void between intention and action as cognitive closure in action
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
 - [[whether-real]] — Can we know if the voids are genuinely permanent?
-- [[epistemological-limits-of-occams-razor]] — Why parsimony cannot settle the consciousness debate
+- [[epistemological-limits-occams-razor]] — Why parsimony cannot settle the consciousness debate
 - [[causal-closure]] — The distinct ontological thesis about causation (not to be confused with cognitive closure)
 - [[developmental-cognitive-closure]] — How maturation creates new closures in individual minds
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable

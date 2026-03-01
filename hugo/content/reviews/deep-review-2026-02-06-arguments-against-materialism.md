@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-06
 **Article**: [Arguments Against Materialism](/topics/arguments-against-materialism/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-arguments-against-materialism/)
-**Review context**: Cross-review considering [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) insights
+**Review context**: Cross-review considering [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) insights
 
 ## Pessimistic Analysis Summary
 
@@ -43,11 +43,11 @@ None. Article has been stable since the 2026-01-20 review's substantial improvem
 
 ### Medium Issues Found
 
-1. **Missing cross-link to epistemological-limits-of-occams-razor**: The article referenced the Occam's Razor Has Limits tenet with a brief allusion but didn't link to the detailed treatment now available on the Map.
+1. **Missing cross-link to epistemological-limits-occams-razor**: The article referenced the Occam's Razor Has Limits tenet with a brief allusion but didn't link to the detailed treatment now available on the Map.
    - **Resolution**: Expanded the Occam's Razor paragraph in "Relation to Site Perspective" to summarize the three-part argument (precondition unmet, simplicity fragments, scientific parsimony doesn't transfer) with a link to the full article.
 
 2. **Missing Further Reading entry**: The epistemological limits article wasn't in the Further Reading section.
-   - **Resolution**: Added `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` to Further Reading and `related_articles` frontmatter.
+   - **Resolution**: Added `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)` to Further Reading and `related_articles` frontmatter.
 
 ### Low Issues Found
 
@@ -71,13 +71,13 @@ All major counterarguments were addressed in the 2026-01-20 review and remain ad
 
 ### Enhancements Made
 
-1. **Cross-link to epistemological-limits-of-occams-razor**: Added substantive reference in "Relation to Site Perspective" summarizing the three-part argument against parsimony in the consciousness debate
+1. **Cross-link to epistemological-limits-occams-razor**: Added substantive reference in "Relation to Site Perspective" summarizing the three-part argument against parsimony in the consciousness debate
 2. **Further Reading expanded**: Added epistemological limits article
 3. **Prose tightening**: Condensed opening paragraph and Convergence Argument section to maintain length neutrality (~-22 words recouped)
 
 ### Cross-links Added
 
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) (in Relation to Site Perspective, Further Reading, and related_articles)
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) (in Relation to Site Perspective, Further Reading, and related_articles)
 
 ### Effective Patterns
 
@@ -86,7 +86,7 @@ All major counterarguments were addressed in the 2026-01-20 review and remain ad
 
 ## Remaining Items
 
-None. The cross-review objective—integrating epistemological-limits-of-occams-razor insights—has been accomplished.
+None. The cross-review objective—integrating epistemological-limits-occams-razor insights—has been accomplished.
 
 ## Stability Notes
 

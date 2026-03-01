@@ -29,7 +29,7 @@ related_articles:
 - '[[tenets]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
-- '[[epistemological-limits-of-occams-razor]]'
+- '[[epistemological-limits-occams-razor]]'
 - '[[contemplative-methods-as-philosophical-methodology]]'
 - '[[emotion-as-evidence-for-dualism]]'
 title: The Convergence Argument for Dualism
@@ -153,7 +153,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The individual arguments catalogued
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The meta-level argument from epistemic humility
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Cross-cultural convergence on irreducibility
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — Why parsimony fails in this debate
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails in this debate
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Convergence across contemplative traditions
 - [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — Emotional consciousness as an additional convergence point
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Why consciousness cannot be weakly emergent

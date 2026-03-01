@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[the-case-for-dualism]]"
   - "[[the-convergence-argument-for-dualism]]"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -29,7 +29,7 @@ last_curated:
 last_deep_review: 2026-02-22T07:02:00+00:00
 ---
 
-Theoretical virtues — the properties that make one theory preferable to another — are the engine of rational theory choice in science. Simplicity, explanatory power, empirical adequacy, fertility, scope, elegance, and unificatory strength normally help scientists navigate between competing hypotheses. The Unfinishable Map argues that consciousness breaks the machinery of theoretical virtues in distinctive and underappreciated ways. Not just parsimony (addressed separately in [[epistemological-limits-of-occams-razor]]), but the entire suite of virtues malfunctions when the target phenomenon is subjective experience. This systematic failure may itself be diagnostic of something about consciousness's nature — though interpreting it requires care, as the article explores.
+Theoretical virtues — the properties that make one theory preferable to another — are the engine of rational theory choice in science. Simplicity, explanatory power, empirical adequacy, fertility, scope, elegance, and unificatory strength normally help scientists navigate between competing hypotheses. The Unfinishable Map argues that consciousness breaks the machinery of theoretical virtues in distinctive and underappreciated ways. Not just parsimony (addressed separately in [[epistemological-limits-occams-razor]]), but the entire suite of virtues malfunctions when the target phenomenon is subjective experience. This systematic failure may itself be diagnostic of something about consciousness's nature — though interpreting it requires care, as the article explores.
 
 ## The Standard Account of Theoretical Virtues
 
@@ -67,7 +67,7 @@ Dualism, by contrast, does not purport to explain *why* consciousness exists —
 
 ### Simplicity Beyond Parsimony
 
-The [[epistemological-limits-of-occams-razor|simplicity problem]] for consciousness extends beyond the parsimony arguments already examined. Even setting aside ontological economy, simplicity as a virtue requires a shared metric for comparing theories. In physics, simplicity can be formalised: fewer free parameters, simpler equations, more compact axiomatic bases. For consciousness, no such metric exists.
+The [[epistemological-limits-occams-razor|simplicity problem]] for consciousness extends beyond the parsimony arguments already examined. Even setting aside ontological economy, simplicity as a virtue requires a shared metric for comparing theories. In physics, simplicity can be formalised: fewer free parameters, simpler equations, more compact axiomatic bases. For consciousness, no such metric exists.
 
 What would count as a "simpler" theory of consciousness? Physicalism is ontologically simpler (one substance). Dualism may be explanatorily simpler (fewer brute identities). Panpsychism is structurally simpler (no emergence from the non-experiential). Illusionism is eliminatively simpler (no hard problem at all). Each scores as "simplest" on its own preferred dimension. Without a domain-appropriate simplicity metric — and no one has proposed one — the virtue is underdetermined.
 
@@ -125,7 +125,7 @@ The Map does not claim that theoretical virtues are useless. In their home domai
 
 ## Further Reading
 
-- [[epistemological-limits-of-occams-razor]] — The parsimony argument examined in detail
+- [[epistemological-limits-occams-razor]] — The parsimony argument examined in detail
 - [[consciousness-and-the-philosophy-of-explanation]] — Why explanation itself breaks down for consciousness
 - [[consciousness-and-the-meta-problem-of-scientific-explanation]] — Why science's explanatory apparatus fails for consciousness
 - [[the-convergence-argument-for-dualism]] — Multiple independent arguments converging on irreducibility

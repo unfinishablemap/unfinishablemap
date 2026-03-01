@@ -31,7 +31,7 @@ related_articles:
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[convergent-cognitive-limits]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[epistemological-limits-of-occams-razor]]'
+- '[[epistemological-limits-occams-razor]]'
 - '[[contemplative-methods-as-philosophical-methodology]]'
 superseded_by: /topics/epistemology-of-convergence-arguments/
 title: The Epistemology of Cross-Cultural Philosophical Convergence

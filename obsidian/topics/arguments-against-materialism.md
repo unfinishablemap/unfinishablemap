@@ -26,7 +26,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[epistemic-advantages-of-dualism]]"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
   - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100
 author:
@@ -75,7 +75,7 @@ Academic philosophy rewards research programs that produce results. Materialism 
 
 [[concepts/materialism|Materialism]] seems simpler: one kind of stuff instead of two. But parsimony arbitrates between theories of equal explanatory power. A "simpler" theory that fails to explain the data has not earned the parsimony discount. Materialism does not explain phenomenal consciousness—it either denies it (eliminativism), redefines it functionally while setting aside qualitative character, appeals to the [[phenomenal-concepts-strategy]] to explain away the gap as a feature of our *concepts* rather than of reality, or defers it (future science). None of these is an explanation.
 
-The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly: simplicity is an unreliable guide when knowledge is incomplete. The apparent simplicity of materialism may reflect what we are *ignoring* rather than what we have *explained*. See [[epistemological-limits-of-occams-razor]] for the full case.
+The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly: simplicity is an unreliable guide when knowledge is incomplete. The apparent simplicity of materialism may reflect what we are *ignoring* rather than what we have *explained*. See [[epistemological-limits-occams-razor]] for the full case.
 
 ### Fear of the Alternative
 
@@ -125,7 +125,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [[argument-from-reason]] — Why materialism undermines rational justification
 - [[illusionism]] — Materialism's most radical response and its problems
 - [[epistemic-advantages-of-dualism]] — What dualism explains that materialism cannot
-- [[epistemological-limits-of-occams-razor]] — Why parsimony does not favour materialism
+- [[epistemological-limits-occams-razor]] — Why parsimony does not favour materialism
 - [[hard-problem-of-consciousness]] — The problem that started the contemporary debate
 - [[interactionist-dualism]] — The Map's positive framework
 

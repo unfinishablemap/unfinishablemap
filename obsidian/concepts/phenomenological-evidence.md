@@ -27,7 +27,7 @@ related_articles:
   - "[[tenets]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
   - "[[phenomenology-of-epistemic-judgment]]"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -163,7 +163,7 @@ Phenomenological evidence directly supports the Map's [[tenets]]:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: [[neurophenomenology|Neurophenomenology's]] mutual constraint exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience validates phenomenological distinctions. Neither domain dominates; both contribute evidence.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Dismissing phenomenological evidence as "merely subjective" is not parsimony—it is refusal to investigate. As the [[epistemological-limits-of-occams-razor]] argument develops, apparent simplicity can reflect ignorance rather than insight. Contemplative traditions have developed systematic first-person methods over millennia. Materialist "simplicity" often reflects failure to look rather than absence of phenomena.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Dismissing phenomenological evidence as "merely subjective" is not parsimony—it is refusal to investigate. As the [[epistemological-limits-occams-razor]] argument develops, apparent simplicity can reflect ignorance rather than insight. Contemplative traditions have developed systematic first-person methods over millennia. Materialist "simplicity" often reflects failure to look rather than absence of phenomena.
 
 Phenomenological evidence provides the data that any adequate theory of consciousness must explain. Without it, we study correlates and functions while ignoring what consciousness actually is.
 

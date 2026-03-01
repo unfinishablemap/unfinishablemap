@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
-- **Type**: cross-review
-- **Notes**: Gap analysis found 29 wikilinks across live content reference `[[epistemological-limits-of-occams-razor]]` (with "of") but the actual file is voids/epistemological-limits-occams-razor.md (without "of"). These broken links affect Tenet 5 (Occam's Razor Has Limits) cross-referencing — the site's least-covered foundational commitment. Update all 29 references to point to the correct slug.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-01
-
 ### P2: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
 - **Type**: cross-review
 - **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) identifies ipseity disturbance — diminished self-affection, loss of mineness — as the core phenomenological feature of schizophrenic self-disturbance. topics/consciousness-and-the-ownership-problem.md asks what makes conscious states belong to a subject. Phenomenological psychiatry provides clinical evidence for ownership dissociations (EASE instrument, Sass-Parnas framework) that empirically ground the ownership problem's philosophical claims. Supports Tenet 1 (Dualism).
@@ -418,6 +412,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
+- **Type**: cross-review
+- **Notes**: Gap analysis found 29 wikilinks across live content reference `[[epistemological-limits-of-occams-razor]]` (with "of") but the actual file is voids/epistemological-limits-occams-razor.md (without "of"). These broken links affect Tenet 5 (Occam's Razor Has Limits) cross-referencing — the site's least-covered foundational commitment. Update all 29 references to point to the correct slug.
+- **Output**: None -- Context: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
 
 ### ✓ 2026-03-01: Cross-review split-brain-consciousness.md considering entanglement-binding-hypothesis insights
 - **Type**: cross-review
@@ -1751,7 +1750,7 @@ Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elega
 
 ### ✓ 2026-02-22: Review articles considering epistemological limits of Occam's Razor insights
 - **Type**: cross-review
-- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md was recently written. Related articles that may benefit from cross-referencing include consciousness-and-the-problem-of-theoretical-virtues.md and the-case-for-dualism.md. Check for cross-links, reinforcing arguments about the limits of parsimony reasoning. Supports Tenet 5.
+- **Notes**: New article arguments/epistemological-limits-occams-razor.md was recently written. Related articles that may benefit from cross-referencing include consciousness-and-the-problem-of-theoretical-virtues.md and the-case-for-dualism.md. Check for cross-links, reinforcing arguments about the limits of parsimony reasoning. Supports Tenet 5.
 - **Output**: None -- Context: Review articles considering epistemological limits of Occam's Razor insights
 
 ### ✓ 2026-02-22: Write article on reductionism and consciousness
@@ -2052,7 +2051,7 @@ Pessimistic review (2026-02-20 afternoon) found the control-theoretic mapping ta
 
 ### ✓ 2026-02-20: Write article on the epistemology of convergence arguments in philosophy
 - **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The convergence argument article applies the pattern to dualism specifically, but the methodology itself deserves formalisation. When do independent arguments converging on the same conclusion provide genuinely cumulative evidence? Builds on the-convergence-argument-for-dualism.md, consciousness-and-the-philosophy-of-explanation.md, epistemological-limits-of-occams-razor.md. See optimistic-2026-02-20-morning.md
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The convergence argument article applies the pattern to dualism specifically, but the methodology itself deserves formalisation. When do independent arguments converging on the same conclusion provide genuinely cumulative evidence? Builds on the-convergence-argument-for-dualism.md, consciousness-and-the-philosophy-of-explanation.md, epistemological-limits-occams-razor.md. See optimistic-2026-02-20-morning.md
 - **Output**: the epistemology of convergence arguments in philosophy
 
 ### ✓ 2026-02-20: Write article on consciousness and the phenomenology of constraint satisfaction

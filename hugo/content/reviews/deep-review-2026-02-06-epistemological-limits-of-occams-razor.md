@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-of-occams-razor/)
+**Article**: [Epistemological Limits of Occam's Razor](/voids/epistemological-limits-occams-razor/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

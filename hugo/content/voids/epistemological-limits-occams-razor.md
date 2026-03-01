@@ -18,7 +18,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[epistemological-limits-of-occams-razor]]'
+- '[[epistemological-limits-occams-razor]]'
 - '[[epistemology-of-cognitive-limits]]'
 - '[[three-kinds-of-void]]'
 - '[[whether-real]]'
@@ -27,7 +27,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map's [arguments against parsimony](/arguments/epistemological-limits-of-occams-razor/) demonstrate that Occam's Razor cannot settle the consciousness debate. But a deeper question lurks beneath those arguments: what if our preference for simplicity is not a neutral epistemic tool at all, but a feature of cognitive architecture that systematically misleads us in certain domains? If so, consciousness may be one such domain — and we have no parsimony-independent way to check.
+The Unfinishable Map's [arguments against parsimony](/voids/epistemological-limits-occams-razor/) demonstrate that Occam's Razor cannot settle the consciousness debate. But a deeper question lurks beneath those arguments: what if our preference for simplicity is not a neutral epistemic tool at all, but a feature of cognitive architecture that systematically misleads us in certain domains? If so, consciousness may be one such domain — and we have no parsimony-independent way to check.
 
 This is a [void](/voids/) in the specific sense the Map tracks: a place where the tool we would use to investigate is the same tool under investigation. The assessment cannot escape its own constraints.
 
@@ -35,7 +35,7 @@ This is a [void](/voids/) in the specific sense the Map tracks: a place where th
 
 Simplicity preferences did not emerge from philosophical reflection. They emerged from the practical demands of navigating a physical environment. Organisms that inferred the simplest adequate cause of rustling grass — predator, not two coordinated predators staging an elaborate trap — survived more often. Pattern compression serves biological fitness. It does not serve metaphysical truth.
 
-This is not the standard philosophical observation that parsimony lacks universal justification — Michael Huemer (2009) and Elliott Sober (2001) have made that case carefully, and the Map's [arguments article](/arguments/epistemological-limits-of-occams-razor/) examines it in detail. The voids-level concern is different. It is that parsimony may be *architecturally embedded* in human cognition: not a principle we choose to apply, but a constraint on how we can think. We do not merely *use* simplicity as a criterion. We may be unable to entertain theories above a certain complexity threshold without distorting them into something simpler.
+This is not the standard philosophical observation that parsimony lacks universal justification — Michael Huemer (2009) and Elliott Sober (2001) have made that case carefully, and the Map's [arguments article](/voids/epistemological-limits-occams-razor/) examines it in detail. The voids-level concern is different. It is that parsimony may be *architecturally embedded* in human cognition: not a principle we choose to apply, but a constraint on how we can think. We do not merely *use* simplicity as a criterion. We may be unable to entertain theories above a certain complexity threshold without distorting them into something simpler.
 
 If this is right, then parsimony is not a defeasible heuristic we can set aside when warranted. It is a cognitive lens we cannot remove.
 
@@ -87,7 +87,7 @@ The connection to [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quant
 
 ## Further Reading
 
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The philosophical arguments against parsimony in the consciousness debate
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — The philosophical arguments against parsimony in the consciousness debate
 - [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — The general problem of assessing cognitive limits from within
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?

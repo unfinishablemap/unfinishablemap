@@ -21,7 +21,7 @@ related_articles:
   - "[[the-case-for-dualism]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[the-convergence-argument-for-dualism]]"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -99,7 +99,7 @@ The Map itself embodies the kind of progress available in this domain: not conve
 - [[epistemic-advantages-of-dualism]]
 - [[phenomenology-of-theoretical-commitment]]
 - [[hard-problem-of-consciousness]]
-- [[epistemological-limits-of-occams-razor]]
+- [[epistemological-limits-occams-razor]]
 
 ## References
 

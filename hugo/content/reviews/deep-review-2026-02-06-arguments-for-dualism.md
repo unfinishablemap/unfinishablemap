@@ -27,7 +27,7 @@ topics: []
 - **PhilPapers survey statistic conflation**: Article stated "22% accept dualism—second only to materialism (51%)" but the 22% comes from the consciousness question (where functionalism leads at 33%) while 51% comes from a different question (mind: physicalism vs non-physicalism). Fixed to cite numbers from the same question: "22%... second only to functionalism (33%)."
 
 ### Medium Issues Found
-- **Missing cross-reference to new Occam's Razor article**: The parsimony section made no reference to the newly published `epistemological-limits-of-occams-razor.md` which provides comprehensive philosophical treatment of why parsimony fails against dualism. Added cross-references in three locations: Parsimony Objection section, Relation to Site Perspective, and Further Reading.
+- **Missing cross-reference to new Occam's Razor article**: The parsimony section made no reference to the newly published `epistemological-limits-occams-razor.md` which provides comprehensive philosophical treatment of why parsimony fails against dualism. Added cross-references in three locations: Parsimony Objection section, Relation to Site Perspective, and Further Reading.
 - **Style guide: "this page" instead of "this article"**: Fixed on line 44.
 - **Style guide: "above"/"below" spatial references**: Replaced with explicit section references (3 instances).
 - **Missing references for cited researchers**: Bloom (2004), Barrett et al. (2021), Barlev & Shtulman (2021) were cited with specific years and claims but had no References entries. Added all three, plus Huemer (2009), Sober (2001), and Zanotti (2021) which are now cited in the revised parsimony section.
@@ -46,12 +46,12 @@ All major counterarguments were already addressed in previous reviews. No new co
 
 ### Enhancements Made
 - Substantially upgraded parsimony section to reference Huemer, Sober, and Zanotti's independent philosophical analyses, with link to new dedicated article
-- Added `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` to frontmatter related_articles, Parsimony Objection section, Relation to Site Perspective, and Further Reading
+- Added `[epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)` to frontmatter related_articles, Parsimony Objection section, Relation to Site Perspective, and Further Reading
 - Added 7 missing references for citation integrity (Barlev & Shtulman, Barrett et al., Bloom, Huemer, Sober, Zanotti; removed duplicate Bourget & Chalmers reordering)
 - Tightened prose in conservation laws response, exclusion argument response, post-objections summary, process philosophy section, and illusionist concluding paragraph to offset additions
 
 ### Cross-links Added
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — Added in 4 locations (frontmatter, parsimony section, Relation to Site Perspective, Further Reading)
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Added in 4 locations (frontmatter, parsimony section, Relation to Site Perspective, Further Reading)
 
 ## Remaining Items
 

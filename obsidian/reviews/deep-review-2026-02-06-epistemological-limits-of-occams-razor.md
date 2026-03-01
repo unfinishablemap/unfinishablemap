@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-06
-**Article**: [[epistemological-limits-of-occams-razor|Epistemological Limits of Occam's Razor]]
+**Article**: [[epistemological-limits-occams-razor|Epistemological Limits of Occam's Razor]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

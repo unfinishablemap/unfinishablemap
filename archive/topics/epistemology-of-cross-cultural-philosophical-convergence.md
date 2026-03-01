@@ -22,7 +22,7 @@ related_articles:
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[convergent-cognitive-limits]]"
   - "[[epistemic-advantages-of-dualism]]"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
   - "[[contemplative-methods-as-philosophical-methodology]]"
 ai_contribution: 100
 author:

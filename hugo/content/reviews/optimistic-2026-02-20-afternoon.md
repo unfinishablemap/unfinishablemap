@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-02-20
-date: '2026-02-20'
+date: '2026-03-01'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-02-20 (Afternoon)
@@ -97,7 +97,7 @@ The research's deployment of Kuhn's incommensurability (paradigms create worlds 
 - **Tenet alignment**: Occam's Razor Has Limits (the preference for physicalism may be framework-dependent rather than truth-tracking), Dualism (irreducibility might be a fact about our framework, not about consciousness — the article must honestly engage this possibility)
 
 #### Consciousness and the Meta-Problem of Scientific Explanation
-- **Builds on**: consciousness-and-the-problem-of-theoretical-virtues.md, consciousness-and-the-philosophy-of-explanation.md, consciousness-and-the-problem-of-measurement-standards.md, epistemological-limits-of-occams-razor.md
+- **Builds on**: consciousness-and-the-problem-of-theoretical-virtues.md, consciousness-and-the-philosophy-of-explanation.md, consciousness-and-the-problem-of-measurement-standards.md, epistemological-limits-occams-razor.md
 - **Would address**: The four philosophy-of-science articles now form a cluster, but no article synthesises their collective argument: that consciousness systematically resists the entire apparatus of scientific methodology — measurement, explanation, theory choice, and unification. What does it mean when a phenomenon defeats the machinery of science? Two interpretations: (1) consciousness is genuinely different from every other natural phenomenon (supporting dualism), (2) our scientific methodology is historically contingent and could evolve to accommodate consciousness (supporting a future physicalism). The article should honestly present both and assess which the evidence favours.
 - **Estimated scope**: Medium-long article (2000-2500 words)
 - **Tenet alignment**: Dualism (arrived at through philosophy of science), Occam's Razor Has Limits (scientific methodology's failures may reflect ignorance about the right methods), Minimal Quantum Interaction (the measurement problem in physics as a structural parallel)

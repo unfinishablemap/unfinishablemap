@@ -24,7 +24,7 @@ related_articles:
 - '[[the-case-for-dualism]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[the-convergence-argument-for-dualism]]'
-- '[[epistemological-limits-of-occams-razor]]'
+- '[[epistemological-limits-occams-razor]]'
 title: Consciousness and the Problem of Philosophical Progress
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,7 +101,7 @@ The Map itself embodies the kind of progress available in this domain: not conve
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
 - [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
 
 ## References
 

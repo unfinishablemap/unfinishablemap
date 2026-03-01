@@ -39,7 +39,7 @@ concepts:
   - "[[meta-problem-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epistemological-limits-of-occams-razor]]"
+  - "[[epistemological-limits-occams-razor]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[topics/free-will]]"
@@ -126,7 +126,7 @@ Each response either denies the hard problem without explaining why it seems rea
 
 ## The Parsimony Objection
 
-A standard objection: dualism is less parsimonious. But parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony (fewer entity types) favours physicalism, but explanatory parsimony (fewer brute facts) favours dualism. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler scientific theories do not extend to this debate. See [[epistemological-limits-of-occams-razor]] for the full case. A deeper concern: our preference for simpler theories may be an evolved cognitive bias architecturally embedded in cognition, making physicalism *feel* more plausible than the arguments warrant. If so, parsimony intuitions in the consciousness debate may reflect cognitive architecture rather than evidence. See [[epistemological-limits-occams-razor|the parsimony void]] for this line of inquiry.
+A standard objection: dualism is less parsimonious. But parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony (fewer entity types) favours physicalism, but explanatory parsimony (fewer brute facts) favours dualism. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler scientific theories do not extend to this debate. See [[epistemological-limits-occams-razor]] for the full case. A deeper concern: our preference for simpler theories may be an evolved cognitive bias architecturally embedded in cognition, making physicalism *feel* more plausible than the arguments warrant. If so, parsimony intuitions in the consciousness debate may reflect cognitive architecture rather than evidence. See [[epistemological-limits-occams-razor|the parsimony void]] for this line of inquiry.
 
 ## Major Objections and Responses
 
@@ -170,7 +170,7 @@ Some conditions are empirically testable (condition 4 especially); others requir
 
 The arguments collectively support the [[tenets#^dualism|Dualism tenet]]: consciousness is not reducible to physical processes. Their convergence from independent starting points—conceivability, knowledge, qualia, unity, intentionality, modality, subjectivity—strengthens the case beyond what any single argument achieves.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] finds support in the analysis of [[epistemological-limits-of-occams-razor|parsimony's epistemological limits]]: the precondition for applying Occam's Razor is unmet in the consciousness debate.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] finds support in the analysis of [[epistemological-limits-occams-razor|parsimony's epistemological limits]]: the precondition for applying Occam's Razor is unmet in the consciousness debate.
 
 The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects directly—MWI trades one mystery (measurement) for another (indexical identity). Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets, these arguments point toward [[interactionist-dualism]]—consciousness is irreducible and causally efficacious, interfacing with physics at quantum indeterminacies.
 
@@ -182,7 +182,7 @@ The Map does not commit to substance over property dualism—both support irredu
 
 **Materialist responses:** [[concepts/materialism]], [[illusionism]], [[phenomenal-concepts-strategy]], [[heterophenomenology]], [[mysterianism]]
 
-**The Map's framework:** [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-of-occams-razor]], [[epistemological-limits-occams-razor|the parsimony void]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
+**The Map's framework:** [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-occams-razor]], [[epistemological-limits-occams-razor|the parsimony void]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
 
 **Alternative frameworks:** [[idealism]], [[analytic-idealism-and-mind-centric-metaphysics|analytic idealism]]
 

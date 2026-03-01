@@ -947,7 +947,7 @@ archived: true
 ## 2026-02-22 04:21 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Epistemological limits of Occam's Razor for consciousness
-- **Reason**: Article already exists at arguments/epistemological-limits-of-occams-razor.md (created 2026-02-06). Research note was consumed; replenish-queue incorrectly flagged as unconsumed because article was placed in arguments/ rather than topics/concepts/.
+- **Reason**: Article already exists at arguments/epistemological-limits-occams-razor.md (created 2026-02-06). Research note was consumed; replenish-queue incorrectly flagged as unconsumed because article was placed in arguments/ rather than topics/concepts/.
 - **Action**: Marked P2 todo task as complete.
 
 ---

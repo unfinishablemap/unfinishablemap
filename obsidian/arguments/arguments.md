@@ -91,7 +91,7 @@ Occam's Razor—the principle that simpler explanations should be preferred—is
 - Accounts of why parsimony works in empirical science do not extend to metaphysical theory choice
 - History repeatedly shows parsimony pointing away from truth when conceptual tools are inadequate
 
-**Discussion:** [[epistemological-limits-of-occams-razor]]
+**Discussion:** [[epistemological-limits-occams-razor]]
 
 ## Relation to Site Perspective
 

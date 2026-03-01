@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-02-06
 **Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
 **Previous review**: [2026-02-04](/reviews/deep-review-2026-02-04b-mysterianism/) (cross-review with epistemology-of-cognitive-limits)
-**Cross-review context**: [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-of-occams-razor/)
+**Cross-review context**: [Epistemological Limits of Occam's Razor](/voids/epistemological-limits-occams-razor/)
 
 ## Pessimistic Analysis Summary
 
@@ -28,7 +28,7 @@ topics: []
 None. The article is factually accurate and well-structured. No attribution errors, no internal contradictions, no source/Map conflation.
 
 ### Medium Issues Found
-- **Missing cross-link to epistemological-limits-of-occams-razor**: The article discussed Occam's Razor Has Limits tenet but didn't link to the Map's dedicated article on exactly this topic. Added cross-link in frontmatter, body (tenet section), and Further Reading.
+- **Missing cross-link to epistemological-limits-occams-razor**: The article discussed Occam's Razor Has Limits tenet but didn't link to the Map's dedicated article on exactly this topic. Added cross-link in frontmatter, body (tenet section), and Further Reading.
 - **Underdeveloped Occam's tenet section**: Despite being called the "strongest alignment," the section was only two sentences. Expanded with specific findings from the epistemological-limits article (Huemer's precondition analysis, transfer failure) and the deeper mysterian explanation for why parsimony fails.
 - **Orphaned references**: Flanagan (1991) was never cited in body text — removed. Tallis (2024) was never cited — integrated into illusionism section's infinite regress argument.
 - **Opening paragraph redundancy**: Tool-extension objection was verbose for an opening summary. Compressed from 4 sentences to 3 while preserving the core argument and McGinn's response.
@@ -62,7 +62,7 @@ Six adversarial personas applied:
 
 ### Enhancements Made
 1. **Strengthened Occam's Razor tenet section** with specific findings from epistemological-limits article: parsimony's precondition failure (equal explanatory power unmet), Huemer's transfer failure finding, and the deeper mysterian explanation that cognitive closure corrupts simplicity judgments themselves.
-2. **Added [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)** to frontmatter `related_articles`, body text (tenet section), and Further Reading.
+2. **Added [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)** to frontmatter `related_articles`, body text (tenet section), and Further Reading.
 3. **Integrated Tallis (2024) citation** into illusionism section's infinite regress argument.
 4. **Removed orphaned Flanagan reference**.
 5. **Added Huemer (2009) reference** to support the expanded Occam's section.
@@ -71,18 +71,18 @@ Six adversarial personas applied:
 8. **Removed two tangential Further Reading entries** (affective-void, normative-void) to offset additions.
 
 ### Cross-links Added
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — Why parsimony cannot settle the consciousness debate
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony cannot settle the consciousness debate
 
 ## Remaining Items
 
-None. The cross-review integration with epistemological-limits-of-occams-razor is complete. The two-level argument is now explicit: the epistemological-limits article shows parsimony fails for identifiable philosophical reasons; mysterianism explains why at a deeper level (cognitive closure corrupts simplicity judgments).
+None. The cross-review integration with epistemological-limits-occams-razor is complete. The two-level argument is now explicit: the epistemological-limits article shows parsimony fails for identifiable philosophical reasons; mysterianism explains why at a deeper level (cognitive closure corrupts simplicity judgments).
 
 ## Stability Notes
 
 This article has reached good stability after three reviews:
 1. 2026-02-04 (first): Integrated altered-states-as-void-probes
 2. 2026-02-04 (second): Integrated epistemology-of-cognitive-limits
-3. 2026-02-06 (this review): Integrated epistemological-limits-of-occams-razor
+3. 2026-02-06 (this review): Integrated epistemological-limits-occams-razor
 
 Key philosophical disagreements remain unchanged from previous review:
 - Illusionists will find the infinite-regress objection unpersuasive — documented debate, not a flaw.
@@ -91,7 +91,7 @@ Key philosophical disagreements remain unchanged from previous review:
 
 The article is now well cross-linked with the Map's three major epistemological articles:
 - epistemology-of-cognitive-limits (how we can know our limits)
-- epistemological-limits-of-occams-razor (why parsimony fails here)
+- epistemological-limits-occams-razor (why parsimony fails here)
 - limits-reveal-structure (what limits reveal about cognition)
 
 Future reviews should NOT re-flag bedrock disagreements. The article should be considered stable unless new content creates a specific integration opportunity.

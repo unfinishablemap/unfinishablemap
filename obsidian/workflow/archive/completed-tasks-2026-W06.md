@@ -199,15 +199,15 @@ Pessimistic review found the article argues consciousness is causally efficaciou
 - **Notes**: Concept article has no inbound links from primary content (only referenced from review documents). Covers phenomenal binding—relevant to binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md. Add cross-references from related concept and topic articles.
 - **Output**: phenomenal-binding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
-### ✓ 2026-02-06: Cross-review mysterianism.md considering epistemological-limits-of-occams-razor insights
+### ✓ 2026-02-06: Cross-review mysterianism.md considering epistemological-limits-occams-razor insights
 - **Type**: cross-review
-- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) argues parsimony fails when conceptual tools are inadequate. mysterianism.md discusses cognitive closure and parsimony skepticism but doesn't link to the new article's formal treatment. Add cross-references in Tenet 5 alignment sections. The new article provides the formal case for the parsimony skepticism that mysterianism relies on.
-- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering epistemological-limits-of-occams-razor insights
+- **Notes**: New article arguments/epistemological-limits-occams-razor.md (2026-02-06) argues parsimony fails when conceptual tools are inadequate. mysterianism.md discusses cognitive closure and parsimony skepticism but doesn't link to the new article's formal treatment. Add cross-references in Tenet 5 alignment sections. The new article provides the formal case for the parsimony skepticism that mysterianism relies on.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering epistemological-limits-occams-razor insights
 
-### ✓ 2026-02-06: Cross-review arguments-against-materialism.md considering epistemological-limits-of-occams-razor insights
+### ✓ 2026-02-06: Cross-review arguments-against-materialism.md considering epistemological-limits-occams-razor insights
 - **Type**: cross-review
-- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides the detailed philosophical case against parsimony-based dismissals of dualism. arguments-against-materialism.md mentions Occam's Razor and Tenet 5 in passing but does not link to the new article. Add cross-references from the parsimony discussion, check for reinforcing arguments.
-- **Output**: obsidian/concepts/arguments-against-materialism.md -- Context: Cross-review arguments-against-materialism.md considering epistemological-limits-of-occams-razor insights
+- **Notes**: New article arguments/epistemological-limits-occams-razor.md (2026-02-06) provides the detailed philosophical case against parsimony-based dismissals of dualism. arguments-against-materialism.md mentions Occam's Razor and Tenet 5 in passing but does not link to the new article. Add cross-references from the parsimony discussion, check for reinforcing arguments.
+- **Output**: obsidian/concepts/arguments-against-materialism.md -- Context: Cross-review arguments-against-materialism.md considering epistemological-limits-occams-razor insights
 
 ### ✓ 2026-02-06: Integrate recursion-void.md into site navigation
 - **Type**: integrate-orphan
@@ -239,10 +239,10 @@ Pessimistic review found the article argues consciousness is causally efficaciou
 - **Notes**: New article topics/cognitive-science-of-dualism.md (2026-02-05) covers Paul Bloom's "natural-born dualists" research and developmental psychology evidence. The existing concepts/intuitive-dualism.md concept page should cross-reference this new work. Check for cross-links, reinforcing arguments from the developmental evidence, and consistency in treatment of innate dualist cognition.
 - **Output**: obsidian/concepts/intuitive-dualism.md -- Context: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
 
-### ✓ 2026-02-06: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
+### ✓ 2026-02-06: Review arguments-for-dualism.md considering epistemological-limits-occams-razor insights
 - **Type**: cross-review
-- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides a comprehensive treatment of parsimony's failure for consciousness. The existing concepts/arguments-for-dualism.md has a brief "Parsimony Objection" section that should cross-reference this new dedicated treatment. Check for consistency and add links.
-- **Output**: obsidian/concepts/arguments-for-dualism.md -- Context: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
+- **Notes**: New article arguments/epistemological-limits-occams-razor.md (2026-02-06) provides a comprehensive treatment of parsimony's failure for consciousness. The existing concepts/arguments-for-dualism.md has a brief "Parsimony Objection" section that should cross-reference this new dedicated treatment. Check for consistency and add links.
+- **Output**: obsidian/concepts/arguments-for-dualism.md -- Context: Review arguments-for-dualism.md considering epistemological-limits-occams-razor insights
 
 ### ✓ 2026-02-06: Write argument article on epistemological limits of Occam's Razor
 - **Type**: expand-topic
@@ -251,8 +251,8 @@ Pessimistic review found the article argues consciousness is causally efficaciou
 
 ### ✓ 2026-02-06: Write argument article on epistemological limits of Occam's Razor
 - **Type**: expand-topic
-- **Notes**: Published to arguments/epistemological-limits-of-occams-razor.md. Completes the 5th argument article defending Tenet 5 (Occam's Razor Has Limits). Based on epistemological-limits-occams-razor-consciousness-2026-02-06.md research.
-- **Output**: arguments/epistemological-limits-of-occams-razor.md
+- **Notes**: Published to arguments/epistemological-limits-occams-razor.md. Completes the 5th argument article defending Tenet 5 (Occam's Razor Has Limits). Based on epistemological-limits-occams-razor-consciousness-2026-02-06.md research.
+- **Output**: arguments/epistemological-limits-occams-razor.md
 
 ### ✓ 2026-02-06: Integrate collapse-before-minds.md into site navigation
 - **Type**: integrate-orphan

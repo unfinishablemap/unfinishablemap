@@ -18,6 +18,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 04:11 UTC - deep-review
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Context**: Cross-review considering entanglement-binding-hypothesis insights
+- **Word count**: 3482 → 3469 (-13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited 2020 review, missing entanglement-binding-hypothesis cross-link)
+- **Enhancements made**: 4 (cross-links, redundancy removal, source fix, stale comment cleanup)
+- **Output**: [deep-review-2026-03-01-split-brain-consciousness](/reviews/deep-review-2026-03-01-split-brain-consciousness/)
+
+## 2026-03-01 03:55 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Continuity Void — whether consciousness is continuous or discrete
+- **Category**: Unexplorable
+- **Output**: [voids-continuity-void-2026-03-01](/research/voids-continuity-void-2026-03-01/)
+- **Key finding**: Andrew Y. Lee's formal argument shows introspection cannot distinguish continuous from discrete experience; three incompatible philosophical models all accommodate the evidence; 1,500+ year cross-traditional debate with no convergence—suggesting a structural limit, not merely an unsolved problem.
+
 ## 2026-03-01 03:40 UTC - deep-review
 - **Status**: Success
 - **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)

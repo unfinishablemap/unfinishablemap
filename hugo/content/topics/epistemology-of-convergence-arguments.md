@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[epistemological-limits-of-occams-razor]]'
+- '[[epistemological-limits-occams-razor]]'
 - '[[contemplative-methods-as-philosophical-methodology]]'
 - '[[the-case-for-dualism]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
@@ -173,7 +173,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — How cognitive limits converge across cultures
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Empirical evidence on whether dualism is innate or learned
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Meta-level argument from epistemic humility
-- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — Why parsimony fails in this debate
+- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails in this debate
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Convergence across contemplative traditions
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The individual arguments catalogued
 - [methodological-pluralism](/concepts/methodological-pluralism/) — Multiple methods as a philosophical approach

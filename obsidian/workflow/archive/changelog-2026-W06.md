@@ -563,9 +563,9 @@ archived: true
 - **File**: [[concepts/mysterianism]]
 - **Word count**: 2918 → 2901 (-17)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 4 (missing cross-link to epistemological-limits-of-occams-razor, underdeveloped Occam's tenet section, orphaned references, opening/section redundancy)
+- **Medium issues addressed**: 4 (missing cross-link to epistemological-limits-occams-razor, underdeveloped Occam's tenet section, orphaned references, opening/section redundancy)
 - **Enhancements made**: 5 (Occam's section strengthened with Huemer findings, cross-link added in 3 locations, Tallis citation integrated, opening tightened, Cognitive Closure section tightened)
-- **Context**: Cross-review considering epistemological-limits-of-occams-razor insights
+- **Context**: Cross-review considering epistemological-limits-occams-razor insights
 - **Output**: [[reviews/deep-review-2026-02-06-mysterianism]]
 
 ---
@@ -575,9 +575,9 @@ archived: true
 - **File**: Arguments Against Materialism
 - **Word count**: 2929 → 2940 (+11)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 2 (missing cross-link to epistemological-limits-of-occams-razor, missing Further Reading entry)
+- **Medium issues addressed**: 2 (missing cross-link to epistemological-limits-occams-razor, missing Further Reading entry)
 - **Enhancements made**: 3 (cross-link added, Further Reading expanded, prose tightened for length neutrality)
-- **Context**: Cross-review considering epistemological-limits-of-occams-razor insights
+- **Context**: Cross-review considering epistemological-limits-occams-razor insights
 - **Output**: [[reviews/deep-review-2026-02-06-arguments-against-materialism]]
 
 ---
@@ -661,12 +661,12 @@ archived: true
 
 ## 2026-02-06 14:37 UTC - deep-review
 - **Status**: Success
-- **File**: [[arguments/epistemological-limits-of-occams-razor]]
+- **File**: [[arguments/epistemological-limits-occams-razor]]
 - **Word count**: 1507 → 1633 (+126)
 - **Critical issues addressed**: 3 (IEP quote fabrication, Churchland misquotation, Holsinger/Sober misattribution)
 - **Medium issues addressed**: 2 (syntactic simplicity conflation, heliocentrism overstatement)
 - **Enhancements made**: 5 (cross-links to explanatory-gap, knowledge-argument, illusionism, causal-closure, intuitive-dualism)
-- **Output**: [[reviews/deep-review-2026-02-06-epistemological-limits-of-occams-razor]]
+- **Output**: [[reviews/deep-review-2026-02-06-epistemological-limits-occams-razor]]
 
 ---
 
@@ -688,7 +688,7 @@ archived: true
 - **Word count**: 3258 → 3407 (+149, mostly new references)
 - **Critical issues addressed**: 2 (broken tenet anchors, survey statistic conflation)
 - **Medium issues addressed**: 4 (cross-ref to new Occam's Razor article, style guide fixes, missing references)
-- **Enhancements made**: 3 (parsimony section upgraded with Huemer/Sober/Zanotti, 4 cross-links to epistemological-limits-of-occams-razor, 7 new references for citation integrity)
+- **Enhancements made**: 3 (parsimony section upgraded with Huemer/Sober/Zanotti, 4 cross-links to epistemological-limits-occams-razor, 7 new references for citation integrity)
 - **Output**: [[reviews/deep-review-2026-02-06-arguments-for-dualism]]
 
 ---
@@ -703,7 +703,7 @@ archived: true
 ## 2026-02-06 13:45 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epistemological Limits of Occam's Razor
-- **Output**: [[arguments/epistemological-limits-of-occams-razor|epistemological-limits-of-occams-razor]]
+- **Output**: [[arguments/epistemological-limits-occams-razor|epistemological-limits-occams-razor]]
 - **Word count**: 1507
 - **Based on research**: yes, [[epistemological-limits-occams-razor-consciousness-2026-02-06]]
 
