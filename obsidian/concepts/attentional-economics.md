@@ -131,7 +131,7 @@ This doesn't excuse wrongdoing—"I couldn't sustain attention on the consequenc
 
 **Mitigation scaling**: Impaired attentional capacity (addiction, trauma, developmental factors) genuinely reduces authorship even if it doesn't eliminate it.
 
-**Character cultivation**: Developing attentional skills over time is itself an exercise of agency. You are responsible not just for choices but for cultivating or neglecting the capacity to choose well.
+**Character cultivation**: Developing attentional skills over time is itself an exercise of agency. You are responsible not just for choices but for cultivating or neglecting the capacity to choose well. The [[moral-implications-of-genuine-agency|moral implications of genuine agency]] develop this point: if attentional direction is genuinely authored, then neglecting moral perception is itself a form of moral negligence.
 
 **Structural factors**: Social conditions that chronically drain attention (poverty, stress, instability) reduce the attentional capital available for agency. This has ethical implications beyond individual character—connecting attentional economics to broader questions of moral luck and social justice.
 

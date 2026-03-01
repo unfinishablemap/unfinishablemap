@@ -134,6 +134,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 - [[attention-as-interface|voluntary attention]] — The paradigm case of reasons-responsive selection in attention deployment
 - [[causal-closure]] — The physicalist principle that reasons-responsiveness challenges
 - [[process-and-consciousness]] — Process philosophy's support for reasons-responsiveness as experiential self-determination
+- [[moral-implications-of-genuine-agency]] — How reasons-responsive agency grounds moral obligation and character
 
 ## References
 

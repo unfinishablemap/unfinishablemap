@@ -125,6 +125,7 @@ None of these findings currently obtains. The challenge for sceptics is to produ
 - [[agent-causation]] — The metaphysics of origination underlying moral agency
 - [[consciousness-and-the-grounds-of-normative-authority|Consciousness and the Problem of Normative Force]] — Why moral experience carries binding force
 - [[phenomenology-of-choice]] — The felt character of deliberation and decision
+- [[moral-implications-of-genuine-agency]] — How genuine agency makes moral phenomenology track reality rather than decorate a determined process
 
 ## References
 

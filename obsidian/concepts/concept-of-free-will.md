@@ -127,6 +127,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [[counterfactual-reasoning]] — The consciousness-dependent capacity to evaluate alternatives
 - [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from automatic action
 - [[authentic-vs-inauthentic-choice]] — When choice engages genuine agency versus running on scripts
+- [[moral-implications-of-genuine-agency]] — What genuine agency implies for obligation, character, and moral life
 
 ## References
 

@@ -157,6 +157,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from introspection
 - [[topics/free-will]] — The broader philosophical context
 - [[consciousness-and-agency]] — Apex synthesis of agency across the Map
+- [[moral-implications-of-genuine-agency]] — What the reality of agency implies for obligation, character, and moral life
 
 ## References
 

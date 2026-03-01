@@ -107,7 +107,7 @@ If consciousness grounds normative force in general, it should ground the *autho
 
 ### Moral Authority
 
-The moral domain provides the clearest case. Divine command faces Euthyphro's dilemma; rational principle (even Kant's rich framework invoking dignity and ends-in-themselves) ultimately depends on the conscious experience of rational agency it presupposes; phenomenal encounter — the felt badness of pain, the experiential weight of betraying trust — carries normative force intrinsically.
+The moral domain provides the clearest case. Divine command faces Euthyphro's dilemma; rational principle (even Kant's rich framework invoking dignity and ends-in-themselves) ultimately depends on the conscious experience of rational agency it presupposes; phenomenal encounter — the felt badness of pain, the experiential weight of betraying trust — carries normative force intrinsically. The [[moral-implications-of-genuine-agency]] article develops this further: if agency is real, obligation finds its footing because there is a genuine addressee — a conscious being with causal power over what happens next.
 
 The Map's [[topics/phenomenal-value-realism]] develops this: conscious experience is not merely evidence for moral facts but where moral facts live. [[moral-perception|Moral perception]] involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as any physical property — perceived by those with the right phenomenal capacities, invisible to those without.
 

@@ -258,6 +258,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness
 - [[normative-void]] — Cognitive limits on moral knowledge
+- [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral categories from useful fictions into responses to metaphysical fact
 
 ## References
 

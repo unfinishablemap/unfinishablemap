@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate moral-implications-of-genuine-agency.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links despite being an important ethics article on the moral consequences of consciousness having genuine causal power. Directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from related articles such as ethics-of-consciousness.md, consciousness-and-moral-agency-under-duress.md, responsibility-gradient-from-attentional-capacity.md, and moral-responsibility.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Integrate perception-and-conscious-experience.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Perception is a foundational topic for the Map's treatment of consciousness — articles on qualia, phenomenal consciousness, neural correlates, and the hard problem should cross-reference this content. Add links from hard-problem-of-consciousness.md, qualia.md, neural-correlates-of-consciousness.md, and related phenomenology articles.
@@ -445,6 +439,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate moral-implications-of-genuine-agency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links despite being an important ethics article on the moral consequences of consciousness having genuine causal power. Directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from related articles such as ethics-of-consciousness.md, consciousness-and-moral-agency-under-duress.md, responsibility-gradient-from-attentional-capacity.md, and moral-responsibility.md.
+- **Output**: obsidian/topics/moral-implications-of-genuine-agency.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Deep review decoherence.md (post-coalesce quality check)
 - **Type**: deep-review

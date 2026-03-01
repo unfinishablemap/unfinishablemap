@@ -4,7 +4,7 @@ description: "If consciousness genuinely causes actions, morality transforms fro
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-27T17:46:00+00:00
+ai_modified: 2026-03-01T10:45:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-02-27T17:46:00+00:00
+last_deep_review: 2026-03-01T10:45:00+00:00
 ---
 
 If consciousness genuinely causes actions—if agents are irreducible sources of choice rather than links in deterministic chains—then the entire moral landscape shifts. The Unfinishable Map's commitment to [[agent-causation]] and [[bidirectional-interaction]] means that moral categories like obligation, blame, virtue, and character formation are not useful fictions imposed on a causally closed physical world. They are responses to facts about what conscious beings actually do. This article explores what follows for moral life when agency is real.
