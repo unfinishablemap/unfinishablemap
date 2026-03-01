@@ -1,13 +1,14 @@
 # Literature Review — References
 
-Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosophical Inquiry Through Adversarial Self-Review"
+Working bibliography for "The Unfinishable Map: Agentic Philosophy Through Adversarial Self-Review"
 
 ## Downloaded Papers (manifests in `papers/manifests/`)
 
 | ID | Authors | Title | Relevance |
 |----|---------|-------|-----------|
 | `chemrxiv-2025-rwxdk` | Harb et al. (2025) | Towards Philosophical Reasoning with Agentic LLMs: Socratic Method for Scientific Assistance | Low-med |
-| `arxiv-2302.01339` | Schwitzgebel et al. (2023) | Creating a Large Language Model of a Philosopher | High |
+| `arxiv-2302.01339` | Schwitzgebel et al. (2024) | Creating a Large Language Model of a Philosopher | High |
+| `arxiv-2310.01798` | Huang et al. (2024) | Large Language Models Cannot Self-Correct Reasoning Yet | High |
 
 ---
 
@@ -18,12 +19,12 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 **Shao, Y., Jiang, Y., Kanell, T., Xu, P., Khattab, O., & Lam, M. (2024).** "Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models" (STORM). *NAACL 2024*. https://arxiv.org/abs/2402.14207
 
 **Draft statements supported:**
-- §1 (Introduction): "STORM (Shao et al., 2024) generates Wikipedia-style articles but does not continuously review its output"
-- §2.2: "generates Wikipedia-style articles by orchestrating multi-perspective research conversations among LLM-simulated experts"
+- §1 (Introduction): "STORM (Shao et al., 2024) generates Wikipedia-like articles but does not continuously review its output"
+- §2.2: "generates Wikipedia-like articles by orchestrating multi-perspective research conversations among LLM-simulated experts"
 - §2.2: "neither continuously reviews or revises its output after initial generation"
 
 **Verification notes:**
-- Paper title says "Wikipedia-**like**" not "Wikipedia-style" — minor wording discrepancy in draft.
+- Paper title uses "Wikipedia-like" — draft matches.
 - The abstract describes STORM as "Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking." The draft's "orchestrating multi-perspective research conversations" is a reasonable paraphrase.
 - The paper focuses on the **pre-writing stage** (abstract: "This underexplored problem poses new challenges at the pre-writing stage"). The codebase includes a polishing module (summary/dedup) but no iterative content review or fact-checking. The draft's claim that STORM "does not continuously review" is accurate — there is no review loop, though a light polishing pass exists.
 - Venue confirmed: NAACL 2024 Main Conference (ACL Anthology: aclanthology.org/2024.naacl-long.347/).
@@ -34,7 +35,7 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 
 ### 2. Jiang et al. (2024) — Co-STORM
 
-**Jiang, Y., Shao, Y., et al. (2024).** "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations" (Co-STORM). *EMNLP 2024*. https://storm-project.stanford.edu/research/storm/
+**Jiang, Y., Shao, Y., Ma, D., Semnani, S.J., & Lam, M.S. (2024).** "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations" (Co-STORM). *EMNLP 2024*. https://arxiv.org/abs/2408.15232
 
 **Draft statements supported:**
 - §2.2: "Co-STORM (Jiang et al., 2024) extends this to collaborative human-AI knowledge curation"
@@ -48,17 +49,17 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 **Liang, W., Zhang, Y., et al. (2025).** "The Widespread Adoption of Large Language Model-Assisted Writing Across Society." *Patterns (Cell Press)*. https://arxiv.org/abs/2502.09747
 
 **Draft statements supported:**
-- §2.2: "Liang et al. (2025) estimate that 10–24% of text across consumer complaints, corporate communications, and job postings shows evidence of LLM assistance, based on a population-level statistical framework comparing text distributions"
+- §2.2: "Liang et al. (2025) estimate that 10–24% of text across financial consumer complaints, corporate press releases, job postings, and UN press releases shows evidence of LLM assistance, based on a population-level statistical framework comparing text distributions"
 
 **Verification notes:**
-- The paper reports **four** domain-specific figures, not three:
+- The paper reports four domain-specific figures:
   - Consumer complaints (financial): ~18% (abstract)
   - Corporate press releases: up to 24% (abstract)
   - Job postings (small firms): just below 10% (abstract)
-  - **UN press releases: ~14%** (abstract) — this fourth domain is omitted from the draft
+  - UN press releases: ~14% (abstract)
+- Draft now lists all four domains with labels matching the paper ("financial consumer complaints," "corporate press releases").
 - The "10–24%" range is a defensible synthesis but slightly flattens per-domain variation.
 - "Population-level statistical framework" confirmed — abstract uses the exact words "robust population-level statistical framework."
-- **Potential draft correction:** Add UN press releases as a fourth domain, or note the range covers four domains.
 
 **Key sections:** Abstract (all primary percentage claims and methodology description), Results (per-domain detail starting ~p.4), Figure 1 (temporal adoption curves).
 
@@ -106,7 +107,7 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 **COPE Position Statement (2023, updated 2024).** "Authorship and AI Tools." https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools
 
 **Draft statements supported:**
-- §4: "COPE (2024) holds that AI cannot be listed as an author"
+- §4: "COPE (2023) holds that AI cannot be listed as an author"
 
 **Verification notes:**
 - Exact statement: "AI tools cannot be listed as an author of a paper."
@@ -132,7 +133,7 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 
 **Draft statements supported:**
 - §1 (Introduction): "Constitutional AI (Bai et al., 2022) applies principle-driven constraints but for safety alignment, not knowledge production"
-- §2.3: "Bai et al. (2022) introduced Constitutional AI, where natural-language principles guide model behaviour toward harmlessness"
+- §2.3: "Bai et al. (2022) introduced Constitutional AI, where natural-language principles guide model behaviour toward helpfulness and harmlessness"
 - §7.2: "In Constitutional AI (Bai et al., 2022), principles constrain behaviour away from undesirable outputs"
 
 **Verification notes:**
@@ -217,11 +218,11 @@ Working bibliography for "The Unfinishable Map: Continuous AI-Assisted Philosoph
 **Harb, H., Sun, Y., Unal, M., et al. (2025).** "Towards Philosophical Reasoning with Agentic LLMs: Socratic Method for Scientific Assistance." *ChemRxiv preprint (July 2025)*. https://doi.org/10.26434/chemrxiv-2025-rwxdk
 
 **Draft statements supported:**
-- §2.1: "Harb et al. (2025) use Socratic dialogue to improve LLM scientific reasoning — philosophy improving AI, where we use AI to produce philosophy"
+- §2.1: "Harb et al. (2025) use Socratic method to structure LLM scientific reasoning — philosophy improving AI, where we use AI to produce philosophy"
 
 **Verification notes:**
 - The paper introduces the **SM Agent** — a single-agent system using a structured system prompt encoding Socratic techniques (definition, analogy, hypothesis elimination). Achieved 97.15% on ARC Challenge benchmark.
-- **Accuracy concern:** The draft says "Socratic dialogue" but the mechanism is structured **prompting** on a single agent, not multi-agent dialogue. The Socratic "dialogue" is between the system prompt's reasoning structure and the LLM's responses, not between multiple agents. The word "dialogue" could mislead if readers expect multi-agent interaction.
+- Draft now says "Socratic method to structure" rather than "Socratic dialogue to improve," which better describes the single-agent structured prompting approach.
 - This is a **ChemRxiv preprint** (chemistry/materials science server), not peer-reviewed at a CS/AI venue.
 - No fine-tuning, no ensemble methods, no external tools — purely prompt engineering.
 
@@ -241,14 +242,14 @@ Not directly cited in draft with specific claims. Background references only.
 
 **Draft statements supported:**
 - §1 (Introduction): "Shanahan (2023) warns that fluent output invites anthropomorphic misinterpretation"
-- §2.1: "Shanahan (2023) warns that philosophically loaded descriptions of LLM behaviour — 'knows,' 'believes,' 'concludes' — risk anthropomorphic misinterpretation"
+- §2.1: "Shanahan (2023) warns that philosophically loaded descriptions of LLM behaviour — 'knows,' 'believes,' 'thinks' — risk anthropomorphic misinterpretation"
 
 **Verification notes:**
 - Abstract (p.1): "the natural tendency to use philosophically loaded terms, such as 'knows', 'believes', and 'thinks', when describing these systems"
 - Abstract (p.1): "The more adept LLMs become at mimicking human language, the more vulnerable we become to anthropomorphism"
 - §2 (p.3): warns developers should "avoid the misleading use of philosophically fraught words to describe the capabilities of LLMs, words such as 'belief', 'knowledge', 'understanding', 'self', or even 'consciousness'"
 - §13 "Conclusion: Why This Matters" (p.11): "The careless use of philosophically loaded words like 'believes' and 'thinks' is especially problematic, because such terms obfuscate mechanism and actively encourage anthropomorphism"
-- Note: Shanahan uses the term "thinks" not "concludes" — the draft adds "concludes" to the list which is not in the paper.
+- Draft now uses "knows, believes, thinks" — matching Shanahan's terms from the abstract.
 
 **Key sections:** Abstract (p.1, core warning), §2 (p.3, list of problematic terms), §13 (p.11, strongest formulation).
 
@@ -268,15 +269,14 @@ Not directly cited in draft with specific claims. Background references only.
 
 **Draft statements supported:**
 - §1 (Introduction): "Goldstein (2024) argues that LLMs face fundamental limits as rational agents"
-- §2.1: "Goldstein (2024, PhilArchive preprint) argues that next-word prediction can produce incoherent probabilistic judgments. If raw LLM output is inherently unreliable, systematic constraints and adversarial review become necessary rather than optional."
+- §2.1: "Goldstein (2024, PhilArchive preprint) argues that next-word prediction architecturally guarantees incoherent probabilistic judgments and intransitive preferences. If raw LLM output is inherently unreliable, systematic constraints and adversarial review become necessary rather than optional."
 
 **Verification notes (41-page paper):**
-- The draft says "can produce" incoherent judgments — Goldstein's claim is **stronger**: predictions are "guaranteed to be incoherent" (abstract, p.1). Draft understates.
+- Draft now says "architecturally guarantees" — closely matching Goldstein's "guaranteed to be incoherent" (abstract, p.1). Draft also now includes intransitive preferences.
 - **Incoherent probabilistic judgments:** §3.3 (pp.12–16). Abstract: "predictions are guaranteed to be incoherent, and so Dutch bookable." Dutch book argument in §3.4 (pp.17–18).
-- **Intransitive preferences:** §3.5 (pp.18–20). Abstract: "their preferences are guaranteed to be intransitive, and so money pumpable." The draft omits this second finding.
+- **Intransitive preferences:** §3.5 (pp.18–20). Abstract: "their preferences are guaranteed to be intransitive, and so money pumpable."
 - Core structural argument (abstract, p.1): "probability cannot be forced into the shape of expected value."
 - Result is conditional on: (a) semantic coherence of token probabilities (§3.1, pp.8–9), and (b) sufficient uncertainty about probability hypotheses (§3.3, fn.8, pp.15–16). Escape routes discussed in §5 (pp.25–33).
-- **Potential draft correction:** Strengthen "can produce" to "argues are guaranteed to produce" and add intransitive preferences.
 
 **Key sections:** Abstract (p.1, core claims), §3.3 (pp.12–16, incoherence), §3.4 (pp.17–18, Dutch books), §3.5 (pp.18–20, intransitive preferences), §5 (pp.25–33, escape routes).
 
@@ -305,15 +305,14 @@ Not directly cited in draft with specific claims. Background references only.
 **Xu, Z., Jain, S., & Kankanhalli, M. (2024).** "Hallucination is Inevitable: An Innate Limitation of Large Language Models." *arXiv*. https://arxiv.org/abs/2401.11817
 
 **Draft statements supported:**
-- §2.4: "Xu et al. (2024) prove formally that hallucination is an inevitable property of LLMs when used as general problem solvers, under specific modelling assumptions"
+- §2.4: "Xu et al. (2024) show formally that hallucination is an inevitable property of LLMs when used as general problem solvers, under specific modelling assumptions"
 
 **Verification notes:**
-- The abstract uses "show," not "prove": "we show that it is impossible to eliminate hallucination in LLMs." The paper never uses the phrase "formal proof" — it uses "we formalize the problem and show that…" The draft's "prove formally" **slightly overstates**; "show" or "demonstrate formally" would be more accurate.
+- The abstract uses "show": "we show that it is impossible to eliminate hallucination in LLMs." Draft now matches with "show formally."
 - **Theorem 3** (§3, central result): For all computable LLMs h, there exists a computable ground truth function f such that each state h[j] hallucinates w.r.t. f. Proved via diagonalisation.
 - "General problem solver" language appears in §4.3 (Discussion): "All LLMs trained only with input-output pairs will hallucinate when used as general problem solvers."
 - **Modelling assumptions** (important nuance): (1) LLMs are total computable functions (deterministic, not probabilistic), (2) ground truth is computable, (3) training follows Procedure 1 (iterative updates on input-output pairs only), (4) finite alphabet, (5) uniformly computable training.
 - The result shows for any given LLM there exists *some* function it will hallucinate on — not that it hallucinates on *all* functions. This is an impossibility result about universal competence.
-- **Potential draft correction:** Change "prove formally" to "show formally" or "demonstrate."
 
 **Key sections:** Abstract (core claim), §3 (Theorem 3), §4.3 (Discussion, "general problem solvers" language).
 
@@ -337,12 +336,29 @@ Not directly cited in draft with specific claims. Background references only.
 
 ### 18. Shinn et al. (2023) — Reflexion
 
-**Shinn, N., Cassano, F., et al. (2023).** "Reflexion: Language Agents with Verbal Reinforcement Learning." *NeurIPS 2023*. https://arxiv.org/abs/2303.11366
+**Shinn, N., Cassano, F., Berman, E., Gopinath, A., Narasimhan, K., & Yao, S. (2023).** "Reflexion: Language Agents with Verbal Reinforcement Learning." *NeurIPS 2023*. https://arxiv.org/abs/2303.11366
 
 **Draft statements supported:**
-- §2.4: "Reflexion (Shinn et al., 2023) extended this to agents maintaining episodic memory of past failures"
+- §2.4: "Reflexion (Shinn et al., 2023), developed concurrently, added episodic memory of past failures to agent self-improvement"
 
-**Verification notes:** Not independently verified via web fetch in this pass. "Verbal reinforcement learning" and episodic memory of failures are the paper's core contributions per the title and abstract.
+**Verification notes:** Not independently verified via web fetch in this pass. "Verbal reinforcement learning" and episodic memory of failures are the paper's core contributions per the title and abstract. Self-Refine (March 2023) and Reflexion (March 2023) were developed concurrently — draft correctly describes them as concurrent rather than one extending the other.
+
+---
+
+### 35. Huang, J., Chen, X., et al. (2024) — LLMs Cannot Self-Correct Reasoning Yet
+
+**Huang, J., Chen, X., Mishra, S., Zheng, H.S., Yu, A.W., Song, X., & Zhou, D. (2024).** "Large Language Models Cannot Self-Correct Reasoning Yet." *ICLR 2024*. https://arxiv.org/abs/2310.01798
+
+**Draft statements supported:**
+- §2.4: "Huang et al. (2024) demonstrate that without external feedback, self-correction often degrades rather than improves performance. The Map's review architecture differs from pure intrinsic self-correction: reviews verify claims against external sources via web search, outer review uses a different model family, and consistency is checked across a corpus rather than within single outputs."
+
+**Verification notes:**
+- Core finding confirmed: the paper defines "intrinsic self-correction" as self-correction without external feedback (oracle labels, tool outputs, human input) and finds LLMs cannot reliably self-correct reasoning in this setting.
+- Performance degradation confirmed: multiple experiments show accuracy drops after self-correction attempts (e.g., GSM8K, CommonSenseQA).
+- The Map's architecture partially falls outside the "intrinsic self-correction" definition because it uses: (1) web search for external source verification, (2) a different model family (GPT-5.2 Pro) for outer review, (3) corpus-level consistency checking rather than single-output correction.
+- Google DeepMind paper. ICLR 2024 venue confirmed.
+
+**Key sections:** §1 (intrinsic self-correction definition), §3–4 (experimental results showing degradation), §5 (discussion of when self-correction works — only with external feedback).
 
 ---
 
@@ -414,16 +430,15 @@ Not directly cited in draft. Background reference.
 
 ### 33. Karpathy (2025)
 
-**Karpathy, A. (2025).** "Year in Review 2025." *Blog post (December 2025)*. https://karpathy.bearblog.dev/year-in-review-2025/
+**Karpathy, A. (2025).** "2025 LLM Year in Review." *Blog post (December 2025)*. https://karpathy.bearblog.dev/year-in-review-2025/
 
 **Draft statements supported:**
-- §1 (Introduction): "Karpathy (2025) described Claude Code as 'the first convincing demonstration of what an LLM Agent looks like'"
+- §1 (Introduction): "Karpathy (2025) described Claude Code as 'the first convincing demonstration of what an LLM Agent looks like,' a system that strings together tool use and reasoning for extended problem-solving"
 - §1: "Karpathy's 'vibe coding' (February 2025)"
 
 **Verification notes:**
-- **Claude Code quote verified (verbatim):** Blog post says "Claude Code (CC) emerged as the first convincing demonstration of what an LLM Agent looks like" — note capital "A" in "Agent." Surrounding context: "…something that in a loopy way strings together tool use and reasoning for extended problem solving."
+- **Claude Code quote verified (verbatim):** Blog post says "Claude Code (CC) emerged as the first convincing demonstration of what an LLM Agent looks like" — note capital "A" in "Agent." Surrounding context: "…something that in a loopy way strings together tool use and reasoning for extended problem solving." Draft paraphrases the surrounding context as "a system that strings together tool use and reasoning for extended problem-solving" — accurate.
 - **"Vibe coding" February 2025:** Blog says "I coined the term 'vibe coding' in [tweet link] totally oblivious to how far it would go." The linked tweet (status/1886192184808149383) was posted **February 2, 2025**. The blog itself does not spell out "February" — the date comes from the tweet timestamp. Attribution is correct.
-- **⚠️ "Qualitative threshold of coherence" — NOT IN THE BLOG POST.** This phrase does not appear anywhere in Karpathy's post. The word "qualitative" is entirely absent. The closest is: "2025 is the year that AI crossed a capability threshold necessary to build all kinds of impressive programs simply via English, forgetting that the code even exists." Karpathy writes about a "capability threshold," not a "qualitative threshold of coherence." **The references.md previously attributed this phrase to Karpathy — this is a misquotation and should be corrected.** The phrase may originate from elsewhere or be the draft author's own characterisation. The draft.md itself does not use this phrase, so the error is confined to references.md.
 
 **Key sections:** Blog section on Claude Code (exact quote), linked tweet for "vibe coding" dating.
 
@@ -455,21 +470,21 @@ Not directly cited in draft. Background reference.
 
 ---
 
-## Verification Issues Found
+## Verification Issues Log
 
-Summary of discrepancies between sources and draft/references for correction:
+Summary of discrepancies found during verification. Items marked ✅ have been resolved in the draft.
 
-| Issue | Location | Severity | Detail |
-|-------|----------|----------|--------|
-| "qualitative threshold of coherence" attributed to Karpathy | references.md #33 | **High** | Phrase not in blog post. Karpathy says "capability threshold." Misquotation in references.md (not in draft.md). |
-| "prove formally" for Xu et al. | draft.md §2.4 | Medium | Paper says "show" and "formalize the problem." "Prove formally" slightly overstates. |
-| "can produce" for Goldstein | draft.md §2.1 | Medium | Goldstein says "guaranteed to be incoherent" — stronger than "can produce." Also omits intransitive preferences. |
-| "Wikipedia-style" vs "Wikipedia-like" | draft.md §2.2 | Low | Paper title says "Wikipedia-like." |
-| Three vs four domains for Liang et al. | draft.md §2.2 | Low | Paper studies four domains (includes UN press releases). Draft lists three. |
-| "Socratic dialogue" for Harb et al. | draft.md §2.1 | Low | Mechanism is structured prompting on a single agent, not multi-agent dialogue. |
-| "concludes" in Shanahan term list | draft.md §2.1 | Low | Shanahan uses "knows, believes, thinks" — draft adds "concludes" which is not in the paper. |
-| GEO "40%" attribution | references.md #23 | Low | 40% is upper bound across three strategies, not just citations and statistics. |
-| 36% vs 36.3% for Turpin | references.md #32 | Low | Precise figure is 36.3%. Draft uses rounded "36%." |
+| Issue | Location | Severity | Status | Detail |
+|-------|----------|----------|--------|--------|
+| "qualitative threshold of coherence" attributed to Karpathy | references.md #33 | **High** | ✅ Resolved | Phrase was never in draft.md; removed from references.md. |
+| "prove formally" for Xu et al. | draft.md §2.4 | Medium | ✅ Resolved | Changed to "show formally" to match paper's wording. |
+| "can produce" for Goldstein | draft.md §2.1 | Medium | ✅ Resolved | Changed to "architecturally guarantees incoherent probabilistic judgments and intransitive preferences." |
+| "Wikipedia-style" vs "Wikipedia-like" | draft.md §2.2 | Low | ✅ Resolved | Changed to "Wikipedia-like" throughout. |
+| Three vs four domains for Liang et al. | draft.md §2.2 | Low | ✅ Resolved | Added UN press releases as fourth domain with correct labels. |
+| "Socratic dialogue" for Harb et al. | draft.md §2.1 | Low | ✅ Resolved | Changed to "Socratic method to structure." |
+| "concludes" in Shanahan term list | draft.md §2.1 | Low | ✅ Resolved | Changed to "thinks" to match Shanahan's terminology. |
+| GEO "40%" attribution | references.md #23 | Low | Open | 40% is upper bound across three strategies, not just citations and statistics. Draft uses "optimises content" without the 40% figure — no action needed in draft. |
+| 36% vs 36.3% for Turpin | references.md #32 | Low | Open | Precise figure is 36.3%. Draft does not cite the specific figure — no action needed. |
 
 ---
 
