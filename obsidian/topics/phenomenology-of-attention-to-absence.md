@@ -4,7 +4,7 @@ description: "How consciousness attends to what isn't there—the distinctive ph
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-01T21:52:00+00:00
 last_deep_review: 2026-02-22T00:36:00+00:00
 draft: false
 topics:
@@ -106,6 +106,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is implicated becau
 - [[intentionality]] — The directedness of consciousness toward objects
 - [[phenomenal-intentionality]] — Why intentionality toward absent objects requires phenomenal character
 - [[protention]] — Husserl's forward-directed structure of present experience
+- [[consciousness-and-the-phenomenology-of-place]] — How places are partly constituted by what is missing from them
 - [[phenomenology-of-the-edge]] — What consciousness encounters at its limits
 
 ## References

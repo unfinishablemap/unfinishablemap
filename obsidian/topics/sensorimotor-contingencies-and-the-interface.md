@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-01T11:00:00+00:00
+ai_modified: 2026-03-01T21:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,6 +123,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [[brain-interface-boundary]] — Why brains specifically serve as interfaces
 - [[choking-phenomenon-mental-causation]] — Bidirectional evidence from skilled performance breakdown
 - [[predictive-processing-and-the-maps-framework]] — How sensorimotor contingencies relate to prediction error and precision weighting
+- [[consciousness-and-the-phenomenology-of-place]] — Place-experience as the ultimate multi-modal sensorimotor integration
 - [[mysterianism]] — Cognitive closure and why the interface's grammar may be all we can map
 
 ## References

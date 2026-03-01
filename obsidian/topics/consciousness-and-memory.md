@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-24T15:57:00+00:00
+ai_modified: 2026-03-01T21:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -167,6 +167,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [[dream-consciousness]]
 - [[dreamless-sleep-void]]
 - [[consciousness-and-temporal-integration]]
+- [[consciousness-and-the-phenomenology-of-place]]
 
 ## References
 

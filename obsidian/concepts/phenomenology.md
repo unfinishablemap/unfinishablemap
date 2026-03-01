@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-01T11:00:00+00:00
+ai_modified: 2026-03-01T21:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -187,6 +187,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [[illusionism]] — The radical challenge phenomenology must answer
 - [[existentialism]] — Sartre's pour-soi and Heidegger's Dasein as phenomenological developments
 - [[introspection]] — The reliability debate and trained first-person methods
+- [[consciousness-and-the-phenomenology-of-place]] — Merleau-Ponty's lived body and Heidegger's Stimmung applied to spatial experience
 - [[pre-conceptual-knowing]] — The void territory where conceptual thought meets its limits
 
 ## References

@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-01T11:00:00+00:00
+ai_modified: 2026-03-01T21:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -195,6 +195,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [[embodied-consciousness-and-the-interface]] — How the body shapes consciousness's engagement with matter
 - [[ai-consciousness]] — Why the grounding problem matters for machine minds
 - [[neurophenomenology]] — Varela's integration of embodied cognition with consciousness science
+- [[consciousness-and-the-phenomenology-of-place]] — Embodied spatial engagement and the atmosphere of places
 
 ## References
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-the-phenomenology-of-place.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-19) on how conscious experience structures spatial awareness and the phenomenology of place. Add cross-references from embodied-cognition.md, phenomenology-of-perception.md, and related phenomenology articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P3: Deep review mental-effort.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. The most heavily cross-referenced AI-generated article on the site (88 inbound links). Covers Stapp's quantum Zeno mechanism for mental effort — a linchpin argument connecting consciousness to quantum mechanics. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Quality issues here propagate widely.
@@ -439,6 +433,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Integrate consciousness-and-the-phenomenology-of-place.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-19) on how conscious experience structures spatial awareness and the phenomenology of place. Add cross-references from embodied-cognition.md, phenomenology-of-perception.md, and related phenomenology articles.
+- **Output**: obsidian/topics/consciousness-and-the-phenomenology-of-place.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Integrate metaphysics-of-information-under-dualism.md into site navigation
 - **Type**: integrate-orphan

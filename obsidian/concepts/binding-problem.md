@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-01T00:51:00+00:00
+ai_modified: 2026-03-01T21:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -192,6 +192,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[sleep-and-consciousness]] — Sleep as dissociation between BP1 and BP2
 - [[illusionism]] — The view that phenomenal unity is illusory
 - [[mysterianism]] — Cognitive closure and the limits of understanding
+- [[consciousness-and-the-phenomenology-of-place]] — Atmospheric binding as a paradigm case of cross-modal phenomenal unity
 
 ## References
 

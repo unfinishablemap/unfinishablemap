@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-02-13T13:34:00+00:00
+ai_modified: 2026-03-01T21:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,6 +149,7 @@ There is also a deeper question the interface reading cannot answer: even if emb
 - [[mind-brain-separation]] — The rendering engine analogy for mind-body relations
 - [[choking-phenomenon-mental-causation]] — The bidirectional evidence from choking in detail
 - [[phenomenology-of-flow-states]] — Flow as frictionless interface operation
+- [[consciousness-and-the-phenomenology-of-place]] — How the interface manifests in the felt character of being in a place
 
 ## References
 
