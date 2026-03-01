@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-02-25T07:28:00+00:00
+ai_modified: 2026-03-01T03:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,12 +29,13 @@ related_articles:
   - "[[qualia]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[contemplative-evidence-for-consciousness]]"
+  - "[[phenomenological-psychiatry-and-altered-experience]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-02-25T07:28:00+00:00
+last_deep_review: 2026-03-01T03:40:00+00:00
 coalesced_from:
   - "/topics/altered-states-consciousness/"
 ---
@@ -99,6 +100,12 @@ The voluntariness is crucial. Meditators deliberately alter their brain-consciou
 
 Cessation events illuminate filter theory directly. Unlike anesthesia (where consciousness appears eliminated) or sleep (where it continues in altered form), meditative cessation involves *deliberate* withdrawal of consciousness from neural processing—then return. The transformation reported by advanced practitioners upon return suggests consciousness operated during cessation in a mode unconstrained by the brain-interface, returning with insights unavailable during normal filtered operation.
 
+### Psychiatric Conditions
+
+[[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]] reveals that conditions like schizophrenia, depression, and depersonalization are not merely illnesses but altered states that disrupt the *form* of experience rather than just its content. A depressed person doesn't simply feel sad about things—the temporal horizon of the future closes, making hope structurally impossible. A person with schizophrenia doesn't just hold unusual beliefs—the pre-reflective sense that experiences belong to a self (*ipseity*) fractures at its foundation.
+
+This form/content distinction strengthens the filter theory interpretation. Where psychedelics and meditation alter *what* passes through the filter, psychiatric conditions alter *how the filtering itself works*. Thomas Fuchs's observation that schizophrenia and depression disrupt embodiment in opposite directions—disembodied detachment versus oppressive corporealization—suggests the consciousness-body interface can be mistuned in multiple ways, a pattern more consistent with an adjustable interface than with simple identity between mind and brain. Depersonalization is particularly revealing: experiences lose their sense of belonging to anyone while perception continues unchanged, demonstrating that ownership, reality, and temporal presence are separable architectural features of consciousness rather than a unified neural product.
+
 ### Near-Death Experiences
 
 Xu et al. (2023) found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
@@ -143,10 +150,13 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[comparative-consciousness-and-interface-differences]] — Does the interface vary across states and species?
 - [[anaesthesia-and-the-consciousness-interface]] — How anaesthetic agents reconfigure the consciousness interface
 - [[contemplative-evidence-for-consciousness]] — Contemplative practices as evidence for irreducible consciousness
+- [[phenomenological-psychiatry-and-altered-experience]] — How psychiatric conditions reveal the hidden architecture of consciousness
 
 ## References
 
 Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
+
+Fuchs, T. (2005). Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia. *Philosophy, Psychiatry, & Psychology*, 12(2), 95-107.
 
 Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
 

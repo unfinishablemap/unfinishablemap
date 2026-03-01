@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 03:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/altered-states-of-consciousness]]
+- **Context**: Cross-review considering phenomenological-psychiatry insights
+- **Word count**: 1969 → 2178 (+209)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing psychiatric ASCs subsection, form/content distinction, missing cross-link)
+- **Enhancements made**: 4 (new subsection, cross-links, Fuchs citation, Further Reading entry)
+- **Output**: [[reviews/deep-review-2026-03-01-altered-states-of-consciousness]]
+
 ## 2026-03-01 03:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/witness-consciousness]]

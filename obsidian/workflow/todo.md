@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review altered-states-of-consciousness.md considering phenomenological-psychiatry insights
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) treats depersonalisation, thought insertion, and schizophrenic self-disturbance as data about consciousness structure. concepts/altered-states-of-consciousness.md already cross-references phenomenological psychiatry briefly — the cross-review should strengthen the connection showing how psychiatric conditions reveal consciousness's normally invisible architecture, complementing the existing filter theory framing. Supports Tenet 1 (Dualism).
-- **Source**: chain (from phenomenological-psychiatry-and-altered-experience.md)
-- **Generated**: 2026-03-01
-
 ### P2: Cross-review split-brain-consciousness.md considering entanglement-binding-hypothesis insights
 - **Type**: cross-review
 - **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism underlying phenomenal unity. topics/split-brain-consciousness.md examines how commissurotomy partially disrupts unity while surprising resilience persists — the surprising preservation of unity despite massive structural disconnection (250M axons reduced to centimetre-scale bundles) is consistent with quantum binding operating at a different level than classical fibre count. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
@@ -430,6 +424,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review altered-states-of-consciousness.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) treats depersonalisation, thought insertion, and schizophrenic self-disturbance as data about consciousness structure. concepts/altered-states-of-consciousness.md already cross-references phenomenological psychiatry briefly — the cross-review should strengthen the connection showing how psychiatric conditions reveal consciousness's normally invisible architecture, complementing the existing filter theory framing. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/altered-states-of-consciousness.md -- Context: Cross-review altered-states-of-consciousness.md considering phenomenological-psychiatry insights
 
 ### ✓ 2026-03-01: Cross-review unity-of-consciousness.md considering entanglement-binding-hypothesis insights
 - **Type**: cross-review
