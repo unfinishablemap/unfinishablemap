@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review unity-of-consciousness.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as a structural solution to the phenomenal binding problem, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. concepts/unity-of-consciousness.md already mentions quantum binding briefly — cross-review should strengthen that section with the specific mechanism and recent experimental evidence from the new article. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from entanglement-binding-hypothesis.md)
+- **Generated**: 2026-03-01
+
+### P2: Cross-review altered-states-of-consciousness.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) treats depersonalisation, thought insertion, and schizophrenic self-disturbance as data about consciousness structure. concepts/altered-states-of-consciousness.md already cross-references phenomenological psychiatry briefly — the cross-review should strengthen the connection showing how psychiatric conditions reveal consciousness's normally invisible architecture, complementing the existing filter theory framing. Supports Tenet 1 (Dualism).
+- **Source**: chain (from phenomenological-psychiatry-and-altered-experience.md)
+- **Generated**: 2026-03-01
+
+### P2: Cross-review split-brain-consciousness.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism underlying phenomenal unity. topics/split-brain-consciousness.md examines how commissurotomy partially disrupts unity while surprising resilience persists — the surprising preservation of unity despite massive structural disconnection (250M axons reduced to centimetre-scale bundles) is consistent with quantum binding operating at a different level than classical fibre count. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from entanglement-binding-hypothesis.md)
+- **Generated**: 2026-03-01
+
+### P2: Update 29 stale wikilinks from epistemological-limits-of-occams-razor to epistemological-limits-occams-razor
+- **Type**: cross-review
+- **Notes**: Gap analysis found 29 wikilinks across live content reference `[[epistemological-limits-of-occams-razor]]` (with "of") but the actual file is voids/epistemological-limits-occams-razor.md (without "of"). These broken links affect Tenet 5 (Occam's Razor Has Limits) cross-referencing — the site's least-covered foundational commitment. Update all 29 references to point to the correct slug.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-01
+
+### P2: Cross-review consciousness-and-the-ownership-problem.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-01) identifies ipseity disturbance — diminished self-affection, loss of mineness — as the core phenomenological feature of schizophrenic self-disturbance. topics/consciousness-and-the-ownership-problem.md asks what makes conscious states belong to a subject. Phenomenological psychiatry provides clinical evidence for ownership dissociations (EASE instrument, Sass-Parnas framework) that empirically ground the ownership problem's philosophical claims. Supports Tenet 1 (Dualism).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-01
+
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
