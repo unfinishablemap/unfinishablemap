@@ -4,7 +4,7 @@ description: "Many-Worlds isn't the only quantum interpretation. Several alterna
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-28T16:45:00+00:00
+ai_modified: 2026-03-01T09:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,10 +23,10 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-01-28T16:45:00+00:00
+last_deep_review: 2026-03-01T09:52:00+00:00
 ---
 
-The [[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) is not the only scientifically respectable interpretation of quantum mechanics. A 2025 Nature Physics survey found that only 36% of physicists favor Copenhagen interpretation, with no interpretation commanding majority support. The interpretive landscape remains genuinely open—and several alternatives don't exclude consciousness from participating in quantum measurement, directly supporting this site's [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#no-many-worlds|No Many Worlds]] tenets.
+The [[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) is not the only scientifically respectable interpretation of quantum mechanics. A 2025 Nature survey found that only 36% of physicists favor Copenhagen interpretation, with no interpretation commanding majority support. The interpretive landscape remains genuinely open—and several alternatives don't exclude consciousness from participating in quantum measurement, directly supporting The Unfinishable Map's [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#no-many-worlds|No Many Worlds]] tenets.
 
 **Honest limitation**: The fact that physics hasn't settled on one interpretation doesn't mean consciousness-based interpretations are well-supported—they remain a minority position among physicists. What it means is that the measurement problem remains genuinely unsolved, and consciousness-collapse proposals haven't been ruled out. The Map treats this as philosophical space to explore, not scientific consensus.
 
@@ -46,7 +46,7 @@ Bohmian mechanics restores determinism by giving particles definite positions at
 
 **Consciousness has no role.** Bohmian mechanics explicitly eliminates the observer from physics. Particles always have positions; we simply don't know them until measurement reveals pre-existing facts. The measurement problem dissolves because outcomes are determined by the pilot wave's guidance, not by observation.
 
-The theory requires instantaneous non-local influences to explain entanglement, creating tension with special relativity. More critically for this site, if Bohmian mechanics is correct, the [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]] tenet has no work to do. Consciousness cannot select outcomes because outcomes are already determined.
+The theory requires instantaneous non-local influences to explain entanglement, creating tension with special relativity. More critically for the Map, if Bohmian mechanics is correct, the [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]] tenet has no work to do. Consciousness cannot select outcomes because outcomes are already determined.
 
 **Relation to the Map:** Low compatibility. Bohmian determinism makes free will phenomenology illusory. The Map takes the experience of effort and choice seriously—experiences that would be systematically misleading in a Bohmian universe. However, Bohmian mechanics has sophisticated defenders (notably Goldstein, Tumulka, and Zanghì) who argue its determinism is no more threatening to agency than classical physics, and that its ontological clarity compensates for other costs.
 
@@ -122,7 +122,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 
 ## References
 
-1. Nature Physics Survey (August 2025): Physicist interpretations of quantum mechanics
+1. Nature Survey (July 2025): Physicist interpretations of quantum mechanics
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*.
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*.
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*.

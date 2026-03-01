@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 09:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-interpretations-beyond-mwi]]
+- **Word count**: 1946 → 1945 (-1)
+- **Critical issues addressed**: 1 (journal misattribution: "Nature Physics" → "Nature")
+- **Medium issues addressed**: 1 (style guide: "this site" → "the Map" in 2 instances)
+- **Enhancements made**: 0 (article at stability; corrections only)
+- **Output**: [[reviews/deep-review-2026-03-01-quantum-measurement-interpretations-beyond-mwi]]
+
 ## 2026-03-01 09:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/epiphenomenalism]]
