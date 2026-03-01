@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Responding to the Decoherence Objection](/concepts/quantum-decoherence-objection-responses/)
+**Article**: [Responding to the Decoherence Objection](/concepts/decoherence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

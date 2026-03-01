@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-02-24 16:42:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-01 08:15:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -21,7 +21,7 @@ description: The brain's self-referential system, active at rest. DMN may constr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 05:03:58+00:00
+last_deep_review: 2026-03-01 08:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ The DMN thus appears to construct and maintain the ongoing sense of self—the "
 
 ## DMN and the Sense of Self
 
-The correlation between DMN activity and self-referential processing has significant implications for consciousness research. The DMN may be the neural substrate for what Buddhists call the "monkey mind"—the ceaseless internal chatter that constructs and maintains ego.
+The correlation between DMN activity and self-referential processing has significant implications for consciousness research. The DMN may be the neural substrate for what contemplatives sometimes call "monkey mind"—the ceaseless internal chatter that constructs and maintains the [narrative self](/concepts/self-and-consciousness/).
 
 ### Evidence for DMN as Self-Generator
 
@@ -67,7 +67,7 @@ Neuroimaging consistently shows DMN activation during:
 - Autobiographical memory retrieval
 - Future planning and imagination
 - Moral reasoning about oneself
-- Social comparison and self-evaluation
+- Social comparison and [self-evaluation](/concepts/introspection/)
 
 Damage to DMN regions produces altered self-experience. Patients with mPFC lesions show reduced self-reflection; PCC damage impairs autobiographical memory and the sense of temporal continuity.
 
@@ -163,6 +163,10 @@ The mPFC, part of the DMN, is also implicated in executive function and workspac
 
 This has implications for the Map's framework: if the DMN influences what reaches consciousness, reducing DMN activity might allow content that normally fails to reach consciousness to achieve workspace ignition.
 
+### DMN and Predictive Models
+
+The DMN also functions as the brain's primary system for maintaining self-related [predictive models](/concepts/predictive-processing/)—the "priors" about who one is, what one values, and what to expect. Carhart-Harris's REBUS framework makes this explicit: psychedelics relax the precision-weighted predictions the DMN maintains, allowing bottom-up signals to reshape the self-model. Whether this represents altered computation or loosened filtering, the DMN's role as the self-model's neural substrate connects consciousness research to the broader predictive processing framework.
+
 ## Relation to Site Perspective
 
 ### Dualism
@@ -221,18 +225,3 @@ Current evidence does not meet these conditions, but they define the space of po
 1. Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind. *Science*, 330(6006), 932.
 1. Raichle, M. E., et al. (2001). A default mode of brain function. *PNAS*, 98(2), 676-682.
 1. Raichle, M. E. (2015). The brain's default mode network. *Annual Review of Neuroscience*, 38, 433-447.
-
-<!-- AI REFINEMENT LOG - 2026-02-24
-Changes made:
-1. Fixed straw man in psychedelic argument: no longer claims production models predict elimination of self-experience from DMN suppression; reframed as both models predicting altered experience, with the question being about the character of alteration
-1. Fixed cross-cultural convergence: no longer presented as asymmetric support for filter theory; now acknowledged as predicted by both production and filter models
-1. Fixed bidirectional interaction section: added physicalist alternative explanation (prefrontal control networks), clarified Map's reading as philosophical interpretation
-1. Fixed Dualism tenet section: removed repeated straw man about DMN suppression eliminating experience
-1. Added Fox et al. 2014 citation for structural changes in meditators claim
-1. Language improvements: "striking support" → "important test case", "profound" → "significant"
-
-Based on pessimistic review (pessimistic-2026-02-24-dmn.md) identifying 2 high and 2 medium severity issues.
-Key improvements: eliminated logical fallacies, balanced evidence presentation, added missing citation.
-
-This log should be removed after human review.
--->

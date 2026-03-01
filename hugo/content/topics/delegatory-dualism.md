@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-01 05:30:00+00:00
+ai_modified: 2026-03-01 09:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[concepts/many-worlds]]'
 - '[[observational-closure]]'
 - '[[preemption]]'
+- '[[entanglement-binding-hypothesis]]'
 created: 2026-01-29
 date: &id001 2026-01-29
 description: 'Bradford Saad''s 2025 theory explains how consciousness causes behavior
@@ -21,7 +22,7 @@ description: 'Bradford Saad''s 2025 theory explains how consciousness causes beh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 21:45:00+00:00
+last_deep_review: 2026-03-01 09:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +108,7 @@ Similarly: when you experience pain, your brain state delegates its "cause winci
 
 ## Why Delegation Avoids Overdetermination
 
-Standard overdetermination posits two independent sufficient causes producing the same effect. Both contribute; both are necessary in that removing either would prevent the outcome.
+Standard overdetermination posits two independent sufficient causes producing the same effect. Each alone would suffice, making the other redundant—a theoretically unsatisfying proliferation of causes.
 
 Delegation is different. The physical state is not a *concurrent* cause—it's a *preempted* cause. The physical state has the *capacity* to cause the effect but doesn't exercise it because the experience takes over. One cause operates; the other is sidelined.
 
@@ -195,6 +196,8 @@ The frameworks are compatible but operate at different levels:
 
 The frameworks could integrate: quantum indeterminacy provides the physical mechanism; delegation provides the causal structure. Consciousness biases quantum outcomes (the mechanism); this biasing constitutes the physical state delegating its causal role to the experience (the structure).
 
+The [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) strengthens this integration. An entangled quantum state spanning many neurons constitutes a single non-decomposable physical state with a collective default causal profile—precisely what Saad's Subset Law* maps to unified experience. Entanglement provides the physical holism; delegation explains how that unified state's causal work gets taken over by experience. Together they address complementary aspects of the mind-body problem: entanglement answers why experience is *unified*, delegation answers how it is *causally efficacious*.
+
 Alternatively, delegatory dualism is more general—it doesn't require quantum mechanics. The delegation framework could apply wherever mind and body interact, quantum or otherwise. For those skeptical of quantum consciousness, delegatory dualism offers an independent response to the exclusion problem.
 
 ## Observational Closure and Minimal Quantum Interaction
@@ -246,6 +249,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework for mind-body laws
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why conservation doesn't block mental causation
+- [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — Quantum entanglement as the physical substrate for unified experience
 - [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/) — Research notes on Saad's work
 
 ## References
@@ -256,17 +260,3 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 1. Saad, B. (2020). An exclusion problem for epiphenomenalist dualism. *Thought*, 9(4), 247-256.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-
-<!-- AI REFINEMENT LOG - 2026-01-29 (refine-draft pass 2)
-Changes made based on outer review task context (add short quote callouts ≤25 words):
-
-1. Added verbatim Observational Closure quote as blockquote in constraints section
-2. Added verbatim Subset Law* quote (with "default causal profile" explicit) as blockquote
-3. Added verbatim Delegatory Law preemption formulation as blockquote
-
-All quotes sourced from Saad (2025) via PMC full text.
-
-Review file: obsidian/reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
-
-This log should be removed after human review.
--->

@@ -38,6 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research the metaproblem of consciousness under dualism
+- **Type**: research-topic
+- **Notes**: Chalmers' metaproblem — why we think there is a hard problem — is a significant philosophical development the Map should engage with. Under dualism, the answer is straightforward: we report on consciousness because it is real and causally influences our reports, dissolving the metaproblem while physicalism generates it. The queue includes a P3 expand-topic for this article; research would strengthen it. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-01
+
+### P3: Deep review consciousness-and-creativity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Covers the relationship between consciousness and creative processes — relevant to the Map's treatment of consciousness as an active participant rather than passive observer. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-01
+
+### P3: Deep review combination-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem challenges panpsychism by asking how micro-experiences combine into unified macro-experience — a key objection the Map cites when arguing that panpsychism fails to solve the hard problem. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-01
+
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
@@ -381,18 +399,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
 - **Generated**: 2026-03-01
 
-### P2: Integrate adaptive-computational-depth.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (created 2026-02-24) with zero inbound wikilinks. Argues that reality allocating detail where consciousness attends initially seems to support computationalism but actually implies non-computable mind. Should be linked from consciousness-and-simulation.md, computational-theory-of-mind.md, and attention-as-selection-interface.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
-### P2: Review temporal-consciousness.md considering continuity-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/continuity-void.md (2026-03-01) examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps — sleep onset, anaesthesia, absorption states. concepts/temporal-consciousness.md covers the specious present, Bergson's durée, and temporal phenomenology. The continuity void's analysis of constructed-vs-given continuity would strengthen the temporal consciousness article's treatment of how temporal structure may be constitutive of consciousness. Check for cross-links and argument reinforcement.
-- **Source**: chain (from continuity-void.md)
-- **Generated**: 2026-03-01
-
 ### P2: Review phenomenology-of-the-edge.md considering continuity-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/continuity-void.md (2026-03-01) identifies moments where continuity breaks down — sleep onset, anaesthetic fade, deep absorption — as edges where the stream of consciousness reveals its construction. voids/phenomenology-of-the-edge.md explores what consciousness encounters at its cognitive boundaries. The continuity void's treatment of temporal edges as phenomenologically accessible complements the edge phenomenology's broader catalogue of boundary experiences. Check for cross-links and complementary analysis. Supports Tenet 1 (Dualism).
@@ -416,6 +422,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Deep review quantum-measurement-interpretations-beyond-mwi.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Surveys quantum measurement interpretations excluding Many Worlds — directly relevant to Tenet 4 (No Many Worlds) and the Map's argument for why consciousness-collapse interpretations are preferable. The only stale file not already tracked in the queue. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/quantum-measurement-interpretations-beyond-mwi.md
+
+### ✓ 2026-03-01: Cross-review delegatory-dualism.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) proposes quantum entanglement as the mechanism for phenomenal unity, with experimental evidence from Kerskens-Pérez MRI and Wiest epothilone studies. delegatory-dualism.md is the Map's central framework article describing how consciousness delegates to neural processes. If binding requires entanglement, the delegatory model's hierarchy gains a specific physical substrate at the binding level — quantum coherence maintained across the neural populations that consciousness coordinates. Check for cross-links and theoretical reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/topics/delegatory-dualism.md -- Context: Cross-review delegatory-dualism.md considering entanglement-binding-hypothesis insights
+
+### ✓ 2026-03-01: Cross-review the-case-for-dualism.md considering arguments-against-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/arguments-against-materialism.md (2026-02-27) systematically assembles the strongest arguments against physicalism — knowledge argument, conceivability, multiple realizability, and the hard problem's anti-materialist force. the-case-for-dualism.md is the central hub for the Map's dualist position (Tenet 1) and should cross-reference these assembled arguments, which directly strengthen the positive case. Cross-reviews were done for knowledge-argument.md and functionalism.md but not for this core article. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/the-case-for-dualism.md -- Context: Cross-review the-case-for-dualism.md considering arguments-against-materialism insights
+
+### ✓ 2026-03-01: Review temporal-consciousness.md considering continuity-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/continuity-void.md (2026-03-01) examines whether consciousness is genuinely continuous or whether felt continuity is constructed across gaps — sleep onset, anaesthesia, absorption states. concepts/temporal-consciousness.md covers the specious present, Bergson's durée, and temporal phenomenology. The continuity void's analysis of constructed-vs-given continuity would strengthen the temporal consciousness article's treatment of how temporal structure may be constitutive of consciousness. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Review temporal-consciousness.md considering continuity-void insights
+
+### ✓ 2026-03-01: Integrate adaptive-computational-depth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (created 2026-02-24) with zero inbound wikilinks. Argues that reality allocating detail where consciousness attends initially seems to support computationalism but actually implies non-computable mind. Should be linked from consciousness-and-simulation.md, computational-theory-of-mind.md, and attention-as-selection-interface.md.
+- **Output**: obsidian/concepts/adaptive-computational-depth.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Integrate timing-gap-problem.md into site navigation
 - **Type**: integrate-orphan

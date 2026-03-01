@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-27 22:45:00+00:00
+ai_modified: 2026-03-01 08:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,7 +49,7 @@ description: Consciousness flows through time in the specious present—Bergson'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 18:26:00+00:00
+last_deep_review: 2026-03-01 08:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,9 +59,9 @@ related_articles:
 - '[[consciousness-working-memory-2026-01-17]]'
 - '[[consciousness-time-perception-2026-01-14]]'
 - '[[process-and-consciousness]]'
-- '[[consciousness-and-temporal-integration]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[consciousness-and-temporal-becoming]]'
+- '[[continuity-void]]'
 title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -81,7 +81,7 @@ Duration estimates span three complementary timescales: a perceptual moment (~10
 
 Consider hearing three notes: C, E, G. A system that processes each note without retaining the others never experiences a chord. Experiencing the chord requires holding the notes together in a unified present moment.
 
-The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The duration-block is constituted by a series of collapses, explaining both extended phenomenology and retention-like structure.
+The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [continuity-void](/voids/continuity-void/) reveals that this choice may be structurally underdetermined — discrete experiences can feel perfectly smooth (Lee, 2023) — but the collapse framework makes extensionalism a natural fit: the duration-block is constituted by a series of collapses, explaining both extended phenomenology and retention-like structure.
 
 ## Bergson's Durée
 
@@ -111,7 +111,7 @@ Working memory provides a promising neural correlate. The experienced moment (~1
 
 Gamma-band oscillations (30-100 Hz) correlate with conscious processing, and the "time-domain brain" view (Baker & Cariani, 2025) proposes temporal mechanisms are constitutive of consciousness rather than merely correlates. Research connects time experience to bodily rhythms—the insula processing interoceptive signals—suggesting duration may be essentially embodied. If durée is lived through a body, disembodied systems may be categorically incapable of temporal experience.
 
-Whether consciousness comes in discrete frames or continuous flow remains debated. Even if discrete, something must bind moments into continuous-seeming experience—and this binding is where artificial systems fail. An AI processing tokens statelessly lacks whatever connects moments into experience.
+Whether consciousness comes in discrete frames or continuous flow remains debated. Even if discrete, something must bind moments into continuous-seeming experience.
 
 ## Temporal Unity and Its Disruption
 
@@ -180,7 +180,7 @@ Temporal consciousness connects to all five tenets:
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series and the Map's growing block position
-- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into a temporal stream
+- [continuity-void](/voids/continuity-void/) — Why consciousness cannot determine its own temporal grain
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis of process philosophy and the Map's framework
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
@@ -204,6 +204,7 @@ Temporal consciousness connects to all five tenets:
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
+1. Lee, A. Y. (2023). Consciousness & Continuity. *PhilArchive*.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness."

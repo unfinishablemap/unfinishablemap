@@ -136,7 +136,7 @@ Particles always have definite positions, guided by the wave function through a 
 
 Conscious observation precipitates collapse. Von Neumann's formalism permits placing collapse anywhere in the measurement chain, including at the observer's consciousness—as Wigner explored in the 1960s.
 
-**Relation to site tenets:** Most aligned with [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). The Map prefers Stapp's quantum Zeno approach over von Neumann-Wigner consciousness-collapse, since Zeno uses orthodox quantum mechanics—consciousness *selects* within physics rather than intervening from outside it. The specific [coupling mode](/concepts/coupling-modes/) matters: basis control (Process 1) and timing control (Zeno effect) rather than direct probability modification.
+**Relation to site tenets:** Most aligned with [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). The Map prefers Stapp's quantum Zeno approach over von Neumann-Wigner consciousness-collapse, since Zeno uses orthodox quantum mechanics—consciousness *selects* within physics rather than intervening from outside it. The specific [coupling mode](/concepts/coupling-modes/) matters: basis control (Process 1) and timing control (Zeno effect) rather than direct probability modification. The concept of [adaptive computational depth](/concepts/adaptive-computational-depth/) extends this picture: reality allocates detail where consciousness attends, and the allocator's non-computability resolves the regress any computational allocation mechanism would face.
 
 #### Stapp's Quantum Zeno Framework
 

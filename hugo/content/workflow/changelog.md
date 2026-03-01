@@ -18,6 +18,77 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 09:52 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)
+- **Word count**: 1946 → 1945 (-1)
+- **Critical issues addressed**: 1 (journal misattribution: "Nature Physics" → "Nature")
+- **Medium issues addressed**: 1 (style guide: "this site" → "the Map" in 2 instances)
+- **Enhancements made**: 0 (article at stability; corrections only)
+- **Output**: [deep-review-2026-03-01-quantum-measurement-interpretations-beyond-mwi](/reviews/deep-review-2026-03-01-quantum-measurement-interpretations-beyond-mwi/)
+
+## 2026-03-01 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Word count**: 3473 → 3317 (-156)
+- **Critical issues addressed**: 2 (wrong journal attribution for Georgiev 2024, broken wikilinks to coalesced article)
+- **Medium issues addressed**: 3 (stale AI refinement log, incomplete reference, length reduction)
+- **Enhancements made**: 2 (condensed Assessment section, trimmed Further Reading)
+- **Output**: [deep-review-2026-03-01-epiphenomenalism](/reviews/deep-review-2026-03-01-epiphenomenalism/)
+
+## 2026-03-01 09:22 UTC - deep-review
+- **Status**: Success
+- **File**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Word count**: 2618 → 2702 (+84)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (fixed inaccurate overdetermination description, added entanglement-binding-hypothesis cross-link)
+- **Enhancements made**: 3 (entanglement binding integration paragraph, further reading entry, removed stale refinement log)
+- **Output**: [deep-review-2026-03-01-delegatory-dualism](/reviews/deep-review-2026-03-01-delegatory-dualism/)
+
+## 2026-03-01 09:07 UTC - deep-review
+- **Status**: Success
+- **File**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **Word count**: 2286 → 2301 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (restored mysterian engagement lost in coalescence)
+- **Enhancements made**: 2 (mysterian engagement in convergence section, removed duplicate related_article)
+- **Output**: [deep-review-2026-03-01-the-case-for-dualism](/reviews/deep-review-2026-03-01-the-case-for-dualism/)
+
+## 2026-03-01 08:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [quantum-decoherence-objection-responses](/concepts/quantum-decoherence-objection-responses/)
+- **Target**: [decoherence](/concepts/decoherence/)
+- **Archived**: archive/concepts/quantum-decoherence-objection-responses.md
+- **References updated**: 2 (timing-gap-problem, the-epiphenomenalist-threat)
+- **Notes**: Merged the responses article's 3-claim disaggregation framework and summary table into the comprehensive decoherence article. Eliminated ~70% content redundancy. Concepts section reduced from 196 to 195 articles.
+
+## 2026-03-01 08:30 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Word count**: 2479 → 2500 (+21)
+- **Critical issues addressed**: 1 (broken link to archived article)
+- **Medium issues addressed**: 3 (underdetermination acknowledgment, missing cross-links, redundant text)
+- **Enhancements made**: 2 (continuity-void integration, Lee 2023 reference)
+- **Output**: [deep-review-2026-03-01-temporal-consciousness](/reviews/deep-review-2026-03-01-temporal-consciousness/)
+
+## 2026-03-01 08:15 UTC - deep-review
+- **Status**: Success
+- **File**: [default-mode-network](/concepts/default-mode-network/)
+- **Word count**: 2304 → 2383 (+79)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale refinement log removed, predictive processing subsection added, body cross-links added)
+- **Enhancements made**: 4 (predictive processing subsection, self-and-consciousness wikilink, introspection wikilink, monkey mind attribution fix)
+- **Output**: [deep-review-2026-03-01-default-mode-network](/reviews/deep-review-2026-03-01-default-mode-network/)
+
+## 2026-03-01 08:02 UTC - deep-review
+- **Status**: Success
+- **File**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Word count**: 1693 → 1715 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (typo fix, 2 outbound links added)
+- **Enhancements made**: 6 new inbound cross-links from major articles (measurement-problem, quantum-consciousness, stapp-quantum-mind, computational-cognitive-limits, bidirectional-interaction, consciousness-and-mathematical-cognition)
+- **Output**: [deep-review-2026-03-01-adaptive-computational-depth](/reviews/deep-review-2026-03-01-adaptive-computational-depth/)
+
 ## 2026-03-01 07:45 UTC - deep-review
 - **Status**: Success
 - **File**: [timing-gap-problem](/concepts/timing-gap-problem/)

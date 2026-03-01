@@ -87,7 +87,6 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant here: t
 
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
-- [quantum-decoherence-objection-responses](/concepts/quantum-decoherence-objection-responses/)
 - [decoherence](/concepts/decoherence/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
 - [process-philosophy](/concepts/process-philosophy/)

@@ -481,7 +481,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-22 12:10 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Quantum decoherence objection responses (as "Responding to the Decoherence Objection")
-- **Output**: [quantum-decoherence-objection-responses](/concepts/quantum-decoherence-objection-responses/)
+- **Output**: [quantum-decoherence-objection-responses](/concepts/decoherence/)
 - **Word count**: 1527
 - **Based on research**: yes — [quantum-decoherence-objection-responses-2026-01-15](/research/quantum-decoherence-objection-responses-2026-01-15/), [decoherence-macroscopic-superposition-2026-01-14](/research/decoherence-macroscopic-superposition-2026-01-14/)
 - **Notes**: Placed in concepts/ (topics/ at cap). Distinct from existing decoherence.md by providing meta-analytical structure: disaggregates the objection into three independent claims, maps five independent responses to their targets, and evaluates response strength.

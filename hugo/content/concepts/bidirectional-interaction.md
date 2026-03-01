@@ -79,7 +79,7 @@ Two concrete mechanisms have been proposed:
 
 **[Spontaneous collapse with consciousness modulation](/concepts/spontaneous-collapse-theories/)**: GRW and CSL theories provide baseline collapse that operates consciousness-independently, solving the prebiotic problem. Consciousness then *modulates* these processes in neural systems rather than wholly causing collapse.
 
-All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. The specific [coupling mode](/concepts/coupling-modes/)—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
+All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. This selective actualisation—reality concentrating determination where consciousness attends—is captured by [adaptive computational depth](/concepts/adaptive-computational-depth/), which argues that the allocator of detail must itself be non-computational. The specific [coupling mode](/concepts/coupling-modes/)—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
 For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-coupling](/concepts/psychophysical-laws/). The attention mechanism is currently the most developed, with [voluntary attention](/concepts/attention-as-interface/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 

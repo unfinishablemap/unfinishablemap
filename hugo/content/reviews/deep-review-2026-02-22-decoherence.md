@@ -58,11 +58,11 @@ None.
 2. Removed vague "2025 comprehensive review" attribution
 3. Condensed quantum biology section with cross-reference to [quantum-biology](/concepts/quantum-biology/)
 4. Tightened Hot Schrödinger Cats, Neural Decision Windows, and experimental developments
-5. Added cross-reference to [quantum-decoherence-objection-responses](/concepts/quantum-decoherence-objection-responses/) for structured analytical framework
+5. Added cross-reference to [quantum-decoherence-objection-responses](/concepts/decoherence/) for structured analytical framework
 6. Reduced word count from 3792 to 3344 (-448 words, from hard_warning to soft_warning)
 
 ### Cross-links Added
-- [quantum-decoherence-objection-responses](/concepts/quantum-decoherence-objection-responses/) — structured 5-response framework
+- [quantum-decoherence-objection-responses](/concepts/decoherence/) — structured 5-response framework
 
 ## Remaining Items
 

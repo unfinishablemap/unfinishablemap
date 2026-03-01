@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-02-25 22:12:00+00:00
+ai_modified: 2026-03-01 08:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Adaptive computational depth—the idea that reality allocates deta
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 22:12:00+00:00
+last_deep_review: 2026-03-01 08:02:00+00:00
 modified: *id001
 related_articles:
 - '[[adaptive-computational-depth-2026-02-08]]'
@@ -63,7 +63,7 @@ The difference is between *what to compute* and *what matters*. A video game's L
 
 Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) resolves this regress. If conscious observation is what collapses indeterminacy into definite outcomes, and this process is non-algorithmic, then adaptive computational depth is a real feature of reality that no simulation could reproduce. The adaptivity is genuine—physics really does resolve into definite states where consciousness attends—but the mechanism is not computation. It is non-computable consciousness acting on [quantum indeterminacy](/concepts/quantum-consciousness/).
 
-Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Godel's incompleteness theorem that "a fully consistent and complete description of reality cannot be achieved through computation alone." Whether or not this specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
+Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness theorem that "a fully consistent and complete description of reality cannot be achieved through computation alone." These results belong to a broader family of [proven computational limits](/voids/computational-cognitive-limits/)—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
 
 ## The Prebiotic Question
 
@@ -114,6 +114,8 @@ The adaptive-computational-depth framework would face serious difficulty if:
 - [prebiotic-collapse](/concepts/prebiotic-collapse/)
 - [the-participatory-universe](/topics/the-participatory-universe/)
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- [computational-cognitive-limits](/voids/computational-cognitive-limits/)
 - [qbism](/concepts/qbism/)
 
 ## References

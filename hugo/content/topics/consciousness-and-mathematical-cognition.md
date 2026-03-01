@@ -65,7 +65,7 @@ The argument runs roughly:
 3. No algorithm operating within F can recognise G as true.
 4. Therefore, mathematical understanding involves something non-algorithmic.
 
-These formal results—Gödel's incompleteness, the halting problem, Rice's theorem—constitute [proven limits on computation](/voids/computational-cognitive-limits/) that no algorithmic process can circumvent. The philosophical question is whether consciousness accesses something beyond these limits or shares them.
+These formal results—Gödel's incompleteness, the halting problem, Rice's theorem—constitute [proven limits on computation](/voids/computational-cognitive-limits/) that no algorithmic process can circumvent. Penrose's non-computability argument also undergirds [adaptive computational depth](/concepts/adaptive-computational-depth/): if reality allocates detail where consciousness attends, and consciousness is non-computable, then the allocation mechanism cannot be simulated. The philosophical question is whether consciousness accesses something beyond these limits or shares them.
 
 Critics object that this proves too much or too little. Perhaps mathematicians use some larger system F' to recognise G—but then F' has its own unprovable truth G'. The regress suggests mathematical understanding cannot be captured by *any* fixed algorithm, which is Penrose's point.
 
