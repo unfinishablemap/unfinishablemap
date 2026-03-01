@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-01 10:17 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Historical Consciousness Void
+- **Category**: Mixed (Unexplored + Unexplorable + Occluded)
+- **Output**: [[research/voids-historical-consciousness-void-2026-03-01]]
+- **Key finding**: Multiple serious thinkers argue consciousness itself has changed over historical time; if so, past forms are permanently inaccessible from within current consciousness, and logomorphism (projecting modern consciousness onto the past) may be unavoidable
+
 ## 2026-03-01 09:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-measurement-interpretations-beyond-mwi]]
