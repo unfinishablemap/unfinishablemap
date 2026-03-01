@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-28T12:00:00+00:00
+ai_modified: 2026-03-01T00:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[agent-causation]]"
   - "[[neural-binding-mechanisms]]"
+  - "[[entanglement-binding-hypothesis]]"
 related_articles:
   - "[[tenets]]"
   - "[[binding-problem-consciousness-2026-01-14]]"
@@ -46,7 +47,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-24T08:13:00+00:00
+last_deep_review: 2026-03-01T00:51:00+00:00
 coalesced_from:
   - "/concepts/phenomenal-binding/"
 ---
@@ -63,7 +64,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 **BP2: The Combination Problem** — How do correctly segregated features produce [[unity-of-consciousness|conjoint phenomenology]]—the qualitative "what it is like" of experiencing everything together rather than separately? Even if we fully solve BP1—completely explain how features are computationally bound—we haven't addressed why the bound information is experienced as phenomenally unified. Solving BP1 doesn't solve BP2.
 
-BP2 is the "hard" aspect of binding. As researchers note, "A unified conscious moment with several bits of information presents an apparent physical paradox since it implies that several spatially separate objects exert causal power simultaneously." The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
+BP2 is the "hard" aspect of binding. A unified conscious moment incorporating information from spatially separate brain regions presents a physical puzzle: it implies that several spatially separate processes exert causal power simultaneously as a single whole. The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
 **Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[[multimodal-binding|Cross-modal binding]]** concerns features from different senses. Both are explored in [[perception-and-conscious-experience|perception and conscious experience]], where binding contributes to the unified character of perceptual awareness. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
 
@@ -129,9 +130,9 @@ This explains binding research's frustrating pattern: BP1 solutions keep being p
 
 Classical approaches propose mechanisms where separate processes *interact* or *correlate*—but interaction between distinct entities doesn't make them *one* entity. Correlation is not unity. Quantum mechanics offers something structurally different: entanglement produces systems that cannot be decomposed into separate parts. This is ontological unity, not mere correlation, and it mirrors what phenomenal unity seems to require.
 
-Several quantum binding theories exist. The [[quantum-consciousness|Orch OR theory]] proposes microtubule quantum coherence across neurons; [[stapp-quantum-mind|Stapp's quantum Zeno approach]] proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness selecting among superposed states, differing on substrate. For detailed treatment, see [[quantum-binding-and-phenomenal-unity]].
+Several quantum binding theories exist. The [[quantum-consciousness|Orch OR theory]] proposes microtubule quantum coherence across neurons; [[stapp-quantum-mind|Stapp's quantum Zeno approach]] proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness selecting among superposed states, differing on substrate.
 
-Early experimental results are suggestive but preliminary. Microtubule-stabilising drugs delayed anesthetic-induced unconsciousness in rats (Wiest et al., 2024), and MRI signals consistent with entanglement correlated with waking consciousness (Kerskens & Pérez, 2022). However, both findings have alternative classical explanations, and the Kerskens-Pérez result awaits independent replication. The standard [[decoherence]] objection—that quantum effects are destroyed too fast in warm biological systems—remains contested, with estimates varying by orders of magnitude. See [[quantum-coherence-and-binding-evidence]] for comprehensive treatment.
+The [[entanglement-binding-hypothesis]] develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle—providing the only known physical mechanism that structurally matches phenomenal unity. Early experimental results (Kerskens & Pérez, 2022; Wiest et al., 2024) are consistent with quantum binding but remain preliminary, and the standard [[decoherence]] objection is contested. See [[entanglement-binding-hypothesis]] for the structural argument, experimental evidence, and acknowledged limitations.
 
 The quantum hypothesis is the Map's preferred approach to BP2 because it offers genuine physical holism rather than mere coordination. But it remains speculative, and the Map's core claim—that BP2 is not solved by classical mechanisms—does not depend on any particular quantum theory being correct.
 
@@ -186,8 +187,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[neural-binding-mechanisms]] — Classical and quantum binding mechanisms
 - [[unity-of-consciousness]] — Phenomenal unity and its varieties; binding is the synchronic dimension
 - [[combination-problem]] — How micro-experiences combine into macro-experience
-- [[quantum-binding-and-phenomenal-unity]] — Entanglement as the basis for unity
-- [[quantum-coherence-and-binding-evidence]] — Recent experimental evidence
+- [[entanglement-binding-hypothesis]] — Entanglement as the basis for unity; structural argument and experimental evidence
 - [[split-brain-consciousness]] — Natural experiments on when binding fails
 - [[sleep-and-consciousness]] — Sleep as dissociation between BP1 and BP2
 - [[illusionism]] — The view that phenomenal unity is illusory

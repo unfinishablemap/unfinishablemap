@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review binding-problem.md considering entanglement-binding-hypothesis insights
-- **Type**: cross-review
-- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) provides detailed treatment of how quantum entanglement may solve the phenomenal binding problem (BP2), including recent experimental evidence (Kerskens-Pérez MRI, Wiest epothilone study). concepts/binding-problem.md already references [[quantum-binding-and-phenomenal-unity]] — check whether that wikilink should now point to the new article, and whether the quantum hypothesis section needs updating with experimental details.
-- **Source**: chain (from entanglement-binding-hypothesis.md)
-- **Generated**: 2026-03-01
-
 ### P2: Cross-review quantum-consciousness.md considering amplification-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/amplification-void.md (2026-02-28) examines the structural impossibility of tracing how a quantum-scale nudge reaches macroscopic neural effect — spanning five orders of magnitude through chaotic, decoherence-prone layers. concepts/quantum-consciousness.md surveys candidate mechanisms (Orch OR, Stapp, Fisher) and should acknowledge that any viable mechanism must solve the amplification problem, not bypass it. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction).
@@ -411,6 +405,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-01: Cross-review binding-problem.md considering entanglement-binding-hypothesis insights
+- **Type**: cross-review
+- **Notes**: New article concepts/entanglement-binding-hypothesis.md (2026-03-01) provides detailed treatment of how quantum entanglement may solve the phenomenal binding problem (BP2), including recent experimental evidence (Kerskens-Pérez MRI, Wiest epothilone study). concepts/binding-problem.md already references [[quantum-binding-and-phenomenal-unity]] — check whether that wikilink should now point to the new article, and whether the quantum hypothesis section needs updating with experimental details.
+- **Output**: obsidian/concepts/binding-problem.md -- Context: Cross-review binding-problem.md considering entanglement-binding-hypothesis insights
 
 ### ✓ 2026-03-01: Write article on neural binding and quantum entanglement hypothesis
 - **Type**: expand-topic
