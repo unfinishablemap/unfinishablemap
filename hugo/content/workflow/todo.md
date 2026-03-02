@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-01 22:52:00+00:00
+ai_modified: 2026-03-02 19:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate atemporal-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Concept article (created 2026-02-14) on atemporal causation — relevant to the Map's treatment of retrocausality, time-symmetric collapse, and the metaphysics of time. Add cross-references from retrocausality.md, time-collapse-and-agency.md, philosophy-of-time.md, and causation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-02
+
+### P2: Integrate neural-implementation-specifics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Topics article (created 2026-02-01) on neural implementation specifics — relevant to the Map's treatment of neural correlates, the interface framework, and why implementation details matter for consciousness theories. Add cross-references from neural-correlates.md, consciousness-and-the-brain.md, interface-friction.md, and binding-problem.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-02
+
+### P3: Deep review agency-verification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The agency verification void examines why we cannot verify from the outside whether an agent genuinely exercises agency — relevant to the Map's treatment of consciousness, free will, and the problem of other minds. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-02
+
+### P3: Deep review minimal-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The minimal consciousness void examines the lower boundary of conscious experience — what is the simplest thing that could be conscious? Relevant to the Map's treatment of panpsychism, the combination problem, and consciousness thresholds. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-02
 
 ### P2: Integrate phenomenology-of-trust-and-testimony.md into site navigation
 - **Type**: integrate-orphan
@@ -464,6 +488,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Write voids article on the emotional epistemology void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-emotional-epistemology-void-2026-03-02.md. Chain successor from research-voids task completed 2026-03-02. The emotional epistemology void examines why emotional understanding resists propositional capture — directly relevant to the Map's treatment of phenomenal knowledge and the limits of third-person analysis. Target section: voids/ (1 slot remaining — this is the last available slot before the cap).
+- **Output**: Write voids article on the emotional epistemology void
 
 ### ✓ 2026-03-02: Address uncited attribution and neutrality tension in substance-property-dualism.md
 - **Type**: refine-draft
