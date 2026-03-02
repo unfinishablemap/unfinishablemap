@@ -44,6 +44,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-02
 
+### P2: Integrate quantum-decoherence-objection-responses.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article (created 2026-02-22) responding to the decoherence objection against consciousness-collapse theories — directly supports Tenet 2 (Minimal Quantum Interaction). Add cross-references from decoherence.md, decoherence-and-macroscopic-superposition.md, comparing-quantum-consciousness-mechanisms.md, and collapse-interpretation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-02
+
+### P2: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on consciousness and pain — pain is one of the strongest phenomenological arguments for irreducibility. Add cross-references from why-pain-hurts.md, pain-asymbolia.md, qualia.md, hard-problem-of-consciousness.md, and phenomenal-value-realism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-02
+
+### P2: Integrate phenomenology-of-trust-and-testimony.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on the phenomenology of trust and testimony — relevant to the Map's treatment of first-person evidence and intersubjective knowledge. Add cross-references from phenomenology.md, introspection.md, social-construction-of-self-vs-phenomenal-self.md, and contemplative-epistemology.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-02
+
 ### P3: Deep review intentionality.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 31 days ago. The most-linked concept in the entire vault with 90 inbound links — stale quality here propagates broadly. Touches hard problem, qualia, phenomenology. Verify coherence, cross-references, and tenet alignment.

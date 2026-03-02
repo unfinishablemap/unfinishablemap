@@ -18,6 +18,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 15:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- **Word count**: 2181 → 2180 (-1)
+- **Critical issues addressed**: 2 (misattributed Lieberman et al. → DeWall et al.; misattributed Doerig et al. → Georgiev)
+- **Medium issues addressed**: 1 (uncited working memory claim softened with Tomasello & Herrmann citation)
+- **Enhancements made**: 1 (re-alphabetized references)
+- **Output**: [deep-review-2026-03-02-consciousness-and-intelligence](/reviews/deep-review-2026-03-02-consciousness-and-intelligence/)
+
 ## 2026-03-02 13:52 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
