@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-02-27 08:49:00+00:00
+ai_modified: 2026-03-02 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[intersubjective-void]]'
 - '[[apophatic-approaches]]'
+- '[[consciousness-and-the-problem-of-measurement-standards]]'
 title: The Quantification Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -41,7 +42,7 @@ The Unfinishable Map's [voids](/voids/) framework classifies the quantification 
 
 Every quantitative science begins with units. Temperature has kelvins. Mass has kilograms. Phenomenal experience has nothing. There is no "standard red" against which all reds can be compared, because each comparison is itself a phenomenal experience requiring its own standard. The attempt to establish a unit of consciousness generates an infinite regress: the measuring experience needs measuring.
 
-This is not merely the absence of convention—the kind of gap that existed before the metric system standardised physical measurement. Physical units can be grounded in reproducible phenomena (the freezing point of water, the wavelength of caesium radiation). Phenomenal units would need to be grounded in reproducible experiences, but the reproducibility of an experience can only be verified by further experience. The regress is structural, not practical.
+This is not merely the absence of convention—the kind of gap that existed before the metric system standardised physical measurement. Physical units can be grounded in reproducible phenomena (the freezing point of water, the wavelength of caesium radiation). Phenomenal units would need to be grounded in reproducible experiences, but the reproducibility of an experience can only be verified by further experience. The regress is structural, not practical. As the [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) demonstrates, the entire triad that physical measurement requires—units, instruments, and calibration—breaks down for phenomenal quantities.
 
 ## No External Instrument
 

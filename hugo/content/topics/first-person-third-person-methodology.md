@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-25 01:28:00+00:00
+ai_modified: 2026-03-02 01:52:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -35,6 +35,7 @@ related_articles:
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[introspection-rehabilitation]]'
+- '[[consciousness-and-the-problem-of-measurement-standards]]'
 title: First-Person vs Third-Person Methodology in Consciousness Science
 topics:
 - '[[consciousness]]'
@@ -161,6 +162,7 @@ The Map's position: embrace methodological pluralism (first-person, second-perso
 - [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)—Cross-tradition convergence evidence supporting neurophenomenological integration
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)—What genuine understanding of another person requires beyond third-person knowledge
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)—Systematic recovery of trained introspection's evidential standing
+- [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/)—Why the measurement triad (units, instruments, calibration) breaks down for phenomenal quantities
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-04 09:43:00+00:00
+ai_modified: 2026-03-02 01:52:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[neurophenomenology]]'
 - '[[objectivity-and-consciousness]]'
 - '[[problem-of-other-minds]]'
+- '[[consciousness-and-the-problem-of-measurement-standards]]'
 title: Heterophenomenology
 topics:
 - '[[consciousness]]'
@@ -125,7 +126,7 @@ Three core objections:
 
 The Map can acknowledge heterophenomenology's usefulness as a research tool while rejecting its philosophical framework. Collecting verbal reports systematically, treating them as data requiring explanation, and seeking neural correlates are valuable practices. Neuroscience routinely asks subjects "What do you experience?" and correlates responses with brain activity.
 
-What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [epistemic asymmetry](/topics/first-person-third-person-methodology/#the-explanatory-gap) tracking a real ontological asymmetry.
+What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [epistemic asymmetry](/topics/first-person-third-person-methodology/#the-explanatory-gap) tracking a real ontological asymmetry. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) sharpens this critique: operationally defined "measurements" of consciousness measure neural states, not phenomenal states, and the question of whether those neural proxies track the right thing remains unanswerable from the third-person perspective alone.
 
 Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([phenomenology](/concepts/phenomenology/), [contemplative neuroscience](/concepts/neurophenomenology/#contemplative-science)), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
 
