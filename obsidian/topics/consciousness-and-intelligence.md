@@ -4,8 +4,8 @@ description: "Exploring whether consciousness and intelligence are independent, 
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-05T06:42:00+00:00
-last_deep_review: 2026-01-29T11:34:34+00:00
+ai_modified: 2026-03-02T15:05:00+00:00
+last_deep_review: 2026-03-02T15:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[machine-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-29
 last_curated: null
 ---
@@ -102,13 +102,13 @@ Conversely, intelligence shapes how consciousness can manifest. Richer cognitive
 
 The [[consciousness-as-amplifier|consciousness-as-intelligence-amplifier]] hypothesis draws on comparative cognition to argue that consciousness causally contributes to intelligence. Great apes represent what the Map calls [[baseline-cognition]]—sophisticated neural processing without the full conscious access that humans enjoy.
 
-**Working memory**: Chimpanzee working memory holds approximately 2±1 items; humans hold 7±2. This isn't merely more storage—it's the capacity to simultaneously manipulate multiple representations, enabling comparison, combination, and flexible reasoning.
+**Working memory**: Chimpanzee working memory is substantially more limited than human working memory (Tomasello & Herrmann, 2010). The human capacity of 7±2 items isn't merely more storage—it's the capacity to simultaneously manipulate multiple representations, enabling comparison, combination, and flexible reasoning.
 
 **Metacognition**: Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought.
 
 **Cumulative culture**: Apes have culture but cannot accumulate improvements across generations. They lack the explicit transmission and deliberate modification that cumulative culture requires. Tennie, Call, and Tomasello (2009) describe ape innovations as within the "zone of latent solutions"—discovering what their existing capacities can already produce, rather than building new capacities.
 
-**Logical reasoning**: Empirical research (Lieberman et al. 2008) shows that conscious processing specifically enables rule-based logical reasoning. Disrupting conscious attention impairs logic; disrupting unconscious processes does not.
+**Logical reasoning**: Empirical research (DeWall, Baumeister, & Masicampo, 2008) shows that conscious processing specifically enables rule-based logical reasoning. Disrupting conscious attention impairs logic; disrupting unconscious processes does not.
 
 The pattern is systematic: precisely those capacities that distinguish human from great ape cognition are capacities that appear to require conscious access. The [[consciousness-threshold-in-cognitive-evolution|consciousness threshold]] article develops this pattern in detail, arguing that the ape-human discontinuity marks a phase transition where consciousness becomes sufficiently integrated with neural architecture to transform cognitive capacity. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that this correlation is no accident—consciousness enables these capacities rather than merely accompanying them.
 
@@ -136,7 +136,7 @@ The amplification hypothesis strengthens this argument. If consciousness were [[
 2. Great apes should show no systematic gap in consciousness-requiring capacities.
 3. The correlation between expanded consciousness and expanded intelligence would be coincidental.
 
-None of these predictions hold. The gap tracks consciousness-dependent capacities precisely. A 2024 review in *Neuroscience of Consciousness* states: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
+None of these predictions hold. The gap tracks consciousness-dependent capacities precisely. Georgiev (2024) argues: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
 
 The evolutionary success of consciousness-requiring capacities demonstrates that consciousness has causal effects on behaviour. And if consciousness affects behaviour, it cannot be mere epiphenomenon.
 
@@ -182,9 +182,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against di
 1. Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18, 227-287.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-1. Doerig, A., Schurger, A., & Herzog, M.H. (2024). The function(s) of consciousness: an evolutionary perspective. *Neuroscience of Consciousness*, 2024(1).
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
+1. Georgiev, D.D. (2024). Evolution of Consciousness. *Life*, 14(1), 48.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
