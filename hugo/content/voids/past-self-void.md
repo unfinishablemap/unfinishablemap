@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-01 23:05:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-02 08:53:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[episodic-memory]]'
 - '[[autonoetic-consciousness]]'
 - '[[phenomenology]]'
-- '[[personal-identity]]'
 - '[[introspection]]'
 - '[[qualia]]'
 created: 2026-01-29
@@ -18,7 +17,7 @@ description: Human+AI exploration of why we cannot directly access our own past 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 23:05:00+00:00
+last_deep_review: 2026-03-02 08:53:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,6 +31,7 @@ related_articles:
 title: The Past-Self Void
 topics:
 - '[[hard-problem-of-consciousness]]'
+- '[[personal-identity]]'
 ---
 
 You cannot directly access your own past conscious states—only reconstruct them. When you remember yesterday, you don't re-enter yesterday's mind; you build a present simulation using incomplete traces. Your past self is structurally inaccessible in much the same way other minds are inaccessible: you can infer, imagine, and simulate, but you cannot directly know what it was like to be the "you" of five years ago. This creates a peculiar void: the past self is numerically identical to the present self (by most accounts) yet phenomenologically alien. We are strangers to ourselves across time.
@@ -96,9 +96,9 @@ For the Map's framework, this suggests the past-self void isn't just an epistemi
 
 ## The Buddhist Analysis
 
-Buddhist phenomenology provides the most radical analysis. The teaching of impermanence (*anicca*) holds that "all of conditioned existence, without exception, is transient, evanescent, inconstant." The Buddha reportedly said: "That which is called thought, or mind, or consciousness, continuously, during day and night, arises as one thing, and passes away as another thing."
+Buddhist phenomenology provides the most radical analysis. The teaching of impermanence (*anicca*) holds that all conditioned existence is transient. In the Assutavā Sutta (Samyutta Nikaya 12.61), consciousness is described as arising continuously "as one thing" and passing away "as another thing" through day and night.
 
-On this view, consciousness moment-to-moment is as discontinuous as consciousness lifetime-to-lifetime. "Permanent consciousness" is "a contradiction in terms based on Wrong View." The dynamics between lifetimes is "not very dissimilar from what happens between moments."
+On this view, consciousness moment-to-moment is as discontinuous as consciousness lifetime-to-lifetime. The Theravada tradition holds that permanent consciousness is a contradiction in terms, and that the dynamics between lifetimes are not dissimilar from what happens between moments.
 
 This radicalises the void. If each moment's consciousness is already a different consciousness, then the past-self void operates continuously—we are strangers to ourselves not merely across years but across seconds.
 
@@ -167,4 +167,5 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Stanford Encyclopedia of Philosophy. Memory. https://plato.stanford.edu/entries/memory/
+1. Bodhi, B. (Trans.) (2000). *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Wisdom Publications.
 1. Stanford Encyclopedia of Philosophy. Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/

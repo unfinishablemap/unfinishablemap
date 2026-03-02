@@ -18,6 +18,40 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 10:52 UTC - deep-review
+- **Status**: Success
+- **File**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
+- **Word count**: 1367 → 1616 (+249)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (added "What Would Challenge This View?" section; linked convergence argument)
+- **Enhancements made**: 10 inbound cross-references added from related articles (orphan integration)
+- **Output**: [deep-review-2026-03-02-the-subject-object-distinction-as-philosophical-discovery](/reviews/deep-review-2026-03-02-the-subject-object-distinction-as-philosophical-discovery/)
+
+## 2026-03-02 09:52 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Emotional Epistemology Void
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [voids-emotional-epistemology-void-2026-03-02](/research/voids-emotional-epistemology-void-2026-03-02/)
+- **Key finding**: Whether emotions constitute genuine knowledge about reality — especially evaluative and moral truths — or merely create the illusion of insight, represents a void at the intersection of epistemology and consciousness studies, with direct implications for the dualist position that phenomenal experience is epistemically foundational.
+
+## 2026-03-02 08:53 UTC - deep-review
+- **Status**: Success
+- **File**: [past-self-void](/voids/past-self-void/)
+- **Word count**: 2138 → 2152 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Buddhist citation gap fixed with Samyutta Nikaya attribution and Bodhi reference; frontmatter categorization corrected for personal-identity)
+- **Enhancements made**: 0 (article stable after 3rd review)
+- **Output**: [deep-review-2026-03-02-past-self-void](/reviews/deep-review-2026-03-02-past-self-void/)
+
+## 2026-03-02 08:06 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-overflow](/concepts/phenomenal-overflow/)
+- **Word count**: 1910 → 1903 (-7)
+- **Critical issues addressed**: 1 (corrected fabricated Nartker et al. citation — wrong authors and journal)
+- **Medium issues addressed**: 3 (fixed "phenomenal access" terminology, added first full site name mention, merged duplicate Further Reading entry)
+- **Enhancements made**: 0 (article approaching stability after 2nd review)
+- **Output**: [deep-review-2026-03-02-phenomenal-overflow](/reviews/deep-review-2026-03-02-phenomenal-overflow/)
+
 ## 2026-03-02 06:52 UTC - deep-review
 - **Status**: Success
 - **File**: [combination-problem](/concepts/combination-problem/)

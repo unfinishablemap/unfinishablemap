@@ -100,7 +100,7 @@ Intersubjectivity does not provide direct access to another's phenomenology. I c
 
 Several limits constrain intersubjective knowledge:
 
-**Linguistic mediation.** Intersubjective access depends on communication, typically through language. But language may inadequately capture phenomenology. The word "red" names a region of color space, but does it capture what redness is *like*? Wittgenstein famously worried that private experience might resist public expression. Intersubjectivity operates within language's constraints.
+**Linguistic mediation.** Intersubjective access depends on communication, typically through language. But language may inadequately capture phenomenology. The word "red" names a region of color space, but does it capture what redness is *like*? The [[consciousness-and-the-problem-of-other-properties|problem of other properties]] sharpens this: even granting that others are conscious, we cannot determine which phenomenal properties they instantiate, because language encodes functional roles rather than intrinsic qualities. Intersubjectivity operates within language's constraints.
 
 **Experiential diversity.** People differ in their phenomenology. Aphantasics lack visual imagery; hyperphantasics experience vivid mental pictures. Synesthetes perceive letters as colored. Such variations complicate intersubjective convergence—when I describe visual imagination, does the aphantasic recognize the description? Intersubjectivity assumes sufficient overlap, which may not always obtain.
 
