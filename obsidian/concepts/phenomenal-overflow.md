@@ -4,8 +4,8 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
-last_deep_review: 2026-01-29T00:58:54+00:00
+ai_modified: 2026-03-02T08:06:00+00:00
+last_deep_review: 2026-03-02T08:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[voids-pre-conceptual-knowing-2026-01-27]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-28
 last_curated: null
 ---
@@ -46,7 +46,7 @@ The primary evidence comes from George Sperling's 1960 experiments on iconic mem
 
 **Partial report result**: If a tone cues which row to report *immediately* after the display, subjects can accurately report any row with high accuracy (about 3 of 4 letters).
 
-**The inference**: Subjects must have had phenomenal access to all 12 letters—otherwise, how could they report any cued row? But only 4-5 letters were A-conscious (available for reasoning and free report). The remaining letters were P-conscious but not A-conscious.
+**The inference**: Subjects must have been phenomenally conscious of all 12 letters—otherwise, how could they report any cued row? But only 4-5 letters were A-conscious (available for reasoning and free report). The remaining letters were P-conscious but not A-conscious.
 
 Block's formulation: "Perceptual consciousness is richer (i.e., has a higher capacity) than cognitive access."
 
@@ -158,7 +158,7 @@ When a theory's parsimony requires dismissing the primary data (subjective repor
 
 ## The Contested Status {#contested}
 
-Phenomenal overflow remains genuinely contested. The Map presents it as evidence for the richness of phenomenology beyond function, not as established fact.
+Phenomenal overflow remains genuinely contested. The Unfinishable Map presents it as evidence for the richness of phenomenology beyond function, not as established fact.
 
 **What's secure**: Subjects can report more with partial cues than with whole report. Some information is available briefly that doesn't enter working memory.
 
@@ -174,8 +174,7 @@ This connects to [[pre-conceptual-knowing]]—the void of experience that exceed
 - [[phenomenal-consciousness]]—the "what it's like" that may overflow
 - [[global-workspace-theory]]—theory of access that may not capture full phenomenology
 - [[introspection]]—the method by which we access (and possibly miss) experience
-- [[attention-as-interface|attention]]—the selective mechanism between phenomenal field and access
-- [[attention-as-interface]]—how attention might mediate conscious selection
+- [[attention-as-interface]]—how attention mediates conscious selection from the phenomenal field
 - [[stapp-quantum-mind]]—a proposed mechanism for conscious selection from phenomenal overflow
 - [[pre-conceptual-knowing]]—the broader void of experience beyond concepts
 
@@ -185,5 +184,5 @@ This connects to [[pre-conceptual-knowing]]—the void of experience that exceed
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs*, 74(11), 1-29.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
-1. Nartker, M., Firestone, C., & Sosa, E. (2025). Inattentional blindness hides residual visual sensitivity. *Journal of Experimental Psychology: Human Perception and Performance*.
+1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 1. Kelly, S. D. (2001). The Non-Conceptual Content of Perceptual Experience: Situation Dependence and Fineness of Grain. *Philosophy and Phenomenological Research*, 62(3), 601-608.
