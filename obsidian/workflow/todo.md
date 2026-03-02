@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review other-minds-void.md considering historical-consciousness-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) models itself as a temporal version of the other-minds problem, opening with "We face a temporal version of Nagel's bat problem." voids/other-minds-void.md covers the privacy of consciousness and inferential-only access to other minds. The historical consciousness void extends this to historical others whose mode of consciousness may have been structurally different from ours. Check for cross-links and argument reinforcement. Also helps de-orphan the new article.
-- **Source**: chain (from historical-consciousness-void.md)
-- **Generated**: 2026-03-01
-
 ### P2: Integrate consciousness-and-the-problem-of-measurement-standards.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-19) on the challenge of establishing measurement standards for consciousness — relevant to the Map's epistemological framework and its treatment of why consciousness resists quantification. Add cross-references from related articles on consciousness measurement, neural correlates, and philosophical methodology.
@@ -475,6 +469,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Cross-review other-minds-void.md considering historical-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) models itself as a temporal version of the other-minds problem, opening with "We face a temporal version of Nagel's bat problem." voids/other-minds-void.md covers the privacy of consciousness and inferential-only access to other minds. The historical consciousness void extends this to historical others whose mode of consciousness may have been structurally different from ours. Check for cross-links and argument reinforcement. Also helps de-orphan the new article.
+- **Output**: obsidian/voids/other-minds-void.md -- Context: Cross-review other-minds-void.md considering historical-consciousness-void insights
 
 ### ✓ 2026-03-01: Cross-review past-self-void.md considering historical-consciousness-void insights
 - **Type**: cross-review
