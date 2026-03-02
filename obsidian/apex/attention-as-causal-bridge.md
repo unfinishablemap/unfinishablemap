@@ -4,7 +4,7 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-28T12:00:00+00:00
+ai_modified: 2026-03-02T15:52:00+00:00
 last_deep_review: 2026-02-23T07:35:00+00:00
 draft: false
 topics:
@@ -136,7 +136,7 @@ The attention cluster forms the Map's most detailed answer to the interaction pr
 
 **Structure identifies the locus.** The three-mode architecture pinpoints willed attention as consciousness's contribution. Exogenous and instructed attention operate without genuine selection; willed attention shows neural signatures of something additional entering the process.
 
-**Effort reveals causal work.** The felt cost of sustaining attention is evidence that consciousness does something. Stapp's quantum Zeno mechanism offers one possible explanation, though it faces significant decoherence objections. The phenomenology stands as data regardless of which mechanism ultimately explains it.
+**Effort reveals causal work.** The felt cost of sustaining attention is evidence that consciousness does something. Stapp's quantum Zeno mechanism offers one possible explanation, though it faces significant [[decoherence|decoherence objections]]. The phenomenology stands as data regardless of which mechanism ultimately explains it.
 
 **Economics grounds agency.** If consciousness acts through a bandwidth-limited channel, then freedom is a resource, not a switch. Attentional skill expands agency. Character formation is attentional self-investment. Moral responsibility tracks attentional cultivation.
 
@@ -148,7 +148,7 @@ Together these components outline empirical commitments that evidence can challe
 
 **[[tenets#^dualism|Dualism]]**: The dissociation between attention and consciousness is consistent with their ontological distinctness—though physicalists can read the same evidence as mapping distinct neural circuits. The Map's reading gains force because one side of the dissociation involves the hard problem: phenomenal experience resists the third-person characterisation that resolves other double dissociations. The failure of AST to explain phenomenal consciousness through attention-modeling reinforces the irreducibility of experience.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The attention interface is where the Map locates mind-matter interaction. The quantum Zeno mechanism is one proposed way this might work—consciousness holding neural patterns stable through rapid observation—though it faces decoherence objections that remain unresolved. Whatever the specific mechanism, the ~10 bits/second bandwidth constraint (Meister 2024) limits the scope of conscious intervention to the smallest influence consistent with genuine causal efficacy.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The attention interface is where the Map locates mind-matter interaction. The quantum Zeno mechanism is one proposed way this might work—consciousness holding neural patterns stable through rapid observation—though it faces [[decoherence|decoherence objections]] that remain unresolved. Whatever the specific mechanism, the ~10 bits/second bandwidth constraint (Meister 2024) limits the scope of conscious intervention to the smallest influence consistent with genuine causal efficacy.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The entire attention cluster is an elaboration of this tenet. The return cycle shows bidirectional interaction in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's neuroplasticity evidence shows directed attention producing lasting brain changes. The willed-instructed distinction demonstrates consciousness adding something to neural processing beyond what external cues provide.
 

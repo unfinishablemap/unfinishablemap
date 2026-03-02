@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-02T15:52:00+00:00
 last_deep_review: 2026-02-07T11:51:00+00:00
 draft: false
 topics:
@@ -83,7 +83,7 @@ For detailed specification of how phenomenal properties map to physical paramete
 
 ### The Timing Challenge
 
-A persistent objection concerns timescales: Tegmark (2000) calculated quantum decoherence at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [[timing-gap-problem|timing gap]], a mismatch of twelve orders of magnitude. However, this critique assumed specific superposition sites and separation distances. Revised estimates (Hameroff et al.) suggest 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. More significantly, the quantum Zeno mechanism doesn't require sustained coherence; it operates through discrete observation events at neural timescales (~1000 observations per 300ms window). See [[quantum-neural-timing-constraints]] for the full timing hierarchy.
+A persistent objection concerns timescales: Tegmark (2000) calculated quantum [[decoherence]] at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [[timing-gap-problem|timing gap]], a mismatch of twelve orders of magnitude. However, this critique assumed specific superposition sites and separation distances. Revised estimates (Hameroff et al.) suggest 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. More significantly, the quantum Zeno mechanism doesn't require sustained coherence; it operates through discrete observation events at neural timescales (~1000 observations per 300ms window). See [[quantum-neural-timing-constraints]] for the full timing hierarchy and [[decoherence|the decoherence article]] for five independent responses to the objection.
 
 ## Empirical Support
 

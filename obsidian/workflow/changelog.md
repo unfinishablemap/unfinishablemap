@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 15:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/decoherence]]
+- **Word count**: 3471 → 3472 (+1)
+- **Critical issues addressed**: 1 ("seven orders of magnitude" factual error regression from coalesce)
+- **Medium issues addressed**: 4 (6 cross-references added from other articles, 1 broken wikilink fixed, 2 stale section-anchor links updated)
+- **Enhancements made**: 9 new inbound `[[decoherence]]` links across 6 articles for orphan integration
+- **Output**: [[reviews/deep-review-2026-03-02-decoherence]]
+- **Context**: Orphan integration task for quantum-decoherence-objection-responses.md (coalesced into decoherence.md 2026-03-01)
+
 ## 2026-03-02 15:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-intelligence]]

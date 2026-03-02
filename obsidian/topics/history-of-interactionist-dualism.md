@@ -4,7 +4,7 @@ description: "From Descartes through Princess Elizabeth to quantum mechanics: ho
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-05T01:09:00+00:00
+ai_modified: 2026-03-02T15:52:00+00:00
 last_deep_review: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
@@ -128,7 +128,7 @@ Leibniz's conservation objection rests on assumptions quantum mechanics undermin
 
 Kim's exclusion argument fails if physics is not causally closed at quantum indeterminacies. Where physics specifies probabilities but not outcomes, there is no sufficient physical cause to exclude mental causation.
 
-None of this proves interactionism true. The quantum proposals are speculative, and empirical questions about decoherence remain. But the history demonstrates something important: what counts as "impossible" depends on our physical theories, and physical theories change. The Leibniz argument that seemed to close the question for two centuries depended on assumptions that twentieth-century physics abandoned.
+None of this proves interactionism true. The quantum proposals are speculative, and empirical questions about [[decoherence]] remain. But the history demonstrates something important: what counts as "impossible" depends on our physical theories, and physical theories change. The Leibniz argument that seemed to close the question for two centuries depended on assumptions that twentieth-century physics abandoned.
 
 ## Relation to Site Perspective
 

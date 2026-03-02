@@ -4,7 +4,7 @@ description: "Fundamental principles specifying how conscious states influence w
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-02T15:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,7 @@ Selection laws would face serious difficulty if:
 
 1. **Epiphenomenalism proves defensible.** If a comprehensive account shows consciousness can be causally inert without self-undermining, selection laws become unnecessary.
 
-2. **Quantum mechanisms prove unavailable.** If decoherence in neural tissue is so complete that no indeterminacy survives at relevant scales, quantum selection laws lose their physical basis.
+2. **Quantum mechanisms prove unavailable.** If [[decoherence]] in neural tissue is so complete that no indeterminacy survives at relevant scales, quantum selection laws lose their physical basis.
 
 3. **Many-worlds is confirmed.** If MWI is vindicated, all outcomes occur. "Selection" becomes mere indexical uncertainty—we didn't select which branch, we just find ourselves in one.
 
