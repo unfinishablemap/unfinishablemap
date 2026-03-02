@@ -134,6 +134,7 @@ Agent teleology follows directly from the Map's tenets.
 - [[argument-from-reason]] — Why reasoning requires genuine teleology
 - [[phenomenology-of-choice]] — The first-person experience of acting for reasons
 - [[topics/phenomenal-value-realism]] — Values grounded in experience, not projected onto mechanism
+- [[value-blind-vs-value-sensitive-selection]] — Whether the selection mechanism is itself value-directed or value-neutral
 - [[mysterianism]] — Why the mechanism linking purpose to physics may exceed comprehension
 
 ## References

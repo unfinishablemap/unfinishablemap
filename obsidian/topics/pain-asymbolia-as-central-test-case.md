@@ -116,6 +116,7 @@ What asymbolia discriminates between is not individual theories but *categories*
 - [[global-workspace-theory]] — Consciousness as global information broadcast
 - [[integrated-information-theory]] — Consciousness as integrated information
 - [[explanatory-gap]] — The gap between physical description and phenomenal reality
+- [[value-blind-vs-value-sensitive-selection]] — How asymbolia evidence bears on whether valence enters the selection mechanism
 
 ## References
 

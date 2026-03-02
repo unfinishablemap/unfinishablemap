@@ -1,6 +1,6 @@
-last_updated: '2026-03-02T03:50:57.603380+00:00'
-session_count: 3028
-cycle_position: 2584
+last_updated: '2026-03-02T04:50:57.603987+00:00'
+session_count: 3029
+cycle_position: 2585
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-02-25T14:54:45.888036+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
-  coalesce: '2026-03-02T04:52:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-03-02T04:51:54.148129+00:00'
+  agentic-social: '2026-03-02T05:54:59.456008+00:00'
 last_git_push: '2026-03-02T02:50:57.602832+00:00'
 last_tweet_date: '2026-03-01'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/quantum-measurement-interpretation)
-  type: deep-review
-  date: '2026-03-01'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-03-01'
@@ -127,9 +123,14 @@ recent_tasks:
   type: deep-review
   date: '2026-03-02'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-03-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/specious-present-temporal-experience/
-    date: '2026-03-02T04:51:54.148115+00:00'
+  - url: https://unfinishablemap.org/topics/attention-schema-theory-critique/
+    date: '2026-03-02T05:54:59.455989+00:00'
     topics:
     - hard-problem-of-consciousness
+    - ai-consciousness

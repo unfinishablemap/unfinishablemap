@@ -55,7 +55,7 @@ In control-theoretic terms: the brain is the **plant** (the system being control
 | Disturbance | Competing neural patterns, external stimuli |
 | Setpoint | Agent's intentions, values, goals |
 
-The controller does not need to model the plant in full detail. It needs to observe relevant state variables, compare them against a setpoint, and output a corrective signal. This is precisely what the Map claims consciousness does: it observes (phenomenal experience), compares (deliberation against values), and signals (attentional selection biasing which neural pattern wins).
+The controller does not need to model the plant in full detail. It needs to observe relevant state variables, compare them against a setpoint, and output a corrective signal. This is precisely what the Map claims consciousness does: it observes (phenomenal experience), compares (deliberation against values), and signals (attentional selection biasing which neural pattern wins). Whether the setpoint's value component enters the control law directly—making selection value-sensitive—or operates only through the attentional channel is an [[value-blind-vs-value-sensitive-selection|open question]] with implications for whether the controller is teleological at the mechanism level.
 
 ## Five Control Operations
 

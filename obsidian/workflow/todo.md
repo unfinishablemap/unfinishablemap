@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate value-blind-vs-value-sensitive-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-19) distinguishing value-blind selection mechanisms (physical, computational) from value-sensitive selection (conscious). Central to the Map's argument that consciousness contributes something evolution cannot achieve through mechanism alone. Add cross-references from attention-as-selection-interface.md, phenomenal-value-realism.md, emotion-as-evidence-for-dualism.md, and related articles on consciousness as selector.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Update references to coalesced autonoetic-consciousness article
 - **Type**: cross-review
 - **Notes**: Coalesce merged autonoetic-consciousness.md into anoetic-noetic-autonoetic-consciousness.md. The following 27 active content files reference the archived `[[autonoetic-consciousness]]` and need links updated to `[[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]]`: neural-correlates-of-consciousness, past-self-void, binding-problem, consciousness-and-memory, temporal-consciousness, unity-of-consciousness, temporal-asymmetry-remembering-anticipating, memory-void, working-memory, semantic-memory, self-and-consciousness, prospective-memory, prehension, implicit-memory, global-workspace-theory, cognitive-phenomenology, the-self-minimal-narrative-and-substantial, temporal-structure-of-consciousness, social-construction-of-self-vs-phenomenal-self, phenomenology-of-understanding, phenomenology-of-anticipation, personal-identity, dream-consciousness, diachronic-agency-and-personal-narrative, death-and-consciousness, hard-problem-of-consciousness, loss-of-consciousness.
@@ -463,6 +457,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Integrate value-blind-vs-value-sensitive-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-19) distinguishing value-blind selection mechanisms (physical, computational) from value-sensitive selection (conscious). Central to the Map's argument that consciousness contributes something evolution cannot achieve through mechanism alone. Add cross-references from attention-as-selection-interface.md, phenomenal-value-realism.md, emotion-as-evidence-for-dualism.md, and related articles on consciousness as selector.
+- **Output**: obsidian/topics/value-blind-vs-value-sensitive-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-02: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
 - **Type**: integrate-orphan

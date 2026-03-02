@@ -154,7 +154,7 @@ This resists reductive ethics that would ground value in evolutionary fitness, s
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [[concepts/epiphenomenalism|epiphenomenal]] froth atop a deterministic process. This directly supports [[topics/free-will|libertarian free will]]: genuine choice about value-laden matters requires that consciousness make a difference.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [[concepts/epiphenomenalism|epiphenomenal]] froth atop a deterministic process. This directly supports [[topics/free-will|libertarian free will]]: genuine choice about value-laden matters requires that consciousness make a difference. Whether value enters the selection mechanism directly or operates through attention is an [[value-blind-vs-value-sensitive-selection|open question]] with consequences for how robust this non-epiphenomenality claim is.
 
 ### No Many Worlds
 

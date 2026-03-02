@@ -79,7 +79,7 @@ The [[tenets#^dualism|Dualism]] tenet finds strong support: if the felt badness 
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains empirical backing from asymbolia cases. When the phenomenal property is absent, behavior changes. The felt quality is causally efficacious, not epiphenomenal.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. Consciousness doesn't randomly influence quantum indeterminacies—it does so guided by valenced assessment, choosing among neural possibilities based on anticipated pleasure or pain.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. Consciousness doesn't randomly influence quantum indeterminacies—it does so guided by valenced assessment, choosing among neural possibilities based on anticipated pleasure or pain. Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[value-blind-vs-value-sensitive-selection|unresolved fork]] with distinct consequences for teleology and testability.
 
 ## Further Reading
 
@@ -89,6 +89,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 - [[phenomenal-consciousness]] — The subjective, felt aspect of mental states
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
+- [[value-blind-vs-value-sensitive-selection]] — Whether valence participates directly in selection or operates through attention
 - [[why-pain-hurts]] — Extended treatment of pain and conscious experience
 - [[suffering-versus-pain]] — Why suffering and pain are not the same phenomenon
 - [[normative-phenomenology]] — How phenomenal properties ground normative claims

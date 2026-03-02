@@ -85,7 +85,7 @@ John Eccles proposed that intention modulates quantum tunneling probability in n
 
 **Selection law**: Intention strength → vesicle release probability → action selection.
 
-Three other candidates—valence, qualia, and phenomenal unity—lack developed mechanisms specifying how the mental variable connects to physical selection.
+Three other candidates—valence, qualia, and phenomenal unity—lack developed mechanisms specifying how the mental variable connects to physical selection. The valence case receives extended treatment in [[value-blind-vs-value-sensitive-selection]], which maps the consequences of whether valence directly enters the selection law or operates only through modulating attention.
 
 ## Selection Laws vs. Supervenience Laws
 
