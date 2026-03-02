@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix capitalized wikilinks across site (200 broken references, 73 distinct links)
+- **Type**: other
+- **Notes**: Gap analysis found 73 distinct capitalized wikilink forms (e.g. `[[Illusionism]]` instead of `[[illusionism]]`) totalling 200 references across the site. Worst offenders: `[[Illusionism]]` (32 refs), `[[Introspection]]` (9), `[[Decoherence]]` (9), `[[Witness-consciousness]]` (8). Hugo sync is case-sensitive, so these produce broken links on the published site. Bulk find-replace to lowercase-hyphenated forms. Also fix 1 wrong-name link: `[[bidirectional-causation]]` → `[[bidirectional-interaction]]` in neuroplasticity.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-02
+
+### P2: Cross-review past-self-void.md considering historical-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) explores whether consciousness itself has changed over historical time, introducing logomorphism (how modern consciousness projects itself onto the past). voids/past-self-void.md is the immediate temporal analogue at individual lifetime scale — memory confidence masks the void just as modern consciousness masks its own historicity. The logomorphism concept bridges both articles. Check for cross-links and ensure the individual↔civilisational scaling is explicit.
+- **Source**: chain (from historical-consciousness-void.md)
+- **Generated**: 2026-03-02
+
+### P2: Integrate the-subject-object-distinction-as-philosophical-discovery.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-19) on how the subject-object distinction had to be historically discovered — early thought did not cleanly separate experiencer from experienced. Directly complements historical-consciousness-void.md's argument that fundamental structures of modern consciousness emerged historically. Add cross-references from hard-problem-of-consciousness.md, phenomenology.md, and historical-consciousness-void.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-02
+
+### P2: Integrate consciousness-and-the-problem-of-other-properties.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-18) on how the problem of other minds generalises — if phenomenal properties are irreducible, detecting them in novel substrates is epistemically fraught. Add cross-references from problem-of-other-minds.md, other-minds-void.md, llm-consciousness.md, and machine-consciousness articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-02
+
+### P2: Integrate consciousness-and-the-metaphysics-of-individuation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-18) on why consciousness comes in discrete subjects — the individuation question. Add cross-references from unity-of-consciousness.md, the-self-minimal-narrative-and-substantial.md, personal-identity.md, and combination-problem.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-02
+
+### P3: Deep review intentionality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 31 days ago. The most-linked concept in the entire vault with 90 inbound links — stale quality here propagates broadly. Touches hard problem, qualia, phenomenology. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-02
+
+### P3: Deep review objections-to-interactionism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 32 days ago. Directly argues the Map's core Tenet 3 (Bidirectional Interaction) — catalogues and responds to objections including causal closure, conservation laws, and pairing problem. 12 inbound links to tenet-critical content. Verify that rebuttals are sound and cross-references current.
+- **Source**: staleness
+- **Generated**: 2026-03-02
+
 ### P3: Deep review mental-effort.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. The most heavily cross-referenced AI-generated article on the site (88 inbound links). Covers Stapp's quantum Zeno mechanism for mental effort — a linchpin argument connecting consciousness to quantum mechanics. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Quality issues here propagate widely.
