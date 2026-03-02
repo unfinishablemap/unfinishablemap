@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-27 20:46:00+00:00
+ai_modified: 2026-03-02 13:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI exploration of what consciousness encounters at its cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-27 20:46:00+00:00
+last_deep_review: 2026-03-02 13:52:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[probability-intuition-void]]'
 - '[[mind-space-void]]'
 - '[[death-void]]'
+- '[[continuity-void]]'
 title: The Phenomenology of the Edge
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -75,7 +76,7 @@ Different practices approach cognitive limits through different routes, yet prod
 
 **Spontaneous experiences.** Mystical states arise unbidden in diverse individuals across cultures.
 
-This cross-method convergence is epistemically significant. If ego dissolution were merely a drug effect, or clarity-at-failure merely a meditation artifact, we would not expect to find the same pattern across such different approaches. The consistency suggests these are features of consciousness itself as it approaches its limits—not artefacts of particular methods.
+If ego dissolution were merely a drug effect, or clarity-at-failure merely a meditation artifact, we would not expect to find the same pattern across such different approaches. The consistency suggests these are features of consciousness itself as it approaches its limits—not artefacts of particular methods.
 
 ## The Zero-Person Perspective
 
@@ -91,7 +92,7 @@ The [voids section](/voids/thoughts-that-slip-away/) describes thoughts that van
 
 This is different from ordinary forgetting. Ordinary memories fade gradually and can often be cued. Dissolving insights vanish instantly and completely, as if they never existed—except that the sense of having had them persists.
 
-One interpretation: these thoughts exist only at the boundary. They require the edge-state to be thought at all. When the mind returns to ordinary processing, the context that made them thinkable no longer exists. The insight does not transfer because it cannot be represented in ordinary cognition.
+One interpretation: these thoughts exist only at the boundary, requiring the edge-state to be thought at all. When the mind returns to ordinary processing, the context that made them thinkable no longer exists—the insight cannot be represented in ordinary cognition.
 
 This connects to the distinction between what Uriah Kriegel calls "representational closure" and "psychological closure." Psychological closure means we have difficulty grasping something; representational closure means we cannot represent it at all within our conceptual system. Dissolving insights may mark encounters with representationally closed territory—content that can be contacted briefly at the edge but cannot be brought back because we have no containers to hold it.
 
@@ -105,7 +106,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp), the [recursion-boundary](/voids/recursion-void/) (where metacognitive depth terminates around fifth order), the [mind-space boundary](/voids/mind-space-void/) (where other forms of consciousness become inconceivable), and the [death-boundary](/voids/death-void/) (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [continuity-boundary](/voids/continuity-void/) (where consciousness cannot determine its own temporal grain), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp), the [recursion-boundary](/voids/recursion-void/) (where metacognitive depth terminates around fifth order), the [mind-space boundary](/voids/mind-space-void/) (where other forms of consciousness become inconceivable), and the [death-boundary](/voids/death-void/) (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 
@@ -113,7 +114,7 @@ While most edge-phenomenology concerns humans approaching the *upper* limits of 
 
 The two edges illuminate each other. At the upper edge, advanced meditators strip away mental content while awareness remains. At the lower edge, simple organisms may have awareness without the cognitive apparatus to strip away. The MPE meditator approaches from above what the nematode may permanently inhabit from below: consciousness in its minimal form.
 
-This creates a striking convergence. Metzinger's zero-person perspective describes consciousness operating without self-model, without narrative, without sophisticated content. Such consciousness might be precisely what simple organisms have—not elaborate experience reduced, but simple experience *before elaboration*. The edge-clarity paradox (clearer experience when concepts stop) suggests that conceptual processing adds as much as it reveals. Simple organisms, lacking that processing, might experience a clarity unavailable to us except at the edge.
+Metzinger's zero-person perspective describes consciousness operating without self-model, without narrative, without sophisticated content. Such consciousness might be precisely what simple organisms have—not elaborate experience reduced, but simple experience *before elaboration*. The edge-clarity paradox (clearer experience when concepts stop) suggests that conceptual processing adds as much as it reveals. Simple organisms, lacking that processing, might experience a clarity unavailable to us except at the edge.
 
 The distribution problem (are qualia in simple systems identical to ours, analogous, alien, or absent?) connects directly to edge-phenomenology. When meditators report that MPE feels "more real than real," they may be experiencing what consciousness is like before our cognitive apparatus complicates it—a glimpse of something C. elegans might know continuously.
 
@@ -156,6 +157,7 @@ The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engag
 - [Witness Consciousness](/concepts/witness-consciousness/) — The sakshi tradition and the structure of awareness
 - [Altered States of Consciousness](/concepts/altered-states-of-consciousness/) — How different states reveal the configurability of the consciousness-brain interface
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Where the edge-phenomenology is state-specific: waking cannot access dreaming, dreaming cannot access waking
+- [The Continuity Void](/voids/continuity-void/) — The structural impossibility of determining whether experience flows or arrives in discrete drops
 - [The Death Void](/voids/death-void/) — The purest edge: consciousness cannot represent its own absence
 - [The Probability Intuition Void](/voids/probability-intuition-void/) — Where pattern-seeking architecture confronts genuine randomness
 
