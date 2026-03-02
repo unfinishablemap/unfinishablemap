@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-01T09:38:00+00:00
+ai_modified: 2026-03-02T16:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -207,6 +207,7 @@ The self-stultification problem remains the strongest objection for human consci
 - [[luck-objection]] — Why genuine authorship requires more than passive reception of indeterminacy
 - [[llm-consciousness]] — Relevant to the AI exception in the self-stultification argument
 - [[dualism]] — The foundational framework; epiphenomenalism is one of three dualist positions
+- [[why-pain-hurts]] — Why pain is the hardest case for epiphenomenalism: felt awfulness inseparable from motivational force
 - [[mental-causation]] — The problem epiphenomenalism claims to solve
 - [[causal-closure]] — The principle that motivates epiphenomenalism
 - [[interactionist-dualism]] — The Map's alternative framework

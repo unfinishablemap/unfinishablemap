@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 16:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[consciousness-and-pain]] (archived → [[why-pain-hurts]])
+- **Critical issues addressed**: 0 (archived article, no content changes needed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 12 cross-link instances added to 6 articles (mental-causation, epiphenomenalism, emotional-consciousness, evolutionary-case-for-mental-causation, consciousness-and-causal-powers, qualia) pointing to successor [[why-pain-hurts]]
+- **Output**: [[reviews/deep-review-2026-03-02-consciousness-and-pain]]
+- **Context**: Orphan integration task; archived article superseded by why-pain-hurts
+
 ## 2026-03-02 15:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/decoherence]]

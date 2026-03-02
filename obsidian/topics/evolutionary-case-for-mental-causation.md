@@ -4,7 +4,7 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-07T00:11:00+00:00
+ai_modified: 2026-03-02T16:52:00+00:00
 draft: false
 last_deep_review: 2026-02-05T04:39:00+00:00
 topics:
@@ -70,7 +70,7 @@ The epiphenomenalist must explain this correlation without invoking mental causa
 
 The interactionist has a straightforward answer: pleasures promote the behaviours they accompany *because* the pleasures cause approach behaviour. Pains prevent the behaviours they accompany *because* the pains cause avoidance. The tracking is not coincidental; it reflects causal connection.
 
-Sophisticated epiphenomenalists might respond that neural systems optimized for adaptive behavior would tend to produce corresponding phenomenal states as a byproduct—not by coincidence but by co-optimization. Yet this response faces its own difficulty: it requires that the *specific character* of experiences (why pain feels bad rather than good) tracks biological significance without that character mattering. The neural system must somehow "know" to pair beneficial behaviors with pleasant experiences and harmful ones with unpleasant experiences, even though pleasantness and unpleasantness are supposedly causally inert. The alternative—that phenomenal valence is arbitrary—would predict that some organisms might experience injury as pleasant and feeding as painful, yet still avoid injury and seek food. Such cases are rare but not entirely absent: pain asymbolia patients perceive pain without finding it unpleasant, yet their avoidance behaviours are impaired—which, notably, is what the interactionist predicts if phenomenal valence drives behaviour. Congenital insensitivity to pain, where pain experience is absent entirely, likewise impairs protective behaviour. These clinical cases complicate the picture but arguably support rather than undermine the link between phenomenal character and adaptive function.
+Sophisticated epiphenomenalists might respond that neural systems optimized for adaptive behavior would tend to produce corresponding phenomenal states as a byproduct—not by coincidence but by co-optimization. Yet this response faces its own difficulty: it requires that the *specific character* of experiences (why pain feels bad rather than good) tracks biological significance without that character mattering. The neural system must somehow "know" to pair beneficial behaviors with pleasant experiences and harmful ones with unpleasant experiences, even though pleasantness and unpleasantness are supposedly causally inert. The alternative—that phenomenal valence is arbitrary—would predict that some organisms might experience injury as pleasant and feeding as painful, yet still avoid injury and seek food. Such cases are rare but not entirely absent: pain asymbolia patients perceive pain without finding it unpleasant, yet their avoidance behaviours are impaired—which, notably, is what the interactionist predicts if phenomenal valence drives behaviour (see [[why-pain-hurts]] for the full argument). Congenital insensitivity to pain, where pain experience is absent entirely, likewise impairs protective behaviour. These clinical cases complicate the picture but arguably support rather than undermine the link between phenomenal character and adaptive function.
 
 ### The Elaboration Problem
 
@@ -172,6 +172,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 - [[concepts/epiphenomenalism]] — The position the evolutionary argument challenges
 - [[interactionist-dualism]] — The framework where consciousness has causal power
 - [[evolution-of-consciousness]] — How consciousness might have emerged and developed
+- [[why-pain-hurts]] — Pain as the strongest evidence that phenomenal character tracks adaptive value
 - [[consciousness-and-intelligence]] — The broader relationship between the two
 - [[consciousness-and-the-philosophy-of-biology]] — Why biology's function concepts struggle with consciousness
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: the phenomenological profile that evolution predicts for a causally efficacious consciousness

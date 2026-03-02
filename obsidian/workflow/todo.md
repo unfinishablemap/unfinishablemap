@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-02
 
-### P2: Integrate consciousness-and-pain.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on consciousness and pain — pain is one of the strongest phenomenological arguments for irreducibility. Add cross-references from why-pain-hurts.md, pain-asymbolia.md, qualia.md, hard-problem-of-consciousness.md, and phenomenal-value-realism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-02
-
 ### P2: Integrate phenomenology-of-trust-and-testimony.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-15) on the phenomenology of trust and testimony — relevant to the Map's treatment of first-person evidence and intersubjective knowledge. Add cross-references from phenomenology.md, introspection.md, social-construction-of-self-vs-phenomenal-self.md, and contemplative-epistemology.md.
@@ -475,6 +469,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on consciousness and pain — pain is one of the strongest phenomenological arguments for irreducibility. Add cross-references from why-pain-hurts.md, pain-asymbolia.md, qualia.md, hard-problem-of-consciousness.md, and phenomenal-value-realism.md.
+- **Output**: consciousness-and-pain.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-02: Integrate quantum-decoherence-objection-responses.md into site navigation
 - **Type**: integrate-orphan
