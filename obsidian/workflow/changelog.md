@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 23:41 UTC - research-topic
+- **Status**: Success
+- **Topic**: Asymmetric bandwidth of consciousness
+- **Output**: [[asymmetric-bandwidth-consciousness-2026-03-02]]
+- **Sources consulted**: 9
+
 ## 2026-03-02 22:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[animal-consciousness]]
