@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-02-05T01:09:00+00:00
+ai_modified: 2026-03-02T02:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-01-28T16:06:00+00:00
+last_deep_review: 2026-03-02T02:52:00+00:00
 ---
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means. A 2025 Nature survey found that no single interpretation commands majority support. This matters for consciousness studies: different interpretations have radically different implications for whether consciousness plays any role in physics.
@@ -176,7 +176,7 @@ If consciousness causes collapse at a moment, we face questions about which mome
 
 The [[concepts/many-worlds]] article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness. See also [[many-worlds-argument|Against Many-Worlds]] for the formal argument structure.
 
-The deepest conflict: MWI explicitly denies that consciousness plays any role in physics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds the opposite. The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this incompatibility.
+The deepest conflict: MWI provides no role for consciousness in physics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds the opposite. The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this incompatibility.
 
 ## Implications for the Map's Framework
 
@@ -237,7 +237,6 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 ### Interpretations and Physics
 - [[quantum-probability-consciousness]] — How each interpretation handles Born rule probabilities and the first-person gap
 - [[measurement-problem]] — The problem all interpretations address
-- [[consciousness-and-quantum-measurement]] — Structural parallel between measurement problem and hard problem
 - [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[qbism]] — Agent-centered interpretation that presupposes experience without explaining it
 - [[relational-quantum-mechanics]] — Rovelli's interpretation and why the Map rejects it
@@ -245,6 +244,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 - [[decoherence]] — How environment interaction appears to select outcomes
 
 ### Consciousness-Physics Interface
+- [[prebiotic-collapse]] — What selected quantum outcomes before conscious observers existed
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interface
 - [[quantum-coherence-and-binding-evidence]] — How quantum effects may survive in warm biology
 - [[retrocausality]] — Time-symmetric causation and free will
@@ -259,7 +259,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 
 ## References
 
-1. Nature Physics Survey (August 2025): Physicist interpretations of quantum mechanics
+1. Nature survey (August 2025): Physicists disagree wildly on what quantum mechanics says about reality. *Nature*, 643(8074).
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*.
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*.
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*.
