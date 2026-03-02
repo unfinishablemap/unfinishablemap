@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P0: Research asymmetric bandwidth of consciousness
+- **Type**: research-topic
+- **Notes**: We mention that consciousness has a 'bandwidth' of ~10 bits/second, but that only describes its influence on the physical world (outbound). The inbound bandwidth—the work required to generate conscious experience—is enormous: a rich, vivid, smoothly moving 3D world with colour, sound, emotion, etc. Explore this asymmetry. First produce a research note, then update relevant topics (likely: hard-problem, neural-correlates, interface-friction, binding-problem, and any articles citing the 10 bits/s figure).
+- **Source**: human
+- **Generated**: 2026-03-02
+
 ### P2: Integrate atemporal-causation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Concept article (created 2026-02-14) on atemporal causation — relevant to the Map's treatment of retrocausality, time-symmetric collapse, and the metaphysics of time. Add cross-references from retrocausality.md, time-collapse-and-agency.md, philosophy-of-time.md, and causation.md.
