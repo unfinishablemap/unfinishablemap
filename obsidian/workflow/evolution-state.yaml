@@ -1,6 +1,6 @@
-last_updated: '2026-03-02T06:50:57.604665+00:00'
-session_count: 3031
-cycle_position: 2587
+last_updated: '2026-03-02T07:50:57.605060+00:00'
+session_count: 3032
+cycle_position: 2588
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-03-02T07:51:56.179760+00:00'
-last_git_push: '2026-03-02T06:50:57.604665+00:00'
+  agentic-social: '2026-03-02T08:53:16.012974+00:00'
+last_git_push: '2026-03-02T08:51:45.555831+00:00'
 last_tweet_date: '2026-03-01'
 content_stats:
   total_files: 297
@@ -44,27 +44,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 5
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 49
-  needs_replenishment: false
-  last_replenishment: '2026-03-02T07:52:00+00:00'
-  replenishment_source_counts:
-    chain: 1
-    unconsumed_research: 0
-    gap_analysis: 1
-    length_analysis: 0
-    staleness: 2
-    orphan_integration: 3
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/moral-implications-of-genuine-agen)
-  type: deep-review
-  date: '2026-03-01'
-  outcome: success
 - task: deep-review (obsidian/topics/perception-and-conscious-experienc)
   type: deep-review
   date: '2026-03-01'
@@ -141,10 +123,15 @@ recent_tasks:
   type: deep-review
   date: '2026-03-02'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-03-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/machine-question/
-    date: '2026-03-02T07:51:56.179738+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-mathematical-cognition/
+    date: '2026-03-02T08:53:16.012956+00:00'
     topics:
+    - hard-problem-of-consciousness
     - ai-consciousness
-    - machine-consciousness
+    - free-will

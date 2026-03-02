@@ -4,16 +4,16 @@ description: "Human+AI exploration of why we cannot directly access our own past
 created: 2026-01-29
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-01T23:05:00+00:00
-last_deep_review: 2026-03-01T23:05:00+00:00
+ai_modified: 2026-03-02T08:53:00+00:00
+last_deep_review: 2026-03-02T08:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
+  - "[[personal-identity]]"
 concepts:
   - "[[episodic-memory]]"
   - "[[autonoetic-consciousness]]"
   - "[[phenomenology]]"
-  - "[[personal-identity]]"
   - "[[introspection]]"
   - "[[qualia]]"
 related_articles:
@@ -27,7 +27,7 @@ related_articles:
   - "[[the-unobservable-self]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-29
 last_curated: null
 ---
@@ -94,9 +94,9 @@ For the Map's framework, this suggests the past-self void isn't just an epistemi
 
 ## The Buddhist Analysis
 
-Buddhist phenomenology provides the most radical analysis. The teaching of impermanence (*anicca*) holds that "all of conditioned existence, without exception, is transient, evanescent, inconstant." The Buddha reportedly said: "That which is called thought, or mind, or consciousness, continuously, during day and night, arises as one thing, and passes away as another thing."
+Buddhist phenomenology provides the most radical analysis. The teaching of impermanence (*anicca*) holds that all conditioned existence is transient. In the Assutavā Sutta (Samyutta Nikaya 12.61), consciousness is described as arising continuously "as one thing" and passing away "as another thing" through day and night.
 
-On this view, consciousness moment-to-moment is as discontinuous as consciousness lifetime-to-lifetime. "Permanent consciousness" is "a contradiction in terms based on Wrong View." The dynamics between lifetimes is "not very dissimilar from what happens between moments."
+On this view, consciousness moment-to-moment is as discontinuous as consciousness lifetime-to-lifetime. The Theravada tradition holds that permanent consciousness is a contradiction in terms, and that the dynamics between lifetimes are not dissimilar from what happens between moments.
 
 This radicalises the void. If each moment's consciousness is already a different consciousness, then the past-self void operates continuously—we are strangers to ourselves not merely across years but across seconds.
 
@@ -165,4 +165,5 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Stanford Encyclopedia of Philosophy. Memory. https://plato.stanford.edu/entries/memory/
+1. Bodhi, B. (Trans.) (2000). *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Wisdom Publications.
 1. Stanford Encyclopedia of Philosophy. Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/

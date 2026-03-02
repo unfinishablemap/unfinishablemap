@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-02
 
-### P2: Cross-review past-self-void.md considering historical-consciousness-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) explores whether consciousness itself has changed over historical time, introducing logomorphism (how modern consciousness projects itself onto the past). voids/past-self-void.md is the immediate temporal analogue at individual lifetime scale — memory confidence masks the void just as modern consciousness masks its own historicity. The logomorphism concept bridges both articles. Check for cross-links and ensure the individual↔civilisational scaling is explicit.
-- **Source**: chain (from historical-consciousness-void.md)
-- **Generated**: 2026-03-02
-
 ### P2: Integrate the-subject-object-distinction-as-philosophical-discovery.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-19) on how the subject-object distinction had to be historically discovered — early thought did not cleanly separate experiencer from experienced. Directly complements historical-consciousness-void.md's argument that fundamental structures of modern consciousness emerged historically. Add cross-references from hard-problem-of-consciousness.md, phenomenology.md, and historical-consciousness-void.md.
@@ -493,6 +487,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Cross-review past-self-void.md considering historical-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) explores whether consciousness itself has changed over historical time, introducing logomorphism (how modern consciousness projects itself onto the past). voids/past-self-void.md is the immediate temporal analogue at individual lifetime scale — memory confidence masks the void just as modern consciousness masks its own historicity. The logomorphism concept bridges both articles. Check for cross-links and ensure the individual↔civilisational scaling is explicit.
+- **Output**: obsidian/voids/past-self-void.md -- Context: Cross-review past-self-void.md considering historical-consciousness-void insights
 
 ### ✓ 2026-03-02: Update references to coalesced autonoetic-consciousness article
 - **Type**: cross-review
