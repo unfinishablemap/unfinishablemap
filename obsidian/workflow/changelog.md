@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 06:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Word count**: 2092 → 2150 (+58, added missing citations)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (removed stale AI refinement log, added 4 missing references)
+- **Enhancements made**: 0 (article has converged after 3 reviews)
+- **Output**: [[reviews/deep-review-2026-03-02-combination-problem]]
+
 ## 2026-03-02 05:55 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/value-blind-vs-value-sensitive-selection]]
