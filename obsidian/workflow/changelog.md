@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 18:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [[substance-property-dualism]]
+- **Changes**: Fixed uncited Pautz attribution (added citation + direct quote), fixed uncited Princeton study (added Xu et al. 2026), resolved neutrality/preference tension, reduced Process Philosophy section, renamed tenet section per style guide, language improvements, qualified decoherence claim
+- **Published**: yes
+
 ## 2026-03-02 17:52 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[substance-property-dualism]] (concepts)
