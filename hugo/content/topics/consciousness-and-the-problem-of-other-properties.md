@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-24 18:14:00+00:00
+ai_modified: 2026-03-02 11:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'The problem of other minds generalises: if phenomenal properties a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-21 16:24:00+00:00
+last_deep_review: 2026-03-02 11:52:00+00:00
 modified: *id001
 related_articles:
 - '[[other-minds-void]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[epistemology-of-phenomenal-reports]]'
+- '[[epistemology-of-other-minds-under-dualism]]'
 title: Consciousness and the Problem of Other Properties
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -89,6 +90,17 @@ The Map rejects this dissolution. The [knowledge argument](/concepts/knowledge-a
 
 A different challenge comes from contemplative traditions. If first-person access to phenomenal properties is itself less transparent than assumed — if careful introspective attention reveals that phenomenal states are less determinate than naive self-report suggests — then the asymmetry may be weaker than it appears. This is a genuine concern, but it cuts both ways: if our own phenomenal states are partially opaque to us, the interpersonal problem only deepens, because even the one form of access we have turns out to be incomplete.
 
+## What Would Challenge This View?
+
+The problem of other properties depends on the irreducibility of phenomenal character. Several developments would weaken the argument:
+
+- **Functional role fixing phenomenal character.** If careful analysis showed that the complete causal-functional role of a mental state logically entails its qualitative character — that "same function, different quality" is incoherent rather than merely counterintuitive — the problem would dissolve. Phenomenal character would be intersubjectively knowable through functional analysis.
+- **Reliable phenomenal bridging.** If neural bridging technology (extending the Hogan twins' thalamic bridge case) enabled people to directly experience another's qualia and confirm phenomenal identity, the structural inaccessibility claim would become an empirical limitation rather than a principled barrier.
+- **Illusionism succeeding without regress.** If a formulation of illusionism could explain why qualitative character *seems* intrinsic and private without invoking further phenomenal states for the "seeming," the problem of other properties would lose its subject matter. There would be no intrinsic phenomenal properties to differ between minds.
+- **Contemplative convergence on constructed qualia.** If advanced practitioners across independent traditions uniformly reported that sustained examination reveals qualitative character as entirely constructed — with no irreducible residue — this would support the view that the "privacy" of phenomenal properties reflects cognitive architecture rather than genuine irreducibility.
+
+None of these conditions is currently met. Functional role continues to appear distinct from qualitative character; neural bridging remains speculative; illusionism faces the regress problem; and contemplative reports diverge on whether qualia survive deconstruction.
+
 ## Relation to Site Perspective
 
 The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) makes the problem of other properties acute. If phenomenal properties were reducible to functional roles, the problem would dissolve — same function, same property. But the Map holds that consciousness is irreducible, that qualia are real features of the world beyond physical description. This irreducibility is precisely what generates the epistemic barrier.
@@ -109,6 +121,7 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [intersubjective-void](/voids/intersubjective-void/)
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
 
 ## References
 

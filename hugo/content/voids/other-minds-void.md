@@ -149,6 +149,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
+- [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/) — Even granting other minds, which phenomenal properties do they instantiate?
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What consciousness can access that external observation cannot
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure without intrinsic nature
 - [self-reference-paradox](/voids/self-reference-paradox/) — Why consciousness cannot fully examine itself

@@ -163,6 +163,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 ## Further Reading
 
 ### Site Content
+- [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/) — Even granting other minds exist, which phenomenal properties do they instantiate?
 - [other-minds-void](/voids/other-minds-void/) — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why the "view from nowhere" fails for consciousness
 - [theory-of-mind](/concepts/theory-of-mind/) — Mental state attribution as evidence for other minds

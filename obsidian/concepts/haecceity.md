@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-02-01T05:48:00+00:00
+ai_modified: 2026-03-02T12:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -237,6 +237,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 - [[meaning-of-life]] — Why your particular existence matters
 - [[illusionism]] — The challenge that consciousness itself is illusory
 - [[buddhism-and-dualism]] — Buddhist perspectives on self and consciousness
+- [[consciousness-and-the-metaphysics-of-individuation]] — What draws boundaries around discrete conscious subjects
 - [[attention-as-interface]] — The quantum mechanism for conscious selection
 
 ## References

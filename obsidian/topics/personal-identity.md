@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-24T10:14:00+00:00
+ai_modified: 2026-03-02T12:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -218,6 +218,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[eastern-philosophy-consciousness]] — Process haecceitism: how Buddhist impermanence and indexical identity coexist
 - [[illusionism]] — The challenge that consciousness itself is illusory
 - [[decoherence]] — The quantum coherence objection and responses
+- [[consciousness-and-the-metaphysics-of-individuation]] — The prior question: what makes you a distinct subject at all
 - [[tenets]] — The framework grounding this view
 
 ## References

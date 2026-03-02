@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-25T15:22:00+00:00
+ai_modified: 2026-03-02T12:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,6 +145,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [[specious-present-temporal-experience]] — What constitutes "a moment" of conscious experience
 - [[ownership-void|The Ownership Void]] — Why the for-me-ness of experience hides its own ground
 - [[personal-identity]] — How the self persists over time
+- [[consciousness-and-the-metaphysics-of-individuation]] — What makes this subject a discrete subject at all
 
 ## References
 

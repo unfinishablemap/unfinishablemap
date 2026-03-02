@@ -4,7 +4,7 @@ description: "Particularity without permanence: haecceity applies to experientia
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T03:50:00+00:00
+ai_modified: 2026-03-02T12:52:00+00:00
 last_deep_review: 2026-02-15T03:50:00+00:00
 draft: false
 topics:
@@ -142,6 +142,7 @@ Process haecceitism connects to the Map's [[tenets]] as a supporting concept tha
 - [[parfit-reductionism]] — The pattern-based view that process haecceitism rejects
 - [[self-and-consciousness]] — The minimal self and phenomenology of thisness
 - [[identity-across-transformations]] — Apex synthesis on identity persistence
+- [[consciousness-and-the-metaphysics-of-individuation]] — The broader individuation question process haecceitism addresses
 
 ## References
 

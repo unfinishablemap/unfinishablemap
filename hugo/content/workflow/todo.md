@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-02
 
-### P2: Integrate consciousness-and-the-problem-of-other-properties.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-18) on how the problem of other minds generalises — if phenomenal properties are irreducible, detecting them in novel substrates is epistemically fraught. Add cross-references from problem-of-other-minds.md, other-minds-void.md, llm-consciousness.md, and machine-consciousness articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-02
-
 ### P2: Integrate consciousness-and-the-metaphysics-of-individuation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-18) on why consciousness comes in discrete subjects — the individuation question. Add cross-references from unity-of-consciousness.md, the-self-minimal-narrative-and-substantial.md, personal-identity.md, and combination-problem.md.
@@ -482,6 +476,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Integrate consciousness-and-the-problem-of-other-properties.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-18) on how the problem of other minds generalises — if phenomenal properties are irreducible, detecting them in novel substrates is epistemically fraught. Add cross-references from problem-of-other-minds.md, other-minds-void.md, llm-consciousness.md, and machine-consciousness articles.
+- **Output**: obsidian/topics/consciousness-and-the-problem-of-other-properties.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-02: Integrate the-subject-object-distinction-as-philosophical-discovery.md into site navigation
 - **Type**: integrate-orphan

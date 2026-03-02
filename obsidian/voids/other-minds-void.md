@@ -4,7 +4,7 @@ description: "Each consciousness is sealed within itself, able to infer but neve
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-02T00:52:00+00:00
+ai_modified: 2026-03-02T12:52:00+00:00
 draft: false
 last_deep_review: 2026-03-02T00:52:00+00:00
 topics:
@@ -157,6 +157,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [[historical-consciousness-void]] — Whether consciousness itself has changed across historical time
 - [[calibration-void]] — Why even direct self-access cannot verify its own accuracy
 - [[mysterianism]] — McGinn's analysis of structural cognitive closure
+- [[consciousness-and-the-metaphysics-of-individuation]] — What draws the boundaries between discrete conscious subjects
 
 ## References
 

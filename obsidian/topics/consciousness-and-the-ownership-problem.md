@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-01T04:40:00+00:00
+ai_modified: 2026-03-02T12:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,6 +132,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [[the-unobservable-self]] — Why the owner resists observation
 - [[binding-problem]] — Unity of experience as distinct from ownership of experience
 - [[hard-problem-of-consciousness]] — The prior question ownership presupposes
+- [[consciousness-and-the-metaphysics-of-individuation]] — What makes a subject a discrete subject at all (prior to ownership)
 - [[ownership-void|The Ownership Void]] — Why the ownership mechanism hides from introspection
 - [[witness-consciousness]] — Ownership stripped of narrative content
 - [[parfit-reductionism]] — The reductionist challenge to primitive ownership

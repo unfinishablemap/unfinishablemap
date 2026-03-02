@@ -115,7 +115,7 @@ The relationship goes deeper. Both arguments exploit the explanatory gap—the f
 
 ## The Privacy of Experience
 
-Inverted qualia dramatically illustrate the [problem-of-other-minds](/concepts/problem-of-other-minds/) in its sharpest form. If behavioral and functional identity don't guarantee phenomenal identity, we can never know whether others experience the world as we do.
+Inverted qualia dramatically illustrate the [problem-of-other-minds](/concepts/problem-of-other-minds/) in its sharpest form — what the Map calls the [problem of other properties](/topics/consciousness-and-the-problem-of-other-properties/). If behavioral and functional identity don't guarantee phenomenal identity, we can never know whether others experience the world as we do.
 
 You and I might agree perfectly about color categories, share all aesthetic judgments about art, and find the same color combinations pleasing—yet experience systematically different qualia. Our shared language and behavior hide potentially radical experiential divergence.
 

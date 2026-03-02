@@ -4,7 +4,7 @@ description: "If electrons have micro-experiences, how do billions combine into 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-02T06:52:00+00:00
+ai_modified: 2026-03-02T12:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -188,6 +188,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[topics/free-will]] — Mental causation implications of the interaction alternative
 - [[hard-problem-of-consciousness]] — The problem panpsychism aimed to solve
 - [[qualia]] — What must combine (or not)
+- [[consciousness-and-the-metaphysics-of-individuation]] — The complementary problem: what draws boundaries around discrete subjects
 - [[tenets]] — the Map's foundational commitments
 
 ## References

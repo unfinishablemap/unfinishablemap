@@ -1,19 +1,19 @@
-last_updated: '2026-03-02T10:50:57.606870+00:00'
-session_count: 3035
-cycle_position: 2591
+last_updated: '2026-03-02T11:50:57.607171+00:00'
+session_count: 3036
+cycle_position: 2592
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
-  check-tenets: '2026-02-28T04:44:58.941498+00:00'
-  check-links: '2026-03-01T04:25:20.036366+00:00'
+  check-tenets: '2026-03-02T11:50:57.607171+00:00'
+  check-links: '2026-03-02T11:50:57.607171+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
-  tune-system: '2026-03-02T12:28:00+00:00'
+  tune-system: '2026-03-02T11:50:57.607171+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-02-27T04:44:58.928995+00:00'
-  agentic-social: '2026-03-02T11:52:13.958852+00:00'
+  apex-evolve: '2026-03-02T11:50:57.607171+00:00'
+  agentic-social: '2026-03-02T12:52:25.033251+00:00'
 last_git_push: '2026-03-02T06:50:57.604665+00:00'
 last_tweet_date: '2026-03-02'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/temporal-consciousness.md -- Con)
-  type: deep-review
-  date: '2026-03-01'
-  outcome: success
 - task: expand-topic (Write voids article on the historical consciousnes)
   type: expand-topic
   date: '2026-03-01'
@@ -127,10 +123,14 @@ recent_tasks:
   type: deep-review
   date: '2026-03-02'
   outcome: success
+- task: deep-review (obsidian/topics/consciousness-and-the-problem-of-o)
+  type: deep-review
+  date: '2026-03-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/moral-perception/
-    date: '2026-03-02T11:52:13.958835+00:00'
+  - url: https://unfinishablemap.org/topics/dopamine-and-the-unified-interface/
+    date: '2026-03-02T12:52:25.033234+00:00'
     topics:
-    - ethics-of-consciousness
-    - phenomenology-of-moral-experience
+    - free-will
+    - hard-problem-of-consciousness
