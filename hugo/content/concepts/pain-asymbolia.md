@@ -107,6 +107,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Another route to dissociating pain's dimensions
 - [blindsight](/concepts/blindsight/) — A parallel clinical dissociation supporting dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
+- [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — How asymbolia evidence bears on whether valence participates in selection
 
 ## References
 

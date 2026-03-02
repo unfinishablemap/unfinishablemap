@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 06:52 UTC - deep-review
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Word count**: 2092 → 2150 (+58, added missing citations)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (removed stale AI refinement log, added 4 missing references)
+- **Enhancements made**: 0 (article has converged after 3 reviews)
+- **Output**: [deep-review-2026-03-02-combination-problem](/reviews/deep-review-2026-03-02-combination-problem/)
+
+## 2026-03-02 05:55 UTC - deep-review
+- **Status**: Success
+- **File**: [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)
+- **Word count**: 2309 → 2309 (+0, terminology fix only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (terminology fix, orphan integration)
+- **Enhancements made**: 10 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-03-02-value-blind-vs-value-sensitive-selection](/reviews/deep-review-2026-03-02-value-blind-vs-value-sensitive-selection/)
+
 ## 2026-03-02 04:52 UTC - coalesce
 - **Status**: Success
 - **Sources**: [autonoetic-consciousness](/concepts/autonoetic-consciousness/), [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)

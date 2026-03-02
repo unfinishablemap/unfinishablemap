@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-22 02:21:00+00:00
+ai_modified: 2026-03-02 05:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Does consciousness select outcomes neutrally or guided by valence? 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 02:21:00+00:00
+last_deep_review: 2026-03-02 05:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ If valence is real and causally inert in selection, the Map faces an internal te
 
 This is not full epiphenomenalism. Consciousness remains causally efficacious through attention. But the specifically *evaluative* dimension of consciousness—the dimension the Map claims grounds all value—becomes causally idle in the one mechanism the Map assigns to consciousness. The Map would be saying: consciousness matters because it acts, and value matters because it is felt, but value doesn't matter *in the way consciousness acts*.
 
-The [pain asymbolia evidence](/concepts/valence/#valence-does-causal-work) complicates this further. Patients with intact functional pain processing but absent felt badness behave differently—they don't avoid painful stimuli with normal urgency. If valence is causally inert in selection, this evidence must be explained through a different pathway (perhaps valence modulates attention intensity rather than selection directly). But that would make valence causally relevant to selection after all—pushing toward the other horn.
+The [pain asymbolia evidence](/concepts/valence/#valence-does-causal-work) complicates this further. Patients with intact sensory pain processing but absent felt badness behave differently—they don't avoid painful stimuli with normal urgency. If valence is causally inert in selection, this evidence must be explained through a different pathway (perhaps valence modulates attention intensity rather than selection directly). But that would make valence causally relevant to selection after all—pushing toward the other horn.
 
 ### Testability Hooks for Value-Blind Selection
 

@@ -213,6 +213,7 @@ The self-stultification problem remains the strongest objection for human consci
 - [causal-closure](/concepts/causal-closure/) — The principle that motivates epiphenomenalism
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's alternative framework
 - [language-and-consciousness](/concepts/language-and-consciousness/) — Grice's theory of meaning strengthens the case against epiphenomenalism
+- [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Value-blind selection risks making the evaluative dimension of consciousness epiphenomenal
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Consciousness in simple organisms; challenges the tracking coincidence
 - [epiphenomenalism-2026-01-08](/research/epiphenomenalism-2026-01-08/) — Detailed research notes
 
