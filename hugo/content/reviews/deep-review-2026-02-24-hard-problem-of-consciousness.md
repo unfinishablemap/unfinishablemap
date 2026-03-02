@@ -38,7 +38,7 @@ None. The article remains factually accurate with correct attributions throughou
 - No misattributions, dropped qualifiers, source/Map conflation, or self-contradictions detected
 
 ### Medium Issues Found
-- **Missing autonoetic consciousness cross-link**: The Cognitive Dimension section discussed cognitive phenomenology and working memory but omitted autonoetic consciousness—a newly published concept that directly instantiates the hard problem in memory retrieval. The same biographical information can be accompanied by vivid re-experiencing or bare factual recognition, and no functional account explains the phenomenal difference. **Resolution**: Added autonoetic consciousness paragraph to The Cognitive Dimension section with cross-link to [autonoetic-consciousness](/concepts/autonoetic-consciousness/).
+- **Missing autonoetic consciousness cross-link**: The Cognitive Dimension section discussed cognitive phenomenology and working memory but omitted autonoetic consciousness—a newly published concept that directly instantiates the hard problem in memory retrieval. The same biographical information can be accompanied by vivid re-experiencing or bare factual recognition, and no functional account explains the phenomenal difference. **Resolution**: Added autonoetic consciousness paragraph to The Cognitive Dimension section with cross-link to [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/).
 
 ### Low Issues Found
 - Minor prose redundancy in illusionism paragraph (redundant "user illusion" restatement). **Resolution**: Tightened.
@@ -64,10 +64,10 @@ All six adversarial personas applied. No new counterarguments beyond those addre
 - Tightened Explanatory Gap opening (combined two sentences)
 - Removed redundant transition in C. elegans section
 - Removed redundant sentence in binding problem section
-- Added [autonoetic-consciousness](/concepts/autonoetic-consciousness/) to frontmatter concepts
+- Added [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) to frontmatter concepts
 
 ### Cross-links Added
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) (concepts frontmatter, body text in Cognitive Dimension section)
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (concepts frontmatter, body text in Cognitive Dimension section)
 
 ## Word Count
 

@@ -76,7 +76,7 @@ This is the constructionist's strongest point: phenomenal experience is not raw 
 
 But the overlap has a boundary. Social construction shapes the *content* of self-experience—what you experience yourself as. It does not generate the *structure*—that there is a subject having the experience. The distinction between content and structure maps onto the [three-layered model of selfhood](/topics/the-self-minimal-narrative-and-substantial/): social construction operates at the narrative layer, modifying how the self is understood and expressed. The minimal and substantial layers—the phenomenological bedrock—remain untouched by cultural variation.
 
-Consider [autonoetic consciousness](/concepts/autonoetic-consciousness/)—the capacity to mentally travel through time and experience past and future events from a first-person perspective. Social construction deeply shapes *what* you remember and *how* you narrate your past. But the phenomenal capacity for temporal self-projection—the fact that remembering involves re-experiencing rather than mere data retrieval—is not culturally contingent. It is a feature of consciousness itself.
+Consider [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity to mentally travel through time and experience past and future events from a first-person perspective. Social construction deeply shapes *what* you remember and *how* you narrate your past. But the phenomenal capacity for temporal self-projection—the fact that remembering involves re-experiencing rather than mere data retrieval—is not culturally contingent. It is a feature of consciousness itself.
 
 ## The Dependence Runs One Way
 

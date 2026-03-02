@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 04:52 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/autonoetic-consciousness]], [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Target**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Archived**: archive/concepts/autonoetic-consciousness.md
+- **References to review**: 27 active content files (cross-review task created)
+- **Notes**: Merged focused autonoetic consciousness article (constitutive-contingent debate, three philosophical frameworks, causal efficacy) into the broader tripartite hierarchy article. Concepts section reduced from 195 to 194 articles (cap: 200).
+
 ## 2026-03-02 03:52 UTC - deep-review
 - **Status**: Success (stale file cleanup)
 - **File**: contemplative-evidence-convergence-across-traditions (archived/coalesced)

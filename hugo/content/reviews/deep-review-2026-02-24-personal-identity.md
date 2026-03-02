@@ -71,7 +71,7 @@ The Churchland persona noted that the constitutive view of autonoesis is itself 
 
 ### Cross-links Added
 
-No new cross-links needed—[autonoetic-consciousness](/concepts/autonoetic-consciousness/) already present in concepts frontmatter, inline text, and Further Reading from earlier versions.
+No new cross-links needed—[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) already present in concepts frontmatter, inline text, and Further Reading from earlier versions.
 
 ## Changes Summary
 

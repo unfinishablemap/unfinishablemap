@@ -62,7 +62,7 @@ At any moment, visual, auditory, bodily, and emotional experiences are unified i
 
 ### Diachronic Unity
 
-Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [autonoetic consciousness](/concepts/autonoetic-consciousness/) extends diachronic unity across a lifetime.
+Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends diachronic unity across a lifetime.
 
 ### Subject Unity
 
@@ -159,7 +159,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical and quantum approaches to binding compared
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Unity at the boundaries of experience
 
 ## References

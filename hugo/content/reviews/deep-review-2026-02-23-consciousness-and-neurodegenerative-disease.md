@@ -28,7 +28,7 @@ topics: []
 
 - **Post-mortem claim overstated**: Article claimed "post-mortem examination in some cases revealed brains so severely damaged that the lucid episodes seem neurologically inexplicable." Nahm 2012 is a historical case collection, not modern clinical neuropathology. Another Map article (developmental-trajectory-of-the-interface.md) correctly notes "Terminal lucidity remains anecdotal and poorly studied." **Resolution**: Rewritten to acknowledge anecdotal nature, added Mashour 2019 as the study bringing this into mainstream science, and tempered the post-mortem claim.
 
-- **Broken link**: `[autonoetic-consciousness](/concepts/autonoetic-consciousness/)` pointed to an archived article (superseded by episodic-memory). **Resolution**: Updated to `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` throughout (frontmatter, body, Further Reading).
+- **Broken link**: `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` pointed to an archived article (superseded by episodic-memory). **Resolution**: Updated to `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` throughout (frontmatter, body, Further Reading).
 
 ### Medium Issues Found
 

@@ -25,7 +25,7 @@ topics: []
 
 ### Critical Issues Found
 - **Klein citation error**: Reference listed as "Klein, S. B. (2015)" but the paper was published in 2012 with co-author Shaun Nichols. Corrected to Klein, S. B., & Nichols, S. (2012). *Mind*, 121(483), 677–702.
-- **Archived concept link**: `[autonoetic-consciousness](/concepts/autonoetic-consciousness/)` had been archived (coalesced into `[episodic-memory](/concepts/episodic-memory/)`). Updated all references in frontmatter, body text, and Further Reading to point to `[episodic-memory](/concepts/episodic-memory/)`. Removed duplicate frontmatter entry.
+- **Archived concept link**: `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` had been archived (coalesced into `[episodic-memory](/concepts/episodic-memory/)`). Updated all references in frontmatter, body text, and Further Reading to point to `[episodic-memory](/concepts/episodic-memory/)`. Removed duplicate frontmatter entry.
 
 ### Medium Issues Found
 - **Dropped qualifier "No such explanation is forthcoming"**: Presented the Map's philosophical position as empirical fact. Rewritten to: "What no materialist account has yet explained..." with the Map's stronger claim ("not merely unsolved but unsolvable") clearly attributed as the Map's position. Resolution: applied.
@@ -59,7 +59,7 @@ topics: []
 - Added narrative-coherence cross-link in narrative integration section
 
 ### Cross-links Added
-- [episodic-memory](/concepts/episodic-memory/) (replacing archived [autonoetic-consciousness](/concepts/autonoetic-consciousness/))
+- [episodic-memory](/concepts/episodic-memory/) (replacing archived [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/))
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)

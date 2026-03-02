@@ -100,7 +100,7 @@ Extensionalists model this as overlapping duration-blocks: "if the present thoug
 
 ### Macro-Integration: The Temporal Self
 
-At the broadest scale, [autonoetic-consciousness](/concepts/autonoetic-consciousness/) integrates experience across a lifetime. When you remember your childhood, you don't merely access stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject who lived through that event. This temporal self-continuity requires more than data persistence. It requires a subject who persists across time and recognises earlier experiences as *theirs*.
+At the broadest scale, [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) integrates experience across a lifetime. When you remember your childhood, you don't merely access stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject who lived through that event. This temporal self-continuity requires more than data persistence. It requires a subject who persists across time and recognises earlier experiences as *theirs*.
 
 This is where temporal integration connects to [personal-identity](/topics/personal-identity/). The narrative self—the sense that your experiences form a coherent life story—depends on macro-integration. Without it, you would have experience but not autobiography.
 
@@ -152,7 +152,7 @@ A puzzle: if consciousness selects collapse outcomes, doesn't selection happen a
 
 ### The Felt Asymmetry of Past and Future
 
-Consider yesterday versus tomorrow. The phenomenological difference is striking. Yesterday has settledness—fixed, rememberable, unchangeable. Tomorrow has openness—responsive to what you do now. This asymmetry appears in [mental time travel](/concepts/autonoetic-consciousness/): remembering your graduation involves *inhabiting* the memory with a "feeling of pastness," while imagining next year's holiday feels provisional.
+Consider yesterday versus tomorrow. The phenomenological difference is striking. Yesterday has settledness—fixed, rememberable, unchangeable. Tomorrow has openness—responsive to what you do now. This asymmetry appears in [mental time travel](/concepts/anoetic-noetic-autonoetic-consciousness/): remembering your graduation involves *inhabiting* the memory with a "feeling of pastness," while imagining next year's holiday feels provisional.
 
 If consciousness participates in collapse, and collapse creates irreversible facts, then this asymmetry isn't merely epistemic—it's about what exists. The past is settled because collapse has occurred; the future is open because it hasn't.
 
@@ -243,7 +243,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Information availability theory and temporal gaps
 - [witness-consciousness](/concepts/witness-consciousness/) — Non-agentive modes of conscious presence
 - [binding-problem](/concepts/binding-problem/) — The spatial/feature binding problem and its relation to temporal binding
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem of experiential unity
 - [personal-identity](/topics/personal-identity/) — How temporal integration constitutes the persisting self
 

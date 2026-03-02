@@ -143,7 +143,7 @@ The bidirectional attention-working memory relationship is well-established: att
 
 ## Semantic Retrieval and Working Memory
 
-The maintenance/manipulation distinction illuminates memory retrieval. When you *know* something ("Paris is in France"), retrieval resembles passive maintenance—the fact is available without active work. When you *remember* something (reliving your first day in Paris), retrieval involves active manipulation: binding multimodal features into a coherent scene, manipulating perspective. This maps onto the noetic/[autonoetic](/concepts/autonoetic-consciousness/) distinction in memory research.
+The maintenance/manipulation distinction illuminates memory retrieval. When you *know* something ("Paris is in France"), retrieval resembles passive maintenance—the fact is available without active work. When you *remember* something (reliving your first day in Paris), retrieval involves active manipulation: binding multimodal features into a coherent scene, manipulating perspective. This maps onto the noetic/[autonoetic](/concepts/anoetic-noetic-autonoetic-consciousness/) distinction in memory research.
 
 The tip-of-the-tongue phenomenon exemplifies effortful manipulation: you're actively searching through semantic associates, verifying candidates—consciousness working to assemble a complete representation. See [semantic-memory](/concepts/semantic-memory/) for detailed analysis of how WM operations relate to memory phenomenology.
 

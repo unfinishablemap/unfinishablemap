@@ -78,7 +78,7 @@ topics: []
 ### Cross-links Added
 
 - [attention-as-interface](/concepts/attention-as-interface/) — in Further Reading
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — in Further Reading
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — in Further Reading
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — in Further Reading and related_articles
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — in Further Reading and related_articles
 

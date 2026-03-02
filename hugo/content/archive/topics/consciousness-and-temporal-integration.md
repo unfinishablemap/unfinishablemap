@@ -77,7 +77,7 @@ Extensionalists model this as overlapping duration-blocks: "if the present thoug
 
 ### Macro-Integration: The Temporal Self
 
-At the broadest scale, [autonoetic-consciousness](/concepts/autonoetic-consciousness/) integrates experience across a lifetime. When you remember your childhood, you don't merely access stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject who lived through that event. This temporal self-continuity requires more than data persistence. It requires a subject who persists across time and recognises earlier experiences as *theirs*.
+At the broadest scale, [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) integrates experience across a lifetime. When you remember your childhood, you don't merely access stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject who lived through that event. This temporal self-continuity requires more than data persistence. It requires a subject who persists across time and recognises earlier experiences as *theirs*.
 
 This is where temporal integration connects to [personal-identity](/topics/personal-identity/). The narrative self—the sense that your experiences form a coherent life story—depends on macro-integration. Without it, you would have experience but not autobiography.
 
@@ -158,7 +158,7 @@ Temporal integration connects to the Map's [tenets](/tenets/) through a distinct
 - [duration](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Time, collapse, and conscious agency
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem of experiential unity
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's processual metaphysics
 

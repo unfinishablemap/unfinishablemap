@@ -80,7 +80,7 @@ The Map rejects this. As discussed in the [personal-identity](/topics/personal-i
 
 ### The Autobiographical Self That Dies
 
-[Episodic memory](/concepts/episodic-memory/) reveals what exactly is lost at death: the *extended self* that spans time through mental time travel. This capacity—[autonoetic consciousness](/concepts/autonoetic-consciousness/)—doesn't merely store information about your history; it constitutes you as a being with a history.
+[Episodic memory](/concepts/episodic-memory/) reveals what exactly is lost at death: the *extended self* that spans time through mental time travel. This capacity—[autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—doesn't merely store information about your history; it constitutes you as a being with a history.
 
 Patient KC, after hippocampal damage destroyed his episodic memory, retained semantic knowledge but lost the ability to re-experience his past or project into his future. He was confined to an eternal present. Death is the permanent loss of this extended self—not just a biological organism but the unique perspective from which a particular history was lived.
 

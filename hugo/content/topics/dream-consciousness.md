@@ -75,7 +75,7 @@ Lucid dreaming—becoming aware that one is dreaming while the dream continues�
 
 ### Metacognition and Prefrontal Structure
 
-Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while remaining immersed. This involves [autonoetic awareness](/concepts/autonoetic-consciousness/): the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. Frequent lucid dreamers have **larger anterior prefrontal cortex volume** and **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition (Baird et al., 2018). The trainability of lucid dreaming (through reality testing, mnemonic induction, and other techniques) suggests practice shapes structure, paralleling changes observed in long-term [meditators](/concepts/meditation-and-consciousness-modes/).
+Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while remaining immersed. This involves [autonoetic awareness](/concepts/anoetic-noetic-autonoetic-consciousness/): the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. Frequent lucid dreamers have **larger anterior prefrontal cortex volume** and **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition (Baird et al., 2018). The trainability of lucid dreaming (through reality testing, mnemonic induction, and other techniques) suggests practice shapes structure, paralleling changes observed in long-term [meditators](/concepts/meditation-and-consciousness-modes/).
 
 ### Predictive Processing and Dream Bizarreness
 

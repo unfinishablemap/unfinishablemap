@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[autonoetic-consciousness](/concepts/autonoetic-consciousness/)` pointed to a non-existent file. The actual file is `anoetic-noetic-autonoetic-consciousness.md`. Fixed in frontmatter concepts, body text link, and Further Reading section.
+- **Broken wikilink**: `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` pointed to a non-existent file. The actual file is `anoetic-noetic-autonoetic-consciousness.md`. Fixed in frontmatter concepts, body text link, and Further Reading section.
 
 ### Medium Issues Found
 - **Logically suspect thought experiment** (identical psychological profiles): The claim that two agents with "identical psychological profiles" could differ in narrative coherence is self-defeating if the profiles truly include all relational properties. Resolution: Clarified the comparison uses "identical psychological *elements*" in the narrow Parfitian sense (memories, intentions, traits) while noting that Parfit's framework catalogues elements rather than their integration.
@@ -51,7 +51,7 @@ topics: []
 - Bidirectional interaction argument through narrative revision
 
 ### Enhancements Made
-- Fixed broken `[autonoetic-consciousness](/concepts/autonoetic-consciousness/)` link → `[autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`
+- Fixed broken `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` link → `[autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`
 - Clarified Parfit thought experiment to avoid logical self-defeat
 - Added qualification to conjunction fallacy inference
 - Added no-self/Buddhist engagement paragraph with Map's response

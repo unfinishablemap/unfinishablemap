@@ -54,11 +54,11 @@ The narrative self presupposes the minimal self. One cannot construct a life sto
 
 ## Autonoetic Consciousness and the Temporal Self
 
-Between the minimal self and narrative self lies [autonoetic consciousness](/concepts/autonoetic-consciousness/)—the ability to mentally travel through time. When you remember *your trip* to Paris, you don't just access facts; you re-inhabit the experience from a first-person perspective.
+Between the minimal self and narrative self lies [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the ability to mentally travel through time. When you remember *your trip* to Paris, you don't just access facts; you re-inhabit the experience from a first-person perspective.
 
 This capacity may be constitutive of the temporally extended self. The minimal self provides "for-me-ness" in each moment, but what connects these moments into a person extended through time? Not mere memory storage—when you remember your first day of school, you *re-live* it. The self spanning a lifetime is phenomenologically constituted through mental time travel.
 
-Children don't develop full autonoetic consciousness until age 4-5, explaining childhood amnesia. Buddhist meditation traditions observe that when mental time travel ceases, only the bare minimal self remains—awareness present without temporal extension. See [autonoetic-consciousness](/concepts/autonoetic-consciousness/) for detailed treatment.
+Children don't develop full autonoetic consciousness until age 4-5, explaining childhood amnesia. Buddhist meditation traditions observe that when mental time travel ceases, only the bare minimal self remains—awareness present without temporal extension. See [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) for detailed treatment.
 
 ## Metacognition and the Self
 
@@ -140,7 +140,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing without identifying
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporally extended self
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporally extended self
 - [metacognition](/concepts/metacognition/) — Monitoring one's own mental states
 - [binding-problem](/concepts/binding-problem/) — Unity of experience and its relation to selfhood
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Filter theory and the rendering engine analogy

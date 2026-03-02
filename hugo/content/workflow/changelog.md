@@ -18,6 +18,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 04:52 UTC - coalesce
+- **Status**: Success
+- **Sources**: [autonoetic-consciousness](/concepts/autonoetic-consciousness/), [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Target**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Archived**: archive/concepts/autonoetic-consciousness.md
+- **References to review**: 27 active content files (cross-review task created)
+- **Notes**: Merged focused autonoetic consciousness article (constitutive-contingent debate, three philosophical frameworks, causal efficacy) into the broader tripartite hierarchy article. Concepts section reduced from 195 to 194 articles (cap: 200).
+
+## 2026-03-02 03:52 UTC - deep-review
+- **Status**: Success (stale file cleanup)
+- **File**: contemplative-evidence-convergence-across-traditions (archived/coalesced)
+- **Action**: Deleted stale hugo/content/topics/ copy left behind by 2026-02-22 coalesce into [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **Critical issues addressed**: 1 (stale duplicate page serving alongside archive redirect)
+- **Enhancements made**: 0 (no content review needed — article was coalesced)
+- **Output**: [deep-review-2026-03-02-contemplative-evidence-convergence-across-traditions](/reviews/deep-review-2026-03-02-contemplative-evidence-convergence-across-traditions/)
+
 ## 2026-03-02 02:52 UTC - deep-review
 - **Status**: Success
 - **File**: [quantum-interpretations](/concepts/quantum-interpretations/)

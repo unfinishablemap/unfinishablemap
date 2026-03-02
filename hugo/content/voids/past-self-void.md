@@ -153,7 +153,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [other-minds-void](/voids/other-minds-void/) — The parallel void: other present minds are equally inaccessible
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can reconstruct the past but only imagine the future
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [the-unobservable-self](/voids/the-unobservable-self/) — The present self is also elusive
 - [self-reference-paradox](/voids/self-reference-paradox/) — Structural limits on self-understanding

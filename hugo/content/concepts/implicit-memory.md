@@ -49,7 +49,7 @@ Endel Tulving (1927-2023) distinguished three forms of consciousness associated 
 
 **Noetic consciousness** ("knowing") accompanies [semantic memory](/concepts/semantic-memory/). You are aware of knowing—you know that Paris is in France—but without re-experiencing when you learned it. The fact is simply available.
 
-**Autonoetic consciousness** ("self-knowing") accompanies [episodic memory](/concepts/autonoetic-consciousness/). You don't merely know facts about your past; you mentally travel back and re-experience events, phenomenally present as both current rememberer and past protagonist.
+**Autonoetic consciousness** ("self-knowing") accompanies [episodic memory](/concepts/anoetic-noetic-autonoetic-consciousness/). You don't merely know facts about your past; you mentally travel back and re-experience events, phenomenally present as both current rememberer and past protagonist.
 
 The hierarchy matters: anoetic consciousness provides the phenomenal foundation that higher forms build upon. Even the most automatic action has experiential character, however unreflective. The question is not whether there is experience, but what *kind* of experience accompanies different cognitive modes.
 
@@ -202,7 +202,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) - Extended analysis of choking as evidence for mental causation
 - [voluntary attention](/concepts/attention-as-interface/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
 - [semantic-memory](/concepts/semantic-memory/) - Noetic consciousness and the phenomenology of knowing without re-experiencing
 - [episodic-memory](/concepts/episodic-memory/) - How episodic memory contrasts with implicit memory in Tulving's framework
 - [working-memory](/concepts/working-memory/) - The conscious workspace that interacts with implicit systems

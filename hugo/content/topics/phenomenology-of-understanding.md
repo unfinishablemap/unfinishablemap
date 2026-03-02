@@ -220,7 +220,7 @@ Several findings would weaken PCT:
 - [galilean-exclusion](/concepts/galilean-exclusion/) — Why the scientific method structurally excludes the phenomenal character that understanding exhibits
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — Consciousness-grounded meaning and existential significance
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and narrative integration
+- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and narrative integration
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) — Inference about non-actual scenarios
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — When inference changes what you believe
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property
