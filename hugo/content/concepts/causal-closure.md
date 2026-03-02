@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 05:30:00+00:00
+ai_modified: 2026-03-02 15:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -148,7 +148,7 @@ If consciousness acts at these indeterminacies, it causes physical events withou
 
 Once quantum indeterminacy is recognized as genuine ontological openness rather than ignorance, the closure objection loses its grip. Consciousness acts precisely where physics becomes "silent."
 
-**The decoherence challenge** is serious: critics object that quantum coherence cannot survive in warm biological systems. But decoherence timescales remain disputed, decoherence doesn't solve the measurement problem (something must still select which outcome becomes actual), and the quantum Zeno effect may *sustain* coherence through repeated measurement. See [the decoherence response](/concepts/quantum-consciousness/#the-decoherence-objection) for detailed treatment.
+**The [decoherence challenge](/concepts/decoherence/)** is serious: critics object that quantum coherence cannot survive in warm biological systems. But decoherence timescales remain disputed, [decoherence doesn't solve the measurement problem](/concepts/decoherence/) (something must still select which outcome becomes actual), and the quantum Zeno effect may *sustain* coherence through repeated measurement. See [decoherence](/concepts/decoherence/) for detailed treatment, including five responses targeting different premises of the objection.
 
 This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/). The [connection between the measurement problem and the hard problem](/topics/quantum-measurement-consciousness-interface/) develops it further: both share a structure where third-person descriptions fail to capture first-person facts.
 

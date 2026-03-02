@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-01 05:30:00+00:00
+ai_modified: 2026-03-02 16:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -140,7 +140,7 @@ The [psychophysical-laws](/concepts/psychophysical-laws/) article surveys five c
 
 2. **Intention → probability weighting** (Eccles): Mental intention modulates vesicle release probabilities via quantum tunneling. Moderately developed but faces the pairing problem.
 
-3. **Valence → action selection**: Phenomenal pleasure/pain influences approach/avoidance. Evidence from pain asymbolia supports the causal role of felt badness, but no quantum mechanism proposed.
+3. **Valence → action selection**: Phenomenal pleasure/pain influences approach/avoidance. Evidence from [pain asymbolia](/topics/pain-asymbolia-as-central-test-case/) supports the causal role of felt badness (see [why-pain-hurts](/topics/why-pain-hurts/) for the full argument that phenomenal character and causal power are inseparable in pain), but no quantum mechanism proposed.
 
 4. **Qualia → basis selection**: Qualitative character might determine which measurement basis applies. Purely speculative.
 
@@ -251,6 +251,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation applied to free action
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The distinct challenge of whether the mind-body channel carries enough information
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — Empirical bandwidth data and its philosophical implications
+- [why-pain-hurts](/topics/why-pain-hurts/) — Pain as the paradigm case: phenomenal character inseparable from causal power
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness affects only its own brain

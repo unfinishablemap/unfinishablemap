@@ -18,6 +18,39 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 18:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Changes**: Fixed uncited Pautz attribution (added citation + direct quote), fixed uncited Princeton study (added Xu et al. 2026), resolved neutrality/preference tension, reduced Process Philosophy section, renamed tenet section per style guide, language improvements, qualified decoherence claim
+- **Published**: yes
+
+## 2026-03-02 17:52 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [substance-property-dualism](/concepts/substance-property-dualism/) (concepts)
+- **Issues found**: 2 high, 3 medium, 1 low severity
+- **Key findings**: Uncited Pautz attribution, neutrality/preference tension, Process Philosophy section undermines framework, uncited Princeton study
+- **Output**: [pessimistic-2026-03-02-substance-property-dualism](/reviews/pessimistic-2026-03-02-substance-property-dualism/)
+- **Task created**: P2 refine-draft for substance-property-dualism.md
+
+## 2026-03-02 16:52 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-pain](/topics/why-pain-hurts/) (archived → [why-pain-hurts](/topics/why-pain-hurts/))
+- **Critical issues addressed**: 0 (archived article, no content changes needed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 12 cross-link instances added to 6 articles (mental-causation, epiphenomenalism, emotional-consciousness, evolutionary-case-for-mental-causation, consciousness-and-causal-powers, qualia) pointing to successor [why-pain-hurts](/topics/why-pain-hurts/)
+- **Output**: [deep-review-2026-03-02-consciousness-and-pain](/reviews/deep-review-2026-03-02-consciousness-and-pain/)
+- **Context**: Orphan integration task; archived article superseded by why-pain-hurts
+
+## 2026-03-02 15:52 UTC - deep-review
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Word count**: 3471 → 3472 (+1)
+- **Critical issues addressed**: 1 ("seven orders of magnitude" factual error regression from coalesce)
+- **Medium issues addressed**: 4 (6 cross-references added from other articles, 1 broken wikilink fixed, 2 stale section-anchor links updated)
+- **Enhancements made**: 9 new inbound `[decoherence](/concepts/decoherence/)` links across 6 articles for orphan integration
+- **Output**: [deep-review-2026-03-02-decoherence](/reviews/deep-review-2026-03-02-decoherence/)
+- **Context**: Orphan integration task for quantum-decoherence-objection-responses.md (coalesced into decoherence.md 2026-03-01)
+
 ## 2026-03-02 15:05 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)

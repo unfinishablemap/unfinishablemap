@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-05 01:09:00+00:00
+ai_modified: 2026-03-02 15:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -130,7 +130,7 @@ Leibniz's conservation objection rests on assumptions quantum mechanics undermin
 
 Kim's exclusion argument fails if physics is not causally closed at quantum indeterminacies. Where physics specifies probabilities but not outcomes, there is no sufficient physical cause to exclude mental causation.
 
-None of this proves interactionism true. The quantum proposals are speculative, and empirical questions about decoherence remain. But the history demonstrates something important: what counts as "impossible" depends on our physical theories, and physical theories change. The Leibniz argument that seemed to close the question for two centuries depended on assumptions that twentieth-century physics abandoned.
+None of this proves interactionism true. The quantum proposals are speculative, and empirical questions about [decoherence](/concepts/decoherence/) remain. But the history demonstrates something important: what counts as "impossible" depends on our physical theories, and physical theories change. The Leibniz argument that seemed to close the question for two centuries depended on assumptions that twentieth-century physics abandoned.
 
 ## Relation to Site Perspective
 

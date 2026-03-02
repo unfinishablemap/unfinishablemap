@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 05:30:00+00:00
+ai_modified: 2026-03-02 15:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -147,7 +147,7 @@ Beyond *where* consciousness interfaces with physics, interactionism must specif
 
 ## The Decoherence Objection
 
-Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters significantly; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, decoherence explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting this, the chain from quantum-scale influence to macroscopic neural effect passes through molecular, cellular, and network regimes where chaotic dynamics make the pathway structurally untraceable—the [amplification void](/voids/amplification-void/). The Map takes no position on which quantum mechanism is correct, only that some interface exists.
+Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters significantly; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, [decoherence](/concepts/decoherence/) explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. The [decoherence article](/concepts/decoherence/) disaggregates the objection into three independent claims and surveys five responses targeting different premises. Even granting this, the chain from quantum-scale influence to macroscopic neural effect passes through molecular, cellular, and network regimes where chaotic dynamics make the pathway structurally untraceable—the [amplification void](/voids/amplification-void/). The Map takes no position on which quantum mechanism is correct, only that some interface exists.
 
 ## Agent Causation: The Metaphysical Framework
 
@@ -180,7 +180,7 @@ For comprehensive treatment, see [objections-to-interactionism](/concepts/object
 - **Exclusion**: At quantum indeterminacies, no sufficient physical cause exists to exclude
 - **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious
 - **Evolutionary**: Phenomenal valence tracking fitness *supports* interactionism
-- **Decoherence**: Doesn't solve the measurement problem; consciousness may bias outcomes post-decoherence
+- **[Decoherence](/concepts/decoherence/)**: Doesn't solve the measurement problem; consciousness may bias outcomes post-decoherence
 - **Eliminativism**: Consciousness refers to what we know most directly; eliminativism about *that* is incoherent
 
 ## Relation to the Map's Perspective
@@ -199,7 +199,7 @@ The [evolution of consciousness](/concepts/evolution-of-consciousness/) poses no
 
 ## Assessment
 
-Interactionist dualism faces real challenges: the decoherence objection is empirical, and the mechanism remains partly speculative.
+Interactionist dualism faces real challenges: the [decoherence objection](/concepts/decoherence/) is empirical, and the mechanism remains partly speculative.
 
 But alternatives face worse problems. [Epiphenomenalism](/concepts/epiphenomenalism/) is self-undermining. Identity theory cannot explain why there is something it is like to see red. [Functionalism](/concepts/functionalism/) struggles with absent [qualia](/concepts/qualia/). Interactionism's puzzles are empirical and may yield to investigation; physicalist puzzles are conceptual and show no sign of resolution.
 

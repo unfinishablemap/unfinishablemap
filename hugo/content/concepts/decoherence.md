@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 10:34:00+00:00
+ai_modified: 2026-03-02 15:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: The decoherence objection bundles three independent claims. Five re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 10:34:00+00:00
+last_deep_review: 2026-03-02 15:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ In 2000, physicist Max Tegmark published an influential calculation claiming tha
 
 Hameroff and colleagues challenged Tegmark's analysis on multiple grounds (Hagan et al., 2002). Tegmark addressed a hybrid model rather than actual Orch OR, assumed superposition separations of 24 nanometers instead of the smaller distances the theory specifies, and made questionable assumptions about charge interactions and dielectric constants.
 
-After correcting these parameters, Hameroff's group obtained decoherence times of **10⁻⁵ to 10⁻⁴ seconds** (tens to hundreds of microseconds)—**seven orders of magnitude longer** than Tegmark calculated. Several protective mechanisms may extend coherence further: Debye layer screening from counterions, actin gel ordering that enhances water structure, hydrophobic interior environments, and potential quantum error correction from microtubule lattice geometry. The [four proposed protection mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) may work cumulatively.
+After correcting these parameters, Hameroff's group obtained decoherence times of **10⁻⁵ to 10⁻⁴ seconds** (tens to hundreds of microseconds)—**eight or more orders of magnitude longer** than Tegmark's headline figure. Several protective mechanisms may extend coherence further: Debye layer screening from counterions, actin gel ordering that enhances water structure, hydrophobic interior environments, and potential quantum error correction from microtubule lattice geometry. The [four proposed protection mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) may work cumulatively.
 
 ### Revised Timescale Requirements
 

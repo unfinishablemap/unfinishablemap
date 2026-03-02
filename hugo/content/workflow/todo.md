@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix capitalized wikilinks across site (200 broken references, 73 distinct links)
-- **Type**: other
-- **Notes**: Gap analysis found 73 distinct capitalized wikilink forms (e.g. `[Illusionism](/concepts/illusionism/)` instead of `[illusionism](/concepts/illusionism/)`) totalling 200 references across the site. Worst offenders: `[Illusionism](/concepts/illusionism/)` (32 refs), `[Introspection](/concepts/introspection/)` (9), `[Decoherence](/concepts/decoherence/)` (9), `[Witness-consciousness](/concepts/witness-consciousness/)` (8). Hugo sync is case-sensitive, so these produce broken links on the published site. Bulk find-replace to lowercase-hyphenated forms. Also fix 1 wrong-name link: `bidirectional-causation` → `bidirectional-interaction` in neuroplasticity.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-02
-
-### P2: Integrate quantum-decoherence-objection-responses.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concepts article (created 2026-02-22) responding to the decoherence objection against consciousness-collapse theories — directly supports Tenet 2 (Minimal Quantum Interaction). Add cross-references from decoherence.md, decoherence-and-macroscopic-superposition.md, comparing-quantum-consciousness-mechanisms.md, and collapse-interpretation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-02
-
-### P2: Integrate consciousness-and-pain.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on consciousness and pain — pain is one of the strongest phenomenological arguments for irreducibility. Add cross-references from why-pain-hurts.md, pain-asymbolia.md, qualia.md, hard-problem-of-consciousness.md, and phenomenal-value-realism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-02
-
 ### P2: Integrate phenomenology-of-trust-and-testimony.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-15) on the phenomenology of trust and testimony — relevant to the Map's treatment of first-person evidence and intersubjective knowledge. Add cross-references from phenomenology.md, introspection.md, social-construction-of-self-vs-phenomenal-self.md, and contemplative-epistemology.md.
@@ -482,6 +464,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Address uncited attribution and neutrality tension in substance-property-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2) tension between claiming tenet-neutrality and leaning toward substance dualism, (3) Process Philosophy section undermines article framework without resolution, (4) uncited "2026 Princeton study." See pessimistic-2026-03-02-substance-property-dualism.md
+- **Output**: obsidian/concepts/substance-property-dualism.md
+
+Task context:
+Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2) tension between claiming tenet-neutrality and leaning toward substance dualism, (3) Process Philosophy section undermines article framework without resolution, (4) uncited "2026 Princeton study." See pessimistic-2026-03-02-substance-property-dualism.md
+
+### ✓ 2026-03-02: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on consciousness and pain — pain is one of the strongest phenomenological arguments for irreducibility. Add cross-references from why-pain-hurts.md, pain-asymbolia.md, qualia.md, hard-problem-of-consciousness.md, and phenomenal-value-realism.md.
+- **Output**: consciousness-and-pain.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-02: Integrate quantum-decoherence-objection-responses.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article (created 2026-02-22) responding to the decoherence objection against consciousness-collapse theories — directly supports Tenet 2 (Minimal Quantum Interaction). Add cross-references from decoherence.md, decoherence-and-macroscopic-superposition.md, comparing-quantum-consciousness-mechanisms.md, and collapse-interpretation.md.
+- **Output**: quantum-decoherence-objection-responses.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-02: Review phenomenology-of-the-edge.md considering continuity-void insights
 - **Type**: cross-review
