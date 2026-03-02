@@ -67,7 +67,7 @@ This connects to why the [[hard-problem-of-consciousness|hard problem]] is hard 
 
 ## The Subject-Object Structure
 
-Witness consciousness reveals the inherent subject-object structure of experience: that which experiences (subject), that which is experienced (object), and the experiencing itself. When you observe your thoughts, the thought is object; you are subject. No physical description captures this division.
+Witness consciousness reveals the inherent subject-object structure of experience: that which experiences (subject), that which is experienced (object), and the experiencing itself. When you observe your thoughts, the thought is object; you are subject. No physical description captures this division. The [[the-subject-object-distinction-as-philosophical-discovery|subject-object distinction as philosophical discovery]] traces how this structural feature was uncovered through systematic inquiry—from Descartes' *cogito* through Husserl's phenomenological reduction—and argues it represents a genuine discovery about consciousness rather than a cultural construction.
 
 The subject-object structure provides phenomenological support for [[tenets#^dualism|Dualism]]:
 

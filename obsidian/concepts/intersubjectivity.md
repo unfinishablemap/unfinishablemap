@@ -42,7 +42,7 @@ Intersubjectivity differs fundamentally from objectivity. Objectivity aspires to
 
 Intersubjectivity retains viewpoint. It describes what multiple subjects can access *as subjects*—not by eliminating perspective but by discovering that different perspectives converge. When you describe your experience of red and I recognize the description as matching my experience of red, we achieve intersubjective agreement. Neither of us abandoned our first-person perspective; we found common ground *within* subjectivity.
 
-The distinction matters for consciousness. Third-person neuroscience aspires to objectivity—describing neural correlates without reference to any particular perspective. But phenomenal consciousness *is* perspective. The [[problem-of-other-minds|problem of other minds]] arises precisely because I cannot access your experience from a perspective-free vantage point. Intersubjectivity acknowledges this asymmetry while showing that something can be shared despite it.
+The distinction matters for consciousness. Third-person neuroscience aspires to objectivity—describing neural correlates without reference to any particular perspective. But phenomenal consciousness *is* perspective. The [[the-subject-object-distinction-as-philosophical-discovery|subject-object distinction]]—the irreducible asymmetry between experiencer and experienced—generates the [[problem-of-other-minds|problem of other minds]]: I cannot access your experience from a perspective-free vantage point precisely because the subject resists becoming an object. Intersubjectivity acknowledges this asymmetry while showing that something can be shared despite it.
 
 ## Husserl's Constitution of Intersubjectivity
 
