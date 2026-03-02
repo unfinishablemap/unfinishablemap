@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 03:52 UTC - deep-review
+- **Status**: Success (stale file cleanup)
+- **File**: contemplative-evidence-convergence-across-traditions (archived/coalesced)
+- **Action**: Deleted stale hugo/content/topics/ copy left behind by 2026-02-22 coalesce into [[topics/contemplative-evidence-for-consciousness]]
+- **Critical issues addressed**: 1 (stale duplicate page serving alongside archive redirect)
+- **Enhancements made**: 0 (no content review needed — article was coalesced)
+- **Output**: [[reviews/deep-review-2026-03-02-contemplative-evidence-convergence-across-traditions]]
+
 ## 2026-03-02 02:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-interpretations]]
