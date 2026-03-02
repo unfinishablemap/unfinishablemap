@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 17:52 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[substance-property-dualism]] (concepts)
+- **Issues found**: 2 high, 3 medium, 1 low severity
+- **Key findings**: Uncited Pautz attribution, neutrality/preference tension, Process Philosophy section undermines framework, uncited Princeton study
+- **Output**: [[reviews/pessimistic-2026-03-02-substance-property-dualism]]
+- **Task created**: P2 refine-draft for substance-property-dualism.md
+
 ## 2026-03-02 16:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-pain]] (archived → [[why-pain-hurts]])

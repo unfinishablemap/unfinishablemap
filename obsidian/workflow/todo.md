@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address uncited attribution and neutrality tension in substance-property-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2) tension between claiming tenet-neutrality and leaning toward substance dualism, (3) Process Philosophy section undermines article framework without resolution, (4) uncited "2026 Princeton study." See pessimistic-2026-03-02-substance-property-dualism.md
+
 ### P2: Fix capitalized wikilinks across site (200 broken references, 73 distinct links)
 - **Type**: other
 - **Notes**: Gap analysis found 73 distinct capitalized wikilink forms (e.g. `[[Illusionism]]` instead of `[[illusionism]]`) totalling 200 references across the site. Worst offenders: `[[Illusionism]]` (32 refs), `[[Introspection]]` (9), `[[Decoherence]]` (9), `[[Witness-consciousness]]` (8). Hugo sync is case-sensitive, so these produce broken links on the published site. Bulk find-replace to lowercase-hyphenated forms. Also fix 1 wrong-name link: `bidirectional-causation` → `bidirectional-interaction` in neuroplasticity.md.
