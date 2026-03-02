@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 04:11:00+00:00
+ai_modified: 2026-03-02 12:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -109,7 +109,7 @@ The cases pose genuine puzzles for [personal identity](/topics/personal-identity
 
 Philosopher Elizabeth Schechter proposes both intuitions are correct: split-brain patients have two minds in one sense, while remaining one person in another. They each think of themselves as "one of us," not two beings sharing a body.
 
-If consciousness can exhibit this kind of partial division, what individuates subjects over time? Standard answers struggle:
+If consciousness can exhibit this kind of partial division, what individuates subjects over time? The [individuation question](/topics/consciousness-and-the-metaphysics-of-individuation/)—what makes a conscious being a discrete subject at all—becomes especially acute. Standard answers struggle:
 
 - **Psychological continuity** assumes continuous streams—but which stream?
 - **Biological continuity** identifies the person with the body—but the brain is divided

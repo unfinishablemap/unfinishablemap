@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-01 03:10:00+00:00
+ai_modified: 2026-03-02 12:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -66,7 +66,7 @@ Experience flows through time. When you hear a melody, successive notes unify in
 
 ### Subject Unity
 
-All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [minimal self](/concepts/self-and-consciousness/)—basic first-person givenness or "for-me-ness"—may be constitutive of subject unity rather than an additional feature added to consciousness.
+All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [minimal self](/concepts/self-and-consciousness/)—basic first-person givenness or "for-me-ness"—may be constitutive of subject unity rather than an additional feature added to consciousness. The deeper question of what makes *this* subject a discrete subject at all—why consciousness comes in bounded units—is the [metaphysics of individuation](/topics/consciousness-and-the-metaphysics-of-individuation/).
 
 ## Phenomenal Unity and Conjoint Phenomenology
 

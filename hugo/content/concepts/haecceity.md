@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-01 05:48:00+00:00
+ai_modified: 2026-03-02 12:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -239,6 +239,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 - [meaning-of-life](/topics/meaning-of-life/) — Why your particular existence matters
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self and consciousness
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What draws boundaries around discrete conscious subjects
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum mechanism for conscious selection
 
 ## References

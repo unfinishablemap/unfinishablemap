@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-02 00:52:00+00:00
+ai_modified: 2026-03-02 12:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -159,6 +159,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed across historical time
 - [calibration-void](/voids/calibration-void/) — Why even direct self-access cannot verify its own accuracy
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of structural cognitive closure
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What draws the boundaries between discrete conscious subjects
 
 ## References
 

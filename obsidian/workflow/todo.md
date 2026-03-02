@@ -428,12 +428,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [[reviews/optimistic-2026-03-01]]
 - **Generated**: 2026-03-01
 
-### P2: Review phenomenology-of-the-edge.md considering continuity-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/continuity-void.md (2026-03-01) identifies moments where continuity breaks down — sleep onset, anaesthetic fade, deep absorption — as edges where the stream of consciousness reveals its construction. voids/phenomenology-of-the-edge.md explores what consciousness encounters at its cognitive boundaries. The continuity void's treatment of temporal edges as phenomenologically accessible complements the edge phenomenology's broader catalogue of boundary experiences. Check for cross-links and complementary analysis. Supports Tenet 1 (Dualism).
-- **Source**: chain (from continuity-void.md)
-- **Generated**: 2026-03-01
-
 ### P3: Write article on the metaproblem of consciousness under dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -469,6 +463,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Review phenomenology-of-the-edge.md considering continuity-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/continuity-void.md (2026-03-01) identifies moments where continuity breaks down — sleep onset, anaesthetic fade, deep absorption — as edges where the stream of consciousness reveals its construction. voids/phenomenology-of-the-edge.md explores what consciousness encounters at its cognitive boundaries. The continuity void's treatment of temporal edges as phenomenologically accessible complements the edge phenomenology's broader catalogue of boundary experiences. Check for cross-links and complementary analysis. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Review phenomenology-of-the-edge.md considering continuity-void insights
 
 ### ✓ 2026-03-02: Integrate consciousness-and-the-metaphysics-of-individuation.md into site navigation
 - **Type**: integrate-orphan

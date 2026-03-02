@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-25 15:22:00+00:00
+ai_modified: 2026-03-02 12:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -147,6 +147,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/) — What constitutes "a moment" of conscious experience
 - [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [personal-identity](/topics/personal-identity/) — How the self persists over time
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes this subject a discrete subject at all
 
 ## References
 

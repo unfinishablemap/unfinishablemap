@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-01 04:40:00+00:00
+ai_modified: 2026-03-02 12:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -135,6 +135,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the owner resists observation
 - [binding-problem](/concepts/binding-problem/) — Unity of experience as distinct from ownership of experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The prior question ownership presupposes
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes a subject a discrete subject at all (prior to ownership)
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership mechanism hides from introspection
 - [witness-consciousness](/concepts/witness-consciousness/) — Ownership stripped of narrative content
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The reductionist challenge to primitive ownership

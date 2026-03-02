@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-02 06:52:00+00:00
+ai_modified: 2026-03-02 12:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -191,6 +191,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [free-will](/topics/free-will/) — Mental causation implications of the interaction alternative
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary problem: what draws boundaries around discrete subjects
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

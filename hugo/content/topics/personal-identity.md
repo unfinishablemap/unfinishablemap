@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-24 10:14:00+00:00
+ai_modified: 2026-03-02 12:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -220,6 +220,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Process haecceitism: how Buddhist impermanence and indexical identity coexist
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory
 - [decoherence](/concepts/decoherence/) — The quantum coherence objection and responses
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The prior question: what makes you a distinct subject at all
 - [tenets](/tenets/) — The framework grounding this view
 
 ## References
