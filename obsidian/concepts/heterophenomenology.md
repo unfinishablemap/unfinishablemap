@@ -4,7 +4,7 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-02-04T09:43:00+00:00
+ai_modified: 2026-03-02T01:52:00+00:00
 last_deep_review: 2026-02-01T15:50:00+00:00
 draft: false
 topics:
@@ -22,6 +22,7 @@ related_articles:
   - "[[neurophenomenology]]"
   - "[[objectivity-and-consciousness]]"
   - "[[problem-of-other-minds]]"
+  - "[[consciousness-and-the-problem-of-measurement-standards]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -123,7 +124,7 @@ Three core objections:
 
 The Map can acknowledge heterophenomenology's usefulness as a research tool while rejecting its philosophical framework. Collecting verbal reports systematically, treating them as data requiring explanation, and seeking neural correlates are valuable practices. Neuroscience routinely asks subjects "What do you experience?" and correlates responses with brain activity.
 
-What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [[first-person-third-person-methodology#The Explanatory Gap|epistemic asymmetry]] tracking a real ontological asymmetry.
+What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [[first-person-third-person-methodology#The Explanatory Gap|epistemic asymmetry]] tracking a real ontological asymmetry. The [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] sharpens this critique: operationally defined "measurements" of consciousness measure neural states, not phenomenal states, and the question of whether those neural proxies track the right thing remains unanswerable from the third-person perspective alone.
 
 Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([[phenomenology]], [[neurophenomenology#Contemplative Science|contemplative neuroscience]]), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
 

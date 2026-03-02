@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-the-problem-of-measurement-standards.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-19) on the challenge of establishing measurement standards for consciousness — relevant to the Map's epistemological framework and its treatment of why consciousness resists quantification. Add cross-references from related articles on consciousness measurement, neural correlates, and philosophical methodology.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-01
-
 ### P2: Integrate contemplative-evidence-convergence-across-traditions.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-19) on how contemplative evidence converges across distinct traditions — directly relevant to the Map's use of cross-traditional phenomenological data as evidence for consciousness's nature. Add cross-references from contemplative-methods-as-philosophical-methodology.md, witness-consciousness.md, buddhism-and-dualism.md, and related contemplative articles.
@@ -469,6 +463,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Integrate consciousness-and-the-problem-of-measurement-standards.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-19) on the challenge of establishing measurement standards for consciousness — relevant to the Map's epistemological framework and its treatment of why consciousness resists quantification. Add cross-references from related articles on consciousness measurement, neural correlates, and philosophical methodology.
+- **Output**: obsidian/topics/consciousness-and-the-problem-of-measurement-standards.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-02: Cross-review other-minds-void.md considering historical-consciousness-void insights
 - **Type**: cross-review

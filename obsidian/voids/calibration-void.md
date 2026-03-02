@@ -4,7 +4,7 @@ description: "Human+AI exploration of why introspection—our only direct access
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T02:38:00+00:00
+ai_modified: 2026-03-02T01:52:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[the-unobservable-self]]"
   - "[[destabilizing-self-knowledge]]"
+  - "[[consciousness-and-the-problem-of-measurement-standards]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -47,7 +48,7 @@ Matthias Michel formalised the calibration problem in 2021: consciousness detect
 
 Michel distinguishes two calibration strategies: concordance calibration (comparing two independent measurement procedures) and model calibration (building a model of the measurement procedure itself). Both face the same obstacle. Concordance calibration requires a second, independent way to detect consciousness, but every candidate method ultimately relies on introspective validation. Model calibration requires understanding how introspection works, but testing that model requires introspective data whose accuracy is precisely what is in question.
 
-Michel argues that statistical tools from Signal Detection Theory provide partial solutions, and McKilliam (2025) proposes that natural kind reasoning can detect specific introspective errors. These responses have merit for particular cases—they can identify response biases and catch inconsistencies. But they calibrate the reporting process, not the phenomenal access underlying it. The deeper question—whether introspection tracks consciousness accurately at all—remains structurally unanswerable.
+Michel argues that statistical tools from Signal Detection Theory provide partial solutions, and McKilliam (2025) proposes that natural kind reasoning can detect specific introspective errors. These responses have merit for particular cases—they can identify response biases and catch inconsistencies. But they calibrate the reporting process, not the phenomenal access underlying it. The deeper question—whether introspection tracks consciousness accurately at all—remains structurally unanswerable. This calibration failure is part of the broader [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]]: consciousness resists not just calibration but the entire triad of units, instruments, and calibration that physical measurement requires.
 
 ## Epistemic Circularity
 

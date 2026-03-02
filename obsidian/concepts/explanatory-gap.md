@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-28T04:46:00+00:00
+ai_modified: 2026-03-02T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[measurement-problem-as-hard-problem]]"
   - "[[explanatory-void]]"
   - "[[metaphysics-of-information-under-dualism]]"
+  - "[[consciousness-and-the-problem-of-measurement-standards]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -203,6 +204,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[explanatory-void]] — Why explanation cannot explain itself: the recursive opacity that compounds the gap
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — How the gap constrains what we can know about the consciousness-matter interface
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide as an informational framing of the gap
+- [[consciousness-and-the-problem-of-measurement-standards]] — Why the gap extends to measurement itself: no units, instruments, or calibration for phenomenal quantities
 
 ## References
 
