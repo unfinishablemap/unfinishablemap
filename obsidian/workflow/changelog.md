@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-02 09:52 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Emotional Epistemology Void
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [[research/voids-emotional-epistemology-void-2026-03-02]]
+- **Key finding**: Whether emotions constitute genuine knowledge about reality — especially evaluative and moral truths — or merely create the illusion of insight, represents a void at the intersection of epistemology and consciousness studies, with direct implications for the dualist position that phenomenal experience is epistemically foundational.
+
 ## 2026-03-02 08:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/past-self-void]]
