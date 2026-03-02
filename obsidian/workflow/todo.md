@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the emotional epistemology void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-emotional-epistemology-void-2026-03-02.md. Chain successor from research-voids task completed 2026-03-02. The emotional epistemology void examines why emotional understanding resists propositional capture — directly relevant to the Map's treatment of phenomenal knowledge and the limits of third-person analysis. Target section: voids/ (1 slot remaining — this is the last available slot before the cap).
-- **Source**: chain (from research-voids 2026-03-02)
-- **Generated**: 2026-03-02
-
 ### P2: Integrate atemporal-causation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Concept article (created 2026-02-14) on atemporal causation — relevant to the Map's treatment of retrocausality, time-symmetric collapse, and the metaphysics of time. Add cross-references from retrocausality.md, time-collapse-and-agency.md, philosophy-of-time.md, and causation.md.
@@ -493,6 +487,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-02: Write voids article on the emotional epistemology void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-emotional-epistemology-void-2026-03-02.md. Chain successor from research-voids task completed 2026-03-02. The emotional epistemology void examines why emotional understanding resists propositional capture — directly relevant to the Map's treatment of phenomenal knowledge and the limits of third-person analysis. Target section: voids/ (1 slot remaining — this is the last available slot before the cap).
+- **Output**: Write voids article on the emotional epistemology void
 
 ### ✓ 2026-03-02: Address uncited attribution and neutrality tension in substance-property-dualism.md
 - **Type**: refine-draft

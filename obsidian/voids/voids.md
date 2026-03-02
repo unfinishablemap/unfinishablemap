@@ -72,6 +72,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
 - [[synesthetic-void|The Synesthetic Void]] — Phenomenal dimensions closed to most minds within our own species
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
+- [[emotional-epistemology-void|The Emotional Epistemology Void]] — Whether emotions constitute genuine knowledge about reality
 - [[valence-void|The Valence Void]] — Why experience has a built-in good/bad dimension
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
 - [[memory-void|The Memory Void]] — Whether past qualia can be recovered or are lost forever
