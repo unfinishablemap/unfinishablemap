@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-01T08:01:12.344603'
+ai_modified: '2026-03-02T08:51:43.921603'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-01'
+modified: '2026-03-02'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-02: Do You See More Than You Can Say?
+
+Ned Block's phenomenal overflow argues we experience far more than we can report. If consciousness exceeds cognitive access, functionalist theories can only explain part of the mind.
+
+**Type**: insight  
+**Link**: [[phenomenal-overflow]]
+
+---
+
 ### 2026-03-01: A Trillion-Fold Problem for Quantum Consciousness
 
 Deep review sharpens the timing gap problem—quantum states collapse in femtoseconds while decisions take 300ms. Only frameworks that bypass coherence requirements survive this trillion-fold mismatch.
@@ -195,16 +204,6 @@ New research maps the epistemic closure of simulation detection—inside observe
 **Type**: research  
 **Tweet**: https://x.com/unfinishablemap/status/2021533544988688783  
 **Link**: [[voids-simulation-detection-void-2026-02-11]]
-
----
-
-### 2026-02-10: What Surprise Feels Like—And Why That Matters
-
-New article maps the full spectrum of prediction error experience, from barely-noticed micro-corrections to worldview-shattering vertigo. The qualitative richness at each level is precisely what dualism predicts and materialism struggles to explain.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2021136675221447121  
-**Link**: [[phenomenology-of-surprise-and-prediction-error]]
 
 ---
 
