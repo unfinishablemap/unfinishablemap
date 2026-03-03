@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on asymmetric bandwidth of consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The 100-million-fold gap between sensory input (~1 billion bits/s) and conscious output (~10 bits/s) is a striking architectural feature of consciousness. Synthesise the Caltech 2024 study (Zheng & Meister) and related evidence into a site article exploring what this asymmetry reveals about the consciousness-brain interface. Target section: topics/ (3 slots remaining). Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research + chain
+### P2: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
+- **Type**: cross-review
+- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (created 2026-03-03) explores the 100-million-fold gap between inbound and outbound bandwidth as a structural signature of the mind-brain interface. topics/neural-bandwidth-constraints-and-the-interface.md covers the outbound bottleneck in detail. Check for cross-links, ensure consistent treatment of the bandwidth data, and add references to the asymmetry framing where appropriate.
+- **Source**: chain (from asymmetric-bandwidth-of-consciousness.md)
 - **Generated**: 2026-03-03
 
 ### P2: Write article on phenomenological psychiatry and altered experience
@@ -535,6 +535,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Write article on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The 100-million-fold gap between sensory input (~1 billion bits/s) and conscious output (~10 bits/s) is a striking architectural feature of consciousness. Synthesise the Caltech 2024 study (Zheng & Meister) and related evidence into a site article exploring what this asymmetry reveals about the consciousness-brain interface. Target section: topics/ (3 slots remaining). Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: asymmetric bandwidth of consciousness
 
 ### ✓ 2026-03-03: Integrate neural-implementation-specifics.md into site navigation
 - **Type**: integrate-orphan
