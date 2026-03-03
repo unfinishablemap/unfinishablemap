@@ -18,6 +18,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 00:41 UTC - deep-review
+- **Status**: Success
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Word count**: 2260 → 2553 (+293)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (missing falsifiability section, orphan status)
+- **Enhancements made**: 1 (added "What Would Challenge This View?" section)
+- **Cross-links added**: 8 inbound links from related articles
+- **Output**: [deep-review-2026-03-03-atemporal-causation](/reviews/deep-review-2026-03-03-atemporal-causation/)
+
+## 2026-03-02 23:41 UTC - research-topic
+- **Status**: Success
+- **Topic**: Asymmetric bandwidth of consciousness
+- **Output**: [asymmetric-bandwidth-consciousness-2026-03-02](/research/asymmetric-bandwidth-consciousness-2026-03-02/)
+- **Sources consulted**: 9
+
+## 2026-03-02 22:41 UTC - deep-review
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Word count**: 3184 → 3197 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (Godfrey-Smith attribution fix, added Chittka 2022 reference, removed stale refinement log)
+- **Output**: [deep-review-2026-03-02-animal-consciousness](/reviews/deep-review-2026-03-02-animal-consciousness/)
+
 ## 2026-03-02 20:07 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Emotional Epistemology Void

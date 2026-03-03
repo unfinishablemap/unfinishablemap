@@ -114,9 +114,9 @@ These interpretations take seriously the [time-symmetry of fundamental physics](
 - Allows "weak values" with unusual properties
 - Explicitly retrocausal
 
-**Consciousness role:** Significant. Time-symmetric interpretations allow consciousness to select "which transaction completes" atemporally. Consciousness need not cause collapse *at* a moment—it participates in determining which correlations hold across time.
+**Consciousness role:** Significant. Time-symmetric interpretations allow consciousness to select "which transaction completes" through [atemporal causation](/concepts/atemporal-causation/). Consciousness need not cause collapse *at* a moment—it participates in determining which correlations hold across time.
 
-**Site compatibility:** **High.** These interpretations align closely with the Map's use of [retrocausality](/concepts/retrocausality/) to resolve the Libet problem. If consciousness operates atemporally—selecting which temporal history becomes real—then TI/TSVF provide the physics for this "atemporal selection." The [collapse-and-time](/concepts/collapse-and-time/) article already draws on this framework.
+**Site compatibility:** **High.** These interpretations align closely with the Map's use of [retrocausality](/concepts/retrocausality/) to resolve the Libet problem. If consciousness operates atemporally—selecting which temporal history becomes real—then TI/TSVF provide the physics for this atemporal selection. The [collapse-and-time](/concepts/collapse-and-time/) article already draws on this framework.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -250,6 +250,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
 - [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — How quantum effects may survive in warm biology
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric causation and free will
+- [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse relates to temporal experience
 
 ### Philosophical Context

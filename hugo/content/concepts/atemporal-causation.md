@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-02-17 19:12:00+00:00
+ai_modified: 2026-03-03 00:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,14 +13,14 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[measurement-problem]]'
 created: 2026-02-14
-date: &id001 2026-02-17
+date: &id001 2026-03-03
 description: Causation that operates outside temporal sequence. Atemporal causation
   determines which history becomes actual without being located at any moment within
   that history.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-17 19:12:00+00:00
+last_deep_review: 2026-03-03 00:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,6 +116,22 @@ Atemporal causation seems to require eternalism — how can there be constraints
 This requires that possibilities have genuine ontological status — otherwise merely potential absorbers could not participate in transactions. Kastner's possibilist framework provides this: possibilities are real but sub-actual, occupying an ontological layer between nothingness and full actuality.
 
 This preserves temporal becoming. The block grows as transactions complete — possibilities become actual, alternatives are eliminated. Atemporal causation operates at the level of possibility; the arrow of time operates at the level of actuality. The two coexist because they describe different ontological layers.
+
+## What Would Challenge This View?
+
+Atemporal causation would face serious difficulty if:
+
+**Time-asymmetric causation proved fundamental.** If physics established that causation necessarily operates within temporal sequence—that "determination" requires a before and after—atemporal causation would be conceptually incoherent, not merely unproven. Currently, the time-symmetric equations underlying quantum mechanics provide reason to doubt this, but a theoretical proof that causation requires temporal ordering would be decisive.
+
+**The transactional interpretation and TSVF were refuted.** Atemporal causation draws its mathematical form from these interpretive frameworks. If Maudlin's challenge to TI proved fatal, or if TSVF were shown to be merely a calculational tool with no ontological implications, the concept would lose its physics grounding. It would remain a bare metaphysical possibility but lack the concrete mathematical structure that distinguishes it from speculation.
+
+**Decoherence excluded all quantum effects in neural tissue.** If direct measurement showed coherence times too short even for the quantum Zeno mechanism—eliminating any quantum indeterminacy at the consciousness–brain interface—there would be nowhere for atemporal selection to operate. Current quantum biology suggests this is unlikely, but the question remains empirically open.
+
+**A classical dissolution of the Libet problem succeeded.** Schurger's neural-noise reinterpretation already weakens the timing objection without invoking anything exotic. If further work showed that neural noise plus classical decision theory fully accounts for the data—including the 40% unpredicted variance in Soon et al.—atemporal causation would be unnecessary even if coherent.
+
+**The concept's internal coherence was undermined.** The previous deep review noted a philosophical tension: if "determination" is inherently temporal, "atemporal determination" may be self-contradictory. This remains an open challenge. A rigorous argument that constraint satisfaction necessarily requires temporal sequence would undermine the concept's foundations.
+
+None of these currently succeeds, but they mark conditions under which the framework would need substantial revision or abandonment.
 
 ## Relation to Site Perspective
 

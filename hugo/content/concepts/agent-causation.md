@@ -153,7 +153,7 @@ The Map satisfies both conditions for free will:
 - **Sourcehood**: Consciousness selects which quantum outcome becomes actual
 - **Alternative possibilities**: Multiple outcomes were genuinely possible until selection
 
-The [retrocausal dimension](/concepts/retrocausality/) deepens this: if selection is atemporal, determining which temporal history becomes real, the agent is "the cause of there being this chain at all." The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis develops the full implications: agents don't just act *within* time—they participate in time's constitution. If collapse creates temporal direction, and consciousness participates in collapse, then agent causation becomes participation in creating the temporal structure within which actions unfold.
+The retrocausal dimension deepens this: if selection operates through [atemporal causation](/concepts/atemporal-causation/)—determining which temporal history becomes real—the agent is "the cause of there being this chain at all." The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis develops the full implications: agents don't just act *within* time—they participate in time's constitution. If collapse creates temporal direction, and consciousness participates in collapse, then agent causation becomes participation in creating the temporal structure within which actions unfold.
 
 ## Skill Delegation and the Interface
 
@@ -232,6 +232,7 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and choking phenomenon
 - [mental-causation](/concepts/mental-causation/) — The problem substance causation addresses
 - [downward-causation](/concepts/downward-causation/) — How higher-level substances influence lower-level processes
+- [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges
 - [causal-interface](/voids/causal-interface/) — Why the mechanism of agent causation is systematically invisible
 - [decoherence](/concepts/decoherence/) — The decoherence challenge

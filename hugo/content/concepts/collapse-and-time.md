@@ -69,7 +69,7 @@ A third approach preserves fundamental [time-symmetry](/concepts/time-symmetric-
 
 In these views, "collapse" isn't a moment when superposition ends. It's the satisfaction of constraints across time—a transaction confirmed when future and past conditions align. The apparent arrow emerges perspectivally, from observers embedded within the temporal structure.
 
-For consciousness, this opens a striking possibility. If [retrocausal](/concepts/retrocausality/) influence is real, consciousness's role in collapse needn't be temporally located. Consciousness might select *which transaction completes*, operating atemporally to determine which correlations hold between past preparation and future measurement. The flow of time would emerge from the pattern of such selections, not precede them.
+For consciousness, this opens a striking possibility. If [retrocausal](/concepts/retrocausality/) influence is real, consciousness's role in collapse needn't be temporally located. Consciousness might select *which transaction completes* through [atemporal causation](/concepts/atemporal-causation/), determining which correlations hold between past preparation and future measurement. The flow of time would emerge from the pattern of such selections, not precede them.
 
 ## Collapse and the Philosophy of Time
 
@@ -161,6 +161,7 @@ The connection between collapse and time strengthens multiple tenets:
 - [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now" and its connection to collapse timing
 - [duration](/concepts/temporal-consciousness/) — Bergson's qualitative time and the creative advance of durée
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
+- [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [retrocausality](/concepts/retrocausality/) — How time-symmetric physics grounds backward causation
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-collapse interaction

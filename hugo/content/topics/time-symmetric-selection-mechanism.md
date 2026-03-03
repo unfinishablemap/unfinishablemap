@@ -36,7 +36,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through atemporal constraint satisfaction. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [Libet experiments](/concepts/libet-experiments/): neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
+Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [atemporal constraint satisfaction](/concepts/atemporal-causation/). On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [Libet experiments](/concepts/libet-experiments/): neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
 
 The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection provides such a mechanism while avoiding the objection that consciousness "arrives too late" to cause the brain activity it supposedly controls.
 
@@ -221,6 +221,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate sources
 - [specious-present](/concepts/temporal-consciousness/) — The temporal thickness of conscious experience
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
+- [atemporal-causation](/concepts/atemporal-causation/) — The metaphysics of causation outside temporal sequence
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

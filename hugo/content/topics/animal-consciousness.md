@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-28 06:46:00+00:00
+ai_modified: 2026-03-02 22:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,7 +34,7 @@ description: Do animals have conscious experience? Convergent evidence suggests 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 21:00:00+00:00
+last_deep_review: 2026-03-02 22:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ The bat example demonstrates why consciousness cannot be captured by objective p
 
 ## Multiple Independent Origins
 
-Peter Godfrey-Smith's work on cephalopod consciousness and his 2024 paper on "Neural Dynamics of Subjectivity" highlights a striking feature of animal consciousness: it appears to have evolved independently multiple times.
+Peter Godfrey-Smith's work on cephalopod consciousness, particularly his neural dynamics of subjectivity (NDS) framework (Godfrey-Smith 2024), highlights a striking feature of animal consciousness: it appears to have evolved independently multiple times.
 
 Consciousness emerged separately in:
 - **Vertebrates** — with centralized brains and neocortex (mammals) or pallium (birds)
@@ -229,6 +229,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 1. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Ginsburg, S. & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy*, 35(56).
 1. Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
+1. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
 1. Chittka, L. et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*.
 1. Becerra, D. et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
 1. Bhattacharjee, P. et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
@@ -238,22 +239,3 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 1. Tomasello, M. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-
-<!-- AI REFINEMENT LOG - 2026-02-21
-Changes made:
-1. Updated working memory figures: replaced outdated Miller 7±2 with Cowan (2001) 4±1 for humans
-1. Added Inoue & Matsuzawa (2007) finding that young chimps outperform humans on rapid numerical memory
-1. Reframed working memory argument: consciousness enables flexible deployment, not just capacity expansion
-1. Resolved tension between "no anthropocentric barrier" claim and metacognition hierarchy
-1. Opening now clarifies: no barrier to phenomenal experience, but consciousness may vary in kind/degree
-1. Ape section now explicitly distinguishes types of consciousness from barriers to consciousness
-1. Dualism section acknowledges consciousness varying in kind across species as compatible with no substrate barrier
-1. Softened insect consciousness language: "consistent with intrinsically motivated play" rather than asserting it
-1. Calibrated confidence: "strongly suggests" → "provides strong grounds for thinking"; "should expect" → "might expect"
-1. "Dualism's advantage" → "Dualism's distinctive feature" in dualism section
-1. Added Cowan (2001) and Inoue & Matsuzawa (2007) to References
-
-Based on pessimistic review 2026-02-21 identifying outdated working memory figures and tension between no-barrier claim and consciousness hierarchy.
-
-This log should be removed after human review.
--->
