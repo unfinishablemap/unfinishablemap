@@ -4,7 +4,7 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-02-25T00:30:00+00:00
+ai_modified: 2026-03-03T15:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-02-05T07:01:00+00:00
+last_deep_review: 2026-03-03T15:41:00+00:00
 coalesced_from:
   - "/topics/why-phenomenal-unity-resists-explanation/"
   - "/topics/quantum-binding-and-phenomenal-unity/"
@@ -126,9 +126,9 @@ The standard objection to quantum consciousness is [[decoherence]]. Warm, wet bi
 
 This objection has been substantially weakened. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium conditions equivalent to death. Using corrected estimates for dielectric properties and realistic model parameters, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark calculated. Experimental measurements of coherence times in microtubule preparations (Saxena et al. 2020) match these corrected theoretical estimates.
 
-The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. A January 2026 Princeton study provided computational confirmation. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
+The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Xu et al. (2025) provided computational confirmation through ab initio quantum dynamics simulations. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
-A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. A 2024 *Nature Communications* study demonstrated that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism proposed for consciousness-brain interaction has a confirmed biological counterpart.
+A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Atkins et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism proposed for consciousness-brain interaction has a confirmed biological counterpart.
 
 Most fundamentally, decoherence does not solve the measurement problem. As Schlosshauer's authoritative 2019 review notes, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes. Consciousness could participate at this collapse point regardless of prior decoherence.
 
@@ -213,6 +213,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 
 ## References
 
+1. Atkins, C. et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
 1. Baum, E. The Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive*.
 1. Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
@@ -221,6 +222,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
 1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Leibniz, G.W. (1714). *Monadology*.
+1. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
 1. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule nanowire. *ACS Nano*, 14(2), 2217-2227.
 1. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
@@ -230,3 +232,4 @@ The Map holds that current evidence favours the quantum position while acknowled
 1. Warren, W. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 038001.
 1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+1. Xu, X. et al. (2025). Ab initio spin dynamics in radical pairs predict avian magnetoreception. *Journal of the American Chemical Society*.

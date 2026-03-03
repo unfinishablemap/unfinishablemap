@@ -4,7 +4,7 @@ description: "Why conscious experience comes as unified wholes rather than separ
 created: 2026-01-19
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-01T11:00:00+00:00
+ai_modified: 2026-03-03T15:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[dualism]]"
   - "[[temporal-consciousness]]"
   - "[[quantum-coherence-and-binding-evidence]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-sonnet-4-5-20250929
@@ -143,6 +144,7 @@ Phenomenal binding illuminates why the Map's [[tenets]] take the positions they 
 
 - [[process-and-consciousness]] — How process philosophy illuminates phenomenal unity through actual occasions
 - [[unity-of-consciousness]] — Phenomenal unity, its varieties, and the broader conceptual framing
+- [[quantum-holism-and-phenomenal-unity]] — Extended structural argument, decoherence debate, and experimental evidence for quantum binding
 - [[quantum-coherence-and-binding-evidence]] — Experimental support for quantum binding mechanisms
 - [[perception-and-conscious-experience]] — Perceptual experience as the paradigm case of binding, including cross-modal unity
 - [[binding-problem]] — The neural challenge and historical formulation

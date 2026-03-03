@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-01T00:36:00+00:00
+ai_modified: 2026-03-03T15:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
   - "[[binding-problem-consciousness-2026-01-14]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -102,6 +103,7 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 
 ## Further Reading
 
+- [[quantum-holism-and-phenomenal-unity]] — Extended treatment: structural argument, decoherence debate, illusionist challenge, and process philosophy
 - [[binding-problem]] — The two binding problems and why classical mechanisms address only one
 - [[unity-of-consciousness]] — Phenomenal unity and its dimensions
 - [[quantum-consciousness]] — Orch OR, Stapp, and other quantum consciousness mechanisms

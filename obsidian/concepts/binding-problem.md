@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-01T21:52:00+00:00
+ai_modified: 2026-03-03T15:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[tenets]]"
   - "[[binding-problem-consciousness-2026-01-14]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
-  - "[[quantum-binding-and-phenomenal-unity]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[phenomenal-binding-multimodal-integration-2026-01-23]]"
 ai_contribution: 100
 author: null

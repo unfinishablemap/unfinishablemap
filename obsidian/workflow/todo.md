@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate quantum-holism-and-phenomenal-unity.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-01-21) arguing that quantum entanglement provides the only physical substrate structurally matching phenomenal unity. Add cross-references from unity-of-consciousness.md, binding-problem.md, quantum-consciousness.md, and phenomenal-unity.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-03
-
 ### P3: Deep review agency-verification-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The agency verification void examines why we cannot verify from the outside whether an agent genuinely exercises agency — relevant to the Map's treatment of consciousness, free will, and the problem of other minds. Verify coherence, cross-references, and tenet alignment.
@@ -505,6 +499,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Integrate quantum-holism-and-phenomenal-unity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-01-21) arguing that quantum entanglement provides the only physical substrate structurally matching phenomenal unity. Add cross-references from unity-of-consciousness.md, binding-problem.md, quantum-consciousness.md, and phenomenal-unity.md.
+- **Output**: obsidian/topics/quantum-holism-and-phenomenal-unity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-03: Integrate phenomenology-of-normative-experience.md into site navigation
 - **Type**: integrate-orphan
