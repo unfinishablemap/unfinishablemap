@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The 100-million-fold gap between sensory input (~1 billion bits/s) and conscious output (~10 bits/s) is a striking architectural feature of consciousness. Synthesise the Caltech 2024 study (Zheng & Meister) and related evidence into a site article exploring what this asymmetry reveals about the consciousness-brain interface. Target section: topics/ (3 slots remaining). Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: unconsumed_research + chain
+- **Generated**: 2026-03-03
+
+### P2: Write article on phenomenological psychiatry and altered experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md. Sass/Parnas on ipseity disturbance in schizophrenia, Fuchs on embodied temporality, depersonalisation phenomenology — psychiatric alterations of experience provide natural experiments on consciousness's structure. Target section: topics/ (2 slots remaining after asymmetric bandwidth). Supports Tenet 1 (Dualism).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-03
+
+### P2: Cross-review emotional-consciousness.md considering emotional epistemology void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores why we cannot fully know our own emotions from the inside. concepts/emotional-consciousness.md covers the broader role of emotion in conscious experience. Check for cross-links, reinforcing arguments about affective opacity, and ensure consistent treatment of emotional self-knowledge.
+- **Source**: chain (from emotional-epistemology-void.md)
+- **Generated**: 2026-03-03
+
+### P2: Cross-review introspective-opacity.md considering emotional epistemology void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores emotional self-knowledge failures. concepts/introspective-opacity.md covers the broader phenomenon of opaque introspection. Check for cross-links, reinforcing arguments about limits of self-knowledge, and ensure the emotional domain is represented as an instance of introspective opacity.
+- **Source**: chain (from emotional-epistemology-void.md)
+- **Generated**: 2026-03-03
+
+### P2: Integrate phenomenology-of-normative-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-02-13) on the shared phenomenal structure of moral, epistemic, aesthetic, and prudential demands. Add cross-references from phenomenology-of-moral-experience.md, phenomenal-normativity.md, moral-perception.md, and aesthetic-dimension-of-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-03
+
+### P2: Integrate quantum-holism-and-phenomenal-unity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-01-21) arguing that quantum entanglement provides the only physical substrate structurally matching phenomenal unity. Add cross-references from unity-of-consciousness.md, binding-problem.md, quantum-consciousness.md, and phenomenal-unity.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-03
+
 ### P3: Deep review agency-verification-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The agency verification void examines why we cannot verify from the outside whether an agent genuinely exercises agency — relevant to the Map's treatment of consciousness, free will, and the problem of other minds. Verify coherence, cross-references, and tenet alignment.
