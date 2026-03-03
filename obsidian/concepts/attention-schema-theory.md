@@ -4,7 +4,7 @@ description: "Graziano's theory proposes consciousness is the brain's model of i
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-03T22:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-29T20:40:00+00:00
+last_deep_review: 2026-03-03T22:42:00+00:00
 ---
 
 Attention Schema Theory (AST), developed by neuroscientist Michael Graziano at Princeton University, proposes that subjective awareness is the brain's schematic model of its own attention. Just as the body schema helps track and control limb position, an "attention schema" helps monitor and control attention. Because this model necessarily omits mechanism details—representing attention's effects rather than its neural implementation—the brain concludes it possesses a non-physical essence of awareness. Consciousness, on this view, is neither illusion nor magic but a functional caricature: a useful simplification that helps the brain manage attentional resources.
@@ -63,7 +63,7 @@ According to AST, consciousness is what attention *seems like* from the perspect
 
 AST is the primary neuroscientific instantiation of philosophical [[illusionism]]. Where illusionists like Keith Frankish and Daniel Dennett argue that introspection misrepresents experience as having phenomenal properties it lacks, AST provides a mechanism: the attention schema represents attention as having experiential qualities, and we believe those representations.
 
-Dennett calls illusionism "the obvious default theory"—the conservative position that should be explored before invoking "magical" phenomenal properties. Frankish's meta-problem asks why we *believe* we have phenomenal consciousness even if we don't. AST answers: because that's how the attention schema represents attention.
+Dennett calls illusionism "the obvious default theory"—the conservative position that should be explored before invoking "magical" phenomenal properties. Chalmers' meta-problem (2018) asks why we *believe* we have phenomenal consciousness even if we don't. AST answers: because that's how the attention schema represents attention.
 
 Graziano prefers "caricature" to "illusion." A caricature implies something real being represented, just simplified. The attention schema caricatures attention—it's not hallucinating something from nothing. This makes AST slightly less eliminativist than pure illusionism: something underlies the appearance (attention), even if what appears (phenomenal experience) isn't what the model claims.
 
@@ -94,7 +94,7 @@ This is reframation as engineering:
 - **Why does it feel like something?** The model describes attention as having qualitative properties
 - **Why the explanatory gap?** The model necessarily omits physical details, creating the appearance of a gap
 
-According to Graziano: "The hard problem arises from misunderstanding what consciousness is—it's not a mysterious essence but a useful control model."
+On Graziano's view, the hard problem arises from misunderstanding what consciousness is—treating it as a mysterious essence rather than a useful control model.
 
 ## Criticisms of AST
 
@@ -222,8 +222,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 
 ## Further Reading
 
-- [[attention-as-interface|attention]] — The attention-consciousness relationship and dissociation evidence
-- [[attention-as-interface]] — the Map's alternative: attention as how consciousness interfaces with matter
+- [[attention-as-interface]] — The attention-consciousness relationship and the Map's alternative framework
 - [[illusionism]] — The philosophical framework AST instantiates
 - [[concepts/functionalism]] — The view that consciousness is functional role
 - [[hard-problem-of-consciousness]] — What AST claims to dissolve

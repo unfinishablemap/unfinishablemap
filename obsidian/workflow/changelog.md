@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 22:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/attention-schema-theory]]
+- **Word count**: 3259 → 3251 (-8)
+- **Critical issues addressed**: 1 (Chalmers/Frankish misattribution of meta-problem)
+- **Medium issues addressed**: 1 (unsourced direct quote converted to paraphrase, duplicate Further Reading entry merged)
+- **Enhancements made**: 0 (article at soft threshold, length-neutral mode)
+- **Output**: [[reviews/deep-review-2026-03-03-attention-schema-theory]]
+
 ## 2026-03-03 21:41 UTC - deep-review
 - **Status**: Skipped (archived article)
 - **File**: quantum-decoherence-objection-responses (archived 2026-03-01, coalesced into [[concepts/decoherence]])
