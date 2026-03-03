@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-03 02:44:00+00:00
+ai_modified: 2026-03-03 15:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[selection-laws]]'
 - '[[causal-closure]]'
-- '[[quantum-binding-and-phenomenal-unity]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[psychophysical-coupling]]'
 - '[[interface-locality]]'
 - '[[quantum-biology]]'
@@ -144,7 +144,7 @@ The [binding problem](/concepts/binding-problem/) has two components: BP1 asks h
 
 Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: the entangled whole has properties its parts lack individually, mirroring how experience comes unified rather than assembled from separate quale-atoms.
 
-**Empirical support**: Zero-lag gamma synchrony presents a specific challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, but neural transmission takes >5 ms. Baum argues this requires quantum non-locality—classical signal propagation cannot achieve zero-lag synchrony. Additionally, Kerskens-Pérez (2022) found MRI patterns indicating spin entanglement correlated with consciousness—present during waking, absent during sleep. Escolà-Gascón (2025) found quantum entanglement in stimuli explained 13.5% of variance in implicit learning. See [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
+**Empirical support**: Zero-lag gamma synchrony presents a specific challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, but neural transmission takes >5 ms. Baum argues this requires quantum non-locality—classical signal propagation cannot achieve zero-lag synchrony. Additionally, Kerskens-Pérez (2022) found MRI patterns indicating spin entanglement correlated with consciousness—present during waking, absent during sleep. Escolà-Gascón (2025) found quantum entanglement in stimuli explained 13.5% of variance in implicit learning. See [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
 
 ## The Illusionist Challenge
 
@@ -206,7 +206,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness might couple
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement and phenomenal unity
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement and phenomenal unity
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical vs. quantum binding mechanisms
 
 **Objections and resolutions:**

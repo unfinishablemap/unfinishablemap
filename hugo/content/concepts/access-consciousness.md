@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-03 16:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Access consciousness makes mental states available for reasoning an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 14:30:00+00:00
+last_deep_review: 2026-03-03 16:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ Block argues A-consciousness and P-consciousness can dissociate in both directio
 
 Blindsight patients have cortical damage causing a blind spot—they report seeing nothing yet can "guess" stimulus properties with above-chance accuracy. This involves *some* information reaching cognitive systems but not full global access.
 
-**Contested interpretations**: Functionalists argue blindsight shows degraded phenomenology matching degraded access—no dissociation to explain, since "access without phenomenology" presupposes phenomenology is something beyond functional access. The Map reads blindsight as minimal or absent P-consciousness despite partial access, supporting the claim that access and phenomenology are distinct. See [philosophical-zombies](/concepts/philosophical-zombies/) for whether such dissociation is metaphysically possible. The [conscious vs unconscious processing](/concepts/conscious-vs-unconscious-processing/) literature provides complementary evidence: a 2025 meta-analysis found that only 10% of claimed unconscious processing effects survive rigorous methodology, while consciousness enables three specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
+**Contested interpretations**: Functionalists argue blindsight shows degraded phenomenology matching degraded access—no dissociation to explain, since "access without phenomenology" presupposes phenomenology is something beyond functional access. The Map reads blindsight as minimal or absent P-consciousness despite partial access, supporting the claim that access and phenomenology are distinct. See [philosophical-zombies](/concepts/philosophical-zombies/) for whether such dissociation is metaphysically possible. The [conscious vs unconscious processing](/concepts/conscious-vs-unconscious-processing/) literature provides complementary evidence: Randeniya's 2025 meta-analysis of 80 experimental conditions across 16 fMRI studies found that only 10% provided genuine evidence for unconscious processing, while consciousness enables three specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
 
 ### The Overflow Argument: Phenomenology Without Full Access
 
@@ -76,7 +76,9 @@ Block's [overflow argument](/concepts/phenomenal-overflow/) holds that we experi
 
 ### Pure Thoughts: A-Consciousness Without P-Consciousness?
 
-Can thoughts be A-conscious without phenomenal character? The thought "Paris is the capital of France" is A-conscious when used in reasoning—but is there phenomenology of entertaining it? This connects to [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—whether thinking has experiential character distinct from sensory phenomenology.
+Can thoughts be A-conscious without phenomenal character? The thought "Paris is the capital of France" is A-conscious when used in reasoning—it's available for inference, report, and action. But is there something it's *like* to entertain it beyond its functional role?
+
+This connects to [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—whether thinking has experiential character distinct from sensory phenomenology. If pure thoughts lack phenomenal character, they would be cases of A-consciousness without P-consciousness occurring routinely in normal subjects. If thoughts do carry distinctive phenomenology (a sense of understanding, of meaning grasped), then even abstract cognition involves both access and phenomenal dimensions—and the two are more tightly coupled than blindsight or overflow suggest.
 
 ## Access Consciousness and Functionalism {#functionalism}
 
@@ -92,7 +94,7 @@ Can thoughts be A-conscious without phenomenal character? The thought "Paris is 
 
 If [overflow](/concepts/phenomenal-overflow/) is real, attention selects what becomes A-conscious from a richer phenomenal field—attention doesn't create P-consciousness but determines what reaches access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 
-**Stapp's quantum mechanism**: [Henry Stapp's model](/concepts/stapp-quantum-mind/) proposes that [attention is the interface](/concepts/attention-as-interface/) where consciousness influences physical processes through the quantum Zeno effect. Critics like Tegmark argue this requires measurements faster than decoherence timescales—a mismatch of six orders of magnitude with attention's timescale. The model remains speculative. See [motor-selection](/concepts/motor-selection/) for how selection might work in action.
+**Stapp's quantum mechanism**: [Henry Stapp's model](/concepts/stapp-quantum-mind/) proposes that [attention is the interface](/concepts/attention-as-interface/) where consciousness influences physical processes through the quantum Zeno effect. Critics like Tegmark argue this requires measurements faster than decoherence timescales—a [timing gap](/concepts/timing-gap-problem/) of roughly twelve orders of magnitude between quantum decoherence in neural systems (~10⁻¹³ seconds) and conscious attention (~10⁻¹ seconds). The model remains speculative and contested among physicists. See [motor-selection](/concepts/motor-selection/) for how selection might work in action.
 
 ## Access Consciousness and Dualist Interaction {#interaction}
 
@@ -150,5 +152,6 @@ This illustrates [the limits of Occam's Razor](/tenets/#occams-limits). Physical
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
 1. Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 1. Nartker, M., Firestone, C., & Sosa, E. (2025). Inattentional blindness hides residual visual sensitivity. *Journal of Experimental Psychology: Human Perception and Performance*.
+1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stanford Encyclopedia of Philosophy. (2024). [Consciousness](https://plato.stanford.edu/entries/consciousness/).
 1. Tegmark, M. (2000). The Problem with the Quantum Mind. *Physical Review E*, 61(4), 4194-4206.

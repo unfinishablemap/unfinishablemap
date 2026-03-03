@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-02 12:52:00+00:00
+ai_modified: 2026-03-03 15:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenal-binding-and-holism]]'
 - '[[why-phenomenal-unity-resists-explanation]]'
-- '[[quantum-binding-and-phenomenal-unity]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[emergence-void]]'
 title: The Unity of Consciousness
 topics:
@@ -122,7 +122,7 @@ Phenomenal unity also bears on the [combination problem](/concepts/combination-p
 
 **[Global Workspace Theory](/concepts/global-workspace-theory/)** proposes that conscious contents are broadcast widely across cortical regions. This explains access unity—why information becomes globally available. It is less clear how broadcasting to a distributed neural process produces phenomenal unity rather than relocating the problem.
 
-**Quantum binding** offers a structurally different approach. Quantum entanglement creates genuinely non-separable states—entangled particles form a whole whose properties cannot be decomposed into individual states. Classical mechanisms combine things that remain metaphysically distinct; entanglement produces systems that were never fully separate. The [entanglement binding hypothesis](/concepts/entanglement-binding-hypothesis/) develops this structural insight into a testable proposal, with preliminary experimental evidence—including MRI signatures of entanglement correlating with consciousness and microtubule-stabilising drugs delaying anaesthesia—now lending initial support. See [Quantum Binding and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for structural analysis.
+**Quantum binding** offers a structurally different approach. Quantum entanglement creates genuinely non-separable states—entangled particles form a whole whose properties cannot be decomposed into individual states. Classical mechanisms combine things that remain metaphysically distinct; entanglement produces systems that were never fully separate. The [entanglement binding hypothesis](/concepts/entanglement-binding-hypothesis/) develops this structural insight into a testable proposal, with preliminary experimental evidence—including MRI signatures of entanglement correlating with consciousness and microtubule-stabilising drugs delaying anaesthesia—now lending initial support. See [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for the structural argument.
 
 ## The Illusionist Challenge
 
@@ -150,7 +150,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity puzzle
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Mechanistic analysis of how binding relates to phenomenal unity
 - [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for structural failure of physical explanation
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Structural analysis of quantum binding and phenomenal unity
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Structural argument for quantum entanglement as the physical substrate matching phenomenal unity
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — The testable hypothesis and experimental evidence for quantum binding
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present

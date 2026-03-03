@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-02 19:52:00+00:00
+ai_modified: 2026-03-03 16:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-normative-experience.md into site navigation
+### P2: Review emotion-as-evidence-for-dualism.md considering emotional-epistemology-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/emotional-epistemology-void.md (2026-03-02) develops the paradox that emotions constitute genuine knowledge yet resist the verification methods that validate other knowledge forms. emotion-as-evidence-for-dualism.md argues emotions provide evidence for irreducibility and should cross-reference the void's analysis of why affective knowledge resists epistemic capture. Check for complementary arguments and cross-links.
+- **Source**: chain (from emotional-epistemology-void.md)
+- **Generated**: 2026-03-03
+
+### P2: Review the-self-minimal-narrative-and-substantial.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-03) examines how schizophrenia's ipseity disturbance and depression's corporealization reveal the minimal self in breakdown. the-self-minimal-narrative-and-substantial.md provides the philosophical framework for what is being disrupted and should cross-reference this clinical evidence. Add cross-references showing how psychiatric data validates the minimal self concept.
+- **Source**: chain (from phenomenological-psychiatry-and-altered-experience.md)
+- **Generated**: 2026-03-03
+
+### P2: Integrate quantum-decoherence-objection-responses.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-02-13) on the shared phenomenal structure of moral, epistemic, aesthetic, and prudential demands. Add cross-references from phenomenology-of-moral-experience.md, phenomenal-normativity.md, moral-perception.md, and aesthetic-dimension-of-consciousness.md.
+- **Notes**: File has no inbound links. Concepts article (created 2026-02-22) providing detailed responses to the decoherence objection against consciousness-collapse theories. Directly supports Tenet 2 (Minimal Quantum Interaction). Add cross-references from decoherence.md, quantum-consciousness.md, collapse-interpretation.md, and decoherence-and-macroscopic-superposition.md.
 - **Source**: orphan_integration
 - **Generated**: 2026-03-03
 
-### P2: Integrate quantum-holism-and-phenomenal-unity.md into site navigation
+### P2: Integrate autonoetic-consciousness.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-01-21) arguing that quantum entanglement provides the only physical substrate structurally matching phenomenal unity. Add cross-references from unity-of-consciousness.md, binding-problem.md, quantum-consciousness.md, and phenomenal-unity.md.
+- **Notes**: File has no inbound links. Concepts article (created 2026-02-24) on autonoetic consciousness — the capacity for mental time travel and self-referential awareness of one's own past and future. Relevant to the Map's treatment of temporal consciousness, self-awareness, and the phenomenology of memory. Add cross-references from temporal-consciousness.md, self-and-consciousness.md, and phenomenology-of-anticipation.md.
 - **Source**: orphan_integration
+- **Generated**: 2026-03-03
+
+### P2: Integrate phenomenology-of-normative-conflict.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-18) on the phenomenology of normative conflict — the felt experience of moral dilemmas, value clashes, and obligation tensions. Add cross-references from phenomenology-of-normative-experience.md, ethics-of-consciousness.md, moral-responsibility.md, and consciousness-and-moral-agency-under-duress.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-03
+
+### P3: Deep review consciousness-and-agency.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-03
 
 ### P3: Deep review agency-verification-void.md
@@ -512,6 +536,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Review hard-problem-of-consciousness.md considering asymmetric-bandwidth-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (2026-03-03) demonstrates a 100-million-fold gap between sensory input and conscious output, supporting the view that consciousness interfaces with rather than is produced by neural computation. hard-problem-of-consciousness.md should reference the bandwidth asymmetry as distinct evidence for production-model inadequacy. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Review hard-problem-of-consciousness.md considering asymmetric-bandwidth-of-consciousness insights
+
+### ✓ 2026-03-03: Integrate quantum-holism-and-phenomenal-unity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-01-21) arguing that quantum entanglement provides the only physical substrate structurally matching phenomenal unity. Add cross-references from unity-of-consciousness.md, binding-problem.md, quantum-consciousness.md, and phenomenal-unity.md.
+- **Output**: obsidian/topics/quantum-holism-and-phenomenal-unity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-03: Integrate phenomenology-of-normative-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-02-13) on the shared phenomenal structure of moral, epistemic, aesthetic, and prudential demands. Add cross-references from phenomenology-of-moral-experience.md, phenomenal-normativity.md, moral-perception.md, and aesthetic-dimension-of-consciousness.md.
+- **Output**: obsidian/topics/phenomenology-of-normative-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-03: Cross-review introspective-opacity.md considering emotional epistemology void insights
 - **Type**: cross-review

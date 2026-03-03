@@ -29,7 +29,7 @@ related_articles:
 - '[[phenomenology-of-philosophical-disagreement]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[argument-from-reason]]'
-- '[[phenomenology-of-normative-conflict]]'
+- '[[phenomenology-of-normative-experience]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[reasons-responsiveness]]'
 title: The Phenomenology of Intellectual Courage
@@ -164,7 +164,7 @@ The claim that intellectual courage has irreducible phenomenal character would f
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires irreducible consciousness
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The feelings that accompany intellectual life
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thought itself has experiential character
-- [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-experience/) — What it is like when different norms pull in different directions
+- [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/) — What it is like when different norms pull in different directions
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Choosing from genuine agency versus social default
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — The capacity to track and respond to reasons
 

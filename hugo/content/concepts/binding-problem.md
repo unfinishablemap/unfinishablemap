@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 21:52:00+00:00
+ai_modified: 2026-03-03 15:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -48,7 +48,7 @@ related_articles:
 - '[[tenets]]'
 - '[[binding-problem-consciousness-2026-01-14]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
-- '[[quantum-binding-and-phenomenal-unity]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[phenomenal-binding-multimodal-integration-2026-01-23]]'
 title: The Binding Problem
 topics:

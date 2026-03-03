@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-01 00:36:00+00:00
+ai_modified: 2026-03-03 15:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
 - '[[binding-problem-consciousness-2026-01-14]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 title: The Entanglement Binding Hypothesis
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -105,6 +106,7 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 
 ## Further Reading
 
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended treatment: structural argument, decoherence debate, illusionist challenge, and process philosophy
 - [binding-problem](/concepts/binding-problem/) — The two binding problems and why classical mechanisms address only one
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity and its dimensions
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR, Stapp, and other quantum consciousness mechanisms

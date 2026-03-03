@@ -24,7 +24,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[meaning-of-life]]'
-- '[[phenomenology-of-normative-properties]]'
+- '[[phenomenology-of-normative-experience]]'
 - '[[aesthetic-dimension-of-consciousness]]'
 - '[[why-pain-hurts]]'
 - '[[free-will]]'
@@ -141,7 +141,7 @@ The Map's tenets shape environmental ethics distinctively:
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for and scope of animal experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical foundation
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic normativity beyond hedonic valence
-- [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-experience/) — How normative demands present in experience
+- [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/) — How normative demands present in experience across four domains
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of moral properties
 - [why-pain-hurts](/topics/why-pain-hurts/) — Why pain's awfulness is constitutive, not correlative
 - [free-will](/topics/free-will/) — Genuine moral agency and environmental responsibility

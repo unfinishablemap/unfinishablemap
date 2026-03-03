@@ -18,6 +18,44 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 17:41 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Context**: Cross-review considering asymmetric-bandwidth-of-consciousness insights
+- **Word count**: 3480 → 3485 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing bandwidth asymmetry cross-link)
+- **Enhancements made**: 3 (bandwidth sentence in epiphenomenalism, frontmatter link, Further Reading entry)
+- **Compensatory trims**: 2 (temporal phenomenology compression, C. elegans tightening)
+- **Output**: [deep-review-2026-03-03b-hard-problem-of-consciousness](/reviews/deep-review-2026-03-03b-hard-problem-of-consciousness/)
+
+## 2026-03-03 16:48 UTC - deep-review
+- **Status**: Success
+- **File**: [access-consciousness](/concepts/access-consciousness/)
+- **Word count**: 1798 → 1913 (+115)
+- **Critical issues addressed**: 2 (misattributed meta-analysis citation, incorrect decoherence magnitude)
+- **Medium issues addressed**: 2 (missing timing-gap-problem cross-link, thin Pure Thoughts subsection)
+- **Enhancements made**: 3 (expanded Pure Thoughts, added Randeniya citation, added timing-gap cross-link)
+- **Output**: [deep-review-2026-03-03-access-consciousness](/reviews/deep-review-2026-03-03-access-consciousness/)
+
+## 2026-03-03 15:41 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+- **Word count**: 3381 → 3397 (+16, references only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (uncited Neven attribution, uncited Princeton study, uncited Atkins et al.)
+- **Enhancements made**: 6 articles updated with inbound cross-links (orphan integration)
+- **Output**: [deep-review-2026-03-03-quantum-holism-and-phenomenal-unity](/reviews/deep-review-2026-03-03-quantum-holism-and-phenomenal-unity/)
+
+## 2026-03-03 14:42 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/)
+- **Word count**: 2840 → 2840 (+0, cross-linking only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, stale link fixes)
+- **Enhancements made**: 8 inbound links added (0 → 8)
+- **Output**: [deep-review-2026-03-03-phenomenology-of-normative-experience](/reviews/deep-review-2026-03-03-phenomenology-of-normative-experience/)
+
 ## 2026-03-03 13:41 UTC - deep-review
 - **Status**: Success
 - **File**: [introspective-opacity](/voids/introspective-opacity/)

@@ -35,10 +35,9 @@ related_articles:
 - '[[moral-responsibility]]'
 - '[[moral-perception]]'
 - '[[aesthetic-dimension-of-consciousness]]'
-- '[[phenomenology-of-normative-properties]]'
+- '[[phenomenology-of-normative-experience]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[phenomenology-of-normative-conflict]]'
 - '[[consciousness-and-the-authority-of-logic]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
 - '[[phenomenal-normativity-environmental-ethics]]'
@@ -206,9 +205,8 @@ The consciousness-based account of normative authority would face pressure if:
 
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
-- [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-experience/) — The shared structure of normative experience across domains
+- [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/) — The phenomenal structure of normative experience across four domains and what their collisions reveal
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like
-- [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-experience/) — When normative demands collide
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The phenomenology of deliberative processes
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds moral status
