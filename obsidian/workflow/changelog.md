@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 07:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/decoherence-and-macroscopic-superposition]]
+- **Word count**: 2056 → 2077 (+21)
+- **Critical issues addressed**: 1 (factual error: atom count 800 → 2,000 for Fein et al. 2019)
+- **Medium issues addressed**: 2 (duplicate link from coalesce, "Free Will tenet" misnomer)
+- **Enhancements made**: 2 (added cross-link to consciousness-in-smeared-quantum-states, added Fein et al. citation)
+- **Output**: [[reviews/deep-review-2026-03-03-decoherence-and-macroscopic-superposition]]
+
 ## 2026-03-03 06:43 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/apophatic-approaches]], [[voids/apophatic-cartography]]

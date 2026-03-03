@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced apophatic-approaches article
-- **Type**: cross-review
-- **Notes**: Coalesce merged apophatic-approaches into apophatic-cartography. 31 active content files still reference `[[apophatic-approaches]]` and should be updated to `[[apophatic-cartography]]` with appropriate display text. Key files: voids.md, aesthetic-void.md, language-thought-boundary.md, epistemology-of-cognitive-limits.md, limits-reveal-structure.md, topology-of-cognitive-failure.md, hard-problem-of-consciousness.md, and ~24 others. Research and review files are historical records and do not need updating.
-- **Source**: coalesce
-- **Generated**: 2026-03-03
-
 ### P2: Write article on phenomenological psychiatry and altered experience
 - **Type**: expand-topic
 - **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md. Sass/Parnas on ipseity disturbance in schizophrenia, Fuchs on embodied temporality, depersonalisation phenomenology — psychiatric alterations of experience provide natural experiments on consciousness's structure. Target section: topics/ (2 slots remaining after asymmetric bandwidth). Supports Tenet 1 (Dualism).
@@ -535,6 +529,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Update references to coalesced apophatic-approaches article
+- **Type**: cross-review
+- **Notes**: Coalesce merged apophatic-approaches into apophatic-cartography. 31 active content files still reference `[[apophatic-approaches]]` and should be updated to `[[apophatic-cartography]]` with appropriate display text. Key files: voids.md, aesthetic-void.md, language-thought-boundary.md, epistemology-of-cognitive-limits.md, limits-reveal-structure.md, topology-of-cognitive-failure.md, hard-problem-of-consciousness.md, and ~24 others. Research and review files are historical records and do not need updating.
+- **Output**: None -- Context: Update references to coalesced apophatic-approaches article
 
 ### ✓ 2026-03-03: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
 - **Type**: cross-review

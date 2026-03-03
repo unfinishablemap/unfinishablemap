@@ -4,7 +4,7 @@ description: "The quantum-classical boundary keeps receding. Hot cat states, nan
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-03T02:44:00+00:00
+ai_modified: 2026-03-03T07:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-01-27T18:10:02+00:00
+last_deep_review: 2026-03-03T07:41:00+00:00
 ---
 
 Where does quantum become classical? Schrödinger's cat was meant as *reductio ad absurdum*—surely macroscopic objects cannot exist in superposition. Yet experiments keep pushing the boundary further than intuition suggests. Hot Schrödinger cat states at 1.8 kelvin, matter-wave interference in 7,000-atom nanoparticles, and quantum coherence in photosynthetic complexes all demonstrate that the warm-macro-therefore-classical assumption is empirically false. The quantum-classical boundary is not a sharp line but a fuzzy frontier we keep redrawing.
@@ -55,7 +55,7 @@ If Schrödinger's thought experiment was meant to show where quantum weirdness m
 
 ### Molecular Interference
 
-Starting in the 1990s, researchers began demonstrating quantum interference with increasingly large molecules. Fullerenes (C₆₀ "buckyballs" with 60 carbon atoms) showed wave-like behaviour in 1999. By 2019, interference was demonstrated with molecules exceeding 25,000 atomic mass units—over 800 atoms. Each step expanded the domain where quantum superposition is experimentally verified.
+Starting in the 1990s, researchers began demonstrating quantum interference with increasingly large molecules. Fullerenes (C₆₀ "buckyballs" with 60 carbon atoms) showed wave-like behaviour in 1999. By 2019, interference was demonstrated with molecules exceeding 25,000 atomic mass units—nearly 2,000 atoms. Each step expanded the domain where quantum superposition is experimentally verified.
 
 ### Nanoparticle Schrödinger Cats (2025)
 
@@ -127,18 +127,18 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits tenet]] is direct
 
 The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects to why the boundary matters. Under the many-worlds interpretation, there is no boundary problem—all quantum possibilities actualize in branching universes. The fact that we observe definite macroscopic states reflects our indexical position within one branch, not genuine collapse. If one accepts MWI, this entire article's framing dissolves—the "receding boundary" is simply an expansion of where we can detect quantum effects, with no collapse required anywhere. But if collapse is real (as the Map holds), something must trigger it. [[spontaneous-collapse-theories|Spontaneous collapse theories]] like GRW and Penrose's gravitational collapse provide physical mechanisms; the Map's position adds that consciousness may modulate these mechanisms in neural systems. The boundary question becomes: where does the world become determinate? The receding boundary suggests the answer is not "at the atomic scale" but something more subtle.
 
-The [[topics/free-will|Free Will tenet]] gains support from this picture. If consciousness can bias quantum outcomes at neural decision points, this provides a mechanism for agent causation—genuinely open futures that conscious choices help determine. The receding quantum-classical boundary expands the domain where such choices could operate.
+The Map's defense of [[topics/free-will|free will]] gains support from this picture. If consciousness can bias quantum outcomes at neural decision points, this provides a mechanism for agent causation—genuinely open futures that conscious choices help determine. The receding quantum-classical boundary expands the domain where such choices could operate.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] gains plausibility as the boundary recedes. If biology can harness quantum coherence for navigation (magnetoreception) and possibly for neural processing (microtubule effects), then the brain might provide an interface where consciousness influences quantum outcomes. The categorical dismissal—warm systems cannot be quantum—no longer holds.
 
 ## Further Reading
 
-- [[decoherence]] — Comprehensive treatment of what decoherence does and doesn't accomplish
-- [[decoherence]] — The Tegmark-Hameroff debate and neural coherence timescales
+- [[decoherence]] — Comprehensive treatment of decoherence, including the Tegmark-Hameroff debate on neural coherence timescales
 - [[measurement-problem]] — Why decoherence doesn't solve the fundamental issue
 - [[quantum-biology]] — Established quantum effects in biological systems
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
 - [[neural-implementation-specifics]] — How decoherence affects specific neural quantum mechanisms
+- [[consciousness-in-smeared-quantum-states]] — What consciousness does during quantum superposition
 - [[spontaneous-collapse-theories]] — Physical mechanisms for objective collapse (GRW, Penrose)
 - [[topics/free-will]] — How quantum indeterminacy relates to agent causation
 - [[tenets]] — The Map's foundational commitments
@@ -147,6 +147,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 
 1. Arndt, M., & Hornberger, K. (2014). Testing the limits of quantum mechanical superpositions. *Nature Physics*, 10, 271-277.
 1. Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
+1. Fein, Y.Y. et al. (2019). Quantum superposition of molecules beyond 25 kDa. *Nature Physics*, 15, 1242-1247.
 1. Hackermuller, L. et al. (2003). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.
 1. Kerskens, C.M., & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Schrödinger, E. (1935). Die gegenwärtige Situation in der Quantenmechanik. *Naturwissenschaften*, 23, 807-812.
