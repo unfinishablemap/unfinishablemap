@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 06:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [apophatic-approaches](/voids/apophatic-approaches/), [apophatic-cartography](/voids/apophatic-cartography/)
+- **Target**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Archived**: [apophatic-approaches](/archive/voids/apophatic-approaches/)
+- **References to review**: 31 active content files reference archived article
+- **Notes**: Merged philosophical foundations (apophatic tradition, Cusanus, Wittgenstein, McGinn, Whitehead, illusionism challenge) with formalized evidential method (four criteria, safeguards, worked example). Combined ~9,300 words into ~3,500 words. Voids section reduced from 100/100 to 99/100.
+
+## 2026-03-03 05:41 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+- **Word count**: 2490 → 2538 (+48)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to asymmetric-bandwidth-of-consciousness)
+- **Enhancements made**: 1 (inline cross-reference to companion article)
+- **Output**: [deep-review-2026-03-03-neural-bandwidth-constraints-and-the-interface](/reviews/deep-review-2026-03-03-neural-bandwidth-constraints-and-the-interface/)
+- **Notes**: Third review. Article confirmed stable. Cross-review with asymmetric bandwidth article found no contradictions; added bidirectional linking.
+
 ## 2026-03-03 04:42 UTC - deep-review
 - **Status**: Success
 - **File**: [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/)

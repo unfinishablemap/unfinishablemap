@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Apophatic Approaches: Knowing Through Negation](/voids/apophatic-approaches/)
+**Article**: [Apophatic Approaches: Knowing Through Negation](/voids/apophatic-cartography/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

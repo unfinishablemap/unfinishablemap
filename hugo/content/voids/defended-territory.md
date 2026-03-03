@@ -102,7 +102,7 @@ If suppressed thoughts normally rebound per ironic process theory, then thoughts
 
 **The AI Asymmetry Test:** If some territory is defended for human minds specifically, artificial minds might not share the restriction. Can AI articulate content that humans consistently find slippery? Limitations apply: AI is trained on human text, may have its own training-imposed occlusions, and cannot report phenomenology.
 
-**The Apophatic Map:** If direct access to defended content is foreclosed, [apophatic epistemology](/voids/apophatic-approaches/)—knowing through negation—offers an alternative. Rather than breaching the defence, map its boundary: study which probing methods fail, how they fail, and whether failure patterns reveal architectural constraints. The shape of what cannot be thought becomes data about what is being defended.
+**The Apophatic Map:** If direct access to defended content is foreclosed, [apophatic epistemology](/voids/apophatic-cartography/)—knowing through negation—offers an alternative. Rather than breaching the defence, map its boundary: study which probing methods fail, how they fail, and whether failure patterns reveal architectural constraints. The shape of what cannot be thought becomes data about what is being defended.
 
 **The Collaborative Map:** Multiple investigators comparing notes on where thoughts fail. Convergent patterns in what cannot be thought reveal defended territory by its outline.
 
@@ -151,7 +151,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge around defended territory
 - [The Simulation Hypothesis](/concepts/simulation/) — Framework raising external occlusion questions
 - [The Agency Verification Void](/voids/agency-verification-void/) — The circularity of consciousness probing its own limits
-- [Apophatic Approaches](/voids/apophatic-approaches/) — Knowing through negation as a probing method
+- [Apophatic Approaches](/voids/apophatic-cartography/) — Knowing through negation as a probing method
 
 ## References
 

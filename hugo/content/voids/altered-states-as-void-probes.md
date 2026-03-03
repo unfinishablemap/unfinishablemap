@@ -135,7 +135,7 @@ The ASC-as-void-probe question connects to the Map's [tenets](/tenets/):
 
 ## The Apophatic Connection
 
-The [apophatic tradition](/voids/apophatic-approaches/) offers a sophisticated framework for interpreting ASCs. Gregory of Nyssa's concept of "epektasis"—endless progression into divine infinity where each peak reveals new unknowing—parallels ASC phenomenology. Progress reveals more void, not arrival at destination.
+The [apophatic tradition](/voids/apophatic-cartography/) offers a sophisticated framework for interpreting ASCs. Gregory of Nyssa's concept of "epektasis"—endless progression into divine infinity where each peak reveals new unknowing—parallels ASC phenomenology. Progress reveals more void, not arrival at destination.
 
 On this reading, the noetic quality of ASCs is not illusory but also not evidence of transcendence. The conviction of touching something real reflects genuine contact with the structure of limits—the infinite regress of the edge, not something positively beyond it. Learned ignorance knows the limits more precisely without crossing them.
 
@@ -145,7 +145,7 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at cognitive boundaries
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded
-- [Apophatic Approaches](/voids/apophatic-approaches/) — Knowing through negation
+- [Apophatic Approaches](/voids/apophatic-cartography/) — Knowing through negation
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
 - [Voids in the Map](/voids/) — The broader context of cognitive limits
 - [Filter Theory](/concepts/filter-theory/) — The brain as receiver rather than producer

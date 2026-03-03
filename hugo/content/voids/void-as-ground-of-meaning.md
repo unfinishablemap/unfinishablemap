@@ -89,7 +89,7 @@ The constitutive thesis has a recursive difficulty. If we *fully* understood why
 
 This worry has teeth. Complete articulation of why silence is necessary would seem to violate the silence. A transparent explanation of why opacity enables meaning would seem to dissolve the opacity.
 
-Two responses emerge. First, the thesis may be partially articulable without being fully so—we can approach the insight without exhausting it, just as [apophatic methods](/voids/apophatic-approaches/) trace boundaries without crossing them. Second, the recursive difficulty may be an instance of the very phenomenon it worries about. The constitutive thesis resists complete articulation because *it itself* is subject to the limits it describes. The meta-void is a void too.
+Two responses emerge. First, the thesis may be partially articulable without being fully so—we can approach the insight without exhausting it, just as [apophatic methods](/voids/apophatic-cartography/) trace boundaries without crossing them. Second, the recursive difficulty may be an instance of the very phenomenon it worries about. The constitutive thesis resists complete articulation because *it itself* is subject to the limits it describes. The meta-void is a void too.
 
 ## What Would Challenge This View?
 
@@ -119,7 +119,7 @@ The constitutive thesis connects to each of the Map's [tenets](/tenets/):
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How the shape of limits reveals cognitive architecture
-- [apophatic-approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [apophatic-approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?
 - [death-void](/voids/death-void/) — How mortality structures temporal meaning
 - [other-minds-void](/voids/other-minds-void/) — How the unknowability of others grounds ethics

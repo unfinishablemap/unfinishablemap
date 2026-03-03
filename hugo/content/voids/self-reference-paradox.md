@@ -135,7 +135,7 @@ The voids framework gains a central example. The self-reference paradox may be t
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — When grasping truths about consciousness would undermine the capacity to hold them
-- [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The puzzle that may be permanently in the void
 - [intentionality](/concepts/intentionality/) — How the "aboutness" of thought creates self-reference when mind thinks about itself

@@ -85,7 +85,7 @@ The worry for permanent mysterianism, as the Internet Encyclopedia of Philosophy
 
 ## The Apophatic Method
 
-If direct verification of limits is impossible, [indirect methods](/voids/apophatic-approaches/) become essential. Apophatic methodology—knowing through negation—has roots in multiple philosophical and contemplative traditions.
+If direct verification of limits is impossible, [indirect methods](/voids/apophatic-cartography/) become essential. Apophatic methodology—knowing through negation—has roots in multiple philosophical and contemplative traditions.
 
 The approach: since positive description of what lies beyond our grasp will always distort, map the boundaries through systematic negation. What is consciousness *not*? It is not identical to neural activity (identity theories face the explanatory gap). It is not an illusion (eliminativism about consciousness faces self-refutation charges). It is not functional organisation alone (functionalism cannot capture qualia). Each negation rules out territory, gradually outlining what remains.
 
@@ -137,7 +137,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive dark spaces
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
-- [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 - [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Using failure patterns as data
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture

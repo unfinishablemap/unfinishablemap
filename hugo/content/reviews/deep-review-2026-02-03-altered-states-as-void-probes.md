@@ -62,7 +62,7 @@ Inbound links added from:
 - [filter-theory](/concepts/filter-theory/) — in psychedelic paradox section
 - [near-death-experiences](/concepts/near-death-experiences/) — in conclusion
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — in opening
-- [apophatic-approaches](/voids/apophatic-approaches/) — in phenomenological attention section
+- [apophatic-approaches](/voids/apophatic-cartography/) — in phenomenological attention section
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — in pharmacological intervention section
 
 ## Word Count

@@ -176,7 +176,7 @@ The framework-generated-voids analysis would be undermined if:
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers more than function requires
 - [The Givenness Void](/voids/the-givenness-void/) — Why experience presents as immediately given
 - [The Dissolution Problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent
-- [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 
 ## References
 

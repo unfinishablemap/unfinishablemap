@@ -26,6 +26,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-10
 last_curated: null
 last_deep_review: 2026-02-23T08:06:00+00:00
+archived: true
+archived_date: 2026-03-03T06:43:00+00:00
+superseded_by: "/voids/apophatic-cartography/"
+archive_reason: "Coalesced into Apophatic Cartography: Mapping What Cannot Be Mapped"
+original_path: "/voids/apophatic-approaches/"
 ---
 
 How do you map what cannot be mapped? The [[voids|voids section]] poses a challenge: if some thoughts are genuinely unthinkable for minds like ours, direct exploration fails before it begins. But multiple philosophical traditions have developed sophisticated methods for approaching the unknowable through negation and indirection. These *apophatic* approaches offer tools for tracing the boundaries of voids even when we cannot enter them.

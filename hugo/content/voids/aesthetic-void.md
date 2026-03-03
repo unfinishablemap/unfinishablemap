@@ -102,7 +102,7 @@ If aesthetic experience touches cognitive boundaries, art becomes a technology f
 
 **Apophatic aesthetics** parallels negative theology. Just as the via negativa describes the divine through what it cannot be, apophatic art gestures toward what cannot be directly depicted. Malevich's *Black Square*, Rothko's colour fields, Cage's *4'33"*—these works use absence and negation to approach what positive depiction cannot reach. The artwork does not represent the territory; it creates conditions for encountering it.
 
-This connects to [apophatic-approaches](/voids/apophatic-approaches/) more broadly. Knowing through negation—tracking what cannot be said rather than what can—may be the appropriate method for the aesthetic void. We cannot describe the territory, but we can map where description fails.
+This connects to [apophatic-approaches](/voids/apophatic-cartography/) more broadly. Knowing through negation—tracking what cannot be said rather than what can—may be the appropriate method for the aesthetic void. We cannot describe the territory, but we can map where description fails.
 
 **Art-making itself** may be a form of direct probing. The artwork is not a description but an instantiation—it does not point to aesthetic territory but constitutes it. Artists develop extraordinary capacities to enter and sustain aesthetic states, effectively training their interface with the void. The work they produce serves as an invitation: enter this space, approach this boundary, experience what cannot be said.
 
@@ -149,7 +149,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 - [creativity-void](/voids/creativity-void/) — The companion void: where creative insight originates
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [apophatic-approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [apophatic-approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
 - [language-thought-boundary](/voids/language-thought-boundary/) — The limits of articulation more broadly

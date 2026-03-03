@@ -252,4 +252,4 @@ Finally, the protocol recognizes that the Map has power. Content presented confi
 - [voids](/voids/) — The section this protocol governs
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — Related epistemic hygiene measures
 - [mysterianism](/concepts/mysterianism/) — The philosophical framework for cognitive closure
-- [apophatic-approaches](/voids/apophatic-approaches/) — Methodological tools for probing limits
+- [apophatic-approaches](/voids/apophatic-cartography/) — Methodological tools for probing limits

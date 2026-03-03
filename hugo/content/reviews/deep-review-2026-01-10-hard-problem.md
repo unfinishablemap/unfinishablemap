@@ -55,7 +55,7 @@ None. The article is well-structured and makes its arguments clearly.
 - [functionalism](/concepts/functionalism/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
-- [apophatic-approaches](/voids/apophatic-approaches/)
+- [apophatic-approaches](/voids/apophatic-cartography/)
 
 ## Remaining Items
 

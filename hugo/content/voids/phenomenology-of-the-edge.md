@@ -132,7 +132,7 @@ The phenomenology of the edge supports several of the Map's [tenets](/tenets/):
 
 ## Approaches to the Edge
 
-The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engaging with what exceeds articulation. Applied to edge-phenomenology:
+The [apophatic tradition](/voids/apophatic-cartography/) offers methods for engaging with what exceeds articulation. Applied to edge-phenomenology:
 
 **Systematic practice.** Contemplative traditions have developed precise methods for approaching cognitive limits. These are technologies for inducing edge-experiences reproducibly. The sophistication of these methods—distinguishing different jhana factors, different stages of insight, different qualities of absorption—suggests the territory can be mapped even if it cannot be fully articulated.
 
@@ -148,7 +148,7 @@ The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engag
 - [The Scale Void](/voids/scale-void/) — Another edge: where cosmic distances and deep time exceed comprehension
 - [The Mind-Space Void](/voids/mind-space-void/) — The inability to locate oneself in the space of possible minds
 - [Voids in the Map](/voids/) — The broader context of cognitive limits and what they reveal
-- [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for engaging with what exceeds articulation
+- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for engaging with what exceeds articulation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising edge-phenomenology as evidential data for boundary-mapping
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of slippage and dissolving insights
 - [The Habituation Void](/voids/habituation-void/) — Where the edge is not approached but hidden by familiarity

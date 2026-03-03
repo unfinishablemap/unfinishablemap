@@ -93,7 +93,7 @@ Buddhist traditions confirm this analysis. The teaching of impermanence (*anicca
 
 ## Approaches to the Edge
 
-The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engaging with conceptual limits. We can describe what pre-experience would have to be—the pastness quale applied to non-events, causal contact with what hasn't caused anything—and notice why it fails to cohere. The void takes shape through its contradictions.
+The [apophatic tradition](/voids/apophatic-cartography/) offers methods for engaging with conceptual limits. We can describe what pre-experience would have to be—the pastness quale applied to non-events, causal contact with what hasn't caused anything—and notice why it fails to cohere. The void takes shape through its contradictions.
 
 Limiting cases illuminate the boundary. **Déjà vu** applies the phenomenology of memory inappropriately—feeling pastness without genuine past contact. The experience is disorienting precisely because the pastness quale appears without its proper cause, illuminating what proper memory involves. **Highly predictable events** show that confidence doesn't transform prediction into pre-experience: you know you'll have coffee tomorrow, but vivid anticipation still lacks the pastness quale. **Reported precognitive experiences**, even if granted, would represent foreknowledge rather than re-living—a different quale structure entirely.
 
@@ -134,7 +134,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
 - [illusionism](/concepts/illusionism/) — The challenge that temporal qualia are mere functional markers
-- [apophatic-approaches](/voids/apophatic-approaches/) — Methods for engaging with what exceeds articulation
+- [apophatic-approaches](/voids/apophatic-cartography/) — Methods for engaging with what exceeds articulation
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [introspection](/concepts/introspection/) — First-person access to temporal experience
 - [qualia](/concepts/qualia/) — Irreducible qualities of experience, including pastness

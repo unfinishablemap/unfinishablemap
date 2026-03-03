@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-03 05:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,10 +25,11 @@ description: Conscious processing operates at ~10 bits/second while the brain ha
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 02:53:00+00:00
+last_deep_review: 2026-03-03 05:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[asymmetric-bandwidth-of-consciousness]]'
 - '[[attention-as-selection-interface]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[embodied-consciousness-and-the-interface]]'
@@ -54,7 +55,7 @@ Zheng and Meister's 2025 *Neuron* perspective article "The Unbearable Slowness o
 | Skilled gaming (e.g. StarCraft) | ~10 bits/second |
 | Choice-reaction tasks | ~5 bits/second |
 
-The variation is modest. Across radically different tasks—linguistic, motor, perceptual, cognitive—conscious throughput hovers within the same order of magnitude. Meanwhile, the optic nerve alone transmits on the order of 10⁸ bits per second. Aggregate sensory input reaches 10⁹ bits per second. The brain's internal processing bandwidth dwarfs conscious access by factors of millions.
+The variation is modest. Across radically different tasks—linguistic, motor, perceptual, cognitive—conscious throughput hovers within the same order of magnitude. Meanwhile, the optic nerve alone transmits on the order of 10⁸ bits per second. Aggregate sensory input reaches 10⁹ bits per second. The brain's internal processing bandwidth dwarfs conscious access by factors of millions. The sheer scale of this gap—consciousness receives billions of bits per second through the senses yet acts at roughly ten—constitutes a [dramatic information asymmetry](/topics/asymmetric-bandwidth-of-consciousness/) whose structure reveals as much as the bottleneck itself.
 
 This is not explained by limited sensory input (the input is vast), nor by limited motor output (motor systems can execute complex sequences far exceeding 10 bits/second when automated), nor by limited neural capacity (the brain has roughly 86 billion neurons). The bottleneck is specifically at *[conscious access](/concepts/access-consciousness/)*—the point where information becomes available to the experiencing subject.
 
@@ -168,6 +169,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 ## Further Reading
 
+- [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/) — The inbound-outbound bandwidth ratio and what the asymmetry reveals about the interface
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How the interface operates through attention and motor planning
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling law connecting conscious states to physical selections

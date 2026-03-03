@@ -222,7 +222,7 @@ Based on this research, different types of cognitive limits produce different fa
 
 ### Implications for Void Mapping
 
-If failures are structured, then attention to failure signatures could serve as an apophatic method—mapping voids by their effects rather than their content. This connects to [negative theology](/voids/apophatic-approaches/): we might learn about what cannot be said by studying how saying it fails.
+If failures are structured, then attention to failure signatures could serve as an apophatic method—mapping voids by their effects rather than their content. This connects to [negative theology](/voids/apophatic-cartography/): we might learn about what cannot be said by studying how saying it fails.
 
 Key questions:
 - Do the Map's proposed void categories (Unexplored, Unexplorable, Occluded) produce different failure signatures?

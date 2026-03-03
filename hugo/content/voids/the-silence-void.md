@@ -43,7 +43,7 @@ topics:
 
 The Unfinishable Map cannot map silence. Mapping is a cognitive activity—it requires categories, distinctions, language—and the silence void is the territory that opens only when cognition stops. Multiple contemplative traditions across centuries and cultures converge on a claim that should trouble any cartographic project: some truths are accessible only through the deliberate cessation of thought, and any attempt to articulate them destroys the conditions under which they are known. This void is not the absence of something. It is a territory whose entry condition is the suspension of the very faculties that make mapping possible.
 
-The silence void is distinct from related voids on the Map. The [dreamless-sleep-void](/voids/dreamless-sleep-void/) concerns involuntary absence—consciousness interrupted without the subject's participation. [Apophatic approaches](/voids/apophatic-approaches/) use negation, which is still active reasoning. The silence void concerns what happens when even negation ceases—when the thinker releases not just particular thoughts but the activity of thinking itself.
+The silence void is distinct from related voids on the Map. The [dreamless-sleep-void](/voids/dreamless-sleep-void/) concerns involuntary absence—consciousness interrupted without the subject's participation. [Apophatic approaches](/voids/apophatic-cartography/) use negation, which is still active reasoning. The silence void concerns what happens when even negation ceases—when the thinker releases not just particular thoughts but the activity of thinking itself.
 
 ## The Convergent Testimony
 
@@ -65,7 +65,7 @@ This debate remains unresolved. The Map does not require perennialism to be corr
 
 The silence void combines features of two void categories from the Map's [taxonomy](/voids/three-kinds-of-void/).
 
-**As unexplorable territory**: If genuine epistemic access requires the cessation of cognition, then no cognitive process—mapping, describing, arguing, even negating—can reach this territory. The observer is excluded by the requirement of observation. This is stronger than the [apophatic](/voids/apophatic-approaches/) strategy, which still employs reasoning through systematic denial. The silence void claims that even denial must stop.
+**As unexplorable territory**: If genuine epistemic access requires the cessation of cognition, then no cognitive process—mapping, describing, arguing, even negating—can reach this territory. The observer is excluded by the requirement of observation. This is stronger than the [apophatic](/voids/apophatic-cartography/) strategy, which still employs reasoning through systematic denial. The silence void claims that even denial must stop.
 
 **As occluded territory**: The void may be actively maintained. The *Cloud of Unknowing* implies that the "cloud of forgetting" must be deliberately placed because the mind naturally resists cessation, flooding silence with thoughts. Buddhist accounts describe years of training required to reach nirodha, as though the cognitive system has built-in defences against its own quieting. If consciousness is non-physical (as the Map's [dualism tenet](/tenets/#dualism) holds), these defences might serve a function: protecting the interface between consciousness and the physical world from disruption.
 
@@ -115,7 +115,7 @@ The void also raises a provocative implication for the Map itself. If consciousn
 
 ## Further Reading
 
-- [apophatic-approaches](/voids/apophatic-approaches/)
+- [apophatic-approaches](/voids/apophatic-cartography/)
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)

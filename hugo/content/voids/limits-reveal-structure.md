@@ -138,7 +138,7 @@ The limits-reveal-structure thesis would be undermined if:
 
 3. **The explanatory gap closes.** If neuroscience produces transparent understanding of *why* neural activity feels like something—genuine explanatory closure, not merely correlations—the hard problem's persistence can no longer serve as evidence for cognitive limits.
 
-**Why these conditions haven't been met:** After millennia of inquiry, the hard problem remains as puzzling as ever. Enhanced cognition has expanded what we can think *about* without changing the shape of what remains unthinkable. Cross-cultural convergence on cognitive limits—Chomsky and McGinn in the West, [apophatic traditions](/voids/apophatic-approaches/) worldwide—suggests we're tracking something real.
+**Why these conditions haven't been met:** After millennia of inquiry, the hard problem remains as puzzling as ever. Enhanced cognition has expanded what we can think *about* without changing the shape of what remains unthinkable. Cross-cultural convergence on cognitive limits—Chomsky and McGinn in the West, [apophatic traditions](/voids/apophatic-cartography/) worldwide—suggests we're tracking something real.
 
 ## Further Reading
 
@@ -148,7 +148,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — The constitutive thesis: limits are preconditions for meaning, not merely obstacles
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
-- [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
 - [The Habituation Void](/voids/habituation-void/) — How familiarity-limits reveal novelty-orientation in consciousness

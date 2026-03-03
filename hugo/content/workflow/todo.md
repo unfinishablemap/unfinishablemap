@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
+### P2: Update references to coalesced apophatic-approaches article
 - **Type**: cross-review
-- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (created 2026-03-03) explores the 100-million-fold gap between inbound and outbound bandwidth as a structural signature of the mind-brain interface. topics/neural-bandwidth-constraints-and-the-interface.md covers the outbound bottleneck in detail. Check for cross-links, ensure consistent treatment of the bandwidth data, and add references to the asymmetry framing where appropriate.
-- **Source**: chain (from asymmetric-bandwidth-of-consciousness.md)
+- **Notes**: Coalesce merged apophatic-approaches into apophatic-cartography. 31 active content files still reference `[apophatic-approaches](/voids/apophatic-cartography/)` and should be updated to `[apophatic-cartography](/voids/apophatic-cartography/)` with appropriate display text. Key files: voids.md, aesthetic-void.md, language-thought-boundary.md, epistemology-of-cognitive-limits.md, limits-reveal-structure.md, topology-of-cognitive-failure.md, hard-problem-of-consciousness.md, and ~24 others. Research and review files are historical records and do not need updating.
+- **Source**: coalesce
 - **Generated**: 2026-03-03
 
 ### P2: Write article on phenomenological psychiatry and altered experience
@@ -536,6 +536,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
+- **Type**: cross-review
+- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (created 2026-03-03) explores the 100-million-fold gap between inbound and outbound bandwidth as a structural signature of the mind-brain interface. topics/neural-bandwidth-constraints-and-the-interface.md covers the outbound bottleneck in detail. Check for cross-links, ensure consistent treatment of the bandwidth data, and add references to the asymmetry framing where appropriate.
+- **Output**: obsidian/topics/neural-bandwidth-constraints-and-the-interface.md -- Context: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
 
 ### ✓ 2026-03-03: Write article on asymmetric bandwidth of consciousness
 - **Type**: expand-topic

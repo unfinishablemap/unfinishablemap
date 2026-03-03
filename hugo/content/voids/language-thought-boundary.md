@@ -60,7 +60,7 @@ Chomsky extends this to fundamental structures: "It might turn out that 'free ac
 
 ## The Paradox of Articulating Ineffability
 
-We keep talking about what cannot be said. This creates a puzzle that the [apophatic tradition](/voids/apophatic-approaches/) has investigated for millennia.
+We keep talking about what cannot be said. This creates a puzzle that the [apophatic tradition](/voids/apophatic-cartography/) has investigated for millennia.
 
 Negative theology developed sophisticated methods: Pseudo-Dionysius called God "hypertheos"—beyond God—to avoid making claims while still pointing. Cusanus's *docta ignorantia* (learned ignorance) held that knowing what we cannot know is itself knowledge. Yet Jean-Luc Marion warned: even calling something "unthinkable" makes it a thinkable object under that label. How to escape?
 
@@ -158,7 +158,7 @@ The claim that language and thought have genuinely different limits would be cha
 
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy channel between phenomenal experience and language
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
-- [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 - [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/) — What concepts cannot be formed
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Related phenomena of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like

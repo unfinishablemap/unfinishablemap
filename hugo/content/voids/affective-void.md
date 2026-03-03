@@ -135,7 +135,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [synesthetic-void](/voids/synesthetic-void/) — How synesthesia reveals intra-species phenomenal access gaps
 - [appetitive-void](/voids/appetitive-void/) — How desire structures our mapping of emotional limits
 - [normative-void](/voids/normative-void/) — Moral truths beyond human cognitive reach—the ethics counterpart
-- [apophatic-approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
+- [apophatic-approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 
 ## References
 
