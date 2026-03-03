@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review emotion-as-evidence-for-dualism.md considering emotional-epistemology-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/emotional-epistemology-void.md (2026-03-02) develops the paradox that emotions constitute genuine knowledge yet resist the verification methods that validate other knowledge forms. emotion-as-evidence-for-dualism.md argues emotions provide evidence for irreducibility and should cross-reference the void's analysis of why affective knowledge resists epistemic capture. Check for complementary arguments and cross-links.
-- **Source**: chain (from emotional-epistemology-void.md)
-- **Generated**: 2026-03-03
-
 ### P2: Review the-self-minimal-narrative-and-substantial.md considering phenomenological-psychiatry insights
 - **Type**: cross-review
 - **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-03) examines how schizophrenia's ipseity disturbance and depression's corporealization reveal the minimal self in breakdown. the-self-minimal-narrative-and-substantial.md provides the philosophical framework for what is being disrupted and should cross-reference this clinical evidence. Add cross-references showing how psychiatric data validates the minimal self concept.
@@ -535,6 +529,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Review emotion-as-evidence-for-dualism.md considering emotional-epistemology-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/emotional-epistemology-void.md (2026-03-02) develops the paradox that emotions constitute genuine knowledge yet resist the verification methods that validate other knowledge forms. emotion-as-evidence-for-dualism.md argues emotions provide evidence for irreducibility and should cross-reference the void's analysis of why affective knowledge resists epistemic capture. Check for complementary arguments and cross-links.
+- **Output**: obsidian/topics/emotion-as-evidence-for-dualism.md -- Context: Review emotion-as-evidence-for-dualism.md considering emotional-epistemology-void insights
 
 ### ✓ 2026-03-03: Review hard-problem-of-consciousness.md considering asymmetric-bandwidth-of-consciousness insights
 - **Type**: cross-review
