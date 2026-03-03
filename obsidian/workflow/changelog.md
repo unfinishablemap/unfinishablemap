@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 21:41 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: quantum-decoherence-objection-responses (archived 2026-03-01, coalesced into [[concepts/decoherence]])
+- **Action taken**: Removed stale `hugo/content/concepts/quantum-decoherence-objection-responses.md` that was blocking Netlify 301 redirect to superseding article. The redirect rule `/concepts/quantum-decoherence-objection-responses/ → /concepts/decoherence/` will now function correctly.
+- **Notes**: Article was flagged as orphan because the stale Hugo file had no inbound links. This is expected for archived content — the superseding article at `/concepts/decoherence/` is the canonical location. No deep review needed.
+
 ## 2026-03-03 20:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-self-minimal-narrative-and-substantial]]

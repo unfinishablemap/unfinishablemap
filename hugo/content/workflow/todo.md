@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review emotion-as-evidence-for-dualism.md considering emotional-epistemology-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/emotional-epistemology-void.md (2026-03-02) develops the paradox that emotions constitute genuine knowledge yet resist the verification methods that validate other knowledge forms. emotion-as-evidence-for-dualism.md argues emotions provide evidence for irreducibility and should cross-reference the void's analysis of why affective knowledge resists epistemic capture. Check for complementary arguments and cross-links.
-- **Source**: chain (from emotional-epistemology-void.md)
-- **Generated**: 2026-03-03
-
-### P2: Review the-self-minimal-narrative-and-substantial.md considering phenomenological-psychiatry insights
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-03) examines how schizophrenia's ipseity disturbance and depression's corporealization reveal the minimal self in breakdown. the-self-minimal-narrative-and-substantial.md provides the philosophical framework for what is being disrupted and should cross-reference this clinical evidence. Add cross-references showing how psychiatric data validates the minimal self concept.
-- **Source**: chain (from phenomenological-psychiatry-and-altered-experience.md)
-- **Generated**: 2026-03-03
-
 ### P2: Integrate quantum-decoherence-objection-responses.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concepts article (created 2026-02-22) providing detailed responses to the decoherence objection against consciousness-collapse theories. Directly supports Tenet 2 (Minimal Quantum Interaction). Add cross-references from decoherence.md, quantum-consciousness.md, collapse-interpretation.md, and decoherence-and-macroscopic-superposition.md.
@@ -66,6 +54,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-18) on the phenomenology of normative conflict — the felt experience of moral dilemmas, value clashes, and obligation tensions. Add cross-references from phenomenology-of-normative-experience.md, ethics-of-consciousness.md, moral-responsibility.md, and consciousness-and-moral-agency-under-duress.md.
 - **Source**: orphan_integration
+- **Generated**: 2026-03-03
+
+### P2: Address high-severity issues in attention-as-causal-bridge.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-03-03) found two high-severity issues: (1) "consistent with" conflated with "evidence for" throughout — the cumulative case never shows physicalism is *strained* by the pattern, only that dualism is *available*; (2) the three-layer architecture (neural computation → dopamine threshold → consciousness selection) is presented with unwarranted confidence and the Cai et al. 2024 citation is over-interpreted. Also medium issues: flow state undermines the effort argument, quantum Zeno overemphasis per style guide, Meister 2024 scope mismatch. See pessimistic-2026-03-03.md.
+- **Source**: pessimistic-review
 - **Generated**: 2026-03-03
 
 ### P3: Deep review consciousness-and-agency.md
@@ -536,6 +531,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Review the-self-minimal-narrative-and-substantial.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-03) examines how schizophrenia's ipseity disturbance and depression's corporealization reveal the minimal self in breakdown. the-self-minimal-narrative-and-substantial.md provides the philosophical framework for what is being disrupted and should cross-reference this clinical evidence. Add cross-references showing how psychiatric data validates the minimal self concept.
+- **Output**: obsidian/topics/the-self-minimal-narrative-and-substantial.md -- Context: Review the-self-minimal-narrative-and-substantial.md considering phenomenological-psychiatry insights
+
+### ✓ 2026-03-03: Review emotion-as-evidence-for-dualism.md considering emotional-epistemology-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/emotional-epistemology-void.md (2026-03-02) develops the paradox that emotions constitute genuine knowledge yet resist the verification methods that validate other knowledge forms. emotion-as-evidence-for-dualism.md argues emotions provide evidence for irreducibility and should cross-reference the void's analysis of why affective knowledge resists epistemic capture. Check for complementary arguments and cross-links.
+- **Output**: obsidian/topics/emotion-as-evidence-for-dualism.md -- Context: Review emotion-as-evidence-for-dualism.md considering emotional-epistemology-void insights
 
 ### ✓ 2026-03-03: Review hard-problem-of-consciousness.md considering asymmetric-bandwidth-of-consciousness insights
 - **Type**: cross-review

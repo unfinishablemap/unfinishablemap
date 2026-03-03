@@ -18,6 +18,32 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 20:41 UTC - deep-review
+- **Status**: Success
+- **File**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Word count**: 2496 → 2782 (+286)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing Sass & Parnas citation, underutilized phenomenological psychiatry evidence, unaddressed minimal-self/substantial-self tension)
+- **Enhancements made**: 4 (expanded ipseity disturbance with DPD evidence, clinical evidence for layered model, addressed self-disruption tension, added cross-link)
+- **Output**: [deep-review-2026-03-03-the-self-minimal-narrative-and-substantial](/reviews/deep-review-2026-03-03-the-self-minimal-narrative-and-substantial/)
+
+## 2026-03-03 19:41 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: apex/attention-as-causal-bridge.md (also cross-referenced source articles: concepts/attention-as-interface.md, topics/attention-consciousness-dissociation.md)
+- **Output**: [pessimistic-2026-03-03](/reviews/pessimistic-2026-03-03/)
+- **Critical issues found**: 2 high (cumulative case conflation, three-layer architecture unsupported), 3 medium (flow state tension, quantum Zeno overemphasis, Meister citation scope)
+- **Tasks generated**: 1 (P2 refine-draft for attention-as-causal-bridge.md)
+
+## 2026-03-03 18:41 UTC - deep-review
+- **Status**: Success
+- **File**: [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/)
+- **Context**: Cross-review considering emotional-epistemology-void insights
+- **Word count**: 1914 → 2154 (+240)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (dangling LeDoux & Brown reference removed)
+- **Enhancements made**: 4 (new Epistemic Dimension section, cross-links to emotional-epistemology-void and epistemic-emotions, 3 new references added)
+- **Output**: [deep-review-2026-03-03-emotion-as-evidence-for-dualism](/reviews/deep-review-2026-03-03-emotion-as-evidence-for-dualism/)
+
 ## 2026-03-03 17:41 UTC - deep-review
 - **Status**: Success
 - **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

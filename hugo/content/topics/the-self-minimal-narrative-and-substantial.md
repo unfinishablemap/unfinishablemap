@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-02-08 22:14:00+00:00
+ai_modified: 2026-03-03 20:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: What kind of thing are you? Three answers compete—bare perspectiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-08 22:14:00+00:00
+last_deep_review: 2026-03-03 20:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ The minimal self has three features that distinguish it from richer conceptions:
 
 **Pre-reflective**: It operates before and beneath explicit self-awareness. An infant experiences the world from a first-person perspective long before developing the capacity for self-reflection.
 
-**Non-narrative**: It does not depend on having a life story. Patients with severe amnesia who cannot construct autobiographical narratives still experience from a first-person perspective. The minimal self persists when narrative breaks down. Conversely, [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) shows that in schizophrenia the minimal self itself can be disrupted—the ipseity disturbance model demonstrates that pre-reflective "for-me-ness" can erode while narrative capacity remains partially intact.
+**Non-narrative**: It does not depend on having a life story. Patients with severe amnesia who cannot construct autobiographical narratives still experience from a first-person perspective. The minimal self persists when narrative breaks down. Conversely, [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) shows that in schizophrenia the minimal self itself can be disrupted—Sass and Parnas's ipseity disturbance model demonstrates that pre-reflective "for-me-ness" can erode through hyperreflexivity (normally tacit features of experience becoming alien objects of attention) and diminished self-affection (weakened sense of being a vital source of awareness), while narrative capacity remains partially intact. In [depersonalization/derealization disorder](/topics/phenomenological-psychiatry-and-altered-experience/), distinct components of the minimal self—mineness, the sense that experiences are one's own; actuality, the sense that the world is real; and temporal presence, the sense of being in the now—can each be disrupted independently, revealing that even the "basic" first-person perspective has internal structure.
 
 **Necessary**: There appear to be no genuinely anonymous experiences—no consciousness that belongs to nobody. [The minimal self](/concepts/self-and-consciousness/) is not an optional addition to experience but its very form.
 
@@ -121,7 +121,11 @@ The **substantial self** is the irreducible particular that grounds both: *this*
 
 Buddhist deconstruction reveals the layered structure. Meditative practice peels away narrative (the story of who you are), then peels away identification (the sense of being a particular *kind* of thing), arriving at bare witnessing. But the witness is not nothing—it is the substantial self, stripped of everything except its irreducible "thisness." The [Buddhist insight](/concepts/buddhism-and-dualism/) that the *constructed* self is illusory is compatible with the Map's claim that the *substantial* self is real. They target different layers.
 
+Phenomenological psychiatry provides clinical confirmation of this layered structure. Schizophrenia's ipseity disturbance disrupts the minimal self while leaving narrative partially functional—patients can still tell stories about their lives even as the basic "for-me-ness" of experience becomes strange and attenuated. Depersonalization disorders disrupt mineness while leaving cognitive function largely intact. In each case, one layer is altered while others persist, precisely as the nested model predicts. If the self were a single undifferentiated construction, as eliminativists hold, selective disruption of one layer while others remain functional would be difficult to explain.
+
 A deeper Buddhist objection presses further. Mādhyamaka philosophy applies *śūnyatā* (emptiness) to all phenomena, including witness-awareness itself. On this view, even the witness is dependently arising, not a findable entity under ultimate analysis. The Map acknowledges this challenge but distinguishes between conceptual findability and ontological reality. The substantial self need not be findable by introspection—as the next section argues, its unobservability is a structural feature, not evidence of absence.
+
+A related challenge comes from [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/). If the minimal self is the substantial self's "phenomenological disclosure," and the minimal self can erode—as in schizophrenia's ipseity disturbance—does the substantial self erode too? The Map's answer: disruption of the minimal self alters how the substantial self *appears to itself*, not whether it exists. Consciousness persists through ipseity disturbance; it becomes strange and attenuated rather than vanishing. The substantial self's window onto itself can be smudged, cracked, or distorted without the glass disappearing. This is precisely what [contemplative traditions](/topics/contemplative-evidence-for-consciousness/) and clinical evidence jointly suggest: the subject endures through radical alteration of how it experiences its own subjectivity.
 
 ## The Unobservable Self Complication
 
@@ -171,6 +175,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 1. Ricoeur, P. (1992). *Oneself as Another*. University of Chicago Press.
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 1. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
+1. Sass, L. A., & Parnas, J. (2003). "Schizophrenia, Consciousness, and the Self." *Schizophrenia Bulletin*, 29(3), 427-444.
 1. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
