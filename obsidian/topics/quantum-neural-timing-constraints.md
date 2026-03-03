@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-03T02:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,6 +200,7 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - [[attention-as-interface|voluntary attention]] — Willed attention deployment and frontal theta
 - [[attention-motor-quantum-interface]] — Unification of attention and motor timing
 - [[measurement-problem]] — Why decoherence doesn't solve outcome selection
+- [[neural-implementation-specifics]] — How timing constraints differ across five quantum neural mechanisms
 
 ## References
 

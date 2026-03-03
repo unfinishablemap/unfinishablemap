@@ -4,7 +4,7 @@ description: "Non-trivial quantum effects in living systems—photosynthesis, bi
 created: 2026-01-16
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-29T12:00:00+00:00
+ai_modified: 2026-03-03T02:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -287,6 +287,7 @@ The Map's position on quantum biology would face serious difficulty if:
 - [[tenets]] — the Map's foundational commitments including Minimal Quantum Interaction
 - [[quantum-biology-consciousness-2026-01-16]] — Research notes on quantum biology evidence
 - [[quantum-biology-neural-mechanisms-2026-01-24]] — Research notes on neural-specific quantum mechanisms
+- [[neural-implementation-specifics]] — Mechanism-specific evidence evaluation and crucial experiments
 
 ## References
 

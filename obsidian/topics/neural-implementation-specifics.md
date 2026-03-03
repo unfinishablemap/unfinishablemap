@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-08T19:59:00+00:00
+ai_modified: 2026-03-03T02:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,6 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[neural-correlates-of-consciousness]]"
-  - "[[decoherence]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[measurement-problem]]"
   - "[[causal-closure]]"
@@ -27,7 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-08T19:59:00+00:00
+last_deep_review: 2026-03-03T02:44:00+00:00
 ---
 
 Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest experimental foundation—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
@@ -238,6 +237,7 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 - [[decoherence]] — The decoherence critique in detail
 - [[neural-correlates-of-consciousness]] — Where consciousness correlates with brain activity
 - [[quantum-consciousness]] — Overview of quantum approaches
+- [[comparing-quantum-consciousness-mechanisms]] — Head-to-head evaluation of competing mechanisms
 
 ## References
 

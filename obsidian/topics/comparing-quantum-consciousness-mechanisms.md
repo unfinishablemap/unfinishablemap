@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-25T20:25:00+00:00
+ai_modified: 2026-03-03T02:44:00+00:00
 last_deep_review: 2026-02-22T10:11:00+00:00
 draft: false
 topics:
@@ -145,6 +145,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[quantum-biology-and-the-consciousness-debate]] — Why quantum biology shifts the burden of proof
 - [[decoherence]] — The decoherence challenge in detail
 - [[quantum-neural-timing-constraints]] — Decoherence and timing considerations for neural quantum effects
+- [[neural-implementation-specifics]] — Detailed evidence hierarchy for each proposed mechanism
 - [[quantum-measurement-consciousness-interface]] — How consciousness relates to quantum measurement
 - [[quantum-indeterminacy-free-will]] — Why mechanism choice matters for libertarian free will
 - [[prebiotic-collapse]] — What collapsed before conscious observers
