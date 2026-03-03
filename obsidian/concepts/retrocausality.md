@@ -84,7 +84,7 @@ The [[quantum-indeterminacy-free-will|systematic treatment of quantum indetermin
 
 ### The Atemporal Selection Model
 
-If the transactional interpretation is correct—including a satisfactory response to Maudlin's contingent absorber challenge—and if consciousness operates at the level of the quantum handshake, then asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. See [[collapse-and-time]] for the implications. Both premises are contested; the package is coherent but speculative.
+If the transactional interpretation is correct—including a satisfactory response to Maudlin's contingent absorber challenge—and if consciousness operates at the level of the quantum handshake, then asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. This is [[atemporal-causation|atemporal causation]]—causation that operates outside temporal sequence entirely, determining which history becomes actual rather than flowing from earlier events to later ones. See [[collapse-and-time]] for the implications. Both premises are contested; the package is coherent but speculative.
 
 ### Addressing Objections
 
@@ -174,6 +174,7 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 - [[presentiment-and-retrocausality]] — Distinguishing physics-based retrocausality from contested parapsychology
 - [[quantum-consciousness]] — Orch OR and Stapp's Zeno mechanisms
 - [[motor-selection]] — Motor control as second selection domain
+- [[atemporal-causation]] — Causation outside temporal sequence
 - [[tenets]] — Foundational commitments
 
 ## References

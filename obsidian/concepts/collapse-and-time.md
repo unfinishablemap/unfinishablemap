@@ -66,7 +66,7 @@ A third approach preserves fundamental [[time-symmetric-physics|time-symmetry]].
 
 In these views, "collapse" isn't a moment when superposition ends. It's the satisfaction of constraints across time—a transaction confirmed when future and past conditions align. The apparent arrow emerges perspectivally, from observers embedded within the temporal structure.
 
-For consciousness, this opens a striking possibility. If [[retrocausality|retrocausal]] influence is real, consciousness's role in collapse needn't be temporally located. Consciousness might select *which transaction completes*, operating atemporally to determine which correlations hold between past preparation and future measurement. The flow of time would emerge from the pattern of such selections, not precede them.
+For consciousness, this opens a striking possibility. If [[retrocausality|retrocausal]] influence is real, consciousness's role in collapse needn't be temporally located. Consciousness might select *which transaction completes* through [[atemporal-causation|atemporal causation]], determining which correlations hold between past preparation and future measurement. The flow of time would emerge from the pattern of such selections, not precede them.
 
 ## Collapse and the Philosophy of Time
 
@@ -158,6 +158,7 @@ The connection between collapse and time strengthens multiple tenets:
 - [[specious-present]] — The experienced duration of "now" and its connection to collapse timing
 - [[duration]] — Bergson's qualitative time and the creative advance of durée
 - [[philosophy-of-time]] — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
+- [[atemporal-causation]] — Causation outside temporal sequence
 - [[retrocausality]] — How time-symmetric physics grounds backward causation
 - [[measurement-problem]] — Why collapse remains unexplained
 - [[quantum-consciousness]] — Mechanisms for consciousness-collapse interaction

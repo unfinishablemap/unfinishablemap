@@ -64,7 +64,7 @@ Different agents can consistently assign different quantum states to the same sy
 
 The transactional interpretation (John Cramer, 1986) and two-state vector formalism (Aharonov, Bergmann, Lebowitz, 1964) treat quantum events as involving "handshakes" between forward-in-time (retarded) and backward-in-time (advanced) waves. A "transaction" between emitter and absorber constitutes measurement. Future boundary conditions matter as much as past ones.
 
-**This is where [[retrocausality]] enters quantum mechanics directly.** In time-symmetric interpretations, consciousness need not cause collapse *at* a moment. Instead, it could participate atemporally in determining which correlations hold across time—selecting "which transaction completes" without being bound to a single temporal instant. This resonates with [[process-philosophy]]'s account of "actual occasions"—discrete moments where genuine novelty emerges through the resolution of potentiality into actuality. A transaction completing could be understood as an actual occasion: a moment of becoming that is neither purely determined by the past nor external to experience.
+**This is where [[retrocausality]] enters quantum mechanics directly.** In time-symmetric interpretations, consciousness need not cause collapse *at* a moment. Instead, it could participate in [[atemporal-causation|atemporal causation]]—determining which correlations hold across time by selecting "which transaction completes" without being bound to a single temporal instant. This resonates with [[process-philosophy]]'s account of "actual occasions"—discrete moments where genuine novelty emerges through the resolution of potentiality into actuality. A transaction completing could be understood as an actual occasion: a moment of becoming that is neither purely determined by the past nor external to experience.
 
 The [[collapse-and-time]] page already draws on this framework to resolve the [[libet-experiments|Libet problem]]: backward-in-time influences allow conscious decisions to affect neural precursors without violating the forward causal order we observe. Transactional interpretations provide the physical foundation for "atemporal selection."
 
@@ -116,6 +116,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-quantum interaction (Stapp, Penrose-Hameroff, IIT-collapse)
 - [[quantum-measurement-and-subjective-probability]] — Why subjective probability interpretations fail phenomenologically
 - [[retrocausality]] — Backward-in-time influences in physics
+- [[atemporal-causation]] — Causation outside temporal sequence
 - [[process-philosophy]] — How actual occasions relate to quantum becoming
 - [[hard-problem-of-consciousness]] — Why consciousness is the explanatory target
 - [[mysterianism]] — Why some gaps may be permanently open

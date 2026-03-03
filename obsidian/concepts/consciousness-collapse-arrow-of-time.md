@@ -56,7 +56,7 @@ This faces the [[prebiotic-collapse|prebiotic collapse problem]]: the universe p
 
 ### Atemporal Selection
 
-The subtle view, drawing on [[retrocausality|time-symmetric quantum mechanics]]: consciousness's role in collapse is not *in* time but *constitutive of* time. On the transactional interpretation, quantum events involve atemporal "handshakes" between past and future boundary conditions. Consciousness selects which transaction completes—not at a moment, but across moments.
+The subtle view, drawing on [[retrocausality|time-symmetric quantum mechanics]]: consciousness's role in collapse is not *in* time but *constitutive of* time. On the transactional interpretation, quantum events involve atemporal "handshakes" between past and future boundary conditions. Consciousness selects which transaction completes through [[atemporal-causation|atemporal causation]]—not at a moment, but across moments.
 
 Here, asking whether consciousness creates or discovers time's arrow is the wrong question. The selection determines which temporal structure becomes actual. Time's arrow emerges from the pattern of selections rather than preceding them. Consciousness and temporal direction co-arise: neither is prior.
 
@@ -100,6 +100,7 @@ The triad of consciousness, collapse, and time's arrow engages all five tenets:
 
 - [[collapse-and-time]] — The physics of collapse and temporal asymmetry in detail
 - [[time-collapse-and-agency]] — Full metaphysical framework: time, collapse, free will, and agency
+- [[atemporal-causation]] — Causation outside temporal sequence
 - [[retrocausality]] — Time-symmetric physics and backward causation
 - [[measurement-problem]] — Why definite outcomes remain unexplained
 - [[quantum-consciousness]] — Mechanisms for consciousness-collapse interaction

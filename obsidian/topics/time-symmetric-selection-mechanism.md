@@ -33,7 +33,7 @@ last_curated:
 last_deep_review: 2026-02-01T19:17:00+00:00
 ---
 
-Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through atemporal constraint satisfaction. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
+Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [[atemporal-causation|atemporal constraint satisfaction]]. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
 
 The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection provides such a mechanism while avoiding the objection that consciousness "arrives too late" to cause the brain activity it supposedly controls.
 
@@ -218,6 +218,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 - [[agent-causation]] — How agents serve as ultimate sources
 - [[specious-present]] — The temporal thickness of conscious experience
 - [[temporal-consciousness]] — Broader treatment of time in consciousness
+- [[atemporal-causation]] — The metaphysics of causation outside temporal sequence
 - [[tenets]] — The Map's foundational commitments
 
 ## References

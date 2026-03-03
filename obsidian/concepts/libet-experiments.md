@@ -110,7 +110,7 @@ The timing problem—consciousness seeming to arrive "too late"—assumes linear
 
 **Cramer's transactional interpretation**: Quantum events involve "offer waves" propagating forward and "confirmation waves" propagating backward. The "handshake" between them—the transaction—is atemporal. It doesn't occur at a moment; it determines which moments become actual.
 
-**Application to Libet**: If consciousness selects among quantum possibilities atemporally, it doesn't need to precede the neural preparation in linear time. The selection determines which temporal sequence becomes real—including the RP that "preceded" it. What we see as neural activity predicting the decision is actually the selected history.
+**Application to Libet**: If consciousness selects among quantum possibilities through [[atemporal-causation|atemporal causation]]—operating outside temporal sequence entirely—it doesn't need to precede the neural preparation in linear time. The selection determines which temporal sequence becomes real—including the RP that "preceded" it. What we see as neural activity predicting the decision is actually the selected history.
 
 The RP doesn't precede conscious choice in any causally significant sense. It's part of the package consciousness selected, including its temporal ordering.
 
@@ -199,6 +199,7 @@ The Map's position is that current evidence supports selection over randomness, 
 - [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and stochastic pre-state challenge
 - [[luck-objection]] — Why indeterminism doesn't reduce selection to randomness
 - [[retrocausality]] — How backward causation resolves the timing problem
+- [[atemporal-causation]] — Causation outside temporal sequence: why consciousness can't be "too late"
 - [[topics/time-symmetric-selection-mechanism]] — The atemporal transaction model that dissolves the Libet timing puzzle
 - [[presentiment-and-retrocausality]] — Why physics-based retrocausality differs from contested presentiment claims
 - [[quantum-consciousness]] — Mechanisms for consciousness at the quantum level

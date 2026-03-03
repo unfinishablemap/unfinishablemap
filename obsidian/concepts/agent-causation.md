@@ -151,7 +151,7 @@ The Map satisfies both conditions for free will:
 - **Sourcehood**: Consciousness selects which quantum outcome becomes actual
 - **Alternative possibilities**: Multiple outcomes were genuinely possible until selection
 
-The [[retrocausality|retrocausal dimension]] deepens this: if selection is atemporal, determining which temporal history becomes real, the agent is "the cause of there being this chain at all." The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis develops the full implications: agents don't just act *within* time—they participate in time's constitution. If collapse creates temporal direction, and consciousness participates in collapse, then agent causation becomes participation in creating the temporal structure within which actions unfold.
+The retrocausal dimension deepens this: if selection operates through [[atemporal-causation|atemporal causation]]—determining which temporal history becomes real—the agent is "the cause of there being this chain at all." The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis develops the full implications: agents don't just act *within* time—they participate in time's constitution. If collapse creates temporal direction, and consciousness participates in collapse, then agent causation becomes participation in creating the temporal structure within which actions unfold.
 
 ## Skill Delegation and the Interface
 
@@ -230,6 +230,7 @@ Against [[concepts/epiphenomenalism]]: substance causation combined with the sel
 - [[implicit-memory]] — Skill delegation and choking phenomenon
 - [[mental-causation]] — The problem substance causation addresses
 - [[downward-causation]] — How higher-level substances influence lower-level processes
+- [[atemporal-causation]] — Causation outside temporal sequence
 - [[causal-closure]] — The principle substance causation challenges
 - [[causal-interface]] — Why the mechanism of agent causation is systematically invisible
 - [[decoherence]] — The decoherence challenge

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate atemporal-causation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Concept article (created 2026-02-14) on atemporal causation — relevant to the Map's treatment of retrocausality, time-symmetric collapse, and the metaphysics of time. Add cross-references from retrocausality.md, time-collapse-and-agency.md, philosophy-of-time.md, and causation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-02
-
 ### P2: Integrate neural-implementation-specifics.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Topics article (created 2026-02-01) on neural implementation specifics — relevant to the Map's treatment of neural correlates, the interface framework, and why implementation details matter for consciousness theories. Add cross-references from neural-correlates.md, consciousness-and-the-brain.md, interface-friction.md, and binding-problem.md.
@@ -487,6 +481,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Integrate atemporal-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Concept article (created 2026-02-14) on atemporal causation — relevant to the Map's treatment of retrocausality, time-symmetric collapse, and the metaphysics of time. Add cross-references from retrocausality.md, time-collapse-and-agency.md, philosophy-of-time.md, and causation.md.
+- **Output**: obsidian/concepts/atemporal-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-02: Research asymmetric bandwidth of consciousness
 - **Type**: research-topic
