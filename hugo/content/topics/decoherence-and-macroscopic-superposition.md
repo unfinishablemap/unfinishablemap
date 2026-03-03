@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 18:10:02+00:00
+ai_modified: 2026-03-03 02:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -141,6 +141,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the fundamental issue
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in biological systems
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
+- [neural-implementation-specifics](/topics/neural-implementation-specifics/) — How decoherence affects specific neural quantum mechanisms
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — Physical mechanisms for objective collapse (GRW, Penrose)
 - [free-will](/topics/free-will/) — How quantum indeterminacy relates to agent causation
 - [tenets](/tenets/) — The Map's foundational commitments

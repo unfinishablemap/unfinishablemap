@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-29 12:00:00+00:00
+ai_modified: 2026-03-03 02:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -289,6 +289,7 @@ The Map's position on quantum biology would face serious difficulty if:
 - [tenets](/tenets/) — the Map's foundational commitments including Minimal Quantum Interaction
 - [quantum-biology-consciousness-2026-01-16](/research/quantum-biology-consciousness-2026-01-16/) — Research notes on quantum biology evidence
 - [quantum-biology-neural-mechanisms-2026-01-24](/research/quantum-biology-neural-mechanisms-2026-01-24/) — Research notes on neural-specific quantum mechanisms
+- [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Mechanism-specific evidence evaluation and crucial experiments
 
 ## References
 

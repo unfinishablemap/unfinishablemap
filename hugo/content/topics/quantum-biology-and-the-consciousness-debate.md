@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-26 08:23:00+00:00
+ai_modified: 2026-03-03 02:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -137,6 +137,7 @@ Quantum biology connects to all five of the Map's [tenets](/tenets/):
 
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms for neural quantum effects
+- [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evaluating neural mechanism evidence and crucial experiments
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental causation

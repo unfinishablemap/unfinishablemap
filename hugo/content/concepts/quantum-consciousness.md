@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-01 01:07:00+00:00
+ai_modified: 2026-03-03 02:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -191,6 +191,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Mechanisms and timing:**
 - [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence status
+- [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evidence hierarchy across five proposed neural mechanisms
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of the quantum Zeno mechanism
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond to 300ms neural decisions
 - [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Unification of attention and motor selection

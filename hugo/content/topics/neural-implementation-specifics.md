@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-08 19:59:00+00:00
+ai_modified: 2026-03-03 02:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,6 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
 - '[[neural-correlates-of-consciousness]]'
-- '[[decoherence]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[measurement-problem]]'
 - '[[causal-closure]]'
@@ -22,7 +21,7 @@ description: Evaluating quantum neural mechanism evidence. Radical pairs lead, m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-08 19:59:00+00:00
+last_deep_review: 2026-03-03 02:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -240,6 +239,7 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 - [decoherence](/concepts/decoherence/) — The decoherence critique in detail
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Where consciousness correlates with brain activity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches
+- [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Head-to-head evaluation of competing mechanisms
 
 ## References
 

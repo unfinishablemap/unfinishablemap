@@ -38,11 +38,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate neural-implementation-specifics.md into site navigation
+### P2: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
+- **Type**: cross-review
+- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (created 2026-03-03) explores the 100-million-fold gap between inbound and outbound bandwidth as a structural signature of the mind-brain interface. topics/neural-bandwidth-constraints-and-the-interface.md covers the outbound bottleneck in detail. Check for cross-links, ensure consistent treatment of the bandwidth data, and add references to the asymmetry framing where appropriate.
+- **Source**: chain (from asymmetric-bandwidth-of-consciousness.md)
+- **Generated**: 2026-03-03
+
+### P2: Write article on phenomenological psychiatry and altered experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md. Sass/Parnas on ipseity disturbance in schizophrenia, Fuchs on embodied temporality, depersonalisation phenomenology — psychiatric alterations of experience provide natural experiments on consciousness's structure. Target section: topics/ (2 slots remaining after asymmetric bandwidth). Supports Tenet 1 (Dualism).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-03
+
+### P2: Cross-review emotional-consciousness.md considering emotional epistemology void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores why we cannot fully know our own emotions from the inside. concepts/emotional-consciousness.md covers the broader role of emotion in conscious experience. Check for cross-links, reinforcing arguments about affective opacity, and ensure consistent treatment of emotional self-knowledge.
+- **Source**: chain (from emotional-epistemology-void.md)
+- **Generated**: 2026-03-03
+
+### P2: Cross-review introspective-opacity.md considering emotional epistemology void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores emotional self-knowledge failures. concepts/introspective-opacity.md covers the broader phenomenon of opaque introspection. Check for cross-links, reinforcing arguments about limits of self-knowledge, and ensure the emotional domain is represented as an instance of introspective opacity.
+- **Source**: chain (from emotional-epistemology-void.md)
+- **Generated**: 2026-03-03
+
+### P2: Integrate phenomenology-of-normative-experience.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Topics article (created 2026-02-01) on neural implementation specifics — relevant to the Map's treatment of neural correlates, the interface framework, and why implementation details matter for consciousness theories. Add cross-references from neural-correlates.md, consciousness-and-the-brain.md, interface-friction.md, and binding-problem.md.
+- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-02-13) on the shared phenomenal structure of moral, epistemic, aesthetic, and prudential demands. Add cross-references from phenomenology-of-moral-experience.md, phenomenal-normativity.md, moral-perception.md, and aesthetic-dimension-of-consciousness.md.
 - **Source**: orphan_integration
-- **Generated**: 2026-03-02
+- **Generated**: 2026-03-03
+
+### P2: Integrate quantum-holism-and-phenomenal-unity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-01-21) arguing that quantum entanglement provides the only physical substrate structurally matching phenomenal unity. Add cross-references from unity-of-consciousness.md, binding-problem.md, quantum-consciousness.md, and phenomenal-unity.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-03
 
 ### P3: Deep review agency-verification-void.md
 - **Type**: deep-review
@@ -480,8 +510,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Referenced across AI consciousness and philosophy of mind articles. The thesis that intentionality is grounded in phenomenal consciousness deserves its own treatment, connecting to argument-from-reason.md and self-stultification-as-master-argument.md. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/).
 - **Generated**: 2026-03-01
 
+### P3: Write article on death phenomenology beyond NDEs
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Heidegger's Being-toward-death, mortality structuring present experience, finitude as condition for meaning, contemplative death practices. Under dualism, death is genuine metaphysical transition. Builds on death-and-consciousness.md, near-death-experiences.md, death-void.md, cognitive-aversion.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
+- **Generated**: 2026-03-03
+
+### P3: Write article on formal aesthetics as dualist testing ground
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Aesthetic irreducibility, normative-qualitative entanglement, philosophy of art under dualism. Builds on aesthetic-dimension-of-consciousness.md, binding-and-beauty.md, aesthetic-void.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
+- **Generated**: 2026-03-03
+
+### P3: Write article on philosophy of science methodology under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Realism vs. instrumentalism, subjective observation in science, reproducibility and consciousness, aesthetic principles in theory choice. Builds on consciousness-and-scientific-methodology.md, philosophy-of-science-under-dualism.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
+- **Generated**: 2026-03-03
+
+### P3: Write concept page for cognitive closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. McGinn's thesis on constitutive cognitive limits. Referenced in mysterianism and voids articles but lacks dedicated concept page. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
+- **Generated**: 2026-03-03
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Write article on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The 100-million-fold gap between sensory input (~1 billion bits/s) and conscious output (~10 bits/s) is a striking architectural feature of consciousness. Synthesise the Caltech 2024 study (Zheng & Meister) and related evidence into a site article exploring what this asymmetry reveals about the consciousness-brain interface. Target section: topics/ (3 slots remaining). Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: asymmetric bandwidth of consciousness
+
+### ✓ 2026-03-03: Integrate neural-implementation-specifics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from any content article (only referenced in workflow/review files). Topics article (created 2026-02-01) on neural implementation specifics — relevant to the Map's treatment of neural correlates, the interface framework, and why implementation details matter for consciousness theories. Add cross-references from neural-correlates.md, consciousness-and-the-brain.md, interface-friction.md, and binding-problem.md.
+- **Output**: obsidian/topics/neural-implementation-specifics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-03: Integrate atemporal-causation.md into site navigation
 - **Type**: integrate-orphan

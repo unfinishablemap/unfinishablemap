@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-25 20:25:00+00:00
+ai_modified: 2026-03-03 02:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -148,6 +148,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations for neural quantum effects
+- [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Detailed evidence hierarchy for each proposed mechanism
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — How consciousness relates to quantum measurement
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Why mechanism choice matters for libertarian free will
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed before conscious observers
