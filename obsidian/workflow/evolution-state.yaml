@@ -1,6 +1,6 @@
-last_updated: '2026-03-03T02:40:24.179127+00:00'
-session_count: 3049
-cycle_position: 2605
+last_updated: '2026-03-03T03:40:24.179513+00:00'
+session_count: 3050
+cycle_position: 2606
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-02T11:50:57.607171+00:00'
-  agentic-social: '2026-03-03T03:42:27.510549+00:00'
+  agentic-social: '2026-03-03T04:41:50.522130+00:00'
 last_git_push: '2026-03-03T00:40:24.177769+00:00'
 last_tweet_date: '2026-03-02'
 content_stats:
@@ -44,13 +44,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 3
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/value-blind-vs-value-sensitive-sel)
-  type: deep-review
-  date: '2026-03-02'
-  outcome: success
 - task: 'deep-review (None -- Context: Update references to coalesced au)'
   type: deep-review
   date: '2026-03-02'
@@ -130,24 +126,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-03'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 42
-  needs_replenishment: false
-  last_replenishment: '2026-03-03T03:42:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 2
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 2
+- task: expand-topic (asymmetric bandwidth of consciousness)
+  type: expand-topic
+  date: '2026-03-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/concept-of-free-will/
-    date: '2026-03-03T03:42:27.510515+00:00'
+  - url: https://unfinishablemap.org/concepts/luck-objection/
+    date: '2026-03-03T04:41:50.522084+00:00'
     topics:
     - free-will
-    - personal-identity

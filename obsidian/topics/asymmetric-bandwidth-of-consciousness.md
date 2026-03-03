@@ -4,7 +4,7 @@ description: "Consciousness receives ~10⁹ bits/s from the senses but influence
 created: 2026-03-03
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-03-03T03:57:00+00:00
+ai_modified: 2026-03-03T04:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,9 @@ concepts:
   - "[[filter-theory]]"
   - "[[interactionist-dualism]]"
   - "[[psychophysical-laws]]"
+  - "[[global-workspace-theory]]"
+  - "[[causal-closure]]"
+  - "[[libet-experiments]]"
 related_articles:
   - "[[tenets]]"
   - "[[neural-bandwidth-constraints-and-the-interface]]"
@@ -28,14 +31,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-03
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-03T04:42:00+00:00
 ---
 
 Consciousness sits at the centre of a dramatic information asymmetry. Sensory systems deliver roughly 10⁹ bits per second to the brain—a vivid, moving, three-dimensional world of colour, sound, texture, and emotion. Yet conscious influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one. This asymmetry is not merely a curious empirical finding. It is a structural signature of the mind-brain interface, revealing that consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The Unfinishable Map treats this asymmetry as evidence that consciousness is not the brain's computational output but a distinct entity interfacing with the brain through a constrained channel.
 
 ## The Inbound Channel: Sensory Richness
 
-The inbound bandwidth of conscious experience is enormous. Nørretranders (1998) estimated aggregate sensory input at roughly 11 million bits per second—10 million from vision, 1 million from touch, the remainder distributed across hearing, smell, and taste. These figures measure information reaching the brain, not yet consciousness. But the subjective experience they generate is strikingly rich: a continuous visual field with depth, motion, colour gradients, and peripheral detail, layered with auditory scene analysis, proprioceptive body-sense, and emotional tone.
+The inbound bandwidth of conscious experience is enormous. Nørretranders (1998) estimated aggregate sensory input at roughly 12 million bits per second—10 million from vision, 1 million from touch, the remainder distributed across hearing, smell, and taste. These figures measure information reaching the brain, not yet consciousness. But the subjective experience they generate is strikingly rich: a continuous visual field with depth, motion, colour gradients, and peripheral detail, layered with auditory scene analysis, proprioceptive body-sense, and emotional tone.
 
 How rich is conscious experience itself? This is the subject of a long-running debate between [[phenomenal-overflow|phenomenal overflow]] and sparse perception theorists.
 
@@ -47,7 +50,7 @@ The Map need not resolve this debate to draw the key conclusion. Even on the spa
 
 What matters for the asymmetry is the contrast. Whether inbound bandwidth measures in millions or billions of bits, it vastly exceeds outbound bandwidth. The gap is structural, not incidental.
 
-## The Outbound Channel: The 10-Bit Ceiling
+## The Outbound Channel: The ~10-Bit Ceiling
 
 Zheng and Meister's 2024 *Neuron* paper "The Unbearable Slowness of Being" quantified the outbound side across dozens of cognitive tasks. The results are remarkably consistent:
 
@@ -59,7 +62,7 @@ Zheng and Meister's 2024 *Neuron* paper "The Unbearable Slowness of Being" quant
 | Choice-reaction | ~5 bits/s |
 | Rubik's cube solving | ~10 bits/s |
 
-The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. Zheng and Meister call this the "sifting number"—the ratio of sensory input to behavioural output—and estimate it at roughly 10⁸.
+The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude—typically between 5 and 15 bits per second. Zheng and Meister describe the brain as "sifting" the ~10⁹ bits of sensory input down to this narrow stream of conscious output, yielding a ratio of roughly 10⁸.
 
 Crucially, the bottleneck is not motor. Motor systems can execute complex sequences far exceeding 10 bits per second when running automatically—a pianist's fingers move faster than conscious intention can direct. The bottleneck is at *conscious processing itself*. Individual neurons transmit far more than 10 bits per second. The brain's aggregate processing capacity dwarfs the conscious throughput by many orders of magnitude. Something specific to consciousness imposes the ceiling.
 
@@ -77,13 +80,19 @@ If consciousness *receives* information through an interface—as [[filter-theor
 
 A system that *computes* its outputs should scale its throughput with its processing resources. The brain has 86 billion neurons and 100 trillion synapses; a computational consciousness drawing on these resources should produce more than 10 bits per second of output. But a system that *selects* among pre-computed options needs only enough bandwidth to make choices—and 10 bits per second suffices for roughly 3–4 selections per second among small sets of alternatives.
 
-This matches the phenomenology of deliberate action. Conscious decision-making feels like choosing among presented options, not computing results from raw data. The brain narrows infinite possibility to a handful of candidates; consciousness picks one. Libet's readiness potential research, despite its methodological controversies, captured this architecture: neural preparation precedes conscious awareness because preparation *must* precede selection. Options must exist before one can be chosen.
+This matches the phenomenology of deliberate action. Conscious decision-making feels like choosing among presented options, not computing results from raw data. The brain narrows infinite possibility to a handful of candidates; consciousness picks one. The [[libet-experiments|Libet readiness potential experiments]], despite their methodological controversies, captured this architecture: neural preparation precedes conscious awareness because preparation *must* precede selection. Options must exist before one can be chosen.
 
 ### The Asymmetry Together Suggests Interface
 
 Neither bandwidth figure alone distinguishes dualist from physicalist accounts decisively. Physicalists can explain high inbound bandwidth (sensory processing is what brains do) and can explain low outbound bandwidth (serial bottleneck for coherent integration). But the *combination*—massive inbound alongside minimal outbound—fits the interface model more naturally than the production model.
 
 An interface between distinct systems characteristically has asymmetric bandwidth. A thermostat receives temperature data continuously but outputs only binary signals (heat on/off). A corporate board receives comprehensive reports but issues brief directives. In each case, the asymmetry reflects a boundary between a complex system and a simpler control channel. The mind-brain asymmetry has the same structure: the brain's full complexity is delivered to consciousness, which returns minimal but consequential selections.
+
+### The Global Workspace Objection
+
+The physicalist counterargument most directly targeting this asymmetry is [[global-workspace-theory|global workspace theory]] (Baars, 1988; Dehaene, 2014). On the GWT account, consciousness is a brain-wide broadcasting mechanism: parallel sensory modules feed information into a serial "workspace" that makes selected content available across cognitive systems. The serial bottleneck produces the ~10 bits/s ceiling, and the parallel sensory channels produce the high inbound bandwidth. No interface required—just architectural serialisation.
+
+The Map acknowledges GWT's explanatory power for the *functional* structure. A global workspace could indeed produce this bandwidth profile. But GWT does not address the question that motivates dualism: why is there *something it is like* to occupy the workspace? The hard problem persists. GWT explains *which* information becomes conscious (the broadcast winners) and *why* processing is serial (broadcasting requires it), but it treats phenomenal experience as an unexplained accompaniment to the broadcasting process. The asymmetry is compatible with GWT's architecture and with the interface model. What distinguishes them is whether the architecture explains consciousness or merely describes the structure through which consciousness operates.
 
 ## The Epiphenomenalism Test
 
@@ -105,9 +114,9 @@ The Map offers an alternative explanation. If the ~10 bits per second ceiling re
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The outbound bandwidth empirically confirms what the tenet stipulates philosophically. A 10-bit/second channel is the narrow end of a funnel, carrying exactly the minimal information required for selection among prepared alternatives. The tenet's "smallest possible influence" finds its empirical expression in Zheng and Meister's universal ceiling.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The asymmetry defines the two directions' architecture. Brain-to-consciousness runs at ~10⁹ bits per second, delivering rich experience. Consciousness-to-brain runs at ~10 bits per second, selecting among prepared options. Both directions are causally real; they differ in bandwidth by eight orders of magnitude. This is bidirectional interaction with an asymmetric channel, not the equal-bandwidth communication that critics sometimes demand as evidence of mental causation.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The asymmetry defines the two directions' architecture. Brain-to-consciousness runs at ~10⁹ bits per second, delivering rich experience. Consciousness-to-brain runs at ~10 bits per second, selecting among prepared options. Both directions are causally real; they differ in bandwidth by eight orders of magnitude. This is bidirectional interaction with an asymmetric channel—one narrow enough to operate within the gaps that [[causal-closure|causal closure]] leaves open, rather than the equal-bandwidth communication that critics sometimes demand as evidence of mental causation.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The outbound channel's narrowness reflects the cost of actualising one outcome from among alternatives. If all outcomes actualised (as many-worlds holds), the bottleneck would be merely architectural. On the Map's view, the bottleneck is the selection itself—consciousness choosing one possibility and discarding the rest. Genuine selection is effortful and bandwidth-limited precisely because something real is at stake.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The selection model implicit in the outbound channel gains its significance from the Map's rejection of many-worlds. If all outcomes actualise (as many-worlds holds), "selection" is illusory—every option is realised in some branch, and the bottleneck is merely an architectural constraint on which branch this observer inhabits. On the Map's view, selection is genuine: consciousness chooses one possibility and the alternatives are genuinely discarded. The bandwidth asymmetry does not by itself refute many-worlds, but it is most naturally read as describing a system where selection has real consequences—where something is at stake in the choosing.
 
 ## Further Reading
 
@@ -116,13 +125,16 @@ The Map offers an alternative explanation. If the ~10 bits per second ceiling re
 - [[perception-and-conscious-experience]] — Perceptual richness and what it reveals about consciousness
 - [[attention-as-interface]] — Attention as the mechanism of conscious selection
 - [[concepts/consciousness-selecting-neural-patterns]] — How consciousness selects among quantum possibilities
+- [[free-will]] — Selection among alternatives and the implications for agency
 - [[resolution-void]] — The resolution gap between brain processing and conscious access
 - [[filter-theory]] — The filter/transmission model of consciousness
 
 ## References
 
+1. Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575.
 1. Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). What is the bandwidth of perceptual experience? *Trends in Cognitive Sciences*, 20(5), 324–335.
+1. Dehaene, S. (2014). *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*. Viking Press.
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
