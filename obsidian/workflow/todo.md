@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review introspective-opacity.md considering emotional epistemology void insights
-- **Type**: cross-review
-- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores emotional self-knowledge failures. concepts/introspective-opacity.md covers the broader phenomenon of opaque introspection. Check for cross-links, reinforcing arguments about limits of self-knowledge, and ensure the emotional domain is represented as an instance of introspective opacity.
-- **Source**: chain (from emotional-epistemology-void.md)
-- **Generated**: 2026-03-03
-
 ### P2: Integrate phenomenology-of-normative-experience.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-02-13) on the shared phenomenal structure of moral, epistemic, aesthetic, and prudential demands. Add cross-references from phenomenology-of-moral-experience.md, phenomenal-normativity.md, moral-perception.md, and aesthetic-dimension-of-consciousness.md.
@@ -517,6 +511,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Cross-review introspective-opacity.md considering emotional epistemology void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores emotional self-knowledge failures. concepts/introspective-opacity.md covers the broader phenomenon of opaque introspection. Check for cross-links, reinforcing arguments about limits of self-knowledge, and ensure the emotional domain is represented as an instance of introspective opacity.
+- **Output**: obsidian/voids/introspective-opacity.md -- Context: Cross-review introspective-opacity.md considering emotional epistemology void insights
 
 ### ✓ 2026-03-03: Cross-review emotional-consciousness.md considering emotional epistemology void insights
 - **Type**: cross-review
