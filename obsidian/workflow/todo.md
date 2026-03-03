@@ -479,6 +479,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Referenced across AI consciousness and philosophy of mind articles. The thesis that intentionality is grounded in phenomenal consciousness deserves its own treatment, connecting to argument-from-reason.md and self-stultification-as-master-argument.md. See [[reviews/optimistic-2026-03-01]].
 - **Generated**: 2026-03-01
 
+### P3: Write article on death phenomenology beyond NDEs
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Heidegger's Being-toward-death, mortality structuring present experience, finitude as condition for meaning, contemplative death practices. Under dualism, death is genuine metaphysical transition. Builds on death-and-consciousness.md, near-death-experiences.md, death-void.md, cognitive-aversion.md. See [[reviews/optimistic-2026-03-03]].
+- **Generated**: 2026-03-03
+
+### P3: Write article on formal aesthetics as dualist testing ground
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Aesthetic irreducibility, normative-qualitative entanglement, philosophy of art under dualism. Builds on aesthetic-dimension-of-consciousness.md, binding-and-beauty.md, aesthetic-void.md. See [[reviews/optimistic-2026-03-03]].
+- **Generated**: 2026-03-03
+
+### P3: Write article on philosophy of science methodology under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Realism vs. instrumentalism, subjective observation in science, reproducibility and consciousness, aesthetic principles in theory choice. Builds on consciousness-and-scientific-methodology.md, philosophy-of-science-under-dualism.md. See [[reviews/optimistic-2026-03-03]].
+- **Generated**: 2026-03-03
+
+### P3: Write concept page for cognitive closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. McGinn's thesis on constitutive cognitive limits. Referenced in mysterianism and voids articles but lacks dedicated concept page. See [[reviews/optimistic-2026-03-03]].
+- **Generated**: 2026-03-03
+
 ## Completed Tasks
 
 
