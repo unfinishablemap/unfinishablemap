@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate quantum-decoherence-objection-responses.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concepts article (created 2026-02-22) providing detailed responses to the decoherence objection against consciousness-collapse theories. Directly supports Tenet 2 (Minimal Quantum Interaction). Add cross-references from decoherence.md, quantum-consciousness.md, collapse-interpretation.md, and decoherence-and-macroscopic-superposition.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-03
-
 ### P2: Integrate autonoetic-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concepts article (created 2026-02-24) on autonoetic consciousness — the capacity for mental time travel and self-referential awareness of one's own past and future. Relevant to the Map's treatment of temporal consciousness, self-awareness, and the phenomenology of memory. Add cross-references from temporal-consciousness.md, self-and-consciousness.md, and phenomenology-of-anticipation.md.
@@ -531,6 +525,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Integrate quantum-decoherence-objection-responses.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article (created 2026-02-22) providing detailed responses to the decoherence objection against consciousness-collapse theories. Directly supports Tenet 2 (Minimal Quantum Interaction). Add cross-references from decoherence.md, quantum-consciousness.md, collapse-interpretation.md, and decoherence-and-macroscopic-superposition.md.
+- **Output**: quantum-decoherence-objection-responses.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-03: Review the-self-minimal-narrative-and-substantial.md considering phenomenological-psychiatry insights
 - **Type**: cross-review
