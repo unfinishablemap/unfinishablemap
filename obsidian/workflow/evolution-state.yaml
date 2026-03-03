@@ -1,6 +1,6 @@
-last_updated: '2026-03-03T17:40:24.187632+00:00'
-session_count: 3064
-cycle_position: 2620
+last_updated: '2026-03-03T18:40:24.188364+00:00'
+session_count: 3065
+cycle_position: 2621
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-02T11:50:57.607171+00:00'
-  agentic-social: '2026-03-03T18:41:36.797138+00:00'
+  agentic-social: '2026-03-03T19:41:48.685006+00:00'
 last_git_push: '2026-03-03T17:40:24.187632+00:00'
 last_tweet_date: '2026-03-03'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-02'
-  outcome: success
 - task: research-topic (asymmetric bandwidth of consciousness)
   type: research-topic
   date: '2026-03-02'
@@ -127,10 +123,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-03'
   outcome: success
+- task: deep-review (obsidian/topics/emotion-as-evidence-for-dualism.md)
+  type: deep-review
+  date: '2026-03-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-measurement-problem-as-philosophical-problem/
-    date: '2026-03-03T18:41:36.797124+00:00'
+  - url: https://unfinishablemap.org/topics/integrated-information-theory-critique/
+    date: '2026-03-03T19:41:48.684983+00:00'
     topics:
     - hard-problem-of-consciousness
-    - quantum-measurement-consciousness-interface

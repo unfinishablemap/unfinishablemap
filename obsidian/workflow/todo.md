@@ -61,6 +61,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-03
 
+### P2: Address high-severity issues in attention-as-causal-bridge.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-03-03) found two high-severity issues: (1) "consistent with" conflated with "evidence for" throughout — the cumulative case never shows physicalism is *strained* by the pattern, only that dualism is *available*; (2) the three-layer architecture (neural computation → dopamine threshold → consciousness selection) is presented with unwarranted confidence and the Cai et al. 2024 citation is over-interpreted. Also medium issues: flow state undermines the effort argument, quantum Zeno overemphasis per style guide, Meister 2024 scope mismatch. See pessimistic-2026-03-03.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-03
+
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
