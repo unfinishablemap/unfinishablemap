@@ -33,6 +33,7 @@ topics: []
 - [Vague attribution "as one analysis puts it"]: DPD passage had unidentified source. Resolution: paraphrased without quotation marks.
 - [Missing cross-links]: Added links to temporal-consciousness, embodied-consciousness-and-the-interface, consciousness-and-the-ownership-problem.
 - [Hyperreflexivity quote condensation]: Quote from Sass & Parnas (2003) dropped a parenthetical clause. Resolution: added [...] ellipsis to signal omission.
+- [Broken wikilink]: phenomenology-and-consciousness did not exist (pre-existing in original article). Resolution: corrected to [phenomenology](/concepts/phenomenology/).
 
 ### Counterarguments Considered
 - **Eliminative Materialist (Churchland)**: Phenomenological categories may be folk-psychological artifacts. The article correctly presents the pharmacological caveat and notes that correlation proves an interface, not identity.
