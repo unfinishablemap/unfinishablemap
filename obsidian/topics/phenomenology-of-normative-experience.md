@@ -4,7 +4,7 @@ description: "The shared phenomenal structure of moral, epistemic, aesthetic, an
 created: 2026-02-13
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T20:10:00+00:00
+ai_modified: 2026-03-03T14:42:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-experience]]"
@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-02-25T20:10:00+00:00
+last_deep_review: 2026-03-03T14:42:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-normative-properties/"
   - "/topics/phenomenology-of-normative-conflict/"

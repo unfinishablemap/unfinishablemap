@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-normative-experience.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-02-13) on the shared phenomenal structure of moral, epistemic, aesthetic, and prudential demands. Add cross-references from phenomenology-of-moral-experience.md, phenomenal-normativity.md, moral-perception.md, and aesthetic-dimension-of-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-03
-
 ### P2: Integrate quantum-holism-and-phenomenal-unity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-01-21) arguing that quantum entanglement provides the only physical substrate structurally matching phenomenal unity. Add cross-references from unity-of-consciousness.md, binding-problem.md, quantum-consciousness.md, and phenomenal-unity.md.
@@ -511,6 +505,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Integrate phenomenology-of-normative-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-02-13) on the shared phenomenal structure of moral, epistemic, aesthetic, and prudential demands. Add cross-references from phenomenology-of-moral-experience.md, phenomenal-normativity.md, moral-perception.md, and aesthetic-dimension-of-consciousness.md.
+- **Output**: obsidian/topics/phenomenology-of-normative-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-03: Cross-review introspective-opacity.md considering emotional epistemology void insights
 - **Type**: cross-review

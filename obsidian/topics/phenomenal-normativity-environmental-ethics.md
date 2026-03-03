@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
-  - "[[phenomenology-of-normative-properties]]"
+  - "[[phenomenology-of-normative-experience]]"
   - "[[aesthetic-dimension-of-consciousness]]"
   - "[[why-pain-hurts]]"
   - "[[free-will]]"
@@ -102,7 +102,7 @@ The [[ethics-of-consciousness#Moral Uncertainty: When We Don't Know|graduated co
 
 This uncertainty creates a practical asymmetry. The cost of treating a conscious being as if it lacks consciousness (ignoring genuine suffering) is far greater than the cost of treating a non-conscious entity as if it might be conscious (unnecessary caution). Environmental policies should err on the side of protecting beings whose consciousness status is uncertain.
 
-The [[phenomenology-of-normative-properties|phenomenology of normative demands]] is relevant here. When confronted with a suffering animal, most people experience a direct normative demand—a felt obligation to help. This [[moral-perception|moral perception]] is evidence that consciousness-grounded normativity is at work. We do not infer that the animal's suffering matters through ethical theory; we perceive its mattering directly. Environmental ethics grounded in phenomenal normativity honours this perceptual evidence rather than explaining it away.
+The [[phenomenology-of-normative-experience|phenomenology of normative demands]] is relevant here. When confronted with a suffering animal, most people experience a direct normative demand—a felt obligation to help. This [[moral-perception|moral perception]] is evidence that consciousness-grounded normativity is at work. We do not infer that the animal's suffering matters through ethical theory; we perceive its mattering directly. Environmental ethics grounded in phenomenal normativity honours this perceptual evidence rather than explaining it away.
 
 ## Practical Implications
 
@@ -138,7 +138,7 @@ The Map's tenets shape environmental ethics distinctively:
 - [[animal-consciousness]] — Evidence for and scope of animal experience
 - [[topics/phenomenal-value-realism]] — The metaethical foundation
 - [[aesthetic-dimension-of-consciousness]] — Aesthetic normativity beyond hedonic valence
-- [[phenomenology-of-normative-properties]] — How normative demands present in experience
+- [[phenomenology-of-normative-experience]] — How normative demands present in experience across four domains
 - [[moral-perception]] — Direct apprehension of moral properties
 - [[why-pain-hurts]] — Why pain's awfulness is constitutive, not correlative
 - [[free-will]] — Genuine moral agency and environmental responsibility

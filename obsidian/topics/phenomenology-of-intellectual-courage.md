@@ -24,7 +24,7 @@ related_articles:
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[argument-from-reason]]"
-  - "[[phenomenology-of-normative-conflict]]"
+  - "[[phenomenology-of-normative-experience]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[reasons-responsiveness]]"
 ai_contribution: 100
@@ -117,7 +117,7 @@ The phenomenology of intellectual courage reveals consciousness navigating a spa
 - Epistemic norms (what the evidence supports believing)
 - Pragmatic considerations (what it costs to dissent)
 
-These three domains exert different kinds of felt pressure, and consciousness experiences itself as adjudicating among them — a case of [[phenomenology-of-normative-conflict|normative conflict]] in its most acute form. This adjudication has phenomenal character that is irreducible to any of the three pressures individually. The experience of choosing epistemic fidelity over social comfort, while acknowledging pragmatic costs, is a complex phenomenal state that reveals consciousness as an agent navigating normative terrain — and is a paradigm instance of [[authentic-vs-inauthentic-choice|authentic choice]], where the thinker determines their epistemic stance rather than having it determined by social default.
+These three domains exert different kinds of felt pressure, and consciousness experiences itself as adjudicating among them — a case of [[phenomenology-of-normative-experience|normative conflict]] in its most acute form. This adjudication has phenomenal character that is irreducible to any of the three pressures individually. The experience of choosing epistemic fidelity over social comfort, while acknowledging pragmatic costs, is a complex phenomenal state that reveals consciousness as an agent navigating normative terrain — and is a paradigm instance of [[authentic-vs-inauthentic-choice|authentic choice]], where the thinker determines their epistemic stance rather than having it determined by social default.
 
 ### The Argument from Courageous Reasoning
 
@@ -161,7 +161,7 @@ The claim that intellectual courage has irreducible phenomenal character would f
 - [[argument-from-reason]] — Why genuine reasoning requires irreducible consciousness
 - [[epistemic-emotions]] — The feelings that accompany intellectual life
 - [[cognitive-phenomenology]] — Whether thought itself has experiential character
-- [[phenomenology-of-normative-conflict]] — What it is like when different norms pull in different directions
+- [[phenomenology-of-normative-experience]] — What it is like when different norms pull in different directions
 - [[authentic-vs-inauthentic-choice]] — Choosing from genuine agency versus social default
 - [[reasons-responsiveness]] — The capacity to track and respond to reasons
 
