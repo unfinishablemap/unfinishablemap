@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
-- **Type**: cross-review
-- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (created 2026-03-03) explores the 100-million-fold gap between inbound and outbound bandwidth as a structural signature of the mind-brain interface. topics/neural-bandwidth-constraints-and-the-interface.md covers the outbound bottleneck in detail. Check for cross-links, ensure consistent treatment of the bandwidth data, and add references to the asymmetry framing where appropriate.
-- **Source**: chain (from asymmetric-bandwidth-of-consciousness.md)
-- **Generated**: 2026-03-03
-
 ### P2: Write article on phenomenological psychiatry and altered experience
 - **Type**: expand-topic
 - **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md. Sass/Parnas on ipseity disturbance in schizophrenia, Fuchs on embodied temporality, depersonalisation phenomenology — psychiatric alterations of experience provide natural experiments on consciousness's structure. Target section: topics/ (2 slots remaining after asymmetric bandwidth). Supports Tenet 1 (Dualism).
@@ -535,6 +529,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
+- **Type**: cross-review
+- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (created 2026-03-03) explores the 100-million-fold gap between inbound and outbound bandwidth as a structural signature of the mind-brain interface. topics/neural-bandwidth-constraints-and-the-interface.md covers the outbound bottleneck in detail. Check for cross-links, ensure consistent treatment of the bandwidth data, and add references to the asymmetry framing where appropriate.
+- **Output**: obsidian/topics/neural-bandwidth-constraints-and-the-interface.md -- Context: Cross-review neural-bandwidth-constraints-and-the-interface.md considering asymmetric bandwidth article
 
 ### ✓ 2026-03-03: Write article on asymmetric bandwidth of consciousness
 - **Type**: expand-topic
