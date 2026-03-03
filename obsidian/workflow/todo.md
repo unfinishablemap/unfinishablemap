@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review emotional-consciousness.md considering emotional epistemology void insights
-- **Type**: cross-review
-- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores why we cannot fully know our own emotions from the inside. concepts/emotional-consciousness.md covers the broader role of emotion in conscious experience. Check for cross-links, reinforcing arguments about affective opacity, and ensure consistent treatment of emotional self-knowledge.
-- **Source**: chain (from emotional-epistemology-void.md)
-- **Generated**: 2026-03-03
-
 ### P2: Cross-review introspective-opacity.md considering emotional epistemology void insights
 - **Type**: cross-review
 - **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores emotional self-knowledge failures. concepts/introspective-opacity.md covers the broader phenomenon of opaque introspection. Check for cross-links, reinforcing arguments about limits of self-knowledge, and ensure the emotional domain is represented as an instance of introspective opacity.
@@ -523,6 +517,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Cross-review emotional-consciousness.md considering emotional epistemology void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores why we cannot fully know our own emotions from the inside. concepts/emotional-consciousness.md covers the broader role of emotion in conscious experience. Check for cross-links, reinforcing arguments about affective opacity, and ensure consistent treatment of emotional self-knowledge.
+- **Output**: obsidian/topics/emotional-consciousness.md -- Context: Cross-review emotional-consciousness.md considering emotional epistemology void insights
 
 ### ✓ 2026-03-03: Cross-review hard-problem-of-consciousness.md considering phenomenological psychiatry article
 - **Type**: cross-review
