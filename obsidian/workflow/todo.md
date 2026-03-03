@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review hard-problem-of-consciousness.md considering asymmetric-bandwidth-of-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (2026-03-03) demonstrates a 100-million-fold gap between sensory input and conscious output, supporting the view that consciousness interfaces with rather than is produced by neural computation. hard-problem-of-consciousness.md should reference the bandwidth asymmetry as distinct evidence for production-model inadequacy. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from asymmetric-bandwidth-of-consciousness.md)
-- **Generated**: 2026-03-03
-
 ### P2: Review emotion-as-evidence-for-dualism.md considering emotional-epistemology-void insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/emotional-epistemology-void.md (2026-03-02) develops the paradox that emotions constitute genuine knowledge yet resist the verification methods that validate other knowledge forms. emotion-as-evidence-for-dualism.md argues emotions provide evidence for irreducibility and should cross-reference the void's analysis of why affective knowledge resists epistemic capture. Check for complementary arguments and cross-links.
@@ -541,6 +535,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Review hard-problem-of-consciousness.md considering asymmetric-bandwidth-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (2026-03-03) demonstrates a 100-million-fold gap between sensory input and conscious output, supporting the view that consciousness interfaces with rather than is produced by neural computation. hard-problem-of-consciousness.md should reference the bandwidth asymmetry as distinct evidence for production-model inadequacy. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Review hard-problem-of-consciousness.md considering asymmetric-bandwidth-of-consciousness insights
 
 ### ✓ 2026-03-03: Integrate quantum-holism-and-phenomenal-unity.md into site navigation
 - **Type**: integrate-orphan

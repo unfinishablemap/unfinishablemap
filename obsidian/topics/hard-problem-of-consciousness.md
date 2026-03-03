@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-03T10:41:00+00:00
+ai_modified: 2026-03-03T17:41:00+00:00
 draft: false
 topics: []
 concepts:
@@ -63,12 +63,13 @@ related_articles:
   - "[[measurement-problem-as-hard-problem]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
   - "[[objectivity-and-consciousness]]"
+  - "[[asymmetric-bandwidth-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-03-03T10:41:00+00:00
+last_deep_review: 2026-03-03T17:41:00+00:00
 ---
 
 Why is there something it is like to be you?
@@ -114,7 +115,7 @@ The [[emergence-void]] suggests this gap may be the deepest instance of a more g
 
 The explanatory gap gains sharpest focus when we consider [[minimal-consciousness|consciousness in simple organisms]]. The roundworm *C. elegans* is the most thoroughly mapped organism in neuroscience: exactly 302 neurons, 8,000 chemical synapses, 890 gap junctions. We know its complete neural connectome—every connection, every pathway. Yet we cannot determine whether *C. elegans* experiences anything.
 
-This is the hard problem made empirically vivid. We *have* complete structural knowledge—and we still cannot say whether there is something it is like to be a worm. The organism exhibits behaviours suggestive of experience, yet complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise. See [[minimal-consciousness]] for extended analysis of boundary cases including Hydra and slime moulds.
+This is the hard problem made empirically vivid. We *have* complete structural knowledge and the organism exhibits behaviours suggestive of experience, yet we cannot determine whether there is something it is like to be a worm. See [[minimal-consciousness]] for boundary cases including Hydra and slime moulds.
 
 ## Phenomenological Evidence: The Witness
 
@@ -126,7 +127,7 @@ These features of experience resist assimilation into physical description. See 
 
 The hard problem extends beyond static qualia to the [[temporal-consciousness|temporal structure of experience]]. Consciousness *flows*—each moment contains retention of the immediate past, primal impression, and protention of what's coming. No neural description explains why this structure should feel like anything at all. The explanatory gap applies not just to *what* we experience but to *how* we experience.
 
-The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis deepens this temporal dimension: if consciousness constitutes time rather than merely occurring within it, the hard problem becomes even harder. Physical description presupposes time; if time's arrow emerges through consciousness-involving collapse, then physics presupposes what consciousness provides. The reduction would be circular.
+The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis deepens this temporal dimension: if consciousness constitutes time rather than merely occurring within it, physical description becomes circular—it presupposes what consciousness provides.
 
 See [[temporal-consciousness]] for detailed analysis and [[collapse-and-time]] for the connection between consciousness and the arrow of time.
 
@@ -208,7 +209,7 @@ Block's China brain illustrates: the entire population implementing a brain's fu
 
 ### Epiphenomenalism
 
-[[concepts/epiphenomenalism|Epiphenomenalism]] accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. See the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
+[[concepts/epiphenomenalism|Epiphenomenalism]] accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. Empirical data reinforces the point: the [[asymmetric-bandwidth-of-consciousness|bandwidth asymmetry]] shows consciousness operating at a consistent ~10 bits/s throughput ceiling across all tasks—epiphenomena do not have capacity limits, because they are not doing work. See the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
 ### Integrated Information Theory
 
@@ -282,6 +283,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice
 - [[phenomenological-psychiatry-and-altered-experience]] — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
+- [[asymmetric-bandwidth-of-consciousness]] — The 100-million-fold gap between sensory input and conscious output as evidence for interface dualism
 - [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
 - [[tenets]] — The foundational commitments of the Map
 
