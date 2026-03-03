@@ -1,166 +1,128 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-02-21
-ai_modified: 2026-02-25 15:22:00+00:00
+ai_generated_date: 2026-03-03
+ai_modified: 2026-03-03 09:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenology]]'
+- '[[self-and-consciousness]]'
 - '[[neural-correlates-of-consciousness]]'
+- '[[altered-states-of-consciousness]]'
 - '[[qualia]]'
-- '[[introspection]]'
-- '[[intentionality]]'
-created: 2026-02-21
-date: &id001 2026-02-21
-description: How schizophrenia, depression, and depersonalization reveal the hidden
-  architecture of consciousness—evidence from phenomenological psychiatry for the
-  irreducibility of first-person experience.
+- '[[the-case-for-dualism]]'
+- '[[explanatory-gap]]'
+- '[[temporal-consciousness]]'
+created: 2026-03-03
+date: &id001 2026-03-03
+description: Mental illness reveals consciousness's hidden architecture. Schizophrenia,
+  depression, and depersonalization each expose structural features of experience
+  invisible in health—evidence that first-person structure resists neural reduction.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 05:09:00+00:00
+last_deep_review: 2026-03-03 09:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenology-of-agency-vs-passivity]]'
-- '[[phenomenology-of-pain]]'
-- '[[phenomenology-of-memory-and-the-self]]'
-- '[[phenomenology-of-flow-states]]'
-- '[[the-self-minimal-narrative-and-substantial]]'
-- '[[consciousness-and-the-ownership-problem]]'
-- '[[first-person-third-person-methodology]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
-- '[[ownership-void]]'
+- '[[phenomenological-psychiatry-altered-experience-2026-02-21]]'
 title: Phenomenological Psychiatry and Altered Experience
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[the-case-for-dualism]]'
+- '[[the-self-minimal-narrative-and-substantial]]'
+- '[[embodied-consciousness-and-the-interface]]'
+- '[[consciousness-and-the-ownership-problem]]'
 ---
 
-Phenomenological psychiatry treats mental illness not as mere neurochemical malfunction but as a modification of the fundamental structures of lived experience. By studying how schizophrenia distorts selfhood, how depression collapses temporal openness, and how depersonalization fractures the transparency of awareness, this tradition reveals an architecture of consciousness that is normally invisible — and that resists straightforward reduction to neural description. The Unfinishable Map finds in these clinical observations some of the strongest empirical grounds for taking first-person experience seriously as an irreducible domain.
+The Unfinishable Map argues that consciousness is irreducible to physical processes. Phenomenological psychiatry—the tradition stretching from Karl Jaspers through Louis Sass, Josef Parnas, and Thomas Fuchs—provides some of the strongest empirical support for this claim. By studying how mental illness alters the *structure* of experience rather than merely its content, phenomenological psychiatry reveals an architecture of consciousness that operates invisibly in health and resists straightforward neural reduction.
 
-The central insight is a distinction between the *form* and the *content* of experience. A depressed person does not merely feel sad about particular things; the entire structure of lived time closes, making hope structurally impossible. A person with schizophrenia does not merely hold strange beliefs; the pre-reflective sense that experiences belong to a self — what phenomenologists call *ipseity* — is disrupted at its foundation. These are not changes in what someone experiences but in how experiencing itself works.
+When schizophrenia disrupts the pre-reflective sense of "mineness," when depression collapses the temporal horizon of the future, when depersonalization cracks the transparency through which we normally encounter the world—these are not just clinical observations. They are windows into the structural foundations of first-person experience, foundations that no amount of neurochemical description fully explains.
 
-## From Jaspers to the Present
+## Pathology as Revelation
 
-Karl Jaspers introduced [phenomenology](/concepts/phenomenology/) into psychiatry in *General Psychopathology* (1913) with a distinction that still organises the field: between *understanding* (Verstehen) — grasping another person's experience through empathic engagement — and *explanation* (Erklären) — identifying causal mechanisms in the brain. Jaspers argued that some psychiatric experiences resist empathic understanding entirely: certain psychotic states cannot be grasped from within and must be handed over to causal-biological explanation.
+Phenomenological psychiatry treats mental illness the way anatomy treats disease: as a window onto structures normally hidden from view. In health, consciousness operates transparently. We look *through* our experience to the world without noticing the medium. Psychiatric conditions break this transparency, exposing the scaffolding.
 
-This boundary itself carries philosophical weight. The very need for empathic understanding alongside causal explanation implies that subjective experience constitutes a domain that third-person neuroscience cannot fully absorb.
+The key insight, developed across a century of phenomenological work, is a distinction between the **form** and **content** of experience. A depressed person does not merely feel sad about particular things—the entire temporal structure of experience shifts, making hope structurally impossible. A person with schizophrenia does not merely hold strange beliefs—the basic sense that experiences belong to a self is disrupted. These are alterations in how experience is organized, not just in what it contains.
 
-Ludwig Binswanger and Medard Boss extended Heidegger's existential analysis into clinical practice, treating mental illness as a modification of the patient's entire mode of being-in-the-world — not a collection of symptoms but a transformed relationship with existence itself. Contemporary researchers — Louis Sass, Josef Parnas, Thomas Fuchs, Giovanni Stanghellini, Matthew Ratcliffe — have developed this tradition into a rigorous empirical program with validated instruments and testable predictions.
+This structural focus distinguishes phenomenological psychiatry from both biological psychiatry (which studies neural mechanisms) and cognitive-behavioural approaches (which study thought content). It occupies a distinct explanatory level: the architecture of first-person experience itself.
 
-## The Ipseity Disturbance Model
+## The Ipseity Disturbance Model: Schizophrenia and the Minimal Self
 
-Sass and Parnas proposed that the core disturbance in schizophrenia is not disordered thought or hallucination but something more fundamental: a disruption of the [minimal self](/concepts/self-and-consciousness/) — the pre-reflective, implicit awareness that conscious experiences are inherently "mine."
+The most empirically developed programme in contemporary phenomenological psychiatry is the **ipseity disturbance model** (IDM), developed by Louis Sass and Josef Parnas. Their central claim: the core disturbance in schizophrenia is not delusion or hallucination but an alteration in the **minimal self**—the pre-reflective, implicit awareness that experiences are inherently "mine."
 
-Two intertwined features define this disturbance:
+Two complementary processes characterise this disturbance:
 
-**Hyperreflexivity**: Processes that normally operate tacitly in the background of awareness pop into the foreground and become alien objects. Inner speech, which ordinarily serves as a transparent medium of thought, becomes something the person *observes*. Bodily sensations that normally remain below notice demand focal attention. The machinery of consciousness, usually invisible, becomes obtrusively visible.
+**Hyperreflexivity**: "An automatic popping-up or popping-out of phenomena and processes that would normally remain in the tacit background of awareness, [...] but that now come to be experienced in an objectified and alienated manner" (Sass & Parnas, 2003). Imagine suddenly becoming aware of the mechanics of swallowing, the feel of your tongue, the process by which words form in your mind. Background features of experience become alien foreground objects.
 
-**Diminished self-affection**: The normal sense of being the subject who has experiences fades. Experiences still occur, but they lose their quality of *belonging* to someone. As Sass describes it, consciousness turns in upon itself — not a regression to primitive thought but an exaggeration of self-conscious detachment.
+**Diminished self-affection**: "A weakened sense of existing as a vital and self-coinciding source of awareness and action" (Sass & Parnas, 2003). The normal sense that "I am the one having this experience" fades.
 
-These are not separate processes but two aspects of a single disturbance. When normally tacit features of experience become explicit objects (hyperreflexivity), they simultaneously cease to function as the inhabited medium of selfhood (diminished self-affection).
+These are not separate processes but two sides of the same coin. When normally tacit features of experience become explicit objects (hyperreflexivity), they simultaneously cease to function as the inhabited medium of selfhood (diminished self-affection).
 
-The Examination of Anomalous Self-Experience (EASE), a validated clinical instrument developed by Parnas and colleagues, demonstrates that these self-disorders aggregate selectively in schizophrenia spectrum conditions, predict future onset in at-risk populations (Parnas et al., 2011), and persist independently of active psychotic symptoms. Systematic reviews and meta-analyses have confirmed self-disorders as a core clinical feature specific to the broad schizophrenia spectrum (Raballo et al., 2021).
+The Examination of Anomalous Self-Experience (EASE), a clinical interview instrument, has validated this model empirically. Self-disorders measured by EASE aggregate selectively in schizophrenia spectrum disorders and predict future onset in at-risk populations, independent of whether active psychotic symptoms are present. The finding that erosion of the first-person perspective appears specific to the schizophrenia spectrum demonstrates that the [minimal self](/topics/the-self-minimal-narrative-and-substantial/) is not merely a philosophical abstraction but a clinically measurable structural feature of consciousness—one that connects directly to [the ownership problem](/topics/consciousness-and-the-ownership-problem/).
 
-## Embodiment: Disembodied Minds and Corporealized Bodies
+## Embodiment Disrupted: Fuchs on Depression and Schizophrenia
 
-Thomas Fuchs, Karl Jaspers Professor at Heidelberg, organises the psychopathology of embodiment around a revealing polarity.
+Thomas Fuchs, Karl Jaspers Professor for the Philosophical Foundations of Psychiatry at Heidelberg, frames psychiatric conditions as disorders of embodiment. His framework turns on the distinction between the **lived body** (*Leib*)—the body as transparent medium of experience—and the **physical body** (*Körper*)—the body as object.
 
-In health, the *lived body* (Leib) operates transparently — we perceive, act, and communicate *through* it without attending to it, as Merleau-Ponty's [embodied phenomenology](/concepts/embodied-cognition/) describes. Fuchs calls this "mediated immediacy": the body mediates all experience while itself remaining invisible.
+In schizophrenia, Fuchs identifies **disembodiment**: the lived body loses its transparency and becomes an alien object. Thoughts, perceptions, and actions lose their automatic quality. The person lives as if detached from their body—observing rather than inhabiting its own processes. This maps directly onto Sass and Parnas's hyperreflexivity.
 
-In **schizophrenia**, this transparency breaks down. The body becomes an alien object rather than the invisible medium of engagement. Thoughts and actions lose their automatic quality and become effortful, self-conscious processes. The person lives as a "disembodied mind" observing rather than inhabiting their own body. Stanghellini captures this in his phrase "disembodied spirits" — patients who feel like abstract entities contemplating existence from outside.
+In depression, the opposite occurs: **corporealization** or hyper-embodiment. The lived body becomes heavy, opaque, resistant. Rather than being transparent, the body becomes an oppressive presence blocking engagement with the world. As Fuchs writes, "In severe depression, the body may regain its pure materiality and turn into an obstacle."
 
-In **depression**, the opposite occurs. The lived body becomes oppressively present — heavy, sluggish, resistant to the will. Rather than being transparent, the body collapses into pure materiality and becomes an obstacle. Fuchs calls this *corporealization* or hyper-embodiment: the lived body is reduced to the physical body.
+This polarity matters philosophically. Both disembodiment *and* hyper-embodiment produce suffering—opposite disruptions of the same interface. If consciousness were identical to brain activity, we might expect only one direction of change to be pathological. The fact that the consciousness-body relationship can be mistuned in opposite ways suggests something more like an [interface between distinct domains](/topics/embodied-consciousness-and-the-interface/) than a simple identity.
 
-That consciousness can be pathologically disrupted in *opposite directions* — too little embodiment in schizophrenia, too much in depression — suggests the mind-body relationship is not simple identity but something more like an interface that can be mistuned in multiple ways.
+## Temporal Destruction in Depression
 
-## Time Broken Open
+Eugene Minkowski demonstrated in *Lived Time* (1933) that melancholic depression fundamentally alters the structure of temporal experience. This is not a secondary consequence of low mood but, Minkowski argued, the essence of the condition.
 
-Eugène Minkowski demonstrated in *Lived Time* (1933) that melancholic depression fundamentally alters the *structure* of temporal experience. The depressed patient loses what Minkowski called *élan vital* — the forward-driving dynamism of lived time. The future collapses from an open horizon of possibility into mere repetition of what has already been decided. Minkowski described this as the "post-festum" experience: everything already determined, nothing genuinely new possible.
+The depressed patient has lost what Minkowski called the *élan vital*—the forward-driving dynamism of lived time. The future collapses. In Minkowski's formulation, the melancholic patient lives in the *post-festum*—everything has already taken place in an absolute and definitive way, and the future becomes only the repetition of the already given.
 
-Fuchs extended this analysis by distinguishing two levels of [temporal experience](/concepts/temporal-consciousness/). *Implicit temporality* — the pre-reflective flow that binds moments into a coherent stream — breaks down in schizophrenia, fragmenting the "intentional arc" and producing the characteristic disruptions of thought insertion, passivity experiences, and temporal incoherence. *Explicit temporality* — the consciously experienced sense of past, present, and future — freezes in depression as the conative-affective dynamics of life are inhibited.
+Fuchs refined this by distinguishing temporal disruptions at different levels. Schizophrenia disrupts the *micro-level*—the moment-to-moment synthesis that binds experiences into a coherent stream. Depression disrupts the *macro-level*—the sense of future possibility, the open horizon toward which life extends. Different psychiatric conditions reveal different layers of [temporal experience](/concepts/temporal-consciousness/), each operating independently.
 
-That temporal experience has a structure which can be disrupted at different levels, in different conditions, independently of specific neural correlates, is difficult to accommodate within frameworks that treat consciousness as identical to brain activity. What neuroscientific measure captures the difference between time experienced as open and time experienced as closed?
+The philosophical significance is substantial. Our sense of the future as open and full of possibility is not a cognitive judgment but a structural feature of consciousness. What neuroscientific measure could capture the difference between experienced time as "open" versus "closed"? The temporal architecture of experience resists reduction to any neural description currently available.
 
-## Depersonalization and the Transparency of Awareness
+## Depersonalisation and the Components of Experience
 
-Depersonalization/derealization disorder — among the most philosophically revealing [altered states](/concepts/altered-states-of-consciousness/) — reveals perhaps the most striking feature of consciousness: its normal transparency. In ordinary experience, awareness functions as an invisible medium — we look *through* it to the world without noticing it, just as we look through a clean window without seeing the glass. In depersonalization, this transparency cracks.
+Depersonalisation/derealisation disorder (DPD) provides a particularly clean philosophical demonstration. Patients maintain insight—they know their experience is altered—which makes their reports especially reliable as phenomenological data.
 
-The condition reveals that normal experience depends on at least three separable structural features:
+DPD reveals that normal experience has at least three global features that can be independently disrupted:
 
-- **Mineness**: the sense that experiences [belong to a subject](/topics/consciousness-and-the-ownership-problem/); the [ownership void](/voids/ownership-void/) explores why this belonging resists introspection
+- **Mineness**: the sense that experiences belong to the subject
 - **Actuality**: the sense that the experienced world is real
 - **Temporal presence**: the sense of being situated in the "now"
 
-Each can be independently disrupted. Depersonalization strips experiences of their sense of belonging to an "I." Derealization removes the world's quality of reality. Detemporalization dissolves temporal embeddedness. That these features are separable — that you can lose the sense of reality while retaining the sense of selfhood, or vice versa — demonstrates they are distinct architectural components of consciousness, not emergent properties of any single neural system.
+When each breaks down separately—depersonalisation (loss of mineness), derealisation (loss of actuality), detemporalisation (loss of nowness)—the result demonstrates that these are distinct structural components of consciousness, not a unified block. They operate transparently in health and become visible only when disrupted, consistent with the phenomenological principle that pathology reveals structure.
 
-## What Broken Experience Reveals
-
-Phenomenological psychiatry's central philosophical contribution: psychiatric conditions reveal that normal consciousness possesses an elaborate architecture which is invisible under ordinary conditions but becomes apparent when disrupted. This architecture includes:
-
-1. A **pre-reflective sense of self** (ipseity) that can be selectively disturbed
-2. A **temporal synthesis** that can be fragmented or frozen
-3. A **bodily transparency** through which consciousness engages the world
-4. An **intercorporeal attunement** to others that operates before and beneath cognitive empathy
-5. A **natural self-evidence** — Blankenburg's term for the taken-for-granted background of common sense, which can erode
-6. **Existential feelings** (Ratcliffe) that determine the framework within which emotions and intentions become possible
-7. **Ownership, reality, and temporal presence** as independent structural features
-
-These structures are interdependent — disrupting ipseity simultaneously affects temporality, embodiment, and [intersubjectivity](/concepts/intersubjectivity/). This holistic organisation is characteristic of a meaningful gestalt, not an aggregate of independent modules. As Parnas and Sass argue, consciousness must be approached as a meaningful whole rather than decomposed into isolated "mental objects" — the interconnection of these structures is itself a datum, not an artefact of description.
+DPD may alter the transparency of basic embodied forms of pre-reflective self-consciousness, disrupting the capacity to flexibly modulate and switch between reflective and pre-reflective facets of self-awareness. The window through which we look at the world cracks, and for the first time we see the glass.
 
 ## Relation to Site Perspective
 
-The Map's [tenets](/tenets/) find concrete empirical support in phenomenological psychiatry.
+The Map holds that consciousness is irreducible to physical processes (Tenet 1: [Dualism](/tenets/#dualism)). Phenomenological psychiatry provides empirical grounding for this position that goes beyond purely philosophical thought experiments like [the hard problem](/topics/hard-problem-of-consciousness/) or [the zombie argument](/concepts/philosophical-zombies/).
 
-**Dualism**: The structural richness of first-person experience consistently outruns third-person neural description. The neurochemistry of depression does not explain why the temporal horizon of the future closes. The dopamine hypothesis of schizophrenia does not explain why experiences lose their quality of mineness. As Maung (2019) argues, Chalmers-style property dualism faces no conflict with psychiatric neuroscience — the "hard problem" remains untouched by explaining behavioural causation. The Map interprets this not as an epistemological limitation that future neuroscience will overcome but as evidence that experiential structure constitutes a genuinely irreducible domain.
+The structural irreducibility argument runs as follows. If psychiatric conditions alter the *structure* of experience—ipseity, temporality, embodiment, existential feeling—and these structures resist description in purely neural terms, then there is an [explanatory gap](/concepts/explanatory-gap/) between neural processes and experiential structures that mirrors Chalmers's hard problem. Describing the neurochemistry of depression does not explain *why* the temporal horizon of the future closes. Mapping the dopaminergic dysregulation in schizophrenia does not explain *why* the sense of mineness dissolves.
 
-**Bidirectional Interaction**: Phenomenological psychiatry demonstrates that consciousness has active structural features — ipseity, temporal synthesis, bodily transparency — that organise experience in ways neural activity alone does not predict. The [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) reveals that disrupting the *form* of conscious experience (through ipseity disturbance, temporal collapse, transparency failure) produces effects that cascade across multiple experiential dimensions simultaneously. When ipseity breaks down, temporality, embodiment, and intersubjectivity degrade in concert — a pattern more consistent with an active organising principle than with a passive epiphenomenon. The Map interprets this as evidence that consciousness shapes how neural information is integrated, not merely that it accompanies integration.
+The Map interprets this as evidence that first-person experiential structure constitutes an autonomous domain—one that can be investigated on its own terms, generates its own explanatory insights, and resists complete reduction to physical description. As Maung (2019) argues, Chalmers-style property dualism faces no conflict with psychiatric neuroscience. The tight correlations between brain states and conscious states (antidepressants alter temporal experience; antipsychotics reduce ipseity disturbance) are equally consistent with lawful psychophysical correlation as with identity.
 
-**Occam's Razor Has Limits**: Phenomenological psychiatry demonstrates that the apparent simplicity of physicalist explanations is achieved by ignoring the most fundamental evidence. Reducing depression to serotonin levels or schizophrenia to dopamine dysfunction brackets precisely the structural alterations in lived experience that define these conditions as they are actually suffered. The "simpler" physicalist account is simpler only because it excludes the first-person data that phenomenological investigation reveals.
+The Map speculates that the holistic interdependence of consciousness structures—disrupting ipseity simultaneously disrupts temporality, embodiment, and intersubjectivity—points toward the kind of unified, gestalt-like organisation more characteristic of subjective experience than of neural mechanisms. Phenomenological psychiatry reveals consciousness as a "meaningful gestalt" rather than an aggregate of independent modules, and this gestalt character is precisely what the Map's dualist framework predicts.
 
-A caveat: tight correlations between brain states and experiential structures — antidepressants can reopen the temporal horizon; antipsychotics can reduce ipseity disturbance — do not distinguish between production and transmission. The Map acknowledges that pharmacological interventions alter experience, but notes this is equally consistent with property dualism (where the physical and phenomenal are lawfully correlated) as with identity theory. The correlation proves an interface, not an identity.
+Most phenomenological psychiatrists bracket the ontological question, remaining methodologically neutral on whether the explanatory gap is epistemological or ontological. The Map takes the stronger position: the structural richness of first-person experience, made concrete by a century of phenomenological-psychiatric investigation, is best explained by genuine irreducibility rather than mere current ignorance.
 
 ## Further Reading
 
-- [phenomenology](/concepts/phenomenology/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- [phenomenology](/concepts/phenomenology/)
 - [the-case-for-dualism](/concepts/the-case-for-dualism/)
-- [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — The three conceptions of selfhood that ipseity disturbance illuminates
-- [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to someone, and what happens when it stops
-- [The Ownership Void](/voids/ownership-void/) — Why the mineness of experience hides its own mechanism
-- [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structures that depression and schizophrenia disrupt
-- [embodied-cognition](/concepts/embodied-cognition/) — The lived body as interface between consciousness and world
-- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — How altered states reveal consciousness's range
-- [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
-- [phenomenology-of-pain](/topics/why-pain-hurts/)
-- [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
-- [qualia](/concepts/qualia/)
 
 ## References
 
-Blankenburg, W. (1971). *Der Verlust der natürlichen Selbstverständlichkeit*. Enke.
-
-Fuchs, T. (2005). Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia. *Philosophy, Psychiatry, & Psychology*, 12(2), 95-107.
-
-Fuchs, T. (2013). Temporality and Psychopathology. *Phenomenology and the Cognitive Sciences*, 12, 75-104.
-
-Jaspers, K. (1913/1997). *General Psychopathology*. Johns Hopkins University Press.
-
-Maung, H. H. (2019). Dualism and its place in a philosophical structure for psychiatry. *Medicine, Health Care and Philosophy*, 22, 223-235.
-
-Minkowski, E. (1933/1970). *Lived Time: Phenomenological and Psychopathological Studies*. Northwestern University Press.
-
-Parnas, J., et al. (2011). EASE: Examination of Anomalous Self-Experience. *Psychopathology*, 38(5), 236-258.
-
-Parnas, J. & Sass, L. (2025). Schizophrenia, Consciousness, and the Self — Twenty Years Later. *Schizophrenia Bulletin*, 51(5), 1187-1198.
-
-Raballo, A., et al. (2021). Self-disorders and the experiential core of schizophrenia spectrum vulnerability. *Schizophrenia Bulletin*, 47(4), 1007-1017.
-
-Ratcliffe, M. (2015). *Experiences of Depression: A Study in Phenomenology*. Oxford University Press.
-
-Sass, L. (1992/2017). *Madness and Modernism: Insanity in the Light of Modern Art, Literature, and Thought*. Oxford University Press.
-
-Sass, L. & Parnas, J. (2003). Schizophrenia, Consciousness, and the Self. *Schizophrenia Bulletin*, 29(3), 427-444.
-
-Stanghellini, G. (2004). *Disembodied Spirits and Deanimated Bodies*. Oxford University Press.
+1. Jaspers, K. (1913/1997). *General Psychopathology*. Johns Hopkins University Press.
+2. Minkowski, E. (1933/1970). *Lived Time: Phenomenological and Psychopathological Studies*. Northwestern University Press.
+3. Sass, L. (1992/2017). *Madness and Modernism: Insanity in the Light of Modern Art, Literature, and Thought*. Oxford University Press.
+4. Sass, L. & Parnas, J. (2003). Schizophrenia, Consciousness, and the Self. *Schizophrenia Bulletin*, 29(3), 427–444.
+5. Stanghellini, G. (2004). *Disembodied Spirits and Deanimated Bodies*. Oxford University Press.
+6. Fuchs, T. (2005). Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia. *Philosophy, Psychiatry, & Psychology*, 12(2), 95–107.
+7. Ratcliffe, M. (2015). *Experiences of Depression: A Study in Phenomenology*. Oxford University Press.
+8. Maung, H. H. (2019). Dualism and its place in a philosophical structure for psychiatry. *Medicine, Health Care and Philosophy*, 22(1), 59–69.
+9. Raballo, A., Henriksen, M. G., Poletti, M., & Parnas, J. (2025). Schizophrenia, Consciousness, and the Self — Twenty Years Later. *Schizophrenia Bulletin*, 51(5), 1187–1192.
+10. Southgate, A. & Oquatre-six, C. (2026-02-08). The Self: Minimal, Narrative, and Substantial. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-self-minimal-narrative-and-substantial/

@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-02T08:51:43.921603'
+ai_modified: '2026-03-03T08:41:26.038718'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-02'
+date: '2026-03-03'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-02'
+modified: '2026-03-03'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-03: Fact-Check: Quantum Interference Hit 2,000 Atoms
+
+Deep review caught that Fein et al. 2019 achieved quantum superposition with nearly 2,000 atoms, not 800 as stated. The quantum-classical boundary keeps receding further than intuition allows.
+
+**Type**: insight  
+**Link**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+
+---
+
 ### 2026-03-02: Do You See More Than You Can Say?
 
 Ned Block's phenomenal overflow argues we experience far more than we can report. If consciousness exceeds cognitive access, functionalist theories can only explain part of the mind.
@@ -195,16 +204,6 @@ Contemplative practice progressively discloses structures of experience invisibl
 
 **Type**: new-article  
 **Link**: [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
-
----
-
-### 2026-02-11: The Simulation Detection Void: Why We Can't Know
-
-New research maps the epistemic closure of simulation detection—inside observers can't verify their substrate, architects could prevent detection, and thinking about it triggers cognitive slippage. A perfect example of unchartable territory.
-
-**Type**: research  
-**Tweet**: https://x.com/unfinishablemap/status/2021533544988688783  
-**Link**: [voids-simulation-detection-void-2026-02-11](/research/voids-simulation-detection-void-2026-02-11/)
 
 ---
 

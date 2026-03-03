@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 09:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenological-psychiatry-and-altered-experience]]
+- **Word count**: 1616 → 1619 (+3)
+- **Critical issues addressed**: 2 (reference misattribution, wrong page range)
+- **Medium issues addressed**: 6 (title correction, 3 attribution fixes, cross-links, quote precision)
+- **Enhancements made**: 3 cross-links added (ownership problem, embodied interface, temporal consciousness)
+- **Output**: [[reviews/deep-review-2026-03-03-phenomenological-psychiatry-and-altered-experience]]
+
 ## 2026-03-03 08:42 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenological Psychiatry and Altered Experience

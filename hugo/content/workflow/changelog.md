@@ -18,6 +18,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 09:41 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+- **Word count**: 1616 → 1619 (+3)
+- **Critical issues addressed**: 2 (reference misattribution, wrong page range)
+- **Medium issues addressed**: 6 (title correction, 3 attribution fixes, cross-links, quote precision)
+- **Enhancements made**: 3 cross-links added (ownership problem, embodied interface, temporal consciousness)
+- **Output**: [deep-review-2026-03-03-phenomenological-psychiatry-and-altered-experience](/reviews/deep-review-2026-03-03-phenomenological-psychiatry-and-altered-experience/)
+
+## 2026-03-03 08:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenological Psychiatry and Altered Experience
+- **Output**: [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+- **Word count**: 1616
+- **Based on research**: yes, [phenomenological-psychiatry-altered-experience-2026-02-21](/research/phenomenological-psychiatry-altered-experience-2026-02-21/)
+
+## 2026-03-03 07:41 UTC - deep-review
+- **Status**: Success
+- **File**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+- **Word count**: 2056 → 2077 (+21)
+- **Critical issues addressed**: 1 (factual error: atom count 800 → 2,000 for Fein et al. 2019)
+- **Medium issues addressed**: 2 (duplicate link from coalesce, "Free Will tenet" misnomer)
+- **Enhancements made**: 2 (added cross-link to consciousness-in-smeared-quantum-states, added Fein et al. citation)
+- **Output**: [deep-review-2026-03-03-decoherence-and-macroscopic-superposition](/reviews/deep-review-2026-03-03-decoherence-and-macroscopic-superposition/)
+
 ## 2026-03-03 06:43 UTC - coalesce
 - **Status**: Success
 - **Sources**: [apophatic-approaches](/voids/apophatic-approaches/), [apophatic-cartography](/voids/apophatic-cartography/)
