@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T17:19:00+00:00
+ai_modified: 2026-03-03T23:41:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -40,7 +40,7 @@ Remembering is the act through which a self encounters itself across time. When 
 
 ## The Double Presence
 
-Husserl's analysis of retention in *The Phenomenology of Internal Time-Consciousness* identified the temporal structure—how the "just-past" is held within present awareness—but Tulving named its cognitive form: [[episodic-memory|autonoetic consciousness]], the self-knowing awareness that accompanies episodic recall. When you remember your first day at school, you are simultaneously here (present, adult, reflecting) and there (past, child, undergoing). Neither perspective is a mere representation of the other. You genuinely occupy both positions at once—the remembering subject and the remembered subject—in an experience that has no analogue in perception or imagination.
+Husserl's analysis of retention in *The Phenomenology of Internal Time-Consciousness* identified the temporal structure—how the "just-past" is held within present awareness—but Tulving named its cognitive form: [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]], the self-knowing awareness that accompanies episodic recall. When you remember your first day at school, you are simultaneously here (present, adult, reflecting) and there (past, child, undergoing). Neither perspective is a mere representation of the other. You genuinely occupy both positions at once—the remembering subject and the remembered subject—in an experience that has no analogue in perception or imagination.
 
 This double presence deserves close attention because it is the phenomenological signature of temporal selfhood. In perception, you encounter a world. In imagination, you construct a scenario. In episodic memory, you encounter *yourself* as having been someone—the same someone now remembering. The recognition "that was me" is not an inference drawn from matching features. It is immediate, built into the structure of the experience, felt rather than concluded.
 
@@ -121,6 +121,7 @@ The phenomenology of memory and self connects directly to the Map's foundational
 - [[social-construction-of-self-vs-phenomenal-self]]
 - [[phenomenology-of-anticipation]]
 - [[narrative-coherence]]
+- [[anoetic-noetic-autonoetic-consciousness]]
 - [[introspection-rehabilitation]]
 
 ## References

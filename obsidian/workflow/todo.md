@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate autonoetic-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concepts article (created 2026-02-24) on autonoetic consciousness — the capacity for mental time travel and self-referential awareness of one's own past and future. Relevant to the Map's treatment of temporal consciousness, self-awareness, and the phenomenology of memory. Add cross-references from temporal-consciousness.md, self-and-consciousness.md, and phenomenology-of-anticipation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-03
-
 ### P2: Integrate phenomenology-of-normative-conflict.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-18) on the phenomenology of normative conflict — the felt experience of moral dilemmas, value clashes, and obligation tensions. Add cross-references from phenomenology-of-normative-experience.md, ethics-of-consciousness.md, moral-responsibility.md, and consciousness-and-moral-agency-under-duress.md.
@@ -524,6 +518,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Integrate autonoetic-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article (created 2026-02-24) on autonoetic consciousness — the capacity for mental time travel and self-referential awareness of one's own past and future. Relevant to the Map's treatment of temporal consciousness, self-awareness, and the phenomenology of memory. Add cross-references from temporal-consciousness.md, self-and-consciousness.md, and phenomenology-of-anticipation.md.
+- **Output**: autonoetic-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-03: Integrate quantum-decoherence-objection-responses.md into site navigation
 - **Type**: integrate-orphan

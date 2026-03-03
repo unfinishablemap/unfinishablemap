@@ -4,13 +4,13 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-02T19:42:00+00:00
+ai_modified: 2026-03-03T23:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[consciousness-and-semantic-understanding]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[cognitive-phenomenology]]"
   - "[[temporal-consciousness]]"
   - "[[working-memory]]"
@@ -40,7 +40,7 @@ Semantic memory matters for The Unfinishable Map's framework because it raises a
 
 ## Tulving's Framework: Three Forms of Consciousness
 
-Endel Tulving (1927-2023) distinguished three types of consciousness linked to different memory systems, forming a hierarchy of self-awareness.
+Endel Tulving (1927-2023) distinguished [[anoetic-noetic-autonoetic-consciousness|three types of consciousness]] linked to different memory systems, forming a hierarchy of self-awareness.
 
 **Anoetic consciousness** accompanies procedural and implicit memory. When you ride a bicycle or tie your shoes, you act without reflective awareness. There is no self-reference, no sense of yourself as the subject of experience. The skill executes; you don't observe yourself executing it.
 
@@ -188,7 +188,7 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 
 - [[consciousness-and-semantic-understanding]] — Why meaning may be constitutively phenomenal
 - [[intentionality]] — Aboutness and the phenomenal intentionality thesis
-- [[autonoetic-consciousness]] — Episodic memory's richer phenomenology
+- [[anoetic-noetic-autonoetic-consciousness]] — Tulving's tripartite hierarchy of consciousness levels
 - [[episodic-memory]] — The contrasting memory system with autonoetic character
 - [[cognitive-phenomenology]] — The philosophical debate about thinking's phenomenal character
 - [[temporal-consciousness]] — Time in conscious experience

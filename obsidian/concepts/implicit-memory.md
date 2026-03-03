@@ -4,12 +4,12 @@ description: "Knowledge that shows in action without conscious recollection. Cho
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-03T23:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[semantic-memory]]"
   - "[[episodic-memory]]"
   - "[[working-memory]]"
@@ -41,13 +41,13 @@ Implicit memory matters for The Unfinishable Map's framework because it reveals 
 
 ## Tulving's Anoetic Consciousness
 
-Endel Tulving (1927-2023) distinguished three forms of consciousness associated with different memory systems, forming a hierarchy from unreflective action to temporal self-projection.
+Endel Tulving (1927-2023) distinguished [[anoetic-noetic-autonoetic-consciousness|three forms of consciousness]] associated with different memory systems, forming a hierarchy from unreflective action to temporal self-projection.
 
 **Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—what he called "non-reflective qualia." There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
 
 **Noetic consciousness** ("knowing") accompanies [[semantic-memory|semantic memory]]. You are aware of knowing—you know that Paris is in France—but without re-experiencing when you learned it. The fact is simply available.
 
-**Autonoetic consciousness** ("self-knowing") accompanies [[autonoetic-consciousness|episodic memory]]. You don't merely know facts about your past; you mentally travel back and re-experience events, phenomenally present as both current rememberer and past protagonist.
+**Autonoetic consciousness** ("self-knowing") accompanies [[episodic-memory|episodic memory]]. You don't merely know facts about your past; you mentally travel back and re-experience events, phenomenally present as both current rememberer and past protagonist.
 
 The hierarchy matters: anoetic consciousness provides the phenomenal foundation that higher forms build upon. Even the most automatic action has experiential character, however unreflective. The question is not whether there is experience, but what *kind* of experience accompanies different cognitive modes.
 
@@ -200,7 +200,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 
 - [[choking-phenomenon-mental-causation]] - Extended analysis of choking as evidence for mental causation
 - [[attention-as-interface|voluntary attention]] - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
-- [[autonoetic-consciousness]] - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
+- [[anoetic-noetic-autonoetic-consciousness]] — Tulving's tripartite hierarchy of consciousness levels
 - [[semantic-memory]] - Noetic consciousness and the phenomenology of knowing without re-experiencing
 - [[episodic-memory]] - How episodic memory contrasts with implicit memory in Tulving's framework
 - [[working-memory]] - The conscious workspace that interacts with implicit systems

@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-20T07:36:00+00:00
+ai_modified: 2026-03-03T23:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ The Unfinishable Map treats episodic memory as philosophically significant for t
 
 ## Tulving's Framework
 
-Endel Tulving (1927–2023) introduced the episodic/semantic distinction in 1972 and spent decades developing the concept of autonoetic consciousness. His key insight: different memory systems involve qualitatively different forms of awareness.
+Endel Tulving (1927–2023) introduced the episodic/semantic distinction in 1972 and spent decades developing the concept of autonoetic consciousness. His key insight: different memory systems involve [[anoetic-noetic-autonoetic-consciousness|qualitatively different forms of awareness]].
 
 **Anoetic consciousness** accompanies procedural memory. When you ride a bicycle or type on a keyboard, you act skilfully without reflective awareness of doing so. There is experience—something it is like to balance, to feel keys under fingers—but no self-reference, no sense of oneself as the subject of the experience.
 
@@ -209,6 +209,7 @@ Episodic memory supports all five foundational commitments.
 - [[witness-consciousness]] — Contemplative evidence for memory phenomena
 - [[sleep-and-consciousness]] — How consolidation operates outside consciousness
 - [[phenomenology-of-memory-and-the-self]] — How constructive memory constitutes and threatens selfhood
+- [[anoetic-noetic-autonoetic-consciousness]] — Tulving's full tripartite hierarchy of consciousness levels
 
 ## References
 

@@ -4,8 +4,8 @@ description: "Tulving's tripartite hierarchy classifies consciousness by self-aw
 created: 2026-02-15
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-03-02T04:52:00+00:00
-last_deep_review: 2026-02-24T16:12:00+00:00
+ai_modified: 2026-03-03T23:41:00+00:00
+last_deep_review: 2026-03-03T23:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
