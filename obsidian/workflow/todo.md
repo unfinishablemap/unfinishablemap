@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenological psychiatry and altered experience
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md. Sass/Parnas on ipseity disturbance in schizophrenia, Fuchs on embodied temporality, depersonalisation phenomenology — psychiatric alterations of experience provide natural experiments on consciousness's structure. Target section: topics/ (2 slots remaining after asymmetric bandwidth). Supports Tenet 1 (Dualism).
-- **Source**: unconsumed_research
+### P2: Cross-review hard-problem-of-consciousness.md considering phenomenological psychiatry article
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (created 2026-03-03) provides empirical grounding for the hard problem via structural irreducibility of psychiatric experience. Check for cross-links, ensure the hard problem article references phenomenological psychiatry as supporting evidence.
+- **Source**: chain (from phenomenological-psychiatry-and-altered-experience.md)
 - **Generated**: 2026-03-03
 
 ### P2: Cross-review emotional-consciousness.md considering emotional epistemology void insights
@@ -529,6 +529,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Write article on phenomenological psychiatry and altered experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-psychiatry-altered-experience-2026-02-21.md. Sass/Parnas on ipseity disturbance in schizophrenia, Fuchs on embodied temporality, depersonalisation phenomenology — psychiatric alterations of experience provide natural experiments on consciousness's structure. Target section: topics/ (2 slots remaining after asymmetric bandwidth). Supports Tenet 1 (Dualism).
+- **Output**: phenomenological psychiatry and altered experience
 
 ### ✓ 2026-03-03: Update references to coalesced apophatic-approaches article
 - **Type**: cross-review
