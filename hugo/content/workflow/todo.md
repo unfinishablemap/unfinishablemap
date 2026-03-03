@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering phenomenological psychiatry article
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (created 2026-03-03) provides empirical grounding for the hard problem via structural irreducibility of psychiatric experience. Check for cross-links, ensure the hard problem article references phenomenological psychiatry as supporting evidence.
-- **Source**: chain (from phenomenological-psychiatry-and-altered-experience.md)
-- **Generated**: 2026-03-03
-
-### P2: Cross-review emotional-consciousness.md considering emotional epistemology void insights
-- **Type**: cross-review
-- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores why we cannot fully know our own emotions from the inside. concepts/emotional-consciousness.md covers the broader role of emotion in conscious experience. Check for cross-links, reinforcing arguments about affective opacity, and ensure consistent treatment of emotional self-knowledge.
-- **Source**: chain (from emotional-epistemology-void.md)
-- **Generated**: 2026-03-03
-
-### P2: Cross-review introspective-opacity.md considering emotional epistemology void insights
-- **Type**: cross-review
-- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores emotional self-knowledge failures. concepts/introspective-opacity.md covers the broader phenomenon of opaque introspection. Check for cross-links, reinforcing arguments about limits of self-knowledge, and ensure the emotional domain is represented as an instance of introspective opacity.
-- **Source**: chain (from emotional-epistemology-void.md)
-- **Generated**: 2026-03-03
-
 ### P2: Integrate phenomenology-of-normative-experience.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound wikilinks from any content article. Topics article (created 2026-02-13) on the shared phenomenal structure of moral, epistemic, aesthetic, and prudential demands. Add cross-references from phenomenology-of-moral-experience.md, phenomenal-normativity.md, moral-perception.md, and aesthetic-dimension-of-consciousness.md.
@@ -530,6 +512,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-03: Cross-review introspective-opacity.md considering emotional epistemology void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores emotional self-knowledge failures. concepts/introspective-opacity.md covers the broader phenomenon of opaque introspection. Check for cross-links, reinforcing arguments about limits of self-knowledge, and ensure the emotional domain is represented as an instance of introspective opacity.
+- **Output**: obsidian/voids/introspective-opacity.md -- Context: Cross-review introspective-opacity.md considering emotional epistemology void insights
+
+### ✓ 2026-03-03: Cross-review emotional-consciousness.md considering emotional epistemology void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emotional-epistemology-void.md (created 2026-03-02) explores why we cannot fully know our own emotions from the inside. concepts/emotional-consciousness.md covers the broader role of emotion in conscious experience. Check for cross-links, reinforcing arguments about affective opacity, and ensure consistent treatment of emotional self-knowledge.
+- **Output**: obsidian/topics/emotional-consciousness.md -- Context: Cross-review emotional-consciousness.md considering emotional epistemology void insights
+
+### ✓ 2026-03-03: Cross-review hard-problem-of-consciousness.md considering phenomenological psychiatry article
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (created 2026-03-03) provides empirical grounding for the hard problem via structural irreducibility of psychiatric experience. Check for cross-links, ensure the hard problem article references phenomenological psychiatry as supporting evidence.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering phenomenological psychiatry article
 
 ### ✓ 2026-03-03: Write article on phenomenological psychiatry and altered experience
 - **Type**: expand-topic

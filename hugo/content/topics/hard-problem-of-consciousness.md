@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-02-27 11:46:00+00:00
+ai_modified: 2026-03-03 10:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -53,7 +53,7 @@ description: Why is there something it is like to be conscious? Physical descrip
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-26 09:03:00+00:00
+last_deep_review: 2026-03-03 10:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,6 +67,7 @@ related_articles:
 - '[[process-and-consciousness]]'
 - '[[emergence-void]]'
 - '[[measurement-problem-as-hard-problem]]'
+- '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[objectivity-and-consciousness]]'
 title: The Hard Problem of Consciousness
 topics: []
@@ -103,7 +104,7 @@ Consider a paradigm physical explanation: water is H₂O. Given the molecular fa
 
 Now consider: pain is C-fiber firing (or some other neural state). Does this explain why pain *hurts*? Even with perfect knowledge of C-fiber dynamics, the felt quality of pain—the burning, throbbing, aching character—remains unexplained. The identity might be true in some metaphysical sense, but it doesn't *explain*. Why does C-fiber firing feel like *that*? Why does it feel like *anything*?
 
-This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely. [Perception](/topics/perception-and-conscious-experience/) provides the clearest cases: dissociations like blindsight, the richness of phenomenal overflow, the perspectival character of seeing, and the transparency of perceptual experience each reveal precisely where physical description falls short.
+This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely. [Perception](/topics/perception-and-conscious-experience/) provides the clearest cases: dissociations like blindsight, phenomenal overflow, and the transparency of perceptual experience reveal where physical description falls short.
 
 As Russell and Eddington observed, physics tells us what things *do*—how they relate to other things—but not what they *are* intrinsically. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) lies at the heart of scientific knowledge: every physical description is relational. Consciousness may be our only window into intrinsic nature, which is why structural descriptions—however complete—cannot reach it.
 
@@ -181,7 +182,9 @@ Research on [neural correlates of consciousness (NCC)](/concepts/neural-correlat
 
 [Near-death experience research](/concepts/near-death-experiences/) documents cases where patients report vivid, structured experiences during periods of severely compromised brain function. The AWARE study (Parnia et al. 2014) found that some cardiac arrest survivors reported verified perceptions during resuscitation. Sceptics raise legitimate objections: reports are retrospective, and memory confabulation during recovery could produce the *impression* of enhanced experience. The debate remains open, but the possibility that structured experience persists during severe neural compromise sits uneasily with strict production models.
 
-[Altered states](/concepts/altered-states-of-consciousness/) sharpen the question. Anaesthetic agents such as ketamine and propofol suppress behavioural responsiveness to similar depths yet produce strikingly different experiential profiles—dissociative vividness versus phenomenal absence (Alkire et al. 2008). If the brain strictly *produces* consciousness, why should pharmacologically different pathways to the same behavioural endpoint yield such divergent experiences? The filter model—consciousness using the brain as a configurable interface rather than a generator—offers one framework for these dissociations, though production models can appeal to differential effects on specific neural circuits.
+[Altered states](/concepts/altered-states-of-consciousness/) sharpen the question. Anaesthetic agents such as ketamine and propofol suppress behavioural responsiveness to similar depths yet produce strikingly different experiential profiles—dissociative vividness versus phenomenal absence (Alkire et al. 2008). If the brain strictly *produces* consciousness, why should pharmacologically different pathways to the same behavioural endpoint yield such divergent experiences? The filter model offers one framework for these dissociations, though production models can appeal to differential effects on specific circuits.
+
+[Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) extends the point beyond pharmacology: schizophrenia disrupts the pre-reflective sense of mineness, depression collapses the temporal horizon, depersonalisation cracks embodied transparency. These are alterations in the *structure* of experience—and neurochemistry does not explain why these structural features shift.
 
 ### Materialist Responses
 
@@ -203,7 +206,7 @@ See [materialism](/concepts/materialism/) for detailed treatment of each positio
 
 If the explanatory gap is real, [substrate independence](/concepts/substrate-independence/) is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
 
-Block's China brain illustrates: the entire population implementing a brain's functional organization. Is China conscious? If implementing causal structure doesn't suffice for the China brain, why should it suffice for silicon? See [substrate-independence-critique](/concepts/substrate-independence/) for the full argument.
+Block's China brain illustrates: the entire population implementing a brain's functional organization. If this doesn't suffice for China, why should it suffice for silicon? See [substrate-independence-critique](/concepts/substrate-independence/) for the full argument.
 
 ### Epiphenomenalism
 
@@ -280,6 +283,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why consciousness resists objective description: the view from nowhere cannot capture what IS perspective
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How quantum mechanics might relate to consciousness
 - [witness-consciousness](/concepts/witness-consciousness/) — The subject-object structure revealed by contemplative practice
+- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy engages with dualist frameworks
 - [tenets](/tenets/) — The foundational commitments of the Map
 
