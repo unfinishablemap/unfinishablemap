@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-03 20:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-self-minimal-narrative-and-substantial]]
+- **Word count**: 2496 → 2782 (+286)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing Sass & Parnas citation, underutilized phenomenological psychiatry evidence, unaddressed minimal-self/substantial-self tension)
+- **Enhancements made**: 4 (expanded ipseity disturbance with DPD evidence, clinical evidence for layered model, addressed self-disruption tension, added cross-link)
+- **Output**: [[reviews/deep-review-2026-03-03-the-self-minimal-narrative-and-substantial]]
+
 ## 2026-03-03 19:41 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: apex/attention-as-causal-bridge.md (also cross-referenced source articles: concepts/attention-as-interface.md, topics/attention-consciousness-dissociation.md)
