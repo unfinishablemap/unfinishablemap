@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 20:47 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Spontaneous Thought Void
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [[research/voids-spontaneous-thought-void-2026-03-04]]
+- **Key finding**: We spend ~50% of waking life in spontaneous thought whose generative process is completely hidden from introspection — the most pervasive yet most opaque cognitive void, with significant implications for dualism (what generates content in a non-physical mind?)
+
 ## 2026-03-04 20:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[apex/testing-the-map-from-inside]]
