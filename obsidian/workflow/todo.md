@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-04
 
-### P2: Review embodied-cognition.md considering phenomenological-psychiatry insights
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-03) covers Fuchs on embodied temporality and psychiatric alterations of experience. concepts/embodied-cognition.md addresses how cognition is shaped by bodily processes — Fuchs is a major figure in both fields. Check for cross-links, ensure embodied-cognition references the new phenomenological-psychiatry evidence, and verify consistent treatment of Fuchs's framework. Supports Tenet 1 (Dualism).
-- **Source**: chain (from phenomenological-psychiatry-and-altered-experience.md)
-- **Generated**: 2026-03-04
-
 ### P2: Review attention-as-selection-interface.md considering asymmetric-bandwidth insights
 - **Type**: cross-review
 - **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (2026-03-03) demonstrates a 100-million-fold gap between inbound (~1 Gbps) and outbound (~10 bits/s) bandwidth. topics/attention-as-selection-interface.md argues consciousness acts by selecting among neural alternatives — the bandwidth asymmetry directly constrains how selection operates and strengthens the case that consciousness is a coarse-grained selector, not a fine-grained processor. Check for cross-links and argument reinforcement. Supports Tenet 2 and Tenet 3.
@@ -553,6 +547,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Review embodied-cognition.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-03) covers Fuchs on embodied temporality and psychiatric alterations of experience. concepts/embodied-cognition.md addresses how cognition is shaped by bodily processes — Fuchs is a major figure in both fields. Check for cross-links, ensure embodied-cognition references the new phenomenological-psychiatry evidence, and verify consistent treatment of Fuchs's framework. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/embodied-cognition.md -- Context: Review embodied-cognition.md considering phenomenological-psychiatry insights
 
 ### ✓ 2026-03-04: Integrate phenomenology-of-normative-conflict.md into site navigation
 - **Type**: integrate-orphan
