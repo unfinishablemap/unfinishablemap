@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Duhem-Quine underdetermination in consciousness science
-- **Type**: expand-topic
-- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The Duhem-Quine thesis — theories are underdetermined by evidence — has direct implications for the consciousness debate: multiple ontologies are compatible with the same neural data, so parsimony alone cannot adjudicate between physicalism and dualism. Auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: topics/ (2 slots remaining). Supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: unconsumed_research + chain
+### P2: Cross-review duhem-quine-underdetermination-consciousness against related articles
+- **Type**: cross-review
+- **Notes**: Review [[topics/duhem-quine-underdetermination-consciousness]] in context of [[concepts/philosophy-of-science-under-dualism]], [[arguments/epistemological-limits-of-occams-razor]], and related consciousness methodology articles. Check for consistency, add inbound links.
+- **Source**: chain from expand-topic
 - **Generated**: 2026-03-04
 
 ### P2: Integrate testing-the-map-from-inside.md into site navigation
@@ -602,6 +602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write article on Duhem-Quine underdetermination in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The Duhem-Quine thesis — theories are underdetermined by evidence — has direct implications for the consciousness debate: multiple ontologies are compatible with the same neural data, so parsimony alone cannot adjudicate between physicalism and dualism. Auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: topics/ (2 slots remaining). Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: Duhem-Quine underdetermination in consciousness science
 
 ### ✓ 2026-03-04: Cross-review probability-problem-in-many-worlds against related MWI content
 - **Type**: cross-review
