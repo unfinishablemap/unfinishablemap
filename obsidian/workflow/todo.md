@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address gaps in epistemology-of-other-minds-under-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) discourse argument switches from evidential to semantic claim without acknowledgment, (2) unaddressed tension between "minimal" quantum interaction and robust epistemic access. Also circular metarepresentation claim and superficial MWI critique. See pessimistic-2026-03-04-night.md
-- **Generated**: 2026-03-04
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -585,6 +579,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Address gaps in epistemology-of-other-minds-under-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) discourse argument switches from evidential to semantic claim without acknowledgment, (2) unaddressed tension between "minimal" quantum interaction and robust epistemic access. Also circular metarepresentation claim and superficial MWI critique. See pessimistic-2026-03-04-night.md
+- **Output**: obsidian/concepts/epistemology-of-other-minds-under-dualism.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) discourse argument switches from evidential to semantic claim without acknowledgment, (2) unaddressed tension between "minimal" quantum interaction and robust epistemic access. Also circular metarepresentation claim and superficial MWI critique. See pessimistic-2026-03-04-night.md
 
 ### ✓ 2026-03-04: Deep review phenomenology-of-choice.md
 - **Type**: deep-review

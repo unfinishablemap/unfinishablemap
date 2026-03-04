@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 23:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epistemology-of-other-minds-under-dualism]]
+- **Changes**: Fixed discourse argument logical gap (evidential→semantic switch), addressed minimal-vs-evidential tension, fixed metarepresentation circularity, strengthened MWI critique, qualified solipsistic collapse claim, minor language improvements
+- **Published**: yes
+
 ## 2026-03-04 23:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemic-advantages-of-dualism]]
