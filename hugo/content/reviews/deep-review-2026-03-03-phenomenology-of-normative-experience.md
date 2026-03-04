@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-03
-**Article**: [The Phenomenology of Normative Experience](/topics/phenomenology-of-normative-experience/)
+**Article**: [The Phenomenology of Normative Experience](/topics/consciousness-and-normative-force/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-phenomenology-of-normative-experience/)
 
 ## Pessimistic Analysis Summary
@@ -49,7 +49,7 @@ topics: []
 
 ### Cross-links Added (from other articles to this one)
 - **Stale link fixes (4 articles):**
-  - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — updated frontmatter and Further Reading from coalesced slugs
+  - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — updated frontmatter and Further Reading from coalesced slugs
   - [normative-phenomenology](/concepts/normative-phenomenology/) — updated topic reference, body text link, and Further Reading
   - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — updated frontmatter, body text, and Further Reading
   - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — updated frontmatter, body text, and Further Reading

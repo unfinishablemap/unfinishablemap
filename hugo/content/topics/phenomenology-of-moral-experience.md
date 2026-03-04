@@ -195,7 +195,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [moral-perception](/concepts/moral-perception/) — The capacity to perceive ethical properties directly
 - [moral-phenomenology](/concepts/moral-phenomenology/) — The philosophical study of moral experience's felt character
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force
-- [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
+- [phenomenology-of-normative-experience](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotion
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience resists reduction

@@ -985,7 +985,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 03:43 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)
+- **File**: [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/)
 - **Word count**: 3426 → 3449 (+23)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 4

@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced normative articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-and-normative-force](/topics/consciousness-and-normative-force/). The following files reference archived articles and need wikilinks updated: concepts/phenomenal-normativity.md, concepts/normative-phenomenology.md, concepts/moral-perception.md, concepts/moral-phenomenology.md, topics/phenomenology-of-deliberation-under-uncertainty.md, topics/phenomenal-normativity-environmental-ethics.md, topics/phenomenology-of-intellectual-courage.md, topics/phenomenology-of-moral-experience.md, topics/aesthetic-dimension-of-consciousness.md, topics/consciousness-and-the-problem-of-induction.md, topics/phenomenology-of-philosophical-disagreement.md, topics/consciousness-and-the-authority-of-formal-systems.md
+- **Source**: coalesce
+- **Generated**: 2026-03-04
+
 ### P2: Remove 9 stale hugo files from archived/coalesced articles
 - **Type**: other
 - **Notes**: Nine hugo/content/ files persist from articles that were archived or coalesced, inflating the orphan count (13 reported vs 3 genuine) and potentially causing rendering issues. Archived files with stale hugo copies: consciousness-and-pain, consciousness-and-temporal-integration, contemplative-reliability, phenomenology-of-normative-properties, measurement-problem-as-hard-problem, phenomenology-of-inferential-understanding, surprise-and-creativity (all in archive/). Coalesced files: apophatic-approaches (→ apophatic-cartography), autonoetic-consciousness (→ anoetic-noetic-autonoetic-consciousness). Delete each stale hugo/content/ file and verify the archive/ redirects are correct.

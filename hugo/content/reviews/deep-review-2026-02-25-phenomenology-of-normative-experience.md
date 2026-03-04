@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [The Phenomenology of Normative Experience](/topics/phenomenology-of-normative-experience/)
+**Article**: [The Phenomenology of Normative Experience](/topics/consciousness-and-normative-force/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

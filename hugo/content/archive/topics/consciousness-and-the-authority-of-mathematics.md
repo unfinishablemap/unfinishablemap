@@ -176,7 +176,7 @@ The view would be *supported* by:
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — The phenomenology of mathematical insight as evidence for irreducible consciousness
 - [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creation as the strongest evidence for consciousness doing causal work
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but genuine understanding fails
-- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — Parallel case for consciousness grounding authority in normative domains
+- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — Parallel case for consciousness grounding authority in normative domains
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Parallel analysis of where logical authority meets its limits at consciousness
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The unbridgeable gap between structural description and intrinsic nature
 - [materialism-argument](/arguments/materialism-argument/) — The broader argument against reducing consciousness to physical processes

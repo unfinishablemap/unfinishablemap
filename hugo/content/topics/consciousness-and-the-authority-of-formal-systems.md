@@ -138,7 +138,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 ## Further Reading
 
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
-- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — Normative authority across moral, epistemic, and aesthetic domains
+- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — Normative authority across moral, epistemic, and aesthetic domains
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has its own phenomenal character
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight and creativity as evidence for consciousness doing causal work
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but genuine understanding fails

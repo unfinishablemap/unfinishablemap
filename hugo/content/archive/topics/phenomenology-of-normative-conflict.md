@@ -134,7 +134,7 @@ The phenomenology of normative conflict connects to the Map's [foundational comm
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages consciousness's selection function
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The felt character of deciding without full information
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
-- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — How consciousness grounds normative authority
+- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — How consciousness grounds normative authority
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 
 ## References

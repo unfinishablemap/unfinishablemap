@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Consciousness and the Grounds of Normative Authority](/topics/consciousness-and-the-grounds-of-normative-authority/)
+**Article**: [Consciousness and the Grounds of Normative Authority](/topics/consciousness-and-normative-force/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
