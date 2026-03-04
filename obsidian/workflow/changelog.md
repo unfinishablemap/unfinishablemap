@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 06:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-normative-experience]], [[topics/consciousness-and-the-grounds-of-normative-authority]]
+- **Target**: [[topics/consciousness-and-normative-force]]
+- **Archived**: [[archive/topics/phenomenology-of-normative-experience]], [[archive/topics/consciousness-and-the-grounds-of-normative-authority]]
+- **References to review**: 12 files across concepts/ and topics/
+
 ## 2026-03-04 05:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/valence-void]]

@@ -42,6 +42,11 @@ last_deep_review: 2026-03-03T14:42:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-normative-properties/"
   - "/topics/phenomenology-of-normative-conflict/"
+archived: true
+archived_date: 2026-03-04T06:41:00+00:00
+superseded_by: "/topics/consciousness-and-normative-force/"
+archive_reason: "Coalesced into Consciousness and Normative Force"
+original_path: "/topics/phenomenology-of-normative-experience/"
 ---
 
 Normative properties—wrongness, rational compellingness, beauty, prudential weight—show up in consciousness with distinctive phenomenal character. They share a common structure: all present themselves as demands, as features of the world that call for response. Yet these demands do not operate in isolation. They collide. A whistleblower feels moral obligation pulling against self-preservation. A scientist feels the demand for truth pulling against the duty to protect vulnerable subjects. These collisions produce an experience irreducible to either demand alone: the felt weight of conflicting oughts, and the distinctive suffering of having to choose between them.

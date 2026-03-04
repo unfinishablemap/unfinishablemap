@@ -44,6 +44,11 @@ coalesced_from:
   - "/topics/consciousness-and-the-problem-of-normative-force/"
   - "/topics/consciousness-and-normative-authority/"
   - "/topics/consciousness-and-the-problem-of-normative-integration/"
+archived: true
+archived_date: 2026-03-04T06:41:00+00:00
+superseded_by: "/topics/consciousness-and-normative-force/"
+archive_reason: "Coalesced into Consciousness and Normative Force"
+original_path: "/topics/consciousness-and-the-grounds-of-normative-authority/"
 ---
 
 Consciousness does not merely accompany normative judgments — it provides their authority. Pain does not inform you that tissue is damaged and leave you to decide what follows; it *compels* avoidance. A promise does not describe a commitment; it *binds* you to fulfilment. The Unfinishable Map argues that normative authority — across moral, epistemic, and aesthetic domains — is rooted in irreducible features of conscious experience. Without phenomenal consciousness, the gap between recognising a fact and being bound by it cannot be closed. This article examines where normative force comes from, how consciousness grounds it across multiple domains, and how a single conscious agent integrates competing normative demands into coherent action.
