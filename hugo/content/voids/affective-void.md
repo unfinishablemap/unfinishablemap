@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-25 06:27:00+00:00
+ai_modified: 2026-03-04 05:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[intersubjective-void]]'
 - '[[appetitive-void]]'
+- '[[valence-void]]'
 title: The Affective Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -121,7 +122,7 @@ The affective void connects to the Map's [foundational commitments](/tenets/):
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** deepens the [other minds problem](/voids/other-minds-void/). We fail not just to access *whether* others feel, but potentially *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires, and consciousness causally influences cognition, then we cannot access either their experiences or the causal contributions those experiences make.
 
-The affective void suggests profound humility about emotion. Our feelings are not privileged windows onto some universal emotional reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, implemented in one particular neural architecture. The hard problem of consciousness extends beyond explaining why there is something it is like to be conscious; it must also explain why *these* affects rather than the vast space of others.
+The affective void suggests profound humility about emotion. Our feelings are not privileged windows onto some universal emotional reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, implemented in one particular neural architecture. The hard problem of consciousness extends beyond explaining why there is something it is like to be conscious; it must also explain why *these* affects rather than the vast space of others. The [valence-void](/voids/valence-void/) sharpens the question further: why do all affects share a positive-negative evaluative dimension at all?
 
 ## Further Reading
 
@@ -134,6 +135,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
 - [synesthetic-void](/voids/synesthetic-void/) — How synesthesia reveals intra-species phenomenal access gaps
 - [appetitive-void](/voids/appetitive-void/) — How desire structures our mapping of emotional limits
+- [valence-void](/voids/valence-void/) — Why all affect has a good/bad character — the structure problem, not the range problem
 - [normative-void](/voids/normative-void/) — Moral truths beyond human cognitive reach—the ethics counterpart
 - [apophatic-approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
 

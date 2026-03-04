@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-25 20:55:00+00:00
+ai_modified: 2026-03-04 05:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,6 +34,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-causal-powers]]'
+- '[[valence-void]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[topics/phenomenal-value-realism]]'
 - '[[placebo-effect-and-mental-causation]]'
@@ -59,7 +60,7 @@ Pain occupies a privileged position in philosophy of mind because it resists the
 
 Consider the difference between pain *report* and pain *experience*. A robot can detect tissue damage and emit a signal labelled "pain." It can withdraw from harmful stimuli and prioritise repair. But without [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — without there being something it is like to be that robot — nothing hurts. The functional story is complete; the experiential story hasn't started.
 
-The [knowledge-argument](/concepts/knowledge-argument/) gains particular force when applied to pain. Imagine a neuroscientist raised in a controlled environment where nociceptors were suppressed from birth. She knows everything physical about pain: C-fibre firing rates, thalamic relay pathways, anterior cingulate activation patterns, endorphin modulation. She can predict exactly who will report pain, when, and how intensely. Does she know what pain is like? When she first experiences pain — a pinprick after a procedure reverses the suppression — she learns something genuinely new. Not a new physical fact, but a phenomenal fact about the felt quality of suffering. The gap between mechanism and awfulness is the explanatory gap at its widest.
+The [knowledge-argument](/concepts/knowledge-argument/) gains particular force when applied to pain. Imagine a neuroscientist raised in a controlled environment where nociceptors were suppressed from birth. She knows everything physical about pain: C-fibre firing rates, thalamic relay pathways, anterior cingulate activation patterns, endorphin modulation. She can predict exactly who will report pain, when, and how intensely. Does she know what pain is like? When she first experiences pain — a pinprick after a procedure reverses the suppression — she learns something genuinely new. Not a new physical fact, but a phenomenal fact about the felt quality of suffering. The gap between mechanism and awfulness is the explanatory gap at its widest—the [valence-void](/voids/valence-void/) examines why this gap may be structurally unfillable.
 
 The physicalist may reply, following Lewis and Nemirow, that the neuroscientist gains not a new *fact* but a new *ability* — the ability to recognise, imagine, and remember pain. But the ability hypothesis struggles with pain specifically. Pain's evaluative character — its *awfulness* — resists redescription as mere recognitional know-how. The related [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) argues that phenomenal concepts refer to physical properties under a distinctive mode of presentation. Even if correct, it concedes that something about first-person acquaintance with pain escapes third-person physical description — which is the dualist's central point.
 
@@ -145,6 +146,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that sharpens the bypass question
 - [knowledge-argument](/concepts/knowledge-argument/) — What physical knowledge cannot convey
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Phenomenal experience as evidence
+- [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 
 ## References
 

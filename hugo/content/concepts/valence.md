@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-26 23:57:00+00:00
+ai_modified: 2026-03-04 05:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,6 +23,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[emotional-consciousness-valence-2026-01-19]]'
+- '[[valence-void]]'
 title: Valence
 topics:
 - '[[emotional-consciousness]]'
@@ -56,7 +57,7 @@ The dissociation runs in only one direction. You can have representation without
 
 Valence extends the [hard problem](/topics/hard-problem-of-consciousness/) into its most vivid domain. A complete functional description of nociception—sensory transduction, neural signaling, defensive responses—leaves the badness unexplained. One could conceivably imagine a system that does everything pain does functionally (avoids damage, learns from injury, signals tissue harm) without feeling bad at all. The [zombie argument](/concepts/philosophical-zombies/) applies directly: a zombie's pain-processing would be functionally identical to ours yet lack the felt badness.
 
-The explanatory gap for valence is particularly stark because the property seems so simple—just positive or negative—yet resists reduction completely. If we cannot explain why pain feels bad, the prospects for explaining the richer textures of grief, shame, or joy are dim.
+The explanatory gap for valence is particularly stark because the property seems so simple—just positive or negative—yet resists reduction completely. If we cannot explain why pain feels bad, the prospects for explaining the richer textures of grief, shame, or joy are dim. The [valence-void](/voids/valence-void/) examines this inexplicability as a structurally irresolvable cognitive limit—sharper and more intimate than the hard problem it inherits.
 
 ## Valence Does Causal Work
 
@@ -92,6 +93,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt aspect of mental states
 - [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
+- [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether valence participates directly in selection or operates through attention
 - [why-pain-hurts](/topics/why-pain-hurts/) — Extended treatment of pain and conscious experience
 - [suffering-versus-pain](/topics/suffering-versus-pain/) — Why suffering and pain are not the same phenomenon

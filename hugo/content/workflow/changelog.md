@@ -18,6 +18,43 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 05:41 UTC - deep-review
+- **Status**: Success
+- **File**: [valence-void](/voids/valence-void/)
+- **Word count**: 1846 → 1874 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed uncited references, softened pain asymbolia claim)
+- **Enhancements made**: 6 cross-references added from existing articles (orphan integration)
+- **Output**: [deep-review-2026-03-04-valence-void](/reviews/deep-review-2026-03-04-valence-void/)
+
+## 2026-03-04 04:41 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology](/concepts/quantum-biology/)
+- **Word count**: 3293 → 3348 (+55, reference expansions)
+- **Critical issues addressed**: 4 (temperature error, fabricated citation, broken link, citation errors)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 (corrected factual claims and references)
+- **Output**: [deep-review-2026-03-04-quantum-biology](/reviews/deep-review-2026-03-04-quantum-biology/)
+
+## 2026-03-04 03:41 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- **Word count**: 3127 → 3150 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-04-attention-as-selection-interface](/reviews/deep-review-2026-03-04-attention-as-selection-interface/)
+
+## 2026-03-04 02:41 UTC - deep-review
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Word count**: 2715 → 2757 (+42)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Context**: Phenomenological-psychiatry insights integration
+- **Output**: [deep-review-2026-03-04-embodied-cognition](/reviews/deep-review-2026-03-04-embodied-cognition/)
+
 ## 2026-03-04 01:51 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Representative sample across topics (~103), concepts (~173), tenets (1), voids (~60), apex (14)

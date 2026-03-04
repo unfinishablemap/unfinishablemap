@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-18 06:47:00+00:00
+ai_modified: 2026-03-04 05:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Why does experience come sorted into good and bad? Human+AI explora
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-04 05:41:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +27,10 @@ related_articles:
 - '[[emergence-void]]'
 - '[[causal-interface]]'
 - '[[three-kinds-of-void]]'
+- '[[why-pain-hurts]]'
+- '[[emotional-consciousness]]'
+- '[[emotion-as-evidence-for-dualism]]'
+- '[[pain-asymbolia-as-central-test-case]]'
 title: The Valence Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -49,7 +53,7 @@ Neuroscience has mapped the circuits of pleasure and pain with remarkable precis
 
 None of this explains why these circuits *feel* a certain way. A complete wiring diagram of nociception — from peripheral transduction through spinal signalling to cortical processing — specifies everything pain does without saying anything about why it hurts. The [zombie argument](/concepts/philosophical-zombies/) applies with particular force here: a being functionally identical to us in its pain-processing could conceivably lack the felt badness entirely.
 
-Pain asymbolia demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage. They are not. The functional architecture and the felt quality are dissociable.
+[Pain asymbolia](/topics/pain-asymbolia-as-central-test-case/) demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage with normal urgency. They are not — asymbolics fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional architecture and the felt quality are dissociable.
 
 ### Introspection Bottoms Out
 
@@ -107,6 +111,9 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [valence](/concepts/valence/) — The concept of hedonic valence and competing philosophical accounts
+- [why-pain-hurts](/topics/why-pain-hurts/) — Pain's phenomenal character and causal power — the valence void's paradigm case
+- [emotional-consciousness](/topics/emotional-consciousness/) — The broader landscape of emotional consciousness and the valence debate
+- [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — How valence irreducibility provides distinctive evidence for dualism
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach — the range problem, not the structure problem
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself — valence as a case of intrinsic nature
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — Why consciousness exists at all — the most logically prior void
@@ -116,8 +123,6 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 
 ## References
 
-1. Carruthers, P. (2018). Valence and Value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
 1. Johnson, M. E. (2016). *Principia Qualia*. Qualia Research Institute.
-1. Metzinger, T. (2020). Minimal Phenomenal Experience. *Philosophy and the Mind Sciences*, 1(I), 7.
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 1. Veit, W. (2024). Hedonic Valence at the Core of Consciousness. *Philosophy and the Mind Sciences*.
