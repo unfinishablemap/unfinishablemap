@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-This review was prompted by the publication of [The Asymmetric Bandwidth of Consciousness](/topics/asymmetric-bandwidth-of-consciousness/) (2026-03-03), which develops the 100-million-fold inbound/outbound bandwidth asymmetry as evidence for the interface model. The review examines whether this article adequately integrates those insights.
+This review was prompted by the publication of [The Asymmetric Bandwidth of Consciousness](/topics/bandwidth-of-consciousness/) (2026-03-03), which develops the 100-million-fold inbound/outbound bandwidth asymmetry as evidence for the interface model. The review examines whether this article adequately integrates those insights.
 
 ## Pessimistic Analysis Summary
 
@@ -54,12 +54,12 @@ None. No misattributions, no self-contradictions, no missing required sections. 
 ### Enhancements Made
 - Strengthened bandwidth constraint section with asymmetric-bandwidth insights (100-million-fold ratio, selection arithmetic)
 - Fixed Zheng & Meister 2024 citation to reference correct paper
-- Added reciprocal cross-link to [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/)
+- Added reciprocal cross-link to [asymmetric-bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - Added [adaptive-computational-depth](/concepts/adaptive-computational-depth/) to frontmatter concepts
 - Tightened prose in MQI tenet section, dopamine section, candidate sites intro, and thalamic nuclei for length neutrality
 
 ### Cross-links Added
-- [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/) (related_articles + Further Reading)
+- [asymmetric-bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) (related_articles + Further Reading)
 
 ## Remaining Items
 

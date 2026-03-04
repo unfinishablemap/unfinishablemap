@@ -2769,7 +2769,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-24 00:36 UTC - deep-review
 - **Status**: Success
-- **File**: [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+- **File**: [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 - **Word count**: 2285 → 2423 (+138)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (missing bandwidth-problem cross-link, missing related article cross-links, unsupported derivation phrasing)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [Neural Bandwidth Constraints and the Interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+**Article**: [Neural Bandwidth Constraints and the Interface](/topics/bandwidth-of-consciousness/)
 **Previous review**: [2026-02-24](/reviews/deep-review-2026-02-24-neural-bandwidth-constraints-and-the-interface/)
 **Cross-review context**: Reviewing in light of [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) insights
 

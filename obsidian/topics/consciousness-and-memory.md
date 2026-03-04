@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-03T23:41:00+00:00
+ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,7 +73,7 @@ If memory were pure information processing, certain asymmetries would not exist.
 
 Memory formation divides into a conscious phase (encoding) and an unconscious phase (consolidation). During encoding, attention determines what enters memory—[[working-memory|working memory]] serves as the interface, holding information in an experienced present lasting roughly 100 milliseconds to 5 seconds. Without conscious attention, encoding fails—inattentional blindness prevents encoding of unattended stimuli even in fully awake subjects, and deep anaesthesia blocks new episodic memory formation entirely.
 
-During NREM slow-wave sleep, the hippocampus replays recent experiences through sharp-wave ripples (100–250 Hz) coordinated with thalamocortical sleep spindles (10–16 Hz) and cortical slow oscillations (less than 1 Hz), gradually transferring memory traces to long-term cortical storage. A 2023 *Nature Neuroscience* study (Geva-Sagiv et al.) provided causal evidence for this coordination: augmenting hippocampal-prefrontal synchrony during sleep through closed-loop stimulation enhanced consolidation measurably. Multiple memory traces replay simultaneously—unlike the [[neural-bandwidth-constraints-and-the-interface|serial bottleneck]] of human behavioural throughput, estimated at roughly 10 bits per second (Zheng & Meister 2025). Cross-memory linking strengthens thematic connections. New memories integrate with existing cortical schemas. All of this without the phenomenal unity, temporal ordering, or attentional selection that characterise waking thought.
+During NREM slow-wave sleep, the hippocampus replays recent experiences through sharp-wave ripples (100–250 Hz) coordinated with thalamocortical sleep spindles (10–16 Hz) and cortical slow oscillations (less than 1 Hz), gradually transferring memory traces to long-term cortical storage. A 2023 *Nature Neuroscience* study (Geva-Sagiv et al.) provided causal evidence for this coordination: augmenting hippocampal-prefrontal synchrony during sleep through closed-loop stimulation enhanced consolidation measurably. Multiple memory traces replay simultaneously—unlike the [[bandwidth-of-consciousness|serial bottleneck]] of human behavioural throughput, estimated at roughly 10 bits per second (Zheng & Meister 2025). Cross-memory linking strengthens thematic connections. New memories integrate with existing cortical schemas. All of this without the phenomenal unity, temporal ordering, or attentional selection that characterise waking thought.
 
 This split is puzzling on materialist accounts. If consciousness is identical to certain neural processes, why would some stages of a single memory system require it while others do not? A Global Workspace Theory proponent might respond that encoding requires global broadcasting for attentional selection while consolidation uses local hippocampal replay that does not—but this relocates the question: why does global broadcasting produce experience while equally complex local processing does not? The dualist answer: consciousness participates at the point of selection—choosing what matters, what to attend to, what to encode—and withdraws once the selection is made. The brain handles storage; [[conscious-vs-unconscious-processing|consciousness handles significance]].
 
@@ -161,7 +161,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [[personal-identity]]
 - [[choking-phenomenon-mental-causation]]
 - [[conscious-vs-unconscious-processing]]
-- [[neural-bandwidth-constraints-and-the-interface]]
+- [[bandwidth-of-consciousness]]
 - [[incubation-effect-and-unconscious-processing]]
 - [[diachronic-agency-and-personal-narrative]]
 - [[dream-consciousness]]

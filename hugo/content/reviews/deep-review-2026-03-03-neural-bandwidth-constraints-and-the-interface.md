@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-03-03
-**Article**: [Neural Bandwidth Constraints and the Interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+**Article**: [Neural Bandwidth Constraints and the Interface](/topics/bandwidth-of-consciousness/)
 **Previous review**: [2026-02-24](/reviews/deep-review-2026-02-24-neural-bandwidth-constraints-and-the-interface/)
-**Review type**: Cross-review (considering [The Asymmetric Bandwidth of Consciousness](/topics/asymmetric-bandwidth-of-consciousness/))
+**Review type**: Cross-review (considering [The Asymmetric Bandwidth of Consciousness](/topics/bandwidth-of-consciousness/))
 
 ## Pessimistic Analysis Summary
 
@@ -79,7 +79,7 @@ No misattributions, dropped qualifiers, or source/Map conflation found.
 
 ### Cross-links Added
 
-- [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/)
+- [asymmetric-bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 
 ## Cross-Review Analysis
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced bandwidth articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [[bandwidth-of-consciousness]]. The following files reference archived articles and may need review: concepts/mental-causation.md, concepts/bandwidth-problem-mental-causation.md, concepts/interface-friction.md, topics/consciousness-and-memory.md, topics/the-interface-specification-problem.md, topics/predictive-processing-and-the-maps-framework.md, topics/phenomenology-of-cognitive-capacity.md, topics/developmental-trajectory-of-the-interface.md, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md, topics/childhood-development-and-the-interface.md, voids/resolution-void.md, topics/hard-problem-of-consciousness.md, topics/attention-as-selection-interface.md
-- **Source**: coalesce
-- **Generated**: 2026-03-04
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -574,6 +568,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Update references to coalesced bandwidth articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[bandwidth-of-consciousness]]. The following files reference archived articles and may need review: concepts/mental-causation.md, concepts/bandwidth-problem-mental-causation.md, concepts/interface-friction.md, topics/consciousness-and-memory.md, topics/the-interface-specification-problem.md, topics/predictive-processing-and-the-maps-framework.md, topics/phenomenology-of-cognitive-capacity.md, topics/developmental-trajectory-of-the-interface.md, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md, topics/childhood-development-and-the-interface.md, voids/resolution-void.md, topics/hard-problem-of-consciousness.md, topics/attention-as-selection-interface.md
+- **Output**: None -- Context: Update references to coalesced bandwidth articles
 
 ### ✓ 2026-03-04: Write concept page for neural correlates distinguishing conscious from unconscious processing
 - **Type**: expand-topic

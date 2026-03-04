@@ -18,6 +18,56 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 13:38 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Word count**: 2852 → 2821 (-31)
+- **Critical issues addressed**: 2 (self-citations removed, broken psychophysical-coupling link fixed)
+- **Medium issues addressed**: 4 (path-prefixed wikilinks, missing description, 40 stale references across 13 files, URL title mismatch)
+- **Enhancements made**: 0 (article content already stable from source article reviews)
+- **Output**: [deep-review-2026-03-04-bandwidth-of-consciousness](/reviews/deep-review-2026-03-04-bandwidth-of-consciousness/)
+
+## 2026-03-04 13:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/), [asymmetric-bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Target**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Archived**: [neural-bandwidth-constraints-and-the-interface](/archive/topics/neural-bandwidth-constraints-and-the-interface/), [asymmetric-bandwidth-of-consciousness](/archive/topics/asymmetric-bandwidth-of-consciousness/)
+- **References to review**: 13 active content files
+
+## 2026-03-04 13:07 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Neural correlates distinguishing conscious from unconscious processing
+- **Reason**: Article already exists as [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (created 2026-01-23 from same research note). No new article created.
+
+## 2026-03-04 12:54 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Word count**: 2447 → 2449 (+2)
+- **Critical issues addressed**: 2 (broken links)
+- **Medium issues addressed**: 1 (stale refinement log removed)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-03-04-mental-effort](/reviews/deep-review-2026-03-04-mental-effort/)
+
+## 2026-03-04 12:22 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Word count**: 3209 → 3224 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing causal-delegation frontmatter + Further Reading links)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-04-mental-causation](/reviews/deep-review-2026-03-04-mental-causation/)
+
+## 2026-03-04 12:08 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All 395 non-draft articles (198 topics, 196 concepts, 1 tenets) plus apex articles. Detailed sampling of 30+ articles.
+- **Output**: [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/)
+- **Tasks added**: 3 P3 expansion tasks (cetacean/corvid consciousness, observational closure concept, phenomenology of embodiment under dualism)
+
+## 2026-03-04 11:52 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [contemplative-reliability](/concepts/contemplative-reliability/)
+- **Notes**: Article was archived on 2026-02-26, coalesced into [contemplative-epistemology](/concepts/contemplative-epistemology/). Orphan status is expected for archived content. No review needed.
+
 ## 2026-03-04 11:37 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
@@ -396,7 +446,7 @@ topics: []
 ## 2026-03-03 03:57 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Asymmetric Bandwidth of Consciousness
-- **Output**: [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/)
+- **Output**: [asymmetric-bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - **Word count**: 1872
 - **Based on research**: yes, [asymmetric-bandwidth-consciousness-2026-03-02](/research/asymmetric-bandwidth-consciousness-2026-03-02/)
 

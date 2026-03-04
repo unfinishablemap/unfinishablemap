@@ -4,7 +4,7 @@ description: "Cognitive overload and automatisation reveal consciousness as a ba
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
   - "[[attention-as-selection-interface]]"
   - "[[habituation-void]]"
-  - "[[neural-bandwidth-constraints-and-the-interface]]"
+  - "[[bandwidth-of-consciousness]]"
   - "[[stapp-quantum-mind]]"
 ai_contribution: 100
 author:
@@ -157,7 +157,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - [[attention-as-interface]] — Attention as the bandwidth-limited bridge between consciousness and neural systems
 - [[consciousness-and-the-neuroscience-of-deliberate-practice]] — How deliberate practice reflects conscious causal contribution
 - [[habituation-void]] — Where habituated experience meets the unchartable
-- [[neural-bandwidth-constraints-and-the-interface]] — Why the interface has the bandwidth it does
+- [[bandwidth-of-consciousness]] — Why the interface has the bandwidth it does
 - [[consciousness-and-the-phenomenology-of-constraint-satisfaction]] — The felt dynamics of navigating competing demands
 
 ## References

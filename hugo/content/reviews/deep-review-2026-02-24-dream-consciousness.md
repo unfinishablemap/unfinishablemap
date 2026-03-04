@@ -59,7 +59,7 @@ topics: []
 5. [consciousness-and-memory](/topics/consciousness-and-memory/) — 2 old slugs in frontmatter, 1 Further Reading entry
 6. [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — 1 old slug in frontmatter, 2 inline references
 7. [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — 1 old slug in frontmatter, 1 Further Reading entry
-8. [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — 1 inline reference
+8. [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/) — 1 inline reference
 9. [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — 1 old slug in frontmatter, 1 inline reference
 10. [free-will](/topics/free-will/) — 1 old slug in frontmatter, 2 inline references
 

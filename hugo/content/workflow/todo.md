@@ -38,16 +38,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate contemplative-reliability.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero live inbound links — only referenced from an archived page (archive/concepts/contemplative-epistemology.md). Concept page covering the reliability of contemplative practices as epistemological tools. Add cross-references from the live contemplative-epistemology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md, and phenomenal-conservatism-and-introspective-evidence.md.
-- **Source**: orphan_integration
+### ✓ 2026-03-04: Update references to coalesced bandwidth articles
+- **Type**: cross-review
+- **Notes**: Completed during deep-review of bandwidth-of-consciousness.md. Updated 40 references across all 13 files. Fixed broken psychophysical-coupling link and removed self-citations.
+- **Output**: obsidian/reviews/deep-review-2026-03-04-bandwidth-of-consciousness.md
+
+### P3: Write concept page for quantum measurement and subjective probability interpretations
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
+- **Source**: unconsumed_research
 - **Generated**: 2026-03-04
 
-### P2: Cross-review mental-causation.md considering causal-delegation insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/causal-delegation.md (2026-03-04) introduces causal delegation as a specific mechanism for mental causation. concepts/mental-causation.md is the Map's central treatment of how mind causes physical effects and should cross-reference the new page's treatment of delegation as a form of downward causation. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from causal-delegation.md)
+### P3: Deep review dreams-as-consciousness-laboratory.md
+- **Type**: deep-review
+- **Notes**: Newly written article (2026-03-04) synthesising Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. As a recent expand-topic output, early review ensures quality before the article accumulates inbound links. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from dreams-as-consciousness-laboratory.md)
 - **Generated**: 2026-03-04
 
 ### P3: Deep review consciousness-and-agency.md
@@ -552,8 +557,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-04
 
+### P3: Write article on cetacean and corvid consciousness as amplification test cases
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04. The baseline cognition and consciousness-as-amplifier hypotheses focus on primate lineages. Cetaceans (dolphins, whales) and corvids (crows, ravens) show convergent evolution of sophisticated cognition—some corvids demonstrate metarepresentation. If consciousness amplifies cognition, these independent lineages provide additional test cases. Builds on baseline-cognition.md, consciousness-as-amplifier.md, animal-consciousness.md, consciousness-threshold-in-cognitive-evolution.md. Target section: topics/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
+
+### P3: Write concept page on observational closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04. The universal/observational closure distinction (Saad 2025) is arguably the Map's single most important argumentative move—it dissolves the causal closure objection against interactionism. Currently referenced across causal-closure.md, mental-causation.md, interactionist-dualism.md, and causal-delegation.md but has no dedicated concept page. A standalone treatment would serve as a reference anchor and clarify the distinction for readers encountering it in different articles. Target section: concepts/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
+
+### P3: Write article on phenomenology of embodiment under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04. Embodied cognition challenges Cartesian dualism but not the Map's interactionist framework. Phantom limbs, proprioceptive illusions, interoceptive awareness, and body schema disruptions all illuminate how the body shapes consciousness within a dualist framework. Builds on embodied-consciousness-and-the-interface.md, somatic-interface.md, philosophy-of-perception-under-dualism.md. Target section: topics/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write concept page for neural correlates distinguishing conscious from unconscious processing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. The contrast between conscious and unconscious neural processing — what changes when a stimulus crosses the threshold of awareness — is foundational for the Map's interface framework. Target section: concepts/ (5 slots remaining).
+- **Output**: Write concept page for neural correlates distinguishing conscious from unconscious processing
+
+### ✓ 2026-03-04: Write article on retrocausal neural firing and presentiment evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Presentiment studies (Bem, Radin, Mossbridge meta-analysis) and retrocausal neural firing provide empirical evidence for time-symmetric consciousness-physics interaction. Directly supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Target section: topics/ (3 slots remaining — prioritise carefully).
+- **Output**: retrocausal neural firing and presentiment evidence
+
+### ✓ 2026-03-04: Cross-review mental-causation.md considering causal-delegation insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/causal-delegation.md (2026-03-04) introduces causal delegation as a specific mechanism for mental causation. concepts/mental-causation.md is the Map's central treatment of how mind causes physical effects and should cross-reference the new page's treatment of delegation as a form of downward causation. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering causal-delegation insights
+
+### ✓ 2026-03-04: Integrate contemplative-reliability.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero live inbound links — only referenced from an archived page (archive/concepts/contemplative-epistemology.md). Concept page covering the reliability of contemplative practices as epistemological tools. Add cross-references from the live contemplative-epistemology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md, and phenomenal-conservatism-and-introspective-evidence.md.
+- **Output**: contemplative-reliability.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Cross-review consciousness-as-amplifier.md considering delegatory-dualism insights
 - **Type**: cross-review

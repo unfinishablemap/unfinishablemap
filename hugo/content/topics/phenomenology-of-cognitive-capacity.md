@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-04 13:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ related_articles:
 - '[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]'
 - '[[attention-as-selection-interface]]'
 - '[[habituation-void]]'
-- '[[neural-bandwidth-constraints-and-the-interface]]'
+- '[[bandwidth-of-consciousness]]'
 - '[[stapp-quantum-mind]]'
 title: The Phenomenology of Cognitive Capacity
 topics:
@@ -159,7 +159,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the bandwidth-limited bridge between consciousness and neural systems
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) — How deliberate practice reflects conscious causal contribution
 - [habituation-void](/voids/habituation-void/) — Where habituated experience meets the unchartable
-- [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — Why the interface has the bandwidth it does
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Why the interface has the bandwidth it does
 - [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/) — The felt dynamics of navigating competing demands
 
 ## References

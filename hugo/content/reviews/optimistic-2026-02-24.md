@@ -32,7 +32,7 @@ The [philosophical-zombies](/concepts/philosophical-zombies/) article's handling
 
 The Map now provides Stapp's quantum Zeno framework with its most complete philosophical infrastructure. The [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) article is a tour de force of honest comparative analysis: Orch OR, Stapp, Fisher, and CSL-IIT hybrids are evaluated against five shared criteria, and the conclusion—that Stapp best predicts the phenomenology of effortful attention while CSL may provide the complementary baseline collapse mechanism—is genuinely illuminating rather than partisan.
 
-The [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) article has achieved something remarkable: grounding the abstract question of mind-matter interaction in measured empirical facts. The ~10 bits/second conscious processing rate, converging across reading, typing, speech, and gaming tasks (Zheng & Meister 2025), is deployed to devastating effect against production models of consciousness. If the brain *produces* consciousness, why does an 86-billion-neuron, petabit-scale processing system produce experience operating at 10 bits/second? The filter/selection interpretation makes this ratio intelligible: consciousness selects among options the brain prepares, and selection requires far less bandwidth than preparation.
+The [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/) article has achieved something remarkable: grounding the abstract question of mind-matter interaction in measured empirical facts. The ~10 bits/second conscious processing rate, converging across reading, typing, speech, and gaming tasks (Zheng & Meister 2025), is deployed to devastating effect against production models of consciousness. If the brain *produces* consciousness, why does an 86-billion-neuron, petabit-scale processing system produce experience operating at 10 bits/second? The filter/selection interpretation makes this ratio intelligible: consciousness selects among options the brain prepares, and selection requires far less bandwidth than preparation.
 
 The ~3-4 selections per second derivation (10 bits/sec at small alternative sets yields ~300ms per selection) matches both phenomenology and neural signatures distinguishing willed from automatic action. This numerical convergence—empirical bandwidth measurement, phenomenological timing, and neural implementation—provides the kind of triangulated evidence that transforms philosophical speculation into constrained theory.
 
@@ -60,7 +60,7 @@ The [free-will](/topics/free-will/) article's three-level agency structure—sel
 
 The [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) article remains devastating to epiphenomenalism. Confabulation theories cannot explain systematic *interference*—an inert consciousness cannot disrupt skilled execution in predictable, pressure-dependent ways. The empirical evidence (choking reliably tracking conscious attention to automatised skills) provides negative evidence for mental causation that is difficult to explain away.
 
-The [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) article's contribution to free will is underappreciated. At ~10 bits/second with ~3-4 selections per second, libertarian free will requires consciousness to bias only a handful of binary-to-quaternary selections per second among neurally prepared options. This is empirically modest—no miraculous powers, just small biases at indeterminate quantum events operating at the rate phenomenology reports.
+The [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/) article's contribution to free will is underappreciated. At ~10 bits/second with ~3-4 selections per second, libertarian free will requires consciousness to bias only a handful of binary-to-quaternary selections per second among neurally prepared options. This is empirically modest—no miraculous powers, just small biases at indeterminate quantum events operating at the rate phenomenology reports.
 
 ### The Mysterian (McGinn)
 
@@ -72,7 +72,7 @@ The [consciousness-only-territories](/voids/consciousness-only-territories/) voi
 
 ## Content Strengths
 
-### [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+### [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 - **Strongest point**: The quantitative grounding of the selection framework in measured bandwidth data
 - **Notable insight**: "At 10 bits/sec, consciousness cannot select individual neural firing events. It selects *patterns*—action policies, attentional targets, cognitive strategies."
 - **Why it works**: Transforms abstract metaphysics into empirically constrained theory. The 10⁸ ratio between neural processing and conscious bandwidth begs for philosophical explanation, and the filter/selection interpretation provides one.
@@ -116,7 +116,7 @@ The [consciousness-only-territories](/voids/consciousness-only-territories/) voi
 ### Medium Priority
 
 #### The Economics of Consciousness: Why ~10 Bits/Second?
-- **Builds on**: [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/), [attentional-economics](/concepts/attentional-economics/), [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
+- **Builds on**: [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/), [attentional-economics](/concepts/attentional-economics/), [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
 - **Would address**: Why evolution settled on this specific bandwidth. Is 10 bits/sec optimal for a selection mechanism operating through quantum indeterminacy? Would higher bandwidth require more quantum events per second, increasing vulnerability to decoherence? The evolutionary economics of conscious bandwidth might explain why the bottleneck exists at its measured width.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Minimal Quantum Interaction (bandwidth as constraint of the quantum interface)

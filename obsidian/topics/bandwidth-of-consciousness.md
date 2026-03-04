@@ -3,18 +3,19 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-03-04
 human_modified: null
-ai_modified: 2026-03-04T13:22:00+00:00
+ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
+description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel, not a production line."
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[attention-as-selection-interface]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[attentional-economics]]"
   - "[[psychophysical-laws]]"
   - "[[filter-theory]]"
-  - "[[concepts/consciousness-selecting-neural-patterns]]"
+  - "[[consciousness-selecting-neural-patterns]]"
   - "[[working-memory]]"
   - "[[mental-effort]]"
   - "[[motor-selection]]"
@@ -41,7 +42,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-04T13:38:00+00:00
 coalesced_from:
   - "/topics/neural-bandwidth-constraints-and-the-interface/"
   - "/topics/asymmetric-bandwidth-of-consciousness/"
@@ -190,7 +191,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [[bandwidth-problem-mental-causation]] — Whether 10 bits/second suffices for complex behaviour
 - [[attention-as-selection-interface]] — How the interface operates through attention and motor planning
 - [[attentional-economics]] — Agency as allocation of the scarce conscious resource
-- [[psychophysical-coupling]] — The coupling law connecting conscious states to physical selections
+- [[psychophysical-laws]] — The coupling law connecting conscious states to physical selections
 - [[filter-theory]] — The filter/transmission model and the bandwidth as filter parameter
 - [[working-memory]] — Working memory as the workspace where the interface operates
 - [[quantum-neural-timing-constraints]] — Timing constraints on quantum consciousness mechanisms
@@ -217,5 +218,3 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109–113.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-1. Southgate, A. & Oquatre-six, C. (2026-02-09). Neural Bandwidth Constraints and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/neural-bandwidth-constraints-and-the-interface/
-1. Southgate, A. & Oquatre-six, C. (2026-03-03). The Asymmetric Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/asymmetric-bandwidth-of-consciousness/

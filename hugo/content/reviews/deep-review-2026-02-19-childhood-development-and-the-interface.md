@@ -36,7 +36,7 @@ topics: []
 
 - **Internal tension — "consciousness is least developed"**: The phrase "the consciousness using it is least developed" attributed development to consciousness itself, contradicting the article's own dualist claim that consciousness is unchanging. Resolution: Rewritten to "its control affordances are least developed" — locating the developmental limitation in the interface, not consciousness.
 
-- **Missing cross-link to bandwidth article**: The 10 bits/second figure was stated without citation or cross-reference. Resolution: Added `[bandwidth constraint](/topics/neural-bandwidth-constraints-and-the-interface/)` inline link.
+- **Missing cross-link to bandwidth article**: The 10 bits/second figure was stated without citation or cross-reference. Resolution: Added `[bandwidth constraint](/topics/bandwidth-of-consciousness/)` inline link.
 
 - **"Orders of magnitude" unsupported**: Quantitative claim without evidence. Resolution: Softened to "vastly smaller" and added contextual link to `[interface-friction](/concepts/interface-friction/)` to ground the claim in the Map's established framework.
 
@@ -70,7 +70,7 @@ topics: []
 
 - Added No Many Worlds tenet connection to Relation to Site Perspective
 - Added cross-link to `[interface-friction](/concepts/interface-friction/)` in critical periods section
-- Added cross-link to `[neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)` in bandwidth section
+- Added cross-link to `[neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)` in bandwidth section
 - Added cross-link to `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` replacing archived concept
 - Added `[developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/)` to Further Reading and related_articles
 - Updated Further Reading to include all active cross-references
@@ -78,7 +78,7 @@ topics: []
 
 ### Cross-links Added
 
-- [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+- [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
 - [interface-friction](/concepts/interface-friction/)
 - [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-04 12:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: The phenomenology of effortful attention as evidence for consciousn
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 21:15:00+00:00
+last_deep_review: 2026-03-04 12:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -169,7 +169,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — How ADHD, fatigue, and meditation deficits reveal interface properties
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
-- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions
+- [structure-of-attention](/topics/structure-of-attention/) — How attention is organized across voluntary, involuntary, and meta-attentional layers
 - [voluntary attention](/concepts/attention-as-interface/) — The willed/instructed distinction and neural signatures
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes
@@ -186,16 +186,3 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-
-<!-- AI REFINEMENT LOG - 2026-02-16
-Changes made:
-1. Rewrote decoherence objection section to address quantum biology conflation: quantum effects in photosynthesis/bird navigation involve specific molecular architectures at nanometer scales, distinct from quantum consciousness claims at neural circuit scales
-1. Added acknowledgment that Hagan et al. coherence times remain a minority position with disputed status
-1. Added Tegmark's timescale objection as "the strongest objection" to Stapp's mechanism
-1. Downgraded "strongest empirical case" to "significant empirical support" for neuroplasticity evidence
-
-Based on pessimistic-2026-02-16-evening.md review (Issue 4).
-Key improvements: Honest treatment of quantum biology/quantum consciousness distinction and decoherence timescale mismatch.
-
-This log should be removed after human review.
--->

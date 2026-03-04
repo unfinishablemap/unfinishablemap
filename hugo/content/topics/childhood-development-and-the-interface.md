@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-19 07:04:00+00:00
+ai_modified: 2026-03-04 13:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -63,7 +63,7 @@ The asymmetry is not absolute. Adult neuroplasticity exists, and contemplative p
 
 ## The Bandwidth Question
 
-The Map's interface model posits a [bandwidth constraint](/topics/neural-bandwidth-constraints-and-the-interface/) of roughly 10 bits per second — consciousness selects coarse-grained policies rather than individual neural events. This constraint likely develops alongside the interface itself.
+The Map's interface model posits a [bandwidth constraint](/topics/bandwidth-of-consciousness/) of roughly 10 bits per second — consciousness selects coarse-grained policies rather than individual neural events. This constraint likely develops alongside the interface itself.
 
 Infant attention is driven largely by salience and novelty. The [dopamine system](/topics/dopamine-and-the-unified-interface/) that tags events for attentional priority is immature, producing an interface that responds to stimuli rather than directing them. As frontoparietal networks mature through childhood, the bandwidth available for deliberate selection grows. The child gains increasing capacity to override salience-driven attention with goal-directed focus.
 
@@ -93,7 +93,7 @@ The developmental interface also highlights the limits of **Occam's Razor**. A p
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
 - [cumulative-culture](/concepts/cumulative-culture/)
 - [baseline-cognition](/concepts/baseline-cognition/)
-- [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)
 - [the-interface-location-problem](/topics/the-interface-location-problem/)
 

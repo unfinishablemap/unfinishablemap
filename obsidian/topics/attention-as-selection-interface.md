@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-04T03:41:00+00:00
+ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
   - "[[adaptive-computational-depth]]"
 related_articles:
   - "[[tenets]]"
-  - "[[asymmetric-bandwidth-of-consciousness]]"
+  - "[[bandwidth-of-consciousness]]"
   - "[[attention-consciousness-dissociation]]"
   - "[[attention-as-interface-hypothesis-2026-01-16]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
@@ -181,7 +181,7 @@ For quantum mechanisms to work, decoherence must be slow enough to permit meanin
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2024). Yet sensory systems deliver ~10⁹ bits per second to the brain. This [[asymmetric-bandwidth-of-consciousness|100-million-fold asymmetry]] defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3–4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts. The brain generates and evaluates options unconsciously; consciousness selects among results at this narrow bottleneck, a pattern echoing the broader principle of [[adaptive-computational-depth|adaptive computational depth]].
+Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2024). Yet sensory systems deliver ~10⁹ bits per second to the brain. This [[bandwidth-of-consciousness|100-million-fold asymmetry]] defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3–4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts. The brain generates and evaluates options unconsciously; consciousness selects among results at this narrow bottleneck, a pattern echoing the broader principle of [[adaptive-computational-depth|adaptive computational depth]].
 
 ## Testable Predictions
 
@@ -245,7 +245,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 ## Further Reading
 
 - [[attention-as-interface]] — The interface hypothesis stated and developed
-- [[asymmetric-bandwidth-of-consciousness]] — The 100-million-fold inbound/outbound bandwidth asymmetry as evidence for the interface model
+- [[bandwidth-of-consciousness]] — The 100-million-fold inbound/outbound bandwidth asymmetry as evidence for the interface model
 - [[attention-consciousness-dissociation]] — Evidence that attention and consciousness can come apart
 - [[attention-motor-quantum-interface]] — Detailed concept treatment of the unified interface
 - [[motor-selection]] — Motor selection and premotor theory in depth

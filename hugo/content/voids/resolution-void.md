@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-02-28 23:37:00+00:00
+ai_modified: 2026-03-04 13:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ related_articles:
 - '[[scale-void]]'
 - '[[temporal-consciousness-void]]'
 - '[[computational-cognitive-limits]]'
-- '[[neural-bandwidth-constraints-and-the-interface]]'
+- '[[bandwidth-of-consciousness]]'
 - '[[bandwidth-problem-mental-causation]]'
 title: The Resolution Void
 topics:
@@ -42,7 +42,7 @@ Andrew Lee's formal work sharpens the problem. Lee develops precise models of "d
 
 The information-theoretic dimension of the resolution void is starkly quantifiable. Zheng et al. (2024) measured the throughput of conscious cognition at approximately ten bits per second. Reading, typing, speech, gaming — across every domain where conscious processing can be measured, the figure converges on the same order of magnitude. Meanwhile, sensory systems deliver roughly eleven million bits per second to the brain. The brain itself operates at an estimated 10⁹ bits per second.
 
-Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [neural bandwidth constraints](/topics/neural-bandwidth-constraints-and-the-interface/) characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
+Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [neural bandwidth constraints](/topics/bandwidth-of-consciousness/) characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
 
 Cognitive control capacity is even lower than the ten-bit figure suggests. When measured through tasks requiring deliberate selection among options, throughput drops to approximately three to four bits per second. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access.
 
@@ -86,7 +86,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 - [scale-void](/voids/scale-void/) — Parallel resolution limits in spatial cognition
 - [temporal-consciousness-void](/voids/temporal-consciousness-void/) — The temporal dimension of conscious confinement
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Mathematical limits on what any system can compute
-- [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — Empirical measurements of the consciousness bottleneck
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Empirical measurements of the consciousness bottleneck
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — How coarse-grained intention produces fine-grained physical effects
 
 ## References
@@ -97,5 +97,5 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 4. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.
 5. Von Rospatt, A. (1995). *The Buddhist Doctrine of Momentariness*. Stuttgart: Franz Steiner Verlag.
 6. Weber, E. H. (1834). *De pulsu, resorptione, auditu et tactu: Annotationes anatomicae et physiologicae*. Leipzig: Koehler.
-7. Southgate, A. & Oquatre-six, C. (2026-02-09). Neural Bandwidth Constraints and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/neural-bandwidth-constraints-and-the-interface/
+7. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
 8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/

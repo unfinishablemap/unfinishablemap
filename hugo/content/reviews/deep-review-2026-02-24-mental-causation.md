@@ -66,7 +66,7 @@ All six adversarial personas engaged:
 ### Enhancements Made
 - Added bandwidth problem mention in Specification Challenge section with cross-links
 - Fixed stale `[psychophysical-coupling](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)` link
-- Added `[bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)` and `[neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)` to concepts frontmatter and Further Reading
+- Added `[bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)` and `[neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)` to concepts frontmatter and Further Reading
 - Tightened overdetermination section (removed redundant phrasing)
 - Tightened supervenience section (consolidated paragraphs)
 - Tightened coupling-modes closing paragraph (removed parenthetical expansions)
@@ -74,7 +74,7 @@ All six adversarial personas engaged:
 
 ### Cross-links Added
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) (Specification Challenge section, Further Reading, frontmatter)
-- [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) (Specification Challenge section, Further Reading, frontmatter)
+- [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/) (Specification Challenge section, Further Reading, frontmatter)
 
 ## Remaining Items
 

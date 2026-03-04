@@ -2310,7 +2310,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 11:51 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Neural bandwidth constraints and the interface
-- **Output**: [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+- **Output**: [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 - **Word count**: 2117
 - **Based on research**: no
 

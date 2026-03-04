@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-03 17:41:00+00:00
+ai_modified: 2026-03-04 13:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -69,7 +69,7 @@ related_articles:
 - '[[measurement-problem-as-hard-problem]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[objectivity-and-consciousness]]'
-- '[[asymmetric-bandwidth-of-consciousness]]'
+- '[[bandwidth-of-consciousness]]'
 title: The Hard Problem of Consciousness
 topics: []
 ---
@@ -211,7 +211,7 @@ Block's China brain illustrates: the entire population implementing a brain's fu
 
 ### Epiphenomenalism
 
-[Epiphenomenalism](/concepts/epiphenomenalism/) accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. Empirical data reinforces the point: the [bandwidth asymmetry](/topics/asymmetric-bandwidth-of-consciousness/) shows consciousness operating at a consistent ~10 bits/s throughput ceiling across all tasks—epiphenomena do not have capacity limits, because they are not doing work. See the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+[Epiphenomenalism](/concepts/epiphenomenalism/) accepts the gap but denies consciousness matters causally—it's steam rising from a locomotive. The decisive objection: if consciousness is causally inert, our reports about it are disconnected from the experiences themselves. The epiphenomenalist who claims to *know* about their experience has already refuted themselves. Empirical data reinforces the point: the [bandwidth asymmetry](/topics/bandwidth-of-consciousness/) shows consciousness operating at a consistent ~10 bits/s throughput ceiling across all tasks—epiphenomena do not have capacity limits, because they are not doing work. See the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
 ### Integrated Information Theory
 
@@ -285,7 +285,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How quantum mechanics might relate to consciousness
 - [witness-consciousness](/concepts/witness-consciousness/) — The subject-object structure revealed by contemplative practice
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
-- [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/) — The 100-million-fold gap between sensory input and conscious output as evidence for interface dualism
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The 100-million-fold gap between sensory input and conscious output as evidence for interface dualism
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy engages with dualist frameworks
 - [tenets](/tenets/) — The foundational commitments of the Map
 

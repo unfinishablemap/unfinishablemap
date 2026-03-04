@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-20 21:06:00+00:00
+ai_modified: 2026-03-04 13:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[tenets]]'
 - '[[attention-as-selection-interface]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
-- '[[neural-bandwidth-constraints-and-the-interface]]'
+- '[[bandwidth-of-consciousness]]'
 title: The Interface Specification Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -53,7 +53,7 @@ A fully specified interface would answer four questions:
 
 **3. What is the transfer function?** How does a given mental state map quantitatively to a physical effect? More attention should produce more effect—but how much more? Linearly? With diminishing returns? With a threshold below which nothing happens? Without a transfer function, "consciousness biases outcomes" is a qualitative sketch, not a testable theory.
 
-**4. What are the boundary conditions?** Under what circumstances does selection operate, and under what circumstances does it fail? The ~10 bits/second [bandwidth constraint](/topics/neural-bandwidth-constraints-and-the-interface/) on conscious processing suggests one boundary. Interface locality—the restriction of mental causation to the subject's own brain (a constraint related to the [pairing-problem](/concepts/pairing-problem/))—suggests another. A complete specification would derive these constraints rather than stipulating them.
+**4. What are the boundary conditions?** Under what circumstances does selection operate, and under what circumstances does it fail? The ~10 bits/second [bandwidth constraint](/topics/bandwidth-of-consciousness/) on conscious processing suggests one boundary. Interface locality—the restriction of mental causation to the subject's own brain (a constraint related to the [pairing-problem](/concepts/pairing-problem/))—suggests another. A complete specification would derive these constraints rather than stipulating them.
 
 ## Partial Answers
 
@@ -184,7 +184,7 @@ The specification problem is the Map's most significant open challenge. Acknowle
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The unified attention-motor interface where selection occurs
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of psychophysical laws
-- [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — The ~10 bits/second constraint on conscious selection
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The ~10 bits/second constraint on conscious selection
 - [pairing-problem](/concepts/pairing-problem/) — What connects a particular mind to a particular body
 - [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/) — The original formulation of the interaction problem
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What epistemic methods can reach the interface when direct observation is impossible

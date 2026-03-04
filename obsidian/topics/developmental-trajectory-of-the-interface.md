@@ -4,7 +4,7 @@ description: "How the consciousness-brain interface transforms across the lifesp
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-19T07:34:00+00:00
+ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 topics:
   - "[[childhood-development-and-the-interface]]"
@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[developmental-cognitive-closure]]"
   - "[[contemplative-neuroscience]]"
-  - "[[neural-bandwidth-constraints-and-the-interface]]"
+  - "[[bandwidth-of-consciousness]]"
   - "[[consciousness-independent-baseline-cognition]]"
 ai_contribution: 100
 author:
@@ -121,7 +121,7 @@ The lifespan trajectory of the interface connects to all five of the Map's [[ten
 - [[attention-as-interface]]
 - [[neuroplasticity]]
 - [[contemplative-neuroscience]]
-- [[neural-bandwidth-constraints-and-the-interface]]
+- [[bandwidth-of-consciousness]]
 - [[interface-friction]]
 
 ## References

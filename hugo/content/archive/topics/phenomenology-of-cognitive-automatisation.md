@@ -68,7 +68,7 @@ Retrospective reports suggest that the transition is not experienced as a loss. 
 
 Yet this framing raises a question the Map takes seriously: if consciousness experiences its own withdrawal as relief, what does this reveal about consciousness's role? One interpretation is that consciousness is inherently costly—a metabolically expensive process that evolution would minimise wherever possible. The felt relief of automatisation would then be the experiential correlate of reduced neural expenditure.
 
-But the Map's framework suggests a different reading. If consciousness operates through an [attention-as-interface](/concepts/attention-as-interface/) model—a [bandwidth-limited](/topics/neural-bandwidth-constraints-and-the-interface/) [selection mechanism](/topics/attention-as-selection-interface/) biasing quantum indeterminacy in neural systems—then automatisation represents a *reallocation* of a scarce resource, not merely a reduction in cost. The relief of automatisation is the experience of freeing attentional bandwidth for deployment elsewhere. Consciousness is not retreating from the domain; it is being released for other work.
+But the Map's framework suggests a different reading. If consciousness operates through an [attention-as-interface](/concepts/attention-as-interface/) model—a [bandwidth-limited](/topics/bandwidth-of-consciousness/) [selection mechanism](/topics/attention-as-selection-interface/) biasing quantum indeterminacy in neural systems—then automatisation represents a *reallocation* of a scarce resource, not merely a reduction in cost. The relief of automatisation is the experience of freeing attentional bandwidth for deployment elsewhere. Consciousness is not retreating from the domain; it is being released for other work.
 
 ## Automatisation as Evidence for the Interface Model
 
@@ -113,7 +113,7 @@ Automatisation, from the Map's perspective, is not consciousness becoming unnece
 - [habituation-void](/voids/habituation-void/)
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)
-- [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/)
+- [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 
 ## References
 

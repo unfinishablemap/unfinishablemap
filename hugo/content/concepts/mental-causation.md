@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-02 16:52:00+00:00
+ai_modified: 2026-03-04 13:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,11 +24,12 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[bidirectional-interaction]]'
 - '[[conservation-laws-mind-brain-causation]]'
+- '[[causal-delegation]]'
 - '[[delegatory-dualism]]'
 - '[[preemption]]'
 - '[[observational-closure]]'
 - '[[bandwidth-problem-mental-causation]]'
-- '[[neural-bandwidth-constraints-and-the-interface]]'
+- '[[bandwidth-of-consciousness]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: How mental states cause physical effects despite Kim's exclusion argument.
@@ -36,7 +37,7 @@ description: How mental states cause physical effects despite Kim's exclusion ar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-26 17:46:00+00:00
+last_deep_review: 2026-03-04 12:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +131,7 @@ If non-physical consciousness moves matter, doesn't energy appear from nowhere? 
 
 ### The Specification Challenge
 
-Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and [conservation](/concepts/conservation-laws-mind-brain-causation/) (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically? A related challenge—the [bandwidth problem](/concepts/bandwidth-problem-mental-causation/)—asks whether the mind-body channel can carry enough information for specific behaviour, given that conscious processing operates at roughly 10 bits per second while motor execution requires millions. The [hierarchical selection response](/topics/neural-bandwidth-constraints-and-the-interface/) resolves this: consciousness selects among brain-prepared options at policy level, while unconscious systems supply fine-grained detail.
+Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and [conservation](/concepts/conservation-laws-mind-brain-causation/) (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically? A related challenge—the [bandwidth problem](/concepts/bandwidth-problem-mental-causation/)—asks whether the mind-body channel can carry enough information for specific behaviour, given that conscious processing operates at roughly 10 bits per second while motor execution requires millions. The [hierarchical selection response](/topics/bandwidth-of-consciousness/) resolves this: consciousness selects among brain-prepared options at policy level, while unconscious systems supply fine-grained detail.
 
 The [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *[selection laws](/concepts/selection-laws/)* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
 
@@ -236,6 +237,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws: how mental states select physical outcomes
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Framework for psychophysical laws including candidate coupling mechanisms
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
+- [causal-delegation](/concepts/causal-delegation/) — The mechanism by which physical states hand off causal work to experiences
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response to exclusion: experiences preempt rather than overdetermine
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Empirical evidence: conscious interference with automatized skills demonstrates causation
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's foundational commitment to consciousness causally influencing the physical world
@@ -250,7 +252,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How dispositional ontology frames consciousness's causal powers as powerful qualities
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation applied to free action
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The distinct challenge of whether the mind-body channel carries enough information
-- [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — Empirical bandwidth data and its philosophical implications
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Empirical bandwidth data and its philosophical implications
 - [why-pain-hurts](/topics/why-pain-hurts/) — Pain as the paradigm case: phenomenal character inseparable from causal power
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening

@@ -4,7 +4,7 @@ description: "How predictive processing—the brain's prediction-error-minimizin
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-19T15:06:00+00:00
+ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[predictive-processing-consciousness-2026-01-14]]"
   - "[[attention-as-selection-interface]]"
-  - "[[neural-bandwidth-constraints-and-the-interface]]"
+  - "[[bandwidth-of-consciousness]]"
   - "[[placebo-effect-and-mental-causation]]"
 ai_contribution: 100
 author:
@@ -117,7 +117,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 - [[surprise-prediction-error-and-consciousness]] — What prediction error feels like
 - [[categorical-surprise]] — When prediction fails at the framework level
 - [[cognitive-science-of-dualism]] — How cognitive science's findings resist materialist closure
-- [[neural-bandwidth-constraints-and-the-interface]] — Bandwidth limits and the interface
+- [[bandwidth-of-consciousness]] — Bandwidth limits and the interface
 - [[placebo-effect-and-mental-causation]] — Expectations as strong priors with measurable outcomes
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 

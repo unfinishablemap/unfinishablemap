@@ -4,7 +4,7 @@ description: "Even granting that consciousness can influence the brain, does the
 created: 2026-02-23
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-01T01:36:00+00:00
+ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[selection-laws]]"
 related_articles:
   - "[[tenets]]"
-  - "[[neural-bandwidth-constraints-and-the-interface]]"
+  - "[[bandwidth-of-consciousness]]"
   - "[[downward-causation-mental-causation-2026-01-15]]"
   - "[[resolution-void]]"
 ai_contribution: 100
@@ -69,7 +69,7 @@ The Map's [[resolution-void|resolution void]] formalises the broader context: co
 
 The Map's framework provides a different answer: consciousness does not need to specify neural configurations because that is not what it does. Consciousness selects among options that the brain has already prepared at the required grain of detail.
 
-This is the [[neural-bandwidth-constraints-and-the-interface|bandwidth constraint interpreted architecturally]]. The brain's unconscious systems—running at roughly 10⁹ bits per second (Norretranders, 1998)—perform the computationally intensive work of translating goals into motor plans, generating candidate action sequences, and computing the fine-grained specifications execution requires. Consciousness selects among the prepared candidates.
+This is the [[bandwidth-of-consciousness|bandwidth constraint interpreted architecturally]]. The brain's unconscious systems—running at roughly 10⁹ bits per second (Norretranders, 1998)—perform the computationally intensive work of translating goals into motor plans, generating candidate action sequences, and computing the fine-grained specifications execution requires. Consciousness selects among the prepared candidates.
 
 On this architecture, the bandwidth problem transforms. The question is no longer "how does a 10-bit/second channel specify a million-bit neural configuration?" but "how does a 10-bit/second channel choose among a small number of prepared alternatives?" And that question has a straightforward answer: a channel carrying 10 bits per second can make roughly 3–4 selections per second among small sets of alternatives. This matches the [[concepts/consciousness-selecting-neural-patterns#The Bandwidth Constraint|phenomenology of deliberate choice]].
 
@@ -112,7 +112,7 @@ The bandwidth problem also differs from the [[concepts/binding-problem|binding p
 
 ## Further Reading
 
-- [[neural-bandwidth-constraints-and-the-interface]] — The empirical bandwidth data and its philosophical implications
+- [[bandwidth-of-consciousness]] — The empirical bandwidth data and its philosophical implications
 - [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism that addresses the bandwidth problem
 - [[downward-causation]] — The broader framework for mental-to-physical causation
 - [[mental-causation]] — The philosophical problem of how mind affects body

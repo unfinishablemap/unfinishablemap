@@ -4,7 +4,7 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-20T09:06:00+00:00
+ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 last_deep_review: 2026-02-20T09:06:00+00:00
 topics:
@@ -23,7 +23,7 @@ concepts:
   - "[[attentional-economics]]"
 related_articles:
   - "[[tenets]]"
-  - "[[neural-bandwidth-constraints-and-the-interface]]"
+  - "[[bandwidth-of-consciousness]]"
   - "[[causal-interface]]"
   - "[[embodied-consciousness-and-the-interface]]"
 ai_contribution: 100
@@ -43,7 +43,7 @@ Interface friction arises from at least four distinct sources, each operating at
 
 ### Bandwidth Limitation
 
-Conscious processing operates at roughly 10–50 bits per second—depending on modality and task—while the brain handles on the order of 10⁹ bits per second (Zimmermann 1986; Norretranders 1998). This [[neural-bandwidth-constraints-and-the-interface|bandwidth constraint]] is the most fundamental source of friction. Consciousness cannot address the brain's full computational output—it selects among prepared options through a channel seven orders of magnitude narrower than the brain's internal processing.
+Conscious processing operates at roughly 10–50 bits per second—depending on modality and task—while the brain handles on the order of 10⁹ bits per second (Zimmermann 1986; Norretranders 1998). This [[bandwidth-of-consciousness|bandwidth constraint]] is the most fundamental source of friction. Consciousness cannot address the brain's full computational output—it selects among prepared options through a channel seven orders of magnitude narrower than the brain's internal processing.
 
 The bandwidth limitation means consciousness operates at the policy level, not the neuron level. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." Every conscious intention must be translated into neural implementation details that consciousness cannot directly specify. This translation introduces friction—the gap between the coarse grain of intention and the fine grain of neural execution.
 
@@ -110,7 +110,7 @@ The filter model also generates a distinctive prediction: reduced neural constra
 ## Further Reading
 
 - [[mind-matter-interface]] — The two-layer architecture where friction operates
-- [[neural-bandwidth-constraints-and-the-interface]] — The bandwidth bottleneck as primary friction source
+- [[bandwidth-of-consciousness]] — The bandwidth bottleneck as primary friction source
 - [[brain-interface-boundary]] — Why the interface is brain-local
 - [[psychophysical-coupling]] — The coupling laws friction degrades
 - [[attention-as-interface]] — Attention as the primary friction-bearing mechanism

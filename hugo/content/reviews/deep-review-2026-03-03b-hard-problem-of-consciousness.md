@@ -50,7 +50,7 @@ All six adversarial personas applied. A Dennett-perspective critic would argue t
 
 ### Enhancements Made
 - Added bandwidth asymmetry sentence to Epiphenomenalism section: empirical evidence (consistent ~10 bits/s ceiling) against epiphenomenal consciousness
-- Added [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/) to frontmatter related_articles
+- Added [asymmetric-bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) to frontmatter related_articles
 - Added asymmetric-bandwidth-of-consciousness entry to Further Reading section
 
 ### Compensatory Trims
@@ -58,7 +58,7 @@ All six adversarial personas applied. A Dennett-perspective critic would argue t
 - Tightened C. elegans paragraph (merged redundant sentences about complete structural knowledge)
 
 ### Cross-links Added
-- [asymmetric-bandwidth-of-consciousness](/topics/asymmetric-bandwidth-of-consciousness/) (related_articles frontmatter, body text in Epiphenomenalism section, Further Reading)
+- [asymmetric-bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) (related_articles frontmatter, body text in Epiphenomenalism section, Further Reading)
 
 ## Word Count
 
