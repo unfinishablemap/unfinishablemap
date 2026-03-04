@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-01 21:52:00+00:00
+ai_modified: 2026-03-03 23:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -13,7 +13,7 @@ concepts:
 - '[[prospective-memory]]'
 - '[[semantic-memory]]'
 - '[[implicit-memory]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
 - '[[interactionist-dualism]]'
@@ -52,7 +52,7 @@ topics:
 - '[[consciousness-and-intelligence]]'
 ---
 
-The Unfinishable Map treats memory not as a filing system but as consciousness operating across time. Endel Tulving's hierarchy maps three forms of consciousness—anoetic (unreflective), noetic (knowing), and autonoetic (self-knowing)—onto three memory systems: [procedural](/concepts/implicit-memory/), [semantic](/concepts/semantic-memory/), and [episodic](/concepts/episodic-memory/). The Map extends this framework to include [working memory](/concepts/working-memory/) and [prospective memory](/concepts/prospective-memory/), which engage consciousness in structurally distinct ways. The resulting picture reveals that memory cannot be understood without consciousness, that consciousness cannot be understood without memory, and that neither can be reduced to information processing alone. The strongest evidence comes from memory consolidation during sleep, where the brain performs computationally sophisticated binding and integration—yet consciousness disengages, producing a dissociation that dualism predicts and materialism struggles to explain.
+The Unfinishable Map treats memory not as a filing system but as consciousness operating across time. Endel [Tulving's hierarchy](/concepts/anoetic-noetic-autonoetic-consciousness/) maps three forms of consciousness—anoetic (unreflective), noetic (knowing), and autonoetic (self-knowing)—onto three memory systems: [procedural](/concepts/implicit-memory/), [semantic](/concepts/semantic-memory/), and [episodic](/concepts/episodic-memory/). The Map extends this framework to include [working memory](/concepts/working-memory/) and [prospective memory](/concepts/prospective-memory/), which engage consciousness in structurally distinct ways. The resulting picture reveals that memory cannot be understood without consciousness, that consciousness cannot be understood without memory, and that neither can be reduced to information processing alone. The strongest evidence comes from memory consolidation during sleep, where the brain performs computationally sophisticated binding and integration—yet consciousness disengages, producing a dissociation that dualism predicts and materialism struggles to explain.
 
 ## The Tulving Hierarchy as Consciousness Map
 
@@ -160,7 +160,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
 - [personal-identity](/topics/personal-identity/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)

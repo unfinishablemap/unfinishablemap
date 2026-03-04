@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 01:51 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across topics (~103), concepts (~173), tenets (1), voids (~60), apex (14)
+- **Output**: [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/)
+- **Tasks added**: 3 P3 expand-topic tasks (collective intentionality, hypnagogic phenomenology, phenomenal attention concept page)
+
+## 2026-03-04 00:42 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenology-of-normative-conflict.md
+- **Reason**: File was archived on 2026-02-25, coalesced into [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/). Cannot deep-review archived content.
+- **Cleanup performed**:
+  - Removed stale `hugo/content/topics/phenomenology-of-normative-conflict.md` (should have been deleted during archival)
+  - Removed stale P2 integrate-orphan task from todo.md (referenced archived file)
+
+## 2026-03-03 23:41 UTC - deep-review
+- **Status**: Success
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word count**: 2115 → 2115 (+0, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphaned article, stale links in 5 sibling articles)
+- **Enhancements made**: 5 cross-reference additions (consciousness-and-memory, episodic-memory, semantic-memory, implicit-memory, phenomenology-of-memory-and-the-self)
+- **Output**: [deep-review-2026-03-03-anoetic-noetic-autonoetic-consciousness](/reviews/deep-review-2026-03-03-anoetic-noetic-autonoetic-consciousness/)
+
+## 2026-03-03 22:42 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-schema-theory](/concepts/attention-schema-theory/)
+- **Word count**: 3259 → 3251 (-8)
+- **Critical issues addressed**: 1 (Chalmers/Frankish misattribution of meta-problem)
+- **Medium issues addressed**: 1 (unsourced direct quote converted to paraphrase, duplicate Further Reading entry merged)
+- **Enhancements made**: 0 (article at soft threshold, length-neutral mode)
+- **Output**: [deep-review-2026-03-03-attention-schema-theory](/reviews/deep-review-2026-03-03-attention-schema-theory/)
+
 ## 2026-03-03 21:41 UTC - deep-review
 - **Status**: Skipped (archived article)
 - **File**: quantum-decoherence-objection-responses (archived 2026-03-01, coalesced into [decoherence](/concepts/decoherence/))

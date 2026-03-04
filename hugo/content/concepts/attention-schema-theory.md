@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-03 22:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Graziano's theory proposes consciousness is the brain's model of it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 20:40:00+00:00
+last_deep_review: 2026-03-03 22:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ According to AST, consciousness is what attention *seems like* from the perspect
 
 AST is the primary neuroscientific instantiation of philosophical [illusionism](/concepts/illusionism/). Where illusionists like Keith Frankish and Daniel Dennett argue that introspection misrepresents experience as having phenomenal properties it lacks, AST provides a mechanism: the attention schema represents attention as having experiential qualities, and we believe those representations.
 
-Dennett calls illusionism "the obvious default theory"—the conservative position that should be explored before invoking "magical" phenomenal properties. Frankish's meta-problem asks why we *believe* we have phenomenal consciousness even if we don't. AST answers: because that's how the attention schema represents attention.
+Dennett calls illusionism "the obvious default theory"—the conservative position that should be explored before invoking "magical" phenomenal properties. Chalmers' meta-problem (2018) asks why we *believe* we have phenomenal consciousness even if we don't. AST answers: because that's how the attention schema represents attention.
 
 Graziano prefers "caricature" to "illusion." A caricature implies something real being represented, just simplified. The attention schema caricatures attention—it's not hallucinating something from nothing. This makes AST slightly less eliminativist than pure illusionism: something underlies the appearance (attention), even if what appears (phenomenal experience) isn't what the model claims.
 
@@ -96,7 +96,7 @@ This is reframation as engineering:
 - **Why does it feel like something?** The model describes attention as having qualitative properties
 - **Why the explanatory gap?** The model necessarily omits physical details, creating the appearance of a gap
 
-According to Graziano: "The hard problem arises from misunderstanding what consciousness is—it's not a mysterious essence but a useful control model."
+On Graziano's view, the hard problem arises from misunderstanding what consciousness is—treating it as a mysterious essence rather than a useful control model.
 
 ## Criticisms of AST
 
@@ -224,8 +224,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 
 ## Further Reading
 
-- [attention](/concepts/attention-as-interface/) — The attention-consciousness relationship and dissociation evidence
-- [attention-as-interface](/concepts/attention-as-interface/) — the Map's alternative: attention as how consciousness interfaces with matter
+- [attention-as-interface](/concepts/attention-as-interface/) — The attention-consciousness relationship and the Map's alternative framework
 - [illusionism](/concepts/illusionism/) — The philosophical framework AST instantiates
 - [functionalism](/concepts/functionalism/) — The view that consciousness is functional role
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What AST claims to dissolve
