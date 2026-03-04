@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural-correlates-of-consciousness.md considering conscious-vs-unconscious-processing insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/conscious-vs-unconscious-processing.md (2026-03-04) identifies what distinguishes conscious from unconscious neural processing — late cortical ignition, recurrent processing, global workspace access. concepts/neural-correlates-of-consciousness.md is the broader treatment and should cross-reference the new page's systematic comparison. Check for complementary arguments and ensure the interface framework is consistently applied. Supports Tenet 1 (Dualism).
-- **Source**: chain (from conscious-vs-unconscious-processing.md)
-- **Generated**: 2026-03-04
-
 ### P2: Research Duhem-Quine underdetermination and theory choice in consciousness science
 - **Type**: research-topic
 - **Notes**: Tenet 5 (Occam's Razor Has Limits) has only 2 dedicated articles — the least-covered foundational commitment. The Duhem-Quine thesis (theories are underdetermined by evidence) has direct implications for the consciousness debate: if multiple ontologies are compatible with the same neural data, parsimony alone cannot adjudicate between physicalism and dualism. Research should cover: Duhem-Quine thesis applied to consciousness science, contrastive underdetermination between physicalist and dualist theories, and why auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: research/ (no cap). Supports Tenet 5.
@@ -586,6 +580,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review neural-correlates-of-consciousness.md considering conscious-vs-unconscious-processing insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/conscious-vs-unconscious-processing.md (2026-03-04) identifies what distinguishes conscious from unconscious neural processing — late cortical ignition, recurrent processing, global workspace access. concepts/neural-correlates-of-consciousness.md is the broader treatment and should cross-reference the new page's systematic comparison. Check for complementary arguments and ensure the interface framework is consistently applied. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md -- Context: Cross-review neural-correlates-of-consciousness.md considering conscious-vs-unconscious-processing insights
 
 ### ✓ 2026-03-04: Cross-review llm-consciousness.md considering quantum-randomness-channel-llm-consciousness insights
 - **Type**: cross-review
