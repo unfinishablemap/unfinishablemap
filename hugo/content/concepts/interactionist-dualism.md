@@ -178,7 +178,7 @@ For comprehensive treatment, see [objections-to-interactionism](/concepts/object
 - **Pairing**: Minds have spatial location—in the brain where they interact
 - **Conservation**: Consciousness selects among equal-energy outcomes; no energy added ([conservation-laws-and-mind](/topics/conservation-laws-and-mind/))
 - **Exclusion**: At quantum indeterminacies, no sufficient physical cause exists to exclude
-- **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious
+- **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-of-occams-razor/)
 - **Evolutionary**: Phenomenal valence tracking fitness *supports* interactionism
 - **[Decoherence](/concepts/decoherence/)**: Doesn't solve the measurement problem; consciousness may bias outcomes post-decoherence
 - **Eliminativism**: Consciousness refers to what we know most directly; eliminativism about *that* is incoherent

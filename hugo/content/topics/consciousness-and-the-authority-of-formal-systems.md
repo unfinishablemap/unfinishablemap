@@ -39,7 +39,7 @@ last_deep_review: 2026-02-24 08:28:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
-- '[[consciousness-and-the-grounds-of-normative-authority]]'
+- '[[consciousness-and-normative-force]]'
 - '[[consciousness-and-mathematical-cognition]]'
 - '[[mathematical-void]]'
 - '[[phenomenology-of-intellectual-effort]]'
@@ -138,7 +138,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 ## Further Reading
 
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
-- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — Normative authority across moral, epistemic, and aesthetic domains
+- [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — Normative authority across moral, epistemic, aesthetic, and prudential domains
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has its own phenomenal character
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight and creativity as evidence for consciousness doing causal work
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but genuine understanding fails

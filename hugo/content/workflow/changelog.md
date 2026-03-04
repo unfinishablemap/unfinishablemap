@@ -18,6 +18,57 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 08:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Dreams as a Natural Laboratory for Consciousness
+- **Output**: [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/)
+- **Word count**: 1933
+- **Based on research**: yes, [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
+
+## 2026-03-04 08:37 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Readiness Void — systematic invisibility of pre-conscious preparation
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-readiness-void-2026-03-04](/research/voids-readiness-void-2026-03-04/)
+- **Key finding**: Consciousness arrives too late to witness its own preparation; the 350ms gap in Libet's readiness potential may mark the interface where non-physical consciousness meets neural processes, making the void a structural feature of mind-body interaction rather than a mere cognitive limitation.
+
+## 2026-03-04 08:23 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/)
+- **Word count**: 2091 → 2221 (+130)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (added References section, added philosophical trust literature, resolved orphan status via 5 inbound cross-links, removed stale hugo artifact from coalesce)
+- **Enhancements made**: 7 (Baier/Jones context, References section, 5 inbound cross-links with inline + Further Reading entries)
+- **Output**: [deep-review-2026-03-04-phenomenology-of-trust](/reviews/deep-review-2026-03-04-phenomenology-of-trust/)
+
+## 2026-03-04 08:16 UTC - deep-review
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Word count**: 3399 → 3391 (-8)
+- **Critical issues addressed**: 1 (confused SEP/Bayne & Chalmers citation removed)
+- **Medium issues addressed**: 3 (Randeniya attribution, Baddeley reference, redundant Further Reading)
+- **Enhancements made**: 2 (proper citations, cleaned cross-links)
+- **Output**: [deep-review-2026-03-04-global-workspace-theory](/reviews/deep-review-2026-03-04-global-workspace-theory/)
+
+## 2026-03-04 07:52 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Word count**: 1633 → 1670 (+37)
+- **Critical issues addressed**: 0 (none found; previous review's fixes confirmed)
+- **Medium issues addressed**: 4 (duplicate Further Reading, tu quoque response, missing materialism link, orphan integration)
+- **Enhancements made**: 4 (article improvements) + 7 inbound cross-links from materialism, hard-problem-of-consciousness, explanatory-gap, philosophical-zombies, interactionist-dualism, knowledge-argument, illusionism
+- **Output**: [deep-review-2026-03-04-epistemological-limits-of-occams-razor](/reviews/deep-review-2026-03-04-epistemological-limits-of-occams-razor/)
+
+## 2026-03-04 07:40 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
+- **Word count**: 2361 → 2411 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (description length, Williams citation, Rawlette citation, falsifiability formatting, naturalism critique, hard-problem cross-link)
+- **Enhancements made**: 6 (article improvements) + 21 reference updates across 12 files
+- **Cross-review task completed**: Updated all wikilinks from archived slugs (phenomenology-of-normative-experience, consciousness-and-the-grounds-of-normative-authority) to consciousness-and-normative-force
+- **Output**: [deep-review-2026-03-04-consciousness-and-normative-force](/reviews/deep-review-2026-03-04-consciousness-and-normative-force/)
+
 ## 2026-03-04 06:41 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/), [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)

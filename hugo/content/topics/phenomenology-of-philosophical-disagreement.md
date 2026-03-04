@@ -26,7 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-epistemic-judgment]]'
 - '[[consciousness-and-testimony]]'
-- '[[consciousness-and-the-grounds-of-normative-authority]]'
+- '[[consciousness-and-normative-force]]'
 - '[[consciousness-and-the-authority-of-logic]]'
 - '[[phenomenology-of-inferential-understanding]]'
 - '[[intersubjective-void]]'

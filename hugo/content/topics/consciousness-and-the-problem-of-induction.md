@@ -26,7 +26,7 @@ related_articles:
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[consciousness-and-semantic-understanding]]'
 - '[[consciousness-and-temporal-integration]]'
-- '[[consciousness-and-the-grounds-of-normative-authority]]'
+- '[[consciousness-and-normative-force]]'
 - '[[contemplative-epistemology]]'
 - '[[self-stultification]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
@@ -112,7 +112,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
 - [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
-- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/)
+- [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)

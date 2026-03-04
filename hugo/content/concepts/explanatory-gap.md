@@ -187,7 +187,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the gap through 
 
 ### Occam's Razor Has Limits
 
-The gap supports humility. If we cannot understand consciousness from physical descriptions, we should be cautious about claims to have "solved" the mind-body problem. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet reminds us that apparent simplicity may reflect ignorance, not insight. Physicalism seems simpler only because it ignores what it cannot explain. The gap suggests that the mind-body problem's true complexity exceeds what any simple framework—materialist or otherwise—can capture.
+The gap supports humility. If we cannot understand consciousness from physical descriptions, we should be cautious about claims to have "solved" the mind-body problem. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet reminds us that apparent simplicity may reflect ignorance, not insight. Physicalism seems simpler only because it ignores what it cannot explain—and the [epistemological case against parsimony](/arguments/epistemological-limits-of-occams-razor/) shows that scientific justifications for preferring simpler theories don't transfer to metaphysical theory choice about consciousness. The gap suggests that the mind-body problem's true complexity exceeds what any simple framework—materialist or otherwise—can capture.
 
 ## Further Reading
 

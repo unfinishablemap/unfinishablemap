@@ -103,7 +103,7 @@ This connects to the [aesthetic dimension of consciousness](/topics/aesthetic-di
 
 ### Guilt and Moral Remainder
 
-Guilt provides perhaps the clearest window into moral phenomenology. Genuine guilt is not mere regret (wishing things had gone differently) or shame (feeling exposed as defective). It is the experience of having violated something that mattered—a felt recognition that one's agency produced wrongness.
+Guilt provides perhaps the clearest window into moral phenomenology. Genuine guilt is not mere regret (wishing things had gone differently) or shame (feeling exposed as defective). It is the experience of having violated something that mattered—a felt recognition that one's agency produced wrongness. When guilt arises from betraying someone's [trust](/topics/phenomenology-of-trust/), the experience gains an interpersonal dimension: what has been violated is not an abstract norm but a specific person's felt openness toward you.
 
 The phenomenal character of guilt includes a distinctive backward-looking quality: the wrong act continues to be experienced as wrong, often with increasing rather than decreasing intensity as its implications unfold. This temporal structure distinguishes guilt from pain (which diminishes over time) and regret (which attaches to outcomes rather than to the character of one's choice).
 
@@ -195,7 +195,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [moral-perception](/concepts/moral-perception/) — The capacity to perceive ethical properties directly
 - [moral-phenomenology](/concepts/moral-phenomenology/) — The philosophical study of moral experience's felt character
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force
-- [phenomenology-of-normative-experience](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
+- [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotion
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience resists reduction
@@ -208,6 +208,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — The epistemological role of meditative evidence
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist and Hindu perspectives on consciousness and value
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — What insight and comprehension feel like from the inside
+- [phenomenology-of-trust](/topics/phenomenology-of-trust/) — The felt character of interpersonal trust, vulnerability, and betrayal
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — How moral perception shifts under new evidence
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How moral seriousness gains metaphysical weight under genuine agency
 

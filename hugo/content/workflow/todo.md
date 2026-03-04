@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced normative articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [consciousness-and-normative-force](/topics/consciousness-and-normative-force/). The following files reference archived articles and need wikilinks updated: concepts/phenomenal-normativity.md, concepts/normative-phenomenology.md, concepts/moral-perception.md, concepts/moral-phenomenology.md, topics/phenomenology-of-deliberation-under-uncertainty.md, topics/phenomenal-normativity-environmental-ethics.md, topics/phenomenology-of-intellectual-courage.md, topics/phenomenology-of-moral-experience.md, topics/aesthetic-dimension-of-consciousness.md, topics/consciousness-and-the-problem-of-induction.md, topics/phenomenology-of-philosophical-disagreement.md, topics/consciousness-and-the-authority-of-formal-systems.md
-- **Source**: coalesce
-- **Generated**: 2026-03-04
-
-### P2: Remove 9 stale hugo files from archived/coalesced articles
-- **Type**: other
-- **Notes**: Nine hugo/content/ files persist from articles that were archived or coalesced, inflating the orphan count (13 reported vs 3 genuine) and potentially causing rendering issues. Archived files with stale hugo copies: consciousness-and-pain, consciousness-and-temporal-integration, contemplative-reliability, phenomenology-of-normative-properties, measurement-problem-as-hard-problem, phenomenology-of-inferential-understanding, surprise-and-creativity (all in archive/). Coalesced files: apophatic-approaches (→ apophatic-cartography), autonoetic-consciousness (→ anoetic-noetic-autonoetic-consciousness). Delete each stale hugo/content/ file and verify the archive/ redirects are correct.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-04
-
-### P2: Integrate epistemological-limits-of-occams-razor.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound wikilinks from any content article. Arguments article (created 2026-02-06) directly supporting Tenet 5 (Occam's Razor Has Limits) — the Map's least-covered foundational commitment. Add cross-references from occams-razor.md (if it exists), tenets.md, arguments-for-dualism.md, and philosophy-of-science-under-dualism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -72,12 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The minimal consciousness void examines the lower boundary of conscious experience — what is the simplest thing that could be conscious? Relevant to the Map's treatment of panpsychism, the combination problem, and consciousness thresholds. Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
-- **Generated**: 2026-03-02
-
-### P2: Integrate phenomenology-of-trust-and-testimony.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on the phenomenology of trust and testimony — relevant to the Map's treatment of first-person evidence and intersubjective knowledge. Add cross-references from phenomenology.md, introspection.md, social-construction-of-self-vs-phenomenal-self.md, and contemplative-epistemology.md.
-- **Source**: orphan_integration
 - **Generated**: 2026-03-02
 
 ### P3: Deep review intentionality.md
@@ -540,8 +516,52 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The qualitative, experiential dimension of attending — distinct from computational attention (resource allocation) and attention schema (brain's model of attention). Currently conflated across many articles. Would sharpen the argument against AST, clarify the quantum Zeno mechanism, and address the bandwidth asymmetry. Builds on attention-as-selection-interface.md, attention-schema-theory.md, mental-effort.md, asymmetric-bandwidth-of-consciousness.md. See [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/).
 - **Generated**: 2026-03-04
 
+### P2: Integrate materialism-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound body-text wikilinks from any content article — only referenced in frontmatter of two files. Arguments article (created 2026-01-06) presenting the materialist case against dualism. As a counterposition the Map engages with frequently, it should be easily discoverable. Add cross-references from arguments-for-dualism.md, physicalism.md, hard-problem-of-consciousness.md, and related articles engaging materialist arguments.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
+### P3: Deep review global-workspace-theory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Global Workspace Theory is a foundational theory of consciousness that the Map engages with across many articles. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
+### P3: Deep review quantum-indeterminacy-free-will.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Connects quantum indeterminacy to free will — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
+### P3: Deep review moral-responsibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 33 days ago, beyond the 30-day staleness threshold. Covers moral responsibility under dualism — connects to Tenet 3 (Bidirectional Interaction) and the Map's ethics cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write article on dreams, problem-solving, and lucid dreaming
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Dreams as a cognitive problem-solving laboratory, lucid dreaming as evidence for metacognitive capacities, and the Konkoly et al. findings on two-way REM communication. Synthesise into a site article examining what dream phenomenology reveals about the consciousness-brain interface. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: dreams, problem-solving, and lucid dreaming
+
+### ✓ 2026-03-04: Integrate phenomenology-of-trust-and-testimony.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on the phenomenology of trust and testimony — relevant to the Map's treatment of first-person evidence and intersubjective knowledge. Add cross-references from phenomenology.md, introspection.md, social-construction-of-self-vs-phenomenal-self.md, and contemplative-epistemology.md.
+- **Output**: phenomenology-of-trust-and-testimony.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-04: Integrate epistemological-limits-of-occams-razor.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks from any content article. Arguments article (created 2026-02-06) directly supporting Tenet 5 (Occam's Razor Has Limits) — the Map's least-covered foundational commitment. Add cross-references from occams-razor.md (if it exists), tenets.md, arguments-for-dualism.md, and philosophy-of-science-under-dualism.md.
+- **Output**: obsidian/arguments/epistemological-limits-of-occams-razor.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-04: Update references to coalesced normative articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-and-normative-force](/topics/consciousness-and-normative-force/). The following files reference archived articles and need wikilinks updated: concepts/phenomenal-normativity.md, concepts/normative-phenomenology.md, concepts/moral-perception.md, concepts/moral-phenomenology.md, topics/phenomenology-of-deliberation-under-uncertainty.md, topics/phenomenal-normativity-environmental-ethics.md, topics/phenomenology-of-intellectual-courage.md, topics/phenomenology-of-moral-experience.md, topics/aesthetic-dimension-of-consciousness.md, topics/consciousness-and-the-problem-of-induction.md, topics/phenomenology-of-philosophical-disagreement.md, topics/consciousness-and-the-authority-of-formal-systems.md
+- **Output**: None -- Context: Update references to coalesced normative articles
 
 ### ✓ 2026-03-04: Integrate valence-void.md into site navigation
 - **Type**: integrate-orphan

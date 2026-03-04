@@ -78,7 +78,7 @@ The second kind — what [theory-of-mind](/concepts/theory-of-mind/) researchers
 
 Empathy illustrates the consciousness requirement from a different angle. The concept page distinguishes three levels: emotional contagion (automatic, unconscious), cognitive empathy (understanding what another feels), and empathic concern (caring about their state because you grasp it). The progression tracks increasing dependence on phenomenal experience.
 
-Emotional contagion requires no consciousness — mirror neurons and physiological synchronisation can produce it mechanically, as Frans de Waal's research on primate empathy demonstrates (de Waal, 2008). But empathic concern requires something more. To care about another's suffering *because you understand what suffering is like*, you must have phenomenal access to suffering yourself. You must be able to connect their situation to the felt quality of your own experience.
+Emotional contagion requires no consciousness — mirror neurons and physiological synchronisation can produce it mechanically, as Frans de Waal's research on primate empathy demonstrates (de Waal, 2008). But empathic concern requires something more. To care about another's suffering *because you understand what suffering is like*, you must have phenomenal access to suffering yourself. You must be able to connect their situation to the felt quality of your own experience. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals a parallel structure: trusting another person requires experiencing them as a subject capable of honouring or violating your openness, not merely a system whose outputs you monitor.
 
 This is where the [problem-of-other-minds](/concepts/problem-of-other-minds/) intersects with social cognition. We can never directly access another's experience, yet we build our entire moral and social world on the assumption that others have experiences that matter. The [gap between minds](/voids/intersubjective-void/) is constitutive of social life rather than an obstacle to it: genuine respect for another person requires recognising them as a centre of experience you cannot fully penetrate.
 
@@ -136,6 +136,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 - [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-experience/) — How phenomenal consciousness shapes moral judgment
 - [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/) — How shared goals and commitments depend on phenomenal subjects
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — The role of consciousness in understanding other minds
+- [phenomenology-of-trust](/topics/phenomenology-of-trust/) — Trust as a distinctively conscious mode of interpersonal engagement
 - [cumulative-culture](/concepts/cumulative-culture/) — How cultural accumulation depends on teaching and shared intentionality
 
 ## References

@@ -188,7 +188,7 @@ The zombie argument connects to all five of the Map's tenets.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The zombie argument presupposes that personal identity is determinate—*I* am either conscious or not. Many-worlds interpretations fragment this, undermining the [haecceity](/concepts/haecceity/) that makes the zombie scenario coherent. The zombie argument requires definite facts about who's conscious.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalists dismiss dualism on grounds of parsimony. The zombie argument challenges this: physical processes *don't* suffice to explain consciousness, and the apparent simplicity of physicalism reflects ignorance rather than insight. What seems parsimonious may actually be incomplete.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalists dismiss dualism on grounds of parsimony. The zombie argument challenges this: physical processes *don't* suffice to explain consciousness, and the [apparent simplicity of physicalism](/arguments/epistemological-limits-of-occams-razor/) reflects ignorance rather than insight. What seems parsimonious may actually be incomplete.
 
 ## Further Reading
 

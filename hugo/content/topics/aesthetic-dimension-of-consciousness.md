@@ -49,7 +49,7 @@ related_articles:
 - '[[ethics-of-consciousness]]'
 - '[[knowledge-argument]]'
 - '[[philosophical-zombies]]'
-- '[[consciousness-and-the-grounds-of-normative-authority]]'
+- '[[consciousness-and-normative-force]]'
 - '[[emotion-as-evidence-for-dualism]]'
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[consciousness-value-connection]]'

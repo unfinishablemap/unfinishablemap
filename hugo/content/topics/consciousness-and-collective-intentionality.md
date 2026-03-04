@@ -66,7 +66,7 @@ This normative structure distinguishes collective intentionality from collective
 
 Human collective intentionality is normatively loaded because participants represent each other as conscious agents with commitments they can honour or violate. Remove consciousness from the picture, and the normative structure collapses into mere behavioural regularity — functional coordination without genuine obligation.
 
-A functionalist might respond that normative responses — resentment, blame, demands for justification — can be fully characterised by their functional roles without invoking phenomenal consciousness. On this view, what matters is the pattern of social response, not whether it is accompanied by experience. The Map's reply: functional accounts of normativity capture the *structure* of obligation while losing its *force*. A system that produces blame-behaviour without anyone experiencing the violation as a betrayal of trust has the form of normative life without its substance. The felt weight of broken commitment — the sense that someone who *understood* what they were doing chose to breach it — is precisely what distinguishes obligation from mere behavioural expectation.
+A functionalist might respond that normative responses — resentment, blame, demands for justification — can be fully characterised by their functional roles without invoking phenomenal consciousness. On this view, what matters is the pattern of social response, not whether it is accompanied by experience. The Map's reply: functional accounts of normativity capture the *structure* of obligation while losing its *force*. A system that produces blame-behaviour without anyone experiencing the violation as a betrayal of trust has the form of normative life without its substance. The felt weight of broken commitment — the sense that someone who *understood* what they were doing chose to breach it — is precisely what distinguishes obligation from mere behavioural expectation. The [phenomenology of trust](/topics/phenomenology-of-trust/) illuminates this further: betrayal does not merely update a probability estimate but ruptures a felt orientation toward another consciousness, with a devastating asymmetry that no functional account of reputation updating can fully capture.
 
 ### The Searle Problem: Can We-Intentionality Be Physical?
 
@@ -129,6 +129,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds where collective intentionality operates
 - [intersubjective-void](/voids/intersubjective-void/) — The structural gap between minds that collective intentionality bridges but never closes
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects
+- [phenomenology-of-trust](/topics/phenomenology-of-trust/) — How trust operates across the intersubjective void and what betrayal reveals about commitment
 
 ## References
 

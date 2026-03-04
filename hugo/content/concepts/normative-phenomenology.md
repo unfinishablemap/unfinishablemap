@@ -32,7 +32,7 @@ related_articles:
 title: Normative Phenomenology
 topics:
 - '[[ethics-of-consciousness]]'
-- '[[phenomenology-of-normative-experience]]'
+- '[[consciousness-and-normative-force]]'
 ---
 
 Normative phenomenology is the systematic first-person investigation of how normative properties—moral obligation, epistemic compellingness, aesthetic value, prudential weight—present themselves in conscious experience. Where [phenomenology](/concepts/phenomenology/) investigates the structures of experience in general, normative phenomenology applies the phenomenological method specifically to the evaluative dimension: what does it feel like to encounter a demand, perceive an obligation, or recognise beauty? The Unfinishable Map holds that this method is central to understanding normativity. If [phenomenal-normativity](/concepts/phenomenal-normativity/) is correct—if normativity is built into the phenomenal character of certain experiences—then first-person investigation provides primary access to normative reality that third-person methods cannot replace.
@@ -47,7 +47,7 @@ This bracketing is not scepticism about normativity. It is methodological discip
 
 ### Scope Across Normative Domains
 
-The [phenomenology-of-normative-experience](/topics/consciousness-and-normative-force/) article maps four domains where normative experience arises: moral, epistemic, aesthetic, and prudential. Normative phenomenology investigates all four, treating the diversity as evidence about the structure of normativity itself. The shared demand character—the fact that all normative experiences present their objects as calling for response—is a phenomenological finding, not a theoretical assumption.
+The [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) article maps four domains where normative experience arises: moral, epistemic, aesthetic, and prudential. Normative phenomenology investigates all four, treating the diversity as evidence about the structure of normativity itself. The shared demand character—the fact that all normative experiences present their objects as calling for response—is a phenomenological finding, not a theoretical assumption.
 
 This breadth distinguishes normative phenomenology from moral phenomenology alone. The phenomenology of obligation, the phenomenology of evidential weight, the phenomenology of beauty, and the phenomenology of prudential pull are related investigations within a unified methodological programme.
 
@@ -141,7 +141,7 @@ Normative phenomenology connects to the Map's [foundational commitments](/tenets
 
 ## Further Reading
 
-- [phenomenology-of-normative-experience](/topics/consciousness-and-normative-force/) — The phenomenal character of normative experience across domains
+- [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The phenomenal character of normative experience across domains
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The metaphysical thesis that phenomenal states carry intrinsic normative force
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of ethical properties in experience
 - [phenomenology](/concepts/phenomenology/) — The broader phenomenological tradition
