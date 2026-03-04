@@ -69,7 +69,7 @@ last_curated: null
 
 ### Cross-links Added
 - [[illusionism]]
-- [[specious-present]]
+- [[temporal-consciousness]]
 - [[voluntary-attention]]
 - [[decoherence]]
 - [[cognitive-phenomenology]]

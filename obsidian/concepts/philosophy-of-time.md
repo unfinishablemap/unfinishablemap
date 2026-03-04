@@ -13,14 +13,14 @@ concepts:
   - "[[collapse-and-time]]"
   - "[[retrocausality]]"
   - "[[temporal-consciousness]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[quantum-consciousness]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
   - "[[neurophenomenology]]"
 related_articles:
   - "[[tenets]]"
@@ -182,7 +182,7 @@ Whatever the correct metaphysics, temporal *experience* has distinctive features
 
 **Asymmetric access**: We remember the past, not the future. We can affect the future, not the past (or so it seems).
 
-**[[duration|Durée]]**: Bergson's "lived time" is qualitative, interpenetrating—not a sequence of instants but continuous creative advance. Clock time abstracts from this.
+**[[temporal-consciousness|Durée]]**: Bergson's "lived time" is qualitative, interpenetrating—not a sequence of instants but continuous creative advance. Clock time abstracts from this.
 
 These phenomenological features don't decisively settle metaphysics (B-theorists explain them as illusions or indexical effects), but they constrain adequate theories. A metaphysics that dismisses temporal phenomenology as mere confusion must explain why the confusion is so systematic and universal.
 
@@ -235,8 +235,8 @@ Philosophy of time connects to all five tenets, with the connection running deep
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[retrocausality]] — Time-symmetric physics and backward causation
 - [[temporal-consciousness]] — The specious present and phenomenology of time
-- [[specious-present]] — The experienced duration of "now"
-- [[duration]] — Bergson's qualitative lived time
+- [[temporal-consciousness]] — The experienced duration of "now"
+- [[temporal-consciousness]] — Bergson's qualitative lived time
 - [[measurement-problem]] — Why collapse remains unexplained
 - [[illusionism]] — The eliminativist challenge and the Map's response
 - [[introspection]] — First-person methods and their epistemic status

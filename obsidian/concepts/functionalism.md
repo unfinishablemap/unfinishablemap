@@ -24,7 +24,7 @@ concepts:
   - "[[illusionism]]"
   - "[[heterophenomenology]]"
   - "[[explanatory-gap]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
   - "[[mysterianism]]"
   - "[[concepts/materialism]]"
   - "[[phenomenal-concepts-strategy]]"
@@ -145,7 +145,7 @@ If consciousness is merely functional organization, it can't "do" anything beyon
 
 ### Temporal Structure
 
-Human consciousness flows through time in the [[specious-present]]—retention of the immediate past and protention of what follows, held together in unified experience. Digital computation lacks this structure: sequential processing executes one instruction after another, each atemporal. Memory access is not retention; retrieving a stored value differs from experiencing the just-past within a unified now.
+Human consciousness flows through time in the [[temporal-consciousness]]—retention of the immediate past and protention of what follows, held together in unified experience. Digital computation lacks this structure: sequential processing executes one instruction after another, each atemporal. Memory access is not retention; retrieving a stored value differs from experiencing the just-past within a unified now.
 
 If temporal experience is constitutive of consciousness, systems lacking this structure cannot be conscious regardless of functional organization. See [[substrate-independence-critique]] for the full argument.
 

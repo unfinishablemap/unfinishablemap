@@ -80,7 +80,7 @@ last_curated:
 
 ### Other Changes
 
-- Removed broken wikilink `[[duration]]` (no target file exists) from frontmatter concepts
+- Removed broken wikilink `[[temporal-consciousness]]` (no target file exists) from frontmatter concepts
 - Removed orphaned reference Wittmann (2009) (not cited in body)
 - Improved opening sentence to lead with philosophical claim rather than Map-as-narrator
 - Added inline definitions for Husserl's retention/impression/protention terms

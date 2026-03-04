@@ -10,7 +10,7 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[philosophy-of-time]]"
   - "[[phenomenology]]"
   - "[[neurophenomenology]]"

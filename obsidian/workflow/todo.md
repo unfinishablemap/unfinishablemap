@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
-- **Type**: cross-review
-- **Notes**: 87 content articles still link to `[[duration]]` and 60 to `[[specious-present]]`, both archived and superseded by `[[temporal-consciousness]]`. Readers following these links see archive notices instead of the replacement content. Bulk-update wikilinks across all files in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/. Preserve display text where appropriate (e.g. `[[temporal-consciousness|duration]]`).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-04
-
 ### P1: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
 - **Type**: cross-review
 - **Notes**: 67 content articles still link to `[[autonoetic-consciousness]]`, which was coalesced into `[[anoetic-noetic-autonoetic-consciousness]]`. Bulk-update wikilinks across all content files. Preserve display text where appropriate.
@@ -614,6 +608,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
+- **Type**: cross-review
+- **Notes**: 87 content articles still link to `[[duration]]` and 60 to `[[specious-present]]`, both archived and superseded by `[[temporal-consciousness]]`. Readers following these links see archive notices instead of the replacement content. Bulk-update wikilinks across all files in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/. Preserve display text where appropriate (e.g. `[[temporal-consciousness|duration]]`).
+- **Output**: None -- Context: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
 
 ### ✓ 2026-03-04: Deep review fragmented-consciousness.md
 - **Type**: deep-review
@@ -1323,7 +1322,7 @@ Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elega
 
 ### ✓ 2026-02-22: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: cross-review
-- **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[[specious-present]]` and ~30 reference `[[duration]]` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
+- **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[[temporal-consciousness]]` and ~30 reference `[[temporal-consciousness]]` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
 - **Output**: None -- Context: Update references to coalesced temporal articles (specious-present, duration)
 
 ### ✓ 2026-02-22: Update references to coalesced emergence articles (consciousness-and-strong-emergence, consciousness-and-the-emergence-debate)

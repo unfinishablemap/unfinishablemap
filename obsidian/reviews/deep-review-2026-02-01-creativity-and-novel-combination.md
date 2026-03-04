@@ -53,7 +53,7 @@ The six adversarial personas (Eliminative Materialist, Hard-Nosed Physicalist, Q
 - Added Cowan citation to References section
 
 ### Cross-links Added
-No new cross-links needed—the article already has extensive cross-linking to relevant concepts and topics including [[baseline-cognition]], [[conscious-vs-unconscious-processing]], [[working-memory]], [[global-workspace-theory]], [[metarepresentation]], [[cumulative-culture]], [[counterfactual-reasoning]], [[duration]], and the tenets.
+No new cross-links needed—the article already has extensive cross-linking to relevant concepts and topics including [[baseline-cognition]], [[conscious-vs-unconscious-processing]], [[working-memory]], [[global-workspace-theory]], [[metarepresentation]], [[cumulative-culture]], [[counterfactual-reasoning]], [[temporal-consciousness]], and the tenets.
 
 ## Remaining Items
 

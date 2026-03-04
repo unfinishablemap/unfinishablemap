@@ -323,7 +323,7 @@ Pessimistic review found: (1) uncited empirical claims in NDE/anaesthesia sectio
 
 ### ✓ 2026-02-26: Update stale wikilinks for duration and specious-present to temporal-consciousness
 - **Type**: cross-review
-- **Notes**: 60+ file references across live content still use `[[duration]]` (33 refs) and `[[specious-present]]` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[temporal-consciousness]]` or more specific targets where appropriate.
+- **Notes**: 60+ file references across live content still use `[[temporal-consciousness]]` (33 refs) and `[[temporal-consciousness]]` (27 refs) — both archived slugs superseded by concepts/temporal-consciousness.md. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ to point to `[[temporal-consciousness]]` or more specific targets where appropriate.
 - **Output**: None -- Context: Update stale wikilinks for duration and specious-present to temporal-consciousness
 
 ### ✓ 2026-02-26: Cross-review observation-void.md considering dissolution-problem insights

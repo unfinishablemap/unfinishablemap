@@ -19,7 +19,7 @@ concepts:
   - "[[luck-objection]]"
   - "[[motor-selection]]"
   - "[[consciousness-and-creativity]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[concepts/many-worlds]]"
   - "[[pairing-problem]]"
@@ -187,7 +187,7 @@ Agent causation traditionally focuses on selection, but [[consciousness-and-crea
 
 This strengthens agent causation against the critic who asks what about the agent explains the choice. If agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
 
-Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [[duration]] develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
+Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [[temporal-consciousness]] develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
 
 Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally rather than metaphysically exceptional. This reframes the objection: the question is not "How can consciousness possibly cause anything?" but "Why did we think it couldn't?" The [[process-and-consciousness|Process and Consciousness]] apex develops this connection in depth.
 

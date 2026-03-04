@@ -22,7 +22,7 @@ last_curated:
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken links to archived articles**: `[[voluntary-attention]]` and `[[duration]]` both archived (replaced by `[[attention-as-interface]]` and `[[temporal-consciousness]]`). Updated all frontmatter and body links.
+- **Broken links to archived articles**: `[[voluntary-attention]]` and `[[temporal-consciousness]]` both archived (replaced by `[[attention-as-interface]]` and `[[temporal-consciousness]]`). Updated all frontmatter and body links.
 - **Missing `last_deep_review` field**: Added to frontmatter.
 - **`[[volitional-opacity]]` categorisation**: Listed under `concepts:` in frontmatter but exists as a void. Kept in `concepts:` list since the frontmatter schema doesn't have a `voids:` field and wikilinks resolve regardless of path. Noted for potential schema improvement.
 
@@ -74,7 +74,7 @@ last_curated:
 - [[libet-experiments]]
 - [[reasons-responsiveness]]
 - [[attention-as-interface]] (replacing archived [[voluntary-attention]])
-- [[temporal-consciousness]] (replacing archived [[duration]])
+- [[temporal-consciousness]] (replacing archived [[temporal-consciousness]])
 - [[motor-selection]] (was in frontmatter only, now in body)
 
 ## Remaining Items

@@ -63,8 +63,8 @@ last_curated: null
 
 ### Cross-links Added
 
-- [[specious-present]] (frontmatter and inline)
-- [[duration]] (frontmatter and Further Reading)
+- [[temporal-consciousness]] (frontmatter and inline)
+- [[temporal-consciousness]] (frontmatter and Further Reading)
 - [[agent-causation]] (frontmatter and Further Reading)
 - [[temporal-consciousness]] (frontmatter and Further Reading)
 - [[time-collapse-and-agency]] (Further Reading, inline)

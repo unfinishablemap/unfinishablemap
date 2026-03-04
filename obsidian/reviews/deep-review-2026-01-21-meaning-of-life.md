@@ -64,7 +64,7 @@ last_curated: null
 - [[haecceity]] - indexical identity and unrepeatability
 - [[decoherence]] - quantum objection
 - [[emotional-consciousness]] - valence and felt quality
-- [[duration]] - Bergson's lived time
+- [[temporal-consciousness]] - Bergson's lived time
 - [[illusionism]] - strengthened existing link with substantive engagement
 
 ## Word Count Change

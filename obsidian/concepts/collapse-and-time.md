@@ -14,8 +14,8 @@ concepts:
   - "[[measurement-problem]]"
   - "[[decoherence]]"
   - "[[philosophy-of-time]]"
-  - "[[specious-present]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
+  - "[[temporal-consciousness]]"
   - "[[agent-causation]]"
   - "[[temporal-consciousness]]"
 related_articles:
@@ -33,7 +33,7 @@ last_deep_review: 2026-02-24T21:07:00+00:00
 
 Wavefunction collapse—the transition from quantum superposition to definite outcome—appears to introduce an arrow of time into physics. The Schrödinger equation runs equally well forward or backward, yet measurement seems irreversible. If consciousness participates in collapse (as The Unfinishable Map's framework proposes), then consciousness may be connected to temporal directionality itself—not merely experiencing time's flow but helping constitute it. Time-symmetric interpretations push this further: if consciousness's role in collapse is atemporal—selecting which outcomes become actual across time rather than at a moment—then the relationship is constitutive rather than experiential.
 
-The framework is speculative and conditional on collapse realism, but it generates testable commitments about collapse timing, temporal phenomenology, and the structure of the [[specious-present|specious present]]. For how consciousness specifically relates to time's arrow, see [[consciousness-collapse-arrow-of-time|Consciousness, Collapse, and the Arrow of Time]].
+The framework is speculative and conditional on collapse realism, but it generates testable commitments about collapse timing, temporal phenomenology, and the structure of the [[temporal-consciousness|specious present]]. For how consciousness specifically relates to time's arrow, see [[consciousness-collapse-arrow-of-time|Consciousness, Collapse, and the Arrow of Time]].
 
 ## The Quantum Arrow Problem
 
@@ -83,7 +83,7 @@ The Map's framework proposes a **modified growing block**. Past and present exis
 
 Why prefer the growing block over presentism or eternalism? Presentism (only the present exists) struggles with retrocausal constraints—time-symmetric physics requires past states to exert real influence, which is difficult if they no longer exist. Eternalism (all times exist equally) has no room for genuine collapse; if all moments are equally real, the transition from superposition to definite outcome is perspectival, not ontological. The growing block preserves the reality of past states (supporting retrocausal influence) while maintaining that the future is genuinely open (supporting real collapse). This is a philosophical preference, not a proof—the rate-of-passage problem (what determines the "speed" at which the block grows?) remains unresolved, as it does for all A-theoretic positions.
 
-This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [[specious-present|specious present]]—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops this idea: the felt structure of time—retention, primal impression, protention—may be the experiential signature of consciousness selecting quantum outcomes.
+This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [[temporal-consciousness|specious present]]—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops this idea: the felt structure of time—retention, primal impression, protention—may be the experiential signature of consciousness selecting quantum outcomes.
 
 ### Agent Identity Across Collapse
 
@@ -132,7 +132,7 @@ The framework makes testable predictions:
 - If neural determinism is demonstrated—brain states fully determining subsequent states with no quantum openness—the mechanism disappears.
 
 **Positive predictions:**
-- The [[specious-present|specious present]] should show structure consistent with collapse timing. If collapse introduces temporal granularity, the duration and internal structure of the experienced "now" should reflect the timescales of collapse events rather than being arbitrary. No quantitative model yet links specific collapse theories to the specious present's ~100-750ms duration—this remains an open problem for the framework.
+- The [[temporal-consciousness|specious present]] should show structure consistent with collapse timing. If collapse introduces temporal granularity, the duration and internal structure of the experienced "now" should reflect the timescales of collapse events rather than being arbitrary. No quantitative model yet links specific collapse theories to the specious present's ~100-750ms duration—this remains an open problem for the framework.
 - Contemplative practices that alter temporal phenomenology may provide indirect evidence. Advanced meditation states like cessation—where temporal experience reportedly stops—could reflect altered consciousness-collapse dynamics. However, materialist neuroscience offers competing explanations (altered default mode network activity, reduced interoceptive prediction error), so this prediction would need to identify effects that purely neural accounts cannot explain.
 - The phenomenology of [[mental-effort|effort]] should correlate with active collapse selection; effortless awareness (as in open monitoring meditation) should correlate with suspended selection. Again, the challenge is distinguishing this from neural-level explanations of the same phenomenology.
 
@@ -156,8 +156,8 @@ The connection between collapse and time strengthens multiple tenets:
 
 - [[consciousness-collapse-arrow-of-time]] — Consciousness's place within the collapse-time triad: passive, constitutive, or atemporal
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and conscious agency
-- [[specious-present]] — The experienced duration of "now" and its connection to collapse timing
-- [[duration]] — Bergson's qualitative time and the creative advance of durée
+- [[temporal-consciousness]] — The experienced duration of "now" and its connection to collapse timing
+- [[temporal-consciousness]] — Bergson's qualitative time and the creative advance of durée
 - [[philosophy-of-time]] — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
 - [[atemporal-causation]] — Causation outside temporal sequence
 - [[retrocausality]] — How time-symmetric physics grounds backward causation

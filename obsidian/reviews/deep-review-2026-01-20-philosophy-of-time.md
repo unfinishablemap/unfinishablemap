@@ -64,7 +64,7 @@ last_curated: null
 - [[decoherence]]
 - [[witness-consciousness]]
 - [[haecceity]]
-- [[specious-present]]
+- [[temporal-consciousness]]
 - [[neurophenomenology]]
 
 ## Remaining Items

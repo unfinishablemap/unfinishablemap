@@ -12,8 +12,8 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
-  - "[[duration]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
+  - "[[temporal-consciousness]]"
   - "[[collapse-and-time]]"
   - "[[philosophy-of-time]]"
   - "[[retrocausality]]"
@@ -59,7 +59,7 @@ These form an inseparable unity. The note you're hearing now carries the just-pa
 
 Whether experience is genuinely temporally extended (extensionalism, as Dainton argues) or technically instantaneous with past-directed content (retentionalism, as Husserl's own framework implies) matters for what consciousness requires. The Map favours modified extensionalism: experience is genuinely extended, constituted through a series of quantum collapses. Each collapse is discrete, but the [[specious-present-temporal-experience|specious present]] integrates multiple collapses into a unified duration-block. Husserl's retention-protention structure reflects retrocausal boundary conditions in collapse rather than instantaneous representational content—preserving genuine temporal extension while explaining why retentionalism's phenomenological descriptions are accurate.
 
-Henri Bergson went further with his concept of [[duration|durée]]. Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
+Henri Bergson went further with his concept of [[temporal-consciousness|durée]]. Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
 
 Duration cannot be measured because it cannot be divided without destroying what it is. Cut a melody into separate notes and you have frequencies, not music. This irreducibility matters. As [[time-perception-consciousness-theories|Kent and Wittmann argue]] in their 2021 analysis, major consciousness theories focus on "functional moments" of 100-300 milliseconds while experienced time extends to seconds. The gap between what theories explain and what consciousness involves may not be a temporary limitation but evidence of something that functional accounts cannot capture.
 
@@ -172,7 +172,7 @@ This synthesis draws from:
 - [[time-perception-consciousness-theories|Time Perception and Consciousness Theories]] — The gap between functional moments and experienced duration
 - [[time-symmetric-selection-mechanism|Time-Symmetric Selection Mechanism]] — How atemporal selection resolves the Libet problem
 - [[temporal-consciousness|Temporal Consciousness]] — The specious present, temporal binding, and AI implications
-- [[duration|Duration (Durée)]] — Bergson's qualitative time and its irreducibility
+- [[temporal-consciousness|Duration (Durée)]] — Bergson's qualitative time and its irreducibility
 - [[collapse-and-time|Collapse and Time]] — How quantum collapse may constitute time's arrow
 - [[specious-present-temporal-experience|The Specious Present and Temporal Experience]] — The experienced duration of the present moment and the argument from temporal thickness
 - [[philosophy-of-time|Philosophy of Time]] — A-theory, B-theory, and the Map's growing block position

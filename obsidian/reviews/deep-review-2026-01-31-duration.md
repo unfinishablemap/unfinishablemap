@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-31
-**Article**: [[duration|Duration (Durée)]]
+**Article**: [[temporal-consciousness|Duration (Durée)]]
 **Previous review**: [[deep-review-2026-01-27-duration|2026-01-27]]
 **Cross-review context**: process-and-consciousness apex article
 

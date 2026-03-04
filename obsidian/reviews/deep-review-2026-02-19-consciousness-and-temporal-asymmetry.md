@@ -25,7 +25,7 @@ last_curated: null
 
 1. **Broken concept link `[[autonoetic-consciousness]]`**: No file exists at this path. The correct concept page is `[[anoetic-noetic-autonoetic-consciousness]]`. **Resolution**: Fixed link in both frontmatter and body text.
 
-2. **Broken concept link `[[duration]]`**: No file exists. **Resolution**: Removed from frontmatter concepts list (Bergson's durée is discussed inline but needs no dedicated concept link).
+2. **Broken concept link `[[temporal-consciousness]]`**: No file exists. **Resolution**: Removed from frontmatter concepts list (Bergson's durée is discussed inline but needs no dedicated concept link).
 
 3. **Phantom frontmatter concept `[[retrocausality]]`**: Listed in concepts but never mentioned in the article body. **Resolution**: Removed from frontmatter.
 

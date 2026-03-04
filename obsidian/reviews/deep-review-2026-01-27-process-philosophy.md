@@ -34,7 +34,7 @@ None. The article contains no factual errors, internal contradictions, missing r
 ### Low Issues (Not Addressed)
 - MWI section could be strengthened (deferred—the article already notes process philosophy "doesn't explicitly address quantum interpretations")
 - Buddhist process thought could be mentioned (deferred—marginal relevance to the Map's framework)
-- Decoherence challenges (already covered extensively in related articles like [[duration]])
+- Decoherence challenges (already covered extensively in related articles like [[temporal-consciousness]])
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Process vocabulary is undefined neologism—acknowledged in Testability section
@@ -57,11 +57,11 @@ None. The article contains no factual errors, internal contradictions, missing r
 2. **Testability section**: Added new section acknowledging the metaphysical (rather than scientific) nature of process philosophy's claims, which serves both critical transparency and philosophical rigor.
 
 ### Cross-links Verified
-The article links to: [[duration]], [[panpsychism]], [[emergence]], [[phenomenal-unity]], [[temporal-consciousness]], [[dualism]], [[combination-problem]], [[downward-causation]], [[agent-causation]], [[hard-problem-of-consciousness]], [[tenets]].
+The article links to: [[temporal-consciousness]], [[panpsychism]], [[emergence]], [[phenomenal-unity]], [[temporal-consciousness]], [[dualism]], [[combination-problem]], [[downward-causation]], [[agent-causation]], [[hard-problem-of-consciousness]], [[tenets]].
 
 Bidirectional links confirmed from:
 - [[panpsychism]] → [[process-philosophy]] ✓
-- [[duration]] → [[process-philosophy]] (via Process Philosophy Perspective section) ✓
+- [[temporal-consciousness]] → [[process-philosophy]] (via Process Philosophy Perspective section) ✓
 - [[temporal-consciousness]] → [[process-philosophy]] ✓
 - [[combination-problem]] → No direct link (acceptable—not all links need to be bidirectional)
 

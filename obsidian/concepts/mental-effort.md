@@ -15,7 +15,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[attention-as-interface]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[implicit-memory]]"
   - "[[motor-selection]]"

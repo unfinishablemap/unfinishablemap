@@ -10,7 +10,7 @@ topics:
 concepts:
   - "[[intentionality]]"
   - "[[qualia]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"

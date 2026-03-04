@@ -151,7 +151,7 @@ Consciousness varies along multiple dimensions:
 
 **Mode**: Different kinds of consciousness with distinct phenomenology. [[Autonoetic-consciousness|Autonoetic consciousness]] (episodic memory) involves mental time travel; [[witness-consciousness]] (contemplative practice) involves awareness without content; [[dreams-and-consciousness|dream consciousness]] differs from waking perception.
 
-**[[Temporal-consciousness|Temporal Structure]]**: Consciousness has intrinsic temporal organisation—the [[specious-present|specious present]], memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
+**[[Temporal-consciousness|Temporal Structure]]**: Consciousness has intrinsic temporal organisation—the [[temporal-consciousness|specious present]], memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
 
 **[[Unity-of-consciousness|Unity]]**: The integration of diverse contents into a single experiential field. Unity varies—split-brain patients show partial disunity; certain drugs fragment experience.
 

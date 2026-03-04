@@ -13,7 +13,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[introspection]]"
   - "[[witness-consciousness]]"
   - "[[illusionism]]"
@@ -119,7 +119,7 @@ When choice feels effortful, frontal theta increases. When choice feels automati
 
 ## Deliberation and Duration
 
-Henri Bergson's concept of [[duration|durée]] illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [[temporal-consciousness]] for how time-experience shapes what consciousness can do, and [[temporal-phenomenology-quantum-selection]] for how the temporal structure of deliberation—holding open possibilities, settling on one—may be the experiential signature of quantum selection.
+Henri Bergson's concept of [[temporal-consciousness|durée]] illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [[temporal-consciousness]] for how time-experience shapes what consciousness can do, and [[temporal-phenomenology-quantum-selection]] for how the temporal structure of deliberation—holding open possibilities, settling on one—may be the experiential signature of quantum selection.
 
 Bergson argued that determinism treats mental states as discrete units causing each other mechanically. But in lived duration, mental states interpenetrate. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete events.
 
@@ -201,7 +201,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [[attention-as-interface|voluntary attention]] — Neural signatures of genuine choosing
 - [[motor-selection]] — Motor choice as parallel to attentional choice
 - [[causal-interface]] — Why the mechanism connecting intention to action is invisible
-- [[duration]] — Bergson's lived time and creative becoming
+- [[temporal-consciousness]] — Bergson's lived time and creative becoming
 - [[consciousness-and-creativity]] — How consciousness generates options, not just selects
 - [[introspection]] — First-person methods for investigating choice
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: phenomenological experiments testing the structure of choice

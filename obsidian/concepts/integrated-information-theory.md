@@ -19,7 +19,7 @@ concepts:
   - "[[emergence]]"
   - "[[concepts/functionalism]]"
   - "[[temporal-consciousness]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
 related_articles:
   - "[[temporal-structure-of-consciousness]]"
   - "[[tenets]]"

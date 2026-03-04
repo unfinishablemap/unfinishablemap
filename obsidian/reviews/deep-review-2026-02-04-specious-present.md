@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-04
-**Article**: [[specious-present|The Specious Present]]
+**Article**: [[temporal-consciousness|The Specious Present]]
 **Previous review**: [[deep-review-2026-01-21-specious-present|2026-01-21]]
 
 ## Pessimistic Analysis Summary

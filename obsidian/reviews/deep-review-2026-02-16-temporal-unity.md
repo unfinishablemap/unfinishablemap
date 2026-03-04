@@ -35,7 +35,7 @@ None. The article is factually sound, internally consistent, and meets all struc
 
 - **Schizophrenia claim lacked citation**: Added Fuchs (2007) and Vogeley & Kupke (2007) as references for temporal disintegration in schizophrenia.
 
-- **Links to archived articles**: `[[specious-present]]` and `[[duration]]` pointed to coalesced/archived content. Resolution: Updated inline links to point to `[[temporal-consciousness]]` and updated frontmatter concept links.
+- **Links to archived articles**: `[[temporal-consciousness]]` and `[[temporal-consciousness]]` pointed to coalesced/archived content. Resolution: Updated inline links to point to `[[temporal-consciousness]]` and updated frontmatter concept links.
 
 ### Low Issues Found
 
@@ -80,7 +80,7 @@ None. The article is factually sound, internally consistent, and meets all struc
 
 ### Cross-links Added
 
-- [[temporal-consciousness]] — replaced archived [[specious-present]] link
+- [[temporal-consciousness]] — replaced archived [[temporal-consciousness]] link
 - [[consciousness-and-temporal-asymmetry]] — felt asymmetry between past and future
 - [[stapp-quantum-mind]] — quantum Zeno mechanism for consciousness-brain interaction
 - [[phenomenology-of-choice]] — deliberation presupposes temporal unity

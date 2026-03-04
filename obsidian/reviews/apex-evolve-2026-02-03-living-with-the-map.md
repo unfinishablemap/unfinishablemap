@@ -100,4 +100,4 @@ Four sources modified after last synthesis:
 ## Frontmatter Updates
 - `ai_modified`: 2026-02-03T05:43:00+00:00
 - `apex_last_synthesis`: 2026-02-03T05:43:00+00:00
-- Added to concepts: `[[process-philosophy]]`, `[[duration]]`
+- Added to concepts: `[[process-philosophy]]`, `[[temporal-consciousness]]`

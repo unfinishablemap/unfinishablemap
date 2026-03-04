@@ -68,7 +68,7 @@ last_curated: null
 - [[agent-causation#Creative Generation: Beyond Pure Selection]] — in neural correlates section
 - [[mysterianism]] — in Relation to Site Perspective section
 - [[neurophenomenology]] — in Further Reading
-- [[duration]] link enhanced with text about quantum collapse connection
+- [[temporal-consciousness]] link enhanced with text about quantum collapse connection
 
 ### Effective Patterns Preserved
 - Front-loaded key claim in opening summary (survives truncation)

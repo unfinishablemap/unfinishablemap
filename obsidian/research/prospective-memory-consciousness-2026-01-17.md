@@ -12,7 +12,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[autonoetic-consciousness]]"
   - "[[working-memory]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100

@@ -27,7 +27,7 @@ concepts:
   - "[[language-thought-boundary]]"
   - "[[working-memory]]"
   - "[[temporal-structure-of-understanding]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
   - "[[consciousness-and-semantic-understanding]]"
 related_articles:
   - "[[tenets]]"

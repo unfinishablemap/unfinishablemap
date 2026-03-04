@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[panpsychism]]"
   - "[[emergence]]"
   - "[[unity-of-consciousness]]"
@@ -32,7 +32,7 @@ last_deep_review: 2026-02-26T19:46:00+00:00
 
 Process philosophy holds that reality is fundamentally dynamic—constituted by events, processes, and becoming rather than static substances or objects. Where traditional metaphysics asks "What things exist?", process philosophy asks "What is happening?" The shift matters for consciousness studies: if experience is intrinsically temporal and flowing, perhaps the universe is too.
 
-Alfred North Whitehead developed the most systematic process metaphysics in *Process and Reality* (1929). Henri Bergson anticipated key themes with his concept of [[duration|durée]]. Together they offer a framework where consciousness isn't anomalous—an experiential spark in an inert universe—but exemplary of reality's fundamental character.
+Alfred North Whitehead developed the most systematic process metaphysics in *Process and Reality* (1929). Henri Bergson anticipated key themes with his concept of [[temporal-consciousness|durée]]. Together they offer a framework where consciousness isn't anomalous—an experiential spark in an inert universe—but exemplary of reality's fundamental character.
 
 ## Core Claims
 
@@ -58,7 +58,7 @@ This rhythm of becoming-perishing-becoming is creativity itself. Whitehead calls
 
 ## Bergson and Duration
 
-Henri Bergson's philosophy of [[duration]] shares process philosophy's rejection of static metaphysics. His *durée* names the qualitative, interpenetrating flow of lived time—fundamentally different from the spatialized time of physics where moments are discrete points on a line.
+Henri Bergson's philosophy of [[temporal-consciousness]] shares process philosophy's rejection of static metaphysics. His *durée* names the qualitative, interpenetrating flow of lived time—fundamentally different from the spatialized time of physics where moments are discrete points on a line.
 
 Key parallels with Whitehead:
 
@@ -172,7 +172,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [[process-haecceitism]] — How haecceity applies to processes rather than substances
 - [[prehension]] — Whitehead's concept of how each moment grasps its predecessors
 - [[subjective-aim]] — Whitehead's goal-directedness in actual occasions
-- [[duration]] — Bergson's durée and its connection to Whiteheadian process
+- [[temporal-consciousness]] — Bergson's durée and its connection to Whiteheadian process
 - [[bergson-and-duration]] — Broader exploration of Bergson's temporal philosophy
 - [[panpsychism]] — The view that experience is ubiquitous; process philosophy's natural ally
 - [[combination-problem]] — The central challenge for panpsychist and process approaches

@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-21
-**Article**: [[duration|Duration (Durée)]]
+**Article**: [[temporal-consciousness|Duration (Durée)]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -86,7 +86,7 @@ last_curated: null
 - [[haecceity]] - Thisness grounding temporal identity
 - [[decoherence]] - Quantum challenge to consciousness-collapse theories
 - [[mental-effort]] - Quantum Zeno mechanism
-- [[specious-present]] - Experienced duration of present moment
+- [[temporal-consciousness]] - Experienced duration of present moment
 - [[philosophy-of-time]] - A-theory, B-theory, growing block
 - [[agent-causation]] - The self as originator of action in durée
 

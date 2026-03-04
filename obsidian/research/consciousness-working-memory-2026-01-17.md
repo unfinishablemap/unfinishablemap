@@ -12,7 +12,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[temporal-consciousness]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
   - "[[global-workspace-theory]]"
 related_articles:
   - "[[tenets]]"

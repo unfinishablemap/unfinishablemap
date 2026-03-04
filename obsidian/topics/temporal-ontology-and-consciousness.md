@@ -12,11 +12,11 @@ topics:
 concepts:
   - "[[philosophy-of-time]]"
   - "[[temporal-consciousness]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[collapse-and-time]]"
   - "[[process-philosophy]]"
   - "[[concepts/functionalism]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
   - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
@@ -55,7 +55,7 @@ These positions are more sophisticated than crude illusionism, and the Map takes
 
 The most natural pairing remains eternalism with [[concepts/functionalism|functionalism]] or [[illusionism|illusionism]]. If consciousness is functional—if what matters is the computational pattern, not the substrate—then temporal experience is whatever the neural/computational pattern produces, and its accuracy about time's nature is irrelevant. Illusionism goes further: the seeming of temporal flow is a representational artefact, and there is nothing it is like beyond the functional state that misrepresents stasis as passage.
 
-This pairing is coherent but costly. The cost is Bergson's [[duration|durée]]—the qualitative, interpenetrating, irreducible flow of lived time. If temporal experience is illusory or merely functional, durée is an error. The melody you hear as unified flow is really a sequence of discrete states, each statically existing at its spacetime location, with "flow" injected by the brain's representational machinery. Every moment of experienced passage is a kind of mistake.
+This pairing is coherent but costly. The cost is Bergson's [[temporal-consciousness|durée]]—the qualitative, interpenetrating, irreducible flow of lived time. If temporal experience is illusory or merely functional, durée is an error. The melody you hear as unified flow is really a sequence of discrete states, each statically existing at its spacetime location, with "flow" injected by the brain's representational machinery. Every moment of experienced passage is a kind of mistake.
 
 The Map regards this cost as too high. Temporal phenomenology is among the most robust features of conscious experience. Building a metaphysics that begins by declaring this phenomenology illusory is like building an epistemology that begins by declaring perception unreliable—technically possible, but it undermines the evidence base for the theory itself.
 
@@ -65,7 +65,7 @@ Presentism takes temporal experience at face value: only the present is real, an
 
 If only the present exists, causation becomes puzzling. Causes precede effects, but on strict presentism the cause no longer exists when the effect occurs. The past exerts no influence because it isn't there. This is already problematic for physics, but it's devastating for consciousness.
 
-Conscious experience depends on temporal integration. The [[specious-present|specious present]]—the experienced duration within which we hear melodies and understand sentences—requires the just-past to be retained within the present. Husserl's retention structure preserves the past note while the current note sounds. But if the past literally doesn't exist, what is being retained? Retention becomes a representation of nothing.
+Conscious experience depends on temporal integration. The [[temporal-consciousness|specious present]]—the experienced duration within which we hear melodies and understand sentences—requires the just-past to be retained within the present. Husserl's retention structure preserves the past note while the current note sounds. But if the past literally doesn't exist, what is being retained? Retention becomes a representation of nothing.
 
 Presentism pairs naturally with epiphenomenalism or with views that treat consciousness as present-moment awareness without causal depth. If consciousness is exhausted by the instantaneous present, its temporal richness must be reconstructive—memory representations masquerading as retained experience. The past note isn't echoing in the present; the brain is creating a present-moment representation *as if* it were echoing. This collapses the distinction between genuine temporal experience and a snapshot that contains the illusion of duration.
 

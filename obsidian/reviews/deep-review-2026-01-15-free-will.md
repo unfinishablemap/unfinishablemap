@@ -81,7 +81,7 @@ None. Previous review addressed major issues (decoherence, compatibilism treatme
 
 The article now comprehensively links to all relevant site content:
 - [[agent-causation]], [[libet-experiments]], [[retrocausality]], [[interactionist-dualism]]
-- [[mental-effort]], [[duration]], [[quantum-consciousness]]
+- [[mental-effort]], [[temporal-consciousness]], [[quantum-consciousness]]
 - [[concepts/epiphenomenalism]], [[illusionism]], [[personal-identity]]
 - [[qualia]], [[tenets]]
 

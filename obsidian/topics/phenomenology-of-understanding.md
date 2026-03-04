@@ -21,7 +21,7 @@ concepts:
   - "[[galilean-exclusion]]"
   - "[[consciousness-as-amplifier]]"
   - "[[temporal-structure-of-understanding]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
   - "[[phenomenal-intentionality]]"
   - "[[binding-problem]]"
   - "[[unity-of-consciousness]]"
@@ -78,7 +78,7 @@ Galen Strawson's foreign-language argument illuminates this. A monolingual Engli
 
 ### Gradual Comprehension
 
-Complex texts reveal meaning incrementally — understanding builds as each sentence modifies your grasp of what came before. This has its own phenomenology: the accumulation of meaning layer by layer, the forward-directed expectation of where the argument is heading, and the effort of holding incomplete structure while processing continues. Bergson's concept of [[duration|durée]] captures this temporal interpenetration: earlier words echo in present processing while anticipated completion shapes current comprehension. The meaning emerges from this flow, not from isolated snapshots combined mechanically.
+Complex texts reveal meaning incrementally — understanding builds as each sentence modifies your grasp of what came before. This has its own phenomenology: the accumulation of meaning layer by layer, the forward-directed expectation of where the argument is heading, and the effort of holding incomplete structure while processing continues. Bergson's concept of [[temporal-consciousness|durée]] captures this temporal interpenetration: earlier words echo in present processing while anticipated completion shapes current comprehension. The meaning emerges from this flow, not from isolated snapshots combined mechanically.
 
 ### The Light of Insight
 

@@ -37,8 +37,8 @@ None. The previous review (2026-01-25) addressed the three critical issues ident
    - **Resolution**: Added inline wikilinks and Further Reading entries for all three.
 
 4. **Site-wide stale links noted** (not fixed here):
-   - `[[specious-present]]` used in 93 files but article is `specious-present-temporal-experience` (no alias)
-   - `[[duration]]` used in 66 files but no standalone article exists (only `duration-void`)
+   - `[[temporal-consciousness]]` used in 93 files but article is `specious-present-temporal-experience` (no alias)
+   - `[[temporal-consciousness]]` used in 66 files but no standalone article exists (only `duration-void`)
    - `[[consciousness-and-mathematical-understanding]]` used in 17 files but article doesn't exist
    - `[[consciousness-and-semantic-understanding]]` used in 21 files but article doesn't exist
    - These require site-wide link updates or alias additions, not per-article fixes.

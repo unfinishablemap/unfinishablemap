@@ -17,7 +17,7 @@ concepts:
   - "[[buddhism-and-dualism]]"
   - "[[intentionality]]"
   - "[[qualia]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[mysterianism]]"
   - "[[self-and-consciousness]]"
@@ -27,7 +27,7 @@ concepts:
   - "[[eastern-philosophy-consciousness]]"
   - "[[illusionism]]"
   - "[[existentialism]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
   - "[[pre-conceptual-knowing]]"
   - "[[attention-as-interface]]"
   - "[[intuitive-dualism]]"
@@ -78,7 +78,7 @@ Husserl's analysis of temporal experience reveals consciousness's synthetic acti
 
 Physical time is a sequence of instants. Experienced time is structured by meaning, anticipation, and memory interpenetrating in the living present. The "specious present" extends beyond the mathematical instant.
 
-This analysis connects to the Map's [[temporal-consciousness]] and [[duration]] articles. Bergson's *durée* and Husserl's time-consciousness converge: experienced time cannot be reconstructed from sequences of instantaneous states. Time as lived differs from time as measured.
+This analysis connects to the Map's [[temporal-consciousness]] and [[temporal-consciousness]] articles. Bergson's *durée* and Husserl's time-consciousness converge: experienced time cannot be reconstructed from sequences of instantaneous states. Time as lived differs from time as measured.
 
 ## Merleau-Ponty and the Body
 
@@ -166,7 +166,7 @@ Phenomenology supports all five of the Map's foundational commitments:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Phenomenology reveals consciousness as active, not passive. Husserl's analyses show how consciousness constitutes meaningful objects through synthetic activity. Merleau-Ponty's motor intentionality shows consciousness shaping action. The phenomenology of [[attention-as-interface|voluntary attention]]—the felt experience of directing awareness—provides first-person evidence for the causal efficacy of mind. If consciousness merely accompanied physical processes without influencing them, these constitutive and directive features would be inexplicable.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Phenomenology's disclosure of temporal microstructure connects to the Map's quantum framework. Husserl's analysis of the specious present—the extended "now" with retention and protention—addresses the same timescale at which consciousness interfaces with neural decision processes. Research on [[quantum-neural-timing-constraints|quantum neural timing]] shows that motor commitment (~280ms) and willed attention deployment (~300ms) operate within the phenomenologically disclosed specious present window. The [[specious-present|specious present]] debate between extensionalism and retentionalism concerns whether experience is genuinely temporally extended; the Quantum Zeno mechanism operates through repeated observations at precisely these neural timescales, suggesting that the experienced temporal thickness of the present may reflect the interval over which consciousness exercises its selection function.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Phenomenology's disclosure of temporal microstructure connects to the Map's quantum framework. Husserl's analysis of the specious present—the extended "now" with retention and protention—addresses the same timescale at which consciousness interfaces with neural decision processes. Research on [[quantum-neural-timing-constraints|quantum neural timing]] shows that motor commitment (~280ms) and willed attention deployment (~300ms) operate within the phenomenologically disclosed specious present window. The [[temporal-consciousness|specious present]] debate between extensionalism and retentionalism concerns whether experience is genuinely temporally extended; the Quantum Zeno mechanism operates through repeated observations at precisely these neural timescales, suggesting that the experienced temporal thickness of the present may reflect the interval over which consciousness exercises its selection function.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Phenomenology's emphasis on indexical identity supports the rejection of Many-Worlds. The phenomenological reduction reveals a first-person perspective that is irreducibly *this* perspective—not one among countless copies in branching universes. The question "why am I *this* observer rather than another?" is not dissolved by phenomenological investigation; it is sharpened. The minimal self disclosed by the epoché is singular, not multiplied. This makes the Many-Worlds interpretation's evasion of selection through multiplication philosophically suspect: phenomenology reveals exactly the kind of indexical fact that MWI cannot accommodate.
 

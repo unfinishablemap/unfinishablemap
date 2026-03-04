@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-27
-**Article**: [[duration|Duration (Durée)]]
+**Article**: [[temporal-consciousness|Duration (Durée)]]
 **Previous review**: [[deep-review-2026-01-21-duration|2026-01-21]]
 **Cross-review context**: process-philosophy.md insights
 

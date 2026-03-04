@@ -106,7 +106,7 @@ The triad of consciousness, collapse, and time's arrow engages all five tenets:
 - [[quantum-consciousness]] — Mechanisms for consciousness-collapse interaction
 - [[philosophy-of-time]] — Presentism, eternalism, growing block, and temporal ontology
 - [[temporal-consciousness]] — The phenomenology of temporal experience
-- [[specious-present]] — The experienced duration of "now" and its connection to collapse timing
+- [[temporal-consciousness]] — The experienced duration of "now" and its connection to collapse timing
 - [[prebiotic-collapse]] — What collapsed wavefunctions before conscious observers?
 
 ## References

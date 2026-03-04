@@ -8,7 +8,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[intentionality]]"
   - "[[qualia]]"
@@ -172,7 +172,7 @@ Long-term meditators report refined access to:
 - Micro-moments of experience (Buddhist khanika/momentariness)
 - The arising and passing of mental events in real-time
 
-This supports site's [[temporal-consciousness]] and [[duration]] articles: experienced time has intricate structure invisible to third-person methods.
+This supports site's [[temporal-consciousness]] and [[temporal-consciousness]] articles: experienced time has intricate structure invisible to third-person methods.
 
 ### The Constructed Self
 Advanced meditation reveals:

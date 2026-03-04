@@ -15,7 +15,7 @@ concepts:
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19

@@ -113,7 +113,7 @@ The [[meaning-of-life]] article properly distinguishes what we can know from wha
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.
 
 #### Bergson and the Duration of Consciousness
-- **Builds on**: [[duration]], [[temporal-consciousness]], [[topics/free-will]]
+- **Builds on**: [[temporal-consciousness]], [[temporal-consciousness]], [[topics/free-will]]
 - **Would address**: Bergson is cited but deserves more systematic treatment. His durée concept—lived time as opposed to spatialized clock time—provides crucial resources for understanding why consciousness resists quantification.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through the argument that consciousness has temporal structure physics cannot capture.

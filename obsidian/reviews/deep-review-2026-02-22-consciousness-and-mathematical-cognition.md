@@ -23,7 +23,7 @@ last_curated: null
 
 ### Critical Issues Found
 - **Misattribution to Strawson**: Article attributed "cognitive phenomenology proper" to Galen Strawson; his actual term is "understanding-experience." Fixed by correcting the attribution.
-- **Broken wikilinks**: `[[duration]]` and `[[metarepresentation]]` had no target files. Fixed: removed `[[duration]]` from Further Reading and frontmatter concepts; replaced `[[metarepresentation]]` with plain text in body and removed from frontmatter concepts.
+- **Broken wikilinks**: `[[temporal-consciousness]]` and `[[metarepresentation]]` had no target files. Fixed: removed `[[temporal-consciousness]]` from Further Reading and frontmatter concepts; replaced `[[metarepresentation]]` with plain text in body and removed from frontmatter concepts.
 
 ### Medium Issues Found
 - **Unsupported jhāna claim**: "Advanced practitioners report that in subtler jhānas, logical relationships become unusually vivid" had no scholarly support. Traditional sources actually say discursive thought is *eliminated* in higher jhānas. Fixed: rewrote to accurately present prajñā parallel while qualifying that its traditional context is insight into impermanence, not mathematics.

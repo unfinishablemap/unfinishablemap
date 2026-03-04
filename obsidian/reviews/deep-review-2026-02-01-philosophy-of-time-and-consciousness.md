@@ -68,7 +68,7 @@ None. The article has no factual errors, attribution problems, or missing requir
 
 None needed. The article already has extensive cross-linking to related Map content:
 - [[temporal-consciousness]], [[philosophy-of-time]], [[time-collapse-and-agency]]
-- [[temporal-structure-of-consciousness]], [[duration]], [[specious-present]]
+- [[temporal-structure-of-consciousness]], [[temporal-consciousness]], [[temporal-consciousness]]
 - [[collapse-and-time]], [[topics/free-will]], [[hard-problem-of-consciousness]]
 
 ## Remaining Items

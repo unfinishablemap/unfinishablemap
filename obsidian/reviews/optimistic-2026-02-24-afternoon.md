@@ -137,13 +137,13 @@ The Map shows appropriate epistemic humility throughout. The consistent "What Wo
 
 #### Duration (Bergsonian concept page)
 - **Builds on**: bergson-and-duration.md, phenomenology-of-musical-understanding.md, time-consciousness-growing-block.md
-- **Would address**: 28 broken wikilinks referencing `[[duration]]`
+- **Would address**: 28 broken wikilinks referencing `[[temporal-consciousness]]`
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports the temporal consciousness framework across multiple tenets
 
 #### Specious Present (concept page)
 - **Builds on**: time-consciousness-growing-block.md, phenomenology-of-time.md
-- **Would address**: 25 broken wikilinks referencing `[[specious-present]]`
+- **Would address**: 25 broken wikilinks referencing `[[temporal-consciousness]]`
 - **Estimated scope**: Short article
 - **Tenet alignment**: Temporal consciousness framework
 

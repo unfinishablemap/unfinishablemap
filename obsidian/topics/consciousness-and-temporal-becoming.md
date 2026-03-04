@@ -20,13 +20,13 @@ concepts:
   - "[[process-philosophy]]"
   - "[[prehension]]"
   - "[[protention]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[consciousness-and-creativity]]"
   - "[[attention-as-interface]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[agent-causation]]"
   - "[[mental-causation]]"
-  - "[[specious-present]]"
+  - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-ontology-and-consciousness]]"
@@ -104,7 +104,7 @@ Consciousness doesn't merely register that time passes. It experiences a structu
 
 ## Durée: The Medium of Temporal Becoming
 
-Bergson's concept of [[duration|durée]] captures the phenomenological side of temporal becoming. Lived time is not a sequence of static instants but a qualitative flow where the past permeates the present and the present reaches toward the future. This interpenetration—each moment coloured by what preceded it and what it anticipates—is what it is like to participate in irreversible becoming from within.
+Bergson's concept of [[temporal-consciousness|durée]] captures the phenomenological side of temporal becoming. Lived time is not a sequence of static instants but a qualitative flow where the past permeates the present and the present reaches toward the future. This interpenetration—each moment coloured by what preceded it and what it anticipates—is what it is like to participate in irreversible becoming from within.
 
 Three features of durée make it not merely a temporal container but a generative medium:
 
@@ -132,7 +132,7 @@ Three features of actual creativity resist reduction to timeless recombination.
 
 ## The Creative Specious Present
 
-The [[specious-present|specious present]]—the experienced duration of roughly 100–750ms within which succession appears unified—provides the temporal workspace for creative combination. Within its window, consciousness holds multiple elements in simultaneous awareness while maintaining their temporal order. This simultaneous-yet-ordered holding is what creative synthesis requires: seeing elements together while recognising their distinctness.
+The [[temporal-consciousness|specious present]]—the experienced duration of roughly 100–750ms within which succession appears unified—provides the temporal workspace for creative combination. Within its window, consciousness holds multiple elements in simultaneous awareness while maintaining their temporal order. This simultaneous-yet-ordered holding is what creative synthesis requires: seeing elements together while recognising their distinctness.
 
 The "aha!" moment illustrates this. Neuroscience research shows that insight is preceded by alpha bursts and marked by gamma spikes. But the moment of illumination—the felt transition from searching to finding—occurs within the specious present. Multiple elements click together *simultaneously* while retaining their individual identities.
 
@@ -195,7 +195,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 - [[non-temporal-consciousness]] — Whether the deepest level of mind transcends time
 - [[growing-block-universe-and-consciousness]] — The growing block as temporal metaphysics
 - [[collapse-and-time]] — How collapse introduces irreversibility
-- [[duration]] — Bergson's qualitative lived time
+- [[temporal-consciousness]] — Bergson's qualitative lived time
 - [[phenomenology-of-anticipation]] — The phenomenological structure of future-directed experience
 - [[phenomenology-of-memory-and-the-self]] — How remembering constitutes the temporally extended self
 - [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
@@ -205,7 +205,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 - [[incubation-effect-and-unconscious-processing]] — Why incubation depends on prior conscious engagement
 - [[consciousness-and-creativity]] — The generation-selection synthesis in conceptual overview
 - [[process-philosophy]] — Whitehead's process metaphysics and its convergence with Bergson
-- [[specious-present]] — The experienced duration of the present moment
+- [[temporal-consciousness]] — The experienced duration of the present moment
 - [[attention-as-interface]] — Attention's role mediating consciousness and matter
 
 ## References

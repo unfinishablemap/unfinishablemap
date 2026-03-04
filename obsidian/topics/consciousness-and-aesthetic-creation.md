@@ -17,7 +17,7 @@ concepts:
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[mental-imagery]]"
   - "[[agent-causation]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[metarepresentation]]"
   - "[[philosophical-zombies]]"
   - "[[bidirectional-interaction]]"
@@ -88,7 +88,7 @@ This bridging act presupposes that the creator has access to both sides. The pai
 
 ## Aesthetic Creation and Temporal Consciousness
 
-Aesthetic creation unfolds in [[duration|durée]]—Bergson's lived time where past and future interpenetrate in the present moment. This temporal dimension distinguishes creative making from mechanical production.
+Aesthetic creation unfolds in [[temporal-consciousness|durée]]—Bergson's lived time where past and future interpenetrate in the present moment. This temporal dimension distinguishes creative making from mechanical production.
 
 ### Accumulative Meaning
 
@@ -150,7 +150,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 - [[aesthetic-void]] — Cognitive limits revealed by profound aesthetic encounter
 - [[creativity-void]] — The inaccessibility of creative origins
 - [[consciousness-and-creativity]] — The concept page on consciousness and creativity
-- [[duration]] — Bergson's lived time as creative becoming
+- [[temporal-consciousness]] — Bergson's lived time as creative becoming
 - [[mental-imagery]] — Phenomenal imagination and its role in creative exploration
 
 ## References

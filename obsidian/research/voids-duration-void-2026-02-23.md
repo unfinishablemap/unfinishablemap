@@ -11,7 +11,7 @@ topics:
 concepts:
   - "[[phenomenology]]"
   - "[[philosophy-of-time]]"
-  - "[[duration]]"
+  - "[[temporal-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[introspection]]"
 related_articles:
