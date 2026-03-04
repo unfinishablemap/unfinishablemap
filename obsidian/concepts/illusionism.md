@@ -164,7 +164,7 @@ Illusionism directly challenges the Map's [[tenets]]:
 
 **[[tenets#^bidirectional|Bidirectional Interaction]]**: The Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [[mental-effort]] model—would be mere appearance.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Illusionism might seem parsimonious—no new ontological categories needed. But it achieves only apparent simplicity by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Illusionism might seem parsimonious—no new ontological categories needed. But it achieves only [[epistemological-limits-of-occams-razor|apparent simplicity]] by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
 
 The persistence of the illusion problem suggests illusionism doesn't escape the hard problem but relocates it. Something about introspective access to our mental states resists deflationary analysis. Either consciousness is real, or its "illusion" is equally hard to explain in physical terms.
 

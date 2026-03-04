@@ -172,7 +172,7 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 **Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
 
-**Occam's Razor Has Limits** explains why materialism's apparent simplicity is misleading. Materialism seems simpler because it ignores what it cannot explain. True simplicity is not achieved by denying recalcitrant phenomena.
+**Occam's Razor Has Limits** explains why materialism's apparent simplicity is misleading. The [[epistemological-limits-of-occams-razor|full case against parsimony]] shows that the precondition for applying Occam's Razor—theories of equal explanatory power—is unmet in the consciousness debate, and that the justifications for scientific parsimony don't transfer to metaphysical theory choice. Materialism seems simpler because it ignores what it cannot explain. True simplicity is not achieved by denying recalcitrant phenomena.
 
 **No Many Worlds** matters here because the [[concepts/many-worlds|many-worlds interpretation]] of quantum mechanics is often presented as supporting materialism by eliminating the need for consciousness at collapse. If all outcomes occur in branching universes, no selection is needed—and thus no role for consciousness. But this "solution" merely relocates the hard problem: why am I experiencing *this* branch and not another? The indexical question about which branch I find myself in is as mysterious as the original question about why there is experience at all. Materialism gains nothing by trading the hard problem for the indexical problem.
 

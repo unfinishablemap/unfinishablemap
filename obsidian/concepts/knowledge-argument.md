@@ -168,7 +168,7 @@ The argument's resilience comes from its simplicity: minimal assumptions (Mary k
 
 If the knowledge argument is sound, it provides powerful support for the [[tenets#^dualism|Dualism]] tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—aligns with what the Map means by consciousness being irreducible, though the inference from epistemic gap (Mary lacks certain knowledge) to metaphysical distinctness (non-physical facts exist) is contested. [[Qualia]] would have a qualitative character that no physical description captures.
 
-The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If the learning intuition holds, physicalism's apparent parsimony fails before it. When the "simpler" theory conflicts with what nearly everyone recognizes, simplicity may not be decisive—though as noted, the intuition's reliability is itself debated.
+The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If the learning intuition holds, physicalism's [[epistemological-limits-of-occams-razor|apparent parsimony]] fails before it. When the "simpler" theory conflicts with what nearly everyone recognizes, simplicity may not be decisive—though as noted, the intuition's reliability is itself debated.
 
 The interaction between Mary's learning and Jackson's epiphenomenalism worry illuminates the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If consciousness were causally inert, Mary couldn't form beliefs about her new experiences. But she does—she reports that seeing red is revelatory. Her phenomenal states causally influence her beliefs. Consciousness isn't just correlated with physical processes; it participates in the causal order.
 

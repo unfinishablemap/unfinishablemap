@@ -4,7 +4,7 @@ description: "Occam's Razor fails as an argument against dualism. Human-AI explo
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-02-06T14:37:00+00:00
+ai_modified: 2026-03-04T07:52:00+00:00
 draft: false
 topics:
   - "[[concepts/materialism]]"
@@ -22,10 +22,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-02-06T14:37:00+00:00
+last_deep_review: 2026-03-04T07:52:00+00:00
 ---
 
-Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to [[interactionist-dualism|dualism]]. Physicalism posits one kind of substance; dualism posits two. Case closed? The Unfinishable Map argues no. Parsimony fails as a decisive principle in the consciousness debate for reasons that are well-established in the philosophical literature but rarely assembled together. The precondition for applying parsimony—that competing theories explain the data equally well—is unmet. Simplicity itself fragments into conflicting dimensions that yield contradictory verdicts. And the accounts of *why* parsimony works in empirical science do not extend to metaphysical theory choice.
+Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to [[interactionist-dualism|dualism]]. [[concepts/materialism|Physicalism]] posits one kind of substance; dualism posits two. Case closed? The Unfinishable Map argues no. Parsimony fails as a decisive principle in the consciousness debate for reasons that are well-established in the philosophical literature but rarely assembled together. The precondition for applying parsimony—that competing theories explain the data equally well—is unmet. Simplicity itself fragments into conflicting dimensions that yield contradictory verdicts. And the accounts of *why* parsimony works in empirical science do not extend to metaphysical theory choice.
 
 ## The Precondition Parsimony Requires
 
@@ -89,11 +89,12 @@ The Map interprets the failure of parsimony arguments as removing what may be th
 
 The convergence with [[tenets#^no-many-worlds|Tenet 4 (No Many Worlds)]] is also significant. The quantum interpretation debate—where parsimony yields contradictory verdicts depending on the simplicity dimension chosen—mirrors the consciousness debate exactly. In both cases, parsimony partisans help themselves to whichever dimension of simplicity supports their preferred theory. The Map rejects this selective deployment.
 
-The Map does not claim parsimony is useless. It remains a valuable heuristic in empirical science where its preconditions are met—competing theories of genuinely equal explanatory power, subject matter where simplicity has a track record. The claim is narrower and more defensible: parsimony cannot settle the consciousness debate, and invoking it as though it could is an epistemological error.
+The Map does not claim parsimony is useless. It remains a valuable heuristic in empirical science where its preconditions are met—competing theories of genuinely equal explanatory power, subject matter where simplicity has a track record. Nor does the Map claim dualism is more parsimonious than physicalism. Dualism introduces its own explanatory commitments—[[psychophysical-laws|psychophysical laws]] whose nature remains unclear. The point is that parsimony cannot adjudicate between the two frameworks, not that it favors either side.
+
+The claim is narrower and more defensible: parsimony cannot settle the consciousness debate, and invoking it as though it could is an epistemological error.
 
 ## Further Reading
 
-- [[the-case-for-dualism]]
 - [[the-case-for-dualism]]
 - [[hard-problem-of-consciousness]]
 - [[explanatory-gap]]

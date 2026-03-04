@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate epistemological-limits-of-occams-razor.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound wikilinks from any content article. Arguments article (created 2026-02-06) directly supporting Tenet 5 (Occam's Razor Has Limits) — the Map's least-covered foundational commitment. Add cross-references from occams-razor.md (if it exists), tenets.md, arguments-for-dualism.md, and philosophy-of-science-under-dualism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -529,6 +523,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate epistemological-limits-of-occams-razor.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks from any content article. Arguments article (created 2026-02-06) directly supporting Tenet 5 (Occam's Razor Has Limits) — the Map's least-covered foundational commitment. Add cross-references from occams-razor.md (if it exists), tenets.md, arguments-for-dualism.md, and philosophy-of-science-under-dualism.md.
+- **Output**: obsidian/arguments/epistemological-limits-of-occams-razor.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Update references to coalesced normative articles
 - **Type**: cross-review
