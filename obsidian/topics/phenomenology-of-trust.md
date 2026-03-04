@@ -4,14 +4,15 @@ description: "Trust has a distinctive felt character that information processing
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
-last_deep_review: 2026-02-18T05:47:00+00:00
+ai_modified: 2026-03-04T08:23:00+00:00
+last_deep_review: 2026-03-04T08:23:00+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
   - "[[consciousness-and-interpersonal-understanding]]"
   - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
+  - "[[consciousness-and-testimony]]"
 concepts:
   - "[[intersubjectivity]]"
   - "[[problem-of-other-minds]]"
@@ -40,7 +41,7 @@ Trust involves a distinctive phenomenal state — a felt openness toward another
 
 ## The Felt Character of Trust
 
-Trust has a phenomenology — a what-it-is-like — that resists capture in purely behavioural or computational terms.
+Trust has a phenomenology — a what-it-is-like — that resists capture in purely behavioural or computational terms. Annette Baier's influential analysis (1986) identified trust as accepted vulnerability to another's possible ill will — a characterisation that foregrounds the felt dimension. Karen Jones (1996) went further, arguing that trust is an affective attitude of optimism about the other's goodwill, irreducible to a cognitive assessment of reliability. Both accounts point toward what the Map emphasises: trust involves a distinctive conscious orientation toward another subject, not merely a calibrated expectation.
 
 Consider the difference between relying on a bridge and trusting a friend. Both involve acting on the expectation that something will hold. But relying on the bridge involves no felt vulnerability toward the bridge, no sense that the bridge might choose to betray you, no gratitude when it bears your weight. Trusting a friend involves all of these. The phenomenal difference is not a matter of degree but of kind: trust toward a conscious being has an interpersonal texture absent from reliance on a mechanism.
 
@@ -123,3 +124,11 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 - [[emotional-consciousness]]
 - [[machine-consciousness]]
 - [[phenomenology-of-moral-experience]]
+- [[consciousness-and-testimony]]
+
+## References
+
+1. Baier, A. (1986). "Trust and Antitrust." *Ethics*, 96(2), 231-260.
+1. Jones, K. (1996). "Trust as an Affective Attitude." *Ethics*, 107(1), 4-25.
+1. Holton, R. (1994). "Deciding to Trust, Coming to Believe." *Australasian Journal of Philosophy*, 72(1), 63-76.
+1. Kahneman, D. & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." *Econometrica*, 47(2), 263-292.

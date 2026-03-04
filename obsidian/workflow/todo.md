@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-02
 
-### P2: Integrate phenomenology-of-trust-and-testimony.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on the phenomenology of trust and testimony — relevant to the Map's treatment of first-person evidence and intersubjective knowledge. Add cross-references from phenomenology.md, introspection.md, social-construction-of-self-vs-phenomenal-self.md, and contemplative-epistemology.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-02
-
 ### P3: Deep review intentionality.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 31 days ago. The most-linked concept in the entire vault with 90 inbound links — stale quality here propagates broadly. Touches hard problem, qualia, phenomenology. Verify coherence, cross-references, and tenet alignment.
@@ -553,6 +547,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate phenomenology-of-trust-and-testimony.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-15) on the phenomenology of trust and testimony — relevant to the Map's treatment of first-person evidence and intersubjective knowledge. Add cross-references from phenomenology.md, introspection.md, social-construction-of-self-vs-phenomenal-self.md, and contemplative-epistemology.md.
+- **Output**: phenomenology-of-trust-and-testimony.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Integrate epistemological-limits-of-occams-razor.md into site navigation
 - **Type**: integrate-orphan

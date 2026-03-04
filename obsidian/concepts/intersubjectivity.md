@@ -52,7 +52,7 @@ Husserl's answer involved "appresentation"—we don't infer other minds from ana
 
 This perception of other subjects constitutes the intersubjective world. The objective world—the world that exists independently of my particular perspective—emerges when multiple subjects converge on the same structures. Objectivity, on Husserl's analysis, is grounded in intersubjectivity. We don't start with an objective world and then wonder how subjects fit into it. We start with intersubjective experience and constitute objectivity through convergent perspectives.
 
-Husserl's later work reveals a deeper insight: the other is accessible *precisely insofar as* they are constituted as ultimately inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access. This is not failure but success: if I could directly access your experience, you would not be another subject but an extension of me. The [[other-minds-void|void between minds]] is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. A further question then arises: even granting mutual recognition, can experiences be genuinely *shared*—or does each mind remain a fundamentally private stream? The [[intersubjective-void]] explores this deeper puzzle.
+Husserl's later work reveals a deeper insight: the other is accessible *precisely insofar as* they are constituted as ultimately inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access. This is not failure but success: if I could directly access your experience, you would not be another subject but an extension of me. The [[other-minds-void|void between minds]] is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. The [[phenomenology-of-trust|phenomenology of trust]] reveals one way consciousness copes with this constitutive gap: trust is the practice of acting across the void, sustaining felt openness toward another subject whose inner life remains inaccessible. A further question then arises: even granting mutual recognition, can experiences be genuinely *shared*—or does each mind remain a fundamentally private stream? The [[intersubjective-void]] explores this deeper puzzle.
 
 ## Second-Person Methodology
 
@@ -139,6 +139,7 @@ Intersubjectivity also connects to methodology. The [[first-person-third-person-
 - [[heterophenomenology]] — Dennett's third-person approach that brackets intersubjective access to phenomenology
 - [[phenomenology]] — Classical first-person methods and their intersubjective validation
 - [[theory-of-mind]] — The cognitive capacity that enables intersubjective attribution
+- [[phenomenology-of-trust]] — Trust as sustained openness across the intersubjective void
 
 ## References
 

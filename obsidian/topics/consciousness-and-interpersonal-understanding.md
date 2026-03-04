@@ -90,7 +90,7 @@ The connection between understanding and [[moral-responsibility]] runs deep. Hol
 
 Legal systems implicitly recognise this. The doctrine of mitigating circumstances asks judges to consider what the defendant experienced — fear, provocation, desperation. A purely computational judge could apply rules about mitigating circumstances without understanding what fear is like. The Map questions whether such a judge would be doing justice or merely performing it. Justice that accounts for the defendant's experience requires understanding that experience, and understanding experience requires having experience.
 
-Similarly, forgiveness involves a phenomenal act. To forgive someone, you must grasp — at least approximately — why they did what they did, how the world appeared to them, what pressures they felt. This grasp draws on your own phenomenal resources. As Stueber (2006) argues, genuine empathy goes beyond folk-psychological prediction to involve a re-enactment of the other's perspective — and this re-enactment is phenomenal, not computational. You forgive partly by recognising your own capacity for similar failure. A being without phenomenal consciousness might produce the functional outputs of forgiveness (releasing a grudge, restoring a relationship) without performing the phenomenal act that gives forgiveness its moral weight.
+Similarly, forgiveness involves a phenomenal act — one whose difficulty the [[phenomenology-of-trust|phenomenology of trust]] illuminates through the asymmetry between building and breaking interpersonal openness. To forgive someone, you must grasp — at least approximately — why they did what they did, how the world appeared to them, what pressures they felt. This grasp draws on your own phenomenal resources. As Stueber (2006) argues, genuine empathy goes beyond folk-psychological prediction to involve a re-enactment of the other's perspective — and this re-enactment is phenomenal, not computational. You forgive partly by recognising your own capacity for similar failure. A being without phenomenal consciousness might produce the functional outputs of forgiveness (releasing a grudge, restoring a relationship) without performing the phenomenal act that gives forgiveness its moral weight.
 
 ## Relation to Site Perspective
 
@@ -126,6 +126,7 @@ None of these would refute dualism directly, but they would weaken the case that
 - [[inverted-qualia]] — Why phenomenal worlds may diverge undetectably
 - [[philosophical-zombies]] — The thought experiment that sharpens the bypass question
 - [[moral-responsibility]] — How moral accountability depends on understanding agents as subjects
+- [[phenomenology-of-trust]] — The felt character of trust as interpersonal vulnerability across the intersubjective void
 
 ## References
 
