@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on quantum randomness in LLM token sampling
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-randomness-llm-token-sampling-2026-02-10.md. Examines whether quantum random number generators in LLM token sampling could constitute a channel for consciousness-like selection — a direct test case for the Map's minimal quantum interaction framework applied to AI systems. Target section: topics/ (3 slots remaining). Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-04
-
 ### P2: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
 - **Type**: cross-review
 - **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) synthesises Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. topics/dream-consciousness.md covers dream consciousness broadly and should cross-reference the new laboratory framing, experimental evidence, and implications for bidirectional interaction during sleep. Check for cross-links and argument reinforcement.
@@ -598,6 +592,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write article on quantum randomness in LLM token sampling
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-randomness-llm-token-sampling-2026-02-10.md. Examines whether quantum random number generators in LLM token sampling could constitute a channel for consciousness-like selection — a direct test case for the Map's minimal quantum interaction framework applied to AI systems. Target section: topics/ (3 slots remaining). Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: quantum randomness in LLM token sampling
 
 ### ✓ 2026-03-04: Cross-review non-temporal-consciousness.md considering fragmented-consciousness insights
 - **Type**: cross-review
