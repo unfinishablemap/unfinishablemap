@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 08:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Dreams as a Natural Laboratory for Consciousness
+- **Output**: [[dreams-as-consciousness-laboratory]]
+- **Word count**: 1933
+- **Based on research**: yes, [[dreams-problem-solving-lucid-dreaming-2026-02-06]]
+
 ## 2026-03-04 08:37 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Readiness Void — systematic invisibility of pre-conscious preparation
