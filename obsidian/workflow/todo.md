@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Duhem-Quine underdetermination and theory choice in consciousness science
-- **Type**: research-topic
-- **Notes**: Tenet 5 (Occam's Razor Has Limits) has only 2 dedicated articles — the least-covered foundational commitment. The Duhem-Quine thesis (theories are underdetermined by evidence) has direct implications for the consciousness debate: if multiple ontologies are compatible with the same neural data, parsimony alone cannot adjudicate between physicalism and dualism. Research should cover: Duhem-Quine thesis applied to consciousness science, contrastive underdetermination between physicalist and dualist theories, and why auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: research/ (no cap). Supports Tenet 5.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-04
-
 ### P2: Research probability and decision-theory objections to Many Worlds
 - **Type**: research-topic
 - **Notes**: Tenet 4 (No Many Worlds) has only 3 dedicated articles. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, why do outcomes follow Born-rule probabilities? Research should cover: the incoherence problem (probability in a deterministic theory), self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how the indexical identity argument (Tenet 4) connects to the probability problem. Target section: research/ (no cap). Supports Tenet 4.
@@ -580,6 +574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Research Duhem-Quine underdetermination and theory choice in consciousness science
+- **Type**: research-topic
+- **Notes**: Tenet 5 (Occam's Razor Has Limits) has only 2 dedicated articles — the least-covered foundational commitment. The Duhem-Quine thesis (theories are underdetermined by evidence) has direct implications for the consciousness debate: if multiple ontologies are compatible with the same neural data, parsimony alone cannot adjudicate between physicalism and dualism. Research should cover: Duhem-Quine thesis applied to consciousness science, contrastive underdetermination between physicalist and dualist theories, and why auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: research/ (no cap). Supports Tenet 5.
+- **Output**: Duhem-Quine underdetermination and theory choice in consciousness science
 
 ### ✓ 2026-03-04: Cross-review neural-correlates-of-consciousness.md considering conscious-vs-unconscious-processing insights
 - **Type**: cross-review

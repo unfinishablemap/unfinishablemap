@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 17:44 UTC - research-topic
+- **Status**: Success
+- **Topic**: Duhem-Quine underdetermination and theory choice in consciousness science
+- **Output**: [[duhem-quine-underdetermination-consciousness-2026-03-04]]
+- **Sources consulted**: 15
+
 ## 2026-03-04 17:30 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-in-simple-organisms]]
