@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review haecceity.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 30 days ago, at the staleness threshold. Second-most cross-referenced concept page with 268 inbound links. Haecceity (primitive thisness) is foundational to Tenet 4 (No Many Worlds) and the Map's treatment of indexical identity — the argument that personal identity cannot be captured by qualitative descriptions alone. Verify coherence, cross-references, and tenet alignment. Supports Tenet 4.
-- **Source**: staleness
-- **Generated**: 2026-03-04
-
 ### P2: Deep review phenomenology-of-choice.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. Third-most cross-referenced stale concept page with 134 inbound links. Covers the phenomenological character of choosing — the felt quality of deliberation, decision, and commitment. Directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of free will and agency. Verify coherence, cross-references, and tenet alignment.
@@ -597,6 +591,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Deep review haecceity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 30 days ago, at the staleness threshold. Second-most cross-referenced concept page with 268 inbound links. Haecceity (primitive thisness) is foundational to Tenet 4 (No Many Worlds) and the Map's treatment of indexical identity — the argument that personal identity cannot be captured by qualitative descriptions alone. Verify coherence, cross-references, and tenet alignment. Supports Tenet 4.
+- **Output**: obsidian/concepts/haecceity.md
 
 ### ✓ 2026-03-04: Deep review illusionism.md
 - **Type**: deep-review
