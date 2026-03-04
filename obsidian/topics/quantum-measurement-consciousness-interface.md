@@ -4,7 +4,7 @@ description: "The measurement problem and hard problem share a deep structure: b
 created: 2026-02-01
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T19:11:00+00:00
+ai_modified: 2026-03-04T16:07:00+00:00
 last_deep_review: 2026-02-05T19:11:00+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
-  - "[[measurement-problem-as-hard-problem]]"
+  - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -220,7 +220,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[conservation-laws-and-mind]] — Energy conservation and the causal closure loophole
 - [[causal-closure]], [[mental-causation]] — The causal closure argument
 - [[consciousness-and-agency]] — Apex synthesis of consciousness and causal efficacy
-- [[measurement-problem-as-hard-problem]] — The identity claim: the measurement problem is a species of hard problem
+- [[the-measurement-problem-as-philosophical-problem]] — The identity claim: the measurement problem is a species of hard problem
 - [[tenets]] — The Map's foundational commitments
 
 ## References

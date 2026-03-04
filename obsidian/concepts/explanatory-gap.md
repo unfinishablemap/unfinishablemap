@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-02T01:52:00+00:00
+ai_modified: 2026-03-04T16:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[concepts/materialism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[measurement-problem-as-hard-problem]]"
+  - "[[the-measurement-problem-as-philosophical-problem]]"
   - "[[explanatory-void]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
@@ -200,7 +200,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[integrated-information-theory]] — A theory attempting to bridge the gap
 - [[consciousness-and-the-ontology-of-dispositions]] — The dispositional version of the gap: no catalogue of causal roles entails qualitative character
 - [[tenets]] — How the Map's framework responds to the gap
-- [[measurement-problem-as-hard-problem]] — The argument that the measurement problem is an instance of the same explanatory gap
+- [[the-measurement-problem-as-philosophical-problem]] — The argument that the measurement problem is an instance of the same explanatory gap
 - [[explanatory-void]] — Why explanation cannot explain itself: the recursive opacity that compounds the gap
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — How the gap constrains what we can know about the consciousness-matter interface
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide as an informational framing of the gap

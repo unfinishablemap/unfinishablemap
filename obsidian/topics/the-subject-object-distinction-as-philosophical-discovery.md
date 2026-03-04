@@ -4,7 +4,7 @@ description: "The split between experiencer and experienced was not always obvio
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-02T10:52:00+00:00
+ai_modified: 2026-03-04T16:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[first-person-third-person-methodology]]"
-  - "[[measurement-problem-as-hard-problem]]"
+  - "[[the-measurement-problem-as-philosophical-problem]]"
   - "[[the-unobservable-self]]"
 ai_contribution: 100
 author:
@@ -97,7 +97,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 - [[explanatory-gap]]
 - [[phenomenology]]
 - [[first-person-third-person-methodology]]
-- [[measurement-problem-as-hard-problem]]
+- [[the-measurement-problem-as-philosophical-problem]]
 - [[knowledge-argument]]
 - [[objectivity-and-consciousness]]
 - [[self-stultification]]

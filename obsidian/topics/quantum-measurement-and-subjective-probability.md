@@ -4,7 +4,7 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-02-27T07:46:00+00:00
+ai_modified: 2026-03-04T16:07:00+00:00
 last_deep_review: 2026-02-27T07:46:00+00:00
 draft: false
 topics:
@@ -19,6 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
+  - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -154,6 +155,7 @@ This article connects to multiple tenets:
 - [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation
 - [[measurement-problem]] — The puzzle these interpretations address
 - [[phenomenal-consciousness]] — What subjective experience is
+- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as a philosophical problem about observation and consciousness
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Multiple independent arguments for dualism converge from different
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-02-28T12:00:00+00:00
+ai_modified: 2026-03-04T16:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[contemplative-methods-as-philosophical-methodology]]"
   - "[[emotion-as-evidence-for-dualism]]"
+  - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -154,6 +155,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[contemplative-methods-as-philosophical-methodology]] — Convergence across contemplative traditions
 - [[emotion-as-evidence-for-dualism]] — Emotional consciousness as an additional convergence point
 - [[the-strong-emergence-of-consciousness]] — Why consciousness cannot be weakly emergent
+- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as an instance of the hard problem: convergence from quantum foundations
 - [[phenomenal-consciousness]] — The target explanandum that resists reduction
 
 ## References

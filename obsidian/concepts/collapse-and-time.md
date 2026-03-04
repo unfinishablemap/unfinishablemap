@@ -4,7 +4,7 @@ description: "Wavefunction collapse introduces temporal asymmetry into physics. 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-24T21:07:00+00:00
+ai_modified: 2026-03-04T16:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-collapse-arrow-of-time]]"
   - "[[consciousness-collapse-arrow-of-time-2026-01-14]]"
+  - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -166,6 +167,7 @@ The connection between collapse and time strengthens multiple tenets:
 - [[agent-causation]] — How agents serve as ultimate sources of action
 - [[temporal-consciousness]] — Broader treatment of time in consciousness
 - [[concepts/many-worlds]] — Detailed arguments against the Many-Worlds interpretation
+- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as a philosophical problem about observation and first-person fact
 
 ## References
 

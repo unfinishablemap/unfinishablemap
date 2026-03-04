@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-02-02T00:05:00+00:00
+ai_modified: 2026-03-04T16:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
+  - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -169,6 +170,7 @@ This topic intersects all five tenets:
 - [[mind-matter-interface]] - How consciousness meets matter
 - [[interactionist-dualism]] - Causal connection between mind and body
 - [[topics/free-will]] - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
+- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as a species of the hard problem
 
 ## References
 

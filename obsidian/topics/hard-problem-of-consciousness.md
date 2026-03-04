@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-04T13:38:00+00:00
+ai_modified: 2026-03-04T16:07:00+00:00
 draft: false
 topics: []
 concepts:
@@ -60,7 +60,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[process-and-consciousness]]"
   - "[[emergence-void]]"
-  - "[[measurement-problem-as-hard-problem]]"
+  - "[[the-measurement-problem-as-philosophical-problem]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
   - "[[objectivity-and-consciousness]]"
   - "[[bandwidth-of-consciousness]]"

@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 16:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[measurement-problem-as-hard-problem]] (archived → successor [[the-measurement-problem-as-philosophical-problem]])
+- **Word count**: N/A (cross-referencing only, no content changes)
+- **Critical issues addressed**: 1 (5 stale links to archived article)
+- **Medium issues addressed**: 1 (weak inbound link network)
+- **Enhancements made**: 11 (5 stale link fixes + 6 new cross-references)
+- **Output**: [[reviews/deep-review-2026-03-04-measurement-problem-as-hard-problem]]
+
 ## 2026-03-04 15:54 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/moral-responsibility]]
