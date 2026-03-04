@@ -155,7 +155,7 @@ The retrocausal dimension deepens this: if selection operates through [[atempora
 
 ## Skill Delegation and the Interface
 
-If agents cause actions, why don't they control every detail of skilled performance? The [[implicit-memory|implicit memory]] framework resolves this: skilled automaticity represents *delegation*, not absence. Consciousness trains procedural systems, then withdraws while retaining override capacity.
+If agents cause actions, why don't they control every detail of skilled performance? The [[implicit-memory|implicit memory]] framework resolves this: skilled automaticity represents *delegation*, not absence. Consciousness trains procedural systems, then withdraws while retaining override capacity. This everyday sense of delegation parallels the metaphysical structure in [[causal-delegation]]: in both cases, one causal source hands off work to another while retaining the capacity to re-engage.
 
 The "choking under pressure" phenomenon demonstrates causal efficacy. When experts consciously attend to automatized actions, performance degrades—proving consciousness isn't epiphenomenal. If attention were causally inert, it couldn't interfere with skills.
 

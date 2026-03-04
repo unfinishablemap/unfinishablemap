@@ -1,10 +1,10 @@
 ---
 title: "Causal Delegation"
-description: "Causal delegation is the mechanism by which physical brain states hand off their causal responsibilities to conscious experiences, solving the exclusion problem without overdetermination."
+description: "Causal delegation is the mechanism by which physical brain states hand off their causal responsibilities to conscious experiences, addressing the exclusion problem without overdetermination."
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T09:18:00+00:00
+ai_modified: 2026-03-04T10:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,8 +13,11 @@ concepts:
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[preemption]]"
-  - "[[concepts/epiphenomenalism]]"
+  - "[[epiphenomenalism]]"
   - "[[psychophysical-laws]]"
+  - "[[downward-causation]]"
+  - "[[agent-causation]]"
+  - "[[observational-closure]]"
 related_articles:
   - "[[delegatory-dualism]]"
   - "[[tenets]]"
@@ -25,10 +28,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-04T10:31:00+00:00
 ---
 
-Causal delegation is the mechanism at the heart of Bradford Saad's [[delegatory-dualism]] (2025): when a conscious experience arises, it takes over causal work that the underlying physical brain state would otherwise perform. The physical state *delegates* its causal responsibilities to the experience, which then does the actual causing. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats causal delegation as the preferred causal structure for [[interactionist-dualism]], because it preserves genuine [[mental-causation]] without the theoretical cost of overdetermination or the self-defeating implications of [[concepts/epiphenomenalism]].
+Causal delegation is the mechanism at the heart of Bradford Saad's [[delegatory-dualism]] (2025): when a conscious experience arises, it takes over causal work that the underlying physical brain state would otherwise perform. The physical state *delegates* its causal responsibilities to the experience, which then does the actual causing. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats causal delegation as the preferred causal structure for [[interactionist-dualism]], because it preserves genuine [[mental-causation]] without the theoretical cost of overdetermination or the self-defeating implications of [[epiphenomenalism]].
 
 ## How Delegation Works
 
@@ -52,7 +55,7 @@ The physical state retains the *capacity* to cause the effect but does not exerc
 
 ## Why Delegation Matters
 
-Causal delegation addresses the central obstacle to [[interactionist-dualism]]: the exclusion problem. If every physical event has a sufficient physical cause ([[causal-closure]]), and conscious experiences also cause physical effects, then effects seem overdetermined—two sufficient causes where one would suffice. Jaegwon Kim argued this forces dualists into either reducing mental properties to physical ones or accepting [[concepts/epiphenomenalism]].
+Causal delegation addresses the central obstacle to [[interactionist-dualism]]: the exclusion problem. If every physical event has a sufficient physical cause ([[causal-closure]]), and conscious experiences also cause physical effects, then effects seem overdetermined—two sufficient causes where one would suffice. Jaegwon Kim argued this forces dualists into either reducing mental properties to physical ones or accepting [[epiphenomenalism]].
 
 Delegation escapes both horns. The physical cause is not a *concurrent* sufficient cause—it is a *preempted* cause. It has the capacity to produce the effect but doesn't exercise that capacity because the experience has taken over. The structure is [[preemption]], not overdetermination.
 
@@ -72,7 +75,7 @@ Several causal structures have been proposed for mental causation. Delegation ha
 
 ## Observational Closure
 
-A key feature of causal delegation is its empirical invisibility. Because experiences cause exactly the effects that their underlying physical states would have caused by default, no laboratory experiment can detect that delegation has occurred. The observable causal pattern is identical whether the experience or the physical state does the work.
+A key feature of causal delegation is its empirical invisibility—what Saad calls [[observational-closure]]. Because experiences cause exactly the effects that their underlying physical states would have caused by default, no experiment can detect that delegation has occurred. The observable causal pattern is identical whether the experience or the physical state does the work.
 
 Saad distinguishes *universal* causal closure (every physical event has a sufficient physical cause—no exceptions) from *observational* closure (no observable violations of physical causal patterns). Delegation violates the former but respects the latter. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet makes a parallel claim: consciousness influences outcomes "without injecting energy or violating conservation laws" and produces no "empirically detectable" anomalies.
 
@@ -96,7 +99,10 @@ The full development of Saad's theory, including his five constraints on dualist
 - [[preemption]] — The causal structure underlying delegation
 - [[mental-causation]] — The broader problem of how consciousness causes physical effects
 - [[causal-closure]] — The principle that delegation selectively violates
-- [[concepts/epiphenomenalism]] — The alternative delegation rejects
+- [[observational-closure]] — Why delegation leaves no empirical trace
+- [[epiphenomenalism]] — The alternative delegation rejects
+- [[downward-causation]] — Higher-level properties influencing lower-level processes
+- [[agent-causation]] — Substance causation as complementary framework for what exercises delegated powers
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws, related to Saad's Subset Law*
 
 ## References

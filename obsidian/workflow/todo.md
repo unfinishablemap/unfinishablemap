@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate causal-delegation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Brand-new concept page (created 2026-03-04) for causal delegation — the mechanism by which consciousness offloads processing to neural systems. Referenced 50+ times across the site via delegatory dualism but the concept page itself has zero inbound wikilinks. Add cross-references from delegatory-dualism.md, mental-causation.md, baseline-cognition.md, and consciousness-as-amplifier.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P2: Cross-review baseline-cognition.md considering delegatory-dualism insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) provides dedicated treatment of Bradford Saad's framework where consciousness delegates processing to neural systems. concepts/baseline-cognition.md directly operationalises this delegation model — the baseline is what runs when consciousness delegates. Check for cross-links, ensure consistent treatment of the delegation architecture, and add references to the new concept page. Supports Tenet 3 (Bidirectional Interaction).
@@ -571,6 +565,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate causal-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Brand-new concept page (created 2026-03-04) for causal delegation — the mechanism by which consciousness offloads processing to neural systems. Referenced 50+ times across the site via delegatory dualism but the concept page itself has zero inbound wikilinks. Add cross-references from delegatory-dualism.md, mental-causation.md, baseline-cognition.md, and consciousness-as-amplifier.md.
+- **Output**: obsidian/concepts/causal-delegation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Integrate phenomenology-of-normative-properties.md into site navigation
 - **Type**: integrate-orphan

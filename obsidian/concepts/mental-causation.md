@@ -96,7 +96,7 @@ Mental properties might "inherit" causal powers from physical realizers through 
 
 ### Delegatory Dualism
 
-Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025) offers a different strategy: accept that physical states could cause behaviour, but hold that experiences *[[preemption|preempt]]* this causal work rather than duplicating it.
+Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025) offers a different strategy: accept that physical states could cause behaviour, but hold that experiences *[[preemption|preempt]]* this causal work rather than duplicating it. The [[causal-delegation]] concept captures this mechanism: the physical state hands off its causal responsibilities to the experience.
 
 The mechanism: physical brain states have a "default causal profile"—the pattern of effects they *would* produce absent any experience. When an experience arises whose causal profile matches this default, the experience takes over. Pain causes wincing by *preempting* what the physical state would otherwise do, not by overdetermining alongside it.
 

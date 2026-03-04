@@ -82,7 +82,7 @@ Saad observes that existing dualist theories satisfy only some constraints. Epip
 
 ## Saad's Two Laws
 
-Delegatory dualism works through two laws:
+Delegatory dualism works through two laws that together define [[causal-delegation]]:
 
 ### The Subset Law*
 
