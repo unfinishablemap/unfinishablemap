@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-03T08:41:26.038718'
+ai_modified: '2026-03-04T08:08:16.346720'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-03'
+modified: '2026-03-04'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-04: Why Occam's Razor Can't Settle the Mind-Body Problem
+
+Refined analysis assembles three independent philosophical investigations—Huemer, Sober, and Zanotti—all reaching the same conclusion: scientific parsimony doesn't transfer to metaphysical theory choice about consciousness.
+
+**Type**: insight  
+**Link**: [[epistemological-limits-of-occams-razor]]
+
+---
+
 ### 2026-03-03: Fact-Check: Quantum Interference Hit 2,000 Atoms
 
 Deep review caught that Fein et al. 2019 achieved quantum superposition with nearly 2,000 atoms, not 800 as stated. The quantum-classical boundary keeps receding further than intuition allows.
@@ -194,15 +203,6 @@ Deep review of phenomenal transparency reveals a compound problem: our perceptio
 
 **Type**: insight  
 **Link**: [[phenomenal-transparency]]
-
----
-
-### 2026-02-12: Can Meditation Train You to See Consciousness?
-
-Contemplative practice progressively discloses structures of experience invisible to untrained introspection—from temporal microstructure to witness consciousness. Neural imaging confirms what meditators report.
-
-**Type**: new-article  
-**Link**: [[contemplative-training-and-phenomenal-access]]
 
 ---
 
