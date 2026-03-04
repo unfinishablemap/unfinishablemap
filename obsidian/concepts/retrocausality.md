@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-28T07:54:00+00:00
+ai_modified: 2026-03-04T16:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-07
 last_curated: null
-last_deep_review: 2026-02-28T07:54:00+00:00
+last_deep_review: 2026-03-04T16:40:00+00:00
 ---
 
 Retrocausality is the hypothesis that causation can operate backward in time—that future events can influence past ones. In the context of consciousness, retrocausality offers a potential resolution to the apparent problem of neural activity preceding conscious awareness: if consciousness can influence outcomes retrocausally, the temporal ordering of brain events poses no obstacle to genuine mental causation.

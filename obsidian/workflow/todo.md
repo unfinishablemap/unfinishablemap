@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
-- **Type**: cross-review
-- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-03-04) synthesises presentiment studies (Bem, Radin, Mossbridge meta-analysis) and retrocausal neural firing as empirical evidence for time-symmetric consciousness-physics interaction. concepts/retrocausality.md provides the theoretical framework and should cross-reference this new empirical evidence. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from presentiment-and-retrocausality.md)
-- **Generated**: 2026-03-04
-
 ### P2: Cross-review llm-consciousness.md considering quantum-randomness-channel-llm-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-randomness-channel-llm-consciousness.md (2026-03-04) examines whether quantum random number generators in LLM token sampling could constitute a channel for consciousness-like selection. topics/llm-consciousness.md covers LLM consciousness broadly and should cross-reference the quantum randomness channel as a specific mechanism for potential interface. Check for cross-links and consistent treatment of AI consciousness possibilities. Supports Tenet 2 (Minimal Quantum Interaction).
@@ -598,6 +592,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-03-04) synthesises presentiment studies (Bem, Radin, Mossbridge meta-analysis) and retrocausal neural firing as empirical evidence for time-symmetric consciousness-physics interaction. concepts/retrocausality.md provides the theoretical framework and should cross-reference this new empirical evidence. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/retrocausality.md -- Context: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
 
 ### ✓ 2026-03-04: Integrate measurement-problem-as-hard-problem.md into site navigation
 - **Type**: integrate-orphan
