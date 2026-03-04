@@ -4,7 +4,7 @@ description: "When consciousness splits—through surgery, anaesthesia, or disso
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T14:00:00+00:00
+ai_modified: 2026-03-04T14:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,8 @@ concepts:
   - "[[binding-problem]]"
   - "[[phenomenal-consciousness]]"
   - "[[integrated-information-theory]]"
-  - "[[witness-consciousness]]"
+  - "[[consciousness]]"
+  - "[[altered-states-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[split-brain-consciousness]]"
@@ -25,9 +26,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
+last_deep_review: 2026-03-04T14:07:00+00:00
 ---
 
-The Unfinishable Map's [[unity-of-consciousness|unity of consciousness]] article establishes that experience normally comes as an integrated whole. But consciousness can apparently break apart. Split-brain surgery, general anaesthesia, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases carry high stakes for dualism. The classical unity argument holds that an indivisible mind cannot be composed of physical parts. If consciousness genuinely fragments, this argument appears to collapse. Yet the fragmentation evidence, examined carefully, points somewhere unexpected: what breaks in each case is not consciousness itself but the physical interface through which consciousness expresses itself. The distinction matters. It transforms fragmentation from a threat to dualism into evidence for it.
+The Unfinishable Map's [[unity-of-consciousness|unity of consciousness]] article establishes that experience normally comes as an integrated whole. But consciousness can apparently break apart. Split-brain surgery, general anaesthesia, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases carry high stakes for dualism. The classical unity argument holds that an indivisible mind cannot be composed of physical parts. If consciousness genuinely fragments, this argument appears to collapse. Yet the fragmentation evidence, examined carefully, points somewhere unexpected: what breaks in each case is not consciousness itself but the physical interface through which consciousness expresses itself. The distinction matters. It transforms fragmentation from a decisive objection to dualism into something dualism can accommodate — and perhaps accommodate more naturally than physicalism.
 
 ## Three Routes to Fragmentation
 
@@ -39,13 +41,13 @@ Recent evidence complicates this picture. Pinto et al. (2017) found that calloso
 
 What is striking across all interpretations is the *resilience* of unity. Even with 250 million fibres severed, consciousness does not cleanly divide into two. Something resists fragmentation even when the physical substrate for integration is dramatically disrupted. (For detailed treatment of the split-brain evidence, see [[split-brain-consciousness]].)
 
-### Anaesthesia and Neural Unbinding
+### Anaesthesia and Neural Unbinding {#anaesthesia}
 
-Mashour (2012) demonstrated that general anaesthetics do not achieve unconsciousness by suppressing neural activity. The brain remains active under propofol. What changes is integration. Neural spiking fragments into on/off oscillatory states, and phase coupling across cortical areas — the mechanism by which distant brain regions synchronise their activity — drops significantly. Consciousness ceases when integration ceases, even though the components remain individually active.
+Mashour (2012) reviewed evidence that general anaesthetics do not achieve unconsciousness by suppressing neural activity. The brain remains active under propofol. What changes is integration. Neural spiking fragments into on/off oscillatory states, and phase coupling across cortical areas — the mechanism by which distant brain regions synchronise their activity — drops significantly. Consciousness ceases when integration ceases, even though the components remain individually active.
 
-This "unbinding" finding carries a specific implication: consciousness correlates not with neural activity per se but with the *coordination* of activity across regions. Individual neurons firing in isolation produce nothing experiential. Only when their activity is temporally synchronised and informationally integrated does consciousness accompany the process.
+This "unbinding" finding carries a specific implication: [[consciousness]] correlates not with neural activity per se but with the *coordination* of activity across regions. Individual neurons firing in isolation produce nothing experiential. Only when their activity is temporally synchronised and informationally integrated does consciousness accompany the process.
 
-For physicalist frameworks like Integrated Information Theory, this is straightforward — consciousness just *is* integrated information, and fragmenting integration eliminates it. The dualist reading is different: integration may be the physical condition that allows consciousness to interact with the brain, without being consciousness itself. Disrupt integration and you disrupt the interface, not the mind.
+Anaesthesia represents one of the most dramatic [[altered-states-of-consciousness|altered states of consciousness]] — and one of the most revealing for the fragmentation question. For physicalist frameworks like Integrated Information Theory, this is straightforward — consciousness just *is* integrated information, and fragmenting integration eliminates it. The dualist reading is different: integration may be the physical condition that allows consciousness to interact with the brain, without being consciousness itself. Disrupt integration and you disrupt the interface, not the mind.
 
 ### Dissociative Identity Disorder
 
@@ -71,7 +73,7 @@ Daniel Dennett's Multiple Drafts Model (1991) offers a more radical position: co
 
 If Dennett is right, fragmentation cases reveal what was always the case: there is no unified experiencer to fragment. The question dissolves.
 
-The Map rejects this move. Dennett's position faces a reflexive problem: the very act of constructing a unifying narrative appears to presuppose a unified constructor. Who or what generates the illusion of unity? If the answer is "distributed processes," then those processes are themselves unified in their production of the narrative — unity re-enters at a higher level. More fundamentally, dismissing phenomenal unity as illusion conflicts with the direct character of experience. The unity of a visual scene — the redness co-present with the shape co-present with the spatial location — is not something inferred or narrated. It is given immediately. Calling it an illusion without explaining what is having the illusion merely relocates the problem.
+The Map rejects this move. Dennett's position faces a reflexive problem: the very act of constructing a unifying narrative appears to presuppose a unified constructor. Dennett replies that distributed processes need not be phenomenally unified to produce functionally coordinated output — but this reply shifts the question rather than answering it. Functional coordination of multiple drafts into a single coherent narrative still requires *something* doing the coordinating, and that coordinating process exhibits the very unity Dennett denies. More fundamentally, dismissing phenomenal unity as illusion conflicts with the direct character of experience. The unity of a visual scene — the redness co-present with the shape co-present with the spatial location — is not something inferred or narrated. It is given immediately. Calling it an illusion without explaining what is having the illusion merely relocates the problem.
 
 ## What Fragmentation Actually Shows
 
@@ -91,7 +93,7 @@ Fragmented consciousness engages the Map's [[tenets]] at several points:
 
 **[[tenets#^dualism|Dualism]]**: The classical unity argument — that an indivisible mind cannot be physical — survives the fragmentation challenge once the interface distinction is drawn. Fragmentation of the physical interface is compatible with unity of the non-physical mind. The evidence that motivated Descartes' indivisibility argument (the felt unity of experience) remains intact; what splits is the body's capacity to express that unity, not the unity itself.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness interacts with the brain through quantum-level processes that require integrated neural activity, disrupting integration disrupts the interaction site. Anaesthesia may eliminate consciousness's capacity to bias quantum outcomes by fragmenting the coordinated neural substrate through which the biasing occurs. The mind does not fragment; the mechanism for mind-brain coupling does.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If — as the Map speculatively proposes — consciousness interacts with the brain through quantum-level processes that require integrated neural activity, disrupting integration disrupts the interaction site. Anaesthesia may eliminate consciousness's capacity to bias quantum outcomes by fragmenting the coordinated neural substrate through which the biasing occurs. The mind does not fragment; the mechanism for mind-brain coupling does.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fragmentation evidence actually supports bidirectional interaction. If consciousness were epiphenomenal — causally inert — then fragmenting the brain should not affect experience at all. The fact that disrupting integration disrupts the *expression* of consciousness (while potentially leaving consciousness itself intact) is precisely what interactionist dualism predicts: the interaction requires a functioning interface.
 
@@ -103,7 +105,7 @@ Fragmented consciousness engages the Map's [[tenets]] at several points:
 - [[unity-of-consciousness]] — The three dimensions of experiential unity
 - [[non-temporal-consciousness]] — How non-temporality explains the resilience of unity
 - [[binding-problem]] — The physical correlate of the unity question
-- [[contemplative-evidence-for-consciousness-theories]] — First-person evidence for consciousness surviving altered states
+- [[contemplative-evidence-for-consciousness]] — First-person evidence for consciousness surviving altered states
 
 ## References
 
