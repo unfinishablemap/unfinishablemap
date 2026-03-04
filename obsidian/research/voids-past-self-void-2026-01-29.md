@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[episodic-memory]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[phenomenology]]"
   - "[[personal-identity]]"
   - "[[introspection]]"

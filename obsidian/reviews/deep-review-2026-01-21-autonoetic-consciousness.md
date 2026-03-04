@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-21
-**Article**: [[autonoetic-consciousness|Autonoetic Consciousness]]
+**Article**: [[anoetic-noetic-autonoetic-consciousness|Autonoetic Consciousness]]
 **Previous review**: [[deep-review-2026-01-20-autonoetic-consciousness|2026-01-20 (partial)]]
 
 ## Pessimistic Analysis Summary

@@ -19,7 +19,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[split-brain-consciousness]]"
   - "[[mind-brain-separation]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[sleep-and-consciousness]]"
   - "[[filter-theory]]"
@@ -108,7 +108,7 @@ Binding operates across time and cognitive domains, not just within a moment—c
 
 ### Temporal Binding and Memory
 
-[[autonoetic-consciousness|Autonoetic consciousness]] reveals temporal binding: when you remember an event, "pastness" is phenomenally bound to the content. Episodic memory involves being simultaneously present as rememberer (now) and protagonist (then)—binding across temporal perspectives. The hippocampus performs binding essential to both perception and memory, suggesting consciousness participates constitutively in binding across cognitive domains.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] reveals temporal binding: when you remember an event, "pastness" is phenomenally bound to the content. Episodic memory involves being simultaneously present as rememberer (now) and protagonist (then)—binding across temporal perspectives. The hippocampus performs binding essential to both perception and memory, suggesting consciousness participates constitutively in binding across cognitive domains.
 
 ### Sleep: BP1 Without BP2
 

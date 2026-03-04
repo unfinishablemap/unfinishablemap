@@ -80,7 +80,7 @@ None. The article contains no factual errors, internal contradictions, attributi
 ### Cross-links Present (already comprehensive)
 
 - [[binding-problem]], [[phenomenal-unity]], [[temporal-consciousness]], [[self-and-consciousness]]
-- [[personal-identity]], [[autonoetic-consciousness]], [[split-brain-consciousness]]
+- [[personal-identity]], [[anoetic-noetic-autonoetic-consciousness]], [[split-brain-consciousness]]
 - [[combination-problem]], [[quantum-binding-and-phenomenal-unity]], [[witness-consciousness]]
 - [[minimal-consciousness]], [[illusionism]], [[meditation-and-consciousness-modes]]
 - [[attention-schema-theory]]

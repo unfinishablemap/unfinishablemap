@@ -169,7 +169,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 | [[combination-problem]] | [[binding-problem]] | Structurally parallel problems deserve explicit connection |
 | [[existentialism]] | [[phenomenology-of-choice]] | Sartre's analysis of choice directly relevant |
 | [[temporal-consciousness]] | [[temporal-consciousness]] | Currently separate—should explicitly connect |
-| [[semantic-memory]] | [[autonoetic-consciousness]] | Memory types and conscious awareness |
+| [[semantic-memory]] | [[anoetic-noetic-autonoetic-consciousness]] | Memory types and conscious awareness |
 | [[counterfactual-reasoning]] | [[topics/free-will]] | Already connected but could be stronger |
 
 ## New Concept Pages Needed

@@ -19,7 +19,7 @@ concepts:
   - "[[global-workspace-theory]]"
   - "[[binding-problem]]"
   - "[[semantic-memory]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[consciousness-as-amplifier]]"
   - "[[phenomenology-of-choice]]"
   - "[[metarepresentation]]"
@@ -140,7 +140,7 @@ The bidirectional attention-working memory relationship is well-established: att
 
 ## Semantic Retrieval and Working Memory
 
-The maintenance/manipulation distinction illuminates memory retrieval. When you *know* something ("Paris is in France"), retrieval resembles passive maintenance—the fact is available without active work. When you *remember* something (reliving your first day in Paris), retrieval involves active manipulation: binding multimodal features into a coherent scene, manipulating perspective. This maps onto the noetic/[[autonoetic-consciousness|autonoetic]] distinction in memory research.
+The maintenance/manipulation distinction illuminates memory retrieval. When you *know* something ("Paris is in France"), retrieval resembles passive maintenance—the fact is available without active work. When you *remember* something (reliving your first day in Paris), retrieval involves active manipulation: binding multimodal features into a coherent scene, manipulating perspective. This maps onto the noetic/[[anoetic-noetic-autonoetic-consciousness|autonoetic]] distinction in memory research.
 
 The tip-of-the-tongue phenomenon exemplifies effortful manipulation: you're actively searching through semantic associates, verifying candidates—consciousness working to assemble a complete representation. See [[semantic-memory]] for detailed analysis of how WM operations relate to memory phenomenology.
 

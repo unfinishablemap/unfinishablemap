@@ -27,7 +27,7 @@ concepts:
   - "[[unity-of-consciousness]]"
   - "[[semantic-memory]]"
   - "[[temporal-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[global-workspace-theory]]"
   - "[[qualia]]"
   - "[[metacognition]]"
@@ -217,7 +217,7 @@ Several findings would weaken PCT:
 - [[galilean-exclusion]] — Why the scientific method structurally excludes the phenomenal character that understanding exhibits
 - [[illusionism]] — The eliminativist challenge to phenomenal consciousness
 - [[meaning-of-life]] — Consciousness-grounded meaning and existential significance
-- [[autonoetic-consciousness]] — Mental time travel and narrative integration
+- [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and narrative integration
 - [[consciousness-and-counterfactual-reasoning]] — Inference about non-actual scenarios
 - [[phenomenology-of-epistemic-judgment]] — When inference changes what you believe
 - [[phenomenal-normativity]] — Logical compulsion as one species of normative phenomenal property

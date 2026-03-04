@@ -12,7 +12,7 @@ topics:
   - "[[personal-identity]]"
 concepts:
   - "[[episodic-memory]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[phenomenology]]"
   - "[[introspection]]"
   - "[[qualia]]"
@@ -151,7 +151,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [[other-minds-void]] — The parallel void: other present minds are equally inaccessible
 - [[temporal-asymmetry-remembering-anticipating]] — Why we can reconstruct the past but only imagine the future
 - [[episodic-memory]] — The memory system that stores experienced events
-- [[autonoetic-consciousness]] — The self-knowing awareness that enables "mental time travel"
+- [[anoetic-noetic-autonoetic-consciousness]] — The self-knowing awareness that enables "mental time travel"
 - [[personal-identity]] — What makes you the same person over time
 - [[the-unobservable-self]] — The present self is also elusive
 - [[self-reference-paradox]] — Structural limits on self-understanding

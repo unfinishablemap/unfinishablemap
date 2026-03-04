@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
-- **Type**: cross-review
-- **Notes**: 67 content articles still link to `[[autonoetic-consciousness]]`, which was coalesced into `[[anoetic-noetic-autonoetic-consciousness]]`. Bulk-update wikilinks across all content files. Preserve display text where appropriate.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-04
-
 ### P2: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
 - **Type**: cross-review
 - **Notes**: 56 content articles still link to `[[metarepresentation]]`, which was coalesced into the broader `[[metacognition]]` article (titled "Metacognition, Metarepresentation, and Consciousness"). Bulk-update wikilinks across all content files. Use display text `[[metacognition|metarepresentation]]` where the context specifically discusses metarepresentation rather than metacognition broadly.
@@ -609,6 +603,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-04: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
+- **Type**: cross-review
+- **Notes**: 67 content articles still link to `[[autonoetic-consciousness]]`, which was coalesced into `[[anoetic-noetic-autonoetic-consciousness]]`. Bulk-update wikilinks across all content files. Preserve display text where appropriate.
+- **Output**: None -- Context: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
+
 ### ✓ 2026-03-04: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
 - **Type**: cross-review
 - **Notes**: 87 content articles still link to `[[duration]]` and 60 to `[[specious-present]]`, both archived and superseded by `[[temporal-consciousness]]`. Readers following these links see archive notices instead of the replacement content. Bulk-update wikilinks across all files in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/. Preserve display text where appropriate (e.g. `[[temporal-consciousness|duration]]`).
@@ -963,7 +962,7 @@ Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2
 
 ### ✓ 2026-03-02: Update references to coalesced autonoetic-consciousness article
 - **Type**: cross-review
-- **Notes**: Coalesce merged autonoetic-consciousness.md into anoetic-noetic-autonoetic-consciousness.md. The following 27 active content files reference the archived `[[autonoetic-consciousness]]` and need links updated to `[[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]]`: neural-correlates-of-consciousness, past-self-void, binding-problem, consciousness-and-memory, temporal-consciousness, unity-of-consciousness, temporal-asymmetry-remembering-anticipating, memory-void, working-memory, semantic-memory, self-and-consciousness, prospective-memory, prehension, implicit-memory, global-workspace-theory, cognitive-phenomenology, the-self-minimal-narrative-and-substantial, temporal-structure-of-consciousness, social-construction-of-self-vs-phenomenal-self, phenomenology-of-understanding, phenomenology-of-anticipation, personal-identity, dream-consciousness, diachronic-agency-and-personal-narrative, death-and-consciousness, hard-problem-of-consciousness, loss-of-consciousness.
+- **Notes**: Coalesce merged autonoetic-consciousness.md into anoetic-noetic-autonoetic-consciousness.md. The following 27 active content files reference the archived `[[anoetic-noetic-autonoetic-consciousness]]` and need links updated to `[[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]]`: neural-correlates-of-consciousness, past-self-void, binding-problem, consciousness-and-memory, temporal-consciousness, unity-of-consciousness, temporal-asymmetry-remembering-anticipating, memory-void, working-memory, semantic-memory, self-and-consciousness, prospective-memory, prehension, implicit-memory, global-workspace-theory, cognitive-phenomenology, the-self-minimal-narrative-and-substantial, temporal-structure-of-consciousness, social-construction-of-self-vs-phenomenal-self, phenomenology-of-understanding, phenomenology-of-anticipation, personal-identity, dream-consciousness, diachronic-agency-and-personal-narrative, death-and-consciousness, hard-problem-of-consciousness, loss-of-consciousness.
 - **Output**: None -- Context: Update references to coalesced autonoetic-consciousness article
 
 ### ✓ 2026-03-02: Integrate value-blind-vs-value-sensitive-selection.md into site navigation

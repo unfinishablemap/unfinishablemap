@@ -25,7 +25,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[entanglement-binding-hypothesis]]"
   - "[[minimal-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[neural-binding-mechanisms]]"
   - "[[consciousness]]"
@@ -59,7 +59,7 @@ At any moment, visual, auditory, bodily, and emotional experiences are unified i
 
 ### Diachronic Unity
 
-Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [[autonoetic-consciousness|autonoetic consciousness]] extends diachronic unity across a lifetime.
+Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] extends diachronic unity across a lifetime.
 
 ### Subject Unity
 
@@ -156,7 +156,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 - [[neural-binding-mechanisms]] — Classical and quantum approaches to binding compared
 - [[consciousness]] — The Map's foundational concept page
 - [[personal-identity]] — How subjects persist across time
-- [[autonoetic-consciousness]] — Mental time travel and the temporal self
+- [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[minimal-consciousness]] — Unity at the boundaries of experience
 
 ## References

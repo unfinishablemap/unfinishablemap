@@ -16,7 +16,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[episodic-memory]]"
   - "[[implicit-memory]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[sleep-and-consciousness]]"
   - "[[binding-problem]]"
   - "[[altered-states-of-consciousness]]"
@@ -98,7 +98,7 @@ This finding has profound implications. If one quarter of "unconscious" patients
 
 ## Memory Systems and Loss of Consciousness
 
-Different memory systems show strikingly different vulnerabilities to consciousness disruption. See [[episodic-memory]], [[implicit-memory]], and [[autonoetic-consciousness]] for detailed treatments.
+Different memory systems show strikingly different vulnerabilities to consciousness disruption. See [[episodic-memory]], [[implicit-memory]], and [[anoetic-noetic-autonoetic-consciousness]] for detailed treatments.
 
 [[episodic-memory|Episodic memory]] is exquisitely sensitive—anesthesia reliably produces anterograde amnesia. Existing memories remain accessible after recovery; the anesthetic only prevented new encoding. [[implicit-memory|Implicit memory]] shows remarkable resilience: patients under adequate anesthesia can still form conditioned associations and learn motor patterns without explicit awareness.
 
@@ -187,7 +187,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 - [[sleep-and-consciousness]] — The evolved mechanism of consciousness reduction and its distinct neural dynamics
 - [[episodic-memory]] — Autobiographical memory and its vulnerability to consciousness disruption
 - [[implicit-memory]] — Procedural memory and anoetic consciousness that persists through altered states
-- [[autonoetic-consciousness]] — The form of consciousness required for episodic encoding
+- [[anoetic-noetic-autonoetic-consciousness]] — The form of consciousness required for episodic encoding
 - [[binding-problem]] — How binding operates differently during sleep versus waking
 - [[illusionism]] — The strongest physicalist challenge and why it fails to explain loss of consciousness
 - [[filter-theory]] — The transmission model of brain-consciousness relation

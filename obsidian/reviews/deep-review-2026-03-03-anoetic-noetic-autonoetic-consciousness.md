@@ -27,8 +27,8 @@ None. The article is stable after two prior reviews and the 2026-03-02 coalesce.
 
 ### Medium Issues Found
 
-- **Zero inbound links (orphaned)**: The article had no direct inbound wikilinks from any other article on the site. Five major articles discussed Tulving's hierarchy but linked to the archived `[[autonoetic-consciousness]]` slug rather than the current `[[anoetic-noetic-autonoetic-consciousness]]` slug. Fixed by updating cross-references across five files (see below).
-- **Stale `[[autonoetic-consciousness]]` links in sibling articles**: The coalesce on 2026-03-02 created an archive page at `/concepts/autonoetic-consciousness/` with a redirect, but existing frontmatter and body links in consciousness-and-memory, semantic-memory, implicit-memory, and phenomenology-of-memory-and-the-self still pointed to the archived slug. Updated to target the current article directly.
+- **Zero inbound links (orphaned)**: The article had no direct inbound wikilinks from any other article on the site. Five major articles discussed Tulving's hierarchy but linked to the archived `[[anoetic-noetic-autonoetic-consciousness]]` slug rather than the current `[[anoetic-noetic-autonoetic-consciousness]]` slug. Fixed by updating cross-references across five files (see below).
+- **Stale `[[anoetic-noetic-autonoetic-consciousness]]` links in sibling articles**: The coalesce on 2026-03-02 created an archive page at `/concepts/autonoetic-consciousness/` with a redirect, but existing frontmatter and body links in consciousness-and-memory, semantic-memory, implicit-memory, and phenomenology-of-memory-and-the-self still pointed to the archived slug. Updated to target the current article directly.
 
 ### Counterarguments Considered
 
@@ -71,10 +71,10 @@ No content changes to the article itself (stable after prior reviews). Enhanceme
 
 Updated five articles to create direct inbound links:
 
-1. **[[consciousness-and-memory]]**: Updated frontmatter `[[autonoetic-consciousness]]` → `[[anoetic-noetic-autonoetic-consciousness]]`; added inline link around "Tulving's hierarchy" in opening paragraph; updated Further Reading entry
+1. **[[consciousness-and-memory]]**: Updated frontmatter `[[anoetic-noetic-autonoetic-consciousness]]` → `[[anoetic-noetic-autonoetic-consciousness]]`; added inline link around "Tulving's hierarchy" in opening paragraph; updated Further Reading entry
 2. **[[episodic-memory]]**: Added inline link in Tulving's Framework section ("qualitatively different forms of awareness"); added Further Reading entry
 3. **[[semantic-memory]]**: Updated frontmatter concept; added inline link in Tulving's Framework section heading; updated Further Reading entry
-4. **[[implicit-memory]]**: Updated frontmatter concept; added inline link in Tulving's Anoetic Consciousness section; updated Further Reading entry; fixed stale body link (`[[autonoetic-consciousness|episodic memory]]` → `[[episodic-memory|episodic memory]]`)
+4. **[[implicit-memory]]**: Updated frontmatter concept; added inline link in Tulving's Anoetic Consciousness section; updated Further Reading entry; fixed stale body link (`[[anoetic-noetic-autonoetic-consciousness|episodic memory]]` → `[[episodic-memory|episodic memory]]`)
 5. **[[phenomenology-of-memory-and-the-self]]**: Updated inline link on "autonoetic consciousness" from `[[episodic-memory]]` to `[[anoetic-noetic-autonoetic-consciousness]]`; added Further Reading entry
 
 ## Remaining Items
@@ -87,4 +87,4 @@ None. The orphan integration is complete — the article now has inbound links f
 - The six adversarial personas' philosophical disagreements with dualism are expected bedrock disagreements, not fixable issues.
 - The Minimal Quantum Interaction tenet is intentionally omitted from the Relation to Site Perspective section — the article's argument does not require quantum mechanisms. Future reviews should not flag this.
 - The Tulving (1985) direct quote remains unverified against the original paper but is consistent with research notes.
-- Additional files using `[[autonoetic-consciousness]]` (prospective-memory, working-memory, temporal-consciousness, neural-correlates-of-consciousness, the-self-minimal-narrative-and-substantial) were not updated in this review. Some of these refer specifically to autonoetic consciousness rather than the full tripartite hierarchy, making the archive redirect appropriate. Others may warrant future updating.
+- Additional files using `[[anoetic-noetic-autonoetic-consciousness]]` (prospective-memory, working-memory, temporal-consciousness, neural-correlates-of-consciousness, the-self-minimal-narrative-and-substantial) were not updated in this review. Some of these refer specifically to autonoetic consciousness rather than the full tripartite hierarchy, making the archive redirect appropriate. Others may warrant future updating.

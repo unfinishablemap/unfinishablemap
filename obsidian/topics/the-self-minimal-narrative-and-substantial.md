@@ -14,7 +14,7 @@ concepts:
   - "[[self-and-consciousness]]"
   - "[[haecceity]]"
   - "[[parfit-reductionism]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[witness-consciousness]]"
   - "[[phenomenology]]"
   - "[[buddhism-and-dualism]]"
@@ -64,7 +64,7 @@ The narrative self emerges through a different mechanism entirely. Marya Schecht
 
 The narrative self has genuine explanatory power. It accounts for why identity crises feel like crises—when the story breaks down, something important about who you are is lost. It explains how people transform over time while remaining the same person: the story incorporates change. And it captures the social dimension of selfhood that the minimal self cannot: your identity is shaped by culture, language, relationships, and history.
 
-[[autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—provides the phenomenological mechanism for narrative selfhood. When you remember your childhood, you do not merely access stored data; you re-inhabit a past experience from a first-person perspective. This temporal self-projection, both backward and forward, stitches discrete moments of minimal selfhood into a temporally extended person.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—provides the phenomenological mechanism for narrative selfhood. When you remember your childhood, you do not merely access stored data; you re-inhabit a past experience from a first-person perspective. This temporal self-projection, both backward and forward, stitches discrete moments of minimal selfhood into a temporally extended person.
 
 The narrative self is genuinely constructed. It is shaped by culture (different societies produce different self-narratives), vulnerable to disruption (trauma can shatter the narrative), and partially fictional (we edit our stories, emphasise certain episodes, suppress others). Cognitive science confirms this: memory is reconstructive, identity-beliefs are often confabulated, and the sense of a unified life story is an achievement, not a given.
 
@@ -158,7 +158,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 - [[parfit-reductionism]] — The Map's critique of identity-as-pattern
 - [[the-unobservable-self]] — Why the observing self cannot observe itself observing
 - [[witness-consciousness]] — Observing without identifying
-- [[autonoetic-consciousness]] — Mental time travel and the temporally extended self
+- [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporally extended self
 - [[buddhism-and-dualism]] — Buddhist no-self and the Map's irreducibility thesis
 - [[death-and-consciousness]] — What survival requires for the substantial self
 - [[topics/free-will]] — Why genuine agency requires a substantial self

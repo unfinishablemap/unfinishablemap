@@ -26,7 +26,7 @@ concepts:
 related_articles:
   - "[[personal-identity]]"
   - "[[tenets]]"
-  - "[[autonoetic-consciousness-2026-02-24]]"
+  - "[[anoetic-noetic-autonoetic-consciousness-2026-02-24]]"
   - "[[semantic-memory-consciousness-2026-01-17]]"
 ai_contribution: 100
 author:

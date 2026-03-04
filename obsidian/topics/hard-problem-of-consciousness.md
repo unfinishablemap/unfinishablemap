@@ -38,7 +38,7 @@ concepts:
   - "[[psychophysical-coupling]]"
   - "[[semantic-memory]]"
   - "[[cognitive-phenomenology]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[witness-consciousness]]"
   - "[[altered-states-of-consciousness]]"
   - "[[substrate-independence-critique]]"
@@ -135,7 +135,7 @@ See [[temporal-consciousness]] for detailed analysis and [[collapse-and-time]] f
 
 The hard problem extends beyond sensory qualia into cognition. Even "cold" knowledge retrieval has phenomenal character: the tip-of-the-tongue state has its own distinctive feel, as does the *aha* of understanding. If [[cognitive-phenomenology]] is real—if thinking itself feels like something—then the explanatory gap pervades mentality.
 
-[[autonoetic-consciousness|Autonoetic consciousness]]—the felt sense of mentally re-experiencing past events—sharpens the point. The same biographical fact can be accompanied by vivid temporal re-experiencing or bare factual recognition. No account of representational format or retrieval mechanism explains why one mode feels like something and the other merely registers. See [[autonoetic-consciousness]] for the constitutive-contingent debate and its implications.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the felt sense of mentally re-experiencing past events—sharpens the point. The same biographical fact can be accompanied by vivid temporal re-experiencing or bare factual recognition. No account of representational format or retrieval mechanism explains why one mode feels like something and the other merely registers. See [[anoetic-noetic-autonoetic-consciousness]] for the constitutive-contingent debate and its implications.
 
 [[language-recursion-and-consciousness|Recursive language processing]] provides a test case. While information maintenance can occur unconsciously, manipulation requires conscious attention. This suggests consciousness may do genuine cognitive work, not merely accompany it. See [[working-memory]] for the maintenance/manipulation distinction and its implications for AI.
 

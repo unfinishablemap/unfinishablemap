@@ -23,7 +23,7 @@ last_curated: null
 
 ### Critical Issues Found
 
-1. **Broken concept link `[[autonoetic-consciousness]]`**: No file exists at this path. The correct concept page is `[[anoetic-noetic-autonoetic-consciousness]]`. **Resolution**: Fixed link in both frontmatter and body text.
+1. **Broken concept link `[[anoetic-noetic-autonoetic-consciousness]]`**: No file exists at this path. The correct concept page is `[[anoetic-noetic-autonoetic-consciousness]]`. **Resolution**: Fixed link in both frontmatter and body text.
 
 2. **Broken concept link `[[temporal-consciousness]]`**: No file exists. **Resolution**: Removed from frontmatter concepts list (Bergson's durée is discussed inline but needs no dedicated concept link).
 
@@ -81,7 +81,7 @@ last_curated: null
 
 ### Cross-links Added
 
-- [[anoetic-noetic-autonoetic-consciousness]] (fixed from broken [[autonoetic-consciousness]])
+- [[anoetic-noetic-autonoetic-consciousness]] (fixed from broken [[anoetic-noetic-autonoetic-consciousness]])
 - [[prehension]]
 - [[protention]]
 - [[phenomenology-of-anticipation]]

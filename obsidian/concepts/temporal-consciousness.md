@@ -18,7 +18,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[philosophy-of-time]]"
   - "[[neurophenomenology]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[prospective-memory]]"
   - "[[personal-identity]]"
   - "[[sleep-and-consciousness]]"
@@ -100,7 +100,7 @@ Working memory provides a promising neural correlate. The experienced moment (~1
 
 ## Mental Time Travel and the Extended Self
 
-[[autonoetic-consciousness|Autonoetic consciousness]] extends temporal phenomenology beyond the specious present. When you remember your wedding, you don't merely access information—you *inhabit* it from a first-person perspective. This inhabitation is asymmetric: memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [[temporal-asymmetry-remembering-anticipating|asymmetry]] may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] extends temporal phenomenology beyond the specious present. When you remember your wedding, you don't merely access information—you *inhabit* it from a first-person perspective. This inhabitation is asymmetric: memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [[temporal-asymmetry-remembering-anticipating|asymmetry]] may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened.
 
 [[temporal-structure-of-understanding|Understanding]] has distinctive temporal character: the "click" of comprehension integrates maintained elements into unified grasp. [[prospective-memory|Prospective memory]] extends temporal phenomenology into the future—vividly imagining future consequences reduces temporal discounting, supporting [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: conscious simulation of possible futures causally shapes present decisions.
 
@@ -112,7 +112,7 @@ Whether consciousness comes in discrete frames or continuous flow may be [[conti
 
 ## Temporal Unity and Its Disruption
 
-Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [[unity-of-consciousness|unity of consciousness]]. The Map's treatment of [[temporal-structure-of-consciousness|temporal integration]] distinguishes micro-integration (within the specious present), meso-integration (across successive presents), and macro-integration (the [[autonoetic-consciousness|temporal self]] spanning a lifetime).
+Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [[unity-of-consciousness|unity of consciousness]]. The Map's treatment of [[temporal-structure-of-consciousness|temporal integration]] distinguishes micro-integration (within the specious present), meso-integration (across successive presents), and macro-integration (the [[anoetic-noetic-autonoetic-consciousness|temporal self]] spanning a lifetime).
 
 Temporal unity can degrade, revealing it as contingent rather than automatic. **Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact—patients report actions feeling disconnected from consequences (Fuchs, 2007). [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]] connects this to broader ipseity disturbance. **Flow states** alter temporal unity differently: moments become intensely vivid yet loosely coupled, producing "timelessness" within ongoing experience.
 
@@ -174,7 +174,7 @@ Temporal consciousness connects to all five tenets:
 
 - [[collapse-and-time]] — How consciousness may participate in time's arrow via quantum collapse
 - [[time-collapse-and-agency]] — The Map's full treatment of time, collapse, and conscious agency
-- [[autonoetic-consciousness]] — Mental time travel and the temporal self
+- [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[temporal-asymmetry-remembering-anticipating]] — Why we can re-experience the past but only imagine the future
 - [[philosophy-of-time]] — McTaggart's A/B series and the Map's growing block position
 - [[continuity-void]] — Why consciousness cannot determine its own temporal grain

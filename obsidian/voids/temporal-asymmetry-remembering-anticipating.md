@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[temporal-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[episodic-memory]]"
   - "[[prospective-memory]]"
   - "[[phenomenology]]"
@@ -45,7 +45,7 @@ This asymmetry matters for The Unfinishable Map because it reveals something ess
 
 Memory and future simulation share neural substrate—hippocampus, medial prefrontal cortex, posterior cingulate cortex all activate for both. Patient KC, who lost [[episodic-memory|episodic memory]], also lost the ability to imagine his personal future. Yet despite shared architecture, the phenomenological products differ.
 
-[[autonoetic-consciousness|Autonoetic consciousness]]—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. De Brigard (2020) analyzes this as an "epistemic feeling"—a metacognitive state that tracks source and reliability. Functionalists will note this framing is compatible with their view: the feeling of pastness could be a cognitive marker rather than an irreducible quale. The Map's dualist perspective maintains that even if the feeling *functions* as a marker, its phenomenal character—what it is like to experience pastness—remains irreducible to the marking function.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. De Brigard (2020) analyzes this as an "epistemic feeling"—a metacognitive state that tracks source and reliability. Functionalists will note this framing is compatible with their view: the feeling of pastness could be a cognitive marker rather than an irreducible quale. The Map's dualist perspective maintains that even if the feeling *functions* as a marker, its phenomenal character—what it is like to experience pastness—remains irreducible to the marking function.
 
 Future simulation differs categorically. The imagined future feels *constructed* rather than *contacted*. Even vivid future simulation—detailed imagery, emotional engagement—lacks the quality of having-been-there. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval. The extra constructive work is phenomenologically manifest.
 
@@ -123,7 +123,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[temporal-consciousness-void]] — Consciousness confined to the present; complements this article's focus on past/future asymmetry
-- [[autonoetic-consciousness]] — The self-knowing awareness that enables mental time travel
+- [[anoetic-noetic-autonoetic-consciousness]] — The self-knowing awareness that enables mental time travel
 - [[episodic-memory]] — The memory system that preserves experienced events
 - [[prospective-memory]] — Future-directed memory and its phenomenology
 - [[temporal-consciousness]] — How time structures conscious experience

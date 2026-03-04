@@ -23,7 +23,7 @@ concepts:
   - "[[predictive-processing]]"
   - "[[default-mode-network]]"
   - "[[altered-states-of-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[phenomenology-of-choice]]"
   - "[[witness-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -77,7 +77,7 @@ The transition from non-lucid to lucid REM also reveals that [[phenomenal-consci
 
 ### Metacognition and Prefrontal Structure
 
-Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while remaining immersed. This involves [[autonoetic-consciousness|autonoetic awareness]]: the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. Frequent lucid dreamers have **larger anterior prefrontal cortex volume** and **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition (Baird et al., 2018). The trainability of lucid dreaming (through reality testing, mnemonic induction, and other techniques) suggests practice shapes structure, paralleling changes observed in long-term [[meditation-and-consciousness-modes|meditators]].
+Lucid dreaming is metacognition within a dream—recognising "I am dreaming" while remaining immersed. This involves [[anoetic-noetic-autonoetic-consciousness|autonoetic awareness]]: the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. Frequent lucid dreamers have **larger anterior prefrontal cortex volume** and **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition (Baird et al., 2018). The trainability of lucid dreaming (through reality testing, mnemonic induction, and other techniques) suggests practice shapes structure, paralleling changes observed in long-term [[meditation-and-consciousness-modes|meditators]].
 
 ### Predictive Processing and Dream Bizarreness
 

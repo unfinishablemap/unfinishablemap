@@ -8,7 +8,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[cognitive-phenomenology]]"
   - "[[temporal-consciousness]]"
 related_articles:
@@ -143,7 +143,7 @@ If noetic consciousness involves irreducible phenomenology (TOT feels like somet
 ### Relation to Autonoetic Coverage
 
 The Map now covers:
-- **Autonoetic** (episodic): [[autonoetic-consciousness]]
+- **Autonoetic** (episodic): [[anoetic-noetic-autonoetic-consciousness]]
 - **Prospective**: [[prospective-memory]]
 - **Working memory**: [[working-memory]]
 

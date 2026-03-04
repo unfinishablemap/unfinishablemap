@@ -2629,7 +2629,7 @@ archived: true
 - **Topic**: Autonoetic consciousness
 - **Output**: [[concepts/autonoetic-consciousness]]
 - **Word count**: 1484
-- **Based on research**: yes, [[autonoetic-consciousness-2026-02-24]]
+- **Based on research**: yes, [[anoetic-noetic-autonoetic-consciousness-2026-02-24]]
 
 ---
 

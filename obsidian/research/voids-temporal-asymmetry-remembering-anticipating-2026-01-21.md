@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[temporal-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[episodic-memory]]"
   - "[[prospective-memory]]"
   - "[[mysterianism]]"

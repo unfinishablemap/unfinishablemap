@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[working-memory]]"
@@ -39,7 +39,7 @@ last_deep_review: 2026-02-03T06:28:00+00:00
 
 When you leave home intending to buy milk, something must hold that intention during your commute so it "pops" into awareness when you pass the shop. This is prospective memory (PM)—remembering to perform planned actions in the future. Unlike retrospective memory (remembering what happened), PM is about remembering what to do. The capacity to maintain intentions across time, simulate future scenarios, and execute delayed plans represents a distinctively conscious form of cognition that connects intimately to free will and agency.
 
-Prospective memory matters for The Unfinishable Map's framework because it complements [[autonoetic-consciousness|autonoetic consciousness]]'s pastward mental time travel with futureward projection. If consciousness enables bidirectional temporal self-projection, this isn't merely a capacity for episodic replay but an active power to shape future action. The phenomenology of intention formation, the "pop" of prospective retrieval, and the causal influence of future simulation on present decisions all suggest consciousness participates in directing behaviour—not merely witnessing it.
+Prospective memory matters for The Unfinishable Map's framework because it complements [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]]'s pastward mental time travel with futureward projection. If consciousness enables bidirectional temporal self-projection, this isn't merely a capacity for episodic replay but an active power to shape future action. The phenomenology of intention formation, the "pop" of prospective retrieval, and the causal influence of future simulation on present decisions all suggest consciousness participates in directing behaviour—not merely witnessing it.
 
 ## Types of Prospective Memory
 
@@ -63,7 +63,7 @@ Mental time travel is genuinely bidirectional—a unified capacity for temporal 
 
 ### Patient KC: The Double Deficit
 
-[[autonoetic-consciousness|Patient KC]] couldn't remember events from his personal past *or* imagine events in his personal future—when asked what he would do tomorrow, his mind was "blank." This double deficit confirms that pastward and futureward projection share a common foundation: autonoetic consciousness. The self that remembers yesterday is the same self that imagines tomorrow.
+[[anoetic-noetic-autonoetic-consciousness|Patient KC]] couldn't remember events from his personal past *or* imagine events in his personal future—when asked what he would do tomorrow, his mind was "blank." This double deficit confirms that pastward and futureward projection share a common foundation: autonoetic consciousness. The self that remembers yesterday is the same self that imagines tomorrow.
 
 ## The Phenomenology of Futurity
 
@@ -168,7 +168,7 @@ Prospective memory and future-oriented consciousness support all five foundation
 ## Further Reading
 
 - [[temporal-asymmetry-remembering-anticipating]] — The void at the boundary between memory and anticipation
-- [[autonoetic-consciousness]] — Mental time travel in both directions
+- [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel in both directions
 - [[episodic-memory]] — Pastward mental time travel and the pastness quale
 - [[working-memory]] — The cognitive workspace for future simulation
 - [[temporal-consciousness]] — The specious present and temporal structure

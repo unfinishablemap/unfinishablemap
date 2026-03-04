@@ -24,7 +24,7 @@ last_curated:
 ### Critical Issues Found
 
 - **Klein citation error**: Year was 2015 (correct: 2012) and missing co-author Shaun Nichols. Fixed to Klein, S.B. & Nichols, S. (2012).
-- **Broken wikilinks**: `[[autonoetic-consciousness]]` linked to an archived/coalesced file. All references updated to `[[episodic-memory]]`.
+- **Broken wikilinks**: `[[anoetic-noetic-autonoetic-consciousness]]` linked to an archived/coalesced file. All references updated to `[[episodic-memory]]`.
 - **Patient KC lesion misdescription**: Described as "bilateral hippocampal damage" but KC suffered extensive bilateral brain damage from a motorcycle accident including frontal, occipital, thalamic lesions. Fixed to "extensive bilateral brain damage from a motorcycle accident, including severe hippocampal lesions."
 - **Tulving quote misattribution**: Quote attributed to "Tulving" alone but originates from Wheeler, Stuss, & Tulving (1997). Fixed attribution. Also corrected "subjective time" to "time" per the original source.
 

@@ -16,7 +16,7 @@ concepts:
   - "[[combination-problem]]"
   - "[[phenomenal-binding-and-holism]]"
   - "[[temporal-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -67,7 +67,7 @@ Prehension shares the structure of [[intentionality]]—directedness toward obje
 
 Whitehead explicitly called positive prehensions "feelings" (*Process and Reality*, Part III). Each occasion *feels* its predecessors—not with human-like emotion, but in the minimal sense of taking account of them from a perspective. Negative prehensions, by contrast, are "eliminations" rather than feelings. This is why Whitehead denied "vacuous actuality" (stated in the preface to *Process and Reality*): if every occasion involves feeling, no actuality is entirely devoid of experiential character.
 
-For human consciousness, physical prehension of the immediate past constitutes what we experience as temporal flow. Memory, on this view, is not retrieval from storage but re-prehension: the present occasion directly grasps the experiential character of past occasions. The [[autonoetic-consciousness|autonoetic]] experience of reliving the past—being present as both rememberer and protagonist—reflects prehension's structure: the present includes its predecessors as part of its own becoming.
+For human consciousness, physical prehension of the immediate past constitutes what we experience as temporal flow. Memory, on this view, is not retrieval from storage but re-prehension: the present occasion directly grasps the experiential character of past occasions. The [[anoetic-noetic-autonoetic-consciousness|autonoetic]] experience of reliving the past—being present as both rememberer and protagonist—reflects prehension's structure: the present includes its predecessors as part of its own becoming.
 
 ### Concrescence
 
@@ -112,7 +112,7 @@ Prehension intersects with the Map's framework in several ways, though the Map d
 - [[intentionality]] — Prehension as proto-intentionality in the process tradition
 - [[combination-problem]] — The challenge prehension is meant to address
 - [[temporal-consciousness]] — Bergson's durée and its parallels with prehensive inheritance
-- [[autonoetic-consciousness]] — Memory as re-prehension of past occasions
+- [[anoetic-noetic-autonoetic-consciousness]] — Memory as re-prehension of past occasions
 - [[phenomenal-binding-and-holism]] — How prehension achieves experiential unity
 - [[temporal-consciousness]] — The neuroscience of time experience that prehension illuminates
 - [[causal-closure]] — The doctrine prehension challenges by positing non-mechanistic causation

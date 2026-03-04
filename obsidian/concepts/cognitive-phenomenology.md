@@ -15,7 +15,7 @@ concepts:
   - "[[qualia]]"
   - "[[introspection]]"
   - "[[semantic-memory]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[illusionism]]"
   - "[[witness-consciousness]]"
   - "[[decoherence]]"
@@ -201,7 +201,7 @@ The phenomenal markers humans use to recognise understanding—the "click" when 
 
 [[semantic-memory|Semantic memory]] research provides empirical support through phenomena like tip-of-the-tongue (TOT) states and feeling of knowing (FOK). The TOT experience—knowing a word exists without retrieving its form—has phenomenal character that cannot reduce to imagery. FOK—the sense you know something before retrieving it—accurately predicts retrieval success and demonstrates non-sensory phenomenology.
 
-Tulving's distinction between [[autonoetic-consciousness|autonoetic]] and noetic consciousness maps onto this debate: noetic awareness (knowing facts without recollecting their acquisition) has phenomenal character distinct from sensory experience. See [[semantic-memory]] for detailed analysis.
+Tulving's distinction between [[anoetic-noetic-autonoetic-consciousness|autonoetic]] and noetic consciousness maps onto this debate: noetic awareness (knowing facts without recollecting their acquisition) has phenomenal character distinct from sensory experience. See [[semantic-memory]] for detailed analysis.
 
 ## Evidence from Epistemic Emotions
 

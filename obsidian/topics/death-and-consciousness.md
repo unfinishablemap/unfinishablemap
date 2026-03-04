@@ -18,7 +18,7 @@ concepts:
   - "[[filter-theory]]"
   - "[[parfit-reductionism]]"
   - "[[episodic-memory]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[altered-states-of-consciousness]]"
   - "[[illusionism]]"
   - "[[introspection]]"
@@ -78,7 +78,7 @@ The Map rejects this. As discussed in the [[personal-identity]] article, indexic
 
 ### The Autobiographical Self That Dies
 
-[[episodic-memory|Episodic memory]] reveals what exactly is lost at death: the *extended self* that spans time through mental time travel. This capacity—[[autonoetic-consciousness|autonoetic consciousness]]—doesn't merely store information about your history; it constitutes you as a being with a history.
+[[episodic-memory|Episodic memory]] reveals what exactly is lost at death: the *extended self* that spans time through mental time travel. This capacity—[[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]]—doesn't merely store information about your history; it constitutes you as a being with a history.
 
 Patient KC, after hippocampal damage destroyed his episodic memory, retained semantic knowledge but lost the ability to re-experience his past or project into his future. He was confined to an eternal present. Death is the permanent loss of this extended self—not just a biological organism but the unique perspective from which a particular history was lived.
 

@@ -14,7 +14,7 @@ concepts:
   - "[[death-and-consciousness]]"
   - "[[split-brain-consciousness]]"
   - "[[self-and-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[concepts/many-worlds]]"
   - "[[parfit-reductionism]]"
   - "[[haecceity]]"
@@ -53,7 +53,7 @@ Three main positions dominate the debate about what makes someone at one time th
 
 Recent phenomenological work distinguishes these from a more basic [[self-and-consciousness|minimal self]]—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
-[[autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [[autonoetic-consciousness|constitutive view]] holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [[past-self-void]] reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [[anoetic-noetic-autonoetic-consciousness|constitutive view]] holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [[past-self-void]] reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
 ## Parfit's Challenge
 
@@ -109,7 +109,7 @@ This doesn't require a Cartesian soul. It means what makes you the same person m
 
 ### The Bidirectional Connection
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. This gives your consciousness a unique causal history—the specific pattern of quantum selections, neural influences, and physical effects that constitute your life. [[autonoetic-consciousness|Autonoetic consciousness]] illustrates the point: the felt quality of temporal self-projection drives planning and counterfactual reasoning through specifically conscious experience, not mere information processing.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. This gives your consciousness a unique causal history—the specific pattern of quantum selections, neural influences, and physical effects that constitute your life. [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] illustrates the point: the felt quality of temporal self-projection drives planning and counterfactual reasoning through specifically conscious experience, not mere information processing.
 
 A replica wouldn't share this causal history. Its consciousness would begin influencing physics from its creation, not from your birth—a new agent, not you continued.
 
@@ -210,7 +210,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[concepts/many-worlds]] — Why the Map rejects many-worlds (the indexical problem is central)
 - [[haecceity]] — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
 - [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
-- [[autonoetic-consciousness]] — Mental time travel and the temporal self
+- [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require
 - [[dreamless-sleep-void]] — The nightly gap in consciousness and what it means for identity

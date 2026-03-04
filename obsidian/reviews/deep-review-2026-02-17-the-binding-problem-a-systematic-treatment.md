@@ -23,7 +23,7 @@ last_curated: null
 
 ### Critical Issues Found
 
-- **Broken concept links to archived articles**: `[[multimodal-binding]]`, `[[autonoetic-consciousness]]`, and `[[neural-binding-mechanisms]]` were all archived but still referenced in frontmatter and body text. Fixed: replaced with `[[phenomenal-binding-and-holism]]`, `[[episodic-memory]]`, and updated body wikilinks accordingly.
+- **Broken concept links to archived articles**: `[[multimodal-binding]]`, `[[anoetic-noetic-autonoetic-consciousness]]`, and `[[neural-binding-mechanisms]]` were all archived but still referenced in frontmatter and body text. Fixed: replaced with `[[phenomenal-binding-and-holism]]`, `[[episodic-memory]]`, and updated body wikilinks accordingly.
 
 - **Bayne & Chalmers attribution precision**: Article stated "This is Bayne and Chalmers's 'conjoint phenomenology' applied to thought" — implying they made this extension. Fixed: rephrased to "Extending Bayne and Chalmers's concept of 'conjoint phenomenology' from perception to thought" to make clear this is the Map's extension.
 
@@ -81,7 +81,7 @@ last_curated: null
 
 - [[downward-causation]] (concepts list and Further Reading)
 - [[prehension]] (concepts list)
-- [[episodic-memory]] (replaced archived [[autonoetic-consciousness]])
+- [[episodic-memory]] (replaced archived [[anoetic-noetic-autonoetic-consciousness]])
 - [[phenomenal-binding-and-holism]] (replaced archived [[multimodal-binding]] and [[neural-binding-mechanisms]])
 
 ## Remaining Items

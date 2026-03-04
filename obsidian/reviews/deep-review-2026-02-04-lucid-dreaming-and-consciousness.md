@@ -72,7 +72,7 @@ None. The previous review (2026-01-22) addressed critical issues including:
 
 ### Cross-links Added
 
-None needed—previous review already added [[autonoetic-consciousness]], [[phenomenology-of-choice]], [[interactionist-dualism]].
+None needed—previous review already added [[anoetic-noetic-autonoetic-consciousness]], [[phenomenology-of-choice]], [[interactionist-dualism]].
 
 ## Word Count
 

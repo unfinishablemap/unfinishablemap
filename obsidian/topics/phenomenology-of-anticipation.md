@@ -14,7 +14,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[temporal-consciousness]]"
   - "[[temporal-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[prospective-memory]]"
   - "[[qualia]]"
   - "[[process-philosophy]]"

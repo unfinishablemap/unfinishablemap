@@ -16,7 +16,7 @@ last_curated:
 ---
 
 **Date**: 2026-02-24
-**Article**: [[autonoetic-consciousness|Autonoetic Consciousness]]
+**Article**: [[anoetic-noetic-autonoetic-consciousness|Autonoetic Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

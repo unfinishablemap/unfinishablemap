@@ -10,7 +10,7 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[temporal-consciousness]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[working-memory]]"
   - "[[temporal-consciousness]]"
 related_articles:

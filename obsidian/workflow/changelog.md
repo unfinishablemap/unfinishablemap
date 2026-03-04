@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 21:47 UTC - deep-review (wikilink update)
+- **Status**: Success
+- **Task**: Update stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
+- **Files modified**: 50
+- **Occurrences replaced**: 103
+
 ## 2026-03-04 21:25 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/minds-without-words]]
