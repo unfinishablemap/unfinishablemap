@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 21:25 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/minds-without-words]]
+- **Changed sources**: 4 (animal-consciousness, consciousness-in-simple-organisms, baseline-cognition, emotional-consciousness)
+- **Word count**: ~4200 → ~2619
+- **Review**: [[reviews/apex-evolve-2026-03-04-minds-without-words]]
+
 ## 2026-03-04 21:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/fragmented-consciousness]]
