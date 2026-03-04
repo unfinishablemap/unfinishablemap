@@ -4,12 +4,14 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T19:17:00+00:00
+ai_modified: 2026-03-04T19:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-scientific-methodology]]"
   - "[[consciousness-and-the-limits-of-explanation]]"
+  - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
+  - "[[consciousness-and-the-phenomenology-of-framework-dependence]]"
 concepts:
   - "[[philosophy-of-science-under-dualism]]"
   - "[[integrated-information-theory]]"
@@ -26,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-04T19:48:00+00:00
 ---
 
 The Duhem-Quine thesis holds that no scientific hypothesis is tested in isolation—every empirical test presupposes auxiliary assumptions, and when a prediction fails, logic alone cannot determine which assumption to revise. In consciousness science, this problem reaches an extreme form. Rival theories such as [[integrated-information-theory|Integrated Information Theory]] (IIT), [[global-workspace-theory|Global Workspace Theory]] (GWT), higher-order theories, and dualist frameworks all confront the same neural data yet draw incompatible conclusions. The 2025 COGITATE adversarial collaboration tested IIT against GWT under pre-registered conditions and found that neither theory was decisively supported—the same results admitted interpretation under both frameworks. The Unfinishable Map argues that this is not a temporary embarrassment awaiting better experiments. It reflects genuine underdetermination rooted in the structure of the consciousness problem itself.
@@ -43,7 +45,7 @@ Standard underdetermination in physics or biology involves theories that share a
 
 This creates a layered underdetermination:
 
-1. **Theory-ladenness of neural data.** What counts as a "neural correlate of consciousness" depends on which theory defines the relevant contrast. IIT looks for integrated information in posterior cortex; GWT looks for global broadcast to prefrontal areas. The same brain scan supports different claims depending on which theoretical lens interprets it.
+1. **Theory-ladenness of neural data.** What counts as a "neural correlate of consciousness" depends on which theory defines the relevant contrast. IIT looks for integrated information in posterior cortex; GWT looks for global broadcast to prefrontal areas. The same brain scan supports different claims depending on which theoretical lens interprets it. This is an instance of the broader [[consciousness-and-the-phenomenology-of-framework-dependence|framework dependence]] that pervades consciousness research—frameworks do not merely organise evidence but determine what counts as evidence.
 
 2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically.
 
@@ -57,7 +59,7 @@ No decisive verdict emerged. As the investigators acknowledged, "the theories ar
 
 ## Lakatos and Consciousness Research Programmes
 
-Lenharo (2024) proposed that Lakatos's methodology of scientific research programmes offers a better framework than "experimental eliminativism" for consciousness science. On this view, each consciousness theory has a **hard core** of commitments protected by a **belt** of auxiliary hypotheses. When predictions fail, researchers revise auxiliaries rather than abandoning the core—and this is rational, provided the programme remains **progressive** (generating novel, testable predictions) rather than **degenerating** (merely accommodating evidence after the fact).
+Negro (2024) proposed that Lakatos's methodology of scientific research programmes offers a better framework than "experimental eliminativism" for consciousness science. On this view, each consciousness theory has a **hard core** of commitments protected by a **belt** of auxiliary hypotheses. When predictions fail, researchers revise auxiliaries rather than abandoning the core—and this is rational, provided the programme remains **progressive** (generating novel, testable predictions) rather than **degenerating** (merely accommodating evidence after the fact).
 
 After COGITATE, both IIT and GWT remained progressive by Lakatosian standards. Both responded to mixed results by revising auxiliary hypotheses and generating new predictions. Lakatos's key insight applies: "a degenerating research programme can ultimately be discarded only by another research programme, not by an experiment." No single experiment—however well-designed—can eliminate a theory that can rationally revise its auxiliaries.
 
@@ -73,7 +75,7 @@ Applied to consciousness science—where over 325 distinct theories have been ca
 
 When evidence underdetermines theory choice, what guides scientists? Kuhn argued that beyond accuracy, scientists invoke values: consistency, scope, simplicity, and fruitfulness. These function as criteria but do not determine unique choices—researchers can weight them differently and rationally arrive at different conclusions.
 
-This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [[epistemological-limits-of-occams-razor|Occam's Razor]] shows, simplicity is unreliable when knowledge is incomplete. The apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight. If Kuhnian values legitimately influence theory choice, then metaphysical commitments—including dualism—are not illegitimate intrusions into science but recognised components of rational theory selection.
+This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [[epistemological-limits-of-occams-razor|Occam's Razor]] shows, simplicity is unreliable when knowledge is incomplete. The apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight. The Map's examination of [[consciousness-and-the-problem-of-theoretical-virtues|theoretical virtues in consciousness science]] extends this point: virtues like simplicity, scope, and elegance systematically malfunction when applied to consciousness, because they were calibrated in domains where the observer plays no constitutive role. If Kuhnian values legitimately influence theory choice, then metaphysical commitments—including dualism—are not illegitimate intrusions into science but recognised components of rational theory selection.
 
 ## Relation to Site Perspective
 
@@ -81,7 +83,7 @@ The Duhem-Quine thesis aligns with several of the Map's [[tenets]]:
 
 **Occam's Razor Has Limits.** Underdetermination provides the philosophical grounding for this tenet. If multiple theories can accommodate the same evidence, parsimony alone cannot adjudicate between them. The preference for physicalism on simplicity grounds is not a finding—it is a value judgement made under conditions of genuine underdetermination. The Map treats this not as a counsel of despair but as an intellectual liberation: when simplicity cannot settle the question, other considerations—explanatory power, coherence with first-person experience, theoretical fruitfulness—deserve equal weight.
 
-**Dualism as a live research programme.** The Lakatosian framework legitimises dualist interactionism provided it generates novel predictions. The Map's specific commitments—[[interactionist-dualism|bidirectional interaction]], minimal quantum influence, rejection of many-worlds—constitute a hard core that makes distinctive predictions (about the role of quantum indeterminacy in neural processing, about the irreducibility of first-person data, about the failure of purely functional accounts). Whether this programme proves progressive depends on whether these commitments lead to novel, confirmed predictions over time. The Map speculates that they will, but acknowledges that this is an empirical question that cannot be settled by philosophical argument alone.
+**Dualism as a live research programme.** The Lakatosian framework legitimises dualist interactionism provided it generates novel predictions. The Map's specific commitments—[[interactionist-dualism|bidirectional interaction]], minimal quantum influence, rejection of many-worlds—constitute a hard core that makes distinctive predictions: that purely functional accounts of consciousness will continue to face explanatory gaps no matter how refined, that first-person data will resist third-person reduction, and that neural processes at quantum-sensitive decision points will show statistical signatures inconsistent with purely physical noise. Whether this programme proves progressive depends on whether these commitments lead to novel, confirmed predictions over time. The Map holds that they will, but acknowledges that this is an empirical question that cannot be settled by philosophical argument alone.
 
 **The hard problem as underdetermination marker.** The Map interprets the persistence of the [[hard-problem-of-consciousness|hard problem]] not as mere philosophical stubbornness but as a symptom of deep underdetermination. The gap between physical description and subjective experience is not a puzzle awaiting one more experiment—it marks the point where auxiliary assumptions diverge so fundamentally that no shared evidential base can force convergence. Physicalists and dualists do not merely disagree about data; they disagree about what would count as an adequate explanation.
 
@@ -92,6 +94,8 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 - [[hard-problem-of-consciousness]]
 - [[philosophy-of-science-under-dualism]]
 - [[epistemological-limits-of-occams-razor]]
+- [[consciousness-and-the-problem-of-theoretical-virtues]]
+- [[consciousness-and-the-phenomenology-of-framework-dependence]]
 - [[integrated-information-theory]]
 - [[global-workspace-theory]]
 - [[neural-correlates-of-consciousness]]
@@ -106,7 +110,7 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 5. Chalmers, D. J. (2013). How Can We Construct a Science of Consciousness? *Annals of the New York Academy of Sciences*, 1303(1), 25-35.
 6. Stanford, P. K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
 7. Kuhn, R. L. (2023). A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. *Progress in Biophysics and Molecular Biology*.
-8. Lenharo, M. (2024). (Dis)confirming Theories of Consciousness and Their Predictions: Towards a Lakatosian Consciousness Science. *Neuroscience of Consciousness*, 2024(1), niae012.
-9. COGITATE Consortium (2025). Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness. *Nature*, 642, 886-895.
+8. Negro, N. (2024). (Dis)confirming Theories of Consciousness and Their Predictions: Towards a Lakatosian Consciousness Science. *Neuroscience of Consciousness*, 2024(1), niae012.
+9. COGITATE Consortium (2025). Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness. *Nature*, 642(8066), 133-142.
 10. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
 11. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/
