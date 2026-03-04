@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 00:42 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenology-of-normative-conflict.md
+- **Reason**: File was archived on 2026-02-25, coalesced into [[topics/phenomenology-of-normative-experience]]. Cannot deep-review archived content.
+- **Cleanup performed**:
+  - Removed stale `hugo/content/topics/phenomenology-of-normative-conflict.md` (should have been deleted during archival)
+  - Removed stale P2 integrate-orphan task from todo.md (referenced archived file)
+
 ## 2026-03-03 23:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-03T16:41:00+00:00
+ai_modified: 2026-03-04T01:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,18 +37,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-normative-conflict.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-18) on the phenomenology of normative conflict — the felt experience of moral dilemmas, value clashes, and obligation tensions. Add cross-references from phenomenology-of-normative-experience.md, ethics-of-consciousness.md, moral-responsibility.md, and consciousness-and-moral-agency-under-duress.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-03
+### P2: Remove 9 stale hugo files from archived/coalesced articles
+- **Type**: other
+- **Notes**: Nine hugo/content/ files persist from articles that were archived or coalesced, inflating the orphan count (13 reported vs 3 genuine) and potentially causing rendering issues. Archived files with stale hugo copies: consciousness-and-pain, consciousness-and-temporal-integration, contemplative-reliability, phenomenology-of-normative-properties, measurement-problem-as-hard-problem, phenomenology-of-inferential-understanding, surprise-and-creativity (all in archive/). Coalesced files: apophatic-approaches (→ apophatic-cartography), autonoetic-consciousness (→ anoetic-noetic-autonoetic-consciousness). Delete each stale hugo/content/ file and verify the archive/ redirects are correct.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-04
 
-### P2: Address high-severity issues in attention-as-causal-bridge.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-03-03) found two high-severity issues: (1) "consistent with" conflated with "evidence for" throughout — the cumulative case never shows physicalism is *strained* by the pattern, only that dualism is *available*; (2) the three-layer architecture (neural computation → dopamine threshold → consciousness selection) is presented with unwarranted confidence and the Cai et al. 2024 citation is over-interpreted. Also medium issues: flow state undermines the effort argument, quantum Zeno overemphasis per style guide, Meister 2024 scope mismatch. See pessimistic-2026-03-03.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-03
+### P2: Review embodied-cognition.md considering phenomenological-psychiatry insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-psychiatry-and-altered-experience.md (2026-03-03) covers Fuchs on embodied temporality and psychiatric alterations of experience. concepts/embodied-cognition.md addresses how cognition is shaped by bodily processes — Fuchs is a major figure in both fields. Check for cross-links, ensure embodied-cognition references the new phenomenological-psychiatry evidence, and verify consistent treatment of Fuchs's framework. Supports Tenet 1 (Dualism).
+- **Source**: chain (from phenomenological-psychiatry-and-altered-experience.md)
+- **Generated**: 2026-03-04
+
+### P2: Review attention-as-selection-interface.md considering asymmetric-bandwidth insights
+- **Type**: cross-review
+- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (2026-03-03) demonstrates a 100-million-fold gap between inbound (~1 Gbps) and outbound (~10 bits/s) bandwidth. topics/attention-as-selection-interface.md argues consciousness acts by selecting among neural alternatives — the bandwidth asymmetry directly constrains how selection operates and strengthens the case that consciousness is a coarse-grained selector, not a fine-grained processor. Check for cross-links and argument reinforcement. Supports Tenet 2 and Tenet 3.
+- **Source**: chain (from asymmetric-bandwidth-of-consciousness.md)
+- **Generated**: 2026-03-04
+
+### P2: Integrate valence-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks from any content article. Voids article (created 2026-02-18) examining why positive and negative feel the way they do — the qualitative character of valence resists explanation. Relevant to the Map's treatment of phenomenal value, emotion, and the limits of functional accounts. Add cross-references from emotion-as-evidence-for-dualism.md, phenomenal-value-realism.md, why-pain-hurts.md, and affective-void.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
+### P2: Integrate epistemological-limits-of-occams-razor.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks from any content article. Arguments article (created 2026-02-06) directly supporting Tenet 5 (Occam's Razor Has Limits) — the Map's least-covered foundational commitment. Add cross-references from occams-razor.md (if it exists), tenets.md, arguments-for-dualism.md, and philosophy-of-science-under-dualism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
 
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
@@ -518,6 +535,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate phenomenology-of-normative-conflict.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-18) on the phenomenology of normative conflict — the felt experience of moral dilemmas, value clashes, and obligation tensions. Add cross-references from phenomenology-of-normative-experience.md, ethics-of-consciousness.md, moral-responsibility.md, and consciousness-and-moral-agency-under-duress.md.
+- **Output**: phenomenology-of-normative-conflict.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-03: Integrate autonoetic-consciousness.md into site navigation
 - **Type**: integrate-orphan
