@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 09:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Causal Delegation (concept page for delegatory dualism)
+- **Output**: [[causal-delegation]]
+- **Word count**: 1119
+- **Based on research**: yes, [[bradford-saad-delegatory-dualism-2026-01-28]]
+
 ## 2026-03-04 08:52 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Dreams as a Natural Laboratory for Consciousness

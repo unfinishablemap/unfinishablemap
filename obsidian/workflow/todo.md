@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page for delegatory dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism — Bradford Saad's framework where consciousness delegates processing to neural systems and intervenes at key decision points — is referenced 50+ times across 29 files but has no dedicated concept page. This is the Map's preferred form of interactionist dualism and a critical gap. Target section: concepts/ (5 slots remaining). Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-04
-
 ### P2: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
 - **Type**: cross-review
 - **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides experimental evidence from Konkoly's two-way REM communication, Dormio sleep-onset incubation, and systematic analysis of dreams as natural experiments on consciousness. topics/dream-consciousness.md covers lucid dreaming, filter theory, and creativity in dreams and should cross-reference the new article's empirical laboratory framing. Add cross-links and check for reinforcing arguments.
@@ -571,6 +565,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write concept page for delegatory dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism — Bradford Saad's framework where consciousness delegates processing to neural systems and intervenes at key decision points — is referenced 50+ times across 29 files but has no dedicated concept page. This is the Map's preferred form of interactionist dualism and a critical gap. Target section: concepts/ (5 slots remaining). Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: Write concept page for delegatory dualism
 
 ### ✓ 2026-03-04: Write article on dreams, problem-solving, and lucid dreaming
 - **Type**: expand-topic
