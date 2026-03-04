@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mental-causation.md considering causal-delegation insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/causal-delegation.md (2026-03-04) introduces causal delegation as a specific mechanism for mental causation. concepts/mental-causation.md is the Map's central treatment of how mind causes physical effects and should cross-reference the new page's treatment of delegation as a form of downward causation. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from causal-delegation.md)
-- **Generated**: 2026-03-04
-
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -562,6 +556,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review mental-causation.md considering causal-delegation insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/causal-delegation.md (2026-03-04) introduces causal delegation as a specific mechanism for mental causation. concepts/mental-causation.md is the Map's central treatment of how mind causes physical effects and should cross-reference the new page's treatment of delegation as a form of downward causation. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering causal-delegation insights
 
 ### ✓ 2026-03-04: Integrate contemplative-reliability.md into site navigation
 - **Type**: integrate-orphan

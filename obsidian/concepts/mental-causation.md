@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-02T16:52:00+00:00
+ai_modified: 2026-03-04T12:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[bidirectional-interaction]]"
   - "[[conservation-laws-mind-brain-causation]]"
+  - "[[causal-delegation]]"
   - "[[delegatory-dualism]]"
   - "[[preemption]]"
   - "[[observational-closure]]"
@@ -42,7 +43,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-26T17:46:00+00:00
+last_deep_review: 2026-03-04T12:22:00+00:00
 ---
 
 Mental causation — one of the central problems in [[philosophy-of-mind|philosophy of mind]] — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -234,6 +235,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[selection-laws]] — The downward direction of psychophysical laws: how mental states select physical outcomes
 - [[psychophysical-laws]] — Framework for psychophysical laws including candidate coupling mechanisms
 - [[coupling-modes]] — Taxonomy of how consciousness couples: basis, timing, or probability control
+- [[causal-delegation]] — The mechanism by which physical states hand off causal work to experiences
 - [[delegatory-dualism]] — Saad's 2025 response to exclusion: experiences preempt rather than overdetermine
 - [[choking-phenomenon-mental-causation]] — Empirical evidence: conscious interference with automatized skills demonstrates causation
 - [[bidirectional-interaction]] — The Map's foundational commitment to consciousness causally influencing the physical world

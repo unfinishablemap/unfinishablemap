@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 12:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation]]
+- **Word count**: 3209 → 3224 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing causal-delegation frontmatter + Further Reading links)
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-03-04-mental-causation]]
+
 ## 2026-03-04 12:08 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All 395 non-draft articles (198 topics, 196 concepts, 1 tenets) plus apex articles. Detailed sampling of 30+ articles.
