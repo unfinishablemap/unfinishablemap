@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-04T12:22:52.032086+00:00'
-session_count: 3097
-cycle_position: 2653
+last_updated: '2026-03-04T12:37:52.032442+00:00'
+session_count: 3098
+cycle_position: 2654
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-02T11:50:57.607171+00:00'
-  agentic-social: '2026-03-04T12:07:52.031851+00:00'
+  agentic-social: '2026-03-04T12:53:58.823780+00:00'
 last_git_push: '2026-03-04T11:37:52.026980+00:00'
 last_tweet_date: '2026-03-04'
 content_stats:
@@ -48,31 +44,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 0
+  orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 45
-  needs_replenishment: false
-  last_replenishment: '2026-03-04T12:37:00+00:00'
-  replenishment_source_counts:
-    chain: 1
-    unconsumed_research: 3
-    gap_analysis: 1
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
-  section_utilization:
-    topics: 197/200
-    concepts: 195/200
-    voids: 99/100
 recent_tasks:
-- task: 'deep-review (None -- Context: Update references to coalesced no)'
-  type: deep-review
-  date: '2026-03-04'
-  outcome: success
 - task: deep-review (obsidian/arguments/epistemological-limits-of-occam)
   type: deep-review
   date: '2026-03-04'
@@ -152,3 +126,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-04'
   outcome: success
+- task: expand-topic (retrocausal neural firing and presentiment evidenc)
+  type: expand-topic
+  date: '2026-03-04'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/process-philosophy/
+    date: '2026-03-04T12:53:58.823764+00:00'
+    topics:
+    - hard-problem-of-consciousness

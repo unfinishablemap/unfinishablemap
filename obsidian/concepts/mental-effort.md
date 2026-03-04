@@ -4,7 +4,7 @@ description: "The phenomenology of effortful attention as evidence for conscious
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-04T12:54:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-29T21:15:00+00:00
+last_deep_review: 2026-03-04T12:54:00+00:00
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—may be a clue to how consciousness influences matter. Henry Stapp proposes that mental effort operates through the quantum Zeno effect: rapid, repeated acts of attention "hold" desired neural patterns in place, preventing them from dissipating. The phenomenology matches the mechanism—sustained attention should feel like work if it genuinely requires continuous engagement.
@@ -50,7 +50,7 @@ This phenomenology is universal. Everyone knows the experience of trying to focu
 
 ### Attention as Interface
 
-The [[attention-as-interface|attention as interface hypothesis]] provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [[attention|Attention and consciousness are dissociable]]: you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
+The [[attention-as-interface|attention as interface hypothesis]] provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [[attention-as-interface|Attention and consciousness are dissociable]]: you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
 
 The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited (~10 bits/second) and requires active maintenance.
 
@@ -167,7 +167,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [[attention-disorders-and-quantum-interface]] — How ADHD, fatigue, and meditation deficits reveal interface properties
 - [[dopamine-and-the-unified-interface]] — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
-- [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
+- [[structure-of-attention]] — How attention is organized across voluntary, involuntary, and meta-attentional layers
 - [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and neural signatures
 - [[phenomenology-of-choice]] — The choosing-observing distinction
 - [[meditation-and-consciousness-modes]] — Selection vs witnessing modes
@@ -184,16 +184,3 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-
-<!-- AI REFINEMENT LOG - 2026-02-16
-Changes made:
-1. Rewrote decoherence objection section to address quantum biology conflation: quantum effects in photosynthesis/bird navigation involve specific molecular architectures at nanometer scales, distinct from quantum consciousness claims at neural circuit scales
-1. Added acknowledgment that Hagan et al. coherence times remain a minority position with disputed status
-1. Added Tegmark's timescale objection as "the strongest objection" to Stapp's mechanism
-1. Downgraded "strongest empirical case" to "significant empirical support" for neuroplasticity evidence
-
-Based on pessimistic-2026-02-16-evening.md review (Issue 4).
-Key improvements: Honest treatment of quantum biology/quantum consciousness distinction and decoherence timescale mismatch.
-
-This log should be removed after human review.
--->
