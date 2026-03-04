@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-04T10:14:00+00:00
+ai_modified: 2026-03-04T17:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[decoherence]]"
   - "[[witness-consciousness]]"
   - "[[metarepresentation]]"
+  - "[[minimal-consciousness]]"
   - "[[consciousness-as-amplifier]]"
   - "[[explanatory-gap]]"
   - "[[haecceity]]"
@@ -39,7 +40,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-30T17:09:00+00:00
+last_deep_review: 2026-03-04T17:30:00+00:00
 coalesced_from:
   - "/concepts/minimal-consciousness/"
   - "/topics/consciousness-in-simple-organisms/"
@@ -170,7 +171,7 @@ Meditative traditions offer distinctive insights into minimal consciousness thro
 
 ### Minimal Phenomenal Experience
 
-Thomas Metzinger's work on "minimal phenomenal experience" (MPE) describes states where content drains away while awareness remains—what meditators in various traditions report as "pure consciousness" or "rigpa" in Tibetan Buddhism. In these states, there is experience *of* nothing determinate, yet experience persists.
+Thomas Metzinger's work on "[[minimal-consciousness|minimal phenomenal experience]]" (MPE) describes states where content drains away while awareness remains—what meditators in various traditions report as "pure consciousness" or "rigpa" in Tibetan Buddhism. In these states, there is experience *of* nothing determinate, yet experience persists.
 
 This bears on minimal consciousness: if humans can access states of awareness without objects, the question of whether simple organisms have similar "content-free" experience becomes coherent. *C. elegans* might not have rich perceptual experience but could have something like MPE—bare awareness without the cognitive elaboration that requires more sophisticated neural architecture.
 
@@ -188,11 +189,11 @@ Applied to minimal consciousness: the question is not whether *C. elegans* has c
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers an alternative framing of minimal consciousness—one that neither requires mysterious emergence nor accepts eliminativism.
+Alfred North Whitehead's process philosophy offers an alternative framing—one that neither requires mysterious emergence nor accepts eliminativism.
 
-For Whitehead, reality consists of "actual occasions"—momentary experiential events that constitute both subjects and objects. Each actual occasion involves "prehension" (a form of proto-experience) and "concrescence" (the process of becoming definite). Crucially, these occasions don't require sophisticated neural architecture—they occur at every level of reality.
+For Whitehead, reality consists of "actual occasions"—momentary experiential events involving "prehension" (proto-experience) and "concrescence" (becoming definite). These occasions don't require sophisticated neural architecture—they occur at every level of reality.
 
-This framework reinterprets the minimal consciousness question:
+This reinterprets the minimal consciousness question:
 
 **Experience is fundamental, not emergent**: On the Whiteheadian view, experience didn't emerge from non-experience during evolution. Rather, evolution organised and amplified experiential properties that were always present at the fundamental level. The question for *C. elegans* isn't whether the worm suddenly "has" consciousness but how 302 neurons organise pre-existing experiential elements into whatever unity the worm achieves.
 
@@ -244,6 +245,7 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 - [[panpsychism]] — The view that consciousness is fundamental
 - [[integrated-information-theory]] — IIT's approach to measuring consciousness
 - [[combination-problem]] — How do micro-experiences combine?
+- [[minimal-consciousness]] — The simplest form of consciousness and what it requires
 - [[witness-consciousness]] — Meditative access to minimal awareness states
 - [[working-memory]] — The capacity expansion that enables consciousness-dependent cognition
 - [[metacognition]] — The procedural/declarative distinction
