@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
-- **Type**: cross-review
-- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides experimental evidence from Konkoly's two-way REM communication, Dormio sleep-onset incubation, and systematic analysis of dreams as natural experiments on consciousness. topics/dream-consciousness.md covers lucid dreaming, filter theory, and creativity in dreams and should cross-reference the new article's empirical laboratory framing. Add cross-links and check for reinforcing arguments.
-- **Source**: chain (from dreams-as-consciousness-laboratory.md)
-- **Generated**: 2026-03-04
-
 ### P2: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
 - **Type**: cross-review
 - **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides concrete experimental evidence — Konkoly's puzzle-solving via targeted memory reactivation, Dormio's 43% creativity gain — that directly supports incubation theory. topics/incubation-effect-and-unconscious-processing.md should cross-reference these empirical findings. Add cross-links and ensure consistent treatment of sleep-onset incubation mechanisms.
@@ -565,6 +559,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides experimental evidence from Konkoly's two-way REM communication, Dormio sleep-onset incubation, and systematic analysis of dreams as natural experiments on consciousness. topics/dream-consciousness.md covers lucid dreaming, filter theory, and creativity in dreams and should cross-reference the new article's empirical laboratory framing. Add cross-links and check for reinforcing arguments.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
 
 ### ✓ 2026-03-04: Write concept page for delegatory dualism
 - **Type**: expand-topic
