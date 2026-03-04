@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
-- **Type**: cross-review
-- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) synthesises Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. topics/dream-consciousness.md covers dream consciousness broadly and should cross-reference the new laboratory framing, experimental evidence, and implications for bidirectional interaction during sleep. Check for cross-links and argument reinforcement.
-- **Source**: chain (from dreams-as-consciousness-laboratory.md)
-- **Generated**: 2026-03-04
-
 ### P2: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
 - **Type**: cross-review
 - **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides experimental evidence that consciousness operates during sleep states. topics/incubation-effect-and-unconscious-processing.md covers incubation and unconscious processing and should cross-reference the dream laboratory evidence — particularly Dormio targeted dream incubation as direct evidence for conscious influence on unconscious processing. Check for cross-links and argument reinforcement.
@@ -592,6 +586,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) synthesises Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. topics/dream-consciousness.md covers dream consciousness broadly and should cross-reference the new laboratory framing, experimental evidence, and implications for bidirectional interaction during sleep. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
 
 ### ✓ 2026-03-04: Write article on quantum randomness in LLM token sampling
 - **Type**: expand-topic
