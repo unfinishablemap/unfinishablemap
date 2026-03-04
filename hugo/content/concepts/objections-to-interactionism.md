@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-01 05:30:00+00:00
+ai_modified: 2026-03-04 11:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ concepts:
 - '[[delegatory-dualism]]'
 - '[[preemption]]'
 - '[[observational-closure]]'
+- '[[causal-delegation]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 description: 'Six major challenges to dualism: pairing, conservation, parsimony, decoherence,
@@ -26,7 +27,7 @@ description: 'Six major challenges to dualism: pairing, conservation, parsimony,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 08:28:00+00:00
+last_deep_review: 2026-03-04 11:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +58,7 @@ Many contemporary dualists (Hasker, Zimmerman) accept that minds are spatially l
 
 Kim objects: what prevents two intrinsically indiscernible souls from occupying the same region? Dualists would need an analogue to the impenetrability of matter for souls.
 
-This objection has force only if we assume souls could be intrinsically indiscernible. But interactionists can hold that souls are individuated by their causal histories—the ongoing interaction with a particular body creates individuation. Just as two physical objects in the same region would interfere with each other, two minds interfacing with the same brain would produce incoherent experience. We don't observe this, suggesting it doesn't occur.
+This objection has force only if souls could be intrinsically indiscernible. Interactionists can hold that souls are individuated by their causal histories—ongoing interaction with a particular body creates individuation. Two minds interfacing with the same brain would produce incoherent experience. We don't observe this, suggesting it doesn't occur.
 
 ### The Haecceities Response
 
@@ -84,7 +85,7 @@ Since Leibniz, critics argue that mind-body interaction violates conservation of
 3. This violates conservation laws
 4. Therefore, minds cannot causally affect bodies
 
-David Papineau (2001) develops this into an argument *for* causal closure: all known physical forces reduce to a small stock of conservative forces. Induction suggests mental forces (if they existed) would also be conservative—but if they're conservative, they're physical. Sean Carroll demands: "What particles is that soul made of? What forces are holding it together?" Two centuries of neuroscience reveal no trace of non-physical forces; if such forces existed, we would observe anomalous particle accelerations.
+David Papineau (2001) develops this into an argument *for* causal closure: all known physical forces reduce to a small stock of conservative forces. Induction suggests mental forces (if they existed) would also be conservative—but if they're conservative, they're physical. Sean Carroll (2016) demands: "What particles is that soul made of? What forces are holding it together?" Two centuries of neuroscience reveal no trace of non-physical forces; if such forces existed, we would observe anomalous particle accelerations.
 
 For comprehensive treatment of why this objection fails, see [conservation-laws-and-mind](/topics/conservation-laws-and-mind/). The key insights are summarized below.
 
@@ -114,7 +115,7 @@ Consider a superposition of two neural firing patterns, each with identical ener
 
 Critics would need to show that *outcome selection* requires energy injection. But given the indeterministic character of quantum mechanics, this isn't obvious. Selection among equi-energetic possibilities is precisely what the formalism leaves open.
 
-Quantum entanglement provides precedent: correlations between distant particles cannot be explained by any energy transfer between them (Bell's theorem rules this out), yet the correlations are real and causally significant. If physics permits causal connections without energy exchange in entanglement, the conceptual space exists for mind-matter interaction without energy injection.
+Quantum entanglement provides precedent: Bell's theorem shows that correlations between distant particles cannot be explained by energy transfer, yet the correlations are real and causally significant. If physics permits causal connections without energy exchange, the conceptual space exists for mind-matter interaction without energy injection.
 
 ## Parsimony
 
@@ -141,7 +142,7 @@ Dualism adds one ontological *type* (mind), not millions of *tokens*. Adding one
 
 If consciousness is real and irreducible (which experience suggests), then ignoring it isn't parsimony—it's ignoring evidence. Parsimony means not multiplying entities *beyond necessity*. If consciousness cannot be reduced to physics, its acknowledgment is necessary.
 
-The phenomenal world is the one thing we know most directly. Physical theories are inferred from observations; observations are conscious experiences. Eliminating consciousness to achieve parsimony is like eliminating the foundation to simplify the building.
+Physical theories are inferred from observations; observations are conscious experiences. Eliminating consciousness to achieve parsimony is like eliminating the foundation to simplify the building.
 
 ### Response 4: Occam's Razor Has Limits
 
@@ -168,14 +169,14 @@ Max Tegmark (2000) calculated that quantum coherence in brain microtubules would
 
 ### Response 1: Revised Calculations
 
-Tegmark's calculation assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances larger than proposed mechanisms require. Hameroff and colleagues recalculated using parameters appropriate to Orch OR theory. The revised coherence times increase by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds—still short, but approaching timescales relevant to neural dynamics.
+Tegmark's calculation assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances larger than proposed mechanisms require. Hagan, Hameroff, and Tuszyński (2002) recalculated using parameters appropriate to Orch OR theory. The revised coherence times increase by several orders of magnitude—still short, but approaching timescales relevant to neural dynamics.
 
 ### Response 2: Quantum Biology Evidence
 
 Recent experiments have complicated the simple "warm means no quantum" picture:
 
 - **Photosynthesis**: Quantum coherence in light-harvesting complexes persists for hundreds of femtoseconds at room temperature—far longer than Tegmark-style calculations predicted
-- **Microtubule anesthesia**: A 2025 study found microtubule-stabilizing drugs delay anesthesia onset, suggesting microtubule dynamics matter for consciousness
+- **Microtubule anesthesia**: Kalra et al. (2025) found microtubule-stabilizing drugs delay anesthesia onset in mice, suggesting microtubule dynamics matter for consciousness
 - **MRI entanglement signatures**: Kerskens and Pérez (2022-2023) detected what they interpret as entanglement signatures in human brain MRI, correlating with working memory tasks
 
 These findings don't prove quantum consciousness but demonstrate that quantum effects in biological systems are more robust than assumed.
@@ -202,7 +203,7 @@ Often presented as objecting to dualism, this argument actually targets [epiphen
 4. Therefore, consciousness has causal effects (contra epiphenomenalism)
 5. Therefore, interactionism (or physicalism) is true; epiphenomenalism is false
 
-William James (1890) first articulated this reasoning. The precise correlation between phenomenal valence and biological utility demands explanation. Why does *this* experience (pleasure) reliably accompany *this* type of event (fitness-enhancing behavior)?
+William James (1890) first articulated this reasoning. Why does *this* experience (pleasure) reliably accompany *this* type of event (fitness-enhancing behavior)?
 
 ### Why This Supports Interactionism
 
@@ -249,11 +250,11 @@ This transforms the exclusion argument from a dilemma into a false premise: clos
 
 ### Response 4: Delegatory Preemption
 
-[Delegatory dualism](/topics/delegatory-dualism/) (Bradford Saad, 2025) offers a distinct response that doesn't depend on quantum mechanics. When a physical brain state has the same causal profile as an experience—both would cause wincing, attention-shifting, verbal reports—the experience *[preempts](/concepts/preemption/)* the physical state's causal role. The physical state delegates its responsibilities to the experience.
+[Delegatory dualism](/topics/delegatory-dualism/) (Bradford Saad, 2025) offers a distinct response that doesn't depend on quantum mechanics. When a physical brain state has the same causal profile as an experience—both would cause wincing, attention-shifting, verbal reports—the experience *[preempts](/concepts/preemption/)* the physical state's causal role. The physical state delegates its responsibilities to the experience through [causal-delegation](/concepts/causal-delegation/), the mechanism at the heart of Saad's theory.
 
-This avoids overdetermination because only one cause operates: the experience does the causal work while the physical state is sidelined. Preemption differs from overdetermination the way an assassin's successful shot differs from a backup shooter's bullet arriving simultaneously—one cause acts, the other is rendered idle.
+This avoids overdetermination because only one cause operates: the experience does the causal work while the physical state is sidelined.
 
-Saad's framework also distinguishes *[observational closure](/concepts/causal-closure/)* from *universal closure*: mental causation need not violate what physics experiments can detect, only what physics would accomplish if consciousness weren't present. This distinction strengthens the falsifiability conditions discussed below.
+Saad's framework also distinguishes *[observational closure](/concepts/causal-closure/)* from *universal closure*: mental causation need not violate what physics experiments can detect, only what physics would accomplish if consciousness weren't present.
 
 ### Connection to the Luck Objection
 
@@ -305,6 +306,7 @@ These objections have been taken seriously throughout the history of philosophy.
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Comprehensive response to the conservation objection
 - [preemption](/concepts/preemption/) — The causal structure Saad uses: one cause operates while the other is sidelined
 - [delegatory-dualism](/topics/delegatory-dualism/) — Bradford Saad's solution to the exclusion problem via preemption
+- [causal-delegation](/concepts/causal-delegation/) — The mechanism by which physical states hand off causal work to experiences
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position these objections target
 - [pairing-problem](/concepts/pairing-problem/) — Detailed treatment of Kim's pairing challenge
 - [causal-closure](/concepts/causal-closure/) — The closure principle underlying the exclusion argument
@@ -324,13 +326,16 @@ These objections have been taken seriously throughout the history of philosophy.
 ## References
 
 1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
+1. Carroll, S. (2016). *The Big Picture: On the Origins of Life, Meaning, and the Universe Itself*. Dutton.
 1. Collins, R. (2011). "The Energy of the Soul." In M. Baker & S. Goetz (eds.), *The Soul Hypothesis*.
+1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65: 061901.
 1. James, W. (1890). *The Principles of Psychology*.
+1. Kalra, A. P., et al. (2025). "Microtubule-stabilizing drugs delay anesthetic-induced unconsciousness in mice." *Proceedings of the National Academy of Sciences*, 122(3).
 1. Kerskens, C. M., & Pérez, D. L. (2022-2023). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
 1. Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61: 4194-4206.
 1. Yablo, S. (1992). "Mental Causation." *Philosophical Review*, 101: 245-280.
-1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
-1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
