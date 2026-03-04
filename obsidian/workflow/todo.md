@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on retrocausal neural firing and presentiment evidence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Presentiment studies (Bem, Radin, Mossbridge meta-analysis) and retrocausal neural firing provide empirical evidence for time-symmetric consciousness-physics interaction. Directly supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Target section: topics/ (3 slots remaining — prioritise carefully).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-04
-
 ### P2: Write concept page for neural correlates distinguishing conscious from unconscious processing
 - **Type**: expand-topic
 - **Notes**: Research completed in research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. The contrast between conscious and unconscious neural processing — what changes when a stimulus crosses the threshold of awareness — is foundational for the Map's interface framework. Target section: concepts/ (5 slots remaining).
@@ -586,6 +580,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write article on retrocausal neural firing and presentiment evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Presentiment studies (Bem, Radin, Mossbridge meta-analysis) and retrocausal neural firing provide empirical evidence for time-symmetric consciousness-physics interaction. Directly supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Target section: topics/ (3 slots remaining — prioritise carefully).
+- **Output**: retrocausal neural firing and presentiment evidence
 
 ### ✓ 2026-03-04: Cross-review mental-causation.md considering causal-delegation insights
 - **Type**: cross-review
