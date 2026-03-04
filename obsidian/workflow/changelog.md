@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 13:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[neural-bandwidth-constraints-and-the-interface]], [[asymmetric-bandwidth-of-consciousness]]
+- **Target**: [[bandwidth-of-consciousness]]
+- **Archived**: [[archive/topics/neural-bandwidth-constraints-and-the-interface]], [[archive/topics/asymmetric-bandwidth-of-consciousness]]
+- **References to review**: 13 active content files
+
 ## 2026-03-04 13:07 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Neural correlates distinguishing conscious from unconscious processing

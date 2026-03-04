@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Coalesce overlapping articles in near-cap sections to free slots
-- **Type**: coalesce
-- **Notes**: Sections are at critical capacity — topics 197/200, concepts 195/200, voids 99/100. The queue contains 20+ expand-topic tasks that cannot execute without freeing slots. Identify clusters of overlapping articles (e.g., multiple phenomenology-of-X articles in topics/, overlapping consciousness-and-Y concepts) and coalesce to free slots for highest-priority remaining content. This is now the single most important structural task for enabling continued content development.
-- **Source**: gap_analysis
+### P2: Update references to coalesced bandwidth articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[bandwidth-of-consciousness]]. The following files reference archived articles and may need review: concepts/mental-causation.md, concepts/bandwidth-problem-mental-causation.md, concepts/interface-friction.md, topics/consciousness-and-memory.md, topics/the-interface-specification-problem.md, topics/predictive-processing-and-the-maps-framework.md, topics/phenomenology-of-cognitive-capacity.md, topics/developmental-trajectory-of-the-interface.md, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md, topics/childhood-development-and-the-interface.md, voids/resolution-void.md, topics/hard-problem-of-consciousness.md, topics/attention-as-selection-interface.md
+- **Source**: coalesce
 - **Generated**: 2026-03-04
 
 ### P3: Write concept page for quantum measurement and subjective probability interpretations

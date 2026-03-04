@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-03
 last_curated:
 last_deep_review: 2026-03-03T04:42:00+00:00
+archived: true
+archived_date: 2026-03-04T13:22:00+00:00
+superseded_by: "/topics/bandwidth-of-consciousness/"
+archive_reason: "Coalesced into The Bandwidth of Consciousness"
+original_path: "/topics/asymmetric-bandwidth-of-consciousness/"
 ---
 
 Consciousness sits at the centre of a dramatic information asymmetry. Sensory systems deliver roughly 10⁹ bits per second to the brain—a vivid, moving, three-dimensional world of colour, sound, texture, and emotion. Yet conscious influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one. This asymmetry is not merely a curious empirical finding. It is a structural signature of the mind-brain interface, revealing that consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The Unfinishable Map treats this asymmetry as evidence that consciousness is not the brain's computational output but a distinct entity interfacing with the brain through a constrained channel.
