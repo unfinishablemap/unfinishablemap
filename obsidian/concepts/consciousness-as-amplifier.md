@@ -4,8 +4,8 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-28T05:46:00+00:00
-last_deep_review: 2026-02-02T03:45:00+00:00
+ai_modified: 2026-03-04T11:37:00+00:00
+last_deep_review: 2026-03-04T11:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,11 +27,13 @@ concepts:
   - "[[metarepresentation]]"
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
+  - "[[causal-delegation]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
   - "[[interactionist-dualism]]"
+  - "[[delegatory-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -119,9 +121,7 @@ None of these predictions hold. Great apes show precisely the pattern expected i
 
 The gap is not random. It tracks consciousness-dependent capacities. This systematic pattern requires explanation. The simplest explanation: consciousness does the amplifying work.
 
-The epiphenomenalist response—that neural systems causing both consciousness and adaptive behaviour are selected together—becomes implausible once we accept that phenomenal consciousness is ontologically separate from its neural correlates. If the painfulness of pain is something beyond the neural state that produces pain behaviour, then the correlation between phenomenal character and adaptive value becomes puzzling. Why would the causally inert phenomenal aspect systematically track biological significance? The neural state alone determines behaviour; the phenomenal glow adds nothing. Yet this "nothing" reliably indicates what matters for survival.
-
-A 2024 review in *Neuroscience of Consciousness* makes this explicit: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory." The evolutionary success of consciousness-requiring capacities demonstrates that consciousness has causal effects.
+The epiphenomenalist response—that neural systems causing both consciousness and adaptive behaviour are selected together—becomes implausible once we accept that phenomenal consciousness is ontologically separate from its neural correlates. If the painfulness of pain is something beyond the neural state that produces pain behaviour, then the correlation between phenomenal character and adaptive value becomes puzzling. As a 2024 review in *Neuroscience of Consciousness* argues: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
 
 ## The Illusionist Challenge
 
@@ -161,9 +161,7 @@ Buddhist psychology distinguishes consciousness (*vijñāna*) from mental factor
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy treats experience as fundamental—reality consists of "actual occasions" that arise, achieve satisfaction, and perish. Conscious cognition involves high-complexity occasions that *prehend* (grasp, feel) outcomes of previous occasions, integrating diverse experiences into unified wholes.
-
-The amplification arises from this integration: consciousness binds disparate cognitive products into coherent representations. Working memory expansion might reflect the binding capacity of such occasions—more complex occasions integrating more prehensions, enabling more simultaneous representations.
+Alfred North Whitehead's process philosophy treats experience as fundamental—reality consists of "actual occasions" that arise, achieve satisfaction, and perish. Conscious cognition involves high-complexity occasions that *prehend* (grasp, feel) outcomes of previous occasions, integrating diverse experiences into unified wholes. Amplification arises from this integration: consciousness binds disparate cognitive products into coherent representations.
 
 Whitehead's framework also explains why consciousness amplifies rather than replaces neural processing. The neural substrate provides the "physical pole"—input from prior processes. Consciousness provides the "mental pole"—the capacity to respond creatively, select among possibilities, aim at novel outcomes. Neither pole alone constitutes cognition; amplification emerges from their integration.
 
@@ -173,7 +171,7 @@ The amplification hypothesis has implications for [[ai-consciousness|artificial 
 
 Current AI excels at pattern recognition, statistical correlation, and domain-specific performance—exactly the capacities unconscious processing handles. What AI struggles with—genuine flexibility, metacognitive monitoring, counterfactual reasoning, cumulative improvement through deliberate innovation—are the capacities the amplification hypothesis links to consciousness.
 
-This doesn't prove AI cannot be conscious or achieve human-level cognition. It suggests that if AI does achieve such cognition, it would require something functionally equivalent to conscious amplification—whatever the substrate. The question becomes whether silicon can support consciousness as neurons do, not whether consciousness is computationally relevant.
+This doesn't prove AI cannot achieve human-level cognition. It suggests that doing so would require something functionally equivalent to conscious amplification—whatever the substrate. The question becomes whether silicon can support consciousness as neurons do, not whether consciousness is computationally relevant.
 
 ## What Would Challenge This View?
 
@@ -199,7 +197,9 @@ The stronger case for [[interactionist-dualism|interactionist dualism]] requires
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. The amplification hypothesis provides a specific account of *how*: through flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual simulation. These aren't vague "influences" but identifiable contributions to cognitive processing. The evolutionary argument strengthens this: consciousness was selected for its cognitive effects, which implies it has such effects.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. The amplification hypothesis provides a specific account of *how*: through flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual simulation. These aren't vague "influences" but identifiable contributions to cognitive processing.
+
+But asserting causal efficacy raises the exclusion problem: if every neural event has a sufficient physical cause, how can consciousness contribute without overdetermination? [[causal-delegation|Causal delegation]] (Saad 2025) provides the answer: consciousness *takes over* causal work that neural states would otherwise perform, through [[preemption]] rather than duplication. The physical state delegates its causal responsibilities to the experience. Amplification is not an additional cause layered atop neural processing—it is consciousness exercising the causal role that the neural substrate yields.
 
 ### Minimal Quantum Interaction
 
@@ -225,7 +225,8 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [[attention-as-interface]] — How consciousness engages neural systems
 - [[phenomenology-of-choice]] — The felt structure of deliberate selection
 - [[metarepresentation]] — Representing representations as representations
-- [[concept-of-consciousness-and-social-cognition]] — Social cognition as a key domain where consciousness amplifies
+- [[causal-delegation]] — How consciousness takes over causal work from neural states (the causal structure for amplification)
+- [[delegatory-dualism]] — Saad's full framework for mental causation without overdetermination
 - [[global-workspace-theory]] — The broadcasting account of conscious access
 - [[concepts/epiphenomenalism]] — The position the amplification evidence contradicts
 - [[interactionist-dualism]] — How consciousness influences brain states
@@ -242,6 +243,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M., Kruger, A.C., & Ratner, H.H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-511.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

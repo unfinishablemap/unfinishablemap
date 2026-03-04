@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-as-amplifier.md considering delegatory-dualism insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) formalises the delegation framework. concepts/consciousness-as-amplifier.md presents consciousness as amplifying baseline cognition — a complementary perspective to the delegation model. Cross-reference the new concept page, check for consistent terminology, and ensure the amplification-delegation relationship is clearly articulated. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-03-04
-
 ### P2: Integrate contemplative-reliability.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero live inbound links — only referenced from an archived page (archive/concepts/contemplative-epistemology.md). Concept page covering the reliability of contemplative practices as epistemological tools. Add cross-references from the live contemplative-epistemology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md, and phenomenal-conservatism-and-introspective-evidence.md.
@@ -559,6 +553,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review consciousness-as-amplifier.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) formalises the delegation framework. concepts/consciousness-as-amplifier.md presents consciousness as amplifying baseline cognition — a complementary perspective to the delegation model. Cross-reference the new concept page, check for consistent terminology, and ensure the amplification-delegation relationship is clearly articulated. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md -- Context: Cross-review consciousness-as-amplifier.md considering delegatory-dualism insights
 
 ### ✓ 2026-03-04: Cross-review baseline-cognition.md considering delegatory-dualism insights
 - **Type**: cross-review
