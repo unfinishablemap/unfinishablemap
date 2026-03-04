@@ -24,6 +24,7 @@ related_articles:
   - "[[contemplative-training-and-phenomenal-access]]"
   - "[[contemplative-verification-of-consciousness-theories]]"
   - "[[introspection-rehabilitation]]"
+  - "[[testing-the-map-from-inside]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

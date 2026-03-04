@@ -190,6 +190,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [[self-and-consciousness]] — Minimal self and narrative self
 - [[attention-as-interface]] — How consciousness selects through attention
 - [[mental-effort]] — The phenomenology of effortful selection
+- [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: first-person experiments probing witness consciousness and choice
 - [[illusionism]] — The eliminativist challenge
 - [[haecceity]] — Why *this* witness cannot be replicated
 - [[meditation-observer-witness-phenomenon-2026-01-18]] — Research notes

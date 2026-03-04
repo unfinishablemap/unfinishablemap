@@ -23,6 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-agency]]"
   - "[[contemplative-path]]"
+  - "[[testing-the-map-from-inside]]"
 
 ai_contribution: 100
 author: null

@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 20:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/testing-the-map-from-inside]]
+- **Word count**: 2888 → 2998 (+110)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan status, missing Further Reading, weak methodological grounding)
+- **Enhancements made**: 10 inbound cross-references added from source/related articles, Further Reading section added, 2 body cross-links added
+- **Output**: [[reviews/deep-review-2026-03-04-testing-the-map-from-inside]]
+
 ## 2026-03-04 20:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/pain-consciousness-and-causal-power]]

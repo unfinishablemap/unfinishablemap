@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate testing-the-map-from-inside.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Apex article (created 2026-01-31) with no inbound body-text links from any content article. As a high-level synthesis piece on testing the Map's claims from a first-person perspective, it should be referenced from articles it integrates — including phenomenal-conservatism-and-introspective-evidence.md, contemplative-methods-as-philosophical-methodology.md, and the tenets articles it engages with.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P2: Deep review bandwidth-of-consciousness.md
 - **Type**: deep-review
 - **Notes**: Newly coalesced article (2026-03-04) combining multiple predecessor bandwidth articles into a unified treatment. Coalesced articles merge content from multiple sources and need quality verification to ensure coherent argumentation, consistent terminology, and no redundancy from the merge process. Verify cross-references to predecessor archive pages are correct.
@@ -596,6 +590,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate testing-the-map-from-inside.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (created 2026-01-31) with no inbound body-text links from any content article. As a high-level synthesis piece on testing the Map's claims from a first-person perspective, it should be referenced from articles it integrates — including phenomenal-conservatism-and-introspective-evidence.md, contemplative-methods-as-philosophical-methodology.md, and the tenets articles it engages with.
+- **Output**: obsidian/apex/testing-the-map-from-inside.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Cross-review duhem-quine-underdetermination-consciousness against related articles
 - **Type**: cross-review

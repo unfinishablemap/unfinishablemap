@@ -19,6 +19,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
+  - "[[testing-the-map-from-inside]]"
 
 ai_contribution: 100
 author: null

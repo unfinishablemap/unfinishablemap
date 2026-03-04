@@ -37,6 +37,7 @@ related_articles:
   - "[[paradox-of-effortless-mastery]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[topics/free-will]]"
+  - "[[testing-the-map-from-inside]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
