@@ -4,9 +4,9 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T05:40:00+00:00
+ai_modified: 2026-03-04T14:24:00+00:00
 draft: false
-last_deep_review: 2026-02-15T05:40:00+00:00
+last_deep_review: 2026-03-04T14:24:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-temporal-integration]]"
   - "[[temporal-structure-of-consciousness]]"
+  - "[[fragmented-consciousness]]"
   - "[[non-temporal-fragmented-consciousness-2026-02-10]]"
 ai_contribution: 100
 author:
@@ -70,9 +71,11 @@ A possible synthesis: Bergson's durée describes what consciousness does (produc
 
 ## What Fragmented Consciousness Reveals
 
-If the non-temporal thesis is correct, what happens when consciousness apparently fragments? Split-brain cases and anaesthesia-induced unconsciousness challenge the unity of consciousness — and by extension, any account of its non-temporal ground.
+If the non-temporal thesis is correct, what happens when consciousness apparently fragments? Split-brain cases, anaesthesia-induced unconsciousness, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases challenge the unity of consciousness and, by extension, any account of its non-temporal ground. (For a dedicated treatment of the fragmentation evidence, see [[fragmented-consciousness]].)
 
 The fragmentation evidence is substantial. Mashour (2012) showed that anaesthetics achieve unconsciousness not by suppressing brain activity but by disrupting integration across brain regions. Propofol fragments neural spiking into on/off states and disrupts phase coupling across cortical areas. Classic split-brain studies suggested two simultaneous experiencers, though Pinto et al. (2017) complicate this picture — their work with callosotomy patients found "divided perception but undivided consciousness," with patients maintaining unified responses in everyday conditions despite hemispheric disconnection. The 2025 layered unity model proposes breakdowns in local experiential layers while preserving global unity.
+
+Two features of the fragmentation data are particularly telling. First, the *resilience of unity*: even with 250 million corpus callosum fibres severed, consciousness does not cleanly divide. Something resists fragmentation even when the physical substrate for integration is dramatically disrupted. Second, the *incompleteness of fragmentation*: anaesthesia eliminates consciousness entirely rather than producing multiple diminished streams, as one might expect if consciousness simply were integrated activity. These patterns suggest that integration is a threshold condition for consciousness to interact with the brain, rather than the thing that constitutes consciousness.
 
 For the non-temporal thesis, fragmentation poses a specific problem: if consciousness has a non-temporal ground that constitutes temporal experience, fragmenting the physical substrate shouldn't fragment consciousness — it should merely disrupt the *interface* through which non-temporal consciousness expresses itself temporally.
 
@@ -117,7 +120,8 @@ Non-temporal consciousness connects directly to the Map's [[tenets]]:
 
 - [[temporal-structure-of-consciousness]] — How consciousness requires and constitutes temporal structure
 - [[consciousness-and-temporal-integration]] — How moments bind into experiential flow
-- [[contemplative-evidence-for-consciousness-theories]] — Meditation as phenomenological data
+- [[fragmented-consciousness]] — What splits when consciousness fragments — and what doesn't
+- [[contemplative-evidence-for-consciousness]] — Meditation as phenomenological data
 - [[hard-problem-of-consciousness]] — The broader challenge of explaining experience
 - [[unity-of-consciousness]] — The problem of experiential unity
 - [[split-brain-consciousness]] — What callosotomy reveals about consciousness

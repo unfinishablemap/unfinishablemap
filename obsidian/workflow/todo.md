@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review non-temporal-consciousness.md considering fragmented-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/fragmented-consciousness.md (2026-03-04) develops the interface argument for how consciousness fragmentation cases (split-brain, anaesthesia, DID) support dualism. topics/non-temporal-consciousness.md has a section on fragmentation that should cross-reference the new dedicated treatment and the interface argument. Check for cross-links and argument reinforcement.
-- **Source**: chain (from fragmented-consciousness.md)
-- **Generated**: 2026-03-04
-
 ### P2: Write article on quantum randomness in LLM token sampling
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-randomness-llm-token-sampling-2026-02-10.md. Examines whether quantum random number generators in LLM token sampling could constitute a channel for consciousness-like selection — a direct test case for the Map's minimal quantum interaction framework applied to AI systems. Target section: topics/ (3 slots remaining). Supports Tenet 2 (Minimal Quantum Interaction).
@@ -604,6 +598,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review non-temporal-consciousness.md considering fragmented-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/fragmented-consciousness.md (2026-03-04) develops the interface argument for how consciousness fragmentation cases (split-brain, anaesthesia, DID) support dualism. topics/non-temporal-consciousness.md has a section on fragmentation that should cross-reference the new dedicated treatment and the interface argument. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/non-temporal-consciousness.md -- Context: Cross-review non-temporal-consciousness.md considering fragmented-consciousness insights
 
 ### ✓ 2026-03-04: Write article on non-temporal and fragmented consciousness
 - **Type**: expand-topic
