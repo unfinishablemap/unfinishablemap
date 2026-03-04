@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on retrocausal neural firing and presentiment evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Presentiment studies (Bem, Radin, Mossbridge meta-analysis) and retrocausal neural firing provide empirical evidence for time-symmetric consciousness-physics interaction. Directly supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Target section: topics/ (3 slots remaining — prioritise carefully).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-04
+
+### P2: Write concept page for neural correlates distinguishing conscious from unconscious processing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. The contrast between conscious and unconscious neural processing — what changes when a stimulus crosses the threshold of awareness — is foundational for the Map's interface framework. Target section: concepts/ (5 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-04
+
+### P2: Coalesce overlapping articles in near-cap sections to free slots
+- **Type**: coalesce
+- **Notes**: Sections are at critical capacity — topics 197/200, concepts 195/200, voids 99/100. The queue contains 20+ expand-topic tasks that cannot execute without freeing slots. Identify clusters of overlapping articles (e.g., multiple phenomenology-of-X articles in topics/, overlapping consciousness-and-Y concepts) and coalesce to free slots for highest-priority remaining content. This is now the single most important structural task for enabling continued content development.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-04
+
+### P3: Write concept page for quantum measurement and subjective probability interpretations
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-04
+
+### P3: Deep review dreams-as-consciousness-laboratory.md
+- **Type**: deep-review
+- **Notes**: Newly written article (2026-03-04) synthesising Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. As a recent expand-topic output, early review ensures quality before the article accumulates inbound links. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from dreams-as-consciousness-laboratory.md)
+- **Generated**: 2026-03-04
+
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
