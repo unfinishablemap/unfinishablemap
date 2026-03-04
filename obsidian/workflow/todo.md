@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review bandwidth-of-consciousness.md
-- **Type**: deep-review
-- **Notes**: Newly coalesced article (2026-03-04) combining multiple predecessor bandwidth articles into a unified treatment. Coalesced articles merge content from multiple sources and need quality verification to ensure coherent argumentation, consistent terminology, and no redundancy from the merge process. Verify cross-references to predecessor archive pages are correct.
-- **Source**: chain (from coalesce)
-- **Generated**: 2026-03-04
-
 ### P2: Deep review fragmented-consciousness.md
 - **Type**: deep-review
 - **Notes**: Newly written article (2026-03-04) on consciousness fragmentation cases — split-brain, DID, anaesthesia — as evidence for the interface argument for dualism. Early review ensures quality before the article accumulates inbound links. Cross-reviews with non-temporal-consciousness.md already completed; this verifies the article's own coherence and tenet alignment. Supports Tenet 1 (Dualism).
@@ -590,6 +584,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Deep review bandwidth-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly coalesced article (2026-03-04) combining multiple predecessor bandwidth articles into a unified treatment. Coalesced articles merge content from multiple sources and need quality verification to ensure coherent argumentation, consistent terminology, and no redundancy from the merge process. Verify cross-references to predecessor archive pages are correct.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
 
 ### ✓ 2026-03-04: Integrate testing-the-map-from-inside.md into site navigation
 - **Type**: integrate-orphan
