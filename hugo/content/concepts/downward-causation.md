@@ -71,7 +71,7 @@ Kim's argument implies causal efficacy "drains" to fundamental physics. If each 
 
 Perhaps mental and physical causes both contribute? Kim argues this systematic overdetermination is untenable—two independent causal chains reliably converging would be an intolerable coincidence.
 
-Responses include: mental and physical causes aren't independent (they supervene); Yablo's proportionality argument that mental properties may be the more appropriate causal level; and the levels response that mental and physical descriptions capture one cause under two descriptions.
+Responses include: mental and physical causes aren't independent (they supervene); Yablo's proportionality argument that mental properties may be the more appropriate causal level; the levels response that mental and physical descriptions capture one cause under two descriptions; and [causal-delegation](/concepts/causal-delegation/)—the physical state *delegates* its causal work to the experience, which preempts rather than duplicates the physical contribution.
 
 ## Major Responses to the Exclusion Argument
 

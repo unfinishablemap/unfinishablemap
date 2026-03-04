@@ -73,7 +73,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary challenge 
 3. Mental causes don't systematically overdetermine physical events alongside physical causes
 4. Therefore, mental causes just *are* physical causes (reductionism)
 
-For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([epiphenomenalism](/concepts/epiphenomenalism/)), or deny that physics is causally closed.
+For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([epiphenomenalism](/concepts/epiphenomenalism/)), or deny that physics is causally closed. A third option is [causal-delegation](/concepts/causal-delegation/): the physical state delegates its causal work to the experience via [preemption](/concepts/preemption/), avoiding overdetermination while preserving mental causation.
 
 Kim himself diagnosed the dilemma facing his own argument: the causal closure principle must be neither too strong (begging the question by assuming physicalism) nor too weak (trivially allowing mental causation). Finding this balance proves difficult.
 

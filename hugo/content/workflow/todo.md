@@ -38,6 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review consciousness-as-amplifier.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) formalises the delegation framework. concepts/consciousness-as-amplifier.md presents consciousness as amplifying baseline cognition — a complementary perspective to the delegation model. Cross-reference the new concept page, check for consistent terminology, and ensure the amplification-delegation relationship is clearly articulated. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-03-04
+
+### P2: Integrate contemplative-reliability.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero live inbound links — only referenced from an archived page (archive/concepts/contemplative-epistemology.md). Concept page covering the reliability of contemplative practices as epistemological tools. Add cross-references from the live contemplative-epistemology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md, and phenomenal-conservatism-and-introspective-evidence.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
+### P2: Cross-review mental-causation.md considering causal-delegation insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/causal-delegation.md (2026-03-04) introduces causal delegation as a specific mechanism for mental causation. concepts/mental-causation.md is the Map's central treatment of how mind causes physical effects and should cross-reference the new page's treatment of delegation as a form of downward causation. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from causal-delegation.md)
+- **Generated**: 2026-03-04
+
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -542,6 +560,44 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review baseline-cognition.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) provides dedicated treatment of Bradford Saad's framework where consciousness delegates processing to neural systems. concepts/baseline-cognition.md directly operationalises this delegation model — the baseline is what runs when consciousness delegates. Check for cross-links, ensure consistent treatment of the delegation architecture, and add references to the new concept page. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: Cross-review baseline-cognition.md considering delegatory-dualism insights
+
+### ✓ 2026-03-04: Address emergence and tenet-connection gaps in collective-cognitive-limits.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that emergence is asserted without rigorous argument (high severity), tenet connections to Dualism and No Many Worlds are strained (medium), and the combination problem analogy is misleading (medium). See pessimistic-2026-03-04.md
+- **Output**: obsidian/voids/collective-cognitive-limits.md
+
+Task context:
+Pessimistic review found that emergence is asserted without rigorous argument (high severity), tenet connections to Dualism and No Many Worlds are strained (medium), and the combination problem analogy is misleading (medium). See pessimistic-2026-03-04.md
+
+### ✓ 2026-03-04: Integrate causal-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Brand-new concept page (created 2026-03-04) for causal delegation — the mechanism by which consciousness offloads processing to neural systems. Referenced 50+ times across the site via delegatory dualism but the concept page itself has zero inbound wikilinks. Add cross-references from delegatory-dualism.md, mental-causation.md, baseline-cognition.md, and consciousness-as-amplifier.md.
+- **Output**: obsidian/concepts/causal-delegation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-04: Integrate phenomenology-of-normative-properties.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of normative properties — how ought-claims feel from the inside. Add cross-references from phenomenology-of-normative-experience.md, phenomenal-normativity.md, consciousness-and-normative-force.md, and moral-perception.md.
+- **Output**: phenomenology-of-normative-properties.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-04: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides concrete experimental evidence — Konkoly's puzzle-solving via targeted memory reactivation, Dormio's 43% creativity gain — that directly supports incubation theory. topics/incubation-effect-and-unconscious-processing.md should cross-reference these empirical findings. Add cross-links and ensure consistent treatment of sleep-onset incubation mechanisms.
+- **Output**: obsidian/topics/incubation-effect-and-unconscious-processing.md -- Context: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
+
+### ✓ 2026-03-04: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides experimental evidence from Konkoly's two-way REM communication, Dormio sleep-onset incubation, and systematic analysis of dreams as natural experiments on consciousness. topics/dream-consciousness.md covers lucid dreaming, filter theory, and creativity in dreams and should cross-reference the new article's empirical laboratory framing. Add cross-links and check for reinforcing arguments.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
+
+### ✓ 2026-03-04: Write concept page for delegatory dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism — Bradford Saad's framework where consciousness delegates processing to neural systems and intervenes at key decision points — is referenced 50+ times across 29 files but has no dedicated concept page. This is the Map's preferred form of interactionist dualism and a critical gap. Target section: concepts/ (5 slots remaining). Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: Write concept page for delegatory dualism
 
 ### ✓ 2026-03-04: Write article on dreams, problem-solving, and lucid dreaming
 - **Type**: expand-topic

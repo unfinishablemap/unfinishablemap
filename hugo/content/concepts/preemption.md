@@ -67,7 +67,7 @@ Preemption becomes philosophically urgent in the context of [mental-causation](/
 
 ### Saad's Delegatory Preemption
 
-Bradford Saad's [delegatory-dualism](/topics/delegatory-dualism/) (2025) applies preemption—specifically trumping preemption—to the mind-body problem. The core proposal: when a conscious experience arises, it *preempts* the causal contribution of the underlying physical state. Pain causes wincing not alongside the brain state but *instead of* it—the brain state's causal role is taken over, not duplicated.
+Bradford Saad's [delegatory-dualism](/topics/delegatory-dualism/) (2025) applies preemption—specifically trumping preemption—to the mind-body problem through [causal-delegation](/concepts/causal-delegation/). The core proposal: when a conscious experience arises, it *preempts* the causal contribution of the underlying physical state. Pain causes wincing not alongside the brain state but *instead of* it—the brain state's causal role is taken over, not duplicated.
 
 Saad's model works through two laws. The Subset Law* assigns experiences to physical states whose "default causal profile" (what the state would cause absent any experience) matches the experience's causal profile. The Delegatory Law then specifies that the experience preempts the corresponding portion of the physical state's default causal profile.
 

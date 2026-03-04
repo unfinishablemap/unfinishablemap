@@ -18,6 +18,78 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 11:07 UTC - deep-review
+- **Status**: Success
+- **File**: [baseline-cognition](/concepts/baseline-cognition/)
+- **Word count**: 3342 → 3387 (+45)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing delegatory-dualism cross-links, Völter/Miyamoto attribution conflation, prose tightening)
+- **Enhancements made**: 4 (causal delegation cross-links in 3 locations, attribution fix, Bidirectional Interaction clarified, Further Reading expanded)
+- **Output**: [deep-review-2026-03-04-baseline-cognition](/reviews/deep-review-2026-03-04-baseline-cognition/)
+
+## 2026-03-04 10:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [collective-cognitive-limits](/voids/collective-cognitive-limits/)
+- **Changes**: Replaced bald emergence assertion with rigorous argument; removed misleading combination problem analogy; rewrote Dualism and No Many Worlds tenet connections with stronger philosophical grounding
+- **Published**: yes
+
+## 2026-03-04 10:39 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/collective-cognitive-limits.md (1996 words, oldest unreviewed voids article)
+- **Critical issues**: 1 high (emergence claimed without argument), 3 medium (combination problem analogy, strained tenet connections, WEIRD caveat underdeveloped)
+- **Task added**: P2 refine-draft for collective-cognitive-limits.md
+- **Output**: [pessimistic-2026-03-04](/reviews/pessimistic-2026-03-04/)
+
+## 2026-03-04 10:31 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-delegation](/concepts/causal-delegation/)
+- **Word count**: 1119 → 1234 (+115)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (description overstated, orphan integration, inconsistent wikilink paths)
+- **Enhancements made**: 7 inbound cross-references added from related articles
+- **Output**: [deep-review-2026-03-04-causal-delegation](/reviews/deep-review-2026-03-04-causal-delegation/)
+
+## 2026-03-04 10:07 UTC - deep-review (skipped)
+- **Status**: Skipped — file archived
+- **File**: [phenomenology-of-normative-properties](/archive/topics/phenomenology-of-normative-properties/)
+- **Notes**: Article was archived 2026-02-25 and coalesced into [phenomenology-of-normative-experience](/topics/phenomenology-of-normative-experience/). The 2026-03-03 deep review of the replacement already fixed 8 inbound links. Stale todo task removed.
+
+## 2026-03-04 09:53 UTC - deep-review
+- **Status**: Success
+- **File**: [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/)
+- **Word count**: 1933 → 2112 (+179)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Konkoly evidence overstatement, epiphenomenalism argument gap, weak No Many Worlds section, Dennett attribution)
+- **Enhancements made**: 5 (epiphenomenalism counter-objection paragraph, 4 cross-links added, Dennett characterization refined, interactionist framing, No Many Worlds rewrite)
+- **Output**: [deep-review-2026-03-04-dreams-as-consciousness-laboratory](/reviews/deep-review-2026-03-04-dreams-as-consciousness-laboratory/)
+
+## 2026-03-04 09:37 UTC - deep-review
+- **Status**: Success
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Context**: Cross-review considering [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/) insights
+- **Word count**: 2329 → 2548 (+219)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing N1/hypnagogic evidence, Konkoly caveat, missing cross-link)
+- **Enhancements made**: 5 (N1 incubation paragraph, Konkoly caveat, cross-link to dreams-as-consciousness-laboratory, creative cycle update, 2 new references)
+- **Output**: [deep-review-2026-03-04-incubation-effect-and-unconscious-processing](/reviews/deep-review-2026-03-04-incubation-effect-and-unconscious-processing/)
+
+## 2026-03-04 09:22 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Context**: Cross-review considering [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/) insights
+- **Word count**: 2979 → 3005 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-link, missing Voss et al. evidence, missing phenomenal/access dissociation)
+- **Enhancements made**: 5 (Voss et al. citation, access/phenomenal insight, concepts added, cross-links, prose tightening)
+- **Output**: [deep-review-2026-03-04-dream-consciousness](/reviews/deep-review-2026-03-04-dream-consciousness/)
+
+## 2026-03-04 09:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Causal Delegation (concept page for delegatory dualism)
+- **Output**: [causal-delegation](/concepts/causal-delegation/)
+- **Word count**: 1119
+- **Based on research**: yes, [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/)
+
 ## 2026-03-04 08:52 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Dreams as a Natural Laboratory for Consciousness

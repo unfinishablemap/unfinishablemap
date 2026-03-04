@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-04 11:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -29,6 +29,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[attention-as-interface]]'
 - '[[counterfactual-reasoning]]'
+- '[[causal-delegation]]'
 created: 2026-01-22
 date: &id001 2026-01-25
 description: 'Baseline cognition is what neural systems achieve without consciousness.
@@ -36,11 +37,12 @@ description: 'Baseline cognition is what neural systems achieve without consciou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 06:17:00+00:00
+last_deep_review: 2026-03-04 11:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[interactionist-dualism]]'
+- '[[delegatory-dualism]]'
 - '[[binding-problem]]'
 - '[[explanatory-gap]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
@@ -70,7 +72,7 @@ Chimpanzees, bonobos, and gorillas show:
 - **Emotional complexity**: Grief responses, consolation behaviours, apparent empathy, play, and individual personality differences.
 - **Problem-solving**: Insight-like behaviour in novel situations, means-ends reasoning, basic planning for immediate goals.
 
-This isn't "mere" instinct. Great ape cognition is flexible, learned, and varies between individuals and populations. Völter et al. (2023) confirmed that great ape cognition consists of stable, measurable traits that develop in response to experience—a coherent cognitive architecture, not reflexive responding.
+This isn't "mere" instinct. Great ape cognition is flexible, learned, and varies between individuals and populations. Völter et al. (2023) confirmed that great ape cognition consists of stable, measurable traits robust against cognitive load, while Miyamoto et al. (2023) showed these abilities develop in response to experience—a coherent cognitive architecture, not reflexive responding.
 
 ### Procedural Metacognition
 
@@ -176,7 +178,7 @@ The baseline cognition framework supports the [Bidirectional Interaction](/tenet
 2. Capacities requiring conscious processing should be absent or severely limited
 3. The gap should track consciousness-dependent operations specifically
 
-This is what we observe. Great apes excel within baseline cognition and fail systematically where consciousness appears required. The simplest explanation: consciousness does the amplifying work.
+This is what we observe. Great apes excel within baseline cognition and fail systematically where consciousness appears required. The simplest explanation: consciousness does the amplifying work. [Delegatory dualism](/topics/delegatory-dualism/) provides the causal structure for how this works without overdetermination: physical brain states [delegate](/concepts/causal-delegation/) their causal responsibilities to conscious experiences, which then do the actual causing through [preemption](/concepts/preemption/) rather than redundant dual causation.
 
 ## The Illusionist Challenge
 
@@ -184,13 +186,13 @@ This is what we observe. Great apes excel within baseline cognition and fail sys
 
 Several considerations resist this move:
 
-**The empirical evidence**: The Lieberman study provides suggestive evidence, though one study rarely settles fundamental questions. The finding that cognitive load impairs logical reasoning while unconscious disruption does not suggests dissociation—but the interpretation depends on whether "logical reasoning" and "consciousness" are being measured independently of each other. Additional studies (notably De Neys, 2012, on dual-process theory) support the general pattern: explicit rule-following differs from implicit pattern recognition in ways that track conscious accessibility.
+**The empirical evidence**: Lieberman et al. found that cognitive load impairs logical reasoning while unconscious disruption does not—suggesting dissociation, though interpretation depends on whether "logical reasoning" and "consciousness" are measured independently. De Neys (2012) supports the general pattern: explicit rule-following differs from implicit pattern recognition in ways that track conscious accessibility.
 
 **The systematic pattern**: If consciousness is epiphenomenal, why does the human-ape gap track consciousness-dependent capacities so precisely? The correlation requires explanation.
 
 **The training effects**: Metacognitive training (meditation, contemplative practice) improves cognitive performance. If consciousness were illusory, what is being trained? The training effect requires explanation in terms that don't invoke consciousness—and such explanations remain elusive.
 
-**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary. The experience of effortful reasoning, the feeling of insight, the sense of deliberate manipulation—if these are illusions, something generates them. An illusionist might respond that the "generator" is simply brain processes producing introspective representations. But the question resurfaces: what makes these representations feel like anything? The illusionist must either deny that they feel like anything (eliminativism) or explain the phenomenal character of introspection—which reinstates the original problem at a higher level.
+**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary—effortful reasoning, insight, deliberate manipulation. If these are illusions, something generates them. The illusionist may say brain processes produce introspective representations, but the question resurfaces: what makes these representations feel like anything? Either deny that they do (eliminativism) or explain the phenomenal character of introspection—reinstating the original problem at a higher level.
 
 ## Great Ape Phenomenal Consciousness
 
@@ -240,7 +242,7 @@ The baseline cognition hypothesis could be undermined by:
 
 **Dualism**: If consciousness genuinely amplifies baseline cognition—contributing something neural processing alone cannot achieve—then consciousness has causal powers not derivable from physics. The systematic correspondence between consciousness-requiring capacities and the human-ape gap suggests consciousness adds something irreducible.
 
-**Bidirectional Interaction**: The baseline cognition framework specifies *how* consciousness causally contributes: through flexible deployment, metacognitive monitoring, metarepresentation, and counterfactual simulation. These aren't vague "influences" but identifiable mechanisms.
+**Bidirectional Interaction**: The baseline cognition framework specifies *what* consciousness causally contributes: flexible deployment, metacognitive monitoring, metarepresentation, and counterfactual simulation. [Causal delegation](/concepts/causal-delegation/) provides the metaphysical structure for *how* this contribution avoids overdetermination—consciousness takes over causal work that neural states would otherwise perform.
 
 **Minimal Quantum Interaction**: If consciousness interfaces with neural states through quantum selection, the amplification might operate at that level—biasing which neural patterns become actual when multiple possibilities exist. But the framework doesn't require quantum mechanisms; classical attention-based selection could produce similar effects.
 
@@ -263,6 +265,8 @@ The baseline cognition hypothesis could be undermined by:
 - [free-will](/topics/free-will/) — How conscious deliberation supports libertarian free will
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The capacity to imagine non-actual states, requiring consciousness
 - [introspection](/concepts/introspection/) — The capacity to examine one's own mental states
+- [delegatory-dualism](/topics/delegatory-dualism/) — Saad's causal structure for how consciousness amplifies without overdetermination
+- [causal-delegation](/concepts/causal-delegation/) — The mechanism by which physical states hand off causal work to experiences
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes underlying this article
 
 ### Apex Synthesis
