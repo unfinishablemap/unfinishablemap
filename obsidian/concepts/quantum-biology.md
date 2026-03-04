@@ -4,7 +4,7 @@ description: "Non-trivial quantum effects in living systems—photosynthesis, bi
 created: 2026-01-16
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-03-03T02:44:00+00:00
+ai_modified: 2026-03-04T04:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-29T12:00:00+00:00
+last_deep_review: 2026-03-04T04:41:00+00:00
 ---
 
 Quantum biology investigates non-trivial quantum effects in living systems. While most biological processes follow classical physics, several phenomena require quantum mechanical explanations: photosynthetic energy transfer, avian magnetoreception, enzyme catalysis, and possibly olfaction. These findings matter for consciousness studies because they demonstrate that warm, wet biological systems can harness quantum effects—undermining the categorical claim that quantum consciousness is impossible.
@@ -44,7 +44,7 @@ This objection assumed that biology cannot exploit quantum effects. Quantum biol
 
 When light strikes photosynthetic complexes, the resulting excitation must reach the reaction centre where chemistry occurs. This energy transfer achieves near-unity efficiency (~99%), far exceeding classical random-walk predictions.
 
-In 2007, Graham Fleming's team demonstrated quantum coherence in the Fenna-Matthews-Olson (FMO) complex of green sulfur bacteria—at room temperature. The excitation samples multiple pathways simultaneously through quantum superposition. Subsequent research has revised the picture: coherence lifetimes are shorter than initially claimed (~60 femtoseconds), and the long-lived oscillations appear to be vibrational rather than electronic. The current consensus is that quantum coherence probably doesn't enhance photosynthetic efficiency.
+In 2007, Engel et al. demonstrated quantum coherence in the Fenna-Matthews-Olson (FMO) complex of green sulfur bacteria at cryogenic temperature (77 K), with later studies extending the finding to physiological temperatures. The excitation samples multiple pathways simultaneously through quantum superposition. Subsequent research has revised the picture: coherence lifetimes are shorter than initially claimed (~60 femtoseconds at room temperature), and the long-lived oscillations appear to be vibrational rather than electronic. The current consensus is that quantum coherence probably doesn't enhance photosynthetic efficiency.
 
 Yet the demonstration matters: quantum effects *can* operate in warm biological conditions. The fact that this particular mechanism isn't functionally important doesn't rule out functional quantum effects elsewhere.
 
@@ -63,7 +63,7 @@ Migratory birds navigate using Earth's magnetic field through quantum effects in
 - Birds detect magnetic field direction to better than 5°
 - The mechanism is exquisitely sensitive to weak magnetic fields
 
-**January 2026 breakthrough**: Xu et al. at Princeton published computational simulations in JACS confirming the radical pair mechanism in European robins. They identified the electron transfer pathway (>18 angstroms from flavin to final radical pair) and showed how protein reorganisation stabilises the radical pair for magnetic sensing.
+**November 2025 breakthrough**: Luo et al. at Princeton published computational simulations in JACS showing how protein and solvent reorganisation drives radical pair stability in avian cryptochrome-4a. They identified the electron transfer pathway (>18 angstroms from flavin to final radical pair) and showed how the protein environment stabilises the radical pair for magnetic sensing.
 
 **2024 Quantum Zeno discovery**: Nature Communications published evidence that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs. Tight binding of radicals within the protein preserves coherence against decoherence—the same mechanism Stapp proposes for mental causation. This provides the first biological precedent for the Zeno mechanism operating at neural-relevant timescales.
 
@@ -276,7 +276,7 @@ The Map's position on quantum biology would face serious difficulty if:
 
 - [[decoherence]] — The decoherence objection and why it doesn't solve the measurement problem
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR and quantum Zeno
-- [[quantum-coherence-and-binding-evidence]] — Detailed treatment of neural coherence evidence
+- [[quantum-neural-mechanisms-and-coherence]] — Detailed treatment of neural coherence evidence
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 - [[attention-as-interface]] — How the quantum Zeno mechanism might work
 - [[stapp-quantum-mind]] — Henry Stapp's quantum Zeno approach to mental causation
@@ -292,7 +292,7 @@ The Map's position on quantum biology would face serious difficulty if:
 ## References
 
 1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
-1. Fleming, G. R., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
+1. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hagan, S., Hameroff, S., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
@@ -301,10 +301,10 @@ The Map's position on quantum biology would face serious difficulty if:
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Turin, L. (1996). A spectroscopic mechanism for primary olfactory reception. *Chemical Senses*, 21(6), 773-791.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
-1. Xu, J. et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.
 1. Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Qaswal, A. B. (2022). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels. *Quantum Reports*, 4(1), 10.
-1. Nature Communications (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
