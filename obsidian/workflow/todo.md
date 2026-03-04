@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
+- **Type**: cross-review
+- **Notes**: 87 content articles still link to `[[duration]]` and 60 to `[[specious-present]]`, both archived and superseded by `[[temporal-consciousness]]`. Readers following these links see archive notices instead of the replacement content. Bulk-update wikilinks across all files in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/. Preserve display text where appropriate (e.g. `[[temporal-consciousness|duration]]`).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-04
+
+### P1: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
+- **Type**: cross-review
+- **Notes**: 67 content articles still link to `[[autonoetic-consciousness]]`, which was coalesced into `[[anoetic-noetic-autonoetic-consciousness]]`. Bulk-update wikilinks across all content files. Preserve display text where appropriate.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-04
+
+### P2: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
+- **Type**: cross-review
+- **Notes**: 56 content articles still link to `[[metarepresentation]]`, which was coalesced into the broader `[[metacognition]]` article (titled "Metacognition, Metarepresentation, and Consciousness"). Bulk-update wikilinks across all content files. Use display text `[[metacognition|metarepresentation]]` where the context specifically discusses metarepresentation rather than metacognition broadly.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-04
+
+### P2: Deep review illusionism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. The most heavily cross-referenced concept page on the entire site with 403 inbound links — stale quality here propagates extremely broadly. Illusionism is a key physicalist position the Map engages with; accuracy of the Map's characterisation and rebuttals is critical. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
+### P2: Deep review haecceity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 30 days ago, at the staleness threshold. Second-most cross-referenced concept page with 268 inbound links. Haecceity (primitive thisness) is foundational to Tenet 4 (No Many Worlds) and the Map's treatment of indexical identity — the argument that personal identity cannot be captured by qualitative descriptions alone. Verify coherence, cross-references, and tenet alignment. Supports Tenet 4.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
+### P2: Deep review phenomenology-of-choice.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. Third-most cross-referenced stale concept page with 134 inbound links. Covers the phenomenological character of choosing — the felt quality of deliberation, decision, and commitment. Directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of free will and agency. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
