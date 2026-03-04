@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review illusionism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. The most heavily cross-referenced concept page on the entire site with 403 inbound links — stale quality here propagates extremely broadly. Illusionism is a key physicalist position the Map engages with; accuracy of the Map's characterisation and rebuttals is critical. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-04
-
 ### P2: Deep review haecceity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 30 days ago, at the staleness threshold. Second-most cross-referenced concept page with 268 inbound links. Haecceity (primitive thisness) is foundational to Tenet 4 (No Many Worlds) and the Map's treatment of indexical identity — the argument that personal identity cannot be captured by qualitative descriptions alone. Verify coherence, cross-references, and tenet alignment. Supports Tenet 4.
@@ -597,6 +591,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Deep review illusionism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. The most heavily cross-referenced concept page on the entire site with 403 inbound links — stale quality here propagates extremely broadly. Illusionism is a key physicalist position the Map engages with; accuracy of the Map's characterisation and rebuttals is critical. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/illusionism.md
 
 ### ✓ 2026-03-04: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
 - **Type**: cross-review
