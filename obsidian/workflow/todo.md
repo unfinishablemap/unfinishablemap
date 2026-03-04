@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
-- **Type**: cross-review
-- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides experimental evidence that consciousness operates during sleep states. topics/incubation-effect-and-unconscious-processing.md covers incubation and unconscious processing and should cross-reference the dream laboratory evidence — particularly Dormio targeted dream incubation as direct evidence for conscious influence on unconscious processing. Check for cross-links and argument reinforcement.
-- **Source**: chain (from dreams-as-consciousness-laboratory.md)
-- **Generated**: 2026-03-04
-
 ### P2: Integrate consciousness-and-temporal-integration.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on how consciousness integrates temporally distributed information into unified experience — directly relevant to the binding problem, temporal consciousness, and the specious present. Add cross-references from related articles: temporal-consciousness.md, specious-present-temporal-experience.md, binding-problem-consciousness.md, phenomenal-unity.md.
@@ -586,6 +580,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides experimental evidence that consciousness operates during sleep states. topics/incubation-effect-and-unconscious-processing.md covers incubation and unconscious processing and should cross-reference the dream laboratory evidence — particularly Dormio targeted dream incubation as direct evidence for conscious influence on unconscious processing. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/incubation-effect-and-unconscious-processing.md -- Context: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
 
 ### ✓ 2026-03-04: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
 - **Type**: cross-review
