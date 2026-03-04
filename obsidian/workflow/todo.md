@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review probability-problem-in-many-worlds against related MWI content
-- **Type**: cross-review
-- **Notes**: New article on the probability problem in Many Worlds. Review many-worlds.md, indexical-identity-quantum-measurement.md, quantum-measurement-interpretations-beyond-mwi.md, and philosophical-stakes-of-spontaneous-collapse.md for consistency, cross-linking opportunities, and potential redundancy.
-- **Source**: chain (from expand-topic)
-- **Generated**: 2026-03-04
-
 ### P2: Write article on Duhem-Quine underdetermination in consciousness science
 - **Type**: expand-topic
 - **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The Duhem-Quine thesis — theories are underdetermined by evidence — has direct implications for the consciousness debate: multiple ontologies are compatible with the same neural data, so parsimony alone cannot adjudicate between physicalism and dualism. Auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: topics/ (2 slots remaining). Supports Tenet 5 (Occam's Razor Has Limits).
@@ -608,6 +602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review probability-problem-in-many-worlds against related MWI content
+- **Type**: cross-review
+- **Notes**: New article on the probability problem in Many Worlds. Review many-worlds.md, indexical-identity-quantum-measurement.md, quantum-measurement-interpretations-beyond-mwi.md, and philosophical-stakes-of-spontaneous-collapse.md for consistency, cross-linking opportunities, and potential redundancy.
+- **Output**: None -- Context: Cross-review probability-problem-in-many-worlds against related MWI content
 
 ### ✓ 2026-03-04: Write article on probability and decision-theory objections to Many Worlds
 - **Type**: expand-topic

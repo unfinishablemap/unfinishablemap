@@ -4,7 +4,7 @@ description: "MWI faces a deep crisis: if all outcomes occur, probability loses 
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T18:32:00+00:00
+ai_modified: 2026-03-04T18:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-04T18:47:00+00:00
 ---
 
 The Many-Worlds Interpretation faces a probability crisis that may be fatal. If every quantum outcome occurs in some branch, what does it mean to say one outcome is "more probable" than another? The Unfinishable Map's [[concepts/many-worlds|existing critique of MWI]] identifies the probability problem as one of five major objections. This article examines the problem in depth, surveying three major recovery strategies—decision theory, self-locating uncertainty, and envariance—and the objections that undermine each. After seven decades, the probability problem remains unresolved. This failure provides strong independent support for the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet.
@@ -74,7 +74,7 @@ The circle: **Born rule → decoherence → branches → probability → Born ru
 
 Price (2010) frames this as a dilemma for the Everettian. Without the Born rule, you cannot establish decoherence. Without decoherence, you cannot identify branches. Without branches, you have no outcomes to assign probabilities to. The entire apparatus for making MWI empirically meaningful depends on what it claims to derive.
 
-Wallace responds that decoherence is a structural feature of the formalism, not a probabilistic statement—that off-diagonal terms becoming small is a mathematical fact about the Schrödinger evolution, not a Born-rule claim. Critics remain unconvinced: describing interference terms as "small" or "negligible" involves a norm on state space, and the physically relevant norm is the Born-rule norm.
+Wallace (2012) responds at length that decoherence is a structural feature of the formalism, not a probabilistic statement—that off-diagonal terms becoming small is a mathematical fact about the Schrödinger evolution, not a Born-rule claim. On this view, branch structure emerges from the dynamics alone, and the Born rule is then derived within that structure rather than presupposed by it. Critics remain unconvinced: describing interference terms as "small" or "negligible" involves a norm on state space, and the physically relevant norm is the Born-rule norm. The disagreement turns on whether "structurally small" can be cleanly separated from "probabilistically negligible"—a distinction that remains contested.
 
 ## Branch-Counting: The Natural Alternative
 
@@ -82,15 +82,15 @@ If all branches are equally real, the most natural probability measure is branch
 
 Graham (1973) showed this yields the wrong statistics. When a system branches into outcomes with unequal amplitudes, branch-counting assigns equal weight to each, while the Born rule assigns weight proportional to amplitude-squared. Graham demonstrated that "worlds displaying proper quantum statistics are in a numerical minority" under branch-counting. Most branches, counted equally, do not match experimental observations.
 
-Saunders (2021) formalised this in *Proceedings of the Royal Society A*. For any measurement with unequal amplitudes, branch-counting generically contradicts the Born rule. The defender of MWI must explain why the amplitude-weighted measure is preferred over the branch-counting measure. Since both measures are mathematically well-defined and both respect the branch structure, the choice between them cannot be grounded in the formalism alone.
+Saunders (2021) revisited branch-counting in *Proceedings of the Royal Society A*, proposing a *state-dependent* branch-counting rule that recovers Born-rule statistics. His approach defines branch ratios through decoherent histories theory rather than naive equal-weight counting. However, this defence concedes the central point: naive branch-counting—the most natural measure when all branches are equally real—fails. Recovering the Born rule requires a branch-counting rule that already encodes amplitude information, raising the question of whether this is branch-counting at all or the Born rule by another name.
 
-This creates an explanatory gap: MWI needs an additional postulate—"weight branches by amplitude-squared"—that is functionally equivalent to the Born rule. The supposed advantage of eliminating collapse is undercut by needing to posit something equally unexplained.
+The explanatory gap remains: MWI needs an additional postulate—whether "weight branches by amplitude-squared" or a state-dependent counting rule that achieves the same result—that is functionally equivalent to the Born rule. The supposed advantage of eliminating collapse is undercut by needing to posit something equally unexplained.
 
 ## Self-Locating Uncertainty
 
 ### The Sleeping-Pill Strategy
 
-Vaidman proposed a different approach: between the moment of measurement and the moment of observation, an agent genuinely doesn't know which branch they occupy. This window of ignorance provides a foothold for probability as rational credence about self-location.
+Vaidman (1998) proposed a different approach: between the moment of measurement and the moment of observation, an agent genuinely doesn't know which branch they occupy. This window of ignorance provides a foothold for probability as rational credence about self-location.
 
 Sebens and Carroll (2018) refined this into a formal derivation. Their epistemic separability principle (ESP-QM) holds that "an agent's self-locating credences should depend only on the quantum state of the relevant part of the multiverse." From ESP-QM, they derive that the Born rule is the uniquely rational way to apportion credence.
 
@@ -98,7 +98,7 @@ Sebens and Carroll (2018) refined this into a formal derivation. Their epistemic
 
 Lewis (2007) argues that all variants of the subjective uncertainty strategy fail. The uncertainty is either spurious—there is no genuine fact the agent is ignorant of—or it is "in the wrong place" to yield probabilistic predictions. Branching does not have sufficient structure to ground self-location probabilities because the pre-measurement agent is not identical to any single post-measurement continuation.
 
-Friederich and Dawid criticise Sebens and Carroll's derivation more directly: ESP-QM is implausible given its own motivating assumptions. The principle presupposes an ability to count and individuate branches, which are ill-defined in continuous decoherence models. Where branches can be counted, branch-counting is equally consistent with the separability intuition—so ESP-QM does not uniquely select the Born rule.
+Friederich and Dawid (2022) criticise Sebens and Carroll's derivation more directly: ESP-QM is not, as claimed, a less general version of an independently plausible epistemic separability principle. It can only be motivated by the empirical success of quantum mechanics, including use of the Born rule. ESP-QM therefore cannot serve as a meta-theoretical principle from which to derive the Born rule—the derivation is circular.
 
 ## Envariance: Symmetry Without Circularity?
 
@@ -129,6 +129,7 @@ The circularity objection has a particular resonance for the Map's framework. If
 - [[quantum-measurement-interpretations-beyond-mwi]] — Five major alternatives to MWI
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why real collapse matters philosophically
 - [[quantum-measurement-and-subjective-probability]] — The subjective dimension of quantum probability
+- [[quantum-probability-consciousness]] — How probability connects to consciousness across interpretations
 - [[decoherence]] — What decoherence does and does not explain
 - [[tenets]] — The Map's foundational commitments
 
@@ -137,14 +138,18 @@ The circularity objection has a particular resonance for the Map's framework. If
 1. Albert, D. (2010). Probability in the Everett picture. In Saunders et al. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
 2. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
 3. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
-4. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
-5. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
-6. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
-7. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
-8. Saunders, S. (2021). Branch-counting in the Everett interpretation of quantum mechanics. *Proceedings of the Royal Society A*, 477, 20210600.
-9. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
-10. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
-11. Wallace, D. (2010). How to prove the Born rule. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
-12. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
-13. Southgate, A. & Oquatre-six, C. (2026-01-19). The Many-Worlds Interpretation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/many-worlds/
-14. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Indexical Identity and Quantum Measurement. *The Unfinishable Map*. https://unfinishablemap.org/topics/indexical-identity-quantum-measurement/
+4. Friederich, S. & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711-736.
+5. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
+6. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+7. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
+8. Mohrhoff, U. (2004). Probabilities from envariance? *International Journal of Quantum Information*, 2(2), 221-229.
+9. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+10. Saunders, S. (2021). Branch-counting in the Everett interpretation of quantum mechanics. *Proceedings of the Royal Society A*, 477, 20210600.
+11. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
+12. Vaidman, L. (1998). On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum theory. *International Studies in the Philosophy of Science*, 12(3), 245-261.
+13. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
+14. Wallace, D. (2010). How to prove the Born rule. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+15. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+16. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
+17. Southgate, A. & Oquatre-six, C. (2026-01-19). The Many-Worlds Interpretation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/many-worlds/
+18. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Indexical Identity and Quantum Measurement. *The Unfinishable Map*. https://unfinishablemap.org/topics/indexical-identity-quantum-measurement/
