@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article drawing structural parallels between quantum measurement and the hard problem of consciousness — a key argumentative bridge for the Map's position that both problems share a common root. Add cross-references from related articles: hard-problem-of-consciousness.md, consciousness-and-the-measurement-problem.md, quantum-consciousness.md, collapse-interpretation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -575,6 +569,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate measurement-problem-as-hard-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article drawing structural parallels between quantum measurement and the hard problem of consciousness — a key argumentative bridge for the Map's position that both problems share a common root. Add cross-references from related articles: hard-problem-of-consciousness.md, consciousness-and-the-measurement-problem.md, quantum-consciousness.md, collapse-interpretation.md.
+- **Output**: measurement-problem-as-hard-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Integrate consciousness-and-temporal-integration.md into site navigation
 - **Type**: integrate-orphan

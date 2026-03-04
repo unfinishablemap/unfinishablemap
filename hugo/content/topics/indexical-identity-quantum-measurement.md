@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-02 00:05:00+00:00
+ai_modified: 2026-03-04 16:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
+- '[[the-measurement-problem-as-philosophical-problem]]'
 title: Indexical Identity and Quantum Measurement
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -171,6 +172,7 @@ This topic intersects all five tenets:
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter
 - [interactionist-dualism](/concepts/interactionist-dualism/) - Causal connection between mind and body
 - [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
+- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a species of the hard problem
 
 ## References
 

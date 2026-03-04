@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-02 10:52:00+00:00
+ai_modified: 2026-03-04 16:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[first-person-third-person-methodology]]'
-- '[[measurement-problem-as-hard-problem]]'
+- '[[the-measurement-problem-as-philosophical-problem]]'
 - '[[the-unobservable-self]]'
 title: The Subject-Object Distinction as Philosophical Discovery
 topics:
@@ -99,7 +99,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [phenomenology](/concepts/phenomenology/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
-- [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [self-stultification](/concepts/self-stultification/)

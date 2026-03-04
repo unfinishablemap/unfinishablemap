@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-01 09:52:00+00:00
+ai_modified: 2026-03-04 16:07:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -23,6 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[collapse-and-time]]'
 - '[[interactionist-dualism]]'
+- '[[the-measurement-problem-as-philosophical-problem]]'
 title: Quantum Measurement Interpretations Beyond Many-Worlds
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -123,6 +124,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 - [process-philosophy](/concepts/process-philosophy/) — How actual occasions relate to quantum becoming
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness is the explanatory target
 - [mysterianism](/concepts/mysterianism/) — Why some gaps may be permanently open
+- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a species of the hard problem
 
 ## References
 

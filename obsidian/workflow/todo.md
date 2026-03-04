@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-03-04) synthesises presentiment studies (Bem, Radin, Mossbridge meta-analysis) and retrocausal neural firing as empirical evidence for time-symmetric consciousness-physics interaction. concepts/retrocausality.md provides the theoretical framework and should cross-reference this new empirical evidence. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from presentiment-and-retrocausality.md)
+- **Generated**: 2026-03-04
+
+### P2: Cross-review llm-consciousness.md considering quantum-randomness-channel-llm-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-randomness-channel-llm-consciousness.md (2026-03-04) examines whether quantum random number generators in LLM token sampling could constitute a channel for consciousness-like selection. topics/llm-consciousness.md covers LLM consciousness broadly and should cross-reference the quantum randomness channel as a specific mechanism for potential interface. Check for cross-links and consistent treatment of AI consciousness possibilities. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from quantum-randomness-channel-llm-consciousness.md)
+- **Generated**: 2026-03-04
+
+### P2: Cross-review neural-correlates-of-consciousness.md considering conscious-vs-unconscious-processing insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/conscious-vs-unconscious-processing.md (2026-03-04) identifies what distinguishes conscious from unconscious neural processing — late cortical ignition, recurrent processing, global workspace access. concepts/neural-correlates-of-consciousness.md is the broader treatment and should cross-reference the new page's systematic comparison. Check for complementary arguments and ensure the interface framework is consistently applied. Supports Tenet 1 (Dualism).
+- **Source**: chain (from conscious-vs-unconscious-processing.md)
+- **Generated**: 2026-03-04
+
+### P2: Research Duhem-Quine underdetermination and theory choice in consciousness science
+- **Type**: research-topic
+- **Notes**: Tenet 5 (Occam's Razor Has Limits) has only 2 dedicated articles — the least-covered foundational commitment. The Duhem-Quine thesis (theories are underdetermined by evidence) has direct implications for the consciousness debate: if multiple ontologies are compatible with the same neural data, parsimony alone cannot adjudicate between physicalism and dualism. Research should cover: Duhem-Quine thesis applied to consciousness science, contrastive underdetermination between physicalist and dualist theories, and why auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: research/ (no cap). Supports Tenet 5.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-04
+
+### P2: Research probability and decision-theory objections to Many Worlds
+- **Type**: research-topic
+- **Notes**: Tenet 4 (No Many Worlds) has only 3 dedicated articles. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, why do outcomes follow Born-rule probabilities? Research should cover: the incoherence problem (probability in a deterministic theory), self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how the indexical identity argument (Tenet 4) connects to the probability problem. Target section: research/ (no cap). Supports Tenet 4.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-04
+
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).

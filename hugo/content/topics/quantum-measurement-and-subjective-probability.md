@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-27 07:46:00+00:00
+ai_modified: 2026-03-04 16:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
+- '[[the-measurement-problem-as-philosophical-problem]]'
 title: Quantum Measurement and Subjective Probability
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -157,6 +158,7 @@ This article connects to multiple tenets:
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle these interpretations address
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What subjective experience is
+- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a philosophical problem about observation and consciousness
 
 ## References
 

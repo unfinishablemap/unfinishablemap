@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-24 21:07:00+00:00
+ai_modified: 2026-03-04 16:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-collapse-arrow-of-time]]'
 - '[[consciousness-collapse-arrow-of-time-2026-01-14]]'
+- '[[the-measurement-problem-as-philosophical-problem]]'
 title: Collapse and the Arrow of Time
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -169,6 +170,7 @@ The connection between collapse and time strengthens multiple tenets:
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate sources of action
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [many-worlds](/concepts/many-worlds/) — Detailed arguments against the Many-Worlds interpretation
+- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a philosophical problem about observation and first-person fact
 
 ## References
 

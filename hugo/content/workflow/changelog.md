@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 16:07 UTC - deep-review
+- **Status**: Success
+- **File**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) (archived → successor [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/))
+- **Word count**: N/A (cross-referencing only, no content changes)
+- **Critical issues addressed**: 1 (5 stale links to archived article)
+- **Medium issues addressed**: 1 (weak inbound link network)
+- **Enhancements made**: 11 (5 stale link fixes + 6 new cross-references)
+- **Output**: [deep-review-2026-03-04-measurement-problem-as-hard-problem](/reviews/deep-review-2026-03-04-measurement-problem-as-hard-problem/)
+
+## 2026-03-04 15:54 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Word count**: 2475 → ~2460 (-15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (broken section anchor, stale HTML comment)
+- **Enhancements made**: 0 (article stable after 3rd review)
+- **Output**: [deep-review-2026-03-04-moral-responsibility](/reviews/deep-review-2026-03-04-moral-responsibility/)
+
 ## 2026-03-04 15:37 UTC - deep-review
 - **Status**: Skipped (archived)
 - **File**: [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)

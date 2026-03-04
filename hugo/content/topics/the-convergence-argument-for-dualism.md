@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-28 12:00:00+00:00
+ai_modified: 2026-03-04 16:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[epistemological-limits-occams-razor]]'
 - '[[contemplative-methods-as-philosophical-methodology]]'
 - '[[emotion-as-evidence-for-dualism]]'
+- '[[the-measurement-problem-as-philosophical-problem]]'
 title: The Convergence Argument for Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -157,6 +158,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Convergence across contemplative traditions
 - [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — Emotional consciousness as an additional convergence point
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Why consciousness cannot be weakly emergent
+- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as an instance of the hard problem: convergence from quantum foundations
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The target explanandum that resists reduction
 
 ## References

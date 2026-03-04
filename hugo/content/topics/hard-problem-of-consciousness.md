@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-04 13:38:00+00:00
+ai_modified: 2026-03-04 16:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -66,7 +66,7 @@ related_articles:
 - '[[origin-of-consciousness]]'
 - '[[process-and-consciousness]]'
 - '[[emergence-void]]'
-- '[[measurement-problem-as-hard-problem]]'
+- '[[the-measurement-problem-as-philosophical-problem]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[objectivity-and-consciousness]]'
 - '[[bandwidth-of-consciousness]]'
