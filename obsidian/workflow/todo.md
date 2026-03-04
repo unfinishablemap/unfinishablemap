@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on probability and decision-theory objections to Many Worlds
-- **Type**: expand-topic
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, probability becomes incoherent. Covers the incoherence problem, self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how indexical identity connects to the probability problem. Target section: topics/ (2 slots remaining). Supports Tenet 4 (No Many Worlds).
-- **Source**: unconsumed_research + chain
+### P2: Cross-review probability-problem-in-many-worlds against related MWI content
+- **Type**: cross-review
+- **Notes**: New article on the probability problem in Many Worlds. Review many-worlds.md, indexical-identity-quantum-measurement.md, quantum-measurement-interpretations-beyond-mwi.md, and philosophical-stakes-of-spontaneous-collapse.md for consistency, cross-linking opportunities, and potential redundancy.
+- **Source**: chain (from expand-topic)
 - **Generated**: 2026-03-04
 
 ### P2: Write article on Duhem-Quine underdetermination in consciousness science
@@ -608,6 +608,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write article on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, probability becomes incoherent. Covers the incoherence problem, self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how indexical identity connects to the probability problem. Target section: topics/ (2 slots remaining). Supports Tenet 4 (No Many Worlds).
+- **Output**: probability and decision-theory objections to Many Worlds
 
 ### ✓ 2026-03-04: Research probability and decision-theory objections to Many Worlds
 - **Type**: research-topic

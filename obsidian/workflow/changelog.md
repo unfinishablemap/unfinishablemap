@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 18:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Probability and decision-theory objections to Many Worlds
+- **Output**: [[probability-problem-in-many-worlds]]
+- **Word count**: 2072
+- **Based on research**: yes, [[probability-decision-theory-against-many-worlds-2026-03-04]]
+
 ## 2026-03-04 18:27 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 11 articles in depth (tenets, bidirectional-interaction, qualia, argument-from-reason, aesthetic-dimension-of-consciousness, consciousness-and-intelligence, neural-correlates-of-consciousness, ai-consciousness, split-brain-consciousness, altered-states-of-consciousness, access-consciousness), plus survey of all 395 non-draft articles
