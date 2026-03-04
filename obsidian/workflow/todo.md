@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-temporal-integration.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on how consciousness integrates temporally distributed information into unified experience — directly relevant to the binding problem, temporal consciousness, and the specious present. Add cross-references from related articles: temporal-consciousness.md, specious-present-temporal-experience.md, binding-problem-consciousness.md, phenomenal-unity.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article drawing structural parallels between quantum measurement and the hard problem of consciousness — a key argumentative bridge for the Map's position that both problems share a common root. Add cross-references from related articles: hard-problem-of-consciousness.md, consciousness-and-the-measurement-problem.md, quantum-consciousness.md, collapse-interpretation.md.
@@ -580,6 +574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate consciousness-and-temporal-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how consciousness integrates temporally distributed information into unified experience — directly relevant to the binding problem, temporal consciousness, and the specious present. Add cross-references from related articles: temporal-consciousness.md, specious-present-temporal-experience.md, binding-problem-consciousness.md, phenomenal-unity.md.
+- **Output**: consciousness-and-temporal-integration.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
 - **Type**: cross-review

@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 15:37 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: [[consciousness-and-temporal-integration]]
+- **Reason**: Article was archived on 2026-02-23, coalesced into [[temporal-structure-of-consciousness]]. Archived articles should not receive deep reviews or new inbound links.
+
 ## 2026-03-04 15:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[incubation-effect-and-unconscious-processing]]
