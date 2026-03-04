@@ -28,6 +28,7 @@ related_articles:
   - "[[consciousness-and-the-problem-of-philosophical-progress]]"
   - "[[first-person-third-person-methodology]]"
   - "[[argument-from-reason]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[phenomenology-of-understanding]]"
   - "[[knowledge-argument]]"
   - "[[why-phenomenal-unity-resists-explanation]]"

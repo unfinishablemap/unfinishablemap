@@ -21,6 +21,7 @@ related_articles:
   - "[[the-case-for-dualism]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemological-limits-occams-razor]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

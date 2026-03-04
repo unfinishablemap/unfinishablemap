@@ -23,6 +23,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
   - "[[consciousness-and-the-phenomenology-of-translation]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

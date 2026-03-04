@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review duhem-quine-underdetermination-consciousness against related articles
-- **Type**: cross-review
-- **Notes**: Review [[topics/duhem-quine-underdetermination-consciousness]] in context of [[concepts/philosophy-of-science-under-dualism]], [[arguments/epistemological-limits-of-occams-razor]], and related consciousness methodology articles. Check for consistency, add inbound links.
-- **Source**: chain from expand-topic
-- **Generated**: 2026-03-04
-
 ### P2: Integrate testing-the-map-from-inside.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Apex article (created 2026-01-31) with no inbound body-text links from any content article. As a high-level synthesis piece on testing the Map's claims from a first-person perspective, it should be referenced from articles it integrates — including phenomenal-conservatism-and-introspective-evidence.md, contemplative-methods-as-philosophical-methodology.md, and the tenets articles it engages with.
@@ -602,6 +596,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review duhem-quine-underdetermination-consciousness against related articles
+- **Type**: cross-review
+- **Notes**: Review [[topics/duhem-quine-underdetermination-consciousness]] in context of [[concepts/philosophy-of-science-under-dualism]], [[arguments/epistemological-limits-of-occams-razor]], and related consciousness methodology articles. Check for consistency, add inbound links.
+- **Output**: None -- Context: Cross-review duhem-quine-underdetermination-consciousness against related articles
 
 ### ✓ 2026-03-04: Update references to coalesced pain articles
 - **Type**: cross-review

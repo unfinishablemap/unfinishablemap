@@ -28,6 +28,7 @@ related_articles:
   - "[[phenomenological-evidence]]"
   - "[[contemplative-neuroscience]]"
   - "[[contemplative-training-and-phenomenal-access]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
 ai_contribution: 100
 author:

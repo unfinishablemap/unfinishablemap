@@ -33,6 +33,7 @@ related_articles:
   - "[[neural-correlates-consciousness-2026-01-14]]"
   - "[[quantification-void]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
