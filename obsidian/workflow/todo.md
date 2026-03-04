@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address emergence and tenet-connection gaps in collective-cognitive-limits.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that emergence is asserted without rigorous argument (high severity), tenet connections to Dualism and No Many Worlds are strained (medium), and the combination problem analogy is misleading (medium). See pessimistic-2026-03-04.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-04
+
 ### P2: Cross-review baseline-cognition.md considering delegatory-dualism insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) provides dedicated treatment of Bradford Saad's framework where consciousness delegates processing to neural systems. concepts/baseline-cognition.md directly operationalises this delegation model — the baseline is what runs when consciousness delegates. Check for cross-links, ensure consistent treatment of the delegation architecture, and add references to the new concept page. Supports Tenet 3 (Bidirectional Interaction).
