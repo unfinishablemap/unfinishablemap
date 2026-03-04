@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate causal-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Brand-new concept page (created 2026-03-04) for causal delegation — the mechanism by which consciousness offloads processing to neural systems. Referenced 50+ times across the site via delegatory dualism but the concept page itself has zero inbound wikilinks. Add cross-references from delegatory-dualism.md, mental-causation.md, baseline-cognition.md, and consciousness-as-amplifier.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
+### P2: Cross-review baseline-cognition.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) provides dedicated treatment of Bradford Saad's framework where consciousness delegates processing to neural systems. concepts/baseline-cognition.md directly operationalises this delegation model — the baseline is what runs when consciousness delegates. Check for cross-links, ensure consistent treatment of the delegation architecture, and add references to the new concept page. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-03-04
+
+### P2: Cross-review consciousness-as-amplifier.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) formalises the delegation framework. concepts/consciousness-as-amplifier.md presents consciousness as amplifying baseline cognition — a complementary perspective to the delegation model. Cross-reference the new concept page, check for consistent terminology, and ensure the amplification-delegation relationship is clearly articulated. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-03-04
+
+### P2: Integrate contemplative-reliability.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero live inbound links — only referenced from an archived page (archive/concepts/contemplative-epistemology.md). Concept page covering the reliability of contemplative practices as epistemological tools. Add cross-references from the live contemplative-epistemology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md, and phenomenal-conservatism-and-introspective-evidence.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
+### P2: Cross-review mental-causation.md considering causal-delegation insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/causal-delegation.md (2026-03-04) introduces causal delegation as a specific mechanism for mental causation. concepts/mental-causation.md is the Map's central treatment of how mind causes physical effects and should cross-reference the new page's treatment of delegation as a form of downward causation. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from causal-delegation.md)
+- **Generated**: 2026-03-04
+
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
