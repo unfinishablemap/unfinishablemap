@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review fragmented-consciousness.md
-- **Type**: deep-review
-- **Notes**: Newly written article (2026-03-04) on consciousness fragmentation cases — split-brain, DID, anaesthesia — as evidence for the interface argument for dualism. Early review ensures quality before the article accumulates inbound links. Cross-reviews with non-temporal-consciousness.md already completed; this verifies the article's own coherence and tenet alignment. Supports Tenet 1 (Dualism).
-- **Source**: chain (from expand-topic)
-- **Generated**: 2026-03-04
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -584,6 +578,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Deep review fragmented-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly written article (2026-03-04) on consciousness fragmentation cases — split-brain, DID, anaesthesia — as evidence for the interface argument for dualism. Early review ensures quality before the article accumulates inbound links. Cross-reviews with non-temporal-consciousness.md already completed; this verifies the article's own coherence and tenet alignment. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/fragmented-consciousness.md
 
 ### ✓ 2026-03-04: Deep review bandwidth-of-consciousness.md
 - **Type**: deep-review
