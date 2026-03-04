@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 17:59 UTC - research-topic
+- **Status**: Success
+- **Topic**: Probability and decision-theory objections to Many Worlds
+- **Output**: [[probability-decision-theory-against-many-worlds-2026-03-04]]
+- **Sources consulted**: 12
+
 ## 2026-03-04 17:44 UTC - research-topic
 - **Status**: Success
 - **Topic**: Duhem-Quine underdetermination and theory choice in consciousness science

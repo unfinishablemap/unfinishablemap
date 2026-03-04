@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research probability and decision-theory objections to Many Worlds
-- **Type**: research-topic
-- **Notes**: Tenet 4 (No Many Worlds) has only 3 dedicated articles. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, why do outcomes follow Born-rule probabilities? Research should cover: the incoherence problem (probability in a deterministic theory), self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how the indexical identity argument (Tenet 4) connects to the probability problem. Target section: research/ (no cap). Supports Tenet 4.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-04
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -574,6 +568,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Research probability and decision-theory objections to Many Worlds
+- **Type**: research-topic
+- **Notes**: Tenet 4 (No Many Worlds) has only 3 dedicated articles. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, why do outcomes follow Born-rule probabilities? Research should cover: the incoherence problem (probability in a deterministic theory), self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how the indexical identity argument (Tenet 4) connects to the probability problem. Target section: research/ (no cap). Supports Tenet 4.
+- **Output**: probability and decision-theory objections to Many Worlds
 
 ### ✓ 2026-03-04: Research Duhem-Quine underdetermination and theory choice in consciousness science
 - **Type**: research-topic
