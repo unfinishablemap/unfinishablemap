@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-27T17:46:00+00:00
+ai_modified: 2026-03-04T15:54:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-30T14:49:00+00:00
+last_deep_review: 2026-03-04T15:54:00+00:00
 ---
 
 Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [[agent-causation|agent causation]]—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action, making moral responsibility metaphysically robust rather than merely pragmatic.
@@ -52,7 +52,7 @@ The agent is the ultimate source of the action. Prior factors influenced but did
 
 ### The Luck Objection
 
-If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [[quantum-indeterminacy-free-will]] for the full treatment of this challenge. The Map's [[topics/free-will#Why the Map's Framework Escapes Luck|response]]: consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
+If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [[quantum-indeterminacy-free-will]] for the full treatment of this challenge. The Map's [[topics/free-will#The Agent-Causal Response to Luck|response]]: consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
 
 ### How Agent Causation Grounds Control
 
@@ -202,17 +202,3 @@ This framework respects the ordinary intuition that people deserve praise and bl
 1. Tallis, R. (2011). *Aping Mankind*. Acumen.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-02-18
-Changes made:
-1. Restructured "The Quantum Zeno Mechanism" section → "How Agent Causation Grounds Control": agent causation now presented as philosophically grounded regardless of physical mechanism, with quantum Zeno as one speculative possible implementation (writing style guide compliance)
-1. Fixed Soon et al. (2008) citation: clarified study predicted timing, not content; ~60% accuracy was for which button, barely above binary chance
-1. Acknowledged agent causation as minority position in opening paragraph
-1. Flagged "irreducible causal power" as doing significant unexplained work, with honest acknowledgment of the cost of treating it as a primitive
-1. Softened decoherence section: removed specific quantum Zeno dependence, reframed around the more general point that consciousness might bias outcomes at the moment of decoherence
-1. All changes driven by pessimistic-2026-02-17-night.md (Issues 3, 5; Unsupported Claims table)
-
-Key improvements: Decoupled the philosophical argument for moral responsibility from speculative quantum mechanisms, improving resilience and style guide compliance.
-
-This log should be removed after human review.
--->
