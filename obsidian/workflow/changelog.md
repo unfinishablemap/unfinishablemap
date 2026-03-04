@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 13:07 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Neural correlates distinguishing conscious from unconscious processing
+- **Reason**: Article already exists as [[conscious-vs-unconscious-processing]] (created 2026-01-23 from same research note). No new article created.
+
 ## 2026-03-04 12:54 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-effort]]

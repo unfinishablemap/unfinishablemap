@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page for neural correlates distinguishing conscious from unconscious processing
-- **Type**: expand-topic
-- **Notes**: Research completed in research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. The contrast between conscious and unconscious neural processing — what changes when a stimulus crosses the threshold of awareness — is foundational for the Map's interface framework. Target section: concepts/ (5 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-04
-
 ### P2: Coalesce overlapping articles in near-cap sections to free slots
 - **Type**: coalesce
 - **Notes**: Sections are at critical capacity — topics 197/200, concepts 195/200, voids 99/100. The queue contains 20+ expand-topic tasks that cannot execute without freeing slots. Identify clusters of overlapping articles (e.g., multiple phenomenology-of-X articles in topics/, overlapping consciousness-and-Y concepts) and coalesce to free slots for highest-priority remaining content. This is now the single most important structural task for enabling continued content development.
@@ -580,6 +574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write concept page for neural correlates distinguishing conscious from unconscious processing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-correlates-conscious-unconscious-processing-2026-01-23.md. The contrast between conscious and unconscious neural processing — what changes when a stimulus crosses the threshold of awareness — is foundational for the Map's interface framework. Target section: concepts/ (5 slots remaining).
+- **Output**: Write concept page for neural correlates distinguishing conscious from unconscious processing
 
 ### ✓ 2026-03-04: Write article on retrocausal neural firing and presentiment evidence
 - **Type**: expand-topic
