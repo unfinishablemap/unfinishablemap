@@ -73,7 +73,7 @@ topics: []
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) (in Standard Debate section)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) (in Coercion and the Veto Power section)
 - [luck-objection](/concepts/luck-objection/) (in Why Not a Physicalist Account section)
-- [suffering-versus-pain](/topics/suffering-versus-pain/) (in Further Reading)
+- [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/) (in Further Reading)
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) (in Further Reading)
 
 ## Remaining Items

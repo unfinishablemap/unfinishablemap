@@ -123,7 +123,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [luck-objection](/concepts/luck-objection/)
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
-- [suffering-versus-pain](/topics/suffering-versus-pain/)
+- [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/)
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The broader moral implications when agency is real: obligation, character, moral luck
 

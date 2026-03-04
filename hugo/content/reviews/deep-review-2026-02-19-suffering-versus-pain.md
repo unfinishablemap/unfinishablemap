@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Suffering Versus Pain](/topics/suffering-versus-pain/)
+**Article**: [Suffering Versus Pain](/topics/pain-consciousness-and-causal-power/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

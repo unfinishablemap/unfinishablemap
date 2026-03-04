@@ -141,7 +141,7 @@ The Map's consistent intellectual honesty—the AI exception in the epiphenomena
 - **Tenet alignment**: Tests whether Bidirectional Interaction (Tenet 3) and Dualism (Tenet 1) are fully compatible, strengthening both if reconciled
 
 #### Consciousness and the Binding Problem Under Dualism
-- **Builds on**: [binding-problem](/concepts/binding-problem/), [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/), [pain-asymbolia-as-central-test-case](/topics/pain-asymbolia-as-central-test-case/)
+- **Builds on**: [binding-problem](/concepts/binding-problem/), [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/), [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/)
 - **Would address**: How does the binding problem look specifically under the Map's dualist framework? If consciousness selects at quantum indeterminacies, does it also bind? Pain asymbolia's affective-sensory dissociation and the binding problem's combination challenge may share structural features that the interface model illuminates.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Strengthens Minimal Quantum Interaction (Tenet 2) by specifying what quantum selection does with respect to phenomenal unity

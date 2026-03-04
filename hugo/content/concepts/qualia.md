@@ -56,7 +56,7 @@ Qualia are closely related to [phenomenal-consciousness](/concepts/phenomenal-co
 
 ## Why Qualia Matter
 
-Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotional-consciousness/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case, and grounds [phenomenal value realism](/concepts/concept-of-phenomenal-value-realism/)'s claim that these felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[why-pain-hurts](/topics/why-pain-hurts/) develops this as the hardest case for epiphenomenalism.
+Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotional-consciousness/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case, and grounds [phenomenal value realism](/concepts/concept-of-phenomenal-value-realism/)'s claim that these felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[why-pain-hurts](/topics/pain-consciousness-and-causal-power/) develops this as the hardest case for epiphenomenalism.
 
 Consider two scenarios:
 1. A neuroscientist gives a complete account of pain—nerve fibers, neurotransmitter release, brain regions activated
@@ -219,7 +219,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) - Why qualia resist linguistic capture (bidirectional lossy channel)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) - Aesthetic qualia resistant to reduction
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - Whether thinking has phenomenal character
-- [why-pain-hurts](/topics/why-pain-hurts/) - Why pain's felt quality is inseparable from its causal power
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) - Why pain's felt quality is inseparable from its causal power
 - [minimal-consciousness](/concepts/minimal-consciousness/) - Qualia in simple organisms
 - [affective-void](/voids/affective-void/) - Emotions and affects beyond human phenomenological reach
 

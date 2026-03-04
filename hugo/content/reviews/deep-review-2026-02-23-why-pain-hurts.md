@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Why Pain Hurts: Phenomenal Character and Causal Power](/topics/why-pain-hurts/)
+**Article**: [Why Pain Hurts: Phenomenal Character and Causal Power](/topics/pain-consciousness-and-causal-power/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -69,4 +69,4 @@ None. All medium issues were addressed. The article is well-structured, well-arg
 
 - The adversarial personas (especially eliminative materialist and MWI defender) will always find the article's dualist commitments unsatisfying. This is a bedrock philosophical disagreement, not a flaw to fix.
 - The Lewis-Nemirow ability hypothesis receives brief but substantive engagement. Future reviews should not re-flag this as "insufficient engagement" — the article's response (that pain's evaluative character specifically resists the ability framing) is targeted and adequate.
-- The article's focus is on pain as evidence for mental causation and irreducibility. It deliberately defers detailed analysis of suffering-without-pain to [suffering-versus-pain](/topics/suffering-versus-pain/) and theory-by-theory testing to [pain-asymbolia-as-central-test-case](/topics/pain-asymbolia-as-central-test-case/). This division of labour is intentional and should not be treated as a gap.
+- The article's focus is on pain as evidence for mental causation and irreducibility. It deliberately defers detailed analysis of suffering-without-pain to [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/) and theory-by-theory testing to [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/). This division of labour is intentional and should not be treated as a gap.

@@ -22,13 +22,13 @@ topics: []
 
 ## Status: Archived Article — Link Cleanup
 
-The article `consciousness-and-pain.md` was **archived on 2026-02-22** and coalesced into [Why Pain Hurts: Phenomenal Character and Causal Power](/topics/why-pain-hurts/). The archive metadata shows:
+The article `consciousness-and-pain.md` was **archived on 2026-02-22** and coalesced into [Why Pain Hurts: Phenomenal Character and Causal Power](/topics/pain-consciousness-and-causal-power/). The archive metadata shows:
 
 - `archived: true`
 - `superseded_by: "/topics/why-pain-hurts/"`
 - `archive_reason: "Coalesced into Why Pain Hurts: Phenomenal Character and Causal Power"`
 
-The "orphan" status flagged by the automation was caused by stale wikilinks — live content files were still linking to the old `[consciousness-and-pain](/topics/why-pain-hurts/)` path instead of the replacement `[why-pain-hurts](/topics/why-pain-hurts/)`.
+The "orphan" status flagged by the automation was caused by stale wikilinks — live content files were still linking to the old `[consciousness-and-pain](/topics/why-pain-hurts/)` path instead of the replacement `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)`.
 
 ## Stale Links Found and Fixed
 
@@ -39,7 +39,7 @@ The "orphan" status flagged by the automation was caused by stale wikilinks — 
 3. **topics/phenomenal-normativity-environmental-ethics.md** — Updated related_articles frontmatter, inline link in factory farming section, and Further Reading link (3 instances)
 4. **topics/placebo-effect-and-mental-causation.md** — Updated related_articles frontmatter and inline link
 5. **topics/suffering-versus-pain.md** — Updated topics frontmatter and Further Reading link
-6. **topics/pain-asymbolia-as-central-test-case.md** — Updated topics frontmatter; removed redundant Further Reading entry (already had `[why-pain-hurts](/topics/why-pain-hurts/)` listed)
+6. **topics/pain-asymbolia-as-central-test-case.md** — Updated topics frontmatter; removed redundant Further Reading entry (already had `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` listed)
 
 ### Additional Files Updated (2 files)
 

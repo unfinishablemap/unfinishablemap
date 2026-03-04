@@ -973,7 +973,7 @@ Pessimistic review found the convergence argument (seven arguments converging on
 
 ### ✓ 2026-02-23: Update references to coalesced pain articles
 - **Type**: cross-review
-- **Notes**: Coalesce created [why-pain-hurts](/topics/why-pain-hurts/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
+- **Notes**: Coalesce created [why-pain-hurts](/topics/pain-consciousness-and-causal-power/). The following active content files reference the archived [consciousness-and-pain](/topics/why-pain-hurts/) and/or [phenomenology-of-pain](/topics/why-pain-hurts/) and need wikilinks updated to point to the new article: pain-asymbolia (concept), valence, valence-void, phenomenal-normativity-environmental-ethics, suffering-versus-pain, placebo-effect-and-mental-causation, pain-asymbolia-as-central-test-case, phenomenal-depth, phenomenological-psychiatry-and-altered-experience, voids-valence-void research note.
 - **Output**: None -- Context: Update references to coalesced pain articles
 
 ### ✓ 2026-02-23: Update references to coalesced explanation articles

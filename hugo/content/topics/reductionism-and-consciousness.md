@@ -69,7 +69,7 @@ The more sophisticated [functional reduction](/concepts/reductionism/#functional
 
 This works for many mental phenomena. Belief, desire, memory, perception—all have functional profiles that physical systems can realise. Cognitive science routinely reduces these to information-processing descriptions without remainder.
 
-But phenomenal consciousness resists functionalisation. The functional role of pain—detecting damage, motivating avoidance—can be specified completely without mentioning *how pain feels*. A system could perform all pain-functions without hurting. [Pain asymbolia](/topics/pain-asymbolia-as-central-test-case/) demonstrates this empirically: patients with the condition detect tissue damage and describe pain's location and intensity, yet report no suffering. The functional role is filled; the phenomenal character is absent.
+But phenomenal consciousness resists functionalisation. The functional role of pain—detecting damage, motivating avoidance—can be specified completely without mentioning *how pain feels*. A system could perform all pain-functions without hurting. [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) demonstrates this empirically: patients with the condition detect tissue damage and describe pain's location and intensity, yet report no suffering. The functional role is filled; the phenomenal character is absent.
 
 This is the intuition behind the [zombie argument](/concepts/philosophical-zombies/): a being physically and functionally identical to a human but lacking experience is conceivable. If conceivable, phenomenal properties are not entailed by functional properties. If not entailed, they are not reducible. The most serious objection—[Type-B physicalism](/concepts/conceivability-possibility-inference/)—grants conceivability but denies the inference to possibility, arguing that consciousness might be identical to physical processes by *a posteriori* necessity (as water is necessarily H₂O despite the identity being discoverable only empirically). But the water analogy is disanalogous: we can explain *why* water is H₂O once we have molecular theory. No comparable explanation connects neural states to phenomenal qualities. The identity would be brute—posited rather than derived—which is precisely the problem reductionism was supposed to solve.
 
@@ -132,7 +132,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) confronts the parsi
 - [emergence](/concepts/emergence/) — Strong emergence as the framework for irreducible properties
 - [materialism](/concepts/materialism/) — The view reductionism about consciousness underwrites
 - [causal-closure](/concepts/causal-closure/) — The principle reductionists assume and the Map denies at quantum level
-- [pain-asymbolia-as-central-test-case](/topics/pain-asymbolia-as-central-test-case/) — Empirical evidence that function and phenomenal character come apart
+- [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/) — Empirical evidence that function and phenomenal character come apart
 
 ## References
 

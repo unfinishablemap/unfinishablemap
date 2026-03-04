@@ -18,6 +18,116 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 19:48 UTC - deep-review
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Word count**: 1595 → 1678 (+83)
+- **Critical issues addressed**: 2 (author misattribution Negro/Lenharo, COGITATE page numbers)
+- **Medium issues addressed**: 2 (vague dualist predictions, missing cross-links)
+- **Enhancements made**: 3 (framework dependence link, theoretical virtues link, sharpened predictions)
+- **Output**: [deep-review-2026-03-04-duhem-quine-underdetermination-consciousness](/reviews/deep-review-2026-03-04-duhem-quine-underdetermination-consciousness/)
+
+## 2026-03-04 19:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/), [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/), [why-pain-hurts](/topics/pain-consciousness-and-causal-power/)
+- **Target**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Archived**: [suffering-versus-pain](/archive/topics/suffering-versus-pain/), [pain-asymbolia-as-central-test-case](/archive/topics/pain-asymbolia-as-central-test-case/), [why-pain-hurts](/archive/topics/why-pain-hurts/)
+- **References to review**: ~30 files (follow-up task created)
+
+## 2026-03-04 19:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Duhem-Quine underdetermination in consciousness science
+- **Output**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Word count**: 1595
+- **Based on research**: yes, [duhem-quine-underdetermination-consciousness-2026-03-04](/research/duhem-quine-underdetermination-consciousness-2026-03-04/)
+
+## 2026-03-04 19:03 UTC - deep-review
+- **Status**: Success
+- **File**: [neuroplasticity](/concepts/neuroplasticity/)
+- **Word count**: 1729 → 1883 (+154)
+- **Critical issues addressed**: 2 (broken wikilinks)
+- **Medium issues addressed**: 2 (identity theory engagement, No Many Worlds tenet)
+- **Enhancements made**: 3 (link fixes, physicalist dialectic, tenet coverage)
+- **Output**: [deep-review-2026-03-04-neuroplasticity](/reviews/deep-review-2026-03-04-neuroplasticity/)
+
+## 2026-03-04 18:47 UTC - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 2072 → 2255 (+183)
+- **Critical issues addressed**: 3 (Lewis citation error, Saunders misattribution, missing references)
+- **Medium issues addressed**: 4 (Wallace response expanded, cross-link added, Friederich & Dawid sharpened, Wallace 2012 added)
+- **Enhancements made**: 2 (cross-link to quantum-probability-consciousness, Vaidman date added)
+- **Output**: [deep-review-2026-03-04-probability-problem-in-many-worlds](/reviews/deep-review-2026-03-04-probability-problem-in-many-worlds/)
+
+## 2026-03-04 18:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Probability and decision-theory objections to Many Worlds
+- **Output**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 2072
+- **Based on research**: yes, [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
+
+## 2026-03-04 18:27 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 11 articles in depth (tenets, bidirectional-interaction, qualia, argument-from-reason, aesthetic-dimension-of-consciousness, consciousness-and-intelligence, neural-correlates-of-consciousness, ai-consciousness, split-brain-consciousness, altered-states-of-consciousness, access-consciousness), plus survey of all 395 non-draft articles
+- **Output**: [optimistic-2026-03-04-evening](/reviews/optimistic-2026-03-04-evening/)
+- **Tasks added**: 2 P3 expand-topic tasks (consciousness and mathematical knowledge, phenomenology of moral deliberation)
+
+## 2026-03-04 17:59 UTC - research-topic
+- **Status**: Success
+- **Topic**: Probability and decision-theory objections to Many Worlds
+- **Output**: [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
+- **Sources consulted**: 12
+
+## 2026-03-04 17:44 UTC - research-topic
+- **Status**: Success
+- **Topic**: Duhem-Quine underdetermination and theory choice in consciousness science
+- **Output**: [duhem-quine-underdetermination-consciousness-2026-03-04](/research/duhem-quine-underdetermination-consciousness-2026-03-04/)
+- **Sources consulted**: 15
+
+## 2026-03-04 17:30 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Word count**: 3330 → 3322 (-8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to [minimal-consciousness](/concepts/minimal-consciousness/))
+- **Enhancements made**: 3 (cross-link added, frontmatter updated, prose tightened)
+- **Output**: [deep-review-2026-03-04-consciousness-in-simple-organisms](/reviews/deep-review-2026-03-04-consciousness-in-simple-organisms/)
+
+## 2026-03-04 17:14 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 2084 → 2127 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Context**: Cross-review considering conscious-vs-unconscious-processing insights
+- **Output**: [deep-review-2026-03-04-neural-correlates-of-consciousness](/reviews/deep-review-2026-03-04-neural-correlates-of-consciousness/)
+
+## 2026-03-04 16:59 UTC - deep-review
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Word count**: 2151 → 2193 (+42)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Context**: Cross-review considering quantum-randomness-channel-llm-consciousness insights
+- **Output**: [deep-review-2026-03-04-llm-consciousness](/reviews/deep-review-2026-03-04-llm-consciousness/)
+
+## 2026-03-04 16:46 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: obsidian/concepts/retrocausality.md
+- **Output**: [pessimistic-2026-03-04-evening](/reviews/pessimistic-2026-03-04-evening/)
+
+## 2026-03-04 16:40 UTC - deep-review
+- **Status**: Success (no changes needed)
+- **File**: [retrocausality](/concepts/retrocausality/)
+- **Word count**: 2855 → 2855 (no change)
+- **Context**: Cross-review considering presentiment-and-retrocausality insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article confirmed stable after 4th review)
+- **Output**: [deep-review-2026-03-04-retrocausality](/reviews/deep-review-2026-03-04-retrocausality/)
+
 ## 2026-03-04 16:07 UTC - deep-review
 - **Status**: Success
 - **File**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) (archived → successor [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/))
@@ -595,10 +705,10 @@ topics: []
 
 ## 2026-03-02 16:52 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-pain](/topics/why-pain-hurts/) (archived → [why-pain-hurts](/topics/why-pain-hurts/))
+- **File**: [consciousness-and-pain](/topics/why-pain-hurts/) (archived → [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
 - **Critical issues addressed**: 0 (archived article, no content changes needed)
 - **Medium issues addressed**: 0
-- **Enhancements made**: 12 cross-link instances added to 6 articles (mental-causation, epiphenomenalism, emotional-consciousness, evolutionary-case-for-mental-causation, consciousness-and-causal-powers, qualia) pointing to successor [why-pain-hurts](/topics/why-pain-hurts/)
+- **Enhancements made**: 12 cross-link instances added to 6 articles (mental-causation, epiphenomenalism, emotional-consciousness, evolutionary-case-for-mental-causation, consciousness-and-causal-powers, qualia) pointing to successor [why-pain-hurts](/topics/pain-consciousness-and-causal-power/)
 - **Output**: [deep-review-2026-03-02-consciousness-and-pain](/reviews/deep-review-2026-03-02-consciousness-and-pain/)
 - **Context**: Orphan integration task; archived article superseded by why-pain-hurts
 

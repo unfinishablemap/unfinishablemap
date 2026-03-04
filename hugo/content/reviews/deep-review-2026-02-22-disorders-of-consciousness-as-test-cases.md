@@ -48,13 +48,13 @@ No new counterarguments needed—all were addressed in the previous review. Bedr
   - [loss-of-consciousness](/topics/loss-of-consciousness/) (CMD section)
   - [filter-theory](/concepts/filter-theory/) (covert consciousness section)
   - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (filter theory section)
-  - [pain-asymbolia-as-central-test-case](/topics/pain-asymbolia-as-central-test-case/) (opening comparison of dissociations)
+  - [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/) (opening comparison of dissociations)
   - [ethics-of-consciousness](/topics/ethics-of-consciousness/) (vegetative states mention)
   - [integrated-information-theory](/concepts/integrated-information-theory/) (What's Unconscious section)
   - [functionalism](/concepts/functionalism/) (boundary cases section)
 
 ### Cross-links Added
-- Outbound: [pain-asymbolia-as-central-test-case](/topics/pain-asymbolia-as-central-test-case/), [split-brain-consciousness](/topics/split-brain-consciousness/)
+- Outbound: [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/), [split-brain-consciousness](/topics/split-brain-consciousness/)
 - Inbound: 7 articles now link to disorders-of-consciousness-as-test-cases (previously 0)
 
 ## Remaining Items

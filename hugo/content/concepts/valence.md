@@ -95,8 +95,8 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether valence participates directly in selection or operates through attention
-- [why-pain-hurts](/topics/why-pain-hurts/) — Extended treatment of pain and conscious experience
-- [suffering-versus-pain](/topics/suffering-versus-pain/) — Why suffering and pain are not the same phenomenon
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Extended treatment of pain and conscious experience
+- [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/) — Why suffering and pain are not the same phenomenon
 - [normative-phenomenology](/concepts/normative-phenomenology/) — How phenomenal properties ground normative claims
 
 ## References

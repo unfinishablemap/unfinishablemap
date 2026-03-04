@@ -1019,7 +1019,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 01:50 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Suffering Versus Pain
-- **Output**: [suffering-versus-pain](/topics/suffering-versus-pain/)
+- **Output**: [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/)
 - **Word count**: 1717
 - **Based on research**: no
 

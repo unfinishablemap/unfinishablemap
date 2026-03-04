@@ -54,7 +54,7 @@ topics: []
 ### Cross-links Added
 - [functionalism](/concepts/functionalism/)
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
-- [pain-asymbolia-as-central-test-case](/topics/pain-asymbolia-as-central-test-case/)
+- [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/)
 
 ## Remaining Items
 

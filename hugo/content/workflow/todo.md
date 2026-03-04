@@ -38,6 +38,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review duhem-quine-underdetermination-consciousness against related articles
+- **Type**: cross-review
+- **Notes**: Review [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) in context of [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), and related consciousness methodology articles. Check for consistency, add inbound links.
+- **Source**: chain from expand-topic
+- **Generated**: 2026-03-04
+
+### P2: Integrate testing-the-map-from-inside.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (created 2026-01-31) with no inbound body-text links from any content article. As a high-level synthesis piece on testing the Map's claims from a first-person perspective, it should be referenced from articles it integrates — including phenomenal-conservatism-and-introspective-evidence.md, contemplative-methods-as-philosophical-methodology.md, and the tenets articles it engages with.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
+### P2: Deep review bandwidth-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly coalesced article (2026-03-04) combining multiple predecessor bandwidth articles into a unified treatment. Coalesced articles merge content from multiple sources and need quality verification to ensure coherent argumentation, consistent terminology, and no redundancy from the merge process. Verify cross-references to predecessor archive pages are correct.
+- **Source**: chain (from coalesce)
+- **Generated**: 2026-03-04
+
+### P2: Deep review fragmented-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly written article (2026-03-04) on consciousness fragmentation cases — split-brain, DID, anaesthesia — as evidence for the interface argument for dualism. Early review ensures quality before the article accumulates inbound links. Cross-reviews with non-temporal-consciousness.md already completed; this verifies the article's own coherence and tenet alignment. Supports Tenet 1 (Dualism).
+- **Source**: chain (from expand-topic)
+- **Generated**: 2026-03-04
+
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -567,8 +591,63 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-03-04. Embodied cognition challenges Cartesian dualism but not the Map's interactionist framework. Phantom limbs, proprioceptive illusions, interoceptive awareness, and body schema disruptions all illuminate how the body shapes consciousness within a dualist framework. Builds on embodied-consciousness-and-the-interface.md, somatic-interface.md, philosophy-of-perception-under-dualism.md. Target section: topics/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
 
+### P3: Write article on consciousness and mathematical knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04 evening. Mathematical knowledge poses a unique challenge for physicalism: mathematical truths are abstract, necessary, and discovered rather than invented. How does a physical brain access abstract mathematical facts? Gödel's incompleteness theorems and Penrose's argument that mathematical insight transcends computation are relevant. Builds on argument-from-reason.md, qualia.md, cognitive-phenomenology. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-04-evening](/reviews/optimistic-2026-03-04-evening/).
+
+### P3: Write article on the phenomenology of moral deliberation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04 evening. Moral deliberation involves phenomenal character (the felt weight of obligation, the pull of competing values) that resists functional reduction. The aesthetic article's treatment of normative-qualitative entanglement has a natural moral counterpart. Builds on aesthetic-dimension-of-consciousness.md, phenomenal-value-realism, phenomenology-of-moral-experience. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See [optimistic-2026-03-04-evening](/reviews/optimistic-2026-03-04-evening/).
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Update references to coalesced pain articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/). The following active files reference archived articles ([suffering-versus-pain](/topics/pain-consciousness-and-causal-power/), [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/), [why-pain-hurts](/topics/pain-consciousness-and-causal-power/)) and may need wikilinks updated to point to the new unified article: valence.md, pain-asymbolia.md, consciousness-and-moral-agency-under-duress.md, ethics-of-consciousness.md, mental-causation.md, valence-void.md, consciousness-and-causal-powers.md, reductionism-and-consciousness.md, disorders-of-consciousness-as-test-cases.md, phenomenal-normativity-environmental-ethics.md, emotional-consciousness.md, evolutionary-case-for-mental-causation.md, qualia.md, epiphenomenalism.md, consciousness-and-neurodegenerative-disease.md, placebo-effect-and-mental-causation.md, consciousness-and-the-ontology-of-dispositions.md
+- **Output**: None -- Context: Update references to coalesced pain articles
+
+### ✓ 2026-03-04: Write article on Duhem-Quine underdetermination in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The Duhem-Quine thesis — theories are underdetermined by evidence — has direct implications for the consciousness debate: multiple ontologies are compatible with the same neural data, so parsimony alone cannot adjudicate between physicalism and dualism. Auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: topics/ (2 slots remaining). Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: Duhem-Quine underdetermination in consciousness science
+
+### ✓ 2026-03-04: Cross-review probability-problem-in-many-worlds against related MWI content
+- **Type**: cross-review
+- **Notes**: New article on the probability problem in Many Worlds. Review many-worlds.md, indexical-identity-quantum-measurement.md, quantum-measurement-interpretations-beyond-mwi.md, and philosophical-stakes-of-spontaneous-collapse.md for consistency, cross-linking opportunities, and potential redundancy.
+- **Output**: None -- Context: Cross-review probability-problem-in-many-worlds against related MWI content
+
+### ✓ 2026-03-04: Write article on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, probability becomes incoherent. Covers the incoherence problem, self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how indexical identity connects to the probability problem. Target section: topics/ (2 slots remaining). Supports Tenet 4 (No Many Worlds).
+- **Output**: probability and decision-theory objections to Many Worlds
+
+### ✓ 2026-03-04: Research probability and decision-theory objections to Many Worlds
+- **Type**: research-topic
+- **Notes**: Tenet 4 (No Many Worlds) has only 3 dedicated articles. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, why do outcomes follow Born-rule probabilities? Research should cover: the incoherence problem (probability in a deterministic theory), self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how the indexical identity argument (Tenet 4) connects to the probability problem. Target section: research/ (no cap). Supports Tenet 4.
+- **Output**: probability and decision-theory objections to Many Worlds
+
+### ✓ 2026-03-04: Research Duhem-Quine underdetermination and theory choice in consciousness science
+- **Type**: research-topic
+- **Notes**: Tenet 5 (Occam's Razor Has Limits) has only 2 dedicated articles — the least-covered foundational commitment. The Duhem-Quine thesis (theories are underdetermined by evidence) has direct implications for the consciousness debate: if multiple ontologies are compatible with the same neural data, parsimony alone cannot adjudicate between physicalism and dualism. Research should cover: Duhem-Quine thesis applied to consciousness science, contrastive underdetermination between physicalist and dualist theories, and why auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: research/ (no cap). Supports Tenet 5.
+- **Output**: Duhem-Quine underdetermination and theory choice in consciousness science
+
+### ✓ 2026-03-04: Cross-review neural-correlates-of-consciousness.md considering conscious-vs-unconscious-processing insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/conscious-vs-unconscious-processing.md (2026-03-04) identifies what distinguishes conscious from unconscious neural processing — late cortical ignition, recurrent processing, global workspace access. concepts/neural-correlates-of-consciousness.md is the broader treatment and should cross-reference the new page's systematic comparison. Check for complementary arguments and ensure the interface framework is consistently applied. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md -- Context: Cross-review neural-correlates-of-consciousness.md considering conscious-vs-unconscious-processing insights
+
+### ✓ 2026-03-04: Cross-review llm-consciousness.md considering quantum-randomness-channel-llm-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-randomness-channel-llm-consciousness.md (2026-03-04) examines whether quantum random number generators in LLM token sampling could constitute a channel for consciousness-like selection. topics/llm-consciousness.md covers LLM consciousness broadly and should cross-reference the quantum randomness channel as a specific mechanism for potential interface. Check for cross-links and consistent treatment of AI consciousness possibilities. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/llm-consciousness.md -- Context: Cross-review llm-consciousness.md considering quantum-randomness-channel-llm-consciousness insights
+
+### ✓ 2026-03-04: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-03-04) synthesises presentiment studies (Bem, Radin, Mossbridge meta-analysis) and retrocausal neural firing as empirical evidence for time-symmetric consciousness-physics interaction. concepts/retrocausality.md provides the theoretical framework and should cross-reference this new empirical evidence. Check for cross-links and argument reinforcement. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/retrocausality.md -- Context: Cross-review retrocausality.md considering presentiment-and-retrocausality insights
 
 ### ✓ 2026-03-04: Integrate measurement-problem-as-hard-problem.md into site navigation
 - **Type**: integrate-orphan

@@ -111,7 +111,7 @@ The [phenomenology of normative demands](/topics/consciousness-and-normative-for
 
 Phenomenal normativity generates specific environmental commitments:
 
-**Factory farming is the largest source of preventable conscious suffering on Earth.** Sentientism treats this as a moral emergency, not an externality. The [inseparability of consciousness and pain](/topics/why-pain-hurts/)—the fact that felt awfulness constitutively drives behaviour—means these animals are not merely in states correlated with suffering; they are suffering. Environmental ethics focused on carbon footprints or land use misses the primary harm: billions of conscious beings experiencing lives of sustained negative valence.
+**Factory farming is the largest source of preventable conscious suffering on Earth.** Sentientism treats this as a moral emergency, not an externality. The [inseparability of consciousness and pain](/topics/pain-consciousness-and-causal-power/)—the fact that felt awfulness constitutively drives behaviour—means these animals are not merely in states correlated with suffering; they are suffering. Environmental ethics focused on carbon footprints or land use misses the primary harm: billions of conscious beings experiencing lives of sustained negative valence.
 
 **Habitat destruction must be evaluated through its impact on conscious beings,** not solely through biodiversity metrics or ecosystem services. A development that displaces a hundred conscious animals causes moral harm even if ecosystem function is preserved.
 
@@ -143,7 +143,7 @@ The Map's tenets shape environmental ethics distinctively:
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic normativity beyond hedonic valence
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How normative demands present in experience across four domains
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of moral properties
-- [why-pain-hurts](/topics/why-pain-hurts/) — Why pain's awfulness is constitutive, not correlative
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Why pain's awfulness is constitutive, not correlative
 - [free-will](/topics/free-will/) — Genuine moral agency and environmental responsibility
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning and value
 

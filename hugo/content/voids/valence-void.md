@@ -53,7 +53,7 @@ Neuroscience has mapped the circuits of pleasure and pain with remarkable precis
 
 None of this explains why these circuits *feel* a certain way. A complete wiring diagram of nociception — from peripheral transduction through spinal signalling to cortical processing — specifies everything pain does without saying anything about why it hurts. The [zombie argument](/concepts/philosophical-zombies/) applies with particular force here: a being functionally identical to us in its pain-processing could conceivably lack the felt badness entirely.
 
-[Pain asymbolia](/topics/pain-asymbolia-as-central-test-case/) demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage with normal urgency. They are not — asymbolics fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional architecture and the felt quality are dissociable.
+[Pain asymbolia](/topics/pain-consciousness-and-causal-power/) demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage with normal urgency. They are not — asymbolics fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional architecture and the felt quality are dissociable.
 
 ### Introspection Bottoms Out
 
@@ -111,7 +111,7 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [valence](/concepts/valence/) — The concept of hedonic valence and competing philosophical accounts
-- [why-pain-hurts](/topics/why-pain-hurts/) — Pain's phenomenal character and causal power — the valence void's paradigm case
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain's phenomenal character and causal power — the valence void's paradigm case
 - [emotional-consciousness](/topics/emotional-consciousness/) — The broader landscape of emotional consciousness and the valence debate
 - [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — How valence irreducibility provides distinctive evidence for dualism
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach — the range problem, not the structure problem

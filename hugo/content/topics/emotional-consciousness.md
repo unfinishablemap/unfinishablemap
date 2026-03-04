@@ -83,7 +83,7 @@ The Unfinishable Map's framework accommodates both insights. Core affect—the b
 
 If valence is an intrinsic phenomenal property, does it do anything? [Epiphenomenalists](/concepts/epiphenomenalism/) might argue that the felt badness merely accompanies the functional states that actually motivate behavior—pain processing causes avoidance, while the badness tags along causally inert.
 
-This position fails empirically. Pain asymbolics prove that functional pain processing without felt badness does *not* motivate avoidance. The representation ("my hand is damaged") exists, but without the felt badness, patients don't care enough to act. The phenomenal property—the felt badness—is what makes pain motivating. Valence doesn't merely accompany motivation; it grounds it. [Why Pain Hurts](/topics/why-pain-hurts/) develops the full case that phenomenal character and causal power are inseparable in pain.
+This position fails empirically. Pain asymbolics prove that functional pain processing without felt badness does *not* motivate avoidance. The representation ("my hand is damaged") exists, but without the felt badness, patients don't care enough to act. The phenomenal property—the felt badness—is what makes pain motivating. Valence doesn't merely accompany motivation; it grounds it. [Why Pain Hurts](/topics/pain-consciousness-and-causal-power/) develops the full case that phenomenal character and causal power are inseparable in pain.
 
 Michael Tye and Brian Cutter argue that "phenomenal experience has functional value"—conscious agents are motivated to act precisely *because* they experience things and care about those experiences. We don't avoid pain because neurons fire in pattern X; we avoid it because it *feels bad*, and the badness itself has causal efficacy.
 
@@ -194,7 +194,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [intentionality](/concepts/intentionality/) — How mental states can be about things
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that consciousness requires higher-order representation
 - [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
-- [why-pain-hurts](/topics/why-pain-hurts/) — The inseparability of pain's phenomenal character and causal power
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — The inseparability of pain's phenomenal character and causal power
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, doubt, insight
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy

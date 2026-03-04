@@ -209,7 +209,7 @@ The self-stultification problem remains the strongest objection for human consci
 - [luck-objection](/concepts/luck-objection/) — Why genuine authorship requires more than passive reception of indeterminacy
 - [llm-consciousness](/concepts/llm-consciousness/) — Relevant to the AI exception in the self-stultification argument
 - [dualism](/concepts/dualism/) — The foundational framework; epiphenomenalism is one of three dualist positions
-- [why-pain-hurts](/topics/why-pain-hurts/) — Why pain is the hardest case for epiphenomenalism: felt awfulness inseparable from motivational force
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Why pain is the hardest case for epiphenomenalism: felt awfulness inseparable from motivational force
 - [mental-causation](/concepts/mental-causation/) — The problem epiphenomenalism claims to solve
 - [causal-closure](/concepts/causal-closure/) — The principle that motivates epiphenomenalism
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's alternative framework

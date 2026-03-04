@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Why Pain Hurts: Phenomenal Character and Causal Power](/topics/why-pain-hurts/)
+**Article**: [Why Pain Hurts: Phenomenal Character and Causal Power](/topics/pain-consciousness-and-causal-power/)
 **Previous review**: [2026-02-23](/reviews/deep-review-2026-02-23-why-pain-hurts/)
 
 ## Pessimistic Analysis Summary
@@ -62,6 +62,6 @@ None. The critical misattribution has been corrected and medium issues addressed
 - All stability notes from the previous review (2026-02-23) remain valid:
   - Adversarial personas will always find dualist commitments unsatisfying — bedrock disagreement, not a flaw
   - Lewis-Nemirow ability hypothesis receives brief but substantive engagement — not insufficient
-  - Division of labour with [suffering-versus-pain](/topics/suffering-versus-pain/) and [pain-asymbolia-as-central-test-case](/topics/pain-asymbolia-as-central-test-case/) is intentional
+  - Division of labour with [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/) and [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/) is intentional
 - The Cleeremans & Tallon-Baudry reference is now correctly attributed but kept in References only (not re-cited in text) since the evolutionary argument section is self-sufficient. Future reviews should NOT re-insert an in-text citation unless a specific claim requires it.
 - This article has now been reviewed twice in one day. It should be considered stable. Future reviews should only flag issues if the content is substantively modified.

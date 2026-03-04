@@ -65,8 +65,8 @@ No new counterarguments required addressing.
 ### Enhancements Made
 
 - Added cross-reference to [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) in the psychophysical laws discussion
-- Added cross-reference to [why-pain-hurts](/topics/why-pain-hurts/) in the pain-asymbolia discussion
-- Added [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/), and [why-pain-hurts](/topics/why-pain-hurts/) to Further Reading
+- Added cross-reference to [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) in the pain-asymbolia discussion
+- Added [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/), and [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) to Further Reading
 - Added [knowledge-argument](/concepts/knowledge-argument/) to frontmatter concepts
 - Expanded related_articles with 3 new entries
 
@@ -78,7 +78,7 @@ No new counterarguments required addressing.
 2. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Added inline reference in For Metaphysics section and to Further Reading
 3. [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) — Added inline reference in Dispositional Essentialism section and to Further Reading
 4. [russellian-monism](/concepts/russellian-monism/) — Added inline reference in Clearer Ontology paragraph and to Further Reading
-5. [why-pain-hurts](/topics/why-pain-hurts/) — Added inline reference in Inseparability of Character and Causal Power section
+5. [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Added inline reference in Inseparability of Character and Causal Power section
 6. [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Added inline reference in Property Dualism Without Interaction section
 7. [mental-causation](/concepts/mental-causation/) — Added to Further Reading
 8. [explanatory-gap](/concepts/explanatory-gap/) — Added to Further Reading

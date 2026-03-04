@@ -137,7 +137,7 @@ The Map's commitment to [indexical identity](/topics/personal-identity/)—that 
 
 ## Suffering: The Moral Core
 
-Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [Suffering is distinct from mere pain](/topics/suffering-versus-pain/)—it requires a subject who experiences negative [valence](/concepts/valence/), not just nociception. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [why-pain-hurts](/topics/why-pain-hurts/) traces why the felt badness of pain does genuine causal work.
+Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [Suffering is distinct from mere pain](/topics/pain-consciousness-and-causal-power/)—it requires a subject who experiences negative [valence](/concepts/valence/), not just nociception. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) traces why the felt badness of pain does genuine causal work.
 
 | Position | What Grounds Moral Status | Implication |
 |----------|---------------------------|-------------|
@@ -210,8 +210,8 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of emotion and its ethical implications
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism about phenomenal consciousness
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Why pain's badness is built into its phenomenal character
-- [suffering-versus-pain](/topics/suffering-versus-pain/) — The distinction between nociception and genuine suffering
-- [why-pain-hurts](/topics/why-pain-hurts/) — The causal work of felt badness in pain experience
+- [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/) — The distinction between nociception and genuine suffering
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — The causal work of felt badness in pain experience
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Moral responsibility when agency is constrained
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge—ethical truths beyond human reach
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: obligation, character formation, and what genuine agency demands
