@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 11:52 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [[concepts/contemplative-reliability]]
+- **Notes**: Article was archived on 2026-02-26, coalesced into [[concepts/contemplative-epistemology]]. Orphan status is expected for archived content. No review needed.
+
 ## 2026-03-04 11:37 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-as-amplifier]]

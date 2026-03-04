@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate contemplative-reliability.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero live inbound links — only referenced from an archived page (archive/concepts/contemplative-epistemology.md). Concept page covering the reliability of contemplative practices as epistemological tools. Add cross-references from the live contemplative-epistemology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md, and phenomenal-conservatism-and-introspective-evidence.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P2: Cross-review mental-causation.md considering causal-delegation insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/causal-delegation.md (2026-03-04) introduces causal delegation as a specific mechanism for mental causation. concepts/mental-causation.md is the Map's central treatment of how mind causes physical effects and should cross-reference the new page's treatment of delegation as a form of downward causation. Check for complementary arguments and add cross-links. Supports Tenet 3 (Bidirectional Interaction).
@@ -553,6 +547,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate contemplative-reliability.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero live inbound links — only referenced from an archived page (archive/concepts/contemplative-epistemology.md). Concept page covering the reliability of contemplative practices as epistemological tools. Add cross-references from the live contemplative-epistemology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md, and phenomenal-conservatism-and-introspective-evidence.md.
+- **Output**: contemplative-reliability.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Cross-review consciousness-as-amplifier.md considering delegatory-dualism insights
 - **Type**: cross-review
