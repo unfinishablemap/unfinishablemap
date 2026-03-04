@@ -545,6 +545,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-04
 
+### P3: Write article on cetacean and corvid consciousness as amplification test cases
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04. The baseline cognition and consciousness-as-amplifier hypotheses focus on primate lineages. Cetaceans (dolphins, whales) and corvids (crows, ravens) show convergent evolution of sophisticated cognition—some corvids demonstrate metarepresentation. If consciousness amplifies cognition, these independent lineages provide additional test cases. Builds on baseline-cognition.md, consciousness-as-amplifier.md, animal-consciousness.md, consciousness-threshold-in-cognitive-evolution.md. Target section: topics/. See [[reviews/optimistic-2026-03-04-afternoon]].
+
+### P3: Write concept page on observational closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04. The universal/observational closure distinction (Saad 2025) is arguably the Map's single most important argumentative move—it dissolves the causal closure objection against interactionism. Currently referenced across causal-closure.md, mental-causation.md, interactionist-dualism.md, and causal-delegation.md but has no dedicated concept page. A standalone treatment would serve as a reference anchor and clarify the distinction for readers encountering it in different articles. Target section: concepts/. See [[reviews/optimistic-2026-03-04-afternoon]].
+
+### P3: Write article on phenomenology of embodiment under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04. Embodied cognition challenges Cartesian dualism but not the Map's interactionist framework. Phantom limbs, proprioceptive illusions, interoceptive awareness, and body schema disruptions all illuminate how the body shapes consciousness within a dualist framework. Builds on embodied-consciousness-and-the-interface.md, somatic-interface.md, philosophy-of-perception-under-dualism.md. Target section: topics/. See [[reviews/optimistic-2026-03-04-afternoon]].
+
 ## Completed Tasks
 
 
