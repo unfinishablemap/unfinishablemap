@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Six philosophical approaches
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-01T14:51:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
   - "[[animal-consciousness]]"
 concepts:
   - "[[theory-of-mind]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[qualia]]"
   - "[[concepts/functionalism]]"
   - "[[mysterianism]]"
@@ -94,7 +94,7 @@ The argument has force: it doesn't rely on behavioral similarity (inferring from
 
 Theory of mind admits levels. Level 1: tracking what others perceive. Level 2: attributing beliefs that may differ from reality. Level 3+: recursive mindreading—representing others' mental states about mental states.
 
-The critical observation: Level 3 theory of mind requires [[metarepresentation]]—representing mental states *as* mental states. And metarepresentation appears to require phenomenal consciousness. To represent your belief about my intention requires unified awareness binding all three levels.
+The critical observation: Level 3 theory of mind requires [[metacognition|metarepresentation]]—representing mental states *as* mental states. And metarepresentation appears to require phenomenal consciousness. To represent your belief about my intention requires unified awareness binding all three levels.
 
 If Level 3 mindreading requires consciousness, and humans routinely engage in it, then the very capacity for recursive attribution provides evidence for other minds. When someone accurately predicts what I will think about what they think, they demonstrate the metarepresentational capacity that requires consciousness.
 
@@ -166,7 +166,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[objectivity-and-consciousness]] — Why the "view from nowhere" fails for consciousness
 - [[theory-of-mind]] — Mental state attribution as evidence for other minds
 - [[concept-of-consciousness-and-social-cognition]] — How consciousness enables the social cognition that grounds other-minds inference
-- [[metarepresentation]] — Why representing minds as minds requires consciousness
+- [[metacognition|metarepresentation]] — Why representing minds as minds requires consciousness
 - [[illusionism]] — The view that phenomenal consciousness is illusory
 - [[hard-problem-of-consciousness]] — The metaphysical problem this epistemological problem presupposes
 - [[language-and-consciousness]] — How the private language argument, reference, and meaning bear on consciousness

@@ -4,7 +4,7 @@ description: "Cognitive evolution appears to cross a threshold where consciousne
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-25T12:08:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[emergence]]"
   - "[[working-memory]]"
   - "[[metacognition]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[phenomenal-consciousness]]"
   - "[[animal-consciousness]]"
 related_articles:
@@ -48,7 +48,7 @@ If consciousness contributed nothing to cognition—if it were [[concepts/epiphe
 
 Great apes demonstrate what the [[baseline-cognition]] hypothesis calls consciousness-independent cognition: impressive within domains, but bounded in characteristic ways. Chimpanzees use tools, navigate complex social hierarchies, and exhibit procedural metacognition—they monitor uncertainty and seek information when uncertain. These capacities run on domain-specific neural systems that operate without requiring conscious access to their own processes.
 
-The capacities that appear only in humans track a different pattern. Logical reasoning—explicit rule-following of the "if P then Q" form—specifically requires conscious processing. Lieberman et al. (2008) demonstrated that cognitive load disrupting conscious attention impairs rule-based categorisation, while disrupting unconscious processes does not—evidence that explicit rule-following depends on conscious access. Cumulative culture requires [[metarepresentation]]: treating knowledge *as knowledge* that can be deliberately improved and transmitted. Counterfactual thinking demands holding non-actual scenarios in [[working-memory|working memory]] for conscious evaluation.
+The capacities that appear only in humans track a different pattern. Logical reasoning—explicit rule-following of the "if P then Q" form—specifically requires conscious processing. Lieberman et al. (2008) demonstrated that cognitive load disrupting conscious attention impairs rule-based categorisation, while disrupting unconscious processes does not—evidence that explicit rule-following depends on conscious access. Cumulative culture requires [[metacognition|metarepresentation]]: treating knowledge *as knowledge* that can be deliberately improved and transmitted. Counterfactual thinking demands holding non-actual scenarios in [[working-memory|working memory]] for conscious evaluation.
 
 These are not simply "harder" versions of ape cognition. They are qualitatively different operations that depend on consciousness being deployed in a particular way—as an active workspace for manipulation rather than a passive accompaniment to processing.
 
@@ -66,7 +66,7 @@ Several cognitive capacities appear only above the threshold, each pointing to c
 
 **Counterfactual thinking**: Imagining how things might have been otherwise requires constructing representations of non-actual states and evaluating them against actual outcomes. This simulation process demands conscious workspace. Suddendorf and Corballis (2007) argue that mental time travel—projecting oneself into past or future scenarios—is uniquely human and requires the conscious generation of experience-like representations.
 
-**Cumulative culture**: Great apes have culture—tool-use traditions and behavioural variants that spread socially. But as Whiten (2015) documents, ape cultural transmission lacks the ratchet effect characteristic of human cumulative culture: the progressive refinement of knowledge across generations, where each generation builds on the last. While some researchers identify limited cumulative tendencies in non-human primates, the scale and systematicity of human cultural accumulation remains unmatched. Cumulative culture at the human scale requires recognising one's own knowledge as improvable and transmittable—a [[metarepresentation|metarepresentational]] capacity that may be inseparable from conscious self-reflection.
+**Cumulative culture**: Great apes have culture—tool-use traditions and behavioural variants that spread socially. But as Whiten (2015) documents, ape cultural transmission lacks the ratchet effect characteristic of human cumulative culture: the progressive refinement of knowledge across generations, where each generation builds on the last. While some researchers identify limited cumulative tendencies in non-human primates, the scale and systematicity of human cultural accumulation remains unmatched. Cumulative culture at the human scale requires recognising one's own knowledge as improvable and transmittable—a [[metacognition|metarepresentational]] capacity that may be inseparable from conscious self-reflection.
 
 **Explicit [[metacognition]]**: Apes exhibit procedural metacognition—feelings of uncertainty that guide information-seeking. Humans additionally possess declarative metacognition: the ability to represent mental states *as* mental states, to know that we know, to reflect on the structure of our own thinking. This transition from implicit monitoring to explicit self-knowledge marks another facet of the threshold.
 

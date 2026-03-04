@@ -4,7 +4,7 @@ description: "Does building institutions, making promises, and sharing goals req
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-19T18:06:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[phenomenal-intentionality]]"
   - "[[intersubjectivity]]"
   - "[[theory-of-mind]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
   - "[[intersubjective-void]]"

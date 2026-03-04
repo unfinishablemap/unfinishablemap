@@ -4,7 +4,7 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-28T05:46:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 last_deep_review: 2026-02-04T21:17:00+00:00
 topics:
@@ -12,7 +12,7 @@ topics:
   - "[[ai-consciousness]]"
 concepts:
   - "[[jourdain-hypothesis]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[metacognition]]"
   - "[[cumulative-culture]]"
   - "[[baseline-cognition]]"
@@ -30,7 +30,7 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-To teach is to represent your knowledge as knowledge another lacks, represent that lack as a gap to be filled, and adjust your behaviour to bridge it. This triadic structure—knowledge, absence of knowledge, and the relation between them—makes teaching a paradigm case of [[metarepresentation|metarepresentation]]. Great apes rarely teach despite decades of opportunity; humans teach constantly, across all cultures, beginning in early childhood. The Unfinishable Map proposes that this asymmetry reveals something fundamental about consciousness: teaching requires the phenomenal standing-back that metarepresentation demands, and metarepresentation may require phenomenal consciousness.
+To teach is to represent your knowledge as knowledge another lacks, represent that lack as a gap to be filled, and adjust your behaviour to bridge it. This triadic structure—knowledge, absence of knowledge, and the relation between them—makes teaching a paradigm case of [[metacognition|metarepresentation]]. Great apes rarely teach despite decades of opportunity; humans teach constantly, across all cultures, beginning in early childhood. The Unfinishable Map proposes that this asymmetry reveals something fundamental about consciousness: teaching requires the phenomenal standing-back that metarepresentation demands, and metarepresentation may require phenomenal consciousness.
 
 The teaching asymmetry provides concrete evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. If teaching requires consciousness-enabled metarepresentation, and if metarepresentation cannot be achieved through functional processing alone, then consciousness causally enables a capacity humans possess and apes lack. Teaching is not merely correlated with consciousness; it depends on it.
 
@@ -148,7 +148,7 @@ Human teaching capacities emerge developmentally alongside metarepresentational 
 
 **Ages 5-7**: Teaching becomes elaborate. Children explain, scaffold, check comprehension, adjust to learner level. These behaviours require representing the learner's developing understanding and modifying pedagogical strategy accordingly.
 
-This developmental trajectory parallels the emergence of [[metarepresentation|metarepresentation]]. Teaching sophistication tracks metarepresentational capacity, consistent with the claim that teaching requires the metarepresentational operations consciousness enables.
+This developmental trajectory parallels the emergence of [[metacognition|metarepresentation]]. Teaching sophistication tracks metarepresentational capacity, consistent with the claim that teaching requires the metarepresentational operations consciousness enables.
 
 ## AI and Teaching
 
@@ -214,7 +214,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 ## Further Reading
 
 - [[jourdain-hypothesis]] — Having knowledge without knowing you have it
-- [[metarepresentation]] — Representing your representations as representations
+- [[metacognition|metarepresentation]] — Representing your representations as representations
 - [[cumulative-culture]] — Why cultural ratcheting requires teaching
 - [[metacognition]] — The enabling relation between consciousness and self-monitoring
 - [[baseline-cognition]] — What cognition achieves without metarepresentation

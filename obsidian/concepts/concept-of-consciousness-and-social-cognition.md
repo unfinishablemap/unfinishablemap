@@ -4,7 +4,7 @@ description: "Does recursive mindreading require phenomenal consciousness or jus
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-28T05:46:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[jourdain-hypothesis]]"
   - "[[minimal-consciousness]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[metacognition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[teaching-as-metarepresentation]]"
@@ -144,7 +144,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - [[theory-of-mind]] — The levels of mental state attribution and the metarepresentational threshold
 - [[baseline-cognition]] — The cognitive floor from which consciousness amplifies social abilities
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them: the procedural/declarative distinction
-- [[metarepresentation]] — Why representing minds *as* minds requires consciousness
+- [[metacognition|metarepresentation]] — Why representing minds *as* minds requires consciousness
 - [[consciousness-as-amplifier]] — How consciousness transforms baseline social cognition into human-level capacities
 - [[teaching-as-metarepresentation]] — Social transmission as paradigm case of consciousness-dependent cognition
 - [[working-memory]] — The workspace enabling recursive mental operations

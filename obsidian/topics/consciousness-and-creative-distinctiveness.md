@@ -4,7 +4,7 @@ description: "Human creativity differs in kind from animal innovation and AI gen
 created: 2026-02-01
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T06:57:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 last_deep_review: 2026-02-25T06:57:00+00:00
 topics:
@@ -20,7 +20,7 @@ concepts:
   - "[[conscious-vs-unconscious-processing]]"
   - "[[working-memory]]"
   - "[[global-workspace-theory]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[cumulative-culture]]"
   - "[[counterfactual-reasoning]]"
   - "[[temporal-consciousness]]"
@@ -55,7 +55,7 @@ Human creativity differs from animal innovation and AI generation not in sophist
 
 The zone of latent solutions names the boundary of [[baseline-cognition|baseline cognitive]] innovation. Within it, novel behaviours emerge through recombination of existing skills, trial-and-error discovery, and social observation—all without insight into *why* solutions work. A chimpanzee who discovers that a thin stick fishes termites more effectively than a thick one has innovated, but the innovation is unreflective—it happens *to* the ape rather than being *done by* the ape through deliberate authorship.
 
-The zone has a ceiling. Ape innovations do not ratchet upward because [[cumulative-culture|cumulative improvement]] requires representing the current method *as* a method, seeing its limitations, and designing improvements. This [[metarepresentation|metarepresentational]] step exits the zone—it requires consciousness.
+The zone has a ceiling. Ape innovations do not ratchet upward because [[cumulative-culture|cumulative improvement]] requires representing the current method *as* a method, seeing its limitations, and designing improvements. This [[metacognition|metarepresentational]] step exits the zone—it requires consciousness.
 
 ## Three Kinds of Creative Output
 
@@ -105,7 +105,7 @@ These mechanisms integrate into an iterative loop: conscious problem formulation
 
 Margaret Boden's typology distinguishes combinational creativity (novel combinations), exploratory creativity (traversing possibility spaces), and transformational creativity (changing the rules themselves). Transformational creativity necessarily exits the zone of latent solutions—you cannot select a rule-change from the old rule-system.
 
-Transformational creativity requires [[metarepresentation]]—representing your own methods as objects of thought subject to evaluation and revision. Consider what critiquing your own approach requires: hold the current approach in mind (durable maintenance), treat it as one option among alternatives (novel combination), and evaluate it against imagined alternatives (spontaneous intentional action). Each step requires conscious access; metarepresentation chains all three.
+Transformational creativity requires [[metacognition|metarepresentation]]—representing your own methods as objects of thought subject to evaluation and revision. Consider what critiquing your own approach requires: hold the current approach in mind (durable maintenance), treat it as one option among alternatives (novel combination), and evaluate it against imagined alternatives (spontaneous intentional action). Each step requires conscious access; metarepresentation chains all three.
 
 Great apes show no transformational creativity. AI systems work within training distributions; they do not identify conventions as conventions and deliberately subvert them. The [[cumulative-culture|cumulative culture]] evidence reinforces the point: humans accumulate cultural improvements over generations because each innovation can be taken as an object of thought, evaluated, and modified—the metarepresentational chain that requires consciousness.
 
@@ -150,7 +150,7 @@ Current evidence does not support any of these conditions.
 - [[concepts/consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
 - [[baseline-cognition]] — What cognition achieves without consciousness
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
-- [[metarepresentation]] — The capacity to represent representations
+- [[metacognition|metarepresentation]] — The capacity to represent representations
 - [[cumulative-culture]] — Cultural ratcheting and why it requires metarepresentation
 - [[counterfactual-reasoning]] — Imagining non-actual states
 - [[working-memory]] — The workspace where combination occurs

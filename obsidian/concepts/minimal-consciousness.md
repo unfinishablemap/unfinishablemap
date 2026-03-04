@@ -4,7 +4,7 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-02-25T19:12:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 last_deep_review: 2026-02-25T19:12:00+00:00
 draft: false
 topics:
@@ -17,7 +17,7 @@ concepts:
   - "[[panpsychism]]"
   - "[[evolution-of-consciousness]]"
   - "[[witness-consciousness]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[explanatory-gap]]"
   - "[[combination-problem]]"
   - "[[integrated-information-theory]]"
@@ -84,7 +84,7 @@ Where does minimal consciousness begin? This is the [[consciousness-in-simple-or
 
 ## Metarepresentation and Minimal Consciousness
 
-A key distinction: [[metarepresentation]] (representing one's representations as representations) likely requires more than minimal consciousness. But minimal consciousness may suffice for:
+A key distinction: [[metacognition|metarepresentation]] (representing one's representations as representations) likely requires more than minimal consciousness. But minimal consciousness may suffice for:
 
 - **First-order representation**: Experiencing the world directly
 - **Second-order states**: Adjusting responses based on one's own states (habituation, sensitisation)
@@ -143,7 +143,7 @@ The concept matters for several reasons:
 - [[combination-problem]] — How micro-experiences might combine
 - [[integrated-information-theory]] — A theory that implies widespread minimal consciousness
 - [[witness-consciousness]] — Contemplative access to awareness without content
-- [[metarepresentation]] — The capacity minimal consciousness may lack
+- [[metacognition|metarepresentation]] — The capacity minimal consciousness may lack
 - [[explanatory-gap]] — Why we cannot determine consciousness presence from structure
 - [[minimal-consciousness-void]] — Why consciousness cannot investigate its own lower bound
 - [[introspective-opacity]] — Why we access mental contents but never the mechanisms producing them

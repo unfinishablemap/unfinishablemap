@@ -4,7 +4,7 @@ description: "The act of making art requires phenomenal consciousness in ways th
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-17T16:12:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 last_deep_review: 2026-02-17T16:12:00+00:00
 draft: false
 topics:
@@ -18,7 +18,7 @@ concepts:
   - "[[mental-imagery]]"
   - "[[agent-causation]]"
   - "[[temporal-consciousness]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[philosophical-zombies]]"
   - "[[bidirectional-interaction]]"
   - "[[temporal-consciousness]]"

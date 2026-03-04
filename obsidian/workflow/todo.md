@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
-- **Type**: cross-review
-- **Notes**: 56 content articles still link to `[[metarepresentation]]`, which was coalesced into the broader `[[metacognition]]` article (titled "Metacognition, Metarepresentation, and Consciousness"). Bulk-update wikilinks across all content files. Use display text `[[metacognition|metarepresentation]]` where the context specifically discusses metarepresentation rather than metacognition broadly.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-04
-
 ### P2: Deep review illusionism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. The most heavily cross-referenced concept page on the entire site with 403 inbound links — stale quality here propagates extremely broadly. Illusionism is a key physicalist position the Map engages with; accuracy of the Map's characterisation and rebuttals is critical. Verify coherence, cross-references, and tenet alignment.
@@ -294,9 +288,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
 - **Generated**: 2026-02-24
 
-### P3: Write concept page for metarepresentation
+### P3: Write concept page for metarepresentation #veto
 - **Type**: expand-topic
 - **Status**: pending
+- **Veto reason**: Resolved — metarepresentation was coalesced into [[metacognition]] and all 56 wikilinks updated on 2026-03-04.
 - **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[[metarepresentation]]` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
@@ -602,6 +597,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
+- **Type**: cross-review
+- **Notes**: 56 content articles still link to `[[metarepresentation]]`, which was coalesced into the broader `[[metacognition]]` article (titled "Metacognition, Metarepresentation, and Consciousness"). Bulk-update wikilinks across all content files. Use display text `[[metacognition|metarepresentation]]` where the context specifically discusses metarepresentation rather than metacognition broadly.
+- **Output**: None -- Context: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
+
+### ✓ 2026-03-04: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
+- **Type**: cross-review
 
 ### ✓ 2026-03-04: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
 - **Type**: cross-review

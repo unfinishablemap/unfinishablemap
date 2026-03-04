@@ -4,7 +4,7 @@ description: "Consciousness as global information broadcast. GWT explains when s
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-04T08:16:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 last_deep_review: 2026-03-04T08:16:00+00:00
 topics:
@@ -26,7 +26,7 @@ concepts:
   - "[[dreams-and-consciousness]]"
   - "[[metacognition]]"
   - "[[consciousness-as-amplifier]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"
@@ -156,7 +156,7 @@ The systematic pattern in the human-great ape gap supports this reading. Great a
 
 ### Broadcast as Enabling Metarepresentation
 
-The Jourdain Hypothesis (Whiten 2015) captures a crucial distinction: great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. They express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture, which distinguishes human cognitive achievement, requires [[metarepresentation|metarepresentation]]: treating knowledge as knowledge that can be improved and taught.
+The Jourdain Hypothesis (Whiten 2015) captures a crucial distinction: great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. They express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture, which distinguishes human cognitive achievement, requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught.
 
 Global broadcast may be what enables this metarepresentational capacity. When information achieves workspace ignition, it becomes available not just to action systems but to *reasoning* systems—including systems that take representations as their objects. The workspace doesn't just broadcast content; it broadcasts content in a format that other cognitive processes can treat as content, enabling the "thinking about thinking" that metarepresentation requires.
 
@@ -262,7 +262,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[dreams-and-consciousness]] — Dreaming without full workspace engagement
 - [[metacognition]] — Self-reflective processes and workspace engagement
 - [[consciousness-as-amplifier]] — The amplification hypothesis connecting workspace access to cognitive enhancement
-- [[metarepresentation]] — How workspace broadcast may enable representing representations as representations
+- [[metacognition|metarepresentation]] — How workspace broadcast may enable representing representations as representations
 - [[global-workspace-theory-2026-01-14]] — Detailed research notes
 
 ## References

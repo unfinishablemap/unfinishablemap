@@ -4,7 +4,7 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-28T05:46:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[consciousness-as-amplifier]]"
   - "[[phenomenology-of-choice]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[illusionism]]"
   - "[[philosophical-zombies]]"
   - "[[metacognition]]"
@@ -84,7 +84,7 @@ What makes manipulation specifically consciousness-requiring?
 
 Manipulation involves operating on representations as representations—taking working memory contents as objects of thought rather than merely having them present. When you compare two items, you must simultaneously hold both while attending to their relationship. When you transform an item (rotating a mental image, negating a proposition), you must track both the original and the transformation. When you combine items into novel structures, you must represent the combination as distinct from its parts.
 
-These operations have the structure of [[metarepresentation]]—representing representations. The research consensus is that metarepresentation requires conscious access. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [[phenomenology-of-choice|phenomenology of deliberate manipulation]]—holding alternatives, comparing them, settling on one—reflects this structure.
+These operations have the structure of [[metacognition|metarepresentation]]—representing representations. The research consensus is that metarepresentation requires conscious access. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [[phenomenology-of-choice|phenomenology of deliberate manipulation]]—holding alternatives, comparing them, settling on one—reflects this structure.
 
 [[Mental-effort|Mental effort]] tracks this distinction precisely. Passive maintenance feels effortless—phone numbers "held in mind" without active work. Active manipulation feels effortful—mental arithmetic, logical reasoning, creative recombination all involve phenomenal cost.
 
@@ -110,7 +110,7 @@ The Bischof-Köhler hypothesis (Bischof-Köhler 1985) proposes that non-human an
 
 Human culture accumulates across generations—each generation builds on previous achievements, producing technologies and knowledge no individual could develop alone. Great ape culture exists (tool traditions, grooming patterns, vocalisations) but doesn't accumulate: cultural practices remain within what Tomasello calls the "zone of latent solutions," never exceeding what single individuals could discover.
 
-Why doesn't great ape culture accumulate? The [[consciousness-as-amplifier#The Baseline Cognition Hypothesis|baseline cognition hypothesis]] proposes that accumulation requires [[metarepresentation]]—treating knowledge as knowledge that can be improved, transmitted, and built upon. This requires representing cultural practices as "our way of doing things" distinct from "how things are done," holding both current practice and possible modifications, and comparing them to select improvements.
+Why doesn't great ape culture accumulate? The [[consciousness-as-amplifier#The Baseline Cognition Hypothesis|baseline cognition hypothesis]] proposes that accumulation requires [[metacognition|metarepresentation]]—treating knowledge as knowledge that can be improved, transmitted, and built upon. This requires representing cultural practices as "our way of doing things" distinct from "how things are done," holding both current practice and possible modifications, and comparing them to select improvements.
 
 With 2±1 working memory capacity, representing current practice and possible modification simultaneously approaches the limit. Adding comparison of alternatives, evaluation of improvement, and planning for transmission exceeds it. The cognitive operations cumulative culture requires are exactly those expanded working memory enables.
 
@@ -197,7 +197,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
 - [[concept-of-consciousness-and-social-cognition]] — How expanded WM capacity enables recursive mindreading
 - [[baseline-cognition]] — What neural systems achieve without conscious amplification
-- [[metarepresentation]] — Representing representations as representations
+- [[metacognition|metarepresentation]] — Representing representations as representations
 - [[counterfactual-reasoning]] — Thinking about what might have been
 - [[consciousness-working-memory-2026-01-17]] — Detailed research notes
 

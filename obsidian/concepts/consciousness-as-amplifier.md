@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-04T11:37:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 last_deep_review: 2026-03-04T11:37:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[witness-consciousness]]"
   - "[[phenomenology-of-choice]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
   - "[[causal-delegation]]"
@@ -76,7 +76,7 @@ Evidence supporting this framework:
 
 **Procedural versus declarative metacognition**: Great apes show [[metacognition|metacognitive]] monitoring—they recognise uncertainty, seek information when needed, understand others' goals and knowledge states. But this appears to be *procedural* metacognition: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we can represent our knowledge *as* knowledge, take our beliefs as objects of thought, know that we know. This metarepresentational capacity may require phenomenal consciousness, not merely functional processing.
 
-**The Jourdain Hypothesis**: Great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. As Whiten (2015) argues, they express cultural traditions without representing these as "our way of doing things" subject to deliberate modification and transmission. Cumulative culture requires [[metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within what Tomasello calls the "zone of latent solutions"—the existing cognitive repertoire without genuine accumulation.
+**The Jourdain Hypothesis**: Great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. As Whiten (2015) argues, they express cultural traditions without representing these as "our way of doing things" subject to deliberate modification and transmission. Cumulative culture requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within what Tomasello calls the "zone of latent solutions"—the existing cognitive repertoire without genuine accumulation.
 
 **Logical reasoning requires consciousness**: Empirical research (Lieberman et al. 2008; De Neys & Glumicic 2008) demonstrates that rule-based logical reasoning specifically depends on conscious processing. Cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Unconscious processing excels at pattern recognition, associative learning, and rapid categorisation. But explicit rule-following—"if P then Q, P, therefore Q"—requires conscious manipulation of representations.
 
@@ -224,7 +224,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [[working-memory]] — The neural workspace where amplification operates; maintenance/manipulation distinction
 - [[attention-as-interface]] — How consciousness engages neural systems
 - [[phenomenology-of-choice]] — The felt structure of deliberate selection
-- [[metarepresentation]] — Representing representations as representations
+- [[metacognition|metarepresentation]] — Representing representations as representations
 - [[causal-delegation]] — How consciousness takes over causal work from neural states (the causal structure for amplification)
 - [[delegatory-dualism]] — Saad's full framework for mental causation without overdetermination
 - [[global-workspace-theory]] — The broadcasting account of conscious access

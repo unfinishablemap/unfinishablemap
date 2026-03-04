@@ -4,7 +4,7 @@ description: "Why understanding other minds requires having one yourself. Human-
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-18T16:17:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 last_deep_review: 2026-02-18T16:17:00+00:00
 draft: false
 topics:
@@ -17,7 +17,7 @@ concepts:
   - "[[theory-of-mind]]"
   - "[[intersubjectivity]]"
   - "[[problem-of-other-minds]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[baseline-cognition]]"
   - "[[jourdain-hypothesis]]"
   - "[[phenomenal-intentionality]]"
@@ -56,7 +56,7 @@ These are not mutually exclusive. The Map's position is that working memory and 
 
 ## Metarepresentation and the Social Threshold
 
-The concept page on [[topics/consciousness-and-social-cognition|consciousness and social cognition]] develops the technical argument: [[metarepresentation]] — representing mental states *as* mental states — marks the threshold where consciousness becomes necessary. This section draws out what that threshold means for social life.
+The concept page on [[topics/consciousness-and-social-cognition|consciousness and social cognition]] develops the technical argument: [[metacognition|metarepresentation]] — representing mental states *as* mental states — marks the threshold where consciousness becomes necessary. This section draws out what that threshold means for social life.
 
 Consider the difference between two kinds of social competence:
 

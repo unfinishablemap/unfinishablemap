@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-04T11:07:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 last_deep_review: 2026-03-04T11:07:00+00:00
 draft: false
 topics:
@@ -16,7 +16,7 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[working-memory]]"
   - "[[metacognition]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[cumulative-culture]]"
   - "[[global-workspace-theory]]"
   - "[[minimal-consciousness]]"
@@ -255,7 +255,7 @@ The baseline cognition hypothesis could be undermined by:
 - [[consciousness-as-amplifier]] — The complementary article on consciousness's amplifying role
 - [[working-memory]] — The neural workspace where amplification operates
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
-- [[metarepresentation]] — The capacity to represent representations
+- [[metacognition|metarepresentation]] — The capacity to represent representations
 - [[cumulative-culture]] — The ratchet effect and why it requires metarepresentation
 - [[animal-consciousness]] — The broader context including evolutionary evidence
 - [[minimal-consciousness]] — Model organisms and the boundaries of consciousness

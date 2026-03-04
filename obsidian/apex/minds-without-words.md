@@ -4,7 +4,7 @@ description: "Consciousness beyond human language reveals that experience is mor
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-04T21:25:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 last_deep_review: 2026-02-02T04:39:00+00:00
 draft: false
 topics:
@@ -70,7 +70,7 @@ The evidence maps onto three functions that [[conscious-vs-unconscious-processin
 
 **Working memory capacity**: Chimpanzee working memory is more limited than human capacity of ~4±1 items (Cowan 2001). The gap enables qualitatively different operations. Consciousness may enable not just expanded storage but *flexible, goal-directed manipulation* of held representations—though the picture is nuanced, since young chimpanzees can outperform adult humans on rapid numerical memory tasks (Inoue & Matsuzawa 2007), suggesting the difference lies in deployment rather than raw capacity alone.
 
-**Declarative metacognition**: Great apes show procedural metacognition—feelings that guide behaviour without explicit representation. They *feel* uncertain and seek information. But they apparently cannot represent that uncertainty *as* uncertainty. The feeling functions adaptively without becoming an object of thought. The [[metarepresentation|three-level metarepresentational framework]] clarifies this: great apes may operate at the second level (adjusting their own states) without reaching metarepresentation proper—representing their representations *as* representations.
+**Declarative metacognition**: Great apes show procedural metacognition—feelings that guide behaviour without explicit representation. They *feel* uncertain and seek information. But they apparently cannot represent that uncertainty *as* uncertainty. The feeling functions adaptively without becoming an object of thought. The [[metacognition|three-level metarepresentational framework]] clarifies this: great apes may operate at the second level (adjusting their own states) without reaching metarepresentation proper—representing their representations *as* representations.
 
 **Social cognition**: The baseline/conscious distinction is clearest in [[topics/consciousness-and-social-cognition|social cognition]]. Great apes pass Level 1 theory-of-mind tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
 

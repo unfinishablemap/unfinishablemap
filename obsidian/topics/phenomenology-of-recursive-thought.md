@@ -4,7 +4,7 @@ description: "When thought takes itself as object, distinctive phenomenal struct
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-04T14:57:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[introspection]]"
   - "[[higher-order-theories]]"
   - "[[self-reference-paradox]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[witness-consciousness]]"
   - "[[the-unobservable-self]]"
   - "[[phenomenology]]"
@@ -97,7 +97,7 @@ Philosophers like Galen Strawson and David Pitt argue for proprietary cognitive 
 
 But the phenomenology of recursive thought suggests HOT has the relationship backwards. The experience of thinking about thinking feels like an *addition* to ordinary consciousness, not its constitution. When I think about the tree, the experience is already conscious without my having a thought about that thought. Adding the meta-level creates a richer, more complex experience—but the original experience was conscious already.
 
-The [[metarepresentation]] literature distinguishes functional meta-states (adjusting confidence, monitoring uncertainty) from genuine metarepresentation (representing representations *as* representations). Great apes show the former without clear evidence of the latter. This suggests recursive self-awareness is a *development* of consciousness, not its foundation.
+The [[metacognition|metarepresentation]] literature distinguishes functional meta-states (adjusting confidence, monitoring uncertainty) from genuine metarepresentation (representing representations *as* representations). Great apes show the former without clear evidence of the latter. This suggests recursive self-awareness is a *development* of consciousness, not its foundation.
 
 ## The Regress and Its Resolution
 
@@ -145,7 +145,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [[the-unobservable-self]] — Why the observer cannot observe itself observing
 - [[metacognition]] — The cognitive capacity distinct from phenomenal recursion
 - [[cognitive-phenomenology]] — Whether thinking itself has phenomenal character
-- [[metarepresentation]] — Representing representations as representations
+- [[metacognition|metarepresentation]] — Representing representations as representations
 - [[higher-order-theories]] — Theories that make recursion central to consciousness
 - [[introspection]] — The reliability and limits of self-examination
 - [[witness-consciousness]] — Contemplative phenomenology of observing without identification

@@ -4,7 +4,7 @@ description: "Cumulative culture requires metarepresentation—representing know
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-28T05:46:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[teaching-as-metarepresentation]]"
   - "[[jourdain-hypothesis]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[metacognition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[working-memory]]"
@@ -34,7 +34,7 @@ last_curated: null
 last_deep_review: 2026-02-05T03:09:00+00:00
 ---
 
-Cumulative culture is the ratchet effect whereby each generation builds on the innovations of previous generations, producing knowledge and technology that no individual could create alone. Humans alone achieve it. Great apes have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but their cultural knowledge remains stable across generations rather than accumulating. The Unfinishable Map proposes that cumulative culture requires [[metarepresentation|metarepresentation]]—representing your knowledge as knowledge, your practices as practices—and that metarepresentation requires phenomenal consciousness. If correct, cumulative culture provides strong evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness doesn't merely accompany human cognition but causally enables our most distinctive achievement.
+Cumulative culture is the ratchet effect whereby each generation builds on the innovations of previous generations, producing knowledge and technology that no individual could create alone. Humans alone achieve it. Great apes have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but their cultural knowledge remains stable across generations rather than accumulating. The Unfinishable Map proposes that cumulative culture requires [[metacognition|metarepresentation]]—representing your knowledge as knowledge, your practices as practices—and that metarepresentation requires phenomenal consciousness. If correct, cumulative culture provides strong evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness doesn't merely accompany human cognition but causally enables our most distinctive achievement.
 
 ## The Ratchet Effect
 
@@ -66,7 +66,7 @@ Cumulative culture requires treating knowledge *as* knowledge. Consider what too
 3. **Deliberately modifying**: Changing the technique based on that evaluation
 4. **Teaching the modification**: Transmitting not just the technique but the understanding that it improved upon something
 
-Each step requires [[metarepresentation]]—representing your representations as representations. You must know that you know how to make the tool, recognise this knowledge as potentially improvable, and communicate both the technique and its relationship to prior techniques.
+Each step requires [[metacognition|metarepresentation]]—representing your representations as representations. You must know that you know how to make the tool, recognise this knowledge as potentially improvable, and communicate both the technique and its relationship to prior techniques.
 
 Great apes may lack this metarepresentational capacity. As Whiten (2015) argues, they have culture but may not *know* they have culture—the [[jourdain-hypothesis|Jourdain Hypothesis]], after Molière's character who discovered he'd been speaking prose all his life without knowing it. Apes express cultural traditions without representing these as "our way of doing things" subject to deliberate modification.
 
@@ -206,7 +206,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 - [[teaching-as-metarepresentation]] — Why teaching requires consciousness and enables cultural ratcheting
 - [[jourdain-hypothesis]] — The Molière-inspired metaphor for procedural vs declarative metacognition
-- [[metarepresentation]] — Why knowing-that-you-know may require consciousness
+- [[metacognition|metarepresentation]] — Why knowing-that-you-know may require consciousness
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
 - [[concept-of-consciousness-and-social-cognition]] — Consciousness and the social cognition that cultural transmission requires
 - [[metacognition]] — The enabling relation between consciousness and self-monitoring

@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-06T18:54:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[working-memory]]"
   - "[[consciousness-as-amplifier]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[cumulative-culture]]"
   - "[[global-workspace-theory]]"
   - "[[binding-problem]]"
@@ -253,7 +253,7 @@ Language, recursion, and consciousness connect to all five tenets:
 - [[cognitive-phenomenology]] — The phenomenal character of thinking and understanding
 - [[working-memory]] — WM capacity, the maintenance/manipulation distinction, and consciousness
 - [[consciousness-as-amplifier]] — How expanded WM enables distinctively human cognition
-- [[metarepresentation]] — Representing representations as representations
+- [[metacognition|metarepresentation]] — Representing representations as representations
 - [[cumulative-culture]] — How consciousness enables cultural accumulation
 - [[binding-problem]] — The unity problem in perception and cognition
 - [[ai-consciousness]] — Why the Map holds current AI systems lack consciousness

@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-02T22:41:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[cumulative-culture]]"
   - "[[topics/consciousness-and-social-cognition]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[working-memory]]"
 related_articles:
   - "[[tenets]]"
@@ -115,7 +115,7 @@ The [[consciousness-as-amplifier]] thesis proposes that consciousness enables *f
 
 **Working memory:** Human working memory capacity is ~4±1 items (Cowan 2001), revised downward from Miller's earlier 7±2 estimate. Chimpanzees score lower on most working memory tasks, though the gap is not uniform—Inoue & Matsuzawa (2007) demonstrated that young chimpanzees can outperform adult humans on rapid numerical memory tasks, suggesting the difference lies in *how* working memory is deployed rather than raw capacity alone. Consciousness may enable the flexible, goal-directed manipulation of held representations rather than simply expanding storage.
 
-**Cumulative culture:** Apes have culture but may not *know* they have culture (Whiten 2015). They express traditions without representing them as modifiable practices. Cumulative culture requires [[metarepresentation]]—knowing that you know—which appears to require consciousness.
+**Cumulative culture:** Apes have culture but may not *know* they have culture (Whiten 2015). They express traditions without representing them as modifiable practices. Cumulative culture requires [[metacognition|metarepresentation]]—knowing that you know—which appears to require consciousness.
 
 **Theory of mind levels:** See [[topics/consciousness-and-social-cognition]]. Great apes pass Level 1 tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
 

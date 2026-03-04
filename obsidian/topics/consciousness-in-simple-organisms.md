@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-04T17:30:00+00:00
+ai_modified: 2026-03-04T22:18:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[witness-consciousness]]"
-  - "[[metarepresentation]]"
+  - "[[metacognition]]"
   - "[[minimal-consciousness]]"
   - "[[consciousness-as-amplifier]]"
   - "[[explanatory-gap]]"
@@ -117,7 +117,7 @@ If baseline cognition marks what neural systems achieve without consciousness, a
 
 ## The Three-Level Metarepresentational Framework
 
-The [[metarepresentation|metarepresentation literature]] distinguishes three nested levels of representation:
+The [[metacognition|metarepresentation literature]] distinguishes three nested levels of representation:
 
 1. **First-order representation**: Representing the world (e.g., knowing there's food nearby)
 2. **Second-order representation**: Representing your first-order representations (e.g., uncertainty monitoring, strategic information-seeking)
@@ -237,7 +237,7 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 
 ### Core Concepts
 - [[baseline-cognition]] — What cognition achieves without consciousness and why great apes mark the boundary
-- [[metarepresentation]] — Why representing representations may require consciousness
+- [[metacognition|metarepresentation]] — Why representing representations may require consciousness
 - [[consciousness-as-amplifier]] — The baseline cognition hypothesis and what consciousness adds
 - [[evolution-of-consciousness]] — When did consciousness first emerge?
 - [[animal-consciousness]] — Survey of consciousness across species
