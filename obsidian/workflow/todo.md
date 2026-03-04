@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review baseline-cognition.md considering delegatory-dualism insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) provides dedicated treatment of Bradford Saad's framework where consciousness delegates processing to neural systems. concepts/baseline-cognition.md directly operationalises this delegation model — the baseline is what runs when consciousness delegates. Check for cross-links, ensure consistent treatment of the delegation architecture, and add references to the new concept page. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-03-04
-
 ### P2: Cross-review consciousness-as-amplifier.md considering delegatory-dualism insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) formalises the delegation framework. concepts/consciousness-as-amplifier.md presents consciousness as amplifying baseline cognition — a complementary perspective to the delegation model. Cross-reference the new concept page, check for consistent terminology, and ensure the amplification-delegation relationship is clearly articulated. Supports Tenet 3 (Bidirectional Interaction).
@@ -565,6 +559,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review baseline-cognition.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/delegatory-dualism.md (2026-03-04) provides dedicated treatment of Bradford Saad's framework where consciousness delegates processing to neural systems. concepts/baseline-cognition.md directly operationalises this delegation model — the baseline is what runs when consciousness delegates. Check for cross-links, ensure consistent treatment of the delegation architecture, and add references to the new concept page. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: Cross-review baseline-cognition.md considering delegatory-dualism insights
 
 ### ✓ 2026-03-04: Address emergence and tenet-connection gaps in collective-cognitive-limits.md
 - **Type**: refine-draft
