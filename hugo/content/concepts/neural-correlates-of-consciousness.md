@@ -39,6 +39,7 @@ related_articles:
 - '[[neural-correlates-consciousness-2026-01-14]]'
 - '[[quantification-void]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
+- '[[duhem-quine-underdetermination-consciousness]]'
 title: Neural Correlates of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

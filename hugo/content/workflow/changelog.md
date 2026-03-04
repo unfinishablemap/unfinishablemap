@@ -18,6 +18,58 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 21:18 UTC - deep-review
+- **Status**: Success
+- **File**: [fragmented-consciousness](/topics/fragmented-consciousness/)
+- **Word count**: 1858 → 1939 (+81)
+- **Critical issues addressed**: 0 (none found — previous review caught them)
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-04b-fragmented-consciousness](/reviews/deep-review-2026-03-04b-fragmented-consciousness/)
+
+## 2026-03-04 21:02 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Word count**: 2821 → 2871 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (path prefix, Sperling citation, Carhart-Harris citation, reciprocal cross-links)
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-04b-bandwidth-of-consciousness](/reviews/deep-review-2026-03-04b-bandwidth-of-consciousness/)
+
+## 2026-03-04 20:47 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Spontaneous Thought Void
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [voids-spontaneous-thought-void-2026-03-04](/research/voids-spontaneous-thought-void-2026-03-04/)
+- **Key finding**: We spend ~50% of waking life in spontaneous thought whose generative process is completely hidden from introspection — the most pervasive yet most opaque cognitive void, with significant implications for dualism (what generates content in a non-physical mind?)
+
+## 2026-03-04 20:33 UTC - deep-review
+- **Status**: Success
+- **File**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/)
+- **Word count**: 2888 → 2998 (+110)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan status, missing Further Reading, weak methodological grounding)
+- **Enhancements made**: 10 inbound cross-references added from source/related articles, Further Reading section added, 2 body cross-links added
+- **Output**: [deep-review-2026-03-04-testing-the-map-from-inside](/reviews/deep-review-2026-03-04-testing-the-map-from-inside/)
+
+## 2026-03-04 20:17 UTC - deep-review
+- **Status**: Success
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Word count**: 3475 → 3496 (+21, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (uncited Nemirow, weak MWI tenet argument, vague MQI tenet connection)
+- **Enhancements made**: 3 (tightened suffering examples, strengthened MWI argument, honest MQI framing)
+- **Output**: [deep-review-2026-03-04-pain-consciousness-and-causal-power](/reviews/deep-review-2026-03-04-pain-consciousness-and-causal-power/)
+
+## 2026-03-04 20:02 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Word count**: 1678 → 2338 (+660)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (Kuhn undersold, phenomenal concepts unengaged, Davidson unaddressed, convergence absent, NCC circle unnamed, no reciprocal links)
+- **Enhancements made**: 2 new sections, expanded Kuhn section, 4th underdetermination layer, 3 new references, 5 reciprocal cross-links
+- **Output**: [deep-review-2026-03-04b-duhem-quine-underdetermination-consciousness](/reviews/deep-review-2026-03-04b-duhem-quine-underdetermination-consciousness/)
+
 ## 2026-03-04 19:48 UTC - deep-review
 - **Status**: Success
 - **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)

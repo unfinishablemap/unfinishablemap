@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-04 13:38:00+00:00
+ai_modified: 2026-03-04 21:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: The 100-million-fold gap between sensory input and conscious output
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 13:38:00+00:00
+last_deep_review: 2026-03-04 21:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,6 +42,8 @@ related_articles:
 - '[[quantum-neural-timing-constraints]]'
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[mental-causation]]'
+- '[[hard-problem-of-consciousness]]'
+- '[[consciousness-and-memory]]'
 - '[[conservation-laws-and-mind]]'
 title: The Bandwidth of Consciousness
 topics:
@@ -72,7 +74,7 @@ Crucially, the bottleneck is not motor. Motor systems execute complex sequences 
 
 The inbound bandwidth of conscious experience is enormous. Nørretranders (1998) estimated aggregate sensory input at roughly 12 million bits per second—10 million from vision, 1 million from touch, the remainder distributed across hearing, smell, and taste. The optic nerve alone transmits on the order of 10⁸ bits per second. Aggregate sensory input reaches 10⁹ bits per second.
 
-How rich is conscious experience itself? Ned Block (2011) argues that [phenomenal consciousness](/concepts/phenomenal-consciousness/) is richer than cognitive access—we are conscious of more than we can report or act upon. Evidence from iconic memory (Sperling's partial-report paradigm) shows that observers are aware of more items than they can identify when cued. Cohen, Dennett, and Kanwisher (2016) counter that apparent richness comes from *ensemble statistics*—the visual system represents groups through summary properties rather than individual objects.
+How rich is conscious experience itself? Ned Block (2011) argues that [phenomenal consciousness](/concepts/phenomenal-consciousness/) is richer than cognitive access—we are conscious of more than we can report or act upon. Evidence from iconic memory (Sperling's 1960 partial-report paradigm) shows that observers are aware of more items than they can identify when cued. Cohen, Dennett, and Kanwisher (2016) counter that apparent richness comes from *ensemble statistics*—the visual system represents groups through summary properties rather than individual objects.
 
 The Map need not resolve this debate to draw the key conclusion. Whether inbound bandwidth measures in millions or billions of bits, it vastly exceeds outbound bandwidth. The gap is structural, not incidental.
 
@@ -90,7 +92,7 @@ The [filter model](/concepts/filter-theory/) handles the bandwidth constraint wi
 
 William James's prism analogy applies precisely: white light contains all wavelengths; the prism reveals specific colours. The prism's bandwidth is finite, but the light it refracts exceeds what any single prism can display. Similarly, consciousness operating through the brain's interface manifests at the rate the interface permits.
 
-This predicts that altered states involving loosened interface constraints—[dreams](/topics/dream-consciousness/), psychedelics, meditative absorption—should involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with reports of expanded subjective richness. Production models must explain why disrupted neural processing correlates with enriched subjective experience; filter models expect it.
+This predicts that altered states involving loosened interface constraints—[dreams](/topics/dream-consciousness/), psychedelics, meditative absorption—should involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with reports of expanded subjective richness (Carhart-Harris et al., 2014). Production models must explain why disrupted neural processing correlates with enriched subjective experience; filter models expect it.
 
 ### The Outbound Side Suggests Selection
 
@@ -212,6 +214,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 1. Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575.
+1. Carhart-Harris, R.L. et al. (2014). The entropic brain: A theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
 1. Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). What is the bandwidth of perceptual experience? *Trends in Cognitive Sciences*, 20(5), 324–335.
 1. Dehaene, S. (2014). *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*. Viking Press.
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
@@ -219,4 +222,5 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109–113.
+1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs: General and Applied*, 74(11), 1–29.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

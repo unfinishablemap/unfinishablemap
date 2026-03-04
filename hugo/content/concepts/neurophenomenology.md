@@ -171,6 +171,7 @@ Meditation exhibits the structure of [self-forming actions](/topics/free-will/):
 - [free-will](/topics/free-will/) — Self-forming actions and meditation practice
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — The contemplative traditions informing this research
 - [mysterianism](/concepts/mysterianism/) — Cognitive limits that neurophenomenology respects
+- [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: practical phenomenological tests grounded in neurophenomenological methods
 - [neurophenomenology-meditation-studies-2026-01-14](/research/neurophenomenology-meditation-studies-2026-01-14/) — Research notes on this topic
 
 ## References

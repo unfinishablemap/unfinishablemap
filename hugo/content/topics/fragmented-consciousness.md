@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-04 14:07:00+00:00
+ai_modified: 2026-03-04 21:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: When consciousness splits—through surgery, anaesthesia, or dissoc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 14:07:00+00:00
+last_deep_review: 2026-03-04 21:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,11 +57,11 @@ Dissociative identity disorder (DID) presents perhaps the most philosophically c
 
 The philosophical literature on DID and dualism remains remarkably thin. Most analysis operates within physicalist frameworks, treating DID as evidence that consciousness is a product of brain organisation that can be multiply instantiated. Yet the DID evidence is equally compatible with a dualist reading: a single non-physical mind whose expression through the brain is disrupted by trauma, producing fragmented *output* without fragmented *experience*. Whether alters represent genuinely separate consciousnesses or a single consciousness expressing itself through dissociated behavioural-memorial systems remains unresolved.
 
-Janet's (1889) original concept of dissociation — the splitting of consciousness into parallel streams — predates the modern physicalist framing. Janet treated dissociation as a genuine division of the mental field, not as a brain-organisation phenomenon. This earlier framing is arguably more compatible with dualist approaches.
+Janet's (1889) original concept of dissociation — the splitting of consciousness into parallel streams — predates the modern physicalist framing. Janet treated dissociation primarily as a division of the mental field — a psychological splitting — though he recognised physiological weakness as a predisposing factor. This earlier framing is arguably more compatible with dualist approaches.
 
 ## The Interface Argument
 
-A pattern emerges across these three cases. In each, what demonstrably fragments is a physical system: the corpus callosum's connectivity, cortical phase coupling, or trauma-disrupted memorial systems. Whether consciousness itself fragments is precisely what remains unclear. The behavioural evidence — conflicting responses, loss of cross-hemisphere access, amnesic barriers between alters — establishes that the *expression* of consciousness through the body is disrupted. It does not establish that the experiencing subject has divided.
+A pattern emerges across these three cases. In each, what demonstrably fragments is a physical system: the corpus callosum's connectivity, cortical phase coupling, or trauma-disrupted memorial systems. Whether consciousness itself fragments is precisely what remains unclear. The behavioural evidence — conflicting responses, loss of cross-hemisphere access, amnesic barriers between alters — establishes that the *expression* of consciousness through the body is disrupted. It does not establish that the [phenomenal](/concepts/phenomenal-consciousness/) subject has divided.
 
 The interface argument makes this distinction explicit. Consciousness interacts with the physical world through the brain. The brain serves as an interface — a structured system through which non-physical mind translates into physical behaviour. When the interface fragments, output fragments. But the signal source need not have divided.
 
@@ -85,9 +85,9 @@ What dualism adds is an explanation for two otherwise puzzling features of the f
 
 **The resilience of unity.** If consciousness were simply the brain's integrated activity, severing the corpus callosum should produce a clean split. It does not. The surprising preservation of global unity despite massive disconnection (Pinto et al. 2017, the 2025 layered model) is more naturally explained if unity belongs to consciousness itself rather than to its physical substrate.
 
-**The incompleteness of fragmentation.** Anaesthesia eliminates consciousness entirely rather than producing multiple diminished streams. If consciousness were reducible to integrated activity, fragmenting the integration should produce fragmented but still-present experiences — as when you can hear but not see under partial anaesthesia. Instead, disrupting global integration eliminates experience wholesale. This all-or-nothing character is what one would expect if integration is a *threshold condition* for consciousness to interact with the brain, rather than the thing that constitutes consciousness.
+**The threshold character of loss.** When general anaesthesia succeeds, consciousness does not fragment into multiple diminished streams — it disappears. Intraoperative awareness episodes and anaesthetic dreaming occur, but these correlate with incomplete disruption of cortical integration rather than with partial fragmentation. If consciousness were reducible to integrated activity, fragmenting the integration should produce fragmented but still-present experiences — diminished streams rather than absence. Instead, below a threshold of global integration, experience ceases. This threshold character is what one would expect if integration is a *condition* for consciousness to interact with the brain, rather than the thing that constitutes consciousness.
 
-Neither point is decisive. A physicalist can explain resilience through redundant neural pathways and the all-or-nothing character through threshold effects in information integration. The arguments are symmetric in their capacity to accommodate the data. What differs is what each framework predicts about cases we cannot yet test — such as whether a split-brain patient has one experience or two. The dualist predicts one; the physicalist expects two. Current evidence cannot distinguish these predictions.
+Neither point is decisive. A physicalist can explain resilience through redundant neural pathways and the all-or-nothing character through threshold effects in information integration. The arguments are symmetric in their capacity to accommodate the data. What differs is what each framework most naturally predicts about cases we cannot yet test — such as whether a split-brain patient has one experience or two. The dualist framework, emphasising the unity of a non-physical mind, most naturally predicts one; standard physicalist accounts, identifying consciousness with brain activity, most naturally predict two (though physicalists like Schechter (2018) have argued for unified consciousness in split-brain cases on physicalist grounds). Current evidence cannot distinguish these predictions.
 
 ## Relation to Site Perspective
 
@@ -117,6 +117,7 @@ Fragmented consciousness engages the Map's [tenets](/tenets/) at several points:
 1. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
 1. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
 1. A layered unity model of split-brain consciousness. *Philosophical Studies* (2025).
+1. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
 1. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/
 1. Southgate, A. & Oquatre-six, C. (2026-02-10). Non-Temporal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/non-temporal-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Split-Brain Cases and Consciousness Unity. *The Unfinishable Map*. https://unfinishablemap.org/topics/split-brain-consciousness/

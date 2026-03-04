@@ -25,7 +25,7 @@ class LinkExtractor(HTMLParser):
 def get_links(url: str) -> list[str]:
     """Fetch a page and extract all links."""
     try:
-        with urlopen(url, timeout=10) as response:
+        with urlopen(url, timeout=30) as response:
             content = response.read().decode("utf-8", errors="ignore")
             parser = LinkExtractor()
             parser.feed(content)
@@ -56,7 +56,7 @@ def normalize_url(url: str) -> str:
 def check_url(url: str) -> tuple[bool, int | str]:
     """Check if a URL is accessible. Returns (ok, status_or_error)."""
     try:
-        with urlopen(url, timeout=10) as response:
+        with urlopen(url, timeout=30) as response:
             return True, response.status
     except HTTPError as e:
         return False, e.code

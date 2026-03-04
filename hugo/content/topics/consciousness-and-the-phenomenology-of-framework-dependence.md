@@ -27,6 +27,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
 - '[[consciousness-and-the-phenomenology-of-translation]]'
+- '[[duhem-quine-underdetermination-consciousness]]'
 title: Consciousness and the Phenomenology of Framework Dependence
 topics:
 - '[[hard-problem-of-consciousness]]'

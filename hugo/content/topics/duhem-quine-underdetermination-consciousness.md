@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-04 19:48:00+00:00
+ai_modified: 2026-03-04 20:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: No experiment can isolate a consciousness theory for testing. Human
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 19:48:00+00:00
+last_deep_review: 2026-03-04 20:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,9 @@ This creates a layered underdetermination:
 
 2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically.
 
-3. **The [explanatory gap](/concepts/explanatory-gap/) as auxiliary assumption.** Every physicalist theory of consciousness presupposes that the gap between physical description and subjective experience can be closed by the right functional, structural, or informational account. Dualist frameworks deny this presupposition. The disagreement is not about data but about an auxiliary assumption so fundamental that no experiment can adjudicate it.
+3. **The methodological circle in [NCC research](/concepts/neural-correlates-of-consciousness/).** Every study of neural correlates presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain. The evidential base for all NCC-related theories is thus underdetermined by methodology at a second-order level: the data themselves depend on assumptions about the reliability and nature of conscious reports.
+
+4. **The [explanatory gap](/concepts/explanatory-gap/) as auxiliary assumption.** Every physicalist theory of consciousness presupposes that the gap between physical description and subjective experience can be closed by the right functional, structural, or informational account. Dualist frameworks deny this presupposition. The disagreement is not about data but about an auxiliary assumption so fundamental that no experiment can adjudicate it.
 
 ## The COGITATE Adversarial Collaboration
 
@@ -78,7 +80,23 @@ Applied to consciousness science—where over 325 distinct theories have been ca
 
 When evidence underdetermines theory choice, what guides scientists? Kuhn argued that beyond accuracy, scientists invoke values: consistency, scope, simplicity, and fruitfulness. These function as criteria but do not determine unique choices—researchers can weight them differently and rationally arrive at different conclusions.
 
-This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) shows, simplicity is unreliable when knowledge is incomplete. The apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight. The Map's examination of [theoretical virtues in consciousness science](/topics/consciousness-and-the-problem-of-theoretical-virtues/) extends this point: virtues like simplicity, scope, and elegance systematically malfunction when applied to consciousness, because they were calibrated in domains where the observer plays no constitutive role. If Kuhnian values legitimately influence theory choice, then metaphysical commitments—including dualism—are not illegitimate intrusions into science but recognised components of rational theory selection.
+This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) shows, simplicity is unreliable when knowledge is incomplete. The apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight.
+
+The problem runs deeper than parsimony alone. The Map's examination of [theoretical virtues in consciousness science](/topics/consciousness-and-the-problem-of-theoretical-virtues/) shows that the entire suite of Kuhnian values—empirical adequacy, explanatory power, simplicity, scope, fertility, elegance—systematically malfunctions when applied to consciousness. Empirical adequacy cannot discriminate between physicalism and property dualism because both accommodate third-person data while the target explanandum (phenomenal experience) is invisible to third-person methods. Elegance and fertility are assessed through phenomenal states—aesthetic response, sense of understanding—which are part of the phenomenon under investigation, creating a circularity that undermines their neutrality. These virtues were calibrated in domains where the observer plays no constitutive role; they cannot be assumed to function reliably where the observer is constitutive of the subject matter.
+
+If Kuhnian values legitimately influence theory choice but cannot function as neutral arbiters in this domain, then metaphysical commitments—including dualism—are not illegitimate intrusions into science but recognised components of rational theory selection.
+
+## The Phenomenal Concepts Strategy
+
+The most sophisticated physicalist response to this underdetermination is the **phenomenal concepts strategy** (Loar 1990/1997, Papineau 2002, Balog 2012). On this view, phenomenal concepts are special recognitional concepts that make true physical identities *feel* contingent—we can conceive of zombies not because consciousness is non-physical but because our phenomenal concepts pick out physical properties in a distinctive first-person way that differs from our third-person physical concepts. If successful, this strategy would dissolve the appearance of underdetermination: the gap would be epistemic rather than ontological, a feature of our conceptual apparatus rather than of reality.
+
+The strategy faces difficulties. It must explain why phenomenal concepts are special without appealing to phenomenal properties—otherwise it presupposes what it aims to explain. Chalmers (2007) argues that every version of the strategy either fails to account for the explanatory gap or tacitly invokes the very phenomenal properties it tries to eliminate. The strategy is best understood as an auxiliary hypothesis move of exactly the kind Duhem-Quine predicts: when evidence challenges the physicalist programme, physicalists revise their account of concepts rather than their account of ontology. Whether this revision is progressive or *ad hoc* depends on whether it generates novel predictions—and so far, the phenomenal concepts strategy has primarily accommodated existing intuitions rather than predicting new phenomena.
+
+## Framework Dependence and Convergence
+
+The underdetermination described here has a phenomenological dimension explored in the Map's analysis of [framework dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/). Each theoretical framework presents itself as transparent rather than as a lens. A physicalist reading dualist arguments experiences "false fluency"—the sense of understanding that comes from unconsciously translating the argument into physicalist terms, stripping away what made it compelling. This is not mere disagreement but lossy translation: enough meaning survives to sustain the illusion of engagement while the distinctive content is lost. Davidson's (1974) challenge—that the very idea of incommensurable conceptual schemes may be incoherent—is met by this distinction between full incommensurability and lossy translation. The frameworks are not mutually unintelligible, but neither is translation between them lossless.
+
+Against the suggestion that underdetermination leaves us with no rational basis for theory preference, the [explanatory gap](/concepts/explanatory-gap/) literature offers a convergence response. Multiple independent lines of argument—the conceivability argument, the knowledge argument, Nagel's subjectivity argument, Kripke's modal argument—converge on the conclusion that physical description does not entail phenomenal experience. When independent arguments converge, the probability that they are all mistaken decreases, even if no individual argument is decisive. This convergence does not resolve the underdetermination—physicalists can attempt to defuse each argument separately—but it means dualism is not in the weak epistemic position of a theory that merely fits the data post hoc.
 
 ## Relation to Site Perspective
 
@@ -115,5 +133,8 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 7. Kuhn, R. L. (2023). A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. *Progress in Biophysics and Molecular Biology*.
 8. Negro, N. (2024). (Dis)confirming Theories of Consciousness and Their Predictions: Towards a Lakatosian Consciousness Science. *Neuroscience of Consciousness*, 2024(1), niae012.
 9. COGITATE Consortium (2025). Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness. *Nature*, 642(8066), 133-142.
-10. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
-11. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/
+10. Loar, B. (1990/1997). Phenomenal States. In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*. MIT Press.
+11. Chalmers, D. J. (2007). Phenomenal Concepts and the Explanatory Gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+12. Davidson, D. (1974). On the Very Idea of a Conceptual Scheme. *Proceedings and Addresses of the American Philosophical Association*, 47, 5-20.
+13. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
+14. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/

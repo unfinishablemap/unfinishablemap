@@ -206,6 +206,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [duration](/concepts/temporal-consciousness/) — Bergson's lived time and creative becoming
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates options, not just selects
 - [introspection](/concepts/introspection/) — First-person methods for investigating choice
+- [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: phenomenological experiments testing the structure of choice
 - [witness-consciousness](/concepts/witness-consciousness/) — The contrast case of choiceless awareness
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Phenomenology across contemplative states
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal choice

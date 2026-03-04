@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-04 08:38:00+00:00
+ai_modified: 2026-03-04 20:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-02-04 08:38:00+00:00
 apex_sources:
@@ -33,7 +33,7 @@ description: Your own experience is a laboratory for consciousness. Careful atte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 06:32:00+00:00
+last_deep_review: 2026-03-04 20:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Philosophy typically asks you to consider arguments and weigh evidence. The Unfinishable Map offers something different: experiments you can run right now, using your own experience as data. You don't need neuroimaging equipment or controlled conditions. You need attention, honesty, and willingness to observe what actually happens when you try specific phenomenological tests.
+Philosophy typically asks you to consider arguments and weigh evidence. The Unfinishable Map offers something different: experiments you can run right now, using your own experience as data. You don't need neuroimaging equipment or controlled conditions. You need attention, honesty, and willingness to observe what actually happens when you try specific phenomenological tests. This approach treats [contemplative practice as philosophical methodology](/topics/contemplative-methods-as-philosophical-methodology/)—a disciplined first-person method generating evidence about consciousness unavailable through thought experiments or conceptual analysis alone.
 
 This matters because the Map makes claims that generate predictions about experience. If consciousness genuinely selects among neural possibilities, choosing should feel different from observing. If witness awareness is real, you should be able to access it. If mental effort tracks genuine causal engagement, sustained attention should feel like work. These predictions are testable from the first-person perspective.
 
@@ -173,7 +173,7 @@ Contemplative traditions report consistent findings across cultures:
 - **Awareness underlies content**: Whatever thoughts arise, something is aware of them. That something remains when specific contents depart.
 - **Effort is real and trackable**: The phenomenology of trying is distinct from the phenomenology of receiving.
 
-If these reports converge across independent traditions—Buddhist, Hindu, Christian contemplative, secular meditation—something is being detected, not fabricated.
+If these reports converge across independent traditions—Buddhist, Hindu, Christian contemplative, secular meditation—something is being detected, not fabricated. The [convergence argument](/topics/contemplative-evidence-for-consciousness/) gains force precisely because these traditions developed independently, making coordinated fabrication implausible.
 
 ## The Illusionist Challenge
 
@@ -248,6 +248,16 @@ This apex article draws on all five tenets:
 **[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of choice presupposes singular actualisation. The settling moment when alternatives collapse, the felt rejection of unchosen options—these match collapse interpretations, not many-worlds branching where all outcomes occur.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The tests reveal phenomenological complexity that simpler theories dismiss. Saying "it's just what brain states feel like" doesn't explain the specific structure—why choosing feels different from observing, why effort tracks difficulty, why the witness resists objectification. The Map's richer framework addresses what parsimony ignores.
+
+## Further Reading
+
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Why contemplative practice counts as philosophical methodology
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Cross-traditional convergence as evidence for consciousness
+- [contemplative-epistemology](/concepts/contemplative-epistemology/) — Epistemological foundations for trusting trained first-person observation
+- [illusionism](/concepts/illusionism/) — The eliminativist challenge these tests address
+- [phenomenological-evidence](/concepts/phenomenological-evidence/) — When phenomenological observation constitutes genuine evidence
+- [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis: how consciousness authors action through selection
+- [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — Apex synthesis: the attention interface these tests probe
 
 ## Source Articles
 

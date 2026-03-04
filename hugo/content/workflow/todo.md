@@ -38,30 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review duhem-quine-underdetermination-consciousness against related articles
-- **Type**: cross-review
-- **Notes**: Review [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) in context of [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), and related consciousness methodology articles. Check for consistency, add inbound links.
-- **Source**: chain from expand-topic
-- **Generated**: 2026-03-04
-
-### P2: Integrate testing-the-map-from-inside.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Apex article (created 2026-01-31) with no inbound body-text links from any content article. As a high-level synthesis piece on testing the Map's claims from a first-person perspective, it should be referenced from articles it integrates — including phenomenal-conservatism-and-introspective-evidence.md, contemplative-methods-as-philosophical-methodology.md, and the tenets articles it engages with.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
-### P2: Deep review bandwidth-of-consciousness.md
-- **Type**: deep-review
-- **Notes**: Newly coalesced article (2026-03-04) combining multiple predecessor bandwidth articles into a unified treatment. Coalesced articles merge content from multiple sources and need quality verification to ensure coherent argumentation, consistent terminology, and no redundancy from the merge process. Verify cross-references to predecessor archive pages are correct.
-- **Source**: chain (from coalesce)
-- **Generated**: 2026-03-04
-
-### P2: Deep review fragmented-consciousness.md
-- **Type**: deep-review
-- **Notes**: Newly written article (2026-03-04) on consciousness fragmentation cases — split-brain, DID, anaesthesia — as evidence for the interface argument for dualism. Early review ensures quality before the article accumulates inbound links. Cross-reviews with non-temporal-consciousness.md already completed; this verifies the article's own coherence and tenet alignment. Supports Tenet 1 (Dualism).
-- **Source**: chain (from expand-topic)
-- **Generated**: 2026-03-04
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -603,6 +579,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Deep review fragmented-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly written article (2026-03-04) on consciousness fragmentation cases — split-brain, DID, anaesthesia — as evidence for the interface argument for dualism. Early review ensures quality before the article accumulates inbound links. Cross-reviews with non-temporal-consciousness.md already completed; this verifies the article's own coherence and tenet alignment. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/fragmented-consciousness.md
+
+### ✓ 2026-03-04: Deep review bandwidth-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly coalesced article (2026-03-04) combining multiple predecessor bandwidth articles into a unified treatment. Coalesced articles merge content from multiple sources and need quality verification to ensure coherent argumentation, consistent terminology, and no redundancy from the merge process. Verify cross-references to predecessor archive pages are correct.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+### ✓ 2026-03-04: Integrate testing-the-map-from-inside.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (created 2026-01-31) with no inbound body-text links from any content article. As a high-level synthesis piece on testing the Map's claims from a first-person perspective, it should be referenced from articles it integrates — including phenomenal-conservatism-and-introspective-evidence.md, contemplative-methods-as-philosophical-methodology.md, and the tenets articles it engages with.
+- **Output**: obsidian/apex/testing-the-map-from-inside.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-04: Cross-review duhem-quine-underdetermination-consciousness against related articles
+- **Type**: cross-review
+- **Notes**: Review [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) in context of [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), and related consciousness methodology articles. Check for consistency, add inbound links.
+- **Output**: None -- Context: Cross-review duhem-quine-underdetermination-consciousness against related articles
 
 ### ✓ 2026-03-04: Update references to coalesced pain articles
 - **Type**: cross-review

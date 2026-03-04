@@ -38,6 +38,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-agency]]'
 - '[[contemplative-path]]'
+- '[[testing-the-map-from-inside]]'
 title: Attention as the Causal Bridge
 topics:
 - '[[structure-of-attention]]'

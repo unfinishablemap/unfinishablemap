@@ -25,6 +25,7 @@ related_articles:
 - '[[the-case-for-dualism]]'
 - '[[the-convergence-argument-for-dualism]]'
 - '[[epistemological-limits-occams-razor]]'
+- '[[duhem-quine-underdetermination-consciousness]]'
 title: Consciousness and the Problem of Theoretical Virtues
 topics:
 - '[[hard-problem-of-consciousness]]'

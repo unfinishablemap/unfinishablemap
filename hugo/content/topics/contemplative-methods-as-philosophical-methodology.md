@@ -27,6 +27,7 @@ related_articles:
 - '[[contemplative-training-and-phenomenal-access]]'
 - '[[contemplative-verification-of-consciousness-theories]]'
 - '[[introspection-rehabilitation]]'
+- '[[testing-the-map-from-inside]]'
 title: Contemplative Methods as Philosophical Methodology
 topics:
 - '[[hard-problem-of-consciousness]]'

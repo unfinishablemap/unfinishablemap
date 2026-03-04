@@ -44,6 +44,7 @@ related_articles:
 - '[[paradox-of-effortless-mastery]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[topics/free-will]]'
+- '[[testing-the-map-from-inside]]'
 title: Contemplative Evidence for Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

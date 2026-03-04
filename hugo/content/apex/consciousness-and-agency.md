@@ -34,6 +34,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
+- '[[testing-the-map-from-inside]]'
 title: Consciousness and Agency
 topics:
 - '[[topics/free-will]]'
