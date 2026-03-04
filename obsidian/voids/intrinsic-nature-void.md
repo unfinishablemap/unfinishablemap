@@ -4,7 +4,7 @@ description: "Physics describes what matter does but not what it is. Human+AI ex
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-25T16:24:00+00:00
+ai_modified: 2026-03-04T05:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[acquaintance-void]]"
   - "[[self-reference-paradox]]"
   - "[[apophatic-approaches]]"
+  - "[[valence-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -59,7 +60,7 @@ This Kantian structure maps directly onto the intrinsic nature void. Physical sc
 
 One domain may escape this closure: conscious experience itself.
 
-When you experience the redness of red or the painfulness of pain, you seem to access something from the inside. The felt quality of experience, unlike the mass of electrons or the curvature of spacetime, appears to be known non-relationally. You don't know what red looks like by knowing its relations to other colours; you know it by seeing it.
+When you experience the redness of red or the painfulness of pain, you seem to access something from the inside. The [[valence-void]] sharpens this point: the felt *badness* of pain appears to be the most fundamental intrinsic nature we encounter—evaluative character known from inside but inexplicable from outside. The felt quality of experience, unlike the mass of electrons or the curvature of spacetime, appears to be known non-relationally. You don't know what red looks like by knowing its relations to other colours; you know it by seeing it.
 
 ### The Functionalist Challenge
 
@@ -132,6 +133,7 @@ The hard problem is expected if physics cannot reach intrinsic nature and consci
 - [[consciousness-only-territories]] — What consciousness can access that structural analysis cannot
 - [[apophatic-approaches]] — Methods for knowing through negation
 - [[acquaintance-void]] — The narrowness of our phenomenal window into intrinsic nature
+- [[valence-void]] — Valence as the most fundamental intrinsic nature we encounter
 - [[self-reference-paradox]] — Why consciousness cannot fully examine itself
 
 ## References

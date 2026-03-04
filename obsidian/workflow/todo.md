@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-04
 
-### P2: Integrate valence-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound wikilinks from any content article. Voids article (created 2026-02-18) examining why positive and negative feel the way they do — the qualitative character of valence resists explanation. Relevant to the Map's treatment of phenomenal value, emotion, and the limits of functional accounts. Add cross-references from emotion-as-evidence-for-dualism.md, phenomenal-value-realism.md, why-pain-hurts.md, and affective-void.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P2: Integrate epistemological-limits-of-occams-razor.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound wikilinks from any content article. Arguments article (created 2026-02-06) directly supporting Tenet 5 (Occam's Razor Has Limits) — the Map's least-covered foundational commitment. Add cross-references from occams-razor.md (if it exists), tenets.md, arguments-for-dualism.md, and philosophy-of-science-under-dualism.md.
@@ -541,6 +535,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate valence-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks from any content article. Voids article (created 2026-02-18) examining why positive and negative feel the way they do — the qualitative character of valence resists explanation. Relevant to the Map's treatment of phenomenal value, emotion, and the limits of functional accounts. Add cross-references from emotion-as-evidence-for-dualism.md, phenomenal-value-realism.md, why-pain-hurts.md, and affective-void.md.
+- **Output**: obsidian/voids/valence-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Review attention-as-selection-interface.md considering asymmetric-bandwidth insights
 - **Type**: cross-review

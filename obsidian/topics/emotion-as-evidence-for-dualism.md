@@ -4,7 +4,7 @@ description: "Emotions provide distinctive evidence for dualism through valence 
 created: 2026-02-15
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-03-03T18:41:00+00:00
+ai_modified: 2026-03-04T05:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[emotional-consciousness-valence-2026-01-19]]"
   - "[[emotional-epistemology-void]]"
+  - "[[valence-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -36,7 +37,7 @@ Emotions do not merely illustrate the [[hard-problem-of-consciousness|hard probl
 
 The standard hard problem asks why any physical process feels like something at all. Emotion poses a sharper version: why does pain feel *bad*? A complete account of nociception—sensory transduction, neural signaling, withdrawal reflexes, learned avoidance—leaves the badness entirely unexplained. The functional story tells us what pain does. It says nothing about why doing those things requires a particular felt quality.
 
-This is not the generic [[explanatory-gap]]. Valence has a specific feature that makes it especially resistant to functional analysis: it is evaluative. The badness of pain is not a neutral property to which we add a negative judgment. It is immediately, intrinsically negative. No amount of information processing explains why *this* configuration of matter feels bad rather than neutral, pleasant, or like nothing at all.
+This is not the generic [[explanatory-gap]]. The [[valence-void]] identifies valence as having a specific feature that makes it especially resistant to functional analysis: it is evaluative. The badness of pain is not a neutral property to which we add a negative judgment. It is immediately, intrinsically negative. No amount of information processing explains why *this* configuration of matter feels bad rather than neutral, pleasant, or like nothing at all.
 
 Peter Carruthers has defended an alternative: valence is a nonconceptual representation of value rather than an intrinsic phenomenal property. When afraid, attention is directed outward at the threat—the bear's claws seem dangerous, not an inner feeling. But this account faces a decisive challenge from clinical evidence.
 
@@ -130,6 +131,7 @@ The moral and motivational significance of valence depends on indexical identity
 - [[topics/phenomenal-value-realism]] — How phenomenal properties ground objective value
 - [[agent-causation]] — How consciousness exercises causal influence
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles
+- [[valence-void]] — Why the evaluative dimension of experience resists all explanation
 - [[emotional-epistemology-void]] — Whether emotions constitute genuine knowledge about reality
 - [[epistemic-emotions]] — Feelings directed at knowledge itself
 

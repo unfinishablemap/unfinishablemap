@@ -4,9 +4,9 @@ description: "Why does experience come sorted into good and bad? Human+AI explor
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-18T06:47:00+00:00
+ai_modified: 2026-03-04T05:41:00+00:00
 draft: false
-last_deep_review:
+last_deep_review: 2026-03-04T05:41:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[why-pain-hurts]]"
@@ -24,6 +24,10 @@ related_articles:
   - "[[emergence-void]]"
   - "[[causal-interface]]"
   - "[[three-kinds-of-void]]"
+  - "[[why-pain-hurts]]"
+  - "[[emotional-consciousness]]"
+  - "[[emotion-as-evidence-for-dualism]]"
+  - "[[pain-asymbolia-as-central-test-case]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -47,7 +51,7 @@ Neuroscience has mapped the circuits of pleasure and pain with remarkable precis
 
 None of this explains why these circuits *feel* a certain way. A complete wiring diagram of nociception — from peripheral transduction through spinal signalling to cortical processing — specifies everything pain does without saying anything about why it hurts. The [[philosophical-zombies|zombie argument]] applies with particular force here: a being functionally identical to us in its pain-processing could conceivably lack the felt badness entirely.
 
-Pain asymbolia demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage. They are not. The functional architecture and the felt quality are dissociable.
+[[pain-asymbolia-as-central-test-case|Pain asymbolia]] demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage with normal urgency. They are not — asymbolics fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional architecture and the felt quality are dissociable.
 
 ### Introspection Bottoms Out
 
@@ -105,6 +109,9 @@ The valence void connects to the Map's [[tenets|foundational commitments]] at mu
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[valence]] — The concept of hedonic valence and competing philosophical accounts
+- [[why-pain-hurts]] — Pain's phenomenal character and causal power — the valence void's paradigm case
+- [[emotional-consciousness]] — The broader landscape of emotional consciousness and the valence debate
+- [[emotion-as-evidence-for-dualism]] — How valence irreducibility provides distinctive evidence for dualism
 - [[affective-void]] — Emotions beyond human reach — the range problem, not the structure problem
 - [[intrinsic-nature-void]] — What matter is in itself — valence as a case of intrinsic nature
 - [[origin-of-consciousness]] — Why consciousness exists at all — the most logically prior void
@@ -114,8 +121,6 @@ The valence void connects to the Map's [[tenets|foundational commitments]] at mu
 
 ## References
 
-1. Carruthers, P. (2018). Valence and Value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
 1. Johnson, M. E. (2016). *Principia Qualia*. Qualia Research Institute.
-1. Metzinger, T. (2020). Minimal Phenomenal Experience. *Philosophy and the Mind Sciences*, 1(I), 7.
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 1. Veit, W. (2024). Hedonic Valence at the Core of Consciousness. *Philosophy and the Mind Sciences*.

@@ -4,7 +4,7 @@ description: "Why does pain feel bad? Emotional consciousness poses the hard pro
 created: 2026-01-19
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-03T12:41:00+00:00
+ai_modified: 2026-03-04T05:41:00+00:00
 last_deep_review: 2026-03-03T12:41:00+00:00
 draft: false
 topics:
@@ -25,6 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[emotional-consciousness-valence-2026-01-19]]"
+  - "[[valence-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -100,7 +101,7 @@ The hard problem extends fully to valence. Why does pain feel *bad*? A complete 
 
 Functionalists respond that the badness *is* the functional role: what makes pain feel bad is precisely its motivational force, its tendency to dominate attention, its negative reinforcement value. But this conflates *what badness does* with *what badness is*. The motivational properties are functional; the felt quality is phenomenal. Pain asymbolics show these can dissociate.
 
-The explanatory gap for valence is particularly stark because valence seems so simple—just positive or negative—yet resists reduction completely. If we cannot explain why pain feels bad, what hope for explaining the richer textures of emotions: grief's heaviness, joy's lightness, shame's contraction?
+The explanatory gap for valence is particularly stark because valence seems so simple—just positive or negative—yet resists reduction completely. If we cannot explain why pain feels bad, what hope for explaining the richer textures of emotions: grief's heaviness, joy's lightness, shame's contraction? The [[valence-void]] examines this inexplicability as a structurally irresolvable limit—one deepened by the circularity that any attempt to explain valence uses valenced cognition.
 
 ## Emotional Consciousness and Moral Status
 
@@ -193,6 +194,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles
 - [[why-pain-hurts]] — The inseparability of pain's phenomenal character and causal power
 - [[epistemic-emotions]] — Feelings directed at knowledge: curiosity, doubt, insight
+- [[valence-void]] — Why the evaluative dimension of experience resists all explanation
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
 - [[problem-of-other-minds]] — How we know others are conscious
 - [[ai-consciousness]] — Whether artificial systems can be phenomenally conscious
