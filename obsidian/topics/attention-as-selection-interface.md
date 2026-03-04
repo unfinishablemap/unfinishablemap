@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-04T03:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,8 +23,10 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[agent-causation]]"
   - "[[concepts/functionalism]]"
+  - "[[adaptive-computational-depth]]"
 related_articles:
   - "[[tenets]]"
+  - "[[asymmetric-bandwidth-of-consciousness]]"
   - "[[attention-consciousness-dissociation]]"
   - "[[attention-as-interface-hypothesis-2026-01-16]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
@@ -36,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-11T12:19:00+00:00
+last_deep_review: 2026-03-04T03:41:00+00:00
 coalesced_from:
   - "/topics/attention-motor-planning-quantum-interface/"
   - "/topics/attention-interface-mechanisms/"
@@ -57,7 +59,7 @@ The evidence is substantial:
 - Microstimulation of motor regions enhances visual processing at the target location
 - Attempts to identify attention regions independent of motor planning consistently fail
 
-The strong form of PMTA remains debated, but the evidence for shared circuitry between attention and motor preparation is robust. Wise and Murray (2022) extended this, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor in nature." What appears to be "executive function" is an action abstraction hierarchy—from concrete motor commands to abstract goals. The question "what should I think about?" is motor preparation at its most abstract.
+The strong form of PMTA remains debated, but the evidence for shared circuitry between attention and motor preparation is robust. Wise and Murray (2022) extended this, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor in nature." What appears to be "executive function" is motor preparation at varying levels of abstraction—from concrete commands to "what should I think about?"
 
 ### Shared Neural Signatures
 
@@ -107,7 +109,7 @@ Dopamine doesn't cause movement; it tags what matters. Consciousness doesn't gen
 
 The architecture illuminates clinical observations. Parkinson's patients can move when externally prompted but struggle with self-initiated movement. Dopamine depletion raises the selection threshold beyond what normal conscious engagement can overcome—the interface hardware is degraded, not the consciousness that uses it.
 
-The 2024 research also distinguishes tonic (background) from phasic (event-locked) dopamine. A 2024 *Brain* study found dopamine promotes theta rhythms (4-10 Hz)—the same frequency band associated with willed attention, suggesting dopamine prepares the neural timing substrate within which selection occurs.
+A separate 2024 *Brain* study found dopamine promotes theta rhythms (4-10 Hz)—the same frequency band associated with willed attention—suggesting dopamine prepares the timing substrate for selection.
 
 ## What Effort Tells Us
 
@@ -135,7 +137,7 @@ This maps directly onto the Map's framework. Intention—the conscious selection
 
 ## Candidate Neural Sites
 
-Research identifies several loci where consciousness might bias outcomes. The Unfinishable Map doesn't commit to a specific mechanism—what matters is the framework: consciousness acts on matter through attention, at sites where quantum indeterminacy leaves room for selection.
+Research identifies several loci where consciousness might bias outcomes. The Map doesn't commit to a specific mechanism—what matters is the framework: consciousness acts through attention at sites where quantum indeterminacy leaves room.
 
 ### Ion Channels (Stapp)
 
@@ -157,7 +159,7 @@ The 2025 COGITATE adversarial testing found conscious content tracked better wit
 
 ### Thalamic Nuclei
 
-The thalamus relays ascending sensory signals while receiving descending voluntary signals from frontal cortex. Dynamic causal modelling identifies bidirectional traffic at thalamic sites during attention shifts—the thalamus actively selects, not merely relays.
+The thalamus relays ascending sensory signals while receiving descending voluntary signals. Dynamic causal modelling identifies bidirectional traffic at thalamic sites during attention shifts—active selection, not mere relay.
 
 ### Other Proposals
 
@@ -179,7 +181,7 @@ For quantum mechanisms to work, decoherence must be slow enough to permit meanin
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly less than the brain's total throughput. This shapes what consciousness can select: coarse-grained policies and action patterns, not individual neural events. The brain generates and evaluates options unconsciously; consciousness selects among results. This pattern—detail resolving where consciousness engages—echoes the broader principle of [[adaptive-computational-depth|adaptive computational depth]].
+Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2024). Yet sensory systems deliver ~10⁹ bits per second to the brain. This [[asymmetric-bandwidth-of-consciousness|100-million-fold asymmetry]] defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3–4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts. The brain generates and evaluates options unconsciously; consciousness selects among results at this narrow bottleneck, a pattern echoing the broader principle of [[adaptive-computational-depth|adaptive computational depth]].
 
 ## Testable Predictions
 
@@ -191,7 +193,7 @@ The interface hypothesis generates empirical predictions:
 
 **Attention disruption eliminates selection.** Agents that disrupt attention (without eliminating consciousness) should eliminate conscious influence on outcomes. Agents eliminating consciousness should also eliminate influence even if attention mechanisms remain operational.
 
-**Bandwidth limits match selection limits.** Tasks requiring faster selection than ~10 bits/second should fail or become automatic (unconscious).
+**Bandwidth limits match selection limits.** Tasks requiring faster selection than the ~10 bits/second ceiling (Zheng & Meister, 2024) should fail or become automatic (unconscious).
 
 **Differential neuroplasticity.** Effortful attention should produce different neuroplastic outcomes than passive observation of the same neural patterns. Schwartz's OCD research supports this—directed attention produces brain changes that passive processing doesn't.
 
@@ -214,7 +216,7 @@ The interface framework presupposes consciousness is distinct from attention mec
 
 ### Minimal Quantum Interaction
 
-The selection architecture satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] precisely. Consciousness doesn't generate motor force—the brain does that. Consciousness doesn't create options—neural computation does that. What consciousness contributes is bias at the moment of resolution. All candidate mechanisms satisfy this: consciousness biases indeterminate outcomes at sites where physics leaves room. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes.
+The selection architecture satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] precisely. Consciousness neither generates motor force nor creates options—the brain handles both. What consciousness contributes is bias at the moment of resolution: tilting indeterminate outcomes at sites where physics leaves room. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes.
 
 ### Bidirectional Interaction
 
@@ -230,7 +232,7 @@ Under [[tenets#^no-many-worlds|many-worlds]], all competing motor programs execu
 
 ### Occam's Razor Has Limits
 
-The 2025 adversarial testing found neither Global Workspace Theory nor Integrated Information Theory fully explains consciousness. Simple computational theories capture functional roles but not why attention feels effortful or why consciousness seems to contribute. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies: apparent simplicity may reflect incomplete understanding rather than genuine parsimony.
+The 2025 adversarial testing found neither Global Workspace Theory nor Integrated Information Theory fully explains consciousness. Computational theories capture functional roles but not why attention feels effortful or why consciousness contributes. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies: apparent simplicity may reflect incomplete understanding rather than genuine parsimony.
 
 ## Honest Limitations
 
@@ -243,6 +245,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 ## Further Reading
 
 - [[attention-as-interface]] — The interface hypothesis stated and developed
+- [[asymmetric-bandwidth-of-consciousness]] — The 100-million-fold inbound/outbound bandwidth asymmetry as evidence for the interface model
 - [[attention-consciousness-dissociation]] — Evidence that attention and consciousness can come apart
 - [[attention-motor-quantum-interface]] — Detailed concept treatment of the unified interface
 - [[motor-selection]] — Motor selection and premotor theory in depth
@@ -275,7 +278,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 7. Keppler, J. (2025). Cortical microcolumns and the quantum zero-point field. *Frontiers in Human Neuroscience*.
 
-8. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
+8. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 
 9. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
 

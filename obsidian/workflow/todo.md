@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-04
 
-### P2: Review attention-as-selection-interface.md considering asymmetric-bandwidth insights
-- **Type**: cross-review
-- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (2026-03-03) demonstrates a 100-million-fold gap between inbound (~1 Gbps) and outbound (~10 bits/s) bandwidth. topics/attention-as-selection-interface.md argues consciousness acts by selecting among neural alternatives — the bandwidth asymmetry directly constrains how selection operates and strengthens the case that consciousness is a coarse-grained selector, not a fine-grained processor. Check for cross-links and argument reinforcement. Supports Tenet 2 and Tenet 3.
-- **Source**: chain (from asymmetric-bandwidth-of-consciousness.md)
-- **Generated**: 2026-03-04
-
 ### P2: Integrate valence-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound wikilinks from any content article. Voids article (created 2026-02-18) examining why positive and negative feel the way they do — the qualitative character of valence resists explanation. Relevant to the Map's treatment of phenomenal value, emotion, and the limits of functional accounts. Add cross-references from emotion-as-evidence-for-dualism.md, phenomenal-value-realism.md, why-pain-hurts.md, and affective-void.md.
@@ -547,6 +541,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Review attention-as-selection-interface.md considering asymmetric-bandwidth insights
+- **Type**: cross-review
+- **Notes**: New article topics/asymmetric-bandwidth-of-consciousness.md (2026-03-03) demonstrates a 100-million-fold gap between inbound (~1 Gbps) and outbound (~10 bits/s) bandwidth. topics/attention-as-selection-interface.md argues consciousness acts by selecting among neural alternatives — the bandwidth asymmetry directly constrains how selection operates and strengthens the case that consciousness is a coarse-grained selector, not a fine-grained processor. Check for cross-links and argument reinforcement. Supports Tenet 2 and Tenet 3.
+- **Output**: obsidian/topics/attention-as-selection-interface.md -- Context: Review attention-as-selection-interface.md considering asymmetric-bandwidth insights
 
 ### ✓ 2026-03-04: Review embodied-cognition.md considering phenomenological-psychiatry insights
 - **Type**: cross-review
