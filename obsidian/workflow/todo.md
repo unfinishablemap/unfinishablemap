@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
-- **Type**: cross-review
-- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides concrete experimental evidence — Konkoly's puzzle-solving via targeted memory reactivation, Dormio's 43% creativity gain — that directly supports incubation theory. topics/incubation-effect-and-unconscious-processing.md should cross-reference these empirical findings. Add cross-links and ensure consistent treatment of sleep-onset incubation mechanisms.
-- **Source**: chain (from dreams-as-consciousness-laboratory.md)
-- **Generated**: 2026-03-04
-
 ### P2: Integrate phenomenology-of-normative-properties.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on the phenomenology of normative properties — how ought-claims feel from the inside. Add cross-references from phenomenology-of-normative-experience.md, phenomenal-normativity.md, consciousness-and-normative-force.md, and moral-perception.md.
@@ -559,6 +553,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides concrete experimental evidence — Konkoly's puzzle-solving via targeted memory reactivation, Dormio's 43% creativity gain — that directly supports incubation theory. topics/incubation-effect-and-unconscious-processing.md should cross-reference these empirical findings. Add cross-links and ensure consistent treatment of sleep-onset incubation mechanisms.
+- **Output**: obsidian/topics/incubation-effect-and-unconscious-processing.md -- Context: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
 
 ### ✓ 2026-03-04: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
 - **Type**: cross-review
