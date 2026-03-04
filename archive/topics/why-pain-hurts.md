@@ -44,6 +44,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
 last_deep_review: 2026-02-23T11:35:00+00:00
+archived: true
+archived_date: 2026-03-04T19:32:00+00:00
+superseded_by: "/topics/pain-consciousness-and-causal-power/"
+archive_reason: "Coalesced into Pain, Consciousness, and Causal Power"
+original_path: "/topics/why-pain-hurts/"
 coalesced_from:
   - "/topics/consciousness-and-pain/"
   - "/topics/phenomenology-of-pain/"

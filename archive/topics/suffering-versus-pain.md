@@ -28,6 +28,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-02-19T19:36:00+00:00
+archived: true
+archived_date: 2026-03-04T19:32:00+00:00
+superseded_by: "/topics/pain-consciousness-and-causal-power/"
+archive_reason: "Coalesced into Pain, Consciousness, and Causal Power"
+original_path: "/topics/suffering-versus-pain/"
 ---
 
 Pain and suffering are not the same thing. Pain is a sensory event—nociceptive signals carrying information about tissue damage. Suffering is what consciousness does with that information, and much else besides. The Unfinishable Map holds that this distinction is not merely clinical but philosophically fundamental: suffering reveals dimensions of conscious experience that pain alone does not, and their separability exposes the limits of physicalist explanation more sharply than either phenomenon considered in isolation.

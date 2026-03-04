@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 19:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[suffering-versus-pain]], [[pain-asymbolia-as-central-test-case]], [[why-pain-hurts]]
+- **Target**: [[topics/pain-consciousness-and-causal-power]]
+- **Archived**: [[archive/topics/suffering-versus-pain]], [[archive/topics/pain-asymbolia-as-central-test-case]], [[archive/topics/why-pain-hurts]]
+- **References to review**: ~30 files (follow-up task created)
+
 ## 2026-03-04 19:17 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Duhem-Quine underdetermination in consciousness science

@@ -33,6 +33,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
 last_deep_review: 2026-02-23T00:28:00+00:00
+archived: true
+archived_date: 2026-03-04T19:32:00+00:00
+superseded_by: "/topics/pain-consciousness-and-causal-power/"
+archive_reason: "Coalesced into Pain, Consciousness, and Causal Power"
+original_path: "/topics/pain-asymbolia-as-central-test-case/"
 ---
 
 [[pain-asymbolia|Pain asymbolia]]—the neurological condition in which patients detect nociceptive stimuli but lack the felt awfulness of suffering—is not merely an interesting clinical curiosity. The Unfinishable Map holds that it is the single most discriminating empirical test case in philosophy of mind. Where thought experiments like [[philosophical-zombies]] remain debatable in their conceivability, asymbolia is actual. Where [[blindsight]] dissociates visual awareness from visual processing, asymbolia dissociates something far harder to dismiss: the felt hurtfulness of pain from the sensory detection of tissue damage. Every major theory of consciousness must give an account of what asymbolia patients are missing and why—and those accounts reveal the theories' deepest commitments with unusual clarity.

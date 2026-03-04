@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced pain articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[topics/pain-consciousness-and-causal-power]]. The following active files reference archived articles ([[suffering-versus-pain]], [[pain-asymbolia-as-central-test-case]], [[why-pain-hurts]]) and may need wikilinks updated to point to the new unified article: valence.md, pain-asymbolia.md, consciousness-and-moral-agency-under-duress.md, ethics-of-consciousness.md, mental-causation.md, valence-void.md, consciousness-and-causal-powers.md, reductionism-and-consciousness.md, disorders-of-consciousness-as-test-cases.md, phenomenal-normativity-environmental-ethics.md, emotional-consciousness.md, evolutionary-case-for-mental-causation.md, qualia.md, epiphenomenalism.md, consciousness-and-neurodegenerative-disease.md, placebo-effect-and-mental-causation.md, consciousness-and-the-ontology-of-dispositions.md
+- **Source**: coalesce
+- **Generated**: 2026-03-04
+
 ### P2: Cross-review duhem-quine-underdetermination-consciousness against related articles
 - **Type**: cross-review
 - **Notes**: Review [[topics/duhem-quine-underdetermination-consciousness]] in context of [[concepts/philosophy-of-science-under-dualism]], [[arguments/epistemological-limits-of-occams-razor]], and related consciousness methodology articles. Check for consistency, add inbound links.
