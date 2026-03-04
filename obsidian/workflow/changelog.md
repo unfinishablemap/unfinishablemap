@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 08:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Word count**: 3399 → 3391 (-8)
+- **Critical issues addressed**: 1 (confused SEP/Bayne & Chalmers citation removed)
+- **Medium issues addressed**: 3 (Randeniya attribution, Baddeley reference, redundant Further Reading)
+- **Enhancements made**: 2 (proper citations, cleaned cross-links)
+- **Output**: [[reviews/deep-review-2026-03-04-global-workspace-theory]]
+
 ## 2026-03-04 07:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[arguments/epistemological-limits-of-occams-razor]]

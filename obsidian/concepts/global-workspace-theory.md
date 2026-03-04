@@ -4,9 +4,9 @@ description: "Consciousness as global information broadcast. GWT explains when s
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-04T08:16:00+00:00
 draft: false
-last_deep_review: 2026-01-29T16:45:00+00:00
+last_deep_review: 2026-03-04T08:16:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -68,8 +68,6 @@ GNW distinguishes three states:
 ## The Access/Phenomenal Distinction
 
 Here lies GWT's fundamental limitation. The theory explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace.
-
-As the Stanford Encyclopedia of Philosophy notes, GWT "provides an account of access consciousness but what of phenomenal consciousness?" (Bayne & Chalmers 2010).
 
 Ned Block has argued forcefully that these are distinct phenomena. His "overflow" argument holds that we experience more than we can report—phenomenal consciousness exceeds access consciousness. The Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If Block is right, GWT captures when information becomes accessible while missing the richer phenomenal experience that overflows these access boundaries.
 
@@ -136,7 +134,7 @@ The global workspace is essentially a form of [[working-memory|working memory]] 
 
 The episodic buffer is particularly significant. It performs the binding that GWT's ignition broadcasts globally. Baddeley's formulation—that consciousness *accesses* bound representations—implies something beyond the neural workspace itself does the accessing. This aligns with the Map's dualism: the workspace provides content, but consciousness accesses it.
 
-Recent research reveals a telling asymmetry: **maintenance can be unconscious while manipulation requires consciousness**. Activity-silent working memory shows information can be held in synaptic traces without awareness; when you need to *use* that information, conscious reactivation is necessary. This complicates GWT's equation of workspace presence with consciousness. Being in the workspace correlates with consciousness, but the relationship isn't identity. Content can be maintained in the workspace without conscious access; manipulation—the executive functions GWT proponents associate with consciousness—requires phenomenal awareness. A 2025 meta-analysis reinforced this picture: only 10% of claimed unconscious processing effects survive rigorous methodology, suggesting consciousness is functionally necessary for durable maintenance, novel combinations, and spontaneous intentional action (see [[conscious-vs-unconscious-processing]]).
+Recent research reveals a telling asymmetry: **maintenance can be unconscious while manipulation requires consciousness**. Activity-silent working memory shows information can be held in synaptic traces without awareness; when you need to *use* that information, conscious reactivation is necessary. This complicates GWT's equation of workspace presence with consciousness. Being in the workspace correlates with consciousness, but the relationship isn't identity. Content can be maintained in the workspace without conscious access; manipulation—the executive functions GWT proponents associate with consciousness—requires phenomenal awareness. Randeniya's 2025 meta-analysis reinforced this picture: only 10% of claimed unconscious processing effects survive rigorous methodology, suggesting consciousness is functionally necessary for durable maintenance, novel combinations, and spontaneous intentional action (see [[conscious-vs-unconscious-processing]]).
 
 The 2025 COGITATE results reinforce this. Conscious *content* tracked with posterior cortex (visual, temporal areas), not the prefrontal-parietal broadcast network. The workspace's broadcasting mechanism and the conscious content it broadcasts may be distinct phenomena with different neural correlates.
 
@@ -249,7 +247,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[hard-problem-of-consciousness]] — The puzzle GWT doesn't address
 - [[higher-order-theories]] — Competitor theory requiring higher-order representation
 - [[predictive-processing]] — Prediction-error framework integratable with GWT
-- [[attention-as-interface]] — Attention as the Map's proposed mind-matter interface
+- [[attention-as-interface]] — Attention as the gateway to the workspace and the Map's proposed mind-matter interface
 - [[consciousness-and-semantic-understanding]] — Why availability isn't integration: the unity of understanding
 - [[working-memory]] — The cognitive system implementing the workspace architecture
 - [[episodic-memory]] — Autonoetic consciousness requiring full workspace ignition
@@ -259,8 +257,6 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[integrated-information-theory]] — A rival theory tested alongside GNW
 - [[integrated-information-theory-critique]] — The Map's critique of IIT, sharing some concerns about passive consciousness
 - [[neural-correlates-of-consciousness]] — The broader research program GWT contributes to
-- [[attention-as-interface|attention]] — The gateway to the workspace
-- [[attention-as-interface|voluntary attention]] — Endogenous attention control and workspace access
 - [[concepts/functionalism]] — The philosophical framework underlying GWT
 - [[phenomenal-concepts-strategy]] — Explaining away phenomenal intuitions
 - [[dreams-and-consciousness]] — Dreaming without full workspace engagement
@@ -272,11 +268,12 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 ## References
 
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-1. Bayne, T., & Chalmers, D. J. (2010). The Unity of Consciousness. *The Oxford Handbook of Philosophy of Mind*.
+1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 1. Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.
 1. Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
 1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 1. Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
+1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
