@@ -4,8 +4,8 @@ description: "The brain's ability to reorganize through experience—and why Sch
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
-last_deep_review: 2026-01-29T18:30:00+00:00
+ai_modified: 2026-03-04T19:03:00+00:00
+last_deep_review: 2026-03-04T19:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -15,12 +15,12 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[bidirectional-causation]]"
+  - "[[bidirectional-interaction]]"
   - "[[attention-as-interface]]"
   - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-evidence-for-consciousness-theories]]"
+  - "[[contemplative-evidence-for-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -89,7 +89,9 @@ Epiphenomenalists can offer an alternative account: the pathway is *neural inten
 
 This response preserves epiphenomenalism but at a cost. It requires that the phenomenology of mental effort—the felt difference between effortful attention and passive drift—is systematically misleading about causal structure. The patient *feels* like they're doing something, but the feeling is decoration on mechanical processes.
 
-The Map finds this response unsatisfying for reasons outlined in the [[mental-effort]] article: if effort phenomenology is causally disconnected from actual effort-allocation, why does it track genuine difficulty? Why would evolution produce accurate phenomenology of cognitive load if that phenomenology contributes nothing?
+A stronger physicalist response avoids this cost: identity theorists and functionalists hold that mental states *are* brain states, so of course "deciding to redirect attention" causes neural changes—a mental event just is a neural event. On this view, neuroplasticity poses no problem because there is no gap between mind and brain for causation to cross. The Map's response: if mental states are identical to brain states, the [[hard-problem-of-consciousness|hard problem]] reasserts itself. Why does this particular neural pattern feel like effortful attention rather than nothing at all? Identity theory purchases causal relevance by abandoning any explanation of why consciousness exists.
+
+The Map finds the epiphenomenalist response unsatisfying for reasons outlined in the [[mental-effort]] article: if effort phenomenology is causally disconnected from actual effort-allocation, why does it track genuine difficulty? Why would evolution produce accurate phenomenology of cognitive load if that phenomenology contributes nothing?
 
 ## Meditation and Contemplative Training
 
@@ -103,7 +105,7 @@ Neuroplasticity research extends beyond clinical populations to contemplative pr
 
 These findings replicate the pattern from Schwartz's OCD research: directed mental practice produces neural change. Contemplative traditions have long claimed that training attention transforms the mind; neuroscience now confirms the transformation is physical as well as phenomenological.
 
-See [[contemplative-evidence-for-consciousness-theories]] for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [[contemplative-neuroscience]] for how meditation research bridges first-person phenomenology and third-person neuroscience.
+See [[contemplative-evidence-for-consciousness]] for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [[contemplative-neuroscience]] for how meditation research bridges first-person phenomenology and third-person neuroscience.
 
 ## Attention as the Mechanism
 
@@ -143,6 +145,8 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 **[[tenets#^dualism|Dualism]]**: If consciousness merely accompanies neural processes without contributing to them, the detailed match between *what* patients attend to and *which* brain regions change becomes coincidental. Interactionist dualism explains the match: consciousness selects patterns, and selected patterns become structurally reinforced. The specificity of the correlation—redirect attention away from obsessive content, and the obsession circuits quiet—suggests more than mere correlation.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Stapp's interpretation of Schwartz's data invokes the quantum Zeno effect as the mechanism. Conscious attention repeatedly "observes" desired neural states, preventing their decay and allowing consolidation. This doesn't inject energy or violate conservation laws—it shapes which possibilities actualise. The Map doesn't commit to this specific mechanism, but it exemplifies how consciousness could interface with physics at quantum indeterminacies.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Stapp's quantum Zeno mechanism requires genuine collapse—consciousness selects *one* outcome from a superposition. Under the [[concepts/many-worlds|Many-Worlds Interpretation]], all outcomes occur in parallel branches and there is nothing for consciousness to select. The Map's rejection of MWI preserves the space in which conscious attention can play a causal role in neural plasticity.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The materialist can always say neuroplasticity is "just neurons causing neurons." This explanation is simpler in one sense—it requires no non-physical causation. But it purchases simplicity by ignoring the phenomenology: the felt effort of directing attention, the match between intention and outcome, the difference between willed and merely instructed attention. Sometimes the simpler story omits the most important datum.
 
