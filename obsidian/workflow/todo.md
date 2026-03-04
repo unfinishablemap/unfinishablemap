@@ -521,6 +521,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The qualitative, experiential dimension of attending — distinct from computational attention (resource allocation) and attention schema (brain's model of attention). Currently conflated across many articles. Would sharpen the argument against AST, clarify the quantum Zeno mechanism, and address the bandwidth asymmetry. Builds on attention-as-selection-interface.md, attention-schema-theory.md, mental-effort.md, asymmetric-bandwidth-of-consciousness.md. See [[reviews/optimistic-2026-03-04]].
 - **Generated**: 2026-03-04
 
+### P2: Write article on dreams, problem-solving, and lucid dreaming
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Dreams as a cognitive problem-solving laboratory, lucid dreaming as evidence for metacognitive capacities, and the Konkoly et al. findings on two-way REM communication. Synthesise into a site article examining what dream phenomenology reveals about the consciousness-brain interface. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-04
+
+### P2: Integrate materialism-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound body-text wikilinks from any content article — only referenced in frontmatter of two files. Arguments article (created 2026-01-06) presenting the materialist case against dualism. As a counterposition the Map engages with frequently, it should be easily discoverable. Add cross-references from arguments-for-dualism.md, physicalism.md, hard-problem-of-consciousness.md, and related articles engaging materialist arguments.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
+### P3: Deep review global-workspace-theory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Global Workspace Theory is a foundational theory of consciousness that the Map engages with across many articles. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
+### P3: Deep review quantum-indeterminacy-free-will.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Connects quantum indeterminacy to free will — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
+### P3: Deep review moral-responsibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 33 days ago, beyond the 30-day staleness threshold. Covers moral responsibility under dualism — connects to Tenet 3 (Bidirectional Interaction) and the Map's ethics cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-04
+
 ## Completed Tasks
 
 
