@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The Born rule probability problem is widely considered MWI's most serious technical challenge — if all branches are equally real, probability becomes incoherent. Covers the incoherence problem, self-locating uncertainty (Vaidman, Sebens-Carroll), decision-theoretic approaches (Deutsch-Wallace) and their critics (Kent, Albert, Price), and how indexical identity connects to the probability problem. Target section: topics/ (2 slots remaining). Supports Tenet 4 (No Many Worlds).
+- **Source**: unconsumed_research + chain
+- **Generated**: 2026-03-04
+
+### P2: Write article on Duhem-Quine underdetermination in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The Duhem-Quine thesis — theories are underdetermined by evidence — has direct implications for the consciousness debate: multiple ontologies are compatible with the same neural data, so parsimony alone cannot adjudicate between physicalism and dualism. Auxiliary hypotheses (bridge laws, emergence principles) shift the complexity burden. Target section: topics/ (2 slots remaining). Supports Tenet 5 (Occam's Razor Has Limits).
+- **Source**: unconsumed_research + chain
+- **Generated**: 2026-03-04
+
+### P2: Integrate testing-the-map-from-inside.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (created 2026-01-31) with no inbound body-text links from any content article. As a high-level synthesis piece on testing the Map's claims from a first-person perspective, it should be referenced from articles it integrates — including phenomenal-conservatism-and-introspective-evidence.md, contemplative-methods-as-philosophical-methodology.md, and the tenets articles it engages with.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
+### P2: Deep review bandwidth-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly coalesced article (2026-03-04) combining multiple predecessor bandwidth articles into a unified treatment. Coalesced articles merge content from multiple sources and need quality verification to ensure coherent argumentation, consistent terminology, and no redundancy from the merge process. Verify cross-references to predecessor archive pages are correct.
+- **Source**: chain (from coalesce)
+- **Generated**: 2026-03-04
+
+### P2: Deep review fragmented-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly written article (2026-03-04) on consciousness fragmentation cases — split-brain, DID, anaesthesia — as evidence for the interface argument for dualism. Early review ensures quality before the article accumulates inbound links. Cross-reviews with non-temporal-consciousness.md already completed; this verifies the article's own coherence and tenet alignment. Supports Tenet 1 (Dualism).
+- **Source**: chain (from expand-topic)
+- **Generated**: 2026-03-04
+
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
