@@ -596,6 +596,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-03-04. Embodied cognition challenges Cartesian dualism but not the Map's interactionist framework. Phantom limbs, proprioceptive illusions, interoceptive awareness, and body schema disruptions all illuminate how the body shapes consciousness within a dualist framework. Builds on embodied-consciousness-and-the-interface.md, somatic-interface.md, philosophy-of-perception-under-dualism.md. Target section: topics/. See [[reviews/optimistic-2026-03-04-afternoon]].
 
+### P3: Write article on consciousness and mathematical knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04 evening. Mathematical knowledge poses a unique challenge for physicalism: mathematical truths are abstract, necessary, and discovered rather than invented. How does a physical brain access abstract mathematical facts? Gödel's incompleteness theorems and Penrose's argument that mathematical insight transcends computation are relevant. Builds on argument-from-reason.md, qualia.md, cognitive-phenomenology. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-04-evening]].
+
+### P3: Write article on the phenomenology of moral deliberation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-04 evening. Moral deliberation involves phenomenal character (the felt weight of obligation, the pull of competing values) that resists functional reduction. The aesthetic article's treatment of normative-qualitative entanglement has a natural moral counterpart. Builds on aesthetic-dimension-of-consciousness.md, phenomenal-value-realism, phenomenology-of-moral-experience. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-04-evening]].
+
 ## Completed Tasks
 
 
