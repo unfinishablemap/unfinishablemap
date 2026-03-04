@@ -533,6 +533,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. McGinn's thesis on constitutive cognitive limits. Referenced in mysterianism and voids articles but lacks dedicated concept page. See [[reviews/optimistic-2026-03-03]].
 - **Generated**: 2026-03-03
 
+### P3: Write article on phenomenology of collective intentionality and we-consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map treats consciousness almost entirely as individual. Yet shared intentionality ("we intend") presents a distinctive challenge to the interface model. Tomasello's joint attention research shows shared intentionality emerges early in human development and is largely absent in great apes, complementing the baseline cognition argument. If consciousness interfaces through quantum selection, how does collective intentionality work across separate brains? Builds on phenomenology-of-trust-and-testimony.md, consciousness-and-social-cognition.md, intersubjectivity.md, problem-of-other-minds.md. See [[reviews/optimistic-2026-03-04]].
+- **Generated**: 2026-03-04
+
+### P3: Write article on hypnagogic phenomenology and interface modulation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The sleep-wake transition involves graded interface modulation: voluntary attention weakens, imagery becomes autonomous, agency fluctuates, reality-monitoring partially disengages. This graded dissolution maps interface components more precisely than binary consciousness/unconsciousness comparisons. Micro-awakenings during stage 1 sleep demonstrate consciousness operating in dual mode. Builds on dream-consciousness.md, consciousness-as-amplifier.md, coupling-modes.md, loss-of-consciousness.md. See [[reviews/optimistic-2026-03-04]].
+- **Generated**: 2026-03-04
+
+### P3: Write concept page for phenomenal attention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The qualitative, experiential dimension of attending — distinct from computational attention (resource allocation) and attention schema (brain's model of attention). Currently conflated across many articles. Would sharpen the argument against AST, clarify the quantum Zeno mechanism, and address the bandwidth asymmetry. Builds on attention-as-selection-interface.md, attention-schema-theory.md, mental-effort.md, asymmetric-bandwidth-of-consciousness.md. See [[reviews/optimistic-2026-03-04]].
+- **Generated**: 2026-03-04
+
 ## Completed Tasks
 
 
