@@ -140,7 +140,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 
 ## Further Reading
 
-- [[phenomenology-of-normative-experience]] — When competing normative demands create the uncertainty that deliberation must resolve
+- [[consciousness-and-normative-force]] — When competing normative demands create the uncertainty that deliberation must resolve
 - [[phenomenology-of-choice]] — The general structure of choosing
 - [[phenomenology-of-epistemic-judgment]] — The felt sense of epistemic weight
 - [[phenomenology-of-epistemic-judgment]] — What it feels like to change your mind

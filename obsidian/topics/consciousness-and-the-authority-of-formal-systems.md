@@ -34,7 +34,7 @@ concepts:
   - "[[meta-problem-of-consciousness]]"
 related_articles:
   - "[[argument-from-reason]]"
-  - "[[consciousness-and-the-grounds-of-normative-authority]]"
+  - "[[consciousness-and-normative-force]]"
   - "[[consciousness-and-mathematical-cognition]]"
   - "[[mathematical-void]]"
   - "[[phenomenology-of-intellectual-effort]]"
@@ -136,7 +136,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 ## Further Reading
 
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
-- [[consciousness-and-the-grounds-of-normative-authority]] — Normative authority across moral, epistemic, and aesthetic domains
+- [[consciousness-and-normative-force]] — Normative authority across moral, epistemic, aesthetic, and prudential domains
 - [[cognitive-phenomenology]] — Whether thinking has its own phenomenal character
 - [[consciousness-and-mathematical-cognition]] — Mathematical insight and creativity as evidence for consciousness doing causal work
 - [[mathematical-void]] — Where formal manipulation succeeds but genuine understanding fails

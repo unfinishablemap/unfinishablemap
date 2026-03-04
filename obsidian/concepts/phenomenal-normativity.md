@@ -183,7 +183,7 @@ Phenomenal normativity would face pressure if:
 - [[consciousness-value-connection]] — Why value requires consciousness
 - [[qualia]] — The qualitative features of experience
 - [[emotional-consciousness]] — Valence as the felt quality of emotions
-- [[phenomenology-of-normative-experience]] — How phenomenal normativity manifests across moral, epistemic, aesthetic, and prudential domains
+- [[consciousness-and-normative-force]] — How phenomenal normativity manifests across moral, epistemic, aesthetic, and prudential domains
 - [[aesthetic-dimension-of-consciousness]] — Aesthetic normativity beyond hedonic valence
 - [[meaning-of-life]] — How consciousness grounds meaning
 - [[experiential-alignment]] — Operationalizing phenomenal normativity for AI alignment

@@ -192,7 +192,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 - [[moral-perception]] — The capacity to perceive ethical properties directly
 - [[moral-phenomenology]] — The philosophical study of moral experience's felt character
 - [[phenomenal-normativity]] — The thesis that phenomenal states carry intrinsic normative force
-- [[phenomenology-of-normative-experience]] — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
+- [[consciousness-and-normative-force]] — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [[normative-phenomenology]] — First-person investigation of normative experience broadly
 - [[emotional-consciousness]] — Valence as the felt quality of emotion
 - [[aesthetic-dimension-of-consciousness]] — Why aesthetic experience resists reduction

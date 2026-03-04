@@ -9,7 +9,7 @@ last_deep_review: 2026-02-16T16:29:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
-  - "[[phenomenology-of-normative-experience]]"
+  - "[[consciousness-and-normative-force]]"
 concepts:
   - "[[phenomenology]]"
   - "[[phenomenal-normativity]]"
@@ -45,7 +45,7 @@ This bracketing is not scepticism about normativity. It is methodological discip
 
 ### Scope Across Normative Domains
 
-The [[phenomenology-of-normative-experience]] article maps four domains where normative experience arises: moral, epistemic, aesthetic, and prudential. Normative phenomenology investigates all four, treating the diversity as evidence about the structure of normativity itself. The shared demand character—the fact that all normative experiences present their objects as calling for response—is a phenomenological finding, not a theoretical assumption.
+The [[consciousness-and-normative-force]] article maps four domains where normative experience arises: moral, epistemic, aesthetic, and prudential. Normative phenomenology investigates all four, treating the diversity as evidence about the structure of normativity itself. The shared demand character—the fact that all normative experiences present their objects as calling for response—is a phenomenological finding, not a theoretical assumption.
 
 This breadth distinguishes normative phenomenology from moral phenomenology alone. The phenomenology of obligation, the phenomenology of evidential weight, the phenomenology of beauty, and the phenomenology of prudential pull are related investigations within a unified methodological programme.
 
@@ -139,7 +139,7 @@ Normative phenomenology connects to the Map's [[tenets|foundational commitments]
 
 ## Further Reading
 
-- [[phenomenology-of-normative-experience]] — The phenomenal character of normative experience across domains
+- [[consciousness-and-normative-force]] — The phenomenal character of normative experience across domains
 - [[phenomenal-normativity]] — The metaphysical thesis that phenomenal states carry intrinsic normative force
 - [[moral-perception]] — Direct apprehension of ethical properties in experience
 - [[phenomenology]] — The broader phenomenological tradition

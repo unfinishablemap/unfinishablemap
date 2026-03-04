@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and Normative Force"
-description: "How consciousness generates the binding force of normative claims across moral, epistemic, aesthetic, and prudential domains—and what their shared phenomenal architecture and collisions reveal about irreducible mental causation."
+description: "Why normative claims grip us: the shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands as evidence for irreducible consciousness."
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T06:41:00+00:00
+ai_modified: 2026-03-04T07:40:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-experience]]"
@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-04T07:40:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-normative-experience/"
   - "/topics/consciousness-and-the-grounds-of-normative-authority/"
@@ -66,7 +66,7 @@ The problem sharpens at the boundary of consciousness. A thermostat "recognises"
 
 **Contractualism** grounds normative force in what rational agents would agree to under idealised conditions. But hypothetical agreement lacks phenomenal grip. The fact that idealised agents *would* agree does not explain why *you*, here, now, feel bound.
 
-**Naturalism** identifies normative facts with natural facts. But even setting aside Moore's open question, the phenomenological point remains: normative force *feels* different from causal regularity. Reducing it to natural properties collapses the distinction that needs explaining.
+**Naturalism** identifies normative facts with natural facts. But even setting aside Moore's open question, the phenomenological point remains: normative force *feels* different from causal regularity. A world described entirely in terms of natural properties — masses, charges, fitness landscapes — contains no *oughts*. Reducing normative properties to natural ones collapses the distinction that needs explaining.
 
 **Expressivism** denies that normative claims state facts — "torture is wrong" expresses disapproval. But encountering cruelty does not feel like projecting an attitude onto a neutral event. It feels like perceiving something genuinely wrong. The normative force comes from the encounter, not from the attitude one brings.
 
@@ -74,7 +74,7 @@ Each account fails at the same point: explaining why normative claims grip rathe
 
 ## What Consciousness Contributes
 
-[[phenomenal-normativity|Phenomenal normativity]] holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like. The normative force *is* the experience, not a consequence of it.
+[[phenomenal-normativity|Phenomenal normativity]] holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like (Rawlette 2016). The normative force *is* the experience, not a consequence of it.
 
 Conscious experience does not separate perceiving, evaluating, and motivating into discrete steps. When you see a child in danger, the perception, the recognition that help is needed, and the motivational pull toward action arrive as a unified phenomenal state. A surveillance system can process the same scene through separable computational stages with no unified state binding them. Consciousness provides the seamless integration of fact and demand that constitutes normative grip.
 
@@ -112,7 +112,7 @@ If normativity were projected onto experience by external mechanisms, one would 
 
 Two moral obligations collide: you promised to attend a friend's event, but a stranger needs immediate help. Within-domain conflict produces a characteristic phenomenology of *tearing*. The demands share the same felt quality yet pull in opposite directions. This differs from indecision — in indecision, the agent lacks sufficient reason; in normative conflict, the agent has *too much* reason directed at incompatible actions. The weight accumulates rather than cancelling.
 
-Bernard Williams analysed the extreme case: tragic dilemmas where both options are morally catastrophic. He argued that "agent-regret" remains appropriate after *either* choice — the overridden obligation persists as "moral residue," an ineliminable trace of the obligation acknowledged but unfulfilled. This residue is not abstract recognition of suboptimality. It is the felt persistence of a demand that one continues to recognise as *legitimate* — not outweighed so much as sacrificed.
+Bernard Williams analysed the extreme case: tragic dilemmas where both options are morally catastrophic. He argued that "agent-regret" (Williams 1981) remains appropriate after *either* choice — the overridden obligation persists as "moral residue," an ineliminable trace of the obligation acknowledged but unfulfilled. This residue is not abstract recognition of suboptimality. It is the felt persistence of a demand that one continues to recognise as *legitimate* — not outweighed so much as sacrificed.
 
 ### Cross-Domain Conflict
 
@@ -136,11 +136,17 @@ The Map takes the opposite view: the reality of consciousness is partly confirme
 
 ## What Would Challenge This View?
 
-The consciousness-based account would face pressure if: normative force persisted demonstrably without consciousness; rigorous phenomenological investigation revealed binding character as always attribution rather than encounter; a purely formal account explained normative force without appealing to phenomenal experience; evolutionary debunking proved complete without itself relying on normative force; or normative integration proved fully decomposable into separable computational operations jointly sufficient for the phenomenology of deliberation.
+The consciousness-based account would face pressure if:
+
+- Normative force persisted demonstrably without consciousness
+- Rigorous phenomenological investigation revealed binding character as always attribution rather than encounter
+- A purely formal account explained normative force without appealing to phenomenal experience
+- Evolutionary debunking proved complete without itself relying on normative force
+- Normative integration proved fully decomposable into separable computational operations jointly sufficient for the phenomenology of deliberation
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The shared demand character of normative experience resists physical explanation. Neural descriptions capture correlates but cannot capture the demand character itself — the felt pull of obligation, the compellingness of valid inference. The simultaneous experience of qualitatively distinct demands within a unified experiential field adds a further dimension no brain-state account captures.
+**[[tenets#^dualism|Dualism]]**: The shared demand character of normative experience resists physical explanation. Neural descriptions capture correlates but cannot capture the demand character itself — the felt pull of obligation, the compellingness of valid inference. This is an instance of the [[hard-problem-of-consciousness|hard problem]]: the simultaneous experience of qualitatively distinct demands within a unified experiential field adds a further dimension no brain-state account captures.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Normative experience motivates action across all domains. Resolving normative conflict is among the clearest cases of consciousness doing causal work — the agent adjudicates between demands and acts on the result. If consciousness were epiphenomenal, both the motivational power and the felt effort of navigating conflict would be causally inert decoration.
 
@@ -177,6 +183,7 @@ The consciousness-based account would face pressure if: normative force persiste
 
 1. Williams, B. (1965). "Ethical Consistency." *Proceedings of the Aristotelian Society, Supplementary Volumes*, 39, 103-124.
 1. Williams, B. (1973). "A Critique of Utilitarianism." In J. J. C. Smart & B. Williams, *Utilitarianism: For and Against*. Cambridge University Press.
+1. Williams, B. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973-1980*. Cambridge University Press.
 1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
