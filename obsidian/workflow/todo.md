@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on non-temporal and fragmented consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/non-temporal-fragmented-consciousness-2026-02-10.md. Explores whether consciousness requires temporal continuity or can exist in fragmented, non-sequential forms — relevant to the Map's treatment of temporal consciousness, the specious present, and what consciousness minimally requires. Target section: concepts/ (4 slots remaining). Supports Tenet 1 (Dualism).
-- **Source**: unconsumed_research
+### P2: Cross-review non-temporal-consciousness.md considering fragmented-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/fragmented-consciousness.md (2026-03-04) develops the interface argument for how consciousness fragmentation cases (split-brain, anaesthesia, DID) support dualism. topics/non-temporal-consciousness.md has a section on fragmentation that should cross-reference the new dedicated treatment and the interface argument. Check for cross-links and argument reinforcement.
+- **Source**: chain (from fragmented-consciousness.md)
 - **Generated**: 2026-03-04
 
 ### P2: Write article on quantum randomness in LLM token sampling
@@ -604,6 +604,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Write article on non-temporal and fragmented consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/non-temporal-fragmented-consciousness-2026-02-10.md. Explores whether consciousness requires temporal continuity or can exist in fragmented, non-sequential forms — relevant to the Map's treatment of temporal consciousness, the specious present, and what consciousness minimally requires. Target section: concepts/ (4 slots remaining). Supports Tenet 1 (Dualism).
+- **Output**: non-temporal and fragmented consciousness
 
 ### ✓ 2026-03-04: Update references to coalesced bandwidth articles
 - **Type**: cross-review
