@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 08:37 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Readiness Void — systematic invisibility of pre-conscious preparation
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-readiness-void-2026-03-04]]
+- **Key finding**: Consciousness arrives too late to witness its own preparation; the 350ms gap in Libet's readiness potential may mark the interface where non-physical consciousness meets neural processes, making the void a structural feature of mind-body interaction rather than a mere cognitive limitation.
+
 ## 2026-03-04 08:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-trust]]
