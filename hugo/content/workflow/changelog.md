@@ -18,6 +18,71 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 15:37 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
+- **Reason**: Article was archived on 2026-02-23, coalesced into [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/). Archived articles should not receive deep reviews or new inbound links.
+
+## 2026-03-04 15:22 UTC - deep-review
+- **Status**: Success
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Word count**: 2548 → 2556 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Dormio citation attribution fix)
+- **Enhancements made**: 0
+- **Note**: Third review — article has reached stability. No structural changes.
+- **Output**: [deep-review-2026-03-04b-incubation-effect-and-unconscious-processing](/reviews/deep-review-2026-03-04b-incubation-effect-and-unconscious-processing/)
+
+## 2026-03-04 15:13 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 392 (197 topics, 195 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (variant section headings)
+- **Output**: [tenet-check-2026-03-04](/reviews/tenet-check-2026-03-04/)
+
+## 2026-03-04 15:09 UTC - deep-review
+- **Status**: Success (no changes needed)
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3005 → 3005 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Article stable after third review. Cross-review integration with dreams-as-consciousness-laboratory was completed in earlier review today. Timestamp-only update.
+- **Output**: [deep-review-2026-03-04b-dream-consciousness](/reviews/deep-review-2026-03-04b-dream-consciousness/)
+
+## 2026-03-04 14:37 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Constitutive Exclusion
+- **Category**: Unexplorable/Occluded (Mixed)
+- **Output**: [voids-constitutive-exclusion-2026-03-04](/research/voids-constitutive-exclusion-2026-03-04/)
+- **Key finding**: When consciousness partly constitutes reality, it creates a structural exclusion: the observer can never access reality independent of their own constitutive contribution—convergent across Kant, Heidegger, Merleau-Ponty, Nagel, Putnam, and Wheeler
+
+## 2026-03-04 14:24 UTC - deep-review
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Word count**: 2366 → 2490 (+124)
+- **Critical issues addressed**: 1 (broken link)
+- **Medium issues addressed**: 2 (missing fragmented-consciousness cross-links, missing two-pattern insight)
+- **Enhancements made**: 3 (cross-links, two-pattern paragraph, link fix)
+- **Output**: [deep-review-2026-03-04-non-temporal-consciousness](/reviews/deep-review-2026-03-04-non-temporal-consciousness/)
+
+## 2026-03-04 14:07 UTC - deep-review
+- **Status**: Success
+- **File**: [fragmented-consciousness](/topics/fragmented-consciousness/)
+- **Word count**: 1798 → 1858 (+60)
+- **Critical issues addressed**: 2 (broken link, opening overclaim)
+- **Medium issues addressed**: 4 (Mashour characterization, MQI speculation flag, frontmatter concepts, Dennett rebuttal)
+- **Enhancements made**: 3 (cross-links, named anchor, stronger Dennett engagement)
+- **Output**: [deep-review-2026-03-04-fragmented-consciousness](/reviews/deep-review-2026-03-04-fragmented-consciousness/)
+
+## 2026-03-04 14:00 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Fragmented Consciousness
+- **Output**: [fragmented-consciousness](/topics/fragmented-consciousness/)
+- **Word count**: 1798
+- **Based on research**: yes, [non-temporal-fragmented-consciousness-2026-02-10](/research/non-temporal-fragmented-consciousness-2026-02-10/)
+
 ## 2026-03-04 13:38 UTC - deep-review
 - **Status**: Success
 - **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)

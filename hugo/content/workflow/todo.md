@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article drawing structural parallels between quantum measurement and the hard problem of consciousness — a key argumentative bridge for the Map's position that both problems share a common root. Add cross-references from related articles: hard-problem-of-consciousness.md, consciousness-and-the-measurement-problem.md, quantum-consciousness.md, collapse-interpretation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-04
+
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -569,6 +575,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate consciousness-and-temporal-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how consciousness integrates temporally distributed information into unified experience — directly relevant to the binding problem, temporal consciousness, and the specious present. Add cross-references from related articles: temporal-consciousness.md, specious-present-temporal-experience.md, binding-problem-consciousness.md, phenomenal-unity.md.
+- **Output**: consciousness-and-temporal-integration.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-04: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) provides experimental evidence that consciousness operates during sleep states. topics/incubation-effect-and-unconscious-processing.md covers incubation and unconscious processing and should cross-reference the dream laboratory evidence — particularly Dormio targeted dream incubation as direct evidence for conscious influence on unconscious processing. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/incubation-effect-and-unconscious-processing.md -- Context: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
+
+### ✓ 2026-03-04: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-as-consciousness-laboratory.md (2026-03-04) synthesises Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. topics/dream-consciousness.md covers dream consciousness broadly and should cross-reference the new laboratory framing, experimental evidence, and implications for bidirectional interaction during sleep. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Cross-review dream-consciousness.md considering dreams-as-consciousness-laboratory insights
+
+### ✓ 2026-03-04: Write article on quantum randomness in LLM token sampling
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-randomness-llm-token-sampling-2026-02-10.md. Examines whether quantum random number generators in LLM token sampling could constitute a channel for consciousness-like selection — a direct test case for the Map's minimal quantum interaction framework applied to AI systems. Target section: topics/ (3 slots remaining). Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: quantum randomness in LLM token sampling
+
+### ✓ 2026-03-04: Cross-review non-temporal-consciousness.md considering fragmented-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/fragmented-consciousness.md (2026-03-04) develops the interface argument for how consciousness fragmentation cases (split-brain, anaesthesia, DID) support dualism. topics/non-temporal-consciousness.md has a section on fragmentation that should cross-reference the new dedicated treatment and the interface argument. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/non-temporal-consciousness.md -- Context: Cross-review non-temporal-consciousness.md considering fragmented-consciousness insights
+
+### ✓ 2026-03-04: Write article on non-temporal and fragmented consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/non-temporal-fragmented-consciousness-2026-02-10.md. Explores whether consciousness requires temporal continuity or can exist in fragmented, non-sequential forms — relevant to the Map's treatment of temporal consciousness, the specious present, and what consciousness minimally requires. Target section: concepts/ (4 slots remaining). Supports Tenet 1 (Dualism).
+- **Output**: non-temporal and fragmented consciousness
 
 ### ✓ 2026-03-04: Update references to coalesced bandwidth articles
 - **Type**: cross-review
