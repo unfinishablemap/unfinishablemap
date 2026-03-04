@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 14:37 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Constitutive Exclusion
+- **Category**: Unexplorable/Occluded (Mixed)
+- **Output**: [[research/voids-constitutive-exclusion-2026-03-04]]
+- **Key finding**: When consciousness partly constitutes reality, it creates a structural exclusion: the observer can never access reality independent of their own constitutive contribution—convergent across Kant, Heidegger, Merleau-Ponty, Nagel, Putnam, and Wheeler
+
 ## 2026-03-04 14:24 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]]
