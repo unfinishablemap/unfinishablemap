@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-04T23:17:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -24,7 +24,6 @@ concepts:
   - "[[decoherence]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[quantum-coherence-and-binding-evidence]]"
-  - "[[temporal-consciousness]]"
   - "[[luck-objection]]"
   - "[[causal-interface]]"
 related_articles:
@@ -36,12 +35,12 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-01-31T03:43:00+00:00
+last_deep_review: 2026-03-04T23:17:00+00:00
 ---
 
 Choosing feels like something. This obvious fact carries philosophical weight that is often overlooked. When you deliberate between options and settle on one, there is a distinctive qualitative character to the experience—a phenomenology of decision that differs markedly from passively observing events unfold. This phenomenology provides evidence for the Map's framework: consciousness as genuine selector rather than epiphenomenal spectator. See [[concept-of-free-will|free will]] for the Map's agent-causal position that this phenomenology supports.
 
-The phenomenology of choice encompasses the entire arc of decision-making: the felt weight of options during deliberation, the moment of resolution when alternatives collapse to actuality, and the sense of authorship that follows. Each phase has distinctive experiential signatures that materialist accounts struggle to explain while the Map's [[agent-causation|agent-causal]] framework predicts them.
+The phenomenology of choice encompasses deliberation, resolution, and authorship. Each phase has distinctive experiential signatures that materialist accounts struggle to explain while the Map's [[agent-causation|agent-causal]] framework predicts them.
 
 ## The Structure of Choosing
 
@@ -78,7 +77,7 @@ The sense of agency varies:
 
 These variations track something real about different kinds of actions. Spontaneous skilled performance (typing this sentence) produces weak authorship—it happens through me but doesn't feel deliberately chosen. Effortful decisions (career choices, moral dilemmas) produce strong authorship. Automatic habits or compulsions may produce absent authorship.
 
-The sense of agency isn't infallible—patients with frontal damage may report authorship for actions they didn't initiate, or deny authorship for actions they did. But its variation tracks genuine differences in cognitive processing. The question is what the sense of agency is tracking.
+The sense of agency isn't infallible—patients with frontal damage may report authorship for actions they didn't initiate, or deny authorship for actions they did. But its variation tracks genuine differences in cognitive processing.
 
 ## Choosing vs Observing
 
@@ -97,15 +96,15 @@ The contrast is vivid in attention: being *pulled* by a loud noise versus *direc
 
 ## Effort as Evidence
 
-The [[mental-effort|phenomenology of effort]] provides the strongest evidence for genuine conscious contribution. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort—random processes don't feel like work.
+The [[mental-effort|phenomenology of effort]] provides the strongest evidence for genuine conscious contribution. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort—random processes don't feel like work. See [[phenomenology-of-consciousness-doing-work|consciousness doing work]] for the broader case that phenomenal experience tracks real causal contribution.
 
-Deliberation between difficult alternatives feels costly: attentional cost (holding options requires continuous engagement), emotional cost (tension, competing values), and temporal cost (time feels invested, not merely elapsed). If choosing were passive reception, these costs would be inexplicable.
+Deliberation feels costly—attentionally, emotionally, temporally. Time feels *invested*, not merely elapsed. If choosing were passive reception, these costs would be inexplicable.
 
-### Quantum Zeno and Felt Work
+### Possible Mechanisms
 
-Henry Stapp's [[mental-effort|quantum Zeno mechanism]] explains why effort should feel effortful. Rapid, repeated acts of attention "hold" desired neural patterns stable, preventing them from decohering into alternatives. Sustained attention requires continuous engagement—which is exactly what effort phenomenology describes.
+Several proposals explain why effort should feel effortful. One candidate is Stapp's [[mental-effort|quantum Zeno mechanism]]: rapid, repeated acts of attention "hold" desired neural patterns stable, preventing them from decohering into alternatives. This predicts that sustained focus feels effortful, effort can be increased by intensifying attention, fatigue is real, and distraction is easier. James observed that "sustained voluntary attention is a repetition of successive efforts"—the phenomenology fits.
 
-The framework predicts that sustained focus feels effortful (continuous mental events), effort can be increased (intensifying attention), fatigue is real (depleting resources), and distraction is easier (fewer probing events). James observed that "sustained voluntary attention is a repetition of successive efforts"—the phenomenology matches the proposed mechanism.
+The core argument, however, does not depend on any specific mechanism. What matters is the structural point: effort phenomenology correlates with genuine cognitive engagement. Whether the underlying interface is quantum Zeno, some other quantum process, or a mechanism not yet conceived, the phenomenological evidence for conscious causal contribution stands independently.
 
 ### Motor Selection as Paradigm Case
 

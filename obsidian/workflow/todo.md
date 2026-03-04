@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenology-of-choice.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. Third-most cross-referenced stale concept page with 134 inbound links. Covers the phenomenological character of choosing — the felt quality of deliberation, decision, and commitment. Directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of free will and agency. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-04
-
 ### P2: Address gaps in epistemology-of-other-minds-under-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -591,6 +585,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Deep review phenomenology-of-choice.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. Third-most cross-referenced stale concept page with 134 inbound links. Covers the phenomenological character of choosing — the felt quality of deliberation, decision, and commitment. Directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of free will and agency. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/phenomenology-of-choice.md
 
 ### ✓ 2026-03-04: Deep review haecceity.md
 - **Type**: deep-review
