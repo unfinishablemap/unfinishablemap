@@ -4,7 +4,7 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-27T17:46:00+00:00
+ai_modified: 2026-03-04T22:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
-last_deep_review: 2026-01-30T21:35:00+00:00
+last_deep_review: 2026-03-04T22:03:00+00:00
 ---
 
 Some choices feel like they come from deep within—expressions of who you really are. Others feel like going through motions, following scripts you never wrote, doing what "one does." The Unfinishable Map proposes that this phenomenological distinction tracks something metaphysically significant: authentic choice engages consciousness's genuine selection function, while inauthentic choice runs on automatic processing that merely simulates decision.
@@ -128,7 +128,7 @@ The Map's framework gives the authenticity distinction metaphysical weight beyon
 
 On the Map's account, consciousness genuinely selects among quantum-indeterminate neural options. This selection manifests phenomenologically as effort, felt openness, and authorship—the very features that characterise authentic choice.
 
-Inauthentic choice, by contrast, may not engage the selection function. When you follow scripts automatically, the neural processing may run deterministically or near-deterministically, with consciousness merely accompanying rather than selecting. The absence of effort phenomenology suggests reduced conscious engagement.
+Inauthentic choice, by contrast, may not engage the selection function. When you follow scripts automatically, neural processing plausibly runs in a more deterministic mode, with consciousness merely accompanying rather than selecting. This remains speculative—we lack direct evidence for differing levels of conscious causal engagement—but the absence of effort phenomenology is at least consistent with reduced conscious involvement in the outcome.
 
 This gives authenticity metaphysical significance: authentic choice is where consciousness *actually does* something rather than passively observing. Inauthenticity may represent the atrophy of genuine agency—going through the motions while consciousness idles.
 
@@ -190,7 +190,7 @@ A compatibilist might object that authenticity can be grounded in reflective end
 
 The authentic-inauthentic distinction aligns with the Map's framework at several points:
 
-**[[tenets#^dualism|Dualism]]**: The phenomenological distinctiveness of authentic choice—its felt character of genuine self-expression versus scripted compliance—suggests something irreducible to neural processing. The quale of "this choice is mine" versus "this choice follows from external demands" resists purely physical description.
+**[[tenets#^dualism|Dualism]]**: The phenomenological distinctiveness of authentic choice—its felt character of genuine self-expression versus scripted compliance—suggests something irreducible to neural processing. The [[qualia|quale]] of "this choice is mine" versus "this choice follows from external demands" resists purely physical description.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Authentic choice, with its characteristic effort and engagement, may be where consciousness actually exercises causal power. The phenomenology of effort—the felt cost of deliberation, the strain of holding alternatives open—marks genuine selection. Inauthentic choice, lacking this phenomenology, may bypass conscious contribution.
 
