@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 10:07 UTC - deep-review (skipped)
+- **Status**: Skipped — file archived
+- **File**: [[archive/topics/phenomenology-of-normative-properties]]
+- **Notes**: Article was archived 2026-02-25 and coalesced into [[topics/phenomenology-of-normative-experience]]. The 2026-03-03 deep review of the replacement already fixed 8 inbound links. Stale todo task removed.
+
 ## 2026-03-04 09:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/dreams-as-consciousness-laboratory]]

@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-normative-properties.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on the phenomenology of normative properties — how ought-claims feel from the inside. Add cross-references from phenomenology-of-normative-experience.md, phenomenal-normativity.md, consciousness-and-normative-force.md, and moral-perception.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
-### P2: Integrate contemplative-reliability.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concepts article on the reliability of contemplative practices as sources of knowledge about consciousness. Add cross-references from contemplative-epistemology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md, and phenomenal-conservatism-and-introspective-evidence.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
-
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -553,6 +541,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Integrate phenomenology-of-normative-properties.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of normative properties — how ought-claims feel from the inside. Add cross-references from phenomenology-of-normative-experience.md, phenomenal-normativity.md, consciousness-and-normative-force.md, and moral-perception.md.
+- **Output**: phenomenology-of-normative-properties.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-04: Cross-review incubation-effect-and-unconscious-processing.md considering dreams-as-consciousness-laboratory insights
 - **Type**: cross-review
