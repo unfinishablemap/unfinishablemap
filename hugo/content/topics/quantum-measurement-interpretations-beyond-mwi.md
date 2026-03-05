@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-04 16:07:00+00:00
+ai_modified: 2026-03-05 05:03:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -116,6 +116,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover probability without circularity
+- [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/) — Why the Deutsch-Wallace decision-theoretic program fails on its own terms
 - [measurement-problem](/concepts/measurement-problem/) — The core puzzle these interpretations address
 - [collapse-and-time](/concepts/collapse-and-time/) — How retrocausality resolves temporal paradoxes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-quantum interaction (Stapp, Penrose-Hameroff, IIT-collapse)

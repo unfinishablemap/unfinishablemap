@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-05 05:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: Fundamental principles connecting conscious experience to physical 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-06 18:54:00+00:00
+last_deep_review: 2026-03-05 05:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ David Chalmers developed the most influential framework for psychophysical laws,
 
 ## Why Physics Alone Fails
 
-The [hard problem](/topics/hard-problem-of-consciousness/) shows that even a complete physical description of the brain leaves unexplained why there is something it is like to be that system. Phenomenal properties are not logically entailed by physical properties—experience resists functional reduction. If phenomenal properties are ontologically basic, their relationship to physics must be specified by new fundamental laws.
+The [hard problem](/topics/hard-problem-of-consciousness/) shows that even a complete physical description of the brain leaves unexplained why there is something it is like to be that system. [Phenomenal properties](/concepts/phenomenal-consciousness/) are not logically entailed by physical properties—experience resists functional reduction. If phenomenal properties are ontologically basic, their relationship to physics must be specified by new fundamental laws.
 
 ## Chalmers' Naturalistic Dualism
 
@@ -98,7 +98,7 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 **Rejection of Organizational Invariance**: Substrate matters—not because silicon can't be conscious, but because particular physical instantiation may affect phenomenal character in ways functional description misses.
 
-**Bandwidth Constraints**: The Map incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2025). Selection is coarse-grained—action patterns, not individual neurons—matching deliberate decision-making phenomenology at ~3-4 choices/second.
+**Bandwidth Constraints**: The Map incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2025). This bottleneck—five million times slower than sensory input—reflects evolutionary logic: the brain focuses selectively on what matters rather than processing everything at once. Selection is coarse-grained—action patterns, not individual neurons—matching deliberate decision-making phenomenology at ~3-4 choices/second.
 
 ## The Coupling Problem
 
@@ -165,7 +165,7 @@ Any coupling law faces the [decoherence](/concepts/decoherence/) objection: quan
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an introspective illusion, no bridging laws are required. The illusionist position faces a regress: as [Tallis observes](/concepts/introspection/), "misrepresentation presupposes presentation"—the "illusion" of consciousness requires consciousness to be an illusion *for*, and that consciousness cannot be another illusion without infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
+[Illusionists](/concepts/illusionism/) (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an introspective illusion, no bridging laws are required. The illusionist position faces a regress: as [Tallis observes](/concepts/introspection/), "misrepresentation presupposes presentation"—the "illusion" of consciousness requires consciousness to be an illusion *for*, and that consciousness cannot be another illusion without infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
 
 ## Contemplative Evidence
 
@@ -219,18 +219,12 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 1. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-4. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-5. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
-7. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
-8. Georgiev, D. (2024). "Causal potency of consciousness in the physical world." *International Journal of Modern Physics B*.
-9. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1), 39-78.
-10. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
-11. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-12. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
-13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-14. Stapp, H.P. "Quantum Interactive Dualism: An Alternative to Materialism." https://www-physics.lbl.gov/~stapp/QID.pdf
-15. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-16. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
-17. Wagner-Altendorf, T.A. (2024). "Progress in Understanding Consciousness?" *Acta Analytica*.
-18. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
+4. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
+5. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
+6. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
+7. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+8. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
+9. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+10. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+11. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+12. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.

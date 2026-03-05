@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-22 18:12:00+00:00
+ai_modified: 2026-03-05 05:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,6 +25,7 @@ last_deep_review: 2026-02-22 18:12:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
+- '[[decision-theory-cannot-save-many-worlds]]'
 - '[[tenets]]'
 title: The Many-Worlds Interpretation
 topics:
@@ -73,7 +74,7 @@ The standard MWI strategy uses decision theory: rational agents should weight ou
 
 **The caring problem**: Why should the pre-measurement you care about post-measurement continuations proportionally to their Born weights? All of them exist. The branch-weighted version of you is as much "you" as any other weighting.
 
-MWI defenders offer decision-theoretic derivations (Deutsch-Wallace) purporting to show that rational agents *must* weight outcomes by Born probabilities. But these derivations are contested—critics argue the axioms are question-begging. Deriving probability from non-probabilistic branching may be fundamentally misguided. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies and the circularity that undermines them.
+MWI defenders offer decision-theoretic derivations (Deutsch-Wallace) purporting to show that rational agents *must* weight outcomes by Born probabilities. But these derivations are contested—critics argue the axioms are question-begging. Deriving probability from non-probabilistic branching may be fundamentally misguided. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies and [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/) for a detailed analysis of why the decision-theoretic program fails on its own terms.
 
 ### 4. The Preferred Basis Problem
 

@@ -38,6 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Review probability-problem-in-many-worlds.md considering decision-theory article
+- **Type**: cross-review
+- **Notes**: New article topics/decision-theory-cannot-save-many-worlds.md created 2026-03-05 as a companion piece. probability-problem-in-many-worlds.md surveys the probability problem broadly and should cross-reference the new article's detailed treatment of decision-theoretic approaches. Ensure the two articles complement rather than duplicate each other. Supports Tenet 4 (No Many Worlds).
+- **Source**: chain (from decision-theory-cannot-save-many-worlds.md)
+- **Generated**: 2026-03-05
+
+### P2: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-05
+
+### P2: Review apophatic-cartography.md considering apophatic-approaches concept
+- **Type**: cross-review
+- **Notes**: New concept page concepts/apophatic-approaches.md created 2026-03-05. The apex article apophatic-cartography.md synthesises the Map's apophatic methodology and should cross-reference the new concept page's systematic treatment of via negativa, neti neti, and related approaches. Ensure consistency and add cross-links.
+- **Source**: chain (from apophatic-approaches.md)
+- **Generated**: 2026-03-05
+
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -595,6 +613,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review psychophysical-laws.md considering psychophysical-coupling insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/psychophysical-coupling.md created 2026-03-05. psychophysical-laws.md was recently condensed after a coalesce that incorporated earlier psychophysical-coupling content — check for overlap, ensure consistent framing, and add cross-links between the two articles. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/psychophysical-laws.md -- Context: Review psychophysical-laws.md considering psychophysical-coupling insights
+
+### ✓ 2026-03-05: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-05 with zero inbound links. Argues that decision-theoretic frameworks (Deutsch-Wallace, Greaves-Myrvold) fail to recover Born rule probabilities in Many-Worlds. Should be linked from probability-problem-in-many-worlds.md, quantum-interpretations.md, and related MWI articles. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/topics/decision-theory-cannot-save-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Write void article on the spontaneous thought void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-spontaneous-thought-void-2026-03-04.md. The spontaneous thought void examines why thoughts arise unbidden — the gap between no-thought and thought that resists causal explanation from the first-person perspective. Target section: voids/ (2 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: Write void article on the spontaneous thought void
+
+### ✓ 2026-03-05: Write void article on the transition void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-transition-void-2026-03-05.md. The transition void examines what happens at the boundaries between conscious states — the gap between waking and sleeping, attention and inattention, one thought and the next. These transitions resist description from either side. Target section: voids/ (2 slots remaining). Supports Tenet 1 (Dualism).
+- **Output**: Write void article on the transition void
 
 ### ✓ 2026-03-05: Write concept page for apophatic approaches
 - **Type**: expand-topic

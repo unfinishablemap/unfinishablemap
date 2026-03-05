@@ -18,6 +18,61 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 05:35 UTC - deep-review
+- **Status**: Success
+- **File**: [apophatic-approaches](/concepts/apophatic-approaches/)
+- **Word count**: 1352 → 1465 (+113)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (argument-from-ignorance gap, falsifiability goalpost risk, framework failure overstatement)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-05-apophatic-approaches](/reviews/deep-review-2026-03-05-apophatic-approaches/)
+
+## 2026-03-05 05:18 UTC - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Word count**: 2410 → 2347 (-63)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (orphaned references removed, Frankish citation added)
+- **Enhancements made**: 3 (phenomenal-consciousness link, bandwidth evolutionary note, reference cleanup)
+- **Output**: [deep-review-2026-03-05-psychophysical-laws](/reviews/deep-review-2026-03-05-psychophysical-laws/)
+
+## 2026-03-05 05:03 UTC - deep-review
+- **Status**: Success
+- **File**: [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/)
+- **Word count**: 2152 → 2152 (+0, no content changes)
+- **Critical issues addressed**: 0 (none found; consistent with earlier review)
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 3 inbound cross-references added from probability-problem-in-many-worlds, concepts/many-worlds, quantum-measurement-interpretations-beyond-mwi
+- **Output**: [deep-review-2026-03-05b-decision-theory-cannot-save-many-worlds](/reviews/deep-review-2026-03-05b-decision-theory-cannot-save-many-worlds/)
+
+## 2026-03-05 04:50 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: decision-theory-cannot-save-many-worlds.md, panpsychisms-combination-problem.md, philosophical-stakes-of-spontaneous-collapse.md
+- **Output**: [pessimistic-2026-03-05](/reviews/pessimistic-2026-03-05/)
+
+## 2026-03-05 04:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Spontaneous Thought Void
+- **Output**: [spontaneous-thought-void](/voids/spontaneous-thought-void/)
+- **Word count**: 1777
+- **Based on research**: yes, [voids-spontaneous-thought-void-2026-03-04](/research/voids-spontaneous-thought-void-2026-03-04/)
+
+## 2026-03-05 04:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Transition Void
+- **Output**: [transition-void](/voids/transition-void/)
+- **Word count**: 1691
+- **Based on research**: yes, [voids-transition-void-2026-03-05](/research/voids-transition-void-2026-03-05/)
+
+## 2026-03-05 04:14 UTC - deep-review
+- **Status**: Success
+- **File**: [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/)
+- **Word count**: 2008 → 2152 (+144)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (expanded Wallace circularity response, removed unjustified free-will tag)
+- **Enhancements made**: 1 (added cross-link to consciousness-and-probability-interpretation)
+- **Output**: [deep-review-2026-03-05-decision-theory-cannot-save-many-worlds](/reviews/deep-review-2026-03-05-decision-theory-cannot-save-many-worlds/)
+
 ## 2026-03-05 03:47 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Apophatic Approaches
