@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense research/contemplative-neuroscience-meditation-2026-01-23.md (4091 words, 164% of soft target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4091 words. Preserve key findings while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
@@ -627,6 +621,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Condense research/contemplative-neuroscience-meditation-2026-01-23.md (4091 words, 164% of soft target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4091 words. Preserve key findings while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/contemplative-neuroscience-meditation-2026-01-23.md
 
 ### ✓ 2026-03-05: Condense research/voids-creativity-void-2026-02-02.md (4142 words, 166% of soft target)
 - **Type**: condense
