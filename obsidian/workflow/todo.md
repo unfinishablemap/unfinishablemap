@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review many-worlds.md considering probability-objections article
-- **Type**: cross-review
-- **Notes**: New concept page concepts/probability-objections-many-worlds.md consolidates the probability crisis for MWI (Born rule incoherence, decision-theory failures, Baker-Price circularity, branch-counting). The parent many-worlds concept page discusses probability as one objection but doesn't link to this dedicated entry. Add cross-reference. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from probability-objections-many-worlds.md)
-- **Generated**: 2026-03-05
-
 ### P2: Review quantum-interpretations.md considering probability-objections article
 - **Type**: cross-review
 - **Notes**: New concept page concepts/probability-objections-many-worlds.md provides a consolidated entry point for probability objections to MWI. The quantum-interpretations survey should reference it when discussing MWI weaknesses. Supports Tenet 4 (No Many Worlds).
@@ -657,6 +651,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review many-worlds.md considering probability-objections article
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md consolidates the probability crisis for MWI (Born rule incoherence, decision-theory failures, Baker-Price circularity, branch-counting). The parent many-worlds concept page discusses probability as one objection but doesn't link to this dedicated entry. Add cross-reference. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/many-worlds.md -- Context: Review many-worlds.md considering probability-objections article
 
 ### ✓ 2026-03-05: Review volitional-opacity.md considering involuntariness void insights
 - **Type**: cross-review

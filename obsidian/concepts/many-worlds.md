@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-05T05:03:00+00:00
+ai_modified: 2026-03-05T15:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,13 +23,14 @@ concepts:
 related_articles:
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[decision-theory-cannot-save-many-worlds]]"
+  - "[[probability-objections-many-worlds]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-02-22T18:12:00+00:00
+last_deep_review: 2026-03-05T15:32:00+00:00
 ---
 
 The Many-Worlds Interpretation (MWI) holds that quantum measurement never collapses the wave function. Instead, every possible outcome occurs—the universe splits into branches, one for each possibility. The Unfinishable Map explicitly rejects MWI in the [[tenets#^no-many-worlds|No Many Worlds]] tenet. The rejection is not merely aesthetic but principled: MWI raises unanswerable questions about identity, dissolves the meaning of probability, and fails to explain why consciousness exists at all.
@@ -64,15 +65,11 @@ MWI defenders invoke self-locating uncertainty: you should be uncertain which br
 
 ### 3. The Probability Problem
 
-Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. What does probability mean if everything happens?
+Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it. See [[probability-objections-many-worlds]] for a structured taxonomy of these objections.
 
-The standard MWI strategy uses decision theory: rational agents should weight outcomes by the Born rule because that's what decision theory recommends, given the branching structure. But this faces objections:
+Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality. Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed. Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
-**The measure problem**: Why should branch-counting follow the Born rule? Each branch is equally real. If there are more branches with outcome A than outcome B, why should that affect how *this* pre-measurement you should bet?
-
-**The caring problem**: Why should the pre-measurement you care about post-measurement continuations proportionally to their Born weights? All of them exist. The branch-weighted version of you is as much "you" as any other weighting.
-
-MWI defenders offer decision-theoretic derivations (Deutsch-Wallace) purporting to show that rational agents *must* weight outcomes by Born probabilities. But these derivations are contested—critics argue the axioms are question-begging. Deriving probability from non-probabilistic branching may be fundamentally misguided. See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies and [[decision-theory-cannot-save-many-worlds]] for a detailed analysis of why the decision-theoretic program fails on its own terms.
+A deeper structural problem cuts across all three strategies: well-defined branches require [[decoherence]], but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies and [[decision-theory-cannot-save-many-worlds]] for a detailed analysis of why the decision-theoretic program fails on its own terms.
 
 ### 4. The Preferred Basis Problem
 
@@ -171,6 +168,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[many-worlds-argument|Against Many-Worlds]] — The formal argument structure with premises and conclusions
 - [[tenets]] — The foundational commitment against MWI
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI
+- [[probability-objections-many-worlds]] — Structured taxonomy of probability and decision-theory objections to MWI
 - [[probability-problem-in-many-worlds]] — In-depth treatment of why probability fails in MWI
 - [[decoherence]] — What decoherence does and doesn't explain
 - [[personal-identity]] — Why identity questions matter for MWI critique
@@ -180,10 +178,13 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 
 1. Everett, H. (1957). "Relative State" Formulation of Quantum Mechanics. *Reviews of Modern Physics*.
 1. Deutsch, D. (1999). Quantum Theory of Probability and Decisions. *Proceedings of the Royal Society*.
+1. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 415-439.
 1. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 1. Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
 1. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al., *Many Worlds?*
 1. Albert, D. & Loewer, B. (1988). Interpreting the Many Worlds Interpretation. *Synthese*.
+1. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
+1. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*.
 1. Saunders, S. et al. eds. (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
