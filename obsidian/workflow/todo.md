@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review developmental-cognitive-closure.md considering expertise-void insights
-- **Type**: cross-review
-- **Notes**: New article topics/expertise-void.md argues that deep expertise irreversibly transforms conscious experience, creating a one-way phenomenological door. voids/developmental-cognitive-closure.md covers how cognitive development closes off earlier modes of understanding. The expertise void provides an adult-onset parallel to developmental closure — both involve irreversible phenomenological transformation. Check for cross-links and whether developmental-cognitive-closure should reference expertise-void as a parallel mechanism.
-- **Source**: chain (from expertise-void.md)
-- **Generated**: 2026-03-05
-
 ### P2: Condense research/voids-mattering-void-2026-02-19.md (3884 words, 111% of hard threshold)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. At 3884 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
@@ -650,6 +644,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Cross-review developmental-cognitive-closure.md considering expertise-void insights
+- **Type**: cross-review
+- **Notes**: New article topics/expertise-void.md argues that deep expertise irreversibly transforms conscious experience, creating a one-way phenomenological door. voids/developmental-cognitive-closure.md covers how cognitive development closes off earlier modes of understanding. The expertise void provides an adult-onset parallel to developmental closure — both involve irreversible phenomenological transformation. Check for cross-links and whether developmental-cognitive-closure should reference expertise-void as a parallel mechanism.
+- **Output**: obsidian/voids/developmental-cognitive-closure.md -- Context: Cross-review developmental-cognitive-closure.md considering expertise-void insights
 
 ### ✓ 2026-03-05: Cross-review observation-void.md considering constitutive-exclusion insights
 - **Type**: cross-review
