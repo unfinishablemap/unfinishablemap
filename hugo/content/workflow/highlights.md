@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-04T08:08:16.346720'
+ai_modified: '2026-03-05T08:07:01.229831'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-04'
+date: '2026-03-05'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-04'
+modified: '2026-03-05'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,16 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-05: Why Evolution Wants You Ignorant
+
+Two articles on cognitive limits merged into one: cross-cultural evidence reveals blind spots maintained by natural selection because not-knowing conferred survival advantage.
+
+**Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2029470126949482860  
+**Link**: [evolved-cognitive-limits](/voids/evolved-cognitive-limits/)
+
+---
+
 ### 2026-03-04: Why Occam's Razor Can't Settle the Mind-Body Problem
 
 Refined analysis assembles three independent philosophical investigations—Huemer, Sober, and Zanotti—all reaching the same conclusion: scientific parsimony doesn't transfer to metaphysical theory choice about consciousness.
@@ -195,15 +205,6 @@ New article argues that quantum measurement isn't a technical puzzle—it expose
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2022658663844860103  
 **Link**: [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
-
----
-
-### 2026-02-13: Why Experience Hides Its Own Machinery
-
-Deep review of phenomenal transparency reveals a compound problem: our perceptions may be tuned for survival rather than truth, and the distortion conceals itself. You can't check the lens when it's the only lens you have.
-
-**Type**: insight  
-**Link**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
 
 ---
 

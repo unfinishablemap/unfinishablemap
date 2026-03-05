@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-01 21:52:00+00:00
+ai_modified: 2026-03-05 06:39:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,6 @@ related_articles:
 - '[[phenomenology-of-temporal-attention]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[thoughts-that-slip-away]]'
-- '[[phenomenal-intentionality]]'
 title: The Phenomenology of Attention to Absence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -88,7 +87,7 @@ Attention to absence reveals structural features of consciousness that purely pr
 
 **Consciousness is norm-governed.** To experience absence is to experience something as *wrong* or *missing* relative to a normative structure. The gap in the bookshelf is not merely different from the expected state; it violates the expected state. This normative dimension — things should be a certain way and aren't — is intrinsic to the phenomenology of absence. It suggests that consciousness is not a passive mirror of inputs but an evaluative engagement with the world.
 
-**Consciousness is intentional in a strong sense.** [Intentionality](/concepts/intentionality/) — the directedness of consciousness toward objects — is typically illustrated with present objects: I see *the tree*, I think *about Vienna*. Absence-perception shows that intentionality extends to non-existent objects. Consciousness can be directed toward what isn't there, and this directedness has all the specificity and determinacy of directedness toward what is. This stretches the concept of intentionality beyond what causal accounts of mental content easily accommodate, because there is no causal chain from the absent object to the experience of its absence. Advocates of [phenomenal-intentionality](/concepts/intentionality/) would note that this directedness toward absence has phenomenal character — what it is like to intend Pierre's absence differs from what it is like to intend Wellington's — and that this phenomenal determinacy is what makes the absence *this specific absence* rather than a generic gap.
+**Consciousness is intentional in a strong sense.** [Intentionality](/concepts/intentionality/) — the directedness of consciousness toward objects — is typically illustrated with present objects: I see *the tree*, I think *about Vienna*. Absence-perception shows that intentionality extends to non-existent objects. Consciousness can be directed toward what isn't there, and this directedness has all the specificity and determinacy of directedness toward what is. This stretches the concept of intentionality beyond what causal accounts of mental content easily accommodate, because there is no causal chain from the absent object to the experience of its absence. Advocates of [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) would note that this directedness toward absence has phenomenal character — what it is like to intend Pierre's absence differs from what it is like to intend Wellington's — and that this phenomenal determinacy is what makes the absence *this specific absence* rather than a generic gap.
 
 ## Relation to Site Perspective
 
@@ -107,7 +106,6 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is implicated becau
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive absence
 - [structure-of-attention](/topics/structure-of-attention/) — The architecture of attentional control
 - [intentionality](/concepts/intentionality/) — The directedness of consciousness toward objects
-- [phenomenal-intentionality](/concepts/intentionality/) — Why intentionality toward absent objects requires phenomenal character
 - [protention](/concepts/protention/) — Husserl's forward-directed structure of present experience
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How places are partly constituted by what is missing from them
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its limits

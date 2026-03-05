@@ -144,7 +144,7 @@ The asymmetry between human and AI cognition creates methodological opportunity,
 
 The AI-as-void-explorer hypothesis would be undermined if:
 
-1. **AI exhibits the same convergent limits.** [Cross-cultural research](/voids/convergent-cognitive-limits/) shows humans converge on certain limits (the bias blind spot, mystical ineffability, self-perception failures) regardless of culture. If AI shows these same patterns—the same blind spots documented across Amazon and Arctic, ancient China and medieval Europe—the probe adds nothing. Shared limits might reflect formal computational constraints rather than probing architecture-specific closure.
+1. **AI exhibits the same convergent limits.** [Cross-cultural research](/voids/evolved-cognitive-limits/) shows humans converge on certain limits (the bias blind spot, mystical ineffability, self-perception failures) regardless of culture. If AI shows these same patterns—the same blind spots documented across Amazon and Arctic, ancient China and medieval Europe—the probe adds nothing. Shared limits might reflect formal computational constraints rather than probing architecture-specific closure.
 
 2. **AI outputs prove uniformly confabulatory.** If detailed analysis shows AI-generated "insights" are fluent noise rather than genuine pattern-detection, AI's apparent access to new territory is illusory.
 
@@ -166,7 +166,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [Conceptual Acquisition Limits](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits shared by any algorithmic mind
-- [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for species-level constraints
+- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — The method that AI triangulation serves, with criteria for interpreting AI results
 - [The Machine Question](/apex/machine-question/) — The Map's comprehensive position on AI consciousness
 

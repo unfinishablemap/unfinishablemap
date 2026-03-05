@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-05 01:17:00+00:00
+ai_modified: 2026-03-05 06:39:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -159,7 +159,7 @@ The Map's response: consciousness is located where it causally interfaces with t
 
 Beyond qualitative character, consciousness has another dimension resisting physical explanation: [intentionality](/concepts/intentionality/), the "aboutness" of mental states. Beliefs are *about* things; fears are *directed at* objects. Thoughts can be about things that don't exist.
 
-[Phenomenal Intentionality Theory](/concepts/intentionality/) proposes that intentionality derives from phenomenal consciousness—explaining "aboutness" requires first solving the hard problem. See [intentionality](/concepts/intentionality/) for the full analysis.
+[Phenomenal Intentionality Theory](/concepts/intentionality/#phenomenal-intentionality-theory) proposes that intentionality derives from phenomenal consciousness—explaining "aboutness" requires first solving the hard problem. See [intentionality](/concepts/intentionality/) for the full analysis.
 
 ## The Zombie Thought Experiment
 

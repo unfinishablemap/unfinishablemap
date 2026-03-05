@@ -2558,7 +2558,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-02-24 07:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Adaptive Cognitive Limits
-- **Output**: [adaptive-cognitive-limits](/voids/adaptive-cognitive-limits/)
+- **Output**: [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)
 - **Word count**: 1223
 - **Based on research**: yes, [voids-adaptive-cognitive-limits-2026-02-08](/research/voids-adaptive-cognitive-limits-2026-02-08/)
 

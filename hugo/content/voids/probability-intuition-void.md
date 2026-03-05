@@ -113,7 +113,7 @@ The probability intuition void connects to the Map's [tenets](/tenets/) in sever
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [scale-void](/voids/scale-void/) — The related void concerning magnitude comprehension
 - [cognitive closure](/concepts/mysterianism/) — McGinn's framework for permanent cognitive limits
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence that probability errors are species-level, not cultural
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence that probability errors are species-level, not cultural
 - [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — How cognitive limits are acquired through development
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like

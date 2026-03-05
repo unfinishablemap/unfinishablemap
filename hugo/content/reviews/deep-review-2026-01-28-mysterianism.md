@@ -52,12 +52,12 @@ All six adversarial personas engaged:
 - Already well-integrated with computational-cognitive-limits
 
 ### Enhancements Made
-1. **Added cross-link** to [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) in frontmatter and Further Reading
+1. **Added cross-link** to [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) in frontmatter and Further Reading
 2. **Added one sentence** in "Problems Versus Mysteries" section noting cross-cultural evidence for species-level cognitive limits
 3. **Tightened prose** in Concept Nativism and Nagel's Bat sections to offset additions (length-neutral mode)
 
 ### Cross-links Added
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural empirical evidence that certain cognitive limits are species-wide
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural empirical evidence that certain cognitive limits are species-wide
 
 ## Word Count
 - Before: 2567 words (103% of 2500 soft threshold)

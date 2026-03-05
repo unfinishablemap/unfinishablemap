@@ -151,7 +151,7 @@ The normative void hypothesis would face pressure if:
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [affective-void](/voids/affective-void/) — The vast space of emotions we cannot feel
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought

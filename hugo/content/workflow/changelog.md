@@ -18,6 +18,121 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 09:06 UTC - deep-review
+- **Status**: Success
+- **File**: [creativity-void](/voids/creativity-void/)
+- **Word count**: 1946 → 2041 (+95)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing spontaneous-thought-void cross-link, confabulation absent from Process Void)
+- **Enhancements made**: 4 (confabulation insight, spontaneous-thought-void cross-link, contemplative finding strengthened, prose tightened)
+- **Output**: [deep-review-2026-03-05-creativity-void](/reviews/deep-review-2026-03-05-creativity-void/)
+
+## 2026-03-05 08:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Involuntariness Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-involuntariness-void-2026-03-05](/research/voids-involuntariness-void-2026-03-05/)
+- **Key finding**: Consciousness is largely involuntary despite being causally efficacious under dualism; even extreme meditation achieves only indirect cessation, revealing a sovereignty paradox where outward causation exceeds inward control
+
+## 2026-03-05 08:38 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 2235 → 2349 (+114)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-05-self-stultification-as-master-argument](/reviews/deep-review-2026-03-05-self-stultification-as-master-argument/)
+
+## 2026-03-05 08:21 UTC - deep-review
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Word count**: 2189 → 2216 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-05-near-death-experiences](/reviews/deep-review-2026-03-05-near-death-experiences/)
+
+## 2026-03-05 08:13 UTC - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 2956 → 2999 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-05-argument-from-reason](/reviews/deep-review-2026-03-05-argument-from-reason/)
+
+## 2026-03-05 07:52 UTC - deep-review
+- **Status**: Success
+- **File**: [simulation](/concepts/simulation/)
+- **Word count**: 2326 → 2372 (+46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale refinement log, missing evolved-cognitive-limits cross-link)
+- **Enhancements made**: 1 (bidirectional link to evolved-cognitive-limits)
+- **Output**: [deep-review-2026-03-05-simulation](/reviews/deep-review-2026-03-05-simulation/)
+
+## 2026-03-05 07:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [adaptive-cognitive-limits](/voids/adaptive-cognitive-limits/), [convergent-cognitive-limits](/voids/convergent-cognitive-limits/)
+- **Target**: [evolved-cognitive-limits](/voids/evolved-cognitive-limits/)
+- **Archived**: [adaptive-cognitive-limits](/archive/voids/adaptive-cognitive-limits/), [convergent-cognitive-limits](/archive/voids/convergent-cognitive-limits/)
+- **References to review**: ~25 files reference convergent-cognitive-limits, ~3 files reference adaptive-cognitive-limits
+
+## 2026-03-05 07:21 UTC - deep-review
+- **Status**: Success
+- **File**: [transition-void](/voids/transition-void/)
+- **Word count**: 1691 → 1838 (+147)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphaned references, Dennett divergence, missing cross-links)
+- **Enhancements made**: 7 backlinks added from existing articles, 4 new Further Reading entries, Dennett divergence paragraph
+- **Output**: [deep-review-2026-03-05-transition-void](/reviews/deep-review-2026-03-05-transition-void/)
+
+## 2026-03-05 07:07 UTC - deep-review
+- **Status**: Success
+- **File**: [existentialism](/concepts/existentialism/)
+- **Word count**: 2546 → 2552 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Frankish engagement, quantum speculation hedging, specious present restructuring)
+- **Enhancements made**: 4 (sharper illusionism engagement, mechanism hedging, temporal fix, prose tightening)
+- **Output**: [deep-review-2026-03-05-existentialism](/reviews/deep-review-2026-03-05-existentialism/)
+
+## 2026-03-05 06:51 UTC - deep-review
+- **Status**: Success
+- **File**: [psychophysical-coupling](/concepts/psychophysical-coupling/)
+- **Word count**: 1468 → 1581 (+113)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links, Born statistics undefined, orphan investigation)
+- **Enhancements made**: 6 (cross-links added to/from 7 articles)
+- **Output**: [deep-review-2026-03-05-psychophysical-coupling](/reviews/deep-review-2026-03-05-psychophysical-coupling/)
+
+## 2026-03-05 06:36 UTC - deep-review
+- **Status**: Success (link migration for archived article)
+- **File**: [phenomenal-intentionality](/concepts/intentionality/) (archived, coalesced into [intentionality](/concepts/intentionality/))
+- **Word count**: N/A (no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 21 stale links migrated across 21 files
+- **Enhancements made**: Frontmatter concepts updated, body wikilinks redirected to live page, Further Reading deduplicated
+- **Output**: [deep-review-2026-03-05-phenomenal-intentionality](/reviews/deep-review-2026-03-05-phenomenal-intentionality/)
+
+## 2026-03-05 06:29 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~398 non-draft articles across topics, concepts, tenets (deep read of 8 recent articles)
+- **Output**: [optimistic-2026-03-05-morning](/reviews/optimistic-2026-03-05-morning/)
+
+## 2026-03-05 06:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/)
+- **Changes**: Steelmanned Wallace's basis-relativity defense and ch. 6 frequency response; added section on alternative derivations (Zurek envariance, Sebens-Carroll); added 5 references
+- **Published**: yes
+
+## 2026-03-05 05:48 UTC - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 2279 → 2317 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-reference precision for companion article)
+- **Enhancements made**: 1 (meta-point from companion's "even if it succeeded" insight)
+- **Output**: [deep-review-2026-03-05b-probability-problem-in-many-worlds](/reviews/deep-review-2026-03-05b-probability-problem-in-many-worlds/)
+
 ## 2026-03-05 05:35 UTC - deep-review
 - **Status**: Success
 - **File**: [apophatic-approaches](/concepts/apophatic-approaches/)

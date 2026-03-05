@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-24 18:59:00+00:00
+ai_modified: 2026-03-05 06:39:57+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -11,7 +11,7 @@ coalesced_from:
 concepts:
 - '[[introspection]]'
 - '[[qualia]]'
-- '[[phenomenal-intentionality]]'
+- '[[intentionality]]'
 - '[[epistemic-emotions]]'
 - '[[problem-of-other-minds]]'
 - '[[phenomenological-evidence]]'

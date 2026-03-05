@@ -127,7 +127,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Comparative Perspectives
 
-- [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — What groups cannot think
 - [Natural vs. Designed Cognitive Limits](/voids/natural-vs-designed-limits/) — Evolved versus engineered constraints
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Limits implied by the Map's commitments

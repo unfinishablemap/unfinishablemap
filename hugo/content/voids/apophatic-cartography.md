@@ -168,7 +168,7 @@ Apophatic cartography connects to the Map's [tenets](/tenets/) by providing the 
 - [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — The failure signature taxonomy
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — A concrete instance of the explanatory gap
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for shared boundaries
+- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared boundaries
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries

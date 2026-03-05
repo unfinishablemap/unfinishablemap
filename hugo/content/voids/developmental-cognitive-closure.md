@@ -119,7 +119,7 @@ The developmental void is a reminder that the boundaries of thought are not stat
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
-- [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 

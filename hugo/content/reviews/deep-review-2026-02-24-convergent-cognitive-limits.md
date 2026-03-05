@@ -17,12 +17,12 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/)
+**Article**: [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/)
 **Previous review**: [2026-01-30](/reviews/deep-review-2026-01-30-convergent-cognitive-limits/)
 
 ## Review Context
 
-Cross-review triggered by the new [Adaptive Cognitive Limits](/voids/adaptive-cognitive-limits/) article. The adaptive limits framework introduces a distinction between architectural limits (inherent to cognitive structure) and adaptive limits (maintained by natural selection for fitness advantage). This distinction has direct implications for how convergent limits should be interpreted.
+Cross-review triggered by the new [Adaptive Cognitive Limits](/voids/evolved-cognitive-limits/) article. The adaptive limits framework introduces a distinction between architectural limits (inherent to cognitive structure) and adaptive limits (maintained by natural selection for fitness advantage). This distinction has direct implications for how convergent limits should be interpreted.
 
 ## Pessimistic Analysis Summary
 
@@ -38,7 +38,7 @@ None. The previous review's fixes hold up well. No new critical issues identifie
 
 - **AI section lacked adaptive methodology**: The "What AI Might Reveal" section discussed AI detecting cross-cultural failures but missed the concrete methodological prediction from the adaptive framework. Resolution: Added note that AI's lack of evolutionary history makes it a probe for distinguishing adaptive from architectural limits.
 
-- **Missing cross-links**: No links to [adaptive-cognitive-limits](/voids/adaptive-cognitive-limits/), [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/), or [cognitive-aversion](/voids/cognitive-aversion/). Resolution: Added inline cross-links and expanded Further Reading section.
+- **Missing cross-links**: No links to [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/), [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/), or [cognitive-aversion](/voids/cognitive-aversion/). Resolution: Added inline cross-links and expanded Further Reading section.
 
 - **Citation gap for Chinese/Tibetan Buddhist populations**: Hood's mysticism scale populations named (Chinese Chan/Pure Land Buddhists, Tibetan Buddhists) without specific citations for those populations. Resolution: Added qualifying phrase "across multiple studies" to indicate the evidence comes from a broader literature than the three cited references.
 
@@ -69,7 +69,7 @@ All counterarguments from the previous review remain addressed. No new counterar
 
 ### Cross-links Added
 
-- [adaptive-cognitive-limits](/voids/adaptive-cognitive-limits/) (3 inline references + Further Reading)
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) (3 inline references + Further Reading)
 - [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) (1 inline reference + Further Reading)
 - [cognitive-aversion](/voids/cognitive-aversion/) (Further Reading)
 
@@ -95,4 +95,4 @@ None. All identified improvements applied within this review.
 
 **New stability note from this review:**
 
-4. **Adaptive vs. architectural classification**: The article now acknowledges this distinction without committing to classifying specific limits as one or the other. Future reviews should NOT pressure the article to classify specific examples—the convergence methodology identifies species-level limits; classification is the work of [adaptive-cognitive-limits](/voids/adaptive-cognitive-limits/) and related articles.
+4. **Adaptive vs. architectural classification**: The article now acknowledges this distinction without committing to classifying specific limits as one or the other. Future reviews should NOT pressure the article to classify specific examples—the convergence methodology identifies species-level limits; classification is the work of [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) and related articles.

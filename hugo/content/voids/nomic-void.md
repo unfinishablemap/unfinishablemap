@@ -96,7 +96,7 @@ Unlike the [computational void](/voids/computational-cognitive-limits/), which i
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself—beyond relational description
 - [emergence-void](/voids/emergence-void/) — The gap at every level transition
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Non-human perspectives on cognitive space
 
 ## References

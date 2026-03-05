@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-24 10:59:00+00:00
+ai_modified: 2026-03-05 07:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[haecceity]]'
 - '[[computational-cognitive-limits]]'
 - '[[natural-vs-designed-limits]]'
+- '[[evolved-cognitive-limits]]'
 created: 2026-01-07
 date: &id001 2026-01-07
 description: If reality were computed, familiar objections to mind-matter interaction
@@ -25,7 +26,7 @@ description: If reality were computed, familiar objections to mind-matter intera
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 23:05:00+00:00
+last_deep_review: 2026-03-05 07:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +119,7 @@ The Map's framework suggests the third option. If consciousness operates through
 
 If we are simulated, we inherit all [computational limits](/voids/computational-cognitive-limits/): Gödel's incompleteness, the halting problem, Rice's theorem. This creates a tension with Penrose-style arguments: if consciousness genuinely grasps Gödel sentences that formal systems cannot prove, it transcends computation—yet simulated computations *can't* genuinely grasp these truths. Either the simulation hypothesis is false, Lucas-Penrose arguments fail, or consciousness operates non-computationally even within the simulation. The Map's commitment to bidirectional interaction suggests the third option.
 
-A further question: are these limits [natural features of finite cognition, or designed constraints](/voids/natural-vs-designed-limits/)? A simulator could impose limits beyond those inherent to computation itself.
+A further question: are these limits [natural features of finite cognition, or designed constraints](/voids/natural-vs-designed-limits/)? A simulator could impose limits beyond those inherent to computation itself. The [evolved cognitive limits](/voids/evolved-cognitive-limits/) framework adds another dimension: limits that appear species-wide might reflect either architectural constraints of any mind or fitness-shaped blind spots—and in a simulation, the distinction between "evolved" and "designed" blurs.
 
 This has implications for [ai-consciousness](/topics/ai-consciousness/): if we're simulated and conscious, digital systems might also achieve consciousness under the right conditions—the barrier would be architectural, not substrate-based.
 
@@ -198,6 +199,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [decoherence](/concepts/decoherence/) — The timescale objection and its application within simulations
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal limits that constrain simulated minds
 - [natural-vs-designed-limits](/voids/natural-vs-designed-limits/) — Whether cognitive limits are natural or engineered
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Species-level limits that blur the evolved/designed distinction in simulation
 - [tenets](/tenets/) — The foundational commitments these concepts serve
 
 ## References
@@ -205,19 +207,3 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 1. Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
 1. Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
-
-<!-- AI REFINEMENT LOG - 2026-02-23
-Changes made:
-1. Rewrote Mind-Matter Interface section: weakened conclusion from "architecturally possible" to "not conceptually incoherent," explicitly addressing why the inside/outside disanalogy matters (Issue 1, high severity)
-1. Added new "Distinguishing From Cartesian Skepticism" subsection explaining structural specificity as what separates simulation from generic skeptical scenarios (Issue 2, high severity)
-1. Restructured Triviality Objection into two distinct kinds of work (constructive modelling vs assumption identification) instead of four items that reduced to one (Issue 3, medium severity)
-1. Foregrounded MWI-simulation tension as central question in No Many Worlds section instead of burying caveat (Issue 4, medium severity)
-1. Qualified Incredulity Objection: "by definition" → conditional on computational resources
-1. Added Map-perspective framing to Illusionist Challenge and illusionist counter-response
-1. Language fixes: removed rhetorical italics, "conceptual room" → "logical space", "physics engine" → "simulated physical laws", "genuine philosophical work" → "specific philosophical work"
-
-Based on pessimistic review pessimistic-2026-02-23.md.
-Key improvements: tighter reasoning at all four critical points; explicit Cartesian skepticism distinction; honest handling of analogy limits.
-
-This log should be removed after human review.
--->

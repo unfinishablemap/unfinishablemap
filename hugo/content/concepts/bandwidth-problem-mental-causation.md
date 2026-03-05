@@ -11,6 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-laws]]'
+- '[[psychophysical-coupling]]'
 - '[[attention-as-interface]]'
 - '[[selection-laws]]'
 created: 2026-02-23

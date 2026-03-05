@@ -101,7 +101,7 @@ The counterfactual void connects to The Unfinishable Map's [tenets](/tenets/) at
 - [imagination-void](/voids/imagination-void/) — The limit of phenomenal imagination, a related but distinct constraint
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Where thought encounters the formally unthinkable
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodily architecture constrains cognition
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Whether all minds converge on the same boundaries
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Whether all minds converge on the same boundaries
 - [other-minds-void](/voids/other-minds-void/) — The inaccessibility of alien phenomenology
 - [past-self-void](/voids/past-self-void/) — The inaccessibility of our own former experience
 - [framework-void](/voids/framework-void/) — The inability to think outside our conceptual framework

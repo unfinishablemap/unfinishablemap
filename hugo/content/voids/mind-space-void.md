@@ -97,7 +97,7 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 - [voids](/voids/) — The framework for investigating cognitive limits
 - [other-minds-void](/voids/other-minds-void/) — The sealed privacy of individual consciousness
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — What radically different minds might reveal
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Whether some concepts are permanently inaccessible
 - [scale-void](/voids/scale-void/) — How cosmic magnitudes overwhelm intuition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure without intrinsic nature

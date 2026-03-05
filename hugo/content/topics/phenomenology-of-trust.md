@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-04 08:23:00+00:00
+ai_modified: 2026-03-05 06:39:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[epistemic-emotions]]'
 - '[[phenomenology-of-choice]]'
-- '[[phenomenal-intentionality]]'
+- '[[intentionality]]'
 created: 2026-02-15
 date: &id001 2026-02-18
 description: Trust has a distinctive felt character that information processing alone

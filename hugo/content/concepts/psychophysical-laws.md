@@ -102,7 +102,7 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 ## The Coupling Problem
 
-Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. A psychophysical coupling law would specify:
+Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. [Psychophysical coupling](/concepts/psychophysical-coupling/) — the lawful relationship between conscious states and physical processes — names the bridge that any adequate theory must provide. A psychophysical coupling law would specify:
 
 1. **Variables on the mental side**: What aspects of conscious experience map to selection? Attention? Intention? Valence? Effort?
 2. **Variables on the physical side**: What quantum degrees of freedom are targetable? Individual outcomes? Probability weights? Basis choice?

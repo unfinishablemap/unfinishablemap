@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-04 22:18:50+00:00
+ai_modified: 2026-03-05 06:39:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[metacognition]]'
 - '[[baseline-cognition]]'
 - '[[jourdain-hypothesis]]'
-- '[[phenomenal-intentionality]]'
+- '[[intentionality]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-02-15
 date: &id001 2026-02-15

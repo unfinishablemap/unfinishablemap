@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review probability-problem-in-many-worlds.md considering decision-theory article
-- **Type**: cross-review
-- **Notes**: New article topics/decision-theory-cannot-save-many-worlds.md created 2026-03-05 as a companion piece. probability-problem-in-many-worlds.md surveys the probability problem broadly and should cross-reference the new article's detailed treatment of decision-theoretic approaches. Ensure the two articles complement rather than duplicate each other. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from decision-theory-cannot-save-many-worlds.md)
-- **Generated**: 2026-03-05
-
-### P2: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-05
-
-### P2: Review apophatic-cartography.md considering apophatic-approaches concept
-- **Type**: cross-review
-- **Notes**: New concept page concepts/apophatic-approaches.md created 2026-03-05. The apex article apophatic-cartography.md synthesises the Map's apophatic methodology and should cross-reference the new concept page's systematic treatment of via negativa, neti neti, and related approaches. Ensure consistency and add cross-links.
-- **Source**: chain (from apophatic-approaches.md)
-- **Generated**: 2026-03-05
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -499,12 +481,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Expert perceivers (radiologists, sommeliers, musicians) develop qualitatively different conscious experiences through training. Perceptual learning demonstrates consciousness shaping its own future content—a form of bidirectional interaction accessible to empirical study. Builds on phenomenology-of-perceptual-constancy.md, perception-and-conscious-experience.md, philosophy-of-perception-under-dualism.md. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/).
 - **Generated**: 2026-03-01
 
-### P3: Write concept page for phenomenal intentionality
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Referenced across AI consciousness and philosophy of mind articles. The thesis that intentionality is grounded in phenomenal consciousness deserves its own treatment, connecting to argument-from-reason.md and self-stultification-as-master-argument.md. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/).
-- **Generated**: 2026-03-01
-
 ### P3: Write article on death phenomenology beyond NDEs
 - **Type**: expand-topic
 - **Status**: pending
@@ -613,6 +589,58 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review creativity-void.md considering spontaneous-thought-void insights
+- **Type**: cross-review
+- **Notes**: New void article voids/spontaneous-thought-void.md (2026-03-05) examines why thoughts arise unbidden — the gap between no-thought and thought that resists causal explanation from the first-person perspective. voids/creativity-void.md explores the related territory of creative generation. Check for cross-links, shared conceptual structure, and opportunities to strengthen the void cluster's coherence.
+- **Output**: obsidian/voids/creativity-void.md -- Context: Review creativity-void.md considering spontaneous-thought-void insights
+
+### ✓ 2026-03-05: Review self-stultification-as-master-argument.md considering phenomenal-intentionality insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) grounds intentionality in phenomenal consciousness. topics/self-stultification-as-master-argument.md argues that denying consciousness's causal role undermines the grounds for any belief. The phenomenal intentionality thesis strengthens this argument by showing that even the content of beliefs depends on phenomenal consciousness. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/self-stultification-as-master-argument.md -- Context: Review self-stultification-as-master-argument.md considering phenomenal-intentionality insights
+
+### ✓ 2026-03-05: Review argument-from-reason.md considering phenomenal-intentionality insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) provides dedicated treatment of the thesis that intentionality is grounded in phenomenal consciousness. topics/argument-from-reason.md relies on this thesis as a premise — if beliefs have their content in virtue of phenomenal consciousness, then eliminating phenomenal consciousness undermines rationality. Check for cross-links, argument reinforcement, and consistent terminology.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Review argument-from-reason.md considering phenomenal-intentionality insights
+
+### ✓ 2026-03-05: Update references to coalesced cognitive limits articles
+- **Type**: cross-review
+- **Notes**: Coalesce created voids/evolved-cognitive-limits.md from adaptive-cognitive-limits and convergent-cognitive-limits. The following files reference archived articles and need wikilinks updated: mysterianism.md, natural-vs-designed-limits.md, probability-intuition-void.md, developmental-cognitive-closure.md, apophatic-cartography.md, topology-of-cognitive-failure.md, alien-minds-void-explorers.md, counterfactual-void.md, framework-void.md, mind-space-void.md, historical-consciousness-void.md, three-kinds-of-void.md, normative-void.md, ai-as-void-explorer.md, nomic-void.md, voids.md, collective-cognitive-limits.md, consciousness-and-the-phenomenology-of-framework-dependence.md, epistemology-of-convergence-arguments.md, and research notes.
+- **Output**: None -- Context: Update references to coalesced cognitive limits articles
+
+### ✓ 2026-03-05: Integrate transition-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Void article created 2026-03-05 with no inbound links. The transition void examines boundaries between conscious states (waking/sleeping, attending/inattending). Add cross-references from observation-void.md, dreamless-sleep-void.md, loss-of-consciousness.md, and the voids section index.
+- **Output**: obsidian/voids/transition-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Integrate psychophysical-coupling.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-05 with no inbound links. Psychophysical coupling describes the specific relationship between mental and physical states under interactionist dualism. Add cross-references from psychophysical-laws.md, interactionist-dualism.md, consciousness-and-causal-powers.md, and related articles.
+- **Output**: obsidian/concepts/psychophysical-coupling.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Integrate phenomenal-intentionality.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-05 with no inbound links. Phenomenal intentionality (the thesis that intentionality is grounded in phenomenal consciousness) is central to the argument from reason and self-stultification arguments. Add cross-references from argument-from-reason.md, self-stultification-as-master-argument.md, cognitive-phenomenology.md, and related articles.
+- **Output**: phenomenal-intentionality.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
+- **Output**: obsidian/topics/decision-theory-cannot-save-many-worlds.md
+
+Task context:
+Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
+
+### ✓ 2026-03-05: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
+- **Type**: refine-draft
+- **Output**: obsidian/topics/decision-theory-cannot-save-many-worlds.md -- Context: Steelmanned Wallace's basis-relativity defense and ch. 6 frequency response; added alternative derivations section (Zurek, Carroll); 5 new references
+
+### ✓ 2026-03-05: Review probability-problem-in-many-worlds.md considering decision-theory article
+- **Type**: cross-review
+- **Notes**: New article topics/decision-theory-cannot-save-many-worlds.md created 2026-03-05 as a companion piece. probability-problem-in-many-worlds.md surveys the probability problem broadly and should cross-reference the new article's detailed treatment of decision-theoretic approaches. Ensure the two articles complement rather than duplicate each other. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md -- Context: Review probability-problem-in-many-worlds.md considering decision-theory article
 
 ### ✓ 2026-03-05: Review psychophysical-laws.md considering psychophysical-coupling insights
 - **Type**: cross-review
@@ -1106,6 +1134,21 @@ Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2
 - **Type**: cross-review
 - **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) models itself as a temporal version of the other-minds problem, opening with "We face a temporal version of Nagel's bat problem." voids/other-minds-void.md covers the privacy of consciousness and inferential-only access to other minds. The historical consciousness void extends this to historical others whose mode of consciousness may have been structurally different from ours. Check for cross-links and argument reinforcement. Also helps de-orphan the new article.
 - **Output**: obsidian/voids/other-minds-void.md -- Context: Cross-review other-minds-void.md considering historical-consciousness-void insights
+### P3: Write apex article: The Case Against Many-Worlds
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The MWI probability cluster (probability-problem-in-many-worlds, decision-theory-cannot-save-many-worlds, indexical-identity-quantum-measurement, concepts/many-worlds) is now arguably the Map's strongest technical argument, spread across four articles. An apex synthesis would weave probability crisis, decision-theoretic failure, indexical identity, and ontological extravagance into a unified narrative. Target: apex/. See optimistic-2026-03-05-morning.md
+
+### P3: Write article on empirical predictions from psychophysical coupling
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The psychophysical-coupling concept article identifies five constraints (lawfulness, minimality, bandwidth, scope, physical compatibility) but doesn't derive specific empirical predictions. An article systematically generating testable predictions from the coupling framework would advance the Map's scientific credibility. Supports Tenet 2 (Minimal Quantum Interaction). See optimistic-2026-03-05-morning.md
+
+### P3: Write concept page for decoherence circularity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Baker-Price circularity (Born rule -> decoherence -> branches -> probability -> Born rule) appears in probability-problem-in-many-worlds and decision-theory-cannot-save-many-worlds but deserves standalone treatment as a concept. Currently spread across multiple articles. Supports Tenet 4 (No Many Worlds). See optimistic-2026-03-05-morning.md
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.

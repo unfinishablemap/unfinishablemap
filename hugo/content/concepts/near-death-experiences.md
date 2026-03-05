@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-22 13:22:00+00:00
+ai_modified: 2026-03-05 08:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Vivid conscious experiences during cardiac arrest when brain activi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 07:26:00+00:00
+last_deep_review: 2026-03-05 08:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,15 +68,15 @@ Van Lommel's key observation: "With a purely physiological explanation such as c
 
 ### AWARE II (2023)
 
-Sam Parnia's multi-center study: 567 cardiac arrests across 25 hospitals, with 28 survivors completing interviews.
-- 39.3% (11/28) reported perceptions suggestive of consciousness during cardiac arrest
+Sam Parnia's multi-center study: 567 cardiac arrests across 25 hospitals. Only 28 survivors completed interviews—a small sample that limits statistical confidence, though findings are directionally significant.
+- 39.3% (11/28) of interviewed survivors reported perceptions suggestive of consciousness during cardiac arrest
 - Four categories emerged: CPR-induced consciousness (7.1%), post-resuscitation emergence (7.1%), dream-like experiences (10.7%), transcendent RED (21.4%)
 - **Crucial finding**: Normal EEG activity emerged as long as 35-60 minutes into CPR despite severe cerebral ischemia (mean oxygen saturation 43%)
 - Hidden image and audio tests: Only 1/28 identified the auditory stimulus; none identified the visual image
 
 The EEG finding is significant. Consciousness-consistent brain patterns appeared during CPR when brain function should be deeply suppressed. This doesn't prove consciousness is independent of the brain, but it demonstrates that the brain-consciousness relationship during dying is more complex than expected.
 
-### Gamma Surge Studies (2023-2024)
+### Gamma Surge Studies (2023)
 
 Jimo Borjigin's University of Michigan team documented the first human evidence of "end-of-life surge"—previously observed only in rats. Two of four dying patients showed gamma wave surges in the temporal-parietal-occipital junction (regions associated with out-of-body experiences and conscious processing) after life support removal. The surges occurred within minutes of cardiac arrest. These patients did not survive to report experiences, so the subjective correlate remains unknown.
 
@@ -130,7 +130,7 @@ The asymmetry remains a genuine tension. The explanation that different disrupti
 
 [Whitehead's process philosophy](/concepts/process-philosophy/) offers a complementary framework: if experience pervades reality at every level rather than emerging from non-experiential matter, NDEs don't require explaining how consciousness "survives" brain failure—the brain provides an interface that dissolves during dying, potentially freeing consciousness from its normal constraints.
 
-## Relation to the Map's Perspective
+## Relation to Site Perspective
 
 NDEs align with multiple site tenets:
 
@@ -175,21 +175,9 @@ None of these would definitively refute dualism, but they would significantly we
 ## References
 
 1. Batthyány, A. et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 17-22.
-1. Borjigin, J. et al. (2024). Gamma surge in dying human brains. University of Michigan.
+1. Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *Proceedings of the National Academy of Sciences*, 120(19), e2216268120.
 1. Mashour, G.A. et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
 1. Nahm, M., Greyson, B., Kelly, E.W. & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
 1. Parnia, S. et al. (2022). Guidelines and standards for the study of death and recalled experiences of death. *Annals of the New York Academy of Sciences*, 1511(1):5-21.
 1. Parnia, S. et al. (2023). AWAreness during REsuscitation II: A multi-center study. *Resuscitation*.
 1. Van Lommel, P. et al. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358:2039-2045.
-
-<!-- AI REFINEMENT LOG - 2026-02-17
-Changes made:
-1. Added "Terminal Lucidity as Corroborating Evidence" subsection with Nahm/Greyson research, Batthyány prevalence data, and Mashour paradigm-shift argument
-1. Added "The Asymmetry Problem" subsection addressing why most brain damage diminishes consciousness while NDEs and terminal lucidity enhance it — honest treatment with concession that this remains a genuine tension for filter theory
-1. Added 5 new references for terminal lucidity literature (Batthyány 2023, Mashour 2019, Nahm & Greyson 2009, Nahm et al. 2012, Nahm & Greyson 2014)
-
-Based on pessimistic review (2026-02-17 night) identifying that filter theory predicts enhanced consciousness during brain compromise, but most brain damage produces diminished consciousness.
-Key improvements: honest engagement with asymmetry problem; terminal lucidity as additional evidence that brain compromise can enhance experience beyond just NDEs.
-
-This log should be removed after human review.
--->

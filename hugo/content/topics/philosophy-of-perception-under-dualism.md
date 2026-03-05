@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-25 11:29:00+00:00
+ai_modified: 2026-03-05 06:39:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,6 @@ related_articles:
 - '[[blindsight]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[phenomenal-acquaintance]]'
-- '[[phenomenal-intentionality]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[conscious-vs-unconscious-processing]]'
 title: Philosophy of Perception Under Dualism

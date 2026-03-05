@@ -170,7 +170,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The specific convergence case for dualism
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Survey of how non-Western traditions frame the hard problem
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Cross-cultural invariants in the experience of agency
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — How cognitive limits converge across cultures
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — How cognitive limits converge across cultures
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Empirical evidence on whether dualism is innate or learned
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Meta-level argument from epistemic humility
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails in this debate

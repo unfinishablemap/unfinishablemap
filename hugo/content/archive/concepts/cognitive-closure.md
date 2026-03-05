@@ -125,7 +125,7 @@ The [voids](/voids/) framework resonates with cognitive closure: McGinn's proper
 ## Further Reading
 
 - [mysterianism](/concepts/mysterianism/) — The broader position that applies cognitive closure to the mind-body problem
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence that certain cognitive limits are species-wide
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence that certain cognitive limits are species-wide
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Fodor's nativist argument complementing cognitive closure
 - [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — How maturation creates new closures
 - [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — The meta-question: can we know our own limits?

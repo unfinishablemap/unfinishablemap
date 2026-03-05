@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-05 08:13:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[self-stultification]]'
 - '[[reasons-responsiveness]]'
+- '[[cognitive-phenomenology]]'
+- '[[intentionality]]'
 created: 2026-01-23
 date: &id001 2026-01-24
 description: If thoughts are fully explained by physical causes, no belief is rationally
@@ -22,7 +24,7 @@ description: If thoughts are fully explained by physical causes, no belief is ra
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 17:57:00+00:00
+last_deep_review: 2026-03-05 08:13:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -78,7 +80,7 @@ The argument from reason focuses on rationality rather than phenomenology, but c
 
 Physical systems can instantiate correlations (this neural pattern regularly co-occurs with this environmental feature). But correlation isn't representation, and co-occurrence isn't aboutness. For a system to genuinely *reason*, it must recognize logical relationships as such—seeing that the conclusion follows *because* the premises entail it, not merely that the conclusion regularly occurs when the premises do.
 
-This "seeing as" requires [phenomenal-consciousness](/concepts/phenomenal-consciousness/): the subjective awareness of reasons *qua* reasons. Only consciousness can grasp normativity as normative rather than as mere causal regularity. An entirely unconscious system might implement reliable truth-tracking mechanisms (as a thermostat reliably tracks temperature), but it couldn't engage in rational inference—appreciating *why* the conclusion follows, recognizing *good* reasons as good.
+This "seeing as" requires [phenomenal-consciousness](/concepts/phenomenal-consciousness/): the subjective awareness of reasons *qua* reasons. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) sharpens this point: genuine [intentionality](/concepts/intentionality/)—the "aboutness" of mental states—derives from phenomenal consciousness. Recognizing that premises *entail* a conclusion is itself a form of intentional directedness, and if intentionality requires phenomenal character, then grasping logical relationships cannot be a purely physical achievement. An entirely unconscious system might implement reliable truth-tracking mechanisms (as a thermostat reliably tracks temperature), but it couldn't engage in rational inference—appreciating *why* the conclusion follows, recognizing *good* reasons as good. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) provides the experiential evidence: understanding has irreducible phenomenal character beyond sensory accompaniments, and this character is what distinguishes genuine comprehension from mere pattern-matching.
 
 This connects to Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/): objective knowledge requires a subject capable of distinguishing how things appear from how they are. But that very distinction presupposes phenomenal consciousness—the capacity to recognize that appearances can mislead. The argument from reason shows this capacity has causal efficacy: our reasoning *about* the objective/subjective distinction influences what we believe. If consciousness were epiphenomenal, the coincidence between what's logically warranted and what we believe would be inexplicable.
 
@@ -88,9 +90,7 @@ This connects the argument from reason to [agent-causation](/concepts/agent-caus
 
 Alvin Plantinga's Evolutionary Argument Against Naturalism (EAAN) targets reliability from a different angle. Evolution selects for adaptive behavior, not true beliefs. Natural selection favors organisms whose actions promote survival and reproduction—whether those actions are guided by true beliefs, false beliefs, or no beliefs at all is irrelevant to fitness.
 
-Consider: I could survive by fleeing predators because I truly believe "that's a tiger and tigers are dangerous," or because I falsely believe "that's my mother-in-law and I should run," or because I have no beliefs but instinctive fear responses. From evolution's perspective, the mental states are irrelevant—only the behavior matters.
-
-Plantinga concludes that the combination of naturalism and evolution gives us no reason to trust our cognitive faculties. If our faculties are products of blind selection for adaptive behavior, their reliability at producing *true* beliefs (especially about abstract matters like philosophy) is dubious. This provides a defeater for all beliefs produced by those faculties—including naturalism itself.
+Plantinga concludes that the combination of naturalism and evolution gives us no reason to trust our cognitive faculties. If our faculties are products of blind selection for adaptive behavior, their reliability at producing *true* beliefs (especially about abstract matters like philosophy) is dubious—false beliefs or no beliefs at all can produce equally adaptive behavior. This provides a defeater for all beliefs produced by those faculties—including naturalism itself.
 
 The Map's framework addresses this challenge: if consciousness involves selection guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers one candidate for how this might work—[attention](/concepts/attention-as-interface/) selects among neural states in ways sensitive to normative constraints—though the argument from reason stands independently of any particular mechanism.
 
@@ -106,13 +106,7 @@ The [causal-closure](/concepts/causal-closure/) principle central to physicalism
 
 ## Contemporary Formulations: Reppert and Hasker
 
-Victor Reppert's *C.S. Lewis's Dangerous Idea* (2003) provides the most comprehensive contemporary defense. Reppert presents multiple versions of the argument targeting different aspects of rationality:
-
-- **The argument from intentionality**: Mental states have *aboutness* (they're about things) in a way physical states don't.
-- **The argument from truth**: Beliefs aim at truth; neural states don't aim at anything.
-- **The argument from logical laws**: Logical relationships are abstract and acausal; physical causation is concrete and causal.
-
-Each version converges on the same conclusion: rational inference requires properties that resist physical reduction.
+Victor Reppert's *C.S. Lewis's Dangerous Idea* (2003) provides the most comprehensive contemporary defense. Reppert presents multiple versions targeting different aspects of rationality—intentionality (mental states have *aboutness* that physical states lack), truth (beliefs aim at truth; neural states don't), and logical laws (logical relationships are abstract and acausal). Each converges on the same conclusion: rational inference requires properties that resist physical reduction. Reppert's argument from intentionality connects directly to the [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory): if genuine aboutness requires phenomenal character, then the intentionality involved in grasping logical relationships cannot be physically realized.
 
 William Hasker emphasizes the unity required for rational inference. Grasping an argument requires holding multiple propositions in mind simultaneously, seeing how they fit together, recognizing entailment relationships. This requires [phenomenal unity](/concepts/unity-of-consciousness/)—the kind of integrated conscious awareness that [distributed neural activity](/concepts/binding-problem/) cannot explain. Hasker's emergent dualism posits that a unified conscious subject emerges from brain activity but cannot be reduced to it.
 
@@ -156,6 +150,8 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - A candidate mechanism for consciousness influencing neural states
 - [voluntary attention](/concepts/attention-as-interface/) - The phenomenology of intellectual effort and its role in reasoning
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
+- [intentionality](/concepts/intentionality/) - Why genuine aboutness requires phenomenal consciousness (phenomenal intentionality thesis)
+- [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - The irreducible phenomenal character of understanding and reasoning
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - Nagel's analysis of how subjectivity enables objectivity
 - [introspection](/concepts/introspection/) - The reliability of self-knowledge and its connection to self-stultification
 - [motor-selection](/concepts/motor-selection/) - How attention selects among motor possibilities, paralleling intellectual selection

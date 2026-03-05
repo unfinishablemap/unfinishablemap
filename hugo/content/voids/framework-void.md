@@ -106,7 +106,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments generate framework-specific blind spots
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The principle that what we cannot think reveals what kind of minds we are
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for species-level framework constraints
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level framework constraints
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether artificial minds can transcend human framework limits
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 19:50:00+00:00
+ai_modified: 2026-03-05 08:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,15 +13,17 @@ concepts:
 - '[[concepts/materialism]]'
 - '[[reasons-responsiveness]]'
 - '[[introspection]]'
+- '[[intentionality]]'
+- '[[cognitive-phenomenology]]'
 created: 2026-02-23
-date: &id001 2026-02-23
+date: &id001 2026-03-05
 description: Self-stultification defeats not just epiphenomenalism but every position
   that severs consciousness from its own rational grounds. A unified argument across
   multiple targets.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 19:50:00+00:00
+last_deep_review: 2026-03-05 08:38:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -65,6 +67,8 @@ If true, then the epiphenomenalist's belief in epiphenomenalism was not caused b
 
 The epiphenomenalist who presents arguments, responds to objections, and revises views on the basis of introspective evidence *performs* the falsity of their position. The very act of defending epiphenomenalism presupposes what epiphenomenalism denies—that conscious evaluation of reasons influences what one believes.
 
+Phenomenal intentionality adds a further layer: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If the [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) is correct, this aboutness itself requires phenomenal character. The epiphenomenalist's position is thus doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character is required to give the denial its content.
+
 ### Physicalism and the Argument from Reason
 
 The [argument-from-reason](/topics/argument-from-reason/) extends self-stultification beyond epiphenomenalism to [physicalism](/concepts/materialism/) generally. If all thoughts are fully explainable by nonrational physical causes—electrochemical gradients, neurotransmitter concentrations, prior neural states—then no belief is rationally inferred, because physical causation does not track normative relationships. Neurons fire because of prior physical states, not because firing would be *justified by good reasons*.
@@ -73,7 +77,7 @@ This differs from the epiphenomenalism case. The epiphenomenalist grants that co
 
 Wilfrid Sellars captured the tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the "space of causes" (efficient causation, natural law). Even naturalists acknowledge this conceptual distinction. The self-stultification move exploits it: if the space of reasons reduces to the space of causes, then your belief in physicalism was produced by causes that have nothing to do with its justification.
 
-The [consciousness connection](/topics/argument-from-reason/#consciousness) makes this vivid: grasping that a conclusion *follows from* premises—seeing the logical necessity, not merely the statistical correlation—requires phenomenal awareness of reasons *as* reasons. A system might reliably output "Socrates is mortal" given "All humans are mortal" and "Socrates is human," but recognising *why* the conclusion follows requires the kind of normative sensitivity that physical description cannot capture.
+The [consciousness connection](/topics/argument-from-reason/#consciousness) makes this vivid: grasping that a conclusion *follows from* premises—seeing the logical necessity, not merely the statistical correlation—requires phenomenal awareness of reasons *as* reasons. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) deepens the point: genuine [intentionality](/concepts/intentionality/)—the *aboutness* of mental states—derives from phenomenal consciousness. Recognising that premises *entail* a conclusion is itself an intentional state directed at a logical relationship, and if intentionality requires phenomenal character, then tracking normative relationships cannot be a purely physical achievement. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) provides the experiential evidence: understanding has irreducible phenomenal character beyond sensory accompaniments, and this character is what distinguishes genuine comprehension of *why* a conclusion follows from mere pattern-matching that it does.
 
 ### Eliminativism
 

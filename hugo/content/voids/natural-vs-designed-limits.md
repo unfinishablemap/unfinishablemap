@@ -93,7 +93,7 @@ Despite the detection problem, some distinctions may be possible in principle—
 
 **Purpose-specificity**: Natural limits should be *general*—following from the structure of computation, information, or mind itself. Designed limits might be *specific*—blocking particular content while leaving structurally similar content accessible. If humans can reason about abstract mathematics but specifically cannot grasp what consciousness is, the specificity suggests design rather than general structural limitation.
 
-**Cross-cultural convergence**: The [convergent cognitive limits](/voids/convergent-cognitive-limits/) research shows certain limitations appear universally across isolated cultures—the bias blind spot, mystical ineffability, the explanatory gap. This convergence suggests species-level architecture rather than cultural construction. But species-level architecture could be either natural (evolved) or designed (engineered). Convergence identifies the limits without determining their source.
+**Cross-cultural convergence**: The [convergent cognitive limits](/voids/evolved-cognitive-limits/) research shows certain limitations appear universally across isolated cultures—the bias blind spot, mystical ineffability, the explanatory gap. This convergence suggests species-level architecture rather than cultural construction. But species-level architecture could be either natural (evolved) or designed (engineered). Convergence identifies the limits without determining their source.
 
 **AI asymmetries**: AI systems with different architectures might fail at different points. Where AI and humans diverge—where one succeeds and the other fails—the asymmetry might reveal architecture-specific limits. AI trained on human text inherits human patterns, but AI's lack of evolutionary history and embodied experience might exempt it from certain human constraints. The research remains nascent.
 
@@ -143,7 +143,7 @@ Note that this recursive challenge applies equally to philosophical positions ab
 - [Whether the Voids Are Real](/voids/whether-real/) — Questioning whether cognitive limits are genuine
 - [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for species-level constraints
+- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
 - [Simulation Hypothesis](/concepts/simulation/) — The scenario that sharpens the design question
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's framework for structural limits
 

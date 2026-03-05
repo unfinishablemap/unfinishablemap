@@ -129,7 +129,7 @@ The Map interprets cross-cultural convergence as one strand among several suppor
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Bayesian structure of convergence arguments within Western philosophy
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Survey of how non-Western traditions frame the hard problem
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Cross-cultural invariants in the experience of agency
-- [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — How cognitive limits converge across cultures
+- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — How cognitive limits converge across cultures
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Empirical evidence on whether dualism is innate or learned
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Meta-level argument from epistemic humility
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Contemplative traditions as philosophical methodology
