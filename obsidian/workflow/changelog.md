@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 06:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/psychophysical-coupling]]
+- **Word count**: 1468 → 1581 (+113)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links, Born statistics undefined, orphan investigation)
+- **Enhancements made**: 6 (cross-links added to/from 7 articles)
+- **Output**: [[reviews/deep-review-2026-03-05-psychophysical-coupling]]
+
 ## 2026-03-05 06:36 UTC - deep-review
 - **Status**: Success (link migration for archived article)
 - **File**: [[phenomenal-intentionality]] (archived, coalesced into [[intentionality]])

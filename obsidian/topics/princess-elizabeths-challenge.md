@@ -127,6 +127,7 @@ Elisabeth identified the problem that any interactionist dualism must solve. Nea
 - [[pairing-problem]] — Kim's formalisation of Elisabeth's challenge
 - [[causal-closure]] — The modern descendant of the interaction problem
 - [[objections-to-interactionism]] — Current challenges and responses
+- [[psychophysical-coupling]] — The modern concept of lawful mind-body connection
 
 ## References
 

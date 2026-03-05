@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate psychophysical-coupling.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept page created 2026-03-05 with no inbound links. Psychophysical coupling describes the specific relationship between mental and physical states under interactionist dualism. Add cross-references from psychophysical-laws.md, interactionist-dualism.md, consciousness-and-causal-powers.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Integrate transition-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Void article created 2026-03-05 with no inbound links. The transition void examines boundaries between conscious states (waking/sleeping, attending/inattending). Add cross-references from observation-void.md, dreamless-sleep-void.md, loss-of-consciousness.md, and the voids section index.
@@ -618,6 +612,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate psychophysical-coupling.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-05 with no inbound links. Psychophysical coupling describes the specific relationship between mental and physical states under interactionist dualism. Add cross-references from psychophysical-laws.md, interactionist-dualism.md, consciousness-and-causal-powers.md, and related articles.
+- **Output**: obsidian/concepts/psychophysical-coupling.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Integrate phenomenal-intentionality.md into site navigation
 - **Type**: integrate-orphan
