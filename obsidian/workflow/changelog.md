@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 16:34 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Expertise Void
+- **Category**: Mixed (Occluded + Unexplorable)
+- **Output**: [[research/voids-expertise-void-2026-03-05]]
+- **Key finding**: Deep expertise irreversibly transforms conscious experience through perceptual reorganisation, creating a one-way cognitive door where the expert's pre-expertise phenomenology is actively blocked from recovery
+
 ## 2026-03-05 16:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[measurement-problem-as-hard-problem]] (archived → successor [[the-measurement-problem-as-philosophical-problem]])
