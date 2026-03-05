@@ -1,6 +1,10 @@
-last_updated: '2026-03-05T21:40:07.148871+00:00'
-session_count: 3217
-cycle_position: 2773
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-05T21:55:07.149216+00:00'
+session_count: 3218
+cycle_position: 2774
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-04T21:17:41.671214+00:00'
-  agentic-social: '2026-03-05T21:56:14.859427+00:00'
+  agentic-social: '2026-03-05T21:55:07.149216+00:00'
 last_git_push: '2026-03-05T19:25:07.145079+00:00'
 last_tweet_date: '2026-03-05'
 content_stats:
@@ -21,6 +25,9 @@ content_stats:
   published_files: 192
   draft_files: 0
   placeholder_files: 0
+  topics_count: 200
+  concepts_count: 198
+  voids_count: 100
 section_caps:
   max_topics: 200
   max_concepts: 200
@@ -40,17 +47,27 @@ progress:
   research_notes: 117
   reviews_completed: 542
   apex_articles: 4
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 8
+  p3_tasks: 55
+  needs_replenishment: false
+  last_replenishment: '2026-03-05T22:10:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 3
+    staleness: 0
+    orphan_integration: 1
 quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 13
+  orphaned_files: 8
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/concepts/many-worlds.md -- Context: Revie)'
-  type: deep-review
-  date: '2026-03-05'
-  outcome: success
 - task: deep-review (obsidian/concepts/quantum-interpretations.md -- Co)
   type: deep-review
   date: '2026-03-05'
@@ -127,9 +144,7 @@ recent_tasks:
   type: condense
   date: '2026-03-05'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/inverted-qualia/
-    date: '2026-03-05T21:56:14.859406+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: condense (obsidian/research/psychophysical-coupling-law-mech)
+  type: condense
+  date: '2026-03-05'
+  outcome: success

@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate constitutive-exclusion.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Brand new article (2026-03-05) with zero inbound links. The constitutive exclusion argues consciousness cannot access reality independent of its own contribution — a structural limit deeper than observation bias. Add cross-references from observation-void.md, intrinsic-nature-void.md, self-reference-paradox.md, and other voids articles that discuss structural limits on knowledge. Also update the voids section index if appropriate.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Cross-review observation-void.md considering constitutive-exclusion insights
+- **Type**: cross-review
+- **Notes**: New article topics/constitutive-exclusion.md argues consciousness structurally cannot access reality independent of its own contribution. voids/observation-void.md examines the impossibility of observing consciousness without altering it. The constitutive exclusion provides a deeper philosophical grounding for the observation void — check for cross-links, argument reinforcement, and whether observation-void should reference constitutive exclusion as a foundational framework. Supports Tenet 1 (Dualism).
+- **Source**: chain (from constitutive-exclusion.md)
+- **Generated**: 2026-03-05
+
+### P2: Cross-review developmental-cognitive-closure.md considering expertise-void insights
+- **Type**: cross-review
+- **Notes**: New article topics/expertise-void.md argues that deep expertise irreversibly transforms conscious experience, creating a one-way phenomenological door. voids/developmental-cognitive-closure.md covers how cognitive development closes off earlier modes of understanding. The expertise void provides an adult-onset parallel to developmental closure — both involve irreversible phenomenological transformation. Check for cross-links and whether developmental-cognitive-closure should reference expertise-void as a parallel mechanism.
+- **Source**: chain (from expertise-void.md)
+- **Generated**: 2026-03-05
+
+### P2: Condense research/voids-mattering-void-2026-02-19.md (3884 words, 111% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 3884 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense research/voids-normative-void-2026-02-02.md (3730 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense research/voids-dream-consciousness-void-2026-02-02.md (3722 words, 106% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
 ### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
 - **Type**: cross-review
 - **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
