@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Continuity Void"
 created: 2026-03-01
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-01T03:55:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -15,8 +15,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[temporal-consciousness-void]]"
-  - "[[duration-void]]"
+  - "[[temporal-void]]"
   - "[[observation-void]]"
   - "[[calibration-void]]"
 ai_contribution: 100

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Resolution Void"
 created: 2026-02-22
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-02-22T12:26:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -17,7 +17,7 @@ related_articles:
   - "[[tenets]]"
   - "[[scale-void]]"
   - "[[computational-cognitive-limits]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

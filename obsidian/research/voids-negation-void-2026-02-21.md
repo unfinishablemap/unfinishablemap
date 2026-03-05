@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Negation Void"
 created: 2026-02-21
 modified: 2026-02-21
 human_modified: null
-ai_modified: 2026-02-21T04:51:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -208,7 +208,7 @@ Based on this research, a voids article could:
 - Empirical work on how the brain processes double and triple negation might reveal computational limits that mirror the philosophical ones
 - The connection between the negation void and mathematical intuitionism (Brouwer's rejection of excluded middle) is underexplored here
 - Whether AI systems have genuine "negation limits" or only apparent ones requires empirical investigation beyond philosophical speculation
-- The relationship between negation and time (can we negate the past? the future? differently?) connects to [[temporal-consciousness-void]] but wasn't fully explored
+- The relationship between negation and time (can we negate the past? the future? differently?) connects to [[temporal-void]] but wasn't fully explored
 
 ## Citations
 

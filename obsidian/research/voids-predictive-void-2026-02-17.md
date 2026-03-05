@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Predictive Void"
 created: 2026-02-17
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-02-17T20:57:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
   - "[[creativity-void]]"
   - "[[counterfactual-void]]"
   - "[[past-self-void]]"
@@ -195,7 +195,7 @@ The predictive void has cascading implications for the Map's framework:
 
 2. **For the simulation hypothesis**: A simulated consciousness that could predict its own states would lack the predictive void. If the void is a genuine feature of our experience (and the evidence suggests it is), this constrains what kind of simulation could reproduce it. A simulation that makes consciousness predictable would produce beings phenomenologically different from us.
 
-3. **For the relationship between past and future**: The predictive void creates a deep asymmetry — the past is relatively (though imperfectly) accessible via memory, while the future is fundamentally inaccessible via prediction. This connects to the temporal-consciousness-void (why we're trapped in a moving present) and the temporal-asymmetry article (why remembering differs from anticipating).
+3. **For the relationship between past and future**: The predictive void creates a deep asymmetry — the past is relatively (though imperfectly) accessible via memory, while the future is fundamentally inaccessible via prediction. This connects to the temporal-void (why we're trapped in a moving present) and the temporal-asymmetry article (why remembering differs from anticipating).
 
 4. **For the nature of surprise**: If consciousness could predict its future states, surprise would be impossible. The persistence of surprise — including surprise at one's own thoughts, feelings, and reactions — is direct evidence that the predictive void is genuine rather than merely a failure of effort.
 

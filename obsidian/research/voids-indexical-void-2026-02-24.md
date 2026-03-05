@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Indexical Void"
 created: 2026-02-24
 modified: 2026-02-24
 human_modified: null
-ai_modified: 2026-02-24T13:15:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -125,7 +125,7 @@ The Indexical Void names the impossibility of understanding why consciousness ha
   - Argues the vertiginous question is structurally related to A-series vs. B-series theories of time
   - Arguments for the A-theory of time (time genuinely flows, the present is metaphysically special) are more effective when combined with the claim that the "I" is metaphysically privileged
   - Just as the A-theory says *now* is special, egocentric views say *I* am special—both involve indexical privilege
-- **Tenet alignment**: The Map's framework implicitly favours A-theory (consciousness confined to a moving present—see temporal-consciousness-void). The connection between temporal indexicality and personal indexicality reinforces that both may be features of the same underlying structure
+- **Tenet alignment**: The Map's framework implicitly favours A-theory (consciousness confined to a moving present—see temporal-void). The connection between temporal indexicality and personal indexicality reinforces that both may be features of the same underlying structure
 
 ### Haecceity — Medieval Scholastic Concept
 - **URL**: https://en.wikipedia.org/wiki/To_ti_esti

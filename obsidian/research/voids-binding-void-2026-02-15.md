@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Binding Void"
 created: 2026-02-15
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-15T13:58:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[self-reference-paradox]]"
   - "[[attention-created-voids]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

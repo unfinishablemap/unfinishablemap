@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Modal Void"
 created: 2026-02-16
 modified: 2026-02-16
 human_modified: null
-ai_modified: 2026-02-16T06:55:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
   - "[[conceptual-impossibility]]"
   - "[[consciousness-only-territories]]"
 ai_contribution: 100

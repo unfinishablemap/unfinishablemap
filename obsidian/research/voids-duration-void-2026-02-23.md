@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Duration Void"
 created: 2026-02-23
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-02-23T04:58:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[scale-void]]"
 ai_contribution: 100

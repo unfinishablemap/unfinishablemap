@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Readiness Void"
 created: 2026-03-04
 modified: 2026-03-04
 human_modified: null
-ai_modified: 2026-03-04T08:37:00+00:00
+ai_modified: 2026-03-05T01:49:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[causal-interface]]"
   - "[[introspective-opacity]]"
   - "[[the-unobservable-self]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
