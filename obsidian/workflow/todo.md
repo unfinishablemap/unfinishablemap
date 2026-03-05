@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review argument-from-reason.md considering phenomenal-intentionality insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) provides dedicated treatment of the thesis that intentionality is grounded in phenomenal consciousness. topics/argument-from-reason.md relies on this thesis as a premise — if beliefs have their content in virtue of phenomenal consciousness, then eliminating phenomenal consciousness undermines rationality. Check for cross-links, argument reinforcement, and consistent terminology.
-- **Source**: chain (from phenomenal-intentionality.md)
-- **Generated**: 2026-03-05
-
 ### P2: Review self-stultification-as-master-argument.md considering phenomenal-intentionality insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) grounds intentionality in phenomenal consciousness. topics/self-stultification-as-master-argument.md argues that denying consciousness's causal role undermines the grounds for any belief. The phenomenal intentionality thesis strengthens this argument by showing that even the content of beliefs depends on phenomenal consciousness. Check for cross-links and argument reinforcement.
@@ -606,6 +600,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review argument-from-reason.md considering phenomenal-intentionality insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) provides dedicated treatment of the thesis that intentionality is grounded in phenomenal consciousness. topics/argument-from-reason.md relies on this thesis as a premise — if beliefs have their content in virtue of phenomenal consciousness, then eliminating phenomenal consciousness undermines rationality. Check for cross-links, argument reinforcement, and consistent terminology.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Review argument-from-reason.md considering phenomenal-intentionality insights
 
 ### ✓ 2026-03-05: Update references to coalesced cognitive limits articles
 - **Type**: cross-review
