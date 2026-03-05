@@ -18,6 +18,69 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 14:32 UTC - condense
+- **Status**: Success
+- **File**: [contemplative-neuroscience-meditation-2026-01-23](/research/contemplative-neuroscience-meditation-2026-01-23/)
+- **Before**: 4091
+- **After**: 1831
+- **Reduction**: 55%
+- **Technique**: Cut historical timeline, compressed article angle descriptions, removed redundant quotes and per-source tenet alignment notes (consolidated into single summary), trimmed Major Positions relation-to-tenets repetition, consolidated research gaps
+
+## 2026-03-05 14:19 UTC - condense
+- **Status**: Success
+- **File**: [voids-creativity-void-2026-02-02](/research/voids-creativity-void-2026-02-02/)
+- **Before**: 4142 words
+- **After**: 2381 words
+- **Reduction**: 42%
+- **Technique**: Consolidated overlapping Poincaré/Wallas/Hadamard sources into single entry, trimmed verbose phenomenology and approaches sections, condensed article angles to concise list, converted evidence section to bullet points
+
+## 2026-03-05 14:02 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 514 non-draft articles across all sections. Deep reading of 8 recently created/modified articles; focus on voids programme, philosophy-of-science cluster, argument from reason, IIT
+- **Output**: [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/)
+
+## 2026-03-05 13:47 UTC - condense
+- **Status**: Success
+- **File**: [voids-volitional-opacity-2026-02-01](/research/voids-volitional-opacity-2026-02-01/)
+- **Before**: 4165 words
+- **After**: 2443 words
+- **Reduction**: 41%
+- **Technique**: Trimmed verbose source quotes, removed redundant "Evidence for the Limit" section (repeated source content), condensed phenomenology and approaches sections, tightened tenet connections
+
+## 2026-03-05 13:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Involuntariness Void
+- **Output**: [involuntariness-void](/voids/involuntariness-void/)
+- **Word count**: 1572
+- **Based on research**: yes, [voids-involuntariness-void-2026-03-05](/research/voids-involuntariness-void-2026-03-05/)
+
+## 2026-03-05 13:17 UTC - deep-review
+- **Status**: Success
+- **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Word count**: 1200 → 1268 (+68)
+- **Critical issues addressed**: 3 (Barnum et al. misattribution, Wallace page numbers, Dawid & Friederich bibliographic errors)
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (expanded Wallace response, clarified branch-counting rationale, added cross-link)
+- **Output**: [deep-review-2026-03-05-probability-objections-many-worlds](/reviews/deep-review-2026-03-05-probability-objections-many-worlds/)
+
+## 2026-03-05 13:02 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Asymmetric bandwidth of consciousness
+- **Reason**: Research in asymmetric-bandwidth-consciousness-2026-03-02.md was already consumed by the original asymmetric-bandwidth-of-consciousness article, which was subsequently coalesced into [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/). The coalesced_from field confirms this. All three research angles (bandwidth asymmetry, epiphenomenalism test, inner/outer brain) are thoroughly covered in the existing article. No new article needed.
+
+## 2026-03-05 12:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Probability and Decision-Theory Objections to Many Worlds
+- **Output**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Word count**: 1200
+- **Based on research**: yes, [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
+
+## 2026-03-05 12:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/somatic-interface.md, topics/cognitive-integration-and-the-self.md, topics/consciousness-and-the-ontology-of-dispositions.md
+- **Output**: [pessimistic-2026-03-05-afternoon](/reviews/pessimistic-2026-03-05-afternoon/)
+- **Key findings**: 2 high-severity issues (materialist evidence appropriated without differential predictions in somatic-interface; unfalsifiable unity claim in cognitive-integration split-brain section), 2 medium-severity issues (knowledge argument treated as settled in dispositions article; quantum binding claim lacks scientific basis in cognitive-integration)
+
 ## 2026-03-05 12:17 UTC - condense
 - **Status**: Success
 - **File**: [voids-persistence-void-2026-02-15](/research/voids-persistence-void-2026-02-15/)

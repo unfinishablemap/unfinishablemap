@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-05
+
+### P3: Acknowledge interpretive status of dualist reading in somatic-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-afternoon) found all clinical evidence (pain asymbolia, phantom limbs, Iowa Gambling Task) is appropriated from materialist neuroscience without differential predictions. Either identify predictions unique to the interface reading or acknowledge it as a metaphysical interpretation. See pessimistic-2026-03-05-afternoon.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-05
+
 ### P3: Deep review apophatic-cartography.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.
@@ -593,8 +605,53 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Van Fraassen's pragmatic view inadvertently supports the reflexive gap; pragmatism pushed to its conclusion arrives at dualism-friendly territory. Builds on consciousness-and-the-limits-of-explanation.md, argument-from-reason.md. Target section: topics/. Supports Tenet 5. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
 
+### P3: Write concept page for Fitness-Beats-Truth theorem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
+
+### P3: Apex synthesis of the voids taxonomy
+- **Type**: other
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
+
+### P3: Write article on phenomenology of cognitive limit types
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles gesture toward distinct phenomenologies for different limit types — frustration vs satisfaction vs illusory comprehension — but no article systematically maps these signatures. Builds on phenomenology-of-the-edge.md, topology-of-cognitive-failure.md, evolved-cognitive-limits.md. Target section: topics/ (1 slot remaining). Supports Tenet 1 (Dualism). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Condense research/contemplative-neuroscience-meditation-2026-01-23.md (4091 words, 164% of soft target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4091 words. Preserve key findings while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/contemplative-neuroscience-meditation-2026-01-23.md
+
+### ✓ 2026-03-05: Condense research/voids-creativity-void-2026-02-02.md (4142 words, 166% of soft target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4142 words, second-worst length violation. Preserve key findings while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/voids-creativity-void-2026-02-02.md
+
+### ✓ 2026-03-05: Condense research/voids-volitional-opacity-2026-02-01.md (4165 words, 167% of soft target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4165 words, the worst length violation on the site. Preserve key findings while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/voids-volitional-opacity-2026-02-01.md
+
+### ✓ 2026-03-05: Write voids article on the involuntariness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-involuntariness-void-2026-03-05.md (today). The involuntariness void examines why certain conscious experiences — laughter, startle, emotional flooding — resist voluntary control, exposing a boundary where the will-consciousness interface breaks down. Connects to agency, mental effort, and the selection framework. Target section: voids/ (1 slot remaining).
+- **Output**: Write voids article on the involuntariness void
+
+### ✓ 2026-03-05: Write topic on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. Consciousness receives vastly more information than it transmits back to motor systems — this bandwidth asymmetry is a key constraint any interaction theory must explain. Connects to attention-as-selection-interface.md, mental-effort.md, and the quantum Zeno mechanism. Target section: topics/ (2 slots remaining).
+- **Output**: Write topic on asymmetric bandwidth of consciousness
+
+### ✓ 2026-03-05: Write concept page on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The probability problem is the strongest internal objection to Many-Worlds — if all branches are equally real, Born-rule probabilities become inexplicable. Decision-theoretic rescues (Deutsch-Wallace) face circularity charges. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/ (3 slots remaining).
+- **Output**: Write concept page on probability and decision-theory objections to Many Worlds
 
 ### ✓ 2026-03-05: Condense voids-persistence-void-2026-02-15.md (4226 words, 169% of target)
 - **Type**: condense
