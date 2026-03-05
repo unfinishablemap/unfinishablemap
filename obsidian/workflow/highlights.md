@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Two articles on cognitive limits merged into one: cross-cultural evidence reveals blind spots maintained by natural selection because not-knowing conferred survival advantage.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2029470126949482860  
 **Link**: [[evolved-cognitive-limits]]
 
 ---
