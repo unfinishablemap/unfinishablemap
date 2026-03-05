@@ -18,6 +18,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 00:47 UTC - condense
+- **Status**: Success
+- **File**: [hard-problem-non-western-philosophy-2026-02-14](/research/hard-problem-non-western-philosophy-2026-02-14/)
+- **Before**: 6149
+- **After**: 1782
+- **Reduction**: 71%
+- **Technique**: Cut redundant Key Scholars section (inline citations sufficient), removed Key Quotable Passages (best quotes kept inline), compressed Indian philosophy subsections (Advaita/Yogacara/Abhidharma to essentials), trimmed Islamic and African sections to core insights, preserved comparison table and tenet alignment analysis
+
 ## 2026-03-05 00:32 UTC - condense
 - **Status**: Success
 - **File**: [phenomenological-psychiatry-altered-experience-2026-02-21](/research/phenomenological-psychiatry-altered-experience-2026-02-21/)
