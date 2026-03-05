@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-11 10:19:00+00:00
+ai_modified: 2026-03-05 01:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-02-11 10:19:00+00:00
 apex_sources:
@@ -107,7 +107,7 @@ The [ethics of consciousness](/topics/ethics-of-consciousness/) extends beyond i
 
 This shapes how to live among others. Recognition that other conscious beings have moral standing—not because they're useful or related to you but because there's something it is like to be them—grounds basic ethical constraints. Causing unnecessary suffering is wrong because suffering is genuinely bad, not merely unpleasant for the sufferer. Promoting flourishing is good because flourishing experiences are genuinely good.
 
-The Map's framework gives special weight to *valence*—the felt positive or negative quality of experience. Phenomenal normativity explains why: suffering's badness is constitutive of what suffering *is*, not an evaluation layered on top. A world with less suffering and more flourishing is better than the reverse, and this is not merely a preference but a recognition of how value is structured in the phenomenal character of experience itself.
+The Map's framework gives special weight to *valence*—the felt positive or negative quality of experience. [Phenomenal normativity](/concepts/phenomenal-normativity/) explains why: [suffering's badness is constitutive of what suffering *is*](/topics/pain-consciousness-and-causal-power/), not an evaluation layered on top. A world with less suffering and more flourishing is better than the reverse, and this is not merely a preference but a recognition of how value is structured in the phenomenal character of experience itself.
 
 The practical implication: *reduce suffering and promote flourishing where you can*. This doesn't require heroic self-sacrifice—the Map isn't utilitarian in demanding you maximise aggregate welfare regardless of cost to yourself. But it does imply attention to how your choices affect others' experiential quality. The suffering you cause is real suffering. The joy you enable is real joy. These facts constrain and guide ethical life.
 

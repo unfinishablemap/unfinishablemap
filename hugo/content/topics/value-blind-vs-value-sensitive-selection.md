@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-02 05:55:00+00:00
+ai_modified: 2026-03-05 01:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -109,7 +109,7 @@ If selection is value-sensitive, different predictions follow:
 
 - **Valenced content should show a selection advantage.** In tasks where conscious selection among competing neural patterns is required, positively or negatively valenced options should be selected more readily (faster, more reliably) than neutral options of equal attentional salience.
 - **The ~10 bits/second bandwidth should be modulated by valence.** Under extreme valence (acute pain, intense pleasure), effective bandwidth might increase—consciousness selects more efficiently when value is at stake.
-- **Pain asymbolia patients should show reduced conscious selection efficacy**, not just reduced motivation. If valence participates in the selection mechanism itself, its absence should degrade the mechanism, not just the motivational response.
+- **[Pain asymbolia](/topics/pain-consciousness-and-causal-power/) patients should show reduced conscious selection efficacy**, not just reduced motivation. If valence participates in the selection mechanism itself, its absence should degrade the mechanism, not just the motivational response.
 - **Neural signatures of conscious selection should correlate with both attentional effort and the valence of the selected outcome.** Valenced selections should recruit additional neural resources (amygdala-prefrontal coupling, affective processing networks) that are absent in value-neutral selections of equal attentional demand.
 - **Contemplative practitioners who report altered valence processing (equanimity) should show different selection profiles than those who only increase attentional control.** Mindfulness vs. loving-kindness traditions train different aspects of the selection mechanism if value-sensitivity is real.
 
@@ -156,6 +156,7 @@ The Map should eventually take a position on this fork. The graduated middle pat
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Laws and candidate mechanisms for mind-brain interaction
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this fork partially threatens to resurrect
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface through which consciousness acts
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as evidence that valence does causal work in selection
 
 ## References
 

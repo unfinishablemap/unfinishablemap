@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 01:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [temporal-consciousness-void](/voids/temporal-void/), [duration-void](/voids/temporal-void/)
+- **Target**: [temporal-void](/voids/temporal-void/)
+- **Archived**: archive/voids/temporal-consciousness-void.md, archive/voids/duration-void.md
+- **References updated**: 7 active content files (resolution-void, continuity-void, binding-void, temporal-asymmetry-remembering-anticipating, specious-present-temporal-experience, consciousness-and-temporal-becoming, voids index)
+- **References to review**: 14 files in reviews/ and research/ (historical records, not updated)
+
+## 2026-03-05 01:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-pain](/topics/why-pain-hurts/) (archived → successor [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
+- **Word count**: N/A (no content changes to target article)
+- **Critical issues addressed**: 0 (archived article, no content review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 20 cross-links added across 10 files (completing Tier 2 candidates from previous review)
+- **Files modified**: hard-problem-of-consciousness, reductionism-and-consciousness, phenomenal-value-realism, phenomenal-consciousness, value-blind-vs-value-sensitive-selection, psychophysical-laws-bridging-mind-and-matter, the-epiphenomenalist-threat, animal-consciousness, disorders-of-consciousness-as-test-cases, living-with-the-map
+- **Output**: [deep-review-2026-03-05-consciousness-and-pain](/reviews/deep-review-2026-03-05-consciousness-and-pain/)
+
 ## 2026-03-05 01:04 UTC - deep-review
 - **Status**: Success
 - **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)

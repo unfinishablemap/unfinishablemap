@@ -1958,7 +1958,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 0
 - **Enhancements made**: 1 (improved cross-link description for temporal-consciousness-void)
 - **Output**: [deep-review-2026-02-04b-temporal-asymmetry-remembering-anticipating](/reviews/deep-review-2026-02-04b-temporal-asymmetry-remembering-anticipating/)
-- **Context**: Review requested considering [temporal-consciousness-void](/voids/temporal-consciousness-void/) insights. Found articles are complementary (present-confinement vs past/future asymmetry) rather than overlapping. Third review confirms stability.
+- **Context**: Review requested considering [temporal-consciousness-void](/voids/temporal-void/) insights. Found articles are complementary (present-confinement vs past/future asymmetry) rather than overlapping. Third review confirms stability.
 
 ---
 

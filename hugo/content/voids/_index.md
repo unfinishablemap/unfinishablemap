@@ -89,8 +89,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Past-Self Void](/voids/past-self-void/) — The discontinuity of personal identity over time
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
-- [The Temporal Consciousness Void](/voids/temporal-consciousness-void/) — Why consciousness is confined to a moving present
-- [The Duration Void](/voids/duration-void/) — Why lived time and measured time cannot be simultaneously inhabited
+- [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
 - [The Observation Void](/voids/observation-void/) — Every method of studying consciousness transforms what it studies
 - [The Binding Void](/voids/binding-void/) — Why unified experience from disparate sensations resists explanation

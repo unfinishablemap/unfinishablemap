@@ -22,7 +22,7 @@ description: "Memory re-inhabits past experience through traces; anticipation co
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[limits-reveal-structure]]"
   - "[[thoughts-that-slip-away]]"
@@ -122,7 +122,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[temporal-consciousness-void]] — Consciousness confined to the present; complements this article's focus on past/future asymmetry
+- [[temporal-void]] — Consciousness confined to the present; complements this article's focus on past/future asymmetry
 - [[anoetic-noetic-autonoetic-consciousness]] — The self-knowing awareness that enables mental time travel
 - [[episodic-memory]] — The memory system that preserves experienced events
 - [[prospective-memory]] — Future-directed memory and its phenomenology

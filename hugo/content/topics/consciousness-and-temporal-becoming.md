@@ -40,7 +40,7 @@ related_articles:
 - '[[temporal-structure-of-consciousness]]'
 - '[[consciousness-and-temporal-integration]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
-- '[[temporal-consciousness-void]]'
+- '[[temporal-void]]'
 - '[[time-collapse-and-agency]]'
 - '[[non-temporal-consciousness]]'
 - '[[growing-block-universe-and-consciousness]]'
@@ -193,7 +193,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness and time depend on each other
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into temporal flow
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — The specific void of memory versus anticipation
-- [temporal-consciousness-void](/voids/temporal-consciousness-void/) — Why consciousness cannot escape the present
+- [temporal-void](/voids/temporal-void/) — Why consciousness cannot escape the present
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Whether the deepest level of mind transcends time
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — The growing block as temporal metaphysics

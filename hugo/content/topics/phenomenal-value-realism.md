@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 01:29:00+00:00
+ai_modified: 2026-03-05 01:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -61,7 +61,7 @@ Three tests support the identity:
 
 ### Pain Dissociation: A Challenge
 
-Pain asymbolia patients feel pain sensations without finding them distressing. Does this refute the identity of pain and badness? It complicates the naive version. What it reveals is that "pain" as used in ordinary language conflates two dissociable components: a sensory quality (nociception reaching consciousness) and an affective quality (the felt badness). Phenomenal value realism's identity claim applies to the affective component—the felt *unpleasantness*—not to the bare sensory signal. Pain asymbolia patients lack the affective component; they detect tissue damage without experiencing it as bad. This is consistent with the identity thesis: where the felt badness is absent, so is the disvalue.
+[Pain asymbolia](/topics/pain-consciousness-and-causal-power/) patients feel pain sensations without finding them distressing. Does this refute the identity of pain and badness? It complicates the naive version. What it reveals is that "pain" as used in ordinary language conflates two dissociable components: a sensory quality (nociception reaching consciousness) and an affective quality (the felt badness). Phenomenal value realism's identity claim applies to the affective component—the felt *unpleasantness*—not to the bare sensory signal. Pain asymbolia patients lack the affective component; they detect tissue damage without experiencing it as bad. This is consistent with the identity thesis: where the felt badness is absent, so is the disvalue.
 
 ## The Metaethical Landscape
 
@@ -258,6 +258,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — What contemplative practice reveals about value and consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge

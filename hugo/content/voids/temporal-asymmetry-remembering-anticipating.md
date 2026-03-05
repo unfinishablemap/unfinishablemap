@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[temporal-consciousness-void]]'
+- '[[temporal-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[limits-reveal-structure]]'
 - '[[thoughts-that-slip-away]]'
@@ -124,7 +124,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [temporal-consciousness-void](/voids/temporal-consciousness-void/) — Consciousness confined to the present; complements this article's focus on past/future asymmetry
+- [temporal-void](/voids/temporal-void/) — Consciousness confined to the present; complements this article's focus on past/future asymmetry
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables mental time travel
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that preserves experienced events
 - [prospective-memory](/concepts/prospective-memory/) — Future-directed memory and its phenomenology

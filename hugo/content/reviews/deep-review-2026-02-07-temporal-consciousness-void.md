@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-07
-**Article**: [The Temporal Consciousness Void](/voids/temporal-consciousness-void/)
+**Article**: [The Temporal Consciousness Void](/voids/temporal-void/)
 **Previous review**: Never
 **Word count**: 1405 → 1567 (+162)
 

@@ -7,6 +7,11 @@ human_modified: null
 ai_modified: 2026-02-24T09:44:00+00:00
 last_deep_review: 2026-02-24T09:44:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-05T01:32:00+00:00
+superseded_by: "/voids/temporal-void/"
+archive_reason: "Coalesced into The Temporal Void"
+original_path: "/voids/temporal-consciousness-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

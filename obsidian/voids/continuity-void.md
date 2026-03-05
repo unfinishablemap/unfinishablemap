@@ -19,8 +19,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[temporal-consciousness-void]]"
-  - "[[duration-void]]"
+  - "[[temporal-void]]"
   - "[[resolution-void]]"
   - "[[observation-void]]"
   - "[[dreamless-sleep-void]]"
@@ -97,8 +96,7 @@ The continuity void exemplifies why the Map is unfinishable. Not every question 
 
 ## Further Reading
 
-- [[temporal-consciousness-void]]
-- [[duration-void]]
+- [[temporal-void]]
 - [[resolution-void]]
 - [[observation-void]]
 - [[temporal-structure-of-consciousness]]

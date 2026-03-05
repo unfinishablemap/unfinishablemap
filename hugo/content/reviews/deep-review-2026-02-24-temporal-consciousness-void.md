@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [The Temporal Consciousness Void](/voids/temporal-consciousness-void/)
+**Article**: [The Temporal Consciousness Void](/voids/temporal-void/)
 **Previous review**: [2026-02-07](/reviews/deep-review-2026-02-07-temporal-consciousness-void/)
 **Word count**: 1567 → 1682 (+115)
 **Context**: Cross-review considering duration void and absorption void insights
@@ -28,7 +28,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-- **Missing cross-link to duration-void**: The duration void (published same day) explicitly identifies itself as complementary to the temporal consciousness void, but no link existed. Added [duration-void](/voids/duration-void/) to related_articles, Further Reading, and three body sections.
+- **Missing cross-link to duration-void**: The duration void (published same day) explicitly identifies itself as complementary to the temporal consciousness void, but no link existed. Added [duration-void](/voids/temporal-void/) to related_articles, Further Reading, and three body sections.
 - **Missing cross-link to absorption-void**: The absorption void (published same day) connects to temporal dissolution in peak states. Added [absorption-void](/voids/absorption-void/) to related_articles, Further Reading, and self-time binding discussion.
 - **Unattributed Husserl quote**: "never found a position he was happy with for long" was in quotation marks but unattributed to any specific commentator. Reframed as a paraphrase: "Husserl worked intensively on temporal consciousness for decades without reaching a stable position — a difficulty he attributed to the phenomenon itself, not to insufficient effort."
 - **Duration void enrichment opportunities**: Three body sections could connect to the duration void's framework. Added brief cross-references in: (1) the "narrow window" void dimension, (2) the "timelessness as edge-experience" edge-experience, (3) Bergson's Diagnosis.
@@ -64,10 +64,10 @@ No critical attribution issues.
 - Connected "self-time binding" to the absorption void (peak absorption dissolves temporal awareness and self-monitoring together)
 - Added Bergson section cross-reference to the duration void for fuller Bergson treatment
 - Fixed unattributed Husserl quote (reframed as paraphrase)
-- Added [duration-void](/voids/duration-void/) and [absorption-void](/voids/absorption-void/) to related_articles and Further Reading
+- Added [duration-void](/voids/temporal-void/) and [absorption-void](/voids/absorption-void/) to related_articles and Further Reading
 
 ### Cross-links Added
-- [duration-void](/voids/duration-void/)
+- [duration-void](/voids/temporal-void/)
 - [absorption-void](/voids/absorption-void/)
 
 ## Remaining Items

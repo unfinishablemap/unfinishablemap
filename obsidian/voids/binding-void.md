@@ -26,7 +26,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[self-reference-paradox]]"
   - "[[attention-created-voids]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
@@ -138,7 +138,7 @@ The binding void connects to the Map's [[tenets]] at multiple points and provide
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[causal-interface]] — How consciousness interfaces with the physical world
 - [[self-reference-paradox]] — Self-observation requires the unity this void concerns
-- [[temporal-consciousness-void]] — Binding's intersection with the temporal dimension
+- [[temporal-void]] — Binding's intersection with the temporal dimension
 - [[topology-of-cognitive-failure]] — Using the structure of failure as data
 - [[mysterianism]] — McGinn's cognitive closure thesis, strongly applicable here
 

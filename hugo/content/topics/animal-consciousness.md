@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-04 22:18:50+00:00
+ai_modified: 2026-03-05 01:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -135,7 +135,7 @@ If consciousness is irreducible to physical processes, finding neural correlates
 
 Do animals experience the *badness* of pain, or merely detect tissue damage? Panksepp identified seven primary emotional systems arising from ancient subcortical structures. Key evidence: decorticate rats—cortex removed—still play, show distress, and display pleasure responses. If emotional consciousness required cortex, decortication should eliminate it. This suggests emotional consciousness is "an evolutionary birthright" extending to any creature with subcortical limbic structures.
 
-LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [pain asymbolia](/topics/emotional-consciousness/#valence)—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
+LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [pain asymbolia](/topics/pain-consciousness-and-causal-power/)—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
 
 ## Moral Status
 
@@ -210,6 +210,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Theory of mind levels and shared intentionality
 
 ### Related Topics
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal role across species
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why the explanatory gap applies universally
 - [ai-consciousness](/topics/ai-consciousness/) — Parallel questions about non-biological minds
 - [higher-order-theories](/concepts/higher-order-theories/) — Why HOT theories fail

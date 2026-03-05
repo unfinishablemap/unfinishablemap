@@ -18,7 +18,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[scale-void]]'
-- '[[temporal-consciousness-void]]'
+- '[[temporal-void]]'
 - '[[computational-cognitive-limits]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[bandwidth-problem-mental-causation]]'
@@ -50,7 +50,7 @@ Cognitive control capacity is even lower than the ten-bit figure suggests. When 
 
 The resolution void extends into time. Unconscious processing detects motion with as little as three milliseconds of temporal difference. Conscious perception, by contrast, packages experience into discrete frames of roughly 300–450 milliseconds, with the earliest neural correlate of conscious awareness appearing approximately 240 milliseconds after stimulus onset (VanRullen & Koch 2016).
 
-The ratio — approximately 100:1 between unconscious and conscious temporal resolution — means that for every moment consciousness registers, the brain processes roughly a hundred moments that awareness will never access. The [temporal-consciousness-void](/voids/temporal-consciousness-void/) explores the phenomenological consequences of this confinement. The resolution void grounds it in measurement: consciousness is temporally coarse because it is informationally coarse.
+The ratio — approximately 100:1 between unconscious and conscious temporal resolution — means that for every moment consciousness registers, the brain processes roughly a hundred moments that awareness will never access. The [temporal-void](/voids/temporal-void/) explores the phenomenological consequences of this confinement. The resolution void grounds it in measurement: consciousness is temporally coarse because it is informationally coarse.
 
 Buddhist contemplative traditions arrived at a parallel insight through different methods. The *kṣaṇa* (moment) doctrine holds that consciousness operates in discrete temporal units — the Sarvāstivāda school estimated these at 0.13 to 13 milliseconds, while Theravāda analysis held that material processes endure for 16–17 consciousness-moments (Von Rospatt 1995). Whether contemplative refinement of temporal resolution represents genuine enhancement or altered interpretation of unchanged resolution remains open. Psychophysical training — wine tasting, musical ear training — can shift discrimination thresholds, but the fundamental architecture may be invariant.
 
@@ -84,7 +84,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 
 - [voids](/voids/) — The framework of cognitive limits and unchartable territories
 - [scale-void](/voids/scale-void/) — Parallel resolution limits in spatial cognition
-- [temporal-consciousness-void](/voids/temporal-consciousness-void/) — The temporal dimension of conscious confinement
+- [temporal-void](/voids/temporal-void/) — The temporal dimension of conscious confinement
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Mathematical limits on what any system can compute
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Empirical measurements of the consciousness bottleneck
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — How coarse-grained intention produces fine-grained physical effects

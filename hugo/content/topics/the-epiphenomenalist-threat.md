@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-25 20:55:00+00:00
+ai_modified: 2026-03-05 01:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -64,7 +64,7 @@ Non-reductive physicalists have responded with proposals about causal overdeterm
 
 [Functionalism](/concepts/functionalism/) defines mental states by their causal roles—what they do rather than what they are made of. Pain is whatever state is caused by tissue damage, causes distress, and prompts avoidance behavior. This seems to guarantee causal efficacy: mental states are *defined* as causally active.
 
-The threat enters through qualia. If there is something it is like to be in pain—a felt quality beyond the functional role—then functionalism faces a question: does the felt quality contribute causally, or does the functional role do all the work?
+The threat enters through qualia. If there is [something it is like to be in pain](/topics/pain-consciousness-and-causal-power/)—a felt quality beyond the functional role—then functionalism faces a question: does the felt quality contribute causally, or does the functional role do all the work?
 
 The absent qualia thought experiment sharpens the problem. If a system could play all the right functional roles without any felt experience, then experience is not part of the functional story. It is an extra feature—present when certain functional roles are played, but doing no functional work itself. This is epiphenomenalism about qualia, even within a framework designed to ensure mental causation.
 
@@ -172,6 +172,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [decoherence](/concepts/decoherence/) — The decoherence objection to quantum consciousness: three claims, five responses, and the evidence
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires consciousness to be causally efficacious
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The broader argument for taking consciousness as irreducible
 
 ## References

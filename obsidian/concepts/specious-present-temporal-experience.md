@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[specious-present-temporal-experience-2026-01-16]]"
   - "[[consciousness-and-temporal-integration]]"
-  - "[[temporal-consciousness-void]]"
+  - "[[temporal-void]]"
   - "[[william-james-consciousness]]"
   - "[[consciousness-as-activity]]"
   - "[[choking-phenomenon-mental-causation]]"
@@ -102,7 +102,7 @@ This parallels the standard [[qualia|qualia]] arguments but targets a different 
 
 - [[temporal-consciousness]] — Comprehensive treatment of time in consciousness, including Bergson's durée and AI implications
 - [[consciousness-and-temporal-integration]] — How moments bind into a temporal stream at micro, meso, and macro scales
-- [[temporal-consciousness-void]] — The void of being confined to a moving present
+- [[temporal-void]] — The void of being confined to a moving present
 - [[philosophy-of-time]] — A-theory, B-theory, and the Map's modified growing block
 - [[temporal-phenomenology-quantum-selection]] — The specious present as selection window: how temporal phenomenology maps onto quantum collapse
 - [[collapse-and-time]] — How quantum collapse may constitute time's arrow

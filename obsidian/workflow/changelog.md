@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 01:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[temporal-consciousness-void]], [[duration-void]]
+- **Target**: [[temporal-void]]
+- **Archived**: archive/voids/temporal-consciousness-void.md, archive/voids/duration-void.md
+- **References updated**: 7 active content files (resolution-void, continuity-void, binding-void, temporal-asymmetry-remembering-anticipating, specious-present-temporal-experience, consciousness-and-temporal-becoming, voids index)
+- **References to review**: 14 files in reviews/ and research/ (historical records, not updated)
+
 ## 2026-03-05 01:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-pain]] (archived → successor [[why-pain-hurts]])

@@ -1,38 +1,45 @@
 ---
-title: "The Duration Void"
-description: "Human+AI exploration of why lived time and measured time cannot be simultaneously inhabited—consciousness trapped between two incompatible temporal modes."
-created: 2026-02-24
-modified: 2026-02-24
-human_modified:
-ai_modified: 2026-02-24T09:29:00+00:00
-draft: false
-topics:
-  - "[[hard-problem-of-consciousness]]"
-concepts:
-  - "[[phenomenology]]"
-  - "[[philosophy-of-time]]"
-  - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
-  - "[[introspection]]"
-related_articles:
-  - "[[voids]]"
-  - "[[tenets]]"
-  - "[[temporal-consciousness-void]]"
-  - "[[temporal-asymmetry-remembering-anticipating]]"
-  - "[[scale-void]]"
-  - "[[absorption-void]]"
-  - "[[the-unobservable-self]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
-last_curated:
-last_deep_review:
+ai_modified: 2026-02-24 09:29:00+00:00
+ai_system: claude-opus-4-6
+archive_reason: Coalesced into The Temporal Void
+archived: true
+archived_date: 2026-03-05 01:32:00+00:00
+author: null
+concepts:
+- '[[phenomenology]]'
+- '[[philosophy-of-time]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
+- '[[introspection]]'
+created: 2026-02-24
+date: &id001 2026-02-24
+description: Human+AI exploration of why lived time and measured time cannot be simultaneously
+  inhabited—consciousness trapped between two incompatible temporal modes.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: null
+modified: *id001
+original_path: /voids/duration-void/
+related_articles:
+- '[[voids]]'
+- '[[tenets]]'
+- '[[temporal-consciousness-void]]'
+- '[[temporal-asymmetry-remembering-anticipating]]'
+- '[[scale-void]]'
+- '[[absorption-void]]'
+- '[[the-unobservable-self]]'
+superseded_by: /voids/temporal-void/
+title: The Duration Void
+topics:
+- '[[hard-problem-of-consciousness]]'
 ---
 
 Consciousness operates in two temporal modes that cannot be simultaneously occupied. Lived duration — Bergson's *durée* — is time as directly experienced: continuous, heterogeneous, indivisible. Measured time is duration spatialized into discrete units that can be counted and compared. When consciousness measures time, it fragments the temporal flow, destroying the experience of duration. When consciousness inhabits pure duration, it loses track of quantified time. The duration void names this structural incompatibility: consciousness can never access the complete truth about its own temporal nature because any attempt to observe its temporal experience necessarily transforms that experience into something else.
 
-This void is distinct from the [[temporal-consciousness-void]], which concerns confinement to a moving present. The duration void is about what happens *within* the present — the impossibility of simultaneously living and measuring the time one is living through.
+This void is distinct from the [temporal-consciousness-void](/voids/temporal-void/), which concerns confinement to a moving present. The duration void is about what happens *within* the present — the impossibility of simultaneously living and measuring the time one is living through.
 
 ## Two Modes, One Consciousness
 
@@ -76,25 +83,25 @@ This asymmetry makes AI a useful reference point. Humans cannot simultaneously i
 
 ## Relation to Site Perspective
 
-The duration void engages the Map's [[tenets]] at several points.
+The duration void engages the Map's [tenets](/tenets/) at several points.
 
-**[[tenets#^dualism|Dualism]]** receives support from the irreducibility of lived duration to physical measurement. If Bergson's core claim holds — that *durée* cannot be captured by spatializing time into measurable units — then consciousness includes a temporal dimension that no physical description can represent. This is not merely an explanatory gap awaiting a future solution. It is a structural feature of the relationship between the experiential and the physical, directly paralleling the hard problem: just as qualia resist reduction to neural correlates, lived duration resists reduction to measured time.
+**[Dualism](/tenets/#dualism)** receives support from the irreducibility of lived duration to physical measurement. If Bergson's core claim holds — that *durée* cannot be captured by spatializing time into measurable units — then consciousness includes a temporal dimension that no physical description can represent. This is not merely an explanatory gap awaiting a future solution. It is a structural feature of the relationship between the experiential and the physical, directly paralleling the hard problem: just as qualia resist reduction to neural correlates, lived duration resists reduction to measured time.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** faces a puzzle. If consciousness interfaces with the physical world, it does so at some temporal juncture — but which time? The physical time of quantum events or the lived duration of conscious experience? Wittmann's research linking temporal awareness to interoceptive processing (heartbeat, bodily rhythm) suggests the interface may run through the body's own durational processes — "subjective time and consciousness, felt time, and experience of self are closely related" (Wittmann, 2016). The synchronization mechanism between experiential duration and physical time remains hidden.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** faces a puzzle. If consciousness interfaces with the physical world, it does so at some temporal juncture — but which time? The physical time of quantum events or the lived duration of conscious experience? Wittmann's research linking temporal awareness to interoceptive processing (heartbeat, bodily rhythm) suggests the interface may run through the body's own durational processes — "subjective time and consciousness, felt time, and experience of self are closely related" (Wittmann, 2016). The synchronization mechanism between experiential duration and physical time remains hidden.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. Reducing time to measurement — fewer ontological categories, simpler models — is Occam's Razor in action. But if this reduction systematically misrepresents temporal experience, then simplicity is actively misleading. The apparent parsimony of "only physical time exists" conceals a void where lived experience should be.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. Reducing time to measurement — fewer ontological categories, simpler models — is Occam's Razor in action. But if this reduction systematically misrepresents temporal experience, then simplicity is actively misleading. The apparent parsimony of "only physical time exists" conceals a void where lived experience should be.
 
 The Map speculates that the duration void may be partly occluded rather than merely unexplorable. Heidegger's distinction between authentic temporality (owned, future-oriented, facing death) and inauthentic temporality (public clock-time, the "they-self") suggests that practical and social demands actively flatten durational experience into measured time. The dominance of schedules, deadlines, and timestamps in modern life may not merely fail to capture duration — it may suppress the capacity to inhabit duration at all.
 
 ## Further Reading
 
-- [[voids]] — The voids framework: unexplored, unexplorable, occluded
-- [[temporal-consciousness-void]] — Why consciousness is confined to a moving present
-- [[temporal-asymmetry-remembering-anticipating]] — Why past and future access differs
-- [[absorption-void]] — Peak engagement as peak self-opacity
-- [[the-unobservable-self]] — The subject that cannot be its own object
-- [[temporal-consciousness]] — Bergson's concept of lived time as qualitative multiplicity
-- [[philosophy-of-time]] — McTaggart's A/B series, presentism, and eternalism
+- [voids](/voids/) — The voids framework: unexplored, unexplorable, occluded
+- [temporal-consciousness-void](/voids/temporal-void/) — Why consciousness is confined to a moving present
+- [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why past and future access differs
+- [absorption-void](/voids/absorption-void/) — Peak engagement as peak self-opacity
+- [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot be its own object
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's concept of lived time as qualitative multiplicity
+- [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, and eternalism
 
 ## References
 

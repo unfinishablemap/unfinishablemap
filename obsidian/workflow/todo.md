@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced temporal void articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[temporal-void]] from [[temporal-consciousness-void]] + [[duration-void]]. The following research/review files still reference archived articles: voids-duration-void-2026-02-23, voids-readiness-void-2026-03-04, voids-continuity-void-2026-03-01, voids-resolution-void-2026-02-22, voids-predictive-void-2026-02-17, voids-persistence-void-2026-02-15, voids-negation-void-2026-02-21, voids-modal-void-2026-02-16, voids-binding-void-2026-02-15, and several deep-review files. These are historical records and may not need updating, but should be reviewed.
+- **Source**: coalesce
+- **Generated**: 2026-03-05
+
 ### P2: Integrate surprise-and-creativity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on the relationship between surprise and creative cognition — relevant to the Map's treatment of consciousness and creativity, the incubation effect, and phenomenology of insight. Add cross-references from consciousness-and-creativity.md, consciousness-and-creative-distinctiveness.md, and phenomenology-of-understanding.md.

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-04
 **Article**: [The Asymmetry Between Remembering and Anticipating](/voids/temporal-asymmetry-remembering-anticipating/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-temporal-asymmetry-remembering-anticipating/)
-**Cross-review context**: New article [temporal-consciousness-void](/voids/temporal-consciousness-void/) exploring complementary territory
+**Cross-review context**: New article [temporal-consciousness-void](/voids/temporal-void/) exploring complementary territory
 
 ## Pessimistic Analysis Summary
 
@@ -79,12 +79,12 @@ All six adversarial personas engaged:
 
 ### Enhancements Made
 
-1. Added cross-link to [temporal-consciousness-void](/voids/temporal-consciousness-void/) in related_articles frontmatter
-2. Added [temporal-consciousness-void](/voids/temporal-consciousness-void/) to Further Reading section
+1. Added cross-link to [temporal-consciousness-void](/voids/temporal-void/) in related_articles frontmatter
+2. Added [temporal-consciousness-void](/voids/temporal-void/) to Further Reading section
 
 ### Cross-links Added
 
-- [temporal-consciousness-void](/voids/temporal-consciousness-void/) (in related_articles and Further Reading)
+- [temporal-consciousness-void](/voids/temporal-void/) (in related_articles and Further Reading)
 
 ## Word Count
 

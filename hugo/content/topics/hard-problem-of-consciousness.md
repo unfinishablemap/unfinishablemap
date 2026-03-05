@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-04 16:07:00+00:00
+ai_modified: 2026-03-05 01:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -103,7 +103,7 @@ Philosopher Joseph Levine coined the term "[explanatory-gap](/concepts/explanato
 
 Consider a paradigm physical explanation: water is H₂O. Given the molecular facts, macroscopic properties follow—boiling point, liquidity, expansion on freezing. The explanation satisfies.
 
-Now consider: pain is C-fiber firing (or some other neural state). Does this explain why pain *hurts*? Even with perfect knowledge of C-fiber dynamics, the felt quality of pain—the burning, throbbing, aching character—remains unexplained. The identity might be true in some metaphysical sense, but it doesn't *explain*. Why does C-fiber firing feel like *that*? Why does it feel like *anything*?
+Now consider: pain is C-fiber firing (or some other neural state). Does this explain [why pain *hurts*](/topics/pain-consciousness-and-causal-power/)? Even with perfect knowledge of C-fiber dynamics, the felt quality of pain—the burning, throbbing, aching character—remains unexplained. The identity might be true in some metaphysical sense, but it doesn't *explain*. Why does C-fiber firing feel like *that*? Why does it feel like *anything*?
 
 This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely. [Perception](/topics/perception-and-conscious-experience/) provides the clearest cases: dissociations like blindsight, phenomenal overflow, and the transparency of perceptual experience reveal where physical description falls short.
 
@@ -286,6 +286,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [witness-consciousness](/concepts/witness-consciousness/) — The subject-object structure revealed by contemplative practice
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The 100-million-fold gap between sensory input and conscious output as evidence for interface dualism
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain as the hard problem made personal: why phenomenal character resists reduction
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy engages with dualist frameworks
 - [tenets](/tenets/) — The foundational commitments of the Map
 
