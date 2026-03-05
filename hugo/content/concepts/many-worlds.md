@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-05 16:17:00+00:00
+ai_modified: 2026-03-05 19:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,12 +21,14 @@ description: 'Why the Map rejects MWI: it raises unanswerable questions about in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 15:32:00+00:00
+last_deep_review: 2026-03-05 19:41:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
 - '[[decision-theory-cannot-save-many-worlds]]'
 - '[[probability-objections-many-worlds]]'
+- '[[quantum-probability-consciousness]]'
+- '[[indexical-identity-quantum-measurement]]'
 - '[[tenets]]'
 title: The Many-Worlds Interpretation
 topics:
@@ -67,7 +69,7 @@ MWI defenders invoke self-locating uncertainty: you should be uncertain which br
 
 ### 3. The Probability Problem
 
-Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it. See [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for a structured taxonomy of these objections.
+Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it (Graham 1973). See [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for a structured taxonomy of these objections.
 
 Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality. Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed. Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
@@ -173,6 +175,8 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it doesn't help MWI
 - [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — Structured taxonomy of probability and decision-theory objections to MWI
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — In-depth treatment of why probability fails in MWI
+- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How probability connects to consciousness across interpretations
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why indexical identity matters for quantum measurement
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [personal-identity](/topics/personal-identity/) — Why identity questions matter for MWI critique
 - [introspection](/concepts/introspection/) — The reliability of first-person evidence about anticipation
@@ -186,6 +190,7 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 1. Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
 1. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al., *Many Worlds?*
 1. Albert, D. & Loewer, B. (1988). Interpreting the Many Worlds Interpretation. *Synthese*.
+1. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
 1. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
 1. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

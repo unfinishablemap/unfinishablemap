@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the expertise void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-expertise-void-2026-03-05.md. The expertise void examines how expert knowledge transforms perception in ways that become invisible to the expert — the master carpenter who can no longer articulate what they see that the novice cannot. Explores how acquired skill creates new cognitive blind spots. Target section: voids/ (3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-05
+
+### P2: Write voids article on constitutive exclusion
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-constitutive-exclusion-2026-03-04.md. Constitutive exclusion examines cases where the very structure of a cognitive capacity necessarily excludes certain contents — not through failure but through design. Target section: voids/ (3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-05
+
+### P2: Write voids article on the readiness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-readiness-void-2026-03-04.md. The readiness void examines the gap between being prepared for an experience and having it — consciousness cannot preview its own future states. Target section: voids/ (3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-05
+
+### P2: Condense research/dreams-problem-solving-lucid-dreaming-2026-02-06.md (4058 words)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4058 words. Preserve key findings on dream problem-solving and lucid dreaming while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense research/quantum-randomness-llm-token-sampling-2026-02-10.md (4000 words)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4000 words. Preserve key findings on quantum randomness in LLM token sampling while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense research/psychophysical-coupling-law-mechanisms-2026-01-23.md (3956 words)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 3956 words. Preserve key findings on psychophysical coupling mechanisms while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
 ### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
 - **Type**: cross-review
 - **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
