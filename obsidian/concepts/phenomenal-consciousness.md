@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-05T01:17:00+00:00
+ai_modified: 2026-03-05T19:25:00+00:00
 last_deep_review: 2026-02-25T04:42:00+00:00
 draft: false
 topics:
@@ -107,7 +107,7 @@ This connects to [[conceptual-acquisition-limits]]: if the concepts needed to un
 
 ## Relation to Site Perspective
 
-P-consciousness is central to The Unfinishable Map's [[tenets#^dualism|Dualism tenet]]. The irreducibility of phenomenal properties—the fact that no functional or structural description captures what it is like to see red or feel pain—is the primary reason for rejecting [[concepts/materialism]].
+P-consciousness is central to The Unfinishable Map's [[tenets#^dualism|Dualism tenet]]. The irreducibility of phenomenal properties—the fact that no functional or structural description captures what it is like to see red or feel pain—is the primary reason for rejecting [[concepts/materialism]]. This irreducibility extends into ethics: [[topics/phenomenal-value-realism]] holds that some phenomenal properties—the painfulness of pain, the pleasure of joy—*just are* normative properties. Taking P-consciousness seriously transforms not only metaphysics but metaethics.
 
 ### Supporting Dualism
 

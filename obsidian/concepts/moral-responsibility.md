@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-04T15:54:00+00:00
+ai_modified: 2026-03-05T19:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -78,7 +78,7 @@ Compatibilist desert is pragmatic: holding people responsible has good consequen
 
 ## The Role of Consciousness
 
-Moral responsibility requires consciousness. The agent that sources action is a conscious being with [[mental-causation|mental causation]]. This connects to the [[consciousness-value-connection]]: just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). Only a conscious being can genuinely author choices for which they deserve praise or blame.
+Moral responsibility requires consciousness. The agent that sources action is a conscious being with [[mental-causation|mental causation]]. This connects to the [[consciousness-value-connection]]: just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). [[topics/phenomenal-value-realism]] deepens this: the felt badness of suffering *constitutes* badness, so the agent who causes suffering causes something genuinely bad—not by convention but by the nature of phenomenal experience. Only a conscious being can genuinely author choices for which they deserve praise or blame.
 
 **Experience of alternatives**: Conscious choice involves experiencing alternatives as live options. Under agent causation, this phenomenology tracks reality—the alternatives were genuinely possible.
 

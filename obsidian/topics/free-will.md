@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-28T12:00:00+00:00
+ai_modified: 2026-03-05T19:25:00+00:00
 last_deep_review: 2026-02-25T12:26:00+00:00
 draft: false
 topics:
@@ -239,6 +239,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[dream-consciousness]] — Dream evidence for consciousness's causal role in problem-solving
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms obligation, character, and the moral landscape
+- [[topics/phenomenal-value-realism]] — Why agency matters: the felt quality of experience constitutes value, making free choice morally significant
 - [[personal-identity]] — Why *you* are the author of your choices
 - [[existentialism]] — How Sartre's pour-soi illuminates agent causation
 - [[causal-interface]] — Why the mechanism of consciousness-physics interaction is systematically invisible

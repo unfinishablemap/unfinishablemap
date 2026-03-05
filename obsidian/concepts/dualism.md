@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-05T18:49:00+00:00
+ai_modified: 2026-03-05T19:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,6 +140,8 @@ But this strategy is self-undermining in a way eliminative materialism about oth
 Dualism is the Map's first foundational commitment—the [[tenets#^dualism|Dualism tenet]] states that consciousness is not reducible to physical processes.
 
 This commitment is not arbitrary but grounded in the convergence of arguments: the explanatory gap, conceivability arguments, the knowledge argument, and the intrinsic character of qualia all point the same direction. [[concepts/materialism]] in all its forms—reductive physicalism, functionalism, eliminativism—fails to bridge the gap between physical description and subjective experience.
+
+Dualism's most consequential implication may be ethical: if consciousness is irreducible, then [[topics/phenomenal-value-realism|phenomenal value]]—the felt badness of suffering, the felt goodness of joy—is irreducible too. Value resides in consciousness because consciousness is not decomposable into value-neutral physical facts.
 
 Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, the Map holds [[interactionist-dualism]]—consciousness is distinct *and* causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined. This combination preserves what matters for human agency and moral responsibility—our choices genuinely influence outcomes, not just in appearance but in reality.
 

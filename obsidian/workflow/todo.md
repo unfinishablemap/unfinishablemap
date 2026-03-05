@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-value-realism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Article (created 2026-02-02) with zero inbound wikilinks from published content. Argues that phenomenal value is real and irreducible — a foundational claim for the Map's ethics cluster. Should be linked from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-perception.md, and emotion-as-evidence-for-dualism.md. Supports Tenet 1 (Dualism).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Review many-worlds.md considering probability-objections-many-worlds insights
 - **Type**: cross-review
 - **Notes**: New article concepts/probability-objections-many-worlds.md details why the Born rule probability problem is unresolved in MWI. many-worlds.md is the central Many Worlds concept page and should cross-reference the new article's treatment of branch-counting, self-locating uncertainty, and decision-theoretic failures. Supports Tenet 4 (No Many Worlds).
@@ -638,6 +632,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Article (created 2026-02-02) with zero inbound wikilinks from published content. Argues that phenomenal value is real and irreducible — a foundational claim for the Map's ethics cluster. Should be linked from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-perception.md, and emotion-as-evidence-for-dualism.md. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/phenomenal-value-realism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Integrate pain-consciousness-and-causal-power.md into site navigation
 - **Type**: integrate-orphan

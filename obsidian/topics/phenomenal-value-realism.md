@@ -4,13 +4,13 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-05T01:17:00+00:00
+ai_modified: 2026-03-05T19:25:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
 concepts:
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[concept-of-phenomenal-value-realism]]"
   - "[[qualia]]"
   - "[[consciousness-value-connection]]"
   - "[[dualism]]"
@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-09T01:29:00+00:00
+last_deep_review: 2026-03-05T19:25:00+00:00
 coalesced_from:
   - "/topics/phenomenal-value-realism/"
   - "/topics/phenomenal-value-realism-development/"
@@ -243,7 +243,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 ## Further Reading
 
-- [[topics/phenomenal-value-realism|Phenomenal Value Realism (Concept)]] — The definitional article on this metaethical position
+- [[concept-of-phenomenal-value-realism|Phenomenal Value Realism (Concept)]] — The definitional article on this metaethical position
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[phenomenology-of-moral-experience]] — What moral perception feels like from the inside
 - [[meaning-of-life]] — How consciousness grounds meaning

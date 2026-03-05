@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-24T06:23:00+00:00
+ai_modified: 2026-03-05T19:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,6 +137,8 @@ The argument doesn't specify *what* that something is:
 - **Panpsychism** would say phenomenal properties are fundamental and widespread
 
 What all these views share is the denial that consciousness can be fully explained by physics. The zombie argument provides a reason to accept this denial.
+
+The ethical stakes are sharpened by [[topics/phenomenal-value-realism]]: if value resides in phenomenal consciousness, the zombie world is not merely experientially empty but morally empty—containing no value at all despite perfect physical structure.
 
 ## Objections and Complications
 

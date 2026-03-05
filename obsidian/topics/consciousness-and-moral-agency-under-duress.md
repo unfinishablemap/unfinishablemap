@@ -4,7 +4,7 @@ description: "How extreme pressure transforms conscious moral agency—exploring
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-17T23:47:00+00:00
+ai_modified: 2026-03-05T19:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -122,6 +122,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [[reasons-responsiveness]]
 - [[concepts/consciousness-selecting-neural-patterns]]
 - [[pain-consciousness-and-causal-power]]
+- [[topics/phenomenal-value-realism]] — Why duress matters morally: the felt badness of suffering constitutes genuine disvalue
 - [[spontaneous-intentional-action]]
 - [[moral-implications-of-genuine-agency]] — The broader moral implications when agency is real: obligation, character, moral luck
 

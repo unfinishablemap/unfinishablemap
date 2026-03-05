@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-04T22:32:00+00:00
+ai_modified: 2026-03-05T19:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -182,6 +182,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - [[phenomenal-concepts-strategy]] — A less radical physicalist approach
 - [[qualia]] — The properties illusionism denies
 - [[phenomenal-consciousness]] — The category illusionism claims is empty
+- [[topics/phenomenal-value-realism]] — If illusionism is correct, value itself becomes illusory—the highest-stakes consequence
 - [[meta-problem-of-consciousness]] — Chalmers's challenge: explaining why we think consciousness is puzzling
 - [[heterophenomenology]] — Dennett's methodological foundation for treating consciousness reports as data
 - [[concepts/materialism]] — The view illusionism radically defends
